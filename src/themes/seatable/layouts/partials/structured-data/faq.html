@@ -1,0 +1,20 @@
+{{ $faq := (.Page.Scratch.Get "faq-shortcodes") }}
+
+{{ $entries := slice }}
+
+{{ range $question, $answer := $faq }}
+    {{ $entry := dict
+        "@type" "Question"
+        "name" $question
+        "acceptedAnswer" (dict "@type" "Answer" "text" $answer)
+    }}
+    {{ $entries = $entries | append $entry }}
+{{ end }}
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": {{ $entries | jsonify (dict "indent" "    ") | safeJS }}
+    }
+</script>

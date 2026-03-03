@@ -1,5 +1,9 @@
-{{/* Required since every shortcode must evaluate .Inner */}}
-{{ $inner := .Inner }}
+{{/* Store shortcodes in scratch map since we want to access them inside the <head> to emit structured metadata */}}
+{{/* See structured-data/faq.html for details */}}
+
+{{ $title := .Get 0 }}
+{{ $content := (.Page.RenderString .Inner) | plainify }}
+{{ .Page.Scratch.SetInMap "faq-shortcodes" $title $content }}
 
 {{/* This partial is shared between the accordion shortcode and this shortcode */}}
 {{ partial "faq.html" . }}
