@@ -110,6 +110,12 @@
         {{ partial "structured-data/help-page.html" . }}
     {{- end }}
 
+    {{- if .HasShortcode "faq" }}
+        {{/* Ensure that the page is already rendered (see https://discourse.gohugo.io/t/is-there-any-way-to-get-parameters-from-shortcode-into-head-partial/32534/8 for details) */}}
+        {{ $noop := .Content }}
+        {{ partial "structured-data/faq.html" . }}
+    {{- end }}
+
 
     <!-- other css and html -->
     {{- partial "head/css.html" . -}}
