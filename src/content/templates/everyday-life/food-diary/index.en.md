@@ -63,7 +63,7 @@ sections:
       - text: 'Share with others: Share your digital food diary with doctors or nutritionists.'
       - text: 'Always at hand: You can access your food diary from anywhere at any time.'
       image_position: [left]
-      image: '/images/template_page_food_diary_01.jpg'
+      image: '/images/template_page_ernaehrungstagebuch_01.jpg'
       image_alt: 'Food diary template in table view with icons for data protection, sharing, and mobile use'
 
     - name: "content-13"
@@ -88,15 +88,15 @@ sections:
       items:
       - headline: 'Food Log'
         text: 'Record all meals and snacks along with their ingredients. You can easily enter all data via a customizable web form in the Universal App and adjust it at any time. Group and filter your entries or create new views to recognize patterns.'
-        image: '/images/template_page_food_diary_02.jpg'
+        image: '/images/template_page_ernaehrungstagebuch_02.jpg'
         image_alt: 'Free food diary template online with SeaTable, table, customizable, sharing with doctors, high data protection, and mobile access'
       - headline: 'Database for Intolerances and Allergens'
         text: 'SeaTable’s food diary template is more than a simple food log. The integrated and expandable database on food intolerances helps you find the most common symptoms and allergenic foods for the most widespread intolerances.'
-        image: '/images/template_page_food_diary_03.jpg'
+        image: '/images/template_page_ernaehrungstagebuch_03.jpg'
         image_alt: 'Database for intolerances and allergens in food diary with symptoms and food overview, customizable.'
       - headline: 'Universal App for Data Entry and Analysis'
         text: 'Your food log app consists of two parts: an Excel-like database and a no-code Universal App as a frontend. Here you will find the data entry form, an analysis dashboard, a daily fluid intake overview, and the search mask for the intolerance database.'
-        image: '/images/template_page_food_diary_04.jpg'
+        image: '/images/template_page_ernaehrungstagebuch_04.jpg'
         image_alt: 'Database, dashboard, and form for food diary.'
       
     - name: "banner-3"
@@ -141,7 +141,7 @@ sections:
       subtitle: 
       items:
       - text: 'With SeaTable’s integrated no-code template, you can create your completely personalized nutrition plan in just a few steps. In addition to meals, eating times, and symptoms, you can also track nutrients or detailed information on the eating situation or exercise patterns. Your requirements and wishes determine what your digital food diary looks like!'
-      image: '/images/template_page_food_diary_05.jpg'
+      image: '/images/template_page_ernaehrungstagebuch_05.jpg'
       image_alt: 'Custom food diary with SeaTable No-Code Builder, data collection of meals, nutrients, and symptoms.'
 
     - name: "faq"
