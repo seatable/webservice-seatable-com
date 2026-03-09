@@ -18,7 +18,7 @@ seo:
     description: 'Certifique-se de que a sua gestão da literatura é clara e isenta de erros. Eis algumas dicas sobre como utilizar um programa de gestão de referências.'
 ---
 
-Quer se trate de uma tese, dissertação ou relatório de investigação - um **programa de gestão de referências** facilita o trabalho em projectos científicos. A criação de **bibliografias** leva tanto tempo como a procura, visualização e análise de **fontes**.
+Quer se trate de uma tese, dissertação ou relatório de investigação – um **programa de gestão de referências** facilita o trabalho em projectos científicos. A criação de **bibliografias** leva tanto tempo como a procura, visualização e análise de **fontes**.
 
 Com um programa estruturado de gestão da bibliografia, é possível evitar erros nas listas de bibliografia e manter um **registo de todos os estudos relevantes** sobre o seu tema. Um programa de gestão de referências também o ajuda a criar as referências para as obras recolhidas num **estilo de citação** normalizado.
 
@@ -30,7 +30,7 @@ Ponha ordem na sua literatura científica! © caftor / Adobe Stock
 
 ## Porque é que um programa de gestão de referências é útil?
 
-Recolher provas para hipóteses, apresentar o estado atual da investigação ou fundamentar a sua própria abordagem: Nos projectos científicos, **a pesquisa e análise de fontes** é inevitável - seja em livros, revistas ou meios online. Um trabalho científico adequado implica um grande esforço, que pode ser minimizado através de uma gestão competente da literatura.
+Recolher provas para hipóteses, apresentar o estado atual da investigação ou fundamentar a sua própria abordagem: Nos projectos científicos, **a pesquisa e análise de fontes** é inevitável – seja em livros, revistas ou meios online. Um trabalho científico adequado implica um grande esforço, que pode ser minimizado através de uma gestão competente da literatura.
 
 Com um programa de gestão da literatura, pode ...
 
@@ -52,7 +52,7 @@ Decidiu utilizar software de literatura para trabalhar de forma mais eficiente? 
 
 Em primeiro lugar, obter uma visão geral das características.
 
-### Citavi - o clássico
+### Citavi – o clássico
 
 O Citavi é o programa de gestão de referências preferido em muitas universidades. As principais vantagens da utilização do Citavi neste domínio são o facto de poder ser utilizado em **alemão**, de **ser possível trabalhar em grupo sem restrições** e de existir **um bom apoio** em caso de dúvidas.
 
@@ -62,7 +62,7 @@ O trabalho de grupo é uma brincadeira de crianças com o Citavi.
 
 No entanto, ao contrário de muitos dos seus concorrentes, o programa **não é gratuito e só pode ser utilizado com o Windows**. Depois de 30 dias gratuitos, terá de fazer uma poupança. O preço a pagar depende da sua atividade e começa em 75 euros por ano para os estudantes na versão Web. As empresas pagam cerca de 425 euros pela versão Windows durante dois anos.
 
-### Zotero - o programa de nível básico
+### Zotero – o programa de nível básico
 
 O Zotero é particularmente adequado para principiantes, uma vez que é de utilização intuitiva e foi concebido para a investigação em todas as áreas temáticas. O programa é **gratuito**, funciona em todos os sistemas operativos comuns e também pode ser utilizado num telemóvel ou tablet graças a uma aplicação. No entanto, existem algumas vantagens e desvantagens em termos de conteúdo que devem ser tidas em conta:
 
@@ -78,7 +78,7 @@ O Zotero é particularmente adequado para principiantes, uma vez que é de utili
 - As pesquisas nas bases de dados do programa só são possíveis até certo ponto.
 - É necessário verificar as referências automáticas, que podem estar incorrectas ou incompletas.
 
-### Mendeley - o software na nuvem
+### Mendeley – o software na nuvem
 
 O Mendeley oferece-lhe uma **subscrição gratuita** com dois gigabytes de espaço de armazenamento na nuvem. Se isso não for suficiente, pode adquirir uma versão com mais espaço de armazenamento, apoio adicional, mais funcionalidades e melhor encriptação de dados por um preço a pedido. O programa funciona em todos os sistemas operativos.
 
@@ -88,7 +88,7 @@ Para além de utilizar o programa de secretária ou o Web Importer, também pode
 
 Apesar destas vantagens, o programa apresenta pontos fracos em termos de conteúdo. Os históricos de pesquisa não são guardados e nem todos os trabalhos guardados podem ser ligados entre si. Além disso, é necessário ter um bom conhecimento de inglês, uma vez que o programa só está disponível nesta língua.
 
-### EndNote - o polivalente
+### EndNote – o polivalente
 
 Com o EndNote obtém um **pacote completo com muitas funções úteis**, mas deve estar preparado para pagar um **preço elevado** por ele. O programa comercial de gestão de referências do fornecedor de serviços de informação Thomson-Reuters também oferece uma versão gratuita que pode ser testada durante **30 dias**. No entanto, as funções são muito limitadas.
 
@@ -100,7 +100,7 @@ O programa é especializado em cientistas que trabalham em grandes projectos de 
 
 É necessário adquirir uma versão completa para a poder utilizar indefinidamente. A partir de 252 euros para utilizadores individuais. Enquanto estudante, beneficia de um desconto de 50 por cento após verificação da sua identidade.
 
-### JabRef - o guru das línguas
+### JabRef – o guru das línguas
 
 O JabRef é um **sistema de gestão bibliográfica gratuito** e de código aberto. Os criadores da plataforma colocam o código fonte à disposição de todos para que muitos criadores possam contribuir para a otimização do software. Isto é particularmente evidente no facto de o programa estar disponível **em várias línguas**.
 
@@ -110,7 +110,7 @@ Qualquer pessoa que saiba orientar-se pode ajudar a melhorar o JabRef.
 
 No entanto, o JabRef também tem pontos fracos. A gestão de referências não funciona da melhor forma em dispositivos móveis, não é possível comunicar com outros utilizadores e não existe pesquisa de texto integral, o que dificulta a criação da bibliografia.
 
-### SeaTable - a solução de mesa inteligente
+### SeaTable – a solução de mesa inteligente
 
 O SeaTable oferece-lhe uma alternativa **tabular** aos programas de gestão de literatura já apresentados. A interface do utilizador é de utilização **intuitiva** e oferece muitas funcionalidades úteis para o ajudar a organizar a sua literatura de forma rápida e fácil.
 
@@ -134,34 +134,34 @@ Alguns programas de gestão de referências podem registar as fontes por DOI. ©
 
 ### 2\. introduzir cuidadosamente os dados bibliográficos
 
-Um programa de gestão de referências é tão bom quanto o seu utilizador - você. Por isso, certifique-se de que introduz os dados bibliográficos corretamente. Desta forma, o programa pode criar referências e bibliografias formatadas sem erros, uma vez que sabe exatamente a que informação pertence.
+Um programa de gestão de referências é tão bom quanto o seu utilizador – você. Por isso, certifique-se de que introduz os dados bibliográficos corretamente. Desta forma, o programa pode criar referências e bibliografias formatadas sem erros, uma vez que sabe exatamente a que informação pertence.
 
 Nem todas as informações sobre as suas fontes são relevantes para a posterior transferência para a bibliografia. Deve saber como citar corretamente as fontes para não ficar sobrecarregado com a informação gerada automaticamente por muitos programas:
 
-{{< faq "Autores" >}}
+{{< accordion "Autores" >}}
 
 Os autores devem ser indicados pelos apelidos e nomes próprios e, se for caso disso, pelos títulos académicos. Para além dos autores, os nomes dos editores também devem ser indicados para os volumes editados.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Ano" >}}
+{{< accordion "Ano" >}}
 
 Para além do ano, deve também indicar o dia e o mês de publicação para as fontes da Internet. Se se tratar de uma fonte sem ano, deve também indicá-lo.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Título" >}}
+{{< accordion "Título" >}}
 
 O título refere-se ao título do artigo, livro ou capítulo, caso se trate de uma antologia. Note-se que o título é sensível a maiúsculas e minúsculas.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Médio" >}}
+{{< accordion "Médio" >}}
 
 Na maioria dos casos, é suficiente indicar a revista ou obra em que o artigo foi publicado. Se se tratar de um livro, deve indicar a editora.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Número da edição e da página" >}}
+{{< accordion "Número da edição e da página" >}}
 
 Deve anotar estas informações com a maior exatidão possível. Contar os números das páginas, se não estiverem impressos.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### 3\. pesquisar novas fontes com o programa de gestão de referências
 

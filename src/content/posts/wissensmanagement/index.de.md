@@ -138,46 +138,46 @@ Wägen Sie die beiden Seiten gegeneinander ab.
 
 Möchten Sie in Ihrem Unternehmen ein erfolgreiches Wissensmanagement aufbauen, kommen Sie an einem **Wissensmanagementsystem** in Form einer Software kaum vorbei. Dabei ist die Auswahl an passenden **Softwarelösungen** groß. Je nach Ihren Anforderungen gibt es eine enorme Bandbreite an Systemen mit unterschiedlichem Fokus:
 
-{{< faq "Wikis und Informationsmanagementsysteme" >}}
+{{< accordion "Wikis und Informationsmanagementsysteme" >}}
 
 Beispiele: Confluence, Guru
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Groupware und Kollaborationssysteme" >}}
+{{< accordion "Groupware und Kollaborationssysteme" >}}
 
 Beispiele: BSCW, Microsoft SharePoint
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Instant Messenger und Kommunikationssysteme" >}}
+{{< accordion "Instant Messenger und Kommunikationssysteme" >}}
 
 Beispiele: Slack, Microsoft Teams
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Dokumentenmanagement- und Dateiaustauschsysteme" >}}
+{{< accordion "Dokumentenmanagement- und Dateiaustauschsysteme" >}}
 
 Beispiele: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Customer-Relationship-Management-Systeme" >}}
+{{< accordion "Customer-Relationship-Management-Systeme" >}}
 
 Beispiele: Pipedrive, Salesforce
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Projektmanagementsysteme" >}}
+{{< accordion "Projektmanagementsysteme" >}}
 
 Beispiele: Asana, Jira
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "HR- und Personalmanagementsysteme" >}}
+{{< accordion "HR- und Personalmanagementsysteme" >}}
 
 Beispiele: Personio, DATEV
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Contentmanagementsysteme" >}}
+{{< accordion "Contentmanagementsysteme" >}}
 
 Beispiele: WordPress, TYPO3
 
-{{< /faq >}}
+{{< /accordion >}}
 
 Um die für Ihr Unternehmen passende Software zu finden, sollten Sie mehrere Lösungen testen und sich dabei folgende Fragen stellen:
 

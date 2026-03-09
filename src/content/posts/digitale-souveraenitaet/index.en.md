@@ -43,25 +43,25 @@ Data is collected, processed or transmitted in almost all digital processes. An 
 
 Digital sovereignty has advantages in the following respects:
 
-{{< faq "Technological independence" >}}
+{{< accordion "Technological independence" >}}
 To avoid losing control and being vulnerable to blackmail, companies and countries should reduce their dependence on other countries and individual technology companies and instead develop their own alternatives or at least position themselves more broadly to be able to choose from several options.  
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Control over infrastructure" >}}
+{{< accordion "Control over infrastructure" >}}
 To control [data flows]({{< relref "posts/20250317-datenmanagement" >}}) and protect them from attacks, you need either your own digital infrastructure with robust security measures or dedicated servers in secure data centers in your region. Due to the high energy requirements and construction costs of data centers, investments are necessary at the state level.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Strategic competitiveness" >}}
+{{< accordion "Strategic competitiveness" >}}
 Those who have control over technologies, data and digital infrastructures hold the key to the value creation of the future. After all, artificial intelligence, automation and data-based business models will continue to shape the economy. Without digital sovereignty, it will be difficult to survive in [competition]({{< relref "posts/wettbewerbsanalyse" >}}).
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Data protection and democracy" >}}
+{{< accordion "Data protection and democracy" >}}
 The protection of personal data, privacy and trade secrets is of central importance for democratic self-determination. Digital platforms are increasingly influencing social debates, political decisions and even elections. In this respect, digital sovereignty means holding these platforms accountable to your own system of laws and values.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Compliance (e.g. GDPR compliance)" >}}
+{{< accordion "Compliance (e.g. GDPR compliance)" >}}
 Digital sovereignty makes it much easier to minimize legal risks in connection with data protection regulations. This is because they usually require transparency regarding the storage, transfer and use of data, which you cannot guarantee if you hand over the data.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## How digital dependency comes about
 

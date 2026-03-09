@@ -95,29 +95,29 @@ Shadow IT, que é geralmente menos bem concebida e testada do que os sistemas de
 
 ### Os riscos de Shadow IT num relance
 
-{{< faq "Perda de controlo" >}}
+{{< accordion "Perda de controlo" >}}
 As TI sombra escapam à governação das TI. Se a gestão de serviços de TI não tiver uma visão geral das ferramentas utilizadas, não pode incluí-las no suporte e em estratégias futuras, migrações ou actualizações.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Má qualidade" >}}
+{{< accordion "Má qualidade" >}}
 As TI sombra raramente são devidamente documentadas, testadas e mantidas. Os erros do sistema ou as aplicações instáveis podem ser o resultado se as soluções de TI forem criadas rapidamente e sem conhecimentos especializados.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Soluções isoladas e silos de dados" >}}
+{{< accordion "Soluções isoladas e silos de dados" >}}
 Os departamentos podem criar soluções complicadas e isoladas que não estão integradas noutros sistemas. Os silos de dados não sincronizados tornam os processos ineficientes e redundantes.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Riscos de segurança" >}}
+{{< accordion "Riscos de segurança" >}}
 Muitas vezes, os sistemas de Shadow IT não cumprem as normas de segurança de toda a empresa (por exemplo, encriptação, autenticação), o que os torna vulneráveis a ciberataques e fugas de dados. As instalações não controladas também podem abrir a porta ao malware.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Violações de conformidade" >}}
+{{< accordion "Violações de conformidade" >}}
 As TI sombra são muitas vezes incompatíveis com a proteção de dados em conformidade com o RGPD, as certificações ISO e outros requisitos. No caso dos serviços em nuvem, a localização dos servidores fora da UE pode ser problemática.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Custos imprevisíveis" >}}
+{{< accordion "Custos imprevisíveis" >}}
 Sem transparência, as empresas perdem rapidamente o controlo dos custos, por exemplo, devido à duplicação de subscrições/licenças para ferramentas semelhantes. Se houver consequências legais devido a violações de conformidade, existe o risco de coimas elevadas.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Gestão de riscos de TI
 

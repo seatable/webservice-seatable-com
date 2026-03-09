@@ -29,35 +29,35 @@ The data records in the departments are then not only **isolated**, but also **r
 
 Get an overview of the benefits that master data management can have for you:
 
-{{< faq "Greater efficiency and less redundancy" >}}
+{{< accordion "Greater efficiency and less redundancy" >}}
 
 A master data management tool can synchronize and merge data from different systems. This allows you to avoid duplicate and inconsistent information. It is also much more efficient to only make changes to the master data record than to have to manually update data records in many different places.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Lower IT costs" >}}
+{{< accordion "Lower IT costs" >}}
 
 By maintaining only one master data set that can be accessed by all departments, you avoid unnecessary data silos. As a result, you can replace a large number of different systems that consume more storage and computing capacity and cause higher costs than centralized master data management. This saves you money.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Well-founded analyses and decisions" >}}
+{{< accordion "Well-founded analyses and decisions" >}}
 
 Analyzing incorrect or outdated data leads to useless results. In a master data management system, on the other hand, you will find cleansed and updated data that forms a reliable foundation for your analyses and strategic decisions. With the help of BI tools that use this master data, you can uncover reliable figures and insights for reports and presentations.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Smooth, automated business processes" >}}
+{{< accordion "Smooth, automated business processes" >}}
 
 Standardized, up-to-date and correct master data enables smooth processes, for example in marketing and sales. Think, for example, of sending personalized advertising to customer addresses that are no longer correct. With high-quality customer data, on the other hand, you can accelerate and automate the lead-to-cash process.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Easier implementation of data protection" >}}
+{{< accordion "Easier implementation of data protection" >}}
 
 You can comply with legal requirements such as the GDPR more easily if you store all data in a central location in a traceable manner. For example, the GDPR regulates when you have to delete certain data. Without master data management, this data can be scattered across several data silos, which makes compliance more difficult.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## What counts as master data?
 

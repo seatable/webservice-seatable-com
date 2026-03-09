@@ -34,35 +34,35 @@ Um Ihre Produkte oder Dienstleistungen zu möglichst geringen Kosten anbieten zu
 
 Die Ziele lassen sich daher wie folgt zusammenfassen:
 
-{{< faq "Marktpräsenz" >}}
+{{< accordion "Marktpräsenz" >}}
 
 Erhöhen Sie die Verfügbarkeit Ihrer Produkte an allen relevanten Verkaufsorten, zum Beispiel in Online-Shops oder im stationären Einzelhandel.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Kundenzufriedenheit" >}}
+{{< accordion "Kundenzufriedenheit" >}}
 
 Sorgen Sie für stabile Lieferketten und Verpackungen, damit Ihre Produkte termingerecht und unversehrt beim Kunden ankommen.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Kosteneffizienz" >}}
+{{< accordion "Kosteneffizienz" >}}
 
 Optimieren Sie Ihre Distributionslogistik, um Überproduktion, Lieferengpässe, Verluste und Reklamationen zu vermeiden und so Kosten zu sparen.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Umsatzsteigerung" >}}
+{{< accordion "Umsatzsteigerung" >}}
 
 Versuchen Sie durch strategische Platzierung an den richtigen Verkaufsstellen das Kaufverhalten der Kunden positiv zu beeinflussen.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Wettbewerbsvorteile" >}}
+{{< accordion "Wettbewerbsvorteile" >}}
 
 Sichern Sie sich exklusive Vertriebskanäle und seien Sie der Konkurrenz dank einer durchdachten Distributionspolitik immer einen Schritt voraus.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Die Rolle der Distributionspolitik im Marketing-Mix
 

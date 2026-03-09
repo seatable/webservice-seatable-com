@@ -208,16 +208,16 @@ Para expresar confianza en ti mismo, utiliza frases activas y dirígete directam
 
 Aquí encontrará ayudas de formulación para diversas situaciones de la carta de presentación:
 
-{{< faq "Establecer referencias de empresas y temas" >}}Ya he adquirido conocimientos sobre el trabajo periodístico durante varias prácticas en el sector de los medios de comunicación. Ahora me gustaría aplicar las competencias que he adquirido allí a las relaciones públicas de su empresa internacional y desarrollarlas aún más.{{< /faq >}}
+{{< accordion "Establecer referencias de empresas y temas" >}}Ya he adquirido conocimientos sobre el trabajo periodístico durante varias prácticas en el sector de los medios de comunicación. Ahora me gustaría aplicar las competencias que he adquirido allí a las relaciones públicas de su empresa internacional y desarrollarlas aún más.{{< /accordion >}}
 
-{{< faq "Empaquetar la experiencia profesional de forma rentable" >}}Gracias a mis 10 años en ventas, sé cómo inspirar a los clientes en el contacto directo, por lo que puedo aumentar con éxito la facturación de su equipo de ventas.{{< /faq >}}
+{{< accordion "Empaquetar la experiencia profesional de forma rentable" >}}Gracias a mis 10 años en ventas, sé cómo inspirar a los clientes en el contacto directo, por lo que puedo aumentar con éxito la facturación de su equipo de ventas.{{< /accordion >}}
 
-{{< faq "Desarrollar cualificaciones especializadas" >}}Gracias a mis estudios de Románicas, domino el español y el francés a nivel B2 y he aplicado y profundizado estos conocimientos durante las prácticas en el extranjero, en Madrid y París.{{< /faq >}}
+{{< accordion "Desarrollar cualificaciones especializadas" >}}Gracias a mis estudios de Románicas, domino el español y el francés a nivel B2 y he aplicado y profundizado estos conocimientos durante las prácticas en el extranjero, en Madrid y París.{{< /accordion >}}
 
-{{< faq "Establecer competencias interpersonales" >}}
+{{< accordion "Establecer competencias interpersonales" >}}
 
 "En mi puesto de jefe de equipo adjunto, he desarrollado un estilo de gestión colegiado en el que trato a mis empleados como iguales y les asigno tareas en función de sus capacidades individuales. Juntos, completamos el proyecto en la mitad del tiempo previsto".
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Lista de control
 

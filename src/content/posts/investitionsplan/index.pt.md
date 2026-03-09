@@ -38,21 +38,21 @@ Além disso, os investimentos resultam normalmente numa elevada **necessidade de
 
 Em função do objetivo e do momento do investimento, podem distinguir-se 4 tipos de investimento:
 
-{{< faq "Investimento inicial" >}}
+{{< accordion "Investimento inicial" >}}
 Um investimento inicial, também conhecido como investimento de arranque, compreende todas as despesas que efectua para o equipamento inicial da sua empresa, a fim de fazer arrancar o seu negócio. Regra geral, o capital necessário é mais elevado para este tipo de investimento. É feita uma distinção entre os verdadeiros investimentos e as despesas de arranque puras, como os registos junto das autoridades, que não contribuem para aumentar o valor da sua empresa.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Investimento de expansão" >}}
+{{< accordion "Investimento de expansão" >}}
 Os investimentos de expansão são despesas com as quais expande as suas capacidades. Por exemplo, se a procura dos seus produtos ou serviços tiver aumentado, deve incluir mais maquinaria ou pessoal no seu plano de investimento. Um investimento de expansão é geralmente amortizado após um curto período de tempo, uma vez que é acompanhado por um aumento previsível do volume de negócios.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Investimento de racionalização" >}}
+{{< accordion "Investimento de racionalização" >}}
 A principal coisa que espera de um investimento de racionalização é uma poupança de custos. Por exemplo, pode investir em robots para automatizar e acelerar os processos de produção, de modo a poupar nos custos de mão de obra. No entanto, em comparação com um investimento de expansão, não está a aumentar a capacidade, mas sobretudo a eficiência.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Investimento de substituição" >}}
+{{< accordion "Investimento de substituição" >}}
 Um investimento de substituição é necessário se precisar de substituir completamente um ativo obsoleto ou defeituoso para manter a sua empresa em funcionamento. Também é conhecido como reinvestimento. Trata-se simplesmente de manter ou restaurar o estado anterior sem alterar a capacidade ou a eficiência da sua empresa.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Vida útil e depreciação de bens de equipamento
 

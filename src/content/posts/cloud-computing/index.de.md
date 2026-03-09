@@ -40,25 +40,25 @@ Zusätzlich zur oben genannten Cloud Computing Definition gelten 6 Merkmale als 
 
 Nachdem wir das Cloud Computing einfach erklärt haben, blicken wir auf die Vorteile, die Ihnen die oben genannten Eigenschaften einer Cloud bieten.
 
-{{< faq "Kosteneffizienz und Komfort" >}}
+{{< accordion "Kosteneffizienz und Komfort" >}}
 Wenn Sie Cloud Services in Anspruch nehmen, sparen Sie sich hohe Investitionen in eigene Server und zahlen nur für die Ressourcen, die Sie tatsächlich nutzen (Pay-as-you-go-Prinzip). Da Sie sich kaum noch um lokale Infrastruktur kümmern müssen, haben Ihre IT-Mitarbeiter mehr Zeit für wichtigere Themen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Schnelle Bereitstellung" >}}
+{{< accordion "Schnelle Bereitstellung" >}}
 Beim Cloud Computing können Sie in wenigen Minuten die notwendigen Komponenten freischalten, anstatt wochenlang auf bestellte Hardware warten, Ihr System konfigurieren und Software installieren zu müssen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Unabhängigkeit von Orten und Geräten" >}}
+{{< accordion "Unabhängigkeit von Orten und Geräten" >}}
 Ihre Mitarbeiter können jederzeit und von überall auf ihre Daten und Anwendungen in der Cloud zugreifen. So entsteht auch kein Datenverlust durch lokale Speicherung, wenn doch mal ein Endgerät kaputt oder verloren geht.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Aktualität und Produktivität" >}}
+{{< accordion "Aktualität und Produktivität" >}}
 In einer Cloud sehen alle Benutzer die aktuelle Version ihrer gespeicherten Daten und Dokumente. Änderungen werden in Echtzeit synchronisiert, was die Zusammenarbeit erheblich verbessert.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Elastizität und Skalierbarkeit" >}}
+{{< accordion "Elastizität und Skalierbarkeit" >}}
 Passen Sie Ihre Cloud-Infrastruktur jederzeit flexibel an Ihre Bedürfnisse und Datenmengen an. Cloud Computing erlaubt es Ihrem Unternehmen zu wachsen, ohne dass die IT-Infrastruktur zum Flaschenhals wird.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Szenarien, für die Cloud Computing die Lösung ist
 
@@ -83,7 +83,7 @@ Im Folgenden stellen wir Ihnen drei weitverbreitete Cloud Computing Dienste vor:
 
 ### Was ist SaaS?
 
-Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa CRM-Systeme oder [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
+Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa [CRM-Systeme]({{< relref "pages/industry-solutions/kundenmanagement" >}}) oder [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
 
 ### Was ist PaaS?
 
@@ -109,7 +109,7 @@ Es gibt verschiedene Cloud Computing Modelle, die sich nach der **Bereitstellung
 - **Private Cloud**: Eine private Cloud hosten und verwalten Sie selbst in Ihrem eigenen Netzwerk. Demzufolge müssen Sie sich auch selbst um die Infrastruktur kümmern. Dafür stehen die IT-Ressourcen exklusiv nur Ihrem Unternehmen zur Verfügung.
 - **Hybrid Cloud**: Beim Hybrid Cloud Computing kombinieren Sie Public Cloud und Private Cloud. Beispielsweise können Sie einen Teil Ihrer Daten auf Ihren eigenen Servern speichern und gleichzeitig zusätzliche Ressourcen und Anwendungen in einer Public Cloud nutzen.
 
-Der Hauptunterschied dieser Cloud Computing Modelle besteht darin, inwiefern Sie **selbst für die IT-Ressourcen sorgen** möchten, die Ihr Unternehmen benötigt. Je mehr Infrastruktur Sie besitzen, desto mehr Datenhoheit und Kontrolle haben Sie, aber desto höher sind auch Ihr Aufwand und Ihre Kosten.
+Der Hauptunterschied dieser Cloud Computing Modelle besteht darin, inwiefern Sie **selbst für die IT-Ressourcen sorgen** möchten, die Ihr Unternehmen benötigt. Je mehr Infrastruktur Sie besitzen, desto mehr [Datenhoheit und Kontrolle]({{< relref "posts/digitale-souveraenitaet" >}}) haben Sie, aber desto höher sind auch Ihr Aufwand und Ihre Kosten.
 
 |                                            | **Public Cloud**                                                                 | **Hybrid Cloud**                                                                  | **Private Cloud**                                                                            |
 | ------------------------------------------ | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |

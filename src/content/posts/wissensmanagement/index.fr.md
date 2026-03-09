@@ -140,46 +140,37 @@ Pesez le pour et le contre.
 
 Si vous souhaitez mettre en place une gestion des connaissances efficace dans votre entreprise, vous ne pouvez guère faire l'impasse sur un **système de gestion des connaissances** sous la forme d'un logiciel. Le choix de **solutions logicielles** adaptées est vaste. En fonction de vos exigences, il existe une énorme variété de systèmes avec des objectifs différents :
 
-{{< faq "Wikis et systèmes de gestion de l'information" >}}
+{{< accordion "Wikis et systèmes de gestion de l'information" >}}
+Exemples : Confluence, Guru
+{{< /accordion >}}
 
-exemples : Confluence, Guru
-{{< /faq >}}
+{{< accordion "Groupware et systèmes de collaboration" >}}
+Exemples : BSCW, Microsoft SharePoint
+{{< /accordion >}}
 
-{{< faq "Groupware et systèmes de collaboration" >}}
-
-des exemples : BSCW, Microsoft SharePoint
-{{< /faq >}}
-
-{{< faq "Messageries instantanées et systèmes de communication" >}}
-
+{{< accordion "Messageries instantanées et systèmes de communication" >}}
 Exemples : Slack, Microsoft Teams
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Systèmes de gestion de documents et d'échange de fichiers" >}}
-
+{{< accordion "Systèmes de gestion de documents et d'échange de fichiers" >}}
 Exemples : Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Systèmes de gestion de la relation client" >}}
+{{< accordion "Systèmes de gestion de la relation client" >}}
+Exemples : Pipedrive, Salesforce
+{{< /accordion >}}
 
-exemples : Pipedrive, Salesforce
-{{< /faq >}}
-
-{{< faq "Systèmes de gestion de projets" >}}
-
+{{< accordion "Systèmes de gestion de projets" >}}
 Exemples : Asana, Jira
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Systèmes de gestion des RH et du personnel" >}}
-
+{{< accordion "Systèmes de gestion des RH et du personnel" >}}
 Exemples : Personio, DATEV
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Systèmes de gestion de contenu" >}}
-
-des exemples : WordPress, TYPO3
-
-{{< /faq >}}
+{{< accordion "Systèmes de gestion de contenu" >}}
+Exemples : WordPress, TYPO3
+{{< /accordion >}}
 
 Pour trouver le logiciel le mieux adapté à votre entreprise, vous devriez tester plusieurs solutions en vous posant les questions suivantes :
 

@@ -54,7 +54,7 @@ La inteligencia artificial suele clasificarse en **inteligencia artificial fuert
 
 Hoy en día, la inteligencia artificial casi siempre se refiere a la IA débil. Está especializada en realizar **tareas recurrentes y claramente definidas** particularmente bien.
 
-Sin embargo, la IA débil no puede pensar, desarrollar intenciones ni reflexionar sobre sí misma. No tiene creatividad y no aprende de forma autónoma, sino que tiene que ser entrenada. Su capacidad de aprendizaje suele limitarse a la aplicación de algoritmos (instrucciones claras para resolver determinados problemas) y a reconocer patrones en grandes cantidades de datos. Esto es especialmente útil en la [automatización de procesos]({{< relref "pages/industry-solutions/operations" >}}) y en el **procesamiento del lenguaje y la imagen**.
+Sin embargo, la IA débil no puede pensar, desarrollar intenciones ni reflexionar sobre sí misma. No tiene creatividad y no aprende de forma autónoma, sino que tiene que ser entrenada. Su capacidad de aprendizaje suele limitarse a la aplicación de algoritmos (instrucciones claras para resolver determinados problemas) y a reconocer patrones en grandes cantidades de datos. Esto es especialmente útil en la [automatización de procesos]({{< relref "pages/ai-automations" >}}) y en el **procesamiento del lenguaje y la imagen**.
 
 ### IA fuerte
 
@@ -163,29 +163,29 @@ Todavía estamos muy lejos del escenario de terror de una inteligencia artificia
   
 Los mayores problemas que rodean a la inteligencia artificial son
 
-{{< faq "Respuestas incorrectas debidas a datos defectuosos" >}}
+{{< accordion "Respuestas incorrectas debidas a datos defectuosos" >}}
 En un sistema de IA pueden producirse interpretaciones erróneas y conclusiones incorrectas si el modelo de IA contiene datos incorrectos o anticuados o vincula datos que no están relacionados. La frecuencia con la que esto ocurre depende esencialmente de la calidad, la oportunidad y la cantidad de los datos de entrenamiento. En el caso de los chatbots, las respuestas generadas por la IA se basan a veces en datos de entrenamiento que tienen varios meses o años. Como resultado, los modelos de IA a menudo fallan a la hora de categorizar las noticias actuales, lo que hace indispensable el periodismo real. Analice siempre de forma crítica si los contenidos generados por la IA pueden ser correctos y obtenga información adicional de medios de comunicación fiables.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Alucinar e inventar hechos" >}}
+{{< accordion "Alucinar e inventar hechos" >}}
 ChatGPT, Gemini, Copilot y Perplexity suenan convincentes, aunque afirmen cosas completamente falsas. Según un [estudio de la UER](https://www.ebu.ch/Report/MIS-BBC/NI_AI_2025.pdf), una media del 45% de sus respuestas contienen errores o hechos inventados. Las llamadas alucinaciones surgen porque la IA no tiene conocimiento de los hechos. Aunque puede generar cadenas de palabras estadísticamente plausibles, no puede comprobar si una afirmación es cierta. Se inventa la información que falta y a veces incluso nombra fuentes que no existen en absoluto. Por lo tanto, se aplica lo siguiente: nunca confíe ciegamente en las respuestas generadas por la IA y compruebe la información importante utilizando fuentes fiables.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Decisiones discriminatorias" >}}
+{{< accordion "Decisiones discriminatorias" >}}
 La IA aprende patrones humanos a partir de los datos, algunos de los cuales reflejan prejuicios y modelos de conducta existentes. Esto puede dar lugar a decisiones discriminatorias, por ejemplo a la hora de solicitar un empleo o de conceder un préstamo. En [un caso muy conocido](https://www.heise.de/news/Amazon-KI-zur-Bewerbungspruefung-benachteiligte-Frauen-4189356.html), un algoritmo de solicitud discriminó involuntariamente a las mujeres. Como en el sector de las TI trabajan más hombres que mujeres y la empresa había contratado mayoritariamente a hombres en los diez años anteriores, la IA filtró las solicitudes de las mujeres basándose en estos datos de entrenamiento. Por lo tanto, para que la inteligencia artificial pueda tomar decisiones más objetivas que los humanos en el futuro, debe entrenarse con conjuntos de datos equilibrados.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Desinformación y fraude mediante deepfakes" >}}
+{{< accordion "Desinformación y fraude mediante deepfakes" >}}
 Los textos, imágenes y vídeos generados por la IA pueden ahora parecer muy realistas y utilizarse específicamente para engañar a la gente. Los llamados deepfakes utilizan la inteligencia artificial para falsificar rostros y voces en vídeos o fotos. Por ejemplo, la inteligencia artificial puede crear un vídeo en el que los famosos hacen declaraciones que nunca han dicho en la realidad. Es difícil reconocer a la inteligencia artificial en esto. Los actores desleales pueden generar imágenes de inteligencia artificial engañosamente reales y utilizarlas para manipular identidades, engañar a los sistemas biométricos o llevar a cabo campañas de desinformación. La información falsa y las falsedades se difunden rápidamente en las redes sociales gracias a la inteligencia artificial, porque muchos usuarios las comparten sin comprobarlas y los algoritmos favorecen los contenidos controvertidos.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Alto consumo energético de los centros de datos de IA" >}}
+{{< accordion "Alto consumo energético de los centros de datos de IA" >}}
 Para entrenar los sistemas de IA mediante algoritmos de aprendizaje y grandes cantidades de datos se necesitan costosos procesadores informáticos con una gran potencia de cálculo. Un solo centro de datos de IA puede consumir tanta electricidad como una gran ciudad. Como gran parte de ésta se sigue generando a partir de combustibles fósiles, el [impacto medioambiental de la IA](https://www.tagesschau.de/wirtschaft/energie/kuenstliche-intelligenz-energieverbrauch-100.html) también es un problema. Los conceptos inteligentes in situ que utilizan el calor residual de los centros de datos, por ejemplo, pueden mitigar estos efectos.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Protección de datos y dependencia de los gigantes tecnológicos" >}}
+{{< accordion "Protección de datos y dependencia de los gigantes tecnológicos" >}}
 El uso de la inteligencia artificial requiere grandes cantidades de datos, que también pueden contener mucha información sensible y personal. Por ejemplo, los operadores de las redes sociales recopilan grandes cantidades de datos de los usuarios que más tarde pueden utilizarse para mostrar publicidad personalizada con el fin de influir en las decisiones de voto o de compra. Por tanto, resulta problemático que la mayor parte de estos datos estén en manos de unos pocos gigantes tecnológicos de EE.UU. y China. Los propios modelos de IA también proceden predominantemente de EE.UU., lo que conduce a un alto nivel de dependencia tecnológica. Una alternativa europea son los modelos lingüísticos de código abierto de Mistral AI.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Las mejores prácticas para abordar la IA en las empresas
 

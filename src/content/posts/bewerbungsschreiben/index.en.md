@@ -204,21 +204,21 @@ To express self-confidence, use active sentences and address people directly. Ma
 
 Here you will find formulation aids for various situations in the cover letter:
 
-{{< faq "Establish company and topic reference" >}}
+{{< accordion "Establish company and topic reference" >}}
 I have already gained insights into journalistic work during several internships in the media industry. Now I would like to apply the skills I acquired there to the PR of your international company and develop them further.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Packaging professional experience profitably" >}}
+{{< accordion "Packaging professional experience profitably" >}}
 Thanks to my 10 years in sales, I know how to inspire customers in direct contact, which is why I can successfully increase turnover in your sales team.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Developing professional qualifications" >}}
+{{< accordion "Developing professional qualifications" >}}
 Thanks to my Romance studies, I have a B2-level command of Spanish and French and have applied and deepened this knowledge during internships abroad in Madrid and Paris.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Establish soft skills" >}}
+{{< accordion "Establish soft skills" >}}
 In my position as deputy team leader, I have developed a collegial management style in which I treat my employees as equals and assign them tasks based on their individual skills. Together, we completed the project in half the allotted time.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Checklist
 

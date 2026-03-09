@@ -89,26 +89,26 @@ James Clears Bestseller enthält nützliche Tipps.
 
 Die folgenden Tipps stammen aus dem Buch **Die 1% Methode** (auf Englisch _Atomic Habits_) von James Clear und können Ihren Habit Tracker noch effektiver machen.
 
-{{< faq "Gewohnheiten in den Alltag einbauen" >}}
+{{< accordion "Gewohnheiten in den Alltag einbauen" >}}
 
 Um eine wünschenswerte Handlung verbindlicher zu machen, sollten Sie diese mit Ort und Zeit der Ausführung verknüpfen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Neues und Altes verbinden" >}}
+{{< accordion "Neues und Altes verbinden" >}}
 
 Bereits automatisierte Gewohnheiten können Ihnen das Erlernen neuer Gewohnheiten erleichtern. Führen Sie einfach eine aktuelle und eine neue Gewohnheit nacheinander aus.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Anreize und Belohnungen nutzen" >}}
+{{< accordion "Anreize und Belohnungen nutzen" >}}
 
 Nicht alle Gewohnheiten, die Sie erlernen möchten, bereiten Ihnen Freude. Daher kann es helfen, mit einem Belohnungssystem zu arbeiten. Führen Sie eine Ihnen unliebsame Aufgabe aus und belohnen Sie sich danach mit etwas, das Ihnen leichtfällt und Spaß macht.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "2-Minuten-Habits" >}}
+{{< accordion "2-Minuten-Habits" >}}
 
 Wenn eine Aktivität weniger als zwei Minuten dauert, können Sie sie sofort erledigen, da sie wenig Energie und Überwindung kostet. Zu Beginn Ihrer Tracking-Reise ist es sinnvoll, erstmal klein anzufangen. Gewohnheiten, die Sie in zwei Minuten ausführen können, motivieren und bieten die Möglichkeit, sie beliebig auszuweiten.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Fortschritte feiern
 

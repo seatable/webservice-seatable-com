@@ -8,7 +8,8 @@ date: 2025-05-06
 categories:
     - 'best-practice'
 tags:
-    - 'Distribution'
+    - 'Planification Commerciale'
+    - 'Approvisionnement & Logistique'
 url: '/fr/politique-de-distribution'
 color: '#e9d3b4'
 ---
@@ -33,35 +34,35 @@ Pour pouvoir proposer vos produits ou services au coût le plus bas possible, un
 
 Les objectifs peuvent donc être résumés comme suit :
 
-{{< faq "Présence sur le marché" >}}
+{{< accordion "Présence sur le marché" >}}
 
 Augmentez la disponibilité de vos produits dans tous les points de vente pertinents, par exemple dans les boutiques en ligne ou dans le commerce de détail stationnaire.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Satisfaction des clients" >}}
+{{< accordion "Satisfaction des clients" >}}
 
 Assurez la stabilité des chaînes d'approvisionnement et des emballages pour que vos produits arrivent intacts et dans les délais chez vos clients.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Efficacité des coûts" >}}
+{{< accordion "Efficacité des coûts" >}}
 
 Optimisez votre logistique de distribution pour éviter la surproduction, les ruptures de stock, les pertes et les réclamations, et ainsi réduire les coûts.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Augmentation du chiffre d'affaires" >}}
+{{< accordion "Augmentation du chiffre d'affaires" >}}
 
 Essayez d'influencer positivement le comportement d'achat des clients en les plaçant stratégiquement aux bons points de vente.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Avantages concurrentiels" >}}
+{{< accordion "Avantages concurrentiels" >}}
 
 Assurez-vous des canaux de distribution exclusifs et ayez toujours une longueur d'avance sur vos concurrents grâce à une politique de distribution bien pensée.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Le rôle de la politique de distribution dans le marketing mix
 

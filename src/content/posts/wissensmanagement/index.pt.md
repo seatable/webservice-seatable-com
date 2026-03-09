@@ -140,46 +140,46 @@ Pesar os dois lados um contra o outro.
 
 Se pretende estabelecer uma gestão **do** conhecimento bem sucedida na sua empresa, dificilmente pode evitar um **sistema de gestão do conhecimento** sob a forma de software. Existe uma grande seleção de **soluções de software** adequadas. Dependendo das suas necessidades, existe uma enorme variedade de sistemas com diferentes objectivos:
 
-{{< faq "Wikis e sistemas de gestão da informação" >}}
+{{< accordion "Wikis e sistemas de gestão da informação" >}}
 
 Exemplos: Confluence, Guru
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de groupware e colaboração" >}}
+{{< accordion "Sistemas de groupware e colaboração" >}}
 
 Exemplos: BSCW, Microsoft SharePoint
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Mensageiros instantâneos e sistemas de comunicação" >}}
+{{< accordion "Mensageiros instantâneos e sistemas de comunicação" >}}
 
 Exemplos: Slack, Microsoft Teams
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestão de documentos e de intercâmbio de ficheiros" >}}
+{{< accordion "Sistemas de gestão de documentos e de intercâmbio de ficheiros" >}}
 
 Exemplos: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestão das relações com os clientes" >}}
+{{< accordion "Sistemas de gestão das relações com os clientes" >}}
 
 Exemplos: Pipedrive, Salesforce
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestão de projectos" >}}
+{{< accordion "Sistemas de gestão de projectos" >}}
 
 Exemplos: Asana, Jira
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestão de recursos humanos e de pessoal" >}}
+{{< accordion "Sistemas de gestão de recursos humanos e de pessoal" >}}
 
 Exemplos: Personio, DATEV
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestão de conteúdos" >}}
+{{< accordion "Sistemas de gestão de conteúdos" >}}
 
 Exemplos: WordPress, TYPO3
 
-{{< /faq >}}
+{{< /accordion >}}
 
 Para encontrar o software certo para a sua empresa, deve testar várias soluções e colocar a si próprio as seguintes questões:
 
@@ -191,18 +191,18 @@ Para encontrar o software certo para a sua empresa, deve testar várias soluçõ
 - A atividade dos meus funcionários está documentada de modo a que o histórico de alterações possa ser acompanhado?
 - Existem outros tipos de visualização para além do texto para apresentar a informação de forma compreensível?
 
-## Gestão do conhecimento flexível e eficiente com o SeaTable
+## Gestão do conhecimento flexível e eficiente com SeaTable
 
 Uma boa resposta a todas estas perguntas é a base de dados de conhecimentos **SeaTable**, intuitiva e fácil de utilizar. A vários níveis (bases, tabelas, vistas, linhas), permite-lhe a si e aos seus colaboradores registar informações de forma estruturada, encontrá-las rapidamente, partilhá-las facilmente com outros ou filtrá-las de acordo com a relevância para um determinado grupo de pessoas. Isto significa que o utilizador e os seus empregados têm sempre uma visão global.
 
-![Documentar o conhecimento é uma tarefa simples com o SeaTable](knowledge-management.jpg)
+![Documentar o conhecimento é uma tarefa simples com SeaTable](knowledge-management.jpg)
 
-Quando escolhe o SeaTable, dá aos seus colaboradores uma caixa de ferramentas completa com a qual podem construir uma base de dados de conhecimentos flexível. O SeaTable suporta a [colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) em tempo real, incluindo [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) e [um histórico]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) completo [de alterações]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Isto permite-lhe a si e aos seus colaboradores converter o seu conhecimento pessoal e implícito em conhecimento explícito e torná-lo disponível para os outros. O SeaTable também permite a visualização gráfica dos dados através de vários [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) e [aplicações]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+Quando escolhe SeaTable, dá aos seus colaboradores uma caixa de ferramentas completa com a qual podem construir uma base de dados de conhecimentos flexível. SeaTable suporta a [colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) em tempo real, incluindo [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) e [um histórico]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) completo [de alterações]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Isto permite-lhe a si e aos seus colaboradores converter o seu conhecimento pessoal e implícito em conhecimento explícito e torná-lo disponível para os outros. SeaTable também permite a visualização gráfica dos dados através de vários [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) e [aplicações]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
-Pode utilizar o SeaTable na nuvem, que está alojado em centros de dados alemães em conformidade com o RGPD, ou instalá-lo [no local]({{< relref "pages/product/seatable-server" >}}), nos seus próprios servidores. Assim, os seus dados estão seguros em qualquer caso! Também pode utilizar autorizações em muitos locais no SeaTable para controlar exatamente quem pode ver e editar que dados.
+Pode utilizar SeaTable na nuvem, que está alojado em centros de dados alemães em conformidade com o RGPD, ou instalá-lo [no local]({{< relref "pages/product/seatable-server" >}}), nos seus próprios servidores. Assim, os seus dados estão seguros em qualquer caso! Também pode utilizar autorizações em muitos locais no SeaTable para controlar exatamente quem pode ver e editar que dados.
 
 ## Conclusão: Construa a sua própria gestão do conhecimento
 
 Todo começo é difícil, mas vale a pena! Invista tempo e esforço na gestão do conhecimento para utilizar o conhecimento escondido na sua empresa.
 
-Gostaria de utilizar o SeaTable para a sua gestão do conhecimento? Então, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente.
+Gostaria de utilizar SeaTable para a sua gestão do conhecimento? Então, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente.

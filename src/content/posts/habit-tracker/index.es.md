@@ -90,26 +90,26 @@ El bestseller de James Clear contiene consejos útiles.
 
 Los siguientes consejos proceden del libro de James Clear **El método del 1%** _(Atomic Habits_) y pueden hacer que tu rastreador de hábitos sea aún más eficaz.
 
-{{< faq "Incorporar hábitos a la vida cotidiana" >}}
+{{< accordion "Incorporar hábitos a la vida cotidiana" >}}
 
 Para que una acción deseable sea más vinculante, debe vincularla al lugar y al momento de ejecución.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Combinar lo nuevo y lo viejo" >}}
+{{< accordion "Combinar lo nuevo y lo viejo" >}}
 
 Los hábitos que ya están automatizados pueden facilitarle el aprendizaje de nuevos hábitos. Basta con realizar un hábito actual y un hábito nuevo uno detrás de otro.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Utilizar incentivos y recompensas" >}}
+{{< accordion "Utilizar incentivos y recompensas" >}}
 
 No todos los hábitos que desea aprender le proporcionarán placer. Por eso puede ser útil trabajar con un sistema de recompensas. Realiza una tarea que no te guste y luego prémiate con algo que te resulte fácil y divertido.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Hábitos de 2 minutos" >}}
+{{< accordion "Hábitos de 2 minutos" >}}
 
 Si una actividad le lleva menos de dos minutos, puede realizarla inmediatamente, ya que requiere poca energía y esfuerzo. Al principio de su viaje de seguimiento, tiene sentido empezar poco a poco. Los hábitos que puedes hacer en dos minutos son motivadores y te ofrecen la oportunidad de ampliarlos a tu gusto.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Celebrar el progreso
 

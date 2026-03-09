@@ -38,21 +38,21 @@ De plus, les investissements génèrent généralement des **besoins en capital*
 
 Selon l'objectif et le moment d'un investissement, on peut distinguer 4 types d'investissement :
 
-{{< faq "Investissement initial" >}}
+{{< accordion "Investissement initial" >}}
 Un investissement initial, également appelé investissement de départ, comprend toutes les dépenses que vous effectuez pour l'équipement initial de votre entreprise afin de faire décoller votre business. C'est généralement pour ce type d'investissement que les besoins en capitaux sont les plus importants. Une distinction est faite entre les véritables investissements et les simples frais de création d'entreprise, tels que les inscriptions auprès des autorités, qui ne contribuent pas à la création de valeur de votre entreprise.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Investissement d'extension" >}}
+{{< accordion "Investissement d'extension" >}}
 Les investissements d'expansion sont des dépenses qui vous permettent d'augmenter vos capacités. Par exemple, si la demande pour vos produits ou services a augmenté, vous devez prévoir plus de machines ou de personnel dans votre plan d'investissement. Un investissement d'expansion est généralement amorti en peu de temps, car il s'accompagne d'une augmentation prévisible du chiffre d'affaires.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Investissement de rationalisation" >}}
+{{< accordion "Investissement de rationalisation" >}}
 Vous attendez avant tout d'un investissement de rationalisation qu'il vous permette de réaliser des économies. Par exemple, vous pouvez investir dans des robots pour automatiser et accélérer les processus de production afin d'économiser des frais de personnel. Toutefois, par rapport à un investissement d'expansion, vous n'augmentez pas les capacités, mais principalement l'efficacité.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Investissement de remplacement" >}}
+{{< accordion "Investissement de remplacement" >}}
 Un investissement de remplacement est nécessaire lorsque vous devez remplacer complètement un actif obsolète ou défectueux afin de maintenir votre entreprise en activité. C'est ce qu'on appelle le réinvestissement. Il s'agit simplement de maintenir ou de rétablir l'état antérieur sans modifier les capacités ou l'efficacité de votre entreprise.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Durée de vie et amortissement des biens d'investissement
 

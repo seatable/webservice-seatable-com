@@ -95,29 +95,29 @@ La TI en la sombra, que suele estar peor diseñada y probada que los sistemas de
 
 ### Los riesgos de la TI en la sombra de un vistazo
 
-{{< faq "Pérdida de control" >}}
+{{< accordion "Pérdida de control" >}}
 La TI en la sombra escapa a la gobernanza de TI. Si la gestión de los servicios informáticos no tiene una visión general de las herramientas utilizadas, no puede incluirlas en las estrategias de soporte y de futuro, las migraciones o las actualizaciones.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Mala calidad" >}}
+{{< accordion "Mala calidad" >}}
 Las TI en la sombra rara vez están debidamente documentadas, probadas y mantenidas. Los errores del sistema o las aplicaciones inestables pueden ser el resultado si las soluciones de TI se montan rápidamente y sin conocimientos especializados.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Soluciones aisladas y silos de datos" >}}
+{{< accordion "Soluciones aisladas y silos de datos" >}}
 Los departamentos pueden construir engorrosas soluciones aisladas que no están integradas con otros sistemas. Los silos de datos no sincronizados hacen que los procesos sean ineficaces y redundantes.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Riesgos para la seguridad" >}}
+{{< accordion "Riesgos para la seguridad" >}}
 Los sistemas informáticos en la sombra no suelen cumplir las normas de seguridad de toda la empresa (por ejemplo, encriptación, autenticación), lo que los hace vulnerables a los ciberataques y a las fugas de datos. Las instalaciones no controladas también pueden abrir la puerta al malware.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Incumplimiento de la normativa" >}}
+{{< accordion "Incumplimiento de la normativa" >}}
 Las TI en la sombra suelen ser incompatibles con la protección de datos de acuerdo con el GDPR, las certificaciones ISO y otros requisitos. Con los servicios en la nube, la ubicación de los servidores fuera de la UE puede ser problemática.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Costes impredecibles" >}}
+{{< accordion "Costes impredecibles" >}}
 Sin transparencia, las empresas pierden rápidamente el control de los costes, por ejemplo, debido a la duplicación de suscripciones/licencias para herramientas similares. Si hay consecuencias legales debido a violaciones del cumplimiento, existe el riesgo de multas elevadas.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Gestión de riesgos informáticos
 

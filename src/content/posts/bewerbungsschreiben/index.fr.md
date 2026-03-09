@@ -208,25 +208,25 @@ Pour exprimer votre confiance en vous, utilisez des phrases actives et adressez-
 
 Vous trouverez ici des aides à la formulation pour différentes situations dans la lettre de motivation :
 
-{{< faq "Établir un lien avec l'entreprise et le thème" >}}
+{{< accordion "Établir un lien avec l'entreprise et le thème" >}}
 
 "Lors de plusieurs stages dans le secteur des médias, j'ai déjà eu un aperçu du travail journalistique. J'aimerais maintenant mettre à profit les compétences que j'y ai acquises et les développer au sein des RP de votre entreprise internationale".
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Emballer l'expérience professionnelle pour en tirer profit" >}}
+{{< accordion "Emballer l'expérience professionnelle pour en tirer profit" >}}
 
 "Grâce à mes 10 ans d'expérience dans la vente, je sais comment enthousiasmer les clients en contact direct, c'est pourquoi je peux augmenter avec succès le chiffre d'affaires de votre équipe de vente".
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Mettre en évidence les qualifications professionnelles" >}}
+{{< accordion "Mettre en évidence les qualifications professionnelles" >}}
 
 "Grâce à mes études de langues romanes, je maîtrise l'espagnol et le français au niveau B2 et j'ai mis en pratique et approfondi ces connaissances lors de stages à l'étranger à Madrid et à Paris".
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Justifier les soft skills" >}}
+{{< accordion "Justifier les soft skills" >}}
 
 "Dans ma position de chef d'équipe adjoint, j'ai développé un style de direction collégial qui me permet de traiter mes collaborateurs d'égal à égal et de leur attribuer des tâches en fonction de leurs capacités individuelles. Ensemble, nous avons réalisé le projet dans la moitié du temps imparti".
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Liste de contrôle
 

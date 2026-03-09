@@ -140,46 +140,46 @@ Sopesa las dos partes entre sí.
 
 Si quiere implantar con éxito la gestión del conocimiento en su empresa, difícilmente podrá prescindir de un **sistema de gestión del conocimiento** en forma de software. Existe una amplia selección de **soluciones de software** adecuadas. En función de sus necesidades, existe una enorme variedad de sistemas con diferentes enfoques:
 
-{{< faq "Wikis y sistemas de gestión de la información" >}}
+{{< accordion "Wikis y sistemas de gestión de la información" >}}
 
 Ejemplos: Confluence, Guru
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Groupware y sistemas de colaboración" >}}
+{{< accordion "Groupware y sistemas de colaboración" >}}
 
 Ejemplos: BSCW, Microsoft SharePoint
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Mensajeros instantáneos y sistemas de comunicación" >}}
+{{< accordion "Mensajeros instantáneos y sistemas de comunicación" >}}
 
 Ejemplos: Slack, Microsoft Teams
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestión de documentos e intercambio de archivos" >}}
+{{< accordion "Sistemas de gestión de documentos e intercambio de archivos" >}}
 
 Ejemplos: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestión de las relaciones con los clientes" >}}
+{{< accordion "Sistemas de gestión de las relaciones con los clientes" >}}
 
 Ejemplos: Pipedrive, Salesforce
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestión de proyectos" >}}
+{{< accordion "Sistemas de gestión de proyectos" >}}
 
 Ejemplos: Asana, Jira
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de RRHH y gestión de personal" >}}
+{{< accordion "Sistemas de RRHH y gestión de personal" >}}
 
 Ejemplos: Personio, DATEV
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sistemas de gestión de contenidos" >}}
+{{< accordion "Sistemas de gestión de contenidos" >}}
 
 Ejemplos: WordPress, TYPO3
 
-{{< /faq >}}
+{{< /accordion >}}
 
 Para encontrar el software adecuado para su empresa, debe probar varias soluciones y plantearse las siguientes preguntas:
 
