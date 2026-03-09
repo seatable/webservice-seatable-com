@@ -14,156 +14,184 @@ aliases:
 sections:
     - name: hero-5
       weight: 1
-      title: Gestión administrativa digital con soporte de IA inteligente
-      subtitle: La solución No-Code für la digitalización del sector público
-      text: La digitalización de la administración alcanza el siguiente nivel. SeaTable combina **estructuras No-Code flexibles con una potente IA** para no solo digitalizar procesos, sino automatizarlos de forma inteligente. Cumple con el RGPD, es seguro y está disponible opcionalmente en la nube o en su propio servidor.
+      title: Reinventar la administración digital con el apoyo de la IA inteligente
+      subtitle: La solución no-code para la digitalización en el sector público
+      text: Las soluciones para la administración digital suelen fracasar debido a integraciones técnicas, obstáculos legales y estructuras complejas. SeaTable combina estructuras flexibles no-code con una potente IA **para digitalizar y automatizar los procesos administrativos de conformidad con el RGPD**, ya sea **en la nube o en su propio servidor**.
       classes:
           - bg-orange-100
       template: 1acd19d97c8f4ed3ad38
       buttons:
-          - label: Empezar ahora
+          - label: Empiecen ahora mismo
             link: 'pages/registration'
             style: primary
-          - label: Descubrir funciones
+          - label: Conocer las funciones
             link: pages/functions
 
     - name: content-12
-      weight: 2
+      weight: 3
       classes:
           - curved
           - bg-white
-      title: Implementar la digitalización en la administración pública de forma eficiente
-      subtitle: La seguridad de datos se une a la innovación
-      description: La digitalización de la administración pública puede ser un reto. Ya sean solicitudes ciudadanas, gestión de patrimonio o planificación presupuestaria, ¡con SeaTable es fácil!
+      title: Administración digital para autoridades y municipios
+      subtitle: La seguridad de los datos se une a la innovación
+      description: La digitalización de la administración pública es todo un reto. Con la solución de [IA no-code SeaTable]({{< relref "/" >}}), sentará las bases para una administración digital moderna, sin proyectos de TI tediosos y sin necesidad de programar.
       items:
-          - text: '**Gestión de datos centralizada:** Toda la información segura en un solo lugar, siempre accesible.'
-          - text: '**Cumplimiento del RGPD:** Con SeaTable, usted mantiene el control total sobre los datos sensibles. ¿Protección de datos? ¡Hecho!'
-          - text: '**Flexibilidad y adaptabilidad:** ¿Nube o servidor propio? ¡Usted elige! Adapte los procesos fácilmente mediante Drag & Drop.'
-          - text: '**Colaboración interdisciplinar:** SeaTable conecta organismos, ofreciendo una base de datos segura y una plataforma de comunicación.'
+          - text: '**Gestión centralizada de datos:** toda la información segura en un solo lugar, siempre accesible.'
+          - text: '**Conformidad con el RGPD:** SeaTable Cloud se aloja en servidores europeos ubicados en Alemania.'
+          - text: '**Flexibilidad y adaptabilidad:** SeaTable ofrece una interfaz intuitiva y accesibilidad inmediata para soluciones personalizadas.'
+          - text: '**Colaboración interdisciplinaria:** SeaTable conecta a las autoridades de forma fluida gracias a la colaboración en tiempo real y la función de chat.'
+          - text: '**Nube o servidor propio**: utilice SeaTable según sus requisitos de cumplimiento normativo sin restricciones funcionales.'
       image: /images/Screenshots-LP-Oeffentlicher-Dienst-630x625-1-1.png
-      image_alt: 'Interfaz de SeaTable para la gestión digital con administración centralizada de datos'
+      image_alt: 'Interfaz SeaTable para la administración digital con gestión centralizada de datos'
 
     - name: 'content-4'
-      weight: 3
-      title: Digitalización administrativa inteligente
-      subtitle: De la planificación a la implementación
-      text: 'La digitalización en los organismos públicos requiere una planificación y ejecución astutas. Con SeaTable, obtendrá todas las herramientas para dominar el proceso de transformación digital, desde el análisis hasta la integración. Digitalizar no es solo automatizar, sino también fomentar una cultura de trabajo más eficiente, transparente y cercana al ciudadano.'
+      weight: 2
+      title: Digitalización inteligente de la administración
+      subtitle: Desde los expedientes electrónicos hasta la planificación presupuestaria
+      text: 
       items:
           - icon: signature
-            headline: Gestión de solicitudes
-            text: 'Cree formularios digitales y permita que la IA clasifique automáticamente las solicitudes entrantes y sugiera prioridades.'
+            headline: Servicio digital ciudadano
+            text: 'Cree formularios digitales y realice un seguimiento del estado de las solicitudes en tiempo real. Alivie la carga de trabajo de los departamentos especializados mediante procesos automatizados.'
           - icon: building
-            headline: Gestión de patrimonio y activos
-            text: 'Gestione propiedades con bases de datos estructuradas y personalizables, junto con una gestión documental automatizada.'
+            headline: Administración de propiedades
+            text: 'Gestione inmuebles con bases de datos estructuradas y personalizables. Conecte objetos, contratos y mantenimientos para obtener una visión general completa.'
           - icon: substack
-            headline: Planificación presupuestaria municipal
-            text: 'Digitalice la planificación y gestión financiera utilizando pronósticos basados en IA para un presupuesto más eficiente.'
-          - icon: ghost
-            headline: Gestión de Recursos Humanos
-            text: Automatice la gestión de expedientes de personal, solicitudes de vacaciones y ausencias. Utilice la IA para generar borradores de certificados o descripciones de puestos directamente en la base.
-          - icon: check
-            headline: Gestión de proyectos
-            text: Gestione proyectos de forma eficiente y transparente con procesos automatizados y colaboración en tiempo real.
+            headline: Presupuesto Municipal
+            text: 'Digitalice la planificación y la gestión financieras para una planificación presupuestaria eficiente. Vincule presupuestos, gastos y cifras previstas en una base de datos.'
           - icon: music
             headline: Promoción cultural
-            text: Organice proyectos de subvenciones de forma transparente y automatizada para una mayor seguridad en la planificación. 
+            text: "Desde la presentación de la solicitud hasta la resolución: SeaTable digitaliza por completo la promoción cultural, de forma transparente, segura y con el apoyo de la inteligencia artificial."   
+          - icon: robot
+            headline: Automatización en IA
+            text: Las funciones de IA integradas en SeaTable reconocen, clasifican y reenvían automáticamente las solicitudes, de conformidad con el RGPD y con su propio servidor de inteligencia artificial.
+          - icon: check
+            headline: Administración transparente
+            text: Con SeaTable, puede diseñar una administración digital con estructuras de datos transparentes que hacen que los procesos administrativos sean transparentes y auditables para todas las partes involucradas.
 
     - name: content-3
       weight: 4
-      title: Plantillas para una administración digitalizada
-      subtitle: Empiece ahora
-      description: Con SeaTable, la digitalización en el sector público permite no solo digitalizar procesos, sino diseñarlos y optimizarlos de forma eficiente. Importe plantillas prediseñadas con un solo clic en su cuenta de SeaTable. Aproveche las lógicas integradas y la preparación para IA para ser productivo de inmediato.
+      title: Digitalización en municipios y organismos públicos
+      subtitle: Plantillas para su administración digital
+      description: 'Ya sea para la gestión de solicitudes, archivos electrónicos, planificación presupuestaria o colaboración entre autoridades: SeaTable hace que la **digitalización en el sector público sea sencilla y legalmente segura**. Importe plantillas prefabricadas a su cuenta de SeaTable con un solo clic. Utilice la lógica integrada y las [funciones de IA]({{< relref "pages/ai-automations" >}}) para empezar de inmediato.'
       items:
           - headline: 'Cartera de proyectos'
-            text: Proyectos
+            text: proyectos
             image: /images/Landing-Page-Public-Services_Projektportfolio.png
-            image_alt: 'Plantilla de SeaTable para cartera de proyectos en el servicio público'
+            image_alt: 'Plantilla de cartera de proyectos SeaTable para proyectos en el sector público'
           - headline: Gestión inmobiliaria
-            text: Inmuebles
+            text: Bienes inmuebles
             image: /images/Landing-Page-Public-Sector_Property-Management_Template.png
-            image_alt: 'Plantilla de SeaTable para la gestión inmobiliaria y de patrimonio municipal'
-          - headline: Registro de jornada laboral
-            text: Recursos Humanos
+            image_alt: 'Plantilla SeaTable para la gestión municipal de inmuebles y propiedades inmobiliarias'
+          - headline: Registro de horas trabajadas
+            text: Recursos humanos
             image: /images/Landing-Page-Public-Sector_Time-Tracker.png
-            image_alt: 'Plantilla de SeaTable para el registro de horas en el sector público'
+            image_alt: 'Plantilla SeaTable para el registro del tiempo de trabajo en el sector público'
       buttons:
-          - label: 'Encuentre más plantillas para su caso de uso'
+          - label: 'Más plantillas'
             link: 'templates'
             style: secondary
 
     - name: content-25
       weight: 5
-      title: Plataforma No-Code impulsada por IA para la digitalización de organismos públicos
-      subtitle: Eficiente e independiente de los limitados recursos de IT
-      text: SeaTable revoluciona la digitalización en la administración con su plataforma [IA No-Code]({{< relref "/" >}}) fácil de usar. **Sin conocimientos de programación**, se pueden mapear procesos complejos fácilmente. Ideal para instituciones donde las capacidades de IT suelen ser escasas. Con la interfaz de arrastrar y soltar, digitalizará procesos administrativos de forma rápida y sencilla.
+      title: 'Digitalización en el sector público: no-code para las autoridades públicas'
+      subtitle: 'Plataforma basada en IA: independiente de los recursos informáticos'
+      text: SeaTable permite la digitalización en organismos públicos y municipios con una plataforma no-code fácil de usar. Sin necesidad de conocimientos de programación, se pueden **representar fácilmente procesos administrativos complejos**. Con la interfaz de arrastrar y soltar, puede digitalizar procesos administrativos de forma rápida y sencilla.
       items:
-          - headline: 'Flujos de trabajo de IA individuales'
-            text: Cree flujos de trabajo que no solo almacenen datos, sino que los entiendan. Ya sea [gestión de patrimonio]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), **planificación presupuestaria** o consultas ciudadanas – las posibilidades son diversas. SeaTable se integra perfectamente en las estructuras existentes sin grandes esfuerzos técnicos.
+          - headline: 'Flujos de trabajo de IA personalizados'
+            text: Cree flujos de trabajo que no solo almacenen datos, sino que también los comprendan. Ya sea para la [gestión inmobiliaria]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}), la **planificación presupuestaria** o las consultas ciudadanas, las posibilidades son infinitas. SeaTable se integra a la perfección en las estructuras existentes y simplifica la digitalización sin necesidad de grandes inversiones en TI.
             image: /images/Landing-Page-Public-Services_Property-Management.png
             image_alt: 'Plantilla SeaTable para la gestión inmobiliaria en la administración pública'
 
-          - headline: 'Apps fáciles de usar'
-            text: Con el App Builder de SeaTable, creará aplicaciones intuitivas sin esfuerzo. Los empleados se adaptan rápidamente, lo que aumenta la aceptación y hace que la digitalización sea más eficiente.
+          - headline: 'Aplicaciones fáciles de usar'
+            text: Con SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), puede crear fácilmente aplicaciones fáciles de usar. Los empleados se familiarizan rápidamente con ellas, lo que aumenta su aceptación y hace que la digitalización sea más eficiente. Optimice sus procesos administrativos y **cumpla con los requisitos modernos de la administración digital**.
             image: /images/Landing-Page-Public-Services-Universal-App.png
             image_alt: 'Aplicación universal SeaTable para aplicaciones de gestión fáciles de usar'
 
-    - name: content-21
+    - name: banner-2
       weight: 6
-      title: Digitalización de organismos – Entidades conectadas – Cooperación inteligente
-      subtitle: Ventajas de la colaboración interadministrativa con SeaTable
-      text: Un aspecto central de la digitalización administrativa es la colaboración transversal entre diferentes organismos. SeaTable permite una integración y comunicación fluida entre distintos departamentos y autoridades, **sin comprometer la seguridad y confidencialidad de los datos**.
+      title: 'SeaTable: para una gestión digital segura'
+      buttons:
+          - label: Regístrese ahora
+            link: 'pages/registration'
+    
+    - name: "content-10"
+      weight: 7
+      classes:
+        - curved
+        - bg-white
+      title: "Integración perfecta en los procedimientos especializados existentes"
+      subtitle: "Automatización e integración"
+      description: "SeaTable se integra de forma flexible en su entorno informático. Conecte los sistemas existentes a través de nuestra API SeaTable y cree procesos digitales continuos para la digitalización integral de acuerdo."
       items:
-          - headline: 'Bases de datos compartidas'
-            text: Utilice bases de datos comunes para una colaboración coordinada y procesos acelerados mediante IA.
-          - headline: 'Permisos de acceso específicos por rol'
-            text: Controle el acceso con precisión para garantizar la seguridad de los datos, incluso en análisis de IA.
-          - headline: Comunicación eficiente
-            text: Utilice funciones de comunicación integradas para mejorar la colaboración y acelerar la toma de decisiones.
+        - image: "/images/logos/zapier.svg"
+        - image: "/images/logos/make.svg"
+        - image: "/images/logos/n8n.svg"
+        - image: "/images/logos/seatable-api.svg"        
 
     - name: content-4
-      weight: 7
+      weight: 8
+      title: "Digitalización en las administraciones públicas más allá de los límites organizativos"
+      subtitle: Colaborar entre autoridades
+      text: Un aspecto fundamental de la digitalización en la administración es la colaboración entre diferentes organismos públicos. SeaTable permite una **integración y comunicación fluidas entre diferentes departamentos y organismos** sin poner en peligro la seguridad y la confidencialidad de los datos, es decir, la digitalización hasta en los municipios. 
+      items:
+          - icon: table 
+            headline: 'Bases de datos comunes'
+            text: Utilice bases de datos compartidas para una colaboración coordinada y procesos acelerados con ayuda de la IA.
+          - icon: fingerprint
+            headline: 'Permisos de acceso'
+            text: Controle el acceso a los datos y los procesos para garantizar la seguridad y la transparencia de los datos, incluso en las funciones de IA.
+          - icon: people-group
+            headline: Comunicación eficaz
+            text: Utilice las funciones de comunicación integradas para mejorar la colaboración y acelerar los procesos de toma de decisiones.
+
+
+    - name: 'content-3'
+      weight: 9
       title: Flexibilidad en la digitalización de la administración
       subtitle: ¿Nube o servidor propio?
-      text: 'Una plataforma flexible y segura es imprescindible para la administración. Con SeaTable, usted elige: use nuestra solución en la nube o instálela directamente en su servidor. Ambas opciones garantizan la máxima seguridad y adaptabilidad.'
-      buttons:
-          - label: Pruébelo ahora
-            link: 'pages/registration'
-            style: primary
+      description: 'Una plataforma flexible y segura es imprescindible para la digitalización de la administración. Con SeaTable, usted tiene la opción de utilizar nuestra solución en la nube o instalarla directamente en su servidor. Ambas opciones garantizan la máxima seguridad y adaptabilidad para satisfacer sus necesidades específicas.'
       items:
           - headline: SeaTable Cloud
-            text: Benefíciese de una infraestructura en la nube moderna que permite una implementación rápida y una escalabilidad sencilla.
+            text: "Rápida implementación y fácil escalabilidad: ideal para impulsar rápidamente la digitalización en los municipios."
+            image: /images/template-projektplan.png
+            image_alt: 'Plantilla de plan de proyecto SeaTable Cloud para planificar proyectos financieros'
           - headline: SeaTable Server
-            text: Mantenga el control total sobre sus datos operando SeaTable en sus propios servidores – ideal para instituciones con normativas estrictas de protección de datos.
+            text: Ideal para instituciones públicas con requisitos estrictos de seguridad en la digitalización administrativa.
+            image: /images/template-massnahmenplan.jpg
+            image_alt: 'Plantilla de plan de medidas de SeaTable Server para paquetes de medidas financieras'
           - headline: SeaTable Dedicated
-            text: Combine la sencillez de la nube con la flexibilidad de un sistema autoalojado. Nosotros instalamos y mantenemos su propio servidor personal de SeaTable.
+            text: Combine la simplicidad operativa de la nube con la flexibilidad y el control de un sistema autohospedado.   
+            image: /images/asana-dedicated.jpg
+            image_alt: 'Entorno SeaTable Dedicated para procesos financieros y de planificación a nivel empresarial'
 
     - name: faq
-      weight: 10
-      title: Preguntas frecuentes (FAQs)
+      weight: 12
+      title: 'Preguntas frecuentes: administración digital con SeaTable'
       items:
-          - q: '¿Cuáles son las ventajas de la digitalización administrativa con SeaTable?'
-            a: 'SeaTable ofrece herramientas integrales y plantillas para la digitalización de procesos administrativos. Puede gestionar solicitudes, licencias, expedientes de personal y presupuestos de forma eficiente y cumpliendo con el RGPD. La plataforma es flexible y puede usarse tanto en la nube como On-Premises.'
+          - q: '¿SeaTable es de uso gratuito para las administraciones municipales y las autoridades públicas?'
+            a: 'Puede probar SeaTable de forma gratuita, sin necesidad de introducir los datos de su tarjeta de crédito. Para el uso productivo en la administración digital, hay disponibles modelos de licencia flexibles para SeaTable Cloud y SeaTable Server. Si está interesado en SeaTable Dedicated, póngase en contacto con nosotros para obtener una oferta personalizada.'
 
-          - q: 'Digitalización de la administración pública: ¿Es SeaTable realmente gratuito?'
-            a: 'Sí, puede usar SeaTable de forma gratuita y probar las funciones básicas para la digitalización de su administración sin necesidad de tarjeta de crédito. Para funciones avanzadas, existen versiones Premium económicas.'
+          - q: '¿Qué medidas de seguridad ofrece SeaTable para la digitalización en la administración?'
+            a: 'SeaTable ofrece los más altos estándares de seguridad y un entorno conforme al RGPD tanto para soluciones en la nube como locales. Todos los datos se almacenan en centros de datos alemanes certificados de un proveedor suizo y existen amplias posibilidades para la gestión digital de los derechos de acceso y el registro de los accesos a los datos. De este modo, SeaTable permite la digitalización integral de sus procesos administrativos, sin grandes proyectos de TI, sin conocimientos de programación y con un control total sobre sus datos.'
 
-          - q: '¿Qué medidas de seguridad ofrece SeaTable?'
-            a: 'SeaTable ofrece los más altos estándares de seguridad y un entorno conforme al RGPD. Todos los datos se almacenan en centros de datos certificados y existen opciones avanzadas para la gestión de permisos de acceso.'
+          - q: '¿Qué papel desempeña la IA en la digitalización de los municipios y las autoridades públicas con SeaTable?'
+            a: 'SeaTable utiliza la IA para analizar textos, clasificar automáticamente las solicitudes y automatizar las tareas rutinarias. Esto complementa a la perfección las herramientas clásicas no-code para acelerar la digitalización de los procesos administrativos de conformidad con el RGPD.'
 
-          - q: "¿Qué papel juega la IA en la digitalización con SeaTable?"
-            a: 'SeaTable utiliza la IA para analizar textos, categorizar solicitudes automáticamente y automatizar tareas rutinarias, acelerando los procesos administrativos de forma segura.'
+          - q: '¿Es realmente seguro utilizar la IA en SeaTable?'
+            a: 'Sí, SeaTable ofrece los más altos estándares de seguridad. Las funciones de IA se pueden configurar para que cumplan con los estrictos requisitos del RGPD y la protección de datos en el sector público. De este modo, puede utilizar procesos digitales con funciones de IA inteligentes para la digitalización en el sector público sin riesgos de incumplimiento normativo.'
 
-          - q: '¿Puede utilizarse SeaTable para la colaboración entre diferentes organismos públicos?'
-            a: 'Sí, SeaTable facilita la colaboración transversal entre distintas entidades públicas al ofrecer bases de datos compartidas, derechos de acceso específicos según el rol y herramientas de comunicación eficientes. Esto permite que diferentes organismos trabajen juntos de manera segura y eficaz.'
+          - q: '¿Cómo se puede utilizar SeaTable para digitalizar los municipios y las administraciones?'
+            a: 'La ley de digitalización exige cambios y adaptaciones integrales en la administración digital. SeaTable le ayuda a cumplir estos requisitos ofreciéndole una solución flexible y completa para la digitalización en el sector público. Ya se trate de la administración electrónica, la administración pública, la digitalización, por ejemplo, de la planificación presupuestaria en un municipio o la optimización de procesos en la función pública, SeaTable ofrece las funciones que necesita para la administración digital y la digitalización en los municipios.'   
 
-          - q: '¿Por qué es SeaTable la mejor elección para la digitalización en el Sector Público?'
-            a: 'SeaTable ofrece una solución flexible y segura, desarrollada específicamente para las necesidades de digitalización de las administraciones. La plataforma permite una adaptación total de los procesos digitales a los requisitos específicos de su institución, ofreciendo opciones tanto en la nube como On-Premises para garantizar el máximo control y seguridad.'
+          - q: '¿SeaTable también funciona entre diferentes organismos públicos?'
+            a: 'Sí. SeaTable facilita la colaboración entre diferentes organismos públicos mediante bases de datos compartidas, derechos de acceso específicos para cada función y opciones de comunicación seguras. La plataforma puede servir de base para procesos administrativos modernos, con interfaces flexibles para otros sistemas y registros.'
 
-          - q: '¿Qué abarca la administración digital?'
-            a: La administración digital, por definición, comprende la digitalización y optimización completa de todos los procesos dentro de una entidad o unidad administrativa. El objetivo es alcanzar una mayor eficiencia, transparencia y seguridad mediante herramientas y tecnologías digitales. Gracias a una administración digitalizada, es posible procesar las solicitudes ciudadanas con mayor rapidez, gestionar los datos de forma segura y simplificar la comunicación entre departamentos y organismos. SeaTable ofrece para ello una solución No-Code flexible que se ajusta a las exigencias específicas de la digitalización gubernamental. La digitalización administrativa va más allá de la simple conversión de papel a documentos digitales; se trata de [automatizar flujos de trabajo]({{< relref "pages/industry-solutions/individual" >}}), garantizar la seguridad de la información y diseñar flujos operativos eficientes. SeaTable está diseñado para que el camino hacia la digitalización del sector público sea lo más sencillo y efectivo posible. Nuestra plataforma No-Code no solo ofrece funciones para la gestión de datos, sino también para la [optimización de procesos]({{< relref "pages/industry-solutions/operations" >}}) y la cooperación entre diversas áreas y organismos, asegurando una administración digitalizada en todos los niveles institucionales.
+          - q: '¿Necesitamos un departamento de TI para configurar SeaTable?'
+            a: 'No. SeaTable está diseñada como una plataforma no-code y los departamentos especializados pueden configurarla y personalizarla de forma independiente. La interfaz de arrastrar y soltar permite la digitalización en la administración pública sin necesidad de conocimientos de programación. Su departamento de TI solo será necesario para la instalación inicial (en el caso de las instalaciones locales) o para interfaces complejas con procedimientos especializados existentes. Esto [alivia considerablemente la escasez de recursos informáticos]({{< relref "posts/it-fachkraeftemangel" >}}) y acelera la digitalización de la administración pública.'
 
-          - q: '¿Cómo se puede llevar a cabo la digitalización de los organismos con SeaTable?'
-            a: 'Las leyes de digitalización exigen cambios y adaptaciones integrales en la gestión pública. SeaTable le ayuda a cumplir con estos requisitos ofreciendo una solución versátil y completa para el Sector Público. Ya sea en el ámbito del E-Government, la administración general o la optimización de procesos en el servicio público, SeaTable proporciona las funciones necesarias para lograr una administración digitalizada con éxito.'
+          - q: '¿Cuánto tiempo lleva implementar SeaTable?'
+            a: 'El tiempo de implementación depende del escenario elegido. Los casos de uso sencillos, como los formularios digitales o la gestión de ausencias, pueden ponerse en marcha en muy poco tiempo. Los casos de uso más complejos, con integración en procedimientos especializados existentes o digitalización completa de procesos, requieren varios días o semanas. La arquitectura no-code permite una implementación mucho más rápida que los proyectos de TI clásicos, ya que los departamentos especializados pueden realizar ajustes de forma independiente. SeaTable es la plataforma flexible no-code que impulsa de forma cuantificable la digitalización de los servicios públicos, desde la atención al ciudadano hasta la administración interna, de forma segura, conforme al RGPD e independiente de los escasos recursos de TI.'
 
     - name: banner-2
       weight: 11
@@ -173,7 +201,7 @@ sections:
             link: 'pages/registration'
 
     - name: form-contact
-      weight: 12
+      weight: 13
       title: ¿Tiene preguntas sobre la digitalización con SeaTable?
       description: Estamos a su disposición para resolver cualquier duda sobre la transformación digital de la administración pública. Contáctenos para saber más sobre cómo SeaTable puede hacer sus procesos más eficientes.
 ---

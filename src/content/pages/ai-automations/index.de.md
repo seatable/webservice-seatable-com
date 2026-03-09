@@ -128,7 +128,7 @@ sections:
 
       - icon: user-plus
         headline: DSGVO-konform
-        text: SeaTable Cloud wird ausschließlich auf einem zertifizierten schweizer Server in Deutschland gehostet. Sie behalten die Kontrolle über Ihre Daten.
+        text: SeaTable Cloud wird ausschließlich auf einem zertifizierten Schweizer Server in Deutschland gehostet. Sie behalten die Kontrolle über Ihre Daten.
 
       - icon: fingerprint
         headline: Kein Modelltraining
