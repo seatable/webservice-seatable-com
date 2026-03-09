@@ -182,7 +182,8 @@ Folgende **KI-Funktionen** können Sie mit einer Automation ausführen lassen:
 Die Automations-Aktion "KI aufrufen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
 - Wenn eine Zeile hinzufügt wird
-- Zu einer geplanten Zeit
+
+Ausführliche Anleitungen zu den einzelnen KI-Funktionen mit Schritt-für-Schritt-Beispielen finden Sie im Bereich [KI-Automationen]({{< relref "help/ai/ai-automations/setup-ai-automation" >}}).
 
 ## Automations-Aktion: Datenverarbeitungsoperation ausführen
 

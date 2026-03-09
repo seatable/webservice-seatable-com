@@ -11,6 +11,8 @@ star: true
 
 Desde a versão 6.0, o SeaTable oferece ações de automatização baseadas em IA que podem processar os seus dados automaticamente. Resumir textos, categorizar pedidos de suporte, extrair dados de faturas ou traduzir conteúdo — tudo isto acontece diretamente na sua base, acionado pelas regras de automatização que já conhece do SeaTable. Sem plataforma de IA externa, sem acompanhamento manual.
 
+{{< youtube A1_LWaFWveM >}}
+
 ## Como funcionam as automatizações de IA?
 
 As automatizações de IA são ações dentro do sistema de automatização do SeaTable. Seguem o mesmo princípio que todas as outras automatizações: um **gatilho** inicia uma ou mais **ações**. A diferença é que as ações de IA utilizam um modelo de linguagem para compreender e processar conteúdo.
