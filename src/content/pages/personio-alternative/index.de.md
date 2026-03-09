@@ -11,9 +11,9 @@ draft: true
 sections:
     - name: hero-5
       weight: 1
-      title: Die flexible, faire und leistungsfähige Personio Alternative
+      title: Die flexible und kostengünstige Personio Alternative 
       subtitle:
-      text: Wenn Sie nach einer Alternative zu Personio suchen, haben Sie vermutlich keine Lust mehr auf hohe Kosten, geringe Flexibilität oder schlechten Kundenservice. Gut, dass Sie mit SeaTable intuitiv, DSGVO-konform und kosteneffizient Ihre HR-Prozesse glattziehen, automatisieren und auf Ihre Bedürfnisse zuschneiden können. Entdecken Sie die smarte Personio Alternative!
+      text: Wenn Sie nach einer Alternative zu Personio suchen, haben Sie vermutlich keine Lust mehr auf hohe Kosten, geringe Flexibilität oder schlechten Kundenservice. Mit SeaTable als Alternative zu Personio gestalten Sie Prozesse, die sich Ihren Bedürfnissen anpassen – transparent, intuitiv, DSGVO-konform. 
       classes:
           - bg-gray-200
       template: 7b72578c0e714750954a
@@ -36,7 +36,7 @@ sections:
         text: "SeaTable bietet Ihnen eine benutzerfreundliche Oberfläche, leicht nutzbare Vorlagen und sofortige Zugänglichkeit. Entwickeln Sie maßgeschneiderte Lösungen, die sich genau Ihren Bedürfnissen anpassen."
 
       - icon: puzzle-piece
-        headline: DIY Mitarbeiter-Apps
+        headline: Individuelle ESS-Portale
         text: "Mit dem visuellen App Builder von SeaTable erstellen Sie im Handumdrehen Apps für Ihre Mitarbeiter. So können diese beispielsweise Arbeitszeiten erfassen, Urlaub beantragen oder Gehaltsabrechnungen abrufen."
 
       - icon: comment
@@ -65,35 +65,35 @@ sections:
       subtitle: Reibungslose Prozesse
       description: 'Die [KI No-Code-Plattform]({{< relref "/" >}}) SeaTable ist eine exzellente Personio Alternative, um Ihre [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}) individuell zu gestalten – egal, ob Arbeitszeiterfassung, Recruiting oder operative Personalarbeit.'
       items:
-        - text: "KI-unterstützte Workflows für eine schlanke Personalverwaltung"
-        - text: "Einfache und intuitive Bedienung ohne Programmierkenntnisse"
-        - text: "Selbstbestimmte App-Erstellung dank visuellem App Builder"
-        - text: "Alle Mitarbeiterdaten und Dokumente zentral an einem Ort"
-        - text: "Als DSGVO-konforme Cloud-Lösung oder On-Premises"
+        - text: "**KI-unterstützte Workflows** für eine schlanke Personalverwaltung"
+        - text: "**Einfache und intuitive Bedienung** ohne Programmierkenntnisse"
+        - text: "Selbstbestimmte App-Erstellung dank visuellem **App Builder**"
+        - text: "Alle Mitarbeiterdaten und Dokumente **zentral an einem Ort**"
+        - text: "Als DSGVO-konforme **Cloud-Lösung oder On-Premises**"
       image: /images/hr-teamwork.jpg
       image_alt: 'SeaTable Personio Alternative für Teamarbeit'    
 
     - name: "content-4"
-      weight: 4
+      weight: 5
       title: Sichere und DSGVO-konforme HR-Digitalisierung mit SeaTable 
       subtitle: Keine Kompromisse beim Datenschutz
-      text: "Der Schutz sensibler Mitarbeiterdaten ist besonders wichtig. SeaTable bietet Single Sign-on, granulare Zugriffsberechtigungen und hostet seine Cloud ausschließlich auf Servern in Deutschland."
+      text: 'Der Schutz sensibler Mitarbeiterdaten ist besonders wichtig. SeaTable bietet [Single Sign-on]({{< relref "posts/single-sign-on" >}}), granulare Zugriffsberechtigungen und hostet seine Cloud ausschließlich auf Servern in Deutschland.'
       items:
       - icon: location-dot
         headline: Hosting in Deutschland
         text: "Die SeaTable Cloud und der SeaTable KI-Server werden in zertifizierten Rechenzentren in Deutschland gehostet – vollständig DSGVO-konform."
       - icon: user-plus
-        headline: Sicherheitseinstellungen
+        headline: Zugriffsberechtigungen
         text: "Richten Sie individuelle Rollenberechtigungen ein und beschränken Sie den Zugang zu sensiblen Daten durch granulare Zugriffs- und Bearbeitungsrechte."
       - icon: fingerprint
         headline: Authentifizierung und SSO
-        text: "SeaTable unterstützt Single Sign-on, Zwei-Faktor-Authentifizierung und weitere gängige Authentifizierungstechniken."
+        text: 'SeaTable unterstützt Single Sign-on, Zwei-Faktor-Authentifizierung und weitere gängige Authentifizierungstechniken.'
 
     - name: 'content-8'
-      weight: 7
+      weight: 4
       title: So gelingt der Einstieg ins HR-Management mit SeaTable
       subtitle: Praktische Vorlagen
-      description: "Um Ihnen den Einstieg so einfach wie möglich zu machen, gibt es kostenlose Templates für das HR-Management, YouTube Videos und einen kostenlosen Online-Kurs, der Sie bei den ersten Schritten begleitet. Registrieren Sie sich noch heute und entdecken Sie die perfekte Personio Alternative! Dazu benötigen Sie nichts als eine E-Mail-Adresse.<br/><br/>**Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account**"
+      description: "Um Ihnen den Einstieg so einfach wie möglich zu machen, gibt es kostenlose Templates für das HR-Management, YouTube Videos und einen kostenlosen Online-Kurs, der Sie bei den ersten Schritten begleitet. Registrieren Sie sich noch heute und entdecken Sie die perfekte Personio Alternative! <br/><br/>**Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account**"
       items:
           - text: Arbeitszeiterfassung
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
@@ -109,17 +109,17 @@ sections:
             link: "templates"
 
     - name: banner-2
-      weight: 9
-      title: "Starten Sie jetzt sofort – ohne versteckte Kosten"
+      weight: 6
+      title: "Transparentes Personalmanagement – ohne versteckte Kosten"
       text: 
       buttons:
-          - label: Kostenlos registrieren und direkt loslegen
+          - label: Jetzt loslegen
             link: 'pages/registration'
             id: de-personio-registration-2
 
     - name: content-25
-      weight: 5
-      title: Was SeaTable zur perfekten Personio Alternative macht
+      weight: 7
+      title: SeaTable ist die perfekte Personio Alternative
       subtitle: Funktionen und Anwendungen
       items:
       - headline: "Bewerbermanagement mit KI"
@@ -142,27 +142,42 @@ sections:
         image: /images/Landing-Page_HR_Organigramm.png
         image_alt: 'SeaTable Organigrammansicht zur Darstellung der Unternehmensstruktur'
 
+    - name: 'content-3'
+      weight: 10
+      title: Personio Alternative selbst hosten für maximal Compliance      
+      subtitle: Cloud oder on-premises
+      description: 'Mit SeaTable haben Sie die Wahl zwischen drei leistungsfähigen Bereitstellungsoptionen für Ihr HR-Tool:'
+      items:
+          - headline: SeaTable Cloud
+            text: Für Unternehmen, die schnell und ohne große IT-Infrastruktur starten möchten.
+            image: /images/template-projektplan.png
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage zur Planung finanzrelevanter Projekte'
+          - headline: SeaTable Server
+            text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten möchten.
+            image: /images/template-massnahmenplan.jpg
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für finanzielle Maßnahmenpakete'
+          - headline: SeaTable Dedicated
+            text: Die Einfachheit der Cloud kombiniert mit der Flexibilität eines selbst gehosteten Systems.  
+            image: /images/asana-dedicated.jpg
+            image_alt: 'SeaTable Dedicated Umgebung für unternehmensweite Finanz- und Planungsprozesse'
+
     - name: content-5
-      weight: 6
+      weight: 8
       items:
       - title: "KI-Automationen für Routineaufgaben"
         subtitle: "Nutzen Sie künstliche Intelligenz"
-        text: "Mithilfe der KI-Automationen von SeaTable können Sie lästige und eintönige Routineaufgaben reduzieren und große Datenmengen beherrschbar machen. Beispielsweise können Sie Texte (z. B. Bewerbungsschreiben, E-Mails) zusammenfassen oder Informationen aus Dokumenten (z. B. Lebensläufen) extrahieren lassen. Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich stattdessen auf Ihr strategisches Personalmanagement."
-        buttons:
-        - label: Erfahren Sie mehr
-          link: posts/ai-powered-automations
-          style: primary
-
+        text: 'Mithilfe der [KI-Automationen von SeaTable]({{< relref "posts/ai-powered-automations" >}}) können Sie lästige und eintönige Routineaufgaben reduzieren und große Datenmengen beherrschbar machen. Beispielsweise können Sie **Texte zusammenfassen** (z. B. Bewerbungsschreiben, E-Mails)oder **Informationen aus Dokumenten extrahieren** lassen (z. B. Lebensläufen). Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich stattdessen auf Ihr strategisches Personalmanagement.' 
+      
     - name: banner-2
-      weight: 11
-      title: Automatisieren Sie Ihre Prozesse mit SeaTable
+      weight: 15
+      title: Testen Sie die flexible Personio Alternative
       buttons:
-        - label: Jetzt starten und Prozesse optimieren
+        - label: Jetzt kostenlos starten
           link: pages/registration
           id: de-personio-registration-3
 
     - name: "content-21"
-      weight: 8
+      weight: 14
       title: Wechseln Sie jetzt zu SeaTable – so leicht geht’s!
       subtitle: Ihre Alternative zu Personio
       items:
@@ -175,16 +190,9 @@ sections:
       - headline: Preiswerte Lösung
         text: "Starten Sie mit der kostenlosen Version von SeaTable und skalieren Sie ganz nach Ihrem Bedarf: Wenn Sie erweiterte Funktionen, mehr Mitarbeiterkonten oder Speicherkapazitäten benötigen, können Sie einfach auf eine kostengünstige Premium-Version upgraden."
 
-    - name: content-22
-      weight: 10
-      title: Die All-in-One-Lösung für Ihr HR-Management
-      subtitle: Worauf warten Sie noch?
-      text: "Als Alternative zu Personio deckt SeaTable die gesamte Bandbreite von der Arbeitszeiterfassung über das Recruiting bis zur operativen Personalarbeit ab. Dank starker Funktionen für App-Erstellung, KI-Automationen und Datenmanagement gestalten Sie Ihre HR-Prozesse übersichtlich und effizient.<br/><br/>Nutzen Sie z. B. die SeaTable Cloud in der kostenlosen Basis-Version, um alle Mitarbeiterdaten zentral und sicher zu speichern. Vergessen Sie versteckte Kosten, unverschämte Vertriebspraktiken und langes Warten auf Hilfe! Im Gegensatz zu überteuerter HR Software wie Personio sind die Preise und Geschäftsbedingungen von SeaTable fair und transparent.<br/><br/>Als KI No-Code-Plattform ist SeaTable leicht zu bedienen, sodass Sie ohne große IT-Kenntnisse eigene Anwendungen erstellen und Aufgaben automatisieren können. Reduzieren Sie den Verwaltungsaufwand und beschleunigen Sie langwierige, eintönige Prozesse, um den Kopf für die wirklich wichtigen Dinge frei zu haben!"
-      buttons:
-
     - name: faq
-      weight: 12
-      title: Häufig gestellte Fragen (FAQs)
+      weight: 16
+      title: FAQs – SeaTable als Personio Alternative
       items:
           - q: "Warum ist SeaTable die beste Personio Alternative?"
             a: "SeaTable hat ein hervorragendes Preis-Leistungs-Verhältnis und ist als erschwingliche Personio Alternative auch für kleine Unternehmen geeignet. Sie starten kostenlos und skalieren nach Belieben, wenn Ihr Team wächst. Gleichzeitig wird die Kostenersparnis im Vergleich zu Personio höher, je mehr Nutzer Sie in Ihrem Unternehmen haben. Zudem überzeugt SeaTable mit hoher Kundenzufriedenheit, Fairness und Transparenz. Funktional unterscheidet sich SeaTable aufgrund seiner Flexibilität von Personio: Die Alternative für kreative Innovationstreiber ist nicht auf bestimmte Anwendungen oder Zusatzmodule beschränkt. Stattdessen bauen Sie selbst schnell, einfach und intuitiv genau die HR Software und Apps, die Sie brauchen."
@@ -197,5 +205,4 @@ sections:
           
           - q: "Welche Vorteile bieten die KI-Funktionen von SeaTable für das HR-Management?"
             a: "Mithilfe der KI-Automationen von SeaTable können Sie vor allem Ihre operative Personalarbeit reduzieren. Beispielsweise können Sie Texte (z. B. Bewerbungsschreiben, E-Mails) zusammenfassen oder formulieren lassen oder Informationen aus Dokumenten (z. B. Lebensläufen) extrahieren. Zudem können Sie viele repetitive Aufgaben automatisieren, die eintönig sind und unnötigen Aufwand bedeuten, und sich stattdessen auf strategisches HR-Management konzentrieren. Deshalb ist SeaTable eine exzellente Alternative zu Personio, das keine KI-Automationen kennt."
-
 ---
