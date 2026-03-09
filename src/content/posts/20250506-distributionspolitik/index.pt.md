@@ -8,7 +8,8 @@ date: 2025-05-06
 categories:
     - 'best-practice'
 tags:
-    - 'Distribuição'
+    - 'Planejamento de vendas'
+    - 'Aprovisionamento e logística'
 url: '/pt/politica-de-distribuicao'
 color: '#e9d3b4'
 ---
@@ -33,35 +34,35 @@ Para poder oferecer os seus produtos ou serviços ao menor custo possível, uma 
 
 Os objectivos podem, por conseguinte, ser resumidos da seguinte forma:
 
-{{< faq "Presença no mercado" >}}
+{{< accordion "Presença no mercado" >}}
 
 Aumente a disponibilidade dos seus produtos em todos os pontos de venda relevantes, por exemplo, em lojas online ou pontos de venda fixos.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Satisfação do cliente" >}}
+{{< accordion "Satisfação do cliente" >}}
 
 Assegurar cadeias de abastecimento e embalagens estáveis para que os seus produtos cheguem ao cliente a tempo e sem danos.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Eficiência de custos" >}}
+{{< accordion "Eficiência de custos" >}}
 
 Optimize a sua logística de distribuição para evitar a sobreprodução, os estrangulamentos nas entregas, as perdas e as reclamações, e poupe custos.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Aumento das vendas" >}}
+{{< accordion "Aumento das vendas" >}}
 
 O objetivo é influenciar positivamente o comportamento de compra dos clientes através da colocação estratégica nos pontos de venda certos.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Vantagens competitivas" >}}
+{{< accordion "Vantagens competitivas" >}}
 
 Garantir canais de distribuição exclusivos e estar um passo à frente da concorrência graças a uma política de distribuição bem pensada.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## O papel da política de distribuição no marketing mix
 

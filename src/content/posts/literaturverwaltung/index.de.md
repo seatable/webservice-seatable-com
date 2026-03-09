@@ -136,30 +136,30 @@ Ein Literaturverwaltungsprogramm ist nur so gut wie sein Anwender – also Sie. 
 
 Nicht alle Informationen zu Ihren Quellen sind für die spätere Übertragung in das Literaturverzeichnis relevant. Damit Sie die von vielen Programmen automatisch erstellten Angaben nicht überfordern, sollten Sie wissen, wie Sie Quellen korrekt zitieren:
 
-{{< faq "Autoren" >}}
+{{< accordion "Autoren" >}}
 
 Die Autoren sollten Sie mit Nach- und Vornamen und ggf. akademischen Titeln angeben. Neben den Autoren ist bei Sammelbänden auch der Name der Herausgeber zu nennen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Jahr" >}}
+{{< accordion "Jahr" >}}
 
 Neben der Jahreszahl müssen Sie bei Internetquellen auch Tag und Monat der Veröffentlichung angeben. Handelt es sich um eine Quelle ohne Jahresangabe, müssen Sie dies ebenfalls kenntlich machen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Titel" >}}
+{{< accordion "Titel" >}}
 
 Der Titel bezieht sich auf den Titel des Artikels, des Buches oder des Kapitels, wenn es sich um einen Sammelband handelt. Dabei sollten Sie die Groß- und Kleinschreibung beachten.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Medium" >}}
+{{< accordion "Medium" >}}
 
 Meist reicht hier die Angabe der Zeitschrift oder des Werkes, in welchem der Artikel veröffentlicht wurde. Handelt es sich um Bücher, sollten Sie den Verlag nennen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Ausgabe und Seitenzahl" >}}
+{{< accordion "Ausgabe und Seitenzahl" >}}
 
 Diese Angaben sollten Sie so genau wie möglich notieren. Zählen Sie die Seitenzahlen nach, wenn diese nicht abgedruckt sind.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### 3\. Neue Quellen mit dem Literaturverwaltungsprogramm recherchieren
 

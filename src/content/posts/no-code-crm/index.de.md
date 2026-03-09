@@ -48,29 +48,29 @@ Klassische CRM-Systeme (wie SAP CRM oder Microsoft Dynamics CRM) sind oft teuer,
 
 Sehen Sie sich die Vorteile von No-Code für CRM-Systeme im Detail an:
 
-{{< faq "Schnell einsatzbereit" >}}
+{{< accordion "Schnell einsatzbereit" >}}
 Dank vorgefertigter Software-Bausteine reduzieren Sie die Entwicklungszeit für Ihr No-Code CRM auf ein Minimum. Auch der Einstieg läuft reibungslos: Meist können Sie direkt ohne Bezahlung loslegen und in kürzester Zeit die erste Version von Ihrem CRM-System online stellen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Flexibel anpassbar" >}}
+{{< accordion "Flexibel anpassbar" >}}
 No-Code-Tools sind benutzerfreundlich und einfach zu bedienen, sodass Ihre Mitarbeiter selbst die gewünschten Anpassungen vornehmen können und nicht darauf warten müssen, dass Entwickler die entsprechenden Funktionen programmieren. Darüber hinaus können Sie ganz leicht und ohne SQL-Abfragen Daten auswerten und visualisieren.
-{{< /faq >}}
+{{< /accordion >}}
   
-{{< faq "Unabhängig von IT-Ressourcen" >}}
+{{< accordion "Unabhängig von IT-Ressourcen" >}}
 Klassische CRM-Systeme sind oft aufwändige Spezialanfertigungen, die viele IT-Ressourcen für die Entwicklung und den Betrieb verschlingen. No-Code macht Ihr CRM unabhängig von der Verfügbarkeit [knapper IT-Fachkräfte]({{< relref "posts/it-fachkraeftemangel" >}}). Stattdessen setzen Ihre Mitarbeiter ihre Ideen selbst in die Tat um – Stichwort: [Citizen Development]({{< relref "posts/20250317-citizen-developer" >}}).
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Skalierbare Cloud" >}}
+{{< accordion "Skalierbare Cloud" >}}
 In der Regel können Sie ein No-Code CRM-System in einer Cloud nutzen, für die Sie keine eigenen Server anschaffen müssen. Im Gegensatz zu einem On-Premises CRM System können Sie eine [Cloud-Lösung]({{< relref "posts/cloud-computing" >}}) schnell und bequem skalieren, das heißt mehr Funktionen, Speicherplatz oder Nutzerkonten dazubuchen, wenn Ihre Anforderungen, Ihre Datenmengen oder Ihre Mitarbeiteranzahl steigen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Kosteneffizient" >}}
+{{< accordion "Kosteneffizient" >}}
 Viele No-Code-Anbieter setzen auf ein Pay-as-you-go-Modell; das bedeutet, dass Sie mit Ihrem CRM System kostenlos starten und nur für die Ressourcen (z. B. Speicherplatz) zahlen, die Sie tatsächlich verbrauchen. No-Code-Lösungen senken die Entwicklungskosten für Ihr CRM deutlich und machen CRM Software für Kleinunternehmen erschwinglich. Zudem benötigen Sie für ein CRM-System in der Cloud keine eigene Infrastruktur, wodurch Sie sich hohe Ausgaben sparen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Integrativ" >}}
+{{< accordion "Integrativ" >}}
 Die meisten No-Code-Lösungen zeigen sich sehr kompatibel und offen für die Anbindung anderer Systeme. Mit vielfältigen Integrationen können Sie alle Kundendaten, Verkaufsprozesse, Dokumente, Termine und Support-Anfragen in einem zentralen Tool zusammenführen, was Ihnen fundierte Analysen und Entscheidungen erleichtert.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Für wen eignet sich ein No-Code CRM?
 

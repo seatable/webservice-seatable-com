@@ -8,7 +8,8 @@ date: 2025-05-06
 categories:
     - 'best-practice'
 tags:
-    - 'Distribution'
+    - 'Sales Planning'
+    - 'Procurement & Logistics'
 url: '/distribution-policy'
 color: '#e9d3b4'
 ---
@@ -33,35 +34,35 @@ In order to be able to offer your products or services at the lowest possible co
 
 The objectives can therefore be summarized as follows:
 
-{{< faq "Market presence" >}}
+{{< accordion "Market presence" >}}
 
 Increase the availability of your products at all relevant points of sale, for example in online stores or stationary retail outlets.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Customer satisfaction" >}}
+{{< accordion "Customer satisfaction" >}}
 
 Ensure stable supply chains and packaging so that your products reach the customer on time and undamaged.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Cost efficiency" >}}
+{{< accordion "Cost efficiency" >}}
 
 Optimize your distribution logistics to avoid overproduction, delivery bottlenecks, losses and complaints, and thus save costs.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Increase sales" >}}
+{{< accordion "Increase sales" >}}
 
 Try to positively influence customer buying behavior through strategic placement at the right points of sale.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Competitive advantages" >}}
+{{< accordion "Competitive advantages" >}}
 
 Secure exclusive distribution channels and stay one step ahead of the competition thanks to a well thought-out distribution policy.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## The role of distribution policy in the marketing mix
 

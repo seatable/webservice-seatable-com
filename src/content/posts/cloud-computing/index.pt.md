@@ -40,22 +40,21 @@ Além da definição de computação em nuvem acima, 6 recursos são considerado
 
 Agora que já explicámos a computação em nuvem em termos simples, vejamos as vantagens que as caraterísticas de uma nuvem acima mencionadas lhe oferecem.
 
-{{< faq "Eficiência de custos e conveniência" >}}
+{{< accordion "Eficiência de custos e conveniência" >}}
 Quando utiliza serviços de nuvem, poupa em investimentos elevados nos seus próprios servidores e paga apenas os recursos que realmente utiliza (princípio do pagamento consoante o uso). Como não tem de se preocupar com a infraestrutura local, a sua equipa de TI tem mais tempo para questões mais importantes.
-{{< /faq >}}
-{{< faq "Fornecimento rápido" >}}
+{{< /accordion >}}
+{{< accordion "Fornecimento rápido" >}}
 Com a computação em nuvem, pode ativar os componentes necessários em apenas alguns minutos, em vez de ter de esperar semanas pela encomenda de hardware, configurar o sistema e instalar software.
-{{< /faq >}}
-{{< faq "Independência de locais e dispositivos" >}}
+{{< /accordion >}}
+{{< accordion "Independência de locais e dispositivos" >}}
 Os seus funcionários podem aceder aos seus dados e aplicações na nuvem a qualquer momento e a partir de qualquer lugar. Isto significa que não há perda de dados devido ao armazenamento local se um dispositivo final se avariar ou se perder.
-{{< /faq >}}
-{{< faq "Atualidade e produtividade" >}}
+{{< /accordion >}}
+{{< accordion "Atualidade e produtividade" >}}
 Numa nuvem, todos os utilizadores vêem a versão atual dos seus dados e documentos armazenados. As alterações são sincronizadas em tempo real, o que melhora significativamente a colaboração.
-{{< /faq >}}
-{{< faq "Elasticidade e escalabilidade" >}}
+{{< /accordion >}}
+{{< accordion "Elasticidade e escalabilidade" >}}
 Adapte de forma flexível a sua infraestrutura de nuvem às suas necessidades e volumes de dados em qualquer altura. A computação em nuvem permite que a sua empresa cresça sem que a sua infraestrutura de TI se torne um estrangulamento.
-
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Cenários para os quais a computação em nuvem é a solução
 
@@ -80,15 +79,15 @@ De seguida, apresentamos três serviços de computação em nuvem amplamente uti
 
 ### O que é SaaS?
 
-SaaS (Software as a Service) refere-se a **aplicações de software baseadas na nuvem**, como sistemas de CRM ou [ferramentas de gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}). SaaS em computação em nuvem significa que pode utilizar o software pretendido na nuvem em qualquer altura e a partir de qualquer lugar, por exemplo, através de um navegador Web, sem ter de o instalar localmente num dispositivo. O fornecedor de SaaS aloja o software num servidor remoto, mas também se encarrega das cópias de segurança, das actualizações e do trabalho de manutenção.
+SaaS (Software as a Service) refere-se a **aplicações de software baseadas na nuvem**, como [sistemas de CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}) ou [ferramentas de gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}). SaaS em computação em nuvem significa que pode utilizar o software pretendido na nuvem em qualquer altura e a partir de qualquer lugar, por exemplo, através de um navegador Web, sem ter de o instalar localmente num dispositivo. O fornecedor de SaaS aloja o software num servidor remoto, mas também se encarrega das cópias de segurança, das actualizações e do trabalho de manutenção.
 
 ### O que é PaaS?
 
-A Plataforma como Serviço (PaaS) é uma **plataforma baseada na nuvem para o desenvolvimento de aplicações**. A PaaS simplifica e acelera o desenvolvimento porque já não tem de se preocupar com a configuração e administração da infraestrutura subjacente. O fornecedor de PaaS já fornece às suas equipas de desenvolvimento todos os recursos de hardware e software de que necessitam. Isto também inclui testes em computação em nuvem.
+A Platform as a Service (PaaS) é uma **plataforma baseada na nuvem para o desenvolvimento de aplicações**. A PaaS simplifica e acelera o desenvolvimento porque já não tem de se preocupar com a configuração e administração da infraestrutura subjacente. O fornecedor de PaaS já fornece às suas equipas de desenvolvimento todos os recursos de hardware e software de que necessitam. Isto também inclui testes em computação em nuvem.
 
 ### O que é IaaS?
 
-Infraestrutura como um serviço (IaaS) significa que aluga a sua **infraestrutura de TI** desejada, por exemplo, servidores, redes, bases de dados e sistemas operativos, **num centro de dados externo e acede-lhe através da nuvem**. A faturação é baseada na utilização através do fornecedor de computação em nuvem. Isto elimina a necessidade de investimentos elevados na sua própria infraestrutura.
+Infrastructure as a Service (IaaS) significa que aluga a sua **infraestrutura de TI** desejada, por exemplo, servidores, redes, bases de dados e sistemas operativos, **num centro de dados externo e acede-lhe através da nuvem**. A faturação é baseada na utilização através do fornecedor de computação em nuvem. Isto elimina a necessidade de investimentos elevados na sua própria infraestrutura.
 
 | **IaaS**            | **PaaS**                          | **SaaS**                              |                                                                  |
 | ------------------- | --------------------------------- | ------------------------------------- | ---------------------------------------------------------------- |
@@ -106,7 +105,7 @@ Existem vários modelos de computação em nuvem, que diferem de acordo com o **
 - **Nuvem privada**: O utilizador aloja e gere uma nuvem privada na sua própria rede. Consequentemente, também tem de ser o próprio a tratar da infraestrutura. No entanto, os recursos informáticos estão exclusivamente disponíveis para a sua empresa.
 - **Nuvem híbrida**: Com a computação em nuvem híbrida, combina a nuvem pública com a nuvem privada. Por exemplo, pode armazenar alguns dos seus dados nos seus próprios servidores e utilizar simultaneamente recursos e aplicações adicionais numa nuvem pública.
 
-A principal diferença entre estes modelos de computação em nuvem é a medida em que pretende **fornecer os recursos de TI de que a sua empresa necessita**. Quanto mais infra-estruturas possuir, maior será a soberania e o controlo dos dados, mas maiores serão os esforços e os custos.
+A principal diferença entre estes modelos de computação em nuvem é a medida em que pretende **fornecer os recursos de TI de que a sua empresa necessita**. Quanto mais infra-estruturas possuir, maior será a [soberania e o controlo dos dados]({{< relref "posts/digitale-souveraenitaet" >}}), mas maiores serão os esforços e os custos.
 
 | **Nuvem pública**                      | **Nuvem híbrida**                                                                              | **Nuvem privada**                                                                                |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |

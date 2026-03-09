@@ -29,35 +29,35 @@ Die Datensätze in den Abteilungen sind dann nicht nur **isoliert**, sondern auc
 
 Verschaffen Sie sich einen Überblick, welche Vorteile das Stammdatenmanagement für Sie haben kann:
 
-{{< faq "Höhere Effizienz und Redundanzfreiheit" >}}
+{{< accordion "Höhere Effizienz und Redundanzfreiheit" >}}
 
 Ein Master Data Management Tool kann Daten aus verschiedenen Systemen abgleichen und zusammenführen. So vermeiden Sie doppelte und inkonsistente Informationen. Zudem ist es deutlich effizienter, nur Änderungen am Stammdatensatz vorzunehmen, als Datensätze an vielen verschiedenen Stellen manuell aktualisieren zu müssen.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Geringere IT-Kosten" >}}
+{{< accordion "Geringere IT-Kosten" >}}
 
 Indem Sie nur einen Stammdatensatz pflegen, auf den alle Abteilungen zugreifen können, vermeiden Sie überflüssige Datensilos. Infolgedessen können Sie eine Vielzahl an unterschiedlichen Systemen ersetzen, die mehr Speicher- und Rechenkapazitäten verschlingen und höhere Kosten verursachen als ein zentrales Master Data Management. Dadurch sparen Sie bares Geld.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Fundierte Analysen und Entscheidungen" >}}
+{{< accordion "Fundierte Analysen und Entscheidungen" >}}
 
 Die Analyse fehlerhafter oder veralteter Daten hat unbrauchbare Ergebnisse zur Folge. In einem Master Data Management System finden Sie hingegen bereinigte und aktualisierte Daten, die ein verlässliches Fundament für Ihre Analysen und strategischen Entscheidungen bilden. Mithilfe von BI-Tools, die diese Stammdaten nutzen, fördern Sie belastbare Zahlen und Erkenntnisse für Reports und Präsentationen zutage.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Reibungslose, automatisierte Geschäftsprozesse" >}}
+{{< accordion "Reibungslose, automatisierte Geschäftsprozesse" >}}
 
 Einheitliche, aktuelle und korrekte Stammdaten ermöglichen reibungslose Abläufe, zum Beispiel im Marketing und Vertrieb. Denken Sie etwa an den Versand von personalisierter Werbung an Kundenadressen, die nicht mehr stimmen. Mit qualitativ hochwertigen Kundendaten können Sie hingegen den Lead-to-Cash-Prozess beschleunigen und automatisieren.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Leichtere Umsetzung des Datenschutzes" >}}
+{{< accordion "Leichtere Umsetzung des Datenschutzes" >}}
 
 Gesetzliche Anforderungen wie die DSGVO können Sie leichter erfüllen, wenn Sie alle Daten nachvollziehbar an einem zentralen Ort speichern. Beispielsweise regelt die DSGVO, wann Sie bestimmte Daten wieder löschen müssen. Ohne Master Data Management können diese über mehrere Datensilos verstreut sein, was die Einhaltung der Vorschriften erschwert.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Was zählt zu den Stammdaten?
 

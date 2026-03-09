@@ -31,35 +31,35 @@ Os registos de dados nos departamentos são então não só **isolados**, mas ta
 
 Obtenha uma visão geral das vantagens que a gestão de dados principais pode ter para si:
 
-{{< faq "Maior eficiência e ausência de redundância" >}}
+{{< accordion "Maior eficiência e ausência de redundância" >}}
 
 Uma ferramenta de gestão de dados mestre pode sincronizar e fundir dados de diferentes sistemas. Isto permite-lhe evitar informações duplicadas e inconsistentes. É também muito mais eficiente fazer alterações apenas no registo de dados mestre do que ter de atualizar manualmente os registos de dados em muitos locais diferentes.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Custos de TI mais baixos" >}}
+{{< accordion "Custos de TI mais baixos" >}}
 
 Ao manter apenas um conjunto de dados mestre que pode ser acedido por todos os departamentos, evita silos de dados desnecessários. Como resultado, pode substituir uma multiplicidade de sistemas diferentes que consomem mais capacidade de armazenamento e de computação e causam custos mais elevados do que a gestão centralizada de dados principais. Isto permite-lhe poupar dinheiro.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Análises e decisões corretas" >}}
+{{< accordion "Análises e decisões corretas" >}}
 
 A análise de dados incorrectos ou desactualizados conduz a resultados inúteis. Num sistema de gestão de dados mestre, por outro lado, encontrará dados limpos e actualizados que constituem uma base fiável para as suas análises e decisões estratégicas. Com a ajuda de ferramentas de BI que utilizam estes dados principais, é possível obter números e conclusões fiáveis para relatórios e apresentações.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Processos empresariais automáticos e sem problemas" >}}
+{{< accordion "Processos empresariais automáticos e sem problemas" >}}
 
 Dados mestre normalizados, actualizados e corretos permitem processos simples, por exemplo, em marketing e vendas. Pense, por exemplo, no envio de publicidade personalizada para endereços de clientes que já não estão corretos. Por outro lado, com dados de alta qualidade sobre os clientes, pode acelerar e automatizar o processo de venda.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Implementação mais fácil da proteção de dados" >}}
+{{< accordion "Implementação mais fácil da proteção de dados" >}}
 
 Pode cumprir mais facilmente os requisitos legais, como o RGPD, se armazenar todos os dados numa localização central e de forma rastreável. Por exemplo, o RGPD regula quando é necessário eliminar determinados dados. Sem a gestão de dados mestre, estes dados podem estar dispersos por vários silos de dados, o que dificulta a conformidade.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## O que é que conta como dados principais?
 

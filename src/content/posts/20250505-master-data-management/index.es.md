@@ -31,35 +31,35 @@ Los registros de datos de los departamentos no sólo están **aislados**, sino q
 
 Obtenga una visión general de las ventajas que la gestión de datos maestros puede tener para usted:
 
-{{< faq "Mayor eficiencia y ausencia de redundancias" >}}
+{{< accordion "Mayor eficiencia y ausencia de redundancias" >}}
 
 Una herramienta de gestión de datos maestros puede sincronizar y fusionar datos de distintos sistemas. Esto permite evitar información duplicada e incoherente. También es mucho más eficiente realizar cambios únicamente en el registro de datos maestros que tener que actualizar manualmente los registros de datos en muchos lugares diferentes.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Menores costes de las tecnologías de la información" >}}
+{{< accordion "Menores costes de las tecnologías de la información" >}}
 
 Al mantener un único conjunto de datos maestros al que pueden acceder todos los departamentos, se evitan silos de datos innecesarios. Como resultado, puede sustituir multitud de sistemas diferentes que consumen más capacidad de almacenamiento e informática y generan costes más elevados que la gestión centralizada de datos maestros. Así ahorrará dinero.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Análisis y decisiones acertadas" >}}
+{{< accordion "Análisis y decisiones acertadas" >}}
 
 Analizar datos incorrectos u obsoletos conduce a resultados inútiles. En cambio, en un sistema de gestión de datos maestros encontrará datos depurados y actualizados que constituyen una base fiable para sus análisis y decisiones estratégicas. Con la ayuda de herramientas de BI que utilicen estos datos maestros, podrá desenterrar cifras y conclusiones fiables para informes y presentaciones.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Procesos empresariales fluidos y automatizados" >}}
+{{< accordion "Procesos empresariales fluidos y automatizados" >}}
 
 Unos datos maestros normalizados, actualizados y correctos permiten agilizar los procesos, por ejemplo en marketing y ventas. Piense, por ejemplo, en el envío de publicidad personalizada a direcciones de clientes que ya no son correctas. Por otro lado, con datos de clientes de alta calidad, puede acelerar y automatizar el proceso "lead-to-cash".
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Aplicación más sencilla de la protección de datos" >}}
+{{< accordion "Aplicación más sencilla de la protección de datos" >}}
 
 Puede cumplir requisitos legales como el GDPR más fácilmente si almacena todos los datos en una ubicación central de forma trazable. Por ejemplo, el GDPR regula cuándo hay que eliminar determinados datos. Sin una gestión de datos maestros, estos datos pueden estar dispersos en varios silos de datos, lo que dificulta su cumplimiento.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## ¿Qué se considera datos maestros?
 

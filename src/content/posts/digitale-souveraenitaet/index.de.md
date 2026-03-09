@@ -43,25 +43,25 @@ Bei fast allen digitalen Prozessen werden Daten erfasst, verarbeitet oder überm
 
 Digitale Souveränität hat Vorteile in folgender Hinsicht:
 
-{{< faq "Technologische Unabhängigkeit" >}}
+{{< accordion "Technologische Unabhängigkeit" >}}
 Um einen Kontrollverlust zu vermeiden und nicht erpressbar zu sein, sollten Unternehmen und Länder die Abhängigkeit von anderen Ländern und einzelnen Technologiekonzernen reduzieren und stattdessen eigene Alternativen entwickeln oder sich zumindest breiter aufstellen, um aus mehreren Optionen wählen zu können.  
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Kontrolle über die Infrastruktur" >}}
+{{< accordion "Kontrolle über die Infrastruktur" >}}
 Um [Datenflüsse]({{< relref "posts/20250317-datenmanagement" >}}) steuern und vor Angriffen schützen zu können, benötigen Sie entweder eine eigene digitale Infrastruktur mit robusten Sicherheitsvorkehrungen oder dedizierte Server in sicheren Rechenzentren in Ihrer Region. Aufgrund des hohen Energiebedarfs und der Baukosten von Rechenzentren sind Investitionen auf staatlicher Ebene notwendig.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Strategische Wettbewerbsfähigkeit" >}}
+{{< accordion "Strategische Wettbewerbsfähigkeit" >}}
 Wer die Kontrolle über Technologien, Daten und digitale Infrastrukturen hat, besitzt den Schlüssel zur Wertschöpfung der Zukunft. Denn künstliche Intelligenz, Automatisierung und datenbasierte Geschäftsmodelle werden die Wirtschaft weiterhin prägen. Ohne digitale Souveränität wird es schwer, im [Wettbewerb]({{< relref "posts/wettbewerbsanalyse" >}}) zu bestehen.
-{{< /faq >}}  
+{{< /accordion >}}  
 
-{{< faq "Datenschutz und Demokratie" >}}
+{{< accordion "Datenschutz und Demokratie" >}}
 Der Schutz persönlicher Daten, der Privatsphäre und von Geschäftsgeheimnissen ist von zentraler Bedeutung für die demokratische Selbstbestimmung. Digitale Plattformen beeinflussen zunehmend gesellschaftliche Debatten, politische Entscheidungen und sogar Wahlen. In dieser Hinsicht bedeutet digitale Souveränität, diese Plattformen zur Einhaltung des eigenen Rechts- und Wertesystems anzuhalten. 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Compliance (z. B. DSGVO-Konformität)" >}}
+{{< accordion "Compliance (z. B. DSGVO-Konformität)" >}}
 Digitale Souveränität macht es deutlich leichter, juristische Risiken im Zusammenhang mit Datenschutzbestimmungen zu minimieren. Denn diese fordern meist Transparenz über die Speicherung, Weitergabe und Nutzung von Daten ein, die Sie nicht garantieren können, wenn Sie die Daten aus der Hand geben.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Wie es zu digitaler Abhängigkeit kommt
 

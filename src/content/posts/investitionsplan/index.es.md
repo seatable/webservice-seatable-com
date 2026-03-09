@@ -38,21 +38,21 @@ Además, las inversiones suelen conllevar una elevada **necesidad de capital**, 
 
 Según el objetivo y el momento de la inversión, se pueden distinguir 4 tipos de inversión:
 
-{{< faq "Inversión inicial" >}}
+{{< accordion "Inversión inicial" >}}
 Una inversión inicial, también conocida como inversión de puesta en marcha, comprende todos los gastos en los que incurre para el equipamiento inicial de su empresa con el fin de hacer despegar su negocio. Por regla general, la exigencia de capital es más elevada para este tipo de inversión. Se hace una distinción entre las verdaderas inversiones y los puros gastos de puesta en marcha, como los registros ante las autoridades, que no contribuyen a aumentar el valor de su empresa.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Inversión de expansión" >}}
+{{< accordion "Inversión de expansión" >}}
 Las inversiones de expansión son gastos con los que amplía sus capacidades. Por ejemplo, si la demanda de sus productos o servicios ha aumentado, deberá incluir más máquinas o personal en su plan de inversiones. Una inversión de expansión suele amortizarse al cabo de poco tiempo, ya que va acompañada de un aumento previsible del volumen de negocios.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Inversión de racionalización" >}}
+{{< accordion "Inversión de racionalización" >}}
 Lo principal que espera de una inversión de racionalización es un ahorro de costes. Por ejemplo, podría invertir en robots para automatizar y acelerar los procesos de producción con el fin de ahorrar en costes de mano de obra. Sin embargo, en comparación con una inversión de expansión, usted no está aumentando la capacidad, sino principalmente la eficiencia.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Inversión de sustitución" >}}
+{{< accordion "Inversión de sustitución" >}}
 Una inversión de sustitución es necesaria si necesita reemplazar por completo un activo obsoleto o defectuoso para que su empresa siga funcionando. También se conoce como reinversión. Se trata simplemente de mantener o restablecer el estado anterior sin modificar la capacidad o la eficacia de su empresa.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Vida útil y depreciación de los bienes de capital
 

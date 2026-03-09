@@ -95,29 +95,29 @@ Le Shadow IT, qui est généralement moins bien conçu et moins bien testé que 
 
 ### Aperçu des risques du Shadow IT
 
-{{< faq "Perte de contrôle" >}}
+{{< accordion "Perte de contrôle" >}}
 Le Shadow IT échappe à la gouvernance informatique. Si la gestion des services informatiques n'a pas une vue d'ensemble des outils utilisés, elle ne peut pas les inclure dans le support ainsi que dans les stratégies, migrations ou mises à jour futures.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Qualité insuffisante" >}}
+{{< accordion "Qualité insuffisante" >}}
 Le Shadow IT est rarement documenté, testé et maintenu correctement. Des erreurs système ou des applications instables peuvent en résulter lorsque les solutions informatiques sont assemblées rapidement et sans expertise.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Solutions isolées et silos de données" >}}
+{{< accordion "Solutions isolées et silos de données" >}}
 Les départements spécialisés risquent de construire des solutions de contournement compliquées et isolées qui ne sont pas intégrées à d'autres systèmes. Les silos de données non synchronisés rendent les processus inefficaces et redondants.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Risques de sécurité" >}}
+{{< accordion "Risques de sécurité" >}}
 Les systèmes informatiques de l'ombre ne respectent souvent pas les normes de sécurité en vigueur dans l'entreprise (par ex. cryptage, authentification), ce qui les rend vulnérables aux cyber-attaques et aux fuites de données. Des installations non vérifiées peuvent en outre ouvrir la porte à des logiciels malveillants.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Violation de la conformité" >}}
+{{< accordion "Violation de la conformité" >}}
 Le Shadow IT est souvent incompatible avec la protection des données conformément au RGPD, aux certifications ISO et à d'autres directives. Dans le cas des services de cloud computing, les emplacements des serveurs en dehors de l'UE peuvent poser problème.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Coûts imprévisibles" >}}
+{{< accordion "Coûts imprévisibles" >}}
 Sans visibilité, les entreprises perdent rapidement le contrôle des coûts, par exemple en raison d'abonnements/licences en double pour des outils similaires. En cas de conséquences juridiques dues à des violations de la conformité, les amendes peuvent être élevées.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Gestion des risques informatiques
 

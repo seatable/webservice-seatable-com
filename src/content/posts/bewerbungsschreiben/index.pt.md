@@ -208,13 +208,17 @@ Para exprimir autoconfiança, utilize frases activas e dirija-se diretamente às
 
 Aqui encontrará ajudas de formulação para várias situações na carta de apresentação:
 
-{{< faq "Estabelecer a referência da empresa e do tema" >}}Já adquiri conhecimentos sobre o trabalho jornalístico durante vários estágios na indústria dos media. Agora, gostaria de aplicar as competências que adquiri nas relações públicas da vossa empresa internacional e desenvolvê-las ainda mais.{{< /faq >}}
+{{< accordion "Estabelecer a referência da empresa e do tema" >}}Já adquiri conhecimentos sobre o trabalho jornalístico durante vários estágios na indústria dos media. Agora, gostaria de aplicar as competências que adquiri nas relações públicas da vossa empresa internacional e desenvolvê-las ainda mais.
+{{< /accordion >}}
 
-{{< faq "Acondicionar a experiência profissional de forma rentável" >}}Graças aos meus 10 anos de experiência em vendas, sei como inspirar os clientes em contacto direto e é por isso que posso aumentar com sucesso o volume de negócios da sua equipa de vendas.{{< /faq >}}
+{{< accordion "Acondicionar a experiência profissional de forma rentável" >}}Graças aos meus 10 anos de experiência em vendas, sei como inspirar os clientes em contacto direto e é por isso que posso aumentar com sucesso o volume de negócios da sua equipa de vendas.
+{{< /accordion >}}
 
-{{< faq "Desenvolver qualificações especializadas" >}}Graças aos meus estudos românicos, tenho um domínio de nível B2 do espanhol e do francês e apliquei e aprofundei estes conhecimentos durante os estágios no estrangeiro em Madrid e Paris.{{< /faq >}}
+{{< accordion "Desenvolver qualificações especializadas" >}}Graças aos meus estudos românicos, tenho um domínio de nível B2 do espanhol e do francês e apliquei e aprofundei estes conhecimentos durante os estágios no estrangeiro em Madrid e Paris.
+{{< /accordion >}}
 
-{{< faq "Estabelecer competências transversais" >}}Na minha posição de chefe de equipa adjunto, desenvolvi um estilo de gestão colegial em que trato os meus funcionários como iguais e atribuo-lhes tarefas com base nas suas competências individuais. Juntos, concluímos o projeto em metade do tempo previsto.{{< /faq >}}
+{{< accordion "Estabelecer competências transversais" >}}Na minha posição de chefe de equipa adjunto, desenvolvi um estilo de gestão colegial em que trato os meus funcionários como iguais e atribuo-lhes tarefas com base nas suas competências individuais. Juntos, concluímos o projeto em metade do tempo previsto.
+{{< /accordion >}}
 
 ### Lista de controlo
 

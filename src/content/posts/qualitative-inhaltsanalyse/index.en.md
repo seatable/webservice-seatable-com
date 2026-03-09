@@ -1,5 +1,5 @@
 ---
-title: 'Qualitative content analysis explained simply - example: press review'
+title: 'Qualitative content analysis explained simply – example: press review'
 description: 'What is qualitative content analysis? This article explains the key steps, main criteria (Mayring method), and practical implementation using a real-world press review – including category-building and coding.'
 date: 2024-03-11
 lastmod: '2024-03-11'
@@ -118,15 +118,15 @@ Before you can carry out your qualitative content analysis, you need to define t
 
 Articles can be easily divided into units thanks to their structure.
 
-1. **Evaluation unit**: Determines which materials you code one after the other.
+- **Evaluation unit**: Determines which materials you code one after the other.
 
 > _We look at articles from 20 different media. Each of these **articles** is an evaluation unit._
 
-3. **Coding unit**: Determines which is the smallest possible component to be coded.
+- **Coding unit**: Determines which is the smallest possible component to be coded.
 
 > _The articles start with a short **teaser** as an introductory text. This forms the coding unit._
 
-5. **Context unit**: Determines what the largest possible component is that is coded.
+- **Context unit**: Determines what the largest possible component is that is coded.
 
 > _The article can be viewed **as a whole**. This means that the context unit is congruent with the evaluation unit._
 
@@ -148,20 +148,20 @@ You can now compile and interpret your results. Refer back to your original ques
 
 Finally, check whether your analysis meets the quality criteria of qualitative content analysis.
 
-{{< faq "Transparency" >}}
+{{< accordion "Transparency" >}}
 
 Your research must be **comprehensible** to outsiders. Explain how and why you proceeded in each step of your analysis.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Intersubjectivity" >}}
+{{< accordion "Intersubjectivity" >}}
 
 Make sure that your analysis shows similar results when repeated across different coders, i.e. that it is **reproducible**.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Reliability" >}}
+{{< accordion "Reliability" >}}
 
 How reliable is the coding? Is the same content rated equally and are differences expressed appropriately in different values?
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Checklist for your qualitative content analysis
 

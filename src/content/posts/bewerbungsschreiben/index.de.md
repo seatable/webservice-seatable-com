@@ -202,25 +202,25 @@ Um Selbstbewusstsein auszudrücken, verwenden Sie Aktivsätze und sprechen Perso
 
 Hier finden Sie Formulierungshilfen für verschiedene Situationen im Anschreiben:
 
-{{< faq "Unternehmens- und Themenbezug herstellen" >}}
+{{< accordion "Unternehmens- und Themenbezug herstellen" >}}
 
 “Bei mehreren Praktika in der Medienbranche habe ich bereits Einblicke in die journalistische Arbeit erhalten. Nun möchte ich meine dort erarbeiteten Kompetenzen in die PR Ihres internationalen Unternehmens einbringen und weiterentwickeln.”
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Berufserfahrung gewinnbringend verpacken" >}}
+{{< accordion "Berufserfahrung gewinnbringend verpacken" >}}
 
 “Durch meine 10-jährige Tätigkeit im Verkauf weiß ich, wie man Kunden im direkten Kontakt begeistert, weshalb ich den Umsatz in Ihrem Sales Team erfolgreich steigern kann.”
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Fachliche Qualifikationen herausarbeiten" >}}
+{{< accordion "Fachliche Qualifikationen herausarbeiten" >}}
 
 “Dank meines Romanistikstudiums beherrsche ich Spanisch und Französisch auf dem Level B2 und habe diese Kenntnisse bei Auslandspraktika in Madrid und Paris praktisch angewandt und vertieft.”
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Soft Skills begründen" >}}
+{{< accordion "Soft Skills begründen" >}}
 
 “In meiner Position als stellvertretender Teamleiter habe ich einen kollegialen Führungsstil entwickelt, mit dem ich meinen Mitarbeitenden auf Augenhöhe begegne und ihnen Aufgaben anhand ihrer individuellen Fähigkeiten zuteile. Gemeinsam haben wir das Projekt in der Hälfte der vorgegebenen Zeit durchgeführt.”
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Checkliste
 

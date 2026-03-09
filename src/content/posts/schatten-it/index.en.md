@@ -95,29 +95,29 @@ Shadow IT, which is generally less well designed and tested than professionally 
 
 ### The risks of shadow IT at a glance
 
-{{< faq "Loss of control" >}}
+{{< accordion "Loss of control" >}}
 Shadow IT escapes IT governance. If IT service management does not have an overview of the tools used, it cannot include them in support and future strategies, migrations or updates.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Poor quality" >}}
+{{< accordion "Poor quality" >}}
 Shadow IT is rarely properly documented, tested and maintained. System errors or unstable applications can be the result if IT solutions are put together quickly and without IT knowledge.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Isolated solutions and data silos" >}}
+{{< accordion "Isolated solutions and data silos" >}}
 The individual departments may build cumbersome, isolated workarounds that are not integrated with other systems. Unsynchronized data silos make processes inefficient and redundant.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Security risks" >}}
+{{< accordion "Security risks" >}}
 Shadow IT systems often do not meet company-wide security standards (e.g. encryption, authentication), which makes them vulnerable to cyber attacks and data leaks. Unchecked installations can also open the door to malware.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Compliance breaches" >}}
+{{< accordion "Compliance breaches" >}}
 Shadow IT is often incompatible with data protection in accordance with GDPR, ISO certifications and other requirements. With cloud services, server locations outside the EU can be problematic.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Incalculable costs" >}}
+{{< accordion "Incalculable costs" >}}
 Without transparency, companies quickly lose control of costs, e.g. due to duplicate subscriptions/licenses for similar tools. If there are legal consequences due to compliance violations, there is a risk of high fines.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### IT risk management
 

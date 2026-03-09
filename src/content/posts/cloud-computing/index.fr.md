@@ -28,15 +28,11 @@ Le cloud computing (expliqué simplement) désigne la **mise à disposition de r
 En plus de la définition du cloud computing mentionnée ci-dessus, 6 caractéristiques sont considérées comme caractéristiques :
 
 1. **Large accès au réseau** : Les services cloud sont accessibles via Internet à l'aide de mécanismes standard et ne sont pas liés à un terminal spécifique (p. ex. ordinateur portable, smartphone, tablette).
-
-1) **Services mesurables** : Le fournisseur de services d'informatique en nuage peut mesurer, surveiller et contrôler avec précision l'utilisation des ressources (par exemple, espace de stockage, comptes d'utilisateurs) et les facturer au client.
-
-1. **Capacité de mandant** : Dans le cloud computing, plusieurs clients se partagent les ressources (par exemple un serveur) du fournisseur. Les processus et les données des différents clients ne sont toutefois pas visibles pour les autres.
-
-1) **Pooling des ressources** : Les ressources du fournisseur sont rassemblées dans un réservoir dans lequel les clients se servent. Ceux-ci ne savent pas quelles ressources (par ex. serveurs) ils utilisent exactement. Il est toutefois souvent possible de limiter contractuellement le lieu de stockage (par exemple le pays ou le centre de calcul).
-1) **Service à la demande** : Les clients peuvent réserver eux-mêmes les services de cloud computing (par ex. puissance de calcul ou espace de stockage) sans interaction humaine avec le fournisseur de cloud computing.
-
-1. **Rapide élasticité** : Pour pouvoir évoluer en fonction de leurs besoins, les clients peuvent utiliser les services de cloud computing de manière rapide et flexible - dans de nombreux cas, même de manière automatisée. Du point de vue du client, les ressources semblent donc être disponibles en quantité illimitée.
+2. **Services mesurables** : Le fournisseur de services d'informatique en nuage peut mesurer, surveiller et contrôler avec précision l'utilisation des ressources (par exemple, espace de stockage, comptes d'utilisateurs) et les facturer au client.
+3. **Capacité de mandant** : Dans le cloud computing, plusieurs clients se partagent les ressources (par exemple un serveur) du fournisseur. Les processus et les données des différents clients ne sont toutefois pas visibles pour les autres.
+4. **Pooling des ressources** : Les ressources du fournisseur sont rassemblées dans un réservoir dans lequel les clients se servent. Ceux-ci ne savent pas quelles ressources (par ex. serveurs) ils utilisent exactement. Il est toutefois souvent possible de limiter contractuellement le lieu de stockage (par exemple le pays ou le centre de calcul).
+5. **Service à la demande** : Les clients peuvent réserver eux-mêmes les services de cloud computing (par ex. puissance de calcul ou espace de stockage) sans interaction humaine avec le fournisseur de cloud computing.
+6. **Rapide élasticité** : Pour pouvoir évoluer en fonction de leurs besoins, les clients peuvent utiliser les services de cloud computing de manière rapide et flexible - dans de nombreux cas, même de manière automatisée. Du point de vue du client, les ressources semblent donc être disponibles en quantité illimitée.
 
 ![Modèle de cloud computing](Cloud-Computing-Modelle.jpg)
 
@@ -44,31 +40,30 @@ En plus de la définition du cloud computing mentionnée ci-dessus, 6 caractéri
 
 Après avoir expliqué simplement le cloud computing, nous nous penchons sur les avantages que vous offrent les caractéristiques d'un cloud citées ci-dessus.
 
-{{< faq "Rentabilité et confort" >}}
+{{< accordion "Rentabilité et confort" >}}
 Si vous faites appel à des services cloud, vous économisez des investissements importants dans vos propres serveurs et ne payez que pour les ressources que vous utilisez effectivement (principe du "pay-as-you-go"). Comme vous ne devez pratiquement plus vous occuper de l'infrastructure locale, votre personnel informatique a plus de temps à consacrer à des sujets plus importants.
-{{< /faq >}}
-{{< faq "Déploiement rapide" >}}
+{{< /accordion >}}
+{{< accordion "Déploiement rapide" >}}
 Avec le cloud computing, vous pouvez activer les composants nécessaires en quelques minutes au lieu de devoir attendre des semaines pour obtenir le matériel commandé, configurer votre système et installer les logiciels.
-{{< /faq >}}
-{{< faq "Indépendance vis-à-vis des lieux et des appareils" >}}
+{{< /accordion >}}
+{{< accordion "Indépendance vis-à-vis des lieux et des appareils" >}}
 Vos collaborateurs peuvent accéder à tout moment et de partout à leurs données et applications dans le cloud. Ainsi, il n'y a pas de perte de données due au stockage local si un terminal est cassé ou perdu.
-{{< /faq >}}
-{{< faq "Actualité et productivité" >}}
+{{< /accordion >}}
+{{< accordion "Actualité et productivité" >}}
 Dans un nuage, tous les utilisateurs voient la version actuelle de leurs données et documents stockés. Les modifications sont synchronisées en temps réel, ce qui améliore considérablement la collaboration.
-{{< /faq >}}
-{{< faq "Élasticité et évolutivité" >}}
+{{< /accordion >}}
+{{< accordion "Élasticité et évolutivité" >}}
 Adaptez à tout moment et de manière flexible votre infrastructure cloud à vos besoins et à vos volumes de données. Le cloud computing permet à votre entreprise de se développer sans que l'infrastructure informatique ne devienne un goulot d'étranglement.
-
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Scénarios pour lesquels le cloud computing est la solution
 
 Les avantages mentionnés ci-dessus permettent de dégager quelques scénarios pour lesquels les services de cloud computing sont prédestinés. L'un ou l'autre de ces défis vous est peut-être familier :
 
-- **coûts élevés pour l'infrastructure des serveurs**, qui dépassent votre budget.
+- **Coûts élevés pour l'infrastructure des serveurs**, qui dépassent votre budget.
 - **Processus d'acquisition long**, mais mise à disposition de l'infrastructure dont vous avez besoin de toute urgence
 - **Croissance rapide et inattendue de l'entreprise**, dépassant vos ressources informatiques actuelles.
-- **besoin difficilement planifiable ou utilisation très fluctuante** des ressources informatiques existantes
+- **Besoin difficilement planifiable ou utilisation très fluctuante** des ressources informatiques existantes
 - **Forte augmentation des volumes de données** qui surchargent vos ressources locales de stockage et de calcul
 - **Collaborateurs travaillant à distance dans le monde entier**.
 
@@ -84,7 +79,7 @@ Nous vous présentons ci-dessous trois services de cloud computing très répand
 
 ### Qu'est-ce que SaaS ?
 
-Les SaaS (Software as a Service) sont des **applications logicielles basées sur le cloud** telles que les systèmes CRM ou les [outils de gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}). SaaS dans le cloud computing signifie que vous pouvez utiliser le logiciel souhaité dans le cloud à tout moment et de n'importe où, par exemple via un navigateur web, sans avoir à l'installer localement sur un appareil. Le fournisseur SaaS héberge le logiciel sur un serveur distant, mais s'occupe également des sauvegardes, des mises à jour et des travaux de maintenance.
+Les SaaS (Software as a Service) sont des **applications logicielles basées sur le cloud** telles que les [systèmes CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}) ou les [outils de gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}). SaaS dans le cloud computing signifie que vous pouvez utiliser le logiciel souhaité dans le cloud à tout moment et de n'importe où, par exemple via un navigateur web, sans avoir à l'installer localement sur un appareil. Le fournisseur SaaS héberge le logiciel sur un serveur distant, mais s'occupe également des sauvegardes, des mises à jour et des travaux de maintenance.
 
 ### Qu'est-ce que le PaaS ?
 
@@ -106,11 +101,11 @@ Infrastructure as a Service (IaaS) signifie que vous louez l'infrastructure **IT
 
 Il existe différents modèles de cloud computing, qui se distinguent par le **modèle de mise à disposition** du cloud :
 
-- **cloud public** : Dans un cloud public, un fournisseur externe met à disposition toutes les ressources informatiques que vous (et de nombreux autres clients) utilisez. Le fournisseur de cloud computing possède et gère tous les composants matériels et logiciels.
+- **Cloud public** : Dans un cloud public, un fournisseur externe met à disposition toutes les ressources informatiques que vous (et de nombreux autres clients) utilisez. Le fournisseur de cloud computing possède et gère tous les composants matériels et logiciels.
 - **Cloud privé** : Vous hébergez et gérez vous-même un cloud privé sur votre propre réseau. Vous devez donc également vous occuper vous-même de l'infrastructure. En revanche, les ressources informatiques sont exclusivement à la disposition de votre entreprise.
 - **Cloud hybride** : Dans le cloud computing hybride, vous combinez le cloud public et le cloud privé. Par exemple, vous pouvez stocker une partie de vos données sur vos propres serveurs tout en utilisant des ressources et des applications supplémentaires dans un cloud public.
 
-La principale différence entre ces modèles de cloud computing réside dans la mesure dans laquelle vous souhaitez **fournir vous-même les ressources informatiques** dont votre entreprise a besoin. Plus vous possédez d'infrastructure, plus vous avez de souveraineté et de contrôle sur les données, mais plus vos efforts et vos coûts sont élevés.
+La principale différence entre ces modèles de cloud computing réside dans la mesure dans laquelle vous souhaitez **fournir vous-même les ressources informatiques** dont votre entreprise a besoin. Plus vous possédez d'infrastructure, plus vous avez de [souveraineté et de contrôle sur les données]({{< relref "posts/digitale-souveraenitaet" >}}), mais plus vos efforts et vos coûts sont élevés.
 
 |                                               | **Public Cloud**                                                               | **Hybrid Cloud**                                                                                           | **Private Cloud**                                                                                         |
 | --------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |

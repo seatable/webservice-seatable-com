@@ -19,7 +19,7 @@ seo:
     description: 'Ensure clear and error-free literature management. Here are tips on how to use a reference management program.'
 ---
 
-Whether it's a thesis, dissertation or research report - a **reference management program** makes it easier for you to work on scientific projects. Creating **bibliographies** takes just as much time as finding, viewing and evaluating **sources**.
+Whether it's a thesis, dissertation or research report – a **reference management program** makes it easier for you to work on scientific projects. Creating **bibliographies** takes just as much time as finding, viewing and evaluating **sources**.
 
 With structured literature management, you can prevent errors in literature lists and keep **track of all relevant studies** on your topic. In addition, a reference management program helps you to create the references for the collected works in a uniform **citation style**.
 
@@ -31,17 +31,17 @@ Get your scientific literature in order! © caftor / Adobe Stock
 
 ## Why is a reference management program useful?
 
-Collecting evidence for hypotheses, presenting the current state of research or substantiating your own approach: In scientific projects, **searching for and evaluating sources** is unavoidable - whether in books, journals or online media. Proper scientific work involves a great deal of effort, which you can minimize with clever literature management.
+Collecting evidence for hypotheses, presenting the current state of research or substantiating your own approach: In scientific projects, **searching for and evaluating sources** is unavoidable – whether in books, journals or online media. Proper scientific work involves a great deal of effort, which you can minimize with clever literature management.
 
 With a reference management program you can ...
 
 - maintain an [overview of extensive projects]({{< relref "templates/projects/project-plan" >}}).
-- Systematically record research literature.
+- systematically record research literature.
 - ensure a uniform citation style.
 - make flexible changes to your literature lists.
 - reduce the susceptibility to errors in long bibliographies.
-- Organize your sources by category and project.
-- Automatically back up data to the cloud or a server.
+- organize your sources by category and project.
+- automatically back up data to the cloud or a server.
 
 All in all, the database structure of reference management programs enables you to manage sources more effectively than would be possible manually (e.g. in a text editor or on paper).
 
@@ -53,7 +53,7 @@ Have you decided to use literature software to work more efficiently? Wonderful!
 
 First, get an overview of the features.
 
-### Citavi - the classic
+### Citavi – the classic
 
 Citavi is the preferred reference management program at many universities. The main advantages of using Citavi in this area are that it can be used in **German**, **group work is possible without restrictions** and there is **good support** for questions.
 
@@ -63,7 +63,7 @@ Group work is child's play with Citavi.
 
 However, unlike many of its competitors, the program is **not free and can only be used with Windows**. After 30 free days, you will have to dig deep into your pockets. The price to be paid depends on your activity and starts at 75 euros per year for students in the web version. Companies pay around 425 euros for the Windows version for two years.
 
-### Zotero - the entry-level program
+### Zotero – the entry-level program
 
 Zotero is particularly suitable for newcomers, as it is intuitive to use and designed for research in all subject areas. The program is **free**, runs on all common operating systems and can also be used on a cell phone or tablet thanks to an app. However, there are some advantages and disadvantages in terms of content that you should be aware of:
 
@@ -79,7 +79,7 @@ Zotero is particularly suitable for newcomers, as it is intuitive to use and des
 - Database searches in the program are only possible to a limited extent.
 - You should check automatic references, as these may be incorrect or incomplete.
 
-### Mendeley - the cloud software
+### Mendeley – the cloud software
 
 Mendeley offers you a **free subscription** with two gigabytes of storage space in the cloud. If this is not enough for you, you can purchase a version with more storage space, additional support, more features and better data encryption for a price on request. The program runs on all operating systems.
 
@@ -89,7 +89,7 @@ In addition to using the desktop program or the Web Importer, you can also use M
 
 Despite these advantages, the program has weaknesses in terms of content. Search histories are not saved and not all saved works can be linked together. You should also have a good understanding of English, as the program is only available in this language.
 
-### EndNote - the all-rounder
+### EndNote – the all-rounder
 
 With EndNote you get an **all-round package with many useful functions**, but you should be prepared to pay a **high price** for it. The commercial reference management program from the information service provider Thomson-Reuters also offers a free version that you can **test** for **30 days**. However, the functions are very limited.
 
@@ -101,7 +101,7 @@ The program specializes in scientists working on large research projects. This i
 
 You must purchase a full version to be able to use it indefinitely. This starts at 252 euros for single users. As a student, you will receive a 50 percent discount after verification of your identity.
 
-### JabRef - the language guru
+### JabRef – the language guru
 
 JabRef is a **free open source literature management system**. The platform developers make the source code available to everyone so that many developers can contribute to the optimization of the software. This is particularly evident in the fact that the program is available **in many languages**.
 
@@ -111,7 +111,7 @@ If you know your way around, you can help to improve JabRef.
 
 However, JabRef also has weaknesses. The reference management does not work optimally on mobile devices, you cannot communicate with other users and there is no full-text search, which makes it difficult to create the bibliography.
 
-### SeaTable - the intelligent table solution
+### SeaTable – the intelligent table solution
 
 SeaTable offers you a **tabular** alternative to the literature management programs already presented. The user interface is **intuitive** to use and offers you many useful features for structuring your literature quickly and easily.
 
@@ -135,34 +135,34 @@ Some reference management programs can record sources by DOI. © ake1150 / Adobe
 
 ### 2\. enter literature data carefully
 
-A reference management program is only as good as its user - you. Therefore, make sure you enter bibliographic data correctly. This way, your program can create the formatted references and bibliographies without errors, as it knows exactly where which information belongs.
+A reference management program is only as good as its user – you. Therefore, make sure you enter bibliographic data correctly. This way, your program can create the formatted references and bibliographies without errors, as it knows exactly where which information belongs.
 
 Not all information about your sources is relevant for the subsequent transfer to the bibliography. You should know how to cite sources correctly so that you are not overwhelmed by the information automatically generated by many programs:
 
-{{< faq "Authors" >}}
+{{< accordion "Authors" >}}
 
 The authors should be listed with their surnames and first names and, if applicable, academic titles. In addition to the authors, the name of the editors should also be given for edited volumes.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Year" >}}
+{{< accordion "Year" >}}
 
 In addition to the year, you must also state the day and month of publication for internet sources. If it is a source without a year, you must also indicate this.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Title" >}}
+{{< accordion "Title" >}}
 
 The title refers to the title of the article, book or chapter if it is an anthology. Please note that the title is case-sensitive.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Medium" >}}
+{{< accordion "Medium" >}}
 
 In most cases, it is sufficient to state the journal or work in which the article was published. If it is a book, you should name the publisher.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Edition and page number" >}}
+{{< accordion "Edition and page number" >}}
 
 You should make a note of this information as accurately as possible. Count the page numbers if they are not printed.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### 3\. research new sources with the reference management program
 

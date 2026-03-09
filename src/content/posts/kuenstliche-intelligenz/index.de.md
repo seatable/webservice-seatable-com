@@ -54,7 +54,7 @@ Meist unterscheidet man künstliche Intelligenz in die Arten **starke und schwac
 
 Im Sprachgebrauch meint künstliche Intelligenz heute fast immer schwache KI. Diese ist darauf spezialisiert, **klar definierte, wiederkehrende Aufgaben** besonders gut zu erledigen.
 
-Schwache KI kann jedoch nicht denken, keine Absichten entwickeln und sich nicht selbst reflektieren. Sie besitzt keine Kreativität und lernt nicht selbstständig, sondern muss trainiert werden. Ihre Lernfähigkeit ist meist begrenzt auf die Anwendung von Algorithmen (eindeutige Handlungsvorschriften zur Lösung bestimmter Probleme) und auf das Erkennen von Mustern in großen Datenmengen. Vor allem in der regelbasierten [Automatisierung von Prozessen]({{< relref "pages/industry-solutions/operations" >}}) sowie in der **Sprach- und Bildverarbeitung** ist das von großem Nutzen.
+Schwache KI kann jedoch nicht denken, keine Absichten entwickeln und sich nicht selbst reflektieren. Sie besitzt keine Kreativität und lernt nicht selbstständig, sondern muss trainiert werden. Ihre Lernfähigkeit ist meist begrenzt auf die Anwendung von Algorithmen (eindeutige Handlungsvorschriften zur Lösung bestimmter Probleme) und auf das Erkennen von Mustern in großen Datenmengen. Vor allem in der regelbasierten [Automatisierung von Prozessen]({{< relref "pages/ai-automations" >}}) sowie in der **Sprach- und Bildverarbeitung** ist das von großem Nutzen.
 
 ### Starke KI
 
@@ -163,29 +163,29 @@ Vom Schreckensszenario, dass eine feindliche künstliche Intelligenz in Zukunft 
   
 Die größten Probleme rund um künstliche Intelligenz sind:
 
-{{< faq "Falsche Antworten durch fehlerhafte Daten" >}}
+{{< accordion "Falsche Antworten durch fehlerhafte Daten" >}}
 In einem KI-System kann es zu Fehlinterpretationen und falschen Schlussfolgerungen kommen, wenn das KI-Modell fehlerhafte bzw. veraltete Daten enthält oder Daten verknüpft, die in keinem Zusammenhang stehen. Wie häufig dies passiert, hängt im Wesentlichen von der Qualität, Aktualität und Menge der Trainingsdaten ab. Bei Chatbots basieren KI-generierte Antworten zum Teil auf Trainingsdaten, die mehrere Monate oder Jahre alt sind. Daher scheitern KI-Modelle oft bei der Einordnung von aktuellen Nachrichten, was echten Journalismus weiterhin unverzichtbar macht. Hinterfragen Sie stets kritisch, ob KI-generierte Inhalte stimmen können, und informieren Sie sich zusätzlich bei vertrauenswürdigen Medien.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Halluzinieren und Erfinden von Fakten" >}}
+{{< accordion "Halluzinieren und Erfinden von Fakten" >}}
 ChatGPT, Gemini, Copilot und Perplexity klingen überzeugend, auch wenn sie völlig falsche Dinge behaupten. Laut einer [EBU Studie](https://www.ebu.ch/Report/MIS-BBC/NI_AI_2025.pdf) enthalten im Schnitt 45 Prozent ihrer Antworten Fehler oder erfundene Fakten. Die sogenannten Halluzinationen entstehen, weil KI kein Faktenwissen besitzt. Zwar kann sie statistisch plausible Wortketten generieren, aber nicht prüfen, ob eine Aussage wahr ist. Sie reimt sich fehlende Informationen zusammen und nennt mitunter sogar Quellen, die überhaupt nicht existieren. Deshalb gilt: Vertrauen Sie KI-generierten Antworten niemals blind und überprüfen Sie wichtige Informationen mithilfe von seriösen Quellen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Diskriminierende Entscheidungen" >}}
+{{< accordion "Diskriminierende Entscheidungen" >}}
 KI erlernt aus Daten menschliche Muster, die zum Teil bestehende Vorurteile und Rollenbilder widerspiegeln. Daraus können diskriminierende Entscheidungen, etwa bei Bewerbungen oder Kreditvergaben, resultieren. In [einem bekannten Fall](https://www.heise.de/news/Amazon-KI-zur-Bewerbungspruefung-benachteiligte-Frauen-4189356.html) hatte ein Bewerbungsalgorithmus unbeabsichtigt Frauen benachteiligt. Da in der IT-Branche mehr Männer als Frauen beschäftigt sind und das Unternehmen in den vorigen zehn Jahren größtenteils Männer eingestellt hatte, filterte die KI anhand dieser Trainingsdaten die Bewerbungen von Frauen heraus. Damit künstliche Intelligenz in Zukunft objektivere Entscheidungen trifft als Menschen, muss sie folglich mit ausgewogenen Datensätzen trainiert werden.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Desinformation und Betrug durch Deepfakes" >}}
+{{< accordion "Desinformation und Betrug durch Deepfakes" >}}
 KI-generierte Texte, Bilder und Videos können inzwischen sehr realistisch wirken und gezielt zur Täuschung eingesetzt werden. Sogenannte Deepfakes nutzen künstliche Intelligenz, um etwa Gesichter und Stimmen in Videos oder auf Fotos zu fälschen. Beispielsweise kann künstliche Intelligenz ein Video erstellen, in dem prominente Persönlichkeiten Aussagen treffen, die sie in Wirklichkeit nie gesagt haben. Es ist schwierig, darin die künstliche Intelligenz zu erkennen. Unlautere Akteure können täuschend echte Künstliche Intelligenz Bilder generieren und sie zur Manipulation von Identitäten nutzen, biometrische Systeme überlisten oder Desinformationskampagnen durchführen. Falschinformationen und Unwahrheiten verbreiten sich durch künstliche Intelligenz heute rasant in sozialen Medien, weil viele Nutzer diese ungeprüft teilen und die Algorithmen kontroverse Inhalte begünstigen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Hoher Energieverbrauch von KI-Rechenzentren" >}}
+{{< accordion "Hoher Energieverbrauch von KI-Rechenzentren" >}}
 Um KI Systeme mithilfe von Lernalgorithmen und großen Datenmengen zu trainieren, sind teure Computerprozessoren mit hoher Rechenleistung erforderlich. Ein einziges KI Rechenzentrum kann dabei so viel Strom verbrauchen wie eine Großstadt. Da ein Großteil davon heute noch aus fossilen Energieträgern gewonnen wird, ist auch die [Umweltbelastung durch KI](https://www.tagesschau.de/wirtschaft/energie/kuenstliche-intelligenz-energieverbrauch-100.html) ein Thema. Kluge Konzepte vor Ort, die beispielsweise die Abwärme von Rechenzentren nutzen, können diese Effekte abmildern.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Datenschutz und Abhängigkeit von Tech-Riesen" >}}
+{{< accordion "Datenschutz und Abhängigkeit von Tech-Riesen" >}}
 Der Einsatz von künstlicher Intelligenz erfordert große Datenmengen, in denen sich auch viele sensible, personenbezogene Informationen befinden können. Beispielsweise sammeln die Betreiber von sozialen Netzwerken Unmengen von Nutzerdaten, die später zur Ausspielung personalisierter Werbung genutzt werden können, um Wahl- oder Kaufentscheidungen zu beeinflussen. Es ist daher problematisch, dass die meisten dieser Daten in den Händen weniger Tech-Riesen aus den USA und China liegen. Auch die KI-Modelle an sich kommen überwiegend aus den USA, was zu einer hohen technologischen Abhängigkeit führt. Eine europäische Alternative sind die Open-Source-Sprachmodelle von Mistral AI.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Best Practices für den Umgang mit KI in Unternehmen
 

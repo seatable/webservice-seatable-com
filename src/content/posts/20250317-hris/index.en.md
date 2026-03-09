@@ -1,8 +1,8 @@
 ---
-title: 'HRIS - what it is and how it benefits your company'
-description: 'Efficient personnel management is practically impossible these days without an HRIS (Human Resources Information System) - at least if your company has reached a certain size. In this article, we take a look at the difference between a human resources information system (HRIS) and a human resources management system (HRMS) and discuss how you can make your HR management more efficient with software that includes an HR database.'
+title: 'HRIS – what it is and how it benefits your company'
+description: 'Efficient personnel management is practically impossible these days without an HRIS (Human Resources Information System) – at least if your company has reached a certain size. In this article, we take a look at the difference between a human resources information system (HRIS) and a human resources management system (HRMS) and discuss how you can make your HR management more efficient with software that includes an HR database.'
 seo:
-    title: 'HRIS - what it is and how it benefits your organisation'
+    title: 'HRIS – what it is and how it benefits your organisation'
     description: 'In this article we show the difference between a human resources information system (HRIS) and a human resources management system (HRMS)'
 date: 2025-03-17
 categories:
@@ -80,21 +80,21 @@ In the past, HRIS software was almost always used [on-premises]({{< relref "page
 
 An HR information system has advantages that go far beyond the possibilities of an Excel employee database. These essentially include
 
-{{< faq "Central access and up-to-dateness " >}}Even today, many HR departments still collect employee data in Excel spreadsheets or file documents in traditional folders. With an HRIS, however, you can store all relevant employee data and documents digitally in a central HR database. This gives you and your employees (with the appropriate authorization) access to the current status at any time. Outdated Excel lists and data chaos are finally a thing of the past! In addition, the data is stored in the HR management system, even if a company cell phone or laptop is lost.
-{{< /faq >}}
-{{< faq "Minimal effort through automation " >}}In an Excel employee database, you have to enter all data manually or copy it back and forth, whereas a personnel information system automatically synchronizes and updates the data for everyone as soon as a team member makes changes. With the help of your specially defined automations, you can also approve vacation requests at the touch of a button, for example, or send a sick employee a prefabricated confirmation email including a "get well soon" message. This not only saves time, but also reduces error-prone manual processes.
-{{< /faq >}}
-{{< faq "Lower costs " >}}Digital and automated processes allow you and your employees to work faster, more efficiently and, last but not least, more cost-effectively, as you save valuable working time as well as paper and printing costs. Even if you previously outsourced your personnel accounting to an external service provider, a personnel information system can help you save money with internal processes. On the other hand, an HRIS naturally incurs costs, which often consist of a monthly usage fee per team member. On balance, however, the cost-benefit ratio should be positive.
-{{< /faq >}}
-{{< faq "Perfect overview " >}}An HRIS provides you with a well-founded overview of your employee data. You can store all documents and information compactly in digital personnel files. There is usually a comprehensive calendar so that you and your employees are always informed about all absences, vacations and sick notes. This is just as important for staff scheduling. In a good HR management system, statistical evaluations are child's play. Answer questions at a glance, such as: What was the sickness rate in October? How many new hires and departures have there been in the last two years? And what are the expected personnel costs for the coming year?
-{{< /faq >}}
-{{< faq "High level of self-determination and transparency " >}}In most cases, employees have the option of maintaining their own data in an HRIS. Let your employees manage as many HR processes as possible themselves, e.g. update their personal data, submit vacation requests or download payslips. This takes the pressure off your HR department and is a win-win situation for everyone involved. An HR database in the sense of an internal employee overview also leads to greater transparency, because everyone knows who to contact with a particular concern. Such information, which is visible to everyone, can be, for example, the exact position and department, previous projects, the professional e-mail address or the company mobile phone number of a person.
+{{< accordion "Central access and up-to-dateness " >}}Even today, many HR departments still collect employee data in Excel spreadsheets or file documents in traditional folders. With an HRIS, however, you can store all relevant employee data and documents digitally in a central HR database. This gives you and your employees (with the appropriate authorization) access to the current status at any time. Outdated Excel lists and data chaos are finally a thing of the past! In addition, the data is stored in the HR management system, even if a company cell phone or laptop is lost.
+{{< /accordion >}}
+{{< accordion "Minimal effort through automation " >}}In an Excel employee database, you have to enter all data manually or copy it back and forth, whereas a personnel information system automatically synchronizes and updates the data for everyone as soon as a team member makes changes. With the help of your specially defined automations, you can also approve vacation requests at the touch of a button, for example, or send a sick employee a prefabricated confirmation email including a "get well soon" message. This not only saves time, but also reduces error-prone manual processes.
+{{< /accordion >}}
+{{< accordion "Lower costs " >}}Digital and automated processes allow you and your employees to work faster, more efficiently and, last but not least, more cost-effectively, as you save valuable working time as well as paper and printing costs. Even if you previously outsourced your personnel accounting to an external service provider, a personnel information system can help you save money with internal processes. On the other hand, an HRIS naturally incurs costs, which often consist of a monthly usage fee per team member. On balance, however, the cost-benefit ratio should be positive.
+{{< /accordion >}}
+{{< accordion "Perfect overview " >}}An HRIS provides you with a well-founded overview of your employee data. You can store all documents and information compactly in digital personnel files. There is usually a comprehensive calendar so that you and your employees are always informed about all absences, vacations and sick notes. This is just as important for staff scheduling. In a good HR management system, statistical evaluations are child's play. Answer questions at a glance, such as: What was the sickness rate in October? How many new hires and departures have there been in the last two years? And what are the expected personnel costs for the coming year?
+{{< /accordion >}}
+{{< accordion "High level of self-determination and transparency " >}}In most cases, employees have the option of maintaining their own data in an HRIS. Let your employees manage as many HR processes as possible themselves, e.g. update their personal data, submit vacation requests or download payslips. This takes the pressure off your HR department and is a win-win situation for everyone involved. An HR database in the sense of an internal employee overview also leads to greater transparency, because everyone knows who to contact with a particular concern. Such information, which is visible to everyone, can be, for example, the exact position and department, previous projects, the professional e-mail address or the company mobile phone number of a person.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## SeaTable as HRIS or HRMS
 
-SeaTable is a no-code database that is ideal as HR management software for the cloud or on-premises. SeaTable offers maximum flexibility and scalability - you decide how you want to map your processes in the software and which functions you require.
+SeaTable is a no-code database that is ideal as HR management software for the cloud or on-premises. SeaTable offers maximum flexibility and scalability – you decide how you want to map your processes in the software and which functions you require.
 
 For example, you can start with an [employee directory template]({{< relref "templates/human-resources/employee-directory" >}}), which represents an HR database in its simplest form.
 

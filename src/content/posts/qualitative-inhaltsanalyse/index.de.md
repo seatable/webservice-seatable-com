@@ -116,15 +116,15 @@ Bevor Sie Ihre qualitative Inhaltsanalyse durchführen können, müssen Sie noch
 
 Artikel lassen sich durch ihre Strukturierung einfach in Einheiten aufteilen.
 
-1. **Auswertungseinheit**: Legt fest, welche Materialien Sie nacheinander codieren.
+- **Auswertungseinheit**: Legt fest, welche Materialien Sie nacheinander codieren.
 
 > _Wir betrachten Artikel von 20 verschiedenen Medien. Jeder dieser **Artikel** ist eine Auswertungseinheit._
 
-3. **Codiereinheit**: Bestimmt, was der kleinstmögliche Bestandteil ist, welcher codiert wird.
+- **Codiereinheit**: Bestimmt, was der kleinstmögliche Bestandteil ist, welcher codiert wird.
 
 > _Die Artikel haben zu Beginn einen kurzen **Teaser** als Einleitungstext. Dieser bildet die Codiereinheit._
 
-5. **Kontexteinheit**: Legt fest, was der größtmögliche Bestandteil ist, welcher codiert wird.
+- **Kontexteinheit**: Legt fest, was der größtmögliche Bestandteil ist, welcher codiert wird.
 
 > _Der Artikel kann **als Ganzes** betrachtet werden. Damit ist die Kontexteinheit kongruent mit der Auswertungseinheit._
 
@@ -146,20 +146,20 @@ Nun können Sie Ihre Ergebnisse zusammentragen und interpretieren. Greifen Sie d
 
 Zuletzt überprüfen Sie, ob Ihre Analyse den Gütekriterien der qualitativen Inhaltsanalyse entspricht.
 
-{{< faq "Transparenz" >}}
+{{< accordion "Transparenz" >}}
 
 Ihre Forschung muss für Außenstehende **nachvollziehbar** sein. Erklären Sie für jeden Schritt Ihrer Analyse, wie und warum Sie so vorgegangen sind.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Intersubjektivität" >}}
+{{< accordion "Intersubjektivität" >}}
 
 Stellen Sie sicher, dass Ihre Analyse bei wiederholter Durchführung über verschiedene Codierer hinweg ähnliche Ergebnisse aufweist, also **reproduzierbar** ist.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Reliabilität" >}}
+{{< accordion "Reliabilität" >}}
 
 Wie zuverlässig ist die Codierung? Werden gleiche Inhalte gleich bewertet und drücken sich Unterschiede angemessen in unterschiedlichen Werten aus?
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Checkliste für Ihre qualitative Inhaltsanalyse
 

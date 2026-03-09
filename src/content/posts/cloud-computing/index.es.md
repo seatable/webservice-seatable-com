@@ -39,33 +39,32 @@ Además de la definición anterior de computación en nube, 6 rasgos se consider
 
 Ahora que hemos explicado la computación en nube en términos sencillos, echemos un vistazo a las ventajas que le ofrecen las características de una nube antes mencionadas.
 
-{{< faq "Rentabilidad y comodidad" >}}
-Cuando utilizas servicios en la nube, te ahorras elevadas inversiones en servidores propios y sólo pagas por los recursos que realmente utilizas (principio de pago por uso). Como apenas tiene que preocuparse de la infraestructura local, su personal informático tiene más tiempo para asuntos más importantes.
-{{< /faq >}}
-{{< faq "Aprovisionamiento rápido" >}}
+{{< accordion "Rentabilidad y comodidad" >}}
+Cuando utiliza los servicios en nube, se ahorra las elevadas inversiones en sus propios servidores y sólo paga por los recursos que realmente utiliza (principio de pago por uso). Como apenas tiene que preocuparse de la infraestructura local, su personal informático tiene más tiempo para asuntos más importantes.
+{{< /accordion >}}
+{{< accordion "Aprovisionamiento rápido" >}}
 Con la computación en nube, puede activar los componentes necesarios en sólo unos minutos en lugar de tener que esperar semanas a que se encargue el hardware, configurar el sistema e instalar el software.
-{{< /faq >}}
-{{< faq "Independencia de ubicaciones y dispositivos" >}}
+{{< /accordion >}}
+{{< accordion "Independencia de ubicaciones y dispositivos" >}}
 Sus empleados pueden acceder a sus datos y aplicaciones en la nube en cualquier momento y desde cualquier lugar. Esto significa que no hay pérdida de datos debido al almacenamiento local si un dispositivo final se rompe o se pierde.
-{{< /faq >}}
-{{< faq "Actualización y productividad" >}}
+{{< /accordion >}}
+{{< accordion "Actualización y productividad" >}}
 En la nube, todos los usuarios ven la versión actual de sus datos y documentos almacenados. Los cambios se sincronizan en tiempo real, lo que mejora significativamente la colaboración.
-{{< /faq >}}
-{{< faq "Elasticidad y escalabilidad" >}}
+{{< /accordion >}}
+{{< accordion "Elasticidad y escalabilidad" >}}
 Adapte con flexibilidad su infraestructura en la nube a sus necesidades y volúmenes de datos en cualquier momento. La computación en nube permite a su empresa crecer sin que su infraestructura informática se convierta en un cuello de botella.
-
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Escenarios para los que la computación en nube es la solución
 
 Las ventajas mencionadas anteriormente dan lugar a una serie de escenarios para los que los servicios de computación en nube están predestinados. Quizás uno o dos de estos retos le suenen familiares:
 
-- Costes elevados de infraestructura de servidores\*\* que superan su presupuesto.
+- **Costes elevados de infraestructura de servidores** que superan su presupuesto.
 - **Largos procesos de adquisición**, pero urgente necesidad de provisión de infraestructura
-- Crecimiento rápido e imprevisto de la empresa\*\* que supera los recursos informáticos existentes.
-- Demanda difícilmente predecible o utilización muy fluctuante\*\* de los recursos informáticos existentes.
-- Aumento rápido de los volúmenes de datos\*\* que sobrecargan los recursos informáticos y de almacenamiento locales.
-- Empleados que trabajan a distancia en todo el mundo\*\*.
+- **Crecimiento rápido e imprevisto de la empresa** que supera los recursos informáticos existentes.
+- **Demanda difícilmente predecible o utilización muy fluctuante** de los recursos informáticos existentes.
+- **Aumento rápido de los volúmenes de datos** que sobrecargan los recursos informáticos y de almacenamiento locales.
+- **Empleados que trabajan a distancia en todo el mundo**
 
 ## La historia de la nube en pocas palabras
 
@@ -79,7 +78,7 @@ A continuación presentamos tres servicios de computación en nube muy utilizado
 
 ### ¿Qué es SaaS?
 
-SaaS (Software as a Service) se refiere a **aplicaciones de software basadas en la nube**, como sistemas CRM o [herramientas de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). SaaS en la computación en nube significa que puede utilizar el software deseado en la nube en cualquier momento y desde cualquier lugar, por ejemplo a través de un navegador web, sin tener que instalarlo localmente en un dispositivo. El proveedor de SaaS aloja el software en un servidor remoto, pero también se encarga de las copias de seguridad, las actualizaciones y las tareas de mantenimiento.
+SaaS (Software as a Service) se refiere a **aplicaciones de software basadas en la nube**, como [sistemas CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}) o [herramientas de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). SaaS en la computación en nube significa que puede utilizar el software deseado en la nube en cualquier momento y desde cualquier lugar, por ejemplo a través de un navegador web, sin tener que instalarlo localmente en un dispositivo. El proveedor de SaaS aloja el software en un servidor remoto, pero también se encarga de las copias de seguridad, las actualizaciones y las tareas de mantenimiento.
 
 ### ¿Qué es PaaS?
 
@@ -87,13 +86,13 @@ Platform as a Service (PaaS) es una **plataforma basada en la nube para el desar
 
 ### ¿Qué es IaaS?
 
-Infraestructura como servicio (IaaS) significa que usted alquila la **infraestructura de TI** que desee, por ejemplo servidores, redes, bases de datos y sistemas operativos, **en un centro de datos externo y accede a ella a través de la nube**. La facturación se basa en el uso a través del proveedor de computación en nube. Esto elimina la necesidad de grandes inversiones en infraestructura propia.
+Infrastructure as a Service (IaaS) significa que usted alquila la **infraestructura de TI** que desee, por ejemplo servidores, redes, bases de datos y sistemas operativos, **en un centro de datos externo y accede a ella a través de la nube**. La facturación se basa en el uso a través del proveedor de computación en nube. Esto elimina la necesidad de grandes inversiones en infraestructura propia.
 
 |                      | **IaaS**                          | **PaaS**                    | **SaaS** |
-| -------------------- | --------------------------------- | --------------------------- | -------- | -------------------------------------------------------------------------------- |
+| -------------------- | --------------------------------- | --------------------------- | -------- | 
 | **Tipo de servicio** | Infraestructura                   | Plataforma de desarrollo    | Software |
 | **Grupo objetivo**   | Administradores de sistemas       | Desarrolladores de software | Usuarios |
-| **Ejemplos**         | Servidores, redes, bases de datos | desarrollo de aplicaciones  | DevOps   | sistemas CRM, herramientas de gestión de proyectos, software de recursos humanos |
+| **Ejemplos**         | Servidores, redes, bases de datos | desarrollo de aplicaciones, DevOps | sistemas CRM, herramientas de gestión de proyectos, software de recursos humanos |
 
 ![Para una nube privada, necesita su propia infraestructura](Fuer-eine-Private-Cloud-benoetigen-Sie-eigene-Infrastruktur.jpg 'Para una nube privada, necesita su propia infraestructura.')
 
@@ -105,16 +104,15 @@ Existen varios modelos de computación en nube, que difieren según el **tipo de
 - **Nube privada**: Usted mismo aloja y gestiona una nube privada en su propia red. En consecuencia, también tiene que ocuparse usted mismo de la infraestructura. Sin embargo, los recursos informáticos están a disposición exclusiva de su empresa.
 - **Nube híbrida**: Con la computación en nube híbrida, se combinan la nube pública y la nube privada. Por ejemplo, puede almacenar parte de sus datos en sus propios servidores y utilizar al mismo tiempo recursos y aplicaciones adicionales en una nube pública.
 
-La principal diferencia entre estos modelos de computación en nube es hasta qué punto quieres **proveerte tú mismo** de los recursos informáticos que necesita tu empresa. Cuanta más infraestructura posea, más soberanía y control sobre los datos tendrá, pero mayor será su esfuerzo y sus costes.
+La principal diferencia entre estos modelos de computación en nube es hasta qué punto desea usted **proveerse** de los recursos informáticos que necesita su organización. Cuanta más infraestructura posea, más [soberanía y control sobre los datos]({{< relref "posts/digitale-souveraenitaet" >}}) tendrá, pero mayor será su esfuerzo y sus costes.
 
 |                        | Nube pública                                                            | Nube híbrida                                                                                        | Nube privada                                                                             |
-| ---------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------------- | ----------------------------------------------- | -------------------------------------- |
+| ---------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | 
 | **Accesibilidad**      | recursos informáticos compartidos públicamente                          | recursos informáticos en parte propios, en parte públicos                                           | recursos informáticos propios, privados                                                  |
-| **Escalabilidad**      | muy rápida y flexible                                                   | flexible                                                                                            | sólo puede ampliarse con retraso                                                         | soberanía de los datos |
-| **Soberanía de datos** | Alta dependencia del proveedor de la nube                               | Dependencia media del proveedor de la nube                                                          | Independencia total y soberanía de los datos                                             |                        | Costes y gastos                           |
-| **Gastos y costes**    | bajos, no se requiere infraestructura propia, principio de pago por uso | moderados, infraestructura básica propia, se pueden reservar recursos adicionales en caso necesario | altos costes de servidores, infraestructura, electricidad y personal informático propios |                        | alta dependencia del proveedor de la nube | completa independencia y soberanía de los datos | independencia y soberanía de los datos |
-
-**Ejemplos de grupos destinatarios e industrias** | Nuevas empresas, empresas en expansión, industrias con grandes fluctuaciones estacionales | Empresas que mantienen la privacidad de datos sensibles pero quieren ser flexibles | Administraciones públicas, bancos, institutos de investigación, empresas que trabajan con datos muy sensibles |
+| **Escalabilidad**      | muy rápida y flexible                                                   | flexible                                                                                            | sólo puede ampliarse con retraso                                                         |
+| **Soberanía de datos** | Alta dependencia del proveedor de la nube                               | Dependencia media del proveedor de la nube                                                          | Independencia total y soberanía de los datos                                             |
+| **Gastos y costes**    | bajos, no se requiere infraestructura propia, principio de pago por uso | moderados, infraestructura básica propia, se pueden reservar recursos adicionales en caso necesario | altos costes de servidores, infraestructura, electricidad y personal informático propios |   
+| **Ejemplos de grupos destinatarios e industrias** | Nuevas empresas, empresas en expansión, industrias con grandes fluctuaciones estacionales | Empresas que mantienen la privacidad de datos sensibles pero quieren ser flexibles | Administraciones públicas, bancos, institutos de investigación, empresas que trabajan con datos muy sensibles |
 
 ## Aspectos de la seguridad en la nube
 
@@ -145,7 +143,7 @@ Un servicio en la nube poco conocido pero muy económico es la [base de datos si
 
 Además de la **infraestructura de base de datos**, SeaTable ofrece una **plataforma de desarrollo intuitiva** en la que podrá diseñar **soluciones de software** específicas para su empresa y ponerlas a disposición para su uso, incluso sin conocimientos de programación. De este modo, el servicio en la nube combina inteligentemente IaaS (Infrastructure as a Service), PaaS (Platform as a Service) y SaaS (Software as a Service).
 
-[Sólo tienes que registrarte]({{< relref "pages/registration" >}}) con tu dirección de correo electrónico, empezar gratis y ampliar según tus necesidades en cuanto quieras utilizar más espacio de almacenamiento, cuentas de usuario o funciones.
+[Sólo tiene que registrarse]({{< relref "pages/registration" >}}) con su dirección de correo electrónico, empezar de forma gratuita y ampliar según sus necesidades en cuanto desee utilizar más espacio de almacenamiento, cuentas de usuario o funciones.
 
 ## Conclusión: La computación en nube es el futuro
 

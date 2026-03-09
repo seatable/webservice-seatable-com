@@ -31,35 +31,35 @@ Les jeux de données dans les départements sont alors non seulement **isolés**
 
 Obtenez un aperçu des avantages que le master data management peut vous apporter:
 
-{{< faq "Efficacité accrue et absence de redondance" >}}
+{{< accordion "Efficacité accrue et absence de redondance" >}}
 
 Un outil de gestion des données de référence peut rapprocher et fusionner les données de différents systèmes. Vous évitez ainsi les doublons et les informations incohérentes. En outre, il est nettement plus efficace de n'apporter des modifications qu'à l'ensemble des données de base plutôt que de devoir mettre à jour manuellement des ensembles de données à de nombreux endroits différents.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Réduction des coûts informatiques" >}}
+{{< accordion "Réduction des coûts informatiques" >}}
 
 En ne gérant qu'un seul ensemble de données de référence, accessible à tous les services, vous évitez les silos de données superflus. En conséquence, vous pouvez remplacer un grand nombre de systèmes différents qui consomment plus de capacité de stockage et de calcul et entraînent des coûts plus élevés qu'une gestion centralisée des données maîtres. Vous économisez ainsi de l'argent.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Analyses et décisions fondées" >}}
+{{< accordion "Analyses et décisions fondées" >}}
 
 L'analyse de données erronées ou obsolètes donne des résultats inutilisables. Dans un système de gestion des données de référence, vous trouverez au contraire des données nettoyées et actualisées qui constituent une base fiable pour vos analyses et vos décisions stratégiques. Les outils de BI qui utilisent ces données de base vous permettent d'obtenir des chiffres et des informations fiables pour vos rapports et vos présentations.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Processus commerciaux automatisés et fluides" >}}
+{{< accordion "Processus commerciaux automatisés et fluides" >}}
 
 Des données de référence uniformes, actuelles et correctes permettent des processus fluides, par exemple dans le marketing et la vente. Pensez par exemple à l'envoi de publicités personnalisées à des adresses de clients qui ne sont plus correctes. En revanche, avec des données clients de qualité, vous pouvez accélérer et automatiser le processus lead-to-cash.
 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Faciliter la mise en œuvre de la protection des données" >}}
+{{< accordion "Faciliter la mise en œuvre de la protection des données" >}}
 
 Vous pouvez vous conformer plus facilement aux exigences légales telles que le RGPD si vous enregistrez toutes les données de manière compréhensible à un endroit central. Par exemple, le RGPD stipule quand vous devez supprimer certaines données. Sans gestion des données de référence, celles-ci peuvent être dispersées dans plusieurs silos de données, ce qui rend la conformité plus difficile.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Qu'est-ce qui fait partie des master data ?
 

@@ -138,30 +138,30 @@ Un programa de gestión bibliográfica solo es tan bueno como su usuario, es dec
 
 No toda la información de tus fuentes es relevante para la bibliografía final. Para no saturar las referencias generadas automáticamente, debes saber cómo citar correctamente:
 
-{{< faq "Autores" >}}
+{{< accordion "Autores" >}}
 
 Debes indicar los autores con nombre y apellido y, si corresponde, títulos académicos. En obras colectivas, también el nombre de los editores.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Año" >}}
+{{< accordion "Año" >}}
 
 Además del año, en fuentes online debes indicar el día y el mes de publicación. Si una fuente no tiene fecha, también debes especificarlo.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Título" >}}
+{{< accordion "Título" >}}
 
 El título corresponde al del artículo, libro o capítulo (en obras colectivas). Presta atención a las mayúsculas y minúsculas.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Medio" >}}
+{{< accordion "Medio" >}}
 
 Normalmente basta con indicar la revista o la obra donde se publicó el artículo. En libros, indica la editorial.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Edición y número de página" >}}
+{{< accordion "Edición y número de página" >}}
 
 Anota estos datos con la mayor precisión posible. Si las páginas no están impresas, cuéntalas tú mismo.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### 3\. Buscar nuevas fuentes con el programa
 

@@ -95,29 +95,29 @@ Schatten-IT, die in der Regel schlechter konzipiert und erprobt ist als professi
 
 ### Die Risiken von Schatten IT im Überblick
 
-{{< faq "Kontrollverlust" >}}
+{{< accordion "Kontrollverlust" >}}
 Schatten IT entzieht sich der IT-Governance. Wenn das IT-Service-Management keinen Überblick über die genutzten Tools hat, kann es diese nicht in den Support sowie künftige Strategien, Migrationen oder Updates einbeziehen. 
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Mangelhafte Qualität" >}}
+{{< accordion "Mangelhafte Qualität" >}}
 Schatten-IT wird selten ordentlich dokumentiert, getestet und gewartet. Systemfehler oder instabile Anwendungen können die Folge sein, wenn IT-Lösungen schnell und ohne Fachwissen zusammengestrickt werden.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Insellösungen und Datensilos" >}}
+{{< accordion "Insellösungen und Datensilos" >}}
 Die Fachabteilungen bauen womöglich umständliche, isolierte Workarounds, die nicht mit anderen Systemen integriert sind. Unsynchronisierte Datensilos machen Prozesse ineffizient und redundant.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Sicherheitsrisiken" >}}
+{{< accordion "Sicherheitsrisiken" >}}
 Schatten IT Systeme erfüllen häufig nicht die unternehmensweit gültigen Sicherheitsstandards (z. B. Verschlüsselung, Authentifizierung), was sie anfällig für Cyberangriffe und Datenlecks macht. Ungeprüfte Installationen können Schadsoftware zudem Tür und Tor öffnen.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Compliance-Verstöße" >}}
+{{< accordion "Compliance-Verstöße" >}}
 Schatten IT ist oft nicht mit dem Datenschutz gemäß DSGVO, ISO-Zertifizierungen und anderen Vorgaben vereinbar. Bei Cloud-Diensten können Serverstandorte außerhalb der EU problematisch sein.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Unabsehbare Kosten" >}}
+{{< accordion "Unabsehbare Kosten" >}}
 Ohne Transparenz verlieren Unternehmen schnell die Kostenkontrolle, z. B. durch doppelte Abonnements/Lizenzen für ähnliche Tools. Falls es zu rechtlichen Konsequenzen aufgrund von Compliance-Verstößen kommt, drohen hohe Bußgelder.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### IT-Risikomanagement
 

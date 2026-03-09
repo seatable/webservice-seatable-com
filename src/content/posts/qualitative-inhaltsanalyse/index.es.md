@@ -1,5 +1,5 @@
 ---
-title: 'El análisis de contenido cualitativo explicado de forma sencilla - ejemplo: revista de prensa'
+title: 'El análisis de contenido cualitativo explicado de forma sencilla – ejemplo: revista de prensa'
 description: 'Descubre el análisis cualitativo paso a paso: diferencias frente al cuantitativo, proceso de codificación y ejemplo real con análisis de artículos de prensa – explicado de forma clara y comprensible.'
 date: 2024-03-11
 lastmod: '2024-03-11'
@@ -103,7 +103,7 @@ La forma de su análisis cualitativo de contenido determina cuánto material ana
 
 Registre las categorías que desea utilizar para clasificar su material en un **sistema de categorías**. Puede elegir entre dos enfoques para desarrollarlo:
 
-- **enfoque deductivo**: Se utiliza un sistema de categorías existente que ya ha demostrado su eficacia.
+- **Enfoque deductivo**: Se utiliza un sistema de categorías existente que ya ha demostrado su eficacia.
 - **Enfoque inductivo**: Como se ha mostrado anteriormente, puede derivar lógicamente categorías a partir de sus propios datos.
 
 Es importante que formule cada categoría con claridad para que pueda distinguirse claramente de las demás y no haya confusión al clasificarla.
@@ -118,15 +118,15 @@ Antes de llevar a cabo un análisis cualitativo del contenido, hay que definir l
 
 Los artículos pueden dividirse fácilmente en unidades gracias a su estructura.
 
-1. **Unidad de evaluación**: determina los materiales que se codifican uno tras otro.
+- **Unidad de evaluación**: determina los materiales que se codifican uno tras otro.
 
 > _Analizamos artículos de 20 medios de comunicación diferentes. Cada uno de estos **artículos** es una unidad de análisis._
 
-3. **Unidad de codificación**: determina cuál es el componente más pequeño posible que debe codificarse.
+- **Unidad de codificación**: determina cuál es el componente más pequeño posible que debe codificarse.
 
 > _Los artículos comienzan con un breve **teaser** a modo de texto introductorio. Éste constituye la unidad de codificación._
 
-5. **Unidad de contexto**: determina cuál es el mayor componente posible que se codifica.
+- **Unidad de contexto**: determina cuál es el mayor componente posible que se codifica.
 
 > _El artículo puede verse **como un todo**. Esto significa que la unidad de contexto es congruente con la unidad de evaluación._
 
@@ -148,20 +148,20 @@ Ahora puedes resumir e interpretar tus resultados. Vuelve a la pregunta original
 
 Por último, compruebe si su análisis cumple los criterios de calidad del análisis de contenido cualitativo.
 
-{{< faq "Transparencia" >}}
+{{< accordion "Transparencia" >}}
 
 Su investigación debe ser **comprensible** para personas ajenas a la empresa. Explique cómo y por qué ha procedido en cada paso de su análisis.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Intersubjetividad" >}}
+{{< accordion "Intersubjetividad" >}}
 
 Asegúrese de que su análisis arroja resultados similares cuando se repite entre distintos codificadores, es decir, que es **reproducible**.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Fiabilidad" >}}
+{{< accordion "Fiabilidad" >}}
 
 ¿Es fiable la codificación? ¿Se valora el mismo contenido por igual y las diferencias se expresan adecuadamente en valores diferentes?
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Lista de control para el análisis cualitativo de contenidos
 

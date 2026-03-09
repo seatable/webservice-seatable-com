@@ -43,25 +43,25 @@ Los datos se recogen, procesan o transmiten en casi todos los procesos digitales
 
 La soberanía digital presenta ventajas en los siguientes aspectos:
 
-{{< faq "Independencia tecnológica" >}}
+{{< accordion "Independencia tecnológica" >}}
 Para evitar perder el control y ser vulnerables al chantaje, las empresas y los países deberían reducir su dependencia de otros países y de empresas tecnológicas individuales y, en su lugar, desarrollar sus propias alternativas o, al menos, posicionarse más ampliamente para poder elegir entre varias opciones.  
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Control sobre la infraestructura" >}}
+{{< accordion "Control sobre la infraestructura" >}}
 Para controlar [los flujos de datos]({{< relref "posts/20250317-datenmanagement" >}}) y protegerlos de los ataques, necesita una infraestructura digital propia con medidas de seguridad sólidas o servidores dedicados en centros de datos seguros de su región. Debido a los elevados requisitos energéticos y a los costes de construcción de los centros de datos, es necesario invertir a nivel nacional.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Competitividad estratégica" >}}
+{{< accordion "Competitividad estratégica" >}}
 Quienes tienen el control de las tecnologías, los datos y las infraestructuras digitales tienen la llave de la creación de valor del futuro. Al fin y al cabo, la inteligencia artificial, la automatización y los modelos de negocio basados en los datos seguirán dando forma a la economía. Sin soberanía digital, será difícil sobrevivir en la [competencia]({{< relref "posts/wettbewerbsanalyse" >}}).
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Protección de datos y democracia" >}}
+{{< accordion "Protección de datos y democracia" >}}
 La protección de los datos personales, la privacidad y los secretos comerciales es de vital importancia para la autodeterminación democrática. Las plataformas digitales influyen cada vez más en los debates sociales, las decisiones políticas e incluso las elecciones. En este sentido, la soberanía digital significa responsabilizar a estas plataformas de su propio sistema de leyes y valores.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Cumplimiento (por ejemplo, cumplimiento del GDPR)" >}}
+{{< accordion "Cumplimiento (por ejemplo, cumplimiento del GDPR)" >}}
 La soberanía digital hace que sea mucho más fácil minimizar los riesgos legales en relación con las normativas de protección de datos. Esto se debe a que suelen exigir transparencia sobre el almacenamiento, la transferencia y el uso de los datos, algo que usted no puede garantizar si entrega los datos.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Cómo surge la dependencia digital
 

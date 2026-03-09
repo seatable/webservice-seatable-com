@@ -140,46 +140,46 @@ Weigh up the two sides against each other.
 
 If you want to set up successful knowledge management in your company, you can hardly avoid a **knowledge management system** in the form of software. There is a large selection of suitable **software solutions**. Depending on your requirements, there is an enormous range of systems with different focuses:
 
-{{< faq "Wikis and information management systems" >}}
+{{< accordion "Wikis and information management systems" >}}
 
 Examples: Confluence, Guru
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Groupware and collaboration systems" >}}
+{{< accordion "Groupware and collaboration systems" >}}
 
 Examples: BSCW, Microsoft SharePoint
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Instant messengers and communication systems" >}}
+{{< accordion "Instant messengers and communication systems" >}}
 
 Examples: Slack, Microsoft Teams
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Document management and file exchange systems" >}}
+{{< accordion "Document management and file exchange systems" >}}
 
 Examples: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Customer relationship management systems" >}}
+{{< accordion "Customer relationship management systems" >}}
 
 Examples: Pipedrive, Salesforce
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Project management systems" >}}
+{{< accordion "Project management systems" >}}
 
 Examples: Asana, Jira
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "HR and personnel management systems" >}}
+{{< accordion "HR and personnel management systems" >}}
 
 Examples: Personio, DATEV
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Content management systems" >}}
+{{< accordion "Content management systems" >}}
 
 Examples: WordPress, TYPO3
 
-{{< /faq >}}
+{{< /accordion >}}
 
 To find the right software for your company, you should test several solutions and ask yourself the following questions:
 

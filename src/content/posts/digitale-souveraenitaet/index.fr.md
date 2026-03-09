@@ -43,25 +43,25 @@ Presque tous les processus numériques impliquent la collecte, le traitement ou 
 
 La souveraineté numérique présente des avantages dans les domaines suivants :
 
-{{< faq "Indépendance technologique" >}}
+{{< accordion "Indépendance technologique" >}}
 Afin d'éviter une perte de contrôle et de ne pas être soumis au chantage, les entreprises et les pays devraient réduire leur dépendance vis-à-vis d'autres pays et de groupes technologiques individuels et développer plutôt leurs propres alternatives, ou du moins se positionner plus largement afin de pouvoir choisir parmi plusieurs options.  
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Contrôle de l'infrastructure" >}}
+{{< accordion "Contrôle de l'infrastructure" >}}
 Pour contrôler [les flux de données]({{< relref "posts/20250317-datenmanagement" >}}) et les protéger contre les attaques, vous avez besoin soit de votre propre infrastructure numérique avec des mesures de sécurité robustes, soit de serveurs dédiés dans des centres de données sécurisés dans votre région. En raison de la forte consommation d'énergie et des coûts de construction des centres de données, des investissements sont nécessaires au niveau de l'État.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Compétitivité stratégique" >}}
+{{< accordion "Compétitivité stratégique" >}}
 Ceux qui contrôlent les technologies, les données et les infrastructures numériques détiennent la clé de la création de valeur du futur. En effet, l'intelligence artificielle, l'automatisation et les modèles commerciaux basés sur les données continueront à façonner l'économie. Sans souveraineté numérique, il sera difficile de faire face à la [concurrence]({{< relref "posts/wettbewerbsanalyse" >}}).
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Protection des données et démocratie" >}}
+{{< accordion "Protection des données et démocratie" >}}
 La protection des données personnelles, de la vie privée et des secrets commerciaux est d'une importance capitale pour l'autodétermination démocratique. Les plateformes numériques influencent de plus en plus les débats de société, les décisions politiques et même les élections. Dans cette optique, la souveraineté numérique implique d'exiger de ces plateformes qu'elles respectent leur propre système de lois et de valeurs.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Conformité (par exemple, conformité au RGPD)" >}}
+{{< accordion "Conformité (par exemple, conformité au RGPD)" >}}
 La souveraineté numérique permet de minimiser beaucoup plus facilement les risques juridiques liés aux réglementations sur la protection des données. En effet, celles-ci exigent généralement une transparence sur le stockage, le partage et l'utilisation des données, que vous ne pouvez pas garantir si vous laissez les données s'échapper.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Comment s'installe la dépendance numérique
 

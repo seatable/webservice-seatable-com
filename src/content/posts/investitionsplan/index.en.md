@@ -40,21 +40,21 @@ Furthermore, investments usually result in a high **capital requirement**, which
 
 Depending on the objective and timing of an investment, 4 types of investment can be distinguished:
 
-{{< faq "Initial investment" >}}
+{{< accordion "Initial investment" >}}
 An initial investment, also known as a start-up investment, comprises all the expenses you incur for the initial equipment of your company to get your business off the ground. As a rule, the capital requirement is highest for this type of investment. A distinction is made between genuine investments and pure start-up costs such as registrations with the authorities, which do not contribute to increasing the value of your company.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Expansion investment" >}}
+{{< accordion "Expansion investment" >}}
 Expansion investments are expenses with which you expand your capacities. For example, if the demand for your products or services has increased, you should include more machines or personnel in your investment plan. An expansion investment usually pays for itself after a short time, as it is accompanied by a foreseeable increase in turnover.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Rationalization investment" >}}
+{{< accordion "Rationalization investment" >}}
 The main thing you expect from a rationalization investment is a cost saving. For example, you could invest in robots to automate and speed up production processes in order to save on personnel costs. Compared to an expansion investment, however, you are not increasing capacity, but mainly efficiency.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Replacement investment" >}}
+{{< accordion "Replacement investment" >}}
 A replacement investment is necessary if you need to completely replace an obsolete or defective asset in order to keep your business running. This is also known as reinvestment. It is simply a matter of maintaining or restoring the previous state without changing the capacity or efficiency of your business.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Useful life and depreciation of capital goods
 

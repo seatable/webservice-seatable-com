@@ -89,26 +89,26 @@ James Clear's bestseller contains useful tips.
 
 The following tips are from James Clear's book **The 1% Method** ( _Atomic Habits_) and can make your habit tracker even more effective.
 
-{{< faq "Incorporate habits into everyday life" >}}
+{{< accordion "Incorporate habits into everyday life" >}}
 
 To make a desirable action more binding, you should link it to the place and time of execution.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Combining new and old" >}}
+{{< accordion "Combining new and old" >}}
 
 Habits that are already automated can make it easier for you to learn new habits. Simply perform a current habit and a new habit one after the other.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Use incentives and rewards" >}}
+{{< accordion "Use incentives and rewards" >}}
 
 Not all habits that you want to learn will give you pleasure. It can therefore help to work with a reward system. Perform a task that you don't like and then reward yourself with something that you find easy and fun.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "2-Minute-Habits" >}}
+{{< accordion "2-Minute-Habits" >}}
 
 If an activity takes less than two minutes, you can do it immediately as it requires little energy and effort. At the beginning of your tracking journey, it makes sense to start small. Habits that you can do in two minutes are motivating and offer the opportunity to expand them as you wish.
 
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Celebrating progress
 

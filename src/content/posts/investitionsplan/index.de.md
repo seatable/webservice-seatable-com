@@ -38,21 +38,21 @@ Des Weiteren entsteht durch Investitionen meist ein hoher **Kapitalbedarf**, den
 
 Je nach Ziel und Zeitpunkt einer Investition lassen sich 4 Investitionsarten unterscheiden:
 
-{{< faq "Erstinvestition" >}}
+{{< accordion "Erstinvestition" >}}
 Eine Erstinvestition, auch Gründungsinvestition genannt, umfasst alle Ausgaben, die Sie für die Erstausstattung Ihres Unternehmens tätigen, um Ihr Business ins Rollen zu bringen. In der Regel ist der Kapitalbedarf bei dieser Art von Investment am höchsten. Dabei wird zwischen echten Investitionen und reinen Gründungskosten wie Anmeldungen bei Behörden unterschieden, die nicht zur Wertsteigerung Ihres Unternehmens beitragen.
-{{< /faq >}}
+{{< /accordion >}}
 
 {{< faq "Erweiterungsinvestition" >}}
 Um Erweiterungsinvestitionen handelt es sich bei Ausgaben, mit denen Sie Ihre Kapazitäten ausbauen. Ist beispielsweise die Nachfrage nach Ihren Produkten oder Dienstleistungen gestiegen, sollten Sie in Ihrem Investitionsplan mehr Maschinen oder Personal vorsehen. Eine Erweiterungsinvestition amortisiert sich meist nach kurzer Zeit, da sie mit einer absehbaren Umsatzsteigerung einhergeht.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Rationalisierungsinvestition" >}}
+{{< accordion "Rationalisierungsinvestition" >}}
 Von einer Rationalisierungsinvestition erwarten Sie sich vor allem eine Kostenersparnis. Zum Beispiel könnten Sie in Roboter zur Automatisierung und Beschleunigung von Produktionsprozessen investieren, um Personalkosten einzusparen. Im Vergleich zur Erweiterungsinvestition erhöhen Sie damit allerdings nicht die Kapazitäten, sondern hauptsächlich die Effizienz.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Ersatzinvestition" >}}
+{{< accordion "Ersatzinvestition" >}}
 Eine Ersatzinvestition ist vonnöten, wenn Sie einen veralteten oder defekten Vermögensgegenstand vollständig ersetzen müssen, um Ihr Business am Laufen zu halten. Dies nennt man auch Reinvestition. Hierbei geht es lediglich darum, den bisherigen Zustand aufrechtzuerhalten oder wiederherzustellen, ohne die Kapazitäten oder die Effizienz Ihres Unternehmens zu verändern.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Nutzungsdauer und Abschreibung von Investitionsgütern
 

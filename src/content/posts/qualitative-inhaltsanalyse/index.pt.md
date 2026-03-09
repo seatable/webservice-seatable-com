@@ -1,5 +1,5 @@
 ---
-title: 'A análise qualitativa de conteúdo explicada de forma simples - exemplo: análise da imprensa'
+title: 'A análise qualitativa de conteúdo explicada de forma simples – exemplo: análise da imprensa'
 description: 'Entenda a diferença entre análise qualitativa e quantitativa e aprenda, em detalhes, como criar categorias e analisar dados usando um exemplo real com matérias de imprensa no guia passo a passo.'
 date: 2024-03-11
 lastmod: '2024-03-11'
@@ -103,7 +103,7 @@ A forma da sua análise de conteúdo qualitativa determina a quantidade de mater
 
 Registar as categorias que pretende utilizar para categorizar o seu material num **sistema de categorias**. Existem duas abordagens possíveis para desenvolver este sistema:
 
-- **abordagem dedutiva**: Utiliza-se um sistema de categorias existente que já provou o seu valor.
+- **Abordagem dedutiva**: Utiliza-se um sistema de categorias existente que já provou o seu valor.
 - **Abordagem indutiva**: Tal como acima referido, pode derivar logicamente categorias a partir dos seus próprios dados.
 
 É importante que cada categoria seja formulada de forma clara, para que possa ser claramente distinguida de outras categorias e não haja confusão aquando da sua categorização.
@@ -118,15 +118,15 @@ Antes de efetuar uma análise de conteúdo qualitativa, é necessário definir a
 
 Os artigos podem ser facilmente divididos em unidades graças à sua estrutura.
 
-1. **Unidade de avaliação**: Determina que materiais são codificados um após o outro.
+- **Unidade de avaliação**: Determina que materiais são codificados um após o outro.
 
 > _Analisámos artigos de 20 meios de comunicação social diferentes. Cada um destes **artigos** é uma unidade de análise._
 
-3. **Unidade de codificação**: Determina qual é o componente mais pequeno possível a ser codificado.
+- **Unidade de codificação**: Determina qual é o componente mais pequeno possível a ser codificado.
 
 > _Os artigos começam com um pequeno **teaser** como texto introdutório. Este constitui a unidade de codificação._
 
-5. **Unidade de contexto**: Determina qual é o maior componente possível que é codificado.
+- **Unidade de contexto**: Determina qual é o maior componente possível que é codificado.
 
 > _O artigo pode ser visto **como um todo**. Isto significa que a unidade de contexto é congruente com a unidade de avaliação._
 
@@ -148,20 +148,20 @@ Pode agora resumir e interpretar os seus resultados. Regressa à tua pergunta in
 
 Por último, verifique se a sua análise cumpre os critérios de qualidade da análise de conteúdo qualitativa.
 
-{{< faq "Transparência" >}}
+{{< accordion "Transparência" >}}
 
 A sua investigação deve ser **compreensível** para quem está de fora. Explique como e porquê procedeu em cada etapa da sua análise.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Intersubjetividade" >}}
+{{< accordion "Intersubjetividade" >}}
 
 Certifique-se de que a sua análise apresenta resultados semelhantes quando repetida por diferentes codificadores, ou seja, que é **reprodutível**.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Fiabilidade" >}}
+{{< accordion "Fiabilidade" >}}
 
 Qual o grau de fiabilidade da codificação? O mesmo conteúdo é classificado da mesma forma e as diferenças são expressas adequadamente em valores diferentes?
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Lista de controlo para a sua análise de conteúdo qualitativa
 

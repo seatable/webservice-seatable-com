@@ -48,29 +48,29 @@ Os sistemas de CRM tradicionais (como o SAP CRM ou o Microsoft Dynamics CRM) sã
 
 Veja em pormenor as vantagens dos sistemas CRM sem código:
 
-{{< faq "Comece a funcionar rapidamente" >}}
+{{< accordion "Comece a funcionar rapidamente" >}}
 Graças aos módulos de software prontos a utilizar, pode minimizar o tempo de desenvolvimento do seu CRM sem código. O arranque também decorre sem problemas: na maioria dos casos, pode começar imediatamente sem pagar e colocar a primeira versão do seu sistema CRM online num instante.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Personalizável de forma flexível" >}}
+{{< accordion "Personalizável de forma flexível" >}}
 As ferramentas sem código são intuitivas e fáceis de utilizar, pelo que os seus funcionários podem fazer eles próprios as personalizações desejadas e não têm de esperar que os programadores programem as funções correspondentes. Além disso, pode avaliar e visualizar facilmente os dados sem consultas SQL.
-{{< /faq >}}
+{{< /accordion >}}
   
-{{< faq "Independente dos recursos de TI" >}}
+{{< accordion "Independente dos recursos de TI" >}}
 Os sistemas de CRM tradicionais são frequentemente soluções personalizadas complexas que consomem muitos recursos de TI para o seu desenvolvimento e funcionamento. O No-Code torna o seu CRM independente da disponibilidade de [escassos especialistas em TI]({{< relref "posts/it-fachkraeftemangel" >}}). Em vez disso, os seus empregados põem as suas ideias em prática – palavra-chave: [Citizen Development]({{< relref "posts/20250317-citizen-developer" >}}).
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Nuvem escalável" >}}
+{{< accordion "Nuvem escalável" >}}
 Regra geral, pode utilizar um sistema CRM sem código numa nuvem para a qual não precisa de adquirir os seus próprios servidores. Ao contrário de um sistema CRM no local, pode escalar uma [solução na nuvem]({{< relref "posts/cloud-computing" >}}) de forma rápida e fácil, ou seja, reservar mais funções, espaço de armazenamento ou contas de utilizador se os seus requisitos, volumes de dados ou número de funcionários aumentarem.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Custo-eficiente" >}}
+{{< accordion "Custo-eficiente" >}}
 Muitos fornecedores sem código baseiam-se num modelo de pagamento conforme o uso; isto significa que começa com o seu sistema CRM gratuitamente e só paga pelos recursos (por exemplo, espaço de armazenamento) que realmente utiliza. As soluções sem código reduzem significativamente os custos de desenvolvimento do seu CRM e tornam o software CRM acessível às pequenas empresas. Além disso, não necessita da sua própria infraestrutura para um sistema CRM na nuvem, o que lhe permite poupar custos elevados.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Integrativo" >}}
+{{< accordion "Integrativo" >}}
 A maioria das soluções sem código são altamente compatíveis e abertas à ligação de outros sistemas. Com uma vasta gama de integrações, pode reunir todos os dados dos clientes, processos de venda, documentos, marcações e pedidos de apoio numa ferramenta central, facilitando-lhe a realização de análises e decisões bem fundamentadas.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Para quem é adequado um CRM sem código?
 

@@ -1,5 +1,5 @@
 ---
-title: "L'analyse qualitative de contenu expliquée simplement - Exemple : revue de presse"
+title: "L'analyse qualitative de contenu expliquée simplement – exemple : revue de presse"
 description: 'Découvrez comment réaliser une analyse de contenu qualitative : explications simples des étapes clés et démonstration d’un cas concret avec revue de presse et catégories de codage.'
 date: 2024-03-11
 lastmod: '2024-03-11'
@@ -118,15 +118,15 @@ Avant de pouvoir réaliser votre analyse de contenu qualitative, vous devez enco
 
 Les articles peuvent être facilement divisés en unités grâce à leur structure.
 
-1. **Unité d'évaluation**: détermine les articles que vous codez les uns après les autres.
+- **Unité d'évaluation**: détermine les articles que vous codez les uns après les autres.
 
 > _Nous examinons des articles de 20 médias différents. Chacun de ces **articles** constitue une unité d'évaluation._
 
-3. **Unité de codage**: détermine quel est le plus petit composant possible qui sera codé.
+- **Unité de codage**: détermine quel est le plus petit composant possible qui sera codé.
 
 > _Les articles commencent par un court **teaser** comme texte d'introduction. Celui-ci constitue l'unité de codage._
 
-5. **Unité de contexte**: détermine quel est l'élément le plus grand possible qui sera codé.
+- **Unité de contexte**: détermine quel est l'élément le plus grand possible qui sera codé.
 
 > _L'article peut être considéré **comme un tout**. Ainsi, l'unité de contexte est congruente avec l'unité d'évaluation._
 
@@ -148,20 +148,20 @@ Vous pouvez maintenant rassembler et interpréter vos résultats. Revenez à vot
 
 Enfin, vous vérifiez si votre analyse répond aux critères de qualité de l'analyse de contenu qualitative.
 
-{{< faq "Transparence" >}}
+{{< accordion "Transparence" >}}
 
 Votre recherche doit être **compréhensible** pour les personnes extérieures. Pour chaque étape de votre analyse, expliquez comment et pourquoi vous avez procédé de la sorte.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Intersubjectivité" >}}
+{{< accordion "Intersubjectivité" >}}
 
 Assurez-vous que votre analyse présente des résultats similaires lorsqu'elle est répétée sur différents codeurs, c'est-à-dire qu'elle est **reproductible**.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Reliabilité" >}}
+{{< accordion "Reliabilité" >}}
 
 Quelle est la fiabilité de la codification ? Les mêmes contenus sont-ils évalués de la même manière et les différences s'expriment-elles de manière appropriée par des valeurs différentes ?
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Liste de contrôle pour votre analyse de contenu qualitative
 

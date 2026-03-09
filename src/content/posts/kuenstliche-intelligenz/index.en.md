@@ -54,7 +54,7 @@ Artificial intelligence is usually divided into the types **strong and weak AI**
 
 Today, artificial intelligence almost always refers to weak AI. It specializes in performing **clearly defined, recurring tasks** particularly well.
 
-However, weak AI cannot think, develop intentions or reflect on itself. It has no creativity and does not learn independently, but has to be trained. Its ability to learn is usually limited to the application of algorithms (clear instructions for solving certain problems) and to recognizing patterns in large amounts of data. This is particularly useful in rule-based [automation of processes]({{< relref "pages/industry-solutions/operations" >}}) and in **language and image processing**.
+However, weak AI cannot think, develop intentions or reflect on itself. It has no creativity and does not learn independently, but has to be trained. Its ability to learn is usually limited to the application of algorithms (clear instructions for solving certain problems) and to recognizing patterns in large amounts of data. This is particularly useful in rule-based [automation of processes]({{< relref "pages/ai-automations" >}}) and in **language and image processing**.
 
 ### Strong AI
 
@@ -163,29 +163,29 @@ We are still a long way from the horror scenario of a hostile artificial intelli
   
 The biggest problems surrounding artificial intelligence are
 
-{{< faq "Incorrect answers due to faulty data" >}}
+{{< accordion "Incorrect answers due to faulty data" >}}
 In an AI system, misinterpretations and incorrect conclusions can occur if the AI model contains incorrect or outdated data or links data that is not related. How often this happens essentially depends on the quality, timeliness and quantity of the training data. In the case of chatbots, AI-generated responses are sometimes based on training data that is several months or years old. As a result, AI models often fail to categorize current news, which makes real journalism indispensable. You should always question critically whether AI-generated content can be correct and obtain additional information from trustworthy media.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Hallucinating and inventing facts" >}}
+{{< accordion "Hallucinating and inventing facts" >}}
 ChatGPT, Gemini, Copilot and Perplexity sound convincing, even if they claim completely false things. According to an [EBU study](https://www.ebu.ch/Report/MIS-BBC/NI_AI_2025.pdf), an average of 45 percent of their answers contain errors or invented facts. The so-called hallucinations arise because AI has no factual knowledge. Although it can generate statistically plausible strings of words, it cannot check whether a statement is true. It makes up missing information and sometimes even names sources that do not exist at all. Therefore, never blindly trust AI-generated answers and check important information using reputable sources.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Discriminatory decisions" >}}
+{{< accordion "Discriminatory decisions" >}}
 AI learns human patterns from data, some of which reflect existing prejudices and role models. This can result in discriminatory decisions, for example when applying for jobs or granting loans. In [a well-known case](https://www.heise.de/news/Amazon-KI-zur-Bewerbungspruefung-benachteiligte-Frauen-4189356.html), an application algorithm unintentionally discriminated against women. As more men than women are employed in the IT sector and the company had mostly hired men in the previous ten years, the AI used this training data to filter out applications from women. In order for artificial intelligence to make more objective decisions than humans in the future, it must therefore be trained with balanced data sets.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Disinformation and fraud through deepfakes" >}}
+{{< accordion "Disinformation and fraud through deepfakes" >}}
 AI-generated texts, images and videos can now appear very realistic and be used specifically to deceive. So-called deepfakes use artificial intelligence to fake faces and voices in videos or photos. For example, artificial intelligence can create a video in which celebrities make statements that they have never said in reality. It is difficult to recognize artificial intelligence in this. Unfair actors can generate deceptively real AI images and use them to manipulate identities, trick biometric systems or conduct disinformation campaigns. False information and untruths are spreading rapidly on social media thanks to artificial intelligence, because many users share them without checking them and the algorithms encourage controversial content.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "High energy consumption of AI data centers" >}}
+{{< accordion "High energy consumption of AI data centers" >}}
 To train AI systems using learning algorithms and large amounts of data, expensive processors with high computing power are required. A single AI data center can consume as much electricity as a city. As much of this is still generated from fossil fuels, the [environmental impact of AI](https://www.tagesschau.de/wirtschaft/energie/kuenstliche-intelligenz-energieverbrauch-100.html) is also an issue. Clever concepts on site that use the waste heat from data centers, for example, can mitigate these effects.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Data protection and dependence on tech giants" >}}
+{{< accordion "Data protection and dependence on tech giants" >}}
 The use of artificial intelligence requires large amounts of data, which may also contain a lot of sensitive, personal information. For example, the operators of social networks collect vast amounts of user data that can later be used to display personalized advertising in order to influence voting or purchasing decisions. It is therefore problematic that most of this data is in the hands of a few tech giants from the USA and China. The AI models themselves also predominantly come from the USA, which leads to a high level of technological dependency. A European alternative is the open source language model from Mistral AI.
-{{< /faq >}}
+{{< /accordion >}}
 
 ## Best practices for dealing with AI in companies
 

@@ -42,25 +42,25 @@ In addition to the above cloud computing definition, 6 features are considered c
 
 Now that we have explained cloud computing in simple terms, let's take a look at the benefits that the above-mentioned features of a cloud offer you.
 
-{{< faq "Cost efficiency and convenience" >}}
+{{< accordion "Cost efficiency and convenience" >}}
 When you use cloud services, you save on high investments in your own servers and only pay for the resources you actually use (pay-as-you-go principle). As you hardly have to worry about local infrastructure, your IT staff have more time for more important issues.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Rapid provision" >}}
+{{< accordion "Rapid provision" >}}
 With cloud computing, you can activate the necessary components in just a few minutes instead of having to wait weeks for ordered hardware, configure your system and install software.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Independence from locations and devices" >}}
+{{< accordion "Independence from locations and devices" >}}
 Your employees can access their data and applications in the cloud at any time and from anywhere. This means that there is no loss of data due to local storage if an end device is broken or lost.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Up-to-dateness and productivity" >}}
+{{< accordion "Up-to-dateness and productivity" >}}
 In a cloud, all users see the current version of their stored data and documents. Changes are synchronized in real time, which significantly improves collaboration.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Elasticity and scalability" >}}
+{{< accordion "Elasticity and scalability" >}}
 Flexibly adapt your cloud infrastructure to your needs and data volumes at any time. Cloud computing allows your company to grow without your IT infrastructure becoming a bottleneck.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### Scenarios for which cloud computing is the solution
 
@@ -75,7 +75,7 @@ The advantages mentioned above result in a number of scenarios for which cloud c
 
 ## The history of the cloud in a nutshell
 
-The history of the cloud, which serves as a **symbol for an extensive computer network**, goes way back into the 20th century. As early as 1962, the American computer scientist Dr. Joseph Carl Robnett Licklider formulated the **idea of a global network of computers** - today's Internet. This is ultimately also the basic idea behind cloud computing. In the 1990s, the **multi-tenant architecture** also made it possible for several clients to access the same server on the network independently of each other. The breakthrough came shortly afterwards: when Amazon offered **cloud-based storage and computing services** for the first time in 2002, cloud computing began in AWS. A few years later, Google and Microsoft followed suit with their first cloud applications. Since then, the triumph of cloud computing has gained significant momentum and continues unabated to this day.
+The history of the cloud, which serves as a **symbol for an extensive computer network**, goes way back into the 20th century. As early as 1962, the American computer scientist Dr. Joseph Carl Robnett Licklider formulated the **idea of a global network of computers** – today's Internet. This is ultimately also the basic idea behind cloud computing. In the 1990s, the **multi-tenant architecture** also made it possible for several clients to access the same server on the network independently of each other. The breakthrough came shortly afterwards: when Amazon offered **cloud-based storage and computing services** for the first time in 2002, cloud computing began in AWS. A few years later, Google and Microsoft followed suit with their first cloud applications. Since then, the triumph of cloud computing has gained significant momentum and continues unabated to this day.
 
 ![Cloud computing is the future](Cloud-Computing-ist-die-Zukunft.jpg)
 
@@ -85,7 +85,7 @@ Below we present three widely used cloud computing services: **IaaS** (Infrastru
 
 ### What is SaaS?
 
-SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
+SaaS (Software as a Service) refers to **cloud-based software applications** such as [CRM systems]({{< relref "pages/industry-solutions/kundenmanagement" >}}) or [project management tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
 
 ### What is PaaS?
 
@@ -111,7 +111,7 @@ There are various cloud computing models, which differ according to the **type o
 - **Private cloud**: You host and manage a private cloud yourself in your own network. As a result, you also have to take care of the infrastructure yourself. However, the IT resources are exclusively available to your company.
 - **Hybrid cloud**: With hybrid cloud computing, you combine public cloud and private cloud. For example, you can store some of your data on your own servers and use additional resources and applications in a public cloud at the same time.
 
-The main difference between these cloud computing models is the extent to which you want to **provide the IT resources your company needs** yourself. The more infrastructure you own, the more data sovereignty and control you have, but the higher your effort and costs.
+The main difference between these cloud computing models is the extent to which you want to **provide the IT resources your company needs** yourself. The more infrastructure you own, the more [data sovereignty and control]({{< relref "posts/digitale-souveraenitaet" >}}) you have, but the higher your effort and costs.
 
 |                                              | **Public Cloud**                                                           | **Hybrid Cloud**                                                                   | **Private Cloud**                                                                                |
 | -------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -129,7 +129,7 @@ Cloud service providers have **IT security experts** who are constantly looking 
 
 ![Cloud Security](Cloud-Security.jpg)
 
-If you store your data on premise for compliance reasons, i.e. on servers at the company headquarters, potential attackers can often narrow down where it is located. Large cloud computing providers, on the other hand, have so many data centers in different locations that it is difficult to find out the **data storage location** of a particular customer. Therefore, in this case, cloud computing services **within the EU** could be a good alternative to your local data center to comply with **compliance guidelines such as the GDPR** - without data flowing into the US clouds of Amazon, Google, Microsoft, Oracle or IBM.
+If you store your data on premise for compliance reasons, i.e. on servers at the company headquarters, potential attackers can often narrow down where it is located. Large cloud computing providers, on the other hand, have so many data centers in different locations that it is difficult to find out the **data storage location** of a particular customer. Therefore, in this case, cloud computing services **within the EU** could be a good alternative to your local data center to comply with **compliance guidelines such as the GDPR** – without data flowing into the US clouds of Amazon, Google, Microsoft, Oracle or IBM.
 
 ## 4 tips on how to use cloud computing successfully
 

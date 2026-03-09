@@ -30,17 +30,17 @@ Mettez de l'ordre dans votre littérature scientifique ! © caftor / Adobe Stock
 
 ## Pourquoi un programme de gestion de la littérature est-il utile ?
 
-Rassembler des preuves pour des hypothèses, présenter l'état de la recherche ou étayer sa propre démarche : Dans les projets scientifiques, la **recherche et l'évaluation de sources** sont inévitables - que ce soit dans les livres, les revues ou les médias en ligne. Un travail scientifique propre est alors lié à un grand effort que vous pouvez minimiser grâce à une gestion habile de la littérature.
+Rassembler des preuves pour des hypothèses, présenter l'état de la recherche ou étayer sa propre démarche : Dans les projets scientifiques, la **recherche et l'évaluation de sources** sont inévitables – que ce soit dans les livres, les revues ou les médias en ligne. Un travail scientifique propre est alors lié à un grand effort que vous pouvez minimiser grâce à une gestion habile de la littérature.
 
 Avec un programme de gestion de la littérature, vous pouvez ...
 
 - garder [une vue d'ensemble des projets de grande envergure]({{< relref "templates/projects/project-plan" >}})
-- Recenser systématiquement la littérature de recherche.
+- recenser systématiquement la littérature de recherche.
 - veiller à l'uniformité des citations.
 - apporter des modifications flexibles à vos listes de lecture
 - réduire les risques d'erreur dans les longues listes bibliographiques.
 - classer vos sources par catégories et par projets
-- Sauvegarder automatiquement les données dans le cloud ou sur un serveur.
+- sauvegarder automatiquement les données dans le cloud ou sur un serveur.
 
 Tout bien considéré, la structure de la base de données des programmes de gestion de la littérature vous permet de gérer les sources de manière plus judicieuse qu'il ne serait possible de le faire manuellement (par exemple dans un éditeur de texte ou sur papier).
 
@@ -52,7 +52,7 @@ Vous avez pris la décision d'utiliser un logiciel de littérature pour travaill
 
 Commencez par vous faire une idée des caractéristiques.
 
-### Citavi - le classique
+### Citavi – le classique
 
 Citavi est le programme de gestion de la littérature préféré de nombreuses universités. Pour l'utilisation dans ce domaine, ce sont surtout l'application en **allemand**, le **travail en groupe possible sans restriction**, ainsi qu'un **bon support** en cas de questions qui constituent des avantages.
 
@@ -62,7 +62,7 @@ Travailler en groupe est un jeu d'enfant avec Citavi.
 
 Cependant, contrairement à beaucoup de ses concurrents, le programme n'est **pas gratuit et ne peut être utilisé que sous Windows**. Après 30 jours de gratuité, il faut mettre la main à la poche. Le prix à payer dépend de votre activité et commence pour les étudiants à 75 euros par an dans la version web. Les entreprises paient environ 425 euros pour deux ans pour la version Windows.
 
-### Zotero - le programme pour débutants
+### Zotero – le programme pour débutants
 
 Zotero est particulièrement adapté aux néophytes, car il est intuitif et conçu pour les recherches dans toutes les disciplines. Le programme est **gratuit**, fonctionne sur tous les systèmes d'exploitation courants et peut également être utilisé sur un téléphone portable ou une tablette grâce à une application. Il existe toutefois quelques avantages et inconvénients en termes de contenu, auxquels il convient de prêter attention :
 
@@ -78,7 +78,7 @@ Zotero est particulièrement adapté aux néophytes, car il est intuitif et con�
 - La recherche dans la base de données du programme n'est possible que de manière limitée.
 - Les références bibliographiques automatiques doivent être vérifiées, car elles peuvent être erronées ou incomplètes.
 
-### Mendeley - le logiciel en nuage
+### Mendeley – le logiciel en nuage
 
 Mendeley vous propose un **abonnement gratuit** avec deux gigaoctets d'espace de stockage dans le cloud. Si cela ne vous suffit pas, vous pouvez acheter sur demande, moyennant un prix, une version avec plus d'espace de stockage, un support supplémentaire, d'autres fonctionnalités et un meilleur cryptage des données. Le programme fonctionne sur tous les systèmes d'exploitation.
 
@@ -88,7 +88,7 @@ Outre l'utilisation via le programme de bureau ou le Web Importer, vous pouvez �
 
 Malgré ces avantages, le programme présente des faiblesses au niveau du contenu. L'historique des recherches n'est pas enregistré et il n'est pas possible de relier entre elles toutes les œuvres enregistrées. En outre, il est préférable de bien comprendre l'anglais, car le programme n'est disponible que dans cette langue.
 
-### EndNote - l'outil à tout faire
+### EndNote – l'outil à tout faire
 
 Avec EndNote, vous disposez d'un **paquet complet avec de nombreuses fonctions utiles**, mais vous devez être prêt à payer un **prix élevé** pour cela. Le programme commercial de gestion de la littérature du prestataire de services d'information Thomson-Reuters propose également une version gratuite que vous pouvez **tester pendant 30 jours**. Les fonctions sont toutefois très limitées.
 
@@ -100,7 +100,7 @@ Le programme est spécialisé pour les scientifiques qui travaillent sur de gran
 
 Pour pouvoir les utiliser de manière illimitée, il faut acheter une version complète. Celle-ci commence à 252 euros pour un utilisateur unique. En tant qu'étudiant, vous bénéficiez d'une réduction de 50 % après vérification de votre légitimité.
 
-### JabRef - le gourou des langues
+### JabRef – le gourou des langues
 
 JabRef est un **système de gestion de la littérature gratuit et open source**. Les développeurs de la plate-forme mettent le code source à la disposition de tous, ce qui permet à de nombreux développeurs de participer à l'optimisation du logiciel. Cela se traduit notamment par le fait que le programme est disponible **dans de nombreuses langues**.
 
@@ -110,7 +110,7 @@ Ceux qui s'y connaissent peuvent aider à améliorer JabRef.
 
 En outre, JabRef présente toutefois des points faibles. La gestion de la littérature ne fonctionne pas de manière optimale sur les terminaux mobiles, vous ne pouvez pas communiquer avec d'autres utilisateurs et il n'y a pas de recherche plein texte, ce qui complique la création de la bibliographie.
 
-### SeaTable - la solution de tableau intelligent
+### SeaTable – la solution de tableau intelligent
 
 SeaTable vous offre une alternative, **sous forme de tableau**, aux programmes de gestion de la littérature déjà présentés. L'interface utilisateur est **intuitive** et vous offre de nombreuses fonctionnalités utiles pour structurer rapidement et facilement votre littérature.
 
@@ -138,30 +138,30 @@ La qualité d'un programme de gestion de la littérature dépend de celle de son
 
 Toutes les informations sur vos sources ne sont pas pertinentes pour le report ultérieur dans la bibliographie. Pour ne pas vous laisser submerger par les indications générées automatiquement par de nombreux programmes, vous devez savoir comment citer correctement vos sources :
 
-{{< faq "Auteurs" >}}
+{{< accordion "Auteurs" >}}
 
 Les auteurs doivent être mentionnés avec leurs noms et prénoms et, le cas échéant, leurs titres académiques. Outre les auteurs, le nom des éditeurs doit également être mentionné pour les ouvrages collectifs.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Année" >}}
+{{< accordion "Année" >}}
 
 Outre l'année, vous devez également indiquer le jour et le mois de publication des sources Internet. S'il s'agit d'une source sans indication d'année, vous devez également le signaler.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Titre" >}}
+{{< accordion "Titre" >}}
 
 Le titre se réfère au titre de l'article, du livre ou du chapitre s'il s'agit d'un recueil. Il convient de respecter les majuscules et les minuscules.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Moyen" >}}
+{{< accordion "Moyen" >}}
 
 La plupart du temps, il suffit d'indiquer la revue ou l'ouvrage dans lequel l'article a été publié. S'il s'agit d'un livre, il convient de mentionner l'éditeur.
-{{< /faq >}}
+{{< /accordion >}}
 
-{{< faq "Édition et nombre de pages" >}}
+{{< accordion "Édition et nombre de pages" >}}
 
 Notez ces informations le plus précisément possible. Comptez les numéros de page s'ils ne sont pas imprimés.
-{{< /faq >}}
+{{< /accordion >}}
 
 ### 3\. rechercher de nouvelles sources avec le programme de gestion de la littérature
 
