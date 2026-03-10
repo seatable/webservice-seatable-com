@@ -6,7 +6,6 @@ seo:
     description: "Découvrez l'alternative Personio flexible, rentable et conforme au RGPD : processus, apps et automatisation de l'IA avec SeaTable."
 date: '2026-02-26'
 url: '/fr/personio-alternative'
-draft: true
 
 sections:
     - name: hero-5

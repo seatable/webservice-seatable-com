@@ -6,7 +6,6 @@ seo:
     description: 'Entdecken Sie die flexible, kosteneffiziente und DSGVO-konforme Personio Alternative: Prozesse, Apps und KI-Automationen mit SeaTable.'
 date: '2026-02-26'
 url: '/de/personio-alternative'
-draft: true
 
 sections:
     - name: hero-5

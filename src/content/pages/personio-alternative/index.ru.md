@@ -6,7 +6,6 @@ seo:
     description: 'Откройте для себя гибкую, экономически эффективную и соответствующую GDPR альтернативу Personio: процессы, приложения и автоматизация с помощью искусственного интеллекта с SeaTable.'
 date: '2026-02-26'
 url: '/ru/personio-alternativa'
-draft: true
 
 sections:
     - name: hero-5
