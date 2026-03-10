@@ -108,7 +108,7 @@ sections:
       subtitle: Overview of the benefits for your HR processes
       items:
       - headline: "AI-based applicant management"
-        text: A powerful tool that automates the entire [recruitment process]({{< relref "posts/20250317-recruiting" >}}). Use our [integrated AI]({{< relref "posts/ai-powered-automations" >}}), to preselect applications, automatically coordinate appointments, and thus **significantly improve the candidate experience**..
+        text: A powerful tool that automates the entire [recruitment process]({{< relref "posts/20250317-recruiting" >}}). Use our [integrated AI]({{< relref "pages/ai-automations" >}}), to preselect applications, automatically coordinate appointments, and thus **significantly improve the candidate experience**..
         image: /images/Landing-Page_HR_Bewerbermanagement.png
         image_alt: 'SeaTable view for AI-automated applicant management in recruiting'
 

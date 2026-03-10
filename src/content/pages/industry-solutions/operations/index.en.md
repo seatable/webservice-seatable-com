@@ -59,7 +59,7 @@ sections:
         - curved
         - bg-white
       title: Process management tool for every team size
-      description: 'The [AI no-code solution SeaTable]({{< relref "/" >}}) combines the ease of use of a spreadsheet with the power of a database, [modern AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) and automations, and a flexible no-code app builder.'
+      description: 'The [AI no-code solution SeaTable]({{< relref "/" >}}) combines the ease of use of a spreadsheet with the power of a database, [modern AI features]({{< relref "pages/ai-automations" >}}) and automations, and a flexible no-code app builder.'
       subtitle: Managing operations teams
       items:
         - text: "AI-supported automation for **lean processes**"
@@ -177,7 +177,7 @@ sections:
           - q: Does SeaTable provide templates for my operations team?
             a: Yes, SeaTable offers several ready-to-use templates for operations teams, such as [Supply Chain Management]({{< relref "templates/operations/supply-chain-management" >}}), Ordering Work Process and Fulfillment, [Inventory]({{< relref "templates/operations/inventory-list" >}}) or [Fleet Management]({{< relref "templates/operations/fleet-management" >}}).
           - q: Is SeaTable's use of AI GDPR-compliant?  
-            a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and our [own AI model]({{< relref "posts/ai-powered-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.  
+            a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and our [own AI model]({{< relref "pages/ai-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.  
           - q: As a process management software, how can SeaTable improve business operations?
             a: SeaTable business process management software can improve your operations by enabling your employees to manage and analyze processes and projects in real time using workflows, forms and dashboards. SeaTable is a flexible and customizable process management tool for process automation and business process optimization. This allows you to create transparency in your company.
           - q: As a process management tool, does SeaTable offer analysis functions?

@@ -24,7 +24,7 @@ sections:
       template: '89db2f0bd28d41f19c01'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Einarbeitungsplan Vorlage'
       subtitle: 'Smarte Automatisierung im Onboarding'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Einarbeitungsplan Vorlage auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte im Onboarding, reduzieren Sie manuelle Routineaufgaben und gewinnen Sie Zeit für Feedback, Begleitung und persönliche Gespräche mit neuen Mitarbeitern.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Einarbeitungsplan Vorlage auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte im Onboarding, reduzieren Sie manuelle Routineaufgaben und gewinnen Sie Zeit für Feedback, Begleitung und persönliche Gespräche mit neuen Mitarbeitern.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Positionen oder Mitarbeiter basierend auf Rollentyp, Standort oder Abteilung automatisch passenden Onboarding‑Paketen zu. In Ihrer Einarbeitungsplan Vorlage landet jeder neue Fall mit einer passenden Onboarding Checkliste, ohne dass HR alle Aufgaben manuell zusammenstellen muss.'

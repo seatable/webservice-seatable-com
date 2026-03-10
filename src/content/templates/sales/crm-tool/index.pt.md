@@ -24,7 +24,7 @@ sections:
       template: '80356f5aa87e4a879b52'
       buttons:
           - label: Inscreva-se agora gratuitamente e utilize o modelo.
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'Solución CRM basada en IA de SeaTable'
       subtitle: 'Automatización inteligente con IA integrada'
-      description: Con el modelo de CRM do SeaTable, se beneficia de potentes [funciones de inteligencia artificial]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) integradas que le ayudan a sacar el máximo partido a sus datos de clientes. Automatice tareas y ahorre tiempo.
+      description: Con el modelo de CRM do SeaTable, se beneficia de potentes [funciones de inteligencia artificial]({{< relref "pages/ai-automations" >}}) integradas que le ayudan a sacar el máximo partido a sus datos de clientes. Automatice tareas y ahorre tiempo.
      
       items:
       - headline: 'Clasificación con Classify'

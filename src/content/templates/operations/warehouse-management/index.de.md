@@ -21,7 +21,7 @@ sections:
       template: ab96101c9e5b4470a2d2
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Lagerverwaltung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Lagerverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und treffen Sie bessere Entscheidungen auf Basis Ihrer Bestandsdaten.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Lagerverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und treffen Sie bessere Entscheidungen auf Basis Ihrer Bestandsdaten.'
       items:
       - headline: 'Automatische Artikelklassifizierung mit Classify'
         text: 'Lassen Sie neue Artikel automatisch kategorisieren: Die KI-Funktion „Classify" erkennt anhand von Produktnamen, Beschreibungen oder Lieferantenzuordnungen die passende Kategorie und ordnet Ihre Artikel selbstständig zu – ideal für schnell wachsende Sortimente.'

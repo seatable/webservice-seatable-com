@@ -23,7 +23,7 @@ sections:
       template: '13fe52fa8c814d5bbeb7'
       buttons:
           - label: Register now for free and use the template
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-supported strategy development with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your SWOT analysis to the next level. Automate recurring tasks and save valuable time in strategy development.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your SWOT analysis to the next level. Automate recurring tasks and save valuable time in strategy development.'
       items:
       - headline: 'Multilingual SWOT analyses'
         text: 'Automatically translate SWOT factors into other languages with a custom prompt—ideal for international teams or global strategy workshops. Each team member works in their own language, and the AI consolidates the results centrally in a shared analysis.'

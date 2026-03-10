@@ -60,7 +60,7 @@ sections:
         - bg-white
       title: Datenmanagement mit integrierten KI-Prozessen
       subtitle: Flexible Prozesse mit KI-Funktionen 
-      description: 'SeaTable ist die perfekte [KI No-Code Lösung]({{< relref "/" >}}) für Unternehmen, die nach einer **modernen Datenverwaltung mit individuellen KI-gestützten Workflows** suchen. Es vereint [KI-unterstützte Automatisierungen]({{< relref "posts/ai-powered-automations" >}}), App Builder und relationale Datenbank in einem System.'
+      description: 'SeaTable ist die perfekte [KI No-Code Lösung]({{< relref "/" >}}) für Unternehmen, die nach einer **modernen Datenverwaltung mit individuellen KI-gestützten Workflows** suchen. Es vereint KI-unterstützte Automatisierungen, App Builder und relationale Datenbank in einem System.'
       items:
         - text: "**Einfache Implementierung** ohne IT dank No-Code"
         - text: "Transparenz und Dokumentation durch **KI-Nutzungs-Logs**"
@@ -128,7 +128,7 @@ sections:
 
       - icon: user-plus
         headline: DSGVO-konform
-        text: SeaTable Cloud wird ausschließlich auf einem zertifizierten schweizer Server in Deutschland gehostet. Sie behalten die Kontrolle über Ihre Daten.
+        text: SeaTable Cloud wird ausschließlich auf einem zertifizierten Schweizer Server in Deutschland gehostet. Sie behalten die Kontrolle über Ihre Daten.
 
       - icon: fingerprint
         headline: Kein Modelltraining

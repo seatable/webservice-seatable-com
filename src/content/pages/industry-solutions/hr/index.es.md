@@ -104,7 +104,7 @@ sections:
       subtitle: Resumen de las ventajas para sus procesos de RR. HH.
       items:
       - headline: "Gestión de candidatos basada en IA"
-        text: Una potente herramienta que automatiza todo el [proceso de selección]({{< relref "posts/20250317-recruiting" >}}). Aproveche nuestra [IA integrada]({{< relref "posts/ai-powered-automations" >}}), que le permite preseleccionar solicitudes, coordinar citas automáticamente y, de este modo, **mejorar significativamente la experiencia de los candidatos**.
+        text: Una potente herramienta que automatiza todo el [proceso de selección]({{< relref "posts/20250317-recruiting" >}}). Aproveche nuestra [IA integrada]({{< relref "pages/ai-automations" >}}), que le permite preseleccionar solicitudes, coordinar citas automáticamente y, de este modo, **mejorar significativamente la experiencia de los candidatos**.
         image: /images/Landing-Page_HR_Bewerbermanagement.png
         image_alt: 'Vista de SeaTable para la gestión de candidatos automatizada mediante IA en el proceso de selección de personal'
 

@@ -24,7 +24,7 @@ sections:
       template: 'd781991c26e24261bdce'
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Gestión de flotas asistida por IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán la gestión de su flota a un nuevo nivel. Automatice las tareas recurrentes del día a día de la flota, reduzca el trabajo manual rutinario y gane tiempo para realizar evaluaciones, optimizaciones y tomar decisiones estratégicas en la gestión de la flota.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán la gestión de su flota a un nuevo nivel. Automatice las tareas recurrentes del día a día de la flota, reduzca el trabajo manual rutinario y gane tiempo para realizar evaluaciones, optimizaciones y tomar decisiones estratégicas en la gestión de la flota.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Con Classify, puede clasificar automáticamente los nuevos vehículos o las solicitudes de reserva por tipo, área de uso o ubicación. De este modo, los registros se asignan directamente a la categoría correcta y puede ver de inmediato qué partes de su flota se utilizan con mayor frecuencia.'

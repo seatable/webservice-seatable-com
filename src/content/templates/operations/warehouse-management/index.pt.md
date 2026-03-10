@@ -21,7 +21,7 @@ sections:
       template: ab96101c9e5b4470a2d2
       buttons:
           - label: Registe-se agora gratuitamente e utilize o modelo
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Gestão de armazéns com base em IA com SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam a sua gestão de armazéns a um novo nível. Automatize tarefas recorrentes, reduza erros e tome melhores decisões com base nos seus dados de inventário.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam a sua gestão de armazéns a um novo nível. Automatize tarefas recorrentes, reduza erros e tome melhores decisões com base nos seus dados de inventário.'
       items:
       - headline: 'Classificação automática de artigos com o Classify'
         text: 'Permita que novos artigos sejam categorizados automaticamente: a função de IA «Classify» reconhece a categoria adequada com base nos nomes dos produtos, descrições ou atribuições de fornecedores e classifica os seus artigos de forma independente – ideal para gamas em rápido crescimento.'

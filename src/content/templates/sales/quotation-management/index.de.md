@@ -24,7 +24,7 @@ sections:
       template: '584c3121cf4a4ffd86e5'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Angebotserstellung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Angebotserstellung und -verwaltung beschleunigen. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und gewinnen Sie mehr Zeit für Verkaufsgespräche – unabhängig davon, ob Sie eine Angebotsvorlage Kleinunternehmer oder professionelle Angebot Vorlagen für komplexe B2B-Deals nutzen. Die Angebot schreiben Vorlage lässt sich mit KI-Workflows kombinieren, um aus Anfragen automatisch qualifizierte Angebote zu erzeugen.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Angebotserstellung und -verwaltung beschleunigen. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und gewinnen Sie mehr Zeit für Verkaufsgespräche – unabhängig davon, ob Sie eine Angebotsvorlage Kleinunternehmer oder professionelle Angebot Vorlagen für komplexe B2B-Deals nutzen. Die Angebot schreiben Vorlage lässt sich mit KI-Workflows kombinieren, um aus Anfragen automatisch qualifizierte Angebote zu erzeugen.'
       items:
       - headline: 'Automatische Textbausteine mit Classify'
         text: 'Lassen Sie Angebotsanfragen automatisch klassifizieren. Die KI-Funktion „Classify“ erkennt Produktkategorien, Branchen oder Regionen und ergänzt passende Textbausteine sowie Zuständigkeiten.'

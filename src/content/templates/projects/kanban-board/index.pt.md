@@ -23,7 +23,7 @@ sections:
       template: 932ed68b8ffc4a689819
       buttons:
           - label: Registe-se agora gratuitamente e utilize o modelo
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Gestão de tarefas com base em IA com o SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam o seu quadro Kanban a um novo nível. Automatize tarefas recorrentes e economize tempo valioso.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam o seu quadro Kanban a um novo nível. Automatize tarefas recorrentes e economize tempo valioso.'
       items:
       - headline: 'Priorização automática com o Classify'
         text: 'Classifique automaticamente novas tarefas por urgência: a função de IA «Classify» avalia as tarefas com base na sua descrição e data de vencimento e atribui-lhes automaticamente os níveis de prioridade «Alta», «Média» ou «Baixa» – poupando tempo na triagem e garantindo padrões uniformes na equipa.'

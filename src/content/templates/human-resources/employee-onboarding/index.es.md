@@ -24,7 +24,7 @@ sections:
       template: '89db2f0bd28d41f19c01'
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Plantilla de plan de formación basada en IA'
       subtitle: 'Automatización inteligente en la incorporación'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán su plantilla de plan de formación a un nuevo nivel. Automatice los pasos recurrentes en la incorporación, reduzca las tareas rutinarias manuales y gane tiempo para comentarios, acompañamiento y conversaciones personales con los nuevos empleados.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su plantilla de plan de formación a un nuevo nivel. Automatice los pasos recurrentes en la incorporación, reduzca las tareas rutinarias manuales y gane tiempo para comentarios, acompañamiento y conversaciones personales con los nuevos empleados.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Classify asigna automáticamente los nuevos puestos o empleados a los paquetes de incorporación adecuados en función del tipo de función, la ubicación o el departamento. En su plantilla de plan de incorporación, cada nuevo caso recibe una lista de verificación de incorporación adecuada, sin que RR. HH. tenga que recopilar manualmente todas las tareas.'

@@ -21,7 +21,7 @@ sections:
       template: 166dab67dcff4ee799fb
       buttons:
           - label: S''inscrire gratuitement et utiliser le modèle
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -111,7 +111,7 @@ sections:
       weight: 16
       title: 'Journal alimentaire assisté par IA avec SeaTable'
       subtitle: 'Identifier des schémas, utiliser les données intelligemment'
-      description: 'Avec SeaTable, vous disposez de [fonctions d''IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) pour vous aider à analyser votre journal. Analysez des textes, extrayez des informations de documents et résumez automatiquement vos observations.'
+      description: 'Avec SeaTable, vous disposez de [fonctions d''IA]({{< relref "pages/ai-automations" >}}) pour vous aider à analyser votre journal. Analysez des textes, extrayez des informations de documents et résumez automatiquement vos observations.'
       items:
       - headline: 'Catégorisation automatique avec Classify'
         text: 'Laissez l''IA classer automatiquement vos entrées par catégories telles que « Petit-déjeuner », « Snack », « Teneur élevée en sucre » ou « Suspect en cas de symptômes ». Identifiez plus rapidement les schémas comportementaux et discutez-en plus précisément avec des experts.'

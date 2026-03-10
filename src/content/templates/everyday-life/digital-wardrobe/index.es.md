@@ -21,7 +21,7 @@ sections:
       template: 8c47a8b1db804094a5ff
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla.
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: Su armario digital con funciones de IA
       subtitle: Ayudante inteligente para el día a día
-      description: Con SeaTable, se beneficia de potentes [automatizaciones basadas en IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}). Resuma textos descriptivos de forma concisa, extraiga instrucciones de cuidado o genere sugerencias de conjuntos, **totalmente compatibles con el RGPD en servidores europeos en Alemania**.
+      description: Con SeaTable, se beneficia de potentes [automatizaciones basadas en IA]({{< relref "pages/ai-automations" >}}). Resuma textos descriptivos de forma concisa, extraiga instrucciones de cuidado o genere sugerencias de conjuntos, **totalmente compatibles con el RGPD en servidores europeos en Alemania**.
       items:
       - headline: Resúmenes automáticos con Summarize
         text: Anote la ocasión, el estado de ánimo y la comodidad, y genere automáticamente un breve titular de estilo para cada conjunto con la función «Summarize» de la IA. La vista de calendario le ofrece una visión general concisa del look sin tener que leer todo el registro de datos.
@@ -167,6 +167,6 @@ sections:
       - q: ¿También puedo guardar fotos de conjuntos y combinaciones?
         a: Sí, puede guardar fotos, vídeos y otros archivos, y vincularlos a la ropa y los conjuntos que haya guardado. 
       - q: ¿El uso de la IA en SeaTable cumple con el RGPD? 
-        a: Por supuesto, con SeaTable no tiene que preocuparse de que su información se utilice indebidamente como datos de entrenamiento. Alojamos SeaTable Cloud y [nuestro propio modelo de IA]({{< relref "posts/ai-powered-automations" >}}) en servidores europeos certificados en Alemania. No hay intercambio de datos con proveedores externos de IA, y sus datos nunca salen de la infraestructura de SeaTable. 
+        a: Por supuesto, con SeaTable no tiene que preocuparse de que su información se utilice indebidamente como datos de entrenamiento. Alojamos SeaTable Cloud y [nuestro propio modelo de IA]({{< relref "pages/ai-automations" >}}) en servidores europeos certificados en Alemania. No hay intercambio de datos con proveedores externos de IA, y sus datos nunca salen de la infraestructura de SeaTable. 
 ---
 

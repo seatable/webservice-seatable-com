@@ -24,7 +24,7 @@ sections:
       template: '898485ee9b7949c5b987'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Projektstrukturplan Vorlagen'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Projektstrukturplan Vorlagen auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben in der Projektplanung, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Projektstrukturplan Vorlagen auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben in der Projektplanung, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Aufgaben basierend auf Titel und Beschreibung automatisch passenden Phasen oder Arbeitspaketen zu. In Ihrer Projektstrukturplan Vorlage landen neue Einträge so direkt in der richtigen Struktur und Sie sehen auf einen Blick, in welchen Bereichen sich die Arbeit verdichtet.'

@@ -21,7 +21,7 @@ sections:
       template: 96cfeafc49e94907bc36
       buttons:
           - label: Inscrivez-vous gratuitement et utilisez le modèle
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'Plan de traitement médicamenteux assisté par IA avec SeaTable'
       subtitle: 'Assistance intelligente au quotidien'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui rendent votre plan de traitement encore plus sûr et plus clair. Analysez des textes, évaluez des documents et réduisez le travail manuel, le tout en conformité avec le RGPD sur des serveurs allemands.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui rendent votre plan de traitement encore plus sûr et plus clair. Analysez des textes, évaluez des documents et réduisez le travail manuel, le tout en conformité avec le RGPD sur des serveurs allemands.'
       items:
       - headline: 'Classification automatique avec Classify'
         text: "Classez automatiquement les médicaments dans des groupes pertinents, par exemple selon leur classe de principes actifs, leur heure de prise ou leur domaine d'application. La fonction IA « Classify » vous aide à structurer clairement les plans de médication complexes et à éviter les erreurs."
