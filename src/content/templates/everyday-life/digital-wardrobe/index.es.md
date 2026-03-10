@@ -167,6 +167,6 @@ sections:
       - q: ¿También puedo guardar fotos de conjuntos y combinaciones?
         a: Sí, puede guardar fotos, vídeos y otros archivos, y vincularlos a la ropa y los conjuntos que haya guardado. 
       - q: ¿El uso de la IA en SeaTable cumple con el RGPD? 
-        a: Por supuesto, con SeaTable no tiene que preocuparse de que su información se utilice indebidamente como datos de entrenamiento. Alojamos SeaTable Cloud y [nuestro propio modelo de IA]({{< relref "posts/ai-powered-automations" >}}) en servidores europeos certificados en Alemania. No hay intercambio de datos con proveedores externos de IA, y sus datos nunca salen de la infraestructura de SeaTable. 
+        a: Por supuesto, con SeaTable no tiene que preocuparse de que su información se utilice indebidamente como datos de entrenamiento. Alojamos SeaTable Cloud y [nuestro propio modelo de IA]({{< relref "pages/ai-automations" >}}) en servidores europeos certificados en Alemania. No hay intercambio de datos con proveedores externos de IA, y sus datos nunca salen de la infraestructura de SeaTable. 
 ---
 

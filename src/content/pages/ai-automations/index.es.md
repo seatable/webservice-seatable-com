@@ -60,7 +60,7 @@ sections:
         - bg-white
       title: Gestión de datos con procesos de IA integrados
       subtitle: Procesos flexibles con funciones de IA 
-      description: 'SeaTable es la [solución no-code de IA]({{< relref "/" >}}) perfecta para las empresas que buscan una **gestión de datos moderna con flujos de trabajo personalizados basados en IA**. Combina [automatizaciones basadas en IA]({{< relref "posts/ai-powered-automations" >}}), un creador de aplicaciones y una base de datos relacional en un solo sistema.'
+      description: 'SeaTable es la [solución no-code de IA]({{< relref "/" >}}) perfecta para las empresas que buscan una **gestión de datos moderna con flujos de trabajo personalizados basados en IA**. Combina [automatizaciones basadas en IA]({{< relref "pages/ai-automations" >}}), un creador de aplicaciones y una base de datos relacional en un solo sistema.'
       items:
         - text: "**Fácil implementación** sin necesidad de TI gracias a la tecnología no-code"
         - text: "Transparencia y documentación mediante **registros de uso de IA**"

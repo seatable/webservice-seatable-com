@@ -167,6 +167,6 @@ sections:
       - q: "Kann ich auch Fotos von Outfits und Kombinationen speichern?"
         a: 'Ja, Sie können Fotos, Videos und andere Dateien speichern und mit Ihren gespeicherten Kleidungsstücken und Outfits verknüpfen.'
       - q: 'Ist die KI-Nutzung bei SeaTable DSGVO-konform?'
-        a: 'Absolut, mit SeaTable brauchen Sie sich keine Gedanken zu machen, ob Ihre Informationen als Trainingsdaten missbraucht werden. Wir hosten SeaTable Cloud und [unser eigenes KI-Modell]({{< relref "posts/ai-powered-automations" >}}) auf zertifizierten europäischen Servern in Deutschland. Es findet kein Datenaustausch mit externen KI-Anbietern statt und Ihre Daten verlassen zu keinem Zeitpunkt die SeaTable-Infrastruktur.'        
+        a: 'Absolut, mit SeaTable brauchen Sie sich keine Gedanken zu machen, ob Ihre Informationen als Trainingsdaten missbraucht werden. Wir hosten SeaTable Cloud und [unser eigenes KI-Modell]({{< relref "pages/ai-automations" >}}) auf zertifizierten europäischen Servern in Deutschland. Es findet kein Datenaustausch mit externen KI-Anbietern statt und Ihre Daten verlassen zu keinem Zeitpunkt die SeaTable-Infrastruktur.'        
 ---
 
