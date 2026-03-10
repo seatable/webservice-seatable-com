@@ -23,7 +23,7 @@ sections:
       template: '89db2f0bd28d41f19c01'
       buttons:
           - label: Inscrivez-vous gratuitement dès maintenant et utilisez le modèle.
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"

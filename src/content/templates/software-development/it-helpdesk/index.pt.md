@@ -21,7 +21,7 @@ sections:
       template: '79de1c79b29445c280ad'
       buttons:
           - label: Registe-se gratuitamente agora e utilize o modelo
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"

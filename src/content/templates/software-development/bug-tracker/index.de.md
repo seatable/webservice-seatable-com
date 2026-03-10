@@ -23,7 +23,7 @@ sections:
       template: '51d678ca8b004e9b9b79'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"

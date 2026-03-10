@@ -24,7 +24,7 @@ sections:
       template: 932ed68b8ffc4a689819
       buttons:
           - label: Зарегистрируйтесь сейчас бесплатно и используйте шаблон
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"

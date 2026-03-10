@@ -21,7 +21,7 @@ sections:
       template: 166dab67dcff4ee799fb
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"

@@ -23,7 +23,7 @@ sections:
       template: '1acd19d97c8f4ed3ad38'
       buttons:
           - label: Пожалуйста, зарегистрируйтесь бесплатно и воспользуйтесь шаблоном
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
