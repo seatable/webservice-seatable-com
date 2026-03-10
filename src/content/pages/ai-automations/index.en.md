@@ -60,7 +60,7 @@ sections:
         - bg-white
       title: Data management with integrated AI processes
       subtitle: Flexible processes with AI capabilities 
-      description: 'SeaTable is the perfect [AI no-code solution]({{< relref "/" >}}) for companies looking for **modern data management with customized AI-powered workflows**. It combines [AI-powered automations]({{< relref "pages/ai-automations" >}}), app builder, and relational database in one system.'
+      description: 'SeaTable is the perfect [AI no-code solution]({{< relref "/" >}}) for companies looking for **modern data management with customized AI-powered workflows**. It combines AI-powered automations, app builder, and relational database in one system.'
       items:
         - text: "**Easy implementation** without IT thanks to no-code"
         - text: "Transparency and documentation through **AI usage logs**"
