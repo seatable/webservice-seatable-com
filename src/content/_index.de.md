@@ -257,10 +257,10 @@ sections:
       link: "/pages/excel-alternative"
   - subtitle: Flexibilität, Datenschutz
     title: Personio Alternative
-    text: "Digitale HR-Prozesse, smarte KI-gestützte Workflows ohne Programmierung, und Datensicherheit: Mit SeaTable verwalten Unternehmen ihr Personal und sensible Daten effizient, flexibel und DSGVO-konform. Statistiken und individualisierten Dashboards ziehen mit dem Performance Management von Personio gleich und sind darüberhinaus flexibel anpassbar."
+    text: "Digitale HR-Prozesse, smarte KI-gestützte Workflows ohne Programmierung, Datensicherheit: Mit SeaTable verwalten Unternehmen ihr Personal und sensible Daten effizient, flexibel und DSGVO-konform. Statistiken und individualisierte Dashboards ziehen mit dem Performance Management von Personio gleich und sind darüber hinaus flexibel anpassbar." 
     buttons:
     - label: "Mehr über SeaTable als Personio Alternative erfahren"
-      link: "/pages/industry-solutions/hr"
+      link: "/pages/personio-alternative"
   - subtitle: Vertriebsprozesse, Skalierbarkeit
     title: HubSpot Alternative
     text: "Unter den CRM Alternativen die Flexibelste:  SeaTable bringt alle relevanten Vertriebsdaten in eine Plattform mit Prozessautomatisierung und Datenanalyse mit KI. Sie bringen Ihre Prozesse und Ihre Teams in das Tool und müssen sich nicht an vorgegebene Strukturen anpassen - die flexibelste und skalierbarste Lösung unter den HubSpot Alternativen."

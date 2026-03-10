@@ -269,7 +269,7 @@ sections:
     text: "Gestione sus procesos de RR.HH. y datos sensibles de forma eficiente y segura. SeaTable ofrece cuadros de mando personalizados a la altura del rendimiento de Personio con mayor flexibilidad de adaptación."
     buttons:
     - label: "Saber más sobre SeaTable como alternativa a Personio"
-      link: "/pages/industry-solutions/hr"
+      link: "/pages/personio-alternative"
   - subtitle: Procesos de ventas y escalabilidad
     title: Alternativa a HubSpot
     text: "La alternativa de CRM más flexible: unifique sus datos de ventas, automatice procesos y analice información con IA sin tener que adaptarse a estructuras rígidas predefinidas."

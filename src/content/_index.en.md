@@ -275,7 +275,7 @@ sections:
     text: "Digital HR processes, smart AI-supported workflows and data security: SeaTable enables companies to manage their personnel and sensitive data efficiently, flexibly and in compliance with GDPR. Statistics and individualized dashboards are on a par with Personio's performance management and can also be flexibly adapted."
     buttons:
     - label: "Learn more about SeaTable as a Personio alternative"
-      link: "/pages/industry-solutions/hr"
+      link: "/pages/personio-alternative"
   - subtitle: Sales processes, scalability
     title: HubSpot alternative
     text: "The most flexible of all CRM alternatives: SeaTable brings all relevant sales data together in one platform with process automation and data analysis using AI. You can integrate your processes and teams into the tool without having to adapt to predefined structures—the most flexible and scalable solution among HubSpot alternatives."
