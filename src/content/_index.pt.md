@@ -268,7 +268,7 @@ sections:
     text: "Digitalize processos de RH com segurança. Gerencie dados sensíveis de colaboradores com dashboards customizados e conformidade GDPR."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao Personio"
-      link: "/pages/industry-solutions/hr"
+      link: "/pages/personio-alternative"
   - subtitle: Processos de Vendas e Escalabilidade
     title: Alternativa ao HubSpot
     text: "O CRM mais flexível: unifique dados de vendas e automatize processos sem as amarras de estruturas pré-definidas."
