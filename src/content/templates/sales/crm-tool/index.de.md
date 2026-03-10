@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'KI-unterstützte CRM Lösung von SeaTable'
       subtitle: 'Smarte Automatisierung mit integrierter KI'
-      description: 'Mit der CRM Vorlage von SeaTable profitieren Sie von integrierten, leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), mit denen Sie das Beste aus Ihren Kundendaten machen. Automatisieren Sie Aufgaben und sparen Sie Zeit!'
+      description: 'Mit der CRM Vorlage von SeaTable profitieren Sie von integrierten, leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), mit denen Sie das Beste aus Ihren Kundendaten machen. Automatisieren Sie Aufgaben und sparen Sie Zeit!'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Eingehende Daten werden automatisch kategorisiert. So erstellen Sie ein intelligentes Lead Scoring mit eindeutigen Scores basierend auf Interaktionsdaten, Unternehmensdaten und Umsatzprognosen – perfekt für Priorisierungen.'

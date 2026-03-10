@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-powered task management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your Kanban board to the next level. Automate recurring tasks and save valuable time.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your Kanban board to the next level. Automate recurring tasks and save valuable time.'
       items:
       - headline: 'Prioritization with Classify'
         text: 'Have new tasks automatically sorted by urgency: The AI function "Classify" evaluates tasks based on their description and due date and automatically assigns them to the priority levels "High," "Medium," or "Low"—saving time in triage and ensuring consistent standards across the team.'

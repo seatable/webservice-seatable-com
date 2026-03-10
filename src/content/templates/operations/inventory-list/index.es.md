@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Gestión de inventario basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán la gestión de su inventario a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán la gestión de su inventario a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
       items:
       - headline: 'Clasificación automática con Classify'
         text: 'Clasifique automáticamente los nuevos activos: la función de IA «Classify» reconoce la categoría adecuada basándose en descripciones, fabricantes o nombres de productos y asigna los artículos de forma independiente a la clase correcta, lo que resulta perfecto para un inventario rápido y sin errores.'

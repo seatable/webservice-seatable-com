@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: "Gestion des entrepôts basée sur l'IA avec SeaTable"
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent la gestion de vos stocks à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les erreurs et prenez de meilleures décisions sur la base de vos données d inventaire.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent la gestion de vos stocks à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les erreurs et prenez de meilleures décisions sur la base de vos données d inventaire.'
       items:
       - headline: 'Classification automatique des articles avec Classify'
         text: 'Classez automatiquement les nouveaux articles : la fonction IA « Classify » identifie la catégorie appropriée à partir des noms de produits, des descriptions ou des attributions des fournisseurs et classe vos articles de manière autonome, ce qui est idéal pour les gammes de produits en pleine expansion.'

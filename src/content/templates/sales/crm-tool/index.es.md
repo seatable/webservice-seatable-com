@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'Solución CRM basada en IA de SeaTable'
       subtitle: 'Automatización inteligente con IA integrada'
-      description: Con el plantilla CRM de SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})  integradas, que le ayudan a sacar el máximo partido a los datos de sus clientes. Automatice tareas y ahorre tiempo.
+      description: Con el plantilla CRM de SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}) integradas, que le ayudan a sacar el máximo partido a los datos de sus clientes. Automatice tareas y ahorre tiempo.
      
       items:
       - headline: 'Clasificación con Classify'

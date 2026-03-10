@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Fuhrparkverwaltung'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Fuhrparkverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Flottenalltag, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Auswertungen, Optimierung und strategische Entscheidungen im Fuhrparkmanagement.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Fuhrparkverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Flottenalltag, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Auswertungen, Optimierung und strategische Entscheidungen im Fuhrparkmanagement.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Mit Classify ordnen Sie neue Fahrzeuge oder Buchungsanfragen automatisch nach **Typ, Einsatzbereich oder Standort** zu. So landen Datensätze direkt in der richtigen Kategorie und Sie sehen sofort, welche Teile Ihrer Flotte besonders stark genutzt werden.'

@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Système de suivi des bogues assisté par IA'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent votre système de suivi des bogues à un niveau supérieur. Automatisez les tâches récurrentes dans le suivi des bogues, réduisez les tâches manuelles routinières et gagnez du temps pour l analyse, la hiérarchisation, l assurance qualité et une planification de publication bien fondée avec des bases décisionnelles claires.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre système de suivi des bogues à un niveau supérieur. Automatisez les tâches récurrentes dans le suivi des bogues, réduisez les tâches manuelles routinières et gagnez du temps pour l analyse, la hiérarchisation, l assurance qualité et une planification de publication bien fondée avec des bases décisionnelles claires.'
       items:
       - headline: 'Classification avec Classify'
         text: 'La fonction IA « Classify » classe les nouveaux problèmes dans les catégories ou composants appropriés en fonction de leur titre et de leur description. Ainsi, les bugs sont directement placés dans la bonne colonne et les équipes identifient beaucoup plus rapidement les points importants dans certains modules.'

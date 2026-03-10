@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Sistema de tickets de helpdesk de TI baseado em IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam o seu sistema de tickets de TI a um novo nível. Automatize etapas recorrentes, reduza o trabalho manual rotineiro e ganhe tempo para análise, melhoria de serviços e decisões estratégicas em TI.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam o seu sistema de tickets de TI a um novo nível. Automatize etapas recorrentes, reduza o trabalho manual rotineiro e ganhe tempo para análise, melhoria de serviços e decisões estratégicas em TI.'
       items:
       - headline: 'Classificação com Classify'
         text: 'O Classify classifica automaticamente novas solicitações de suporte com base no assunto e na descrição, atribuindo-as às categorias de serviço, prioridades ou equipas adequadas. Assim, os novos tickets são encaminhados diretamente para o contexto correto, o que reduz os tempos de processamento e melhora a qualidade do suporte.'

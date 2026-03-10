@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered inventory management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your inventory management to a whole new level. Automate recurring tasks and save valuable time.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your inventory management to a whole new level. Automate recurring tasks and save valuable time.'
       items:
       - headline: 'Automatic classification with Classify'
         text: 'Have new assets categorized automatically: The AI function "Classify" uses descriptions, manufacturers, or product names to identify the appropriate category and automatically assigns items to the correct class—perfect for fast and error-free inventory recording.'

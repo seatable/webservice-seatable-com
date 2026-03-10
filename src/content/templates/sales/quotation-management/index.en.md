@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-supported quotation creation with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that speed up your quote creation and management. Automate recurring tasks, reduce errors, and free up more time for sales calls—whether you use a quote template for small businesses or professional quote templates for complex B2B deals. The quote writing template can be combined with AI workflows to automatically generate qualified quotes from inquiries.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that speed up your quote creation and management. Automate recurring tasks, reduce errors, and free up more time for sales calls—whether you use a quote template for small businesses or professional quote templates for complex B2B deals. The quote writing template can be combined with AI workflows to automatically generate qualified quotes from inquiries.'
       items:
       - headline: 'Automatic text modules with Classify'
         text: 'Have requests for quotes classified automatically. The AI function "Classify" recognizes product categories, industries, or regions and adds appropriate text modules and responsibilities.'

@@ -62,7 +62,7 @@ sections:
           - bg-white
       title: "Outil de gestion des processus pour toutes les tailles d'équipe"
       subtitle: Gérer les équipes opérationnelles
-      description: '[La solution IA no-code SeaTable]({{< relref "/" >}}) Combine la simplicité de un tableur avec la puissance de une base de données, des [fonctionnalités IA modernes]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) et des automatisations, ainsi que un générateur flexible sans code pour les applications.'
+      description: '[La solution IA no-code SeaTable]({{< relref "/" >}}) Combine la simplicité de un tableur avec la puissance de une base de données, des [fonctionnalités IA modernes]({{< relref "pages/ai-automations" >}}) et des automatisations, ainsi que un générateur flexible sans code pour les applications.'
       items:
           - text: "Automatisation assistée par IA pour des **processus allégés**"
           - text: "Propre serveur AI pour une **protection et une conformité maximales des données**"

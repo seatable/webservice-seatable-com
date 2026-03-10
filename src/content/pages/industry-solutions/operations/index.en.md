@@ -59,7 +59,7 @@ sections:
         - curved
         - bg-white
       title: Process management tool for every team size
-      description: 'The [AI no-code solution SeaTable]({{< relref "/" >}}) combines the ease of use of a spreadsheet with the power of a database, [modern AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) and automations, and a flexible no-code app builder.'
+      description: 'The [AI no-code solution SeaTable]({{< relref "/" >}}) combines the ease of use of a spreadsheet with the power of a database, [modern AI features]({{< relref "pages/ai-automations" >}}) and automations, and a flexible no-code app builder.'
       subtitle: Managing operations teams
       items:
         - text: "AI-supported automation for **lean processes**"

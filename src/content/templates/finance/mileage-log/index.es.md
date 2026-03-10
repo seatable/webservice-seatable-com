@@ -133,7 +133,7 @@ sections:
       weight: 16
       title: 'Gestión de viajes basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevan la gestión de sus desplazamientos a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso. Cumple con el RGPD.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevan la gestión de sus desplazamientos a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso. Cumple con el RGPD.'
       items:
       - headline: 'Clasificación automática con Classify'
         text: 'Clasifique automáticamente los datos de los viajes: la IA reconoce automáticamente el propósito del viaje (por ejemplo, visita comercial, visita a un cliente, viaje de negocios) basándose en los textos de destino o las notas, y asigna los viajes a la categoría correcta.'

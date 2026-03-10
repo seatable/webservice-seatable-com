@@ -111,7 +111,7 @@ sections:
       weight: 16
       title: 'Diário alimentar apoiado por IA com o SeaTable'
       subtitle: 'Reconheça padrões, utilize os dados de forma mais inteligente'
-      description: 'Com o SeaTable, você tem à disposição [funções de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) que o apoiam na análise do seu diário alimentar. Analise textos, extraia informações de documentos e resuma descobertas automaticamente.'
+      description: 'Com o SeaTable, você tem à disposição [funções de IA]({{< relref "pages/ai-automations" >}}) que o apoiam na análise do seu diário alimentar. Analise textos, extraia informações de documentos e resuma descobertas automaticamente.'
       items:
       - headline: 'Categorização automática com Classify'
         text: 'Deixe que as entradas sejam classificadas automaticamente por categorias como "Pequeno-almoço", "Lanche", "Alto teor de açúcar" ou "Suspeito em caso de queixas". Assim, você reconhece padrões no seu comportamento alimentar mais rapidamente e pode falar sobre eles de forma mais direcionada com especialistas.'

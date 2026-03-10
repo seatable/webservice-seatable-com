@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Helpdesk Ticket System'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihr IT Ticket System auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Serviceverbesserung und strategische Entscheidungen in der IT.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr IT Ticket System auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Serviceverbesserung und strategische Entscheidungen in der IT.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Supportanfragen basierend auf Betreff und Beschreibung automatisch passenden Servicekategorien, Prioritäten oder Teams zu. Neue Tickets landen so direkt im richtigen Kontext, was Bearbeitungszeiten reduziert und die Support-Qualität verbessert.'

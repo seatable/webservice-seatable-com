@@ -60,7 +60,7 @@ sections:
         - bg-white
       title: Prozessmanagement Tool für jede Teamgröße
       subtitle: Operations-Teams managen
-      description: 'Die [KI No-Code Lösung SeaTable]({{< relref "/" >}}) vereint die einfache Nutzung einer Tabellenkalkulation mit der Power einer Datenbank, [modernen KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) und Automatisierungen sowie einem flexiblen No-Code App Builder.'
+      description: 'Die [KI No-Code Lösung SeaTable]({{< relref "/" >}}) vereint die einfache Nutzung einer Tabellenkalkulation mit der Power einer Datenbank, [modernen KI-Funktionen]({{< relref "pages/ai-automations" >}}) und Automatisierungen sowie einem flexiblen No-Code App Builder.'
       items:
         - text: "KI-unterstützte Automatisierungen für **schlanke Prozesse**"
         - text: "Eigener KI-Server für **maximalen Datenschutz und Compliance**"

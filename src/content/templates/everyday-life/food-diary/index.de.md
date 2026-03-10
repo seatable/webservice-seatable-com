@@ -111,7 +111,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Ernährungstagebuch mit SeaTable'
       subtitle: 'Muster erkennen, Daten smarter nutzen'
-      description: 'Mit SeaTable stehen Ihnen [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) zur Verfügung, die Sie bei der Auswertung Ihres Ernährungstagebuchs unterstützen. Analysieren Sie Texte, extrahieren Sie Informationen aus Dokumenten und fassen Sie Erkenntnisse automatisch zusammen.'
+      description: 'Mit SeaTable stehen Ihnen [KI-Funktionen]({{< relref "pages/ai-automations" >}}) zur Verfügung, die Sie bei der Auswertung Ihres Ernährungstagebuchs unterstützen. Analysieren Sie Texte, extrahieren Sie Informationen aus Dokumenten und fassen Sie Erkenntnisse automatisch zusammen.'
       items:
       - headline: 'Automatische Kategorisierung mit Classify'
         text: 'Lassen Sie Einträge automatisch nach Kategorien wie „Frühstück“, „Snack“, „hoher Zuckeranteil“ oder „verdächtig bei Beschwerden“ klassifizieren. So erkennen Sie schneller Muster in Ihrem Essverhalten und können gezielter mit Expertinnen und Experten darüber sprechen.'

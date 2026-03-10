@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Gestion des tâches assistée par IA avec SeaTable'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent votre tableau Kanban à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre tableau Kanban à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux.'
       items:
       - headline: 'Priorisation automatique avec Classify'
         text: "Classez automatiquement les nouvelles tâches par ordre d'urgence : la fonction IA « Classify » évalue les tâches en fonction de leur description et de leur date d'échéance, puis leur attribue automatiquement le niveau de priorité « Élevé », « Moyen » ou « Faible », ce qui permet de gagner du temps lors du triage et garantit des normes uniformes au sein de l'équipe."

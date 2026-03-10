@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'Your digital wardrobe with AI features'
       subtitle: 'Smart everyday helper'
-      description: With SeaTable, you benefit from powerful [AI-powered automations]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}). Summarize descriptive texts concisely, extract care instructions, or generate outfit suggestions—**fully GDPR-compliant on European servers in Germany**.
+      description: With SeaTable, you benefit from powerful [AI-powered automations]({{< relref "pages/ai-automations" >}}). Summarize descriptive texts concisely, extract care instructions, or generate outfit suggestions—**fully GDPR-compliant on European servers in Germany**.
       items:
       - headline: 'Automatic summaries with Summarize'
         text: "Record notes on the occasion, mood, and comfort, and automatically generate a short style headline for each outfit. The calendar view then gives you a concise overview of the look without having to read the entire data record."

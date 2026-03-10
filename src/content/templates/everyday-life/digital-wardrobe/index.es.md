@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: Su armario digital con funciones de IA
       subtitle: Ayudante inteligente para el día a día
-      description: Con SeaTable, se beneficia de potentes [automatizaciones basadas en IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}). Resuma textos descriptivos de forma concisa, extraiga instrucciones de cuidado o genere sugerencias de conjuntos, **totalmente compatibles con el RGPD en servidores europeos en Alemania**.
+      description: Con SeaTable, se beneficia de potentes [automatizaciones basadas en IA]({{< relref "pages/ai-automations" >}}). Resuma textos descriptivos de forma concisa, extraiga instrucciones de cuidado o genere sugerencias de conjuntos, **totalmente compatibles con el RGPD en servidores europeos en Alemania**.
       items:
       - headline: Resúmenes automáticos con Summarize
         text: Anote la ocasión, el estado de ánimo y la comodidad, y genere automáticamente un breve titular de estilo para cada conjunto con la función «Summarize» de la IA. La vista de calendario le ofrece una visión general concisa del look sin tener que leer todo el registro de datos.

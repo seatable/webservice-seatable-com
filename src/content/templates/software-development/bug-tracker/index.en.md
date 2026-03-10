@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-supported bug tracking system'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your bug tracking system to a new level. Automate recurring tasks in bug tracking, reduce manual routine work, and gain time for analysis, prioritization, quality assurance, and well-founded release planning with clear decision-making criteria.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your bug tracking system to a new level. Automate recurring tasks in bug tracking, reduce manual routine work, and gain time for analysis, prioritization, quality assurance, and well-founded release planning with clear decision-making criteria.'
       items:
       - headline: 'Classification with Classify'
         text: 'The AI function "Classify" assigns new issues to appropriate categories or components based on their title and description. This means that bugs end up directly in the right column and teams can identify focal points in specific modules much more quickly.'

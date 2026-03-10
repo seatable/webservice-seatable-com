@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Aufgabenmanagement mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihr Kanban Board auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr Kanban Board auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
       items:
       - headline: 'Automatische Priorisierung mit Classify'
         text: 'Lassen Sie neue Tasks automatisch nach Dringlichkeit einordnen: Die KI-Funktion „Classify" bewertet Aufgaben anhand ihrer Beschreibung und des Fälligkeitsdatums und weist sie automatisch den Prioritätsstufen „Hoch", „Mittel" oder „Niedrig" zu – spart Zeit bei der Triage und sorgt für einheitliche Standards im Team.'

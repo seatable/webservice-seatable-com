@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered project structure plan templates'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your project structure plan templates to a new level. Automate recurring tasks in project planning, reduce manual routine work, and gain time for analysis, coordination, and informed decisions about priorities and resources.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your project structure plan templates to a new level. Automate recurring tasks in project planning, reduce manual routine work, and gain time for analysis, coordination, and informed decisions about priorities and resources.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new tasks to appropriate phases or work packages based on their title and description. New entries are placed directly in the correct structure in your project structure plan template, allowing you to see at a glance which areas require more work.'

@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Sistema de rastreamento de bugs baseado em IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam o seu sistema de rastreamento de erros a um novo nível. Automatize tarefas recorrentes no rastreamento de erros, reduza o trabalho manual rotineiro e ganhe tempo para análise, priorização, garantia de qualidade e um planeamento de lançamento fundamentado com bases de decisão claras.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam o seu sistema de rastreamento de erros a um novo nível. Automatize tarefas recorrentes no rastreamento de erros, reduza o trabalho manual rotineiro e ganhe tempo para análise, priorização, garantia de qualidade e um planeamento de lançamento fundamentado com bases de decisão claras.'
       items:
       - headline: 'Classificação com Classify'
         text: 'A função de IA "Classify" classifica novos problemas em categorias ou componentes adequados com base no título e na descrição. Assim, os erros são direcionados diretamente para a coluna correta e as equipas identificam pontos críticos em determinados módulos com muito mais rapidez.'

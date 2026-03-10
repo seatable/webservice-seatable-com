@@ -62,7 +62,7 @@ sections:
         - bg-white
       title: Herramienta de gestión de procesos para equipos de cualquier tamaño
       subtitle: Gestión de equipos de operaciones
-      description: La [solución SeaTable no-code de IA]({{< relref "/" >}}) combina la facilidad de uso de una hoja de cálculo con la potencia de una base de datos, [funciones modernas de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) y automatizaciones, así como un creador de aplicaciones sin código flexible.'
+      description: La [solución SeaTable no-code de IA]({{< relref "/" >}}) combina la facilidad de uso de una hoja de cálculo con la potencia de una base de datos, [funciones modernas de IA]({{< relref "pages/ai-automations" >}}) y automatizaciones, así como un creador de aplicaciones sin código flexible.'
       items:
         - text: "Automatización asistida por IA **para procesos ajustados**"
         - text: "Servidor de IA propio para una **máxima protección de los datos y cumplimiento de la normativa++"
