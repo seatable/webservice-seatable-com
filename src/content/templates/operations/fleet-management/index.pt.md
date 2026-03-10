@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Gestão de frotas com suporte de IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam a gestão da sua frota a um novo nível. Automatize tarefas recorrentes no dia a dia da frota, reduza o trabalho manual rotineiro e ganhe tempo para análises, otimização e decisões estratégicas na gestão da frota.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam a gestão da sua frota a um novo nível. Automatize tarefas recorrentes no dia a dia da frota, reduza o trabalho manual rotineiro e ganhe tempo para análises, otimização e decisões estratégicas na gestão da frota.'
       items:
       - headline: 'Classificação com Classify'
         text: 'Com o Classify, pode classificar automaticamente novos veículos ou pedidos de reserva por tipo, área de utilização ou localização. Desta forma, os registos são colocados diretamente na categoria correta e pode ver imediatamente quais as partes da sua frota que são mais utilizadas.'

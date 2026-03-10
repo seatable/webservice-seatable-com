@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: Votre garde-robe numérique dotée de fonctionnalités d'IA
       subtitle: Une aide intelligente au quotidien
-      description: Avec SeaTable, vous bénéficiez de puissantes [automatisations basées sur l'IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}). Résumez des textes descriptifs de manière concise, extrayez des instructions d'entretien ou générez des suggestions de tenues, le tout en **totale conformité avec le RGPD sur des serveurs européens situés en Allemagne**.
+      description: Avec SeaTable, vous bénéficiez de puissantes [automatisations basées sur l'IA]({{< relref "pages/ai-automations" >}}). Résumez des textes descriptifs de manière concise, extrayez des instructions d'entretien ou générez des suggestions de tenues, le tout en **totale conformité avec le RGPD sur des serveurs européens situés en Allemagne**.
       items:
       - headline: Résumés automatiques avec Summarize
         text: "Enregistrez des notes sur l'occasion, l'ambiance et le confort, et générez automatiquement un titre court pour chaque tenue. La vue calendrier vous offre ensuite un aperçu concis du look sans avoir à lire l'intégralité des données enregistrées."

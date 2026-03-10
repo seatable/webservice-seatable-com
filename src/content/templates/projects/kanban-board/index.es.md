@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Gestión de tareas basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán su tablero Kanban a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su tablero Kanban a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
       items:
       - headline: 'Priorización automática y asignación con Classify'
         text: 'Clasifique automáticamente las nuevas tareas según su urgencia: la función de IA «Classify» evalúa las tareas en función de su descripción y fecha de vencimiento, y las asigna automáticamente a los niveles de prioridad «Alta», «Media» o «Baja», lo que ahorra tiempo en la clasificación y garantiza unos estándares uniformes en el equipo.'

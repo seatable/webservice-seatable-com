@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'AI-powered help desk ticket system'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your IT ticket system to a new level. Automate recurring steps, reduce manual routine work, and free up time for analysis, service improvement, and strategic decisions in IT.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your IT ticket system to a new level. Automate recurring steps, reduce manual routine work, and free up time for analysis, service improvement, and strategic decisions in IT.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new support requests to appropriate service categories, priorities, or teams based on subject and description. New tickets are thus placed directly in the right context, which reduces processing times and improves support quality.'

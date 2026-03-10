@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Desenvolvimento de estratégias com base em IA com o SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam a sua análise SWOT a um novo nível. Automatize tarefas recorrentes e economize tempo valioso no desenvolvimento de estratégias.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam a sua análise SWOT a um novo nível. Automatize tarefas recorrentes e economize tempo valioso no desenvolvimento de estratégias.'
       items:
       - headline: 'Análises SWOT multilingues'
         text: 'Traduza automaticamente os fatores SWOT para outros idiomas com um prompt personalizado – ideal para equipas internacionais ou workshops de estratégia global. Cada membro da equipa trabalha no seu idioma, e a IA consolida os resultados centralmente numa análise comum.'

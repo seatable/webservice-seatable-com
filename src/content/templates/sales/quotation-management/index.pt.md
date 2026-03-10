@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Criação de propostas com base em IA com o SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que aceleram a criação e gestão das suas propostas. Automatize tarefas recorrentes, reduza erros e ganhe mais tempo para conversas de vendas, independentemente de utilizar um modelo de proposta para pequenos empresários ou modelos de propostas profissionais para negócios B2B complexos. O modelo de redação de propostas pode ser combinado com fluxos de trabalho de IA para gerar automaticamente propostas qualificadas a partir de consultas.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que aceleram a criação e gestão das suas propostas. Automatize tarefas recorrentes, reduza erros e ganhe mais tempo para conversas de vendas, independentemente de utilizar um modelo de proposta para pequenos empresários ou modelos de propostas profissionais para negócios B2B complexos. O modelo de redação de propostas pode ser combinado com fluxos de trabalho de IA para gerar automaticamente propostas qualificadas a partir de consultas.'
       items:
       - headline: 'Blocos de texto automáticos com Classify'
         text: 'Classifique automaticamente as solicitações de orçamento. A função de IA "Classify" reconhece categorias de produtos, setores ou regiões e adiciona blocos de texto adequados, bem como responsabilidades.'

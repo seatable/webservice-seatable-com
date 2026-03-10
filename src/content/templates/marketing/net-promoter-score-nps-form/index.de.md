@@ -122,7 +122,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Feedback-Analyse mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre NPS-Umfragen und Feedback-Analysen auf ein neues Level heben. Automatisieren Sie Auswertungen und gewinnen Sie tiefere Einblicke in Kundenmeinungen.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre NPS-Umfragen und Feedback-Analysen auf ein neues Level heben. Automatisieren Sie Auswertungen und gewinnen Sie tiefere Einblicke in Kundenmeinungen.'
       items:
       - headline: 'Automatische Sentiment-Analyse mit Classify'
         text: 'Lassen Sie Freitextkommentare automatisch nach Stimmung klassifizieren: Die KI-Funktion „Classify" bewertet Kundenfeedback als „Positiv", „Neutral" oder „Negativ" und erkennt emotionale Tonalität – perfekt für schnelle Einschätzungen großer Feedback-Mengen ohne manuelles Lesen jeder Antwort.'

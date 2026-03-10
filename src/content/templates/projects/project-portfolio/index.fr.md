@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: "Outil de gestion de portefeuille de projets assisté par l'intelligence artificielle"
       subtitle: 'Automatisation intelligente dans le portefeuille'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent votre outil de gestion de portefeuille de projets à un niveau supérieur. Automatisez les tâches récurrentes dans la gestion de portefeuille de projets, réduisez les activités manuelles de routine et gagnez du temps pour l analyse, la coordination et la prise de décisions éclairées sur les priorités et les ressources.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre outil de gestion de portefeuille de projets à un niveau supérieur. Automatisez les tâches récurrentes dans la gestion de portefeuille de projets, réduisez les activités manuelles de routine et gagnez du temps pour l analyse, la coordination et la prise de décisions éclairées sur les priorités et les ressources.'
       items:
       - headline: 'Classification avec Classify'
         text: "Classify classe automatiquement les nouvelles idées de projet dans les catégories, domaines ou programmes appropriés en fonction de leur titre et de leur description. Dans votre modèle de portefeuille de projets, les nouvelles entrées sont ainsi directement placées dans la structure adéquate et vous pouvez voir d'un seul coup d'œil dans quels domaines les projets et les efforts se concentrent."

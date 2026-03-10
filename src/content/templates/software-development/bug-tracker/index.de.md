@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Bug Tracking System'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihr Bug Tracker System auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Bugtracking, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Priorisierung, Qualitätssicherung sowie eine fundierte Release-Planung mit klaren Entscheidungsgrundlagen.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr Bug Tracker System auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Bugtracking, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Priorisierung, Qualitätssicherung sowie eine fundierte Release-Planung mit klaren Entscheidungsgrundlagen.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Die KI-Funktion „Classify“ ordnet neue Issues anhand von Titel und Beschreibung passenden Kategorien oder Komponenten zu. So landen Bugs direkt in der richtigen Spalte und Teams erkennen Schwerpunkte in bestimmten Modulen deutlich schneller.'

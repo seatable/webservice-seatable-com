@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Inventarverwaltung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Inventarverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Inventarverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
       items:
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie neue Assets automatisch kategorisieren: Die KI-Funktion „Classify" erkennt anhand von Beschreibungen, Herstellern oder Produktnamen die passende Kategorie und ordnet Gegenstände selbstständig der richtigen Klasse zu – perfekt für schnelle und fehlerfreie Bestandserfassung.'

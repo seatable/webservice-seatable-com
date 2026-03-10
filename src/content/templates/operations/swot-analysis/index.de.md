@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Strategieentwicklung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre SWOT-Analyse auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit bei der Strategieentwicklung.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre SWOT-Analyse auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit bei der Strategieentwicklung.'
       items:
       - headline: 'Mehrsprachige SWOT-Analysen'
         text: 'Übersetzen Sie SWOT-Faktoren automatisch in andere Sprachen mit einem Custom Prompt – ideal für internationale Teams oder globale Strategieworkshops. Jedes Teammitglied arbeitet in seiner Sprache, die KI konsolidiert die Ergebnisse zentral in einer gemeinsamen Analyse.'

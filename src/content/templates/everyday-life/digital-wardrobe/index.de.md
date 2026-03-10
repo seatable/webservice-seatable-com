@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'Ihr digitaler Kleiderschrank mit KI-Funktionen'
       subtitle: 'Smarter Alltagshelfer'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "pages/ai-automations" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
         text: 'Erfassen Sie Notizen zu Anlass, Stimmung und Tragekomfort und generieren Sie automatisch eine kurze Style-Headline zu jedem Outfit. In der Kalender-Ansicht haben Sie dann einen prägnanten Überblick über den Look, ohne den kompletten Datensatz lesen zu müssen.'

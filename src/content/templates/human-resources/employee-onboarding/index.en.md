@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-supported onboarding plan template'
       subtitle: 'Smart automation in onboarding'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your onboarding plan template to the next level. Automate recurring steps in the onboarding process, reduce manual routine tasks, and free up time for feedback, support, and personal conversations with new employees.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your onboarding plan template to the next level. Automate recurring steps in the onboarding process, reduce manual routine tasks, and free up time for feedback, support, and personal conversations with new employees.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new positions or employees to the most suitable onboarding package based on role type, location, department, or seniority level. Each new case is instantly added to your onboarding plan template with a matching checklist, so HR no longer needs to compile all tasks manually and can focus on strategic work.'

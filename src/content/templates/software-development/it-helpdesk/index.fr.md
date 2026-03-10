@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Système de tickets de helpdesk basé sur IA'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent votre système de tickets informatiques à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les tâches manuelles routinières et gagnez du temps pour les analyses, les améliorations des services et les décisions stratégiques dans le domaine informatique.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre système de tickets informatiques à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les tâches manuelles routinières et gagnez du temps pour les analyses, les améliorations des services et les décisions stratégiques dans le domaine informatique.'
       items:
       - headline: 'Classification avec Classify'
         text: "Classify attribue automatiquement les nouvelles demandes d'assistance aux catégories de service, priorités ou équipes appropriées en fonction de l'objet et de la description. Les nouveaux tickets sont ainsi directement placés dans le bon contexte, ce qui réduit les délais de traitement et améliore la qualité de l'assistance."

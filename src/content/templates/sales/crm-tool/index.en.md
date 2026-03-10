@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'AI-powered CRM solution from SeaTable'
       subtitle: 'Smart automation with integrated AI'
-      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) that help you get the most out of your customer data. Automate tasks and save time!
+      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "pages/ai-automations" >}}) that help you get the most out of your customer data. Automate tasks and save time!
      
       items:
       - headline: 'Classification with Classify'

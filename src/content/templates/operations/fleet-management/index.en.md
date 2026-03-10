@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'AI-supported fleet management'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your fleet management to a whole new level. Automate recurring tasks in everyday fleet operations, reduce manual routine work, and free up time for evaluations, optimization, and strategic decisions in fleet management.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your fleet management to a whole new level. Automate recurring tasks in everyday fleet operations, reduce manual routine work, and free up time for evaluations, optimization, and strategic decisions in fleet management.'
       items:
       - headline: 'Classification with Classify'
         text: 'With Classify, you can automatically assign new vehicles or booking requests by type, area of use, or location. This ensures that data records end up in the right category and you can immediately see which parts of your fleet are being used particularly heavily.'

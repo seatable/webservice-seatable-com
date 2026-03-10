@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Plantillas de planes estructurales de proyectos basadas en IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevan sus plantillas de plan de estructura del proyecto a un nuevo nivel. Automatice las tareas recurrentes en la planificación de proyectos, reduzca el trabajo rutinario manual y gane tiempo para el análisis, la coordinación y la toma de decisiones fundamentadas sobre prioridades y recursos.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que elevan sus plantillas de plan de estructura del proyecto a un nuevo nivel. Automatice las tareas recurrentes en la planificación de proyectos, reduzca el trabajo rutinario manual y gane tiempo para el análisis, la coordinación y la toma de decisiones fundamentadas sobre prioridades y recursos.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Classify asigna automáticamente las nuevas tareas a las fases o paquetes de trabajo adecuados en función del título y la descripción. De este modo, las nuevas entradas se colocan directamente en la estructura correcta de su plantilla de plan de estructura del proyecto y usted puede ver de un vistazo en qué áreas se concentra el trabajo.'
