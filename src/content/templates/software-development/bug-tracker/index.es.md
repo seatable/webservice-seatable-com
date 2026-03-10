@@ -24,7 +24,7 @@ sections:
       template: '51d678ca8b004e9b9b79'
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Sistema de seguimiento de errores basado en IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán su sistema de seguimiento de errores a un nuevo nivel. Automatice las tareas recurrentes en el seguimiento de errores, reduzca el trabajo manual rutinario y gane tiempo para el análisis, la priorización, el control de calidad y una planificación de lanzamientos bien fundamentada con bases claras para la toma de decisiones.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su sistema de seguimiento de errores a un nuevo nivel. Automatice las tareas recurrentes en el seguimiento de errores, reduzca el trabajo manual rutinario y gane tiempo para el análisis, la priorización, el control de calidad y una planificación de lanzamientos bien fundamentada con bases claras para la toma de decisiones.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'La función de IA «Classify» clasifica los nuevos problemas en categorías o componentes adecuados según su título y descripción. De este modo, los errores se asignan directamente a la columna correcta y los equipos identifican mucho más rápidamente los puntos críticos en determinados módulos.'

@@ -23,7 +23,7 @@ sections:
       template: '1acd19d97c8f4ed3ad38'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Projektportfolio Tool'
       subtitle: 'Smarte Automatisierung im Portfolio'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihr Projektportfolio Tool auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Projektportfoliomanagement, reduzieren Sie manuelle Routinetätigkeiten und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr Projektportfolio Tool auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Projektportfoliomanagement, reduzieren Sie manuelle Routinetätigkeiten und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Projektideen basierend auf Titel und Beschreibung automatisch passenden Kategorien, Bereichen oder Programmen zu. In Ihrer Projektportfolio Vorlage landen neue Einträge so direkt in der richtigen Struktur und Sie sehen auf einen Blick, in welchen Bereichen sich Projekte und Aufwand verdichten.'

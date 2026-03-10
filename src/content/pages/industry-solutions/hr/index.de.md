@@ -104,7 +104,7 @@ sections:
       subtitle: Vorteile für Ihre HR Prozesse in der Übersicht
       items:
       - headline: "KI-basiertes Bewerbermanagement"
-        text: Ein leistungsstarkes Tool, das den gesamten [Rekrutierungsprozess]({{< relref "posts/20250317-recruiting" >}}) automatisiert. Nutzen Sie unsere [integrierte KI]({{< relref "posts/ai-powered-automations" >}}), um Bewerbungen vorzusortieren, Termine automatisch zu koordinieren und so die **Candidate Experience signifikant zu verbessern**.
+        text: Ein leistungsstarkes Tool, das den gesamten [Rekrutierungsprozess]({{< relref "posts/20250317-recruiting" >}}) automatisiert. Nutzen Sie unsere [integrierte KI]({{< relref "pages/ai-automations" >}}), um Bewerbungen vorzusortieren, Termine automatisch zu koordinieren und so die **Candidate Experience signifikant zu verbessern**.
         image: /images/Landing-Page_HR_Bewerbermanagement.png
         image_alt: 'SeaTable Ansicht für KI-automatisiertes Bewerbermanagement im Recruiting'
 

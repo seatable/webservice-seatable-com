@@ -24,7 +24,7 @@ sections:
       template: '14498b7d75cd47ab934c'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -133,7 +133,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Fahrtenverwaltung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihre Fahrtenverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.DSGVO-konform'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Fahrtenverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.DSGVO-konform'
       items:
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie Fahrtangaben automatisch klassifizieren: Die KI erkennt anhand von Zieltexten oder Notizen den Fahrzweck (z. B. Geschäftsbesuch, Kundenbesuch, Geschäftsreise) automatisch und ordnet Fahrten der richtigen Kategorie zu. '

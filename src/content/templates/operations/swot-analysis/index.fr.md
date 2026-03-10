@@ -23,7 +23,7 @@ sections:
       template: '13fe52fa8c814d5bbeb7'
       buttons:
           - label: Inscrivez-vous gratuitement dès maintenant et utiliser le modèle.
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Développement de stratégies assisté par IA avec SeaTable'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent votre analyse SWOT à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux dans le développement de votre stratégie.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre analyse SWOT à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux dans le développement de votre stratégie.'
       items:
       - headline: 'Analyses SWOT multilingues'
         text: "Traduisez automatiquement les facteurs SWOT dans d'autres langues à l'aide d'une invite personnalisée, ce qui est idéal pour les équipes internationales ou les ateliers stratégiques mondiaux. Chaque membre de l'équipe travaille dans sa propre langue, tandis que l'IA consolide les résultats de manière centralisée dans une analyse commune."

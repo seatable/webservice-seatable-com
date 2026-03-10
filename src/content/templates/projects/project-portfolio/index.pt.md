@@ -23,7 +23,7 @@ sections:
       template: '1acd19d97c8f4ed3ad38'
       buttons:
           - label: Registe-se gratuitamente agora e utilize o modelo
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Ferramenta de portfólio de projetos baseada em IA'
       subtitle: 'Automação inteligente no portfólio'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam a sua ferramenta de portfólio de projetos a um novo nível. Automatize tarefas recorrentes na gestão do portfólio de projetos, reduza atividades manuais de rotina e ganhe tempo para análise, coordenação e decisões fundamentadas sobre prioridades e recursos.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades IA]({{< relref "pages/ai-automations" >}}), que elevam a sua ferramenta de portfólio de projetos a um novo nível. Automatize tarefas recorrentes na gestão do portfólio de projetos, reduza atividades manuais de rotina e ganhe tempo para análise, coordenação e decisões fundamentadas sobre prioridades e recursos.'
       items:
       - headline: 'Classificação com Classify'
         text: 'O Classify classifica automaticamente novas ideias de projetos com base no título e na descrição em categorias, áreas ou programas adequados. No seu modelo de portfólio de projetos, as novas entradas são colocadas diretamente na estrutura correta e pode ver rapidamente em que áreas os projetos e o esforço se concentram.'

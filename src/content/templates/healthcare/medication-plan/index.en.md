@@ -21,7 +21,7 @@ sections:
       template: 96cfeafc49e94907bc36
       buttons:
           - label: Register now for free and use the template
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'AI-supported medication plan with SeaTable'
       subtitle: 'Smart support in everyday life'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that make your medication plan even safer and clearer. Analyze texts, evaluate documents, and reduce manual work—all in compliance with GDPR on German servers.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that make your medication plan even safer and clearer. Analyze texts, evaluate documents, and reduce manual work—all in compliance with GDPR on German servers.'
       items:
       - headline: 'Automatic classification with Classify'
         text: 'Automatically categorize medications into meaningful groups—such as by active ingredient class, time of administration, or area of application. The AI function "Classify" helps you to clearly structure complex medication plans and avoid errors.'

@@ -23,7 +23,7 @@ sections:
       template: '14498b7d75cd47ab934c'
       buttons:
           - label: Register now for free and use the template
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'AI-supported trip management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your trip management to a whole new level. Automate recurring tasks and save valuable time. GDPR-compliant'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your trip management to a whole new level. Automate recurring tasks and save valuable time. GDPR-compliant'
       items:
       - headline: 'Automatic classification with Classify'
         text: 'Have your trip details classified automatically: AI automatically recognizes the purpose of the trip (e.g., business visit, customer visit, business trip) based on destination texts or notes and assigns trips to the correct category. '

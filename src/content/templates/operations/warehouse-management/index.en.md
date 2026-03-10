@@ -21,7 +21,7 @@ sections:
       template: ab96101c9e5b4470a2d2
       buttons:
           - label: Register now for free and use the template
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'AI-supported warehouse management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your warehouse management to a new level. Automate recurring tasks, reduce errors, and make better decisions based on your inventory data.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your warehouse management to a new level. Automate recurring tasks, reduce errors, and make better decisions based on your inventory data.'
       items:
       - headline: 'Automatic article classification with Classify'
         text: 'Have new items categorized automatically: The AI function "Classify" recognizes the appropriate category based on product names, descriptions, or supplier assignments and assigns your items independently—ideal for rapidly growing product ranges.'

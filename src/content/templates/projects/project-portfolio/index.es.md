@@ -23,7 +23,7 @@ sections:
       template: '1acd19d97c8f4ed3ad38'
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Herramienta de cartera de proyectos basada en IA'
       subtitle: 'Automatización inteligente en la cartera'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán su herramienta de gestión de carteras de proyectos a un nuevo nivel. Automatice las tareas recurrentes en la gestión de carteras de proyectos, reduzca las actividades rutinarias manuales y gane tiempo para el análisis, la coordinación y la toma de decisiones fundamentadas sobre prioridades y recursos.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su herramienta de gestión de carteras de proyectos a un nuevo nivel. Automatice las tareas recurrentes en la gestión de carteras de proyectos, reduzca las actividades rutinarias manuales y gane tiempo para el análisis, la coordinación y la toma de decisiones fundamentadas sobre prioridades y recursos.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Classify asigna automáticamente las nuevas ideas de proyectos a las categorías, áreas o programas adecuados en función del título y la descripción. De este modo, las nuevas entradas se colocan directamente en la estructura correcta de su plantilla de cartera de proyectos y usted puede ver de un vistazo en qué áreas se concentran los proyectos y el esfuerzo.'

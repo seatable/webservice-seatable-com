@@ -24,7 +24,7 @@ sections:
       template: '898485ee9b7949c5b987'
       buttons:
           - label: Registe-se gratuitamente agora e utilize o modelo
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Modelos de plano de estrutura do projeto baseados em IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam os seus modelos de plano estrutural do projeto a um novo nível. Automatize tarefas recorrentes no planeamento do projeto, reduza o trabalho manual rotineiro e ganhe tempo para análise, coordenação e decisões fundamentadas sobre prioridades e recursos.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam os seus modelos de plano estrutural do projeto a um novo nível. Automatize tarefas recorrentes no planeamento do projeto, reduza o trabalho manual rotineiro e ganhe tempo para análise, coordenação e decisões fundamentadas sobre prioridades e recursos.'
       items:
       - headline: 'Classificação com Classify'
         text: 'O Classify atribui automaticamente novas tarefas a fases ou pacotes de trabalho adequados com base no título e na descrição. No seu modelo de estrutura do plano do projeto, as novas entradas são colocadas diretamente na estrutura correta e pode ver rapidamente em que áreas o trabalho está a concentrar-se.'

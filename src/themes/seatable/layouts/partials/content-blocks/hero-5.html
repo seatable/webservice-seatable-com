@@ -10,7 +10,9 @@
   text: 
   buttons:
   - label:
-    link:
+    link:                  # either link (relref)
+    link_to_template: true # or link_to_template (uses template value)
+    style:
   template:</code></pre>
     </div>
 {{ end }}
@@ -34,8 +36,13 @@
 
         {{ if .buttons }}
             <div class="mx-auto my-16 flex justify-center gap-4">
-                {{ range .buttons }}
-                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ range $.buttons }}
+                    {{ if .link_to_template }}
+                        {{ $btn := merge . (dict "link" (printf "https://cloud.seatable.io/copy-template/?template_link_token=%s" $.template)) }}
+                        {{ partial "content-blocks/helpers/button.html" $btn }}
+                    {{ else }}
+                        {{ partial "content-blocks/helpers/button.html" . }}
+                    {{ end }}
                 {{ end }}
             </div>
         {{ end }}

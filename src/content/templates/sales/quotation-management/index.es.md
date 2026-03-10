@@ -24,7 +24,7 @@ sections:
       template: '584c3121cf4a4ffd86e5'
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Elaboración de ofertas asistida por IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que aceleran la creación y gestión de sus ofertas. Automatice las tareas recurrentes, reduzca los errores y gane más tiempo para las conversaciones de ventas, independientemente de si utiliza una plantilla de oferta para pequeñas empresas o plantillas de oferta profesionales para acuerdos B2B complejos. La plantilla para redactar ofertas se puede combinar con flujos de trabajo de IA para generar automáticamente ofertas cualificadas a partir de solicitudes.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que aceleran la creación y gestión de sus ofertas. Automatice las tareas recurrentes, reduzca los errores y gane más tiempo para las conversaciones de ventas, independientemente de si utiliza una plantilla de oferta para pequeñas empresas o plantillas de oferta profesionales para acuerdos B2B complejos. La plantilla para redactar ofertas se puede combinar con flujos de trabajo de IA para generar automáticamente ofertas cualificadas a partir de solicitudes.'
       items:
       - headline: 'Bloques de texto automáticos con Classify'
         text: 'Clasifique automáticamente las solicitudes de presupuesto. La función de IA «Classify» reconoce categorías de productos, sectores o regiones y añade los módulos de texto y las responsabilidades adecuados.'

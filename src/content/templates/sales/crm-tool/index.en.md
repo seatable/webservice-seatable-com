@@ -24,7 +24,7 @@ sections:
       template: '80356f5aa87e4a879b52'
       buttons:
           - label: Register now for free and use the template
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'AI-powered CRM solution from SeaTable'
       subtitle: 'Smart automation with integrated AI'
-      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) that help you get the most out of your customer data. Automate tasks and save time!
+      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "pages/ai-automations" >}}) that help you get the most out of your customer data. Automate tasks and save time!
      
       items:
       - headline: 'Classification with Classify'

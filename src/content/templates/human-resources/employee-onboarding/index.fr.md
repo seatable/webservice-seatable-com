@@ -23,7 +23,7 @@ sections:
       template: '89db2f0bd28d41f19c01'
       buttons:
           - label: Inscrivez-vous gratuitement dès maintenant et utilisez le modèle.
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: "Modèle de plan de formation assisté par l'IA"
       subtitle: "Automatisation intelligente dans l'intégration"
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})qui élèvent votre modèle de plan d intégration à un niveau supérieur. Automatisez les étapes récurrentes de l intégration, réduisez les tâches manuelles routinières et gagnez du temps pour les commentaires, l accompagnement et les entretiens individuels avec les nouveaux collaborateurs.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}) qui élèvent votre modèle de plan d intégration à un niveau supérieur. Automatisez les étapes récurrentes de l intégration, réduisez les tâches manuelles routinières et gagnez du temps pour les commentaires, l accompagnement et les entretiens individuels avec les nouveaux collaborateurs.'
       items:
       - headline: 'Classification avec Classify'
         text: "Classify attribue automatiquement les nouveaux postes ou collaborateurs au programme d’intégration le plus adapté en fonction du type de rôle. Chaque nouveau cas est automatiquement ajouté à votre modèle de plan d’intégration avec une checklist d’intégration détaillée et adaptée, ce qui évite aux équipes RH de devoir compiler manuellement toutes les tâches d’onboarding et réduit considérablement le travail administratif."

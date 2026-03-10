@@ -21,7 +21,7 @@ sections:
       template: 96cfeafc49e94907bc36
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'KI-gestützter Medikamentenplan mit SeaTable'
       subtitle: 'Smarte Unterstützung im Alltag'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), die Ihren Medikamentenplan noch sicherer und übersichtlicher machen. Analysieren Sie Texte, werten Sie Dokumente aus und reduzieren Sie manuelle Arbeit – DSGVO-konform auf deutschen Servern.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihren Medikamentenplan noch sicherer und übersichtlicher machen. Analysieren Sie Texte, werten Sie Dokumente aus und reduzieren Sie manuelle Arbeit – DSGVO-konform auf deutschen Servern.'
       items:
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie Medikamente automatisch in sinnvolle Gruppen einordnen – etwa nach Wirkstoffklasse, Einnahmezeit oder Anwendungsgebiet. Die KI-Funktion „Classify“ unterstützt Sie dabei, komplexe Medikationspläne übersichtlich zu strukturieren und Fehler zu vermeiden.'

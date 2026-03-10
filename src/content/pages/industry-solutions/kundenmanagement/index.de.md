@@ -54,7 +54,7 @@ sections:
         image_alt: 'SeaTable Sales-Pipeline zur Visualisierung von Leads und Angeboten in Kanban mit KI-Unterstützung'
 
       - headline: Automatisierungen und KI für mehr Zeit und Transparenz
-        text: Mit SeaTables integrierten Automatisierungen können Sie einfache Benachrichtigungen einrichten und komplexe [KI-unterstützte Workflows]({{< relref "posts/ai-powered-automations" >}}) erstellen. **E-Mails können direkt aus SeaTable verschickt** und bei Bedarf von der KI vorformuliert oder analysiert werden – für ein effizienteres Aufgabenmanagement.
+        text: Mit SeaTables integrierten Automatisierungen können Sie einfache Benachrichtigungen einrichten und komplexe [KI-unterstützte Workflows]({{< relref "pages/ai-automations" >}}) erstellen. **E-Mails können direkt aus SeaTable verschickt** und bei Bedarf von der KI vorformuliert oder analysiert werden – für ein effizienteres Aufgabenmanagement.
         image: /images/landing-page-kundenmanagement-automatisierung.jpg
         image_alt: 'SeaTable Automatisierungen und KI-Schritte für CRM-Workflows mit Benachrichtigungen und Aufgaben' 
     

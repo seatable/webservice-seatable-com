@@ -24,7 +24,7 @@ sections:
       template: '13fe52fa8c814d5bbeb7'
       buttons:
           - label: Regístrese ahora gratis y utilice la plantilla
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Desarrollo de estrategias basadas en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que llevarán su análisis DAFO a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso en el desarrollo de estrategias.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su análisis DAFO a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso en el desarrollo de estrategias.'
       items:
       - headline: 'Análisis DAFO multilingües'
         text: 'Traduzca automáticamente los factores SWOT a otros idiomas con un mensaje personalizado, ideal para equipos internacionales o talleres de estrategia global. Cada miembro del equipo trabaja en su propio idioma y la IA consolida los resultados de forma centralizada en un análisis conjunto.'

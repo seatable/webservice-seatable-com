@@ -24,7 +24,7 @@ sections:
       template: '89db2f0bd28d41f19c01'
       buttons:
           - label: Registe-se gratuitamente agora e utilize o modelo
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Modelo de plano de integração baseado em IA'
       subtitle: 'Automação inteligente na integração'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que elevam o seu modelo de plano de integração a um novo nível. Automatize etapas recorrentes na integração, reduza tarefas manuais rotineiras e ganhe tempo para feedback, acompanhamento e conversas pessoais com novos funcionários.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam o seu modelo de plano de integração a um novo nível. Automatize etapas recorrentes na integração, reduza tarefas manuais rotineiras e ganhe tempo para feedback, acompanhamento e conversas pessoais com novos funcionários.'
       items:
       - headline: 'Classificação com Classify'
         text: 'O Classify atribui automaticamente novos cargos ou funcionários a pacotes de integração adequados com base no tipo de função, localização ou departamento. No seu modelo de plano de integração, cada novo caso recebe uma lista de verificação de integração adequada, sem que o RH precise compilar manualmente todas as tarefas e pode concentrar-se em trabalho estratégico.'

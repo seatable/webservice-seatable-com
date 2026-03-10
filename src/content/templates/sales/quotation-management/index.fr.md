@@ -24,7 +24,7 @@ sections:
       template: '584c3121cf4a4ffd86e5'
       buttons:
           - label: Veuillez vous inscrire gratuitement dès maintenant et utiliser le modèle.
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: "Création d'offres assistée par IA avec SeaTable"
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui accélèrent la création et la gestion de vos devis. Automatisez les tâches récurrentes, réduisez les erreurs et gagnez du temps pour les entretiens commerciaux, que vous utilisiez un modèle de devis pour petite entreprise ou des modèles de devis professionnels pour des transactions B2B complexes. Le modèle de rédaction de devis peut être combiné avec des flux de travail IA afin de générer automatiquement des devis qualifiés à partir des demandes.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui accélèrent la création et la gestion de vos devis. Automatisez les tâches récurrentes, réduisez les erreurs et gagnez du temps pour les entretiens commerciaux, que vous utilisiez un modèle de devis pour petite entreprise ou des modèles de devis professionnels pour des transactions B2B complexes. Le modèle de rédaction de devis peut être combiné avec des flux de travail IA afin de générer automatiquement des devis qualifiés à partir des demandes.'
       items:
       - headline: 'Modules de texte automatiques avec Classify'
         text: "Permettez la classification automatique des demandes de devis. La fonction d'intelligence artificielle « Classify » identifie les catégories de produits, les secteurs d'activité ou les régions et ajoute les modules de texte et les responsabilités appropriés."

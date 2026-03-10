@@ -24,7 +24,7 @@ sections:
       template: '14498b7d75cd47ab934c'
       buttons:
           - label: Inscrivez-vous gratuitement et utiliser le modèle
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -133,7 +133,7 @@ sections:
       weight: 16
       title: 'Gestion des trajets assistée par IA avec SeaTable'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), qui élèvent la gestion de vos déplacements à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux. Conforme au RGPD.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent la gestion de vos déplacements à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux. Conforme au RGPD.'
       items:
       - headline: 'Classification automatique avec Classify'
         text: "Laissez les données de trajet être classées automatiquement : l'IA identifie automatiquement le motif du trajet (par exemple, visite professionnelle, visite client, voyage d'affaires) à partir des textes de destination ou des notes et attribue les trajets à la bonne catégorie."

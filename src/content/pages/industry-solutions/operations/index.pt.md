@@ -62,7 +62,7 @@ sections:
         - bg-white
       title: Ferramenta de gestão de processos para todas as dimensões de equipas
       subtitle: Gerir equipas de operações
-      description: A [solução SeaTable no-code de IA]({{< relref "/" >}}) combina a facilidade de utilização de uma folha de cálculo com o poder de uma base de dados, [funcionalidades modernas de IA]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}) e automatizações, bem como um criador de aplicações flexível sem código.
+      description: A [solução SeaTable no-code de IA]({{< relref "/" >}}) combina a facilidade de utilização de uma folha de cálculo com o poder de uma base de dados, [funcionalidades modernas de IA]({{< relref "pages/ai-automations" >}}) e automatizações, bem como um criador de aplicações flexível sem código.
       items:
         - text: "Automatização apoiada por IA **para processos optimizados**"
         - text: "Servidor de IA próprio **para máxima proteção e conformidade dos dados**"
@@ -179,7 +179,7 @@ sections:
           - q: A SeaTable fornece modelos para a minha equipa de operações?
             a: Sim, o SeaTable oferece vários modelos prontos a utilizar para equipas operacionais, por exemplo, para [gestão da cadeia de abastecimento]({{< relref "templates/operations/supply-chain-management" >}}), processo de trabalho de encomendas e atendimento, [inventário]({{< relref "templates/operations/inventory-list" >}}) ou [gestão de frotas]({{< relref "templates/operations/fleet-management" >}}).
           - q: A utilização da IA no SeaTable está em conformidade com o RGPD?  
-            a: 'Certamente, com o SeaTable, não precisa de se preocupar se as suas informações serão utilizadas indevidamente como dados de treino. Hospedamos o SeaTable Cloud e o [nosso próprio modelo de IA]({{< relref "posts/ai-powered-automations" >}}) em servidores europeus certificados na Alemanha. Não há troca de dados com fornecedores externos de IA e os seus dados nunca saem da infraestrutura do SeaTable.'   
+            a: 'Certamente, com o SeaTable, não precisa de se preocupar se as suas informações serão utilizadas indevidamente como dados de treino. Hospedamos o SeaTable Cloud e o [nosso próprio modelo de IA]({{< relref "pages/ai-automations" >}}) em servidores europeus certificados na Alemanha. Não há troca de dados com fornecedores externos de IA e os seus dados nunca saem da infraestrutura do SeaTable.'   
           - q: Como um software de gestão de processos, como é que o SeaTable pode melhorar as operações de negócios?
             a: O software de gestão de processos de negócio SeaTable pode melhorar as suas operações, permitindo aos seus colaboradores gerir e analisar processos e projectos em tempo real, utilizando fluxos de trabalho, formulários e painéis de controlo. O SeaTable é uma ferramenta de gestão de processos flexível e personalizável para a automatização de processos e a otimização de processos empresariais. Isto permite-lhe criar transparência na sua empresa.
           - q: Como ferramenta de gestão de processos, o SeaTable oferece funções de análise?

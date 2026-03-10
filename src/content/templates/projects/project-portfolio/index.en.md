@@ -22,7 +22,7 @@ sections:
       template: '1acd19d97c8f4ed3ad38'
       buttons:
           - label: Register now for free and use the template
-            link: 'pages/registration'
+            link_to_template: true
             style: primary
     
     - name: "content-4"
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-supported project portfolio tool'
       subtitle: 'Smart automation in the portfolio'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), that take your project portfolio tool to a new level. Automate recurring tasks in project portfolio management, reduce manual routine activities, and free up time for analysis, coordination, and informed decisions about priorities and resources.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your project portfolio tool to a new level. Automate recurring tasks in project portfolio management, reduce manual routine activities, and free up time for analysis, coordination, and informed decisions about priorities and resources.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new project ideas to appropriate categories, areas, or programs based on their title and description. In your project portfolio template, new entries are placed directly in the correct structure, allowing you to see at a glance which areas are accumulating projects and effort.'
