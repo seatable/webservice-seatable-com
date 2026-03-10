@@ -54,7 +54,7 @@ sections:
         image_alt: 'SeaTable sales pipeline for visualizing leads and offers in Kanban with AI support'
 
       - headline: Automation and AI for more time and transparency
-        text: With SeaTable's integrated automations, you can set up simple notifications and create complex [AI-powered workflows]({{< relref "posts/ai-powered-automations" >}}). Emails can be sent directly from SeaTable and, if necessary, pre-formulated or analyzed by AI for more efficient task management.
+        text: With SeaTable's integrated automations, you can set up simple notifications and create complex [AI-powered workflows]({{< relref "pages/ai-automations" >}}). Emails can be sent directly from SeaTable and, if necessary, pre-formulated or analyzed by AI for more efficient task management.
         image: /images/landing-page-kundenmanagement-automatisierung.jpg
         image_alt: 'SeaTable automations and AI steps for CRM workflows with notifications and tasks' 
     

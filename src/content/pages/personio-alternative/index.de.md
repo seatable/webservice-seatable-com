@@ -166,7 +166,7 @@ sections:
       items:
       - title: "KI-Automationen für Routineaufgaben"
         subtitle: "Nutzen Sie künstliche Intelligenz"
-        text: 'Mithilfe der [KI-Automationen von SeaTable]({{< relref "posts/ai-powered-automations" >}}) können Sie lästige und eintönige Routineaufgaben reduzieren und große Datenmengen beherrschbar machen. Beispielsweise können Sie **Texte zusammenfassen** (z. B. Bewerbungsschreiben, E-Mails)oder **Informationen aus Dokumenten extrahieren** lassen (z. B. Lebensläufen). Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich stattdessen auf Ihr strategisches Personalmanagement.' 
+        text: 'Mithilfe der [KI-Automationen von SeaTable]({{< relref "pages/ai-automations" >}}) können Sie lästige und eintönige Routineaufgaben reduzieren und große Datenmengen beherrschbar machen. Beispielsweise können Sie **Texte zusammenfassen** (z. B. Bewerbungsschreiben, E-Mails)oder **Informationen aus Dokumenten extrahieren** lassen (z. B. Lebensläufen). Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich stattdessen auf Ihr strategisches Personalmanagement.' 
       
     - name: banner-2
       weight: 15

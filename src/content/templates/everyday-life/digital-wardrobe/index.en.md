@@ -167,6 +167,6 @@ sections:
       - q: "Can I also save photos of outfits and combinations?" 
         a: "Yes, you can save photos, videos, and other files and link them to your saved clothes and outfits." 
       - q: "Is the use of AI in SeaTable GDPR-compliant?"
-        a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and [our own AI model]({{< relref "posts/ai-powered-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.'       
+        a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and [our own AI model]({{< relref "pages/ai-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.'       
 ---
 

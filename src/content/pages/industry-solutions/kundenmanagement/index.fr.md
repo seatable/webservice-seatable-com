@@ -54,7 +54,7 @@ sections:
         image_alt: 'SeaTable Sales Pipeline pour la visualisation des prospects et des offres dans Kanban avec assistance IA'
 
       - headline: Automatisation et intelligence artificielle pour plus de temps et de transparence
-        text: Les automatisations intégrées à SeaTable vous permettent de configurer des notifications simples et de créer des [flux de travail complexes assistés par l'IA]({{< relref "posts/ai-powered-automations" >}}). Les e-mails peuvent être envoyés directement depuis SeaTable et, si nécessaire, pré-rédigés ou analysés par l'IA, pour une gestion plus efficace des tâches.
+        text: Les automatisations intégrées à SeaTable vous permettent de configurer des notifications simples et de créer des [flux de travail complexes assistés par l'IA]({{< relref "pages/ai-automations" >}}). Les e-mails peuvent être envoyés directement depuis SeaTable et, si nécessaire, pré-rédigés ou analysés par l'IA, pour une gestion plus efficace des tâches.
         image: /images/landing-page-kundenmanagement-automatisierung.jpg
         image_alt: Automatisations SeaTable et étapes d'IA pour les flux de travail CRM avec notifications et tâches 
     

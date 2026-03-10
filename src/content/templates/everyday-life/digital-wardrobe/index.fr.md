@@ -167,6 +167,6 @@ sections:
       - q: Puis-je également enregistrer des photos de tenues et d'associations ? 
         a: Oui, vous pouvez enregistrer des photos, des vidéos et d'autres fichiers, puis les associer aux vêtements et tenues que vous avez enregistrés. 
       - q: L'utilisation de l'IA dans SeaTable est-elle conforme au RGPD ?
-        a: Absolument, avec SeaTable, vous n'avez pas à vous inquiéter que vos informations soient utilisées à mauvais escient comme données d'entraînement. Nous hébergeons SeaTable Cloud et [notre propre modèle d'IA]({{< relref "posts/ai-powered-automations" >}}) sur des serveurs européens certifiés en Allemagne. Il n'y a aucun échange de données avec des fournisseurs d'IA externes, et vos données ne quittent jamais l'infrastructure SeaTable.'       
+        a: Absolument, avec SeaTable, vous n'avez pas à vous inquiéter que vos informations soient utilisées à mauvais escient comme données d'entraînement. Nous hébergeons SeaTable Cloud et [notre propre modèle d'IA]({{< relref "pages/ai-automations" >}}) sur des serveurs européens certifiés en Allemagne. Il n'y a aucun échange de données avec des fournisseurs d'IA externes, et vos données ne quittent jamais l'infrastructure SeaTable.'       
 ---
 
