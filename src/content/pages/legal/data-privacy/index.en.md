@@ -293,7 +293,37 @@ We make great efforts to operate as many software solutions as possible ourselve
 
 {{< /legal-2col >}}
 
-## 5. Analytics Tools
+## 5. Third-Party Integrations & API Access
+
+{{< legal-2col >}}
+
+SeaTable offers APIs and integration protocols (such as MCP) that allow authorized third-party applications — including AI-powered services and assistants — to access and interact with your data on your behalf.
+
+**User-initiated activation**
+Any data transfer to third-party services occurs only upon your explicit action — for example, by activating an integration, entering your own API key, or enabling a specific feature. SeaTable does not transmit data to external services without your prior consent.
+
+**Authentication**
+All access requires prior authentication via API token or equivalent credentials. Third-party applications can only access data within the bases explicitly authorized by the user.
+
+**Categories of data that may be processed:**
+
+- **User Content:** Any data stored in your bases, including row values, table structures, and file attachments, as created and managed by you.
+- **Collaborator Information:** Display names and email addresses of users who have access to a shared base, as needed for collaboration features.
+- **Technical Metadata:** Table and column definitions, base identifiers, and system-generated row identifiers required for data operations.
+
+SeaTable does not control how third-party applications process data retrieved through these interfaces. In particular, AI-based services may use transmitted data to generate responses, improve their models, or for other purposes as described in their own terms and privacy policies. SeaTable has no influence over such processing. Please refer to the respective third party's privacy policy for details on their data handling practices.
+
+===
+
+SeaTable provides APIs and protocols (e.g. MCP) so that external apps — including AI-powered services — can work with your data, but only if you explicitly authorize them (e.g. by activating an integration or entering your own API key).
+
+These apps may access your base content, collaborator names/emails, and technical metadata like table and column structures. AI-based services may additionally use your data to generate responses or improve their models.
+
+We have no control over what third-party apps do with your data once they've retrieved it. Check their privacy policies for details.
+
+{{< /legal-2col >}}
+
+## 6. Analytics Tools
 
 {{< legal-2col >}}
 
@@ -318,7 +348,7 @@ Posthog is operated on our own server, works in a data-minimizing mode, and pseu
 
 {{< /legal-2col >}}
 
-## 6. Newsletter
+## 7. Newsletter
 
 {{< legal-2col >}}
 
@@ -365,7 +395,7 @@ We send our newsletters via Brevo. Brevo is based in Germany.
 
 {{< /legal-2col >}}
 
-## 7. Plugins and Tools
+## 8. Plugins and Tools
 
 {{< legal-2col >}}
 
@@ -411,7 +441,7 @@ We use the ticket system Zammad to answer inquiries quickly and transparently. W
 
 {{< /legal-2col >}}
 
-## 8. eCommerce and Payment Providers
+## 9. eCommerce and Payment Providers
 
 {{< legal-2col >}}
 
@@ -457,7 +487,7 @@ We do not process credit card data ourselves but use the payment service provide
 
 {{< /legal-2col >}}
 
-## 9. Audio and Video Conferences
+## 10. Audio and Video Conferences
 
 {{< legal-2col >}}
 
