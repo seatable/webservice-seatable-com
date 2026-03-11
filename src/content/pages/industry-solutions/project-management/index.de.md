@@ -31,7 +31,7 @@ sections:
       items:
       - icon: edit
         headline: Flexibel und intuitiv
-        text: "SeaTable bietet eine intuitive Oberfläche, leicht nutzbare Vorlagen und sofortige Zugänglichkeit. Entwickeln Sie maßgeschneiderte Lösungen entwickeln, die sich genau Ihren Bedürfnissen anpassen."
+        text: "SeaTable bietet eine intuitive Oberfläche, leicht nutzbare Vorlagen und sofortige Zugänglichkeit. Entwickeln Sie maßgeschneiderte Lösungen, die sich genau Ihren Bedürfnissen anpassen."
       - icon: table
         headline: Kanban, Gantt und mehr
         text: "Erfassen Sie alle Daten in übersichtlich strukturieren Tabellen und erzeugen Sie mit wenigen Klicks anschauliche, individuell anpasbare Gantt-Diagramme, Kanban Boards, Projektstrukturpläne oder Dashboards."
@@ -168,7 +168,7 @@ sections:
     - name: "content-21"
       weight: 30
       title: Wechseln Sie jetzt zu SeaTable – so leicht geht’s!
-      subtitle: Ihr neues Projektmanagement Programm
+      subtitle: Ihr neues Projektmanagement Programm 
       items:
       - headline: Einfacher Umstieg
         text: "Der Wechsel zu SeaTable ist kinderleicht: Registrieren Sie sich einfach mit Ihrer E-Mail-Adresse und legen Sie direkt los – ohne Kreditkarte, ohne versteckte Kosten! SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen."
