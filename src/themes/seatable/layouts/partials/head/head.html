@@ -116,6 +116,13 @@
         {{ partial "structured-data/faq.html" . }}
     {{- end }}
 
+    {{- range .Params.sections }}
+        {{- if eq .name "faq" }}
+            {{/* Generate an FAQPage entry per faq section */}}
+            {{ partial "structured-data/faq-section.html" . }}
+        {{- end }}
+    {{- end }}
+
 
     <!-- other css and html -->
     {{- partial "head/css.html" . -}}
