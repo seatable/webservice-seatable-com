@@ -3,7 +3,7 @@ title: 'Gestión de servicios de TI con SeaTable: eficaz y flexible'
 description: ''
 seo:
     title: 'Gestión de servicios de TI - flexibel & skalierbar | SeaTable'
-    description: 'Optimice su gestión de servicios de TI con SeaTable: Plataforma sin código para flujos de trabajo flexibles, automatización y procesos ITSM conformes con la GDPR.'
+    description: 'Optimice su gestión de servicios de TI con SeaTable: Plataforma no-code para flujos de trabajo flexibles, automatización y procesos ITSM conformes con la GDPR.'
 date: '2025-04-03'
 url: '/es/gestion-servicios-ti'
 aliases:
@@ -13,207 +13,209 @@ aliases:
 sections:
     - name: hero-5
       weight: 1
-      subtitle: La solución No-Code para su organización de TI
-      title: IT Service Management con SeaTable
-      text: En un mundo cada vez más digitalizado, un IT Service Management (ITSM) eficiente y flexible es esencial. ¡Aproveche ahora todo el poder de la Inteligencia Artificial directamente en sus tablas para diseñar procesos ITSM más inteligentes y seguros, sin comprometer el cumplimiento ni la innovación!
+      subtitle: La solución no-code para su organización de TI
+      title: Gestión moderna de servicios informáticos con SeaTable
+      text: "Infraestructuras informáticas en crecimiento y requisitos de cumplimiento y seguridad cada vez más estrictos: los equipos informáticos se enfrentan a diario a retos que llevan al límite las herramientas clásicas de gestión de servicios informáticos. Con SeaTable, puede diseñar sus procesos de ITSM exactamente como los necesita: **flexibles y seguros, sin comprometer el cumplimiento y la innovación**."
       classes:
           - bg-gray-200
       template: 51d678ca8b004e9b9b79
       buttons:
-          - label: Empezar ahora
+          - label: Empiecen ahora mismo
             link: pages/registration
             style: primary
-          - label: Conocer funciones
+          - label: Conocer las funciones
             link: pages/functions
 
-    - name: content-12
+    - name: "content-4"
       weight: 2
+      title: Gestión de servicios de TI sin concesiones
+      subtitle: Ventajas de SeaTable
+      text: 
+      items:
+          - headline: Seguridad y protección de datos
+            text: Gracias a los derechos de acceso granulares y al tratamiento de datos conforme al RGPD, puede diseñar sus procesos informáticos de forma innovadora sin comprometer la seguridad de los datos.
+            icon: shield         
+          - headline: Automatizaciones con IA
+            text: Reduzca las tareas rutinarias manuales mediante automatizaciones asistidas por IA que reconocen el lenguaje, traducen textos o sugieren prioridades para las incidencias.
+            icon: robot
+          - headline: Kanban, Gantt y más
+            text: Las estructuras de tablas personalizadas, como los tableros Kanban, los diagramas de Gantt o las vistas de galería para la gestión de activos, permiten procesos ITSM claros.
+            icon: eye
+          - headline: Análisis e informes
+            text: 'Visualice el volumen de incidencias y los indicadores clave del acuerdo de nivel de servicio en paneles de control claros. Cree paneles de control de informes significativos con datos en tiempo real.'          
+            icon: chart-simple
+          - headline: Flexible e intuitivo
+            text: SeaTable ofrece una interfaz intuitiva, plantillas fáciles de usar y accesibilidad inmediata, y permite a las organizaciones de TI desarrollar soluciones ITSM personalizadas.
+            icon: edit
+          - headline: Escalable
+            text: ¿Su equipo o su infraestructura están creciendo? SeaTable crece con usted. Los diferentes modelos de licencia y opciones de implementación se adaptan a sus necesidades de ITSM. 
+            icon: arrow-top-right 
+
+
+    - name: content-12
+      weight: 3
       classes:
           - curved
-          - bg-seatable-blue
       title: Procesos ITSM según sus necesidades
-      subtitle: Flexibilidad, Seguridad, Eficiencia
-      description: ¡Con la plataforma No-Code de IA intuitiva, podrá mapear sus procesos de gestión de servicios de TI fácilmente! Gracias a las nuevas integraciones de IA, automatice el procesamiento y análisis de datos directamente en el flujo de trabajo; así se mantendrá ágil y a la vanguardia tecnológica.
+      subtitle: Flexibilidad, seguridad, eficiencia
+      description: Con la plataforma [AI No-Code]({{< relref "/" >}}), fácil de usar, SeaTable, puede mapear sus procesos de gestión de servicios de TI de forma sencilla y eficiente. Gracias a la combinación de una potente gestión de datos, [automatizaciones asistidas por IA]({{< relref "pages/ai-automations" >}}) y un desarrollo de aplicaciones intuitivo, los gestores de servicios de TI mantienen su agilidad.
       items:
-          - text: Conforme al RGPD
-          - text: Integración nativa de IA (OpenAI, Anthropic, Mistral)
-          - text: 'Implementación sencilla: No-Code o Low-Code'
-          - text: Flujos de trabajo de IA automatizados
-          - text: Gestión de permisos
-          - text: App Builder para uso en el frontend
-          - text: SeaTable Cloud o SeaTable Server
+          - text: "**Conforme al RGPD**, alojado en servidores europeos en Alemania."
+          - text: "**Fácil integración** con otras herramientas gracias a la API integrada."
+          - text: "Mejor trabajo en equipo gracias a la **colaboración en tiempo real**"
+          - text: "**Automatizaciones asistidas por IA** para procesos optimizados"
+          - text: "**Intuitivo creador de aplicaciones** para uso front-end"
+          - text: "Se puede utilizar como solución en la nube o en las instalaciones.**"
       image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
-      image_alt: 'Interfaz de SeaTable para la gestión personalizada de servicios de TI con tickets y activos'
+      image_alt: 'Interfaz SeaTable para la gestión personalizada de servicios informáticos con tickets y activos'
 
     - name: content-25
       weight: 3
-      title: Funciones potentes para su IT Service Management
-      subtitle: Solución No-Code para un trabajo eficiente
-      text: 'SeaTable, como [plataforma No-Code de IA]({{< relref "/" >}}), combina las ventajas de una hoja de cálculo con la potencia de una base de datos y un [No-Code App Builder]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}). Esta combinación permite a los equipos de TI gestionar flujos de trabajo y datos complejos de manera eficiente, así como implementar su estrategia de TI de forma ágil, lo que convierte a SeaTable en una solución indispensable:'
+      title: Potentes funciones para la gestión de servicios de TI
+      subtitle: Solución no-code para trabajar de forma eficiente
+      text: 'Ya sea [gestión de incidentes]({{<relref "posts/20250612-incident-management" >}}), [sistema de tickets]({{< relref "posts/20250521-ticketing-system" >}}), gestión de riesgos o seguimiento de activos: con SeaTable, los departamentos de TI pueden mapear de forma flexible sus procesos centrales de ITSM y adaptarlos a los nuevos requisitos.'
       items:
-          - headline: Columna de IA inteligente
-            text: Utilice la IA directamente en la tabla para resumir descripciones de tickets, generar fragmentos de código o categorizar incidentes automáticamente.
-            image: /images/Software-Deevelopment_Views.png
-            image_alt: 'Columna de IA de SeaTable para el procesamiento automático de datos'
+          - headline: Funciones de IA integradas
+            text: Con las [funciones de IA]({{< relref "posts/ai-powered-automations" >}}) integradas en SeaTable, puede crear flujos de trabajo inteligentes directamente en su solución ITSM. Clasifique automáticamente los tickets entrantes, priorice las incidencias mediante IA o genere sugerencias de respuesta para consultas recurrentes. De este modo, SeaTable alivia notablemente la carga de trabajo de su equipo de TI y acelera todo el procesamiento del servicio.
+            image: /images/landing_page_ki-automatisierung_04.png
+            image_alt: 'Columna SeaTable AI para el procesamiento automático de datos'
           - headline: Cálculos y editor de fórmulas
-            text: Evaluaciones y análisis detallados con un editor de fórmulas intuitivo y un módulo de estadísticas.
+            text: "Evaluaciones y análisis detallados con un editor de fórmulas intuitivo y un módulo de estadísticas: evalúe el volumen de incidentes, los tiempos de resolución o el cumplimiento de los SLA de un vistazo, sin necesidad de herramientas de BI adicionales. De este modo, podrá detectar a tiempo los cuellos de botella en las operaciones de TI y tomar decisiones basadas en datos para mejorar continuamente el servicio."
             image: /images/Software-Development_Formula.png
-            image_alt: 'Editor de fórmulas y estadísticas de SeaTable para evaluaciones de TI'
-          - headline: Derechos de acceso granulares
-            text: Gestione los derechos de acceso y edición en diferentes niveles para la máxima seguridad y cumplimiento.
-            image: /images/Software-Development_Permission-sets.png
-            image_alt: 'Vista de SeaTable para derechos de acceso granulares y conjuntos de permisos'
-          - headline: Versionado y seguimiento de cambios
-            text: Realice un seguimiento de todos los cambios en tiempo real y restaure versiones anteriores.
+            image_alt: 'Editor de fórmulas y estadísticas de SeaTable para evaluaciones informáticas'
+          - headline: Auditorías y seguridad de revisión
+            text: Con los registros de acceso y modificación integrados, puede realizar un seguimiento de todos los cambios en tiempo real y restaurar versiones anteriores. De este modo, su ITSM puede ser auditado en cualquier momento. Además, gracias a los derechos de acceso granulares y a la posibilidad de bloquear entradas, su base de datos sigue siendo conforme y segura para las auditorías.
             image: /images/Software-Development_Logs.png
-            image_alt: 'Registros de cambios de SeaTable para versionado y pistas de auditoría en ITSM'
-          - headline: App de gestión de proyectos
-            text: Con el App Builder No-Code de SeaTable, cree aplicaciones basadas en la web sin conocimientos de programación. En una aplicación de este tipo, usted puede controlar exactamente quién en su equipo puede ver qué datos y cómo se visualizan.
+            image_alt: 'Registros de cambios de SeaTable para el control de versiones y los registros de auditoría en ITSM'
+          - headline: Aplicación de gestión de servicios de TI
+            text: Con el [creador de aplicaciones no-code]({{< relref "posts/20250318-app-erstellen" >}}) de SeaTable, puede crear aplicaciones basadas en la web sin necesidad de tener conocimientos de programación. En una aplicación ITSM de este tipo, puede controlar específicamente quién de su equipo de TI puede ver qué tickets, incidentes o solicitudes de servicio, y cómo se visualizan de forma clara.
             image: /images/Software-Development_Universal-App.png
-            image_alt: 'App de gestión de proyectos de SeaTable para flujos de trabajo web de ITSM'
+            image_alt: 'Aplicación SeaTable para la gestión de proyectos para flujos de trabajo de gestión de servicios informáticos basados en la web'
 
     - name: 'content-10'
-      weight: 4
-      title: 'Conecte SeaTable con su organización de TI'
-      subtitle: 'Integraciones estándar'
-      description: Vincule SeaTable con sus herramientas actuales o utilice la nueva consulta de datos por IA para estructurar información entre sistemas.
+      weight: 7
+      title: 'Conecte SeaTable con su organización informática'
+      subtitle: 'La integración'
+      description: Conecte SeaTable con sus herramientas actuales y utilícelo como eje central para toda su gestión de servicios de TI, o utilice la nueva consulta de datos con IA para estructurar la información en todos los sistemas.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
 
-    - name: 'content-9'
-      weight: 5
-      title: IT Service Management sin compromisos
-      subtitle: Ventajas de SeaTable
-      description: SeaTable apoya los procesos de transformación de TI mediante sus opciones de personalización flexible y [flujos de trabajo automatizados]({{< relref "pages/industry-solutions/individual" >}}). Mediante la combinación de una potente gestión de datos y el desarrollo intuitivo de aplicaciones, digitalice y automatice incluso procesos complejos de forma rápida y segura.
-      items:
-          - headline: Requisitos de seguridad e innovación
-            text: ¿Impulsar la innovación sin poner en riesgo la seguridad? SeaTable garantiza el cumplimiento de los más altos estándares. Gracias a los permisos granulares y el **procesamiento de datos conforme al RGPD**, puede diseñar sus procesos de TI de forma innovadora sin comprometer la seguridad.
-            icon: circle-question
-          - headline: Gestión de licencias y cumplimiento
-            text: Con SeaTable, mantenga siempre una visión general de sus licencias y asegúrese de que su organización cumpla **en todo momento** con las normativas. Los flujos de trabajo automatizados ayudan a supervisar y gestionar los plazos de las licencias y las políticas de cumplimiento.
-            icon: circle-question
-          - headline: Automatizaciones inteligentes
-            text: Reduzca las tareas manuales rutinarias mediante automatizaciones de IA que reconocen el lenguaje, traducen textos o sugieren prioridades para los incidentes.
-            icon: circle-question
-          - headline: Estructuras de tabla y vistas personalizables
-            text: 'Las estructuras de tabla personalizadas y las opciones de visualización como [tableros Kanban]({{< relref "posts/kanban board freeware" >}}), calendarios y diagramas de Gantt permiten una mejor organización de los procesos ITSM.'
-            icon: circle-question
-          - headline: Paneles personalizables con IA Insights
-            text: 'Cree cuadros de mando que no solo visualicen datos, sino que también proporcionen tendencias y predicciones para su infraestructura de TI mediante la conexión con IA.'
-            icon: circle-question
-          - headline: Gestión de software flexible y segura
-            text: SeaTable ofrece una gestión de software innovadora y personalizable que ayuda a las organizaciones a **optimizar sus procesos ITSM** y digitalizarlos.
-            icon: circle-question
-
     - name: banner-2
       weight: 6
-      title: Procesos de TI complejos implementados fácilmente <br>– ahora con el poder de la IA en SeaTable
+      title: Procesos informáticos complejos implementados de forma sencilla
       buttons:
           - label: Regístrese ahora y comience
             link: pages/registration
 
     - name: 'content-8'
-      weight: 10
-      title: Empiece hoy mismo con nuestras plantillas ITSM gratuitas
+      weight: 5
+      title: Empiece con nuestras plantillas ITSM gratuitas
       subtitle: Plantillas
-      description: "Con nuestras plantillas gratuitas y flexibles para el IT Service Management, puede empezar de inmediato. Todas las plantillas son ampliables para adaptarse exactamente a los requisitos de su organización:<br><br>**¡Importe plantillas con un solo clic a su cuenta de SeaTable!**"
+      description: "Con nuestras plantillas gratuitas y personalizables para la gestión de servicios de TI, puede empezar a trabajar de inmediato. Todas las plantillas se pueden ampliar según sea necesario, de modo que se pueden adaptar exactamente a los requisitos específicos de su organización de TI:<br><br>**¡Importe plantillas a su cuenta de SeaTable con un solo clic!**"
       items:
           - text: Pruebas de software
             image: /images/Software-Dev_-Software-Test_Template.png
-            image_alt: "Plantilla ITSM de SeaTable para la organización de pruebas de software"
-          - text: Rastreador de errores (Bug-Tracker)
+            image_alt: "Plantilla ITSM de SeaTable para la organización de pruebas de software y casos de prueba"
+          - text: Rastreador de errores
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            image_alt: "Plantilla Bug-Tracker de SeaTable para el seguimiento de fallos de TI"
-          - text: Lanzamiento de producto
-            image: /images/Software-Dev_-Product-Launch_Template.png
-            image_alt: "Plantilla de SeaTable para la planificación de lanzamientos en proyectos de TI"
+            image_alt: "Plantilla SeaTable Bug-Tracker para registrar y realizar un seguimiento de los fallos informáticos"
           - text: Hoja de ruta tecnológica
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            image_alt: "Plantilla para hoja de ruta tecnológica y estrategia de TI"
-          - text: Solicitudes de funciones (Feature Requests)
-            image: /images/Software-Dev_-Feature-Request_Template.png
-            image_alt: "Plantilla de SeaTable para priorizar solicitudes de funciones"
-          - text: Tablero Kanban
-            image: /images/Software-Dev_-Kanban_Template.png
-            image_alt: "Plantilla de tablero Kanban de SeaTable para tareas de ITSM"
+            image_alt: "Plantilla SeaTable para la hoja de ruta tecnológica y la planificación de la estrategia de TI"       
       buttons:
-        - label: Descubrir todas las plantillas
+        - label: Descubra todas las plantillas
           link: 'templates'
 
-    - name: "content-16"
-      weight: 11
+    - name: "content-9"
+      weight: 9
       title: Procesos ITSM en SeaTable
       subtitle: Sin conocimientos de programación
-      description: "Los procesos digitales automatizados con apoyo de IA son vitales para el éxito de su departamento de TI. SeaTable ofrece todas las funciones para gestionar eficientemente los procesos clave del Service Management."
+      description: "Los procesos automatizados digitales y asistidos por IA son importantes para el éxito de su TI. SeaTable ofrece todas las funciones necesarias para gestionar de forma eficiente los procesos decisivos de la gestión de servicios."
       items:
-      - headline: Gestión de Incidentes y Sistema de Tickets
-        text: Gestione y rastree incidentes de TI en tiempo real. Automatice la clasificación de tickets mediante IA. Los correos entrantes o formularios se analizan al instante y se asignan al equipo correcto.
-      - headline: Gestión de Problemas
-        text: Utilice SeaTable para documentar y optimizar las soluciones a problemas y crear una base de conocimientos.
-      - headline: Gestión de Cambios con Evaluación de Riesgos
-        text: Planifique y gestione cambios en la infraestructura de forma estructurada. Use análisis de IA para evaluar riesgos potenciales basados en datos históricos.
-      - headline: Gestión de Licencias
-        text: Utilice el software de gestión de licencias de SeaTable para asegurar el cumplimiento y optimizar costes.
-      - headline: Gestión de Software
-        text: Use SeaTable para planificar proyectos de software y mantener la documentación técnica actualizada con IA.
-      - headline: Escalabilidad y Flexibilidad
-        text: Los diferentes modelos de licencia (Free, Plus, Enterprise) y opciones de despliegue se adaptan a sus necesidades. No necesita tarjeta de crédito para probar la plataforma.
+      - headline: Gestión de incidentes 
+        text: Gestione y realice un seguimiento de los incidentes de TI en tiempo real con la clasificación y priorización de incidentes asistida por IA. Para una mayor conformidad y seguridad. 
+        icon: layer-group
+      - headline: Servicio de asistencia informática
+        text: Procese las solicitudes de asistencia más rápidamente con un sistema centralizado de tickets de TI, con funciones de IA para una asistencia de primer nivel más eficiente.
+        icon: comment  
+      - headline: Gestión de problemas
+        text: Aproveche las funciones de SeaTable para documentar y optimizar la resolución de problemas y crear una base de conocimientos.
+        icon: check
+      - headline: Gestión del cambio
+        text: Planifique y gestione los cambios en la infraestructura informática de forma estructurada y segura, desde la evaluación de riesgos y el análisis de requisitos hasta la implementación. 
+        icon: list
+      - headline: Licencias y cumplimiento normativo
+        text: Utilice el software de gestión de licencias de SeaTable para administrar licencias de manera eficiente y supervisar y cumplir las directrices de cumplimiento normativo.
+        icon: microsoft  
+      - headline: Gestión de software
+        text: Utilice SeaTable para planificar proyectos de software y mantener actualizada la documentación técnica con la ayuda de la inteligencia artificial.
+        icon: expand
+
+    - name: "content-4"
+      weight: 8
+      title: La solución para una gestión de servicios de TI conforme al RGPD
+      subtitle: Sin concesiones en materia de gobernanza informática
+      text: 'SeaTable ofrece [inicio de sesión único]({{< relref "posts/single-sign-on" >}}), permisos de acceso granulares y aloja su nube exclusivamente en servidores europeos con licencia en Alemania. De este modo, SeaTable garantiza el máximo nivel de protección de datos y [soberanía de datos]({{< relref "posts/digitale-souveraenitaet" >}}).'
+      items:
+          - icon: terminal
+            headline: Servidor propio de IA
+            text: "Las más altas exigencias en materia de seguridad de datos no son negociables para SeaTable. Por eso alojamos nuestro propio servidor de IA en Alemania para garantizar que las funciones de IA cumplan con el RGPD."
+          - icon: user-plus
+            headline: Derechos de acceso granulares
+            text: "Configure derechos de acceso y edición individuales y restrinja el acceso a datos confidenciales. Junto con la autenticación de dos factores, los usuarios aumentan aún más la seguridad de los datos."
+          - icon: fingerprint
+            headline: Autenticación y SSO
+            text: "SeaTable es compatible con todas las técnicas de autenticación habituales y permite la autenticación de dos factores y el inicio de sesión único (SSO). Usted decide quién tiene acceso a sus datos."    
 
     - name: "content-11"
-      weight: 12
-      title: Transformación de TI con SeaTable
-      subtitle: La solución para todos los sistemas ITSM
+      weight: 10
+      title: Transformación informática con SeaTable
+      subtitle: La solución para todos los sistemas de gestión de servicios de TI
       items:
-      - text: ¡Acelere su transformación digital y conecte su estrategia de TI con los objetivos de negocio! Con SeaTable, adapte sus [procesos digitales]({{< relref "pages/industry-solutions/operations" >}}) individualmente. A través de integraciones y modelos de datos flexibles, implemente estrategias digitales de manera efectiva.
+      - text: Acelere su transformación digital y, al mismo tiempo, vincule su estrategia de TI con los objetivos generales de su empresa. Con SeaTable, puede adaptar sus procesos digitales de forma individualizada a las necesidades de su empresa. Gracias a las integraciones y a los modelos de datos flexibles, podrá implementar estrategias digitales de forma eficaz y acelerar su transformación de TI.
       image: /images/Landing-Page_Software-Entwickler_Digitale-Transformation-2.png
-      image_alt: 'Panel de SeaTable para transformación digital y ITSM'
+      image_alt: 'SeaTable Dashboard para la transformación digital y la gestión de servicios de TI'
       image_position: right
 
-    - name: 'content-4'
+    - name: "content-21"
       weight: 13
-      title: IT Service Management con SeaTable
-      subtitle: ¡Cambie ahora, es muy fácil!
-      text: 'SeaTable ofrece una solución de gestión de servicios de TI preparada para el futuro que apoya a los equipos mediante flexibilidad y seguridad. La plataforma permite una implementación rápida e integra diversos marcos de gestión.'
+      title: "Cambie ahora a SeaTable: ¡es muy fácil!"
+      subtitle: Gestión de servicios de TI con SeaTable
+      text: 'SeaTable ofrece una solución de gestión de servicios de TI preparada para el futuro que ayuda a los equipos de TI gracias a su flexibilidad, seguridad y facilidad de uso. La plataforma permite una rápida implementación de los procesos de ITSM e integra diferentes marcos de gestión de servicios para una organización de TI eficiente.'
       items:
-          - icon: signature
-            headline: Transición sencilla
-            text: 'Cambiar a SeaTable es facilísimo: regístrese con su correo y empiece – ¡sin tarjeta de crédito ni costes ocultos!<br><br>Ofrecemos múltiples opciones de importación para facilitar su migración.'
-          - icon: building
-            headline: Plantillas gratuitas
-            text: '¡Empiece con una plantilla gratuita y compruebe el rendimiento de SeaTable! Notará rápidamente cómo puede elevar su ITSM a un nuevo nivel.'
-          - icon: substack
-            headline: Soporte integral
-            text: 'Estamos a su lado desde el principio para cualquier pregunta sobre nuestra herramienta de [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}).'
-          - icon: ghost
-            headline: Solución económica
-            text: "Gestione sus proyectos gratis con la versión Free o escale según sus necesidades con nuestras versiones premium económicas."
+          - headline: Cambio sencillo
+            text: 'Pasarse a SeaTable es muy fácil: solo tiene que registrarse con su dirección de correo electrónico y empezar a utilizarlo directamente, sin tarjeta de crédito y sin costes ocultos. SeaTable ofrece numerosas opciones de importación que facilitan la migración de sus datos.'
+          - headline: Asistencia integral
+            text: 'Estamos a su disposición desde el principio si tiene alguna pregunta sobre nuestra herramienta ITSM gratuita. Además, estaremos encantados de prepararle una oferta de asistencia personalizada para que pueda aprovechar todo el potencial de SeaTable en sus proyectos.'
+          - headline: Solución económica
+            text: "Gestione sus procesos informáticos con la versión gratuita de SeaTable sin ningún coste, o amplíe SeaTable según sus necesidades: si necesita funciones avanzadas o más capacidad de almacenamiento para sus proyectos informáticos, puede pasar fácilmente a una versión premium más económica."
 
     - name: faq
-      weight: 14
-      title: FAQ – IT Service Management con SeaTable
+      weight: 15
+      title: "Preguntas frecuentes: gestión de servicios de TI con SeaTable"
       items:
-          - q: '¿Cómo apoya SeaTable la transformación de mi organización de TI?'
-            a: 'SeaTable ofrece una plataforma flexible No-Code y Low-Code que facilita la adaptación y digitalización de los procesos de ITSM. Apoya los procesos de transformación de TI mediante una sencilla adaptación e integración en los sistemas existentes. Gracias a la integración de modelos de IA como GPT-4 o Claude directamente en la estructura de las tablas, los procesos no solo pueden digitalizarse, sino también automatizarse de forma inteligente, lo que acelera masivamente la transformación.'
+          - q: '¿Cómo ayuda SeaTable a cumplir con los estándares de conformidad informática?'
+            a: 'Requisitos empresariales que cambian rápidamente e infraestructuras informáticas complejas Los departamentos de TI a menudo se enfrentan al reto de adaptarse rápidamente a los nuevos requisitos empresariales o normativos, al tiempo que deben gestionar infraestructuras informáticas complejas. SeaTable se aloja exclusivamente en servidores europeos certificados en Alemania. Con SeaTable como software de gestión de servicios, puede establecer procesos dinámicos y ágiles que permiten a su equipo implementar rápidamente nuevos requisitos sin sobrecargar la infraestructura existente. SeaTable ofrece flujos de trabajo personalizables que se pueden integrar de forma flexible en sus sistemas existentes, lo que le permite mantener la agilidad y estar perfectamente preparado para futuros desarrollos.'
+          - q: ¿Cómo ayuda SeaTable a la transformación digital de su organización informática?
+            a: SeaTable ofrece una plataforma flexible no-code y con poco código que facilita la personalización y la digitalización de los procesos ITSM. Apoya los procesos de transformación de TI mediante una fácil personalización e integración en los sistemas existentes.
           - q: '¿Qué modelos de IA puedo utilizar en SeaTable?'
-            a: 'SeaTable es compatible con los principales proveedores de IA, como OpenAI (GPT), Anthropic (Claude) y Mistral. Puede utilizarlos a través de la nueva columna de IA o en las automatizaciones.'  
-          - q: '¿Qué es el ITSM y qué importancia tiene para mi organización de TI?'
-            a: 'La Gestión de Servicios de TI (ITSM) abarca todos los procesos y actividades necesarios para proporcionar y gestionar servicios de TI a los clientes. Es crucial para la eficiencia y la calidad de los servicios de TI y permite una gestión estructurada de la infraestructura tecnológica.'
-          - q: '¿Qué significa ITIL?'
-            a: "ITIL explicado de forma sencilla: ITIL (Information Technology Infrastructure Library) es un marco de gestión de servicios para administrar los servicios de TI de manera eficiente. Con SeaTable, usted puede integrar el marco de gestión de servicios ITIL en sus procesos de ITSM y adaptarlo de forma flexible para cumplir con sus requisitos específicos. De este modo, podrá optimizar sus procesos de TI y aumentar la eficiencia de sus servicios."
-          - q: "¿Es SeaTable conforme al RGPD como software de gestión de servicios de TI?"
-            a: "Sí, SeaTable cumple totalmente con el RGPD (DSGVO) y ofrece los más altos estándares de seguridad para la protección de datos sensibles en su infraestructura de TI. Nuestros servidores se encuentran exclusivamente en Alemania. La plataforma también ofrece funciones de seguridad de TI para la supervisión y gestión de los derechos de acceso."
-          - q: "¿Puede SeaTable realizar automatizaciones de IA sin esfuerzo de programación?"
-            a: "Sí, desde el lanzamiento de la versión 6.0, usted puede integrar acciones de IA directamente en el editor de automatización No-Code para, por ejemplo, generar automáticamente análisis o respuestas cuando se reciben nuevos tickets."
-          - q: "¿Qué ventajas ofrece SeaTable en comparación con otras soluciones de software ITSM como Atlassian?"
-            a: "SeaTable ofrece una mayor flexibilidad y capacidad de personalización que las suites de ITSM convencionales como Atlassian ITSM. Con una plataforma No-Code y Low-Code que **no requiere conocimientos de programación**, usted puede diseñar y optimizar sus procesos de TI de forma más eficiente."
-          - q: "¿Cómo puede SeaTable mejorar mi gestión de licencias?"
-            a: "SeaTable ofrece un completo software de gestión de licencias que facilita la administración de las mismas y garantiza que su organización de TI cumpla con la normativa en todo momento. Le ayuda a supervisar los requisitos de las licencias y a reducir costes. Dé el siguiente paso para mejorar su gestión de servicios de TI y regístrese ahora de forma gratuita en SeaTable. Descubra el futuro del Service Management con SeaTable: flexible, seguro y totalmente conforme al RGPD."
+            a: 'SeaTable es compatible con los principales proveedores de IA, como OpenAI (GPT), Anthropic (Claude) y Mistral. Puede utilizarlos a través de la nueva columna de IA o en automatizaciones.'  
+          - q: '¿Puedo utilizar SeaTable para mapear procesos conformes con ITIL?'
+            a: ITIL (Information Technology Infrastructure Library) es uno de los marcos de ITSM más utilizados. Con SeaTable, puede integrar el marco de gestión de servicios ITIL en sus procesos de gestión de servicios de TI y adaptarlo de forma flexible para satisfacer requisitos específicos. De este modo, puede optimizar sus procesos de TI y aumentar la eficiencia de sus servicios de TI.
+          - q: "¿SeaTable, como software de gestión de servicios informáticos, cumple con el RGPD?"
+            a: "Sí, SeaTable cumple totalmente con el RGPD y ofrece los más altos estándares de seguridad para la protección de datos confidenciales en la gestión de servicios de TI. Nuestros servidores se encuentran exclusivamente en Alemania. La plataforma también ofrece funciones para reforzar la seguridad de TI, por ejemplo, funciones para supervisar y gestionar los derechos de acceso."
+          - q: "¿SeaTable puede realizar automatizaciones con IA sin necesidad de programar?"
+            a: "Sí, desde la versión 6.0, puede integrar acciones de IA directamente en el editor de automatización no-code para, por ejemplo, generar automáticamente análisis o respuestas para los nuevos tickets."
+          - q: "¿Qué ventajas ofrece SeaTable en comparación con otras soluciones de software ITSM?"
+            a: "Como sistema de gestión de servicios de TI, SeaTable ofrece una mayor flexibilidad y adaptabilidad que las suites ITSM convencionales, como Atlassian ITSM. Con una plataforma no-code y con poco código, que no requiere conocimientos de programación, puede optimizar sus procesos de TI."
+          - q: "¿SeaTable ofrece una solución local para garantizar la máxima soberanía de los datos?"
+            a: "Sí, si desea mantener el control total sobre sus datos, tiene a su disposición dos opciones locales: SeaTable Server y SeaTable Dedicated."
 
     - name: banner-2
-      weight: 15
+      weight: 14
       title: "Su ITSM eficiente: regístrese ahora gratis en SeaTable"
       buttons:
           - label: Registrarse ahora
