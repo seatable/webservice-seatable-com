@@ -1,37 +1,63 @@
 {{ if and .IsPage (eq .Section "posts") }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{{ .Title | safeJS }}",
-  {{ $images := .Resources.ByType "image" -}}
-  {{ $featured := $images.GetMatch "feature*" -}}
-  {{ if $featured -}}
-    "image": {{ absURL $featured.RelPermalink }},
-  {{- end }}
-  "description": "{{ .Params.description | default .Summary | safeJS }}",
-  "url": {{ .Permalink | plainify }},
-  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
-  "inLanguage": "{{ .Language.Lang | safeJS }}",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": {{ .Permalink | plainify }}
-  },
-  "author": {
-    "@type": "Organization",
-    "name": "SeaTable",
-    "url": {{ .Site.BaseURL | plainify }}
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "SeaTable",
-    "url": {{ .Site.BaseURL | plainify }},
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://seatable.com/images/seatable-logo.svg"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ .Title | safeJS }}",
+    {{ $images := .Resources.ByType "image" -}}
+    {{ $featured := $images.GetMatch "feature*" -}}
+    {{ if $featured -}}
+      "image": {{ absURL $featured.RelPermalink }},
+    {{- end }}
+    "description": "{{ .Params.description | default .Summary | safeJS }}",
+    "url": {{ .Permalink | plainify }},
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeJS }}",
+    "inLanguage": "{{ .Language.Lang | safeJS }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ .Permalink | plainify }}
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "SeaTable",
+      "url": {{ .Site.BaseURL | plainify }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "SeaTable",
+      "url": {{ .Site.BaseURL | plainify }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://seatable.com/images/seatable-logo.svg"
+      }
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": {{ .Site.Home.Permalink | plainify }}
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": {{ ref . "/posts" | plainify }}
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ .Title | safeJS }}",
+        "item": {{ .Permalink | plainify }}
+      }
+    ]
   }
-}
+]
 </script>
 {{ end }}
