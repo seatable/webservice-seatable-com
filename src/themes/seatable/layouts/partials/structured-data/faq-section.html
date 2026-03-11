@@ -1,0 +1,18 @@
+{{ $entries := slice }}
+
+{{ range .items }}
+    {{ $entry := dict
+        "@type" "Question"
+        "name" .q
+        "acceptedAnswer" (dict "@type" "Answer" "text" .a)
+    }}
+    {{ $entries = $entries | append $entry }}
+{{ end }}
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": {{ $entries | jsonify (dict "indent" "    ") | safeJS }}
+    }
+</script>
