@@ -40,7 +40,7 @@ sections:
           headline: 'Struktur statt Chaos'
           text: 'Bündeln Sie Themen, Kanäle, Zielgruppen, Keywords und Deadlines in einer zentralen Content-Plan-Vorlage. So ersetzen Sie verstreute Dateien und schaffen einen einheitlichen Redaktionskalender mit transparentem Status für alle.'
         - icon: 'chart-line'
-          headline: ' Inhalte im Blick'
+          headline: 'Inhalte im Blick'
           text: 'Behalten Sie den Überblick, welche Inhalte auf welchen Kanälen geplant sind und wo noch Kapazitäten frei sind. So optimieren Sie Ihre Planung, schließen Lücken im Redaktionsplan und nutzen Ihren Content effizienter.'
         - icon: 'lock'
           headline: 'Rechte und Freigaben'
@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Redaktionsplan Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI-No-Code-Lösung SeaTable bietet Flexibilität, Automatisierungen und Teamarbeit in Echtzeit. Mit Redaktions- und Content-Plan-Vorlagen steuern Sie Ihren gesamten Multi-Channel-Content zentral, behalten Status und Kapazitäten im Blick und schaffen eine einheitliche Grundlage für Ihr Content-Marketing – effizienter als ein klassischer Redaktionsplan Excel Ansatz oder statische Systeme. Nutzen Sie SeaTable als leistungsstarkes [Marketing-Tool]({{< relref "pages/industry-solutions/marketing" >}}) und aus Templates werden skalierbare Marketingprozesse.'
+      description: 'Die KI-Без кода-Lösung SeaTable bietet Flexibilität, Automatisierungen und Teamarbeit in Echtzeit. Mit Redaktions- und Content-Plan-Vorlagen steuern Sie Ihren gesamten Multi-Channel-Content zentral, behalten Status und Kapazitäten im Blick und schaffen eine einheitliche Grundlage für Ihr Content-Marketing – effizienter als ein klassischer Redaktionsplan Excel Ansatz oder statische Systeme. Nutzen Sie SeaTable als leistungsstarkes [Marketing-Tool]({{< relref "pages/industry-solutions/marketing" >}}) und aus Templates werden skalierbare Marketingprozesse.'
       items:
       - text: '**Stets aktuell:** Mit Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleibt Ihre Redaktionsplanung stets aktuell – von der ersten Idee bis zur finalen Veröffentlichung.'
       - text: '**Zugriff von überall:** Als digitaler Redaktionskalender ist Ihr Content-Plan jederzeit verfügbar – im Büro, im Homeoffice oder unterwegs, auch für Agenturen und Freelancer.'
@@ -85,7 +85,7 @@ sections:
       - text: '**Automatisiert & integriert:** Nutzen Sie SeaTable als zentrales Marketing-Tool und integrieren Sie Ihren Redaktionsplan in Workflows für Kampagnen, Freigaben und Reporting – mit passenden Automatisierungen.'
       image_position: [left]
       image: '/images/template_page_redaktionsplan_01.png'
-      image_alt: ''
+      image_alt: 'Screenshot eines Redaktionskalenders mit Tabellenansicht für Inhalte und Deadlines'
 
     - name: "content-25"
       weight: 10
@@ -95,19 +95,19 @@ sections:
       - headline: 'Inhalte zentral im Redaktionsplan verwalten'
         text: 'In der ersten Tabelle der Redaktionsplan Vorlage planen Sie alle Inhalte – von Blogartikeln über Landingpages bis zu Newsletter-Kampagnen. Sie erfassen Titel, Zielgruppe, Kanal, Format, Keywords, Status und Veröffentlichungsdatum und definieren Verantwortliche und Freigaben. Über Kanban-Ansichten (Kanban Board) visualisieren Sie den Status von „Idee“ bis „Veröffentlicht“ und machen Ihren Redaktionskalender für das gesamte Team transparent.'
         image: '/images/template_page_redaktionsplan_02.png'
-        image_alt: ''
+        image_alt: 'Screenshot der Haupttabelle des Redaktionsplans mit Titeln, Kanälen und Statusfeldern'
       - headline: 'Ideenpool und Backlog für Content-Aufgaben'  
         text: 'Eine zweite Tabelle dient als Ideenbereich und Backlog für Ihre Content Plan Vorlage. Hier sammeln Sie Themenvorschläge aus Vertrieb, Produkt, Management oder Community, priorisieren sie und überführen ausgewählte Ideen per Verknüpfung in den aktiven Redaktionsplan. So geht keine Idee verloren, Sie strukturieren Ihren Content-Funnel langfristig und schaffen Klarheit darüber, welche Inhalte wann ins Kanban Board wandern.'
         image: '/images/template_page_redaktionsplan_03.png'
-        image_alt: ''
+        image_alt: 'Screenshot einer Ideensammlung und Backlog-Tabelle für Content-Themen und Prioritäten'
       - headline: 'Multi-Channel-Strategie mit klarer Kapazitätsplanung'
         text: 'In einer weiteren Ansicht planen Sie Ihre Multi-Channel-Strategie über alle Plattformen hinweg – etwa Website, Blog, Newsletter und Social Media. Sie sehen, welche Inhalte auf welchen Kanälen wiederverwendet werden, wie die Kapazitätsplanung pro Woche oder Sprint aussieht und ob der Redaktionsplan für einzelne Plattformen zu voll oder zu leer ist. Timeline- und Kalenderansichten machen Ihren Redaktionskalender zu einem strukturierten Content Plan, der Kampagnen sauber orchestriert.'
         image: '/images/template_page_redaktionsplan_04.png'
-        image_alt: ''
+        image_alt: 'Screenshot einer Multi-Channel-Planung mit Kalender- und Timeline-Ansicht für Inhalte'
       - headline: 'Status, Assets und Freigaben im Blick behalten'
         text: 'Weitere Tabellen und Ansichten unterstützen Sie bei der Verwaltung von Assets, Briefings und Freigaben innerhalb Ihrer Redaktionsplan Vorlage. Sie verknüpfen Texte, Bildmaterial, Header-Grafiken und Tracking-Links mit den jeweiligen Content-Elementen, dokumentieren Feedback-Schleifen und halten fest, wann Content freigegeben und veröffentlicht wurde. Über Status-Felder, Kanban-Ansichten und Filter sehen Marketing Specialists und Content Creators jederzeit, welche Aufgaben anstehen und wo Bottlenecks im Redaktionskalender entstehen.'
         image: '/images/template_page_redaktionsplan_05.png'
-        image_alt: ''
+        image_alt: 'Screenshot einer Übersicht zu Status, Assets und Freigaben im digitalen Redaktionsplan'
             
     - name: "content-6"
       weight: 12
@@ -119,7 +119,7 @@ sections:
       items:
       - text: 'Mit dem integrierten App Builder bauen Sie auf Basis der Redaktionsplan Vorlage Ihre individuelle Content-App für Marketing Specialist und Content Creator. Kombinieren Sie Formulare für Themenvorschläge, Übersichten für den Redaktionskalender, Kanban-Ansichten für Status und Kapazitätsplanung sowie fokussierte Filteransichten für einzelne Kanäle oder Kampagnen – bis hin zu spezialisierten Views für Social Media, die Sie mit der [Social Media Plan Vorlage]({{< relref "templates/marketing/social-media-plan" >}}) verzahnen. Teilen Sie gezielte Ausschnitte als Frontend mit Stakeholdern und steuern Sie über Berechtigungen, wer welche Elemente Ihres Content Plans sehen oder bearbeiten darf – so wird aus der Redaktionsplan Vorlage eine maßgeschneiderte Redaktionsplan-App.'
       image: '/images/template_page_redaktionsplan_06.png'
-      image_alt: ''
+      image_alt: 'Screenshot einer individuellen Redaktionsplan-App mit Formularen, Ansichten und Kanban-Boards'
 
     - name: "banner-3"
       weight: 15
@@ -178,7 +178,7 @@ sections:
       title: 'FAQs zur Redaktionsplan Vorlage von SeaTable'
       subtitle: 
       items:
-      - q: " Kann ich die Redaktionsplan Vorlage von SeaTable kostenlos nutzen?"
+      - q: "Kann ich die Redaktionsplan Vorlage von SeaTable kostenlos nutzen?"
         a: 'Sie können die Vorlage kostenlos in der SeaTable Cloud nutzen. Sie benötigen lediglich einen kostenlosen Account und können sofort damit beginnen, Ihr Content-Marketing strukturiert in einem digitalen Redaktionskalender abzubilden.'
       - q: "Worin unterscheidet sich der SeaTable Redaktionsplan von einem Redaktionsplan Excel?"
         a: 'Bei einem Redaktionsplan Excel stoßen Sie schnell an Grenzen: manuelle Pflege, fehlende Verknüpfungen und hohe Fehleranfälligkeit. Diese Vorlage in SeaTable verknüpft Inhalte, Kanäle, Kampagnen und Verantwortliche, bietet Ansichten wie Kalender, Timeline und Kanban-Board und ermöglicht Automatisierungen – Ihr Redaktionskalender wird dadurch deutlich robuster und transparenter.'
