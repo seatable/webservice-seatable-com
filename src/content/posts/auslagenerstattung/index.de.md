@@ -1,5 +1,5 @@
 ---
-title: 'Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer'
+title: 'Auslagenerstattung: Regeln, Steuerfreiheit & kostenlose Vorlage'
 description: 'Ob Geschäftsessen, Bahntickets oder Büromaterial – bei Auslagenerstattungen ist Präzision gefragt. Arbeitgeber und Arbeitnehmer müssen klare Vorgaben und Nachweise beachten. Dieser Beitrag erklärt die wichtigsten Regeln, gibt Tipps zu Fallstricken und zeigt, wie digitale Vorlagen den Prozess effizienter machen.'
 date: 2024-01-03
 lastmod: '2025-05-19'
@@ -15,17 +15,17 @@ tags:
 color: '#edb905'
 ---
 
-Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?
+Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung für Arbeitnehmer** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?
 
-Dieser Beitrag vermittelt Ihnen nicht nur alles Wissenswerte rund um das Thema Auslagenerstattung – er bietet Ihnen auch eine [kostenlose Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}), die Ihren Arbeitsalltag erleichtern kann.
+Dieser Beitrag vermittelt Ihnen nicht nur alles Wissenswerte rund um das Thema Auslagenerstattung – er bietet Ihnen auch eine kostenlose Vorlage, die Ihren Arbeitsalltag erleichtern kann.
 
 ![Finanzen und Bürokratie](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
 Als Unternehmer ist es wichtig, den Überblick über alle Auslagen zu behalten.
 
-## Was Auslagenerstattung für Sie bedeutet
+## Definition: Was ist eine Auslagenerstattung?
 
-Das [Einkommensteuergesetz](https://www.gesetze-im-internet.de/estg/) definiert **Auslagen** als betriebliche Ausgaben, die Mitarbeiter **im Voraus** bezahlen und später vom Unternehmen zurückerhalten. Die Auslagenerstattung gewährleistet, dass Mitarbeiter nicht dauerhaft finanziell belastet werden, wenn sie **im Auftrag des Unternehmens** Ausgaben tätigen. Die genaue Abwicklung und die akzeptierten Ausgabenkategorien können sowohl gesetzlich als auch unternehmensintern geregelt werden.
+Das [Einkommensteuergesetz](https://www.gesetze-im-internet.de/estg/) definiert, dass eine Auslagenerstattung vorliegt, wenn ein Arbeitnehmer im Namen und für Rechnung des Arbeitgebers Ausgaben tätigt (Vorkasse) und diese vom Unternehmen eins zu eins zurückerstattet bekommt. Sie ist gemäß § 3 Nr. 50 EStG steuer- und sozialversicherungsfrei. Die genaue Abwicklung und die akzeptierten Ausgabenkategorien können sowohl gesetzlich als auch unternehmensintern geregelt werden.
 
 ## Auslagenarten, die Sie kennen sollten
 
