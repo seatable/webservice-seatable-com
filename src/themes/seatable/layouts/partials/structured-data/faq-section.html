@@ -4,7 +4,7 @@
     {{ $entry := dict
         "@type" "Question"
         "name" .q
-        "acceptedAnswer" (dict "@type" "Answer" "text" .a)
+        "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify))
     }}
     {{ $entries = $entries | append $entry }}
 {{ end }}

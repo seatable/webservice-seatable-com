@@ -116,11 +116,16 @@
         {{ partial "structured-data/faq.html" . }}
     {{- end }}
 
+    {{- $faqItems := slice }}
     {{- range .Params.sections }}
         {{- if eq .name "faq" }}
-            {{/* Generate an FAQPage entry per faq section */}}
-            {{ partial "structured-data/faq-section.html" . }}
+            {{- range .items }}
+                {{- $faqItems = $faqItems | append . }}
+            {{- end }}
         {{- end }}
+    {{- end }}
+    {{- if $faqItems }}
+        {{ partial "structured-data/faq-section.html" (dict "items" $faqItems) }}
     {{- end }}
 
 
