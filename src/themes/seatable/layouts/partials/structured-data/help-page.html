@@ -1,3 +1,28 @@
+{{ $elements := slice }}
+{{ $ancestors := .Ancestors.Reverse }}
+{{ $position := 1 }}
+
+{{ range $ancestors }}
+    {{ $element := dict
+        "@type" "ListItem"
+        "position" $position
+        "name" .LinkTitle
+        "item" .Permalink
+    }}
+
+    {{ $elements = $elements | append $element }}
+    {{ $position = add $position 1 }}
+{{ end }}
+
+{{/* Append the current page */}}
+{{ $currentPage := dict
+    "@type" "ListItem"
+    "position" $position
+    "name" .LinkTitle
+    "item" .Permalink
+}}
+{{ $elements = $elements | append $currentPage }}
+
 <script type="application/ld+json">
     [
         {
@@ -27,20 +52,7 @@
         {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "{{ T "support_table.help_area" }}",
-                    "item": {{ ref . "/help" | plainify }}
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "{{ .Title | safeJS }}",
-                    "item": {{ .Permalink | plainify }}
-                }
-            ]
+            "itemListElement": {{ $elements | jsonify (dict "indent" "    ") | safeJS }}
         }
     ]
 </script>
