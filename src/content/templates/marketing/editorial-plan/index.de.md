@@ -1,5 +1,5 @@
 ---
-title: 'Redaktionsplan'
+title: 'Redaktionsplan-Vorlage'
 description: 'Verwalten Sie Inhalte, Deadlines und Aufgaben zentral, fördern Sie Teamarbeit und kontrollieren Sie Ihren Content-Workflow übersichtlich.'
 date: '2025-02-17'
 lastmod: '2026-03-11'
@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Redaktionsplan Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI-Без кода-Lösung SeaTable bietet Flexibilität, Automatisierungen und Teamarbeit in Echtzeit. Mit Redaktions- und Content-Plan-Vorlagen steuern Sie Ihren gesamten Multi-Channel-Content zentral, behalten Status und Kapazitäten im Blick und schaffen eine einheitliche Grundlage für Ihr Content-Marketing – effizienter als ein klassischer Redaktionsplan Excel Ansatz oder statische Systeme. Nutzen Sie SeaTable als leistungsstarkes [Marketing-Tool]({{< relref "pages/industry-solutions/marketing" >}}) und aus Templates werden skalierbare Marketingprozesse.'
+      description: 'Die KI No-Code-Lösung SeaTable bietet Flexibilität, Automatisierungen und Teamarbeit in Echtzeit. Mit Redaktions- und Content-Plan-Vorlagen steuern Sie Ihren gesamten Multi-Channel-Content zentral, behalten Status und Kapazitäten im Blick und schaffen eine einheitliche Grundlage für Ihr Content-Marketing – effizienter als ein klassischer Redaktionsplan Excel Ansatz oder statische Systeme. Nutzen Sie SeaTable als leistungsstarkes [Marketing-Tool]({{< relref "pages/industry-solutions/marketing" >}}) und aus Templates werden skalierbare Marketingprozesse.'
       items:
       - text: '**Stets aktuell:** Mit Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleibt Ihre Redaktionsplanung stets aktuell – von der ersten Idee bis zur finalen Veröffentlichung.'
       - text: '**Zugriff von überall:** Als digitaler Redaktionskalender ist Ihr Content-Plan jederzeit verfügbar – im Büro, im Homeoffice oder unterwegs, auch für Agenturen und Freelancer.'
