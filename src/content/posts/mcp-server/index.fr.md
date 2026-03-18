@@ -111,6 +111,8 @@ Vous créez le token API directement dans SeaTable. Vous définissez alors si l'
 
 Ensuite, vous saisissez l'URL du serveur MCP hébergé (`https://mcp.seatable.com`) et votre token dans la configuration de votre assistant IA — c'est fait. Pas d'installation, pas de configuration de serveur, aucune connaissance technique requise.
 
+Pour des instructions détaillées étape par étape, consultez notre [section d'aide]({{< relref "help/ai/ai-agents" >}}).
+
 Au fait : si vous hébergez SeaTable vous-même, vous pouvez aussi utiliser le serveur MCP. Dans ce cas, il fonctionne localement ou sur votre propre infrastructure. Tous les détails se trouvent dans la documentation technique et sur [GitHub](https://github.com/seatable/seatable-mcp).
 
 ## Sécurité et protection des données
