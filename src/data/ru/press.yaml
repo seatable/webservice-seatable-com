@@ -33,6 +33,13 @@
   source: 'Discover Germany'
   link: 'https://www.discovergermany.com/seatable-leading-no-code-solution-for-it-transformation-and-digitalisation/'
 
+- title: 'No-Code в автоматизации процессов'
+  year: 2025
+  summary: 'В статье рассказывается о том, как платформы no-code и low-code способствуют автоматизации цифровых бизнес-процессов, упрощают рабочие процессы и позволяют гражданам развиваться. SeaTable демонстрирует отличные результаты в сравнении различных no-code инструментов.'
+  date: 2025-01-01
+  source: 'iX Magazin'
+  link: 'https://www.heise.de/select/ix/2025/1/2328308533031996182'
+
 - title: 'SeaTable 5.0 представляет интегрированный конструктор приложений'
   year: 2024
   summary: 'Версия 5.0 бескодовой базы данных SeaTable уже доступна. Среди прочего, в ней появился встроенный конструктор приложений, новые плагины и улучшенная доступность.'
