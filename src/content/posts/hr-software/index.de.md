@@ -32,7 +32,7 @@ Auf dem Markt gibt es unzählige HR-Software-Anbieter, die Tools für jeden erde
     
 -   **Recruiting-Software**: Manche Lösungen wie softgarden oder Greenhouse fokussieren sich auf eine effiziente Personalbeschaffung, um die HR-Abteilung zu entlasten. Dafür decken sie den kompletten [Recruiting-Prozess]({{< relref "posts/20250317-recruiting" >}}) ab – von der Stellenausschreibung über das Bewerbermanagement bis zum [Onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}).  
     
--   **Talentmanagement und Personalentwicklung**: Einige HR Software Tools (z. B. Lattice, 15Five) haben sich darauf spezialisiert, die Performance von Mitarbeitern zu steigern, ihnen Karrierepfade zu ebnen und ihre Kompetenzen zu fördern. Dazu gehören Funktionen für Zielvereinbarungen, Leistungsbeurteilungen und Feedbackgespräche.
+-   **Talentmanagement und Personalentwicklung**: Einige HR Software Tools <!-- Ist "Software Tools" nicht redundant"? Besser Software-Anbieter? --> (z. B. Lattice, 15Five) haben sich darauf spezialisiert, die Performance von Mitarbeitern zu steigern, ihnen Karrierepfade zu ebnen und ihre Kompetenzen zu fördern. Dazu gehören Funktionen für Zielvereinbarungen, Leistungsbeurteilungen und Feedbackgespräche.
     
 -   **All-in-one-Lösungen**: Immer mehr Anbieter erheben den Anspruch, mit einer einzigen HR Software all-in-one sämtliche Bedürfnisse rund um das Personalmanagement erfüllen zu können. Sie sind oft modular aufgebaut, führen verschiedene HR-Prozesse zusammen und bieten einen ganzheitlichen Überblick. Etablierte Allrounder sind beispielsweise Workday, SAP SuccessFactors oder BambooHR.
 
@@ -54,7 +54,7 @@ Um die Ergebnisse miteinander vergleichen zu können, haben wir nur Personalmana
 
 ### SAP SuccessFactors
 
-SAP SuccessFactors ist Teil der deutschen SAP SE und mit circa 190 Millionen Nutzern in weltweit 12.000 Unternehmen der größte Player in diesem HR Software Vergleich. Seit der Gründung im Jahr 2001 hat es sich als Klassiker der HR Software für große Unternehmen etabliert.
+SAP SuccessFactors ist Teil der deutschen SAP SE und mit circa 190 Millionen Nutzern in weltweit 12.000 Unternehmen der größte Player in diesem HR Software-Vergleich. Seit der Gründung im Jahr 2001 hat es sich als Klassiker der HR Software für große Unternehmen etabliert.
 
 -   **Funktionsumfang**: SAP SuccessFactors präsentiert sich als umfassende Suite für das Human-Capital-Management. Es bietet alle Funktionen für die Personalverwaltung und Payroll, das Bewerber- und Talentmanagement, den Employee Self-Service sowie HR Analytics und [Personalplanung]({{< relref "posts/personalplanung" >}}). Zudem besitzt es [KI-Funktionen]({{< relref "posts/kuenstliche-intelligenz" >}}), um Prozesse zu optimieren und zu automatisieren.
 -   **Flexibilität**: Die HR Software lässt sich modular zusammenstellen und über Schnittstellen mit vielen anderen Systemen integrieren, z. B. ERP-Systemen oder BI-Tools. Allerdings richtet sie sich vor allem an große Unternehmen und internationale Konzerne mit komplexen Organisationsstrukturen und ist für kleine Teams nicht geeignet.
@@ -76,7 +76,7 @@ Workday wurde 2005 in den USA gegründet und gehört als großer Konkurrent von 
 
 ### Personio
 
-Personio ist eine cloudbasierte HR Software für mittelständische Unternehmen mit 10 bis 5.000 Mitarbeitern. Das deutsche Einhorn Start-up aus München baut seine Stellung vornehmlich auf dem europäischen Markt aus.
+Personio ist eine cloudbasierte HR Software für mittelständische Unternehmen mit 10 bis 5.000 Mitarbeitern. Das deutsche Einhorn-Start-up <!-- Muss der Begriff für die Zielgruppe erklärt werden? --> aus München baut seine Stellung vornehmlich auf dem europäischen Markt aus.
 
 -   **Funktionsumfang**: Als typisches HRIS enthält das Kernprodukt (Personio Core) nur Basis-Funktionen für die Personalverwaltung (z. B. Zeiterfassung, Personalplanung) und den Employee Self-Service. Erweiterte Funktionen wie Recruiting, Talent Management oder Payroll sind in zusätzliche Module ausgelagert. Auch automatisierte Prozesse und HR-Chatbots sind verfügbar.
 -   **Flexibilität**: Personio ist zwar modular aufgebaut und prinzipiell skalierbar, aber nicht für sehr kleine oder große Unternehmen geeignet. Integrationen mit einigen anderen Tools wie Microsoft Teams, Google Calendar oder Slack sind problemlos möglich. Ansonsten ist die Personalmanagement Software kaum indivualisierbar.
@@ -84,21 +84,21 @@ Personio ist eine cloudbasierte HR Software für mittelständische Unternehmen m
 -   **Bedienbarkeit**: Da die Funktionen eher einfach gehalten sind, besticht die Benutzeroberfläche durch eine intuitive Bedienung. Nach der Implementierung können sich Ihre Mitarbeiter ohne umfangreiche Schulungen direkt mit Personio vertraut machen. Individuelle Anpassungen an der Software sind nicht vorgesehen und würden IT-Kenntnisse erfordern.
 -   **Datenschutz**: Personio betreibt eine DSGVO-konforme Cloud mit hohen Sicherheitsstandards und Servern in Deutschland. Eine On-Premises-Version, mit der Kunden die volle Datenhoheit behalten würden, existiert nicht.
     
-Lesen Sie mehr über die [Erfahrungen von Personio Kunden]({{< relref "posts/personio-erfahrungen" >}}) oder sehen Sie sich direkt eine [Personio Alternative]({{< relref "pages/personio-alternative" >}}) an.
+Lesen Sie mehr über die [Erfahrungen von Personio-Kunden]({{< relref "posts/personio-erfahrungen" >}}) oder sehen Sie sich direkt eine [Personio-Alternative]({{< relref "pages/personio-alternative" >}}) an.
 
 ### HR works
 
 HR works ist eine klassische HR Software für den Mittelstand. Seit 1998 hat das deutsche Unternehmen aus Freiburg über 3.000 Kunden und circa 300.000 Nutzer bei der Personalarbeit unterstützt.
 
 -   **Funktionsumfang**: Im Wesentlichen dreht sich bei HR works alles um die Personaladministration. Klare Schwerpunkte setzt die HR Software nämlich bei der Reisekosten- und Lohnabrechnung und der Arbeitszeiterfassung. Aber auch Funktionen für das Bewerbermanagement, die Personalentwicklung, den Employee Self-Service und HR-Analytics sind vorhanden. Kleinere Automatisierungen und KI-Features sind bereits verfügbar.
--   **Flexibilität**: Insgesamt zeigt sich HRworks wenig flexibel. Da der Anbieter mit mindestens 20 Nutzern kalkuliert, ist die Software nicht für kleine Teams geeignet. Auch internationale Unternehmen sollten HRworks meiden, da es sich nur auf die DACH-Region konzentriert. Über vorgefertigte Schnittstellen sind zum Beispiel Integrationen mit DATEV und ADDISON möglich.
+-   **Flexibilität**: Insgesamt zeigt sich HRworks <!-- Wenn die Firma "HR works" geschrieben wird, sollten wir das auch so machen, unabhängig von Keywords, oder die falsche Schreibweise in einer FAQ packen.--> wenig flexibel. Da der Anbieter mit mindestens 20 Nutzern kalkuliert, ist die Software nicht für kleine Teams geeignet. Auch internationale Unternehmen sollten HRworks meiden, da es sich nur auf die DACH-Region konzentriert. Über vorgefertigte Schnittstellen sind zum Beispiel Integrationen mit DATEV und ADDISON möglich.
 -   **Kosteneffizienz**: Die Preisgestaltung ist undurchsichtig, weil HRworks keinerlei Informationen zu den Kosten veröffentlicht. Unüberprüfbaren Nutzerangaben zufolge beginnt das Basis-Abo mit 20 Lizenzen bei 258 Euro pro Monat. Angesichts der eher überschaubaren Funktionen wirkt dieses Preis-Leistungs-Verhältnis schlecht. Zudem müssen Sie mit einmaligen Implementierungskosten im vierstelligen Bereich rechnen.
 -   **Bedienbarkeit**: HR works überzeugt mit einer benutzerfreundlichen Oberfläche, übersichtlichen Dashboards und einfacher Navigation. Allerdings kann die Software von komplexeren Anforderungen überfordert sein und individuelle Anpassungen können nur IT-Fachkräfte vornehmen.
 -   **Datenschutz**: HR works betreibt seine Cloud in einem AWS-Rechenzentrum in Dublin. Da Irland zur EU gehört, können Sie Ihre Daten dort grundsätzlich gemäß DSGVO speichern. Allerdings besteht keine [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}), weil HRworks keine On-Premises-Variante anbietet und mit Amazon Web Services ausgerechnet einen US-Anbieter vorgibt.
 
 ### Factorial
 
-Factorial ist eine HR Software der Everyday Software S.L., die 2016 in Barcelona gegründet wurde. Das spanische Einhorn Start-up ist vor allem in Europa und Lateinamerika erfolgreich.
+Factorial ist eine HR Software der Everyday Software S.L., die 2016 in Barcelona gegründet wurde. Das spanische Einhorn-Start-up ist vor allem in Europa und Lateinamerika erfolgreich.
 
 -   **Funktionsumfang**: Factorial definiert sich als KI-gestützte All-in-one HR Software, die das Personalmanagement vereinfacht, automatisiert und an einem Ort bündelt. Tatsächlich gibt es viele Anwendungsfälle, bei denen die KI-Funktionen sehr hilfreich scheinen. Die weniger spektakulären Hauptfunktionen dienen der Erfassung von Arbeitszeiten und Abwesenheiten sowie dem Bewerber- und Talentmanagement.
 -   **Flexibilität**: Dank vieler verschiedener Module lässt sich die Software gut an unterschiedliche Bedürfnisse und Unternehmensgrößen anpassen. Factorial nutzt eine DATEV-Schnittstelle für die Gehaltsabrechnung. Über APIs kann man das System mit anderen Anwendungen integrieren.  
@@ -182,7 +182,7 @@ Als einziger Anbieter in diesem Vergleich geht SeaTable einen wirklich innovativ
 
 ## Fazit: Warum SeaTable das flexibelste HR Tool ist
 
-SeaTable sticht in diesem HR Software Vergleich deutlich heraus. Ein Grund dafür ist der revolutionäre [No-Code-Ansatz]({{< relref "posts/20250307-low-code" >}}): Anstatt sich mit einer vorgegebenen Software begnügen zu müssen, können Sie einfach Ihre eigenen Lösungen entwickeln und jederzeit an Ihre Bedürfnisse anpassen. Dank visueller Elemente sind dafür keine Programmierkenntnisse erforderlich, sodass prinzipiell jeder [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) werden kann. Folglich können Sie SeaTable nicht nur im Personalwesen, sondern auch in anderen Bereichen wie [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "pages/industry-solutions/kundenmanagement" >}}), [Finanzen]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) und [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) einsetzen. 
+SeaTable sticht in diesem HR Software-Vergleich deutlich heraus. Ein Grund dafür ist der revolutionäre [No-Code-Ansatz]({{< relref "posts/20250307-low-code" >}}): Anstatt sich mit einer vorgegebenen Software begnügen zu müssen, können Sie einfach Ihre eigenen Lösungen entwickeln und jederzeit an Ihre Bedürfnisse anpassen. Dank visueller Elemente sind dafür keine Programmierkenntnisse erforderlich, sodass prinzipiell jeder [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) werden kann. Folglich können Sie SeaTable nicht nur im Personalwesen, sondern auch in anderen Bereichen wie [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "pages/industry-solutions/kundenmanagement" >}}), [Finanzen]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) und [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) einsetzen. 
   
 SeaTable zeigt sich auf allen Ebenen außergewöhnlich flexibel, sei es bei der **Individualisierbarkeit der Prozesse und Anwendungen** oder bei der **Skalierbarkeit und Bereitstellungsart der Plattform**. Sie können Ihr HR System ganz nach Ihren Vorstellungen konzipieren und selbst entscheiden, ob Sie die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen oder [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) auf Ihrer eigenen Infrastruktur installieren möchten. Nicht zuletzt bekommen Sie für Ihr Geld eine All-in-one-Lösung, die mit einem hervorragenden Preis-Leistungs-Verhältnis punktet.
 
