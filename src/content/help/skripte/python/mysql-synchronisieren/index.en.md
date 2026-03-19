@@ -11,7 +11,6 @@ seo:
     description: 'Synchronize data from a MySQL database to SeaTable with this Python script. Compares records and adds only new entries.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script synchronizes data from a MySQL database to a SeaTable table. It compares existing records by name and only adds entries from MySQL that don't yet exist in SeaTable -- perfect for periodic one-way syncs.
 

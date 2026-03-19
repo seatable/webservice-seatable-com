@@ -11,7 +11,6 @@ seo:
     description: 'Führen Sie mehrere PDF-Dateien aus einer SeaTable-Zeile zu einem einzigen Dokument zusammen mit diesem Python-Skript.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript führt mehrere PDF-Dateien aus einer Dateispalte zu einem einzigen PDF-Dokument zusammen und speichert das Ergebnis zurück in die Zeile. Nützlich für das Zusammenführen von Rechnungen, Berichten oder anderen Dokumenten.
 

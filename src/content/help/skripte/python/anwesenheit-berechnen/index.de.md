@@ -11,7 +11,6 @@ seo:
     description: 'Verarbeiten Sie Stempelzeiten und erzeugen Sie tägliche Kommen-/Gehen-Statistiken pro Mitarbeiter mit diesem SeaTable Python-Skript.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript verarbeitet Zeiterfassungsdaten und erstellt eine tägliche Anwesenheitsstatistik. Für jeden Mitarbeiter und Tag wird der früheste Eintrag (Kommen) und der späteste Eintrag (Gehen) ermittelt und in eine separate Statistik-Tabelle geschrieben.
 

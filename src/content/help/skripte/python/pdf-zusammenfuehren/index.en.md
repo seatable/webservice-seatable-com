@@ -11,7 +11,6 @@ seo:
     description: 'Merge multiple PDF files from a SeaTable row into a single document with this Python script.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script merges multiple PDF files stored in a file column into a single PDF document and saves the result back to the row. This is useful for combining invoices, reports, or other documents.
 

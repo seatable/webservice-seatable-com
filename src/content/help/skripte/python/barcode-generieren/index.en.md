@@ -11,7 +11,6 @@ seo:
     description: 'Convert text to barcode images (Code 128) and store them in SeaTable with this Python script.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script converts text values (e.g., product IDs, serial numbers) into barcode images using the Code 128 format and saves them as images in SeaTable. Only rows without an existing barcode are processed.
 

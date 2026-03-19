@@ -11,7 +11,6 @@ seo:
     description: 'Use this Python script to automatically add recurring entries to your SeaTable base with duplicate checking, date handling and select option management.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script automatically adds monthly expense entries to a ledger table. It checks whether entries for the current month already exist and only creates new ones if needed. It also creates missing select options automatically.
 

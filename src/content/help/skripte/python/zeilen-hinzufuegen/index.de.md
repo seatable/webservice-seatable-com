@@ -11,7 +11,6 @@ seo:
     description: 'Mit diesem Python-Skript fügen Sie automatisch wiederkehrende Einträge in Ihre SeaTable-Base ein – mit Duplikat-Prüfung und Verwaltung von Auswahloptionen.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript fügt automatisch monatliche Ausgabeneinträge in eine Ledger-Tabelle ein. Es prüft, ob Einträge für den aktuellen Monat bereits existieren, und legt nur dann neue an, wenn nötig. Fehlende Auswahloptionen werden dabei automatisch erstellt.
 

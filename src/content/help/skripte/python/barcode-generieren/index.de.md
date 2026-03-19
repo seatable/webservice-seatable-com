@@ -11,7 +11,6 @@ seo:
     description: 'Konvertieren Sie Text in Barcode-Bilder (Code 128) und speichern Sie diese in SeaTable mit diesem Python-Skript.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript wandelt Textwerte (z.B. Produkt-IDs, Seriennummern) in Barcode-Bilder im Code-128-Format um und speichert sie als Bilder in SeaTable. Es werden nur Zeilen verarbeitet, die noch keinen Barcode haben.
 

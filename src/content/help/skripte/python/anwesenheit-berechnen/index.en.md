@@ -11,7 +11,6 @@ seo:
     description: 'Process clocking times to generate daily clock-in and clock-out statistics per employee with this SeaTable Python script.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script processes time records and generates daily attendance statistics. For each employee and day, it determines the earliest entry (clock-in) and the latest entry (clock-out) and writes the results to a separate statistics table.
 

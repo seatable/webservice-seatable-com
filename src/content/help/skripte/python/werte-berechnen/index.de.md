@@ -11,7 +11,6 @@ seo:
     description: 'Berechnen Sie mit diesem Python-Skript kumulierte Werte über Zeilen hinweg – mit Unterstützung für gruppierte und nicht-gruppierte Ansichten.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript berechnet kumulierte Werte (laufende Summen) über die Zeilen einer Tabelle. Für jede Zeile wird der aktuelle Wert zur Summe aller vorherigen Zeilen addiert und das Ergebnis in eine "Accumulated"-Spalte geschrieben. Gruppierte und nicht-gruppierte Ansichten werden automatisch behandelt.
 

@@ -11,7 +11,6 @@ seo:
     description: 'Rufen Sie aktuelle Aktienkurse von einer externen API ab und aktualisieren Sie Ihre SeaTable-Tabelle mit diesem Python-Skript.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript ruft aktuelle Aktienkurse von der Twelve Data API ab und aktualisiert die entsprechenden Zeilen in einer SeaTable-Tabelle. Es zeigt, wie Sie externe APIs aus einem SeaTable Python-Skript aufrufen können.
 

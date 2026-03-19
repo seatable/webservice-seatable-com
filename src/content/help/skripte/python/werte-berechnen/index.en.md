@@ -11,7 +11,6 @@ seo:
     description: 'Compute accumulated values across rows in SeaTable with this Python script. Supports both grouped and non-grouped views.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script calculates running totals (accumulated values) across rows in a table. For each row, it adds the current value to the sum of all previous rows and writes the result to an "Accumulated" column. It handles both grouped and non-grouped views automatically.
 

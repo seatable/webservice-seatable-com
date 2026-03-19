@@ -11,7 +11,6 @@ seo:
     description: 'Versenden Sie automatisierte E-Mails per SMTP direkt aus SeaTable mit diesem Python-Skript. Unterstützt Text, HTML und Dateianhänge.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript versendet E-Mails per SMTP direkt aus einem SeaTable Python-Skript. Sie können es für Benachrichtigungen, Berichte oder andere automatisierte E-Mails auf Basis Ihrer SeaTable-Daten verwenden. Das Skript unterstützt Klartext, HTML-Inhalte und Dateianhänge.
 

@@ -11,7 +11,6 @@ seo:
     description: 'Synchronisieren Sie Daten aus einer MySQL-Datenbank nach SeaTable mit diesem Python-Skript. Vergleicht Datensätze und fügt nur neue Einträge hinzu.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript synchronisiert Daten aus einer MySQL-Datenbank in eine SeaTable-Tabelle. Es vergleicht bestehende Datensätze anhand des Namens und fügt nur Einträge aus MySQL hinzu, die in SeaTable noch nicht existieren -- ideal für periodische Einweg-Synchronisierungen.
 

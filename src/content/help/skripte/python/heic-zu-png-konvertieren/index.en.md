@@ -11,7 +11,6 @@ seo:
     description: 'Automatically convert HEIC image files to PNG format and store them in SeaTable with this Python script.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script converts HEIC image files (commonly used by Apple devices) to PNG format. It reads HEIC files from one column, converts them, and saves the resulting PNG files to another column.
 

@@ -11,7 +11,6 @@ seo:
     description: 'Generieren Sie QR-Codes aus Text oder URLs und speichern Sie diese als Bilder direkt in SeaTable mit diesem Python-Skript.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 Dieses Skript generiert QR-Codes aus Textinhalten (z.B. URLs, Produkt-IDs), die in einer SeaTable-Spalte gespeichert sind, und speichert die erzeugten Bilder in einer Bildspalte. Sie können steuern, ob vorhandene QR-Codes überschrieben werden sollen.
 

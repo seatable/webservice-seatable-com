@@ -11,7 +11,6 @@ seo:
     description: 'Retrieve current stock prices from an external API and update your SeaTable table with this Python script.'
 ---
 
-{{< required-version "Enterprise" >}}
 
 This script retrieves current stock prices from the Twelve Data API and updates the corresponding rows in a SeaTable table. It demonstrates how to call external APIs from a SeaTable Python script.
 
