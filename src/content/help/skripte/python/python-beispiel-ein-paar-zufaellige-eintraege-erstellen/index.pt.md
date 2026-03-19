@@ -14,7 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Empresa" >}}
 
 Por vezes pretende-se gerar algumas entradas de amostra numa base. Com este guião Python pode gerar de poucos a muitos milhares de entradas em pouco tempo.
 

@@ -14,7 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Entreprise" >}}
 
 Parfois, on souhaite générer quelques exemples d'entrées dans une base. Avec ce script Python, vous pouvez générer très rapidement de quelques entrées à plusieurs milliers.
 
