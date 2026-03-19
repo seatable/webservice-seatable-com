@@ -11,7 +11,7 @@ seo:
     description: 'Erfahren Sie, welche Python-Module und -Pakete in SeaTable Cloud, Enterprise und auf dem Server unterstützt und wie sie integriert werden können.'
 ---
 
-Die Python Umgebung von SeaTable 5.0 (Oktober 2024) nutzt Python 3.11 und importiert die [Python Standard Library](https://docs.python.org/3.11/library/index.html). Die Standard Library enthält häufig genutzte Module wie os, sys, datetime, math und random. Diese können Sie unmittelbar in Ihren Python Skripten verwenden, indem Sie diese in Ihr Skript importieren.
+Die Python Umgebung von SeaTable 6.1 (März 2026) nutzt Python 3.12 und importiert die [Python Standard Library](https://docs.python.org/3.12/library/index.html). Die Standard Library enthält häufig genutzte Module wie os, sys, datetime, math und random. Diese können Sie unmittelbar in Ihren Python Skripten verwenden, indem Sie diese in Ihr Skript importieren.
 
 ## SeaTable Cloud
 

@@ -13,7 +13,7 @@ seo:
     description: 'Veja quais módulos Python podem ser usados no SeaTable Cloud, Enterprise e server e saiba incluir bibliotecas personalizadas.'
 ---
 
-O ambiente Python do SeaTable 5.0 (outubro de 2024) utiliza o Python 3.11 e importa a [Biblioteca Padrão do Python](https://docs.python.org/3.11/library/index.html). A Biblioteca Padrão contém módulos frequentemente utilizados, tais como os, sys, datetime, math e random. Pode utilizá-los diretamente nos seus scripts Python importando-os para o seu script.
+O ambiente Python do SeaTable 6.0 (outubro de 2025) utiliza o Python 3.12 e importa a [Biblioteca Padrão do Python](https://docs.python.org/3.12/library/index.html). A Biblioteca Padrão contém módulos frequentemente utilizados, tais como os, sys, datetime, math e random. Pode utilizá-los diretamente nos seus scripts Python importando-os para o seu script.
 
 ## SeaTable Cloud
 
