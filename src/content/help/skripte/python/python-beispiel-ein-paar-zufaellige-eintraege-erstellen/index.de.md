@@ -12,7 +12,6 @@ seo:
 
 ---
 
-{{< required-version "Enterprise" >}}
 
 Manchmal möchte man in einer Base ein paar Beispieleinträge generieren. Mit diesem Python-Skript können Sie in kürzester Zeit von einigen wenigen bis zu viele Tausende Einträge erzeugen.
 

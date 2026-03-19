@@ -14,7 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Enterprise" >}}
 
 Sometimes you want to generate a few sample entries in a base. With this Python script you can generate from a few to many thousands of entries in no time.
 
