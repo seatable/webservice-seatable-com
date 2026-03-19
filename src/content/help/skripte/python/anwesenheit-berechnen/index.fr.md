@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/fr/aide/python-statistiques-presence'
 seo:
     title: 'Python : Statistiques de présence dans SeaTable'
-    description: 'Traitez les pointages et générez des statistiques quotidiennes d'entrée et sortie par employé.'
+    description: "Traitez les pointages et générez des statistiques quotidiennes d'entrée et sortie par employé."
 ---
 
 Ce script traite les enregistrements de temps et génère des statistiques de présence quotidiennes. Pour chaque employé et jour, il détermine l'entrée la plus précoce (arrivée) et la plus tardive (départ) et écrit les résultats dans une table de statistiques séparée.
