@@ -48,7 +48,7 @@ SeaTable Cloud nutzt Python 3.12 mit folgenden vorinstallierten Drittanbieter-Bi
 - **ldap3** -- LDAP-Operationen
 - **markdown** -- Markdown-Konvertierung
 
-Die vollständige und aktuelle Liste finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/python/getting-started/).
+Die vollständige und aktuelle Liste finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/python/).
 
 ## Kann ich eigene Bibliotheken installieren?
 

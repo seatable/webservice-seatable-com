@@ -48,7 +48,7 @@ SeaTable Cloud runs Python 3.12 with the following third-party libraries pre-ins
 - **ldap3** -- LDAP operations
 - **markdown** -- Markdown conversion
 
-For the complete and up-to-date list, check the [SeaTable Developer Manual](https://developer.seatable.com/python/getting-started/).
+For the complete and up-to-date list, check the [SeaTable Developer Manual](https://developer.seatable.com/python/).
 
 ## Can I install custom libraries?
 
