@@ -140,7 +140,7 @@ sections:
         text: 'Mit Extract werten Sie unstrukturierte Informationen wie E-Mails, Protokolle oder Pitch-Decks aus und ziehen automatisch relevante Daten wie Budget, Nutzen, Risiken oder Sponsor. Diese landen im Projektportfolio Tool in eigenen Feldern und erleichtern die weitere Bewertung im Projektportfoliomanagement.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Laden Sie Scans, Screenshots oder PDF-Dokumente zu Projekten hoch und nutzen Sie die OCR-Funktion, um enthaltene Texte automatisch zu erkennen. So stehen Kennzahlen, Meilensteine oder Risikoindikatoren direkt in Ihrer Projektportfolio Vorlage bereit.'
+        text: 'Laden Sie Scans oder Screenshots zu Projekten hoch und nutzen Sie die OCR-Funktion, um enthaltene Texte automatisch zu erkennen. So stehen Kennzahlen, Meilensteine oder Risikoindikatoren direkt in Ihrer Projektportfolio Vorlage bereit.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
         text: 'Summarize fasst lange Statusberichte oder umfangreiche Kommentarthreads automatisch in wenigen Sätzen zusammen. In Kombination mit Ihrem Projektportfolio Tool erfassen Sie den Kern eines Projektabschnitts schneller und bereiten Portfolio-Reviews effizient vor.'

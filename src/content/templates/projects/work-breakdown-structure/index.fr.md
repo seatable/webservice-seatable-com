@@ -141,7 +141,7 @@ sections:
         text: 'Avec Extract, vous pouvez analyser des informations de projet non structurées telles que des protocoles ou des e-mails et extraire automatiquement les données pertinentes telles que les responsables, les délais ou les efforts nécessaires. Ces informations sont ensuite intégrées dans votre modèle de planification de structure de projet dans des champs dédiés, ce qui facilite la suite de la planification.'
         icon: layer-group
       - headline: 'Reconnaissance de texte avec OCR'
-        text: "Veuillez télécharger des numérisations, des captures d'écran ou des documents PDF pour la planification de projet et utiliser la fonction OCR pour reconnaître automatiquement les textes qu'ils contiennent. Ainsi, les étapes importantes, les budgets ou les risques sont directement disponibles dans votre modèle de plan de structure de projet."
+        text: "Téléchargez des scans ou des captures d'écran relatifs à la planification du projet et utilisez la fonction OCR pour reconnaître automatiquement les textes qu'ils contiennent. Ainsi, les jalons, les budgets ou les risques sont directement disponibles dans votre modèle de plan de structure du projet."
         icon: image
       - headline: 'Résumés automatiques avec Summarize'
         text: "Summarize résume automatiquement les longs rapports d'état ou les fils de commentaires volumineux en quelques phrases. En combinaison avec votre modèle de plan de structure de projet, vous pouvez saisir plus rapidement l'essentiel d'une phase de projet et préparer efficacement les réunions d'état d'avancement."

@@ -140,7 +140,7 @@ sections:
         text: 'Die Extract-Funktion analysiert unstrukturierte Eingaben und Anhänge wie Log-Dateien oder Fehlermeldungen und zieht automatisch relevante Informationen heraus. Fehlercodes, betroffene Module oder Zeitstempel landen in eigenen Feldern und machen Auswertungen im Bug Tracker System einfacher.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Laden Sie Screenshots, Log-Auszüge oder PDF-Fehlermeldungen hoch und nutzen Sie die OCR-Funktion, um enthaltene Texte automatisch zu erkennen. Relevante Informationen wie Fehlermeldungen, IDs oder Pfade stehen so direkt in Ihrem Bug Tracker zur weiteren Auswertung bereit.'
+        text: 'Laden Sie Screenshots oder Log-Auszüge hoch und nutzen Sie die OCR-Funktion, um enthaltene Texte automatisch zu erkennen. Relevante Informationen wie Fehlermeldungen, IDs oder Pfade stehen so direkt in Ihrem Bug Tracker zur weiteren Auswertung bereit.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
         text: 'Summarize fasst lange Diskussionen oder umfangreiche Fehlerberichte automatisch in wenigen Sätzen zusammen. Dadurch erfassen Sie den Kern eines Bugs schneller und können Statusrunden oder Übergaben vorbereiten, ohne jeden Kommentar vollständig lesen zu müssen.'

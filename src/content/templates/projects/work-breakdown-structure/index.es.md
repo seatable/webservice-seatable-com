@@ -141,7 +141,7 @@ sections:
         text: 'Con Extract, puede evaluar información de proyectos no estructurada, como registros o correos electrónicos, y extraer automáticamente datos relevantes, como responsables, plazos o esfuerzo. Estos datos se guardan en campos específicos de su plantilla de planificación de la estructura del proyecto y facilitan la planificación posterior.'
         icon: layer-group
       - headline: 'Reconocimiento de texto con OCR'
-        text: 'Suba escaneos, capturas de pantalla o documentos PDF para la planificación del proyecto y utilice la función OCR para reconocer automáticamente los textos que contienen. De este modo, los hitos, presupuestos o riesgos estarán disponibles directamente en su plantilla de plan de estructura del proyecto.'
+        text: 'Sube escaneos o capturas de pantalla relacionados con la planificación del proyecto y utiliza la función de OCR para reconocer automáticamente los textos que contienen. De este modo, los hitos, los presupuestos o los riesgos estarán disponibles directamente en tu plantilla del plan de estructura del proyecto.'
         icon: image
       - headline: 'Resúmenes automáticos con Summarize'
         text: 'Summarize resume automáticamente informes de estado largos o hilos de comentarios extensos en pocas frases. En combinación con su plantilla de plan estructural del proyecto, podrá captar más rápidamente la esencia de una fase del proyecto y preparar de forma eficiente las reuniones de estado.'

@@ -141,7 +141,7 @@ sections:
         text: 'Mit Extract werten Sie unstrukturierte Projektinformationen wie Protokolle oder E-Mails aus und ziehen automatisch relevante Daten wie Verantwortliche, Deadlines oder Aufwand. Diese landen in Ihrer Projektstrukturplanung Vorlage in eigenen Feldern und erleichtern die weitere Planung.'
         icon: layer-group
       - headline: 'Texterkennung mit OCR'
-        text: 'Laden Sie Scans, Screenshots oder PDF-Dokumente zur Projektplanung hoch und nutzen Sie die OCR-Funktion, um enthaltene Texte automatisch zu erkennen. So stehen Meilensteine, Budgets oder Risiken direkt in Ihrer Projektstrukturplan Vorlage bereit.'
+        text: 'Laden Sie Scans oder Screenshots zur Projektplanung hoch und nutzen Sie die OCR-Funktion, um enthaltene Texte automatisch zu erkennen. So stehen Meilensteine, Budgets oder Risiken direkt in Ihrer Projektstrukturplan Vorlage bereit.'
         icon: image
       - headline: 'Zusammenfassungen mit Summarize'
         text: 'Summarize fasst lange Statusberichte oder umfangreiche Kommentarthreads automatisch in wenigen Sätzen zusammen. In Kombination mit Ihrer Projektstrukturplan Vorlage erfassen Sie den Kern eines Projektabschnitts schneller und bereiten Statusrunden effizient vor.'

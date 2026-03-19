@@ -139,7 +139,7 @@ sections:
         text: 'With Extract, you can evaluate unstructured information such as emails, logs, or pitch decks and automatically extract relevant data such as budget, benefits, risks, or sponsors. This data is stored in separate fields in the project portfolio tool, facilitating further evaluation in project portfolio management.'
         icon: layer-group
       - headline: 'Text recognition with OCR'
-        text: 'Upload scans, screenshots, or PDF documents to projects and use the OCR function to automatically recognize text. This way, key figures, milestones, or risk indicators are available directly in your project portfolio template.'
+        text: 'Upload scans or screenshots to projects and use the OCR function to automatically recognise any text they contain. This means that key figures, milestones or risk indicators are immediately available in your project portfolio template.'
         icon: image
       - headline: 'Automated summaries with Summarize'
         text: 'Summarize automatically summarizes long status reports or extensive comment threads in just a few sentences. In combination with your project portfolio tool, you can grasp the essence of a project section more quickly and prepare portfolio reviews efficiently.'
