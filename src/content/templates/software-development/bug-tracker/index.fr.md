@@ -141,7 +141,7 @@ sections:
         text: "La fonction Extract analyse les entrées non structurées et les pièces jointes telles que les fichiers journaux ou les messages d'erreur, et extrait automatiquement les informations pertinentes. Les codes d'erreur, les modules concernés ou les horodatages sont placés dans des champs distincts, ce qui facilite les évaluations dans le système Bug Tracker."
         icon: layer-group
       - headline: 'Reconnaissance de texte avec OCR'
-        text: "Veuillez télécharger des captures d'écran, des extraits de journaux ou des messages d'erreur au format PDF et utiliser la fonction OCR pour reconnaître automatiquement les textes qu'ils contiennent. Les informations pertinentes telles que les messages d'erreur, les identifiants ou les chemins d'accès sont ainsi directement disponibles dans votre outil de suivi des bogues pour une analyse plus approfondie."
+        text: "Téléchargez des captures d'écran ou des extraits de journaux et utilisez la fonction OCR pour reconnaître automatiquement les textes qu'ils contiennent. Les informations pertinentes, telles que les messages d'erreur, les identifiants ou les chemins d'accès, sont ainsi directement disponibles dans votre outil de suivi des bogues pour une analyse plus approfondie."
         icon: image
       - headline: 'Résumés avec Summarize'
         text: "Summarize résume automatiquement les longues discussions ou les rapports d'erreurs volumineux en quelques phrases. Cela vous permet de saisir plus rapidement l'essence d'un bug et de préparer des réunions d'état ou des transferts sans devoir lire chaque commentaire dans son intégralité."

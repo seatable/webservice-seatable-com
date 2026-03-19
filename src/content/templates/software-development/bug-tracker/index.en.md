@@ -140,7 +140,7 @@ sections:
         text: 'The Extract function analyzes unstructured inputs and attachments such as log files or error messages and automatically extracts relevant information. Error codes, affected modules, or timestamps are placed in separate fields, making evaluations in the bug tracker system easier.'
         icon: layer-group
       - headline: 'Text recognition with OCR'
-        text: 'Upload screenshots, log extracts, or PDF error messages and use the OCR function to automatically recognize the text they contain. Relevant information such as error messages, IDs, or paths are then available directly in your bug tracker for further evaluation.'
+        text: 'Upload screenshots or log excerpts and use the OCR feature to automatically recognize the text they contain. Relevant information such as error messages, IDs, or paths will then be available directly in your bug tracker for further analysis.'
         icon: image
       - headline: 'Summaries with Summarize'
         text: 'Summarize automatically summarizes long discussions or extensive bug reports in just a few sentences. This allows you to grasp the essence of a bug more quickly and prepare status rounds or handovers without having to read every comment in full.'

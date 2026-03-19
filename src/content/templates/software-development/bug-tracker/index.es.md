@@ -141,7 +141,7 @@ sections:
         text: 'La función Extract analiza entradas y archivos adjuntos no estructurados, como archivos de registro o mensajes de error, y extrae automáticamente la información relevante. Los códigos de error, los módulos afectados o las marcas de tiempo se guardan en campos específicos, lo que facilita las evaluaciones en el sistema Bug Tracker.'
         icon: layer-group
       - headline: 'Reconocimiento de texto con OCR'
-        text: 'Suba capturas de pantalla, extractos de registros o mensajes de error en PDF y utilice la función OCR para reconocer automáticamente los textos que contienen. De este modo, la información relevante, como mensajes de error, ID o rutas, estará disponible directamente en su gestor de errores para su posterior evaluación.'
+        text: 'Suba capturas de pantalla o extractos de registros y utilice la función de OCR para reconocer automáticamente los textos que contienen. De este modo, la información relevante, como mensajes de error, identificadores o rutas, estará disponible directamente en su gestor de incidencias para su posterior análisis.'
         icon: image
       - headline: 'Resúmenes con Summarize'
         text: 'Summarize resume automáticamente largas discusiones o informes de errores extensos en unas pocas frases. Esto le permite captar más rápidamente la esencia de un error y preparar reuniones de estado o traspasos sin tener que leer cada comentario en su totalidad.'

@@ -139,7 +139,7 @@ sections:
       - headline: 'Extraction de données avec Extract'
         text: "Avec Extract, vous pouvez analyser des informations non structurées telles que des e-mails, des protocoles ou des présentations commerciales et extraire automatiquement des données pertinentes telles que le budget, les avantages, les risques ou le sponsor. Ces données sont enregistrées dans des champs spécifiques de l'outil de gestion de portefeuille de projets, ce qui facilite leur évaluation ultérieure dans le cadre de la gestion du portefeuille de projets."
       - headline: 'Reconnaissance de texte avec OCR'
-        text: "Veuillez télécharger des numérisations, des captures d'écran ou des documents PDF vers des projets et utiliser la fonction OCR pour reconnaître automatiquement les textes qu'ils contiennent. Ainsi, les indicateurs clés, les jalons ou les indicateurs de risque sont directement disponibles dans votre modèle de portefeuille de projets."
+        text: "Téléchargez des numérisations ou des captures d'écran vers vos projets et utilisez la fonction OCR pour reconnaître automatiquement les textes qu'ils contiennent. Ainsi, les indicateurs clés, les jalons ou les indicateurs de risque sont directement disponibles dans votre modèle de portefeuille de projets."
         icon: image
       - headline: 'Résumés automatisés avec Summarize'
         text: "Summarize résume automatiquement les longs rapports d'état ou les fils de commentaires volumineux en quelques phrases. En combinaison avec votre outil de gestion de portefeuille de projets, vous pouvez saisir plus rapidement l'essence d'une phase de projet et préparer efficacement les revues de portefeuille."

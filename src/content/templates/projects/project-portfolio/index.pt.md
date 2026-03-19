@@ -140,7 +140,7 @@ sections:
         text: 'Com o Extract, é possível avaliar informações não estruturadas, como e-mails, protocolos ou apresentações, e extrair automaticamente dados relevantes, como orçamento, benefícios, riscos ou patrocinadores. Esses dados são armazenados em campos específicos na ferramenta de portfólio de projetos, facilitando a avaliação posterior na gestão do portfólio de projetos.'
         icon: layer-group
       - headline: 'Reconhecimento de texto com OCR'
-        text: 'Carregue digitalizações, capturas de ecrã ou documentos PDF para projetos e utilize a função OCR para reconhecer automaticamente os textos contidos. Desta forma, os indicadores, marcos ou indicadores de risco ficam diretamente disponíveis no seu modelo de portfólio de projetos.'
+        text: 'Carregue digitalizações ou capturas de ecrã para os projetos e utilize a função OCR para reconhecer automaticamente os textos incluídos. Desta forma, os indicadores-chave, marcos ou indicadores de risco ficam disponíveis diretamente no seu modelo de portfólio de projetos.'
         icon: image
       - headline: 'Resumos automatizados com o Summarize'
         text: 'O ummarize resume automaticamente longos relatórios de estado ou extensas discussões em fóruns em poucas frases. Em combinação com a sua ferramenta de portfólio de projetos, pode captar mais rapidamente a essência de uma fase do projeto e preparar revisões de portfólio de forma eficiente.'

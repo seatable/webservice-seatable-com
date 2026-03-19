@@ -140,7 +140,7 @@ sections:
         text: 'Con Extract, puede evaluar información no estructurada, como correos electrónicos, protocolos o presentaciones, y extraer automáticamente datos relevantes, como el presupuesto, los beneficios, los riesgos o los patrocinadores. Estos datos se almacenan en campos específicos de la herramienta de cartera de proyectos y facilitan su posterior evaluación en la gestión de la cartera de proyectos.'
         icon: layer-group
       - headline: 'Reconocimiento de texto con OCR'
-        text: 'Suba escaneos, capturas de pantalla o documentos PDF a los proyectos y utilice la función OCR para reconocer automáticamente los textos que contienen. De este modo, los indicadores clave, los hitos o los indicadores de riesgo estarán disponibles directamente en su plantilla de cartera de proyectos.'
+        text: 'Suba escaneos o capturas de pantalla a los proyectos y utilice la función de OCR para reconocer automáticamente los textos que contienen. De este modo, las cifras clave, los hitos o los indicadores de riesgo estarán disponibles directamente en su plantilla de cartera de proyectos.'
         icon: image
       - headline: Resúmenes automatizados con Summarize'
         text: 'Summarize resume automáticamente informes de estado largos o hilos de comentarios extensos en pocas frases. En combinación con su herramienta de cartera de proyectos, podrá captar más rápidamente la esencia de una fase del proyecto y preparar de forma eficiente las revisiones de la cartera.'

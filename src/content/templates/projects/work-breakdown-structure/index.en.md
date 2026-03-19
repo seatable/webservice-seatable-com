@@ -140,7 +140,7 @@ sections:
         text: 'With Extract, you can evaluate unstructured project information such as logs or emails and automatically extract relevant data such as responsible persons, deadlines, or effort. This data is entered into separate fields in your project structure planning template, facilitating further planning.'
         icon: layer-group
       - headline: 'Text recognition with OCR'
-        text: 'Upload scans, screenshots, or PDF documents for project planning and use the OCR function to automatically recognize text. This way, milestones, budgets, or risks are available directly in your project structure plan template.'
+        text: 'Upload scans or screenshots of your project plans and use the OCR function to automatically recognise any text they contain. This means that milestones, budgets and risks are immediately available in your project structure plan template.'
         icon: image
       - headline: 'Automated summaries with Summarize'
         text: 'Summarize automatically summarizes long status reports or extensive comment threads in just a few sentences. In combination with your project structure plan template, you can grasp the essence of a project section more quickly and prepare status rounds efficiently.'
