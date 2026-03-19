@@ -14,7 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Empresa" >}}
 
 A veces quieres generar unas cuantas entradas de muestra en una base. Con este script de Python puedes generar desde unas pocas hasta muchos miles de entradas en poco tiempo.
 
