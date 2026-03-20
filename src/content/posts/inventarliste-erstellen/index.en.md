@@ -164,3 +164,18 @@ Most companies have to keep an inventory list. An inventory list standardizes an
 Think about **what information** you need about your inventory, **who** is involved in the inventory and **how many people** need access to the data. **How** do you want to prepare the data and **which functions** are required for this?
 
 Once you have clarified these basic questions, it's easy to get started. If you would like to use the SeaTable template for your inventory list, [register for free]({{< relref "pages/registration" >}}) and get started right away.
+
+## FAQ: Creating an Inventory List
+
+{{< faq "What information must be included in an inventory list?" >}}
+The inventory list should include the name of the asset, the type or category, the quantity counted, the condition, the current value, the storage location, and the date of entry.
+{{< /faq >}}
+{{< faq "Can I use the SeaTable inventory list template for free?" >}}
+Yes, you can download the template after registering and use it for free to manage your inventory digitally.
+{{< /faq >}}
+{{< faq "How do I get started with the inventory list template?" >}}
+After logging in, add the inventory list template as a new base. Simply remove the sample data and replace it with your own information. The structure can be flexibly adapted to your needs, while the import wizard makes transferring your existing data a breeze.
+{{< /faq >}}
+{{< faq "How can I record inventory during a stock take?" >}}
+SeaTable supports mobile data entry. Using web-based forms optimized for smartphones, new items or inventory changes can be entered directly on-site in the warehouse or office without the need for a PC.
+{{< /faq >}}

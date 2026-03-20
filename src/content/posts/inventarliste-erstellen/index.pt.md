@@ -165,3 +165,18 @@ A maioria das empresas tem de manter uma lista de inventário. Uma lista de inve
 Pense nas **informações** de que precisa sobre o seu inventário, **quem** está envolvido no inventário e **quantas pessoas** precisam de ter acesso aos dados. **Como** pretende preparar os dados e **que funções** são necessárias para o efeito?
 
 Depois de esclarecer estas questões básicas, é fácil começar. Se pretender utilizar o modelo SeaTable para a sua lista de inventário, [registe-se gratuitamente]({{< relref "pages/registration" >}}) e comece já a trabalhar.
+
+## FAQ: Criar uma lista de inventário
+
+{{< faq "Que informações devem ser obrigatoriamente incluídas numa lista de inventário?" >}}
+A lista de inventário deve incluir a designação do bem, o tipo ou categoria, a quantidade contabilizada, o estado, o valor atual, o local de armazenamento e a data de registo.
+{{< /faq >}}
+{{< faq "Posso utilizar o modelo de lista de inventário do SeaTable gratuitamente?" >}}
+Sim, pode descarregar o modelo após o registo e utilizá-lo gratuitamente para gerir digitalmente os seus stocks.
+{{< /faq >}}
+{{< faq "Como começo a utilizar o modelo de lista de inventário?" >}}
+Após o login, adicione o modelo de lista de inventário como uma nova base. Basta remover os dados de exemplo e substituí-los pelas suas próprias informações. A estrutura pode ser adaptada de forma flexível às suas necessidades, enquanto o assistente de importação facilita a transferência dos seus dados existentes.
+{{< /faq >}}
+{{< faq "Como posso registar os stocks durante um inventário?" >}}
+O SeaTable suporta a recolha de dados móvel. Através de formulários baseados na web, otimizados para smartphones, é possível registar novos itens ou alterações de stock diretamente no local, no armazém ou no escritório, sem necessidade de um computador.
+{{< /faq >}}

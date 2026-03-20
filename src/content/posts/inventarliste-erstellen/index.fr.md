@@ -165,3 +165,19 @@ La plupart des entreprises doivent tenir une liste d'inventaire. Pour ce faire, 
 Réfléchissez aux **informations dont** vous avez besoin sur votre inventaire, aux **personnes** impliquées dans l'inventaire et **au nombre de personnes qui** doivent avoir accès aux données. **Comment** souhaitez-vous préparer les données et **quelles sont les fonctions** nécessaires à cet effet ?
 
 Une fois que vous avez répondu à ces questions de base, vous pouvez facilement passer à la mise en œuvre. Si vous souhaitez utiliser le modèle SeaTable pour votre inventaire, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et commencez directement.
+
+
+## FAQ Créer une liste d'inventaire
+
+{{< faq "Quelles informations doivent impérativement figurer dans une liste d'inventaire ?" >}}
+La liste d'inventaire doit contenir la désignation du bien, le type ou la catégorie, la quantité comptée, l'état, la valeur actuelle, le lieu de stockage et la date d'enregistrement.
+{{< /faq >}}
+{{< faq "Puis-je utiliser gratuitement le modèle de liste d'inventaire SeaTable ?" >}}
+Oui, vous pouvez télécharger le modèle après vous être inscrit et l'utiliser gratuitement pour gérer numériquement vos stocks.
+{{< /faq >}}
+{{< faq "Comment commencer à utiliser le modèle de liste d'inventaire ?" >}}
+Une fois connecté, ajoutez le modèle de liste d'inventaire en tant que nouvelle base. Il vous suffit de supprimer les données d'exemple et de les remplacer par vos propres informations. La structure peut être adaptée de manière flexible à vos besoins, tandis que l'assistant d'importation facilite grandement le transfert de vos données existantes.
+{{< /faq >}}
+{{< faq "Comment puis-je saisir les stocks lors d'un inventaire ?" >}}
+SeaTable prend en charge la saisie mobile des données. Grâce à des formulaires web optimisés pour les smartphones, vous pouvez saisir de nouveaux articles ou des modifications de stock directement sur place, dans l'entrepôt ou au bureau, sans avoir besoin d'un PC.
+{{< /faq >}}
