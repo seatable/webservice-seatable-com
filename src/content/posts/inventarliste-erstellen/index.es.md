@@ -164,3 +164,18 @@ La mayoría de las empresas tienen que llevar una lista de inventario. Una lista
 Piense **qué información** necesita sobre su inventario, **quién** participa en él y **cuántas personas** necesitan acceder a los datos. **¿Cómo** quiere preparar los datos y **qué funciones** son necesarias para ello?
 
 Una vez aclaradas estas cuestiones básicas, es fácil empezar. Si desea utilizar la plantilla SeaTable para su lista de inventario, [regístrese gratuitamente]({{< relref "pages/registration" >}}) y empiece de inmediato.
+
+## Preguntas frecuentes: Crear una lista de inventario
+
+{{< faq "¿Qué información es imprescindible incluir en una lista de inventario?" >}}
+La lista de inventario debe incluir la denominación del activo, el tipo o categoría, la cantidad contabilizada, el estado, el valor actual, el lugar de almacenamiento y la fecha de registro.
+{{< /faq >}}
+{{< faq "¿Puedo utilizar la plantilla de listas de inventario de SeaTable de forma gratuita?" >}}
+Sí, puede descargar la plantilla tras registrarse y utilizarla de forma gratuita para gestionar digitalmente sus existencias.
+{{< /faq >}}
+{{< faq "¿Cómo empiezo a utilizar la plantilla para la lista de inventario?" >}}
+Después de iniciar sesión, añada la plantilla de listas de inventario como una nueva base. Simplemente elimine los datos de ejemplo y sustitúyalos por su propia información. La estructura se puede adaptar de forma flexible a sus necesidades, mientras que el asistente de importación hace que la transferencia de sus datos existentes sea muy sencilla.
+{{< /faq >}}
+{{< faq "¿Cómo puedo registrar las existencias durante un inventario?" >}}
+SeaTable admite el registro de datos móvil. A través de formularios web optimizados para smartphones, se pueden introducir nuevos artículos o cambios en las existencias directamente in situ, en el almacén o en la oficina, sin necesidad de un ordenador.
+{{< /faq >}}

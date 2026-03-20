@@ -164,3 +164,18 @@ Die meisten Unternehmen müssen eine Inventarliste führen. Dabei standardisiert
 Überlegen Sie, **welche Informationen** Sie über Ihr Inventar benötigen, **wer** an der Inventur beteiligt ist und **wie viele Beteiligte** Zugriff auf die Daten benötigen. **Wie** möchten Sie die Daten aufbereiten und **welche Funktionen** sind dafür nötig?
 
 Sobald Sie diese grundlegenden Fragen geklärt haben, starten Sie ganz einfach in die Umsetzung. Wenn Sie die SeaTable Vorlage für Ihre Inventarliste nutzen möchten, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und legen Sie direkt los.
+
+## FAQ Inventarliste erstellen
+
+{{< faq "Welche Informationen sollten in einer Inventarliste zwingend erfasst werden?" >}}
+Die Inventarliste sollte die Bezeichnung des Vermögensgegenstände, die Art oder Kategorie, die gezählte Menge, den Zustand, den aktuellen Wert, den Lagerort und  den Zeitpunkt der Erfassung enthalten.
+{{< /faq >}}
+{{< faq "Kann ich die SeaTable Inventarlisten Vorlage kostenlos nutzen?" >}}
+Ja, Sie können sich die Vorlage nach Registrierung herunterladen und kostenlos nutzen um Ihre Bestände digital zu verwalten.
+{{< /faq >}}
+{{< faq "Wie starte ich mit der Vorlage für die Inventarliste?" >}}
+Nach dem Login fügen Sie die Inventarlisten-Vorlage als neue Base hinzu. Entfernen Sie einfach die Beispieldaten und ersetzen Sie diese durch Ihre eigenen Informationen. Die Struktur lässt sich dabei flexibel an Ihre Bedürfnisse anpassen, während der Import-Assistent die Übernahme Ihrer bestehenden Daten zum Kinderspiel macht.
+{{< /faq >}}
+{{< faq "Wie kann ich die Bestände bei einer Inventur erfassen?" >}}
+SeaTable unterstützt die mobile Datenerfassung. Über webbasierte Formulare, die für Smartphones optimiert sind, können neue Gegenstände oder Bestandsänderungen direkt vor Ort im Lager oder im Büro eingetragen werden, ohne dass ein PC benötigt wird.
+{{< /faq >}}
