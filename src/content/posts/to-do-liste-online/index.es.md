@@ -62,7 +62,7 @@ Existe una gran variedad de aplicaciones de listas de tareas. A continuación pu
 
 ### Todoist: alternativa completa a Wunderlist
 
-Una de las herramientas más utilizadas para hacer listas de tareas online era Wunderlist. Después de que la app dejara de funcionar en 2020, los usuarios tuvieron que buscar alternativas. [Todoist](https://todoist.com/de) ofrece una de esas alternativas.
+Una de las herramientas más utilizadas para hacer listas de tareas online era Wunderlist. Después de que la app dejara de funcionar en 2020, los usuarios tuvieron que buscar alternativas. [Todoist](https://www.todoist.com/de) ofrece una de esas alternativas.
 
 Puedes introducir rápidamente tus tareas, añadir descripciones, secciones y subtareas y establecer plazos y recordatorios recurrentes. Otras funciones son las prioridades, las etiquetas y los filtros, que te permiten destacar siempre las entradas que necesitas en cada momento.
 

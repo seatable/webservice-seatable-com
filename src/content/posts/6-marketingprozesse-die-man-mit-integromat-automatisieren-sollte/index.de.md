@@ -71,7 +71,7 @@ In dieser Tabelle können Sie und Ihr Team nun nach Lust und Laune neue Ideen f�
 
 Diese Automation ist eine perfekte Ergänzung zum vorherigen Workflow. Denn sobald ein neuer Blogpost veröffentlicht wurde, fängt normalerweise die Arbeit der Marketingabteilung erst an. Soll der neue Artikel auf LinkedIn, Medium.com oder Twitter erwähnt werden? Wo landet der Artikel nach ein paar Tagen im Google Ranking? Typischerweise hat jede Marketingabteilung eine Checkliste, die im Falle von neuen Artikel abgearbeitet wird. Genau diese Checkliste soll mit diesem Workflow vereinfacht werden.
 
-Sobald ein Artikel auf WordPress veröffentlicht wird, wird ein neuer Eintrag in der SEO-Checkliste in SeaTable angelegt. Zusätzlich kann in [Todoist](https://todoist.com/) eine neue Aufgabe angelegt werden oder eine Nachricht in einen Slack-Kanal gepostet werden, damit das Team über den neuen Arbeitsauftrag informiert wird. Diese einfache Automation verhindert zuverlässig, dass kein neuer Artikel übersehen wird.
+Sobald ein Artikel auf WordPress veröffentlicht wird, wird ein neuer Eintrag in der SEO-Checkliste in SeaTable angelegt. Zusätzlich kann in [Todoist](https://www.todoist.com/) eine neue Aufgabe angelegt werden oder eine Nachricht in einen Slack-Kanal gepostet werden, damit das Team über den neuen Arbeitsauftrag informiert wird. Diese einfache Automation verhindert zuverlässig, dass kein neuer Artikel übersehen wird.
 
 ## 6\. Vorbereitung für das perfekte Meeting
 

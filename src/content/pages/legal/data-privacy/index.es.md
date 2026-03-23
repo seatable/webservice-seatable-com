@@ -482,7 +482,7 @@ We have no influence on the storage duration of your data stored by the operator
 
 ### TeamViewer
 
-This online service uses the web meeting and remote maintenance software TeamViewer. The provider is TeamViewer Germany GmbH, Jahnstraße 30, 73037 Göppingen, Germany (TeamViewer). Details on data processing when using TeamViewer can be found in TeamViewer's privacy policy at [https://www.teamviewer.com/de/datenschutzerklaerung](https://www.teamviewer.com/de/datenschutzerklaerung/).
+This online service uses the web meeting and remote maintenance software TeamViewer. The provider is TeamViewer Germany GmbH, Jahnstraße 30, 73037 Göppingen, Germany (TeamViewer). Details on data processing when using TeamViewer can be found in TeamViewer's privacy policy at [https://www.teamviewer.com/de/datenschutzerklaerung](https://www.teamviewer.com/de/legal/privacy-and-cookies/).
 
 **Conclusion of an order processing agreement**  
 We have concluded an order processing agreement with the provider of TeamViewer and fully implement the strict requirements of the German data protection authorities when using TeamViewer.

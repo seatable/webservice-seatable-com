@@ -86,7 +86,7 @@ sections:
             text: <span class='gradient'>seatable.io</span> geht online
           - date: 11/2020
             text: Erste Erwähnung in der <span class='gradient'>deutschen IT-Presse</span>
-            link: https://www.pcwelt.de/ratgeber/Tabellenkalkulation-aus-der-Cloud-datenschutzrechtlich-problematisch-10927426.html
+            link: https://www.pcwelt.de/article/1191135/tabellenkalkulation-aus-der-cloud-datenschutzrechtlich-problematisch.html
           - date: 04/2021
             text: <span class='gradient'>SeaTable 2.0</span> erscheint
           - date: 07/2021

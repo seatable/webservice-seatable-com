@@ -71,7 +71,7 @@ Nesta tabela, você e a sua equipa podem agora desenvolver novas ideias para os 
 
 Esta automatização é um complemento perfeito do fluxo de trabalho anterior. Porque uma vez publicado um novo post no blogue, o trabalho do departamento de marketing normalmente só começa. O novo artigo deve ser mencionado no LinkedIn, Medium.com ou Twitter? Onde é que o artigo vai parar no ranking do Google após alguns dias? Tipicamente, cada departamento de marketing tem uma lista de verificação que é trabalhada no caso de novos artigos. Este fluxo de trabalho destina-se a simplificar precisamente esta lista de verificação.
 
-Assim que um artigo é publicado no WordPress, é criada uma nova entrada na lista de verificação SEO no SeaTable. Além disso, uma nova tarefa pode ser criada em [Todoist](https://todoist.com/) ou uma mensagem pode ser afixada num canal Slack para que a equipa seja informada sobre a nova ordem de trabalho. Esta automatização simples evita de forma fiável que qualquer novo item seja ignorado.
+Assim que um artigo é publicado no WordPress, é criada uma nova entrada na lista de verificação SEO no SeaTable. Além disso, uma nova tarefa pode ser criada em [Todoist](https://www.todoist.com/) ou uma mensagem pode ser afixada num canal Slack para que a equipa seja informada sobre a nova ordem de trabalho. Esta automatização simples evita de forma fiável que qualquer novo item seja ignorado.
 
 ## 6\. preparação para a reunião perfeita
 

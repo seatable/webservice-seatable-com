@@ -18,7 +18,7 @@ SeaTable bietet aktuell zwei Zahlungsmethoden an:
 - Zahlung per Kreditkarte
 - Zahlung auf Rechnung
 
-Die Zahlung per **Kreditkarte** ist dabei die Bezahlmethode, die in den allermeisten Fällen zum Einsatz kommt. Dank unseres Zahlungsdienstleisters [Stripe](https://stripe.com) akzeptieren wir Zahlungen per Visa, Mastercard, American Express, China UnionPay, Discover, Diners und Cartes Bancaires.
+Die Zahlung per **Kreditkarte** ist dabei die Bezahlmethode, die in den allermeisten Fällen zum Einsatz kommt. Dank unseres Zahlungsdienstleisters [Stripe](https://stripe.com/de) akzeptieren wir Zahlungen per Visa, Mastercard, American Express, China UnionPay, Discover, Diners und Cartes Bancaires.
 
 Die zweite mögliche Zahlungsmethode stellt die **Bezahlung auf Rechnung** dar, die hingegen nur unter bestimmten Voraussetzungen möglich ist. Welche dies sind, erfahren Sie im Hilfeartikel [Bezahlung per Rechnung]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).
 

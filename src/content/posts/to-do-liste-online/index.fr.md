@@ -61,7 +61,7 @@ Le choix dans le domaine des applications de listes de choses à faire est vaste
 
 ### Todoist : alternative complète à Wunderlist
 
-L'un des outils les plus répandus pour les listes de choses à faire en ligne était Wunderlist. Après l'arrêt de l'application en 2020, les utilisateurs ont dû se tourner vers des alternatives. [Todoist](https://todoist.com/de) en est une.
+L'un des outils les plus répandus pour les listes de choses à faire en ligne était Wunderlist. Après l'arrêt de l'application en 2020, les utilisateurs ont dû se tourner vers des alternatives. [Todoist](https://www.todoist.com/de) en est une.
 
 Vous pouvez saisir rapidement vos tâches, ajouter des descriptions, des sections et des sous-tâches et définir des dates et des rappels récurrents. D'autres fonctionnalités sont les priorités, les étiquettes et les filtres qui vous permettent de toujours mettre en évidence les entrées dont vous avez besoin à un moment donné.
 

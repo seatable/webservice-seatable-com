@@ -191,7 +191,7 @@ Force yourself to think about content in this structured way to truly be the mas
 
 ### Monitor the actual access figures
 
-You will quickly notice that with good articles you can observe an increase in organic traffic to your website after just a few weeks. Make the effort and save the access figures of your articles regularly. In the beginning you should still take the numbers manually from [Google Analytics](https://analytics.google.com/analytics/web/), later you can set up automatic data collection, e.g. with [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) or the [SeaTable API](https://api.seatable.com).
+You will quickly notice that with good articles you can observe an increase in organic traffic to your website after just a few weeks. Make the effort and save the access figures of your articles regularly. In the beginning you should still take the numbers manually from [Google Analytics](https://analytics.google.com/analytics/web/), later you can set up automatic data collection, e.g. with [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) or the [SeaTable API](https://api.seatable.com).
 
 You will see that it is worthwhile to record these evaluations in SeaTable in order to subsequently display the figures as statistics in a bar, line or pie chart.
 

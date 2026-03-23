@@ -35,7 +35,7 @@ Trabajar en equipos remotos requiere estrategias y prácticas diferentes para au
 
 Si los empleados están dispersos por distintos lugares, el jefe de ventas debe comunicar los objetivos y procesos de ventas para que los vendedores estén siempre al tanto de su trabajo diario y de los objetivos del equipo.
 
-Establecer expectativas claras da a los trabajadores a distancia varias pautas a seguir, como objetivos de ventas, procedimientos específicos en línea para identificar clientes potenciales, procedimientos para llamar en frío a clientes potenciales, métodos para cerrar tratos y procedimientos para cuando surgen problemas. Según una [encuesta de Gallup entre trabajadores alemanes](http://www.gallup.com/businessjournal/186164/employees-don-know-expected-work.aspx), estas prácticas animan a los trabajadores a distancia a tomar iniciativas adicionales y a rendir más.
+Establecer expectativas claras da a los trabajadores a distancia varias pautas a seguir, como objetivos de ventas, procedimientos específicos en línea para identificar clientes potenciales, procedimientos para llamar en frío a clientes potenciales, métodos para cerrar tratos y procedimientos para cuando surgen problemas. Según una [encuesta de Gallup entre trabajadores alemanes](https://www.gallup.com/workplace/697904/state-of-the-global-workplace-global-data.aspx), estas prácticas animan a los trabajadores a distancia a tomar iniciativas adicionales y a rendir más.
 
 Otra opción es celebrar sesiones de feedback con los vendedores para evaluar su rendimiento, identificar áreas de mejora y crear un plan de desarrollo. Organice también reuniones frecuentes por videoconferencia para asegurarse de que su departamento de ventas se mantiene informado y conectado.
 

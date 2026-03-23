@@ -36,7 +36,7 @@ Working in remote teams requires different strategies and practices to increase 
 
 If employees are scattered across different locations, a sales manager should communicate sales goals and processes so that salespeople are always aware of their daily work and team goals.
 
-Setting clear expectations gives remote workers a variety of guidelines to follow, such as sales goals, specific online procedures for identifying leads, procedures for cold-calling prospects, methods for closing deals, and procedures for when problems arise. According to a [Gallup survey of German workers](http://www.gallup.com/businessjournal/186164/employees-don-know-expected-work.aspx), such practices encourage remote workers to take extra initiative and perform better.
+Setting clear expectations gives remote workers a variety of guidelines to follow, such as sales goals, specific online procedures for identifying leads, procedures for cold-calling prospects, methods for closing deals, and procedures for when problems arise. According to a [Gallup survey of German workers](https://www.gallup.com/workplace/697904/state-of-the-global-workplace-global-data.aspx), such practices encourage remote workers to take extra initiative and perform better.
 
 Another option is to conduct feedback sessions with sales reps to assess their performance, identify opportunities for improvement, and create a development plan. Also, organize frequent meetings via video conferencing to ensure your sales department stays informed and connected.
 

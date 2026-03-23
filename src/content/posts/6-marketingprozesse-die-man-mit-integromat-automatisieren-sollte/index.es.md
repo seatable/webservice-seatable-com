@@ -71,7 +71,7 @@ En esta mesa, usted y su equipo pueden desarrollar nuevas ideas para los artícu
 
 Esta automatización es un complemento perfecto del flujo de trabajo anterior. Porque una vez que se ha publicado una nueva entrada en el blog, el trabajo del departamento de marketing no suele hacer más que empezar. ¿Debe mencionarse el nuevo artículo en LinkedIn, Medium.com o Twitter? ¿Dónde acabará el artículo en el ranking de Google después de unos días? Por lo general, todos los departamentos de marketing tienen una lista de control que se utiliza en el caso de nuevos artículos. Este flujo de trabajo pretende simplificar precisamente esta lista de comprobación.
 
-En cuanto se publica un artículo en WordPress, se crea una nueva entrada en la lista de control de SEO en SeaTable. Además, se puede crear una nueva tarea en [Todoist](https://todoist.com/) o publicar un mensaje en un canal de Slack para que el equipo esté informado de la nueva orden de trabajo. Esta sencilla automatización evita de forma fiable que se pase por alto cualquier novedad.
+En cuanto se publica un artículo en WordPress, se crea una nueva entrada en la lista de control de SEO en SeaTable. Además, se puede crear una nueva tarea en [Todoist](https://www.todoist.com/) o publicar un mensaje en un canal de Slack para que el equipo esté informado de la nueva orden de trabajo. Esta sencilla automatización evita de forma fiable que se pase por alto cualquier novedad.
 
 ## 6\. preparación de la reunión perfecta
 

@@ -58,7 +58,7 @@ Actualmente, as seguintes plataformas de automação oferecem apoio ao SeaTable:
 - [Zapier](https://zapier.com/apps/seatable/integrations)
 - [Marca (anteriormente Integromat)](https://www.make.com/en/integrations/seatable)
 - [n8n](https://n8n.io/integrations/seatable/)
-- [Locoia](https://www.locoia.com/connector/seatable-integration)
+- [Locoia](https://www.locoia.com/connector-integrations/)
 - [Integrar de forma integrada](https://integrately.com/integrations/seatable)
 
 ## Desenvolvimento próprio

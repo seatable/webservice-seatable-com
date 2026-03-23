@@ -37,7 +37,7 @@ The Calculate Cumulative Values operation calculates totals across rows for colu
 ## New automation actions and triggers
 
 > **SeaTable now supports four process automation platforms**:  
-> Automation has been a key focus over the past weeks and months. We are proud to announce that SeaTable is now available on four integration platforms: In addition to [Zapier](https://zapier.com/apps/seatable/integrations), on which SeaTable has already been present since the beginning of 2021, sophisticated workflows can now also be built with [Integromat](https://www.integromat.com/en/integrations/seatable), [n8n](https://n8n.io/integrations/seatable/) and [Locoia](https://www.locoia.com/connector/seatable-integration).
+> Automation has been a key focus over the past weeks and months. We are proud to announce that SeaTable is now available on four integration platforms: In addition to [Zapier](https://zapier.com/apps/seatable/integrations), on which SeaTable has already been present since the beginning of 2021, sophisticated workflows can now also be built with [Integromat](https://www.integromat.com/en/integrations/seatable), [n8n](https://n8n.io/integrations/seatable/) and [Locoia](https://www.locoia.com/connector-integrations/).
 
 With all the attention on external [integrations]({{< relref "pages/integrations" >}}), we have not lost sight of SeaTable's own automations. The central innovation is the Run Python Script action. It can be triggered by the triggers "New row", "Entries meet a certain condition after change" and "Execute periodically". The automated execution of Python scripts for a single row or a whole dataset using a clear set of rules is almost a superpower!
 

@@ -192,7 +192,7 @@ Oblíguese a pensar en los contenidos de esta forma estructurada para controlar 
 
 ### Controlar las cifras reales de acceso
 
-Notará rápidamente que con buenos artículos puede observar un aumento del tráfico orgánico en su sitio web al cabo de pocas semanas. Haga el esfuerzo y guarde regularmente las cifras de acceso de sus artículos. Al principio, aún deberías tomar las cifras manualmente de [Google Analytics](https://analytics.google.com/analytics/web/), más adelante puedes configurar la recopilación automática de datos, por ejemplo, con [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) o la [API SeaTable](https://api.seatable.com).
+Notará rápidamente que con buenos artículos puede observar un aumento del tráfico orgánico en su sitio web al cabo de pocas semanas. Haga el esfuerzo y guarde regularmente las cifras de acceso de sus artículos. Al principio, aún deberías tomar las cifras manualmente de [Google Analytics](https://analytics.google.com/analytics/web/), más adelante puedes configurar la recopilación automática de datos, por ejemplo, con [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) o la [API SeaTable](https://api.seatable.com).
 
 Verá que merece la pena registrar estas evaluaciones en SeaTable para que luego las cifras se muestren como estadísticas en un gráfico de barras, de líneas o de tarta.
 

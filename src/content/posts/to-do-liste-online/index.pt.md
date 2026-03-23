@@ -61,7 +61,7 @@ Existe uma grande seleção de aplicações de listas de tarefas. Abaixo pode ve
 
 ### Todoist: alternativa completa à Wunderlist
 
-Uma das ferramentas mais utilizadas para listas de tarefas online era a Wunderlist. Depois que o aplicativo foi descontinuado em 2020, os usuários tiveram que procurar alternativas. [Todoist](https://todoist.com/de) oferece uma dessas alternativas.
+Uma das ferramentas mais utilizadas para listas de tarefas online era a Wunderlist. Depois que o aplicativo foi descontinuado em 2020, os usuários tiveram que procurar alternativas. [Todoist](https://www.todoist.com/de) oferece uma dessas alternativas.
 
 Pode introduzir rapidamente as suas tarefas, adicionar descrições, secções e subtarefas e definir prazos e lembretes recorrentes. Outras funcionalidades incluem prioridades, etiquetas e filtros que lhe permitem destacar sempre as entradas de que necessita em qualquer altura.
 

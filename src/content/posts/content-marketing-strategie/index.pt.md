@@ -192,7 +192,7 @@ Force-se a pensar sobre o conteúdo desta forma estruturada para ter realmente o
 
 ### Monitorizar os números reais de acesso
 
-Verificará rapidamente que, com bons artigos, pode observar um aumento do tráfego orgânico no seu sítio Web após apenas algumas semanas. Faça um esforço e guarde regularmente os números de acesso dos seus artigos. No início, ainda deve obter os números manualmente do [Google Analytics](https://analytics.google.com/analytics/web/), mais tarde pode configurar a recolha automática de dados, por exemplo, com [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) ou a [API SeaTable](https://api.seatable.com).
+Verificará rapidamente que, com bons artigos, pode observar um aumento do tráfego orgânico no seu sítio Web após apenas algumas semanas. Faça um esforço e guarde regularmente os números de acesso dos seus artigos. No início, ainda deve obter os números manualmente do [Google Analytics](https://analytics.google.com/analytics/web/), mais tarde pode configurar a recolha automática de dados, por exemplo, com [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) ou a [API SeaTable](https://api.seatable.com).
 
 Verá que vale a pena registar estas avaliações no SeaTable para que os valores sejam apresentados como estatísticas num gráfico de barras, de linhas ou de pizza.
 

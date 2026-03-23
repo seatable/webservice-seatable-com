@@ -190,7 +190,7 @@ Zwingen Sie sich, auf diese strukturierte Weise über Inhalte nachzudenken, um w
 
 ### Überwachen Sie die tatsächlichen Zugriffszahlen
 
-Sie werden schnell feststellen, dass Sie bei guten Artikeln schon nach wenigen Wochen einen **Zuwachs an organischem Traffic** auf Ihrer Webseite beobachten können. Machen Sie sich die Mühe und speichern Sie die Zugriffszahlen Ihrer Artikel regelmäßig. Anfangs sollten Sie die Zahlen noch manuell aus Google Analytics oder anderen Analysetools übernehmen, später können Sie eine **automatische Datenerfassung**, z. B. mit [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) oder der [SeaTable API](https://api.seatable.com), einrichten.
+Sie werden schnell feststellen, dass Sie bei guten Artikeln schon nach wenigen Wochen einen **Zuwachs an organischem Traffic** auf Ihrer Webseite beobachten können. Machen Sie sich die Mühe und speichern Sie die Zugriffszahlen Ihrer Artikel regelmäßig. Anfangs sollten Sie die Zahlen noch manuell aus Google Analytics oder anderen Analysetools übernehmen, später können Sie eine **automatische Datenerfassung**, z. B. mit [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) oder der [SeaTable API](https://api.seatable.com), einrichten.
 
 Sie werden sehen, dass es sich lohnt, diese Auswertungen in SeaTable zu erfassen, um sich die Zahlen anschließend als Statistik in einem Balken-, Linien- oder Kuchendiagramm anzeigen zu lassen.
 
