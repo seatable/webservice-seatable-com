@@ -10,8 +10,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: 'Arbeitszeiterfassung Vorlage – EU-konforme Zeiterfassung'
-    description: 'Arbeitszeit, Urlaub und Krankheitstage einfach für das Team dokumentieren – digitale Vorlage zur Pflicht-Zeiterfassung & Statistik.'
+    title: 'Arbeitszeiterfassung Vorlage: DSGVO-konform & effizient'
+    description: 'Optimieren Sie Ihre Arbeitsabläufe mit nur einem Klick und holen Sie sich Ihre professionelle Arbeitszeiterfassung Vorlage. Einfacher als Excel!'
 type: pages
 
 sections:
@@ -85,7 +85,7 @@ sections:
       - text: '**Automatisiert & integriert:** Kombinieren Sie Ihre Arbeitszeiterfassung mit Automatisierungen, Erinnerungen und E-Mail-Benachrichtigungen für Anträge und Freigaben. So fügt sich die Zeiterfassung nahtlos in Ihre [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}) ein.'
       image_position: [left]
       image: '/images/template_page_arbeitszeiterfassung_01.png'
-      image_alt: ''
+      image_alt: 'Datenbank zur digitalen Arbeitszeiterfassung mit Zeiten, Urlaub und Überstunden in SeaTable'
 
     - name: "content-25"
       weight: 10
@@ -95,19 +95,19 @@ sections:
       - headline: 'Arbeitszeiten, Urlaub und Krankheitstage zentral verwalten'
         text: 'In der ersten Tabelle der Arbeitszeiterfassung Vorlage fließen alle Arbeitszeiten, Urlaubsanträge und Krankmeldungen Ihrer Mitarbeitenden zusammen – inklusive Start- und Endzeit, Pausenzeiten, Projektzuordnung und Genehmigungsstatus. HR und Führungskräfte erhalten über unterschiedliche Ansichten einen vollständigen Überblick über Arbeitszeit, Überstunden und Abwesenheiten, ohne mehrere Excel Dateien abgleichen zu müssen.'
         image: '/images/template_page_arbeitszeiterfassung_02.png'
-        image_alt: ''
+        image_alt: 'SeaTable-Tabelle mit zentraler Übersicht aller Arbeitszeiten, Urlaubsanträge und Krankmeldungen'
       - headline: 'Working Time: Plus- und Minusstunden auf einen Blick'  
         text: 'In der Ansicht „Working Time“ sehen Vorgesetzte für jeden Mitarbeitenden die geleistete Arbeitszeit – gruppiert nach Jahr, Monat und Mitarbeiter. Die Vorlage berechnet automatisch Soll- und Ist-Stunden, markiert Überstunden und Minus-Stunden farblich und ersetzt damit jeden manuellen Überstundenrechner.'
         image: '/images/template_page_arbeitszeiterfassung_03.png'
-        image_alt: ''
+        image_alt: 'Working-Time-Ansicht mit Plus- und Minusstunden, Soll- und Ist-Zeiten pro Mitarbeiter in SeaTable'
       - headline: 'Abwesenheiten und Urlaubsanspruch im Griff'
         text: 'Separate Ansichten für Urlaub und Krankheit geben HR und Führungskräften jederzeit Auskunft, wer wann abwesend ist, welche Anträge offen sind und wie der aktuelle Urlaubsanspruch pro Mitarbeitendem aussieht. Über Status-Felder und Automatisierungen in der Zeiterfassung Vorlage lassen sich Anträge mit wenigen Klicks genehmigen oder ablehnen, inklusive optionaler E-Mail-Benachrichtigung an die Mitarbeitenden.'
         image: '/images/template_page_arbeitszeiterfassung_04.png'
-        image_alt: ''
+        image_alt: 'Urlaubs- und Krankheitsübersicht mit Status, Urlaubsanspruch und Abwesenheiten pro Mitarbeiter in SeaTable'
       - headline: 'Kalender, Dashboards und Datenexport'
         text: 'Kalender- und Dashboard-Ansichten stellen Arbeitszeiten, Urlaube und Kranktage in einer visuellen Jahres- oder Monatsübersicht dar – ideal für Personalplanung und Projektzeiterfassung. Darüber hinaus können Sie Daten aus der Vorlage jederzeit exportieren, zum Beispiel für Lohnabrechnung oder Reporting, ohne einzelne  Dateien zusammenführen zu müssen.'
         image: '/images/template_page_arbeitszeiterfassung_05.png'
-        image_alt: ''
+        image_alt: 'Kalender- und Dashboard-Ansicht der Arbeitszeiterfassung mit Urlaubs- und Krankheitstagen im Jahresverlauf'
             
     - name: "content-6"
       weight: 12
@@ -119,7 +119,7 @@ sections:
       items:
       - text: 'Mit dem integrierten App Builder gestalten Sie aus der Arbeitszeiterfassung Vorlage eine individuelle Zeiterfassungs-App für Mitarbeitende, HR und Führungskräfte. Kombinieren Sie Formulare für Arbeitszeit, Projektzeiterfassung, Urlaubsanträge und Krankmeldungen mit übersichtlichen Zeitkonten, Dashboard-Ansichten für Überstunden sowie Kalender-Views – bis hin zu spezialisierten Apps für Abteilungen oder Standorte, die Sie bei Bedarf mit weiteren HR-Templates verknüpfen können. Teilen Sie gezielte Ausschnitte als Frontend mit den jeweiligen Rollen und steuern Sie über Berechtigungen, wer Zeiten erfassen, Konten einsehen oder Anträge freigeben darf – so wird aus der Arbeitszeiterfassung Vorlage eine maßgeschneiderte HR-Zeiterfassungs-App.'
       image: '/images/template_page_arbeitszeiterfassung_06.png'
-      image_alt: ''
+      image_alt: 'Individuelle Zeiterfassungs-App mit Formularen, Zeitkonten, Dashboards und Kalenderansichten in SeaTable'
 
     - name: "banner-3"
       weight: 15
@@ -140,7 +140,7 @@ sections:
       - headline: 'Datenextraktion aus Anträgen und E-Mails'
         text: 'Mit Extract lesen Sie Daten aus Urlaubsanträgen, Krankmeldungen oder E-Mails automatisch aus und übertragen sie strukturiert in Ihre Zeiterfassungsvorlage. So reduzieren Sie manuellen Aufwand und sichern eine lückenlose, aktuelle Datengrundlage.'
         icon: layer-group
-      - headline: ' Dokumentenerfassung mit OCR'
+      - headline: 'Dokumentenerfassung mit OCR'
         text: 'Mit OCR erfassen Sie Inhalte aus hochgeladenen Bildern, etwa Krankmeldungen oder eingescannten Stundenzetteln, automatisch und verknüpfen sie direkt mit den passenden Einträgen. So digitalisieren und automatisieren Sie Ihre Prozesse Schritt für Schritt.'
         icon: image
       - headline: 'Zusammenfassungen für HR-Reports'
