@@ -20,8 +20,8 @@ seo:
 Um Ihren Microsoft 365 Account in SeaTable für den E-Mail Versand nutzen zu können, müssen Sie im Entra Admin Center von Microsoft zunächst eine Anwendung anlegen und konfigurieren.
 
 1. Melden Sie sich am [Microsoft Entra Admin Center](https://entra.microsoft.com/) an. Der Benutzer braucht Admin-Rechte für das Konto, das für den Versand verwendet werden soll.
-2. Klappen Sie die Rubrik **Anwendungen** in der Seitennavigation aus und klicken dann auf **App-Registrierungen**.
-3. Erstellen sie eine neue Anmeldung durch Klick auf **\+ Neue Registrierung**. Geben Sie einen Namen ein (z.B. 'SeaTable') und wählen Sie "Konten in einem beliebigen Organisationsverzeichnis (beliebiger Microsoft Entra ID-Mandant – mandantenfähig) und persönliche Microsoft-Konten (z. B. Skype, Xbox)" als Kontotyp. Unter den Umleitungs-URI muss ein Eintrag mit Plattform "Web" und folgender URI angelegt werden:
+2. Klicken Sie auf **App-Registrierungen**.
+3. Erstellen sie eine neue Anmeldung durch Klick auf **\+ Neue Registrierung**. Geben Sie einen Namen ein (z.B. 'SeaTable') und wählen Sie "Alle Konten von Entra ID-Mandanten und persönliche Microsoft Konten" als Kontotyp. Registrieren Sie die folgende Umleitungs-URI für eine Anwendung vom Typ "Web":
 
     ```
     https://cloud.seatable.io/oauth/third-party-email-accounts/callback/
@@ -30,7 +30,7 @@ Um Ihren Microsoft 365 Account in SeaTable für den E-Mail Versand nutzen zu kö
     Wenn Sie nicht SeaTable Cloud verwenden, dann ersetzen Sie cloud.seatable.io durch den Hostname Ihrer SeaTable Instanz. Schließen Sie die Anlage der App-Registrierung mit Klick auf "Registrieren" ab.
 
 4. Notieren Sie die **Anwendungs-ID (Client)** auf der Übersichtsseite der gerade registrierten App. Diese wird für die Einrichtung des E-Mail-Kontos in SeaTable benötigt.
-5. Klicken Sie in der Seitennavigation der App auf **Zertifikate und Geheimnisse**, um den Clientschlüssel zu erzeugen. Dies machen Sie im Tab **Geheime Clientschlüssel**. Vergeben Sie für den Schlüssel eine Beschreibung und ein "Gültig bis".
+5. Um den Clientschlüssel zu erzeugen, navigieren Sie in der Seitennavigation der App zu **Zertifikate und Geheimnisse**. Klicken Sie auf **Neuer geheimer Clientschlüssel**. Vergeben Sie für den Schlüssel eine Beschreibung und ein Ablaufdatum.
 
     ![Creating a client secret for a registered app in Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
@@ -45,18 +45,15 @@ Nun müssen Sie Ihren Microsoft 365 Account in Ihrer SeaTable Base hinzufügen. 
 ![Integration von Drittanbietern über die erweiterten Base-Optionen](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Öffnen Sie die erweiterten Base-Optionen mit einem Klick auf das **Drei-Punkte-Icon** {{< seatable-icon icon="dtable-icon-more-level" >}} in der rechten oberen Ecke.
-2. Wählen Sie die Option **Integration von Drittanbieter** aus.
+2. Wählen Sie die Option **Integration von Drittanbietern** aus.
 3. Klicken Sie auf **E-Mail-Konto hinzufügen**.
-4. Wählen Sie als Diensteanbieter **Outlook**.
-5. Geben Sie die folgenden Informationen ein und klicken dann auf die "Abschicken" Schaltfläche in der rechten oberen Ecke:
-    - **Kontoname**: Eine kurze Beschreibung des Kontos (z.B. 'Microsoft 365')
-    - **Benutzername**: 'me'
+4. Wählen Sie **Microsoft (Microsoft 365 und Outlook)** als Dienstanbieter aus.
+5. Geben Sie die folgenden Informationen ein und klicken dann auf die **Abschicken** Schaltfläche in der rechten oberen Ecke:
+    - **Kontoname**: Eine kurze Beschreibung des Kontos, z.B. 'Microsoft 365'
     - **Client-ID**: die Anwendungs-ID (Client) der erstellten App
     - **Clientschlüssel**: der geheime Clientschlüssel der erstellten App
-6. Bestätigen Sie die Erstellung des E-Mail-Kontos mit OAuth2 Authentifizierung.
-7. Klicken Sie auf “Weiter”, wenn Sie darauf hingewiesen werden, dass diese App nicht überprüft wurde und erlauben Sie den Zugriff auf das Microsoft Konto.
-
-![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
+6. Erteilen Sie die angeforderten Berechtigungen, indem Sie auf **Akzeptieren** klicken.
+   ![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 
 ## E-Mails per Automation oder Schaltfläche versenden
 
