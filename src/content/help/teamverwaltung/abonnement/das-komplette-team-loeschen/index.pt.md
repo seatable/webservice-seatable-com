@@ -33,7 +33,7 @@ Ao confirmar a eliminação, desencadeia imediatamente as seguintes acções:
 - Todas as bases e os dados nelas contidos são apagados.
 - A sua assinatura, se a tiver, será apagada.
 - Os seus dados serão removidos do nosso sistema de pagamento Stripe, na medida do possível. No entanto, se tiverem sido geradas facturas, a Stripe não poderá apagar completamente a sua conta.
-- Os seus endereços de correio electrónico serão removidos do nosso sistema de correio electrónico Sendinblue.
+- Os seus endereços de correio electrónico serão removidos do nosso sistema de correio electrónico Brevo.
 
 {{< warning  headline="Advertência"  text="**Não pode** desfazer a eliminação da sua equipa. Todos os dados serão **irremediavelmente** perdidos. A eliminação da **sua equipa** é também acompanhada pela eliminação **do seu contrato**." />}}
 

@@ -24,7 +24,7 @@ Un [mot de passe d'application](https://support.google.com/accounts/answer/18583
 
 ### Création d'un mot de passe pour l'application
 
-1. Ouvrez la [gestion des mots de passe des applications](https://myaccount.google.com/apppasswords) de Google - connectez-vous à votre **compte Google** lorsque vous y êtes invité.
+1. Ouvrez la gestion des mots de passe des applications de Google - connectez-vous à votre **compte Google** lorsque vous y êtes invité.
 2. Saisissez un **nom**, par exemple 'SeaTable', et cliquez sur 'Créer'.
 
 ![Génération d'un mot de passe Google app](images/Google_App_Password.gif)

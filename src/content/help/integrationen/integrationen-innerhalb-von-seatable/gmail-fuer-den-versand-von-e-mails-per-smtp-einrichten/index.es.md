@@ -24,7 +24,7 @@ Una [contraseña](https://support.google.com/accounts/answer/185833?hl=de) de [a
 
 ### Creación de una contraseña de aplicación
 
-1. Abre la [aplicación de gestión de contraseñas](https://myaccount.google.com/apppasswords) de Google: accede a tu **cuenta de Google** cuando se te solicite.
+1. Abre la aplicación de gestión de contraseñas de Google: accede a tu **cuenta de Google** cuando se te solicite.
 2. Introduzca un **nombre**, por ejemplo "SeaTable", y haga clic en "Crear".
 
 ![Generar una contraseña de aplicación de Google](images/Google_App_Password.gif)

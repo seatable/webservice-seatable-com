@@ -22,7 +22,7 @@ Ein [App-Passwort](https://support.google.com/accounts/answer/185833?hl=de) ist 
 
 ### Erstellung eins App-Passworts
 
-1. Öffnen Sie die [Verwaltung der App-Passwörter](https://myaccount.google.com/apppasswords) von Google - loggen Sie sich in Ihr **Google Konto** ein, wenn Sie dazu aufgefordert werden.
+1. Öffnen Sie die Verwaltung der App-Passwörter von Google - loggen Sie sich in Ihr **Google Konto** ein, wenn Sie dazu aufgefordert werden.
 2. Geben Sie einen **Namen** ein, z.B. 'SeaTable', und klicken auf "Erstellen".
 
 ![Generating a Google app password](images/Google_App_Password.gif) 4. Kopieren Sie das generierte App-Passwort in den Zwischenspeicher.
