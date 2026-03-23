@@ -71,7 +71,7 @@ Dans ce tableau, vous et votre équipe pouvez désormais développer de nouvelle
 
 Cette automatisation complète parfaitement le flux de travail précédent. Car une fois qu'un nouvel article de blog a été publié, le travail du département marketing ne fait généralement que commencer. Le nouvel article doit-il être mentionné sur LinkedIn, Medium.com ou Twitter ? Où se situera l'article dans le classement Google après quelques jours ? En règle générale, chaque département marketing dispose d'une liste de contrôle qu'il utilise dans le cas de nouveaux articles. Ce flux de travail est destiné à simplifier précisément cette liste de contrôle.
 
-Dès qu'un article est publié sur WordPress, une nouvelle entrée est créée dans la check-list SEO de SeaTable. En outre, une nouvelle tâche peut être créée dans [Todoist](https://todoist.com/) ou un message peut être posté sur un canal Slack afin que l'équipe soit informée du nouvel ordre de travail. Cette automatisation simple permet d'éviter de manière fiable qu'un nouvel article ne soit oublié.
+Dès qu'un article est publié sur WordPress, une nouvelle entrée est créée dans la check-list SEO de SeaTable. En outre, une nouvelle tâche peut être créée dans [Todoist](https://www.todoist.com/) ou un message peut être posté sur un canal Slack afin que l'équipe soit informée du nouvel ordre de travail. Cette automatisation simple permet d'éviter de manière fiable qu'un nouvel article ne soit oublié.
 
 ## 6\. Préparation d'une réunion parfaite
 

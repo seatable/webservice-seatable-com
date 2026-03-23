@@ -56,7 +56,7 @@ Aktuell bieten die folgenden Automatisierungsplattformen eine Unterstützung fü
 - [Zapier](https://zapier.com/apps/seatable/integrations)
 - [Make (formerly Integromat)](https://www.make.com/en/integrations/seatable)
 - [n8n](https://n8n.io/integrations/seatable/)
-- [Locoia](https://www.locoia.com/connector/seatable-integration)
+- [Locoia](https://www.locoia.com/connector-integrations/)
 - [Integrately](https://integrately.com/integrations/seatable)
 
 ## Eigenentwicklung

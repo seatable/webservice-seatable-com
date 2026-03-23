@@ -473,7 +473,7 @@ Auf die Speicherdauer Ihrer Daten, die von den Betreibern der Konferenz-Tools zu
 
 ### TeamViewer
 
-Dieses Online-Angebot nutzt die Webmeeting- und Ferwnartungsoftware TeamViewer. Anbieter ist die TeamViewer Germany GmbH, Jahnstraße 30, 73037 Göppingen, Deutschland (TeamViewer). Details zur Datenverarbeitung bei der Nutzung von TeamViewer finden Sie der Datenschutzerklärung von TeamViewer unter [https://www.teamviewer.com/de/datenschutzerklaerung](https://www.teamviewer.com/de/datenschutzerklaerung/).
+Dieses Online-Angebot nutzt die Webmeeting- und Ferwnartungsoftware TeamViewer. Anbieter ist die TeamViewer Germany GmbH, Jahnstraße 30, 73037 Göppingen, Deutschland (TeamViewer). Details zur Datenverarbeitung bei der Nutzung von TeamViewer finden Sie der Datenschutzerklärung von TeamViewer unter [https://www.teamviewer.com/de/datenschutzerklaerung](https://www.teamviewer.com/de/legal/privacy-and-cookies/).
 
 **Abschluss eines Vertrags über Auftragsverarbeitung**  
 Wir haben mit dem Anbieter von TeamViewer einen Vertrag zur Auftragsverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von TeamViewer vollständig um.

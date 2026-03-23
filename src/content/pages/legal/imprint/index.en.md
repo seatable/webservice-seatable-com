@@ -47,7 +47,7 @@ Germany
 
 ## EU dispute resolution
 
-The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).  
+The European Commission provides a platform for online dispute resolution (ODR): [https://consumer-redress.ec.europa.eu/](https://consumer-redress.ec.europa.eu/).  
 For dispute resolution inquiries, you find our e-mail address address above.
 
 ## Dispute resolution proceedings in front of a consumer arbitration board

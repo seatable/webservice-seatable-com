@@ -40,7 +40,7 @@ At first glance, running a business and running an art institution seem similar.
 
 In addition, museums, galleries and exhibitions not only have to do a consistently good job in terms of content and organization, but they also have to permanently justify their own existence and continued financing. Museum directors live in a constant balancing act. They are expected to meet the high demands of the general public for art, while at the same time they are subject to constant public criticism and are often restricted in their activities by decisions of the public authorities and sponsors.
 
-A small insight into the problem was given by the [resignation of Udo Kittelmann in 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann renounced the chief post of the German National Gallery, probably the most renowned exhibition in Germany. Too little budget and too little freedom in combination with the permanent need for representation by politics had made him throw in the towel.
+A small insight into the problem was given by the [resignation of Udo Kittelmann in 2019](https://www.tagesspiegel.de/kultur/udo-kittelmanns-rucktritt-wirft-ein-schlaglicht-auf-gravierende-probleme-4095304.html). Kittelmann renounced the chief post of the German National Gallery, probably the most renowned exhibition in Germany. Too little budget and too little freedom in combination with the permanent need for representation by politics had made him throw in the towel.
 
 ![Art management differs from the management of a company](art-management-seatable.jpg)
 

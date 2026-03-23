@@ -37,7 +37,7 @@ Auf den ersten Blick scheint die Führung eines Unternehmens und einer Kunsteinr
 
 Darüber hinaus müssen Museen, Galerien und Ausstellungen nicht nur inhaltlich und organisatorisch konstant gute Arbeit leisten, sondern sie müssen auch permanent ihre eigene Existenz und Weiterfinanzierung begründen und rechtfertigen. Museumsleiter leben im konstanten Spagat. Sie sollen die hohen Anforderungen der Allgemeinheit an die Kunst erfüllen, gleichzeitig unterliegen sie der ständigen öffentlichen Kritik und sind in ihrer Tätigkeit häufig durch Entscheidungen der öffentlichen Hand und Träger eingeschränkt.
 
-Einen kleinen Einblick in die Problematik bekam man durch die [Kündigung von Udo Kittelmann im Jahre 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann verzichtete auf den Chefposten der deutschen Nationalgalerie, der wohl renommiertesten Ausstellung in Deutschland. Zu wenig Budget und zu wenige Freiheiten in Kombination mit dem permanenten Repräsentationsbedürfnis der Politik hatten ihn das Handtuch werfen lassen.
+Einen kleinen Einblick in die Problematik bekam man durch die [Kündigung von Udo Kittelmann im Jahre 2019](https://www.tagesspiegel.de/kultur/udo-kittelmanns-rucktritt-wirft-ein-schlaglicht-auf-gravierende-probleme-4095304.html). Kittelmann verzichtete auf den Chefposten der deutschen Nationalgalerie, der wohl renommiertesten Ausstellung in Deutschland. Zu wenig Budget und zu wenige Freiheiten in Kombination mit dem permanenten Repräsentationsbedürfnis der Politik hatten ihn das Handtuch werfen lassen.
 
 ![Art Management unterscheidet sich von dem Management eines Unternehmens](art-management-seatable.jpg)
 

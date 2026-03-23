@@ -39,7 +39,7 @@ A gestão da arte consiste, portanto, em assumir precisamente este difícil desa
 
 Além disso, os museus, as galerias e as exposições não só têm de fazer um trabalho consistentemente bom em termos de conteúdo e organização, como também têm de justificar permanentemente a sua própria existência e a continuação do seu financiamento. Os directores de museus vivem num constante equilíbrio. Espera-se que satisfaçam a elevada procura de arte por parte do público em geral, ao mesmo tempo que estão sujeitos a uma crítica pública constante e são frequentemente limitados nas suas actividades por decisões das autoridades públicas e dos patrocinadores.
 
-Uma pequena visão do problema foi fornecida pela [demissão de Udo Kittelmann em 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann renunciou ao seu cargo de diretor da Galeria Nacional Alemã, provavelmente a exposição mais famosa da Alemanha. Pouco orçamento e pouca liberdade, em combinação com a necessidade permanente de representação na política, levaram-no a desistir.
+Uma pequena visão do problema foi fornecida pela [demissão de Udo Kittelmann em 2019](https://www.tagesspiegel.de/kultur/udo-kittelmanns-rucktritt-wirft-ein-schlaglicht-auf-gravierende-probleme-4095304.html). Kittelmann renunciou ao seu cargo de diretor da Galeria Nacional Alemã, provavelmente a exposição mais famosa da Alemanha. Pouco orçamento e pouca liberdade, em combinação com a necessidade permanente de representação na política, levaram-no a desistir.
 
 ![A gestão da arte difere da gestão de uma empresa](art-management-seatable.jpg)
 

@@ -39,7 +39,7 @@ A première vue, la gestion d'une entreprise et celle d'une institution artistiq
 
 En outre, les musées, les galeries et les expositions doivent non seulement fournir un travail de qualité constant en termes de contenu et d'organisation, mais ils doivent également justifier en permanence leur propre existence et la poursuite de leur financement. Les directeurs de musées sont constamment sur la corde raide. Ils doivent répondre aux exigences élevées du public en matière d'art, tout en étant soumis à la critique publique permanente et en étant souvent limités dans leur activité par les décisions des pouvoirs publics et des organismes responsables.
 
-On a eu un petit aperçu du problème avec la [démission d'Udo Kittelmann en 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann a renoncé à son poste de chef de la Nationalgalerie allemande, sans doute l'exposition la plus prestigieuse d'Allemagne. Trop peu de budget et trop peu de liberté, combinés au besoin permanent de représentation du monde politique, l'avaient poussé à jeter l'éponge.
+On a eu un petit aperçu du problème avec la [démission d'Udo Kittelmann en 2019](https://www.tagesspiegel.de/kultur/udo-kittelmanns-rucktritt-wirft-ein-schlaglicht-auf-gravierende-probleme-4095304.html). Kittelmann a renoncé à son poste de chef de la Nationalgalerie allemande, sans doute l'exposition la plus prestigieuse d'Allemagne. Trop peu de budget et trop peu de liberté, combinés au besoin permanent de représentation du monde politique, l'avaient poussé à jeter l'éponge.
 
 ![La gestion artistique diffère de la gestion d'une entreprise](art-management-seatable.jpg)
 

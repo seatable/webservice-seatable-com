@@ -57,7 +57,7 @@ The mail accounts are saved in the backend database and encrypted with symmetric
 
 Finally, we have a special feature for on-premises users of SeaTable: SeaTable 1.8 now supports SAML for single sign-on (SSO). Following authentication via Active Directory and LDAP, SeaTable's new support for the popular SSO protocol drives its operational flexibility to a new level and makes its integration in larger infrastructures a lot simpler and smoother. Broadly speaking, the large majority of identity management systems (e.g., okta, Keycloak, Auth0, OneLogin, SiteMinder, ...) support SAML.
 
-The complete documentation for using SAML authentication with SeaTable is provided in the [SeaTable Manual](https://manual.seatable.io/config/enterprise/saml/).
+The complete documentation for using SAML authentication with SeaTable is provided in the [SeaTable Manual](https://admin.seatable.com/configuration/authentication/saml/).
 
 ## And much more
 

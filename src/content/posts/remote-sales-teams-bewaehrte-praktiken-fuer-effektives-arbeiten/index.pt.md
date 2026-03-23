@@ -35,7 +35,7 @@ O trabalho em equipas remotas exige estratégias e práticas diferentes para aum
 
 Se os empregados estiverem espalhados por diferentes locais, um gestor de vendas deve comunicar os objectivos e processos de vendas para que os vendedores estejam sempre a par do seu trabalho diário e dos objectivos da equipa.
 
-A definição de expectativas claras dá aos trabalhadores remotos várias directrizes a seguir, tais como objectivos de vendas, procedimentos em linha específicos para identificar oportunidades, procedimentos para telefonar a potenciais clientes, métodos para fechar negócios e procedimentos para quando surgem problemas. De acordo com um [inquérito da Gallup a trabalhadores alemães](http://www.gallup.com/businessjournal/186164/employees-don-know-expected-work.aspx), estas práticas incentivam os trabalhadores à distância a tomarem mais iniciativa e a terem um melhor desempenho.
+A definição de expectativas claras dá aos trabalhadores remotos várias directrizes a seguir, tais como objectivos de vendas, procedimentos em linha específicos para identificar oportunidades, procedimentos para telefonar a potenciais clientes, métodos para fechar negócios e procedimentos para quando surgem problemas. De acordo com um [inquérito da Gallup a trabalhadores alemães](https://www.gallup.com/workplace/697904/state-of-the-global-workplace-global-data.aspx), estas práticas incentivam os trabalhadores à distância a tomarem mais iniciativa e a terem um melhor desempenho.
 
 Outra opção é realizar sessões de feedback com os vendedores para avaliar o seu desempenho, identificar áreas a melhorar e criar um plano de desenvolvimento. Além disso, organize reuniões frequentes por videoconferência para garantir que o seu departamento de vendas se mantém informado e ligado.
 

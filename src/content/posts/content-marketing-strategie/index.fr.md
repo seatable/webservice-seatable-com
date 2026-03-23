@@ -192,7 +192,7 @@ Obligez-vous à réfléchir au contenu de cette manière structurée pour être 
 
 ### Surveiller le nombre réel d'accès
 
-Vous constaterez rapidement qu'avec de bons articles, vous pouvez observer une augmentation du trafic organique sur votre site web après quelques semaines seulement. Prenez la peine d'enregistrer régulièrement le nombre de visites de vos articles. Au début, reprenez manuellement les chiffres de [Google Analytics](https://analytics.google.com/analytics/web/), mais plus tard, vous pourrez mettre en place une collecte automatique des données, par exemple avec [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) ou l'[API SeaTable](https://api.seatable.com).
+Vous constaterez rapidement qu'avec de bons articles, vous pouvez observer une augmentation du trafic organique sur votre site web après quelques semaines seulement. Prenez la peine d'enregistrer régulièrement le nombre de visites de vos articles. Au début, reprenez manuellement les chiffres de [Google Analytics](https://analytics.google.com/analytics/web/), mais plus tard, vous pourrez mettre en place une collecte automatique des données, par exemple avec [Zapier](https://zapier.com/apps/google-analytics-4/integrations/seatable) ou l'[API SeaTable](https://api.seatable.com).
 
 Vous verrez qu'il vaut la peine de saisir ces évaluations dans SeaTable pour ensuite afficher les chiffres sous forme de statistiques dans un graphique à barres, linéaire ou en camembert.
 

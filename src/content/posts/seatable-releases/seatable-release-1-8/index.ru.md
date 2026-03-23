@@ -57,7 +57,7 @@ seo:
 
 Наконец, у нас есть особое удовольствие для всех тех пользователей, которые запускают SeaTable на своем собственном сервере: SeaTable 1.8 теперь поддерживает язык Security Assertion Markup Language, более известный как SAML. SAML - это популярный протокол для реализации единого входа в систему. Вместе с аутентификацией через Active Directory и LDAP, SeaTable приобретает огромную гибкость и значительно упрощает интеграцию, особенно в больших инфраструктурах. Почти все известные системы управления идентификацией (например, okta, Keycloak, Auth0, OneLogin, SiteMinder, ...) поддерживают SAML.
 
-Полную документацию по настройке SAML можно найти в [руководстве SeaTable Manual](https://manual.seatable.io/config/enterprise/saml/).
+Полную документацию по настройке SAML можно найти в [руководстве SeaTable Manual](https://admin.seatable.com/configuration/authentication/saml/).
 
 ## И многое другое
 

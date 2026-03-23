@@ -60,7 +60,7 @@ Die Auswahl im Bereich der To-do-Listen Apps ist groß. Im Folgenden sehen Sie f
 
 ### Todoist: Umfangreiche Alternative zu Wunderlist
 
-Eines der am weitesten verbreiteten Tools für Online To-do-Listen war Wunderlist. Nach Einstellung der App im Jahr 2020 mussten sich die Nutzer nach Alternativen umsehen. Eine solche bietet [Todoist](https://todoist.com/de).
+Eines der am weitesten verbreiteten Tools für Online To-do-Listen war Wunderlist. Nach Einstellung der App im Jahr 2020 mussten sich die Nutzer nach Alternativen umsehen. Eine solche bietet [Todoist](https://www.todoist.com/de).
 
 Sie können Ihre Aufgaben schnell erfassen, Beschreibungen, Abschnitte und Unteraufgaben hinzufügen sowie wiederkehrende Termine und Erinnerungen einstellen. Weitere Features sind Prioritäten, Etiketten und Filter, mit denen Sie immer die Einträge hervorheben können, die Sie gerade brauchen.
 
