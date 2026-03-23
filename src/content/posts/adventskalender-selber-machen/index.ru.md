@@ -27,7 +27,7 @@ aliases:
 
 {{< warning headline="История адвент-календаря" >}}
 
-Если вы хотите узнать, откуда пошла традиция адвент-календаря, нажмите [здесь](https://www.adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+Если вы хотите узнать, откуда пошла традиция адвент-календаря, нажмите [здесь](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 

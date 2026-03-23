@@ -27,7 +27,7 @@ Um calendário do Advento feito em casa é uma prenda que vem **do coração**. 
 
 {{< warning headline="A história do calendário do Advento" >}}
 
-Se quiser saber de onde vem a tradição do calendário do Advento, clique [aqui](https://www.adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+Se quiser saber de onde vem a tradição do calendário do Advento, clique [aqui](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 

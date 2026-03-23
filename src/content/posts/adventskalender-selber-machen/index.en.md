@@ -28,7 +28,7 @@ A homemade Advent calendar is a gift that comes **from the heart**. By putting s
 
 {{< warning headline="The history of the Advent calendar" >}}
 
-If you would like to know where the tradition of the Advent calendar comes from, click [here](https://www.adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+If you would like to know where the tradition of the Advent calendar comes from, click [here](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 

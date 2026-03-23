@@ -65,7 +65,7 @@ El software [Data Crow](https://www.datacrow.net/) es especialmente adecuado par
 
 ### GCstar - software gratuito de recogida
 
-Otro programa gratuito de gestión de cobros es [GCstar](http://www.gcstar.org/). Este programa de gestión tiene las mismas funciones de registro y gestión de colecciones que Data Crow. También tiene la opción de enriquecer su colección con información de Internet. Guarde el lugar donde adquirió el artículo y registre si presta el artículo de la colección a alguien. Por supuesto, además de los medios de comunicación, también puedes inventariar otros objetos. Si le interesa una solución de código abierto, puede instalar Data Crow y GCstar a modo de prueba y comparar las interfaces.
+Otro programa gratuito de gestión de cobros es [GCstar](https://gitlab.com/GCstar/). Este programa de gestión tiene las mismas funciones de registro y gestión de colecciones que Data Crow. También tiene la opción de enriquecer su colección con información de Internet. Guarde el lugar donde adquirió el artículo y registre si presta el artículo de la colección a alguien. Por supuesto, además de los medios de comunicación, también puedes inventariar otros objetos. Si le interesa una solución de código abierto, puede instalar Data Crow y GCstar a modo de prueba y comparar las interfaces.
 
 ### Software especializado para coleccionistas
 

@@ -47,7 +47,7 @@ Webhooks werden typischerweise dann eingesetzt, wenn Sie nicht regelmäßig den 
 
 ## Automatisierungsplattformen
 
-Im Alltag arbeitet man häufig nicht nur mit einer Software, sondern mit vielen Lösungen gleichzeitig. Geschäftskontakte speichert man in einem CRM wie Hubspot oder Pipedrive, Termine und E-Mails liegen bei Google, Newsletter verschickt man mit [Mailchimp](https://mailchimp.com/) oder [Sendinblue](https://de.sendinblue.com/). Häufig wünscht man sich dabei, dass ein Ereignis in einer Software zu einer Aktivität in einer anderen Software führt. Also wenn Sie einen neuen Newsletter mit Sendinblue verschicken, dass Sie dann automatisch auch einen Facebook-Post absetzen. Oder wenn jemand auf Ihrer Webseite eine Terminanfrage abschickt, dass dann die Kontaktdaten automatisch in Ihr CRM übertragen werden.
+Im Alltag arbeitet man häufig nicht nur mit einer Software, sondern mit vielen Lösungen gleichzeitig. Geschäftskontakte speichert man in einem CRM wie Hubspot oder Pipedrive, Termine und E-Mails liegen bei Google, Newsletter verschickt man mit [Mailchimp](https://mailchimp.com/) oder Brevo(https://www.brevo.com/). Häufig wünscht man sich dabei, dass ein Ereignis in einer Software zu einer Aktivität in einer anderen Software führt. Also wenn Sie einen neuen Newsletter mit Brevo verschicken, dass Sie dann automatisch auch einen Facebook-Post absetzen. Oder wenn jemand auf Ihrer Webseite eine Terminanfrage abschickt, dass dann die Kontaktdaten automatisch in Ihr CRM übertragen werden.
 
 Genau in diesen Fällen kann Ihnen eine der vielen Automatisierungsplattformen weiterhelfen. Diese helfen Ihnen ohne Programmiererfahrung zwei oder mehrere Softwarelösungen miteinander zu verbinden und auf gewisse Auslöser mit gewissen Aktionen zu reagieren.
 

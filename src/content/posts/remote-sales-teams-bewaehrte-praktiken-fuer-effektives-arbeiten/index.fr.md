@@ -19,7 +19,7 @@ seo:
 
 Les circonstances de l'année 2020 ont considérablement modifié la manière de travailler dans les entreprises. Selon une récente [enquête Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 travailleurs à distance sur 10 souhaitent conserver ce mode de travail dans une certaine mesure.
 
-Cependant, pour les commerciaux qui ne sont pas habitués à la vente à distance, cela peut s'avérer être un défi, car elle est très différente de la vente de personne à personne ou de la vente traditionnelle. Dans ce contexte, le travail à distance peut toutefois présenter de nombreux [avantages](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/), à condition d'être pratiqué correctement. Il peut améliorer le processus de vente, augmenter la productivité de votre équipe et remplir votre pipeline de vente sans que vous ayez à quitter votre bureau.
+Cependant, pour les commerciaux qui ne sont pas habitués à la vente à distance, cela peut s'avérer être un défi, car elle est très différente de la vente de personne à personne ou de la vente traditionnelle. Dans ce contexte, le travail à distance peut toutefois présenter de nombreux [avantages](https://myquickcloud.com/blog/benefits-of-remote-work/), à condition d'être pratiqué correctement. Il peut améliorer le processus de vente, augmenter la productivité de votre équipe et remplir votre pipeline de vente sans que vous ayez à quitter votre bureau.
 
 Dans cet article, nous vous montrons comment une équipe de vente à distance peut gérer et surveiller de manière optimale ses processus de marketing et de vente.
 

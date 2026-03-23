@@ -22,7 +22,7 @@ Fünf Grundsätze leiten unsere Entscheidungen in Bezug auf Aufbau und Betrieb v
 
 ## Datenspeicherung
 
-Für den Betrieb von SeaTable Cloud nutzen wir die Infrastruktur der [Akenes SA (Exoscale)](https://www.exoscale.com/). Exoscale wurde 2011 gegründet und hat seinen Sitz in Lausanne, Schweiz. Seit Jahr 2017 ist es eine Tochter von A1 Digital International GmbH und damit Teil der börsennotierten [A1 Telekom Austria Group](https://www.a1.group/de/home).
+Für den Betrieb von SeaTable Cloud nutzen wir die Infrastruktur der [Akenes SA (Exoscale)](https://www.exoscale.com/). Exoscale wurde 2011 gegründet und hat seinen Sitz in Lausanne, Schweiz. Seit Jahr 2017 ist es eine Tochter von A1 Digital International GmbH und damit Teil der börsennotierten [A1 Telekom Austria Group](https://a1.com/de/).
 
 Exoscale betreibt [mehrere Rechenzentren](https://www.exoscale.com/datacenters/) im DACH-Raum (Deutschland, Österreich, Schweiz) sowie in Bulgarien (Stand Oktober 2024). Alle Rechenzentren sind nach [ISO 9001 und 27001 zertifiziert](https://www.exoscale.com/compliance/) und verfügen über N+1 Redundanz für alle Kernkomponenten wie Stromversorgung, Kühlung und Branderkennung und -unterdrückung. Damit erfüllen bzw. übertreffen sie die [Tier III Anforderungen des Uptime Institutes](https://uptimeinstitute.com/tiers).
 
@@ -88,7 +88,7 @@ Die Rechenzentren unseres Infrastrukturpartners Exoscale sind zertifiziert nach 
 
 Im September 2024 hat das Prüfinstitut SRC Security Research & Consulting GmbH SeaTable Server einen Penetrationstest unterzogen. Den Managementbericht können Sie [hier](/Seatable-2401_Management_Summary_v1.2.pdf) unterladen. Schreiben Sie an security@seatable.com, um den vollständigen Bericht zu erhalten.
 
-Aktuell liegt für SeaTable keine Zertifizierung vor. Eine Zertifizierung von SeaTable Server durch das [Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de/) ist für die zweite Jahreshälfte 2025 geplant.
+Aktuell liegt für SeaTable keine Zertifizierung vor. Eine Zertifizierung von SeaTable Server durch das [Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de/DE/Home/home_node.html) ist für die zweite Jahreshälfte 2025 geplant.
 
 ## Schwachstelle melden
 

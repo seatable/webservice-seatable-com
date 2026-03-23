@@ -54,7 +54,7 @@ A Google, o Facebook e a Apple oferecem determinadas definições na conta do ut
 
 - [Para](https://myaccount.google.com/inactive?continue=https%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy) este efeito, a Google dispõe do chamado [gestor de inatividade da conta](https://myaccount.google.com/inactive?continue=https%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy): pode especificar durante a sua vida útil quem deve ser notificado quando a sua conta está inativa e quem deve ter acesso à sua conta. Também pode especificar que a sua conta seja automática e completamente eliminada após um período de tempo predefinido.
 - O Facebook dá-te a opção de designar um **contacto do espólio nas** tuas [definições pessoais](https://accountscenter.facebook.com/personal_info) que pode gerir o teu perfil em caso de morte. Também podes determinar se o teu perfil é eliminado ou memorizado após a morte.
-- Os utilizadores de dispositivos Apple podem [adicionar contactos do espólio ao ID Apple.](https://support.apple.com/de-de/HT212360) Estas pessoas podem aceder às suas fotografias, mensagens, notas, ficheiros, etc. armazenados após a sua morte, mas **não** aos dados de pagamento ou às palavras-passe.
+- Os utilizadores de dispositivos Apple podem [adicionar contactos do espólio ao ID Apple.](https://support.apple.com/de-de/102631) Estas pessoas podem aceder às suas fotografias, mensagens, notas, ficheiros, etc. armazenados após a sua morte, mas **não** aos dados de pagamento ou às palavras-passe.
 
 ## Como e porquê fazer provisões em vida
 

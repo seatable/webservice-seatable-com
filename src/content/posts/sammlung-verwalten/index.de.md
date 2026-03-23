@@ -63,7 +63,7 @@ Die Software [Data Crow](https://www.datacrow.net/) eignet sich vor allem für d
 
 ### GCstar – kostenfreie Sammlungssoftware
 
-Eine weitere kostenlose Sammlungssoftware ist [GCstar](http://www.gcstar.org/). Das Verwaltungsprogramm weist dieselben Funktionen zum Erfassen und Verwalten von Sammlungen auf wie Data Crow. Sie haben ebenfalls die Möglichkeit, Ihre Sammlung mit Informationen aus dem Internet anzureichern. Speichern Sie ab, an welchem Ort Sie den Gegenstand erworben haben, und erfassen Sie, falls Sie das Sammlungsstück an jemand ausleihen. Neben Medien können Sie natürlich auch andere Objekte inventarisieren. Wenn Sie sich für eine Open-Source-Lösung interessieren, können Sie Data Crow und GCstar testweise installieren und die Oberflächen miteinander vergleichen.
+Eine weitere kostenlose Sammlungssoftware ist [GCstar](https://gitlab.com/GCstar/). Das Verwaltungsprogramm weist dieselben Funktionen zum Erfassen und Verwalten von Sammlungen auf wie Data Crow. Sie haben ebenfalls die Möglichkeit, Ihre Sammlung mit Informationen aus dem Internet anzureichern. Speichern Sie ab, an welchem Ort Sie den Gegenstand erworben haben, und erfassen Sie, falls Sie das Sammlungsstück an jemand ausleihen. Neben Medien können Sie natürlich auch andere Objekte inventarisieren. Wenn Sie sich für eine Open-Source-Lösung interessieren, können Sie Data Crow und GCstar testweise installieren und die Oberflächen miteinander vergleichen.
 
 ### Nischen-Software für Sammler
 

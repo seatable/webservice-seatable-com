@@ -72,7 +72,7 @@ It can also be linked to your calendar, a voice assistant on your smartphone and
 
 ### Microsoft To Do: The versatile app for your to-do list
 
-With [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), you get both a daily planner and a tool for task and [shopping lists]({{< relref "posts/einkaufsliste" >}}). You can integrate tasks from Outlook and work on a list synchronously from all end devices.
+With [Microsoft To Do](https://to-do.office.com/tasks/de-de/), you get both a daily planner and a tool for task and [shopping lists]({{< relref "posts/einkaufsliste" >}}). You can integrate tasks from Outlook and work on a list synchronously from all end devices.
 
 You can sort the individual to-dos, set a deadline and tick them off. Reminders and recurring tasks are also possible. However, there are no advanced visualization options beyond the list mode, for which you will need the Planner.
 

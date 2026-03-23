@@ -15,7 +15,7 @@ seo:
 
 Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht einem Produktlaunch nichts mehr im Wege.
 
-Während der Prozess der Entwicklung bei den meisten Unternehmen schon sehr gut strukturiert ist, wird dem Produkteinführungsprozess meist zu wenig Aufmerksamkeit geschenkt. Haben Sie wirklich alle notwendigen Schritte absolviert und nichts vergessen? Mit unserem [Template]({{< relref "templates/software-development/product-launch" >}}) und diesen [5 Tipps](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837) steht einem erfolgreichen Produktlaunch nichts mehr im Wege!
+Während der Prozess der Entwicklung bei den meisten Unternehmen schon sehr gut strukturiert ist, wird dem Produkteinführungsprozess meist zu wenig Aufmerksamkeit geschenkt. Haben Sie wirklich alle notwendigen Schritte absolviert und nichts vergessen? Mit unserem [Template]({{< relref "templates/software-development/product-launch" >}}) und diesen [5 Tipps](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/) steht einem erfolgreichen Produktlaunch nichts mehr im Wege!
 
 ## Aufbau unseres Produktlaunch-Templates
 
