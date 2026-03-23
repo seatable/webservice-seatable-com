@@ -49,7 +49,7 @@ Os ganchos da Web são normalmente utilizados quando não se pretende consultar 
 
 ## Plataformas de automatização
 
-Na vida quotidiana, as pessoas trabalham frequentemente não só com um software, mas com muitas soluções ao mesmo tempo. Os contactos comerciais são armazenados num CRM como o Hubspot ou Pipedrive, os compromissos e e-mails são armazenados no Google, as newsletters são enviadas com [Mailchimp](https://mailchimp.com/) ou [Sendinblue](https://de.sendinblue.com/). Muitas vezes, deseja-se que um evento num software conduza a uma actividade noutro software. Assim, se enviar uma nova newsletter com Sendinblue, envia automaticamente um post no Facebook. Ou se alguém enviar um pedido de marcação no seu website, que os dados de contacto são automaticamente transferidos para o seu CRM.
+Na vida quotidiana, as pessoas trabalham frequentemente não só com um software, mas com muitas soluções ao mesmo tempo. Os contactos comerciais são armazenados num CRM como o Hubspot ou Pipedrive, os compromissos e e-mails são armazenados no Google, as newsletters são enviadas com [Mailchimp](https://mailchimp.com/) ou Brevo(https://www.brevo.com/). Muitas vezes, deseja-se que um evento num software conduza a uma actividade noutro software. Assim, se enviar uma nova newsletter com Brevo, envia automaticamente um post no Facebook. Ou se alguém enviar um pedido de marcação no seu website, que os dados de contacto são automaticamente transferidos para o seu CRM.
 
 É precisamente nestes casos que uma das muitas plataformas de automatização o pode ajudar. Estas ajudam-no a ligar duas ou mais soluções de software sem experiência de programação e a reagir a certos gatilhos com certas acções.
 

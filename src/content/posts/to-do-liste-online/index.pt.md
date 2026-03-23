@@ -71,7 +71,7 @@ Também pode ser ligado ao seu calendário, a um assistente de voz no seu smartp
 
 ### Microsoft To Do: A aplicação versátil para a sua lista de tarefas
 
-Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de]({{< relref "posts/einkaufsliste" >}}) tarefas e [de compras]({{< relref "posts/einkaufsliste" >}}). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
+Com o [Microsoft To Do](https://to-do.office.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de]({{< relref "posts/einkaufsliste" >}}) tarefas e [de compras]({{< relref "posts/einkaufsliste" >}}). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
 
 Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também são possíveis lembretes e tarefas recorrentes. No entanto, não existem opções de visualização avançadas para além do modo de lista; para tal, é necessário o Planner.
 

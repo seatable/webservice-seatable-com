@@ -49,7 +49,7 @@ Webhooks are typically used when you do not want to query the status of informat
 
 ## Automation platforms
 
-In everyday life, people often work not only with one software, but with many solutions at the same time. Business contacts are stored in a CRM such as Hubspot or Pipedrive, appointments and e-mails are stored in Google, and newsletters are sent with [Mailchimp](https://mailchimp.com/) or [Sendinblue](https://de.sendinblue.com/). Often you want an event in one software to lead to an activity in another software. So if you send a new newsletter with Sendinblue, that you then automatically also send a Facebook post. Or if someone sends an appointment request on your website, that the contact data is then automatically transferred to your CRM.
+In everyday life, people often work not only with one software, but with many solutions at the same time. Business contacts are stored in a CRM such as Hubspot or Pipedrive, appointments and e-mails are stored in Google, and newsletters are sent with [Mailchimp](https://mailchimp.com/) or Brevo(https://www.brevo.com/). Often you want an event in one software to lead to an activity in another software. So if you send a new newsletter with Brevo, that you then automatically also send a Facebook post. Or if someone sends an appointment request on your website, that the contact data is then automatically transferred to your CRM.
 
 Exactly in these cases, one of the many automation platforms can help you. These help you to connect two or more software solutions without programming experience and to react to certain triggers with certain actions.
 

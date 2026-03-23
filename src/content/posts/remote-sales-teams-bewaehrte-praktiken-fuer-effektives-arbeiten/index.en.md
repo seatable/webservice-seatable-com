@@ -20,7 +20,7 @@ seo:
 
 Circumstances in 2020 have significantly changed the way work is done in organizations. According to a recent [Gallup poll](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 out of 10 remote workers want to maintain this way of working to some extent.
 
-However, for salespeople who are not used to remote selling, this can prove challenging, as it is very different from person-to-person or traditional selling. However, remote working can bring many [benefits](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/) in the process, provided it is practiced correctly. It can improve the sales process, increase your team's productivity, and fill your sales pipeline without having to leave your desk.
+However, for salespeople who are not used to remote selling, this can prove challenging, as it is very different from person-to-person or traditional selling. However, remote working can bring many [benefits](https://myquickcloud.com/blog/benefits-of-remote-work/) in the process, provided it is practiced correctly. It can improve the sales process, increase your team's productivity, and fill your sales pipeline without having to leave your desk.
 
 In this article, we will show you how a remote sales team can optimally manage and monitor its marketing and sales processes.
 

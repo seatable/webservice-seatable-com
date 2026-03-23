@@ -17,7 +17,7 @@ seo:
 
 Uma vez concluído com sucesso o processo de desenvolvimento do produto, nada se interpõe no caminho do lançamento de um produto.
 
-Embora o processo de desenvolvimento já esteja muito bem estruturado na maioria das empresas, é normalmente dada muito pouca atenção ao processo de lançamento do produto. Concluiu realmente todos os passos necessários e não se esqueceu de nada? Com o nosso [modelo]({{< relref "templates/software-development/product-launch" >}}) e estas [5 dicas](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837), nada impede o lançamento de um produto de sucesso!
+Embora o processo de desenvolvimento já esteja muito bem estruturado na maioria das empresas, é normalmente dada muito pouca atenção ao processo de lançamento do produto. Concluiu realmente todos os passos necessários e não se esqueceu de nada? Com o nosso [modelo]({{< relref "templates/software-development/product-launch" >}}) e estas [5 dicas](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada impede o lançamento de um produto de sucesso!
 
 ## Estrutura do nosso modelo de lançamento de produtos
 

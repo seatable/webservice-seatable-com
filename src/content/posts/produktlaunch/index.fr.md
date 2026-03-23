@@ -17,7 +17,7 @@ seo:
 
 Une fois le processus de développement du produit terminé avec succès, plus rien ne s'oppose au lancement du produit.
 
-Alors que le processus de développement est déjà très bien structuré dans la plupart des entreprises, le processus de lancement du produit ne bénéficie généralement pas d'une attention suffisante. Avez-vous vraiment franchi toutes les étapes nécessaires et n'avez-vous rien oublié ? Avec notre [modèle]({{< relref "templates/software-development/product-launch" >}}) et ces [5 conseils](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837), plus rien ne s'oppose à un lancement de produit réussi !
+Alors que le processus de développement est déjà très bien structuré dans la plupart des entreprises, le processus de lancement du produit ne bénéficie généralement pas d'une attention suffisante. Avez-vous vraiment franchi toutes les étapes nécessaires et n'avez-vous rien oublié ? Avec notre [modèle]({{< relref "templates/software-development/product-launch" >}}) et ces [5 conseils](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), plus rien ne s'oppose à un lancement de produit réussi !
 
 ## Structure de notre modèle de lancement de produit
 

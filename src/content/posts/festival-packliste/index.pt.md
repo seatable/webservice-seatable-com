@@ -17,7 +17,7 @@ seo:
 
 Quando a época dos festivais começa e a expetativa de boa música e de experiências partilhadas com amigos aumenta, é altura de voltar a fazer as malas. Para garantir que a sua visita ao festival corre bem e não é ensombrada por problemas e aborrecimentos, é crucial **uma preparação minuciosa**.
 
-Quer se esteja a preparar para o lendário [Wacken](https://www.wacken.com/de/), para o emocionante [Rock am Ring](https://www.rock-am-ring.com) ou para o enérgico [Hurricane](https://hurricane.de/de/) Festival - há alguns itens indispensáveis em todas as listas de embalagem de festivais.
+Quer se esteja a preparar para o lendário [Wacken](https://www.wacken.com/de/), para o emocionante [Rock am Ring](https://www.rock-am-ring.com) ou para o enérgico [Hurricane](https://hurricane.de/) Festival - há alguns itens indispensáveis em todas as listas de embalagem de festivais.
 
 ![Lista de bagagem para o festival: Homem carrega mulher à boleia no festival](group-friends-having-fun-together-711x475.jpg)
 

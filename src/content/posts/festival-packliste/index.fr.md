@@ -17,7 +17,7 @@ seo:
 
 Lorsque la saison des festivals commence et que l'on se réjouit de pouvoir écouter de la bonne musique et de partager des moments avec des amis, il est temps de boucler ses bagages. Pour que votre visite au festival se déroule sans accroc et ne soit pas assombrie par des problèmes et des contrariétés, une **préparation minutieuse** est essentielle.
 
-Que vous vous prépariez pour le légendaire [Wacken](https://www.wacken.com/de/), l'entraînant [Rock am Ring](https://www.rock-am-ring.com) ou l'énergique [Hurricane](https://hurricane.de/de/) Festival, certains must-have sont obligatoires sur toute liste de colisage de festival.
+Que vous vous prépariez pour le légendaire [Wacken](https://www.wacken.com/de/), l'entraînant [Rock am Ring](https://www.rock-am-ring.com) ou l'énergique [Hurricane](https://hurricane.de/) Festival, certains must-have sont obligatoires sur toute liste de colisage de festival.
 
 ![Liste de colisage pour le festival : L'homme porte sa femme sur son dos au festival](group-friends-having-fun-together-711x475.jpg)
 

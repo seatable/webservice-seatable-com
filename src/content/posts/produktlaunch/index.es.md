@@ -17,7 +17,7 @@ seo:
 
 Una vez que haya completado con éxito el proceso de desarrollo del producto, nada se interpone en el camino de su lanzamiento.
 
-Aunque el proceso de desarrollo ya está muy bien estructurado en la mayoría de las empresas, se suele prestar muy poca atención al proceso de lanzamiento del producto. ¿Realmente ha completado todos los pasos necesarios y no ha olvidado nada? Con nuestra [plantilla]({{< relref "templates/software-development/product-launch" >}}) y estos [5 consejos](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837), nada se interpone en el camino de un lanzamiento de producto exitoso.
+Aunque el proceso de desarrollo ya está muy bien estructurado en la mayoría de las empresas, se suele prestar muy poca atención al proceso de lanzamiento del producto. ¿Realmente ha completado todos los pasos necesarios y no ha olvidado nada? Con nuestra [plantilla]({{< relref "templates/software-development/product-launch" >}}) y estos [5 consejos](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada se interpone en el camino de un lanzamiento de producto exitoso.
 
 ## Estructura de nuestra plantilla de lanzamiento de productos
 

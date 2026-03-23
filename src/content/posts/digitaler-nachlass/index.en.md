@@ -54,7 +54,7 @@ Google, Facebook and Apple offer certain settings in the user account in which a
 
 - Google has a so-called [account inactivity manager for](https://myaccount.google.com/inactive?continue=https%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy) this purpose: You can specify during your lifetime who will be notified when your account is inactive and who should have access to your account. Likewise, you can specify that your account will be automatically and completely deleted after a specified time.
 - Facebook gives you the option to designate an **estate contact in** your [personal settings](https://accountscenter.facebook.com/personal_info) who is allowed to manage your profile in case of death. You can also specify whether your profile will be deleted or memorialized after death.
-- Apple device users can [add estate contacts to Apple ID.](https://support.apple.com/de-de/HT212360) These people can access your stored photos, messages, notes, files, etc. after your death, but **not** payment data or passwords.
+- Apple device users can [add estate contacts to Apple ID.](https://support.apple.com/de-de/102631) These people can access your stored photos, messages, notes, files, etc. after your death, but **not** payment data or passwords.
 
 ## How and why you should make provisions during your lifetime
 
