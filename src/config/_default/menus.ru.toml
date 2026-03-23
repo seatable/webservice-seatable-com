@@ -256,7 +256,7 @@ pageRef = "pages/jobs"
 weight = 32
 
 [[footer]]
-name = "Нажмите"
+name = "Пресса"
 parent = "Компания"
 pageRef = "pages/press"
 weight = 33
