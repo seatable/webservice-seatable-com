@@ -31,7 +31,7 @@ Mit der Bestätigung der Löschung lösen Sie unmittelbar die folgenden Aktionen
 - Alle Bases und darin enthaltenen Daten werden gelöscht.
 - Ihr Abonnement, sofern Sie eines abgeschlossen haben, wird gelöscht.
 - Ihre Daten werden so weit wie möglich aus unserem Zahlungssystem Stripe entfernt. Wenn Rechnungen erzeugt wurden, darf Stripe Ihren Account aber nicht vollständig löschen.
-- Ihre E-Mail-Adressen werden aus unserem E-Mail-System Sendinblue entfernt.
+- Ihre E-Mail-Adressen werden aus unserem E-Mail-System Brevo entfernt.
 
 {{< warning  type="warning" headline="Warnung"  text="Die Löschung Ihres Teams können Sie **nicht** rückgängig machen. Alle Daten gehen **unwiederbringlich** verloren. Mit der **Löschung Ihres Teams** geht auch die **Löschung Ihres Vertrags** einher." />}}
 

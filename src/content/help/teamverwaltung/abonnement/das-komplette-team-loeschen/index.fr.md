@@ -33,7 +33,7 @@ En confirmant la suppression, vous déclenchez immédiatement les actions suivan
 - Toutes les bases et les données qu'elles contiennent sont supprimées.
 - Votre abonnement, si vous en avez souscrit un, sera supprimé.
 - Dans la mesure du possible, vos données sont supprimées de notre système de paiement Stripe. Si des factures ont été générées, Stripe ne peut cependant pas supprimer complètement votre compte.
-- Vos adresses électroniques seront supprimées de notre système de messagerie Sendinblue.
+- Vos adresses électroniques seront supprimées de notre système de messagerie Brevo.
 
 {{< warning  headline="Avertissement"  text="Vous ne pouvez **pas** annuler la suppression de votre équipe. Toutes les données sont **irrémédiablement** perdues. La **suppression de votre équipe** s'accompagne également de la **suppression de votre contrat**." />}}
 

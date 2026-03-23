@@ -24,7 +24,7 @@ An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 
 
 ### Creating an app password
 
-1. Open Google's [app password management](https://myaccount.google.com/apppasswords) - log in to your **Google account** when prompted.
+1. Open Google's app password management - log in to your **Google account** when prompted.
 2. Enter a **name**, e.g. 'SeaTable', and click on "Create".
 
 ![Generating a Google app password](images/Google_App_Password.gif)

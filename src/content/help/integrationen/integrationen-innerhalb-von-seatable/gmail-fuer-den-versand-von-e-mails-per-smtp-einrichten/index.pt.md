@@ -24,7 +24,7 @@ Uma [palavra-passe de aplicação](https://support.google.com/accounts/answer/18
 
 ### Criação de uma palavra-passe de aplicação
 
-1. Abra a [gestão de palavras-passe da aplicação](https://myaccount.google.com/apppasswords) do Google - inicie sessão na sua **conta Google** quando lhe for pedido.
+1. Abra a gestão de palavras-passe da aplicação do Google - inicie sessão na sua **conta Google** quando lhe for pedido.
 2. Introduza um **nome**, por exemplo, "SeaTable", e clique em "Criar".
 
 ![Gerar uma palavra-passe da aplicação Google](images/Google_App_Password.gif)
