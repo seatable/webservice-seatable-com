@@ -11,7 +11,7 @@ seo:
     title: 'SeaTable 6.1: Mais potência para aplicações, bases e integrações'
     description: 'SeaTable 6.1 traz novas funcionalidades para o App Builder, o Base Editor e na área das integrações. Há algo para todos.'
 register:
-   show: true    
+    show: true
 ---
 
 No **App Builder**, o número de [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) aumenta para 10; o tipo de página **Map** é novo. SeaTable 6.1 expande as opções para colunas de ligação nos outros tipos de página. Pode agora configurá-las uniformemente e atribuir-lhes autorizações com um grau de precisão elevado. Os utilizadores de aplicações podem esperar uma **opção de impressão para dashboards**, bem como funções alargadas de filtragem e ordenação.
@@ -37,6 +37,7 @@ Um **Token da API do Google** deve ser armazenado na configuração do SeaTable 
 {{< /warning >}}
 
 SeaTable 6.1 normaliza as opções de definição e o conceito de autorização para **Colunas de ligação no App Builder**. Pode ativar três autorizações individualmente em páginas do tipo Galeria, Kanban, Calendário, Linha de tempo e Registo único:
+
 - Criar e ligar novas entradas
 - Ligar registos existentes
 - Editar registos ligados
@@ -68,6 +69,7 @@ As novas visualizações irão **substituir os plugins com o mesmo nome**. No en
 ### Regras de filtragem em colunas de ligações
 
 Uma das novas funcionalidades mais úteis está um pouco escondida nas definições da coluna de links: A opção **Restringir ligações com uma regra de filtro**. Isto permite-lhe restringir a seleção de linhas ligadas com base em regras simples ou complexas. Os próprios filtros podem ser estáticos ou dinâmicos:
+
 - Com um **filtro estático**, é utilizado um valor de filtro normalizado para filtrar as linhas na tabela ligada (por exemplo, apenas as linhas que não tenham o valor "arquivado" podem ser ligadas). O efeito é, portanto, semelhante ao da opção **Restringir ligações a uma vista**.
 - Com um **filtro dinâmico**, o valor de filtro utilizado para filtrar as linhas na tabela ligada é um valor de coluna da linha ativa (por exemplo, apenas as linhas cujo estado é idêntico ao estado da linha ativa podem ser ligadas). **Linhas com diferentes valores de filtro** têm, portanto, diferentes linhas ligáveis.
 
@@ -86,6 +88,7 @@ A segunda nova integração diz respeito ao Google Calendar. A nova ação de au
 ### Atualização do plugin de relações de tabela
 
 O [Table Relationships Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) é um velho conhecido e recebe uma extensa atualização com SeaTable 6.1:
+
 - As tabelas podem ser ocultadas individualmente
 - As colunas apresentadas podem ser controladas através da seleção de uma vista
 - As ligações dentro de uma tabela podem ser ocultadas
@@ -116,7 +119,7 @@ O plugin de Chat IA está atualmente em fase beta. Teríamos todo o gosto em que
 
 - Os [Formulários]({{< relref "help/base-editor/webformulare/webformulare" >}}) – tanto os formulários clássicos como os das aplicações – podem agora ser concebidos com **páginas múltiplas**. Isto aumenta a clareza de forma notável assim que estiverem envolvidos muitos campos.
 
-- [Colunas de e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) permitem o armazenamento de endereços de e-mail no formato "Nome de exibição < mail@example.com >". O envio de mensagens de correio eletrónico para esses endereços falhava anteriormente – tanto nas regras de automatização como nos botões. Isto passou à história com SeaTable 6.1.
+- [Colunas de e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) permitem o armazenamento de endereços de e-mail no formato 'Nome de exibição < mail@example.com >'. O envio de mensagens de correio eletrónico para esses endereços falhava anteriormente – tanto nas regras de automatização como nos botões. Isto passou à história com SeaTable 6.1.
 
 - A nova [Ação de automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) **Arquivo** permite-lhe automatizar a movimentação de registos de dados do Base Editor para o [Big Data backend]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). A ação é oferecida para ambos os accionadores periódicos.
 

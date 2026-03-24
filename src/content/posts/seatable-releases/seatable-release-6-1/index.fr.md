@@ -11,16 +11,16 @@ seo:
     title: 'SeaTable 6.1 : Plus de puissance pour les applications, les bases et les intégrations'
     description: "SeaTable 6.1 apporte des nouveautés pour l'App Builder, le Base Editor et dans la section Intégrations. Il y en a pour tout le monde."
 register:
-   show: true    
+    show: true
 ---
 
-Dans l'**App Builder**, le nombre de [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) passe à 10 ; le type de page **Carte** est nouveau. Pour les autres types de pages, SeaTable 6.1 étend les possibilités des colonnes de liens. Celles-ci peuvent désormais être configurées de manière cohérente et se voir attribuer des permissions finement définies. Les utilisateurs de l'application peuvent également profiter d'une **option d'impression pour le Tableau de bord** ainsi que de fonctions de filtrage et de tri avancées.
+Dans l'**App Builder**, le nombre de [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) passe à 10 ; le type de page **Carte** est nouveau. Pour les autres types de pages, SeaTable 6.1 étend les possibilités des colonnes de liens. Celles-ci peuvent désormais être configurées de manière cohérente et se voir attribuer des permissions finement définies. Les utilisateurs de l'application peuvent également profiter d'une **option d'impression pour les tableaux de bord** ainsi que de fonctions de filtrage et de tri avancées.
 
 Dans le **Base Editor**, la [colonne de Lien vers d’autres entrées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est mise en avant par une mise à jour fonctionnelle : des règles de filtrage dynamique permettent de contrôler les lignes sélectionnables en fonction de la ligne d'origine respective – chaque ligne reçoit ainsi sa propre sélection. Les deux [types de vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) **Arbre** et **Ligne du temps** sont également nouveaux et remplacent les plugins du même nom. Dans les journaux de base, les filtres permettent d'obtenir une meilleure vue d'ensemble de l'activité dans une base.
 
-La section **Intégrations** a également connu quelques changements : SeaTable 6.1 introduit une connexion à Google Agenda et une fonction d'importation depuis Airtable. Le plugin amélioré de relations entre les tables est accompagné du nouveau [plugin de Chat IA]({{< relref "help/ai/ai-chat/introduction" >}}), qui permet d'effectuer des analyses et des modifications de données en langage naturel.
+La section **Intégrations** a également connu quelques changements : SeaTable 6.1 introduit une connexion à Google Agenda et une fonction d'importation depuis Airtable. Le plugin relations de table a été amélioré. De plus, il est accompagné d'un tout nouveau plugin [Chat IA]({{< relref "help/ai/ai-chat/introduction" >}}), qui permet d'effectuer des analyses et des modifications de données en langage naturel.
 
-SeaTable 6.1 est maintenant disponible en téléchargement dans le fameux [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) ; dans le [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b47bc8f30/), vous trouverez – comme toujours – la liste complète des changements.
+SeaTable 6.1 est maintenant disponible en téléchargement dans le [référentiel Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) bien connu ; dans le [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b47bc8f30/), vous trouverez – comme toujours – la liste complète des changements.
 
 La nouvelle version sera déployée sur [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) le 25 mars. Cette mise à jour s'accompagne d'une revalorisation des abonnements Free et Plus. **Les automatisations**, jusqu'à présent exclusivement incluses dans l'abonnement Enterprise, seront désormais également disponibles dans [Free et Plus]({{< relref "pages/prices" >}}). Les équipes Free recevront 100 exécutions d'automatisation par mois ; les équipes Plus 500 exécutions par mois et par membre de l'équipe. Le prix de l'abonnement Plus ne sera pas affecté et Free restera gratuit.
 
@@ -37,17 +37,18 @@ Un **token API Google** doit être défini dans la configuration de SeaTable Ser
 {{< /warning >}}
 
 SeaTable 6.1 unifie les options de paramétrage et le concept d'autorisation pour les **colonnes de liens dans l'App Builder**. Trois autorisations peuvent être activées individuellement sur les pages de type Galerie, Kanban, Calendrier, Ligne de temps et Enregistrement unique :
-- Créer et lier de nouvelles entrées
-- Lier des entrées existantes
-- Modifier les entrées liées
 
-Dans SeaTable 6.2, une quatrième autorisation **Supprimer les liens existants** sera ajoutée. Les pages de type Tableau de bord et Requête ne disposeront toujours pas de paramètres de lien, car ces deux types de pages ne permettent en principe pas de modification.
+- Ajouter et relier de nouveaux enregistrements
+- Relier des enregistrements existants
+- Modifier les enregistrements reliés
+
+Dans SeaTable 6.2, une quatrième autorisation **Supprimer les liens existants** sera ajoutée. Les pages de type Dashboard et Requête ne disposeront toujours pas de paramètres de lien, car ces deux types de pages ne permettent en principe pas de modification.
 
 Les **paramètres de colonne pour le tableau lié** permettent d'adapter individuellement ces autorisations à un cas d'utilisation concret. L'administrateur de l'application peut définir quelles colonnes sont affichées dans le tableau lié, lesquelles sont modifiables et lesquelles sont obligatoires.
 
 Sur les types de pages Galerie, Kanban et Calendrier, des **fonctions de tri et de filtrage** ont été ajoutées dans la nouvelle version. Celles-ci permettent aux utilisateurs de l'application d'adapter le volume des données affichées et leur présentation – un gain sensible de clarté dès lors que la quantité de données augmente.
 
-La **nouvelle fonction d'impression sur la page du Tableau de bord** offre une plus grande flexibilité. Si elle est activée, elle permet d'imprimer facilement une page sur papier.
+La **nouvelle fonction d'impression sur la page Dashboard** offre une plus grande flexibilité. Si elle est activée, elle permet d'imprimer facilement une page sur papier.
 
 ## Base Editor plus puissant
 
@@ -67,8 +68,9 @@ Les nouvelles vues **remplaceront les plugins du même nom**. La réimplémentat
 
 ### Règles de filtrage dans les colonnes de Lien vers d’autres entrées
 
-Un peu caché dans les paramètres de la colonne de Lien vers d’autres entrées se trouve l'une des nouveautés les plus utiles : L'option **Restreindre les liens avec une règle de filtrage**. Cela permet de restreindre la sélection des lignes pouvant être liées sur la base de règles simples ou complexes. Les filtres eux-mêmes peuvent être statiques ou dynamiques :
-- Dans le cas d'un **filtre statique**, une valeur de filtre uniforme est utilisée pour filtrer les lignes dans la table liée (par exemple, seules les lignes qui n'ont pas la valeur "archivé" peuvent être liées). L'effet est donc analogue à celui de l'option **Restreindre les liens à une seule vue**.
+Un peu caché dans les paramètres de la colonne de Lien vers d’autres entrées se trouve l'une des nouveautés les plus utiles : L'option **Limiter la sélection des liens avec un filtre**. Cela permet de restreindre la sélection des lignes pouvant être liées sur la base de règles simples ou complexes. Les filtres eux-mêmes peuvent être statiques ou dynamiques :
+
+- Dans le cas d'un **filtre statique**, une valeur de filtre uniforme est utilisée pour filtrer les lignes dans la table liée (par exemple, seules les lignes qui n'ont pas la valeur "archivé" peuvent être liées). L'effet est donc analogue à celui de l'option **Limiter la sélection des liens à une seule vue**.
 - Dans le cas d'un **filtre dynamique**, la valeur de filtre utilisée pour filtrer les lignes dans le tableau lié est une valeur de colonne de la ligne active (par exemple, seules les lignes dont l'état est identique à l'état de la ligne active peuvent être liées). **Les lignes avec des valeurs de filtre différentes** ont donc des lignes liées différentes.
 
 ![règles de filtrage dans les colonnes de Lien vers d’autres entrées](dynamic-link-selection-filters-seatable-6-1.png)
@@ -81,11 +83,12 @@ Les administrateurs seront ravis d'apprendre que des options de filtrage ont ét
 
 Le passage d'Airtable à SeaTable n'a jamais été aussi simple avec SeaTable 6.1 : lors de la création d'une nouvelle base, il suffit de sélectionner **Importer la base depuis Airtable**, de saisir un ID de base Airtable et un jeton d'accès personnel dans la boîte de dialogue d'importation, et le tour est joué. SeaTable s'occupe du reste.
 
-La deuxième nouvelle intégration concerne Google Agenda. La nouvelle action d'automatisation **Gérer les rendez-vous dans Google Agenda** permet de créer des rendez-vous dans un Google Agenda directement depuis SeaTable et de mettre à jour les rendez-vous existants.
+La deuxième nouvelle intégration concerne Google Agenda. La nouvelle action d'automatisation **Gérer les événements dans Google Agenda** permet de créer des événements dans un Google Agenda directement depuis SeaTable et de mettre à jour les événements existants.
 
 ### Mise à jour du plugin de relations entre les tables
 
-Le plugin [Relations entre les tables]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) est une vieille connaissance qui bénéficie d'une mise à jour importante avec SeaTable 6.1 :
+Le plugin [Relations de table]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) est une vieille connaissance qui bénéficie d'une mise à jour importante avec SeaTable 6.1 :
+
 - Les tableaux peuvent être masqués individuellement
 - Les colonnes affichées peuvent être contrôlées par la sélection d'une vue
 - Les liens dans un tableau peuvent être masqués
@@ -116,7 +119,7 @@ Le plugin de Chat IA est en phase bêta. Nous vous invitons à partager votre ex
 
 - Les [formulaires]({{< relref "help/base-editor/webformulare/webformulare" >}}), qu'ils soient classiques ou dans des apps, peuvent désormais être **multi-pages**. Cela améliore sensiblement la clarté dès qu'il y a beaucoup de champs en jeu.
 
-- Les [colonnes d'e-mails]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) permettent de stocker des adresses e-mail au format "nom d'affichage < mail@example.com >". L'envoi d'e-mails à de telles adresses échouait jusqu'à présent, que ce soit dans les règles d'automatisation ou les boutons. Ceci est de l'histoire ancienne avec SeaTable 6.1.
+- Les [colonnes d'e-mails]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) permettent de stocker des adresses e-mail au format 'nom d'affichage < mail@example.com >'. L'envoi d'e-mails à de telles adresses échouait jusqu'à présent, que ce soit dans les règles d'automatisation ou les boutons. Ceci est de l'histoire ancienne avec SeaTable 6.1.
 
 - La nouvelle [action d'automatisation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) **archivage** permet d'automatiser le déplacement des enregistrements du Base Editor vers le [backend Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). L'action est proposée pour les deux déclencheurs périodiques.
 

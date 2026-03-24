@@ -11,7 +11,7 @@ seo:
     title: 'SeaTable 6.1: Más potencia para aplicaciones, bases e integraciones'
     description: 'SeaTable 6.1 aporta nuevas funciones para el App Builder, el Base Editor y en el ámbito de las integraciones. Hay para todos los gustos.'
 register:
-   show: true    
+    show: true
 ---
 
 En el **App Builder**, el número de [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) aumenta a 10; el tipo de página **Mapa** es nuevo. SeaTable 6.1 amplía las opciones para las columnas de enlace en los demás tipos de página. Ahora se pueden configurar de manera uniforme y asignarles autorizaciones finamente graduadas. Los usuarios de aplicaciones pueden esperar una **opción de impresión para los cuadros de mando**, así como funciones ampliadas de filtrado y clasificación.
@@ -37,6 +37,7 @@ Debe almacenarse un **token de la API de Google** en la configuración del SeaTa
 {{< /warning >}}
 
 SeaTable 6.1 estandariza las opciones de configuración y el concepto de autorización para **columnas de enlace en el App Builder**. Se pueden activar individualmente tres autorizaciones en las páginas de tipo Galería, Kanban, Calendario, Línea de tiempo y Registro único:
+
 - Crear y vincular nuevas entradas
 - Vincular entradas existentes
 - Editar entradas vinculadas
@@ -68,6 +69,7 @@ Las nuevas vistas **reemplazarán a los plugins del mismo nombre**. Sin embargo,
 ### Reglas de filtrado en las columnas de enlaces
 
 Una de las novedades más útiles está algo escondida en los ajustes de la columna de enlaces: La opción **Restringir enlaces con una regla de filtrado**. Esto le permite restringir la selección de filas enlazables basándose en reglas simples o complejas. Los propios filtros pueden ser estáticos o dinámicos:
+
 - Con un **filtro estático**, se utiliza un valor de filtro normalizado para filtrar las filas de la tabla enlazada (por ejemplo, sólo se pueden enlazar las filas que no tengan el valor "archivado"). El efecto es, por tanto, similar al de la opción **Restringir los enlaces a una vista**.
 - Con un **filtro dinámico**, el valor de filtro utilizado para filtrar las filas de la tabla vinculada es un valor de columna de la fila activa (por ejemplo, sólo pueden vincularse las filas cuyo estado sea idéntico al estado de la fila activa). **Las filas con diferentes valores de filtro** tienen, por tanto, diferentes filas vinculables.
 
@@ -86,6 +88,7 @@ La segunda nueva integración se refiere a Google Calendar. La nueva acción de 
 ### Actualización del plugin de relaciones entre tablas
 
 El [plugin de relaciones entre tablas]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) es un viejo conocido y recibe una amplia actualización con SeaTable 6.1:
+
 - Las tablas pueden ocultarse individualmente
 - Las columnas mostradas pueden controlarse seleccionando una vista
 - Los enlaces dentro de una tabla pueden ocultarse
@@ -116,7 +119,7 @@ El plugin de Chat IA se encuentra actualmente en fase beta. Estaremos encantados
 
 - Los [formularios]({{< relref "help/base-editor/webformulare/webformulare" >}}) – tanto los formularios clásicos como los de las aplicaciones – pueden diseñarse ahora con **páginas múltiples**. Esto aumenta notablemente la claridad en cuanto intervienen muchos campos.
 
-- [Columnas de correo electrónico]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) permiten almacenar direcciones de correo electrónico con el formato "Nombre para mostrar < mail@example.com >". El envío de correos electrónicos a este tipo de direcciones fallaba anteriormente, tanto en las reglas de automatización como en los botones. Esto es historia con SeaTable 6.1.
+- [Columnas de correo electrónico]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) permiten almacenar direcciones de correo electrónico con el formato 'Nombre para mostrar < mail@example.com >'. El envío de correos electrónicos a este tipo de direcciones fallaba anteriormente, tanto en las reglas de automatización como en los botones. Esto es historia con SeaTable 6.1.
 
 - La nueva [Acción de automatización]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) **Archive** le permite automatizar el traslado de registros de datos desde el Base Editor al [backend de Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). La acción se ofrece para ambos activadores periódicos.
 

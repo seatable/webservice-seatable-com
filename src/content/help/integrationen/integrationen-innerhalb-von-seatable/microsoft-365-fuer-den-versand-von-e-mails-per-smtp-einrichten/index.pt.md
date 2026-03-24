@@ -22,8 +22,8 @@ seo:
 Para poder utilizar a sua conta Microsoft 365 no SeaTable para enviar e-mails, deve primeiro criar e configurar uma aplicação no Entra Admin Centre da Microsoft.
 
 1. Inicie sessão no [Microsoft Entra Admin Centre](https://entra.microsoft.com/). O utilizador necessita de direitos de administrador para a conta que será utilizada para o envio.
-2. Expanda a secção **Aplicações** na navegação lateral e, em seguida, clique em **Registos de aplicações**.
-3. Criar um novo início de sessão clicando em **\+ Novo registo**. Introduza um nome (por exemplo, "SeaTable") e selecione "Contas em qualquer diretório da organização (qualquer cliente Microsoft Entra ID - compatível com vários clientes) e contas pessoais Microsoft (por exemplo, Skype, Xbox)" como tipo de conta. Deve ser criada uma entrada com a plataforma "Web" e o seguinte URI no URI de redireccionamento:
+2. Clique em **Registos de aplicações** na barra de navegação da página.
+3. Crie um novo login clicando em **\+ Novo registo**. Introduza um nome (por exemplo, 'SeaTable') e selecione 'Qualquer Inquilino do Entra ID + contas Microsoft pessoais' como tipo de conta. Registe o seguinte URI de redirecionamento para uma aplicação do tipo 'Web'.
 
     ```
     https://cloud.seatable.io/oauth/third-party-email-accounts/callback/
@@ -32,7 +32,7 @@ Para poder utilizar a sua conta Microsoft 365 no SeaTable para enviar e-mails, d
     Se não estiver a utilizar o SeaTable Cloud, substitua cloud.seatable.io pelo nome do anfitrião da sua instância do SeaTable. Conclua a criação do registo da aplicação clicando em "Registar".
 
 4. Tome nota do **ID da aplicação (cliente)** na página de resumo da aplicação atualmente registada. Isto é necessário para configurar a conta de correio eletrónico no SeaTable.
-5. Na navegação lateral da aplicação, clique em **Certificados e segredos**para gerar a chave do cliente. Isto é feito no separador **Chaves secretas de cliente**. Atribuir uma descrição e um "Válido até" à chave.
+5. Para gerar a chave de cliente, aceda a **Certificados e segredos** no menu de navegação da aplicação. Clique em **Novo segredo de cliente**. Introduza uma descrição e uma data de validade para a chave.
 
     ![Criar um segredo de cliente para uma aplicação registada no Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
@@ -49,16 +49,13 @@ Agora é necessário adicionar a sua conta Microsoft 365 ao SeaTable Base. Para 
 1. Abra as opções da base alargada clicando no **ícone de três pontos** {{< seatable-icon icon="dtable-icon-more-level" >}} no canto superior direito.
 2. Seleccionar a opção **Integração de Terceiros**.
 3. Clique em **Adicionar conta de correio eletrónico**.
-4. Selecione **Outlook** como o fornecedor de serviços.
-5. Introduza as seguintes informações e, em seguida, clique no botão "Enviar" no canto superior direito:
+4. Selecione **Microsoft (Microsoft 365 and Outlook)** como o fornecedor de serviços.
+5. Introduza as seguintes informações e, em seguida, clique no botão **Enviar** no canto superior direito:
     - **Nome da conta**: Uma breve descrição da conta (por exemplo, "Microsoft 365")
-    - **Nome de utilizador**: "me".
-    - **ID do cliente**: o ID da aplicação (cliente) da aplicação criada
+    - **ID da aplicação (cliente)**: o ID da aplicação (cliente) da aplicação criada
     - **Chave de cliente**: a chave de cliente secreta da aplicação criada
-6. Confirmar a criação da conta de correio eletrónico com autenticação OAuth2.
-7. Clique em "Seguinte" quando for notificado de que esta aplicação não foi verificada e permita o acesso à conta Microsoft.
-
-![O screencast aceita as permissões solicitadas](images/Accept-Permissions-Requested-Microsoft.gif)
+6. Conceda as permissões solicitadas clicando em **Aceitar**.
+   ![O screencast aceita as permissões solicitadas](images/Accept-Permissions-Requested-Microsoft.gif)
 
 ## Enviar e-mails através de automação ou botão
 

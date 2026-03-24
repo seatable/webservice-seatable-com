@@ -43,6 +43,7 @@ sections:
       anchor: release-6
       items:
         - text: 'Version **6.0.10** le 4 novembre 2025 : [Notes de version 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
+        - text: 'Version **6.1.8** le 20 mars 2026 : [Notes de version 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}})'
       template: "c9124bcd934b47bc8f30"
 
     - name: "content-26"
