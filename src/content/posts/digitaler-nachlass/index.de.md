@@ -52,7 +52,7 @@ Google, Facebook und Apple bieten im Benutzerkonto bestimmte Einstellungen an, i
 
 - Google hat dafür einen sogenannten [Kontoinaktivität-Manager](https://myaccount.google.com/inactive?continue=https%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy): Sie können zu Lebzeiten festlegen, wer bei Inaktivität Ihres Kontos benachrichtigt wird und Zugriff auf Ihr Konto erhalten soll. Ebenso können Sie bestimmen, dass Ihr Konto nach einer vorgegebenen Zeit automatisch und komplett gelöscht wird.
 - Facebook gibt Ihnen die Möglichkeit, einen **Nachlasskontakt** in Ihren [persönlichen Einstellungen](https://accountscenter.facebook.com/personal_info) zu bestimmen, der Ihr Profil im Todesfall verwalten darf. Außerdem können Sie festlegen, ob Ihr Profil nach dem Tod gelöscht oder in den Gedenkzustand versetzt wird.
-- Nutzer von Apple-Geräten können [Nachlasskontakte zur Apple-ID hinzufügen](https://support.apple.com/de-de/HT212360). Diese Personen können nach Ihrem Tod auf Ihre gespeicherten Fotos, Nachrichten, Notizen, Dateien etc. zugreifen, aber **nicht** auf Zahlungsdaten oder Passwörter.
+- Nutzer von Apple-Geräten können [Nachlasskontakte zur Apple-ID hinzufügen](https://support.apple.com/de-de/102631). Diese Personen können nach Ihrem Tod auf Ihre gespeicherten Fotos, Nachrichten, Notizen, Dateien etc. zugreifen, aber **nicht** auf Zahlungsdaten oder Passwörter.
 
 ## Wie und warum Sie noch zu Lebzeiten vorsorgen sollten
 

@@ -71,7 +71,7 @@ Un lien avec votre calendrier, un assistant vocal sur votre smartphone et d'autr
 
 ### Microsoft To Do : l'application polyvalente pour votre liste de choses à faire
 
-Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes]({{< relref "posts/einkaufsliste" >}}) de tâches et [d'achats]({{< relref "posts/einkaufsliste" >}}). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
+Avec [Microsoft To Do](https://to-do.office.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes]({{< relref "posts/einkaufsliste" >}}) de tâches et [d'achats]({{< relref "posts/einkaufsliste" >}}). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
 
 Il est possible de trier les différentes tâches à faire, de leur attribuer un délai et de les cocher. Des rappels et des tâches répétitives sont également possibles. Au-delà du mode liste, il n'y a cependant pas d'options avancées pour la visualisation, vous avez alors besoin du Planner.
 

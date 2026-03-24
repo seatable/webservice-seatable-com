@@ -17,7 +17,7 @@ seo:
 
 When the festival season begins and the anticipation of good music and shared experiences with friends increases, it's time to pack your bags again. To ensure that your festival visit runs smoothly and is not overshadowed by problems and annoyances, **thorough preparation** is crucial.
 
-Whether you're getting ready for the legendary [Wacken](https://www.wacken.com/de/), the thrilling [Rock am Ring](https://www.rock-am-ring.com) or the energetic [Hurricane](https://hurricane.de/de/) Festival - there are a few must-haves on every festival packing list.
+Whether you're getting ready for the legendary [Wacken](https://www.wacken.com/de/), the thrilling [Rock am Ring](https://www.rock-am-ring.com) or the energetic [Hurricane](https://hurricane.de/) Festival - there are a few must-haves on every festival packing list.
 
 ![Festival packing list: Man carries woman piggyback at festival](group-friends-having-fun-together-711x475.jpg)
 

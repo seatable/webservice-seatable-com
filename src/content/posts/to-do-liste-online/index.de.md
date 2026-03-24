@@ -70,7 +70,7 @@ Eine Verknüpfung mit Ihrem Kalender, einem Sprachassistenten auf dem Smartphone
 
 ### Microsoft To Do: Die vielseitige App für Ihre To-do-Liste
 
-Mit [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/) erhalten Sie sowohl einen Tagesplaner als auch ein Tool für Aufgaben- und [Einkaufslisten]({{< relref "posts/einkaufsliste" >}}). Sie können Aufgaben aus Outlook einbinden und von allen Endgeräten synchron an einer Liste arbeiten.
+Mit [Microsoft To Do](https://to-do.office.com/tasks/de-de/) erhalten Sie sowohl einen Tagesplaner als auch ein Tool für Aufgaben- und [Einkaufslisten]({{< relref "posts/einkaufsliste" >}}). Sie können Aufgaben aus Outlook einbinden und von allen Endgeräten synchron an einer Liste arbeiten.
 
 Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken. Erinnerungen und sich wiederholende Aufgaben sind ebenfalls möglich. Über den Listenmodus hinaus gibt es allerdings keine erweiterten Optionen zur Visualisierung, dafür benötigen Sie dann den Planner.
 

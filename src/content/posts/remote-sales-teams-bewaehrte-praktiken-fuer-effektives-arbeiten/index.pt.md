@@ -19,7 +19,7 @@ seo:
 
 As circunstâncias em 2020 alteraram significativamente a forma como o trabalho é efectuado nas empresas. De acordo com uma [sondagem](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx) recente [da Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 em cada 10 trabalhadores remotos gostariam de manter esta forma de trabalhar até certo ponto.
 
-No entanto, para os vendedores que não estão habituados à venda à distância, esta pode revelar-se um desafio, uma vez que é muito diferente da venda pessoal ou tradicional. No entanto, o trabalho à distância pode trazer muitos [benefícios](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/) ao processo, desde que seja praticado correctamente. Pode melhorar o processo de vendas, aumentar a produtividade da sua equipa e preencher o seu pipeline de vendas sem ter de sair da sua secretária.
+No entanto, para os vendedores que não estão habituados à venda à distância, esta pode revelar-se um desafio, uma vez que é muito diferente da venda pessoal ou tradicional. No entanto, o trabalho à distância pode trazer muitos [benefícios](https://myquickcloud.com/blog/benefits-of-remote-work/) ao processo, desde que seja praticado correctamente. Pode melhorar o processo de vendas, aumentar a produtividade da sua equipa e preencher o seu pipeline de vendas sem ter de sair da sua secretária.
 
 Neste artigo, mostramos-lhe como uma equipa de vendas remota pode gerir e monitorizar de forma óptima os seus processos de marketing e vendas.
 

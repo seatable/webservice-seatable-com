@@ -65,7 +65,7 @@ Le logiciel [Data Crow](https://www.datacrow.net/) est surtout adapté à la ges
 
 ### GCstar - logiciel de collection gratuit
 
-Un autre logiciel gratuit pour les collections est [le GCstar](http://www.gcstar.org/). Ce programme de gestion présente les mêmes fonctions de saisie et de gestion des collections que Data Crow. Vous avez également la possibilité d'enrichir votre collection avec des informations provenant d'Internet. Enregistrez l'endroit où vous avez acheté l'objet et si vous le prêtez à quelqu'un. Outre les médias, vous pouvez bien entendu inventorier d'autres objets. Si vous êtes intéressé par une solution open source, vous pouvez installer Data Crow et GCstar à titre d'essai et comparer les interfaces.
+Un autre logiciel gratuit pour les collections est [le GCstar](https://gitlab.com/GCstar/). Ce programme de gestion présente les mêmes fonctions de saisie et de gestion des collections que Data Crow. Vous avez également la possibilité d'enrichir votre collection avec des informations provenant d'Internet. Enregistrez l'endroit où vous avez acheté l'objet et si vous le prêtez à quelqu'un. Outre les médias, vous pouvez bien entendu inventorier d'autres objets. Si vous êtes intéressé par une solution open source, vous pouvez installer Data Crow et GCstar à titre d'essai et comparer les interfaces.
 
 ### Logiciels de niche pour les collectionneurs
 

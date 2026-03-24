@@ -19,7 +19,7 @@ seo:
 
 Las circunstancias en 2020 han cambiado significativamente la forma de trabajar en las empresas. Según una reciente [encuesta de Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), a 9 de cada 10 trabajadores remotos les gustaría mantener en cierta medida esta forma de trabajar.
 
-Sin embargo, para los vendedores que no están acostumbrados a la venta a distancia, esto puede suponer un reto, ya que es muy diferente de la venta de persona a persona o tradicional. Sin embargo, el trabajo a distancia puede aportar muchas [ventajas](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/) al proceso, siempre que se practique correctamente. Puede mejorar el proceso de ventas, aumentar la productividad de su equipo y llenar su cartera de ventas sin tener que moverse de su mesa.
+Sin embargo, para los vendedores que no están acostumbrados a la venta a distancia, esto puede suponer un reto, ya que es muy diferente de la venta de persona a persona o tradicional. Sin embargo, el trabajo a distancia puede aportar muchas [ventajas](https://myquickcloud.com/blog/benefits-of-remote-work/) al proceso, siempre que se practique correctamente. Puede mejorar el proceso de ventas, aumentar la productividad de su equipo y llenar su cartera de ventas sin tener que moverse de su mesa.
 
 En este artículo le mostramos cómo un equipo de ventas remoto puede gestionar y supervisar de forma óptima sus procesos de marketing y ventas.
 

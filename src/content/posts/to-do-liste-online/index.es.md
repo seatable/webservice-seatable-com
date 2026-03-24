@@ -72,7 +72,7 @@ También puede vincularse a tu calendario, a un asistente de voz de tu smartphon
 
 ### Microsoft To Do: La versátil aplicación para tu lista de tareas pendientes
 
-Con [Microsoft To](https://todo.microsoft.com/tasks/de-de/) Do, dispondrá tanto de un planificador diario como de una herramienta para [listas de]({{< relref "posts/einkaufsliste" >}}) tareas y [compras]({{< relref "posts/einkaufsliste" >}}). Puede integrar tareas de Outlook y trabajar en una lista sincronizada desde todos los dispositivos finales.
+Con [Microsoft To](https://to-do.office.com/tasks/de-de/) Do, dispondrá tanto de un planificador diario como de una herramienta para [listas de]({{< relref "posts/einkaufsliste" >}}) tareas y [compras]({{< relref "posts/einkaufsliste" >}}). Puede integrar tareas de Outlook y trabajar en una lista sincronizada desde todos los dispositivos finales.
 
 Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. También es posible utilizar recordatorios y tareas recurrentes. Sin embargo, no hay opciones avanzadas de visualización más allá del modo lista; para ello necesitarás el Planificador.
 

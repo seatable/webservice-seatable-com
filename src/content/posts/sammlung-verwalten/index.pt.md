@@ -65,7 +65,7 @@ O software [Data Crow](https://www.datacrow.net/) é especialmente indicado para
 
 ### GCstar – software gratuito para coleções
 
-Outro software gratuito é o [GCstar](http://www.gcstar.org/). O programa oferece as mesmas funções que o Data Crow para registrar e gerenciar coleções. Também permite enriquecer sua coleção com informações da internet. Você pode salvar onde adquiriu o item e registrar se emprestou o objeto a alguém. Além de mídias, é possível inventariar outros objetos. Se você se interessa por soluções open source, pode testar Data Crow e GCstar e comparar suas interfaces.
+Outro software gratuito é o [GCstar](https://gitlab.com/GCstar/). O programa oferece as mesmas funções que o Data Crow para registrar e gerenciar coleções. Também permite enriquecer sua coleção com informações da internet. Você pode salvar onde adquiriu o item e registrar se emprestou o objeto a alguém. Além de mídias, é possível inventariar outros objetos. Se você se interessa por soluções open source, pode testar Data Crow e GCstar e comparar suas interfaces.
 
 ### Software de nicho para colecionadores
 

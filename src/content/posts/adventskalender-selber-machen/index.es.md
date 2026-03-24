@@ -27,7 +27,7 @@ Un calendario de Adviento casero es un regalo hecho **con el corazón**. Si le d
 
 {{< warning headline="Historia del calendario de Adviento" >}}
 
-Si quiere saber de dónde viene la tradición del calendario de Adviento, haga clic [aquí](https://www.adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+Si quiere saber de dónde viene la tradición del calendario de Adviento, haga clic [aquí](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 

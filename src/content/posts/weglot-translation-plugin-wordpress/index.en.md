@@ -68,7 +68,7 @@ In addition to the automatic translation, Weglot now also displays a drop-down m
 
 ### Over 100 possible languages for your international business
 
-Weglot currently allows translation into [over 100 different languages](https://weglot.com/documentation/available-languages). You probably won't need that many, because it's worth starting by concentrating on the languages that are most widely spoken around the world. A good overview can be found in the [list of the most spoken languages on Wikipedia](https://de.wikipedia.org/wiki/Liste_der_meistgesprochenen_Sprachen).
+Weglot currently allows translation into [over 100 different languages](https://www.weglot.com/documentation/available-languages). You probably won't need that many, because it's worth starting by concentrating on the languages that are most widely spoken around the world. A good overview can be found in the [list of the most spoken languages on Wikipedia](https://de.wikipedia.org/wiki/Liste_der_meistgesprochenen_Sprachen).
 
 But Weglot not only translates your website, it also ensures that Google and other search engines find this new content and that all the content is indexed correctly. For this purpose, the respective _hreflang_\-tags in the source text, so that search engines can easily find the corresponding texts.
 
@@ -122,7 +122,7 @@ In the course of our evaluation of Weglot, we also came across the plugin [Conve
 
 ## Price from Weglot
 
-By now you should have understood the importance of Weglot for the success of our website. With Weglot, we can create a multilingual website with minimal effort and thus distribute our software almost everywhere in the world. This also justifies the [price of Weglot](https://weglot.com/pricing?fp_ref=loved_by_seatable), which is unusually high for a WordPress plugin. At the same time, however, I want to emphasise that from our point of view Weglot is worth every euro. 
+By now you should have understood the importance of Weglot for the success of our website. With Weglot, we can create a multilingual website with minimal effort and thus distribute our software almost everywhere in the world. This also justifies the [price of Weglot](https://www.weglot.com/pricing), which is unusually high for a WordPress plugin. At the same time, however, I want to emphasise that from our point of view Weglot is worth every euro. 
 
 ![The prices of the WordPress plugin Weglot](weglot-preise.png)
 
