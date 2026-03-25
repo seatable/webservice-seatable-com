@@ -60,7 +60,7 @@ sections:
           - key: 'Exécutions Python (par mois)'
             values: ['100', '5 000', '∞', '∞']
           - key: 'Appels API (par mois et utilisateur)'
-            values: ['3.000 (fixer)', '10.000', '50.000', '∞']
+            values: ['3.000 (fixe)', '10.000', '50.000', '∞']
           - key: 'Taille maximale de l’équipe'
             values: ['25', '∞', '∞', '∞']
           - type: section
@@ -99,8 +99,10 @@ sections:
             values: ['-', '-', '+', '+']
           - key: 'Personnalisation du formulaire web (logo, image d’en-tête)'
             values: ['-', '-', '+', '+']
-          - key: 'Automatisations'
-            values: ['-', '-', '+', '+']
+          - key: 'Automatisations (par mois et utilisateur)'
+            values: ['100 (fixe)', '500', '5 000', '∞']
+          - key: 'Crédits IA (par mois et utilisateur)'
+            values: ['12,5 (fixe)', '50', '500', '∞']
           - key: 'Stockage Big Data'
             values: ['-', '-', '+', '+']
           - type: section
@@ -136,7 +138,7 @@ sections:
           - bg-gray-100
           - curved
       xshow: '!showCloud'
-      title: Avantages d'un propre serveur
+      title: Avantages de votre propre serveur
       subtitle: Raisons pour le on-premises
       items:
       - headline: Fonctionnalités Enterprise
@@ -202,7 +204,7 @@ sections:
           - q: Comment puis-je adapter l'adresse de facturation ?
             a: Vous pouvez à tout moment modifier l'adresse de facturation dans le portail [de gestion des abonnements SeaTable Server](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000).<br><br>Il n'est pas possible de modifier une facture ultérieurement.
           - q: Puis-je modifier la taille d'une licence SeaTable Server en cours ?
-            a: Vous pouvez à tout moment augmenter la taille d'une licence SeaTable Server pour 50 utilisateurs ou plus. Veuillez contacter sales@seatable.com en indiquant la clé de licence et le nombre d'utilisateurs souhaités. Le prix de la licence pour les supplémentaires sera calculé au prorata du temps.<br><br>Vous ne pouvez pas augmenter la taille d'une licence SeaTable Server pour 10 et 25 utilisateurs pendant sa durée de validité. Si vous avez besoin de plus d'utilisateurs, vous devez acheter une nouvelle licence.<br><br>Il n'est pas possible de combiner plusieurs licences. Une instance de SeaTable Server ne peut être associée qu'à une seule licence.
+            a: Vous pouvez à tout moment augmenter la taille d'une licence SeaTable Server pour 50 utilisateurs ou plus. Veuillez contacter sales@seatable.com en indiquant la clé de licence et le nombre d'utilisateurs souhaités. Le prix de la licence pour les utilisateurs supplémentaires sera calculé au prorata du temps.<br><br>Vous ne pouvez pas augmenter la taille d'une licence SeaTable Server pour 10 et 25 utilisateurs pendant sa durée de validité. Si vous avez besoin de plus d'utilisateurs, vous devez acheter une nouvelle licence.<br><br>Il n'est pas possible de combiner plusieurs licences. Une instance de SeaTable Server ne peut être associée qu'à une seule licence.
           - q: Puis-je combiner plusieurs licences SeaTable Server ?
             a: Il n'est pas possible de combiner plusieurs licences SeaTable Server. Une seule licence est activée à la fois sur une instance de SeaTable Server.
           - q: Comment s'effectue le renouvellement automatique ?
