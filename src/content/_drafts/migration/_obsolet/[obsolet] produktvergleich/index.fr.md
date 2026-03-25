@@ -35,7 +35,7 @@ Nous offrons à ces organisations la possibilité d'avoir plus de contrôle sur 
 
 ### SeaTable sur site et dédié
 
-Dans le cas d'une solution auto-hébergée (On-Premises), on acquiert uniquement une licence pour la solution logicielle SeaTable et on peut ensuite décider soi-même de l'endroit où l'on souhaite installer ce logiciel. Pour l'installation, on utilise le [manuel de l'administrateur en anglais](https://manual.seatable.io) et, avec cette approche on-premise, on garde le contrôle total des données et du système. En revanche, on doit s'occuper soi-même de l'installation, du fonctionnement, de la maintenance et des mises à jour.
+Dans le cas d'une solution auto-hébergée (On-Premises), on acquiert uniquement une licence pour la solution logicielle SeaTable et on peut ensuite décider soi-même de l'endroit où l'on souhaite installer ce logiciel. Pour l'installation, on utilise le [manuel de l'administrateur en anglais](https://admin.seatable.com/) et, avec cette approche on-premise, on garde le contrôle total des données et du système. En revanche, on doit s'occuper soi-même de l'installation, du fonctionnement, de la maintenance et des mises à jour.
 
 ![Cloud public vs. On-Premises](https://seatable.io/wp-content/uploads/2021/11/public-cloud-vs-on-premises.png)
 
@@ -120,7 +120,7 @@ Après la commande, l'installation a lieu en quelques jours sur les serveurs du 
 
 ## Avec SeaTable Enterprise On-Premises, vous avez le contrôle total
 
-Dans le cas d'un système sur site, c'est vous qui décidez où et sur quel matériel votre système fonctionne. Il peut s'agir soit de votre propre serveur, soit d'un serveur virtuel dans n'importe quel centre de données. Vous téléchargez le conteneur d'entreprise SeaTable sur Docker Hub, puis vous installez et configurez le système conformément au [manuel SeaTable en anglais](https://manual.seatable.io).
+Dans le cas d'un système sur site, c'est vous qui décidez où et sur quel matériel votre système fonctionne. Il peut s'agir soit de votre propre serveur, soit d'un serveur virtuel dans n'importe quel centre de données. Vous téléchargez le conteneur d'entreprise SeaTable sur Docker Hub, puis vous installez et configurez le système conformément au [manuel SeaTable en anglais](https://admin.seatable.com/).
 
 Dans tous les cas, vous avez besoin d'une licence pour démarrer le serveur SeaTable. Jusqu'à trois utilisateurs, vous recevez [une licence gratuite de deux ans]({{< relref "pages/product/seatable-server" >}}). Seule votre adresse e-mail est requise. Si vous souhaitez utiliser plus de trois utilisateurs, vous devez acheter une licence pour SeaTable Enterprise en fonction du nombre d'utilisateurs. Le fichier de licence est un fichier txt qui doit être déposé sur votre serveur. La validation de la validité se fait au démarrage du serveur SeaTable. Une connexion à Internet vers un serveur de licences n'est pas nécessaire. SeaTable Enterprise peut donc être utilisé de manière complètement isolée et autonome dans un réseau local.
 

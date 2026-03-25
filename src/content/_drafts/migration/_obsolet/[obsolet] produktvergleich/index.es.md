@@ -35,7 +35,7 @@ Ofrecemos a estas organizaciones la oportunidad de obtener un mayor control sobr
 
 ### SeaTable On-Premise y Dedicado
 
-Con una solución autoalojada (on-premise), usted sólo obtiene la licencia de la solución de software SeaTable y puede determinar dónde quiere instalar este software. Para la instalación, se utiliza el [manual del administrador en inglés](https://manual.seatable.io) y se mantiene el control total sobre los datos y el sistema con este enfoque local. Sin embargo, a la inversa, tienes que ocuparte tú mismo de la instalación, el funcionamiento, el mantenimiento y las actualizaciones.
+Con una solución autoalojada (on-premise), usted sólo obtiene la licencia de la solución de software SeaTable y puede determinar dónde quiere instalar este software. Para la instalación, se utiliza el [manual del administrador en inglés](https://admin.seatable.com/) y se mantiene el control total sobre los datos y el sistema con este enfoque local. Sin embargo, a la inversa, tienes que ocuparte tú mismo de la instalación, el funcionamiento, el mantenimiento y las actualizaciones.
 
 ![Nube pública frente a las instalaciones](https://seatable.io/wp-content/uploads/2021/11/public-cloud-vs-on-premises.png)
 
@@ -120,7 +120,7 @@ La instalación se realiza en pocos días después del pedido en los servidores 
 
 ## Con SeaTable Enterprise On-Premises tiene un control total
 
-Con un sistema local, usted decide dónde y en qué hardware se ejecuta su sistema. Puede ser un servidor propio o un servidor virtual en cualquier centro de datos. Descargue el SeaTable Enterprise Container de Docker Hub e instale y configure el sistema según el [manual de SeaTable](https://manual.seatable.io).
+Con un sistema local, usted decide dónde y en qué hardware se ejecuta su sistema. Puede ser un servidor propio o un servidor virtual en cualquier centro de datos. Descargue el SeaTable Enterprise Container de Docker Hub e instale y configure el sistema según el [manual de SeaTable](https://admin.seatable.com/).
 
 En cualquier caso, necesita una licencia para iniciar el servidor SeaTable. Hasta tres usuarios reciben [una licencia gratuita de dos años]({{< relref "pages/product/seatable-server" >}}). Para ello, sólo se requiere su dirección de correo electrónico. Si desea utilizar más de tres usuarios, tiene que licenciar SeaTable Enterprise según su número de usuarios. El archivo de licencia es un archivo txt que tiene que ser almacenado en su servidor. La validez se valida cuando se inicia el servidor SeaTable. No es necesaria una conexión a Internet con un servidor de licencias. Por tanto, SeaTable Enterprise puede funcionar de forma completamente aislada y autónoma en una red local.
 

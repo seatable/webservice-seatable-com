@@ -37,7 +37,7 @@ Uma coluna adicional para documentos permite-lhe armazenar contratos de trabalho
 
 ## Organize formação complementar para os seus empregados
 
-Uma vez que os empregados são um dos recursos mais importantes para as empresas, é do interesse das empresas promover estes recursos e, assim, torná-los ainda mais valiosos. Consequentemente, a formação contínua pode ser vista como um investimento sustentável na empresa. Porque os novos conhecimentos que os seus empregados adquirem não só os beneficia, [mas também a toda a empresa](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Uma vez que os empregados são um dos recursos mais importantes para as empresas, é do interesse das empresas promover estes recursos e, assim, torná-los ainda mais valiosos. Consequentemente, a formação contínua pode ser vista como um investimento sustentável na empresa. Porque os novos conhecimentos que os seus empregados adquirem não só os beneficia, [mas também a toda a empresa](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 A nossa terceira base "Formações" dá-lhe uma visão geral das várias necessidades dos seus empregados e das oportunidades de formação contínua associadas. Pode introduzir todos os cursos de formação disponíveis na primeira coluna. Em seguida, introduza a data em que a formação contínua terá lugar. Outra coluna mostra os lugares disponíveis para esta formação complementar.
 

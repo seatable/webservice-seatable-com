@@ -51,7 +51,7 @@ Um Ihre Sammlung zu verwalten, haben Sie verschiedene Möglichkeiten. Es existie
 
 ### Evernote – die Notiz-App für ein schnelles Erfassen und Verwalten Ihrer Sammlungen
 
-Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/intl/de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
+Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/de-de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
 
 ![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 

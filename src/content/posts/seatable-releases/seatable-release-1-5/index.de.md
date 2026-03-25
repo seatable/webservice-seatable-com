@@ -47,7 +47,7 @@ Wenn ein Formelergebnis eine Zahl ist (z.B. bei den Formeln sum, roundup und ave
 
 ### Bessere Statistiken
 
-SeaTables Statistikmodul verwendet die [quelloffene Datenvisualisierungssoftwarebibliothek G2](https://g2.antv.vision/en). G2 macht es möglich, in SeaTable eine Vielzahl webbasierter Auswertungen interaktiv und dynamisch zu erzeugen.
+SeaTables Statistikmodul verwendet die [quelloffene Datenvisualisierungssoftwarebibliothek G2](https://g2.antv.antgroup.com/en). G2 macht es möglich, in SeaTable eine Vielzahl webbasierter Auswertungen interaktiv und dynamisch zu erzeugen.
 
 In SeaTable 1.5 haben wir G2 auf die aktuelle Version 4.0 aktualisiert. Diese wurde im Frühjahr 2020 vom Datenvisualisierungsteam der Ant Group veröffentlicht. Zusammen mit ein paar Verbesserungen hinsichtlich Integration erhöht dieses Upgrade die generelle Zuverlässigkeit und Stabilität des Statistikmoduls.
 

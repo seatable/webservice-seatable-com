@@ -35,7 +35,7 @@ Eine zusätzliche Spalte für Dokumente ermöglicht Ihnen das Ablegen von Arbeit
 
 ## Weiterbildungen für Ihre Mitarbeiter organisieren
 
-Da Mitarbeiter eine der wichtigsten Ressourcen für Unternehmen sind, liegt es im Interesse der Unternehmen, diese Ressourcen zu fördern und dadurch noch wertvoller zu machen. Weiterbildungen können demnach als nachhaltige Investitionen in das Unternehmen betrachtet werden. Denn das neue Wissen, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, [sondern auch dem ganzen Unternehmen zu Gute](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Da Mitarbeiter eine der wichtigsten Ressourcen für Unternehmen sind, liegt es im Interesse der Unternehmen, diese Ressourcen zu fördern und dadurch noch wertvoller zu machen. Weiterbildungen können demnach als nachhaltige Investitionen in das Unternehmen betrachtet werden. Denn das neue Wissen, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, [sondern auch dem ganzen Unternehmen zu Gute](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Unsere dritte Base “Trainings” verschafft Ihnen einen Überblick über die verschiedenen Bedürfnisse Ihrer Mitarbeiter und die damit verbundenen Weiterbildungsmöglichkeiten. Alle verfügbaren Weiterbildungen können Sie in die erste Spalte eintragen. Dann tragen Sie das Datum ein, an welchem die Weiterbildung stattfindet. Eine weitere Spalte zeigt die verfügbaren Plätze für diese Fortbildung an.
 

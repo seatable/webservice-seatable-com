@@ -90,7 +90,7 @@ You can export your data stored in SeaTable at any time. SeaTable offers three e
 - Export via the web interface to a DTABLE file
 - Export via the API
 
-More information about the DTABLE file format can be found in the [SeaTable Manual]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). The SeaTable API is fully documented in the [SeaTable API Reference](https://api.seatable.com).
+More information about the DTABLE file format can be found in the [SeaTable Admin Manual]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). The SeaTable API is fully documented in the [SeaTable API Reference](https://api.seatable.com).
 
 ## Audit and Certification
 

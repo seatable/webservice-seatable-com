@@ -15,7 +15,7 @@ tags:
 color: '#c75d67'
 ---
 
-Weltweit existieren rund [55.000 Museen](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) und unzählige weitere Galerien, Ausstellungen, Theater und Kunstbühnen. Jeder wird zustimmen, dass Kunst in ihren verschiedenen Formen eine wichtige Rolle in unserem Leben spielt. Ohne digitale Tools wäre die Verwaltung und das Betreiben einer solchen Kunsteinrichtung heutzutage kaum noch vorstellbar. Das Beantragen von öffentlichen Geldern, die Inventarisierung der Exponate und (insbesondere während der Corona-Pandemie) die Registrierung der Besucher – es gibt bestimmt einfachere Aufgaben als im Kunstmanagement.
+Weltweit existieren rund [55.000 Museen](https://www.zukunftsinstitut.de/zukunftsthemen/die-zukunft-des-museums-ist-integrativ) und unzählige weitere Galerien, Ausstellungen, Theater und Kunstbühnen. Jeder wird zustimmen, dass Kunst in ihren verschiedenen Formen eine wichtige Rolle in unserem Leben spielt. Ohne digitale Tools wäre die Verwaltung und das Betreiben einer solchen Kunsteinrichtung heutzutage kaum noch vorstellbar. Das Beantragen von öffentlichen Geldern, die Inventarisierung der Exponate und (insbesondere während der Corona-Pandemie) die Registrierung der Besucher – es gibt bestimmt einfachere Aufgaben als im Kunstmanagement.
 
 Dieser Artikel beschreibt die Herausforderungen im Kunstmanagement, geht auf die Unterschiede in der Verwaltung einer öffentlichen Kunsteinrichtung im Gegensatz zu einem Unternehmen ein, skizziert die Probleme von unflexiblen Branchenlösungen im Kunstmanagement und zeigt effiziente Wege auf, wie Sie diese Herausforderungen meistern können.
 

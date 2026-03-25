@@ -40,7 +40,7 @@ We did not leave the choice of our infrastructure provider to chance. The follow
 - Similar costs as before with AWS
 - Automated installation options
 
-With Exoscale, we have found a provider that meets all our requirements and also gives us the best performance, good service and fulfils all legal requirements. Exoscale's data centres not only meet all ISO standards, but also fulfil the requirements of the Swiss Financial Market Supervisory Authority [FINMA](https://finma.ch/de/), which is why Exoscale is also allowed to provide services and infrastructure for Swiss financial institutions. What is suitable for Swiss banks is just good enough for us and our customers. More details about Exoscale's data centres can be found [here](https://www.exoscale.com/compliance/). Of course, we have signed a contract for commissioned data processing with Exoscale and have secured access to the servers accordingly.
+With Exoscale, we have found a provider that meets all our requirements and also gives us the best performance, good service and fulfils all legal requirements. Exoscale's data centres not only meet all ISO standards, but also fulfil the requirements of the Swiss Financial Market Supervisory Authority [FINMA](https://www.finma.ch/de/), which is why Exoscale is also allowed to provide services and infrastructure for Swiss financial institutions. What is suitable for Swiss banks is just good enough for us and our customers. More details about Exoscale's data centres can be found [here](https://www.exoscale.com/compliance/). Of course, we have signed a contract for commissioned data processing with Exoscale and have secured access to the servers accordingly.
 
 ## The future structure at Exoscale
 

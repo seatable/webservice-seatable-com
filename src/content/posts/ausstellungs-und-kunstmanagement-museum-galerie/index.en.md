@@ -18,7 +18,7 @@ tags:
 color: '#c75d67'
 ---
 
-There are around [55,000 museums](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) worldwide and countless other galleries, exhibitions, theaters and art stages. Everyone will agree that art in its various forms plays an important role in our lives. Without digital tools, managing and operating such an art institution would be almost inconceivable today. Applying for public funds, inventorying exhibits, and (especially during the Corona pandemic) registering visitors - there are certainly easier tasks than in art management.
+There are around [55,000 museums](https://www.zukunftsinstitut.de/zukunftsthemen/die-zukunft-des-museums-ist-integrativ) worldwide and countless other galleries, exhibitions, theaters and art stages. Everyone will agree that art in its various forms plays an important role in our lives. Without digital tools, managing and operating such an art institution would be almost inconceivable today. Applying for public funds, inventorying exhibits, and (especially during the Corona pandemic) registering visitors - there are certainly easier tasks than in art management.
 
 This article describes the challenges of arts management, addresses the differences in managing a public arts institution as opposed to a business, outlines the problems of inflexible industry solutions to arts management, and identifies efficient ways you can overcome these challenges.
 

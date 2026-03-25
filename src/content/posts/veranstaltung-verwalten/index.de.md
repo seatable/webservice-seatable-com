@@ -39,7 +39,7 @@ Tools für die Veranstaltungsplanung gibt es wie Sand am Meer. Die passende Soft
 
 ### LineUpr
 
-[LineUpr](https://lineupr.com/) ist eine browserbasierte Veranstaltungs-App aus Deutschland, die seit ihrer Gründung im Jahr 2016 für ihre Benutzerfreundlichkeit und Flexibilität geschätzt wird. Auch ohne Installation bietet sie eine unkomplizierte Lösung, um Teilnehmern alle relevanten Informationen bereitzustellen – von Programmen und Location-Details über Lineup-Profile bis hin zu Info-Seiten und Nachrichten.
+[LineUpr](https://lineupr.com/de) ist eine browserbasierte Veranstaltungs-App aus Deutschland, die seit ihrer Gründung im Jahr 2016 für ihre Benutzerfreundlichkeit und Flexibilität geschätzt wird. Auch ohne Installation bietet sie eine unkomplizierte Lösung, um Teilnehmern alle relevanten Informationen bereitzustellen – von Programmen und Location-Details über Lineup-Profile bis hin zu Info-Seiten und Nachrichten.
 
 Ein besonderes Highlight ist die Möglichkeit, mithilfe der App verschiedene Statistiken zu erfassen. So lassen sich wichtige Erkenntnisse gewinnen und der Erfolg der Veranstaltung im Nachgang transparent analysieren.
 
@@ -50,7 +50,7 @@ Ein besonderes Highlight ist die Möglichkeit, mithilfe der App verschiedene Sta
 
 ### idloom
 
-[Idloom](https://www.idloom.com/) ist eine umfassende Veranstaltungs-Management-Plattform, die von der Agenda-Planung über das Ticketing bis hin zur Rechnungsstellung und Steuerabwicklung jeden Aspekt Ihrer Veranstaltung abdeckt. Das 2015 in Belgien gegründete Unternehmen legt großen Wert auf Sicherheit und belegt dies unter anderem mit der ISO-27001-Zertifizierung.
+[Idloom](https://www.idloom.com/en) ist eine umfassende Veranstaltungs-Management-Plattform, die von der Agenda-Planung über das Ticketing bis hin zur Rechnungsstellung und Steuerabwicklung jeden Aspekt Ihrer Veranstaltung abdeckt. Das 2015 in Belgien gegründete Unternehmen legt großen Wert auf Sicherheit und belegt dies unter anderem mit der ISO-27001-Zertifizierung.
 
 Ein besonderes Merkmal von idloom ist die flexible Registrierung: Von Wartelisten und Gruppenanmeldungen bis hin zu exklusivem Zugang bietet die Plattform vielfältige Möglichkeiten, um Ihren individuellen Anforderungen gerecht zu werden, wenn Sie Veranstaltungen verwalten. Darüber hinaus punktet idloom mit Integrationen, der Möglichkeit zur Erstellung von Zertifikaten und einer flexiblen Anpassung an unternehmensspezifische Anforderungen.
 

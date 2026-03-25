@@ -57,7 +57,7 @@ Die Zugangsdaten werden mit symmetrischen Token verschlüsselt und in der Backen
 
 Schließlich haben wir auch noch ein besonderes Schmankerl für all die Benutzer, die SeaTable auf Ihrem eigenen Server betreiben: SeaTable 1.8 unterstützt nun die Security Assertion Markup Language, besser bekannt als SAML. SAML ist ein populäres Protokoll, um Single Sign-On umzusetzen. Zusammen mit der Authentifizierung via Active Directory und LDAP gewinnt SeaTable enorm an Einsatzflexibilität und macht die Integration insbesondere in größere Infrastrukturen deutlich einfacher. Quasi all bekannten Identity Management Systeme (z.B., okta, Keycloak, Auth0, OneLogin, SiteMinder, …) unterstützen SAML.
 
-Die vollständige Dokumentation für die Einrichtung von SAML finden Sie im [SeaTable Manual](https://admin.seatable.com/configuration/authentication/saml/).
+Die vollständige Dokumentation für die Einrichtung von SAML finden Sie im [SeaTable Admin Manual](https://admin.seatable.com/configuration/authentication/saml/).
 
 ## Und noch viel mehr
 

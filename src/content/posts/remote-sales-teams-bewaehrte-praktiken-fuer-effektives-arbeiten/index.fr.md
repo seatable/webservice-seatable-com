@@ -67,7 +67,7 @@ Vous devriez également demander des rapports sur les objectifs de vente afin de
 
 ### Automatiser chaque fois que c'est possible
 
-Selon [des statistiques récentes sur les ventes](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), environ 71 % des commerciaux perdent la majeure partie de leur temps productif en saisies manuelles. L'automatisation de la force de vente et l'intelligence artificielle facilitent le travail des commerciaux.
+Selon des statistiques récentes sur les ventes, environ 71 % des commerciaux perdent la majeure partie de leur temps productif en saisies manuelles. L'automatisation de la force de vente et l'intelligence artificielle facilitent le travail des commerciaux.
 
 L'automatisation des processus de vente aide l'équipe de vente à distance à fournir de meilleures performances en restant dans le flux de travail et en économisant son temps et son énergie précieux. Les managers peuvent faire évoluer efficacement leur équipe de vente et décider où diriger les efforts pour obtenir des résultats optimaux.
 
@@ -95,7 +95,7 @@ cette fin, il est important de prendre des mesures préventives pour encourager 
 
 Les interactions sociales au sein des équipes distantes favorisent les compétences en communication, rendent les réunions plus productives et créent de bonnes relations d'équipe.
 
-Une bonne idée est également d'encourager vos collaborateurs à passer du temps ensemble en dehors du travail ou d'allouer un budget pour des activités de renforcement de l'esprit d'équipe. Les interactions qui ont lieu lors de ces activités peuvent améliorer les compétences en communication et aider à éviter [l'épuisement professionnel](https://breadnbeyond.com/articles/wfh-burnout/). En outre, vous pouvez rendre les réunions plus productives et créer de bonnes relations d'équipe.
+Une bonne idée est également d'encourager vos collaborateurs à passer du temps ensemble en dehors du travail ou d'allouer un budget pour des activités de renforcement de l'esprit d'équipe. Les interactions qui ont lieu lors de ces activités peuvent améliorer les compétences en communication et aider à éviter [l'épuisement professionnel](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). En outre, vous pouvez rendre les réunions plus productives et créer de bonnes relations d'équipe.
 
 ### Conclusion
 

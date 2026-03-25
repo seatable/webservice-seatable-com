@@ -67,7 +67,7 @@ Devem também procurar relatórios de objectivos de vendas para ver se os vended
 
 ### Automatizar sempre que possível
 
-De acordo com [estatísticas de vendas recentes](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), cerca de 71% dos vendedores desperdiçam a maior parte do seu tempo produtivo com a introdução manual de dados. Com a automatização das vendas e a inteligência artificial, o trabalho dos vendedores é facilitado.
+De acordo com estatísticas de vendas recentes, cerca de 71% dos vendedores desperdiçam a maior parte do seu tempo produtivo com a introdução manual de dados. Com a automatização das vendas e a inteligência artificial, o trabalho dos vendedores é facilitado.
 
 A automatização dos processos de vendas ajuda a equipa de vendas remota a ter um melhor desempenho, mantendo-a no fluxo de trabalho e poupando o seu valioso tempo e energia. Os gestores podem dimensionar eficazmente a sua equipa de vendas e decidir para onde dirigir os esforços para obter os melhores resultados.
 
@@ -95,7 +95,7 @@ Para tal, é importante tomar medidas preventivas para encorajar os trabalhadore
 
 As interacções sociais em equipas remotas melhoram as capacidades de comunicação, tornam as reuniões mais produtivas e criam boas relações de equipa.
 
-É também uma boa ideia encorajar os seus empregados a passarem tempo juntos fora do trabalho ou atribuir um orçamento para actividades de formação de equipas. As interacções que ocorrem durante estas actividades podem melhorar as capacidades de comunicação e ajudar [a prevenir o esgotamento](https://breadnbeyond.com/articles/wfh-burnout/). Além disso, pode tornar as reuniões mais produtivas e criar boas relações de equipa.
+É também uma boa ideia encorajar os seus empregados a passarem tempo juntos fora do trabalho ou atribuir um orçamento para actividades de formação de equipas. As interacções que ocorrem durante estas actividades podem melhorar as capacidades de comunicação e ajudar [a prevenir o esgotamento](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). Além disso, pode tornar as reuniões mais produtivas e criar boas relações de equipa.
 
 ### Conclusão
 

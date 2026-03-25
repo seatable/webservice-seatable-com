@@ -67,7 +67,7 @@ También deberían buscar informes de objetivos de ventas para ver si los vended
 
 ### Automatizar siempre que sea posible
 
-Según [estadísticas de ventas recientes](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), alrededor del 71% de los vendedores pierden la mayor parte de su tiempo productivo en la introducción manual de datos. Con la automatización de las ventas y la inteligencia artificial, se facilita el trabajo de los vendedores.
+Según estadísticas de ventas recientes, alrededor del 71% de los vendedores pierden la mayor parte de su tiempo productivo en la introducción manual de datos. Con la automatización de las ventas y la inteligencia artificial, se facilita el trabajo de los vendedores.
 
 La automatización de los procesos de ventas ayuda al equipo de ventas remoto a rendir mejor manteniéndolo en el flujo de trabajo y ahorrando su valioso tiempo y energía. Los gestores pueden escalar eficazmente su equipo de ventas y decidir dónde dirigir el esfuerzo para obtener resultados óptimos.
 
@@ -95,7 +95,7 @@ Para ello, es importante tomar medidas preventivas para animar a los trabajadore
 
 Las interacciones sociales en equipos remotos mejoran las habilidades de comunicación, hacen que las reuniones sean más productivas y crean buenas relaciones de equipo.
 
-También es buena idea animar a sus empleados a pasar tiempo juntos fuera del trabajo o asignar un presupuesto para actividades de creación de equipos. Las interacciones que tienen lugar durante estas actividades pueden mejorar las habilidades de comunicación y ayudar a [prevenir el agotamiento](https://breadnbeyond.com/articles/wfh-burnout/). Además, puede hacer que las reuniones sean más productivas y crear buenas relaciones de equipo.
+También es buena idea animar a sus empleados a pasar tiempo juntos fuera del trabajo o asignar un presupuesto para actividades de creación de equipos. Las interacciones que tienen lugar durante estas actividades pueden mejorar las habilidades de comunicación y ayudar a [prevenir el agotamiento](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). Además, puede hacer que las reuniones sean más productivas y crear buenas relaciones de equipo.
 
 ### Conclusión:
 

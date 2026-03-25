@@ -135,7 +135,7 @@ docker restart seatable-memcached
 docker exec -it seatable /usr/sbin/nginx -s reload
 ```
 
-Mehr zur Integration eines eigenen SSL-Zertifikats finden Sie im [SeaTable Manual](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
+Mehr zur Integration eines eigenen SSL-Zertifikats finden Sie im [SeaTable Admin Manual](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
 
 ![Users menu in SeaTable's System Administration](SeaTableEE_SystemAdministration_Users.png)
 
