@@ -96,8 +96,10 @@ sections:
                 values: ['-', '-', '+', '+']
               - key: 'Personalização de formulários web (logo, imagem de cabeçalho)'
                 values: ['-', '-', '+', '+']
-              - key: 'Automatizações'
-                values: ['-', '-', '+', '+']
+              - key: 'Automatizações (por mês e usuário)'
+                values: ['100 (fixo)', '500', '5.000', '∞']
+              - key: 'Créditos de IA (por mês e usuário)'
+                values: ['12,5 (fixo)', '50', '500', '∞']
               - key: 'Armazenamento de Big Data'
                 values: ['-', '-', '+', '+']
               - type: section
@@ -178,10 +180,17 @@ sections:
       xshow: '!showCloud'
       title: Perguntas Frequentes
       items:
-          - q: O que é um utilizador?
-            a: 'Ein Benutzer meint ein'
-          - q: What is a user?
-            a: ''
+          - q: O que é um usuário?
+            a: "Um usuário refere-se a uma conta de usuário (ativa) em uma instância do SeaTable Server. Uma conta de usuário (ativa) permite a autenticação e o login no sistema.
+            Um login e, portanto, uma conta de usuário, é necessário para as seguintes ações:<br>
+            – Criação, edição e exclusão de bases, aplicativos e formulários web<br>
+            – Inserção, edição e exclusão de dados em bases e aplicativos<br><br>
+            Nenhum login e, portanto, nenhuma conta de usuário é necessário para estas ações:<br>
+            – Uso de aplicativos públicos<br>
+            – Acesso a bases/visualizações através de links externos<br>
+            – Envio de formulários web públicos"
+          - q: O que é um usuário inativo?
+            a: Um usuário inativo refere-se a uma conta de usuário que foi definida como inativa e que não permite login no sistema. Usuários inativos não contam para a licença e a licença também não limita o número de usuários inativos. O status de atividade de um usuário pode ser alterado a qualquer momento por um administrador do sistema.
           - q:
             a:
           - q:

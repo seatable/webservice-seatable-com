@@ -155,6 +155,8 @@ price_table:
     advanced_sharing: 'Partage avancé'
     advanced_customization: 'Personnalisation avancée'
     automations: 'Automatisations'
+    automations_per_user: 'Automatisations par utilisateur'
+    unlimited_automations: 'Automatisations illimitées'
     big_data_storage: 'Stockage Big Data'
     bank_transfer_payment: 'Paiement par virement'
     unlimited_api_calls: 'Appels API illimités'
@@ -170,11 +172,12 @@ price_table:
     monthly_billing: 'Facturation mensuelle'
     min_100_users: 'Minimum 100 utilisateurs'
     team_saml: Single Sign-On via SAML
+    ai_credits: 'Crédits IA'
     ai_credits_per_user: Crédits IA par utilisateur
 
     year: Année
     years: Années
-    user: Utilisateur
+    user: Utilisateurs
     yearly_license: '-licence annuelle'
     download: 'Télécharger gratuitement'
     buy: 'S’abonner maintenant'

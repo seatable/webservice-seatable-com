@@ -49,7 +49,7 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Líneas máximas en una base'
             values: ['10.000', '50.000', '∞', '∞']
-          - key: 'Nombre maximum de lignes dans une base'
+          - key: 'Número máximo de líneas en una base'
             values: ['10.000', '50.000', '100.000', '200.000']
           - key: 'Espacio de almacenamiento'
             values: ['2 GB', '50 GB', '100 GB', '∞']
@@ -59,8 +59,8 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Ejecuciones de Python (por mes)'
             values: ['100', '5.000', '∞', '∞']
-          - key: 'Llamadas API (por mes et usuario)'
-            values: ['3.000 (firme)', '10.000', '50.000', '∞']
+          - key: 'Llamadas API (por mes y usuario)'
+            values: ['3.000 (fijo)', '10.000', '50.000', '∞']
           - key: 'Tamaño máximo del equipo'
             values: ['25', '∞', '∞', '∞']
           - type: section
@@ -99,8 +99,10 @@ sections:
             values: ['-', '-', '+', '+']
           - key: 'Personalización de formularios web (logo, imagen de cabecera)'
             values: ['-', '-', '+', '+']
-          - key: 'Automatizaciones'
-            values: ['-', '-', '+', '+']
+          - key: 'Automatizaciones (por mes y usuario)'
+            values: ['100 (fijo)', '500', '5.000', '∞']
+          - key: 'Créditos de IA (por mes y usuario)'
+            values: ['12,5 (fijo)', '50', '500', '∞']
           - key: 'Almacenamiento de Big Data'
             values: ['-', '-', '+', '+']
           - type: section
