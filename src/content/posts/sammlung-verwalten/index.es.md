@@ -53,7 +53,7 @@ Tienes varias opciones para gestionar tu colección. Existen aplicaciones y prog
 
 ### Evernote: la aplicación de notas para capturar y gestionar rápidamente sus colecciones
 
-Una opción para gestionar las colecciones es [Evernote](https://evernote.com/intl/de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
+Una opción para gestionar las colecciones es [Evernote](https://evernote.com/de-de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
 
 ![Alguien mira la herramienta Evernote para gestionar su colección.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 

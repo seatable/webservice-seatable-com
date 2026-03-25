@@ -17,7 +17,7 @@ tags:
 color: '#c75d67'
 ---
 
-Existem cerca de [55.000 museus](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) em todo o mundo e inúmeras outras galerias, exposições, teatros e palcos de arte. Todos concordarão que a arte, nas suas várias formas, desempenha um papel importante nas nossas vidas. Sem as ferramentas digitais, a gestão e o funcionamento de uma instituição de arte deste tipo seriam hoje em dia quase inimagináveis. Candidatar-se a fundos públicos, fazer o inventário das exposições e (especialmente durante a pandemia do coronavírus) registar os visitantes - há certamente tarefas mais fáceis do que a gestão da arte.
+Existem cerca de [55.000 museus](https://www.zukunftsinstitut.de/zukunftsthemen/die-zukunft-des-museums-ist-integrativ) em todo o mundo e inúmeras outras galerias, exposições, teatros e palcos de arte. Todos concordarão que a arte, nas suas várias formas, desempenha um papel importante nas nossas vidas. Sem as ferramentas digitais, a gestão e o funcionamento de uma instituição de arte deste tipo seriam hoje em dia quase inimagináveis. Candidatar-se a fundos públicos, fazer o inventário das exposições e (especialmente durante a pandemia do coronavírus) registar os visitantes - há certamente tarefas mais fáceis do que a gestão da arte.
 
 Este artigo descreve os desafios da gestão das artes, aborda as diferenças entre a gestão de uma instituição artística pública e a de uma empresa, descreve os problemas das soluções sectoriais inflexíveis na gestão das artes e mostra formas eficazes de ultrapassar estes desafios.
 

@@ -47,7 +47,7 @@ Se um resultado de fórmula for um número (por exemplo, para a soma das fórmul
 
 ### Melhores estatísticas
 
-O módulo estatístico do SeaTable utiliza a [biblioteca de software de visualização de dados de código aberto G2](https://g2.antv.vision/en). G2 torna possível gerar uma variedade de avaliações baseadas na web de forma interactiva e dinâmica em SeaTable.
+O módulo estatístico do SeaTable utiliza a [biblioteca de software de visualização de dados de código aberto G2](https://g2.antv.antgroup.com/en). G2 torna possível gerar uma variedade de avaliações baseadas na web de forma interactiva e dinâmica em SeaTable.
 
 No SeaTable 1.5 actualizámos G2 para a versão actual 4.0. Isto foi divulgado na Primavera de 2020 pela equipa de visualização de dados do Grupo das Formigas. Juntamente com algumas melhorias relativas à integração, esta actualização aumenta a fiabilidade global e a estabilidade do módulo estatístico.
 

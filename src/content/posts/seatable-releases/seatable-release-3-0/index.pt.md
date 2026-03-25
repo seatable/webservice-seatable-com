@@ -38,7 +38,7 @@ Editar um documento Office a partir do SeaTable não poderia ser mais fácil: Um
 
 Os editores utilizados para edição online são da [ONLYOFFICE](https://onlyoffice.com). Os editores do servidor de documentos ONLYOFFICE caracterizam-se por uma interface de utilizador moderna e por uma muito boa compatibilidade com os formatos de ficheiros Microsoft. Além disso, o servidor de documentos, tal como o SeaTable, pode ser auto-hospedado.
 
-A edição online está disponível em todas as subscrições SeaTable Cloud, incluindo a subscrição gratuita. Para o funcionamento no local da SeaTable, o servidor de documentos ONLYOFFICE deve ser instalado e configurado. As instruções de configuração podem ser encontradas no [SeaTable Manual](https://manual.seatable.io/).
+A edição online está disponível em todas as subscrições SeaTable Cloud, incluindo a subscrição gratuita. Para o funcionamento no local da SeaTable, o servidor de documentos ONLYOFFICE deve ser instalado e configurado. As instruções de configuração podem ser encontradas no [SeaTable Admin Manual](https://admin.seatable.com/).
 
 ## Melhoria da sincronização das bases
 

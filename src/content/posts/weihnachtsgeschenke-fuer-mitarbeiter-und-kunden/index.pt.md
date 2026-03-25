@@ -67,7 +67,7 @@ Equilibrar o espírito natalício com o trabalho é um desafio. Afinal de contas
 
 Cadernos personalizados com logótipo em relevo da LEUCHTTURM1917.
 
-- **Logótipo? É isso mesmo!** Decore os presentes para clientes ou empregados com a sua marca para se destacar da multidão. Os auxiliares úteis para o dia a dia com o design da sua empresa ou com um logótipo em relevo são particularmente adequados para este fim. Com cadernos ou calendários bem desenhados, não só faz os seus clientes felizes como também oferece embaixadores da marca. Pode facilmente selecionar e personalizar cadernos adequados a partir de [fornecedores selecionados](https://www.leuchtturm1917.de/fuer-unternehmen/corporate-gift/).
+- **Logótipo? É isso mesmo!** Decore os presentes para clientes ou empregados com a sua marca para se destacar da multidão. Os auxiliares úteis para o dia a dia com o design da sua empresa ou com um logótipo em relevo são particularmente adequados para este fim. Com cadernos ou calendários bem desenhados, não só faz os seus clientes felizes como também oferece embaixadores da marca. Pode facilmente selecionar e personalizar cadernos adequados a partir de [fornecedores selecionados](https://www.leuchtturm1917.de/fuer-unternehmen/kundengeschenke/).
 - **Um atrativo para a secretária**: um presente útil no local de trabalho? Sim, com prazer! Quer se trate de uma planta, de uma almofada para o pescoço ou de um porta-canetas - tudo o que torna a vida profissional quotidiana mais agradável é um bom presente.
 - **Música ambiente**: um presente para todos! A música no trabalho melhora a disposição e incentiva as pessoas a cantar.
 - **Desafio aceite**: Só é dado um presente quando todos os desafios de Natal tiverem sido concluídos. Isto mantém o fator diversão elevado.

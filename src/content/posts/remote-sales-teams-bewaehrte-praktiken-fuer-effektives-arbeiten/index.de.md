@@ -68,7 +68,7 @@ Sie sollten sich auch nach Berichten über Verkaufsziele erkundigen, um zu sehen
 
 ### Automatisieren Sie, wo immer es möglich ist
 
-[Jüngsten Vertriebsstatistiken](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/) zufolge verschwenden etwa 71 % der Vertriebsmitarbeiter den Großteil ihrer produktiven Zeit mit manuellen Eingaben. Mit Vertriebsautomatisierung und künstlicher Intelligenz wird die Arbeit von Vertriebsmitarbeitern erleichtert.
+Jüngsten Vertriebsstatistiken zufolge verschwenden etwa 71 % der Vertriebsmitarbeiter den Großteil ihrer produktiven Zeit mit manuellen Eingaben. Mit Vertriebsautomatisierung und künstlicher Intelligenz wird die Arbeit von Vertriebsmitarbeitern erleichtert.
 
 Die Automatisierung von Vertriebsprozessen hilft dem Remote Sales Team, bessere Leistungen zu erbringen, weil es im Workflow bleibt und seine wertvolle Zeit und Energie spart. Manager können ihr Vertriebsteam effektiv skalieren und entscheiden, wohin der Aufwand für optimale Ergebnisse gelenkt werden soll.
 
@@ -96,7 +96,7 @@ Zu diesem Zweck ist es wichtig, vorbeugende Maßnahmen zu ergreifen, um die Arbe
 
 Soziale Interaktionen in Remote Teams fördern die Kommunikationsfähigkeiten, machen Meetings produktiver und schaffen gute Teambeziehungen.
 
-Eine gute Idee ist außerdem, Ihre Mitarbeiter zu ermutigen, auch Zeit außerhalb der Arbeit miteinander zu verbringen, oder ein Budget für teambildende Aktivitäten zur Verfügung zu stellen. Die bei diesen Aktivitäten stattfindenden Interaktionen können die Kommunikationsfähigkeiten verbessern und dabei helfen, [Burnout zu vermeiden](https://breadnbeyond.com/articles/wfh-burnout/). Darüber hinaus können Sie Meetings produktiver machen und gute Teambeziehungen schaffen.
+Eine gute Idee ist außerdem, Ihre Mitarbeiter zu ermutigen, auch Zeit außerhalb der Arbeit miteinander zu verbringen, oder ein Budget für teambildende Aktivitäten zur Verfügung zu stellen. Die bei diesen Aktivitäten stattfindenden Interaktionen können die Kommunikationsfähigkeiten verbessern und dabei helfen, [Burnout zu vermeiden](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). Darüber hinaus können Sie Meetings produktiver machen und gute Teambeziehungen schaffen.
 
 ### Fazit
 

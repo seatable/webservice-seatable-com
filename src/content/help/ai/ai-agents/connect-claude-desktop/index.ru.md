@@ -13,7 +13,7 @@ seo:
 ## Предварительные требования
 
 - Аккаунт SeaTable Cloud с хотя бы одной базой
-- Claude Desktop (доступен бесплатно на [claude.ai/download](https://claude.ai/download))
+- Claude Desktop (доступен бесплатно на [claude.ai/download](https://claude.ai/download/))
 - Аккаунт Anthropic (необходим для использования Claude)
 
 {{< warning headline="Бесплатного тарифа достаточно, но требуется специальная настройка" >}}

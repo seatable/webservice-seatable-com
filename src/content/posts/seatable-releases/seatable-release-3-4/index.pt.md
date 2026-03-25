@@ -69,7 +69,7 @@ Usando o menu de contexto de linhas, que se obtém nas tabelas clicando com o bo
 
 Os troncos na linha são mais compactos no SeaTable 3.4 do que antes. Todas as alterações que um utilizador fez a uma fila num determinado momento são exibidas numa entrada colectiva. Anteriormente, uma entrada de registo separada era mostrada para cada alteração.
 
-Até agora, o limite de linha por base permaneceu inalterado em 100.000 linhas. Se o limite fosse excedido, a base só poderia ser aberta em modo de leitura. Com o SeaTable 3.4, os auto-hospedeiros obtêm mais controlo sobre o limite da linha. Em certos casos de utilização, o limite pode ser aumentado através dos ficheiros de configuração. Mais informações sobre isto podem ser encontradas no [manual SeaTable](https://manual.seatable.io/config/base_rows_limit/).
+Até agora, o limite de linha por base permaneceu inalterado em 100.000 linhas. Se o limite fosse excedido, a base só poderia ser aberta em modo de leitura. Com o SeaTable 3.4, os auto-hospedeiros obtêm mais controlo sobre o limite da linha. Em certos casos de utilização, o limite pode ser aumentado através dos ficheiros de configuração. Mais informações sobre isto podem ser encontradas no [manual SeaTable](https://admin.seatable.com/configuration/base-rows-limit/).
 
 ## Duas limitações funcionais
 

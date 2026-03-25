@@ -16,7 +16,7 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'SeaTable – Ihre Kanban Board Vorlage'
+      title: 'Kanban Board Vorlage für Teams – flexibel & DSGVO-konform'
       text: 'Visualisieren Sie Ihre Workflows mit SeaTables Kanban Board Vorlage für effizientes Aufgabenmanagement. Individualisierbar – skalierbar – DSGVO-konform – mit KI-Unterstützung.'
       classes:
           - bg-white
@@ -93,19 +93,19 @@ sections:
       - headline: 'Neue Tasks einfach erstellen'
         text: 'Legen Sie neue Aufgaben ganz einfach über ein Formular an und weisen Sie sie direkt Ihren Mitarbeitern zu. Alle Aufgaben sind in der Tabelle "Project Tasks" einsehbar, entweder als Spreadsheet oder in der Kanban-Ansicht.'
         image: '/images/template_page_kanban_02.jpg'
-        image_alt: 'Erstellen Sie Aufgaben im Kanban Board mit wenigen Klicks, weisen Sie sie Teammitgliedern zu und behalten Sie alles übersichtlich im Blick.'
+        image_alt: 'Erstellen Sie Aufgaben mit der Kanban Board Vorlage mit wenigen Klicks, weisen Sie sie Teammitgliedern zu und behalten Sie alles übersichtlich im Blick.'
       - headline: 'Aufgaben gruppieren'
         text: 'SeaTable bietet umfangreiche Filter- und Gruppierungsoptionen. So können Sie Ihre Aufgaben immer genau so darstellen, wie Sie sie brauchen. Tasks können einfach per Drag-and-Drop auf dem Board verschoben werden.'
         image: '/images/template_page_kanban_03.jpg'
-        image_alt: 'Gruppieren, filtern und verschieben Sie Aufgaben bequem per Drag-and-Drop im Kanban Board für volle Übersicht im Projekt.'
+        image_alt: 'Gruppieren, filtern und verschieben Sie Aufgaben bequem per Drag-and-Drop in der Kanban Board Vorlage für volle Übersicht im Projekt.'
       - headline: 'Kommunikation'
         text: 'Kommentieren Sie einfach eine Aufgabe und markieren Sie alle Personen, die an der Unterhaltung teilnehmen sollen mit @. Oder erstellen Sie Benachrichtigungsregeln, um über wichtige Updates informiert zu bleiben.'
         image: '/images/template_page_kanban_04.jpg'
-        image_alt: 'Kommentieren und markieren Sie Aufgaben direkt im Kanban Board und informieren Sie Ihr Team gezielt per Benachrichtigung.'
+        image_alt: 'Kommentieren und markieren Sie Aufgaben direkt im Kanban Tool und informieren Sie Ihr Team gezielt per Benachrichtigung.'
       - headline: 'WIP-Limits setzen'
         text: 'WIP-Limits sind ein zentrales Element eines effektiv genutzten Kanban-Boards. Definieren sie in der Tabelle "Work-in-Progress" individuelle Limits für jedes Teammitglied oder für ganze Teams – und monitoren Sie Ihre Ressourcen effizient.'
         image: '/images/template_page_kanban_05.jpg'
-        image_alt: 'Definieren Sie WIP-Limits im Kanban Board und steuern Sie die Auslastung des Teams effizient in der „Work-in-Progress“-Tabelle.'
+        image_alt: 'Definieren Sie WIP-Limits in der Kanban Board Vorlage und steuern Sie die Auslastung des Teams effizient in der „Work-in-Progress“-Tabelle.'
             
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       title: 'Ihre individuelle Kanban App'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie mit wenig Aufwand Ihr individuelles Kanban-Frontend. Nutzen Sie z. B. Kanban im Projektmanagement und legen Sie verschiedene Seiten und Dashboards für Mitarbeiter und Stakeholder an, teilen Sie Boards per Link mit Externen und hinterlegen Sie wichtige zusätzliche Informationen. Ein Passwortschutz und benutzerdefinierte Berechtigungen bieten zusätzliche Sicherheit.'
+      - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie mit wenig Aufwand Ihr individuelles Kanban-Frontend. Nutzen Sie z. B. die Kanban Board Vorlage im Projektmanagement und legen Sie verschiedene Seiten und Dashboards für Mitarbeiter und Stakeholder an, teilen Sie Boards per Link mit Externen und hinterlegen Sie wichtige zusätzliche Informationen. Ein Passwortschutz und benutzerdefinierte Berechtigungen bieten zusätzliche Sicherheit.'
       image: '/images/template_page_kanban_06.jpg'
       image_alt: 'Erstellen Sie individuelle Kanban Boards und Dashboards mit dem SeaTable App Builder – einfach teilen, sichern und flexibel für Projektmanagement nutzen.'
 
@@ -123,7 +123,7 @@ sections:
       weight: 15
       title: 'Machen Sie das Beste aus Ihren Kapazitäten – mit SeaTable'
       buttons:
-        - label: Jetzt das Kanban Board nutzen
+        - label: Jetzt das Kanban Board Vorlage nutzen
           link: pages/registration
 
     - name: "content-9"
@@ -171,10 +171,10 @@ sections:
       title: 'FAQs zur Kanban Board Vorlage von SeaTable'
       subtitle: 
       items:
-      - q: "Kann ich die Kanban Vorlage von SeaTable kostenlos nutzen?"
-        a: 'Ja, Sie können mit SeaTable die Vorlage "Kanban Board erstellen" kostenlos nutzen. Dafür benötigen Sie lediglich einen kostenfreien Account und können sofort loslegen, Ihre Kanban Board Software zu nutzen.'
+      - q: "Kann ich die Kanban Board Vorlage von SeaTable kostenlos nutzen?"
+        a: 'Ja, Sie können mit SeaTable die Vorlage für das Kanban Board erstellen und kostenlos nutzen. Dafür benötigen Sie lediglich einen kostenfreien Account und können sofort loslegen, mit Ihrer eigenen Kanban Board Vorlage.'
       - q: "Ist SeaTable eine Alternative zu Trello, Jira oder Asana für Kanban?"
-        a: 'Ja, SeaTable ist eine leistungsstarke [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}), Jira und Trello. Im Gegensatz zu diesen Tools bietet SeaTable nicht nur Kanban-Boards, sondern auch flexible Datenbank-Funktionalität, KI-gestützte Automatisierungen, granulare Berechtigungen und vollständige DSGVO-Konformität durch deutsches Hosting – alles in einer Plattform.'
+        a: 'Ja, SeaTable ist eine leistungsstarke [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}), Jira und Trello. Im Gegensatz zu diesen Tools bietet SeaTable nicht nur eine Kanban Board Vorlage, sondern auch flexible Datenbank-Funktionalität, KI-gestützte Automatisierungen, granulare Berechtigungen und vollständige DSGVO-Konformität durch deutsches Hosting – alles in einer Plattform.'
       - q: "Kann ich mein bestehendes Trello-Board in SeaTable importieren?"
         a: 'Ja, Sie können Ihre Trello-Boards problemlos in SeaTable migrieren. SeaTable unterstützt den Import von CSV-Dateien und JSON-Exporten. Nach dem Import können Sie die Datenstruktur anpassen, zusätzliche Spalten hinzufügen und von allen SeaTable-Funktionen wie KI-Automatisierung und erweiterten Berechtigungen profitieren.'
       - q: "Erlaubt mir SeaTable als Kanban-Tool WIP-Limits zu setzen?"
@@ -184,7 +184,7 @@ sections:
       - q: "Unterstützt SeaTable agile Methoden wie Scrum und Sprint-Planung?"
         a: 'Ja, die Kanban Board Vorlage lässt sich flexibel für Scrum anpassen. Sie können Sprints als separate Spalten oder Tabellen abbilden, Story Points hinzufügen, Burndown-Charts erstellen und Retrospektiven dokumentieren. Die Vorlage eignet sich sowohl für klassisches Kanban als auch für hybride Scrum/Kanban-Ansätze.'
       - q: "Kann ich Aufgaben auch mobil verwalten und verschieben?"
-        a: 'Ja, das Kanban Board ist vollständig mobil optimiert. Sie können Tasks mit Smartphone oder Tablet erstellen, bearbeiten, kommentieren und per Drag-and-Drop zwischen Spalten verschieben – egal ob im Büro, im Homeoffice oder unterwegs. Alle Änderungen synchronisieren sich sofort mit Ihrem Team.'
+        a: 'Ja, die Kanban Board Vorlage ist vollständig mobil optimiert. Sie können Tasks mit Smartphone oder Tablet erstellen, bearbeiten, kommentieren und per Drag-and-Drop zwischen Spalten verschieben – egal ob im Büro, im Homeoffice oder unterwegs. Alle Änderungen synchronisieren sich sofort mit Ihrem Team.'
       - q: "Kann ich automatisch vor überfälligen Tasks gewarnt werden?"
         a: 'Ja, die Kanban Board Vorlage unterstützt intelligente Benachrichtigungen und Alerts. Sie können automatische Warnungen für überfällige Deadlines, Tasks ohne Zuweisung, überschrittene WIP-Limits oder blockierte Aufgaben definieren. Die KI kann zudem proaktiv auf Risiken in Ihrem Workflow hinweisen.' 
       - q: "Kann ich mehrere Kanban Boards für verschiedene Projekte erstellen?"

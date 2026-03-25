@@ -70,7 +70,7 @@ Using the rows context menu, which you can reach by right-clicking in tables, yo
 
 The logs in the row details are more compact in SeaTable 3.4 than before. All changes that a user has made to a row at a certain point in time are displayed in a collective entry. Previously, a separate log entry was displayed for each change.
 
-Previously, the line limit per base was unchanged at 100,000 rows. If the limit was exceeded, the base could only be opened in read mode. With SeaTable 3.4, self-hosters get more control over the line limit. In certain use cases, the limit can be increased via the configuration files. More information about this can be found in the [SeaTable manual](https://manual.seatable.io/config/base_rows_limit/).
+Previously, the line limit per base was unchanged at 100,000 rows. If the limit was exceeded, the base could only be opened in read mode. With SeaTable 3.4, self-hosters get more control over the line limit. In certain use cases, the limit can be increased via the configuration files. More information about this can be found in the [SeaTable Admin Manual](https://admin.seatable.com/configuration/base-rows-limit/).
 
 ## Two functional limitations
 

@@ -15,7 +15,7 @@ seo:
     description: 'Weglot é um plugin WordPress que traduz automaticamente seu site para outros idiomas, ajudando a alcançar novos públicos.'
 ---
 
-Weglot é um plugin WordPress para traduzir automaticamente o seu próprio website. A ideia é simples e rapidamente explicada. Escreve todos os textos no seu próprio website na sua língua materna como habitualmente e deixa a Weglot traduzir todo o conteúdo para uma ou mais outras línguas. O visitante do website é automaticamente redireccionado para a versão linguística que lhe convém e a [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) encarrega-se de todo o trabalho necessário para SEO internacional. 
+Weglot é um plugin WordPress para traduzir automaticamente o seu próprio website. A ideia é simples e rapidamente explicada. Escreve todos os textos no seu próprio website na sua língua materna como habitualmente e deixa a Weglot traduzir todo o conteúdo para uma ou mais outras línguas. O visitante do website é automaticamente redireccionado para a versão linguística que lhe convém e a [Weglot](https://www.weglot.com/) encarrega-se de todo o trabalho necessário para SEO internacional. 
 
 ![Tradução automática do website com Weglot](automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
 
@@ -23,7 +23,7 @@ Tradução automática do website com Weglot
 
 Com Weglot, o desejo de um website multilingue torna-se realidade. É possível conseguir um preço mais elevado para o cliente com um esforço mínimo e os textos adicionais tornam o website mais relevante aos olhos do Google e a classificação melhora automaticamente. 
 
-Este artigo é o meu relatório de experiência pessoal após 1,5 anos de uso activo do [Weglot](https://weglot.com/?fp_ref=loved_by_seatable). Se ainda não conhece o Weglot, terá uma ideia depois deste texto porque é que nós no SeaTable decidimos usar o Weglot. Claro que também houve problemas, que puderam ser todos resolvidos, mas que ainda devem ser aqui mencionados.
+Este artigo é o meu relatório de experiência pessoal após 1,5 anos de uso activo do [Weglot](https://www.weglot.com/). Se ainda não conhece o Weglot, terá uma ideia depois deste texto porque é que nós no SeaTable decidimos usar o Weglot. Claro que também houve problemas, que puderam ser todos resolvidos, mas que ainda devem ser aqui mencionados.
 
 Em Medium publiquei outro artigo descrevendo os nossos guiões individuais, soluções de problemas e personalizações. Este artigo destina-se àqueles que já decidiram utilizar Weglot e que agora [querem saber](https://christophdb.medium.com/common-pitfalls-and-challenges-with-the-translation-plugin-weglot-on-the-way-to-more-traffic-and-1f51e8c607f4) mais sobre a [tecnologia por detrás do Weglot](https://christophdb.medium.com/common-pitfalls-and-challenges-with-the-translation-plugin-weglot-on-the-way-to-more-traffic-and-1f51e8c607f4). 
 
@@ -181,5 +181,5 @@ Para mim, os argumentos mais importantes para a utilização do Weglot são os s
 
 ## A minha conclusão após a utilização do Weglot durante mais de um ano
 
-[Weglot](https://weglot.com/?fp_ref=loved_by_seatable) não só promete muito, como também entrega extremamente. Com Weglot, pode transformar qualquer site WordPress num site multilingue num instante. Apesar de termos alguns obstáculos técnicos, conseguimos ultrapassar todos eles e implementar exactamente o que queríamos implementar.  
+[Weglot](https://www.weglot.com/) não só promete muito, como também entrega extremamente. Com Weglot, pode transformar qualquer site WordPress num site multilingue num instante. Apesar de termos alguns obstáculos técnicos, conseguimos ultrapassar todos eles e implementar exactamente o que queríamos implementar.  
 O preço do Weglot parece elevado à primeira vista quando o compara com outros plugins populares do WordPress. Ao mesmo tempo, o preço da tradução do seu próprio website é mais do que justificado. Eu escolheria novamente Weglot em qualquer altura e espero que este testemunho o tenha ajudado. Se quiser saber mais sobre as nossas personalizações, recomendo o meu [artigo Medium](https://christophdb.medium.com/common-pitfalls-and-challenges-with-the-translation-plugin-weglot-on-the-way-to-more-traffic-and-1f51e8c607f4).

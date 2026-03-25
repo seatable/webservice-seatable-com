@@ -53,7 +53,7 @@ Si una persona fallece y no ha tomado las medidas oportunas, sus datos pueden qu
 Google, Facebook y Apple ofrecen ciertos ajustes en la cuenta de usuario en los que se puede regular un patrimonio digital:
 
 - Para ello, Google dispone del denominado [gestor de inactividad de cuentas](https://myaccount.google.com/inactive?continue=https%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy): puede especificar durante su vida útil quién debe recibir una notificación cuando su cuenta esté inactiva y quién debe tener acceso a ella. También puede especificar que su cuenta se elimine automática y completamente tras un periodo de tiempo predefinido.
-- Facebook te da la opción de designar **en** tu [configuración](https://accountscenter.facebook.com/personal_info) personal un **contacto patrimonial** que pueda gestionar tu perfil en caso de fallecimiento. También puedes determinar si tu perfil se elimina o se recuerda tras el fallecimiento.
+- Facebook te da la opción de designar **en** tu configuración personal un **contacto patrimonial** que pueda gestionar tu perfil en caso de fallecimiento. También puedes determinar si tu perfil se elimina o se recuerda tras el fallecimiento.
 - Los usuarios de dispositivos Apple pueden [añadir contactos patrimoniales al ID de Apple.](https://support.apple.com/de-de/102631) Estas personas pueden acceder a tus fotos, mensajes, notas, archivos, etc. almacenados tras tu fallecimiento, pero **no** a los datos de pago ni a las contraseñas.
 
 ## Cómo y por qué hacer provisiones en vida

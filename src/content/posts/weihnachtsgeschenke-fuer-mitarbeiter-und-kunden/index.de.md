@@ -65,7 +65,7 @@ Den Bogen zwischen Weihnachtsstimmung und Arbeit zu schlagen, ist eine Herausfor
 
 Individuelle Notizbücher mit Logoprägung von LEUCHTTURM1917.
 
-- **Logo? Na logo!** Verzieren Sie Kunden- oder Mitarbeitergeschenke mit Ihrem Branding, um aus der Masse hervorzustechen. Nützliche Alltagshelfer in Ihrem Firmendesign oder mit einer Logoprägung veredelt eignen sich dafür besonders gut. Mit schön gestalteten Notizbüchern oder Kalendern machen Sie nicht nur Ihren Kunden eine Freude sondern verschenken Markenbotschafter. Bei [ausgewählten Anbietern](https://www.leuchtturm1917.de/fuer-unternehmen/corporate-gift/) können Sie ganz einfach passende Notizbücher auswählen und individuell gestalten.
+- **Logo? Na logo!** Verzieren Sie Kunden- oder Mitarbeitergeschenke mit Ihrem Branding, um aus der Masse hervorzustechen. Nützliche Alltagshelfer in Ihrem Firmendesign oder mit einer Logoprägung veredelt eignen sich dafür besonders gut. Mit schön gestalteten Notizbüchern oder Kalendern machen Sie nicht nur Ihren Kunden eine Freude sondern verschenken Markenbotschafter. Bei [ausgewählten Anbietern](https://www.leuchtturm1917.de/fuer-unternehmen/kundengeschenke/) können Sie ganz einfach passende Notizbücher auswählen und individuell gestalten.
 - **Hingucker auf dem Schreibtisch**: Ein Geschenk, das am Arbeitsplatz von Nutzen ist? Ja, gerne! Sei es eine Pflanze, ein Nackenkissen oder ein Stiftehalter – alles, was den Arbeitsalltag verschönert, ist ein gutes Geschenk.
 - **Musikalische Untermalung**: Ein Geschenk für alle! Musik bei der Arbeit verbessert die Laune und regt zum Mitsingen an.
 - **Herausforderung angenommen**: Ein Geschenk gibt es erst, wenn alle weihnachtlichen Challenges erfüllt wurden. Das hält den Spaßfaktor hoch.

@@ -16,7 +16,7 @@ color: '#3b6bb1'
 
 Thanks to Docker , the installation of SeaTable Enterprise Edition is very simple and can be done in just a few moments. Ubuntu Server as a widely used and well-documented Linux operating system is an excellent basis for SeaTable. If you already have an Ubuntu server, you can find out here how to install SeaTable on it in 10 minutes.
 
-{{< warning headline="This manual is outdated" text="Kindly be aware that this manual is outdated. Refer to the updated installation instructions available at [https://manual.seatable.io](https://manual.seatable.io)" />}}
+{{< warning headline="This manual is outdated" text="Kindly be aware that this manual is outdated. Refer to the updated installation instructions available at [https://admin.seatable.com/](https://admin.seatable.com/)" />}}
 
 ## Requirements
 
@@ -113,7 +113,7 @@ If you have voted to use Let's Encrypt in the docker-compose.yml, then your requ
 
 `docker exec -it seatable /shared/seatable/scripts/seatable.sh restart   docker restart seatable-memcached   docker exec -it seatable /usr/sbin/nginx -s reload`
 
-You can find out more about integrating your own SSL certificate in the [SeaTable manual](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
+You can find out more about integrating your own SSL certificate in the [SeaTable Admin Manual](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
 
 ![Users menu in SeaTable's System Administration](SeaTableEE_SystemAdministration_Users.png)
 

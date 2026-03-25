@@ -53,7 +53,7 @@ Um destaque especial é a capacidade de registar várias estatísticas utilizand
 
 ### idloom
 
-[Idloom](https://www.idloom.com/) é uma plataforma de gestão de eventos abrangente que cobre todos os aspectos do seu evento, desde o planeamento da agenda e emissão de bilhetes até à faturação e processamento de impostos. Fundada na Bélgica em 2015, a empresa atribui grande importância à segurança, como evidenciado pela sua certificação ISO 27001, entre outras coisas.
+[Idloom](https://www.idloom.com/en) é uma plataforma de gestão de eventos abrangente que cobre todos os aspectos do seu evento, desde o planeamento da agenda e emissão de bilhetes até à faturação e processamento de impostos. Fundada na Bélgica em 2015, a empresa atribui grande importância à segurança, como evidenciado pela sua certificação ISO 27001, entre outras coisas.
 
 Uma caraterística especial do idloom é a sua flexibilidade de registo: desde listas de espera e registos de grupos até ao acesso exclusivo, a plataforma oferece uma vasta gama de opções para satisfazer as suas necessidades individuais na gestão de eventos. Para além disso, o idloom conta com integrações, a capacidade de criar certificados e uma personalização flexível para satisfazer os requisitos específicos da empresa.
 

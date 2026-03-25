@@ -37,7 +37,7 @@ Une colonne supplémentaire pour les documents vous permet de classer les contra
 
 ## Organiser des formations continues pour vos employés
 
-Les employés étant l'une des ressources les plus importantes des entreprises, il est dans l'intérêt de ces dernières de promouvoir ces ressources et de les rendre ainsi encore plus précieuses. Par conséquent, la formation continue peut être considérée comme un investissement durable dans l'entreprise. Car les nouvelles connaissances acquises par vos employés ne profitent pas seulement à eux, [mais aussi à toute l'entreprise](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Les employés étant l'une des ressources les plus importantes des entreprises, il est dans l'intérêt de ces dernières de promouvoir ces ressources et de les rendre ainsi encore plus précieuses. Par conséquent, la formation continue peut être considérée comme un investissement durable dans l'entreprise. Car les nouvelles connaissances acquises par vos employés ne profitent pas seulement à eux, [mais aussi à toute l'entreprise](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Notre troisième base "Formations" vous donne un aperçu des différents besoins de vos collaborateurs et des possibilités de formation continue qui y sont liées. Vous pouvez inscrire toutes les formations continues disponibles dans la première colonne. Ensuite, vous inscrivez la date à laquelle la formation continue a lieu. Une autre colonne indique les places disponibles pour cette formation.
 

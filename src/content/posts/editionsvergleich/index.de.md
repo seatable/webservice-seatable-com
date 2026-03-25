@@ -35,7 +35,7 @@ Die SeaTable Server Developer Edition richtet sich primär an Entwickler, die Se
 | Installationsmethode                | Docker                                                                          | Docker                                                              |
 | Docker Images                       | [Docker Hub](https://hub.docker.com/r/seatable/seatable-developer)              | [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise)  |
 | **Lizenz**                          |                                                                                 |                                                                     |
-| Lizenztyp                           | [hybrid (Open Source und proprietär)](https://manual.seatable.io/home/#license) | [proprietär]({{< relref "pages/legal/terms-of-service" >}})         |
+| Lizenztyp                           | [hybrid (Open Source und proprietär)](https://admin.seatable.com/introduction/requirements/#license) | [proprietär]({{< relref "pages/legal/terms-of-service" >}})         |
 | Lizenzpreismodell                   | kostenlos                                                                       | Benutzerbasiert                                                     |
 | **Limits**                          |                                                                                 |                                                                     |
 | Unlimitierte Bases                  | {{< icon icon="circle-check" class="text-seatable-orange" >}}                   | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |

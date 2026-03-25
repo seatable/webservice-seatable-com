@@ -68,7 +68,7 @@ They should also look for sales goal reports to see if salespeople are meeting t
 
 ### Automate wherever possible
 
-According to [recent sales statistics](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), about 71% of salespeople waste most of their productive time on manual entries. Sales automation and artificial intelligence are making salespeople's jobs easier.
+According to recent sales statistics, about 71% of salespeople waste most of their productive time on manual entries. Sales automation and artificial intelligence are making salespeople's jobs easier.
 
 Sales process automation helps the remote sales team perform better by keeping them in the workflow and saving their valuable time and energy. Managers can effectively scale their sales team and decide where to direct effort for optimal results.
 
@@ -96,7 +96,7 @@ To this end, it is important to take preventive measures to encourage workers an
 
 Social interactions in remote teams enhance communication skills, make meetings more productive, and create good team relationships.
 
-Also, a good idea is to encourage your employees to spend time together outside of work, or set aside a budget for team-building activities. The interactions that take place during these activities can improve communication skills and help [prevent burnout](https://breadnbeyond.com/articles/wfh-burnout/). In addition, you can make meetings more productive and create good team relationships.
+Also, a good idea is to encourage your employees to spend time together outside of work, or set aside a budget for team-building activities. The interactions that take place during these activities can improve communication skills and help [prevent burnout](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). In addition, you can make meetings more productive and create good team relationships.
 
 ### Conclusion
 

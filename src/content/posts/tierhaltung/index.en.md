@@ -73,7 +73,7 @@ Before you get a pet, you should be aware of the impact the animal will have on 
 
 Of course, in a household with several people, it makes sense to **divide up the tasks** involved in looking after your pet. It makes sense to draw up a plan so that your pet never feels neglected.
 
-If you are away for a longer period of time, for example because you are going on **vacation**, you should take [care of](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) your pet in good time. With rodents, it is often enough to ask friends and relatives to look after them from time to time and feed them. This is usually not enough for larger animals, as they need to be actively exercised and need to be close to people.
+If you are away for a longer period of time, for example because you are going on **vacation**, you should take [care of](https://www.lanuk.nrw.de/article/haustiere-brauchen-auch-in-der-urlaubszeit-eine-zuverlaessige-betreuung) your pet in good time. With rodents, it is often enough to ask friends and relatives to look after them from time to time and feed them. This is usually not enough for larger animals, as they need to be actively exercised and need to be close to people.
 
 {{< warning headline="Taking animals on vacation with you" text="Vacations can also be a great experience for animals. However, **traveling with animals** also means a lot of stress. An **EU pet passport** is required for cats, dogs and ferrets when traveling abroad. In addition, special vaccinations and quarantine may be required in the vacation destination." />}}
 

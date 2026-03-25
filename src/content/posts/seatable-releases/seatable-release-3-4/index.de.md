@@ -69,7 +69,7 @@ Bei einem Blick in das Changelog finden Sie noch viele weitere Verbesserungen, d
 
 Die Logs in den Zeilendetails präsentieren sich in SeaTable 3.4 kompakter als bisher. Alle Änderungen, die ein Nutzer zu einem bestimmten Zeitpunkt an einer Zeile vorgenommen hat, werden in einem Sammeleintrag dargestellt. Bisher wurde für jede Änderung ein eigener Logeintrag angezeigt.
 
-Bisher lag das Zeilenlimit pro Base unveränderlich bei 100.000 Zeilen. Wurde das Limit überschritten, ließ sich die Base nur noch im Lesemodus öffnen. Mit SeaTable 3.4 bekommen Selbsthoster mehr Kontrolle über das Zeilenlimit. In bestimmten Nutzungsfällen kann das Limit über die Konfigurationsdateien erhöht werden. Mehr Informationen dazu erhalten Sie im [SeaTable Manual](https://manual.seatable.io/config/base_rows_limit/).
+Bisher lag das Zeilenlimit pro Base unveränderlich bei 100.000 Zeilen. Wurde das Limit überschritten, ließ sich die Base nur noch im Lesemodus öffnen. Mit SeaTable 3.4 bekommen Selbsthoster mehr Kontrolle über das Zeilenlimit. In bestimmten Nutzungsfällen kann das Limit über die Konfigurationsdateien erhöht werden. Mehr Informationen dazu erhalten Sie im [SeaTable Admin Manual](https://admin.seatable.com/configuration/base-rows-limit/).
 
 ## Zwei Funktionseinschränkungen
 

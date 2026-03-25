@@ -37,7 +37,7 @@ Una columna adicional para documentos le permite almacenar contratos de trabajo 
 
 ## Organice la formación continua de sus empleados
 
-Dado que los empleados son uno de los recursos más importantes para las empresas, a éstas les interesa promover estos recursos y hacerlos aún más valiosos. Por ello, la formación continua puede considerarse una inversión sostenible en la empresa. Porque los nuevos conocimientos que adquieren sus empleados no sólo les benefician a ellos, [sino también a toda la empresa](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Dado que los empleados son uno de los recursos más importantes para las empresas, a éstas les interesa promover estos recursos y hacerlos aún más valiosos. Por ello, la formación continua puede considerarse una inversión sostenible en la empresa. Porque los nuevos conocimientos que adquieren sus empleados no sólo les benefician a ellos, [sino también a toda la empresa](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Nuestra tercera base "Formación" le ofrece una visión general de las distintas necesidades de sus empleados y de las oportunidades de formación continua asociadas. Puede introducir todos los cursos de formación disponibles en la primera columna. A continuación, introduzca la fecha en la que tendrá lugar la formación continua. Otra columna muestra las plazas disponibles para esta formación continua.
 

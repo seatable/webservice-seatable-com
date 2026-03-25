@@ -37,7 +37,7 @@ An additional column for documents allows you to store employment contracts or r
 
 ## Organise further training for your employees
 
-Since employees are one of the most important resources for companies, it is in the interest of companies to promote these resources and thereby make them even more valuable. Accordingly, further training can be seen as a sustainable investment in the company. Because the new knowledge that your employees acquire not only benefits them, [but also the entire company](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Since employees are one of the most important resources for companies, it is in the interest of companies to promote these resources and thereby make them even more valuable. Accordingly, further training can be seen as a sustainable investment in the company. Because the new knowledge that your employees acquire not only benefits them, [but also the entire company](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Our third base "Trainings" provides you with an overview of the various needs of your employees and the associated training opportunities. You can enter all available trainings in the first column. Then enter the date on which the further training will take place. Another column shows the available places for this further training.
 

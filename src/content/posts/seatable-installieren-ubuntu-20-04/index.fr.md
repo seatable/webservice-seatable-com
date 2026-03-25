@@ -18,7 +18,7 @@ Grâce à Docker, l’installation de SeaTable Enterprise Edition est très simp
 
 {{< warning headline="Ce manuel est obsolète" >}}
 
-Veuillez noter que ce manuel est obsolète. Reportez-vous aux instructions d’installation à jour disponibles sur [https://manual.seatable.io](https://manual.seatable.io).
+Veuillez noter que ce manuel est obsolète. Reportez-vous aux instructions d’installation à jour disponibles sur [https://admin.seatable.com/](https://admin.seatable.com/).
 
 {{< /warning >}}
 

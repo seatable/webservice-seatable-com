@@ -35,7 +35,7 @@ Diesen Organisationen bieten wir die Möglichkeit mehr Kontrolle über Ihre Date
 
 ### SeaTable On-Premises und Dedicated
 
-Bei einer selbst gehosteten Lösung (On-Premises) lizenziert man nur die Softwarelösung SeaTable und kann dann selbst festlegen, wo man diese Software installieren will. Für die Installation nutzt man das [englische Administrator-Handbuch](https://manual.seatable.io) und behält mit diesem On-Premises Ansatz die volle Kontrolle über die Daten und das System. Im Umkehrschluss muss man sich aber selbst um die Installation, den Betrieb, die Wartung und die Updates kümmern.
+Bei einer selbst gehosteten Lösung (On-Premises) lizenziert man nur die Softwarelösung SeaTable und kann dann selbst festlegen, wo man diese Software installieren will. Für die Installation nutzt man das [englische Administrator-Handbuch](https://admin.seatable.com/) und behält mit diesem On-Premises Ansatz die volle Kontrolle über die Daten und das System. Im Umkehrschluss muss man sich aber selbst um die Installation, den Betrieb, die Wartung und die Updates kümmern.
 
 ![Public Cloud vs. On-Premises](https://seatable.io/wp-content/uploads/2021/11/public-cloud-vs-on-premises.png)
 
@@ -120,7 +120,7 @@ Die Installation erfolgt nach der Beauftragung innerhalb von wenigen Tagen auf d
 
 ## Mit SeaTable Enterprise On-Premises haben Sie die volle Kontrolle
 
-Bei einem On-Premises System entscheiden Sie, wo und auf welcher Hardware Ihr System läuft. Dies kann entweder ein eigener Server oder ein virtueller Server in einem beliebigen Rechenzentrum sein. Sie laden sich von Docker Hub den SeaTable Enterprise Container herunter und installieren und konfigurieren das System gemäß dem [englischsprachigen SeaTable Handbuch](https://manual.seatable.io).
+Bei einem On-Premises System entscheiden Sie, wo und auf welcher Hardware Ihr System läuft. Dies kann entweder ein eigener Server oder ein virtueller Server in einem beliebigen Rechenzentrum sein. Sie laden sich von Docker Hub den SeaTable Enterprise Container herunter und installieren und konfigurieren das System gemäß dem [englischsprachigen SeaTable Handbuch](https://admin.seatable.com/).
 
 In jedem Fall benötigen Sie zum Starten des SeaTable Servers eine Lizenz. Für bis zu drei Anwender erhalten Sie [eine kostenlose Zweijahres-Lizenz](/on-premises/). Lediglich Ihre E-Mail-Adresse ist dafür erforderlich. Wenn Sie mehr als drei Anwender nutzen möchten, müssen Sie SeaTable Enterprise entsprechend ihrer Nutzerzahlen lizenzieren. Die Lizenzdatei ist eine txt-Datei, die auf ihrem Server hinterlegt werden muss. Die Validierung der Gültigkeit erfolgt beim Start des SeaTable Servers. Eine Verbindung ins Internet zu einem Lizenzserver ist nicht erforderlich. SeaTable Enterprise kann somit komplett isoliert und autark in einem lokalen Netzwerk betrieben werden.
 

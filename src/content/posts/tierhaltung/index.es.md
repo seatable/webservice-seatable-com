@@ -73,7 +73,7 @@ Antes de tener una mascota, debes ser consciente del impacto que tendrá en tu *
 
 Por supuesto, en un hogar con varias personas, tiene sentido dividir **las tareas** de cuidado de tu mascota. Lo lógico es trazar un plan para que tu mascota nunca se sienta desatendida.
 
-Si te ausentas durante un periodo prolongado, por ejemplo porque te vas de **vacaciones**, debes [ocuparte](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) de tu mascota con tiempo. En el caso de los roedores, suele bastar con pedir a amigos y familiares que se ocupen de ellos de vez en cuando y les den de comer. Esto no suele ser suficiente para los animales más grandes, ya que necesitan ejercicio activo y estar cerca de la gente.
+Si te ausentas durante un periodo prolongado, por ejemplo porque te vas de **vacaciones**, debes [ocuparte](https://www.lanuk.nrw.de/article/haustiere-brauchen-auch-in-der-urlaubszeit-eine-zuverlaessige-betreuung) de tu mascota con tiempo. En el caso de los roedores, suele bastar con pedir a amigos y familiares que se ocupen de ellos de vez en cuando y les den de comer. Esto no suele ser suficiente para los animales más grandes, ya que necesitan ejercicio activo y estar cerca de la gente.
 
 {{< warning headline="Llevarse animales de vacaciones" text="Las vacaciones también pueden ser una gran experiencia para los animales. Sin embargo, **viajar con animales** también supone mucho estrés. Los gatos, perros y hurones necesitan un **pasaporte de la UE** para viajar al extranjero. Además, en el destino de las vacaciones pueden exigirse vacunas especiales y cuarentena." />}}
 

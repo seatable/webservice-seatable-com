@@ -13,7 +13,7 @@ seo:
 ## Предварительные требования
 
 - Аккаунт SeaTable Cloud с хотя бы одной базой
-- Claude Code (устанавливается через `npm install -g @anthropic-ai/claude-code`, подробности на [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code/overview))
+- Claude Code (устанавливается через `npm install -g @anthropic-ai/claude-code`, подробности на [docs.anthropic.com](https://code.claude.com/docs/en/overview))
 - Аккаунт Anthropic (необходим для использования Claude)
 
 ## Шаг 1: Создайте API-токен в SeaTable

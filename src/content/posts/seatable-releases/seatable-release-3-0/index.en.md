@@ -39,7 +39,7 @@ Editing an Office document from SeaTable could not be easier: A click on the Wor
 
 The editors used for online editing are from [ONLYOFFICE](https://onlyoffice.com). The editors of the ONLYOFFICE document server are characterised by a modern user interface and very good compatibility with Microsoft file formats. In addition, the document server, like SeaTable, can be self-hosted.
 
-Online editing is available in all SeaTable Cloud subscriptions, including the free subscription. For on-premises operation of SeaTable, the ONLYOFFICE document server must be installed and configured. The setup instructions can be found in the [SeaTable Manual](https://manual.seatable.io/).
+Online editing is available in all SeaTable Cloud subscriptions, including the free subscription. For on-premises operation of SeaTable, the ONLYOFFICE document server must be installed and configured. The setup instructions can be found in the [SeaTable Admin Manual](https://admin.seatable.com/).
 
 ## Improved synchronisation of bases
 
@@ -61,7 +61,7 @@ The new SeaTable Server component dtable-storage-server will significantly reduc
 
 Technically, the dtable-storage-server is a simple abstraction layer for different storage backends. As before, local storage and S3 object storage are supported. SeaTable thus offers attractive storage options for small, simple systems as well as for highly scalable setups.
 
-With newly installed SeaTable servers, bases are automatically stored in the dtable-storage-server. Only the storage of images and files is still done by the seaf-server. The situation is different for existing systems. When upgrading a SeaTable Server 2.x, the dtable-storage-server is not automatically installed and configured. This has to be done manually; the procedure is described in the [SeaTable manual](https://admin.seatable.com/upgrade/extra-upgrade-notice/#30). A migration of the existing bases into the dtable-storage-server is recommended. For a small number of bases, the export into a DTABLE file and the re-import into a new base is the simplest procedure. With a larger number of bases, this process can also be automated via the API. However, migration is not necessary. SeaTable 3.0 can continue to load bases from the seaf-server.
+With newly installed SeaTable servers, bases are automatically stored in the dtable-storage-server. Only the storage of images and files is still done by the seaf-server. The situation is different for existing systems. When upgrading a SeaTable Server 2.x, the dtable-storage-server is not automatically installed and configured. This has to be done manually; the procedure is described in the [SeaTable Admin Manual](https://admin.seatable.com/upgrade/extra-upgrade-notice/#30). A migration of the existing bases into the dtable-storage-server is recommended. For a small number of bases, the export into a DTABLE file and the re-import into a new base is the simplest procedure. With a larger number of bases, this process can also be automated via the API. However, migration is not necessary. SeaTable 3.0 can continue to load bases from the seaf-server.
 
 ## More improvements
 

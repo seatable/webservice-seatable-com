@@ -55,7 +55,7 @@ A particular highlight is the ability to record various statistics using the app
 
 ### idloom
 
-[Idloom](https://www.idloom.com/) is a comprehensive event management platform that covers every aspect of your event, from agenda planning and ticketing to invoicing and tax processing. Founded in Belgium in 2015, the company attaches great importance to security, as evidenced by its ISO 27001 certification, among other things.
+[Idloom](https://www.idloom.com/en) is a comprehensive event management platform that covers every aspect of your event, from agenda planning and ticketing to invoicing and tax processing. Founded in Belgium in 2015, the company attaches great importance to security, as evidenced by its ISO 27001 certification, among other things.
 
 A special feature of idloom is its flexible registration: from waiting lists and group registrations to exclusive access, the platform offers a wide range of options to meet your individual requirements when managing events. In addition, idloom scores with integrations, the ability to create certificates and flexible customization to meet company-specific requirements.
 

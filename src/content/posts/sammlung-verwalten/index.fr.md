@@ -53,7 +53,7 @@ Pour gérer votre collection, vous avez plusieurs possibilités. Il existe des a
 
 ### Evernote - l'application de prise de notes pour une saisie et une gestion rapides de vos collections
 
-Une option pour la gestion des collections est [Evernote](https://evernote.com/intl/de). Vous pouvez y écrire des notes et y joindre des images ou des documents tels que des preuves d'achat des objets. Il est également possible de définir des tags afin de distinguer les différentes collections les unes des autres. Une fonction de recherche permet de retrouver les objets de la collection dans les notes. Vous commencez avec une version gratuite. La version Personal coûte 6,99 € par mois et par utilisateur et la version Professional 8,99 €.
+Une option pour la gestion des collections est [Evernote](https://evernote.com/de-de). Vous pouvez y écrire des notes et y joindre des images ou des documents tels que des preuves d'achat des objets. Il est également possible de définir des tags afin de distinguer les différentes collections les unes des autres. Une fonction de recherche permet de retrouver les objets de la collection dans les notes. Vous commencez avec une version gratuite. La version Personal coûte 6,99 € par mois et par utilisateur et la version Professional 8,99 €.
 
 ![Quelqu'un consulte l'outil Evernote pour gérer sa collection.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
