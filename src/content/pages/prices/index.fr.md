@@ -180,7 +180,7 @@ sections:
     - name: faq
       weight: 19
       xshow: '!showCloud'
-      title: Häufig gestellte Fragen
+      title: Questions Fréquentes
       items:
           - q: Qu'est-ce qu'un utilisateur ?
             a: "Un utilisateur désigne un compte utilisateur (actif) sur une instance de SeaTable Server. Un compte utilisateur (actif) permet l'authentification et la connexion au système
