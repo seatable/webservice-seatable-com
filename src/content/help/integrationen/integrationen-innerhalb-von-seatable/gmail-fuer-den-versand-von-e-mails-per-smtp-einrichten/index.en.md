@@ -13,13 +13,13 @@ seo:
     description: 'Learn how to use Gmail SMTP with SeaTable step by step: settings, app password and OAuth, plus all info for secure, reliable mail integration.'
 ---
 
-**Gmail**, Google's popular email service, can be used to **send emails from SeaTable**. Authentication against the Google account can be done either via an app password or via OAuth. OAuth is the method preferred by Google, but is also much more difficult to set up. (Authentication via user name and user password is not possible with Gmail).
+**Gmail**, Google's popular email service, can be used to **send emails from SeaTable**. Authentication against the Google account can be done either via an app password or via OAuth. OAuth is Google's preferred authentication method, but is also much more difficult to set up. (Authentication via user name and user password is not possible with Gmail).
 
-{{< warning headline="Attention for workspace accounts" text="These instructions explain the procedure using a simple Gmail account. However, the procedure described here also applies to Google Workspace accounts. If you have a Workspace account, you just need to make sure that 2-step verification is activated." />}}
+{{< warning headline="Google Workspace accounts" text="These instructions explain the procedure using a simple Gmail account. However, the procedure described here also applies to Google Workspace accounts. If you have a Workspace account, you just need to make sure that 2-step-verification is turned on." />}}
 
 ## Authentication via app password
 
-An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 16-digit security code that apps or devices can use to authenticate themselves to Google and thereby gain access to your Gmail account. You can create app passwords in your [Google account](https://myaccount.google.com/). App passwords can only be used for accounts that have two-factor authentication enabled.
+An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 16-digit passcode that apps or devices can use to authenticate themselves to Google and thereby gain access to your Gmail account. You can create app passwords in your [Google account](https://myaccount.google.com/). App passwords can only be used for accounts that have two-step-verification enabled.
 
 ### Creating an app password
 
@@ -28,23 +28,23 @@ An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 
    ![Generating a Google app password](images/Google_App_Password.gif)
 3. Copy the generated app password to the clipboard.
 
-{{< warning headline="App passwords are intended for one-time use" text="The app password is only displayed after it has been created. It cannot be recalled or changed later. If you want to use your Gmail account in several bases for sending emails, we recommend creating several app passwords and giving each one a descriptive name." />}}
+{{< warning headline="App passwords are intended for one-time use" text="The app password is only displayed after it has been created. It cannot be retrieved or changed later. If you want to use your Gmail account in several bases for sending emails, we recommend creating several app passwords and giving each one a descriptive name." />}}
 
 ### Creation of the email account in SeaTable
 
 Now you need to add your Gmail account as a third party in your SeaTable base. To do this, the following steps are necessary:
 
 1. Open the extended base options by clicking on the **three-dot icon** {{< seatable-icon icon="dtable-icon-more-level" >}} in the top right-hand corner.
-2. Select the item **Integration of third-party providers**.
+2. Select the item **Third party integration**.
    ![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 3. Click on **Add email account**.
-4. Select **Generic email** provider as the service provider.
+4. Select **General email provider** as the service provider.
 5. Enter the following information and then click on the "Submit" button in the upper right corner:
     - **Account name**: any name for the account, e.g. 'Gmail'
     - **SMTP server**: 'smtp.gmail.com'
     - **SMTP port**: '587'
     - **Username**: Your Gmail address, e.g. 'seatable@gmail.com'
-    - **Password**: the generated app password from the cache
+    - **Password**: the generated app password from the clipboard
       ![Configuring Gmail with app password for sending emails from a SeaTable base](images/ThirdPartyIntegration_Gmail.png)
 
 ## Authentication via OAuth 2.0

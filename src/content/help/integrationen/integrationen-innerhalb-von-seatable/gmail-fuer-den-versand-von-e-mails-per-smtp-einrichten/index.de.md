@@ -13,7 +13,7 @@ seo:
 
 **Gmail**, der beliebte E-Mail-Dienst von Google, kann für den **Versand von E-Mails aus SeaTable** heraus verwendet werden. Die Authentifizierung gegenüber dem Google Konto kann entweder über ein App-Passwort oder via OAuth erfolgen. OAuth ist das von Google präferierte Verfahren, gleichzeitig aber in der Einrichtung deutlich schwieriger. (Die Authentifizierung über Benutzername und Benutzer-Passwort ist bei Gmail nicht möglich.)
 
-{{< warning headline="Achtung bei Workspace Konten" text="Diese Anleitung erklärt das Vorgehen anhand eines einfachen Gmail Kontos. Das hier beschriebene Vorgehen gilt aber genauso für Google Workspace Konten. Sollten Sie ein Workspace Konto haben, müssen Sie nur sicherstellen, dass die 2-Schritt-Verifizierung aktiviert ist." />}}
+{{< warning headline="Google Workspace Konten" text="Diese Anleitung erklärt das Vorgehen anhand eines einfachen Gmail Kontos. Das hier beschriebene Vorgehen gilt aber genauso für Google Workspace Konten. Sollten Sie ein Workspace Konto haben, müssen Sie nur sicherstellen, dass die 2-Schritt-Verifizierung aktiviert ist." />}}
 
 ## Authentifizierung mittels App-Passwort
 
@@ -24,7 +24,7 @@ Ein [App-Passwort](https://support.google.com/accounts/answer/185833?hl=de) ist 
 1. Öffnen Sie die [Verwaltung der App-Passwörter](https://myaccount.google.com/apppasswords) von Google - loggen Sie sich in Ihr **Google Konto** ein, wenn Sie dazu aufgefordert werden.
 2. Geben Sie einen **Namen** ein, z.B. 'SeaTable', und klicken auf **Erstellen**.
 
-![Generating a Google app password](images/Google_App_Password.gif)
+    ![Generating a Google app password](images/Google_App_Password.gif)
 
 3. Kopieren Sie das generierte App-Passwort in den Zwischenspeicher.
 
@@ -39,7 +39,7 @@ Nun müssen Sie Ihr Google Mail-Konto als Drittanbieter in Ihrer SeaTable Base h
    ![Integration von Drittanbietern über die erweiterten Base-Optionen](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 3. Klicken Sie auf **E-Mail-Konto hinzufügen**.
 4. Wählen Sie als Diensteanbieter **Generischer E-Mail-Provider**.
-5. Geben Sie die folgenden Informationen ein:
+5. Geben Sie die folgenden Informationen ein und klicken dann auf **Abschicken** in der rechten oberen Ecke:
 
     - **Kontoname**: ein beliebiger Name für das Konto, z.B. 'Gmail'
     - **SMTP-Server**: 'smtp.gmail.com'
@@ -51,7 +51,7 @@ Nun müssen Sie Ihr Google Mail-Konto als Drittanbieter in Ihrer SeaTable Base h
 
 6. Schließen Sie die Einrichtung ab.
 
-![Configuring Gmail with app password for sending emails from a SeaTable base](images/ThirdPartyIntegration_Gmail.png)
+    ![Configuring Gmail with app password for sending emails from a SeaTable base](images/ThirdPartyIntegration_Gmail.png)
 
 ## Authentifizierung via OAuth 2.0
 

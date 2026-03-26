@@ -13,26 +13,26 @@ seo:
     description: 'SeaTable : connectez Gmail pour envoyer des emails via SMTP, app password ou OAuth2, guide étape par étape, ports et sécurité inclus.'
 ---
 
-**Gmail**, le service de messagerie populaire de Google, peut être utilisé pour **envoyer des e-mails à partir de SeaTable**. L'authentification par rapport au compte Google peut se faire soit par un mot de passe de l'application, soit via OAuth. OAuth est la méthode préférée de Google, mais elle est en même temps nettement plus difficile à mettre en place. (L'authentification par nom d'utilisateur et mot de passe d'utilisateur n'est pas possible avec Gmail).
+**Gmail**, le service de messagerie populaire de Google, peut être utilisé pour **envoyer des e-mails à partir de SeaTable**. L'authentification par rapport au compte Google peut se faire soit par un mot de passe d'application, soit via OAuth. OAuth est la méthode préférée de Google, mais elle est en même temps plus difficile à mettre en place. (L'authentification par nom d'utilisateur et mot de passe d'utilisateur n'est pas possible avec Gmail).
 
-{{< warning headline="Attention aux comptes Workspace" text="Ces instructions expliquent la procédure à suivre à l'aide d'un simple compte Gmail. Toutefois, la procédure décrite ici s'applique également aux comptes Google Workspace. Si vous avez un compte Workspace, il vous suffit de vous assurer que la vérification en deux étapes est activée." />}}
+{{< warning headline="Comptes Google Workspace" text="Ces instructions expliquent la procédure à suivre à l'aide d'un simple compte Gmail. Toutefois, la procédure décrite ici s'applique également aux comptes Google Workspace. Si vous avez un compte Workspace, il vous suffit de vous assurer que la vérification en deux étapes est activée." />}}
 
-## Authentification par mot de passe de l'application
+## Authentification par mot de passe d'application
 
-Un [mot de passe d'application](https://support.google.com/accounts/answer/185833?hl=de) est un code de sécurité à 16 chiffres qui permet aux applications ou aux appareils de s'authentifier auprès de Google et d'accéder ainsi à votre compte Gmail. Vous pouvez créer des mots de passe d'application dans votre [compte Google](https://myaccount.google.com/). Les mots de passe d'application ne peuvent être utilisés que pour les comptes pour lesquels l'authentification à deux facteurs est activée.
+Un [mot de passe d'application](https://support.google.com/accounts/answer/185833?hl=de) est un code de sécurité à 16 chiffres qui permet aux applications ou aux appareils de s'authentifier auprès de Google et d'accéder ainsi à votre compte Gmail. Vous pouvez créer des mots de passe d'application dans votre [compte Google](https://myaccount.google.com/). Les mots de passe d'application ne peuvent être utilisés que pour les comptes pour lesquels la validation en deux étapes est activée.
 
-### Création d'un mot de passe pour l'application
+### Création d'un mot de passe d'application
 
 1. Ouvrez la [gestion des mots de passe des applications](https://myaccount.google.com/apppasswords) de Google - connectez-vous à votre **compte Google** lorsque vous y êtes invité.
-2. Saisissez un **nom**, par exemple 'SeaTable', et cliquez sur **Créer**.
+2. Saisissez un **nom**, par exemple 'SeaTable', et cliquez **Créer**.
 
-![Génération d'un mot de passe Google app](images/Google_App_Password.gif)
+    ![Génération d'un mot de passe Google app](images/Google_App_Password.gif)
 
-3. Copiez le mot de passe de l'application généré dans le cache.
+3. Copiez le mot de passe d'application généré dans le presse-papiers.
 
-{{< warning headline="Les mots de passe des applications sont destinés à un usage unique" text="Le mot de passe de l'application n'est affiché qu'après sa création. Il ne peut pas être consulté ou modifié ultérieurement. Si vous souhaitez utiliser votre compte Gmail dans plusieurs bases pour l'envoi d'e-mails, nous vous recommandons de créer plusieurs mots de passe d'app et de donner à chacun un nom descriptif." />}}
+{{< warning headline="Les mots de passe d'application sont destinés à un usage unique" text="Le mot de passe d'application n'est affiché qu'après sa création. Il ne peut pas être consulté ou modifié ultérieurement. Si vous souhaitez utiliser votre compte Gmail dans plusieurs bases pour l'envoi d'e-mails, nous vous recommandons de créer plusieurs mots de passe d'application et de donner à chacun un nom descriptif." />}}
 
-### Création d'un compte e-mail dans SeaTable
+### Création du compte e-mail dans SeaTable
 
 Vous devez maintenant ajouter votre compte Gmail en tant que fournisseur tiers dans votre base SeaTable. Pour cela, il faut suivre les étapes suivantes :
 
@@ -41,16 +41,17 @@ Vous devez maintenant ajouter votre compte Gmail en tant que fournisseur tiers d
 
 ![Intégration de fournisseurs tiers via les options de base étendues](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
-3. Cliquez sur **Ajouter un compte de messagerie**.
-4. Choisissez comme fournisseur de services **Fournisseur de messagerie générique**.
-5. Saisissez les informations suivantes :
+3. Cliquez sur **Ajouter un compte e-mail**.
+4. Choisissez comme fournisseur de services **Fournisseur général d'e-mail**.
+5. Saisissez les informations suivantes et cliquez **Soumettre** dans le coin supérieur droit:
+
     - **Nom du compte**: un nom quelconque pour le compte, par exemple 'Gmail'
     - **Serveur SMTP**: 'smtp.gmail.com'
     - **Port SMTP**: '587
     - **Nom d'utilisateur**: votre adresse Gmail, par exemple 'seatable@gmail.com'
-    - **Mot de passe**: le mot de passe de l'application généré dans le cache
+    - **Mot de passe**: le mot de passe d'application généré dans le presse-papiers
 
-![Configurer Gmail avec le mot de passe de l'application pour envoyer des e-mails depuis une base SeaTable](images/ThirdPartyIntegration_Gmail.png)
+    ![Configurer Gmail avec le mot de passe de l'application pour envoyer des e-mails depuis une base SeaTable](images/ThirdPartyIntegration_Gmail.png)
 
 ## Authentification via OAuth 2.0
 
