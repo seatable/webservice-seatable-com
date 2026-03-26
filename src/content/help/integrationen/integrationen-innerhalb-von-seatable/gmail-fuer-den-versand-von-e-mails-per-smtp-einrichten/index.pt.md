@@ -1,5 +1,5 @@
 ---
-title: 'Configurar o Gmail para enviar e-mails via SMTP'
+title: 'Configurar o Gmail para enviar emails via SMTP'
 date: 2023-01-10
 lastmod: '2025-03-07'
 categories:
@@ -15,7 +15,7 @@ seo:
 
 O **Gmail**, o popular serviço de correio eletrónico da Google, pode ser utilizado para **enviar mensagens de correio eletrónico a partir do SeaTable**. A autenticação da conta Google pode ser feita através de uma palavra-passe da aplicação ou através de OAuth. O OAuth é o método preferido pela Google, mas também é muito mais difícil de configurar. (A autenticação através do nome de utilizador e da palavra-passe do utilizador não é possível com o Gmail).
 
-{{< warning headline="Atenção às contas do espaço de trabalho" text="Estas instruções explicam o procedimento utilizando uma conta simples do Gmail. No entanto, o procedimento aqui descrito também se aplica às contas do Google Workspace. Se tiver uma conta do Workspace, só tem de se certificar de que a verificação em duas etapas está activada." />}}
+{{< warning headline="Contas do Google Workspace" text="Estas instruções explicam o procedimento utilizando uma conta simples do Gmail. No entanto, o procedimento aqui descrito também se aplica às contas do Google Workspace. Se tiver uma conta do Workspace, só tem de se certificar de que a verificação em duas etapas está activada." />}}
 
 ## Autenticação através da palavra-passe da aplicação
 
@@ -26,31 +26,32 @@ Uma [palavra-passe de aplicação](https://support.google.com/accounts/answer/18
 1. Abra a [gestão de palavras-passe da aplicação](https://myaccount.google.com/apppasswords) do Google - inicie sessão na sua **conta Google** quando lhe for pedido.
 2. Introduza um **nome**, por exemplo, "SeaTable", e clique em **Criar**.
 
-![Gerar uma palavra-passe da aplicação Google](images/Google_App_Password.gif)
+    ![Gerar uma palavra-passe da aplicação Google](images/Google_App_Password.gif)
 
 3. Copie a palavra-passe da aplicação gerada para a área de transferência.
 
 {{< warning headline="As palavras-passe das aplicações destinam-se a uma utilização única" text="A palavra-passe da aplicação só é apresentada depois de ter sido criada. Não pode ser recuperada ou alterada posteriormente. Se pretender utilizar a sua conta Gmail em várias bases para enviar e-mails, recomendamos que crie várias palavras-passe de aplicações e que atribua a cada uma um nome descritivo." />}}
 
-### Criação da conta de correio eletrónico no SeaTable
+### Criação da conta de email no SeaTable
 
 Agora precisa de adicionar a sua conta Gmail como terceiro na sua base SeaTable. Para tal, são necessários os seguintes passos:
 
 1. Abra as opções da base alargada clicando no **ícone de três pontos** {{< seatable-icon icon="dtable-icon-more-level" >}} no canto superior direito.
-2. Selecione a opção **Integração de fornecedores terceiros**.
+2. Selecione a opção **Integração de terceiros**.
 
-![Integração de terceiros através das opções de base avançadas](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+    ![Integração de terceiros através das opções de base avançadas](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
-3. Clique em **Adicionar conta de correio eletrónico**.
-4. Selecione Fornecedor de **correio eletrónico genérico** como fornecedor de serviços.
+3. Clique em **Adicionar conta de email**.
+4. Selecione **Fornecedor geral de correio eletrónico** como fornecedor de serviços.
 5. Introduza a seguinte informação:
+
     - **Nome da conta**: qualquer nome para a conta, por exemplo, 'Gmail'
     - **Servidor SMTP**: 'smtp.gmail.com'
     - **Porta SMTP**: '587'
     - **Nome de utilizador**: O seu endereço Gmail, por exemplo, 'seatable@gmail.com'
-    - **Palavra-passe**: a palavra-passe da aplicação gerada a partir da cache
+    - **Palavra-passe**: a palavra-passe da aplicação gerada a partir da área de transferência
 
-![Configurar o Gmail com a palavra-passe da aplicação para enviar mensagens de correio eletrónico a partir de uma base SeaTable](images/ThirdPartyIntegration_Gmail.png)
+    ![Configurar o Gmail com a palavra-passe da aplicação para enviar mensagens de correio eletrónico a partir de uma base SeaTable](images/ThirdPartyIntegration_Gmail.png)
 
 ## Autenticação via OAuth 2.0
 

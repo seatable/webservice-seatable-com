@@ -13,11 +13,11 @@ seo:
     description: 'Configure plataformas para enviar correos desde SeaTable por SMTP mediante Gmail, paso a paso, para mayor integración y seguridad.'
 ---
 
-**Gmail**, el popular servicio de correo electrónico de Google, puede utilizarse para **enviar correos electrónicos desde SeaTable**. La autenticación contra la cuenta de Google se puede hacer ya sea a través de una contraseña de la aplicación oa través de OAuth. OAuth es el método preferido por Google, pero también es mucho más difícil de configurar. (La autenticación a través de nombre de usuario y contraseña de usuario no es posible con Gmail).
+**Gmail**, el popular servicio de correo electrónico de Google, puede utilizarse para **enviar correos electrónicos desde SeaTable**. La autenticación contra la cuenta de Google se puede hacer ya sea a través de una contraseña de aplicación oa través de OAuth. OAuth es el método preferido por Google, pero también es mucho más difícil de configurar. (La autenticación a través de nombre de usuario y contraseña de usuario no es posible con Gmail).
 
-{{< warning headline="Atención a las cuentas del espacio de trabajo" text="Estas instrucciones explican el procedimiento utilizando una cuenta sencilla de Gmail. Sin embargo, el procedimiento aquí descrito también se aplica a las cuentas de Google Workspace. Si tienes una cuenta de Workspace, solo tienes que asegurarte de que la verificación en dos pasos está activada." />}}
+{{< warning headline="Cuentas de Google Workspace" text="Estas instrucciones explican el procedimiento utilizando una cuenta sencilla de Gmail. Sin embargo, el procedimiento aquí descrito también se aplica a las cuentas de Google Workspace. Si tienes una cuenta de Workspace, solo tienes que asegurarte de que la verificación en dos pasos está activada." />}}
 
-## Autenticación mediante contraseña de la aplicación
+## Autenticación mediante contraseña de aplicación
 
 Una [contraseña](https://support.google.com/accounts/answer/185833?hl=de) de [aplicación](https://support.google.com/accounts/answer/185833?hl=de) es un código de seguridad de 16 dígitos que las aplicaciones o los dispositivos pueden utilizar para autenticarse ante Google y, de este modo, obtener acceso a tu cuenta de Gmail. Puedes crear contraseñas de aplicaciones en tu [cuenta de Google](https://myaccount.google.com/). Las contraseñas de aplicaciones solo se pueden utilizar en cuentas que tengan habilitada la autenticación de dos factores.
 
@@ -26,31 +26,32 @@ Una [contraseña](https://support.google.com/accounts/answer/185833?hl=de) de [a
 1. Abre la [aplicación de gestión de contraseñas](https://myaccount.google.com/apppasswords) de Google: accede a tu **cuenta de Google** cuando se te solicite.
 2. Introduzca un **nombre**, por ejemplo "SeaTable", y haga clic en **Crear**.
 
-![Generar una contraseña de aplicación de Google](images/Google_App_Password.gif)
+    ![Generar una contraseña de aplicación de Google](images/Google_App_Password.gif)
 
 3. Copie la contraseña de la aplicación generada en el portapapeles.
 
-{{< warning headline="Las contraseñas de las aplicaciones son de un solo uso" text="La contraseña de la aplicación sólo se muestra después de haberla creado. No se puede recuperar ni cambiar posteriormente. Si quieres utilizar tu cuenta de Gmail en varias bases para enviar correos electrónicos, te recomendamos crear varias contraseñas de app y dar a cada una un nombre descriptivo." />}}
+{{< warning headline="Las contraseñas de las aplicaciones son de un solo uso" text="La contraseña de aplicación sólo se muestra después de haberla creado. No se puede recuperar ni cambiar posteriormente. Si quieres utilizar tu cuenta de Gmail en varias bases para enviar correos electrónicos, te recomendamos crear varias contraseñas de app y dar a cada una un nombre descriptivo." />}}
 
 ### Creación de la cuenta de correo electrónico en SeaTable
 
 Ahora tienes que añadir tu cuenta de Gmail como tercero en tu Base SeaTable. Para ello, es necesario seguir los siguientes pasos:
 
 1. Abra las opciones de la base ampliada haciendo clic en el **icono de tres puntos** {{< seatable-icon icon="dtable-icon-more-level" >}} situado en la esquina superior derecha.
-2. Seleccione la opción **Integración de proveedores externos**.
+2. Seleccione la opción **Integración de terceros**.
 
-![Integración de terceros mediante las opciones avanzadas de la base](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+    ![Integración de terceros mediante las opciones avanzadas de la base](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
-3. Haga clic en **Añadir cuenta de correo electrónico**.
-4. Seleccione Proveedor de **correo electrónico genérico** como proveedor de servicios.
+3. Haga clic en **Añadir cuenta de email**.
+4. Seleccione **Proveedor general de correo electrónico** como proveedor de servicios.
 5. Introduzca la siguiente información:
-    - **Nombre de la** cuenta: cualquier nombre para la cuenta, por ejemplo, 'Gmail'
+
+    - **Nombre de la cuenta**: cualquier nombre para la cuenta, por ejemplo, 'Gmail'
     - **Servidor SMTP**: 'smtp.gmail.com'
     - **Puerto SMTP**: '587'
-    - **Nombre de usuario**: tu dirección de Gmail, por ejemplo 'seatable@gmail.com'
-    - **Contraseña**: la contraseña de la aplicación generada a partir de la caché
+    - **Usuario**: tu dirección de Gmail, por ejemplo 'seatable@gmail.com'
+    - **Contraseña**: la contraseña de aplicación generada desde el portapapeles
 
-![Configuración de Gmail con contraseña de la aplicación para enviar correos electrónicos desde una base SeaTable](images/ThirdPartyIntegration_Gmail.png)
+    ![Configuración de Gmail con contraseña de la aplicación para enviar correos electrónicos desde una base SeaTable](images/ThirdPartyIntegration_Gmail.png)
 
 ## Autenticación mediante OAuth 2.0
 

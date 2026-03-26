@@ -20,17 +20,17 @@ seo:
 Um Ihren Microsoft 365 Account in SeaTable für den E-Mail Versand nutzen zu können, müssen Sie im Entra Admin Center von Microsoft zunächst eine Anwendung anlegen und konfigurieren.
 
 1. Melden Sie sich am [Microsoft Entra Admin Center](https://entra.microsoft.com/) an. Der Benutzer braucht Admin-Rechte für das Konto, das für den Versand verwendet werden soll.
-2. Klicken Sie auf **App-Registrierungen**.
-3. Erstellen sie eine neue Anmeldung durch Klick auf **\+ Neue Registrierung**. Geben Sie einen Namen ein (z.B. 'SeaTable') und wählen Sie "Alle Konten von Entra ID-Mandanten und persönliche Microsoft Konten" als Kontotyp. Registrieren Sie die folgende Umleitungs-URI für eine Anwendung vom Typ "Web":
+2. Klicken Sie in der Seitennavigation auf **App-Registrierungen** .
+3. Erstellen sie eine neue Anmeldung durch Klick auf **\+ Neue Registrierung**. Geben Sie einen Namen ein (z.B. 'SeaTable') und wählen Sie **Alle Konten von Entra ID-Mandanten und persönliche Microsoft Konten** als Kontotyp. Registrieren Sie die folgende Umleitungs-URI für eine Anwendung vom Typ **Web**:
 
     ```
     https://cloud.seatable.io/oauth/third-party-email-accounts/callback/
     ```
 
-    Wenn Sie nicht SeaTable Cloud verwenden, dann ersetzen Sie cloud.seatable.io durch den Hostname Ihrer SeaTable Instanz. Schließen Sie die Anlage der App-Registrierung mit Klick auf "Registrieren" ab.
+    Wenn Sie nicht SeaTable Cloud verwenden, dann ersetzen Sie cloud.seatable.io durch den Hostname Ihrer SeaTable Instanz. Schließen Sie die Anlage der App-Registrierung mit Klick auf **Registrieren** ab.
 
 4. Notieren Sie die **Anwendungs-ID (Client)** auf der Übersichtsseite der gerade registrierten App. Diese wird für die Einrichtung des E-Mail-Kontos in SeaTable benötigt.
-5. Um den Clientschlüssel zu erzeugen, navigieren Sie in der Seitennavigation der App zu **Zertifikate und Geheimnisse**. Klicken Sie auf **Neuer geheimer Clientschlüssel**. Vergeben Sie für den Schlüssel eine Beschreibung und ein Ablaufdatum.
+5. Um den Clientschlüssel zu erzeugen, navigieren Sie in der Navigation der App zu **Zertifikate und Geheimnisse**. Klicken Sie auf **Neuer geheimer Clientschlüssel**. Vergeben Sie für den Schlüssel eine Beschreibung und ein Ablaufdatum.
 
     ![Creating a client secret for a registered app in Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
@@ -38,25 +38,24 @@ Um Ihren Microsoft 365 Account in SeaTable für den E-Mail Versand nutzen zu kö
 
 Damit haben Sie alle Vorbereitungen getroffen, um Ihren Microsoft 365 Account als E-Mail-Konto in SeaTable nutzen zu können.
 
-## Anlage des Drittanbieterkontos in SeaTable
+## Anlage des E-Mail-Kontos in SeaTable
 
 Nun müssen Sie Ihren Microsoft 365 Account in Ihrer SeaTable Base hinzufügen. Dazu sind die folgenden Schritte notwendig:
 
-![Integration von Drittanbietern über die erweiterten Base-Optionen](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
-
 1. Öffnen Sie die erweiterten Base-Optionen mit einem Klick auf das **Drei-Punkte-Icon** {{< seatable-icon icon="dtable-icon-more-level" >}} in der rechten oberen Ecke.
 2. Wählen Sie die Option **Integration von Drittanbietern** aus.
+   ![Integration von Drittanbietern über die erweiterten Base-Optionen](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 3. Klicken Sie auf **E-Mail-Konto hinzufügen**.
-4. Wählen Sie **Microsoft (Microsoft 365 und Outlook)** als Dienstanbieter aus.
-5. Geben Sie die folgenden Informationen ein und klicken dann auf die **Abschicken** Schaltfläche in der rechten oberen Ecke:
+4. Wählen Sie als Diensteanbieter **Microsoft (Microsoft 365 und Outlook)**.
+5. Geben Sie die folgenden Informationen ein und klicken dann auf **Abschicken** in der rechten oberen Ecke:
     - **Kontoname**: Eine kurze Beschreibung des Kontos, z.B. 'Microsoft 365'
     - **Client-ID**: die Anwendungs-ID (Client) der erstellten App
     - **Clientschlüssel**: der geheime Clientschlüssel der erstellten App
 6. Erteilen Sie die angeforderten Berechtigungen, indem Sie auf **Akzeptieren** klicken.
    ![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 
-## E-Mails per Automation oder Schaltfläche versenden
+## E-Mails per Automatisierungsregel oder Schaltfläche versenden
 
-Danach können Sie das in Ihrer SeaTable Base angelegte E-Mail-Konto verwenden, um E-Mails per [Automation]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) zu verschicken.
+Danach können Sie das in Ihrer SeaTable Base angelegte E-Mail-Konto verwenden, um E-Mails per [Automatisierung]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) oder Schaltfläche zu verschicken.
 
 Wenn Sie mehr über diese nützliche Funktion erfahren wollen, lesen Sie den Artikel [Einrichtung eines E-Mail-Kontos in einer Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
