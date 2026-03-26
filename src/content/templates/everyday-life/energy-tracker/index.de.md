@@ -100,7 +100,7 @@ sections:
         image_alt: 'Energy Tracker mit Kostenbarometer und Ziel-Ist-Vergleich'
       - headline: 'Automatisierungen und Benachrichtigungen: Weniger manueller Aufwand'
         text: 'Eine der großen Stärken von SeaTable gegenüber anderen Verbrauchskontroll-Tools oder [Spreadsheets]({{< relref "posts/20250318-google-spreadsheet-alternative" >}}), sind die integrierten, intuitiv anzulegenden Automatisierungen und Benachrichtigungen. Das Template bringt bereits eine **Automatisierung zur Datenverknüpfung und eine automatisierte Benachrichtigung** mit. So verpassen Sie keine Vertragskündigungsfrist mehr.'
-        image: '/images/template_page_energytracker_03.png'
+        image: '/images/template_page_energytracker_04.png'
         image_alt: 'Drag-and-Drop-Automationseditor für schlanke Datenverarbeitung im Energy Tracker'    
       
     - name: "banner-3"
@@ -145,7 +145,7 @@ sections:
       subtitle: 
       items:
       - text: 'Mit SeaTables integriertem No-Code App Builder erstellen Sie im Handumdrehen eine individuelle App passend zu Ihrem Bedarf. Legen Sie flexible Analyse-Dashboards an, um Ihren Gasverbrauch oder Strom zu berechnen und die tatsächlichen Kosten mit den Vorauszahlungen abzugleichen. Über Formulare erfassen Sie neue Zählerstände und Verträge ganz einfach jederzeit und von überall. Ein **übersichtliches Design und strukturierte Ansichten** bieten zusätzliche Übersicht über Ihren Verbrauch und Einsparpotenziale.'
-      image: '/images/template_page_energytracker_06.png'
+      image: '/images/template_page_energietracker_06.png'
       image_alt: 'Energy Tracker App mit individuell anpassbaren Dashboards'
 
     - name: "faq"
