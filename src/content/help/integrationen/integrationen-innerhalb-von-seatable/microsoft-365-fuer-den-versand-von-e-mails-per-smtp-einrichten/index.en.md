@@ -51,7 +51,7 @@ Now you need to add your Microsoft 365 account as a third party account in your 
 5. Enter the following information and then click on the **Submit** button in the upper right corner:
     - **Account name**: any name for the account, e.g. 'Microsoft 365'
     - **Application (client) ID**: the application (client) ID of the created app
-    - **Client secret**: the client secret of the created app
+    - **Client secret**: the client secret of the created app from the clipboard
 6. Grant the requested permissions by clicking **Accept**.
    ![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 

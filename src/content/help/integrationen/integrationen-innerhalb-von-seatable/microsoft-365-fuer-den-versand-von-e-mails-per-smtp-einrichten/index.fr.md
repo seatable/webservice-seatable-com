@@ -51,7 +51,7 @@ Vous devez maintenant ajouter votre compte Microsoft 365 dans votre base SeaTabl
 5. Saisissez les informations suivantes, puis cliquez sur le bouton **Soumettre** dans le coin supérieur droit :
     - **Nom du compte**: un nom quelconque pour le compte, par exemple 'MS365'
     - **ID d'application (client)**: l'ID d'application (client) de l'app créée
-    - **Clé client**: la clé client secrète de l'application créée
+    - **Clé client**: la clé client secrète de l'application créée dans le presse-papiers
 6. Accordez les autorisations demandées en cliquant sur **Accepter**.
    ![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 

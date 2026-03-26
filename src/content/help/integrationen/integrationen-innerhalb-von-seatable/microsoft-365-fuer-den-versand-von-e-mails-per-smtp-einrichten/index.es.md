@@ -52,7 +52,7 @@ Ahora necesitas añadir tu cuenta de Microsoft 365 a tu Base SeaTable. Para ello
 5. Introduzca la siguiente información y haga clic en el botón **Enviar** situado en la esquina superior derecha:
     - **Nombre de la cuenta**: una breve descripción de la cuenta (por ejemplo, "Microsoft 365")
     - **ID de aplicación (cliente)**: el ID de aplicación (cliente) de la aplicación creada.
-    - **Clave cliente**: la clave cliente secreta de la aplicación creada
+    - **Clave cliente**: la clave cliente secreta de la aplicación creada desde el portapapeles
 6. Concede los permisos solicitados haciendo clic en **Aceptar**.
    ![Screencast aceptar permisos solicitados](images/Accept-Permissions-Requested-Microsoft.gif)
 

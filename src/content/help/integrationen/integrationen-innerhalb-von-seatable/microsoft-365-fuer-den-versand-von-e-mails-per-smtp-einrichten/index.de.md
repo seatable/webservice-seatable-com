@@ -50,7 +50,7 @@ Nun müssen Sie Ihren Microsoft 365 Account in Ihrer SeaTable Base hinzufügen. 
 5. Geben Sie die folgenden Informationen ein und klicken dann auf **Abschicken** in der rechten oberen Ecke:
     - **Kontoname**: Eine kurze Beschreibung des Kontos, z.B. 'Microsoft 365'
     - **Client-ID**: die Anwendungs-ID (Client) der erstellten App
-    - **Clientschlüssel**: der geheime Clientschlüssel der erstellten App
+    - **Clientschlüssel**: der geheime Clientschlüssel der erstellten App aus der Zwischenablage
 6. Erteilen Sie die angeforderten Berechtigungen, indem Sie auf **Akzeptieren** klicken.
    ![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 
