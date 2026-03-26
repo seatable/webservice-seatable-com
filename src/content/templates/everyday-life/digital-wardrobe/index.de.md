@@ -92,7 +92,7 @@ sections:
         image: '/images/template_page_digitalerkleiderschrank_02.png'
         image_alt: 'Kostenlose App für Kleiderschrank und Outfit-Planung mit Galerie-Ansicht.'
       - headline: 'Outfit-Planer'
-        text: 'Stellen Sie aus Ihren Kleidungsstücken komplette **Outfits für verschiedene Anlässe** zusammen und erfassen Sie diese übersichtlich. Die strukturierte Planung spart Ihnen im Alltag Zeit und garantiert eine abwechslungsreiche Nutzung Ihrer Garderobe'
+        text: 'Stellen Sie aus Ihren Kleidungsstücken komplette **Outfits für verschiedene Anlässe** zusammen und erfassen Sie diese übersichtlich. Die strukturierte Planung spart Ihnen im Alltag Zeit und garantiert eine abwechslungsreiche Nutzung Ihrer Garderobe.'
         image: '/images/template_page_digitalerkleiderschrank_04.png'
         image_alt: 'Übersichtliche Darstellung verschiedener Outfits und Kombinationen in der Kleiderschrank App.'
       - headline: 'Wunschliste anlegen und teilen'
@@ -161,7 +161,7 @@ sections:
       - q: "Kann ich meinen digitalen Kleiderschrank mit mehreren Personen nutzen?"
         a: 'Ja, Sie können unsere Vorlage für einen Online-Kleiderschrank auch für mehrere Personen anlegen oder freigeben. Wenn Sie SeaTable in der Free-Subscription nutzen, können Sie bis zu 24 weitere Nutzer einladen, oder alternativ einen Freigabe-Link für externe Nutzer erstellen, mit dem diese auf Ihr App-Frontend zugreifen können.'  
       - q: "Welche KI-Funktionen unterstützt die Kleiderschrank-App?"
-        a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einem Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Texte aus Bildern extrahieren, Kleidungsstücke kategorisieren oder Outfitvorschläge erzeugen'
+        a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einem Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Texte aus Bildern extrahieren, Kleidungsstücke kategorisieren oder Outfitvorschläge erzeugen.'
       - q: "Kann ich meinen digitalen Kleiderschrank mit anderen Vorlagen verbinden?"
         a: 'Absolut, Sie können Ihre Vorlage mit weiteren passenden SeaTable-Vorlagen wie z. B. dem [Haushaltsbuch]({{< relref "templates/finance/budget-book" >}}) oder dem [Urlaubsplaner]({{< relref "templates/events/travel-planner" >}}) kombinieren oder über [Integrationen]({{< relref "pages/integrations" >}}) mit anderen genutzten Tools verknüpfen. '
       - q: "Kann ich auch Fotos von Outfits und Kombinationen speichern?"
