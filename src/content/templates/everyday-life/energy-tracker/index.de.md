@@ -1,13 +1,13 @@
 ---
 title: 'Energy Tracker'
-description: Vermeiden Sie Nachzahlungen! Mit dem Energy Tracker erfassen Sie Zählerstände für Strom, Wasser & Gas. inkl. Vertrags-Upload & Analysen'
+description: Vermeiden Sie Nachzahlungen! Mit dem Energy Tracker erfassen Sie Zählerstände für Strom, Wasser & Gas inkl. Vertrags-Upload & Analysen'
 date: '2025-07-18'
 url: '/de/vorlage/energy-tracker'
 category: 'everyday-life'
 functions:
 seo:
     title: 'Energy Tracker – Verbrauchsdaten dokumentieren & analysieren'
-    description: 'Vermeiden Sie Nachzahlungen! Mit dem Energy Tracker erfassen Sie Zählerstände für Strom, Wasser & Gas. inkl. Vertrags-Upload & Analysen'
+    description: 'Vermeiden Sie Nachzahlungen! Mit dem Energy Tracker erfassen Sie Zählerstände für Strom, Wasser & Gas inkl. Vertrags-Upload & Analysen'
 draft: true
 
 type: pages
@@ -40,14 +40,14 @@ sections:
           headline: 'Übersichtliche Darstellung'
           text: 'Dank verschiedener Plugins, Ansichten, Filter- und Gruppierungsfunktionen strukturieren Sie Ihre Daten so, wie Sie sie brauchen.'
         - icon: 'robot'
-          headline: 'KI-gestütze Automatisierungen'
-          text: 'Nutzen Sie die integrierten KI-unterstützten Automatisierungen für schlanke Workflows und smarte Datenverarbeitungen. So reduzieren Sie manuelle Arbeit.'
+          headline: 'KI-gestützte Automatisierungen'
+          text: 'Nutzen Sie die integrierten KI-unterstützten Automatisierungen für schlanke Workflows und smarte Datenverarbeitung. So reduzieren Sie manuelle Arbeit.'
         - icon: 'table'
           headline: 'Zentral an einem Ort'
           text: 'Der Energy Tracker für Strom, Gas, Wasser, Vertragsdaten und Jahresabrechnungen – alles zentral und sofort im Blick.' 
         - icon: 'chart-line'
           headline: 'Dashboards'
-          text: 'Aussagekräftige Dashboards zeigen Ihnen auf einen Blick, wie Ihr Verbrauch im Jahresverlauf schwankt. So erkennen Sie Ausreisser sofort. '  
+          text: 'Aussagekräftige Dashboards zeigen Ihnen auf einen Blick, wie Ihr Verbrauch im Jahresverlauf schwankt. So erkennen Sie Ausreißer sofort. '  
 
     - name: "content-12"
       weight: 5
@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Zählerstände erfassen leicht gemacht'
       subtitle: 'Energy Tracker von SeaTable'
-      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie einen **Energy Tracker, der weit mehr ist als eine Tabelle**. Egal, ob Sie Ihren Gasverbrauch berechnen wollen oder Verbrauchskurven im Jahresverlauf analysieren möchten: Mit SeaTable haben Sie alles in einer einzigen, übersichtlichen Oberfläche.'
+      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie einen **Energy Tracker, der weit mehr ist als eine Tabelle**. Egal, ob Sie Ihren Gasverbrauch berechnen wollen oder Verbrauchskurven im Jahresverlauf analysieren möchten: Mit SeaTable haben Sie alles in einer einzigen, übersichtlichen Oberfläche <!-- Hier würde besser Software, Plattform oder App passen -->.'
       items:
       - text: '**Immer aktuell**: Mit SeaTable erfassen Sie Ihre Zählerstände in Sekunden und greifen sofort in Echtzeit auf aktualisierte Daten zu.'
       - text: '**Stets zur Hand**: Sie können jederzeit und von überall auf Ihre Verbrauchskontroll-App zugreifen und z. B. neue Arbeitspreise hinterlegen.'
@@ -73,7 +73,7 @@ sections:
        - bg-gray-100
       title: 'Ihr Energy Tracker für volle Kontrolle'
       subtitle: 'Jederzeit verfügbar'
-      description: 'SeaTable ist eine moderne KI No-Code Datenbank mit App Builder und bietet alle Funktionen, die Sie benötigen, um Ihren Verbauch und Ihre Kosten zu kontrollieren. Im Mittelpunkt stehen **Verbrauchstransparenz, einfache Dateneingabe und flexible Anpassung** bei höchsten Datenschutzstandards.'
+      description: 'SeaTable ist eine moderne KI No-Code Datenbank mit App Builder und bietet alle Funktionen, die Sie benötigen, um Ihren Verbrauch und Ihre Kosten zu kontrollieren. Im Mittelpunkt stehen **Verbrauchstransparenz, einfache Dateneingabe und flexible Anpassung** bei höchsten Datenschutzstandards.'
       box-position: [right!]
       items:
       - headline: Energieverbrauch
@@ -91,15 +91,15 @@ sections:
         image: '/images/template_page_energytracker_05.png'
         image_alt: 'Einfache Zählerstandserfassung per Formular im Energy Tracker.'
       - headline: 'Vertragsmanagement: Alle Vertragsdaten zentral'
-        text: 'Um z. B. Ihre Heizkosten zu berechnen reicht der Zählerstand nicht aus, Sie brauchen auch Ihren aktuellen Arbeitspreis. Hier spielt SeaTable seine Stärken als [Online-Datenbank]({{< relref "posts/relationale-datenbank" >}}) aus. Speichern Sie einfach alle relevanten Vertragsinformationen direkt im Energy Tracker und schon haben Sie einen vollwertigen Verbrauch- und Kosten-Tracker – mit allen Verträgen auf einen Blick **in der praktischen Galerie-Ansicht**.'
+        text: 'Um z. B. Ihre Heizkosten zu berechnen, reicht der Zählerstand nicht aus; Sie brauchen auch Ihren aktuellen Arbeitspreis. Hier spielt SeaTable seine Stärken als [Online-Datenbank]({{< relref "posts/relationale-datenbank" >}}) aus. Speichern Sie einfach alle relevanten Vertragsinformationen direkt im Energy Tracker und schon haben Sie einen vollwertigen Verbrauch- und Kosten-Tracker – mit allen Verträgen auf einen Blick **in der praktischen Galerie-Ansicht**.'
         image: '/images/template_page_energytracker_03.png'
         image_alt: 'Alle Verträge auf einen Blick in der Galerie-Ansicht im Energy Tracker'
       - headline: 'Kostenbarometer: Abschläge vs. Verbrauch'
-        text: 'Ihr Energy Tracker besteht aus einer [Excel-ähnlichen Datenbank]({{< relref "pages/excel-alternative" >}}) und einer **No-Code App als Frontend**. Hier finden Sie das Herzstück Ihres Energy Trackers: die Analyse-Dashboards. Vergleichen Sie Ihren Verbrauch und die tatsächlichen Kosten auf Monatsbasis, stellen Sie Ihre voraussichtliche Jahreszahlung den tatsächlichen Kosten gegenüber und legen Sie per Drag-and-Drop ganz einfach weitere Auswertungen an.'
+        text: 'Ihr Energy Tracker besteht aus einer [Excel-ähnlichen Datenbank]({{< relref "pages/excel-alternative" >}}) <!-- Das stimmt nicht ganz, eher "Datenbank, die auf den ersten Blick so ähnlich wie Excel aussieht,..." --> und einer **No-Code App als Frontend**. Hier finden Sie das Herzstück Ihres Energy Trackers: die Analyse-Dashboards. Vergleichen Sie Ihren Verbrauch und die tatsächlichen Kosten auf Monatsbasis, stellen Sie Ihre voraussichtliche Jahreszahlung den tatsächlichen Kosten gegenüber und legen Sie per Drag-and-Drop ganz einfach weitere Auswertungen an.'
         image: '/images/template_page_energytracker_02.png'
         image_alt: 'Energy Tracker mit Kostenbarometer und Ziel-Ist-Vergleich'
       - headline: 'Automatisierungen und Benachrichtigungen: Weniger manueller Aufwand'
-        text: 'Eine der großen Stärken von SeaTable gegenüber anderen Verbrauchskontroll-Tools oder [Spreadsheets]({{< relref "posts/20250318-google-spreadsheet-alternative" >}}), sind die integrierten, intuitiv anzulegenden Automatisierungen und Benachrichtigungen. Das Template bringt bereits eine **Automatisierung zur Datenverknüpfung und eine automatisierte Benachrichtigung** mit. So verpassen Sie keine Vertragskündigungsfrist mehr.'
+        text: 'Eine der großen Stärken von SeaTable gegenüber anderen Verbrauchskontroll-Tools oder [Spreadsheets]({{< relref "posts/20250318-google-spreadsheet-alternative" >}}) sind die integrierten, intuitiv anzulegenden Automatisierungen und Benachrichtigungen. Das Template bringt bereits eine **Automatisierung zur Datenverknüpfung und eine automatisierte Benachrichtigung** mit. So verpassen Sie keine Vertragskündigungsfrist mehr.'
         image: '/images/template_page_energytracker_04.png'
         image_alt: 'Drag-and-Drop-Automationseditor für schlanke Datenverarbeitung im Energy Tracker'    
       
@@ -118,7 +118,7 @@ sections:
       description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten [KI-unterstützten Automatisierungen]({{< relref "pages/ai-automations" >}}). Fassen Sie wichtige Vertragsinformationen zusammen, extrahieren Sie relevante Informationen wie Kündigungsdaten oder Arbeitspreisgarantien oder lassen Sie Kündigungsschreiben vorformulieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
-        text: 'Mit der Summarize-Funktion erstellen Sie automatisch kurze Zusammenfassungen,  z. B. von Ihren Vertragsunterlagen oder von Tarifanpassungen. Für einen schnellen Überblick.'
+        text: 'Mit der Summarize-Funktion erstellen Sie automatisch kurze Zusammenfassungen, z. B. von Ihren Vertragsunterlagen oder von Tarifanpassungen. Für einen schnellen Überblick.'
         icon: circle-info
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie Ihren Verbrauch automatisch anhand der erfassten Vormonatswerte einordnen, z. B. in "Normal", "Leicht erhöht", "Hoch". So erkennen Sie, ob Handlungsbedarf besteht.'
@@ -164,7 +164,7 @@ sections:
       - q: "Benötige ich technisches Vorwissen für die Nutzung des Energy Trackers?"
         a: 'Nein, SeaTable ist eine No-Code-Lösung und erfordert grundsätzlich kein technisches Wissen oder Programmierkenntnisse. Sie können alle Einstellungen im Template ähnlich wie in einem Spreadsheet anpassen.'
       - q: "Wo speichert SeaTable meine Daten?"
-        a: 'Die SeaTable Cloud wird ausschließlich auf Schweizer Servern in Deutschland gehostet, die SeaTable KI wird auf deutschen Servern in einem Frankfurter Rechenzentrum gehostet.'
+        a: 'Die SeaTable Cloud wird ausschließlich auf Schweizer Servern <!-- Diese Formulierung finde ich etwas unglücklich. Im Zweifel kommen die Server aus China oder Taiwan. Ich würde "Schweizer" einfach weglassen und "von Exoscale" schreiben. Wenn sich jemand wirklich dafür interessiert, woher der Anbieter kommt, kann er selbst recherchieren. --> in Deutschland gehostet, die SeaTable KI wird auf deutschen Servern in einem Frankfurter Rechenzentrum gehostet.'
       - q: 'Wie häufig sollte man seine Zählerstände erfassen?'
         a: 'Das Ableseintervall hängt von Ihren Zielen ab. Wenn Sie z. B. Ihren Gasverbrauch berechnen möchten, um Ihren Verbrauch nachzuverfolgen und rechtzeitig auf ungewöhnliche Veränderungen oder Schäden (z. B. am Ausdehnungsgefäß) reagieren zu können, dann sollten Sie Ihre Zähler monatlich ablesen.'
       - q: 'Funktioniert der Energy Tracker von SeaTable auch auf dem Smartphone?'
