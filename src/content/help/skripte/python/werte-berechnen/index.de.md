@@ -12,9 +12,21 @@ seo:
 ---
 
 
-Dieses Skript berechnet kumulierte Werte (laufende Summen) über die Zeilen einer Tabelle. Für jede Zeile wird der aktuelle Wert zur Summe aller vorherigen Zeilen addiert und das Ergebnis in eine "Accumulated"-Spalte geschrieben. Gruppierte und nicht-gruppierte Ansichten werden automatisch behandelt.
+Dieses Skript berechnet kumulierte Werte (laufende Summen) über die Zeilen einer Tabelle. Für jede Zeile wird der aktuelle Wert zur Summe aller vorherigen Zeilen addiert und das Ergebnis in eine Spalte geschrieben. Bei gruppierten Ansichten wird die Akkumulation pro Gruppe separat berechnet. Zeilen ohne Gruppierungswert werden übersprungen. Das Skript durchläuft alle Zeilen und eignet sich für die manuelle Ausführung oder als Automation.
 
-## Das vollständige Skript
+![Accumulated Values in SeaTable](accumulated-values.png)
+
+{{< dtable-download name="Accumulated Values" file="/downloads/python-examples/accumulated-values.dtable" text="Base mit Beispieldaten und fertigem Skript zum direkten Ausprobieren." />}}
+
+## Voraussetzungen
+
+- Eine **Zahlen-Spalte** mit den Eingabewerten (z.B. "Value")
+- Eine **Zahlen-Spalte** für die kumulierten Werte (z.B. "Accumulated")
+- Optional: eine **gruppierte Ansicht**, damit die Akkumulation pro Gruppe neu startet
+
+## Das Skript
+
+Passen Sie die vier Variablen am Anfang an Ihre Tabelle an.
 
 ```python
 from seatable_api import Base, context
@@ -27,6 +39,7 @@ VIEW_NAME = "Default View"
 COLUMN_CURRENT = "Value"
 COLUMN_ACCUMULATED = "Accumulated"
 
+# Look up view and table metadata
 metadata = base.get_metadata()
 table = None
 view = None
@@ -39,32 +52,47 @@ for t in metadata['tables']:
                 break
         break
 
-if view.get('groupbys') and len(view['groupbys']) > 0:
-    # Grouped view: reset accumulated value per group
+if not table:
+    print(f"Table '{TABLE_NAME}' not found.")
+elif not view:
+    print(f"View '{VIEW_NAME}' not found.")
+else:
     rows = base.list_rows(TABLE_NAME, view_name=VIEW_NAME)
-    groups = {}
-    group_col = view['groupbys'][0]['column_key']
-    for row in rows:
-        group_val = str(row.get(group_col, ''))
-        if group_val not in groups:
-            groups[group_val] = []
-        groups[group_val].append(row)
-    for group_val, group_rows in groups.items():
+
+    # Build a mapping from column key to column name
+    col_key_to_name = {col['key']: col['name'] for col in table['columns']}
+    updated = 0
+
+    if view.get('groupbys') and len(view['groupbys']) > 0:
+        # Grouped view: reset accumulated value per group
+        group_col_key = view['groupbys'][0]['column_key']
+        group_col_name = col_key_to_name.get(group_col_key, '')
+        groups = {}
+        for row in rows:
+            group_val = row.get(group_col_name)
+            if not group_val:
+                continue
+            group_val = str(group_val)
+            if group_val not in groups:
+                groups[group_val] = []
+            groups[group_val].append(row)
+        for group_val, group_rows in groups.items():
+            accumulated = 0
+            for row in group_rows:
+                value = row.get(COLUMN_CURRENT, 0) or 0
+                accumulated += value
+                base.update_row(TABLE_NAME, row['_id'], {COLUMN_ACCUMULATED: accumulated})
+                updated += 1
+    else:
+        # Non-grouped view
         accumulated = 0
-        for row in group_rows:
+        for row in rows:
             value = row.get(COLUMN_CURRENT, 0) or 0
             accumulated += value
             base.update_row(TABLE_NAME, row['_id'], {COLUMN_ACCUMULATED: accumulated})
-else:
-    # Non-grouped view
-    rows = base.list_rows(TABLE_NAME, view_name=VIEW_NAME)
-    accumulated = 0
-    for row in rows:
-        value = row.get(COLUMN_CURRENT, 0) or 0
-        accumulated += value
-        base.update_row(TABLE_NAME, row['_id'], {COLUMN_ACCUMULATED: accumulated})
-```
+            updated += 1
 
-Passen Sie die vier Variablen am Anfang an Ihre Tabelle an. Bei gruppierten Ansichten wird der kumulierte Wert für jede Gruppe separat berechnet.
+    print(f"{updated} rows updated.")
+```
 
 Die vollständige Funktionsreferenz finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

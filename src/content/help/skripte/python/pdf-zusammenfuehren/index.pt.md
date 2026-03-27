@@ -45,7 +45,7 @@ for row in rows:
 
     # Merge
     output_path = "/tmp/merged.pdf"
-    pdfmerge.merge(tmp_files, output_path)
+    pdfmerge.pdfmerge(tmp_files, output_path)
 
     # Upload
     with open(output_path, 'rb') as fh:

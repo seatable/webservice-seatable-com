@@ -30,23 +30,31 @@ base.auth()
 TABLE_NAME = "Stocks"
 API_KEY = "your-api-key"
 
-rows = base.list_rows(TABLE_NAME)
-for row in rows:
-    symbol = row.get('Symbol')
-    if not symbol:
-        continue
+if API_KEY == "your-api-key":
+    print("ERROR: Please set your Twelve Data API key first.")
+    print("Get a free key at https://twelvedata.com/")
+else:
+    rows = base.list_rows(TABLE_NAME)
+    for row in rows:
+        symbol = row.get('Symbol')
+        if not symbol:
+            continue
 
-    url = f"https://api.twelvedata.com/price?symbol={symbol}&apikey={API_KEY}"
-    response = requests.get(url)
-    data = response.json()
+        url = f"https://api.twelvedata.com/price?symbol={symbol}&apikey={API_KEY}"
+        response = requests.get(url)
+        data = response.json()
 
-    if 'price' in data:
-        base.update_row(TABLE_NAME, row['_id'], {
-            'Price': float(data['price'])
-        })
-        print(f"{symbol}: {data['price']}")
+        if 'price' in data:
+            base.update_row(TABLE_NAME, row['_id'], {
+                'Price': float(data['price'])
+            })
+            print(f"{symbol}: {data['price']}")
+        else:
+            print(f"API error: {data.get('message', 'unknown error')}")
+            break
 
-print("Stock prices updated.")
+    print("---")
+    print("Stock prices updated.")
 ```
 
 You can replace the Twelve Data API with any other financial data provider. Adjust the URL and response parsing accordingly.

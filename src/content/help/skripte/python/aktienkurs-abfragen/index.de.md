@@ -12,13 +12,20 @@ seo:
 ---
 
 
-Dieses Skript ruft aktuelle Aktienkurse von der Twelve Data API ab und aktualisiert die entsprechenden Zeilen in einer SeaTable-Tabelle. Es zeigt, wie Sie externe APIs aus einem SeaTable Python-Skript aufrufen können.
+Dieses Skript ruft aktuelle Aktienkurse von der Twelve Data API ab und schreibt die Preise in eine SeaTable-Tabelle. Es zeigt, wie Sie externe APIs aus einem SeaTable Python-Skript aufrufen können. Das Skript durchläuft alle Zeilen und eignet sich für die manuelle Ausführung oder als zeitgesteuerte Automation.
+
+![Stock Prices in SeaTable](stock-prices.png)
+
+{{< dtable-download name="Stock Prices" file="/downloads/python-examples/stock-prices.dtable" text="Base mit Beispieldaten und fertigem Skript zum direkten Ausprobieren." />}}
 
 ## Voraussetzungen
 
-Sie benötigen einen kostenlosen API-Schlüssel von [Twelve Data](https://twelvedata.com/) und eine Tabelle mit den Spalten `Symbol` (Text) und `Price` (Zahl).
+- Ein kostenloser API-Schlüssel von [Twelve Data](https://twelvedata.com/)
+- Eine Tabelle mit den Spalten `Symbol` (Text) und `Price` (Zahl)
 
-## Das vollständige Skript
+## Das Skript
+
+Tragen Sie Ihren API-Schlüssel in `API_KEY` ein. Das Skript prüft, ob ein gültiger Schlüssel hinterlegt ist, und bricht bei einem API-Fehler sofort ab.
 
 ```python
 from seatable_api import Base, context
@@ -30,23 +37,31 @@ base.auth()
 TABLE_NAME = "Stocks"
 API_KEY = "your-api-key"
 
-rows = base.list_rows(TABLE_NAME)
-for row in rows:
-    symbol = row.get('Symbol')
-    if not symbol:
-        continue
+if API_KEY == "your-api-key":
+    print("ERROR: Please set your Twelve Data API key first.")
+    print("Get a free key at https://twelvedata.com/")
+else:
+    rows = base.list_rows(TABLE_NAME)
+    for row in rows:
+        symbol = row.get('Symbol')
+        if not symbol:
+            continue
 
-    url = f"https://api.twelvedata.com/price?symbol={symbol}&apikey={API_KEY}"
-    response = requests.get(url)
-    data = response.json()
+        url = f"https://api.twelvedata.com/price?symbol={symbol}&apikey={API_KEY}"
+        response = requests.get(url)
+        data = response.json()
 
-    if 'price' in data:
-        base.update_row(TABLE_NAME, row['_id'], {
-            'Price': float(data['price'])
-        })
-        print(f"{symbol}: {data['price']}")
+        if 'price' in data:
+            base.update_row(TABLE_NAME, row['_id'], {
+                'Price': float(data['price'])
+            })
+            print(f"{symbol}: {data['price']}")
+        else:
+            print(f"API error: {data.get('message', 'unknown error')}")
+            break
 
-print("Stock prices updated.")
+    print("---")
+    print("Stock prices updated.")
 ```
 
 Sie können die Twelve Data API durch einen anderen Finanzdatenanbieter ersetzen. Passen Sie die URL und die Antwortverarbeitung entsprechend an.

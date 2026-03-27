@@ -525,3 +525,18 @@ title2="Titel"
 text2="Text"
 img2="feature.jpg" */>}}
 ```
+
+## File Download
+
+Mit dem `dtable-download` Shortcode kann man eine Download-Box für `.dtable` Dateien (Base-Exporte) einbinden. Die Datei muss im gleichen Verzeichnis wie der Artikel liegen.
+
+{{< dtable-download name="QR Code Generator" file="qr-code.dtable" text="Download this base to try the script." />}}
+
+{{< dtable-download name="Beispiel CSV" file="example.csv" text="Eine CSV-Datei zum Testen." />}}
+
+Nutzung des Shortcodes:
+
+```
+{{</* dtable-download name="QR Code Generator" file="qr-code.dtable" /*/>}}
+{{</* dtable-download name="QR Code Generator" file="qr-code.dtable" text="Eigener Text." /*/>}}
+```
