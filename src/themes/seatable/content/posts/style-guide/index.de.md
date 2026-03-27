@@ -526,7 +526,7 @@ text2="Text"
 img2="feature.jpg" */>}}
 ```
 
-## dtable Download
+## File Download
 
 Mit dem `dtable-download` Shortcode kann man eine Download-Box für `.dtable` Dateien (Base-Exporte) einbinden. Die Datei muss im gleichen Verzeichnis wie der Artikel liegen.
 
