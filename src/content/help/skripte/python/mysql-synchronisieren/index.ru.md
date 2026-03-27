@@ -33,7 +33,7 @@ cursor.execute("SELECT * FROM contacts")
 mysql_rows = cursor.fetchall()
 
 # Get existing SeaTable rows
-seatable_rows = base.list_rows(TABLE_NAME)
+seatable_rows = base.query(f"SELECT Name FROM `{TABLE_NAME}` LIMIT 10000")
 existing_names = [row.get('Name') for row in seatable_rows]
 
 # Add new entries

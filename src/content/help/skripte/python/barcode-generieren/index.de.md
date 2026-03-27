@@ -43,7 +43,7 @@ for row in rows:
     rv.write(buf, options={"module_width": 0.4, "module_height": 10, "quiet_zone": 1, "font_size": 10, "text_distance": 2})
     buf.seek(0)
 
-    info = base.upload_bytes_file(str(text) + '.png', buf.read())
+    info = base.upload_bytes_file(str(text) + '.png', buf.read(), file_type='image')
     base.update_row(TABLE_NAME, row['_id'], {IMAGE_COLUMN: [info.get('url')]})
 
 print("Barcodes generated.")

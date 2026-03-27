@@ -45,7 +45,7 @@ for row in rows:
     img.save(buf, format='PNG')
     buf.seek(0)
 
-    info = base.upload_bytes_file(row['Name'] + '.png', buf.read())
+    info = base.upload_bytes_file(str(text) + '.png', buf.read(), file_type='image')
     base.update_row(TABLE_NAME, row['_id'], {IMAGE_COLUMN: [info.get('url')]})
 
 print("QR codes generated.")

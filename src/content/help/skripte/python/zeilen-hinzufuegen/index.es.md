@@ -36,36 +36,20 @@ this_month = today.month
 this_year = today.year
 first_of_this_month = dateutils.date(this_year, this_month, 1)
 
-# Check and add office supplies
-rows = base.filter("Ledger", "Month = '" + str(first_of_this_month) + "' and Category = 'Office supplies'")
-if len(rows) == 0:
-    options = base.list_column_options("Ledger", "Category")
-    found = False
-    for option in options:
-        if option['name'] == 'Office supplies':
-            found = True
-            break
-    if not found:
-        base.add_column_options("Ledger", "Category", [{"name": "Office supplies", "color": "#FF8000", "textColor": "#FFFFFF"}])
+# Define recurring monthly entries
+ENTRIES = [
+    {"Category": "Office supplies", "Description": "Monthly office supplies", "Amount": 150.00, "Type": "Expense"},
+    {"Category": "Software licenses", "Description": "Monthly software licenses", "Amount": 500.00, "Type": "Expense"},
+]
 
-    base.append_row(TABLE_NAME, {
-        "Category": "Office supplies",
-        "Description": "Monthly office supplies",
-        "Amount": 150.00,
-        "Month": first_of_this_month,
-        "Type": "Expense"
-    })
-
-# Check and add software licenses
-rows = base.filter("Ledger", "Month = '" + str(first_of_this_month) + "' and Category = 'Software licenses'")
-if len(rows) == 0:
-    base.append_row(TABLE_NAME, {
-        "Category": "Software licenses",
-        "Description": "Monthly software licenses",
-        "Amount": 500.00,
-        "Month": first_of_this_month,
-        "Type": "Expense"
-    })
+for entry in ENTRIES:
+    rows = base.query(f"SELECT _id FROM `{TABLE_NAME}` WHERE `Month` = '{first_of_this_month}' AND `Category` = '{entry['Category']}'")
+    if len(rows) == 0:
+        entry['Month'] = first_of_this_month
+        base.append_row(TABLE_NAME, entry)
+        print(f"Added: {entry['Category']}")
+    else:
+        print(f"Skipped (already exists): {entry['Category']}")
 ```
 
 Adjust the column names and values to match your table structure. The script can be started manually, via a button, or via automation. Learn more [here]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
