@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Une formule pour les liens vous permet **d'afficher, de fusionner ou de mettre en relation des données de tableaux liés** dans votre tableau actuel. C'est là que SeaTable fait valoir ses avantages en tant que base de données relationnelle.
+Une formule pour les liens vous permet **d'afficher, de fusionner ou de mettre en relation des données de tableaux liés** dans votre tableau actuel. C'est là que SeaTable fait valoir ses avantages en tant que [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}).
 
 Pour le type de colonne, vous disposez au total de **cinq formules différentes**. La condition préalable à l'utilisation de la colonne est la présence d'au moins une colonne de type [lien vers d'autres entrées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) dans votre table.
 

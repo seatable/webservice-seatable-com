@@ -14,7 +14,7 @@ seo:
 
 ---
 
-SeaTable permite enlazar información de diferentes tablas. Para ello, utilice el tipo de columna **Enlace a otras entradas**.
+Utilice las funciones de [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}) de SeaTable enlazando información de diferentes tablas. Para ello, utilice el tipo de columna **Enlace a otras entradas**.
 
 ## Para enlazar dos tablas
 

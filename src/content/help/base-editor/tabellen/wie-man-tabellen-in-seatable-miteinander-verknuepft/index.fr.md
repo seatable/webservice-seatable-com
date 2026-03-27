@@ -14,7 +14,7 @@ seo:
 
 ---
 
-SeaTable vous permet de relier entre elles des informations provenant de différents tableaux. Pour ce faire, utilisez le type de colonne **Lien vers d'autres entrées**.
+Utilisez les fonctions de [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}) de SeaTable en reliant les informations de différentes tables. Pour ce faire, utilisez le type de colonne **Lien vers d'autres entrées**.
 
 ## Voici comment lier deux tableaux
 

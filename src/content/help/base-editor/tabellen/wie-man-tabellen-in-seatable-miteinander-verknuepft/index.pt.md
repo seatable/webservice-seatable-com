@@ -14,7 +14,7 @@ seo:
 
 ---
 
-SeaTable permite-lhe ligar informações de diferentes tabelas. Para tal, utilizar o tipo de coluna **Link para outras entradas**.
+Utilize as funções de [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}) do SeaTable ligando informações de diferentes tabelas. Para tal, utilizar o tipo de coluna **Link para outras entradas**.
 
 ## Para ligar duas tabelas
 

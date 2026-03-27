@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Com uma fórmula para ligações, pode **exibir, resumir ou relacionar dados de tabelas ligadas** na sua tabela atual. É aqui que o SeaTable mostra as suas vantagens como base de dados relacional.
+Com uma fórmula para ligações, pode **exibir, resumir ou relacionar dados de tabelas ligadas** na sua tabela atual. É aqui que SeaTable mostra as suas vantagens como [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}).
 
 Está disponível um total de **cinco fórmulas diferentes** para o tipo de coluna. O pré-requisito para utilizar a coluna é a existência de pelo menos uma coluna do tipo [Ligação a outras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na sua tabela.
 

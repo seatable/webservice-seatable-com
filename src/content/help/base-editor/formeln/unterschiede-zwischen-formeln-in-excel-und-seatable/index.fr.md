@@ -13,16 +13,15 @@ seo:
     description: 'Tout comprendre sur les différences entre pouces Excel et SeaTable : logique de colonne, références et astuces pour une utilisation optimale.'
 ---
 
-Vous êtes un utilisateur d'Excel familier avec l'écriture de formules et vous commencez tout juste à utiliser SeaTable ?  
-Alors cet article est fait pour vous ! Bien que les principes des fonctions de formule dans SeaTable soient similaires, il y a quelques différences importantes que vous devez apprendre au début et qui porteront leurs fruits si vous souhaitez devenir un expert des formules SeaTable.
+Vous êtes un utilisateur d'Excel familier avec l'écriture de formules et vous commencez tout juste à utiliser SeaTable ? Alors cet article est fait pour vous ! Bien que les principes des fonctions de formule dans SeaTable soient similaires, il y a quelques différences importantes que vous devez apprendre au début et qui porteront leurs fruits si vous souhaitez devenir un expert des formules SeaTable.
 
 ## Différence centrale
 
-La différence la plus centrale et la plus importante entre la fonction de formule de SeaTable et celle d'Excel est le **champ d'action** des formules.
+La différence la plus importante entre la fonction de formule de SeaTable et celle d'Excel est le **champ d'action** des formules.
 
-Alors qu'**Excel** vous permet de saisir une formule dans n'importe quelle cellule, qui renvoie ensuite à n'importe quelle autre cellule de la feuille de calcul, les formules de **SeaTable** renvoient à des _colonnes_ entières et **non** à des cellules spécifiques.
+Alors qu'**Excel** vous permet de saisir une formule dans n'importe quelle cellule, qui renvoie ensuite à n'importe quelle autre cellule de la feuille de calcul, les formules de **SeaTable** renvoient à des **colonnes entières** et non à des cellules spécifiques.
 
-Dans ce contexte, SeaTable fonctionnant comme une base de données relationnelle, les formules sont appliquées à toute la _colonne_ d'un tableau, de sorte que la même formule s'applique à chaque entrée de cette colonne.
+Dans ce contexte, SeaTable fonctionnant comme une [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}), les formules sont appliquées à toute la colonne d'un tableau, de sorte que la même formule s'applique à chaque entrée de cette colonne.
 
 ## Référencement des lignes
 
@@ -69,8 +68,8 @@ Ensuite, vous devez appliquer cette formule à chaque cellule dans laquelle vous
 
 Pour référencer un enregistrement dans un autre tableau, vous pouvez d'abord les lier à l'aide du type de colonne **"Lien vers d'autres entrées"**. Une fois qu'un enregistrement d'un tableau, par exemple "Projects", est lié à un enregistrement d'un autre tableau, par exemple "Tasks", vous pouvez faire référence à chaque ligne des deux tableaux en utilisant une **colonne** **lookup**, **rollup** ou **count**.
 
-Dans l'exemple ci-dessous, une **colonne déroulante** est utilisée pour faire référence de manière simple aux coûts de chaque tâche associée à un projet et pour additionner les dépenses afin de déterminer le coût total du projet.
+Dans l'exemple ci-dessous, une **colonne rollup** est utilisée pour faire référence de manière simple aux coûts de chaque tâche associée à un projet et pour additionner les dépenses afin de déterminer le coût total du projet.
 
-![Colonne déroulante permettant de faire référence aux coûts de chaque tâche associée à un projet et de totaliser les dépenses afin d'obtenir le coût total du projet.](images/reference-to-other-bases.gif)
+![Colonne rollup permettant de faire référence aux coûts de chaque tâche associée à un projet et de totaliser les dépenses afin d'obtenir le coût total du projet.](images/reference-to-other-bases.gif)
 
 La fonction crée ainsi une série de possibilités d'écrire des formules simples ou complexes pour référencer des données entre les tableaux.

@@ -14,7 +14,7 @@ seo:
 
 ---
 
-With a link formula, you can **display, summarize or relate data from linked tables** in your current table. This is where SeaTable shows its advantages as a relational database.
+With a link formula, you can **display, summarize or relate data from linked tables** in your current table. This is where SeaTable shows its advantages as a [relational database]({{< relref "posts/relationale-datenbank" >}}).
 
 A total of **five different formulas** are available for the column type. The prerequisite for using the column is the existence of at least one column of the type [Link to other records]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in your table.
 
