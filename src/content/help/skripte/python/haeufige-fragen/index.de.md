@@ -9,6 +9,8 @@ url: '/de/hilfe/python-skripte-haeufige-fragen'
 seo:
     title: 'Python-Skripte in SeaTable: Häufig gestellte Fragen'
     description: 'Antworten auf häufige Fragen zu Python-Skripten in SeaTable: unterstützte Bibliotheken, Batch-Operationen, lokale Ausführung und Debugging-Tipps.'
+weight: 2
+star: true
 ---
 
 ## Wie kann ich ein Skript sowohl lokal als auch in SeaTable ausführen?

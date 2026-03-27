@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Python: generate random entries in SeaTable'
     description: 'Use this Python script to quickly add random sample rows to your SeaTable base—perfect for tests, demos, or automating database population in one click.'
-
+weight: 5
 ---
 
 

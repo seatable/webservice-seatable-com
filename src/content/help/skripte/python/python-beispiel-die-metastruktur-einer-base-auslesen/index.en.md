@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Python Example: Reading SeaTable Base Metadata'
     description: 'Learn to extract and format full SeaTable base metadata with an easy Python script—structured output and link columns explained.'
-
+weight: 4
 ---
 
 This article introduces you to a Python script that outputs the complete metastructure of a base. This is useful, for example, if you have a question about a base in the [community forum](https://forum.seatable.com/) and want to describe the structure of your base easily and quickly without screenshots.

@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Поддерживаемые Python библиотеки в SeaTable – обзор'
     description: 'Полный список всех предустановленных библиотек Python в SeaTable Cloud и Server — с инструкциями по добавлению пользовательских библиотек.'
+weight: 1
+star: true
 ---
 
 Среда Python в SeaTable использует **Python 3.12** и включает полную [стандартную библиотеку Python](https://docs.python.org/3.12/library/index.html) (например, os, sys, datetime, math, random, json, re, io, smtplib). Вы можете импортировать эти модули непосредственно в свои скрипты.

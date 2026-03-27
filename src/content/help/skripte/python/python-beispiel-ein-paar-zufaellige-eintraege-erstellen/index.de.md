@@ -9,7 +9,7 @@ url: '/de/hilfe/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
 seo:
     title: 'Python: Zufällige Einträge in SeaTable automatisch erzeugen'
     description: 'Mit diesem Python-Skript erstellen Sie viele zufällige Beispielzeilen direkt in SeaTable. Ideal zum Testen, Vorfühlen und schnellen Füllen neuer Datenbanken.'
-
+weight: 5
 ---
 
 

@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Python: genera entradas aleatorias en SeaTable'
     description: 'Genera fácilmente múltiples filas de ejemplo en tu base SeaTable con este script Python. Acelera pruebas y prototipos con datos automáticos y opcionales.'
-
+weight: 5
 ---
 
 

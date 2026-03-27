@@ -214,18 +214,12 @@
     @apply whitespace-nowrap text-gray-900;
 }
 
-/* hugo syntax highlighting übernimmt das alles.
-.post-content code:not([data-lang='js']),
-.post-content code:not([data-lang='python']),
-.post-content code:not([data-lang='bash']) {
-    @apply bg-gray-200 text-gray-700;
+/* Inline code styling (not inside code blocks) */
+.post-content code:not(pre code) {
+    @apply rounded bg-gray-200 px-1 py-0.5 font-robotoMono text-[0.9em] text-gray-700;
 }
-.post-content code {
-    @apply inline-block rounded-md px-2 py-1 font-robotoMono text-sm;
-}
-    */
 .post-content pre {
-    @apply mb-6 overflow-x-auto rounded-lg bg-gray-200 p-4 text-gray-700;
+    @apply mb-6 overflow-x-auto rounded-lg bg-gray-200 p-4 text-[0.9em] text-gray-700;
 }
 
 /* Copy-to-clipboard button for code blocks */

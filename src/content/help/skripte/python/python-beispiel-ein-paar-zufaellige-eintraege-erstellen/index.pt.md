@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Python: crie registros aleatórios no SeaTable'
     description: 'Automate a criação de exemplos no SeaTable com um único script Python. Adicione linhas de teste e preencha rapidamente seus bancos de dados e protótipos.'
-
+weight: 5
 ---
 
 

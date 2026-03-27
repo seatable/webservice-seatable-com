@@ -9,6 +9,8 @@ url: '/de/hilfe/unterstuetzte-python-bibliotheken'
 seo:
     title: 'Unterstützte Python Bibliotheken in SeaTable'
     description: 'Vollständige Liste aller vorinstallierten Python-Bibliotheken in SeaTable Cloud und Server — mit Hinweisen zur Erweiterung auf selbst gehosteten Systemen.'
+weight: 1
+star: true
 ---
 
 Die Python-Umgebung von SeaTable nutzt **Python 3.12** und enthält die gesamte [Python Standard Library](https://docs.python.org/3.12/library/index.html) (z.B. os, sys, datetime, math, random, json, re, io, smtplib). Diese Module können Sie direkt in Ihren Skripten importieren.

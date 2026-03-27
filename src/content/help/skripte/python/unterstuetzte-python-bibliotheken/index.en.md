@@ -11,6 +11,8 @@ aliases:
 seo:
     title: 'Supported Python libraries in SeaTable – full overview'
     description: 'Complete list of all pre-installed Python libraries in SeaTable Cloud and Server — with instructions for adding custom libraries on self-hosted systems.'
+weight: 1
+star: true
 ---
 
 SeaTable's Python environment uses **Python 3.12** and includes the full [Python Standard Library](https://docs.python.org/3.12/library/index.html) (e.g. os, sys, datetime, math, random, json, re, io, smtplib). You can import these modules directly in your scripts.

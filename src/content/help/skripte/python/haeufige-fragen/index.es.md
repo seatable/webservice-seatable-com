@@ -6,6 +6,8 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/es/ayuda/python-preguntas-frecuentes'
+weight: 2
+star: true
 ---
 
 ## How can I run a script both locally and in SeaTable?
