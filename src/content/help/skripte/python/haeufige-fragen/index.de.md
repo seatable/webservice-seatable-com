@@ -9,6 +9,8 @@ url: '/de/hilfe/python-skripte-haeufige-fragen'
 seo:
     title: 'Python-Skripte in SeaTable: Häufig gestellte Fragen'
     description: 'Antworten auf häufige Fragen zu Python-Skripten in SeaTable: unterstützte Bibliotheken, Batch-Operationen, lokale Ausführung und Debugging-Tipps.'
+weight: 2
+star: true
 ---
 
 ## Wie kann ich ein Skript sowohl lokal als auch in SeaTable ausführen?
@@ -27,33 +29,9 @@ except:
 base.auth()
 ```
 
-## Welche Bibliotheken sind in der Cloud-Umgebung verfügbar?
+## Welche Bibliotheken sind verfügbar?
 
-SeaTable Cloud nutzt Python 3.12 mit folgenden vorinstallierten Drittanbieter-Bibliotheken:
-
-- **seatable-api** -- SeaTable API-Client
-- **requests** -- HTTP-Anfragen
-- **Pillow** -- Bildverarbeitung
-- **pandas** -- Datenanalyse
-- **numpy** -- Numerische Berechnungen
-- **scipy** -- Wissenschaftliche Berechnungen
-- **openai** -- OpenAI API
-- **beautifulsoup4** -- HTML/XML-Parsing
-- **python-dateutil** -- Datums-Hilfsfunktionen
-- **PyPDF** -- PDF-Verarbeitung
-- **pdfmerge** -- PDF-Zusammenführung
-- **qrcode** -- QR-Code-Erzeugung
-- **python-barcode** -- Barcode-Erzeugung
-- **pillow-heif** -- HEIC-Bildunterstützung
-- **ldap3** -- LDAP-Operationen
-- **markdown** -- Markdown-Konvertierung
-
-
-## Kann ich eigene Bibliotheken installieren?
-
-In **SeaTable Cloud** sind Sie auf die oben aufgelisteten vorinstallierten Bibliotheken beschränkt.
-
-Auf einem **selbst gehosteten SeaTable-Server** können Sie zusätzliche Bibliotheken in Ihrem Python Runner installieren. Details finden Sie im [Admin Manual](https://admin.seatable.com).
+Eine vollständige Liste aller vorinstallierten Bibliotheken finden Sie im Artikel [Unterstützte Python Bibliotheken]({{< relref "help/skripte/python/unterstuetzte-python-bibliotheken" >}}). Dort erfahren Sie auch, wie Sie auf einem selbst gehosteten Server eigene Bibliotheken hinzufügen können.
 
 ## Wie verarbeite ich mehr als 1.000 Zeilen?
 

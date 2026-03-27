@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Python : générer des exemples aléatoires sur SeaTable'
     description: 'Ajoutez rapidement des lignes aléatoires à une base SeaTable grâce à un script Python : tests, remplissage automatique et gain de temps pour vos démos et essais.'
-
+weight: 5
 ---
 
 

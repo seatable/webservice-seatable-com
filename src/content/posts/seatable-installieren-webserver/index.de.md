@@ -1,173 +1,82 @@
 ---
-title: 'SeaTable Enterprise auf dem eigenen Server hinter einem Webserver installieren'
-description: 'Wie installiert man SeaTable Enterprise auf dem eigenen Server, wenn die Standard-Ports 80 und 443 schon belegt sind? Diese step-by-step Anleitung erklärt Port-Umstellung, Proxy-Konfiguration, SSL-Einrichtung und zeigt alle Fallstricke und Lösungen für Ihr Hosting.'
+title: SeaTable Server auf dem eigenen Server installieren
+description: SeaTable lässt sich dank Docker in wenigen Minuten auf jedem Linux-Server installieren. Erfahren Sie, welche Voraussetzungen Sie brauchen, wie die Installation abläuft und warum Self-Hosting mit SeaTable so einfach ist.
 date: 2021-05-15
-lastmod: '2023-07-11'
-categories: 
-    - 'product-features'
-url: '/de/seatable-enterprise-installation-server-webserver'
+lastmod: 2025-03-27
+categories:
+    - product-features
+url: /de/seatable-enterprise-installation-server-webserver
 aliases:
     - /de/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
+    - /de/seatable-enterprise-installation-ubuntu-20-04
+    - /de/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren
 seo:
-    title: 'SeaTable Enterprise hinter Webserver installieren: Anleitung'
-    description: 'Installieren Sie SeaTable Enterprise sicher hinter einem bestehenden Webserver – alles zu Port-Anpassung, Proxy & SSL im Überblick.'
+    title: "SeaTable Server installieren: Self-Hosting leicht gemacht"
+    description: "SeaTable Server in wenigen Minuten auf dem eigenen Linux-Server installieren – dank Docker und Caddy. Alle Infos zu Voraussetzungen und Ablauf."
 color: '#265697'
 ---
 
-Im Beitrag [SeaTable Enterprise Edition unter Ubuntu Server 20.04 LTS installieren]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) haben wir die Standardinstallation von SeaTable Enterprise auf einem Server mit Ubuntu Linux erklärt. Bei der Standardinstallation erfolgt die Installation von SeaTable auf einem Server, auf dem keine weiteren Webanwendungen laufen. Was aber, wenn die Ports 80 und 443 bereits durch einen anderen Dienst wie z.B. einen nginx oder Apache Webserver belegt sind? Diese Frage beantworten wir in diesem Beitrag. Wie Sie sehen werden, ist die Antwort erfreulich einfach.
+Wer seine Daten lieber auf dem eigenen Server behalten möchte, für den ist SeaTable Server die ideale Lösung. Dank Docker ist die Installation unkompliziert und in wenigen Minuten erledigt – unabhängig davon, welche Linux-Distribution Sie verwenden.
 
-{{< warning headline="Diese Anleitung ist veraltet" text="Bitte beachten Sie, dass dieses Handbuch veraltet ist. Die aktualisierten Installationsanweisungen finden Sie unter [https://admin.seatable.com](https://admin.seatable.com)" />}}
+Die vollständige Schritt-für-Schritt-Anleitung zur Installation finden Sie im SeaTable Admin Manual: **[Zur Installationsanleitung auf admin.seatable.com](https://admin.seatable.com/installation/basic-setup/)**
 
-## Voraussetzungen
+Im Folgenden erfahren Sie, was Sie für die Installation benötigen, wie der Ablauf aussieht und was SeaTable als Plattform alles möglich macht.
 
-Die Voraussetzungen für die Installation von SeaTable hinter einem bestehenden Webserver sind identisch mit denen der Standardinstallation:
+## Warum SeaTable selbst hosten?
 
-- VServer / Dedicated Server mit mindestens 4 Kernen, 8GB RAM und 10GB Speicher
-- Root Zugriff auf den Server (per SSH oder Konsole)
-- Subdomain, die per A-Record (IPv4) oder AAAA-Record (IPv6) auf die IP-Adresse des Servers verweist
-- Server auf Port 80 und 443 über die Subdomain erreichbar
+SeaTable ist als Cloud-Lösung unter [cloud.seatable.io](https://cloud.seatable.io) verfügbar. Viele Unternehmen und Organisationen möchten ihre Daten jedoch auf eigener Infrastruktur betreiben – sei es aus Datenschutzgründen, wegen interner Compliance-Vorgaben oder einfach, um die volle Kontrolle zu behalten. SeaTable Enterprise Edition macht genau das möglich: Sie installieren SeaTable auf Ihrem eigenen Server und können es dort nach Ihren Vorstellungen konfigurieren und betreiben.
 
-## Vorbereitung und Download
+## Was Sie brauchen
 
-Nicht nur die Voraussetzungen, auch die ersten Schritte sind mit denen der Standardinstallation identisch: Zunächst die Installation von docker-compose, dann der Pull des SeaTable Images von Docker Hub und schließlich die Speicherung der docker-compose Datei im YAML-Format im Verzeichnis /opt/seatable.
+Die Voraussetzungen für eine SeaTable-Installation sind überschaubar:
 
-Mit diesen Befehlen führen Sie diese Aktionen aus:
+- **Ein Linux-Server** mit mindestens 4 CPU-Kernen, 8 GB RAM und 10 GB freiem Speicherplatz (zzgl. Speicher für Ihre Daten)
+- **Root-Zugriff** auf den Server, per SSH oder Konsole
+- **Eine (Sub-)Domain**, die per DNS auf die IP-Adresse Ihres Servers zeigt
+- **Erreichbarkeit auf Port 80 und 443** über diese Domain
 
-```
-apt update
-apt upgrade -y
-apt install docker-compose -y
-docker pull seatable/seatable-ee:latest
-mkdir /opt/seatable
-cd /opt/seatable
-wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"
-```
+Welche Linux-Distribution Sie verwenden, spielt keine Rolle – ob Ubuntu, Debian, Rocky Linux oder eine andere Variante: Solange Docker darauf läuft, funktioniert SeaTable. Hilfreich, aber nicht zwingend, ist eine statische IPv4-Adresse. Sie maximiert die Erreichbarkeit Ihres Servers, da einige Mobilfunknetze nach wie vor kein IPv6 unterstützen.
 
-SeaTable kann auch unter einem anderen Ort als dem Verzeichnis /opt/seatable angelegt werden. Wenn Sie das wollen, dann sollten Sie aus Gründen der Konsistenz aber auch alle anderen SeaTable Dateien an diesem anderen Ort ablegen. Da dies leicht zu Fehlern führt, raten wir davon ab.
+## Was unter der Haube steckt
 
-## Individualisierung der docker-compose.yml
+SeaTable nutzt Docker, um seine Dienste über mehrere Container bereitzustellen. Neben dem eigentlichen SeaTable Server laufen eine MariaDB-Datenbank zur Speicherung der Daten, Redis für schnelles Caching und ein Reverse Proxy, der eingehende Anfragen entgegennimmt und an SeaTable weiterleitet. All diese Komponenten werden über Docker Compose gemeinsam verwaltet – Sie müssen sich nicht um jede einzeln kümmern.
 
-Die Anleitung für die Standardinstallation erklärt die Struktur und Funktionsweise der docker-compose Datei. Dies soll hier nicht wiederholt werden. Mit [diesem Link]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) springen Sie direkt zum relevanten Teil im Beitrag zur Standardinstallation.
+Als Reverse Proxy liefert SeaTable standardmäßig Caddy mit. Caddy hat den großen Vorteil, dass es HTTPS-Zertifikate über Let’s Encrypt vollautomatisch beantragt und erneuert. Wer seine Domain auf den Server zeigen lässt und Port 80 und 443 freigibt, bekommt verschlüsselte Verbindungen ohne jede manuelle Konfiguration.
 
-In der YAML-Datei gilt es nun ein paar Anpassungen vorzunehmen, einerseits zur Berücksichtigung der eigenen Anforderungen, andererseits um den Betrieb hinter einem Webserver zu ermöglichen.
+## So läuft die Installation ab
 
-Zu den notwendigen Anpassungen zählt insbesondere das Datenbankpasswort, das im Container db (MYSQL_ROOT_PASSWORD) und im Container seatable (DB_ROOT_PASSWD) geändert werden muss. Die URL, unter der SeaTable erreichbar sein soll, muss ebenfalls geändert werden. Dazu dient der Wert SEATABLE_SERVER_HOSTNAME. Geben Sie die Domain ohne http:// oder https:// ein.
+Die komplette Installation ist in fünf Schritte gegliedert:
 
-Zusätzlich zu diesen Modifikationen, die so ja auch für die Standardinstallation gemacht werden müssen, muss auch der HTTP- und HTTPS-Port angepasst werden. Die Konfiguration der Ports des Containers seatable finden Sie im gleichnamigen Abschnitt. Die Standardwerte in SeaTables docker-compose.yml sind:
+1. **Docker installieren** – Falls noch nicht vorhanden, wird Docker auf dem Server eingerichtet.
+2. **Compose-Dateien herunterladen** – SeaTable stellt fertige YAML-Konfigurationsdateien bereit, die alle benötigten Komponenten definieren.
+3. **Konfiguration anpassen** – In einer zentralen `.env`-Datei tragen Sie Ihre Domain, Passwörter und Grundeinstellungen ein.
+4. **Lizenz anfordern** – SeaTable Enterprise ist mit bis zu drei Benutzern kostenlos nutzbar. Eine Lizenzdatei erhalten Sie unkompliziert per E-Mail.
+5. **Server starten** – Ein einzelner `docker compose up` Befehl startet alle Container und SeaTable ist einsatzbereit.
 
-```
-- "80:80" #HTTP port
-- "443:443" #HTTPS port
-```
+Der gesamte Vorgang dauert in der Regel nicht mehr als 10 Minuten.
 
-Der Wert vor dem Doppelpunkt ist der Container-Port auf dem Docker Host, d.h. der Port auf den der Docker-Proxy hört und der an den Container weitergeleitet wird. Der zweite Wert hinter dem Doppelpunkt ist der Port innerhalb des Docker Containers, an den die Anfragen weitergereicht werden. Diese beiden Ports müssen nicht identisch sein und diese Eigenschaft machen wir uns zunutze.
+## SeaTable hinter einem eigenen Webserver
 
-Da die Ports 80 und 443 auf dem Server schon belegt sind, müssen die Ports auf dem Docker Host geändert werden. Die Ports im Container jedoch können und sollten unverändert bleiben. Auf diese Weise kommt man um unnötige Änderungen an den Konfigurationsdateien von SeaTable herum. Eine Alternativkonfiguration der Ports könnte so aussehen:
+Caddy ist die empfohlene und einfachste Lösung, aber nicht die einzige. Falls auf Ihrem Server bereits ein Webserver wie nginx, Apache oder Traefik läuft, können Sie SeaTable auch dahinter betreiben. In diesem Fall deaktivieren Sie den mitgelieferten Caddy-Proxy und konfigurieren Ihren bestehenden Webserver als Reverse Proxy für SeaTable. Dabei leitet der Webserver eingehende Anfragen auf der SeaTable-Domain an den SeaTable-Container weiter – ein gängiges Verfahren, das die meisten Administratoren bereits kennen.
 
-```
-- "880:80" #HTTP port
-- "4443:443" #HTTPS port
-```
+Um HTTPS-Zertifikate kümmern Sie sich in diesem Szenario selbst, z.B. über Let’s Encrypt und Certbot oder ein vorhandenes SSL-Zertifikat Ihrer Organisation. Die offizielle Dokumentation beschreibt auch dieses Szenario im Detail.
 
-Die hier gewählten Ports 880 und 4443 sind populäre Alternativports für Port 80 und 443. An deren Stelle können auch andere Portnummern verwendet werden. Diese gilt es dann stattdessen bei der Konfiguration des Webservers auf dem Host zu berücksichtigen (siehe unten).
+## Updates leicht gemacht
 
-Den Wert SEATABLE_SERVER_LETSENCRYPT lassen Sie auf False stehen. Diese Funktion kann nur bei der Standardinstallation verwendet werden.
+Auch nach der Installation profitieren Sie von der Docker-Architektur: Updates auf eine neue SeaTable-Version sind mit wenigen Befehlen erledigt. Sie laden das aktuelle Docker Image herunter, starten die Container neu – fertig. Ihre Daten und Konfigurationen bleiben dabei erhalten.
 
-## Initialisierung der Datenbank
+## Was Sie mit SeaTable alles umsetzen können
 
-Mit der angepassten docker-compose.yml kann nun die Datenbank von SeaTable initialisiert werden. Die Schritte – wie könnte es anders sein – sind die der Standardinstallation:
+SeaTable ist weit mehr als eine Datenbank. Es ist eine Plattform, mit der auch Anwender ohne IT-Erfahrung in kürzester Zeit eigene Lösungen bauen können.
 
-```
-cd /opt/seatable
-docker-compose up
-```
+Ein Beispiel aus der Praxis: Eine Universitätsverwaltung möchte eingehende Förderanträge digital verwalten. Mit SeaTable legt ein Mitarbeiter eine Base an, erstellt daraus ein Webformular für die Antragstellung und richtet eine KI-Automation ein, die relevante Informationen aus eingereichten Dokumenten automatisch ausliest. Benachrichtigungen informieren das Team bei Statusänderungen, und über eine individuelle App können Antragsteller jederzeit den Stand ihres Antrags einsehen. Das alles ist ohne Programmierkenntnisse möglich und innerhalb weniger Stunden aufgesetzt.
 
-Am Bildschirm können Sie jetzt live nachverfolgen, wie Docker die Instruktionen in der YAML-Datei abarbeitet. Nach einer Zeit kommen die Aktivitäten zum Stillstand. Die letzte Meldung ist “This is an idle script (infinite loop) to keep container running.” Brechen Sie den Prozess an dieser Stelle mit der Tastenkombination CTRL + C ab.
+Ob Projektmanagement, Inventarverwaltung, CRM oder Eventplanung – die Einsatzmöglichkeiten sind so vielfältig wie die Anforderungen Ihrer Organisation.
 
-## Einrichtung des HTTP-Zugriffs
+![CRM und Vertrieb in SeaTable: Opportunities nach Owner gruppiert mit Status, Kunden und geschätztem Wert](seatable-crm-example.png)
 
-Damit Aufrufe der SeaTable URL auch beim SeaTable Container landen, muss die Konfigurationsdatei des Webservers auf dem Host angepasst werden. Konkret müssen die Anfragen, die über die SeaTable URL und Port 80 eingehen, an den Docker Proxy weitergeleitet werden. Dieser hört – so wurde es in der docker-compose definiert – auf den Port 880.
+## Kostenlos starten
 
-Eine Direktive, die dies für nginx macht, sieht beispielsweise so aus:
+SeaTable Enterprise Edition können Sie mit bis zu drei Benutzern dauerhaft kostenlos nutzen – sowohl privat als auch gewerblich. Die kostenlose Lizenz erhalten Sie unkompliziert per E-Mail.
 
-```
-server {
-    listen 80;
-    listen [::]:80;
-    server_name seatable.example.com;
-
-    location / {
-        proxy_pass http://127.0.0.1:880;
-    }
-}
-```
-
-Nach der Anpassung des Webserverkonfiguration starten Sie den Webserver neu, um die Änderung wirksam werden zu lassen.
-
-Da die Kommunikation innerhalb des Docker Containers seatable unverändert ist, müssen an den diversen Konfigurationsdateien im Ordner /opt/seatable/seatable-data/seatable/conf keine Anpassungen vorgenommen werden.
-
-## Start von SeaTable
-
-Nun ist SeaTable bereit für die Produktivnahme. Zunächst starten Sie wieder alle Docker Container durch Ausführung der docker-compose.yml, diesmal im sogenannten “detached” Modus, dann rufen Sie im Container seatable das SH-Skript zum Start von SeaTable auf und schließlich legen Sie den ersten Adminbenutzer an.
-
-```
-docker-compose up -d
-docker exec -d seatable /shared/seatable/scripts/seatable.sh start
-docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser
-```
-
-Nun können Sie Seatable bereits über den Port 80 erreichen. Durch Aufruf der SeaTable Domain (hier im Beispiel seatable.example.com) kommen Sie auf die Loginseite Ihres SeaTable Servers.
-
-Der Aufruf von https://seatable.example.com funktioniert noch nicht. Der verschlüsselte Zugriff muss nun zum Abschluss noch eingerichtet werden.
-
-## Einrichtung des HTTPS-Zugriffs
-
-Das Vorgehen zur Einrichtung des HTTPS-Zugriffs hängt vom verwendeten SSL/TLS-Zertifikat ab. Wenn schon ein entsprechendes Zertifikat vorliegt, dann halten Sie sich bitte an die Instruktionen der Certificate Authority, bei der Sie das SSL-Zertifikat erworben haben.
-
-Wenn Sie zur Mehrheit gehören und Ihr HTTPS-Zertifikat mittels Let’s Encrypt verwalten wollen, dann folgen Sie einfach den Instruktionen auf der [Certbot Webseite der Electronic Frontier Foundation](https://certbot.eff.org/).
-
-![certbot instructions generator](certbot_instructions_generator.png)
-
-Im Falle von nginx auf Ubuntu 20.04 sind nur vier Befehle notwendig, um ein Let’s Encrypt SSL-Zertifikat zu beantragen und einzubinden:
-
-```
-sudo snap install core
-sudo snap refresh core
-sudo snap install --classic certbot
-sudo ln -s /snap/bin/certbot /usr/bin/certbot
-sudo certbot --nginx
-```
-
-Nach Aufruf des letzten Befehls wird das interaktive Certbot Menü aufgerufen. Folgen Sie den Anweisungen und treffen Sie die notwendigen Entscheidungen. Wenn die Voraussetzungen für Let’s Encrypt erfüllt sind, wird das Zertifikat beantragt und eingebunden. Beim nächsten Aufruf der URL von SeaTable wird die Verbindung über Port 443 und HTTPS aufgebaut.
-
-Wenn Sie den Certbot anweisen, die Webserver-Konfiguration automatisch zu ändern, um das beantragte SSL-Zertifikat einzubinden, dann sieht diese danach im Fall von nginx so (oder ähnlich) aus:
-
-```
-server {
-    listen 443 ssl; # managed by Certbot
-    listen [::]:443 ssl; # managed by Certbot
-    server_name seatable.example.com;
-
-    ssl_certificate /etc/letsencrypt/live/seatable.example.com/fullchain.pem; # managed by Certbot
-    ssl_certificate_key /etc/letsencrypt/live/seatable.example.com/privkey.pem; # managed by Certbot
-    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
-    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
-
-    location / {
-        proxy_pass http://127.0.0.1:880;
-    }
-}
-```
-
-Für den Fall, dass Sie sich gegen die Änderung der Webserver-Konfiguration durch Let’s Encrypt entschieden haben, dann müssen Sie diese Modifikation manuell nachholen. Wichtig: Den obligatorischen Webserver-Neustart im Anschluß daran nicht vergessen.
-
-Abschließend muss die Umstellung auf HTTPS auch noch in zwei Konfigurationsdateien von SeaTable Berücksichtigung finden. Konkret geht es um diese zwei Konfigurationsdateien im Ordner /opt/seatable/seatable-data/seatable/conf:
-
-- ccnet.conf
-- dtable_web_settings.py
-
-In der ccnet.conf muss die SERVICE_URL von “http://” auf “https://” umgestellt werden.
-
-In der dtable_web_settings.py müssen alle URLs angepasst werden. Ergänzen Sie bei `DTABLE_SERVER_URL`, `DTABLE_SOCKET_URL`, `DTABLE_WEB_SERVICE_URL` und `FILE_SERVER_ROOT` hinter dem “http” noch ein “s”, so dass alle URLs mit “https” beginnen.
-
-Starten Sie SeaTable nun noch einmal neu und haben Sie viel Spaß mit SeaTable!
+Wenn Sie mehr Benutzer benötigen, können Sie Lizenzen für 10, 25 oder 50 Benutzer direkt auf der [SeaTable Preisseite]({{< relref "pages/prices" >}}) bestellen. Für größere Installationen nehmen Sie bitte über das [Kontaktformular]({{< relref "pages/contact" >}}) Kontakt mit uns auf.

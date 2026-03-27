@@ -9,6 +9,8 @@ url: '/help/python-scripts-common-questions'
 seo:
     title: 'Python Scripts in SeaTable: Frequently Asked Questions'
     description: 'Answers to common questions about Python scripts in SeaTable: supported libraries, batch operations, local execution, and debugging tips.'
+weight: 2
+star: true
 ---
 
 ## How can I run a script both locally and in SeaTable?

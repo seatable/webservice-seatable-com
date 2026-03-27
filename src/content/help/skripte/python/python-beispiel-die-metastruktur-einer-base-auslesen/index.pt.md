@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Exemplo Python: ler metastrutura da base SeaTable'
     description: 'Saiba ler e organizar a metastrutura completa de uma base SeaTable com Python—script, saída estruturada e colunas de ligação.'
-
+weight: 4
 ---
 
 Este artigo apresenta-lhe um script Python que produz a meta-estrutura completa de uma base. Isto é útil, por exemplo, se tiver uma pergunta sobre uma base no [fórum da comunidade](https://forum.seatable.com/) e quiser descrever a estrutura da sua base de forma rápida e fácil sem capturas de ecrã.

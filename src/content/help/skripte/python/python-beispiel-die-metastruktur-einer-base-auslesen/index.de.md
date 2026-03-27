@@ -9,10 +9,14 @@ url: '/de/hilfe/python-beispiel-die-metastruktur-einer-base-auslesen'
 seo:
     title: 'Python-Beispiel: SeaTable Metastruktur auslesen'
     description: 'So lesen Sie die komplette Metastruktur Ihrer SeaTable Base aus – mit Beispielskript, strukturierter Ausgabe und Verlinkungen im Python-Code.'
-
+weight: 4
 ---
 
 Dieser Artikel stellt Ihnen ein Python-Skript vor, welches die komplette Metastruktur einer Base ausgibt. Dies ist z. B. hilfreich, wenn Sie im [Community-Forum](https://forum.seatable.com/) eine Frage zu einer Base haben und die Struktur Ihrer Base ohne Screenshots einfach und schnell beschreiben wollen.
+
+![Metastruktur-Ausgabe in SeaTable](base-metadata.png)
+
+{{< dtable-download name="Base Metadata" file="/downloads/python-examples/base-metadata.dtable" text="Base mit mehreren Tabellen und Verknüpfungen zum Ausprobieren." />}}
 
 ## Die Metastruktur einer Base
 
