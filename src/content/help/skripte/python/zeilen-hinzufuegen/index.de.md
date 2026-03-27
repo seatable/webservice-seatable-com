@@ -8,20 +8,29 @@ author: 'cdb'
 url: '/de/hilfe/python-zeilen-automatisch-hinzufuegen'
 seo:
     title: 'Python: Automatisch Zeilen in SeaTable hinzufügen'
-    description: 'Mit diesem Python-Skript fügen Sie automatisch wiederkehrende Einträge in Ihre SeaTable-Base ein – mit Duplikat-Prüfung und Verwaltung von Auswahloptionen.'
+    description: 'Mit diesem Python-Skript fügen Sie automatisch wiederkehrende Einträge in Ihre SeaTable-Base ein – mit Duplikat-Prüfung.'
 ---
 
 
-Dieses Skript fügt automatisch monatliche Ausgabeneinträge in eine Ledger-Tabelle ein. Es prüft, ob Einträge für den aktuellen Monat bereits existieren, und legt nur dann neue an, wenn nötig. Fehlende Auswahloptionen werden dabei automatisch erstellt.
+Dieses Skript legt automatisch wiederkehrende monatliche Einträge in einer Tabelle an. Es prüft per SQL-Abfrage, ob für den aktuellen Monat bereits Einträge existieren, und erstellt nur fehlende. So können Sie es als zeitgesteuerte Automation (z.B. am 1. jeden Monats) einrichten, ohne Duplikate zu erzeugen.
 
-## So funktioniert es
+![Monthly Expenses in SeaTable](monthly-expenses.png)
 
-1. Das Skript berechnet den ersten Tag des aktuellen Monats
-2. Es prüft, ob Einträge für "Office supplies" und "Software licenses" bereits existieren
-3. Falls eine Auswahloption noch nicht existiert, wird sie angelegt
-4. Erst dann wird die neue Zeile hinzugefügt
+{{< dtable-download name="Monthly Expenses" file="/downloads/python-examples/monthly-expenses.dtable" text="Base mit Beispieldaten und fertigem Skript zum direkten Ausprobieren." />}}
 
-## Das vollständige Skript
+## Voraussetzungen
+
+Die Tabelle benötigt mindestens folgende Spalten:
+
+- **Category** (Einfachauswahl) — Art des Eintrags
+- **Description** (Text) — Beschreibung
+- **Amount** (Zahl) — Betrag
+- **Month** (Datum) — Abrechnungsmonat
+- **Type** (Einfachauswahl) — z.B. Expense oder Income
+
+## Das Skript
+
+Passen Sie `TABLE_NAME` und die Einträge in `ENTRIES` an Ihre Tabellenstruktur an. Die Werte für Einfachauswahl-Spalten werden automatisch als neue Optionen angelegt, falls sie noch nicht existieren.
 
 ```python
 from seatable_api import Base, context, dateutils
@@ -52,7 +61,5 @@ for entry in ENTRIES:
     else:
         print(f"Skipped (already exists): {entry['Category']}")
 ```
-
-Passen Sie die Spaltennamen und Werte an Ihre Tabellenstruktur an. Das Skript kann manuell, per Schaltfläche oder per Automation gestartet werden. Mehr dazu erfahren Sie [hier]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
 
 Die vollständige Funktionsreferenz finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

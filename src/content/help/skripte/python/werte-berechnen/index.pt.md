@@ -26,6 +26,7 @@ VIEW_NAME = "Default View"
 COLUMN_CURRENT = "Value"
 COLUMN_ACCUMULATED = "Accumulated"
 
+# Look up view and table metadata
 metadata = base.get_metadata()
 table = None
 view = None
@@ -47,6 +48,7 @@ else:
 
     # Build a mapping from column key to column name
     col_key_to_name = {col['key']: col['name'] for col in table['columns']}
+    updated = 0
 
     if view.get('groupbys') and len(view['groupbys']) > 0:
         # Grouped view: reset accumulated value per group
@@ -54,7 +56,10 @@ else:
         group_col_name = col_key_to_name.get(group_col_key, '')
         groups = {}
         for row in rows:
-            group_val = str(row.get(group_col_name, ''))
+            group_val = row.get(group_col_name)
+            if not group_val:
+                continue
+            group_val = str(group_val)
             if group_val not in groups:
                 groups[group_val] = []
             groups[group_val].append(row)
@@ -64,6 +69,7 @@ else:
                 value = row.get(COLUMN_CURRENT, 0) or 0
                 accumulated += value
                 base.update_row(TABLE_NAME, row['_id'], {COLUMN_ACCUMULATED: accumulated})
+                updated += 1
     else:
         # Non-grouped view
         accumulated = 0
@@ -71,6 +77,9 @@ else:
             value = row.get(COLUMN_CURRENT, 0) or 0
             accumulated += value
             base.update_row(TABLE_NAME, row['_id'], {COLUMN_ACCUMULATED: accumulated})
+            updated += 1
+
+    print(f"{updated} rows updated.")
 ```
 
 Adjust the four variables at the top to match your table. If your view is grouped, the accumulated value resets for each group.

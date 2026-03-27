@@ -227,6 +227,14 @@
 .post-content pre {
     @apply mb-6 overflow-x-auto rounded-lg bg-gray-200 p-4 text-gray-700;
 }
+
+/* Copy-to-clipboard button for code blocks */
+.copy-code-btn {
+    @apply absolute right-2 top-2 rounded bg-gray-600 px-2 py-1 font-poppins text-xs text-white opacity-0 transition-opacity;
+}
+.highlight:hover .copy-code-btn {
+    @apply opacity-100;
+}
 .post-content pre code {
     @apply pl-0;
 }

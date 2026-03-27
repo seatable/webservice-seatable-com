@@ -12,9 +12,22 @@ seo:
 ---
 
 
-Dieses Skript generiert QR-Codes aus Textinhalten (z.B. URLs, Produkt-IDs), die in einer SeaTable-Spalte gespeichert sind, und speichert die erzeugten Bilder in einer Bildspalte. Sie können steuern, ob vorhandene QR-Codes überschrieben werden sollen.
+Dieses Skript liest Textinhalte (z.B. URLs, Produkt-IDs) aus einer Spalte, erzeugt daraus QR-Code-Bilder und speichert diese in einer Bildspalte. Das Skript durchläuft alle Zeilen der Tabelle und eignet sich daher für die manuelle Ausführung oder als Automation — nicht als Button-Skript.
 
-## Das vollständige Skript
+![QR Code Generator in SeaTable](qr-code-generator.png)
+
+{{< dtable-download name="QR Code Generator" file="/downloads/python-examples/qr-code.dtable" text="Base mit Beispieldaten und fertigem Skript zum direkten Ausprobieren." />}}
+
+## Voraussetzungen
+
+Die Tabelle benötigt mindestens zwei Spalten:
+
+- Eine **Text-** oder **URL-Spalte** mit dem Inhalt, der als QR-Code kodiert werden soll.
+- Eine **Bild-Spalte**, in die der erzeugte QR-Code gespeichert wird.
+
+## Das Skript
+
+Passen Sie die vier Variablen am Anfang an Ihre Tabellenstruktur an. Das Skript überspringt Zeilen, die keinen Textwert haben oder bereits einen QR-Code enthalten. Mit `OVERWRITE = True` können Sie vorhandene QR-Codes neu generieren lassen.
 
 ```python
 from seatable_api import Base, context
@@ -51,6 +64,14 @@ for row in rows:
 print("QR codes generated.")
 ```
 
-Setzen Sie `OVERWRITE = True`, wenn vorhandene QR-Codes neu generiert werden sollen. Passen Sie `TEXT_COLUMN` und `IMAGE_COLUMN` an Ihre Spaltennamen an.
+## Ausführung
+
+Das Skript kann auf drei Arten gestartet werden:
+
+- **Manuell** im Python-Editor der Base
+- **Per Automation** (z.B. zeitgesteuert oder bei neuen Zeilen)
+- **Per Schaltfläche** — dafür müsste das Skript so angepasst werden, dass es nur die aktuelle Zeile verarbeitet
+
+Mehr dazu erfahren Sie [hier]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
 
 Die vollständige Funktionsreferenz finden Sie im [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

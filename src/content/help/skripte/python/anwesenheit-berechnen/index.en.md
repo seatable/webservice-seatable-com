@@ -31,6 +31,11 @@ base.auth()
 TIME_RECORDS_TABLE = "Time records"
 STATISTICS_TABLE = "Statistics"
 
+# Clear statistics table to avoid duplicates on re-run
+for row in base.list_rows(STATISTICS_TABLE):
+    base.delete_row(STATISTICS_TABLE, row['_id'])
+
+# Group time records by date and name
 rows = base.list_rows(TIME_RECORDS_TABLE)
 groups = {}
 for row in rows:
@@ -54,8 +59,11 @@ for key, group in groups.items():
         'Clock in': clock_in,
         'Clock out': clock_out
     })
+    print(f"{group['name']} ({group['date']}): {clock_in} - {clock_out}")
+
+print(f"---\n{len(groups)} entries created.")
 ```
 
-Adjust the table and column names to match your setup. The script always appends new rows -- if you run it multiple times, clear the statistics table first to avoid duplicates.
+Adjust the table and column names to match your setup. The script clears the statistics table before each run, so it can be executed repeatedly without creating duplicates.
 
 For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
