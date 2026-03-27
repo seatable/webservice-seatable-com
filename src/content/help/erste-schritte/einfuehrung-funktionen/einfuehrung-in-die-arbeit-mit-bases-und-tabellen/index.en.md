@@ -38,10 +38,10 @@ When you have successfully mastered the first steps and created your first bases
 
 ## Tables and views in a base
 
-The table is the main level at which you can organize your data in SeaTable, comparable to a worksheet in a spreadsheet. Basically, **tables** are the next level below [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) in SeaTable's organizational structure.
+The table is the main level at which you can organize your data in SeaTable, comparable to a worksheet in a spreadsheet. Basically, **tables** are the next level below bases in SeaTable's organizational structure.
 
-Since SeaTable is a **relational database software**, you can connect information in different tables of a base via [links]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automations]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) and other functions.
+Since SeaTable is a [relational database]({{< relref "posts/relationale-datenbank" >}}), you can connect information in different tables of a base via [links]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automations]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) and other functions.
 
-A table consists of [rows]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) in SeaTable define which **data types** you can enter in a **column**.
+A table consists of rows and columns. All entries in a **row** form a coherent **data record**. The [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) in SeaTable define which **data types** you can enter in a **column**.
 
-Whenever you view your data in a table, you view it through a [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). Views give you countless options to display the data in your tables differently - to filter, sort, group, hide, and so on.
+Whenever you see your data in a table, you see it through a [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). Views give you countless options to display the data in your tables differently – to filter, sort, group, hide, and so on.

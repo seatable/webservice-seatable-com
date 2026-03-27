@@ -19,7 +19,7 @@ Bases are of central importance in SeaTable. Whenever you collect, analyze, edit
 
 At first glance, a base is just a **container** for one or more **tables**. From this perspective it is obvious to compare a base with a workbook in Excel. However, this comparison does not do justice to a base. Bases in SeaTable are far superior to the workbooks known from conventional spreadsheets, because they offer:
 
-- Relational database functions and the [linking of tables]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Relational database]({{< relref "posts/relationale-datenbank" >}}) functions and the [linking of tables]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) covering all common data formats
 - Various [sharing options for]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}})
 - Real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) with other users and real-time transmission of all changes

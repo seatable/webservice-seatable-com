@@ -12,7 +12,7 @@ seo:
 
 ---
 
-SeaTable ermöglicht es Ihnen, Informationen aus unterschiedlichen Tabellen miteinander zu verknüpfen. Verwenden Sie hierfür den Spaltentyp **Verknüpfung zu anderen Einträgen**.
+Nutzen Sie die [relationalen Datenbankfunktionen]({{< relref "posts/relationale-datenbank" >}}) von SeaTable, indem Sie Informationen aus unterschiedlichen Tabellen miteinander verknüpfen. Verwenden Sie hierfür den Spaltentyp **Verknüpfung zu anderen Einträgen**.
 
 ## So können Sie zwei Tabellen miteinander verknüpfen
 
