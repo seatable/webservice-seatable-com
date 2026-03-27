@@ -15,6 +15,10 @@ seo:
 
 Manchmal möchte man in einer Base ein paar Beispieleinträge generieren. Mit diesem Python-Skript können Sie in kürzester Zeit von einigen wenigen bis zu viele Tausende Einträge erzeugen.
 
+![Random Entries in SeaTable](random-entries.png)
+
+{{< dtable-download name="Random Entries" file="/downloads/python-examples/random-entries.dtable" text="Base mit passender Tabellenstruktur und fertigem Skript zum direkten Ausprobieren." />}}
+
 Dieser Artikel führt Sie durch die verschiedenen Abschnitte des Skriptes, sodass Sie die Funktionsweise verstehen und es bei Bedarf an Ihre Bedürfnisse anpassen können. Das vollständige Skript finden Sie am Ende dieses Artikels.
 
 ## 1) Laden der Module

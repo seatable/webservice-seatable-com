@@ -14,6 +14,10 @@ seo:
 
 Dieser Artikel stellt Ihnen ein Python-Skript vor, welches die komplette Metastruktur einer Base ausgibt. Dies ist z. B. hilfreich, wenn Sie im [Community-Forum](https://forum.seatable.com/) eine Frage zu einer Base haben und die Struktur Ihrer Base ohne Screenshots einfach und schnell beschreiben wollen.
 
+![Metastruktur-Ausgabe in SeaTable](base-metadata.png)
+
+{{< dtable-download name="Base Metadata" file="/downloads/python-examples/base-metadata.dtable" text="Base mit mehreren Tabellen und Verknüpfungen zum Ausprobieren." />}}
+
 ## Die Metastruktur einer Base
 
 Die Metastruktur einer Base beschreibt die Tabellen, Spalten und Ansichten einer Base. Die Einträge und Datensätze in den Zeilen sind in der Metastruktur nicht enthalten. Die folgende JSON-Struktur beschreibt eine vergleichsweise simple Base mit nur einer Tabelle, zwei Spalten und einer Ansicht.
