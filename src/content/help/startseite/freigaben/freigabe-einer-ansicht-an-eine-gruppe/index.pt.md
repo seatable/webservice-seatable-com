@@ -1,5 +1,5 @@
 ---
-title: 'Partilhar uma visão com um grupo'
+title: 'Partilhar uma vista com um grupo'
 date: 2023-02-14
 lastmod: '2023-02-14'
 categories:
@@ -17,13 +17,13 @@ seo:
 
 {{< required-version "Mais" "Empresa" >}}
 
-Para permitir uma colaboração óptima, pode **partilhar** **opiniões de** tabelas não só com utilizadores individuais mas também **com grupos inteiros**. Ao partilhar, pode decidir se os membros do grupo só podem **ler** a visão partilhada ou também **editá-la**.
+Para permitir uma colaboração óptima, pode **partilhar** **vistas** de tabelas não só com utilizadores individuais mas também **com grupos inteiros**. Ao partilhar, pode decidir se os membros do grupo só podem **ler** a visão partilhada ou também **editá-la**.
 
-Para explicações detalhadas sobre a partilha de opiniões, ver o artigo [Partilhando uma Opinião com um Membro da Equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
+Para explicações detalhadas sobre a partilha de vistas, ver o artigo [Partilhando uma Opinião com um Membro da Equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
 
 ## Partilhar um ponto de vista com um grupo
 
-1. Abra a **vista de** uma mesa que deseja partilhar.
+1. Abra a **vista** de uma tabela que deseja partilhar.
 2. Clique em **Share View** {{< seatable-icon icon="dtable-icon-share" >}} e depois seleccione **Share with Group**.
 
 ![Partilhar uma visão com um grupo](images/Freigabe-einer-Ansicht-an-eine-Gruppe.png)

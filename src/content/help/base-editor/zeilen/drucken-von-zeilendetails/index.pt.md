@@ -36,7 +36,7 @@ Os tipos de impressão **Normal** e **Compacta** diferem tanto no tamanho do fic
 
 - O **Pressão normal** parece muito semelhante à habitual exibição de detalhes de fila: vê as entradas como seria de esperar.  
    ![Pressão normal.](images/Normaler-Druck-1.png)
-- O **Pressão compacta** reduz o espaço branco e embala toda a informação numa estrutura de mesa.  
+- O **Pressão compacta** reduz o espaço branco e embala toda a informação numa estrutura de tabela.  
    ![Impressão compacta.](images/Kompakter-Druck-1.png)
 
 {{< warning  headline="Nota"  text="Normalmente há uma opção de _impressão_ em _formato PDF_ nos PCs. O SeaTable em si **não oferece um download em formato PDF**." />}}

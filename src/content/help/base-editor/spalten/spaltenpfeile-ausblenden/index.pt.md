@@ -17,7 +17,7 @@ Pode **ocultar** as **setas de coluna** com as quais se abre o **menu pendente d
 
 ![Ocultar setas de coluna](images/Spaltenpfeile-ausblenden.gif)
 
-1. Clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} na extrema direita do cabeçalho da mesa.
+1. Clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} na extrema direita do cabeçalho da tabela.
 2. Seleccionar a opção **Esconder seta descendente**.
 
-{{< warning  headline="Nota"  text="Para mostrar as setas dropdown novamente, siga os mesmos passos e clique em **Show Dropdown Arrow (Mostrar seta dropdown)**." />}}
+{{< warning  headline="Nota"  text="Para mostrar as setas dropdown novamente, siga os mesmos passos e clique em **Mostrar seta dropdown**." />}}

@@ -1,5 +1,5 @@
 ---
-title: 'Criar uma nova mesa com um registo comum'
+title: 'Criar uma nova tabela com um registo comum'
 date: 2022-12-15
 lastmod: '2024-06-12'
 categories:
@@ -24,11 +24,11 @@ Para poder criar uma nova tabela numa base com um registo de dados partilhado, a
 
 {{< warning  headline="Nota importante"  text="Uma base **deve** atender a um desses dois requisitos para que uma nova tabela possa ser criada nela com um registro de dados compartilhado. No entanto, **se** nenhum dos dois pré-requisitos se aplicar a uma base, **não** é possível criar uma nova tabela com um registo de dados partilhado." />}}
 
-## Criar uma nova mesa com um registo comum
+## Criar uma nova tabela com um registo comum
 
-![Criar uma nova mesa com um registo comum](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
+![Criar uma nova tabela com um registo comum](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
-1. Abrir uma **mesa** que se encontre numa base que cumpra um dos **requisitos** acima descritos.
+1. Abrir uma **tabela** que se encontre numa base que cumpra um dos **requisitos** acima descritos.
 2. Clique no **símbolo \[+\]** para criar uma nova tabela.
 3. Clique em **Importar Registo Partilhado**.
 4. Seleccionar um **registo comum**.

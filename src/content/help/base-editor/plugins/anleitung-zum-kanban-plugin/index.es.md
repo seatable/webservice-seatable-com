@@ -40,7 +40,7 @@ A través de los **ajustes**, a los que puede acceder haciendo clic en el **sím
 - Más columnas
 - Opciones del controlador
 
-### Mesa y vista
+### Tabla y vista
 
 Si tiene varios **Tablas** y **Vistas** que ha creado en su base, puede seleccionarlos.
 

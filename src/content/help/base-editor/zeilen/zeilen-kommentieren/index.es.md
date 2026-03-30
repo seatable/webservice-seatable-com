@@ -16,7 +16,7 @@ seo:
 
 Puede comentar las filas en SeaTable, por ejemplo, para darse su opinión o plantear preguntas dentro de un equipo. No debe llevar a cabo estas **conversaciones** por correo electrónico o en programas de chat, sino preferiblemente directamente donde están los datos, es decir, en la **fila** correspondiente de la tabla. De este modo, incluso semanas y meses después, estará claro cómo se comunicaron y cuál es el estado actual sin tener que buscar durante mucho tiempo.
 
-Si colabora con otros usuarios en una mesa, puede mantener una conversación separada en cada fila individual. Las filas en las que hay una conversación en curso se marcan con un **icono de burbuja** en la primera columna.
+Si colabora con otros usuarios en una tabla, puede mantener una conversación separada en cada fila individual. Las filas en las que hay una conversación en curso se marcan con un **icono de burbuja** en la primera columna.
 
 ¡Pruébelo! Hay **dos maneras** de acceder a la función de comentarios.
 

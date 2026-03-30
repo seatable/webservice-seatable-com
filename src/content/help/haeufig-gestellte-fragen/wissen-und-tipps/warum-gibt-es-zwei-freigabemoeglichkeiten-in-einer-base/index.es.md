@@ -1,5 +1,5 @@
 ---
-title: '¿Por qué hay dos opciones para compartir en una Base? - Mesa de mar'
+title: '¿Por qué hay dos opciones para compartir en una base?'
 date: 2023-03-14
 lastmod: '2023-03-14'
 categories:
@@ -14,35 +14,35 @@ seo:
 
 ---
 
-Hay dos opciones diferentes para compartir tus bases, que te permiten compartir **vistas individuales** o **toda** tu **base**.
+Hay dos opciones diferentes para compartir sus bases, que le permiten compartir **vistas individuales** o **toda la base**.
 
 ![Compartir iconos en una base](images/share-icons-new-1.png)
 
 Ambas acciones se realizan a través del diálogo de **compartir**, una ventana a la que se accede a través de los **iconos de compartir** {{< seatable-icon icon="dtable-icon-share" >}} en las opciones de vista o base.
 
-![Liberar una base a un usuario](images/share-base-to-user.png)
+![Compartir una base a un usuario](images/share-base-to-user.png)
 
-## Liberación de una base
+## Compartir una base
 
 ![Abrir el diálogo Compartir en Base](images/share-a-base.png)
 
-Si quieres compartir una de tus bases, tienes varias opciones dependiendo de con quién quieras compartirla:
+Si quiere compartir una de sus bases, tiene varias opciones dependiendo de con quién quiera compartirla:
 
-- [Liberación para los usuarios]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Liberación para el grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
-- [Liberación a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Compartir con un usuario]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Compartir con un grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Compartir a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
+- [Compartir a través de un enlace externo]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
-### Acción personalizada
+### Compartición personalizada
 
-Si no quieres compartir una base entera, sino sólo partes de ella, por supuesto también es posible. La [compartición personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) permite compartir varias tablas y vistas al mismo tiempo y enviarlas agrupadas a los miembros de un equipo o a grupos enteros.
+Si no quiere compartir una base entera, sino sólo partes de ella, por supuesto también es posible. La [compartición personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) permite compartir varias tablas y vistas al mismo tiempo y enviarlas agrupadas a los miembros de un equipo o a grupos enteros.
 
-## Liberación de una vista
+## Compartir una vista
 
-Si sólo quieres compartir una vista, puedes hacerlo con tres grupos de personas:
+Si sólo quiere compartir una vista, puede hacerlo con tres grupos de personas:
 
-- [Liberar a un miembro del equipo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Liberar a un grupo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
-- [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
+- [Compartir a un miembro del equipo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+- [Compartir a un grupo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
+- [Compartir a través de un enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
-Para más información, consulte también el artículo [Base y ver las versiones]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) de un vistazo.
+Para más información, consulte también el artículo [Compartir bases y vistas]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) de un vistazo.

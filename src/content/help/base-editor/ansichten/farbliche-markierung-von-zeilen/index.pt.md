@@ -69,6 +69,6 @@ Neste exemplo, só queremos destacar as linhas do plano editorial a cores se o *
 
 ## Destacar duplicados
 
-Pode destacar linhas com um ou mais valores de coluna idênticos utilizando a opção **Destacar Duplicações**. Para o fazer, seleccione a coluna que pretende verificar se existem duplicados. Desta forma pode facilmente identificar duplicados na sua mesa e corrigi-los ou eliminá-los, se necessário.
+Pode destacar linhas com um ou mais valores de coluna idênticos utilizando a opção **Destacar Duplicações**. Para o fazer, seleccione a coluna que pretende verificar se existem duplicados. Desta forma pode facilmente identificar duplicados na sua tabela e corrigi-los ou eliminá-los, se necessário.
 
 ![Destacar as células duplicadas a cores](images/Farbliche-Markierung-von-Zellen-9-1.png)

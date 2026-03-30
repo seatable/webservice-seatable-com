@@ -15,13 +15,13 @@ seo:
 
 No SeaTable tem a opção de **importar** tanto **ficheiros** **CSV** como **Excel (.xlsx)** para as suas bases. Para garantir que tudo corre de acordo com o planeado durante a importação de dados e que não se perdem dados, resumimos as **dicas e truques** mais importantes para importar ficheiros CSV ou XLSX para si. Se seguir estas dicas e truques, importará com sucesso os seus dados para o SeaTable:
 
-- Importar apenas estruturas de mesa
-- Criar a estrutura da mesa em SeaTable antes da importação
+- Importar apenas estruturas de tabela
+- Criar a estrutura da tabela em SeaTable antes da importação
 - Dividir a importação
 - Assegurar a qualidade dos dados
 - Controlar a importação
 
-## Importar apenas estruturas de mesa
+## Importar apenas estruturas de tabela
 
 Os problemas ocorrem frequentemente ao importar ficheiros Excel se estes contiverem **estruturas** e conteúdos que **não pertencem à tabela**. O gráfico seguinte mostra um caso desses. O cabeçalho, a data e as colunas A e D não pertencem à tabela e devem ser removidas antes da importação.
 
@@ -29,7 +29,7 @@ Os problemas ocorrem frequentemente ao importar ficheiros Excel se estes contive
 
 Os **gráficos** também não são tidos em conta durante uma importação, pelo que devem ser eliminados antes da tentativa de importação.
 
-## Criar a estrutura da mesa em SeaTable antes da importação
+## Criar a estrutura da tabela em SeaTable antes da importação
 
 Quando o SeaTable importa uma lista Excel, tenta determinar que **tipo de coluna** criar com base nos **dados importados**. Os problemas surgem inevitavelmente sempre que o SeaTable determina incorrectamente o tipo de coluna e os dados não são compatíveis com o tipo de coluna. Por exemplo, se o SeaTable reconhece um número e por isso cria uma coluna de números, os textos e palavras nesta coluna já não podem ser importados e as células permanecem as mesmas.
 
@@ -43,7 +43,7 @@ Não existe a opção de importar dados para o tipo de coluna **Ligação a outr
 
 A função de importação do SeaTable pode importar ficheiros Excel com **múltiplas folhas de cálculo** e **dezenas de milhares de filas**. No entanto, a experiência mostra que quanto mais dados tentar importar de uma só vez, maior é a probabilidade de encontrar problemas.
 
-Por conseguinte, sempre que possível, tente dividir a importação em **pacotes de dados mais pequenos**. Prefira importar as folhas de cálculo separadamente e uma após a outra e dividir as mesas grandes em mesas pequenas. Desta forma, tem um melhor controlo sobre a importação e fica satisfeito com os dados completamente importados no final.
+Por conseguinte, sempre que possível, tente dividir a importação em **pacotes de dados mais pequenos**. Prefira importar as folhas de cálculo separadamente e uma após a outra e dividir as tabelas grandes em tabelas pequenas. Desta forma, tem um melhor controlo sobre a importação e fica satisfeito com os dados completamente importados no final.
 
 ## Assegurar a qualidade dos dados
 

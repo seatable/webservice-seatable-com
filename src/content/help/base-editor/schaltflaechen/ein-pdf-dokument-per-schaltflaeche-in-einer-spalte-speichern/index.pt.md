@@ -37,7 +37,7 @@ Agora seleccione a **coluna de ficheiro** em que a página deve ser guardada com
 
 ![Seleccionar a coluna do ficheiro em que o ficheiro PDF deve ser guardado.](images/select-column-to-put-PDF.png)
 
-Finalmente, **nomeie** os ficheiros PDF que serão adicionados à sua mesa. Utilizar **{nome da coluna}**, ou seja, o nome de uma coluna entre parênteses rectos, para dar ao ficheiro o nome do valor dessa coluna.
+Finalmente, **nomeie** os ficheiros PDF que serão adicionados à sua tabela. Utilizar **{nome da coluna}**, ou seja, o nome de uma coluna entre parênteses rectos, para dar ao ficheiro o nome do valor dessa coluna.
 
 ![Nomear os ficheiros](images/PDF-file-name.png)
 

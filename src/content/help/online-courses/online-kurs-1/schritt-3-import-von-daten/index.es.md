@@ -10,14 +10,14 @@ aliases:
     - '/es/ayuda/schritt-3-import-von-daten'
 seo:
     title: 'Paso 3: Importar datos en SeaTable'
-    description: 'Aprende a importar rápidamente datos CSV en tu gestor de gastos SeaTable. Formatos, verificación y opciones de exportación incluidas.'
+    description: 'Aprenda a importar rápidamente datos CSV en su gestor de gastos SeaTable. Formatos, verificación y opciones de exportación incluidas.'
 ---
 
 Probablemente ya haya introducido algunos gastos en su nuevo sistema de gestión de gastos. Sin embargo, necesitamos un poco más de datos para los siguientes pasos. Por lo tanto, eliminaremos sus entradas existentes e importaremos nuevos registros de datos en la tabla.
 
 ## Eliminar los registros de datos antiguos
 
-Cambia a tu mesa `Expenses` y borre todas las filas introducidas anteriormente. Ahora la tabla debería estar vacía.
+Cambie a su tabla `Expenses` y borre todas las filas introducidas anteriormente. Ahora la tabla debería estar vacía.
 
 ## Importación de nuevos registros de datos
 
@@ -25,7 +25,7 @@ SeaTable ofrece una amplia gama de opciones de importación. Puede importar base
 
 - Descargue el siguiente archivo [expenses.csv](/expenses.csv)
 - Ahora importa el archivo CSV a la tabla `Expenses`
-- Comprueba que la tabla tiene ahora exactamente 50 entradas
+- Compruebe que la tabla tiene ahora exactamente 50 entradas
 
 ![Diálogo de importación CSV en la tabla «Expenses» con vista previa de datos](images/level1-import-csv.png)
 

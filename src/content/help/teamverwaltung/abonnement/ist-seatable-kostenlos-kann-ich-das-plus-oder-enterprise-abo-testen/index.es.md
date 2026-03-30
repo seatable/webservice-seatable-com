@@ -1,5 +1,5 @@
 ---
-title: '¿Es SeaTable gratuito? ¿Puedo probar la suscripción Plus o Enterprise? - Mesa de mar'
+title: '¿Es SeaTable gratuito? ¿Puedo probar la suscripción Plus o Enterprise?'
 date: 2023-01-13
 lastmod: '2023-03-22'
 categories:

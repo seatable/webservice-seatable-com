@@ -53,13 +53,13 @@ Haga clic en el **símbolo de la rueda dentada** para abrir los ajustes.
 
 Dispone de las siguientes opciones de configuración:
 
-- Tipo de tarjeta
-- Mesa y vista
+- Tipo de mapa
+- Tabla y vista
 - Dirección
 - Color del marcador
 - Campo de visualización
 
-### Tipo de tarjeta
+### Tipo de mapa
 
 Decida entre la visualización estándar con **chinchetas de ubicación** o utilizar **imágenes** para marcar las ubicaciones.
 
@@ -69,7 +69,7 @@ Si decide mostrar imágenes, debe especificar la [columna de]({{< relref "help/b
 
 ![La visualización de imágenes en el complemento de mapas](images/bildanzeige.png)
 
-### Mesa y vista
+### Tabla y vista
 
 Si ha creado varias tablas en su base, puede seleccionar en este punto qué tabla se va a utilizar. Lo mismo ocurre con las vistas.
 
@@ -91,6 +91,6 @@ Hasta ahora, había que situar el puntero del ratón sobre un marcador cartográ
 
 ## Crear varios mapas
 
-1. Haz clic en el **signo más** situado a la derecha del título de tu primer mapa.
-2. Asigne un **nombre** a la tarjeta y confirme con **Enviar**.
+1. Haga clic en el **signo más** situado a la derecha del título del primer mapa.
+2. Asigne un **nombre** a la mapa y confirme con **Enviar**.
 3. En la **configuración**, defina a qué vista de tabla y a qué columna debe hacer referencia el nuevo mapa.

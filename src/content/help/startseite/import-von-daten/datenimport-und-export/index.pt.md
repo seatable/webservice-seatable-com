@@ -31,9 +31,9 @@ SeaTable utiliza o [formato de ficheiro DTABLE]({{< relref "help/startseite/impo
 
 Pode **exportar tabelas** individuais a partir de cada base a que tem acesso **para ficheiros Excel**. O conteúdo das colunas baseadas em texto e números são copiadas como valores para o ficheiro de destino. Os [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) e o [histórico de alterações]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) **não** são **exportados**.
 
-![Exportação de mesa](images/export-tables.jpg)
+![Exportação de tabela](images/export-tables.jpg)
 
-Inicia-se a exportação de uma mesa a partir da Base. Clique na seta para a direita do nome da tabela a ser exportada. Agora seleccione **Exportar tabela para Excel** para iniciar o download. Quando a exportação estiver concluída, encontrará o ficheiro XLSX no local seleccionado no seu dispositivo.
+Inicia-se a exportação de uma tabela a partir da Base. Clique na seta para a direita do nome da tabela a ser exportada. Agora seleccione **Exportar tabela para Excel** para iniciar o download. Quando a exportação estiver concluída, encontrará o ficheiro XLSX no local seleccionado no seu dispositivo.
 
 ## Importar bases
 
@@ -59,7 +59,7 @@ ou importar os dados para uma **nova tabela**.
 
 A importação tem lugar como [ficheiro CSV]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}) ou [ficheiro Excel]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) na tabela. Para mais informações, ver os artigos ligados.
 
-Se já tiver criado uma mesa no **SeaTable** e precisar dela **noutra base**, pode simplesmente copiá-la. Pode descobrir [aqui]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}) como importar tabelas de outra base.
+Se já tiver criado uma tabela no **SeaTable** e precisar dela **noutra base**, pode simplesmente copiá-la. Pode descobrir [aqui]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}) como importar tabelas de outra base.
 
 {{< warning  headline="Limite de memória para linhas" >}}
 

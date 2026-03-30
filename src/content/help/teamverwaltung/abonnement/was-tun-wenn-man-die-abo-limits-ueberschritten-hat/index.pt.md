@@ -1,5 +1,5 @@
 ---
-title: 'O que fazer se tiver excedido os limites de subscrição? - Mesa do mar'
+title: 'O que fazer se tiver excedido os limites de subscrição?'
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:

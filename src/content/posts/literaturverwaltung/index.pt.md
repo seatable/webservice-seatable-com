@@ -110,13 +110,13 @@ Qualquer pessoa que saiba orientar-se pode ajudar a melhorar o JabRef.
 
 No entanto, o JabRef também tem pontos fracos. A gestão de referências não funciona da melhor forma em dispositivos móveis, não é possível comunicar com outros utilizadores e não existe pesquisa de texto integral, o que dificulta a criação da bibliografia.
 
-### SeaTable – a solução de mesa inteligente
+### SeaTable – a solução de tabela inteligente
 
-O SeaTable oferece-lhe uma alternativa **tabular** aos programas de gestão de literatura já apresentados. A interface do utilizador é de utilização **intuitiva** e oferece muitas funcionalidades úteis para o ajudar a organizar a sua literatura de forma rápida e fácil.
+SeaTable oferece-lhe uma alternativa **tabular** aos programas de gestão de literatura já apresentados. A interface do utilizador é de utilização **intuitiva** e oferece muitas funcionalidades úteis para o ajudar a organizar a sua literatura de forma rápida e fácil.
 
 O [modelo]({{< relref "templates/projects/bibliography" >}}) dá-lhe uma visão geral da forma como pode utilizar o programa e adaptá-lo às suas necessidades. O SeaTable é uma base de dados na qual pode introduzir os seus dados em tabelas, ligá-los a tarefas e enriquecê-los com documentos. **A colaboração em equipa** é possível **em tempo real**.
 
-O SeaTable está disponível como uma **versão gratuita na nuvem** ou como um programa para o seu próprio servidor. Se pretender receber funcionalidades adicionais e colaborar com mais utilizadores, tem a opção de fazer uma atualização. A versão Plus custa 7 euros por utilizador por mês e a versão Enterprise custa 14 euros por utilizador por mês.
+SeaTable está disponível como uma **versão gratuita na nuvem** ou como um programa para o seu próprio servidor. Se pretender receber funcionalidades adicionais e colaborar com mais utilizadores, tem a opção de fazer uma atualização. A versão Plus custa 7 euros por utilizador por mês e a versão Enterprise custa 14 euros por utilizador por mês.
 
 ## Como tirar o máximo partido do seu programa de gestão de referências
 

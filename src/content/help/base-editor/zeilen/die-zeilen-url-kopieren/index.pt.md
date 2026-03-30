@@ -27,7 +27,7 @@ Além disso, pode ler a [identificação da linha]({{< relref "help/skripte/allg
 
 ![Cópia do URL da linha através da visualização da tabela](images/copy-cell-URL.jpg)
 
-1. Abrir qualquer **mesa**.
+1. Abrir qualquer **tabela**.
 2. Clique na **linha** cujo URL pretende copiar.
 3. **Clique no botão direito do rato** para abrir o menu de contexto.
 4. Clique em **Copy Row URL**.
@@ -40,7 +40,7 @@ Depois de copiar com sucesso o URL da linha, a seguinte **mensagem de sucesso** 
 
 ![Cópia do URL da linha através dos detalhes da linha](images/copy-URL-1.gif)
 
-1. Abrir qualquer **mesa**.
+1. Abrir qualquer **tabela**.
 2. Abra os **detalhes da linha** clicando no **símbolo da seta dupla** ao lado do número de uma linha cujo URL pretende copiar.
 3. Clique no **ícone de ligação** junto ao cabeçalho "Detalhes da linha" para copiar o **URL da linha**.
 

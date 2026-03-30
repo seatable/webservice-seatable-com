@@ -33,7 +33,7 @@ A facilidade de utilização, o elevado nível de proteção de dados e a possib
 
 ## Ferramenta de gestão versátil
 
-![Tablet com mesa SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
+![Tablet com SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
 Atualmente, o SeaTable é utilizado como uma ferramenta de gestão versátil. O principal caso de utilização continua a ser a [organização de eventos]({{< relref "templates/events/event-management" >}}). As listas de convidados e os planos de atribuição de salas, o planeamento do pessoal em eventos e até o programa da gala planeado ao segundo são mapeados no SeaTable. A capacidade de carregar ficheiros áudio diretamente para uma base revelou-se particularmente útil neste caso. Isto permite que o diretor tenha acesso a gravações áudio em qualquer altura, por exemplo, da pronúncia dos nomes dos vencedores dos prémios.
 

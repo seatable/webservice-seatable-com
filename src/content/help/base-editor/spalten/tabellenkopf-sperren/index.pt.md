@@ -1,5 +1,5 @@
 ---
-title: 'Cabeçalho de mesa de bloqueio'
+title: 'Bloquear o cabeçalho da tabela'
 date: 2023-03-03
 lastmod: '2023-03-03'
 categories:
@@ -23,20 +23,20 @@ Se quiser apenas bloquear **colunas individuais da** sua tabela para edição, p
 
 {{< /warning >}}
 
-## Cabeçalho de mesa de bloqueio
+## Bloquear o cabeçalho da tabela
 
-1. Abra a **mesa** em que pretende bloquear o cabeçalho da mesa.
-2. Clicar no **cadeado preto aberto no** cabeçalho da mesa.
+1. Abra a **tabela** em que pretende bloquear o cabeçalho da tabela.
+2. Clicar no **cadeado preto aberto** no cabeçalho da tabela.
 
-![Bloqueio do cabeçalho da mesa](images/lock-the-table-head.jpg)
+![Bloqueio do cabeçalho da tabela](images/lock-the-table-head.jpg)
 
-4. Se o cadeado for então exibido a **vermelho**, o cabeçalho da mesa foi bloqueado com sucesso.
+4. Se o cadeado for então exibido a **vermelho**, o cabeçalho da tabela foi bloqueado com sucesso.
 
-![Símbolo de bloqueio para cabeçalho de mesa bloqueado com sucesso](images/locked-table-head.jpg)
+![Símbolo de bloqueio para cabeçalho de tabela bloqueado com sucesso](images/locked-table-head.jpg)
 
 {{< warning  headline="Nota importante" >}}
 
-Não confundir esta função com a função **Ícone de bloqueio nas opções de visualização**Pode utilizá-lo para alterar as definições de um [Vista da mesa de bloqueio]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) pode.
+Não confundir esta função com a função **Ícone de bloqueio nas opções de visualização**. Pode utilizá-lo para alterar as definições de um [Vista da tabela de bloqueio]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}).
 
 {{< /warning >}}
 

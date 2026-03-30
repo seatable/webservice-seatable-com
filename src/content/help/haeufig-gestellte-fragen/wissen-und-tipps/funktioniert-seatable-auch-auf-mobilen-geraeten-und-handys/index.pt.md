@@ -1,5 +1,5 @@
 ---
-title: 'O SeaTable também funciona em dispositivos móveis e telemóveis? - Mesa do mar'
+title: 'SeaTable também funciona em dispositivos móveis e telemóveis?'
 date: 2023-05-12
 lastmod: '2023-05-12'
 categories:

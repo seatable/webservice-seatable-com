@@ -1,5 +1,5 @@
 ---
-title: 'Establecer permisos de mesa'
+title: 'Establecer permisos de tabla'
 date: 2022-11-16
 lastmod: '2023-08-09'
 categories:
@@ -20,7 +20,7 @@ Con la suscripción correspondiente, en SeaTable tiene la opción de restringir 
 
 ## Establecer permisos dentro de las tablas
 
-![Establecer la elegibilidad de la mesa](images/Tabellenberechtigung-setzen-1.gif)
+![Establecer la elegibilidad de la tabla](images/Tabellenberechtigung-setzen-1.gif)
 
 1. Haga clic en el **icono triangular desplegable** situado junto al nombre de la tabla.
 2. Seleccione la opción **Editar autorización de la tabla**.

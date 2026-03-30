@@ -157,9 +157,9 @@ Puede realizar los siguientes ajustes para un **gráfico circular**:
 
 Todos los cambios de ajuste se realizan **en tiempo real**, es decir, el diagrama se actualiza inmediatamente cada vez que se modifica un ajuste. Esto le permite ver inmediatamente si ha logrado el resultado deseado o si necesita hacer ajustes.
 
-### Mesa simple
+### Tabla simple
 
-Existe un tipo especial de estadísticas en páginas individuales: la **tabla simple** permite -de forma similar a las páginas [de tablas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) - la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tablas, es posible combinar **varias tablas** en un panel de control.
+Existe un tipo especial de estadísticas en páginas individuales: la **tabla simple** permite – de forma similar a las páginas [de tablas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) – la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tablas, es posible combinar **varias tablas** en un panel de control.
 
 ![Nuevo tipo de gráfico "Cuadro básico"](images/BasicTable.png)
 

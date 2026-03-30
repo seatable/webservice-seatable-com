@@ -28,7 +28,7 @@ No SeaTable, não tem de se preocupar em perder os seus dados. Mesmo tabelas eli
 
 ## Conteúdo da tabela que é restaurada
 
-Quando se recupera uma mesa do caixote da reciclagem, esta é restaurada exactamente como estava quando foi apagada. Isto inclui os seguintes componentes:
+Quando se recupera uma tabela do caixote da reciclagem, esta é restaurada exactamente como estava quando foi apagada. Isto inclui os seguintes componentes:
 
 - Dados da tabela
 - [Vistas de tabela]({{< relref "help/base-editor/ansichten" >}})

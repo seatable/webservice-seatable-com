@@ -25,7 +25,7 @@ Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitaci
 
 ## Eliminación mediante el icono de compartir
 
-![Haz clic en el icono de compartir de tu mesa](images/share-single-tablesheets-from-the-base-options.png)
+![Haga clic en el icono de compartir](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Abra la **base** o **vista** cuyo enlace desea eliminar.
 2. Haga clic en el **icono de compartir** {{< seatable-icon icon="dtable-icon-share" >}} para bases o vistas.

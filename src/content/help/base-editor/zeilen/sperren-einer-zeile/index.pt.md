@@ -16,11 +16,11 @@ seo:
 
 {{< required-version "Mais" "Empresa" >}}
 
-Para evitar alterações indesejadas nas filas, pode **bloquear as filas**. Isto pode ser útil, por exemplo, se mais do que uma pessoa estiver a trabalhar numa mesa. O bloqueio pode ser feito **manualmente** por si ou **automaticamente** através de uma [automatização]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
+Para evitar alterações indesejadas nas filas, pode **bloquear as filas**. Isto pode ser útil, por exemplo, se mais do que uma pessoa estiver a trabalhar numa tabela. O bloqueio pode ser feito **manualmente** por si ou **automaticamente** através de uma [automatização]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## Para bloquear uma fila
 
-1. Abra qualquer mesa em que queira fechar uma **fila**.
+1. Abra qualquer tabela em que queira fechar uma **fila**.
 2. **Clique com o botão direito do rato** sobre a linha para abrir o menu pendente.
 3. Seleccionar a opção **Lock Row**.
 

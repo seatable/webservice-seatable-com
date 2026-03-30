@@ -25,7 +25,7 @@ El complemento de la línea de tiempo muestra **intervalos de tiempo**. Por lo t
 
 1. Active y abra el **plug-in de la línea de tiempo**.
 2. Coloque el **Ajustes** {{< seatable-icon icon="dtable-icon-set-up" >}} de la línea de tiempo:
-    - Mesa y vista
+    - Tabla y vista
     - Color de los bloques y etiquetado
     - Fecha de inicio y fin
     - El período de tiempo que abarcará la representación
@@ -43,6 +43,6 @@ Dado que el complemento de la línea de tiempo se basa en las vistas de la tabla
 
 Como se puede ver en el vídeo anterior, también puedes crear **varias líneas de tiempo** en una base. Para ello, proceda del siguiente modo:
 
-1. Haz clic en el **signo más** situado a la derecha del título de tu primera línea de tiempo.
+1. Haga clic en el **signo más** situado a la derecha del título de la primera línea de tiempo.
 2. Asigne un **nombre** a la línea de tiempo y confirme con **Enviar**.
 3. En la **configuración** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a qué [vista de tabla]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) y a qué [columnas de]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) fecha debe referirse la nueva línea de tiempo.

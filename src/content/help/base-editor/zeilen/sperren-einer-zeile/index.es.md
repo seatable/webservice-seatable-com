@@ -16,7 +16,7 @@ seo:
 
 {{< required-version "Más" "Empresa" >}}
 
-Para evitar cambios no deseados en las filas, puede **bloquearlas**. Esto puede ser útil, por ejemplo, si hay más de una persona trabajando en una mesa. El bloqueo puede ser **manual** o [automático]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
+Para evitar cambios no deseados en las filas, puede **bloquearlas**. Esto puede ser útil, por ejemplo, si hay más de una persona trabajando en una tabla. El bloqueo puede ser **manual** o [automático]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## Para bloquear una fila
 

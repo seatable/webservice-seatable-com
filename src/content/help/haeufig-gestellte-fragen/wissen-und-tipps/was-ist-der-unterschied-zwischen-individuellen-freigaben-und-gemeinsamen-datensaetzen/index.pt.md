@@ -21,7 +21,7 @@ Mas qual é a diferença entre as duas funções mencionadas e em que contexto q
 
 ## Opções de lançamento individual
 
-Com uma parte individual, concede a outras pessoas **acesso a uma base, mesa ou vista**. Os utilizadores autorizados vêem a acção como uma base separada na página inicial. Dependendo do tipo de partilha, os outros utilizadores só podem ver ou também editar os seus dados.
+Com uma parte individual, concede a outras pessoas **acesso a uma base, tabela ou vista**. Os utilizadores autorizados vêem a acção como uma base separada na página inicial. Dependendo do tipo de partilha, os outros utilizadores só podem ver ou também editar os seus dados.
 
 Com partilhas individuais, todos os utilizadores com quem a base, tabela ou visão foi partilhada trabalham **num único e mesmo conjunto de dados**. Por exemplo, os utilizadores podem adicionar colunas à tabela partilhada ou eliminar colunas existentes. As **alterações** efectuadas são **sobrescritas** no conjunto de dados partilhados, sendo assim também **visíveis para** todos os utilizadores.
 

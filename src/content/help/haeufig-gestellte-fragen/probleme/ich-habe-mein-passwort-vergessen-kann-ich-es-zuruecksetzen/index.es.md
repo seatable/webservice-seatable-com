@@ -1,5 +1,5 @@
 ---
-title: "He olvidado mi contraseña. ¿Puedo restablecerla? - Mesa del mar"
+title: "He olvidado mi contraseña. ¿Puedo restablecerla?"
 date: 2023-02-16
 lastmod: "2023-03-01"
 categories: 

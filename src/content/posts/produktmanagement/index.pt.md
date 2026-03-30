@@ -72,7 +72,7 @@ Na ficha do produto encontrará toda a informação importante sobre o produto
 
 ### 3\. todos os contactos num relance
 
-No processo de desenvolvimento do produto, o produto passa por uma série de departamentos diferentes. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), vendas, fábrica de produção, fotografia e também retalho são importantes pontos de contacto diários no trabalho de um gestor de produto. É então prático se todos os dados de contacto forem recolhidos num único local e assim acessíveis a todos. Isto é tão útil para o substituto de férias como para o novo estagiário! Além disso, também podem ser acrescentadas informações, tais como actas de reuniões, documentos importantes ou marcações telefónicas futuras. Com SeaTable, criar um livro de endereços dentro de uma mesa não é absolutamente nenhum problema.
+No processo de desenvolvimento do produto, o produto passa por uma série de departamentos diferentes. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), vendas, fábrica de produção, fotografia e também retalho são importantes pontos de contacto diários no trabalho de um gestor de produto. É então prático se todos os dados de contacto forem recolhidos num único local e assim acessíveis a todos. Isto é tão útil para o substituto de férias como para o novo estagiário! Além disso, também podem ser acrescentadas informações, tais como actas de reuniões, documentos importantes ou marcações telefónicas futuras. Com SeaTable, criar um livro de endereços dentro de uma tabela não é absolutamente nenhum problema.
 
 ![Os dados de contacto de fornecedores e clientes são muito importantes para uma boa gestão do produto](Suppliers-and-Contacts.jpg)
 

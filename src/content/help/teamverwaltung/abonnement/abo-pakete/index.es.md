@@ -1,5 +1,5 @@
 ---
-title: '¿Qué paquetes de suscripción hay disponibles? - Mesa del mar'
+title: '¿Qué paquetes de suscripción hay disponibles?'
 date: 2022-08-25
 lastmod: '2023-02-17'
 categories:

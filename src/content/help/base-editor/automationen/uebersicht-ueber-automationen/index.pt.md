@@ -87,7 +87,7 @@ Saiba [aqui]({{< relref "help/base-editor/automationen/automationen-loeschen" >}
 
 ## Bloquear as filas com uma automatização
 
-Com a ajuda das automatizações, já não tem de bloquear as filas nas suas mesas manualmente, mas pode ter este bloqueio efectuado automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada mais depois de um certo tempo (por exemplo, quando um processo foi concluído).
+Com a ajuda das automatizações, já não tem de bloquear as filas nas suas tabelas manualmente, mas pode ter este bloqueio efectuado automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada mais depois de um certo tempo (por exemplo, quando um processo foi concluído).
 
 Aprenda [aqui]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) como bloquear as filas com uma automatização.
 

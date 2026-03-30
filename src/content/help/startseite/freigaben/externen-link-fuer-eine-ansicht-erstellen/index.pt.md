@@ -30,7 +30,7 @@ Tudo o resto que deve saber sobre links externos pode ser encontrado no artigo [
 
 ![Criar uma ligação externa para uma vista em SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
-1. Abra a **vista de** uma mesa que deseja partilhar.
+1. Abra a **vista** de uma tabela que deseja partilhar.
 2. Clique em **Share View** e depois em **External Link**.
 3. Se necessário, defina a sua própria **palavra-passe** ou uma **palavra-passe** gerada aleatoriamente e/ou uma **data de validade para** a ligação.
 4. Seleccione se pretende gerar um **URL aleatório** para a ligação ou defina você mesmo um **URL desejado**.
@@ -41,6 +41,6 @@ Tudo o resto que deve saber sobre links externos pode ser encontrado no artigo [
 
 Também pode utilizar ligações externas para incorporar **vistas** numa página web. Para o fazer, basta inserir o **link** no editor do seu sistema de gestão de conteúdos.
 
-Por exemplo, é este o aspecto da integração de uma mesa com comunicados de imprensa na nossa página de imprensa:
+Por exemplo, é este o aspecto da integração de uma tabela com comunicados de imprensa na nossa página de imprensa:
 
 ![Incorporação de vistas externas num website.](images/image-1666823263581.png)

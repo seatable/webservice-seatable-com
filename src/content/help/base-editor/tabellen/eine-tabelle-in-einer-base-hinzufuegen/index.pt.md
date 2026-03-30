@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar uma mesa numa Base'
+title: 'Adicionar uma tabela numa base'
 date: 2022-09-28
 lastmod: '2025-02-28'
 categories:
@@ -14,13 +14,13 @@ seo:
 
 ---
 
-As bases consistem em uma ou mais tabelas, que por sua vez podem conter dados muito diferentes e ligar-se umas às outras. Uma base pode conter **até 200 mesas**. No entanto, por uma questão de clareza, deve considerar dividir as tabelas em várias bases e sincronizar os dados com a função de [Conjuntos de Dados Partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), se tiver mais de 20 tabelas.
+As bases consistem em uma ou mais tabelas, que por sua vez podem conter dados muito diferentes e ligar-se umas às outras. Uma base pode conter **até 200 tabelas**. No entanto, por uma questão de clareza, deve considerar dividir as tabelas em várias bases e sincronizar os dados com a função de [Conjuntos de Dados Partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), se tiver mais de 20 tabelas.
 
 ## Acrescentar uma tabela numa base
 
 1. No **Base aberta** No canto superior esquerdo verá as abas com todos os **Tabelas** da base.
 
-    ![Mesas numa base de SeaTable](images/Tabellen-in-seatable.png)
+    ![tabelas numa base de SeaTable](images/Tabellen-in-seatable.png)
 
 2. Clique no **símbolo \[+\]** à direita do separador da última tabela.
 3. Agora selecione **Adicionar tabela**.
@@ -42,8 +42,8 @@ Com [conjuntos de dados partilhados]({{< relref "help/startseite/gemeinsame-date
 
 ## Manter a visão geral
 
-Por vezes uma imagem vale mais do que mil palavras. SeaTable também lhe permite utilizar emojis no nome da mesa, tornando as abas da mesa mais curtas.
+Por vezes uma imagem vale mais do que mil palavras. SeaTable também lhe permite utilizar emojis no nome da tabela, tornando as abas da tabela mais curtas.
 
-![Emojis no nome da mesa](images/emojis-seatable-table-name.png)
+![Emojis no nome da tabela](images/emojis-seatable-table-name.png)
 
 Pode encontrar instruções pormenorizadas no artigo [Utilizar emojis em nomes de tabelas]({{< relref "help/base-editor/tabellen/verwendung-von-emojis-im-tabellennamen" >}}).

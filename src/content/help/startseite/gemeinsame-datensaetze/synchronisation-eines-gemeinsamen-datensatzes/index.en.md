@@ -5,12 +5,13 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/synchronize-shared-dataset-seatable'
+url: '/help/synchronize-common-dataset-seatable'
 aliases:
     - '/help/synchronisation-eines-gemeinsamen-datensatzes'
+    - '/help/synchronize-shared-dataset-seatable'
 seo:
-    title: 'Synchronize shared dataset in SeaTable – complete guide'
-    description: 'Learn how to sync shared datasets in SeaTable. Manually, automatically, or by force: details, limitations, effects on rows and columns.'
+    title: 'Synchronize common dataset in SeaTable – complete guide'
+    description: 'Learn how to sync common datasets in SeaTable. Manually, automatically, or by force: details, limitations, effects on rows and columns.'
 ---
 
 You can **synchronize** any table that you have created from a common dataset. SeaTable synchronizes the data of the common dataset with the identical columns in the table. The values in these columns are **overwritten** if you or your group members have made **changes to the** common dataset since the last synchronization.
@@ -21,7 +22,7 @@ If you want to update the tables linked to the common dataset, you can **initiat
 
 ![Synchronization of a common dataset](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
 
-1. Click the **triangle icon to** the right of the name of a table created with a common dataset.
+1. Click the **triangle icon** to the right of the name of a table created with a common dataset.
 2. Click **Synchronize with record**.
 3. Click **Synchronize Now**.
 
@@ -35,7 +36,7 @@ If the synchronization is successful, the following message appears:
 
 ![Synchronization of a common dataset](images/Synchronisation-2.0.png)
 
-1. Click the **triangle icon to** the right of the name of a table created with a common dataset.
+1. Click the **triangle icon** to the right of the name of a table created with a common dataset.
 2. Click **Synchronize with record**.
 3. Click the **Enable automatic synchronization** button.
 4. Select whether automatic synchronization should be performed **daily** or **hourly**.
