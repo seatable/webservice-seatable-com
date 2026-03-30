@@ -1,5 +1,5 @@
 ---
-title: '¿Qué formatos de importación admite SeaTable? - Mesa de mar'
+title: '¿Qué formatos de importación admite SeaTable?'
 date: 2022-10-15
 lastmod: '2022-12-29'
 categories:

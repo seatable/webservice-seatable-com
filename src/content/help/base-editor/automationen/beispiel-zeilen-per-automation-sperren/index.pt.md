@@ -13,7 +13,7 @@ seo:
     description: 'Saiba como bloquear linhas via automação – defina acionadores, condições e restrinja edições nas tabelas facilmente para todo o time.'
 ---
 
-Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas mesas, mas pode ter [as linhas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).
+Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas tabelas, mas pode ter [as linhas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).
 
 ![Bloquear uma linha com uma automatização](images/lock-row-with-an-automation.png)
 

@@ -66,7 +66,7 @@ No total, tem à sua disposição **três** opções diferentes:
 
 {{< faq "Porque é que a pré-visualização de importação não mostra todos os valores?" >}}A pré-visualização da importação mostra que estruturas de dados são importadas para o SeaTable. No entanto, um máximo de **201 filas** são exibidas na **pré-visualização**.
 {{< /faq >}}
-{{< faq "Podem ser importadas múltiplas folhas de trabalho do Excel?" >}}SeaTable pode manusear várias folhas de trabalho e tenta converter cada folha de trabalho numa mesa.
+{{< faq "Podem ser importadas múltiplas folhas de trabalho do Excel?" >}}SeaTable pode manusear várias folhas de trabalho e tenta converter cada folha de trabalho numa tabela.
 {{< /faq >}}
 {{< faq "Porque é que a minha primeira linha não é importada?" >}}Os valores que se encontram na **primeira linha** de uma tabela Excel importada são sempre automaticamente utilizados como **nomes de colunas** pelo SeaTable e são, portanto, **removidos da** primeira linha durante a importação. Todos os outros dados na tabela são movidos para cima **numa linha**.
 {{< /faq >}}

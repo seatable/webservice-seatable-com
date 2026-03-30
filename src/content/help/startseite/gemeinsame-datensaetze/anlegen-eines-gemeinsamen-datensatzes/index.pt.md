@@ -25,9 +25,9 @@ Em cada base pertencente a um grupo, pode-se criar uma vista de tabela como um *
 ![Criação de um conjunto de dados comum](images/create-a-common-dataset-5.png)  
 ![Criação de um conjunto de dados comum](images/create-a-common-dataset-2-1.png)
 
-1. Abra qualquer **vista de mesa** numa Base que pertença a um dos seus grupos.
+1. Abra qualquer **vista de tabela** numa base que pertença a um dos seus grupos.
 2. Clique sobre os **três pontos**.
-3. Clique em **Publish as Shared Record (Publicar como Registo Partilhado**).
+3. Clique em **Publicar como Registo Partilhado**.
 4. **Nomear** o registo comum.
 5. Confirmar com **Submeter**.
 

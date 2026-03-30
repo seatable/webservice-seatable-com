@@ -55,7 +55,7 @@ Nas tabelas vazias, é claro que pode eliminar as colunas que não são necessá
 
 ## Execução condicional de acções de botão
 
-No nosso exemplo de aplicação, os convidados do sexo feminino devem ser copiados para a tabela "Convidados da festa da galinha" e os convidados do sexo masculino para a tabela "Convidados da festa do veado" quando o botão é premido. Para tal, cria-se **duas vezes a mesma ação**, que é equipada com **condições de fil** tragem opostas. Isto permite-lhe copiar os convidados para mesas diferentes, consoante o sexo, com um único botão.
+No nosso exemplo de aplicação, os convidados do sexo feminino devem ser copiados para a tabela "Convidados da festa da galinha" e os convidados do sexo masculino para a tabela "Convidados da festa do veado" quando o botão é premido. Para tal, cria-se **duas vezes a mesma ação**, que é equipada com **condições de fil** tragem opostas. Isto permite-lhe copiar os convidados para tabelas diferentes, consoante o sexo, com um único botão.
 
 ![Linhas copiadas por botão](images/Per-Schaltflaeche-kopierte-Zeilen.gif)
 

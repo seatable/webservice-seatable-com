@@ -1,5 +1,5 @@
 ---
-title: 'Introdução ao trabalho com bases e mesas'
+title: 'Introdução ao trabalho com bases e tabelas'
 date: 2023-01-07
 lastmod: '2023-03-24'
 categories:
@@ -19,7 +19,7 @@ Cada um dos ícones quadrados na sua página inicial representa uma **base**. É
 
 Uma Base representa uma **unidade** autónoma em SeaTable. Por conseguinte, deve conter toda a informação necessária para um projecto ou processo específico.
 
-Por exemplo, a base do seu pipeline de vendas pode conter tabelas separadas para leads, empresas e oportunidades de negócio. Da mesma forma, pode utilizar uma base para planear um casamento e depois criar mesas separadas para potenciais locais, participantes e listas de afazeres.
+Por exemplo, a base do seu pipeline de vendas pode conter tabelas separadas para leads, empresas e oportunidades de negócio. Da mesma forma, pode utilizar uma base para planear um casamento e depois criar tabelas separadas para potenciais locais, participantes e listas de afazeres.
 
 ## Criar uma nova base
 

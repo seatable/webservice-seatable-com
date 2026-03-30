@@ -109,7 +109,7 @@ O segundo dia dos SeaDays foi dedicado ao SeaTable e à sua vasta gama de aplica
 
 ### Automação inteligente no Colégio Johannes Fontanus
 
-No Colégio Johannes Fontanus, nos Países Baixos, o professor Ko Smidt revolucionou o **processo de correção dos exames finais** com a ajuda do SeaTable. Graças a uma automatização inteligente, podem agora ver onde estão os exames em qualquer altura e qual o seu estado - quer estejam na mesa de exames, na receção, a caminho de uma segunda correção noutra escola ou já de volta a casa. Esta transparência proporciona uma visão muito melhor de todo o processo de exame.
+No Colégio Johannes Fontanus, nos Países Baixos, o professor Ko Smidt revolucionou o **processo de correção dos exames finais** com a ajuda do SeaTable. Graças a uma automatização inteligente, podem agora ver onde estão os exames em qualquer altura e qual o seu estado - quer estejam na tabela de exames, na receção, a caminho de uma segunda correção noutra escola ou já de volta a casa. Esta transparência proporciona uma visão muito melhor de todo o processo de exame.
 
 Além disso, a atribuição de dispositivos de TI e a comunicação de danos nos dispositivos também foram organizadas através do SeaTable. Isto significa que o especialista em TI Matthis van Laar tem sempre uma visão geral de todos os processos e pode garantir que os problemas técnicos são tratados rapidamente e de forma estruturada.
 

@@ -83,4 +83,4 @@ Si el desbloqueo se ha realizado correctamente, aparecerá de nuevo un **cerrojo
 
 Tenga en cuenta que la cabecera bloqueada de las tablas que pertenecen a un grupo sólo puede ser desbloqueada de nuevo por **propietarios** y **administradores** del grupo. Los simples miembros del grupo **no** están autorizados a desbloquear y verán el siguiente mensaje cuando hagan clic en el símbolo del candado:
 
-![Nota para los miembros de grupos simples que no están autorizados a desbloquear la cabecera de una mesa](images/no-permission-to-unlock-head-of-a-table.png)
+![Nota para los miembros de grupos simples que no están autorizados a desbloquear la cabecera de una tabla](images/no-permission-to-unlock-head-of-a-table.png)

@@ -35,7 +35,7 @@ O menu pendente deu lugar a um novo assistente, detalhado e sensível ao context
 
 ![Novo assistente para ligação a outras colunas de registos](linking-dialog.png)
 
-O novo assistente simplifica a ligação de tabelas, mas isso não é a única coisa que pode fazer. Também podem ser criadas novas entradas na tabela ligada directamente a partir do mago. Sem mudar de mesa, sem orgias de clique e sem perda de tempo. Com o novo assistente, trabalha-se em duas mesas diferentes ao mesmo tempo.
+O novo assistente simplifica a ligação de tabelas, mas isso não é a única coisa que pode fazer. Também podem ser criadas novas entradas na tabela ligada directamente a partir do mago. Sem mudar de tabela, sem orgias de clique e sem perda de tempo. Com o novo assistente, trabalha-se em duas tabelas diferentes ao mesmo tempo.
 
 ### Potência total da base de dados
 
@@ -75,6 +75,6 @@ Reorganizámos a navegação do lado esquerdo na biblioteca da base. A nova nave
 
 Sobre o tema da síntese de actividades: Este menu em si é dificilmente reconhecível com o seu novo design. No passado, todas as actividades eram aqui listadas por ordem cronológica, sem qualquer outra estrutura. Com o aumento da intensidade de utilização, isto rapidamente se tornou confuso. A nova síntese de actividades mantém a estrutura cronológica básica, mas agrupa as actividades base por base, criando assim uma síntese muito melhor. Um clique sobre uma base abre os detalhes das alterações no dia seleccionado.
 
-Foram também feitas pequenas mas finas melhorias na vista da mesa. Quando se abre uma base pela primeira vez, a descrição da base é automaticamente chamada. Isto é muito útil quando se partilham bases com outros. Desta forma, os seus colegas recebem a informação que deseja que eles vejam antes de saltarem para os dados.
+Foram também feitas pequenas mas finas melhorias na vista da tabela. Quando se abre uma base pela primeira vez, a descrição da base é automaticamente chamada. Isto é muito útil quando se partilham bases com outros. Desta forma, os seus colegas recebem a informação que deseja que eles vejam antes de saltarem para os dados.
 
 Está interessado ou mesmo inspirado? Então de que é que está à espera? O registo é feito em pouco tempo e o SeaTable é permanentemente gratuito! Se tiver quaisquer perguntas ou dúvidas, ideias ou feedback, por favor escreva-nos ou deixe um comentário no [fórum](https://forum.seatable.com).

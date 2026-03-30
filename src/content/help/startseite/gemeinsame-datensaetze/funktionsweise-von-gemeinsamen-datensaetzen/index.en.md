@@ -5,11 +5,12 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/shared-datasets-how-they-work-seatable'
+url: '/help/common-datasets-how-they-work-seatable'
 aliases:
     - '/help/funktionsweise-von-gemeinsamen-datensaetzen'
+    - '/help/shared-datasets-how-they-work-seatable'
 seo:
-    title: 'How shared datasets work in SeaTable: full guide'
+    title: 'How common datasets work in SeaTable: full guide'
     description: 'Learn how to use, sync and share datasets across teams and bases in SeaTable, including templates, updates and top workflow scenarios.'
 star: true
 weight: 1
@@ -26,11 +27,11 @@ Compared to a [view]({{< relref "help/startseite/freigaben/freigabe-einer-ansich
 - The tables accessing a common dataset can be **synchronized** at any time, i.e. compared with the latest version of the data record (e.g. when new employees join or leave).
 - There is a top-down relationship here: changes to the common dataset are transferred to the dependent tables during synchronization. However, changes in these tables have **no** effect on the underlying data set.
 
-{{< warning headline="Shared Records and Big Data Backend" text="At this time, it is not possible to use shared records within a Big Data view." />}}
+{{< warning headline="Common datasets and Big Data storage" text="At this time, it is not possible to use common datasets within a Big Data view." />}}
 
-In the following overview you will also find the links to the various help articles in the Shared Records section.
+In the following overview you will also find the links to the various help articles in the common datasets section.
 
-## Creating a common dataset
+## Create a common dataset
 
 First, publish any table view along with its specific filtering and sorting conditions as a common dataset.
 
@@ -42,7 +43,7 @@ Would you like to change the name of a common dataset or know which bases are li
 
 [Find out more about managing a common dataset.]({{< relref "help/startseite/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes" >}})
 
-## Sharing a common dataset with another group
+## Share a common dataset with another group
 
 To be able to use a common dataset in other groups, you can share it with any group.
 
@@ -72,7 +73,7 @@ If you copy bases into which common datasets are integrated or restore them from
 
 [Here you can find out how to re-import common datasets into existing tables.]({{< relref "help/startseite/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen" >}})
 
-## Deleting a common dataset
+## Delete a common dataset
 
 Common datasets can, of course, also be deleted. However, be aware of the effects that a deletion has both on the data of the common dataset and on the tables that you and your group members have created with the common dataset.
 

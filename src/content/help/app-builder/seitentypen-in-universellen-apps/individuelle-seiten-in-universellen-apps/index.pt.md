@@ -157,7 +157,7 @@ Por exemplo, pode efetuar as seguintes definições para um **gráfico de barras
 
 Todas as alterações de configuração são efectuadas **em tempo real**, ou seja, o diagrama é atualizado imediatamente sempre que uma configuração é alterada. Isto permite-lhe ver imediatamente se alcançou o resultado desejado ou se precisa de fazer ajustes.
 
-### Mesa simples
+### Tabela simples
 
 Existe um tipo especial de estatísticas em páginas individuais: a **tabela simples** permite - à semelhança das [páginas de tabela]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) - a apresentação tabular de um conjunto de dados que foi pré-filtrado e pré-classificado pelo administrador da aplicação. Ao contrário da página de tabela, é possível combinar **várias tabelas** num único painel.
 

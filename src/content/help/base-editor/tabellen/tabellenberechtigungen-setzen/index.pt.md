@@ -1,5 +1,5 @@
 ---
-title: 'Definir permissões de mesa'
+title: 'Definir permissões de tabela'
 date: 2022-11-16
 lastmod: '2023-08-09'
 categories:
@@ -20,10 +20,10 @@ Com uma subscrição correspondente, tem a opção no SeaTable de restringir a u
 
 ## Definir permissões dentro de tabelas
 
-![Elegibilidade da mesa de jogo](images/Tabellenberechtigung-setzen-1.gif)
+![Elegibilidade da tabela de jogo](images/Tabellenberechtigung-setzen-1.gif)
 
 1. Clique no **ícone triangular** ao lado do nome da tabela.
-2. Seleccionar a opção **Edit Table Authorisation (Autorização da Tabela de Edição**).
+2. Seleccionar a opção **Edit Table Permission (Autorização da Tabela)**.
 3. Pode agora seleccionar nas seguintes linhas se pretende utilizar a autorização para **Administradores**, **Ninguém**, **Utilizador designado** ou **Cada** gostaria de emitir.
     - Quem pode acrescentar linhas?
     - Quem está autorizado a apagar linhas?

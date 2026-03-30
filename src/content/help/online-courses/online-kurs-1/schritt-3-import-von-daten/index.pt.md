@@ -17,11 +17,11 @@ seo:
 
 ## Eliminar os registos de dados antigos
 
-Mudar para a sua mesa `Expenses` e elimina todas as linhas introduzidas anteriormente. A sua tabela deve agora estar vazia.
+Mudar para a sua tabela `Expenses` e elimina todas as linhas introduzidas anteriormente. A sua tabela deve agora estar vazia.
 
 ## Importação de novos registos de dados
 
-O SeaTable oferece uma vasta gama de opções de importação. Pode importar bases inteiras como ficheiros .dtable, .csv ou .xlsx. Mas mesmo que já tenha uma base, pode escrever dados novos ou actualizados diretamente numa tabela. É exatamente isso que queremos fazer agora, utilizando um ficheiro CSV. Em alternativa, também poderíamos ter utilizado um ficheiro Excel.
+SeaTable oferece uma vasta gama de opções de importação. Pode importar bases inteiras como ficheiros .dtable, .csv ou .xlsx. Mas mesmo que já tenha uma base, pode escrever dados novos ou actualizados diretamente numa tabela. É exatamente isso que queremos fazer agora, utilizando um ficheiro CSV. Em alternativa, também poderíamos ter utilizado um ficheiro Excel.
 
 - Descarregue o seguinte ficheiro [expenses.csv](/expenses.csv)
 - Agora importe o ficheiro CSV para a tabela `Expenses`

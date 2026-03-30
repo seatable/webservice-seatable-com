@@ -1,5 +1,5 @@
 ---
-title: 'Partilhar uma visão com um membro da equipa'
+title: 'Partilhar uma vista com um membro da equipa'
 date: 2022-10-26
 lastmod: '2022-12-19'
 categories:
@@ -23,8 +23,8 @@ Se conceder a outro utilizador direitos de edição a uma visão partilhada, ele
 
 ![Partilhar uma visão com um membro da equipa](images/sharing-a-view-with-a-team-member-1.gif)
 
-1. Abra a **vista de** uma mesa que deseja partilhar.
-2. Clique em **Share View** e depois seleccione Share with **User**.
+1. Abra a **vista** de uma tabela que deseja partilhar.
+2. Clique em **Share View** e depois seleccione **Share with User**.
 3. Seleccione um **utilizador** a quem deseja partilhar a visão.
 4. No campo **Autorização**, decidir se o membro da sua equipa só pode ler a vista ou também editá-la.
 5. **Nomear a** libertação e confirmar com **Submeter**.
@@ -49,7 +49,7 @@ Se já não quiser partilhar uma vista de tabela com outro utilizador, pode apag
 
 ## Diferença entre partilhar uma base inteira e partilhar um ponto de vista
 
-Numa base há um total de dois **ícones de partilha** com os quais se pode partilhar tanto uma vista de base inteira como uma vista de mesa individual. Dependendo da sua função, encontrará estes ícones ou na área das **Opções Base** (aqui com fundo colorido) ou na área das **Opções de Visualização** (aqui branco):
+Numa base há um total de dois **ícones de partilha** com os quais se pode partilhar tanto uma vista de base inteira como uma vista de tabela individual. Dependendo da sua função, encontrará estes ícones ou na área das **Opções Base** (aqui com fundo colorido) ou na área das **Opções de Visualização** (aqui branco):
 
 ![Partilha de ícones numa base](images/share-icons-new-1.png)
 

@@ -17,7 +17,7 @@ Há várias maneiras de acrescentar uma **nova fila no** SeaTable. Aprenderá so
 
 ## Formas de criar uma nova fila
 
-A primeira opção é clicar no **símbolo de mais** na **coluna de numeração** no canto inferior esquerdo da sua mesa. Isto irá criar uma nova linha em branco na parte inferior da tabela.
+A primeira opção é clicar no **símbolo de mais** na **coluna de numeração** no canto inferior esquerdo da sua tabela. Isto irá criar uma nova linha em branco na parte inferior da tabela.
 
 ![Criar uma nova fila](images/create-new-row.png)
 

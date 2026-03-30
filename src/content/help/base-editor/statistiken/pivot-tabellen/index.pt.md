@@ -32,7 +32,7 @@ Para uma tabela pivot, são portanto necessárias pelo menos duas colunas. Teori
 3. Primeiro, seleccione a **tabela** relevante e a **vista** relevante no lado direito, depois a coluna para o agrupamento de linhas e a coluna para o agrupamento de colunas.
 4. Verá imediatamente uma tabela dinâmica em que os valores da tabela resultam do **número** de entradas: Quantas linhas têm a respectiva caraterística? Com o **campo Compactar**, é possível criar outras análises interessantes com pouco esforço.
 
-![Mesa pivotante](images/Pivot-Tabelle.png)
+![tabela pivot](images/Pivot-Tabelle.png)
 
-6. Finalmente, deve dar um nome à tabela pivot. Fá-lo clicando no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}} na parte superior esquerda da janela. Use um nome curto e conciso para acompanhar muitas tabelas pivot no seu tablier. Evidentemente, pode adaptar o nome mais tarde.
-7. Quando estiver satisfeito com a sua tabela pivot, basta fechar a janela clicando no **símbolo x** no canto superior direito e a tabela pivot que acabou de criar aparecerá no seu tablier. A partir daí, pode chamar, ajustar ou apagar a tabela pivot a qualquer momento.
+5. Finalmente, deve dar um nome à tabela pivot. Fá-lo clicando no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}} na parte superior esquerda da janela. Use um nome curto e conciso para acompanhar muitas tabelas pivot no seu tablier. Evidentemente, pode adaptar o nome mais tarde.
+6. Quando estiver satisfeito com a sua tabela pivot, basta fechar a janela clicando no **símbolo x** no canto superior direito e a tabela pivot que acabou de criar aparecerá no seu tablier. A partir daí, pode chamar, ajustar ou apagar a tabela pivot a qualquer momento.

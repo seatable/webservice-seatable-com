@@ -28,7 +28,7 @@ A primera vista, una base no es más que un **contenedor** para una o varias **t
 - Un [editor de formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) y [plugins]({{< relref "help/base-editor/ansichten" >}}) gráficos integrados
 - Opciones de integración sencillas gracias a la API REST
 
-Las bases son, por tanto, mucho más que "contenedores de mesa" en la web. Apreciará rápidamente estas ventajas y no querrá volver a prescindir de ellas.
+Las bases son, por tanto, mucho más que "contenedores de tablas" en la web. Apreciará rápidamente estas ventajas y no querrá volver a prescindir de ellas.
 
 ## Propietario de bases
 

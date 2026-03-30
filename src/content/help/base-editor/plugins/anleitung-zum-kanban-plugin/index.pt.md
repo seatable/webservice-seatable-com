@@ -62,7 +62,7 @@ As entradas na coluna que se introduz sob **Título** determinam o **título das
 ### Mais colunas
 
 ![Kanban plugin mais configurações](images/weitere-einsellungen-kanban.png)  
-Aqui todos **Colunas** que criou na sua mesa. Ao activar o indivíduo **Controlador** as entradas nas respectivas colunas tornam-se visíveis como notas informativas nos cartões.
+Aqui todos **Colunas** que criou na sua tabela. Ao activar o indivíduo **Controlador** as entradas nas respectivas colunas tornam-se visíveis como notas informativas nos cartões.
 
 {{< warning  headline="Nota"  text="Abra os **detalhes da fila** clicando num cartão para poder ver todas as informações de uma fila, mesmo que não estejam activadas no quadro Kanban." />}}
 

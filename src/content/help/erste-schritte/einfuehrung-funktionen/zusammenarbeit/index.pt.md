@@ -53,7 +53,7 @@ As bases não podem ser partilhadas apenas com outros utilizadores de SeaTable. 
 
 ## Comentários
 
-Para manter as discussões onde elas pertencem, pode [comentar sobre]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) cada entrada da mesa. Os membros do grupo e outras pessoas com acesso à base são informados sobre os comentários e podem responder. Isto mantém toda a discussão sobre um tópico directamente na Base. A procura de uma discussão em e-mails antigos, chat ou actas é coisa do passado.
+Para manter as discussões onde elas pertencem, pode [comentar sobre]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) cada linha da tabela. Os membros do grupo e outras pessoas com acesso à base são informados sobre os comentários e podem responder. Isto mantém toda a discussão sobre um tópico directamente na Base. A procura de uma discussão em e-mails antigos, chat ou actas é coisa do passado.
 
 ## Notificações
 

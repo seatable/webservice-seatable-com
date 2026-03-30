@@ -17,8 +17,8 @@ Antes de poder mapear um novo processo empresarial no SeaTable, é necessário c
 
 Como este curso é sobre a gestão de serviços em linha, precisamos de duas tabelas centrais:
 
-- Um quadro para registar as ofertas de cursos
-- Uma mesa para os participantes
+- Uma tabela para registar as ofertas de cursos
+- Uma tabela para os participantes
 
 No primeiro curso, já aprendeu a criar uma base com diferentes tipos de colunas. Por isso, vamos saltar esta etapa e começar diretamente com uma base preparada.
 

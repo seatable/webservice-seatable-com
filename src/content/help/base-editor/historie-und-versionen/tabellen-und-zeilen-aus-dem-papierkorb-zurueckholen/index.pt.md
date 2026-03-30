@@ -16,7 +16,7 @@ seo:
 
 Pode encontrar e restaurar tabelas, filas e colunas eliminadas em qualquer altura no caixote da reciclagem da respectiva base. Não é preciso ter medo de perder dados, porque dentro das bases, tabelas, linhas e colunas apagadas permanecem disponíveis indefinidamente.
 
-## Recuperar mesas, linhas e colunas da lixeira de reciclagem
+## Recuperar tabelas, linhas e colunas da lixeira de reciclagem
 
 ![Lixo nas versões da base com lista de itens apagados](images/Screenshot-from-2022-10-27-12-04-15.png)
 

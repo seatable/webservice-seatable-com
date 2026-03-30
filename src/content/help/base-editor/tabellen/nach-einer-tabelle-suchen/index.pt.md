@@ -1,5 +1,5 @@
 ---
-title: 'Procurar uma mesa'
+title: 'Procurar uma tabela'
 date: 2025-02-27
 lastmod: '2025-02-27'
 categories:

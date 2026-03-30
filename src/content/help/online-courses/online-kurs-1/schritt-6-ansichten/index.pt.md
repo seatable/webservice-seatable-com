@@ -23,7 +23,7 @@ Por exemplo, pode criar uma vista que mostre apenas as despesas superiores a 100
 
 ## Criar uma vista adicional com um agrupamento
 
-Mudar para a mesa `Expenses` e criar uma nova vista. Escolha um nome que indique claramente o objetivo da vista, como por exemplo `Group by date and category`.
+Mudar para a tabela `Expenses` e criar uma nova vista. Escolha um nome que indique claramente o objetivo da vista, como por exemplo `Group by date and category`.
 
 Cada vista recém-criada não contém inicialmente quaisquer agrupamentos, ordenação ou filtros. Agora queremos mudar isso:
 

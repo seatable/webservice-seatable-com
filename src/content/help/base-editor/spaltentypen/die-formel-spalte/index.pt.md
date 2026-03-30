@@ -73,7 +73,7 @@ Seguem-se alguns exemplos que ilustram a utilidade e a utilização de fórmulas
 
 Evidentemente, pode confiar no facto de que as convenções matemáticas também são aplicadas nas fórmulas de SeaTable. Aqui estão os exemplos mais importantes:
 
-- Pode **aninhar\*\***funções\*\* umas dentro das outras com parênteses. Exemplo: (( 1 + 2 ) \* 3)
+- Pode **aninhar funções** umas dentro das outras com parênteses. Exemplo: (( 1 + 2 ) \* 3)
 - **O ponto antes do traço**, a **ordem dos parêntesis** e outras **regras matemáticas** são tidas em conta no SeaTable.
 
 ## Formatação da coluna de fórmulas

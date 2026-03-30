@@ -54,11 +54,11 @@ Pode sincronizar cada tabela que tenha criado com um conjunto de dados comum. Se
 
 [Saiba mais sobre a sincronização de um conjunto de dados partilhados.]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}})
 
-## Criar uma nova mesa com um registo comum
+## Criar uma nova tabela com um registo comum
 
 Se você ou os membros da sua equipa quiserem utilizar um conjunto de dados comum, podem importá-lo para uma base. Para o fazer, criar uma nova tabela com o conjunto de dados partilhados.
 
-[Saiba mais sobre a criação de uma nova mesa com um registo comum.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
+[Saiba mais sobre a criação de uma nova tabela com um registo comum.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
 
 ## Adicionar colunas a uma tabela criada com um registo comum
 

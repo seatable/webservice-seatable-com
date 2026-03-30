@@ -21,11 +21,11 @@ Si nombra las tablas con **emojis** coincidentes en lugar de términos, la **anc
 
 ¿Qué tal, por ejemplo, símbolos para entrevistas de trabajo (como un globo de diálogo), solicitudes de vacaciones (como una cara sonriente con gafas de sol) y nóminas (como una bolsa de dinero) para la base de un departamento de Recursos Humanos?
 
-![Nombres de mesa con emojis](images/Tabellennamen-mit-Emojis.png)
+![Nombres de tabla con emojis](images/Tabellennamen-mit-Emojis.png)
 
-¡Pruébalo! Copia un **emoji** que coincida con tu tabla e insértalo en el **nombre de la tabla**.
+¡Pruébelo! Copie un **emoji** que coincida con su tabla e insértelo en el **nombre de la tabla**.
 
-{{< warning  headline="Consejo"  text="Puedes encontrar una gran selección de emojis diferentes en [emojiterra.com](https://emojiterra.com) o [emojipedia.org](https://emojipedia.org/), por ejemplo." />}}
+{{< warning  headline="Consejo"  text="Puede encontrar una gran selección de emojis diferentes en [emojiterra.com](https://emojiterra.com) o [emojipedia.org](https://emojipedia.org/), por ejemplo." />}}
 
 ## Cambiar el nombre de la tabla e insertar emoji
 
@@ -34,10 +34,10 @@ Si nombra las tablas con **emojis** coincidentes en lugar de términos, la **anc
 - Haga clic en la **flecha desplegable** situada a la derecha del nombre de la tabla que desea modificar.
 - En el menú desplegable que se abre, haga clic en **Renombrar tabla**.
 - Borre el **nombre de la tabla** anterior del campo de entrada.
-- Copia un **emoji** y pégalo en el **campo de entrada**.
+- Copie un **emoji** y péguelo en el **campo de entrada**.
 - Confirme con **Enviar**.
 
-{{< warning  headline="Consejo"  text="En los dispositivos con **sistema operativo Windows**, puedes utilizar una combinación de teclas para abrir la **selección de emoji** de Windows. Mantén pulsada la **tecla Windows** y toca la tecla con la que puedes poner un **punto** o dos puntos." />}}
+{{< warning  headline="Consejo"  text="En los dispositivos con **sistema operativo Windows**, puedes utilizar una combinación de teclas para abrir la **selección de emoji** de Windows. Mantenga pulsada la **tecla Windows** y toque la tecla con la que puede poner un **punto** o dos puntos." />}}
 
 ## Añadir nueva tabla con emoji
 
@@ -46,7 +46,7 @@ Si nombra las tablas con **emojis** coincidentes en lugar de términos, la **anc
 - Haga clic en el **signo más** situado a la derecha de la última pestaña de la tabla.
 - En el menú desplegable que se abre, haga clic en **Añadir tabla**.
 - Borre el **nombre de la tabla** anterior del campo de entrada.
-- Copia un **emoji** y pégalo en el **campo de entrada**.
+- Copie un **emoji** y péguelo en el **campo de entrada**.
 - Confirme con **Enviar**.
 
-{{< warning  headline="Consejo"  text="En los dispositivos con **sistema operativo Windows**, puedes utilizar una combinación de teclas para abrir la **selección de emoji** de Windows. Mantén pulsada la **tecla Windows** y toca la tecla con la que puedes poner un **punto** o dos puntos." />}}
+{{< warning  headline="Consejo"  text="En los dispositivos con **sistema operativo Windows**, puede utilizar una combinación de teclas para abrir la **selección de emoji** de Windows. Mantenga pulsada la **tecla Windows** y toque la tecla con la que puede poner un **punto** o dos puntos." />}}

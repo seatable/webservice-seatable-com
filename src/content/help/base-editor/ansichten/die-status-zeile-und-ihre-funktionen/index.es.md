@@ -14,7 +14,7 @@ seo:
 weight: 30
 ---
 
-La **barra de estado** se encuentra en la parte inferior de sus mesas y cumple básicamente dos funciones diferentes, que se explican con más detalle en este artículo:
+La **barra de estado** se encuentra en la parte inferior de sus tablas y cumple básicamente dos funciones diferentes, que se explican con más detalle en este artículo:
 
 - **Función 1**: Contar las filas de una vista
 - **Función 2**: Indicación de un valor calculado a partir de todas las entradas (por ejemplo, suma, media, etc.) en el caso de columnas numéricas.

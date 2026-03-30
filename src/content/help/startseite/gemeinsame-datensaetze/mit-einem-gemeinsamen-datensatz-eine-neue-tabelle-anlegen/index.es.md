@@ -28,8 +28,8 @@ Para poder crear una nueva tabla en una base con un registro de datos compartido
 
 ![Crear una nueva tabla con un registro común](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
-1. Abra una **mesa** que esté en una base que cumpla uno de los **requisitos** descritos anteriormente.
-2. Haga clic en el **símbolo \[+**\] para crear una nueva tabla.
+1. Abra una **tabla** que esté en una base que cumpla uno de los **requisitos** descritos anteriormente.
+2. Haga clic en el **símbolo más** para crear una nueva tabla.
 3. Haga clic en **Importar registro compartido**.
 4. Seleccione un **registro común**.
 5. A continuación, el conjunto de datos comunes se importa a su Base como una **nueva tabla**.

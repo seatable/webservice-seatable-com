@@ -23,7 +23,7 @@ Por lo tanto, este capítulo le dará una primera visión de las posibilidades d
 - la facilidad para analizar y evaluar estadísticamente los datos y
 - las diversas opciones de visualización que ofrece SeaTable.
 
-## Bases y mesas
+## Bases y tablas
 
 Las bases y tablas son las unidades organizativas centrales de SeaTable. Aprenda los fundamentos del [trabajo con]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) bases y tablas y cómo son superiores a las hojas de cálculo clásicas.
 

@@ -55,7 +55,7 @@ Por supuesto, en las tablas vacías puede eliminar las columnas que no sean nece
 
 ## Ejecución condicional de las acciones de los botones
 
-En nuestro ejemplo de aplicación, cuando se pulsa el botón, las invitadas femeninas deben copiarse en la tabla "Invitadas a la despedida de soltera" y los invitados masculinos en la tabla "Invitados a la despedida de soltero". Para ello, cree **dos veces la misma acción**, a la que equipará con **condiciones de filtro** opuestas. Esto le permite copiar los invitados a diferentes mesas en función de su sexo con un solo botón.
+En nuestro ejemplo de aplicación, cuando se pulsa el botón, las invitadas femeninas deben copiarse en la tabla "Invitadas a la despedida de soltera" y los invitados masculinos en la tabla "Invitados a la despedida de soltero". Para ello, cree **dos veces la misma acción**, a la que equipará con **condiciones de filtro** opuestas. Esto le permite copiar los invitados a diferentes tablas en función de su sexo con un solo botón.
 
 ![Líneas copiadas por botón](images/Per-Schaltflaeche-kopierte-Zeilen.gif)
 

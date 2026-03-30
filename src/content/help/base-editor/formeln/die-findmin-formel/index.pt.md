@@ -19,7 +19,7 @@ A fórmula Findmin só funciona com **valores numéricos**, razão pela qual o c
 
 ## Para que precisa da fórmula Findmin
 
-A **função Findmin** deve ser utilizada quando se pretende **cruzar os** valores numéricos armazenados em diferentes tabelas. Digamos que utiliza o SeaTable para recolher as **horas de trabalho dos** seus empregados, onde uma mesa armazena os empregados e outra mesa armazena a actividade diária. Pode então ligar cada registo de empregado às horas de trabalho introduzidas.
+A **função Findmin** deve ser utilizada quando se pretende **cruzar os** valores numéricos armazenados em diferentes tabelas. Digamos que utiliza o SeaTable para recolher as **horas de trabalho dos** seus empregados, onde uma tabela armazena os empregados e outra tabela armazena a actividade diária. Pode então ligar cada registo de empregado às horas de trabalho introduzidas.
 
 ![fórmula de minas finas](images/findmax-1.png)
 

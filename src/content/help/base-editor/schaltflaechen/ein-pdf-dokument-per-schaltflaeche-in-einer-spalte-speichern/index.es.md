@@ -17,9 +17,9 @@ Con la ayuda de un **botón** puedes guardar documentos PDF en columnas de archi
 
 ## Guardar documentos PDF mediante un botón en una columna
 
-Los botones permiten guardar documentos PDF en las [columnas de archivo de]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) las mesas. La acción está disponible al crear un botón en cuanto haya configurado el [complemento de diseño de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) en la tabla correspondiente.
+Los botones permiten guardar documentos PDF en las [columnas de archivo]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) de las tablas. La acción está disponible al crear un botón en cuanto haya configurado el [complemento de diseño de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) en la tabla correspondiente.
 
-En el primer paso, nombra la **columna** y establece la **etiqueta** y el **color** del botón que quieres añadir a tus filas.
+En el primer paso, nombre la **columna** y establezca la **etiqueta** y el **color** del botón que quiere añadir a sus filas.
 
 ![Nombrar la línea, etiquetar y seleccionar el color del botón](images/name-button-and-select-colour.png)
 

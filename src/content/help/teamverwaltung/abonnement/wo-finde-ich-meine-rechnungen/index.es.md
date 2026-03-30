@@ -1,5 +1,5 @@
 ---
-title: '¿Dónde puedo encontrar mis facturas? - Mesa de mar'
+title: '¿Dónde puedo encontrar mis facturas?'
 date: 2023-01-13
 lastmod: '2023-01-28'
 categories:

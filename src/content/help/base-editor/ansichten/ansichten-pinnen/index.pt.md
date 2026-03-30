@@ -14,9 +14,9 @@ seo:
 weight: 8
 ---
 
-Em cada mesa tem a opção de exibir permanentemente todas as [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) disponíveis numa **barra de navegação** na margem esquerda. Isto faz sentido especialmente se alternar frequentemente entre vistas e um **acesso rápido** torna isto mais eficiente.
+Em cada tabela tem a opção de exibir permanentemente todas as [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) disponíveis numa **barra de navegação** na margem esquerda. Isto faz sentido especialmente se alternar frequentemente entre vistas e um **acesso rápido** torna isto mais eficiente.
 
-Uma navegação fixada continua visível mesmo que se desloque para a direita dentro de uma mesa. Desta forma, pode facilmente comparar entradas em diferentes vistas.
+Uma navegação fixada continua visível mesmo que se desloque para a direita dentro de uma tabela. Desta forma, pode facilmente comparar entradas em diferentes vistas.
 
 ## Para mostrar e ocultar a navegação de vistas
 
