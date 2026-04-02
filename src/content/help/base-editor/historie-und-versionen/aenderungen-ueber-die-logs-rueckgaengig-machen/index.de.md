@@ -20,7 +20,7 @@ Sie öffnen die Logs wie den Papierkorb über das Versionen-Icon in der rechten 
 
 ![Logs in der Base öffnen](images/Logs-in-der-Base-oeffnen.png)
 
-In dem sich öffnenden Panel finden Sie in antichronologischer Reihenfolge die jüngsten Änderungen, die in der Base vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
+In dem sich öffnenden Panel finden Sie **in antichronologischer Reihenfolge** die jüngsten Änderungen, die in der Base vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
 
 - Name des Bearbeiters
 - Art der Änderung
@@ -32,13 +32,17 @@ In dem sich öffnenden Panel finden Sie in antichronologischer Reihenfolge die j
 
 ## Ältere Log-Einträge laden
 
-Wenn in einer Base intensiv gearbeitet wird, dann enthält das Log sehr viele Einträge und es kann nötig werden, dass Sie **im Log nach unten scrollen**. Die Liste der Einträge lädt sich nämlich beim Öffnen nicht in voller Länge. Durch das Herunterscrollen werden sukzessive ältere Einträge des Logs nachgeladen, die Sie dann durchsuchen können.
+Wenn in einer Base intensiv gearbeitet wird, dann enthält das Log sehr viele Einträge und es kann nötig werden, dass Sie **im Log nach unten scrollen**. Durch das Herunterscrollen werden sukzessive ältere Einträge des Logs nachgeladen, die Sie dann durchsuchen können.
 
-Pro Base können Sie maximal die letzten 1.000 Einträge im Log einsehen. Die Dokumentation von noch weiter in der Vergangenheit liegenden Änderungen wird gelöscht und üblicherweise auch nicht mehr benötigt.
+Pro Base können Sie **maximal die letzten 1.000 Einträge** im Log einsehen. Die Dokumentation von noch weiter in der Vergangenheit liegenden Änderungen wird gelöscht und üblicherweise auch nicht mehr benötigt.
+
+## Log-Einträge filtern
+
+Wenn Sie in einer Base mit vielen Nutzern bestimmte Änderungen nachverfolgen oder rückgängig machen möchten, wird es schnell unübersichtlich. Um eingrenzen zu können, wer wo und wann Änderungen vorgenommen hat, lassen sich die Logs nach **Benutzer**, **Tabelle** und **Zeitraum** filtern. Es sind auch kombinierte Filter möglich.
 
 ## Änderungen rückgängig machen
 
-Sie können eine Änderung rückgängig machen, indem Sie über das **Drei-Punkte-Icon** im Log-Eintrag auf **Wiederherstellen** klicken. Die Wiederherstellung wird sofort in der entsprechenden Tabelle ausgeführt und mit einer kurzen Meldung bestätigt.
+Sie können eine Änderung rückgängig machen, indem Sie über das **Drei-Punkte-Icon** am rechten Rand des Log-Eintrags auf **Wiederherstellen** klicken. Die Wiederherstellung wird sofort in der entsprechenden Tabelle ausgeführt und mit einer kurzen Meldung bestätigt.
 
 Eine rückgängig gemachte Aktion bleibt weiterhin in dem Log dokumentiert, kann aber nicht erneut ausgeführt werden. Ein entsprechender Versuch wird mit einer Fehlermeldung quittiert.
 

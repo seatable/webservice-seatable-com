@@ -19,7 +19,9 @@ SeaTable speichert sämtliche Veränderungen, die in einer Base vorgenommen werd
 2. Klicken Sie im geöffneten Fenster **Zeilendetails** auf das viereckige **Tür-Symbol** in der rechten oberen Ecke.
 3. Das Fenster erweitert sich. Klicken Sie rechts neben den Kommentaren auf **Logs**.
 
-![Anzeige der Veränderungen in einer Zeile durch Logs.](images/Logs.png) Im Zeilen-Log finden Sie in antichronologischer Reihenfolge die jüngsten Änderungen, die in der Zeile vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
+![Anzeige der Veränderungen in einer Zeile durch Logs.](images/Logs.png)
+
+Im Zeilen-Log finden Sie in antichronologischer Reihenfolge die jüngsten Änderungen, die in der Zeile vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
 
 - Name des Bearbeiters
 - Zeitpunkt der Änderung
