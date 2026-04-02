@@ -21,7 +21,8 @@ SeaTable enregistre toutes les modifications effectuées dans une base. Au sein 
 2. Dans la fenêtre **Détails de la ligne** ouverte, cliquez sur l'**icône de porte** carrée dans le coin supérieur droit.
 3. La fenêtre s'agrandit. Cliquez sur **Logs** à droite des commentaires.
 
-![Affichage des changements sur une ligne par des logs.](images/Logs.png)  
+![Affichage des changements sur une ligne par des logs.](images/Logs.png)
+
 Dans le journal de ligne, vous trouverez, par ordre antichronologique, les modifications les plus récentes qui ont été apportées à la ligne. Chaque entrée du journal contient les informations suivantes :
 
 - Nom de l'agent

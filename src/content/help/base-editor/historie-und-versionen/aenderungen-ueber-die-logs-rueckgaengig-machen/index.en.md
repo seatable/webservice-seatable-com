@@ -22,9 +22,9 @@ You open the logs like the trash via the versions icon in the upper right corner
 
 ![Open logs in base](images/Logs-in-der-Base-oeffnen.png)
 
-In the panel that opens you will find, in antichronological order, the most recent changes made in the base. Each log entry contains the following information:
+In the panel that opens you will find, **in antichronological order**, the most recent changes made in the base. Each log entry contains the following information:
 
-- Name of the processor
+- Name of the creator
 - Nature of the change
 - Table concerned
 - Date of the change
@@ -34,13 +34,17 @@ In the panel that opens you will find, in antichronological order, the most rece
 
 ## Load older log entries
 
-When working intensively in a base, the log contains a lot of entries and it may be necessary to **scroll down the log**. This is because the list of entries does not load in full when you open it. By scrolling down, older entries of the log are successively reloaded, which you can then search.
+When working intensively in a base, the log contains a lot of entries and it may be necessary to **scroll down the log**. By scrolling down, older entries of the log are successively reloaded, which you can then search.
 
-For each base, you can view a maximum of the last 1,000 entries in the log. The documentation of changes even further in the past is deleted and usually no longer needed.
+For each base, you can view **a maximum of the last 1,000 entries** in the log. The documentation of changes even further in the past is deleted and usually no longer needed.
+
+## Filter log entries
+
+If you want to track or undo specific changes in a base with many users, things can quickly become confusing. To narrow down who made changes, where, and when, you can filter the logs by **creator**, **table**, and **time period**. Combined filters are also available.
 
 ## Undo changes
 
-You can undo a change by clicking **Restore** via the **three-dot icon** in the log entry. The restore is immediately executed in the corresponding table and confirmed with a short message.
+You can undo a change by clicking **Restore** via the **three-dot icon** on the right edge of the log entry. The restore is immediately executed in the corresponding table and confirmed with a short message.
 
 An undone action remains documented in the log, but cannot be executed again. A corresponding attempt is acknowledged with an error message.
 

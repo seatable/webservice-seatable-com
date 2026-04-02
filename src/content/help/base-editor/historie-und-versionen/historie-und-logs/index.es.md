@@ -42,9 +42,9 @@ Haga clic en **Detalles** para visualizar los cambios correspondientes en una ve
 
 ![Vista detallada de las entradas añadidas o eliminadas de una base en el registro de actividades.](images/activity-details.png)
 
-## Registro base
+## Registro de la base
 
-Puede consultar todas las actividades realizadas en una base en el denominado **registro de** la base, al que puede acceder a través de la cabecera de la base.
+Puede consultar todas las actividades realizadas en una base en el denominado **registro de la base**, al que puede acceder a través de la cabecera de la base.
 
 ![Abrir registros en Base](images/Logs-in-der-Base-oeffnen.png)
 
@@ -52,7 +52,7 @@ En el registro de una base, encontrará los cambios más recientes que se han re
 
 - Nombre del editor
 - Naturaleza del cambio
-- Cuadro correspondiente
+- Tabla correspondiente
 - Fecha del cambio
 - Descripción del cambio
 
@@ -64,23 +64,23 @@ Para aumentar la trazabilidad de los cambios en las filas de la [memoria de big 
 
 ![Registro de Big Data](images/Big-Data-Log.png)
 
-{{< warning  headline="Explicado de forma sencilla"  text="Si quieres ver no sólo los cambios en **una** base, sino también una visión general de lo que está pasando en **todas tus bases**, entonces mira el registro de **actividad** en la página de inicio. Si te interesan los cambios en un **registro** exactamente, mira el registro **de filas**." />}}
+{{< warning  headline="Explicado de forma sencilla"  text="Si quiere ver no sólo los cambios en **una** base, sino también una visión general de lo que está pasando en **todas sus bases**, entonces mira el registro de **actividad** en la página de inicio. Si le interesan los cambios en un **registro** exactamente, mire el **registro de filas**." />}}
 
-## Registro de líneas
+## Registro de filas
 
 Puede ver todos los cambios realizados en una fila en el denominado **registro de filas**, al que puede acceder haciendo clic en el **símbolo de la doble flecha** situado en la columna de numeración de una fila.
 
-![Abrir el registro de líneas](images/how-to-open-the-cell-log.jpg)
+![Abrir el registro de filas](images/how-to-open-the-cell-log.jpg)
 
-El registro de **línea** le permite ver cuándo qué usuario realizó qué cambio en el registro de una **línea**. Si en cambio desea ver todos los cambios en una base, debe utilizar el registro de **base**.
+El registro de **fila** le permite ver cuándo qué usuario realizó qué cambio en el registro de una **fila**. Si en cambio desea ver todos los cambios en una base, debe utilizar el registro de **base**.
 
-![Visualización de los cambios en una línea por registros.](images/Logs.png)
+![Visualización de los cambios en una fila por registros.](images/Logs.png)
 
-Si necesita más información sobre el registro de líneas, consulte el [artículo de ayuda]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondiente.
+Si necesita más información sobre el registro de filas, consulte el [artículo de ayuda]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondiente.
 
 ## Registro de ejecución de automatizaciones
 
-Para comprobar la correcta ejecución de una **automatización**, tienes la posibilidad de ver el **registro de ejecución**, al que puedes acceder a través de las opciones de la Base.
+Para comprobar la correcta ejecución de una **automatización**, tiene la posibilidad de ver el **registro de ejecución**, al que puede acceder a través de las opciones de la base.
 
 ![Mostrar registro de ejecución](images/open-an-automation-log.png)
 
@@ -92,7 +92,7 @@ Puede encontrar más información sobre el registro de ejecución de una automat
 
 ## Registro de ejecución de scripts
 
-Los scripts creados en tus bases también tienen un **registro de ejecución al que** puedes acceder a través de las opciones de la base.
+Los scripts creados en sus bases también tienen un **registro de ejecución al que** puede acceder a través de las opciones de la base.
 
 ![Abrir el registro de ejecución](images/Anlegen-eines-Skriptes.jpg)
 
@@ -100,4 +100,4 @@ En el registro de ejecución encontrará diversa información útil, como la hor
 
 ![Información que se encuentra en el registro de ejecución de un script](images/information-in-a-script-log.png)
 
-Si necesitas más información sobre el registro de ejecución de scripts, no dudes en echar un vistazo a este [artículo de ayuda]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).
+Si necesita más información sobre el registro de ejecución de scripts, no dude en echar un vistazo a este [artículo de ayuda]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).
