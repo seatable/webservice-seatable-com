@@ -1,9 +1,9 @@
 ---
-title: 'Airtable alternativa número 1 (na nuvem e no local)'
+title: 'Alternativa n.º 1 ao Airtable (na nuvem e no local)'
 description: ''
 seo:
     title: 'A melhor alternativa ao Airtable para a sua empresa'
-    description: 'O SeaTable é a alternativa poderosa ao Airtable para equipas de qualquer tamanho. Descubra bases de dados flexíveis, fluxos de trabalho e integração de IA.'
+    description: 'O SeaTable é uma poderosa alternativa ao Airtable para equipas de todas as dimensões. Descubra bases de dados flexíveis, fluxos de trabalho e integração com IA'
 date: '2025-05-02'
 url: '/pt/alternativa-airtable'
 aliases:
@@ -12,34 +12,115 @@ aliases:
 sections:
     - name: hero-5
       weight: 1
-      title: A melhor alternativa ao Airtable para a sua empresa
-      text: Com o SeaTable, você opta por uma solução de IA sem código que oferece **máxima flexibilidade, os mais altos padrões de proteção de dados e uma excelente relação custo-benefício**. Quer esteja à procura de uma alternativa económica ao Airtable, precise de uma solução auto-hospedada, queira trabalhar com fluxos de trabalho baseados em IA ou trabalhe numa equipa internacional, o SeaTable é a melhor alternativa ao Airtable. O SeaTable oferece uma opção local, tem menos restrições técnicas e está disponível em mais idiomas. Com um foco claro na flexibilidade e proteção de dados, o SeaTable destaca-se de todos os concorrentes do Airtable, especialmente se estiver à procura de uma alternativa local ao Airtable. Especialmente para empresas na UE, o SeaTable é a solução sem código por excelência e a alternativa mais segura, uma vez que o Airtable não consegue cumprir totalmente o RGPD.
+      title: A poderosa alternativa ao AirTable – em conformidade com o RGPD
+      text: O Airtable torna-se rapidamente dispendioso para equipas em crescimento e oferece um apoio ao cliente que é amplamente considerado inadequado. O SeaTable, uma alternativa ao Airtable, oferece as mesmas funcionalidades de base de dados, mas **a preços justos e com mais funcionalidades desde o início**. Está em conformidade com o RGPD, com servidores localizados na Alemanha, e está **também disponível como solução auto-hospedada**, mediante pedido.
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
       buttons:
-          - label: Cadastre-se gratuitamente e comece agora
+          - label: Registe-se gratuitamente agora e comece já
             link: 'pages/registration'
             style: primary
 
-    - name: 'price-comparision'
+    - name: "content-4"
+      weight: 2
+      title: 6 razões pelas quais as equipas escolhem o SeaTable como alternativa ao AirTable
+      subtitle: As vantagens do SeaTable 
+      text: 
+      items:
+      - icon: edit
+        headline: Migração simples
+        text: "Para migrar bases do Airtable para o SeaTable, basta ter o ID da base do Airtable e um token de acesso pessoal. O resto é feito automaticamente."
+
+      - icon: terminal
+        headline: Na nuvem ou no local
+        text: "Enquanto o Airtable é uma solução exclusivamente na nuvem, com o SeaTable pode optar entre uma solução na nuvem e um sistema auto-hospedado."
+
+      - icon: expand
+        headline: Mais funções desde o início
+        text: "Utilização da API, automatizações, visualizações cronológicas ou scripts: com o SeaTable, tem acesso a todas estas funções — mesmo com uma conta gratuita."  
+      
+      - icon: eye
+        headline: Equidade e transparência
+        text: "O SeaTable é conhecido pela sua política de preços transparente, pelo elevado nível de satisfação dos clientes e por uma comunidade ativa."
+
+      - icon: robot
+        headline: Automação baseada em IA
+        text: "Aproveite as automatizações de IA integradas para otimizar os fluxos de trabalho, ou utilize o nosso plugin de chat com IA para integrar o seu próprio LLM."
+      
+      - icon: shield
+        headline: Em conformidade com o RGPD
+        text: "O SeaTable oferece, por predefinição, o mais elevado nível de proteção de dados. O SeaTable Cloud e o SeaTable AI estão alojados em servidores na Alemanha."
+    
+    - name: content-12
       weight: 3
-      title: SeaTable vs. Airtable – Pricing, proteção de dados e limites
-      description: Aqui pode ver uma comparação das versões em nuvem do Airtable Team e do SeaTable Enterprise. SeaTable oferece servidores europeus na nuvem e também uma versão auto-hospedada, o que o torna a alternativa lógica ao Airtable para requisitos de segurança mais elevados.
+      classes:
+          - curved
+      title: A alternativa mais interessante ao Airtable para a sua empresa
+      subtitle: Bom, melhor, SeaTable
+      description: 'Existem muitas alternativas ao Airtable. A [solução no-code e baseada em IA, SeaTable]({{< relref "/" >}}) destaca-se pelo seu **foco muito claro na flexibilidade, na satisfação do cliente e em elevados padrões de proteção de dados**. Se já [adquiriu experiência com o Airtable]({{< relref "posts/airtable" >}}), irá rapidamente notar a diferença. E para empresas sediadas na UE, o SeaTable é a alternativa mais segura ao Airtable, uma vez que este último não consegue cumprir integralmente o RGPD.'
+      items:
+          - text: '**Verdadeira colaboração em equipa** graças a atualizações em tempo real, notificações integradas e uma funcionalidade de chat'
+          - text: '**Estruturas de dados flexíveis e personalizáveis** e processos adaptados às suas necessidades'
+          - text: '**Disponível em vários idiomas**: alemão, inglês, espanhol, francês, português, russo e chinês'
+          - text: 'Os dados na nuvem estão alojados **exclusivamente em servidores europeus**'
+          - text: '**Servidor dedicado de IA** para máxima proteção de dados e conformidade' 
+      image: /images/landing_page_airtable_01.png
+      image_alt: 'Interface SeaTable para a recolha de dados estruturados'        
+
+    - name: customer-3
+      title: Centenas de milhares de pessoas estão satisfeitas com a alternativa ao Airtable
+      subtitle: O que dizem os utilizadores do SeaTable
+      weight: 5
+
+    - name: "content-6"
+      weight: 6
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'O SeaTable é a alternativa ao Airtable que cresce à medida que a sua equipa cresce'
+      subtitle: Simples, justo, fiável
+      items:
+      - text: 'Comece gratuitamente com o [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) e veja como é fácil utilizar uma poderosa base de dados no-code. Os utilizadores do SeaTable apreciam especialmente a transparência dos preços, **as funcionalidades poderosas incluídas em todas as subscrições, a [comunidade dinâmica](https://forum.seatable.com/) e o apoio** que está sempre à sua disposição. E se pretender ter controlo total sobre os seus dados, utilize o [SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}). Não encontrará este pacote completo no AirTable.'
+      image: '/images/landing_page_airtable_02.png'
+      image_alt: 'Painel de análise de aplicações no SeaTable, a alternativa ao AirTable.'
+
+    - name: content-12
+      weight: 7
+      classes:
+          - curved
+      title: O SeaTable oferece funcionalidades completas no-code desde o início
+      subtitle: Mais funcionalidades a um custo mais baixo
+      description: 'O SeaTable é significativamente **mais acessível do que os preços do AirTable** para funcionalidades comparáveis — com menos restrições rígidas. Isto começa com o **plano gratuito mais abrangente**, em que as funcionalidades são limitadas no AirTable, e continua com a ausência de limites de linhas no SeaTable. **Ao contrário do AirTable, o SeaTable oferece**:'
+      items:
+          - text: 'Integração direta de JavaScript e Python sem extensões ou complementos'
+          - text: 'Incluído no Plano Gratuito: visualização em linha do tempo, filtros dinâmicos para registos associados, filtros condicionais para páginas da aplicação, registos partilhados, logótipo personalizado nos formulários web'
+          - text: 'Não existem limites rígidos quanto ao número de linhas ou anexos num banco de dados'
+          - text: 'mais chamadas à API por mês'
+          - text: Solução local e MCP de código aberto
+      image: /images/landing_page_airtable_03.png
+      image_alt: 'O SeaTable, uma alternativa ao Airtable, oferece mais funcionalidades'   
+
+    - name: 'price-comparision'
+      weight: 8
+      title: Preços do SeaTable vs. Airtable
+      description: Aqui pode ver uma comparação entre as versões na nuvem do Airtable Team e do SeaTable Enterprise. O SeaTable disponibiliza servidores na nuvem na Europa e também uma versão auto-hospedada, o que o torna a alternativa lógica ao Airtable para requisitos de segurança mais elevados.
       competitor:
           - logo: /tmp/Airtable2.png
             title: Airtable Team
             price: 20$
             options:
                 - Tabelas ilimitadas
-                - 50.000 linhas por base
-                - 20 GB para arquivos
-                - 12 meses de versionamento
+                - 50 000 linhas por base de dados
+                - 20 GB para ficheiros
+                - 12 meses de histórico de versões
                 - Execuções ilimitadas de JavaScript e Python
-                - Compartilhamento avançado
+                - Partilha avançada
                 - Personalização avançada
                 - Automatizações
-                - 'Localização dos servidores: EUA'
+                - Funções de IA integradas
+                - Servidor MCP
+                - 'Localizações do servidor: EUA'
       seatable:
           - logo: /tmp/SeaTable.png
             title: SeaTable Enterprise
@@ -47,18 +128,118 @@ sections:
             options:
                 - Tabelas ilimitadas
                 - '**Linhas ilimitadas**'
-                - '**100 GB para arquivos**'
-                - 12 meses de versionamento
+                - '**100 GB para ficheiros**'
+                - 12 meses de controlo de versões
                 - Execuções ilimitadas de JavaScript e Python
-                - Compartilhamento avançado
+                - Partilha avançada
                 - Personalização avançada
+                - '**Painel de administração da equipa**'
                 - Automatizações
-                - 'Localização dos servidores: UE'
-                - '**Função Big Data**'
-                - '**Conforme GDPR**'
+                - Funções de IA integradas
+                - Servidor MCP
+                - 'Localizações do servidor: UE'
+                - '**Funcionalidade de Big Data**'
+                - '**Em conformidade com o RGPD**'
+    
+    - name: "content-4"
+      weight: 10
+      title: Segurança de dados e conformidade ao mais alto nível 
+      subtitle: Sem concessões em matéria de proteção de dados
+      text: 'Os fornecedores sediados nos EUA, como a Airtable, são amplamente utilizados, embora a segurança digital dos seus dados não seja garantida devido à Lei Patriota. Isto é particularmente preocupante se utilizar a Airtable para a gestão de RH ou CRM. A SeaTable é a alternativa perfeita à Airtable para salvaguardar a sua [soberania digital]({{< relref "posts/digitale-souveraenitaet" >}}). Porque **na SeaTable, a proteção dos seus dados faz parte do ADN da empresa** — reforçada pela autenticação de dois fatores e pelo [autenticação única]({{< relref "posts/single-sign-on" >}}).'
+      items:
+      - icon: terminal
+        headline: Hosting em acordo com o RGPD
+        text: "O SeaTable Cloud e o SeaTable AI Server estão alojados em centros de dados certificados na Alemanha — em total conformidade com o RGPD."
 
+      - icon: user-plus
+        headline: Permissões de acesso
+        text: "Configure permissões personalizadas para funções e restrinja o acesso a dados confidenciais através de direitos de acesso e edição granulares."
+
+      - icon: fingerprint
+        headline: Autenticação e SSO
+        text: "O SeaTable suporta o início de sessão único, a autenticação de dois fatores e outros métodos de autenticação comuns."   
+
+    - name: customer-1
+      weight: 12
+      title: 'Empresas de todo o mundo confiam na SeaTable'
+      subtitle: 'Quem utiliza o SeaTable como alternativa ao Airtable?'
+      maquee_rows: 1
+      buttons:
+          - label: 'Migre os seus dados do Airtable para o SeaTable agora'
+            link: 'pages/registration'
+            style: primary
+
+    - name: "content-6"
+      weight: 13
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'A alternativa ao AirTable para uma verdadeira soberania em matéria de IA'
+      subtitle: Funcionalidades de IA integradas
+      items:
+      - text: 'Com o SeaTable, pode utilizar [automatizações integradas baseadas em IA]({{< relref "posts/ai-powered-automations" >}}) sem perder o controlo sobre os seus dados. **Hospedamos o nosso próprio LLM** no nosso servidor de IA e no nosso próprio [servidor MCP]({{< relref "posts/mcp-server" >}}) – ambos na Alemanha. Porque, mesmo ao integrar IA, o SeaTable prioriza consistentemente uma forte proteção de dados como alternativa ao Airtable. Deseja ligar o seu próprio agente de IA à sua Base? Então o nosso [Plugin de Chat de IA]({{< relref "posts/ai-in-seatable" >}}) está à sua disposição. E se hospedar o SeaTable por conta própria, também pode instalar o nosso [MCP de código aberto](https://github.com/seatable/seatable-mcp) no seu próprio servidor. É assim que se apresenta a verdadeira **soberania da IA**.'
+      image: '/images/landing_page_airtable_04.png'
+      image_alt: 'Plugin de chat com IA na SeaTable, uma alternativa ao AirTable.'
+
+    - name: "content-10"
+      weight: 14
+      classes:
+        - curved
+        - bg-white
+      title: "Integre facilmente as suas ferramentas no SeaTable"
+      subtitle: "Integrações nativas e API poderosa"
+      description: "A API do Airtable disponibiliza chamadas de API que lhe permitem recuperar e editar dados nas suas bases. O SeaTable, uma alternativa ao Airtable, oferece uma API que lhe permite fazer ainda mais, como criar um link de partilha, adicionar um novo membro à equipa ou integrar fontes de dados e ferramentas externas."
+      items:
+        - image: "/images/logos/zapier.svg"
+        - image: "/images/logos/make.svg"
+        - image: "/images/logos/n8n.svg"
+        - image: "/images/logos/seatable-api.svg"        
+
+    - name: content-5
+      weight: 16
+      items:
+      - title: "Migração fácil do Airtable para o SeaTable"
+        subtitle: "Transferência automática de dados"
+        text: 'Gostaria de utilizar o SeaTable como alternativa ao Airtable e migrar as suas bases? Não há problema. Basta ter o ID da sua base do Airtable e um token de acesso. Basta selecionar «Importar base do Airtable» ao criar uma base e introduzir os seus dados na caixa de diálogo de importação. O SeaTable trata do resto.' 
+      - title: "Crie as suas próprias aplicações e portais de autoatendimento"
+        subtitle: "A sua alternativa ao AirTable com o App Builder"
+        text: 'Com o nosso [construtor de aplicações no-code]({{< relref "posts/20250318-app-erstellen" >}}), pode transformar a sua base de dados numa **aplicação personalizada para a sua equipa**. Crie formulários de entrada intuitivos ou painéis de relatórios informativos. Também pode **partilhar as suas aplicações com partes interessadas externas** utilizando proteção por palavra-passe e permissões granulares. Ideal se, por exemplo, estiver à procura de uma alternativa ao AirTable para uma [solução de gestão de projetos]({{< relref "pages/industry-solutions/project-management" >}}), um [CRM poderoso]({{< relref "pages/industry-solutions/kundenmanagement" >}}), ou um [ITSM]({{< relref"pages/industry-solutions/software-development" >}}).'
+      - title: "Uma alternativa completa ao Airtable"
+        subtitle: "Scripts, automatizações, aplicações e muito mais"
+        text: 'O SeaTable é mais do que apenas uma alternativa ao Airtable: o SeaTable é uma solução no-code, completa e impulsionada pela comunidade, com uma [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}), um App Builder, **integrações nativas** para serviços como fornecedores de e-mail ou o Google Calendar, uma API poderosa e um **editor de scripts e automação** integrado com capacidades de IA. Experimente o SeaTable gratuitamente para ver as suas funcionalidades por si mesmo e descobrir o valor acrescentado em comparação com as funcionalidades do Airtable.'
+      - title: Faça do SeaTable o seu próprio sistema
+        subtitle: O seu URL, o seu logótipo, a identidade da sua marca
+        text: "No AirTable, as opções de personalização da interface do utilizador limitam-se a aspetos visuais, tais como cores e a alteração do logótipo. Como alternativa ao AirTable, o SeaTable oferece opções de personalização significativamente mais abrangentes: na Nuvem Dedicada e nas instalações no local, dispõe de um URL próprio que o senhor e os seus colaboradores podem utilizar para aceder ao seu sistema SeaTable. O senhor escolhe as cores e o logótipo e tem controlo total sobre a identidade corporativa. Também pode definir os seus próprios modelos, funções de utilizador e permissões para refletir a estrutura única da sua empresa."    
+
+    - name: 'content-3'
+      weight: 18
+      title: A sua alternativa ao AirTable com opções de implementação
+      subtitle: Na nuvem ou auto-hospedado?
+      description: 
+      items:
+          - headline: SeaTable Cloud
+            text: A solução simples, flexível e escalável para a sua empresa.
+            image: /images/template-projektplan.png
+            iamge_alt: 'Modelo SeaTable para processos de gestão de armazéns e gestão de inventário'
+          - headline: SeaTable Server
+            text: Opção local para um controlo total sobre os seus dados.
+            image: /images/template-massnahmenplan.jpg
+            image_alt: 'Modelo SeaTable para gestão de frotas e administração de veículos'
+          - headline: SeaTable Dedicated
+            text: Combina as vantagens do SeaTable Cloud e do SeaTable Server.  
+            image: /images/asana-dedicated.jpg
+            image_alt: 'Modelo SeaTable para gestão de inventário e stock'    
+
+    - name: banner-2
+      weight: 20
+      title: O seu sistema personalizado – em conformidade com o RGPD 
+      buttons:
+        - label: Migre os seus dados do Airtable para o SeaTable agora
+          link: pages/registration
+          id: pt-airtable-registration-3    
+    
     - name: price-table
-      weight: 4
+      weight: 95
       classes:
           - padding
       title: Compare todos os detalhes – Airtable vs. SeaTable
@@ -66,239 +247,124 @@ sections:
           head: ['Airtable Team', 'SeaTable Enterprise']
           rows:
               - type: section
-                label: 'Preço (por usuário & mês)'
-              - key: 'Faturamento anual'
+                label: 'Preço (por utilizador e mês)'
+              - key: 'Faturação anual'
                 values: ['20$', '14€']
-              - key: 'Faturamento mensal'
+              - key: 'Faturação mensal'
                 values: ['24$', '18€']
               - type: section
-                label: 'Uso (total por equipe)'
+                label: 'Utilização (total por equipa)'
               - key: 'Bases'
                 values: ['∞', '∞']
-              - key: 'Tabelas'
+              - key: 'Mesas'
                 values: ['∞', '∞']
               - key: 'Linhas'
-                values: ['50.000 por base', '∞']
+                values: ['50,000 para base', '∞']
               - key: 'Espaço de armazenamento'
-                values: ['20 GB', '100 GB']
-              - key: 'Período de retenção de snapshots'
+                values: ['20 GB para base', '100 GB']
+              - key: 'Instantâneos do período de retenção'
                 values: ['12 meses', '12 meses']
               - key: 'Execuções de JavaScript (por mês)'
                 values: ['∞', '∞']
               - key: 'Execuções de Python (por mês)'
                 values: ['∞', '∞']
-              - key: 'Tamanho máximo da equipe'
+              - key: 'Automatizações (por mês)'
+                values: ['25,000 por equipa', '5,000 por utilizador']   
+              - key: 'Número máximo de membros da equipa'
                 values: ['∞', '∞']
               - type: section
-                label: 'Funcionalidades'
-              - key: Tipos de coluna
-                values: ['28', '24']
-              - key: Filtro, agrupamento e ordenação
+                label: 'Características'
+              - key: Tipos de colunas
+                values: ['28', '25']
+              - key: Filtragem, agrupamento e ordenação
                 values: ['+', '+']
               - key: Visualizações
                 values: ['+', '+']
-              - key: Visualizações privadas
+              - key: Visitas privadas
                 values: ['+', '+']
-              - key: Compartilhamento de visualizações
+              - key: Troca de pontos de vista
                 values: ['+', '+']
               - key: Formulários web
                 values: ['+', '+']
-              - key: Conjuntos de dados compartilhados
-                values: ['-', '+']
+              - key: Conjuntos de dados comuns
+                values: ['+', '+']
               - key: 'Importação / Exportação (.csv, .xlsx e .dtable)'
                 values: ['csv, xlsx', '+']
               - key: Notificações
                 values: ['+', '+']
-              - key: Plugins e aplicativos externos
+              - key: Plug-ins e aplicações externas
                 values: ['+', '+']
-              - key: Suporte a Javascript e Python
+              - key: Suporte para JavaScript e Python
                 values: ['+', '+']
-              - key: Permissões de compartilhamento individual
+              - key: Permissões de partilha individuais
                 values: ['+', '+']
               - key: Bloqueio de linhas
                 values: ['-', '+']
-              - key: Permissões de tabela, visualização e coluna
+              - key: Permissões de tabelas, vistas e colunas
                 values: ['+', '+']
-              - key: Personalização do formulário web (logo, imagem de cabeçalho)
+              - key: Personalização do formulário web (logótipo, imagem do cabeçalho)
                 values: ['+', '+']
-              - key: Automatizações
+              - key: Automações
                 values: ['+', '+']
-              - key: Backend Big Data
+              - key: Funcionalidades de IA integradas
+                values: ['+', '+']
+              - key: Servidor MCP
+                values: ['+', '+']   
+              - key: Back-end de Big Data
                 values: ['-', '+']
               - type: section
                 label: 'Suporte'
-              - key: Suporte prioritário
+              - key: Suporte preferencial
                 values: ['+', '+']
-              - key: Suporte corporativo opcional e SLAs
+              - key: Suporte empresarial opcional e acordos de nível de serviço (SLA)
                 values: ['+', '-']
               - key: Multilíngue
+                values: ['+', '+']
+              - type: section
+                label: 'Administração e Segurança'
+              - key: Autenticação de dois fatores
+                values: ['+', '+']
+              - key: Painel de administração da empresa
+                values: ['-', '+']
+              - key: Autenticação através de AD/LDAP, SAML ou OAuth
+                values: ['-', '+']
+              - key: Localização do servidor na Europa
+                values: ['-', '+']
+              - key: Em conformidade com o RGPD
                 values: ['-', '+']
               - type: section
-                label: 'Administração & Segurança'
-              - key: Autenticação em dois fatores
+                label: 'Faturação'
+              - key: Pagamento com cartão de crédito
                 values: ['+', '+']
-              - key: Painel de administração empresarial
-                values: ['-', '-']
-              - key: Autenticação via AD/LDAP, SAML ou OAuth
-                values: ['-', '-']
-              - key: Servidor localizado na Europa
-                values: ['-', '+']
-              - key: Conforme GDPR
-                values: ['-', '+']
-              - type: section
-                label: 'Faturamento'
-              - key: Pagamento por cartão de crédito
+              - key: Pagamento por fatura (anual, mínimo de 10 utilizadores)
                 values: ['+', '+']
-              - key: Pagamento por fatura (anual, mín. 10 usuários)
-                values: ['+', '+']
-
-    - name: customer-3
-      title: Centenas de milhares de utilizadores satisfeitos com a alternativa ao Airtable
-      subtitle: O que dizem os clientes SeaTable
-      weight: 5
-
-    - name: customer-1
-      weight: 6
-      title: 'Empresas do mundo todo confiam no SeaTable'
-      subtitle: 'Quem usa SeaTable como alternativa ao Airtable?'
-      maquee_rows: 1
-      buttons:
-          - label: 'Cadastre-se gratuitamente e comece agora'
-            link: 'pages/registration'
-            style: primary
-
-    - name: 'content-21'
-      weight: 7
-      title: Automações de IA na prática
-      subtitle: Fluxos de trabalho mais inteligentes para a sua equipa
-      text: 'As aplicações concretas que se tornam possíveis com a **função de IA do SeaTable** são particularmente interessantes – e o melhor de tudo é que os resultados chegam sempre exatamente onde devem chegar, ou seja, diretamente na sua base SeaTable.'
-      items:
-          - headline: Processamento de faturas (OCR e extração)
-            text: As faturas recebidas por e-mail ou upload **são reconhecidas automaticamente**. A IA extrai conteúdos como número da fatura, data ou montantes e guarda-os de forma estruturada nas colunas correspondentes.
-          - headline: Gestão inteligente de suporte
-            text: As solicitações de suporte são analisadas em tempo real, classificadas por categorias e atribuídas automaticamente aos funcionários certos. Isso reduz o tempo de resposta e aumenta a satisfação do cliente.
-          - headline: Resumos de textos e documentos
-            text: Transforme relatórios longos, atas de reuniões ou memorandos em textos resumidos compactos em segundos. Ideal para filtrar rapidamente as informações mais importantes de grandes quantidades de dados.
-          - headline: Reconhecimento e tradução multilingues
-            text: Processe e traduza conteúdos em diferentes idiomas sem problemas. Uma verdadeira vantagem competitiva para equipas que atuam internacionalmente e para a colaboração além das fronteiras linguísticas.
-          - headline: Fácil utilização para todos
-            text: Todas as funções de IA são tão intuitivas que mesmo os novatos em IA, sem conhecimentos de programação, podem utilizá-las imediatamente – verdadeiramente sem código.
 
     - name: 'faq'
-      weight: 7
-      classes:
-          - curved
-          - bg-gray-50
-      subtitle: Vantagens do SeaTable em relação ao Airtable
-      title: Quer seja auto-hospedado ou na nuvem - vai adorar SeaTable
+      weight: 98
+      subtitle: 
+      title: Perguntas frequentes – O SeaTable como alternativa ao Airtable
       items:
-          - q: 'Segurança absoluta dos dados e soberania da IA'
-            a: '**Com SeaTable, beneficia de uma proteção de dados europeia ou mesmo de uma soberania total dos dados**<br><br>Os sistemas de nuvem americanos, como Airtable, Microsoft 365 ou Google Workspace, são muito utilizados, mas a segurança dos seus dados pode ser posta de parte. O chamado Patriot Act permite que as autoridades norte-americanas, como o FBI, a NSA ou a CIA, acedam aos servidores de empresas norte-americanas sem ordem judicial e desviem dados pessoais.<br><br>SeaTable Cloud está alojado exclusivamente nos centros de dados alemães da Exoscale. Isto significa que os seus dados estão sujeitos ao RGPD e estão muito mais bem protegidos do que com os fornecedores dos EUA. Pode usar SeaTable como uma alternativa Airtable para dados pessoais sensíveis ou em indústrias que exigem um nível mais alto de proteção de dados.<br><br>Além disso, também pode hospedar SeaTable como uma alternativa ao Airtable. Com o seu próprio servidor SeaTable, tem controlo total sobre todos os fluxos de dados e locais de armazenamento. Só tem esta soberania absoluta de dados com um sistema no local.<br><br>**Início de sessão simples e seguro**<br><br>Assim como o Airtable Login, SeaTable também lhe oferece um processo de início de sessão seguro e simples que também suporta a autenticação de dois factores. Com a gestão de autorização granular, pode garantir que apenas os utilizadores autorizados podem aceder aos dados.'
-          - q: 'Opção on-premises'
-            a: '**Tenha controle total sobre seus dados com um sistema SeaTable auto-hospedado**<br><br>Ao instalar SeaTable, você tem total liberdade: decide onde instalar seu sistema, onde seus dados ficam armazenados e quem tem acesso a eles. Airtable, sendo uma solução apenas em nuvem, não oferece opção de auto-hospedagem.<br><br>Você pode rodar SeaTable em servidores Linux ou Windows, dedicados ou virtualizados. Para grupos maiores de usuários, também está disponível o modo cluster.'
-          - q: 'Versão gratuita com mais recursos e limites maiores'
-            a: '**Teste SeaTable à vontade – sem compromisso e gratuitamente com SeaTable Free**<br><br>A maioria dos recursos do SeaTable já está disponível na versão gratuita da nuvem SeaTable e na Developer Edition para auto-hospedagem. Assim, você pode experimentar SeaTable como alternativa ao Airtable de forma fácil e gratuita. Para [registrar-se]({{< relref "pages/registration" >}}), basta um e-mail e conexão com a internet.<br><br>SeaTable também é mais generoso que a concorrência em relação aos limites de linhas e dados. Com SeaTable Free, você pode armazenar até 10.000 linhas e 2 GB de dados.'
-          - q: 'Planos empresariais mais acessíveis'
-            a: '**Receba mais pelo seu dinheiro**<br><br>Com uma gama comparável de funções, SeaTable Enterprise é significativamente mais barato para a sua empresa do que Airtable Team (ou mesmo Airtable Business). Além disso, SeaTable Enterprise não tem limite de linhas e tem muito mais espaço de armazenamento para os seus ficheiros. Aqui pode encontrar mais informações sobre o [Airtable Pricing]({{< relref "posts/airtable" >}}).'
-          - q: 'Suporte multilíngue'
-            a: '**Ofereça aos seus usuários uma interface web no idioma deles**<br><br>O inglês pode ser o idioma número um dos negócios, mas faz muito mais sentido oferecer aos seus colaboradores uma interface web em sua língua nativa.<br><br>Tal como a alternativa n.º 1 ao Airtable, SeaTable suporta atualmente os idiomas alemão, francês, espanhol, português, russo e chinês, para além do inglês.'
-          - q: 'Automatize processos individuais'
-            a: '**Crie as suas próprias automações e fluxos de trabalho baseados em IA** <br><br>Ninguém conhece os seus processos e requisitos tão bem quanto você. Basta adaptar o SeaTable às suas necessidades! A [plataforma de IA sem código]{{< relref "/" >}}) oferece exatamente a flexibilidade de que você precisa.<br><br>Com o SeaTable, tem a possibilidade de automatizar processos recorrentes e, assim, adaptar o seu sistema exatamente aos seus fluxos de trabalho. Para isso, o SeaTable oferece funções integradas, como botões, automatizações baseadas em IA e scripts. Pode conectar facilmente aplicações externas ao SeaTable com a API do SeaTable ou plataformas de automatização como Zapier, Integrately, Make ou n8n.'
-          - q: 'API completa e flexível'
-            a: '**Gerencie todo o seu sistema, usuários e bases pela API**<br><br>Airtable oferece chamadas de API para consultar e modificar dados dentro das suas bases. No entanto, a Airtable API não permite, por exemplo, criar um link de compartilhamento ou adicionar um novo membro à equipe.<br><br>No SeaTable, você faz tudo isso facilmente pela API. Existem requisições para alterar dados dentro de uma base e muitas outras chamadas para usuários comuns, líderes de equipe e administradores do sistema. Confira nossa [API Reference](https://api.seatable.com).'
-          - q: 'Sua URL, seu logo, sua identidade visual'
-            a: '**Transforme SeaTable no seu próprio sistema**<br><br>Airtable é uma solução apenas em nuvem. As opções de personalização da interface do usuário se limitam a aspectos visuais como cores e troca de logo.<br><br>Como alternativa ao Airtable, SeaTable oferece opções de personalização muito mais avançadas: na nuvem dedicada e na instalação on-premises, você tem sua própria URL para acesso ao sistema SeaTable. Você define as cores, o logo e tem controle total sobre a identidade visual da empresa. Também pode definir seus próprios modelos, funções de usuário e permissões para atender às suas necessidades e estrutura organizacional.'
-          - q: 'Mesmo como um poderoso sistema de CRM'
-            a: '**SeaTable é perfeito como uma solução CRM**<br><br>Está a gerir os dados dos clientes com um CRM no Airtable? Isto é particularmente questionável para as empresas da UE em termos de lei de proteção de dados, uma vez que Airtable armazena naturalmente os dados nos EUA como uma nuvem americana.<br><br>Como alternativa europeia ao Airtable em conformidade com o GDPR, SeaTable é adequado para implementar um sistema CRM para os seus dados de clientes e processos empresariais. Quer seja um CRM simples para uma pequena equipa ou uma solução complexa para uma grande empresa – SeaTable oferece todas as funcionalidades de que necessita em comparação com Airtable.'
+          - q: 'Posso experimentar o SeaTable gratuitamente?'
+            a: 'Sim, claro. A versão gratuita do SeaTable, uma alternativa ao Airtable, é perfeita para ter uma primeira impressão do SeaTable. Pode inscrever-se agora na versão gratuita na nuvem e mudar para uma subscrição paga ou para um sistema auto-hospedado a qualquer momento posteriormente.'
 
-    - name: 'content-21'
-      weight: 8
-      title: Importar dados do Airtable para SeaTable
-      text: Já está a utilizar Airtable e procura uma alternativa ao Airtable baseada na nuvem ou auto-hospedada? Transferir os seus dados do Airtable para SeaTable é muito fácil através da exportação e importação ou através de um script especialmente desenvolvido.
-      items:
-          - headline: Transferência de dados simples
-            text: Devido à estrutura de dados semelhante entre Airtable e SeaTable, você pode migrar suas tabelas e fluxos de trabalho existentes do Airtable para SeaTable sem dificuldades. No caso mais simples, exporte suas bases como arquivos Excel e depois importe no SeaTable.
-          - headline: Operação paralela
-            text: Também é possível operar Airtable e SeaTable em paralelo com a ajuda do Zapier, Make ou n8n. Basta configurar uma automação adequada e transferir todas as novas entradas do Airtable para SeaTable.
-          - headline: Teste gratuito
-            text: Pode registar-se no SeaTable de forma gratuita e sem compromisso. Pode também experimentar a [migração de dados através de script]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}) sem hesitar.
+          - q: 'Por que razão deveria optar por uma alternativa ao Airtable em vez de esperar pela solução local do Airtable?'
+            a: 'É bastante simples: a decisão de disponibilizar o Airtable em ambiente local ou não é de natureza estratégica, não técnica. E, a este respeito, a Airtable tem vindo a deixar a sua posição muito clara desde 2017: Não há planos, nem está em desenvolvimento, para criar software Airtable para auto-hospedagem. Com a alternativa ao Airtable, o SeaTable, no entanto, os desejos do cliente assumem o papel principal e, com o SeaTable Server e o [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}), já estamos a dar resposta à necessidade de controlo total dos dados e de uma infraestrutura de TI dedicada. A questão de saber se prefere esperar pelo software Airtable num futuro distante ou começar a utilizar o SeaTable no local já agora deve ser fácil de responder.'
 
-    - name: 'content-25'
-      weight: 9
-      title: As principais funcionalidades do SeaTable
-      subtitle: Funcionalidades que convencem
-      items:
-          - headline: A visualização em tabela
-            text: No editor de bases do SeaTable, você pode registrar, editar e organizar seus dados em visualizações de tabela flexíveis, que lembram planilhas clássicas e oferecem diversos recursos adicionais.
-            image: '/tmp/SeaTable_Base.png'
-            image_alt: 'Vista de tabela do SeaTable como alternativa flexível ao Airtable para organizar dados empresariais'
-          - headline: A página inicial com todas as bases
-            text: A página inicial do SeaTable oferece uma visão clara de todas as suas bases, permitindo alternar rapidamente entre diferentes projetos e bancos de dados.
-            image: '/tmp/SeaTable_Baseoverview.png'
-            image_alt: 'Tela inicial do SeaTable com uma visão clara de todas as bases e projetos'
-          - headline: O aplicativo universal
-            text: Com o aplicativo universal, você pode criar aplicações personalizadas baseadas em seus dados e adaptar fluxos de trabalho e visualizações de forma flexível às suas necessidades.
-            image: '/tmp/UniversalApp.png'
-            image_alt: 'Aplicativo universal do SeaTable para criar aplicações personalizadas sem código com base nos seus dados'
-          - headline: Formulários web
-            image: '/tmp/SeaTable_Webformular_1.png'
-            image_alt: 'Formulário web do SeaTable para coletar dados estruturados diretamente em uma tabela'
-            text: SeaTable permite criar facilmente formulários web para coletar dados estruturados de terceiros e integrá-los diretamente às suas tabelas.
-          - headline: Estatísticas
-            image: '/tmp/SeaTable_Statistiken_uebersicht.png'
-            image_alt: 'Visão geral dos recursos de estatísticas do SeaTable para visualizar e analisar dados de tabelas'
-            text: Com as funções estatísticas, você pode analisar e visualizar seus dados diretamente no SeaTable para obter insights e análises rapidamente.
+          - q: 'Como instalar o seu próprio sistema SeaTable?'
+            a: A instalação de um sistema SeaTable Enterprise no local não é particularmente difícil e está descrita no [Guia do Administrador](https://admin.seatable.com/). Se preferir ver um vídeo, consulte o nosso [canal do YouTube](https://youtube.com/seatable).
 
-    - name: 'faq'
-      weight: 10
-      subtitle: FAQ
-      title: Perguntas frequentes sobre SeaTable como alternativa ao Airtable
-      items:
-          - q: 'Posso experimentar SeaTable?'
-            a: 'Sim, claro. A versão gratuita do SeaTable Cloud é ideal para ter uma primeira impressão do SeaTable. Tudo o que você precisa é de um e-mail e conexão com a internet. Você pode [se cadastrar]({{< relref "pages/registration" >}}) gratuitamente agora e migrar para uma assinatura paga ou um sistema auto-hospedado a qualquer momento.<br><br>Se quiser começar diretamente com uma instalação on-premises, todas as informações estão em nosso [manual do administrador](https://admin.seatable.com).'
+          - q: Alguém poderia tratar da instalação do servidor SeaTable por mim?
+            a: Teremos todo o prazer em tratar da instalação do seu sistema SeaTable no local. Entre em contacto connosco e teremos todo o prazer em apresentar-lhe um orçamento.  
 
-          - q: 'Para quem SeaTable é indicado?'
-            a: 'Como uma alternativa flexível ao Airtable, SeaTable não tem apenas <em>um</em> público-alvo. Pelo contrário: acreditamos que toda empresa e equipe pode se beneficiar do SeaTable. Sempre nos surpreendemos com a variedade de processos e fluxos de trabalho criados com SeaTable. Se você procura casos de uso concretos, encontrará alguns exemplos em nossas histórias de sucesso ou em nosso [blog]({{< relref "posts" >}}).'
+          - q: Posso personalizar o SeaTable para que se adapte à identidade visual da minha empresa? 
+            a: No SeaTable Cloud, as opções para personalizar a identidade da sua marca — tal como no Airtable — são limitadas. Com o SeaTable Cloud Enterprise, pode personalizar o logótipo e as cores. </br>>/br> A situação é, no entanto, bastante diferente no caso de um sistema dedicado ou instalado nas suas instalações. Como alternativa ao Airtable auto-hospedada, pode personalizar o SeaTable como desejar. Pode definir o URL, definir os modelos, as funções e as permissões disponíveis para os utilizadores e, claro, pode alterar o logótipo e as cores. Só dispõe destas liberdades com a sua própria instalação local, algo que o Airtable não lhe pode oferecer.  
 
-          - q: 'Posso instalar SeaTable onde quiser?'
-            a: 'Sim, com certeza. Como uma verdadeira alternativa ao Airtable, você pode instalar SeaTable Enterprise no seu PC local, em uma máquina virtual, no data center de sua escolha ou até mesmo em um provedor de servidores em nuvem. O único requisito é um sistema Linux com Docker e Docker Compose.'
+          - q: 'Existem tarifas especiais para instituições públicas, como universidades, clubes ou organizações sem fins lucrativos?'
+            a: Claro que sim. Entre em contacto connosco e teremos todo o prazer em dar-lhe mais informações sobre os nossos descontos generosos.
 
-          - q: 'Como instalar seu próprio sistema SeaTable?'
-            a: 'A instalação de um sistema SeaTable Enterprise on-premises não é difícil e está explicada em nosso [manual do administrador](https://admin.seatable.com). Se preferir um vídeo, confira nosso [canal no YouTube](https://youtube.com/seatable).'
+          - q: Em que medida os preços do SeaTable diferem dos preços do AirTable?
+            a: Os preços do AirTable são menos atrativos em todos os níveis de subscrição. Isto começa já na subscrição gratuita, na qual o AirTable limita certas funcionalidades. O SeaTable Plus, o plano pago de nível básico, custa 7 € por utilizador por mês, enquanto o AirTable Team tem um preço inicial de 20 $ por utilizador por mês.
 
-          - q: 'Existe suporte empresarial?'
-            a: 'Estamos sempre disponíveis para os usuários do SeaTable Enterprise. O caminho mais direto é através do nosso [formulário de contato]({{< relref "pages/contact" >}}). Mais informações sobre as opções de suporte podem ser encontradas em nossa página de [Suporte]({{< relref "pages/support" >}}).'
-
-          - q: 'É possível adaptar SeaTable à identidade visual da minha empresa?'
-            a: 'Na SeaTable Cloud, as opções de personalização para sua identidade visual – assim como no Airtable – são limitadas. Com SeaTable Cloud Enterprise, você pode alterar o logo e as cores, mas a URL sempre será https://cloud.seatable.io.<br><br>Já em um sistema dedicado ou on-premises, a situação é completamente diferente. Como alternativa ao Airtable auto-hospedado, pode personalizar SeaTable como desejar. Você define a URL, os templates, as funções e permissões disponíveis aos usuários e, claro, pode trocar o logo e as cores. Essa liberdade só existe em uma instalação on-premises própria, algo que Airtable não oferece.'
-
-          - q: 'Onde encontro mais informações sobre a API?'
-            a: 'Para aproveitar ao máximo SeaTable, consulte a [referência da API REST do SeaTable](https://api.seatable.com). Como alternativa ao Airtable, SeaTable se destaca por oferecer muito mais chamadas de API do que Airtable.'
-
-          - q: 'Qual a diferença entre a assinatura Free e a Enterprise?'
-            a: 'Nosso objetivo é tornar SeaTable disponível gratuitamente para todos. Por isso existe uma versão cloud gratuita e uma Developer Edition para auto-instalação. No entanto, se você pretende usar SeaTable de forma séria como alternativa ao Airtable e intensivamente (por exemplo, na sua empresa), recomendamos migrar para a assinatura paga Enterprise do SeaTable Cloud ou usar SeaTable Enterprise em seu próprio servidor.<br><br>Com a assinatura Enterprise na nuvem, você tem recursos extras como compartilhamento avançado, automações e limites maiores de linhas e armazenamento. Detalhes estão no [resumo de preços]({{< relref "pages/prices" >}}).<br><br>No on-premises, recomendamos usar SeaTable Enterprise. Com até três usuários, a licença do servidor SeaTable é gratuita! Também há pacotes iniciais acessíveis para pequenas equipes. SeaTable Enterprise inclui todas as funcionalidades do SeaTable – inclusive suporte a backends em cluster como CEPH, sistemas de autenticação como Active Directory, SAML e OAuth, e muitos outros recursos relevantes para administradores. A Developer Edition tem o mesmo conjunto de funções da versão Free.'
-
-          - q: 'Existem condições especiais ou descontos para instituições públicas como universidades, associações ou entidades sem fins lucrativos?'
-            a: 'Com certeza. [Entre em contato conosco]({{< relref "pages/contact" >}}) e teremos prazer em explicar nossos descontos especiais.'
-
-          - q: 'É possível migrar entre SeaTable Cloud e On-Premises?'
-            a: 'A migração entre SeaTable Cloud e sua própria solução on-premises é muito simples graças às poderosas funções de exportação e importação.'
-
-          - q: 'Onde SeaTable armazena os dados? Onde estão os servidores?'
-            a: 'Com seu próprio sistema auto-hospedado, só você decide onde os dados serão armazenados.<br><br>Os servidores da nossa SeaTable Cloud estão 100% na Alemanha. Assim, seus dados estão sujeitos ao GDPR e às normas europeias de proteção de dados.'
-
-          - q: 'Onde posso obter ajuda para desenvolver meu próprio plugin?'
-            a: 'A ideia é que qualquer pessoa com experiência em programação possa criar e desenvolver seus próprios plugins para SeaTable. Se preferir, também podemos desenvolver para você. [Escreva para nós]({{< relref "pages/contact" >}}) e vamos conversar sobre sua ideia.'
-
-          - q: 'E quanto à segurança? Tenho total soberania dos dados com SeaTable?'
-            a: 'Com certeza. Com seu próprio sistema SeaTable on-premises, você decide onde os dados são armazenados. Mesmo na nossa oferta em nuvem, seguimos os mais altos padrões de segurança de todas as alternativas Airtable. Seus dados são armazenados em um data center alemão, sujeitos ao GDPR e às normas europeias.'
-
-          - q: 'SeaTable é compatível com o GDPR?'
-            a: 'Sim, com SeaTable pode cumprir o RGPD tanto na nuvem como no local. No geral, é muito mais fácil cumprir o GDPR se você gerencia seu próprio sistema on-premises.<br><br>Se seus dados estiverem em serviços cloud americanos como Airtable, Microsoft 365 ou Google Workspace, autoridades dos EUA podem acessá-los conforme o Patriot Act. A utilização destes sistemas é, portanto, dificilmente compatível com a legislação europeia em matéria de proteção de dados. Se você busca uma alternativa ao Airtable, SeaTable é uma escolha segura.<br><br>Observação: Esta resposta refere-se à legislação alemã. Outros países podem ter exigências diferentes.'
-
-          - q: 'Qual a diferença entre SeaTable Cloud e SeaTable On-Premises?'
-            a: 'SeaTable Cloud é uma oferta SaaS da SeaTable GmbH. Nós gerenciamos e administramos o sistema SeaTable, acessível em https://cloud.seatable.io, e você nos contrata como prestador de serviço para armazenar seus dados.<br><br>No SeaTable On-Premises, você é o administrador do seu servidor. Nós fornecemos apenas os arquivos de instalação e a chave de licença do SeaTable Enterprise, e você pode instalar e gerenciar o sistema por conta própria. Só com um sistema on-premises você tem total soberania dos dados.'
-
-          - q: 'Alguém pode fazer a instalação para mim?'
-            a: 'Podemos cuidar da instalação do seu sistema SeaTable local. [Escreva para nós]({{< relref "pages/contact" >}}) e teremos prazer em lhe enviar uma proposta.'
----
+          - q: 'O SeaTable oferece assistência técnica?'
+            a: 'Sim, se tiver alguma dúvida sobre o SeaTable, a alternativa ao AirTable, a nossa equipa de apoio ou o fórum da comunidade estão aqui para o ajudar. Enquanto software empresarial para pequenas e médias empresas, o SeaTable oferece um pacote de apoio que nenhuma outra solução de IA no-code consegue igualar.'
+---            
