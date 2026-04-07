@@ -56,7 +56,7 @@ sections:
           - bg-gray-200
       title: Informationen zum Veranstaltung
       subtitle: 28. und 29. September 2023
-      description: Die Universität ist gut zu Fuß oder mit den öffentlichen Verkehrsmitteln sowohl vom Mainzer Hauptbahnhof als auch der Mainzer Innenstadt erreichbar.<br><br>Weitere Informationen zur Anreise finden Sie auf der [Seite der Universität Mainz](https://startseite.uni-mainz.de/anreise).<br><br>Falls Sie mit dem Auto kommen, nutzen Sie bitte die **Parkplätze an der Albert-Schweitzer-Straße**. Falls Sie eine Einfahrtserlaubnis benötigen, müssen Sie diese selbst beantragen.
+      description: Die Universität ist gut zu Fuß oder mit den öffentlichen Verkehrsmitteln sowohl vom Mainzer Hauptbahnhof als auch der Mainzer Innenstadt erreichbar.<br><br>Weitere Informationen zur Anreise finden Sie auf der [Seite der Universität Mainz](https://www.uni-mainz.de/campusplan/#mit-offentl-verkehrsmitteln).<br><br>Falls Sie mit dem Auto kommen, nutzen Sie bitte die **Parkplätze an der Albert-Schweitzer-Straße**. Falls Sie eine Einfahrtserlaubnis benötigen, müssen Sie diese selbst beantragen.
       box-position: [right!, left]
       items:
           - headline: Ort

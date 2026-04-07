@@ -56,7 +56,7 @@ sections:
           - bg-gray-200
       title: Informations sur l'événement
       subtitle: 28 et 29 septembre 2023
-      description: L'université est facilement accessible à pied ou en transports en commun depuis la gare centrale de Mayence ou le centre-ville.<br><br>Pour plus d’informations sur l’accès, consultez le [site de l’Université de Mayence](https://startseite.uni-mainz.de/anreise).<br><br>Si vous venez en voiture, merci d’utiliser les **parkings de la Albert-Schweitzer-Straße**. Si vous avez besoin d’une autorisation d’entrée, vous devrez en faire la demande vous-même.
+      description: L'université est facilement accessible à pied ou en transports en commun depuis la gare centrale de Mayence ou le centre-ville.<br><br>Pour plus d’informations sur l’accès, consultez le [site de l’Université de Mayence](https://www.uni-mainz.de/en/campus-map/#by-public-transport).<br><br>Si vous venez en voiture, merci d’utiliser les **parkings de la Albert-Schweitzer-Straße**. Si vous avez besoin d’une autorisation d’entrée, vous devrez en faire la demande vous-même.
       box-position: [right!, left]
       items:
           - headline: Lieu

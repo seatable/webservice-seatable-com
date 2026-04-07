@@ -20,7 +20,7 @@ Toute entreprise qui souhaite enregistrer et suivre ses clients plus efficacemen
 
 Un outil CRM devrait vous aider, vous et votre entreprise, à améliorer les relations commerciales avec vos clients, à augmenter le chiffre d'affaires associé à vos clients et à optimiser les processus internes de votre entreprise.
 
-Il y a plus qu'assez de fournisseurs de logiciels CRM sur le marché. Les solutions logicielles CRM les plus connues sont probablement [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) et [SugarCRM](https://www.sugarcrm.com/). Il peut rapidement devenir coûteux, surtout pour les petites et moyennes entreprises, d'introduire un nouveau système CRM bien connu. Toutefois, cela ne doit pas nécessairement être le cas. [SeaTable]({{< relref "pages/registration" >}}) est une solution optimale et en même temps abordable.
+Il y a plus qu'assez de fournisseurs de logiciels CRM sur le marché. Les solutions logicielles CRM les plus connues sont probablement [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/fr/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/fr), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) et [SugarCRM](https://www.sugarcrm.com/). Il peut rapidement devenir coûteux, surtout pour les petites et moyennes entreprises, d'introduire un nouveau système CRM bien connu. Toutefois, cela ne doit pas nécessairement être le cas. [SeaTable]({{< relref "pages/registration" >}}) est une solution optimale et en même temps abordable.
 
 ## Qu'est-ce que la CRM ?
 
@@ -142,7 +142,7 @@ Ainsi, vous avez toujours un aperçu de la répartition des clients par employé
 
 ## Une solution de gestion de la relation client flexible ne doit pas nécessairement être coûteuse
 
-Il n'est donc pas nécessaire d'opter pour des solutions CRM coûteuses telles que [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) et [Salesforce](https://www.salesforce.com/). SeaTable vous offre de nombreuses possibilités pour gérer un CRM avec succès.
+Il n'est donc pas nécessaire d'opter pour des solutions CRM coûteuses telles que SAP-Hybris et Salesforce. SeaTable vous offre de nombreuses possibilités pour gérer un CRM avec succès.
 
 Cet article devrait vous avoir fait comprendre à quel point SeaTable peut être puissant et flexible. Si vous vous engagez avec SeaTable, vous serez récompensé par un système CRM parfaitement adapté à vos besoins. Un outil de gestion de la relation client (CRM) véritablement puissant que vous pouvez développer à volonté et auquel vous pouvez ajouter quotidiennement de nouvelles fonctionnalités, colonnes et départements.
 

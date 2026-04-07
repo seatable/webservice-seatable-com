@@ -41,7 +41,7 @@ sections:
           - bg-gray-200
       title: Informationen zum Veranstaltung
       subtitle: 7. und 8. Oktober 2024
-      description: Die Universität ist gut zu Fuß oder mit den öffentlichen Verkehrsmitteln sowohl vom Mainzer Hauptbahnhof als auch der Mainzer Innenstadt erreichbar.<br><br>Weitere Informationen zur Anreise finden Sie auf der [Seite der Universität Mainz](https://startseite.uni-mainz.de/anreise).<br><br>Falls Sie mit dem Auto kommen, können Sie die beiden Tage kostenlos auf dem Uni-Gelände parken. Die Universität Mainz erlaubt Gästen eine kostenlose Parkdauer von bis zu 30 Stunden pro Jahr. Die Schranke öffnet sich automatisch. Weitere Infos finden Sie unter [Parken an der Universität Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
+      description: Die Universität ist gut zu Fuß oder mit den öffentlichen Verkehrsmitteln sowohl vom Mainzer Hauptbahnhof als auch der Mainzer Innenstadt erreichbar.<br><br>Weitere Informationen zur Anreise finden Sie auf der [Seite der Universität Mainz](https://www.uni-mainz.de/campusplan/#mit-offentl-verkehrsmitteln).<br><br>Falls Sie mit dem Auto kommen, können Sie die beiden Tage kostenlos auf dem Uni-Gelände parken. Die Universität Mainz erlaubt Gästen eine kostenlose Parkdauer von bis zu 30 Stunden pro Jahr. Die Schranke öffnet sich automatisch. Weitere Infos finden Sie unter [Parken an der Universität Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
       box-position: [right!, left]
       items:
           - headline: Ort

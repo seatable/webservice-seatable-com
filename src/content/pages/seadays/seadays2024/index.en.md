@@ -41,7 +41,7 @@ sections:
           - bg-gray-200
       title: Information about the Event
       subtitle: 7 and 8 October 2024
-      description: The university is easily accessible on foot or by public transport from both Mainz Central Station and the city center.<br><br>Further information on how to get there can be found on the [University of Mainz website](https://startseite.uni-mainz.de/anreise).<br><br>If you come by car, you can park for free on the university campus on both days. The University of Mainz allows guests free parking for up to 30 hours per year. The barrier opens automatically. More information can be found at [Parking at the University of Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
+      description: The university is easily accessible on foot or by public transport from both Mainz Central Station and the city center.<br><br>Further information on how to get there can be found on the [University of Mainz website](https://www.uni-mainz.de/en/campus-map/#by-public-transport).<br><br>If you come by car, you can park for free on the university campus on both days. The University of Mainz allows guests free parking for up to 30 hours per year. The barrier opens automatically. More information can be found at [Parking at the University of Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
       box-position: [right!, left]
       items:
           - headline: Location
