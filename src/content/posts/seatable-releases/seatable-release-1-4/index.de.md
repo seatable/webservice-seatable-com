@@ -19,7 +19,7 @@ Eine vollständige Liste der Änderungen finden Sie im [SeaTable Changelog]({{< 
 
 ## Willkommen im Team Spaltentyp #18
 
-SeaTable 1.4 erhält einen weiteren Spaltentyp: Die [URL-Spalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Diese verhält sich wie eine Text-Spalte, der Zelleninhalt wird aber als Verweis auf eine Netzwerkressource interpretiert. Internet- und IP-Adressen wie https://seatable.com, www.seafile.com, 192.168.178.1 und localhost:8000 sind in der URL-Spalte gut aufgehoben.
+SeaTable 1.4 erhält einen weiteren Spaltentyp: Die [URL-Spalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Diese verhält sich wie eine Text-Spalte, der Zelleninhalt wird aber als Verweis auf eine Netzwerkressource interpretiert. Internet- und IP-Adressen wie https://seatable.com, [www.seafile.com](https://www.seafile.com/en/home/), 192.168.178.1 und localhost:8000 sind in der URL-Spalte gut aufgehoben.
 
 Die Adresse einer Netzwerkressource lässt sich aus einer URL-Spalte mit zwei Klicks aufrufen. Beim ersten Klick erscheint am rechten Zellenrand ein Link-Icon. Mit einem zweiten Klick auf dieses Icon wird die Adresse in einem neuen Browser Tab aufgerufen; http(s) wird automatisch als Präfix ergänzt. Wenn Sie sich nun fragen, warum zwei Klicks notwendig sind, hier der Grund: Zwei Klicks schützen vor irrtümlichen Webseitenaufrufen beim Navigieren in der Tabelle, was gerade auf Mobilgeräten leicht passieren kann.
 

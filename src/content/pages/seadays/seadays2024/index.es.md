@@ -41,7 +41,7 @@ sections:
           - bg-gray-200
       title: Información sobre el evento
       subtitle: 7 y 8 de octubre de 2024
-      description: La universidad es fácilmente accesible a pie o en transporte público tanto desde la estación central de Maguncia como desde el centro de la ciudad.<br><br>Puedes encontrar más información sobre cómo llegar en la [página de la Universidad de Maguncia](https://startseite.uni-mainz.de/anreise).<br><br>Si vienes en coche, puedes aparcar gratis en el campus ambos días. La Universidad de Maguncia permite a los visitantes aparcar gratis hasta 30 horas al año. La barrera se abre automáticamente. Más información en [Aparcamiento en la Universidad de Maguncia](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
+      description: La universidad es fácilmente accesible a pie o en transporte público tanto desde la estación central de Maguncia como desde el centro de la ciudad.<br><br>Puedes encontrar más información sobre cómo llegar en la [página de la Universidad de Maguncia](https://www.uni-mainz.de/en/campus-map/#by-public-transport).<br><br>Si vienes en coche, puedes aparcar gratis en el campus ambos días. La Universidad de Maguncia permite a los visitantes aparcar gratis hasta 30 horas al año. La barrera se abre automáticamente. Más información en [Aparcamiento en la Universidad de Maguncia](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
       box-position: [right!, left]
       items:
           - headline: Lugar

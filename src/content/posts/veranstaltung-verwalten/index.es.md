@@ -40,7 +40,7 @@ Herramientas para la planificación de eventos las hay a montones. Por eso, eleg
 
 ### LineUpr
 
-[LineUpr](https://lineupr.com/) es una aplicación de eventos basada en navegador de Alemania que ha sido apreciada por su facilidad de uso y flexibilidad desde que se fundó en 2016. Incluso sin instalación, ofrece una solución sencilla para proporcionar a los participantes toda la información relevante, desde programas y detalles de ubicación hasta perfiles de alineación, páginas informativas y noticias.
+[LineUpr](https://lineupr.com/es) es una aplicación de eventos basada en navegador de Alemania que ha sido apreciada por su facilidad de uso y flexibilidad desde que se fundó en 2016. Incluso sin instalación, ofrece una solución sencilla para proporcionar a los participantes toda la información relevante, desde programas y detalles de ubicación hasta perfiles de alineación, páginas informativas y noticias.
 
 Destaca especialmente la posibilidad de registrar diversas estadísticas a través de la aplicación. Esto permite obtener información importante y analizar a posteriori el éxito del evento de forma transparente.
 

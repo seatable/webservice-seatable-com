@@ -20,7 +20,7 @@ For a full list of changes, visit the [SeaTable Changelog]({{< relref "pages/cha
 
 ## Introducing column type #18
 
-SeaTable 1.4 adds one more column type: The URL column. It is similar to the text column, but its contents are interpreted as links to network resources: https://seatable.com, www.seafile.com, 192.168.178.1 and localhost:8000 are all meaningful entries.
+SeaTable 1.4 adds one more column type: The URL column. It is similar to the text column, but its contents are interpreted as links to network resources: https://seatable.com, [www.seafile.com](https://www.seafile.com/en/home/), 192.168.178.1 and localhost:8000 are all meaningful entries.
 
 When saved in a URL column, a network resource is just two clicks away: Click on a cell and a link-icon appears on the right in the cell. Make another click on this icon and the resource is called in a new browser tab. http(s) gets automatically added as a prefix. If you are asking yourself why one click does not do the trick, here is the reason: Two clicks prevent accidental visits of the links’ target when navigating in a table, which might happen often especially on mobile devices.
 

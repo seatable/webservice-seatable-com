@@ -56,7 +56,7 @@ sections:
           - bg-gray-200
       title: Information About the Event
       subtitle: 28 and 29 September 2023
-      description: The university is easily accessible on foot or by public transport from both Mainz Central Station and the city center.<br><br>Further information on how to get there can be found on the [University of Mainz website](https://startseite.uni-mainz.de/anreise).<br><br>If you are coming by car, please use the **parking lots on Albert-Schweitzer-Straße**. If you need a parking permit, you must apply for it yourself.
+      description: The university is easily accessible on foot or by public transport from both Mainz Central Station and the city center.<br><br>Further information on how to get there can be found on the [University of Mainz website](https://www.uni-mainz.de/en/campus-map/#by-public-transport).<br><br>If you are coming by car, please use the **parking lots on Albert-Schweitzer-Straße**. If you need a parking permit, you must apply for it yourself.
       box-position: [right!, left]
       items:
           - headline: Location

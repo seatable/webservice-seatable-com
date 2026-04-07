@@ -20,7 +20,7 @@ seo:
 
 Инструмент CRM должен помочь вам и вашей компании улучшить деловые отношения с вашими клиентами, увеличить связанный оборот ваших клиентов и оптимизировать внутренние процессы в вашей компании.
 
-На рынке представлено более чем достаточно поставщиков программного обеспечения CRM. Наиболее известными программными решениями CRM, вероятно, являются [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) и [SugarCRM](https://www.sugarcrm.com/). Внедрение новой и хорошо известной CRM-системы может быстро стать дорогостоящим, особенно для малых и средних компаний. Однако это не обязательно должно быть так. [SeaTable]({{< relref "pages/registration" >}}) - это оптимальное и в то же время доступное решение.
+На рынке представлено более чем достаточно поставщиков программного обеспечения CRM. Наиболее известными программными решениями CRM, вероятно, являются [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/eu/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/ru), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) и [SugarCRM](https://www.sugarcrm.com/). Внедрение новой и хорошо известной CRM-системы может быстро стать дорогостоящим, особенно для малых и средних компаний. Однако это не обязательно должно быть так. [SeaTable]({{< relref "pages/registration" >}}) - это оптимальное и в то же время доступное решение.
 
 ## Что такое CRM?
 
@@ -142,7 +142,7 @@ CRM-система от SeaTable
 
 ## Гибкое CRM-решение не обязательно должно быть дорогим
 
-Поэтому не всегда нужно ограничиваться дорогостоящими CRM-решениями, такими как [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) и [Salesforce](https://www.salesforce.com/). SeaTable предлагает вам множество возможностей для успешной работы CRM.
+Поэтому не всегда нужно ограничиваться дорогостоящими CRM-решениями, такими как SAP-Hybris и Salesforce. SeaTable предлагает вам множество возможностей для успешной работы CRM.
 
 Эта статья должна была дать вам понять, насколько мощным и гибким может быть SeaTable. Если вы начнете работать с SeaTable, вы будете вознаграждены CRM-системой, идеально подходящей именно вам. По-настоящему мощный инструмент CRM, который можно расширять по своему усмотрению и ежедневно добавлять новые функции, колонки и отделы.
 

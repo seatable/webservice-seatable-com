@@ -44,7 +44,7 @@ Event planning tools are a dime a dozen. Choosing the right software that is pre
 
 ### LineUpr
 
-[LineUpr](https://lineupr.com/) is a browser-based event app from Germany that has been appreciated for its user-friendliness and flexibility since it was founded in 2016. Even without installation, it offers an uncomplicated solution to provide participants with all relevant information - from programs and location details to lineup profiles, info pages and news.
+[LineUpr](https://lineupr.com/en) is a browser-based event app from Germany that has been appreciated for its user-friendliness and flexibility since it was founded in 2016. Even without installation, it offers an uncomplicated solution to provide participants with all relevant information - from programs and location details to lineup profiles, info pages and news.
 
 A particular highlight is the ability to record various statistics using the app. This allows important insights to be gained and the success of the event to be analyzed transparently afterwards.
 

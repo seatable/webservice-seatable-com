@@ -19,7 +19,7 @@ Para uma lista completa das alterações, por favor ver o [SeaTable Changelog]({
 
 ## Bem-vindo à Equipa Tipo de Coluna #18
 
-SeaTable 1.4 contém outro tipo de coluna: a [coluna URL]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Isto comporta-se como uma coluna de texto, mas o conteúdo da célula é interpretado como uma referência a um recurso da rede. Os endereços Internet e IP tais como https://seatable.com, www.seafile.com, 192.168.178.1 e localhost:8000 estão em boas mãos na coluna URL.
+SeaTable 1.4 contém outro tipo de coluna: a [coluna URL]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Isto comporta-se como uma coluna de texto, mas o conteúdo da célula é interpretado como uma referência a um recurso da rede. Os endereços Internet e IP tais como https://seatable.com, [www.seafile.com](https://www.seafile.com/en/home/), 192.168.178.1 e localhost:8000 estão em boas mãos na coluna URL.
 
 O endereço de um recurso da rede pode ser chamado a partir de uma coluna URL com dois cliques. Com o primeiro clique, aparece um ícone de ligação na margem direita da célula. Com um segundo clique neste ícone, o endereço é chamado num novo separador do navegador; http(s) é automaticamente adicionado como um prefixo. Se agora se pergunta por que razão são necessários dois cliques, eis a razão: dois cliques protegem contra chamadas erradas de páginas web quando se navega na tabela, o que pode facilmente acontecer especialmente em dispositivos móveis.
 

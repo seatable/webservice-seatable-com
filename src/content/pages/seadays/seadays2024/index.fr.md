@@ -41,7 +41,7 @@ sections:
           - bg-gray-200
       title: Informations sur l'événement
       subtitle: 7 et 8 octobre 2024
-      description: L'université est facilement accessible à pied ou en transports en commun depuis la gare centrale de Mayence ou le centre-ville.<br><br>Pour plus d’informations sur l’accès, consultez le [site de l’Université de Mayence](https://startseite.uni-mainz.de/anreise).<br><br>Si vous venez en voiture, vous pouvez vous garer gratuitement sur le campus pendant les deux jours. L’Université de Mayence autorise les invités à stationner gratuitement jusqu’à 30 heures par an. La barrière s’ouvre automatiquement. Plus d’informations sur [Stationnement à l’Université de Mayence](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
+      description: L'université est facilement accessible à pied ou en transports en commun depuis la gare centrale de Mayence ou le centre-ville.<br><br>Pour plus d’informations sur l’accès, consultez le [site de l’Université de Mayence](https://www.uni-mainz.de/en/campus-map/#by-public-transport).<br><br>Si vous venez en voiture, vous pouvez vous garer gratuitement sur le campus pendant les deux jours. L’Université de Mayence autorise les invités à stationner gratuitement jusqu’à 30 heures par an. La barrière s’ouvre automatiquement. Plus d’informations sur [Stationnement à l’Université de Mayence](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
       box-position: [right!, left]
       items:
           - headline: Lieu

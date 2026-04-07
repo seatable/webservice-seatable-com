@@ -18,7 +18,7 @@ Jedes Unternehmen, das seine Kunden effizienter erfassen und nachhalten möchte,
 
 Ein CRM-Tool soll Ihnen und Ihrem Unternehmen dabei helfen, die Geschäftsbeziehungen zu Ihren Kunden zu verbessern, den damit verbundenen Umsatz Ihrer Kunden zu steigern und die internen Prozesse in Ihrem Unternehmen zu optimieren.
 
-CRM-Softwareanbieter gibt es auf dem Markt mehr als genug. Die wohl derzeit bekanntesten CRM-Softwarelösungen sind [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) und [SugarCRM](https://www.sugarcrm.com/). Dabei kann es gerade für kleinere und mittlere Unternehmen sehr schnell teuer werden, wenn es um die Einführung eines neuen und namhaften CRM-Systems geht. Das muss jedoch nicht unbedingt sein. Eine optimale und zugleich günstige Lösung stellt [SeaTable]({{< relref "pages/registration" >}}) dar.
+CRM-Softwareanbieter gibt es auf dem Markt mehr als genug. Die wohl derzeit bekanntesten CRM-Softwarelösungen sind [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/de/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/de), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) und [SugarCRM](https://www.sugarcrm.com/). Dabei kann es gerade für kleinere und mittlere Unternehmen sehr schnell teuer werden, wenn es um die Einführung eines neuen und namhaften CRM-Systems geht. Das muss jedoch nicht unbedingt sein. Eine optimale und zugleich günstige Lösung stellt [SeaTable]({{< relref "pages/registration" >}}) dar.
 
 ## Was ist CRM überhaupt?
 
@@ -140,7 +140,7 @@ Somit haben Sie die Verteilung der Kunden je Mitarbeiter, das Umsatzpotenzial de
 
 ## Eine flexible CRM-Lösung muss nicht teuer sein
 
-Es muss also nicht immer gleich bei teuren CRM-Lösungen wie bei beispielsweise [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) und [Salesforce](https://www.salesforce.com/) enden. SeaTable bietet Ihnen viele Möglichkeiten, um ein erfolgreiches CRM betreiben zu können.
+Es muss also nicht immer gleich bei teuren CRM-Lösungen wie bei beispielsweise SAP-Hybris und Salesforce enden. SeaTable bietet Ihnen viele Möglichkeiten, um ein erfolgreiches CRM betreiben zu können.
 
 Dieser Artikel sollte Ihnen verdeutlicht haben, wie leistungsstark und flexibel SeaTable eingesetzt werden kann. Wenn Sie sich auf SeaTable einlassen, werden Sie mit einem perfekt auf Sie zugeschnittenem CRM-System belohnt. Ein wirklich leistungsstarkes CRM-Tool, das Sie nach Belieben weiter ausbauen und täglich durch neue Funktionen, Spalten und weitere Abteilungen ergänzen können.
 
