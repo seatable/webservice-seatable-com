@@ -18,7 +18,7 @@ Con el plugin de chat con IA puede chatear directamente con sus datos en SeaTabl
 - Una **clave API** de uno de los proveedores de IA compatibles:
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
-  - [Mistral](https://console.mistral.ai/) (Mistral)
+  - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Paso 1: Instalar el plugin en su base
 

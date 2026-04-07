@@ -26,7 +26,7 @@ La mayoría de los proveedores de IA trabajan con un saldo prepago. Si ya no se 
 
 - [Anthropic Console](https://console.anthropic.com/)
 - [OpenAI Platform](https://platform.openai.com/)
-- [Mistral Console](https://console.mistral.ai/)
+- [Mistral Console](https://v2.auth.mistral.ai/login)
 
 ## Respuestas ausentes o incorrectas
 

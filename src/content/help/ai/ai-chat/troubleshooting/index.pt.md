@@ -26,7 +26,7 @@ A maioria dos fornecedores de IA trabalha com crédito pré-pago. Se as resposta
 
 - [Anthropic Console](https://console.anthropic.com/)
 - [OpenAI Platform](https://platform.openai.com/)
-- [Mistral Console](https://console.mistral.ai/)
+- [Mistral Console](https://v2.auth.mistral.ai/login)
 
 ## Respostas ausentes ou incorretas
 

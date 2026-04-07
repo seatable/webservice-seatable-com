@@ -407,7 +407,7 @@ Linking to a video on a page of this online service does not result in data bein
 
 Only when you click the link are you redirected to the YouTube page and a connection to YouTube's servers is established. In this case, YouTube is informed, among other things, from which page you jumped to the video. If you are logged into your Google account, you enable Google to directly assign your browsing behavior to your personal profile.
 
-Further information on data protection at YouTube can be found in their privacy policy at [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de).
+Further information on data protection at YouTube can be found in their privacy policy at [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 ### Google Fonts
 

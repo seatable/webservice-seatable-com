@@ -29,7 +29,7 @@ Um ein Modell im KI-Chat-Plugin nutzen zu können, benötigen Sie einen API-Schl
 
 - **Anthropic**: Erstellen Sie einen API-Schlüssel unter [console.anthropic.com](https://console.anthropic.com/).
 - **OpenAI**: Erstellen Sie einen API-Schlüssel unter [platform.openai.com](https://platform.openai.com/).
-- **Mistral**: Erstellen Sie einen API-Schlüssel unter [console.mistral.ai](https://console.mistral.ai/).
+- **Mistral**: Erstellen Sie einen API-Schlüssel unter [v2.auth.mistral.ai/login](https://v2.auth.mistral.ai/login).
 
 Bei allen drei Anbietern müssen Sie ein Zahlungsmittel hinterlegen. Die Kosten richten sich nach der Anzahl der verarbeiteten Tokens und werden direkt vom Anbieter abgerechnet.
 

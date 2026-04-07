@@ -34,7 +34,7 @@ star: true
 | [python-barcode](https://pypi.org/project/python-barcode/) | Генерация штрих-кодов | [Генерация штрих-кодов]({{< relref "help/skripte/python/barcode-generieren" >}}) |
 | [pillow-heif](https://pypi.org/project/pillow-heif/) | Поддержка HEIC/HEIF для Pillow | [Конвертация HEIC в PNG]({{< relref "help/skripte/python/heic-zu-png-konvertieren" >}}) |
 | [pdfmerge](https://pypi.org/project/pdfmerge/) | Объединение PDF | [Объединение PDF-файлов]({{< relref "help/skripte/python/pdf-zusammenfuehren" >}}) |
-| [rapidfuzz](https://pypi.org/project/rapidfuzz/) | Нечёткое сравнение строк | |
+| [rapidfuzz](https://pypi.org/project/RapidFuzz/) | Нечёткое сравнение строк | |
 | [markdown](https://pypi.org/project/Markdown/) | Конвертация Markdown в HTML | |
 | [ldap3](https://pypi.org/project/ldap3/) | Операции LDAP | |
 | [dateutils](https://pypi.org/project/dateutils/) | Вспомогательные функции для дат | |

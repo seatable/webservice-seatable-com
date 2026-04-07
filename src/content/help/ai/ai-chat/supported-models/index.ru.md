@@ -29,7 +29,7 @@ seo:
 
 - **Anthropic**: создайте API-ключ на [console.anthropic.com](https://console.anthropic.com/).
 - **OpenAI**: создайте API-ключ на [platform.openai.com](https://platform.openai.com/).
-- **Mistral**: создайте API-ключ на [console.mistral.ai](https://console.mistral.ai/).
+- **Mistral**: создайте API-ключ на [v2.auth.mistral.ai/login](https://v2.auth.mistral.ai/login).
 
 Все три провайдера требуют добавления способа оплаты. Стоимость зависит от количества обработанных токенов и выставляется непосредственно провайдером.
 

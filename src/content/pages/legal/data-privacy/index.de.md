@@ -369,7 +369,7 @@ Die Verlinkung eines Videos in einer Seite dieses Online-Angebots führt nicht d
 
 Erst durch Klick auf den Link werden Sie auf die Seite von YouTube umgeleitet und eine Verbindung zu den Servern von YouTube hergestellt. In diesem Fall wird YouTube unter anderem mitgeteilt, von welcher Seite Sie zu dem Video abgesprungen sind. Wenn Sie in Ihrem Google Account eingeloggt sind, ermöglichen Sie Google, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen.
 
-Weitere Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de).
+Weitere Informationen über Datenschutz bei YouTube finden Sie in deren Datenschutzerklärung unter [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 ### Google Fonts
 
@@ -427,9 +427,9 @@ Stripe ist ein Dienst, mit sich dem u.a. Kundendaten über Online Registrierunge
 
 Ihre Kunden-, Vertrags- und Zahlungsdaten werden über eine verschlüsselte Schnittstelle aus dem SeaTable Dienst oder dem Store SeaTable Market an Stripe übermittelt und auf den Servern von Stripe gespeichert. Die Abrechnung erfolgt zu den vertraglich vorgesehenen Zeitpunkten automatisch. Bei Zahlungsmethoden, die eine automatische Abwicklung erlauben (z.B. Kreditkarte), werden Rechnungsbeträge automatisch eingezogen.
 
-Mehr Informationen zu den Funktionen von Stripe finden Sie unter [https://stripe.com/de/use-cases/saas](https://stripe.com/de/use-cases/saas)
+Mehr Informationen zu den Funktionen von Stripe finden Sie [hier](https://stripe.com/de/use-cases/saas)
 
-Die Datenschutzerklärung von Stripe finden Sie unter [https://stripe.com/de/privacy](https://stripe.com/de/privacy)
+Die Datenschutzerklärung von Stripe finden Sie [hier](https://stripe.com/de/privacy)
 
 **Zweck und Rechtsgrundlage**  
 Die Übermittlung Ihrer Daten an Stripe erfolgt auf Grundlage Art. 6 Abs. 1 lit. b DSGVO (Vertragsabwicklung) sowie auf Grundlage unseres berechtigten Interesses am Einsatz von verlässlichen und sicheren Zahlungsprozessen (Art. 6 Abs. 1 lit. f DSGVO).
