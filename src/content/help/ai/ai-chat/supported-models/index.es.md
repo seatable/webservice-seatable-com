@@ -29,7 +29,7 @@ Para poder utilizar un modelo en el plugin de chat con IA, necesita una clave AP
 
 - **Anthropic**: Cree una clave API en [console.anthropic.com](https://console.anthropic.com/).
 - **OpenAI**: Cree una clave API en [platform.openai.com](https://platform.openai.com/).
-- **Mistral**: Cree una clave API en [console.mistral.ai](https://console.mistral.ai/).
+- **Mistral**: Cree una clave API en [v2.auth.mistral.ai/login](https://v2.auth.mistral.ai/login).
 
 En los tres proveedores debe registrar un método de pago. Los costes dependen del número de tokens procesados y se facturan directamente por el proveedor.
 

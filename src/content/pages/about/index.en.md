@@ -86,7 +86,7 @@ sections:
             text: <span class='gradient'>seatable.io</span> goes online
           - date: 11/2020
             text: First mention in the <span class='gradient'>German IT press</span>
-            link: https://www.pcwelt.de/ratgeber/
+            link: https://www.pcwelt.de/ratgeber
           - date: 04/2021
             text: <span class='gradient'>SeaTable 2.0</span> appears
           - date: 07/2021

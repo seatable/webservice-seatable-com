@@ -26,7 +26,7 @@ La plupart des fournisseurs IA fonctionnent avec un crédit prépayé. Si aucune
 
 - [Anthropic Console](https://console.anthropic.com/)
 - [OpenAI Platform](https://platform.openai.com/)
-- [Mistral Console](https://console.mistral.ai/)
+- [Mistral Console](https://v2.auth.mistral.ai/login)
 
 ## Aucune réponse ou réponses incorrectes
 

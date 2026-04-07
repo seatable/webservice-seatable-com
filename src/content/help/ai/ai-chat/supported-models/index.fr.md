@@ -29,7 +29,7 @@ Pour utiliser un modèle dans le plugin de chat IA, vous avez besoin d'une clé 
 
 - **Anthropic** : Créez une clé API sur [console.anthropic.com](https://console.anthropic.com/).
 - **OpenAI** : Créez une clé API sur [platform.openai.com](https://platform.openai.com/).
-- **Mistral** : Créez une clé API sur [console.mistral.ai](https://console.mistral.ai/).
+- **Mistral** : Créez une clé API sur [v2.auth.mistral.ai/login](https://v2.auth.mistral.ai/login).
 
 Chez les trois fournisseurs, vous devez enregistrer un moyen de paiement. Les coûts dépendent du nombre de tokens traités et sont facturés directement par le fournisseur.
 

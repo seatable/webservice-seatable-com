@@ -18,7 +18,7 @@ Le plugin de chat IA vous permet de dialoguer directement avec vos données dans
 - Une **clé API** d'un des fournisseurs IA pris en charge :
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
-  - [Mistral](https://console.mistral.ai/) (Mistral)
+  - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Étape 1 : Installer le plugin dans votre base
 

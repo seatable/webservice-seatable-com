@@ -20,7 +20,7 @@ SeaTable ofrece actualmente dos métodos de pago:
 - Pago con tarjeta de crédito
 - Pago por factura
 
-El pago **con tarjeta de crédito** es el método de pago utilizado en la gran mayoría de los casos. Gracias a nuestro proveedor de servicios de pago [Stripe](https://stripe.com), aceptamos pagos con Visa, Mastercard, American Express, China UnionPay, Discover, Diners y Cartes Bancaires.
+El pago **con tarjeta de crédito** es el método de pago utilizado en la gran mayoría de los casos. Gracias a nuestro proveedor de servicios de pago [Stripe](https://stripe.com/es), aceptamos pagos con Visa, Mastercard, American Express, China UnionPay, Discover, Diners y Cartes Bancaires.
 
 El segundo método de pago posible es **el** pago a cuenta, que sólo es posible en determinadas condiciones. Puede consultar cuáles son en el artículo de ayuda Pago [por factura]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).
 

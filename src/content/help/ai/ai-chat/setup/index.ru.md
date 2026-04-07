@@ -18,7 +18,7 @@ seo:
 - **API-ключ** от одного из поддерживаемых ИИ-провайдеров:
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
-  - [Mistral](https://console.mistral.ai/) (Mistral)
+  - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Шаг 1: Установите плагин в вашей базе
 

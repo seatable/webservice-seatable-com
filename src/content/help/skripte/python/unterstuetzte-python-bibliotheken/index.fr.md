@@ -34,7 +34,7 @@ Pour certaines de ces bibliothèques, nous proposons des [exemples Python]({{< r
 | [python-barcode](https://pypi.org/project/python-barcode/) | Génération de codes-barres | [Générer des codes-barres]({{< relref "help/skripte/python/barcode-generieren" >}}) |
 | [pillow-heif](https://pypi.org/project/pillow-heif/) | Support HEIC/HEIF pour Pillow | [Convertir HEIC en PNG]({{< relref "help/skripte/python/heic-zu-png-konvertieren" >}}) |
 | [pdfmerge](https://pypi.org/project/pdfmerge/) | Fusion de PDF | [Fusionner des PDF]({{< relref "help/skripte/python/pdf-zusammenfuehren" >}}) |
-| [rapidfuzz](https://pypi.org/project/rapidfuzz/) | Correspondance floue de chaînes | |
+| [rapidfuzz](https://pypi.org/project/RapidFuzz/) | Correspondance floue de chaînes | |
 | [markdown](https://pypi.org/project/Markdown/) | Conversion Markdown vers HTML | |
 | [ldap3](https://pypi.org/project/ldap3/) | Opérations LDAP | |
 | [dateutils](https://pypi.org/project/dateutils/) | Fonctions utilitaires pour les dates | |
