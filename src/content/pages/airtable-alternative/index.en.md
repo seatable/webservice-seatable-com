@@ -10,7 +10,7 @@ url: '/airtable-alternative'
 sections:
     - name: hero-5
       weight: 1
-      title: The powerful AirTable alternative – GDPR-compliant
+      title: The powerful Airtable alternative – GDPR-compliant
       text: Airtable quickly becomes expensive for growing teams and offers customer support that is widely perceived as inadequate. SeaTable, an alternative to Airtable, offers the same database capabilities, but **at fair prices and with more features right from the start**. It is GDPR-compliant, with servers located in Germany, and is **also available as a self-hosted solution** upon request.
       classes:
           - bg-gray-200
@@ -22,7 +22,7 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: 6 Reasons Why Teams Choose SeaTable as an AirTable Alternative
+      title: 6 Reasons Why Teams Choose SeaTable as an Airtable Alternative
       subtitle: The Benefits of SeaTable 
       text: 
       items:
@@ -79,9 +79,9 @@ sections:
       title: 'SeaTable is the Airtable alternative that grows with your team'
       subtitle: Simple, fair, reliable
       items:
-      - text: 'Get started for free with [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and see how easy it is to use a powerful no-code database. SeaTable users particularly appreciate the transparent pricing, **powerful features included in all subscriptions, the [vibrant community](https://forum.seatable.com/), and support** that’s always there for them. And if you want full control over your data, use [SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}). You won’t find this complete package at AirTable.'
+      - text: 'Get started for free with [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and see how easy it is to use a powerful no-code database. SeaTable users particularly appreciate the transparent pricing, **powerful features included in all subscriptions, the [vibrant community](https://forum.seatable.com/), and support** that’s always there for them. And if you want full control over your data, use [SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}). You won’t find this complete package at Airtable.'
       image: '/images/landing_page_airtable_02.png'
-      image_alt: 'App analytics dashboard in SeaTable, the AirTable alternative.'
+      image_alt: 'App analytics dashboard in SeaTable, the Airtable alternative.'
 
     - name: content-12
       weight: 7
@@ -89,7 +89,7 @@ sections:
           - curved
       title: SeaTable offers full no-code capabilities right from the start
       subtitle: More features at a lower cost
-      description: 'SeaTable is significantly **more affordable than AirTable’s pricing** for comparable functionality—with fewer rigid limits. This starts with the **more comprehensive free plan**, where features are limited in AirTable, and continues with the absence of row limits in SeaTable. **Unlike AirTable, SeaTable offers**:'
+      description: 'SeaTable is significantly **more affordable than Airtable’s pricing** for comparable functionality—with fewer rigid limits. This starts with the **more comprehensive free plan**, where features are limited in Airtable, and continues with the absence of row limits in SeaTable. **Unlike Airtable, SeaTable offers**:'
       items:
           - text: 'Direct integration of JavaScript and Python without extensions or add-ons'
           - text: 'Included in the Free Plan: Timeline view, dynamic filters for linked records, conditional filters for app pages, shared records, custom logo on web forms'
@@ -200,18 +200,18 @@ sections:
         subtitle: "Automatic data transfer"
         text: 'Would you like to use SeaTable as an alternative to Airtable and migrate your bases? No problem. All you need is your Airtable base ID and an access token. Simply select “Import base from Airtable” when creating a base, and enter your details in the import dialog. SeaTable will take care of the rest.' 
       - title: "Build your own apps and self-service portals"
-        subtitle: "Your AirTable alternative with App Builder"
-        text: 'With our [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can transform your database into **a custom application for your team**. Create intuitive input forms or informative reporting dashboards. You can also **share your apps with external stakeholders** using password protection and granular permissions. Ideal if, for example, you’re looking for an AirTable alternative for a [project management solution]({{< relref "pages/industry-solutions/project-management" >}}), a [powerful CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}), or an [ITSM]({{< relref"pages/industry-solutions/software-development" >}}).'
+        subtitle: "Your Airtable alternative with App Builder"
+        text: 'With our [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can transform your database into **a custom application for your team**. Create intuitive input forms or informative reporting dashboards. You can also **share your apps with external stakeholders** using password protection and granular permissions. Ideal if, for example, you’re looking for an Airtable alternative for a [project management solution]({{< relref "pages/industry-solutions/project-management" >}}), a [powerful CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}), or an [ITSM]({{< relref"pages/industry-solutions/software-development" >}}).'
       - title: "A full-featured alternative to Airtable"
         subtitle: "Scripts, automations, apps, and more"
         text: 'SeaTable is more than just an alternative to Airtable: SeaTable is a full-featured, community-driven no-code solution with a [relational database]({{< relref "posts/relationale-datenbank" >}}), App Builder, **native integrations** for services like email providers or Google Calendar, a powerful API, and an integrated **scripting and automation editor** with AI capabilities. Try SeaTable Free for free to see its features for yourself and discover the added value compared to Airtable features.'
       - title: Make SeaTable your very own system
         subtitle: Your URL, your logo, your brand identity
-        text: "In AirTable, the options for customizing the user interface are limited to visual aspects such as colors and changing the logo. As an alternative to Airtable, SeaTable offers significantly more extensive customization options: In the Dedicated Cloud and with on-premises installations, you have your own URL that you and your employees can use to access your SeaTable system. You choose the colors and logo and have full control over your corporate identity. You can also define your own templates, user roles, and permissions to reflect your company’s unique structure."    
+        text: "In Airtable, the options for customizing the user interface are limited to visual aspects such as colors and changing the logo. As an alternative to Airtable, SeaTable offers significantly more extensive customization options: In the Dedicated Cloud and with on-premises installations, you have your own URL that you and your employees can use to access your SeaTable system. You choose the colors and logo and have full control over your corporate identity. You can also define your own templates, user roles, and permissions to reflect your company’s unique structure."    
 
     - name: 'content-3'
       weight: 18
-      title: Your AirTable alternative with deployment options
+      title: Your Airtable alternative with deployment options
       subtitle: Cloud or self-hosted?
       description: 
       items:
@@ -360,9 +360,9 @@ sections:
           - q: 'Are there special rates for public institutions such as universities, clubs, or nonprofit organizations?'
             a: Absolutely. Contact us and we'd be happy to tell you more about our extensive discounts.
 
-          - q: How do SeaTable's prices differ from AirTable's prices?
-            a: AirTable's pricing is less attractive across all subscription tiers. This starts with the free subscription, where AirTable limits certain features. SeaTable Plus, the entry-level paid plan, costs €7 per user per month, while AirTable Team starts at $20 per user per month.
+          - q: How do SeaTable's prices differ from Airtable's prices?
+            a: Airtable's pricing is less attractive across all subscription tiers. This starts with the free subscription, where Airtable limits certain features. SeaTable Plus, the entry-level paid plan, costs €7 per user per month, while Airtable Team starts at $20 per user per month.
 
           - q: 'Does SeaTable offer support?'
-            a: 'Yes, if you have any questions about SeaTable, the AirTable alternative, our support team or community forum is here to help. As business software for small and medium-sized enterprises, SeaTable offers a support package that no other AI no-code solution can match.'
+            a: 'Yes, if you have any questions about SeaTable, the Airtable alternative, our support team or community forum is here to help. As business software for small and medium-sized enterprises, SeaTable offers a support package that no other AI no-code solution can match.'
 ---            
