@@ -9,6 +9,7 @@ url: /pt/instalacao-seatable-enterprise-servidor-web
 aliases:
     - /pt/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
     - /pt/instalacao-seatable-enterprise-ubuntu-20-04
+    - /pt/seatable-installieren-ubuntu-20-04
     - /pt/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren
 color: '#265697'
 seo:
