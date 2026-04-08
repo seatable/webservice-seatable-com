@@ -2,6 +2,7 @@
 title: 'Projektplan'
 description: 'Erfassen Sie Aufgaben im Gantt-Chart oder Kanban-Board, delegieren Sie Zuständigkeiten und stellen Sie Ihr Projektteam perfekt auf.'
 date: '2025-03-07'
+lastmod: '2026-04-08'
 url: '/de/vorlage/projektplan-vorlage'
 aliases:
     - '/de/vorlage/project-plan'
@@ -169,23 +170,23 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQs zur Arbeitszeiterfassung Vorlage von SeaTable'
+      title: 'FAQs zur Projektplan Vorlage von SeaTable'
       subtitle: 
       items:
-      - q: "Kann ich die Arbeitszeiterfassung Vorlage von SeaTable kostenlos nutzen?"
-        a: 'Sie können die Vorlage kostenlos in der SeaTable Cloud nutzen. Sie benötigen lediglich einen kostenlosen Account und können sofort damit beginnen, Arbeitszeiten, Urlaube und Kranktage Ihres Teams digital zu erfassen – ohne zusätzliche Zeiterfassung Excel Dateien.'
-      - q: "Worin unterscheidet sich die SeaTable Arbeitszeiterfassung von einer Arbeitszeiterfassung Excel?"
-        a: 'Bei Arbeitszeiterfassung mit Excel stoßen Sie schnell an Grenzen: manuelle Pflege, fehlende Verknüpfungen, keine Echtzeit-Daten und hohe Fehleranfälligkeit. Die Vorlage in SeaTable bietet Formulare, individuelle Ansichten, Automatisierungen und Dashboards für Arbeitszeit, Überstunden, Pausenzeiten und Urlaubsanspruch – Ihre Zeiterfassung wird dadurch robuster, transparenter und besser in HR-Prozesse integrierbar.'
-      - q: "Kann ich bestehende Zeiterfassung aus Excel in SeaTable importieren?"
-        a: 'Ja, Sie können bestehende Arbeitszeit- oder Stundenzettel-Listen aus Excel per CSV-Import in Ihre Vorlage übernehmen. Nach dem Import passen Sie Felder und Ansichten an und profitieren von den Vorteilen der digitalen Lösung mit Formularen, Dashboards und Automatisierungen.'
-      - q: "Eignet sich diese Vorlage für Projektzeiterfassung?"
-        a: 'Ja, Sie können in der Vorlage Zeiten optional Projekten, Kunden oder Kostenstellen zuordnen. So kombinieren Sie klassische Arbeitszeiterfassung mit Projektzeiterfassung und erhalten eine einheitliche Grundlage für Auswertungen in HR und Controlling.'
-      - q: "Unterstützt die Vorlage die Zeiterfassungspflicht im Unternehmen?"
-        a: 'Die Arbeitszeiterfassung Vorlage hilft Ihnen, die gesetzliche Zeiterfassungspflicht strukturiert umzusetzen. Mitarbeitende erfassen ihre Arbeitszeiten und Pausenzeiten per Formular, während HR und Führungskräfte die Einhaltung von Arbeitszeitregelungen, Überstunden und Urlaubsanspruch zentral überwachen können.'
-      - q: "Wie viele Nutzer können gleichzeitig mit der Vorlage arbeiten?"
-        a: 'Mehrere Nutzer können gleichzeitig Zeiten erfassen, Anträge stellen oder Auswertungen einsehen. Über Berechtigungen steuern Sie, wer nur seine eigenen Zeiten sieht, wer Anträge genehmigen darf und wer als HR-Admin auf alle Daten in der Vorlage zugreifen kann.'
-      - q: "Kann ich eigene Felder, Ansichten und Workflows in der Vorlage anlegen?"
-        a: 'Ja, Sie können jederzeit zusätzliche Spalten, Tabellen, Ansichten (zum Beispiel Kalender, Timeline oder gruppierte Team-Ansichten) sowie Automatisierungen ergänzen. So passen Sie Ihre Vorlage flexibel an Arbeitszeitmodelle, Schichtsysteme und Reporting-Anforderungen im HR an.'
-      - q: "Eignet sich SeaTable als HR-Tool für Arbeitszeiterfassung?"
-        a: 'Ja, SeaTable ist eine moderne, kollaborative Alternative zu klassischer Arbeitszeiterfassung Excel und spezialisierten Zeiterfassungs-Tools. Mit der Arbeitszeiterfassung Vorlage und weiteren HR-Templates verbinden Sie Arbeitszeit, Urlaubsverwaltung, Projektzeiterfassung und Reporting in einer flexiblen Plattform.'
+      - q: "Was gehört in einen professionellen Projektplan?"
+        a: 'Ein professioneller Projektplan umfasst Ziele, Phasen, Aufgaben, Meilensteine, Aufgabenabhängigkeiten, Verantwortlichkeiten, Deadlines und Ressourcen. In der Vorlage von SeaTable bilden Sie all diese Elemente strukturiert und verknüpft ab – inklusive Gantt-Diagramm, Kanban-Ansicht und Echtzeit-Kollaboration.'
+      - q: "Warum sollte ich keine Projektplan Excel Tabelle mehr nutzen?"
+        a: 'Projektplan Excel Tabellen stoßen schnell an Grenzen: fehlende Echtzeit-Kollaboration, manuelle Aktualisierung, kein automatisches Stakeholder-Management und keine saubere Abbildung von Aufgabenabhängigkeiten. Die Vorlage von SeaTable bietet eine Cloud-basierte, interaktive Alternative mit Gantt-Diagrammen, Kanban-Ansichten, automatisierten Benachrichtigungen und flexiblen Auswertungen.'
+      - q: "Wie erstelle ich einen Projektablaufplan in SeaTable?"
+        a: 'Erstellen Sie eine neue Base und wählen Sie die Vorlage aus. Erfassen Sie Aufgaben mit Start- und Enddatum, verknüpfen Sie Verantwortliche und definieren Sie Aufgabenabhängigkeiten. Anschließend nutzen Sie die Timeline- bzw. Gantt-Ansicht, um daraus einen visuellen Projektablaufplan zu erzeugen – deutlich komfortabler als ein Projektablaufplan Excel.'
+      - q: "Kann ich meine Daten aus Excel in das SeaTable Template importieren?"
+        a: 'Ja, Sie können vorhandene Projektplan Excel Dateien als CSV importieren und direkt in die  Vorlage übernehmen. Anschließend passen Sie Felder, Ansichten und Automatisierungen an Ihre Anforderungen an und profitieren von Gantt-Diagramm, Kanban-Ansicht und Echtzeit-Kollaboration – ohne Ihre vorhandenen Daten neu erfassen zu müssen.'
+      - q: "Für welche Projekte eignet sich die Vorlage?"
+        a: 'Die Projektplan Vorlage eignet sich für klassische und agile Projekte – von IT-Implementierungen und Marketingkampagnen über Bau- und Beratungsprojekte bis hin zu Produktentwicklungen. Dank Gantt-Ansicht, Kanban-Ansicht und flexiblen Filtern können Projektmanager jeden Projektplan an ihre Branche und Methodik anpassen.'
+      - q: "Kann ich meinen Projektplan mit Stakeholdern teilen?"
+        a: 'Ja, Sie können Ansichten Ihrer Vorlage gezielt per Link freigeben – etwa nur das Gantt-Diagramm, eine Meilensteinübersicht oder ein Kanban-Board. Über Berechtigungen steuern Sie, ob Stakeholder ausschließlich lesen, kommentieren oder auch Aufgaben bearbeiten dürfen.'
+      - q: "Unterstützt die Vorlage automatisierte Benachrichtigungen?"
+        a: 'Ja, Sie können in SeaTable Automatisierungen einrichten, die bei Statusänderungen, neuen Aufgaben oder drohenden Deadline-Überschreitungen Benachrichtigungen versenden. So bleiben Projektmanager und Teammitglieder immer informiert, ohne den Projektplan ständig manuell prüfen zu müssen.'
+      - q: "Kann ich die Vorlage mit anderen Projektmanagement Vorlagen kombinieren?"
+        a: 'Ja, Sie können die Vorlage mit weiteren SeaTable Templates wie Projektportfolio, Aufgabenliste oder Risiko-Register kombinieren. So entsteht eine integrierte Projektumgebung, in der Sie strategische Planung, operative Steuerung und Reporting in einer zentralen Plattform bündeln.'
 ---
