@@ -1,5 +1,5 @@
 ---
-title: 'Versionsverwaltung und Snapshots einer Universellen App'
+title: 'Versionsverwaltung und Snapshots einer App'
 date: 2023-11-29
 lastmod: '2024-02-16'
 categories:
@@ -7,19 +7,19 @@ categories:
 author: 'kgr'
 url: '/de/hilfe/versionsverwaltung-und-snapshots-einer-universellen-app'
 seo:
-    title: 'Versionsverwaltung & Snapshots in der Universellen App'
-    description: 'Erfahren Sie, wie Sie mit Snapshots Versionen Ihrer Universellen App speichern, anzeigen, wiederherstellen und verwalten, um Änderungen sicher nachzuvollziehen.'
+    title: 'Versionsverwaltung & Snapshots in der App'
+    description: 'Erfahren Sie, wie Sie mit Snapshots Versionen Ihrer App speichern, anzeigen, wiederherstellen und verwalten, um Änderungen sicher nachzuvollziehen.'
 ---
 
-Mithilfe von **Snapshots** können Sie die aktuelle Version einer Universellen App speichern. Snapshots können Sie in der Versionsverwaltung des Universal App Builders **erstellen**, **ansehen**, **wiederherstellen** und **löschen**. Zudem können Sie **Hinweise** zu den einzelnen Snapshots notieren, um Informationen zu einer Version festzuhalten.
+Mithilfe von **Snapshots** können Sie die aktuelle Version einer App speichern. Snapshots können Sie in der Versionsverwaltung des SeaTable App Builders **erstellen**, **ansehen**, **wiederherstellen** und **löschen**. Zudem können Sie **Hinweise** zu den einzelnen Snapshots notieren, um Informationen zu einer Version festzuhalten.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um App Snapshots nutzen zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** haben keinen Zugriff auf die Versionsverwaltung." />}}
 
 ## Wann App Snapshots sinnvoll sind
 
-App Snapshots sind **Momentaufnahmen** vom Zustand einer Universellen App und funktionieren ähnlich wie [Base Snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}). Mithilfe von App Snapshots können Sie die aktuelle Version einer Universellen App als Sicherheitskopie speichern, was zum Beispiel sinnvoll sein kann, wenn Sie umfangreiche Änderungen vornehmen und eventuell einen früheren Zustand wiederherstellen möchten.
+App Snapshots sind **Momentaufnahmen** vom Zustand einer App und funktionieren ähnlich wie [Base Snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}). Mithilfe von App Snapshots können Sie die aktuelle Version einer App als Sicherheitskopie speichern, was zum Beispiel sinnvoll sein kann, wenn Sie umfangreiche Änderungen vornehmen und eventuell einen früheren Zustand wiederherstellen möchten.
 
-{{< warning  type="warning" headline="Achtung vor Datenverlust"  text="Im Gegensatz zu Base Snapshots speichern App Snapshots **keine Datensätze**, sondern nur die **Struktur** und **Einstellungen** der App. Das heißt: Wenn Sie über die Universelle App bestimmte Einträge in der zugrundeliegenden Base verändern oder löschen, können Sie diese nicht über die App Snapshots wiederherstellen." />}}
+{{< warning  type="warning" headline="Achtung vor Datenverlust"  text="Im Gegensatz zu Base Snapshots speichern App Snapshots **keine Datensätze**, sondern nur die **Struktur** und **Einstellungen** der App. Das heißt: Wenn Sie über die App bestimmte Einträge in der zugrundeliegenden Base verändern oder löschen, können Sie diese nicht über die App Snapshots wiederherstellen." />}}
 
 ### Was ein App Snapshot speichert
 
@@ -40,15 +40,15 @@ Ein App Snapshot speichert nicht:
 
 ## App Snapshot erstellen
 
-1. Öffnen Sie eine **Universelle App** im [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
-   ![Universal App Builder im Bearbeitungsmodus mit geöffneter App-Liste](images/Apps-bearbeiten.png)3. Klicken Sie am oberen linken Seitenrand auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionsverwaltung**.
-   ![Versionsverwaltung einer Universellen App mit Liste vorhandener Snapshots](images/Version-management-in-Universal-App-Builder.png)5. Ein Fenster öffnet sich. Erstellen Sie dort einen **neuen Snapshot**.
+1. Öffnen Sie eine **App** im [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
+   ![SeaTable App Builder im Bearbeitungsmodus mit geöffneter App-Liste](images/Apps-bearbeiten.png)3. Klicken Sie am oberen linken Seitenrand auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionsverwaltung**.
+   ![Versionsverwaltung einer App mit Liste vorhandener Snapshots](images/Version-management-in-Universal-App-Builder.png)5. Ein Fenster öffnet sich. Erstellen Sie dort einen **neuen Snapshot**.
 2. Optional können Sie dem Snapshot einen **Hinweis** hinzufügen.
 3. Bestätigen Sie mit **Abschicken**.
 
 ![Erstellung eines neuen App-Snapshots in der Versionsverwaltung mit optionalem Hinweistext](images/Version-management-in-Universal-Apps.gif)
 
-{{< warning  headline="Nummerierung der Versionen"  text="Für jeden Snapshot wird die genaue **Erstellungszeit** und eine **Versionsnummer** erfasst. Wundern Sie sich nicht, wenn Ihre Snapshots keine aufeinanderfolgenden Nummern (1, 2, 3 …) erhalten. SeaTable zählt jede Änderung, die Sie in einer Universellen App vornehmen, als eigene Version. Dadurch können schnell Dutzende Versionen zwischen zwei Snapshots liegen." />}}
+{{< warning  headline="Nummerierung der Versionen"  text="Für jeden Snapshot wird die genaue **Erstellungszeit** und eine **Versionsnummer** erfasst. Wundern Sie sich nicht, wenn Ihre Snapshots keine aufeinanderfolgenden Nummern (1, 2, 3 …) erhalten. SeaTable zählt jede Änderung, die Sie in einer App vornehmen, als eigene Version. Dadurch können schnell Dutzende Versionen zwischen zwei Snapshots liegen." />}}
 
 Sobald Sie einen Snapshot angelegt haben, stehen Ihnen vier Operationen zur Auswahl:
 
@@ -61,7 +61,7 @@ Sobald Sie einen Snapshot angelegt haben, stehen Ihnen vier Operationen zur Ausw
 
 Bevor Sie einen Snapshot wiederherstellen und voreilig zu einer anderen Version zurückspringen, sollten Sie sich diese Version zunächst anschauen. Dazu nehmen Sie den gleichen Weg wie oben: Klicken Sie auf die **drei Punkte** am rechten Ende eines Snapshots und wählen Sie im Drop-down-Menü die Operation **Version anschauen** aus.
 
-![Vorschau einer gespeicherten App-Version im Universal App Builder](images/Preview-version-of-app-snapshot.png)
+![Vorschau einer gespeicherten App-Version im SeaTable App Builder](images/Preview-version-of-app-snapshot.png)
 
 ## App Snapshot wiederherstellen
 
@@ -69,7 +69,7 @@ Um einen App Snapshot wiederherzustellen, klicken Sie auf die **drei Punkte** un
 
 ![Dialog zur Wiederherstellung eines App-Snapshots als aktuelle Version](images/Restore-version-of-app-snapshot.png)
 
-{{< warning  type="warning" headline="Achtung"  text="Die Snapshot-Wiederherstellung im Universal App Builder funktioniert anders als in der Base, wo der Snapshot in einer neuen Base wiederhergestellt wird und die aktuelle Version erhalten bleibt. **Im Universal App Builder hingegen wird die aktuelle Version verworfen, wenn Sie einen Snapshot wiederherstellen.**" />}}
+{{< warning  type="warning" headline="Achtung"  text="Die Snapshot-Wiederherstellung im SeaTable App Builder funktioniert anders als in der Base, wo der Snapshot in einer neuen Base wiederhergestellt wird und die aktuelle Version erhalten bleibt. **Im SeaTable App Builder hingegen wird die aktuelle Version verworfen, wenn Sie einen Snapshot wiederherstellen.**" />}}
 
 Sobald Sie einen Snapshot wiederherstellen, wird die App auf den Speicherstand dieser früheren Version zurückgesetzt. Alle **Änderungen**, die Sie seitdem an Seiten, Ordnern und Einstellungen der App vorgenommen haben, **gehen verloren**. Daher ist es ratsam, vor der Wiederherstellung eines Snapshots auch die aktuelle Version in einem Snapshot zu speichern. So können Sie zwischen verschiedenen Versionen hin- und herspringen.
 

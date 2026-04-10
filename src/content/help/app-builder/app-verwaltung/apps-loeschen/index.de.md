@@ -36,7 +36,7 @@ Eine gelöschte App können Sie **nicht wiederherstellen**. Wenn Sie sich nicht 
 
 Das Wichtigste zuerst: **Durch das Löschen einer App gehen niemals Daten in der zugrundeliegenden Base verloren**. Technisch gesehen löschen Sie also nur eine Benutzeroberfläche und _nicht_ die Datenbank im Hintergrund.
 
-Bitte beachten Sie aber, dass bei der Löschung einer **Universellen App** auch alle [Seiten und Ordner]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}), die sich in der App befinden, **unwiderruflich gelöscht** werden und _nicht_ wiederhergestellt werden können.
+Bitte beachten Sie aber, dass bei der Löschung einer **App** auch alle [Seiten und Ordner]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}), die sich in der App befinden, **unwiderruflich gelöscht** werden und _nicht_ wiederhergestellt werden können.
 
 Bei der Löschung einer **Galerie-App** werden _ausschließlich_ die in der App dargestellten **Galerien** gelöscht, die **Bilder** hingegen bleiben weiterhin in den [Bild-Spalten]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) Ihrer Tabellen erhalten.
 

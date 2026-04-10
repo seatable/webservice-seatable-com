@@ -218,7 +218,7 @@ Em seguida, confirme o processo novamente com **Delete.**
 
 ![Confirmação do processo de eliminação](images/confirm-deletion.jpg)
 
-Os ficheiros eliminados do gestor de ficheiros também desaparecem da sua Base (por exemplo, da assinatura, do ficheiro, das colunas de imagens, dos formulários Web ou das aplicações universais) e vão parar à **reciclagem**, onde permanecem durante 60 dias.
+Os ficheiros eliminados do gestor de ficheiros também desaparecem da sua Base (por exemplo, da assinatura, do ficheiro, das colunas de imagens, dos formulários Web ou das aplicações) e vão parar à **reciclagem**, onde permanecem durante 60 dias.
 
 {{< warning  headline="Nota importante"  text="Tenha em atenção que os ficheiros na reciclagem são permanentemente removidos do sistema **após 60 dias**. Por conseguinte, certifique-se de que **apenas** os ficheiros que já não são necessários estão na reciclagem." />}}
 
@@ -248,7 +248,7 @@ Confirmar a operação com **Apagar.**
 
 As pastas que elimina do gestor de ficheiros vão para a **reciclagem**, onde permanecem durante 60 dias.
 
-{{< warning  headline="Notas importantes"  text="Tenha em atenção que, ao eliminar pastas, **todos os ficheiros** nas respectivas pastas também são **eliminados**. O mesmo se aplica às subpastas de uma pasta eliminada. Por conseguinte, os ficheiros eliminados também desaparecem da sua base (por exemplo, da assinatura, do ficheiro, das colunas de imagens, dos formulários Web ou das aplicações universais). Certifique-se de que **só** elimina do gestor de ficheiros as pastas com ficheiros que já não são necessários. Após **60 dias** na reciclagem, tanto as pastas como os ficheiros são removidos permanentemente do sistema." />}}
+{{< warning  headline="Notas importantes"  text="Tenha em atenção que, ao eliminar pastas, **todos os ficheiros** nas respectivas pastas também são **eliminados**. O mesmo se aplica às subpastas de uma pasta eliminada. Por conseguinte, os ficheiros eliminados também desaparecem da sua base (por exemplo, da assinatura, do ficheiro, das colunas de imagens, dos formulários Web ou das aplicações). Certifique-se de que **só** elimina do gestor de ficheiros as pastas com ficheiros que já não são necessários. Após **60 dias** na reciclagem, tanto as pastas como os ficheiros são removidos permanentemente do sistema." />}}
 
 Se pretender restaurar uma pasta da reciclagem, por exemplo, porque a apagou por engano, clique em **Restaurar**. A pasta aparece então no local onde estava antes de ser apagada. Quando **esvazia** a reciclagem, todos os ficheiros e pastas eliminados são perdidos permanentemente.
 

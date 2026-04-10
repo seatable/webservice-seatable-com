@@ -29,8 +29,8 @@ Le stockage de données volumineuses vous permet de **stocker des lignes de mani
 - [Les opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) ne sont **pas** disponibles dans le cadre des Big Data. La seule exception est la [comparaison et la liaison]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Cette opération peut relier des entrées dans la mémoire Big Data à des lignes dans n'importe quel autre tableau, que les lignes soient stockées dans la base ou dans la mémoire Big Data.
 - La fonction [Rechercher et remplacer]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) n'est **pas** disponible.
 
-{{< warning  headline="Nombre de ces limitations du Big Data ne s'appliquent pas à l'application universelle" >}}
+{{< warning  headline="Nombre de ces limitations du Big Data ne s'appliquent pas à l'application" >}}
 
-La plupart des utilisateurs de l'espace de stockage de données volumineuses ne se sentent pas gênés dans leur travail par ces restrictions. Si toutefois vous êtes concernés, vous pouvez jeter un coup d'œil à l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Certaines des restrictions mentionnées ne s'y appliquent pas.
+La plupart des utilisateurs de l'espace de stockage de données volumineuses ne se sentent pas gênés dans leur travail par ces restrictions. Si toutefois vous êtes concernés, vous pouvez jeter un coup d'œil à l'[application]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Certaines des restrictions mentionnées ne s'y appliquent pas.
 
 {{< /warning >}}

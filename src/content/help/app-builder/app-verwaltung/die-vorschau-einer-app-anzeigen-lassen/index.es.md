@@ -29,16 +29,16 @@ Básicamente, puedes probar tus aplicaciones en cualquier momento abriéndolas e
 
 ![Abrir la aplicación](images/App-oeffnen-1.png)
 
-## Abra la vista previa en Universal App Builder
+## Abra la vista previa en el App Builder
 
 También puede ver el estado actual de su aplicación en cualquier momento en el **modo de edición** del App Builder.
 
-1. Pase el ratón por encima de la aplicación universal y haga clic en el **icono del lápiz que** aparece {{< seatable-icon icon="dtable-icon-rename" >}} para abrirla en modo de edición.
+1. Pase el ratón por encima de la aplicación y haga clic en el **icono del lápiz que** aparece {{< seatable-icon icon="dtable-icon-rename" >}} para abrirla en modo de edición.
 
 ![Editar aplicaciones](images/Apps-bearbeiten.png)
 
 3. Haga clic en el **símbolo del ojo** en la parte superior izquierda de la página.
 
-![Abrir la vista previa de una aplicación universal](images/open-app-preview-of-the-universal-app.png)
+![Abrir la vista previa de una aplicación](images/open-app-preview-of-the-universal-app.png)
 
 5. La **vista previa de la aplicación** se abrirá en una nueva ventana.

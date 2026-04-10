@@ -56,7 +56,7 @@ In unserem Anwendungsbeispiel sollen bei Knopfdruck weibliche Gäste in die Tabe
 
 {{< warning  type="warning" headline="Hinweis" >}}
 
-Auf [Tabellenseiten in Universellen Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) wird diese Schaltflächen-Aktion nicht unterstützt. Bei Knopfdruck erscheint eine entsprechende Fehlermeldung.
+Auf [Tabellenseiten in Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) wird diese Schaltflächen-Aktion nicht unterstützt. Bei Knopfdruck erscheint eine entsprechende Fehlermeldung.
 
 {{< /warning >}}
 

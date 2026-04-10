@@ -1,26 +1,27 @@
 ---
-title: 'Páginas de formulário em aplicações universais'
+title: 'Páginas de formulário em aplicações de SeaTable'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/paginas-formulario-apps-universais'
+url: '/pt/ajuda/paginas-formulario-apps-seatable'
 aliases:
     - '/pt/ajuda/formularseiten-in-universellen-apps'
+    - '/pt/ajuda/paginas-formulario-apps-universais'
 seo:
-    title: 'Páginas de formulário em Apps Universais: guia'
+    title: 'Páginas de formulário em SeaTable Apps: guia'
     description: 'Crie páginas de formulário no SeaTable: campos por drag-and-drop, obrigatórios, textos de ajuda e controle de acesso fácil.'
-
+weight: 3
 ---
 
-Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. As páginas de formulário em aplicações universais são ideais para recolher dados de muitos utilizadores diferentes. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados]({{< relref "pages/arbeitszeiterfassung" >}}).
+Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. As páginas de formulário em aplicações são ideais para recolher dados de muitos utilizadores diferentes. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados]({{< relref "pages/arbeitszeiterfassung" >}}).
 
 ![Formulário Web para registar o tempo de trabalho dos seus empregados](images/webformular-working-time.png)
 
 {{< warning  headline="Dica" >}}
 
-[Os formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) não estão apenas disponíveis na aplicação universal, mas também diretamente na base.
+[Os formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) não estão apenas disponíveis na aplicação, mas também diretamente na base.
 
 {{< /warning >}}
 
@@ -44,7 +45,7 @@ Cada campo também tem **definições de campo** individuais onde pode adicionar
 
 Se pretender alterar a **ordem** dos campos no formulário, pode agarrar e mover um campo utilizando o **símbolo de seis pontos** {{< seatable-icon icon="dtable-icon-drag" >}}. Pode remover um campo do formulário clicando no **ícone do caixote da reciclagem** {{< seatable-icon icon="dtable-icon-delete" >}}.
 
-![Campo na página de formulário de uma aplicação universal](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
+![Campo na página de formulário de uma aplicação](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
 
 ### Outras definições da página do formulário
 
@@ -60,6 +61,6 @@ Por último, mas não menos importante, pode redirecionar os utilizadores para o
 
 Na parte inferior, pode restringir quem pode ver a página do formulário.
 
-![Autorização para páginas individuais da aplicação universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Autorização para páginas individuais da aplicação](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 Esta é a única [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que tem de escolher para as páginas de formulário - porque nenhuma linha na tabela pode ser alterada ou eliminada através de páginas de formulário e qualquer pessoa que possa ver a página também pode submeter formulários, ou seja, adicionar linhas.

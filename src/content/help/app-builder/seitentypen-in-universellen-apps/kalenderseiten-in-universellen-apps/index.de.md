@@ -1,18 +1,20 @@
 ---
-title: 'Kalenderseiten in Universellen Apps'
+title: 'Kalenderseiten in SeaTable Apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/kalenderseiten-in-universellen-apps'
+url: '/de/hilfe/kalenderseiten-in-seatable-apps'
+aliases:
+    - '/de/hilfe/kalenderseiten-in-universellen-apps'
 seo:
-    title: 'Kalenderseiten in Universellen Apps: Meetings & Planung'
-    description: 'Kalenderseiten in SeaTable Universellen Apps: Termine & Projekte im Kalender verwalten, filtern & bearbeiten.'
+    title: 'Kalenderseiten in SeaTable Apps: Meetings & Planung'
+    description: 'Kalenderseiten in SeaTable Apps: Termine & Projekte im Kalender verwalten, filtern & bearbeiten.'
+weight: 5
 ---
 
-Dieser Seitentyp der Universellen App funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-) in der Base und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
+Dieser Seitentyp ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
 
 ![Bevorstehende Meetings in einer Kalenderansicht der Kalenderseite](images/calendar-page-example.png)
 
@@ -30,17 +32,17 @@ In den **Seiteneinstellungen** können Sie unter anderem den **Titel**, das **St
 
 Sie können **voreingestellte Filter** und **ausgeblendete Spalten** definieren, um die angezeigten Daten für die Nutzer einzugrenzen.
 
-![Add filter on calendar pages in Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Add filter on calendar pages](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Klicken Sie dazu auf **Filter hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen Sie mit **Abschicken**.
 
 Die Nutzer können sich mehr Informationen zu einem Termin anzeigen lassen, indem sie auf einen Kalendereintrag klicken.
 
-![Kalendereinträge in der Universellen App öffnen](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
+![Kalendereinträge in der App öffnen](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
 
 Entscheiden Sie daher, welche Daten **sichtbar** sein sollen, und blenden Sie die entsprechenden Spalten mithilfe der **Regler** ein oder aus.
 
-![Hide columns on calendar pages in Universal Apps](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
+![Hide columns on calendar pages](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="**Voreingestellte Filter** und **ausgeblendete Spalten** können die App-Nutzer **nicht verändern**. Sie bekommen also, wie von Ihnen gewünscht, nur die gefilterten Daten angezeigt." />}}
 

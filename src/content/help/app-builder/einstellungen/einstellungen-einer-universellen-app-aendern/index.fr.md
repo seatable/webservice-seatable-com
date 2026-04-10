@@ -1,5 +1,5 @@
 ---
-title: "Modifier les paramètres globaux d'une application universelle"
+title: "Modifier les paramètres globaux d'une application"
 date: 2023-05-03
 lastmod: '2025-07-03'
 categories:
@@ -9,13 +9,13 @@ url: '/fr/aide/einstellungen-einer-universellen-app-aendern'
 aliases:
     - '/fr/aide/einstellungen-einer-universellen-app-aendern'
 seo:
-    title: 'Modifier les réglages globaux d’une App Universelle'
-    description: 'Découvrez comment ajuster les paramètres globaux, URLs et droits d’accès dans une App Universelle SeaTable.'
+    title: 'Modifier les réglages globaux d’une app'
+    description: 'Découvrez comment ajuster les paramètres globaux, URLs et droits d’accès dans une SeaTable App.'
 ---
 
-Au sein d'une **application universelle**, il est possible de procéder en quelques clics à différents **réglages globaux** qui concernent la configuration et l'apparence de l'ensemble de l'application.
+Au sein d'une **application**, il est possible de procéder en quelques clics à différents **réglages globaux** qui concernent la configuration et l'apparence de l'ensemble de l'application.
 
-## Modifier les paramètres d'une application universelle
+## Modifier les paramètres d'une application
 
 1. Ouvrez une **base** dans laquelle vous souhaitez modifier une application existante.
 2. Cliquez sur **Apps** dans l'en-tête de la base.
@@ -24,19 +24,19 @@ Au sein d'une **application universelle**, il est possible de procéder en quelq
 ![Modifier les apps](images/Apps-bearbeiten.png)
 4. Cliquez sur l'**icône en forme d'engrenage** en haut à gauche de la page.
 ![Icône en forme de roue dentée pour les paramètres de l'application](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
-5. Effectuez les ajustements souhaités dans les **paramètres** de l'application universelle.
+5. Effectuez les ajustements souhaités dans les **paramètres** de l'application.
 
 {{< warning  headline="Autorisation requise dans le groupe"  text="Pour pouvoir modifier une app, vous devez être **propriétaire** ou **administrateur du groupe** dans lequel se trouve la **base** sous-jacente. **Les** simples **membres du groupe** peuvent uniquement consulter et utiliser les apps." />}}
 
-## Modifier le nom de l'application universelle
+## Modifier le nom de l'application
 
-Dans la première section des paramètres de l'application, vous pouvez adapter le **nom** de l'application universelle et l'enregistrer en cliquant sur **Envoyer**.
+Dans la première section des paramètres de l'application, vous pouvez adapter le **nom** de l'application et l'enregistrer en cliquant sur **Envoyer**.
 
 ![Changer le nom de l'application](images/Change-app-name.png)
 
 ## URL personnalisée
 
-Dans la deuxième section, vous pouvez personnaliser une partie de l'**URL** qui vous permettra d'accéder à votre application universelle et d'y créer un lien. Il vous suffit de saisir l'URL de votre choix dans le **champ de texte** et de respecter les **exigences** ci-dessous. Vous pouvez ensuite **enregistrer** et **copier** l'URL saisie.
+Dans la deuxième section, vous pouvez personnaliser une partie de l'**URL** qui vous permettra d'accéder à votre application et d'y créer un lien. Il vous suffit de saisir l'URL de votre choix dans le **champ de texte** et de respecter les **exigences** ci-dessous. Vous pouvez ensuite **enregistrer** et **copier** l'URL saisie.
 
 ![Modifier l'URL personnalisée](images/Edit-custom-URL.png)
 
@@ -70,7 +70,7 @@ Cette section n'est pertinente que si vous avez activé la [mémoire Big Data]({
 
 ## Accès ouvert
 
-Dans la dernière section, vous pouvez définir un accès ouvert pour votre application universelle. Donc, vous pouvez **autoriser les utilisateurs non connectés** à votre application. Ensuite, toute personne qui consulte le lien puisse voir les données (mais pas les modifier).
+Dans la dernière section, vous pouvez définir un accès ouvert pour votre application. Donc, vous pouvez **autoriser les utilisateurs non connectés** à votre application. Ensuite, toute personne qui consulte le lien puisse voir les données (mais pas les modifier).
 
 ![Accès ouvert à une application](images/Open-access-to-an-app.png)
 
@@ -80,6 +80,6 @@ Vous pouvez également activer que **chaque utilisateur connecté qui utilise l'
 
 ## Modifier les paramètres des pages individuelles
 
-Les paramètres mentionnés jusqu'ici concernent l'**ensemble** d'une **application universelle**. Si vous souhaitez modifier les paramètres d'une **seule page**, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} de la page correspondante.
+Les paramètres mentionnés jusqu'ici concernent l'**ensemble** d'une **application**. Si vous souhaitez modifier les paramètres d'une **seule page**, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} de la page correspondante.
 
 ![Ouvrir les paramètres de la page](images/page-permissions-universal-app.png)

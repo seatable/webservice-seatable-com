@@ -54,7 +54,7 @@ Si vous gérez par exemple un tableau dans lequel vous saisissez les tâches ouv
 L'alternative serait de filtrer selon la colonne [Créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
 
 - La **valeur dans la colonne du créateur** ne peut _plus_ être **modifiée** ultérieurement. Une fois définie, la valeur reste toujours la même. Cela poserait problème dans l'exemple ci-dessus, car le créateur des tâches n'est _pas_ le collaborateur.
-- La **colonne des collaborateurs** ne peut être remplie que si un membre de l'équipe a au moins **un accès en lecture** à la base. Cela n'est peut-être _pas_ souhaitable, en particulier lors de l'utilisation de l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+- La **colonne des collaborateurs** ne peut être remplie que si un membre de l'équipe a au moins **un accès en lecture** à la base. Cela n'est peut-être _pas_ souhaitable, en particulier lors de l'utilisation de l'[application]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 - La colonne des collaborateurs ne peut _pas_ être **remplie automatiquement via le formulaire web**. Par contre, l'ID de l'utilisateur peut être définie comme valeur par défaut par l'attribution de _{creator.id}_.
 
 Vous pouvez adapter à tout moment l'**ID utilisateur** inscrit dans la colonne de texte. Ainsi, si vous souhaitez modifier **ultérieurement** l'attribution d'une ligne, le filtrage selon l'ID utilisateur est très utile.

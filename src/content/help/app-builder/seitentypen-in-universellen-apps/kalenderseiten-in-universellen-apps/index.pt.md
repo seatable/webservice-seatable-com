@@ -1,19 +1,21 @@
 ---
-title: 'Páginas de calendário em aplicações universais'
+title: 'Páginas de calendário em aplicações de SeaTable'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/paginas-de-calendario-em-apps-universais'
+url: '/pt/ajuda/paginas-de-calendario-em-apps-seatable'
 aliases:
     - '/pt/ajuda/kalenderseiten-in-universellen-apps'
+    - '/pt/ajuda/paginas-de-calendario-em-apps-universais'
 seo:
-    title: 'Páginas de calendário em Apps Universais'
-    description: 'Use calendário nas Apps Universais SeaTable para planejar eventos, filtrar, editar compromissos e tarefas fácil.'
+    title: 'Páginas de calendário em SeaTable Apps'
+    description: 'Use calendário nas SeaTable Apps para planejar eventos, filtrar, editar compromissos e tarefas fácil.'
+weight: 5
 ---
 
-Este tipo de página da aplicação universal funciona de forma semelhante ao [plug-in de calendário]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) da sua tabela num **calendário**. Um caso de utilização específico poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
+Este tipo de página permite-lhe apresentar as entradas de uma ou duas [colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) da sua tabela num **calendário**. Um caso de utilização específico poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
 
 ![Próximas reuniões numa vista de calendário da página de calendário](images/calendar-page-example.png)
 
@@ -31,19 +33,19 @@ Nas **definições da página**, pode selecionar o **título**, a **data de iní
 
 É possível definir **filtros predefinidos** e **colunas ocultas** para limitar os dados apresentados aos utilizadores.
 
-![Adicionar filtro nas páginas de calendário nas Aplicações Universais](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Adicionar filtro nas páginas de calendário](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Para tal, clique em **Adicionar filtro**, seleccione a **coluna** e a **condição** pretendidas e confirme com **Enviar**.
 
 Os utilizadores podem ver mais informações sobre um compromisso clicando numa entrada de calendário.
 
-![Abrir entradas de calendário na aplicação universal](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
+![Abrir entradas de calendário numa aplicação](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
 
 Por conseguinte, decida quais os dados que devem ser **visíveis** e mostre ou oculte as colunas correspondentes utilizando os **cursores**.
 
-![Ocultar colunas em páginas de calendário em aplicações universais](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
+![Ocultar colunas em páginas de calendário](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar****os filtros predefinidos** e **as colunas ocultas**. Por conseguinte, o utilizador só verá os dados filtrados que desejar." />}}
+{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros predefinidos** e **as colunas ocultas**. Por conseguinte, o utilizador só verá os dados filtrados que desejar." />}}
 
 ## Adicionar entrada de calendário
 

@@ -25,7 +25,7 @@ seo:
 - [Базовые описания]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}})
 - Тексты электронной почты при отправке через [автоматизацию]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Универсальные приложения]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
+- [Приложения]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
 
 Как только Markdown будет использован в SeaTable, вам будет предложена следующая маска ввода. Конечно, вы можете пометить слова или текстовые блоки как обычно, а затем выбрать нужное форматирование.
 

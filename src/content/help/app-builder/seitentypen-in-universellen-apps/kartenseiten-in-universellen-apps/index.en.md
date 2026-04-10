@@ -1,15 +1,15 @@
 ---
-title: 'Map pages in apps'
+title: 'Map pages in SeaTable apps'
 date: 2026-04-07
 lastmod: '2026-04-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/map-pages-in-apps'
+url: '/help/map-pages-in-seatable-apps'
 seo:
-    title: 'Map pages in apps: visualize places on a map'
+    title: 'Map pages in SeaTable apps: visualize places on a map'
     description: 'Create map pages in SeaTable apps: flexibly visualize geolocation data and addresses on a world map.'
-weight: 9
+weight: 10
 ---
 
 This page type allows you to display **locations**, using **geoposition or address data** from a table, on a **world map** within the app.

@@ -1,4 +1,4 @@
 ---
-title: Tipos de página en aplicaciones universales
+title: Tipos de página en aplicaciones de SeaTable
 url: '/es/ayuda/app-builder/tipos-de-pagina'
 ---

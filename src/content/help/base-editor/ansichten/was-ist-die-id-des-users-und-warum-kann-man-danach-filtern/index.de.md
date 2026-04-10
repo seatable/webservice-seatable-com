@@ -49,7 +49,7 @@ Wenn Sie nun beispielsweise eine Tabelle pflegen, in die Sie die offenen Aufgabe
 Die Alternative wäre das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) oder [Mitarbeiter]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
 
 - Der **Wert in der Ersteller-Spalte** lässt sich nachträglich _nicht_ mehr **ändern**. Einmal gesetzt, bleibt der Wert immer gleich. Dies wäre im oben genannten Beispiel problematisch, da der Ersteller der Aufgaben _nicht_ der Mitarbeiter ist.
-- Die **Mitarbeiter-Spalte** lässt sich nur füllen, wenn ein Teammitglied mindestens **Lesezugriff** auf die Base hat. Insbesondere beim Einsatz der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) ist dies vielleicht _nicht_ gewünscht.
+- Die **Mitarbeiter-Spalte** lässt sich nur füllen, wenn ein Teammitglied mindestens **Lesezugriff** auf die Base hat. Insbesondere beim Einsatz der [App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) ist dies vielleicht _nicht_ gewünscht.
 - Die Mitarbeiter-Spalte lässt sich _nicht_ **automatisch per Webformular füllen**. Die ID des Users kann hingegen per Zuweisung von _{creator.id}_ als Standard-Wert gesetzt werden.
 
 Die in der Text-Spalte eingetragene **User-ID** können Sie jederzeit anpassen. Wenn Sie also die Zuweisung einer Zeile **nachträglich** verändern wollen, ist das Filtern nach der User-ID sehr hilfreich.

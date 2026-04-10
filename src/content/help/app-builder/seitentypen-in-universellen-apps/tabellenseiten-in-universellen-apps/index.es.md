@@ -1,22 +1,23 @@
 ---
-title: 'Páginas de tabla en aplicaciones universales'
+title: 'Páginas de tabla en aplicaciones de SeaTable'
 date: 2023-12-01
 lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/paginas-tabla-apps-universales'
+url: '/es/ayuda/paginas-tabla-apps-seatable'
 aliases:
     - '/es/ayuda/tabellenseiten-in-universellen-apps'
+    - '/es/ayuda/paginas-tabla-apps-universales'
 seo:
-    title: 'Páginas de tabla en Apps Universales'
-    description: 'Añada tablas como páginas en Apps Universales y defina filtros, orden, agrupaciones, columnas visibles y permisos de edición. Exporte los datos a Excel fácilmente.'
-
+    title: 'Páginas de tabla en SeaTable Apps'
+    description: 'Añada tablas como páginas en SeaTable Apps y defina filtros, orden, agrupaciones, columnas visibles y permisos de edición. Exporte los datos a Excel fácilmente.'
+weight: 2
 ---
 
-Puede utilizar este tipo de página para [añadir]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) cualquier **tabla** de su base como página a su aplicación universal.
+Puede utilizar este tipo de página para [añadir]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) cualquier **tabla** de su base como página a su aplicación.
 
-![Página de tabla en Universal App](images/Table-page-in-Universal-App.png)
+![Página de tabla en una app](images/Table-page-in-Universal-App.png)
 
 ## Cambiar la configuración de la página
 
@@ -32,13 +33,13 @@ Al editar páginas de tablas, puede realizar numerosos **ajustes de página** pa
 
 Puede definir **filtros**, **ordenaciones** y **agrupaciones** **predefinidos** en la configuración de la página para limitar y organizar los datos mostrados para un grupo de usuarios.
 
-![Añadir filtro en la página de tabla en Universal Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
+![Añadir filtro en la página de tabla en SeaTable Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
 Para ello, haga clic en **Añadir filtro**, **Añadir ordenación** o **Añadir grupo**, seleccione la **columna** y la **condición** deseadas y confirme con **Enviar**.
 
 {{< warning  headline="Nota importante"  text="Los usuarios de la aplicación **no pueden cambiar los filtros preestablecidos**. Por lo tanto, sólo se les muestran los datos filtrados, como usted desee. La ordenación y agrupación preestablecidas, por otro lado, sólo definen una **vista** estándar que los usuarios pueden cambiar individualmente." />}}
 
-![Vista por defecto agrupada por una columna en una página de tabla en Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
+![Vista por defecto agrupada por una columna en una página de tabla en SeaTable Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
 
 {{< warning  headline="Filtrar por columnas de número o duración"  text="Si desea filtrar por columnas numéricas o de duración, debe respetar ciertas especificaciones de formato. Debe escribir los **números decimales** con un punto como separador, introducir los **valores porcentuales** como números decimales (por ejemplo, 99% = 0,99) y convertir la **duración** en segundos (por ejemplo, 1 hora = 3600 segundos)." />}}
 
@@ -46,11 +47,11 @@ Para ello, haga clic en **Añadir filtro**, **Añadir ordenación** o **Añadir 
 
 Además de los filtros preestablecidos, también puede definir **columnas ocultas y de sólo lectura** para restringir aún más la visibilidad y editabilidad de determinados datos.
 
-![Preestablecer columnas ocultas en Universal App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
+![Preestablecer columnas ocultas en el App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
 
 Sólo tiene que hacer clic en los **controles deslizantes** o **casillas** de las columnas que desee **ocultar** o que **sean de sólo lectura** para los usuarios.
 
-![Columnas de sólo lectura en páginas de tablas en Universal Apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
+![Columnas de sólo lectura en páginas de tablas en SeaTable Apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
 
 Puede reconocer las columnas protegidas contra escritura porque aparecen resaltadas en **gris** en la tabla y marcadas con el **símbolo de un candado**.
 
@@ -67,7 +68,7 @@ Con las **opciones de vista** encima de la tabla, los usuarios de la aplicación
 - [Ajustar la altura de la línea]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Ajustar el número de columnas fijas]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
 
-![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+![User view options on table pages in SeaTable Apps](images/user-view-options-on-table-pages-in-apps.png)
 
 Como se ha mencionado anteriormente, la configuración individual de la vista por parte del usuario **no tiene ningún efecto sobre la configuración estándar** que usted ha predefinido para la página de la tabla. Por ejemplo, el usuario puede filtrar adicionalmente una vista que usted haya prefiltrado u ocultar columnas adicionales, pero no puede mostrar los registros de datos ni las columnas ocultas que usted haya filtrado, ni siquiera hacerlos visibles para los demás.
 
@@ -75,7 +76,7 @@ Como se ha mencionado anteriormente, la configuración individual de la vista po
 
 En **la configuración de la columna de enlace**, puede especificar qué datos son visibles y qué operaciones están permitidas para cada tabla enlazada.
 
-![Configuración de columnas de enlace en páginas de tablas en Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+![Configuración de columnas de enlace en páginas de tablas en SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Configuración de campos**: Aquí puede definir exactamente a qué columnas se aplican las siguientes autorizaciones.
 - **Crear y vincular nuevas entradas**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para especificar qué columnas son **necesarias**, es decir, deben rellenarse.
@@ -89,7 +90,7 @@ En **la configuración de la columna de enlace**, puede especificar qué datos s
 
 En las páginas de tablas donde diferentes usuarios pueden hacer nuevas entradas en una base, es fácil que se creen **filas idénticas**. Puede evitarlo impidiendo que se añadan duplicados. Para ello, active el **control deslizante** correspondiente y seleccione las **columnas** en las que deben coincidir los valores para que una fila se considere **duplicada**. Si se bloquea la adición de una fila, aparece el mensaje de error correspondiente.
 
-![Evitar la adición de duplicados en las aplicaciones universales](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Evitar la adición de duplicados en las aplicaciones](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Comprobación del formato de las nuevas entradas
 
@@ -103,7 +104,7 @@ Por ejemplo, puede minimizar los **errores de escritura** en cadenas de caracter
 
 Si utiliza la [coloración de celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) en la tabla subyacente, puede activar la opción de mostrar el formato de celda en la página de la tabla haciendo clic en ella.
 
-![Mostrar el color de las celdas en las páginas de tablas en Universal Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
+![Mostrar el color de las celdas en las páginas de tablas en SeaTable Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 
 ## Exportar página de tabla como archivo Excel
 

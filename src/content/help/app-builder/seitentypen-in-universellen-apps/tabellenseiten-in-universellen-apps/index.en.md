@@ -1,22 +1,23 @@
 ---
-title: 'Table pages in universal apps'
+title: 'Table pages in SeaTable apps'
 date: 2023-12-01
 lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/table-pages-universal-apps'
+url: '/help/table-pages-seatable-apps'
 aliases:
     - '/help/tabellenseiten-in-universellen-apps'
+    - '/help/table-pages-universal-apps'
 seo:
-    title: 'Design table pages in Universal Apps'
-    description: 'Add tables as pages in Universal Apps, set filters, sorting, grouping and column visibility. Manage editing rights and export the page to Excel with one click.'
-
+    title: 'Design table pages in SeaTable Apps'
+    description: 'Add tables as pages in SeaTable Apps, set filters, sorting, grouping and column visibility. Manage editing rights and export the page to Excel with one click.'
+weight: 2
 ---
 
 You can use this page type to [add a table from your base to your app]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-![Table page in Universal App](images/Table-page-in-Universal-App.png)
+![Table page in app](images/Table-page-in-Universal-App.png)
 
 ## Change page settings
 
@@ -32,13 +33,13 @@ When editing table pages, you can make numerous **page settings** to tailor the 
 
 You can define **preset filters**, **sorting** and **grouping** in the page settings to limit and organize the displayed data for a user group.
 
-![Add filter on table page in Universal Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
+![Add filter on table page in SeaTable Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
 To do this, click on **Add filter**, **Add sort** or **Add group**, select the desired **column** and **condition** and confirm with **Submit**.
 
 {{< warning  headline="Important note"  text="App users **cannot change preset filters**. They are therefore only shown the filtered data, as you wish. Preset sorting and grouping, on the other hand, only define a **standard view** that users can change individually." />}}
 
-![Default view grouped by one column on a table page in Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
+![Default view grouped by one column on a table page in SeaTable Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
 
 {{< warning  headline="Filter by number or duration columns"  text="If you want to filter by number or duration columns, there are certain format specifications to observe. **Decimal numbers** must be written with a dot as a separator, **percentage values** must be entered as decimal numbers (e.g. 99% = 0.99) and the **duration** must be converted into seconds (e.g. 1 hour = 3600 seconds)." />}}
 
@@ -46,11 +47,11 @@ To do this, click on **Add filter**, **Add sort** or **Add group**, select the d
 
 In addition to the preset filters, you can also define **hidden and read-only columns** to further restrict the visibility and editability of certain data.
 
-![Preset hidden columns in Universal App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
+![Preset hidden columns in App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
 
 Simply click on the **sliders** or **boxes** of the columns that should be **hidden** or **read-only** for the users.
 
-![Read-only columns on table pages in Universal Apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
+![Read-only columns on table pages in SeaTable Apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
 
 You can recognize read-only columns by the fact that they are highlighted in **grey** in the table and marked with a **lock symbol**.
 
@@ -67,7 +68,7 @@ With the **view options** above the table, app users can make their own addition
 - [Set row height]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Adjust the number of frozen columns]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
 
-![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+![User view options on table pages in SeaTable Apps](images/user-view-options-on-table-pages-in-apps.png)
 
 As mentioned above, the user's individual view settings **have no effect on the standard settings** you have predefined for the table page. For example, the user can hide additional columns or additionally filter a view that you have pre-filtered, but they cannot display any rows that you have filtered out or columns that you have hidden or even make them visible to others.
 
@@ -75,7 +76,7 @@ As mentioned above, the user's individual view settings **have no effect on the 
 
 In the **settings for the link column**, you can define which data is visible and which operations are permitted for each linked table.
 
-![Link column settings on table pages in Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+![Link column settings on table pages in SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Field settings**: Here you can define exactly which columns the following authorizations apply to.
 - **Add and link new records**: If you activate this slider, users can add new records to the linked table. You can use the field settings to specify which columns are **required**, i.e. must be filled in.
@@ -89,7 +90,7 @@ In the **settings for the link column**, you can define which data is visible an
 
 On table pages where different users can make new entries in a base, it is easy for **identical rows** to be created. You can prevent this by preventing duplicates from being added. To do this, activate the corresponding **slider** and select the **columns** in which the values must match for an row to be considered a **duplicate**. If the addition of an row is blocked, a corresponding error message appears.
 
-![Prevent the addition of duplicates in universal apps](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Prevent the addition of duplicates in SeaTable apps](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Format check for new entries
 
@@ -103,7 +104,7 @@ For example, you can minimize **typing errors** for clearly defined character st
 
 If you use the [coloring of cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) in the underlying table, you can activate the option to display the cell formatting on the table page with one click.
 
-![Show cell coloring on table pages in Universal Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
+![Show cell coloring on table pages in SeaTable Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 
 ## Export table page as Excel file
 

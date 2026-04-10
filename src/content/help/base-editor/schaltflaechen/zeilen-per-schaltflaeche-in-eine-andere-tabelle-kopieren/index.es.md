@@ -61,7 +61,7 @@ En nuestro ejemplo de aplicación, cuando se pulsa el botón, las invitadas feme
 
 {{< warning  headline="Nota" >}}
 
-Esta acción de botón no es compatible con las [páginas de tabla de las aplicaciones universales]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Cuando se pulsa el botón, aparece el mensaje de error correspondiente.
+Esta acción de botón no es compatible con las [páginas de tabla de las aplicaciones]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Cuando se pulsa el botón, aparece el mensaje de error correspondiente.
 
 {{< /warning >}}
 

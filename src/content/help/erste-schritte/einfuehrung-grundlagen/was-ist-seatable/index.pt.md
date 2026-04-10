@@ -60,7 +60,7 @@ Defina os campos relevantes, as dependências, as notificações, etc. no modo d
 
 ### ... é o backend para as suas aplicações
 
-Com o intuitivo App Builder do SeaTable, pode criar qualquer número de [Apps]({{< relref "help/app-builder/app-verwaltung/welche-apps-gibt-es" >}}), ou seja, frontends personalizados para grupos de utilizadores específicos, a partir do backend da sua base de dados. Na [Aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) pode dar largas à sua criatividade.
+Com o intuitivo App Builder do SeaTable, pode criar qualquer número de [Apps]({{< relref "help/app-builder/app-verwaltung/welche-apps-gibt-es" >}}), ou seja, frontends personalizados para grupos de utilizadores específicos, a partir do backend da sua base de dados. Na [aplicação]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) pode dar largas à sua criatividade.
 
 SeaTable tem uma gama de tipos de páginas que pode utilizar para apresentar dados no App Builder sob a forma de tabelas, formulários, calendários ou galerias, entre outras coisas. Ao criar uma [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), também pode criar painéis com estatísticas significativas dos seus dados e partilhá-los com outros utilizadores (externos).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Change global settings of a universal app'
+title: 'Change global settings of an app'
 date: 2023-05-03
 lastmod: '2025-07-03'
 categories:
@@ -9,13 +9,13 @@ url: '/help/change-universal-app-global-settings'
 aliases:
     - '/help/einstellungen-einer-universellen-app-aendern'
 seo:
-    title: 'Change global settings in a Universal App'
-    description: 'Learn how to customize global settings, URLs, navigation and access control in your SeaTable Universal App.'
+    title: 'Change global settings in an app'
+    description: 'Learn how to customize global settings, URLs, navigation and access control in your SeaTable app.'
 ---
 
-Within a **universal app**, you can make various **global settings** that affect the configuration and appearance of the entire app with just a few clicks.
+Within an **app**, you can make various **global settings** that affect the configuration and appearance of the entire app with just a few clicks.
 
-## Change the settings of a universal app
+## Change the settings of an app
 
 1. Open a **base** in which you want to edit an existing app.
 2. Click **Apps** in the base header.
@@ -24,19 +24,19 @@ Within a **universal app**, you can make various **global settings** that affect
 ![Edit apps](images/Apps-bearbeiten.png)
 4. Click the **gear icon** at the top left of the page.
 ![Gear icon for app settings](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
-5. Make the desired adjustments to the **settings** of the Universal App.
+5. Make the desired adjustments to the **settings** of the app.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to edit an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use the apps." />}}
 
-## Edit the name of the Universal App
+## Edit the name of the app
 
-In the first section of the app settings you can customize the **name of** the Universal App and save it by clicking **Submit**.
+In the first section of the app settings you can customize the **name of** the app and save it by clicking **Submit**.
 
 ![Change app name](images/Change-app-name.png)
 
 ## User-defined URL
 
-In the second section, you can customize part of the **URL** that you can use to access and link to your Universal App. Simply enter your desired URL in the **text field** and note the **requirements** below when entering it. You can then **save** and **copy** the URL you have entered.
+In the second section, you can customize part of the **URL** that you can use to access and link to your app. Simply enter your desired URL in the **text field** and note the **requirements** below when entering it. You can then **save** and **copy** the URL you have entered.
 
 ![Edit custom URL](images/Edit-custom-URL.png)
 
@@ -80,6 +80,6 @@ However, you can also activate that **any logged-in user who visits the app is a
 
 ## Edit settings of individual pages
 
-The settings mentioned so far affect an **entire Universal App**. If you want to change the settings of a **single page**, click the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}} of the corresponding page in the navigation.
+The settings mentioned so far affect an **entire app**. If you want to change the settings of a **single page**, click the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}} of the corresponding page in the navigation.
 
 ![Open the page settings](images/page-permissions-universal-app.png)

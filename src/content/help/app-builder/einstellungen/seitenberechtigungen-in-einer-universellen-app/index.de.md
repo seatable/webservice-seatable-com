@@ -1,5 +1,5 @@
 ---
-title: 'Seitenberechtigungen in einer Universellen App'
+title: 'Seitenberechtigungen in einer App'
 date: 2023-05-03
 lastmod: '2023-11-30'
 categories:
@@ -7,22 +7,22 @@ categories:
 author: 'nsc2'
 url: '/de/hilfe/seitenberechtigungen-in-einer-universellen-app'
 seo:
-    title: 'Seitenberechtigungen in Universeller App – Anleitung'
-    description: 'Lernen Sie, wie Sie Seitenberechtigungen in SeaTable Universellen Apps festlegen, bearbeiten und Rollen präzise steuern.'
+    title: 'Seitenberechtigungen in der App – Anleitung'
+    description: 'Lernen Sie, wie Sie Seitenberechtigungen in SeaTable Apps festlegen, bearbeiten und Rollen präzise steuern.'
 ---
 
 {{< required-version "Enterprise" >}}
 
-Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite, die Sie in einer Universellen App angelegt haben, **individuelle Seitenberechtigungen** festlegen. Die Bearbeitung der Berechtigungen erfolgt über die Seiteneinstellungen.
+Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite, die Sie in einer App angelegt haben, **individuelle Seitenberechtigungen** festlegen. Die Bearbeitung der Berechtigungen erfolgt über die Seiteneinstellungen.
 
 {{< warning  type="warning" headline="Standard-Seitenberechtigung"  text="Wenn Sie **neue Seiten** in Ihrer App anlegen, gewähren diese zunächst allen Benutzern alle verfügbaren Rechte. Wollen Sie jedoch die Nutzungsrechte einschränken, ist die Anpassung der Seitenberechtigungen erforderlich." />}}
 
 ## Seitenberechtigungen festlegen und bearbeiten
 
-1. Öffnen Sie eine **Base**, der Sie bereits eine Universelle App hinzugefügt haben.
+1. Öffnen Sie eine **Base**, der Sie bereits eine App hinzugefügt haben.
 2. Klicken Sie im Base-Header auf **Apps**.
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
-3. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+3. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Klicken Sie auf das Bearbeitungs-Symbol](images/add-page-to-universal-app-1.png)
 4. Wählen Sie aus der Navigation am linken Seitenrand die gewünschte **Seite** aus und klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}.
    ![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png)
@@ -59,6 +59,6 @@ Für jede Berechtigung stehen Ihnen folgende Optionen zur Auswahl, mit denen Sie
 
 ![Verfügbare Optionen der Seitenberechtigung Wer kann die Seite sehen?](images/page-permission-who-can-add-records.png)
 
-Wählen Sie die Option **Bestimmte Rollen** aus, um selbst definierte Rollen festzulegen. Dazu erstellen Sie zuvor in der [Benutzer- und Rollenverwaltung]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) neue **Rollen** für einzelne Nutzergruppen, denen Sie auf jeder Seite der Universellen App individuell Berechtigungen zuweisen können.
+Wählen Sie die Option **Bestimmte Rollen** aus, um selbst definierte Rollen festzulegen. Dazu erstellen Sie zuvor in der [Benutzer- und Rollenverwaltung]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) neue **Rollen** für einzelne Nutzergruppen, denen Sie auf jeder Seite der App individuell Berechtigungen zuweisen können.
 
 ![Definition von bestimmten Rollen, die über eine entsprechende Berechtigung verfügen](images/define-roles.png)

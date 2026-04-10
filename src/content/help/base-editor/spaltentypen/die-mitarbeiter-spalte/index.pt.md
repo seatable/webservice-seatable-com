@@ -55,10 +55,10 @@ Ao enviar notificações através de [automatismos]({{< relref "help/base-editor
 
 ![Coluna do colaborador para notificações automáticas](images/Collaborator-column-for-automated-notifications.gif)
 
-## A coluna do colaborador em aplicações universais
+## A coluna do colaborador em aplicações
 
-A coluna do colaborador é também uma vantagem na [aplicação Universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) da aplicação.
+A coluna do colaborador é também uma vantagem na [aplicação]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) da aplicação.
 
-Se não quiser que os utilizadores da aplicação possam ver os registos de dados de outros utilizadores, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do colaborador com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
+Se não quiser que os utilizadores da aplicação possam ver os registos de dados de outros utilizadores, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do colaborador com a condição "inclui o utilizador atual", cada utilizador da aplicação só vê as entradas que lhe estão atribuídas na tabela.
 
-![Coluna do colaborador na aplicação universal](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Coluna do colaborador na aplicação](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)

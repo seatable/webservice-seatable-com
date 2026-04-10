@@ -22,7 +22,7 @@ Neste artigo de síntese, ficará a conhecer os tipos de página disponíveis e 
 
 ## Tipos de páginas nas aplicações
 
-Atualmente, é possível escolher entre um total de **10 tipos de páginas** no modo de edição da aplicação universal.
+Atualmente, é possível escolher entre um total de **10 tipos de páginas** no modo de edição da aplicação.
 
 ![Tipos de página nas aplicações](images/page-types-in-apps.png)
 

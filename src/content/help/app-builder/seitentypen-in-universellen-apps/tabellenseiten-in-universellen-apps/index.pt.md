@@ -1,22 +1,23 @@
 ---
-title: 'Páginas de tabelas em aplicações universais'
+title: 'Páginas de tabela em aplicações de SeaTable'
 date: 2023-12-01
 lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/paginas-tabela-apps-universais'
+url: '/pt/ajuda/paginas-tabela-apps-seatable'
 aliases:
     - '/pt/ajuda/tabellenseiten-in-universellen-apps'
+    - '/pt/ajuda/paginas-tabela-apps-universais'
 seo:
-    title: 'Páginas de tabela em Apps Universais'
-    description: 'Crie páginas de tabela na App Universal, configure filtros, ordenações, grupos, colunas visíveis e permissões. Realize exportação Excel e ajuste opções conforme sua necessidade.'
-
+    title: 'Páginas de tabela em aplicações de SeaTable'
+    description: 'Crie páginas de tabela nas aplicações de SeaTable, configure filtros, ordenações, grupos, colunas visíveis e permissões. Realize exportação Excel e ajuste opções conforme sua necessidade.'
+weight: 2
 ---
 
-Pode utilizar este tipo de página para [adicionar]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) qualquer **tabela** da sua base como uma página à sua aplicação universal.
+Pode utilizar este tipo de página para [adicionar]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) qualquer **tabela** da sua base como uma página à sua aplicação.
 
-![Página de tabela na aplicação universal](images/Table-page-in-Universal-App.png)
+![Página de tabela na aplicação](images/Table-page-in-Universal-App.png)
 
 ## Alterar as definições da página
 
@@ -32,13 +33,13 @@ Ao editar páginas de tabela, é possível definir várias **configurações de 
 
 É possível definir **filtros predefinidos**, **ordenação** e **agrupamentos** nas definições da página para limitar e organizar os dados apresentados para um grupo de utilizadores.
 
-![Adicionar filtro na página da tabela em aplicações universais](images/Add-filter-on-table-page-in-Universal-Apps.png)
+![Adicionar filtro na página da tabela em aplicações](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
 Para tal, clique em **Adicionar filtro**, **Adicionar ordenação** ou **Adicionar grupo**, seleccione a **coluna** e a **condição** pretendidas e confirme com **Enviar**.
 
 {{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros predefinidos**. Por conseguinte, apenas lhes são mostrados os dados filtrados, conforme pretendido. A ordenação e o agrupamento predefinidos, por outro lado, apenas definem uma **vista padrão** que os utilizadores podem alterar individualmente." />}}
 
-![Vista predefinida agrupada por uma coluna numa página de tabela nas Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
+![Vista predefinida agrupada por uma coluna numa página de tabela](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
 
 {{< warning  headline="Filtrar por colunas de número ou duração"  text="Se quiser filtrar por colunas de números ou de duração, há certas especificações de formato a observar. É necessário escrever **números decimais** com um ponto como separador, entrar **valores percentuais** como números decimais (por exemplo, 99% = 0,99) e converter a **duração** em segundos (por exemplo, 1 hora = 3600 segundos)." />}}
 
@@ -46,11 +47,11 @@ Para tal, clique em **Adicionar filtro**, **Adicionar ordenação** ou **Adicion
 
 Para além dos filtros predefinidos, também é possível definir **colunas ocultas e só de leitura** para restringir ainda mais a visibilidade e a possibilidade de edição de determinados dados.
 
-![Predefinir colunas ocultas no Universal App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
+![Predefinir colunas ocultas no App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
 
 Basta clicar nos **cursores** ou nas **caixas** das colunas que pretende **ocultar** ou tornar **apenas de leitura** para os utilizadores.
 
-![Colunas só de leitura em páginas de tabela nas Aplicações Universais](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
+![Colunas só de leitura em páginas de tabela nas aplicações](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
 
 Pode reconhecer colunas protegidas contra escrita pelo facto de estarem destacadas a **cinzento** na tabela e marcadas com um **símbolo de cadeado**.
 
@@ -67,7 +68,7 @@ Com as **opções de visualização** acima da tabela, os utilizadores da aplica
 - [Ajustar a altura da linha]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Ajustar o número de colunas fixas]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
 
-![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+![User view options on table pages in apps](images/user-view-options-on-table-pages-in-apps.png)
 
 Como mencionado acima, as definições de vista individuais do utilizador **não têm efeito nas definições padrão** que predefiniu para a página da tabela. Por exemplo, o utilizador pode filtrar adicionalmente uma vista que tenha pré-filtrado ou ocultar colunas adicionais, mas não pode apresentar quaisquer registos de dados ou colunas ocultas que tenha filtrado ou mesmo torná-los visíveis para outros.
 
@@ -75,7 +76,7 @@ Como mencionado acima, as definições de vista individuais do utilizador **não
 
 Nas **opções da coluna de ligação**, é possível especificar quais os dados visíveis e quais as operações permitidas para cada tabela ligada.
 
-![Ligar definições de coluna em páginas de tabela nas Aplicações Universais](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+![Ligar definições de coluna em páginas de tabela nas aplicações](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
 - **Criar e ligar novas entradas**: Se ativar esta barra, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para especificar que colunas são **obrigatórias**, ou seja, têm de ser preenchidas.
@@ -89,7 +90,7 @@ Nas **opções da coluna de ligação**, é possível especificar quais os dados
 
 Nas páginas de tabelas em que diferentes utilizadores podem fazer novas entradas numa base, é fácil criar **linhas idênticas**. Pode evitar que isso aconteça impedindo a adição de linhas duplicadas. Para tal, active o **cursor** correspondente e seleccione as **colunas** em que os valores devem coincidir para que uma linha seja considerada **duplicada**. Se a adição de uma linha for bloqueada, uma mensagem de erro correspondente será exibida.
 
-![Impedir a adição de duplicados em aplicações universais](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Impedir a adição de duplicados em aplicações](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Verificação de formato para novas entradas
 
@@ -103,7 +104,7 @@ Por exemplo, é possível minimizar **os erros de digitação** em cadeias de ca
 
 Se utilizar a [coloração das células]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) na tabela subjacente, pode ativar a opção para apresentar a formatação das células na página da tabela, clicando na mesma.
 
-![Mostrar a coloração de células em páginas de tabelas em aplicações universais](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
+![Mostrar a coloração de células em páginas de tabelas em aplicações](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 
 ## Exportar página de tabela como ficheiro Excel
 

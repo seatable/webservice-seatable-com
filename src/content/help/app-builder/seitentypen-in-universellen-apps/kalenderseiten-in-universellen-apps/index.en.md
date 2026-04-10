@@ -1,19 +1,21 @@
 ---
-title: 'Calendar pages in universal apps'
+title: 'Calendar pages in SeaTable apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/calendar-pages-in-universal-apps'
+url: '/help/calendar-pages-in-seatable-apps'
 aliases:
     - '/help/kalenderseiten-in-universellen-apps'
+    - '/help/calendar-pages-in-universal-apps'
 seo:
-    title: 'Calendar Pages in Universal Apps: Schedule & Plan'
-    description: 'Calendar page in SeaTable Universal Apps: Manage events, tasks, and meetings in a collaborative calendar view.'
+    title: 'Calendar Pages in SeaTable Apps: Schedule & Plan'
+    description: 'Calendar page in SeaTable Apps: Manage events, tasks, and meetings in a collaborative calendar view.'
+weight: 5
 ---
 
-This page type of the Universal App works in a similar way to the [calendar plugin]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) of your table in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.
+This page type allows you to display records with one or two [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.
 
 ![Upcoming meetings in a calendar view of the calendar page](images/calendar-page-example.png)
 
@@ -31,19 +33,19 @@ In the **page settings**, you can select the **title**, the **start date** and t
 
 You can define **preset filters** and **hidden columns** to limit the data displayed to users.
 
-![Add filter on calendar pages in Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Add filter on calendar pages in SeaTable Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 To do this, click on **Add filter**, select the desired **column** and **condition** and confirm with **Submit**.
 
 Users can view more information about an appointment by clicking on a calendar entry.
 
-![Open calendar entries in the universal app](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
+![Open calendar entries in the SeaTable app](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
 
 Therefore, decide which data should be **visible** and show or hide the corresponding columns using the **sliders**.
 
-![Hide columns on calendar pages in Universal Apps](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
+![Hide columns on calendar pages in SeaTable Apps](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Important note"  text="App users **cannot change****preset filters** and **hidden columns**. You will therefore only see the filtered data as you wish." />}}
+{{< warning  headline="Important note"  text="App users **cannot change preset filters** and **hidden columns**. You will therefore only see the filtered data as you wish." />}}
 
 ## Add calendar entry
 

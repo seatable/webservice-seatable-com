@@ -25,7 +25,7 @@ Currently, there are five areas where you can use Markdown syntax in SeaTable. T
 - [Base descriptions]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}})
 - Email texts when sending via [automations]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Universal apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
+- [Apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
 
 As soon as Markdown is used in SeaTable, you will be offered the following input mask. Of course, you can select words or text blocks as usual and then choose the desired formatting.
 

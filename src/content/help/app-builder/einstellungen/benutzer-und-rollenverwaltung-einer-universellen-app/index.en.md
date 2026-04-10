@@ -1,5 +1,5 @@
 ---
-title: 'User and role management of a universal app'
+title: 'User and role management of an app'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:
@@ -9,17 +9,17 @@ url: '/help/user-and-role-management-universal-app'
 aliases:
     - '/help/benutzer-und-rollenverwaltung-einer-universellen-app'
 seo:
-    title: 'User and role management in Universal App – guide'
-    description: 'Manage users, assign roles, generate invite links and control permissions effectively in SeaTable’s Universal Apps. Complete overview.'
+    title: 'User and role management in SeaTable apps – guide'
+    description: 'Manage users, assign roles, generate invite links and control permissions effectively in SeaTable’s apps. Complete overview.'
 ---
 
-Whether it is adding **new users**, assigning **roles** or creating **invitation links** - you can perform various administrative activities in the user and role administration of a universal app. You can access the **user and role administration** via the edit mode of your universal app.
+Whether it is adding **new users**, assigning **roles** or creating **invitation links** - you can perform various administrative activities in the user and role administration of an app. You can access the **user and role administration** via the edit mode of your app.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to edit an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use the apps." />}}
 
-## User and role management of the Universal App
+## User and role management of the app
 
-1. Open a **base** to which you have already added a Universal App.
+1. Open a **base** to which you have already added an app.
 2. Click **Apps** in the base header.
 
 ![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
@@ -38,11 +38,11 @@ Whether it is adding **new users**, assigning **roles** or creating **invitation
 
 ### User
 
-In the first section you will find an overview of all **users** who have access to your Universal App. In addition, you will also find the **role** and **status of** the respective user.
+In the first section you will find an overview of all **users** who have access to your app. In addition, you will also find the **role** and **status of** the respective user.
 
-![Overview of the Users tab of the User and Role Management of a Universal App](images/user-and-role-management-overview-1.png)
+![Overview of the Users tab of the User and Role Management of an app](images/user-and-role-management-overview-1.png)
 
-This section also provides you with various options for **managing the current users of** your universal app.
+This section also provides you with various options for **managing the current users of** your app.
 
 Use the **search function to** find a specific user. This feature can be especially helpful if you have a large number of app users.
 
@@ -71,7 +71,7 @@ To **delete** a user from the app, simply click on the **X icon**, which you can
 
 By clicking on the **pen icons** {{< seatable-icon icon="dtable-icon-rename" >}}, which you can find for each user, you can edit their **role** and **status**.
 
-{{< warning  headline="Important note"  text="Please note that the **user** who added the Universal App to base is automatically registered as **Admin**. Both role and status of this user **cannot** be edited and the user cannot **be** removed from the app." />}}
+{{< warning  headline="Important note"  text="Please note that the **user** who added the app to base is automatically registered as **Admin**. Both role and status of this user **cannot** be edited and the user cannot **be** removed from the app." />}}
 
 ![Editing icons for each user ](images/edit-icons-users.jpg)
 
@@ -83,7 +83,7 @@ The **status of** a user can be set to **Active** or **Inactive**. While **activ
 
 ![Editing the status of an app user](images/edit-status-of-app-user.png)
 
-Users who do not have access to your Universal App will see this message:
+Users who do not have access to your app will see this message:
 
 ![Denied access to the app for inactive users ](images/no-permission-for-inactive-users.png)
 
@@ -99,11 +99,11 @@ Here you initially define only the **names of** the roles. You can define which 
 
 ### Invitation link
 
-In the third section of User and Role Management, you can generate an individual **invitation link** for the Universal App.
+In the third section of User and Role Management, you can generate an individual **invitation link** for the app.
 
 First, define the **role of** the users who will access the app using the invitation link.
 
-![Selection of the role that will be given to the user who will use the Universal App using the invitation link.](images/select-role-for-invite-link.png)
+![Selection of the role that will be given to the user who will use the app using the invitation link.](images/select-role-for-invite-link.png)
 
 Afterwards, you have the option to set a **password** that must be entered after opening the invitation link in order to gain access to the app.
 
@@ -117,10 +117,10 @@ With a click on **Generate** you can have the invitation link created. The link 
 
 ![Generated invitation link along with available options to copy and delete the invitation link.](images/copy-and-delete-link-universal-app.png)
 
-Alternatively, you have the option to generate a **QR code** to open and share the Universal App.
+Alternatively, you have the option to generate a **QR code** to open and share the app.
 
-![Display the QR code to open and share the Universal App.](images/show-qr-code-universal-app.png)
+![Display the QR code to open and share the app.](images/show-qr-code-universal-app.png)
 
-Scan the displayed **QR code** to open your Universal App or share it with other users to give them **access to** your app.
+Scan the displayed **QR code** to open your app or share it with other users to give them **access to** your app.
 
-![QR code to open and share the Universal App](images/qr-code-to-share-universal-app.png)
+![QR code to open and share the app](images/qr-code-to-share-universal-app.png)

@@ -1,5 +1,5 @@
 ---
-title: 'Globale Einstellungen einer Universellen App ändern'
+title: 'Globale Einstellungen einer App ändern'
 date: 2023-05-03
 lastmod: '2025-07-03'
 categories:
@@ -7,13 +7,13 @@ categories:
 author: 'kgr'
 url: '/de/hilfe/einstellungen-einer-universellen-app-aendern'
 seo:
-    title: 'Globale Einstellungen einer Universellen App ändern'
-    description: 'Erfahren Sie, wie Sie globale Einstellungen, URLs, Navigation und Zugriffsrechte in Ihrer SeaTable Universellen App anpassen.'
+    title: 'Globale Einstellungen einer App ändern'
+    description: 'Erfahren Sie, wie Sie globale Einstellungen, URLs, Navigation und Zugriffsrechte in Ihrer SeaTable App anpassen.'
 ---
 
-Innerhalb einer **Universellen App** können Sie mit nur wenigen Klicks verschiedene **globale Einstellungen** vornehmen, welche die Konfiguration und das Erscheinungsbild der gesamten App betreffen.
+Innerhalb einer **App** können Sie mit nur wenigen Klicks verschiedene **globale Einstellungen** vornehmen, welche die Konfiguration und das Erscheinungsbild der gesamten App betreffen.
 
-## Die Einstellungen einer Universellen App ändern
+## Die Einstellungen einer App ändern
 
 1. Öffnen Sie eine **Base**, in der Sie eine bestehende App bearbeiten möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
@@ -22,19 +22,19 @@ Innerhalb einer **Universellen App** können Sie mit nur wenigen Klicks verschie
 ![Apps bearbeiten](images/Apps-bearbeiten.png)
 4. Klicken Sie auf das **Zahnrad-Symbol** am oberen linken Seitenrand.
 ![Zahnrad-Symbol für App-Einstellungen](images/Zahnrad-Symbol-fuer-App-Einstellungen.png) 
-5. Nehmen Sie die gewünschten Anpassungen an den **Einstellungen** der Universellen App vor.
+5. Nehmen Sie die gewünschten Anpassungen an den **Einstellungen** der App vor.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App bearbeiten zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können die Apps lediglich ansehen und nutzen." />}}
 
-## Den Namen der Universellen App bearbeiten
+## Den Namen der App bearbeiten
 
-Im ersten Abschnitt der App-Einstellungen können Sie den **Namen** der Universellen App anpassen und ihn mit einem Klick auf **Absenden** speichern.
+Im ersten Abschnitt der App-Einstellungen können Sie den **Namen** der App anpassen und ihn mit einem Klick auf **Absenden** speichern.
 
 ![Change app name](images/Change-app-name.png)
 
 ## Benutzerdefinierte URL
 
-Im zweiten Abschnitt können Sie einen Teil der **URL** anpassen, mit der Sie Ihre Universelle App aufrufen und verlinken können. Geben Sie einfach Ihre Wunsch-URL in das **Textfeld** ein und beachten Sie bei der Eingabe die unten stehenden **Anforderungen**. Im Anschluss können Sie die eingegebene URL **speichern** und **kopieren**.
+Im zweiten Abschnitt können Sie einen Teil der **URL** anpassen, mit der Sie Ihre App aufrufen und verlinken können. Geben Sie einfach Ihre Wunsch-URL in das **Textfeld** ein und beachten Sie bei der Eingabe die unten stehenden **Anforderungen**. Im Anschluss können Sie die eingegebene URL **speichern** und **kopieren**.
 
 ![Edit custom URL](images/Edit-custom-URL.png)
 
@@ -78,6 +78,6 @@ Zu guter Letzt können Sie aktivieren, dass **jeder eingeloggte Benutzer, der Ih
 
 ## Einstellungen einzelner Seiten bearbeiten
 
-Die bisher genannten Einstellungen betreffen eine **gesamte Universelle App**. Wenn Sie die Einstellungen einer **einzelnen Seite** ändern möchten, klicken Sie in der Navigation auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} der entsprechenden Seite.
+Die bisher genannten Einstellungen betreffen eine **gesamte App**. Wenn Sie die Einstellungen einer **einzelnen Seite** ändern möchten, klicken Sie in der Navigation auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} der entsprechenden Seite.
 
 ![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)

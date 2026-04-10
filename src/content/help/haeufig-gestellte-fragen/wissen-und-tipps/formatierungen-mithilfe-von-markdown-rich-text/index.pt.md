@@ -25,7 +25,7 @@ Existem actualmente cinco áreas onde pode utilizar a sintaxe Markdown no SeaTab
 - [Descrições de base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}})
 - Textos de correio electrónico ao enviar através de [automações]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Aplicações universais]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
+- [Aplicações]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
 
 Assim que o Markdown for utilizado no SeaTable, ser-lhe-á apresentada a seguinte máscara de entrada. Naturalmente, pode marcar palavras ou blocos de texto como habitualmente e, em seguida, seleccionar a formatação pretendida.
 

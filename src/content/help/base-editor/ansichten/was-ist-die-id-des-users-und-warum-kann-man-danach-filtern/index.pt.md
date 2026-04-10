@@ -54,7 +54,7 @@ Por exemplo, se se actualizar uma tabela na qual se entram as tarefas em aberto 
 A alternativa seria filtrar pela [coluna do criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), que também oferecem opções de filtragem dinâmica. No entanto, estas duas colunas têm as seguintes desvantagens:
 
 - O **valor na coluna do criador** _não pode_ ser **alterado** posteriormente. Uma vez definido, o valor permanece sempre o mesmo. Isto seria problemático no exemplo acima porque o criador das tarefas _não_ é o empregado.
-- A **coluna do colaborador** só pode ser preenchida se um membro da equipa tiver, pelo menos, **acesso de leitura** à base. Isto pode _não_ ser desejável, especialmente quando se utiliza a [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+- A **coluna do colaborador** só pode ser preenchida se um membro da equipa tiver, pelo menos, **acesso de leitura** à base. Isto pode _não_ ser desejável, especialmente quando se utiliza a [aplicação]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 - A coluna do colaborador _não pode_ ser **preenchida automaticamente através do formulário Web**. No entanto, o ID do utilizador pode ser definido como o valor predefinido atribuindo _{creator.id}_.
 
 É possível ajustar o **ID do utilizador** introduzido na coluna de texto em qualquer altura. Assim, se pretender alterar **posteriormente** a atribuição de uma linha, a filtragem pelo ID do utilizador é muito útil.
