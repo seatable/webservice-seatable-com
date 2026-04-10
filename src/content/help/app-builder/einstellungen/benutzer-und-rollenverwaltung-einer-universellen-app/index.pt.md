@@ -1,5 +1,5 @@
 ---
-title: 'Gestão de utilizadores e funções de uma aplicação universal'
+title: 'Gestão de utilizadores e funções de uma aplicação'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:
@@ -9,17 +9,17 @@ url: '/pt/ajuda/gerenciamento-usuarios-e-funcoes-app-universal'
 aliases:
     - '/pt/ajuda/benutzer-und-rollenverwaltung-einer-universellen-app'
 seo:
-    title: 'Gerenciando usuários e funções na App Universal'
-    description: 'Saiba como adicionar usuários, atribuir papéis e criar links para convidar em Apps Universais do SeaTable. Guia detalhado para controle de acesso.'
+    title: 'Gerenciando usuários e funções na aplicação'
+    description: 'Saiba como adicionar usuários, atribuir papéis e criar links para convidar em aplicações do SeaTable. Guia detalhado para controle de acesso.'
 ---
 
-Quer seja para adicionar **novos utilizadores**, atribuir **funções** ou criar **ligações de convite** - pode realizar várias actividades administrativas na administração de utilizadores e funções de uma aplicação universal. Pode aceder à administração de **utilizadores e funções** através do modo de edição da sua aplicação universal.
+Quer seja para adicionar **novos utilizadores**, atribuir **funções** ou criar **ligações de convite** - pode realizar várias actividades administrativas na administração de utilizadores e funções de uma aplicação. Pode aceder à administração de **utilizadores e funções** através do modo de edição da sua aplicação.
 
 {{< warning  headline="Autorização necessária no grupo"  text="Para poder editar uma aplicação, tem de ser o **proprietário** ou **administrador do grupo** em que a **base** subjacente se encontra. **Os membros** simples **do grupo** só podem ver e utilizar as aplicações." />}}
 
-## Administração de utilizadores e funções da Aplicação Universal
+## Administração de utilizadores e funções da aplicação
 
-1. Abra uma **Base** à qual já tenha adicionado uma aplicação universal.
+1. Abra uma **Base** à qual já tenha adicionado uma aplicação.
 2. Clique em **Apps** no cabeçalho Base.
 
 ![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
@@ -38,11 +38,11 @@ Quer seja para adicionar **novos utilizadores**, atribuir **funções** ou criar
 
 ### Utilizador
 
-Na primeira secção, encontrará uma visão geral de todos os **utilizadores** que têm acesso à sua aplicação universal. Além disso, encontrará também a **função** e o **estado do** respectivo utilizador.
+Na primeira secção, encontrará uma visão geral de todos os **utilizadores** que têm acesso à sua aplicação. Além disso, encontrará também a **função** e o **estado do** respectivo utilizador.
 
-![Descrição geral do separador Utilizadores da Administração de utilizadores e funções de uma aplicação universal](images/user-and-role-management-overview-1.png)
+![Descrição geral do separador Utilizadores da Administração de utilizadores e funções de uma aplicação](images/user-and-role-management-overview-1.png)
 
-Esta secção também lhe fornece várias opções para **gerir os utilizadores actuais da** sua aplicação universal.
+Esta secção também lhe fornece várias opções para **gerir os utilizadores actuais da** sua aplicação.
 
 Utilize a **função de pesquisa para** encontrar um utilizador específico. Esta função pode ser especialmente útil se tiver um grande número de utilizadores de aplicações.
 
@@ -71,7 +71,7 @@ Para **eliminar** um utilizador da aplicação, basta clicar no **símbolo X**, 
 
 Ao clicar nos **ícones de lápis** {{< seatable-icon icon="dtable-icon-rename" >}}, que encontrará para cada utilizador, pode editar a sua **função** e o seu **estado**.
 
-{{< warning  headline="Nota importante"  text="Tenha em atenção que o **utilizador** que adicionou a aplicação universal à Base é automaticamente registado como **Administrador**. Tanto a função como o estado deste utilizador **não podem** ser editados e o utilizador não pode **ser** removido da aplicação." />}}
+{{< warning  headline="Nota importante"  text="Tenha em atenção que o **utilizador** que adicionou a aplicação à Base é automaticamente registado como **Administrador**. Tanto a função como o estado deste utilizador **não podem** ser editados e o utilizador não pode **ser** removido da aplicação." />}}
 
 ![Editar ícones para cada utilizador ](images/edit-icons-users.jpg)
 
@@ -83,7 +83,7 @@ O **estado de** um utilizador pode ser definido como **Activo** ou **Inactivo**.
 
 ![Editar o estado de um utilizador da aplicação](images/edit-status-of-app-user.png)
 
-Os utilizadores que não têm acesso à sua aplicação universal verão esta mensagem:
+Os utilizadores que não têm acesso à sua aplicação verão esta mensagem:
 
 ![Acesso negado à aplicação para utilizadores inactivos ](images/no-permission-for-inactive-users.png)
 
@@ -99,11 +99,11 @@ Aqui, inicialmente, apenas define os **nomes das** funções. Pode definir quais
 
 ### Ligação do convite
 
-Na terceira secção da administração de utilizadores e funções, é possível gerar uma **ligação de convite** individual para a aplicação universal.
+Na terceira secção da administração de utilizadores e funções, é possível gerar uma **ligação de convite** individual para a aplicação.
 
 Primeiro, defina a **função dos** utilizadores que acedem à aplicação utilizando a ligação de convite.
 
-![Selecção da função que será atribuída ao utilizador que irá utilizar a aplicação universal através da ligação de convite.](images/select-role-for-invite-link.png)
+![Selecção da função que será atribuída ao utilizador que irá utilizar a aplicação através da ligação de convite.](images/select-role-for-invite-link.png)
 
 Tem então a opção de definir uma **palavra-passe** que deve ser introduzida depois de abrir a ligação de convite para obter acesso à aplicação.
 
@@ -117,10 +117,10 @@ Clique em **Gerar** para criar a ligação de convite. A ligação é então apr
 
 ![Ligação de convite gerada com opções disponíveis para copiar e eliminar a ligação de convite](images/copy-and-delete-link-universal-app.png)
 
-Em alternativa, tem a opção de gerar um **código QR** para abrir e partilhar a aplicação universal.
+Em alternativa, tem a opção de gerar um **código QR** para abrir e partilhar a aplicação.
 
-![Apresentar o código QR para abrir e partilhar a aplicação universal](images/show-qr-code-universal-app.png)
+![Apresentar o código QR para abrir e partilhar a aplicação](images/show-qr-code-universal-app.png)
 
-Digitalize o **código QR** apresentado para abrir a sua Universal App ou partilhe-o com outros utilizadores para lhes dar **acesso à** sua aplicação.
+Digitalize o **código QR** apresentado para abrir a sua aplicação ou partilhe-o com outros utilizadores para lhes dar **acesso à** sua aplicação.
 
-![Código QR para abrir e partilhar a Universal App](images/qr-code-to-share-universal-app.png)
+![Código QR para abrir e partilhar a aplicação](images/qr-code-to-share-universal-app.png)

@@ -27,8 +27,8 @@ Der Big-Data-Speicher bietet Ihnen die weitestgehend **unlimitierte Speicherung 
 - [Datenverarbeitungsoperationen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) stehen bei Big Data **nicht** zur Verfügung. Einzige Ausnahme ist [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen in der Base oder im Big-Data-Speicher gespeichert sind.
 - Die Funktion [Suchen und Ersetzen]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) steht **nicht** zur Verfügung.
 
-{{< warning  headline="Viele dieser Einschränkungen von Big Data gelten nicht für die Universal App" >}}
+{{< warning  headline="Viele dieser Einschränkungen von Big Data gelten nicht für die SeaTable App" >}}
 
-Die meisten Nutzer des Big-Data-Speichers fühlen sich durch diese Einschränkungen nicht in ihrer Arbeit beeinträchtigt. Sollten Sie jedoch davon betroffen sein, können Sie einen Blick auf die [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) werfen. Dort gelten einige der genannten Einschränkungen nicht.
+Die meisten Nutzer des Big-Data-Speichers fühlen sich durch diese Einschränkungen nicht in ihrer Arbeit beeinträchtigt. Sollten Sie jedoch davon betroffen sein, können Sie einen Blick auf die [SeaTable App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) werfen. Dort gelten einige der genannten Einschränkungen nicht.
 
 {{< /warning >}}

@@ -1,24 +1,26 @@
 ---
-title: 'Formularseiten in Universellen Apps'
+title: 'Formularseiten in SeaTable Apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/formularseiten-in-universellen-apps'
+url: '/de/hilfe/formularseiten-in-seatable-apps'
+aliases:
+    - '/de/hilfe/formularseiten-in-universellen-apps'
 seo:
-    title: 'Formularseiten in Universellen Apps: Anleitung'
+    title: 'Formularseiten in SeaTable Apps: Anleitung'
     description: 'Erstellen Sie individuelle Formularseiten in SeaTable Apps – mit Drag-and-Drop, Pflichtfeldern, individuellen Einstellungen & Zugriffskontrolle.'
-
+weight: 3
 ---
 
-Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in Universellen Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter]({{< relref "pages/arbeitszeiterfassung" >}}).
+Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in SeaTable Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter]({{< relref "pages/arbeitszeiterfassung" >}}).
 
 ![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
 
 {{< warning  type="warning" headline="Tipp" >}}
 
-[Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) gibt es nicht nur in der Universellen App, sondern auch direkt in der Base.
+[Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) gibt es nicht nur im App Builder, sondern auch direkt in der Base.
 
 {{< /warning >}}
 
@@ -42,7 +44,7 @@ Jedes Feld verfügt zudem über individuelle **Feldeinstellungen**, bei denen Si
 
 Wenn Sie die **Reihenfolge** der Felder im Formular verändern möchten, können Sie ein Feld am {{< seatable-icon icon="dtable-icon-drag" >}} **Sechs-Punkte-Symbol** greifen und verschieben. Per Klick auf das {{< seatable-icon icon="dtable-icon-delete" >}} **Papierkorb-Symbol** entfernen Sie ein Feld aus dem Formular.
 
-![Feld auf der Formularseite einer Universellen App](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
+![Feld auf der Formularseite einer SeaTable App](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
 
 ### Weitere Formularseiten-Einstellungen
 
@@ -58,6 +60,6 @@ Nicht zuletzt können Sie die Nutzer nach Einreichung des Formulars auf eine and
 
 Ganz unten können Sie eingrenzen, wer die Formularseite sehen darf.
 
-![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Berechtigung für Formularseiten der SeaTable App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie bei Formularseiten zur Auswahl haben – denn über Formularseiten können keine Zeilen in der Tabelle verändert oder gelöscht werden und jeder, der die Seite sehen kann, darf auch Formulare einreichen, also Zeilen hinzufügen.

@@ -61,7 +61,7 @@ In our application example, female guests are to be copied to the "Hen Party Gue
 
 {{< warning  headline="Note" >}}
 
-This button action is not supported on [table pages in universal apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). A corresponding error message appears when the button is pressed.
+This button action is not supported on [table pages in apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). A corresponding error message appears when the button is pressed.
 
 {{< /warning >}}
 

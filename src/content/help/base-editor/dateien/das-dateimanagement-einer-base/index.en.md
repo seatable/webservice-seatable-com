@@ -218,7 +218,7 @@ Then confirm the process again with **Delete**.
 
 ![Confirmation of the deletion process](images/confirm-deletion.jpg)
 
-Files that you delete from the file manager also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps) and end up in the **trash**, where they remain for 60 days.
+Files that you delete from the file manager also disappear from your base (e.g. from signature, file, image columns, web forms or apps) and end up in the **trash**, where they remain for 60 days.
 
 {{< warning  headline="Important note"  text="Please note that files in the trash are permanently removed from the system **after 60 days**. Consequently, make sure that **only** files that are no longer needed are in the trash." />}}
 
@@ -248,7 +248,7 @@ Confirm the operation with **Delete**.
 
 Folders that you delete from the file manager end up in the **trash**, where they remain for 60 days.
 
-{{< warning  headline="Important notes"  text="Please note that when deleting folders, **all files** in the respective folders are also **deleted**. The same applies to the subfolders in a deleted folder. The deleted files will therefore also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps). Make sure that you **only** delete folders with files that are no longer required from the file management. After **60 days** in the trash, both folders and files are permanently removed from the system." />}}
+{{< warning  headline="Important notes"  text="Please note that when deleting folders, **all files** in the respective folders are also **deleted**. The same applies to the subfolders in a deleted folder. The deleted files will therefore also disappear from your base (e.g. from signature, file, image columns, web forms or apps). Make sure that you **only** delete folders with files that are no longer required from the file management. After **60 days** in the trash, both folders and files are permanently removed from the system." />}}
 
 If you want to restore a folder from the trash, for example because you accidentally deleted it, click **Restore**. The folder will then appear where it was before you deleted it. When you **empty** the trash, all deleted files and folders are lost permanently.
 

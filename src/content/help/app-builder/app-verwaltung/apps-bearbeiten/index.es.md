@@ -31,4 +31,4 @@ Las aplicaciones que ya ha añadido a una de sus bases pueden editarse en cualqu
 
 6. La aplicación seleccionada se abrirá en modo de edición, donde puede realizar ciertos **ajustes** .
 
-{{< warning  headline="Nota importante"  text="Para poder editar tus aplicaciones, debes abrirlas siempre en **modo edición**. **Sólo** puede acceder a él del modo descrito. Si simplemente haces clic en el **nombre de** tu aplicación, abrirás tu aplicación en la **vista previa** y, por lo tanto, **no** podrás editarla." />}}
+{{< warning  headline="Nota importante"  text="Para poder editar tus aplicaciones, debes abrirlas siempre en **modo edición**. **Sólo** puede acceder a él del modo descrito. Si simplemente haces clic en el **nombre de** su aplicación, abrirás su aplicación en la **vista previa** y, por lo tanto, **no** podrás editarla." />}}

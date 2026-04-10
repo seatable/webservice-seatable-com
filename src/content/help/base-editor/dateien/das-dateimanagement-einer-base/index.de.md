@@ -205,7 +205,7 @@ Bestätigen Sie im Anschluss den Vorgang nochmals mit **Löschen**.
 
 ![Bestätigung des Löschvorgangs](images/confirm-deletion.jpg)
 
-Dateien, die Sie aus der Dateiverwaltung löschen, verschwinden auch aus Ihrer Base (z. B. aus Signatur-, Datei-, Bild-Spalten, Webformularen oder Universal Apps) und landen im **Papierkorb**, wo sie für 60 Tage verbleiben.
+Dateien, die Sie aus der Dateiverwaltung löschen, verschwinden auch aus Ihrer Base (z. B. aus Signatur-, Datei-, Bild-Spalten, Webformularen oder SeaTable Apps) und landen im **Papierkorb**, wo sie für 60 Tage verbleiben.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass Dateien im Papierkorb **nach 60 Tagen** endgültig aus dem System entfernt werden. Stellen Sie folglich sicher, dass **ausschließlich** nicht mehr benötigte Dateien im Papierkorb sind." />}}
 
@@ -235,7 +235,7 @@ Bestätigen Sie den Vorgang mit **Löschen**.
 
 Ordner, die Sie aus der Dateiverwaltung löschen, landen im **Papierkorb**, wo sie für 60 Tage verbleiben.
 
-{{< warning  type="warning" headline="Wichtige Hinweise"  text="Bitte beachten Sie, dass bei der Löschung von Ordnern **alle Dateien**, die sich in den jeweiligen Ordnern befinden, ebenfalls **gelöscht** werden. Selbiges gilt für die Unterordner, die sich in einem gelöschten Ordner befinden. Die gelöschten Dateien werden folglich auch aus Ihrer Base (z.B. aus Signatur-, Datei-, Bild-Spalten, Webformularen oder Universal Apps) verschwinden. Stellen Sie sicher, dass Sie **ausschließlich** Ordner mit nicht mehr benötigten Dateien aus der Dateiverwaltung löschen. Nach **60 Tagen** im Papierkorb werden sowohl Ordner als auch Dateien endgültig aus dem System entfernt." />}}
+{{< warning  type="warning" headline="Wichtige Hinweise"  text="Bitte beachten Sie, dass bei der Löschung von Ordnern **alle Dateien**, die sich in den jeweiligen Ordnern befinden, ebenfalls **gelöscht** werden. Selbiges gilt für die Unterordner, die sich in einem gelöschten Ordner befinden. Die gelöschten Dateien werden folglich auch aus Ihrer Base (z.B. aus Signatur-, Datei-, Bild-Spalten, Webformularen oder SeaTable Apps) verschwinden. Stellen Sie sicher, dass Sie **ausschließlich** Ordner mit nicht mehr benötigten Dateien aus der Dateiverwaltung löschen. Nach **60 Tagen** im Papierkorb werden sowohl Ordner als auch Dateien endgültig aus dem System entfernt." />}}
 
 Wenn Sie einen Ordner aus dem Papierkorb wiederherstellen möchten, beispielsweise weil Sie ihn aus Versehen gelöscht haben, klicken Sie auf **Wiederherstellen**. Der Ordner erscheint anschließend an der Stelle, wo er vor der Löschung war. Wenn Sie den **Papierkorb leeren**, gehen alle gelöschten Dateien und Ordner endgültig verloren.
 

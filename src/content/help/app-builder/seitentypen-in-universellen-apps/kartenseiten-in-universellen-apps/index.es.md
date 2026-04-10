@@ -1,15 +1,15 @@
 ---
-title: 'Páginas de mapas en aplicaciones'
+title: 'Páginas de mapas en aplicaciones de SeaTable'
 date: 2026-04-07
 lastmod: '2026-04-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/paginas-de-mapas-en-aplicaciones'
+url: '/es/ayuda/paginas-de-mapas-en-aplicaciones-de-seatable'
 seo:
-    title: 'Páginas de mapas en las apps: visualice las ubicaciones en un mapa'
+    title: 'Páginas de mapas en las apps de SeaTable: visualice las ubicaciones en un mapa'
     description: 'Cree páginas de mapas en SeaTable Apps: visualice datos de geolocalización y direcciones en un mapa del mundo.'
-weight: 9
+weight: 10
 ---
 
 Puede utilizar este tipo de página para mostrar **ubicaciones** que haya guardado en su tabla utilizando **datos de geoposición o direcciones** en un **mapa mundial** dentro de la aplicación.

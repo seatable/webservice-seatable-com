@@ -1,5 +1,5 @@
 ---
-title: 'Permisos de página en una aplicación universal'
+title: 'Permisos de página en una aplicación'
 date: 2023-05-03
 lastmod: '2023-11-30'
 categories:
@@ -9,22 +9,22 @@ url: '/es/ayuda/permisos-de-pagina-en-una-app-universal'
 aliases:
     - '/es/ayuda/seitenberechtigungen-in-einer-universellen-app'
 seo:
-    title: 'Permisos de página en App Universal – guía SeaTable'
-    description: 'Descubre cómo configurar y gestionar permisos de página en las Apps Universales de SeaTable para controlar roles y accesos.'
+    title: 'Permisos de página en aplicación – guía SeaTable'
+    description: 'Descubre cómo configurar y gestionar permisos de página en las aplicaciones de SeaTable para controlar roles y accesos.'
 ---
 
 {{< required-version "Enterprise" >}}
 
-Para controlar con precisión el **acceso a sus datos**, puede establecer **permisos de página individuales** para cada página que haya creado en una aplicación universal. Los permisos se editan a través de la configuración de la página.
+Para controlar con precisión el **acceso a sus datos**, puede establecer **permisos de página individuales** para cada página que haya creado en una aplicación. Los permisos se editan a través de la configuración de la página.
 
 {{< warning  type="warning" headline="Autorización de página por defecto" text="Cuando crea **páginas nuevas** en su aplicación, éstas conceden inicialmente todos los derechos disponibles a todos los usuarios. Sin embargo, si desea restringir los derechos de uso, deberá ajustar las autorizaciones de página." />}}
 
 ## Establecer y editar permisos de página
 
-1. Abra una **Base** a la que ya haya añadido una aplicación universal.
+1. Abra una **Base** a la que ya haya añadido una aplicación.
 2. Haga clic en **Aplicaciones** en la cabecera.
 ![Haga clic en Aplicaciones en la cabecera](images/click-apps-in-the-base-header.jpg)
-3. Pase el ratón por encima de la aplicación universal y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
+3. Pase el ratón por encima de la aplicación y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Haga clic en el icono de edición](images/add-page-to-universal-app-1.png)
 4. Seleccione la **página** deseada en la navegación de la parte izquierda de la página y haga clic en el **símbolo de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 ![Haga clic en el icono de edición](images/page-permissions-universal-app.png)
@@ -61,6 +61,6 @@ Para cada permiso, puede elegir entre las siguientes opciones para limitar el gr
 
 ![Opciones de permisos de página disponibles ¿Quién puede ver la página?](images/page-permission-who-can-add-records.png)
 
-Seleccione la opción **Roles específicos** para definir sus propios roles. Para ello, cree previamente nuevos **roles** para grupos de usuarios individuales en la [administración de usuarios y roles]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}), a los que podrá asignar permisos individualmente en cada página de la Universal App.
+Seleccione la opción **Roles específicos** para definir sus propios roles. Para ello, cree previamente nuevos **roles** para grupos de usuarios individuales en la [administración de usuarios y roles]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}), a los que podrá asignar permisos individualmente en cada página de la aplicación.
 
 ![Definición de funciones específicas que tienen una autorización correspondiente](images/define-roles.png)

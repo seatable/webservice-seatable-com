@@ -1,15 +1,15 @@
 ---
-title: 'Kartenseiten in Apps'
+title: 'Kartenseiten in SeaTable Apps'
 date: 2026-04-07
 lastmod: '2026-04-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/kartenseiten-in-apps'
+url: '/de/hilfe/kartenseiten-in-seatable-apps'
 seo:
-    title: 'Kartenseiten in Apps: Orte auf Weltkarte visualisieren'
+    title: 'Kartenseiten in SeaTable Apps: Orte auf Weltkarte visualisieren'
     description: 'Erstellen Sie Kartenseiten in SeaTable Apps: Geopositionsdaten und Adressen flexibel auf einer Weltkarte visualisieren.'
-weight: 9
+weight: 10
 ---
 
 Mithilfe dieses Seitentyps können Sie **Orte**, die Sie anhand von **Geopositionsdaten oder Adressen** in Ihrer Tabelle gespeichert haben, auf einer **Weltkarte** innerhalb der App anzeigen lassen.

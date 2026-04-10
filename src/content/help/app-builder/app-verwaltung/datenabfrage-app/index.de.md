@@ -25,7 +25,7 @@ Um eine Datenabfrage-App in Ihrer Base nutzen zu können, müssen Sie diese zun�
 
 Nachdem Sie Ihre Datenabfrage-App erfolgreich angelegt haben, können Sie in den Einstellungen der App die **Tabelle** und die **Spalten** auswählen, die nach gewissen **Werten** durchsucht werden können. Öffnen Sie die App dazu einfach über das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} im [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
-Da die Datenabfrage-App auf dem Universal App Builder basiert, sind die folgenden Einstellungsmöglichkeiten identisch mit den **Abfrageseiten in der Universellen App**:
+Da die Datenabfrage-App auf dem SeaTable App Builder basiert, sind die folgenden Einstellungsmöglichkeiten identisch mit den **Abfrageseiten in der App**:
 
 ![Seiteneinstellungen der Datenabfrage-App](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
@@ -57,7 +57,7 @@ Nachdem Sie Ihre Datenabfrage-App erfolgreich geteilt haben, können andere Nutz
 
 Nachdem die Nutzer auf **Abfrage** geklickt haben, werden ihnen die gefundenen Datensätze sofort in einer Tabelle angezeigt. Die Nutzer der App können nur die Spaltenwerte eines Datensatzes sehen, die Sie **nicht ausgeblendet** haben. Zudem können sie keine von Ihnen **voreingestellten Filter** löschen, mit denen Sie die Menge der suchbaren Zeilen eingrenzen können.
 
-![Abfrageseiten in Universellen Apps](images/Abfrageseiten-in-Universellen-Apps.png)
+![Abfrageseiten in Apps](images/Abfrageseiten-in-Universellen-Apps.png)
 
 Allerdings können die Nutzer die abgefragte Ergebnisliste selbst **sortieren** und die **Zeilenhöhe anpassen**, um sich einen besseren Überblick zu verschaffen.
 

@@ -218,7 +218,7 @@ A continuación, vuelva a confirmar el proceso con **Suprimir.**
 
 ![Confirmación de la supresión](images/confirm-deletion.jpg)
 
-Los archivos que eliminas del gestor de archivos también desaparecen de tu Base (por ejemplo, de firmas, archivos, columnas de imágenes, formularios web o apps universales) y acaban en la **papelera de reciclaje**, donde permanecen 60 días.
+Los archivos que eliminas del gestor de archivos también desaparecen de tu Base (por ejemplo, de firmas, archivos, columnas de imágenes, formularios web o aplicaciones) y acaban en la **papelera de reciclaje**, donde permanecen 60 días.
 
 {{< warning  headline="Nota importante"  text="Tenga en cuenta que los archivos de la papelera de reciclaje se eliminan permanentemente del sistema **después de 60 días**. Por lo tanto, asegúrese de que **sólo** los archivos que ya no son necesarios están en la papelera de reciclaje." />}}
 
@@ -248,7 +248,7 @@ Confirme la operación con **Suprimir.**
 
 Las carpetas que eliminas del gestor de archivos acaban en la **papelera de reciclaje**, donde permanecen 60 días.
 
-{{< warning  headline="Notas importantes"  text="Tenga en cuenta que al eliminar carpetas, también se **eliminan** **todos los archivos** de las respectivas carpetas. Lo mismo ocurre con las subcarpetas de una carpeta eliminada. Por lo tanto, los archivos eliminados también desaparecerán de su base (por ejemplo, de firmas, archivos, columnas de imágenes, formularios web o aplicaciones universales). Asegúrate de que **sólo** eliminas carpetas con archivos que ya no son necesarios desde el gestor de archivos. Después de **60 días** en la papelera de reciclaje, tanto las carpetas como los archivos se eliminan definitivamente del sistema." />}}
+{{< warning  headline="Notas importantes"  text="Tenga en cuenta que al eliminar carpetas, también se **eliminan** **todos los archivos** de las respectivas carpetas. Lo mismo ocurre con las subcarpetas de una carpeta eliminada. Por lo tanto, los archivos eliminados también desaparecerán de su base (por ejemplo, de firmas, archivos, columnas de imágenes, formularios web o aplicaciones). Asegúrate de que **sólo** eliminas carpetas con archivos que ya no son necesarios desde el gestor de archivos. Después de **60 días** en la papelera de reciclaje, tanto las carpetas como los archivos se eliminan definitivamente del sistema." />}}
 
 Si desea restaurar una carpeta de la papelera de reciclaje, por ejemplo porque la ha borrado por error, haga clic en **Restaurar**. La carpeta aparecerá en el lugar donde estaba antes de ser eliminada. Cuando **vacías** la papelera de reciclaje, todos los archivos y carpetas borrados se pierden definitivamente.
 

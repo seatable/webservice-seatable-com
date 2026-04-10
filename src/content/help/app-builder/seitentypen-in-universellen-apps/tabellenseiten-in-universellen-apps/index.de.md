@@ -1,20 +1,22 @@
 ---
-title: 'Tabellenseiten in Universellen Apps'
+title: 'Tabellenseiten in SeaTable Apps'
 date: 2023-12-01
 lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/tabellenseiten-in-universellen-apps'
+url: '/de/hilfe/tabellenseiten-in-seatable-apps'
+aliases:
+    - '/de/hilfe/tabellenseiten-in-universellen-apps'
 seo:
-    title: 'Tabellenseiten in Universellen Apps gestalten'
-    description: 'Fügen Sie Tabellen als Seiten zur Universellen App hinzu, steuern Sie Filter, Sortierungen, Spalten oder Bearbeitungsrechte. Alle Einstellungen direkt in der Tabellenseite wählen.'
-
+    title: 'Tabellenseiten in SeaTable Apps gestalten'
+    description: 'Fügen Sie Tabellen als Seiten zur App hinzu, steuern Sie Filter, Sortierungen, Spalten oder Bearbeitungsrechte. Alle Einstellungen direkt in der Tabellenseite wählen.'
+weight: 2
 ---
 
-Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als [Seite zu Ihrer Universellen App hinzufügen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
+Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als [Seite zu Ihrer App hinzufügen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-![Table page in Universal App](images/Table-page-in-Universal-App.png)
+![Table page in an app](images/Table-page-in-Universal-App.png)
 
 ## Seiteneinstellungen ändern
 
@@ -30,13 +32,13 @@ Beim Bearbeiten von Tabellenseiten können Sie zahlreiche **Seiteneinstellungen*
 
 Sie können in den Seiteneinstellungen **voreingestellte Filter**, **Sortierungen** und **Gruppierungen** definieren, um die angezeigten Daten für eine Nutzergruppe einzugrenzen und zu ordnen.
 
-![Add filter on table page in Universal Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
+![Add filter on table page in apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
 Klicken Sie dazu auf **Filter hinzufügen**, **Sortierung hinzufügen** oder **Gruppe hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen Sie mit **Abschicken**.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="**Voreingestellte Filter** können die App-Nutzer **nicht verändern**. Sie bekommen also, wie von Ihnen gewünscht, nur die gefilterten Daten angezeigt. Voreingestellte Sortierungen und Gruppierungen legen hingegen nur eine **Standardansicht** fest, die von den Nutzern individuell verändert werden kann." />}}
 
-![Default view grouped by one column on a table page in Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
+![Default view grouped by one column on a table page in apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
 
 {{< warning  type="warning" headline="Filtern nach Zahlen- oder Dauer-Spalten"  text="Wenn Sie nach Zahlen- oder Dauerspalten filtern möchten, gibt es bestimmte Formatvorgaben zu beachten. **Dezimalzahlen** müssen Sie mit einem Punkt als Trennzeichen schreiben, **Prozentwerte** als Dezimalzahlen angeben (z. B. 99% = 0.99) und die **Dauer** in Sekunden umrechnen (z. B. 1 Stunde = 3600 Sekunden)." />}}
 
@@ -44,11 +46,11 @@ Klicken Sie dazu auf **Filter hinzufügen**, **Sortierung hinzufügen** oder **G
 
 Über die voreingestellten Filter hinaus können Sie auch **ausgeblendete und schreibgeschützte Spalten** definieren, um die Sichtbarkeit und Bearbeitbarkeit bestimmter Daten weiter einzuschränken.
 
-![Preset hidden columns in Universal App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
+![Preset hidden columns in App Builder](images/Preset-hidden-columns-in-Universal-App-Builder.png)
 
 Klicken Sie einfach die **Regler** oder **Kästchen** der Spalten an, die für die Nutzer **ausgeblendet** oder **nur lesbar** sein sollen.
 
-![Read-only columns on table pages in Universal Apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
+![Read-only columns on table pages in apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
 
 Schreibgeschützte Spalten erkennen Sie daran, dass sie in der Tabelle **grau** hinterlegt und mit einem **Schloss-Symbol** gekennzeichnet sind.
 
@@ -65,7 +67,7 @@ Mit den **Ansichtsoptionen** über der Tabelle können die App-Nutzer eigene erg
 - [Zeilenhöhe anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Anzahl der fixierten Spalten anpassen]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
 
-![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+![User view options on table pages in apps](images/user-view-options-on-table-pages-in-apps.png)
 
 Wie oben bereits erwähnt, haben die individuellen Ansichtseinstellungen des Nutzers **keine Auswirkungen auf die von Ihnen vordefinierten Standardeinstellungen** der Tabellenseite. Zum Beispiel kann der Nutzer eine von Ihnen vorgefilterte Ansicht zusätzlich filtern oder weitere Spalten ausblenden, er kann aber keine von Ihnen herausgefilterten Datensätze oder ausgeblendeten Spalten anzeigen lassen oder sie gar für andere sichtbar machen.
 
@@ -73,7 +75,7 @@ Wie oben bereits erwähnt, haben die individuellen Ansichtseinstellungen des Nut
 
 In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sichtbar und welche Operationen erlaubt sind.
 
-![Link column settings on table pages in Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+![Link column settings on table pages in apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Feldeinstellungen**: Hier können Sie genau definieren, für welche Spalten die folgenden Berechtigungen gelten.
 - **Neue Einträge erstellen und verknüpfen**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie festlegen, welche Spalten dabei **erforderlich** sind, also ausgefüllt werden müssen.
@@ -87,7 +89,7 @@ In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpf
 
 Auf Tabellenseiten, über die verschiedene Benutzer neue Einträge in einer Base vornehmen können, ist es schnell passiert, dass **identische Zeilen** angelegt werden. Dies können Sie unterbinden, indem Sie das Hinzufügen von Duplikaten verhindern. Aktivieren Sie dazu den entsprechenden **Regler** und wählen Sie die **Spalten** aus, in denen die Werte übereinstimmen müssen, damit eine Zeile als **Duplikat** gilt. Wenn das Hinzufügen einer Zeile blockiert wird, erscheint eine entsprechende Fehlermeldung.
 
-![Das Hinzufügen von Duplikaten in Universellen Apps verhindern](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Das Hinzufügen von Duplikaten in Apps verhindern](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Formatprüfung bei neuen Einträgen
 
@@ -101,7 +103,7 @@ So können Sie zum Beispiel **Tippfehler** bei klar umrissenen Zeichenfolgen wie
 
 Wenn Sie in der zugrundeliegenden Tabelle das [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) nutzen, können Sie mit einem Klick die Option aktivieren, dass die Zellformatierung auch auf der Tabellenseite angezeigt wird.
 
-![Show cell coloring on table pages in Universal Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
+![Show cell coloring on table pages in apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 
 ## Tabellenseite als Excel-Datei exportieren
 

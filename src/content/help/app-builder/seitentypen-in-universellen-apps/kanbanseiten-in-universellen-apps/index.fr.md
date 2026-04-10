@@ -1,21 +1,23 @@
 ---
-title: 'Pages Kanban dans les applications universelles'
+title: 'Pages Kanban dans les applications de SeaTable'
 date: 2023-12-07
 lastmod: '2023-12-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/pages-kanban-apps-universelles'
+url: '/fr/aide/pages-kanban-apps-seatable'
 aliases:
     - '/fr/aide/kanbanseiten-in-universellen-apps'
+    - '/fr/aide/pages-kanban-apps-universelles'
 seo:
-    title: 'Pages Kanban dans les apps universelles : Pilotez vos projets visuellement'
-    description: 'Maîtrisez l’utilisation des pages Kanban SeaTable pour organiser vos tâches, personnaliser cartes, appliquer des filtres et définir des autorisations robustes.'
+    title: 'Pages Kanban dans les apps de SeaTable : Pilotez vos projets visuellement'
+    description: 'Maîtrisez l’utilisation des pages Kanban de SeaTable pour organiser vos tâches, personnaliser cartes, appliquer des filtres et définir des autorisations robustes.'
+weight: 7
 ---
 
-Ce type de page fonctionne de la même manière que le [plug-in Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) et vous offre la possibilité d'afficher des entrées sous forme de fiches sur un **tableau Kanban**. Une application concrète pourrait être, par exemple, la **visualisation des workflows et de l'avancement du projet**.
+Ce type de page vous offre la possibilité d'afficher des entrées sous forme de fiches sur un **tableau Kanban**. Une application concrète pourrait être, par exemple, la **visualisation des workflows et de l'avancement du projet**.
 
-![Pages Kanban dans les applications universelles](images/Kanbanseiten-in-Universellen-Apps.png)
+![Pages Kanban dans les applications](images/Kanbanseiten-in-Universellen-Apps.png)
 
 ## Modifier les paramètres de la page
 
@@ -25,25 +27,25 @@ Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigatio
 
 Dans les **paramètres de la page**, déterminez le **tableau** sur lequel le tableau Kanban est basé, la colonne selon laquelle les entrées sont **regroupées** et la colonne d'où proviennent les **titres**.
 
-![Paramètres de la page Kanban dans les applications universelles](images/Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
+![Paramètres de la page Kanban dans les applications](images/Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
 
 ## Filtres prédéfinis, tris et colonnes masquées
 
 En outre, vous pouvez définir des filtres prédéfinis, des tris et des colonnes masquées afin de limiter et d'organiser les données affichées pour les utilisateurs. Pour filtrer ou trier, cliquez sur **Ajouter un filtre** ou **Ajouter un tri**, sélectionnez la **colonne** et la **condition** souhaitées et confirmez en cliquant sur **Envoyer**.
 
-![Ajouter un filtre sur les pages kanban dans les applications universelles](images/Add-filter-on-kanban-pages-in-Universal-Apps.png)
+![Ajouter un filtre sur les pages kanban dans les applications](images/Add-filter-on-kanban-pages-in-Universal-Apps.png)
 
 Les utilisateurs peuvent afficher plus d'informations sur une entrée en cliquant sur une fiche. Décidez donc quelles données doivent être **visibles** et affichez ou masquez les colonnes correspondantes à l'aide des **curseurs**.
 
-![Hide columns on gallery pages in Universal Apps](images/Hide-columns-on-gallery-pages-in-Universal-Apps-1.png)
+![Hide columns on gallery pages](images/Hide-columns-on-gallery-pages-in-Universal-Apps-1.png)
 
-{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier****les filtres prédéfinis**, les **tris** et les **colonnes masquées**. Ils n'obtiennent donc, comme ils le souhaitent, que les entrées filtrées dans un ordre fixe." />}}
+{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier les filtres prédéfinis**, les **tris** et les **colonnes masquées**. Ils n'obtiennent donc, comme ils le souhaitent, que les entrées filtrées dans un ordre fixe." />}}
 
 ## Paramètres de la colonne des liens
 
 Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et quelles opérations sont autorisées.
 
-![Paramètres de colonne de lien sur les pages de tableau dans Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+![Paramètres de colonne de lien sur les pages de tableau](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Autoriser l'ajout de nouvelles entrées**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des champs permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
 - **Autoriser la liaison d'entrées existantes**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres de champ.
@@ -55,7 +57,7 @@ Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaq
 
 Trois autres curseurs permettent de faire en sorte que SeaTable **n'affiche pas les lignes vides**, qu'il **affiche les noms des colonnes** sur les fiches et qu'il **renverse le texte**.
 
-![Autres paramètres de la page Kanban dans les applications universelles](images/Weitere-Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
+![Autres paramètres de la page Kanban dans les applications](images/Weitere-Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
 
 Vous pouvez également afficher sur les fiches d'autres **données** du tableau sous-jacent : Pour ce faire, activez autant de **champs à afficher** que vous le souhaitez.
 

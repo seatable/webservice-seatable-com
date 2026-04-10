@@ -1,21 +1,23 @@
 ---
-title: 'Páginas do tipo Conjunto de dados único em aplicações universais'
+title: 'Páginas do registo único em aplicações de SeaTable'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/pagina-registro-unico-apps-universais'
+url: '/pt/ajuda/pagina-registo-unico-apps-seatable'
 aliases:
     - '/pt/ajuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+    - '/pt/ajuda/pagina-registro-unico-apps-universais'
 seo:
-    title: 'Página de registro único em Apps Universais – recursos'
-    description: 'Crie telas com dados individuais, estáticos e campos dinâmicos nas Apps Universais – controle visual, permissões e filtros em cada ficha.'
+    title: 'Página de registo único em SeaTable Apps – recursos'
+    description: 'Crie telas com dados individuais, estáticos e campos dinâmicos nas aplicações de SeaTable – controle visual, permissões e filtros em cada registo.'
+weight: 11
 ---
 
-Com o [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) de **registo de dados único**, tem a possibilidade de conceber uma página com elementos estáticos, campos de tabela dinâmicos, cores, molduras, etc., para apresentar visualmente os dados armazenados numa linha. Este tipo de página é, portanto, semelhante ao [plugin de conceção de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que já conhece do Base.
+Com o [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) de **registo único**, tem a possibilidade de conceber uma página com elementos estáticos, campos de tabela dinâmicos, cores, molduras, etc., para apresentar visualmente **os dados armazenados numa linha**.
 
-Os utilizadores da aplicação podem ver, pesquisar, navegar ou mesmo editar os registos de dados individuais nesta página - com a autorização relevante. Este tipo de página é adequado, por exemplo, para apresentar os dados de uma base de dados de empregados como perfis personalizados.
+Os utilizadores da aplicação podem ver, pesquisar, navegar ou mesmo editar os registos de dados individuais nesta página – com a autorização relevante. Este tipo de página é adequado, por exemplo, para apresentar os dados de uma base de dados de empregados como perfis personalizados.
 
 ![Página de registo único](images/Single-Record-Page-min.gif)
 
@@ -29,7 +31,7 @@ Nas **definições da página**, é possível selecionar a **tabela** em que os 
 
 ### Elementos estáticos
 
-À semelhança das [páginas individuais]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), também é possível adicionar **elementos estáticos** às páginas do tipo Registo de dados único, que são utilizados para conceber a página e permanecem iguais em todos os registos de dados. Estes elementos são
+À semelhança das [páginas personalizadas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), também é possível adicionar **elementos estáticos** às páginas do tipo Registo único, que são utilizados para conceber a página e permanecem iguais em todos os registos de dados. Estes elementos são
 
 - Texto
 - Texto formatado
@@ -38,7 +40,7 @@ Nas **definições da página**, é possível selecionar a **tabela** em que os 
 - Contentor
 - Carta
 
-![Elementos estáticos do tipo de página Registo de dados único](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
+![Elementos estáticos do tipo de página Registo único](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
 Para obter informações mais pormenorizadas sobre as **opções de definição** destes elementos, consulte [este artigo de ajuda]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
@@ -50,7 +52,7 @@ Tal como os elementos estáticos, cada campo de tabela também tem as suas próp
 
 Também pode definir uma **cor de fundo** e uma **moldura** para cada campo da tabela.
 
-![Definições de elementos de um campo de tabela em páginas de registo único na aplicação universal](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
+![Definições de elementos de um campo de tabela em páginas de registo único](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
 
 Para todos os tipos de colunas baseadas em texto e números, também tem a opção de definir o **tamanho, a espessura, a cor e o alinhamento dos valores apresentados**.
 
@@ -59,7 +61,7 @@ Existem também algumas caraterísticas especiais para os seguintes tipos de col
 - Se clicar num endereço de correio eletrónico numa **coluna de correio eletrónico**, será aberto o cliente de correio eletrónico instalado no seu dispositivo (por exemplo, Microsoft Outlook ou Mozilla Thunderbird).
 - Se clicar numa ligação numa coluna **URL**, o sítio Web correspondente será aberto num novo separador do seu browser.
 - Se clicar num símbolo de miniatura numa coluna **Arquivo**, o ficheiro abre-se num visualizador adequado num novo separador do seu browser. Se estiver configurado um Editor do Office Online, também pode abrir e editar documentos do Office diretamente no browser.
-- Com **Colunas de ligação**, todas as entradas ligadas ao registo de dados podem ser claramente apresentadas numa tabela. Pode ajustar a largura da coluna e também ocultar colunas através das definições do elemento, para que apenas sejam apresentadas as informações essenciais das entradas ligadas.
+- Com **Colunas de ligação**, todos os registos ligados ao registo de dados podem ser claramente apresentadas numa tabela. Pode ajustar a largura da coluna e também ocultar colunas através das definições do elemento, para que apenas sejam apresentadas as informações essenciais dos registos ligados.
 
 ![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
@@ -73,11 +75,11 @@ Se quiser copiar, mover ou apagar um elemento existente na sua página, basta ut
 
 Também é possível definir filtros e ordenações predefinidos para limitar e organizar os registos de dados que podem ser apresentados aos utilizadores. Para filtrar ou ordenar, clique em **Adicionar filtro** ou **Adicionar ordenação**, seleccione a **coluna** e a **condição** pretendidas e confirme com **Enviar**.
 
-![Adicionar filtros nas páginas de Registo Único nas Aplicações Universais](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
+![Adicionar filtros nas páginas de Registo Único](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
 
 Os utilizadores só podem ver as informações de um registo de dados individual que é apresentado através dos campos da tabela integrada.
 
-{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros** e **a ordenação** **predefinidos**. Por conseguinte, só verá as entradas filtradas numa ordem fixa, como desejar." />}}
+{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros** e **a ordenação** **predefinidos**. Por conseguinte, só verá os registos filtrados numa ordem fixa, como desejar." />}}
 
 ## Definições gráficas do fundo da página
 
@@ -88,25 +90,25 @@ Os utilizadores só podem ver as informações de um registo de dados individual
 - Decida se pretende **ocultar** a **barra de título**.
 - Decida se pretende **ocultar** a **barra de ferramentas** que os utilizadores podem utilizar para alternar entre entradas.
 
-![Definições do fundo da página das páginas do tipo Registo de dados único](images/Seitenhintergrund-Einstellungen-von-Seiten-des-Typs-Einzelner-Datensatz.png)
+![Definições do fundo da página das páginas do tipo Registo único](images/Seitenhintergrund-Einstellungen-von-Seiten-des-Typs-Einzelner-Datensatz.png)
 
-## Alternar entre as entradas
+## Alternar entre os registos
 
-Se tiver exibido a barra de ferramentas, os utilizadores de aplicações com a autorização de página correspondente podem alternar entre os registos de dados individuais. {{< seatable-icon icon="dtable-icon-left" color="grey" >}} {{< seatable-icon icon="dtable-icon-right" color="grey" >}} Para o fazer, clique em **Entrada** **anterior** ou **Entrada seguinte**. {{< seatable-icon icon="dtable-icon-search" color="grey" >}} Também é possível procurar uma **entrada** específica.
+Se tiver exibido a barra de ferramentas, os utilizadores de aplicações com a autorização de página correspondente podem alternar entre os registos de dados individuais. {{< seatable-icon icon="dtable-icon-left" color="grey" >}} {{< seatable-icon icon="dtable-icon-right" color="grey" >}} Para o fazer, clique em **Registo anterior** ou **Registo seguinte**. {{< seatable-icon icon="dtable-icon-search" color="grey" >}} Também é possível **procurar um registo** específica.
 
 ![Alternar entre registos em páginas de registo único](images/Switch-between-records-on-single-record-pages.gif)
 
-## Editar entrada
+## Modificar o registo
 
 Com a autorização adequada, os utilizadores da aplicação podem editar os registos de dados individuais nesta página.
 
 ![Modificar o registo em páginas de registo único](images/Modify-record-on-single-record-pages.gif)
 
-- Clique em **Editar entrada** na barra de ferramentas.
+- Clique em **Modificar o registo** na barra de ferramentas.
 - Abre-se a janela com os **detalhes da linha**. Efectue aí as alterações desejadas no registo de dados.
 - Feche a janela clicando no **símbolo x** para guardar as alterações.
 
-## Gerar código QR para entradas individuais
+## Gerar código QR para registos
 
 Também encontrará um **gerador de código QR** na barra de ferramentas. O código QR contém a ligação para a entrada atualmente apresentada. Anexado a um objeto ou dispositivo, pode digitalizar o código QR utilizando um tablet ou smartphone e aceder a todos os dados na aplicação sem qualquer introdução no teclado. Isto torna [a gestão do inventário]({{< relref "templates/operations/inventory-list" >}}), por exemplo, ainda mais fácil.
 
@@ -118,7 +120,7 @@ Tal como nas páginas de tabelas e consultas, também aqui pode utilizar colunas
 
 ## Autorizações de páginas
 
-É possível definir as seguintes [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para páginas do tipo Registo de dados único:
+É possível definir as seguintes [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para páginas do tipo Registo único:
 
 ![Autorizações de páginas para páginas de calendário](images/Seitenberechtigungen-von-Kalenderseiten.png)
 

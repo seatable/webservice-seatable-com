@@ -29,16 +29,16 @@ En principe, vous pouvez tester vos applications à tout moment en les ouvrant e
 
 ![Ouvrir l'application](images/App-oeffnen-1.png)
 
-## Ouvrir l'aperçu dans l'Universal App Builder
+## Ouvrir l'aperçu dans l'App Builder
 
 Vous pouvez également consulter à tout moment l'état actuel de votre application dans le **mode d'édition de** l'App Builder.
 
-1. Passez la souris sur l'application universelle et cliquez sur l'**icône de crayon** qui apparaît {{< seatable-icon icon="dtable-icon-rename" >}} pour l'ouvrir en mode édition.
+1. Passez la souris sur l'application et cliquez sur l'**icône de crayon** qui apparaît {{< seatable-icon icon="dtable-icon-rename" >}} pour l'ouvrir en mode édition.
 
 ![Modifier les apps](images/Apps-bearbeiten.png)
 
 3. Cliquez sur l'**icône** en **forme d'œil** en haut à gauche de la page.
 
-![Ouvrir l'aperçu d'une application universelle](images/open-app-preview-of-the-universal-app.png)
+![Ouvrir l'aperçu d'une application](images/open-app-preview-of-the-universal-app.png)
 
 5. L'**aperçu de l'application** s'ouvre alors dans une nouvelle fenêtre.

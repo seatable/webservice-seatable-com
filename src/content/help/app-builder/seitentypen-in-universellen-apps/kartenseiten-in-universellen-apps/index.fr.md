@@ -1,15 +1,15 @@
 ---
-title: 'Pages de carte dans les applications'
+title: 'Pages de carte dans les applications de SeaTable'
 date: 2026-04-07
 lastmod: '2026-04-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/pages-de-carte-dans-les-applications'
+url: '/fr/aide/pages-de-carte-dans-les-applications-de-seatable'
 seo:
-    title: 'Pages de carte dans les applications : visualiser des lieux sur une carte du monde'
-    description: 'Créez des pages de cartes dans SeaTable Apps : visualisez les données de géolocalisation et les adresses sur une carte du monde.'
-weight: 9
+    title: 'Pages de carte dans SeaTable Apps : visualiser des lieux sur une carte du monde'
+    description: 'Créez des pages de cartes dans les applications de SeaTable : visualisez les données de géolocalisation et les adresses sur une carte du monde.'
+weight: 10
 ---
 
 Ce type de page vous permet d'afficher des **lieux** enregistrés dans votre tableur à l'aide de **données de géolocalisation ou d'adresses** sur une **carte mondiale** dans l'application.

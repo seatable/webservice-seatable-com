@@ -1,22 +1,23 @@
 ---
-title: 'Páginas de consulta en aplicaciones universales'
+title: 'Páginas de consulta en aplicaciones de SeaTable'
 date: 2023-12-08
 lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/paginas-consulta-apps-universales'
+url: '/es/ayuda/paginas-consulta-apps-seatable'
 aliases:
     - '/es/ayuda/abfrageseiten-in-universellen-apps'
+    - '/es/ayuda/paginas-consulta-apps-universales'
 seo:
-    title: 'Páginas de consulta en Apps Universales'
-    description: 'Busque y filtre grandes conjuntos de datos en Apps Universales de SeaTable: defina filtros, ordenaciones y campos de consulta para resultados propios.'
-
+    title: 'Páginas de consulta en SeaTable Apps'
+    description: 'Busque y filtre grandes conjuntos de datos en aplicaciones de SeaTable: defina filtros, ordenaciones y campos de consulta para resultados propios.'
+weight: 9
 ---
 
-Con este tipo de página, que funciona de forma similar a la [aplicación de consulta de datos]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), puede buscar en sus registros de datos valores específicos en determinados campos. Este tipo de página es especialmente útil para registros de **datos extensos**, como catálogos de productos o bibliotecas. Un caso de uso específico podría ser, por ejemplo, la consulta de un directorio de empleados.
+Con este tipo de página puede buscar en sus registros de datos valores específicos en determinados campos. Este tipo de página es especialmente útil para registros de **datos extensos**, como catálogos de productos o bibliotecas. Un caso de uso específico podría ser, por ejemplo, la consulta de un directorio de empleados.
 
-![Páginas de consulta en aplicaciones universales](images/Abfrageseiten-in-Universellen-Apps.png)
+![Páginas de consulta en aplicaciones](images/Abfrageseiten-in-Universellen-Apps.png)
 
 ## Configuración de página
 
@@ -30,11 +31,11 @@ En la **configuración de la página**, defina primero la **tabla** en la que se
 
 A continuación, puede definir **filtros** preestablecidos, **clasificar** y **ocultar columnas** para limitar y organizar los datos que se muestran a los usuarios. Para filtrar u ordenar, haga clic en **Añadir filtro** o **Añadir ordenación**, seleccione la **columna** y la **condición** deseadas y confirme con **Enviar**.
 
-![Añadir filtro en páginas de consulta en Universal Apps](images/Add-filter-on-query-pages-in-Universal-Apps.png)
+![Añadir filtro en páginas de consulta](images/Add-filter-on-query-pages-in-Universal-Apps.png)
 
 Los usuarios pueden ver toda la información de los registros de datos aplicables en los **resultados de la consulta** si usted no los restringe. Por lo tanto, decida qué datos deben ser **visibles** y muestre u oculte las columnas correspondientes utilizando los **controles deslizantes**.
 
-![Ocultar columnas en páginas de consulta en Universal Apps](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
+![Ocultar columnas en páginas de consulta](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
 
 {{< warning  headline="Nota importante"  text="Los usuarios de la aplicación **no pueden cambiar** los **filtros preestablecidos** ni las **columnas ocultas**. Por lo tanto, sólo verán las entradas filtradas, como deseen. Sin embargo, los usuarios pueden personalizar la **altura de las filas** y la **ordenación** de los registros de datos consultados." />}}
 
@@ -50,7 +51,7 @@ A continuación, puede seleccionar la **columna** deseada y establecer si el cam
 
 Puede añadir una **nota** introductoria a su página de consulta, que puede contener explicaciones sobre cómo rellenar los campos de consulta, por ejemplo. Para ello, basta con activar el **control deslizante** en la configuración de la página y escribir la nota en el cuadro de texto que aparece.
 
-![Añadir referencia a las páginas de consulta de la aplicación universal](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
+![Añadir referencia a las páginas de consulta de la aplicación](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
 
 ## Editar los resultados de la consulta
 
@@ -73,7 +74,7 @@ A continuación, todos los usuarios con acceso a la página de consulta pueden *
 
 En la parte inferior de la configuración de la página, puede restringir quién puede ver la página de consulta.
 
-![Autorización para páginas individuales de la aplicación universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Autorización para páginas de consulta de la aplicación](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 Esta es la única [autorización de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que puede seleccionar aquí. No puede añadir o eliminar filas en la tabla a través de páginas de consulta.
 
@@ -88,7 +89,3 @@ Un ejemplo de aplicación es una bolsa de trabajo interna: la página de consult
 [Los botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar los resultados de la consulta.
 
 {{< /warning >}}
-
-## Otros artículos útiles
-
-Si sólo necesitas la funcionalidad de consulta descrita anteriormente para tu aplicación, también puedes utilizar directamente la [app de consulta de datos]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) en lugar de una app universal.

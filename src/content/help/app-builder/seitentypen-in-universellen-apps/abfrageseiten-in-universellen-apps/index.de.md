@@ -1,20 +1,22 @@
 ---
-title: 'Abfrageseiten in Universellen Apps'
+title: 'Abfrageseiten in SeaTable Apps'
 date: 2023-12-08
 lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/abfrageseiten-in-universellen-apps'
+url: '/de/hilfe/abfrageseiten-in-seatable-apps'
+aliases:
+    - '/de/hilfe/abfrageseiten-in-universellen-apps'
 seo:
-    title: 'Abfrageseiten in Universellen Apps nutzen'
-    description: 'Durchsuchen und filtern Sie große Datensätze in Universellen Apps gezielt nach Werten: Filter, Sortierungen und Abfragefelder für individuelle Ergebnisse.'
-
+    title: 'Abfrageseiten in SeaTable Apps nutzen'
+    description: 'Durchsuchen und filtern Sie große Datensätze in SeaTable Apps gezielt nach Werten: Filter, Sortierungen und Abfragefelder für individuelle Ergebnisse.'
+weight: 9
 ---
 
-Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage eines Mitarbeiterverzeichnisses sein.
+Mithilfe dieses Seitentyps können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage eines Mitarbeiterverzeichnisses sein.
 
-![Abfrageseiten in Universellen Apps](images/Abfrageseiten-in-Universellen-Apps.png)
+![Abfrageseiten in SeaTable Apps](images/Abfrageseiten-in-Universellen-Apps.png)
 
 ## Seiteneinstellungen
 
@@ -28,11 +30,11 @@ In den **Seiteneinstellungen** definieren Sie zuerst die **Tabelle**, die durchs
 
 Daraufhin können Sie voreingestellte **Filter**, **Sortierungen** und **ausgeblendete Spalten** definieren, um die angezeigten Daten für die Nutzer einzugrenzen und zu ordnen. Zum Filtern oder Sortieren klicken Sie auf **Filter hinzufügen** oder **Sortierung hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen mit **Abschicken**.
 
-![Add filter on query pages in Universal Apps](images/Add-filter-on-query-pages-in-Universal-Apps.png)
+![Add filter on query pages](images/Add-filter-on-query-pages-in-Universal-Apps.png)
 
 Die Nutzer können in den **Abfrageergebnissen** alle Informationen der zutreffenden Datensätze sehen, wenn Sie diese nicht einschränken. Entscheiden Sie daher, welche Daten **sichtbar** sein sollen, und blenden Sie die entsprechenden Spalten mithilfe der **Regler** ein oder aus.
 
-![Hide columns on query pages in Universal Apps](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
+![Hide columns on query pages](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="**Voreingestellte Filter** und **ausgeblendete Spalten** können die App-Nutzer **nicht verändern**. Sie bekommen also, wie von Ihnen gewünscht, nur die gefilterten Einträge angezeigt. Die **Zeilenhöhe** und die **Sortierung** der abgefragten Datensätze können die Nutzer allerdings individuell anpassen." />}}
 
@@ -48,7 +50,7 @@ Anschließend können Sie die gewünschte **Spalte** auswählen und einstellen, 
 
 Sie können Ihrer Abfrageseite einen einleitenden **Hinweis** hinzufügen, der zum Beispiel Erklärungen zum Ausfüllen der Abfragefelder enthalten kann. Aktivieren Sie dazu einfach den **Regler** in den Seiteneinstellungen und schreiben Sie den Hinweis in die erscheinende Textbox.
 
-![Hinweis auf Abfrageseiten der Universellen App hinzufügen](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
+![Hinweis auf Abfrageseiten hinzufügen](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
 
 ## Abfrageergebnisse bearbeiten
 
@@ -71,7 +73,7 @@ Anschließend können alle Nutzer mit Zugriff auf die Abfrageseite die gesuchten
 
 Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Abfrageseite sehen darf.
 
-![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Berechtigung für Abfrageseiten](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie hier zur Auswahl haben. Über Abfrageseiten kann man keine Zeilen in der Tabelle hinzufügen oder löschen.
 
@@ -86,7 +88,3 @@ Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt 
 [Schaltflächen]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Abfrageergebnisse berechtigt ist.
 
 {{< /warning >}}
-
-## Weitere hilfreiche Artikel
-
-Falls Sie für Ihre Anwendung nur die oben beschriebene Abfrage-Funktionalität benötigen, können Sie statt einer Universellen App auch direkt die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) nutzen.

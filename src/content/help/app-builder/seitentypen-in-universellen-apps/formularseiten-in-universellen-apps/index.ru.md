@@ -1,26 +1,27 @@
 ---
-title: 'Страницы форм в универсальных приложениях'
+title: 'Страницы форм в приложениях SeaTable'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/formy-v-universalnyh-prilozheniyah'
+url: '/ru/pomoshch/formy-v-prilozheniyakh-seatable'
 aliases:
     - '/ru/pomoshch/formularseiten-in-universellen-apps'
+    - '/ru/pomoshch/formy-v-universalnyh-prilozheniyah'
 seo:
-    title: 'Формы в Универсальных приложениях: инструкция'
+    title: 'Формы в приложениях SeaTable: инструкция'
     description: 'Создайте страницы форм в SeaTable: перетаскивайте поля, задавайте обязательные, пишите подсказки и управляйте доступом легко.'
-
+weight: 3
 ---
 
-Вы можете использовать этот тип страницы для создания различных **форм**, которые пользователи могут отправлять. Страницы форм в универсальных приложениях идеально подходят для сбора данных от разных пользователей. Один из возможных вариантов использования - [учет рабочего времени ваших сотрудников]({{< relref "pages/arbeitszeiterfassung" >}}).
+Вы можете использовать этот тип страницы для создания различных **форм**, которые пользователи могут отправлять. Страницы форм в приложениях идеально подходят для сбора данных от разных пользователей. Один из возможных вариантов использования – [учет рабочего времени ваших сотрудников]({{< relref "pages/arbeitszeiterfassung" >}}).
 
 ![Веб-форма для учета рабочего времени ваших сотрудников](images/webformular-working-time.png)
 
 {{< warning  headline="Совет" >}}
 
-[Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}}) доступны не только в универсальном приложении, но и непосредственно в Базе.
+[Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}}) доступны не только в приложении, но и непосредственно в Базе.
 
 {{< /warning >}}
 
@@ -44,7 +45,7 @@ seo:
 
 Если вы хотите изменить **порядок** расположения полей в форме, вы можете захватить и переместить поле с помощью **символа** {{< seatable-icon icon="dtable-icon-drag" >}} с **шестью точками**. Вы можете удалить поле из формы, нажав на **значок корзины** {{< seatable-icon icon="dtable-icon-delete" >}}.
 
-![Поле на странице формы универсального приложения](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
+![Поле на странице формы приложения](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
 
 ### Дополнительные настройки страницы формы
 
@@ -60,6 +61,6 @@ seo:
 
 Внизу вы можете ограничить круг лиц, которые могут видеть страницу формы.
 
-![Авторизация для отдельных страниц универсального приложения](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Авторизация для отдельных страниц приложения](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Это единственная [авторизация страницы]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), которую вы можете выбрать для страниц форм - потому что ни одна строка в таблице не может быть изменена или удалена через страницы форм, и каждый, кто видит страницу, может также отправлять формы, то есть добавлять строки.
+Это единственная [авторизация страницы]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), которую вы можете выбрать для страниц форм – потому что ни одна строка в таблице не может быть изменена или удалена через страницы форм, и каждый, кто видит страницу, может также отправлять формы, то есть добавлять строки.

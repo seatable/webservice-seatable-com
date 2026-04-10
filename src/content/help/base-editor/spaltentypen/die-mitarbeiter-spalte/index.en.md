@@ -55,10 +55,10 @@ When sending notifications via [automations]({{< relref "help/base-editor/spalte
 
 ![Collaborator column for automated notifications](images/Collaborator-column-for-automated-notifications.gif)
 
-## The collaborator column in universal apps
+## The collaborator column in apps
 
-The collaborator column is also an advantage in the [Universal app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). You can activate the option for team members to be visible to all users in the drop-down list in the app [settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}).
+The collaborator column is also an advantage in the [app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). You can activate the option for team members to be visible to all users in the drop-down list in the app [settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}).
 
-If you do not want the app users to be able to see the data records of other users, define **preset filters**: If a page is filtered by collaborator column with the condition "includes current user", each user of the universal app only sees the entries that are assigned to them in the table.
+If you do not want the app users to be able to see the data records of other users, define **preset filters**: If a page is filtered by collaborator column with the condition "includes current user", each user of the app only sees the entries that are assigned to them in the table.
 
-![Collaborator column in the universal app](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Collaborator column in the app](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)

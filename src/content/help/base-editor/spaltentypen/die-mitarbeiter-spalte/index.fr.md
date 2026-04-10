@@ -55,10 +55,10 @@ Lorsque vous envoyez des notifications via [des automatismes]({{< relref "help/b
 
 ![Colonne du collaborateur pour les notifications automatisées](images/Collaborator-column-for-automated-notifications.gif)
 
-## La colonne des collaborateurs dans les applications universelles
+## La colonne des collaborateurs dans les applications
 
-La colonne des collaborateurs est également avantageuse dans l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Vous pouvez activer l'option permettant de voir les membres de l'équipe dans la liste déroulante pour tous les utilisateurs dans les [paramètres]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) de l'application.
+La colonne des collaborateurs est également avantageuse dans l'[application]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Vous pouvez activer l'option permettant de voir les membres de l'équipe dans la liste déroulante pour tous les utilisateurs dans les [paramètres]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) de l'application.
 
-Si vous ne souhaitez pas que les utilisateurs de l'application puissent voir les enregistrements d'autres utilisateurs, définissez **des filtres prédéfinis**: si une page est filtrée par la colonne des collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application universelle ne verra que les enregistrements qui lui sont attribués dans le tableau.
+Si vous ne souhaitez pas que les utilisateurs de l'application puissent voir les enregistrements d'autres utilisateurs, définissez **des filtres prédéfinis**: si une page est filtrée par la colonne des collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application ne verra que les enregistrements qui lui sont attribués dans le tableau.
 
-![Colonne des collaborateurs dans l'application universelle](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Colonne des collaborateurs dans l'application](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)

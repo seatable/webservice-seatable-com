@@ -1,19 +1,22 @@
 ---
-title: 'Zeitstrahlseiten in Universellen Apps'
+title: 'Zeitstrahlseiten in SeaTable Apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/zeitstrahlseiten-in-universellen-apps'
+url: '/de/hilfe/zeitstrahlseiten-in-seatable-apps'
+aliases:
+    - '/de/hilfe/zeitstrahlseiten-in-universellen-apps'
 seo:
-    title: 'Zeitstrahlseiten in Universellen Apps: Projekte & Planung'
-    description: 'Zeitstrahlseiten in SeaTable: Termine, Projekte und Urlaube als Timeline visualisieren, bearbeiten und filtern.'
+    title: 'Zeitstrahlseiten in SeaTable Apps: Projekte & Planung'
+    description: 'Zeitstrahlseiten in SeaTable Apps: Termine, Projekte und Urlaube als Timeline visualisieren, bearbeiten und filtern.'
+weight: 8
 ---
 
-Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) auf und ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Da diese Datenansicht Überschneidungen von Terminen aufdeckt, könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** ein konkreter Anwendungsfall sein.
+Dieser Seitentyp ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Da diese Datenansicht Überschneidungen von Terminen aufdeckt, könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** ein konkreter Anwendungsfall sein.
 
-![Timeline page in Universal Apps](images/Timeline-page-in-Universal-Apps.png)
+![Timeline page in SeaTable Apps](images/Timeline-page-in-Universal-Apps.png)
 
 ## Seiteneinstellungen
 
@@ -23,21 +26,21 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
 
-![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
+![Grafische Einstellung der Zeitleisten in SeaTable Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
 Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) für das **Startdatum**. Für das **Enddatum** können Sie eine weitere Datum-Spalte oder eine andere numerische Spalte – [Zahl]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), [Dauer]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}}) oder [Formel]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) – verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
 
-![Seiteneinstellungen der Zeitstrahlseite in Universellen Apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
+![Seiteneinstellungen der Zeitstrahlseite in SeaTable Apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 
 ## Voreingestellte Filter und ausgeblendete Spalten
 
 Sie können **voreingestellte Filter** und **ausgeblendete Spalten** definieren, um die angezeigten Daten für die Nutzer einzugrenzen. Klicken Sie dazu auf **Filter hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen Sie mit **Abschicken**.
 
-![Add filter on timeline pages in Universal Apps](images/Add-filter-on-timeline-pages-in-Universal-Apps.png)
+![Add filter on timeline pages in SeaTable Apps](images/Add-filter-on-timeline-pages-in-Universal-Apps.png)
 
 Die Nutzer können sich mehr Informationen zu einem Eintrag anzeigen lassen, indem sie einen Block auf dem Zeitstrahl anklicken. Entscheiden Sie daher, welche Daten **sichtbar** sein sollen, und blenden Sie die entsprechenden Spalten mithilfe der **Regler** ein oder aus.
 
-![Hide columns on timeline pages in Universal Apps](images/Hide-columns-on-timeline-pages-in-Universal-Apps.png)
+![Hide columns on timeline pages in SeaTable Apps](images/Hide-columns-on-timeline-pages-in-Universal-Apps.png)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="**Voreingestellte Filter** und **ausgeblendete Spalten** können die App-Nutzer **nicht verändern**. Sie bekommen also, wie von Ihnen gewünscht, nur die gefilterten Daten angezeigt." />}}
 

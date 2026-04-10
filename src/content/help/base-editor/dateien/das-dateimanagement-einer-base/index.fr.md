@@ -218,7 +218,7 @@ Confirmez ensuite l'opération en cliquant à nouveau sur **Supprimer**.
 
 ![Confirmation de la suppression](images/confirm-deletion.jpg)
 
-Les fichiers que vous supprimez du gestionnaire de fichiers disparaissent également de votre base (par exemple des colonnes de signatures, de fichiers, d'images, de formulaires web ou d'applications universelles) et sont placés dans la **corbeille**, où ils restent pendant 60 jours.
+Les fichiers que vous supprimez du gestionnaire de fichiers disparaissent également de votre base (par exemple des colonnes de signatures, de fichiers, d'images, de formulaires web ou d'applications) et sont placés dans la **corbeille**, où ils restent pendant 60 jours.
 
 {{< warning  headline="Remarque importante"  text="Veuillez noter que les fichiers de la corbeille sont définitivement supprimés du système **après 60 jours**. Assurez-vous donc que **seuls** les fichiers dont vous n'avez plus besoin se trouvent dans la corbeille." />}}
 
@@ -248,7 +248,7 @@ Confirmez l'opération en cliquant sur **Supprimer**.
 
 Les dossiers que vous supprimez de la gestion des fichiers atterrissent dans la **corbeille**, où ils restent pendant 60 jours.
 
-{{< warning  headline="Remarques importantes"  text="Veuillez noter que si vous supprimez un dossier, **tous les fichiers** qu'il contient seront également **supprimés**. Il en va de même pour les sous-dossiers qui se trouvent dans un dossier supprimé. Les fichiers supprimés disparaîtront donc également de votre base (p. ex. des colonnes de signatures, de fichiers et d'images, des formulaires web ou des applications universelles). Veillez à ne supprimer de la gestion des fichiers **que** les dossiers contenant des fichiers qui ne sont plus nécessaires. Après **60 jours** dans la corbeille, tant les dossiers que les fichiers sont définitivement supprimés du système." />}}
+{{< warning  headline="Remarques importantes"  text="Veuillez noter que si vous supprimez un dossier, **tous les fichiers** qu'il contient seront également **supprimés**. Il en va de même pour les sous-dossiers qui se trouvent dans un dossier supprimé. Les fichiers supprimés disparaîtront donc également de votre base (p. ex. des colonnes de signatures, de fichiers et d'images, des formulaires web ou des applications). Veillez à ne supprimer de la gestion des fichiers **que** les dossiers contenant des fichiers qui ne sont plus nécessaires. Après **60 jours** dans la corbeille, tant les dossiers que les fichiers sont définitivement supprimés du système." />}}
 
 Si vous souhaitez restaurer un dossier de la Corbeille, par exemple parce que vous l'avez supprimé par erreur, cliquez sur **Restaurer**. Le dossier apparaît ensuite à l'endroit où il se trouvait avant d'être supprimé. Si vous **videz** la **corbeille**, tous les fichiers et dossiers supprimés seront définitivement perdus.
 

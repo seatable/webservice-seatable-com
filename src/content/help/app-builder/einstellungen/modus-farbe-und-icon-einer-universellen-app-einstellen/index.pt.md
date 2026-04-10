@@ -1,5 +1,5 @@
 ---
-title: 'Definir o modo, a cor e o ícone de uma aplicação universal'
+title: 'Definir o modo, a cor e o ícone de uma aplicação'
 date: 2024-12-13
 lastmod: '2024-12-13'
 categories:
@@ -9,14 +9,14 @@ url: '/pt/ajuda/definir-modo-cor-icone-app-universal'
 aliases:
     - '/pt/ajuda/modus-farbe-und-icon-einer-universellen-app-einstellen'
 seo:
-    title: 'Defina modo, cor e ícone de sua app universal'
-    description: 'Personalize modo, cor e ícone da sua App Universal SeaTable: modo claro/escuro, esquema de cores e ícones próprios.'
+    title: 'Defina modo, cor e ícone de sua aplicação'
+    description: 'Personalize modo, cor e ícone da sua aplicação SeaTable: modo claro/escuro, esquema de cores e ícones próprios.'
 
 ---
 
-Pode efetuar **definições visuais** para cada [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) para personalizar a aplicação de acordo com os seus desejos pessoais ou com o design corporativo da sua empresa. As opções de marca incluem o **modo**, a **cor** e o **ícone** de uma aplicação universal.
+Pode efetuar **definições visuais** para cada [aplicação]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) para personalizar a aplicação de acordo com os seus desejos pessoais ou com o design corporativo da sua empresa. As opções de marca incluem o **modo**, a **cor** e o **ícone** de uma aplicação.
 
-## Alterar as definições de design de uma aplicação universal
+## Alterar as definições de design de uma aplicação
 
 1. Abra uma **base** na qual pretende editar uma aplicação existente.
 2. Clique em **Apps** no cabeçalho Base.
@@ -31,11 +31,11 @@ Pode efetuar **definições visuais** para cada [aplicação universal]({{< relr
 
 ![Ícone de paleta para as definições de design de uma aplicação](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
 
-8. Efetuar os ajustes desejados nas **definições visuais (modo, cor e ícone)** da aplicação universal.
+8. Efetuar os ajustes desejados nas **definições visuais (modo, cor e ícone)** da aplicação.
 
 {{< warning  headline="Autorização necessária no grupo"  text="Para poder editar uma aplicação, tem de ser o **proprietário** ou **administrador do grupo** em que a **base** subjacente se encontra. **Os membros** simples **do grupo** só podem ver e utilizar as aplicações." />}}
 
-## Definir o modo, a cor e o ícone da aplicação universal
+## Definir o modo, a cor e o ícone da aplicação
 
 Assim que tiver clicado no **símbolo da paleta**, abre-se uma nova janela. Aqui pode fazer várias definições que afectam o aspeto da aplicação. Escolha entre **o modo claro e escuro** e opte por um **esquema de cores**.
 
@@ -47,10 +47,10 @@ Ao selecionar um **ícone de aplicação** adequado, pode carregar e utilizar o 
 
 ## Editar definições visuais de páginas individuais
 
-As definições mencionadas até agora afectam **toda** uma **aplicação universal**. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
+As definições mencionadas até agora afectam **toda** uma **aplicação**. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
 
 ![Abrir as definições da página](images/page-permissions-universal-app.png)
 
 Atualmente, a [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
 
-![Selecionador de cores na aplicação universal](images/Color-Picker-in-der-Universellen-App.png)
+![Selecionador de cores na aplicação](images/Color-Picker-in-der-Universellen-App.png)

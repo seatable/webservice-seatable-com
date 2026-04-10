@@ -7,7 +7,7 @@ categories:
 author: 'kgr'
 url: '/fr/aide/chercher-une-base-ou-une-app'
 seo:
-    title: 'Rechercher une base ou une appli dans SeaTable'
+    title: 'Rechercher une base ou une application dans SeaTable'
     description: 'Apprenez à utiliser la recherche de SeaTable pour trouver rapidement vos bases et applications, et consulter vos résultats récents.'
 
 ---

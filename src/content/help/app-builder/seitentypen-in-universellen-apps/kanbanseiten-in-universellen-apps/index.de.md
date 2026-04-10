@@ -1,19 +1,22 @@
 ---
-title: 'Kanbanseiten in Universellen Apps'
+title: 'Kanbanseiten in SeaTable Apps'
 date: 2023-12-07
 lastmod: '2023-12-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/kanbanseiten-in-universellen-apps'
+aliases:
+    - '/de/hilfe/kanbanseiten-in-seatable-apps'
 seo:
-    title: 'Kanbanseiten in Universellen Apps: Workflows visuell steuern'
+    title: 'Kanbanseiten in SeaTable Apps: Workflows visuell steuern'
     description: 'Erfahren Sie, wie Sie Kanbanseiten in SeaTable nutzen, Karten individuell gestalten, Filter, Sortierungen, Berechtigungen und Big-Data-Optionen optimal einsetzen.'
+weight: 7
 ---
 
-Dieser Seitentyp funktioniert so ähnlich wie das [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) und bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.
+Dieser Seitentyp bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.
 
-![Kanbanseiten in Universellen Apps](images/Kanbanseiten-in-Universellen-Apps.png)
+![Kanbanseiten in SeaTable Apps](images/Kanbanseiten-in-Universellen-Apps.png)
 
 ## Seiteneinstellungen ändern
 
@@ -23,17 +26,17 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 Legen Sie in den **Seiteneinstellungen** fest, auf welcher **Tabelle** das Kanban-Board basiert, nach welcher Spalte die Einträge **gruppiert** werden und aus welcher Spalte die **Titel** stammen.
 
-![Seiteneinstellungen der Kanbanseite in Universellen Apps](images/Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
+![Seiteneinstellungen der Kanbanseite](images/Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
 
 ## Voreingestellte Filter, Sortierungen und ausgeblendete Spalten
 
 Darüber hinaus können Sie voreingestellte Filter, Sortierungen und ausgeblendete Spalten definieren, um die angezeigten Daten für die Nutzer einzugrenzen und zu ordnen. Zum Filtern oder Sortieren klicken Sie auf **Filter hinzufügen** oder **Sortierung hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen mit **Abschicken**.
 
-![Add filter on kanban pages in Universal Apps](images/Add-filter-on-kanban-pages-in-Universal-Apps.png)
+![Add filter on Kanban pages](images/Add-filter-on-kanban-pages-in-Universal-Apps.png)
 
 Die Nutzer können sich mehr Informationen zu einem Eintrag anzeigen lassen, indem sie auf eine Karteikarte klicken. Entscheiden Sie daher, welche Daten **sichtbar** sein sollen, und blenden Sie die entsprechenden Spalten mithilfe der **Regler** ein oder aus.
 
-![Hide columns on gallery pages in Universal Apps](images/Hide-columns-on-gallery-pages-in-Universal-Apps-1.png)
+![Hide columns on Kanban pages](images/Hide-columns-on-gallery-pages-in-Universal-Apps-1.png)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="**Voreingestellte Filter**, **Sortierungen** und **ausgeblendete Spalten** können die App-Nutzer **nicht verändern**. Sie bekommen also, wie von Ihnen gewünscht, nur die gefilterten Einträge in einer festen Reihenfolge angezeigt." />}}
 
@@ -41,7 +44,7 @@ Die Nutzer können sich mehr Informationen zu einem Eintrag anzeigen lassen, ind
 
 In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sichtbar und welche Operationen erlaubt sind.
 
-![Link column settings on table pages in Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+![Link column settings on Kanban pages](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Hinzufügen neuer Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** und welche Spalten **erforderlich** sind, also ausgefüllt werden müssen.
 - **Verknüpfen bestehender Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle verlinken. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
@@ -53,7 +56,7 @@ In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpf
 
 Mit drei weiteren Reglern können Sie einstellen, dass SeaTable **leere Zeilen nicht anzeigen**, auf den Karteikarten die **Spaltennamen anzeigen** und **Text umbrechen** soll.
 
-![Weitere Seiteneinstellungen der Kanbanseite in Universellen Apps](images/Weitere-Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
+![Weitere Seiteneinstellungen der Kanbanseite](images/Weitere-Seiteneinstellungen-der-Kanbanseite-in-Universellen-Apps.png)
 
 Andere **Daten** aus der zugrundeliegenden Tabelle können Sie ebenfalls auf den Karteikarten anzeigen lassen: Aktivieren Sie dazu beliebig viele **anzuzeigende Felder**.
 

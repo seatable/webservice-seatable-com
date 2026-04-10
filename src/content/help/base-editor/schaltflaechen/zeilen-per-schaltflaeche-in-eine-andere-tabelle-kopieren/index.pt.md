@@ -61,7 +61,7 @@ No nosso exemplo de aplicação, os convidados do sexo feminino devem ser copiad
 
 {{< warning  headline="Nota" >}}
 
-Esta ação de botão não é suportada em [páginas de tabela em aplicações universais]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). É apresentada uma mensagem de erro correspondente quando o botão é premido.
+Esta ação de botão não é suportada em [páginas de tabela em aplicações]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). É apresentada uma mensagem de erro correspondente quando o botão é premido.
 
 {{< /warning >}}
 

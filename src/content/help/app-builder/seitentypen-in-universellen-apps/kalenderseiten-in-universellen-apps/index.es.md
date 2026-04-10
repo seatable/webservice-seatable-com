@@ -1,19 +1,21 @@
 ---
-title: 'Páginas de calendario en aplicaciones universales'
+title: 'Páginas de calendario en aplicaciones de SeaTable'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/calendario-en-apps-universales'
+url: '/es/ayuda/paginas-de-calendario-en-apps-seatable'
 aliases:
     - '/es/ayuda/kalenderseiten-in-universellen-apps'
+    - '/es/ayuda/calendario-en-apps-universales'
 seo:
-    title: 'Páginas de calendario en apps universales'
+    title: 'Páginas de calendario en apps de SeaTable'
     description: 'Agenda colaborativa en SeaTable: visualiza y gestiona eventos, tareas y proyectos en el calendario de la app.'
+weight: 5
 ---
 
-Este tipo de página de la aplicación universal funciona de forma similar al [complemento de calendario]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de la tabla en un **calendario**. Un caso de uso específico podría ser, por ejemplo, la visualización en el calendario de las próximas **reuniones**.
+Este tipo de página le permite mostrar las entradas de una o dos [columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de su tabla en un **calendario**. Un caso de uso específico podría ser, por ejemplo, la visualización en el calendario de las próximas **reuniones**.
 
 ![Próximas reuniones en una vista de calendario de la página de calendario](images/calendar-page-example.png)
 
@@ -31,17 +33,17 @@ En la **configuración de la página**, puede seleccionar el **título**, la **f
 
 Puede definir **filtros preestablecidos** y **columnas ocultas** para limitar los datos que se muestran a los usuarios.
 
-![Añadir filtro en las páginas de calendario en Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Añadir filtro en las páginas de calendario](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Para ello, haga clic en **Añadir filtro**, seleccione la **columna** y la **condición** deseadas y confirme con **Enviar**.
 
 Los usuarios pueden ver más información sobre una cita haciendo clic en una entrada del calendario.
 
-![Abrir entradas del calendario en la aplicación universal](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
+![Abrir entradas del calendario en una aplicación](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
 
 Por lo tanto, decida qué datos deben ser **visibles** y muestre u oculte las columnas correspondientes utilizando los **controles deslizantes**.
 
-![Ocultar columnas en páginas de calendario en Universal Apps](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
+![Ocultar columnas en páginas de calendario](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
 
 {{< warning  headline="Nota importante"  text="Los usuarios de la aplicación **no pueden cambiar** los **filtros preestablecidos** ni las **columnas ocultas**. Por tanto, solo verán los datos filtrados como deseen." />}}
 
@@ -55,7 +57,7 @@ Independientemente de la fecha, también puede hacer clic en el gran **símbolo 
 
 ## Editar y mover entradas de la agenda
 
-Puedes editar fácilmente las entradas de la agenda **haciendo clic en una entrada** y realizando los cambios deseados en los **detalles de la línea** que se abren. También puede mover cómodamente las entradas del calendario **mediante arrastrar y soltar**. SeaTable ajusta automáticamente los valores en las respectivas [columnas de fechas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
+Puede editar fácilmente las entradas de la agenda **haciendo clic en una entrada** y realizando los cambios deseados en los **detalles de la línea** que se abren. También puede mover cómodamente las entradas del calendario **mediante arrastrar y soltar**. SeaTable ajusta automáticamente los valores en las respectivas [columnas de fechas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 ![Mover y editar entradas en las páginas del calendario](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 
