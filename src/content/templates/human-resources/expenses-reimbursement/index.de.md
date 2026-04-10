@@ -181,7 +181,7 @@ sections:
         a: 'Ja, Sie können die Reisekostenabrechnung Vorlage flexibel um eigene Felder, Kategorien, Pauschalen, Genehmigungsstufen und Ansichten erweitern. So passt sich die Vorlage an Ihre internen Richtlinien für Dienstreisen, Bewirtungsbelege und Erstattungen an.'
       - q: "Wie kommen die Daten aus der Vorlage in mein Buchhaltungssystem?"
         a: 'Die Daten aus der Vorlage lassen sich über Exporte, Automatisierungen und API-Schnittstellen weiterverarbeiten. So können Sie Erstattungsdaten für Buchhaltung, Controlling oder nachgelagerte Systeme strukturiert bereitstellen.'
-      - q: " Ist die digitale Reisekostenabrechnung in SeaTable revisionssicher?"
+      - q: "Ist die digitale Reisekostenabrechnung in SeaTable revisionssicher?"
         a: 'Die Vorlage unterstützt eine revisionssichere, nachvollziehbare Ablage von Belegen, Angaben und Statusänderungen in einer zentralen Datenbank. So bleiben Einreichungen, Freigaben und Erstattungen sauber dokumentiert und jederzeit nachvollziehbar.'
       - q: "Können mehrere Mitarbeiter gleichzeitig auf die Vorlage zugreifen?"
         a: 'Ja, mehrere Mitarbeitende können gleichzeitig Reisekosten über das Reisekostenabrechnung Formular einreichen, während Vorgesetzte und Buchhaltung parallel prüfen oder freigeben. Über Berechtigungen steuern Sie dabei, wer welche Daten sehen und bearbeiten darf.'
@@ -191,6 +191,6 @@ sections:
         a: 'Ja, die Vorlage eignet sich nicht nur für klassische Dienstreisen, sondern auch als Auslagenerstattung Vorlage für Büroausgaben, Materialkäufe oder bewirtungsbezogene Kosten. Damit bündeln Sie verschiedene Erstattungsprozesse in einem System.'
       - q: "Wie hilft die Vorlage bei Verpflegungsmehraufwand und Kilometerpauschale?"
         a: 'Die Vorlage kann Verpflegungsmehraufwand, Verpflegungspauschalen sowie Kilometerpauschale und Fahrkostenpauschale strukturiert erfassen und automatisch berechnen. Das reduziert Rechenfehler und schafft eine nachvollziehbare Basis für die Erstattung.'
-      - q: " Warum ist SeaTable besser als eine Reisekostenabrechnung in Excel?"
+      - q: "Warum ist SeaTable besser als eine Reisekostenabrechnung in Excel?"
         a: 'Excel-Dateien sind bei Reisekosten oft fehleranfällig, schwer mobil nutzbar und unpraktisch bei der Verknüpfung von Belegen. Mit der Reisekostenabrechnung Vorlage in SeaTable arbeiten Sie digital, mobil, kollaborativ und deutlich strukturierter – von der Einreichung bis zur Erstattung eine starke [Alternative zu Excel]({{< relref "pages/excel-alternative" >}}).'
 ---
