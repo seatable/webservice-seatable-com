@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Guarda-roupa digital e planeador de roupas da SeaTable'
       subtitle: Mais flexível do que outros aplicativos de guarda-roupa
-      description: Uma lista simples em aplicativos de anotações ou no Excel é rápida de criar, mas também pode ser confusa. Com a [solução de IA no-code SeaTable]({{< relref "/" >}}), é possível criar o seu próprio aplicativo de guarda-roupa pessoal para um armário organizado e **mais transparência e clareza na sua vida cotidiana**.
+      description: Uma lista simples em aplicativos de anotações ou no Excel é rápida de criar, mas também pode ser confusa. Com a [solução de IA no-code SeaTable]({{< relref "/" >}}), é possível criar o seu próprio aplicativo de guarda-roupa pessoal para um [armário organizado]({{< relref "posts/kleiderschrank-organisieren" >}}) e **mais transparência e clareza na sua vida cotidiana**.
       items:
       - text: '**Sempre atualizado**: novas peças ou ideias podem ser adicionadas a qualquer momento e estão sempre atualizadas.'
       - text: '**Acesso a partir de qualquer lugar**: com a solução em nuvem, o utilizador tem sempre o seu guarda-roupa completo consigo.'

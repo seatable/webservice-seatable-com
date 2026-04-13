@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Digital Wardrobe and outfit planner from SeaTable'
       subtitle: More flexible than other wardrobe apps
-      description: A simple list in note-taking apps or Excel is quick to create—but it can also be confusing. With the [AI no-code solution SeaTable]({{< relref "/" >}}), you can create your own personal wardrobe app for an organized closet and **more transparency and clarity in your everyday life**.
+      description: A simple list in note-taking apps or Excel is quick to create—but it can also be confusing. With the [AI no-code solution SeaTable]({{< relref "/" >}}), you can create your own personal wardrobe app for an [organized closet]({{< relref "posts/kleiderschrank-organisieren" >}}) and **more transparency and clarity in your everyday life**.
       items:
       - text: '**Always up to date**: New parts or ideas can be added at any time and are always up to date.'
       - text: '**Access from anywhere**: With the cloud solution, you always have your entire wardrobe with you.'

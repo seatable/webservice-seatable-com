@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: Armoire numérique et planificateur de tenues par SeaTable
       subtitle: Plus flexible que les autres applications de garde-robe
-      description: Une simple liste dans une application de prise de notes ou dans Excel est rapide à créer, mais elle peut également prêter à confusion. Grâce à [la solution IA no-code SeaTable]({{< relref "/" >}}), vous pouvez créer votre propre application de garde-robe personnelle pour un placard bien organisé et une **plus grande transparence et clarté dans votre vie quotidienne**.
+      description: Une simple liste dans une application de prise de notes ou dans Excel est rapide à créer, mais elle peut également prêter à confusion. Grâce à [la solution IA no-code SeaTable]({{< relref "/" >}}), vous pouvez créer votre propre application de garde-robe personnelle pour un [placard bien organisé]({{< relref "posts/kleiderschrank-organisieren" >}}) et une **plus grande transparence et clarté dans votre vie quotidienne**.
       items:
       - text: "**Toujours à jour** : de nouvelles pièces ou idées peuvent être ajoutées à tout moment et sont toujours à jour."
       - text: "**Accès depuis n'importe où** : grâce à la solution cloud, vous avez toujours toute votre garde-robe avec vous."
