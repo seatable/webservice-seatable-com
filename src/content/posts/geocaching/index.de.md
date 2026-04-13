@@ -13,7 +13,6 @@ tags:
 color: '#0bbec4'
 register:
    show: true
-draft: true
 ---
 
 ## Key Take-aways
