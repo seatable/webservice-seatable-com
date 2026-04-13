@@ -82,8 +82,8 @@ sections:
       - text: '**Interaktives Template:** Wechseln Sie zwischen Galerie-Ansicht für visuelles Storytelling, Kanban-Ansicht für Produktionsstatus und tabellarischer Detailplanung mit Zeitablauf.'
       - text: '**Zentrale Ablage:** Bilder, Skizzen, Audio-Hinweise und Textbausteine liegen direkt in Ihrer Storyboard Vorlage – ohne separate Word-Dokumente oder verstreute Bildablagen.'
       image_position: [left]
-      image: '/images/template_page_reisekostenabrechnung_01.png'
-      image_alt: ''
+      image: '/images/template_page_storyboard_01.png'
+      image_alt: 'Strukturierte digitale Storyboard Vorlage mit Galerie-, Tabellen- und Kanban-Ansicht für Szenenplanung'
 
     - name: "content-25"
       weight: 10
@@ -92,20 +92,20 @@ sections:
       items:
       - headline: 'Belege und Auslagen zentral erfassen'
         text: 'In der Tabelle "Storyboard" planen Sie jede Szene im Detail: von Szenennummer & Take über Skizzen und Bilder bis zu Dialogen, Off-Texten, Musik, Kameraeinstellungen und Dauer. So halten Sie den gesamten Inhalt Ihres Films oder Videos strukturiert fest und ergänzen bei Bedarf weitere Hinweise zu Kamera, Audio und Schnitt.'
-        image: '/images/template_page_reisekostenabrechnung_02.png'
-        image_alt: ''
+        image: '/images/template_page_storyboard_02.png'
+        image_alt: 'Tabellarische Szenenübersicht mit Skizzen, Dialogen, Musik und Kameraeinstellungen im digitalen Storyboard'
       - headline: 'Rollen-Tabelle für Cast & Beschreibung'  
         text: 'In der Tabelle "Roles" erfassen Sie alle Rollen Ihres Projekts und dokumentieren wichtige Informationen wie Besetzung, Rollenbeschreibung und ausgewählte Kostüme. So sehen Marketing-Teams, Regisseure und Content Creator jederzeit, welche Person in welcher Szene auftritt und wie sie charakterlich sowie visuell angelegt ist.'
-        image: '/images/template_page_reisekostenabrechnung_03.png'
-        image_alt: ''
+        image: '/images/template_page_storyboard_03.png'
+        image_alt: 'Rollen- und Cast-Tabelle mit Besetzung, Rollenbeschreibung und Kostümen für Film- und Videoprojekte'
       - headline: 'Props-Tabelle für Requisiten-Management'
         text: 'In der Tabelle "Props" listen Sie alle Requisiten auf, die Sie für Ihr Projekt benötigen, und halten fest, ob sie gekauft, gemietet oder geliehen sind. Ergänzende Management-Hinweise sorgen dafür, dass am Set nichts fehlt und Sie die Verfügbarkeit Ihrer Requisiten jederzeit im Blick behalten.'
-        image: '/images/template_page_reisekostenabrechnung_04.png'
-        image_alt: ''
+        image: '/images/template_page_storyboard_04.png'
+        image_alt: 'Requisitenliste mit Status zu Kauf, Miete oder Leihgabe für professionelles Props-Management'
       - headline: 'Nahtloser Übergang in die kreative Phase'
         text: 'Wenn alle Szenen, Rollen und Requisiten in der Storyboard Vorlage geplant sind, starten Sie direkt in die kreative Phase: Sie briefen Ihr Team, stimmen Feinschliff ab und gehen mit einem klar strukturierten Storyboard in den Dreh.'
-        image: '/images/template_page_reisekostenabrechnung_05.png'
-        image_alt: ''
+        image: '/images/template_page_storyboard_05.png'
+        image_alt: 'Übersichtliche Storyboard Planung als Basis für Briefing, Feinschliff und Vorbereitung des Filmdrehs'
             
     - name: "content-6"
       weight: 12
@@ -116,8 +116,8 @@ sections:
       subtitle: 
       items:
       - text: 'Mit dem integrierten App Builder gestalten Sie aus der Storyboard Vorlage eine interaktive Storyboard-App für Marketing-Teams, Regisseure und Content Creator. Kombinieren Sie Formulare für neue Szenen, Storyboarding-Felder für Szenenbeschreibung, Skizzen und Dialoge mit Galerie-Ansichten, Kanban-Boards und Zeitablauf-Views – bis hin zu spezialisierten Apps für Filmprojekte, Social-Media-Kampagnen oder UX-Tests. Teilen Sie gezielte Ausschnitte als Frontend mit den jeweiligen Rollen und steuern Sie über Berechtigungen, wer Szenen anlegen, kommentieren oder im Freigabeprozess freigeben darf – so wird aus der Storyboard Vorlage ein zentrales, digitales Storyboard Template für Ihr visuelles Storytelling.'
-      image: '/images/template_page_reisekostenabrechnung_06.png'
-      image_alt: ''
+      image: '/images/template_page_storyboard_06.png'
+      image_alt: 'Interaktive Storyboard-App mit Formularen, Galerie-Ansichten, Kanban-Boards und Timeline-Views in SeaTable'
 
     - name: "banner-3"
       weight: 15
@@ -181,12 +181,12 @@ sections:
       - q: "Gibt es die Storyboard Vorlage kostenlos?"
         a: 'Sie können die Vorlage kostenlos in der SeaTable Cloud nutzen. Sie benötigen lediglich einen kostenlosen Account und können sofort mit dem Storyboarding für Film-, Video- oder Marketingprojekte beginnen – ohne starre PDF- oder Excel-Storyboards.'
       - q: "Kann ich das Storyboard Template für YouTube-Videos nutzen?"
-        a: ' Ja, das Storyboard Template eignet sich ideal für YouTube-Videos, Social-Media-Shorts, Imagefilme oder Erklärvideos. Planen Sie Szenenfolge, Bildideen, Dialoge, Musik und Kameraeinstellungen in Ihrer Storyboard Vorlage und passen Sie sie bei Bedarf flexibel für verschiedene Kanäle und Formate an.'
+        a: 'Ja, das Storyboard Template eignet sich ideal für YouTube-Videos, Social-Media-Shorts, Imagefilme oder Erklärvideos. Planen Sie Szenenfolge, Bildideen, Dialoge, Musik und Kameraeinstellungen in Ihrer Storyboard Vorlage und passen Sie sie bei Bedarf flexibel für verschiedene Kanäle und Formate an.'
       - q: "Für wen ist die Storyboard Vorlage besonders geeignet?"
         a: 'Diese Vorlage richtet sich an Marketing Specialist, Regisseure, Content Creator, UX-Designer und Teams, die Film- und Videoprojekte kollaborativ planen möchten. Dank digitaler Vorlage, Kollaboration und Freigabeprozess behalten alle Beteiligten den Überblick.'
       - q: "Wie unterscheidet sich SeaTable von einem klassischen Storyboard Template in PowerPoint?"
-        a: ' Statische PowerPoint- oder PDF-Storyboards sind bei Änderungen schnell veraltet und schwer zu versionieren. Mit SeaTable arbeiten Sie in einer interaktiven Vorlage mit Drag-and-Drop, Galerie-Ansichten, Kanban-Boards und Automatisierungen – ideal für wiederkehrende Kampagnen und komplexe Produktionen.'
-      - q: " Kann ich mein bestehendes Storyboard in SeaTable übernehmen?"
+        a: 'Statische PowerPoint- oder PDF-Storyboards sind bei Änderungen schnell veraltet und schwer zu versionieren. Mit SeaTable arbeiten Sie in einer interaktiven Vorlage mit Drag-and-Drop, Galerie-Ansichten, Kanban-Boards und Automatisierungen – ideal für wiederkehrende Kampagnen und komplexe Produktionen.'
+      - q: "Kann ich mein bestehendes Storyboard in SeaTable übernehmen?"
         a: 'Ja, Sie können bestehende Listen, Szenen-Tabellen oder Cast-Übersichten per CSV in Ihr Storyboard  importieren. Danach ergänzen Sie Bilder, Skizzen und Dialoge und profitieren von den Vorteilen der digitalen, kollaborativen Lösung.'
       - q: "Unterstützt die Vorlage den Freigabeprozess im Team?"
         a: 'Die Vorlage unterstützt Ihren Freigabeprozess mit Statusfeldern, Kommentaren und Rollenberechtigungen. So sehen Marketing-Teams, Regisseure und Stakeholder jederzeit, welche Szenen freigegeben sind und wo noch Feedback benötigt wird.'
