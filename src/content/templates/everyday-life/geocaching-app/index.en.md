@@ -55,7 +55,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Cache Management Made Easy'
       subtitle: 'SeaTable Geocaching App'
-      description: 'With the [AI no-code platform]({{< relref "/" >}}) SeaTable, you’ll have a geocaching management tool that offers far more than just lists or maps. After all, geocaching is all about fun, adventure, and **connecting with others**. With our app, you can easily manage and track your caches **with linked entries and interactive visualizations**.'
+      description: 'With the [AI no-code platform]({{< relref "/" >}}) SeaTable, you’ll have a geocaching management tool that offers far more than just lists or maps. After all, [geocaching]({{< relref "posts/geocaching" >}}) is all about fun, adventure, and **connecting with others**. With our app, you can easily manage and track your caches **with linked entries and interactive visualizations**.'
       items:
       - text: '**Always up to date**: Enter new entries in seconds and continue your hunt with cache information that updates in real time.'
       - text: '**Always at your fingertips**: You can open your geocaching app from anywhere to, for example, make new log entries or document caches.'
