@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Digitaler Kleiderschrank und Outfit-Planer von SeaTable'
       subtitle: 'Flexibler als andere Kleiderschrank-Apps'
-      description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen organisierten Kleiderschrank und **mehr Transparenz und Überblick im Alltag**.'
+      description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen [organisierten Kleiderschrank]({{< relref "posts/kleiderschrank-organisieren" >}}) und **mehr Transparenz und Überblick im Alltag**.'
       items:
       - text: '**Stets aktuell**: Neue Teile oder Ideen können jedrzeit eingetragen werden und sind immer aktuell.'
       - text: '**Zugriff von überall**: Mit der Cloud-Lösung haben Sie Ihren gesamten Kleiderschrank immer dabei.'

@@ -55,7 +55,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'La gestion du cache simplifiée'
       subtitle: 'Application SeaTable pour le géocaching'
-      description: Avec la [plateforme IA no-code]({{< relref "/" >}}) SeaTable, vous disposerez d'un outil de gestion du géocaching qui offre bien plus que de simples listes ou cartes. Après tout, le géocaching, c'est avant tout du plaisir, de l'aventure et **des rencontres**. Grâce à notre application, vous pouvez facilement gérer et suivre vos caches **grâce à des entrées reliées entre elles et des visualisations interactives**.
+      description: Avec la [plateforme IA no-code]({{< relref "/" >}}) SeaTable, vous disposerez d'un outil de gestion du géocaching qui offre bien plus que de simples listes ou cartes. Après tout, le [géocaching]({{< relref "posts/geocaching" >}}), c'est avant tout du plaisir, de l'aventure et **des rencontres**. Grâce à notre application, vous pouvez facilement gérer et suivre vos caches **grâce à des entrées reliées entre elles et des visualisations interactives**.
       items:
       - text: '**Toujours à jour** : Saisissez de nouvelles entrées et poursuivez votre chasse au trésor grâce à des informations sur les caches mises à jour en temps réel.'
       - text: '**Toujours à portée de main** : Vous pouvez ouvrir votre application de géocaching où que vous soyez, par exemple pour ajouter de nouvelles entrées dans le journal ou enregistrer des caches.'

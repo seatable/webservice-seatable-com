@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: Armario digital y planificador de outfits de SeaTable
       subtitle: Más flexible que otras aplicaciones de armario
-      description: Una simple lista en aplicaciones para tomar notas o en Excel es rápida de crear, pero también puede resultar confusa. Con la [solución de IA no-code SeaTable]({{< relref "/" >}}), puede crear su propia aplicación de armario personal para tener un armario organizado y **más transparencia y claridad en su vida cotidiana**.
+      description: Una simple lista en aplicaciones para tomar notas o en Excel es rápida de crear, pero también puede resultar confusa. Con la [solución de IA no-code SeaTable]({{< relref "/" >}}), puede crear su propia aplicación de armario personal para tener un [armario organizado]({{< relref "posts/kleiderschrank-organisieren" >}}) y **más transparencia y claridad en su vida cotidiana**.
       items:
       - text: "**Siempre actualizado**: se pueden añadir nuevas piezas o ideas en cualquier momento y siempre están actualizadas."
       - text: "**Acceso desde cualquier lugar**: con la solución en la nube, siempre tendrá todo su armario a mano."

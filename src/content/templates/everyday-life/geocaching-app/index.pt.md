@@ -55,7 +55,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Gestão de cache simplificada'
       subtitle: 'Aplicação SeaTable Geocaching'
-      description: 'Com a [plataforma de IA no-code]({{< relref "/" >}}) SeaTable, terá à sua disposição uma ferramenta de gestão de geocaching que oferece muito mais do que simples listas ou mapas. Afinal, o geocaching tem tudo a ver com diversão, aventura e **interação com outras pessoas**. Com a nossa aplicação, pode facilmente gerir e acompanhar os seus caches **através de entradas interligadas e visualizações interativas**.'
+      description: 'Com a [plataforma de IA no-code]({{< relref "/" >}}) SeaTable, terá à sua disposição uma ferramenta de gestão de geocaching que oferece muito mais do que simples listas ou mapas. Afinal, o [geocaching]({{< relref "posts/geocaching" >}}) tem tudo a ver com diversão, aventura e **interação com outras pessoas**. Com a nossa aplicação, pode facilmente gerir e acompanhar os seus caches **através de entradas interligadas e visualizações interativas**.'
       items:
       - text: '**Sempre atualizado**: Registe novas entradas em segundos e continue a sua busca com informações sobre os caches que são atualizadas em tempo real.'
       - text: '**Sempre ao seu alcance**: Pode abrir a sua aplicação de geocaching a partir de qualquer lugar para, por exemplo, criar novas entradas no registo ou documentar caches.'

@@ -55,7 +55,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Cache-Verwaltung leicht gemacht'
       subtitle: 'Geocaching App von SeaTable'
-      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie ein Tool zur Geocaching-Verwaltung, das Ihnen weit mehr bietet als Listen oder Karten. Schließlich geht es beim Geocaching um Spaß, Abenteuer und den **Austausch untereinander**. Mit unserer App verwalten und tracken Sie Ihre Caches mühelos **mit verlinkten Einträgen und interaktiven Darstellungen**.'
+      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie ein Tool zur Geocaching-Verwaltung, das Ihnen weit mehr bietet als Listen oder Karten. Schließlich geht es beim [Geocaching]({{< relref "posts/geocaching" >}}) um Spaß, Abenteuer und den **Austausch untereinander**. Mit unserer App verwalten und tracken Sie Ihre Caches mühelos **mit verlinkten Einträgen und interaktiven Darstellungen**.'
       items:
       - text: '**Jederzeit aktuell**: Erfassen Sie neue Einträge in Sekunden und jagen Sie gemeinsam mit in Echtzeit aktualisierten Cache-Informationen weiter.'
       - text: '**Immer griffbereit**: Sie können Ihre Geocaching App von überall aufrufen, um z. B. neue Logeinträge zu machen oder Caches zu dokumentieren.'
