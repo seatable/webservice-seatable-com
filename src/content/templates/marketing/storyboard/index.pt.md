@@ -91,7 +91,7 @@ sections:
       title: 'Como utilizar o modelo de storyboard'
       subtitle: 'Exemplo prático'
       items:
-      - headline: 'Registar centralmente os recibos e as despesas'
+      - headline: 'Storyboard para as cenas e as tomadas'
         text: 'Na tabela «Storyboard», planeie cada cena em pormenor: desde o número da cena e a tomada, passando por esboços e imagens, até aos diálogos, narração, música, ângulos de câmara e duração. Desta forma, regista todo o conteúdo do seu filme ou vídeo de forma estruturada e, se necessário, acrescenta mais indicações relativas à câmara, ao áudio e à edição.'
         image: '/images/template_page_storyboard_02.png'
         image_alt: 'Resumo das cenas em tabela, com esboços, diálogos, música e ângulos de câmara no storyboard digital'

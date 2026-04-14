@@ -91,7 +91,7 @@ sections:
       title: 'Cómo utilizar la plantilla de guion gráfico'
       subtitle: 'Ejemplo práctico'
       items:
-      - headline: 'Registrar de forma centralizada los comprobantes y los gastos'
+      - headline: 'Tabla de guion gráfico para escenas y tomas'
         text: 'En la tabla «Storyboard» planificará cada escena con todo detalle: desde el número de escena y la toma, pasando por bocetos e imágenes, hasta los diálogos, las voces en off, la música, los planos de cámara y la duración. De este modo, registrará de forma estructurada todo el contenido de su película o vídeo y, si es necesario, podrá añadir más indicaciones sobre la cámara, el audio y el montaje.'
         image: '/images/template_page_storyboard_02.png'
         image_alt: 'Resumen de escenas en formato de tabla con bocetos, diálogos, música y planos de cámara en el guion gráfico digital'
