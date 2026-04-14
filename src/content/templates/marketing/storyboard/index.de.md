@@ -90,7 +90,7 @@ sections:
       title: 'So nutzen Sie die Storyboard Vorlage'
       subtitle: 'Beispiel aus der Praxis'
       items:
-      - headline: 'Belege und Auslagen zentral erfassen'
+      - headline: 'Storyboard-Tabelle für Szenen & Takes'
         text: 'In der Tabelle "Storyboard" planen Sie jede Szene im Detail: von Szenennummer & Take über Skizzen und Bilder bis zu Dialogen, Off-Texten, Musik, Kameraeinstellungen und Dauer. So halten Sie den gesamten Inhalt Ihres Films oder Videos strukturiert fest und ergänzen bei Bedarf weitere Hinweise zu Kamera, Audio und Schnitt.'
         image: '/images/template_page_storyboard_02.png'
         image_alt: 'Tabellarische Szenenübersicht mit Skizzen, Dialogen, Musik und Kameraeinstellungen im digitalen Storyboard'

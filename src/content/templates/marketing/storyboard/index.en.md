@@ -90,7 +90,7 @@ sections:
       title: 'How to Use the Storyboard Template'
       subtitle: 'Real-world example'
       items:
-      - headline: 'Centralized tracking of receipts and expenses'
+      - headline: 'Storyboard Table for Scenes & Takes'
         text: 'In the "Storyboard" table, you plan each scene in detail: from scene numbers and takes to sketches and images, as well as dialogue, voice-over text, music, camera shots, and duration. This allows you to document the entire content of your film or video in a structured way and add additional notes on camera, audio, and editing as needed.'
         image: '/images/template_page_storyboard_02.png'
         image_alt: 'Tabular scene overview with sketches, dialogue, music, and camera angles in a digital storyboard'

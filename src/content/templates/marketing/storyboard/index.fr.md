@@ -91,7 +91,7 @@ sections:
       title: 'Comment utiliser le modèle de storyboard'
       subtitle: 'Exemple concret'
       items:
-      - headline: 'Saisir de manière centralisée les justificatifs et les dépenses'
+      - headline: 'Tableau de storyboard pour les scènes et les prises'
         text: "Dans le tableau « Storyboard », vous planifiez chaque scène en détail : du numéro de scène et du numéro de prise aux croquis et images, en passant par les dialogues, les voix off, la musique, les cadrages et la durée. Vous consignez ainsi de manière structurée l'intégralité du contenu de votre film ou de votre vidéo et ajoutez, si nécessaire, des indications supplémentaires concernant la caméra, le son et le montage."
         image: '/images/template_page_storyboard_02.png'
         image_alt: 'Tableau récapitulatif des scènes comprenant des croquis, des dialogues, la musique et les cadrages dans le storyboard numérique'
