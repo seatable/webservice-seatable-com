@@ -9,8 +9,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Angebot schreiben Vorlage: Digital & KI-gestützt'
-    description: 'Professionelles Angebot schreiben: Nutze unsere KI-gestützte Vorlage, um Daten zentral zu verwalten & PDFs automatisiert zu versenden.'
+    title: 'Angebot schreiben: digitale Vorlage & KI-gestützt'
+    description: 'Professionelles Angebot schreiben: Vorlage mit KI-Unterstützung, um Daten zentral zu verwalten & PDFs automatisiert zu versenden.'
 
 type: pages
 
@@ -18,7 +18,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Ihre professionelle Angebot schreiben Vorlage'
-      text: 'Schluss mit mühsam formatierten Word- oder Excel-Angeboten. Mit der Angebot schreiben Vorlage von SeaTable erstellen Sie professionelle Angebote, automatisieren Berechnungen und versenden PDFs direkt per E-Mail – individualisierbar, skalierbar und DSGVO-konform. Die Angebot schreiben Vorlage passt sich Ihren Prozessen an – von Einzelunternehmern bis zu Teams im B2B-Vertrieb.'
+      text: 'Schluss mit mühsam formatierten Word- oder Excel-Angeboten. Schreiben Sie Ihr Angebot mit unserer Vorlage und erstellen Sie professionelle Angebote, automatisieren Berechnungen und versenden PDFs direkt per E-Mail – individualisierbar, skalierbar und DSGVO-konform. Die Vorlage, mit der Sie Angebote schreiben können passt sich Ihren Prozessen an – von Einzelunternehmern bis zu Teams im B2B-Vertrieb.'
       classes:
           - bg-white
       template: '584c3121cf4a4ffd86e5'
@@ -29,7 +29,7 @@ sections:
     
     - name: "content-4"
       weight: 2
-      title: 'Angebote schreiben Vorlage für strukturierte Angebotsprozesse'
+      title: 'Angebote schreiben mit Vorlage für strukturierte Angebotsprozesse'
       subtitle:  Angebot online schreiben
       text: 
       items:
@@ -79,9 +79,9 @@ sections:
       description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Angebote schreiben Vorlage digitalisieren Sie Ihren Angebotsprozess und bilden auch komplexe Vertriebs-Workflows vom Erstkontakt bis zur Auftragsbestätigung ab.'
       items:
       - text: 'Schneller zum Angebot: Nutzen Sie vordefinierte Angebot Vorlagen, verknüpfte Produkt- und Kundendaten sowie automatische Berechnungen für Rabatte und Steuern – so schreiben Sie Angebote in Minuten statt Stunden.'
-      - text: 'Alles an einem Ort: Die Angebot schreiben Vorlage bündelt alle relevanten Informationen an einem Ort, sodass Vertrieb, Geschäftsführung und Backoffice immer mit denselben, aktuellen Daten arbeiten.'
-      - text: 'Rechtssicher dokumentiert: Hinterlegen Sie AGB, Zahlungsbedingungen und Gültigkeitsfristen direkt in Ihrer Angebote schreiben Vorlage und sorgen Sie für konsistente Inhalte in jedem Angebot – auch spezielle Anforderungen wie Kleinunternehmer-Regelungen lassen sich abbilden.'
-      - text: 'Skalierbar: Die Angebot Vorlagen wachsen mit Ihrem Vertriebsteam – von Einzelunternehmern bis zu größeren Sales-Organisationen mit mehreren Pipelines, Regionen und Sprachen.'
+      - text: 'Alles an einem Ort: Die Angebotsvorlage bündelt alle relevanten Informationen an einem Ort, sodass Vertrieb, Geschäftsführung und Backoffice immer mit denselben, aktuellen Daten arbeiten.'
+      - text: 'Rechtssicher dokumentiert: Hinterlegen Sie AGB, Zahlungsbedingungen und Gültigkeitsfristen direkt in Ihrer Angebotsvorlage und sorgen Sie für konsistente Inhalte in jedem Angebot – auch spezielle Anforderungen wie Kleinunternehmer-Regelungen lassen sich abbilden.'
+      - text: 'Skalierbar: Die Vorlage für Angebote wächst mit Ihrem Vertriebsteam – von Einzelunternehmern bis zu größeren Sales-Organisationen mit mehreren Pipelines, Regionen und Sprachen.'
       - text: 'Automatisiert & integriert: Verbinden Sie Ihre Angebotsvorlage per n8n oder Zapier mit CRM, E-Mail-Marketing oder Buchhaltung und vermeiden Sie doppelte Datenerfassung.'
       image_position: [left]
       image: '/images/template_page_angebot_01.png'
@@ -89,7 +89,7 @@ sections:
 
     - name: "content-25"
       weight: 10
-      title: 'So funktioniert die Angebote schreiben Vorlage'
+      title: 'So funktioniert die Vorlage für Angebote'
       subtitle: 'Angebote erstellen und nachverfolgen'
       items:
       - headline: 'Erfassen Sie alle Angebotsdaten'
@@ -125,14 +125,14 @@ sections:
       weight: 15
       title: 'Schreiben Sie professionelle Angebote in Minuten – mit SeaTable'
       buttons:
-        - label: Jetzt die Angebot schreiben Vorlage nutzen
+        - label: Jetzt die Angebotsvorlage nutzen
           link: pages/registration
      
     - name: "content-9"
       weight: 16
       title: 'KI-gestützte Angebotserstellung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Angebotserstellung und -verwaltung beschleunigen. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und gewinnen Sie mehr Zeit für Verkaufsgespräche – unabhängig davon, ob Sie eine Angebotsvorlage Kleinunternehmer oder professionelle Angebot Vorlagen für komplexe B2B-Deals nutzen. Die Angebot schreiben Vorlage lässt sich mit KI-Workflows kombinieren, um aus Anfragen automatisch qualifizierte Angebote zu erzeugen.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Angebotserstellung und -verwaltung beschleunigen. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und gewinnen Sie mehr Zeit für Verkaufsgespräche – unabhängig davon, ob Sie eine Angebotsvorlage Kleinunternehmer oder professionelle Angebot Vorlagen für komplexe B2B-Deals nutzen. Die Angebotsvorlage lässt sich mit KI-Workflows kombinieren, um aus Anfragen automatisch qualifizierte Angebote zu erzeugen.'
       items:
       - headline: 'Automatische Textbausteine mit Classify'
         text: 'Lassen Sie Angebotsanfragen automatisch klassifizieren. Die KI-Funktion „Classify“ erkennt Produktkategorien, Branchen oder Regionen und ergänzt passende Textbausteine sowie Zuständigkeiten.'
@@ -174,12 +174,12 @@ sections:
       title: 'FAQs zur Angebot schreiben Vorlage von SeaTable'
       subtitle: 
       items:
-      - q: "Kann ich die Angebote schreiben Vorlage von SeaTable kostenlos nutzen?"
-        a: 'Ja, Sie können die Angebote schreiben Vorlage kostenlos nutzen. Erstellen Sie einfach einen kostenfreien SeaTable-Account und fügen Sie die Angebotsvorlage zu Ihrer Base hinzu, um direkt Angebote online zu erstellen – auch als Angebotsvorlage Kleinunternehmer ohne Umsatzsteuer-Ausweis. Die Angebot schreiben Vorlage ist damit ein idealer Einstieg in einen digitalen Angebotsprozess.'
-      - q: "Ist SeaTable eine Alternative zu der Angebot Vorlage in Excel?"
-        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) speziell für kollaborative Angebotsprozesse. Im Gegensatz zu einer Angebot Vorlage Excel können mehrere Personen gleichzeitig arbeiten, Kommentare hinterlassen und KI-Funktionen nutzen.'
-      - q: "Kann ich meine bestehende Angebot Vorlage Excel in SeaTable importieren?"
-        a: 'Ja, Sie können Ihre bestehende Angebot Vorlage Excel als .xlsx, .xls oder CSV importieren und die Struktur anschließend anpassen. Danach profitieren Sie von Verknüpfungen, Formeln, Automatisierungen und PDF-Erstellung direkt aus SeaTable. So migrieren Sie Ihre bestehende Angebot schreiben Vorlage Schritt für Schritt in ein modernes, kollaboratives System.​'
+      - q: "Kann ich die Angebotsvorlage von SeaTable kostenlos nutzen?"
+        a: 'Ja, Sie können die Angebotsvorlage kostenlos nutzen. Erstellen Sie einfach einen kostenfreien SeaTable-Account und fügen Sie die Angebotsvorlage zu Ihrer Base hinzu, um direkt Angebote online zu schreiben und per Klick ein PDF erstellen – auch als Angebotsvorlage für Kleinunternehmer ohne Umsatzsteuer-Ausweis. Mit der Vorlage erstellen Sie in kürzester Zeit ein professionelles Angebot und bekommen dadurch einen idealen Einstieg in einen digitalen Angebotsprozess.'
+      - q: "Ist SeaTable eine Alternative zu der Angebotsvorlage in Excel?"
+        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) speziell für kollaborative Angebotsprozesse. Im Gegensatz zu einer Angebotsvorlage Excel können mehrere Personen gleichzeitig arbeiten, Kommentare hinterlassen und KI-Funktionen nutzen.'
+      - q: "Kann ich meine bestehende Angebotvorlage aus Excel in SeaTable importieren?"
+        a: 'Ja, Sie können Ihre bestehende Angebotsvorlage die Sie in Excel erstellt haben als .xlsx, .xls oder CSV importieren und die Struktur anschließend anpassen. Danach profitieren Sie von Verknüpfungen, Formeln, Automatisierungen und PDF-Erstellung direkt aus SeaTable. So migrieren Sie Ihre bestehende Angebot schreiben Vorlage Schritt für Schritt in ein modernes, kollaboratives System.​'
       - q: "Kann ich Angebote direkt als PDF speichern und per E-Mail versenden?"
         a: 'Ja, mit dem Page-Design-Plugin erzeugen Sie auf Knopfdruck ein Angebots-PDF und können es über eine Schaltfläche direkt per E-Mail an den Kunden senden, sobald ein E-Mail-Konto in SeaTable hinterlegt ist.'
       - q: "Kann ich Auftragsbestätigung und Rechnung aus dem Angebot heraus erstellen?"
