@@ -66,7 +66,7 @@ sections:
           - text: "**AI-powered automation** for streamlined processes"
           - text: "Intuitive **App Builder** for front-end use"
           - text: "Can be used as a **cloud solution or on-premises**"
-      image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image: /images/landing-page-it-01.png
       image_alt: 'SeaTable interface for customized IT service management with tickets and assets'
 
     - name: content-25
@@ -77,19 +77,19 @@ sections:
       items:
           - headline: Integrated AI features
             text: With SeaTable's integrated [AI features]({{< relref "posts/ai-powered-automations" >}}), you can create smart workflows directly in your ITSM solution. Automatically classify incoming tickets, prioritize incidents using AI, or generate suggested responses for recurring requests. SeaTable significantly reduces the workload on your IT team and speeds up the entire service processing.
-            image: /images/landing_page_ki-automatisierung_04.png
+            image: /images/landing-page-it-02.png
             image_alt: 'SeaTable AI column for automatic data processing'
           - headline: Calculations and formula editor
             text: "Detailed evaluations and analyses with intuitive formula editor and statistics module: Evaluate incident volume, resolution times, or SLA compliance at a glance without the need for additional BI tools. This allows you to identify bottlenecks in IT operations at an early stage and make data-driven decisions for continuous service improvement."
-            image: /images/Software-Development_Formula.png
+            image: /images/landing-page-it-03.png
             image_alt: 'SeaTable formula editor and statistics for IT evaluations'
           - headline: Audits and audit compliance
             text: With integrated access and change logs, you can track all changes in real time and restore previous versions. This means your ITSM is auditable at all times. Granular access rights and the option to lock entries also ensure that your database remains compliant and audit-proof.
-            image: /images/Software-Development_Logs.png
+            image: /images/landing-page-it-04.png
             image_alt: 'SeaTable change logs for versioning and audit trails in ITSM'
           - headline: IT Service Management App
             text: With SeaTable's [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create web-based apps without any programming knowledge. In an ITSM app like this, you can control who in your IT team can see which tickets, incidents, or service requests and how they are clearly visualized.
-            image: /images/Software-Development_Universal-App.png
+            image: /images/landing-page-it-05.png
             image_alt: 'SeaTable project management app for web-based IT service management workflows'
 
     - name: 'content-10'

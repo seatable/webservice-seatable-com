@@ -71,7 +71,7 @@ sections:
           - text: '**Escalável**: sem funcionalidades desnecessárias, o SeaTable cresce de acordo com as suas necessidades.'
           - text: '**Intuitivo**: implementação simples sem suporte de TI, graças à no-code'
           - text: '**Implementação**: como solução em nuvem ou local' 
-      image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image: /images/landing-page-hr-01.png
       image_alt: 'Interface SeaTable para planeamento e análise de processos automatizados de RH'
 
     - name: banner-2
@@ -109,27 +109,27 @@ sections:
       items:
       - headline: "Gestão de candidatos baseada em IA"
         text: Uma ferramenta poderosa que automatiza todo o [processo de recrutamento]({{< relref "posts/20250317-recruiting" >}}). Utilize a [nossa IA integrada]({{< relref "pages/ai-automations" >}}) para pré-selecionar candidaturas, coordenar automaticamente as entrevistas e, assim, **melhorar significativamente a experiência do candidato**.
-        image: /images/Landing-Page_HR_Bewerbermanagement.png
+        image: /images/landing-page-hr-02.png
         image_alt: 'Visualização do SeaTable para gestão automatizada de candidatos por IA no recrutamento'
 
       - headline: "Gerenciar arquivos pessoais digitais"
         text: Com o arquivo digital de pessoal da SeaTable, pode digitalizar e armazenar com segurança os seus arquivos de pessoal. Graças à estrutura clara do arquivo eletrónico de pessoal e ao cumprimento dos prazos de retenção, estará sempre em conformidade com a legislação.
-        image: /images/Landing-Page_HR_Personalakte.png
+        image: /images/landing-page-hr-03.png
         image_alt: 'Interface SeaTable para gestão digital de arquivos pessoais em conformidade com o RGPD'
 
       - headline: "Registo simples do tempo de trabalho"
         text: Registe [horários de trabalho]({{< relref "templates/human-resources/recording-working-time" >}}), [pedidos de férias]({{< relref "templates/human-resources/holiday-request-management" >}}) e atestados médicos de forma centralizada através de formulários web – com **painéis de administração, visualizações personalizadas e cálculo automático de horas extras/a menos**. Com o SeaTable, reduz o esforço e garante total conformidade legal.
-        image: /images/Landing-Page_HR_Zeiterfassung.png
+        image: /images/landing-page-hr-04.png
         image_alt: 'Visualização do registo de tempo do SeaTable HR com horários de trabalho e ausências'
 
       - headline: "Elaboração de organogramas"
         text: Criar organogramas de forma simples – com o SeaTable, mantém sempre uma visão geral da estrutura da sua empresa e pode apresentar organogramas de forma rápida e clara.
-        image: /images/Landing-Page_HR_Organigramm.png
+        image: /images/landing-page-hr-05.png
         image_alt: 'Visualização do organograma do SeaTable para representar a estrutura da empresa'
 
       - headline: "Otimize os fluxos de trabalho com IA"
         text: Desde o planeamento de férias para funcionários, passando pelo [reembolso de despesas de viagem]({{< relref "posts/reisekostenabrechnung" >}}), até processos complexos de integração e desligamento de funcionários, o SeaTable oferece todas as ferramentas necessárias para aumentar a eficiência do seu trabalho operacional de recursos humanos.
-        image: /images/Landing-Page_HR_Prozesse-optimieren.png
+        image: /images/landing-page-hr-06.png
         image_alt: 'SeaTable HR Dashboard para otimização e automatização de processos de RH'
 
     - name: 'content-13'

@@ -66,7 +66,7 @@ sections:
           - text: "**Automatisations assistées par l'IA** pour des processus rationalisés"
           - text: "**Créateur d'applications intuitif** pour une utilisation frontale"
           - text: "Disponible en tant que solution **cloud ou sur site**"
-      image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image: /images/landing-page-it-01.png
       image_alt: 'Interface SeaTable pour une gestion personnalisée des services informatiques avec tickets et actifs'
 
     - name: content-25
@@ -77,19 +77,19 @@ sections:
       items:
           - headline: Fonctions d'IA intégrées
             text: Grâce aux [fonctions IA]({{< relref "posts/ai-powered-automations" >}}) intégrées à SeaTable, vous pouvez créer des flux de travail intelligents directement dans votre solution ITSM. Classez automatiquement les tickets entrants, hiérarchisez les incidents à l'aide de l'IA ou générez des suggestions de réponses pour les demandes récurrentes. SeaTable allège ainsi considérablement la charge de travail de votre équipe informatique et accélère le traitement global des services.
-            image: /images/landing_page_ki-automatisierung_04.png
+            image: /images/landing-page-it-02.png
             image_alt: 'Colonne IA SeaTable pour le traitement automatique des données'
           - headline: Calculs et éditeur de formules
             text: "Évaluations et analyses détaillées avec un éditeur de formules intuitif et un module statistique : évaluez le volume des incidents, les délais de résolution ou le respect des SLA en un coup d'œil, sans avoir besoin d'outils BI supplémentaires. Vous pouvez ainsi identifier rapidement les goulots d'étranglement dans les opérations informatiques et prendre des décisions fondées sur des données pour améliorer continuellement le service."
-            image: /images/Software-Development_Formula.png
+            image: /images/landing-page-it-03.png
             image_alt: 'Éditeur de formules SeaTable et statistiques pour les analyses informatiques'
           - headline: Audits et sécurité en matière de révision
             text: Grâce aux journaux d'accès et de modification intégrés, vous pouvez suivre toutes les modifications en temps réel et restaurer les versions précédentes. Votre ITSM est ainsi vérifiable à tout moment. Grâce à des droits d'accès granulaires et à la possibilité de verrouiller les entrées, votre base de données reste également conforme et sécurisée pour les audits.
-            image: /images/Software-Development_Logs.png
+            image: /images/landing-page-it-04.png
             image_alt: "Journaux des modifications SeaTable pour la gestion des versions et les pistes d'audit dans l'ITSM"
           - headline: Application de gestion des services informatiques
             text: Avec le [No-Code-App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) de SeaTable, vous pouvez créer des applications web sans aucune connaissance en programmation. Dans une telle application ITSM, vous pouvez contrôler de manière ciblée qui, au sein de votre équipe informatique, peut voir quels tickets, incidents ou demandes de service, et comment ceux-ci sont clairement visualisés.
-            image: /images/Software-Development_Universal-App.png
+            image: /images/landing-page-it-05.png
             image_alt: 'Application de gestion de projet SeaTable pour les flux de travail de gestion des services informatiques basés sur le Web'
 
     - name: 'content-10'

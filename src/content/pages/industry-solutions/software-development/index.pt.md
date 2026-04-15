@@ -66,7 +66,7 @@ sections:
           - text: "**Automações assistidas por IA** para processos eficientes"
           - text: "**Construtor de aplicações intuitivo** para utilização front-end"
           - text: "Utilizável como **solução em nuvem ou localmente**"
-      image: /images/Landing-Page_Software-Entwicklung_ITSM-individuell-1.png
+      image: /images/landing-page-it-01.png
       image_alt: 'Interface SeaTable para gestão individualizada de serviços de TI com tickets e ativos'
 
     - name: content-25
@@ -77,19 +77,19 @@ sections:
       items:
           - headline: Funcionalidades de IA integradas
             text: Com as [funcionalidades de IA integradas]({{< relref "posts/ai-powered-automations" >}}), pode criar fluxos de trabalho inteligentes diretamente na sua solução ITSM. Classifique automaticamente os tickets recebidos, priorize incidentes por meio da IA ou gere sugestões de respostas para consultas recorrentes. Desta forma, o SeaTable alivia significativamente a carga de trabalho da sua equipa de TI e acelera todo o processamento do serviço.
-            image: /images/landing_page_ki-automatisierung_04.png
+            image: /images/landing-page-it-02.png
             image_alt: 'Coluna SeaTable AI para processamento automático de dados'
           - headline: Cálculos e editor de fórmulas
             text: "Avaliações e análises detalhadas com editor de fórmulas intuitivo e módulo de estatísticas: avalie o volume de incidentes, os tempos de resolução ou o cumprimento do SLA num relance, sem precisar de ferramentas de BI adicionais. Assim, é possível identificar antecipadamente os pontos críticos nas operações de TI e tomar decisões baseadas em dados para a melhoria contínua do serviço."
-            image: /images/Software-Development_Formula.png
+            image: /images/landing-page-it-03.png
             image_alt: 'Editor de fórmulas SeaTable e estatísticas para análises de TI'
           - headline: Auditorias e segurança de revisão
             text: Com os registos integrados de acesso e alterações, pode acompanhar todas as alterações em tempo real e restaurar versões anteriores. Desta forma, o seu ITSM está sempre pronto para auditoria. Graças aos direitos de acesso granulares e à possibilidade de bloquear entradas, a sua base de dados permanece em conformidade e pronta para revisão.
-            image: /images/Software-Development_Logs.png
+            image: /images/landing-page-it-03.png
             image_alt: 'Registos de alterações do SeaTable para controlo de versões e trilhos de auditoria no ITSM'
           - headline: Aplicação de Gestão de Serviços de TI
             text: Com o [No-Code-App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) da SeaTable, é possível criar aplicações baseadas na web sem nenhum conhecimento de programação. Numa aplicação ITSM deste tipo, pode controlar especificamente quem na sua equipa de TI pode ver quais tickets, incidentes ou pedidos de serviço e como estes são visualizados de forma clara.
-            image: /images/Software-Development_Universal-App.png
+            image: /images/landing-page-it-04.png
             image_alt: 'Aplicação de gestão de projetos SeaTable para fluxos de trabalho de gestão de serviços de TI baseados na web'
 
     - name: 'content-10'
