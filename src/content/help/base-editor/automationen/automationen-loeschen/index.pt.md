@@ -14,8 +14,6 @@ seo:
 weight: 10
 ---
 
-{{< required-version "Empresa" >}}
-
 É possível **eliminar regras de automatização** que já tenham sido criadas em qualquer altura. É favor notar os efeitos que a eliminação tem sobre as várias **acções automatizadas**.
 
 ## Para eliminar uma automatização

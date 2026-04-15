@@ -12,8 +12,6 @@ seo:
 weight: 2
 ---
 
-{{< required-version "Enterprise" >}}
-
 Mithilfe von Automationen können Sie **Prozesse automatisieren**. So sparen Sie nicht nur Zeit, sondern minimieren auch die Anzahl menschlicher Fehler. Den ersten Schritt hin zu automatisierten Workflows stellt dabei das Anlegen einer Automation dar.
 
 ## Eine Automatisierungsregel anlegen

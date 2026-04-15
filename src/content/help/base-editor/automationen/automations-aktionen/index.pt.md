@@ -14,13 +14,11 @@ seo:
 weight: 6
 ---
 
-{{< required-version "Empresa" >}}
-
-As **acções automatizadas** representam uma das duas componentes essenciais das automatizações. As acções são desencadeadas por **eventos de desencadeamento** definidos. Dependendo do [accionador]({{< relref "help/base-editor/automationen/automations-trigger" >}}), a SeaTable pode realizar diferentes acções de automatização. Este artigo fornece uma **visão geral** dos diferentes tipos de acções automatizadas.
+As **acções automatizadas** representam uma das duas componentes essenciais das automatizações. As acções são desencadeadas por **eventos de desencadeamento** definidos. Dependendo do [accionador]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable pode realizar diferentes acções de automatização. Este artigo fornece uma **visão geral** dos diferentes tipos de acções automatizadas.
 
 ## Acções de automatização disponíveis
 
-A última versão do SeaTable oferece um total de 13 acções de automatização diferentes à sua escolha:
+A última versão do SeaTable oferece um total de 15 acções de automatização diferentes à sua escolha:
 
 - Enviar notificação
 - Enviar notificação de aplicação
@@ -32,9 +30,11 @@ A última versão do SeaTable oferece um total de 13 acções de automatização
 - Adicionar uma nova entrada a outra tabela
 - Executar o script Python
 - Chamar a IA
+- Gerir eventos no Google Calendar
 - Executar processamento de dados
 - Converter página em PDF
 - Gerar PDF a partir do documento e enviar
+- Arquivar
 
 ## Adicionar, duplicar, mover e eliminar acções de automatização
 
@@ -186,6 +186,23 @@ A ação de automatização "Chamar IA" está atualmente disponível para os seg
 - Quando uma linha é adicionada
 - Numa hora programada
 
+## Ação de automatização: Gerir eventos no Google Calendar
+
+Se selecionar "Gerir eventos no Google Calendar" como uma ação automatizada, um compromisso do SeaTable é criado ou atualizado num calendário do Google quando o acionador é acionado. Existem alguns requisitos que devem ser cumpridos para que esta ação funcione sem problemas:
+- Primeiro, tem de [sincronizar a sua conta do Google Calendar com SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
+- Devem existir duas [colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) numa tabela, que definem o **início** e o **fim** das datas.
+- Também precisa de uma [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) na qual o Google pode escrever o **identificador do evento** para que os compromissos possam ser sincronizados.
+
+![requisitos para gerir eventos no Calendário Google](images/manage-events-in-google-calendar-part-1.png)
+
+Também pode efetuar outras definições. Adicione um **título**, uma **descrição**, uma **localização** e **participantes** ao evento. Para o fazer, escreva os detalhes nos **campos de texto** ou trabalhe com **referências de coluna entre parênteses rectos** para inserir valores específicos da tabela. Ao ativar os **controladores**, pode decidir se pretende enviar notificações, se se trata de uma videoconferência e se os convidados podem editar o compromisso, ver a lista de convidados e convidar outros convidados.
+
+![mais definições para eventos no Google Calendar](images/manage-events-in-google-calendar-part-2.png)
+
+A ação de automatização "Gerir eventos no Google Calendar" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Quando uma linha é alterada
+- Quando uma linha é adicionada
+
 ## Ação de automatização: Executar processamento de dados
 
 Se selecionar a execução de processamento de dados como uma ação automatizada, o acionador inicia uma [operação de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) predefinida na tabela. Pode configurar a ação exacta a ser executada nas **definições**. Dependendo do tipo de operação, podem ser necessárias **certas colunas de entrada e saída**.
@@ -228,3 +245,13 @@ Se pretender enviar o documento gerado, active o seletor "Enviar para e-mail". P
 
 A ação de automatização "Gerar PDF a partir do documento e enviar" está atualmente disponível com o seguinte **acionador de automatização**:
 - Numa hora programada
+
+## Ação de automatização: Arquivar
+
+Pode utilizar a ação de arquivamento para [mover automaticamente as linhas para a memória de big data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). A função de big data deve, naturalmente, ser activada na respectiva base. Uma vez que já definiu a **vista** e quaisquer condições de filtragem para as linhas a arquivar nas definições do acionador, não pode efetuar quaisquer definições para a própria ação.
+
+![Arquivar linhas através da automatização](images/automated-action-archive.png)
+
+A ação de automatização "Arquivar" está atualmente disponível para os seguintes **accionadores de automatização**:
+- Numa hora programada
+- Numa hora programada para entradas que preencham determinadas condições

@@ -14,8 +14,6 @@ seo:
 weight: 10
 ---
 
-{{< required-version "Entreprise" >}}
-
 Vous pouvez **supprimer** à tout moment les **règles d'automatisation** déjà créées. Attention aux conséquences de la suppression sur les différentes **actions automatisées**.
 
 ## Comment supprimer une automatisation

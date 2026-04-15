@@ -12,8 +12,6 @@ seo:
 weight: 9
 ---
 
-{{< required-version "Enterprise" >}}
-
 Wenn Sie Automationen für einen bestimmten Zeitraum nicht mehr ausführen wollen, können Sie sie **pausieren**, anstatt sie zu [löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Dies bringt den Vorteil mit sich, dass Sie pausierte Automationen einfach **wieder starten** können, wohingegen Sie gelöschte Automationen nochmals gänzlich neu anlegen müssen.
 
 ## Automation vorübergehend anhalten

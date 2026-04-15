@@ -14,8 +14,6 @@ seo:
 weight: 5
 ---
 
-{{< required-version "Enterprise" >}}
-
 **Trigger events** are one of the two essential components of automations. The events trigger different types of [actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), which you can define individually for each automation. This article provides you with an **overview** of the different types of triggers.
 
 ## Available automation triggers

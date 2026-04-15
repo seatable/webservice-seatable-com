@@ -14,8 +14,6 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Enterprise" >}}
-
 To check the **correct execution of an automation**, you have the possibility to view the **execution log**. In this log, SeaTable records the following information for each automation run: execution time, execution condition, status and warnings, if any.
 
 {{< warning  headline="Important note"  text="Each execution of an automation is called an **automation run**." />}}

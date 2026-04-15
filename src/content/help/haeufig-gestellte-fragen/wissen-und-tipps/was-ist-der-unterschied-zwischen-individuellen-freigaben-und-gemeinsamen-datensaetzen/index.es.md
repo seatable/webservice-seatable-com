@@ -1,5 +1,5 @@
 ---
-title: '¿Cuál es la diferencia entre acciones individuales y registros compartidos? - Tabla del mar'
+title: '¿Cuál es la diferencia entre acciones individuales y registros compartidos?'
 date: 2023-03-21
 lastmod: '2023-03-21'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Récupérer des lignes dans le stockage de données volumineuses'
+title: 'Récupérer des lignes dans le stockage de big data'
 date: 2023-05-11
 lastmod: '2024-05-13'
 categories:
@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Pour récupérer des lignes de la mémoire Big Data, vous avez besoin d'une [vue Big Data]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) souhaitées et les déplacer à nouveau vers une **vue normale**.
+Pour récupérer des lignes de la mémoire Big Data, vous avez besoin d'une [vue Big Data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). Dans cette vue, vous pouvez [sélectionner les lignes]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) et les déplacer à nouveau vers une vue **normale**.
 
 1. Ouvrez une **vue Big Data**.
 2. Faites un **clic droit sur une ligne archivée**.

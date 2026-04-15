@@ -14,8 +14,6 @@ seo:
 weight: 2
 ---
 
-{{< required-version "Enterprise" >}}
-
 With the help of automations, you can **automate processes**. This not only saves you time, but also minimizes the number of human errors. The first step towards automated workflows is to create an automation.
 
 ## Create an automation rule

@@ -14,8 +14,6 @@ seo:
 weight: 4
 ---
 
-{{< required-version "Entreprise" >}}
-
 L'automatisation est une fonctionnalité puissante de SeaTable qui vous permet d'automatiser les processus. L'automatisation des étapes de travail vous permet non seulement de gagner du temps, mais aussi de minimiser les erreurs humaines lorsque vous travaillez avec des données.
 
 ## Informations de base

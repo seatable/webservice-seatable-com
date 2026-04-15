@@ -14,8 +14,6 @@ seo:
 weight: 5
 ---
 
-{{< required-version "Empresa" >}}
-
 **Os eventos de acionamento** são um dos dois componentes essenciais das automatizações. Os eventos desencadeiam diferentes tipos de [acções]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), que pode definir individualmente para cada automatização. Este artigo fornece-lhe uma **visão geral** dos diferentes tipos de acionadores.
 
 ## Acionadores de automação disponíveis

@@ -14,8 +14,6 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Empresa" >}}
-
 Para comprobar la **correcta ejecución de una automatización**, tiene la opción de ver el **registro de ejecución**. SeaTable registra la siguiente información para cada ejecución de automatización: tiempo de ejecución, condición de ejecución, estado y cualquier advertencia.
 
 {{< warning  headline="Nota importante"  text="Cada ejecución de una automatización se denomina **ejecución de automatización**." />}}

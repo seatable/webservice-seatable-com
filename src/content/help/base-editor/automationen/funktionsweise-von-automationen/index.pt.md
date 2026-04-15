@@ -14,8 +14,6 @@ seo:
 weight: 4
 ---
 
-{{< required-version "Empresa" >}}
-
 As automatizações são uma característica poderosa do SeaTable que lhe permite automatizar processos. Ao automatizar passos, não só poupa tempo, como também minimiza o erro humano ao trabalhar com dados.
 
 ## Informação básica

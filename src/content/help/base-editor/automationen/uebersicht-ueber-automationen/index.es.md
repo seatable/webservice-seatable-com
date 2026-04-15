@@ -8,14 +8,14 @@ author: 'kgr'
 url: '/es/ayuda/automatizaciones-guia-seatable'
 aliases:
     - '/es/ayuda/uebersicht-ueber-automationen'
+    - '/es/ayuda/automatizaciones-no-disponibles-seatable'
+    - '/es/ayuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 seo:
     title: 'Automatizaciones en SeaTable: guía y casos de uso'
     description: 'Descubra cómo crear y gestionar automatizaciones en SeaTable: disparadores, acciones, historial y ejemplos prácticos para optimizar operaciones.'
 star: true
 weight: 1
 ---
-
-{{< required-version "Empresa" >}}
 
 Las automatizaciones son una función útil de SeaTable que le ayuda a **automatizar los procesos de trabajo**. Con la ayuda de las automatizaciones, no sólo puede **ahorrar tiempo**, sino también **minimizar** el número de **errores humanos** en el mantenimiento de sus datos, ya que los pasos del proceso completados automáticamente ya no tienen que ser realizados manualmente por un usuario.
 
@@ -114,9 +114,3 @@ Descubra [aquí]({{< relref "help/base-editor/automationen/beispiel-e-mail-versa
 Con la ayuda de las automatizaciones, ya no tendrá que vincular manualmente las entradas de sus tablas, sino que podrá hacer que estos pasos se realicen automáticamente. Esto es útil si necesita determinados datos en varias tablas.
 
 Aprenda [aquí]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) cómo vincular entradas mediante automatización.
-
-## ¿Por qué no encuentro las automatizaciones en mi base?
-
-¿No encuentra la función de automatización en sus bases? Puede que tenga algo que ver con tu suscripción a SeaTable.
-
-Descubra [aquí]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}) por qué puede ser así.

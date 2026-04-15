@@ -14,8 +14,6 @@ seo:
 weight: 4
 ---
 
-{{< required-version "Empresa" >}}
-
 Las automatizaciones son una potente función de SeaTable que le permite automatizar procesos. Al automatizar los pasos, no sólo se ahorra tiempo, sino que también se minimizan los errores humanos al trabajar con datos.
 
 ## Información básica

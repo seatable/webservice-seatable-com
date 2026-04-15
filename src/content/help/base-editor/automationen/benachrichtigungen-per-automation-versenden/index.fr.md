@@ -14,8 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Entreprise" >}}
-
 Si vous disposez d'un abonnement Enterprise, vous pouvez également envoyer des notifications par automatisation à des utilisateurs sélectionnés. Pour cela, il suffit de définir une règle d'automatisation correspondante pour une vue de tableau quelconque.
 
 ## Envoyer des notifications par automatisation

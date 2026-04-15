@@ -14,8 +14,6 @@ seo:
 weight: 9
 ---
 
-{{< required-version "Empresa" >}}
-
 Se já não quiser executar as automatizações durante um determinado período de tempo, pode **suspendê-las** em vez de as [apagar]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Isto tem a vantagem de poder simplesmente **reactivar** as automatizações pausadas, enquanto que tem de criar automatizações apagadas do zero.
 
 ## Parar temporariamente as automatizações

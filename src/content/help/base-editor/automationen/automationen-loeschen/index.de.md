@@ -12,8 +12,6 @@ seo:
 weight: 10
 ---
 
-{{< required-version "Enterprise" >}}
-
 Bereits angelegte **Automatisierungsregeln** können Sie jederzeit wieder **löschen**. Beachten Sie dabei, welche Auswirkungen die Löschung auf die verschiedenen automatisierten Aktionen hat.
 
 ## So löschen Sie eine Automation

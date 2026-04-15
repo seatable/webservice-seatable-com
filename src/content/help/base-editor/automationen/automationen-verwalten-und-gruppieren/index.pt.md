@@ -14,8 +14,6 @@ seo:
 weight: 3
 ---
 
-{{< required-version "Empresa" >}}
-
 Pode gerir, agrupar e mover as regras de automatização que criou, para que possa fazer ajustes às automatizações existentes em qualquer altura.
 
 ## Gerir regras de automatização
@@ -27,13 +25,10 @@ Pode gerir, agrupar e mover as regras de automatização que criou, para que pos
 
 ![Gerir regras de automatização](images/manage-automation-rules.jpg)
 
-Depois de ter selecionado uma regra de automatização, pode também abrir o mesmo menu clicando no título na área central.
-
-![Opções de gestão das regras de automatização](images/automation-managing-options.jpg)
-
 Para cada regra de automatização, tem à sua disposição as seguintes opções de gestão:
 
 - **Renomear regra**
+- **Duplicar regra**
 - [Abrir registo]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
 - [Pausar regra]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Eliminar regra]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})

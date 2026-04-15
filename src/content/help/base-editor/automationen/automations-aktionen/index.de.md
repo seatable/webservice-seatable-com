@@ -12,13 +12,11 @@ seo:
 weight: 6
 ---
 
-{{< required-version "Enterprise" >}}
-
 **Automatisierte Aktionen** stellen eine der beiden wesentlichen Komponenten von Automationen dar. Die Aktionen werden dabei von definierten **Trigger-Ereignissen** ausgelöst. Je nach [Auslöser]({{< relref "help/base-editor/automationen/automations-trigger" >}}) kann SeaTable unterschiedliche Automations-Aktionen ausführen. Dieser Artikel bietet Ihnen einen **Überblick** über die verschiedenen Arten von automatisierten Aktionen.
 
 ## Verfügbare Automations-Aktionen
 
-In der aktuellsten Version von SeaTable stehen ingesamt 13 verschiedene Automations-Aktionen zur Auswahl:
+In der aktuellsten Version von SeaTable stehen ingesamt 15 verschiedene Automations-Aktionen zur Auswahl:
 
 - Benachrichtigung versenden
 - App-Benachrichtigung versenden
@@ -30,9 +28,11 @@ In der aktuellsten Version von SeaTable stehen ingesamt 13 verschiedene Automati
 - Neuen Eintrag in anderer Tabelle hinzufügen
 - Python-Skript ausführen
 - KI aufrufen
+- Termine in Google Kalender verwalten
 - Datenverarbeitungsoperation ausführen
 - Seite in PDF umwandeln
 - PDF auf Basis eines Dokuments erzeugen und versenden
+- Archivieren
 
 ## Automations-Aktionen hinzufügen, duplizieren, verschieben und löschen
 
@@ -185,6 +185,23 @@ Die Automations-Aktion "KI aufrufen" steht Ihnen derzeit bei folgenden **Automat
 
 Ausführliche Anleitungen zu den einzelnen KI-Funktionen mit Schritt-für-Schritt-Beispielen finden Sie im Bereich [KI-Automationen]({{< relref "help/ai/ai-automations/setup-ai-automation" >}}).
 
+## Automations-Aktion: Termine in Google Kalender verwalten
+
+Wenn Sie "Termine in Google Kalender verwalten" als automatisierte Aktion auswählen, wird bei Auslösung des Triggers ein Termin aus SeaTable in einem Google Kalender angelegt oder aktualisiert. Es gibt einige Voraussetzungen, die erfüllt sein müssen, damit diese Aktion reibungslos funktioniert:
+- Zuerst müssen Sie [Ihr Google Kalender Konto mit SeaTable synchronisieren]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
+- In einer Tabelle müssen zwei [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) existieren, die den **Start** und das **Ende** der Termine definieren.
+- Außerdem benötigen Sie eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), in die Google die **Event ID** schreiben kann, damit die Termine synchronisiert werden können.
+
+![Voraussetzungen für die Verwaltung von Terminen in Google Calendar](images/manage-events-in-google-calendar-part-1.png)
+
+Darüber hinaus können Sie weitere Einstellungen vornehmen. Fügen Sie einen **Titel**, eine **Beschreibung**, einen **Ort** und **Teilnehmer** zum Termin hinzu. Schreiben Sie dazu die Angaben in die **Textfelder** oder arbeiten Sie mit **Spaltenreferenzen in geschweiften Klammern**, um bestimmte Werte aus der Tabelle einzufügen. Indem Sie die **Regler** aktivieren, können Sie entscheiden, ob Sie Benachrichtigungen versenden möchten, ob es sich um eine Videokonferenz handelt und ob Gäste den Termin bearbeiten, die Gästeliste sehen und andere Gäste einladen können.
+
+![Weitere Einstellungen für Termine in Google Calendar](images/manage-events-in-google-calendar-part-2.png)
+
+Die Automations-Aktion "Termine in Google Kalender verwalten" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
+- Wenn eine Zeile geändert wird
+- Wenn eine Zeile hinzufügt wird
+
 ## Automations-Aktion: Datenverarbeitungsoperation ausführen
 
 Wenn Sie die Ausführung einer Datenverarbeitungsoperation als automatisierte Aktion auswählen, löst der Trigger eine im Vorhinein definierte [Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) in der Tabelle aus. Die auszuführende Aktion können Sie in den **Einstellungen** genau konfigurieren. Je nach Art der Operation können **bestimmte Input- und Output-Spalten** notwendig sein.
@@ -227,3 +244,13 @@ Wenn Sie das generierte Dokument anschließend versenden möchten, aktivieren Si
 
 Die Automations-Aktion "PDF auf Basis eines Dokuments erzeugen und versenden" steht Ihnen derzeit bei folgendem **Automations-Trigger** zur Verfügung:
 - Zu einer geplanten Zeit
+
+## Automations-Aktion: Archivieren
+
+Mithilfe der Archivierungsaktion können Sie [Zeilen automatisch in den Big-Data-Speicher verschieben]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). Die Big-Data-Funktion muss dafür natürlich in der jeweiligen Base aktiviert sein. Da Sie die **Ansicht** und eventuelle Filterbedingungen für die zu archivierenden Zeilen bereits in den Trigger-Einstellungen festlegen, können Sie für die Aktion selbst keinerlei Einstellungen vornehmen.
+
+![Zeilen per Automation archivieren](images/automated-action-archive.png)
+
+Die Automations-Aktion "Archivieren" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
+- Zu einer geplanten Zeit
+- Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
