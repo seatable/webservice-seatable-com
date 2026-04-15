@@ -133,7 +133,6 @@ Auch in dieser Tabelle können Sie mit einem Klick auf den verlinkten Eintrag ei
 - [Automationen stoppen]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Automationen löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Ausführungslog einer Automation anzeigen]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [Warum finde ich Automationen in meiner Base nicht?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Automations-Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Zeilen per Automation sperren]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}})
