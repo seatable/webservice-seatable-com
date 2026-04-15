@@ -69,15 +69,11 @@ Travel costs are usually calculated using either a **flat rate per kilometer** o
 
 In addition to the major costs of a business trip, there can also be smaller expenses that are often overlooked - incidental travel expenses. However, you should also take these into account in your travel expense report. These include, among other things
 
-Spacer
-
 - Parking fees
 - Tolls
 - Ferry costs
 - Costs for business telephone calls
 - Claims for damages in the event of a traffic accident
-
-Spacer
 
 - Tips
 - Baggage fees

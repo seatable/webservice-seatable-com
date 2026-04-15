@@ -70,14 +70,10 @@ Whether you're looking for a fun activity or a luxurious location, the following
 
 ### City trips
 
-Spacer
-
 - Cologne
 - Hamburg
 - Berlin
 - Munich
-
-Spacer
 
 - Frankfurt
 - Düsseldorf
@@ -90,14 +86,10 @@ City trips can quickly become expensive as they include accommodation, meals and
 
 ### Short vacation
 
-Spacer
-
 - Las Vegas
 - Majorca
 - Budapest
 - Barcelona
-
-Spacer
 
 - Prague
 - Amsterdam
@@ -110,14 +102,10 @@ More and more stag and hen parties are taking place over an entire weekend inste
 
 ### Adrenaline and adventure
 
-Spacer
-
 - Bungee jumping
 - Jet ski or canoe tour
 - Climbing park
 - Amusement park
-
-Spacer
 
 - Laser tag or paintball
 - Karting or quad biking
@@ -130,14 +118,10 @@ Many theme parks offer special group discounts, making them an affordable option
 
 ### Relaxation and wellness
 
-Spacer
-
 - Spa
 - Yoga retreat
 - Meditation course
 - Thermal bath
-
-Spacer
 
 - Herb hike
 - Wine tasting
@@ -150,14 +134,10 @@ In recent years, a trend towards healthier stag parties has emerged, with activi
 
 ### Creative courses
 
-Spacer
-
 - Sushi cooking course
 - Pottery workshop
 - Cocktail mixing
 - Photography excursion
-
-Spacer
 
 - Street art workshop
 - Goldsmith course
