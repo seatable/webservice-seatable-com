@@ -14,7 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Enterprise" >}}
 
 If you have an Enterprise subscription, you can also send notifications to selected users via automation. To do this, simply define an appropriate automation rule for any table view.
 

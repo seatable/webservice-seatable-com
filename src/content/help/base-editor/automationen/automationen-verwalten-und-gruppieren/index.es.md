@@ -25,13 +25,10 @@ Puede gestionar, agrupar y mover las reglas de automatización que haya creado p
 
 ![administrar reglas de automatización](images/manage-automation-rules.jpg)
 
-Una vez seleccionada una regla de automatización, también puede abrir el mismo menú pulsando sobre el título en la zona central.
-
-![Opciones de gestión de las reglas de automatización](images/automation-managing-options.jpg)
-
 Las siguientes opciones de gestión están disponibles para cada regla de automatización:
 
 - **Renombrar regla**
+- **Duplicar regla**
 - [Abrir registro]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
 - [Pausar regla]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Borrar regla]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})

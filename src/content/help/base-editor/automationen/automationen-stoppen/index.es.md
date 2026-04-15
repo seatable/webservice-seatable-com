@@ -14,8 +14,6 @@ seo:
 weight: 9
 ---
 
-{{< required-version "Empresa" >}}
-
 Si ya no desea ejecutar automatizaciones durante un determinado periodo de tiempo, puede **pausarlas** en lugar de [eliminarlas]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Esto tiene la ventaja de que puede **reactivar** simplemente las automatizaciones en pausa, mientras que tiene que crear desde cero las automatizaciones eliminadas.
 
 ## Detener temporalmente las automatizaciones

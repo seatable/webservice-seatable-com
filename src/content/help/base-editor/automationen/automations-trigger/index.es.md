@@ -14,8 +14,6 @@ seo:
 weight: 5
 ---
 
-{{< required-version "Empresa" >}}
-
 **Los eventos desencadenantes** son uno de los dos componentes principales de las automatizaciones. Los eventos desencadenan diferentes tipos de [acciones]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), que puede definir individualmente para cada automatización. Este artículo le ofrece una **visión general** de los diferentes tipos de desencadenantes.
 
 ## Disparadores de automatización disponibles

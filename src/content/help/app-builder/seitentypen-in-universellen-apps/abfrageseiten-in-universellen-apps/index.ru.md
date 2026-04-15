@@ -11,7 +11,7 @@ aliases:
     - '/ru/pomoshch/stranitsy-zaprosov-universalnye-prilozheniya'
 seo:
     title: 'Страницы запросов в приложениях SeaTable'
-    description: 'Ищите и фильтруйте большие наборы данных в приложениях SeaTable SeaTable: задавайте фильтры, сортировки и поля запроса для своих результатов.'
+    description: 'Ищите и фильтруйте большие наборы данных в приложениях SeaTable: задавайте фильтры, сортировки и поля запроса для своих результатов.'
 weight: 9
 ---
 

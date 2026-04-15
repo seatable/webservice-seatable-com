@@ -12,8 +12,6 @@ seo:
 weight: 3
 ---
 
-{{< required-version "Enterprise" >}}
-
 Um jederzeit Anpassungen an bereits erstellten Automationen vornehmen zu können, haben Sie die Möglichkeit, Ihre angelegten Automatisierungregeln zu verwalten, zu gruppieren und zu verschieben.
 
 ## Automatisierungsregeln verwalten
@@ -25,13 +23,10 @@ Um jederzeit Anpassungen an bereits erstellten Automationen vornehmen zu können
 
 ![Automationsregeln verwalten](images/manage-automation-rules.jpg)
 
-Sobald Sie eine Automatisierungsregel ausgewählt haben, können Sie das gleiche Menü auch öffnen, indem Sie auf den Titel im zentralen Bereich klicken.
-
-![Verwaltungsoptionen von Automatisierungsregeln](images/automation-managing-options.jpg)
-
 Folgende Verwaltungsmöglichkeiten stehen Ihnen für jede Automatisierungsregel zur Verfügung:
 
 - **Regel umbenennen**
+- **Regel duplizieren**
 - [Log öffnen]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
 - [Regel pausieren]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Regel löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})

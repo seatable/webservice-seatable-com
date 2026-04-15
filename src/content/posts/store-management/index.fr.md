@@ -1,5 +1,5 @@
 ---
-title: 'Gestion organisée des magasins avec SeaTable - SeaTable'
+title: 'Gestion organisée des magasins avec SeaTable'
 description: 'Organiser plusieurs points de vente nécessite des processus clairs : SeaTable centralise gestion du personnel, chiffre d’affaires, contrôles magasins et commandes de matériel. Tableaux de bord avancés, formulaires et vues personnalisées simplifient votre gestion au quotidien.'
 date: 2021-10-21
 categories:

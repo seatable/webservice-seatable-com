@@ -14,8 +14,6 @@ seo:
 weight: 3
 ---
 
-{{< required-version "Entreprise" >}}
-
 Pour pouvoir adapter à tout moment les automatisations déjà créées, vous avez la possibilité de gérer, de regrouper et de déplacer les règles d'automatisation que vous avez créées.
 
 ## Gérer les règles d'automatisation
@@ -27,13 +25,10 @@ Pour pouvoir adapter à tout moment les automatisations déjà créées, vous av
 
 ![Gérer les règles d'automatisation](images/manage-automation-rules.jpg)
 
-Une fois que vous avez sélectionné une règle d'automatisation, vous pouvez également ouvrir le même menu en cliquant sur son titre dans la zone centrale.
-
-![Options de gestion des règles d'automatisation](images/automation-managing-options.jpg)
-
 Les options de gestion suivantes sont disponibles pour chaque règle d'automatisation :
 
 - **Renommer la règle**
+- **Dupliquer la règle**
 - [Ouvrir l'historique]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
 - [Suspendre la règle]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Supprimer la règle]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})

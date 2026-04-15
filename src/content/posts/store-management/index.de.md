@@ -1,5 +1,5 @@
 ---
-title: 'Organisiertes Store Management mit SeaTable - SeaTable'
+title: 'Organisiertes Store Management mit SeaTable'
 description: 'Mit zunehmender Filialzahl wächst der Organisationsaufwand: SeaTable bündelt alle relevanten Daten zu Mitarbeitern, Umsatz, Terminen und POS-Materialien in einem zentralen Tool. Einfache Auswertungen, personalisierte Ansichten und Webformulare sorgen für maximale Übersicht und Effizienz.'
 date: 2021-10-21
 categories:

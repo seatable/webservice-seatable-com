@@ -1,5 +1,5 @@
 ---
-title: 'O planeamento perfeito do casamento com SeaTable - SeaTable'
+title: 'O planeamento perfeito do casamento com SeaTable'
 description: 'Um casamento demanda organização: convidados, orçamento, fornecedores. Com SeaTable você tem um checklist de mais de 200 tarefas, listas de convidados e mesas, gestão de custos e espaço para anotações. Planeje cada detalhe da forma mais prática e transforme seu dia especial em algo inesquecível.'
 date: 2021-07-22
 lastmod: '2023-07-11'

@@ -14,8 +14,6 @@ seo:
 weight: 5
 ---
 
-{{< required-version "Entreprise" >}}
-
 **Les événements déclencheurs** constituent l'un des deux composants essentiels des automatisations. Les événements déclenchent alors différents types d'[actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) que vous pouvez définir individuellement pour chaque automation. Cet article vous donne un **aperçu** sur les différents types de déclencheurs.
 
 ## Déclencheurs d'automatisation disponibles

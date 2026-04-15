@@ -14,13 +14,11 @@ seo:
 weight: 6
 ---
 
-{{< required-version "Empresa" >}}
-
 Las **acciones automatizadas** representan uno de los dos componentes esenciales de las automatizaciones. Las acciones se activan mediante **eventos de activación** definidos. Dependiendo del [disparador]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable puede realizar diferentes acciones de automatización. Este artículo ofrece una **visión general** de los distintos tipos de acciones automatizadas.
 
 ## Acciones de automatización disponibles
 
-La última versión de SeaTable ofrece un total de 13 acciones de automatización diferentes entre las que elegir:
+La última versión de SeaTable ofrece un total de 15 acciones de automatización diferentes entre las que elegir:
 
 - Enviar notificación
 - Enviar notificación de aplicación
@@ -32,9 +30,11 @@ La última versión de SeaTable ofrece un total de 13 acciones de automatizació
 - Añadir registro a otra tabla
 - Ejecutar script Python
 - Llamar a la IA
+- Gestionar citas en Google Calendar
 - Ejecutar procesado de datos
 - Convertir página a PDF
 - Generar PDF a partir de un documento y enviarlo
+- Archivo
 
 ## Añadir, duplicar, mover y eliminar acciones de automatización
 
@@ -186,6 +186,23 @@ La acción de automatización "Llamar a la IA" está disponible actualmente para
 - Cuando se añade una fila
 - A una hora programada
 
+## Acción de automatización: Gestionar citas en Google Calendar
+
+Si selecciona "Gestionar citas en Google Calendar" como acción automatizada, se creará o actualizará una cita de SeaTable en un calendario de Google cuando se active el disparador. Hay algunos requisitos que deben cumplirse para que esta acción funcione sin problemas:
+- En primer lugar, debe [sincronizar su cuenta de Google Calendar con SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
+- Deben existir dos [columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en una tabla, que definan el **inicio** y el **final** de las fechas.
+- También necesita una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) en la que Google pueda escribir el **identificador del evento** para poder sincronizar las citas.
+
+![Requisitos para gestionar eventos en Google Calendar](images/manage-events-in-google-calendar-part-1.png)
+
+También puede realizar otros ajustes. Añada un **título**, una **descripción**, una **localización** y **participantes** al evento. Para ello, escriba los detalles en los **campos de texto** o trabaje con **referencias a columnas entre llaves** para insertar valores específicos de la tabla. Activando los **controladores**, podrá decidir si desea enviar notificaciones, si se trata de una videoconferencia y si los invitados pueden editar la cita, ver la lista de invitados e invitar a otros invitados.
+
+![más ajustes para eventos en Google Calendar](images/manage-events-in-google-calendar-part-2.png)
+
+La acción de automatización "Gestionar eventos en Google Calendar" está disponible actualmente para los siguientes **disparadores de automatización**:
+- Cuando se modifica una fila
+- Cuando se añade una fila
+
 ## Acción de automatización: Ejecutar procesado de datos
 
 Si selecciona la ejecución de un procesado de datos como acción automatizada, el activador inicia una [operación de tratamiento de datos]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) predefinida en la tabla. Puede configurar la acción exacta a realizar en los **ajustes**. Dependiendo del tipo de operación, pueden ser necesarias **ciertas columnas de entrada y salida**.
@@ -228,3 +245,13 @@ Si a continuación desea enviar el documento generado, active el control desliza
 
 La acción de automatización "Generar PDF a partir de un documento y enviarlo" está disponible actualmente con el siguiente **disparador de automatización**:
 - A una hora programada
+
+## Acción de automatización: Archivar
+
+Puede utilizar la acción de archivo para [mover automáticamente filas al almacén de big data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). Por supuesto, la función big data debe estar activada en la base correspondiente. Como ya ha definido la **vista** y cualquier condición de filtro para las filas que se van a archivar en la configuración del activador, no puede realizar ninguna configuración para la acción en sí.
+
+![Archivar filas mediante automatización](images/automated-action-archive.png)
+
+La acción de automatización "Archivar" está disponible actualmente para los siguientes **disparadores de automatización**:
+- A una hora programada
+- A una hora programada para las entradas que cumplan determinadas condiciones

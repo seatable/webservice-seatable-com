@@ -12,7 +12,7 @@ seo:
 
 ---
 
-Um Zeilen aus dem Big-Data-Speicher zurückzuholen, benötigen Sie eine [Big-Data-Ansicht]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) und wieder in eine **normale Ansicht** verschieben.
+Um Zeilen aus dem Big-Data-Speicher zurückzuholen, benötigen Sie eine [Big-Data-Ansicht]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). In dieser Ansicht können Sie die gewünschten [Zeilen selektieren]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) und wieder in eine **normale Ansicht** verschieben.
 
 1. Öffnen Sie eine **Big-Data-Ansicht**.
 2. Machen Sie einen **Rechtsklick auf eine archivierte Zeile**.

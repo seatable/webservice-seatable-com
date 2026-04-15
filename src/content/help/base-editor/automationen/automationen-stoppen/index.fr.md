@@ -14,8 +14,6 @@ seo:
 weight: 9
 ---
 
-{{< required-version "Entreprise" >}}
-
 Si vous ne souhaitez plus exécuter des automatisations pendant une certaine période, vous pouvez les **suspendre** au lieu de les [supprimer]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Cela présente l'avantage de pouvoir **réactiver** facilement les automations mises en pause, alors que vous devez recréer entièrement les automations supprimées.
 
 ## Suspendre temporairement les automatisations

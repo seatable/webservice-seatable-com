@@ -14,8 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Empresa" >}}
-
 Se tiver uma assinatura Enterprise, também pode enviar notificações a utilizadores seleccionados através de automatização. Basta definir uma regra de automatização correspondente para qualquer visualização de tabela.
 
 ## Enviar notificações via automatização

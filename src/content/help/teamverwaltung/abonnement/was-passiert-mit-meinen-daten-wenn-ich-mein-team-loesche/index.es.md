@@ -1,5 +1,5 @@
 ---
-title: '¿Qué pasa con mis datos cuando borro mi equipo? - Tabla del mar'
+title: '¿Qué pasa con mis datos cuando borro mi equipo?'
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:
@@ -9,7 +9,7 @@ url: '/es/ayuda/eliminar-equipo-consecuencias-datos'
 aliases:
     - '/es/ayuda/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 seo:
-    title: '¿Qué ocurre con tus datos cuando eliminas el equipo en SeaTable?'
+    title: '¿Qué ocurre con sus datos cuando elimina el equipo en SeaTable?'
     description: '¿Qué ocurre con cuentas y datos al borrar un equipo de SeaTable? Eliminación permanente, consejos de exportación y privacidad.'
 ---
 

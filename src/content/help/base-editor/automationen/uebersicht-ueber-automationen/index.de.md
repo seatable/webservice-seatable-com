@@ -6,14 +6,14 @@ categories:
     - 'automationen'
 author: 'kgr'
 url: '/de/hilfe/uebersicht-ueber-automationen'
+aliases:
+    - '/de/hilfe/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 seo:
     title: 'Automationen in SeaTable: Überblick und Beispiele'
     description: 'Lernen Sie, wie SeaTable Arbeitsprozesse automatisiert: Trigger, Aktionen, Verwaltung und praktische Anwendungsfälle für effizientes Datenmanagement.'
 star: true
 weight: 1
 ---
-
-{{< required-version "Enterprise" >}}
 
 Automationen sind ein nützliches Feature von SeaTable, das Ihnen dabei hilft, **Arbeitsprozesse zu automatisieren**. Mithilfe von Automationen können Sie folglich nicht nur **Zeit sparen**, sondern auch die Anzahl menschlicher **Fehler** bei der Pflege Ihrer Daten **minimieren**, weil automatisch vollzogene Prozessschritte nicht mehr manuell von einem Benutzer durchgeführt werden müssen.
 
@@ -112,9 +112,3 @@ Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-e-mail-ve
 Mithilfe von Automationen müssen Sie Einträge in Ihren Tabellen nicht mehr manuell miteinander verknüpfen, sondern können diese Schritte automatisch ausführen lassen. Dies ist sinnvoll, wenn Sie bestimmte Daten über mehrere Tabellen hinweg benötigen.
 
 Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}), wie Sie Einträge per Automation verlinken.
-
-## Warum finde ich in meiner Base die Automationen nicht?
-
-Sie können die Automations-Funktion in Ihren Bases nicht finden? Möglicherweise hat das mit Ihrem SeaTable Abonnement zu tun.
-
-Erfahren Sie [hier]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}), woran das liegen kann.

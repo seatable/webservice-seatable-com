@@ -14,8 +14,6 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Entreprise" >}}
-
 Pour vérifier **la bonne exécution d'une automatisation**, vous avez la possibilité de consulter **l'historique d'exécution**. SeaTable y consigne les informations suivantes pour chaque exécution d'automatisation : heure d'exécution, condition d'exécution, état et avertissements éventuels.
 
 {{< warning  headline="Remarque importante"  text="Chaque exécution d'un automatisme est appelée **cycle d'automatisation**." />}}

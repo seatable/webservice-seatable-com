@@ -1,5 +1,5 @@
 ---
-title: 'Organised Store Management with SeaTable - SeaTable'
+title: 'Organised Store Management with SeaTable'
 description: 'Managing multiple stores is complex—SeaTable makes it easy. Keep track of employees, analyze sales by location, plan trainings, conduct store checks, and organize POS material orders seamlessly. Advanced dashboards and smart features boost retail efficiency and transparency.'
 date: 2021-10-21
 categories:

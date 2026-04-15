@@ -1,5 +1,5 @@
 ---
-title: 'Gestão de loja organizada com SeaTable - SeaTable'
+title: 'Gestão de loja organizada com SeaTable'
 description: 'À medida que o número de lojas cresce, a organização precisa ser ágil. Com SeaTable, controle funcionários, vendas, treinamentos e materiais em um só lugar. Vistas personalizadas e formulários digitais facilitam a rotina e otimizam sua gestão comercial.'
 date: 2021-10-21
 categories:

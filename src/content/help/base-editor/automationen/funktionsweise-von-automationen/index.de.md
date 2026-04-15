@@ -12,7 +12,6 @@ seo:
 weight: 4
 ---
 
-{{< required-version "Enterprise" >}}
 
 Automationen sind ein mächtiges Feature von SeaTable, mit dem Sie Prozesse automatisieren können. Durch die Automatisierung von Arbeitsschritten sparen Sie nicht nur Zeit, sondern minimieren auch menschliche Fehler bei der Arbeit mit Daten.
 

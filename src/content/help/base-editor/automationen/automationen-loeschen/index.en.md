@@ -14,8 +14,6 @@ seo:
 weight: 10
 ---
 
-{{< required-version "Enterprise" >}}
-
 You can **delete automation rules** that have already been created at any time. Please note what effects the deletion has on the various **automated actions**.
 
 ## To delete an automation

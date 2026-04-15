@@ -14,8 +14,6 @@ seo:
 weight: 2
 ---
 
-{{< required-version "Empresa" >}}
-
 Com a ajuda de automatizações, pode **automatizar processos** de modo a não só poupar tempo, mas também minimizar o número de erros humanos. O primeiro passo para fluxos de trabalho automatizados é a criação de uma automatização.
 
 ## Criar uma automatização

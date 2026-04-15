@@ -1,5 +1,5 @@
 ---
-title: 'Acesso só de leitura porque os limites foram atingidos? - Tabela do mar'
+title: 'Acesso só de leitura porque os limites foram atingidos?'
 date: 2023-05-03
 lastmod: '2023-05-12'
 categories:

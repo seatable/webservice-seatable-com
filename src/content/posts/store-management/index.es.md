@@ -1,5 +1,5 @@
 ---
-title: 'Gestión organizada de la tienda con SeaTable - SeaTable'
+title: 'Gestión organizada de la tienda con SeaTable'
 description: 'Más sucursales significan más tareas: SeaTable reúne toda la información clave sobre empleados, ventas, formaciones y materiales en un solo sitio. Personaliza vistas, automatiza procesos y facilita el seguimiento para una gestión de tiendas sencilla y productiva.'
 date: 2021-10-21
 categories:
