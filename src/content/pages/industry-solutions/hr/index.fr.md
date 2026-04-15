@@ -71,7 +71,7 @@ sections:
           - text: "**Évolutif** : sans fonctionnalités superflues, SeaTable s'adapte à vos besoins."
           - text: "**Intuitif** : implémentation simple sans assistance informatique grâce à l'absence de code."
           - text: '**Déploiement** : en tant que solution cloud ou sur site' 
-      image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image: /images/landing-page-hr-01.png
       image_alt: "Interface SeaTable pour la planification et l'analyse des processus RH automatisés"
 
     - name: banner-2
@@ -109,27 +109,27 @@ sections:
       items:
       - headline: "Gestion des candidatures basée sur l'IA"
         text: Un outil performant qui automatise l'ensemble du [processus de recrutement]({{< relref "posts/20250317-recruiting" >}}). Utilisez notre [intelligence artificielle intégrée]({{< relref "pages/ai-automations" >}}) pour présélectionner les candidatures, coordonner automatiquement les rendez-vous et ainsi **améliorer considérablement l'expérience des candidats**.
-        image: /images/Landing-Page_HR_Bewerbermanagement.png
+        image: /images/landing-page-hr-02.png
         image_alt: 'Vue SeaTable pour la gestion automatisée des candidatures par IA dans le domaine du recrutement'
 
       - headline: "Gérer les dossiers numériques du personnel"
         text: Le dossier numérique du personnel de SeaTable vous permet de numériser et de stocker vos dossiers du personnel en toute sécurité. Grâce à la structure claire du dossier électronique du personnel et au **respect des délais de conservation**, vous restez toujours en conformité avec la législation.
-        image: /images/Landing-Page_HR_Personalakte.png
+        image: /images/landing-page-hr-03.png
         image_alt: 'Interface SeaTable pour la gestion numérique des dossiers du personnel conforme au RGPD'
 
       - headline: "Enregistrement simplifié du temps de travail"
         text: Enregistrez les [heures de travail]({{< relref "templates/human-resources/recording-working-time" >}}), les [demandes de congés]({{< relref "templates/human-resources/holiday-request-management" >}}) et les arrêts maladie de manière centralisée via des formulaires web, avec des **tableaux de bord d'administration, des vues personnalisées et le calcul automatique des heures supplémentaires/manquantes**. SeaTable vous permet de réduire vos efforts et de garantir une conformité juridique totale.
-        image: /images/Landing-Page_HR_Zeiterfassung.png
+        image: /images/landing-page-hr-04.png
         image_alt: 'Vue de suivi du temps de travail SeaTable HR avec les heures travaillées et les absences'
 
       - headline: "Création d'organigrammes"
         text: Créer un organigramme en toute simplicité – SeaTable vous permet de toujours garder une vue d'ensemble de la structure de votre entreprise et de représenter rapidement et clairement vos organigrammes.
-        image: /images/Landing-Page_HR_Organigramm.png
+        image: /images/landing-page-hr-05.png
         image_alt: "Vue organigramme SeaTable pour représenter la structure de l'entreprise"
 
       - headline: "Optimiser les flux de travail grâce à l'IA"
         text: De la planification des congés des employés au [décompte des frais de déplacement]({{< relref "posts/reisekostenabrechnung" >}}), en passant par les processus complexes d'intégration et de départ, SeaTable vous offre tous les outils nécessaires pour améliorer l'efficacité de vos opérations RH.
-        image: /images/Landing-Page_HR_Prozesse-optimieren.png
+        image: /images/landing-page-hr-06.png
         image_alt: "SeaTable HR Dashboard pour l'optimisation et l'automatisation des processus RH"
 
     - name: 'content-13'

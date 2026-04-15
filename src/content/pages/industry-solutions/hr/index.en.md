@@ -71,7 +71,7 @@ sections:
           - text: '**Scalable**: No unnecessary features, SeaTable grows with your requirements'
           - text: '**Intuitive**: Easy implementation without IT support thanks to no-code'
           - text: '**Deployment**: As a cloud solution or on-premises' 
-      image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image: /images/landing-page-hr-01.png
       image_alt: 'SeaTable interface for planning and analyzing automated HR processes'
 
     - name: banner-2
@@ -109,27 +109,27 @@ sections:
       items:
       - headline: "AI-based applicant management"
         text: A powerful tool that automates the entire [recruitment process]({{< relref "posts/20250317-recruiting" >}}). Use our [integrated AI]({{< relref "pages/ai-automations" >}}), to preselect applications, automatically coordinate appointments, and thus **significantly improve the candidate experience**..
-        image: /images/Landing-Page_HR_Bewerbermanagement.png
+        image: /images/landing-page-hr-02.png
         image_alt: 'SeaTable view for AI-automated applicant management in recruiting'
 
       - headline: "Manage digital personnel files"
         text: With SeaTable's digital personnel file, you can digitize your personnel files and store them securely. Thanks to the clear structure of the electronic personnel file and **compliance with retention periods**, you will always remain legally compliant.
-        image: /images/Landing-Page_HR_Personalakte.png
+        image: /images/landing-page-hr-03.png
         image_alt: 'SeaTable interface for digital, GDPR-compliant personnel file management'
 
       - headline: "Simple time tracking"
         text: Record [working hours]({{< relref "templates/human-resources/recording-working-time" >}}), [vacation requests]({{< relref "templates/human-resources/holiday-request-management" >}}), and sick leave centrally via web forms—with **admin dashboards, personalized views, and automatic overtime/under-time calculation**. With SeaTable, you reduce the effort and ensure full legal compliance.
-        image: /images/Landing-Page_HR_Zeiterfassung.png
+        image: /images/landing-page-hr-04.png
         image_alt: 'SeaTable HR time tracking view with working hours and absences'
 
       - headline: "Creation of organizational charts"
         text: Creating organizational charts made easy—with SeaTable, you can keep track of your company's structure and display organizational charts quickly and clearly.
-        image: /images/Landing-Page_HR_Organigramm.png
+        image: /images/landing-page-hr-05.png
         image_alt: 'SeaTable organizational chart view for displaying the company structure'
 
       - headline: "Optimize workflows with AI"
         text: From vacation planning for employees to [travel expense reports]({{< relref "posts/reisekostenabrechnung" >}}) to complex onboarding and offboarding processes, SeaTable offers you all the tools you need to increase the efficiency of your operational HR work.
-        image: /images/Landing-Page_HR_Prozesse-optimieren.png
+        image: /images/landing-page-hr-06.png
         image_alt: 'SeaTable HR Dashboard for optimizing and automating HR processes'
 
     - name: 'content-13'

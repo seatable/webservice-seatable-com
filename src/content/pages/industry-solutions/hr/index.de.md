@@ -67,7 +67,7 @@ sections:
           - text: '**Skalierbar**: Keine überflüssigen Features, SeaTable wächst mit Ihren Anforderungen'
           - text: '**Intuitiv**: Einfache Implementierung ohne IT-Support dank No-Code'
           - text: '**Deployment**: Als Cloud-Lösung oder On-Premises' 
-      image: /images/Landing-Page-Marketing_Planning-and-Analysis-1.png
+      image: /images/landing-page-hr-01.png
       image_alt: 'SeaTable Oberfläche zur Planung und Analyse von automatisierten HR-Prozessen'
 
     - name: banner-2
@@ -105,27 +105,27 @@ sections:
       items:
       - headline: "KI-basiertes Bewerbermanagement"
         text: Ein leistungsstarkes Tool, das den gesamten [Rekrutierungsprozess]({{< relref "posts/20250317-recruiting" >}}) automatisiert. Nutzen Sie unsere [integrierte KI]({{< relref "pages/ai-automations" >}}), um Bewerbungen vorzusortieren, Termine automatisch zu koordinieren und so die **Candidate Experience signifikant zu verbessern**.
-        image: /images/Landing-Page_HR_Bewerbermanagement.png
+        image:  /images/landing-page-hr-02.png
         image_alt: 'SeaTable Ansicht für KI-automatisiertes Bewerbermanagement im Recruiting'
 
       - headline: "Digitale Personalakte verwalten"
         text: Mit der digitalen Personalakte von SeaTable können Sie Ihre Personalakten digitalisieren und sicher speichern. Dank klarer Struktur für die elektronische Personalakte und der **Einhaltung der Aufbewahrungsfristen** bleiben Sie stets gesetzeskonform.
-        image: /images/Landing-Page_HR_Personalakte.png
+        image:  /images/landing-page-hr-03.png
         image_alt: 'SeaTable Oberfläche für digitale, DSGVO-konforme Personalaktenverwaltung'
 
       - headline: "Einfache Arbeitszeiterfassung"
         text: Erfassen Sie [Arbeitszeiten]({{< relref "templates/human-resources/recording-working-time" >}}), [Urlaubsanträge]({{< relref "templates/human-resources/holiday-request-management" >}}) und Krankmeldungen zentral per Webformularen – mit **Admin-Dashboards, personalisierten Views und automatischer Über-/Unterstunden-Berechnung**. Mit SeaTable reduzieren Sie den Aufwand und gewährleisten volle Rechtskonformität.
-        image: /images/Landing-Page_HR_Zeiterfassung.png
+        image:  /images/landing-page-hr-04.png
         image_alt: 'SeaTable HR Zeiterfassungsansicht mit Arbeitszeiten und Abwesenheiten'
 
       - headline: "Erstellung von Organigrammen"
         text: Organigramm erstellen leicht gemacht – mit SeaTable behalten Sie die Struktur Ihres Unternehmens immer im Blick und können Organigramme schnell und übersichtlich darstellen.
-        image: /images/Landing-Page_HR_Organigramm.png
+        image:  /images/landing-page-hr-05.png
         image_alt: 'SeaTable Organigrammansicht zur Darstellung der Unternehmensstruktur'
 
       - headline: "HR-Workflows durch KI optimieren"
         text: Von der Urlaubsplanung für Mitarbeiter über die [Reisekostenabrechnung]({{< relref "posts/reisekostenabrechnung" >}}) bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um die Effizienz Ihrer operativen Personalarbeit zu steigern.
-        image: /images/Landing-Page_HR_Prozesse-optimieren.png
+        image:  /images/landing-page-hr-06.png
         image_alt: 'SeaTable HR Dashboard zur Optimierung und Automatisierung von HR-Prozessen'
 
     - name: 'content-13'
