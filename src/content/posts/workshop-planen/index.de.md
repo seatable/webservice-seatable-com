@@ -11,7 +11,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Bewerber- & Talentmanagement'
+    - 'Bewerber- und Talentmanagement'
     - 'Bildung'
 color: '#53d189'
 ---

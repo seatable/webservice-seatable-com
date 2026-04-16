@@ -8,7 +8,7 @@ date: 2025-03-24
 categories:
     - 'best-practice'
 tags:
-    - 'Bewerber- & Talentmanagement'
+    - 'Bewerber- und Talentmanagement'
 color: '#d0e4e9'
 url: '/de/onboarding-prozess'
 ---
