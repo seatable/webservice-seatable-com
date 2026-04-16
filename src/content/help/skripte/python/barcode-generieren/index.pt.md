@@ -6,11 +6,28 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/pt/ajuda/python-gerar-codigos-barras'
+seo:
+    title: 'Python: Gerar códigos de barras no SeaTable'
+    description: 'Converta texto em imagens de código de barras (Code 128) e guarde-as no SeaTable com este script Python.'
 ---
 
-Este script converte valores de texto em imagens de código de barras no formato Code 128 e guarda-as como imagens no SeaTable.
 
-## The complete script
+Este script converte valores de texto (por ex. IDs de produto, números de série) em imagens de código de barras no formato Code 128 e guarda-as como imagens no SeaTable. O script percorre todas as linhas e ignora as que já têm um código de barras. É adequado para execução manual ou como automação.
+
+![Barcode Generator in SeaTable](barcode-generator.png)
+
+{{< dtable-download name="Barcode Generator" file="/downloads/python-examples/barcode-generator.dtable" text="Base com dados de exemplo e script pronto para experimentar diretamente." />}}
+
+## Pré-requisitos
+
+A tabela necessita de pelo menos duas colunas:
+
+- Uma **coluna de texto** com o valor a codificar como código de barras (por ex. «Product ID»)
+- Uma **coluna de imagem** onde o código de barras gerado será guardado (por ex. «Barcode»)
+
+## O script
+
+Adapte as três variáveis no início à estrutura da sua tabela. Pode personalizar a aparência do código de barras através das `options` (largura, altura, tamanho da fonte, etc.).
 
 ```python
 from seatable_api import Base, context
@@ -45,6 +62,14 @@ for row in rows:
 print("Barcodes generated.")
 ```
 
-Adjust `TEXT_COLUMN` and `IMAGE_COLUMN` to match your column names. You can customize the barcode appearance by modifying the options (module_width, module_height, font_size, etc.).
+## Execução
 
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
+O script pode ser iniciado de três formas:
+
+- **Manualmente** no editor Python da base
+- **Por automação** (por ex. agendada ou ao criar novas linhas)
+- **Por botão** — para isso o script teria de ser adaptado para processar apenas a linha atual
+
+Saiba mais [aqui]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
+
+Para a referência completa das funções, visite o [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

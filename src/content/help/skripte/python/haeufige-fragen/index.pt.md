@@ -6,13 +6,16 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/pt/ajuda/python-perguntas-frequentes'
+seo:
+    title: 'Scripts Python no SeaTable: Perguntas frequentes'
+    description: 'Respostas a perguntas frequentes sobre scripts Python no SeaTable: bibliotecas suportadas, operações em lote, execução local e dicas de depuração.'
 weight: 2
 star: true
 ---
 
-## How can I run a script both locally and in SeaTable?
+## Como posso executar um script tanto localmente como no SeaTable?
 
-You can write your script so it works in both environments without changes. The trick is to check whether the `context` object is available:
+Pode escrever o seu script de forma a funcionar em ambos os ambientes sem alterações. O truque é verificar se o objeto `context` está disponível:
 
 ```python
 from seatable_api import Base
@@ -26,39 +29,15 @@ except:
 base.auth()
 ```
 
-## Which libraries are available in the cloud environment?
+## Que bibliotecas estão disponíveis?
 
-SeaTable Cloud runs Python 3.12 with the following third-party libraries pre-installed:
+Uma lista completa de todas as bibliotecas pré-instaladas encontra-se no artigo [Bibliotecas Python suportadas]({{< relref "help/skripte/python/unterstuetzte-python-bibliotheken" >}}). Aí também aprenderá como adicionar bibliotecas personalizadas num servidor auto-hospedado.
 
-- **seatable-api** -- SeaTable API client
-- **requests** -- HTTP requests
-- **Pillow** -- Image processing
-- **pandas** -- Data analysis
-- **numpy** -- Numerical computing
-- **scipy** -- Scientific computing
-- **openai** -- OpenAI API
-- **beautifulsoup4** -- HTML/XML parsing
-- **python-dateutil** -- Date utilities
-- **PyPDF** -- PDF processing
-- **pdfmerge** -- PDF merging
-- **qrcode** -- QR code generation
-- **python-barcode** -- Barcode generation
-- **pillow-heif** -- HEIC image support
-- **ldap3** -- LDAP operations
-- **markdown** -- Markdown conversion
+## Como processo mais de 1.000 linhas?
 
+O método `base.list_rows()` devolve por defeito um máximo de 1.000 linhas. Para processar mais linhas, utilize uma destas abordagens:
 
-## Can I install custom libraries?
-
-On **SeaTable Cloud**, you are limited to the pre-installed libraries listed above.
-
-On a **self-hosted SeaTable Server**, you can install additional libraries in your Python Runner. See the [Admin Manual](https://admin.seatable.com) for details.
-
-## How do I handle more than 1,000 rows?
-
-The `base.list_rows()` method returns a maximum of 1,000 rows by default. To process more rows, use one of these approaches:
-
-**Option 1: Loop with offset**
+**Opção 1: Ciclo com offset**
 ```python
 all_rows = []
 offset = 0
@@ -70,16 +49,16 @@ while True:
     offset += 1000
 ```
 
-**Option 2: Use SQL query**
+**Opção 2: Consulta SQL**
 ```python
 rows = base.query("SELECT * FROM `Table1` LIMIT 10000")
 ```
 
-SQL queries support up to 10,000 rows per request.
+As consultas SQL suportam até 10.000 linhas por pedido.
 
-## How do I debug complex data structures?
+## Como depuro estruturas de dados complexas?
 
-Use `json.dumps()` with indentation to pretty-print dictionaries and lists:
+Utilize `json.dumps()` com indentação para mostrar dicionários e listas de forma formatada:
 
 ```python
 import json
@@ -87,4 +66,4 @@ metadata = base.get_metadata()
 print(json.dumps(metadata, indent=2))
 ```
 
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/).
+Para a referência completa das funções, visite o [SeaTable Developer Manual](https://developer.seatable.com/python/).

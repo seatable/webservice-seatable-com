@@ -29,33 +29,9 @@ except:
 base.auth()
 ```
 
-## Which libraries are available in the cloud environment?
+## Which libraries are available?
 
-SeaTable Cloud runs Python 3.12 with the following third-party libraries pre-installed:
-
-- **seatable-api** -- SeaTable API client
-- **requests** -- HTTP requests
-- **Pillow** -- Image processing
-- **pandas** -- Data analysis
-- **numpy** -- Numerical computing
-- **scipy** -- Scientific computing
-- **openai** -- OpenAI API
-- **beautifulsoup4** -- HTML/XML parsing
-- **python-dateutil** -- Date utilities
-- **PyPDF** -- PDF processing
-- **pdfmerge** -- PDF merging
-- **qrcode** -- QR code generation
-- **python-barcode** -- Barcode generation
-- **pillow-heif** -- HEIC image support
-- **ldap3** -- LDAP operations
-- **markdown** -- Markdown conversion
-
-
-## Can I install custom libraries?
-
-On **SeaTable Cloud**, you are limited to the pre-installed libraries listed above.
-
-On a **self-hosted SeaTable Server**, you can install additional libraries in your Python Runner. See the [Admin Manual](https://admin.seatable.com) for details.
+A complete list of all pre-installed libraries can be found in the article [Supported Python Libraries]({{< relref "help/skripte/python/unterstuetzte-python-bibliotheken" >}}). There you will also learn how to add custom libraries on a self-hosted server.
 
 ## How do I handle more than 1,000 rows?
 
@@ -73,7 +49,7 @@ while True:
     offset += 1000
 ```
 
-**Option 2: Use SQL query**
+**Option 2: SQL query**
 ```python
 rows = base.query("SELECT * FROM `Table1` LIMIT 10000")
 ```
