@@ -2,6 +2,7 @@
 title: '4 étapes pour une gestion de produit parfaite - SeaTable'
 description: 'De la conception à l’analyse : découvrez comment organiser la gestion produit en 4 étapes simples, structurer toutes vos informations et suivre les ventes pour garantir le succès de vos produits sur le marché. Outils et conseils pratiques inclus.'
 date: 2021-04-29
+lastmod: '2023-07-11'
 categories:
     - 'best-practice'
 tags: 

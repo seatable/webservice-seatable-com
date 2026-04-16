@@ -17,6 +17,10 @@ weight: 5
 
 Parfois, on souhaite générer quelques exemples d'entrées dans une base. Avec ce script Python, vous pouvez générer très rapidement de quelques entrées à plusieurs milliers.
 
+![Random Entries in SeaTable](random-entries.png)
+
+{{< dtable-download name="Random Entries" file="/downloads/python-examples/random-entries.dtable" text="Base avec structure de table adaptée et script prêt à l'emploi pour essayer directement." />}}
+
 Cet article vous guide à travers les différentes sections du script afin que vous puissiez comprendre son fonctionnement et l'adapter à vos besoins si nécessaire. Vous trouverez le script complet à la fin de cet article.
 
 ## 1) Charger les modules

@@ -1,7 +1,7 @@
 ---
 title: 'Gallery plugin guide'
 date: 2023-01-08
-lastmod: '2023-06-29'
+lastmod: '2025-12-15'
 categories:
     - 'plugins'
 author: 'vge'

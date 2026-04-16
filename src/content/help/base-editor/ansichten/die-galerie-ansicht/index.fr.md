@@ -1,15 +1,15 @@
 ---
-title : 'La vue de galerie'
-date : 2025-12-03
-lastmod : '2025-12-03'
-categories :
+title: 'La vue de galerie'
+date: 2025-12-03
+lastmod: '2025-12-03'
+categories:
     - 'grundlagen-von-ansichten'
-author : 'kgr'
-url : '/fr/aide/vue-de-galerie'
-seo :
-    title : 'Vue de galerie : affichage clair des images dans SeaTable'
-    description : 'La vue galerie vous donne un aperçu vivant de tous les enregistrements contenant des images'
-weight : 12
+author: 'kgr'
+url: '/fr/aide/vue-de-galerie'
+seo:
+    title: 'Vue de galerie : affichage clair des images dans SeaTable'
+    description: 'La vue galerie vous donne un aperçu vivant de tous les enregistrements contenant des images'
+weight: 12
 ---
 
 La vue **Galerie** utilise les fichiers d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) pour organiser les enregistrements de manière claire dans des tuiles. Plusieurs images sont ainsi regroupées dans un **album**. Cette présentation convient à de nombreux cas d'utilisation, par exemple [profils des employés]({{< relref "templates/human-resources/employee-directory" >}}), [bibliothèques de produits]({{< relref "templates/product-design/product-library" >}}), [listes d'inventaire]({{< relref "templates/operations/inventory-list" >}}) ou [la gestion des collections]({{< relref "templates/operations/art-gallery-management" >}}).

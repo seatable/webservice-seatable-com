@@ -16,6 +16,10 @@ weight: 4
 
 Este artigo apresenta-lhe um script Python que produz a meta-estrutura completa de uma base. Isto é útil, por exemplo, se tiver uma pergunta sobre uma base no [fórum da comunidade](https://forum.seatable.com/) e quiser descrever a estrutura da sua base de forma rápida e fácil sem capturas de ecrã.
 
+![Saída da metaestrutura no SeaTable](base-metadata.png)
+
+{{< dtable-download name="Base Metadata" file="/downloads/python-examples/base-metadata.dtable" text="Base com várias tabelas e ligações para experimentar." />}}
+
 ## A infra-estrutura de uma base
 
 A meta-estrutura de uma base descreve as tabelas, colunas e vistas de uma base. As entradas e os registos nas linhas não estão incluídos na meta-estrutura. A seguinte estrutura JSON descreve uma base comparativamente simples com apenas uma tabela, duas colunas e uma vista.

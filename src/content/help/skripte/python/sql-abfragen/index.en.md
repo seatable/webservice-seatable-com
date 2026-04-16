@@ -14,6 +14,8 @@ weight: 3
 
 This script demonstrates how to run SQL queries in SeaTable using `base.query()`. Unlike `base.list_rows()`, SQL lets you filter, group, and aggregate data without loading all rows. The script is suitable for manual execution or as an automation.
 
+![SQL Queries Base in SeaTable](sql-queries-base.png)
+
 {{< dtable-download name="SQL Queries" file="/downloads/python-examples/sql-queries.dtable" text="Base with sample data and ready-to-use script." />}}
 
 ## Advantages of SQL queries
@@ -72,6 +74,10 @@ rows = base.query(f"SELECT COUNT(*) AS count, SUM(Amount) AS revenue, AVG(Amount
 r = rows[0]
 print(f"  {r['count']} orders, {r['revenue']} total revenue, {r['avg_order']:.2f} avg order value")
 ```
+
+## Example output
+
+![SQL Queries output](sql-queries-output.png)
 
 ## SQL syntax in SeaTable
 

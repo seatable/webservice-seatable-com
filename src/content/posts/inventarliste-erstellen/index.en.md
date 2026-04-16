@@ -5,6 +5,7 @@ seo:
     title: 'Create an inventory list - record stocks accurately'
     description: 'Record your business inventory accurately! Gain full control over your assets and optimise business processes'
 date: 2024-02-23
+lastmod: '2025-01-10'
 categories:
     - 'best-practice'
 tags:

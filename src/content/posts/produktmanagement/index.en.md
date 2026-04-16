@@ -2,6 +2,7 @@
 title: 'With these 4 steps to perfect product management - SeaTable'
 description: 'From idea to sales analysis: Discover the four key steps to effective product management. Structure your data, connect teams, and leverage the right tools to ensure your products succeed in a competitive market—simple and efficient.'
 date: 2021-04-29
+lastmod: '2023-07-11'
 categories:
     - 'best-practice'
 tags: 

@@ -2,7 +2,7 @@
 title: '20 ideas de contenido para las redes sociales que siempre funcionan'
 description: 'Hay algo especialmente importante para tener éxito en las redes sociales: publicar contenidos con regularidad. Los algoritmos de Instagram y compañía penalizan inmediatamente la inactividad y limitan su visibilidad. Por lo tanto, es importante alimentar el algoritmo con regularidad. En este artículo, hemos reunido algunas ideas de contenido para publicaciones en redes sociales que puede poner en práctica de forma rápida y sencilla.'
 date: 2024-01-24
-lastmod: '2025-02-13'
+lastmod: '2025-11-14'
 url: '/es/ideas-contenido'
 aliases:
     - /es/content-ideen

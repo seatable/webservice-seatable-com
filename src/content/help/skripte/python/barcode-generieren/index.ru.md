@@ -6,11 +6,28 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/ru/pomoshch/python-generatsiya-shtrikh-kodov'
+seo:
+    title: 'Python: Генерация штрих-кодов в SeaTable'
+    description: 'Конвертируйте текст в изображения штрих-кодов (Code 128) и сохраняйте их в SeaTable с помощью этого скрипта Python.'
 ---
 
-Этот скрипт преобразует текстовые значения в изображения штрих-кодов формата Code 128 и сохраняет их как изображения в SeaTable.
 
-## The complete script
+Этот скрипт преобразует текстовые значения (например, идентификаторы продуктов, серийные номера) в изображения штрих-кодов формата Code 128 и сохраняет их как изображения в SeaTable. Скрипт обрабатывает все строки и пропускает те, которые уже содержат штрих-код. Он подходит для ручного запуска или как автоматизация.
+
+![Barcode Generator in SeaTable](barcode-generator.png)
+
+{{< dtable-download name="Barcode Generator" file="/downloads/python-examples/barcode-generator.dtable" text="База с примерами данных и готовым скриптом для непосредственного тестирования." />}}
+
+## Предварительные требования
+
+Таблица должна содержать минимум два столбца:
+
+- **Текстовый столбец** со значением, которое будет закодировано как штрих-код (например, «Product ID»)
+- **Столбец изображений**, в который будет сохранён сгенерированный штрих-код (например, «Barcode»)
+
+## Скрипт
+
+Адаптируйте три переменные в начале под структуру вашей таблицы. Внешний вид штрих-кода можно настроить через `options` (ширина, высота, размер шрифта и т.д.).
 
 ```python
 from seatable_api import Base, context
@@ -45,6 +62,14 @@ for row in rows:
 print("Barcodes generated.")
 ```
 
-Adjust `TEXT_COLUMN` and `IMAGE_COLUMN` to match your column names. You can customize the barcode appearance by modifying the options (module_width, module_height, font_size, etc.).
+## Запуск
 
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
+Скрипт можно запустить тремя способами:
+
+- **Вручную** в Python-редакторе базы
+- **Через автоматизацию** (например, по расписанию или при создании новых строк)
+- **Через кнопку** — для этого скрипт нужно адаптировать для обработки только текущей строки
+
+Подробнее об этом [здесь]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
+
+Полный справочник функций доступен в [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

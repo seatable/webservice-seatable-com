@@ -2,7 +2,7 @@
 title: '20 content ideas for social media that always work'
 description: 'One thing is particularly important for a successful social media presence: posting content regularly. The algorithms of Instagram and co. immediately penalize inactivity and limit your visibility. It is therefore important to feed the algorithm regularly. In this article, we have put together some content ideas for social media posts that you can implement quickly and easily.'
 date: 2024-01-24
-lastmod: '2025-02-13'
+lastmod: '2025-11-14'
 url: '/content-ideas'
 aliases:
     - /content-ideen

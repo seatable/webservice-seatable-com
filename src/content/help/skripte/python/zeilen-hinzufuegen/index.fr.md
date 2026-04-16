@@ -11,16 +11,26 @@ seo:
     description: 'Utilisez ce script Python pour ajouter automatiquement des entrées récurrentes dans votre base SeaTable avec vérification des doublons.'
 ---
 
-Ce script ajoute automatiquement des entrées de dépenses mensuelles dans un tableau. Il vérifie si des entrées existent déjà pour le mois en cours et n'en crée de nouvelles que si nécessaire. Il crée également automatiquement les options de sélection manquantes.
 
-## How it works
+Ce script crée automatiquement des entrées mensuelles récurrentes dans une table. Il vérifie par requête SQL si des entrées existent déjà pour le mois en cours et ne crée que les manquantes. Vous pouvez ainsi le configurer comme automation planifiée (par ex. le 1er de chaque mois) sans créer de doublons.
 
-1. The script calculates the first day of the current month
-2. It checks if entries for "Office supplies" and "Software licenses" already exist
-3. If a select option doesn't exist yet, it creates it
-4. Only then does it add the new row
+![Monthly Expenses in SeaTable](monthly-expenses.png)
 
-## The complete script
+{{< dtable-download name="Monthly Expenses" file="/downloads/python-examples/monthly-expenses.dtable" text="Base avec données d'exemple et script prêt à l'emploi pour essayer directement." />}}
+
+## Prérequis
+
+La table nécessite au moins les colonnes suivantes :
+
+- **Category** (Sélection simple) — type d'entrée
+- **Description** (Texte) — description
+- **Amount** (Nombre) — montant
+- **Month** (Date) — mois de facturation
+- **Type** (Sélection simple) — par ex. Expense ou Income
+
+## Le script
+
+Adaptez `TABLE_NAME` et les entrées dans `ENTRIES` à la structure de votre table. Les valeurs des colonnes de sélection simple sont automatiquement créées comme nouvelles options si elles n'existent pas encore.
 
 ```python
 from seatable_api import Base, context, dateutils
@@ -52,6 +62,4 @@ for entry in ENTRIES:
         print(f"Skipped (already exists): {entry['Category']}")
 ```
 
-Adjust the column names and values to match your table structure. The script can be started manually, via a button, or via automation. Learn more [here]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
-
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
+Pour la référence complète des fonctions, consultez le [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

@@ -1,7 +1,7 @@
 ---
 title: 'Supprimer des automatisations'
 date: 2022-12-06
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
 author: 'nsc2'

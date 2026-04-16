@@ -1,15 +1,15 @@
 ---
-title : 'La vue de calendrier'
-date : 2025-12-03
-lastmod : '2025-12-03'
-categories :
+title: 'La vue de calendrier'
+date: 2025-12-03
+lastmod: '2025-12-03'
+categories:
     - 'grundlagen-von-ansichten'
-author : 'kgr'
-url : '/fr/aide/vue-de-calendrier'
-seo :
-    title : 'Vue de Calendrier dans SeaTable – Utiliser la vue chronologique'
-    description : "La vue Calendrier de SeaTable affiche vos rendez-vous par année, mois, semaine, jour ou dans l'agenda. Configuration complète et conseils."
-weight : 13
+author: 'kgr'
+url: '/fr/aide/vue-de-calendrier'
+seo:
+    title: 'Vue de Calendrier dans SeaTable – Utiliser la vue chronologique'
+    description: "La vue Calendrier de SeaTable affiche vos rendez-vous par année, mois, semaine, jour ou dans l'agenda. Configuration complète et conseils."
+weight: 13
 ---
 
 La vue de calendrier affiche les données d'un tableau sous forme de **calendrier**. Vous pouvez obtenir une vue d'ensemble de **différentes périodes (année, mois, semaine, jour)** ou afficher des rendez-vous sous forme de **agenda** sous forme de liste.

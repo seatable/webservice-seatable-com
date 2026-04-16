@@ -16,6 +16,10 @@ weight: 4
 
 Cet article vous présente un script Python qui permet d'afficher la métastructure complète d'une base. Ceci est par exemple utile si vous avez une question sur une base dans le [forum de la communauté](https://forum.seatable.com/) et que vous souhaitez décrire la structure de votre base de manière simple et rapide sans avoir recours à des captures d'écran.
 
+![Sortie de la métastructure dans SeaTable](base-metadata.png)
+
+{{< dtable-download name="Base Metadata" file="/downloads/python-examples/base-metadata.dtable" text="Base avec plusieurs tables et liens pour essayer." />}}
+
 ## La métastructure d'une base
 
 La métastructure d'une base décrit les tableaux, les colonnes et les vues d'une base. Les entrées et les enregistrements dans les lignes ne sont pas inclus dans la métastructure. La structure JSON suivante décrit une base relativement simple avec seulement un tableau, deux colonnes et une vue.
