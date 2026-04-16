@@ -8,13 +8,26 @@ author: 'cdb'
 url: '/help/python-generate-qr-codes'
 seo:
     title: 'Python: Generate QR codes in SeaTable'
-    description: 'Generate QR codes from text or URLs and store them as images in SeaTable with this Python script.'
+    description: 'Generate QR codes from text or URLs and store them as images directly in SeaTable with this Python script.'
 ---
 
 
-This script generates QR codes from text content (e.g., URLs, product IDs) stored in a SeaTable column and saves the resulting images back into an image column. You can control whether existing QR codes should be overwritten.
+This script reads text content (e.g. URLs, product IDs) from a column, generates QR code images and stores them in an image column. The script iterates through all rows in the table and is therefore suitable for manual execution or as an automation — not as a button script.
 
-## The complete script
+![QR Code Generator in SeaTable](qr-code-generator.png)
+
+{{< dtable-download name="QR Code Generator" file="/downloads/python-examples/qr-code.dtable" text="Base with sample data and ready-made script to try out directly." />}}
+
+## Prerequisites
+
+The table requires at least two columns:
+
+- A **text** or **URL column** with the content to be encoded as a QR code.
+- An **image column** where the generated QR code will be stored.
+
+## The script
+
+Adjust the four variables at the beginning to match your table structure. The script skips rows that have no text value or already contain a QR code. Set `OVERWRITE = True` to regenerate existing QR codes.
 
 ```python
 from seatable_api import Base, context
@@ -51,6 +64,14 @@ for row in rows:
 print("QR codes generated.")
 ```
 
-Set `OVERWRITE = True` if you want to regenerate existing QR codes. Adjust `TEXT_COLUMN` and `IMAGE_COLUMN` to match your column names.
+## Execution
+
+The script can be started in three ways:
+
+- **Manually** in the Python editor of the base
+- **Via automation** (e.g. scheduled or on new rows)
+- **Via button** — for this the script would need to be adapted to process only the current row
+
+Learn more about this [here]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
 
 For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
