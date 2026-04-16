@@ -11,16 +11,26 @@ seo:
     description: 'Используйте этот скрипт Python для автоматического добавления повторяющихся записей в базу SeaTable с проверкой дубликатов.'
 ---
 
-Этот скрипт автоматически добавляет ежемесячные записи расходов в таблицу. Он проверяет, существуют ли записи за текущий месяц, и создаёт новые только при необходимости. Также автоматически создаёт отсутствующие варианты выбора.
 
-## How it works
+Этот скрипт автоматически создаёт повторяющиеся ежемесячные записи в таблице. Он проверяет с помощью SQL-запроса, существуют ли записи за текущий месяц, и создаёт только отсутствующие. Таким образом, вы можете настроить его как запланированную автоматизацию (например, 1-го числа каждого месяца) без создания дубликатов.
 
-1. The script calculates the first day of the current month
-2. It checks if entries for "Office supplies" and "Software licenses" already exist
-3. If a select option doesn't exist yet, it creates it
-4. Only then does it add the new row
+![Monthly Expenses in SeaTable](monthly-expenses.png)
 
-## The complete script
+{{< dtable-download name="Monthly Expenses" file="/downloads/python-examples/monthly-expenses.dtable" text="База с примерами данных и готовым скриптом для непосредственного тестирования." />}}
+
+## Предварительные требования
+
+Таблица должна содержать минимум следующие столбцы:
+
+- **Category** (Одиночный выбор) — тип записи
+- **Description** (Текст) — описание
+- **Amount** (Число) — сумма
+- **Month** (Дата) — расчётный месяц
+- **Type** (Одиночный выбор) — например, Expense или Income
+
+## Скрипт
+
+Адаптируйте `TABLE_NAME` и записи в `ENTRIES` под структуру вашей таблицы. Значения для столбцов одиночного выбора автоматически создаются как новые варианты, если они ещё не существуют.
 
 ```python
 from seatable_api import Base, context, dateutils
@@ -52,6 +62,4 @@ for entry in ENTRIES:
         print(f"Skipped (already exists): {entry['Category']}")
 ```
 
-Adjust the column names and values to match your table structure. The script can be started manually, via a button, or via automation. Learn more [here]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
-
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
+Полный справочник функций доступен в [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
