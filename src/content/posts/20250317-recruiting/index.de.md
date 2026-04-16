@@ -8,7 +8,7 @@ date: 2025-03-17
 categories:
     - 'best-practice'
 tags:
-    - 'Bewerber- & Talentmanagement'
+    - 'Bewerber- und Talentmanagement'
 color: '#d4a2ee'
 url: '/de/recruiting/'
 ---
