@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Perform digital SWOT analysis with SeaTable'
       subtitle: 'Your advantages at a glance'
-      description: 'The AI no-code solution SeaTable impresses with its flexibility, transparency, and real-time collaboration. With our SWOT analysis template, you benefit from real-time updates, visual Kanban prioritization, and direct strategy derivation—for business planning that really works: in the project portfolio, in marketing strategies, in day-to-day operations, and at the C-level. If you have previously used a SWOT analysis template [Excel]({{< relref "pages/excel-alternative" >}}) you can import your data in just a few steps and continue working with it in SeaTable as a modern, collaborative solution.'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility, transparency, and real-time collaboration. With our SWOT analysis template, you benefit from real-time updates, visual Kanban prioritization, and direct strategy derivation—for business planning that really works: in the project portfolio, in marketing strategies, in day-to-day operations, and at the C-level. If you have previously used a SWOT analysis template [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) you can import your data in just a few steps and continue working with it in SeaTable as a modern, collaborative solution.'
       items:
       - text: 'Real-time collaboration: Your entire team works synchronously on a [SWOT analysis]({{< relref "posts/swot-analyse" >}}) – from project management and marketing to operations and management.'
       - text: 'Make strategies visible: With the integrated Kanban view, you can visualize SWOT factors and prioritize them using drag-and-drop—ideal for workshops, board presentations, and strategic debates.'
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-supported strategy development with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your SWOT analysis to the next level. Automate recurring tasks and save valuable time in strategy development.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your SWOT analysis to the next level. Automate recurring tasks and save valuable time in strategy development.'
       items:
       - headline: 'Multilingual SWOT analyses'
         text: 'Automatically translate SWOT factors into other languages with a custom prompt—ideal for international teams or global strategy workshops. Each team member works in their own language, and the AI consolidates the results centrally in a shared analysis.'

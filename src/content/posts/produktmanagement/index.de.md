@@ -38,7 +38,7 @@ Zu den Aufgaben des Produktmanagements gehören alle Stadien, die ein Produkt du
 - **Konzeption**: Strategiebildung zu Markt, Preis, Distribution, Kommunikation; Prototyp, Kostenübersicht
 - **Umsetzung**: technische Umsetzung, Strategieumsetzung, Produktlaunch
 
-Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
+Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
 
 ### Herausforderungen im Produktmanagement
 
@@ -72,7 +72,7 @@ Im Produktdatenblatt finden Sie alle wichtigen Informationen rund um das Produkt
 
 ### 3\. Alle Kontakte im Blick
 
-Im Produktentwicklungsprozess durchläuft das Produkt eine ganze Reihe an verschiedenen Abteilungen durch. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), Vertrieb, Produktionsstätte, Fotografie und auch der Handel sind wichtige alltägliche Kontaktpunkte in der Arbeit eines Produktmanagers. Praktisch ist es dann, wenn alle Kontaktdaten an einem Ort gesammelt und so für jeden zugänglich sind. Für die Urlaubsvertretung ist dies genau so hilfreich wie für die neue Auszubildende! Zudem können auch Informationen hinzugefügt werden, wie etwa Gesprächsprotokolle, wichtige Dokumente oder bevorstehende Telefontermine. Mit SeaTable ist das Erstellen eines Adressbuchs innerhalb einer Tabelle absolut kein Problem.
+Im Produktentwicklungsprozess durchläuft das Produkt eine ganze Reihe an verschiedenen Abteilungen durch. [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), Vertrieb, Produktionsstätte, Fotografie und auch der Handel sind wichtige alltägliche Kontaktpunkte in der Arbeit eines Produktmanagers. Praktisch ist es dann, wenn alle Kontaktdaten an einem Ort gesammelt und so für jeden zugänglich sind. Für die Urlaubsvertretung ist dies genau so hilfreich wie für die neue Auszubildende! Zudem können auch Informationen hinzugefügt werden, wie etwa Gesprächsprotokolle, wichtige Dokumente oder bevorstehende Telefontermine. Mit SeaTable ist das Erstellen eines Adressbuchs innerhalb einer Tabelle absolut kein Problem.
 
 ![Kontaktdaten von Lieferanten und Kunden sind sehr wichtig für ein reibungsloses Produktmanagement](Suppliers-and-Contacts.jpg)
 

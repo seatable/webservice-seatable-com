@@ -50,7 +50,7 @@ Content creators know the game of constantly being on the lookout for new conten
 
 **9\. intelligent tables with SeaTable**
 
-SeaTable is a mixture of intelligent spreadsheet program and database, which can also be used free of charge. Up to 2.000 rows can be created in different bases - the functions of SeaTable are fully usable and you can test the various fields of application yourself. Whether project management, in [marketing]({{< relref "pages/industry-solutions/marketing" >}}) or HR, for sorting and organizing data, almost anything is possible with SeaTable.
+SeaTable is a mixture of intelligent spreadsheet program and database, which can also be used free of charge. Up to 2.000 rows can be created in different bases - the functions of SeaTable are fully usable and you can test the various fields of application yourself. Whether project management, in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) or HR, for sorting and organizing data, almost anything is possible with SeaTable.
 
 With helpful plugins such as the Kanban board, an excellent alternative to the above-mentioned project management tool Trello can even be created. In addition, **SeaTable can be linked to Zapier** and in this way can record, sort and further use all kinds of data in a fully automated way. [Registration]({{< relref "pages/registration" >}}) is free and lightning fast - just give it a try!
 

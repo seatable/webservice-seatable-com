@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Modèle de calendrier éditorial à utiliser en ligne'
       subtitle: 'Vos avantages en bref'
-      description: 'La no-code solution IA SeaTable offre flexibilité, automatisation et collaboration en temps réel. Grâce à des modèles de planification éditoriale et de contenu, vous pouvez gérer l ensemble de votre contenu multicanal de manière centralisée, garder un œil sur l état d avancement et les capacités, et créer une base uniforme pour votre marketing de contenu, de manière plus efficace qu une approche classique avec un plan éditorial Excel ou des systèmes statiques. Utilisez SeaTable comme un [outil marketing puissant]({{< relref "pages/industry-solutions/marketing" >}}) et les modèles deviennent des processus marketing évolutifs.'
+      description: 'La no-code solution IA SeaTable offre flexibilité, automatisation et collaboration en temps réel. Grâce à des modèles de planification éditoriale et de contenu, vous pouvez gérer l ensemble de votre contenu multicanal de manière centralisée, garder un œil sur l état d avancement et les capacités, et créer une base uniforme pour votre marketing de contenu, de manière plus efficace qu une approche classique avec un plan éditorial Excel ou des systèmes statiques. Utilisez SeaTable comme un [outil marketing puissant]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) et les modèles deviennent des processus marketing évolutifs.'
       items:
       - text: "Toujours à jour : grâce aux commentaires, à l'historique des modifications et aux mises à jour en temps réel, votre planification éditoriale reste toujours à jour, de l'idée initiale à la publication finale."
       - text: "**Accès depuis n'importe où :** en tant que calendrier éditorial numérique, votre plan de contenu est accessible à tout moment, que ce soit au bureau, en télétravail ou en déplacement, y compris pour les agences et les freelances."
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: "Planification éditoriale assistée par l'intelligence artificielle"
       subtitle: 'Automatisation intelligente dans le marketing de contenu'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui automatisent la planification éditoriale, la création de contenu et l évaluation. Votre modèle de planification éditoriale devient ainsi un centre de contenu intelligent qui prend en charge les tâches routinières et libère du temps aux équipes marketing pour qu elles puissent se consacrer à la créativité et à la stratégie.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui automatisent la planification éditoriale, la création de contenu et l évaluation. Votre modèle de planification éditoriale devient ainsi un centre de contenu intelligent qui prend en charge les tâches routinières et libère du temps aux équipes marketing pour qu elles puissent se consacrer à la créativité et à la stratégie.'
       items:
       - headline: 'Classification du contenu avec Classify'
         text: "Avec Classify, vous pouvez classer automatiquement les nouveaux contenus dans le calendrier éditorial par canal, format, thème ou phase d'entonnoir et structurer votre plan de contenu sans effort manuel. Cela vous permet d'identifier les types de contenu que vous utilisez le plus et de repérer les lacunes dans le calendrier éditorial."

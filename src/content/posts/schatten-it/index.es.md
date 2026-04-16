@@ -29,7 +29,7 @@ register:
 
 La TI en la sombra se refiere a los sistemas de TI y las aplicaciones de software que los empleados de los departamentos de una empresa utilizan **sin el conocimiento del departamento de TI** para complementar o eludir la infraestructura de TI oficial.
 
-Por definición, la TI en la sombra no está integrada ni técnica ni estratégicamente en la [gestión de servicios de TI]({{< relref "pages/industry-solutions/software-development" >}}), lo que conlleva riesgos de seguridad y otros problemas. Derivado del inglés **Shadow IT**, el término pretende expresar el hecho de que los empleados dejan a oscuras a las instancias superiores de la empresa sobre el uso de herramientas y procesos digitales ejecutados en secreto.
+Por definición, la TI en la sombra no está integrada ni técnica ni estratégicamente en la [gestión de servicios de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), lo que conlleva riesgos de seguridad y otros problemas. Derivado del inglés **Shadow IT**, el término pretende expresar el hecho de que los empleados dejan a oscuras a las instancias superiores de la empresa sobre el uso de herramientas y procesos digitales ejecutados en secreto.
 
 ![shadow IT](shadow-it.jpg)
 
@@ -53,7 +53,7 @@ Los empleados tampoco deben utilizar **messengers** (por ejemplo, WhatsApp), **c
 
 ### Gestión de datos
 
-También hay ejemplos de TI en la sombra en los que es deseable el uso del propio software. Imaginemos una empresa que depende por completo de Microsoft: el departamento de contabilidad utiliza bases de datos Access, el departamento de RRHH mantiene los datos de los empleados en hojas de cálculo [Excel]({{< relref "pages/excel-alternative" >}}) y el departamento de ventas registra los datos de los clientes en un [CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}) de Microsoft Dynamics. Esto revela otro problema: si TI no coordina el desarrollo, cada departamento cocina su propia sopa. El resultado es un **caos de procesos diferentes, aplicaciones autodesarrolladas y silos de datos** que no están integrados entre sí y son desconocidos para el resto de la empresa.
+También hay ejemplos de TI en la sombra en los que es deseable el uso del propio software. Imaginemos una empresa que depende por completo de Microsoft: el departamento de contabilidad utiliza bases de datos Access, el departamento de RRHH mantiene los datos de los empleados en hojas de cálculo [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) y el departamento de ventas registra los datos de los clientes en un [CRM]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) de Microsoft Dynamics. Esto revela otro problema: si TI no coordina el desarrollo, cada departamento cocina su propia sopa. El resultado es un **caos de procesos diferentes, aplicaciones autodesarrolladas y silos de datos** que no están integrados entre sí y son desconocidos para el resto de la empresa.
 
 ### Hardware
 

@@ -18,7 +18,7 @@ register:
 
 ## What is Airtable?
 
-Airtable is a **cloud-based collaboration platform** and a **blend of spreadsheet and database software**. Depending on your point of view, the question "What is Airtable?" can therefore be answered differently: As you usually record and structure your data in tables, it is often regarded as a more powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}). However, Airtable is also referred to as a [no-code database]({{< relref "posts/20250307-low-code" >}}), which can be used to create, manage and use databases without in-depth programming knowledge.
+Airtable is a **cloud-based collaboration platform** and a **blend of spreadsheet and database software**. Depending on your point of view, the question "What is Airtable?" can therefore be answered differently: As you usually record and structure your data in tables, it is often regarded as a more powerful [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). However, Airtable is also referred to as a [no-code database]({{< relref "posts/20250307-low-code" >}}), which can be used to create, manage and use databases without in-depth programming knowledge.
 
 ### What is Airtable used for?
 
@@ -56,7 +56,7 @@ Based on hundreds of online reviews in which users describe their Airtable exper
 
 1. **Hardly any predefined structures**: This is the downside of flexibility. You are using a construction kit and need certain conceptual skills to create meaningful data structures. Users who have little experience with Airtable or generally have no prior knowledge of databases and tables may feel overwhelmed by the number of functions, especially at the beginning.
    
-2. **More time required at the beginning**: This disadvantage goes hand in hand with the previously mentioned point. Unlike special industry software, you can adapt Airtable flexibly to your requirements. However, building new workflows from scratch usually takes longer at the beginning. Compared to [Asana]({{< relref "pages/asana-alternative" >}}), for example, Airtable can only be recommended to a limited extent as a project management tool, as you have to put a lot of things together yourself.
+2. **More time required at the beginning**: This disadvantage goes hand in hand with the previously mentioned point. Unlike special industry software, you can adapt Airtable flexibly to your requirements. However, building new workflows from scratch usually takes longer at the beginning. Compared to [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), for example, Airtable can only be recommended to a limited extent as a project management tool, as you have to put a lot of things together yourself.
    
 3. **Insufficient data protection**: Time and again, Airtable's data protection comes in for harsh criticism. The storage of customer data on cloud servers in the USA and the lack of an option to install Airtable on-premises make Airtable unattractive for many companies with higher security requirements. For companies in the EU, the use of the software is even legally questionable, as Airtable does not fully guarantee GDPR compliance.
    
@@ -84,7 +84,7 @@ If you are now thinking about ways in which you might be able to use Airtable in
 As an alternative to Airtable, the no-code solution [SeaTable]({{< relref "/" >}}) comes into play here. It is in no way inferior to the competition from the USA, but offers more functions than Airtable free of charge and is also significantly cheaper in the paid subscriptions. You are free to choose whether you want to use the GDPR-compliant [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), which is hosted exclusively on German servers of a Swiss provider, or enjoy the full data sovereignty of an on-premises installation with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 {{< /warning >}}
 
-{{< button label="Discover the No. 1 Airtable alternative" link="pages/airtable-alternative" >}}
+{{< button label="Discover the No. 1 Airtable alternative" link="pages/landing-pages/alternatives/airtable-alternative" >}}
 
 ## Airtable pricing and plans
 

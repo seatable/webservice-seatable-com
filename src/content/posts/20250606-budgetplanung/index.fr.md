@@ -39,7 +39,7 @@ La budgétisation - également connue sous le nom de planification budgétaire o
 
 ## La budgétisation va de pair avec la planification financière
 
-**La budgétisation opérationnelle** fait partie de la [planification financière]({{< relref "posts/20250617-finanzplanung" >}}) à court terme, dans laquelle vous estimez vos revenus et dépenses futurs pour l'année à venir. Vous utilisez les données de l'exercice en cours et/ou de l'exercice précédent pour établir des prévisions pour les évolutions futures. Contrairement au [plan financier]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), la budgétisation se concentre généralement sur les dépenses, indépendamment de l'origine de l'argent.
+**La budgétisation opérationnelle** fait partie de la [planification financière]({{< relref "posts/20250617-finanzplanung" >}}) à court terme, dans laquelle vous estimez vos revenus et dépenses futurs pour l'année à venir. Vous utilisez les données de l'exercice en cours et/ou de l'exercice précédent pour établir des prévisions pour les évolutions futures. Contrairement au [plan financier]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), la budgétisation se concentre généralement sur les dépenses, indépendamment de l'origine de l'argent.
 
 **La planification budgétaire stratégique** pour les deux à cinq prochaines années est également très courante. Cela vous aide à prendre des décisions commerciales à long terme qui permettront à votre entreprise d'aller de l'avant et d'assurer son succès, comme par exemple l'ouverture de nouveaux sites. Cependant, plus l'horizon de planification est lointain, plus il est difficile et incertain de faire des prévisions précises.
 
@@ -122,7 +122,7 @@ La planification budgétaire pour l'ensemble de l'entreprise est faite à partir
 
 Afin de rendre le budget transparent, il est important d'impliquer tous les services dans la planification budgétaire à un stade précoce. Les domaines importants sont la budgétisation du personnel (recrutement, salaires, etc.), la budgétisation du marketing et la budgétisation informatique. Ces services gèrent généralement des budgets importants de leur propre chef et sont indispensables à la planification budgétaire stratégique.
 
-Ci-dessous, nous examinons de plus près la planification budgétaire dans [IT]({{< relref "pages/industry-solutions/software-development" >}}) et [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}). Si vous êtes intéressé par la [planification du personnel]({{< relref "personalplanung" >}}) ou un [plan marketing]({{< relref "posts/20250318-marketingplan" >}}), cliquez sur les articles liés pour plus d'informations.
+Ci-dessous, nous examinons de plus près la planification budgétaire dans [IT]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) et [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). Si vous êtes intéressé par la [planification du personnel]({{< relref "personalplanung" >}}) ou un [plan marketing]({{< relref "posts/20250318-marketingplan" >}}), cliquez sur les articles liés pour plus d'informations.
 
 ### Planification du budget informatique
 
@@ -159,7 +159,7 @@ Sur la base de ces analyses et de ces objectifs, les managers communiquent le mo
 
 ## Créez vos plans budgétaires avec SeaTable
 
-Beaucoup de gens utilisent des [feuilles de calcul Excel]({{< relref "pages/excel-alternative" >}}) pour planifier leur budget, mais celles-ci n'offrent que des fonctionnalités et des options d'affichage limitées. Dans **SeaTable** vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et commencer directement avec le modèle ci-dessus. Vous pouvez regrouper et évaluer tous les centres de coûts, les objectifs, les budgets et les dépenses dans une telle base de données centrale.
+Beaucoup de gens utilisent des [feuilles de calcul Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) pour planifier leur budget, mais celles-ci n'offrent que des fonctionnalités et des options d'affichage limitées. Dans **SeaTable** vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et commencer directement avec le modèle ci-dessus. Vous pouvez regrouper et évaluer tous les centres de coûts, les objectifs, les budgets et les dépenses dans une telle base de données centrale.
 
 Donnez à vos managers la responsabilité du budget et utilisez **SeaTable comme un outil de collaboration** pour travailler sur le budget avec plusieurs départements en même temps. Cela vous permet d'ajuster le plan budgétaire tout au long de l'année, de suivre le **enregistrement des dépenses en temps réel** et d'avoir toujours une vue d'ensemble du budget actuel.
 

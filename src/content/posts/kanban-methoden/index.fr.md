@@ -120,7 +120,7 @@ Kanban se nourrit de l'amélioration continue. Ne vous contentez pas de recueill
 
 ## Comment pouvez-vous utiliser la méthode Kanban ?
 
-Examinons de plus près comment vous pouvez appliquer la méthode Kanban. En suivant le premier principe de base, sélectionnez n'importe quel flux de travail existant. En principe, vous pouvez également créer votre tableau Kanban sur un tableau blanc avec des notes autocollantes ou créer quelque chose dans Excel. Toutefois, un tableau numérique est plus transparent et plus flexible, comme le proposent déjà la plupart des [systèmes de gestion du travail]({{< relref "pages/industry-solutions/individual" >}}), parfois gratuitement. Suivez ces étapes simples :
+Examinons de plus près comment vous pouvez appliquer la méthode Kanban. En suivant le premier principe de base, sélectionnez n'importe quel flux de travail existant. En principe, vous pouvez également créer votre tableau Kanban sur un tableau blanc avec des notes autocollantes ou créer quelque chose dans Excel. Toutefois, un tableau numérique est plus transparent et plus flexible, comme le proposent déjà la plupart des [systèmes de gestion du travail]({{< relref "pages/landing-pages/industry-solutions/individual" >}}), parfois gratuitement. Suivez ces étapes simples :
 
 1\. Créez un tableau vide : Le tableau est la base avec laquelle vous travaillerez par la suite. Prenez le temps de réfléchir aux étapes de travail que vous souhaitez cartographier au lieu d'inonder le tableau avec l'ensemble de votre carnet de commandes. Si vous utilisez une solution sans code telle que SeaTable, vous pouvez utiliser le plugin Kanban.
 

@@ -94,7 +94,7 @@ sections:
         image: '/images/template_page_energytracker_03.png'
         image_alt: 'Alle Verträge auf einen Blick in der Galerie-Ansicht im Energy Tracker'
       - headline: 'Kostenbarometer: Abschläge vs. Verbrauch'
-        text: 'Ihr Energy Tracker besteht aus einer Datenbank mit [Excel-ähnlicher Tabellenstruktur]({{< relref "pages/excel-alternative" >}}) und einer **No-Code App als Frontend**. Hier finden Sie das Herzstück Ihres Energy Trackers: die Analyse-Dashboards. Vergleichen Sie Ihren Verbrauch und die tatsächlichen Kosten auf Monatsbasis, stellen Sie Ihre voraussichtliche Jahreszahlung den tatsächlichen Kosten gegenüber und legen Sie per Drag-and-Drop ganz einfach weitere Auswertungen an.'
+        text: 'Ihr Energy Tracker besteht aus einer Datenbank mit [Excel-ähnlicher Tabellenstruktur]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) und einer **No-Code App als Frontend**. Hier finden Sie das Herzstück Ihres Energy Trackers: die Analyse-Dashboards. Vergleichen Sie Ihren Verbrauch und die tatsächlichen Kosten auf Monatsbasis, stellen Sie Ihre voraussichtliche Jahreszahlung den tatsächlichen Kosten gegenüber und legen Sie per Drag-and-Drop ganz einfach weitere Auswertungen an.'
         image: '/images/template_page_energytracker_02.png'
         image_alt: 'Energy Tracker mit Kostenbarometer und Ziel-Ist-Vergleich'
       - headline: 'Automatisierungen und Benachrichtigungen: Weniger manueller Aufwand'
@@ -114,7 +114,7 @@ sections:
       weight: 16
       title: 'Ihr Energy Tracker mit integrierten KI-Funktionen'
       subtitle: 'Smarter Alltagshelfer'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten [KI-unterstützten Automatisierungen]({{< relref "pages/ai-automations" >}}). Fassen Sie wichtige Vertragsinformationen zusammen, extrahieren Sie relevante Informationen wie Kündigungsdaten oder Arbeitspreisgarantien oder lassen Sie Kündigungsschreiben vorformulieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten [KI-unterstützten Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Fassen Sie wichtige Vertragsinformationen zusammen, extrahieren Sie relevante Informationen wie Kündigungsdaten oder Arbeitspreisgarantien oder lassen Sie Kündigungsschreiben vorformulieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
         text: 'Mit der Summarize-Funktion erstellen Sie automatisch kurze Zusammenfassungen, z. B. von Ihren Vertragsunterlagen oder von Tarifanpassungen. Für einen schnellen Überblick.'

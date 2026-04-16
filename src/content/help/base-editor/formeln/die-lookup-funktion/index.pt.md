@@ -18,7 +18,7 @@ A função de pesquisa permite-lhe exibir valores adicionais de uma tabela já l
 
 ## Quando é que precisa da fórmula de pesquisa?
 
-A função de pesquisa deve ser utilizada sempre que se pretenda cruzar informações armazenadas em diferentes tabelas. Digamos que está a utilizar o SeaTable para a [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}), onde os projectos são armazenados numa tabela e as tarefas associadas ao projecto são armazenadas noutra tabela. Cada projecto é então ligado a um conjunto de tarefas.
+A função de pesquisa deve ser utilizada sempre que se pretenda cruzar informações armazenadas em diferentes tabelas. Digamos que está a utilizar o SeaTable para a [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), onde os projectos são armazenados numa tabela e as tarefas associadas ao projecto são armazenadas noutra tabela. Cada projecto é então ligado a um conjunto de tarefas.
 
 ![Ligação de tarefas de projecto a um projecto](images/linked-tables-seatable.png)
 

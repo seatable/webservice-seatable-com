@@ -22,7 +22,7 @@ Los empleados de las empresas tienen que cambiar a diario entre diferentes aplic
 
 ### Puntos clave
 
-* El inicio de sesión único (SSO) **aumenta la seguridad informática** en su [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) mediante una autenticación centralizada de usuarios y una supervisión simplificada del acceso. 
+* El inicio de sesión único (SSO) **aumenta la seguridad informática** en su [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) mediante una autenticación centralizada de usuarios y una supervisión simplificada del acceso. 
 * El uso de procedimientos de inicio de sesión único **aumenta la productividad** al reducir los inicios de sesión con contraseña.
 * Los protocolos habituales, como SAML, OAuth y LDAP, permiten una **integración flexible** en entornos híbridos y en la nube, como SeaTable. 
 * Las soluciones SSO con sede en la UE o locales cumplen los requisitos del RGPD y evitan la transferencia de datos a terceros países.

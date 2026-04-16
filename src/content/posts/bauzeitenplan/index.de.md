@@ -97,7 +97,7 @@ Einer der häufigsten Irrtümer ist, **alle Aufgaben als gleich wichtig zu behan
 
 Viele private Bauherren beginnen ihren Bauzeitenplan mit einer einfachen Excel-Tabelle. Für den Einstieg ist das durchaus hilfreich, doch sobald mehrere Personen beteiligt sind, wird es schnell unübersichtlich. Unterschiedliche Dateiversionen, Änderungen und fehlende Synchronisation führen oft zu Verwirrung.
 
-Mit der [KI No-Code-Plattform]({{< relref "/" >}}) können Sie Ihren Bauzeitenplan erstellen, jederzeit anpassen und mit anderen teilen. Änderungen werden automatisch übernommen, und Sie sehen sofort, wenn sich etwas verschiebt. Der [Bauzeitenplaner]({{< relref "templates/real-estate/construction-schedule" >}}) ist kostenlos und ideal für private Bauherren geeignet, die ihr [Projekt strukturiert und übersichtlich managen]({{< relref "pages/industry-solutions/project-management" >}}) möchten. 
+Mit der [KI No-Code-Plattform]({{< relref "/" >}}) können Sie Ihren Bauzeitenplan erstellen, jederzeit anpassen und mit anderen teilen. Änderungen werden automatisch übernommen, und Sie sehen sofort, wenn sich etwas verschiebt. Der [Bauzeitenplaner]({{< relref "templates/real-estate/construction-schedule" >}}) ist kostenlos und ideal für private Bauherren geeignet, die ihr [Projekt strukturiert und übersichtlich managen]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) möchten. 
 
 {{< template-box id="ef8bfa0896864e698655" >}}
 

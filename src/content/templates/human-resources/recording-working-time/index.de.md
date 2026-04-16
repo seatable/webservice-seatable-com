@@ -76,13 +76,13 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Arbeitszeiterfassung Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Mit der flexiblen, KI No-Code-Plattform SeaTable setzen Sie eine digitale Arbeitszeiterfassung Vorlage um, die sich exakt an Ihre HR-Prozesse anpasst. Ersetzen Sie klassische Stundenzettel durch automatisierte Workflows, Formular-Erfassung und Dashboards für Überstunden, Pausenzeiten, Projektzeiterfassung und Urlaubsanspruch – eine moderne Alternative zu isolierten Zeiterfassungstools oder starren Setups als [Personio Alternative]({{< relref "pages/personio-alternative" >}}).'
+      description: 'Mit der flexiblen, KI No-Code-Plattform SeaTable setzen Sie eine digitale Arbeitszeiterfassung Vorlage um, die sich exakt an Ihre HR-Prozesse anpasst. Ersetzen Sie klassische Stundenzettel durch automatisierte Workflows, Formular-Erfassung und Dashboards für Überstunden, Pausenzeiten, Projektzeiterfassung und Urlaubsanspruch – eine moderne Alternative zu isolierten Zeiterfassungstools oder starren Setups als [Personio Alternative]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}).'
       items:
       - text: '**Stets aktuell:** Alle Arbeitszeitdaten – inklusive Pausen, Urlaub, Krankheit und Überstunden – werden in Echtzeit aktualisiert. Änderungen sind jederzeit nachvollziehbar und manuelle Pflege entfällt.'
       - text: '**Zugriff von überall:** Mitarbeitende und Führungskräfte erfassen und prüfen Arbeitszeiten per Browser oder App – im Büro, Homeoffice oder unterwegs. So wird die digitale Zeiterfassung zum modernen, gesetzeskonformen Stundenzettel.'
       - text: '**Abwesenheiten im Blick:** Automatische Berechnungen und farbliche Kennzeichnungen zeigen Plus- und Minusstunden, Urlaub und Kranktage auf einen Blick. Dashboards machen die Zeiterfassung zum zentralen Steuerungsinstrument.'
       - text: '**Skalierbar:** Starten Sie mit einer einfachen Zeiterfassungsvorlage und erweitern Sie diese flexibel um Projektzeiten, Schichtpläne, Lohnexporte oder HR-Auswertungen – Ihre Lösung wächst mit dem Unternehmen.'
-      - text: '**Automatisiert & integriert:** Kombinieren Sie Ihre Arbeitszeiterfassung mit Automatisierungen, Erinnerungen und E-Mail-Benachrichtigungen für Anträge und Freigaben. So fügt sich die Zeiterfassung nahtlos in Ihre [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}) ein.'
+      - text: '**Automatisiert & integriert:** Kombinieren Sie Ihre Arbeitszeiterfassung mit Automatisierungen, Erinnerungen und E-Mail-Benachrichtigungen für Anträge und Freigaben. So fügt sich die Zeiterfassung nahtlos in Ihre [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) ein.'
       image_position: [left]
       image: '/images/template_page_arbeitszeiterfassung_01.png'
       image_alt: 'Datenbank zur digitalen Arbeitszeiterfassung mit Zeiten, Urlaub und Überstunden in SeaTable'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Arbeitszeiterfassung'
       subtitle: 'Smarte Automatisierung für HR'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Arbeitszeiterfassung Vorlage, HR-Auswertungen und Compliance-Aufgaben automatisieren. So wird Ihre Zeiterfassung Vorlage zum intelligenten Hub für Arbeitszeiten, Überstunden, Urlaubsanspruch und Projektzeiterfassung – deutlich effizienter als eine klassische Arbeitszeiterfassung in einer Excel Datei.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Arbeitszeiterfassung Vorlage, HR-Auswertungen und Compliance-Aufgaben automatisieren. So wird Ihre Zeiterfassung Vorlage zum intelligenten Hub für Arbeitszeiten, Überstunden, Urlaubsanspruch und Projektzeiterfassung – deutlich effizienter als eine klassische Arbeitszeiterfassung in einer Excel Datei.'
       items:
       - headline: 'Automatische Kategorisierung von Zeiten'
         text: 'Mit Classify werden erfasste Zeiten automatisch Projekten, Kostenstellen, Standorten oder Arbeitsmodellen zugeordnet. So behalten Sie jederzeit den Überblick, wie sich Arbeitszeiten über Teams, Aufgaben und Projekte verteilen und Ressourcen genutzt werden.'

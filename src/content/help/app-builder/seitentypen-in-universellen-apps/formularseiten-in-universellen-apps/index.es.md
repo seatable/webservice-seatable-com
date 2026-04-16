@@ -15,7 +15,7 @@ seo:
 weight: 3
 ---
 
-Puede utilizar este tipo de página para crear diferentes **formularios** que los usuarios pueden enviar. Las páginas de formularios en aplicaciones son ideales para recopilar datos de muchos usuarios diferentes. Un posible caso de uso es [registrar las horas de trabajo de sus empleados]({{< relref "pages/arbeitszeiterfassung" >}}).
+Puede utilizar este tipo de página para crear diferentes **formularios** que los usuarios pueden enviar. Las páginas de formularios en aplicaciones son ideales para recopilar datos de muchos usuarios diferentes. Un posible caso de uso es [registrar las horas de trabajo de sus empleados]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Formulario web para registrar el tiempo de trabajo de sus empleados](images/webformular-working-time.png)
 

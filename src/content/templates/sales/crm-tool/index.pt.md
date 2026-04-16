@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'Solución CRM basada en IA de SeaTable'
       subtitle: 'Automatización inteligente con IA integrada'
-      description: Con el modelo de CRM do SeaTable, se beneficia de potentes [funciones de inteligencia artificial]({{< relref "pages/ai-automations" >}}) integradas que le ayudan a sacar el máximo partido a sus datos de clientes. Automatice tareas y ahorre tiempo.
+      description: Con el modelo de CRM do SeaTable, se beneficia de potentes [funciones de inteligencia artificial]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) integradas que le ayudan a sacar el máximo partido a sus datos de clientes. Automatice tareas y ahorre tiempo.
      
       items:
       - headline: 'Clasificación con Classify'
@@ -189,7 +189,7 @@ sections:
       - q: "Posso sincronizar o meu Calendário do Google com o SeaTable?"
         a: 'Sim, o SeaTable oferece uma [integração nativa com o Google Calendar]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}). Para tal, basta que disponha do seu ID do Google Calendar e da sua chave de segurança.'   
       - q: "Actualmente estamos creciendo rápidamente. ¿SeaTable es escalable?" 
-        a: 'Por supuesto, puede adaptar SeaTable de forma flexible a las necesidades cambiantes de su [gestión de clientes]({{< relref "pages/industry-solutions/kundenmanagement" >}}) y añadir nuevos usuarios o aumentar el límite de espacio de almacenamiento. Ofrecemos tres niveles de suscripción en la [versión en la nube]({{< relref "pages/product/seatable-cloud" >}}), entre los que puede cambiar fácilmente. Si necesita más de 100 puestos de usuario, póngase en contacto con nosotros y le proporcionaremos un presupuesto personalizado.'
+        a: 'Por supuesto, puede adaptar SeaTable de forma flexible a las necesidades cambiantes de su [gestión de clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) y añadir nuevos usuarios o aumentar el límite de espacio de almacenamiento. Ofrecemos tres niveles de suscripción en la [versión en la nube]({{< relref "pages/product/seatable-cloud" >}}), entre los que puede cambiar fácilmente. Si necesita más de 100 puestos de usuario, póngase en contacto con nosotros y le proporcionaremos un presupuesto personalizado.'
       - q: "¿SeaTable ofrece asistencia gratuita para su programa CRM gratuito?" 
         a: "Sí, nuestro equipo de asistencia está disponible para responder cualquier pregunta que pueda tener sobre SeaTable o su sistema de gestión CRM. La mejor manera de hacerlo es visitar nuestro foro comunitario o ponerse en contacto con nosotros por correo electrónico." 
 --- 

@@ -22,7 +22,7 @@ Os funcionários das empresas precisam alternar diariamente entre diferentes apl
 
 ### Principais conclusões
 
-* O Single Sign-On (SSO) **aumenta a segurança de TI** no seu [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) através de uma autenticação centralizada de utilizadores e uma monitorização simplificada do acesso. 
+* O Single Sign-On (SSO) **aumenta a segurança de TI** no seu [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) através de uma autenticação centralizada de utilizadores e uma monitorização simplificada do acesso. 
 * A utilização de procedimentos de Single Sign-On **aumenta a produtividade** através da redução dos registos de palavras-passe.
 * Protocolos comuns, como SAML, OAuth e LDAP, permitem uma **integração flexível** em ambientes de nuvem e híbridos, como o SeaTable. 
 * As soluções SSO baseadas na UE ou no local cumprem os requisitos do RGPD e evitam transferências de dados para países terceiros.

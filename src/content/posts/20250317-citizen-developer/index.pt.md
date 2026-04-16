@@ -31,7 +31,7 @@ Por conseguinte, o Citizen Development é a abordagem estruturada em que os func
 
 > O termo "citizen developer" é composto pelas palavras inglesas para **"cidadão programador"** e é deliberadamente escolhido em contraste com os programadores profissionais.
 
-Um cidadão programador pode atuar como um **especialista** individual na sua área ou como membro de uma **força de trabalho**. Numa pequena empresa ou numa empresa em fase de arranque sem [TI]({{< relref "pages/industry-solutions/software-development" >}}) própria, um programador cidadão é, em primeiro lugar, alguém que desenvolve soluções práticas de TI de forma independente e com um orçamento reduzido.
+Um cidadão programador pode atuar como um **especialista** individual na sua área ou como membro de uma **força de trabalho**. Numa pequena empresa ou numa empresa em fase de arranque sem [TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) própria, um programador cidadão é, em primeiro lugar, alguém que desenvolve soluções práticas de TI de forma independente e com um orçamento reduzido.
 
 ![O Citizen Development funciona sem programação](citizen-development.jpg)
 

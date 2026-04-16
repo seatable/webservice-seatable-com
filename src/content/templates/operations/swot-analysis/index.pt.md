@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Realizar uma análise SWOT digitalmente com o SeaTable'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução SeaTable, baseada em IA no-code, destaca-se pela sua flexibilidade, transparência e colaboração em tempo real. Com o nosso modelo de análise SWOT, beneficia de atualizações em tempo real, priorizações visuais Kanban e derivação direta de estratégias – para um planeamento empresarial que realmente funciona: no portfólio de projetos, nas estratégias de marketing, nas operações diárias e ao nível C. Se até agora utilizava um modelo de análise SWOT [Excel]({{< relref "pages/excel-alternative" >}}) Se trabalhou com o Google Sheets, poderá importar os seus dados em poucos passos e continuar a utilizá-los no SeaTable como uma solução moderna e colaborativa.'
+      description: 'A solução SeaTable, baseada em IA no-code, destaca-se pela sua flexibilidade, transparência e colaboração em tempo real. Com o nosso modelo de análise SWOT, beneficia de atualizações em tempo real, priorizações visuais Kanban e derivação direta de estratégias – para um planeamento empresarial que realmente funciona: no portfólio de projetos, nas estratégias de marketing, nas operações diárias e ao nível C. Se até agora utilizava um modelo de análise SWOT [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) Se trabalhou com o Google Sheets, poderá importar os seus dados em poucos passos e continuar a utilizá-los no SeaTable como uma solução moderna e colaborativa.'
       items:
       - text: 'Colaboração em tempo real: toda a sua equipa trabalha em sincronia numa [análise SWOT]({{< relref "posts/swot-analyse" >}}) – Desde a gestão de projetos e marketing, passando pelas operações, até à gestão.'
       - text: 'Torne as estratégias visíveis: com a visualização Kanban integrada, é possível visualizar os fatores SWOT e priorizá-los através de arrastar e soltar – ideal para workshops, apresentações da diretoria e debates estratégicos.'
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Desenvolvimento de estratégias com base em IA com o SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam a sua análise SWOT a um novo nível. Automatize tarefas recorrentes e economize tempo valioso no desenvolvimento de estratégias.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam a sua análise SWOT a um novo nível. Automatize tarefas recorrentes e economize tempo valioso no desenvolvimento de estratégias.'
       items:
       - headline: 'Análises SWOT multilingues'
         text: 'Traduza automaticamente os fatores SWOT para outros idiomas com um prompt personalizado – ideal para equipas internacionais ou workshops de estratégia global. Cada membro da equipa trabalha no seu idioma, e a IA consolida os resultados centralmente numa análise comum.'

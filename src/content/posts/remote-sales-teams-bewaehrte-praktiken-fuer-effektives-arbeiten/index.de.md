@@ -50,7 +50,7 @@ Projektmanagement-Tools ermöglichen es Ihren Mitarbeitern, Projekte im Blick zu
 
 Die Zusammenarbeit über verschiedene geografische Regionen und Zeitzonen hinweg ist nicht einfach. Google Workspace, Miro und Podio sind einige der besten Kollaborations-Tools für Vertriebsmitarbeiter.
 
-[SeaTable]({{< relref "/" >}}) ist eine weitere erstklassige kollaborative Anwendung für das Informationsmanagement. Die No-Code-Anwendung verfügt über Lösungen für [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), die Remote Sales Teams bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen.
+[SeaTable]({{< relref "/" >}}) ist eine weitere erstklassige kollaborative Anwendung für das Informationsmanagement. Die No-Code-Anwendung verfügt über Lösungen für [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), die Remote Sales Teams bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen.
 
 ![SeaTable bietet verschiedene Lösungen für Remote Sales Teams, die bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen](Ansicht_Offers.png)
 

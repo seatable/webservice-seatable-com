@@ -56,7 +56,7 @@ Si vous prévoyez des modifications de construction sur vos biens immobiliers, l
 
 ### Protection des données
 
-La protection des données est un domaine important de la gestion immobilière qui n'apparaît souvent pas immédiatement. En particulier dans le [service public]({{< relref "pages/industry-solutions/public-service" >}}) ou dans les grandes unités administratives, vous devez gérer les données des locataires et des propriétaires conformément au RGPD. Cela signifie que vous ne pouvez collecter des données à caractère personnel qu'avec leur consentement et les stocker en toute sécurité. Une protection efficace contre l'accès non autorisé à ces données est indispensable pour éviter à la fois les conséquences juridiques et la perte de confiance.
+La protection des données est un domaine important de la gestion immobilière qui n'apparaît souvent pas immédiatement. En particulier dans le [service public]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) ou dans les grandes unités administratives, vous devez gérer les données des locataires et des propriétaires conformément au RGPD. Cela signifie que vous ne pouvez collecter des données à caractère personnel qu'avec leur consentement et les stocker en toute sécurité. Une protection efficace contre l'accès non autorisé à ces données est indispensable pour éviter à la fois les conséquences juridiques et la perte de confiance.
 
 ## Quand pouvez-vous confier la gestion de votre bien immobilier à des personnes externes ?
 

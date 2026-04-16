@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilice la lista de inventario en línea con SeaTable'
       subtitle: 'Sus ventajas'
-      description: 'La solución de IA no-code  SeaTable destaca por su flexibilidad y adaptabilidad. Con nuestro software de inventario, se beneficiará de numerosas ventajas y podrá gestionar incluso los [procesos de inventario]({{< relref "pages/industry-solutions/operations" >}}) más complejos.'
+      description: 'La solución de IA no-code  SeaTable destaca por su flexibilidad y adaptabilidad. Con nuestro software de inventario, se beneficiará de numerosas ventajas y podrá gestionar incluso los [procesos de inventario]({{< relref "pages/landing-pages/industry-solutions/operations" >}}) más complejos.'
       items:
       - text: 'Siempre actualizado: manténgase al día gracias a las funciones de comunicación, el historial completo de cambios y las actualizaciones en tiempo real.'
       - text: 'Acceso desde cualquier lugar: con una lista de inventario en línea, tendrá acceso en cualquier momento y protegerá sus datos contra pérdidas.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Gestión de inventario basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán la gestión de su inventario a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán la gestión de su inventario a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
       items:
       - headline: 'Clasificación automática con Classify'
         text: 'Clasifique automáticamente los nuevos activos: la función de IA «Classify» reconoce la categoría adecuada basándose en descripciones, fabricantes o nombres de productos y asigna los artículos de forma independiente a la clase correcta, lo que resulta perfecto para un inventario rápido y sin errores.'
@@ -177,7 +177,7 @@ sections:
       - q: "¿Puedo utilizar la plantilla de lista de inventario de SeaTable de forma gratuita?"
         a: 'Sí, con SeaTable puede utilizar la plantilla Lista de inventario de forma gratuita. Solo necesita una cuenta gratuita y podrá empezar a gestionar su inventario de forma digital inmediatamente.'
       - q: "¿SeaTable es una alternativa a Excel para la gestión de inventarios?"
-        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) especialmente diseñado para procesos colaborativos. A diferencia de una plantilla de Excel para inventario, SeaTable ofrece colaboración en tiempo real, notificaciones automáticas, permisos granulares y funciones basadas en IA, lo que lo hace perfecto para la gestión moderna de inventarios.'
+        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) especialmente diseñado para procesos colaborativos. A diferencia de una plantilla de Excel para inventario, SeaTable ofrece colaboración en tiempo real, notificaciones automáticas, permisos granulares y funciones basadas en IA, lo que lo hace perfecto para la gestión moderna de inventarios.'
       - q: "¿Puedo importar mi lista de inventario existente en Excel a SeaTable?"
         a: 'Sí, puede importar fácilmente su plantilla de Excel con la lista de inventario existente a SeaTable. SeaTable admite la importación de archivos Excel (.xlsx, .xls) y CSV. Después de la importación, puede ajustar la estructura de los datos y beneficiarse de todas las funciones de SeaTable.'
       - q: "¿Puedo registrar inventarios también desde el móvil?"

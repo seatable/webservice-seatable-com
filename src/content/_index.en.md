@@ -40,32 +40,32 @@ sections:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Plan campaigns, manage leads and analyze results with SeaTable. Automate workflows with AI capabilities and optimize your marketing strategy.'
-        link: '/pages/industry-solutions/marketing'
+        link: '/pages/landing-pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
         headline: 'Project management'
         text: 'Use Gantt charts and Kanban boards to manage projects efficiently. Track progress and coordinate teams with SeaTable.'
-        link: '/pages/industry-solutions/project-management'
+        link: '/pages/landing-pages/industry-solutions/project-management'
 
       - icon: 'people-group'
         headline: 'Human Resources'
         text: 'Manage employee data, training and leave requests with SeaTable. Optimize HR processes and improve the employee experience.'
-        link: '/pages/industry-solutions/hr'
+        link: '/pages/landing-pages/industry-solutions/hr'
 
       - icon: 'building'
         headline: 'Public service'
         text: 'Manage personnel files, training data and applications with SeaTable. Optimize processes and improve transparency in the public sector.'
-        link: '/pages/industry-solutions/public-service'
+        link: '/pages/landing-pages/industry-solutions/public-service'
 
       - icon: 'terminal'
         headline: 'Software development'
         text: 'Manage backlogs, issues, bugs and releases with SeaTable. Optimize the development process and improve team communication'
-        link: '/pages/industry-solutions/software-development'
+        link: '/pages/landing-pages/industry-solutions/software-development'
 
       - icon: 'fingerprint'
         headline: 'Individual'
         text: 'Create customized applications for your specific business needs with SeaTable. Automate processes and improve efficiency.'
-        link: '/pages/industry-solutions/individual'
+        link: '/pages/landing-pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -257,31 +257,31 @@ sections:
     text: "As an Airtable alternative, SeaTable offers fully-fledged no-code database functions, AI-supported automation, app builder, relational tables, cloud and on-premises operation and the whole thing is hosted in Germany in compliance with the GDPR - ideal for structured, cross-team workflows for companies."
     buttons:
     - label: "Find out more about SeaTable as an Airtable alternative"
-      link: "/pages/airtable-alternative"
+      link: "/pages/landing-pages/alternatives/airtable-alternative"
   - subtitle: Task management, project planning
     title: Asana alternative
     text: "Task and project management with Asana? SeaTable as a flexible Asana alternative, combines task management, project planning, resource overview, milestone and time management, dashboards and file management - ideal as a scalable alternative to Asana with AI functions."
     buttons:
     - label: "Learn more about SeaTable as an Asana alternative"
-      link: "/pages/asana-alternative"
+      link: "/pages/landing-pages/alternatives/asana-alternative"
   - subtitle: AI-automation, collaboration
     title: Excel alternative & Microsoft Access alternative
     text: "From classic lists to complex data models: SeaTable replaces Excel and Microsoft Access databases, picking up where both programs reach their limits and enabling modern, collaborative tables with added structure, security and automation."
     buttons:
     - label: "Learn more about SeaTable as an Excel alternative"
-      link: "/pages/excel-alternative"
+      link: "/pages/landing-pages/alternatives/excel-alternative"
   - subtitle: Flexibility, data protection
     title: Personio alternative
     text: "Digital HR processes, smart AI-supported workflows and data security: SeaTable enables companies to manage their personnel and sensitive data efficiently, flexibly and in compliance with GDPR. Statistics and individualized dashboards are on a par with Personio's performance management and can also be flexibly adapted."
     buttons:
     - label: "Learn more about SeaTable as a Personio alternative"
-      link: "/pages/personio-alternative"
+      link: "/pages/landing-pages/alternatives/personio-alternative"
   - subtitle: Sales processes, scalability
     title: HubSpot alternative
     text: "The most flexible of all CRM alternatives: SeaTable brings all relevant sales data together in one platform with process automation and data analysis using AI. You can integrate your processes and teams into the tool without having to adapt to predefined structures—the most flexible and scalable solution among HubSpot alternatives."
     buttons:
     - label: "Learn more about SeaTable as a HubSpot alternative"
-      link: "/pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
   - subtitle: Knowledge management, relational data
     title: Notion alternative
     text: "SeaTable combines knowledge management, structured data, and collaborative tools with a no-code database, AI-powered automations, relational structures, and app builders—the GDPR-compliant solution among Notion alternatives for complex business requirements."

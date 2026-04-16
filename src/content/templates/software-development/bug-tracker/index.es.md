@@ -82,7 +82,7 @@ sections:
       - text: 'Acceso desde cualquier lugar: con un sistema de seguimiento de errores en línea, tiene acceso en todo momento y mantiene una visión general, ya sea en la oficina, en su oficina en casa o en las instalaciones del cliente.'
       - text: 'Transparencia en el proceso: vincule los problemas con las pruebas y las versiones para ver en todo momento dónde se han detectado los errores y en qué versión se han solucionado.'
       - text: 'Escalable: nuestra plantilla del sistema de seguimiento de errores crece al ritmo de sus necesidades, independientemente del número de proyectos, componentes o miembros del equipo que gestione.'
-      - text: 'Automatizado e integrado: conecte su gestor de incidencias con su [gestión de servicios de TI]({{< relref "pages/industry-solutions/software-development" >}}) Sistema – para flujos de trabajo continuos sin interrupciones.'
+      - text: 'Automatizado e integrado: conecte su gestor de incidencias con su [gestión de servicios de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) Sistema – para flujos de trabajo continuos sin interrupciones.'
       image_position: [left]
       image: '/images/template_page_bugtacker_01.png'
       image_alt: 'Sistema SeaTable Bug Tracker con resumen de problemas, pruebas y versiones en tablas vinculadas.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Sistema de seguimiento de errores basado en IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su sistema de seguimiento de errores a un nuevo nivel. Automatice las tareas recurrentes en el seguimiento de errores, reduzca el trabajo manual rutinario y gane tiempo para el análisis, la priorización, el control de calidad y una planificación de lanzamientos bien fundamentada con bases claras para la toma de decisiones.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán su sistema de seguimiento de errores a un nuevo nivel. Automatice las tareas recurrentes en el seguimiento de errores, reduzca el trabajo manual rutinario y gane tiempo para el análisis, la priorización, el control de calidad y una planificación de lanzamientos bien fundamentada con bases claras para la toma de decisiones.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'La función de IA «Classify» clasifica los nuevos problemas en categorías o componentes adecuados según su título y descripción. De este modo, los errores se asignan directamente a la columna correcta y los equipos identifican mucho más rápidamente los puntos críticos en determinados módulos.'
@@ -188,7 +188,7 @@ sections:
       - q: "¿Puedo crear campos y flujos de trabajo propios en el sistema Bug Tracker?"
         a: 'Sí, puede añadir columnas, tablas, vistas y automatizaciones adicionales en cualquier momento. De este modo, puede adaptar el sistema de seguimiento de errores de forma flexible a sus procesos de lanzamiento, prueba y asistencia técnica.'
       - q: "¿Se puede utilizar SeaTable como alternativa a Asana para el seguimiento de errores?"
-        a: 'Sí, SeaTable es ideal como [alternativa a Asana]({{< relref "pages/asana-alternative" >}}), Si desea vincular más estrechamente el seguimiento de tareas y errores con la lógica de la base de datos. En lugar de tableros rígidos, cree sus propias estructuras, vincule los errores con pruebas y versiones y, si es necesario, cree más flujos de trabajo de gestión de proyectos en la misma plataforma.'
+        a: 'Sí, SeaTable es ideal como [alternativa a Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Si desea vincular más estrechamente el seguimiento de tareas y errores con la lógica de la base de datos. En lugar de tableros rígidos, cree sus propias estructuras, vincule los errores con pruebas y versiones y, si es necesario, cree más flujos de trabajo de gestión de proyectos en la misma plataforma.'
       - q: "¿La plantilla admite una plantilla estandarizada para informes de errores de software?"
         a: 'Sí, la plantilla del sistema de seguimiento de errores incluye una plantilla predefinida para informes de errores de software con campos típicos como título, descripción, entorno, reproducibilidad, resultado esperado, resultado real y archivos adjuntos. Si lo desea, puede ampliar esta estructura o adaptarla a sus directrices internas sin necesidad de programar.'
       - q: "¿Hay ayuda para empezar a utilizar la plantilla Bug Tracker?"

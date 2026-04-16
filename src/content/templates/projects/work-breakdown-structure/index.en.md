@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use the project structure plan template online with SeaTable'
       subtitle: 'Your advantages at a glance'
-      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With the project structure plan template, you can plan projects from the rough structure to individual tasks, keep track of resources, and create a common basis for project structure planning across the entire team—with features that many teams would otherwise only find in Asana and similar [project management tools]({{< relref "pages/industry-solutions/project-management" >}}) similar to, but significantly more flexible and database-driven.'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With the project structure plan template, you can plan projects from the rough structure to individual tasks, keep track of resources, and create a common basis for project structure planning across the entire team—with features that many teams would otherwise only find in Asana and similar [project management tools]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) similar to, but significantly more flexible and database-driven.'
       items:
       - text: 'Always up to date: Thanks to comments, change history, and real-time updates, your project structure plan templates are always up to date—from the first project structure plan example to ongoing implementation.'
       - text: "Access from anywhere: With an online project structure planning template, you can access your project structure plan at any time—in the office, at home, or at a client's location."
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered project structure plan templates'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your project structure plan templates to a new level. Automate recurring tasks in project planning, reduce manual routine work, and gain time for analysis, coordination, and informed decisions about priorities and resources.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your project structure plan templates to a new level. Automate recurring tasks in project planning, reduce manual routine work, and gain time for analysis, coordination, and informed decisions about priorities and resources.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new tasks to appropriate phases or work packages based on their title and description. New entries are placed directly in the correct structure in your project structure plan template, allowing you to see at a glance which areas require more work.'
@@ -188,5 +188,5 @@ sections:
       - q: "Can I create my own fields and workflows in the project structure plan template?"
         a: 'Yes, you can add additional columns, tables, views, and automations at any time. This allows you to flexibly adapt each project structure plan template to your internal processes, roles, and reporting requirements.'
       - q: "Is SeaTable a good alternative to traditional project management tools such as Asana?"
-        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/asana-alternative" >}}) and other project management tools. Unlike rigid boards, the project structure plan template, project plan template, and other templates combine flexible database logic with views such as tree, calendar, timeline, and report dashboards.'
+        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) and other project management tools. Unlike rigid boards, the project structure plan template, project plan template, and other templates combine flexible database logic with views such as tree, calendar, timeline, and report dashboards.'
 ---

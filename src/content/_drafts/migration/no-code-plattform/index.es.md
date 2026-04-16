@@ -211,7 +211,7 @@ logo de wix
 
 Wix es actualmente uno de los kits de construcción de sitios web más conocidos y se desarrolla en Tel Aviv. El eslogan de Wix es "Lo que ves es lo que obtienes" y subraya el pretendido principio WYSIWYG.
 
-Con Wix, incluso los recién llegados sin conocimientos de HTML pueden crear rápidamente sitios web atractivos y al mismo tiempo complejos mediante el método de arrastrar y soltar. Esto es sorprendentemente fácil gracias a las más de 800 plantillas diferentes que Wix sugiere tras unas cuantas preguntas sobre el diseño general. Además del editor web, Wix ofrece una variedad de integraciones en las áreas de comercio electrónico, [marketing]({{< relref "pages/industry-solutions/marketing" >}}) o análisis SEO. La gran abundancia de características incluidas no se puede encontrar en ningún otro constructor de sitios web, por lo que Wix ofrece la combinación correcta de calidad y cantidad.
+Con Wix, incluso los recién llegados sin conocimientos de HTML pueden crear rápidamente sitios web atractivos y al mismo tiempo complejos mediante el método de arrastrar y soltar. Esto es sorprendentemente fácil gracias a las más de 800 plantillas diferentes que Wix sugiere tras unas cuantas preguntas sobre el diseño general. Además del editor web, Wix ofrece una variedad de integraciones en las áreas de comercio electrónico, [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) o análisis SEO. La gran abundancia de características incluidas no se puede encontrar en ningún otro constructor de sitios web, por lo que Wix ofrece la combinación correcta de calidad y cantidad.
 
 ### Webflow (creador de sitios web)
 

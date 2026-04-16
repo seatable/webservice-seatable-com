@@ -39,7 +39,7 @@ Las tareas de gestión de productos incluyen todas las etapas por las que pasa u
 - **Concepto**: desarrollo de la estrategia de mercado, precio, distribución, comunicación; prototipo, resumen de costes
 - **Implementación**: implementación técnica, implementación de estrategias, lanzamiento de productos
 
-Además, hay algunas tareas organizativas que asume un gestor de productos. Actúa como **interfaz** entre el [marketing]({{< relref "pages/industry-solutions/marketing" >}}), las [ventas]({{< relref "templates/sales/sales-pipeline" >}}) y el desarrollo de productos, así como la producción. Para las distintas etapas del proceso de desarrollo del producto, el jefe de producto también coordina la **[Gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}})**. Por ello, la gestión de productos también está muy ocupada con la formación y los análisis de la estrategia, que se producen además de la concepción y el desarrollo del propio producto.
+Además, hay algunas tareas organizativas que asume un gestor de productos. Actúa como **interfaz** entre el [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), las [ventas]({{< relref "templates/sales/sales-pipeline" >}}) y el desarrollo de productos, así como la producción. Para las distintas etapas del proceso de desarrollo del producto, el jefe de producto también coordina la **[Gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Por ello, la gestión de productos también está muy ocupada con la formación y los análisis de la estrategia, que se producen además de la concepción y el desarrollo del propio producto.
 
 ### Desafíos en la gestión de productos
 
@@ -73,7 +73,7 @@ En la ficha técnica del producto encontrará toda la información importante so
 
 ### 3\. todos los contactos de un vistazo
 
-En el proceso de desarrollo del producto, éste pasa por varios departamentos. El [marketing]({{< relref "pages/industry-solutions/marketing" >}}), las ventas, la planta de producción, la fotografía y también el comercio minorista son importantes puntos de contacto diarios en el trabajo de un gestor de productos. Resulta entonces práctico que todos los datos de contacto se recojan en un solo lugar y, por tanto, sean accesibles para todos. Esto es tan útil para el sustituto de vacaciones como para el nuevo aprendiz. Además, también se puede añadir información, como actas de reuniones, documentos importantes o próximas citas telefónicas. Con SeaTable, crear una libreta de direcciones dentro de una tabla no supone ningún problema.
+En el proceso de desarrollo del producto, éste pasa por varios departamentos. El [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), las ventas, la planta de producción, la fotografía y también el comercio minorista son importantes puntos de contacto diarios en el trabajo de un gestor de productos. Resulta entonces práctico que todos los datos de contacto se recojan en un solo lugar y, por tanto, sean accesibles para todos. Esto es tan útil para el sustituto de vacaciones como para el nuevo aprendiz. Además, también se puede añadir información, como actas de reuniones, documentos importantes o próximas citas telefónicas. Con SeaTable, crear una libreta de direcciones dentro de una tabla no supone ningún problema.
 
 ![Los datos de contacto de los proveedores y clientes son muy importantes para una gestión fluida de los productos](Suppliers-and-Contacts.jpg)
 

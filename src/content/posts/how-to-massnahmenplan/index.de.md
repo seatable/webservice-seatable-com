@@ -14,7 +14,7 @@ seo:
     description: 'Maßnahmen clever planen: Mit Jahresübersicht, Vorlage & Tipps zielorientierte Maßnahmen im Unternehmen umsetzen.'
 ---
 
-Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), im Bereich Finanzen & Controlling sowie im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}).
+Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), im Bereich Finanzen & Controlling sowie im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).
 
 ## Was ist ein Maßnahmenplan?
 
@@ -36,7 +36,7 @@ Jede Aufgabe und jede Maßnahme braucht eine klare Verantwortlichkeit. Der Maßn
 
 ## Maßnahmenplan als vielseitiges Tool
 
-Ein Maßnahmenplan kann unternehmensübergreifend angesetzt werden, wenn Unternehmensziele im Großen formuliert werden. Er kann aber auch im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) vielseitig eingesetzt werden, und das in den verschiedensten Kontexten. Überall, wo es Projekte zu verwalten gibt, ist der Maßnahmenplan sinnvoll: Etwa kurzfristig, wenn in einem Workshop Maßnahmen für bestimmte Ziele erarbeitet werden sollen, zum Beispiel für die nächste Werbekampagne eines Produkts. Oder auch langfristig, wenn eine festgelegte Strategie verfolgt werden soll, wie etwa im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}) oder in der Kommunikationsabteilung, wenn es um die strategische Kommunikation nach außen hin geht.
+Ein Maßnahmenplan kann unternehmensübergreifend angesetzt werden, wenn Unternehmensziele im Großen formuliert werden. Er kann aber auch im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) vielseitig eingesetzt werden, und das in den verschiedensten Kontexten. Überall, wo es Projekte zu verwalten gibt, ist der Maßnahmenplan sinnvoll: Etwa kurzfristig, wenn in einem Workshop Maßnahmen für bestimmte Ziele erarbeitet werden sollen, zum Beispiel für die nächste Werbekampagne eines Produkts. Oder auch langfristig, wenn eine festgelegte Strategie verfolgt werden soll, wie etwa im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) oder in der Kommunikationsabteilung, wenn es um die strategische Kommunikation nach außen hin geht.
 
 Unternehmen müssen ihren Auftritt nach außen hin sehr gut planen, und das am besten weit im Voraus. Es muss klar sein: Wann finden besondere Events statt, die wir kommunizieren müssen? Wann sind wichtige Termine und wer ist daran beteiligt? Dies geschieht meistens in der Marketing- oder Kommunikationsabteilung, in der die externe Kommunikation und Marketingmaßnahmen geplant und umgesetzt werden. Wie wichtig ein [Maßnahmenplan für das Unternehmen](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/externe-kommunikation/) und die PR-Strategie ist, darf nicht unterschätzt werden.
 

@@ -18,7 +18,7 @@ register:
 
 ## Airtable, ¿qué es?
 
-Airtable es una **plataforma de colaboración basada en la nube** y una **mezcla de hoja de cálculo y software de base de datos**. Por lo tanto, dependiendo de su punto de vista, la pregunta "¿Qué es Airtable?" puede responderse de forma diferente: Como normalmente registra y estructura sus datos en tablas, a menudo se considera como una [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) más potente. Sin embargo, Airtable también se conoce como una [base de datos sin código]({{< relref "posts/20250307-low-code" >}}), que le permite crear, gestionar y utilizar bases de datos sin necesidad de profundos conocimientos de programación.  
+Airtable es una **plataforma de colaboración basada en la nube** y una **mezcla de hoja de cálculo y software de base de datos**. Por lo tanto, dependiendo de su punto de vista, la pregunta "¿Qué es Airtable?" puede responderse de forma diferente: Como normalmente registra y estructura sus datos en tablas, a menudo se considera como una [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) más potente. Sin embargo, Airtable también se conoce como una [base de datos sin código]({{< relref "posts/20250307-low-code" >}}), que le permite crear, gestionar y utilizar bases de datos sin necesidad de profundos conocimientos de programación.  
 
 Dado que en un mundo digitalizado los datos se generan prácticamente en todas partes, existe una **amplia gama de opciones de aplicación** para adquirir experiencia con Airtable. Por ello, Airtable ofrece soluciones gratuitas de nivel básico para diversos ámbitos como el desarrollo de productos, el marketing, las operaciones, la gestión de proyectos, los recursos humanos, las ventas y las finanzas, aunque son muy limitadas. Para requisitos más exigentes y equipos más grandes, los precios de Airtable aumentan rápidamente.
 
@@ -54,7 +54,7 @@ Basándose en cientos de comentarios en línea en los que los usuarios describen
 
 1. **Casi ninguna estructura predefinida**: Esta es la desventaja de la flexibilidad. Está utilizando un kit de construcción y necesita ciertas habilidades conceptuales para crear estructuras de datos significativas. Los usuarios que tengan poca experiencia con Airtable o que, en general, no tengan conocimientos previos sobre bases de datos y tablas pueden sentirse abrumados por el número de funciones, sobre todo al principio.
    
-2. **Se requiere más tiempo al principio**: Esta desventaja va de la mano con el punto anteriormente mencionado. A diferencia del software especializado del sector, puede adaptar Airtable de forma flexible a sus necesidades. Sin embargo, construir nuevos flujos de trabajo desde cero suele llevar más tiempo al principio. En comparación con [Asana]({{< relref "pages/asana-alternative" >}}), por ejemplo, Airtable sólo puede recomendarse hasta cierto punto como herramienta de gestión de proyectos, ya que tiene que montar muchas cosas usted mismo.
+2. **Se requiere más tiempo al principio**: Esta desventaja va de la mano con el punto anteriormente mencionado. A diferencia del software especializado del sector, puede adaptar Airtable de forma flexible a sus necesidades. Sin embargo, construir nuevos flujos de trabajo desde cero suele llevar más tiempo al principio. En comparación con [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), por ejemplo, Airtable sólo puede recomendarse hasta cierto punto como herramienta de gestión de proyectos, ya que tiene que montar muchas cosas usted mismo.
    
 3. **Insuficiente protección de datos**: Una y otra vez, la protección de datos de Airtable es objeto de duras críticas. El almacenamiento de los datos de los clientes en servidores en la nube en EE.UU. y la falta de una opción para instalar Airtable en las instalaciones hacen que Airtable no sea atractivo para muchas empresas con mayores requisitos de seguridad. Para las empresas de la UE, el uso del software es incluso jurídicamente cuestionable, ya que Airtable no garantiza plenamente el cumplimiento de la GDPR.
    
@@ -82,7 +82,7 @@ Si usted está pensando ahora en las formas en que podría ser capaz de utilizar
 Como alternativa a Airtable, aquí entra en juego la solución sin código [SeaTable]({{< relref "/" >}}). No tiene nada que envidiar a la competencia de EE.UU., pero ofrece más funciones que Airtable de forma gratuita y también es bastante más barata en las suscripciones de pago. Usted es libre de elegir si desea utilizar [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), que cumple con la GDPR y se aloja exclusivamente en los servidores alemanes de un proveedor suizo, o disfrutar de la plena soberanía de datos de una instalación in situ con [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 {{< /warning >}}
 
-{{< button label="Descubra la alternativa Airtable nº 1" link="pages/airtable-alternative" >}}
+{{< button label="Descubra la alternativa Airtable nº 1" link="pages/landing-pages/alternatives/airtable-alternative" >}}
 
 ## Precios y suscripciones de Airtable
 

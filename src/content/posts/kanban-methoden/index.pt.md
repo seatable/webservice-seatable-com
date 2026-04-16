@@ -120,7 +120,7 @@ O Kanban prospera com a melhoria contínua. Não se limite a recolher feedback, 
 
 ## Como pode utilizar o método Kanban?
 
-Vejamos em pormenor como pode aplicar o método Kanban. Seguindo o primeiro princípio básico, selecione qualquer fluxo de trabalho existente. Em princípio, também pode criar o seu quadro Kanban num quadro branco com notas adesivas ou fazer algo no Excel. No entanto, um quadro digital é mais transparente e flexível, tal como a maioria dos [sistemas de gestão do trabalho]({{< relref "pages/industry-solutions/individual" >}}) já oferece, em alguns casos gratuitamente. Siga estes passos simples:
+Vejamos em pormenor como pode aplicar o método Kanban. Seguindo o primeiro princípio básico, selecione qualquer fluxo de trabalho existente. Em princípio, também pode criar o seu quadro Kanban num quadro branco com notas adesivas ou fazer algo no Excel. No entanto, um quadro digital é mais transparente e flexível, tal como a maioria dos [sistemas de gestão do trabalho]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) já oferece, em alguns casos gratuitamente. Siga estes passos simples:
 
 1\. Crie um quadro vazio: O quadro é a base com que irá trabalhar mais tarde. Pense com calma nas etapas de trabalho que pretende mapear, em vez de encher o quadro com todo o seu atraso. Se utilizar uma solução sem código, como o SeaTable, pode utilizar o plugin Kanban.
 

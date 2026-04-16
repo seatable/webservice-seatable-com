@@ -36,7 +36,7 @@ Las tareas de la planificación financiera pueden dividirse en distintas fases:
 En primer lugar, registre todos los activos y pasivos, así como los ingresos y gastos de su empresa, que también se reflejan en los estados financieros anuales. Al obtener una visión general de la situación financiera actual, podrá derivar previsiones de flujo de caja, evaluar la liquidez y examinar la financiación existente (por ejemplo, préstamos, capital propio).
 
 ### 2. Fase de planificación (elaboración del plan financiero)
-En la fase central de la planificación financiera, usted utiliza los datos obtenidos en la fase de análisis para crear su [plan financiero]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) con previsión. Éste puede dividirse en varias áreas:
+En la fase central de la planificación financiera, usted utiliza los datos obtenidos en la fase de análisis para crear su [plan financiero]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) con previsión. Éste puede dividirse en varias áreas:
 - **Planificación de las ventas**: ¿Cómo evolucionarán sus ingresos y cómo pueden aumentarse las ventas?
 - **Planificación de costes**: ¿En qué costes fijos y variables incurrirá y cuáles puede reducir?
 - [Previsión de rentabilidad]({{< relref "posts/rentabilitaetsvorschau" >}}): ¿Cuánto volumen de negocio necesita generar para que su empresa sea rentable?
@@ -115,7 +115,7 @@ Para minimizar la probabilidad de que su empresa entre en dificultades financier
 
 ## SeaTable para la planificación financiera en la empresa
 
-Muchas empresas intentan trazar su planificación financiera en hojas de cálculo [Excel]({{< relref "pages/excel-alternative" >}}). Las fórmulas complicadas y las opciones limitadas para registrar y visualizar distintos tipos de datos le complican la vida. Utilice la intuitiva base de datos sin código **SeaTable**, en la que podrá almacenar no sólo cifras y texto, sino también imágenes y archivos. Con la ayuda de fórmulas y estadísticas sencillas, pero también de vistas y complementos (como galerías, calendarios, tableros Kanban), podrá evaluar y visualizar sus datos en un abrir y cerrar de ojos.
+Muchas empresas intentan trazar su planificación financiera en hojas de cálculo [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). Las fórmulas complicadas y las opciones limitadas para registrar y visualizar distintos tipos de datos le complican la vida. Utilice la intuitiva base de datos sin código **SeaTable**, en la que podrá almacenar no sólo cifras y texto, sino también imágenes y archivos. Con la ayuda de fórmulas y estadísticas sencillas, pero también de vistas y complementos (como galerías, calendarios, tableros Kanban), podrá evaluar y visualizar sus datos en un abrir y cerrar de ojos.
 
 Para las empresas de nueva creación en particular, un software profesional de gestión financiera suele suponer unos costes elevados antes de que llegue ningún ingreso. ¡Menos mal que SeaTable es escalable! Empiece con [la versión gratuita]({{< relref "pages/prices" >}}), que ya le ofrece todas las funciones básicas, y sólo pague por las actualizaciones si necesita más espacio de almacenamiento, funciones o cuentas de usuario. SeaTable crece con sus necesidades y su equipo.
 

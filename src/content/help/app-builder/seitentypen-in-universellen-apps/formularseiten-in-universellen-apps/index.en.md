@@ -15,7 +15,7 @@ seo:
 weight: 3
 ---
 
-You can use this page type to build different **forms** that users can then submit. Form pages in SeaTable apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "pages/arbeitszeiterfassung" >}}).
+You can use this page type to build different **forms** that users can then submit. Form pages in SeaTable apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Web form for recording your employees' working hours](images/webformular-working-time.png)
 

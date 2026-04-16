@@ -56,7 +56,7 @@ Se está a planear alterações estruturais na sua propriedade, o direito de con
 
 ### Proteção de dados
 
-Uma área importante da gestão de propriedades que muitas vezes não é imediatamente óbvia é a proteção de dados. Particularmente no [sector público]({{< relref "pages/industry-solutions/public-service" >}}) ou em unidades administrativas maiores, deve gerir os dados dos inquilinos e dos proprietários em conformidade com o RGPD. Isto significa que só pode recolher e armazenar de forma segura dados pessoais com o seu consentimento. A proteção eficaz contra o acesso não autorizado a estes dados é essencial para evitar consequências legais e perda de confiança.
+Uma área importante da gestão de propriedades que muitas vezes não é imediatamente óbvia é a proteção de dados. Particularmente no [sector público]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) ou em unidades administrativas maiores, deve gerir os dados dos inquilinos e dos proprietários em conformidade com o RGPD. Isto significa que só pode recolher e armazenar de forma segura dados pessoais com o seu consentimento. A proteção eficaz contra o acesso não autorizado a estes dados é essencial para evitar consequências legais e perda de confiança.
 
 ## Quando pode subcontratar a gestão de propriedades a entidades externas
 

@@ -30,7 +30,7 @@ No-Code-Plattformen sind entstanden, weil Unternehmen immer schneller digitale L
 
 ![Binäre Logik als technische Grundlage](binaere_zahlen.jpg)
 
-Die Einsatzmöglichkeiten sind dabei breit gefächert. Sie können **wiederkehrende Abläufe automatisieren, interne Anwendungen entwickeln oder erste Prototypen testen**. Die verfügbaren Plattformen unterstützen Sie dabei in unterschiedlichen Bereichen. Es gibt Tools, die sich auf benutzerfreundliche Oberflächen konzentrieren, andere helfen Ihnen bei der Verwaltung von Daten oder dienen als Grundlage für Funktionen im Hintergrund. Ob Sie auf der Suche nach einem [Projektmanagement Tool]({{< relref "pages/industry-solutions/project-management" >}}) oder [Marketing Management Tool]({{< relref "pages/industry-solutions/marketing" >}}) sind - so finden Sie genau das Werkzeug, das zu Ihrem Vorhaben passt.
+Die Einsatzmöglichkeiten sind dabei breit gefächert. Sie können **wiederkehrende Abläufe automatisieren, interne Anwendungen entwickeln oder erste Prototypen testen**. Die verfügbaren Plattformen unterstützen Sie dabei in unterschiedlichen Bereichen. Es gibt Tools, die sich auf benutzerfreundliche Oberflächen konzentrieren, andere helfen Ihnen bei der Verwaltung von Daten oder dienen als Grundlage für Funktionen im Hintergrund. Ob Sie auf der Suche nach einem [Projektmanagement Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) oder [Marketing Management Tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) sind - so finden Sie genau das Werkzeug, das zu Ihrem Vorhaben passt.
 
 ##  Vorteile der Verwendung von No-Code-Tools
 
@@ -48,7 +48,7 @@ No Code Plattformen folgen einem Ansatz, der technologische Möglichkeiten mit e
 
 Die Struktur vieler Lösungen basiert auf tabellenartigen Datenmodellen, die Ihnen erlauben, Informationen präzise zu organisieren und miteinander zu verknüpfen. Aus diesen Daten entstehen anschließend Ansichten, Formulare und interaktive Bereiche, die sich nahtlos in Ihre Arbeitsabläufe einfügen. 
 
-Damit Ihre Anwendungen nicht nur statische Informationen darstellen, stehen Ihnen ein leistungsfähiges [Workflow-Management]({{< relref "pages/industry-solutions/individual" >}}) sowie Logiken zur Verfügung. Sie definieren Bedingungen, Abläufe und Reaktionen, die Ihre Prozesse automatisiert in Gang setzen und so eine zuverlässige Grundlage für wiederkehrende Aufgaben schaffen. 
+Damit Ihre Anwendungen nicht nur statische Informationen darstellen, stehen Ihnen ein leistungsfähiges [Workflow-Management]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) sowie Logiken zur Verfügung. Sie definieren Bedingungen, Abläufe und Reaktionen, die Ihre Prozesse automatisiert in Gang setzen und so eine zuverlässige Grundlage für wiederkehrende Aufgaben schaffen. 
 
 ![Arbeiten mit No-Code-Tools am Laptop](frau-an-laptop.jpg)
 

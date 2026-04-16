@@ -36,7 +36,7 @@ The tasks of financial planning can be divided into different phases:
 The first step is to record all assets and liabilities as well as the income and expenditure of your company, which are also reflected in the annual financial statements. By gaining an overview of the current financial situation, you can derive cash flow forecasts, assess liquidity and scrutinize existing financing (e.g. loans, equity).
 
 ### 2. Planning phase (preparation of the financial plan)
-In the central phase of financial planning, you use the data obtained from the analysis phase to create your [financial plan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) with foresight. This can be divided into several areas:
+In the central phase of financial planning, you use the data obtained from the analysis phase to create your [financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) with foresight. This can be divided into several areas:
 - **Revenue planning**: How will your revenue develop and how can sales be increased?
 - **Cost planning**: Which fixed and variable costs are incurred and which can you reduce?
 - [Profitability forecast]({{< relref "posts/rentabilitaetsvorschau" >}}): How much turnover do you need to generate for your company to be profitable?
@@ -115,7 +115,7 @@ To minimize the likelihood of your company getting into financial difficulties, 
 
 ## SeaTable for financial planning in the company
 
-Many companies try to map their financial planning in [Excel spreadsheets]({{< relref "pages/excel-alternative" >}}. Complicated formulas and limited options for recording and visualizing different types of data make life difficult. Use the intuitive no-code database **SeaTable**, in which you can store not only figures and text but also images and files. With the help of simple formulas and statistics, but also views and plugins (e.g. galleries, calendars, Kanban boards), you can evaluate and visualize your data in no time at all.
+Many companies try to map their financial planning in [Excel spreadsheets]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}. Complicated formulas and limited options for recording and visualizing different types of data make life difficult. Use the intuitive no-code database **SeaTable**, in which you can store not only figures and text but also images and files. With the help of simple formulas and statistics, but also views and plugins (e.g. galleries, calendars, Kanban boards), you can evaluate and visualize your data in no time at all.
 
 For start-ups in particular, professional financial management software often means high costs before any revenue flows in. It's a good thing that SeaTable is infinitely scalable! Start with the [free version]({{< relref "pages/prices" >}}), which already offers you all the basic functions, and only pay for upgrades if you need more storage space, features or user accounts. SeaTable grows with your requirements and your team.
 

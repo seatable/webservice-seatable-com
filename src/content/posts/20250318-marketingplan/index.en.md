@@ -116,7 +116,7 @@ When you create a marketing plan and plan campaigns, work processes will inevita
 
 ### Marketing planning with digital tools
 
-Creating a marketing plan as a template on paper is one option - but not necessarily the most effective one. Or can you imagine everyone in the marketing team working with just one piece of paper on which they write down, correct, cross out, etc. all the project data? Digital tools for marketing planning are much less complicated, faster and more transparent. Whether Hubspot, SeaTable or Asana - digital [marketing tools]({{< relref "pages/industry-solutions/marketing" >}}) like these help you to bring all the information together, keep an eye on the timing and content and present everything clearly for everyone involved.
+Creating a marketing plan as a template on paper is one option - but not necessarily the most effective one. Or can you imagine everyone in the marketing team working with just one piece of paper on which they write down, correct, cross out, etc. all the project data? Digital tools for marketing planning are much less complicated, faster and more transparent. Whether Hubspot, SeaTable or Asana - digital [marketing tools]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) like these help you to bring all the information together, keep an eye on the timing and content and present everything clearly for everyone involved.
 
 ### Measure, measure, measure: Optimization never ends
 

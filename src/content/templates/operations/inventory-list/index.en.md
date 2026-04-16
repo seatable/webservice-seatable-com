@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use inventory lists online with SeaTable'
       subtitle: 'Your advantages'
-      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With our inventory list software, you benefit from many advantages and can also manage complex [inventory processes]({{< relref "pages/industry-solutions/operations" >}}).'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With our inventory list software, you benefit from many advantages and can also manage complex [inventory processes]({{< relref "pages/landing-pages/industry-solutions/operations" >}}).'
       items:
       - text: 'Always up to date: Stay up to date with communication features, complete change history, and real-time updates.'
       - text: 'Access from anywhere: With an online inventory list, you have access at any time and protect your data from loss.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered inventory management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your inventory management to a whole new level. Automate recurring tasks and save valuable time.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your inventory management to a whole new level. Automate recurring tasks and save valuable time.'
       items:
       - headline: 'Automatic classification with Classify'
         text: 'Have new assets categorized automatically: The AI function "Classify" uses descriptions, manufacturers, or product names to identify the appropriate category and automatically assigns items to the correct class—perfect for fast and error-free inventory recording.'
@@ -176,7 +176,7 @@ sections:
       - q: "Can I use SeaTable's inventory list template for free?"
         a: 'Yes, you can use the inventory list template for free with SeaTable. All you need is a free account, and you can start managing your inventory digitally right away.'
       - q: "Is SeaTable an alternative to Excel for inventory management?"
-        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}) specifically for collaborative processes. Unlike an Excel inventory list template, SeaTable offers real-time collaboration, automatic notifications, granular permissions, and AI-powered features—perfect for modern inventory management.'
+        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) specifically for collaborative processes. Unlike an Excel inventory list template, SeaTable offers real-time collaboration, automatic notifications, granular permissions, and AI-powered features—perfect for modern inventory management.'
       - q: "Can I import my existing Excel inventory list into SeaTable?"
         a: 'Yes, you can easily import your existing inventory list Excel template into SeaTable. SeaTable supports importing Excel files (.xlsx, .xls) and CSV files. After importing, you can customize the data structure and benefit from all SeaTable features.'
       - q: "Can I also record inventory on the go?"

@@ -18,7 +18,7 @@ La función de búsqueda permite mostrar valores adicionales de una tabla ya vin
 
 ## ¿Cuándo necesitas la fórmula de búsqueda?
 
-La función de búsqueda debe utilizarse siempre que se quiera cruzar información almacenada en diferentes tablas. Digamos que está utilizando SeaTable para la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}), donde los proyectos se almacenan en una tabla y las tareas asociadas al proyecto se almacenan en otra tabla. Cada proyecto está vinculado a un conjunto de tareas.
+La función de búsqueda debe utilizarse siempre que se quiera cruzar información almacenada en diferentes tablas. Digamos que está utilizando SeaTable para la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), donde los proyectos se almacenan en una tabla y las tareas asociadas al proyecto se almacenan en otra tabla. Cada proyecto está vinculado a un conjunto de tareas.
 
 ![Vincular las tareas de un proyecto a un proyecto](images/linked-tables-seatable.png)
 

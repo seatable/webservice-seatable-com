@@ -52,7 +52,7 @@ Dans la pratique, de nombreuses entreprises misent sur une planification hybride
 
 ## Comment établir un plan de trésorerie en 7 étapes
 
-Une structure bien pensée de votre planification des liquidités n'a rien de sorcier - avec un système clair, vous gardez à tout moment un œil sur votre capacité de paiement et créez une base importante pour les décisions de l'entreprise. Car celui qui sait exactement quand l'argent entre et sort peut agir en anticipant au lieu de réagir en mode crise. Vous établissez ainsi, étape par étape, un plan de liquidités solide pour votre [plan financier]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) :
+Une structure bien pensée de votre planification des liquidités n'a rien de sorcier - avec un système clair, vous gardez à tout moment un œil sur votre capacité de paiement et créez une base importante pour les décisions de l'entreprise. Car celui qui sait exactement quand l'argent entre et sort peut agir en anticipant au lieu de réagir en mode crise. Vous établissez ainsi, étape par étape, un plan de liquidités solide pour votre [plan financier]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) :
 
 1. **Définir la période de planification:** Déterminez d'abord la période pour laquelle vous souhaitez planifier vos liquidités. Pour commencer, une planification mensuelle est recommandée. Pour les grandes entreprises, une planification hebdomadaire ou trimestrielle peut également s'avérer judicieuse - selon le dynamisme de vos flux de paiement.
 
@@ -145,7 +145,7 @@ En outre, une planification claire permet d'identifier les dépenses inutiles et
 
 ## Le bon logiciel pour votre plan de trésorerie
 
-[L'alternative Excel]({{< relref "pages/excel-alternative" >}}) SeaTable est un outil pratique pour la planification des liquidités. Contrairement aux tableurs classiques, SeaTable combine la flexibilité des bases de données relationnelles avec des fonctions de tableur familières. Vous pouvez ainsi concevoir votre planification des liquidités de manière claire et dynamique. Vous saisissez les encaissements et les décaissements dans des tableaux liés, créez en quelques clics des vues individuelles (par exemple un tableau Kanban pour les postes ouverts ou un axe temporel pour les flux de paiement) et évaluez vos indicateurs à l'aide de statistiques.
+[L'alternative Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) SeaTable est un outil pratique pour la planification des liquidités. Contrairement aux tableurs classiques, SeaTable combine la flexibilité des bases de données relationnelles avec des fonctions de tableur familières. Vous pouvez ainsi concevoir votre planification des liquidités de manière claire et dynamique. Vous saisissez les encaissements et les décaissements dans des tableaux liés, créez en quelques clics des vues individuelles (par exemple un tableau Kanban pour les postes ouverts ou un axe temporel pour les flux de paiement) et évaluez vos indicateurs à l'aide de statistiques.
 
 Grâce à des formules intégrées, SeaTable calcule automatiquement vos ratios de liquidité. Des règles de couleur vous aident à repérer immédiatement les valeurs aberrantes ou les périodes critiques. Pour ne pas perdre de vue les délais de paiement, par exemple, vous pouvez configurer des rappels automatiques.
 

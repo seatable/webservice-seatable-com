@@ -19,7 +19,7 @@ Créer et gérer une liste de choses à faire utilisable en ligne avec une appli
 
 ## Pourquoi une liste de choses à faire ?
 
-À la maison comme dans la [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
+À la maison comme dans la [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
 
 Un **statut** vous permet d'indiquer si une tâche est en cours ou terminée. Un statut en suspens est également envisageable, lorsque vous attendez une réponse ou une contribution. En outre, vous devriez classer vos tâches par ordre de **priorité** afin de toujours traiter les plus importantes en premier.
 

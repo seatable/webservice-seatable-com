@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Lleve su libro de ruta online con SeaTable'
       subtitle: 'Sus ventajas'
-      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad, y es una potente [alternativa a las plantillas estáticas de Excel]({{< relref "pages/excel-alternative" >}}) para libros de ruta. Con nuestro libro de ruta digital, se beneficiará de la colaboración en tiempo real, los análisis automáticos y el archivo a prueba de revisiones, ideal para equipos que desean documentar los viajes de negocios de conformidad con la normativa fiscal sin ahogarse en el caos de Excel.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad, y es una potente [alternativa a las plantillas estáticas de Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para libros de ruta. Con nuestro libro de ruta digital, se beneficiará de la colaboración en tiempo real, los análisis automáticos y el archivo a prueba de revisiones, ideal para equipos que desean documentar los viajes de negocios de conformidad con la normativa fiscal sin ahogarse en el caos de Excel.'
       items:
       - text: 'Siempre actualizado: manténgase al día gracias a las actualizaciones en tiempo real, el historial completo de cambios y la autenticación digital de los conductores.'
       - text: 'Acceso desde cualquier lugar: con un libro de ruta online, tendrá acceso en cualquier momento, incluso desde el móvil directamente en el vehículo, y protegerá sus datos contra pérdidas o daños.'
@@ -133,7 +133,7 @@ sections:
       weight: 16
       title: 'Gestión de viajes basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevan la gestión de sus desplazamientos a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso. Cumple con el RGPD.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevan la gestión de sus desplazamientos a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso. Cumple con el RGPD.'
       items:
       - headline: 'Clasificación automática con Classify'
         text: 'Clasifique automáticamente los datos de los viajes: la IA reconoce automáticamente el propósito del viaje (por ejemplo, visita comercial, visita a un cliente, viaje de negocios) basándose en los textos de destino o las notas, y asigna los viajes a la categoría correcta.'

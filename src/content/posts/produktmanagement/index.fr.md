@@ -39,7 +39,7 @@ Toutes les étapes par lesquelles passe un produit font partie des tâches de la
 - **Conception**: élaboration d'une stratégie concernant le marché, le prix, la distribution, la communication ; prototype, aperçu des coûts
 - **Mise en œuvre**: réalisation technique, mise en œuvre de la stratégie, lancement du produit
 
-En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les ventes et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}})**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
+En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), les ventes et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
 
 ### Les défis de la gestion de produits
 
@@ -73,7 +73,7 @@ Dans la fiche technique du produit, vous trouverez toutes les informations impor
 
 ### 3\. tous les contacts en un coup d'œil
 
-Dans le processus de développement d'un produit, celui-ci passe par toute une série de départements différents. Le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), la distribution, le site de production, la photographie et même le commerce sont des points de contact quotidiens importants dans le travail d'un chef de produit. Il est alors pratique de rassembler toutes les données de contact en un seul endroit et de les rendre ainsi accessibles à tous. C'est tout aussi utile pour le remplaçant en vacances que pour le nouvel apprenti ! Il est également possible d'ajouter des informations telles que des comptes rendus d'entretiens, des documents importants ou des rendez-vous téléphoniques à venir. Avec SeaTable, la création d'un carnet d'adresses au sein d'un tableau ne pose aucun problème.
+Dans le processus de développement d'un produit, celui-ci passe par toute une série de départements différents. Le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), la distribution, le site de production, la photographie et même le commerce sont des points de contact quotidiens importants dans le travail d'un chef de produit. Il est alors pratique de rassembler toutes les données de contact en un seul endroit et de les rendre ainsi accessibles à tous. C'est tout aussi utile pour le remplaçant en vacances que pour le nouvel apprenti ! Il est également possible d'ajouter des informations telles que des comptes rendus d'entretiens, des documents importants ou des rendez-vous téléphoniques à venir. Avec SeaTable, la création d'un carnet d'adresses au sein d'un tableau ne pose aucun problème.
 
 ![Les données de contact des fournisseurs et des clients sont très importantes pour une gestion de produit sans faille.](Suppliers-and-Contacts.jpg)
 

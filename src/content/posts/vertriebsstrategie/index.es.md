@@ -17,7 +17,7 @@ register:
 
 ## Por qué necesita una estrategia de ventas
 
-Sin una estrategia de ventas clara, su departamento de ventas (y en cierta medida su departamento de [marketing]({{< relref "pages/industry-solutions/marketing" >}})) carecerá de dirección. Las medidas quedan en nada o no contribuyen al objetivo corporativo. Sólo con una estrategia formulada, documentada y comunicada puede su departamento de ventas dirigirse a los [clientes]({{< relref "pages/industry-solutions/kundenmanagement" >}}) y adaptarse a las condiciones cambiantes del mercado con facilidad.
+Sin una estrategia de ventas clara, su departamento de ventas (y en cierta medida su departamento de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})) carecerá de dirección. Las medidas quedan en nada o no contribuyen al objetivo corporativo. Sólo con una estrategia formulada, documentada y comunicada puede su departamento de ventas dirigirse a los [clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) y adaptarse a las condiciones cambiantes del mercado con facilidad.
 
 Las desventajas más graves de la falta de una estrategia de ventas son:
 

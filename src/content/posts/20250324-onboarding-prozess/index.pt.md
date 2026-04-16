@@ -137,7 +137,7 @@ Utilize um programa de integração adequado para manter uma visão geral e orga
 
 ## O programa de integração adequado às suas necessidades
 
-Com o modelo gratuito da SeaTable, pode conceber o seu processo de integração de forma tão eficiente que não só alivia os seus [processos de RH] ({{< relref "pages/industry-solutions/hr" >}}), mas também facilita ao máximo o arranque dos seus novos empregados.
+Com o modelo gratuito da SeaTable, pode conceber o seu processo de integração de forma tão eficiente que não só alivia os seus [processos de RH] ({{< relref "pages/landing-pages/industry-solutions/hr" >}}), mas também facilita ao máximo o arranque dos seus novos empregados.
 
 Com apenas um clique, pode criar uma lista de verificação intuitiva com todas as tarefas futuras para cada novo empregado, para que todos saibam exatamente o que tem de ser feito. Para evitar o caos e a papelada, pode guardar todos os documentos importantes diretamente na tabela e assiná-los digitalmente.
 

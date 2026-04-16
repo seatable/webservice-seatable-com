@@ -112,7 +112,7 @@ sections:
       weight: 16
       title: 'Geocaching app with built-in AI features'
       subtitle: 'Your smart assistant'
-      description: 'With SeaTable, you can take advantage of powerful, built-in [AI-powered automations]({{< relref "pages/ai-automations" >}}) and our [AI chat plugin]({{< relref "help/ai/ai-chat" >}}). Receive automatic notifications as soon as a new log entry is created, or use our AI features—for example, for classifications or summaries—all in compliance with GDPR thanks to our own AI server in Germany.'
+      description: 'With SeaTable, you can take advantage of powerful, built-in [AI-powered automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) and our [AI chat plugin]({{< relref "help/ai/ai-chat" >}}). Receive automatic notifications as soon as a new log entry is created, or use our AI features—for example, for classifications or summaries—all in compliance with GDPR thanks to our own AI server in Germany.'
       items:
       - headline: 'Automatic summaries with Summarize'
         text: 'With "Summarize," you can condense long Finder notes into one or two sentences. This gives you concise feedback for the gallery view or the dashboard.'

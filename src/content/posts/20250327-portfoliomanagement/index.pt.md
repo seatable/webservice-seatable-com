@@ -42,7 +42,7 @@ A gestão de carteiras oferece-lhe inúmeras vantagens em todos os domínios.
 
 ## Gestão da carteira de projectos
 
-A gestão da carteira de projectos (PPM) é responsável pela **gestão global, planeamento e controlo de todos os projectos** que estão inter-relacionados numa empresa. Acima de tudo, visa garantir que os recursos são distribuídos de forma optimizada e que os projectos são priorizados de forma a melhor apoiarem os objectivos estratégicos da empresa. A gestão da carteira de projectos é, portanto, uma tarefa permanente que se repete ciclicamente e requer a avaliação de muitos projectos. Esta é a maior diferença em relação à [gestão de projectos] normal ({{< relref "pages/industry-solutions/project-management/" >}}), que normalmente termina com a conclusão de projectos individuais.
+A gestão da carteira de projectos (PPM) é responsável pela **gestão global, planeamento e controlo de todos os projectos** que estão inter-relacionados numa empresa. Acima de tudo, visa garantir que os recursos são distribuídos de forma optimizada e que os projectos são priorizados de forma a melhor apoiarem os objectivos estratégicos da empresa. A gestão da carteira de projectos é, portanto, uma tarefa permanente que se repete ciclicamente e requer a avaliação de muitos projectos. Esta é a maior diferença em relação à [gestão de projectos] normal ({{< relref "pages/landing-pages/industry-solutions/project-management/" >}}), que normalmente termina com a conclusão de projectos individuais.
 
 **Nota**: Nas grandes empresas e nas autoridades públicas, existe frequentemente um departamento separado para a gestão da carteira de projectos: o **Gabinete de Gestão de Projectos (PMO)**.
 

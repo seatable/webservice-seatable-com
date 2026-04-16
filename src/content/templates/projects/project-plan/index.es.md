@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilice una plantilla de plan de proyecto en línea con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La no-code solución de IA SeaTable combina una lógica de base de datos flexible con vistas modernas, como el diagrama de Gantt, la vista Kanban y el calendario. Con esta plantilla, podrá planificar proyectos desde su inicio hasta su finalización, controlar los plazos, las dependencias y los recursos, y crear una base común para la gestión de las partes interesadas en todo el equipo: utilice SeaTable como una [herramienta de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) flexible.'
+      description: 'La no-code solución de IA SeaTable combina una lógica de base de datos flexible con vistas modernas, como el diagrama de Gantt, la vista Kanban y el calendario. Con esta plantilla, podrá planificar proyectos desde su inicio hasta su finalización, controlar los plazos, las dependencias y los recursos, y crear una base común para la gestión de las partes interesadas en todo el equipo: utilice SeaTable como una [herramienta de gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) flexible.'
       items:
       - text: '**Siempre actualizado:** gracias a los comentarios, al historial de cambios y a las actualizaciones en tiempo real, la planificación de su proyecto estará siempre al día, desde las primeras ideas hasta su finalización.'
       - text: '**Acceso desde cualquier lugar:** gracias a una plantilla gestionada en línea y basada en la nube, podrá acceder en cualquier momento a su plan de proyecto y a todas las vistas, ya sea en la oficina, trabajando desde casa o en las instalaciones del cliente.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Plan de proyecto basado en la inteligencia artificial'
       subtitle: 'Automatización inteligente para su plan de proyecto'
-      description: 'Aproveche las potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), para optimizar la planificación de sus proyectos y llevarla a un nuevo nivel. Automatice las tediosas tareas rutinarias y despídase del laborioso mantenimiento de archivos de Excel. Gane un tiempo valioso para el análisis y tome decisiones fundamentadas sobre prioridades y recursos. Convierta la planificación de sus proyectos en una experiencia eficiente y sin estrés. ¡Empiece ahora mismo y descubra lo fácil que puede ser la gestión de proyectos!'
+      description: 'Aproveche las potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), para optimizar la planificación de sus proyectos y llevarla a un nuevo nivel. Automatice las tediosas tareas rutinarias y despídase del laborioso mantenimiento de archivos de Excel. Gane un tiempo valioso para el análisis y tome decisiones fundamentadas sobre prioridades y recursos. Convierta la planificación de sus proyectos en una experiencia eficiente y sin estrés. ¡Empiece ahora mismo y descubra lo fácil que puede ser la gestión de proyectos!'
       items:
       - headline: 'Clasificar tareas con IA'
         text: 'Con la clasificación basada en IA, SeaTable asigna nuevas tareas a fases, categorías o hitos en función del título y la descripción. Así llegan directamente al contexto correcto en su plantilla de plan de proyecto, por ejemplo en el diagrama de Gantt, la vista Kanban o vistas específicas de riesgos y cambios.'

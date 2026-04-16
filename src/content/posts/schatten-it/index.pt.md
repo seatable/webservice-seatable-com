@@ -29,7 +29,7 @@ register:
 
 Shadow IT refere-se a sistemas de TI e aplicações de software que os funcionários dos departamentos de uma empresa utilizam **sem o conhecimento do departamento de TI** para complementar ou contornar a infraestrutura oficial de TI.
 
-Por definição, Shadow IT não está, portanto, nem técnica nem estrategicamente integrada na [gestão de serviços de TI]({{< relref "pages/industry-solutions/software-development" >}}), o que acarreta riscos de segurança e outros problemas. Derivado do inglês **Shadow IT**, o termo pretende exprimir o facto de os empregados deixarem as instâncias superiores da empresa às escuras quanto à utilização de ferramentas e processos digitais executados em segredo.
+Por definição, Shadow IT não está, portanto, nem técnica nem estrategicamente integrada na [gestão de serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), o que acarreta riscos de segurança e outros problemas. Derivado do inglês **Shadow IT**, o termo pretende exprimir o facto de os empregados deixarem as instâncias superiores da empresa às escuras quanto à utilização de ferramentas e processos digitais executados em segredo.
 
 ![shadow IT](shadow-it.jpg)
 
@@ -53,7 +53,7 @@ Os funcionários também não devem utilizar **messengers** (por exemplo, WhatsA
 
 ### Gestão de dados
 
-Existem também exemplos de Shadow IT em que a utilização do próprio software é desejável. Imagine uma empresa que depende inteiramente da Microsoft: o departamento de contabilidade utiliza bases de dados Access, o departamento de RH mantém os dados dos empregados em folhas de cálculo [Excel]({{< relref "pages/excel-alternative" >}}) e o departamento de vendas regista os dados dos clientes num Microsoft Dynamics [CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}). Isto revela outro problema: se as TI não coordenarem o desenvolvimento, cada departamento cozinha a sua própria sopa. Isto resulta num **chaos de diferentes processos, aplicações desenvolvidas por si e silos de dados** que não estão integrados entre si e são desconhecidos para o resto da empresa.
+Existem também exemplos de Shadow IT em que a utilização do próprio software é desejável. Imagine uma empresa que depende inteiramente da Microsoft: o departamento de contabilidade utiliza bases de dados Access, o departamento de RH mantém os dados dos empregados em folhas de cálculo [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) e o departamento de vendas regista os dados dos clientes num Microsoft Dynamics [CRM]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}). Isto revela outro problema: se as TI não coordenarem o desenvolvimento, cada departamento cozinha a sua própria sopa. Isto resulta num **chaos de diferentes processos, aplicações desenvolvidas por si e silos de dados** que não estão integrados entre si e são desconhecidos para o resto da empresa.
 
 ### Hardware
 

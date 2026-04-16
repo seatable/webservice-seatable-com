@@ -54,7 +54,7 @@ Artificial intelligence is usually divided into the types **strong and weak AI**
 
 Today, artificial intelligence almost always refers to weak AI. It specializes in performing **clearly defined, recurring tasks** particularly well.
 
-However, weak AI cannot think, develop intentions or reflect on itself. It has no creativity and does not learn independently, but has to be trained. Its ability to learn is usually limited to the application of algorithms (clear instructions for solving certain problems) and to recognizing patterns in large amounts of data. This is particularly useful in rule-based [automation of processes]({{< relref "pages/ai-automations" >}}) and in **language and image processing**.
+However, weak AI cannot think, develop intentions or reflect on itself. It has no creativity and does not learn independently, but has to be trained. Its ability to learn is usually limited to the application of algorithms (clear instructions for solving certain problems) and to recognizing patterns in large amounts of data. This is particularly useful in rule-based [automation of processes]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) and in **language and image processing**.
 
 ### Strong AI
 
@@ -107,14 +107,14 @@ Artificial intelligence is also used in many companies. As the performance of AI
 
 ### Marketing and sales
 
-*   Personalized [customer targeting]({{< relref "pages/industry-solutions/kundenmanagement" >}}) in the display of advertising
+*   Personalized [customer targeting]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) in the display of advertising
 *   Faster content creation with generative AI
 *   Analysis of specific target groups for the [marketing plan]({{< relref "posts/20250318-marketingplan" >}})
 
 ### HR and personnel development
 
 *   Standardized interviews with virtual assistants
-*   Analysis of the qualifications and personality profiles of [applicants]({{< relref "pages/bewerbermanagement" >}})
+*   Analysis of the qualifications and personality profiles of [applicants]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 *   Forecasts of [personnel requirements]({{< relref "posts/personalplanung" >}}) in certain scenarios
 
 ### General administration
@@ -246,7 +246,7 @@ Generative artificial intelligence can generate new content by following the lea
 {{< /faq >}}
 
 {{< faq "Where is artificial intelligence used? " >}}
-The areas of application for artificial intelligence are diverse. They range from medical research and climate models to artificial intelligence in everyday life and AI systems in companies. There, artificial intelligence is used in production, administration, [human resources]({{< relref "pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), customer support and other areas.
+The areas of application for artificial intelligence are diverse. They range from medical research and climate models to artificial intelligence in everyday life and AI systems in companies. There, artificial intelligence is used in production, administration, [human resources]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), customer support and other areas.
 {{< /faq >}}
 
 {{< faq "What problems can artificial intelligence bring? " >}}

@@ -18,7 +18,7 @@ aliases:
 
 ## Say Goodbye to coding - with Low Code and No Code
 
-Have you ever wished you could develop your own software solutions with just a few clicks, without having to write line after line of code? Imagine how easy and fast [software development]({{< relref "pages/industry-solutions/software-development" >}}) would suddenly be for you! Does it feel like science fiction? But it's not: Take a look at the world of low-code development with us! In the following article, we also look at the difference between low code and no code and clarify what a no-code/low-code platform is.
+Have you ever wished you could develop your own software solutions with just a few clicks, without having to write line after line of code? Imagine how easy and fast [software development]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) would suddenly be for you! Does it feel like science fiction? But it's not: Take a look at the world of low-code development with us! In the following article, we also look at the difference between low code and no code and clarify what a no-code/low-code platform is.
 
 ## What is low code?
 
@@ -46,7 +46,7 @@ The core features of a low-code platform can be summarized using these character
 
 ## What is No Code?
 
-No Code goes one step further: unlike low-code platforms, a **no-code platform** is aimed at users without any programming knowledge. In the fully visual development environment, you can create applications mostly by drag-and-drop without having to write a single line of code. No Code is therefore ideal for creating simple applications and [automated workflows]({{< relref "pages/industry-solutions/individual" >}}). The focus here is clearly on speed and user-friendliness; the integration of self-written code is not provided for.
+No Code goes one step further: unlike low-code platforms, a **no-code platform** is aimed at users without any programming knowledge. In the fully visual development environment, you can create applications mostly by drag-and-drop without having to write a single line of code. No Code is therefore ideal for creating simple applications and [automated workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}). The focus here is clearly on speed and user-friendliness; the integration of self-written code is not provided for.
 
 ## Low code vs. no code
 

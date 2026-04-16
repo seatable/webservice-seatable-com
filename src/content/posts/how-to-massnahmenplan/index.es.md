@@ -16,7 +16,7 @@ seo:
     description: 'Gestiona tu empresa con un plan de acciones anual: guía, calendario y plantilla editable para tu organización.'
 ---
 
-Para que las empresas crezcan y se desarrollen, se fijan constantemente nuevos objetivos y trabajan para alcanzarlos con todos sus recursos. El plan de acción es un método de probada eficacia para alcanzar estos objetivos, por ejemplo en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}), las finanzas y el control y el [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
+Para que las empresas crezcan y se desarrollen, se fijan constantemente nuevos objetivos y trabajan para alcanzarlos con todos sus recursos. El plan de acción es un método de probada eficacia para alcanzar estos objetivos, por ejemplo en la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), las finanzas y el control y el [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).
 
 ## ¿Qué es un plan de acción?
 
@@ -38,7 +38,7 @@ Cada tarea y cada medida necesitan una responsabilidad clara. El plan de acción
 
 ## El plan de acción como herramienta versátil
 
-Un plan de acción puede aplicarse en toda la empresa cuando se formulan objetivos corporativos a gran escala. Pero también puede utilizarse de diversas maneras en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}), y en los más diversos contextos. El plan de acción es útil siempre que haya proyectos que gestionar: por ejemplo, a corto plazo, cuando hay que desarrollar medidas para objetivos concretos en un taller, por ejemplo para la próxima campaña publicitaria de un producto. O también a largo plazo, si se quiere seguir una estrategia definida, como en el [marketing]({{< relref "pages/industry-solutions/marketing" >}}) o en el departamento de comunicación, cuando se trata de la comunicación estratégica externa.
+Un plan de acción puede aplicarse en toda la empresa cuando se formulan objetivos corporativos a gran escala. Pero también puede utilizarse de diversas maneras en la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), y en los más diversos contextos. El plan de acción es útil siempre que haya proyectos que gestionar: por ejemplo, a corto plazo, cuando hay que desarrollar medidas para objetivos concretos en un taller, por ejemplo para la próxima campaña publicitaria de un producto. O también a largo plazo, si se quiere seguir una estrategia definida, como en el [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) o en el departamento de comunicación, cuando se trata de la comunicación estratégica externa.
 
 Las empresas deben planificar muy bien su aspecto exterior, y preferiblemente con mucha antelación. Debe quedar claro: ¿Cuándo se celebran eventos especiales que debemos comunicar? ¿Cuándo son las fechas importantes y quiénes participan? Esto suele ocurrir en el departamento de marketing o comunicación, donde se planifican y aplican las medidas de comunicación externa y marketing. No se puede subestimar la importancia de un [plan de acción para la empresa](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/externe-kommunikation/) y la estrategia de relaciones públicas.
 

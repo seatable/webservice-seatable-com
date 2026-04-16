@@ -18,7 +18,7 @@ La fonction Lookup vous permet d'afficher des valeurs supplémentaires d'un tabl
 
 ## Quand a-t-on besoin de la formule de recherche ?
 
-La fonction de recherche devrait être utilisée chaque fois que vous souhaitez faire des références croisées à des informations stockées dans différents tableaux. Supposons que vous utilisiez SeaTable pour la [gestion de projets]({{< relref "pages/industry-solutions/project-management" >}}), les projets étant stockés dans un tableau et les tâches associées au projet dans un autre tableau. Chaque projet est alors lié à une série de tâches.
+La fonction de recherche devrait être utilisée chaque fois que vous souhaitez faire des références croisées à des informations stockées dans différents tableaux. Supposons que vous utilisiez SeaTable pour la [gestion de projets]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), les projets étant stockés dans un tableau et les tâches associées au projet dans un autre tableau. Chaque projet est alors lié à une série de tâches.
 
 ![Lien entre les tâches d'un projet](images/linked-tables-seatable.png)
 

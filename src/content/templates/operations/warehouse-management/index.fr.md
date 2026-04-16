@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: "Gestion des entrepôts basée sur l'IA avec SeaTable"
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent la gestion de vos stocks à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les erreurs et prenez de meilleures décisions sur la base de vos données d inventaire.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui élèvent la gestion de vos stocks à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les erreurs et prenez de meilleures décisions sur la base de vos données d inventaire.'
       items:
       - headline: 'Classification automatique des articles avec Classify'
         text: 'Classez automatiquement les nouveaux articles : la fonction IA « Classify » identifie la catégorie appropriée à partir des noms de produits, des descriptions ou des attributions des fournisseurs et classe vos articles de manière autonome, ce qui est idéal pour les gammes de produits en pleine expansion.'
@@ -173,7 +173,7 @@ sections:
       - q: "Puis-je utiliser gratuitement le modèle de gestion des stocks de SeaTable ?"
         a: 'Oui, vous pouvez utiliser SeaTable et le modèle de gestion des stocks gratuitement et sans limitation de durée. Avec un compte gratuit, vous disposez de toutes les fonctionnalités de base pour gérer numériquement vos stocks, vos emplacements de stockage et vos mouvements de marchandises.'
       - q: "SeaTable constitue-t-il une alternative à Excel pour la gestion des stocks ?"
-        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/excel-alternative" >}}) pour la gestion des stocks. Contrairement à la gestion des stocks dans Excel, SeaTable offre une capacité multi-utilisateurs, un accès en temps réel, des automatisations, des autorisations et des interfaces d application, ce qui est idéal pour les équipes et les entreprises en pleine croissance.'
+        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) pour la gestion des stocks. Contrairement à la gestion des stocks dans Excel, SeaTable offre une capacité multi-utilisateurs, un accès en temps réel, des automatisations, des autorisations et des interfaces d application, ce qui est idéal pour les équipes et les entreprises en pleine croissance.'
       - q: "Puis-je importer ma liste de stock Excel existante dans SeaTable ?"
         a: "Oui, vous pouvez facilement importer des fichiers Excel ou CSV existants contenant vos données d'entrepôt dans SeaTable. Après l'importation, vous pouvez personnaliser les colonnes, créer des relations entre les tableaux et profiter de tous les avantages du modèle de gestion d'entrepôt."
       - q: "Le système de gestion des stocks SeaTable peut-il être étendu ?"

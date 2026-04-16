@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Gestão de armazéns com base em IA com SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam a sua gestão de armazéns a um novo nível. Automatize tarefas recorrentes, reduza erros e tome melhores decisões com base nos seus dados de inventário.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam a sua gestão de armazéns a um novo nível. Automatize tarefas recorrentes, reduza erros e tome melhores decisões com base nos seus dados de inventário.'
       items:
       - headline: 'Classificação automática de artigos com o Classify'
         text: 'Permita que novos artigos sejam categorizados automaticamente: a função de IA «Classify» reconhece a categoria adequada com base nos nomes dos produtos, descrições ou atribuições de fornecedores e classifica os seus artigos de forma independente – ideal para gamas em rápido crescimento.'
@@ -173,7 +173,7 @@ sections:
       - q: "Posso utilizar gratuitamente o modelo de gestão de armazéns do SeaTable?"
         a: 'Sim, pode utilizar o SeaTable e o modelo de gestão de armazém gratuitamente por tempo ilimitado. Com uma conta gratuita, tem à sua disposição todas as funcionalidades básicas para gerir digitalmente os stocks, os locais de armazenamento e os movimentos de mercadorias.'
       - q: "O SeaTable é uma alternativa ao Excel para a gestão de armazéns?"
-        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Excel]({{< relref "pages/excel-alternative" >}}) para gestão de armazéns. Ao contrário da gestão de armazéns no Excel, o SeaTable oferece capacidade multisservidor, acesso em tempo real, automatizações, autorizações e interfaces de aplicações – ideal para equipas e empresas em crescimento.'
+        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para gestão de armazéns. Ao contrário da gestão de armazéns no Excel, o SeaTable oferece capacidade multisservidor, acesso em tempo real, automatizações, autorizações e interfaces de aplicações – ideal para equipas e empresas em crescimento.'
       - q: "É possível importar a minha lista de inventário existente no Excel para o SeaTable?"
         a: 'Sim, é possível importar facilmente ficheiros Excel ou CSV existentes com os seus dados de armazenamento para o SeaTable. Após a importação, pode ajustar colunas, criar relações entre tabelas e beneficiar de todas as vantagens do modelo de gestão de armazenamento.'
       - q: "O sistema SeaTable para gestão de armazéns pode ser ampliado?"

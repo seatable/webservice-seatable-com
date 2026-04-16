@@ -33,7 +33,7 @@ Accordingly, Citizen Development is the structured approach in which employees w
 
 > The term Citizen Developer is deliberately chosen in contrast to professional developers.
 
-A citizen developer can act either as an individual **expert** in their field or as a member of a **task force**. In a small company or start-up without its own [IT]({{< relref "pages/industry-solutions/software-development" >}}), a citizen developer is primarily someone who develops practical IT solutions independently and on a small budget.
+A citizen developer can act either as an individual **expert** in their field or as a member of a **task force**. In a small company or start-up without its own [IT]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), a citizen developer is primarily someone who develops practical IT solutions independently and on a small budget.
 
 ![Citizen Development works without programming](citizen-development.jpg)
 

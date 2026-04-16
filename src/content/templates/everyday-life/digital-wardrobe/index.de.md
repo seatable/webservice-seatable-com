@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'Ihr digitaler Kleiderschrank mit KI-Funktionen'
       subtitle: 'Smarter Alltagshelfer'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "pages/ai-automations" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
         text: 'Erfassen Sie Notizen zu Anlass, Stimmung und Tragekomfort und generieren Sie automatisch eine kurze Style-Headline zu jedem Outfit. In der Kalender-Ansicht haben Sie dann einen prägnanten Überblick über den Look, ohne den kompletten Datensatz lesen zu müssen.'
@@ -167,6 +167,6 @@ sections:
       - q: "Kann ich auch Fotos von Outfits und Kombinationen speichern?"
         a: 'Ja, Sie können Fotos, Videos und andere Dateien speichern und mit Ihren gespeicherten Kleidungsstücken und Outfits verknüpfen.'
       - q: 'Ist die KI-Nutzung bei SeaTable DSGVO-konform?'
-        a: 'Absolut, mit SeaTable brauchen Sie sich keine Gedanken zu machen, ob Ihre Informationen als Trainingsdaten missbraucht werden. Wir hosten SeaTable Cloud und [unser eigenes KI-Modell]({{< relref "pages/ai-automations" >}}) auf zertifizierten europäischen Servern in Deutschland. Es findet kein Datenaustausch mit externen KI-Anbietern statt und Ihre Daten verlassen zu keinem Zeitpunkt die SeaTable-Infrastruktur.'        
+        a: 'Absolut, mit SeaTable brauchen Sie sich keine Gedanken zu machen, ob Ihre Informationen als Trainingsdaten missbraucht werden. Wir hosten SeaTable Cloud und [unser eigenes KI-Modell]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) auf zertifizierten europäischen Servern in Deutschland. Es findet kein Datenaustausch mit externen KI-Anbietern statt und Ihre Daten verlassen zu keinem Zeitpunkt die SeaTable-Infrastruktur.'        
 ---
 

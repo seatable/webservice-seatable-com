@@ -17,7 +17,7 @@ register:
 
 ## Why you need a sales strategy
 
-Without a clear sales strategy, your sales department (and to a certain extent your [marketing department]({{< relref "pages/industry-solutions/marketing" >}})) will lack direction. Measures come to nothing or do not contribute to the corporate objective. Only with a formulated, documented and communicated strategy can your sales department target [customers]({{< relref "pages/industry-solutions/kundenmanagement" >}}) and adapt to changing market conditions with ease.
+Without a clear sales strategy, your sales department (and to a certain extent your [marketing department]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})) will lack direction. Measures come to nothing or do not contribute to the corporate objective. Only with a formulated, documented and communicated strategy can your sales department target [customers]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) and adapt to changing market conditions with ease.
 
 The most serious disadvantages of a missing sales strategy are:
 

@@ -74,7 +74,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: "Utiliser la liste d'inventaire en ligne avec SeaTable"
       subtitle: 'Vos avantages'
-      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et son adaptabilité. Grâce à notre logiciel de gestion des stocks, vous bénéficiez de nombreux avantages et pouvez également gérer des [processus inventaire]({{< relref "pages/industry-solutions/operations" >}}) complexes.'
+      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et son adaptabilité. Grâce à notre logiciel de gestion des stocks, vous bénéficiez de nombreux avantages et pouvez également gérer des [processus inventaire]({{< relref "pages/landing-pages/industry-solutions/operations" >}}) complexes.'
       items:
       - text: "Toujours à jour : restez informé grâce aux fonctions de communication, à l'historique complet des modifications et aux mises à jour en temps réel."
       - text: "Accès depuis n'importe où : grâce à une liste d'inventaire en ligne, vous avez accès à vos données à tout moment et les protégez contre toute perte."
@@ -175,7 +175,7 @@ sections:
       - q: "Puis-je utiliser gratuitement le modèle de liste d'inventaire de SeaTable ?"
         a: "Oui, vous pouvez utiliser gratuitement le modèle de liste d'inventaire avec SeaTable. Il vous suffit de créer un compte gratuit et vous pouvez immédiatement commencer à gérer votre inventaire de manière numérique."
       - q: "SeaTable constitue-t-il une alternative à Excel pour la gestion des stocks ?"
-        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/excel-alternative" >}}) spécialement conçu pour les processus collaboratifs. Contrairement à un modèle Excel de liste inventaire, SeaTable offre une collaboration en temps réel, des notifications automatiques, des autorisations granulaires et des fonctionnalités basées sur IA, ce qui en fait c est un outil idéal pour la gestion moderne des inventaires.'
+        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) spécialement conçu pour les processus collaboratifs. Contrairement à un modèle Excel de liste inventaire, SeaTable offre une collaboration en temps réel, des notifications automatiques, des autorisations granulaires et des fonctionnalités basées sur IA, ce qui en fait c est un outil idéal pour la gestion moderne des inventaires.'
       - q: "Est-il possible d'importer ma liste d'inventaire Excel existante dans SeaTable ?"
         a: "Oui, vous pouvez facilement importer votre modèle Excel de liste d'inventaire existant dans SeaTable. SeaTable prend en charge l'importation de fichiers Excel (.xlsx, .xls) et CSV. Après l'importation, vous pouvez personnaliser la structure des données et bénéficier de toutes les fonctionnalités de SeaTable."
       - q: "Puis-je également enregistrer les stocks de manière mobile ?"

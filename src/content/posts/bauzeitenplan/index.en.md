@@ -97,7 +97,7 @@ One of the most common mistakes is to treat **all tasks as equally important**. 
 
 Many private builders start their construction schedule with a simple Excel spreadsheet. This is certainly helpful for getting started, but as soon as several people are involved, it quickly becomes confusing. Different file versions, changes and a lack of synchronization often lead to confusion.
 
-With the [AI no-code-platform]({{< relref "/" >}}), you can create your construction schedule, adjust it at any time and share it with others. Changes are automatically applied and you can see immediately if something shifts. The [construction schedule]({{< relref "templates/real-estate/construction-schedule" >}}) is free of charge and ideal for private builders who want to [manage their project in a structured and clear way]({{< relref "pages/industry-solutions/project-management" >}}).
+With the [AI no-code-platform]({{< relref "/" >}}), you can create your construction schedule, adjust it at any time and share it with others. Changes are automatically applied and you can see immediately if something shifts. The [construction schedule]({{< relref "templates/real-estate/construction-schedule" >}}) is free of charge and ideal for private builders who want to [manage their project in a structured and clear way]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
 
 {{< template-box id="ef8bfa0896864e698655" >}}
 

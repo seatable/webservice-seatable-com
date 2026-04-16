@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Projektplan Vorlage online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code Lösung SeaTable kombiniert flexible Datenbanklogik mit modernen Ansichten wie Gantt-Diagramm, Kanban-Ansicht und Kalender. Mit dieser Vorlage planen Sie Projekte vom Kick-off bis zum Abschluss, behalten Deadlines, Abhängigkeiten und Ressourcen im Blick und schaffen eine gemeinsame Grundlage für das Stakeholder-Management im gesamten Team – nutzen Sie SeaTable als flexibles [Projektmangement Tool]({{< relref "pages/industry-solutions/project-management" >}}).'
+      description: 'Die KI No-Code Lösung SeaTable kombiniert flexible Datenbanklogik mit modernen Ansichten wie Gantt-Diagramm, Kanban-Ansicht und Kalender. Mit dieser Vorlage planen Sie Projekte vom Kick-off bis zum Abschluss, behalten Deadlines, Abhängigkeiten und Ressourcen im Blick und schaffen eine gemeinsame Grundlage für das Stakeholder-Management im gesamten Team – nutzen Sie SeaTable als flexibles [Projektmangement Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).'
       items:
       - text: '**Stets aktuell:** Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleibt Ihre Projektplanung immer auf dem neuesten Stand – von ersten Ideen bis zum Abschluss.'
       - text: '**Zugriff von überall:** Mit einer online geführten, Cloud-basierten Vorlage greifen Sie im Büro, im Homeoffice oder beim Kunden jederzeit auf Ihren Projektplan und alle Ansichten zu.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestützter Projektplan'
       subtitle: 'Smarte Automatisierung für Ihren Projektplan'
-      description: 'Nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), um Ihre Projektplanung zu optimieren und auf ein neues Level zu heben. Automatisieren Sie lästige Routineaufgaben und verabschieden Sie sich von der mühsamen Pflege von Excel-Dateien. Gewinnen Sie wertvolle Zeit für Analysen und treffen Sie fundierte Entscheidungen über Prioritäten und Ressourcen. Verwandeln Sie Ihre Projektplanung in ein effizientes und stressfreies Erlebnis. Starten Sie jetzt durch und erleben Sie, wie einfach Projektmanagement sein kann!'
+      description: 'Nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), um Ihre Projektplanung zu optimieren und auf ein neues Level zu heben. Automatisieren Sie lästige Routineaufgaben und verabschieden Sie sich von der mühsamen Pflege von Excel-Dateien. Gewinnen Sie wertvolle Zeit für Analysen und treffen Sie fundierte Entscheidungen über Prioritäten und Ressourcen. Verwandeln Sie Ihre Projektplanung in ein effizientes und stressfreies Erlebnis. Starten Sie jetzt durch und erleben Sie, wie einfach Projektmanagement sein kann!'
       items:
       - headline: 'Aufgaben automatisch klassifizieren'
         text: 'Mit KI-gestützter Klassifizierung ordnet SeaTable neue Aufgaben anhand von Titel und Beschreibung automatisch passenden Phasen, Kategorien oder Meilensteinen zu. So landen Einträge direkt im richtigen Kontext Ihrer Projektplan Vorlage – etwa im Gantt-Diagramm, in der Kanban-Ansicht oder in speziellen Risiko- und Change-Views, ohne manuelle Nachpflege durch Projektmanager.'

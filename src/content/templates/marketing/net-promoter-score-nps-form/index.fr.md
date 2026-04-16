@@ -122,7 +122,7 @@ sections:
       weight: 16
       title: 'Analyse des commentaires assistée par IA avec SeaTable'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent vos enquêtes NPS et vos analyses de commentaires à un niveau supérieur. Automatisez les évaluations et obtenez des informations plus approfondies sur les opinions des clients.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui élèvent vos enquêtes NPS et vos analyses de commentaires à un niveau supérieur. Automatisez les évaluations et obtenez des informations plus approfondies sur les opinions des clients.'
       items:
       - headline: 'Analyse automatique du sentiment avec Classify'
         text: 'Classez automatiquement les commentaires libres en fonction de leur tonalité : la fonction IA « Classify » évalue les commentaires des clients comme « positifs », « neutres » ou « négatifs » et détecte la tonalité émotionnelle, ce qui est idéal pour évaluer rapidement de grandes quantités de commentaires sans avoir à lire manuellement chaque réponse.'

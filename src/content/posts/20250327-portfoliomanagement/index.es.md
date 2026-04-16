@@ -42,7 +42,7 @@ La gestión de carteras le ofrece numerosas ventajas en todos los ámbitos.
 
 ## Gestión de la cartera de proyectos
 
-La gestión de la cartera de proyectos (PPM) se encarga de la **gestión global, la planificación y el control de todos los proyectos** interrelacionados de una empresa. Sobre todo, pretende garantizar que los recursos se distribuyan de forma óptima y que los proyectos se prioricen de tal manera que apoyen mejor los objetivos estratégicos de la empresa. La gestión de la cartera de proyectos es, por tanto, una tarea permanente que se repite cíclicamente y requiere la evaluación de muchos proyectos. Esta es la mayor diferencia con la [gestión de proyectos] normal ({{< relref "pages/industry-solutions/project-management" >}}), que suele terminar con la finalización de proyectos individuales.
+La gestión de la cartera de proyectos (PPM) se encarga de la **gestión global, la planificación y el control de todos los proyectos** interrelacionados de una empresa. Sobre todo, pretende garantizar que los recursos se distribuyan de forma óptima y que los proyectos se prioricen de tal manera que apoyen mejor los objetivos estratégicos de la empresa. La gestión de la cartera de proyectos es, por tanto, una tarea permanente que se repite cíclicamente y requiere la evaluación de muchos proyectos. Esta es la mayor diferencia con la [gestión de proyectos] normal ({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), que suele terminar con la finalización de proyectos individuales.
 
 **Nota**: En las grandes empresas y administraciones públicas, suele existir un departamento independiente para la gestión de la cartera de proyectos: la **Oficina de Gestión de Proyectos (PMO)**.
 

@@ -137,7 +137,7 @@ Utilice un programa de incorporación adecuado para mantener una visión de conj
 
 ## El programa de incorporación adecuado a sus necesidades
 
-Con la plantilla gratuita de SeaTable, puede diseñar su proceso de incorporación de forma tan eficiente que no sólo aliviará sus [procesos de RR.HH.]({{< relref "pages/industry-solutions/hr" >}}), sino que también facilitará al máximo la incorporación de sus nuevos empleados.
+Con la plantilla gratuita de SeaTable, puede diseñar su proceso de incorporación de forma tan eficiente que no sólo aliviará sus [procesos de RR.HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), sino que también facilitará al máximo la incorporación de sus nuevos empleados.
 
 Con un solo clic, puede crear una lista de comprobación intuitiva con todas las tareas pendientes para cada nuevo empleado, para que todos sepan exactamente lo que hay que hacer. Para evitar el caos y el papeleo, puede almacenar todos los documentos importantes directamente en la tabla y hacer que se firmen digitalmente.
 

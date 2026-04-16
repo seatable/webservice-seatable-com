@@ -49,7 +49,7 @@ Grâce à No-Code, vous ne dépendez pas de développeurs de logiciels, de consu
 
 ### Avoir une solution prête pour tout
 
-Un logiciel d'entreprise classique ne couvre généralement qu'un seul domaine (par exemple, [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [ressources humaines]({{< relref "pages/industry-solutions/hr" >}}) ou [comptabilité]({{< relref "posts/debitorenbuchhaltung" >}})) ou certains processus (par exemple [suivi des temps]({{< relref "templates/projects/project-time-tracking" >}}), [facturation]({{< relref "posts/fakturierung" >}}) ou [support client]({{< relref "posts/no-code-crm" >}}). En revanche, le no-code est une **arme universelle** qui vous permet de reproduire de manière flexible n'importe quel processus.
+Un logiciel d'entreprise classique ne couvre généralement qu'un seul domaine (par exemple, [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [ressources humaines]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) ou [comptabilité]({{< relref "posts/debitorenbuchhaltung" >}})) ou certains processus (par exemple [suivi des temps]({{< relref "templates/projects/project-time-tracking" >}}), [facturation]({{< relref "posts/fakturierung" >}}) ou [support client]({{< relref "posts/no-code-crm" >}}). En revanche, le no-code est une **arme universelle** qui vous permet de reproduire de manière flexible n'importe quel processus.
 
 ### Se concentrer sur l'essentiel
 
@@ -116,7 +116,7 @@ Si vous créez une start up, vous travaillerez probablement seul ou en petites �
 *   [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en temps réel
 *   [enregistrement du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}})
 *   [gestion du personnel]({{< relref "posts/20250317-hris" >}})
-*   [recrutement]({{< relref "posts/20250317-recruiting" >}}) et [gestion des candidats]({{< relref "pages/bewerbermanagement" >}})
+*   [recrutement]({{< relref "posts/20250317-recruiting" >}}) et [gestion des candidats]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 
 ## Modèles adaptés pour créer une start-up
 

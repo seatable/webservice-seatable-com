@@ -17,7 +17,7 @@ url: '/es/low-code'
 
 ## Di Ciao a la codificación - con Low Code y No Code
 
-¿Alguna vez ha deseado poder desarrollar sus propias soluciones de software con unos pocos clics, sin tener que escribir línea tras línea de código? Imagínese lo fácil y rápido que le resultaría de repente [Desarrollo de software]({{< relref "pages/industry-solutions/software-development" >}}). ¿Parece ciencia ficción? Pero no lo es: ¡échale un vistazo al mundo del desarrollo de bajo código con nosotros! En el siguiente artículo, también veremos la diferencia entre low code y no code y aclararemos qué es una plataforma no-code/low-code.
+¿Alguna vez ha deseado poder desarrollar sus propias soluciones de software con unos pocos clics, sin tener que escribir línea tras línea de código? Imagínese lo fácil y rápido que le resultaría de repente [Desarrollo de software]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}). ¿Parece ciencia ficción? Pero no lo es: ¡échale un vistazo al mundo del desarrollo de bajo código con nosotros! En el siguiente artículo, también veremos la diferencia entre low code y no code y aclararemos qué es una plataforma no-code/low-code.
 
 ## ¿Qué es el low code?
 
@@ -45,7 +45,7 @@ Los rasgos principales de una plataforma de bajo código pueden resumirse con es
 
 ## ¿Qué es No Code?
 
-No Code va un paso más allá: a diferencia de las plataformas low-code, una **plataforma no-code** está dirigida a usuarios sin conocimientos de programación. En el entorno de desarrollo totalmente visual, se pueden crear aplicaciones principalmente arrastrando y soltando sin tener que escribir ni una sola línea de código. No Code es, por tanto, ideal para crear aplicaciones sencillas y [flujos de trabajo automatizados]({{< relref "pages/industry-solutions/individual" >}}). La atención se centra claramente en la velocidad y la facilidad de uso; no se prevé la integración de código escrito por el usuario.
+No Code va un paso más allá: a diferencia de las plataformas low-code, una **plataforma no-code** está dirigida a usuarios sin conocimientos de programación. En el entorno de desarrollo totalmente visual, se pueden crear aplicaciones principalmente arrastrando y soltando sin tener que escribir ni una sola línea de código. No Code es, por tanto, ideal para crear aplicaciones sencillas y [flujos de trabajo automatizados]({{< relref "pages/landing-pages/industry-solutions/individual" >}}). La atención se centra claramente en la velocidad y la facilidad de uso; no se prevé la integración de código escrito por el usuario.
 
 ## Low code vs. no code
 

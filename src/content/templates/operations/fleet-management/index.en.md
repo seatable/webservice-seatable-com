@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'AI-supported fleet management'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your fleet management to a whole new level. Automate recurring tasks in everyday fleet operations, reduce manual routine work, and free up time for evaluations, optimization, and strategic decisions in fleet management.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your fleet management to a whole new level. Automate recurring tasks in everyday fleet operations, reduce manual routine work, and free up time for evaluations, optimization, and strategic decisions in fleet management.'
       items:
       - headline: 'Classification with Classify'
         text: 'With Classify, you can automatically assign new vehicles or booking requests by type, area of use, or location. This ensures that data records end up in the right category and you can immediately see which parts of your fleet are being used particularly heavily.'
@@ -162,7 +162,7 @@ sections:
       box-position: [right!]
       items:
       - headline: Alternative to Excel
-        text: 'With SeaTable, you can manage your vehicle fleet more efficiently than in Excel—with linked tables, views, and automations. A powerful [alternative to Excel]({{< relref "pages/excel-alternative" >}}).'
+        text: 'With SeaTable, you can manage your vehicle fleet more efficiently than in Excel—with linked tables, views, and automations. A powerful [alternative to Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
       - headline: Digital logbook 
         text: 'Use SeaTable to create a [digital logbook]({{< relref "posts/fahrtenbuch" >}}) and link trips directly to your fleet management system – this allows you to keep track of usage and costs.'
       - headline: GDPR compliant

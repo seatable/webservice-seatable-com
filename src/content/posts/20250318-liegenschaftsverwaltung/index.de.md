@@ -55,7 +55,7 @@ Planen Sie bauliche Veränderungen an Ihren Liegenschaften, ist das Baurecht der
 
 ### Datenschutz
 
-Ein bedeutender Bereich der Liegenschaftsverwaltung, der häufig nicht sofort ins Auge fällt, ist der Datenschutz. Besonders im [öffentlichen Dienst]({{< relref "pages/industry-solutions/public-service" >}}) oder bei größeren Verwaltungseinheiten müssen Sie Mieter- und Eigentümerdaten DSGVO-konform verwalten. Das bedeutet, dass Sie personenbezogene Daten nur mit Einwilligung erheben und sicher speichern dürfen. Ein effektiver Schutz vor unbefugtem Zugriff auf diese Daten ist unabdingbar, um sowohl rechtliche Konsequenzen als auch Vertrauensverluste zu vermeiden.
+Ein bedeutender Bereich der Liegenschaftsverwaltung, der häufig nicht sofort ins Auge fällt, ist der Datenschutz. Besonders im [öffentlichen Dienst]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) oder bei größeren Verwaltungseinheiten müssen Sie Mieter- und Eigentümerdaten DSGVO-konform verwalten. Das bedeutet, dass Sie personenbezogene Daten nur mit Einwilligung erheben und sicher speichern dürfen. Ein effektiver Schutz vor unbefugtem Zugriff auf diese Daten ist unabdingbar, um sowohl rechtliche Konsequenzen als auch Vertrauensverluste zu vermeiden.
 
 ## Wann Sie die Liegenschaftsverwaltung an Externe vergeben können
 

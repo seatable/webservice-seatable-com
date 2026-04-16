@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Inventarliste online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile'
-      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Inventarliste Software profitieren Sie von vielen Vorteilen und können auch komplexe [Inventarprozesse]({{< relref "pages/industry-solutions/operations" >}}) abbilden.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit unserer Inventarliste Software profitieren Sie von vielen Vorteilen und können auch komplexe [Inventarprozesse]({{< relref "pages/landing-pages/industry-solutions/operations" >}}) abbilden.'
       items:
       - text: 'Stets aktuell: Bleiben Sie dank der Kommunikationsfunktionen, vollständiger Änderungshistorie und Echtzeitaktualisierung immer auf dem neuesten Stand.'
       - text: 'Zugriff von überall: Mit einer Online-Inventarliste haben Sie zu jeder Zeit Zugriff und schützen Ihre Daten vor Verlust.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Inventarverwaltung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Inventarverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Inventarverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
       items:
       - headline: 'Automatische Klassifizierung mit Classify'
         text: 'Lassen Sie neue Assets automatisch kategorisieren: Die KI-Funktion „Classify" erkennt anhand von Beschreibungen, Herstellern oder Produktnamen die passende Kategorie und ordnet Gegenstände selbstständig der richtigen Klasse zu – perfekt für schnelle und fehlerfreie Bestandserfassung.'
@@ -177,7 +177,7 @@ sections:
       - q: "Kann ich die Inventarliste Vorlage von SeaTable kostenlos nutzen"
         a: 'Ja, Sie können mit SeaTable die Vorlage Inventarliste kostenlos nutzen. Dafür benötigen Sie lediglich einen kostenfreien Account und können sofort loslegen, Ihr Inventar digital zu verwalten.'
       - q: "Ist SeaTable eine Alternative zu Excel für die Inventarverwaltung?"
-        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) speziell für kollaborative Prozesse. Im Gegensatz zu einer Inventarliste Excel Vorlage bietet SeaTable Echtzeit-Zusammenarbeit, automatische Benachrichtigungen, granulare Berechtigungen und KI-gestützte Funktionen – perfekt für moderne Inventarverwaltung.'
+        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) speziell für kollaborative Prozesse. Im Gegensatz zu einer Inventarliste Excel Vorlage bietet SeaTable Echtzeit-Zusammenarbeit, automatische Benachrichtigungen, granulare Berechtigungen und KI-gestützte Funktionen – perfekt für moderne Inventarverwaltung.'
       - q: "Kann ich meine bestehende Excel-Inventarliste in SeaTable importieren?"
         a: 'Ja, Sie können Ihre vorhandene Inventarliste Excel Vorlage problemlos in SeaTable importieren. SeaTable unterstützt den Import von Excel-Dateien (.xlsx, .xls) und CSV-Dateien. Nach dem Import können Sie die Datenstruktur anpassen und von allen SeaTable-Funktionen profitieren.'
       - q: "Kann ich Bestände auch mobil erfassen?"

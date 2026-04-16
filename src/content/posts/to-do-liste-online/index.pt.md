@@ -19,7 +19,7 @@ Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantage
 
 ## Para que é que precisa de uma lista de tarefas
 
-Tanto em casa como na [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) profissionais, é importante manter um registo de todas as tarefas futuras e trabalhá-las uma a uma. O primeiro passo é registar as **tarefas** específicas numa lista de afazeres. Em seguida, defina as **subtarefas** ou **as categorias** mais abrangentes, determine **as responsabilidades** e estabeleça **prazos**.
+Tanto em casa como na [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) profissionais, é importante manter um registo de todas as tarefas futuras e trabalhá-las uma a uma. O primeiro passo é registar as **tarefas** específicas numa lista de afazeres. Em seguida, defina as **subtarefas** ou **as categorias** mais abrangentes, determine **as responsabilidades** e estabeleça **prazos**.
 
 É possível utilizar um **estado** para indicar se uma tarefa está a ser processada ou se foi concluída. Um estado pendente também é concebível se estiver à espera de uma resposta ou de um input. Também deve **estabelecer prioridades** para as suas tarefas, de modo a que as mais importantes sejam sempre as primeiras a ser executadas.
 

@@ -211,7 +211,7 @@ Logo de wix
 
 Wix est l'un des constructeurs de sites web les plus connus actuellement et est développé à Tel Aviv. Le slogan de Wix est "Ce que vous voyez est ce que vous obtenez" et souligne le principe WYSIWYG voulu.
 
-Avec Wix, même les novices sans aucune connaissance en HTML peuvent créer rapidement des sites web attrayants et complexes par simple glisser-déposer. C'est étonnamment facile grâce aux plus de 800 modèles différents que Wix propose après quelques questions sur la conception générale. Outre l'éditeur web, Wix propose de nombreuses intégrations dans le domaine du commerce électronique, du [marketing]({{< relref "pages/industry-solutions/marketing" >}}) ou de l'analyse SEO. Aucun autre constructeur de sites Web ne propose une telle quantité de fonctionnalités, ce qui explique pourquoi Wix propose une offre à la fois qualitative et quantitative.
+Avec Wix, même les novices sans aucune connaissance en HTML peuvent créer rapidement des sites web attrayants et complexes par simple glisser-déposer. C'est étonnamment facile grâce aux plus de 800 modèles différents que Wix propose après quelques questions sur la conception générale. Outre l'éditeur web, Wix propose de nombreuses intégrations dans le domaine du commerce électronique, du [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) ou de l'analyse SEO. Aucun autre constructeur de sites Web ne propose une telle quantité de fonctionnalités, ce qui explique pourquoi Wix propose une offre à la fois qualitative et quantitative.
 
 ### Webflow (constructeur de sites web)
 

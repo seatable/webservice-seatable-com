@@ -82,7 +82,7 @@ sections:
       - text: 'Acesso a partir de qualquer lugar: com um sistema de rastreamento de erros online, o utilizador tem acesso a qualquer momento e mantém uma visão geral – no escritório, em casa ou no local do cliente.'
       - text: 'Transparência no processo: associe problemas a testes e versões para visualizar a qualquer momento onde os erros foram detetados e em que versão foram corrigidos.'
       - text: 'Escalável: o nosso modelo de sistema de rastreamento de bugs cresce de acordo com as suas necessidades, independentemente do número de projetos, componentes ou membros da equipa que gere.'
-      - text: 'Automatizado e integrado: conecte o seu Bug Tracker ao seu [Gerenciamento de Serviços de TI]({{< relref "pages/industry-solutions/software-development" >}}) Sistema – para fluxos de trabalho contínuos sem interrupções de mídia.'
+      - text: 'Automatizado e integrado: conecte o seu Bug Tracker ao seu [Gerenciamento de Serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) Sistema – para fluxos de trabalho contínuos sem interrupções de mídia.'
       image_position: [left]
       image: '/images/template_page_bugtacker_01.png'
       image_alt: 'Sistema SeaTable Bug Tracker com visão geral de problemas, testes e versões em tabelas associadas'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Sistema de rastreamento de bugs baseado em IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam o seu sistema de rastreamento de erros a um novo nível. Automatize tarefas recorrentes no rastreamento de erros, reduza o trabalho manual rotineiro e ganhe tempo para análise, priorização, garantia de qualidade e um planeamento de lançamento fundamentado com bases de decisão claras.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam o seu sistema de rastreamento de erros a um novo nível. Automatize tarefas recorrentes no rastreamento de erros, reduza o trabalho manual rotineiro e ganhe tempo para análise, priorização, garantia de qualidade e um planeamento de lançamento fundamentado com bases de decisão claras.'
       items:
       - headline: 'Classificação com Classify'
         text: 'A função de IA "Classify" classifica novos problemas em categorias ou componentes adequados com base no título e na descrição. Assim, os erros são direcionados diretamente para a coluna correta e as equipas identificam pontos críticos em determinados módulos com muito mais rapidez.'
@@ -188,7 +188,7 @@ sections:
       - q: "É possível criar campos e fluxos de trabalho personalizados no sistema Bug Tracker?"
         a: 'Sim, é possível adicionar colunas, tabelas, visualizações e automatizações adicionais a qualquer momento. Desta forma, é possível adaptar o sistema de rastreamento de erros de forma flexível aos seus processos de lançamento, teste e suporte.'
       - q: "O SeaTable pode ser utilizado como alternativa ao Asana no rastreamento de bugs?"
-        a: 'Sim, o SeaTable é uma excelente [alternativa ao Asana]({{< relref "pages/asana-alternative" >}}), se pretende associar mais estreitamente o acompanhamento de tarefas e bugs à lógica da base de dados. Em vez de quadros rígidos, crie as suas próprias estruturas, associe bugs a testes e versões e, se necessário, crie mais fluxos de trabalho de gestão de projetos na mesma plataforma.'
+        a: 'Sim, o SeaTable é uma excelente [alternativa ao Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), se pretende associar mais estreitamente o acompanhamento de tarefas e bugs à lógica da base de dados. Em vez de quadros rígidos, crie as suas próprias estruturas, associe bugs a testes e versões e, se necessário, crie mais fluxos de trabalho de gestão de projetos na mesma plataforma.'
       - q: "O modelo suporta um modelo padronizado de relatório de erros de software?"
         a: 'Sim, o modelo do sistema Bug Tracker contém um modelo predefinido de relatório de erro de software com campos típicos, como título, descrição, ambiente, reprodutibilidade, resultado esperado, resultado real e anexos. É possível expandir essa estrutura conforme necessário ou adaptá-la às suas diretrizes internas sem a necessidade de programação.'
       - q: "Existe suporte para iniciar a utilização do modelo Bug Tracker?"

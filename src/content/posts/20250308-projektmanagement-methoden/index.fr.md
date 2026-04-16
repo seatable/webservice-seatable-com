@@ -38,7 +38,7 @@ Outre les méthodes classiques et agiles, on trouve les méthodes hybrides de ge
 
 ### Voici comment trouver la bonne méthode pour votre gestion de projet
 
-La méthode de [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) qui convient le mieux à votre projet dépend de la complexité de celui-ci, des ressources dont vous disposez, du calendrier et de la flexibilité face aux changements et aux risques.
+La méthode de [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) qui convient le mieux à votre projet dépend de la complexité de celui-ci, des ressources dont vous disposez, du calendrier et de la flexibilité face aux changements et aux risques.
 
 Posez-vous les questions suivantes :
 

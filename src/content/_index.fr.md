@@ -36,32 +36,32 @@ sections:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Utilisez les diagrammes de Gantt et les tableaux Kanban pour gérer vos projets efficacement. Suivez l’avancement et coordonnez vos équipes.'
-        link: '/pages/industry-solutions/marketing'
+        link: '/pages/landing-pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
         headline: 'Gestion de projet'
         text: "Utilisez les diagrammes de Gantt et les tableaux Kanban pour gérer efficacement vos projets. Suivez les progrès et coordonnez les équipes avec SeaTable."
-        link: '/pages/industry-solutions/project-management'
+        link: '/pages/landing-pages/industry-solutions/project-management'
 
       - icon: 'people-group'
         headline: 'Ressources humaines'
         text: "Gérez les données des employés, les formations et les demandes de congé avec SeaTable. Rationalisez les processus RH et améliorez l'expérience des employés."
-        link: '/pages/industry-solutions/hr'
+        link: '/pages/landing-pages/industry-solutions/hr'
 
       - icon: 'building'
         headline: 'Service public'
         text: "Gérez les dossiers du personnel, les données de formation et les demandes avec SeaTable. Rationalisez les processus et améliorez la transparence dans le service public."
-        link: '/pages/industry-solutions/public-service'
+        link: '/pages/landing-pages/industry-solutions/public-service'
 
       - icon: 'terminal'
         headline: 'Développement de logiciels'
         text: "Gérez les backlogs, les issues, les bugs et les releases avec SeaTable. Optimisez le processus de développement et améliorez la communication au sein de l'équipe."
-        link: '/pages/industry-solutions/software-development'
+        link: '/pages/landing-pages/industry-solutions/software-development'
 
       - icon: 'fingerprint'
         headline: 'Individuel'
         text: "Créez des applications sur mesure pour vos besoins professionnels spécifiques avec SeaTable. Automatisez les processus et améliorez l'efficacité."
-        link: '/pages/industry-solutions/individual'
+        link: '/pages/landing-pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -252,31 +252,31 @@ sections:
     text: "En tant qu'alternative à Airtable, SeaTable offre des fonctionnalités de base de données No-Code complètes, un constructeur d'applications, des tables relationnelles, un fonctionnement sur le cloud et sur site, le tout hébergé en Allemagne conformément au RGPD - idéal pour les flux de travail structurés et inter-équipes pour les entreprises."
     buttons:
     - label: "En savoir plus sur SeaTable comme alternative à Airtable"
-      link: "/pages/airtable-alternative"
+      link: "/pages/landing-pages/alternatives/airtable-alternative"
   - subtitle: Gestion des tâches, planification de projet
     title: Alternatives à Asana
     text: "Gestion des tâches et des projets avec Asana ? SeaTable est une alternative flexible à Asana. Il combine la gestion des tâches, la planification des projets, la vue d'ensemble des ressources, la gestion des jalons et du temps, les tableaux de bord et la gestion des fichiers, ce qui en fait une alternative idéale et évolutive à Asana."
     buttons:
     - label: "En savoir plus sur SeaTable comme alternative à Asana"
-      link: "/pages/asana-alternative"
+      link: "/pages/landing-pages/alternatives/asana-alternative"
   - subtitle: Automatisation, collaboration
     title: Alternative à Excel & Alternative à Microsoft Access
     text: "Des listes classiques aux modèles de données complexes : SeaTable remplace les bases de données Excel et Microsoft Access, reprend là où les deux programmes atteignent leurs limites et permet de créer des tableaux modernes et collaboratifs avec un plus en termes de structure, de sécurité et d'automatisation."
     buttons:
     - label: "En savoir plus sur SeaTable comme alternative à Excel"
-      link: "/pages/excel-alternative"
+      link: "/pages/landing-pages/alternatives/excel-alternative"
   - subtitle: Flexibilité, protection des données
     title: Alternative à Personio
     text: "Processus RH numériques, workflows intelligents et sécurité des données : avec SeaTable, les entreprises gèrent leur personnel et leurs données sensibles de manière efficace, flexible et conforme au RGPD. Les statistiques et les tableaux de bord personnalisés sont à la hauteur de la gestion des performances de Personio et sont en outre personnalisables."
     buttons:
     - label: "En savoir plus sur SeaTable comme alternative à Personio"
-      link: "/pages/personio-alternative"
+      link: "/pages/landing-pages/alternatives/personio-alternative"
   - subtitle: Processus de distribution, évolutivité
     title: Alternative à HubSpot
     text: "La plus flexible des alternatives CRM : SeaTable rassemble toutes les données de vente pertinentes sur une seule plateforme.  Vous apportez vos processus et vos équipes dans l'outil sans avoir à vous adapter à des structures prédéfinies - la solution la plus flexible et la plus évolutive parmi les alternatives de HubSpot."
     buttons:
     - label: "En savoir plus sur SeaTable comme alternative à HubSpot"
-      link: "/pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
   - subtitle: Gestion des connaissances, données relationnelles
     title: Alternative à Notion
     text: "SeaTable combine la gestion des connaissances, les données structurées et les outils collaboratifs - avec une base de données No-Code, des structures relationnelles et un constructeur d'applications - la solution conforme au DSGVO parmi les alternatives Notion pour les besoins complexes des entreprises."

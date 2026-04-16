@@ -20,7 +20,7 @@ register:
 
 ## Qu'est-ce qu'une campagne de marketing ?
 
-Les campagnes de marketing sont des séquences d'activités de marketing stratégiquement planifiées et limitées dans le temps, destinées à un groupe cible spécifique et à la diffusion de messages spécifiques sur les produits et les marques, dans le cadre des objectifs de l'entreprise. Les campagnes typiques de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) servent à accroître la notoriété de la marque et à cultiver l'image, à soutenir le lancement de produits ou, dans le cadre d'une campagne publicitaire classique, à cibler spécifiquement la vente de certains produits et services. Une grande variété de canaux tels que la radio et la télévision, la presse écrite ou les plateformes en ligne peuvent être utilisés.
+Les campagnes de marketing sont des séquences d'activités de marketing stratégiquement planifiées et limitées dans le temps, destinées à un groupe cible spécifique et à la diffusion de messages spécifiques sur les produits et les marques, dans le cadre des objectifs de l'entreprise. Les campagnes typiques de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) servent à accroître la notoriété de la marque et à cultiver l'image, à soutenir le lancement de produits ou, dans le cadre d'une campagne publicitaire classique, à cibler spécifiquement la vente de certains produits et services. Une grande variété de canaux tels que la radio et la télévision, la presse écrite ou les plateformes en ligne peuvent être utilisés.
 
 ## En quoi une campagne de marketing diffère-t-elle d'une stratégie de marketing ?  
 

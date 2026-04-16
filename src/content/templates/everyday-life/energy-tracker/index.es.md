@@ -94,7 +94,7 @@ sections:
         image: '/images/template_page_energytracker_03.png'
         image_alt: 'Todos los contratos de un vistazo en la vista de galería de monitor de energía'
       - headline: 'Barómetro de costes: descuentos frente al consumo'
-        text: 'Su monitor de energía consta de una base de datos con una [estructura de tablas similar a la de Excel]({{< relref "pages/excel-alternative" >}}) y una **aplicación no-code como interfaz**. Aquí encontrará el núcleo de su monitor de energía: los paneles de análisis. Compare su consumo y los costes reales mensualmente, compare su pago anual previsto con los costes reales y cree fácilmente más evaluaciones mediante la función de arrastrar y soltar.'
+        text: 'Su monitor de energía consta de una base de datos con una [estructura de tablas similar a la de Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) y una **aplicación no-code como interfaz**. Aquí encontrará el núcleo de su monitor de energía: los paneles de análisis. Compare su consumo y los costes reales mensualmente, compare su pago anual previsto con los costes reales y cree fácilmente más evaluaciones mediante la función de arrastrar y soltar.'
         image: '/images/template_page_energytracker_02.png'
         image_alt: 'Monitor de energía con indicador de costes y comparación entre valores teóricos y reales'
       - headline: 'Automatizaciones y notificaciones: menos trabajo manual'
@@ -114,7 +114,7 @@ sections:
       weight: 16
       title: 'Su monitor de energía con funciones de IA integradas'
       subtitle: 'Ayudas inteligentes para el día a día'
-      description: 'Con SeaTable, podrá beneficiarse de potentes automatizaciones integradas [basadas en IA]({{< relref "pages/ai-automations" >}}). Resuma la información contractual importante, extraiga datos relevantes como fechas de rescisión o garantías de precios de la electricidad, o genere plantillas de cartas de rescisión, **todo ello conforme al RGPD en servidores europeos ubicados en Alemania**.'
+      description: 'Con SeaTable, podrá beneficiarse de potentes automatizaciones integradas [basadas en IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Resuma la información contractual importante, extraiga datos relevantes como fechas de rescisión o garantías de precios de la electricidad, o genere plantillas de cartas de rescisión, **todo ello conforme al RGPD en servidores europeos ubicados en Alemania**.'
       items:
       - headline: 'Resúmenes automáticos con Summarize'
         text: 'Con la función «Resumir» podrá crear automáticamente breves resúmenes, por ejemplo, de su documentación contractual o de los ajustes tarifarios. Para obtener una visión general rápida.'

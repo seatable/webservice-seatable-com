@@ -79,7 +79,7 @@ Nous vous présentons ci-dessous trois services de cloud computing très répand
 
 ### Qu'est-ce que SaaS ?
 
-Les SaaS (Software as a Service) sont des **applications logicielles basées sur le cloud** telles que les [systèmes CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}) ou les [outils de gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}). SaaS dans le cloud computing signifie que vous pouvez utiliser le logiciel souhaité dans le cloud à tout moment et de n'importe où, par exemple via un navigateur web, sans avoir à l'installer localement sur un appareil. Le fournisseur SaaS héberge le logiciel sur un serveur distant, mais s'occupe également des sauvegardes, des mises à jour et des travaux de maintenance.
+Les SaaS (Software as a Service) sont des **applications logicielles basées sur le cloud** telles que les [systèmes CRM]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) ou les [outils de gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). SaaS dans le cloud computing signifie que vous pouvez utiliser le logiciel souhaité dans le cloud à tout moment et de n'importe où, par exemple via un navigateur web, sans avoir à l'installer localement sur un appareil. Le fournisseur SaaS héberge le logiciel sur un serveur distant, mais s'occupe également des sauvegardes, des mises à jour et des travaux de maintenance.
 
 ### Qu'est-ce que le PaaS ?
 

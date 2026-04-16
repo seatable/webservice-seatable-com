@@ -17,7 +17,7 @@ register:
 
 ## Warum Sie eine Vertriebsstrategie brauchen
 
-Ohne eine klare Vertriebsstrategie fehlt es Ihrem Vertrieb (und bedingt auch dem [Marketing]({{< relref "pages/industry-solutions/marketing" >}})) an Orientierung. Maßnahmen laufen ins Leere oder zahlen nicht auf das Unternehmensziel ein. Erst mit einer ausformulierten, dokumentierten und kommunizierten Strategie kann Ihr Sales [Kunden]({{< relref "pages/industry-solutions/kundenmanagement" >}}) gezielt ansprechen und sich **mühelos an wechselnde Marktbedingungen** anpassen.
+Ohne eine klare Vertriebsstrategie fehlt es Ihrem Vertrieb (und bedingt auch dem [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})) an Orientierung. Maßnahmen laufen ins Leere oder zahlen nicht auf das Unternehmensziel ein. Erst mit einer ausformulierten, dokumentierten und kommunizierten Strategie kann Ihr Sales [Kunden]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) gezielt ansprechen und sich **mühelos an wechselnde Marktbedingungen** anpassen.
 
 Die schwerwiegendsten Nachteile einer fehlenden Vertriebsstrategie sind:
 

@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'AI-powered help desk ticket system'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your IT ticket system to a new level. Automate recurring steps, reduce manual routine work, and free up time for analysis, service improvement, and strategic decisions in IT.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your IT ticket system to a new level. Automate recurring steps, reduce manual routine work, and free up time for analysis, service improvement, and strategic decisions in IT.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new support requests to appropriate service categories, priorities, or teams based on subject and description. New tickets are thus placed directly in the right context, which reduces processing times and improves support quality.'
@@ -180,7 +180,7 @@ sections:
       - q: "Does the template support status tracking and SLAs?"
         a: 'Yes, you can freely configure status fields, SLA data, and escalation rules. This allows the template to accurately replicate your status tracking and SLA management in the help desk ticket system.'
       - q: "Can I link the template to other ITSM processes?"
-        a: 'Yes, you can use the template with other templates for asset management, change management, or [incident management]({{< relref "posts/20250612-incident-management" >}}) combine and thus create an integrated [IT service management]({{< relref "pages/industry-solutions/software-development" >}}) build up.'
+        a: 'Yes, you can use the template with other templates for asset management, change management, or [incident management]({{< relref "posts/20250612-incident-management" >}}) combine and thus create an integrated [IT service management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) build up.'
       - q: "How many users can work with the IT Helpdesk template at the same time?"
         a: 'Multiple users can work on the same base simultaneously, creating and updating tickets. Permissions allow you to control who can read, comment, or edit—ideal for collaborative work within your organization.'
       - q: "Can I create my own fields and workflows in the template?"

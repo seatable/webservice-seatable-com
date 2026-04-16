@@ -30,7 +30,7 @@ A Hcéres foi confrontada com o desafio de tornar os seus complexos processos de
 
 ## Situação inicial: A Hcéres e o desafio de uma gestão de dados eficiente
 
-Enquanto autoridade independente, o Hcéres é responsável pela avaliação de todas as instituições francesas de ensino superior e de investigação. Antes da introdução do SeaTable, estes processos eram geridos principalmente através de folhas de cálculo Excel. No entanto, este método era cada vez mais ineficaz e conduzia a lacunas de segurança e a uma base de dados fragmentada. Era altura de encontrar uma [alternativa Excel]({{< relref "pages/excel-alternative" >}}) que simplificasse todo o processo e satisfizesse os requisitos do Hcéres.
+Enquanto autoridade independente, o Hcéres é responsável pela avaliação de todas as instituições francesas de ensino superior e de investigação. Antes da introdução do SeaTable, estes processos eram geridos principalmente através de folhas de cálculo Excel. No entanto, este método era cada vez mais ineficaz e conduzia a lacunas de segurança e a uma base de dados fragmentada. Era altura de encontrar uma [alternativa Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) que simplificasse todo o processo e satisfizesse os requisitos do Hcéres.
 
 ## A transição do Excel para o SeaTable: Porque é que o SeaTable foi a escolha certa para a Hcéres
 

@@ -39,7 +39,7 @@ A orçamentação - também conhecida como planeamento orçamental ou atribuiç�
 
 ## O orçamento anda de mãos dadas com o planeamento financeiro
 
-**O planeamento do orçamento operacional** faz parte do [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) a curto prazo, no qual estima as suas receitas e despesas futuras para o ano seguinte. Utiliza os dados do exercício atual e/ou anterior para obter previsões de desenvolvimentos futuros. Ao contrário do [plano financeiro]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), a orçamentação centra-se geralmente no lado das despesas - independentemente da origem do dinheiro.
+**O planeamento do orçamento operacional** faz parte do [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) a curto prazo, no qual estima as suas receitas e despesas futuras para o ano seguinte. Utiliza os dados do exercício atual e/ou anterior para obter previsões de desenvolvimentos futuros. Ao contrário do [plano financeiro]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), a orçamentação centra-se geralmente no lado das despesas - independentemente da origem do dinheiro.
 
 **O planeamento estratégico do orçamento** para os próximos dois a cinco anos é também bastante comum. Isto ajuda-o a tomar decisões comerciais a longo prazo que irão fazer avançar a sua empresa e garantir o seu sucesso, como a abertura de novas localizações. No entanto, quanto mais distante for o horizonte de planeamento, mais difícil e incerto será fazer uma previsão exacta.
 
@@ -120,7 +120,7 @@ O planeamento do orçamento para toda a empresa é composto pelos sub-orçamento
 
 Para que a orçamentação seja transparente, é importante envolver todos os serviços no planeamento orçamental numa fase inicial. As áreas importantes são o planeamento do orçamento de pessoal (recrutamento, salários, etc.), o planeamento do orçamento de marketing e o planeamento do orçamento de TI. Estes departamentos gerem normalmente grandes orçamentos próprios e são indispensáveis para o planeamento estratégico do orçamento.
 
-A seguir, analisamos mais de perto o planeamento orçamental em [TI]({{< relref "pages/industry-solutions/software-development" >}}) e [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}). Se estiver interessado em [planeamento de pessoal]({{< relref "personalplanung" >}}) ou num [plano de marketing]({{< relref "posts/20250318-marketingplan" >}}), clique nos artigos ligados para obter mais informações.
+A seguir, analisamos mais de perto o planeamento orçamental em [TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) e [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). Se estiver interessado em [planeamento de pessoal]({{< relref "personalplanung" >}}) ou num [plano de marketing]({{< relref "posts/20250318-marketingplan" >}}), clique nos artigos ligados para obter mais informações.
 
 ### Planeamento do orçamento de TI
 
@@ -158,7 +158,7 @@ Com base nestas análises e objectivos, os gestores comunicam quanto dinheiro pr
 
 ## Crie os seus planos orçamentais com o SeaTable
 
-Muitas pessoas utilizam [folhas de cálculo Excel]({{< relref "pages/excel-alternative" >}}) para o seu planeamento orçamental, mas estas apenas oferecem funções e opções de visualização limitadas. No **SeaTable** pode [registar-se gratuitamente]({{< relref "pages/registration" >}}) e começar diretamente com o modelo apresentado acima. Pode agrupar e avaliar todos os centros de custos, objectivos, orçamentos e despesas numa base de dados central.
+Muitas pessoas utilizam [folhas de cálculo Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para o seu planeamento orçamental, mas estas apenas oferecem funções e opções de visualização limitadas. No **SeaTable** pode [registar-se gratuitamente]({{< relref "pages/registration" >}}) e começar diretamente com o modelo apresentado acima. Pode agrupar e avaliar todos os centros de custos, objectivos, orçamentos e despesas numa base de dados central.
 
 Atribua responsabilidades orçamentais aos seus gestores e utilize o **SeaTable como ferramenta de colaboração** para trabalhar na orçamentação com vários departamentos ao mesmo tempo. Isto permite-lhe ajustar o plano orçamental ao longo do ano, acompanhar o **registo de despesas em tempo real** e ter sempre uma visão geral do orçamento atual.
 

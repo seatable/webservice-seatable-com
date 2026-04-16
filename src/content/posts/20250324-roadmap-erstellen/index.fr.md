@@ -99,7 +99,7 @@ Jira offre un outil de feuille de route puissant, spécialement conçu pour les 
 
 ### Outils de gestion de projet et de feuille de route comme SeaTable
 
-D'autres fournisseurs proposent en outre des modèles de feuilles de route directement utilisables, qui permettent à la fois de collecter des données et de les visualiser. Les outils de roadmap [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) sérieux comme SeaTable misent sur des modèles **personnalisables** que vous pouvez adapter exactement à vos besoins et vous montrent, avant même le téléchargement, un aperçu des fonctionnalités qui vous attendent. Vous évitez ainsi d'acheter un chat dans un sac.
+D'autres fournisseurs proposent en outre des modèles de feuilles de route directement utilisables, qui permettent à la fois de collecter des données et de les visualiser. Les outils de roadmap [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) sérieux comme SeaTable misent sur des modèles **personnalisables** que vous pouvez adapter exactement à vos besoins et vous montrent, avant même le téléchargement, un aperçu des fonctionnalités qui vous attendent. Vous évitez ainsi d'acheter un chat dans un sac.
 
 En outre, un bon outil doit permettre plusieurs types de représentation, comme des calendriers, des lignes de temps, des diagrammes de Gantt ou des organigrammes, afin de pouvoir préparer les données de manière individuelle pour différentes personnes et à différentes fins. L'important est d'avoir à portée de main exactement les **fonctions clés** dont vous avez besoin pour votre travail.
 
@@ -119,7 +119,7 @@ Si vous cherchez un modèle qui vous permette de consigner plus facilement les r
 
 ### Feuille de route stratégique
 
-Vous êtes directeur ou membre du conseil d'administration et vous souhaitez expliquer à vos collaborateurs ou à d'autres parties prenantes la **vision globale** de l'entreprise de manière claire et accessible ? Une feuille de route stratégique, qui présente de nombreuses similitudes avec un business plan, est alors l'outil de choix. Elle vous permet d'illustrer vos objectifs à court et à long terme (par exemple en matière de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) et de vente), de rendre [la planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et toutes les mesures nécessaires à la réalisation de la vision d'entreprise accessibles en un coup d'œil.
+Vous êtes directeur ou membre du conseil d'administration et vous souhaitez expliquer à vos collaborateurs ou à d'autres parties prenantes la **vision globale** de l'entreprise de manière claire et accessible ? Une feuille de route stratégique, qui présente de nombreuses similitudes avec un business plan, est alors l'outil de choix. Elle vous permet d'illustrer vos objectifs à court et à long terme (par exemple en matière de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) et de vente), de rendre [la planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et toutes les mesures nécessaires à la réalisation de la vision d'entreprise accessibles en un coup d'œil.
 
 Le modèle de SeaTable illustre clairement tous les processus importants. Vous pouvez les adapter à votre entreprise.
 
@@ -133,7 +133,7 @@ En cas d'utilisation externe, la feuille de route du produit sert à présenter 
 
 Une roadmap technologique ou informatique vous aide si votre objectif est de visualiser l'infrastructure technologique ou le développement de logiciels dans votre entreprise. Elle vous permet de garder une vue d'ensemble des opportunités et des risques pour la gestion de l'entreprise : quelles technologies sont obsolètes et quels systèmes souhaitez-vous introduire pour suivre le rythme de la numérisation et rester à la pointe du progrès ?
 
-Représentez votre feuille de route pour [le développement de logiciels]({{< relref "pages/industry-solutions/software-development" >}}) avec le modèle de SeaTable et profitez d'une vue d'ensemble structurée.
+Représentez votre feuille de route pour [le développement de logiciels]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) avec le modèle de SeaTable et profitez d'une vue d'ensemble structurée.
 
 ### Feuille de route intégrée
 

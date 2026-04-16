@@ -50,7 +50,7 @@ Project management tools enable your employees to keep track of projects and sta
 
 Collaborating across different geographic regions and time zones is not easy. Google Workspace, Miro, and Podio are some of the best collaboration tools for sales reps.
 
-[SeaTable]({{< relref "/" >}}) is another best-in-class collaborative information management application. The no-code application has solutions for [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}) that help remote sales teams capture, structure and evaluate different types of information.
+[SeaTable]({{< relref "/" >}}) is another best-in-class collaborative information management application. The no-code application has solutions for [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) that help remote sales teams capture, structure and evaluate different types of information.
 
 ![SeaTable offers several solutions for remote sales teams that assist in collecting, structuring and analyzing different types of information](Ansicht_Offers.png)
 

@@ -23,7 +23,7 @@ Die Red Dot GmbH & Co. KG in Essen ist aus der internationalen Marken-, Produkt
 
 ![Bild Red Dot Veranstaltung](Blog_reddot_I1.jpg)
 
-Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenkalkulationsprogramm]({{< relref "pages/excel-alternative" >}}). Diese Lösung war insbesondere beim Datenmanagement nicht mehr zeitgemäß. Die Zusammenarbeit innerhalb des Teams war eine echte Herausforderung, da kein kollaboratives Arbeiten möglich war. Als besonders problematisch erwies sich der bestehende Prozess bei der Organisation der Preisverleihung für den Red Dot Award: Product Design, einem internationalen Großevent. Für eine reibungslose Organisation und Last-Minute-Änderungen erwiesen sich die fehlenden Möglichkeiten zum kollaborativen Arbeiten als schwierig.
+Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenkalkulationsprogramm]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). Diese Lösung war insbesondere beim Datenmanagement nicht mehr zeitgemäß. Die Zusammenarbeit innerhalb des Teams war eine echte Herausforderung, da kein kollaboratives Arbeiten möglich war. Als besonders problematisch erwies sich der bestehende Prozess bei der Organisation der Preisverleihung für den Red Dot Award: Product Design, einem internationalen Großevent. Für eine reibungslose Organisation und Last-Minute-Änderungen erwiesen sich die fehlenden Möglichkeiten zum kollaborativen Arbeiten als schwierig.
 
 ## SeaTable erfüllt die Anforderungen perfekt
 
@@ -37,7 +37,7 @@ Die Nutzerfreundlichkeit, der hohe Datenschutz und die unproblematische Möglich
 
 Heute wird SeaTable als vielseitiges Management-Tool eingesetzt. Der Hauptanwendungsfall ist immer noch die [Veranstaltungsorganisation]({{< relref "templates/events/event-management" >}}). Gästelisten und Saalbelegungsplan, Personalplanung beim Event und selbst der sekundengenau geplante Ablauf der Gala wird in SeaTable abgebildet. Als besonders nützlich hat sich hier die Möglichkeit erwiesen, Audio-Dateien direkt in eine Base zu laden. So hat die Regie jederzeit Zugriff auf Tonaufnahmen, beispielsweise von der Aussprache der Namen der Preisträger.
 
-Dank der API wird auch die Auftragsverwaltung und der Versand der Red Dot Design Jahrbücher inzwischen über SeaTable organisiert. Schließlich wird SeaTable auch als CRM und [Projektmanagement-Tool]({{< relref "pages/industry-solutions/project-management" >}}) genutzt.
+Dank der API wird auch die Auftragsverwaltung und der Versand der Red Dot Design Jahrbücher inzwischen über SeaTable organisiert. Schließlich wird SeaTable auch als CRM und [Projektmanagement-Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) genutzt.
 
 ## Prozessmanagement auf einem neuen Level
 

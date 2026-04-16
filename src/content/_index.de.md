@@ -36,27 +36,27 @@ sections:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Planen Sie Kampagnen, verwalten Sie Leads und analysieren Sie Ergebnisse mit SeaTable. Automatisieren Sie Workflows mit KI-Funktionen und optimieren Sie Ihre Marketingstrategie.'
-        link: '/pages/industry-solutions/marketing'
+        link: '/pages/landing-pages/industry-solutions/marketing'
       - icon: 'bullseye'
         headline: 'Projektmanagement'
         text: 'Nutzen Sie Gantt-Diagramme und Kanban-Boards, um Projekte effizient zu steuern. Verfolgen Sie Fortschritte und koordinieren Sie Teams mit SeaTable.'
-        link: '/pages/industry-solutions/project-management'
+        link: '/pages/landing-pages/industry-solutions/project-management'
       - icon: 'people-group'
         headline: 'Human Resources'
         text: 'Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung.'
-        link: '/pages/industry-solutions/hr'
+        link: '/pages/landing-pages/industry-solutions/hr'
       - icon: 'building'
         headline: 'Öffentlicher Dienst'
         text: 'Verwalten Sie Personalakten, Schulungsdaten und Anträge mit SeaTable. Optimieren Sie Prozesse und verbessern Sie die Transparenz im öffentlichen Dienst.'
-        link: '/pages/industry-solutions/public-service'
+        link: '/pages/landing-pages/industry-solutions/public-service'
       - icon: 'terminal'
         headline: 'Softwareentwicklung'
         text: 'Verwalten Sie Backlogs, Issues, Bugs und Releases mit SeaTable. Optimieren Sie den Entwicklungsprozess und verbessern Sie die Teamkommunikation.'
-        link: '/pages/industry-solutions/software-development'
+        link: '/pages/landing-pages/industry-solutions/software-development'
       - icon: 'fingerprint'
         headline: 'Individuell'
         text: 'Erstellen Sie maßgeschneiderte Anwendungen für Ihre spezifischen Geschäftsanforderungen mit SeaTable. Automatisieren Sie Prozesse und verbessern Sie die Effizienz.'
-        link: '/pages/industry-solutions/individual'
+        link: '/pages/landing-pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -242,31 +242,31 @@ sections:
     text: "SeaTable bietet als Airtable Alternative vollwertige No-Code-Datenbankfunktionen, KI-gestützte Automatisierungen, App-Builder und relationale Tabellen im Cloud- und On-Premises-Betrieb. Das Ganze ist DSGVO-konform in Deutschland gehostet – ideal für strukturierte, teamübergreifende Workflows für Unternehmen."
     buttons:
     - label: "Mehr über SeaTable als Airtable Alternative erfahren"
-      link: "/pages/airtable-alternative"
+      link: "/pages/landing-pages/alternatives/airtable-alternative"
   - subtitle: Aufgabenmanagement, Projektplanung
     title: Asana Alternative
     text: "Aufgaben- und Projektmanagement mit Asana? SeaTable als flexible Asana Alternative, vereint Aufgabenmanagement, Projektplanung, Ressourcenübersicht, Meilenstein- und Zeitmanagement, Dashboards und Dateiverwaltung – optimal als skalierbare Alternative zu Asana mit KI Funktionen."
     buttons:
     - label: "Mehr über SeaTable als Asana Alternative erfahren"
-      link: "/pages/asana-alternative"
+      link: "/pages/landing-pages/alternatives/asana-alternative"
   - subtitle: KI-Automatisierung, Kollaboration
     title: Excel Alternative & Microsoft Access Alternative
     text: "Von klassischen Listen bis zu komplexen Datenmodellen: SeaTable löst Excel und Microsoft Access Datenbanken ab, macht dort weiter, wo beide Programme an ihre Grenzen stoßen und ermöglicht moderne, kollaborative Tabellen mit Plus an Struktur, Sicherheit und Automatisierung."
     buttons:
     - label: "Mehr über SeaTable als Excel Alternative erfahren"
-      link: "/pages/excel-alternative"
+      link: "/pages/landing-pages/alternatives/excel-alternative"
   - subtitle: Flexibilität, Datenschutz
     title: Personio Alternative
     text: "Digitale HR-Prozesse, smarte KI-gestützte Workflows ohne Programmierung, Datensicherheit: Mit SeaTable verwalten Unternehmen ihr Personal und sensible Daten effizient, flexibel und DSGVO-konform. Statistiken und individualisierte Dashboards ziehen mit dem Performance Management von Personio gleich und sind darüber hinaus flexibel anpassbar." 
     buttons:
     - label: "Mehr über SeaTable als Personio Alternative erfahren"
-      link: "/pages/personio-alternative"
+      link: "/pages/landing-pages/alternatives/personio-alternative"
   - subtitle: Vertriebsprozesse, Skalierbarkeit
     title: HubSpot Alternative
     text: "Unter den CRM Alternativen die Flexibelste:  SeaTable bringt alle relevanten Vertriebsdaten in eine Plattform mit Prozessautomatisierung und Datenanalyse mit KI. Sie bringen Ihre Prozesse und Ihre Teams in das Tool und müssen sich nicht an vorgegebene Strukturen anpassen - die flexibelste und skalierbarste Lösung unter den HubSpot Alternativen."
     buttons:
     - label: "Mehr über SeaTable als HubSpot Alternative erfahren"
-      link: "/pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
   - subtitle: Wissensmanagement, Relationale Daten
     title: Notion Alternative
     text: "SeaTable kombiniert Wissensmanagement, strukturierte Daten und kollaborative Tools mit einer No-Code-Datenbank, KI-unterstützen Automatisierungen, relationalen Strukturen und App-Builder – die DSGVO-konforme Lösung unter den Notion Alternativen für komplexe Unternehmensanforderungen."

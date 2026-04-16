@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Modèle de plan de formation à utiliser en ligne avec SeaTable'
       subtitle: 'Vos avantages en bref'
-      description: 'La plateforme IA no-code séduit par sa flexibilité et son adaptabilité. Grâce au modèle de plan d intégration, vous pouvez représenter numériquement l ensemble du processus d intégration, de la préparation avant le premier jour de travail à l intégration dans le quotidien professionnel, garder un œil sur les tâches et les responsabilités et créer une base commune pour des [processus RH]({{< relref "pages/industry-solutions/hr" >}}) structurés dans l ensemble de l entreprise.'
+      description: 'La plateforme IA no-code séduit par sa flexibilité et son adaptabilité. Grâce au modèle de plan d intégration, vous pouvez représenter numériquement l ensemble du processus d intégration, de la préparation avant le premier jour de travail à l intégration dans le quotidien professionnel, garder un œil sur les tâches et les responsabilités et créer une base commune pour des [processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) structurés dans l ensemble de l entreprise.'
       items:
       - text: "Toujours à jour : grâce aux commentaires, à l'historique des modifications et aux mises à jour en temps réel, votre plan d'intégration reste toujours à jour, depuis le premier modèle de plan d'intégration jusqu'aux ajustements continus pour différents rôles."
       - text: "Accès depuis n'importe où : grâce à un modèle de plan d'intégration en ligne, les RH, les cadres et les nouveaux employés ont accès à tout moment au plan d'intégration, aux tâches à accomplir et aux documents, que ce soit au bureau, en télétravail ou en déplacement."
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: "Modèle de plan de formation assisté par l'IA"
       subtitle: "Automatisation intelligente dans l'intégration"
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}) qui élèvent votre modèle de plan d intégration à un niveau supérieur. Automatisez les étapes récurrentes de l intégration, réduisez les tâches manuelles routinières et gagnez du temps pour les commentaires, l accompagnement et les entretiens individuels avec les nouveaux collaborateurs.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) qui élèvent votre modèle de plan d intégration à un niveau supérieur. Automatisez les étapes récurrentes de l intégration, réduisez les tâches manuelles routinières et gagnez du temps pour les commentaires, l accompagnement et les entretiens individuels avec les nouveaux collaborateurs.'
       items:
       - headline: 'Classification avec Classify'
         text: "Classify attribue automatiquement les nouveaux postes ou collaborateurs au programme d’intégration le plus adapté en fonction du type de rôle. Chaque nouveau cas est automatiquement ajouté à votre modèle de plan d’intégration avec une checklist d’intégration détaillée et adaptée, ce qui évite aux équipes RH de devoir compiler manuellement toutes les tâches d’onboarding et réduit considérablement le travail administratif."
@@ -188,5 +188,5 @@ sections:
       - q: "Puis-je créer mes propres champs et workflows dans le modèle de plan de formation ?"
         a: "Oui, vous pouvez à tout moment ajouter des colonnes, des tableaux, des vues et des automatisations supplémentaires. Vous pouvez ainsi adapter chaque modèle de plan d'intégration de manière flexible à votre concept d'intégration, à vos processus RH et à vos exigences en matière de reporting."
       - q: "SeaTable peut-il être utilisé comme alternative aux outils classiques de gestion de projet tels qu'Asana pour les processus d'intégration ?"
-        a: 'Oui, SeaTable est une excellente [alternative à Asana]({{< relref "pages/asana-alternative" >}}), à un coût raisonnable et d autres outils similaires. Contrairement aux tableaux rigides, les modèles de plan d intégration, les modèles de plan d accueil et d autres modèles RH vous permettent de combiner une logique de base de données flexible avec des vues telles que des calendriers, des chronologies et des interfaces d application, ce qui est idéal pour l intégration moderne et numérique des nouveaux employés.'
+        a: 'Oui, SeaTable est une excellente [alternative à Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), à un coût raisonnable et d autres outils similaires. Contrairement aux tableaux rigides, les modèles de plan d intégration, les modèles de plan d accueil et d autres modèles RH vous permettent de combiner une logique de base de données flexible avec des vues telles que des calendriers, des chronologies et des interfaces d application, ce qui est idéal pour l intégration moderne et numérique des nouveaux employés.'
 ---

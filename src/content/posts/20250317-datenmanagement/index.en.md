@@ -65,7 +65,7 @@ Process digitalization is about **digitalizing analogue processes** or improving
 
 Through effective data management, you can achieve **higher data integrity and data quality**, which in turn contributes to more informed decisions. You can also reduce costs by using data efficiently, avoiding redundant data and relying on storage technologies that are as affordable as they are secure. The **optimization, digitalization and automation of processes** are also benefits that result from good data management.
 
-A concrete example of this is the use of data management in production. Modern production facilities use large amounts of sensor data to monitor and adjust production processes in real time. Without a solid data management system, such advanced production processes would be almost impossible to implement. But data management is also indispensable for digitization in [human resources]({{< relref "pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/industry-solutions/marketing" >}}) and accounting.
+A concrete example of this is the use of data management in production. Modern production facilities use large amounts of sensor data to monitor and adjust production processes in real time. Without a solid data management system, such advanced production processes would be almost impossible to implement. But data management is also indispensable for digitization in [human resources]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) and accounting.
 
 ![Data Management](Data-Management_Header.jpg)
 

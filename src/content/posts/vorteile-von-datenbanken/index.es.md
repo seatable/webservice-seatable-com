@@ -57,7 +57,7 @@ Aunque (todavía) no necesite procesar grandes cantidades de información, las v
 
 Imagine que ha fundado una empresa. Además de su tienda física, ha decidido vender sus productos en Internet. Al principio, recibe de 2 a 4 pedidos al día. Por tanto, es bastante fácil registrar la información de los pedidos en una **hoja de cálculo**. Empieza a anunciarse en Internet y, de repente, su negocio se dispara. El volumen de pedidos aumenta y decide añadir más productos a su gama.
 
-La enorme cantidad de información que tienes que procesar cada día puede saturar una hoja de cálculo como [Excel]({{< relref "pages/excel-alternative" >}}). La hoja de cálculo se vuelve lenta o se bloquea porque su **capacidad de almacenamiento** es demasiado pequeña. En cambio, una de las ventajas de las bases de datos, como ya se ha dicho, es que tienen una capacidad de almacenamiento mucho mayor y pueden crecer fácilmente con la empresa. Por tanto, son mucho más **escalables** que las simples tablas.
+La enorme cantidad de información que tienes que procesar cada día puede saturar una hoja de cálculo como [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). La hoja de cálculo se vuelve lenta o se bloquea porque su **capacidad de almacenamiento** es demasiado pequeña. En cambio, una de las ventajas de las bases de datos, como ya se ha dicho, es que tienen una capacidad de almacenamiento mucho mayor y pueden crecer fácilmente con la empresa. Por tanto, son mucho más **escalables** que las simples tablas.
 
 ### 2\. tratar con varios usuarios al mismo tiempo
 

@@ -57,7 +57,7 @@ If you are planning structural changes to your property, building law is the dec
 
 ### Data protection
 
-An important area of property management that is often not immediately obvious is data protection. Particularly in the [public sector]({{< relref "pages/industry-solutions/public-service" >}}) or in larger administrative units, you must manage tenant and owner data in compliance with the GDPR. This means that you may only collect and securely store personal data with consent. Effective protection against unauthorized access to this data is essential to avoid both legal consequences and loss of trust.
+An important area of property management that is often not immediately obvious is data protection. Particularly in the [public sector]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) or in larger administrative units, you must manage tenant and owner data in compliance with the GDPR. This means that you may only collect and securely store personal data with consent. Effective protection against unauthorized access to this data is essential to avoid both legal consequences and loss of trust.
 
 ## When you can outsource property management to external parties
 

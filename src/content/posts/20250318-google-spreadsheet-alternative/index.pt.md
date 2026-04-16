@@ -46,7 +46,7 @@ O Google Sheets, por outro lado, oferece uma funcionalidade significativamente m
 
 ## Vantagens e desvantagens da folha de cálculo do Google
 
-Tanto os indivíduos como as organizações de todo o mundo utilizam o Google todos os dias para criar uma folha de cálculo. Algumas caraterísticas tornam-no uma opção atractiva para os utilizadores que procuram uma [alternativa ao Excel]({{< relref "pages/excel-alternative" >}}) que seja **flexível e baseada na nuvem**. Por outro lado, existem também alguns obstáculos que não deve subestimar. Em última análise, vale a pena analisar mais detalhadamente os prós e os contras.
+Tanto os indivíduos como as organizações de todo o mundo utilizam o Google todos os dias para criar uma folha de cálculo. Algumas caraterísticas tornam-no uma opção atractiva para os utilizadores que procuram uma [alternativa ao Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) que seja **flexível e baseada na nuvem**. Por outro lado, existem também alguns obstáculos que não deve subestimar. Em última análise, vale a pena analisar mais detalhadamente os prós e os contras.
 
 ### Vantagens
 

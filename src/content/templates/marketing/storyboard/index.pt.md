@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilizar um modelo de storyboard online'
       subtitle: 'Resumo das suas vantagens'
-      description: 'Com a no-code plataforma flexível SeaTable, baseada em IA, poderá criar um modelo de storyboard digital que se adapta perfeitamente aos seus fluxos de trabalho para cinema, vídeo e marketing. Substitua storyboards estáticos em PDF ou Excel por um modelo interativo com funcionalidade de arrastar e largar, visualização em galeria e quadro Kanban – ideal para storyboarding, narrativa visual e o processo de aprovação colaborativo em equipas de marketing, entre realizadores, designers de UX e criadores de conteúdo. Se necessário, ligue o seu modelo diretamente a outras bases de dados, por exemplo, como uma [ferramenta de marketing]({{< relref "pages/industry-solutions/marketing" >}}).'
+      description: 'Com a no-code plataforma flexível SeaTable, baseada em IA, poderá criar um modelo de storyboard digital que se adapta perfeitamente aos seus fluxos de trabalho para cinema, vídeo e marketing. Substitua storyboards estáticos em PDF ou Excel por um modelo interativo com funcionalidade de arrastar e largar, visualização em galeria e quadro Kanban – ideal para storyboarding, narrativa visual e o processo de aprovação colaborativo em equipas de marketing, entre realizadores, designers de UX e criadores de conteúdo. Se necessário, ligue o seu modelo diretamente a outras bases de dados, por exemplo, como uma [ferramenta de marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).'
       items:
       - text: '**Dados atualizados:** Qualquer alteração na descrição da cena, na linha do tempo ou no esboço fica imediatamente visível para todos – já não é necessário comparar versões desatualizadas.'
       - text: '**Colaboração genuína:** Equipas de marketing, realizadores, criadores de conteúdo e designers de experiência do utilizador trabalham em conjunto num modelo de storyboard – com comentários e responsabilidades bem definidas.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Storyboarding assistido por IA'
       subtitle: 'Automação inteligente para marketing'
-      description: 'Com o SeaTable, poderá utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que automatizam o seu modelo de storyboard, o planeamento da produção e os processos de aprovação. Assim, o seu modelo de storyboard torna-se um centro inteligente para descrições de cenas, diálogos, configurações de câmara e cronologia – mais eficiente do que um storyboard clássico num ficheiro PDF ou Excel rígido.'
+      description: 'Com o SeaTable, poderá utilizar poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que automatizam o seu modelo de storyboard, o planeamento da produção e os processos de aprovação. Assim, o seu modelo de storyboard torna-se um centro inteligente para descrições de cenas, diálogos, configurações de câmara e cronologia – mais eficiente do que um storyboard clássico num ficheiro PDF ou Excel rígido.'
       items:
       - headline: 'Categorização de cenas com IA'
         text: 'Com o Classify, atribui cenas automaticamente a campanhas, canais ou formatos como YouTube, Instagram ou site. A IA analisa campos de texto como descrição de cena e notas e escreve a categoria correta numa coluna específica, para que o storyboard se mantenha organizado e os filtros e vistas funcionem sempre bem.'

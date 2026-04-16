@@ -66,7 +66,7 @@ Sichern Sie sich exklusive Vertriebskanäle und seien Sie der Konkurrenz dank ei
 
 ## Die Rolle der Distributionspolitik im Marketing-Mix
 
-Neben der Produkt-, Preis- und Kommunikationspolitik gehört die Distributionspolitik zu den vier elementaren Instrumenten des Marketing-Mix, die E. Jerome McCarthy bereits in den 1960er Jahren beschrieben hat. **Dabei unterscheidet man zwischen dem physischen und dem akquisitorischen Vertrieb**, also der logistischen Distribution und dem [Kundenmanagement]({{< relref "pages/industry-solutions/kundenmanagement" >}}), bei dem es auch um die Gestaltung der Vertriebsstrategie und des Vertriebsprozesses geht.
+Neben der Produkt-, Preis- und Kommunikationspolitik gehört die Distributionspolitik zu den vier elementaren Instrumenten des Marketing-Mix, die E. Jerome McCarthy bereits in den 1960er Jahren beschrieben hat. **Dabei unterscheidet man zwischen dem physischen und dem akquisitorischen Vertrieb**, also der logistischen Distribution und dem [Kundenmanagement]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}), bei dem es auch um die Gestaltung der Vertriebsstrategie und des Vertriebsprozesses geht.
 
 ![Die Distributionslogistik beschäftigt sich mit der physischen Distribution](Distribution.jpg)
 

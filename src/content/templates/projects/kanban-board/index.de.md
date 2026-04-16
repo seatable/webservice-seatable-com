@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Aufgabenmanagement mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr Kanban Board auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihr Kanban Board auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit.'
       items:
       - headline: 'Automatische Priorisierung mit Classify'
         text: 'Lassen Sie neue Tasks automatisch nach Dringlichkeit einordnen: Die KI-Funktion „Classify" bewertet Aufgaben anhand ihrer Beschreibung und des Fälligkeitsdatums und weist sie automatisch den Prioritätsstufen „Hoch", „Mittel" oder „Niedrig" zu – spart Zeit bei der Triage und sorgt für einheitliche Standards im Team.'
@@ -174,7 +174,7 @@ sections:
       - q: "Kann ich die Kanban Board Vorlage von SeaTable kostenlos nutzen?"
         a: 'Ja, Sie können mit SeaTable die Vorlage für das Kanban Board erstellen und kostenlos nutzen. Dafür benötigen Sie lediglich einen kostenfreien Account und können sofort loslegen, mit Ihrer eigenen Kanban Board Vorlage.'
       - q: "Ist SeaTable eine Alternative zu Trello, Jira oder Asana für Kanban?"
-        a: 'Ja, SeaTable ist eine leistungsstarke [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}), Jira und Trello. Im Gegensatz zu diesen Tools bietet SeaTable nicht nur eine Kanban Board Vorlage, sondern auch flexible Datenbank-Funktionalität, KI-gestützte Automatisierungen, granulare Berechtigungen und vollständige DSGVO-Konformität durch deutsches Hosting – alles in einer Plattform.'
+        a: 'Ja, SeaTable ist eine leistungsstarke [Alternative zu Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Jira und Trello. Im Gegensatz zu diesen Tools bietet SeaTable nicht nur eine Kanban Board Vorlage, sondern auch flexible Datenbank-Funktionalität, KI-gestützte Automatisierungen, granulare Berechtigungen und vollständige DSGVO-Konformität durch deutsches Hosting – alles in einer Plattform.'
       - q: "Kann ich mein bestehendes Trello-Board in SeaTable importieren?"
         a: 'Ja, Sie können Ihre Trello-Boards problemlos in SeaTable migrieren. SeaTable unterstützt den Import von CSV-Dateien und JSON-Exporten. Nach dem Import können Sie die Datenstruktur anpassen, zusätzliche Spalten hinzufügen und von allen SeaTable-Funktionen wie KI-Automatisierung und erweiterten Berechtigungen profitieren.'
       - q: "Erlaubt mir SeaTable als Kanban-Tool WIP-Limits zu setzen?"

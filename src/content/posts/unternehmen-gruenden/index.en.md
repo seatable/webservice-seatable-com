@@ -69,7 +69,7 @@ This section shows how you want to reach your target group and retain them in th
 
 ### Financial planning
 
-[Financial planning]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) forms the basis for the profitability of your project. Make a realistic estimate of all costs, calculate expected sales and check when your company will start operating profitably. Sound financial planning includes costs, turnover and profitability.
+[Financial planning]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) forms the basis for the profitability of your project. Make a realistic estimate of all costs, calculate expected sales and check when your company will start operating profitably. Sound financial planning includes costs, turnover and profitability.
 
 ### Appendix
 
@@ -138,7 +138,7 @@ SeaTable covers all the essential steps:
 
 {{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Scroll through our interactive template and discover the first functions." >}}
 
-The decisive advantage is that SeaTable grows with you. What you use at the beginning for **business plan, financial planning and organization**, you can later expand into a comprehensive system for [project management]({{< relref "pages/industry-solutions/project-management" >}}), CRM, reporting and team organization. This means you have a tool at your side right from the start that supports your start-up and accompanies you in the long term.
+The decisive advantage is that SeaTable grows with you. What you use at the beginning for **business plan, financial planning and organization**, you can later expand into a comprehensive system for [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), CRM, reporting and team organization. This means you have a tool at your side right from the start that supports your start-up and accompanies you in the long term.
 
 ## FAQs
 

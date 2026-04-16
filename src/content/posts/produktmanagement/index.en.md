@@ -40,7 +40,7 @@ The tasks of product management include all stages that a product goes through. 
 - **Concept**: strategy development for market, price, distribution, communication; prototype, cost overview
 - **Implementation**: technical implementation, strategy implementation, product launch
 
-In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management]({{< relref "pages/industry-solutions/project-management" >}})**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
+In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
 
 ### Challenges in product management
 
@@ -74,7 +74,7 @@ In the product data sheet you will find all the important information about the 
 
 ### 3\. all contacts at a glance
 
-In the product development process, the product passes through a number of different departments. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), sales, production plant, photography and also retail are important everyday contact points in the work of a product manager. It is then practical if all contact data is collected in one place and thus accessible to everyone. This is just as helpful for the holiday replacement as it is for the new trainee! In addition, information can also be added, such as minutes of meetings, important documents or upcoming telephone appointments. With SeaTable, creating an address book within a table is absolutely no problem.
+In the product development process, the product passes through a number of different departments. [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), sales, production plant, photography and also retail are important everyday contact points in the work of a product manager. It is then practical if all contact data is collected in one place and thus accessible to everyone. This is just as helpful for the holiday replacement as it is for the new trainee! In addition, information can also be added, such as minutes of meetings, important documents or upcoming telephone appointments. With SeaTable, creating an address book within a table is absolutely no problem.
 
 ![Contact details of suppliers and customers are very important for smooth product management](Suppliers-and-Contacts.jpg)
 

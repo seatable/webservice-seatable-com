@@ -31,7 +31,7 @@ Wir hören immer wieder, dass Unternehmen No-Code ausprobieren und meinen, die E
 
 ## Mythos 3: No-Code ist nur für einfache Anwendungen
 
-Der Irrtum, dass ohne individuell erstellten Code nur simple Lösungen realisierbar seien, ist nachvollziehbar, aber trotzdem falsch. "Kein Code" bedeutet hier schlicht, dass Sie ohne Programmierkenntnisse eigene Anwendungen erstellen können. Mit der richtigen Plattform lassen sich indes auch **mit No-Code komplexere und individualisierte Tools bauen**, von einfachen Task Management Tools bis zu vollwertigen [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) oder CRM-Systemen – inklusive **KI-Automatisierungen, Drittanbieter-Integrationen und Nutzerrollenverwaltung**.
+Der Irrtum, dass ohne individuell erstellten Code nur simple Lösungen realisierbar seien, ist nachvollziehbar, aber trotzdem falsch. "Kein Code" bedeutet hier schlicht, dass Sie ohne Programmierkenntnisse eigene Anwendungen erstellen können. Mit der richtigen Plattform lassen sich indes auch **mit No-Code komplexere und individualisierte Tools bauen**, von einfachen Task Management Tools bis zu vollwertigen [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) oder CRM-Systemen – inklusive **KI-Automatisierungen, Drittanbieter-Integrationen und Nutzerrollenverwaltung**.
 
 ## Mythos 4: No-Code macht Developer überflüssig
 

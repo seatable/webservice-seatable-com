@@ -137,7 +137,7 @@ Utilisez un logiciel d'onboarding approprié pour garder une vue d'ensemble et o
 
 ## Le programme d'onboarding adapté à vos besoins
 
-Le modèle gratuit de SeaTable vous permet de concevoir votre processus d'onboarding de manière si efficace que non seulement vous allégez la charge de travail de vos [processus RH]({{< relref path="pages/industry-solutions/hr" >}}), mais que vous facilitez également au maximum l'entrée en fonction de vos nouveaux collaborateurs.
+Le modèle gratuit de SeaTable vous permet de concevoir votre processus d'onboarding de manière si efficace que non seulement vous allégez la charge de travail de vos [processus RH]({{< relref path="pages/landing-pages/industry-solutions/hr" >}}), mais que vous facilitez également au maximum l'entrée en fonction de vos nouveaux collaborateurs.
 
 En un seul clic, vous créez pour chaque nouveau collaborateur une liste de contrôle intuitive avec toutes les tâches à effectuer, ce qui permet à chacun de savoir exactement ce qu'il doit faire. Pour éviter le chaos et la paperasserie, vous pouvez classer tous les documents importants directement dans le tableau et les faire signer numériquement.
 

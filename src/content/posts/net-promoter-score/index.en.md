@@ -32,7 +32,7 @@ The **actual Net Promoter Score is calculated** as the percentage of promoters m
 
 ## What does the Net Promoter Score mean?
 
-The NPS is used in [customer management]({{< relref "pages/industry-solutions/kundenmanagement" >}}) as an **indicator of customer loyalty**. Many companies use it as a parameter, as it is easy to determine and provides comparable results. A high NPS is generally associated with customer satisfaction and growth, while a low value indicates problems.
+The NPS is used in [customer management]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) as an **indicator of customer loyalty**. Many companies use it as a parameter, as it is easy to determine and provides comparable results. A high NPS is generally associated with customer satisfaction and growth, while a low value indicates problems.
 
 Proponents see a high score as a positive reflection of many factors, such as product quality, service experience, brand image and also the emotional connection of customers to the brand. In these companies, the score is not just seen as a simple measurement. Rather, the NPS has become a strategic tool for better understanding customer needs and securing a company's own competitiveness in the long term.
 
