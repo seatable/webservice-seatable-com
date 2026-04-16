@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Einarbeitungsplan Vorlage online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code Plattform überzeugt durch Flexibilität und Anpassbarkeit. Mit der Einarbeitungsplan Vorlage bilden Sie Ihr komplettes Onboarding – von der Vorbereitung vor dem ersten Arbeitstag bis zur Integration in den Arbeitsalltag – digital ab, behalten Aufgaben und Zuständigkeiten im Blick und schaffen eine gemeinsame Grundlage für strukturierte  [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}) im gesamten Unternehmen.'
+      description: 'Die KI No-Code Plattform überzeugt durch Flexibilität und Anpassbarkeit. Mit der Einarbeitungsplan Vorlage bilden Sie Ihr komplettes Onboarding – von der Vorbereitung vor dem ersten Arbeitstag bis zur Integration in den Arbeitsalltag – digital ab, behalten Aufgaben und Zuständigkeiten im Blick und schaffen eine gemeinsame Grundlage für strukturierte  [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) im gesamten Unternehmen.'
       items:
       - text: 'Stets aktuell: Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleibt Ihr Einarbeitungsplan immer auf dem neuesten Stand – von der ersten Einarbeitungsplan Vorlage bis zur laufenden Anpassung für verschiedene Rollen.'
       - text: 'Zugriff von überall: Mit einer online geführten Einarbeitungsplan Vorlage haben HR, Führungskräfte und neue Mitarbeiter jederzeit Zugriff auf Onboarding-Plan, To-dos und Unterlagen – im Büro, im Homeoffice oder mobil.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Einarbeitungsplan Vorlage'
       subtitle: 'Smarte Automatisierung im Onboarding'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Einarbeitungsplan Vorlage auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte im Onboarding, reduzieren Sie manuelle Routineaufgaben und gewinnen Sie Zeit für Feedback, Begleitung und persönliche Gespräche mit neuen Mitarbeitern.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Einarbeitungsplan Vorlage auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte im Onboarding, reduzieren Sie manuelle Routineaufgaben und gewinnen Sie Zeit für Feedback, Begleitung und persönliche Gespräche mit neuen Mitarbeitern.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Positionen oder Mitarbeiter basierend auf Rollentyp, Standort oder Abteilung automatisch passenden Onboarding‑Paketen zu. In Ihrer Einarbeitungsplan Vorlage landet jeder neue Fall mit einer passenden Onboarding Checkliste, ohne dass HR alle Aufgaben manuell zusammenstellen muss.'
@@ -189,5 +189,5 @@ sections:
       - q: "Kann ich eigene Felder und Workflows in der Einarbeitungsplan Vorlage anlegen?"
         a: 'Ja, Sie können jederzeit zusätzliche Spalten, Tabellen, Ansichten und Automatisierungen hinzufügen. So passen Sie jede Einarbeitungsplan Vorlage flexibel an Ihr Einarbeitungskonzept, Ihre HR-Prozesse und Ihre Reporting-Anforderungen an.'
       - q: "Eignet sich SeaTable als Alternative zu klassischen Projektmanagement-Tools wie Asana für Onboarding-Prozesse?"
-        a: 'Ja, SeaTable ist eine sehr gute, kostengünstige [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}) und ähnlichen Tools. Im Unterschied zu starren Boards kombinieren Sie mit der Einarbeitungsplan Vorlage, Onboarding-Plan Vorlagen und weiteren HR-Templates eine flexible Datenbanklogik mit Ansichten wie Kalender, Timeline und App-Frontends – ideal für moderne, digitale Einarbeitung neuer Mitarbeiter.'
+        a: 'Ja, SeaTable ist eine sehr gute, kostengünstige [Alternative zu Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) und ähnlichen Tools. Im Unterschied zu starren Boards kombinieren Sie mit der Einarbeitungsplan Vorlage, Onboarding-Plan Vorlagen und weiteren HR-Templates eine flexible Datenbanklogik mit Ansichten wie Kalender, Timeline und App-Frontends – ideal für moderne, digitale Einarbeitung neuer Mitarbeiter.'
 ---

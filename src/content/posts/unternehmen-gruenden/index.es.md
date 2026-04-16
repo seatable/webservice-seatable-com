@@ -69,7 +69,7 @@ Esta sección muestra cómo quiere llegar a su grupo objetivo y retenerlo a larg
 
 ### Planificación financiera
 
-La [planificación financiera]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) constituye la base de la rentabilidad de su proyecto. Estima de forma realista todos los costes, calcula las ventas previstas y comprueba cuándo será rentable tu empresa. Una buena planificación financiera incluye costes, facturación y rentabilidad.
+La [planificación financiera]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) constituye la base de la rentabilidad de su proyecto. Estima de forma realista todos los costes, calcula las ventas previstas y comprueba cuándo será rentable tu empresa. Una buena planificación financiera incluye costes, facturación y rentabilidad.
 
 ### Apéndice
 
@@ -138,7 +138,7 @@ SeaTable cubre todos los pasos esenciales:
 
 {{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
 
-La ventaja decisiva es que SeaTable crece con usted. Lo que usted utiliza inicialmente para **plan de negocio, planificación financiera y organización** puede ampliarse más adelante a un sistema integral para [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}), CRM, elaboración de informes y organización de equipos. De este modo, dispondrá desde el principio de una herramienta que le ayudará en su puesta en marcha y le acompañará a largo plazo.
+La ventaja decisiva es que SeaTable crece con usted. Lo que usted utiliza inicialmente para **plan de negocio, planificación financiera y organización** puede ampliarse más adelante a un sistema integral para [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), CRM, elaboración de informes y organización de equipos. De este modo, dispondrá desde el principio de una herramienta que le ayudará en su puesta en marcha y le acompañará a largo plazo.
 
 ## FAQs
 

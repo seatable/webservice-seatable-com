@@ -49,7 +49,7 @@ Gracias a No-Code, no dependerá de desarrolladores de software externos, consul
 
 ### Disponga de una solución para todo
 
-El software empresarial tradicional normalmente sólo cubre un área (por ejemplo, [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [recursos humanos]({{< relref "pages/industry-solutions/hr" >}}) o [contabilidad]({{< relref "posts/debitorenbuchhaltung" >}})) o ciertos procesos (por ejemplo, [seguimiento del tiempo]({{< relref "templates/projects/project-time-tracking" >}}), [facturación]({{< relref "posts/fakturierung" >}}) o [atención al cliente]({{< relref "posts/no-code-crm" >}})). El no-code, por su parte, es un **arma multiuso** con la que puede mapear de forma flexible cualquier proceso.
+El software empresarial tradicional normalmente sólo cubre un área (por ejemplo, [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [recursos humanos]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) o [contabilidad]({{< relref "posts/debitorenbuchhaltung" >}})) o ciertos procesos (por ejemplo, [seguimiento del tiempo]({{< relref "templates/projects/project-time-tracking" >}}), [facturación]({{< relref "posts/fakturierung" >}}) o [atención al cliente]({{< relref "posts/no-code-crm" >}})). El no-code, por su parte, es un **arma multiuso** con la que puede mapear de forma flexible cualquier proceso.
 
 ### Centrarse en lo esencial
 
@@ -116,7 +116,7 @@ Al fundar una start-up, es probable que al principio trabaje solo o en pequeños
 *   [colaboración]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en tiempo real
 *   [registro del tiempo de trabajo]({{< relref "templates/human-resources/recording-working-time" >}})
 *   [gestión de recursos humanos]({{< relref "posts/20250317-hris" >}})
-*   [contratación]({{< relref "posts/20250317-recruiting" >}}) y [gestión de candidatos]({{< relref "pages/bewerbermanagement" >}})
+*   [contratación]({{< relref "posts/20250317-recruiting" >}}) y [gestión de candidatos]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 
 ## Plantillas adecuadas para fundar una start-up
 

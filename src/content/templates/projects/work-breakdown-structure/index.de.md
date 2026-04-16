@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Projektstrukturplanung Vorlage online nutzen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Projektstrukturplanung Vorlage planen Sie Projekte von der Grobstruktur bis zur Einzelaufgabe, behalten Ressourcen im Blick und schaffen eine gemeinsame Grundlage für die Projektstrukturplanung im gesamten Team – mit Funktionen, die viele Teams sonst nur von Asana und ähnlichen [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) kennen, jedoch deutlich flexibler und datenbankbasiert.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Projektstrukturplanung Vorlage planen Sie Projekte von der Grobstruktur bis zur Einzelaufgabe, behalten Ressourcen im Blick und schaffen eine gemeinsame Grundlage für die Projektstrukturplanung im gesamten Team – mit Funktionen, die viele Teams sonst nur von Asana und ähnlichen [Projektmanagement-Tools]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) kennen, jedoch deutlich flexibler und datenbankbasiert.'
       items:
       - text: 'Stets aktuell: Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleiben Ihre Projektstrukturplan Vorlagen immer auf dem neuesten Stand – vom ersten Projektstrukturplan Beispiel bis zur laufenden Umsetzung.'
       - text: 'Zugriff von überall: Mit einer online geführten Projektstrukturplanung Vorlage haben Sie jederzeit Zugriff auf Ihren Projektstrukturplan – im Büro, im Homeoffice oder beim Kunden.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Projektstrukturplan Vorlagen'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Projektstrukturplan Vorlagen auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben in der Projektplanung, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Projektstrukturplan Vorlagen auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben in der Projektplanung, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Aufgaben basierend auf Titel und Beschreibung automatisch passenden Phasen oder Arbeitspaketen zu. In Ihrer Projektstrukturplan Vorlage landen neue Einträge so direkt in der richtigen Struktur und Sie sehen auf einen Blick, in welchen Bereichen sich die Arbeit verdichtet.'
@@ -189,5 +189,5 @@ sections:
       - q: "Kann ich eigene Felder und Workflows in der Projektstrukturplan Vorlage anlegen?"
         a: 'Ja, Sie können jederzeit zusätzliche Spalten, Tabellen, Ansichten und Automatisierungen hinzufügen. So passen Sie jede Projektstrukturplan Vorlage flexibel an Ihre internen Prozesse, Rollen und Berichtsanforderungen an.'
       - q: "Eignet sich SeaTable als Alternative zu klassischen Projektmanagement-Tools wie Asana?"
-        a: 'Ja, SeaTable ist eine sehr gute, kostengünstige [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}) und anderen Projektmanagement-Tools. Im Unterschied zu starren Boards kombinieren Sie mit der Projektstrukturplan Vorlage, der Projektplan Vorlage und weiteren Templates eine flexible Datenbanklogik mit Ansichten wie Tree, Kalender, Timeline und Berichtsdashboards.'
+        a: 'Ja, SeaTable ist eine sehr gute, kostengünstige [Alternative zu Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) und anderen Projektmanagement-Tools. Im Unterschied zu starren Boards kombinieren Sie mit der Projektstrukturplan Vorlage, der Projektplan Vorlage und weiteren Templates eine flexible Datenbanklogik mit Ansichten wie Tree, Kalender, Timeline und Berichtsdashboards.'
 ---

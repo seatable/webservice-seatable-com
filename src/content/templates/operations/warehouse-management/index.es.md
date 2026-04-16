@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Gestión de almacenes basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán la gestión de su almacén a un nuevo nivel. Automatice las tareas recurrentes, reduzca los errores y tome mejores decisiones basadas en los datos de su inventario.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán la gestión de su almacén a un nuevo nivel. Automatice las tareas recurrentes, reduzca los errores y tome mejores decisiones basadas en los datos de su inventario.'
       items:
       - headline: 'Clasificación automática de artículos con Classify'
         text: 'Clasifique automáticamente los nuevos artículos: la función de inteligencia artificial «Classify» reconoce la categoría adecuada basándose en los nombres de los productos, las descripciones o las asignaciones de proveedores, y clasifica sus artículos de forma autónoma, lo que resulta ideal para surtidos en rápido crecimiento.'
@@ -173,7 +173,7 @@ sections:
       - q: "¿Puedo utilizar la plantilla de gestión de almacenes de SeaTable de forma gratuita?"
         a: 'Sí, puede utilizar SeaTable y la plantilla de gestión de almacenes de forma gratuita y sin límite de tiempo. Con una cuenta gratuita, tendrá a su disposición todas las funciones básicas para gestionar digitalmente las existencias, las ubicaciones de almacenamiento y los movimientos de mercancías.'
       - q: "¿SeaTable es una alternativa a Excel para la gestión de almacenes?"
-        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) para la gestión de almacenes. A diferencia de la gestión de almacenes en Excel, SeaTable ofrece capacidad multiusuario, acceso en tiempo real, automatizaciones, permisos y interfaces de aplicaciones, lo que lo hace ideal para equipos y empresas en crecimiento.'
+        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para la gestión de almacenes. A diferencia de la gestión de almacenes en Excel, SeaTable ofrece capacidad multiusuario, acceso en tiempo real, automatizaciones, permisos y interfaces de aplicaciones, lo que lo hace ideal para equipos y empresas en crecimiento.'
       - q: "¿Puedo importar mi lista de inventario actual de Excel a SeaTable?"
         a: 'Sí, puede importar fácilmente archivos Excel o CSV existentes con sus datos de inventario a SeaTable. Después de la importación, puede personalizar columnas, crear relaciones entre tablas y beneficiarse de todas las ventajas de la plantilla para la gestión de inventario.'
       - q: "¿Se puede ampliar el sistema de gestión de almacenes de SeaTable?"

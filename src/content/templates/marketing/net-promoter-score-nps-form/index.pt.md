@@ -122,7 +122,7 @@ sections:
       weight: 16
       title: 'Análise de feedback baseada em IA com SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam as suas pesquisas NPS e análises de feedback a um novo nível. Automatize as avaliações e obtenha insights mais profundos sobre as opiniões dos clientes.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam as suas pesquisas NPS e análises de feedback a um novo nível. Automatize as avaliações e obtenha insights mais profundos sobre as opiniões dos clientes.'
       items:
       - headline: 'Análise automática de sentimentos com o Classify'
         text: 'Classifique automaticamente os comentários de texto livre de acordo com o tom: a função de IA «Classify» avalia o feedback dos clientes como «Positivo», «Neutro» ou «Negativo» e reconhece a tonalidade emocional – ideal para avaliações rápidas de grandes quantidades de feedback sem a necessidade de ler manualmente cada resposta.'

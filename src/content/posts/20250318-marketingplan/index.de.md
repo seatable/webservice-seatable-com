@@ -113,7 +113,7 @@ Wenn Sie einen Marketingplan erstellen und Kampagnen planen, werden Arbeitsproze
 
 ### Marketingplanung mit digitalen Tools
 
-Einen Marketingplan als Vorlage auf Papier anzulegen, ist eine Möglichkeit – die jedoch nicht unbedingt zielführend ist. Oder können Sie sich vorstellen, dass alle aus dem Marketingteam mit nur einem einzigen Zettel arbeiten, auf dem sie alle Daten zum Projekt notieren, ausbessern, durchstreichen etc.? Wesentlich unkomplizierter, schneller und transparenter geht es mit digitalen Tools zur Marketingplanung. Ob Hubspot, SeaTable oder Asana – digitale [Marketing Tools]({{< relref "pages/industry-solutions/marketing" >}}) wie diese helfen Ihnen dabei, sämtliche Informationen zusammenzuführen, die zeitliche und inhaltliche Steuerung im Blick zu behalten und alles für jeden Beteiligten übersichtlich darzustellen.
+Einen Marketingplan als Vorlage auf Papier anzulegen, ist eine Möglichkeit – die jedoch nicht unbedingt zielführend ist. Oder können Sie sich vorstellen, dass alle aus dem Marketingteam mit nur einem einzigen Zettel arbeiten, auf dem sie alle Daten zum Projekt notieren, ausbessern, durchstreichen etc.? Wesentlich unkomplizierter, schneller und transparenter geht es mit digitalen Tools zur Marketingplanung. Ob Hubspot, SeaTable oder Asana – digitale [Marketing Tools]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) wie diese helfen Ihnen dabei, sämtliche Informationen zusammenzuführen, die zeitliche und inhaltliche Steuerung im Blick zu behalten und alles für jeden Beteiligten übersichtlich darzustellen.
 
 ### Messen, messen, messen: Optimierung hört niemals auf
 

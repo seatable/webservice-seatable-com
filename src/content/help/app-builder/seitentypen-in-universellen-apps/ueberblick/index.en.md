@@ -42,7 +42,7 @@ You can use this page type to add any **table** from your base as a page to your
 
 ## Page type: Form
 
-You can use this page type to build different **forms** that users can then submit. [Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the app, but also as a separate feature. Form pages in the app are ideal for collecting **data from many different users**. One possible use case is [recording working hours]({{< relref "pages/arbeitszeiterfassung" >}}).
+You can use this page type to build different **forms** that users can then submit. [Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the app, but also as a separate feature. Form pages in the app are ideal for collecting **data from many different users**. One possible use case is [recording working hours]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Web form for recording the working time of your employees](images/webformular-working-time.png)
 

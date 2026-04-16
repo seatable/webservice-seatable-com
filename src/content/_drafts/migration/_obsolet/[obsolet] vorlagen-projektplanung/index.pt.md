@@ -66,7 +66,7 @@ Para criar o seu plano de projecto, [registe-se gratuitamente no SeaTable]({{< r
 
 Abaixo pode ver cinco exemplos de planos de projecto da biblioteca de modelos.
 
-**Modelo de plano de projecto para [marketing]({{< relref "pages/industry-solutions/marketing" >}})**  
+**Modelo de plano de projecto para [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})**  
 Com a ajuda deste modelo, tem a oportunidade de [planear antecipadamente as](https://seatable.io/pt/vorlage/hntk-vocrksmyj-9746vka/) suas [acções para um projecto](https://seatable.io/pt/vorlage/hntk-vocrksmyj-9746vka/). Entra nos departamentos e pessoas responsáveis, uma prioridade, a data de vencimento, as doses e muito mais.
 
 O modelo de exemplo é sobre o [planeamento das actividades de marketing e comunicação de](https://seatable.io/pt/marketingplan-vorlage/) uma empresa fictícia e grande. O planeamento do projecto tem lugar com um ano de antecedência.

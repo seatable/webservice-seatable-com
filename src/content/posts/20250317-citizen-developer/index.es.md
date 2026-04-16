@@ -31,7 +31,7 @@ Así pues, el desarrollo ciudadano se refiere al enfoque estructurado en el que 
 
 > El término citizen developer se compone de las palabras inglesas para **desarrollador ciudadano** y se elige deliberadamente en contraste con los desarrolladores profesionales.
 
-Un desarrollador ciudadano puede actuar como **experto** individual en su especialidad o como miembro de un **equipo de trabajo**. En una pequeña empresa o start-up sin departamento de [TI]({{< relref "pages/industry-solutions/software-development" >}}), un desarrollador ciudadano es sobre todo alguien que desarrolla soluciones informáticas prácticas de forma independiente y con un presupuesto reducido.
+Un desarrollador ciudadano puede actuar como **experto** individual en su especialidad o como miembro de un **equipo de trabajo**. En una pequeña empresa o start-up sin departamento de [TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), un desarrollador ciudadano es sobre todo alguien que desarrolla soluciones informáticas prácticas de forma independiente y con un presupuesto reducido.
 
 ![El Desarrollo Ciudadano funciona sin programación](citizen-development.jpg)
 

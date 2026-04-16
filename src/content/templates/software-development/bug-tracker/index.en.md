@@ -81,7 +81,7 @@ sections:
       - text: "Access from anywhere: With an online bug tracker system, you have access at all times and can keep track of everything—whether you're in the office, working from home, or visiting a customer."
       - text: 'Transparency in the process: Link issues to tests and versions so you can see where bugs were discovered and in which release they were fixed.'
       - text: 'Scalable: Our bug tracker system template grows with your requirements—regardless of how many projects, components, or team members you manage.'
-      - text: 'Automated & integrated: Connect your bug tracker to your [IT Service Management]({{< relref "pages/industry-solutions/software-development" >}}) System – for consistent workflows without media discontinuity.'
+      - text: 'Automated & integrated: Connect your bug tracker to your [IT Service Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) System – for consistent workflows without media discontinuity.'
       image_position: [left]
       image: '/images/template_page_bugtacker_01.png'
       image_alt: 'SeaTable Bug Tracker System with overview of issues, tests, and versions in linked tables'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-supported bug tracking system'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your bug tracking system to a new level. Automate recurring tasks in bug tracking, reduce manual routine work, and gain time for analysis, prioritization, quality assurance, and well-founded release planning with clear decision-making criteria.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your bug tracking system to a new level. Automate recurring tasks in bug tracking, reduce manual routine work, and gain time for analysis, prioritization, quality assurance, and well-founded release planning with clear decision-making criteria.'
       items:
       - headline: 'Classification with Classify'
         text: 'The AI function "Classify" assigns new issues to appropriate categories or components based on their title and description. This means that bugs end up directly in the right column and teams can identify focal points in specific modules much more quickly.'
@@ -188,7 +188,7 @@ sections:
       - q: "Can I create my own fields and workflows in the bug tracker system?"
         a: 'Yes, you can add additional columns, tables, views, and automations at any time. This allows you to flexibly adapt the bug tracking system to your release, testing, and support processes.'
       - q: "Can SeaTable be used as an Asana alternative for bug tracking?"
-        a: 'Yes, SeaTable is an excellent [Asana alternative]({{< relref "pages/asana-alternative" >}}), if you want to link task and bug tracking more closely with database logic. Instead of rigid boards, you can create your own structures, link bugs with tests and versions, and build additional project management workflows on the same platform as needed.'
+        a: 'Yes, SeaTable is an excellent [Asana alternative]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), if you want to link task and bug tracking more closely with database logic. Instead of rigid boards, you can create your own structures, link bugs with tests and versions, and build additional project management workflows on the same platform as needed.'
       - q: "Does the template support a standardized software bug report template?"
         a: 'Yes, the Bug Tracker System template includes a predefined software bug report template with typical fields such as title, description, environment, reproducibility, expected result, actual result, and attachments. You can expand this structure as needed or adapt it to your internal guidelines without having to program.'
       - q: "Is there any support available for getting started with the bug tracker template?"

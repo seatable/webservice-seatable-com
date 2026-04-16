@@ -35,7 +35,7 @@ Die Aufgaben der Finanzplanung lassen sich in verschiedene Phasen einteilen:
 Als Erstes erfassen Sie alle Vermögenswerte und Verbindlichkeiten sowie die Einnahmen und Ausgaben Ihres Unternehmens, die sich auch im Jahresabschluss niederschlagen. Indem Sie einen Überblick über die aktuelle finanzielle Situation gewinnen, können Sie Prognosen für den Cashflow ableiten, die Liquidität einschätzen und die bestehende Finanzierung (z. B. Kredite, Eigenkapital) hinterfragen.
 
 ### 2. Planungsphase (Erstellung des Finanzplans)
-In der zentralen Phase der Finanzplanung nutzen Sie die ermittelten Daten aus der Analysephase, um vorausschauend Ihren [Finanzplan zu erstellen]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}). Dieser lässt sich in mehrere Bereiche unterteilen:
+In der zentralen Phase der Finanzplanung nutzen Sie die ermittelten Daten aus der Analysephase, um vorausschauend Ihren [Finanzplan zu erstellen]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}). Dieser lässt sich in mehrere Bereiche unterteilen:
 - **Umsatzplanung**: Wie entwickeln sich Ihre Einnahmen und wie lässt sich der Umsatz steigern?
 - **Kostenplanung**: Welche fixen und variablen Kosten fallen an und welche können Sie reduzieren?
 - [Rentabilitätsvorschau]({{< relref "posts/rentabilitaetsvorschau" >}}): Wie viel Umsatz müssen Sie erwirtschaften, damit Ihr Unternehmen profitabel ist?
@@ -114,7 +114,7 @@ Um die Wahrscheinlichkeit gering zu halten, dass Ihr Unternehmen in finanzielle 
 
 ## SeaTable für die Finanzplanung im Unternehmen
 
-Viele Unternehmen versuchen ihre Finanzplanung in [Excel-Tabellen]({{< relref "pages/excel-alternative" >}}) abzubilden. Komplizierte Formeln und begrenzte Möglichkeiten, verschiedene Datentypen zu erfassen und zu visualisieren, machen Ihnen dabei das Leben schwer. Nutzen Sie die intuitive No-Code-Datenbank **SeaTable**, in der Sie neben Zahlen und Texten sogar Bilder und Dateien speichern können. Mithilfe von einfachen Formeln und Statistiken, aber auch Ansichten und Plugins (wie z. B. Galerien, Kalender, Kanban-Boards) können Sie Ihre Daten im Handumdrehen auswerten und visualisieren.
+Viele Unternehmen versuchen ihre Finanzplanung in [Excel-Tabellen]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) abzubilden. Komplizierte Formeln und begrenzte Möglichkeiten, verschiedene Datentypen zu erfassen und zu visualisieren, machen Ihnen dabei das Leben schwer. Nutzen Sie die intuitive No-Code-Datenbank **SeaTable**, in der Sie neben Zahlen und Texten sogar Bilder und Dateien speichern können. Mithilfe von einfachen Formeln und Statistiken, aber auch Ansichten und Plugins (wie z. B. Galerien, Kalender, Kanban-Boards) können Sie Ihre Daten im Handumdrehen auswerten und visualisieren.
 
 Insbesondere für Gründer bedeutet eine professionelle Finanzmanagementsoftware oft hohe Kosten, bevor überhaupt Einnahmen fließen. Gut, dass SeaTable beliebig skalierbar ist! Starten Sie mit der kostenlosen [Free-Version]({{< relref "pages/prices" >}}), die Ihnen bereits alle grundlegenden Funktionen bietet, und zahlen Sie nur für Upgrades, wenn Sie mehr Speicherplatz, Features oder Nutzerkonten benötigen. SeaTable wächst mit Ihren Anforderungen und Ihrem Team.
 

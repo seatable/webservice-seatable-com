@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Angebotserstellung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Angebotserstellung und -verwaltung beschleunigen. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und gewinnen Sie mehr Zeit für Verkaufsgespräche – unabhängig davon, ob Sie eine Angebotsvorlage Kleinunternehmer oder professionelle Angebot Vorlagen für komplexe B2B-Deals nutzen. Die Angebotsvorlage lässt sich mit KI-Workflows kombinieren, um aus Anfragen automatisch qualifizierte Angebote zu erzeugen.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Angebotserstellung und -verwaltung beschleunigen. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und gewinnen Sie mehr Zeit für Verkaufsgespräche – unabhängig davon, ob Sie eine Angebotsvorlage Kleinunternehmer oder professionelle Angebot Vorlagen für komplexe B2B-Deals nutzen. Die Angebotsvorlage lässt sich mit KI-Workflows kombinieren, um aus Anfragen automatisch qualifizierte Angebote zu erzeugen.'
       items:
       - headline: 'Automatische Textbausteine mit Classify'
         text: 'Lassen Sie Angebotsanfragen automatisch klassifizieren. Die KI-Funktion „Classify“ erkennt Produktkategorien, Branchen oder Regionen und ergänzt passende Textbausteine sowie Zuständigkeiten.'
@@ -177,7 +177,7 @@ sections:
       - q: "Kann ich die Angebotsvorlage von SeaTable kostenlos nutzen?"
         a: 'Ja, Sie können die Angebotsvorlage kostenlos nutzen. Erstellen Sie einfach einen kostenfreien SeaTable-Account und fügen Sie die Angebotsvorlage zu Ihrer Base hinzu, um direkt Angebote online zu schreiben und per Klick ein PDF erstellen – auch als Angebotsvorlage für Kleinunternehmer ohne Umsatzsteuer-Ausweis. Mit der Vorlage erstellen Sie in kürzester Zeit ein professionelles Angebot und bekommen dadurch einen idealen Einstieg in einen digitalen Angebotsprozess.'
       - q: "Ist SeaTable eine Alternative zu der Angebotsvorlage in Excel?"
-        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) speziell für kollaborative Angebotsprozesse. Im Gegensatz zu einer Angebotsvorlage Excel können mehrere Personen gleichzeitig arbeiten, Kommentare hinterlassen und KI-Funktionen nutzen.'
+        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) speziell für kollaborative Angebotsprozesse. Im Gegensatz zu einer Angebotsvorlage Excel können mehrere Personen gleichzeitig arbeiten, Kommentare hinterlassen und KI-Funktionen nutzen.'
       - q: "Kann ich meine bestehende Angebotvorlage aus Excel in SeaTable importieren?"
         a: 'Ja, Sie können Ihre bestehende Angebotsvorlage die Sie in Excel erstellt haben als .xlsx, .xls oder CSV importieren und die Struktur anschließend anpassen. Danach profitieren Sie von Verknüpfungen, Formeln, Automatisierungen und PDF-Erstellung direkt aus SeaTable. So migrieren Sie Ihre bestehende Angebot schreiben Vorlage Schritt für Schritt in ein modernes, kollaboratives System.​'
       - q: "Kann ich Angebote direkt als PDF speichern und per E-Mail versenden?"

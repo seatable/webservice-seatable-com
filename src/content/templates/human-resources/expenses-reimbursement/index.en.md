@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use the online travel expense claim template'
       subtitle: 'Your benefits at a glance'
-      description: 'With SeaTable, a flexible, AI-powered no-code platform, you can implement a digital travel expense reporting system that adapts precisely to your internal policies and accounting processes. Replace traditional Excel spreadsheets with mobile form entry, automatic calculation of additional meal expenses and meal allowances, and centralised storage for hospitality receipts and invoices. This transforms your travel expense claim template into a modern, cloud-based solution for approvals, archiving and reimbursement – integrated into your [HR processes]({{< relref "pages/industry-solutions/hr" >}}).'
+      description: 'With SeaTable, a flexible, AI-powered no-code platform, you can implement a digital travel expense reporting system that adapts precisely to your internal policies and accounting processes. Replace traditional Excel spreadsheets with mobile form entry, automatic calculation of additional meal expenses and meal allowances, and centralised storage for hospitality receipts and invoices. This transforms your travel expense claim template into a modern, cloud-based solution for approvals, archiving and reimbursement – integrated into your [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       items:
       - text: '**Mobile submission:** Employees submit each business trip directly via their smartphone using the travel expense claim form. Receipts and entertainment expenses are digitised immediately and linked to the relevant record.'
       - text: '**Calculated automatically:** Additional meal expenses, meal allowances, mileage allowances and other travel expenses are calculated automatically in the template. This saves time and reduces errors caused by manual formulas in Excel.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered travel expense reporting'
       subtitle: 'Smart automation for HR and finance'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), which automate your travel expense claim templates, receipt verification and reimbursement processes. This turns your travel expense management into a smart hub for business travel, out-of-pocket expenses, hospitality receipts and approvals – far more efficient than using an Excel file.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), which automate your travel expense claim templates, receipt verification and reimbursement processes. This turns your travel expense management into a smart hub for business travel, out-of-pocket expenses, hospitality receipts and approvals – far more efficient than using an Excel file.'
       items:
       - headline: 'Allocate expenses automatically'
         text: 'With Classify, you automatically assign submitted travel expenses to categories such as accommodation, meals, hospitality, travel costs or materials. The AI analyses existing text fields and writes the identified category into a dedicated field, so your cost-type analyses become faster, clearer and more consistent overall.'
@@ -192,5 +192,5 @@ sections:
       - q: "How does the template help with additional meal expenses and mileage allowances?"
         a: 'The template can systematically record and automatically calculate additional meal expenses, meal allowances, mileage allowances and travel expense allowances. This reduces calculation errors and provides a transparent basis for reimbursement.'
       - q: "Why is SeaTable better than using Excel for travel expense claims?"
-        a: 'Excel files are often prone to errors when it comes to travel expenses, difficult to use on the go, and impractical for linking receipts. With the travel expense report template in SeaTable, you can work digitally, on the go, collaboratively and in a much more structured way – from submission to reimbursement, it’s a strong [alternative to Excel]({{< relref "pages/excel-alternative" >}}).'
+        a: 'Excel files are often prone to errors when it comes to travel expenses, difficult to use on the go, and impractical for linking receipts. With the travel expense report template in SeaTable, you can work digitally, on the go, collaboratively and in a much more structured way – from submission to reimbursement, it’s a strong [alternative to Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
 ---

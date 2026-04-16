@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-supported quotation creation with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that speed up your quote creation and management. Automate recurring tasks, reduce errors, and free up more time for sales calls—whether you use a quote template for small businesses or professional quote templates for complex B2B deals. The quote writing template can be combined with AI workflows to automatically generate qualified quotes from inquiries.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that speed up your quote creation and management. Automate recurring tasks, reduce errors, and free up more time for sales calls—whether you use a quote template for small businesses or professional quote templates for complex B2B deals. The quote writing template can be combined with AI workflows to automatically generate qualified quotes from inquiries.'
       items:
       - headline: 'Automatic text modules with Classify'
         text: 'Have requests for quotes classified automatically. The AI function "Classify" recognizes product categories, industries, or regions and adds appropriate text modules and responsibilities.'
@@ -176,7 +176,7 @@ sections:
       - q: "Can I use SeaTable's free quote template?"
         a: 'Yes, you can use the quote template free of charge. Simply create a free SeaTable account and add the quote template to your Base to create quotes online right away—even as a quote template for small businesses without VAT registration. The quote template is therefore an ideal introduction to a digital quoting process.'
       - q: "Is SeaTable an alternative to the quote template in Excel?"
-        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}) Specially designed for collaborative quotation processes. Unlike an Excel quotation template, multiple people can work simultaneously, leave comments, and use AI functions.'
+        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) Specially designed for collaborative quotation processes. Unlike an Excel quotation template, multiple people can work simultaneously, leave comments, and use AI functions.'
       - q: "Can I import my existing Excel quote template into SeaTable?"
         a: 'Yes, you can import your existing quote template in Excel as .xlsx, .xls, or CSV and then customize the structure. You can then benefit from links, formulas, automations, and PDF creation directly from SeaTable. This allows you to migrate your existing quote template step by step to a modern, collaborative system.​'
       - q: "Can I save quotes directly as PDF files and send them by email?"

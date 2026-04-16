@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use a storyboard template online'
       subtitle: 'Your benefits at a glance'
-      description: 'With SeaTable, a flexible, AI-powered no-code platform, you can create a digital storyboard template that adapts perfectly to your film, video, and marketing workflows. Replace static PDF or Excel storyboards with an interactive template featuring drag-and-drop, gallery view, and Kanban board—ideal for storyboarding, visual storytelling, and the collaborative approval process among marketing teams, directors, UX designers, and content creators. If needed, connect your template directly to other databases, for example as a central [marketing tool]({{< relref "pages/industry-solutions/marketing" >}}).'
+      description: 'With SeaTable, a flexible, AI-powered no-code platform, you can create a digital storyboard template that adapts perfectly to your film, video, and marketing workflows. Replace static PDF or Excel storyboards with an interactive template featuring drag-and-drop, gallery view, and Kanban board—ideal for storyboarding, visual storytelling, and the collaborative approval process among marketing teams, directors, UX designers, and content creators. If needed, connect your template directly to other databases, for example as a central [marketing tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).'
       items:
       - text: '**Real-time updates:** Any changes made to scene descriptions, timelines, or sketches are immediately visible to everyone—no more dealing with outdated versions.'
       - text: '**True collaboration:** Marketing teams, directors, content creators, and UX designers work together on a storyboard template—with comments and clearly defined responsibilities.'
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-powered storyboarding'
       subtitle: 'Smart Automation for Marketing Teams'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that automate your storyboard template, production planning, and approval processes. This turns your storyboard template into a smart hub for scene descriptions, dialogue, camera shots, and timing—more efficient than a traditional storyboard in a rigid PDF or Excel file.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that automate your storyboard template, production planning, and approval processes. This turns your storyboard template into a smart hub for scene descriptions, dialogue, camera shots, and timing—more efficient than a traditional storyboard in a rigid PDF or Excel file.'
       items:
       - headline: 'Automatic scene tagging'
         text: 'With Classify, you automatically tag scenes with campaigns, channels, or formats like YouTube, Instagram, or website. The AI reads fields such as scene descriptions and notes, writes the right category into a dedicated column, and keeps your storyboard filters and saved views clean over time for the entire team.'

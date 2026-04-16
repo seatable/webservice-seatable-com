@@ -18,7 +18,7 @@ Eine online nutzbare To do Liste mit einer App zu erstellen und zu verwalten bri
 
 ## Wofür Sie eine To-do-Liste brauchen
 
-Privat zuhause wie im professionellen [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) gilt es, alle anstehenden Aufgaben im Blick zu behalten und diese nach und nach abzuarbeiten. In einer To-do-Liste erfassen Sie zuallererst Ihre konkreten **Aufgaben**. Daraufhin definieren Sie gegebenenfalls **Unteraufgaben** oder übergreifende **Kategorien**, legen **Zuständigkeiten** fest und setzen **Fristen**.
+Privat zuhause wie im professionellen [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) gilt es, alle anstehenden Aufgaben im Blick zu behalten und diese nach und nach abzuarbeiten. In einer To-do-Liste erfassen Sie zuallererst Ihre konkreten **Aufgaben**. Daraufhin definieren Sie gegebenenfalls **Unteraufgaben** oder übergreifende **Kategorien**, legen **Zuständigkeiten** fest und setzen **Fristen**.
 
 Mithilfe eines **Status** können Sie kennzeichnen, ob ein To-do in Bearbeitung oder erledigt ist. Auch ein Schwebezustand ist denkbar, wenn Sie auf Antwort oder Input warten. Zudem sollten Sie Ihre To-dos nach **Priorität** ordnen, um immer die wichtigsten Aufgaben zuerst anzugehen.
 

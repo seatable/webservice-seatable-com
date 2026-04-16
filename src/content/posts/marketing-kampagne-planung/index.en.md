@@ -20,7 +20,7 @@ register:
 
 ## What is a marketing campaign?
 
-Marketing campaigns are strategically planned, time-limited sequences of marketing activities to address a specific target group and disseminate specific product and brand messages as part of the company's objectives. Typical campaigns in [marketing]({{< relref "pages/industry-solutions/marketing" >}}) serve to increase brand awareness and cultivate image, support product launches or, as a classic advertising campaign, specifically target the sale of certain products and services. A wide variety of channels such as radio and television, print media or online platforms can be used.
+Marketing campaigns are strategically planned, time-limited sequences of marketing activities to address a specific target group and disseminate specific product and brand messages as part of the company's objectives. Typical campaigns in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) serve to increase brand awareness and cultivate image, support product launches or, as a classic advertising campaign, specifically target the sale of certain products and services. A wide variety of channels such as radio and television, print media or online platforms can be used.
 
 ## How does a marketing campaign differ from a marketing strategy?  
 

@@ -111,7 +111,7 @@ sections:
       weight: 16
       title: 'AI-Powered Food Diary with SeaTable'
       subtitle: 'Identify patterns, use data smarter'
-      description: 'With SeaTable, [AI features]({{< relref "pages/ai-automations" >}}) are available to support you in evaluating your food diary. Analyze text, extract information from documents, and summarize insights automatically.'
+      description: 'With SeaTable, [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) are available to support you in evaluating your food diary. Analyze text, extract information from documents, and summarize insights automatically.'
       items:
       - headline: 'Automatic Categorization with Classify'
         text: 'Have entries automatically classified into categories like "Breakfast," "Snack," "High Sugar," or "Suspicious symptoms." This helps you recognize patterns in your eating behavior faster and discuss them more specifically with experts.'

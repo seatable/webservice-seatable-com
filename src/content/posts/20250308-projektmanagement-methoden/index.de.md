@@ -37,7 +37,7 @@ Neben den klassischen und agilen Methoden finden Sie die hybriden Methoden des P
 
 ### So finden Sie die richtige Methode für Ihr Projektmanagement
 
-Welche Methode im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) sich am besten für Ihr Projekt eignet, hängt von der Komplexität des Projekts, Ihren verfügbaren Ressourcen, dem Zeitrahmen und der Flexibilität gegenüber Änderungen und Risiken ab.
+Welche Methode im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) sich am besten für Ihr Projekt eignet, hängt von der Komplexität des Projekts, Ihren verfügbaren Ressourcen, dem Zeitrahmen und der Flexibilität gegenüber Änderungen und Risiken ab.
 
 Stellen Sie sich die folgenden Fragen:
 

@@ -83,7 +83,7 @@ Im Folgenden stellen wir Ihnen drei weitverbreitete Cloud Computing Dienste vor:
 
 ### Was ist SaaS?
 
-Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa [CRM-Systeme]({{< relref "pages/industry-solutions/kundenmanagement" >}}) oder [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
+Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa [CRM-Systeme]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) oder [Projektmanagement-Tools]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
 
 ### Was ist PaaS?
 

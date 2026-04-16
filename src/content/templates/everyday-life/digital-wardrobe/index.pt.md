@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'O seu guarda-roupa digital com funcionalidades de IA'
       subtitle: 'Assistente inteligente para o dia a dia'
-      description: Com o SeaTable, beneficia de poderosas [automações baseadas em IA]({{< relref "pages/ai-automations" >}}). Resuma textos descritivos de forma concisa, extraia instruções de cuidados ou gere sugestões de roupas — **totalmente em conformidade com o RGPD em servidores europeus na Alemanha**.
+      description: Com o SeaTable, beneficia de poderosas [automações baseadas em IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Resuma textos descritivos de forma concisa, extraia instruções de cuidados ou gere sugestões de roupas — **totalmente em conformidade com o RGPD em servidores europeus na Alemanha**.
       items:
       - headline: Resumos automáticos com o Summarize
         text: Registre notas sobre a ocasião, o estado de espírito e o conforto, e gere automaticamente um título curto para cada roupa. A visualização do calendário oferece uma visão geral concisa do look, sem a necessidade de ler todo o registo de dados.

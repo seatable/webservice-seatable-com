@@ -52,7 +52,7 @@ In practice, many companies rely on hybrid liquidity planning, which combines bo
 
 ## How to create a liquidity plan in 7 steps
 
-A well thought-out liquidity plan is not rocket science – with a clear system, you can keep an eye on your solvency at all times and create an important basis for business decisions. Because if you know exactly when money is coming and going, you can act with foresight instead of reacting in crisis mode. This is how you create a well-founded liquidity plan for your [financial plan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) step by step:
+A well thought-out liquidity plan is not rocket science – with a clear system, you can keep an eye on your solvency at all times and create an important basis for business decisions. Because if you know exactly when money is coming and going, you can act with foresight instead of reacting in crisis mode. This is how you create a well-founded liquidity plan for your [financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) step by step:
 
 1. **Determine planning period:** First determine the period for which you want to plan your liquidity. Monthly planning is recommended for starters. For larger companies, weekly or quarterly planning can also be useful – depending on how dynamic your cash flows are.
 
@@ -145,7 +145,7 @@ In addition, clear planning allows unnecessary expenditure to be identified and 
 
 ## The right software for your liquidity plan
 
-The [Excel alternative]({{< relref "pages/excel-alternative" >}}) SeaTable is a practical tool for liquidity planning. Unlike traditional spreadsheets, SeaTable combines the flexibility of relational databases with familiar spreadsheet functions. This allows you to design your liquidity planning clearly and dynamically. You record incoming and outgoing payments in linked tables, create individual views with just a few clicks (e.g. a Kanban board for open items or a timeline for payment flows) and evaluate your key figures with the help of statistics.
+The [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) SeaTable is a practical tool for liquidity planning. Unlike traditional spreadsheets, SeaTable combines the flexibility of relational databases with familiar spreadsheet functions. This allows you to design your liquidity planning clearly and dynamically. You record incoming and outgoing payments in linked tables, create individual views with just a few clicks (e.g. a Kanban board for open items or a timeline for payment flows) and evaluate your key figures with the help of statistics.
 
 Thanks to integrated formulas, SeaTable automatically calculates your liquidity ratios. Color rules help you to identify outliers or critical periods immediately. You can set up automatic reminders so that you don't lose sight of payment targets, for example.
 

@@ -32,7 +32,7 @@ O **Real Net Promoter Score é calculado** como a percentagem de promotores meno
 
 ## O que significa o Net Promoter Score?
 
-O NPS é utilizado na [gestão de clientes]({{< relref "pages/industry-solutions/kundenmanagement" >}}) como um **indicador da lealdade do cliente**. Muitas empresas utilizam-no como parâmetro, uma vez que é fácil de determinar e fornece resultados comparáveis. Um NPS elevado está geralmente associado à satisfação e ao crescimento do cliente, enquanto um valor baixo indica problemas.
+O NPS é utilizado na [gestão de clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) como um **indicador da lealdade do cliente**. Muitas empresas utilizam-no como parâmetro, uma vez que é fácil de determinar e fornece resultados comparáveis. Um NPS elevado está geralmente associado à satisfação e ao crescimento do cliente, enquanto um valor baixo indica problemas.
 
 Os defensores vêem uma pontuação elevada como um reflexo positivo de muitos factores, como a qualidade do produto, a experiência de serviço, a imagem da marca e também a ligação emocional dos clientes à marca. Nestas empresas, a pontuação não é vista apenas como uma simples medida. Pelo contrário, o NPS tornou-se uma ferramenta estratégica para compreender melhor as necessidades dos clientes e garantir a competitividade da empresa a longo prazo.
 

@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilize o modelo de plano de estrutura do projeto online com o SeaTable'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A solução de IA no-code SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o modelo de plano de estrutura do projeto, é possível planear projetos desde a estrutura geral até às tarefas individuais, manter os recursos sob controlo e criar uma base comum para o planeamento da estrutura do projeto em toda a equipa – com funcionalidades que muitas equipas normalmente só encontram no Asana e em outras ferramentas de [gestão de projetos]({{< relref "pages/industry-solutions/project-management" >}}) semelhante, mas significativamente mais flexível e baseado em banco de dados.'
+      description: 'A solução de IA no-code SeaTable impressiona pela sua flexibilidade e adaptabilidade. Com o modelo de plano de estrutura do projeto, é possível planear projetos desde a estrutura geral até às tarefas individuais, manter os recursos sob controlo e criar uma base comum para o planeamento da estrutura do projeto em toda a equipa – com funcionalidades que muitas equipas normalmente só encontram no Asana e em outras ferramentas de [gestão de projetos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) semelhante, mas significativamente mais flexível e baseado em banco de dados.'
       items:
       - text: 'Sempre atualizado: graças aos comentários, ao histórico de alterações e à atualização em tempo real, os seus modelos de plano de estrutura do projeto permanecem sempre atualizados – desde o primeiro exemplo de plano de estrutura do projeto até à implementação contínua.'
       - text: 'Acesso a partir de qualquer lugar: com um modelo de planeamento da estrutura do projeto online, tem acesso ao seu plano de estrutura do projeto a qualquer momento – no escritório, em casa ou na casa do cliente.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Modelos de plano de estrutura do projeto baseados em IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam os seus modelos de plano estrutural do projeto a um novo nível. Automatize tarefas recorrentes no planeamento do projeto, reduza o trabalho manual rotineiro e ganhe tempo para análise, coordenação e decisões fundamentadas sobre prioridades e recursos.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam os seus modelos de plano estrutural do projeto a um novo nível. Automatize tarefas recorrentes no planeamento do projeto, reduza o trabalho manual rotineiro e ganhe tempo para análise, coordenação e decisões fundamentadas sobre prioridades e recursos.'
       items:
       - headline: 'Classificação com Classify'
         text: 'O Classify atribui automaticamente novas tarefas a fases ou pacotes de trabalho adequados com base no título e na descrição. No seu modelo de estrutura do plano do projeto, as novas entradas são colocadas diretamente na estrutura correta e pode ver rapidamente em que áreas o trabalho está a concentrar-se.'
@@ -189,5 +189,5 @@ sections:
       - q: "É possível criar campos e fluxos de trabalho personalizados no modelo do plano da estrutura do projeto?"
         a: 'Sim, é possível adicionar colunas, tabelas, visualizações e automatizações adicionais a qualquer momento. Desta forma, é possível adaptar cada modelo de plano estrutural de projeto de forma flexível aos seus processos internos, funções e requisitos de relatório.'
       - q: "O SeaTable é adequado como alternativa às ferramentas clássicas de gestão de projetos, como o Asana?"
-        a: 'Sim, o SeaTable é uma excelente [alternativa ao Asana]({{< relref "pages/asana-alternative" >}}), a diferencia de quadros rígidos, com o modelo de estrutura do projeto, o modelo de plano do projeto e outros modelos, é possível combinar uma lógica de banco de dados flexível com visualizações como árvore, calendário, linha do tempo e painéis de relatórios.'
+        a: 'Sim, o SeaTable é uma excelente [alternativa ao Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), a diferencia de quadros rígidos, com o modelo de estrutura do projeto, o modelo de plano do projeto e outros modelos, é possível combinar uma lógica de banco de dados flexível com visualizações como árvore, calendário, linha do tempo e painéis de relatórios.'
 ---

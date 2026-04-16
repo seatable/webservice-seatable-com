@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Reisekostenabrechnung Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Mit der flexiblen, KI No-Code-Plattform SeaTable setzen Sie eine digitale Reisekostenabrechnung um, die sich exakt an Ihre internen Richtlinien und Abrechnungsprozesse anpasst. Ersetzen Sie klassische Excel-Listen durch mobile Formular-Erfassung, automatische Berechnung von Verpflegungsmehraufwand und Verpflegungspauschalen sowie zentrale Belegablage für Bewirtungsbelege und Quittungen. So wird aus Ihrer Reisekostenabrechnung Vorlage eine moderne, cloudbasierte Lösung für Freigaben, Archivierung und Erstattung – eingebunden in Ihre [HR Prozesse]({{< relref "pages/industry-solutions/hr" >}}).'
+      description: 'Mit der flexiblen, KI No-Code-Plattform SeaTable setzen Sie eine digitale Reisekostenabrechnung um, die sich exakt an Ihre internen Richtlinien und Abrechnungsprozesse anpasst. Ersetzen Sie klassische Excel-Listen durch mobile Formular-Erfassung, automatische Berechnung von Verpflegungsmehraufwand und Verpflegungspauschalen sowie zentrale Belegablage für Bewirtungsbelege und Quittungen. So wird aus Ihrer Reisekostenabrechnung Vorlage eine moderne, cloudbasierte Lösung für Freigaben, Archivierung und Erstattung – eingebunden in Ihre [HR Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       items:
       - text: '**Mobil erfasst:** Mitarbeitende reichen jede Dienstreise direkt per Smartphone über das Reisekostenabrechnung Formular ein. Belege, Quittungen und Bewirtungsbelege werden sofort digitalisiert und mit dem passenden Datensatz verknüpft.'
       - text: '**Automatisch berechnet:** Verpflegungsmehraufwand, Verpflegungspauschalen, Kilometerpauschale und weitere Reisekosten werden in der Vorlage automatisch berechnet. Das spart Zeit und reduziert Fehler durch manuelle Formeln in Excel.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Reisekostenabrechnung'
       subtitle: 'Smarte Automatisierung für HR und Finance'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Reisekostenabrechnung Vorlage, Belegprüfung und Erstattungsprozesse automatisieren. So wird Ihre Reisekostenabrechnung zum intelligenten Hub für Dienstreisen, Auslagen, Bewirtungsbelege und Freigaben – deutlich effizienter als in einer Excel-Datei.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Reisekostenabrechnung Vorlage, Belegprüfung und Erstattungsprozesse automatisieren. So wird Ihre Reisekostenabrechnung zum intelligenten Hub für Dienstreisen, Auslagen, Bewirtungsbelege und Freigaben – deutlich effizienter als in einer Excel-Datei.'
       items:
       - headline: 'Ausgaben automatisch zuordnen'
         text: 'Mit Classify ordnen Sie eingereichte Reisekosten automatisch Kategorien wie Hotel, Verpflegung, Bewirtung, Fahrtkosten oder Material zu. Die KI nutzt vorhandene Textfelder und schreibt die ermittelte Kategorie in ein definiertes Feld, damit Ihre Auswertungen nach Kostenart schneller und konsistenter werden.'
@@ -192,5 +192,5 @@ sections:
       - q: "Wie hilft die Vorlage bei Verpflegungsmehraufwand und Kilometerpauschale?"
         a: 'Die Vorlage kann Verpflegungsmehraufwand, Verpflegungspauschalen sowie Kilometerpauschale und Fahrkostenpauschale strukturiert erfassen und automatisch berechnen. Das reduziert Rechenfehler und schafft eine nachvollziehbare Basis für die Erstattung.'
       - q: "Warum ist SeaTable besser als eine Reisekostenabrechnung in Excel?"
-        a: 'Excel-Dateien sind bei Reisekosten oft fehleranfällig, schwer mobil nutzbar und unpraktisch bei der Verknüpfung von Belegen. Mit der Reisekostenabrechnung Vorlage in SeaTable arbeiten Sie digital, mobil, kollaborativ und deutlich strukturierter – von der Einreichung bis zur Erstattung eine starke [Alternative zu Excel]({{< relref "pages/excel-alternative" >}}).'
+        a: 'Excel-Dateien sind bei Reisekosten oft fehleranfällig, schwer mobil nutzbar und unpraktisch bei der Verknüpfung von Belegen. Mit der Reisekostenabrechnung Vorlage in SeaTable arbeiten Sie digital, mobil, kollaborativ und deutlich strukturierter – von der Einreichung bis zur Erstattung eine starke [Alternative zu Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
 ---

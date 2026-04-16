@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Sistema de tickets de helpdesk de TI baseado em IA'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam o seu sistema de tickets de TI a um novo nível. Automatize etapas recorrentes, reduza o trabalho manual rotineiro e ganhe tempo para análise, melhoria de serviços e decisões estratégicas em TI.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam o seu sistema de tickets de TI a um novo nível. Automatize etapas recorrentes, reduza o trabalho manual rotineiro e ganhe tempo para análise, melhoria de serviços e decisões estratégicas em TI.'
       items:
       - headline: 'Classificação com Classify'
         text: 'O Classify classifica automaticamente novas solicitações de suporte com base no assunto e na descrição, atribuindo-as às categorias de serviço, prioridades ou equipas adequadas. Assim, os novos tickets são encaminhados diretamente para o contexto correto, o que reduz os tempos de processamento e melhora a qualidade do suporte.'
@@ -180,7 +180,7 @@ sections:
       - q: "O modelo suporta o acompanhamento do estado e SLAs?"
         a: 'Sim, é possível configurar livremente campos de estado, dados de SLA e regras de escalonamento. Desta forma, o modelo reproduz exatamente o seu acompanhamento de estado e gestão de SLA no sistema de tickets do helpdesk.'
       - q: "É possível associar o modelo a outros processos ITSM?"
-        a: 'Sim, pode utilizar o modelo com outros modelos para gestão de ativos, gestão de alterações ou [gestão de incidentes]({{< relref "posts/20250612-incident-management" >}}) combinar e, assim, criar uma [gestão de serviços de TI]({{< relref "pages/industry-solutions/software-development" >}}) integrada.'
+        a: 'Sim, pode utilizar o modelo com outros modelos para gestão de ativos, gestão de alterações ou [gestão de incidentes]({{< relref "posts/20250612-incident-management" >}}) combinar e, assim, criar uma [gestão de serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) integrada.'
       - q: "Quantos utilizadores podem trabalhar simultaneamente com o modelo de assistência técnica de TI?"
         a: 'Vários utilizadores podem trabalhar simultaneamente na mesma base, registar e atualizar tickets. Através de autorizações, pode controlar quem pode ler, comentar ou editar – ideal para o trabalho colaborativo na empresa.'
       - q: "É possível criar campos e fluxos de trabalho personalizados no modelo?"

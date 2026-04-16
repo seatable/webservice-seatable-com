@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'SWOT Analyse digital durchführen mit SeaTable'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität, Transparenz und Zusammenarbeit in Echtzeit. Mit unserer SWOT Analyse Vorlage profitieren Sie von Echtzeit-Updates, visuellen Kanban-Priorisierungen und direkter Strategieableitung – für Unternehmensplanung, die wirklich wirkt: Im Projektportfolio, in Marketingstrategien, im Tagesgeschäft der Operations und auf C‑Level. Wenn Sie bisher mit einer Vorlage SWOT-Analyse [Excel]({{< relref "pages/excel-alternative" >}}) gearbeitet haben, können Sie Ihre Daten in wenigen Schritten importieren und in SeaTable als moderne, kollaborative Lösung weiterführen.'
+      description: 'Die KI No-Code Lösung SeaTable überzeugt durch Flexibilität, Transparenz und Zusammenarbeit in Echtzeit. Mit unserer SWOT Analyse Vorlage profitieren Sie von Echtzeit-Updates, visuellen Kanban-Priorisierungen und direkter Strategieableitung – für Unternehmensplanung, die wirklich wirkt: Im Projektportfolio, in Marketingstrategien, im Tagesgeschäft der Operations und auf C‑Level. Wenn Sie bisher mit einer Vorlage SWOT-Analyse [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) gearbeitet haben, können Sie Ihre Daten in wenigen Schritten importieren und in SeaTable als moderne, kollaborative Lösung weiterführen.'
       items:
       - text: 'Zusammenarbeit in Echtzeit: Ihr gesamtes Team arbeitet synchron an einer [SWOT Analyse]({{< relref "posts/swot-analyse" >}}) – von Projektmanagement und Marketing über Operations bis hin zum Management.'
       - text: 'Strategien sichtbar machen: Mit der integrierten Kanban-Ansicht visualisieren Sie SWOT-Faktoren und priorisieren sie per Drag-and-Drop – ideal für Workshops, Vorstandspräsentationen und strategische Debatten.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Strategieentwicklung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre SWOT-Analyse auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit bei der Strategieentwicklung.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre SWOT-Analyse auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben und sparen Sie wertvolle Zeit bei der Strategieentwicklung.'
       items:
       - headline: 'Mehrsprachige SWOT-Analysen'
         text: 'Übersetzen Sie SWOT-Faktoren automatisch in andere Sprachen mit einem Custom Prompt – ideal für internationale Teams oder globale Strategieworkshops. Jedes Teammitglied arbeitet in seiner Sprache, die KI konsolidiert die Ergebnisse zentral in einer gemeinsamen Analyse.'

@@ -18,7 +18,7 @@ The Lookup function allows you to display additional values from an already link
 
 ## When do you need the lookup formula?
 
-The Lookup function should be used whenever you want to cross-reference information stored in different tables. Let's say you are using SeaTable for [project management]({{< relref "pages/industry-solutions/project-management" >}}), where the projects are stored in one table and the tasks associated with the project are stored in another table. Each project is then linked to a set of tasks.
+The Lookup function should be used whenever you want to cross-reference information stored in different tables. Let's say you are using SeaTable for [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), where the projects are stored in one table and the tasks associated with the project are stored in another table. Each project is then linked to a set of tasks.
 
 ![Linking project tasks to a project](images/linked-tables-seatable.png)
 

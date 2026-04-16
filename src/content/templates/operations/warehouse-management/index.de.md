@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Lagerverwaltung mit SeaTable'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Lagerverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und treffen Sie bessere Entscheidungen auf Basis Ihrer Bestandsdaten.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Lagerverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben, reduzieren Sie Fehler und treffen Sie bessere Entscheidungen auf Basis Ihrer Bestandsdaten.'
       items:
       - headline: 'Automatische Artikelklassifizierung mit Classify'
         text: 'Lassen Sie neue Artikel automatisch kategorisieren: Die KI-Funktion „Classify" erkennt anhand von Produktnamen, Beschreibungen oder Lieferantenzuordnungen die passende Kategorie und ordnet Ihre Artikel selbstständig zu – ideal für schnell wachsende Sortimente.'
@@ -173,7 +173,7 @@ sections:
       - q: "Kann ich die Lagerverwaltung Vorlage von SeaTable kostenlos nutzen?"
         a: 'Ja, Sie können SeaTable und die Vorlage Lagerverwaltung zeitlich unbefristet kostenlos nutzen. Mit einem Free Account stehen Ihnen alle grundlegenden Funktionen zur Verfügung, um Bestände, Lagerorte und Warenbewegungen digital zu verwalten.'
       - q: "Ist SeaTable eine Alternative zu Excel für die Lagerverwaltung?"
-        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) für Lagerverwaltung. Im Gegensatz zu einer Lagerverwaltung in Excel bietet SeaTable Mehrbenutzerfähigkeit, Echtzeit-Zugriff, Automatisierungen, Berechtigungen und App-Frontends – ideal für Teams und wachsende Unternehmen.'
+        a: 'Ja, SeaTable ist eine leistungsstarke [Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) für Lagerverwaltung. Im Gegensatz zu einer Lagerverwaltung in Excel bietet SeaTable Mehrbenutzerfähigkeit, Echtzeit-Zugriff, Automatisierungen, Berechtigungen und App-Frontends – ideal für Teams und wachsende Unternehmen.'
       - q: "Kann ich meine bestehende Excel-Lagerliste in SeaTable importieren?"
         a: 'Ja, Sie können vorhandene Excel- oder CSV-Dateien mit Ihren Lagerdaten einfach in SeaTable importieren. Nach dem Import können Sie Spalten anpassen, Relationen zwischen Tabellen herstellen und von allen Vorteilen der Vorlage für Lagerverwaltung profitieren.'
       - q: "Lässt sich SeaTables System zur Lagerverwaltung erweitern?"

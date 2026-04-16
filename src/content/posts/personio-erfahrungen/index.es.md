@@ -20,7 +20,7 @@ register:
 Personio es un [software de gestión de RRHH]({{< relref "posts/20250317-hris" >}}) basado en la nube que está diseñado principalmente para empresas de 10 a 5.000 empleados. La versión básica (Personio Core) combina funciones como:
 
 *   [Datos maestros de RRHH]({{< relref "posts/20250505-master-data-management" >}}) y archivo digital de personal
-*   [Registro de tiempos]({{< relref "pages/arbeitszeiterfassung" >}}) y gestión de ausencias
+*   [Registro de tiempos]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) y gestión de ausencias
 *   Documentos y [plantillas de RRHH]({{< relref "templates/human-resources" >}})
 *   [On-boarding]({{< relref "posts/20250324-onboarding-prozess" >}}) y off-boarding
 *   Análisis e informes
@@ -83,7 +83,7 @@ Aunque crear una cuenta en los sistemas en la nube es un juego de niños, Person
 
 ## SeaTable como alternativa a Personio
 
-SeaTable es una solución no-code de IA que combina **gestión de datos, creación de aplicaciones y automatizaciones de IA**. Su ámbito de aplicación no se limita a la gestión de personal, lo que significa que puede utilizar SeaTable en toda la empresa (por ejemplo, en [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [ventas]({{< relref "pages/industry-solutions/kundenmanagement" >}}) y [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) para crear bases de datos y apps y automatizar procesos. SeaTable también ofrece ventajas sobre Personio que entran en juego durante la evaluación:
+SeaTable es una solución no-code de IA que combina **gestión de datos, creación de aplicaciones y automatizaciones de IA**. Su ámbito de aplicación no se limita a la gestión de personal, lo que significa que puede utilizar SeaTable en toda la empresa (por ejemplo, en [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [ventas]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) y [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) para crear bases de datos y apps y automatizar procesos. SeaTable también ofrece ventajas sobre Personio que entran en juego durante la evaluación:
 
 -   **Más flexibilidad**: Construya de forma rápida, fácil e intuitiva todos los procesos, apps y vistas de datos que necesite para su gestión de RRHH.  
 
@@ -109,7 +109,7 @@ He aquí un resumen de las **diferencias entre Personio y SeaTable**:
 
 ## Conclusión mixta: la experiencia de Personio es más bien negativa
 
-Personio es básicamente un software en la nube fácil de usar que proporciona amplias funciones para la gestión de personal. En este sentido, se suele elogiar que Personio como **solución todo en uno** centraliza los datos de los empleados, los documentos y los [procesos de RRHH]({{< relref "pages/industry-solutions/hr" >}}) y descarga al departamento de RRHH. Los clientes sólo critican el software en sí por su falta de flexibilidad, las molestas actualizaciones y los largos tiempos de carga. En definitiva, la valoración de Personio en numerosas reseñas de Personio sigue siendo pobre:
+Personio es básicamente un software en la nube fácil de usar que proporciona amplias funciones para la gestión de personal. En este sentido, se suele elogiar que Personio como **solución todo en uno** centraliza los datos de los empleados, los documentos y los [procesos de RRHH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) y descarga al departamento de RRHH. Los clientes sólo critican el software en sí por su falta de flexibilidad, las molestas actualizaciones y los largos tiempos de carga. En definitiva, la valoración de Personio en numerosas reseñas de Personio sigue siendo pobre:
 
 La experiencia Personio a menudo se vuelve negativa en cuanto los clientes experimentan las prácticas de venta: Para ello, muchos **clientes insatisfechos** afirman haber sido engañados con falsas promesas o haber sido defraudados tras firmar un contrato. **¡Cuidado: trampa de costes!** A Personio se le paga generosamente por el uso de su software, aunque los elevados precios no son evidentes en un principio. Los costes ocultos de Personio dependen en gran medida del número de empleados y de los módulos seleccionados.
 

@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilizar o modelo de plano editorial online'
       subtitle: 'As suas vantagens em resumo'
-      description: 'A no-code solução SeaTable, baseada em inteligência artificial, oferece flexibilidade, automatização e trabalho em equipa em tempo real. Com modelos de planos editoriais e de conteúdo, pode controlar todo o seu conteúdo multicanal de forma centralizada, manter o controlo do estado e das capacidades e criar uma base uniforme para o seu marketing de conteúdo – de forma mais eficiente do que uma abordagem clássica de plano editorial em Excel ou sistemas estáticos. Utilize o SeaTable como uma poderosa [ferramenta de marketing]({{< relref "pages/industry-solutions/marketing" >}}) e os modelos transformam-se em processos de marketing escaláveis.'
+      description: 'A no-code solução SeaTable, baseada em inteligência artificial, oferece flexibilidade, automatização e trabalho em equipa em tempo real. Com modelos de planos editoriais e de conteúdo, pode controlar todo o seu conteúdo multicanal de forma centralizada, manter o controlo do estado e das capacidades e criar uma base uniforme para o seu marketing de conteúdo – de forma mais eficiente do que uma abordagem clássica de plano editorial em Excel ou sistemas estáticos. Utilize o SeaTable como uma poderosa [ferramenta de marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) e os modelos transformam-se em processos de marketing escaláveis.'
       items:
       - text: '**Sempre atualizado:** com comentários, histórico de alterações e atualizações em tempo real, o seu planeamento editorial permanece sempre atualizado – desde a ideia inicial até à publicação final.'
       - text: '**Acesso a partir de qualquer lugar:** como um calendário editorial digital, o seu plano de conteúdo está sempre disponível – no escritório, em casa ou em viagem, inclusive para agências e freelancers.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Planeamento editorial assistido por IA'
       subtitle: 'Automação inteligente no marketing de conteúdo'
-      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que automatizam o seu planeamento editorial, criação de conteúdo e avaliação. Assim, o seu modelo de plano editorial torna-se um centro de conteúdo inteligente, que assume tarefas rotineiras e proporciona às equipas de marketing espaço para criatividade e estratégia.'
+      description: 'Com o SeaTable, pode utilizar poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que automatizam o seu planeamento editorial, criação de conteúdo e avaliação. Assim, o seu modelo de plano editorial torna-se um centro de conteúdo inteligente, que assume tarefas rotineiras e proporciona às equipas de marketing espaço para criatividade e estratégia.'
       items:
       - headline: 'Classificação de conteúdo com o Classify'
         text: 'Com o Classify, pode classificar automaticamente novos conteúdos no plano editorial por canal, formato, tema ou fase do funil e estruturar o seu plano de conteúdo sem esforço manual. Assim, pode identificar quais os tipos de conteúdo que utiliza mais e onde ainda existem lacunas no calendário editorial.'

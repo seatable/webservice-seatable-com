@@ -42,7 +42,7 @@ Pode utilizar este tipo de página para adicionar qualquer **tabela** da sua bas
 
 ## Tipo de página: Formulário
 
-Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. [Os formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) não estão apenas disponíveis na aplicação, mas também como uma funcionalidade separada. As páginas de formulário na aplicação são ideais para recolher **dados de muitos utilizadores diferentes**. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados]({{< relref "pages/arbeitszeiterfassung" >}}).
+Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. [Os formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) não estão apenas disponíveis na aplicação, mas também como uma funcionalidade separada. As páginas de formulário na aplicação são ideais para recolher **dados de muitos utilizadores diferentes**. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Formulário Web para registar o tempo de trabalho dos seus empregados](images/webformular-working-time.png)
 

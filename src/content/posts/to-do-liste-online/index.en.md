@@ -20,7 +20,7 @@ Creating and managing an online to-do list with an app has many advantages. This
 
 ## What you need a to-do list for
 
-Both at home and in professional [project management]({{< relref "pages/industry-solutions/project-management" >}}), it is important to keep track of all upcoming tasks and work through them one by one. First of all, record your specific **tasks** in a to-do list. You then define any **subtasks** or overarching **categories**, determine **responsibilities** and set **deadlines**.
+Both at home and in professional [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), it is important to keep track of all upcoming tasks and work through them one by one. First of all, record your specific **tasks** in a to-do list. You then define any **subtasks** or overarching **categories**, determine **responsibilities** and set **deadlines**.
 
 You can use a **status** to indicate whether a to-do is being processed or has been completed. A pending status is also conceivable if you are waiting for a response or input. You should also **prioritize** your to-dos so that you always tackle the most important tasks first.
 

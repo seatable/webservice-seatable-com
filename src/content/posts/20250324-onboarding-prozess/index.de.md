@@ -151,7 +151,7 @@ Setzen Sie eine geeignetes Onboarding Programm ein, um den Überblick zu behalte
 
 ## Das richtige Onboarding Programm für Ihre Anforderungen
 
-Mit der kostenlosen Vorlage von SeaTable können Sie Ihren Onboarding Prozess so effizient gestalten, dass Sie nicht nur Ihre [HR Prozesse]({{< relref "pages/industry-solutions/hr" >}}) entlasten, sondern auch den Einstieg für Ihre neuen Mitarbeiter denkbar leicht machen.
+Mit der kostenlosen Vorlage von SeaTable können Sie Ihren Onboarding Prozess so effizient gestalten, dass Sie nicht nur Ihre [HR Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) entlasten, sondern auch den Einstieg für Ihre neuen Mitarbeiter denkbar leicht machen.
 
 Mit nur einem Klick erstellen Sie für jeden neuen Mitarbeiter eine intuitive Checkliste mit allen anstehenden Aufgaben, wodurch jeder genau weiß, was zu tun ist. Um Chaos und Zettelwirtschaft zu vermeiden, können Sie alle wichtigen Dokumente direkt in der Tabelle ablegen und digital unterschreiben lassen.
 

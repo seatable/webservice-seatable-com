@@ -28,7 +28,7 @@ Incident Management ist ein Prozess, der darauf abzielt, Störungen schnell zu e
 
 ## ITIL: Bedeutung in der IT
 
-Die ITIL (Information Technology Infrastructure Library) ist ein international anerkannter Standard für Methoden und Prozesse im [IT-Service-Management]({{< relref "pages/industry-solutions/software-development" >}}) (ITSM). Sie unterstützt Sie dabei, Ihre IT-Dienste optimal auf die Anforderungen Ihrer Kunden und Geschäftsziele abzustimmen. Mit den ITIL Standards verbessern Sie nicht nur die Qualität Ihrer Services, sondern steigern gleichzeitig die Effizienz in Ihrer IT-Abteilung.
+Die ITIL (Information Technology Infrastructure Library) ist ein international anerkannter Standard für Methoden und Prozesse im [IT-Service-Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) (ITSM). Sie unterstützt Sie dabei, Ihre IT-Dienste optimal auf die Anforderungen Ihrer Kunden und Geschäftsziele abzustimmen. Mit den ITIL Standards verbessern Sie nicht nur die Qualität Ihrer Services, sondern steigern gleichzeitig die Effizienz in Ihrer IT-Abteilung.
 
 Durch die Einführung und Anwendung der ITIL Prozesse lernen Sie, strukturierter vorzugehen, Ihre Ressourcen effizienter zu managen und klare Rollen sowie Verantwortlichkeiten innerhalb Ihrer Organisation zu definieren. Darüber hinaus können Sie mit ITIL Prozessen besser auf unvorhergesehene Ausfallzeiten reagieren und Änderungen ohne Komplikationen implementieren. Dies führt zu einer höheren Stabilität, Flexibilität und Kundenzufriedenheit in Ihrem IT-Betrieb.
 

@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'Your digital wardrobe with AI features'
       subtitle: 'Smart everyday helper'
-      description: With SeaTable, you benefit from powerful [AI-powered automations]({{< relref "pages/ai-automations" >}}). Summarize descriptive texts concisely, extract care instructions, or generate outfit suggestions—**fully GDPR-compliant on European servers in Germany**.
+      description: With SeaTable, you benefit from powerful [AI-powered automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Summarize descriptive texts concisely, extract care instructions, or generate outfit suggestions—**fully GDPR-compliant on European servers in Germany**.
       items:
       - headline: 'Automatic summaries with Summarize'
         text: "Record notes on the occasion, mood, and comfort, and automatically generate a short style headline for each outfit. The calendar view then gives you a concise overview of the look without having to read the entire data record."
@@ -167,6 +167,6 @@ sections:
       - q: "Can I also save photos of outfits and combinations?" 
         a: "Yes, you can save photos, videos, and other files and link them to your saved clothes and outfits." 
       - q: "Is the use of AI in SeaTable GDPR-compliant?"
-        a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and [our own AI model]({{< relref "pages/ai-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.'       
+        a: Absolutely, with SeaTable you don't have to worry about your information being misused as training data. We host SeaTable Cloud and [our own AI model]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) on certified European servers in Germany. There is no data exchange with external AI providers, and your data never leaves the SeaTable infrastructure.'       
 ---
 

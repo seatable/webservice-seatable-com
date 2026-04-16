@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use a project plan template online with SeaTable'
       subtitle: 'Your benefits at a glance'
-      description: 'The AI-powered no-code solution SeaTable combines flexible database logic with modern views such as Gantt charts, Kanban boards, and calendars. With this template, you can plan projects from kickoff to completion, keep track of deadlines, dependencies, and resources, and establish a common foundation for stakeholder management across the entire team—use SeaTable as a flexible [project management tool]({{< relref "pages/industry-solutions/project-management" >}}).'
+      description: 'The AI-powered no-code solution SeaTable combines flexible database logic with modern views such as Gantt charts, Kanban boards, and calendars. With this template, you can plan projects from kickoff to completion, keep track of deadlines, dependencies, and resources, and establish a common foundation for stakeholder management across the entire team—use SeaTable as a flexible [project management tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).'
       items:
       - text: '**Always up to date:** Thanks to comments, revision history, and real-time updates, your project planning is always up to date—from initial ideas to completion.'
       - text: "**Access from anywhere:** With an online, cloud-based template, you can access your project plan and all views at any time—whether you're in the office, working from home, or visiting a client."
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered project plan'
       subtitle: 'Smart automation for your project plan'
-      description: 'Take advantage of powerful [AI features]({{< relref "pages/ai-automations" >}}), to optimize your project planning and take it to the next level. Automate tedious routine tasks and say goodbye to the hassle of maintaining Excel files. Free up valuable time for analysis and make informed decisions about priorities and resources. Transform your project planning into an efficient and stress-free experience. Get started now and see how easy project management can be!'
+      description: 'Take advantage of powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), to optimize your project planning and take it to the next level. Automate tedious routine tasks and say goodbye to the hassle of maintaining Excel files. Free up valuable time for analysis and make informed decisions about priorities and resources. Transform your project planning into an efficient and stress-free experience. Get started now and see how easy project management can be!'
       items:
       - headline: 'Classify tasks automatically'
         text: 'Using AI-powered classification, SeaTable automatically assigns new tasks to the appropriate phases, categories, or milestones based on their title and description. This ensures that entries are placed directly in the correct context of your project plan template—such as the Gantt chart, the Kanban view, or specialized risk and change views—without requiring manual updates by project managers.'

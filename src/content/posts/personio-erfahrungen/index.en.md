@@ -20,7 +20,7 @@ register:
 Personio is a cloud-based [HR management software]({{< relref "posts/20250317-hris" >}}) that is primarily designed for companies with 10 to 5,000 employees. The basic version (Personio Core) combines functions such as:
 
 *   [HR master data]({{< relref "posts/20250505-master-data-management" >}}) and digital personnel file
-*   [Time recording]({{< relref "pages/arbeitszeiterfassung" >}}) and absence management
+*   [Time recording]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) and absence management
 *   Documents and [HR templates]({{< relref "templates/human-resources" >}})
 *   [On-boarding]({{< relref "posts/20250324-onboarding-prozess" >}}) and off-boarding
 *   Analyses and reporting
@@ -83,7 +83,7 @@ Although setting up an account in cloud systems is child's play, Personio charge
 
 ## SeaTable as a Personio alternative
 
-SeaTable is an AI no-code solution that combines **data management, app building and AI automations**. The area of application is not limited to personnel management, which means you can use SeaTable company-wide (e.g. in [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales]({{< relref "pages/industry-solutions/kundenmanagement" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}})) to create databases and apps and automate processes. SeaTable also offers advantages over Personio that are important in the assessment:
+SeaTable is an AI no-code solution that combines **data management, app building and AI automations**. The area of application is not limited to personnel management, which means you can use SeaTable company-wide (e.g. in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [sales]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) and [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})) to create databases and apps and automate processes. SeaTable also offers advantages over Personio that are important in the assessment:
 
 -   **More flexibility**: Quickly, easily and intuitively build all the processes, apps and data views you need for your HR management.  
 
@@ -109,7 +109,7 @@ Here is an overview of the **differences between Personio and SeaTable**:
 
 ## Mixed conclusion: Personio experience rather negative
 
-Personio is basically a user-friendly cloud software that offers extensive functions for personnel management. In this regard, it is often praised that Personio as an **all-in-one solution** centralizes employee data, documents and [HR processes]({{< relref "pages/industry-solutions/hr" >}}) and relieves the HR department. Customers only criticize the software itself for its lack of flexibility, annoying updates and long loading times. All in all, the Personio rating in numerous Personio reviews is still poor because:
+Personio is basically a user-friendly cloud software that offers extensive functions for personnel management. In this regard, it is often praised that Personio as an **all-in-one solution** centralizes employee data, documents and [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) and relieves the HR department. Customers only criticize the software itself for its lack of flexibility, annoying updates and long loading times. All in all, the Personio rating in numerous Personio reviews is still poor because:
 
 The Personio experience often turns negative as soon as customers experience the sales practices: To this end, many **unsatisfied customers** report being lured with false promises or being let down after signing a contract. **Beware: cost trap!** Personio is paid handsomely for the use of its software, although the high prices are not initially apparent. The hidden Personio costs depend heavily on the number of employees and the modules selected.
 

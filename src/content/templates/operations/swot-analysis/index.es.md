@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Realizar un análisis DAFO digital con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad, transparencia y colaboración en tiempo real. Con nuestra plantilla de análisis DAFO, se beneficiará de actualizaciones en tiempo real, priorizaciones visuales Kanban y derivación directa de estrategias, para una planificación empresarial que realmente funciona: en la cartera de proyectos, en las estrategias de marketing, en las operaciones diarias y a nivel directivo. Si hasta ahora ha utilizado una plantilla de análisis DAFO [Excel]({{< relref "pages/excel-alternative" >}}) Si ha trabajado con Google Sheets, puede importar sus datos en unos pocos pasos y continuar utilizándolos en SeaTable como una solución moderna y colaborativa.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad, transparencia y colaboración en tiempo real. Con nuestra plantilla de análisis DAFO, se beneficiará de actualizaciones en tiempo real, priorizaciones visuales Kanban y derivación directa de estrategias, para una planificación empresarial que realmente funciona: en la cartera de proyectos, en las estrategias de marketing, en las operaciones diarias y a nivel directivo. Si hasta ahora ha utilizado una plantilla de análisis DAFO [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) Si ha trabajado con Google Sheets, puede importar sus datos en unos pocos pasos y continuar utilizándolos en SeaTable como una solución moderna y colaborativa.'
       items:
       - text: 'Colaboración en tiempo real: todo su equipo trabaja de forma sincronizada en un [análisis DAFO]({{< relref "posts/swot-analyse" >}}) – Desde la gestión de proyectos y el marketing hasta las operaciones y la gestión.'
       - text: 'Haga visibles las estrategias: con la vista Kanban integrada, puede visualizar los factores SWOT y priorizarlos mediante arrastrar y soltar, lo que resulta ideal para talleres, presentaciones a la junta directiva y debates estratégicos.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Desarrollo de estrategias basadas en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su análisis DAFO a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso en el desarrollo de estrategias.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán su análisis DAFO a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso en el desarrollo de estrategias.'
       items:
       - headline: 'Análisis DAFO multilingües'
         text: 'Traduzca automáticamente los factores SWOT a otros idiomas con un mensaje personalizado, ideal para equipos internacionales o talleres de estrategia global. Cada miembro del equipo trabaja en su propio idioma y la IA consolida los resultados de forma centralizada en un análisis conjunto.'

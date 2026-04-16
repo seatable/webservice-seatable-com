@@ -191,7 +191,7 @@ La rentabilité prévisionnelle est un outil indispensable pour évaluer la viab
 
 ![rentabilité prévisionnelle - perspectives](rentabilitaetsvorschau-ausblick.jpg)
 
-Pour garder un œil sur le chiffre d'affaires et les coûts de votre entreprise et pour pouvoir estimer les bénéfices ou les pertes, vous devez établir [un plan financier]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}). Pour cela, vous pouvez utiliser un logiciel de base de données puissant comme [SeaTable]({{< relref "/" >}}).
+Pour garder un œil sur le chiffre d'affaires et les coûts de votre entreprise et pour pouvoir estimer les bénéfices ou les pertes, vous devez établir [un plan financier]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}). Pour cela, vous pouvez utiliser un logiciel de base de données puissant comme [SeaTable]({{< relref "/" >}}).
 
 Dans SeaTable, vous trouverez toutes les fonctions d'un **tableur** (par ex. un éditeur de formules convivial) combinées à la puissance d'une **base de données sans code** et à un [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) intuitif. Ainsi, plus rien ne vous empêche d'avoir un aperçu clair de la rentabilité.
 

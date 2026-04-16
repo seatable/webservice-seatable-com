@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'AI-supported warehouse management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your warehouse management to a new level. Automate recurring tasks, reduce errors, and make better decisions based on your inventory data.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your warehouse management to a new level. Automate recurring tasks, reduce errors, and make better decisions based on your inventory data.'
       items:
       - headline: 'Automatic article classification with Classify'
         text: 'Have new items categorized automatically: The AI function "Classify" recognizes the appropriate category based on product names, descriptions, or supplier assignments and assigns your items independently—ideal for rapidly growing product ranges.'
@@ -173,7 +173,7 @@ sections:
       - q: "Can I use SeaTable's inventory management template for free?"
         a: 'Yes, you can use SeaTable and the inventory management template free of charge for an unlimited period of time. With a free account, you have access to all the basic features you need to digitally manage inventory, storage locations, and goods movements.'
       - q: "Is SeaTable an alternative to Excel for inventory management?"
-        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}) fFor inventory management. Unlike inventory management in Excel, SeaTable offers multi-user capability, real-time access, automation, permissions, and app front ends—ideal for teams and growing businesses.'
+        a: 'Yes, SeaTable is a powerful [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) fFor inventory management. Unlike inventory management in Excel, SeaTable offers multi-user capability, real-time access, automation, permissions, and app front ends—ideal for teams and growing businesses.'
       - q: "Can I import my existing Excel inventory list into SeaTable?"
         a: 'Yes, you can easily import existing Excel or CSV files containing your warehouse data into SeaTable. After importing, you can customize columns, create relationships between tables, and enjoy all the benefits of the warehouse management template.'
       - q: "Can SeaTable's inventory management system be expanded?"

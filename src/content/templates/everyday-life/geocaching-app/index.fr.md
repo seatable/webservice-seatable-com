@@ -112,7 +112,7 @@ sections:
       weight: 16
       title: Application de géocaching dotée de fonctionnalités d'IA intégrées
       subtitle: 'Votre assistant intelligent'
-      description: Avec SeaTable, vous pouvez tirer parti de puissantes [automatisations basées sur l'IA]({{< relref "pages/ai-automations" >}}) intégrées et de notre [plugin de chat IA]({{< relref "help/ai/ai-chat" >}}). Recevez des notifications automatiques dès qu'une nouvelle entrée de journal est créée, ou utilisez nos fonctionnalités d'IA — par exemple, pour les classifications ou les résumés — le tout en conformité avec le RGPD grâce à notre propre serveur d'IA situé en Allemagne.
+      description: Avec SeaTable, vous pouvez tirer parti de puissantes [automatisations basées sur l'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) intégrées et de notre [plugin de chat IA]({{< relref "help/ai/ai-chat" >}}). Recevez des notifications automatiques dès qu'une nouvelle entrée de journal est créée, ou utilisez nos fonctionnalités d'IA — par exemple, pour les classifications ou les résumés — le tout en conformité avec le RGPD grâce à notre propre serveur d'IA situé en Allemagne.
       items:
       - headline: 'Résumés automatiques avec Summarize'
         text: Grâce à la fonction « Summarize », vous pouvez condenser de longues notes du Finder en une ou deux phrases. Vous obtenez ainsi un résumé concis pour l'affichage en galerie ou le tableau de bord de l'application.

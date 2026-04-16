@@ -113,7 +113,7 @@ Die polnische Software Kanban-Tool gehört zu den älteren Free Kanban Tools und
 
 ### Asana
 
-Asana gehört zu den bekanntesten [Workflow Management Tools]({{< relref "pages/industry-solutions/individual" >}}) auf dem Markt und bietet neben Kanban noch weitere Visualisierungsfunktionen. Besonders praktisch ist die Möglichkeit, Aufgaben in überschaubare Unteraufgaben zu gliedern. Mit "Asana Intelligence" bietet Asana fortschrittliche KI-Funktionen, die etwa Statusberichte automatisch schreiben oder Ziele mit Aufgaben verknüpfen. Das Tool besitzt integrierte Automatisierungsregeln und Benachrichtigungsfunktionen, jedoch nur **eingeschränkte Analyse- und Reportingfunktionen**, sodass Sie keine Performance-Metriken erfassen können. Auch können Sie keine WIP-Limits setzen.
+Asana gehört zu den bekanntesten [Workflow Management Tools]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) auf dem Markt und bietet neben Kanban noch weitere Visualisierungsfunktionen. Besonders praktisch ist die Möglichkeit, Aufgaben in überschaubare Unteraufgaben zu gliedern. Mit "Asana Intelligence" bietet Asana fortschrittliche KI-Funktionen, die etwa Statusberichte automatisch schreiben oder Ziele mit Aufgaben verknüpfen. Das Tool besitzt integrierte Automatisierungsregeln und Benachrichtigungsfunktionen, jedoch nur **eingeschränkte Analyse- und Reportingfunktionen**, sodass Sie keine Performance-Metriken erfassen können. Auch können Sie keine WIP-Limits setzen.
 
 **Vorteile:** vielfältige Integrationen, gutes Kollaborationstool, Automatisierungen, Benachrichtigungen
 

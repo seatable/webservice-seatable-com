@@ -112,7 +112,7 @@ sections:
       weight: 16
       title: 'Aplicação de geocaching com funcionalidades de IA integradas'
       subtitle: 'O seu assistente inteligente'
-      description: 'Com o SeaTable, pode tirar partido de poderosas [automatizações baseadas em IA]({{< relref "pages/ai-automations" >}}) integradas e do nosso [plug-in de chat com IA]({{< relref "help/ai/ai-chat" >}}). Receba notificações automáticas assim que for criada uma nova entrada de registo ou utilize as nossas funcionalidades de IA — por exemplo, para classificações ou resumos —, tudo em conformidade com o RGPD, graças ao nosso próprio servidor de IA na Alemanha.'
+      description: 'Com o SeaTable, pode tirar partido de poderosas [automatizações baseadas em IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) integradas e do nosso [plug-in de chat com IA]({{< relref "help/ai/ai-chat" >}}). Receba notificações automáticas assim que for criada uma nova entrada de registo ou utilize as nossas funcionalidades de IA — por exemplo, para classificações ou resumos —, tudo em conformidade com o RGPD, graças ao nosso próprio servidor de IA na Alemanha.'
       items:
       - headline: 'Resumos automáticos com a função «Summarize»'
         text: 'Resuma as notas longas do Finder em uma ou duas frases. Isto permite-lhe obter um feedback conciso para a visualização em galeria ou para o painel de controlo.'

@@ -64,7 +64,7 @@ A digitalização de processos consiste em **digitalizar processos analógicos**
 
 Através de uma gestão de dados eficaz, é possível obter uma **maior integridade e qualidade dos dados**, o que, por sua vez, contribui para decisões mais informadas. Pode também reduzir os custos utilizando os dados de forma eficiente, evitando dados redundantes e confiando em tecnologias de armazenamento que são tão económicas como seguras. A **otimização, digitalização e automatização de processos** são também benefícios que resultam de uma boa gestão de dados.
 
-Um exemplo concreto deste facto é a utilização da gestão de dados na produção. As modernas instalações de produção utilizam grandes quantidades de dados de sensores para monitorizar e ajustar os processos de produção em tempo real. Sem um sistema de gestão de dados sólido, estes processos de produção avançados seriam quase impossíveis de implementar. Mas a gestão de dados é também indispensável para a digitalização em [recursos humanos] ({{< relref "pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/industry-solutions/marketing/" >}}) e contabilidade.
+Um exemplo concreto deste facto é a utilização da gestão de dados na produção. As modernas instalações de produção utilizam grandes quantidades de dados de sensores para monitorizar e ajustar os processos de produção em tempo real. Sem um sistema de gestão de dados sólido, estes processos de produção avançados seriam quase impossíveis de implementar. Mas a gestão de dados é também indispensável para a digitalização em [recursos humanos] ({{< relref "pages/landing-pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing/" >}}) e contabilidade.
 
 ![Gestão de dados](Data-Management_Header.jpg)
 

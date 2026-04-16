@@ -17,7 +17,7 @@ Esta manhã, o [SeaTable Cloud](https://cloud.seatable.io) foi actualizado para 
 
 ## Formatação condicional para colunas
 
-Qualquer pessoa que trabalha regularmente com o [Excel]({{< relref "pages/excel-alternative" >}}) conhece a função de formatação condicional. Com a versão 2.7, esta função está agora também disponível em SeaTable. Com formatação condicional, formata ou colora células em função do seu valor (ou da ausência desse valor) e pode assim realizar a estruturação e análise dos dados visuais.
+Qualquer pessoa que trabalha regularmente com o [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) conhece a função de formatação condicional. Com a versão 2.7, esta função está agora também disponível em SeaTable. Com formatação condicional, formata ou colora células em função do seu valor (ou da ausência desse valor) e pode assim realizar a estruturação e análise dos dados visuais.
 
 Para todas as colunas, o SeaTable oferece uma formatação condicional baseada em regras. Uma regra é a descrição de um conteúdo hipotético de uma célula (por exemplo, valor > 50 ou data após 31.12.2021) e uma instrução de formatação. Se a regra for cumprida, a célula é formatada de acordo com a instrução. Regras escolhidas com inteligência podem, entre outras coisas, tornar aberrantes os valores estatísticos ou valores pouco usuais facilmente reconhecíveis. É claro que também pode definir várias regras por coluna para mapear requisitos exigentes.
 

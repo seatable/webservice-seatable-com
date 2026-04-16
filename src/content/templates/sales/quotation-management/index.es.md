@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Elaboración de ofertas asistida por IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que aceleran la creación y gestión de sus ofertas. Automatice las tareas recurrentes, reduzca los errores y gane más tiempo para las conversaciones de ventas, independientemente de si utiliza una plantilla de oferta para pequeñas empresas o plantillas de oferta profesionales para acuerdos B2B complejos. La plantilla para redactar ofertas se puede combinar con flujos de trabajo de IA para generar automáticamente ofertas cualificadas a partir de solicitudes.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que aceleran la creación y gestión de sus ofertas. Automatice las tareas recurrentes, reduzca los errores y gane más tiempo para las conversaciones de ventas, independientemente de si utiliza una plantilla de oferta para pequeñas empresas o plantillas de oferta profesionales para acuerdos B2B complejos. La plantilla para redactar ofertas se puede combinar con flujos de trabajo de IA para generar automáticamente ofertas cualificadas a partir de solicitudes.'
       items:
       - headline: 'Bloques de texto automáticos con Classify'
         text: 'Clasifique automáticamente las solicitudes de presupuesto. La función de IA «Classify» reconoce categorías de productos, sectores o regiones y añade los módulos de texto y las responsabilidades adecuados.'
@@ -177,7 +177,7 @@ sections:
       - q: "¿Puedo utilizar la plantilla para redactar ofertas de SeaTable de forma gratuita?"
         a: 'Sí, puede utilizar la plantilla para redactar ofertas de forma gratuita. Solo tiene que crear una cuenta gratuita en SeaTable y añadir la plantilla de oferta a su base de datos para crear ofertas directamente en línea, incluso como plantilla de oferta para pequeños empresarios sin IVA. La plantilla para redactar ofertas es, por lo tanto, una introducción ideal al proceso de oferta digital.'
       - q: "¿SeaTable es una alternativa a la plantilla de ofertas de Excel?"
-        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) Especialmente diseñado para procesos de oferta colaborativos. A diferencia de una plantilla de oferta en Excel, varias personas pueden trabajar al mismo tiempo, dejar comentarios y utilizar funciones de inteligencia artificial.'
+        a: 'Sí, SeaTable es una potente [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) Especialmente diseñado para procesos de oferta colaborativos. A diferencia de una plantilla de oferta en Excel, varias personas pueden trabajar al mismo tiempo, dejar comentarios y utilizar funciones de inteligencia artificial.'
       - q: "¿Puedo importar mi plantilla de oferta existente de Excel a SeaTable?"
         a: 'Sí, puede importar su plantilla de oferta existente en Excel como .xlsx, .xls o CSV y, a continuación, ajustar la estructura. Después, podrá beneficiarse de los enlaces, fórmulas, automatizaciones y creación de PDF directamente desde SeaTable. De este modo, podrá migrar paso a paso su plantilla de oferta existente a un sistema moderno y colaborativo.​'
       - q: "¿Puedo guardar las ofertas directamente en formato PDF y enviarlas por correo electrónico?"

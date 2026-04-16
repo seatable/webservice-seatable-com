@@ -66,7 +66,7 @@ Secure exclusive distribution channels and stay one step ahead of the competitio
 
 ## The role of distribution policy in the marketing mix
 
-Alongside product, price and promotion policy, distribution policy (or _place_) is one of the four elementary instruments of the marketing mix described by E. Jerome McCarthy back in the 1960s. A distinction is made between **physical and acquisition-based distribution**, i.e. logistical distribution and [customer acquisition]({{< relref "pages/industry-solutions/kundenmanagement" >}}), which involves designing the distribution strategy and the distribution process.
+Alongside product, price and promotion policy, distribution policy (or _place_) is one of the four elementary instruments of the marketing mix described by E. Jerome McCarthy back in the 1960s. A distinction is made between **physical and acquisition-based distribution**, i.e. logistical distribution and [customer acquisition]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}), which involves designing the distribution strategy and the distribution process.
 
 ![Distribution logistics deals with physical distribution](Distribution.jpg)
 

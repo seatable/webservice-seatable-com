@@ -19,7 +19,7 @@ aliases:
 
 ## Herausforderungen in der Verwaltung sensibler Daten
 
-Die DSIM sah sich mit der Herausforderung konfrontiert, sensible Daten sicher und gleichzeitig zugänglich zu verwalten. Dabei war es von entscheidender Bedeutung, ein Tool zu finden, das nicht nur Sicherheit und Flexibilität bot, sondern auch einfach zu bedienen war. Die [digitale Verwaltung]({{< relref "pages/industry-solutions/public-service" >}}) sensibler Informationen musste zentralisiert und gesetzeskonform erfolgen, ohne die Arbeitsabläufe der Teams zu beeinträchtigen.
+Die DSIM sah sich mit der Herausforderung konfrontiert, sensible Daten sicher und gleichzeitig zugänglich zu verwalten. Dabei war es von entscheidender Bedeutung, ein Tool zu finden, das nicht nur Sicherheit und Flexibilität bot, sondern auch einfach zu bedienen war. Die [digitale Verwaltung]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) sensibler Informationen musste zentralisiert und gesetzeskonform erfolgen, ohne die Arbeitsabläufe der Teams zu beeinträchtigen.
 
 ## Der Weg zur optimalen Lösung – Warum sich der Conseil Départemental für SeaTable entschied
 

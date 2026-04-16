@@ -49,7 +49,7 @@ As ferramentas de gestão de projectos permitem que o seu pessoal acompanhe os p
 
 A colaboração entre diferentes regiões geográficas e fusos horários não é fácil. Google Workspace, Miro e Podio são algumas das melhores ferramentas de colaboração para vendedores.
 
-A [SeaTable]({{< relref "/" >}}) é outra das melhores aplicações de gestão de informação colaborativa da sua classe. A aplicação sem código tem soluções para [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [vendas]({{< relref "templates/sales/sales-pipeline" >}}) e [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) que ajudam as equipas de vendas remotas a captar, estruturar e avaliar diferentes tipos de informação.
+A [SeaTable]({{< relref "/" >}}) é outra das melhores aplicações de gestão de informação colaborativa da sua classe. A aplicação sem código tem soluções para [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [vendas]({{< relref "templates/sales/sales-pipeline" >}}) e [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) que ajudam as equipas de vendas remotas a captar, estruturar e avaliar diferentes tipos de informação.
 
 ![O SeaTable oferece várias soluções para equipas de vendas remotas que apoiam a recolha, estruturação e avaliação de diferentes tipos de informação](Ansicht_Offers.png)
 

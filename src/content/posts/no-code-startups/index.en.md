@@ -49,7 +49,7 @@ Thanks to No-Code, you are not dependent on external software developers, IT con
 
 ### Have one solution for everything
 
-Traditional business software usually only covers one area (e.g. [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [human resources]({{< relref "pages/industry-solutions/hr" >}}) or [accounting]({{< relref "posts/debitorenbuchhaltung" >}})) or certain processes (e.g. [time tracking]({{< relref "templates/projects/project-time-tracking" >}}), [invoicing]({{< relref "posts/fakturierung" >}}) or [customer support]({{< relref "posts/no-code-crm" >}})). No-code, on the other hand, is an **all-purpose weapon** with which you can flexibly map any process.
+Traditional business software usually only covers one area (e.g. [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [human resources]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) or [accounting]({{< relref "posts/debitorenbuchhaltung" >}})) or certain processes (e.g. [time tracking]({{< relref "templates/projects/project-time-tracking" >}}), [invoicing]({{< relref "posts/fakturierung" >}}) or [customer support]({{< relref "posts/no-code-crm" >}})). No-code, on the other hand, is an **all-purpose weapon** with which you can flexibly map any process.
 
 ### Focus on the essentials
 
@@ -116,7 +116,7 @@ When you found a start-up, you will probably work alone or in small teams at the
 *   [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) in real time
 *   [recording working time]({{< relref "templates/human-resources/recording-working-time" >}})
 *   [human resources management]({{< relref "posts/20250317-hris" >}})
-*   [recruiting]({{< relref "posts/20250317-recruiting" >}}) and [applicant management]({{< relref "pages/bewerbermanagement" >}})
+*   [recruiting]({{< relref "posts/20250317-recruiting" >}}) and [applicant management]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 
 ## Suitable templates for founding a start-up
 

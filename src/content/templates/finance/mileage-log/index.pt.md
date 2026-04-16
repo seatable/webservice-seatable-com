@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Manter um livro de viagens online com o SeaTable'
       subtitle: 'As suas vantagens'
-      description: 'A solução SeaTable, baseada em IA no-code, destaca-se pela sua flexibilidade e adaptabilidade, constituindo uma [alternativa eficiente aos modelos estáticos de Excel]({{< relref "pages/excel-alternative" >}}) para registos de viagens. Com o nosso livro de viagens digital, beneficia de colaboração em tempo real, avaliações automáticas e arquivo à prova de revisão – ideal para equipas que pretendem documentar viagens de negócios em conformidade com os requisitos fiscais, sem se perderem no caos do Excel.'
+      description: 'A solução SeaTable, baseada em IA no-code, destaca-se pela sua flexibilidade e adaptabilidade, constituindo uma [alternativa eficiente aos modelos estáticos de Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para registos de viagens. Com o nosso livro de viagens digital, beneficia de colaboração em tempo real, avaliações automáticas e arquivo à prova de revisão – ideal para equipas que pretendem documentar viagens de negócios em conformidade com os requisitos fiscais, sem se perderem no caos do Excel.'
       items:
       - text: 'Sempre atualizado: mantenha-se sempre a par das últimas novidades graças às atualizações em tempo real, ao histórico completo de alterações e à autenticação digital dos condutores.'
       - text: 'Acesso a partir de qualquer lugar: com um livro de viagens online, tem acesso a qualquer momento – mesmo em dispositivos móveis diretamente no veículo – e protege os seus dados contra perda ou danos.'
@@ -133,7 +133,7 @@ sections:
       weight: 16
       title: 'Gestão de viagens com base em IA com SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que elevam a gestão das suas viagens a um novo nível. Automatize tarefas recorrentes e economize tempo valioso. Em conformidade com o RGPD.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevam a gestão das suas viagens a um novo nível. Automatize tarefas recorrentes e economize tempo valioso. Em conformidade com o RGPD.'
       items:
       - headline: 'Classificação automática com Classify'
         text: 'Classifique automaticamente as informações de viagem: a IA reconhece automaticamente o objetivo da viagem (por exemplo, visita comercial, visita a clientes, viagem de negócios) com base nos textos de destino ou notas e atribui as viagens à categoria correta.'

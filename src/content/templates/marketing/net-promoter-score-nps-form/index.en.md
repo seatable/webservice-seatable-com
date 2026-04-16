@@ -122,7 +122,7 @@ sections:
       weight: 16
       title: 'AI-powered feedback analysis with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your NPS surveys and feedback analyses to a whole new level. Automate evaluations and gain deeper insights into customer opinions.'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your NPS surveys and feedback analyses to a whole new level. Automate evaluations and gain deeper insights into customer opinions.'
       items:
       - headline: 'Automatic sentiment analysis with Classify'
         text: 'Automatically classify free-text comments by sentiment: The AI function "Classify" evaluates customer feedback as "Positive", "Neutral" or "Negative" and recognises emotional tone – perfect for quickly assessing large amounts of feedback without manually reading each response.'

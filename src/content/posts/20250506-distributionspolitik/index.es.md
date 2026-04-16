@@ -66,7 +66,7 @@ Asegúrese canales de distribución exclusivos y vaya un paso por delante de la 
 
 ## El papel de la política de distribución en el marketing mix
 
-Junto con la política de productos, de precios y de comunicación, la política de distribución es uno de los cuatro instrumentos elementales del marketing mix descrito por E. Jerome McCarthy en los años sesenta. **Se distingue entre distribución física y adquisitiva**, es decir, la distribución logística y la [adquisición de clientes]({{< relref "pages/industry-solutions/kundenmanagement" >}}), que implica la organización de la estrategia de distribución y el proceso de distribución.
+Junto con la política de productos, de precios y de comunicación, la política de distribución es uno de los cuatro instrumentos elementales del marketing mix descrito por E. Jerome McCarthy en los años sesenta. **Se distingue entre distribución física y adquisitiva**, es decir, la distribución logística y la [adquisición de clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}), que implica la organización de la estrategia de distribución y el proceso de distribución.
 
 ![La logística de distribución se ocupa de la distribución física](Distribution.jpg)
 

@@ -49,7 +49,7 @@ Dank No-Code sind Sie nicht auf externe Software-Entwickler, IT-Berater und Agen
 
 ### Eine Lösung für alles parat haben
 
-Eine klassische Unternehmenssoftware deckt meist nur einen Bereich (z. B. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Personalwesen]({{< relref "pages/industry-solutions/hr" >}}) oder
+Eine klassische Unternehmenssoftware deckt meist nur einen Bereich (z. B. [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Personalwesen]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) oder
 [Buchhaltung]({{< relref "posts/debitorenbuchhaltung" >}})) oder bestimmte Prozesse (z. B. [Zeiterfassung]({{< relref "templates/projects/project-time-tracking" >}}), [Rechnungsstellung]({{< relref "posts/fakturierung" >}}) oder [Kundensupport]({{< relref "posts/no-code-crm" >}})) ab. No-Code ist dagegen eine **Allzweckwaffe**, mit der Sie flexibel jeden beliebigen Prozess abbilden können.
 
 ### Sich auf das Wesentliche fokussieren
@@ -117,7 +117,7 @@ Wenn Sie ein Start up gründen, arbeiten Sie am Anfang vermutlich alleine oder i
 *   [Zusammenarbeit]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) in Echtzeit
 *   [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}})
 *   [Personalverwaltung]({{< relref "posts/20250317-hris" >}})
-*   [Recruiting]({{< relref "posts/20250317-recruiting" >}}) und [Bewerbermanagement]({{< relref "pages/bewerbermanagement" >}})
+*   [Recruiting]({{< relref "posts/20250317-recruiting" >}}) und [Bewerbermanagement]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 
 ## Passende Vorlagen, um ein Start-up zu gründen
 

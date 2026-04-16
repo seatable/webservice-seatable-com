@@ -29,7 +29,7 @@ register:
 
 Als Schatten-IT bezeichnet man IT-Systeme und Software-Anwendungen, die Mitarbeiter in den Fachabteilungen eines Unternehmens **ohne Kenntnis der IT-Abteilung** nutzen, um die offizielle IT-Infrastruktur zu ergänzen oder zu umgehen. 
 
-Somit ist Schatten IT gemäß Definition weder technisch noch strategisch in das [IT-Service-Management]({{< relref "pages/industry-solutions/software-development" >}}) eingebunden, was Sicherheitsrisiken und andere Probleme mit sich bringt. Abgeleitet vom englischen **Shadow IT** soll der Begriff ausdrücken, dass Mitarbeiter höhere Instanzen im Unternehmen über den Einsatz von Tools im Dunkeln lassen und digitale Prozesse im Verborgenen ablaufen.
+Somit ist Schatten IT gemäß Definition weder technisch noch strategisch in das [IT-Service-Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) eingebunden, was Sicherheitsrisiken und andere Probleme mit sich bringt. Abgeleitet vom englischen **Shadow IT** soll der Begriff ausdrücken, dass Mitarbeiter höhere Instanzen im Unternehmen über den Einsatz von Tools im Dunkeln lassen und digitale Prozesse im Verborgenen ablaufen.
 
 ![Schatten IT](shadow-it.jpg)
 
@@ -53,7 +53,7 @@ Ohne Prüfung und Freigabe durch die IT sollten Mitarbeiter auch keine **Messeng
 
 ### Datenmanagement
 
-Es gibt auch Schatten IT Beispiele, bei denen die Nutzung der Software an sich erwünscht ist. Stellen Sie sich vor, ein Unternehmen setzt komplett auf Microsoft: Die Buchhaltung nutzt Access-Datenbanken, die Personalabteilung pflegt Mitarbeiterdaten in [Excel]({{< relref "pages/excel-alternative" >}}) Tabellen und der Vertrieb erfasst Kundendaten in einem Microsoft Dynamics [CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}). Hier zeigt sich ein weiteres Problem: Wenn die IT nicht die Entwicklung koordiniert, kocht jede Abteilung ihr eigenes Süppchen. So entsteht ein **Chaos aus verschiedenen Prozessen, eigenentwickelten Anwendungen und Datensilos**, die nicht miteinander integriert und dem Rest des Unternehmens unbekannt sind.
+Es gibt auch Schatten IT Beispiele, bei denen die Nutzung der Software an sich erwünscht ist. Stellen Sie sich vor, ein Unternehmen setzt komplett auf Microsoft: Die Buchhaltung nutzt Access-Datenbanken, die Personalabteilung pflegt Mitarbeiterdaten in [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) Tabellen und der Vertrieb erfasst Kundendaten in einem Microsoft Dynamics [CRM]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}). Hier zeigt sich ein weiteres Problem: Wenn die IT nicht die Entwicklung koordiniert, kocht jede Abteilung ihr eigenes Süppchen. So entsteht ein **Chaos aus verschiedenen Prozessen, eigenentwickelten Anwendungen und Datensilos**, die nicht miteinander integriert und dem Rest des Unternehmens unbekannt sind.
 
 ### Hardware
 

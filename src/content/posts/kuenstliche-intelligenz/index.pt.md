@@ -54,7 +54,7 @@ A inteligência artificial é geralmente classificada como **inteligência artif
 
 Atualmente, a inteligência artificial refere-se quase sempre à IA fraca. É especializada na execução de **tarefas recorrentes e claramente definidas** particularmente bem.
 
-No entanto, a IA fraca não consegue pensar, desenvolver intenções ou refletir sobre si própria. Não tem criatividade e não aprende de forma autónoma, mas tem de ser treinada. A sua capacidade de aprendizagem limita-se geralmente à aplicação de algoritmos (instruções claras para resolver determinados problemas) e ao reconhecimento de padrões em grandes quantidades de dados. Isto é particularmente útil na [automatização de processos]({{< relref "pages/ai-automations" >}}) e no **processamento de linguagem e imagem**.
+No entanto, a IA fraca não consegue pensar, desenvolver intenções ou refletir sobre si própria. Não tem criatividade e não aprende de forma autónoma, mas tem de ser treinada. A sua capacidade de aprendizagem limita-se geralmente à aplicação de algoritmos (instruções claras para resolver determinados problemas) e ao reconhecimento de padrões em grandes quantidades de dados. Isto é particularmente útil na [automatização de processos]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) e no **processamento de linguagem e imagem**.
 
 ### IA forte
 
@@ -107,14 +107,14 @@ A inteligência artificial é também utilizada em muitas empresas. Como o desem
 
 ### Marketing e vendas
 
-*   [Abordagem personalizada do cliente]({{< relref "pages/industry-solutions/kundenmanagement" >}}) aquando da apresentação de publicidade
+*   [Abordagem personalizada do cliente]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) aquando da apresentação de publicidade
 *   Criação mais rápida de conteúdos com IA generativa
 *   Análise de grupos-alvo específicos para o [plano de marketing]({{< relref "posts/20250318-marketingplan" >}})
 
 ### RH e desenvolvimento do pessoal
 
 *   Entrevistas normalizadas com assistentes virtuais
-*   Análise das qualificações e dos perfis de personalidade dos [candidatos]({{< relref "pages/bewerbermanagement" >}})
+*   Análise das qualificações e dos perfis de personalidade dos [candidatos]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 *   Previsões das [necessidades de pessoal]({{< relref "posts/personalplanung" >}}) em determinados cenários
 
 ### Administração geral
@@ -246,7 +246,7 @@ A inteligência artificial generativa pode gerar novos conteúdos seguindo as re
 {{< /faq >}}
 
 {{< faq "Onde é utilizada a inteligência artificial? " >}}
-As áreas de aplicação da inteligência artificial são diversas. Vão desde a investigação médica e a modelação climática até à inteligência artificial na vida quotidiana e aos sistemas de IA nas empresas. Nestas, a inteligência artificial é utilizada na produção, na administração, nos [recursos humanos]({{< relref "pages/industry-solutions/hr" >}}), no [marketing]({{< relref "pages/industry-solutions/marketing" >}}), no apoio ao cliente e noutras áreas.
+As áreas de aplicação da inteligência artificial são diversas. Vão desde a investigação médica e a modelação climática até à inteligência artificial na vida quotidiana e aos sistemas de IA nas empresas. Nestas, a inteligência artificial é utilizada na produção, na administração, nos [recursos humanos]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), no [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), no apoio ao cliente e noutras áreas.
 {{< /faq >}}
 
 {{< faq "Que problemas pode causar a inteligência artificial? " >}}

@@ -98,7 +98,7 @@ Jira offers a powerful roadmap tool that has been specially developed for agile 
 
 ### Project management and roadmap tools such as SeaTable
 
-Other providers also provide directly usable roadmap templates that enable data collection and visualization in one. Reputable [project management]({{< relref "pages/industry-solutions/project-management" >}}) roadmap tools such as SeaTable rely on **individually customizable templates** that you can tailor precisely to your requirements and show you a preview of the features you can expect before downloading. This way you avoid buying the proverbial pig in a poke.
+Other providers also provide directly usable roadmap templates that enable data collection and visualization in one. Reputable [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) roadmap tools such as SeaTable rely on **individually customizable templates** that you can tailor precisely to your requirements and show you a preview of the features you can expect before downloading. This way you avoid buying the proverbial pig in a poke.
 
 In addition, a good tool should allow multiple display types such as calendars, timelines, Gantt or flow charts so that the data can be prepared individually for different people and purposes. It is important that you have exactly the **key functions** at hand that you need for your work.
 
@@ -118,7 +118,7 @@ If you are looking for a template that makes it easier for you to record project
 
 ### Strategic roadmap
 
-Are you a managing director or board member and want to explain the **overall vision** for the company to your employees or other stakeholders in a clear and concise way? Then a strategic roadmap, which has many similarities to a business plan, is the tool of choice. You can use it to map out your short and long-term goals (e.g. in [marketing]({{< relref "pages/industry-solutions/marketing" >}}) and sales) and make the [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and all the measures required to achieve the business vision tangible at a glance.
+Are you a managing director or board member and want to explain the **overall vision** for the company to your employees or other stakeholders in a clear and concise way? Then a strategic roadmap, which has many similarities to a business plan, is the tool of choice. You can use it to map out your short and long-term goals (e.g. in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) and sales) and make the [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and all the measures required to achieve the business vision tangible at a glance.
 
 The SeaTable template clearly maps all important processes. You can customize it to suit your company.
 
@@ -132,7 +132,7 @@ When used externally, the product roadmap is used to present planned products or
 
 A technology or IT roadmap helps you if your goal is to visualize the technology infrastructure or software development in your company. This gives you an overview of the opportunities and risks for the company's management: which technologies have become obsolete and which systems do you want to introduce in order to keep pace with digitalization and stay up to date?
 
-Present your roadmap for [software development]({{< relref "pages/industry-solutions/software-development" >}}) with the SeaTable template and benefit from a structured overview.
+Present your roadmap for [software development]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) with the SeaTable template and benefit from a structured overview.
 
 ### Integrated roadmap
 

@@ -83,6 +83,6 @@ Además, SeaTable ofrece una variante autoalojada con la que puede instalar y ut
 
 ### Consejo para los usuarios de Airtable
 
-Puede encontrar una comparación detallada de Airtable y SeaTable [aquí]({{< relref "pages/airtable-alternative" >}}). Como usuario de Airtable, también tiene la opción de migrar cómodamente todos sus datos base a SeaTable con la ayuda de un script, sin ningún conocimiento de programación. [Este artículo de ayuda]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}) explica cómo funciona.
+Puede encontrar una comparación detallada de Airtable y SeaTable [aquí]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}). Como usuario de Airtable, también tiene la opción de migrar cómodamente todos sus datos base a SeaTable con la ayuda de un script, sin ningún conocimiento de programación. [Este artículo de ayuda]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}) explica cómo funciona.
 
 {{< warning headline="Descargo de responsabilidad" text="Las leyes de protección de datos varían de una región a otra y pueden cambiar en cualquier momento. A pesar de una investigación exhaustiva, este artículo no sustituye el asesoramiento jurídico autorizado en su país, por lo que no podemos aceptar la responsabilidad por cualquier error legal." />}}

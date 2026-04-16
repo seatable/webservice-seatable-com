@@ -57,7 +57,7 @@ Mesmo que não necessite (ainda) de processar grandes quantidades de informaçã
 
 Imagine que fundou uma empresa. Para além da sua loja física, decidiu agora vender os seus produtos em linha. Inicialmente, recebe 2 a 4 encomendas por dia. É, portanto, bastante fácil registar as informações sobre as encomendas numa **folha de cálculo**. Começa a fazer publicidade em linha e, de repente, o seu negócio dispara. O volume de encomendas aumenta e decide acrescentar ainda mais produtos à sua gama.
 
-A grande quantidade de informação que tem de processar todos os dias pode sobrecarregar uma folha de cálculo como [Excel]({{< relref "pages/excel-alternative" >}}). A folha de cálculo torna-se lenta ou bloqueia porque a **capacidade de armazenamento** é simplesmente demasiado pequena. Uma das vantagens das bases de dados, por outro lado, como já foi referido, é que têm uma capacidade de armazenamento muito maior e podem facilmente crescer com a sua empresa. Por conseguinte, são muito mais **escaláveis** do que simples tabelas.
+A grande quantidade de informação que tem de processar todos os dias pode sobrecarregar uma folha de cálculo como [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). A folha de cálculo torna-se lenta ou bloqueia porque a **capacidade de armazenamento** é simplesmente demasiado pequena. Uma das vantagens das bases de dados, por outro lado, como já foi referido, é que têm uma capacidade de armazenamento muito maior e podem facilmente crescer com a sua empresa. Por conseguinte, são muito mais **escaláveis** do que simples tabelas.
 
 ### 2\. lidar com múltiplos utilizadores ao mesmo tempo
 

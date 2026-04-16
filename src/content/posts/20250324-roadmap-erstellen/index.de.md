@@ -95,7 +95,7 @@ Jira bietet ein leistungsstarkes Roadmap Tool, das speziell für agile Software
 
 ### Projektmanagement- und Roadmap Tools wie SeaTable
 
-Andere Anbieter stellen darüber hinaus direkt nutzbare Roadmap-Vorlagen zur Verfügung, welche die Datenerfassung und Visualisierung in einem ermöglichen. Seriöse [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) Roadmap Tools wie SeaTable setzen dabei auf **individuell anpassbare Vorlagen**, die Sie genau auf Ihre Anforderungen zuschneiden können, und zeigen Ihnen bereits vor dem Download per Vorschau, was für Features Sie erwarten. So vermeiden Sie, dass Sie die sprichwörtliche Katze im Sack kaufen.
+Andere Anbieter stellen darüber hinaus direkt nutzbare Roadmap-Vorlagen zur Verfügung, welche die Datenerfassung und Visualisierung in einem ermöglichen. Seriöse [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) Roadmap Tools wie SeaTable setzen dabei auf **individuell anpassbare Vorlagen**, die Sie genau auf Ihre Anforderungen zuschneiden können, und zeigen Ihnen bereits vor dem Download per Vorschau, was für Features Sie erwarten. So vermeiden Sie, dass Sie die sprichwörtliche Katze im Sack kaufen.
 
 Außerdem sollte ein gutes Tool mehrere Darstellungsarten wie Kalender, Zeitleisten, Gantt- oder Flussdiagramme zulassen, um die Daten für unterschiedliche Personen und Zwecke individuell aufbereiten zu können. Wichtig ist, dass Sie genau die **Schlüsselfunktionen** zur Hand haben, die Sie für Ihre Arbeit brauchen.
 
@@ -117,7 +117,7 @@ Wenn Sie eine Vorlage suchen, die Ihnen das Festhalten von Projektberichten und 
 
 ### Strategische Roadmap
 
-Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem Businessplan aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
+Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem Businessplan aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
 
 Die Vorlage von SeaTable bildet alle wichtigen Prozesse übersichtlich ab. Diese können Sie an Ihr Unternehmen individuell anpassen.
 
@@ -131,7 +131,7 @@ Bei externer Nutzung dient die Produkt-Roadmap dazu, Kunden, Investoren oder and
 
 Eine Technologie- oder auch IT-Roadmap hilft Ihnen weiter, wenn es Ihr Ziel ist, die Technologie-Infrastruktur oder auch die Software-Entwicklung in Ihrem Unternehmen zu visualisieren. Damit behalten Sie den Überblick über Chancen und Risiken für das Management des Unternehmens: Welche Technologien haben ausgedient und welche Systeme wollen Sie einführen, um mit der Digitalisierung Schritt zu halten und auf dem Laufenden zu bleiben?
 
-Stellen Sie Ihre Roadmap für [Softwareentwicklung]({{< relref "pages/industry-solutions/software-development" >}}) mit der Vorlage von SeaTable dar und profitieren Sie von einer strukturierten Übersicht.
+Stellen Sie Ihre Roadmap für [Softwareentwicklung]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) mit der Vorlage von SeaTable dar und profitieren Sie von einer strukturierten Übersicht.
 
 ### Integrierte Roadmap
 

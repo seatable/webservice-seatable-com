@@ -20,7 +20,7 @@ Crear y gestionar una lista de tareas pendientes en línea con una aplicación t
 
 ## Para qué necesita una lista de tareas
 
-Tanto en casa como en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) profesionales, es importante llevar un registro de todas las tareas pendientes y trabajar en ellas una por una. El primer paso es anotar las **tareas** específicas en una lista de tareas pendientes. A continuación, define las **subtareas** o **categorías** generales, determina **las responsabilidades** y fija **los plazos**.
+Tanto en casa como en la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) profesionales, es importante llevar un registro de todas las tareas pendientes y trabajar en ellas una por una. El primer paso es anotar las **tareas** específicas en una lista de tareas pendientes. A continuación, define las **subtareas** o **categorías** generales, determina **las responsabilidades** y fija **los plazos**.
 
 Puede utilizar un **estado** para indicar si una tarea se está procesando o se ha completado. También se puede indicar un estado pendiente si se está esperando una respuesta o información. También deberías **priorizar** tus tareas pendientes para que siempre te ocupes primero de las más importantes.
 

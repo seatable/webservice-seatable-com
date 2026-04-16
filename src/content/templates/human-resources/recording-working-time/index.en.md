@@ -75,13 +75,13 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use the online timesheet template'
       subtitle: 'Your benefits at a glance'
-      description: 'With SeaTable, a flexible, AI no-code platform, you can implement a digital time tracking template that adapts perfectly to your HR processes. Replace traditional timesheets with automated workflows, form-based data entry, and dashboards for overtime, break times, project time tracking, and vacation entitlement—a modern alternative to isolated time tracking tools or rigid setups as a [Personio alternative]({{< relref "pages/personio-alternative" >}}).'
+      description: 'With SeaTable, a flexible, AI no-code platform, you can implement a digital time tracking template that adapts perfectly to your HR processes. Replace traditional timesheets with automated workflows, form-based data entry, and dashboards for overtime, break times, project time tracking, and vacation entitlement—a modern alternative to isolated time tracking tools or rigid setups as a [Personio alternative]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}).'
       items:
       - text: '**Always up to date:** All time-tracking data—including breaks, vacation, sick leave, and overtime—is updated in real time. Changes can be traced at any time, and manual updates are no longer necessary.'
       - text: '**Access from anywhere:** Employees and managers can record and review their working hours via a browser or app—whether in the office, working from home, or on the go. This turns digital time tracking into a modern, legally compliant timesheet.'
       - text: '**Track Absences at a Glance:** Automatic calculations and color-coded labels show positive and negative hours, vacation days, and sick days at a glance. Dashboards turn time tracking into a central management tool.'
       - text: '**Scalable:** Start with a simple timesheet template and easily expand it to include project hours, shift schedules, payroll exports, or HR reports—your solution grows with your business.'
-      - text: '**Automated & integrated:** Combine your time tracking with automations, reminders, and email notifications for requests and approvals. This allows time tracking to integrate seamlessly into your [HR processes]({{< relref "pages/industry-solutions/hr" >}}).'
+      - text: '**Automated & integrated:** Combine your time tracking with automations, reminders, and email notifications for requests and approvals. This allows time tracking to integrate seamlessly into your [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       image_position: [left]
       image: '/images/template_page_arbeitszeiterfassung_01.png'
       image_alt: 'Database for digital time tracking, including working hours, vacation, and overtime in SeaTable'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-powered time tracking'
       subtitle: 'Smart Automation for HR'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}) that automate your timesheet template, HR reports, and compliance tasks. This turns your timesheet template into a smart hub for working hours, overtime, vacation entitlement, and project time tracking—significantly more efficient than traditional timesheet tracking in an Excel file.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) that automate your timesheet template, HR reports, and compliance tasks. This turns your timesheet template into a smart hub for working hours, overtime, vacation entitlement, and project time tracking—significantly more efficient than traditional timesheet tracking in an Excel file.'
       items:
       - headline: 'Automatic categorization of times'
         text: 'With Classify, tracked hours are automatically assigned to projects, cost centers, locations, or work models. This allows you to always keep track of how working hours are distributed across teams, tasks, and projects, and how resources are being utilized.'

@@ -33,7 +33,7 @@ We keep hearing that companies try out no-code and think the results are useless
 
 ## Myth 3: No-code is only for simple applications
 
-The misconception that only simple solutions can be realized without individually created code is understandable, but nevertheless false. "No code" here simply means that you can create your own applications without programming knowledge. With the right platform, however, more complex and individualized tools can also be built **with no code**, from simple task management tools to fully-fledged [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) or CRM systems - including **AI automations, third-party integrations and user role management**.
+The misconception that only simple solutions can be realized without individually created code is understandable, but nevertheless false. "No code" here simply means that you can create your own applications without programming knowledge. With the right platform, however, more complex and individualized tools can also be built **with no code**, from simple task management tools to fully-fledged [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) or CRM systems - including **AI automations, third-party integrations and user role management**.
 
 ## Myth 4: No-code makes developers superfluous
 

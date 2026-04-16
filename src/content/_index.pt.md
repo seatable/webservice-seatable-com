@@ -38,32 +38,32 @@ sections:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Planeje campanhas, gerencie leads e analise resultados com o SeaTable. Automatize fluxos com IA e otimize sua estratégia de marketing.'
-        link: '/pages/industry-solutions/marketing'
+        link: '/pages/landing-pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
         headline: 'Gestão de Projetos'
         text: 'Utilize gráficos de Gantt e quadros Kanban para gerenciar projetos com eficiência. Monitore o progresso e coordene equipes.'
-        link: '/pages/industry-solutions/project-management'
+        link: '/pages/landing-pages/industry-solutions/project-management'
 
       - icon: 'people-group'
         headline: 'Recursos Humanos'
         text: 'Gerencie dados de colaboradores, treinamentos e solicitações de férias. Otimize processos de RH e melhore a experiência do funcionário.'
-        link: '/pages/industry-solutions/hr'
+        link: '/pages/landing-pages/industry-solutions/hr'
 
       - icon: 'building'
         headline: 'Serviço Público'
         text: 'Administre arquivos de pessoal e solicitações com transparência. Otimize processos e melhore a gestão no setor público.'
-        link: '/pages/industry-solutions/public-service'
+        link: '/pages/landing-pages/industry-solutions/public-service'
 
       - icon: 'terminal'
         headline: 'Desenvolvimento de Software'
         text: 'Gerencie backlogs, bugs e lançamentos. Otimize o processo de desenvolvimento e melhore a comunicação técnica da equipe.'
-        link: '/pages/industry-solutions/software-development'
+        link: '/pages/landing-pages/industry-solutions/software-development'
 
       - icon: 'fingerprint'
         headline: 'Soluções Sob Medida'
         text: 'Crie aplicações customizadas para necessidades específicas do seu negócio. Automatize processos e eleve a eficiência operacional.'
-        link: '/pages/industry-solutions/individual'
+        link: '/pages/landing-pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -250,31 +250,31 @@ sections:
     text: "Banco de dados no-code completo, automação por IA e hospedagem segura na Alemanha. Ideal para fluxos de trabalho estruturados entre equipes."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao Airtable"
-      link: "/pages/airtable-alternative"
+      link: "/pages/landing-pages/alternatives/airtable-alternative"
   - subtitle: Gestão de tarefas e projetos
     title: Alternativa ao Asana
     text: "Combine gestão de tarefas, planejamento de recursos e dashboards em uma única solução escalável e inteligente."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao Asana"
-      link: "/pages/asana-alternative"
+      link: "/pages/landing-pages/alternatives/asana-alternative"
   - subtitle: Automação por IA e Colaboração
     title: Alternativa ao Excel e Microsoft Access
     text: "Vá além das listas clássicas. O SeaTable substitui bancos de dados legados por tabelas modernas, seguras e automatizadas."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao Excel"
-      link: "/pages/excel-alternative"
+      link: "/pages/landing-pages/alternatives/excel-alternative"
   - subtitle: Flexibilidade e Proteção de Dados
     title: Alternativa ao Personio
     text: "Digitalize processos de RH com segurança. Gerencie dados sensíveis de colaboradores com dashboards customizados e conformidade GDPR."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao Personio"
-      link: "/pages/personio-alternative"
+      link: "/pages/landing-pages/alternatives/personio-alternative"
   - subtitle: Processos de Vendas e Escalabilidade
     title: Alternativa ao HubSpot
     text: "O CRM mais flexível: unifique dados de vendas e automatize processos sem as amarras de estruturas pré-definidas."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao HubSpot"
-      link: "/pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
   - subtitle: Gestão de Conhecimento e Dados Relacionais
     title: Alternativa ao Notion
     text: "Estruturas relacionais e automação robusta para requisitos de negócios complexos em uma solução segura."

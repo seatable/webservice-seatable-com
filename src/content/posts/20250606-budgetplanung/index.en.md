@@ -35,7 +35,7 @@ Budgeting – also known as budget planning or budget allocation – is, as the 
 
 ## Budgeting goes hand in hand with financial planning
 
-**Operational budget planning** is part of short-term [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), in which you estimate your future income and expenditure for the coming year. You use the data from the current and/or previous financial year to derive forecasts for future developments. In contrast to a [financial plan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), budgeting generally focuses on the expenditure side - regardless of where the money comes from.
+**Operational budget planning** is part of short-term [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), in which you estimate your future income and expenditure for the coming year. You use the data from the current and/or previous financial year to derive forecasts for future developments. In contrast to a [financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), budgeting generally focuses on the expenditure side - regardless of where the money comes from.
 
 **Strategic budget planning** for the next two to five years is also quite common. This helps you to make long-term business decisions that will drive your company forward and ensure its success, such as opening new locations. However, the further into the future the planning horizon is, the more difficult and uncertain it is to make an accurate forecast.
 
@@ -116,7 +116,7 @@ The budget planning for the entire company is made up of the sub-budgets of all 
 
 In order to make budgeting transparent, it is important to involve all departments in budget planning at an early stage. Important areas are personnel budget planning (recruiting, salaries, etc.), marketing budget planning and IT budget planning. These departments usually manage large budgets of their own and are indispensable for strategic budget planning.
 
-Below we take a closer look at budget planning in [IT]({{< relref "pages/industry-solutions/software-development" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}). If you are interested in [personnel planning]({{< relref "personalplanung" >}}) or a [marketing plan]({{< relref "posts/20250318-marketingplan" >}}), click on the linked articles for further information.
+Below we take a closer look at budget planning in [IT]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) and [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). If you are interested in [personnel planning]({{< relref "personalplanung" >}}) or a [marketing plan]({{< relref "posts/20250318-marketingplan" >}}), click on the linked articles for further information.
 
 ### IT budget planning
 
@@ -154,7 +154,7 @@ Based on these analyses and targets, the managers communicate how much money the
 
 ## Create your budget plans with SeaTable
 
-Many people use [Excel spreadsheets]({{< relref "pages/excel-alternative" >}}) for their budget planning, but these only offer limited functions and display options. In **SeaTable** you can [register free of charge]({{< relref "pages/registration" >}}) and start directly with the template shown above. You can bundle and evaluate all cost centers, targets, budgets and expenses in such a central database.
+Many people use [Excel spreadsheets]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) for their budget planning, but these only offer limited functions and display options. In **SeaTable** you can [register free of charge]({{< relref "pages/registration" >}}) and start directly with the template shown above. You can bundle and evaluate all cost centers, targets, budgets and expenses in such a central database.
 
 Give your managers budget responsibility and use **SeaTable as a collaboration tool** to work on budgeting with several departments at the same time. This allows you to adjust the budget plan throughout the year, track the **recording of expenses in real time** and always have an overview of the current budget.
 

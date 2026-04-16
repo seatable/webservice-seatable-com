@@ -34,4 +34,4 @@ Wie bereits erwähnt, muss der Big-Data-Speicher in einer Base aktiviert werden.
 
 Der Big-Data-Speicher ist eine einzigartige Funktion, die man bei anderen No-Code- oder Low-Code-Lösungen vergeblich sucht. Während andere Plattformen und Anbieter harte Obergrenzen und Limits für die maximale Anzahl von Zeilen haben, werden Sie bei SeaTable nicht in Ihrer Arbeit eingeschränkt.
 
-Durch die Big-Data-Funktion lassen sich Prozesse und Anwendungen umsetzen, die mit [Airtable]({{< relref "pages/airtable-alternative" >}}) beispielsweise nicht umsetzbar wären. Probieren Sie es aus. Sie werden begeistert sein vom Potenzial und den Möglichkeiten, die Ihnen der Big-Data-Speicher bietet.
+Durch die Big-Data-Funktion lassen sich Prozesse und Anwendungen umsetzen, die mit [Airtable]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}) beispielsweise nicht umsetzbar wären. Probieren Sie es aus. Sie werden begeistert sein vom Potenzial und den Möglichkeiten, die Ihnen der Big-Data-Speicher bietet.

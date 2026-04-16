@@ -98,7 +98,7 @@ O Jira oferece uma poderosa ferramenta de roadmap que foi especialmente desenvol
 
 ### Ferramentas de gestão de projectos e de roteiro, como o SeaTable
 
-Outros fornecedores também fornecem modelos de roteiro diretamente utilizáveis que permitem a recolha e visualização de dados num só. As ferramentas de roadmap [de gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) de renome, como o SeaTable, baseiam-se em **modelos personalizáveis** que podem ser adaptados com precisão às suas necessidades e mostram uma pré-visualização das caraterísticas que pode esperar antes de os descarregar. Desta forma, evita-se comprar o proverbial "porco num papo".
+Outros fornecedores também fornecem modelos de roteiro diretamente utilizáveis que permitem a recolha e visualização de dados num só. As ferramentas de roadmap [de gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) de renome, como o SeaTable, baseiam-se em **modelos personalizáveis** que podem ser adaptados com precisão às suas necessidades e mostram uma pré-visualização das caraterísticas que pode esperar antes de os descarregar. Desta forma, evita-se comprar o proverbial "porco num papo".
 
 Uma boa ferramenta deve também permitir vários tipos de visualização, como calendários, cronogramas, diagramas de Gantt ou fluxogramas, para que os dados possam ser personalizados para diferentes pessoas e objectivos. É importante que tenha à mão exatamente as **funções-chave** de que necessita para o seu trabalho.
 
@@ -118,7 +118,7 @@ Se procura um modelo que lhe facilite o registo dos relatórios e da documentaç
 
 ### Roteiro estratégico
 
-É diretor-geral ou membro do conselho de administração e gostaria de explicar a **visão global** da empresa aos seus empregados ou a outras partes interessadas de uma forma clara e concisa? Então, um roteiro estratégico, que tem muitas semelhanças com um plano de negócios, é a ferramenta de eleição. Pode utilizá-lo para traçar os seus objectivos a curto e a longo prazo (por exemplo, em termos de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) e vendas), o [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e todas as medidas necessárias para alcançar a visão da empresa num relance.
+É diretor-geral ou membro do conselho de administração e gostaria de explicar a **visão global** da empresa aos seus empregados ou a outras partes interessadas de uma forma clara e concisa? Então, um roteiro estratégico, que tem muitas semelhanças com um plano de negócios, é a ferramenta de eleição. Pode utilizá-lo para traçar os seus objectivos a curto e a longo prazo (por exemplo, em termos de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) e vendas), o [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e todas as medidas necessárias para alcançar a visão da empresa num relance.
 
 O modelo SeaTable mapeia claramente todos os processos importantes. Pode personalizá-lo para se adaptar à sua empresa.
 
@@ -132,7 +132,7 @@ Quando utilizado externamente, o roteiro do produto é utilizado para apresentar
 
 Um roteiro de tecnologia ou de TI ajudá-lo-á se o seu objetivo for visualizar a infraestrutura tecnológica ou o desenvolvimento de software na sua empresa. Isto dá-lhe uma visão geral das oportunidades e riscos para a gestão da empresa: que tecnologias se tornaram obsoletas e que sistemas quer introduzir para acompanhar a digitalização e manter-se atualizado?
 
-Visualize o seu roteiro para [desenvolvimento de software]({{< relref "pages/industry-solutions/software-development" >}}) com o modelo SeaTable e beneficie de uma visão geral estruturada.
+Visualize o seu roteiro para [desenvolvimento de software]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) com o modelo SeaTable e beneficie de uma visão geral estruturada.
 
 ### Roteiro integrado
 

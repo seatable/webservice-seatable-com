@@ -57,7 +57,7 @@ Even if you don’t (yet) need to process massive amounts of data, the advantage
 
 Imagine you’ve started a business. Besides your physical store, you decide to sell your products online. At first, you get 2 to 4 orders a day, so it’s easy to record order info in a **spreadsheet**. But as you run ads and business booms, your order volume rises and you add more products.
 
-The sheer amount of information you need to process daily can overwhelm a spreadsheet like [Excel]({{< relref "pages/excel-alternative" >}}). The file becomes sluggish or freezes because the **storage capacity** is simply too low. One of the advantages of databases, as mentioned above, is that they offer much greater storage capacity and can easily scale with your business. They are much more **scalable** than simple spreadsheets.
+The sheer amount of information you need to process daily can overwhelm a spreadsheet like [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). The file becomes sluggish or freezes because the **storage capacity** is simply too low. One of the advantages of databases, as mentioned above, is that they offer much greater storage capacity and can easily scale with your business. They are much more **scalable** than simple spreadsheets.
 
 ### 2. Handling Multiple Users at Once
 

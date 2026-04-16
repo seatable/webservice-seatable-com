@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'KI-unterstützte CRM Lösung von SeaTable'
       subtitle: 'Smarte Automatisierung mit integrierter KI'
-      description: 'Mit der CRM Vorlage von SeaTable profitieren Sie von integrierten, leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), mit denen Sie das Beste aus Ihren Kundendaten machen. Automatisieren Sie Aufgaben und sparen Sie Zeit!'
+      description: 'Mit der CRM Vorlage von SeaTable profitieren Sie von integrierten, leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), mit denen Sie das Beste aus Ihren Kundendaten machen. Automatisieren Sie Aufgaben und sparen Sie Zeit!'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Eingehende Daten werden automatisch kategorisiert. So erstellen Sie ein intelligentes Lead Scoring mit eindeutigen Scores basierend auf Interaktionsdaten, Unternehmensdaten und Umsatzprognosen – perfekt für Priorisierungen.'
@@ -188,7 +188,7 @@ sections:
       - q: "Kann ich meinen Google-Kalender mit SeaTable synchronisieren?"
         a: 'Ja, SeaTable bietet eine [native Integration von Google Calendar]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}). Sie benötigen dafür lediglich Ihre Google-Calendar-ID und Ihren Sicherheitsschlüssel.'  
       - q: "Wir wachsen derzeit stark. Ist SeaTable skalierbar?"
-        a: 'Absolut, Sie können SeaTable flexibel an den sich ändernden Bedarf Ihres [Kundenmanagements]({{< relref "pages/industry-solutions/kundenmanagement" >}}) anpassen und neue User hinzufügen oder das Speicherplatzlimit erhöhen. Wir bieten in der [Cloud-Version]({{< relref "pages/product/seatable-cloud" >}}) drei Abo-Stufen an, zwischen denen Sie problemlos wechseln können. Wenn Sie mehr als 100 User-Plätze benötigen, sprechen Sie uns an und wir unterbreiten Ihnen ein individuelles Angebot.'
+        a: 'Absolut, Sie können SeaTable flexibel an den sich ändernden Bedarf Ihres [Kundenmanagements]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) anpassen und neue User hinzufügen oder das Speicherplatzlimit erhöhen. Wir bieten in der [Cloud-Version]({{< relref "pages/product/seatable-cloud" >}}) drei Abo-Stufen an, zwischen denen Sie problemlos wechseln können. Wenn Sie mehr als 100 User-Plätze benötigen, sprechen Sie uns an und wir unterbreiten Ihnen ein individuelles Angebot.'
       - q: "Bietet SeaTable einen kostenlosen Support für sein kostenloses CRM Programm?"
         a: 'Ja, bei Fragen rund um SeaTable oder Ihr CRM Management System steht Ihnen unser Support zur Verfügung. Wenden Sie sich dazu am besten an unser Community Forum oder kontaktieren Sie uns per E-Mail.'
 ---

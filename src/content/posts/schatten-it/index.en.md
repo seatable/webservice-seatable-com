@@ -29,7 +29,7 @@ register:
 
 Shadow IT refers to IT systems and software applications that employees in a company's departments use **without the knowledge of the IT department** to supplement or circumvent the official IT infrastructure.
 
-By definition, shadow IT is therefore neither technically nor strategically integrated into [IT service management]({{< relref "pages/industry-solutions/software-development" >}}), which entails security risks and other problems. Derived from the word **shadow**, the term is intended to express the fact that employees leave higher instances in the company in the dark about the use of tools, and digital processes run in secret.
+By definition, shadow IT is therefore neither technically nor strategically integrated into [IT service management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), which entails security risks and other problems. Derived from the word **shadow**, the term is intended to express the fact that employees leave higher instances in the company in the dark about the use of tools, and digital processes run in secret.
 
 ![shadow IT](shadow-it.jpg)
 
@@ -53,7 +53,7 @@ Employees should not use **messengers** (e.g. WhatsApp), **chat rooms** (e.g. Sl
 
 ### Data management
 
-There are also shadow IT examples where the use of the software itself is desirable. Imagine a company that relies entirely on Microsoft: the accounting department uses Access databases, the HR department maintains employee data in [Excel]({{< relref "pages/excel-alternative" >}}) spreadsheets and the sales department records customer data in a Microsoft Dynamics [CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}). This reveals another problem: if IT does not coordinate development, each department does its own thing. This results in a **chaos of different processes, self-developed applications and data silos** that are not integrated with each other and are unknown to the rest of the company.
+There are also shadow IT examples where the use of the software itself is desirable. Imagine a company that relies entirely on Microsoft: the accounting department uses Access databases, the HR department maintains employee data in [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) spreadsheets and the sales department records customer data in a Microsoft Dynamics [CRM]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}). This reveals another problem: if IT does not coordinate development, each department does its own thing. This results in a **chaos of different processes, self-developed applications and data silos** that are not integrated with each other and are unknown to the rest of the company.
 
 ### Hardware
 

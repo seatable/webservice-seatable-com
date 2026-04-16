@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Gestión de tareas basada en IA con SeaTable'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su tablero Kanban a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
+      description: 'Con SeaTable, se beneficia de potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán su tablero Kanban a un nuevo nivel. Automatice las tareas recurrentes y ahorre un tiempo valioso.'
       items:
       - headline: 'Priorización automática y asignación con Classify'
         text: 'Clasifique automáticamente las nuevas tareas según su urgencia: la función de IA «Classify» evalúa las tareas en función de su descripción y fecha de vencimiento, y las asigna automáticamente a los niveles de prioridad «Alta», «Media» o «Baja», lo que ahorra tiempo en la clasificación y garantiza unos estándares uniformes en el equipo.'
@@ -174,7 +174,7 @@ sections:
       - q: "¿Puedo utilizar gratuitamente la plantilla Kanban de SeaTable?"
         a: 'Sí, puede utilizar todas las plantillas gratuitamente durante un periodo de tiempo ilimitado. Todo lo que necesita es una cuenta gratuita y podrá empezar a utilizar su software de tablero kanban de inmediato.'
       - q: "¿SeaTable es una alternativa a Trello, Jira o Asana para Kanban?"
-        a: 'Sí, SeaTable es una potente [alternativa a Asana]({{< relref "pages/asana-alternative" >}}), Jira y Trello. A diferencia de estas herramientas, SeaTable no solo ofrece tableros Kanban, sino también una funcionalidad de base de datos flexible, automatizaciones basadas en IA, permisos granulares y total conformidad con el RGPD gracias al alojamiento en Alemania, todo ello en una sola plataforma.'
+        a: 'Sí, SeaTable es una potente [alternativa a Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), Jira y Trello. A diferencia de estas herramientas, SeaTable no solo ofrece tableros Kanban, sino también una funcionalidad de base de datos flexible, automatizaciones basadas en IA, permisos granulares y total conformidad con el RGPD gracias al alojamiento en Alemania, todo ello en una sola plataforma.'
       - q: "¿Puedo importar mi tablero Trello actual a SeaTable?"
         a: 'Sí, puede migrar fácilmente sus tableros de Trello a SeaTable. SeaTable admite la importación de archivos CSV y la exportación de JSON. Después de la importación, puede personalizar la estructura de datos, añadir columnas adicionales y beneficiarse de todas las funciones de SeaTable, como la automatización con IA y los permisos avanzados.'
       - q: "¿SeaTable me permite establecer límites WIP como herramienta Kanban?"

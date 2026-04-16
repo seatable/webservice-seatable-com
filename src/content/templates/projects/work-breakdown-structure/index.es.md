@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilice la plantilla del plan de estructura del proyecto en línea con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad. Con la plantilla de plan de estructura del proyecto, puede planificar proyectos desde la estructura general hasta las tareas individuales, mantener una visión general de los recursos y crear una base común para la planificación de la estructura del proyecto en todo el equipo, con funciones que muchos equipos solo encuentran en Asana y otras [herramientas de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) similares, pero mucho más flexibles y basados en bases de datos.'
+      description: 'La solución de IA no-code SeaTable destaca por su flexibilidad y adaptabilidad. Con la plantilla de plan de estructura del proyecto, puede planificar proyectos desde la estructura general hasta las tareas individuales, mantener una visión general de los recursos y crear una base común para la planificación de la estructura del proyecto en todo el equipo, con funciones que muchos equipos solo encuentran en Asana y otras [herramientas de gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) similares, pero mucho más flexibles y basados en bases de datos.'
       items:
       - text: 'Siempre actualizado: gracias a los comentarios, el historial de cambios y las actualizaciones en tiempo real, sus plantillas de plan de estructura del proyecto estarán siempre al día, desde el primer ejemplo de plan de estructura del proyecto hasta su implementación continua.'
       - text: 'Acceso desde cualquier lugar: con una plantilla de planificación de la estructura del proyecto en línea, tendrá acceso a su plan de estructura del proyecto en cualquier momento, ya sea en la oficina, en su casa o en las instalaciones del cliente.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Plantillas de planes estructurales de proyectos basadas en IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que elevan sus plantillas de plan de estructura del proyecto a un nuevo nivel. Automatice las tareas recurrentes en la planificación de proyectos, reduzca el trabajo rutinario manual y gane tiempo para el análisis, la coordinación y la toma de decisiones fundamentadas sobre prioridades y recursos.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que elevan sus plantillas de plan de estructura del proyecto a un nuevo nivel. Automatice las tareas recurrentes en la planificación de proyectos, reduzca el trabajo rutinario manual y gane tiempo para el análisis, la coordinación y la toma de decisiones fundamentadas sobre prioridades y recursos.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Classify asigna automáticamente las nuevas tareas a las fases o paquetes de trabajo adecuados en función del título y la descripción. De este modo, las nuevas entradas se colocan directamente en la estructura correcta de su plantilla de plan de estructura del proyecto y usted puede ver de un vistazo en qué áreas se concentra el trabajo.'
@@ -189,5 +189,5 @@ sections:
       - q: "¿Puedo crear campos y flujos de trabajo propios en la plantilla del plan estructural del proyecto?"
         a: 'Sí, puede añadir columnas, tablas, vistas y automatizaciones adicionales en cualquier momento. De este modo, puede adaptar cada plantilla de plan de estructura del proyecto de forma flexible a sus procesos internos, funciones y requisitos de informes.'
       - q: "¿SeaTable es una alternativa adecuada a las herramientas clásicas de gestión de proyectos como Asana?"
-        a: 'Sí, SeaTable es una [alternativa muy buena y económica a Asana]({{< relref "pages/asana-alternative" >}}) y otras herramientas de gestión de proyectos. A diferencia de los tableros rígidos, con la plantilla del plan de estructura del proyecto, la plantilla del plan del proyecto y otras plantillas, se combina una lógica de base de datos flexible con vistas como árbol, calendario, línea de tiempo y paneles de informes.'
+        a: 'Sí, SeaTable es una [alternativa muy buena y económica a Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) y otras herramientas de gestión de proyectos. A diferencia de los tableros rígidos, con la plantilla del plan de estructura del proyecto, la plantilla del plan del proyecto y otras plantillas, se combina una lógica de base de datos flexible con vistas como árbol, calendario, línea de tiempo y paneles de informes.'
 ---

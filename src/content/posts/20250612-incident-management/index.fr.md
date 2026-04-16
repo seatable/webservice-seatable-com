@@ -28,7 +28,7 @@ La gestion des incidents est un processus qui vise à identifier rapidement les 
 
 ## ITIL : signification dans l'informatique
 
-L'ITIL (Information Technology Infrastructure Library) est une norme internationalement reconnue pour les méthodes et processus de [gestion des services informatiques]({{< relref "pages/industry-solutions/software-development" >}}) (ITSM). Elle vous aide à adapter vos services informatiques de manière optimale aux exigences de vos clients et à vos objectifs commerciaux. Les normes ITIL vous permettent non seulement d'améliorer la qualité de vos services, mais aussi d'accroître l'efficacité de votre département informatique.
+L'ITIL (Information Technology Infrastructure Library) est une norme internationalement reconnue pour les méthodes et processus de [gestion des services informatiques]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) (ITSM). Elle vous aide à adapter vos services informatiques de manière optimale aux exigences de vos clients et à vos objectifs commerciaux. Les normes ITIL vous permettent non seulement d'améliorer la qualité de vos services, mais aussi d'accroître l'efficacité de votre département informatique.
 
 En adoptant et en appliquant les processus ITIL, vous apprendrez à adopter une approche plus structurée, à gérer vos ressources plus efficacement et à définir clairement les rôles et les responsabilités au sein de votre organisation. En outre, les processus ITIL vous permettent de mieux réagir aux temps d'arrêt imprévus et de mettre en œuvre des changements sans complications. Cela se traduit par une stabilité, une flexibilité et une satisfaction client accrues dans vos opérations informatiques.
 

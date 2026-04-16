@@ -115,7 +115,7 @@ Quando se cria um plano de marketing e se planeiam campanhas, os processos de tr
 
 ### Planeamento de marketing com ferramentas digitais
 
-Criar um plano de marketing como um modelo em papel é uma opção - mas não necessariamente a mais eficaz. Ou consegue imaginar todos os membros da equipa de marketing a trabalhar com apenas uma folha de papel onde escrevem todos os dados do projeto, fazem correcções, riscam-nos, etc.? As ferramentas digitais para o planeamento de marketing são muito menos complicadas, mais rápidas e mais transparentes. Quer se trate do Hubspot, do SeaTable ou do Asana - [ferramentas de marketing] digitais ({{< relref "pages/industry-solutions/marketing" >}}) como estas ajudam-no a reunir toda a informação, a controlar o tempo e o conteúdo e a apresentar tudo de forma clara para todos os envolvidos.
+Criar um plano de marketing como um modelo em papel é uma opção - mas não necessariamente a mais eficaz. Ou consegue imaginar todos os membros da equipa de marketing a trabalhar com apenas uma folha de papel onde escrevem todos os dados do projeto, fazem correcções, riscam-nos, etc.? As ferramentas digitais para o planeamento de marketing são muito menos complicadas, mais rápidas e mais transparentes. Quer se trate do Hubspot, do SeaTable ou do Asana - [ferramentas de marketing] digitais ({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) como estas ajudam-no a reunir toda a informação, a controlar o tempo e o conteúdo e a apresentar tudo de forma clara para todos os envolvidos.
 
 ### Medir, medir, medir: A otimização nunca pára
 

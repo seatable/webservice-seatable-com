@@ -30,7 +30,7 @@ Les plateformes sans code ont vu le jour parce que les entreprises ont besoin de
 
 ![La logique binaire comme base technique](binaere_zahlen.jpg)
 
-Les possibilités d'utilisation sont très variées. Vous pouvez **automatiser des processus récurrents, développer des applications internes ou tester les premiers prototypes**. Les plateformes disponibles vous assistent dans différents domaines. Certains outils se concentrent sur des interfaces conviviales, d'autres vous aident à gérer des données ou servent de base à des fonctions en arrière-plan. Que vous recherchiez un [Outil de gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) ou [Outil de gestion marketing]({{< relref "pages/industry-solutions/marketing" >}}) vous trouverez exactement l'outil qui convient à votre projet.
+Les possibilités d'utilisation sont très variées. Vous pouvez **automatiser des processus récurrents, développer des applications internes ou tester les premiers prototypes**. Les plateformes disponibles vous assistent dans différents domaines. Certains outils se concentrent sur des interfaces conviviales, d'autres vous aident à gérer des données ou servent de base à des fonctions en arrière-plan. Que vous recherchiez un [Outil de gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) ou [Outil de gestion marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) vous trouverez exactement l'outil qui convient à votre projet.
 
 ##  Avantages de l'utilisation d'outils sans code
 
@@ -48,7 +48,7 @@ Les plateformes No Code suivent une approche qui allie possibilités technologiq
 
 La structure de nombreuses solutions repose sur des modèles de données tabulaires qui vous permettent d'organiser et de relier entre elles des informations avec précision. Ces données sont ensuite utilisées pour créer des vues, des formulaires et des zones interactives qui s'intègrent parfaitement à vos processus de travail. 
 
-Afin que vos applications ne se contentent pas d'afficher des informations statiques, vous disposez d'un puissant [Gestion des flux de travail]({{< relref "pages/industry-solutions/individual" >}}) ainsi que des logiques. Vous définissez des conditions, des déroulements et des réactions qui déclenchent automatiquement vos processus et créent ainsi une base fiable pour les tâches récurrentes. 
+Afin que vos applications ne se contentent pas d'afficher des informations statiques, vous disposez d'un puissant [Gestion des flux de travail]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) ainsi que des logiques. Vous définissez des conditions, des déroulements et des réactions qui déclenchent automatiquement vos processus et créent ainsi une base fiable pour les tâches récurrentes. 
 
 ![Travailler avec des outils sans code sur un ordinateur portable](frau-an-laptop.jpg)
 

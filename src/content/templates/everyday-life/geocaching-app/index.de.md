@@ -112,7 +112,7 @@ sections:
       weight: 16
       title: 'Geocaching-App mit integrierten KI-Funktionen'
       subtitle: 'Ihr intelligenter Assistent'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten [KI-unterstützten Automatisierungen]({{< relref "pages/ai-automations" >}}) und unserem [KI-Chat-Plugin]({{< relref "help/ai/ai-chat" >}}). Erhalten Sie automatische Benachrichtigungen, sobald ein neuer Log-Eintrag eingeht oder nutzen Sie unsere KI-Funktionen z. B. für Klassifizierungen oder Zusammenfassungen – DSGVO-konform mit eigenem KI-Server in Deutschland.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken, integrierten [KI-unterstützten Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) und unserem [KI-Chat-Plugin]({{< relref "help/ai/ai-chat" >}}). Erhalten Sie automatische Benachrichtigungen, sobald ein neuer Log-Eintrag eingeht oder nutzen Sie unsere KI-Funktionen z. B. für Klassifizierungen oder Zusammenfassungen – DSGVO-konform mit eigenem KI-Server in Deutschland.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
         text: 'Mit „Summarize" fassen Sie lange Finder-Notizen in ein oder zwei Sätze zusammen. So erhalten Sie knappe Feedback-Texte für die Galerie-Ansicht oder das Dashboard.'

@@ -49,7 +49,7 @@ Content-Creator kennen das Spiel, ständig auf der Suche nach neuem Content zu s
 
 **9\. Intelligente Tabellen mit SeaTable**
 
-SeaTable ist eine Mischung aus intelligentem Tabellenkalkulationsprogramm und Datenbank, das ebenfalls kostenlos nutzbar ist. Bis zu 2.000 Zeilen können in verschiedenen Bases erstellt werden – dabei sind die Funktionen von SeaTable vollumfänglich nutzbar und Sie können die vielfältigen Einsatzbereiche selbst austesten. Egal ob Projektmanagement, im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}) oder HR, zum Sortieren und Organisieren von Daten, mit SeaTable ist nahezu alles möglich.
+SeaTable ist eine Mischung aus intelligentem Tabellenkalkulationsprogramm und Datenbank, das ebenfalls kostenlos nutzbar ist. Bis zu 2.000 Zeilen können in verschiedenen Bases erstellt werden – dabei sind die Funktionen von SeaTable vollumfänglich nutzbar und Sie können die vielfältigen Einsatzbereiche selbst austesten. Egal ob Projektmanagement, im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) oder HR, zum Sortieren und Organisieren von Daten, mit SeaTable ist nahezu alles möglich.
 
 Mit hilfreichen Plugins wie dem Kanban-Board kann sogar eine hervorragende Alternative zum oben genannten Projektmanagement-Tool Trello geschaffen werden. Außerdem ist **SeaTable mit Zapier verknüpfbar** und kann auf diese Weise vollautomatisiert alle Arten von Daten aufnehmen, sortieren und weiterverwenden. [Die Registrierung]({{< relref "pages/registration" >}}) ist kostenlos und blitzschnell – probieren Sie es doch einfach mal aus!
 

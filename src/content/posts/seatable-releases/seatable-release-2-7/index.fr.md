@@ -17,7 +17,7 @@ Ce matin, [SeaTable Cloud](https://cloud.seatable.io) a été mis à jour à la 
 
 ## Mise en forme conditionnelle des colonnes
 
-Ceux qui travaillent régulièrement avec [Excel]({{< relref "pages/excel-alternative" >}}) connaissent la fonction de mise en forme conditionnelle. Celle-ci fait désormais son entrée dans SeaTable avec la version 2.7. La mise en forme conditionnelle permet de formater ou de colorier des cellules en fonction de leur valeur (ou de l'absence de valeur), ce qui permet de structurer visuellement les données et de les analyser.
+Ceux qui travaillent régulièrement avec [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) connaissent la fonction de mise en forme conditionnelle. Celle-ci fait désormais son entrée dans SeaTable avec la version 2.7. La mise en forme conditionnelle permet de formater ou de colorier des cellules en fonction de leur valeur (ou de l'absence de valeur), ce qui permet de structurer visuellement les données et de les analyser.
 
 Pour toutes les colonnes, SeaTable propose une mise en forme conditionnelle basée sur des règles. Une règle est la description d'un contenu hypothétique d'une cellule (par exemple, valeur > 50 ou date postérieure au 31/12/2021) ainsi qu'une instruction de formatage. Si la règle est respectée, la cellule est formatée conformément à l'instruction. Des règles judicieusement choisies permettent entre autres de repérer facilement les valeurs statistiques aberrantes ou inhabituelles. Il est bien sûr possible de définir plusieurs règles par colonne afin de répondre à des exigences plus pointues.
 

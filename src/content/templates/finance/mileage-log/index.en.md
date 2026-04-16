@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Manage your logbook online with SeaTable'
       subtitle: 'Your advantages'
-      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability and is a powerful [alternative to static Excel logbook templates]({{< relref "pages/excel-alternative" >}}). With our digital logbook, you benefit from real-time collaboration, automatic evaluations, and audit-proof archiving—ideal for teams who want to document business trips in a tax-compliant manner without getting bogged down in Excel chaos.'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability and is a powerful [alternative to static Excel logbook templates]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). With our digital logbook, you benefit from real-time collaboration, automatic evaluations, and audit-proof archiving—ideal for teams who want to document business trips in a tax-compliant manner without getting bogged down in Excel chaos.'
       items:
       - text: 'Always up to date: Stay up to date with real-time updates, a complete change history, and digital driver authentication.'
       - text: 'Access from anywhere: With an online logbook, you have access at any time—even on the go, directly from your vehicle—and protect your data from loss or damage.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'AI-supported trip management with SeaTable'
       subtitle: 'Smart automation'
-      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your trip management to a whole new level. Automate recurring tasks and save valuable time. GDPR-compliant'
+      description: 'With SeaTable, you benefit from powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your trip management to a whole new level. Automate recurring tasks and save valuable time. GDPR-compliant'
       items:
       - headline: 'Automatic classification with Classify'
         text: 'Have your trip details classified automatically: AI automatically recognizes the purpose of the trip (e.g., business visit, customer visit, business trip) based on destination texts or notes and assigns trips to the correct category. '

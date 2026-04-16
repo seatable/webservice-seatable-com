@@ -36,7 +36,7 @@ La presupuestación – también conocida como planificación presupuestaria o a
 
 ## El presupuesto va de la mano de la planificación financiera
 
-La planificación **presupuestaria operativa** forma parte de la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}) a corto plazo, en la que usted estima sus ingresos y gastos futuros para el año siguiente. Utiliza los datos del ejercicio en curso y/o del anterior para obtener previsiones de la evolución futura. A diferencia del [plan financiero]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), la presupuestación se centra generalmente en la parte de los gastos, independientemente de la procedencia del dinero.
+La planificación **presupuestaria operativa** forma parte de la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}) a corto plazo, en la que usted estima sus ingresos y gastos futuros para el año siguiente. Utiliza los datos del ejercicio en curso y/o del anterior para obtener previsiones de la evolución futura. A diferencia del [plan financiero]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), la presupuestación se centra generalmente en la parte de los gastos, independientemente de la procedencia del dinero.
 
 La planificación **presupuestaria estratégica** para los próximos dos a cinco años también es bastante habitual. Esto le ayuda a tomar decisiones empresariales a largo plazo que impulsarán a su empresa y garantizarán su éxito, como la apertura de nuevas sedes. Sin embargo, cuanto más lejos en el futuro esté el horizonte de planificación, más difícil e incierto será hacer una previsión precisa.
 
@@ -117,7 +117,7 @@ La planificación presupuestaria de toda la empresa se compone de los subpresupu
 
 Para que la elaboración del presupuesto sea transparente, es importante implicar a todos los departamentos en la planificación presupuestaria en una fase temprana. Las áreas importantes son la planificación del presupuesto de personal (contratación, salarios, etc.), la planificación del presupuesto de marketing y la planificación del presupuesto de TI. Estos departamentos suelen gestionar grandes presupuestos propios y son indispensables para la planificación presupuestaria estratégica.
 
-A continuación examinaremos más de cerca la planificación presupuestaria en [TI]({{< relref "pages/industry-solutions/software-development" >}}) y [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). Si le interesa la [planificación de personal]({{< relref "personalplanung" >}}) o el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}}), haga clic en los artículos enlazados para obtener más información.
+A continuación examinaremos más de cerca la planificación presupuestaria en [TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) y [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). Si le interesa la [planificación de personal]({{< relref "personalplanung" >}}) o el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}}), haga clic en los artículos enlazados para obtener más información.
 
 ### Planificación del presupuesto informático
 
@@ -155,7 +155,7 @@ Basándose en estos análisis y objetivos, los directivos comunican cuánto dine
 
 ## Cree sus planes presupuestarios con SeaTable
 
-Mucha gente utiliza hojas de cálculo [Excel]({{< relref "pages/excel-alternative" >}}) para su planificación presupuestaria, pero éstas sólo ofrecen funciones y opciones de visualización limitadas. En **SeaTable** puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y empezar directamente con la plantilla mostrada arriba. Podrá agrupar y evaluar todos los centros de costes, objetivos, presupuestos y gastos en dicha base de datos central.
+Mucha gente utiliza hojas de cálculo [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) para su planificación presupuestaria, pero éstas sólo ofrecen funciones y opciones de visualización limitadas. En **SeaTable** puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y empezar directamente con la plantilla mostrada arriba. Podrá agrupar y evaluar todos los centros de costes, objetivos, presupuestos y gastos en dicha base de datos central.
 
 Asigne a sus gestores la responsabilidad del presupuesto y utilice **SeaTable como herramienta de colaboración** para trabajar en la elaboración del presupuesto con varios departamentos al mismo tiempo. Esto le permitirá ajustar el plan presupuestario a lo largo del año, seguir el **registro de gastos en tiempo real** y tener siempre una visión general del presupuesto actual.
 

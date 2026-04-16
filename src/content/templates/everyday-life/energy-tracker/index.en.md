@@ -94,7 +94,7 @@ sections:
         image: '/images/template_page_energytracker_03.png'
         image_alt: 'All contracts at a glance in the gallery view in the energy tracker'
       - headline: 'Cost Barometer: Discounts vs. Usage'
-        text: 'Your energy tracker consists of a database with an [Excel-like table structure]({{< relref "pages/excel-alternative" >}}) and a **no-code app as the front end**. Here you’ll find the heart of your energy tracker: the analytics dashboards. Compare your consumption and actual costs on a monthly basis, compare your estimated annual payment with actual costs, and easily create additional reports using drag-and-drop.'
+        text: 'Your energy tracker consists of a database with an [Excel-like table structure]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) and a **no-code app as the front end**. Here you’ll find the heart of your energy tracker: the analytics dashboards. Compare your consumption and actual costs on a monthly basis, compare your estimated annual payment with actual costs, and easily create additional reports using drag-and-drop.'
         image: '/images/template_page_energytracker_02.png'
         image_alt: 'Energy Tracker with Cost Barometer and Target-Actual Comparison'
       - headline: 'Automation and notifications: Less manual effort'
@@ -114,7 +114,7 @@ sections:
       weight: 16
       title: 'Your Energy Tracker with built-in AI features'
       subtitle: 'Smart everyday helper'
-      description: 'With SeaTable, you benefit from powerful, integrated [AI-powered automations]({{< relref "pages/ai-automations" >}}). Summarize key contract information, extract relevant details such as termination dates or price guarantees, or have termination letters pre-drafted—**GDPR-compliant on European servers in Germany**.'
+      description: 'With SeaTable, you benefit from powerful, integrated [AI-powered automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Summarize key contract information, extract relevant details such as termination dates or price guarantees, or have termination letters pre-drafted—**GDPR-compliant on European servers in Germany**.'
       items:
       - headline: 'Automatic summaries with Summarize'
         text: 'With the Summarize feature, you can automatically generate short summaries, such as of your contract documents or rate adjustments. For a quick overview.'

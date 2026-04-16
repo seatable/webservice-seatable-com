@@ -22,7 +22,7 @@ Les employés des entreprises doivent passer quotidiennement d'une application �
 
 ### Points à retenir
 
-* L'authentification unique (SSO) renforce la sécurité informatique de votre [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) grâce à une authentification centralisée des utilisateurs et à un contrôle simplifié des accès. 
+* L'authentification unique (SSO) renforce la sécurité informatique de votre [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) grâce à une authentification centralisée des utilisateurs et à un contrôle simplifié des accès. 
 * L'utilisation de procédures d'authentification unique **augmente la productivité** en réduisant les connexions par mot de passe.
 * Les protocoles courants tels que SAML, OAuth et LDAP permettent une **intégration flexible** dans les environnements cloud et hybrides tels que SeaTable. 
 * Les solutions SSO basées dans l'UE ou sur site répondent aux exigences du RGPD et évitent les transferts de données vers des pays tiers.

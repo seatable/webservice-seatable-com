@@ -17,7 +17,7 @@ url: '/fr/low-code'
 
 ## Dites Ciao au code - avec Low Code et No Code
 
-Avez-vous déjà rêvé de pouvoir développer vos propres solutions logicielles en quelques clics, sans devoir écrire du code ligne par ligne ? Imaginez à quel point le [développement de logiciels]({{< relref "pages/industry-solutions/software-development" >}}) deviendrait soudain facile et rapide pour vous ! Cela ressemble à de la science-fiction ? Mais ce n'est pas le cas : venez découvrir avec nous le monde du développement Low-Code ! Dans l'article suivant, nous examinons également la différence entre Low Code et No Code et clarifions ce qu'est une plateforme No-Code/Low-Code.
+Avez-vous déjà rêvé de pouvoir développer vos propres solutions logicielles en quelques clics, sans devoir écrire du code ligne par ligne ? Imaginez à quel point le [développement de logiciels]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) deviendrait soudain facile et rapide pour vous ! Cela ressemble à de la science-fiction ? Mais ce n'est pas le cas : venez découvrir avec nous le monde du développement Low-Code ! Dans l'article suivant, nous examinons également la différence entre Low Code et No Code et clarifions ce qu'est une plateforme No-Code/Low-Code.
 
 ## Qu'est-ce que le code bas ?
 
@@ -45,7 +45,7 @@ Ce qui caractérise fondamentalement une plateforme Low Code peut être résumé
 
 ## Qu'est-ce que le No Code ?
 
-No Code va encore plus loin : contrairement aux plateformes Low Code, une plateforme **No Code** s'adresse aux utilisateurs sans aucune connaissance en programmation. Dans l'environnement de développement entièrement visuel, vous pouvez créer des applications la plupart du temps par glisser-déposer, sans devoir écrire une seule ligne de code. No Code est donc idéal pour la création d'applications simples et de [workflows automatisés]({{< relref "pages/industry-solutions/individual" >}}). L'accent est clairement mis sur la rapidité et la convivialité ; l'intégration de code écrit par l'utilisateur n'est pas prévue.
+No Code va encore plus loin : contrairement aux plateformes Low Code, une plateforme **No Code** s'adresse aux utilisateurs sans aucune connaissance en programmation. Dans l'environnement de développement entièrement visuel, vous pouvez créer des applications la plupart du temps par glisser-déposer, sans devoir écrire une seule ligne de code. No Code est donc idéal pour la création d'applications simples et de [workflows automatisés]({{< relref "pages/landing-pages/industry-solutions/individual" >}}). L'accent est clairement mis sur la rapidité et la convivialité ; l'intégration de code écrit par l'utilisateur n'est pas prévue.
 
 ## Low Code vs. No Code
 

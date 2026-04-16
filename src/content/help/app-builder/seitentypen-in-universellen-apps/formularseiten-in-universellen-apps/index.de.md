@@ -14,7 +14,7 @@ seo:
 weight: 3
 ---
 
-Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in SeaTable Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter]({{< relref "pages/arbeitszeiterfassung" >}}).
+Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in SeaTable Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
 

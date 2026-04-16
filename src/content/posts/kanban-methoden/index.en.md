@@ -120,7 +120,7 @@ Kanban thrives on continuous improvement. Don't just collect feedback, use it. F
 
 ## How can you use the Kanban method?
 
-Let's take a closer look at how you can apply the Kanban method. Following the first basic principle, select any existing workflow. In principle, you can also create your Kanban board on a whiteboard with sticky notes or make something in Excel. However, a digital board is more transparent and flexible, as most [work management systems]({{< relref "pages/industry-solutions/individual" >}}) already offer, in some cases free of charge. Follow these simple steps:
+Let's take a closer look at how you can apply the Kanban method. Following the first basic principle, select any existing workflow. In principle, you can also create your Kanban board on a whiteboard with sticky notes or make something in Excel. However, a digital board is more transparent and flexible, as most [work management systems]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) already offer, in some cases free of charge. Follow these simple steps:
 
 1\. Create an empty board: The board is the foundation you will work with later. Take your time to think about which work steps you want to map instead of flooding the board with your entire backlog. If you use a no-code solution such as SeaTable, you can use the Kanban plugin.
 

@@ -17,7 +17,7 @@ Heute Morgen wurde [SeaTable Cloud](https://cloud.seatable.io) auf die Version 2
 
 ## Bedingte Formatierung für Spalten
 
-Wer regelmäßig mit [Excel]({{< relref "pages/excel-alternative" >}}) arbeitet, kennt die Funktion bedingte Formatierung. Diese hält mit der Version 2.7 nun auch in SeaTable Einzug. Mit der bedingten Formatierung formatieren bzw. kolorieren Sie Zellen in Abhängigkeit ihres Werts (bzw. der Abwesenheit eines solchen) und können so eine optische Datenstrukturierung und Datenanalyse vornehmen.
+Wer regelmäßig mit [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) arbeitet, kennt die Funktion bedingte Formatierung. Diese hält mit der Version 2.7 nun auch in SeaTable Einzug. Mit der bedingten Formatierung formatieren bzw. kolorieren Sie Zellen in Abhängigkeit ihres Werts (bzw. der Abwesenheit eines solchen) und können so eine optische Datenstrukturierung und Datenanalyse vornehmen.
 
 Für alle Spalten bietet SeaTable eine regelbasierte, bedingte Formatierung an. Eine Regel ist die Beschreibung eines hypothetischen Inhalts einer Zelle (z.B. Wert > 50 oder Datum nach dem 31.12.2021) sowie eine Formatierungsanweisung. Ist die Regel erfüllt, dann wird die Zelle entsprechend der Anweisung formatiert. Mit geschickt gewählten Regeln lassen sich unter anderem statistische Ausreißer oder ungewöhnliche Werte leicht erkennbar machen. Natürlich können Sie auch mehrere Regeln pro Spalte definieren, um anspruchsvolle Anforderungen abzubilden.
 

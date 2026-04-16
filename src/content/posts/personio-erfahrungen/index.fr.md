@@ -20,7 +20,7 @@ register:
 Personio est un [logiciel de gestion des RH]({{< relref "posts/20250317-hris" >}}) basé sur le cloud, conçu principalement pour les entreprises de 10 à 5.000 employés. La version de base (Personio Core) réunit des fonctionnalités telles que :
 
 *   [Données de base]({{< relref "posts/20250505-master-data-management" >}}) et dossier numérique du personnel
-*   [Saisie des temps]({{< relref "pages/arbeitszeiterfassung" >}}) et gestion des absences
+*   [Saisie des temps]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) et gestion des absences
 *   Documents et [modèles RH]({{< relref "templates/human-resources" >}})
 *   [On-boarding]({{< relref "posts/20250324-onboarding-prozess" >}}) et off-boarding
 *   Analyses et rapports
@@ -83,7 +83,7 @@ Bien que la **création d'un compte** dans les systèmes cloud soit un jeu d'enf
 
 ## SeaTable comme alternative à Personio
 
-SeaTable est une solution d'IA no-code qui combine **gestion des données, app building et automatisation par IA**. Son champ d'application ne se limite pas à la gestion des ressources humaines, ce qui vous permet d'utiliser SeaTable dans toute l'entreprise (par exemple dans le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les [ventes]({{< relref "pages/industry-solutions/kundenmanagement" >}}) et la [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) pour créer des bases de données et des applications et automatiser des processus. En outre, SeaTable présente des avantages par rapport à Personio qui pèsent dans la balance lors de l'évaluation :
+SeaTable est une solution d'IA no-code qui combine **gestion des données, app building et automatisation par IA**. Son champ d'application ne se limite pas à la gestion des ressources humaines, ce qui vous permet d'utiliser SeaTable dans toute l'entreprise (par exemple dans le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), les [ventes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) et la [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) pour créer des bases de données et des applications et automatiser des processus. En outre, SeaTable présente des avantages par rapport à Personio qui pèsent dans la balance lors de l'évaluation :
 
 -   **Plus de flexibilité** : Construisez rapidement, facilement et intuitivement tous les processus, applications et vues de données dont vous avez besoin pour gérer vos ressources humaines.  
 
@@ -109,7 +109,7 @@ Voici un aperçu des **différences entre Personio et SeaTable** :
 
 ## Bilan mitigé : Expériences Personio plutôt négatives
 
-Fondamentalement, Personio est un logiciel cloud convivial qui propose des fonctionnalités complètes pour la gestion des ressources humaines. À cet égard, les commentaires élogieux portent souvent sur le fait que Personio, en tant que solution **tout-en-un**, centralise les données des employés, les documents et les [processus RH]({{< relref "pages/industry-solutions/hr" >}}) et allège la charge de travail du service RH. Les seuls reproches que les clients font au logiciel lui-même sont son manque de flexibilité, les mises à jour fastidieuses et les longs temps de chargement. Dans l'ensemble, la note attribuée à Personio dans de nombreuses revues de Personio est néanmoins mauvaise :
+Fondamentalement, Personio est un logiciel cloud convivial qui propose des fonctionnalités complètes pour la gestion des ressources humaines. À cet égard, les commentaires élogieux portent souvent sur le fait que Personio, en tant que solution **tout-en-un**, centralise les données des employés, les documents et les [processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) et allège la charge de travail du service RH. Les seuls reproches que les clients font au logiciel lui-même sont son manque de flexibilité, les mises à jour fastidieuses et les longs temps de chargement. Dans l'ensemble, la note attribuée à Personio dans de nombreuses revues de Personio est néanmoins mauvaise :
 
 Souvent, l'expérience Personio devient négative lorsque les clients sont confrontés aux pratiques de vente : De nombreux **clients insatisfaits** rapportent avoir été attirés par de fausses promesses ou abandonnés après la signature du contrat. **Attention : piège des coûts !** Personio se fait grassement rémunérer pour l'utilisation de son logiciel, mais les prix élevés ne sont pas visibles au premier abord. Les coûts cachés de Personio dépendent fortement du nombre d'employés et des modules choisis.
 

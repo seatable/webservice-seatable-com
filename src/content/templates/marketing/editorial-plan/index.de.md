@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Redaktionsplan Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable bietet Flexibilität, Automatisierungen und Teamarbeit in Echtzeit. Mit Redaktions- und Content-Plan-Vorlagen steuern Sie Ihren gesamten Multi-Channel-Content zentral, behalten Status und Kapazitäten im Blick und schaffen eine einheitliche Grundlage für Ihr Content-Marketing – effizienter als ein klassischer Redaktionsplan Excel Ansatz oder statische Systeme. Nutzen Sie SeaTable als leistungsstarkes [Marketing-Tool]({{< relref "pages/industry-solutions/marketing" >}}) und aus Templates werden skalierbare Marketingprozesse.'
+      description: 'Die KI No-Code-Lösung SeaTable bietet Flexibilität, Automatisierungen und Teamarbeit in Echtzeit. Mit Redaktions- und Content-Plan-Vorlagen steuern Sie Ihren gesamten Multi-Channel-Content zentral, behalten Status und Kapazitäten im Blick und schaffen eine einheitliche Grundlage für Ihr Content-Marketing – effizienter als ein klassischer Redaktionsplan Excel Ansatz oder statische Systeme. Nutzen Sie SeaTable als leistungsstarkes [Marketing-Tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) und aus Templates werden skalierbare Marketingprozesse.'
       items:
       - text: '**Stets aktuell:** Mit Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleibt Ihre Redaktionsplanung stets aktuell – von der ersten Idee bis zur finalen Veröffentlichung.'
       - text: '**Zugriff von überall:** Als digitaler Redaktionskalender ist Ihr Content-Plan jederzeit verfügbar – im Büro, im Homeoffice oder unterwegs, auch für Agenturen und Freelancer.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Redaktionsplanung'
       subtitle: 'Smarte Automatisierung im Content-Marketing'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Redaktionsplanung, Content-Erstellung und Auswertung automatisieren. So wird Ihre Redaktionsplan Vorlage zum intelligenten Content Hub, der Routineaufgaben übernimmt und Marketing-Teams Freiraum für Kreativität und Strategie verschafft.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Redaktionsplanung, Content-Erstellung und Auswertung automatisieren. So wird Ihre Redaktionsplan Vorlage zum intelligenten Content Hub, der Routineaufgaben übernimmt und Marketing-Teams Freiraum für Kreativität und Strategie verschafft.'
       items:
       - headline: 'Klassifizierung von Content mit Classify'
         text: 'Mit Classify ordnen Sie neue Inhalte im Redaktionsplan automatisch nach Kanal, Format, Thema oder Funnel-Phase zu und strukturieren Ihren Content Plan ohne manuellen Aufwand. So erkennen Sie, welche Content-Typen Sie stark nutzen und wo noch Lücken im Redaktionskalender bestehen.'

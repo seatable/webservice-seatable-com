@@ -94,7 +94,7 @@ sections:
         image: '/images/template_page_energytracker_03.png'
         image_alt: Tous les contrats en un coup d'œil dans la vue « Galerie » de le suivi de la consommation d'énergie
       - headline: 'Baromètre des coûts : remises vs. consommation'
-        text: Votre suivi de la consommation d'énergie se compose d'une base de données dotée d'une [structure de tableaux similaire à celle d'Excel]({{< relref "pages/excel-alternative" >}}) et d'une **application no-code servant d'interface**. Vous trouverez ici le cœur de votre suivi de la consommation d'énergie, les tableaux de bord d'analyse. Comparez votre consommation et vos coûts réels sur une base mensuelle, comparez votre paiement annuel prévisionnel aux coûts réels et créez facilement d'autres analyses par glisser-déposer.
+        text: Votre suivi de la consommation d'énergie se compose d'une base de données dotée d'une [structure de tableaux similaire à celle d'Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) et d'une **application no-code servant d'interface**. Vous trouverez ici le cœur de votre suivi de la consommation d'énergie, les tableaux de bord d'analyse. Comparez votre consommation et vos coûts réels sur une base mensuelle, comparez votre paiement annuel prévisionnel aux coûts réels et créez facilement d'autres analyses par glisser-déposer.
         image: '/images/template_page_energytracker_02.png'
         image_alt: 'Suivi énergétique avec baromètre des coûts et comparaison entre les objectifs et les résultats réels'
       - headline: 'Automatisations et notifications : moins de tâches manuelles'
@@ -114,7 +114,7 @@ sections:
       weight: 16
       title: Votre suivi de la consommation d'énergie doté de fonctionnalités d'IA intégrées
       subtitle: 'Un assistant intelligent au quotidien'
-      description: Avec SeaTable, vous bénéficiez d'automatisations puissantes et intégrées [basées sur l'IA]({{< relref "pages/ai-automations" >}}). Résumez les informations contractuelles importantes, extrayez les données pertinentes telles que les dates de résiliation ou les garanties de prix de l'électricité, ou faites rédiger des lettres de résiliation – **en conformité avec le RGPD sur des serveurs européens situés en Allemagne**.
+      description: Avec SeaTable, vous bénéficiez d'automatisations puissantes et intégrées [basées sur l'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Résumez les informations contractuelles importantes, extrayez les données pertinentes telles que les dates de résiliation ou les garanties de prix de l'électricité, ou faites rédiger des lettres de résiliation – **en conformité avec le RGPD sur des serveurs européens situés en Allemagne**.
       items:
       - headline: 'Résumés automatiques avec Summarize'
         text: 'La fonction « Summarize » vous permet de créer automatiquement de courts résumés, par exemple de vos documents contractuels ou des ajustements tarifaires. Pour un aperçu rapide.'

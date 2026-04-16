@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Storyboard Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Mit der flexiblen, KI No-Code-Plattform SeaTable setzen Sie eine digitale Storyboard Vorlage um, die sich exakt an Ihre Workflows für Film, Video und Marketing anpasst. Ersetzen Sie statische PDF- oder Excel-Storyboards durch ein interaktives Template mit Drag-and-Drop, Galerie-Ansicht und Kanban-Board – ideal für Storyboarding, visuelles Storytelling und den kollaborativen Freigabeprozess in Marketing-Teams, bei Regisseuren, UX-Designern und Content Creatorn. Verbinden Sie Ihre Vorlage bei Bedarf direkt mit weiteren Datenbanken, zum Beispiel als zentrales [Marketing Tool]({{< relref "pages/industry-solutions/marketing" >}}).'
+      description: 'Mit der flexiblen, KI No-Code-Plattform SeaTable setzen Sie eine digitale Storyboard Vorlage um, die sich exakt an Ihre Workflows für Film, Video und Marketing anpasst. Ersetzen Sie statische PDF- oder Excel-Storyboards durch ein interaktives Template mit Drag-and-Drop, Galerie-Ansicht und Kanban-Board – ideal für Storyboarding, visuelles Storytelling und den kollaborativen Freigabeprozess in Marketing-Teams, bei Regisseuren, UX-Designern und Content Creatorn. Verbinden Sie Ihre Vorlage bei Bedarf direkt mit weiteren Datenbanken, zum Beispiel als zentrales [Marketing Tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).'
       items:
       - text: '**Aktuelle Daten:** Jede Änderung an Szenenbeschreibung, Timeline oder Skizze ist sofort für alle sichtbar – kein Abgleich von veralteten Versionen mehr.'
       - text: '**Echte Kollaboration:** Marketing-Teams, Regisseure, Content Creator und UX-Designer arbeiten gemeinsam an einem Storyboard Template – mit Kommentaren und klaren Zuständigkeiten.'
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Storyboarding'
       subtitle: 'Smarte Automatisierung für Marketing-Teams'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Storyboard Vorlage, Produktionsplanung und Freigabeprozesse automatisieren. So wird Ihr Storyboard Template zum intelligenten Hub für Szenenbeschreibung, Dialoge, Kameraeinstellungen und Zeitablauf – effizienter als ein klassisches Storyboard in einer starren PDF- oder Excel-Datei.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Storyboard Vorlage, Produktionsplanung und Freigabeprozesse automatisieren. So wird Ihr Storyboard Template zum intelligenten Hub für Szenenbeschreibung, Dialoge, Kameraeinstellungen und Zeitablauf – effizienter als ein klassisches Storyboard in einer starren PDF- oder Excel-Datei.'
       items:
       - headline: 'Automatische Kategorisierung von Szenen'
         text: 'Mit Classify ordnen Sie Szenen automatisch Kampagnen, Kanälen oder Formaten wie YouTube, Instagram oder Website zu. Die KI liest dazu vorhandene Textfelder wie Szenenbeschreibung oder Notizen aus und schreibt die ermittelte Kategorie in ein definiertes Feld, sodass Ihr Storyboard übersichtlich bleibt und Filter/Views sauber funktionieren.'

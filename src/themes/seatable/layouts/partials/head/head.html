@@ -92,11 +92,11 @@
         {{ end }}
     {{- end }}
 
-    {{- if or (eq .TranslationKey "/pages/prices") (strings.HasPrefix .TranslationKey "/pages/industry-solutions/") (strings.HasPrefix .TranslationKey "/templates") }}
+    {{- if or (eq .TranslationKey "/pages/prices") (strings.HasPrefix .TranslationKey "/pages/landing-pages/industry-solutions/") (strings.HasPrefix .TranslationKey "/templates") }}
         {{ partial "structured-data/pricing.html" . }}
     {{- end }}
 
-    {{- if strings.HasPrefix .TranslationKey "/pages/industry-solutions/" }}
+    {{- if strings.HasPrefix .TranslationKey "/pages/landing-pages/industry-solutions/" }}
         {{ partial "structured-data/industry-solutions-breadcrumb-list.html" . }}
     {{- end }}
 

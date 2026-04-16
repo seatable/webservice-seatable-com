@@ -42,7 +42,7 @@ Dabei bietet Ihnen das Portfoliomanagement in allen Bereichen zahlreiche Vortei
 
 ## Projektportfoliomanagement
 
-Das Projektportfoliomanagement (PPM) übernimmt die **übergeordnete Verwaltung, Planung und Steuerung aller Projekte**, die innerhalb eines Unternehmens miteinander zusammenhängen. Vor allem soll es erreichen, dass die Ressourcen optimal verteilt und die Projekte so priorisiert sind, dass sie die strategischen Unternehmensziele bestmöglich unterstützen. Beim Projekt Portfolio Management handelt es sich daher um eine permanente Aufgabe, welche sich zyklisch wiederholt und die Auswertung vieler Projekte erfordert. Dies ist der größte Unterschied zum normalen [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), das in der Regel mit dem Abschluss einzelner Projekte endet.
+Das Projektportfoliomanagement (PPM) übernimmt die **übergeordnete Verwaltung, Planung und Steuerung aller Projekte**, die innerhalb eines Unternehmens miteinander zusammenhängen. Vor allem soll es erreichen, dass die Ressourcen optimal verteilt und die Projekte so priorisiert sind, dass sie die strategischen Unternehmensziele bestmöglich unterstützen. Beim Projekt Portfolio Management handelt es sich daher um eine permanente Aufgabe, welche sich zyklisch wiederholt und die Auswertung vieler Projekte erfordert. Dies ist der größte Unterschied zum normalen [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), das in der Regel mit dem Abschluss einzelner Projekte endet.
 
 **Hinweis**: In größeren Unternehmen und Behörden gibt es für das Project Portfolio Management oft eine eigene Abteilung: das **Project Management Office (PMO)**.
 
