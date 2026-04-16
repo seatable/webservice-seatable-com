@@ -24,7 +24,7 @@ En el primer curso ya ha aprendido a crear una base con distintos tipos de colum
 
 Descargue el siguiente archivo a su PC e impórtelo como una nueva base en la página de inicio de SeaTable:
 
-<a href="/SeaTable-Course-Level-2.dtable" download>Curso SeaTable Nivel 2.dtable</a>
+[Curso SeaTable Nivel 2.dtable](/SeaTable-Course-Level-2.dtable)
 
 Aunque no tenga que crear usted mismo la base, es importante que se familiarice a fondo con la estructura. Se han utilizado nuevos tipos de columnas que quizá no conozca del curso anterior.
 

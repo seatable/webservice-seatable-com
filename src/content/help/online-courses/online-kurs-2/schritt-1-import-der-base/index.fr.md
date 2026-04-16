@@ -24,7 +24,7 @@ Dans le premier cours, vous avez déjà appris à créer une base avec différen
 
 Téléchargez le fichier suivant sur votre PC et importez-le comme nouvelle base sur la page d'accueil de SeaTable :
 
-<a href="/SeaTable-Course-Level-2.dtable" download>SeaTable Course Niveau 2.dtable</a>
+[SeaTable Course Niveau 2.dtable](/SeaTable-Course-Level-2.dtable)
 
 Même si vous ne devez pas créer la base vous-même, il est important que vous vous familiarisiez intensivement avec sa structure. De nouveaux types de colonnes ont été utilisés, que vous n'avez peut-être pas encore rencontrés dans le cours précédent.
 
