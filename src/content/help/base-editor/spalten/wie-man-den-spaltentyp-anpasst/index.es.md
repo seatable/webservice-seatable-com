@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Dependiendo de los **valores** que desee registrar en SeaTable, puede asignarles diferentes tipos **de** columna. [Aquí]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) encontrará un resumen de los 25 tipos de columnas de SeaTable.
+Dependiendo de los **valores** que desee registrar en SeaTable, puede asignarles diferentes tipos **de** columna. [Aquí]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) encontrará un resumen de los 26 tipos de columnas de SeaTable.
 
 Es posible cambiar el tipo de columna posteriormente. Aquí puede averiguar cómo **cambiar** el tipo de columna **a posteriori**.
 
@@ -31,7 +31,7 @@ Es posible cambiar el tipo de columna posteriormente. Aquí puede averiguar cóm
 
 ## Ajuste de la primera columna
 
-La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de columnas**. Éstos son
+La **primera columna** de una tabla **sólo** admite **6 de los 26 tipos de columnas**. Éstos son
 
 - [Texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
 - [Número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})

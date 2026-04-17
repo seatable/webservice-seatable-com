@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/uebersicht-alle-spaltentypen'
 seo:
     title: 'Todos os tipos de coluna no SeaTable – funcionalidades'
-    description: 'Veja todos os 25 tipos de coluna disponíveis no SeaTable: texto, número, arquivos, seleções, fórmulas e relações entre tabelas, dicas de uso.'
+    description: 'Veja todos os 26 tipos de coluna disponíveis no SeaTable: texto, número, arquivos, seleções, fórmulas e relações entre tabelas, dicas de uso.'
 star: true
 weight: 1
 ---
@@ -21,7 +21,7 @@ No SeaTable, pode guardar informações e dados numa grande variedade de formato
 - Com os campos de selecção, pode dividir os seus dados em categorias definidas e as funções de validação integradas (por exemplo, URL, dados de posição) asseguram que as suas entradas estão num formato uniforme e directamente avaliável.
 - Com as fórmulas pode efectuar operações aritméticas e com as ligações cria relações entre entradas de diferentes tabelas que permitem operações poderosas na base de dados.
 
-Conheça aqui os 25 tipos de colunas diferentes do SeaTables!
+Conheça aqui os 26 tipos de colunas diferentes do SeaTables!
 
 ## Colunas com introdução manual de dados
 
@@ -131,6 +131,14 @@ Uma coluna de avaliação permite-lhe **classificar** os seus registos para lhes
 
 [Mais informações sobre a coluna de avaliação]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
 
+### Número de telefone
+
+Símbolo: {{< seatable-icon icon="dtable-icon-telephone" >}} **Número de telefone**
+
+SeaTable tem o seu próprio tipo de coluna para números de telefone. Em comparação com uma coluna de texto normal, a coluna de número de telefone oferece a vantagem de poder **ligar para um número de telefone** com um clique do rato.
+
+[Mais informações sobre a coluna de número de telefone]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
+
 ### Fórmula
 
 Símbolo: {{< seatable-icon icon="dtable-icon-formula" >}} **Fórmula**
@@ -195,7 +203,7 @@ Para além dos tipos de colunas em que o utilizador como utilizador introduz dad
 
 Símbolo: {{< seatable-icon icon="dtable-icon-creator" >}} **Criador**
 
-O SeaTable documenta automaticamente o **nome do utilizador** que criou a linha na coluna do criador.
+SeaTable documenta automaticamente o **nome do utilizador** que criou a linha na coluna do criador.
 
 [Mais informações sobre a coluna do criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})
 
@@ -203,7 +211,7 @@ O SeaTable documenta automaticamente o **nome do utilizador** que criou a linha 
 
 Símbolo: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Tempo criado**
 
-O SeaTable documenta automaticamente **a data e a hora em que a linha foi criada** na coluna Tempo criado. A data e a hora são exibidas no formato AAAA-MM-DD HH:MM.
+SeaTable documenta automaticamente **a data e a hora em que a linha foi criada** na coluna Tempo criado. A data e a hora são exibidas no formato AAAA-MM-DD HH:MM.
 
 [Mais informações sobre a coluna Tempo criado]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})
 
@@ -211,7 +219,7 @@ O SeaTable documenta automaticamente **a data e a hora em que a linha foi criada
 
 Símbolo: {{< seatable-icon icon="dtable-icon-creator" >}} **Último modificador**
 
-O SeaTable documenta automaticamente o **nome do utilizador** que fez a **última alteração** a uma entrada na coluna do Último modificador. Uma vez que a coluna regista automaticamente as alterações às entradas, é bem adequada, por exemplo, como gatilho para automatismos, bem como para filtros e ordenação.
+SeaTable documenta automaticamente o **nome do utilizador** que fez a **última alteração** a uma entrada na coluna do Último modificador. Uma vez que a coluna regista automaticamente as alterações às entradas, é bem adequada, por exemplo, como gatilho para automatismos, bem como para filtros e ordenação.
 
 [Mais informações sobre a coluna Último modificador]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
@@ -219,7 +227,7 @@ O SeaTable documenta automaticamente o **nome do utilizador** que fez a **últim
 
 Símbolo: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Último tempo modificado**
 
-O SeaTable documenta **a data e a hora da última alteração de uma entrada** na coluna Último tempo modificado. A data e a hora são apresentadas no formato AAAA-MM-DD HH:MM. Uma vez que a coluna regista automaticamente as alterações às entradas, é adequada como acionador de automatismos, bem como para filtros e ordenação.
+SeaTable documenta **a data e a hora da última alteração de uma entrada** na coluna Último tempo modificado. A data e a hora são apresentadas no formato AAAA-MM-DD HH:MM. Uma vez que a coluna regista automaticamente as alterações às entradas, é adequada como acionador de automatismos, bem como para filtros e ordenação.
 
 [Mais informações sobre a coluna Último tempo modificado]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 

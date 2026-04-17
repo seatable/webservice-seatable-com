@@ -18,7 +18,7 @@ A **Vista de linha de tempo** permite-lhe visualizar diferentes períodos de tem
 
 {{< warning type="warning" headline="Requirements" >}}
 
-Este tipo de vista apresenta **intervalos de tempo**. Por conseguinte, necessita de **duas** [colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) numa tabela que define o **início** e o **fim** dos períodos de tempo. O resultado é um **gráfico de Gantt**.
+Este tipo de vista apresenta **intervalos de tempo**. Por conseguinte, necessita de **duas** [colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) numa tabela que define o **início** e o **fim** dos períodos de tempo.
 
 {{< /warning >}}
 

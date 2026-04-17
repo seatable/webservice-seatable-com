@@ -134,7 +134,7 @@ In addition to these four categories, there are also more niche low-code platfor
 
 In SeaTable, you can configure processes and applications conveniently via a graphical user interface in the browser. Thanks to the visual elements, you do not need a single line of code, which makes SeaTable a [no-code solution]({{< relref "/" >}}). However, SeaTable also allows the execution of manually programmed JavaScript and Python scripts. This option is more in line with the low-coding approach, which means that SeaTable could also be described as a low-code development platform.
 
-The classification into a category is also not clear: On the one hand, SeaTable is a **no-code database** in which you can store, organize and visualize almost any type of information. You can use 25 different column types, plugins such as gallery, Kanban, map or calendar, views with filter, sorting and grouping functions as well as statistics and web forms.
+The classification into a category is also not clear: On the one hand, SeaTable is a **no-code database** in which you can store, organize and visualize almost any type of information. You can use 26 different column types, plugins such as gallery, Kanban, map or calendar, views with filter, sorting and grouping functions as well as statistics and web forms.
 
 SeaTable also offers a **No Code App Builder**, which you can use to build your own apps without any programming knowledge. An app accesses the information in the database backend and displays it optimally for the end user. For the app design, there are ready-made page types with visual elements that you can simply drag and drop together.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Coloring cells'
+title: 'Coloring cells in table views'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -9,12 +9,12 @@ url: '/help/color-cells'
 aliases:
     - '/help/einfaerben-von-zellen'
 seo:
-    title: 'Color Cells in SeaTable Based on Rules and Values'
+    title: 'Color Cells in Table Views in SeaTable Based on Rules and Values'
     description: 'Learn to color cells in SeaTable using custom rules or values for easy data analysis and visual highlights. Step-by-step instructions included.'
 weight: 28
 ---
 
-Unlike Excel, you can't just color cells arbitrarily in SeaTable, you have to color them either by **rules** you set or based on the **values** in a **column**. Sounds complicated? But it isn't.
+Unlike Excel, you can't just color cells arbitrarily in table views in SeaTable, you have to color them either by **rules** you set or based on the **values** in a **column**. Sounds complicated? But it isn't.
 
 {{< warning  headline="Note" >}}
 
@@ -24,7 +24,7 @@ In addition to the **Color cells** option, there is also the possibility to [mar
 
 ## Coloring by rules or by values
 
-Each column offers the option **Format cells of the column** an:  
+Each column of a table view offers the option **Color column cells**:  
 ![Column formatting option shown in SeaTable](images/color-cells.png)
 
 SeaTable will behave differently depending on the **column type** for which you call this option. For [number columns]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), you can use both rules and values for coloring. For all other column types, only the rules for coloring are available.
@@ -36,7 +36,7 @@ SeaTable will behave differently depending on the **column type** for which you 
 ![Example: Coloring cells using a rule](images/einfaerben-von-zellen-beispiel-1-1.gif)
 
 1. Click the **triangle icon** in the table header of a column.
-2. Select the **Format cells of the column** option.
+2. Select the **Color column cells** option.
 3. Go to **Use rules**.
 4. Click **Add Rule**.
 5. Click on the newly appeared row to define the rule.
@@ -63,7 +63,7 @@ You can also define **several conditions** per rule, which can apply to all colu
 ![Example: Coloring cells based on values in SeaTable](images/einfaerben-von-zellen-beispiel-2-1.gif)
 
 1. Click the **triangle icon** in the table header of a column.
-2. Select the **Format cells of the column** option.
+2. Select the **Color column cells** option.
 3. Go to **Use values**.
 4. Click on the **color selector** to choose from more colors
 5. Decide from which and up to which **value** you want to format the cells.
@@ -80,7 +80,7 @@ This type of coloring helps you to quickly and easily make **outliers** (i.e. pa
 ![Example: Highlight duplicate values in a column](images/einfaerben-von-zellen-beispiel-3.gif)
 
 1. Click the **triangle icon** in the table header of a column.
-2. Select the **Format cells of the column** option.
+2. Select the **Color column cells** option.
 3. Go to **Highlight Duplicates**.
 
 Using the **Highlight Duplicates** option, you can quickly find identical values in a column.

@@ -12,8 +12,7 @@ In dieser Anleitung erstellen Sie eine Automation mit der Aktion **KI aufrufen**
 
 ## Voraussetzungen
 
-- SeaTable **Enterprise** Abo (Cloud oder Self-Hosted)
-- Mindestens SeaTable **Version 6.0**
+- Mindestens SeaTable (Cloud oder Server) **Version 6.0**
 - Eine Base mit einer Tabelle, die Textdaten enthält
 
 {{< warning headline="Hinweis für Self-Hosted-Kunden" >}}

@@ -61,6 +61,20 @@ Também pode **aumentar** ou **diminuir** o **período de tempo** diretamente na
 
 Também pode **mover** convenientemente entradas na linha de tempo **utilizando a função arrastar e largar**. O SeaTable ajusta automaticamente os respectivos **valores de data**.
 
+## Definições da coluna de ligações
+
+Nas **opções da coluna de ligação**, é possível especificar quais os dados visíveis e quais as operações permitidas para cada tabela ligada.
+
+![Ligar definições de coluna em páginas de linha do tempo nas aplicações](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
+- **Adicionar e ligar novos registos**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
+- **Ligar registos existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis**.
+- **Limitar as ligações a um registro máximo**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
+- **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que satisfazem as condições do filtro serão apresentadas ao ligar as entradas.
+- **Ativar** a função de grandes volumes de dados: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
+- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
+
 ## Autorizações de páginas
 
 Na parte inferior das definições da página, pode restringir quem pode **ver** a página da linha do tempo e **editar** entradas. Não é possível adicionar ou eliminar linhas através das páginas da linha do tempo.

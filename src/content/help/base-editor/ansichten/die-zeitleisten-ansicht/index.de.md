@@ -18,7 +18,7 @@ Die **Zeitleisten-Ansicht** ermöglicht Ihnen die Darstellung verschiedener Zeit
 
 {{< warning  type="warning" headline="Voraussetzungen" >}}
 
-Dieser Ansichtstyp bildet **Zeitspannen** ab. Deshalb benötigen Sie **zwei** [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in einer Tabelle, die den **Beginn** und das **Ende** der Zeiträume definieren. Das Ergebnis ist ein **Gantt-Diagramm**.
+Dieser Ansichtstyp bildet **Zeitspannen** ab. Deshalb benötigen Sie **zwei** [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in einer Tabelle, die den **Beginn** und das **Ende** der Zeiträume definieren.
 
 {{< /warning >}}
 

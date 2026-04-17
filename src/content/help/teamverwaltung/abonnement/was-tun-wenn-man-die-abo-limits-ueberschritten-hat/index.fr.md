@@ -35,6 +35,4 @@ Si vous ne souhaitez pas passer à une formule d'abonnement plus complète, vous
 
 - [Suppression d'une base]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Vider la corbeille dans l'administration d'équipe]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
-- [Supprimer un tableau d'une base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
-- [Suppression d'une ligne]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Importation et exportation de données]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

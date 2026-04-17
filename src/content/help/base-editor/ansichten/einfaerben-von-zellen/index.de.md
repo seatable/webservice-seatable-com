@@ -1,5 +1,5 @@
 ---
-title: 'Einfärben von Zellen'
+title: 'Einfärben von Zellen in Tabellenansichten'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -7,12 +7,12 @@ categories:
 author: 'vge'
 url: '/de/hilfe/einfaerben-von-zellen'
 seo:
-    title: 'Einfärben von Zellen in SeaTable nach Regeln und Werten'
+    title: 'Einfärben von Zellen in Tabellenansichten von SeaTable nach Regeln und Werten'
     description: 'Lerne, wie du Zellen in SeaTable durch Regeln oder Werte einfärbst und mit Farbmarkierungen Daten besser analysierst. Schritt-für-Schritt Anleitung.'
 weight: 28
 ---
 
-Im Gegensatz zu Excel können Sie Zellen in SeaTable nicht einfach beliebig einfärben, sondern müssen sie entweder durch von Ihnen festgelegte **Regeln** oder auf Basis der **Werte** in einer **Spalte** einfärben. Hört sich kompliziert an? Ist es aber nicht.
+Im Gegensatz zu Excel können Sie Zellen in Tabellenansichten von SeaTable nicht einfach beliebig einfärben, sondern müssen sie entweder durch von Ihnen festgelegte **Regeln** oder auf Basis der **Werte** in einer **Spalte** einfärben. Hört sich kompliziert an? Ist es aber nicht.
 
 {{< warning  headline="Hinweis" >}}
 
@@ -22,7 +22,7 @@ Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen fa
 
 ## Einfärben durch Regeln oder nach Werten
 
-Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Menüoption „Zellen der Spalte formatieren“ in SeaTable](images/color-cells.png)
+Jede Spalte einer Tabellenansicht bietet die Option **Zellen der Spalte formatieren** an: ![Menüoption „Zellen der Spalte formatieren“ in SeaTable](images/color-cells.png)
 
 Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
 

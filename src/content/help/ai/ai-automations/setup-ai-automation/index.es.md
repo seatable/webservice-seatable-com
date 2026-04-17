@@ -12,8 +12,7 @@ En esta guía creará una automatización con la acción **Ejecutar IA**. Una ve
 
 ## Requisitos previos
 
-- Suscripción SeaTable **Enterprise** (Cloud o autoalojado)
-- SeaTable **versión 6.0** o superior
+- SeaTable (Cloud o Server) **versión 6.0** o superior
 - Una base con una tabla que contenga datos de texto
 
 {{< warning headline="Nota para clientes autoalojados" >}}

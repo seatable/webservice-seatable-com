@@ -79,12 +79,12 @@ En **la configuración de la columna de enlace**, puede especificar qué datos s
 ![Configuración de columnas de enlace en páginas de tablas en SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Configuración de campos**: Aquí puede definir exactamente a qué columnas se aplican las siguientes autorizaciones.
-- **Crear y vincular nuevas entradas**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para especificar qué columnas son **necesarias**, es decir, deben rellenarse.
-- **Enlazar entradas existentes**: Si activa este control deslizante, los usuarios pueden vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
+- **Añadir y vincular nuevos registros**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para especificar qué columnas son **necesarias**, es decir, deben rellenarse.
+- **Vincular registros existentes**: Si activa este control deslizante, los usuarios pueden vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
 - **Filtros predefinidos**: Si añade aquí un filtro, al vincular las entradas sólo se mostrarán las opciones que cumplan las condiciones del filtro.
-- **Activar función de grandes datos**: Si la función Big Data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya esta cantidad de entradas en la tabla vinculada.
+- **Activar la función de big data**: Si la función Big Data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya esta cantidad de entradas en la tabla vinculada.
 - **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada a la vez en las celdas de la columna de enlace.
-- **Editar entradas enlazadas**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **editables**.
+- **Modificar registros enlazados**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **editables**.
 
 ## Evitar que se añadan duplicados
 

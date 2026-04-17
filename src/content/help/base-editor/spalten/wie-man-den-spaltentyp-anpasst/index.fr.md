@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Selon les **valeurs** que vous souhaitez saisir dans SeaTable, vous pouvez leur attribuer différents **types de colonnes**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) un aperçu des 25 types de colonnes de SeaTable.
+Selon les **valeurs** que vous souhaitez saisir dans SeaTable, vous pouvez leur attribuer différents **types de colonnes**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) un aperçu des 26 types de colonnes de SeaTable.
 
 Il est encore possible de modifier le type de colonne après coup. Vous apprendrez ici comment **adapter** le type de colonne **ultérieurement**.
 
@@ -31,7 +31,7 @@ Il est encore possible de modifier le type de colonne après coup. Vous apprendr
 
 ## Personnaliser la première colonne
 
-La **première colonne** d'un tableau ne prend en charge **que 6 des 25 types de colonnes**. Il s'agit de :
+La **première colonne** d'un tableau ne prend en charge **que 6 des 26 types de colonnes**. Il s'agit de :
 
 - [Texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
 - [Nombre]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})

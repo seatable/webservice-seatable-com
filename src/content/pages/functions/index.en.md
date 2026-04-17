@@ -30,7 +30,7 @@ sections:
             icon: toggle-off
 
           - headline: Column types
-            text: SeaTable can handle all types of information. Do not limit yourself to text and numbers. A total of 25 different column types are available.
+            text: SeaTable can handle all types of information. Do not limit yourself to text and numbers. A total of 26 different column types are available.
             icon: medal
 
           - headline: Views

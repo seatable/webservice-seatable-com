@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Dependendo dos **valores** que pretende registar no SeaTable, pode atribuir-lhes diferentes **tipos de colunas**. Pode encontrar uma síntese de todos os 25 tipos de colunas no SeaTable [aqui]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
+Dependendo dos **valores** que pretende registar no SeaTable, pode atribuir-lhes diferentes **tipos de colunas**. Pode encontrar uma síntese de todos os 26 tipos de colunas no SeaTable [aqui]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
 
 É possível modificar o tipo de coluna numa data posterior. Aqui pode descobrir como **alterar** o tipo de coluna **retrospetivamente**.
 
@@ -31,7 +31,7 @@ Dependendo dos **valores** que pretende registar no SeaTable, pode atribuir-lhes
 
 ## Ajustar a primeira coluna
 
-A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**. Estes são
+A **primeira coluna** de uma tabela suporta **apenas 6 dos 26 tipos de coluna**. Estes são
 
 - [Texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
 - [Número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})

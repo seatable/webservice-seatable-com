@@ -10,25 +10,27 @@ aliases:
   - '/fr/aide/farbliche-markierung-von-zeilen'
 seo:
     title: 'Couleur des lignes dans SeaTable : méthode & exemples'
-    description: 'Colorez des lignes pour la gestion des statuts ou des doublons : sélection unique, règles personnalisées ou surbrillance automatique pour vos bases SeaTable.'
+    description: 'Colorez des lignes pour la gestion des statuts ou des doublons : sélection unique, règles personnalisées ou surbrillance automatique pour vos bases SeaTable.'
 weight: 27
 ---
 
-L'**outil de formatage des lignes** vous permet d'ajouter des marques de couleur au **début des lignes**. Le **marquage des lignes en couleur** sert à identifier rapidement certains enregistrements. Il ne faut pas confondre cela avec le [coloriage des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), qui permet de mettre en évidence certaines cellules.
+Le **marquage des lignes en couleur** sert à identifier rapidement certains enregistrements. Il ne faut pas confondre cela avec le [coloriage des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), qui permet de mettre en évidence certaines cellules.
 
-## L'outil de mise en forme des lignes
+## L'outil de couleurs de ligne
 
-Dans les options d'affichage au-dessus d'un tableau, vous trouverez l'icône suivante :
+Dans les options de vue au-dessus d'un tableau, vous trouverez l'icône suivante :
 
 ![Outil de maculage coloré](images/Farbliche-Markierung-von-Zellen-1.png)
 
-Après avoir cliqué sur l'outil de mise en forme des lignes, vous pouvez choisir entre **trois options** pour le marquage en couleur :
+Après avoir cliqué sur l'outil de couleurs de ligne, vous pouvez choisir entre **trois options** pour le marquage en couleur :
 
 - Utiliser une colonne de sélection unique
 - Utiliser des règles
 - Mettre en évidence les doublons
 
 ![Marquage couleur des cellules](images/Farbliche-Markierung-von-Zellen-2.png)
+
+L'outil de couleurs de ligne est disponible non seulement dans les vues de tableau, mais aussi dans les [vues de calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) et de [chronologie]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}). Cependant, pour ces dernières, vous ne pouvez utiliser que des colonnes de sélection unique pour définir la couleur des lignes.
 
 ## Utiliser une colonne de sélection unique
 

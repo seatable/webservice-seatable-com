@@ -10,7 +10,7 @@ aiases:
     - '/es/ayuda/uebersicht-alle-spaltentypen'
 seo:
     title: 'Tipos de columna en SeaTable: guía rápida de funciones'
-    description: 'Conozca los 25 tipos de columna en SeaTable: texto, número, archivo, selección, fórmulas y relaciones. Explicación breve y ejemplos prácticos.'
+    description: 'Conozca los 26 tipos de columna en SeaTable: texto, número, archivo, selección, fórmulas y relaciones. Explicación breve y ejemplos prácticos.'
 star: true
 weight: 1
 ---
@@ -21,7 +21,7 @@ En SeaTable puedes guardar información y datos en una gran variedad de formatos
 - Con los campos de selección, puede dividir sus datos en categorías definidas y las funciones de validación integradas (por ejemplo, URL, datos de posición) garantizan que sus entradas tengan un formato uniforme y directamente evaluable.
 - Con las fórmulas se pueden realizar operaciones aritméticas y con los enlaces se crean relaciones entre entradas de distintas tablas que permiten realizar potentes operaciones con la base de datos.
 
-Conozca aquí los 25 tipos de columnas de SeaTables.
+Conozca aquí los 26 tipos de columnas de SeaTables.
 
 ## Columnas con entrada de datos manual
 
@@ -130,6 +130,14 @@ Símbolo: {{< seatable-icon icon="dtable-icon-rate" >}} **Calificación**
 Una columna de calificación le permite **calificar** sus registros para darles un **rango** o **puntuación de calidad**. Puede seleccionar una escala de valoración del 1 al 10 y elegir entre diferentes colores y formas. Esto permite evaluar y puntuar los datos de forma rápida y sencilla para que todo el mundo lo entienda.
 
 [Más información sobre la columna de calificación]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+
+### Número de teléfono
+
+Símbolo: {{< seatable-icon icon="dtable-icon-telephone" >}} **Número de teléfono**
+
+SeaTable tiene su propio tipo de columna para números de teléfono. En comparación con una columna de texto normal, la columna de número de teléfono ofrece la ventaja de que puede **llamar a un número de teléfono** con un clic del ratón.
+
+[Más información sobre la columna de número de teléfono]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 
 ### Fórmula
 

@@ -53,3 +53,17 @@ Filter rules can also be linked with the two Boolean operators AND and OR. With 
 The settings you have made using filters, grouping and sorting are saved in the current view. If you want to save them for future use, you can lock the [view]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) so that no one changes the view.
 
 {{< warning headline="Important note" text="With filters, groupings and sorting, you only change how the data is displayed in your view! The data basis remains unchanged. So if data records have disappeared, check whether you are in the correct view or whether you have hidden data records with a filter." />}}
+
+## Differences depending on view type
+
+Not all [view types]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) allow grouping, sorting and filtering in the same way. Get an overview with the help of this table:
+
+| View type | Filter | Sort | Group |
+| ------------------ | ------------------------------ | ------------------------------ | -------------------------- |
+| **Table** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Kanban** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Calendar** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Gallery** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Timeline** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Tree** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Big Data** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |

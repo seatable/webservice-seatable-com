@@ -12,7 +12,7 @@ seo:
 
 ---
 
-Je nachdem, welche **Werte** Sie in SeaTable erfassen möchten, können Sie diesen verschiedene **Spaltentypen** zuordnen. Eine Übersicht über alle 25 Spaltentypen in SeaTable finden Sie [hier]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+Je nachdem, welche **Werte** Sie in SeaTable erfassen möchten, können Sie diesen verschiedene **Spaltentypen** zuordnen. Eine Übersicht über alle 26 Spaltentypen in SeaTable finden Sie [hier]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
 ).
 
 Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie, wie Sie den Spaltentyp **nachträglich anpassen** können.
@@ -30,7 +30,7 @@ Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie
 
 ## Anpassen der ersten Spalte
 
-Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**. Diese sind:
+Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 26 Spaltentypen**. Diese sind:
 
 - [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
 - [Zahl]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})

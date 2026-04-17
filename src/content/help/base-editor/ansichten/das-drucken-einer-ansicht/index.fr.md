@@ -16,6 +16,15 @@ weight: 10
 
 Différentes **vues** peuvent faciliter le travail avec des tableaux qui contiennent beaucoup d'informations. Ces vues peuvent en outre être **imprimées**.
 
+## Disponibilité de la fonction d'impression
+
+La fonction d'impression est disponible dans les types de vues suivants :
+
+- [Vue de tableau]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Vue calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}})
+- [Vue chronologique]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}})
+- [Vue de big data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}})
+
 ## Imprimer une vue
 
 ![Imprimer une vue](images/print-view.gif)

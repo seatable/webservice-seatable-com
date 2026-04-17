@@ -18,7 +18,7 @@ La vue **Ligne de temps** vous permet de visualiser différentes périodes de te
 
 {{< warning type="avertissement" headline="conditions" >}}
 
-Ce type de vue affiche **des périodes de temps**. Vous avez donc besoin de **deux** [colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans un tableau qui définissent le **début** et la **fin** des périodes. Le résultat est un **graphique de Gantt**.
+Ce type de vue affiche **des périodes de temps**. Vous avez donc besoin de **deux** [colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans un tableau qui définissent le **début** et la **fin** des périodes.
 
 {{< /warning >}}
 

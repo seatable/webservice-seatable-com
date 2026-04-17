@@ -10,7 +10,7 @@ aliases:
     - '/help/uebersicht-alle-spaltentypen'
 seo:
     title: 'Overview of All Column Types in SeaTable – Functions Explained'
-    description: 'Discover all 25 column types in SeaTable: text, number, file, selection fields, formulas, relations and more. Key features and best use cases included.'
+    description: 'Discover all 26 column types in SeaTable: text, number, file, selection fields, formulas, relations and more. Key features and best use cases included.'
 star: true
 weight: 1
 ---
@@ -18,10 +18,10 @@ weight: 1
 In SeaTable you can store information and data in a wide variety of formats.
 
 - In addition to simple, text-based information (e.g. words, numbers, monetary amounts), SeaTable also supports the storage of complex information (e.g. files, images, long text including inserted elements).
-- select fields allow you to divide your data into defined categories, and integrated validation functions (e.g. URL, position data) ensure that your entries are in a consistent, directly analyzable format.
+- Select fields allow you to divide your data into defined categories, and integrated validation functions (e.g. URL, position data) ensure that your entries are in a consistent, directly analyzable format.
 - With formulas you can perform arithmetic operations and with links you create relations between records of different tables that allow powerful database operations.
 
-Get to know SeaTables 25 different column types here!
+Get to know SeaTables 26 different column types here!
 
 ## Columns types with manual data entry
 
@@ -130,6 +130,14 @@ Icon: {{< seatable-icon icon="dtable-icon-rate" >}} **Rating**
 A rating column allows you to **classify** your records in order to **rank** them or give them a **quality score**. You can select a rating scale from 1 to 10 and choose between different colors and shapes. This allows data to be assessed and rated quickly and easily for everyone to understand.
 
 [More about the rating column]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+
+### Phone number
+
+Icon: {{< seatable-icon icon="dtable-icon-telephone" >}} **Phone number**
+
+SeaTable has its own column type for phone numbers. Compared to a regular text column, the phone number column offers the advantage that you can **call a phone number** with a mouse click.
+
+[More about the phone number column]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 
 ### Formula
 

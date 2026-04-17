@@ -35,6 +35,4 @@ If you don't want to switch to a more extensive subscription package, your only 
 
 - [Delete a base]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Empty the trash in the team administration]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
-- [Delete a table from a base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
-- [Delete a row]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Data import and export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

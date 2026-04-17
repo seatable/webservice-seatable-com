@@ -53,3 +53,17 @@ SeaTable предлагает различные методы анализа и 
 Настройки, которые Вы сделали с помощью фильтров, группировки и сортировки, всегда сохраняются в текущем представлении. Если Вы хотите сохранить их для дальнейшего использования, Вы можете заблокировать [вид]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}), чтобы никто не мог изменить вид.
 
 {{< warning headline="Важное замечание" text="С помощью фильтров, группировок и сортировки Вы изменяете только то, как данные отображаются в Вашем представлении! Основа данных остается неизменной. Поэтому, если записи данных исчезли, проверьте, находитесь ли Вы в правильном представлении или не скрыли ли Вы записи данных с помощью фильтра." />}}
+
+## Различия в зависимости от типа представления
+
+Не все [типы представлений]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) одинаково поддерживают группировку, сортировку и фильтрацию. Ознакомьтесь с обзором в этой таблице:
+
+| Тип представления | Фильтровать | Сортировать | Группировать |
+| ------------------ | ------------------------------ | ------------------------------ | -------------------------- |
+| **Таблица** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Канбан** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Календарь** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Галерея** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Временная шкала** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Дерево** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Большие данные** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |

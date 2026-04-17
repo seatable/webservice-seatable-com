@@ -1,5 +1,5 @@
 ---
-title: 'Colorer des cellules'
+title: 'Colorer des cellules dans les vues de tableau'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -9,12 +9,12 @@ url: '/fr/aide/colorer-cellules'
 aliases:
     - '/fr/aide/einfaerben-von-zellen'
 seo:
-    title: 'Colorer les cellules dans SeaTable selon règles et valeurs'
+    title: 'Colorer les cellules dans les vues de tableau de SeaTable selon règles et valeurs'
     description: 'Découvrez comment colorer des cellules dans SeaTable en fonction de règles ou valeurs et améliorez votre analyse de données. Guide expliqué étapes.'
 weight: 28
 ---
 
-Contrairement à Excel, vous ne pouvez pas colorer les cellules de SeaTable comme bon vous semble, mais vous devez les colorer soit en fonction de **règles** que vous avez définies, soit en fonction des **valeurs** d'une **colonne**. Cela vous semble compliqué ? Mais ce n'est pas le cas.
+Contrairement à Excel, vous ne pouvez pas colorer les cellules dans les vues de tableau de SeaTable comme bon vous semble, mais vous devez les colorer soit en fonction de **règles** que vous avez définies, soit en fonction des **valeurs** d'une **colonne**. Cela vous semble compliqué ? Mais ce n'est pas le cas.
 
 {{< warning  headline="Remarque" >}}
 
@@ -24,7 +24,7 @@ En plus de l'option **Colorer les cellules**, il est également possible de [mar
 
 ## Coloration par des règles ou selon des valeurs
 
-Chaque colonne offre l'option **Formater les cellules de la colonne** à :  
+Chaque colonne dans une vue de tableau offre l'option **Formater les cellules de la colonne** :  
 ![Option de mise en forme de colonne dans SeaTable](images/color-cells.png)
 
 SeaTable se comportera différemment selon le **type de colonne** pour lequel vous appelez cette option. Pour les [colonnes de chiffres]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), vous pouvez utiliser à la fois les règles et les valeurs de coloration. Pour tous les autres types de colonnes, vous ne pouvez utiliser que les règles de coloration.

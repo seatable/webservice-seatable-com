@@ -117,6 +117,20 @@ In der Toolbar finden Sie außerdem einen **QR-Code-Generator**. Der QR-Code ent
 
 Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) nutzen. Ob Sie ein PDF-Dokument erstellen, einen Datensatz bearbeiten oder ein Skript ausführen möchten – all diese **Schaltflächen-Aktionen** können Sie per Knopfdruck starten. Eine Bearbeitungsberechtigung ist dafür **nicht** notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen beschränken.
 
+## Einstellungen der Verknüpfungsspalte
+
+In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sichtbar und welche Operationen erlaubt sind.
+
+![Link column settings on single record pages](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Feldeinstellungen**: Hier können Sie genau definieren, für welche Spalten die folgenden Berechtigungen gelten.
+- **Hinzufügen neuer Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** und welche Spalten **erforderlich** sind, also ausgefüllt werden müssen.
+- **Verknüpfen bestehender Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle verlinken. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
+- **Verknüpfungen auf maximal eine Zeile begrenzen**: Wenn Sie diesen Regler aktivieren, können Nutzer in den Zellen der Verknüpfungsspalte nur noch jeweils eine Zeile der verknüpften Tabelle verlinken.
+- **Voreingestellte Filter**: Wenn Sie hier einen Filter hinzufügen, werden beim Verlinken von Einträgen nur Optionen angezeigt, die die Filterbedingungen erfüllen.
+- **Big-Data-Funktion aktivieren**: Wenn die Big-Data-Funktion aktiviert ist, können Nutzer mehr als 20.000 Datensätze durchsuchen, sofern in der verknüpften Tabelle so viele Einträge vorhanden sind.
+- **Verknüpfte Einträge bearbeiten**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle bearbeiten. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **bearbeitbar** sind.
+
 ## Seitenberechtigungen
 
 Für Seiten vom Typ Einzelner Datensatz können Sie folgende [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) festlegen:

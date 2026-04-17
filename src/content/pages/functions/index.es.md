@@ -29,7 +29,7 @@ sections:
             icon: toggle-off
 
           - headline: Tipos de columnas
-            text: SeaTable puede manejar todo tipo de información. No se limite a texto y números. Hay un total de 25 tipos diferentes de columnas disponibles.
+            text: SeaTable puede manejar todo tipo de información. No se limite a texto y números. Hay un total de 26 tipos diferentes de columnas disponibles.
             icon: medal
 
           - headline: Vistas

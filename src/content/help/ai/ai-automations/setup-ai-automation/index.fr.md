@@ -12,8 +12,7 @@ Dans ce guide, vous allez créer une automatisation avec l'action **Exécuter l'
 
 ## Prérequis
 
-- Abonnement SeaTable **Enterprise** (Cloud ou auto-hébergé)
-- SeaTable **version 6.0** ou supérieure
+- SeaTable (Cloud ou Server) **version 6.0** ou supérieure
 - Une base contenant une table avec des données textuelles
 
 {{< warning headline="Note pour les clients auto-hébergés" >}}

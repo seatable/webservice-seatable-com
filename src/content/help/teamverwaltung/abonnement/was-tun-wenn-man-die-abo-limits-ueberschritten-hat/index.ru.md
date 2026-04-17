@@ -35,6 +35,4 @@ seo:
 
 - [Удаление базы]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Очистка корзины в командной администрации]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
-- [Удаление таблицы из базы]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
-- [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Импорт и экспорт данных]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

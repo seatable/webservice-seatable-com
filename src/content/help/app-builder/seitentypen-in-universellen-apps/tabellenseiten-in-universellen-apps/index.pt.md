@@ -79,12 +79,12 @@ Nas **opções da coluna de ligação**, é possível especificar quais os dados
 ![Ligar definições de coluna em páginas de tabela nas aplicações](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
 - **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
-- **Criar e ligar novas entradas**: Se ativar esta barra, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para especificar que colunas são **obrigatórias**, ou seja, têm de ser preenchidas.
-- **Ligar entradas existentes**: Se ativar esta barra, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **visíveis**.
+- **Adicionar e ligar novos registos**: Se ativar esta barra, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para especificar que colunas são **obrigatórias**, ou seja, têm de ser preenchidas.
+- **Ligar registos existentes**: Se ativar esta barra, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **visíveis**.
 - **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que cumprem as condições do filtro são apresentadas ao ligar entradas.
 - **Ativar a função de Big Data**: Se a função Big Data estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
 - **Limitar as ligações a um registro máximo**: Se ativar este seletor, os utilizadores só podem ligar uma linha da tabela ligada de cada vez nas células da coluna de ligação.
-- **Editar entradas ligadas**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
+- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
 
 ## Impedir a adição de duplicados
 
