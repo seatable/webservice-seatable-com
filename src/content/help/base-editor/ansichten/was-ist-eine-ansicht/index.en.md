@@ -31,13 +31,15 @@ You can also select certain display formats to visualize the data in an appealin
 - Kanban view
 - Calendar view
 - Gallery view
+- Timeline view
+- Tree view
 - Big Data view
 
 It is important to understand that a view is just another way of looking at **the same underlying data**! This means that if you edit the data of a table in one view, this data will change in all views of the table, as all views represent the same data set.
 
 {{< warning type="warning" headline="Note" >}}
 
-You can use other display formats such as an organization chart, tree or map in the form of [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+You can use other display formats such as an organization chart or map in the form of [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 {{< /warning >}}
 
@@ -72,6 +74,22 @@ If you have a table with an **image column**, you can create a gallery view to i
 ![The gallery view](images/gallery-view.jpg)
 
 You can find out more about this in the article about the [Gallery view]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}).
+
+## The Timeline view
+
+If you have a table with **two date columns**, you can create a timeline view that visualizes various time spans on a **timeline**. It is particularly suitable for displaying the sequence of processes or checking whether time periods **overlap** – for example in vacation planning, project plans or room bookings.
+
+![The timeline view](images/timeline-view.jpg)
+
+You can find out more about this in the article about the [Timeline view]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
+
+## The Tree view
+
+If you have a base with **at least two linked tables**, you can create a tree view to display linked records **hierarchically**. It is particularly suitable for visualizing complex structures such as project portfolios or organizational hierarchies – with up to three levels in the tree diagram.
+
+![The tree view](images/tree-view.jpg)
+
+You can find out more about this in the article about the [Tree view]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}).
 
 ## The Big Data view
 

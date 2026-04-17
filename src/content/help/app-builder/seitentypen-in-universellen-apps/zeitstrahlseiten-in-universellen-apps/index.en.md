@@ -61,6 +61,20 @@ You can also **extend** or **shorten** the **time span** directly on the timelin
 
 You can also conveniently **move** entries on the timeline **using drag-and-drop**. SeaTable automatically adjusts the respective **date values**.
 
+## Link column settings
+
+In the **settings for the link column**, you can define which data is visible and which operations are permitted for each linked table.
+
+![Link column settings on timeline pages in SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Field settings**: Here you can define exactly which columns the following authorizations apply to.
+- **Allow adding new entries**: If you activate this slider, users can add new entries to the linked table. You can use the field settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
+- **Allow linking of existing entries**: If you activate this slider, users can link existing entries in the linked table. You can use the field settings to define which columns are **visible**.
+- Limit **links to a maximum of one row :** If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
+- **Preset filters**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking entries.
+- **Activate big data** function: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
+- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the field settings to define which columns are **editable**.
+
 ## Page authorizations
 
 At the bottom of the page settings, you can restrict who can **see** the timeline page and **edit** entries. You cannot add or delete rows via timeline pages.

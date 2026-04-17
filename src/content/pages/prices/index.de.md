@@ -61,7 +61,7 @@ sections:
                 values: ['25', '∞', '∞', '∞']
               - type: section
                 label: 'Funktionen'
-              - key: '25 Spaltentypen'
+              - key: '26 Spaltentypen'
                 values: ['+', '+', '+', '+']
               - key: 'Filter, Gruppierung und Sortierung'
                 values: ['+', '+', '+', '+']

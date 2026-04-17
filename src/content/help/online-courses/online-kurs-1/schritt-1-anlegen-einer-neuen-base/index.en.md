@@ -73,7 +73,7 @@ Next, we turn to the columns of the table so that our base can record the desire
 
 ---
 
-{{< warning  headline="25 column types"  text="So far you have only seen a fraction of the possible column types. One of SeaTable's greatest strengths is that you can really store any type of information thanks to the 25 column types currently available." />}}
+{{< warning  headline="26 column types"  text="So far you have only seen a fraction of the possible column types. One of SeaTable's greatest strengths is that you can really store any type of information thanks to the 26 column types currently available." />}}
 
 ## Add single selection options
 

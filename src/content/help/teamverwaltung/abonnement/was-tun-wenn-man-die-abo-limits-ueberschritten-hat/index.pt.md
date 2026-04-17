@@ -35,6 +35,4 @@ Se não quiser mudar para um pacote de subscrição mais extenso, só tem a opç
 
 - [Eliminação de uma base]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Esvaziar o caixote do lixo da reciclagem na administração da equipa]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
-- [Eliminar uma tabela de uma base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
-- [Apagar uma linha]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Importação e exportação de dados]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

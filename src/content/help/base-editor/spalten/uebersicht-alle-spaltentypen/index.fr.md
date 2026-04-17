@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/uebersicht-alle-spaltentypen'
 seo:
     title: 'Types de colonnes dans SeaTable : aperçu complet'
-    description: 'Découvrez les 25 types de colonnes SeaTable : texte, nombre, fichier, choix, formules, relations et plus encore. Explications et usages typiques.'
+    description: 'Découvrez les 26 types de colonnes SeaTable : texte, nombre, fichier, choix, formules, relations et plus encore. Explications et usages typiques.'
 star: true
 weight: 1
 ---
@@ -21,7 +21,7 @@ SeaTable permet de stocker des informations et des données dans des formats tr�
 - Les champs de sélection vous permettent de classer vos données dans des catégories définies et les fonctions de validation intégrées (par ex. URL, données de position) garantissent que vos données saisies sont disponibles dans un format uniforme et directement exploitable.
 - Les formules permettent d'effectuer des opérations arithmétiques et les jointures créent des relations entre les entrées de différents tableaux, ce qui permet d'effectuer de puissantes opérations dans la base de données.
 
-Découvrez ici SeaTables 25 types de colonnes différents !
+Découvrez ici SeaTables 26 types de colonnes différents !
 
 ## Colonnes avec saisie manuelle des données
 
@@ -130,6 +130,14 @@ Symbole : {{< seatable-icon icon="dtable-icon-rate" >}} **Classement**
 Une colonne de classement permet de **classer** vos enregistrements afin d'établir un **classement** ou une **évaluation de la qualité**. Vous pouvez choisir une échelle de notation de 1 à 10 et choisir entre différentes couleurs et formes. Les données peuvent ainsi être évaluées et notées rapidement et facilement, de manière compréhensible pour tous.
 
 [En savoir plus sur la colonne Classement]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+
+### Numéro de téléphone
+
+Symbole : {{< seatable-icon icon="dtable-icon-telephone" >}} **Numéro de téléphone**
+
+SeaTable dispose de son propre type de colonne pour les numéros de téléphone. Par rapport à une colonne de texte normale, la colonne de numéro de téléphone offre l'avantage de pouvoir **appeler un numéro de téléphone** d'un simple clic de souris.
+
+[En savoir plus sur la colonne Numéro de téléphone]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 
 ### Formule
 

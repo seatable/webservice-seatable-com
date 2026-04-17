@@ -63,5 +63,3 @@ Uma ordenação activada é automaticamente aplicada às linhas recentemente adi
 Ao aplicar ordenações múltiplas, é possível ordenar registos que tenham a **mesma entrada** numa ordenação anterior. Por exemplo, pode começar por ordenar uma lista de empregados pelas opções "mulheres", "homens", "diversos" utilizando uma única coluna de seleção e, em seguida, ordenar os nomes das mulheres, dos homens e dos diversos por ordem alfabética utilizando uma coluna de texto.
 
 ![Vários sortimentos](images/Mehrere-Sortierungen.png)
-
-{{< warning  headline="Nota"  text="Se utilizar **plug-ins** tais como a galeria ou o quadro Kanban, as ordenações também afectam a ordem das entradas." />}}

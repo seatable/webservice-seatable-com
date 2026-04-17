@@ -78,13 +78,13 @@ Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaq
 
 ![Paramètres de colonne de lien sur les pages de tableau dans les applications](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Paramètres des champs** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
-- **Créer et lier de nouvelles entrées** : Si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres de champ vous permettent de définir quelles colonnes sont **nécessaires**, c'est-à-dire qu'elles doivent être remplies.
-- **Lier des entrées existantes** : Si vous activez ce curseur, les utilisateurs peuvent lier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** dans les paramètres de champ.
+- **Paramètres des colonnes** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
+- **Ajouter et relier de nouveaux enregistrements** : Si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres de champ vous permettent de définir quelles colonnes sont **nécessaires**, c'est-à-dire qu'elles doivent être remplies.
+- **Relier des enregistrements existants** : Si vous activez ce curseur, les utilisateurs peuvent lier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** dans les paramètres de champ.
 - **Filtres prédéfinis** : Si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la liaison d'entrées.
 - **Activer la fonction Big Data** : Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20 000 enregistrements, à condition qu'il y ait autant d'entrées dans le tableau lié.
 - **Limiter les liens à une seule ligne maximum** : Si vous activez ce curseur, les utilisateurs ne pourront lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne de jointure.
-- **Modifier les entrées liées** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
+- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
 
 ## Empêcher l'ajout de doublons
 

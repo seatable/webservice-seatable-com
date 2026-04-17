@@ -62,7 +62,7 @@ sections:
                 values: ['25', '∞', '∞', '∞']
               - type: section
                 label: 'Funcionalidades'
-              - key: '25 tipos de colunas'
+              - key: '26 tipos de colunas'
                 values: ['+', '+', '+', '+']
               - key: 'Filtrar, agrupar e ordenar'
                 values: ['+', '+', '+', '+']

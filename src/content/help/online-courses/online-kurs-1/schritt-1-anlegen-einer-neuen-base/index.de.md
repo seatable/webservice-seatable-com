@@ -71,7 +71,7 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 
 ---
 
-{{< warning  headline="25 Spaltentypen"  text="Bisher haben Sie nur einen Bruchteil der möglichen Spaltentypen kennengelernt. Eine der größten Stärken von SeaTable ist es, dass Sie aufgrund der aktuell 25 Spaltentypen wirklich jede Art von Information speichern können." />}}
+{{< warning  headline="26 Spaltentypen"  text="Bisher haben Sie nur einen Bruchteil der möglichen Spaltentypen kennengelernt. Eine der größten Stärken von SeaTable ist es, dass Sie aufgrund der aktuell 26 Spaltentypen wirklich jede Art von Information speichern können." />}}
 
 ## Einfachauswahl Optionen hinzufügen
 

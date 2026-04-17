@@ -16,6 +16,15 @@ weight: 10
 
 Different **views** can facilitate working with tables that contain a lot of information. You can also **print** these views.
 
+## Availability of the print function
+
+The print function is available in the following view types:
+
+- [Table view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Calendar view]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}})
+- [Timeline view]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}})
+- [Big data view]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}})
+
 ## Print a view
 
 ![Print a view](images/print-view.gif)

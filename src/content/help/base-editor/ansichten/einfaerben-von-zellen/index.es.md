@@ -1,5 +1,5 @@
 ---
-title: 'Colorear celdas'
+title: 'Colorear celdas en vistas de tabla'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -9,12 +9,12 @@ url: '/es/ayuda/colorear-celdas'
 aliases:
     - '/es/ayuda/einfaerben-von-zellen'
 seo:
-    title: 'Colorear celdas en SeaTable según reglas y valores propios'
+    title: 'Colorear celdas en vistas de tabla de SeaTable según reglas y valores propios'
     description: 'Descubre cómo colorear celdas en SeaTable usando reglas o valores personalizados y resalta datos para analizar mejor. Guía detallada por pasos.'
 weight: 28
 ---
 
-A diferencia de Excel, en SeaTable no puede simplemente colorear las celdas a su gusto, sino que debe colorearlas según las **reglas** que establezca o en función de los **valores** de una **columna**. ¿Suena complicado? Pero no lo es.
+A diferencia de Excel, en las vistas de tabla de SeaTable no puede simplemente colorear las celdas a su gusto, sino que debe colorearlas según las **reglas** que establezca o en función de los **valores** de una **columna**. ¿Suena complicado? Pero no lo es.
 
 {{< warning  headline="Nota" >}}
 
@@ -24,7 +24,7 @@ Además de la opción de **colorear las celdas**, también existe la posibilidad
 
 ## Colorear por reglas o por valores
 
-Cada columna ofrece la posibilidad de **Formatear las celdas de la columna** an:  
+Cada columna en una vista de tabla ofrece la posibilidad de **Colorear las celdas de la columna**:  
 ![Opción de formato de columna mostrada en SeaTable](images/color-cells.png)
 
 SeaTable se comportará de forma diferente dependiendo del **tipo de columna** para la que llame a esta opción. Para [columnas numéricas]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), puede utilizar tanto reglas como valores para colorear. Para todos los demás tipos de columnas, sólo están disponibles las reglas para colorear.
@@ -36,7 +36,7 @@ SeaTable se comportará de forma diferente dependiendo del **tipo de columna** p
 ![Ejemplo: colorear celdas usando una regla](images/einfaerben-von-zellen-beispiel-1-1.gif)
 
 1. Haga clic en el **símbolo del triángulo** en la cabecera de la tabla de una columna.
-2. Seleccione la opción **Formatear celdas de la** columna.
+2. Seleccione la opción **Colorear celdas de la columna**.
 3. Ir a **Reglas de uso**.
 4. Haga clic en **Añadir Regla**.
 5. Haga clic en la nueva línea que aparece para definir la regla.
@@ -63,10 +63,10 @@ También puede definir **varias condiciones** por regla, que pueden referirse a 
 ![Ejemplo: colorear celdas según valores en SeaTable](images/einfaerben-von-zellen-beispiel-2-1.gif)
 
 1. Haga clic en el **símbolo del triángulo** en la cabecera de la tabla de una columna.
-2. Seleccione la opción **Formatear celdas de la** columna.
+2. Seleccione la opción **Colorear celdas de la columna**.
 3. Ir a **Utilizar valores**.
 4. Haga clic en la **selección de** colores para elegir entre más colores
-5. Decida a partir de qué **valor** y hasta qué valor desea formatear las celdas.
+5. Decida a partir de qué **valor** y hasta qué valor desea colorear las celdas.
 6. Haga clic en **Enviar**.
 
 Con la opción **Utilizar valores** se colorea toda la columna. Cuanto mayor sea un valor en todo el espectro, más oscuro o claro será el color de la célula.
@@ -80,7 +80,7 @@ Este tipo de coloración le ayuda a hacer visibles de forma rápida y sencilla *
 ![Ejemplo: resaltar valores duplicados en una columna](images/einfaerben-von-zellen-beispiel-3.gif)
 
 1. Haga clic en el **símbolo del triángulo** en la cabecera de la tabla de una columna.
-2. Seleccione la opción **Formatear celdas de la** columna.
+2. Seleccione la opción **Colorear celdas de la columna**.
 3. Ir a **Resaltar duplicados**.
 
 Con la ayuda de la opción **Resaltar duplicados**, se pueden encontrar rápidamente valores idénticos en una columna.

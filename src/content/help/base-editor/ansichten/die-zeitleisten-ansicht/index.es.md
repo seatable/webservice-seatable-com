@@ -18,7 +18,7 @@ La vista **Línea de tiempo** le permite visualizar diferentes lapsos de tiempo 
 
 {{< warning type="warning" headline="Requisitos" >}}
 
-Este tipo de vista muestra **tramos de tiempo**. Por lo tanto, necesita **dos** [columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en una tabla que definan el **inicio** y el **final** de los periodos de tiempo. El resultado es un **gráfico Gantt**.
+Este tipo de vista muestra **tramos de tiempo**. Por lo tanto, necesita **dos** [columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en una tabla que definan el **inicio** y el **final** de los periodos de tiempo.
 
 {{< /warning >}}
 

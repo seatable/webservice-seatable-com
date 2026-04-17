@@ -118,6 +118,20 @@ Também encontrará um **gerador de código QR** na barra de ferramentas. O cód
 
 Tal como nas páginas de tabelas e consultas, também aqui pode utilizar colunas do tipo [botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Quer pretenda criar um documento PDF, editar um registo de dados ou executar um script - pode iniciar todas estas **acções de botão** com o toque de um botão. Para tal, **não** é necessária **qualquer** autorização de edição. Desta forma, os administradores de aplicações podem restringir as interações dos utilizadores para este tipo de página a algumas acções predefinidas.
 
+## Definições da coluna de ligações
+
+Nas **opções da coluna de ligação**, é possível especificar quais os dados visíveis e quais as operações permitidas para cada tabela ligada.
+
+![Ligar definições de coluna em páginas de registo único nas aplicações](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
+- **Adicionar e ligar novos registos**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
+- **Ligar registos existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis**.
+- **Limitar as ligações a um registro máximo**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
+- **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que satisfazem as condições do filtro serão apresentadas ao ligar as entradas.
+- **Ativar** a função de grandes volumes de dados: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
+- **Modificar registos ligados**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
+
 ## Autorizações de páginas
 
 É possível definir as seguintes [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para páginas do tipo Registo único:

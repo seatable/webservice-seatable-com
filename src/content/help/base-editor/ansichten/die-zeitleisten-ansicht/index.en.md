@@ -18,7 +18,7 @@ The **Timeline view** allows you to visualize different time periods on a **time
 
 {{< warning type="warning" headline="Requirements" >}}
 
-This view type displays **time spans**. Therefore, you need **two** [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a table that define the **start** and **end** of the time periods. The result is a **Gantt chart**.
+This view type displays **time spans**. Therefore, you need **two** [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a table that define the **start** and **end** of the time periods.
 
 {{< /warning >}}
 

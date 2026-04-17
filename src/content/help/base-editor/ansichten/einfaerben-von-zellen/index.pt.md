@@ -1,5 +1,5 @@
 ---
-title: 'Colorir células'
+title: 'Colorir células nas vistas de tabela'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:
@@ -9,12 +9,12 @@ url: '/pt/ajuda/colorir-celulas'
 aliases:
     - '/pt/ajuda/einfaerben-von-zellen'
 seo:
-    title: 'Colorir células no SeaTable com regras e valores personaliz.'
+    title: 'Colorir células nas vistas de tabela do SeaTable com regras e valores personaliz.'
     description: 'Aprenda como colorir células no SeaTable usando regras ou valores próprios e destaque dados para melhor análise. Instruções passo a passo.'
 weight: 28
 ---
 
-Ao contrário do Excel, não pode simplesmente colorir células no SeaTable como quiser, mas deve colori-las ou por **regras** definidas por si ou com base nos **valores** numa **coluna**. Parece complicado? Mas não é.
+Ao contrário do Excel, não pode simplesmente colorir células nas vistas de tabela do SeaTable como quiser, mas deve colori-las ou por **regras** definidas por si ou com base nos **valores** numa **coluna**. Parece complicado? Mas não é.
 
 {{< warning  headline="Nota" >}}
 
@@ -24,10 +24,10 @@ Para além da opção de **colorir células**, existe também a possibilidade de
 
 ## Coloração por regras ou por valores
 
-Cada coluna oferece a opção **Formatar células da coluna** an:  
+Cada coluna numa vista de tabela oferece a opção **Células colunas coloridas**:  
 ![Opção de formatação de coluna no SeaTable](images/color-cells.png)
 
-O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** para o qual chamar esta opção. Para [colunas numéricas]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), pode utilizar tanto regras como valores para colorir. Para todos os outros tipos de colunas, apenas as regras de coloração estão disponíveis.
+SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** para o qual chamar esta opção. Para [colunas numéricas]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), pode utilizar tanto regras como valores para colorir. Para todos os outros tipos de colunas, apenas as regras de coloração estão disponíveis.
 
 ![Visão geral de coloração de células por regras ou valores](images/color-cells-rules-values.png)
 
@@ -36,7 +36,7 @@ O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** par
 ![Exemplo: colorir células com base em uma regra](images/einfaerben-von-zellen-beispiel-1-1.gif)
 
 1. Clique no **símbolo do triângulo** no cabeçalho da tabela de uma coluna.
-2. Seleccionar a opção **Formatar células da coluna**.
+2. Seleccionar a opção **Células colunas coloridas**.
 3. Ir para **Regras de Utilização**.
 4. Clique em **Add Rule (Adicionar regra)**.
 5. Clique na nova linha que aparece para definir a regra.
@@ -63,7 +63,7 @@ Também pode definir **várias condições** por regra, que podem estar relacion
 ![Exemplo: colorir células com base em valores no SeaTable](images/einfaerben-von-zellen-beispiel-2-1.gif)
 
 1. Clique no **símbolo do triângulo** no cabeçalho da tabela de uma coluna.
-2. Seleccionar a opção **Formatar células da coluna**.
+2. Seleccionar a opção **Células colunas coloridas**.
 3. Ir para **Valores de Utilização**.
 4. Clique na **selecção de cor** para escolher entre mais cores
 5. Decidir de qual e até que **valor** deseja formatar as células.
@@ -80,7 +80,7 @@ Este tipo de coloração ajuda-o a tornar rápida e facilmente visíveis os valo
 ![Exemplo: destacar valores duplicados em uma coluna](images/einfaerben-von-zellen-beispiel-3.gif)
 
 1. Clique no **símbolo do triângulo** no cabeçalho da tabela de uma coluna.
-2. Seleccionar a opção **Formatar células da coluna**.
+2. Seleccionar a opção **Células colunas coloridas**.
 3. Ir para **Destacar Duplicações**.
 
 Com a ajuda da opção de **Duplicatas em Destaque**, valores idênticos numa coluna podem ser encontrados rapidamente.

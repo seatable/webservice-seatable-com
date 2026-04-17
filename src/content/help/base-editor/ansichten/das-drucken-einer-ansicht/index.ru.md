@@ -16,6 +16,15 @@ weight: 10
 
 Различные **представления** могут облегчить работу с таблицами, содержащими большое количество информации. Вы также можете **распечатать** эти виды.
 
+## Доступность функции печати
+
+Функция печати доступна в следующих типах представлений:
+
+- [Табличное представление]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Представление календаря]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}})
+- [Временная шкала]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}})
+- [Представление Большие данные]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}})
+
 ## Печать представления
 
 ![Печать представления](images/print-view.gif)

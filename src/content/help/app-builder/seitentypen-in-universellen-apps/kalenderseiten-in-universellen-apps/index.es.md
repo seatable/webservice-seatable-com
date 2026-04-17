@@ -61,6 +61,20 @@ Puede editar fácilmente las entradas de la agenda **haciendo clic en una entrad
 
 ![Mover y editar entradas en las páginas del calendario](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 
+## Configuración de la columna de enlaces
+
+En **la configuración de la columna de enlace**, puede especificar qué datos son visibles y qué operaciones están permitidas para cada tabla enlazada.
+
+![Configuración de columnas de enlace en páginas de calendario](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Configuración de campos**: Aquí puede definir exactamente a qué columnas se aplican las siguientes autorizaciones.
+- **Añadir y vincular nuevos registros**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para definir qué columnas son **visibles** y qué columnas son **obligatorias**, es decir, deben rellenarse.
+- **Vincular registros existentes**: Si activa este control deslizante, los usuarios podrán vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
+- **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada en las celdas de la columna de enlace.
+- **Filtros preestablecidos**: si añade un filtro aquí, al enlazar las entradas sólo se mostrarán las opciones que cumplan las condiciones del filtro.
+- **Activar la función de big data**: Si la función big data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya este número de entradas en la tabla vinculada.
+- **Modificar registros enlazados**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **editables**.
+
 ## Autorizaciones de páginas
 
 En la parte inferior de la configuración de la página, puede restringir exactamente qué usuarios están autorizados a interactuar con la página. Especifica quién está autorizado a ver la página, añadir líneas o modificar entradas.

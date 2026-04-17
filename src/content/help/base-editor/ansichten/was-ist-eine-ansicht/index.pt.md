@@ -31,13 +31,15 @@ Também pode selecionar determinados formatos de visualização para visualizar 
 - Vista Kanban
 - Vista de calendário
 - Vista de galeria
+- Vista de linha do tempo
+- Vista de árvore
 - Vista de Big Data
 
 É importante compreender que uma vista é apenas outra forma de ver **os mesmos dados subjacentes**! Isto significa que se editar os dados de uma tabela numa vista, esses dados são alterados em todas as vistas da tabela, uma vez que todas as vistas representam o mesmo conjunto de dados.
 
 {{< warning type="warning" headline="Note" >}}
 
-Pode utilizar outros formatos de visualização, como organogramas, árvores ou mapas, sob a forma de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+Pode utilizar outros formatos de visualização, como organogramas ou mapas, sob a forma de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 {{< /warning >}}
 
@@ -72,6 +74,22 @@ Se tiver uma tabela com uma coluna de **imagem**, pode criar uma vista de galeri
 ![A vista de galeria](images/gallery-view.jpg)
 
 Pode obter mais informações sobre este assunto no artigo sobre a [vista de galeria]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}).
+
+## A vista de linha do tempo
+
+Se tiver uma tabela com **duas colunas de data**, pode criar uma vista de linha do tempo que visualiza vários períodos de tempo numa **linha cronológica**. É particularmente adequada para representar a sequência de processos ou verificar se os períodos de tempo **se sobrepõem** – por exemplo no planeamento de férias, planos de projeto ou reserva de salas.
+
+![A vista de linha do tempo](images/timeline-view.jpg)
+
+Pode obter mais informações sobre este assunto no artigo sobre a [vista de linha do tempo]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
+
+## A vista de árvore
+
+Se tiver uma base com **pelo menos duas tabelas ligadas**, pode criar uma vista de árvore para apresentar registos ligados de forma **hierárquica**. É particularmente adequada para visualizar estruturas complexas como portfólios de projetos ou hierarquias organizacionais – com até três níveis no diagrama de árvore.
+
+![A vista de árvore](images/tree-view.jpg)
+
+Pode obter mais informações sobre este assunto no artigo sobre a [vista de árvore]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}).
 
 ## A vista de Big Data
 

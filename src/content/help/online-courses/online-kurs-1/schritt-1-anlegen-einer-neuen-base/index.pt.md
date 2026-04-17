@@ -73,7 +73,7 @@ Em seguida, passamos às colunas da tabela para que a nossa base possa registar 
 
 ---
 
-{{< warning  headline="25 tipos de colunas"  text="Até agora, só viu uma fração dos tipos de colunas possíveis. Um dos maiores pontos fortes do SeaTable é o facto de poder armazenar qualquer tipo de informação graças aos 25 tipos de colunas atualmente disponíveis." />}}
+{{< warning  headline="26 tipos de colunas"  text="Até agora, só viu uma fração dos tipos de colunas possíveis. Um dos maiores pontos fortes do SeaTable é o facto de poder armazenar qualquer tipo de informação graças aos 26 tipos de colunas atualmente disponíveis." />}}
 
 ## Adicionar opções de seleção individuais
 

@@ -31,13 +31,15 @@ También puede seleccionar determinados formatos de visualización para visualiz
 - Vista Kanban
 - Vista de calendario
 - Vista de galería
+- Vista de línea de tiempo
+- Vista de árbol
 - Vista de big data
 
 Es importante comprender que una vista no es más que otra forma de ver **los mismos datos subyacentes**. Esto significa que si edita los datos de una tabla en una vista, estos datos cambian en todas las vistas de la tabla, ya que todas las vistas representan el mismo conjunto de datos.
 
 {{< warning type="warning" headline="Nota" >}}
 
-Puede utilizar otros formatos de visualización como organigramas, árboles o mapas en forma de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+Puede utilizar otros formatos de visualización como organigramas o mapas en forma de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 {{< /warning >}}
 
@@ -72,6 +74,22 @@ Si tiene una tabla con una **columna de imágenes**, puede crear una vista de ga
 ![la vista de galería](images/gallery-view.jpg)
 
 Encontrará más información al respecto en el artículo sobre la [vista de galería]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}).
+
+## La vista de línea de tiempo
+
+Si tiene una tabla con **dos columnas de fecha**, puede crear una vista de línea de tiempo que visualice distintos períodos de tiempo en una **línea cronológica**. Es especialmente adecuada para representar la secuencia de procesos o comprobar si los períodos de tiempo se **solapan** – por ejemplo en la planificación de vacaciones, los planes de proyectos o la reserva de salas.
+
+![la vista de línea de tiempo](images/timeline-view.jpg)
+
+Puede obtener más información en el artículo sobre la [vista de línea de tiempo]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
+
+## La vista de árbol
+
+Si tiene una base con **al menos dos tablas vinculadas**, puede crear una vista de árbol para representar los registros vinculados de forma **jerárquica**. Es especialmente adecuada para visualizar estructuras complejas como carteras de proyectos o jerarquías organizativas – con hasta tres niveles en el diagrama de árbol.
+
+![la vista de árbol](images/tree-view.jpg)
+
+Puede obtener más información en el artículo sobre la [vista de árbol]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}).
 
 ## La vista de big data
 

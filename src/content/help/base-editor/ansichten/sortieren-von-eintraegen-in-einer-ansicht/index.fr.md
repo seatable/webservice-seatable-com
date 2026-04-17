@@ -63,5 +63,3 @@ Un tri activé est automatiquement appliqué aux nouvelles lignes ajoutées.
 En appliquant plusieurs tris, vous pouvez classer des enregistrements qui présentent **la même entrée** lors d'un tri précédent. Par exemple, vous pouvez utiliser une colonne de sélection simple pour classer une liste d'employés selon les options "femmes", "hommes", "divers", puis utiliser une colonne de texte pour trier les noms des femmes, des hommes et des autres par ordre alphabétique.
 
 ![Classement multiple](images/Mehrere-Sortierungen.png)
-
-{{< warning  headline="Remarque"  text="Si vous utilisez **des plugins** comme la galerie ou le tableau Kanban, les tris y ont également un effet sur l'ordre des entrées." />}}

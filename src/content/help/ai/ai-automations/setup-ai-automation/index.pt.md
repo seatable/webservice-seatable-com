@@ -12,8 +12,7 @@ Neste guia, irá criar uma automatização com a ação **Executar IA**. Depois 
 
 ## Pré-requisitos
 
-- Subscrição SeaTable **Enterprise** (Cloud ou auto-hospedado)
-- SeaTable **versão 6.0** ou superior
+- SeaTable (Cloud ou Server) **versão 6.0** ou superior
 - Uma base com uma tabela que contenha dados de texto
 
 {{< warning headline="Nota para clientes auto-hospedados" >}}

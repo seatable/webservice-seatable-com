@@ -65,7 +65,7 @@ sections:
             values: ['25', '∞', '∞', '∞']
           - type: section
             label: 'Features'
-          - key: '25 column types'
+          - key: '26 column types'
             values: ['+', '+', '+', '+']
           - key: 'Filter, grouping and sorting'
             values: ['+', '+', '+', '+']

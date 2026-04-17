@@ -53,3 +53,17 @@ Les règles de filtrage peuvent également être combinées avec les deux opéra
 Les réglages que vous effectuez au moyen de filtres, de regroupements et de tris sont enregistrés dans la vue actuelle. Si vous souhaitez les sauvegarder pour une utilisation future, vous pouvez [verrouiller la vue]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) afin que personne ne modifie la vue.
 
 {{< warning headline="Note importante" text="Avec les filtres, les regroupements et les tris, vous modifiez uniquement la façon dont les données sont affichées dans votre vue ! La base de données reste inchangée. Par conséquent, si des enregistrements ont disparu, vérifiez si vous êtes dans la bonne vue ou si vous avez masqué des enregistrements à l'aide d'un filtre." />}}
+
+## Différences selon le type de vue
+
+Tous les [types de vue]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) ne permettent pas le regroupement, le tri et le filtrage de la même façon. Obtenez une vue d'ensemble à l'aide de ce tableau :
+
+| Type de vue | Filtrer | Trier | Regrouper |
+| ------------------ | ------------------------------ | ------------------------------ | -------------------------- |
+| **Tableau** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Kanban** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Calendrier** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Galerie** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Chronologie** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Arbre** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Big Data** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |

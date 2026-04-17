@@ -16,6 +16,15 @@ weight: 10
 
 **Vistas** diferentes podem facilitar o trabalho com tabelas que contêm muita informação. Também pode **imprimir** as vistas.
 
+## Disponibilidade da função de impressão
+
+A função de impressão está disponível nos seguintes tipos de vista:
+
+- [Vista de tabela]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Vista de calendário]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}})
+- [Vista de linha do tempo]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}})
+- [Vista de Big Data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}})
+
 ## Imprimir uma vista
 
 ![Imprimir uma vista](images/print-view.gif)

@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/uebersicht-alle-spaltentypen'
 seo:
     title: 'Übersicht aller Spaltentypen in SeaTable – Funktionen'
-    description: 'Lernen Sie alle 25 Spaltentypen von SeaTable kennen: von Text und Zahl bis Datei, Auswahlfeldern, Formeln und relationalen Spalten. Kompakt erklärt.'
+    description: 'Lernen Sie alle 26 Spaltentypen von SeaTable kennen: von Text und Zahl bis Datei, Auswahlfeldern, Formeln und relationalen Spalten. Kompakt erklärt.'
 star: true
 weight: 1
 ---
@@ -19,7 +19,7 @@ In SeaTable können Sie Informationen und Daten in den unterschiedlichsten Forma
 - Mit Auswahlfeldern können Sie Ihre Daten in definierte Kategorien einteilen und integrierte Validierungsfunktionen (z. B. URL, Positionsdaten) stellen sicher, dass Ihre Eingaben in einem einheitlichen, direkt auswertbaren Format vorliegen.
 - Mit Formeln können Sie Rechenoperationen ausführen und mit Verknüpfungen erstellen Sie Relationen zwischen Einträgen unterschiedlicher Tabellen, die leistungsfähige Datenbankoperationen erlauben.
 
-Lernen Sie hier SeaTables 25 unterschiedliche Spaltentypen kennen!
+Lernen Sie hier SeaTables 26 unterschiedliche Spaltentypen kennen!
 
 ## Spalten mit manueller Dateneingabe
 
@@ -128,6 +128,14 @@ Symbol: {{< seatable-icon icon="dtable-icon-rate" >}} **Rating**
 Eine Rating-Spalte ermöglicht die **Einstufung** Ihrer Datensätze, um ein **Ranking** oder eine **Qualitätsbewertung** vorzunehmen. Sie können eine Bewertungsskala von 1 bis 10 auswählen sowie zwischen verschiedenen Farben und Formen wählen. Damit können Daten schnell und unkompliziert für jeden verständlich eingeschätzt und bewertet werden.
 
 [Mehr zur Rating-Spalte]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+
+### Telefonnummer
+
+Symbol: {{< seatable-icon icon="dtable-icon-telephone" >}} **Telefonnummer**
+
+Es gibt in SeaTable einen eigenen Spaltentyp für Telefonnummern. Im Vergleich zu einer normalen Text-Spalte bietet die Telefonnummer-Spalte den Vorteil, dass Sie per Mausklick **eine Telefonnummer anrufen** können.
+
+[Mehr zur Telefonnummer-Spalte]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 
 ### Formel
 

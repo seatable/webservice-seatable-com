@@ -14,6 +14,15 @@ weight: 10
 
 Verschiedene **Ansichten** können das Arbeiten mit Tabellen erleichtern, die sehr viele Informationen enthalten. Diese Ansichten können Sie zudem **ausdrucken**.
 
+## Verfügbarkeit der Druckfunktion
+
+Die Druckfunktion steht in folgenden Ansichtstypen zur Verfügung:
+
+- [Tabellenansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Kalender-Ansicht]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}})
+- [Zeitleisten-Ansicht]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}})
+- [Big-Data-Ansicht]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}})
+
 ## Eine Ansicht drucken
 
 ![Eine Ansicht drucken](images/print-view.gif)

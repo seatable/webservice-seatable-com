@@ -29,7 +29,7 @@ sections:
             icon: toggle-off
 
           - headline: Types de colonnes
-            text: SeaTable peut gérer tous types d'informations. Ne vous limitez pas au texte et aux chiffres. Un total de 25 types de colonnes différents est disponible.
+            text: SeaTable peut gérer tous types d'informations. Ne vous limitez pas au texte et aux chiffres. Un total de 26 types de colonnes différents est disponible.
             icon: medal
 
           - headline: Vues

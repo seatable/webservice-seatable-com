@@ -53,3 +53,17 @@ Las reglas de filtrado también pueden vincularse con los dos operadores boolean
 Los ajustes que haya realizado con los filtros, la agrupación y la clasificación siempre se guardan en la vista actual. Si desea guardarlos para utilizarlos en el futuro, puede [bloquear la vista]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) para que nadie pueda cambiar la vista.
 
 {{< warning headline="Nota importante" text="Con los filtros, agrupaciones y ordenaciones, ¡sólo cambia cómo se muestran los datos en su vista! La base de datos permanece inalterada. Por lo tanto, si han desaparecido registros de datos, compruebe si se encuentra en la vista correcta o si ha ocultado registros de datos con un filtro." />}}
+
+## Diferencias según el tipo de vista
+
+No todos los [tipos de vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) permiten agrupar, ordenar y filtrar de la misma manera. Obtenga una visión general con la ayuda de esta tabla:
+
+| Tipo de vista | Filtrar | Ordenar | Agrupar |
+| ------------------ | ------------------------------ | ------------------------------ | -------------------------- |
+| **Tabla** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Kanban** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Calendario** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Galería** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Línea de tiempo** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Árbol** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Big Data** | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |

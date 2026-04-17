@@ -51,3 +51,17 @@ Filterregeln lassen sich darüber hinaus mit den beiden Boole'schen Operatoren U
 Die von Ihnen vorgenommenen Einstellungen mittels Filtern, Gruppierungen und Sortierungen werden jeweils in der aktuellen Ansicht gespeichert. Wenn Sie diese für eine zukünftige Verwendung sichern wollen, können Sie die [Ansicht sperren]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}), damit niemand die Ansicht verändert.
 
 {{< warning headline="Wichtiger Hinweis" text="Mit Filtern, Gruppierungen und Sortierungen ändern Sie nur, wie die Daten in Ihrer Ansicht angezeigt werden! Die Datengrundlage bleibt unverändert. Wenn also Datensätze verschwunden sind, prüfen Sie, ob Sie in der richtigen Ansicht sind oder ob Sie Datensätze mit einem Filter ausgeblendet haben." />}}
+
+## Unterschiede je nach Ansichtstyp
+
+Nicht alle [Ansichtstypen]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) erlauben Gruppierung, Sortierung und Filterung gleichermaßen. Verschaffen Sie sich einen Überblick mithilfe dieser Tabelle:
+
+| Ansichtstyp        | Filtern                        | Sortieren                      | Gruppieren                 |
+| ------------------ | ------------------------------ | ------------------------------ | -------------------------- |
+| **Tabelle**        | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Kanban**         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Kalender**       | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Galerie**        | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Zeitleiste**     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Baum**           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}  |
+| **Big Data**       | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |

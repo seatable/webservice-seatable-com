@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Depending on which **values** you want to record in SeaTable, you can assign different **column types** to them. You can find an overview of all 25 column types in SeaTable [here]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
+Depending on which **values** you want to record in SeaTable, you can assign different **column types** to them. You can find an overview of all 26 column types in SeaTable [here]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
 
 It is possible to change the column type at a later date. Here you can find out how to **adjust** the column type **retrospectively**.
 
@@ -31,7 +31,7 @@ It is possible to change the column type at a later date. Here you can find out 
 
 ## Customize the first column
 
-The **first column** in a table **only** supports **6 of the 25 column types**. These are
+The **first column** in a table **only** supports **6 of the 26 column types**. These are
 
 - [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
 - [Number]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})

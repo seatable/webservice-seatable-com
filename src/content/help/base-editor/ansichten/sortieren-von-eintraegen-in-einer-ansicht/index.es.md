@@ -63,5 +63,3 @@ La ordenación activada se aplica automáticamente a las filas recién añadidas
 Al aplicar ordenaciones múltiples, puede ordenar registros que tengan la **misma entrada** en una ordenación anterior. Por ejemplo, puede ordenar primero una lista de empleados por las opciones "mujer", "hombre", "varios" utilizando una única columna de selección y, a continuación, ordenar alfabéticamente los nombres de las mujeres, los hombres y los varios utilizando una columna de texto.
 
 ![Varios surtidos](images/Mehrere-Sortierungen.png)
-
-{{< warning  headline="Nota"  text="Si utilizas **plug-ins** como la galería o el tablero Kanban, las ordenaciones también afectan al orden de las entradas en ellos." />}}
