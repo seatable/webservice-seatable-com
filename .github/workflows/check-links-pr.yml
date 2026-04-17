@@ -21,5 +21,5 @@ jobs:
             - name: Check links with lychee
               uses: lycheeverse/lychee-action@v2
               with:
-                  args: --offline --no-progress --root-dir /github/workspace/src/public 'src/public/**/*.html'
+                  args: --offline --no-progress --root-dir src/public 'src/public/**/*.html'
                   fail: true
