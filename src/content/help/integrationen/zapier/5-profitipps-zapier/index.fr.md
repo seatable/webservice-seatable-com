@@ -11,7 +11,6 @@ aliases:
 seo:
     title: '5 astuces SeaTable et Zapier pour automatiser'
     description: 'Optimisez l intégration SeaTable-Zapier : colonnes lookup, déclenchements par date, formules, limites API et requêtes personnalisées pour vos automatisations.'
-
 ---
 
 Zapier vous permet de créer en quelques minutes une interface entre SeaTable et l'une des milliers d'autres applications. Mais même si Zapier est facile et intuitif à utiliser, vous devriez jeter un coup d'œil aux possibilités suivantes pour tirer encore plus de vos Zaps.
@@ -56,7 +55,7 @@ es limites de l'API ne doivent toutefois pas vous empêcher de souscrire un abon
 
 - Désactiver les zaps qui ne sont plus nécessaires et qui accèdent à la même base.
 - Désactivez Zaps, par exemple en dehors de vos heures de bureau, [à l'aide de cette automatisation](https://zapier.com/apps/schedule/integrations/zapier-manager/23903/turn-off-a-zap-after-business-hours).
-- Réduisez la vitesse d'exécution de votre zap si vous avez un [abonnement Company](<(https://help.zapier.com/hc/en-us/articles/8495924437005-Can-I-control-when-my-Zap-runs-)>).
+- Réduisez la vitesse d'exécution de votre zap si vous avez un [abonnement Company](https://help.zapier.com/hc/en-us/articles/8495924437005-Can-I-control-when-my-Zap-runs).
 - Désactiver la génération des liens de téléchargement publics pour les types de colonnes Image, Fichier et Signature numérique.
 - Utilisez une vue spécifique pour le zap, dans laquelle vous masquez les colonnes d'images, de fichiers et de signatures inutiles.
 - Vérifier que vos zaps ne contiennent pas de requêtes inutiles.
