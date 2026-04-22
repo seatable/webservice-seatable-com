@@ -6,6 +6,13 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/es/ayuda/vista-de-calendario'
+aliases:
+    - '/es/ayuda/guia-plugin-calendario-seatable'
+    - '/es/ayuda/anleitung-zum-kalender-plugin'
+    - '/es/ayuda/crear-varios-calendarios-base-seatable'
+    - '/es/ayuda/mehrere-kalender-fuer-eine-base-anlegen'
+    - '/es/ayuda/anadir-entradas-plugin-calendario-seatable'
+    - '/es/ayuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
 seo:
     title: 'Vista de calendario en SeaTable – utilice la vista cronológica'
     description: 'La vista de calendario en SeaTable muestra sus citas por año, mes, semana, día o en la agenda. Configuración completa y consejos.'

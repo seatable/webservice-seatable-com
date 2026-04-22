@@ -84,7 +84,7 @@ Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendung
 
 {{< warning headline="Achtung, Verwechslungsgefahr!" >}}
 
-Die [Galerie]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) und die [SQL-Abfrage]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) kennen Sie auch als **Plugins**, die Sie zu Ihren Bases hinzufügen können. Diese bleiben natürlich weiterhin bestehen.
+Die [Galerie]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) und die [SQL-Abfrage]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) kennen Sie auch als **Plugins**, die Sie zu Ihren Bases hinzufügen können. Diese bleiben natürlich weiterhin bestehen.
 
 {{< /warning >}}
 

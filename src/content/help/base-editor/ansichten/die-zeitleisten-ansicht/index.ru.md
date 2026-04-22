@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/ru/pomoshch/vid-vremennoy-shkaly'
+aliases:
+    - '/ru/pomoshch/instrukciya-po-timeline-plugin'
+    - '/ru/pomoshch/anleitung-zum-timeline-plugin'
 seo:
     title: 'Представление временной шкалы: визуализируйте временные периоды в SeaTable'
     description: 'Вид временной шкалы дает Вам четкое представление о временных периодах и их наложении друг на друга.'

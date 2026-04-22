@@ -6,6 +6,8 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/de/hilfe/die-zeitleisten-ansicht'
+aliases:
+    - '/de/hilfe/anleitung-zum-timeline-plugin'
 seo:
     title: 'Zeitleisten-Ansicht: Zeiträume in SeaTable visualisieren'
     description: 'Mit der Zeitleisten-Ansicht verschaffen Sie sich einen klaren Überblick über Zeitspannen und deren Überschneidungen.'

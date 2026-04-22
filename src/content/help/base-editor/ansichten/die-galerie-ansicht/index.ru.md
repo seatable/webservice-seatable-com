@@ -6,6 +6,11 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/ru/pomoshch/vid-galerei'
+aliases:
+    - '/ru/pomoshch/galereya-instruktsiya-seatable'
+    - '/ru/pomoshch/anleitung-zum-galerie-plugin'
+    - '/ru/pomoshch/dobavit-stroku-cherez-plagin-galereya'
+    - '/ru/pomoshch/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 seo:
     title: 'Вид галереи: наглядное отображение изображений в SeaTable'
     description: 'С помощью представления галереи Вы получите наглядный обзор всех записей данных, содержащих изображения'

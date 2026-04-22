@@ -9,7 +9,7 @@ url: '/de/hilfe/galerie-app'
 draft: true
 ---
 
-Die **Galerie-App** erinnert in Ihrer Funktionsweise stark an das [Galerie-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}), welches Sie eventuell schon einmal für die Darstellung von bebilderten Datensätzen verwendet haben. Die Galerie-App können Sie dafür nutzen, Ihre [Bilder](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) inklusive Metadaten übersichtlich in einer Galerie zu veröffentlichen.
+Die **Galerie-App** erinnert in Ihrer Funktionsweise stark an das [Galerie-Plugin]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}), welches Sie eventuell schon einmal für die Darstellung von bebilderten Datensätzen verwendet haben. Die Galerie-App können Sie dafür nutzen, Ihre [Bilder](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) inklusive Metadaten übersichtlich in einer Galerie zu veröffentlichen.
 
 ## Anlegen der Galerie-App
 

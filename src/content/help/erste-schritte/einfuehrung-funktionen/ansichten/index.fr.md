@@ -46,6 +46,6 @@ Vous activez les plugins via le gestionnaire de plugins, que vous ouvrez en cliq
 
 ![Aperçu de tous les plugins de SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
-Avec le [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}), vous gérez rapidement et facilement les images dans votre base.
+Avec le [plug-in]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}), vous gérez rapidement et facilement les images dans votre base.
 
 Affichez les adresses et les données de position sur une carte grâce au [plug-in de carte]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) vous aide à transformer rapidement vos ensembles de données en documents mis en page.

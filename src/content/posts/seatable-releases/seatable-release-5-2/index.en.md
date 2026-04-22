@@ -110,7 +110,7 @@ Tables can now be hidden, as is familiar from Microsoft Excel. A **hidden worksh
 
 [Checkboxes]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) offer more style options and even more color options in SeaTable 5.2. If you don't like the green tick, you can now choose from 69 other options.
 
-In the [calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), new entries can now also be created by double-clicking or using the new "+" button.
+In the [calendar plugin]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}), new entries can now also be created by double-clicking or using the new "+" button.
 
 ## Two functional changes
 

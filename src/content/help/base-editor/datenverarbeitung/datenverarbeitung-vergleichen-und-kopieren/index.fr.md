@@ -64,7 +64,7 @@ Dans l'étape suivante, vous pouvez sélectionner un nombre quelconque de colonn
 
 {{< warning  headline="Attention à la perte de données" >}}
 
-Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), mais elles ne conviennent plus pour les [calendriers]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
+Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), mais elles ne conviennent plus pour les [calendriers]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
 
 {{< /warning >}}
 

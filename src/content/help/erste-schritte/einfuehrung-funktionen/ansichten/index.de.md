@@ -46,7 +46,7 @@ Sie aktivieren die Plugins über den Plugin-Manager, den Sie über die Schaltfl�
 
 ![Übersicht über alle Plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
-Mit dem [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-) und dem [Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) behalten Sie die Übersicht über Ihre Termine und Deadlines und organisieren erfolgreich Projekte. Mit dem [Galerie-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) verwalten Sie Bilder schnell und einfach in Ihrer Base.
+Mit dem [Kalender-Plugin]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}
+) und dem [Timeline-Plugin]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) behalten Sie die Übersicht über Ihre Termine und Deadlines und organisieren erfolgreich Projekte. Mit dem [Galerie-Plugin]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) verwalten Sie Bilder schnell und einfach in Ihrer Base.
 
 Lassen Sie sich über das [Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) Adressen und Positionsdaten auf einer Karte anzeigen und visualisieren Sie Ihre Aufgaben und Projektphasen mit dem [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) hilft Ihnen, Ihre Datensätze schnell in gelayoutete Dokumente zu verwandeln.

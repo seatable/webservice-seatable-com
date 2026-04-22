@@ -98,7 +98,7 @@ Die Erinnerungen lassen sich in jeder Liste übersichtlich sortieren und in Absc
 
 ## SeaTable: Der Allrounder für alle Arten von Listen
 
-SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), den [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) oder ein [Gantt-Diagramm]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) verwenden.
+SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), den [Kalender]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) oder ein [Gantt-Diagramm]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) verwenden.
 
 Interessant ist außerdem, dass Sie [Dateien]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) und [Bilder]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) hochladen und an Aufgaben anhängen können. Ebenso können Sie beliebig viele Informationen wie ein Datum, eine Priorität und Unteraufgaben in weiteren Spalten hinzufügen.
 

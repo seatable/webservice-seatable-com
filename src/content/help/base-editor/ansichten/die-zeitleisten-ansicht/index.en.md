@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/help/the-timeline-view'
+aliases:
+    - '/help/timeline-plugin-guide'
+    - '/help/anleitung-zum-timeline-plugin'
 seo:
     title: 'Timeline view: visualize time periods in SeaTable'
     description: 'With the Timeline view you get a clear overview of time periods and their overlaps.'

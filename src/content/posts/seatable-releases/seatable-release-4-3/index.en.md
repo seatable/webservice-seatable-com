@@ -84,7 +84,7 @@ If you use the two expiring apps, we recommend that you rebuild your use cases w
 
 {{< warning headline="Attention, danger of confusion!" >}}
 
-You also know the [gallery]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) and the [SQL query]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) as **plugins** that you can add to your bases. These will of course remain in place.
+You also know the [gallery]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) and the [SQL query]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) as **plugins** that you can add to your bases. These will of course remain in place.
 
 {{< /warning >}}
 

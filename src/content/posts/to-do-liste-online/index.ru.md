@@ -99,7 +99,7 @@ seo:
 
 ## SeaTable: универсальное решение для всех типов списков
 
-SeaTable - это онлайн-база данных, позволяющая легко и наглядно организовывать задачи, информацию, процессы и идеи. Вы можете воспользоваться классическим представлением списка или использовать альтернативные форматы отображения, такие как [доска Канбан]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), [календарь]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) или [диаграмма Ганта]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+SeaTable - это онлайн-база данных, позволяющая легко и наглядно организовывать задачи, информацию, процессы и идеи. Вы можете воспользоваться классическим представлением списка или использовать альтернативные форматы отображения, такие как [доска Канбан]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), [календарь]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) или [диаграмма Ганта]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Еще одна интересная функция - возможность загружать [файлы]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) и [изображения]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) и прикреплять их к задачам. Вы также можете добавить любую информацию, например дату, приоритет и подзадачи в дополнительных колонках.
 

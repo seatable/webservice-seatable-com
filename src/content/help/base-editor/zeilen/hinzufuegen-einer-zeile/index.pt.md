@@ -29,8 +29,6 @@ Para rapidamente **várias novas linhas** também pode utilizar a combinação d
 
 ![Adicionar nova linha através de atalho](images/create-new-row-shortcut.gif)
 
-Além disso, alguns **plugins** do SeaTable oferecem a opção de adicionar novas entradas. Estes incluem a [galeria]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) e o [plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
-
 ## Porque não se pode criar novas linhas
 
 Não pode adicionar uma nova linha numa tabela e não é exibido nenhum símbolo de mais? Então provavelmente não tem as **permissões** apropriadas em Base ou Ver.

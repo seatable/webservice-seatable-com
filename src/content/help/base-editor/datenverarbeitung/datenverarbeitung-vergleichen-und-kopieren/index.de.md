@@ -50,7 +50,7 @@ Im nächsten Schritt können Sie eine beliebige Anzahl an Quellspalten aus der T
 
 {{< warning  type="warning" headline="Achtung vor Datenverlust" >}}
 
-Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
+Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
 
 {{< /warning >}}
 

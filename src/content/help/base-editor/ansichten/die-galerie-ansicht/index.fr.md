@@ -6,6 +6,11 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/fr/aide/vue-de-galerie'
+aliases:
+    - '/fr/aide/guide-plugin-galerie-seatable'
+    - '/fr/aide/anleitung-zum-galerie-plugin'
+    - '/fr/aide/ajouter-ligne-plugin-galerie'
+    - '/fr/aide/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 seo:
     title: 'Vue de galerie : affichage clair des images dans SeaTable'
     description: 'La vue galerie vous donne un aperçu vivant de tous les enregistrements contenant des images'

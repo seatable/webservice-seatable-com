@@ -110,7 +110,7 @@ Il est désormais possible de masquer des tableaux, comme on le fait dans Micros
 
 [Les cases à cocher]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) offrent plus d'options de style et encore plus d'options de couleur dans SeaTable 5.2. Ceux qui n'aiment pas la coche verte peuvent désormais choisir parmi 69 autres options.
 
-Dans le [plug-in calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), il est désormais possible de créer de nouvelles entrées par double-clic ou via le nouveau bouton "+".
+Dans le [plug-in calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}), il est désormais possible de créer de nouvelles entrées par double-clic ou via le nouveau bouton "+".
 
 ## Deux changements fonctionnels
 

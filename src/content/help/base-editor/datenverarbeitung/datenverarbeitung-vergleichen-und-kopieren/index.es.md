@@ -64,7 +64,7 @@ En el siguiente paso, puede seleccionar cualquier número de columnas de origen 
 
 {{< warning  headline="Cuidado con la pérdida de datos" >}}
 
-Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en [una columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
+Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en [una columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
 
 {{< /warning >}}
 

@@ -10,117 +10,92 @@ aliases:
     - '/fr/aide/alle-plugins-in-der-uebersicht'
 seo:
     title: 'Plugins SeaTable : tous les modules expliqués et comparés'
-    description: 'Tous les plugins SeaTable expliqués : calendrier, galerie, Kanban, tableau blanc, SQL, carte, organigramme, relations – fonctions et astuces.'
+    description: 'Tous les plugins SeaTable expliqués : chat IA, tableau blanc, SQL, conception de pages, cartes, organigramme, relations entre tableaux – fonctions, avantages et astuces.'
 star: true
 weight: 1
 ---
 
-Avec les **plugins** de SeaTable, vous avez la possibilité de voir vos données sous des angles complètement différents. Visualisez les rendez-vous, les tâches et les lieux et créez des documents mis en page et des fiches descriptives à partir de vos données. Dans l'article suivant, nous expliquons quels sont les plugins disponibles dans SeaTable et comment vous pouvez les utiliser.
+Avec les **plugins** de SeaTable, vous avez la possibilité de voir vos données sous des angles complètement différents et d'utiliser des fonctions avancées. Visualisez par exemple des lieux, des organigrammes et des relations entre les tableaux, créez des documents mis en page ou configurez un chat IA dans votre base. Dans l'article suivant, nous expliquons quels plugins sont disponibles dans SeaTable et comment vous pouvez les utiliser.
 
-![Graphique d’aperçu avec icônes de tous les plugins SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![Graphique d'aperçu avec icônes de tous les plugins SeaTable](images/overview-all-plugins.gif)
 
 ## Qu'est-ce qu'un plugin ?
 
-SeaTable vous permet de créer différentes **vues** pour vos tableaux, dans lesquelles vous pouvez [filtrer]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) les données à votre guise.
+Dans SeaTable, vous pouvez créer différentes [vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) pour vos tableaux, avec lesquelles vous pouvez visualiser vos données, par exemple dans des **calendriers**, des **galeries** et des **diagrammes arborescents**. Il existe en outre des plugins.
 
-Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des possibilités d'affichage supplémentaires. Dans chaque base, il est possible d'activer différents plugins qui affichent les données des tableaux et vues correspondants, par exemple dans **des calendriers**, des **documents** ou **des galeries**. Pour en savoir plus sur l'[activation d'un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), consultez l'article d'aide en lien.
+Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des fonctions supplémentaires. Dans chaque base, il est possible d'activer différents plugins qui affichent les données du tableau correspondant, par exemple sur des **cartes**, dans des **organigrammes** ou dans des **documents**. Vous pouvez également utiliser des fonctions avancées pour repérer des **doublons**, configurer un **chat IA** ou laisser libre cours à votre créativité sur le **tableau blanc**.
 
-## Plugin de calendrier
-
-Le plug-in Calendrier vous permet d'afficher les données d'une [colonne de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans une **vue** **annuelle**, **mensuelle**, **hebdomadaire**, **quotidienne** ou **d'agenda**. Vous pouvez également afficher **des périodes de temps** à l'aide de deux colonnes de dates et garder ainsi une vue d'ensemble de tous les rendez-vous importants, etc.
-
-![Plugin de calendrier affichant des rendez-vous en vue mensuelle](images/Calendar.png)
-
-[En savoir plus sur le plugin calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
-
-Ces articles pourraient également vous intéresser :
-
-- [Créer plusieurs calendriers pour une base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
-- [Création de nouvelles entrées de calendrier dans le plug-in de calendrier]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
-
-## Plugin de ligne de temps
-
-Le plugin Timeline représente différentes périodes sous la forme d'une **ligne de temps** grâce à une date de début et de fin ou à une date de début et une durée. Cela permet d'avoir une bonne vue d'ensemble des projets qui se déroulent en parallèle ou des rendez-vous qui se chevauchent. Ce plugin convient également parfaitement à la planification des congés de l'équipe et à la planification de l'occupation des salles.
-
-![Plugin de chronologie avec frise temporelle pour projets et périodes](images/projektmanagement-timeline.png)
-
-[En savoir plus sur le plugin Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
-
-## Plugin de la galerie
-
-Le plug-in Galerie est particulièrement adapté à la présentation de jeux de données avec **des images**, car il se réfère en premier lieu au contenu d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Les entrées d'une colonne sont affichées sous forme de **titre** sous les images. En outre, ce plugin offre la possibilité d'afficher d'autres colonnes du tableau et de compléter ainsi les images par davantage d'informations provenant des enregistrements. Cela est particulièrement utile pour les projets créatifs et artistiques, afin de regrouper toutes les informations en un seul coup d'œil.
-
-![Plugin de galerie avec images et titres sous les vignettes](images/Galerie.png)
-
-[En savoir plus sur le plugin de la galerie]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
-
-Cet article pourrait également vous intéresser :
-
-- [Ajouter une nouvelle ligne via le plugin de la galerie]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
+Pour en savoir plus sur [l'activation d'un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), consultez l'article d'aide en lien.
 
 ## Plugin de cartographie
 
-**Les sites** peuvent être représentés sur une carte à l'aide du plug-in de carte. Vous pouvez visualiser les informations géographiques saisies à l'aide de marqueurs de position ou d'images. Le plug-in de carte s'occupe aussi bien des **coordonnées GPS** que des **adresses**. Les adresses doivent toutefois être uniques pour pouvoir être affichées.
+**Les sites** peuvent être représentés sur une carte à l'aide du plugin de carte. Vous pouvez visualiser les informations géographiques saisies à l'aide de marqueurs de position ou d'images. Le plugin de carte s'occupe aussi bien des **coordonnées GPS** que des **adresses**. Les adresses doivent toutefois être uniques pour pouvoir être affichées.
 
 ![Plugin de carte avec marqueurs de position sur une carte](images/Map.png)
 
-[En savoir plus sur le plug-in de carte]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}/)
+[En savoir plus sur le plugin de carte]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
 ## Plugin de déduplication de données
 
-Le plug-in de déduplication des données détecte les **entrées en double** dans un tableau. Cela est particulièrement utile pour les grandes quantités de données afin de détecter les doublons et de les supprimer. Ce faisant, vous pouvez supprimer toutes les entrées en double en un seul clic.
+Le plugin de déduplication des données détecte les **entrées en double** dans un tableau. Cela est particulièrement utile pour les grandes quantités de données afin de détecter les doublons et de les supprimer. Vous pouvez supprimer toutes les entrées en double en un seul clic.
 
-![Plugin de déduplication de données avec liste des entrées dupliquées](images/Deduplication.png)
+![Plugin de déduplication de données avec liste des entrées dupliquées](images/deduplication-plugin.jpg)
 
 [En savoir plus sur le plugin de duplication de données]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Plugin de conception de pages
 
-À l'aide du plug-in de conception de pages, vous pouvez mettre en page **des documents** tels que des lettres en série, des cartes de visite et des certificats et les remplir avec les données de votre tableau. Plus précisément, vous pouvez construire des mises en page avec des **éléments statiques** qui sont complétés et personnalisés par des **éléments dynamiques** et **des champs de tableau**. Ces derniers vous offrent le grand avantage d'insérer, en fonction de l'enregistrement, toutes les informations associées (par exemple le nom, l'adresse et le titre du poste d'une personne) dans des modèles standardisés, sans que vous ayez à copier manuellement des données dans les documents. Vous créez ainsi en quelques clics des factures, des certificats ou d'autres documents importants prêts à être imprimés à partir des données enregistrées.
+À l'aide du plugin de conception de pages, vous pouvez mettre en page **des documents** tels que des lettres en série, des cartes de visite et des certificats et les remplir avec les données de votre tableau. Plus précisément, vous pouvez construire des mises en page avec des **éléments statiques** qui sont complétés et personnalisés par des **éléments dynamiques** et **des champs de tableau**. Ces derniers vous offrent le grand avantage d'insérer, en fonction de l'enregistrement, toutes les informations associées (par exemple le nom, l'adresse et le titre du poste d'une personne) dans des modèles standardisés, sans que vous ayez à copier manuellement des données dans les documents. Vous créez ainsi en quelques clics des factures, des certificats ou d'autres documents importants prêts à être imprimés à partir des données enregistrées.
 
 ![Plugin de mise en page avec documents mis en forme à partir de données](images/Pagedesign.png)
 
 [En savoir plus sur le plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
-## Plugin Kanban
-
-Le plug-in Kanban permet de représenter les entrées du tableau sur un **tableau Kanban**. Chaque entrée est visualisée par une carte et peut être déplacée entre différentes colonnes. Vous pouvez utiliser la méthode Kanban dans la **gestion** agile de **projets et de flux de travail**. En visualisant les **tâches** regroupées par statut ou par phase de projet, vous obtenez un excellent aperçu de l'avancement des processus de travail.
-
-![Plugin Kanban avec cartes en colonnes pour différents statuts](images/Kanban-Plugin.png)
-
-[En savoir plus sur le plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
-
 ## Plugin de requête SQL
 
-Le plug-in de requête SQL est parfaitement adapté à l'**exécution** directe **de commandes SQL** et est donc particulièrement intéressant pour les professionnels des bases de données qui travaillent avec de grandes quantités de données.
+Le plugin de requête SQL est parfaitement adapté à l'**exécution** directe **de commandes SQL** et est donc particulièrement intéressant pour les professionnels des bases de données qui travaillent avec de grandes quantités de données.
 
-![Plugin de requêtes SQL avec liste de résultats d’une requête SELECT](images/results-data-sql-query.png)
+![Plugin de requêtes SQL avec liste de résultats d'une requête SELECT](images/results-data-sql-query.png)
 
 [En savoir plus sur le plugin de requête SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
-## Plugin pour tableau blanc
+## Plugin de tableau blanc
 
-Le plug-in Whiteboard vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plug-ins précédents. De même, vous pouvez **esquisser librement** des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
+Le plugin Whiteboard vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plugins précédents. De même, vous pouvez **esquisser librement** des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
 
 ![Plugin de tableau blanc avec formes, flèches et éléments esquissés](images/Whiteboard-Plugin.png)
 
-[En savoir plus sur le plug-in Whiteboard]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
+[En savoir plus sur le plugin Whiteboard]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Plugin d'organigramme
 
-Le plug-in Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les tâches supérieures et inférieures dans un projet.
+Le plugin Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les tâches supérieures et inférieures dans un projet.
 
-![Plugin d’organigramme avec cartes hiérarchiquement organisées](images/Organigramm-Plugin.png)
+![Plugin d'organigramme avec cartes hiérarchiquement organisées](images/Organigramm-Plugin.png)
 
 [En savoir plus sur le plugin d'organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
 ## Plugin de relations entre les tableaux
 
-Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent dans une base, on perd rapidement la vue d'ensemble de la manière dont ils sont reliés entre eux. Le plug-in Relations entre les tableaux permet de voir **quels tableaux sont reliés entre eux et par quelles colonnes**.
+Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent dans une base, on perd rapidement la vue d'ensemble de la manière dont ils sont reliés entre eux. Le plugin Relations entre les tableaux permet de voir **quels tableaux sont reliés entre eux et par quelles colonnes**.
 
-![Plugin de relations de tables avec lignes entre tables liées](images/Table-Relationships-Plugin.png)
+![Plugin de relations de tables avec lignes entre tables liées](images/table-relationship-plugin.png)
 
 [En savoir plus sur le plugin de relations entre les tableaux]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
+
+## Plugin de conception de rapports
+
+Avec ce plugin, vous pouvez créer des **rapports de plusieurs pages** dans lesquels des tableaux, des diagrammes et des champs sont alimentés dynamiquement avec des données de votre base. Il ressemble au plugin de conception de pages dans le sens où il crée également des **documents PDF sur la base de modèles mis en page**. Cependant, les éléments statiques et dynamiques ne sont pas positionnés au pixel près sur le modèle, mais placés les uns en dessous des autres de manière continue, comme dans un **traitement de texte** (par ex. Microsoft Word ou Google Docs).
+
+![Le plugin de conception de rapports](images/report-design-plugin-example.png)
+
+## Plugin de chat IA
+
+Le plugin le plus récent de SeaTable est absolument dans l'air du temps. Il vous permet de configurer un **chat IA** avec votre modèle de langage préféré. Vous pouvez ainsi éditer et analyser vos bases en langage naturel, par exemple créer des enregistrements, modifier des valeurs, lier des lignes ou créer des analyses.
+
+![Configurer le plugin de chat IA dans SeaTable](images/ai-chat-plugin.png)
+
+[En savoir plus sur le plugin de chat IA]({{< relref "help/ai/ai-chat/introduction" >}})
 
 ## Autres articles utiles
 

@@ -99,7 +99,7 @@ Les rappels peuvent être triés de manière claire dans chaque liste et divisé
 
 ## SeaTable : l'outil polyvalent pour tous les types de listes
 
-SeaTable est une base de données en ligne qui vous permet d'organiser facilement et clairement les tâches, les informations, les processus et les idées. Vous profitez d'une vue classique sous forme de liste ou pouvez utiliser des formes de représentation alternatives comme le [tableau Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), le [calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ou un [diagramme de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+SeaTable est une base de données en ligne qui vous permet d'organiser facilement et clairement les tâches, les informations, les processus et les idées. Vous profitez d'une vue classique sous forme de liste ou pouvez utiliser des formes de représentation alternatives comme le [tableau Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), le [calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) ou un [diagramme de Gantt]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Il est également intéressant de noter que vous pouvez télécharger [des fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) et [des images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) et les joindre aux tâches. De même, vous pouvez ajouter autant d'informations que vous le souhaitez, comme une date, une priorité et des sous-tâches dans d'autres colonnes.
 

@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/es/ayuda/la-vista-linea-de-tiempo'
+aliases:
+    - '/es/ayuda/guia-plugin-timeline'
+    - '/es/ayuda/anleitung-zum-timeline-plugin'
 seo:
     title: 'Vista de la línea de tiempo: Visualice periodos de tiempo en SeaTable'
     description: 'La vista de la línea de tiempo le ofrece una visión clara de los periodos de tiempo y sus solapamientos.'

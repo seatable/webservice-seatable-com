@@ -64,7 +64,7 @@ No passo seguinte, pode seleccionar qualquer número de colunas de origem da tab
 
 {{< warning  headline="Cuidado com a perda de dados" >}}
 
-As colunas de origem e resultado devem ter **o mesmo tipo de coluna** para que não se percam dados quando se copia. Pode-se, por exemplo, copiar dados de uma [coluna de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) para uma [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), mas estes já não são adequados para [calendários]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Portanto, antes de realizar a operação, crie uma coluna de **resultados** do mesmo tipo na tabela de destino para cada coluna de **origem** que pretende copiar.
+As colunas de origem e resultado devem ter **o mesmo tipo de coluna** para que não se percam dados quando se copia. Pode-se, por exemplo, copiar dados de uma [coluna de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) para uma [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), mas estes já não são adequados para [calendários]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). Portanto, antes de realizar a operação, crie uma coluna de **resultados** do mesmo tipo na tabela de destino para cada coluna de **origem** que pretende copiar.
 
 {{< /warning >}}
 

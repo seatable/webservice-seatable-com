@@ -84,7 +84,7 @@ seo:
 
 {{< warning headline="Внимание, опасность путаницы!" >}}
 
-Вы также знаете [галерею]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) и [SQL-запрос]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) как **плагины**, которые можно добавить к вашим базам. Они, конечно же, останутся на своих местах.
+Вы также знаете [галерею]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) и [SQL-запрос]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) как **плагины**, которые можно добавить к вашим базам. Они, конечно же, останутся на своих местах.
 
 {{< /warning >}}
 

@@ -62,7 +62,7 @@ El nuevo editor también satisface el deseo expresado con frecuencia de poder **
 
 ## Tres plugins se convierten en vistas
 
-Los tres plugins [Calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), [Galería]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) y [Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) han sido parte integral de SeaTable desde la versión 1.0. Ahora, después de 5 años, tienen una nueva forma: Los plugins de Calendario, Kanban y Galería se convertirán en **Vistas de Calendario, Kanban y Galería**. En SeaTable 6.1, le seguirá el [plugin de Línea de tiempo]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+Los tres plugins [Calendario]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}), [Galería]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) y [Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}) han sido parte integral de SeaTable desde la versión 1.0. Ahora, después de 5 años, tienen una nueva forma: Los plugins de Calendario, Kanban y Galería se convertirán en **Vistas de Calendario, Kanban y Galería**. En SeaTable 6.1, le seguirá el [plugin de Línea de tiempo]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 La reimplementación de los plugins como vistas ofrece varias ventajas: Por un lado, facilita mucho su uso. **No es necesario instalar los plugins en una base**, ya que las vistas están disponibles inmediatamente. Por otra parte, los administradores de SeaTable Server apreciarán la integración: En el futuro tampoco será necesario actualizar los plugins por separado.
 
