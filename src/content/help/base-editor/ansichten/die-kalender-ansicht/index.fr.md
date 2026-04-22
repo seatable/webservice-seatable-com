@@ -6,6 +6,13 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/fr/aide/vue-de-calendrier'
+aliases:
+    - '/fr/aide/guide-plugin-calendrier-seatable'
+    - '/fr/aide/anleitung-zum-kalender-plugin'
+    - '/fr/aide/creer-calendriers-multiples-base-seatable'
+    - '/fr/aide/mehrere-kalender-fuer-eine-base-anlegen'
+    - '/fr/aide/ajouter-evenements-plugin-calendrier-seatable'
+    - '/fr/aide/neue-kalendereintraege-im-kalender-plugin-anlegen'
 seo:
     title: 'Vue de Calendrier dans SeaTable – Utiliser la vue chronologique'
     description: "La vue Calendrier de SeaTable affiche vos rendez-vous par année, mois, semaine, jour ou dans l'agenda. Configuration complète et conseils."

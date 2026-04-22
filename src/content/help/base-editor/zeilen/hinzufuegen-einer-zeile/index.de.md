@@ -27,8 +27,6 @@ Um schnell **mehrere neue Zeilen** hinzuzufügen, können Sie auch die Tastenkom
 
 ![Neue Zeile per Shortcut hinzufügen](images/create-new-row-shortcut.gif)
 
-Des Weiteren bieten einige **Plugins** von SeaTable die Option, neue Einträge hinzuzufügen. Dazu gehören die [Galerie]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) und das [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
-
 ## Warum Sie keine neuen Zeilen anlegen können
 
 Sie können in einer Tabelle keine neue Zeile hinzufügen und Ihnen wird kein Plus-Symbol angezeigt? Dann verfügen Sie vermutlich nicht über die entsprechenden **Berechtigungen** in der Base oder der Ansicht.

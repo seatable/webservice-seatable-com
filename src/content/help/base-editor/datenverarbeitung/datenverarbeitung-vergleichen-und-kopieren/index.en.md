@@ -64,7 +64,7 @@ In the next step, you can select any number of source columns from the **employe
 
 {{< warning  headline="Beware of data loss" >}}
 
-The source and result columns should have **the same column type** so that no data is lost during copying. For example, you can copy data from a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) to a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), but it will no longer be suitable for [calendars]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). So, before performing the operation, create a **result** column of the same type in the destination table for each **source** column you want to copy.
+The source and result columns should have **the same column type** so that no data is lost during copying. For example, you can copy data from a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) to a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), but it will no longer be suitable for [calendars]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}). So, before performing the operation, create a **result** column of the same type in the destination table for each **source** column you want to copy.
 
 {{< /warning >}}
 

@@ -6,6 +6,10 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/de/hilfe/die-kalender-ansicht'
+aliases:
+    - '/de/hilfe/anleitung-zum-kalender-plugin'
+    - '/de/hilfe/mehrere-kalender-fuer-eine-base-anlegen'
+    - '/de/hilfe/neue-kalendereintraege-im-kalender-plugin-anlegen'
 seo:
     title: 'Kalender-Ansicht in SeaTable – chronologischen Überblick nutzen'
     description: 'Die Kalender-Ansicht in SeaTable stellt Ihre Termine pro Jahr, Monat, Woche, Tag oder in der Agenda dar. Komplettes Setup und Tipps.'

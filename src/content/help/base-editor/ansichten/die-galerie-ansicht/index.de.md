@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/de/hilfe/die-galerie-ansicht'
+aliases:
+    - '/de/hilfe/anleitung-zum-galerie-plugin'
+    - '/de/hilfe/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 seo:
     title: 'Galerie-Ansicht: Bilder übersichtlich in SeaTable darstellen'
     description: 'Mit der Galerie-Ansicht verschaffen Sie sich einen lebendigen Überblick über alle Datensätze, die Bilder enthalten.'

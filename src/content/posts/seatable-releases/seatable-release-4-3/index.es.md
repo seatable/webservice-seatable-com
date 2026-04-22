@@ -84,7 +84,7 @@ Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus
 
 {{< warning headline="¡Atención, peligro de confusión!" >}}
 
-También conoces la [galería]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) y la [consulta]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) SQL como **plugins** que puedes añadir a tus bases. Estos, por supuesto, permanecerán en su lugar.
+También conoces la [galería]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) y la [consulta]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) SQL como **plugins** que puedes añadir a tus bases. Estos, por supuesto, permanecerán en su lugar.
 
 {{< /warning >}}
 

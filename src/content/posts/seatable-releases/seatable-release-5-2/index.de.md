@@ -110,7 +110,7 @@ Tabellen lassen sich nun, wie man es aus Microsoft Excel kennt, ausblenden. Ein 
 
 [Checkboxen]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) bieten in SeaTable 5.2 mehr Stiloptionen und noch mehr Farboptionen. Wer den grünen Haken nicht mag, kann nun aus 69 anderen Optionen wählen.
 
-Im [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) lassen sich neue Einträge nun auch per Doppelklick oder über die neue Schaltfläche “+” anlegen.
+Im [Kalender-Plugin]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) lassen sich neue Einträge nun auch per Doppelklick oder über die neue Schaltfläche “+” anlegen.
 
 ## Zwei funktionale Änderungen
 

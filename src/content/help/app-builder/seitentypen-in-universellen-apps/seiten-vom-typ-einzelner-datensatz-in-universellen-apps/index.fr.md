@@ -11,7 +11,7 @@ aliases:
     - '/fr/aide/page-fiche-individuelle-apps-universelles'
 seo:
     title: "Page d'enregistrement unique dans SeaTable Apps – guide"
-    description: 'Présentez chaque ligne dans SeaTable : pages personnalisées, éléments statiques, filtres, droits et modèles pour tout contexte d’application.'
+    description: "Présentez chaque ligne dans SeaTable : pages personnalisées, éléments statiques, filtres, droits et modèles pour tout contexte d'application."
 weight: 11
 ---
 

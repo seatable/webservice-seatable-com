@@ -76,7 +76,7 @@ seo:
 - в [колонке ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - через [кнопку]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (действие: "Скопировать строку в другую таблицу")
 - с помощью [автоматизации]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
-- в [календаре]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
+- в [представлении Календарь, Канбан, Галерея и Дерево]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - через [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - на [страницах]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [форм]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) и [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) в приложениях
 

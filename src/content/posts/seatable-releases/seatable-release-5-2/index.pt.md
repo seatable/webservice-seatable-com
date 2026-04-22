@@ -110,7 +110,7 @@ As tabelas podem agora ser ocultadas, como é familiar no Microsoft Excel. Uma *
 
 [As caixas de verificação]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) oferecem mais opções de estilo e ainda mais opções de cor no SeaTable 5.2. Se não gostar da marca verde, pode agora escolher entre 69 outras opções.
 
-No [plugin do calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), agora também é possível criar novas entradas fazendo duplo clique ou utilizando o novo botão "+".
+No [plugin do calendário]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}), agora também é possível criar novas entradas fazendo duplo clique ou utilizando o novo botão "+".
 
 ## Duas alterações funcionais
 

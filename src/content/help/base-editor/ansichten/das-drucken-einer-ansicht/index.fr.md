@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/das-drucken-einer-ansicht'
 seo:
     title: 'Imprimer une vue SeaTable – réglages et tutoriel rapide'
-    description: 'Imprimez vos vues SeaTable directement depuis la table. Sélectionnez format, disposition et options avancées pour personnaliser et optimiser l’impression.'
+    description: "Imprimez vos vues SeaTable directement depuis la table. Sélectionnez format, disposition et options avancées pour personnaliser et optimiser l'impression."
 weight: 10
 ---
 

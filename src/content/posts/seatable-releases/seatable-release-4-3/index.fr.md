@@ -84,7 +84,7 @@ Si vous utilisez les deux applications en cours d'exécution, nous vous recomman
 
 {{< warning headline="Attention, risque de confusion !" >}}
 
-Vous connaissez également la [galerie]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) et la [requête SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) en tant que **plugins** que vous pouvez ajouter à vos bases. Celles-ci continuent bien entendu d'exister.
+Vous connaissez également la [galerie]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) et la [requête SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) en tant que **plugins** que vous pouvez ajouter à vos bases. Celles-ci continuent bien entendu d'exister.
 
 {{< /warning >}}
 

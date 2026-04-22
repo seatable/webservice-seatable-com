@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/ru/pomoshch/vid-kanban'
+aliases:
+    - '/ru/pomoshch/rukovodstvo-kanban-plugin'
+    - '/ru/pomoshch/anleitung-zum-kanban-plugin'
 seo:
     title: 'Создание и использование представления Канбан в SeaTable'
     description: 'Узнайте, как настроить представление Канбан в SeaTable и как оптимально использовать его для визуализации процессов'

@@ -6,6 +6,13 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/help/the-calendar-view'
+aliases:
+    - '/help/calendar-plugin-guide-seatable'
+    - '/help/anleitung-zum-kalender-plugin'
+    - '/help/create-multiple-calendars-base-seatable'
+    - '/help/mehrere-kalender-fuer-eine-base-anlegen'
+    - '/help/add-calendar-entries-calendar-plugin-seatable'
+    - '/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
 seo:
     title: 'Calendar view in SeaTable – use chronological overview'
     description: 'The Calendar view in SeaTable displays your appointments per year, month, week, day or in the agenda. Complete setup and tips.'
