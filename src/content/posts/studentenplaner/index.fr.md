@@ -39,7 +39,7 @@ Savais-tu qu'il existe aujourd'hui de nombreuses plates-formes pour les manuels 
 
 ### Utilise l'affichage du calendrier
 
-Pour exploiter pleinement la puissance de ton planning étudiant, tu peux utiliser la [vue calendrier]({{< relref "help/base-editor/ansichten" >}}). Pour cela, il te suffit d'ajouter le plugin calendrier et de visualiser ensuite toutes tes dates limites de remise dans ton calendrier personnel.
+Pour exploiter pleinement la puissance de ton planning étudiant, tu peux utiliser la [vue calendrier]({{< relref "help/base-editor/ansichten" >}}). Pour cela, il te suffit d'ajouter la vue de calendrier et de visualiser ensuite toutes tes dates limites de remise dans ton calendrier personnel.
 
 ![Agenda des étudiants](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 

@@ -21,7 +21,7 @@ Zudem wird auch Ihr Sales-Team mit neuen Herausforderungen konfrontiert: Es gibt
 
 Im Store Management gibt es einiges zu beachten. Unsere Softwarelösung hilft Ihnen dabei, den Überblick über Mitarbeiter und Weiterbildungen zu behalten. Sie zeigt Ihnen den Umsatz in verschiedenen Umsatzclustern an und bietet mit unserem Statistik-Plugin auch Grundlage für verschiedene Umsatzanalysen. Für Ihre Sales Manager bietet SeaTable ein einfaches Webformular, mit welchem Store-Checks organisierter gestaltet werden können.
 
-Das Timeline-Plugin auch alle anstehenden Termine an. Zu guter Letzt hilft Ihnen unser Store Management Template auch bei der Bestellung und Übersicht aller POS-Materialien in allen Filialen. Im Folgenden werden wir Ihnen erklären, wie genau das Template aufgebaut ist und wie Sie es benutzen können.
+Die Zeitleisten-Ansicht auch alle anstehenden Termine an. Zu guter Letzt hilft Ihnen unser Store Management Template auch bei der Bestellung und Übersicht aller POS-Materialien in allen Filialen. Im Folgenden werden wir Ihnen erklären, wie genau das Template aufgebaut ist und wie Sie es benutzen können.
 
 [Hier gelangen Sie direkt zu unserem Template]({{< relref "templates/sales/store-management" >}})
 

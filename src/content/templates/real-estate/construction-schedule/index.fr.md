@@ -88,7 +88,7 @@ sections:
       subtitle: "Tout en un coup d'œil - toujours à jour"
       items:
       - headline: "Planification facile grâce à la représentation visuelle"
-        text: "Il est fastidieux de garder une vue d'ensemble dans un planning de construction purement tabulaire comme dans Excel. Dans SeaTable, vous visualisez votre projet sans frais supplémentaires ni effort particulier grâce à notre plug-in de ligne de temps. Ainsi, vous coordonnez parfaitement tous les délais."
+        text: "Il est fastidieux de garder une vue d'ensemble dans un planning de construction purement tabulaire comme dans Excel. Dans SeaTable, vous visualisez votre projet sans frais supplémentaires ni effort particulier grâce à notre vue de ligne de temps. Ainsi, vous coordonnez parfaitement tous les délais."
         image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: "Modèle de calendrier de construction gratuit en ligne avec SeaTable, tableau, personnalisable, partage avec les planificateurs et les artisans, protection élevée des données, et accès mobile."
       - headline: "Un aperçu de tous les corps de métier"
@@ -96,7 +96,7 @@ sections:
         image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: "Gardez un œil sur tous les artisans et les coordonnées grâce au logiciel de planification des travaux de SeaTable."
       - headline: "Tous les travaux en un coup d'œil"
-        text: "Utilisez le plug-in Timeline ou la vue Kanban pour visualiser l'état de chaque travail et les calendriers. Cela vous permet d'être toujours à jour et, en cas de retard, de voir immédiatement quels travaux ultérieurs sont concernés."
+        text: "Utilisez la vue Kanban ou la vue de ligne de temps pour visualiser l'état de chaque travail et les calendriers. Cela vous permet d'être toujours à jour et, en cas de retard, de voir immédiatement quels travaux ultérieurs sont concernés."
         image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: "App avec ligne de temps et vue Kanban pour le calendrier de construction."
       - headline: "Tableau de bord en temps réel pour le contrôle des coûts"

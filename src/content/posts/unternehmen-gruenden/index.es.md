@@ -97,7 +97,7 @@ También debe comprobar sus obligaciones con el **colegio profesional** y la **a
 
 {{< warning headline="Consejo" >}}
 
-SeaTable le permite realizar un seguimiento de todas las fechas y plazos importantes mientras crea su empresa. Utilice el calendario y el plugin de cronograma para mostrar claramente hitos como la presentación del plan de empresa, los registros, las citas con las autoridades o las solicitudes de financiación. De este modo, nunca se le escapará un plazo y se asegurará de que su empresa avanza paso a paso según lo previsto.
+SeaTable le permite realizar un seguimiento de todas las fechas y plazos importantes mientras crea su empresa. Utilice el calendario y la vista de línea de tiempo para mostrar claramente hitos como la presentación del plan de empresa, los registros, las citas con las autoridades o las solicitudes de financiación. De este modo, nunca se le escapará un plazo y se asegurará de que su empresa avanza paso a paso según lo previsto.
 
 {{< /warning >}}
 

@@ -122,7 +122,7 @@ O Kanban prospera com a melhoria contínua. Não se limite a recolher feedback, 
 
 Vejamos em pormenor como pode aplicar o método Kanban. Seguindo o primeiro princípio básico, selecione qualquer fluxo de trabalho existente. Em princípio, também pode criar o seu quadro Kanban num quadro branco com notas adesivas ou fazer algo no Excel. No entanto, um quadro digital é mais transparente e flexível, tal como a maioria dos [sistemas de gestão do trabalho]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) já oferece, em alguns casos gratuitamente. Siga estes passos simples:
 
-1\. Crie um quadro vazio: O quadro é a base com que irá trabalhar mais tarde. Pense com calma nas etapas de trabalho que pretende mapear, em vez de encher o quadro com todo o seu atraso. Se utilizar uma solução sem código, como o SeaTable, pode utilizar o plugin Kanban.
+1\. Crie um quadro vazio: O quadro é a base com que irá trabalhar mais tarde. Pense com calma nas etapas de trabalho que pretende mapear, em vez de encher o quadro com todo o seu atraso. Se utilizar uma solução sem código, como o SeaTable, pode utilizar a vista Kanban.
 
 2\. Crie colunas para visualizar os seus processos: Normalmente, as colunas individuais representam diferentes etapas do processo ou estados das tarefas, mas basicamente tem toda a liberdade aqui. Para começar, é melhor trabalhar com ***Atrasado, Em curso, Em pausa*** e ***Concluído***. É importante que todos os que trabalham com o quadro tenham um entendimento comum da estrutura.
 

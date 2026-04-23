@@ -151,7 +151,7 @@ sections:
           - headline: Easy to Use
             text: The familiar table view and SeaTable’s drag-and-drop functionality make getting started easy, even for Excel users.
           - headline: Versatile Views
-            text: Use individual views and the Kanban, Timeline, or Gallery plugin to structure your data.
+            text: Use individual views and the Kanban, Timeline, or Gallery view to structure your data.
           - headline: Notifications
             text: Define triggers that notify you or your colleagues or update task statuses automatically.
           - headline: Color Coding

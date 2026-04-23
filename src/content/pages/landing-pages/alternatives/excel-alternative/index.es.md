@@ -151,7 +151,7 @@ sections:
           - headline: Fácil de usar
             text: La vista de tabla familiar y la función de arrastrar y soltar de SeaTable facilitan la transición, incluso para usuarios de Excel.
           - headline: Vistas diversas
-            text: Utilice vistas individuales y los complementos de Kanban, Timeline o Galería para estructurar sus datos.
+            text: Utilice vistas individuales y las vistas de Kanban, Timeline o Galería para estructurar sus datos.
           - headline: Notificaciones
             text: Defina disparadores (triggers) para que usted o sus colegas reciban notificaciones o se actualice el estado de las tareas.
           - headline: Marcadores de color

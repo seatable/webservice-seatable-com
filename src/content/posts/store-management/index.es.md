@@ -23,7 +23,7 @@ Además, su equipo de ventas también se enfrenta a nuevos retos: Hay más sucur
 
 Hay muchas cosas que hay que tener en cuenta en la gestión de una tienda. Nuestra solución de software le ayuda a realizar un seguimiento de los empleados y de la formación. Le muestra el volumen de negocio en diferentes grupos de facturación y, con nuestro plugin de estadísticas, también proporciona la base para varios análisis de facturación. Para sus gestores de ventas, SeaTable ofrece un sencillo formulario web que puede utilizarse para organizar los controles de las tiendas.
 
-El complemento de la línea de tiempo también muestra todas las próximas citas. Por último, pero no menos importante, nuestra Plantilla de Gestión de Tiendas también le ayuda a ordenar y hacer un seguimiento de todos los materiales del punto de venta en todas las sucursales. A continuación, explicaremos cómo está estructurada exactamente la plantilla y cómo puede utilizarla.
+La vista de la línea de tiempo también muestra todas las próximas citas. Por último, pero no menos importante, nuestra Plantilla de Gestión de Tiendas también le ayuda a ordenar y hacer un seguimiento de todos los materiales del punto de venta en todas las sucursales. A continuación, explicaremos cómo está estructurada exactamente la plantilla y cómo puede utilizarla.
 
 [Haga clic aquí para ir directamente a nuestra plantilla]({{< relref "templates/sales/store-management" >}})
 

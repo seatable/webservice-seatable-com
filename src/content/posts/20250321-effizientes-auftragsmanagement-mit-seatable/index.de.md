@@ -49,7 +49,7 @@ Für verschiedene Arbeitsphasen wurden verschiedene Tables angelegt und miteinan
 
 ### Datenvisualisierung
 
-Ein ganz wesentlicher Fortschritt besteht in der unkomplizierten **Erstellung von Dashboards, um Gewinnmargen, Mitarbeiter-KPI oder Projektforschritte zu monitoren** und zu analysieren. Für Projektzeitpläne und –fortschritte erwiesen sich das integrierte Kanban- und das Timeline-Plugin für Gantt-Diagramme als besonders hilfreich.
+Ein ganz wesentlicher Fortschritt besteht in der unkomplizierten **Erstellung von Dashboards, um Gewinnmargen, Mitarbeiter-KPI oder Projektforschritte zu monitoren** und zu analysieren. Für Projektzeitpläne und –fortschritte erwiesen sich die integrierte Kanban- und die Zeitleisten-Ansicht für Gantt-Diagramme als besonders hilfreich.
 
 ![Baustelle planen mit Datenvisualisierung in SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 

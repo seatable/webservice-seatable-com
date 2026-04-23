@@ -191,7 +191,7 @@ El día del evento, es aconsejable volver a llamar a los proveedores de servicio
 
 Para que su evento sea todo un éxito, es esencial tener en todo momento una visión clara de su planificación previa y de los pasos siguientes. Con la plantilla gratuita de SeaTable, no sólo podrá gestionar sus eventos al detalle, sino también controlar en todo momento los costes, los ingresos y el presupuesto.
 
-El formulario web integrado facilita la inscripción de los participantes en su evento. Puede crear y enviar facturas con un solo clic, sin tener que dedicar mucho esfuerzo. Además, la plantilla ofrece la opción de utilizar el plugin de línea de tiempo para la programación o el plugin de mapa para registrar visualmente las ubicaciones del evento.
+El formulario web integrado facilita la inscripción de los participantes en su evento. Puede crear y enviar facturas con un solo clic, sin tener que dedicar mucho esfuerzo. Además, la plantilla ofrece la opción de utilizar la vista de línea de tiempo para la programación o el plugin de mapa para registrar visualmente las ubicaciones del evento.
 
 Con estas funciones, SeaTable ofrece la solución ideal para optimizar la planificación de un evento. Todo lo que tiene que hacer para utilizar la plantilla es registrarse con su dirección de correo electrónico.
 

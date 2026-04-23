@@ -88,7 +88,7 @@ sections:
       subtitle: 'Alles auf einen Blick – immer aktuell'
       items:
       - headline: 'Einfache Planung dank visueller Darstellung'
-        text: 'In einem rein tabellarischen Bauzeitenplan wie in Excel den Überblick zu behalten, ist mühsam. In SeaTable visualisieren Sie Ihr Projekt ohne Zusatzkosten oder großen Aufwand mit unserem Timeline-Plugin. So stimmen Sie alle Termine perfekt aufeinander ab.'
+        text: 'In einem rein tabellarischen Bauzeitenplan wie in Excel den Überblick zu behalten, ist mühsam. In SeaTable visualisieren Sie Ihr Projekt ohne Zusatzkosten oder großen Aufwand mit unserer Zeitleisten-Ansicht. So stimmen Sie alle Termine perfekt aufeinander ab.'
         image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: 'Kostenlose Bauzeitenplan Vorlage online mit SeaTable, Tabelle, individuell anpassbar, Teilen mit Planern und Handwerkern, hoher Datenschutz, und mobiler Zugriff'
       - headline: 'Eine Übersicht über alle Gewerke'
@@ -96,7 +96,7 @@ sections:
         image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: 'Behalten Sie mit der Bauzeitenplan Software von SeaTable alle Handwerker und Kontaktdaten im Blick.'
       - headline: 'Alle Arbeiten im Blick'
-        text: 'Nutzen Sie das Timeline-Plugin oder die Kanban-Ansicht um den Status der einzelnen Arbeiten und die Zeitpläne visuell darzustellen. Dadurch sind Sie stets auf dem aktuellen Stand und sehen bei Verzögerungen sofort, welche Folgeaufträge betroffen sind.'
+        text: 'Nutzen Sie die Zeitleisten-Ansicht oder die Kanban-Ansicht um den Status der einzelnen Arbeiten und die Zeitpläne visuell darzustellen. Dadurch sind Sie stets auf dem aktuellen Stand und sehen bei Verzögerungen sofort, welche Folgeaufträge betroffen sind.'
         image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: 'App mit Timeline und Kanban-Ansicht für Bauzeitenplan.'
       - headline: 'Echtzeit-Dashboard zur Kostenkontrolle'

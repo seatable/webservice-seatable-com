@@ -84,7 +84,7 @@ Le plug-in de conception de page est particulièrement pratique pour le modèle 
 
 ### Plus qu'un modèle de facture
 
-Outre la création de factures, le modèle Écrire une facture offre des fonctions supplémentaires précieuses qui soutiennent votre activité. La fonction de statistiques permet d'évaluerfacilementles chiffres de vente et le chiffre d'affaires, tandis que le plug-in de galerie vous offre un aperçu clair de votreportefeuille de produits. Grâce aux possibilités de personnalisation flexibles de SeaTable, vous pouvez adapter les colonnes, les calculs et les affichages à vos besoins individuels etcréerainsi unefacture PDFqui correspond exactement à votre entreprise.
+Outre la création de factures, le modèle Écrire une facture offre des fonctions supplémentaires précieuses qui soutiennent votre activité. La fonction de statistiques permet d'évaluerfacilementles chiffres de vente et le chiffre d'affaires, tandis que la vue de galerie vous offre un aperçu clair de votreportefeuille de produits. Grâce aux possibilités de personnalisation flexibles de SeaTable, vous pouvez adapter les colonnes, les calculs et les affichages à vos besoins individuels etcréerainsi unefacture PDFqui correspond exactement à votre entreprise.
 
 ## Avantages de SeaTable en tant que logiciel de facturation
 

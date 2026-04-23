@@ -82,7 +82,7 @@ The page design plugin is particularly practical for the invoice template, allow
 
 ### More than just an invoice template
 
-In addition to creating invoices, the invoice template offers valuable additional functions that support your business. The statistics function makes it easy toevaluate sales figures and turnover, while the gallery plugin gives you a clear overview of yourproduct portfolio. Thanks to SeaTable's flexible customization options, you can tailor columns, calculations and views to your needs andcreateaPDF invoicethat fits your business perfectly.
+In addition to creating invoices, the invoice template offers valuable additional functions that support your business. The statistics function makes it easy toevaluate sales figures and turnover, while the gallery view gives you a clear overview of yourproduct portfolio. Thanks to SeaTable's flexible customization options, you can tailor columns, calculations and views to your needs andcreateaPDF invoicethat fits your business perfectly.
 
 ## Advantages of SeaTable as invoicing software
 

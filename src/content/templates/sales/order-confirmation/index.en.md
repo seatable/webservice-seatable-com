@@ -99,7 +99,7 @@ The page design plugin, which allows you to designdocuments in several languages
 
 ### More than an order confirmation template
 
-Do you also need a template for yourquotationorinvoice? Fortunately, the order confirmation is just one of thecountless use casesof SeaTable. Take advantage of equally valuable additional functions:Statisticsallow you to easily evaluate sales figures and turnover, while thegallery pluginprovides an overview of yourproduct portfolio. Thanks to SeaTable's flexible customization options, you can tailor columns, calculations and views to your needs and create an application that fits your business perfectly.
+Do you also need a template for yourquotationorinvoice? Fortunately, the order confirmation is just one of thecountless use casesof SeaTable. Take advantage of equally valuable additional functions:Statisticsallow you to easily evaluate sales figures and turnover, while the gallery view provides an overview of yourproduct portfolio. Thanks to SeaTable's flexible customization options, you can tailor columns, calculations and views to your needs and create an application that fits your business perfectly.
 
 ## Advantages of SeaTable as order confirmation software
 

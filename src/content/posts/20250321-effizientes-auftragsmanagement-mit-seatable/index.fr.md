@@ -50,7 +50,7 @@ Différentes tables ont été créées et reliées entre elles pour différentes
 
 ### Visualisation des données
 
-Un progrès essentiel est la possibilité de créer facilement des tableaux de bord pour suivre et analyser les marges bénéficiaires, les indicateurs de performance clés (KPI) des collaborateurs ou les progrès des projets\*\*. Pour les plannings et l'avancement des projets, le plugin Kanban intégré et le plugin Timeline pour les diagrammes de Gantt se sont révélés particulièrement utiles.
+Un progrès essentiel est la possibilité de créer facilement des tableaux de bord pour suivre et analyser les marges bénéficiaires, les indicateurs de performance clés (KPI) des collaborateurs ou les progrès des projets\*\*. Pour les plannings et l'avancement des projets, la vue Kanban intégré et la vue de ligne de temps pour les diagrammes de Gantt se sont révélés particulièrement utiles.
 
 Planifier un chantier avec la visualisation de données dans SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 

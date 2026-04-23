@@ -16,7 +16,7 @@ weight: 1
 
 Avec SeaTable, vous gardez toujours une vue d'ensemble de vos recettes et dépenses. Saisissez facilement toutes les dépenses via le formulaire web et documentez le type, la catégorie, le montant et la date de la dépense. Vous pouvez en outre télécharger la facture ou le reçu afin de les enregistrer durablement.
 
-Si vous enregistrez toutes vos dépenses dans votre livre de comptes, vous pouvez toujours afficher les données que vous souhaitez voir à l'aide de vues et d'analyses statistiques. Dans la vue standard, les dépenses sont regroupées par mois et triées par date. De plus, nous avons prédéfini d'autres vues pour les différentes personnes du ménage. Le plug-in calendrier vous permet de présenter vos dépenses dans le temps.
+Si vous enregistrez toutes vos dépenses dans votre livre de comptes, vous pouvez toujours afficher les données que vous souhaitez voir à l'aide de vues et d'analyses statistiques. Dans la vue standard, les dépenses sont regroupées par mois et triées par date. De plus, nous avons prédéfini d'autres vues pour les différentes personnes du ménage. La vue de calendrier vous permet de présenter vos dépenses dans le temps.
 
 Lorsque vous attribuez vos dépenses (tableau 1) et vos recettes (tableau 2) à un mois, elles sont automatiquement reliées au budget dans le tableau 3. Là, toutes les recettes et les dépenses sont additionnées dans trois colonnes de formules et la différence ou l'excédent est calculé par mois.
 

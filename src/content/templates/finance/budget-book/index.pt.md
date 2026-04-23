@@ -16,7 +16,7 @@ weight: 1
 
 Com o SeaTable, tem sempre uma visão geral das suas receitas e despesas. Registe comodamente todas as despesas utilizando o formulário Web e documente o tipo, a categoria, o montante e a data da despesa. Também pode carregar a fatura ou o recibo para os guardar permanentemente.
 
-Se todas as despesas forem registradas no livro de orçamento, é possível usar visões e análises estatísticas para exibir exatamente os dados que se deseja ver. Na vista standard, as despesas são agrupadas por mês e ordenadas por data. Também predefinimos vistas adicionais para pessoas individuais do agregado familiar. Pode utilizar o plugin de calendário para apresentar as suas despesas ao longo do tempo.
+Se todas as despesas forem registradas no livro de orçamento, é possível usar visões e análises estatísticas para exibir exatamente os dados que se deseja ver. Na vista standard, as despesas são agrupadas por mês e ordenadas por data. Também predefinimos vistas adicionais para pessoas individuais do agregado familiar. Pode utilizar a vista de calendário para apresentar as suas despesas ao longo do tempo.
 
 Se atribuir as suas despesas (quadro 1) e rendimentos (quadro 2) a um mês, estes são automaticamente associados ao orçamento no quadro 3. Todos os rendimentos e despesas são aí totalizados em três colunas de fórmula e a diferença ou excedente por mês é calculada.
 

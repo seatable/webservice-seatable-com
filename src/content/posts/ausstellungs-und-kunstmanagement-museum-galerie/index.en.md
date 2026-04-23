@@ -88,9 +88,9 @@ Our template [Art Gallery Management]({{< relref "templates/operations/art-galle
 
 Object overview of the Art Gallery Template
 
-### Visual representation of the objects with the gallery plug-in
+### Visual representation of the objects with the gallery view
 
-The table view of SeaTable can be flexibly adapted to the needs of your individual employees with individual views. In addition, SeaTable has other display options besides the tabular view. For entries with pictures, for example, it can make sense to use the [gallery plugin]({{< relref "help/base-editor/ansichten" >}}) to get a clear overview and quickly find the desired entry. A click on the entry is sufficient to switch to the detailed view and make adjustments to the data.
+The table view of SeaTable can be flexibly adapted to the needs of your individual employees with individual views. In addition, SeaTable has other display options besides the tabular view. For entries with pictures, for example, it can make sense to use the [gallery view]({{< relref "help/base-editor/ansichten" >}}) to get a clear overview and quickly find the desired entry. A click on the entry is sufficient to switch to the detailed view and make adjustments to the data.
 
 ![The artists presented as a gallery](art-gallery-management-gallery-view.png)
 

@@ -40,7 +40,7 @@ Did you know that there are now many platforms for second-hand textbooks? Take a
 
 ### Use the calendar view
 
-To use the full power of your student planner, you can use the [calendar view]({{< relref "help/base-editor/ansichten" >}}). To do this, simply add the calendar plugin and you will then see all your deadlines clearly arranged in your personal calendar.
+To use the full power of your student planner, you can use the [calendar view]({{< relref "help/base-editor/ansichten" >}}). To do this, simply add the calendar view and you will then see all your deadlines clearly arranged in your personal calendar.
 
 ![Student planner](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 

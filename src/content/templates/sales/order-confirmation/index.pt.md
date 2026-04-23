@@ -101,7 +101,7 @@ O plugin de design de páginas, que lhe permite conceberdocumentos em várias l�
 
 ### Mais do que um simples modelo de confirmação de encomenda
 
-Também precisa de um modelo para o seuorçamentooufatura? Felizmente, a confirmação da encomenda é apenas um dosinúmeros casos de utilizaçãodo SeaTable. Também pode utilizar funções adicionais valiosas:As estatísticaspermitem-lhe analisar facilmente os números de vendas e o volume de negócios, enquanto oplugin da galeriafornece uma visão geral da suacarteira de produtos. Graças às opções flexíveis de personalização do SeaTable, pode adaptar colunas, cálculos e vistas às suas necessidades individuais e criar uma aplicação que se adapte perfeitamente à sua empresa.
+Também precisa de um modelo para o seuorçamentooufatura? Felizmente, a confirmação da encomenda é apenas um dosinúmeros casos de utilizaçãodo SeaTable. Também pode utilizar funções adicionais valiosas:As estatísticaspermitem-lhe analisar facilmente os números de vendas e o volume de negócios, enquanto a vista de galeria fornece uma visão geral da sua carteira de produtos. Graças às opções flexíveis de personalização do SeaTable, pode adaptar colunas, cálculos e vistas às suas necessidades individuais e criar uma aplicação que se adapte perfeitamente à sua empresa.
 
 ## Vantagens do SeaTable como software de confirmação de encomendas
 

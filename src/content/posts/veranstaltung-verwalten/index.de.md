@@ -190,7 +190,7 @@ Am Tag der Veranstaltung ist es ratsam, noch einmal mit Ihren Dienstleistern tel
 
 Damit Ihre Veranstaltung ein voller Erfolg wird, ist es maßgebend, jederzeit einen klaren Überblick über Ihre bisherige Planung sowie die kommenden Schritte zu haben. Mit der kostenlosen Vorlage von SeaTable können Sie nicht nur detailliert Ihre Veranstaltungen verwalten, sondern auch stets den Überblick über Kosten, Einnahmen und Budget behalten.
 
-Die Verwendung des integrierten Webformulars ermöglicht es den Teilnehmern, sich problemlos für Ihre Veranstaltung anzumelden. Sie können Rechnungen mit nur einem Klick erstellen und versenden, ohne großen Aufwand betreiben zu müssen. Darüber hinaus bietet die Vorlage die Möglichkeit, das Timeline-Plugin für die Zeitplanung zu nutzen oder das Karten-Plugin, um die Veranstaltungsorte visuell festzuhalten.
+Die Verwendung des integrierten Webformulars ermöglicht es den Teilnehmern, sich problemlos für Ihre Veranstaltung anzumelden. Sie können Rechnungen mit nur einem Klick erstellen und versenden, ohne großen Aufwand betreiben zu müssen. Darüber hinaus bietet die Vorlage die Möglichkeit, die Zeitleisten-Ansicht für die Zeitplanung zu nutzen oder das Karten-Plugin, um die Veranstaltungsorte visuell festzuhalten.
 
 Mit diesen Funktionen bietet SeaTable die ideale Lösung, um die Planung einer Veranstaltung zu optimieren. Alles, was Sie tun müssen, um die Vorlage zu nutzen, ist sich mit Ihrer E-Mail-Adresse zu registrieren.
 

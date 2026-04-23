@@ -39,7 +39,7 @@ En la tabla "Libros para comprar" puede anotar la bibliografía que necesita. Lo
 
 ### Utilizar la vista de calendario
 
-Para aprovechar toda la potencia de su agenda de estudiante, puede utilizar la [vista de calendario]({{< relref "help/base-editor/ansichten" >}}). Para ello, sólo tiene que añadir el plugin de calendario y verás todos sus plazos claramente ordenados en su calendario personal.
+Para aprovechar toda la potencia de su agenda de estudiante, puede utilizar la [vista de calendario]({{< relref "help/base-editor/ansichten" >}}). Para ello, sólo tiene que añadir la vista de calendario y verás todos sus plazos claramente ordenados en su calendario personal.
 
 ![Planificador de estudiantes](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 

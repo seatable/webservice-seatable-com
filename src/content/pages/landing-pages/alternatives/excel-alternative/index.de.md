@@ -166,7 +166,7 @@ sections:
           - headline: Einfach zu bedienen
             text: Die vertraute Tabellenansicht und die Drag-and-Drop-Funktion von SeaTable macht den Einstieg einfach, auch  für Excel-Anwender.
           - headline: Vielfältige Ansichten
-            text: Nutzen Sie individuelle Ansichten und das Kanban-, Timeline- oder Galerie-Plugin, um ihre Daten zu strukturieren.
+            text: Nutzen Sie individuelle Ansichten und die Kanban-, Zeitleisten- oder Galerie-Ansicht, um ihre Daten zu strukturieren.
           - headline: Benachrichtigungen
             text: Definieren Sie Trigger, bei denen Sie oder Ihre Kollegen benachrichtigt werden oder Aufgabenstatus aktualisiert werden.
           - headline: Farbliche Markierungen

@@ -14,7 +14,7 @@ weight: 1
 
 With SeaTable, you always have an overview of your income and expenses. Conveniently record all expenses using the web form and document the type, category, amount and date of the expense. You can also upload the invoice or receipt to save it permanently.
 
-If you record all your expenses in your budget book, you can always display exactly the data you want to see with the help of views and statistical evaluations. In the standard view, the expenses are grouped by month and sorted by date. We have also predefined additional views for individual people in the household. You can use the calendar plugin to display your expenses over time.
+If you record all your expenses in your budget book, you can always display exactly the data you want to see with the help of views and statistical evaluations. In the standard view, the expenses are grouped by month and sorted by date. We have also predefined additional views for individual people in the household. You can use the calendar view to display your expenses over time.
 
 If you assign your expenses (Table 1) and income (Table 2) to a month, they are automatically linked to the budget in Table 3. There, all income and expenses are totaled in three formula columns and the difference or surplus per month is calculated.
 

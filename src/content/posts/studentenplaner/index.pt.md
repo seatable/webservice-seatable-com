@@ -39,7 +39,7 @@ Sabia que existem agora muitas plataformas para livros de texto em segunda mão?
 
 ### Utilizar a vista de calendário
 
-Para utilizar toda a potência do seu planificador estudantil, pode utilizar a [vista de calendário]({{< relref "help/base-editor/ansichten" >}}). Para o fazer, basta adicionar o plugin do calendário e verá então todos os seus prazos claramente organizados no seu calendário pessoal.
+Para utilizar toda a potência do seu planificador estudantil, pode utilizar a [vista de calendário]({{< relref "help/base-editor/ansichten" >}}). Para o fazer, basta adicionar a vista do calendário e verá então todos os seus prazos claramente organizados no seu calendário pessoal.
 
 ![Planeador de estudantes](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 

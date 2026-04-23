@@ -50,7 +50,7 @@ Foram criadas tabelas diferentes e ligadas entre si para diferentes fases de tra
 
 ### Visualização de dados
 
-Um avanço muito significativo é a **criação descomplicada de painéis para monitorizar** e analisar as margens de lucro, os KPIs dos funcionários ou o progresso do projeto. O Kanban integrado e o plugin de linha temporal para gráficos de Gantt revelaram-se particularmente úteis para os calendários e o progresso dos projectos.
+Um avanço muito significativo é a **criação descomplicada de painéis para monitorizar** e analisar as margens de lucro, os KPIs dos funcionários ou o progresso do projeto. O Kanban integrado e a vista de linha temporal para gráficos de Gantt revelaram-se particularmente úteis para os calendários e o progresso dos projectos.
 
 ![Planeamento do estaleiro de construção com visualização de dados no SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 

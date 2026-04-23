@@ -156,7 +156,7 @@ sections:
           - headline: Facile à utiliser
             text: La vue tableau familière et la fonction glisser-déposer de SeaTable facilitent la prise en main, même pour les utilisateurs d'Excel.
           - headline: Diverses vues
-            text: Utilisez des vues individuelles et le plugin Kanban, Timeline ou Galerie pour structurer vos données.
+            text: Utilisez des vues individuelles et les vues de Kanban, Timeline ou Galerie pour structurer vos données.
           - headline: Notifications
             text: Définissez des déclencheurs pour que vous ou vos collègues soyez avertis ou que les statuts des tâches soient mis à jour.
           - headline: Marquages de couleur

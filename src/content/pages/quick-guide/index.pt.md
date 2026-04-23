@@ -90,8 +90,8 @@ sections:
       weight: 7
       title: Ative um plugin
       description: |
-          Em muitas situações, outra forma de exibição pode ser útil. Por exemplo, ative o plugin Kanban.<br><br>
-          O SeaTable possui estes e outros plugins:
+          Em muitas situações, outra forma de exibição pode ser útil. Por exemplo, ative a vista Kanban.<br><br>
+          SeaTable possui estes e outros plugins e vistas:
       items:
           - text: Calendário
           - text: Galeria

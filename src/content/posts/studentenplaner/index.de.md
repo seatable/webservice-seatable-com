@@ -37,7 +37,7 @@ Wusstest du, dass es mittlerweile viele Plattformen für gebrauchte Lehrbücher 
 
 ### Nutze die Kalender Ansicht
 
-Um die volle Power deines Studentenplaners auszuschöpfen, kannst Du die [Kalenderansicht]({{< relref "help/base-editor/ansichten" >}}) benutzen. Hierzu fügst du ganz einfach das Kalender Plugin hinzu und siehst anschließend alle deine Abgabefristen übersichtlich in deinem persönlichen Kalender.
+Um die volle Power deines Studentenplaners auszuschöpfen, kannst Du die [Kalenderansicht]({{< relref "help/base-editor/ansichten" >}}) benutzen. Hierzu fügst du ganz einfach die Kalender-Ansicht hinzu und siehst anschließend alle deine Abgabefristen übersichtlich in deinem persönlichen Kalender.
 
 ![Studentenplaner](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 

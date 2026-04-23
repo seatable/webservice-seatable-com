@@ -23,7 +23,7 @@ In addition, your sales team is also confronted with new challenges: There are m
 
 There are a lot of things to consider in store management. Our software solution helps you to keep track of employees and training. It shows you the sales in different sales clusters and with our statistics plugin it also provides the basis for various sales analyses. For your sales managers, SeaTable offers a simple web form that can be used to make store checks more organized.
 
-The timeline plug-in also displays all upcoming appointments. Last but not least, our Store Management Template also helps you to order and keep track of all POS materials in all branches. In the following, we will explain how exactly the template is structured and how you can use it.
+The timeline view also displays all upcoming appointments. Last but not least, our Store Management Template also helps you to order and keep track of all POS materials in all branches. In the following, we will explain how exactly the template is structured and how you can use it.
 
 [Click here to go directly to our template]({{< relref "templates/sales/store-management" >}})
 
