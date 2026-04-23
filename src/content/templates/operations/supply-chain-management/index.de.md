@@ -106,7 +106,7 @@ sections:
         image_alt: 'Wareneingangstabelle mit automatisch befüllten Feldern, Statusfarben und Webformular im Supply Chain Management Tool'
       - headline: 'Nahtloser Übergang in die Auslieferung'
         text: 'Wenn alle Lieferantendaten, Artikel und Wareneingänge im Supply Chain Management Tool erfasst sind, starten Sie direkt in die Auslieferung: Filialen ordern per Webformular, der Versandstatus wird per Knopfdruck aktualisiert und eine automatische E-Mail informiert die jeweilige Filiale – End-to-End Visibilität von der Beschaffung bis zur Auslieferung.'
-        image: '/images/template_page_supply_chain_mangement_tool_05.png'
+        image: '/images/template_page_supply_chain_management_tool_05.png'
         image_alt: 'Warenausgang mit automatischer Statusaktualisierung und Versandbenachrichtigung im Supply Chain Management Tool'
             
     - name: "content-6"
