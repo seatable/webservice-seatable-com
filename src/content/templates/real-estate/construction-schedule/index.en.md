@@ -88,7 +88,7 @@ sections:
       subtitle: 'Everything at a glance - always up-to-date'
       items:
       - headline: 'Simple planning thanks to visual representation'
-        text: 'Keeping an overview in a purely tabular construction schedule like in Excel is tedious. In SeaTable, you can visualize your project with our timeline plugin at no extra cost or effort. This allows you to perfectly coordinate all deadlines.'
+        text: 'Keeping an overview in a purely tabular construction schedule like in Excel is tedious. In SeaTable, you can visualize your project with our timeline view at no extra cost or effort. This allows you to perfectly coordinate all deadlines.'
         image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: 'Free construction schedule template online with SeaTable, spreadsheet, customizable, share with planners and tradesmen, high data protection, and mobile access'
       - headline: 'An overview of all trades'
@@ -96,7 +96,7 @@ sections:
         image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: "Keep track of all tradesmen and contact details with SeaTable's construction schedule software."
       - headline: 'All work at a glance'
-        text: 'Use the timeline plugin or the Kanban view to visually display the status of individual tasks and schedules. This means you are always up to date and can immediately see which follow-up orders are affected in the event of delays.'
+        text: 'Use the timeline view or the Kanban view to visually display the status of individual tasks and schedules. This means you are always up to date and can immediately see which follow-up orders are affected in the event of delays.'
         image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: 'App with timeline and Kanban view for construction schedule.'
       - headline: 'Real-time dashboard for cost control'

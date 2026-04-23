@@ -17,7 +17,7 @@ Digital product management is more in demand today than ever before: Modern prod
 
 SeaTable starts here and is able to bring together the most diverse processes and enable meaningful, efficient and transparent collaboration. As a highly flexible software, it brings things like product catalogs, sales figures and store management, project and task management together in a meaningful way, creating order and efficiency.In our blog post you will learnhow our template works and how your product management can achieve maximum efficiency with it.
 
-In our template, we have mapped a digital product management with different workspaces. On the one hand, product catalogs disclose information for external purposes, on the other hand, important internal information is stored here, which is needed for product development and implementation and can thus be accessed by every employee. Since SeaTable also functions as a database, all stored product images form a complete image database in original quality with the gallery plugin.
+In our template, we have mapped a digital product management with different workspaces. On the one hand, product catalogs disclose information for external purposes, on the other hand, important internal information is stored here, which is needed for product development and implementation and can thus be accessed by every employee. Since SeaTable also functions as a database, all stored product images form a complete image database in original quality with the gallery view.
 
 ​
 

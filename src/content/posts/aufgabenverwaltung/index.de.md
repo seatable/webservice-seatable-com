@@ -74,7 +74,7 @@ SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die 
 
 ## Aufgabenverwaltung mit dem Kanban-Board
 
-Für eine bessere Visualisierung und einfachere Handhabung der Aufgabenverwaltung ist das Kanban-Plugin genau das richtige. Das integrierte Plugin funktioniert wie alle gängigen Kanban-Aufgabenmanagement-Tools und ermöglicht das Hin- und Herschieben von Aufgaben in Form von Karten auf Grundlage verschiedener Einordnungskategorien, also etwa dem Status. Wenn eine Aufgabe erledigt ist, kann die verantwortliche Person die Karte einfach von “doing” zu “done” schieben und die Aufgabe wird als erledigt markiert.
+Für eine bessere Visualisierung und einfachere Handhabung der Aufgabenverwaltung ist die Kanban-Ansicht genau die richtige. Die integrierte Ansicht funktioniert wie alle gängigen Kanban-Aufgabenmanagement-Tools und ermöglicht das Hin- und Herschieben von Aufgaben in Form von Karten auf Grundlage verschiedener Einordnungskategorien, also etwa dem Status. Wenn eine Aufgabe erledigt ist, kann die verantwortliche Person die Karte einfach von “doing” zu “done” schieben und die Aufgabe wird als erledigt markiert.
 
 ![Das Kanban-Board macht Ihre Aufgabenverwaltung einfacher](Kanban-board-711x457.jpg)
 
@@ -90,15 +90,15 @@ Falls die Ansichten in unserem Aufgabenverwaltungs-Template wirklich nur von dem
 
 ## Die Zeit immer im Blick: Mit der Timeline und dem Kalender
 
-Das Timeline-Plugin ist zur zeitlichen Visualisierung Ihrer ganzen Aufgabenverwaltung eine sehr große Hilfe. Damit sehen Sie auf einen Blick, ob Sie mit Ihrer Zeitplanung noch im Rahmen liegen oder ob einige Aufgaben schon im Verzug sind. Durch die Festlegung von Beginndatum und Deadline der Aufgabe kann diese in der Zeitleiste perfekt dargestellt werden. Legen Sie fest, welche weiteren Informationen angezeigt werden sollen, wie etwa die zuständige Person, die exakte Deadline oder die To Do’s.
+Die Zeitleisten-Ansicht ist zur zeitlichen Visualisierung Ihrer ganzen Aufgabenverwaltung eine sehr große Hilfe. Damit sehen Sie auf einen Blick, ob Sie mit Ihrer Zeitplanung noch im Rahmen liegen oder ob einige Aufgaben schon im Verzug sind. Durch die Festlegung von Beginndatum und Deadline der Aufgabe kann diese in der Zeitleiste perfekt dargestellt werden. Legen Sie fest, welche weiteren Informationen angezeigt werden sollen, wie etwa die zuständige Person, die exakte Deadline oder die To Do’s.
 
 Für individuelle Mitarbeiter-Ansichten kreieren Sie im Vorfeld bereits eigene Ansichten für jeden Mitarbeiter. So sieht dann auch jeder seine eigenen Aufgaben in seiner eigenen Zeitleiste und weiß, wie viel Zeit für einzelne Aufgaben noch bleibt. Sie sehen aber etwa auch, wie ausgelastet Ihre Mitarbeiter bei der Aufgabenplanung sind und können umplanen, wenn der Workload ungleich verteilt ist.
 
 ![Planen Sie Ihre Aufgabenliste für ein perfektes Timing](Timeline.gif)
 
-Das Kalender-Plugin bietet ähnlich wie das Timeline-Plugin eine zeitliche Übersicht über das gesamte Projekt und alle Planungsstufen der Aufgabenverwaltung, jedoch ganz im kalendarischen Stil. Die Ansicht nach Tag, Woche, Monat, Jahr oder ganz in der Agenda-Ansicht ermöglicht eine tagesgenaue Betrachtung der Projektschritte und zeigt auf, an welchem Tag wie viel zu tun ist. Auch hier ist die Erstellung von persönlichen Mitarbeiter-Boards ohne Probleme auf Grundlage der erstellen Ansichten möglich.
+Die Kalender-Ansicht bietet ähnlich wie die Zeitleisten-Ansicht eine zeitliche Übersicht über das gesamte Projekt und alle Planungsstufen der Aufgabenverwaltung, jedoch ganz im kalendarischen Stil. Die Ansicht nach Tag, Woche, Monat, Jahr oder ganz in der Agenda-Ansicht ermöglicht eine tagesgenaue Betrachtung der Projektschritte und zeigt auf, an welchem Tag wie viel zu tun ist. Auch hier ist die Erstellung von persönlichen Mitarbeiter-Boards ohne Probleme auf Grundlage der erstellen Ansichten möglich.
 
-![Visualisieren Sie Ihre Aufgabenverwaltung mit dem Kalender Plugin](Cal.gif)
+![Visualisieren Sie Ihre Aufgabenverwaltung mit der Kalender-Ansicht](Cal.gif)
 
 ## Alle Projektfortschritte automatisch erhalten
 

@@ -97,7 +97,7 @@ Prüfen Sie außerdem Ihre Verpflichtungen gegenüber der **Berufsgenossenschaft
 
 {{< warning headline="Tipp" >}}
 
-Mit SeaTable behalten Sie alle wichtigen Termine und Fristen im Blick, während Sie Ihr Unternehmen gründen. Nutzen Sie den Kalender und das Timeline-Plugin, um Meilensteine wie Businessplan-Abgabe, Anmeldungen, Behördentermine oder Förderanträge übersichtlich darzustellen. So verpassen Sie keine Deadline und sorgen dafür, dass Ihre Gründung Schritt für Schritt planmäßig voranschreitet.
+Mit SeaTable behalten Sie alle wichtigen Termine und Fristen im Blick, während Sie Ihr Unternehmen gründen. Nutzen Sie den Kalender und die Zeitleisten-Ansicht, um Meilensteine wie Businessplan-Abgabe, Anmeldungen, Behördentermine oder Förderanträge übersichtlich darzustellen. So verpassen Sie keine Deadline und sorgen dafür, dass Ihre Gründung Schritt für Schritt planmäßig voranschreitet.
 
 {{< /warning >}}
 

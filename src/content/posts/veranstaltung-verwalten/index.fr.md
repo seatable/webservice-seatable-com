@@ -191,7 +191,7 @@ Le jour de l'événement, il est conseillé de téléphoner une dernière fois �
 
 Pour que votre événement soit un succès, il est essentiel d'avoir à tout moment une vue d'ensemble claire de votre planification passée et des étapes à venir. Le modèle gratuit de SeaTable vous permet non seulement de gérer vos événements en détail, mais aussi de garder une vue d'ensemble des coûts, des recettes et du budget.
 
-L'utilisation du formulaire web intégré permet aux participants de s'inscrire facilement à votre événement. Vous pouvez créer et envoyer des factures en un seul clic, sans avoir à fournir de gros efforts. En outre, le modèle offre la possibilité d'utiliser le plug-in Timeline pour la planification du temps ou le plug-in Card pour garder une trace visuelle des lieux de l'événement.
+L'utilisation du formulaire web intégré permet aux participants de s'inscrire facilement à votre événement. Vous pouvez créer et envoyer des factures en un seul clic, sans avoir à fournir de gros efforts. En outre, le modèle offre la possibilité d'utiliser la vue de la ligne de temps pour la planification du temps ou le plug-in de cartographie pour garder une trace visuelle des lieux de l'événement.
 
 Grâce à ces fonctions, SeaTable offre la solution idéale pour optimiser la planification d'un événement. Tout ce que vous avez à faire pour utiliser le modèle est de vous inscrire avec votre adresse e-mail.
 

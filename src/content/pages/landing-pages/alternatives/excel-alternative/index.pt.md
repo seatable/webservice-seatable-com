@@ -151,7 +151,7 @@ sections:
           - headline: Fácil de usar
             text: A visualização de tabela familiar e a função drag-and-drop do SeaTable tornam a transição fácil, inclusive para usuários de Excel.
           - headline: Diversas Visualizações
-            text: Utilize visualizações individuais e plugins de Kanban, Timeline ou Galeria para estruturar seus dados.
+            text: Utilize visualizações individuais e vistas de Kanban, Timeline ou Galeria para estruturar seus dados.
           - headline: Notificações
             text: Defina gatilhos (triggers) para notificar você ou seus colegas ou atualizar o status de tarefas automaticamente.
           - headline: Marcações Coloridas

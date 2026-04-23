@@ -18,7 +18,7 @@ Actualmente, a gestão de produtos digitais é mais procurada do que nunca: os p
 
 O SeaTable começa aqui e é capaz de reunir os mais diversos processos e permitir uma colaboração significativa, eficiente e transparente. Sendo um software altamente flexível, reúne coisas como catálogos de produtos, números de vendas e gestão de lojas, gestão de projectos e tarefas de uma forma significativa, estabelecendo assim ordem e eficiência.Na nossa publicação no blogue, ficará a sabercomo funciona o nosso modelo e como a sua gestão de produtos pode alcançar a máxima eficiência com ele.
 
-No nosso modelo, representámos uma gestão de produtos digitais com diferentes áreas de trabalho. Por um lado, os catálogos de produtos divulgam informações para fins externos, por outro lado, são armazenadas aqui informações internas importantes que são necessárias para o desenvolvimento e implementação de produtos e que podem ser acedidas por todos os funcionários. Uma vez que o SeaTable também funciona como uma base de dados, todas as imagens de produtos armazenadas formam uma base de dados de imagens completa em qualidade original com o plug-in da galeria.
+No nosso modelo, representámos uma gestão de produtos digitais com diferentes áreas de trabalho. Por um lado, os catálogos de produtos divulgam informações para fins externos, por outro lado, são armazenadas aqui informações internas importantes que são necessárias para o desenvolvimento e implementação de produtos e que podem ser acedidas por todos os funcionários. Uma vez que o SeaTable também funciona como uma base de dados, todas as imagens de produtos armazenadas formam uma base de dados de imagens completa em qualidade original com a vista de galeria.
 
 ​
 

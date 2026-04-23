@@ -84,7 +84,7 @@ O plugin de design de páginas é particularmente prático para o modelo de fatu
 
 ### Mais do que um simples modelo de fatura
 
-Para além de criar facturas, o modelo de fatura oferece funções adicionais valiosas que apoiam o seu negócio. A função de estatísticas facilita aanálise dos números de vendas e do volume de negócios, enquanto o plug-in da galeria lhe dá uma visão clara da suacarteira de produtos. Graças às opções de personalização flexíveis do SeaTable, pode adaptar colunas, cálculos e vistas às suas necessidades individuais e criar umafatura em PDFque se adapte perfeitamente à sua empresa.
+Para além de criar facturas, o modelo de fatura oferece funções adicionais valiosas que apoiam o seu negócio. A função de estatísticas facilita aanálise dos números de vendas e do volume de negócios, enquanto a vista de galeria lhe dá uma visão clara da suacarteira de produtos. Graças às opções de personalização flexíveis do SeaTable, pode adaptar colunas, cálculos e vistas às suas necessidades individuais e criar umafatura em PDFque se adapte perfeitamente à sua empresa.
 
 ## Vantagens do SeaTable como software de faturação
 

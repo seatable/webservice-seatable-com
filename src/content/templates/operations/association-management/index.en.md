@@ -17,7 +17,7 @@ Membership data needs to be recorded quickly and efficiently and checked regular
 
 Simply enter your member data via aweb formand let it flow fully automatically into your SeaTable base as new members enter themselves via the web form. This way, you can always keep track of all the important data concerning your members, from their personal details to the courses they have taken and the other events they take part in.
 
-With the help of the calendar plug-in, you and your employees will always have an overview of all upcoming events and organizational projects. You also want to create an invoice in less than 2 minutes? Nothing could be easier. With the page design plug-in, you can design an invoice template and apply it to every other invoice. You can then print it directly or save it as a PDF document and send it to your members by mail or email.
+With the help of the calendar view, you and your employees will always have an overview of all upcoming events and organizational projects. You also want to create an invoice in less than 2 minutes? Nothing could be easier. With the page design plug-in, you can design an invoice template and apply it to every other invoice. You can then print it directly or save it as a PDF document and send it to your members by mail or email.
 
 The Kanban view shows you all members as well as courses and events in compact tiles for a quick overview. The template is rounded off by adashboardthat shows you the most important figures on customers and the corresponding turnover. The map plug-in graphically displays the origin of your club members or sponsors, for example.
 

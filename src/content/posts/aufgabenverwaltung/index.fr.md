@@ -79,7 +79,7 @@ SeaTable permet une communication directe au sein des tableaux, ce qui rend inut
 
 ## Gestion des tâches avec le tableau Kanban
 
-Pour une meilleure visualisation et une manipulation plus simple de la gestion des tâches, le plugin Kanban est exactement ce qu'il vous faut. Le plugin intégré fonctionne comme tous les outils de gestion des tâches Kanban courants et permet de déplacer les tâches sous forme de cartes en fonction de différentes catégories de classement, comme le statut. Lorsqu'une tâche est terminée, la personne responsable peut simplement faire glisser la carte de "doing" à "done" et la tâche est marquée comme terminée.
+Pour une meilleure visualisation et une manipulation plus simple de la gestion des tâches, la vue Kanban est exactement ce qu'il vous faut. La vue intégrée fonctionne comme tous les outils de gestion des tâches Kanban courants et permet de déplacer les tâches sous forme de cartes en fonction de différentes catégories de classement, comme le statut. Lorsqu'une tâche est terminée, la personne responsable peut simplement faire glisser la carte de "doing" à "done" et la tâche est marquée comme terminée.
 
 ![Le tableau Kanban facilite la gestion de vos tâches](Kanban-board-711x457.jpg)
 
@@ -95,15 +95,15 @@ Si les vues de notre modèle de gestion des tâches ne doivent vraiment être vu
 
 ## Toujours avoir l'heure en tête : Avec la ligne du temps et le calendrier
 
-Le plug-in Timeline est d'une grande aide pour la visualisation temporelle de toute votre gestion des tâches. Il vous permet de voir en un coup d'œil si vous êtes encore dans les temps ou si certaines tâches ont déjà pris du retard. En définissant la date de début et l'échéance de la tâche, celle-ci peut être parfaitement représentée dans la ligne du temps. Déterminez quelles autres informations doivent être affichées, comme la personne responsable, la date limite exacte ou les choses à faire.
+La vue de Ligne de temps est d'une grande aide pour la visualisation temporelle de toute votre gestion des tâches. Il vous permet de voir en un coup d'œil si vous êtes encore dans les temps ou si certaines tâches ont déjà pris du retard. En définissant la date de début et l'échéance de la tâche, celle-ci peut être parfaitement représentée dans la ligne du temps. Déterminez quelles autres informations doivent être affichées, comme la personne responsable, la date limite exacte ou les choses à faire.
 
 Pour les vues individuelles des collaborateurs, vous pouvez créer au préalable des vues pour chaque collaborateur. Ainsi, chacun voit ses propres tâches dans sa propre ligne de temps et sait combien de temps il reste pour chaque tâche. Vous voyez également quelle est la charge de travail de vos collaborateurs lors de la planification des tâches et vous pouvez modifier la planification si la charge de travail est inégalement répartie.
 
 ![Planifiez votre liste de tâches pour un timing parfait](Timeline.gif)
 
-Le plug-in Calendrier offre, comme le plug-in Ligne de temps, une vue d'ensemble temporelle de l'ensemble du projet et de toutes les étapes de planification de la gestion des tâches, mais dans un style tout à fait calendaire. L'affichage par jour, semaine, mois, année ou entièrement dans l'aperçu de l'agenda permet de voir les étapes du projet au jour près et indique quel jour et combien il reste à faire. Ici aussi, la création de tableaux personnels pour les collaborateurs est possible sans problème sur la base des vues créées.
+La vue de Calendrier offre, comme la vue de Ligne de temps, une vue d'ensemble temporelle de l'ensemble du projet et de toutes les étapes de planification de la gestion des tâches, mais dans un style tout à fait calendaire. L'affichage par jour, semaine, mois, année ou entièrement dans l'aperçu de l'agenda permet de voir les étapes du projet au jour près et indique quel jour et combien il reste à faire. Ici aussi, la création de tableaux personnels pour les collaborateurs est possible sans problème sur la base des vues créées.
 
-![Visualisez la gestion de vos tâches avec le plugin calendrier](Cal.gif)
+![Visualisez la gestion de vos tâches avec la vue de calendrier](Cal.gif)
 
 ## Recevoir automatiquement toutes les avancées du projet
 

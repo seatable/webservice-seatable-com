@@ -91,8 +91,8 @@ sections:
       weight: 7
       title: Activate a plugin
       description: |
-          In many situations, a different form of presentation can be helpful. For example, activate the Kanban plugin.<br><br>
-          SeaTable knows these and other plugins:
+          In many situations, a different form of presentation can be helpful. For example, activate the Kanban view.<br><br>
+          SeaTable knows these and other views and plugins:
       items:
           - text: Calendar
           - text: Gallery

@@ -97,7 +97,7 @@ Also check your obligations to the **professional association** and **social ins
 
 {{< warning headline="Tip" >}}
 
-With SeaTable, you can keep track of all important dates and deadlines while you are setting up your company. Use the calendar and the timeline plugin to clearly display milestones such as business plan submission, registrations, appointments with authorities or funding applications. This way, you will never miss a deadline and ensure that your start-up progresses step by step according to plan.
+With SeaTable, you can keep track of all important dates and deadlines while you are setting up your company. Use the calendar and the timeline view to clearly display milestones such as business plan submission, registrations, appointments with authorities or funding applications. This way, you will never miss a deadline and ensure that your start-up progresses step by step according to plan.
 
 {{< /warning >}}
 

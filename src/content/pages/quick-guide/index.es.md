@@ -91,8 +91,8 @@ sections:
       weight: 7
       title: Activa un complemento
       description: |
-          En muchas situaciones, otra forma de visualización puede ser útil. Por ejemplo, activa el complemento Kanban.<br><br>
-          SeaTable reconoce estos y otros complementos:
+          En muchas situaciones, otra forma de visualización puede ser útil. Por ejemplo, activa la vista Kanban.<br><br>
+          SeaTable reconoce estos y otros complementos y vistas:
       items:
           - text: Calendario
           - text: Galería

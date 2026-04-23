@@ -23,7 +23,7 @@ Além disso, a sua equipa de vendas é também confrontada com novos desafios: H
 
 Há muitas coisas a considerar na gestão de lojas. A nossa solução de software ajuda-o a manter um registo dos empregados e da formação. Mostra-lhe o volume de negócios em diferentes grupos de volume de negócios e, com o nosso plugin estatístico, fornece também a base para várias análises de volume de negócios. Para os seus gestores de vendas, a SeaTable oferece um simples formulário web que pode ser utilizado para organizar cheques de loja.
 
-O plug-in da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todos os ramos. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
+A vista da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todos os ramos. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
 
 [Clique aqui para ir directamente para o nosso modelo]({{< relref "templates/sales/store-management" >}})
 

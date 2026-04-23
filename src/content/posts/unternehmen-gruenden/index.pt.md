@@ -97,7 +97,7 @@ Além disso, deve verificar as suas obrigações para com a **associação profi
 
 {{< warning headline="Dica" >}}
 
-Com o SeaTable, pode manter-se a par de todas as datas e prazos importantes enquanto cria a sua empresa. Utilize o calendário e o plugin de cronologia para apresentar claramente os marcos importantes, como a apresentação do plano de negócios, os registos, as reuniões com as autoridades ou os pedidos de financiamento. Desta forma, nunca perderá um prazo e garantirá que a sua empresa em fase de arranque progride passo a passo de acordo com o planeado.
+Com SeaTable, pode manter-se a par de todas as datas e prazos importantes enquanto cria a sua empresa. Utilize o calendário e a vista da linha do tempo para apresentar claramente os marcos importantes, como a apresentação do plano de negócios, os registos, as reuniões com as autoridades ou os pedidos de financiamento. Desta forma, nunca perderá um prazo e garantirá que a sua empresa em fase de arranque progride passo a passo de acordo com o planeado.
 
 {{< /warning >}}
 

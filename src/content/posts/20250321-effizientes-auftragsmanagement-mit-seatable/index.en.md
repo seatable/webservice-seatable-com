@@ -51,7 +51,7 @@ Different tables have been created and linked together for different work phases
 
 ### Data visualization
 
-A very significant advance is the uncomplicated **creation of dashboards to monitor** and analyze profit margins, employee KPIs or project progress. The integrated Kanban and timeline plugin for Gantt charts proved to be particularly helpful for project schedules and progress.
+A very significant advance is the uncomplicated **creation of dashboards to monitor** and analyze profit margins, employee KPIs or project progress. The integrated Kanban and timeline view for Gantt charts proved to be particularly helpful for project schedules and progress.
 
 ![Planning a construction site with data visualization in SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 

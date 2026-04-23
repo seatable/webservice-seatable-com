@@ -88,7 +88,7 @@ sections:
       subtitle: 'Todo de un vistazo - siempre al día'
       items:
       - headline: 'Planificación sencilla gracias a la representación visual'
-        text: 'Mantener una visión general en un calendario de construcción puramente tabular como en Excel resulta tedioso. En SeaTable, puede visualizar su proyecto con nuestro plugin de cronograma sin coste ni esfuerzo adicionales. Esto le permite coordinar perfectamente todos los plazos.'
+        text: 'Mantener una visión general en un calendario de construcción puramente tabular como en Excel resulta tedioso. En SeaTable, puede visualizar su proyecto con nuestra vista de línea de tiempo sin coste ni esfuerzo adicionales. Esto le permite coordinar perfectamente todos los plazos.'
         image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: 'Plantilla gratuita de calendario de construcción en línea con SeaTable, hoja de cálculo, personalizable, compartir con planificadores y comerciantes, alta protección de datos y acceso móvil.'
       - headline: 'Una visión general de todos los oficios'
@@ -96,7 +96,7 @@ sections:
         image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: 'Lleve un registro de todos los gremios y datos de contacto con el software de calendario de construcción de SeaTable.'
       - headline: 'Todo el trabajo de un vistazo'
-        text: 'Utilice el plugin de la línea de tiempo o la vista Kanban para visualizar el estado de las tareas individuales y los calendarios. Así estará siempre al día y podrá ver inmediatamente qué órdenes de seguimiento se ven afectadas en caso de retrasos.'
+        text: 'Utilice la vista de la línea de tiempo o la vista Kanban para visualizar el estado de las tareas individuales y los calendarios. Así estará siempre al día y podrá ver inmediatamente qué órdenes de seguimiento se ven afectadas en caso de retrasos.'
         image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: 'Aplicación con cronograma y vista Kanban para el programa de construcción.'
       - headline: 'Cuadro de mando en tiempo real para el control de costes'

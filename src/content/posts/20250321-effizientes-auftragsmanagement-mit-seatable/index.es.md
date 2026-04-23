@@ -50,7 +50,7 @@ Se han creado varias tablas vinculadas entre sí para las distintas fases de tra
 
 ### Visualización de datos
 
-Un avance muy significativo es la sencilla **creación de cuadros de mando para supervisar** y analizar los márgenes de beneficios, los KPI de los empleados o el progreso de los proyectos. El complemento integrado de Kanban y cronograma para los diagramas de Gantt ha demostrado ser especialmente útil para los calendarios y el progreso de los proyectos.
+Un avance muy significativo es la sencilla **creación de cuadros de mando para supervisar** y analizar los márgenes de beneficios, los KPI de los empleados o el progreso de los proyectos. La vista integrada de Kanban y Línea de tiempo para los diagramas de Gantt ha demostrado ser especialmente útil para los calendarios y el progreso de los proyectos.
 
 ![Planificación de obras con visualización de datos en SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 

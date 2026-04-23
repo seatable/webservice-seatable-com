@@ -84,7 +84,7 @@ Besonders praktisch für die Rechnung Vorlage ist das Seitendesign-Plugin, mit d
 
 ### Mehr als eine Rechnungsvorlage
 
-Neben der Rechnungserstellung bietet die Rechnung schreiben Vorlage wertvolle Zusatzfunktionen, die Ihr Geschäft unterstützen. Die Statistik-Funktion ermöglicht eine einfacheAuswertung von Verkaufszahlen und Umsätzen, während das Galerie-Plugin Ihnen eine anschauliche Übersicht über IhrProduktportfoliobietet. Dank der flexiblen Anpassungsmöglichkeiten von SeaTable können Sie Spalten, Berechnungen und Ansichten individuell auf Ihre Bedürfnisse abstimmen und so einePDF-Rechnung erstellen, die genau zu Ihrem Unternehmen passt.
+Neben der Rechnungserstellung bietet die Rechnung schreiben Vorlage wertvolle Zusatzfunktionen, die Ihr Geschäft unterstützen. Die Statistik-Funktion ermöglicht eine einfacheAuswertung von Verkaufszahlen und Umsätzen, während die Galerie-Ansicht Ihnen eine anschauliche Übersicht über IhrProduktportfoliobietet. Dank der flexiblen Anpassungsmöglichkeiten von SeaTable können Sie Spalten, Berechnungen und Ansichten individuell auf Ihre Bedürfnisse abstimmen und so einePDF-Rechnung erstellen, die genau zu Ihrem Unternehmen passt.
 
 ## Vorteile von SeaTable als Rechnungserstellung Software
 

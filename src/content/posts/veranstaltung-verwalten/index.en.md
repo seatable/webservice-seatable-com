@@ -195,7 +195,7 @@ On the day of the event, it is advisable to call your service providers again to
 
 For your event to be a complete success, it is essential to have a clear overview of your previous planning and the next steps at all times. With SeaTable's free template, you can not only manage your events in detail, but also keep track of costs, income and budget at all times.
 
-Using the integrated web form makes it easy for participants to register for your event. You can create and send invoices with just one click, without having to put in a lot of effort. In addition, the template offers the option of using the timeline plugin for scheduling or the map plugin to visually record the event locations.
+Using the integrated web form makes it easy for participants to register for your event. You can create and send invoices with just one click, without having to put in a lot of effort. In addition, the template offers the option of using the timeline view for scheduling or the map plugin to visually record the event locations.
 
 With these features, SeaTable offers the ideal solution to optimize the planning of an event. All you have to do to use the template is register with your e-mail address.
 

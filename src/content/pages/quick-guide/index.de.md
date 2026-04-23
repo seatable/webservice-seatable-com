@@ -89,8 +89,8 @@ sections:
       weight: 7
       title: Aktivieren Sie ein Plugin
       description: |
-          In vielen Situationen kann eine andere Form der Darstellung hilfreich sein. Aktivieren Sie z. B. das Kanban-Plugin.<br><br>
-          Diese und weitere Plugins kennt SeaTable:
+          In vielen Situationen kann eine andere Form der Darstellung hilfreich sein. Aktivieren Sie z. B. die Kanban-Ansicht.<br><br>
+          Diese und weitere Ansichten und Plugins kennt SeaTable:
       items:
           - text: Kalender
           - text: Galerie

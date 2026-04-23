@@ -101,7 +101,7 @@ Le plug-in de conception de page est particulièrement pratique pour les confirm
 
 ### Plus qu'un modèle de confirmation de commande
 
-Vous avez également besoin d'un modèle pour votredevisou votrefacture? La confirmation de commande n'est heureusement qu'un desinnombrables cas d'utilisationde SeaTable. Utilisez des fonctions supplémentaires tout aussi précieuses :Les statistiquesvous permettent d'évaluer facilement les chiffres de vente et le chiffre d'affaires, tandis que leplug-in de galerievous donne un aperçu de votreportefeuille de produits. Grâce aux possibilités de personnalisation flexibles de SeaTable, vous pouvez adapter les colonnes, les calculs et les affichages à vos besoins individuels et créer ainsi une application qui correspond exactement à votre entreprise.
+Vous avez également besoin d'un modèle pour votredevisou votrefacture? La confirmation de commande n'est heureusement qu'un desinnombrables cas d'utilisationde SeaTable. Utilisez des fonctions supplémentaires tout aussi précieuses :Les statistiquesvous permettent d'évaluer facilement les chiffres de vente et le chiffre d'affaires, tandis que la vue de galerie vous donne un aperçu de votre portefeuille de produits. Grâce aux possibilités de personnalisation flexibles de SeaTable, vous pouvez adapter les colonnes, les calculs et les affichages à vos besoins individuels et créer ainsi une application qui correspond exactement à votre entreprise.
 
 ## Avantages de SeaTable en tant que logiciel de confirmation de commande
 

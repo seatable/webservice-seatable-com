@@ -193,7 +193,7 @@ No dia do evento, é aconselhável telefonar novamente aos seus prestadores de s
 
 Para que o seu evento seja um sucesso completo, é essencial ter uma visão clara do seu planeamento anterior e dos próximos passos em todos os momentos. Com o modelo gratuito da SeaTable, pode não só gerir os seus eventos em pormenor, mas também acompanhar os custos, os rendimentos e o orçamento em todos os momentos.
 
-A utilização do formulário Web integrado facilita o registo dos participantes no seu evento. Pode criar e enviar facturas com apenas um clique, sem ter de fazer muito esforço. Além disso, o modelo oferece a opção de utilizar o plugin de cronologia para a programação ou o plugin de mapa para registar visualmente os locais do evento.
+A utilização do formulário Web integrado facilita o registo dos participantes no seu evento. Pode criar e enviar facturas com apenas um clique, sem ter de fazer muito esforço. Além disso, o modelo oferece a opção de utilizar a vista da linha do tempo para a programação ou o plugin de mapa para registar visualmente os locais do evento.
 
 Com estas caraterísticas, o SeaTable oferece a solução ideal para otimizar o planeamento de um evento. Para utilizar o modelo, basta registar-se com o seu endereço de correio eletrónico.
 

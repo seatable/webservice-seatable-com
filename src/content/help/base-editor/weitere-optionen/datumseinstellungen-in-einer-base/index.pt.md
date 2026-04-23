@@ -34,4 +34,4 @@ Apenas os **proprietários** e **administradores** podem editar as definições 
 
 Um ajuste nas definições de data faz com que o dia selecionado passe para a primeira coluna no controlo de calendário de [Colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). Isto aplica-se à base atualmente aberta e a todas as aplicações nela baseadas.
 
-No [Plugin de calendário]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) e na [Página de calendário na aplicação]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), no entanto, pode ainda configurar o primeiro dia da semana individualmente e independentemente da definição na base.
+Na [vista de calendário]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) e na [Página de calendário na aplicação]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), no entanto, pode ainda configurar o primeiro dia da semana individualmente e independentemente da definição na base.

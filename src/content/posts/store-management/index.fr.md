@@ -23,7 +23,7 @@ En outre, votre équipe de vente est également confrontée à de nouveaux défi
 
 Il y a beaucoup de choses à prendre en compte dans la gestion des magasins. Notre solution logicielle vous aide à garder une vue d'ensemble sur les collaborateurs et les formations continues. Elle vous montre le chiffre d'affaires dans différents clusters de chiffre d'affaires et offre également, grâce à notre plug-in de statistiques, une base pour différentes analyses de chiffre d'affaires. Pour vos responsables des ventes, SeaTable propose un formulaire web simple qui permet de mieux organiser les contrôles en magasin.
 
-Le plug-in de la ligne de temps affiche également tous les rendez-vous à venir. Enfin, notre modèle de gestion de magasin vous aide également à commander et à suivre tout le matériel de PLV dans toutes les succursales. Dans les lignes qui suivent, nous allons vous expliquer comment le modèle est structuré et comment vous pouvez l'utiliser.
+La vue de la ligne de temps affiche également tous les rendez-vous à venir. Enfin, notre modèle de gestion de magasin vous aide également à commander et à suivre tout le matériel de PLV dans toutes les succursales. Dans les lignes qui suivent, nous allons vous expliquer comment le modèle est structuré et comment vous pouvez l'utiliser.
 
 [Cliquez ici pour accéder directement à notre modèle]({{< relref "templates/sales/store-management" >}})
 

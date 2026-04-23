@@ -91,8 +91,8 @@ sections:
       weight: 7
       title: Activez un plugin
       description: |
-          Dans de nombreuses situations, une autre forme de présentation peut être utile. Par exemple, activez le plugin Kanban.<br><br>
-          SeaTable propose ces plugins et d’autres :
+          Dans de nombreuses situations, une autre forme de présentation peut être utile. Par exemple, activez la vue Kanban.<br><br>
+          SeaTable propose ces vues et plugins et d’autres :
       items:
           - text: Calendrier
           - text: Galerie

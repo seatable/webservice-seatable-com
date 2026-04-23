@@ -57,7 +57,7 @@ Le **nombre d'images** par album est affiché dans la galerie avec un **numéro 
 
 En cliquant sur l'image d'aperçu, vous ouvrez l'album en mode **plein écran**, dans lequel vous pouvez agrandir et réduire les images à l'aide des **loupes** et passer d'une image à l'autre à l'aide des **flèches**.
 
-![mode plein écran dans le plugin de la galerie](images/gallery-image-preview.gif)
+![mode plein écran dans le la vue de la galerie](images/gallery-image-preview.gif)
 
 ## Ajouter un nouvel enregistrement dans la vue de galerie
 

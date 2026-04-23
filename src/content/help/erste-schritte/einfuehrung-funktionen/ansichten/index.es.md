@@ -16,7 +16,7 @@ seo:
 
 Dependiendo de la tarea y de los datos recogidos, son útiles diferentes **modos de** visualización para facilitar su trabajo en SeaTable. SeaTable le ofrece vistas para este fin: Los datos cuantitativos pueden registrarse mejor en la vista de tabla, estructurarse con filtros, ordenarse y agruparse y evaluarse con ayuda de **estadísticas**.
 
-Para los tipos ampliados de datos que puede almacenar y organizar en SeaTable, existen vistas ampliadas en forma de **plugins**. Para planificar el tiempo, por ejemplo, son especialmente útiles la línea de tiempo y el calendario. Para las imágenes, la galería es útil, y para los datos geográficos, el mapa. Un tablero kanban tiene sentido sobre todo para agrupar selecciones individuales.
+Para los tipos ampliados de datos que puede almacenar y organizar en SeaTable, existen más **vistas y plugins**. Para planificar el tiempo, por ejemplo, son especialmente útiles la línea de tiempo y el calendario. Para las imágenes, la galería es útil, y para los datos geográficos, el mapa. Un tablero kanban tiene sentido sobre todo para agrupar selecciones individuales.
 
 En este artículo, aprenderá qué vistas y plugins están disponibles, cómo puede utilizarlos y para qué casos de uso son especialmente adecuados.
 
@@ -38,14 +38,16 @@ Encontrará información completa sobre las opciones de análisis estadístico e
 
 ## Vistas avanzadas
 
-Con la ayuda de **plug-ins**, la vista de tabla puede complementarse con otras opciones de visualización. De este modo, se amplían los posibles campos de aplicación de SeaTable más allá del análisis puramente cuantitativo de datos numéricos, lo que permite utilizar SeaTable para aplicaciones que no pueden cubrirse con una hoja de cálculo clásica.
+La vista de tabla puede complementarse con otras vistas: Con la [vista de Calendario]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) y la [vista de Línea de tiempo]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) mantendrá una visión general de sus citas y plazos y organizará sus proyectos con éxito. Con la [vista de Galería]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) gestiona registros con imágenes en su base y con la [vista Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}) visualiza sus tareas y fases del proyecto. Por último, la [vista de Árbol]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}) permite mostrar jerarquías entre registros vinculados.
 
-Los plugins permiten ver los datos desde distintos ángulos. El conjunto de datos siempre permanece exactamente igual, solo cambia la presentación.
+[Aquí encontrará una descripción general de las vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+
+## Plugins
+
+Con la ayuda de **plugins** puede complementar su base con opciones de visualización y funciones adicionales. Estos amplían los posibles campos de aplicación de SeaTable más allá de las simples vistas. Los plugins le permiten ver sus datos desde diferentes ángulos.
 
 Los plugins se activan a través del gestor de plugins, que se abre mediante el botón {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** en la esquina superior derecha de la cabecera de la base. [Aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) puedes ver cómo añadir plugins a tu base. Los plugins sólo se activan para la base abierta. Es posible que tengas que volver a activar los plugins en otras bases.
 
-![Vista general de todos los plugins de SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+Muestre direcciones y datos de posición en un mapa mediante el [plugin de mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) o represente estructuras organizativas complejas con el [plugin de Organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}). El [plugin de Diseño de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) así como el plugin de Diseño de informes le ayudan a convertir rápidamente sus registros en documentos maquetados. Con el [plugin de Chat con IA]({{< relref "help/ai/ai-chat/introduction" >}}) puede incluso conectar modelos de IA a su base para analizar o procesar grandes cantidades de datos. Otros plugins ofrecen pizarras, consultas SQL, deduplicación y visualización de relaciones entre tablas.
 
-Con el plugin de [calendario]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}), puedes gestionar imágenes de forma rápida y sencilla en tu Base.
-
-Muestre direcciones y datos de posición en un mapa mediante el complemento de [mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) y visualice sus tareas y fases de proyecto con el [complemento Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) te ayuda a convertir rápidamente tus conjuntos de datos en documentos maquetados.
+[Aquí encontrará una descripción general de todos los plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})

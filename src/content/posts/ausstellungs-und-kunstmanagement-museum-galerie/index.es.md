@@ -87,9 +87,9 @@ Nuestra plantilla [Art Gallery Management]({{< relref "templates/operations/art-
 
 Resumen de objetos de la plantilla de la galería de arte
 
-### Representación visual de los objetos con el complemento de la galería
+### Representación visual de los objetos con la vista de la galería
 
-La vista de tabla de SeaTable puede adaptarse de forma flexible a las necesidades de cada uno de sus empleados con vistas individuales. Además, SeaTable tiene otras opciones de visualización aparte de la vista tabular. Para las entradas con imágenes, por ejemplo, puede tener sentido utilizar el [plugin de galería]({{< relref "help/base-editor/ansichten" >}}) para obtener una visión clara y encontrar rápidamente la entrada deseada. Un clic en la entrada es suficiente para cambiar a la vista detallada y realizar ajustes en los datos.
+La vista de tabla de SeaTable puede adaptarse de forma flexible a las necesidades de cada uno de sus empleados con vistas individuales. Además, SeaTable tiene otras opciones de visualización aparte de la vista tabular. Para las entradas con imágenes, por ejemplo, puede tener sentido utilizar la [vista de galería]({{< relref "help/base-editor/ansichten" >}}) para obtener una visión clara y encontrar rápidamente la entrada deseada. Un clic en la entrada es suficiente para cambiar a la vista detallada y realizar ajustes en los datos.
 
 ![Los artistas se presentan como una galería](art-gallery-management-gallery-view.png)
 

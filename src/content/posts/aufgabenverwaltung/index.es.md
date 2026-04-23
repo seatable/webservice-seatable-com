@@ -77,7 +77,7 @@ SeaTable permite la comunicación directa dentro de las tablas, eliminando la ne
 
 ## Gestión de tareas con el tablero Kanban
 
-Para una mejor visualización y un manejo más sencillo de la gestión de tareas, el plugin Kanban es justo lo que necesita. El plugin integrado funciona como todas las herramientas estándar de gestión de tareas Kanban y permite mover las tareas de un lado a otro en forma de tarjetas basadas en diversas categorías de categorización, como el estado. Cuando se completa una tarea, la persona responsable puede simplemente mover la tarjeta de "haciendo" a "hecho" y la tarea se marca como completada.
+Para una mejor visualización y un manejo más sencillo de la gestión de tareas, la vista Kanban es justo lo que necesita. La vista integrada funciona como todas las herramientas estándar de gestión de tareas Kanban y permite mover las tareas de un lado a otro en forma de tarjetas basadas en diversas categorías de categorización, como el estado. Cuando se completa una tarea, la persona responsable puede simplemente mover la tarjeta de "haciendo" a "hecho" y la tarea se marca como completada.
 
 ![El tablero Kanban facilita la gestión de las tareas](Kanban-board-711x457.jpg)
 
@@ -101,7 +101,7 @@ Para las vistas individuales del personal, se crean por adelantado sus propias v
 
 Al igual que el complemento de la línea de tiempo, el complemento del calendario ofrece una visión temporal de todo el proyecto y de todas las fases de planificación de la gestión de tareas, pero totalmente en estilo calendario. La vista por día, semana, mes, año o en su totalidad en la vista de la agenda permite ver día a día los pasos del proyecto y muestra en qué día hay que hacer. Aquí también es posible la creación de tableros personales de personal sin ningún problema en función de las vistas creadas.
 
-![Visualice su gestión de tareas con el plugin de calendario](Cal.gif)
+![Visualice su gestión de tareas con la vista de calendario](Cal.gif)
 
 ## Reciba automáticamente todos los avances del proyecto
 

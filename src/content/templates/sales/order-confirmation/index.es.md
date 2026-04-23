@@ -101,7 +101,7 @@ El plugin de diseño de páginas, que permite diseñardocumentos en varios idiom
 
 ### Más que una plantilla de confirmación de pedido
 
-¿Necesita también una plantilla para supresupuestoofactura? Afortunadamente, la confirmación de pedido es sólo uno de losinnumerables casos de usode SeaTable. También puede utilizar valiosas funciones adicionales:Las estadísticasle permiten analizar fácilmente las cifras de ventas y el volumen de negocio, mientras que elplugin de galeríale ofrece una visión general de sucartera de productos. Gracias a las flexibles opciones de personalización de SeaTable, puede adaptar columnas, cálculos y vistas a sus necesidades individuales y crear una aplicación que se adapte perfectamente a su empresa.
+¿Necesita también una plantilla para supresupuestoofactura? Afortunadamente, la confirmación de pedido es sólo uno de losinnumerables casos de usode SeaTable. También puede utilizar valiosas funciones adicionales:Las estadísticasle permiten analizar fácilmente las cifras de ventas y el volumen de negocio, mientras que la vista de galería le ofrece una visión general de su cartera de productos. Gracias a las flexibles opciones de personalización de SeaTable, puede adaptar columnas, cálculos y vistas a sus necesidades individuales y crear una aplicación que se adapte perfectamente a su empresa.
 
 ## Ventajas de SeaTable como software de confirmación de pedidos
 

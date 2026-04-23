@@ -16,7 +16,7 @@ weight: 1
 
 Con SeaTable, siempre tendrá una visión general de sus ingresos y gastos. Registre cómodamente todos los gastos mediante el formulario web y documente el tipo, la categoría, el importe y la fecha del gasto. También puede cargar la factura o el recibo para guardarlos de forma permanente.
 
-Si registra todos sus gastos en su libro de presupuesto, puede utilizar vistas y análisis estadísticos para mostrar exactamente los datos que desea ver. En la vista estándar, los gastos se agrupan por mes y se ordenan por fecha. También hemos predefinido vistas adicionales para personas individuales del hogar. Puede utilizar el complemento de calendario para visualizar sus gastos a lo largo del tiempo.
+Si registra todos sus gastos en su libro de presupuesto, puede utilizar vistas y análisis estadísticos para mostrar exactamente los datos que desea ver. En la vista estándar, los gastos se agrupan por mes y se ordenan por fecha. También hemos predefinido vistas adicionales para personas individuales del hogar. Puede utilizar la vista de calendario para visualizar sus gastos a lo largo del tiempo.
 
 Si asignas tus gastos (Tabla 1) e ingresos (Tabla 2) a un mes, se vinculan automáticamente al presupuesto en la Tabla 3. Allí se totalizan todos los ingresos y gastos en tres columnas de fórmulas y se calcula la diferencia o superávit mensual.
 
