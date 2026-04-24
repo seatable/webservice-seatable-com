@@ -1,5 +1,5 @@
 ---
-title: 'Registro digital del tiempo de trabajo con SeaTable: sencillo y conforme a la ley'
+title: 'Registro digital de horas de trabajo con SeaTable: sencillo y conforme a la legislación'
 description: ''
 seo:
     title: 'Registro de horas con SeaTable | eficiente, digital y legal'
@@ -13,205 +13,192 @@ aliases:
 sections:
     - name: hero-5
       weight: 1
-      title: 'Registro de tiempos con SeaTable - registro de tiempos para su empresa'
-      text: 'Olvídese de los relojes de fichar, las hojas de horarios y las tablas de Excel para registrar las horas de trabajo. No hay necesidad de costosos sistemas de registro del tiempo. Reduzca el tiempo y el esfuerzo necesarios para las solicitudes de vacaciones y las notas de enfermedad: gratuito en la versión gratuita, eficaz, intuitivo, claro y flexiblemente personalizable según sus necesidades individuales.'
+      title: 'Control del tiempo conforme a la normativa con SeaTable'
+      text: 'Para muchas empresas, llevar un control fiable del tiempo sigue siendo un reto: las hojas de cálculo de Excel quedan obsoletas, las hojas de asistencia se pierden y, al final del mes, las cifras no cuadran. Esto socava la confianza, genera frustración y plantea riesgos reales debido a cálculos erróneos de las nóminas y, en el peor de los casos, a problemas durante una inspección fiscal. Sin embargo, una solución moderna de control del tiempo no tiene por qué ser complicada. Con SeaTable, el control de las horas de su equipo es muy sencillo: simple, transparente y conforme a la ley.'
       classes:
           - bg-white
       template: 7b72578c0e714750954a
       buttons:
-          - label: Regístrese gratis
+          - label: Regístrese gratis ahora
             link: 'pages/registration'
             style: primary
-          - label: Conozca las funciones
+          - label: Descubra las características
             link: pages/functions
 
-    - name: content-12
+    - name: "content-4"
       weight: 2
+      title: SeaTable es la opción ideal para llevar un registro de sus horas de trabajo
+      subtitle: Una aplicación de seguimiento del tiempo personalizada
+      text: 
+      items:
+      - icon: edit
+        headline: Control de las horas
+        text: "Registro de horas de trabajo y gestión conjunta de datos en una plataforma centralizada. Gracias a la función de chat, las notificaciones y las actualizaciones en tiempo real, siempre estará al día."
+
+      - icon: table
+        headline: Flexible e intuitivo
+        text: "Una interfaz intuitiva y un acceso inmediato: cree soluciones a medida para el control de horarios de trabajo, desde la calculadora de horas hasta la elaboración de informes y la documentación."
+
+      - icon: up-right-and-down-left-from-center
+        headline: Conforme a la legislación
+        text: "Registre las horas de trabajo de conformidad con el Estatuto de los Trabajadores y proteja los datos sensibles mediante un almacenamiento conforme al RGPD en servidores europeos."
+      
+      - icon: robot
+        headline: Funciones de IA flexibles
+        text: Aproveche las automatizaciones de IA integradas para procesamiento inteligente de datos. De este modo, dispondrá de una aplicación de control del tiempo aún más potente. 
+
+      - icon: expand
+        headline: Portales ESS personalizados
+        text: "Con nuestro App Builder, podrá crear fácilmente una aplicación de control de horarios con un formulario de introducción de datos. ¿Quiere llevar un control de las horas de trabajo? No hay problema."
+      
+      - icon: shield
+        headline: Informes y paneles de control
+        text: "Cree paneles de control e informes claros con solo unos clics. Analice la asistencia, las horas extras y las ausencias para llevar a cabo una planificación de la plantilla fluida y basada en datos."        
+
+    - name: content-12
+      weight: 3
       classes: 
         - curved
-        - bg-seatable-blue
-      title: "La herramienta ideal para registrar con precisión el tiempo de trabajo"
-      subtitle: Sencillo, preciso, conforme a GDPR
-      description: "Registrar las horas de trabajo es algo más que una obligación burocrática: garantiza que tanto usted, como empresario, como sus empleados cumplan con sus derechos y obligaciones. Crea transparencia sobre las horas trabajadas, ayuda a evitar las horas extraordinarias y garantiza los periodos de descanso reglamentarios."
+      title: "La herramienta ideal para un control preciso del tiempo"
+      subtitle: Conforme al RGPD y personalizable
+      description: Con una aplicación de seguimiento del tiempo, podrá ahorrar tiempo, cumplir con los requisitos legales y reducir los gastos administrativos. Con su interfaz de usuario totalmente personalizable y sus funciones flexibles, la [plataforma de IA no-code]({{< relref "/" >}}) SeaTable ofrece numerosas ventajas para la [gestión de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) y el control del tiempo, tanto en pequeñas como en grandes empresas.   
  
       items:
-        - text: protege a sus empleados de la sobrecarga
-        - text: garantiza que se respeten las pausas y los períodos de descanso
+        - text: protege a sus empleados del agotamiento
+        - text: garantiza que se respeten los descansos y los períodos de descanso
         - text: optimiza los procesos internos
-        - text: Permite una planificación eficaz del personal
-        - text: le permite reaccionar a tiempo ante los cuellos de botella
-        - text: 100% conforme con la RGPD
-        - text: Estructura de datos flexible y personalizable
+        - text: permite una planificación eficaz de la plantilla
+        - text: le permite responder a los cuellos de botella de manera oportuna
+        - text: 100 % conforme al RGPD
+        - text: estructura de datos personalizable de forma flexible
       image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
-      image_alt: 'Registro de horas en SeaTable con resumen y saldos diarios'
+      image_alt: 'Registro de horas de trabajo en SeaTable con resumen de horas y saldos diarios'
 
-    - name: content-11
-      weight: 5
-      title: Registro del tiempo de trabajo con SeaTable - muchas ventajas
-      subtitle: Flexible, eficiente, seguro
-      items:
-      - text: Con una aplicación de registro de tiempos, ahorrará tiempo y reducirá el trabajo administrativo. ¡SeaTable ofrece numerosas ventajas para el registro de tiempos en pequeñas y grandes empresas! Utilice el software gratuito de base de datos SeaTable en lugar de las costosas calculadoras de tiempo de trabajo. La suscripción gratuita le ofrece las funciones básicas de una hoja de cálculo y mucho más... Vincule registros, capture información con más de 20 tipos de columnas y añada casillas, botones, casillas de verificación, imágenes y archivos. ¡Pruébela ya!
-      image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_1_transparent.png
-      image_alt: 'Tabla de SeaTable para registro digital de horas de trabajo'
-
-    - name: content-11
-      weight: 6
-      title: Adquisición de datos fácil de usar
-      subtitle: Intuitivo, sencillo, independiente 
-      items:
-      - text: En SeaTable puede organizar el registro de tiempos en línea, de forma intuitiva y fácil de usar, ya que sus empleados registran los tiempos de trabajo a través de formularios web intuitivos con instrucciones claras. SeaTable crea una nueva entrada para cada formulario, que sólo los gerentes pueden ver y editar. El programa calcula automáticamente las horas trabajadas, así como las horas extraordinarias y las horas insuficientes, y resalta en color el saldo diario.
-      image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-      image_position: left
-      image_alt: 'Formulario web de SeaTable para registrar horas de trabajo fácilmente'
-
-    - name: content-11
+    - name: content-25
       weight: 7
-      title: Visualización de datos
-      subtitle: Seguimiento, informes, optimización
+      title: Control del tiempo con SeaTable  
+      subtitle: Una sola aplicación para el control del tiempo, muchas ventajas
       items:
-      - text: La hoja de horas de SeaTable se parece a primera vista a otras calculadoras, pero ofrece visualizaciones avanzadas como filtros, clasificación, agrupación y complementos gráficos como calendarios, tableros Kanban o estadísticas para organizar sus datos con claridad. SeaTable le permite crear aplicaciones personalizadas, por ejemplo, una aplicación de gestión en la que puede controlar las horas extraordinarias, las vacaciones y las bajas por enfermedad en el cuadro de mandos y aprobar o rechazar las solicitudes.
-      image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
-      image_position: right
-      image_alt: 'Análisis de horas de trabajo en SeaTable con vistas de calendario y estadísticas'
-
-    - name: content-11
-      weight: 8
-      title: Almacén central
-      subtitle: Estandarizado, seguro, disponible de inmediato
-      items:
-      - text: Cuando los empleados registran los tiempos de trabajo en diferentes tablas, cotejarlos suele resultar tedioso, propenso a errores y lento. Con SeaTable, todos los datos fluyen de forma centralizada a una base de datos en línea segura. Las vistas, aprobaciones y autorizaciones le permiten controlar quién ve y edita qué datos, de forma eficaz, organizada y accesible en todo momento.
-      image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-      image_position: left
-      image_alt: 'Vista de SeaTable con datos de horas trabajadas y ausencias almacenados centralmente'
-
-    - name: content-11
-      weight: 9
-      title: Trabajo en colaboración
-      subtitle: Orientado al trabajo en equipo, eficiente, flexible
-      items:
-      - text: Especialmente en el caso de los empleados por horas, los datos del tiempo de trabajo deben transferirse al departamento de contabilidad, a menudo de forma laboriosa a través del correo electrónico o compartiendo archivos. Con SeaTable, puede ahorrarse este esfuerzo creando una aplicación o compartiendo los datos a través de un enlace, ya sea como acceso de lectura a toda la base o sólo a una vista específica. Sin embargo, el uso compartido de vistas individuales está reservado a las suscripciones de pago de SeaTable.
-      image: /images/Landing-Page_arbeitszeiterfassung_kollaboration_neu.png
-      image_position: right
-      image_alt: 'Vista de SeaTable para edición colaborativa de datos de horas en equipo'
-
+      - headline: Aplicación no-code como ESS
+        text: Con **SeaTables App Builder**, puede crear formularios ESS personalizados para su sistema de control de horarios. Sus empleados pueden introducir de forma autónoma las horas extras, las [vacaciones]({{< relref "posts/20250324-urlaubsplanung" >}}) y las bajas por enfermedad sin necesidad de acceder al sistema completo de control de horarios. Podrá realizar un seguimiento de todo ello en el panel de control y recibirá notificaciones automáticas de nuevas entradas o discrepancias. 
+        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
+        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+      - headline: Introducción sencilla de datos
+        text: Sus empleados pueden llevar un control sencillo de sus horas de trabajo mediante **formularios web intuitivos**. Por cada formulario, SeaTable crea una nueva entrada que solo los responsables pueden ver y editar. La aplicación de control de horarios calcula automáticamente las horas trabajadas, así como las horas extras y las horas no completadas, y **resalta el saldo diario** en color. 
+        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
+        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+      - headline: Seguimiento y presentación de informes
+        text: "A primera vista, el software de control de horas de SeaTable se asemeja a otras herramientas, pero ofrece **funciones avanzadas de visualización**: filtros, ordenación, agrupación, diversas vistas, paneles de estadísticas y un complemento de diseño de informes que le facilitan el seguimiento del control de horas de sus empleados y la creación de **informes de gestión convincentes**."
+        image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
+        image_alt: 'SeaTable Auswertung von Arbeitszeiten mit Kalender- und Statistikansicht'
+      - headline: Control de horarios, planificador de ausencias y mucho más
+        text: Cuando los empleados registran sus horas en diferentes hojas de cálculo, la consolidación de los datos suele resultar tediosa y propensa a errores. Con SeaTable como aplicación de control de horarios, todos los datos se centralizan en una [base de datos en línea]({{< relref "posts/online-datenbank-kostenlos" >}}). Mediante **vistas, funciones para compartir y permisos**, usted controla quién ve y edita qué datos, de forma eficiente, organizada y accesible en todo momento.
+        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
+        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'
+      - headline: Automatizaciones inteligentes
+        text: '¡Gracias a las automatizaciones integradas, su aplicación de seguimiento del tiempo es aún más potente! Envíe notificaciones o correos electrónicos, edite entradas, ejecute [acciones de IA]({{< relref "posts/ai-powered-automations" >}}), genere archivos PDF: con el intuitivo editor de arrastrar y soltar, puede definir los desencadenantes que desee y dejar que su sistema de seguimiento del tiempo haga el trabajo.'
+        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
+        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'  
+    
     - name: "content-4"
       weight: 11
-      title: Cumpla sin esfuerzo los requisitos legales - con SeaTable
-      subtitle: Cumplimiento, transparencia, protección de datos
-      text: "En mayo de 2019, el Tribunal de Justicia de la Unión Europea (TJUE) dictaminó que las empresas de la UE deben registrar sistemáticamente las horas de trabajo de sus empleados. Por lo tanto, como empresario, se le recomienda encarecidamente que utilice un sistema digital de registro del tiempo que no sólo registre las horas de trabajo de sus empleados, sino que también emita alertas tempranas en caso de excesos inminentes."
+      title: Control de horarios conforme a la legislación y al RGPD
+      subtitle: Cumplimiento normativo, transparencia, protección de datos
+      text: 'En mayo de 2019, el Tribunal de Justicia de la Unión Europea (TJUE) dictaminó que las empresas de la UE están obligadas a realizar un seguimiento sistemático de las horas de trabajo. Por lo tanto, debería empezar a utilizar sin demora un sistema digital de control de horarios como SeaTable, que no solo registra las horas de trabajo de sus empleados, sino que también emite alertas preventivas cuando se está a punto de superar el límite de horas de trabajo.'
       items:
-      - icon: circle-check
-        headline: Cumplir los horarios de trabajo prescritos
-        text: "Con la calculadora de tiempo de trabajo de SeaTable, recibirá automáticamente una notificación en caso de que se produzcan excesos. Controle los tiempos de pausa y el periodo mínimo de descanso de 11 horas para garantizar que se cumplen todas las normativas."
+      - icon: terminal
+        headline: Protección estricta de datos
+        text: "SeaTable Cloud y SeaTable AI Server se alojan en centros de datos certificados en Alemania, en pleno cumplimiento del RGPD."
 
-      - icon: lock
-        headline: Protección de datos según las especificaciones más estrictas
-        text: "SeaTable cumple con la GDPR y protege sus datos con servidores en Alemania, opcionalmente también en sus instalaciones. Confíe en que la información sensible de sus empleados está segura y que se cumplen todas las directrices de protección de datos."
+      - icon: user-plus
+        headline: Permisos de acceso
+        text: Configure permisos personalizados para los roles y restrinja el acceso a los datos confidenciales mediante derechos de acceso y edición granulares.
 
-      - icon: puzzle-piece
-        headline: Algo más que registrar las horas de trabajo
-        text: "SeaTable optimiza su registro móvil del tiempo y la gestión de los datos de los empleados. Horas de trabajo, solicitudes de vacaciones o notas de enfermedad: todo almacenado de forma centralizada. Mantenga una visión de conjunto y procese las tareas administrativas con mayor eficacia." 
-
-            
+      - icon: fingerprint
+        headline: Respetar el LET
+        text: "Reciba notificaciones automáticas en caso de incumplimientos de plazos. De este modo, se asegurará de que se cumplan todas las normas."
+                
     - name: "banner-2"
       weight: 12
-      title: "Flexible y escalable: el nº 1 para su equipo de RR.HH."
+      title: "Su moderno sistema de control de horas está a solo un clic de distancia" 
       buttons:
-           - label: Regístrese ahora gratuitamente y empiece
+           - label: Regístrese gratis ahora y empiece ya
              link: pages/registration
              id: 
     
-    - name: 'content-8'
+    - name: content-12
       weight: 13
-      title: Plantilla a medida para un sistema de registro del tiempo de trabajo personalizable
-      subtitle: Flexible, personalizado, fuerte
-      description: 'Con la plantilla gratuita para el registro del tiempo de trabajo y otras plantillas del área de RR.HH. de Seatable, podrá crear su propio sistema de RR.HH. personalizado basado en un principio modular. Todas las funciones básicas están incluidas en la suscripción gratuita Free; la suscripción Enterprise es necesaria para disponer de todas las funciones y la automatización. También puede utilizar las funciones adicionales de SeaTable para personalizar su registro digital del tiempo de trabajo. Importe nuestras plantillas a su cuenta SeaTable con un solo clic.'
+      classes: 
+        - curved
+      title: Control del tiempo con SeaTable en lugar de Personio
+      subtitle: Control del tiempo y gestión de recursos humanos 
+      description: 'SeaTable es una herramienta muy interesante para el control del tiempo y la gestión de recursos humanos, que puede servir fácilmente como [alternativa a Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}). En una comparación directa, SeaTable destaca especialmente por su **estructura de datos totalmente personalizable**, una gama más amplia de funciones, un **creador de aplicaciones no-code para un ESS flexible** y **varias opciones de alojamiento**; para un control total y la [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}), las empresas pueden utilizar SeaTable en sus propias instalaciones.' 
+      image: /images/landing-page-kundenmanagement-ticketing.jpg
+      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'      
+
+    - name: 'content-8'
+      weight: 15
+      title: Plantillas personalizadas para el control de su tiempo
+      subtitle: Flexible, personalizado, sólido
+      description: 'Con la plantilla gratuita de hoja de horas y otras plantillas de SeaTable para RR. HH., puede crear su propio [sistema de RR. HH.]({{< relref "posts/hr-software" >}}) mediante un enfoque modular. Amplíe su hoja de horas digital con funciones como un planificador de vacaciones y bajas o un calendario de festivos. Importe nuestras plantillas a su cuenta de SeaTable con un solo clic.'
       
       items:
-          - text: Registro del tiempo de trabajo
-            image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
-            image_alt: "Plantilla de SeaTable para registro de horas en RR. HH."
-          - text: Reclutamiento de personal
+          - text: Planificador de vacaciones
+            image: /images/landingpage_arbeitszeiterfassung_template_urlaubsplaner.png
+            image_alt: "Plantilla de SeaTable: Planificación de vacaciones en RR. HH."
+          - text: Contratación
             image: /images/bewerbermanagement-template-personalrekrutierung.svg
-            image_alt: "Plantilla de SeaTable para reclutamiento dentro de su sistema de RR. HH."
+            image_alt: "Plantilla de SeaTable para la selección de personal como parte de su sistema de recursos humanos"
           - text: Incorporación de empleados
             image: /images/bewerbermanagement-template-onboarding.svg
-            image_alt: "Plantilla de SeaTable para onboarding de empleados en el sistema de RR. HH."
+            image_alt: "Plantilla de SeaTable para la incorporación de empleados en el sistema de RR. HH."
       buttons:
-        - label: Descubra todas las plantillas
+        - label: Explore todas las plantillas
           link: "templates"
     
-    - name: 'content-10'
-      weight: 10
-      title: Ahorro de tiempo gracias a la automatización
-      subtitle: Automatización y optimización de procesos
-      description: Con una suscripción Enterprise, SeaTable puede realizar acciones automáticamente, por ejemplo, enviar notificaciones, editar entradas o crear enlaces, reduciendo así la carga de trabajo de los pasos de trabajo recurrentes. Las automatizaciones le informan, por ejemplo, si los tiempos de trabajo superan los límites máximos legales o no se respetan las pausas, de forma totalmente automática en cuanto los valores se salen de las normas definidas. Puede optimizar y automatizar a la perfección sus flujos de trabajo con integraciones como Zapier, Make o n8n.
-      items:
-          - image: '/images/logos/zapier.svg'
-          - image: '/images/logos/make.svg'
-          - image: '/images/logos/n8n.svg'
-          - image: '/images/logos/seatable-api.svg'
-
     - name: 'content-3'
       weight: 16
-      title: SeaTable ofrece amplias funciones en todos los modelos de precio
-      subtitle: ¿Nube o autoalojado?
+      title: SeaTable ofrece una amplia gama de funciones en todos los planes de precios
+      subtitle: ¿En la nube o autohospedado?
       description: 
       items:
           - headline: SeaTable Cloud
-            text: "Perfecto para empresas que quieren empezar rápidamente y sin una amplia infraestructura informática: flexible y escalable."
+            text: 'Ideal para empresas que desean ponerse en marcha rápidamente sin necesidad de una infraestructura informática compleja.'
             image: /images/template-projektplan.png
-            image_alt: 'Plantilla de plan de proyecto en SeaTable Cloud como base para procesos de RR. HH. y registro horario'
+            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Basis für HR- und Zeiterfassungsprozesse'
           - headline: SeaTable Server
-            text: Para las empresas que desean mantener un control total sobre sus datos, SeaTable Server ofrece una opción in situ.
+            text: Para las empresas que desean mantener el control total sobre sus datos, SeaTable ofrece una opción de instalación local.
             image: /images/template-massnahmenplan.jpg
-            image_alt: 'Plantilla de plan de acciones en SeaTable Server para flujos internos de RR. HH.'
+            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für interne HR-Workflows'
           - headline: SeaTable Dedicated
-            text: Para empresas que necesitan la sencillez de la nube y la flexibilidad de un sistema autoalojado. 
+            text: Para empresas que necesitan la simplicidad de la nube y la flexibilidad de un sistema autohospedado.  
             image: /images/asana-dedicated.jpg
-            image_alt: 'Entorno SeaTable Dedicated para soluciones escalables de RR. HH. y registro horario'
-
-    - name: "content-21"
-      weight: 15
-      title: Registro horario sencillo y gratuito con SeaTable
-      text: ¿Cómo puede registrar las horas de trabajo de sus empleados de forma rápida, sencilla y conforme a la ley? ¡Con una plantilla SeaTable especialmente adaptada a este caso de uso! 
-      items:
-          - headline: 'Todos los horarios de trabajo de un vistazo'
-            text: 'Como todas las plantillas SeaTable, se trata de una base de datos con varias tablas que puede personalizar según sus necesidades. La primera tabla ofrece una vista de administración que incluye todas las horas de trabajo, las solicitudes de vacaciones y las notas de enfermedad. Esto le permite, como gestor, realizar un seguimiento de las asistencias y ausencias del equipo.'
-          - headline: 'Vistas personalizadas para una mayor protección de los datos'
-            text: 'Mediante vistas personalizadas filtradas por ID de usuario, puede controlar exactamente quién puede ver qué datos y crear así la propia cuenta de horas de cada empleado con los datos relevantes para él. SeaTable calcula automáticamente las horas trabajadas, así como las horas extraordinarias y las horas de menos con respecto a las horas de trabajo regulares.'
-          - headline: 'Mínima administración, máxima facilidad de uso'
-            text: 'En la aplicación para empleados creada con SeaTable, sus empleados registran las horas de trabajo, las solicitudes de vacaciones y las notas de enfermedad directamente a través de formularios web. Las instrucciones claras en los campos de entrada garantizan un funcionamiento sencillo: mínimo esfuerzo, máxima facilidad de uso.'
-          - headline: 'Estadísticas detalladas de un vistazo'
-            text: 'Una vez enviados, SeaTable inserta automáticamente los datos en las tablas, que usted como gestor puede aprobar o rechazar. Su cuadro de mandos muestra estadísticas sobre las horas extraordinarias, las vacaciones y las bajas por enfermedad, complementadas con un resumen del calendario.'
-               
+            image_alt: 'SeaTable Dedicated Umgebung für skalierbare HR- und Zeiterfassungslösungen'
+              
     - name: "banner-2"
       weight: 17
-      title: La solución ideal para el registro digitalizado del tiempo de trabajo   
+      title: ¿Está listo para un sistema de control de horas flexible y que cumple con la normativa legal?   
       buttons:
-           - label: Regístrese ahora gratuitamente y empiece
+           - label: Regístrese gratis ahora y empiece ya
              link: pages/registration
              id: 
    
     - name: faq
       weight: 20
-      title: FAQ - Respuestas a las preguntas más importantes sobre el registro del tiempo de trabajo con SeaTable
+      title: 'Preguntas frecuentes: Control del tiempo con SeaTable'
       items:
-          - q: "¿Cómo organiza SeaTable el registro del tiempo de trabajo en la empresa?"
-            a: "Con SeaTable, puede registrar y documentar las horas de trabajo de sus empleados de acuerdo con la legislación vigente y con un esfuerzo administrativo mínimo. Todos los procesos relacionados con el registro del tiempo de trabajo, las solicitudes de vacaciones y las bajas por enfermedad se gestionan de forma centralizada en una base de datos en línea: ¡ya no necesitará hojas de horas dispersas! Todo lo que necesita para utilizarlo es un navegador de Internet y una dirección de correo electrónico."
-          - q: "¿SeaTable ofrece algo más que el registro del tiempo de trabajo?"
-            a: "Sí, el registro digital del tiempo de trabajo es sólo uno de los muchos casos de uso. SeaTable ofrece soluciones para la contratación, la incorporación y muchos otros temas de RRHH, todo en una plataforma flexible. Descubra nuestras plantillas y empiece ahora mismo con una cuenta gratuita."
-          - q: "¿La plantilla de seguimiento del tiempo es gratuita?"
-            a: "Sí, nuestra plantilla de seguimiento del tiempo es de uso gratuito con SeaTable Free. Se le asigna automáticamente cuando se registra en SeaTable. Con una suscripción Enterprise, también tendrá acceso a cómodas automatizaciones que le ahorrarán muchos clics manuales."
-          - q: "¿Está obligado el empresario a registrar el tiempo?"
-            a: "Sí, el Tribunal de Justicia de las Comunidades Europeas dictaminó en mayo de 2019 que las empresas de la UE deben registrar todas las horas de trabajo de sus empleados. El Tribunal Federal de Trabajo lo confirmó en su sentencia del 13 de septiembre de 2022."
-          - q: "¿Cómo deben registrarse las horas de trabajo?"
-            a: "Un proyecto de ley del Ministerio Federal de Trabajo establece: 'El inicio, el final y la duración de las horas de trabajo diarias deben registrarse electrónicamente y, por regla general, el mismo día."
-          - q: "¿Es posible utilizar SeaTable para registrar las horas de trabajo de forma conforme a la ley?"
-            a: "Sí, con SeaTable sus empleados pueden registrar sus horas de trabajo electrónicamente y a diario en una base de datos en línea. Todo lo que necesitan es una dirección de correo electrónico y una conexión a Internet. Con nuestra plantilla para el registro de las horas de trabajo, puede crear una cuenta de tiempo de trabajo separada para cada empleado, en la que las horas extraordinarias, las horas de trabajo, las vacaciones y los días de enfermedad sean claramente visibles. Esto le permite cumplir todos los requisitos actuales y, si es necesario, puede adaptar su solución de forma flexible a nuevos requisitos o cambios en la situación legal."
-          - q: "¿Se puede trabajar con proveedores externos y agencias en SeaTable?"
-            a: "¡Definitivamente! Muchos equipos trabajan con proveedores de servicios externos como reclutadores y agencias en SeaTable. Puede invitarles a una base o compartir sólo vistas individuales para darles acceso a datos muy específicos de su equipo. Usted define qué autorizaciones asigna y puede controlar qué personas pueden ver y editar qué datos en su base SeaTable."
-          - q: "¿Para quién merece realmente la pena un software de registro del tiempo?"
-            a: "Los sistemas de registro del tiempo no sólo son útiles para las grandes empresas. Incluso los equipos pequeños se benefician de un registro del tiempo centralizado y estructurado, ya que ahorran tiempo, reducen los errores y mantienen una visión de conjunto. En definitiva, los sistemas de registro del tiempo tienen sentido para las pequeñas empresas con pocos empleados."
-
+          - q: '¿La plantilla de la hoja de horas es gratuita?'
+            a: 'Sí, puede utilizar la aplicación de seguimiento del tiempo de forma gratuita con SeaTable Free. Este plan se le asigna automáticamente al registrarse en SeaTable. Con una suscripción Enterprise, también tendrá acceso a prácticas automatizaciones que le permitirán ahorrarse muchos clics manuales.'
+          - q: '¿Cómo se deben registrar las horas de trabajo?'
+            a: 'El inicio, el final y la duración de la jornada laboral diaria deben registrarse electrónicamente, normalmente el mismo día. La forma más sencilla de hacerlo es mediante una aplicación de control de horarios. ¿Por qué? Porque los sistemas modernos de control de horarios son mucho más que una simple aplicación de registro de asistencia. Incluyen el control de horarios de los empleados, la gestión de solicitudes, calculadoras de horas de trabajo, notificaciones internas y la elaboración de informes.'
+          - q: '¿Se puede utilizar SeaTable para llevar un control de las horas de trabajo de conformidad con la legislación vigente?'
+            a: 'Sí, con SeaTable como aplicación de control de horarios, sus empleados pueden registrar electrónicamente sus horas de trabajo en tiempo real en una base de datos en línea. Todo lo que necesitan es una dirección de correo electrónico y una conexión a Internet. Con nuestra plantilla para una aplicación de control de horarios, puede crear una cuenta de control de horarios independiente para cada empleado, en la que se muestren claramente las horas extras, las horas de trabajo, los días de vacaciones y los días de baja por enfermedad. Esto le garantiza el cumplimiento de toda la normativa vigente y, si es necesario, le permite adaptar con flexibilidad su sistema digital de control de horarios a los nuevos requisitos o a los cambios en el panorama legal.' 
+          - q: '¿Es posible colaborar con proveedores y agencias externos en SeaTable?'
+            a: '¡Por supuesto! Muchos equipos colaboran con proveedores de servicios externos, como empresas de selección de personal y agencias, en SeaTable. Puede invitarlos a su sistema de seguimiento del tiempo o simplemente compartir vistas específicas para concederles acceso a datos concretos relacionados con su equipo. Usted define qué permisos conceder y puede controlar qué usuarios pueden ver y editar qué datos en su aplicación de seguimiento del tiempo.'
+          - q: ¿Se puede utilizar la aplicación de seguimiento del tiempo SeaTable en dispositivos móviles?   
+            a: Sí, el control de horas desde el móvil no supone ningún problema. También puede utilizar SeaTable en una tableta o un smartphone para facilitar al máximo el control de horas a sus empleados, tanto si se encuentra en la oficina, trabajando desde casa o de viaje.
+          - q: '¿Quién se beneficia realmente del software de control del tiempo?'
+            a: 'Los sistemas de control de horas no solo son útiles para las grandes empresas. Incluso los equipos pequeños se benefician de un control de horas centralizado y estructurado, ya que ahorra tiempo, reduce los errores y les ayuda a mantenerse organizados. En definitiva, los sistemas de control de horas resultan muy útiles para las pequeñas empresas, incluso para aquellas que cuentan con pocos empleados. Con nuestra completa cuenta gratuita, puede probar nuestra aplicación de control de horas sin coste alguno y comprobar por sí mismo las numerosas ventajas de utilizar SeaTable para el control de horas.'
+          - q: ¿Ofrece SeaTable tutoriales y asistencia técnica?  
+            a: Sí, en nuestra completa [sección de ayuda]({{< relref "help/" >}}) o en nuestro [canal de YouTube](https://www.youtube.com/@SeaTable/featured), encontrará mucha información sobre todas las funciones de SeaTable. Si en algún momento tiene dificultades con su calculadora de seguimiento del tiempo, puede encontrar ayuda rápida en nuestro [foro de la comunidad](https://forum.seatable.com/) o ponerse en contacto con nosotros directamente por correo electrónico.
 ---
