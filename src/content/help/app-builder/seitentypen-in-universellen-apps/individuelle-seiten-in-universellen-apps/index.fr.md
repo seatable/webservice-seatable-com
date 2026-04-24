@@ -177,6 +177,14 @@ Choisissez entre le blanc, le gris et une couleur personnalisée que vous pouvez
 
 Si vous souhaitez **masquer** la **barre de titre** sur une page de tableau de bord, vous pouvez le faire en **activant** le **curseur** correspondant.
 
+![masquer la barre de titre](images/hide-top-bar-on-dashboard-pages.png)
+
+## Autoriser l'impression de la page
+
+Si vous autorisez l'impression de la page en activant le **curseur correspondant**, les utilisateurs de l'application verront ensuite une icône dans le coin supérieur droit. Cette fonction d'impression permet aux utilisateurs de l'application d'imprimer ou d'exporter au format PDF le tableau de bord et tous ses éléments (textes, images, statistiques, etc.).
+
+![Imprimer les pages du tableau de bord](images/print-custom-pages.png)
+
 ## Autorisations des pages
 
 Enfin, vous pouvez limiter les personnes autorisées à voir la page dans les paramètres de la page.

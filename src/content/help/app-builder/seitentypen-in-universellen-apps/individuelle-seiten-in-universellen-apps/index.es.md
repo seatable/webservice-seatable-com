@@ -177,6 +177,14 @@ Elija entre blanco, gris y su propio color, que puede introducir mediante un có
 
 Si desea **ocultar** la **barra de título** en una página concreta, puede hacerlo **activando** el **control deslizante** correspondiente.
 
+![Ocultar barra de título](images/hide-top-bar-on-dashboard-pages.png)
+
+## Permitir la impresión de la página
+
+Si permite la impresión de la página activando el **deslizador** correspondiente, se mostrará un icono a los usuarios de la app en la esquina superior derecha. Utilizando esta función de impresión, los usuarios de la app pueden imprimir el cuadro de mando incluyendo todos los elementos (textos, imágenes, estadísticas, etc.) o exportarlo como PDF.
+
+![Imprimir páginas del cuadro de mandos](images/print-custom-pages.png)
+
 ## Autorizaciones de páginas
 
 Por último, pero no menos importante, puede restringir quién puede ver la página en la configuración de la página.

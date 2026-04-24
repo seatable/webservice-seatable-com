@@ -173,9 +173,17 @@ In addition to the colors of the custom page elements, you can also set the **ba
 
 Choose between white, grey and your own color, which you can enter using a hexadecimal code or specify freely in the color selector.
 
-## Hide title bar
+## Hide top bar
 
-If you want to **hide** the **title bar** on an custom page, you can do this by **activating** the corresponding **slider**.
+If you want to **hide the top bar** on a custom page, you can do this by **activating** the corresponding **slider**.
+
+![Hide top bar](images/hide-top-bar-on-dashboard-pages.png)
+
+## Enable printing the page
+
+If you allow the page to be printed by activating the corresponding **slider**, an icon will be displayed to app users in the top right-hand corner. Using this print function, app users can print the dashboard including all elements (texts, images, statistics, etc.) or export it as a PDF.
+
+![Print dashboard pages](images/print-custom-pages.png)
 
 ## Page authorizations
 
