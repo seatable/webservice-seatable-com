@@ -35,7 +35,8 @@ Sobald Tabellen miteinander verknüpft sind, können Sie über den **Link-Dialog
 1. Klicken Sie in eine **Zelle** der **Verknüpfungsspalte** und dann auf das erschienene **Plus-Symbol**.
 2. Nun werden Ihnen die verfügbaren **Zeilen der verknüpften Tabelle** aufgelistet. Wählen Sie die Zeile(n) aus, die Sie mit der Zeile Ihrer aktuellen Tabelle verlinken möchten.
 3. In der Verknüpfungsspalte wird Ihnen jede Zeile sofort **als verlinkter Eintrag** angezeigt.
-   {{< warning  headline="Umweg über den Link-Dialog"  text="Alternativ können Sie auch erst den Link-Dialog öffnen. Klicken Sie auf eine **Zelle in der Verknüpfungsspalte** und dann auf das blaue **Doppelpfeil-Symbol** oder machen Sie einen **Doppelklick**. Klicken Sie anschließend auf **Bestehende Einträge verlinken** und wählen Sie wie oben die Zeile(n) aus." />}}
+
+{{< warning  headline="Umweg über den Link-Dialog"  text="Alternativ können Sie auch erst den Link-Dialog öffnen. Klicken Sie auf eine **Zelle in der Verknüpfungsspalte** und dann auf das blaue **Doppelpfeil-Symbol** oder machen Sie einen **Doppelklick**. Klicken Sie anschließend auf **Bestehende Einträge verlinken** und wählen Sie wie oben die Zeile(n) aus." />}}
 
 Über die **integrierte Suchfunktion** im Link-Dialog können Sie die Einträge der verknüpften Tabelle durchsuchen, um schnell die gewünschte Zeile zu finden.
 
@@ -68,7 +69,9 @@ Sie können über den Link-Dialog sogar eine **neue Zeile** zu einer **verknüpf
 
 In einer Verknüpfungsspalte verlinkte Einträge können Sie mit nur wenigen Klicks wieder entfernen. Öffnen Sie hierzu einfach den **Link-Dialog** der entsprechenden Verknüpfungsspalte und klicken Sie neben dem gewünschten Eintrag rechts auf das **X-Symbol**.
 
-![Verlinkungen entfernen](images/delete-links.png) {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Es wird lediglich der **verlinkte Eintrag** aus der entsprechenden Verknüpfungsspalte **gelöscht**. Die **Zeile in der verknüpften Tabelle** bleibt hingegen weiterhin **erhalten**." />}}
+![Verlinkungen entfernen](images/delete-links.png) 
+
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Es wird lediglich der **verlinkte Eintrag** aus der entsprechenden Verknüpfungsspalte **gelöscht**. Die **Zeile in der verknüpften Tabelle** bleibt hingegen weiterhin **erhalten**." />}}
 
 ## Einstellungen der Verknüpfungsspalte
 
@@ -100,7 +103,7 @@ Durch die Aktivierung dieser Einstellung können Sie Verknüpfungen auf **eine A
 
 ![Verknüpfungen auf eine Ansicht einschränken](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-Diese Einstellung ergibt vor allem bei [gefilterten Ansichten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title) kann Ihnen diese Einstellung behilflich sein, wenn Sie gezielt **einzelne Einträge** in Ihren Tabellen verknüpfen möchten.
+Diese Einstellung ergibt vor allem bei **gefilterten Ansichten** Sinn und kann Ihnen behilflich sein, wenn Sie gezielt **bestimmte Einträge** in Ihren Tabellen verknüpfen möchten.
 
 ### Verlinkung von bestehenden Einträgen verhindern
 
@@ -109,6 +112,14 @@ In den Einstellungen einer Verknüpfungsspalte können Sie durch Aktivieren eine
 Bereits bestehende Einträge in der verknüpften Tabelle können dann in der Spalte **nicht** mehr verlinkt werden. Einträge, die bereits in der Spalte verlinkt wurden, bleiben von der Einstellung jedoch **unberührt**.
 
 ![Einstellung zum Verhindern der Verlinkung von bestehenden Einträgen](images/setting-avoid-linking-existing-records.png)
+
+### Verknüpfungen mit einer Filterregel einschränken
+
+Wenn Sie diese Option aktivieren, lässt sich die Auswahl der verknüpfbaren Zeilen auf Basis von Filterregeln einschränken. Die Filter selbst können statisch oder dynamisch sein:
+- Bei einem **statischen Filter** nutzen Sie einen einheitlichen Wert, um die Zeilen in der verknüpften Tabelle zu filtern (z. B. nur Zeilen, die nicht den Wert "archiviert" haben, sind verknüpfbar). Der Effekt ist somit ähnlich wie bei der Option **Verknüpfungen auf eine Ansicht einschränken**.
+- Bei einem **dynamischen Filter** ist der Wert, der für die Filterung der Zeilen in der verknüpften Tabelle verwendet wird, ein Spaltenwert der aktiven Zeile (z. B. nur Zeilen, deren Status identisch mit dem Status der aktiven Zeile ist, sind verknüpfbar). **Zeilen mit unterschiedlichen Filterwerten** haben somit abweichende verknüpfbare Zeilen.
+
+![Verknüpfungen mit einer Filterregel einschränken](images/limit-row-selection-using-a-filter-rule.png)
 
 ## Ansichtsoptionen des Link-Dialogs
 

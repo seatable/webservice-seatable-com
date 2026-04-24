@@ -49,21 +49,13 @@ Utilizando a **função de pesquisa integrada** no diálogo de ligação, é pos
 É até possível adicionar uma **nova linha** a uma **tabela ligada** através do diálogo de ligação sem ter de mudar para essa tabela. A linha é então adicionada à tabela ligada entre os registos existentes e exibida como uma entrada ligada na coluna de ligação da tabela aberta.
 
 1. Faça **duplo clique** na **célula de** uma **coluna de ligação** ou clique no **símbolo de seta dupla** azul para abrir a caixa de diálogo de ligação.
-
 ![Fazer duplo clique numa coluna de ligação](images/click-in-linked-column.png)
-
 2. Clique em **Adicionar linha**.
-
 ![Clique em Adicionar linha](images/click-add-record.jpg)
-
 3. Na janela que se abre, preencha as várias **colunas da tabela**.
-
 ![Preenchimento das colunas da tabela](images/fill-columns.png)
-
 4. Clique em **Submeter** para criar a nova linha.
-
 ![Clique em enviar](images/click-submit.png)
-
 5. A **nova linha** é automaticamente adicionada à **tabela ligada** e exibida na tabela atualmente aberta como uma **entrada ligada** na coluna de ligação.
 
 ## Editar entradas existentes de uma tabela ligada
@@ -113,7 +105,7 @@ Ao ativar esta definição, é possível restringir as ligações a **uma vista 
 
 ![Restringir as ligações a uma vista](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-Esta definição é particularmente útil em [vistas filtradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title), esta definição pode ser útil se pretender ligar **entradas individuais** nas suas tabelas.
+Esta definição é particularmente útil para **vistas filtradas** e pode ser útil se pretender ligar **entradas específicas** nas suas tabelas.
 
 ### Impedir a ligação de entradas existentes
 
@@ -122,6 +114,14 @@ Nas definições de uma coluna de ligação, também é possível impedir a liga
 As entradas existentes na tabela ligada **não** podem mais ser ligadas na coluna. As entradas que já foram ligadas na coluna, no entanto, não são **afectadas** pela definição.
 
 ![Definição para impedir a ligação de entradas existentes](images/setting-avoid-linking-existing-records.png)
+
+### Restringir as ligações com uma regra de filtro
+
+Se ativar esta opção, a seleção de linhas ligadas pode ser restringida com base em regras de filtragem. Os próprios filtros podem ser estáticos ou dinâmicos:
+- Com um **filtro estático**, utiliza um valor uniforme para filtrar as linhas na tabela ligada (por exemplo, apenas as linhas que não têm o valor "arquivado" são ligáveis). O efeito é, portanto, semelhante ao da opção **Restringir ligações a uma vista**.
+- Com um **filtro dinâmico**, o valor utilizado para filtrar as linhas na tabela ligada é um valor de coluna da linha ativa (por exemplo, apenas as linhas cujo estado é idêntico ao estado da linha ativa podem ser ligadas). **Linhas com diferentes valores de filtro** têm, portanto, diferentes linhas ligáveis.
+
+![restringir ligações com uma regra de filtro](images/limit-row-selection-using-a-filter-rule.png)
 
 ## Opções de visualização da caixa de diálogo da ligação
 
