@@ -177,6 +177,14 @@ Escolha entre branco, cinzento e a sua própria cor, que pode ser introduzida at
 
 Se pretender **ocultar** a **barra de título** numa página personalizada, pode fazê-lo activando a **barra deslizante** correspondente.
 
+![Ocultar barra de título](images/hide-top-bar-on-dashboard-pages.png)
+
+## Permitir a impressão da página
+
+Se permitir que a página seja impressa activando o **deslizador** correspondente, é apresentado um ícone aos utilizadores da aplicação no canto superior direito. Utilizando esta função de impressão, os utilizadores da aplicação podem imprimir o painel de controlo, incluindo todos os elementos (textos, imagens, estatísticas, etc.) ou exportá-lo como PDF.
+
+![imprimir páginas do painel de controlo](images/print-custom-pages.png)
+
 ## Autorizações de páginas
 
 Por último, mas não menos importante, pode restringir quem pode ver a página nas definições da página.

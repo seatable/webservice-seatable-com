@@ -176,6 +176,14 @@ Wählen Sie zwischen Weiß, Grau und einer eigenen Farbe, die Sie per Hexadezima
 
 Falls Sie auf einer Dashboard-Seite die **Titelleiste ausblenden** möchten, können Sie dies tun, indem Sie den entsprechenden **Regler aktivieren**.
 
+![Titelleiste ausblenden](images/hide-top-bar-on-dashboard-pages.png)
+
+## Drucken der Seite erlauben
+
+Wenn Sie das Drucken der Seite erlauben, indem Sie den entsprechenden **Regler aktivieren**, wird den Nutzern der App anschließend ein Icon in der oberen rechten Ecke angezeigt. Mithilfe dieser Druckfunktion können die Nutzer der App das Dashboard inklusive aller Elemente (Texte, Bilder, Statistiken etc.) drucken bzw. als PDF exportieren.
+
+![Dashboard-Seiten drucken](images/print-custom-pages.png)
+
 ## Seitenberechtigungen
 
 Zu guter Letzt können Sie in den Seiteneinstellungen eingrenzen, wer die Seite sehen darf.
