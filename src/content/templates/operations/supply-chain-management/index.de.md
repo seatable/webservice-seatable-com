@@ -47,7 +47,7 @@ sections:
           headline: 'Risiken proaktiv managen'
           text: 'Erkennen Sie Lieferverzögerungen, bevor sie kritisch werden: Automatisierte Benachrichtigungen warnen Ihr Team, sobald Schwellenwerte unterschritten sind. So stärken Sie Ihre Supply Chain Strategie und minimieren operative Risiken proaktiv.' 
         - icon: 'pencil'
-          headline: ' Änderungen ohne IT-Ticket'
+          headline: 'Änderungen ohne IT-Ticket'
           text: 'Passen Sie Ihr Supply Chain Management Tool ohne IT-Hilfe an: Ergänzen Sie Felder für SKUs, ABC-Bewertungen oder Risiko-Scores. Die skalierbare No-Code-Struktur wächst mit Ihren Beschaffungsprozessen und Ihrer gesamten Lieferkette flexibel mit.'
         - icon: 'bell'
           headline: 'Alle Lieferanten, ein System'
