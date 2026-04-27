@@ -166,7 +166,7 @@ sections:
       - headline: Alternative zu Excel 
         text: 'Organisieren Sie Ihre Veranstaltungsplanung mit SeaTable deutlich effizienter als in Excel – dank verknüpfter Tabellen, personalisierter Ansichten, Formularen und Automatisierungen für Budgetplan, Zeitplan, Teilnehmerliste und Aufgaben.'
       - headline: Projekte & Events verbinden
-        text: 'Verknüpfen Sie Ihre Veranstaltung planen Vorlage mit anderen Projektstrukturen und nutzen Sie SeaTable als [Projektmanagement Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) So integrieren Sie Eventmanagement, Kampagnenplanung und interne Projekte in einer gemeinsamen Plattform.'
+        text: 'Verknüpfen Sie Ihre Veranstaltung planen Vorlage mit anderen Projektstrukturen und nutzen Sie SeaTable als [Projektmanagement Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), so integrieren Sie Eventmanagement, Kampagnenplanung und interne Projekte in einer gemeinsamen Plattform.'
       - headline: DSGVO-konform
         text: 'Wenn Sie SeaTable Cloud oder die integrierte KI nutzen, bleiben alle personenbezogenen Daten zu Teilnehmern, Dienstleistern und Mitarbeitenden in Europa – die Infrastruktur wird ausschließlich auf Servern in Deutschland betrieben.'
       - headline: 2FA und SSO 
@@ -178,14 +178,14 @@ sections:
       subtitle: 
       items:
       - q: "Kann ich meine bestehenden Excel-Listen für die Veranstaltungsplanung importieren?"
-        a: ' Ja, Sie können bestehende Eventlisten, Budgetpläne oder Checklisten aus Excel per CSV-Import in die Veranstaltung planen Vorlage übernehmen. Nach dem Import passen Sie Felder, Ansichten und Ihre Eventplanung Checkliste an und profitieren von der flexiblen, relationalen Datenbank statt starrer Tabellen.'
+        a: 'Ja, Sie können bestehende Eventlisten, Budgetpläne oder Checklisten aus Excel per CSV-Import in die Veranstaltung planen Vorlage übernehmen. Nach dem Import passen Sie Felder, Ansichten und Ihre Eventplanung Checkliste an und profitieren von der flexiblen, relationalen Datenbank statt starrer Tabellen.'
       - q: "Eignet sich die Vorlage auch für große Events wie Festivals oder Messen?"
         a: 'Ja, die Vorlage ist für kleine Events ebenso geeignet wie für komplexe Messen, Festivals oder Konzertreihen. Dank verknüpfter Tabellen, Gantt- und Kalenderansichten, Budgetplan und Eventplanung Checkliste behalten Sie auch bei vielen Dienstleistern, Bühnen und Teilnehmern den Überblick.'
       - q: "Wie hilft mir die Eventplanung Checkliste dabei, keine Deadlines zu verpassen?"
         a: 'Die Checkliste für die Eventplanung bündelt alle Aufgaben mit Verantwortlichen und Fälligkeiten in einer zentralen Ansicht. Mit Erinnerungen, Statusfeldern und Kalender- oder Kanban-View stellt die Veranstaltung planen Vorlage sicher, dass kritische Deadlines im Projektmanagement Ihrer Events nicht untergehen.'
       - q: "Kann ich die Vorlage an meine spezifischen Anforderungen anpassen?"
         a: 'Ja, Sie können jederzeit zusätzliche Spalten, Tabellen, Ansichten oder Automatisierungen ergänzen – etwa für Sponsoren, Sicherheitskonzepte oder Technik-Rider. So passen Sie die Vorlage flexibel an Ihr Eventmanagement, Ihre Branche und Ihre internen Prozesse an.'
-      - q: " Ist gemeinsames Arbeiten im Team möglich?"
+      - q: "Ist gemeinsames Arbeiten im Team möglich?"
         a: 'Mehrere Nutzer können parallel an derselben Vorlage arbeiten, Aufgaben aktualisieren, Teilnehmer verwalten oder Budgetzahlen prüfen. Über Berechtigungen steuern Sie, wer welche Bereiche der Veranstaltungsplanung sehen und bearbeiten darf – ideal für Agenturen, interne Eventteams und externe Partner.'
       
 ---
