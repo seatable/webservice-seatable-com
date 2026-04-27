@@ -35,6 +35,4 @@ Si no quieres cambiar a un paquete de suscripción más amplio, sólo tienes la 
 
 - [Borrar una base]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Vaciar la papelera de reciclaje en la administración del equipo]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
-- [Eliminar una tabla de una base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
-- [Borrar una línea]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Importación y exportación de datos]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

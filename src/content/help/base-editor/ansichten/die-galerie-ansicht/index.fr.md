@@ -1,15 +1,20 @@
 ---
-title : 'La vue de galerie'
-date : 2025-12-03
-lastmod : '2025-12-03'
-categories :
+title: 'La vue de galerie'
+date: 2025-12-03
+lastmod: '2025-12-03'
+categories:
     - 'grundlagen-von-ansichten'
-author : 'kgr'
-url : '/fr/aide/vue-de-galerie'
-seo :
-    title : 'Vue de galerie : affichage clair des images dans SeaTable'
-    description : 'La vue galerie vous donne un aperçu vivant de tous les enregistrements contenant des images'
-weight : 12
+author: 'kgr'
+url: '/fr/aide/vue-de-galerie'
+aliases:
+    - '/fr/aide/guide-plugin-galerie-seatable'
+    - '/fr/aide/anleitung-zum-galerie-plugin'
+    - '/fr/aide/ajouter-ligne-plugin-galerie'
+    - '/fr/aide/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+seo:
+    title: 'Vue de galerie : affichage clair des images dans SeaTable'
+    description: 'La vue galerie vous donne un aperçu vivant de tous les enregistrements contenant des images'
+weight: 12
 ---
 
 La vue **Galerie** utilise les fichiers d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) pour organiser les enregistrements de manière claire dans des tuiles. Plusieurs images sont ainsi regroupées dans un **album**. Cette présentation convient à de nombreux cas d'utilisation, par exemple [profils des employés]({{< relref "templates/human-resources/employee-directory" >}}), [bibliothèques de produits]({{< relref "templates/product-design/product-library" >}}), [listes d'inventaire]({{< relref "templates/operations/inventory-list" >}}) ou [la gestion des collections]({{< relref "templates/operations/art-gallery-management" >}}).
@@ -52,7 +57,7 @@ Le **nombre d'images** par album est affiché dans la galerie avec un **numéro 
 
 En cliquant sur l'image d'aperçu, vous ouvrez l'album en mode **plein écran**, dans lequel vous pouvez agrandir et réduire les images à l'aide des **loupes** et passer d'une image à l'autre à l'aide des **flèches**.
 
-![mode plein écran dans le plugin de la galerie](images/gallery-image-preview.gif)
+![mode plein écran dans le la vue de la galerie](images/gallery-image-preview.gif)
 
 ## Ajouter un nouvel enregistrement dans la vue de galerie
 

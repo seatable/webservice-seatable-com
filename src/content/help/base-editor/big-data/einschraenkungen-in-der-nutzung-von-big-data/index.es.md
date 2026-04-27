@@ -29,8 +29,8 @@ El almacenamiento de big data le ofrece **un almacenamiento de filas** en gran m
 - Las [operaciones de procesamiento de datos]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) **no** están disponibles para big data. La única excepción es [comparar y unir]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Esta operación puede unir entradas de la memoria de big data con filas de cualquier otra tabla, independientemente de si las filas están almacenadas en la base o en la memoria de big data.
 - La función [de buscar y reemplazar]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) **no** está disponible.
 
-{{< warning  headline="Muchas de estas limitaciones de Big Data no se aplican a la Universal App" >}}
+{{< warning  headline="Muchas de estas limitaciones de Big Data no se aplican a la aplicación" >}}
 
-La mayoría de los usuarios de almacenamiento de big data no sienten que su trabajo se vea afectado por estas restricciones. Sin embargo, si le afectan, puede echar un vistazo a la [aplicación universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Algunas de las restricciones mencionadas no se aplican allí.
+La mayoría de los usuarios de almacenamiento de big data no sienten que su trabajo se vea afectado por estas restricciones. Sin embargo, si le afectan, puede echar un vistazo a la [aplicación]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Algunas de las restricciones mencionadas no se aplican allí.
 
 {{< /warning >}}

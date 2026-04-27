@@ -14,9 +14,7 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Empresa" >}}
-
-Para comprobar la **correcta ejecución de una automatización**, tiene la opción de ver el **registro de ejecución**. SeaTable registra la siguiente información para cada ejecución de automatización: tiempo de ejecución, condición de ejecución, estado y cualquier advertencia.
+Para comprobar la **correcta ejecución de una automatización**, tiene la opción de ver el **registro de ejecución**. SeaTable registra la siguiente información para cada ejecución de automatización: tiempo de ejecución, condición de ejecución, estado y cualquier advertencia. También hay completas **estadísticas** para todas las ejecuciones de automatización.
 
 {{< warning  headline="Nota importante"  text="Cada ejecución de una automatización se denomina **ejecución de automatización**." />}}
 
@@ -45,3 +43,12 @@ El estado indica si la automatización se ha ejecutado correctamente. Si es así
 
 **Advertencias**  
 Si se produjeron problemas durante la ejecución de una automatización, aparece aquí el correspondiente mensaje de advertencia.
+
+## Estadística de todas las ejecuciones de automatización
+
+También puede consultar las estadísticas sobre **cuántas ejecuciones de automatización se han producido en total dentro de la base**, independientemente de las reglas de automatización individuales. Esto le permite saber con qué frecuencia se activan sus reglas de automatización y cuántas de las ejecuciones de automatización de que dispone en su suscripción mensual ha agotado ya.
+
+1. Haga clic en **Estadística** en la esquina superior derecha del editor de automatización abierto.
+![abrir las estadísticas de las ejecuciones de automatización](images/open-automation-statistic.png)
+2. Esto abre una ventana en la que puede ver el **número de todas las automatizaciones ejecutadas por día**.
+![Estadísticas de ejecución de automatizaciones](images/automation-statistic.png)

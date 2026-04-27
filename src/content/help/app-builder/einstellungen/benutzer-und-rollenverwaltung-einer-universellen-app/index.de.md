@@ -1,5 +1,5 @@
 ---
-title: 'Benutzer- und Rollenverwaltung einer Universellen App'
+title: 'Benutzer- und Rollenverwaltung einer App'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:
@@ -7,17 +7,17 @@ categories:
 author: 'nsc2'
 url: '/de/hilfe/benutzer-und-rollenverwaltung-einer-universellen-app'
 seo:
-    title: 'Benutzer- und Rollenverwaltung in Universeller App'
-    description: 'Lernen Sie, wie Sie Benutzer hinzufügen, Rollen vergeben und Einladungslinks verwalten in der Universellen App von SeaTable.'
+    title: 'Benutzer- und Rollenverwaltung in der App'
+    description: 'Lernen Sie, wie Sie Benutzer hinzufügen, Rollen vergeben und Einladungslinks verwalten in der App von SeaTable.'
 ---
 
-Sei es das Hinzufügen von **neuen Benutzern**, die Vergabe von **Rollen** oder das Erstellen von **Einladungslinks** – in der Benutzer- und Rollenverwaltung einer Universellen App können Sie diverse administrative Tätigkeiten durchführen. Sie erreichen die **Benutzer- und Rollenverwaltung** über den Bearbeitungsmodus Ihrer Universellen App.
+Sei es das Hinzufügen von **neuen Benutzern**, die Vergabe von **Rollen** oder das Erstellen von **Einladungslinks** – in der Benutzer- und Rollenverwaltung einer App können Sie diverse administrative Tätigkeiten durchführen. Sie erreichen die **Benutzer- und Rollenverwaltung** über den Bearbeitungsmodus Ihrer App.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App bearbeiten zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können die Apps lediglich ansehen und nutzen." />}}
 
-## Benutzer- und Rollenverwaltung der Universellen App
+## Benutzer- und Rollenverwaltung der App
 
-1. Öffnen Sie eine **Base**, der Sie bereits eine Universelle App hinzugefügt haben.
+1. Öffnen Sie eine **Base**, der Sie bereits eine App hinzugefügt haben.
 2. Klicken Sie im Base-Header auf **Apps**.
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Klicken Sie auf das Bearbeitung-Symbol](images/add-page-to-universal-app-1.png)6. Öffnen Sie die **Benutzer- und Rollenverwaltung** am oberen linken Seitenrand.
@@ -28,11 +28,11 @@ Sei es das Hinzufügen von **neuen Benutzern**, die Vergabe von **Rollen** oder 
 
 ### Benutzer
 
-Im ersten Abschnitt finden Sie eine Übersicht aller **Benutzer**, die Zugriff auf Ihre Universelle App besitzen. Zusätzlich finden Sie hier auch die **Rolle** und den **Status** des jeweiligen Benutzers.
+Im ersten Abschnitt finden Sie eine Übersicht aller **Benutzer**, die Zugriff auf Ihre App besitzen. Zusätzlich finden Sie hier auch die **Rolle** und den **Status** des jeweiligen Benutzers.
 
-![Übersicht über den Reiter Benutzer der Benutzer- und Rollenverwaltung einer Universellen App](images/user-and-role-management-overview-1.png)
+![Übersicht über den Reiter Benutzer der Benutzer- und Rollenverwaltung einer App](images/user-and-role-management-overview-1.png)
 
-In diesem Abschnitt stehen Ihnen zudem diverse Möglichkeiten zur **Verwaltung der aktuellen Benutzer** Ihrer universellen App zur Verfügung.
+In diesem Abschnitt stehen Ihnen zudem diverse Möglichkeiten zur **Verwaltung der aktuellen Benutzer** Ihrer App zur Verfügung.
 
 Nutzen Sie die **Suchfunktion**, um einen bestimmten Benutzer zu finden. Diese Funktion kann vor allem bei einer großen Zahl an App-Benutzern hilfreich sein.
 
@@ -60,7 +60,7 @@ Um einen Benutzer aus der App zu **löschen**, klicken Sie einfach auf das **X-S
 
 Durch Klick auf die **Stift-Symbole** {{< seatable-icon icon="dtable-icon-rename" >}}, die Sie für jeden Benutzer finden, können Sie dessen **Rolle** und **Status** bearbeiten.
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass der **Benutzer**, der die Universelle App zur Base hinzugefügt hat, automatisch als **Admin** registriert wird. Sowohl Rolle als auch Status dieses Benutzers können **nicht** bearbeitet werden und der Nutzer kann auch **nicht** aus der App entfernt werden." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass der **Benutzer**, der die App zur Base hinzugefügt hat, automatisch als **Admin** registriert wird. Sowohl Rolle als auch Status dieses Benutzers können **nicht** bearbeitet werden und der Nutzer kann auch **nicht** aus der App entfernt werden." />}}
 
 ![Bearbeitungs-Symbole für jeden Benutzer ](images/edit-icons-users.jpg)
 
@@ -72,7 +72,7 @@ Der **Status** eines Benutzers kann jeweils auf **Aktiv** oder **Inaktiv** geset
 
 ![Bearbeitung des Status eines App-Benutzers](images/edit-status-of-app-user.png)
 
-Nutzer, die keinen Zugriff auf Ihre Universelle App haben, sehen diese Meldung:
+Nutzer, die keinen Zugriff auf Ihre App haben, sehen diese Meldung:
 
 ![Verweigerter Zugriff auf die App für inaktive Benutzer ](images/no-permission-for-inactive-users.png)
 
@@ -88,11 +88,11 @@ Hier legen Sie zunächst nur die **Namen** der Rollen fest. Welche **Berechtigun
 
 ### Einladungslink
 
-Im dritten Abschnitt der Benutzer- und Rollenverwaltung können Sie einen individuellen **Einladungslink** für die Universelle App generieren.
+Im dritten Abschnitt der Benutzer- und Rollenverwaltung können Sie einen individuellen **Einladungslink** für die App generieren.
 
 Legen Sie dabei zunächst die **Rolle** der Benutzer fest, welche mithilfe des Einladungslinks auf die App zugreifen.
 
-![Auswahl der Rolle, die der Benutzer erhalten wird, der mithilfe des Einladungslinks die Universelle App nutzen wird](images/select-role-for-invite-link.png)
+![Auswahl der Rolle, die der Benutzer erhalten wird, der mithilfe des Einladungslinks die App nutzen wird](images/select-role-for-invite-link.png)
 
 Im Anschluss haben Sie die Möglichkeit, ein **Passwort** festzulegen, das nach dem Öffnen des Einladungslinks eingegeben werden muss, um Zugriff auf die App zu erhalten.
 
@@ -106,10 +106,10 @@ Mit einem Klick auf **Generieren** können Sie den Einladungslink erstellen lass
 
 ![Generierter Einladungslink samt verfügbarer Optionen zum Kopieren und Löschen des Einladungslinks](images/copy-and-delete-link-universal-app.png)
 
-Alternativ haben Sie die Möglichkeit, sich einen **QR-Code** zum Öffnen und Teilen der Universellen App generieren zu lassen.
+Alternativ haben Sie die Möglichkeit, sich einen **QR-Code** zum Öffnen und Teilen der App generieren zu lassen.
 
-![Anzeigen des QR-Codes zum Öffnen und Teilen der Universellen App](images/show-qr-code-universal-app.png)
+![Anzeigen des QR-Codes zum Öffnen und Teilen der App](images/show-qr-code-universal-app.png)
 
-Scannen Sie den angezeigten **QR-Code**, um Ihre Universelle App zu öffnen, oder teilen Sie ihn mit anderen Nutzern, um ihnen **Zugriff** auf Ihre App zu gewähren.
+Scannen Sie den angezeigten **QR-Code**, um Ihre App zu öffnen, oder teilen Sie ihn mit anderen Nutzern, um ihnen **Zugriff** auf Ihre App zu gewähren.
 
-![QR-Code zum Öffnen und Teilen der Universellen App](images/qr-code-to-share-universal-app.png)
+![QR-Code zum Öffnen und Teilen der App](images/qr-code-to-share-universal-app.png)

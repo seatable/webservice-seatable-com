@@ -8,54 +8,23 @@ author: 'vge'
 url: '/de/hilfe/alle-plugins-in-der-uebersicht'
 seo:
     title: 'SeaTable Plugins: Die wichtigsten Erweiterungen im Überblick'
-    description: 'Alle SeaTable Plugins erklärt: Kalender, Galerie, Kanban, Whiteboard, SQL, Karten, Organigramm, Beziehungen – Funktionen, Vorteile & Tipps.'
+    description: 'Alle SeaTable Plugins erklärt: KI-Chat, Whiteboard, SQL, Seitendesign, Karten, Organigramm, Tabellenbeziehungen – Funktionen, Vorteile & Tipps.'
 star: true
 weight: 1
 ---
 
-Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz anderen Blickwinkeln zu sehen. Visualisieren Sie Termine, Aufgaben und Orte und erstellen Sie aus Ihren Daten gelayoutete Dokumente und Steckbriefe. Im folgenden Artikel erklären wir, welche Plugins in SeaTable zur Verfügung stehen und wie Sie mit ihnen umgehen können.
+Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz anderen Blickwinkeln zu sehen und erweiterte Funktionen zu nutzen. Visualisieren Sie beispielsweise Orte, Organigramme und Tabellenbeziehungen, erstellen Sie gelayoutete Dokumente oder richten Sie einen KI-Chat in Ihrer Base ein. Im folgenden Artikel erklären wir, welche Plugins in SeaTable zur Verfügung stehen und wie Sie mit ihnen umgehen können.
 
-![ÜÜbersichtsgrafik mit Symbolen für alle SeaTable Plugins](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![Übersichtsgrafik mit Symbolen für alle SeaTable Plugins](images/overview-all-plugins.gif)
 
 ## Was ist ein Plugin?
 
-In SeaTable können Sie für Ihre Tabellen verschiedene **Ansichten** anlegen, in denen Sie Daten nach Belieben [filtern]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) können.
+In SeaTable können Sie für Ihre Tabellen verschiedene [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) anlegen, mit denen Sie Ihre Daten zum Beispiel in **Kalendern**, **Galerien** und **Baumdiagrammen** visualisieren können. Darüber hinaus gibt es Plugins.
 
-Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zusätzliche Darstellungsmöglichkeiten bietet. In jeder Base lassen sich verschiedene Plugins aktivieren, welche die Daten der jeweiligen Tabellen und Ansichten beispielsweise in **Kalendern**, **Dokumenten** oder **Galerien** darstellen. Lesen Sie im verlinkten Hilfeartikel mehr darüber, [wie Sie ein Plugin aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
+Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zusätzliche Funktionen bietet. In jeder Base lassen sich verschiedene Plugins aktivieren, welche die Daten der jeweiligen Tabelle beispielsweise auf **Karten**, in **Organigrammen** oder **Dokumenten** darstellen. Zudem können Sie erweiterte Funktionen nutzen, um **Duplikate** aufzuspüren, einen **KI-Chat** einzurichten oder auf dem **Whiteboard** Ihrer Kreativität freien Lauf zu lassen.
+
+Lesen Sie im verlinkten Hilfeartikel mehr darüber, [wie Sie ein Plugin aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ).
-
-## Kalender-Plugin
-
-Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
-
-![Kalender-Plugin mit Terminen in Monatsansicht](images/Calendar.png)
-
-[Mehr zum Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
-
-Diese Artikel könnten für Sie auch interessant sein:
-
-- [Mehrere Kalender für eine Base anlegen]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
-- [Neue Kalendereinträge im Kalender-Plugin anlegen]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
-
-## Timeline-Plugin
-
-Das Timeline-Plugin stellt durch ein Start- und Enddatum bzw. durch ein Startdatum und eine Dauer verschiedene Zeiträume in Form eines **Zeitstrahls** dar. So können Sie einen guten Überblick über parallel laufende Projekte oder Überschneidungen von Terminen behalten. Auch zur Urlaubsplanung im Team und zur Belegungsplanung von Räumen ist dieses Plugin hervorragend geeignet.
-
-![Timeline-Plugin mit Zeitstrahl für Projekte und Zeiträume](images/projektmanagement-timeline.png)
-
-[Mehr zum Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
-
-## Galerie-Plugin
-
-Das Galerie-Plugin eignet sich besonders gut, um Datensätze mit **Bildern** darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) bezieht. Unter den Bildern werden die Einträge einer Spalte als **Titel** angezeigt. Zudem besteht die Möglichkeit, in diesem Plugin weitere Spalten der Tabelle einzublenden und so die Bilder durch mehr Informationen aus den Datensätzen zu ergänzen. Insbesondere bei kreativen und künstlerischen Projekten ist dies sehr hilfreich, um auf einen Blick alle Informationen zusammenzufassen.
-
-![Galerie-Plugin mit Bildern und Titeln unter den Vorschaubildern](images/Galerie.png)
-
-[Mehr zum Galerie-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
-
-Dieser Artikel könnte für Sie auch interessant sein:
-
-- [Eine neue Zeile über das Galerie-Plugin hinzufügen]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
 
 ## Karten-Plugin
 
@@ -69,7 +38,7 @@ Dieser Artikel könnte für Sie auch interessant sein:
 
 Das Datendeduplizierungs-Plugin deckt **doppelte Einträge** in einer Tabelle auf. Dies ist besonders bei großen Datenmengen sehr hilfreich, um Dopplungen zu entdecken und diese zu entfernen. Dabei können Sie alle doppelten Einträge mit nur einem Klick löschen.
 
-![Datendeduplizierungs-Plugin mit Liste doppelter Einträge](images/Deduplication.png)
+![Datendeduplizierungs-Plugin mit Liste doppelter Einträge](images/deduplication-plugin.jpg)
 
 [Mehr zum Datenduplizierungs-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
@@ -80,14 +49,6 @@ Mithilfe des Seitendesign-Plugins können Sie **Dokumente** wie Serienbriefe, Vi
 ![Seitendesign-Plugin mit gelayouteten Dokumenten aus Tabellendaten](images/Pagedesign.png)
 
 [Mehr zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-## Kanban-Plugin
-
-Mit dem Kanban-Plugin können Sie Tabelleneinträge auf einem **Kanban-Board** darstellen. Jeder Eintrag wird mit einer Karte visualisiert und kann zwischen verschiedenen Säulen hin- und hergeschoben werden. Die Kanban-Methode können Sie im agilen **Projekt- und Workflow-Management** einsetzen. Durch die Visualisierung von **Aufgaben**, die nach Status oder Projektphase gruppiert sind, gewinnen Sie einen hervorragenden Überblick über den Fortschritt von Arbeitsabläufen.
-
-![Kanban-Plugin mit Karten in Spalten für verschiedene Status](images/Kanban-Plugin.png)
-
-[Mehr zum Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## SQL-Abfrage-Plugin
 
@@ -117,9 +78,23 @@ Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datens
 
 Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, **welche Tabellen über welche Spalten miteinander verknüpft sind**.
 
-![Tabellenbeziehungen-Plugin mit Linien zwischen verbundenen Tabellen](images/Table-Relationships-Plugin.png)
+![Tabellenbeziehungen-Plugin mit Linien zwischen verbundenen Tabellen](images/table-relationship-plugin.png)
 
 [Mehr zum Tabellenbeziehungen-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
+
+## Berichtsdesign-Plugin
+
+Mit diesem Plugin können Sie **mehrseitige Berichte** erstellen, in denen Tabellen, Diagramme und Felder dynamisch mit Daten aus Ihrer Base gespeist werden. Es ähnelt dem Seitendesign-Plugin in der Hinsicht, dass es ebenfalls **PDF-Dokumente auf Basis von gelayouteten Vorlagen** erstellt. Die statischen und dynamischen Elemente werden allerdings nicht pixelgenau auf der Vorlage positioniert, sondern wie in einem **Textverarbeitungsprogramm** (z. B. Microsoft Word oder Google Docs) fortlaufend untereinander platziert.
+
+![Das Berichtsdesign-Plugin](images/report-design-plugin-example.png)
+
+## KI-Chat-Plugin
+
+Das jüngste Plugin von SeaTable ist absolut am Puls der Zeit. Es erlaubt Ihnen, einen **KI-Chat** mit Ihrem bevorzugten Sprachmodell einzurichten. So können Sie Ihre Bases in natürlicher Sprache bearbeiten und auswerten, z. B. Datensätze anlegen, Werte ändern, Zeilen verknüpfen oder Analysen erstellen.
+
+![KI-Chat-Plugin in SeaTable einrichten](images/ai-chat-plugin.png)
+
+[Mehr zum KI-Chat-Plugin]({{< relref "help/ai/ai-chat/introduction" >}})
 
 ## Weitere hilfreiche Artikel
 

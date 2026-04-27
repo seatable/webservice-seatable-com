@@ -17,7 +17,7 @@ seo:
 
 Cuando comienza la temporada de festivales y aumenta la expectación por la buena música y las experiencias compartidas con los amigos, es hora de volver a hacer las maletas. Para que tu visita al festival transcurra sin contratiempos y no se vea ensombrecida por problemas y molestias, es fundamental **una preparación minuciosa**.
 
-Tanto si te preparas para el legendario [Wacken](https://www.wacken.com/de/) como para el emocionante [Rock am Ring](https://www.rock-am-ring.com) o el energético [Hurricane](https://hurricane.de/de/) Festival, en la lista de equipaje de cualquier festival no pueden faltar algunos artículos imprescindibles.
+Tanto si te preparas para el legendario [Wacken](https://www.wacken.com/de/) como para el emocionante [Rock am Ring](https://www.rock-am-ring.com) o el energético [Hurricane](https://hurricane.de/) Festival, en la lista de equipaje de cualquier festival no pueden faltar algunos artículos imprescindibles.
 
 ![La lista del festival: Un hombre lleva a una mujer a cuestas en un festival](group-friends-having-fun-together-711x475.jpg)
 

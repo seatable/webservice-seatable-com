@@ -6,6 +6,9 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/help/the-kanban-view'
+aliases:
+    - '/help/kanban-plugin-guide'
+    - '/help/anleitung-zum-kanban-plugin'
 seo:
     title: 'Create and use the Kanban view in SeaTable'
     description: 'Learn how to set up the Kanban view in SeaTable and how to use it optimally for the visualization of processes'

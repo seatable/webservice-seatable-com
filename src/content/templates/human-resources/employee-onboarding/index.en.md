@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use the onboarding plan template online with SeaTable'
       subtitle: 'Your advantages at a glance'
-      description: 'The AI no-code platform impresses with its flexibility and adaptability. With the induction plan template, you can digitally map your entire onboarding process—from preparation before the first day of work to integration into everyday work—keep track of tasks and responsibilities, and create a common basis for structured [HR processes]({{< relref "pages/industry-solutions/hr" >}}) throughout the entire company.'
+      description: 'The AI no-code platform impresses with its flexibility and adaptability. With the induction plan template, you can digitally map your entire onboarding process—from preparation before the first day of work to integration into everyday work—keep track of tasks and responsibilities, and create a common basis for structured [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) throughout the entire company.'
       items:
       - text: 'Always up to date: Thanks to comments, change history, and real-time updates, your onboarding plan is always up to date—from the initial onboarding plan template to ongoing adjustments for different roles.'
       - text: 'Access from anywhere: With an online onboarding plan template, HR, managers, and new employees have access to the onboarding plan, to-do lists, and documents at any time—whether in the office, working from home, or on the go.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'AI-supported onboarding plan template'
       subtitle: 'Smart automation in onboarding'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your onboarding plan template to the next level. Automate recurring steps in the onboarding process, reduce manual routine tasks, and free up time for feedback, support, and personal conversations with new employees.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your onboarding plan template to the next level. Automate recurring steps in the onboarding process, reduce manual routine tasks, and free up time for feedback, support, and personal conversations with new employees.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new positions or employees to the most suitable onboarding package based on role type, location, department, or seniority level. Each new case is instantly added to your onboarding plan template with a matching checklist, so HR no longer needs to compile all tasks manually and can focus on strategic work.'
@@ -188,5 +188,5 @@ sections:
       - q: "Can I create my own fields and workflows in the onboarding plan template?"
         a: 'Yes, you can add additional columns, tables, views, and automations at any time. This allows you to flexibly adapt each onboarding plan template to your onboarding concept, HR processes, and reporting requirements.'
       - q: "Is SeaTable a good alternative to traditional project management tools like Asana for onboarding processes?"
-        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/asana-alternative" >}}) and similar tools. Unlike rigid boards, the onboarding plan template, onboarding plan templates, and other HR templates combine flexible database logic with views such as calendars, timelines, and app front ends—ideal for modern, digital onboarding of new employees.'
+        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) and similar tools. Unlike rigid boards, the onboarding plan template, onboarding plan templates, and other HR templates combine flexible database logic with views such as calendars, timelines, and app front ends—ideal for modern, digital onboarding of new employees.'
 ---

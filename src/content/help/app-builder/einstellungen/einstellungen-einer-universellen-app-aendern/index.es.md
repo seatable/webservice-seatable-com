@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar la configuración global de una aplicación universal'
+title: 'Cambiar la configuración global de una aplicación'
 date: 2023-05-03
 lastmod: '2025-07-03'
 categories:
@@ -9,13 +9,13 @@ url: '/es/ayuda/cambiar-ajustes-globales-app-universal'
 aliases:
     - '/es/ayuda/einstellungen-einer-universellen-app-aendern'
 seo:
-    title: 'Cambiar ajustes globales en una App Universal'
-    description: 'Descubra cómo personalizar la configuración global, URLs y permisos en una App Universal de SeaTable de forma sencilla.'
+    title: 'Cambiar ajustes globales en una aplicación'
+    description: 'Descubra cómo personalizar la configuración global, URLs y permisos en una aplicación de SeaTable de forma sencilla.'
 ---
 
-Dentro de una **aplicación universal**, puede realizar varios **ajustes globales** que afectan a la configuración y el aspecto de toda la aplicación con sólo unos clics.
+Dentro de una **aplicación**, puede realizar varios **ajustes globales** que afectan a la configuración y el aspecto de toda la aplicación con sólo unos clics.
 
-## Cambiar la configuración de una aplicación universal
+## Cambiar la configuración de una aplicación
 
 1. Abra una **base** en la que desee editar una aplicación existente.
 2. Haga clic en **Aplicaciones** en la cabecera Base.
@@ -24,19 +24,19 @@ Dentro de una **aplicación universal**, puede realizar varios **ajustes globale
 ![Editar aplicaciones](images/Apps-bearbeiten.png)
 4. Haga clic en el **símbolo de la rueda dentada** situado en la parte superior izquierda de la página.
 ![Icono de rueda dentada para los ajustes de la aplicación](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
-5. Realice los ajustes deseados en la **configuración** de la aplicación universal.
+5. Realice los ajustes deseados en la **configuración** de la aplicación.
 
 {{< warning  headline="Autorización necesaria en el grupo"  text="Para poder editar una app, debe ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros del** grupo simple sólo pueden ver y utilizar las apps." />}}
 
-## Editar el nombre de la aplicación universal
+## Editar el nombre de la aplicación
 
-En la primera sección de la configuración de la aplicación, puede personalizar el **nombre de** la aplicación universal y guardarlo haciendo clic en **Enviar**.
+En la primera sección de la configuración de la aplicación, puede personalizar el **nombre de** la aplicación y guardarlo haciendo clic en **Enviar**.
 
 ![Cambiar el nombre de la aplicación](images/Change-app-name.png)
 
 ## URL definida por el usuario
 
-En la segunda sección, puede personalizar parte de la **URL** con la que puede llamar y enlazar a su aplicación universal. Solo tiene que introducir la URL que desea en el **campo de texto** y tener en cuenta los **requisitos** que se indican a continuación al introducirla. A continuación, puede **guardar** y **copiar** la URL introducida.
+En la segunda sección, puede personalizar parte de la **URL** con la que puede llamar y enlazar a su aplicación. Solo tiene que introducir la URL que desea en el **campo de texto** y tener en cuenta los **requisitos** que se indican a continuación al introducirla. A continuación, puede **guardar** y **copiar** la URL introducida.
 
 ![Editar URL personalizada](images/Edit-custom-URL.png)
 
@@ -80,6 +80,6 @@ También puede activar que **cada usuario conectado que utilice su aplicación s
 
 ## Editar la configuración de páginas individuales
 
-Los ajustes mencionados hasta ahora afectan a **toda** una **aplicación universal**. Si desea cambiar la configuración de una **página individual**, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la página correspondiente en la navegación.
+Los ajustes mencionados hasta ahora afectan a **toda** una **aplicación**. Si desea cambiar la configuración de una **página individual**, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la página correspondiente en la navegación.
 
 ![Abrir la configuración de la página](images/page-permissions-universal-app.png)

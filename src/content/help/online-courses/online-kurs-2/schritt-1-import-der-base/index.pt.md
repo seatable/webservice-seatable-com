@@ -17,14 +17,14 @@ Antes de poder mapear um novo processo empresarial no SeaTable, é necessário c
 
 Como este curso é sobre a gestão de serviços em linha, precisamos de duas tabelas centrais:
 
-- Um quadro para registar as ofertas de cursos
-- Uma mesa para os participantes
+- Uma tabela para registar as ofertas de cursos
+- Uma tabela para os participantes
 
 No primeiro curso, já aprendeu a criar uma base com diferentes tipos de colunas. Por isso, vamos saltar esta etapa e começar diretamente com uma base preparada.
 
 Descarregue o seguinte ficheiro para o seu PC e importe-o como uma nova base na página inicial do SeaTable:
 
-<a href="/SeaTable-Course-Level-2.dtable" download>Curso SeaTable Nível 2.dtable</a>
+[Curso SeaTable Nível 2.dtable](/SeaTable-Course-Level-2.dtable)
 
 Mesmo que não tenha de ser o próprio a criar a base, é importante que se familiarize intensamente com a estrutura. Foram utilizados novos tipos de colunas com os quais pode não estar familiarizado desde o curso anterior.
 

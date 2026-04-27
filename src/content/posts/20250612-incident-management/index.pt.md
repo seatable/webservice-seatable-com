@@ -28,7 +28,7 @@ A gestão de incidentes é um processo que visa reconhecer rapidamente as falhas
 
 ## ITIL: Importância em TI
 
-A ITIL (Information Technology Infrastructure Library) é uma norma internacionalmente reconhecida para métodos e processos de [gestão de serviços de TI]({{< relref "pages/industry-solutions/software-development" >}}) (ITSM). Ajuda-o a otimizar os seus serviços de TI para satisfazer os requisitos dos seus clientes e objectivos comerciais. Com as normas ITIL, não só melhora a qualidade dos seus serviços, como também aumenta a eficiência do seu departamento de TI.
+A ITIL (Information Technology Infrastructure Library) é uma norma internacionalmente reconhecida para métodos e processos de [gestão de serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) (ITSM). Ajuda-o a otimizar os seus serviços de TI para satisfazer os requisitos dos seus clientes e objectivos comerciais. Com as normas ITIL, não só melhora a qualidade dos seus serviços, como também aumenta a eficiência do seu departamento de TI.
 
 Ao introduzir e aplicar os processos ITIL, aprenderá a proceder de forma mais estruturada, a gerir os seus recursos de forma mais eficiente e a definir funções e responsabilidades claras dentro da sua organização. Além disso, os processos ITIL permitem-lhe reagir melhor a períodos de inatividade imprevistos e implementar alterações sem complicações. Isto leva a uma maior estabilidade, flexibilidade e satisfação do cliente nas suas operações de TI.
 

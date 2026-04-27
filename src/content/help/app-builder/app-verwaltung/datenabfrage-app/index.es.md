@@ -27,7 +27,7 @@ Para utilizar una aplicación de recuperación de datos en tu base, primero debe
 
 Una vez que haya creado correctamente su aplicación de consulta de datos, puede seleccionar la **tabla** y las **columnas** en las que se pueden buscar determinados **valores** en la configuración de la aplicación. {{< seatable-icon icon="dtable-icon-rename" >}} Para ello, basta con abrir la aplicación en [modo de edición]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) con el **icono del lápiz**.
 
-Como la aplicación de consulta de datos se basa en Universal App Builder, las siguientes opciones de configuración son idénticas a las **páginas de consulta de Universal App**:
+Como la aplicación de consulta de datos se basa en el App Builder, las siguientes opciones de configuración son idénticas a las **páginas de consulta de la aplicación**:
 
 ![Configuración de la página de la aplicación de consulta de datos](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
@@ -63,7 +63,7 @@ Una vez que haya compartido correctamente su aplicación de consulta de datos, o
 
 Después de que los usuarios hayan hecho clic en **Consultar**, los registros de datos encontrados se muestran inmediatamente en una tabla. Los usuarios de la aplicación sólo pueden ver los valores de columna de un registro de datos que usted **no haya ocultado**. Además, no pueden eliminar ningún **filtro** que usted haya **preestablecido** para limitar el número de filas en las que se puede buscar.
 
-![Páginas de consulta en aplicaciones universales](images/Abfrageseiten-in-Universellen-Apps.png)
+![Páginas de consulta en aplicaciones](images/Abfrageseiten-in-Universellen-Apps.png)
 
 Sin embargo, los usuarios pueden **ordenar** ellos mismos la lista de resultados consultados y **ajustar** la **altura de las filas** para obtener una mejor visión de conjunto.
 

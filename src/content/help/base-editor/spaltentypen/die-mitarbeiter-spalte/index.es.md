@@ -55,10 +55,10 @@ Al enviar notificaciones mediante [automatizaciones]({{< relref "help/base-edito
 
 ![Columna de colaboradores para notificaciones automáticas](images/Collaborator-column-for-automated-notifications.gif)
 
-## La columna de colaboradores en las aplicaciones universales
+## La columna de colaboradores en las aplicaciones
 
-La columna de colaboradores también es una ventaja en la [app Universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Puedes activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) la app.
+La columna de colaboradores también es una ventaja en la [aplicación]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Puedes activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) la app.
 
-Si no desea que los usuarios de la app puedan ver los registros de datos de otros usuarios, defina **filtros preestablecidos**: si una página se filtra por la columna de colaboradores con la condición "incluye al usuario actual", cada usuario de la app universal sólo verá las entradas que se le asignen en la tabla.
+Si no desea que los usuarios de la app puedan ver los registros de datos de otros usuarios, defina **filtros preestablecidos**: si una página se filtra por la columna de colaboradores con la condición "incluye al usuario actual", cada usuario de la aplicación sólo verá las entradas que se le asignen en la tabla.
 
-![Columna de colaboradores en la aplicación universal](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Columna de colaboradores en la aplicación](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)

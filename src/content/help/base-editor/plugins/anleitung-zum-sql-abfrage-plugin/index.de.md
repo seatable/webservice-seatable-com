@@ -23,7 +23,9 @@ Ein großer Vorteil des Plugins besteht darin, dass es im Zuge der Datenbankabfr
 
 Der wohl am häufigsten genutzte SQL-Befehl ist der **SELECT** Befehl, der zur Abfrage von Einträgen verwendet wird. Eine einfache Abfrage der Spalten _Name_ und _Number_ aus der Tabelle _Time_ würde so aussehen:
 
-\[code\]SELECT Name, Number FROM Time\[/code\]
+```
+SELECT Name, Number FROM Time
+```
 
 Nach der Eingabe des Befehls wird die Datenbank nach den **definierten Werten** durchsucht und die Ergebnisse werden automatisch in Tabellenform dargestellt.
 
@@ -41,7 +43,9 @@ Mithilfe der Funktion **Exportieren in eine neue Tabelle** können Sie die gefun
 
 **DELETE** ist ein weiterer häufig genutzter Befehl, der zum schnellen **Löschen von Einträgen** verwendet wird. Der folgende Befehl löscht beispielsweise alle Daten aus der Tabelle _Time_.
 
-\[code\]DELETE FROM Time\[/code\]
+```
+DELETE FROM Time
+```
 
 Nach der Eingabe des Befehls werden **alle** Einträge aus der Tabelle **Time** gelöscht. Über das [Base-Log]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log) können Sie die Zeilen aber wiederherstellen.
 

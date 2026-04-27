@@ -32,7 +32,7 @@ No-code platforms have emerged because companies need digital solutions faster a
 
 ![Binary logic as a technical basis](binaere_zahlen.jpg)
 
-The possible applications are wide-ranging. You can automate recurring processes, develop internal applications, or test initial prototypes. The available platforms support you in various areas. Some tools focus on user-friendly interfaces, while others help you manage data or serve as the basis for background functions. Whether you are looking for a [Projectmanagement Tool]({{< relref "pages/industry-solutions/project-management" >}}) or [Marketing Management Tool]({{< relref "pages/industry-solutions/marketing" >}}) - you can find exactly the right tool for your project.
+The possible applications are wide-ranging. You can automate recurring processes, develop internal applications, or test initial prototypes. The available platforms support you in various areas. Some tools focus on user-friendly interfaces, while others help you manage data or serve as the basis for background functions. Whether you are looking for a [Projectmanagement Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) or [Marketing Management Tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) - you can find exactly the right tool for your project.
 
 ##  Advantages of using no-code tools 
 
@@ -49,7 +49,7 @@ No-code platforms follow an approach that combines technological possibilities w
 
 The structure of many solutions is based on table-like data models that allow you to organize and link information precisely. This data is then used to create views, forms, and interactive areas that fit seamlessly into your workflows. 
 
-To ensure that your applications do not just display static information, you have access to powerful [workflow management]({{< relref "pages/industry-solutions/individual" >}})  and logic. You define conditions, sequences, and responses that automatically trigger your processes, creating a reliable basis for recurring tasks. 
+To ensure that your applications do not just display static information, you have access to powerful [workflow management]({{< relref "pages/landing-pages/industry-solutions/individual" >}})  and logic. You define conditions, sequences, and responses that automatically trigger your processes, creating a reliable basis for recurring tasks. 
 
 ![Working with no-code tools on a laptop](frau-an-laptop.jpg)
 

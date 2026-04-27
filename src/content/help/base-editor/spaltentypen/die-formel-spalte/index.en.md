@@ -73,7 +73,7 @@ Below are a few examples that illustrate the utility and use of formulas.
 
 Of course you can rely on the fact that mathematical conventions also find their application in the formulas of SeaTable. Here are the most important examples:
 
-- You can **nest\*\***functions\*\* within each other using parentheses. Example: (( 1 + 2 ) \* 3)
+- You can **nest functions** within each other using parentheses. Example: (( 1 + 2 ) \* 3)
 - **Dot before dash**, the **order of parentheses** and other **mathematical rules** are taken into account in SeaTable.
 
 ## Formula column formatting

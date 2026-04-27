@@ -14,7 +14,7 @@ seo:
 
 Je nach Aufgabe und erfassten Daten sind unterschiedliche **Darstellungsweisen** sinnvoll, um Ihnen die Arbeit in SeaTable zu erleichtern. SeaTable bietet Ihnen dafür einerseits Ansichten: Quantitative Daten lassen sich am besten in der Tabellen-Ansicht erfassen, mit Filtern, Sortierungen und Gruppierungen strukturieren und mithilfe von **Statistiken** auswerten.
 
-Für die erweiterten Datentypen, die Sie in SeaTable speichern und organisieren können, gibt es erweiterte Ansichten in Form von **Plugins**. Für die Zeitplanung erweisen sich zum Beispiel die Timeline und der Kalender als besonders hilfreich. Für Bilder bietet sich die Galerie an und für geographische Daten die Karte. Ein Kanban-Board ergibt vor allem für Gruppierungen bei Einfachauswahlen Sinn.
+Für die erweiterten Datentypen, die Sie in SeaTable speichern und organisieren können, gibt es weitere **Ansichten und Plugins**. Für die Zeitplanung erweisen sich zum Beispiel die Timeline und der Kalender als besonders hilfreich. Für Bilder bietet sich die Galerie an und für geographische Daten die Karte. Ein Kanban-Board ergibt vor allem für Gruppierungen bei Einfachauswahlen Sinn.
 
 Erfahren Sie in diesem Beitrag, welche Ansichten und Plugins es gibt, wie Sie diese nutzen können und für welche Anwendungsfällen sie sich besonders eignen.
 
@@ -37,16 +37,17 @@ Umfangreiche Informationen über die statistischen Auswertungsmöglichkeiten fin
 
 ## Erweiterte Ansichten
 
-Mithilfe von **Plugins** lässt sich die Tabellen-Ansicht um weitere Darstellungsoptionen ergänzen. Diese erweitern die möglichen Einsatzfelder von SeaTable über die rein quantitative Analyse numerischer Daten hinaus – wodurch SeaTable Anwendungsfälle ermöglicht, die eine klassische Tabellenkalkulation nicht abdecken kann.
+Die Tabellen-Ansicht lässt sich um weitere Ansichten ergänzen: Mit der [Kalender-Ansicht]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}
+) und der [Zeitleisten-Ansicht]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) behalten Sie die Übersicht über Ihre Termine und Deadlines und organisieren erfolgreich Projekte. Mit der [Galerie-Ansicht]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) verwalten Sie Datensätze mit Bildern in Ihrer Base und mit der [Kanban-Ansicht]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}) visualisieren Sie Ihre Aufgaben und Projektphasen. Nicht zuletzt lassen sich mit der [Baum-Ansicht]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}) Hierarchien zwischen verknüpften Datensätzen anzeigen.
 
-Plugins erlauben Ihnen Ihre Daten aus verschiedenen Blickwinkeln zu betrachten. Dabei bleibt der Datensatz immer genau gleich, nur die Darstellung ändert sich.
+[Einen Überblick über die Ansichten finden Sie hier]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 
-Sie aktivieren die Plugins über den Plugin-Manager, den Sie über die Schaltfläche {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** oben rechts im Base-Header öffnen. Wie Sie Plugins zu Ihrer Base hinzufügen, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
-). Plugins werden immer nur für die geöffnete Base aktiviert. Die Aktivierung der Plugins müssen Sie ggf. in anderen Bases wiederholen.
+## Plugins
 
-![Übersicht über alle Plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+Mithilfe von **Plugins** können Sie Ihre Base um weitere Darstellungsoptionen und Funktionen ergänzen. Diese erweitern die möglichen Einsatzfelder von SeaTable über reine Ansichten hinaus. Plugins erlauben Ihnen Ihre Daten aus verschiedenen Blickwinkeln zu betrachten.
 
-Mit dem [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-) und dem [Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) behalten Sie die Übersicht über Ihre Termine und Deadlines und organisieren erfolgreich Projekte. Mit dem [Galerie-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) verwalten Sie Bilder schnell und einfach in Ihrer Base.
+Sie aktivieren die Plugins über den Plugin-Manager, den Sie über die Schaltfläche {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** oben rechts im Base-Header öffnen. Wie Sie Plugins zu Ihrer Base hinzufügen, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}). Plugins werden immer nur für die geöffnete Base aktiviert. Die Aktivierung der Plugins müssen Sie ggf. in anderen Bases wiederholen.
 
-Lassen Sie sich über das [Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) Adressen und Positionsdaten auf einer Karte anzeigen und visualisieren Sie Ihre Aufgaben und Projektphasen mit dem [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) hilft Ihnen, Ihre Datensätze schnell in gelayoutete Dokumente zu verwandeln.
+Lassen Sie sich über das [Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) Adressen und Positionsdaten auf einer Karte anzeigen oder bilden Sie mit dem [Organigramm-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) komplexe Organisationsstrukturen ab. Das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) hilft Ihnen ebenso wie das Berichtsdesign-Plugin, Ihre Datensätze schnell in gelayoutete Dokumente zu verwandeln. Über das [KI-Chat-Plugin]({{< relref "help/ai/ai-chat/introduction" >}}) können Sie sogar KI-Modelle an Ihre Base anbinden, um große Datenmengen auszuwerten oder zu bearbeiten. Weitere Plugins bieten Whiteboards, SQL-Abfragen, Deduplikation und die Visualisierung von Tabellenbeziehungen.
+
+[Hier finden Sie einen Überblick über alle Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})

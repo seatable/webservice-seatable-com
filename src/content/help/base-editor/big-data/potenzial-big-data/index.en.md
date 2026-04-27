@@ -36,4 +36,4 @@ As already mentioned, the big data storage must be activated in a base. You can 
 
 The big data storage is a unique feature that you won't find in other no-code or low-code solutions. While other platforms and providers have hard caps and limits for the maximum number of rows , SeaTable does not restrict you in your work.
 
-The big data function makes it possible to implement processes and applications that would not be possible with [Airtable]({{< relref "pages/airtable-alternative" >}}), for example. Try it out for yourself. You will be amazed by the potential and the possibilities that big data storage offers you.
+The big data function makes it possible to implement processes and applications that would not be possible with [Airtable]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}), for example. Try it out for yourself. You will be amazed by the potential and the possibilities that big data storage offers you.

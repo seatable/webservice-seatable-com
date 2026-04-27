@@ -1,19 +1,21 @@
 ---
-title: 'Single Record Pages in Universal Apps'
+title: 'Single Record Pages in SeaTable Apps'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/single-record-page-universal-apps'
+url: '/help/single-record-page-seatable-apps'
 aliases:
     - '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+    - '/help/single-record-page-universal-apps'
 seo:
-    title: 'Single record page in Universal Apps – best practices'
-    description: 'Learn how to use single record pages in SeaTable Universal Apps: dynamic layouts, static fields, permissions, filters, editing and visual settings.'
+    title: 'Single record page in SeaTable Apps – best practices'
+    description: 'Learn how to use single record pages in SeaTable Apps: dynamic layouts, static fields, permissions, filters, editing and visual settings.'
+weight: 11
 ---
 
-With the **single record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from the base.
+With the **single record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row.
 
 Users of the app can view, search, browse or even edit the single records on this page – with the relevant authorization. This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
 
@@ -25,11 +27,11 @@ If you want to change the settings of a page, click on the corresponding {{< sea
 
 ![Change gallery page settings](images/Einstellungen-der-Galerieseite-aendern.png)
 
-In the **page settings**, you can select the **table** in which the individual data records are saved.
+In the **page settings**, you can select the **table** in which the single records are saved.
 
 ### Static elements
 
-Similar to [individual pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can also add **static elements** to pages of the Single Record type, which are used to design the page and remain the same across all data records. These elements are
+Similar to [custom pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can also add **static elements** to pages of the Single Record type, which are used to design the page and remain the same across all data records. These elements are
 
 - Text
 - Formatted text
@@ -44,13 +46,13 @@ For more detailed information on the **setting options** for these elements, ple
 
 ### Table fields
 
-All columns in the table from which you can insert data into the page are listed as table fields. The content of the fields depends on the individual data records in the table and changes depending on the entry.
+All columns in the table from which you can insert data into the page are listed as table fields. The content of the fields depends on the single records in the table and changes depending on the record.
 
-Just like the static elements, each table field also has its own **element settings**. First select whether you want to display the **field name** that serves as the heading of the entry. If so, you can set the exact **alignment**, **font size**, **font weight** and **font color**.
+Just like the static elements, each table field also has its own **element settings**. First select whether you want to display the **field name** that serves as the heading of the record. If so, you can set the exact **alignment**, **font size**, **font weight** and **font color**.
 
 You can also define a **background color** and a **frame** for each table field.
 
-![Element settings of a table field on Single Record Pages in the Universal App](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
+![Element settings of a table field on Single Record Pages in the SeaTable App](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
 
 For all text and number-based column types, you also have the option of setting the **font size, font weight, font color and alignment of the displayed values**.
 
@@ -73,7 +75,7 @@ If you want to copy, move or delete an existing element on your page, simply use
 
 You can also define preset filters and sorting to limit and organize the data records that can be displayed for users. To filter or sort, click on **Add filter** or **Add sorting**, select the desired **column** and **condition** and confirm with **Submit**.
 
-![Add filters on Single Record pages in Universal Apps](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
+![Add filters on Single Record pages in SeaTable Apps](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
 
 Users can only see the information for a single record that you display via the integrated table fields.
 
@@ -90,31 +92,45 @@ You can make the following graphical settings for the entire page of the Single 
 
 ![Page background settings of the Single record type](images/Seitenhintergrund-Einstellungen-von-Seiten-des-Typs-Einzelner-Datensatz.png)
 
-## Switch between the entries
+## Switch between single records
 
-If you have displayed the toolbar, app users with the corresponding page authorization can switch between the individual data records. To do this, click on {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Previous entry** or **Next entry** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. You can also {{< seatable-icon icon="dtable-icon-search" color="grey" >}} **search for a specific entry**.
+If you have displayed the toolbar, app users with the corresponding page authorization can switch between the single records. To do this, click on {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Previous record** or **Next record** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. You can also {{< seatable-icon icon="dtable-icon-search" color="grey" >}} **search for a specific record**.
 
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 
-## Edit entry
+## Modify single records
 
 With the appropriate authorization, app users can edit the single records on this page.
 
 ![Modify record on single record pages](images/Modify-record-on-single-record-pages.gif)
 
-- Click on **Edit entry** in the toolbar.
+- Click on **Modify record** in the toolbar.
 - The window with the **row details** opens. Make the desired changes to the data record there.
 - Close the window by clicking on the **x symbol** to save the changes.
 
-## Generate QR code for individual entries
+## Generate QR code for single records
 
-You will also find a **QR code generator** in the toolbar. The QR code contains the link to the currently displayed entry. Attached to an object or device, you can scan the QR code using a tablet or smartphone and call up all the data in the app without any keyboard input. This makes [inventory management]({{< relref "templates/operations/inventory-list" >}}) even easier, for example.
+You will also find a **QR code generator** in the toolbar. The QR code contains the link to the currently displayed record. Attached to an object or device, you can scan the QR code using a tablet or smartphone and call up all the data in the app without any keyboard input. This makes [inventory management]({{< relref "templates/operations/inventory-list" >}}) even easier, for example.
 
 ![More design options on single record page in SeaTable 5.1](images/SingleRecordPage.png)
 
 ## Execute button actions
 
 Just like on table and query pages, you can also use columns of the [button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) type here. Whether you want to create a PDF document, edit a data record or execute a script – you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
+
+## Link column settings
+
+In the **settings for the link column**, you can define which data is visible and which operations are permitted for each linked table.
+
+![Link column settings on single record pages in SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Field settings**: Here you can define exactly which columns the following authorizations apply to.
+- **Allow adding new entries**: If you activate this slider, users can add new entries to the linked table. You can use the field settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
+- **Allow linking of existing entries**: If you activate this slider, users can link existing entries in the linked table. You can use the field settings to define which columns are **visible**.
+- Limit **links to a maximum of one row :** If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
+- **Preset filters**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking entries.
+- **Activate big data** function: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
+- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the field settings to define which columns are **editable**.
 
 ## Page authorizations
 
@@ -136,4 +152,4 @@ In addition to the page authorization "Who can edit rows ?", you can use read-on
 
 ![Read-only columns on single record pages](images/Read-only-columns-on-single-record-pages.png)
 
-Go to the **page settings** and click on the **boxes** of the columns that should **only** be **readable** for users. You can recognize read-only columns by the fact that they are highlighted in **grey** in the row details.
+Go to the **page settings** and click on the **boxes** of the columns that should be **read-only** for users. You can recognize read-only columns by the fact that they are highlighted in **grey** in the row details.

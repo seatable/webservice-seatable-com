@@ -8,14 +8,14 @@ author: 'kgr'
 url: '/pt/ajuda/automatizacoes-visao-exemplos-seatable'
 aliases:
     - '/pt/ajuda/uebersicht-ueber-automationen'
+    - '/pt/ajuda/automacoes-nao-visiveis-seatable'
+    - '/pt/ajuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 seo:
     title: 'Automatizações no SeaTable: visão geral e exemplos'
     description: 'Veja como agilizar tarefas com as automações SeaTable: acionadores, ações, registro de execuções e exemplos práticos de uso para melhorar o seu fluxo.'
 star: true
 weight: 1
 ---
-
-{{< required-version "Empresa" >}}
 
 As automatizações são uma característica útil do SeaTable que o ajuda a **automatizar os processos de trabalho**. Com a ajuda de automatizações, pode não só **poupar tempo**, mas também **minimizar** o número de **erros humanos** na manutenção dos seus dados, uma vez que as etapas do processo completadas automaticamente já não têm de ser executadas manualmente por um utilizador.
 
@@ -87,7 +87,7 @@ Saiba [aqui]({{< relref "help/base-editor/automationen/automationen-loeschen" >}
 
 ## Bloquear as filas com uma automatização
 
-Com a ajuda das automatizações, já não tem de bloquear as filas nas suas mesas manualmente, mas pode ter este bloqueio efectuado automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada mais depois de um certo tempo (por exemplo, quando um processo foi concluído).
+Com a ajuda das automatizações, já não tem de bloquear as filas nas suas tabelas manualmente, mas pode ter este bloqueio efectuado automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada mais depois de um certo tempo (por exemplo, quando um processo foi concluído).
 
 Aprenda [aqui]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) como bloquear as filas com uma automatização.
 
@@ -114,9 +114,3 @@ Descubra [aqui]({{< relref "help/base-editor/automationen/beispiel-e-mail-versan
 Com a ajuda de automatizações, já não tem de ligar manualmente as entradas nas suas tabelas, mas pode ter estas etapas executadas automaticamente. Isto é útil se precisar de certos dados em várias tabelas.
 
 Aprenda [aqui]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) como ligar as entradas via automatização.
-
-## Porque não consigo encontrar as automatizações na minha base?
-
-Não consegue encontrar a função de automatização nas suas bases? Pode ter algo a ver com a sua assinatura SeaTable.
-
-Descubra [aqui]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}) porque pode ser este o caso.

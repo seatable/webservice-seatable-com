@@ -20,8 +20,14 @@
     {{- end -}}
 
 
-    <!-- Do not index taxonomy and term pages -->
-    {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.seo.index "noindex") -}}
+    <!-- Do not index taxonomy pages -->
+    {{- if or (eq .Kind "taxonomy") (eq .Params.seo.index "noindex") -}}
+        <meta name="robots" content="noindex" />
+    {{- end }}
+
+    {{- /* Do not index term pages (except for very specific ones) */ -}}
+    {{ $termPagesToBeIndexed := slice "/de/thema/datenmanagement-visualisierung/" "/de/thema/digitale-transformation/" "/de/thema/it-prozesse/" "/de/thema/projektmanagement/" }}
+    {{- if and (eq .Kind "term") (not (in $termPagesToBeIndexed .RelPermalink)) -}}
         <meta name="robots" content="noindex" />
     {{- end }}
 
@@ -86,12 +92,12 @@
         {{ end }}
     {{- end }}
 
-    {{- if or (eq .TranslationKey "/pages/prices") (strings.HasPrefix .TranslationKey "/pages/industry-solutions/") (strings.HasPrefix .TranslationKey "/templates") }}
+    {{- if or (eq .TranslationKey "/pages/prices") (strings.HasPrefix .TranslationKey "/pages/landing-pages") (strings.HasPrefix .TranslationKey "/templates") }}
         {{ partial "structured-data/pricing.html" . }}
     {{- end }}
 
-    {{- if strings.HasPrefix .TranslationKey "/pages/industry-solutions/" }}
-        {{ partial "structured-data/industry-solutions-breadcrumb-list.html" . }}
+    {{- if strings.HasPrefix .TranslationKey "/pages/landing-pages" }}
+        {{ partial "structured-data/landing-pages-breadcrumb-list.html" . }}
     {{- end }}
 
     {{- if strings.HasPrefix .TranslationKey "/templates/" }}

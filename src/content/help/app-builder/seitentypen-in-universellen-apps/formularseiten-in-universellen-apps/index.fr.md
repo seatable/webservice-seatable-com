@@ -1,26 +1,27 @@
 ---
-title: 'Pages de formulaires dans les applications universelles'
+title: 'Pages de formulaires dans les applications de SeaTable'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/pages-formulaire-apps-universelles'
+url: '/fr/aide/pages-formulaire-apps-seatable'
 aliases:
     - '/fr/aide/formularseiten-in-universellen-apps'
+    - '/fr/aide/pages-formulaire-apps-universelles'
 seo:
-    title: 'Pages de formulaire dans Apps universelles'
+    title: 'Pages de formulaire dans SeaTable Apps'
     description: 'Créez des pages de formulaire sur-mesure dans SeaTable : glissez-déposez des champs, configurez l’accès, les champs obligatoires et l’aide.'
-
+weight: 3
 ---
 
-Ce type de page permet de construire différents **formulaires** que les utilisateurs peuvent ensuite soumettre. Les pages de formulaires dans les applications universelles sont idéales pour la saisie de données par de nombreux utilisateurs différents. Une application possible est la [saisie des heures de travail de vos collaborateurs]({{< relref "pages/arbeitszeiterfassung" >}}).
+Ce type de page permet de construire différents **formulaires** que les utilisateurs peuvent ensuite soumettre. Les pages de formulaires dans les applications sont idéales pour la saisie de données par de nombreux utilisateurs différents. Une application possible est la [saisie des heures de travail de vos collaborateurs]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Formulaire web pour enregistrer le temps de travail de vos employés](images/webformular-working-time.png)
 
 {{< warning  headline="Conseil" >}}
 
-[Les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ne sont pas seulement disponibles dans l'application universelle, mais aussi directement dans la base.
+[Les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ne sont pas seulement disponibles dans l'app builder, mais aussi directement dans la base.
 
 {{< /warning >}}
 
@@ -44,7 +45,7 @@ Chaque champ dispose en outre de **paramètres de champ** individuels, dans lesq
 
 Si vous souhaitez modifier l'**ordre** des champs dans le formulaire, vous pouvez saisir un champ à l'aide du **symbole à six points** {{< seatable-icon icon="dtable-icon-drag" >}} et le déplacer. En cliquant sur l'**icône de la corbeille** {{< seatable-icon icon="dtable-icon-delete" >}}, vous pouvez supprimer un champ du formulaire.
 
-![Champ sur la page de formulaire d'une application universelle](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
+![Champ sur la page de formulaire d'une application](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
 
 ### Autres paramètres de page de formulaire
 
@@ -60,6 +61,6 @@ Enfin et surtout, vous pouvez rediriger les utilisateurs vers une autre page de 
 
 Tout en bas, vous pouvez limiter les personnes autorisées à voir la page du formulaire.
 
-![Autorisation pour les pages individuelles de l'application universelle](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Autorisation pour les pages individuelles de l'application](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 C'est la seule [autorisation de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que vous pouvez choisir pour les pages de formulaire - car les pages de formulaire ne permettent pas de modifier ou de supprimer des lignes dans le tableau et toute personne qui peut voir la page peut également soumettre des formulaires, c'est-à-dire ajouter des lignes.

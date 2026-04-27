@@ -1,5 +1,5 @@
 ---
-title: 'Organised Store Management with SeaTable - SeaTable'
+title: 'Organised Store Management with SeaTable'
 description: 'Managing multiple stores is complex—SeaTable makes it easy. Keep track of employees, analyze sales by location, plan trainings, conduct store checks, and organize POS material orders seamlessly. Advanced dashboards and smart features boost retail efficiency and transparency.'
 date: 2021-10-21
 categories:
@@ -23,7 +23,7 @@ In addition, your sales team is also confronted with new challenges: There are m
 
 There are a lot of things to consider in store management. Our software solution helps you to keep track of employees and training. It shows you the sales in different sales clusters and with our statistics plugin it also provides the basis for various sales analyses. For your sales managers, SeaTable offers a simple web form that can be used to make store checks more organized.
 
-The timeline plug-in also displays all upcoming appointments. Last but not least, our Store Management Template also helps you to order and keep track of all POS materials in all branches. In the following, we will explain how exactly the template is structured and how you can use it.
+The timeline view also displays all upcoming appointments. Last but not least, our Store Management Template also helps you to order and keep track of all POS materials in all branches. In the following, we will explain how exactly the template is structured and how you can use it.
 
 [Click here to go directly to our template]({{< relref "templates/sales/store-management" >}})
 
@@ -37,7 +37,7 @@ An additional column for documents allows you to store employment contracts or r
 
 ## Organise further training for your employees
 
-Since employees are one of the most important resources for companies, it is in the interest of companies to promote these resources and thereby make them even more valuable. Accordingly, further training can be seen as a sustainable investment in the company. Because the new knowledge that your employees acquire not only benefits them, [but also the entire company](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Since employees are one of the most important resources for companies, it is in the interest of companies to promote these resources and thereby make them even more valuable. Accordingly, further training can be seen as a sustainable investment in the company. Because the new knowledge that your employees acquire not only benefits them, [but also the entire company](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Our third base "Trainings" provides you with an overview of the various needs of your employees and the associated training opportunities. You can enter all available trainings in the first column. Then enter the date on which the further training will take place. Another column shows the available places for this further training.
 

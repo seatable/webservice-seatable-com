@@ -27,7 +27,7 @@ To use a data query app in your base, you must first **add** it to your base.
 
 Once you have successfully created your data query app, you can select the **table** and **columns** that can be searched for certain **values** in the app settings. To do this, simply open the app in [edit mode]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) using the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-As the data query app is based on the Universal App Builder, the following setting options are identical to the **query pages in the Universal App**:
+As the data query app is based on the SeaTable App Builder, the following setting options are identical to the **query pages in the app**:
 
 ![Page settings of the data query app](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
@@ -63,7 +63,7 @@ After you have successfully shared your data query app, other users can start qu
 
 After users have clicked on **Query**, the data records found are immediately displayed in a table. The app users can only see the column values of a data record that you have **not hidden**. In addition, they cannot delete any **filters** you have **preset** to limit the number of searchable rows records.
 
-![Query pages in universal apps](images/Abfrageseiten-in-Universellen-Apps.png)
+![Query pages in apps](images/Abfrageseiten-in-Universellen-Apps.png)
 
 However, users can **sort** the queried results list themselves and **adjust** the **row height** to get a better overview.
 

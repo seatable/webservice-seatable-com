@@ -29,8 +29,6 @@ To quickly **several new rows** you can also use the key combination {{< key "Sh
 
 ![Add new row via shortcut](images/create-new-row-shortcut.gif)
 
-Furthermore, some **plugins** of SeaTable offer the option to add new entries. These include the [gallery]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) and the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
-
 ## Why you cannot create new rows
 
 You can't add a new row in a table and you don't see a plus icon? Then you probably do not have the appropriate **permissions** in base or View.

@@ -19,7 +19,7 @@ aliases:
 
 ## Desafios na gestão de dados sensíveis
 
-A DSIM foi confrontada com o desafio de gerir dados sensíveis de forma segura e acessível ao mesmo tempo. Era crucial encontrar uma ferramenta que não só oferecesse segurança e flexibilidade, mas também fosse fácil de utilizar. A [gestão digital]({{< relref "pages/industry-solutions/public-service" >}}) de informações sensíveis tinha de ser centralizada e estar em conformidade com a lei, sem perturbar os fluxos de trabalho das equipas.
+A DSIM foi confrontada com o desafio de gerir dados sensíveis de forma segura e acessível ao mesmo tempo. Era crucial encontrar uma ferramenta que não só oferecesse segurança e flexibilidade, mas também fosse fácil de utilizar. A [gestão digital]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) de informações sensíveis tinha de ser centralizada e estar em conformidade com a lei, sem perturbar os fluxos de trabalho das equipas.
 
 ## O caminho para a solução ideal - Porque é que o Conseil Départemental escolheu o SeaTable
 

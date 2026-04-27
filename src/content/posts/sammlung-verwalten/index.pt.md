@@ -53,7 +53,7 @@ Para gerenciar sua coleção, você tem várias opções. Existem aplicativos e 
 
 ### Evernote – o app de notas para registrar e gerenciar rapidamente suas coleções
 
-Uma opção para gerenciar coleções é o [Evernote](https://evernote.com/intl/de). Nele, você pode anotar observações e anexar imagens ou documentos, como comprovantes de compra dos itens. Também é possível usar tags para diferenciar várias coleções. Uma função de busca ajuda a encontrar itens nas notas. Você começa com uma versão gratuita. A versão Personal custa €6,99 por mês por usuário e a Professional €8,99.
+Uma opção para gerenciar coleções é o [Evernote](https://evernote.com/de-de). Nele, você pode anotar observações e anexar imagens ou documentos, como comprovantes de compra dos itens. Também é possível usar tags para diferenciar várias coleções. Uma função de busca ajuda a encontrar itens nas notas. Você começa com uma versão gratuita. A versão Personal custa €6,99 por mês por usuário e a Professional €8,99.
 
 ![Alguém usa o Evernote para gerenciar sua coleção.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
@@ -65,7 +65,7 @@ O software [Data Crow](https://www.datacrow.net/) é especialmente indicado para
 
 ### GCstar – software gratuito para coleções
 
-Outro software gratuito é o [GCstar](http://www.gcstar.org/). O programa oferece as mesmas funções que o Data Crow para registrar e gerenciar coleções. Também permite enriquecer sua coleção com informações da internet. Você pode salvar onde adquiriu o item e registrar se emprestou o objeto a alguém. Além de mídias, é possível inventariar outros objetos. Se você se interessa por soluções open source, pode testar Data Crow e GCstar e comparar suas interfaces.
+Outro software gratuito é o [GCstar](https://gitlab.com/GCstar/). O programa oferece as mesmas funções que o Data Crow para registrar e gerenciar coleções. Também permite enriquecer sua coleção com informações da internet. Você pode salvar onde adquiriu o item e registrar se emprestou o objeto a alguém. Além de mídias, é possível inventariar outros objetos. Se você se interessa por soluções open source, pode testar Data Crow e GCstar e comparar suas interfaces.
 
 ### Software de nicho para colecionadores
 

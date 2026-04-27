@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: "Création d'offres assistée par IA avec SeaTable"
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui accélèrent la création et la gestion de vos devis. Automatisez les tâches récurrentes, réduisez les erreurs et gagnez du temps pour les entretiens commerciaux, que vous utilisiez un modèle de devis pour petite entreprise ou des modèles de devis professionnels pour des transactions B2B complexes. Le modèle de rédaction de devis peut être combiné avec des flux de travail IA afin de générer automatiquement des devis qualifiés à partir des demandes.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui accélèrent la création et la gestion de vos devis. Automatisez les tâches récurrentes, réduisez les erreurs et gagnez du temps pour les entretiens commerciaux, que vous utilisiez un modèle de devis pour petite entreprise ou des modèles de devis professionnels pour des transactions B2B complexes. Le modèle de rédaction de devis peut être combiné avec des flux de travail IA afin de générer automatiquement des devis qualifiés à partir des demandes.'
       items:
       - headline: 'Modules de texte automatiques avec Classify'
         text: "Permettez la classification automatique des demandes de devis. La fonction d'intelligence artificielle « Classify » identifie les catégories de produits, les secteurs d'activité ou les régions et ajoute les modules de texte et les responsabilités appropriés."
@@ -177,7 +177,7 @@ sections:
       - q: "Puis-je utiliser gratuitement le modèle de rédaction d'offres de SeaTable ?"
         a: "Oui, vous pouvez utiliser gratuitement le modèle de rédaction d'offres. Il vous suffit de créer un compte SeaTable gratuit et d'ajouter le modèle d'offre à votre base pour créer directement des offres en ligne, même en tant que modèle d'offre pour les petites entreprises sans TVA. Le modèle de rédaction d'offres constitue ainsi une introduction idéale au processus d'offre numérique."
       - q: "SeaTable constitue-t-il une alternative au modèle de devis dans Excel ?"
-        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/excel-alternative" >}}) spécialement conçu pour les processus d offre collaboratifs. Contrairement à un modèle d offre Excel, plusieurs personnes peuvent travailler simultanément, laisser des commentaires et utiliser les fonctions d intelligence artificielle.'
+        a: 'Oui, SeaTable est une [alternative performante à Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) spécialement conçu pour les processus d offre collaboratifs. Contrairement à un modèle d offre Excel, plusieurs personnes peuvent travailler simultanément, laisser des commentaires et utiliser les fonctions d intelligence artificielle.'
       - q: "Puis-je importer mon modèle Excel existant dans SeaTable ?"
         a: "Oui, vous pouvez importer votre modèle d'offre Excel existant au format .xlsx, .xls ou CSV, puis ajuster la structure. Vous bénéficierez ensuite de liens, de formules, d'automatisations et de la création de fichiers PDF directement depuis SeaTable. Vous pouvez ainsi migrer progressivement votre modèle de rédaction d'offre existant vers un système moderne et collaboratif."
       - q: "Puis-je enregistrer directement les offres au format PDF et les envoyer par e-mail ?"

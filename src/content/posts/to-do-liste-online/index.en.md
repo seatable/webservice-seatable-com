@@ -20,7 +20,7 @@ Creating and managing an online to-do list with an app has many advantages. This
 
 ## What you need a to-do list for
 
-Both at home and in professional [project management]({{< relref "pages/industry-solutions/project-management" >}}), it is important to keep track of all upcoming tasks and work through them one by one. First of all, record your specific **tasks** in a to-do list. You then define any **subtasks** or overarching **categories**, determine **responsibilities** and set **deadlines**.
+Both at home and in professional [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), it is important to keep track of all upcoming tasks and work through them one by one. First of all, record your specific **tasks** in a to-do list. You then define any **subtasks** or overarching **categories**, determine **responsibilities** and set **deadlines**.
 
 You can use a **status** to indicate whether a to-do is being processed or has been completed. A pending status is also conceivable if you are waiting for a response or input. You should also **prioritize** your to-dos so that you always tackle the most important tasks first.
 
@@ -72,7 +72,7 @@ It can also be linked to your calendar, a voice assistant on your smartphone and
 
 ### Microsoft To Do: The versatile app for your to-do list
 
-With [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), you get both a daily planner and a tool for task and [shopping lists]({{< relref "posts/einkaufsliste" >}}). You can integrate tasks from Outlook and work on a list synchronously from all end devices.
+With [Microsoft To Do](https://to-do.office.com/tasks/de-de/), you get both a daily planner and a tool for task and [shopping lists]({{< relref "posts/einkaufsliste" >}}). You can integrate tasks from Outlook and work on a list synchronously from all end devices.
 
 You can sort the individual to-dos, set a deadline and tick them off. Reminders and recurring tasks are also possible. However, there are no advanced visualization options beyond the list mode, for which you will need the Planner.
 
@@ -100,7 +100,7 @@ The reminders can be clearly sorted in each list and divided into sections. Ther
 
 ## SeaTable: The all-rounder for all types of lists
 
-SeaTable is an online database that allows you to organize tasks, information, processes and ideas easily and clearly. You benefit from a classic list view or can use alternative display formats such as the [Kanban board]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), the [calendar]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) or a [Gantt chart]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+SeaTable is an online database that allows you to organize tasks, information, processes and ideas easily and clearly. You benefit from a classic list view or can use alternative display formats such as the [Kanban board]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), the [calendar]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) or a [Gantt chart]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Another interesting feature is that you can upload [files]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) and [images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) and attach them to tasks. You can also add as much information as you like, such as a date, a priority and subtasks in additional columns.
 

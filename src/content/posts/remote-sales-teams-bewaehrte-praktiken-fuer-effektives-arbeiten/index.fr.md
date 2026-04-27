@@ -19,7 +19,7 @@ seo:
 
 Les circonstances de l'année 2020 ont considérablement modifié la manière de travailler dans les entreprises. Selon une récente [enquête Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 travailleurs à distance sur 10 souhaitent conserver ce mode de travail dans une certaine mesure.
 
-Cependant, pour les commerciaux qui ne sont pas habitués à la vente à distance, cela peut s'avérer être un défi, car elle est très différente de la vente de personne à personne ou de la vente traditionnelle. Dans ce contexte, le travail à distance peut toutefois présenter de nombreux [avantages](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/), à condition d'être pratiqué correctement. Il peut améliorer le processus de vente, augmenter la productivité de votre équipe et remplir votre pipeline de vente sans que vous ayez à quitter votre bureau.
+Cependant, pour les commerciaux qui ne sont pas habitués à la vente à distance, cela peut s'avérer être un défi, car elle est très différente de la vente de personne à personne ou de la vente traditionnelle. Dans ce contexte, le travail à distance peut toutefois présenter de nombreux [avantages](https://myquickcloud.com/blog/benefits-of-remote-work/), à condition d'être pratiqué correctement. Il peut améliorer le processus de vente, augmenter la productivité de votre équipe et remplir votre pipeline de vente sans que vous ayez à quitter votre bureau.
 
 Dans cet article, nous vous montrons comment une équipe de vente à distance peut gérer et surveiller de manière optimale ses processus de marketing et de vente.
 
@@ -49,7 +49,7 @@ Les outils de gestion de projet permettent à vos collaborateurs de garder un œ
 
 Collaborer à travers différentes régions géographiques et fuseaux horaires n'est pas chose aisée. Google Workspace, Miro et Podio sont quelques-uns des meilleurs outils de collaboration pour les commerciaux.
 
-[SeaTable]({{< relref "/" >}}) est une autre application collaborative de premier ordre pour la gestion de l'information. Cette application sans code dispose de solutions pour le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les ventes et [la gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) qui aident les équipes de vente à distance à collecter, structurer et évaluer différents types d'informations.
+[SeaTable]({{< relref "/" >}}) est une autre application collaborative de premier ordre pour la gestion de l'information. Cette application sans code dispose de solutions pour le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), les ventes et [la gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) qui aident les équipes de vente à distance à collecter, structurer et évaluer différents types d'informations.
 
 ![SeaTable propose plusieurs solutions pour les équipes de vente à distance, qui les aident à collecter, structurer et analyser différents types d'informations](Ansicht_Offers.png)
 
@@ -67,7 +67,7 @@ Vous devriez également demander des rapports sur les objectifs de vente afin de
 
 ### Automatiser chaque fois que c'est possible
 
-Selon [des statistiques récentes sur les ventes](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), environ 71 % des commerciaux perdent la majeure partie de leur temps productif en saisies manuelles. L'automatisation de la force de vente et l'intelligence artificielle facilitent le travail des commerciaux.
+Selon des statistiques récentes sur les ventes, environ 71 % des commerciaux perdent la majeure partie de leur temps productif en saisies manuelles. L'automatisation de la force de vente et l'intelligence artificielle facilitent le travail des commerciaux.
 
 L'automatisation des processus de vente aide l'équipe de vente à distance à fournir de meilleures performances en restant dans le flux de travail et en économisant son temps et son énergie précieux. Les managers peuvent faire évoluer efficacement leur équipe de vente et décider où diriger les efforts pour obtenir des résultats optimaux.
 
@@ -95,7 +95,7 @@ cette fin, il est important de prendre des mesures préventives pour encourager 
 
 Les interactions sociales au sein des équipes distantes favorisent les compétences en communication, rendent les réunions plus productives et créent de bonnes relations d'équipe.
 
-Une bonne idée est également d'encourager vos collaborateurs à passer du temps ensemble en dehors du travail ou d'allouer un budget pour des activités de renforcement de l'esprit d'équipe. Les interactions qui ont lieu lors de ces activités peuvent améliorer les compétences en communication et aider à éviter [l'épuisement professionnel](https://breadnbeyond.com/articles/wfh-burnout/). En outre, vous pouvez rendre les réunions plus productives et créer de bonnes relations d'équipe.
+Une bonne idée est également d'encourager vos collaborateurs à passer du temps ensemble en dehors du travail ou d'allouer un budget pour des activités de renforcement de l'esprit d'équipe. Les interactions qui ont lieu lors de ces activités peuvent améliorer les compétences en communication et aider à éviter [l'épuisement professionnel](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). En outre, vous pouvez rendre les réunions plus productives et créer de bonnes relations d'équipe.
 
 ### Conclusion
 

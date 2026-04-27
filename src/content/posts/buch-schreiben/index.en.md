@@ -138,7 +138,7 @@ Campfire Pro is characterized by a simple design with **panels** that result in 
 
 ### SeaTable
 
-SeaTable's [writing schedule]({{< relref "templates/projects/writing-plan" >}}) is extremely handy for writers who want to develop a plot before writing a book. Since the program is **free**, it's great for planning book projects. In addition to the main table, where you can record the plot, SeaTable offers the possibility to further elaborate on **characters**, **places**, symbolic elements or **relationships** with other **tables**. These tables can be freely managed and supplemented, while you can group and sort the content as you wish. The Timeline plugin also allows you to visualize the action on a **timeline**. An added bonus is the page design plugin, which allows you to create custom **profiles** for each character.
+SeaTable's [writing schedule]({{< relref "templates/projects/writing-plan" >}}) is extremely handy for writers who want to develop a plot before writing a book. Since the program is **free**, it's great for planning book projects. In addition to the main table, where you can record the plot, SeaTable offers the possibility to further elaborate on **characters**, **places**, symbolic elements or **relationships** with other **tables**. These tables can be freely managed and supplemented, while you can group and sort the content as you wish. The timeline view also allows you to visualize the action on a **timeline**. An added bonus is the page design plugin, which allows you to create custom **profiles** for each character.
 
 **Ease of use:** very high  
 **Features:** high  

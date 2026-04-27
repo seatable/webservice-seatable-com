@@ -76,7 +76,6 @@ Para obtener más información sobre el bloqueo de filas, consulte el artículo 
 - [Detener automatizaciones]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Borrar automatizaciones]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Visualizar el registro de ejecución de una automatización]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [¿Por qué no encuentro automatizaciones en mi base?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Activador de automatización]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Acciones de automatización]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Vinculación de entradas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})

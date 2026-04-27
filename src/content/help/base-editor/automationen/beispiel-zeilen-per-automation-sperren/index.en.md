@@ -76,7 +76,6 @@ For more information on blocking rows , see the article [Blocking a row.]({{< re
 - [Stop automations]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Delete automations]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Show execution log of an automation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [Why can't I find automations in my base?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Automation trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Automation actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Linking entries via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})

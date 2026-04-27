@@ -155,6 +155,8 @@ price_table:
     advanced_sharing: 'Erweiterte Freigaben'
     advanced_customization: 'Erweitertes Customizing'
     automations: 'Automationen'
+    automations_per_user: 'Automationen pro Benutzer'
+    unlimited_automations: 'Unlimitierte Automationen'
     big_data_storage: 'Big-Data-Speicher'
     bank_transfer_payment: 'Zahlung per Überweisung'
     unlimited_api_calls: 'Unlimitierte API-Aufrufe'
@@ -170,6 +172,7 @@ price_table:
     monthly_billing: 'Monatliche Abrechnung'
     min_100_users: 'Mindestens 100 Benutzer'
     team_saml: Single Sign-On per SAML
+    ai_credits: 'KI-Credits'
     ai_credits_per_user: KI-Credits pro Benutzer
 
     year: Jahr

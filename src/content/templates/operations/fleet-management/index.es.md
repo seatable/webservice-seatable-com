@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'Gestión de flotas asistida por IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán la gestión de su flota a un nuevo nivel. Automatice las tareas recurrentes del día a día de la flota, reduzca el trabajo manual rutinario y gane tiempo para realizar evaluaciones, optimizaciones y tomar decisiones estratégicas en la gestión de la flota.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán la gestión de su flota a un nuevo nivel. Automatice las tareas recurrentes del día a día de la flota, reduzca el trabajo manual rutinario y gane tiempo para realizar evaluaciones, optimizaciones y tomar decisiones estratégicas en la gestión de la flota.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Con Classify, puede clasificar automáticamente los nuevos vehículos o las solicitudes de reserva por tipo, área de uso o ubicación. De este modo, los registros se asignan directamente a la categoría correcta y puede ver de inmediato qué partes de su flota se utilizan con mayor frecuencia.'
@@ -163,7 +163,7 @@ sections:
       box-position: [right!]
       items:
       - headline: Alternativa a Excel
-        text: 'Con SeaTable, puede gestionar su flota de vehículos de forma más eficiente que con Excel, gracias a las tablas vinculadas, las vistas y las automatizaciones. Una potente [alternativa a Excel]({{< relref "pages/excel-alternative" >}}).'
+        text: 'Con SeaTable, puede gestionar su flota de vehículos de forma más eficiente que con Excel, gracias a las tablas vinculadas, las vistas y las automatizaciones. Una potente [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
       - headline: Libro de ruta digital 
         text: 'Utilice SeaTable para crear un [libro de ruta digital]({{< relref "posts/fahrtenbuch" >}}) y vincular los viajes directamente con la gestión de su flota, lo que le permitirá controlar el uso y los costes.'
       - headline: Conforme al RGPD

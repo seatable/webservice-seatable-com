@@ -41,7 +41,7 @@ sections:
           - bg-gray-200
       title: Informações sobre o evento
       subtitle: 7 e 8 de outubro de 2024
-      description: A universidade é facilmente acessível a pé ou por transporte público tanto da estação central de Mainz quanto do centro da cidade.<br><br>Mais informações sobre como chegar podem ser encontradas na [página da Universidade de Mainz](https://startseite.uni-mainz.de/anreise).<br><br>Se vier de carro, você pode estacionar gratuitamente no campus nos dois dias. A Universidade de Mainz permite que visitantes estacionem gratuitamente por até 30 horas por ano. A cancela abre automaticamente. Mais informações em [Estacionamento na Universidade de Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
+      description: A universidade é facilmente acessível a pé ou por transporte público tanto da estação central de Mainz quanto do centro da cidade.<br><br>Mais informações sobre como chegar podem ser encontradas na [página da Universidade de Mainz](https://www.uni-mainz.de/en/campus-map/#by-public-transport).<br><br>Se vier de carro, você pode estacionar gratuitamente no campus nos dois dias. A Universidade de Mainz permite que visitantes estacionem gratuitamente por até 30 horas por ano. A cancela abre automaticamente. Mais informações em [Estacionamento na Universidade de Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
       box-position: [right!, left]
       items:
           - headline: Local

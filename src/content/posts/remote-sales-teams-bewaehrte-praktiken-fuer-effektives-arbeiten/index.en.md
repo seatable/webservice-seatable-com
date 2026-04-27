@@ -20,7 +20,7 @@ seo:
 
 Circumstances in 2020 have significantly changed the way work is done in organizations. According to a recent [Gallup poll](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 out of 10 remote workers want to maintain this way of working to some extent.
 
-However, for salespeople who are not used to remote selling, this can prove challenging, as it is very different from person-to-person or traditional selling. However, remote working can bring many [benefits](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/) in the process, provided it is practiced correctly. It can improve the sales process, increase your team's productivity, and fill your sales pipeline without having to leave your desk.
+However, for salespeople who are not used to remote selling, this can prove challenging, as it is very different from person-to-person or traditional selling. However, remote working can bring many [benefits](https://myquickcloud.com/blog/benefits-of-remote-work/) in the process, provided it is practiced correctly. It can improve the sales process, increase your team's productivity, and fill your sales pipeline without having to leave your desk.
 
 In this article, we will show you how a remote sales team can optimally manage and monitor its marketing and sales processes.
 
@@ -50,7 +50,7 @@ Project management tools enable your employees to keep track of projects and sta
 
 Collaborating across different geographic regions and time zones is not easy. Google Workspace, Miro, and Podio are some of the best collaboration tools for sales reps.
 
-[SeaTable]({{< relref "/" >}}) is another best-in-class collaborative information management application. The no-code application has solutions for [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}) that help remote sales teams capture, structure and evaluate different types of information.
+[SeaTable]({{< relref "/" >}}) is another best-in-class collaborative information management application. The no-code application has solutions for [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) that help remote sales teams capture, structure and evaluate different types of information.
 
 ![SeaTable offers several solutions for remote sales teams that assist in collecting, structuring and analyzing different types of information](Ansicht_Offers.png)
 
@@ -68,7 +68,7 @@ They should also look for sales goal reports to see if salespeople are meeting t
 
 ### Automate wherever possible
 
-According to [recent sales statistics](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), about 71% of salespeople waste most of their productive time on manual entries. Sales automation and artificial intelligence are making salespeople's jobs easier.
+According to recent sales statistics, about 71% of salespeople waste most of their productive time on manual entries. Sales automation and artificial intelligence are making salespeople's jobs easier.
 
 Sales process automation helps the remote sales team perform better by keeping them in the workflow and saving their valuable time and energy. Managers can effectively scale their sales team and decide where to direct effort for optimal results.
 
@@ -96,7 +96,7 @@ To this end, it is important to take preventive measures to encourage workers an
 
 Social interactions in remote teams enhance communication skills, make meetings more productive, and create good team relationships.
 
-Also, a good idea is to encourage your employees to spend time together outside of work, or set aside a budget for team-building activities. The interactions that take place during these activities can improve communication skills and help [prevent burnout](https://breadnbeyond.com/articles/wfh-burnout/). In addition, you can make meetings more productive and create good team relationships.
+Also, a good idea is to encourage your employees to spend time together outside of work, or set aside a budget for team-building activities. The interactions that take place during these activities can improve communication skills and help [prevent burnout](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). In addition, you can make meetings more productive and create good team relationships.
 
 ### Conclusion
 

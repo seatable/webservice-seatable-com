@@ -14,21 +14,23 @@ seo:
 weight: 27
 ---
 
-Puede utilizar la **herramienta de formato de línea para** establecer marcas de color al **principio de las líneas**. El **marcado** por colores **de las filas** sirve para identificar rápidamente determinados registros de datos. Esto no debe confundirse con [colorear celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), que permite resaltar celdas individuales.
+El **marcado por colores de las filas** sirve para identificar rápidamente determinados registros de datos. Esto no debe confundirse con [colorear celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), que permite resaltar celdas individuales.
 
-## La herramienta de formato de línea
+## La herramienta de colores de fila
 
 En las opciones de vista sobre una tabla encontrará el siguiente símbolo:
 
 ![Herramienta de marcado de colores](images/Farbliche-Markierung-von-Zellen-1.png)
 
-Tras hacer clic en la herramienta de formato de línea, puede elegir entre **tres opciones** para la marca de color:
+Tras hacer clic en la herramienta de colores de fila, puede elegir entre **tres opciones** para la marca de color:
 
 - Utilizar una columna de selección única
 - Normas de uso
 - Resaltar los duplicados
 
 ![Marcación por colores de las celdas](images/Farbliche-Markierung-von-Zellen-2.png)
+
+La herramienta de colores de fila está disponible no solo en las vistas de tabla, sino también en las [vistas de calendario]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) y de [línea de tiempo]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}). Sin embargo, en estas últimas solo puede utilizar columnas de selección única para definir el color de las filas.
 
 ## Utilizar una columna de selección única
 

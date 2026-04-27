@@ -6,6 +6,11 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/es/ayuda/la-vista-de-galeria'
+aliases:
+    - '/es/ayuda/guia-plugin-galeria-seatable'
+    - '/es/ayuda/anleitung-zum-galerie-plugin'
+    - '/es/ayuda/anadir-nueva-fila-plugin-galeria'
+    - '/es/ayuda/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 seo:
     title: 'Vista de galería: Mostrar imágenes claramente en SeaTable'
     description: 'Con la vista de galería se obtiene una visión general de todos los registros de datos que contienen imágenes'

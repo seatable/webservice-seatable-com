@@ -1,5 +1,5 @@
 ---
-title: 'Alterar as definições globais de uma aplicação universal'
+title: 'Alterar as definições globais de uma aplicação'
 date: 2023-05-03
 lastmod: '2025-07-03'
 categories:
@@ -9,13 +9,13 @@ url: '/pt/ajuda/alterar-configuracoes-globais-app-universal'
 aliases:
     - '/pt/ajuda/einstellungen-einer-universellen-app-aendern'
 seo:
-    title: 'Alterar configurações globais em um App Universal'
-    description: 'Veja como ajustar facilmente as configurações globais, URLs e permissões em um App Universal no SeaTable.'
+    title: 'Alterar configurações globais em uma aplicação'
+    description: 'Veja como ajustar facilmente as configurações globais, URLs e permissões em uma aplicação no SeaTable.'
 ---
 
-Numa **aplicação universal**, pode fazer várias **definições globais** que afectam a configuração e o aspeto de toda a aplicação com apenas alguns cliques.
+Numa **aplicação**, pode fazer várias **definições globais** que afectam a configuração e o aspeto de toda a aplicação com apenas alguns cliques.
 
-## Alterar as definições de uma aplicação universal
+## Alterar as definições de uma aplicação
 
 1. Abra uma **base** na qual pretende editar uma aplicação existente.
 2. Clique em **Apps** no cabeçalho Base.
@@ -24,19 +24,19 @@ Numa **aplicação universal**, pode fazer várias **definições globais** que 
 ![Editar aplicações](images/Apps-bearbeiten.png)
 4. Clique no **símbolo da roda dentada** no canto superior esquerdo da página.
 ![Ícone de roda dentada para as definições da aplicação](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
-5. Efectuar os ajustes desejados nas **definições** da aplicação universal.
+5. Efectuar os ajustes desejados nas **definições** da aplicação.
 
 {{< warning  headline="Autorização necessária no grupo"  text="Para poder editar uma aplicação, tem de ser o **proprietário** ou **administrador do grupo** em que a **base** subjacente se encontra. **Os membros** simples **do grupo** só podem ver e utilizar as aplicações." />}}
 
-## Editar o nome da aplicação universal
+## Editar o nome da aplicação
 
-Na primeira secção das definições da aplicação, pode personalizar o **nome da** aplicação universal e guardá-lo clicando em **Submeter**.
+Na primeira secção das definições da aplicação, pode personalizar o **nome da** aplicação e guardá-lo clicando em **Submeter**.
 
 ![Alterar o nome da aplicação](images/Change-app-name.png)
 
 ## URL definido pelo utilizador
 
-Na segunda secção, pode personalizar parte do **URL** com o qual pode chamar e ligar à sua aplicação universal. Basta introduzir o URL pretendido no **campo de texto** e ter em atenção os **requisitos** abaixo indicados ao introduzi-lo. Em seguida, pode **guardar** e **copiar** o URL introduzido.
+Na segunda secção, pode personalizar parte do **URL** com o qual pode chamar e ligar à sua aplicação. Basta introduzir o URL pretendido no **campo de texto** e ter em atenção os **requisitos** abaixo indicados ao introduzi-lo. Em seguida, pode **guardar** e **copiar** o URL introduzido.
 
 ![Editar URL personalizado](images/Edit-custom-URL.png)
 
@@ -70,7 +70,7 @@ Esta secção só é relevante se tiver ativado o [armazenamento de grandes volu
 
 ## Acesso sem restrições
 
-Na última secção, pode definir **o acesso aberto** para a sua aplicação universal. Pode permitir que **os utilizadores não registados** acedam publicamente àsua aplicação, para que qualquer pessoa que aceda à ligação possa ver (mas não alterar) os dados.
+Na última secção, pode definir **o acesso aberto** para a sua aplicação. Pode permitir que **os utilizadores não registados** acedam publicamente àsua aplicação, para que qualquer pessoa que aceda à ligação possa ver (mas não alterar) os dados.
 
 ![Acesso aberto a uma aplicação](images/Open-access-to-an-app.png)
 
@@ -80,6 +80,6 @@ No entanto, também pode ativar que **cada utilizador com sessão iniciada que u
 
 ## Editar definições de páginas individuais
 
-As definições mencionadas até agora afectam **toda** uma aplicação universal. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
+As definições mencionadas até agora afectam **toda** uma aplicação. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
 
 ![Abrir as definições da página](images/page-permissions-universal-app.png)

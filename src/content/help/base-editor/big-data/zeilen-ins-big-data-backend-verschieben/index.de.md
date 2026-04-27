@@ -14,7 +14,7 @@ seo:
 
 {{< required-version "Enterprise" >}}
 
-**Neue Zeilen** können Sie immer nur in **normalen Ansichten** von SeaTable anlegen. Anschließend müssen Sie die gewünschten Zeilen manuell in den Big-Data-Speicher verschieben.
+**Neue Zeilen** können Sie **nur in normalen Ansichten** von SeaTable anlegen. Anschließend können Sie die Zeilen der Ansicht **manuell oder automatisch** in den Big-Data-Speicher verschieben.
 
 {{< warning  headline="Voraussetzung" >}}
 
@@ -22,7 +22,7 @@ Sie können nur dann Zeilen in den Big-Data-Speicher verschieben, wenn Sie inner
 
 {{< /warning >}}
 
-## Zeilen in den Big-Data-Speicher verschieben
+## Zeilen manuell in den Big-Data-Speicher verschieben
 
 ![Zeilen in den Big-Data-Speicher verschieben](images/move-rows-to-big-data.gif)
 
@@ -38,9 +38,15 @@ Wenn Sie beispielsweise **alte Einträge archivieren** möchten, können Sie die
 
 Die Zeilen werden anschließend in den Big-Data-Speicher transferiert. Dadurch sind sie nicht mehr in der normalen Ansicht sichtbar. [Erstellen Sie eine Big-Data-Ansicht]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}), um Daten im Big-Data-Speicher anzeigen zu lassen.
 
+## Automatisierte Archivierung
+
+Außerdem können Sie eine **Automatisierungsregel mit der Aktion "Archivieren"** anlegen, sodass SeaTable die Zeilen in einer Ansicht zu einer bestimmten Zeit von selbst in den Big-Data-Speicher verschiebt.
+
+Mehr dazu erfahren Sie unter [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
+
 ## Woran erkennt man, ob Daten im Big-Data-Speicher liegen oder nicht?
 
-Zeilen, die im Big-Data-Speicher gespeichert sind, haben ein kleines **graues Dreieck in der Nummerierungsspalte** .
+Zeilen, die im Big-Data-Speicher gespeichert sind, haben ein kleines **graues Dreieck in der Nummerierungsspalte**.
 
 **Gut zu wissen:**
 

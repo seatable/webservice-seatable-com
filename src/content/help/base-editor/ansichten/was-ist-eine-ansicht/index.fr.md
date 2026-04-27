@@ -31,13 +31,15 @@ Vous pouvez également choisir des modes d'affichage spécifiques pour visualise
 - Vue Kanban
 - Vue de calendrier
 - Vue de galerie
+- Vue de ligne de temps
+- Vue arborescente
 - Vue de Big Data
 
 Il est important de comprendre qu'une vue n'est qu'une façon différente de **considérer les mêmes données sous-jacentes** ! Cela signifie que si vous modifiez les données d'une table dans une vue, ces données changent dans toutes les vues de la table, car toutes les vues représentent le même ensemble de données.
 
 {{< warning type="warning" headline="Conseil" >}}
 
-Vous pouvez utiliser d'autres formes de représentation comme un organigramme, une arborescence ou une carte géographique sous la forme de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
+Vous pouvez utiliser d'autres formes de représentation comme un organigramme ou une carte géographique sous la forme de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 {{< /warning >}}
 
@@ -72,6 +74,22 @@ Si vous avez une table avec une **colonne d'images**, vous pouvez créer une vue
 ![La vue galerie](images/gallery-view.jpg)
 
 Pour en savoir plus, consultez l'article sur la [vue de galerie]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}).
+
+## La vue de ligne de temps
+
+Si vous avez une table avec **deux colonnes de dates**, vous pouvez créer une vue chronologique qui visualise différentes périodes sur une **ligne de temps**. Elle est particulièrement adaptée pour représenter la séquence de processus ou vérifier si des périodes **se chevauchent** – par exemple pour la planification des congés, les plans de projet ou la réservation de salles.
+
+![La vue chronologique](images/timeline-view.jpg)
+
+Pour en savoir plus, consultez l'article sur la [vue chronologique]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
+
+## La vue arborescente
+
+Si vous avez une base avec **au moins deux tables liées**, vous pouvez créer une vue arborescente pour afficher les enregistrements liés de manière **hiérarchique**. Elle est particulièrement adaptée pour visualiser des structures complexes telles que des portefeuilles de projets ou des hiérarchies organisationnelles – avec jusqu'à trois niveaux dans le diagramme arborescent.
+
+![La vue arborescente](images/tree-view.jpg)
+
+Pour en savoir plus, consultez l'article sur la [vue arborescente]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}).
 
 ## La vue de Big Data
 

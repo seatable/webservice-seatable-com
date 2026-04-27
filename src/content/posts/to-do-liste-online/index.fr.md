@@ -19,7 +19,7 @@ Créer et gérer une liste de choses à faire utilisable en ligne avec une appli
 
 ## Pourquoi une liste de choses à faire ?
 
-À la maison comme dans la [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
+À la maison comme dans la [gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
 
 Un **statut** vous permet d'indiquer si une tâche est en cours ou terminée. Un statut en suspens est également envisageable, lorsque vous attendez une réponse ou une contribution. En outre, vous devriez classer vos tâches par ordre de **priorité** afin de toujours traiter les plus importantes en premier.
 
@@ -71,7 +71,7 @@ Un lien avec votre calendrier, un assistant vocal sur votre smartphone et d'autr
 
 ### Microsoft To Do : l'application polyvalente pour votre liste de choses à faire
 
-Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes]({{< relref "posts/einkaufsliste" >}}) de tâches et [d'achats]({{< relref "posts/einkaufsliste" >}}). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
+Avec [Microsoft To Do](https://to-do.office.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes]({{< relref "posts/einkaufsliste" >}}) de tâches et [d'achats]({{< relref "posts/einkaufsliste" >}}). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
 
 Il est possible de trier les différentes tâches à faire, de leur attribuer un délai et de les cocher. Des rappels et des tâches répétitives sont également possibles. Au-delà du mode liste, il n'y a cependant pas d'options avancées pour la visualisation, vous avez alors besoin du Planner.
 
@@ -99,7 +99,7 @@ Les rappels peuvent être triés de manière claire dans chaque liste et divisé
 
 ## SeaTable : l'outil polyvalent pour tous les types de listes
 
-SeaTable est une base de données en ligne qui vous permet d'organiser facilement et clairement les tâches, les informations, les processus et les idées. Vous profitez d'une vue classique sous forme de liste ou pouvez utiliser des formes de représentation alternatives comme le [tableau Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), le [calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ou un [diagramme de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+SeaTable est une base de données en ligne qui vous permet d'organiser facilement et clairement les tâches, les informations, les processus et les idées. Vous profitez d'une vue classique sous forme de liste ou pouvez utiliser des formes de représentation alternatives comme le [tableau Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), le [calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) ou un [diagramme de Gantt]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Il est également intéressant de noter que vous pouvez télécharger [des fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) et [des images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) et les joindre aux tâches. De même, vous pouvez ajouter autant d'informations que vous le souhaitez, comme une date, une priorité et des sous-tâches dans d'autres colonnes.
 

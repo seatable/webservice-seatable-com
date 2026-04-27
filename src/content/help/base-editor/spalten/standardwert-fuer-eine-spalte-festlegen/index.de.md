@@ -75,7 +75,7 @@ Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 - in einer [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - per [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
-- im [Kalender-]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
+- in der [Kalender-, Kanban-, Galerie- und Baum-Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - auf [Tabellen-]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [Formular-]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) und [Kanbanseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) von Apps
 
@@ -91,4 +91,4 @@ Zusätzlich zu den in der Tabelle definierten Standardwerten haben Sie bei [Webf
 
 ## Standardwerte in Apps
 
-Die in der Base definierten Standardwerte wirken sich auch auf Zeilen aus, die auf **Tabellen-, Formular- und Kanban-Seiten** von [Universellen Apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) erfasst werden. Der einzige [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), für den Sie in der App trotzdem Standardwerte setzen können, ist die [Formularseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Die Einstellungen funktionieren genauso wie bei Webformularen: Aktivieren Sie dazu die Regler, wie auf dem obigen Screenshot zu sehen ist.
+Die in der Base definierten Standardwerte wirken sich auch auf Zeilen aus, die auf **Tabellen-, Formular- und Kanban-Seiten** von [Apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) erfasst werden. Der einzige [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), für den Sie in der App trotzdem Standardwerte setzen können, ist die [Formularseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Die Einstellungen funktionieren genauso wie bei Webformularen: Aktivieren Sie dazu die Regler, wie auf dem obigen Screenshot zu sehen ist.

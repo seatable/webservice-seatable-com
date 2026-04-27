@@ -29,8 +29,8 @@ O armazenamento de grandes volumes de dados oferece-lhe um **armazenamento** amp
 - [As operações de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) **não** estão disponíveis para grandes volumes de dados. A única exceção é [comparar e juntar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Esta operação pode ligar entradas na memória de grandes volumes de dados com linhas em qualquer outra tabela, independentemente de as linhas estarem armazenadas na base ou na memória de grandes volumes de dados.
 - A função de [pesquisa e substituição]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) **não** está disponível.
 
-{{< warning  headline="Muitas destas limitações dos grandes volumes de dados não se aplicam à aplicação universal" >}}
+{{< warning  headline="Muitas destas limitações dos grandes volumes de dados não se aplicam à aplicação" >}}
 
-A maioria dos utilizadores de armazenamento de grandes volumes de dados não sente que o seu trabalho seja afetado por estas restrições. No entanto, se for afetado, pode dar uma vista de olhos à [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Algumas das restrições mencionadas não se aplicam aí.
+A maioria dos utilizadores de armazenamento de grandes volumes de dados não sente que o seu trabalho seja afetado por estas restrições. No entanto, se for afetado, pode dar uma vista de olhos à [aplicação]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Algumas das restrições mencionadas não se aplicam aí.
 
 {{< /warning >}}

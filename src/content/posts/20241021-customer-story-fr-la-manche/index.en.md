@@ -20,7 +20,7 @@ aliases:
 
 ## Challenges in the management of sensitive data
 
-DSIM was faced with the challenge of managing sensitive data securely and accessibly at the same time. It was crucial to find a tool that not only offered security and flexibility, but was also easy to use. The [digital management]({{< relref "pages/industry-solutions/public-service" >}}) of sensitive information had to be centralized and legally compliant without disrupting the teams' workflows.
+DSIM was faced with the challenge of managing sensitive data securely and accessibly at the same time. It was crucial to find a tool that not only offered security and flexibility, but was also easy to use. The [digital management]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) of sensitive information had to be centralized and legally compliant without disrupting the teams' workflows.
 
 ## The path to the optimal solution - Why the Conseil Départemental chose SeaTable
 

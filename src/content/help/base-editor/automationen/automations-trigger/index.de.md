@@ -12,8 +12,6 @@ seo:
 weight: 5
 ---
 
-{{< required-version "Enterprise" >}}
-
 **Trigger-Ereignisse** stellen eine der beiden wesentlichen Komponenten von Automationen dar. Die Ereignisse lösen dabei verschiedene Arten von [Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) aus, die Sie für jede Automation individuell festlegen können. Dieser Artikel bietet Ihnen einen **Überblick** über die verschiedenen Arten von Auslösern.
 
 ## Verfügbare Automations-Trigger

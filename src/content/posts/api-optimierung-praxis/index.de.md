@@ -61,5 +61,5 @@ Mit der Einführung von Team Limits wird es wichtiger denn je, Zeit in sauberen 
 Team Limits sind kein Hindernis, sondern ein Anstoß für bessere Lösungen. Wer die SeaTable-API clever nutzt, spart nicht nur Ressourcen, sondern sorgt auch für robustere und leistungsfähigere Anwendungen. Effizienter Code ist und bleibt der Schlüssel – egal, wie die Limits gesetzt sind.
 
 {{< warning headline="Deshalb mein Tipp" >}}
-Sieh die Limits nicht als Einschränkung, sondern als Chance zur Optimierung. Optimiere deine API-Nutzung konsequent und profitiere von schnelleren, zuverlässigeren und zukunftssicheren [Workflows]({{< relref "pages/industry-solutions/individual" >}})!
+Sieh die Limits nicht als Einschränkung, sondern als Chance zur Optimierung. Optimiere deine API-Nutzung konsequent und profitiere von schnelleren, zuverlässigeren und zukunftssicheren [Workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}})!
 {{< /warning >}}

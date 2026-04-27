@@ -1,5 +1,5 @@
 ---
-title: 'The perfect wedding planning with SeaTable - SeaTable'
+title: 'The perfect wedding planning with SeaTable'
 description: 'A wedding is one of the most important days in life, and flawless planning is key. SeaTable offers smart tools: a 200+ task checklist, vendor comparison views, guest and seating lists, budget management and space for inspirations. Stay organized, save time and focus on what really matters—your special day.'
 date: 2021-07-22
 lastmod: '2023-07-11'

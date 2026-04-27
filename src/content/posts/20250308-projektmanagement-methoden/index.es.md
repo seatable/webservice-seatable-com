@@ -38,7 +38,7 @@ Además de los métodos clásicos y ágiles, también existen métodos híbridos
 
 ### Cómo encontrar el método adecuado para la gestión de proyectos
 
-Qué método de [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) es el más adecuado para su proyecto depende de la complejidad del mismo, de sus recursos disponibles, del plazo y de la flexibilidad ante cambios y riesgos.
+Qué método de [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) es el más adecuado para su proyecto depende de la complejidad del mismo, de sus recursos disponibles, del plazo y de la flexibilidad ante cambios y riesgos.
 
 Hágase las siguientes preguntas:
 

@@ -13,7 +13,7 @@ En esta guía, conectará Claude Code con su base de SeaTable. Una vez configura
 ## Requisitos previos
 
 - Una cuenta de SeaTable Cloud con al menos una base
-- Claude Code (instalable mediante `npm install -g @anthropic-ai/claude-code`, detalles en [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code/overview))
+- Claude Code (instalable mediante `npm install -g @anthropic-ai/claude-code`, detalles en [docs.anthropic.com](https://code.claude.com/docs/en/overview))
 - Una cuenta de Anthropic (necesaria para usar Claude)
 
 ## Paso 1: Crear un token API en SeaTable

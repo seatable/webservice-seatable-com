@@ -42,9 +42,9 @@ Un caso de uso concreto de esta operación de tratamiento de datos podría darse
 
 Aquí desea **que** se cree un enlace entre estas tablas cuando el importe de la factura en una tabla coincida con el importe de la transferencia en la otra tabla. Con la vinculación puede vincular fácilmente los registros relacionados de forma que las facturas se asignen a las transferencias y las transferencias se asignen a las facturas.
 
-Para la implementación, primero necesita dos tablas: una tabla en la que se registren los números de factura (**Invoice\*\***Nr**) y los importes, y una tabla con los números de transacción**(Transaction Nr**) y los importes**(Amount\*\*).
+Para la implementación, primero necesita dos tablas: una tabla en la que se registren los números de factura (**Invoice Nr**) y los importes, y una tabla con los números de transacción (**Transaction Nr**) y los importes (**Amount**).
 
-![Ejemplo de facturas de mesa](images/table-invoices.png)
+![Ejemplo de facturas de tabla](images/table-invoices.png)
 
 ![Ejemplo de transacciones de tablas](images/table-transactions.png)
 

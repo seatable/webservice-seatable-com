@@ -1,17 +1,20 @@
 ---
-title: 'Seiten vom Typ Einzelner Datensatz in Universellen Apps'
+title: 'Seiten vom Typ Einzelner Datensatz in SeaTable Apps'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+url: '/de/hilfe/seiten-vom-typ-einzelner-datensatz-in-seatable-apps'
+aliases:
+    - '/de/hilfe/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 seo:
-    title: 'Einzelner Datensatz in Universellen Apps – Übersicht'
+    title: 'Einzelner Datensatz in SeaTable Apps – Übersicht'
     description: 'Gestalten Sie detailreiche Einzelseiten für Datensätze in SeaTable: statische Elemente, Filter, Rechte, Anzeige- und Bearbeitungsoptionen.'
+weight: 11
 ---
 
-Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
+Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um **die in einer Zeile gespeicherten Daten** optisch aufzubereiten.
 
 Die Nutzer der App können auf dieser Seite – mit der jeweiligen Berechtigung – die einzelnen Datensätze sehen, suchen und durchblättern oder sogar bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
 
@@ -27,7 +30,7 @@ In den **Seiteneinstellungen** können Sie die **Tabelle** auswählen, in der di
 
 ### Statische Elemente
 
-Ähnlich wie auf [individuellen Seiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) können Sie auch auf Seiten des Typs Einzelner Datensatz **statische Elemente** hinzufügen, die zur Gestaltung der Seite dienen und über alle Datensätze hinweg gleich bleiben. Diese Elemente sind:
+Ähnlich wie auf [Dashboard-Seiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) können Sie auch auf Seiten des Typs Einzelner Datensatz **statische Elemente** hinzufügen, die zur Gestaltung der Seite dienen und über alle Datensätze hinweg gleich bleiben. Diese Elemente sind:
 
 - Text
 - Formatierter Text
@@ -48,7 +51,7 @@ Ebenso wie die statischen Elemente verfügt auch jedes Tabellenfeld über eigene
 
 Außerdem können Sie für jedes Tabellenfeld eine **Hintergrundfarbe** und einen **Rahmen** festlegen.
 
-![Element settings of a table field on Single Record Pages in the Universal App](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
+![Element settings of a table field on Single Record Pages](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
 
 Bei allen text- und zahlenbasierten Spaltentypen haben Sie auch die Möglichkeit, die **Schriftgröße, Schriftstärke, Schriftfarbe und Ausrichtung der angezeigten Werte** einzustellen.
 
@@ -71,7 +74,7 @@ Wenn Sie ein bestehendes Element auf Ihrer Seite kopieren, verschieben oder lös
 
 Darüber hinaus können Sie voreingestellte Filter und Sortierungen definieren, um die anzeigbaren Datensätze für die Nutzer einzugrenzen und zu ordnen. Zum Filtern oder Sortieren klicken Sie auf **Filter hinzufügen** oder **Sortierung hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen mit **Abschicken**.
 
-![Add filters on Single Record pages in Universal Apps](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
+![Add filters on Single Record pages](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
 
 Die Nutzer können nur die Informationen zu einem einzelnen Datensatz sehen, die Sie über die eingebundenen Tabellenfelder anzeigen lassen.
 
@@ -113,6 +116,20 @@ In der Toolbar finden Sie außerdem einen **QR-Code-Generator**. Der QR-Code ent
 ## Schaltflächen-Aktionen ausführen
 
 Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) nutzen. Ob Sie ein PDF-Dokument erstellen, einen Datensatz bearbeiten oder ein Skript ausführen möchten – all diese **Schaltflächen-Aktionen** können Sie per Knopfdruck starten. Eine Bearbeitungsberechtigung ist dafür **nicht** notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen beschränken.
+
+## Einstellungen der Verknüpfungsspalte
+
+In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sichtbar und welche Operationen erlaubt sind.
+
+![Link column settings on single record pages](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Feldeinstellungen**: Hier können Sie genau definieren, für welche Spalten die folgenden Berechtigungen gelten.
+- **Hinzufügen neuer Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** und welche Spalten **erforderlich** sind, also ausgefüllt werden müssen.
+- **Verknüpfen bestehender Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle verlinken. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
+- **Verknüpfungen auf maximal eine Zeile begrenzen**: Wenn Sie diesen Regler aktivieren, können Nutzer in den Zellen der Verknüpfungsspalte nur noch jeweils eine Zeile der verknüpften Tabelle verlinken.
+- **Voreingestellte Filter**: Wenn Sie hier einen Filter hinzufügen, werden beim Verlinken von Einträgen nur Optionen angezeigt, die die Filterbedingungen erfüllen.
+- **Big-Data-Funktion aktivieren**: Wenn die Big-Data-Funktion aktiviert ist, können Nutzer mehr als 20.000 Datensätze durchsuchen, sofern in der verknüpften Tabelle so viele Einträge vorhanden sind.
+- **Verknüpfte Einträge bearbeiten**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle bearbeiten. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **bearbeitbar** sind.
 
 ## Seitenberechtigungen
 

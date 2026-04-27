@@ -11,16 +11,26 @@ seo:
     description: 'Используйте этот скрипт Python для автоматического добавления повторяющихся записей в базу SeaTable с проверкой дубликатов.'
 ---
 
-Этот скрипт автоматически добавляет ежемесячные записи расходов в таблицу. Он проверяет, существуют ли записи за текущий месяц, и создаёт новые только при необходимости. Также автоматически создаёт отсутствующие варианты выбора.
 
-## How it works
+Этот скрипт автоматически создаёт повторяющиеся ежемесячные записи в таблице. Он проверяет с помощью SQL-запроса, существуют ли записи за текущий месяц, и создаёт только отсутствующие. Таким образом, вы можете настроить его как запланированную автоматизацию (например, 1-го числа каждого месяца) без создания дубликатов.
 
-1. The script calculates the first day of the current month
-2. It checks if entries for "Office supplies" and "Software licenses" already exist
-3. If a select option doesn't exist yet, it creates it
-4. Only then does it add the new row
+![Monthly Expenses in SeaTable](monthly-expenses.png)
 
-## The complete script
+{{< dtable-download name="Monthly Expenses" file="/downloads/python-examples/monthly-expenses.dtable" text="База с примерами данных и готовым скриптом для непосредственного тестирования." />}}
+
+## Предварительные требования
+
+Таблица должна содержать минимум следующие столбцы:
+
+- **Category** (Одиночный выбор) — тип записи
+- **Description** (Текст) — описание
+- **Amount** (Число) — сумма
+- **Month** (Дата) — расчётный месяц
+- **Type** (Одиночный выбор) — например, Expense или Income
+
+## Скрипт
+
+Адаптируйте `TABLE_NAME` и записи в `ENTRIES` под структуру вашей таблицы. Значения для столбцов одиночного выбора автоматически создаются как новые варианты, если они ещё не существуют.
 
 ```python
 from seatable_api import Base, context, dateutils
@@ -36,38 +46,20 @@ this_month = today.month
 this_year = today.year
 first_of_this_month = dateutils.date(this_year, this_month, 1)
 
-# Check and add office supplies
-rows = base.filter("Ledger", "Month = '" + str(first_of_this_month) + "' and Category = 'Office supplies'")
-if len(rows) == 0:
-    options = base.list_column_options("Ledger", "Category")
-    found = False
-    for option in options:
-        if option['name'] == 'Office supplies':
-            found = True
-            break
-    if not found:
-        base.add_column_options("Ledger", "Category", [{"name": "Office supplies", "color": "#FF8000", "textColor": "#FFFFFF"}])
+# Define recurring monthly entries
+ENTRIES = [
+    {"Category": "Office supplies", "Description": "Monthly office supplies", "Amount": 150.00, "Type": "Expense"},
+    {"Category": "Software licenses", "Description": "Monthly software licenses", "Amount": 500.00, "Type": "Expense"},
+]
 
-    base.append_row(TABLE_NAME, {
-        "Category": "Office supplies",
-        "Description": "Monthly office supplies",
-        "Amount": 150.00,
-        "Month": first_of_this_month,
-        "Type": "Expense"
-    })
-
-# Check and add software licenses
-rows = base.filter("Ledger", "Month = '" + str(first_of_this_month) + "' and Category = 'Software licenses'")
-if len(rows) == 0:
-    base.append_row(TABLE_NAME, {
-        "Category": "Software licenses",
-        "Description": "Monthly software licenses",
-        "Amount": 500.00,
-        "Month": first_of_this_month,
-        "Type": "Expense"
-    })
+for entry in ENTRIES:
+    rows = base.query(f"SELECT _id FROM `{TABLE_NAME}` WHERE `Month` = '{first_of_this_month}' AND `Category` = '{entry['Category']}'")
+    if len(rows) == 0:
+        entry['Month'] = first_of_this_month
+        base.append_row(TABLE_NAME, entry)
+        print(f"Added: {entry['Category']}")
+    else:
+        print(f"Skipped (already exists): {entry['Category']}")
 ```
 
-Adjust the column names and values to match your table structure. The script can be started manually, via a button, or via automation. Learn more [here]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
-
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
+Полный справочник функций доступен в [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

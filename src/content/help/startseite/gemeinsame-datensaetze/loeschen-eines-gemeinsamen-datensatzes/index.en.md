@@ -1,16 +1,17 @@
 ---
-title: 'Deleting a common dataset'
+title: 'Delete a common dataset'
 date: 2022-11-21
 lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/delete-shared-dataset-seatable'
+url: '/help/delete-common-dataset-seatable'
 aliases:
     - '/help/loeschen-eines-gemeinsamen-datensatzes'
+    - '/help/delete-shared-dataset-seatable'
 seo:
-    title: 'Delete Shared Dataset in SeaTable: Step-by-Step Guide and Effects'
-    description: 'Learn how to permanently remove a shared dataset in SeaTable, what happens to linked tables, and how remaining data is preserved after deletion.'
+    title: 'Delete Common Dataset in SeaTable: Step-by-Step Guide and Effects'
+    description: 'Learn how to permanently remove a common dataset in SeaTable, what happens to linked tables, and how remaining data is preserved after deletion.'
 ---
 
 If at some point you no longer need the **common datasets** you have created, you can easily delete them from the home page at any time.
@@ -19,7 +20,7 @@ If at some point you no longer need the **common datasets** you have created, yo
 
 ![Deleting a common dataset](images/screnshot-common-datasets-3.png)
 
-1. Open the **home** page of SeaTable.
+1. Open the **home page** of SeaTable.
 2. Click on the **Common dataset** tab.
 3. Select the common dataset you want to **delete**.
 4. Click the **three dots** and then click **Delete**.

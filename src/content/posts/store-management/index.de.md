@@ -1,5 +1,5 @@
 ---
-title: 'Organisiertes Store Management mit SeaTable - SeaTable'
+title: 'Organisiertes Store Management mit SeaTable'
 description: 'Mit zunehmender Filialzahl wächst der Organisationsaufwand: SeaTable bündelt alle relevanten Daten zu Mitarbeitern, Umsatz, Terminen und POS-Materialien in einem zentralen Tool. Einfache Auswertungen, personalisierte Ansichten und Webformulare sorgen für maximale Übersicht und Effizienz.'
 date: 2021-10-21
 categories:
@@ -21,7 +21,7 @@ Zudem wird auch Ihr Sales-Team mit neuen Herausforderungen konfrontiert: Es gibt
 
 Im Store Management gibt es einiges zu beachten. Unsere Softwarelösung hilft Ihnen dabei, den Überblick über Mitarbeiter und Weiterbildungen zu behalten. Sie zeigt Ihnen den Umsatz in verschiedenen Umsatzclustern an und bietet mit unserem Statistik-Plugin auch Grundlage für verschiedene Umsatzanalysen. Für Ihre Sales Manager bietet SeaTable ein einfaches Webformular, mit welchem Store-Checks organisierter gestaltet werden können.
 
-Das Timeline-Plugin auch alle anstehenden Termine an. Zu guter Letzt hilft Ihnen unser Store Management Template auch bei der Bestellung und Übersicht aller POS-Materialien in allen Filialen. Im Folgenden werden wir Ihnen erklären, wie genau das Template aufgebaut ist und wie Sie es benutzen können.
+Die Zeitleisten-Ansicht auch alle anstehenden Termine an. Zu guter Letzt hilft Ihnen unser Store Management Template auch bei der Bestellung und Übersicht aller POS-Materialien in allen Filialen. Im Folgenden werden wir Ihnen erklären, wie genau das Template aufgebaut ist und wie Sie es benutzen können.
 
 [Hier gelangen Sie direkt zu unserem Template]({{< relref "templates/sales/store-management" >}})
 
@@ -35,7 +35,7 @@ Eine zusätzliche Spalte für Dokumente ermöglicht Ihnen das Ablegen von Arbeit
 
 ## Weiterbildungen für Ihre Mitarbeiter organisieren
 
-Da Mitarbeiter eine der wichtigsten Ressourcen für Unternehmen sind, liegt es im Interesse der Unternehmen, diese Ressourcen zu fördern und dadurch noch wertvoller zu machen. Weiterbildungen können demnach als nachhaltige Investitionen in das Unternehmen betrachtet werden. Denn das neue Wissen, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, [sondern auch dem ganzen Unternehmen zu Gute](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Da Mitarbeiter eine der wichtigsten Ressourcen für Unternehmen sind, liegt es im Interesse der Unternehmen, diese Ressourcen zu fördern und dadurch noch wertvoller zu machen. Weiterbildungen können demnach als nachhaltige Investitionen in das Unternehmen betrachtet werden. Denn das neue Wissen, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, [sondern auch dem ganzen Unternehmen zu Gute](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Unsere dritte Base “Trainings” verschafft Ihnen einen Überblick über die verschiedenen Bedürfnisse Ihrer Mitarbeiter und die damit verbundenen Weiterbildungsmöglichkeiten. Alle verfügbaren Weiterbildungen können Sie in die erste Spalte eintragen. Dann tragen Sie das Datum ein, an welchem die Weiterbildung stattfindet. Eine weitere Spalte zeigt die verfügbaren Plätze für diese Fortbildung an.
 

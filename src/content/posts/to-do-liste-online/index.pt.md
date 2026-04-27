@@ -19,7 +19,7 @@ Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantage
 
 ## Para que é que precisa de uma lista de tarefas
 
-Tanto em casa como na [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) profissionais, é importante manter um registo de todas as tarefas futuras e trabalhá-las uma a uma. O primeiro passo é registar as **tarefas** específicas numa lista de afazeres. Em seguida, defina as **subtarefas** ou **as categorias** mais abrangentes, determine **as responsabilidades** e estabeleça **prazos**.
+Tanto em casa como na [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) profissionais, é importante manter um registo de todas as tarefas futuras e trabalhá-las uma a uma. O primeiro passo é registar as **tarefas** específicas numa lista de afazeres. Em seguida, defina as **subtarefas** ou **as categorias** mais abrangentes, determine **as responsabilidades** e estabeleça **prazos**.
 
 É possível utilizar um **estado** para indicar se uma tarefa está a ser processada ou se foi concluída. Um estado pendente também é concebível se estiver à espera de uma resposta ou de um input. Também deve **estabelecer prioridades** para as suas tarefas, de modo a que as mais importantes sejam sempre as primeiras a ser executadas.
 
@@ -71,7 +71,7 @@ Também pode ser ligado ao seu calendário, a um assistente de voz no seu smartp
 
 ### Microsoft To Do: A aplicação versátil para a sua lista de tarefas
 
-Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de]({{< relref "posts/einkaufsliste" >}}) tarefas e [de compras]({{< relref "posts/einkaufsliste" >}}). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
+Com o [Microsoft To Do](https://to-do.office.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de]({{< relref "posts/einkaufsliste" >}}) tarefas e [de compras]({{< relref "posts/einkaufsliste" >}}). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
 
 Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também são possíveis lembretes e tarefas recorrentes. No entanto, não existem opções de visualização avançadas para além do modo de lista; para tal, é necessário o Planner.
 
@@ -99,7 +99,7 @@ Os lembretes podem ser claramente ordenados em cada lista e divididos em secçõ
 
 ## SeaTable: O polivalente para todos os tipos de listas
 
-O SeaTable é uma base de dados em linha que lhe permite organizar tarefas, informações, processos e ideias de forma fácil e clara. Beneficia de uma vista de lista clássica ou pode utilizar formatos de visualização alternativos, como o [quadro Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), o [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ou um [gráfico de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+O SeaTable é uma base de dados em linha que lhe permite organizar tarefas, informações, processos e ideias de forma fácil e clara. Beneficia de uma vista de lista clássica ou pode utilizar formatos de visualização alternativos, como o [quadro Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), o [calendário]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) ou um [gráfico de Gantt]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Outra funcionalidade interessante é a possibilidade de carregar [ficheiros]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) e [imagens]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) e anexá-los às tarefas. Também pode adicionar toda a informação que quiser, como uma data, uma prioridade e subtarefas em colunas adicionais.
 

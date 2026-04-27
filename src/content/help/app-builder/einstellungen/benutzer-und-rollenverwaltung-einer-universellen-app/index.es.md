@@ -1,5 +1,5 @@
 ---
-title: 'Administración de usuarios y funciones de una aplicación universal'
+title: 'Administración de usuarios y funciones de una aplicación'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:
@@ -9,17 +9,17 @@ url: '/es/ayuda/gestion-usuarios-y-roles-app-universal'
 aliases:
     - '/es/ayuda/benutzer-und-rollenverwaltung-einer-universellen-app'
 seo:
-    title: 'Gestión de usuarios y roles en App Universal'
-    description: 'Añade usuarios, asigna roles y crea enlaces de invitación para administrar permisos en las Apps Universales de SeaTable. Guía completa.'
+    title: 'Gestión de usuarios y roles en aplicación'
+    description: 'Añade usuarios, asigna roles y crea enlaces de invitación para administrar permisos en las aplicaciones de SeaTable. Guía completa.'
 ---
 
-Ya sea añadiendo **nuevos usuarios**, asignando **roles** o creando **enlaces de** invitación, puedes llevar a cabo varias actividades administrativas en la administración de usuarios y roles de una app universal. Puedes acceder a la administración de usuarios y **roles** a través del modo de edición de tu app universal.
+Ya sea añadiendo **nuevos usuarios**, asignando **roles** o creando **enlaces de** invitación, puedes llevar a cabo varias actividades administrativas en la administración de usuarios y roles de una aplicación. Puede acceder a la administración de usuarios y **roles** a través del modo de edición de su aplicación.
 
 {{< warning  headline="Autorización necesaria en el grupo"  text="Para poder editar una app, debes ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros del** grupo simple sólo pueden ver y utilizar las apps." />}}
 
-## Administración de usuarios y funciones de la aplicación universal
+## Administración de usuarios y funciones de la aplicación
 
-1. Abra una **Base** a la que ya haya añadido una aplicación universal.
+1. Abra una **Base** a la que ya haya añadido una aplicación.
 2. Haga clic en **Aplicaciones** en la cabecera Base.
 
 ![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
@@ -38,11 +38,11 @@ Ya sea añadiendo **nuevos usuarios**, asignando **roles** o creando **enlaces d
 
 ### Usuario
 
-En la primera sección encontrará un resumen de todos los **usuarios** que tienen acceso a su Universal App. Además, también encontrará la **función** y el **estado** del usuario correspondiente.
+En la primera sección encontrará un resumen de todos los **usuarios** que tienen acceso a su aplicación. Además, también encontrará la **función** y el **estado** del usuario correspondiente.
 
-![Descripción general de la pestaña Usuarios de la administración de usuarios y roles de una aplicación universal](images/user-and-role-management-overview-1.png)
+![Descripción general de la pestaña Usuarios de la administración de usuarios y roles de una aplicación](images/user-and-role-management-overview-1.png)
 
-Esta sección también le ofrece varias opciones para **gestionar los usuarios actuales de** su aplicación universal.
+Esta sección también le ofrece varias opciones para **gestionar los usuarios actuales de** su aplicación.
 
 Utilice la función de **búsqueda para** encontrar un usuario concreto. Esta función puede ser especialmente útil con un gran número de usuarios de la app.
 
@@ -61,7 +61,7 @@ Haga clic en **Sincronizar usuarios con Base** para recopilar automáticamente l
 
 Si en el futuro añades más usuarios de esta forma, siempre puedes volver a hacer clic en **Sincronizar usuarios con Base** para añadir los **nuevos usuarios** a la tabla.
 
-![Si en el futuro añades más usuarios a tu aplicación, ...](images/if-you-add-more-users-to-your-app.png)
+![Si en el futuro añades más usuarios a su aplicación, ...](images/if-you-add-more-users-to-your-app.png)
 
 ![... siempre puede volver a hacer clic en Sincronizar usuarios con Base para añadir automáticamente los nuevos usuarios a la tabla.](images/added-imported-app-users-to-table.png)
 
@@ -71,7 +71,7 @@ Para **eliminar** un usuario de la aplicación, basta con hacer clic en el **sí
 
 Haciendo clic en los **iconos de lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}, que encontrará para cada usuario, podrá editar su **función** y su **estado**.
 
-{{< warning  headline="Nota importante"  text="Tenga en cuenta que el **usuario** que ha añadido la Universal App a Base se registra automáticamente como **Admin**. Tanto el rol como el estado de este usuario **no pueden** ser editados y el usuario no puede **ser** eliminado de la app." />}}
+{{< warning  headline="Nota importante"  text="Tenga en cuenta que el **usuario** que ha añadido la aplicación a Base se registra automáticamente como **Admin**. Tanto el rol como el estado de este usuario **no pueden** ser editados y el usuario no puede **ser** eliminado de la app." />}}
 
 ![Edición de iconos para cada usuario ](images/edit-icons-users.jpg)
 
@@ -83,7 +83,7 @@ El **estado de** un usuario puede ser **Activo** o **Inactivo**. Mientras que lo
 
 ![Editar el estado de un usuario de la aplicación](images/edit-status-of-app-user.png)
 
-Los usuarios que no tengan acceso a su Universal App verán este mensaje:
+Los usuarios que no tengan acceso a su aplicación verán este mensaje:
 
 ![Denegación de acceso a la aplicación a los usuarios inactivos ](images/no-permission-for-inactive-users.png)
 
@@ -99,11 +99,11 @@ Aquí inicialmente sólo se definen los **nombres de** los roles. Puedes definir
 
 ### Enlace de invitación
 
-En la tercera sección de la administración de usuarios y roles, puede generar un **enlace de invitación** individual para la Universal App.
+En la tercera sección de la administración de usuarios y roles, puede generar un **enlace de invitación** individual para la aplicación.
 
 En primer lugar, defina la **función de** los usuarios que acceden a la aplicación mediante el enlace de invitación.
 
-![Selección del rol que se otorgará al usuario que utilizará la Universal App mediante el enlace de invitación.](images/select-role-for-invite-link.png)
+![Selección del rol que se otorgará al usuario que utilizará la aplicación mediante el enlace de invitación.](images/select-role-for-invite-link.png)
 
 A continuación, tiene la opción de establecer una **contraseña** que deberá introducir tras abrir el enlace de invitación para poder acceder a la aplicación.
 
@@ -117,10 +117,10 @@ Haga clic en **Generar** para crear el enlace de invitación. El enlace se muest
 
 ![Enlace de invitación generado con opciones disponibles para copiar y eliminar el enlace de invitación](images/copy-and-delete-link-universal-app.png)
 
-También tiene la opción de generar un **código QR** para abrir y compartir la aplicación universal.
+También tiene la opción de generar un **código QR** para abrir y compartir la aplicación.
 
-![Mostrar el código QR para abrir y compartir la aplicación universal](images/show-qr-code-universal-app.png)
+![Mostrar el código QR para abrir y compartir la aplicación](images/show-qr-code-universal-app.png)
 
-Escanee el **código QR** mostrado para abrir su aplicación universal o compártalo con otros usuarios para darles **acceso a** su aplicación.
+Escanee el **código QR** mostrado para abrir su aplicación o compártalo con otros usuarios para darles **acceso a** su aplicación.
 
-![Código QR para abrir y compartir la aplicación universal](images/qr-code-to-share-universal-app.png)
+![Código QR para abrir y compartir la aplicación](images/qr-code-to-share-universal-app.png)

@@ -99,7 +99,7 @@ Jira ofrece una potente herramienta de hoja de ruta especialmente desarrollada p
 
 ### Herramientas de gestión de proyectos y hojas de ruta como SeaTable
 
-Otros proveedores también ofrecen plantillas de hojas de ruta directamente utilizables que permiten recopilar y visualizar datos en una sola. Las herramientas de hoja de ruta de [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) buena reputación, como SeaTable, se basan en **plantillas personalizables** que puedes adaptar con precisión a tus requisitos y te muestran una vista previa de las funciones que puedes esperar antes de descargarlas. Así evitará comprar el proverbial cerdo en un charco.
+Otros proveedores también ofrecen plantillas de hojas de ruta directamente utilizables que permiten recopilar y visualizar datos en una sola. Las herramientas de hoja de ruta de [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) buena reputación, como SeaTable, se basan en **plantillas personalizables** que puedes adaptar con precisión a tus requisitos y te muestran una vista previa de las funciones que puedes esperar antes de descargarlas. Así evitará comprar el proverbial cerdo en un charco.
 
 Una buena herramienta también debe permitir múltiples tipos de visualización, como calendarios, líneas de tiempo, diagramas de Gantt o de flujo, de modo que los datos puedan personalizarse para diferentes personas y propósitos. Es importante que tengas a mano exactamente las **funciones clave** que necesitas para tu trabajo.
 
@@ -119,7 +119,7 @@ Si busca una plantilla que le facilite el registro de informes y documentación 
 
 ### Hoja de ruta estratégica
 
-¿Es usted director general o miembro del consejo de administración y le gustaría explicar la **visión global** de la empresa a sus empleados o a otras partes interesadas de forma clara y concisa? Entonces una hoja de ruta estratégica, que tiene muchas similitudes con un plan de empresa, es la herramienta que necesita. Puede utilizarla para trazar sus objetivos a corto y largo plazo (por ejemplo, en [marketing]({{< relref "pages/industry-solutions/marketing" >}}) y ventas), [la planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}) y todas las medidas necesarias para alcanzar la visión empresarial de un vistazo.
+¿Es usted director general o miembro del consejo de administración y le gustaría explicar la **visión global** de la empresa a sus empleados o a otras partes interesadas de forma clara y concisa? Entonces una hoja de ruta estratégica, que tiene muchas similitudes con un plan de empresa, es la herramienta que necesita. Puede utilizarla para trazar sus objetivos a corto y largo plazo (por ejemplo, en [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) y ventas), [la planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}) y todas las medidas necesarias para alcanzar la visión empresarial de un vistazo.
 
 La plantilla SeaTable traza claramente todos los procesos importantes. Puede personalizarla para adaptarla a su empresa.
 
@@ -133,7 +133,7 @@ Cuando se utiliza externamente, la hoja de ruta del producto sirve para presenta
 
 Una hoja de ruta tecnológica o informática le ayudará si su objetivo es visualizar la infraestructura tecnológica o el desarrollo de software en su empresa. Esto le ofrece una visión general de las oportunidades y los riesgos para la gestión de la empresa: ¿qué tecnologías se han quedado obsoletas y qué sistemas desea introducir para seguir el ritmo de la digitalización y mantenerse al día?
 
-Visualice su hoja de ruta para [desarrollo de software]({{< relref "pages/industry-solutions/software-development" >}}) con la plantilla SeaTable y benefíciese de una visión estructurada.
+Visualice su hoja de ruta para [desarrollo de software]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) con la plantilla SeaTable y benefíciese de una visión estructurada.
 
 ### Hoja de ruta integrada
 

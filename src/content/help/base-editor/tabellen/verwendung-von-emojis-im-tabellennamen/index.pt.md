@@ -1,5 +1,5 @@
 ---
-title: 'Usando emojis no nome da mesa'
+title: 'Usar emojis no nome da tabela'
 date: 2022-12-13
 lastmod: '2025-02-28'
 categories:
@@ -13,17 +13,17 @@ seo:
     description: 'Aprenda a usar emojis nos nomes das tabelas do SeaTable. Crie visualização intuitiva, facilite navegação e otimize a organização dos seus dados.'
 ---
 
-Com cada tabela adicional que adiciona à sua base, a [navegação da tabela]({{< relref "help/base-editor/tabellen/nach-einer-tabelle-suchen" >}}) no cabeçalho da base torna-se mais confusa. Para resolver este problema, o SeaTable suporta a [ocultação de tabelas]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) e a **utilização de emojis no nome da tabela**.
+Com cada tabela adicional que adiciona à sua base, a [navegação da tabela]({{< relref "help/base-editor/tabellen/nach-einer-tabelle-suchen" >}}) no cabeçalho da base torna-se mais confusa. Para resolver este problema, SeaTable suporta a [ocultação de tabelas]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) e a **utilização de emojis no nome da tabela**.
 
-## Inserir emojis no nome da mesa
+## Inserir emojis no nome da tabela
 
 Se nomear tabelas com **emojis** correspondentes em vez de termos, a **largura dos separadores da tabela** é reduzida e pode manter mais tabelas à vista.
 
 Que tal, por exemplo, símbolos para entrevistas de emprego (por exemplo, balão de diálogo), pedidos de férias (por exemplo, cara sorridente com óculos de sol) e folhas de vencimento (por exemplo, saco de dinheiro) para a base de um departamento de RH?
 
-![Nomes de mesas com emojis](images/Tabellennamen-mit-Emojis.png)
+![Nomes de tabelas com emojis](images/Tabellennamen-mit-Emojis.png)
 
-Experimente! Copie um **emoji** que corresponda à sua mesa e insira-o no **nome da mesa**.
+Experimente! Copie um **emoji** que corresponda à sua tabela e insira-o no **nome da tabela**.
 
 {{< warning  headline="Dica"  text="Pode encontrar uma grande seleção de diferentes emojis em [emojiterra.com](https://emojiterra.com) ou [emojipedia.org](https://emojipedia.org/), por exemplo." />}}
 

@@ -14,15 +14,15 @@ seo:
 
 ---
 
-Las bases constan de una o varias tablas, que a su vez pueden contener datos muy diferentes y enlazarse entre sí. Una base puede contener **hasta 200 mesas**. Sin embargo, en aras de la claridad, debería considerar dividir las tablas en varias bases y sincronizar los datos con la función [Conjuntos de datos compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) si tiene más de 20 tablas.
+Las bases constan de una o varias tablas, que a su vez pueden contener datos muy diferentes y enlazarse entre sí. Una base puede contener **hasta 200 tablas**. Sin embargo, en aras de la claridad, debería considerar dividir las tablas en varias bases y sincronizar los datos con la función [Conjuntos de datos compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) si tiene más de 20 tablas.
 
 ## Añadir una tabla en una base
 
 1. En el **Base abierta** En la esquina superior izquierda verás las pestañas con todos los **Tablas** de la base.
 
-    ![Mesas en una base de SeaTable](images/Tabellen-in-seatable.png)
+    ![Tablas en una base de SeaTable](images/Tabellen-in-seatable.png)
 
-2. Haga clic en el **símbolo \[+** \] situado a la derecha de la última pestaña de la tabla.
+2. Haga clic en el **símbolo más** situado a la derecha de la última pestaña de la tabla.
 3. Ahora seleccione **Añadir tabla**.
 4. Dé un **nombre** a la nueva tabla y confirme con **Enviar**.
 

@@ -161,7 +161,7 @@ Agora, indique ao script quais as tabelas que pretende importar da Airtable Base
 Para uma base com as duas tabelas "table1" e "table2", a linha deve então ter o seguinte aspeto, por exemplo:  
 ![](images/Airtable-tables_names_500.png)
 
-Se a sua base de mesa aérea tiver mais de duas tabelas, basta aumentar a lista entre parênteses. Se não pretender transferir todas as tabelas de uma base, basta omitir os nomes das tabelas que não devem ser copiadas.
+Se a sua base de Airtable tiver mais de duas tabelas, basta aumentar a lista entre parênteses. Se não pretender transferir todas as tabelas de uma base, basta omitir os nomes das tabelas que não devem ser copiadas.
 
 Devido a uma limitação da API do Airtable, deve também especificar os nomes das primeiras colunas das tabelas. Isto é feito na linha "first_columns" ou nas linhas seguintes.
 
@@ -178,7 +178,7 @@ A variável "links" destina-se a este fim. Por exemplo, se a coluna "link to tab
 
 Só é necessário especificar uma vez cada par de colunas de ligação. Não é necessário especificar a ligação em ambas as direcções.
 
-Se a base da mesa aérea não receber quaisquer colunas de ligação, pode deixar o parêntesis quadrado vazio:  
+Se a base da Airtable não receber quaisquer colunas de ligação, pode deixar o parêntesis quadrado vazio:  
 ![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. excluir colunas ou tipos de colunas (opcional)
@@ -208,7 +208,7 @@ Agora verifique se
 
 Como os tipos de coluna do Airtable e do SeaTable não são completamente congruentes, alguns tipos de coluna na Base do SeaTable serão diferentes dos da Base do Airtable. A tabela a seguir mostra como os tipos de coluna no Airtable são transferidos para o SeaTable.
 
-| **Tipo de coluna de mesa de ar** | **Importar para o SeaTable Tipo de coluna**  |
+| **Tipo de coluna de Airtable**   | **Importar para tipo de coluna do SeaTable** |
 | -------------------------------- | -------------------------------------------- |
 | Anexo                            | Ficheiro                                     |
 | Número automático                | Texto                                        |
@@ -273,7 +273,7 @@ Por outro lado, também é necessário criar vistas, uma vez que estas não são
 
 ## Área de FAQ
 
-{{< faq "O script altera os dados na minha Airtable Base?" >}}Não. O script apenas lê a sua base de mesa aérea. Os dados na base da tabela aérea não são alterados.
+{{< faq "O script altera os dados na minha Airtable Base?" >}}Não. O script apenas lê a sua base de Airtable. Os dados na base da tabela aérea não são alterados.
 {{< /faq >}}
 
 {{< faq "O que devo fazer se receber uma mensagem de erro?" >}}Uma mensagem de erro na primeira execução não é de todo improvável. Há muitas razões para isso, por exemplo, um token incorreto, uma sequência incorrecta na especificação das ligações, erros de digitação, falta de vírgulas ou indentação incorrecta. Um único erro pode levar à anulação da execução do script.  

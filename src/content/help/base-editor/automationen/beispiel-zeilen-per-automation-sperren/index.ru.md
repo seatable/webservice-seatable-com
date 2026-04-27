@@ -76,7 +76,6 @@ seo:
 - [Остановить автоматизацию]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Удалить автоматизацию]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Отображение журнала выполнения автоматизации]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [Почему я не могу найти автоматизацию в своей базе?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Триггер автоматизации]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Действия по автоматизации]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})

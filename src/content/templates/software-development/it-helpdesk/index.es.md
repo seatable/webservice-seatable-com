@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Sistema de tickets de asistencia técnica basado en IA'
       subtitle: 'Automatización inteligente'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su sistema de tickets de TI a un nuevo nivel. Automatice los pasos recurrentes, reduzca el trabajo manual rutinario y gane tiempo para el análisis, la mejora del servicio y las decisiones estratégicas en TI.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán su sistema de tickets de TI a un nuevo nivel. Automatice los pasos recurrentes, reduzca el trabajo manual rutinario y gane tiempo para el análisis, la mejora del servicio y las decisiones estratégicas en TI.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Classify asigna automáticamente las nuevas solicitudes de asistencia a las categorías de servicio, prioridades o equipos adecuados en función del asunto y la descripción. De este modo, los nuevos tickets llegan directamente al contexto adecuado, lo que reduce los tiempos de tramitación y mejora la calidad de la asistencia.'
@@ -180,7 +180,7 @@ sections:
       - q: "¿La plantilla es compatible con el seguimiento del estado y los SLA?"
         a: 'Sí, puede configurar libremente los campos de estado, los datos del SLA y las reglas de escalado. De este modo, la plantilla reproduce exactamente su seguimiento de estado y la gestión del SLA en el sistema de tickets del servicio de asistencia técnica.'
       - q: "¿Puedo vincular la plantilla con otros procesos ITSM?"
-        a: 'Sí, puede combinar la plantilla con otras plantillas para la gestión de activos, la gestión de cambios o la [gestión de incidencias]({{< relref "posts/20250612-incident-management" >}}) y así crear una [gestión de servicios de TI]({{< relref "pages/industry-solutions/software-development" >}}) integrada construir.'
+        a: 'Sí, puede combinar la plantilla con otras plantillas para la gestión de activos, la gestión de cambios o la [gestión de incidencias]({{< relref "posts/20250612-incident-management" >}}) y así crear una [gestión de servicios de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) integrada construir.'
       - q: "¿Cuántos usuarios pueden trabajar simultáneamente con la plantilla del servicio de asistencia técnica informática?"
         a: 'Varios usuarios pueden trabajar simultáneamente en la misma base, registrar y actualizar tickets. Las autorizaciones le permiten controlar quién puede leer, comentar o editar, lo que resulta ideal para la colaboración en la empresa.'
       - q: "¿Puedo crear campos y flujos de trabajo propios en la plantilla?"

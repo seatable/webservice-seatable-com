@@ -49,7 +49,7 @@ Los webhooks se utilizan normalmente cuando no se desea consultar el estado de u
 
 ## Plataformas de automatización
 
-En la vida cotidiana, la gente suele trabajar no solo con un software, sino con muchas soluciones al mismo tiempo. Los contactos comerciales se almacenan en un CRM como Hubspot o Pipedrive, las citas y los correos electrónicos se almacenan en Google, los boletines se envían con [Mailchimp](https://mailchimp.com/) o [Sendinblue](https://de.sendinblue.com/). A menudo, quieres que un evento en un software conduzca a una actividad en otro software. Así, si envías un nuevo boletín con Sendinblue, automáticamente envías una publicación en Facebook. O si alguien envía una solicitud de cita en su sitio web, que los datos de contacto se transfieran automáticamente a su CRM.
+En la vida cotidiana, la gente suele trabajar no solo con un software, sino con muchas soluciones al mismo tiempo. Los contactos comerciales se almacenan en un CRM como Hubspot o Pipedrive, las citas y los correos electrónicos se almacenan en Google, los boletines se envían con [Mailchimp](https://mailchimp.com/) o [Brevo](https://www.brevo.com/). A menudo, quieres que un evento en un software conduzca a una actividad en otro software. Así, si envías un nuevo boletín con Brevo, automáticamente envías una publicación en Facebook. O si alguien envía una solicitud de cita en su sitio web, que los datos de contacto se transfieran automáticamente a su CRM.
 
 Es precisamente en estos casos en los que una de las muchas plataformas de automatización puede ayudarle. Estas te ayudan a conectar dos o más soluciones de software sin experiencia en programación y a reaccionar a determinados desencadenantes con determinadas acciones.
 

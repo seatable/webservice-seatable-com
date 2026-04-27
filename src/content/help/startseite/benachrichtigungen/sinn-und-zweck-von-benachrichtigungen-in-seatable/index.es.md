@@ -24,11 +24,11 @@ El tema de este artículo es cómo utilizar la función de notificación para re
 
 La función de notificación de SeaTable le permite supervisar automáticamente **tablas**, **vistas** o sólo **columnas** individuales. Una vez configurada, garantiza que determinados usuarios reciban una notificación cuando se produzca un evento desencadenante previamente definido.
 
-Con una configuración inteligente y previsora de **las** reglas de notificación, se elimina casi por completo la laboriosa observación personal de una mesa. Puede configurar una regla de notificación para una o varias personas. También puedes hacer que se envíe una notificación que informe a otro u otros usuarios, pero no a ti mismo.
+Con una configuración inteligente y previsora de **las reglas de notificación**, se elimina casi por completo la laboriosa observación personal de una tabla. Puede configurar una regla de notificación para una o varias personas. También puede hacer que se envíe una notificación que informe a otro u otros usuarios, pero no a usted mismo.
 
 {{< warning  headline="El acceso es necesario"  text="El requisito previo para notificar a un usuario es que éste tenga al menos **acceso de lectura** a la tabla afectada." />}}
 
-Puedes reconocer la presencia de una **nueva notificación** por el **símbolo de la campana** {{< seatable-icon icon="dtable-icon-notice" color="grey" >}}, que también puedes utilizar para abrir el centro de notificaciones pulsando sobre él.
+Puede reconocer la presencia de una **nueva notificación** por el **símbolo de la campana** {{< seatable-icon icon="dtable-icon-notice" color="grey" >}}, que también puede utilizar para abrir el centro de notificaciones pulsando sobre él.
 
 ![Notificación enviada a un usuario tras activar una regla de notificación](images/received-notification-rule.jpg)
 

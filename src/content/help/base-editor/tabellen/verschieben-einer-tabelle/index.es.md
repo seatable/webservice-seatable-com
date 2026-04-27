@@ -1,5 +1,5 @@
 ---
-title: 'Mover una mesa'
+title: 'Mover una tabla'
 date: 2022-10-11
 lastmod: '2025-02-25'
 categories:
@@ -13,7 +13,7 @@ seo:
     description: 'Descubre cómo mover tablas en SeaTable con drag-and-drop o desde el menú para organizar y gestionar mejor tus datos de forma fácil.'
 ---
 
-A más tardar cuando tu base se haya llenado gradualmente con varias mesas, es hora de pensar en un **orden sensato de las mesas** de tu base. **Coloca** las mesas relacionadas temáticamente unas junto a otras y coloca las más importantes en la parte superior. Ya lo verás: Gracias a **la función de arrastrar y soltar**, mover mesas es un juego de niños.
+A más tardar cuando su base se haya llenado gradualmente con varias tablas, es hora de pensar en un **orden sensato de las tablas** en su base. **Coloque** las tablas relacionadas temáticamente unas junto a otras y coloque las más importantes en la parte superior. Gracias a **la función de arrastrar y soltar**, mover tablas es un juego de niños.
 
 ## Para desplazar una tabla en la cabecera base
 
@@ -21,7 +21,7 @@ Puede organizar sus tablas horizontalmente en la cabecera base como desee.
 
 ![Mover tablas en la cabecera base](images/Tabellen-im-Base-Header-verschieben.gif)
 
-1. Mueve el ratón a la pestaña **de** la tabla que quieras mover.
+1. Mueva el ratón a la **pestaña de la tabla** que quiera mover.
 2. Mantenga pulsado el botón izquierdo del ratón y **arrastre y suelte** la tabla deseada en cualquier posición de la cabecera base.
 
 ## Para desplazar una tabla mediante el menú desplegable

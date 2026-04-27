@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Helpdesk Ticket System'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr IT Ticket System auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Serviceverbesserung und strategische Entscheidungen in der IT.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihr IT Ticket System auf ein neues Level heben. Automatisieren Sie wiederkehrende Schritte, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Serviceverbesserung und strategische Entscheidungen in der IT.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Supportanfragen basierend auf Betreff und Beschreibung automatisch passenden Servicekategorien, Prioritäten oder Teams zu. Neue Tickets landen so direkt im richtigen Kontext, was Bearbeitungszeiten reduziert und die Support-Qualität verbessert.'
@@ -180,7 +180,7 @@ sections:
       - q: "Unterstützt die Vorlage Statustracking und SLAs?"
         a: 'Ja, Sie können Statusfelder, SLA-Daten und Eskalationsregeln frei konfigurieren. So bildet die Vorlage Ihr Statustracking und SLA-Management im Helpdesk Ticket System exakt nach.'
       - q: "Kann ich die Vorlage mit anderen ITSM-Prozessen verknüpfen?"
-        a: 'Ja, Sie können die Vorlage mit weiteren Vorlagen für Asset Management, Change Management oder [Incident Management]({{< relref "posts/20250612-incident-management" >}}) kombinieren und so ein integriertes [IT-Service-Management]({{< relref "pages/industry-solutions/software-development" >}}) aufbauen.'
+        a: 'Ja, Sie können die Vorlage mit weiteren Vorlagen für Asset Management, Change Management oder [Incident Management]({{< relref "posts/20250612-incident-management" >}}) kombinieren und so ein integriertes [IT-Service-Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) aufbauen.'
       - q: "Wie viele Nutzer können gleichzeitig mit der IT Helpdesk Vorlage arbeiten?"
         a: 'Mehrere Nutzer können gleichzeitig auf derselben Base arbeiten, Tickets erfassen und aktualisieren. Über Berechtigungen steuern Sie, wer lesen, kommentieren oder bearbeiten darf – ideal für kollaborative Zusammenarbeit im Betrieb.'
       - q: "Kann ich eigene Felder und Workflows in der Vorlage anlegen?"

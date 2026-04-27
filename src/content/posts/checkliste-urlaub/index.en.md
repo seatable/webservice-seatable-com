@@ -89,15 +89,11 @@ Imagine your long-awaited vacation is just around the corner and you have a perf
 
 ### Documents
 
-Spacer
-
 - Passport
 - Identity card
 - Driver's license
 - Vaccination certificate
 - Visa
-
-Spacer
 
 - Health insurance card
 - International health insurance
@@ -111,15 +107,11 @@ You can copy important documents before your vacation so that you are covered in
 
 ### Clothing
 
-Spacer
-
 - Sweater
 - Jacket
 - Pants
 - T-shirts
 - Depending on your vacation, swimwear, ski clothing, etc.
-
-Spacer
 
 - Caps/Caps
 - Pyjamas
@@ -133,15 +125,11 @@ Check what the weather will be like at your destination before you travel.
 
 ### Hygiene
 
-Spacer
-
 - Hairbrush or comb
 - Deodorant
 - Shampoo and shower gel
 - Shaver
 - Toothbrush and toothpaste
-
-Spacer
 
 - Make-up utensils
 - Feminine hygiene articles
@@ -155,15 +143,11 @@ Find out in advance whether towels and other toiletries are included to save spa
 
 ### Drug
 
-Spacer
-
 - Painkillers
 - Diarrhea medication
 - Fever reducer
 - Travel tablets
 - Sun cream
-
-Spacer
 
 - (Blister) plaster
 - Mosquito repellent
@@ -176,13 +160,9 @@ To be prepared for anything on vacation, you should think about a small first-ai
 
 ### Electronics
 
-Spacer
-
 - Cell phone
 - Headphones
 - Laptop
-
-Spacer
 
 - Charging cable
 - Camera
@@ -193,13 +173,9 @@ Make sure you store electronic devices safely so that nothing can break.
 
 ### Miscellaneous
 
-Spacer
-
 - key
 - Sleep mask
 - Earplugs
-
-Spacer
 
 - (Sunglasses) glasses or contact lenses
 - Travel provisions

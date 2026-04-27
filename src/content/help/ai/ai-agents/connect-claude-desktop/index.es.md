@@ -13,7 +13,7 @@ En esta guía, conectará Claude Desktop con su base de SeaTable. Una vez config
 ## Requisitos previos
 
 - Una cuenta de SeaTable Cloud con al menos una base
-- Claude Desktop (disponible gratuitamente en [claude.ai/download](https://claude.ai/download))
+- Claude Desktop (disponible gratuitamente en [claude.ai/download](https://claude.ai/download/))
 - Una cuenta de Anthropic (necesaria para usar Claude)
 
 {{< warning headline="El plan gratuito es suficiente, pero requiere una configuración especial" >}}

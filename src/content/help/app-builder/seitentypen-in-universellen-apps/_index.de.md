@@ -1,4 +1,4 @@
 ---
-title: Seitentypen in Universellen Apps
+title: Seitentypen in SeaTable Apps
 url: '/de/hilfe/app-builder/seitentypen'
 ---

@@ -30,7 +30,7 @@ As plataformas sem código surgiram porque as empresas precisam cada vez mais ra
 
 ![Lógica binária como base técnica](binaere_zahlen.jpg)
 
-As possibilidades de aplicação são muito variadas. Pode **automatizar processos recorrentes, desenvolver aplicações internas ou testar os primeiros protótipos**. As plataformas disponíveis apoiam-no em diferentes áreas. Existem ferramentas que se concentram em interfaces fáceis de utilizar, outras que o ajudam a gerir dados ou que servem de base para funções em segundo plano. Quer esteja à procura de um [Ferramenta de gestão de projetos]({{< relref "pages/industry-solutions/project-management" >}}) ou [Ferramenta de Gestão de Marketing]({{< relref "pages/industry-solutions/marketing" >}}) - assim encontrará exatamente a ferramenta adequada para o seu projeto.
+As possibilidades de aplicação são muito variadas. Pode **automatizar processos recorrentes, desenvolver aplicações internas ou testar os primeiros protótipos**. As plataformas disponíveis apoiam-no em diferentes áreas. Existem ferramentas que se concentram em interfaces fáceis de utilizar, outras que o ajudam a gerir dados ou que servem de base para funções em segundo plano. Quer esteja à procura de um [Ferramenta de gestão de projetos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) ou [Ferramenta de Gestão de Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) - assim encontrará exatamente a ferramenta adequada para o seu projeto.
 
 ##  Vantagens da utilização de ferramentas sem código
 
@@ -48,7 +48,7 @@ As plataformas sem código seguem uma abordagem que combina possibilidades tecno
 
 A estrutura de muitas soluções baseia-se em modelos de dados semelhantes a tabelas, que permitem organizar e interligar informações com precisão. A partir desses dados, são criadas visualizações, formulários e áreas interativas que se integram perfeitamente nos seus fluxos de trabalho. 
 
-Para que as suas aplicações não apresentem apenas informações estáticas, tem à sua disposição um potente [Gestão do fluxo de trabalho]({{< relref "pages/industry-solutions/individual" >}}) bem como lógicas. Você define condições, fluxos de trabalho e reações que acionam automaticamente os seus processos, criando assim uma base fiável para tarefas recorrentes. 
+Para que as suas aplicações não apresentem apenas informações estáticas, tem à sua disposição um potente [Gestão do fluxo de trabalho]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) bem como lógicas. Você define condições, fluxos de trabalho e reações que acionam automaticamente os seus processos, criando assim uma base fiável para tarefas recorrentes. 
 
 ![Trabalhar com ferramentas sem código no portátil](frau-an-laptop.jpg)
 

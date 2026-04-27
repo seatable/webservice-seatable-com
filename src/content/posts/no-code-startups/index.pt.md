@@ -49,7 +49,7 @@ Graças ao No-Code, não está dependente de programadores de software externos,
 
 ### Tenha uma solução para tudo
 
-O software empresarial tradicional geralmente cobre apenas uma área (por exemplo, [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [recursos humanos]({{< relref "pages/industry-solutions/hr" >}}) ou [contabilidade]({{< relref "posts/debitorenbuchhaltung" >}})) ou certos processos (por exemplo, [controlo de tempo]({{< relref "templates/projects/project-time-tracking" >}}), [faturação]({{< relref "posts/fakturierung" >}}) ou [apoio ao cliente]({{< relref "posts/no-code-crm" >}})). O No-code, por outro lado, é uma **arma para todos os fins** com a qual pode mapear qualquer processo de forma flexível.
+O software empresarial tradicional geralmente cobre apenas uma área (por exemplo, [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [recursos humanos]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) ou [contabilidade]({{< relref "posts/debitorenbuchhaltung" >}})) ou certos processos (por exemplo, [controlo de tempo]({{< relref "templates/projects/project-time-tracking" >}}), [faturação]({{< relref "posts/fakturierung" >}}) ou [apoio ao cliente]({{< relref "posts/no-code-crm" >}})). O No-code, por outro lado, é uma **arma para todos os fins** com a qual pode mapear qualquer processo de forma flexível.
 
 ### Concentre-se no essencial
 
@@ -116,7 +116,7 @@ Quando funda uma start-up, é provável que, no início, trabalhe sozinho ou em 
 *   [colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) em tempo real
 *   [registo do tempo de trabalho]({{< relref "templates/human-resources/recording-working-time" >}})
 *   [administração do pessoal]({{< relref "posts/20250317-hris" >}})
-*   [recrutamento]({{< relref "posts/20250317-recruiting" >}}) e [gestão de candidatos]({{< relref "pages/bewerbermanagement" >}})
+*   [recrutamento]({{< relref "posts/20250317-recruiting" >}}) e [gestão de candidatos]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 
 ## Modelos adequados para fundar uma empresa em fase de arranque
 

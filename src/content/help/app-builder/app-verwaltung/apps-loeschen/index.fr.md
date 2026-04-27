@@ -41,7 +41,7 @@ Vous **ne pouvez pas récupérer** une application supprimée. Si vous n’êtes
 
 Commençons par le plus important : **la suppression d'une application ne fait jamais perdre de données dans la base sous-jacente**. Techniquement, vous ne supprimez donc qu'une interface utilisateur et _non_ la base de données en arrière-plan.
 
-Veuillez noter, cependant, que lorsque vous supprimez une application universelle, toutes les pages et tous les dossiers qui se trouvent dans **l’application** sont également **définitivement supprimés** et ne peuvent pas _être restaurés_.[]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
+Veuillez noter, cependant, que lorsque vous supprimez une application, toutes les pages et tous les dossiers qui se trouvent dans **l’application** sont également **définitivement supprimés** et ne peuvent pas _être restaurés_.[]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
 
 Lors de la suppression d'une **application de galerie**, _seules_ les **galeries** présentées dans l'application sont supprimées, les **images** restent en revanche conservées dans [les colonnes d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) de vos tableaux.
 

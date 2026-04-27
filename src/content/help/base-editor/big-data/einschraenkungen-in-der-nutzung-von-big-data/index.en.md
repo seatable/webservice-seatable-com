@@ -29,8 +29,8 @@ Big data storage offers you largely **unlimited storage of rows**, but also come
 - [Data processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) are **not** available for big data. The only exception is [compare and join]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). This operation can link entries in the big data store with rows in any other table, regardless of whether the rows are stored in the base or in the big data store.
 - The [Find and Replace]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) function is **not** available.
 
-{{< warning  headline="Many of these limitations of big data do not apply to the Universal App" >}}
+{{< warning  headline="Many of these limitations of big data do not apply to the app" >}}
 
-Most users of big data storage do not feel that their work is affected by these restrictions. However, if you are affected, you can take a look at the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Some of the restrictions mentioned do not apply there.
+Most users of big data storage do not feel that their work is affected by these restrictions. However, if you are affected, you can take a look at the [app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Some of the restrictions mentioned do not apply there.
 
 {{< /warning >}}

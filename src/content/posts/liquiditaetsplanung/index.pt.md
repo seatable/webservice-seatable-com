@@ -52,7 +52,7 @@ Na prática, muitas empresas recorrem a um planeamento de liquidez híbrido, que
 
 ## Como criar um plano de liquidez em 7 passos
 
-Um plano de liquidez bem concebido não é uma ciência espacial - com um sistema claro, pode manter um olho na sua solvência em todos os momentos e criar uma base importante para as decisões de negócios. Porque se souber exatamente quando é que o dinheiro está a entrar e a sair, pode agir com antecipação em vez de reagir em modo de crise. É assim que se cria, passo a passo, um plano de liquidez bem fundamentado para o seu [plano financeiro]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}):
+Um plano de liquidez bem concebido não é uma ciência espacial - com um sistema claro, pode manter um olho na sua solvência em todos os momentos e criar uma base importante para as decisões de negócios. Porque se souber exatamente quando é que o dinheiro está a entrar e a sair, pode agir com antecipação em vez de reagir em modo de crise. É assim que se cria, passo a passo, um plano de liquidez bem fundamentado para o seu [plano financeiro]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}):
 
 1. **Determinar o período de planeamento:** Em primeiro lugar, determinar o período para o qual pretende planear a sua liquidez. Para começar, recomenda-se um planeamento mensal. Para as grandes empresas, o planeamento semanal ou trimestral também pode ser útil, dependendo do dinamismo dos fluxos de caixa.
 
@@ -145,7 +145,7 @@ Além disso, um planeamento claro permite identificar as despesas desnecessária
 
 ## O software certo para o seu plano de liquidez
 
-Uma ferramenta prática para o planeamento da liquidez é a [alternativa Excel]({{< relref "pages/excel-alternative" >}}) SeaTable. Ao contrário das folhas de cálculo tradicionais, o SeaTable combina a flexibilidade das bases de dados relacionais com as funções familiares das folhas de cálculo. Isto permite-lhe organizar o seu planeamento de liquidez de forma clara e dinâmica. Regista as entradas e saídas de pagamentos em quadros ligados, cria visualizações personalizadas com apenas alguns cliques (por exemplo, um quadro Kanban para as partidas em aberto ou uma linha cronológica para os fluxos de pagamento) e avalia os seus números-chave com a ajuda de estatísticas.
+Uma ferramenta prática para o planeamento da liquidez é a [alternativa Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) SeaTable. Ao contrário das folhas de cálculo tradicionais, o SeaTable combina a flexibilidade das bases de dados relacionais com as funções familiares das folhas de cálculo. Isto permite-lhe organizar o seu planeamento de liquidez de forma clara e dinâmica. Regista as entradas e saídas de pagamentos em quadros ligados, cria visualizações personalizadas com apenas alguns cliques (por exemplo, um quadro Kanban para as partidas em aberto ou uma linha cronológica para os fluxos de pagamento) e avalia os seus números-chave com a ajuda de estatísticas.
 
 Graças às fórmulas integradas, o SeaTable calcula automaticamente os seus rácios de liquidez. As regras de cor ajudam-no a identificar imediatamente os valores atípicos ou os períodos críticos. Pode definir lembretes automáticos, por exemplo, para não perder de vista os objectivos de pagamento.
 

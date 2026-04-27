@@ -60,7 +60,7 @@ You define relevant fields, dependencies, notifications etc. in the graphical de
 
 ### ... is the backend for your apps
 
-With SeaTable's intuitive App Builder, you can create any number of [Apps]({{< relref "help/app-builder/app-verwaltung/welche-apps-gibt-es" >}}), i.e. individual front ends for specific user groups, from your database backend. In the [Universal app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) you can give free rein to your creativity.
+With SeaTable's intuitive App Builder, you can create any number of [Apps]({{< relref "help/app-builder/app-verwaltung/welche-apps-gibt-es" >}}), i.e. individual front ends for specific user groups, from your database backend. In the [app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) you can give free rein to your creativity.
 
 SeaTable has a range of page types that you can use to display data in the App Builder in the form of tables, forms, calendars or galleries, among other things. By creating [custom pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can also build dashboards with meaningful statistics from your data and share them with other (external) users.
 

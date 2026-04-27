@@ -76,7 +76,7 @@ Les valeurs par défaut s'appliquent **partout** où vous pouvez créer de nouve
 - dans une [colonne de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - par [bouton]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (action : "Copier une ligne dans un autre tableau")
 - par [automatisation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (actions : "Ajouter une ligne" et "Ajouter une nouvelle entrée dans un autre tableau")
-- dans le [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
+- dans la [vue du calendrier, du Kanban, de la galerie et de l'arborescence]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - via [des formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - sur [les pages de tableaux]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), de [formulaires]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) et [de Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) des apps
 
@@ -92,4 +92,4 @@ En plus des valeurs par défaut définies dans le tableau, vous avez la possibil
 
 ## Valeurs par défaut dans les apps
 
-Les valeurs par défaut définies dans la base affectent également les lignes saisies dans les pages de **tableau, de formulaire et de kanban** des [apps universelles]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Le seul [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) pour lequel vous pouvez tout de même définir des valeurs par défaut dans l'app est la [page de formulaire]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Les paramètres fonctionnent de la même manière que pour les formulaires web : Activez pour cela les curseurs, comme vous pouvez le voir sur la capture d'écran ci-dessus.
+Les valeurs par défaut définies dans la base affectent également les lignes saisies dans les pages de **tableau, de formulaire et de kanban** des [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Le seul [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) pour lequel vous pouvez tout de même définir des valeurs par défaut dans l'app est la [page de formulaire]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Les paramètres fonctionnent de la même manière que pour les formulaires web : Activez pour cela les curseurs, comme vous pouvez le voir sur la capture d'écran ci-dessus.

@@ -79,7 +79,7 @@ De seguida, apresentamos três serviços de computação em nuvem amplamente uti
 
 ### O que é SaaS?
 
-SaaS (Software as a Service) refere-se a **aplicações de software baseadas na nuvem**, como [sistemas de CRM]({{< relref "pages/industry-solutions/kundenmanagement" >}}) ou [ferramentas de gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}). SaaS em computação em nuvem significa que pode utilizar o software pretendido na nuvem em qualquer altura e a partir de qualquer lugar, por exemplo, através de um navegador Web, sem ter de o instalar localmente num dispositivo. O fornecedor de SaaS aloja o software num servidor remoto, mas também se encarrega das cópias de segurança, das actualizações e do trabalho de manutenção.
+SaaS (Software as a Service) refere-se a **aplicações de software baseadas na nuvem**, como [sistemas de CRM]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) ou [ferramentas de gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}). SaaS em computação em nuvem significa que pode utilizar o software pretendido na nuvem em qualquer altura e a partir de qualquer lugar, por exemplo, através de um navegador Web, sem ter de o instalar localmente num dispositivo. O fornecedor de SaaS aloja o software num servidor remoto, mas também se encarrega das cópias de segurança, das actualizações e do trabalho de manutenção.
 
 ### O que é PaaS?
 

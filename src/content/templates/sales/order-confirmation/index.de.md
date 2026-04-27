@@ -98,7 +98,7 @@ Besonders praktisch für die schriftliche Auftragsbestätigung ist das Seitendes
 
 ### Mehr als eine Auftragsbestätigung Vorlage
 
-Sie benötigen auch eine Vorlage für Ihr Angebotoder Ihre Rechnung? Die Auftragsbestätigung ist zum Glück nur einer der unzähligen Anwendungsfälle von SeaTable. Nutzen Sie ebenso wertvolle Zusatzfunktionen: Statistiken ermöglichen Ihnen eine einfache Auswertung von Verkaufszahlen und Umsätzen, während das Galerie-Plugin eine Übersicht über Ihr Produktportfolio bietet. Dank der flexiblen Anpassungsmöglichkeiten von SeaTable können Sie Spalten, Berechnungen und Ansichten individuell auf Ihre Bedürfnisse abstimmen und so eine Anwendung erstellen, die genau zu Ihrem Unternehmen passt.
+Sie benötigen auch eine Vorlage für Ihr Angebotoder Ihre Rechnung? Die Auftragsbestätigung ist zum Glück nur einer der unzähligen Anwendungsfälle von SeaTable. Nutzen Sie ebenso wertvolle Zusatzfunktionen: Statistiken ermöglichen Ihnen eine einfache Auswertung von Verkaufszahlen und Umsätzen, während die Galerie-Ansicht eine Übersicht über Ihr Produktportfolio bietet. Dank der flexiblen Anpassungsmöglichkeiten von SeaTable können Sie Spalten, Berechnungen und Ansichten individuell auf Ihre Bedürfnisse abstimmen und so eine Anwendung erstellen, die genau zu Ihrem Unternehmen passt.
 
 ## Vorteile von SeaTable als Auftragsbestätigung Software
 

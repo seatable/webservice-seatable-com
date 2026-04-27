@@ -191,7 +191,7 @@ A previsão da rentabilidade é uma ferramenta indispensável para avaliar a via
 
 ![previsão de rentabilidade - perspectivas](rentabilitaetsvorschau-ausblick.jpg)
 
-Para acompanhar em permanência o volume de negócios e os custos da sua empresa e poder estimar os lucros ou as perdas, deve elaborar [um plano financeiro]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}). Para o efeito, utilize um software de base de dados potente, como o [SeaTable]({{< relref "/" >}}).
+Para acompanhar em permanência o volume de negócios e os custos da sua empresa e poder estimar os lucros ou as perdas, deve elaborar [um plano financeiro]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}). Para o efeito, utilize um software de base de dados potente, como o [SeaTable]({{< relref "/" >}}).
 
 No SeaTable encontrará todas as funções de uma **folha de cálculo** (por exemplo, um editor de fórmulas de fácil utilização) combinadas com o poder de uma **base de dados sem código** e um intuitivo [App Builder]({{< relref "posts/20250318-app-erstellen" >}}). Assim, nada se interpõe no caminho de uma previsão de rentabilidade clara.
 

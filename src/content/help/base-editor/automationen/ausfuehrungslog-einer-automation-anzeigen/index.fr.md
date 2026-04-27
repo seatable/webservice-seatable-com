@@ -14,9 +14,7 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Entreprise" >}}
-
-Pour vérifier **la bonne exécution d'une automatisation**, vous avez la possibilité de consulter **l'historique d'exécution**. SeaTable y consigne les informations suivantes pour chaque exécution d'automatisation : heure d'exécution, condition d'exécution, état et avertissements éventuels.
+Pour vérifier **la bonne exécution d'une automatisation**, vous avez la possibilité de consulter **l'historique d'exécution**. SeaTable y consigne les informations suivantes pour chaque exécution d'automatisation : heure d'exécution, condition d'exécution, état et avertissements éventuels. En outre, il existe une **statistique globale** de tous les cycles d'automatisation.
 
 {{< warning  headline="Remarque importante"  text="Chaque exécution d'un automatisme est appelée **cycle d'automatisation**." />}}
 
@@ -45,3 +43,12 @@ Le statut indique si l'automatisation a été exécutée avec succès. Si c'est 
 
 **Avertissements**  
 S'il y a eu des problèmes lors de l'exécution d'une automatisation, un message d'avertissement correspondant apparaît ici.
+
+## Statistique de tous les cycles d'automatisation
+
+Vous pouvez également consulter les statistiques sur **le nombre total d'exécutions d'automation dans la base**, indépendamment des règles d'automation individuelles. Vous pouvez ainsi savoir à quelle fréquence vos règles d'automatisation sont déclenchées et combien de cycles d'automatisation disponibles dans votre abonnement mensuel vous avez déjà utilisés.
+
+1. Dans l'éditeur d'automatisation ouvert, cliquez sur **Statistique** en haut à droite.
+![ouvrez les statistiques d'automatisation](images/open-automation-statistic.png)
+2. Une fenêtre s'ouvre alors, dans laquelle vous pouvez voir le **nombre d'automations exécutées par jour**.
+![statistiques d'exécution des automatismes](images/automation-statistic.png)

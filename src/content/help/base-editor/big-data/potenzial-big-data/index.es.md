@@ -36,4 +36,4 @@ Como ya se ha mencionado, el almacenamiento de big data debe activarse en una ba
 
 La memoria big data es una característica única que no encontrará en otras soluciones sin código o de bajo código. Mientras que otras plataformas y proveedores tienen límites superiores duros y límites para el número máximo de líneas, SeaTable no le restringe en su trabajo.
 
-La función de big data permite implementar procesos y aplicaciones que no serían posibles con [Airtable]({{< relref "pages/airtable-alternative" >}}), por ejemplo. Pruébelo usted mismo. Se sorprenderá del potencial y las posibilidades que ofrece el almacenamiento de big data.
+La función de big data permite implementar procesos y aplicaciones que no serían posibles con [Airtable]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}), por ejemplo. Pruébelo usted mismo. Se sorprenderá del potencial y las posibilidades que ofrece el almacenamiento de big data.

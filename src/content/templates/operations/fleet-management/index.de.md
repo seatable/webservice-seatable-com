@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Fuhrparkverwaltung'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihre Fuhrparkverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Flottenalltag, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Auswertungen, Optimierung und strategische Entscheidungen im Fuhrparkmanagement.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihre Fuhrparkverwaltung auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Flottenalltag, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Auswertungen, Optimierung und strategische Entscheidungen im Fuhrparkmanagement.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Mit Classify ordnen Sie neue Fahrzeuge oder Buchungsanfragen automatisch nach **Typ, Einsatzbereich oder Standort** zu. So landen Datensätze direkt in der richtigen Kategorie und Sie sehen sofort, welche Teile Ihrer Flotte besonders stark genutzt werden.'
@@ -165,7 +165,7 @@ sections:
       box-position: [right!]
       items:
       - headline: Alternative zu Excel
-        text: 'Mit SeaTable verwalten Sie Ihren Fuhrpark effizienter als in Excel – mit verknüpften Tabellen, Ansichten und Automatisierungen. Eine leistungsstarke [Alternative zu Excel]({{< relref "pages/excel-alternative" >}}).'
+        text: 'Mit SeaTable verwalten Sie Ihren Fuhrpark effizienter als in Excel – mit verknüpften Tabellen, Ansichten und Automatisierungen. Eine leistungsstarke [Alternative zu Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
       - headline: Digitales Fahrtenbuch 
         text: 'Nutzen Sie SeaTable, um ein [digitales Fahrtenbuch]({{< relref "posts/fahrtenbuch" >}}) zu führen und Fahrten direkt mit Ihrer Fuhrparkverwaltung zu verknüpfen – so behalten Sie Nutzung und Kosten im Blick.'
       - headline: DSGVO-konform

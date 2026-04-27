@@ -36,9 +36,9 @@ Wenn Sie die ersten Schritte erfolgreich gemeistert und Ihre ersten Bases erscha
 
 ## Tabellen und Ansichten in einer Base
 
-Die Tabelle ist die wichtigste Ebene, auf der Sie Ihre Daten in SeaTable organisieren können, vergleichbar mit einem Arbeitsblatt in einer Tabellenkalkulation. Grundsätzlich stellen **Tabellen** in der Organisationsstruktur von SeaTable die nächste Ebene unterhalb von [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) dar.
+Die Tabelle ist die wichtigste Ebene, auf der Sie Ihre Daten in SeaTable organisieren können, vergleichbar mit einem Arbeitsblatt in einer Tabellenkalkulation. Grundsätzlich stellen **Tabellen** in der Organisationsstruktur von SeaTable die nächste Ebene unterhalb von Bases dar.
 
-Da es sich bei SeaTable um eine **relationale Datenbank**\-Software handelt, können Sie Informationen in verschiedenen Tabellen einer Base über [Verknüpfungen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [Automationen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) und andere Funktionen miteinander verbinden.
+Da es sich bei SeaTable um eine [relationale Datenbank]({{< relref "posts/relationale-datenbank" >}}) handelt, können Sie Informationen in verschiedenen Tabellen einer Base über [Verknüpfungen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [Automationen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) und andere Funktionen miteinander verbinden.
 
 Eine Tabelle besteht aus Zeilen und Spalten. Alle Einträge in einer **Zeile** bilden dabei einen zusammenhängenden **Datensatz**. Die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
 ) in SeaTable definieren, welche **Datentypen** Sie in einer **Spalte** erfassen können.

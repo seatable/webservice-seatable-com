@@ -31,7 +31,7 @@ Dementsprechend versteht man unter Citizen Development die strukturierte Vorgehe
 
 > Der Begriff des Citizen Developers setzt sich aus den englischen Wörtern für **„bürgerlicher Entwickler“** zusammen und ist bewusst im Kontrast zu professionellen Entwicklern gewählt.
 
-Ein Citizen Developer kann entweder als einzelner **Experte** auf seinem Fachgebiet oder als Mitglied einer **Taskforce** agieren. In einem kleinen Unternehmen oder Start-up ohne eigene [IT]({{< relref "pages/industry-solutions/software-development" >}}) ist ein Citizen Developer vor allem jemand, der selbstständig und mit geringem Budget zweckmäßige IT-Lösungen entwickelt.
+Ein Citizen Developer kann entweder als einzelner **Experte** auf seinem Fachgebiet oder als Mitglied einer **Taskforce** agieren. In einem kleinen Unternehmen oder Start-up ohne eigene [IT]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) ist ein Citizen Developer vor allem jemand, der selbstständig und mit geringem Budget zweckmäßige IT-Lösungen entwickelt.
 
 ![Citizen Development funktioniert ohne Programmieren](citizen-development.jpg)
 

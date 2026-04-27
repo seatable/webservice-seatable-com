@@ -29,7 +29,7 @@ To use a model in the AI Chat Plugin, you need an API key from the respective pr
 
 - **Anthropic**: Create an API key at [console.anthropic.com](https://console.anthropic.com/).
 - **OpenAI**: Create an API key at [platform.openai.com](https://platform.openai.com/).
-- **Mistral**: Create an API key at [console.mistral.ai](https://console.mistral.ai/).
+- **Mistral**: Create an API key at [v2.auth.mistral.ai/login](https://v2.auth.mistral.ai/login).
 
 All three providers require you to add a payment method. Costs are based on the number of tokens processed and are billed directly by the provider.
 

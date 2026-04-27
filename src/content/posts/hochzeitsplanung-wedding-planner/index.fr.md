@@ -1,5 +1,5 @@
 ---
-title: 'Organiser un mariage parfait avec SeaTable - SeaTable'
+title: 'Organiser un mariage parfait avec SeaTable'
 description: 'Organiser un mariage demande du temps et de la méthode. SeaTable vous aide avec une checklist de plus de 200 tâches, des comparaisons de prestataires, une liste d’invités et la gestion des places. Suivez vos dépenses et collectez vos idées pour que le plus beau jour de votre vie reste inoubliable.'
 date: 2021-07-22
 lastmod: '2023-07-11'

@@ -6,6 +6,13 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/ru/pomoshch/vid-kalendarya'
+aliases:
+    - '/ru/pomoshch/kalendarnyy-plugin-seatable'
+    - '/ru/pomoshch/anleitung-zum-kalender-plugin'
+    - '/ru/pomoshch/neskolko-kalendarej-v-odnoj-baze-seatable'
+    - '/ru/pomoshch/mehrere-kalender-fuer-eine-base-anlegen'
+    - '/ru/pomoshch/dobavit-sobytiya-kalendar-plugin-seatable'
+    - '/ru/pomoshch/neue-kalendereintraege-im-kalender-plugin-anlegen'
 seo:
     title: 'Представление календаря в SeaTable – используйте хронологический обзор'
     description: 'Представление календаря в SeaTable отображает Ваши встречи по годам, месяцам, неделям, дням или в ежедневнике. Полная настройка и советы.'

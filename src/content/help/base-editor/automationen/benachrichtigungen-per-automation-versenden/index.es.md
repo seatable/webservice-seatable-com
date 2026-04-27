@@ -14,8 +14,6 @@ seo:
 
 ---
 
-{{< required-version "Empresa" >}}
-
 Si dispone de una suscripción Enterprise, también puede enviar notificaciones a usuarios seleccionados mediante automatización. Basta con definir una regla de automatización correspondiente para cualquier vista de tabla.
 
 ## Enviar notificaciones mediante automatización

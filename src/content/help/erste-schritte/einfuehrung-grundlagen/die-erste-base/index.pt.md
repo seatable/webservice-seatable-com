@@ -35,7 +35,7 @@ A nova Base contém uma [tabela]({{< relref "help/erste-schritte/einfuehrung-fun
 
 O SeaTable oferece um total de [mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Provavelmente já está familiarizado com as colunas de texto, número e data das folhas de cálculo convencionais. Naturalmente, o SeaTable também as conhece. Além disso, o SeaTable oferece colunas para imagens e ficheiros, botões e caixas de verificação, bem como campos de seleção única e múltipla.
 
-Quer adicionar fotografias a uma entrada? Basta arrastar a imagem para uma coluna de imagens e o SeaTable guarda-a directamente na mesa. Em SeaTable tem todos os seus dados no mesmo lugar!
+Quer adicionar fotografias a uma entrada? Basta arrastar a imagem para uma coluna de imagens e o SeaTable guarda-a directamente na tabela. Em SeaTable tem todos os seus dados no mesmo lugar!
 
 Outro tipo de coluna com que não está familiarizado numa folha de cálculo é a [ligação a outras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Com as ligações, criam-se relações entre linhas de diferentes tabelas. Este procedimento, que corresponde à forma como as bases de dados relacionais funcionam, evita entradas duplas, assegura a consistência dos dados e cria uma síntese.
 

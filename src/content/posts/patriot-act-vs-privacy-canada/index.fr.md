@@ -83,6 +83,6 @@ Pas encore convaincu ? Pour plus d'informations sur SeaTable, consultez le [site
 
 ### Conseil pour les utilisateurs d'Airtable
 
-Vous trouverez [ici]({{< relref "pages/airtable-alternative" >}}) une comparaison détaillée d'Airtable et de SeaTable. En tant qu'utilisateur d'Airtable, vous avez en outre la possibilité de migrer facilement toutes les données de vos bases vers SeaTable à l'aide d'un script, sans connaissances en programmation. [Cet article d'aide]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}) explique comment cela fonctionne.
+Vous trouverez [ici]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}) une comparaison détaillée d'Airtable et de SeaTable. En tant qu'utilisateur d'Airtable, vous avez en outre la possibilité de migrer facilement toutes les données de vos bases vers SeaTable à l'aide d'un script, sans connaissances en programmation. [Cet article d'aide]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}) explique comment cela fonctionne.
 
 {{< warning headline="Clause de non-responsabilité" text="Les lois sur la protection des données varient d'une région à l'autre et peuvent être modifiées à tout moment. Malgré des recherches approfondies, cet article ne remplace pas un conseil juridique obligatoire dans votre pays. Nous ne pouvons donc pas être tenus responsables d'éventuelles erreurs d'appréciation juridique." />}}

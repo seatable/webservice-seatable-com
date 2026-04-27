@@ -29,16 +29,16 @@ Basicamente, pode testar as suas aplicações em qualquer altura, abrindo-as no 
 
 ![Abrir a aplicação](images/App-oeffnen-1.png)
 
-## Abrir a pré-visualização no Universal App Builder
+## Abrir a pré-visualização no App Builder
 
 Também pode ver o estado atual da sua aplicação em qualquer altura no **modo de edição** do App Builder.
 
-1. Passe o rato sobre a aplicação universal e clique no **ícone de lápis que** aparece {{< seatable-icon icon="dtable-icon-rename" >}} para a abrir no modo de edição.
+1. Passe o rato sobre a aplicação e clique no **ícone de lápis que** aparece {{< seatable-icon icon="dtable-icon-rename" >}} para a abrir no modo de edição.
 
 ![Editar aplicações](images/Apps-bearbeiten.png)
 
 3. Clique no **símbolo do olho** no canto superior esquerdo da página.
 
-![Abrir a pré-visualização da aplicação de uma aplicação universal](images/open-app-preview-of-the-universal-app.png)
+![Abrir a pré-visualização da aplicação de uma aplicação](images/open-app-preview-of-the-universal-app.png)
 
 5. A **pré-visualização da aplicação** abre-se numa nova janela.

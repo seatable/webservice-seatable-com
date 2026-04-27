@@ -34,4 +34,4 @@ Sólo los **propietarios** y **administradores** pueden editar los ajustes de fe
 
 Un ajuste en la configuración de la fecha hace que el día seleccionado pase a la primera columna en el control de calendario de [Columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). Esto se aplica a la base actualmente abierta y a todas las aplicaciones basadas en ella.
 
-En [el plugin de calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) y en [la página de calendario en aplicaciones]{{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), sin embargo, aún puede configurar el primer día de la semana de forma individual e independiente de la configuración en la base.
+En [la vista de calendario]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) y en [la página de calendario en aplicaciones]{{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), sin embargo, aún puede configurar el primer día de la semana de forma individual e independiente de la configuración en la base.

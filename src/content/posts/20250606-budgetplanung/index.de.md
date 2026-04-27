@@ -35,7 +35,7 @@ Bei der Budgetierung – auch Budgetplanung oder Budgetverteilung genannt – ge
 
 ## Die Budgetierung geht mit der Finanzplanung einher
 
-Die **operative Budgetplanung** ist ein Teil der kurzfristigen [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}), bei der Sie Ihre künftigen Einnahmen sowie Ausgaben für das kommende Jahr schätzen. Dabei ziehen Sie die Daten des laufenden und/oder vergangenen Geschäftsjahres heran, um Prognosen für die zukünftige Entwicklung abzuleiten. Im Gegensatz zum [Finanzplan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) fokussiert sich die Budgetierung in der Regel auf die Ausgabenseite – unabhängig davon, woher das Geld kommt.
+Die **operative Budgetplanung** ist ein Teil der kurzfristigen [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}), bei der Sie Ihre künftigen Einnahmen sowie Ausgaben für das kommende Jahr schätzen. Dabei ziehen Sie die Daten des laufenden und/oder vergangenen Geschäftsjahres heran, um Prognosen für die zukünftige Entwicklung abzuleiten. Im Gegensatz zum [Finanzplan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) fokussiert sich die Budgetierung in der Regel auf die Ausgabenseite – unabhängig davon, woher das Geld kommt.
 
 Auch eine **strategische Budgetplanung** für die nächsten zwei bis fünf Jahre ist durchaus üblich. Diese hilft Ihnen bei langfristigen Geschäftsentscheidungen, die Ihr Unternehmen voranbringen und den Erfolg sichern sollen, wie zum Beispiel die Eröffnung neuer Standorte. Je weiter der Planungshorizont in der Zukunft liegt, desto schwieriger und unsicherer ist allerdings die genaue Prognose.
 
@@ -116,7 +116,7 @@ Die Budgetplanung für das gesamte Unternehmen setzt sich aus den Teilbudgets al
 
 Um die Budgetierung nachvollziehbar zu gestalten, ist es wichtig, alle Abteilungen frühzeitig in die Budgetplanung einzubeziehen. Wichtige Bereiche sind die Personal Budgetplanung (Recruiting, Gehälter etc.), die Marketing-Budgetplanung und die IT-Budgetplanung. Diese Abteilungen verwalten meist hohe eigene Budgets und sind für die strategische Budgetplanung unverzichtbar.
 
-Im Folgenden sehen wir uns die Budgetplanung in der [IT]({{< relref "pages/industry-solutions/software-development" >}}) und im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) genauer an. Wenn Sie sich für die [Personalplanung]({{< relref "personalplanung" >}}) oder den [Marketingplan]({{< relref "posts/20250318-marketingplan" >}}) interessieren, klicken Sie für weiterführende Informationen auf die verlinkten Artikel.
+Im Folgenden sehen wir uns die Budgetplanung in der [IT]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) und im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) genauer an. Wenn Sie sich für die [Personalplanung]({{< relref "personalplanung" >}}) oder den [Marketingplan]({{< relref "posts/20250318-marketingplan" >}}) interessieren, klicken Sie für weiterführende Informationen auf die verlinkten Artikel.
 
 ### IT Budgetplanung
 
@@ -154,7 +154,7 @@ Auf Basis dieser Analysen und Ziele kommunizieren die Manager im Bottom-Up-Verfa
 
 ## Erstellen Sie Ihre Budgetpläne mit SeaTable
 
-Viele nutzen für Ihre Budgetplanung [Excel-Tabellen]({{< relref "pages/excel-alternative" >}}), die allerdings nur begrenzte Funktionen und Darstellungsmöglichkeiten bieten. In **SeaTable** können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und direkt mit der oben gezeigten Vorlage starten. In solch einer zentralen Datenbank können Sie alle Kostenstellen, Ziele, Budgets und Ausgaben bündeln und auswerten.
+Viele nutzen für Ihre Budgetplanung [Excel-Tabellen]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}), die allerdings nur begrenzte Funktionen und Darstellungsmöglichkeiten bieten. In **SeaTable** können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und direkt mit der oben gezeigten Vorlage starten. In solch einer zentralen Datenbank können Sie alle Kostenstellen, Ziele, Budgets und Ausgaben bündeln und auswerten.
 
 Geben Sie Ihren Führungskräften Budgetverantwortung und nutzen Sie **SeaTable als Kollaborationstool**, um mit mehreren Abteilungen gleichzeitig an der Budgetierung zu arbeiten. So können Sie den Budgetplan im Laufe des Jahres anpassen, die **Erfassung der Ausgaben in Echtzeit verfolgen** und stets den Überblick über das aktuelle Budget behalten.
 

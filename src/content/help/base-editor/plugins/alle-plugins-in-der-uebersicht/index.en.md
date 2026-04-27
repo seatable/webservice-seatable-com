@@ -10,53 +10,22 @@ aliases:
     - '/help/alle-plugins-in-der-uebersicht'
 seo:
     title: 'SeaTable Plugins: Top Extensions at a Glance'
-    description: 'All SeaTable plugins explained: Calendar, Gallery, Kanban, Whiteboard, SQL, Map, Org Chart, Table Relationships – features, benefits & tips.'
+    description: 'All SeaTable plugins explained: AI chat, Whiteboard, SQL, Page design, Maps, Org chart, Table relationships – features, benefits & tips.'
 star: true
 weight: 1
 ---
 
-SeaTable **plugins** give you the opportunity to see your data from a completely different perspective. Visualize appointments, tasks and locations and create laid-out documents and profiles from your data. In the following article, we explain which plugins are available in SeaTable and how you can use them.
+SeaTable **plugins** give you the opportunity to see your data from completely different perspectives and use extended functions. For example, visualize locations, org charts and table relationships, create laid-out documents or set up an AI chat in your base. In the following article, we explain which plugins are available in SeaTable and how you can use them.
 
-![Overview graphic showing icons for all SeaTable plugins](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![Overview graphic showing icons for all SeaTable plugins](images/overview-all-plugins.gif)
 
 ## What is a plugin?
 
-In SeaTable you can create different **views** for your tables, where you can [filter]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) data as you wish.
+In SeaTable you can create different [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) for your tables, with which you can visualize your data, for example, in **calendars**, **galleries** and **tree diagrams**. Beyond that, there are plugins.
 
-A **plugin** is an optional software component in SeaTable that offers you additional display options. Various plugins can be activated in each base, which display the data of the respective tables and views in **calendars**, **documents** or **galleries**, for example. Read more about [how to activate a plug]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})in in the linked help article.
+A **plugin** is an optional software component in SeaTable that offers you additional functions. Various plugins can be activated in each base, which display the data of the respective table, for example on **maps**, in **org charts** or **documents**. You can also use extended functions to track **duplicates**, set up an **AI chat**, or let your creativity run free on the **whiteboard**.
 
-## Calendar plugin
-
-In the calendar plugin you can display dates from a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a **year**, **month**, **week**, **day** or **agenda view**. You can also use two date columns to display **time spans** and keep track of all important dates, etc.
-
-![Calendar plugin showing appointments in month view](images/Calendar.png)
-
-[More about the calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
-
-These articles may also be of interest to you:
-
-- [Create multiple calendars for one base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
-- [Create new calendar entries in the calendar plugin]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
-
-## Timeline plugin
-
-The timeline plugin represents different periods of time in the form of a **timeline** by a start and end date or by a start date and duration. This way you can keep a good overview of parallel running projects or overlapping appointments. Also for vacation planning in the team and for the occupancy planning of rooms this plugin is excellent.
-
-![Timeline plugin with timeline for projects and periods](images/projektmanagement-timeline.png)
-
-[More about the timeline plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
-
-## Gallery plugin
-
-The gallery plugin is particularly suitable for displaying records with **images**, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Below the images, the entries of a column are displayed as **titles**. In addition, it is possible to show more columns of the table in this plugin and thus supplement the images with more information from the data sets. Especially for creative and artistic projects this is very helpful to summarize all information at a glance.
-
-![Gallery plugin with images and titles below thumbnails](images/Galerie.png)
-
-[More about the gallery plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
-
-This article might also be interesting for you:
-
-- [A new row via the gallery plugin]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
+Read more about [how to activate a plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) in the linked help article.
 
 ## Map plugin
 
@@ -70,7 +39,7 @@ This article might also be interesting for you:
 
 The data deduplication plugin uncovers **duplicate entries** in a table. This is especially helpful with large amounts of data to detect duplicates and remove them. You can delete all duplicate entries with just one click.
 
-![Data deduplication plugin showing list of duplicate entries](images/Deduplication.png)
+![Data deduplication plugin showing list of duplicate entries](images/deduplication-plugin.jpg)
 
 [More about the data duplication plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
@@ -81,14 +50,6 @@ Using the Page Design plugin, you can layout **documents** such as form letters,
 ![Page design plugin with laid-out documents from table data](images/Pagedesign.png)
 
 [More about the page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-## Kanban plugin
-
-With the Kanban plugin you can display table entries on a **Kanban board**. Each entry is visualized with a card and can be moved between different columns. You can use the Kanban method in agile **project and workflow management**. By visualizing **tasks** grouped by status or project phase, you gain an excellent overview of the progress of workflows.
-
-![Kanban plugin with cards in columns for different statuses](images/Kanban-Plugin.png)
-
-[More about the Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## SQL query plugin
 
@@ -118,9 +79,23 @@ You can use the organization chart plugin to display **hierarchies** between the
 
 Especially when there are many tables with dozens of columns in a base, it is easy to lose track of how they relate to each other. Using the table relationships plugin, you can visualize **which tables are linked to each other via which columns**.
 
-![Table relationships plugin with lines between linked tables](images/Table-Relationships-Plugin.png)
+![Table relationships plugin with lines between linked tables](images/table-relationship-plugin.png)
 
 [More about the table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
+
+## Report design plugin
+
+With this plugin you can create **multi-page reports** in which tables, charts and fields are dynamically fed with data from your base. It is similar to the page design plugin in that it also creates **PDF documents based on laid-out templates**. However, the static and dynamic elements are not positioned pixel-precisely on the template, but placed one below the other in sequence, like in a **word processor** (e.g. Microsoft Word or Google Docs).
+
+![The report design plugin](images/report-design-plugin-example.png)
+
+## AI chat plugin
+
+The latest plugin from SeaTable is absolutely in tune with the times. It allows you to set up an **AI chat** with your preferred language model. This way you can edit and analyze your bases in natural language, e.g. create records, change values, link rows or create analyses.
+
+![Set up AI chat plugin in SeaTable](images/ai-chat-plugin.png)
+
+[More about the AI chat plugin]({{< relref "help/ai/ai-chat/introduction" >}})
 
 ## Other helpful articles
 

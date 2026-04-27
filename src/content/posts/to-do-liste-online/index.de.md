@@ -18,7 +18,7 @@ Eine online nutzbare To do Liste mit einer App zu erstellen und zu verwalten bri
 
 ## Wofür Sie eine To-do-Liste brauchen
 
-Privat zuhause wie im professionellen [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) gilt es, alle anstehenden Aufgaben im Blick zu behalten und diese nach und nach abzuarbeiten. In einer To-do-Liste erfassen Sie zuallererst Ihre konkreten **Aufgaben**. Daraufhin definieren Sie gegebenenfalls **Unteraufgaben** oder übergreifende **Kategorien**, legen **Zuständigkeiten** fest und setzen **Fristen**.
+Privat zuhause wie im professionellen [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) gilt es, alle anstehenden Aufgaben im Blick zu behalten und diese nach und nach abzuarbeiten. In einer To-do-Liste erfassen Sie zuallererst Ihre konkreten **Aufgaben**. Daraufhin definieren Sie gegebenenfalls **Unteraufgaben** oder übergreifende **Kategorien**, legen **Zuständigkeiten** fest und setzen **Fristen**.
 
 Mithilfe eines **Status** können Sie kennzeichnen, ob ein To-do in Bearbeitung oder erledigt ist. Auch ein Schwebezustand ist denkbar, wenn Sie auf Antwort oder Input warten. Zudem sollten Sie Ihre To-dos nach **Priorität** ordnen, um immer die wichtigsten Aufgaben zuerst anzugehen.
 
@@ -70,7 +70,7 @@ Eine Verknüpfung mit Ihrem Kalender, einem Sprachassistenten auf dem Smartphone
 
 ### Microsoft To Do: Die vielseitige App für Ihre To-do-Liste
 
-Mit [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/) erhalten Sie sowohl einen Tagesplaner als auch ein Tool für Aufgaben- und [Einkaufslisten]({{< relref "posts/einkaufsliste" >}}). Sie können Aufgaben aus Outlook einbinden und von allen Endgeräten synchron an einer Liste arbeiten.
+Mit [Microsoft To Do](https://to-do.office.com/tasks/de-de/) erhalten Sie sowohl einen Tagesplaner als auch ein Tool für Aufgaben- und [Einkaufslisten]({{< relref "posts/einkaufsliste" >}}). Sie können Aufgaben aus Outlook einbinden und von allen Endgeräten synchron an einer Liste arbeiten.
 
 Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken. Erinnerungen und sich wiederholende Aufgaben sind ebenfalls möglich. Über den Listenmodus hinaus gibt es allerdings keine erweiterten Optionen zur Visualisierung, dafür benötigen Sie dann den Planner.
 
@@ -98,7 +98,7 @@ Die Erinnerungen lassen sich in jeder Liste übersichtlich sortieren und in Absc
 
 ## SeaTable: Der Allrounder für alle Arten von Listen
 
-SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), den [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) oder ein [Gantt-Diagramm]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) verwenden.
+SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), den [Kalender]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) oder ein [Gantt-Diagramm]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) verwenden.
 
 Interessant ist außerdem, dass Sie [Dateien]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) und [Bilder]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) hochladen und an Aufgaben anhängen können. Ebenso können Sie beliebig viele Informationen wie ein Datum, eine Priorität und Unteraufgaben in weiteren Spalten hinzufügen.
 

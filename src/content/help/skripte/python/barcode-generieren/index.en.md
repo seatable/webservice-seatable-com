@@ -12,9 +12,22 @@ seo:
 ---
 
 
-This script converts text values (e.g., product IDs, serial numbers) into barcode images using the Code 128 format and saves them as images in SeaTable. Only rows without an existing barcode are processed.
+This script converts text values (e.g. product IDs, serial numbers) into barcode images in Code 128 format and stores them as images in SeaTable. The script iterates through all rows and skips those that already have a barcode. It is suitable for manual execution or as an automation.
 
-## The complete script
+![Barcode Generator in SeaTable](barcode-generator.png)
+
+{{< dtable-download name="Barcode Generator" file="/downloads/python-examples/barcode-generator.dtable" text="Base with sample data and ready-made script to try out directly." />}}
+
+## Prerequisites
+
+The table requires at least two columns:
+
+- A **text column** with the value to be encoded as a barcode (e.g. "Product ID")
+- An **image column** where the generated barcode will be stored (e.g. "Barcode")
+
+## The script
+
+Adjust the three variables at the beginning to match your table structure. You can customize the barcode appearance via the `options` (width, height, font size, etc.).
 
 ```python
 from seatable_api import Base, context
@@ -43,12 +56,20 @@ for row in rows:
     rv.write(buf, options={"module_width": 0.4, "module_height": 10, "quiet_zone": 1, "font_size": 10, "text_distance": 2})
     buf.seek(0)
 
-    info = base.upload_bytes_file(str(text) + '.png', buf.read())
+    info = base.upload_bytes_file(str(text) + '.png', buf.read(), file_type='image')
     base.update_row(TABLE_NAME, row['_id'], {IMAGE_COLUMN: [info.get('url')]})
 
 print("Barcodes generated.")
 ```
 
-Adjust `TEXT_COLUMN` and `IMAGE_COLUMN` to match your column names. You can customize the barcode appearance by modifying the options (module_width, module_height, font_size, etc.).
+## Execution
+
+The script can be started in three ways:
+
+- **Manually** in the Python editor of the base
+- **Via automation** (e.g. scheduled or on new rows)
+- **Via button** — for this the script would need to be adapted to process only the current row
+
+Learn more about this [here]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
 
 For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

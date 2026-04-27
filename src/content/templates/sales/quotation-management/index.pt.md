@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'Criação de propostas com base em IA com o SeaTable'
       subtitle: 'Automação inteligente'
-      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/ai-automations" >}}), que aceleram a criação e gestão das suas propostas. Automatize tarefas recorrentes, reduza erros e ganhe mais tempo para conversas de vendas, independentemente de utilizar um modelo de proposta para pequenos empresários ou modelos de propostas profissionais para negócios B2B complexos. O modelo de redação de propostas pode ser combinado com fluxos de trabalho de IA para gerar automaticamente propostas qualificadas a partir de consultas.'
+      description: 'Com o SeaTable, beneficia de poderosas [funcionalidades de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que aceleram a criação e gestão das suas propostas. Automatize tarefas recorrentes, reduza erros e ganhe mais tempo para conversas de vendas, independentemente de utilizar um modelo de proposta para pequenos empresários ou modelos de propostas profissionais para negócios B2B complexos. O modelo de redação de propostas pode ser combinado com fluxos de trabalho de IA para gerar automaticamente propostas qualificadas a partir de consultas.'
       items:
       - headline: 'Blocos de texto automáticos com Classify'
         text: 'Classifique automaticamente as solicitações de orçamento. A função de IA "Classify" reconhece categorias de produtos, setores ou regiões e adiciona blocos de texto adequados, bem como responsabilidades.'
@@ -176,7 +176,7 @@ sections:
       - q: "Posso utilizar gratuitamente o modelo de propostas da SeaTable?"
         a: 'Sim, pode utilizar gratuitamente o modelo para escrever propostas. Basta criar uma conta gratuita no SeaTable e adicionar o modelo de proposta à sua base para criar propostas diretamente online – também como modelo de proposta para pequenos empresários sem identificação fiscal. O modelo para escrever propostas é, portanto, uma introdução ideal a um processo de proposta digital.'
       - q: "O SeaTable é uma alternativa ao modelo de oferta no Excel?"
-        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Excel]({{< relref "pages/excel-alternative" >}}) especialmente para processos colaborativos de apresentação de propostas. Ao contrário de um modelo de proposta em Excel, várias pessoas podem trabalhar simultaneamente, deixar comentários e utilizar funções de IA.'
+        a: 'Sim, o SeaTable é uma [alternativa eficaz ao Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) especialmente para processos colaborativos de apresentação de propostas. Ao contrário de um modelo de proposta em Excel, várias pessoas podem trabalhar simultaneamente, deixar comentários e utilizar funções de IA.'
       - q: "É possível importar o meu modelo de oferta existente do Excel para o SeaTable?"
         a: 'Sim, é possível importar o seu modelo de oferta existente em Excel como .xlsx, .xls ou CSV e, em seguida, ajustar a estrutura. Depois disso, poderá beneficiar de ligações, fórmulas, automatizações e criação de PDF diretamente a partir do SeaTable. Desta forma, poderá migrar o seu modelo de oferta existente, passo a passo, para um sistema moderno e colaborativo.​'
       - q: "É possível guardar ofertas diretamente como PDF e enviá-las por e-mail?"

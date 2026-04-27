@@ -17,7 +17,7 @@ register:
 
 ## Porque precisa de uma estratégia de vendas
 
-Sem uma estratégia de vendas clara, o seu departamento de vendas (e, em certa medida, o seu departamento de [marketing]({{< relref "pages/industry-solutions/marketing" >}})) não terá orientação. As medidas não resultam em nada ou não contribuem para o objetivo da empresa. Só com uma estratégia formulada, documentada e comunicada é que o seu departamento de vendas pode direcionar-se para os [clientes]({{< relref "pages/industry-solutions/kundenmanagement" >}}) e adaptar-se facilmente às mudanças nas condições do mercado.
+Sem uma estratégia de vendas clara, o seu departamento de vendas (e, em certa medida, o seu departamento de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})) não terá orientação. As medidas não resultam em nada ou não contribuem para o objetivo da empresa. Só com uma estratégia formulada, documentada e comunicada é que o seu departamento de vendas pode direcionar-se para os [clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) e adaptar-se facilmente às mudanças nas condições do mercado.
 
 As desvantagens mais graves de uma estratégia de vendas inexistente são:
 

@@ -14,21 +14,23 @@ seo:
 weight: 27
 ---
 
-With the help of the **rows-format tool** you can set colored markings at the beginning of rows. The **color marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.
+The **color marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.
 
-## The rows-format tool
+## The row color tool
 
 In the view options above a table you will find the following icon:
 
 ![Color Marking Tool](images/Farbliche-Markierung-von-Zellen-1.png)
 
-After clicking on the rows-format tool, you can choose between **three options** for color highlighting:
+After clicking on the row color tool, you can choose between **three options** for color highlighting:
 
 - Use single selection column
 - Use rules
 - Highlight duplicates
 
 ![Color marking of cells](images/Farbliche-Markierung-von-Zellen-2.png)
+
+The row color tool is available not only in table views, but also in [calendar]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) and [timeline views]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}). However, for the latter you can only use single select columns to define the row color.
 
 ## Use single select column
 

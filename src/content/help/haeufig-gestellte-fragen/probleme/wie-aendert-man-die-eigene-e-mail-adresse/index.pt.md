@@ -1,5 +1,5 @@
 ---
-title: 'Como alterar o seu endereço de correio electrónico? - Mesa do mar'
+title: 'Como alterar o seu endereço de correio electrónico?'
 date: 2023-05-11
 lastmod: '2023-08-22'
 categories:

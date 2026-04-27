@@ -40,7 +40,7 @@ Herramientas para la planificación de eventos las hay a montones. Por eso, eleg
 
 ### LineUpr
 
-[LineUpr](https://lineupr.com/) es una aplicación de eventos basada en navegador de Alemania que ha sido apreciada por su facilidad de uso y flexibilidad desde que se fundó en 2016. Incluso sin instalación, ofrece una solución sencilla para proporcionar a los participantes toda la información relevante, desde programas y detalles de ubicación hasta perfiles de alineación, páginas informativas y noticias.
+[LineUpr](https://lineupr.com/es) es una aplicación de eventos basada en navegador de Alemania que ha sido apreciada por su facilidad de uso y flexibilidad desde que se fundó en 2016. Incluso sin instalación, ofrece una solución sencilla para proporcionar a los participantes toda la información relevante, desde programas y detalles de ubicación hasta perfiles de alineación, páginas informativas y noticias.
 
 Destaca especialmente la posibilidad de registrar diversas estadísticas a través de la aplicación. Esto permite obtener información importante y analizar a posteriori el éxito del evento de forma transparente.
 
@@ -51,7 +51,7 @@ Destaca especialmente la posibilidad de registrar diversas estadísticas a trav�
 
 ### idloom
 
-[Idloom](https://www.idloom.com/) es una plataforma integral de gestión de eventos que cubre todos los aspectos de tu evento, desde la planificación de la agenda y la venta de entradas hasta la facturación y el procesamiento de impuestos. Fundada en Bélgica en 2015, la empresa concede gran importancia a la seguridad, como demuestra, entre otras cosas, su certificación ISO 27001.
+[Idloom](https://www.idloom.com/en) es una plataforma integral de gestión de eventos que cubre todos los aspectos de tu evento, desde la planificación de la agenda y la venta de entradas hasta la facturación y el procesamiento de impuestos. Fundada en Bélgica en 2015, la empresa concede gran importancia a la seguridad, como demuestra, entre otras cosas, su certificación ISO 27001.
 
 Una característica especial de idloom es su registro flexible: desde listas de espera e inscripciones de grupos hasta acceso exclusivo, la plataforma ofrece una amplia gama de opciones para satisfacer sus requisitos individuales a la hora de gestionar eventos. Además, idloom cuenta con integraciones, la posibilidad de crear certificados y una personalización flexible para satisfacer los requisitos específicos de la empresa.
 
@@ -191,7 +191,7 @@ El día del evento, es aconsejable volver a llamar a los proveedores de servicio
 
 Para que su evento sea todo un éxito, es esencial tener en todo momento una visión clara de su planificación previa y de los pasos siguientes. Con la plantilla gratuita de SeaTable, no sólo podrá gestionar sus eventos al detalle, sino también controlar en todo momento los costes, los ingresos y el presupuesto.
 
-El formulario web integrado facilita la inscripción de los participantes en su evento. Puede crear y enviar facturas con un solo clic, sin tener que dedicar mucho esfuerzo. Además, la plantilla ofrece la opción de utilizar el plugin de línea de tiempo para la programación o el plugin de mapa para registrar visualmente las ubicaciones del evento.
+El formulario web integrado facilita la inscripción de los participantes en su evento. Puede crear y enviar facturas con un solo clic, sin tener que dedicar mucho esfuerzo. Además, la plantilla ofrece la opción de utilizar la vista de línea de tiempo para la programación o el plugin de mapa para registrar visualmente las ubicaciones del evento.
 
 Con estas funciones, SeaTable ofrece la solución ideal para optimizar la planificación de un evento. Todo lo que tiene que hacer para utilizar la plantilla es registrarse con su dirección de correo electrónico.
 

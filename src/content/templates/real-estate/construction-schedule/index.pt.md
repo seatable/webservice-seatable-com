@@ -88,7 +88,7 @@ sections:
       subtitle: 'Tudo num relance - sempre atualizado'
       items:
       - headline: "Planeamento simples graças à representação visual"
-        text: Manter uma visão geral num calendário de construção puramente tabular, como no Excel, é entediante. No SeaTable, pode visualizar o seu projeto com o nosso plugin de cronograma, sem qualquer custo ou esforço adicional. Isto permite-lhe coordenar perfeitamente todos os prazos.'
+        text: Manter uma visão geral num calendário de construção puramente tabular, como no Excel, é entediante. No SeaTable, pode visualizar o seu projeto com a nossa vista da linha de tempo, sem qualquer custo ou esforço adicional. Isto permite-lhe coordenar perfeitamente todos os prazos.'
         image: '/images/template_page_bauzeitenplan_02.jpg'
         image_alt: 'Modelo gratuito de calendário de construção em linha com o SeaTable, folha de cálculo, personalizável, partilha com planeadores e comerciantes, elevada proteção de dados e acesso móvel'
       - headline: Uma visão geral de todas as actividades
@@ -96,7 +96,7 @@ sections:
         image: '/images/template_page_bauzeitenplan_03.jpg'
         image_alt: 'Mantenha-se a par de todos os comerciantes e dos pormenores de contacto com o software de calendário de construção SeaTable.'
       - headline: 'Todo o trabalho num relance'
-        text: "Utilize o plugin de cronologia ou a vista Kanban para visualizar o estado das tarefas e dos calendários individuais. Desta forma, está sempre atualizado e pode ver imediatamente quais as ordens de seguimento que são afectadas em caso de atraso."
+        text: "Utilize a vista da linha de tempo ou a vista Kanban para visualizar o estado das tarefas e dos calendários individuais. Desta forma, está sempre atualizado e pode ver imediatamente quais as ordens de seguimento que são afectadas em caso de atraso."
         image: '/images/template_page_bauzeitenplan_04.jpg'
         image_alt: 'Aplicação com cronograma e vista Kanban para o calendário de construção.'
       - headline: "Painel de controlo em tempo real para controlo de custos"

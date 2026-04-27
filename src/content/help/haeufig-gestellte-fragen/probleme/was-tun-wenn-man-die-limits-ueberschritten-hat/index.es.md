@@ -1,5 +1,5 @@
 ---
-title: '¿Qué hacer si se han superado los límites? - Mesa del mar'
+title: '¿Qué hacer si se han superado los límites?'
 date: 2023-03-21
 lastmod: '2023-03-21'
 categories:
@@ -14,7 +14,7 @@ seo:
 
 ---
 
-¿Sólo tienes **acceso de lectura a** tus bases y ya no puedes añadir datos? Entonces has alcanzado un **límite en tu suscripción**. No te preocupes, tus datos están a salvo, solo que ya no puedes editarlos hasta que aumentes los límites de tu suscripción o liberes espacio de almacenamiento.
+¿Solo tiene acceso de lectura a sus bases y ya no puede añadir datos? Entonces ha **alcanzado un límite en su suscripción**. No se preocupe, sus datos están a salvo; simplemente ya no puede editarlos hasta que aumente los límites de su suscripción o libere espacio de almacenamiento.
 
 ## Posibilidades en caso de rebasamiento de los límites
 
@@ -22,7 +22,7 @@ Para poder seguir editando sus bases y añadir datos, existen básicamente dos o
 
 1. **Borrar** parte de sus datos (bases, tablas, grupos, etc.) para liberar espacio de almacenamiento hasta que ya no se superen sus límites. A **Visión general** en el menú desplegable de la página de inicio.  
    ![Resumen de los límites alcanzados actualmente](images/show-current-limits.gif)
-2. [Cámbiate a un abono]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}) que te ofrezca límites más altos.
+2. [Pásese a una suscripción]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}) que le ofrezca límites más altos.
 
 {{< warning headline="Suscripciones" >}}
 

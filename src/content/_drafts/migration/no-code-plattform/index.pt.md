@@ -211,7 +211,7 @@ logótipo wix
 
 O Wix é atualmente um dos kits de construção de sítios Web mais conhecidos e é desenvolvido em Telavive. O slogan do Wix é "What you see is what you get" e sublinha o princípio WYSIWYG pretendido.
 
-Com Wix, mesmo os recém-chegados sem qualquer conhecimento de HTML podem criar rapidamente websites apelativos e, ao mesmo tempo, complexos por arrastar e largar. Isto é surpreendentemente fácil graças aos mais de 800 modelos diferentes que a Wix sugere após algumas perguntas sobre o design geral. Além do editor web, a Wix oferece uma variedade de integrações nas áreas de comércio electrónico, [marketing]({{< relref "pages/industry-solutions/marketing" >}}) ou análise SEO. A pura abundância de características incluídas não pode ser encontrada em nenhum outro construtor de websites, razão pela qual a Wix oferece a combinação certa de qualidade e quantidade.
+Com Wix, mesmo os recém-chegados sem qualquer conhecimento de HTML podem criar rapidamente websites apelativos e, ao mesmo tempo, complexos por arrastar e largar. Isto é surpreendentemente fácil graças aos mais de 800 modelos diferentes que a Wix sugere após algumas perguntas sobre o design geral. Além do editor web, a Wix oferece uma variedade de integrações nas áreas de comércio electrónico, [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) ou análise SEO. A pura abundância de características incluídas não pode ser encontrada em nenhum outro construtor de websites, razão pela qual a Wix oferece a combinação certa de qualidade e quantidade.
 
 ### Webflow (construtor de websites)
 

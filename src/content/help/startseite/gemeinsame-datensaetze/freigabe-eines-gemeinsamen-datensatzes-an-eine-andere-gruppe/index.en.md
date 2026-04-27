@@ -1,16 +1,17 @@
 ---
-title: 'Sharing a common dataset with another group'
+title: 'Share a common dataset with another group'
 date: 2022-11-21
 lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/share-shared-dataset-group-seatable'
+url: '/help/share-common-dataset-group-seatable'
 aliases:
     - '/help/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+    - '/help/share-shared-dataset-group-seatable'
 seo:
-    title: 'Share shared dataset with another group in SeaTable'
-    description: 'Share a shared record in SeaTable with another group: control access, enable synchronization and understand the consequences.'
+    title: 'Share common dataset with another group in SeaTable'
+    description: 'Share a common dataset in SeaTable with another group: control access, enable synchronization and understand the consequences.'
 
 ---
 

@@ -13,7 +13,7 @@ seo:
     description: 'Saiba como bloquear linhas via automação – defina acionadores, condições e restrinja edições nas tabelas facilmente para todo o time.'
 ---
 
-Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas mesas, mas pode ter [as linhas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).
+Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas tabelas, mas pode ter [as linhas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).
 
 ![Bloquear uma linha com uma automatização](images/lock-row-with-an-automation.png)
 
@@ -76,7 +76,6 @@ Para mais informações sobre o bloqueio de filas, ver o artigo [Bloquear uma fi
 - [Parar as automatizações]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Eliminar automatizações]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Mostrar o registo de execução de uma automatização]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [Porque não consigo encontrar automatismos na minha base?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Disparo de automatização]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Acções de automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Ligação de entradas via automatização]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})

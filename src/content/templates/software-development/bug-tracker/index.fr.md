@@ -82,7 +82,7 @@ sections:
       - text: "Accès depuis n'importe où : grâce à un système de suivi des bogues en ligne, vous avez accès à tout moment et gardez une vue d'ensemble, que ce soit au bureau, en télétravail ou chez le client."
       - text: 'Transparence du processus : associez les problèmes aux tests et aux versions afin de toujours savoir où les erreurs ont été détectées et dans quelle version elles ont été corrigées.'
       - text: "Évolutif : notre modèle de système de suivi des bogues s'adapte à vos besoins, quel que soit le nombre de projets, de composants ou de membres de l'équipe que vous gérez."
-      - text: 'Automatisé et intégré : connectez votre outil de suivi des bogues à votre [gestion des services informatiques]({{< relref "pages/industry-solutions/software-development" >}}) Système – pour des flux de travail continus sans rupture de média.'
+      - text: 'Automatisé et intégré : connectez votre outil de suivi des bogues à votre [gestion des services informatiques]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) Système – pour des flux de travail continus sans rupture de média.'
       image_position: [left]
       image: '/images/template_page_bugtacker_01.png'
       image_alt: 'Système SeaTable Bug Tracker avec aperçu des problèmes, des tests et des versions dans les tableaux liés'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Système de suivi des bogues assisté par IA'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre système de suivi des bogues à un niveau supérieur. Automatisez les tâches récurrentes dans le suivi des bogues, réduisez les tâches manuelles routinières et gagnez du temps pour l analyse, la hiérarchisation, l assurance qualité et une planification de publication bien fondée avec des bases décisionnelles claires.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui élèvent votre système de suivi des bogues à un niveau supérieur. Automatisez les tâches récurrentes dans le suivi des bogues, réduisez les tâches manuelles routinières et gagnez du temps pour l analyse, la hiérarchisation, l assurance qualité et une planification de publication bien fondée avec des bases décisionnelles claires.'
       items:
       - headline: 'Classification avec Classify'
         text: 'La fonction IA « Classify » classe les nouveaux problèmes dans les catégories ou composants appropriés en fonction de leur titre et de leur description. Ainsi, les bugs sont directement placés dans la bonne colonne et les équipes identifient beaucoup plus rapidement les points importants dans certains modules.'
@@ -189,7 +189,7 @@ sections:
       - q: "Puis-je créer mes propres champs et workflows dans le système Bug Tracker ?"
         a: "Oui, vous pouvez à tout moment ajouter des colonnes, des tableaux, des vues et des automatisations supplémentaires. Vous pouvez ainsi adapter le système de suivi des bogues de manière flexible à vos processus de publication, de test et d'assistance."
       - q: "SeaTable peut-il être utilisé comme alternative à Asana pour le suivi des bogues ?"
-        a: 'Oui, SeaTable est une excellente [alternative à Asana]({{< relref "pages/asana-alternative" >}}), si vous souhaitez associer plus étroitement le suivi des tâches et des bogues à la logique des bases de données. Au lieu de tableaux rigides, vous créez vos propres structures, associez les bogues aux tests et aux versions et, si nécessaire, vous mettez en place d autres workflows de gestion de projet sur la même plateforme.'
+        a: 'Oui, SeaTable est une excellente [alternative à Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), si vous souhaitez associer plus étroitement le suivi des tâches et des bogues à la logique des bases de données. Au lieu de tableaux rigides, vous créez vos propres structures, associez les bogues aux tests et aux versions et, si nécessaire, vous mettez en place d autres workflows de gestion de projet sur la même plateforme.'
       - q: "Le modèle prend-il en charge un modèle standardisé de rapport de bogue logiciel ?"
         a: "Oui, le modèle Bug Tracker System contient un modèle prédéfini de rapport de bogue logiciel avec des champs typiques tels que le titre, la description, l'environnement, la reproductibilité, le résultat attendu, le résultat réel et les pièces jointes. Vous pouvez étendre cette structure si nécessaire ou l'adapter à vos directives internes sans avoir à programmer."
       - q: "Existe-t-il une assistance pour commencer à utiliser le modèle Bug Tracker ?"

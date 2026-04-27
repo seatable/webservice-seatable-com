@@ -2,6 +2,7 @@
 title: 'With these 4 steps to perfect product management - SeaTable'
 description: 'From idea to sales analysis: Discover the four key steps to effective product management. Structure your data, connect teams, and leverage the right tools to ensure your products succeed in a competitive market—simple and efficient.'
 date: 2021-04-29
+lastmod: '2023-07-11'
 categories:
     - 'best-practice'
 tags: 
@@ -39,7 +40,7 @@ The tasks of product management include all stages that a product goes through. 
 - **Concept**: strategy development for market, price, distribution, communication; prototype, cost overview
 - **Implementation**: technical implementation, strategy implementation, product launch
 
-In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management]({{< relref "pages/industry-solutions/project-management" >}})**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
+In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
 
 ### Challenges in product management
 
@@ -73,7 +74,7 @@ In the product data sheet you will find all the important information about the 
 
 ### 3\. all contacts at a glance
 
-In the product development process, the product passes through a number of different departments. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), sales, production plant, photography and also retail are important everyday contact points in the work of a product manager. It is then practical if all contact data is collected in one place and thus accessible to everyone. This is just as helpful for the holiday replacement as it is for the new trainee! In addition, information can also be added, such as minutes of meetings, important documents or upcoming telephone appointments. With SeaTable, creating an address book within a table is absolutely no problem.
+In the product development process, the product passes through a number of different departments. [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), sales, production plant, photography and also retail are important everyday contact points in the work of a product manager. It is then practical if all contact data is collected in one place and thus accessible to everyone. This is just as helpful for the holiday replacement as it is for the new trainee! In addition, information can also be added, such as minutes of meetings, important documents or upcoming telephone appointments. With SeaTable, creating an address book within a table is absolutely no problem.
 
 ![Contact details of suppliers and customers are very important for smooth product management](Suppliers-and-Contacts.jpg)
 
@@ -81,7 +82,7 @@ Note down all important contact details of your suppliers and customers
 
 ### 4\. evaluate sales figures intelligently
 
-In product management, sales are an important control instrument to assess the success of measures and strategies. Is there perhaps a store that is not doing well at all? Do products have to be presented anew or the assortment structured differently? Sales figures are extremely important key figures for companies from which they can draw valuable information. If sales are good, this is evidence of good product management and that the set goals have been achieved. If there is a need for improvement, the sales figures can also provide information about this. If the sales figures even include demographic data, which can be collected through online trading, for example, the target group analysis can be significantly optimised - for example, by creating [personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) or adapting the marketing strategy to specific target group segments.
+In product management, sales are an important control instrument to assess the success of measures and strategies. Is there perhaps a store that is not doing well at all? Do products have to be presented anew or the assortment structured differently? Sales figures are extremely important key figures for companies from which they can draw valuable information. If sales are good, this is evidence of good product management and that the set goals have been achieved. If there is a need for improvement, the sales figures can also provide information about this. If the sales figures even include demographic data, which can be collected through online trading, for example, the target group analysis can be significantly optimised - for example, by creating [personas](https://reachx.de/artikel/6-punkte-anleitung-zur-erstellung-individueller-personas) or adapting the marketing strategy to specific target group segments.
 
 ![Sales figures also play an important role in product management. With SeaTable you don't lose sight of anything](Sales_1.jpg)
 

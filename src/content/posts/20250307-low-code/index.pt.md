@@ -17,7 +17,7 @@ url: '/pt/low-code'
 
 ## Diga adeus à codificação – com Low Code e No Code
 
-Já alguma vez desejou poder desenvolver as suas próprias soluções de software com apenas alguns cliques, sem ter de escrever linha após linha de código? Imagine como o [desenvolvimento de software]({{< relref "pages/industry-solutions/software-development/" >}}) seria fácil e rápido para si! Parece ficção científica? Mas não é: Dê uma vista de olhos ao mundo do desenvolvimento com pouco código connosco! No artigo seguinte, também analisamos a diferença entre código reduzido e sem código e esclarecemos o que é uma plataforma sem código/baixo código.
+Já alguma vez desejou poder desenvolver as suas próprias soluções de software com apenas alguns cliques, sem ter de escrever linha após linha de código? Imagine como o [desenvolvimento de software]({{< relref "pages/landing-pages/industry-solutions/software-development/" >}}) seria fácil e rápido para si! Parece ficção científica? Mas não é: Dê uma vista de olhos ao mundo do desenvolvimento com pouco código connosco! No artigo seguinte, também analisamos a diferença entre código reduzido e sem código e esclarecemos o que é uma plataforma sem código/baixo código.
 
 ## O que é o baixo código?
 
@@ -45,7 +45,7 @@ As principais caraterísticas de uma plataforma de baixo código podem ser resum
 
 ## O que é o No Code?
 
-O No Code vai mais longe: ao contrário das plataformas de baixo código, uma plataforma **no-code** destina-se a utilizadores sem quaisquer conhecimentos de programação. No ambiente de desenvolvimento totalmente visual, é possível criar aplicações principalmente por arrastar e largar, sem ter de escrever uma única linha de código. Por conseguinte, a No Code é ideal para criar aplicações simples e [fluxos de trabalho automatizados]({{< relref "pages/industry-solutions/individual/" >}}). A tónica é claramente colocada na velocidade e na facilidade de utilização; a integração de código escrito pelo próprio utilizador não está prevista.
+O No Code vai mais longe: ao contrário das plataformas de baixo código, uma plataforma **no-code** destina-se a utilizadores sem quaisquer conhecimentos de programação. No ambiente de desenvolvimento totalmente visual, é possível criar aplicações principalmente por arrastar e largar, sem ter de escrever uma única linha de código. Por conseguinte, a No Code é ideal para criar aplicações simples e [fluxos de trabalho automatizados]({{< relref "pages/landing-pages/industry-solutions/individual/" >}}). A tónica é claramente colocada na velocidade e na facilidade de utilização; a integração de código escrito pelo próprio utilizador não está prevista.
 
 ## Pouco código vs. nenhum código
 
@@ -133,7 +133,7 @@ Para além destas quatro categorias, existem também plataformas low-code mais e
 
 No SeaTable, é possível configurar processos e aplicações de forma conveniente através de uma interface gráfica do utilizador no browser. Graças aos elementos visuais, não é necessária uma única linha de código, o que faz do SeaTable uma [solução sem código]({{< relref "/" >}}). No entanto, o SeaTable também permite a execução de scripts JavaScript e Python programados manualmente. Esta opção está mais de acordo com a abordagem de pouco código, o que significa que o SeaTable também pode ser descrito como uma plataforma de desenvolvimento de pouco código.
 
-A classificação numa categoria também não é clara: por um lado, o SeaTable é uma **base de dados sem código** na qual é possível armazenar, organizar e visualizar praticamente qualquer tipo de informação. Pode utilizar 25 tipos de colunas diferentes, plugins como galeria, Kanban, mapa ou calendário, vistas com funções de filtragem, ordenação e agrupamento, bem como estatísticas e formulários Web.
+A classificação numa categoria também não é clara: por um lado, o SeaTable é uma **base de dados sem código** na qual é possível armazenar, organizar e visualizar praticamente qualquer tipo de informação. Pode utilizar 26 tipos de colunas diferentes, plugins como galeria, Kanban, mapa ou calendário, vistas com funções de filtragem, ordenação e agrupamento, bem como estatísticas e formulários Web.
 
 O SeaTable também oferece um **No Code App Builder**, que pode utilizar para criar as suas próprias aplicações sem quaisquer conhecimentos de programação. Uma aplicação acede à informação no backend da base de dados e apresenta-a de forma optimizada para o utilizador final. Para o design da aplicação, existem tipos de páginas prontas com elementos visuais que pode simplesmente arrastar e largar.
 

@@ -62,7 +62,7 @@ SeaTable Cloud использует в качестве модели ИИ **Gemm
 
 ## Три плагина становятся видами
 
-Три плагина [Календарь]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), [Галерея]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) и [Канбан]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) были неотъемлемой частью SeaTable с версии 1.0. Теперь, спустя 5 лет, они обрели новую форму: Плагины календаря, канбана и галереи стали **Календарем, канбаном и галереей представлений**. В SeaTable 6.1 за ними последует плагин [Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+Три плагина [Календарь]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}), [Галерея]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) и [Канбан]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}) были неотъемлемой частью SeaTable с версии 1.0. Теперь, спустя 5 лет, они обрели новую форму: Плагины календаря, канбана и галереи стали **Календарем, канбаном и галереей представлений**. В SeaTable 6.1 за ними последует плагин [Timeline]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Реализация плагинов в виде представлений дает несколько преимуществ: С одной стороны, это значительно упрощает их использование. **Не нужно устанавливать плагины в базу**, поскольку представления сразу же становятся доступными. Администраторы SeaTable Server также оценят эту интеграцию: В будущем также отпадет необходимость в отдельном обновлении плагинов.
 

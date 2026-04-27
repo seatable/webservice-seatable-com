@@ -60,12 +60,12 @@ sections:
           - key: 'Python script runs (per month)'
             values: ['100', '5,000', '∞', '∞']
           - key: 'API calls (per month and user)'
-            values: ['3.000 (fix)', '10.000', '50.000', '∞']
+            values: ['3,000 (fixed)', '10.000', '50.000', '∞']
           - key: 'Maximum team size'
             values: ['25', '∞', '∞', '∞']
           - type: section
             label: 'Features'
-          - key: '25 column types'
+          - key: '26 column types'
             values: ['+', '+', '+', '+']
           - key: 'Filter, grouping and sorting'
             values: ['+', '+', '+', '+']
@@ -85,7 +85,7 @@ sections:
             values: ['+', '+', '+', '+']
           - key: 'Plugins'
             values: ['+', '+', '+', '+']
-          - key: 'Javascript and Python support'
+          - key: 'JavaScript and Python support'
             values: ['+', '+', '+', '+']
           - key: 'App Builder'
             values: ['+', '+', '+', '+']
@@ -99,8 +99,10 @@ sections:
             values: ['-', '-', '+', '+']
           - key: 'Web form customization (logo, header image)'
             values: ['-', '-', '+', '+']
-          - key: 'Automations'
-            values: ['-', '-', '+', '+']
+          - key: 'Automations (per month and user)'
+            values: ['100 (fixed)', '500', '5,000', '∞']
+          - key: 'AI Credits (per month and user)'
+            values: ['12.5 (fixed)', '50', '500', '∞']
           - key: 'Big data storage'
             values: ['-', '-', '+', '+']
           - type: section

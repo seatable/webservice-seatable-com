@@ -15,11 +15,11 @@ Sind Sie ein Excel-Benutzer, der mit dem Schreiben von Formeln vertraut ist und 
 
 ## Zentraler Unterschied
 
-Der zentralste und wichtigste Unterschied in der Formelfunktion von SeaTable und Excel stellt der **Wirkungsbereich** der Formeln dar.
+Den zentralen Unterschied in der Formelfunktion von SeaTable und Excel stellt der **Wirkungsbereich** der Formeln dar.
 
-Während Sie in **Excel** in jede beliebige Zelle eine Formel eingeben können, die anschließend auf jede andere Zelle im Tabellenblatt verweist, verweisen Formeln in **SeaTable** auf ganze _Spalten_ und **nicht** auf bestimmte Zellen.
+Während Sie in **Excel** in jede beliebige *Zelle* eine Formel eingeben können, die anschließend auf jede andere Zelle im Tabellenblatt verweisen kann, verweisen Formeln in **SeaTable** auf ganze *Spalten* und nicht auf bestimmte Zellen.
 
-Da SeaTable in diesem Zusammenhang als eine relationale Datenbank fungiert, werden Formeln auf die gesamte _Spalte_ einer Tabelle angewendet, sodass für jeden Eintrag in dieser Spalte dieselbe Formel gilt.
+Da SeaTable in diesem Zusammenhang als eine [relationale Datenbank]({{< relref "posts/relationale-datenbank" >}}) fungiert, werden Formeln auf die gesamte _Spalte_ einer Tabelle angewendet, sodass für jeden Eintrag in dieser Spalte dieselbe Formel gilt.
 
 ## Zeilenreferenzierung
 
@@ -47,7 +47,7 @@ Die Formel verweist auf ganze _Spalten_, wie z.B. {Purchase Type}.
 
 ## Werte aus anderen Tabellen
 
-SeaTable-Formeln funktionieren innerhalb von _Tabellen_, nicht über _Bases_ hinaus. Ähnlich wie oben beziehen sich SeaTable-Formeln standardmäßig nur auf _Spalten_ innerhalb derselben _Tabelle_. Es gibt jedoch auch Möglichkeiten, einen Wert aus einer anderen Tabelle zu übernehmen, um ihn in einem Formelfeld zu referenzieren (Dieser Ansatz verwendet verknüpfte Datensätze, die [hier]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ausführlicher behandelt werden).
+SeaTable-Formeln funktionieren innerhalb von _Tabellen_, nicht über _Bases_ hinaus. Ähnlich wie oben beziehen sich SeaTable-Formeln standardmäßig nur auf _Spalten_ innerhalb derselben _Tabelle_. Es gibt jedoch auch Möglichkeiten, einen Wert aus einer anderen Tabelle zu übernehmen, um ihn in einem Formelfeld zu referenzieren. Dieser Ansatz verwendet verknüpfte Datensätze, die [hier]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ausführlicher behandelt werden.
 
 ### Excel
 

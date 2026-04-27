@@ -62,7 +62,7 @@ Bei der Prozessdigitalisierung geht es darum, **analoge Prozesse zu digitalisier
 
 Durch ein effektives Datamanagement können Sie eine **höhere Datenintegrität und Datenqualität** erreichen, was wiederum zu fundierten Entscheidungen beiträgt. Zudem können Sie Kosten senken, indem Sie Daten effizient nutzen, redundante Daten vermeiden und auf ebenso preiswerte wie sichere Speichertechnologien setzen. Auch die **Optimierung, Digitalisierung und Automatisierung von Prozessen** sind Vorteile, die sich aus einem guten Datenmanagement ergeben.
 
-Ein konkretes Beispiel hierfür ist der Einsatz von Data Management in der Produktion. Moderne Fertigungsanlagen nutzen große Mengen an Sensordaten, um Produktionsabläufe in Echtzeit zu überwachen und anzupassen. Ohne ein solides Data Management System wären solche fortschrittlichen Produktionsverfahren kaum umsetzbar. Aber auch im [Personalwesen]({{< relref "pages/industry-solutions/hr" >}}), im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}) oder der Buchhaltung ist das Datenmanagement für die Digitalisierung in Unternehmen nicht mehr wegzudenken.
+Ein konkretes Beispiel hierfür ist der Einsatz von Data Management in der Produktion. Moderne Fertigungsanlagen nutzen große Mengen an Sensordaten, um Produktionsabläufe in Echtzeit zu überwachen und anzupassen. Ohne ein solides Data Management System wären solche fortschrittlichen Produktionsverfahren kaum umsetzbar. Aber auch im [Personalwesen]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) oder der Buchhaltung ist das Datenmanagement für die Digitalisierung in Unternehmen nicht mehr wegzudenken.
 
 ![Datenmanagement](Data-Management_Header.jpg)
 

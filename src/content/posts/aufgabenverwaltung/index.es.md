@@ -55,7 +55,7 @@ El método Scrum se utiliza para proyectos especialmente complejos en los que no
 **3\. kanban**  
 Seguro que ya has oído hablar de él. Este método funciona especialmente bien con la visualización de tareas, por lo que es muy popular en la gestión de tareas. En este tipo de gestión de tareas, las tareas se mueven de una columna a otra en forma de tarjetas Kanban en un tablero Kanban visual, normalmente de "Abierto" a "Haciendo" y a "Hecho".
 
-Puede ver que los métodos difieren en su enfoque y que algunos pueden ser más adecuados para su proyecto que otros. En todos los casos, sin embargo, necesitas una herramienta de gestión de tareas que te apoye en todas las áreas para completar con éxito tu proyecto. Hay muchos proveedores diferentes, todos con sus ventajas y desventajas. SeaTable tiene la ventaja decisiva de ser un software flexible que no sólo puede cartografiar todo el proyecto, sino también cualquier otro proceso, como [el registro del tiempo]({{< relref "pages/arbeitszeiterfassung" >}}), [el CRM]({{< relref "posts/crm-angebotsmanagement" >}}) o la creación de un plan editorial.
+Puede ver que los métodos difieren en su enfoque y que algunos pueden ser más adecuados para su proyecto que otros. En todos los casos, sin embargo, necesitas una herramienta de gestión de tareas que te apoye en todas las áreas para completar con éxito tu proyecto. Hay muchos proveedores diferentes, todos con sus ventajas y desventajas. SeaTable tiene la ventaja decisiva de ser un software flexible que no sólo puede cartografiar todo el proyecto, sino también cualquier otro proceso, como [el registro del tiempo]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}), [el CRM]({{< relref "posts/crm-angebotsmanagement" >}}) o la creación de un plan editorial.
 
 Como herramienta de gestión de proyectos, SeaTable es muy flexible y puede **personalizarse para satisfacer todas sus necesidades**. Con SeaTable, puede implicar a sus empleados en el proyecto, simplificar los procesos de trabajo y comunicación y **estructurar su proyecto de principio a fin** con la ayuda de asignaciones y descripciones de tareas claras.
 
@@ -73,11 +73,11 @@ La base para la gestión de tareas puede utilizarse completamente como base de t
 
 ### La comunicación del equipo en un solo lugar
 
-SeaTable permite la comunicación directa dentro de las mesas, eliminando la necesidad de comunicación por correo electrónico fuera de Base. Al abrir una fila, se puede añadir personal a la discusión en el [campo de comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) de la derecha y se pueden enviar comentarios, preguntas o reacciones. De este modo, todos saben exactamente a qué tarea se refiere una pregunta y la comunicación es transparente, sincrónica y rastreable.
+SeaTable permite la comunicación directa dentro de las tablas, eliminando la necesidad de comunicación por correo electrónico fuera de Base. Al abrir una fila, se puede añadir personal a la discusión en el [campo de comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) de la derecha y se pueden enviar comentarios, preguntas o reacciones. De este modo, todos saben exactamente a qué tarea se refiere una pregunta y la comunicación es transparente, sincrónica y rastreable.
 
 ## Gestión de tareas con el tablero Kanban
 
-Para una mejor visualización y un manejo más sencillo de la gestión de tareas, el plugin Kanban es justo lo que necesita. El plugin integrado funciona como todas las herramientas estándar de gestión de tareas Kanban y permite mover las tareas de un lado a otro en forma de tarjetas basadas en diversas categorías de categorización, como el estado. Cuando se completa una tarea, la persona responsable puede simplemente mover la tarjeta de "haciendo" a "hecho" y la tarea se marca como completada.
+Para una mejor visualización y un manejo más sencillo de la gestión de tareas, la vista Kanban es justo lo que necesita. La vista integrada funciona como todas las herramientas estándar de gestión de tareas Kanban y permite mover las tareas de un lado a otro en forma de tarjetas basadas en diversas categorías de categorización, como el estado. Cuando se completa una tarea, la persona responsable puede simplemente mover la tarjeta de "haciendo" a "hecho" y la tarea se marca como completada.
 
 ![El tablero Kanban facilita la gestión de las tareas](Kanban-board-711x457.jpg)
 
@@ -101,7 +101,7 @@ Para las vistas individuales del personal, se crean por adelantado sus propias v
 
 Al igual que el complemento de la línea de tiempo, el complemento del calendario ofrece una visión temporal de todo el proyecto y de todas las fases de planificación de la gestión de tareas, pero totalmente en estilo calendario. La vista por día, semana, mes, año o en su totalidad en la vista de la agenda permite ver día a día los pasos del proyecto y muestra en qué día hay que hacer. Aquí también es posible la creación de tableros personales de personal sin ningún problema en función de las vistas creadas.
 
-![Visualice su gestión de tareas con el plugin de calendario](Cal.gif)
+![Visualice su gestión de tareas con la vista de calendario](Cal.gif)
 
 ## Reciba automáticamente todos los avances del proyecto
 

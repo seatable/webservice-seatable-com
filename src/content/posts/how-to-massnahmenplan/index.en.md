@@ -18,7 +18,7 @@ seo:
     description: 'Create an annual action plan with structure, timeline and free template—achieve your business goals effectively.'
 ---
 
-In order for companies to grow and develop, they constantly set themselves new goals and work towards them with all their resources. The action plan is a proven method for achieving these goals - for example in [project management]({{< relref "pages/industry-solutions/project-management" >}}), finance & controlling and [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
+In order for companies to grow and develop, they constantly set themselves new goals and work towards them with all their resources. The action plan is a proven method for achieving these goals - for example in [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), finance & controlling and [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).
 
 ## What is an action plan?
 
@@ -40,7 +40,7 @@ Every task and every measure needs a clear responsibility. The action plan helps
 
 ## Action plan as a versatile tool
 
-An action plan can be applied across the company when formulating corporate goals on a large scale. But it can also be used in a variety of ways in [project management]({{< relref "pages/industry-solutions/project-management" >}}), and in the most diverse contexts. The action plan is useful wherever there are projects to manage: for example, in the short term, when measures for specific goals are to be developed in a workshop, for example for the next advertising campaign for a product. Or also in the long term, if a defined strategy is to be pursued, such as in [marketing]({{< relref "pages/industry-solutions/marketing" >}}) or in the communications department, when it comes to strategic external communication.
+An action plan can be applied across the company when formulating corporate goals on a large scale. But it can also be used in a variety of ways in [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), and in the most diverse contexts. The action plan is useful wherever there are projects to manage: for example, in the short term, when measures for specific goals are to be developed in a workshop, for example for the next advertising campaign for a product. Or also in the long term, if a defined strategy is to be pursued, such as in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) or in the communications department, when it comes to strategic external communication.
 
 Companies need to plan their external appearance very well, and preferably well in advance. It must be clear: When are special events taking place that we need to communicate? When are important dates and who is involved? This usually happens in the marketing or communications department, where external communication and marketing measures are planned and implemented. The importance of an [action plan for the company](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/externe-kommunikation/) and the PR strategy cannot be underestimated.
 

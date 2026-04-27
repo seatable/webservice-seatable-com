@@ -15,7 +15,7 @@ seo:
 
 Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame Erlebnisse mit Freunden steigt, ist es wieder an der Zeit, das Gepäck zu schnüren. Damit Ihr Festivalbesuch reibungslos verläuft und nicht von Problemen und Ärgernissen überschattet wird, ist eine **gründliche Vorbereitung** entscheidend.
 
-Egal, ob Sie sich für das legendäre [Wacken](https://www.wacken.com/de/), das mitreißende [Rock am Ring](https://www.rock-am-ring.com) oder das energiegeladene [Hurricane](https://hurricane.de/de/) Festival rüsten – einige Must-haves sind auf jeder Festival Packliste Pflicht.
+Egal, ob Sie sich für das legendäre [Wacken](https://www.wacken.com/de/), das mitreißende [Rock am Ring](https://www.rock-am-ring.com) oder das energiegeladene [Hurricane](https://hurricane.de/) Festival rüsten – einige Must-haves sind auf jeder Festival Packliste Pflicht.
 
 ![Festival Packliste: Mann trägt Frau auf Festival Huckepack](group-friends-having-fun-together-711x475.jpg)
 

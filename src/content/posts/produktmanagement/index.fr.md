@@ -2,6 +2,7 @@
 title: '4 étapes pour une gestion de produit parfaite - SeaTable'
 description: 'De la conception à l’analyse : découvrez comment organiser la gestion produit en 4 étapes simples, structurer toutes vos informations et suivre les ventes pour garantir le succès de vos produits sur le marché. Outils et conseils pratiques inclus.'
 date: 2021-04-29
+lastmod: '2023-07-11'
 categories:
     - 'best-practice'
 tags: 
@@ -38,7 +39,7 @@ Toutes les étapes par lesquelles passe un produit font partie des tâches de la
 - **Conception**: élaboration d'une stratégie concernant le marché, le prix, la distribution, la communication ; prototype, aperçu des coûts
 - **Mise en œuvre**: réalisation technique, mise en œuvre de la stratégie, lancement du produit
 
-En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les ventes et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}})**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
+En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), les ventes et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
 
 ### Les défis de la gestion de produits
 
@@ -72,7 +73,7 @@ Dans la fiche technique du produit, vous trouverez toutes les informations impor
 
 ### 3\. tous les contacts en un coup d'œil
 
-Dans le processus de développement d'un produit, celui-ci passe par toute une série de départements différents. Le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), la distribution, le site de production, la photographie et même le commerce sont des points de contact quotidiens importants dans le travail d'un chef de produit. Il est alors pratique de rassembler toutes les données de contact en un seul endroit et de les rendre ainsi accessibles à tous. C'est tout aussi utile pour le remplaçant en vacances que pour le nouvel apprenti ! Il est également possible d'ajouter des informations telles que des comptes rendus d'entretiens, des documents importants ou des rendez-vous téléphoniques à venir. Avec SeaTable, la création d'un carnet d'adresses au sein d'un tableau ne pose aucun problème.
+Dans le processus de développement d'un produit, celui-ci passe par toute une série de départements différents. Le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), la distribution, le site de production, la photographie et même le commerce sont des points de contact quotidiens importants dans le travail d'un chef de produit. Il est alors pratique de rassembler toutes les données de contact en un seul endroit et de les rendre ainsi accessibles à tous. C'est tout aussi utile pour le remplaçant en vacances que pour le nouvel apprenti ! Il est également possible d'ajouter des informations telles que des comptes rendus d'entretiens, des documents importants ou des rendez-vous téléphoniques à venir. Avec SeaTable, la création d'un carnet d'adresses au sein d'un tableau ne pose aucun problème.
 
 ![Les données de contact des fournisseurs et des clients sont très importantes pour une gestion de produit sans faille.](Suppliers-and-Contacts.jpg)
 
@@ -80,7 +81,7 @@ Notez toutes les coordonnées importantes de vos fournisseurs et clients
 
 ### 4\. évaluer intelligemment les chiffres de vente
 
-Dans la gestion des produits, les chiffres d'affaires sont un instrument de contrôle important pour évaluer le succès des mesures et des stratégies. Y a-t-il peut-être un magasin qui ne fonctionne pas du tout ? Les produits doivent-ils être présentés différemment ou l'assortiment doit-il être structuré différemment ? Les chiffres de vente sont des indicateurs extrêmement importants pour les entreprises, qui peuvent en tirer de précieuses informations. Si les ventes sont bonnes, cela signifie que la gestion des produits est bonne et que les objectifs fixés ont été atteints. Si des améliorations sont nécessaires, les chiffres de vente peuvent également fournir des informations à ce sujet. Si les chiffres de vente contiennent même des données démographiques, qui peuvent par exemple être collectées par le commerce en ligne, l'analyse du groupe cible peut être optimisée de manière significative - par exemple en créant des [personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) ou en adaptant la stratégie marketing à certains segments du groupe cible.
+Dans la gestion des produits, les chiffres d'affaires sont un instrument de contrôle important pour évaluer le succès des mesures et des stratégies. Y a-t-il peut-être un magasin qui ne fonctionne pas du tout ? Les produits doivent-ils être présentés différemment ou l'assortiment doit-il être structuré différemment ? Les chiffres de vente sont des indicateurs extrêmement importants pour les entreprises, qui peuvent en tirer de précieuses informations. Si les ventes sont bonnes, cela signifie que la gestion des produits est bonne et que les objectifs fixés ont été atteints. Si des améliorations sont nécessaires, les chiffres de vente peuvent également fournir des informations à ce sujet. Si les chiffres de vente contiennent même des données démographiques, qui peuvent par exemple être collectées par le commerce en ligne, l'analyse du groupe cible peut être optimisée de manière significative - par exemple en créant des [personas](https://reachx.de/artikel/6-punkte-anleitung-zur-erstellung-individueller-personas) ou en adaptant la stratégie marketing à certains segments du groupe cible.
 
 ![Dans la gestion des produits, les chiffres de vente jouent également un rôle important. Avec SeaTable, vous ne perdez rien de vue](Sales_1.jpg)
 

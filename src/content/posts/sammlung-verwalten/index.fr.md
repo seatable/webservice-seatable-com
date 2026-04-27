@@ -53,7 +53,7 @@ Pour gérer votre collection, vous avez plusieurs possibilités. Il existe des a
 
 ### Evernote - l'application de prise de notes pour une saisie et une gestion rapides de vos collections
 
-Une option pour la gestion des collections est [Evernote](https://evernote.com/intl/de). Vous pouvez y écrire des notes et y joindre des images ou des documents tels que des preuves d'achat des objets. Il est également possible de définir des tags afin de distinguer les différentes collections les unes des autres. Une fonction de recherche permet de retrouver les objets de la collection dans les notes. Vous commencez avec une version gratuite. La version Personal coûte 6,99 € par mois et par utilisateur et la version Professional 8,99 €.
+Une option pour la gestion des collections est [Evernote](https://evernote.com/de-de). Vous pouvez y écrire des notes et y joindre des images ou des documents tels que des preuves d'achat des objets. Il est également possible de définir des tags afin de distinguer les différentes collections les unes des autres. Une fonction de recherche permet de retrouver les objets de la collection dans les notes. Vous commencez avec une version gratuite. La version Personal coûte 6,99 € par mois et par utilisateur et la version Professional 8,99 €.
 
 ![Quelqu'un consulte l'outil Evernote pour gérer sa collection.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
@@ -65,7 +65,7 @@ Le logiciel [Data Crow](https://www.datacrow.net/) est surtout adapté à la ges
 
 ### GCstar - logiciel de collection gratuit
 
-Un autre logiciel gratuit pour les collections est [le GCstar](http://www.gcstar.org/). Ce programme de gestion présente les mêmes fonctions de saisie et de gestion des collections que Data Crow. Vous avez également la possibilité d'enrichir votre collection avec des informations provenant d'Internet. Enregistrez l'endroit où vous avez acheté l'objet et si vous le prêtez à quelqu'un. Outre les médias, vous pouvez bien entendu inventorier d'autres objets. Si vous êtes intéressé par une solution open source, vous pouvez installer Data Crow et GCstar à titre d'essai et comparer les interfaces.
+Un autre logiciel gratuit pour les collections est [le GCstar](https://gitlab.com/GCstar/). Ce programme de gestion présente les mêmes fonctions de saisie et de gestion des collections que Data Crow. Vous avez également la possibilité d'enrichir votre collection avec des informations provenant d'Internet. Enregistrez l'endroit où vous avez acheté l'objet et si vous le prêtez à quelqu'un. Outre les médias, vous pouvez bien entendu inventorier d'autres objets. Si vous êtes intéressé par une solution open source, vous pouvez installer Data Crow et GCstar à titre d'essai et comparer les interfaces.
 
 ### Logiciels de niche pour les collectionneurs
 

@@ -63,5 +63,3 @@ An activated sorting is automatically applied to newly added rows.
 By applying multiple sorts, you can order records that have the **same entry** in a previous sort. For example, you can first sort a list of employees by the options "female", "male", "miscellaneous" via a single selection column and then sort the names of the females, males and miscellaneous each alphabetically via a text column.
 
 ![Multiple sorting](images/Mehrere-Sortierungen.png)
-
-{{< warning  headline="Note"  text="If you use **plugins** like the Gallery or the Kanban Board, the sorts will affect the order of the records there as well." />}}

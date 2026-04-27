@@ -1,5 +1,5 @@
 ---
-title: 'Introdução ao trabalho com bases e mesas'
+title: 'Introdução ao trabalho com bases e tabelas'
 date: 2023-01-07
 lastmod: '2023-03-24'
 categories:
@@ -13,13 +13,13 @@ seo:
     description: 'Saiba como usar Bases e Tabelas no SeaTable: Estrutura, vínculos, tipos de coluna e visualizações para organizar projetos e processos.'
 ---
 
-Cada um dos ícones quadrados na sua página inicial representa uma **Base**. É uma base de dados, comparável a uma pasta de trabalho numa folha de cálculo convencional e pode conter várias **tabelas** sobre diferentes tópicos.
+Cada um dos ícones quadrados na sua página inicial representa uma **base**. É uma base de dados, comparável a uma pasta de trabalho numa folha de cálculo convencional e pode conter várias **tabelas** sobre diferentes tópicos.
 
 ![Vista geral da base em SeaTable](images/base-overview.png)
 
 Uma Base representa uma **unidade** autónoma em SeaTable. Por conseguinte, deve conter toda a informação necessária para um projecto ou processo específico.
 
-Por exemplo, a base do seu pipeline de vendas pode conter tabelas separadas para leads, empresas e oportunidades de negócio. Da mesma forma, pode utilizar uma base para planear um casamento e depois criar mesas separadas para potenciais locais, participantes e listas de afazeres.
+Por exemplo, a base do seu pipeline de vendas pode conter tabelas separadas para leads, empresas e oportunidades de negócio. Da mesma forma, pode utilizar uma base para planear um casamento e depois criar tabelas separadas para potenciais locais, participantes e listas de afazeres.
 
 ## Criar uma nova base
 
@@ -38,10 +38,10 @@ Depois de ter dominado com sucesso os primeiros passos e criado as suas primeira
 
 ## Tabelas e vistas numa base
 
-A tabela é o nível mais importante em que pode organizar os seus dados em SeaTable, comparável a uma folha de cálculo numa folha de cálculo. Basicamente, **as tabelas** são o nível seguinte abaixo das [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) na estrutura organizacional do SeaTable.
+A tabela é o nível mais importante em que pode organizar os seus dados em SeaTable, comparável a uma folha de cálculo numa folha de cálculo. Basicamente, **as tabelas** são o nível seguinte abaixo das bases na estrutura organizacional do SeaTable.
 
-Uma vez que o SeaTable é um **software de base de dados relacional**, é possível ligar informações em diferentes tabelas de uma base através de [ligações]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automatizações]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) e outras funções.
+Uma vez que SeaTable é uma [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}), é possível ligar informações em diferentes tabelas de uma base através de [ligações]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automatizações]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) e outras funções.
 
-Uma tabela é constituída por [linhas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) no SeaTable definem que **tipos de dados** se podem introduzir numa **coluna**.
+Uma tabela é constituída por linhas e colunas. Todas as entradas numa **linha** formam um **conjunto de dados** coerente. Os [tipos de coluna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) no SeaTable definem quais os **tipos de dados** que pode introduzir numa **coluna**.
 
-Sempre que visualiza os seus dados numa tabela, visualiza-os através de uma [vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). As vistas dão-lhe inúmeras opções para exibir os dados nas suas tabelas de forma diferente - para filtrar, ordenar, agrupar, esconder, etc.
+Sempre que visualiza os seus dados numa tabela, visualiza-os através de uma [vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). As vistas dão-lhe inúmeras opções para exibir os dados nas suas tabelas de forma diferente – para filtrar, ordenar, agrupar, esconder, etc.

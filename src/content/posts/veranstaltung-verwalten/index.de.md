@@ -39,7 +39,7 @@ Tools für die Veranstaltungsplanung gibt es wie Sand am Meer. Die passende Soft
 
 ### LineUpr
 
-[LineUpr](https://lineupr.com/) ist eine browserbasierte Veranstaltungs-App aus Deutschland, die seit ihrer Gründung im Jahr 2016 für ihre Benutzerfreundlichkeit und Flexibilität geschätzt wird. Auch ohne Installation bietet sie eine unkomplizierte Lösung, um Teilnehmern alle relevanten Informationen bereitzustellen – von Programmen und Location-Details über Lineup-Profile bis hin zu Info-Seiten und Nachrichten.
+[LineUpr](https://lineupr.com/de) ist eine browserbasierte Veranstaltungs-App aus Deutschland, die seit ihrer Gründung im Jahr 2016 für ihre Benutzerfreundlichkeit und Flexibilität geschätzt wird. Auch ohne Installation bietet sie eine unkomplizierte Lösung, um Teilnehmern alle relevanten Informationen bereitzustellen – von Programmen und Location-Details über Lineup-Profile bis hin zu Info-Seiten und Nachrichten.
 
 Ein besonderes Highlight ist die Möglichkeit, mithilfe der App verschiedene Statistiken zu erfassen. So lassen sich wichtige Erkenntnisse gewinnen und der Erfolg der Veranstaltung im Nachgang transparent analysieren.
 
@@ -50,7 +50,7 @@ Ein besonderes Highlight ist die Möglichkeit, mithilfe der App verschiedene Sta
 
 ### idloom
 
-[Idloom](https://www.idloom.com/) ist eine umfassende Veranstaltungs-Management-Plattform, die von der Agenda-Planung über das Ticketing bis hin zur Rechnungsstellung und Steuerabwicklung jeden Aspekt Ihrer Veranstaltung abdeckt. Das 2015 in Belgien gegründete Unternehmen legt großen Wert auf Sicherheit und belegt dies unter anderem mit der ISO-27001-Zertifizierung.
+[Idloom](https://www.idloom.com/en) ist eine umfassende Veranstaltungs-Management-Plattform, die von der Agenda-Planung über das Ticketing bis hin zur Rechnungsstellung und Steuerabwicklung jeden Aspekt Ihrer Veranstaltung abdeckt. Das 2015 in Belgien gegründete Unternehmen legt großen Wert auf Sicherheit und belegt dies unter anderem mit der ISO-27001-Zertifizierung.
 
 Ein besonderes Merkmal von idloom ist die flexible Registrierung: Von Wartelisten und Gruppenanmeldungen bis hin zu exklusivem Zugang bietet die Plattform vielfältige Möglichkeiten, um Ihren individuellen Anforderungen gerecht zu werden, wenn Sie Veranstaltungen verwalten. Darüber hinaus punktet idloom mit Integrationen, der Möglichkeit zur Erstellung von Zertifikaten und einer flexiblen Anpassung an unternehmensspezifische Anforderungen.
 
@@ -190,7 +190,7 @@ Am Tag der Veranstaltung ist es ratsam, noch einmal mit Ihren Dienstleistern tel
 
 Damit Ihre Veranstaltung ein voller Erfolg wird, ist es maßgebend, jederzeit einen klaren Überblick über Ihre bisherige Planung sowie die kommenden Schritte zu haben. Mit der kostenlosen Vorlage von SeaTable können Sie nicht nur detailliert Ihre Veranstaltungen verwalten, sondern auch stets den Überblick über Kosten, Einnahmen und Budget behalten.
 
-Die Verwendung des integrierten Webformulars ermöglicht es den Teilnehmern, sich problemlos für Ihre Veranstaltung anzumelden. Sie können Rechnungen mit nur einem Klick erstellen und versenden, ohne großen Aufwand betreiben zu müssen. Darüber hinaus bietet die Vorlage die Möglichkeit, das Timeline-Plugin für die Zeitplanung zu nutzen oder das Karten-Plugin, um die Veranstaltungsorte visuell festzuhalten.
+Die Verwendung des integrierten Webformulars ermöglicht es den Teilnehmern, sich problemlos für Ihre Veranstaltung anzumelden. Sie können Rechnungen mit nur einem Klick erstellen und versenden, ohne großen Aufwand betreiben zu müssen. Darüber hinaus bietet die Vorlage die Möglichkeit, die Zeitleisten-Ansicht für die Zeitplanung zu nutzen oder das Karten-Plugin, um die Veranstaltungsorte visuell festzuhalten.
 
 Mit diesen Funktionen bietet SeaTable die ideale Lösung, um die Planung einer Veranstaltung zu optimieren. Alles, was Sie tun müssen, um die Vorlage zu nutzen, ist sich mit Ihrer E-Mail-Adresse zu registrieren.
 

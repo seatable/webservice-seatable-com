@@ -1,5 +1,5 @@
 ---
-title: '¿Acceso de sólo lectura porque se han alcanzado los límites? - TablaMar'
+title: '¿Acceso de sólo lectura porque se han alcanzado los límites?'
 date: 2023-05-03
 lastmod: '2023-05-12'
 categories:

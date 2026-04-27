@@ -12,7 +12,7 @@ seo:
 
 ---
 
-Mit einer Formel für Verknüpfungen können Sie **Daten aus verknüpften Tabellen** in Ihrer aktuellen Tabelle **darstellen, zusammenfassen oder miteinander in Beziehung setzen**. Hierbei spielt SeaTable seine Vorteile als relationale Datenbank aus.
+Mit einer Formel für Verknüpfungen können Sie **Daten aus verknüpften Tabellen** in Ihrer aktuellen Tabelle **darstellen, zusammenfassen oder miteinander in Beziehung setzen**. Hierbei spielt SeaTable seine Vorteile als [relationale Datenbank]({{< relref "posts/relationale-datenbank" >}}) aus.
 
 Für den Spaltentyp stehen Ihnen insgesamt **fünf verschiedene Formeln** zur Verfügung. Voraussetzung für die Verwendung der Spalte ist das Vorhandensein von mindestens einer Spalte des Typs [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in Ihrer Tabelle.
 

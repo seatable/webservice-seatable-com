@@ -15,7 +15,7 @@ seo:
 
 As tabelas em SeaTable podem conter milhares de registos de dados. Para lhe permitir encontrar rápida e facilmente células ou valores individuais, a SeaTable oferece a possibilidade de procurar valores e termos individuais.
 
-## Para encontrar o que procura numa mesa
+## Para encontrar o que procura numa tabela
 
 ![Encontrar uma célula ou valor numa tabela](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 

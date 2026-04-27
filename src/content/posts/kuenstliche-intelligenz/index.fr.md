@@ -54,7 +54,7 @@ La plupart du temps, on distingue deux types d'intelligence artificielle : **l'i
 
 Dans le langage courant, l'intelligence artificielle désigne aujourd'hui presque toujours l'IA faible. Elle est spécialisée dans l'exécution de **tâches répétitives clairement définies**.
 
-Cependant, l'IA faible est incapable de penser, de développer des intentions et de réfléchir sur elle-même. Elle n'a pas de créativité et n'apprend pas d'elle-même, mais doit être entraînée. Sa capacité d'apprentissage est généralement limitée à l'application d'algorithmes (règles d'action claires pour résoudre certains problèmes) et à la reconnaissance de modèles dans de grandes quantités de données. Cela est particulièrement utile dans l'[automatisation des processus]({{< relref "pages/ai-automations" >}}) basée sur des règles, ainsi que dans le **traitement du langage et de l'image**.
+Cependant, l'IA faible est incapable de penser, de développer des intentions et de réfléchir sur elle-même. Elle n'a pas de créativité et n'apprend pas d'elle-même, mais doit être entraînée. Sa capacité d'apprentissage est généralement limitée à l'application d'algorithmes (règles d'action claires pour résoudre certains problèmes) et à la reconnaissance de modèles dans de grandes quantités de données. Cela est particulièrement utile dans l'[automatisation des processus]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) basée sur des règles, ainsi que dans le **traitement du langage et de l'image**.
 
 ### IA forte
 
@@ -107,14 +107,14 @@ L'intelligence artificielle est également utilisée dans de nombreuses entrepri
 
 ### Marketing et ventes
 
-*   Personnalisation de l'[approche client]({{< relref "pages/industry-solutions/kundenmanagement" >}}) lors de la diffusion de publicités
+*   Personnalisation de l'[approche client]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) lors de la diffusion de publicités
 *   Création de contenu plus rapide avec l'IA générative
 *   Analyse de groupes cibles spécifiques pour le [plan marketing]({{< relref "posts/20250318-marketingplan" >}})
 
 ### RH et développement du personnel
 
 *   Entretiens standardisés avec des assistants virtuels
-*   Analyse des qualifications et des profils de personnalité des [candidats]({{< relref "pages/bewerbermanagement" >}})
+*   Analyse des qualifications et des profils de personnalité des [candidats]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 *   Prévisions des [besoins en personnel]({{< relref "posts/personalplanung" >}}) dans des scénarios spécifiques
 
 ### Administration générale
@@ -246,7 +246,7 @@ L'intelligence artificielle générative peut générer un nouveau contenu en su
 {{< /faq >}}
 
 {{< faq "Où l'intelligence artificielle est-elle utilisée ? " >}}
-Les domaines d'application de l'intelligence artificielle sont nombreux. Ils vont de la recherche médicale et des modèles climatiques aux systèmes d'IA dans les entreprises, en passant par l'intelligence artificielle au quotidien. L'intelligence artificielle y trouve des applications dans la production, l'administration, les [ressources humaines]({{< relref "pages/industry-solutions/hr" >}}), le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), le support client et d'autres domaines.
+Les domaines d'application de l'intelligence artificielle sont nombreux. Ils vont de la recherche médicale et des modèles climatiques aux systèmes d'IA dans les entreprises, en passant par l'intelligence artificielle au quotidien. L'intelligence artificielle y trouve des applications dans la production, l'administration, les [ressources humaines]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), le support client et d'autres domaines.
 {{< /faq >}}
 
 {{< faq "Quels problèmes l'intelligence artificielle peut-elle poser ? " >}}

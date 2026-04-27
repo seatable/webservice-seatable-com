@@ -1,5 +1,5 @@
 ---
-title: 'Page permissions in a universal app'
+title: 'Page permissions in an app'
 date: 2023-05-03
 lastmod: '2023-11-30'
 categories:
@@ -9,22 +9,22 @@ url: '/help/page-permissions-in-a-universal-app'
 aliases:
     - '/help/seitenberechtigungen-in-einer-universellen-app'
 seo:
-    title: 'Page permissions in Universal App – SeaTable guide'
-    description: 'Learn how to set and manage page permissions in SeaTable’s Universal App, control user access, roles and data editing rights.'
+    title: 'Page permissions in app – SeaTable guide'
+    description: 'Learn how to set and manage page permissions in SeaTable’s app, control user access, roles and data editing rights.'
 ---
 
 {{< required-version "Enterprise" >}}
 
-To precisely control **access to your data**, you can set **individual page permissions for** each page you have created in a Universal App. You edit the permissions through the page settings.
+To precisely control **access to your data**, you can set **individual page permissions for** each page you have created in an app. You edit the permissions through the page settings.
 
 {{< warning type="warning" headline="Default page permissions" text="When you create **new pages** in your app, they initially grant all available permissions to all users. However, if you want to restrict the usage rights, you will need to adjust the page permissions." />}}
 
 ## Set and edit page permissions
 
-1. Open a **base** to which you have already added a Universal App.
+1. Open a **base** to which you have already added an app.
 2. Click **Apps** in the base header.
 ![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
-3. Hover your mouse over the Universal App and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
+3. Hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Click on the edit icon](images/add-page-to-universal-app-1.png)
 4. Select the desired **page** from the navigation on the left side of the page and click on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 ![Click on the edit icon](images/page-permissions-universal-app.png)
@@ -61,6 +61,6 @@ For each permission, you can choose from the following options to narrow down th
 
 ![Available page permission options Who can see the page?](images/page-permission-who-can-add-records.png)
 
-Select the **Specific roles** option to define your own roles. To do this, create new **roles** for individual user groups in the [User and Role Management]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) beforehand, to which you can assign permissions individually on each page of the Universal App.
+Select the **Specific roles** option to define your own roles. To do this, create new **roles** for individual user groups in the [User and Role Management]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) beforehand, to which you can assign permissions individually on each page of the app.
 
 ![Definition of specific roles that have the appropriate authorization](images/define-roles.png)

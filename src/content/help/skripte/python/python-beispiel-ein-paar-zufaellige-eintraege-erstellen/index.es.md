@@ -11,11 +11,15 @@ aliases:
 seo:
     title: 'Python: genera entradas aleatorias en SeaTable'
     description: 'Genera fácilmente múltiples filas de ejemplo en tu base SeaTable con este script Python. Acelera pruebas y prototipos con datos automáticos y opcionales.'
-
+weight: 5
 ---
 
 
 A veces quieres generar unas cuantas entradas de muestra en una base. Con este script de Python puedes generar desde unas pocas hasta muchos miles de entradas en poco tiempo.
+
+![Random Entries in SeaTable](random-entries.png)
+
+{{< dtable-download name="Random Entries" file="/downloads/python-examples/random-entries.dtable" text="Base con estructura de tabla adecuada y script listo para probar directamente." />}}
 
 Este artículo te guiará a través de las diferentes secciones del script para que entiendas cómo funciona y puedas adaptarlo a tus necesidades si es necesario. El script completo se encuentra al final de este artículo.
 

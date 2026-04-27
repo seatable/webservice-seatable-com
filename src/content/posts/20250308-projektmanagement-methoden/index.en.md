@@ -39,7 +39,7 @@ In addition to traditional and agile methods, there are also hybrid methods of p
 
 ### How to find the right method for your project management
 
-Which [project management]({{< relref "pages/industry-solutions/project-management" >}}) method is best suited to your project depends on the complexity of the project, your available resources, the time frame and the flexibility in the face of changes and risks.
+Which [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) method is best suited to your project depends on the complexity of the project, your available resources, the time frame and the flexibility in the face of changes and risks.
 
 Ask yourself the following questions:
 

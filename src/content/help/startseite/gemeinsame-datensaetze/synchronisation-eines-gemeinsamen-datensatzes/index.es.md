@@ -66,7 +66,7 @@ Puede utilizar esta función para asegurarse de que los demás usuarios utilizan
 
 {{< warning headline="Autorización necesaria" text="Sólo puede forzar la sincronización si está autorizado a hacerlo como **creador** del registro de datos compartidos." />}}
 
-## Efectos de la sincronización en la mesa
+## Efectos de la sincronización en la tabla
 
 ### Filas
 

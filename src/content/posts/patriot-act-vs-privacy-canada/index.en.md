@@ -82,6 +82,6 @@ Not convinced yet? You can find more information about SeaTable on the [website]
 
 ### Tip for Airtable users
 
-A detailed comparison of Airtable and SeaTable can be found [here]({{< relref "pages/airtable-alternative" >}}). As an Airtable user, you can also easily migrate all your base data to SeaTable without any programming knowledge by using a script. How this works is explained in [this help article]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
+A detailed comparison of Airtable and SeaTable can be found [here]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}). As an Airtable user, you can also easily migrate all your base data to SeaTable without any programming knowledge by using a script. How this works is explained in [this help article]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 {{< warning headline="Disclaimer" text="Privacy laws vary from region to region and may change at any time. Despite thorough research, this article is not a substitute for authoritative legal advice in your country, so we cannot accept responsibility for any legal misconceptions." />}}

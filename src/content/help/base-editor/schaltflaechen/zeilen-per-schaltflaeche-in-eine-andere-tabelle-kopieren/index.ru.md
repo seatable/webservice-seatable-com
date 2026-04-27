@@ -61,7 +61,7 @@ seo:
 
 {{< warning  headline="Примечание" >}}
 
-Это действие кнопки не поддерживается на [страницах таблиц в универсальных приложениях]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). При нажатии кнопки появляется соответствующее сообщение об ошибке.
+Это действие кнопки не поддерживается на [страницах таблиц в приложениях]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). При нажатии кнопки появляется соответствующее сообщение об ошибке.
 
 {{< /warning >}}
 

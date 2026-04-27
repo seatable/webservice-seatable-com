@@ -41,7 +41,7 @@ No **se puede recuperar** una aplicación eliminada. Si no está seguro de si po
 
 Lo primero es lo primero: al borrar una **aplicación nunca se pierden los datos de la base subyacente**. Así que técnicamente solo estás borrando una interfaz de usuario y _no_ la base de datos en segundo plano.
 
-Sin embargo, tenga en cuenta que cuando elimina una aplicación universal, todas las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) que se encuentran en la **aplicación** también **se eliminan de forma permanente** y _no se pueden restaurar_.
+Sin embargo, tenga en cuenta que cuando elimina una aplicación, todas las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) que se encuentran en la **aplicación** también **se eliminan de forma permanente** y _no se pueden restaurar_.
 
 Cuando eliminas una **aplicación de galería**, _sólo_ se eliminan las **galerías** mostradas en la aplicación, pero las **imágenes** permanecen en las [columnas de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) de tus tablas.
 

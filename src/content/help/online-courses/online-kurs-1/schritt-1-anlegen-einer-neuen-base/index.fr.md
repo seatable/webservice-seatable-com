@@ -73,7 +73,7 @@ Ensuite, nous nous penchons sur les colonnes du tableau afin que notre base puis
 
 ---
 
-{{< warning  headline="25 types de colonnes"  text="Jusqu'à présent, vous n'avez découvert qu'une fraction des types de colonnes possibles. L'une des plus grandes forces de SeaTable est que vous pouvez vraiment stocker tout type d'information grâce aux 25 types de colonnes actuels." />}}
+{{< warning  headline="26 types de colonnes"  text="Jusqu'à présent, vous n'avez découvert qu'une fraction des types de colonnes possibles. L'une des plus grandes forces de SeaTable est que vous pouvez vraiment stocker tout type d'information grâce aux 26 types de colonnes actuels." />}}
 
 ## Sélection simple Ajouter des options
 

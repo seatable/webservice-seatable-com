@@ -1,7 +1,7 @@
 ---
 title: 'Supprimer des automatisations'
 date: 2022-12-06
-lastmod: '2023-02-01'
+lastmod: '2025-11-05'
 categories:
     - 'automationen'
 author: 'nsc2'
@@ -13,8 +13,6 @@ seo:
     description: 'Mode d’emploi pour effacer une automatisation dans SeaTable, éviter les erreurs, connaître l’impact sur les règles et actions.'
 weight: 10
 ---
-
-{{< required-version "Entreprise" >}}
 
 Vous pouvez **supprimer** à tout moment les **règles d'automatisation** déjà créées. Attention aux conséquences de la suppression sur les différentes **actions automatisées**.
 

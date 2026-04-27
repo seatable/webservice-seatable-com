@@ -29,16 +29,16 @@ Basically, you can test your apps at any time by opening them in normal mode.
 
 ![Open app](images/App-oeffnen-1.png)
 
-## Open the preview in Universal App Builder
+## Open the preview in SeaTable App Builder
 
 You can also view the current status of your app at any time in the **editing mode** of the App Builder.
 
-1. Hover your mouse over the Universal App and click the **pencil icon that** appears {{< seatable-icon icon="dtable-icon-rename" >}} to open it in edit mode.
+1. Hover your mouse over the app and click the **pencil icon that** appears {{< seatable-icon icon="dtable-icon-rename" >}} to open it in edit mode.
 
 ![Edit apps](images/Apps-bearbeiten.png)
 
 3. Click the **eye icon** at the top left of the page.
 
-![Opening the app preview of a universal app](images/open-app-preview-of-the-universal-app.png)
+![Opening the app preview of an app](images/open-app-preview-of-the-universal-app.png)
 
 5. The **app preview** will then open in a new window.

@@ -6,11 +6,28 @@ categories:
     - 'javascript-python'
 author: 'cdb'
 url: '/es/ayuda/python-generar-qr'
+seo:
+    title: 'Python: Generar códigos QR en SeaTable'
+    description: 'Genere códigos QR a partir de texto o URLs y guárdelos como imágenes directamente en SeaTable con este script Python.'
 ---
 
-Este script genera códigos QR a partir de contenido de texto almacenado en una columna de SeaTable y guarda las imágenes resultantes en una columna de imagen.
 
-## The complete script
+Este script lee contenido de texto (por ej. URLs, IDs de producto) de una columna, genera imágenes de códigos QR y las guarda en una columna de imagen. El script recorre todas las filas de la tabla y por lo tanto es adecuado para la ejecución manual o como automatización — no como script de botón.
+
+![QR Code Generator in SeaTable](qr-code-generator.png)
+
+{{< dtable-download name="QR Code Generator" file="/downloads/python-examples/qr-code.dtable" text="Base con datos de ejemplo y script listo para probar directamente." />}}
+
+## Requisitos
+
+La tabla necesita al menos dos columnas:
+
+- Una **columna de texto** o **URL** con el contenido a codificar como código QR.
+- Una **columna de imagen** donde se guardará el código QR generado.
+
+## El script
+
+Adapte las cuatro variables del inicio a la estructura de su tabla. El script omite las filas que no tienen valor de texto o que ya contienen un código QR. Establezca `OVERWRITE = True` para regenerar los códigos QR existentes.
 
 ```python
 from seatable_api import Base, context
@@ -41,12 +58,20 @@ for row in rows:
     img.save(buf, format='PNG')
     buf.seek(0)
 
-    info = base.upload_bytes_file(row['Name'] + '.png', buf.read())
+    info = base.upload_bytes_file(str(text) + '.png', buf.read(), file_type='image')
     base.update_row(TABLE_NAME, row['_id'], {IMAGE_COLUMN: [info.get('url')]})
 
 print("QR codes generated.")
 ```
 
-Set `OVERWRITE = True` if you want to regenerate existing QR codes. Adjust `TEXT_COLUMN` and `IMAGE_COLUMN` to match your column names.
+## Ejecución
 
-For the complete function reference, visit the [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).
+El script se puede iniciar de tres formas:
+
+- **Manualmente** en el editor Python de la base
+- **Por automatización** (por ej. programada o al crear nuevas filas)
+- **Por botón** — para ello el script debería adaptarse para procesar solo la fila actual
+
+Más información [aquí]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).
+
+Para la referencia completa de funciones, visite el [SeaTable Developer Manual](https://developer.seatable.com/python/objects/).

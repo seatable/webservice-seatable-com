@@ -19,7 +19,7 @@ A fórmula Findmax só funciona com **valores numéricos**, razão pela qual o c
 
 ## Para que precisa da fórmula Findmax
 
-A **função Findmax** deve ser utilizada quando se pretende **cruzar** valores numéricos armazenados em diferentes tabelas. Digamos que utiliza o SeaTable para recolher as **horas de trabalho dos** seus empregados, onde uma mesa armazena os empregados e outra mesa armazena a actividade diária. Pode então ligar cada registo de empregado às horas de trabalho introduzidas.
+A **função Findmax** deve ser utilizada quando se pretende **cruzar** valores numéricos armazenados em diferentes tabelas. Digamos que utiliza SeaTable para recolher as **horas de trabalho** dos seus empregados, onde uma tabela armazena os empregados e outra tabela armazena a actividade diária. Pode então ligar cada registo de empregado às horas de trabalho introduzidas.
 
 ![fórmula findmax](images/findmax-1.png)
 

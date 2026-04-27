@@ -2,6 +2,7 @@
 title: 'Con estos 4 pasos para una gestión perfecta del producto - SeaTable'
 description: 'Planificación, control y análisis: sigue estos cuatro pasos para optimizar tu gestión de productos. Aprende a automatizar procesos, ordenar contactos y conocer las claves para un producto exitoso – todo con ejemplos prácticos y una plantilla flexible.'
 date: 2021-04-29
+lastmod: '2023-07-11'
 categories:
     - 'best-practice'
 tags: 
@@ -38,7 +39,7 @@ Las tareas de gestión de productos incluyen todas las etapas por las que pasa u
 - **Concepto**: desarrollo de la estrategia de mercado, precio, distribución, comunicación; prototipo, resumen de costes
 - **Implementación**: implementación técnica, implementación de estrategias, lanzamiento de productos
 
-Además, hay algunas tareas organizativas que asume un gestor de productos. Actúa como **interfaz** entre el [marketing]({{< relref "pages/industry-solutions/marketing" >}}), las [ventas]({{< relref "templates/sales/sales-pipeline" >}}) y el desarrollo de productos, así como la producción. Para las distintas etapas del proceso de desarrollo del producto, el jefe de producto también coordina la **[Gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}})**. Por ello, la gestión de productos también está muy ocupada con la formación y los análisis de la estrategia, que se producen además de la concepción y el desarrollo del propio producto.
+Además, hay algunas tareas organizativas que asume un gestor de productos. Actúa como **interfaz** entre el [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), las [ventas]({{< relref "templates/sales/sales-pipeline" >}}) y el desarrollo de productos, así como la producción. Para las distintas etapas del proceso de desarrollo del producto, el jefe de producto también coordina la **[Gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. Por ello, la gestión de productos también está muy ocupada con la formación y los análisis de la estrategia, que se producen además de la concepción y el desarrollo del propio producto.
 
 ### Desafíos en la gestión de productos
 
@@ -72,7 +73,7 @@ En la ficha técnica del producto encontrará toda la información importante so
 
 ### 3\. todos los contactos de un vistazo
 
-En el proceso de desarrollo del producto, éste pasa por varios departamentos. El [marketing]({{< relref "pages/industry-solutions/marketing" >}}), las ventas, la planta de producción, la fotografía y también el comercio minorista son importantes puntos de contacto diarios en el trabajo de un gestor de productos. Resulta entonces práctico que todos los datos de contacto se recojan en un solo lugar y, por tanto, sean accesibles para todos. Esto es tan útil para el sustituto de vacaciones como para el nuevo aprendiz. Además, también se puede añadir información, como actas de reuniones, documentos importantes o próximas citas telefónicas. Con SeaTable, crear una libreta de direcciones dentro de una tabla no supone ningún problema.
+En el proceso de desarrollo del producto, éste pasa por varios departamentos. El [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), las ventas, la planta de producción, la fotografía y también el comercio minorista son importantes puntos de contacto diarios en el trabajo de un gestor de productos. Resulta entonces práctico que todos los datos de contacto se recojan en un solo lugar y, por tanto, sean accesibles para todos. Esto es tan útil para el sustituto de vacaciones como para el nuevo aprendiz. Además, también se puede añadir información, como actas de reuniones, documentos importantes o próximas citas telefónicas. Con SeaTable, crear una libreta de direcciones dentro de una tabla no supone ningún problema.
 
 ![Los datos de contacto de los proveedores y clientes son muy importantes para una gestión fluida de los productos](Suppliers-and-Contacts.jpg)
 
@@ -80,7 +81,7 @@ Anote todos los datos de contacto importantes de sus proveedores y clientes
 
 ### 4\. evaluar inteligentemente las cifras de ventas
 
-En la gestión de productos, las ventas son un importante instrumento de control para evaluar el éxito de las medidas y estrategias. ¿Hay tal vez alguna tienda que no va bien del todo? ¿Hay que presentar los productos de nuevo o estructurar el surtido de forma diferente? Las cifras de ventas son ratios muy importantes para las empresas, de las que pueden extraer información valiosa. Si las ventas son buenas, es una prueba de la buena gestión del producto y de que se han alcanzado los objetivos fijados. Si hay que mejorar, las cifras de ventas también pueden aportar información al respecto. Si las cifras de ventas incluyen incluso datos demográficos, que pueden recopilarse, por ejemplo, a través del comercio en línea, el análisis del grupo objetivo puede optimizarse considerablemente, por ejemplo, creando [personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) o adaptando la estrategia de marketing a segmentos específicos del grupo objetivo.
+En la gestión de productos, las ventas son un importante instrumento de control para evaluar el éxito de las medidas y estrategias. ¿Hay tal vez alguna tienda que no va bien del todo? ¿Hay que presentar los productos de nuevo o estructurar el surtido de forma diferente? Las cifras de ventas son ratios muy importantes para las empresas, de las que pueden extraer información valiosa. Si las ventas son buenas, es una prueba de la buena gestión del producto y de que se han alcanzado los objetivos fijados. Si hay que mejorar, las cifras de ventas también pueden aportar información al respecto. Si las cifras de ventas incluyen incluso datos demográficos, que pueden recopilarse, por ejemplo, a través del comercio en línea, el análisis del grupo objetivo puede optimizarse considerablemente, por ejemplo, creando [personas](https://reachx.de/artikel/6-punkte-anleitung-zur-erstellung-individueller-personas) o adaptando la estrategia de marketing a segmentos específicos del grupo objetivo.
 
 ![Las cifras de ventas también desempeñan un papel importante en la gestión de productos. Con SeaTable no se pierde de vista nada](Sales_1.jpg)
 

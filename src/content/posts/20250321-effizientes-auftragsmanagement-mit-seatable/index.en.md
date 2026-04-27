@@ -24,7 +24,7 @@ SeaTable can be used for a wide variety of purposes thanks to the flexibility of
 
 ## Growing complexity and lack of transparency in order management
 
-Our customer offers the construction and maintenance of building installations. The rapidly growing company previously used Excel for order management. However, as the order volume grew, the employees increasingly reached the limits of the system and were looking for an [Excel alternative]({{< relref "pages/excel-alternative" >}}). Many processes were inefficient due to a lack of automation functions and had to be processed manually. The lack of true real-time collaboration meant that data was not always up-to-date and process statuses were not always transparent. In addition, there were increasing concerns about data security. A switch to a new, modern system became imperative.
+Our customer offers the construction and maintenance of building installations. The rapidly growing company previously used Excel for order management. However, as the order volume grew, the employees increasingly reached the limits of the system and were looking for an [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). Many processes were inefficient due to a lack of automation functions and had to be processed manually. The lack of true real-time collaboration meant that data was not always up-to-date and process statuses were not always transparent. In addition, there were increasing concerns about data security. A switch to a new, modern system became imperative.
 
 **The company's main requirements included:**
 
@@ -51,10 +51,10 @@ Different tables have been created and linked together for different work phases
 
 ### Data visualization
 
-A very significant advance is the uncomplicated **creation of dashboards to monitor** and analyze profit margins, employee KPIs or project progress. The integrated Kanban and timeline plugin for Gantt charts proved to be particularly helpful for project schedules and progress.
+A very significant advance is the uncomplicated **creation of dashboards to monitor** and analyze profit margins, employee KPIs or project progress. The integrated Kanban and timeline view for Gantt charts proved to be particularly helpful for project schedules and progress.
 
 ![Planning a construction site with data visualization in SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 
 ## New growth impetus through more efficient workflows and transparency
 
-The implementation of SeaTable has helped the company to modernize its order management and implement efficient, [digital workflows]({{< relref "pages/industry-solutions/individual" >}}). All employees can now work simultaneously in one system with up-to-date data without fear of data loss. Project managers and the management have access to current data visualizations at all times to evaluate relevant key business figures and project status. And all in one system. Order management in SeaTable has significantly accelerated work processes and decisions, while at the same time creating the basis for future growth.
+The implementation of SeaTable has helped the company to modernize its order management and implement efficient, [digital workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}). All employees can now work simultaneously in one system with up-to-date data without fear of data loss. Project managers and the management have access to current data visualizations at all times to evaluate relevant key business figures and project status. And all in one system. Order management in SeaTable has significantly accelerated work processes and decisions, while at the same time creating the basis for future growth.

@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Digitaler Kleiderschrank und Outfit-Planer von SeaTable'
       subtitle: 'Flexibler als andere Kleiderschrank-Apps'
-      description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen organisierten Kleiderschrank und **mehr Transparenz und Überblick im Alltag**.'
+      description: 'Eine einfache Liste in Notizen-Apps oder in Excel ist schnell erstellt – aber auch unübersichtlich. Mit der [KI No-Code Lösung SeaTable]({{< relref "/" >}}) erstellen Sie Ihre persönliche Garderoben App für einen [organisierten Kleiderschrank]({{< relref "posts/kleiderschrank-organisieren" >}}) und **mehr Transparenz und Überblick im Alltag**.'
       items:
       - text: '**Stets aktuell**: Neue Teile oder Ideen können jedrzeit eingetragen werden und sind immer aktuell.'
       - text: '**Zugriff von überall**: Mit der Cloud-Lösung haben Sie Ihren gesamten Kleiderschrank immer dabei.'
@@ -92,7 +92,7 @@ sections:
         image: '/images/template_page_digitalerkleiderschrank_02.png'
         image_alt: 'Kostenlose App für Kleiderschrank und Outfit-Planung mit Galerie-Ansicht.'
       - headline: 'Outfit-Planer'
-        text: 'Stellen Sie aus Ihren Kleidungsstücken komplette **Outfits für verschiedene Anlässe** zusammen und erfassen Sie diese übersichtlich. Die strukturierte Planung spart Ihnen im Alltag Zeit und garantiert eine abwechslungsreiche Nutzung Ihrer Garderobe'
+        text: 'Stellen Sie aus Ihren Kleidungsstücken komplette **Outfits für verschiedene Anlässe** zusammen und erfassen Sie diese übersichtlich. Die strukturierte Planung spart Ihnen im Alltag Zeit und garantiert eine abwechslungsreiche Nutzung Ihrer Garderobe.'
         image: '/images/template_page_digitalerkleiderschrank_04.png'
         image_alt: 'Übersichtliche Darstellung verschiedener Outfits und Kombinationen in der Kleiderschrank App.'
       - headline: 'Wunschliste anlegen und teilen'
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'Ihr digitaler Kleiderschrank mit KI-Funktionen'
       subtitle: 'Smarter Alltagshelfer'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "pages/ai-automations" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-unterstützten Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Fassen Sie Beschreibungstexte prägnant zusammen, extrahieren Sie Pflegehinweise oder lassen Sie sich Outfit-Vorschläge generieren – **DSGVO-konform auf europäischen Servern in Deutschland**.'
       items:
       - headline: 'Automatische Zusammenfassungen mit Summarize'
         text: 'Erfassen Sie Notizen zu Anlass, Stimmung und Tragekomfort und generieren Sie automatisch eine kurze Style-Headline zu jedem Outfit. In der Kalender-Ansicht haben Sie dann einen prägnanten Überblick über den Look, ohne den kompletten Datensatz lesen zu müssen.'
@@ -161,12 +161,12 @@ sections:
       - q: "Kann ich meinen digitalen Kleiderschrank mit mehreren Personen nutzen?"
         a: 'Ja, Sie können unsere Vorlage für einen Online-Kleiderschrank auch für mehrere Personen anlegen oder freigeben. Wenn Sie SeaTable in der Free-Subscription nutzen, können Sie bis zu 24 weitere Nutzer einladen, oder alternativ einen Freigabe-Link für externe Nutzer erstellen, mit dem diese auf Ihr App-Frontend zugreifen können.'  
       - q: "Welche KI-Funktionen unterstützt die Kleiderschrank-App?"
-        a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einem Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Texte aus Bildern extrahieren, Kleidungsstücke kategorisieren oder Outfitvorschläge erzeugen'
+        a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einem Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Texte aus Bildern extrahieren, Kleidungsstücke kategorisieren oder Outfitvorschläge erzeugen.'
       - q: "Kann ich meinen digitalen Kleiderschrank mit anderen Vorlagen verbinden?"
         a: 'Absolut, Sie können Ihre Vorlage mit weiteren passenden SeaTable-Vorlagen wie z. B. dem [Haushaltsbuch]({{< relref "templates/finance/budget-book" >}}) oder dem [Urlaubsplaner]({{< relref "templates/events/travel-planner" >}}) kombinieren oder über [Integrationen]({{< relref "pages/integrations" >}}) mit anderen genutzten Tools verknüpfen. '
       - q: "Kann ich auch Fotos von Outfits und Kombinationen speichern?"
         a: 'Ja, Sie können Fotos, Videos und andere Dateien speichern und mit Ihren gespeicherten Kleidungsstücken und Outfits verknüpfen.'
       - q: 'Ist die KI-Nutzung bei SeaTable DSGVO-konform?'
-        a: 'Absolut, mit SeaTable brauchen Sie sich keine Gedanken zu machen, ob Ihre Informationen als Trainingsdaten missbraucht werden. Wir hosten SeaTable Cloud und [unser eigenes KI-Modell]({{< relref "pages/ai-automations" >}}) auf zertifizierten europäischen Servern in Deutschland. Es findet kein Datenaustausch mit externen KI-Anbietern statt und Ihre Daten verlassen zu keinem Zeitpunkt die SeaTable-Infrastruktur.'        
+        a: 'Absolut, mit SeaTable brauchen Sie sich keine Gedanken zu machen, ob Ihre Informationen als Trainingsdaten missbraucht werden. Wir hosten SeaTable Cloud und [unser eigenes KI-Modell]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) auf zertifizierten europäischen Servern in Deutschland. Es findet kein Datenaustausch mit externen KI-Anbietern statt und Ihre Daten verlassen zu keinem Zeitpunkt die SeaTable-Infrastruktur.'        
 ---
 

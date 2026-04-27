@@ -66,7 +66,7 @@ Assurez-vous des canaux de distribution exclusifs et ayez toujours une longueur 
 
 ## Le rôle de la politique de distribution dans le marketing mix
 
-Outre la politique de produits, de prix et de communication, la politique de distribution fait partie des quatre instruments élémentaires du marketing-mix, décrits par E. Jerome McCarthy dès les années 1960. **On y distingue la distribution physique et la distribution par acquisition**, c'est-à-dire la distribution logistique et [l'acquisition de clients]({{< relref "pages/industry-solutions/kundenmanagement" >}}), qui consiste à concevoir la stratégie de distribution et le processus de vente.
+Outre la politique de produits, de prix et de communication, la politique de distribution fait partie des quatre instruments élémentaires du marketing-mix, décrits par E. Jerome McCarthy dès les années 1960. **On y distingue la distribution physique et la distribution par acquisition**, c'est-à-dire la distribution logistique et [l'acquisition de clients]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}), qui consiste à concevoir la stratégie de distribution et le processus de vente.
 
 ![La logistique de distribution s'occupe de la distribution physique](Distribution.jpg)
 

@@ -28,7 +28,7 @@ A ligação de registos de dados é uma das funções centrais do SeaTable, que 
 Para podermos criar ligações, precisamos de uma segunda tabela, que vamos criar agora.
 
 1. Criar uma segunda tabela com o nome `Categories` na mesma base.
-2. A mesa `Categories` requer apenas uma coluna: `Name`. Este é criado por defeito, pelo que não é necessário fazer nada aqui.
+2. A tabela `Categories` requer apenas uma coluna: `Name`. Este é criado por defeito, pelo que não é necessário fazer nada aqui.
 3. Adicionar manualmente quatro entradas à tabela `Categories` em:
 
     - `Travel`
@@ -38,7 +38,7 @@ Para podermos criar ligações, precisamos de uma segunda tabela, que vamos cria
 
     ![Tabela «Categories» com quatro categorias: Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
-4. Voltar à mesa `Expenses`.
+4. Voltar à tabela `Expenses`.
 
 5. Insira outra coluna. Dar à nova coluna o nome `Category-Link` e selecionar o tipo de coluna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` desligado. A coluna liga ao quadro `Categories`.  
    ![Janela para criar a coluna de ligação «Category-Link» para a tabela «Categories»](images/level1-create-link-column.png)
@@ -59,7 +59,7 @@ Para isso, criar uma nova operação de processamento de dados com o nome `Assig
 Também é necessário efetuar as seguintes definições para que o SeaTable saiba como pretende ligar os seus dados:
 
 - Tabela: `Expenses`
-- Outra mesa: `Categories`
+- Outra tabela: `Categories`
 - Se coluna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Coluna: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 

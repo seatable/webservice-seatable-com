@@ -54,7 +54,7 @@ Meist unterscheidet man künstliche Intelligenz in die Arten **starke und schwac
 
 Im Sprachgebrauch meint künstliche Intelligenz heute fast immer schwache KI. Diese ist darauf spezialisiert, **klar definierte, wiederkehrende Aufgaben** besonders gut zu erledigen.
 
-Schwache KI kann jedoch nicht denken, keine Absichten entwickeln und sich nicht selbst reflektieren. Sie besitzt keine Kreativität und lernt nicht selbstständig, sondern muss trainiert werden. Ihre Lernfähigkeit ist meist begrenzt auf die Anwendung von Algorithmen (eindeutige Handlungsvorschriften zur Lösung bestimmter Probleme) und auf das Erkennen von Mustern in großen Datenmengen. Vor allem in der regelbasierten [Automatisierung von Prozessen]({{< relref "pages/ai-automations" >}}) sowie in der **Sprach- und Bildverarbeitung** ist das von großem Nutzen.
+Schwache KI kann jedoch nicht denken, keine Absichten entwickeln und sich nicht selbst reflektieren. Sie besitzt keine Kreativität und lernt nicht selbstständig, sondern muss trainiert werden. Ihre Lernfähigkeit ist meist begrenzt auf die Anwendung von Algorithmen (eindeutige Handlungsvorschriften zur Lösung bestimmter Probleme) und auf das Erkennen von Mustern in großen Datenmengen. Vor allem in der regelbasierten [Automatisierung von Prozessen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) sowie in der **Sprach- und Bildverarbeitung** ist das von großem Nutzen.
 
 ### Starke KI
 
@@ -107,14 +107,14 @@ Auch in vielen Unternehmen findet künstliche Intelligenz Anwendung. Da sich die
 
 ### Marketing und Vertrieb
 
-*   Personalisierte [Kundenansprache]({{< relref "pages/industry-solutions/kundenmanagement" >}}) bei der Ausspielung von Werbung
+*   Personalisierte [Kundenansprache]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) bei der Ausspielung von Werbung
 *   Schnellere Content-Erstellung mit generativer KI
 *   Analyse bestimmter Zielgruppen für den [Marketingplan]({{< relref "posts/20250318-marketingplan" >}}) 
 
 ### HR und Personalentwicklung
 
 *   Standardisierte Interviews mit virtuellen Assistenten
-*   Analyse der Qualifikationen und Persönlichkeitsprofile von [Bewerbern]({{< relref "pages/bewerbermanagement" >}})
+*   Analyse der Qualifikationen und Persönlichkeitsprofile von [Bewerbern]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 *   Prognosen zum [Personalbedarf]({{< relref "posts/personalplanung" >}}) in bestimmten Szenarien
 
 ### Allgemeine Verwaltung
@@ -246,7 +246,7 @@ Generative künstliche Intelligenz kann neue Inhalte erzeugen, indem sie die erl
 {{< /faq >}}
 
 {{< faq "Wo wird künstliche Intelligenz eingesetzt? " >}}
-Die Anwendungsbereiche für künstliche Intelligenz sind vielfältig. Sie reichen von der medizinischen Forschung und Klimamodellen über die künstliche Intelligenz im Alltag bis hin zu KI-Systemen in Unternehmen. Dort findet die künstliche Intelligenz Anwendung in der Produktion, der Verwaltung, der [Personalabteilung]({{< relref "pages/industry-solutions/hr" >}}), im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), im Kundensupport und anderen Bereichen.
+Die Anwendungsbereiche für künstliche Intelligenz sind vielfältig. Sie reichen von der medizinischen Forschung und Klimamodellen über die künstliche Intelligenz im Alltag bis hin zu KI-Systemen in Unternehmen. Dort findet die künstliche Intelligenz Anwendung in der Produktion, der Verwaltung, der [Personalabteilung]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), im Kundensupport und anderen Bereichen.
 {{< /faq >}}
 
 {{< faq "Welche Probleme kann künstliche Intelligenz mit sich bringen? " >}}

@@ -14,8 +14,6 @@ seo:
 weight: 9
 ---
 
-{{< required-version "Enterprise" >}}
-
 If you do not want to run automations for a certain period of time, you can **pause** them instead of [deleting]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) them. This has the advantage that you can simply **restart** paused automations, while you have to create deleted automations from scratch again.
 
 ## Temporarily stop automations

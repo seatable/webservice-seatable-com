@@ -1,22 +1,23 @@
 ---
-title: 'Query pages in universal apps'
+title: 'Query pages in SeaTable apps'
 date: 2023-12-08
 lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/query-pages-universal-apps'
+url: '/help/query-pages-seatable-apps'
 aliases:
     - '/help/abfrageseiten-in-universellen-apps'
+    - '/help/query-pages-universal-apps'
 seo:
-    title: 'Use query pages in Universal Apps'
-    description: 'Search and filter large datasets in SeaTable Universal Apps by values: define filters, sorting and query fields for custom results.'
-
+    title: 'Use query pages in SeaTable Apps'
+    description: 'Search and filter large datasets in SeaTable Apps by values: define filters, sorting and query fields for custom results.'
+weight: 9
 ---
 
-Using this page type, which works in a similar way to the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), you can search your data records for specific values across certain fields. The page type is particularly useful for **extensive data records** such as product catalogs or libraries. A specific use case could be, for example, querying an employee directory.
+Using this page type, you can search your data records for specific values across certain fields. The page type is particularly useful for **extensive data records** such as product catalogs or libraries. A specific use case could be, for example, querying an employee directory.
 
-![Query pages in universal apps](images/Abfrageseiten-in-Universellen-Apps.png)
+![Query pages in SeaTable apps](images/Abfrageseiten-in-Universellen-Apps.png)
 
 ## Page settings
 
@@ -30,13 +31,13 @@ In the **page settings**, first define the **table** to be searched.
 
 You can then define preset **filters**, **sorting** and **hidden columns** to limit and organize the data displayed for users. To filter or sort, click on **Add filter** or **Add sorting**, select the desired **column** and **condition** and confirm with **Submit**.
 
-![Add filter on query pages in Universal Apps](images/Add-filter-on-query-pages-in-Universal-Apps.png)
+![Add filter on query pages](images/Add-filter-on-query-pages-in-Universal-Apps.png)
 
 Users can see all the information of the applicable data records in the **query results** if you do not restrict them. Therefore, decide which data should be **visible** and show or hide the corresponding columns using the **sliders**.
 
-![Hide columns on query pages in Universal Apps](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
+![Hide columns on query pages](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Important note"  text="App users **cannot change****preset filters** and **hidden columns**. You will therefore only see the filtered entries, as you wish. However, users can customize the **row height** and **sorting** of the queried data records." />}}
+{{< warning  headline="Important note"  text="App users **cannot change preset filters** and **hidden columns**. You will therefore only see the filtered entries, as you wish. However, users can customize the **row height** and **sorting** of the queried data records." />}}
 
 ## Add query fields
 
@@ -50,7 +51,7 @@ You can then select the desired **column** and set whether the query field shoul
 
 You can add an introductory **note** to your query page, which can contain explanations on how to fill in the query fields, for example. To do this, simply activate the **slider** in the page settings and write the note in the text box that appears.
 
-![Add reference to query pages of the universal app](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
+![Add note to query pages](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
 
 ## Edit query results
 
@@ -73,7 +74,7 @@ All users with access to the query page can then **edit** the **data records** t
 
 At the bottom of the page settings, you can restrict who can see the query page.
 
-![Authorization for individual pages of the Universal App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Authorization for query pages](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 This is the only [page authorization]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) you can select here. You cannot add or delete rows in the table via query pages.
 
@@ -88,7 +89,3 @@ One application example is an internal job board: the query page allows you to q
 [Buttons]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) can **always** be pressed regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the query results.
 
 {{< /warning >}}
-
-## Other helpful articles
-
-If you only need the query functionality described above for your application, you can also use the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) directly instead of a universal app.

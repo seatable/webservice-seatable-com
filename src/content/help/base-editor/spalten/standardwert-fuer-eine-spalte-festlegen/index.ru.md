@@ -76,7 +76,7 @@ seo:
 - в [колонке ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - через [кнопку]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (действие: "Скопировать строку в другую таблицу")
 - с помощью [автоматизации]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
-- в [календаре]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
+- в [представлении Календарь, Канбан, Галерея и Дерево]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - через [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - на [страницах]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [форм]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) и [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) в приложениях
 
@@ -92,4 +92,4 @@ seo:
 
 ## Значения по умолчанию в приложениях
 
-Значения по умолчанию, заданные в базе, также влияют на строки, которые вводятся на **страницах таблиц, форм и Kanban** в [универсальных приложениях]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Единственный [тип страницы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), для которого вы все еще можете задать значения по умолчанию в приложении, - это [страница формы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Настройки работают точно так же, как и для веб-форм: Для этого активируйте ползунки, как показано на скриншоте выше.
+Значения по умолчанию, заданные в базе, также влияют на строки, которые вводятся на **страницах таблиц, форм и Kanban** в [приложениях]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Единственный [тип страницы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), для которого вы все еще можете задать значения по умолчанию в приложении, - это [страница формы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Настройки работают точно так же, как и для веб-форм: Для этого активируйте ползунки, как показано на скриншоте выше.

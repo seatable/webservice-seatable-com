@@ -27,7 +27,7 @@ Un calendrier de l'Avent que vous avez confectionné vous-même est un cadeau qu
 
 {{< warning headline="L'histoire du calendrier de l'Avent" >}}
 
-Si vous voulez savoir d'où vient la tradition du calendrier de l'Avent, cliquez [ici](https://www.adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+Si vous voulez savoir d'où vient la tradition du calendrier de l'Avent, cliquez [ici](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 

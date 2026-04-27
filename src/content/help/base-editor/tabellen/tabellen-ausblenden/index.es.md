@@ -1,5 +1,5 @@
 ---
-title: 'Ocultar mesas'
+title: 'Ocultar tablas'
 date: 2025-02-25
 lastmod: '2025-02-25'
 categories:

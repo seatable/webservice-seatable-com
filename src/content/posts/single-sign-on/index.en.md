@@ -22,7 +22,7 @@ Employees in companies have to switch between different applications every day. 
 
 ### Key Take-aways
 
-* Single sign-on (SSO) **increases IT security** in your [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) through centralized user authentication and simplified access monitoring. 
+* Single sign-on (SSO) **increases IT security** in your [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) through centralized user authentication and simplified access monitoring. 
 * The use of single sign-on procedures **increases productivity** by reducing password logins.
 * Common protocols such as SAML, OAuth, and LDAP enable **flexible integration** into cloud and hybrid environments such as SeaTable. 
 * EU-based or on-premises SSO solutions meet GDPR requirements and avoid data transfers to third countries.

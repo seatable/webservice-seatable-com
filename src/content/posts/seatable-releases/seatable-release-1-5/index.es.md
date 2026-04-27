@@ -47,7 +47,7 @@ Si el resultado de una fórmula es un número (por ejemplo, para las fórmulas s
 
 ### Mejores estadísticas
 
-El módulo de estadísticas de SeaTable utiliza la [biblioteca de software de visualización de datos de código abierto G2](https://g2.antv.vision/en). G2 permite generar una variedad de evaluaciones basadas en la web de forma interactiva y dinámica en SeaTable.
+El módulo de estadísticas de SeaTable utiliza la [biblioteca de software de visualización de datos de código abierto G2](https://g2.antv.antgroup.com/en). G2 permite generar una variedad de evaluaciones basadas en la web de forma interactiva y dinámica en SeaTable.
 
 En SeaTable 1.5 hemos actualizado G2 a la actual versión 4.0. El equipo de visualización de datos del Grupo Ant lo publicó en la primavera de 2020. Junto con algunas mejoras relativas a la integración, esta actualización aumenta la fiabilidad y la estabilidad generales del módulo de estadísticas.
 

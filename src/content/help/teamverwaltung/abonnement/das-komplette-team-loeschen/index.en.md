@@ -33,7 +33,7 @@ By confirming the deletion, you immediately trigger the following actions:
 - All bases and data contained in them will be deleted.
 - Your subscription, if you have one, will be deleted.
 - Your data will be removed from our payment system Stripe as much as possible. However, if invoices have been generated, Stripe may not delete your account completely.
-- Your email addresses will be removed from our Sendinblue email system.
+- Your email addresses will be removed from our Brevo email system.
 
 {{< warning  headline="Warning"  text="You **cannot** undo the deletion of your team. All data will be **irretrievably** lost. The deletion **of your team** is also accompanied by the deletion **of your contract**." />}}
 

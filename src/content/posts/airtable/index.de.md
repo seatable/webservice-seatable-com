@@ -18,7 +18,7 @@ register:
 
 ## Was ist Airtable?
 
-Airtable ist eine **cloudbasierte Kollaborationsplattform**, die eine **Mischung aus Tabellenkalkulation und Datenbanksoftware** darstellt. Je nach Blickwinkel kann man die Frage "Was ist Airtable?" deshalb unterschiedlich beantworten: Da man seine Daten dort meist in Tabellen erfasst und strukturiert, wird es oft als leistungsfähigere [Excel Alternative]({{< relref "pages/excel-alternative" >}}) betrachtet. Airtable wird aber auch als [No-Code-Datenbank]({{< relref "posts/20250307-low-code" >}}) bezeichnet, mit der man ohne tiefergehende Programmierkenntnisse Datenbanken erstellen, managen und nutzen kann.  
+Airtable ist eine **cloudbasierte Kollaborationsplattform**, die eine **Mischung aus Tabellenkalkulation und Datenbanksoftware** darstellt. Je nach Blickwinkel kann man die Frage "Was ist Airtable?" deshalb unterschiedlich beantworten: Da man seine Daten dort meist in Tabellen erfasst und strukturiert, wird es oft als leistungsfähigere [Excel Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) betrachtet. Airtable wird aber auch als [No-Code-Datenbank]({{< relref "posts/20250307-low-code" >}}) bezeichnet, mit der man ohne tiefergehende Programmierkenntnisse Datenbanken erstellen, managen und nutzen kann.  
 
 Weil in einer digitalisierten Welt so gut wie überall Daten anfallen, gibt es eine große Bandbreite an **Anwendungsmöglichkeiten**, um mit Airtable Erfahrungen zu machen. Daher bietet Airtable kostenlos Einstiegslösungen für verschiedene Bereiche wie Produktentwicklung, Marketing, Operations, Projektmanagement, Personal, Vertrieb und Finanzen an, die allerdings stark limitiert sind. Bei höheren Anforderungen und größeren Teams geht das Airtable Pricing schnell ins Geld.
 
@@ -54,7 +54,7 @@ Basierend auf Hunderten Online-Bewertungen, in denen Nutzer ihre Airtable Erfahr
 
 1. **Kaum vorgegebene Strukturen**: Das ist die Kehrseite der Flexibilität. Sie bedienen sich aus einem Baukasten und benötigen gewisse konzeptionelle Fähigkeiten, um sinnvolle Datenstrukturen anzulegen. Nutzer, die bisher wenig Airtable Erfahrungen oder generell Vorkenntnisse im Umgang mit Datenbanken und Tabellen haben, fühlen sich von der Anzahl der Funktionen gerade am Anfang überfordert. 
    
-2. **Höherer Zeitaufwand zu Beginn**: Dieser Nachteil geht mit dem zuvor genannten Punkt einher. Anders als spezielle Branchensoftware können Sie Airtable flexibel an Ihre Anforderungen anpassen. Von Grund auf neue Workflows zu bauen dauert zu Beginn aber meist länger. Im Vergleich zu [Asana]({{< relref "pages/asana-alternative" >}}) ist Airtable als Projektmanagement Tool beispielsweise nur bedingt zu empfehlen, da man sich vieles selbst zusammenbasteln muss.
+2. **Höherer Zeitaufwand zu Beginn**: Dieser Nachteil geht mit dem zuvor genannten Punkt einher. Anders als spezielle Branchensoftware können Sie Airtable flexibel an Ihre Anforderungen anpassen. Von Grund auf neue Workflows zu bauen dauert zu Beginn aber meist länger. Im Vergleich zu [Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) ist Airtable als Projektmanagement Tool beispielsweise nur bedingt zu empfehlen, da man sich vieles selbst zusammenbasteln muss.
    
 3. **Unzureichender Datenschutz**: Immer wieder stößt bei Airtable der Datenschutz auf harte Kritik. Die Speicherung von Kundendaten auf Cloud-Servern in den USA und die fehlende Option, Airtable On-Premises zu installieren, machen Airtable für viele Unternehmen mit höheren Sicherheitsanforderungen unattraktiv. Für Unternehmen in der EU ist der Einsatz der Software sogar rechtswidrig, da Airtable die DSGVO Compliance nicht vollumfänglich gewährleistet.
    
@@ -82,7 +82,7 @@ Wenn Sie nun über Wege nachdenken, wie Sie Airtable vielleicht doch DSGVO-konfo
 Als Alternative zu Airtable kommt hier vor allem die No-Code-Lösung [SeaTable]({{< relref "/" >}}) ins Spiel. Diese steht der Konkurrenz aus den USA in nichts nach, bietet aber mehr Funktionen als Airtable kostenlos an und ist auch in den bezahlten Abonnements deutlich günstiger. Sie haben die freie Wahl, ob Sie die DSGVO-konforme [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen möchten, die ausschließlich auf deutschen Servern eines Schweizer Anbieters gehostet wird, oder mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die volle Datenhoheit einer On-Premises-Installation genießen.
 {{< /warning >}}
 
-{{< button label="Entdecken Sie die Airtable Alternative Nr. 1" link="pages/airtable-alternative" >}}
+{{< button label="Entdecken Sie die Airtable Alternative Nr. 1" link="pages/landing-pages/alternatives/airtable-alternative" >}}
 
 ## Airtable Pricing und Abos
 

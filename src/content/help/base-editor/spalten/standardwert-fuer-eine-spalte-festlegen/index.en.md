@@ -76,7 +76,7 @@ The default values apply **wherever** you can create new rows :
 - in a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [button]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (action: "Copyrow to another table")
 - via [automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (actions: "Addrow " and "Add new entry in another table")
-- in the [calendar]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
+- in the [calendar, Kanban, gallery and tree view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - via [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - on [table]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [form]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) and [Kanban pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) of apps
 
@@ -92,4 +92,4 @@ In addition to the default values defined in the table, you have the option of s
 
 ## Default values in apps
 
-The default values defined in the base also affect rows , which are entered on **table, form and Kanban pages** of [universal apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). The only [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) for which you can still set default values in the app is the [form page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). The settings work in exactly the same way as for web forms: To do this, activate the sliders as shown in the screenshot above.
+The default values defined in the base also affect rows , which are entered on **table, form and Kanban pages** of [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). The only [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) for which you can still set default values in the app is the [form page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). The settings work in exactly the same way as for web forms: To do this, activate the sliders as shown in the screenshot above.

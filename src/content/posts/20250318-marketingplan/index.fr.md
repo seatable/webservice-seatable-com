@@ -116,7 +116,7 @@ Lorsque vous élaborez un plan marketing et planifiez des campagnes, les process
 
 ### Planification marketing avec des outils numériques
 
-Créer un plan marketing sous forme de modèle sur papier est une possibilité - mais qui n'est pas forcément efficace. Vous imaginez que tous les membres de l'équipe marketing travaillent avec une seule feuille de papier sur laquelle ils notent, corrigent, raturent, etc. toutes les données relatives au projet ? Les outils numériques de planification marketing sont beaucoup plus simples, rapides et transparents. Qu'il s'agisse de Hubspot, SeaTable ou Asana, les [outils marketing] numériques ({{< relref "pages/industry-solutions/marketing" >}}) comme celui-ci vous aident à rassembler toutes les informations, à garder un œil sur la gestion du temps et du contenu et à tout présenter de manière claire pour tous les participants.
+Créer un plan marketing sous forme de modèle sur papier est une possibilité - mais qui n'est pas forcément efficace. Vous imaginez que tous les membres de l'équipe marketing travaillent avec une seule feuille de papier sur laquelle ils notent, corrigent, raturent, etc. toutes les données relatives au projet ? Les outils numériques de planification marketing sont beaucoup plus simples, rapides et transparents. Qu'il s'agisse de Hubspot, SeaTable ou Asana, les [outils marketing] numériques ({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) comme celui-ci vous aident à rassembler toutes les informations, à garder un œil sur la gestion du temps et du contenu et à tout présenter de manière claire pour tous les participants.
 
 ### Mesurer, mesurer, mesurer : L'optimisation ne s'arrête jamais
 

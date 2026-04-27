@@ -31,7 +31,7 @@ Seguimos oyendo que las empresas prueban el no-code y piensan que los resultados
 
 ## Mito 3: No-code es sólo para aplicaciones sencillas
 
-La idea errónea de que sólo pueden realizarse soluciones sencillas no-code creado individualmente es comprensible, pero no por ello menos falsa. "No-code" significa aquí simplemente que puede crear sus propias aplicaciones sin conocimientos de programación. Sin embargo, con la plataforma adecuada, también se pueden **crear herramientas más complejas e individualizadas sin código**, desde sencillas herramientas de gestión de tareas hasta sistemas completos de [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) o CRM, incluyendo **automatizaciones de IA, integraciones con terceros y gestión de roles de usuario**.
+La idea errónea de que sólo pueden realizarse soluciones sencillas no-code creado individualmente es comprensible, pero no por ello menos falsa. "No-code" significa aquí simplemente que puede crear sus propias aplicaciones sin conocimientos de programación. Sin embargo, con la plataforma adecuada, también se pueden **crear herramientas más complejas e individualizadas sin código**, desde sencillas herramientas de gestión de tareas hasta sistemas completos de [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) o CRM, incluyendo **automatizaciones de IA, integraciones con terceros y gestión de roles de usuario**.
 
 ## Mito 4: No-code hace superfluos a los desarrolladores
 

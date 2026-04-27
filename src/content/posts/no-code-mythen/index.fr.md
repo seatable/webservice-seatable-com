@@ -31,7 +31,7 @@ Nous entendons souvent dire que des entreprises essaient le No-Code et estiment 
 
 ## Mythe 3 : Le No-Code est réservé aux applications simples
 
-L’erreur consistant à croire que sans code personnalisé, seules des solutions basiques sont réalisables est compréhensible, mais néanmoins fausse. « Pas de code » signifie simplement ici que vous pouvez créer vos propres applications sans connaissances en programmation. Avec la bonne plateforme, il est tout à fait possible de **construire des outils complexes et individualisés avec le No-Code**, allant de simples outils de gestion de tâches à des systèmes [ITSM]({{< relref "pages/industry-solutions/software-development" >}}) ou CRM complets – incluant des **automatisations par IA, des intégrations tierces et la gestion des rôles utilisateurs**.
+L’erreur consistant à croire que sans code personnalisé, seules des solutions basiques sont réalisables est compréhensible, mais néanmoins fausse. « Pas de code » signifie simplement ici que vous pouvez créer vos propres applications sans connaissances en programmation. Avec la bonne plateforme, il est tout à fait possible de **construire des outils complexes et individualisés avec le No-Code**, allant de simples outils de gestion de tâches à des systèmes [ITSM]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) ou CRM complets – incluant des **automatisations par IA, des intégrations tierces et la gestion des rôles utilisateurs**.
 
 ## Mythe 4 : Le No-Code rend les développeurs superflus
 

@@ -66,7 +66,7 @@ Pour créer votre plan de projet [, inscrivez-vous gratuitement sur SeaTable](ht
 
 Vous trouverez ci-dessous cinq exemples de plans de projet issus de la bibliothèque de modèles.
 
-**Modèle de plan de projet pour le [marketing]({{< relref "pages/industry-solutions/marketing" >}})**  
+**Modèle de plan de projet pour le [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})**  
 Ce modèle vous permet de [planifier à l'avance](https://seatable.io/fr/modele/hntk-vocrksmyj-9746vka/) vos [actions pour un projet](https://seatable.io/fr/modele/hntk-vocrksmyj-9746vka/). Vous y inscrivez les services et les personnes responsables, une priorité, la date d'échéance, les choses à faire et plus encore.
 
 L'exemple de modèle porte sur la [planification des activités de marketing et de communication](https://seatable.io/fr/marketingplan-vorlage/) d'une grande entreprise fictive. La planification du projet a lieu un an à l'avance.

@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Con una fórmula para enlaces, puede **visualizar, resumir o relacionar datos de tablas enlazadas** en su tabla actual. Aquí es donde SeaTable muestra sus ventajas como base de datos relacional.
+Con una fórmula para enlaces, puede **visualizar, resumir o relacionar datos de tablas enlazadas** en su tabla actual. Aquí es donde SeaTable muestra sus ventajas como [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}).
 
 Dispone de un total de **cinco fórmulas diferentes** para el tipo de columna. El requisito previo para utilizar la columna es la existencia de al menos una columna del tipo [enlace a otros registros]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en su tabla.
 

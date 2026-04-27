@@ -24,7 +24,7 @@ In the first course, you have already learned how to create a base with differen
 
 Download the following file to your PC and import it as a new base on the SeaTable start page:
 
-<a href="/SeaTable-Course-Level-2.dtable" download>SeaTable Course Level 2.dtable</a>
+[SeaTable Course Level 2.dtable](/SeaTable-Course-Level-2.dtable)
 
 Even if you do not have to create the base yourself, it is important that you familiarize yourself intensively with the structure. New column types have been used that you may not be familiar with from the previous course.
 

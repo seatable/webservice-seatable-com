@@ -57,7 +57,7 @@ O método Scrum é utilizado para projectos particularmente complexos, em que ne
 **3\. kanban**  
 Provavelmente já ouviu falar dele. Este método funciona particularmente bem com a visualização de tarefas e é, por isso, muito popular na gestão de tarefas. Neste tipo de gestão de tarefas, as tarefas são movidas de uma coluna para a seguinte sob a forma de cartões Kanban num quadro Kanban visual - normalmente de "Aberto" para "A fazer" e para "Feito".
 
-Pode ver que os métodos diferem na sua abordagem e que alguns podem ser mais adequados ao seu projeto do que outros. No entanto, em todos os casos, é necessária uma ferramenta de gestão de tarefas que o apoie em todas as áreas de tarefas para concluir com êxito o seu projeto. Existem muitos fornecedores diferentes, todos eles com as suas vantagens e desvantagens. O SeaTable tem a vantagem decisiva de ser um software flexível que pode não só mapear todo o projeto, mas também quaisquer outros processos, como o [registo do tempo]({{< relref "pages/arbeitszeiterfassung" >}}), [o CRM]({{< relref "posts/crm-angebotsmanagement" >}}) ou a criação de um plano editorial.
+Pode ver que os métodos diferem na sua abordagem e que alguns podem ser mais adequados ao seu projeto do que outros. No entanto, em todos os casos, é necessária uma ferramenta de gestão de tarefas que o apoie em todas as áreas de tarefas para concluir com êxito o seu projeto. Existem muitos fornecedores diferentes, todos eles com as suas vantagens e desvantagens. O SeaTable tem a vantagem decisiva de ser um software flexível que pode não só mapear todo o projeto, mas também quaisquer outros processos, como o [registo do tempo]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}), [o CRM]({{< relref "posts/crm-angebotsmanagement" >}}) ou a criação de um plano editorial.
 
 Como ferramenta de gestão de projectos, o SeaTable é altamente flexível e pode ser **personalizado para responder a todas as suas necessidades**. Com o SeaTable, pode envolver os seus colaboradores no projeto, simplificar os processos de trabalho e de comunicação e **estruturar o seu projeto do início ao fim** com a ajuda de atribuições e descrições de tarefas claras.
 
@@ -95,15 +95,15 @@ Se os pontos de vista no nosso modelo de gestão de tarefas forem realmente apen
 
 ## Fique sempre atento às horas: Com a linha do tempo e o calendário
 
-O plug-in da linha do tempo é uma grande ajuda na visualização do tempo de toda a sua gestão de tarefas. Com ele, pode ver rapidamente se ainda está no bom caminho com o seu planeamento temporal ou se algumas tarefas já estão atrasadas. Ao definir a data de início e o prazo da tarefa, esta pode ser perfeitamente exibida na linha temporal. Definir que outras informações devem ser exibidas, tais como a pessoa responsável, o prazo exacto ou as doses.
+A vista da linha do tempo é uma grande ajuda na visualização do tempo de toda a sua gestão de tarefas. Com ele, pode ver rapidamente se ainda está no bom caminho com o seu planeamento temporal ou se algumas tarefas já estão atrasadas. Ao definir a data de início e o prazo da tarefa, esta pode ser perfeitamente exibida na linha temporal. Definir que outras informações devem ser exibidas, tais como a pessoa responsável, o prazo exacto ou as doses.
 
 Para opiniões individuais do pessoal, crie as suas próprias opiniões para cada membro do pessoal com antecedência. Desta forma, cada um vê as suas próprias tarefas na sua própria linha temporal e sabe quanto tempo lhe resta para tarefas individuais. Também pode ver como os seus empregados estão ocupados quando planeiam tarefas e podem reprogramar se a carga de trabalho for distribuída de forma desigual.
 
 ![Planeie a sua lista de afazeres para um timing perfeito](Timeline.gif)
 
-Semelhante ao plug-in da linha do tempo, o plug-in do calendário oferece uma visão geral temporal de todo o projecto e de todas as fases de planeamento da gestão de tarefas, mas inteiramente em estilo de calendário. A visão por dia, semana, mês, ano ou inteiramente na visão da agenda permite uma visão diária das etapas do projecto e mostra em que dia o quanto precisa de ser feito. Também aqui é possível a criação de quadros de pessoal sem quaisquer problemas com base nas opiniões criadas.
+Semelhante a vista da linha do tempo, a vista do calendário oferece uma visão geral temporal de todo o projecto e de todas as fases de planeamento da gestão de tarefas, mas inteiramente em estilo de calendário. A visão por dia, semana, mês, ano ou inteiramente na visão da agenda permite uma visão diária das etapas do projecto e mostra em que dia o quanto precisa de ser feito. Também aqui é possível a criação de quadros de pessoal sem quaisquer problemas com base nas opiniões criadas.
 
-![Visualize a sua gestão de tarefas com o plugin do calendário](Cal.gif)
+![Visualize a sua gestão de tarefas com a vista do calendário](Cal.gif)
 
 ## Receber automaticamente todo o progresso do projecto
 

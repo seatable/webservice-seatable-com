@@ -27,7 +27,7 @@ Para utilizar uma aplicação de recuperação de dados na sua base, deve primei
 
 Depois de ter criado com êxito a sua aplicação de consulta de dados, pode selecionar a **tabela** e as **colunas** que podem ser pesquisadas para determinados **valores** nas definições da aplicação. {{< seatable-icon icon="dtable-icon-rename" >}} Para o fazer, basta abrir a aplicação no [modo de edição]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) utilizando o **ícone de lápis**.
 
-Como a aplicação de consulta de dados se baseia no Universal App Builder, as seguintes opções de definição são idênticas às **páginas de consulta na Universal App**:
+Como a aplicação de consulta de dados se baseia no App Builder, as seguintes opções de definição são idênticas às **páginas de consulta na aplicação**:
 
 ![Definições de página da aplicação de consulta de dados](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
@@ -63,7 +63,7 @@ Depois de ter partilhado com êxito a sua aplicação de consulta de dados, os o
 
 Depois de os utilizadores terem clicado em **Query (Consultar** ), os registos de dados encontrados são imediatamente apresentados numa tabela. Os utilizadores da aplicação só podem ver os valores das colunas de um registo de dados que **não tenha** sido **ocultado**. Além disso, não podem eliminar quaisquer **filtros** que tenha **predefinido** para limitar o número de linhas pesquisáveis.
 
-![Páginas de consulta em aplicações universais](images/Abfrageseiten-in-Universellen-Apps.png)
+![Páginas de consulta em aplicações](images/Abfrageseiten-in-Universellen-Apps.png)
 
 No entanto, os próprios utilizadores podem **ordenar** a lista de resultados consultados e **ajustar** a **altura da linha** para obter uma melhor visão geral.
 

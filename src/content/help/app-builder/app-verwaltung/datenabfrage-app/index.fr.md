@@ -27,7 +27,7 @@ Pour pouvoir utiliser une application de consultation de données dans votre bas
 
 Une fois que vous avez créé avec succès votre application de consultation des données, vous pouvez sélectionner dans les paramètres de l'application le **tableau** et les **colonnes** dans lesquels la recherche de certaines **valeurs** peut être effectuée. Pour ce faire, il vous suffit d'ouvrir l'appli en [mode édition]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) via l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-Comme l'application de consultation des données est basée sur l'Universal App Builder, les options de paramétrage suivantes sont identiques à celles des **pages de consultation de l'application universelle**:
+Comme l'application de consultation des données est basée sur l'App Builder, les options de paramétrage suivantes sont identiques à celles des **pages de consultation de l'application**:
 
 ![Paramètres de page de l'application de consultation des données](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
@@ -63,7 +63,7 @@ Une fois que vous avez réussi à partager votre application de consultation de 
 
 Après avoir cliqué sur **Interrogation**, les utilisateurs voient immédiatement les enregistrements trouvés dans un tableau. Les utilisateurs de l'application ne peuvent voir que les valeurs des colonnes d'un ensemble de données que vous n'avez **pas masquées**. En outre, ils ne peuvent pas supprimer les **filtres** que vous avez **prédéfinis** et qui vous permettent de limiter la quantité de lignes pouvant faire l'objet d'une recherche.
 
-![Pages de requête dans les applications universelles](images/Abfrageseiten-in-Universellen-Apps.png)
+![Pages de requête dans les applications](images/Abfrageseiten-in-Universellen-Apps.png)
 
 Toutefois, les utilisateurs peuvent **trier** eux-mêmes la liste de résultats consultée et **adapter** la **hauteur des lignes** afin d'obtenir une meilleure vue d'ensemble.
 

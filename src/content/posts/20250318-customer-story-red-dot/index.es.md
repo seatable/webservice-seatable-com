@@ -22,7 +22,7 @@ Red Dot GmbH & Co. KG, con sede en Essen, forma parte integrante del mundo inter
 
 ![Evento Picture Red Dot](Blog_reddot_I1.jpg)
 
-Antes de la introducción de SeaTable, la herramienta más importante era un [programa de hoja de cálculo de escritorio]({{< relref "pages/excel-alternative" >}}). Esta solución ya no estaba al día, sobre todo para la gestión de datos. La colaboración dentro del equipo era un verdadero reto, ya que no era posible trabajar en colaboración. El proceso existente resultó especialmente problemático a la hora de organizar la ceremonia de entrega de los premios Red Dot Award: Product Design, un importante acontecimiento internacional. La falta de oportunidades para trabajar en colaboración dificultó una organización fluida y los cambios de última hora.
+Antes de la introducción de SeaTable, la herramienta más importante era un [programa de hoja de cálculo de escritorio]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). Esta solución ya no estaba al día, sobre todo para la gestión de datos. La colaboración dentro del equipo era un verdadero reto, ya que no era posible trabajar en colaboración. El proceso existente resultó especialmente problemático a la hora de organizar la ceremonia de entrega de los premios Red Dot Award: Product Design, un importante acontecimiento internacional. La falta de oportunidades para trabajar en colaboración dificultó una organización fluida y los cambios de última hora.
 
 ## SeaTable cumple a la perfección los requisitos
 
@@ -32,11 +32,11 @@ La facilidad de uso, el alto nivel de protección de datos y la posibilidad sin 
 
 ## Herramienta de gestión versátil
 
-![Tableta con mesa SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
+![Tableta con SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
 En la actualidad, SeaTable se utiliza como una herramienta de gestión versátil. El principal caso de uso sigue siendo la [organización de eventos]({{< relref "templates/events/event-management" >}}). Las listas de invitados y los planes de asignación de salas, la planificación del personal para los eventos e incluso el programa de gala, que se planifica al segundo, se mapean en SeaTable. La posibilidad de cargar archivos de audio directamente en una base ha demostrado ser especialmente útil en este caso. De este modo, el director puede acceder en cualquier momento a grabaciones de audio, por ejemplo de la pronunciación de los nombres de los galardonados.
 
-Gracias a la API, la gestión de pedidos y el envío de los anuarios Red Dot Design también se organizan ahora a través de SeaTable. Por último, SeaTable también se utiliza como CRM y [herramienta de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}).
+Gracias a la API, la gestión de pedidos y el envío de los anuarios Red Dot Design también se organizan ahora a través de SeaTable. Por último, SeaTable también se utiliza como CRM y [herramienta de gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
 
 ## Gestión de procesos a un nuevo nivel
 

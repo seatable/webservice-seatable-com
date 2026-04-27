@@ -18,7 +18,7 @@ aliases:
 
 ## Say Goodbye to coding - with Low Code and No Code
 
-Have you ever wished you could develop your own software solutions with just a few clicks, without having to write line after line of code? Imagine how easy and fast [software development]({{< relref "pages/industry-solutions/software-development" >}}) would suddenly be for you! Does it feel like science fiction? But it's not: Take a look at the world of low-code development with us! In the following article, we also look at the difference between low code and no code and clarify what a no-code/low-code platform is.
+Have you ever wished you could develop your own software solutions with just a few clicks, without having to write line after line of code? Imagine how easy and fast [software development]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) would suddenly be for you! Does it feel like science fiction? But it's not: Take a look at the world of low-code development with us! In the following article, we also look at the difference between low code and no code and clarify what a no-code/low-code platform is.
 
 ## What is low code?
 
@@ -46,7 +46,7 @@ The core features of a low-code platform can be summarized using these character
 
 ## What is No Code?
 
-No Code goes one step further: unlike low-code platforms, a **no-code platform** is aimed at users without any programming knowledge. In the fully visual development environment, you can create applications mostly by drag-and-drop without having to write a single line of code. No Code is therefore ideal for creating simple applications and [automated workflows]({{< relref "pages/industry-solutions/individual" >}}). The focus here is clearly on speed and user-friendliness; the integration of self-written code is not provided for.
+No Code goes one step further: unlike low-code platforms, a **no-code platform** is aimed at users without any programming knowledge. In the fully visual development environment, you can create applications mostly by drag-and-drop without having to write a single line of code. No Code is therefore ideal for creating simple applications and [automated workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}). The focus here is clearly on speed and user-friendliness; the integration of self-written code is not provided for.
 
 ## Low code vs. no code
 
@@ -134,7 +134,7 @@ In addition to these four categories, there are also more niche low-code platfor
 
 In SeaTable, you can configure processes and applications conveniently via a graphical user interface in the browser. Thanks to the visual elements, you do not need a single line of code, which makes SeaTable a [no-code solution]({{< relref "/" >}}). However, SeaTable also allows the execution of manually programmed JavaScript and Python scripts. This option is more in line with the low-coding approach, which means that SeaTable could also be described as a low-code development platform.
 
-The classification into a category is also not clear: On the one hand, SeaTable is a **no-code database** in which you can store, organize and visualize almost any type of information. You can use 25 different column types, plugins such as gallery, Kanban, map or calendar, views with filter, sorting and grouping functions as well as statistics and web forms.
+The classification into a category is also not clear: On the one hand, SeaTable is a **no-code database** in which you can store, organize and visualize almost any type of information. You can use 26 different column types, plugins such as gallery, Kanban, map or calendar, views with filter, sorting and grouping functions as well as statistics and web forms.
 
 SeaTable also offers a **No Code App Builder**, which you can use to build your own apps without any programming knowledge. An app accesses the information in the database backend and displays it optimally for the end user. For the app design, there are ready-made page types with visual elements that you can simply drag and drop together.
 

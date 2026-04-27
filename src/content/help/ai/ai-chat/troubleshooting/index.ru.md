@@ -26,7 +26,7 @@ seo:
 
 - [Anthropic Console](https://console.anthropic.com/)
 - [OpenAI Platform](https://platform.openai.com/)
-- [Mistral Console](https://console.mistral.ai/)
+- [Mistral Console](https://v2.auth.mistral.ai/login)
 
 ## Отсутствие или неправильные ответы
 

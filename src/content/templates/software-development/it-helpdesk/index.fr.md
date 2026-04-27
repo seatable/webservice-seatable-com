@@ -129,7 +129,7 @@ sections:
       weight: 16
       title: 'Système de tickets de helpdesk basé sur IA'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent votre système de tickets informatiques à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les tâches manuelles routinières et gagnez du temps pour les analyses, les améliorations des services et les décisions stratégiques dans le domaine informatique.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui élèvent votre système de tickets informatiques à un niveau supérieur. Automatisez les tâches récurrentes, réduisez les tâches manuelles routinières et gagnez du temps pour les analyses, les améliorations des services et les décisions stratégiques dans le domaine informatique.'
       items:
       - headline: 'Classification avec Classify'
         text: "Classify attribue automatiquement les nouvelles demandes d'assistance aux catégories de service, priorités ou équipes appropriées en fonction de l'objet et de la description. Les nouveaux tickets sont ainsi directement placés dans le bon contexte, ce qui réduit les délais de traitement et améliore la qualité de l'assistance."
@@ -180,7 +180,7 @@ sections:
       - q: "Le modèle prend-il en charge le suivi du statut et les SLA ?"
         a: "Oui, vous pouvez configurer librement les champs d'état, les données SLA et les règles d'escalade. Le modèle reproduit ainsi exactement votre suivi d'état et votre gestion SLA dans le système de tickets du service d'assistance."
       - q: "Puis-je relier ce modèle à d'autres processus ITSM ?"
-        a: 'Oui, vous pouvez utiliser ce modèle avec d autres modèles pour la gestion des actifs, la gestion des changements ou la [gestion des incidents]({{< relref "posts/20250612-incident-management" >}}) et ainsi créer une [gestion des services informatiques]({{< relref "pages/industry-solutions/software-development" >}}) intégrée.'
+        a: 'Oui, vous pouvez utiliser ce modèle avec d autres modèles pour la gestion des actifs, la gestion des changements ou la [gestion des incidents]({{< relref "posts/20250612-incident-management" >}}) et ainsi créer une [gestion des services informatiques]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) intégrée.'
       - q: "Combien d'utilisateurs peuvent travailler simultanément avec le modèle IT Helpdesk ?"
         a: "Plusieurs utilisateurs peuvent travailler simultanément sur la même base, saisir et mettre à jour des tickets. Les autorisations vous permettent de contrôler qui peut lire, commenter ou modifier, ce qui est idéal pour la collaboration au sein de l'entreprise."
       - q: "Puis-je créer mes propres champs et workflows dans le modèle ?"

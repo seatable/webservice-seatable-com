@@ -76,7 +76,6 @@ Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article
 - [Arrêter les automatisations]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Supprimer des automatismes]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Afficher le journal d'exécution d'une automatisation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [Pourquoi ne puis-je pas trouver d'automatisations dans ma base ?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Déclencheur d'automatisation]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Actions d'automatisation]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Liens vers des entrées par automatisation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})

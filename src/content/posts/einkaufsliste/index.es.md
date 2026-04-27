@@ -44,7 +44,7 @@ La cuestión de qué lista de la compra digital / aplicación es la adecuada par
 
 Todas las aplicaciones probadas permiten crear varias listas de la compra. Luego puedes compartirlas fácilmente con familiares, amigos o compañeros de piso.
 
-### 1\. la lista de la compra
+### 1\. La lista de la compra
 
 La aplicación de lista de la compra es perfecta para aquellos a los que no les gusta teclear en su smartphone. Gracias a la función de **entrada de voz**, puedes decir simplemente los productos que necesitas y evitar los molestos errores de escritura.
 
@@ -66,7 +66,7 @@ Ya se trate de gestionar y clasificar **categorías de alimentos** o de tus **re
 
 Este es el aspecto de "La lista de la compra".
 
-### 2\. ¡trae!
+### 2\. Bring!
 
 Además de organizar su compra semanal, la aplicación Bring también añade una pizca de variedad a su diversidad culinaria. También te recuerda que pruebes cosas nuevas con sugerencias e inspiración. Por ejemplo, muestra productos que coinciden con la **temporada actual** o **promociones** como Veganuary.
 
@@ -88,7 +88,7 @@ Dentro de la aplicación, también puedes enviar **mensajes predefinidos** a los
 
 La aplicación de lista de la compra "¡Trae!"
 
-### 3\. pon
+### 3\. Pon
 
 A los amantes de la tecnología les encantará esta aplicación, ya que combina muchas **funciones inteligentes**. Además de detalles como el lugar de compra, el precio normal y el precio de oferta especial, también puedes establecer recordatorios de mejor antes tras iniciar sesión.
 
@@ -109,7 +109,7 @@ Además, no sólo se **analizan** las preferencias y hábitos del usuario, sino 
 
 La lista de la compra en "pon"
 
-### 4\. comprar
+### 4\. ToBuy
 
 Esta aplicación es ideal para todos los usuarios de Apple Watch y los amantes de la moda oscura. Utiliza **plantillas** para ahorrar tiempo, sobre todo si sueles comprar las mismas cosas, o añade **fotos** a tus productos.
 
@@ -131,7 +131,7 @@ Si guardas tus **recetas** en la aplicación, puedes añadir los ingredientes qu
 
 La aplicación "ToBuy" en modo oscuro
 
-### 5\. weNeed
+### 5\. WeNeed
 
 En comparación, esta aplicación es un poco más sencilla que las demás. Así que si no necesitas un montón de campanas y silbatos, pero quieres concentrarte en la función principal, esta aplicación de lista de la compra es la elección correcta.
 
@@ -172,7 +172,7 @@ Las funciones pueden variar según la marca. Sin embargo, suelen consistir en un
 
 La aplicación de notas como lista de la compra
 
-### 7 Mesa de mar
+### 7\. SeaTable
 
 SeaTable ofrece una [plantilla]({{< relref "templates/everyday-life/shopping-list" >}}) que complementa la típica lista de la compra con muchas otras funciones. Aquí no solo puedes **marcar** tus artículos, sino también introducir **recetas** y subir **fotos**.
 

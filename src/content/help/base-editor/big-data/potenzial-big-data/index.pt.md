@@ -36,4 +36,4 @@ Como já foi referido, o armazenamento de grandes volumes de dados deve ser ativ
 
 A memória de grandes volumes de dados é uma caraterística única que não encontrará noutras soluções sem código ou com pouco código. Enquanto outras plataformas e fornecedores têm limites superiores rígidos e limites para o número máximo de linhas, o SeaTable não restringe o seu trabalho.
 
-A função de grandes volumes de dados permite implementar processos e aplicações que não seriam possíveis com o [Airtable]({{< relref "pages/airtable-alternative" >}}), por exemplo. Experimente por si próprio. Ficará surpreendido com o potencial e as possibilidades oferecidas pelo armazenamento de grandes volumes de dados.
+A função de grandes volumes de dados permite implementar processos e aplicações que não seriam possíveis com o [Airtable]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}), por exemplo. Experimente por si próprio. Ficará surpreendido com o potencial e as possibilidades oferecidas pelo armazenamento de grandes volumes de dados.

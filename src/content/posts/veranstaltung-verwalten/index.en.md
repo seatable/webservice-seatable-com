@@ -44,7 +44,7 @@ Event planning tools are a dime a dozen. Choosing the right software that is pre
 
 ### LineUpr
 
-[LineUpr](https://lineupr.com/) is a browser-based event app from Germany that has been appreciated for its user-friendliness and flexibility since it was founded in 2016. Even without installation, it offers an uncomplicated solution to provide participants with all relevant information - from programs and location details to lineup profiles, info pages and news.
+[LineUpr](https://lineupr.com/en) is a browser-based event app from Germany that has been appreciated for its user-friendliness and flexibility since it was founded in 2016. Even without installation, it offers an uncomplicated solution to provide participants with all relevant information - from programs and location details to lineup profiles, info pages and news.
 
 A particular highlight is the ability to record various statistics using the app. This allows important insights to be gained and the success of the event to be analyzed transparently afterwards.
 
@@ -55,7 +55,7 @@ A particular highlight is the ability to record various statistics using the app
 
 ### idloom
 
-[Idloom](https://www.idloom.com/) is a comprehensive event management platform that covers every aspect of your event, from agenda planning and ticketing to invoicing and tax processing. Founded in Belgium in 2015, the company attaches great importance to security, as evidenced by its ISO 27001 certification, among other things.
+[Idloom](https://www.idloom.com/en) is a comprehensive event management platform that covers every aspect of your event, from agenda planning and ticketing to invoicing and tax processing. Founded in Belgium in 2015, the company attaches great importance to security, as evidenced by its ISO 27001 certification, among other things.
 
 A special feature of idloom is its flexible registration: from waiting lists and group registrations to exclusive access, the platform offers a wide range of options to meet your individual requirements when managing events. In addition, idloom scores with integrations, the ability to create certificates and flexible customization to meet company-specific requirements.
 
@@ -195,7 +195,7 @@ On the day of the event, it is advisable to call your service providers again to
 
 For your event to be a complete success, it is essential to have a clear overview of your previous planning and the next steps at all times. With SeaTable's free template, you can not only manage your events in detail, but also keep track of costs, income and budget at all times.
 
-Using the integrated web form makes it easy for participants to register for your event. You can create and send invoices with just one click, without having to put in a lot of effort. In addition, the template offers the option of using the timeline plugin for scheduling or the map plugin to visually record the event locations.
+Using the integrated web form makes it easy for participants to register for your event. You can create and send invoices with just one click, without having to put in a lot of effort. In addition, the template offers the option of using the timeline view for scheduling or the map plugin to visually record the event locations.
 
 With these features, SeaTable offers the ideal solution to optimize the planning of an event. All you have to do to use the template is register with your e-mail address.
 

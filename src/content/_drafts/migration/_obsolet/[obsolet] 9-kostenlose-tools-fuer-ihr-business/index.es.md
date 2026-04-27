@@ -49,7 +49,7 @@ Los creadores de contenidos conocen el juego de estar constantemente a la búsqu
 
 **9\. mesas inteligentes con SeaTable**
 
-SeaTable es una mezcla de programa inteligente de hoja de cálculo y base de datos, que además puede utilizarse gratuitamente. Se pueden crear hasta 2.000 filas en diferentes bases - las funciones de SeaTable son totalmente utilizables y usted mismo puede probar las diversas áreas de aplicación. Ya sea para la gestión de proyectos, el [marketing]({{< relref "pages/industry-solutions/marketing" >}}) o los recursos humanos, para clasificar y organizar los datos, casi todo es posible con SeaTable.
+SeaTable es una mezcla de programa inteligente de hoja de cálculo y base de datos, que además puede utilizarse gratuitamente. Se pueden crear hasta 2.000 filas en diferentes bases - las funciones de SeaTable son totalmente utilizables y usted mismo puede probar las diversas áreas de aplicación. Ya sea para la gestión de proyectos, el [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) o los recursos humanos, para clasificar y organizar los datos, casi todo es posible con SeaTable.
 
 Con útiles plugins como el tablero Kanban, se puede incluso crear una excelente alternativa a la mencionada herramienta de gestión de proyectos Trello. Además, **SeaTable puede vincularse a Zapier** y, de este modo, puede registrar, ordenar y seguir utilizando todo tipo de datos de forma totalmente automatizada. [El registro]({{< relref "pages/registration" >}}) es gratuito y muy rápido: ¡pruébelo!
 

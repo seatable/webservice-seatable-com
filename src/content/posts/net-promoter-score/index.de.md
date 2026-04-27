@@ -31,7 +31,7 @@ Der **eigentliche Net Promoter Score ergibt sich** als prozentualer Anteil der P
 
 ## Welche Bedeutung hat der Net Promoter Score?
 
-Der NPS dient im [Kundenmanagement]({{< relref "pages/industry-solutions/kundenmanagement" >}}) als **Indikator für Kundenloyalität**. Viele Unternehmen nutzen ihn als Kenngröße, da er sich leicht ermitteln lässt und vergleichbare Ergebnisse liefert. Ein hoher NPS wird im Allgemeinen mit Kundenzufriedenheit und Wachstum verbunden, während ein niedriger Wert auf Probleme hindeutet. 
+Der NPS dient im [Kundenmanagement]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) als **Indikator für Kundenloyalität**. Viele Unternehmen nutzen ihn als Kenngröße, da er sich leicht ermitteln lässt und vergleichbare Ergebnisse liefert. Ein hoher NPS wird im Allgemeinen mit Kundenzufriedenheit und Wachstum verbunden, während ein niedriger Wert auf Probleme hindeutet. 
 
 Befürworter sehen in einem hohen Score viele Faktoren positiv widergespiegelt, etwa Produktqualität, Serviceerfahrung, Brand Image und auch die emotionale Bindung der Kunden an die Marke. Der Score wird in diesen Unternehmen nicht nur als eine einfache Messzahl betrachtet. Vielmehr hat der NPS inzwischen die Bedeutung eines strategischen Werkzeugs, um Kundenbedürfnisse besser zu verstehen und die eigene Wettbewerbsfähigkeit nachhaltig zu sichern.
 

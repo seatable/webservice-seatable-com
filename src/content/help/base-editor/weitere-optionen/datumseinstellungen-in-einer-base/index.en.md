@@ -34,4 +34,4 @@ Only **owners** and **administrators** can edit the date settings of a base that
 
 An adjustment in the date settings causes the selected day to move to the first column in the calendar control of [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). This applies to the currently open base and all apps based on it.
 
-In the [Calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) and on [Calendar pages in apps]{{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), however, you can still configure the first day of the week individually and independently of the setting in the base.
+In the [calendar view]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) and on [Calendar pages in apps]{{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), however, you can still configure the first day of the week individually and independently of the setting in the base.

@@ -1,19 +1,21 @@
 ---
-title: 'Calendar pages in universal apps'
+title: 'Calendar pages in SeaTable apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/calendar-pages-in-universal-apps'
+url: '/help/calendar-pages-in-seatable-apps'
 aliases:
     - '/help/kalenderseiten-in-universellen-apps'
+    - '/help/calendar-pages-in-universal-apps'
 seo:
-    title: 'Calendar Pages in Universal Apps: Schedule & Plan'
-    description: 'Calendar page in SeaTable Universal Apps: Manage events, tasks, and meetings in a collaborative calendar view.'
+    title: 'Calendar Pages in SeaTable Apps: Schedule & Plan'
+    description: 'Calendar page in SeaTable Apps: Manage events, tasks, and meetings in a collaborative calendar view.'
+weight: 5
 ---
 
-This page type of the Universal App works in a similar way to the [calendar plugin]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) of your table in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.
+This page type allows you to display records with one or two [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.
 
 ![Upcoming meetings in a calendar view of the calendar page](images/calendar-page-example.png)
 
@@ -31,19 +33,19 @@ In the **page settings**, you can select the **title**, the **start date** and t
 
 You can define **preset filters** and **hidden columns** to limit the data displayed to users.
 
-![Add filter on calendar pages in Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Add filter on calendar pages in SeaTable Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 To do this, click on **Add filter**, select the desired **column** and **condition** and confirm with **Submit**.
 
 Users can view more information about an appointment by clicking on a calendar entry.
 
-![Open calendar entries in the universal app](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
+![Open calendar entries in the SeaTable app](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
 
 Therefore, decide which data should be **visible** and show or hide the corresponding columns using the **sliders**.
 
-![Hide columns on calendar pages in Universal Apps](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
+![Hide columns on calendar pages in SeaTable Apps](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Important note"  text="App users **cannot change****preset filters** and **hidden columns**. You will therefore only see the filtered data as you wish." />}}
+{{< warning  headline="Important note"  text="App users **cannot change preset filters** and **hidden columns**. You will therefore only see the filtered data as you wish." />}}
 
 ## Add calendar entry
 
@@ -58,6 +60,20 @@ Regardless of the date, you can also click on the large **circular plus symbol**
 You can easily edit calendar entries by **clicking on an entry** and making the desired changes in the **row details** that open. You can also conveniently move entries in the calendar **using drag-and-drop**. SeaTable automatically adjusts the values in the respective [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 ![Move and edit entries on calendar pages](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
+
+## Link column settings
+
+In the **settings for the link column**, you can define which data is visible and which operations are permitted for each linked table.
+
+![Link column settings on calendar pages in SeaTable Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Field settings**: Here you can define exactly which columns the following authorizations apply to.
+- **Allow adding new entries**: If you activate this slider, users can add new entries to the linked table. You can use the field settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
+- **Allow linking of existing entries**: If you activate this slider, users can link existing entries in the linked table. You can use the field settings to define which columns are **visible**.
+- Limit **links to a maximum of one row :** If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
+- **Preset filters**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking entries.
+- **Activate big data** function: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
+- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the field settings to define which columns are **editable**.
 
 ## Page authorizations
 

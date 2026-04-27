@@ -12,9 +12,7 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Enterprise" >}}
-
-Um die **korrekte Ausführung einer Automation** zu überprüfen, haben Sie die Möglichkeit, das **Ausführungslog** einzusehen. In diesem hält SeaTable für jeden Automationslauf folgende Informationen fest: Ausführungszeit, Ausführungsbedingung, Status und ggf. Warnungen.
+Um die **korrekte Ausführung einer Automation** zu überprüfen, haben Sie die Möglichkeit, das **Ausführungslog** einzusehen. In diesem hält SeaTable für jeden Automationslauf folgende Informationen fest: Ausführungszeit, Ausführungsbedingung, Status und ggf. Warnungen. Zudem gibt es eine übergreifende **Statistik** aller Automationsläufe.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Jede Ausführung einer Automation wird als sogenannter **Automationslauf** bezeichnet." />}}
 
@@ -39,3 +37,12 @@ Folgende Informationen können Sie im Ausführungslog einer Automation einsehen:
 - **Status**: Der Status gibt an, ob die Automation erfolgreich ausgeführt wurde. Ist dies der Fall, erscheint hier die Meldung **Erfolg**.
 
 - **Warnungen**: Gab es Probleme bei der Ausführung einer Automation, erscheint hier eine entsprechende Warnmeldung.
+
+## Statistik aller Automationsläufe
+
+Zudem können Sie unabhängig von einzelnen Automatisierungsregeln Einsicht in die Statistik nehmen, **wie viele Automationsläufe insgesamt innerhalb der Base stattgefunden haben**. So können Sie herausfinden, wie häufig Ihre Automatisierungsregeln ausgelöst werden und wie viele der Automationsläufe, die Ihnen in Ihrem monatlichen Abonnement zur Verfügung stehen, Sie bereits verbraucht haben.
+
+1. Klicken Sie im geöffneten Automations-Editor oben rechts auf **Statistik**.
+![Öffnen Sie die Automationslauf-Statistik](images/open-automation-statistic.png)
+2. Daraufhin öffnet sich ein Fenster, in dem Sie die **Anzahl aller ausgeführten Automationen pro Tag** sehen.
+![Statistik der Automationsläufe](images/automation-statistic.png)

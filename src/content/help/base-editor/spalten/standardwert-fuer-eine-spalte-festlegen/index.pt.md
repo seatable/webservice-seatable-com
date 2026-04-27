@@ -76,7 +76,7 @@ Os valores predefinidos aplicam-se **sempre que** é possível criar novas linha
 - numa [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [botão]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (ação: "Copiar linha para outra tabela")
 - através da [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
-- no [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
+- na [vista Calendário, Kanban, Galeria e Árvore]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - através de [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - nas [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formulário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) e [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) das aplicações
 
@@ -92,4 +92,4 @@ Para além dos valores por defeito definidos na tabela, [os formulários Web]({{
 
 ## Valores por defeito nas aplicações
 
-Os valores predefinidos definidos na base também afectam as linhas que são introduzidas nas **páginas de tabela, formulário e Kanban** das [aplicações universais]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). O único [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) para o qual ainda é possível definir valores predefinidos na aplicação é a [página de formulário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). As definições funcionam exatamente da mesma forma que para os formulários Web: Para tal, active os cursores, como mostra a imagem acima.
+Os valores predefinidos definidos na base também afectam as linhas que são introduzidas nas **páginas de tabela, formulário e Kanban** das [aplicações]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). O único [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) para o qual ainda é possível definir valores predefinidos na aplicação é a [página de formulário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). As definições funcionam exatamente da mesma forma que para os formulários Web: Para tal, active os cursores, como mostra a imagem acima.

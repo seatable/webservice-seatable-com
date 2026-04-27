@@ -14,8 +14,6 @@ seo:
 weight: 3
 ---
 
-{{< required-version "Enterprise" >}}
-
 You can manage, group and move the automation rules you have created so that you can make adjustments to existing automations at any time.
 
 ## Manage automation rules
@@ -27,13 +25,10 @@ You can manage, group and move the automation rules you have created so that you
 
 ![Manage automation rules](images/manage-automation-rules.jpg)
 
-Once you have selected an automation rule, you can also open the same menu by clicking on the title in the central area.
-
-![Automation rule management options](images/automation-managing-options.jpg)
-
 The following management options are available for each automation rule:
 
 - **Rename rule**
+- **Duplicate rule**
 - [Open log]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
 - [Pause rule]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Delete rule]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})

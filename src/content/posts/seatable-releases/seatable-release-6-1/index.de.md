@@ -42,9 +42,9 @@ SeaTable 6.1 vereinheitlicht die Einstellungsoptionen und das Berechtigungskonze
 - Bestehende Einträge verknüpfen
 - Verknüpfte Einträge bearbeiten
 
-In SeaTable 6.2 wird die vierte Berechtigung **Bestehende Links entfernen** hinzukommen. Auf Seiten vom Typ Dashboard und Abfrage werden auch weiterhin keine Verknüpfungseinstellungen verfügbar sein, weil diese beiden Seitentypen grundsätzlich keine Bearbeitung erlauben.
+In SeaTable 6.2 wird die vierte Berechtigung **Bestehende Verknüpfungen entfernen** hinzukommen. Auf Seiten vom Typ Dashboard und Abfrage werden auch weiterhin keine Verknüpfungseinstellungen verfügbar sein, weil diese beiden Seitentypen grundsätzlich keine Bearbeitung erlauben.
 
-Die **Spalteneinstellungen für die verlinkte Tabelle** ermöglichen die individuelle Anpassung dieser Berechtigungen an den konkreten Anwendungsfall. Der App-Admin kann definieren, welche Spalten in der verknüpften Tabelle angezeigt werden, welche bearbeitbar und welche Pflichtfelder sind.
+Die **Spalteneinstellungen für die verknüpfte Tabelle** ermöglichen die individuelle Anpassung dieser Berechtigungen an den konkreten Anwendungsfall. Der App-Admin kann definieren, welche Spalten in der verknüpften Tabelle angezeigt werden, welche bearbeitbar und welche Pflichtfelder sind.
 
 Auf den Seitentypen Galerie, Kanban und Kalender wurden in der neuen Version **Sortier- und Filterfunktionen** ergänzt. Diese erlauben es den App-Benutzern, den Umfang der angezeigten Daten und deren Darstellung anzupassen – ein spürbarer Gewinn an Übersichtlichkeit, sobald die Datenmenge wächst.
 

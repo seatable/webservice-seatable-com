@@ -57,7 +57,7 @@ Auch wenn Sie selbst vielleicht (noch) keine riesigen Mengen an Informationen ve
 
 Stellen Sie sich vor, Sie haben ein Unternehmen gegründet. Neben Ihrem stationären Fachgeschäft haben Sie sich nun entschieden, Ihre Waren auch online zu vertreiben. Anfangs erhalten Sie 2 bis 4 Bestellungen am Tag. Es ist also ziemlich einfach, die Bestellinformationen in einer **Tabellenkalkulation** zu erfassen. Sie beginnen online Werbung zu schalten und Ihr Geschäft boomt plötzlich. Das Auftragsvolumen steigt und Sie entscheiden zudem, noch mehr Waren ins Sortiment zu nehmen.
 
-Die schiere Menge an Information, die tagtäglich von Ihnen verarbeitet werden muss, kann eine Tabellenkalkulation wie [Excel]({{< relref "pages/excel-alternative" >}}) überfordern. Die Tabelle wird träge oder friert ein, da die **Speicherkapazität** schlichtweg zu gering ist. Einer der Vorteile von Datenbanken ist hingegen, wie bereits oben erwähnt, dass sie eine viel größere Speicherkapazität haben und problemlos mit Ihrem Unternehmen mitwachsen. Sie sind also deutlich besser **skalierbar** als einfache Tabellen.
+Die schiere Menge an Information, die tagtäglich von Ihnen verarbeitet werden muss, kann eine Tabellenkalkulation wie [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) überfordern. Die Tabelle wird träge oder friert ein, da die **Speicherkapazität** schlichtweg zu gering ist. Einer der Vorteile von Datenbanken ist hingegen, wie bereits oben erwähnt, dass sie eine viel größere Speicherkapazität haben und problemlos mit Ihrem Unternehmen mitwachsen. Sie sind also deutlich besser **skalierbar** als einfache Tabellen.
 
 ### 2\. Umgang mit mehreren Benutzern zur gleichen Zeit
 

@@ -20,7 +20,7 @@ Crear y gestionar una lista de tareas pendientes en línea con una aplicación t
 
 ## Para qué necesita una lista de tareas
 
-Tanto en casa como en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) profesionales, es importante llevar un registro de todas las tareas pendientes y trabajar en ellas una por una. El primer paso es anotar las **tareas** específicas en una lista de tareas pendientes. A continuación, define las **subtareas** o **categorías** generales, determina **las responsabilidades** y fija **los plazos**.
+Tanto en casa como en la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) profesionales, es importante llevar un registro de todas las tareas pendientes y trabajar en ellas una por una. El primer paso es anotar las **tareas** específicas en una lista de tareas pendientes. A continuación, define las **subtareas** o **categorías** generales, determina **las responsabilidades** y fija **los plazos**.
 
 Puede utilizar un **estado** para indicar si una tarea se está procesando o se ha completado. También se puede indicar un estado pendiente si se está esperando una respuesta o información. También deberías **priorizar** tus tareas pendientes para que siempre te ocupes primero de las más importantes.
 
@@ -72,7 +72,7 @@ También puede vincularse a tu calendario, a un asistente de voz de tu smartphon
 
 ### Microsoft To Do: La versátil aplicación para tu lista de tareas pendientes
 
-Con [Microsoft To](https://todo.microsoft.com/tasks/de-de/) Do, dispondrá tanto de un planificador diario como de una herramienta para [listas de]({{< relref "posts/einkaufsliste" >}}) tareas y [compras]({{< relref "posts/einkaufsliste" >}}). Puede integrar tareas de Outlook y trabajar en una lista sincronizada desde todos los dispositivos finales.
+Con [Microsoft To](https://to-do.office.com/tasks/de-de/) Do, dispondrá tanto de un planificador diario como de una herramienta para [listas de]({{< relref "posts/einkaufsliste" >}}) tareas y [compras]({{< relref "posts/einkaufsliste" >}}). Puede integrar tareas de Outlook y trabajar en una lista sincronizada desde todos los dispositivos finales.
 
 Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. También es posible utilizar recordatorios y tareas recurrentes. Sin embargo, no hay opciones avanzadas de visualización más allá del modo lista; para ello necesitarás el Planificador.
 
@@ -100,7 +100,7 @@ Los recordatorios pueden clasificarse claramente en cada lista y dividirse en se
 
 ## SeaTable: el todoterreno para todo tipo de listas
 
-SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) o un [diagrama de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
+SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}), el [calendario]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) o un [diagrama de Gantt]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
 
 Otra función interesante es que puedes subir [archivos]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) e [imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) y adjuntarlos a las tareas. También puedes añadir toda la información que quieras, como una fecha, una prioridad y subtareas en columnas adicionales.
 

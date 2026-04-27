@@ -29,13 +29,15 @@ Zudem können Sie bestimmte Darstellungsformen wählen, um die Daten ansprechend
 - Kanban-Ansicht
 - Kalenderansicht
 - Galerie-Ansicht
+- Zeitleisten-Ansicht
+- Baum-Ansicht
 - Big-Data-Ansicht
 
 Es ist wichtig zu verstehen, dass eine Ansicht nur eine andere Art ist, **dieselben zugrundeliegenden Daten** zu betrachten! Das heißt, wenn Sie die Daten einer Tabelle in einer Ansicht bearbeiten, ändern sich diese Daten in allen Ansichten der Tabelle, da alle Ansichten denselben Datensatz repräsentieren.
 
 {{< warning  type="warning" headline="Hinweis" >}}
 
-Weitere Darstellungsformen wie Organigramm, Baum oder Landkarte können Sie in Form von [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) verwenden.
+Weitere Darstellungsformen wie Organigramm oder Landkarte können Sie in Form von [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) verwenden.
 
 {{< /warning >}}
 
@@ -70,6 +72,22 @@ Wenn Sie eine Tabelle mit einer **Bild-Spalte** besitzen, können Sie eine Galer
 ![Die Galerie-Ansicht](images/gallery-view.jpg)
 
 Mehr dazu erfahren Sie im Artikel über die [Galerie-Ansicht]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}).
+
+## Die Zeitleisten-Ansicht
+
+Wenn Sie eine Tabelle mit **zwei Datum-Spalten** haben, können Sie eine Zeitleisten-Ansicht erstellen, die verschiedene Zeitspannen auf einem **Zeitstrahl** visualisiert. Sie eignet sich besonders, um die Abfolge von Prozessen darzustellen oder zu prüfen, ob sich Zeiträume **überschneiden** – etwa bei der Urlaubsplanung, Projektplänen oder der Buchung von Räumen.
+
+![Die Zeitleisten-Ansicht](images/timeline-view.jpg)
+
+Mehr dazu erfahren Sie im Artikel über die [Zeitleisten-Ansicht]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}).
+
+## Die Baum-Ansicht
+
+Wenn Sie eine Base mit **mindestens zwei miteinander verknüpften Tabellen** haben, können Sie eine Baum-Ansicht erstellen, um verknüpfte Datensätze **hierarchisch** darzustellen. Sie eignet sich besonders, um komplexe Strukturen wie Projektportfolios oder Organisationshierarchien übersichtlich zu visualisieren – mit bis zu drei Ebenen im Baumdiagramm.
+
+![Die Baum-Ansicht](images/tree-view.jpg)
+
+Mehr dazu erfahren Sie im Artikel über die [Baum-Ansicht]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}).
 
 ## Die Big-Data-Ansicht
 

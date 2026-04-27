@@ -212,7 +212,7 @@ wix logo
 
 Wix is currently one of the most popular website builders and is developed in Tel Aviv. The slogan of Wix is "What you see is what you get" and underlines the intended WYSIWYG principle.
 
-With Wix, even newcomers without any HTML knowledge can quickly create appealing and at the same time complex websites by drag-and-drop. This is surprisingly easy thanks to the more than 800 different templates that Wix suggests after a few questions about the general design. In addition to the web editor, Wix offers a variety of integrations in the areas of e-commerce, [marketing]({{< relref "pages/industry-solutions/marketing" >}}) or SEO analysis. The sheer abundance of included features cannot be found in any other website builder, which is why Wix offers the right combination of quality and quantity.
+With Wix, even newcomers without any HTML knowledge can quickly create appealing and at the same time complex websites by drag-and-drop. This is surprisingly easy thanks to the more than 800 different templates that Wix suggests after a few questions about the general design. In addition to the web editor, Wix offers a variety of integrations in the areas of e-commerce, [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) or SEO analysis. The sheer abundance of included features cannot be found in any other website builder, which is why Wix offers the right combination of quality and quantity.
 
 ### Webflow (website builder)
 

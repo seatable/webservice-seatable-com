@@ -18,7 +18,7 @@ Mit dem KI-Chat-Plugin können Sie direkt in SeaTable mit Ihren Daten chatten. I
 - Ein **API-Key** von einem der unterstützten KI-Anbieter:
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
-  - [Mistral](https://console.mistral.ai/) (Mistral)
+  - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Schritt 1: Plugin in Ihrer Base installieren
 

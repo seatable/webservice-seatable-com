@@ -1,25 +1,28 @@
 ---
-title: 'Individuelle Seiten in Universellen Apps'
+title: 'Dashboard-Seiten in SeaTable Apps'
 date: 2023-12-08
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/de/hilfe/individuelle-seiten-in-universellen-apps'
+url: '/de/hilfe/dashboard-seiten-in-seatable-apps'
+aliases:
+    - '/de/hilfe/individuelle-seiten-in-universellen-apps'
 seo:
-    title: 'Individuelle Seiten in Universellen Apps gestalten und anpassen'
-    description: 'SeaTable: Individuelle Seiten mit Text, Bild & Statistik flexibel gestalten, Elemente konfigurieren und eigene Designs einfach umsetzen.'
+    title: 'Dashboard-Seiten in SeaTable Apps gestalten und anpassen'
+    description: 'Dashboard-Seiten mit Text, Bild & Statistik flexibel gestalten, Elemente konfigurieren und eigene Designs einfach umsetzen.'
+weight: 6
 ---
 
 Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine **individuelle Seite** ganz nach Ihren Wünschen bauen. Fügen Sie **Texte** und **Bilder** in Ihre Seite ein oder nutzen Sie **Statistiken**, um mit den Daten aus Ihrer Base aussagekräftige **Dashboards** zu erstellen.
 
 ![Management Dashboard in der App zur Arbeitszeiterfassung](images/Dashboard_2.gif)
 
-## Individuelle Seiten erstellen
+## Dashboard-Seiten erstellen
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der individuellen Seite ändern](images/Einstellungen-der-individuellen-Seite-aendern.png)
+![Einstellungen der Dashboard-Seite ändern](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 Über die **Seiteneinstellungen** können Sie verschiedene **Elemente** per Drag-and-Drop zu Ihrer Seite hinzufügen.
 
@@ -27,19 +30,19 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 ## Elemente kopieren, verschieben oder löschen
 
-Wenn Sie ein bestehendes Element auf Ihrer individuellen Seite kopieren, verschieben oder löschen möchten, nutzen Sie einfach die drei entsprechenden **Symbole** an der oberen rechten Ecke des Rahmens.
+Wenn Sie ein bestehendes Element auf Ihrer Dashboard-Seite kopieren, verschieben oder löschen möchten, nutzen Sie einfach die drei entsprechenden **Symbole** an der oberen rechten Ecke des Rahmens.
 
 ![Copy, move and delete elements on custom pages](images/Copy-move-and-delete-elements-on-custom-pages.gif)
 
 ## Elementeinstellungen
 
-Für jedes **Element** der individuellen Seite gibt es zusätzliche Einstellungen, die hauptsächlich die Formatierung und die grafische Konfiguration betreffen.
+Für jedes **Element** der Dashboard-Seite gibt es zusätzliche Einstellungen, die hauptsächlich die Formatierung und die grafische Konfiguration betreffen.
 
 ### Text
 
-Text-Elemente eignen sich vor allem für **Überschriften** oder **kurze Texte**, die Sie auf Ihrer individuellen Seite platzieren wollen.
+Text-Elemente eignen sich vor allem für **Überschriften** oder **kurze Texte**, die Sie auf Ihrer Dashboard-Seite platzieren wollen.
 
-![Texte auf individuellen Seiten hinzufügen](images/Texte-auf-individuellen-Seiten-hinzufuegen.png)
+![Texte auf Dashboard-Seiten hinzufügen](images/Texte-auf-individuellen-Seiten-hinzufuegen.png)
 
 In den Elementeinstellungen können Sie zahlreiche Parameter festlegen:
 
@@ -47,33 +50,33 @@ In den Elementeinstellungen können Sie zahlreiche Parameter festlegen:
 - **Zeilenabstand und Textausrichtung**
 - **Hintergrund und Rahmen**
 
-![Elementeinstellungen für Texte auf individuellen Seiten](images/Elementeinstellungen-fuer-Texte-auf-individuellen-Seiten.png)
+![Elementeinstellungen für Texte auf Dashboard-Seiten](images/Elementeinstellungen-fuer-Texte-auf-individuellen-Seiten.png)
 
 ### Formatierter Text
 
 Mit formatierten Text-Elementen können Sie, wie der Name schon sagt, **längere Texte formatieren**. Dabei öffnet sich der Texteditor, den Sie bereits vom Spaltentyp [Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kennen.
 
-![Formatierte Texte auf individuellen Seiten](images/Formatierte-Texte-auf-individuellen-Seiten.png)
+![Formatierte Texte auf Dashboard-Seiten](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 
 Da Sie im Texteditor bereits vielfältige Formatierungsoptionen haben, können Sie in den Elementeinstellungen nur noch die **Hintergrundfarbe** und den **Rahmen** der Textbox einstellen.
 
-![Elementeinstellungen für formatierte Texte auf individuellen Seiten](images/Elementeinstellungen-fuer-formatierte-Texte-auf-individuellen-Seiten.png)
+![Elementeinstellungen für formatierte Texte auf Dashboard-Seiten](images/Elementeinstellungen-fuer-formatierte-Texte-auf-individuellen-Seiten.png)
 
 ### Horizontale Linie
 
-Um auf Ihrer individuellen Seite verschiedene Bereiche voneinander abzutrennen, können Sie eine **horizontale Linie** einziehen. Dabei können Sie eine **Farbe**, einen **Hintergrund** und einen **Rahmen** festlegen.
+Um auf Ihrer Dashboard-Seite verschiedene Bereiche voneinander abzutrennen, können Sie eine **horizontale Linie** einziehen. Dabei können Sie eine **Farbe**, einen **Hintergrund** und einen **Rahmen** festlegen.
 
-![Elementeinstellungen für Linien auf individuellen Seiten](images/Elementeinstellungen-fuer-Linien-auf-individuellen-Seiten.png)
+![Elementeinstellungen für Linien auf Dashboard-Seiten](images/Elementeinstellungen-fuer-Linien-auf-individuellen-Seiten.png)
 
 ### Bilder
 
-Um Ihre individuelle Seite schöner zu gestalten, können Sie ganz leicht **Bilder** hinzufügen. Klicken Sie dazu auf den Bilderrahmen, den Sie zuvor per Drag-and-Drop in die Seite eingebettet haben, und laden Sie das gewünschte Bild von Ihrem Gerät hoch.
+Um Ihre Dashboard-Seite schöner zu gestalten, können Sie ganz leicht **Bilder** hinzufügen. Klicken Sie dazu auf den Bilderrahmen, den Sie zuvor per Drag-and-Drop in die Seite eingebettet haben, und laden Sie das gewünschte Bild von Ihrem Gerät hoch.
 
-![Bild auf individueller Seite hinzufügen](images/Bild-auf-individueller-Seite-hinzufuegen.gif)
+![Bild auf Dashboard-Seite hinzufügen](images/Bild-auf-individueller-Seite-hinzufuegen.gif)
 
 In den Elementeinstellungen können Sie den **Füllmodus**, den **Hintergrund** und den **Rahmen** des Bildes festlegen. Darüber hinaus können Sie **Hyperlinks** nutzen, um andere Seiten der App oder externe Ressourcen auf einem Bild zu verlinken.
 
-![Elementeinstellungen für Bilder auf individuellen Seiten](images/Elementeinstellungen-fuer-Bilder-auf-individuellen-Seiten.png)
+![Elementeinstellungen für Bilder auf Dashboard-Seiten](images/Elementeinstellungen-fuer-Bilder-auf-individuellen-Seiten.png)
 
 ### Container
 
@@ -83,7 +86,7 @@ Ein Container gibt ein **Raster** vor, mit dem Sie andere Elemente (z. B. Texte,
 
 In den Elementeinstellungen können Sie dem Container einen **Titel** hinzufügen, dessen Schriftgröße, Schriftstärke und Ausrichtung Sie anpassen können. Zudem haben Sie die Möglichkeit, die **Hintergrundfarbe** und den **Rahmen** des Containers einzustellen.
 
-![Elementeinstellungen für Container auf individuellen Seiten](images/Elementeinstellungen-fuer-Container-auf-individuellen-Seiten.png)
+![Elementeinstellungen für Container auf Dashboard-Seiten](images/Elementeinstellungen-fuer-Container-auf-individuellen-Seiten.png)
 
 ### Karte (Design-Vorlage)
 
@@ -93,17 +96,17 @@ Für ein schönes Seitenlayout sorgt auch die **Karte**, die ein Bild, eine Übe
 
 In diese Vorlage können Sie ein **Bild**, einen **Titel** und einen **Karteninhalt** (Text) einfügen. Darüber hinaus können Sie einen **Hyperlink** nutzen, um eine andere Seite der App oder eine externe Ressource zu verlinken.
 
-![Elementeinstellungen für Karten auf individuellen Seiten](images/Elementeinstellungen-fuer-Karten-auf-individuellen-Seiten.png)
+![Elementeinstellungen für Karten auf Dashboard-Seiten](images/Elementeinstellungen-fuer-Karten-auf-individuellen-Seiten.png)
 
 Was die Gestaltung der Karte angeht, haben Sie zuerst die Möglichkeit, den **Füllmodus** des Bildes zu ändern. Als Nächstes können Sie die **Schriftgröße, -stärke und -farbe** sowohl des Titels als auch des Karteninhalts anpassen. Zuletzt stellen Sie die **Hintergrundfarbe** und den **Rahmen** der Karte ein.
 
-![Stileinstellungen für Karten auf individuellen Seiten](images/Stileinstellungen-fuer-Karten-auf-individuellen-Seiten.png)
+![Stileinstellungen für Karten auf Dashboard-Seiten](images/Stileinstellungen-fuer-Karten-auf-individuellen-Seiten.png)
 
 ## Statistiken
 
-Auf einer individuellen Seite Ihrer App können Sie die Daten aus der zugrundeliegenden Base mithilfe verschiedenster **Grafiken** und **Diagramme** veranschaulichen.
+Auf einer Dashboard-Seite Ihrer App können Sie die Daten aus der zugrundeliegenden Base mithilfe verschiedenster **Grafiken** und **Diagramme** veranschaulichen.
 
-![Statistiken auf individuellen Seiten hinzufügen](images/Statistiken-auf-individuellen-Seiten-hinzufuegen.gif)
+![Statistiken auf Dashboard-Seiten hinzufügen](images/Statistiken-auf-individuellen-Seiten-hinzufuegen.gif)
 
 ### Dateneinstellungen
 
@@ -121,11 +124,11 @@ Zudem können Sie die **Drill-down-Funktion** aktivieren und genau festlegen, f�
 
 Bei einem Säulendiagramm müssen Sie die Spalte festlegen, welche die **Werte für die X-Achse** liefern soll. Klicken Sie auf das entsprechende Drop-down-Feld und wählen Sie die Spalte aus. Mit einem Regler können Sie einstellen, ob Sie **leere Zeilen** im Diagramm berücksichtigen wollen.
 
-![Dateneinstellungen von Statistiken auf individuellen Seiten](images/Dateneinstellungen-von-Statistiken-auf-individuellen-Seiten.png)
+![Dateneinstellungen von Statistiken auf Dashboard-Seiten](images/Dateneinstellungen-von-Statistiken-auf-individuellen-Seiten.png)
 
 Entscheiden Sie dann, wie die **Werte auf der Y-Achse** dargestellt werden sollen. Sie können wählen zwischen der **Anzahl der Einträge**, die einen bestimmten Wert in der gewählten Spalte aufweisen, und der Option **Feld zusammenfassen**, bei der Sie in **numerischen Spalten** entweder die Summe, den Durchschnitt, die Anzahl eindeutiger Werte, das Maximum oder das Minimum auswerten können.
 
-![Dateneinstellungen Y-Achse von Statistiken auf individuellen Seiten](images/Dateneinstellungen-Y-Achse-von-Statistiken-auf-individuellen-Seiten.png)
+![Dateneinstellungen Y-Achse von Statistiken auf Dashboard-Seiten](images/Dateneinstellungen-Y-Achse-von-Statistiken-auf-individuellen-Seiten.png)
 
 Bei **gruppierten Diagrammen** können Sie eine Spalte mit Optionen angeben, nach denen Sie gruppieren möchten. Bei einigen Diagrammtypen können Sie die Daten auch aufsteigend oder absteigend **sortieren**.
 
@@ -141,7 +144,7 @@ Für ein **Säulendiagramm** können Sie beispielsweise die folgenden Einstellun
 - Farbe und Datenbeschriftung der Säulen
 - Rahmen (Schatten, Farbe, Dicke und Radius)
 
-![Stileinstellungen bei Säulendiagrammen auf individuellen Seiten](images/Stileinstellungen-bei-Saeulendiagrammen-auf-individuellen-Seiten.gif)
+![Stileinstellungen bei Säulendiagrammen auf Dashboard-Seiten](images/Stileinstellungen-bei-Saeulendiagrammen-auf-individuellen-Seiten.gif)
 
 Für ein **Kuchendiagramm** können Sie die folgenden Einstellungen vornehmen:
 
@@ -151,32 +154,40 @@ Für ein **Kuchendiagramm** können Sie die folgenden Einstellungen vornehmen:
 - Mindestanteil eines Sektors
 - Rahmen (Schatten, Farbe, Dicke und Radius)
 
-![Stileinstellungen bei Kuchendiagrammen auf individuellen Seiten](images/Stileinstellungen-bei-Kuchendiagrammen-auf-individuellen-Seiten.gif)
+![Stileinstellungen bei Kuchendiagrammen auf Dashboard-Seiten](images/Stileinstellungen-bei-Kuchendiagrammen-auf-individuellen-Seiten.gif)
 
 Alle Einstellungsänderungen werden **in Echtzeit** ausgeführt, d.h. das Diagramm wird bei jeder Einstellungsänderung unmittelbar aktualisiert. So können Sie direkt sehen, ob Sie das gewünschte Ergebnis erzielt haben oder nachjustieren müssen.
 
 ### Einfache Tabelle
 
-Auf individuellen Seiten gibt es einen besonderen Statistiktyp: Die **Einfache Tabelle** erlaubt – ähnlich wie [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) – die tabellarische Darstellung eines durch den App-Admin vorgefilterten und vorsortierten Datensatzes. Anders als auf der Tabellenseite ist es somit möglich, **mehrere Tabellen** auf einem Dashboard zu vereinen.
+Auf Dashboard-Seiten gibt es einen besonderen Statistiktyp: Die **Einfache Tabelle** erlaubt – ähnlich wie [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) – die tabellarische Darstellung eines durch den App-Admin vorgefilterten und vorsortierten Datensatzes. Anders als auf der Tabellenseite ist es somit möglich, **mehrere Tabellen** auf einem Dashboard zu vereinen.
 
 ![New chart type "Basic table"](images/BasicTable.png)
 
 ## Hintergrundfarbe der Seite einstellen
 
-Über die Farben der einzelnen Seitenelemente hinaus können Sie auch die **Hintergrundfarbe** einer gesamten individuellen Seite einstellen.
+Über die Farben der einzelnen Seitenelemente hinaus können Sie auch die **Hintergrundfarbe** einer gesamten Dashboard-Seite einstellen.
 
-![Hintergrundfarbe der individuellen Seite einstellen](images/Hintergrundfarbe-der-individuellen-Seite.png)
+![Hintergrundfarbe der Dashboard-Seite einstellen](images/Hintergrundfarbe-der-individuellen-Seite.png)
 
 Wählen Sie zwischen Weiß, Grau und einer eigenen Farbe, die Sie per Hexadezimalcode eingeben oder im Farbwähler frei bestimmen können.
 
 ## Titelleiste ausblenden
 
-Falls Sie auf einer individuellen Seite die **Titelleiste ausblenden** möchten, können Sie dies tun, indem Sie den entsprechenden **Regler aktivieren**.
+Falls Sie auf einer Dashboard-Seite die **Titelleiste ausblenden** möchten, können Sie dies tun, indem Sie den entsprechenden **Regler aktivieren**.
+
+![Titelleiste ausblenden](images/hide-top-bar-on-dashboard-pages.png)
+
+## Drucken der Seite erlauben
+
+Wenn Sie das Drucken der Seite erlauben, indem Sie den entsprechenden **Regler aktivieren**, wird den Nutzern der App anschließend ein Icon in der oberen rechten Ecke angezeigt. Mithilfe dieser Druckfunktion können die Nutzer der App das Dashboard inklusive aller Elemente (Texte, Bilder, Statistiken etc.) drucken bzw. als PDF exportieren.
+
+![Dashboard-Seiten drucken](images/print-custom-pages.png)
 
 ## Seitenberechtigungen
 
 Zu guter Letzt können Sie in den Seiteneinstellungen eingrenzen, wer die Seite sehen darf.
 
-![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Berechtigung für Dashboard-Seiten der App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie bei individuellen Seiten zur Auswahl haben – denn über individuelle Seiten können keine Zeilen in der Tabelle hinzugefügt, verändert oder gelöscht werden.
+Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie bei Dashboard-Seiten zur Auswahl haben – denn über Dashboard-Seiten können keine Zeilen in der Tabelle hinzugefügt, verändert oder gelöscht werden.

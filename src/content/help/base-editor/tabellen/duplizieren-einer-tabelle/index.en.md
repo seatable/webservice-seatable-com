@@ -1,5 +1,5 @@
 ---
-title: 'Duplicating a table'
+title: 'Duplicate a table'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

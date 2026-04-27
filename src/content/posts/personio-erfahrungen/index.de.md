@@ -20,7 +20,7 @@ register:
 Personio ist eine cloudbasierte [HR-Management-Software]({{< relref "posts/20250317-hris" >}}), die vor allem für Unternehmen mit 10 bis 5.000 Mitarbeitern konzipiert ist. Die Basis-Version (Personio Core) vereint Funktionen wie
 
 *   [Personalstammdaten]({{< relref "posts/20250505-master-data-management" >}}) und digitale Personalakte
-*   [Zeiterfassung]({{< relref "pages/arbeitszeiterfassung" >}}) und Abwesenheitsmanagement
+*   [Zeiterfassung]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) und Abwesenheitsmanagement
 *   Dokumente und [HR-Vorlagen]({{< relref "templates/human-resources" >}})
 *   [On- und Off-Boarding]({{< relref "posts/20250324-onboarding-prozess" >}})
 *   Analysen und Reporting
@@ -83,7 +83,7 @@ Obwohl die **Ersteinrichtung** eines Accounts in Cloud-Systemen kinderleicht ist
 
 ## SeaTable als Personio Alternative
 
-SeaTable ist eine KI No-Code Lösung, die **Datenmanagement, App Building und KI-Automationen** vereint. Der Anwendungsbereich ist nicht auf das Personalmanagement beschränkt, wodurch Sie SeaTable unternehmensweit (z. B. im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "pages/industry-solutions/kundenmanagement" >}}) und [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})) einsetzen können, um Datenbanken und Apps zu erstellen sowie Prozesse zu automatisieren. Außerdem bietet SeaTable gegenüber Personio Vorteile, die bei der Beurteilung ins Gewicht fallen:
+SeaTable ist eine KI No-Code Lösung, die **Datenmanagement, App Building und KI-Automationen** vereint. Der Anwendungsbereich ist nicht auf das Personalmanagement beschränkt, wodurch Sie SeaTable unternehmensweit (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) und [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})) einsetzen können, um Datenbanken und Apps zu erstellen sowie Prozesse zu automatisieren. Außerdem bietet SeaTable gegenüber Personio Vorteile, die bei der Beurteilung ins Gewicht fallen:
 
 -   **Mehr Flexibilität**: Bauen Sie schnell, einfach und intuitiv alle Prozesse, Anwendungen und Datenansichten, die Sie für Ihr Personalmanagement brauchen.  
 
@@ -109,7 +109,7 @@ Hier noch einmal die **Unterschiede zwischen Personio und SeaTable** im Überbli
 
 ## Gemischtes Fazit: Personio Erfahrungen eher negativ
 
-Grundsätzlich ist Personio eine benutzerfreundliche Cloud-Software, die umfangreiche Funktionen für das Personalmanagement bereithält. Diesbezüglich wird oft lobend hervorgehoben, dass Personio als **All-in-one-Lösung** Mitarbeiterdaten, Dokumente und [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}) zentralisiert und die Personalabteilung entlastet. An der Software selbst haben die Kunden lediglich die geringe Flexibilität, lästige Updates und lange Ladezeiten auszusetzen. Alles in allem fällt die Personio Bewertung in zahlreichen Personio Reviews dennoch schlecht aus:  
+Grundsätzlich ist Personio eine benutzerfreundliche Cloud-Software, die umfangreiche Funktionen für das Personalmanagement bereithält. Diesbezüglich wird oft lobend hervorgehoben, dass Personio als **All-in-one-Lösung** Mitarbeiterdaten, Dokumente und [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) zentralisiert und die Personalabteilung entlastet. An der Software selbst haben die Kunden lediglich die geringe Flexibilität, lästige Updates und lange Ladezeiten auszusetzen. Alles in allem fällt die Personio Bewertung in zahlreichen Personio Reviews dennoch schlecht aus:  
 
 Oft schlagen die Personio Erfahrungen ins Negative um, sobald die Kunden die Vertriebspraktiken zu spüren bekommen: Hierzu berichten viele **unzufriedene Kunden**, mit falschen Versprechungen gelockt oder nach Vertragsabschluss im Stich gelassen worden zu sein. **Achtung: Kostenfalle!** Personio lässt sich die Nutzung seiner Software fürstlich vergüten, wobei die hohen Preise zunächst nicht ersichtlich sind. Die versteckten Personio Kosten hängen stark von der Mitarbeiterzahl und den gewählten Modulen ab.
 

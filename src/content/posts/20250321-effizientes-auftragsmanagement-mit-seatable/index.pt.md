@@ -23,7 +23,7 @@ Graças à flexibilidade do sistema, o SeaTable pode ser utilizado para uma gran
 
 ## Complexidade crescente e falta de transparência na gestão de encomendas
 
-O nosso cliente dedica-se à construção e manutenção de instalações de edifícios. A empresa em rápido crescimento utilizava anteriormente o Excel para a gestão de encomendas. No entanto, à medida que o volume de encomendas crescia, os funcionários atingiam cada vez mais os limites do sistema e procuravam uma [alternativa ao Excel]({{< relref "pages/excel-alternative" >}}). Muitos processos eram ineficientes devido à falta de funções de automatização e tinham de ser processados manualmente. A falta de um verdadeiro trabalho colaborativo em tempo real significava que os dados nem sempre estavam actualizados e que o estado dos processos não era apresentado de forma transparente a todo o momento. Para além disso, havia preocupações crescentes com a segurança dos dados. A mudança para um sistema novo e moderno tornou-se imperativa.
+O nosso cliente dedica-se à construção e manutenção de instalações de edifícios. A empresa em rápido crescimento utilizava anteriormente o Excel para a gestão de encomendas. No entanto, à medida que o volume de encomendas crescia, os funcionários atingiam cada vez mais os limites do sistema e procuravam uma [alternativa ao Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). Muitos processos eram ineficientes devido à falta de funções de automatização e tinham de ser processados manualmente. A falta de um verdadeiro trabalho colaborativo em tempo real significava que os dados nem sempre estavam actualizados e que o estado dos processos não era apresentado de forma transparente a todo o momento. Para além disso, havia preocupações crescentes com a segurança dos dados. A mudança para um sistema novo e moderno tornou-se imperativa.
 
 **Os principais requisitos da empresa incluíam:**
 
@@ -50,10 +50,10 @@ Foram criadas tabelas diferentes e ligadas entre si para diferentes fases de tra
 
 ### Visualização de dados
 
-Um avanço muito significativo é a **criação descomplicada de painéis para monitorizar** e analisar as margens de lucro, os KPIs dos funcionários ou o progresso do projeto. O Kanban integrado e o plugin de linha temporal para gráficos de Gantt revelaram-se particularmente úteis para os calendários e o progresso dos projectos.
+Um avanço muito significativo é a **criação descomplicada de painéis para monitorizar** e analisar as margens de lucro, os KPIs dos funcionários ou o progresso do projeto. O Kanban integrado e a vista de linha temporal para gráficos de Gantt revelaram-se particularmente úteis para os calendários e o progresso dos projectos.
 
 ![Planeamento do estaleiro de construção com visualização de dados no SeaTable](Customer-Story_CN_Neue-Wachstumsimpulse.jpg)
 
 ## Novos impulsos de crescimento através de fluxos de trabalho mais eficientes e transparência
 
-A implementação do SeaTable ajudou a empresa a modernizar a sua gestão de encomendas e a implementar fluxos de trabalho [digitais eficientes]({{< relref "pages/industry-solutions/individual" >}}). Todos os funcionários podem agora trabalhar simultaneamente num único sistema com dados actualizados, sem receio de perda de dados. Os gestores de projectos e a administração têm acesso a visualizações de dados actuais em qualquer altura, a fim de avaliarem os números-chave relevantes da empresa e o estado do projeto. E tudo num único sistema. A gestão de encomendas no SeaTable acelerou significativamente os processos de trabalho e as decisões, criando ao mesmo tempo a base para o crescimento futuro.
+A implementação do SeaTable ajudou a empresa a modernizar a sua gestão de encomendas e a implementar fluxos de trabalho [digitais eficientes]({{< relref "pages/landing-pages/industry-solutions/individual" >}}). Todos os funcionários podem agora trabalhar simultaneamente num único sistema com dados actualizados, sem receio de perda de dados. Os gestores de projectos e a administração têm acesso a visualizações de dados actuais em qualquer altura, a fim de avaliarem os números-chave relevantes da empresa e o estado do projeto. E tudo num único sistema. A gestão de encomendas no SeaTable acelerou significativamente os processos de trabalho e as decisões, criando ao mesmo tempo a base para o crescimento futuro.

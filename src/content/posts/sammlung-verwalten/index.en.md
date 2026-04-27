@@ -54,7 +54,7 @@ You have various options for managing your collection. There are both paid and f
 
 ### Evernote - the note app for quickly capturing and managing your collections
 
-One option for managing collections is [Evernote](https://evernote.com/intl/de). Here you can write down notes and attach pictures or documents such as purchase receipts of the items. It is also possible to set tags to distinguish different collections from each other. A search function helps to find collection items within the notes. You start with a free version. The Personal version costs €6.99 per month per user and the Professional version costs €8.99.
+One option for managing collections is [Evernote](https://evernote.com/de-de). Here you can write down notes and attach pictures or documents such as purchase receipts of the items. It is also possible to set tags to distinguish different collections from each other. A search function helps to find collection items within the notes. You start with a free version. The Personal version costs €6.99 per month per user and the Professional version costs €8.99.
 
 ![Someone looks at the Evernote tool to manage their collection.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
@@ -66,7 +66,7 @@ The [Data Crow](https://www.datacrow.net/) software is particularly suitable for
 
 ### GCstar - free collection software
 
-Another free collection software is [GCstar](http://www.gcstar.org/). This management program has the same functions for recording and managing collections as Data Crow. You also have the option of enriching your collection with information from the Internet. Save the location where you acquired the item and record if you lend the collection item to someone. In addition to media, you can of course also take an inventory of other objects. If you are interested in an open source solution, you can install Data Crow and GCstar on a trial basis and compare the interfaces.
+Another free collection software is [GCstar](https://gitlab.com/GCstar/). This management program has the same functions for recording and managing collections as Data Crow. You also have the option of enriching your collection with information from the Internet. Save the location where you acquired the item and record if you lend the collection item to someone. In addition to media, you can of course also take an inventory of other objects. If you are interested in an open source solution, you can install Data Crow and GCstar on a trial basis and compare the interfaces.
 
 ### Niche software for collectors
 

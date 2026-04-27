@@ -9,11 +9,15 @@ url: '/de/hilfe/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
 seo:
     title: 'Python: Zufällige Einträge in SeaTable automatisch erzeugen'
     description: 'Mit diesem Python-Skript erstellen Sie viele zufällige Beispielzeilen direkt in SeaTable. Ideal zum Testen, Vorfühlen und schnellen Füllen neuer Datenbanken.'
-
+weight: 5
 ---
 
 
 Manchmal möchte man in einer Base ein paar Beispieleinträge generieren. Mit diesem Python-Skript können Sie in kürzester Zeit von einigen wenigen bis zu viele Tausende Einträge erzeugen.
+
+![Random Entries in SeaTable](random-entries.png)
+
+{{< dtable-download name="Random Entries" file="/downloads/python-examples/random-entries.dtable" text="Base mit passender Tabellenstruktur und fertigem Skript zum direkten Ausprobieren." />}}
 
 Dieser Artikel führt Sie durch die verschiedenen Abschnitte des Skriptes, sodass Sie die Funktionsweise verstehen und es bei Bedarf an Ihre Bedürfnisse anpassen können. Das vollständige Skript finden Sie am Ende dieses Artikels.
 

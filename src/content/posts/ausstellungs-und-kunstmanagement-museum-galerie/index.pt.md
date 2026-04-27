@@ -17,7 +17,7 @@ tags:
 color: '#c75d67'
 ---
 
-Existem cerca de [55.000 museus](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) em todo o mundo e inúmeras outras galerias, exposições, teatros e palcos de arte. Todos concordarão que a arte, nas suas várias formas, desempenha um papel importante nas nossas vidas. Sem as ferramentas digitais, a gestão e o funcionamento de uma instituição de arte deste tipo seriam hoje em dia quase inimagináveis. Candidatar-se a fundos públicos, fazer o inventário das exposições e (especialmente durante a pandemia do coronavírus) registar os visitantes - há certamente tarefas mais fáceis do que a gestão da arte.
+Existem cerca de [55.000 museus](https://www.zukunftsinstitut.de/zukunftsthemen/die-zukunft-des-museums-ist-integrativ) em todo o mundo e inúmeras outras galerias, exposições, teatros e palcos de arte. Todos concordarão que a arte, nas suas várias formas, desempenha um papel importante nas nossas vidas. Sem as ferramentas digitais, a gestão e o funcionamento de uma instituição de arte deste tipo seriam hoje em dia quase inimagináveis. Candidatar-se a fundos públicos, fazer o inventário das exposições e (especialmente durante a pandemia do coronavírus) registar os visitantes - há certamente tarefas mais fáceis do que a gestão da arte.
 
 Este artigo descreve os desafios da gestão das artes, aborda as diferenças entre a gestão de uma instituição artística pública e a de uma empresa, descreve os problemas das soluções sectoriais inflexíveis na gestão das artes e mostra formas eficazes de ultrapassar estes desafios.
 
@@ -87,9 +87,9 @@ O nosso modelo [Art Gallery Management]({{< relref "templates/operations/art-gal
 
 Vista geral dos objectos do modelo da Galeria de Arte
 
-### Representação visual dos objectos com o plug-in da galeria
+### Representação visual dos objectos com a vista de galeria
 
-A vista de tabela do SeaTable pode ser adaptada de forma flexível às necessidades de cada colaborador com vistas individuais. Além disso, o SeaTable tem outras opções de visualização para além da vista tabular. Para entradas com imagens, por exemplo, pode fazer sentido utilizar o [plugin da galeria]({{< relref "help/base-editor/ansichten" >}}) para obter uma visão geral clara e encontrar rapidamente a entrada desejada. Um clique na entrada é suficiente para mudar para a vista detalhada e fazer ajustes nos dados.
+A vista de tabela do SeaTable pode ser adaptada de forma flexível às necessidades de cada colaborador com vistas individuais. Além disso, o SeaTable tem outras opções de visualização para além da vista tabular. Para entradas com imagens, por exemplo, pode fazer sentido utilizar a [vista de galeria]({{< relref "help/base-editor/ansichten" >}}) para obter uma visão geral clara e encontrar rapidamente a entrada desejada. Um clique na entrada é suficiente para mudar para a vista detalhada e fazer ajustes nos dados.
 
 ![Os artistas apresentados como uma galeria](art-gallery-management-gallery-view.png)
 

@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: Armoire numérique et planificateur de tenues par SeaTable
       subtitle: Plus flexible que les autres applications de garde-robe
-      description: Une simple liste dans une application de prise de notes ou dans Excel est rapide à créer, mais elle peut également prêter à confusion. Grâce à [la solution IA no-code SeaTable]({{< relref "/" >}}), vous pouvez créer votre propre application de garde-robe personnelle pour un placard bien organisé et une **plus grande transparence et clarté dans votre vie quotidienne**.
+      description: Une simple liste dans une application de prise de notes ou dans Excel est rapide à créer, mais elle peut également prêter à confusion. Grâce à [la solution IA no-code SeaTable]({{< relref "/" >}}), vous pouvez créer votre propre application de garde-robe personnelle pour un [placard bien organisé]({{< relref "posts/kleiderschrank-organisieren" >}}) et une **plus grande transparence et clarté dans votre vie quotidienne**.
       items:
       - text: "**Toujours à jour** : de nouvelles pièces ou idées peuvent être ajoutées à tout moment et sont toujours à jour."
       - text: "**Accès depuis n'importe où** : grâce à la solution cloud, vous avez toujours toute votre garde-robe avec vous."
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: Votre garde-robe numérique dotée de fonctionnalités d'IA
       subtitle: Une aide intelligente au quotidien
-      description: Avec SeaTable, vous bénéficiez de puissantes [automatisations basées sur l'IA]({{< relref "pages/ai-automations" >}}). Résumez des textes descriptifs de manière concise, extrayez des instructions d'entretien ou générez des suggestions de tenues, le tout en **totale conformité avec le RGPD sur des serveurs européens situés en Allemagne**.
+      description: Avec SeaTable, vous bénéficiez de puissantes [automatisations basées sur l'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Résumez des textes descriptifs de manière concise, extrayez des instructions d'entretien ou générez des suggestions de tenues, le tout en **totale conformité avec le RGPD sur des serveurs européens situés en Allemagne**.
       items:
       - headline: Résumés automatiques avec Summarize
         text: "Enregistrez des notes sur l'occasion, l'ambiance et le confort, et générez automatiquement un titre court pour chaque tenue. La vue calendrier vous offre ensuite un aperçu concis du look sans avoir à lire l'intégralité des données enregistrées."
@@ -167,6 +167,6 @@ sections:
       - q: Puis-je également enregistrer des photos de tenues et d'associations ? 
         a: Oui, vous pouvez enregistrer des photos, des vidéos et d'autres fichiers, puis les associer aux vêtements et tenues que vous avez enregistrés. 
       - q: L'utilisation de l'IA dans SeaTable est-elle conforme au RGPD ?
-        a: Absolument, avec SeaTable, vous n'avez pas à vous inquiéter que vos informations soient utilisées à mauvais escient comme données d'entraînement. Nous hébergeons SeaTable Cloud et [notre propre modèle d'IA]({{< relref "pages/ai-automations" >}}) sur des serveurs européens certifiés en Allemagne. Il n'y a aucun échange de données avec des fournisseurs d'IA externes, et vos données ne quittent jamais l'infrastructure SeaTable.'       
+        a: Absolument, avec SeaTable, vous n'avez pas à vous inquiéter que vos informations soient utilisées à mauvais escient comme données d'entraînement. Nous hébergeons SeaTable Cloud et [notre propre modèle d'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) sur des serveurs européens certifiés en Allemagne. Il n'y a aucun échange de données avec des fournisseurs d'IA externes, et vos données ne quittent jamais l'infrastructure SeaTable.'       
 ---
 

@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: 'AI-powered CRM solution from SeaTable'
       subtitle: 'Smart automation with integrated AI'
-      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "pages/ai-automations" >}}) that help you get the most out of your customer data. Automate tasks and save time!
+      description: With SeaTable's CRM template, you benefit from integrated, powerful [AI functions]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) that help you get the most out of your customer data. Automate tasks and save time!
      
       items:
       - headline: 'Classification with Classify'
@@ -186,8 +186,10 @@ sections:
         a: "Yes, SeaTable allows you to assign attributes to individual contacts in your CRM tool based on various criteria. With our integrated AI-powered automations, it's easy to take various factors into account and translate them into a unified rating system." 
       - q: "Sales managers should only be able to view their own deal pipeline. Is that possible?" 
         a: "Yes, that's no problem. SeaTable allows you to set granular access and view permissions at the app, base, and view levels. To ensure that your sales managers can only see their own deal pipeline in your CRM program, use the Sales Pipeline page in the app and set the permissions accordingly." 
+      - q: "Can I sync my Google Calendar with SeaTable?"
+        a: 'Yes, SeaTable offers [native integration with Google Calendar]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}). All you need is your Google Calendar ID and your security key.'     
       - q: "We are currently growing rapidly. Is SeaTable scalable?" 
-        a: 'Absolutely, you can flexibly adapt SeaTable to the changing needs of your and [customer management]({{< relref "pages/industry-solutions/kundenmanagement" >}}) and add new users or increase the storage space limit. We offer three subscription levels in the [cloud version]({{< relref "pages/product/seatable-cloud" >}}), between which you can easily switch. If you need more than 100 user seats, please contact us and we will provide you with a customized quote.'
+        a: 'Absolutely, you can flexibly adapt SeaTable to the changing needs of your and [customer management]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) and add new users or increase the storage space limit. We offer three subscription levels in the [cloud version]({{< relref "pages/product/seatable-cloud" >}}), between which you can easily switch. If you need more than 100 user seats, please contact us and we will provide you with a customized quote.'
       - q: "Does SeaTable offer free support for its free CRM program?" 
         a: "Yes, our support team is available to answer any questions you may have about SeaTable or your CRM management system. The best way to do this is to visit our community forum or contact us by email." 
 --- 

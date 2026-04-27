@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Projektportfolio Tool – die Vorlage online nutzen'
       subtitle: 'Ihre Vorteile im Überblick'
-      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Vorlage für das Projektportfolio Tool bilden Sie Ihr komplettes Projektportfolio von der Idee bis zum Abschluss ab, behalten Ressourcen im Blick und schaffen eine gemeinsame Entscheidungsbasis für das Projektportfoliomanagement im gesamten Unternehmen. Setzen Sie das zentrale, datenbasierte PPM Tool als flexibel anpassbares [Projektmanagement-Tool]({{< relref "pages/industry-solutions/project-management" >}}) für Planung, Kollaboration, Visualisierung und Automatisierung Ihrer Projekte ein.'
+      description: 'Die KI No-Code-Lösung SeaTable überzeugt durch Flexibilität und Anpassbarkeit. Mit der Vorlage für das Projektportfolio Tool bilden Sie Ihr komplettes Projektportfolio von der Idee bis zum Abschluss ab, behalten Ressourcen im Blick und schaffen eine gemeinsame Entscheidungsbasis für das Projektportfoliomanagement im gesamten Unternehmen. Setzen Sie das zentrale, datenbasierte PPM Tool als flexibel anpassbares [Projektmanagement-Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) für Planung, Kollaboration, Visualisierung und Automatisierung Ihrer Projekte ein.'
       items:
       - text: 'Stets aktuell: Dank Kommentaren, Änderungshistorie und Echtzeitaktualisierung bleibt Ihr Projektportfolio im Projektportfolio Tool immer auf dem neuesten Stand – von der ersten Projektidee bis zum abgeschlossenen Projekt.'
       - text: 'Zugriff von überall: Mit einem online geführten Projektportfolio Tool haben Sie jederzeit Zugriff auf Ihr Projektportfolio – im Büro, im Homeoffice oder im Management-Meeting.'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Projektportfolio Tool'
       subtitle: 'Smarte Automatisierung im Portfolio'
-      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr Projektportfolio Tool auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Projektportfoliomanagement, reduzieren Sie manuelle Routinetätigkeiten und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
+      description: 'Mit SeaTable nutzen Sie leistungsstarke [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihr Projektportfolio Tool auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Projektportfoliomanagement, reduzieren Sie manuelle Routinetätigkeiten und gewinnen Sie Zeit für Analyse, Abstimmung und fundierte Entscheidungen über Prioritäten und Ressourcen.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Classify ordnet neue Projektideen basierend auf Titel und Beschreibung automatisch passenden Kategorien, Bereichen oder Programmen zu. In Ihrer Projektportfolio Vorlage landen neue Einträge so direkt in der richtigen Struktur und Sie sehen auf einen Blick, in welchen Bereichen sich Projekte und Aufwand verdichten.'
@@ -188,7 +188,7 @@ sections:
       - q: "Kann ich eigene Felder und Workflows im Projektportfolio Tool anlegen?"
         a: 'Ja, Sie können jederzeit zusätzliche Spalten, Tabellen, Ansichten und Automatisierungen hinzufügen. So passen Sie jede Projektportfolio Vorlage flexibel an Ihre internen Prozesse, Rollen und Berichtsanforderungen im Projektportfoliomanagement an.'
       - q: "Eignet sich SeaTable als Alternative zu Asana als klassisches PPM Tool?"
-        a: 'Ja, SeaTable ist eine sehr gute, kostengünstige [Alternative zu Asana]({{< relref "pages/asana-alternative" >}}) und anderen PPM Tool Lösungen. Im Unterschied zu starren Boards kombinieren Sie mit dem Projektportfolio Tool, der Projektstrukturplan Vorlage und weiteren Templates eine flexible Datenbanklogik mit Ansichten wie Tree, Kalender, Timeline und Berichtsdashboards.'
+        a: 'Ja, SeaTable ist eine sehr gute, kostengünstige [Alternative zu Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) und anderen PPM Tool Lösungen. Im Unterschied zu starren Boards kombinieren Sie mit dem Projektportfolio Tool, der Projektstrukturplan Vorlage und weiteren Templates eine flexible Datenbanklogik mit Ansichten wie Tree, Kalender, Timeline und Berichtsdashboards.'
       - q: "Eignet sich die Projektportfolio Vorlage als Excel-Alternative?"
-        a: 'Ja, SeaTable ist eine moderne, kollaborative [Excel-Alternative]({{< relref "pages/excel-alternative" >}}), mit der Sie Ihr Projektportfolio deutlich strukturierter abbilden als in klassischen Tabellen. Dank verknüpfter Tabellen, Ansichten wie Tree, Kalender und Timeline sowie Automatisierungen wird aus statischen Listen ein dynamisches Projektportfolio Tool für Ihr Projektportfoliomanagement.'
+        a: 'Ja, SeaTable ist eine moderne, kollaborative [Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}), mit der Sie Ihr Projektportfolio deutlich strukturierter abbilden als in klassischen Tabellen. Dank verknüpfter Tabellen, Ansichten wie Tree, Kalender und Timeline sowie Automatisierungen wird aus statischen Listen ein dynamisches Projektportfolio Tool für Ihr Projektportfoliomanagement.'
 ---

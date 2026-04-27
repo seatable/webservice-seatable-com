@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilice la plantilla del plan de formación en línea con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La plataforma de IA no-code destaca por su flexibilidad y adaptabilidad. Con la plantilla del plan de formación, puede representar digitalmente todo el proceso de incorporación, desde la preparación previa al primer día de trabajo hasta la integración en la rutina diaria, mantener una visión general de las tareas y responsabilidades y crear una base común para [procesos de RR HH]({{< relref "pages/industry-solutions/hr" >}}) estructurados en toda la empresa.'
+      description: 'La plataforma de IA no-code destaca por su flexibilidad y adaptabilidad. Con la plantilla del plan de formación, puede representar digitalmente todo el proceso de incorporación, desde la preparación previa al primer día de trabajo hasta la integración en la rutina diaria, mantener una visión general de las tareas y responsabilidades y crear una base común para [procesos de RR HH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) estructurados en toda la empresa.'
       items:
       - text: 'Siempre actualizado: gracias a los comentarios, el historial de cambios y las actualizaciones en tiempo real, su plan de formación estará siempre al día, desde la primera plantilla del plan de formación hasta los ajustes continuos para las diferentes funciones.'
       - text: 'Acceso desde cualquier lugar: con una plantilla de plan de formación en línea, el departamento de RR. HH., los directivos y los nuevos empleados tienen acceso en todo momento al plan de incorporación, las tareas pendientes y la documentación, ya sea en la oficina, desde casa o desde cualquier otro lugar.'
@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: 'Plantilla de plan de formación basada en IA'
       subtitle: 'Automatización inteligente en la incorporación'
-      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/ai-automations" >}}), que llevarán su plantilla de plan de formación a un nuevo nivel. Automatice los pasos recurrentes en la incorporación, reduzca las tareas rutinarias manuales y gane tiempo para comentarios, acompañamiento y conversaciones personales con los nuevos empleados.'
+      description: 'Con SeaTable, puede utilizar potentes [funciones de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que llevarán su plantilla de plan de formación a un nuevo nivel. Automatice los pasos recurrentes en la incorporación, reduzca las tareas rutinarias manuales y gane tiempo para comentarios, acompañamiento y conversaciones personales con los nuevos empleados.'
       items:
       - headline: 'Clasificación con Classify'
         text: 'Classify asigna automáticamente los nuevos puestos o empleados a los paquetes de incorporación adecuados en función del tipo de función, la ubicación o el departamento. En su plantilla de plan de incorporación, cada nuevo caso recibe una lista de verificación de incorporación adecuada, sin que RR. HH. tenga que recopilar manualmente todas las tareas.'
@@ -189,5 +189,5 @@ sections:
       - q: "¿Puedo crear campos y flujos de trabajo propios en la plantilla del plan de formación?"
         a: 'Sí, puede añadir columnas, tablas, vistas y automatizaciones adicionales en cualquier momento. De este modo, puede adaptar cada plantilla de plan de formación de manera flexible a su concepto de formación, sus procesos de RR. HH. y sus requisitos de generación de informes.'
       - q: "¿SeaTable es una alternativa adecuada a las herramientas clásicas de gestión de proyectos, como Asana, para los procesos de incorporación?"
-        a: 'Sí, SeaTable es una [alternativa muy buena y económica a Asana]({{< relref "pages/asana-alternative" >}}) y herramientas similares. A diferencia de los tableros rígidos, con la plantilla del plan de formación, las plantillas del plan de incorporación y otras plantillas de RR. HH., se combina una lógica de base de datos flexible con vistas como calendarios, líneas de tiempo e interfaces de aplicaciones, lo que resulta ideal para la formación moderna y digital de los nuevos empleados.'
+        a: 'Sí, SeaTable es una [alternativa muy buena y económica a Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) y herramientas similares. A diferencia de los tableros rígidos, con la plantilla del plan de formación, las plantillas del plan de incorporación y otras plantillas de RR. HH., se combina una lógica de base de datos flexible con vistas como calendarios, líneas de tiempo e interfaces de aplicaciones, lo que resulta ideal para la formación moderna y digital de los nuevos empleados.'
 ---

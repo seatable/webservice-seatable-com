@@ -549,5 +549,9 @@
         <!-- toc highlight -->
         {{ $toc := resources.Get "js/toc-highlight.js" | fingerprint }}
         <script src="{{ $toc.RelPermalink }}" integrity="{{ $toc.Data.Integrity }}" defer></script>
+
+        <!-- copy-to-clipboard for code blocks -->
+        {{ $copyCode := resources.Get "js/copy-code.js" | fingerprint }}
+        <script src="{{ $copyCode.RelPermalink }}" integrity="{{ $copyCode.Data.Integrity }}" defer></script>
     </body>
 </html>

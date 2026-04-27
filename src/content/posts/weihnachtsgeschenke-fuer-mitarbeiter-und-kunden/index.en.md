@@ -67,7 +67,7 @@ Striking a balance between Christmas spirit and work is a challenge. After all, 
 
 Individual notebooks with embossed logo from LEUCHTTURM1917.
 
-- **Logo? That's right!** Decorate customer or employee gifts with your branding to stand out from the crowd. Useful everyday helpers in your company design or finished with an embossed logo are particularly suitable for this. With beautifully designed notebooks or calendars, you not only make your customers happy but also give away brand ambassadors. You can easily select suitable notebooks from [selected suppliers](https://www.leuchtturm1917.de/fuer-unternehmen/corporate-gift/) and design them individually.
+- **Logo? That's right!** Decorate customer or employee gifts with your branding to stand out from the crowd. Useful everyday helpers in your company design or finished with an embossed logo are particularly suitable for this. With beautifully designed notebooks or calendars, you not only make your customers happy but also give away brand ambassadors. You can easily select suitable notebooks from [selected suppliers](https://www.leuchtturm1917.de/fuer-unternehmen/kundengeschenke/) and design them individually.
 - **An eye-catcher on the desk**: A gift that is useful in the workplace? Yes, of course! Whether it's a plant, a neck cushion or a pen holder - anything that brightens up everyday working life is a good gift.
 - **Background music**: a gift for everyone! Music at work improves the mood and encourages people to sing along.
 - **Challenge accepted**: A present is only given once all the Christmas challenges have been completed. This keeps the fun factor high.

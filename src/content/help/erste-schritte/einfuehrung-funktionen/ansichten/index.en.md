@@ -16,7 +16,7 @@ seo:
 
 Depending on the task and the collected data, different **display modes** are useful to facilitate your work in SeaTable. SeaTable offers you views for this purpose on the one hand: Quantitative data is best captured in the table view, structured with filters, sorting and grouping, and analyzed with the help of **statistics**.
 
-For the advanced types of data that you can store and organize in SeaTable, there are advanced views in the form of **plugins**. For example, for scheduling, the Timeline and Calendar prove to be particularly helpful. For images, the gallery is useful, and for geographic data, the map. A Kanban board makes sense especially for groupings of single selections.
+For the advanced types of data that you can store and organize in SeaTable, there are further **views and plugins**. For example, for scheduling, the Timeline and Calendar prove to be particularly helpful. For images, the gallery is useful, and for geographic data, the map. A Kanban board makes sense especially for groupings of single selections.
 
 In this post, learn which views and plugins are available, how you can use them, and for which use cases they are particularly suitable.
 
@@ -38,14 +38,16 @@ Extensive information about the statistical evaluation options can be found in t
 
 ## Advanced views
 
-With the help of **plugins**, the table view can be supplemented with additional display options. These extend SeaTable's possible fields of application beyond the purely quantitative analysis of numerical data - enabling SeaTable to be used for use cases that a classic spreadsheet cannot cover.
+The table view can be supplemented with additional views: With the [Calendar view]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) and the [Timeline view]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) you keep track of your appointments and deadlines and successfully organize projects. With the [Gallery view]({{< relref "help/base-editor/ansichten/die-galerie-ansicht" >}}) you manage records with images in your base and with the [Kanban view]({{< relref "help/base-editor/ansichten/die-kanban-ansicht" >}}) you visualize your tasks and project phases. Last but not least, the [Tree view]({{< relref "help/base-editor/ansichten/die-baum-ansicht" >}}) allows you to display hierarchies between linked records.
 
-Plugins allow you to view your data from different angles. In doing so, the data set always remains exactly the same, only the representation changes.
+[Find an overview of the views here]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+
+## Plugins
+
+With the help of **plugins** you can supplement your base with additional display options and functions. These extend SeaTable's possible fields of application beyond pure views. Plugins allow you to view your data from different angles.
 
 You activate the plugins via the Plugin Manager, which you open via the {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** button in the top right corner of the base header. You can learn how to add plugins to your base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}). Plugins are always activated only for the opened base. You may have to repeat the activation of plugins in other bases.
 
-![Overview of all plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+Display addresses and position data on a map using the [Map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) or map complex organizational structures with the [Org Chart plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}). The [Page Design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) as well as the Report Design plugin help you quickly turn your records into laid out documents. With the [AI Chat plugin]({{< relref "help/ai/ai-chat/introduction" >}}) you can even connect AI models to your base to analyze or process large amounts of data. Further plugins offer whiteboards, SQL queries, deduplication and the visualization of table relationships.
 
-With the [calendar plug]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) in you manage images quickly and easily in your base.
-
-Display addresses and position data on a map using the [Map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) and visualize your tasks and project phases with the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) helps you quickly turn your records into laid out documents.
+[Here you can find an overview of all plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})

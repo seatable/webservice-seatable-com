@@ -61,7 +61,7 @@ Dans notre exemple d'application, les invités féminins doivent être copiés d
 
 {{< warning  headline="Remarque" >}}
 
-Cette action de bouton n'est pas supportée sur les [pages de tableau dans les apps universelles]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Si l'on appuie sur le bouton, un message d'erreur correspondant apparaît.
+Cette action de bouton n'est pas supportée sur les [pages de tableau dans les apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Si l'on appuie sur le bouton, un message d'erreur correspondant apparaît.
 
 {{< /warning >}}
 

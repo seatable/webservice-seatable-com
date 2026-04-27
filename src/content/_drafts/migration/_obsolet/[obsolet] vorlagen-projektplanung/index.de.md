@@ -19,7 +19,7 @@ Ein Projektplan beinhaltet sämtliche Übersichten und Dokumente, die Sie für I
 
 Der Projektplan ist ein zentraler Ort, an dem Sie jeden Schritt des Projekts verfolgen können. Er ermöglicht eine einfachere Kommunikation zwischen Beteiligten und legt die zeitliche Planung, den Umfang und die [Kosten des Projekts](https://seatable.io/budgetplanung-vorlage/) dar.
 
-Die Darstellung kann in Listen erfolgen. Zusätzlich kommen häufig die Gantt-Diagramm-Darstellung oder ein Kanban-Board zum Einsatz. Ein Gantt-Diagramm ist dabei eine Methode aus dem [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), um Aufgaben und Events in horizontalen Balken mit Start- und Enddatum abzubilden. Bei dem Kanban-Board geht es wiederum darum, Aufgaben als To-Do-Karten in interaktiven Listen abzuarbeiten. Zu beiden sehen Sie folgend Vorlagen-Beispiele für einen Projektplan.
+Die Darstellung kann in Listen erfolgen. Zusätzlich kommen häufig die Gantt-Diagramm-Darstellung oder ein Kanban-Board zum Einsatz. Ein Gantt-Diagramm ist dabei eine Methode aus dem [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), um Aufgaben und Events in horizontalen Balken mit Start- und Enddatum abzubilden. Bei dem Kanban-Board geht es wiederum darum, Aufgaben als To-Do-Karten in interaktiven Listen abzuarbeiten. Zu beiden sehen Sie folgend Vorlagen-Beispiele für einen Projektplan.
 
 ![Mitarbeiterin beschäftig sich mit einer Vorlage für die Projektplanung.](https://seatable.io/wp-content/uploads/2022/05/Vorlagen-Projektplanung_AdobeStock_137171761_bearbeitet-711x474.jpg)
 
@@ -66,7 +66,7 @@ Für die Erstellung Ihres Projektplans [registrieren Sie sich kostenfrei auf Sea
 
 Folgend sehen Sie fünf Projektplan-Beispiele aus der Vorlagen-Bibliothek.
 
-**Projektplan-Vorlage für das [Marketing]({{< relref "pages/industry-solutions/marketing" >}})**  
+**Projektplan-Vorlage für das [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})**  
 Mithilfe dieser Vorlage haben Sie die Möglichkeit, Ihre [Maßnahmen für ein Projekt im Voraus zu planen](https://seatable.io/vorlage/hntk-vocrksmyj-9746vka/). Sie tragen hier verantwortliche Abteilungen und Personen ein, eine Priorität, das Fälligkeitsdatum, To-Dos und mehr.
 
 In der Beispiel-Vorlage geht es um die [Planung der Marketing- und Kommunikationsaktivitäten](https://seatable.io/marketingplan-vorlage/) eines fiktiven, großen Unternehmens. Die Projektplanung findet ein Jahr im Voraus statt.

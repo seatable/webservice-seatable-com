@@ -18,7 +18,7 @@ With the AI Chat Plugin, you can chat directly with your data in SeaTable. This 
 - An **API key** from one of the supported AI providers:
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
-  - [Mistral](https://console.mistral.ai/) (Mistral)
+  - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Step 1: Install the plugin in your base
 

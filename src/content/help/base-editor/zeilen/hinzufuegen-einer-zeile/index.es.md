@@ -13,7 +13,7 @@ seo:
     description: 'Descubre cómo añadir filas nuevas en SeaTable: icono, menú contextual, atajos o plugins. Incluye advertencias sobre permisos.'
 ---
 
-Hay varias formas de añadir una **nueva fila en** SeaTable. Usted aprenderá acerca de las diferentes posibilidades en este artículo.
+Hay varias formas de añadir una **nueva fila** en SeaTable. Usted aprenderá acerca de las diferentes posibilidades en este artículo.
 
 ## Formas de crear una nueva fila
 
@@ -29,10 +29,8 @@ Rápidamente **varias líneas nuevas** también puede utilizar la combinación d
 
 ![Añadir una nueva línea mediante un acceso directo](images/create-new-row-shortcut.gif)
 
-Además, algunos **plugins** de SeaTable ofrecen la opción de añadir nuevas entradas. Entre ellos se encuentran la [galería]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) y el [plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
-
 ## Por qué no se pueden crear nuevas líneas
 
 ¿No puede añadir una nueva fila en una tabla y no aparece el símbolo más? Entonces es probable que no disponga de los **permisos** adecuados en Base o View.
 
-Por ejemplo, puede que se le hayan concedido derechos de sólo lectura en lugar de **derechos de lectura y escritura** al **compartir**. Si no tienes los derechos necesarios, ponte en contacto con el usuario que comparte o con un **administrador** de tu equipo.
+Por ejemplo, puede que se le hayan concedido derechos de sólo lectura en lugar de **derechos de lectura y escritura** al **compartir**. Si no tiene los derechos necesarios, póngase en contacto con el usuario que comparte o con un **administrador** de su equipo.

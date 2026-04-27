@@ -1,5 +1,5 @@
 ---
-title: 'Gestion organisée des magasins avec SeaTable - SeaTable'
+title: 'Gestion organisée des magasins avec SeaTable'
 description: 'Organiser plusieurs points de vente nécessite des processus clairs : SeaTable centralise gestion du personnel, chiffre d’affaires, contrôles magasins et commandes de matériel. Tableaux de bord avancés, formulaires et vues personnalisées simplifient votre gestion au quotidien.'
 date: 2021-10-21
 categories:
@@ -23,7 +23,7 @@ En outre, votre équipe de vente est également confrontée à de nouveaux défi
 
 Il y a beaucoup de choses à prendre en compte dans la gestion des magasins. Notre solution logicielle vous aide à garder une vue d'ensemble sur les collaborateurs et les formations continues. Elle vous montre le chiffre d'affaires dans différents clusters de chiffre d'affaires et offre également, grâce à notre plug-in de statistiques, une base pour différentes analyses de chiffre d'affaires. Pour vos responsables des ventes, SeaTable propose un formulaire web simple qui permet de mieux organiser les contrôles en magasin.
 
-Le plug-in de la ligne de temps affiche également tous les rendez-vous à venir. Enfin, notre modèle de gestion de magasin vous aide également à commander et à suivre tout le matériel de PLV dans toutes les succursales. Dans les lignes qui suivent, nous allons vous expliquer comment le modèle est structuré et comment vous pouvez l'utiliser.
+La vue de la ligne de temps affiche également tous les rendez-vous à venir. Enfin, notre modèle de gestion de magasin vous aide également à commander et à suivre tout le matériel de PLV dans toutes les succursales. Dans les lignes qui suivent, nous allons vous expliquer comment le modèle est structuré et comment vous pouvez l'utiliser.
 
 [Cliquez ici pour accéder directement à notre modèle]({{< relref "templates/sales/store-management" >}})
 
@@ -37,7 +37,7 @@ Une colonne supplémentaire pour les documents vous permet de classer les contra
 
 ## Organiser des formations continues pour vos employés
 
-Les employés étant l'une des ressources les plus importantes des entreprises, il est dans l'intérêt de ces dernières de promouvoir ces ressources et de les rendre ainsi encore plus précieuses. Par conséquent, la formation continue peut être considérée comme un investissement durable dans l'entreprise. Car les nouvelles connaissances acquises par vos employés ne profitent pas seulement à eux, [mais aussi à toute l'entreprise](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Les employés étant l'une des ressources les plus importantes des entreprises, il est dans l'intérêt de ces dernières de promouvoir ces ressources et de les rendre ainsi encore plus précieuses. Par conséquent, la formation continue peut être considérée comme un investissement durable dans l'entreprise. Car les nouvelles connaissances acquises par vos employés ne profitent pas seulement à eux, [mais aussi à toute l'entreprise](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Notre troisième base "Formations" vous donne un aperçu des différents besoins de vos collaborateurs et des possibilités de formation continue qui y sont liées. Vous pouvez inscrire toutes les formations continues disponibles dans la première colonne. Ensuite, vous inscrivez la date à laquelle la formation continue a lieu. Une autre colonne indique les places disponibles pour cette formation.
 

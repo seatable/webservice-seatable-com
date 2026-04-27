@@ -21,9 +21,9 @@ Se não for este o caso, veja a seguir o [registo de actividades]({{< relref "he
 
 Se você ou os membros da sua equipa tiverem apagado acidentalmente certos artigos no SeaTable, pode restaurá-los de várias maneiras.
 
-## Restaurando Tabelas, Colunas e Linhas da Lixeira de Base
+## Restaurar Tabelas, Colunas e Linhas da Lixeira de Base
 
-Pode restaurar mesas inteiras ou colunas e filas individuais em qualquer altura através do caixote da reciclagem numa base.
+Pode restaurar tabelas inteiras ou colunas e filas individuais em qualquer altura através do caixote da reciclagem numa base.
 
 Saiba mais sobre como restaurar tabelas, colunas e filas [aqui]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}).
 

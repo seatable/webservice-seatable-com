@@ -1,15 +1,18 @@
 ---
-title : 'La vue Kanban'
-date : 2025-12-03
-lastmod : '2025-12-03'
-categories :
+title: 'La vue Kanban'
+date: 2025-12-03
+lastmod: '2025-12-03'
+categories:
     - 'grundlagen-von-ansichten'
-author : 'kgr'
-url : '/fr/aide/la-vue-kanban'
-seo :
-    title : 'Créer et utiliser la vue Kanban dans SeaTable'
-    description : "Apprenez à configurer la vue Kanban dans SeaTable et à l'utiliser au mieux pour visualiser les processus."
-weight : 14
+author: 'kgr'
+url: '/fr/aide/la-vue-kanban'
+aliases:
+    - '/fr/aide/tutoriel-plugin-kanban'
+    - '/fr/aide/anleitung-zum-kanban-plugin'
+seo:
+    title: 'Créer et utiliser la vue Kanban dans SeaTable'
+    description: "Apprenez à configurer la vue Kanban dans SeaTable et à l'utiliser au mieux pour visualiser les processus."
+weight: 14
 ---
 
 Une **vue Kanban** est prédestinée à la représentation de processus dynamiques avec différentes phases. Dans ce sens, elle vous permet par exemple de visualiser les **flux de travail** et les **avancées des projets**. Elle est particulièrement utile pour la [planification de projet]({{< relref "templates/projects/project-plan" >}}), le [développement de logiciel]({{< relref "templates/software-development/bug-tracker" >}}) ou la répartition des tâches au sein d'une équipe.

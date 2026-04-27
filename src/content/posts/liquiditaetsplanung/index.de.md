@@ -52,7 +52,7 @@ In der Praxis setzen viele Unternehmen auf eine hybride Liquiditätsplanung, die
 
 ## Wie Sie in 7 Schritten einen Liquiditätsplan erstellen
 
-Ein durchdachter Aufbau Ihrer Liquiditätsplanung ist kein Hexenwerk – mit einem klaren System behalten Sie Ihre Zahlungsfähigkeit jederzeit im Blick und schaffen eine wichtige Grundlage für unternehmerische Entscheidungen. Denn wer genau weiß, wann Geld kommt und geht, kann vorausschauend handeln statt im Krisenmodus zu reagieren. So erstellen Sie Schritt für Schritt einen fundierten Liquiditätsplan für Ihren [Finanzplan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}):
+Ein durchdachter Aufbau Ihrer Liquiditätsplanung ist kein Hexenwerk – mit einem klaren System behalten Sie Ihre Zahlungsfähigkeit jederzeit im Blick und schaffen eine wichtige Grundlage für unternehmerische Entscheidungen. Denn wer genau weiß, wann Geld kommt und geht, kann vorausschauend handeln statt im Krisenmodus zu reagieren. So erstellen Sie Schritt für Schritt einen fundierten Liquiditätsplan für Ihren [Finanzplan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}):
 
 1. **Planungszeitraum festlegen:** Bestimmen Sie zunächst, für welchen Zeitraum Sie Ihre Liquidität planen möchten. Für den Einstieg empfiehlt sich eine monatliche Planung. Bei größeren Unternehmen kann auch eine wöchentliche oder quartalsweise Planung sinnvoll sein – je nachdem, wie dynamisch Ihre Zahlungsströme sind.
 
@@ -145,7 +145,7 @@ Außerdem lassen sich mit einer klaren Planung unnötige Ausgaben identifizieren
 
 ## Die richtige Software für Ihren Liquiditätsplan
 
-Ein praktisches Tool zur Liquiditätsplanung ist die [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) SeaTable. Anders als klassische Tabellenkalkulationen verbindet SeaTable die Flexibilität relationaler Datenbanken mit vertrauten Spreadsheet-Funktionen. So können Sie Ihre Liquiditätsplanung übersichtlich und dynamisch gestalten. Sie erfassen Ein- und Auszahlungen in verknüpften Tabellen, erstellen mit wenigen Klicks individuelle Ansichten (z. B. ein Kanban-Board für offene Posten oder eine Zeitachse für Zahlungsflüsse) und werten Ihre Kennzahlen mit Hilfe von Statistiken aus.
+Ein praktisches Tool zur Liquiditätsplanung ist die [Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) SeaTable. Anders als klassische Tabellenkalkulationen verbindet SeaTable die Flexibilität relationaler Datenbanken mit vertrauten Spreadsheet-Funktionen. So können Sie Ihre Liquiditätsplanung übersichtlich und dynamisch gestalten. Sie erfassen Ein- und Auszahlungen in verknüpften Tabellen, erstellen mit wenigen Klicks individuelle Ansichten (z. B. ein Kanban-Board für offene Posten oder eine Zeitachse für Zahlungsflüsse) und werten Ihre Kennzahlen mit Hilfe von Statistiken aus.
 
 Dank integrierter Formeln berechnet SeaTable automatisch Ihre Liquiditätsgrade. Farbregeln helfen Ihnen, Ausreißer oder kritische Zeiträume sofort zu erkennen. Um zum Beispiel Zahlungsziele nicht aus den Augen zu verlieren, können Sie automatische Erinnerungen einrichten.
 

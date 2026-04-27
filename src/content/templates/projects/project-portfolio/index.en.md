@@ -74,7 +74,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Project portfolio tool – use the template online'
       subtitle: 'Your advantages at a glance'
-      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With the template for the project portfolio tool, you can map your entire project portfolio from idea to completion, keep track of resources, and create a common basis for decision-making for project portfolio management throughout the company. Use the central, data-based PPM tool as a flexibly adaptable [project management tool]({{< relref "pages/industry-solutions/project-management" >}}) for planning, collaboration, visualization, and automation of your projects.'
+      description: 'The AI no-code solution SeaTable impresses with its flexibility and adaptability. With the template for the project portfolio tool, you can map your entire project portfolio from idea to completion, keep track of resources, and create a common basis for decision-making for project portfolio management throughout the company. Use the central, data-based PPM tool as a flexibly adaptable [project management tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) for planning, collaboration, visualization, and automation of your projects.'
       items:
       - text: 'Always up to date: Thanks to comments, change history, and real-time updates, your project portfolio in the Project Portfolio Tool is always up to date—from the initial project idea to the completed project.'
       - text: 'Access from anywhere: With an online project portfolio tool, you can access your project portfolio at any time—in the office, at home, or in a management meeting.'
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-supported project portfolio tool'
       subtitle: 'Smart automation in the portfolio'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that take your project portfolio tool to a new level. Automate recurring tasks in project portfolio management, reduce manual routine activities, and free up time for analysis, coordination, and informed decisions about priorities and resources.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that take your project portfolio tool to a new level. Automate recurring tasks in project portfolio management, reduce manual routine activities, and free up time for analysis, coordination, and informed decisions about priorities and resources.'
       items:
       - headline: 'Classification with Classify'
         text: 'Classify automatically assigns new project ideas to appropriate categories, areas, or programs based on their title and description. In your project portfolio template, new entries are placed directly in the correct structure, allowing you to see at a glance which areas are accumulating projects and effort.'
@@ -187,7 +187,7 @@ sections:
       - q: "Can I create my own fields and workflows in the Project Portfolio Tool?"
         a: 'Yes, you can add additional columns, tables, views, and automations at any time. This allows you to flexibly adapt each project portfolio template to your internal processes, roles, and reporting requirements in project portfolio management.'
       - q: "Is SeaTable a good alternative to Asana as a classic PPM tool?"
-        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/asana-alternative" >}}) and other PPM tool solutions. Unlike rigid boards, the project portfolio tool, project structure plan template, and other templates combine flexible database logic with views such as tree, calendar, timeline, and report dashboards.'
+        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) and other PPM tool solutions. Unlike rigid boards, the project portfolio tool, project structure plan template, and other templates combine flexible database logic with views such as tree, calendar, timeline, and report dashboards.'
       - q: "Is the project portfolio template suitable as an alternative to Excel?"
-        a: 'Yes, SeaTable is a modern, collaborative [Excel alternative]({{< relref "pages/excel-alternative" >}}), which allows you to map your project portfolio in a much more structured way than in traditional tables. Thanks to linked tables, views such as tree, calendar, and timeline, as well as automations, static lists are transformed into a dynamic project portfolio tool for your project portfolio management.'
+        a: 'Yes, SeaTable is a modern, collaborative [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}), which allows you to map your project portfolio in a much more structured way than in traditional tables. Thanks to linked tables, views such as tree, calendar, and timeline, as well as automations, static lists are transformed into a dynamic project portfolio tool for your project portfolio management.'
 ---

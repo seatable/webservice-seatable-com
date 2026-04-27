@@ -1,5 +1,5 @@
 ---
-title: 'Como é que os utilizadores inactivos são tidos em conta na facturação? - Mesa do mar'
+title: 'Como é que os utilizadores inactivos são tidos em conta na facturação?'
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:

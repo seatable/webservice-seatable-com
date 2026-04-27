@@ -15,7 +15,7 @@ seo:
     description: 'Weglot es un plugin de WordPress que traduce automáticamente tu sitio web a otros idiomas, ayudándote a alcanzar nuevas audiencias'
 ---
 
-Weglot es un plugin de WordPress para traducir automáticamente su propio sitio web. La idea es sencilla y se explica rápidamente. Usted escribe todos los textos de su propio sitio web en su lengua materna, como de costumbre, y deja que Weglot traduzca todo el contenido a uno o varios idiomas más. El visitante del sitio web es redirigido automáticamente a la versión del idioma que le convenga y [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) se encarga de todo el trabajo necesario para el SEO internacional. 
+Weglot es un plugin de WordPress para traducir automáticamente su propio sitio web. La idea es sencilla y se explica rápidamente. Usted escribe todos los textos de su propio sitio web en su lengua materna, como de costumbre, y deja que Weglot traduzca todo el contenido a uno o varios idiomas más. El visitante del sitio web es redirigido automáticamente a la versión del idioma que le convenga y [Weglot](https://www.weglot.com/) se encarga de todo el trabajo necesario para el SEO internacional. 
 
 ![Traducción automática del sitio web con Weglot](automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
 
@@ -23,7 +23,7 @@ Traducción automática del sitio web con Weglot
 
 Con Weglot, el deseo de un sitio web multilingüe se hace realidad. Puede conseguir un mayor precio para el cliente con un esfuerzo mínimo y los textos adicionales hacen que el sitio web sea más relevante a los ojos de Google y el ranking mejore automáticamente. 
 
-Este artículo es mi informe de experiencia personal después de 1,5 años de uso activo de [Weglot](https://weglot.com/?fp_ref=loved_by_seatable). Si aún no conoces Weglot, después de este texto te harás una idea de por qué en SeaTable decidimos usar Weglot. Por supuesto, también hubo problemas, todos ellos solucionables, pero que conviene mencionar aquí.
+Este artículo es mi informe de experiencia personal después de 1,5 años de uso activo de [Weglot](https://www.weglot.com/). Si aún no conoces Weglot, después de este texto te harás una idea de por qué en SeaTable decidimos usar Weglot. Por supuesto, también hubo problemas, todos ellos solucionables, pero que conviene mencionar aquí.
 
 En Medium he publicado otro artículo en el que se describen nuestros guiones individuales, las soluciones a los problemas y las personalizaciones. Este artículo está dirigido a aquellos que ya se han decidido a utilizar Weglot y que ahora quieren saber más sobre la [tecnología que hay detrás de Weglot](https://christophdb.medium.com/common-pitfalls-and-challenges-with-the-translation-plugin-weglot-on-the-way-to-more-traffic-and-1f51e8c607f4). 
 
@@ -70,7 +70,7 @@ Además de la traducción automática, Weglot muestra ahora un menú desplegable
 
 ### Más de 100 idiomas posibles para su negocio internacional
 
-Weglot permite actualmente la traducción a [más de 100 idiomas diferentes](https://weglot.com/documentation/available-languages). Probablemente no necesitará tantas, porque vale la pena empezar concentrándose en las lenguas más habladas en el mundo. Una buena visión general puede encontrarse en la [lista de las lenguas más habladas en Wikipedia](https://de.wikipedia.org/wiki/Liste_der_meistgesprochenen_Sprachen).
+Weglot permite actualmente la traducción a [más de 100 idiomas diferentes](https://www.weglot.com/documentation/available-languages). Probablemente no necesitará tantas, porque vale la pena empezar concentrándose en las lenguas más habladas en el mundo. Una buena visión general puede encontrarse en la [lista de las lenguas más habladas en Wikipedia](https://de.wikipedia.org/wiki/Liste_der_meistgesprochenen_Sprachen).
 
 Pero Weglot no sólo traduce su sitio web, sino que también se asegura de que Google y otros motores de búsqueda encuentren este nuevo contenido y de que todo el contenido se indexe correctamente. Para ello, los respectivos _hreflang_\-etiquetas en el texto fuente, para que los motores de búsqueda puedan encontrar fácilmente los textos correspondientes.
 
@@ -124,7 +124,7 @@ En el curso de nuestra evaluación de Weglot, también nos encontramos con el pl
 
 ## Precio de Weglot
 
-A estas alturas debería haber comprendido la importancia de Weglot para el éxito de nuestro sitio web. Con Weglot, podemos crear un sitio web multilingüe con un esfuerzo mínimo y así distribuir nuestro software en casi todo el mundo. Esto también justifica el [precio de Weglot](https://weglot.com/pricing?fp_ref=loved_by_seatable), que es inusualmente alto para un plugin de WordPress. Pero al mismo tiempo quiero subrayar que, desde nuestro punto de vista, Weglot vale cada euro. 
+A estas alturas debería haber comprendido la importancia de Weglot para el éxito de nuestro sitio web. Con Weglot, podemos crear un sitio web multilingüe con un esfuerzo mínimo y así distribuir nuestro software en casi todo el mundo. Esto también justifica el [precio de Weglot](https://www.weglot.com/pricing), que es inusualmente alto para un plugin de WordPress. Pero al mismo tiempo quiero subrayar que, desde nuestro punto de vista, Weglot vale cada euro. 
 
 ![Los precios del plugin de WordPress Weglot](weglot-preise.png)
 
@@ -181,5 +181,5 @@ Para mí, los argumentos más importantes para utilizar Weglot son los siguiente
 
 ## Mi conclusión después de usar Weglot durante más de un año
 
-[Weglot](https://weglot.com/?fp_ref=loved_by_seatable) no sólo promete mucho, sino que también cumple con creces. Con Weglot, puede convertir cualquier sitio de WordPress en un sitio web multilingüe en muy poco tiempo. Aunque tuvimos algunos obstáculos técnicos, pudimos superarlos todos y aplicar exactamente lo que queríamos.  
+[Weglot](https://www.weglot.com/) no sólo promete mucho, sino que también cumple con creces. Con Weglot, puede convertir cualquier sitio de WordPress en un sitio web multilingüe en muy poco tiempo. Aunque tuvimos algunos obstáculos técnicos, pudimos superarlos todos y aplicar exactamente lo que queríamos.  
 El precio de Weglot parece alto a primera vista cuando se compara con otros plugins populares de WordPress. Al mismo tiempo, el precio de la traducción de su propio sitio web está más que justificado. Volvería a elegir Weglot en cualquier momento y espero que este testimonio le haya ayudado. Si quieres saber más sobre nuestras personalizaciones, te recomiendo mi [artículo de Medium](https://christophdb.medium.com/common-pitfalls-and-challenges-with-the-translation-plugin-weglot-on-the-way-to-more-traffic-and-1f51e8c607f4).

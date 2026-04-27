@@ -19,7 +19,7 @@ weight: 1
 
 На первый взгляд, база - это просто **контейнер** для одной или нескольких **таблиц**. С этой точки зрения кажется очевидным сравнение базы с рабочей книгой в Excel. Однако такое сравнение не дает должного представления о базе. Базы в SeaTable намного превосходят рабочие книги, как они известны из обычных электронных таблиц, потому что они предлагают:
 
-- Функции реляционных баз данных и [связывание таблиц]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- Функции [реляционных баз данных]({{< relref "posts/relationale-datenbank" >}}) и [связывание таблиц]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Более 20 типов столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), охватывающих все распространенные форматы данных
 - Различные [варианты совместного использования для]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) легкого обмена данными
 - [Совместная работа]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) с другими пользователями и передача всех изменений в режиме реального времени

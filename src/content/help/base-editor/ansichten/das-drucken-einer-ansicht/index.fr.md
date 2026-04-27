@@ -10,11 +10,20 @@ aliases:
     - '/fr/aide/das-drucken-einer-ansicht'
 seo:
     title: 'Imprimer une vue SeaTable – réglages et tutoriel rapide'
-    description: 'Imprimez vos vues SeaTable directement depuis la table. Sélectionnez format, disposition et options avancées pour personnaliser et optimiser l’impression.'
+    description: "Imprimez vos vues SeaTable directement depuis la table. Sélectionnez format, disposition et options avancées pour personnaliser et optimiser l'impression."
 weight: 10
 ---
 
 Différentes **vues** peuvent faciliter le travail avec des tableaux qui contiennent beaucoup d'informations. Ces vues peuvent en outre être **imprimées**.
+
+## Disponibilité de la fonction d'impression
+
+La fonction d'impression est disponible dans les types de vues suivants :
+
+- [Vue de tableau]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Vue calendrier]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}})
+- [Vue chronologique]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}})
+- [Vue de big data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}})
 
 ## Imprimer une vue
 

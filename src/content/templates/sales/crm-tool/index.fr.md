@@ -135,7 +135,7 @@ sections:
       weight: 16
       title: "Solution CRM optimisée par l'intelligence artificielle de SeaTable"
       subtitle: "Automatisation intelligente avec IA intégrée"
-      description: 'Avec le modèle CRM de SeaTable, vous bénéficiez de [fonctions IA]({{< relref "pages/ai-automations" >}}) intégrées et puissantes qui vous aident à tirer le meilleur parti de vos données clients. Automatisez vos tâches et gagnez du temps.'
+      description: 'Avec le modèle CRM de SeaTable, vous bénéficiez de [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) intégrées et puissantes qui vous aident à tirer le meilleur parti de vos données clients. Automatisez vos tâches et gagnez du temps.'
      
       items:
       - headline: Classification avec Classify
@@ -186,8 +186,10 @@ sections:
         a: "Oui, SeaTable vous permet d'attribuer des attributs à des contacts individuels dans votre outil CRM en fonction de divers critères. Grâce à nos automatisations intégrées basées sur l'intelligence artificielle, il est facile de prendre en compte divers facteurs et de les traduire en un système de notation unifié." 
       - q: "Les responsables commerciaux devraient uniquement pouvoir consulter leur propre pipeline de transactions. Est-ce possible ?" 
         a: "Oui, cela est tout à fait possible. SeaTable vous permet de définir des autorisations d'accès et de consultation granulaires au niveau de l'application, de la base et de la vue. Pour garantir que vos responsables commerciaux ne puissent consulter que leur propre pipeline de ventes dans votre programme CRM, veuillez utiliser la page Pipeline de ventes dans l'application et définir les autorisations en conséquence." 
+      - q: "Puis-je synchroniser mon agenda Google avec SeaTable ?"
+        a: 'Oui, SeaTable propose une [intégration native avec Google Agenda]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}). Pour cela, il vous suffit de disposer de votre identifiant Google Agenda et de votre clé de sécurité.'  
       - q: "Nous connaissons actuellement une croissance rapide. SeaTable est-il évolutif ?" 
-        a: Tout à fait, vous pouvez adapter SeaTable de manière flexible aux besoins changeants de votre [gestion de la clientèle]({{< relref "pages/industry-solutions/kundenmanagement" >}})et ajouter de nouveaux utilisateurs ou augmenter la limite d'espace de stockage. Nous proposons trois niveaux d'abonnement" dans la [version cloud]({{< relref "pages/product/seatable-cloud" >}}), entre lesquels vous pouvez facilement passer. Si vous avez besoin de plus de 100 licences utilisateur, veuillez nous contacter et nous vous fournirons un devis personnalisé.
+        a: Tout à fait, vous pouvez adapter SeaTable de manière flexible aux besoins changeants de votre [gestion de la clientèle]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}})et ajouter de nouveaux utilisateurs ou augmenter la limite d'espace de stockage. Nous proposons trois niveaux d'abonnement" dans la [version cloud]({{< relref "pages/product/seatable-cloud" >}}), entre lesquels vous pouvez facilement passer. Si vous avez besoin de plus de 100 licences utilisateur, veuillez nous contacter et nous vous fournirons un devis personnalisé.
       - q: "SeaTable propose-t-il une assistance gratuite pour son programme CRM gratuit ?" 
         a: "Oui, notre équipe d'assistance est à votre disposition pour répondre à toutes vos questions concernant SeaTable ou votre système de gestion CRM. Le moyen le plus efficace pour cela est de visiter notre forum communautaire ou de nous contacter par e-mail." 
 --- 

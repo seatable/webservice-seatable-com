@@ -61,5 +61,3 @@ Eine aktivierte Sortierung wird automatisch auf neu hinzugefügte Zeilen angewen
 Indem Sie mehrere Sortierungen anwenden, können Sie Datensätze ordnen, die bei einer vorhergehenden Sortierung **den gleichen Eintrag** aufweisen. Zum Beispiel können Sie eine Mitarbeiterliste über eine Einfachauswahlspalte zunächst nach den Optionen "weiblich", "männlich", "divers" ordnen und dann über eine Textspalte die Namen der Frauen, Männer und Sonstigen jeweils alphabetisch sortieren.
 
 ![Mehrere Sortierungen](images/Mehrere-Sortierungen.png)
-
-{{< warning  headline="Hinweis"  text="Wenn Sie **Plugins** wie die Galerie oder das Kanban-Board nutzen, wirken sich die Sortierungen auch dort auf die Reihenfolge der Einträge aus." />}}

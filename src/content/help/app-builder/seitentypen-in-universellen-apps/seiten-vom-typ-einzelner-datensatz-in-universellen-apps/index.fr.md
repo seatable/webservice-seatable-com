@@ -1,21 +1,23 @@
 ---
-title: 'Pages de type Enregistrement unique dans les applications universelles'
+title: 'Pages de type Enregistrement unique dans les applications de SeaTable'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/page-fiche-individuelle-apps-universelles'
+url: '/fr/aide/page-enregistrement-unique-applications-seatable'
 aliases:
     - '/fr/aide/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
+    - '/fr/aide/page-fiche-individuelle-apps-universelles'
 seo:
-    title: 'Page de fiche individuelle dans Apps Universelles – guide'
-    description: 'Présentez chaque ligne dans SeaTable : pages personnalisées, éléments statiques, filtres, droits et modèles pour tout contexte d’application.'
+    title: "Page d'enregistrement unique dans SeaTable Apps – guide"
+    description: "Présentez chaque ligne dans SeaTable : pages personnalisées, éléments statiques, filtres, droits et modèles pour tout contexte d'application."
+weight: 11
 ---
 
-Avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement les données stockées dans une ligne. Ce type de page est donc similaire au [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.
+Avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement unique**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement **les données stockées dans une ligne**.
 
-Sur cette page, les utilisateurs de l'application peuvent - avec l'autorisation correspondante - voir, rechercher et parcourir les différents enregistrements, voire les modifier. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
+Sur cette page, les utilisateurs de l'application peuvent – avec l'autorisation correspondante – voir, rechercher et parcourir les différents enregistrements, voire les modifier. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
 
 ![Page d'enregistrement unique](images/Single-Record-Page-min.gif)
 
@@ -29,7 +31,7 @@ Dans les **paramètres de la page**, vous pouvez sélectionner le **tableau** da
 
 ### Éléments statiques
 
-Comme pour les [pages individuelles]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), vous pouvez ajouter aux pages de type enregistrement unique des **éléments statiques** qui servent à l'organisation de la page et qui restent identiques pour tous les enregistrements. Ces éléments sont
+Comme pour les [pages de tableau de bord]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), vous pouvez ajouter aux pages de type enregistrement unique des **éléments statiques** qui servent à l'organisation de la page et qui restent identiques pour tous les enregistrements. Ces éléments sont
 
 - Texte
 - Texte formaté
@@ -44,13 +46,13 @@ Pour des informations plus précises sur les **possibilités de réglage** de ce
 
 ### Champs du tableau
 
-Toutes les colonnes du tableau à partir desquelles vous pouvez intégrer des données dans la page sont listées comme champs de tableau. Le contenu des champs dépend des différents enregistrements du tableau et change en fonction de l'entrée.
+Toutes les colonnes du tableau à partir desquelles vous pouvez intégrer des données dans la page sont listées comme champs de tableau. Le contenu des champs dépend des différents enregistrements du tableau et change en fonction de l'enregistrement.
 
 Tout comme les éléments statiques, chaque champ de tableau dispose de ses propres **paramètres d'élément**. Choisissez d'abord si vous souhaitez **afficher** le **nom du champ** qui sert d'en-tête à l'élément. Si c'est le cas, vous pouvez régler précisément l'**alignement**, la **taille**, **l'épaisseur** et **la couleur de la police**.
 
 Vous pouvez également définir une **couleur d'arrière-plan** et une **bordure** pour chaque champ de tableau.
 
-![Paramètres d'élément d'un champ de tableau sur les pages d'enregistrement unique dans l'application universelle](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
+![Paramètres d'élément d'un champ de tableau sur les pages d'enregistrement unique dans l'application](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
 
 Pour tous les types de colonnes basées sur le texte et les chiffres, vous avez également la possibilité de régler la **taille, l'épaisseur, la couleur et l'orientation de la police des valeurs affichées**.
 
@@ -73,7 +75,7 @@ Si vous souhaitez copier, déplacer ou supprimer un élément existant sur votre
 
 En outre, vous pouvez définir des filtres et des tris prédéfinis afin de limiter et d'ordonner les enregistrements affichables pour les utilisateurs. Pour filtrer ou trier, cliquez sur **Ajouter un filtre** ou **Ajouter un tri**, sélectionnez la **colonne** et la **condition** souhaitées et confirmez en cliquant sur **Envoyer**.
 
-![Ajouter des filtres sur les pages d'enregistrement unique dans les applications universelles](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
+![Ajouter des filtres sur les pages d'enregistrement unique dans les applications](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
 
 Les utilisateurs ne peuvent voir que les informations relatives à un seul enregistrement que vous avez choisi d'afficher via les champs de tableau intégrés.
 
@@ -86,35 +88,49 @@ Vous pouvez effectuer les réglages graphiques suivants pour l'ensemble de la pa
 - Choisissez le blanc, le gris ou une couleur personnalisée comme **couleur de fond de** la page.
 - Réglez les **marges** (haut, bas, gauche, droite).
 - Décidez si vous souhaitez **masquer** la **barre de titre**.
-- Décidez si vous souhaitez **masquer** la **barre d'outils** qui permet aux utilisateurs de passer d'une entrée à l'autre.
+- Décidez si vous souhaitez **masquer** la **barre d'outils** qui permet aux utilisateurs de passer d'un enregistrement à l'autre.
 
 ![Paramètres de fond de page des pages de type enregistrement unique](images/Seitenhintergrund-Einstellungen-von-Seiten-des-Typs-Einzelner-Datensatz.png)
 
-## Passer d'une entrée à l'autre
+## Passer d'un enregistrement à l'autre
 
-Si vous avez affiché la barre d'outils, les utilisateurs de l'application peuvent passer d'un enregistrement à l'autre avec l'autorisation de page correspondante. Pour ce faire, cliquez sur {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Enregistrement précédent** ou **Enregistrement suivant** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. Vous pouvez également **rechercher** une **entrée** {{< seatable-icon icon="dtable-icon-search" color="grey" >}} **de** manière ciblée.
+Si vous avez affiché la barre d'outils, les utilisateurs de l'application peuvent passer d'un enregistrement à l'autre avec l'autorisation de page correspondante. Pour ce faire, cliquez sur {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Enregistrement précédent** ou **Enregistrement suivant** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. Vous pouvez également **rechercher un enregistrement** {{< seatable-icon icon="dtable-icon-search" color="grey" >}} de manière ciblée.
 
 ![Commutation entre les enregistrements sur les pages d'un seul enregistrement](images/Switch-between-records-on-single-record-pages.gif)
 
-## Modifier l'entrée
+## Modifier l'enregistrement
 
 Avec l'autorisation correspondante, les utilisateurs de l'application peuvent modifier les différents enregistrements sur cette page.
 
 ![Modifier l'enregistrement sur des pages d'enregistrement unique](images/Modify-record-on-single-record-pages.gif)
 
-- Cliquez sur **Modifier l'entrée** dans la barre d'outils.
+- Cliquez sur **Modifier l'enregistrement** dans la barre d'outils.
 - La fenêtre avec les **détails de la ligne** s'ouvre. Effectuez-y les modifications souhaitées sur l'enregistrement.
 - Fermez la fenêtre en cliquant sur le **symbole x** pour enregistrer les modifications.
 
-## Générer un code QR pour des entrées individuelles
+## Générer un code QR pour des enregistrements uniques
 
-Dans la barre d'outils, vous trouverez également un **générateur de code QR**. Le code QR contient le lien vers l'entrée actuellement affichée. Placé sur un objet ou un appareil, vous pouvez scanner le code QR à l'aide d'une tablette ou d'un smartphone et consulter toutes les données dans l'application sans aucune saisie au clavier. Cela facilite encore plus la [gestion de l'inventaire]({{< relref "templates/operations/inventory-list" >}}), par exemple.
+Dans la barre d'outils, vous trouverez également un **générateur de code QR**. Le code QR contient le lien vers l'enregistrement actuellement affichée. Placé sur un objet ou un appareil, vous pouvez scanner le code QR à l'aide d'une tablette ou d'un smartphone et consulter toutes les données dans l'application sans aucune saisie au clavier. Cela facilite encore plus la [gestion de l'inventaire]({{< relref "templates/operations/inventory-list" >}}), par exemple.
 
 ![Plus d'options de conception sur la page d'un seul enregistrement dans SeaTable 5.1](images/SingleRecordPage.png)
 
 ## Exécuter des actions de bouton
 
 Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colonnes de type [bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Que vous souhaitiez créer un document PDF, modifier un enregistrement ou exécuter un script, vous pouvez lancer toutes ces **actions de bouton** en appuyant sur un bouton. Une autorisation d'édition n'est **pas** nécessaire. De cette manière, les administrateurs d'applications peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
+
+## Paramètres de la colonne des liens
+
+Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et quelles opérations sont autorisées.
+
+![Paramètres de colonne de lien sur les pages d'enregistrement unique](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Paramètres des colonnes** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
+- **Ajouter et relier de nouveaux enregistrements**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des champs permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
+- **Relier des enregistrements existants**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres de champ.
+- **Limiter les liens à une ligne maximum**: Si vous activez ce curseur, les utilisateurs ne pourront plus lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne des liens.
+- **Filtres prédéfinis**: si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la création de liens vers des entrées.
+- **Activer la fonction Big Data**: Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20.000 enregistrements, à condition qu'il y ait autant d'entrées dans le tableau lié.
+- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
 
 ## Autorisations des pages
 

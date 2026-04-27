@@ -13,16 +13,15 @@ seo:
     description: 'Descubre las diferencias clave entre las fórmulas de Excel y SeaTable: referencia a celdas o columnas, lógica y consejos de uso.'
 ---
 
-¿Es usted un usuario de Excel familiarizado con la escritura de fórmulas y acaba de empezar a utilizar SeaTable?  
-Entonces este artículo es para usted. Aunque los principios de las funciones de fórmula en SeaTable son similares, hay algunas diferencias importantes que debe aprender al principio y que le compensarán si quiere convertirse en un experto en fórmulas SeaTable.
+¿Es usted un usuario de Excel familiarizado con la escritura de fórmulas y acaba de empezar a utilizar SeaTable? Entonces este artículo es para usted. Aunque los principios de las funciones de fórmula en SeaTable son similares, hay algunas diferencias importantes que debe aprender al principio y que le compensarán si quiere convertirse en un experto en fórmulas SeaTable.
 
 ## Diferencia central
 
-La diferencia más central e importante en la función de fórmula de SeaTable y Excel es el **rango efectivo de** las fórmulas.
+La diferencia más importante en la función de fórmula de SeaTable y Excel es el **rango efectivo de las fórmulas**.
 
-Mientras que en **Excel** puede introducir una fórmula en cualquier celda, que luego hace referencia a cualquier otra celda de la hoja de cálculo, las fórmulas en **SeaTable** hacen referencia a _columnas_ enteras y **no a** celdas concretas.
+Mientras que en **Excel** puede introducir una fórmula en cualquier celda, que luego hace referencia a cualquier otra celda de la hoja de cálculo, las fórmulas en **SeaTable** hacen referencia a **columnas enteras** y no a celdas concretas.
 
-Dado que SeaTable actúa como una base de datos relacional en este contexto, las fórmulas se aplican a toda la _columna de_ una tabla, de modo que la misma fórmula se aplica a cada entrada de esa columna.
+Dado que SeaTable actúa como una [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}) en este contexto, las fórmulas se aplican a toda la columna de una tabla, de modo que la misma fórmula se aplica a cada entrada de esa columna.
 
 ## Referencia de líneas
 
@@ -48,7 +47,7 @@ La fórmula utilizada a continuación es:
 
 ![Referencia de columnas en SeaTable](images/table-excel-vs-seatable-2.png)
 
-La fórmula se refiere a \_columnas ent_eras, como {Tipo de compra}.
+La fórmula se refiere a columnas enteras, como {Tipo de compra}.
 
 ## Valores de otras tablas
 
@@ -69,8 +68,8 @@ A continuación, deberá aplicar esta fórmula a cada celda en la que desee ejec
 
 Para hacer referencia a un registro de otra tabla, primero puede vincularlo utilizando el tipo de columna **"Vincular a otros registros"**. Una vez que un registro de una tabla, por ejemplo "Proyectos", está vinculado a un registro de otra tabla, por ejemplo "Tareas", puede hacer referencia a cada fila de ambas tablas utilizando una **columna de** **búsqueda**, **rollup** o **recuento**.
 
-En el siguiente ejemplo, se utiliza una **columna desplegable** para consultar fácilmente los costes de las tareas individuales asociadas a un proyecto y sumar los gastos para determinar el coste total del proyecto.
+En el siguiente ejemplo, se utiliza una **columna de rollup** para consultar fácilmente los costes de las tareas individuales asociadas a un proyecto y sumar los gastos para determinar el coste total del proyecto.
 
-![Columna Rollup para referenciar el coste de cada tarea asociada a un proyecto y totalizar los gastos para determinar el coste total del proyecto.](images/reference-to-other-bases.gif)
+![Columna de Rollup para referenciar el coste de cada tarea asociada a un proyecto y totalizar los gastos para determinar el coste total del proyecto.](images/reference-to-other-bases.gif)
 
 La función crea un abanico de posibilidades para escribir fórmulas tanto sencillas como complejas para referenciar datos entre tablas.

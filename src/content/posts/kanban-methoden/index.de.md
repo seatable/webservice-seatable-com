@@ -120,9 +120,9 @@ Kanban lebt von der kontinuierlichen Verbesserung. Sammeln Sie Feedback nicht nu
 
 ## Wie können Sie die Kanban Methode anwenden?
 
-Lassen Sie uns einmal konkret verdeutlichen, wie Sie das Kanban Verfahren anwenden. Dem ersten Grundprinzip folgend, wählen Sie einen beliebigen bestehenden Workflow aus. Im Prinzip können Sie Ihr Kanban Board auch auf einem Whiteboard mit Haftnotizen erstellen oder sich etwas in Excel basteln. Transparenter und flexibler ist jedoch ein digitales Board, wie es die meisten [Work Management Systeme]({{< relref "pages/industry-solutions/individual" >}}) zum Teil bereits kostenfrei anbieten. Folgen Sie dabei diesen einfachen Schritten: 
+Lassen Sie uns einmal konkret verdeutlichen, wie Sie das Kanban Verfahren anwenden. Dem ersten Grundprinzip folgend, wählen Sie einen beliebigen bestehenden Workflow aus. Im Prinzip können Sie Ihr Kanban Board auch auf einem Whiteboard mit Haftnotizen erstellen oder sich etwas in Excel basteln. Transparenter und flexibler ist jedoch ein digitales Board, wie es die meisten [Work Management Systeme]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) zum Teil bereits kostenfrei anbieten. Folgen Sie dabei diesen einfachen Schritten: 
 
-1\. Erstellen Sie ein leeres Board: Das Board ist das Fundament mit dem Sie später arbeiten. Überlegen Sie in Ruhe, welche Arbeitsschritte Sie abbilden möchten, statt das Board gleich mit Ihrem gesamten Backlog zu fluten. Wenn Sie eine No-Code Lösung wie SeaTable nutzen, können Sie das Kanban Plugin nutzen.
+1\. Erstellen Sie ein leeres Board: Das Board ist das Fundament mit dem Sie später arbeiten. Überlegen Sie in Ruhe, welche Arbeitsschritte Sie abbilden möchten, statt das Board gleich mit Ihrem gesamten Backlog zu fluten. Wenn Sie eine No-Code Lösung wie SeaTable nutzen, können Sie eine Kanban-Ansicht nutzen.
 
 2\. Erstellen Sie Spalten, um Ihre Prozesse visuell abzubilden: Üblicherweise stehen die einzelnen Spalten für verschiedene Prozessschritte oder Aufgabenstatus, aber im Grunde sind Sie hier völlig frei. Für den Anfang arbeiten Sie am besten mit ***Backlog, In Bearbeitung, Pausiert*** und ***Erledigt.*** Wichtig ist, dass alle, die mit dem Board arbeiten, ein gemeinsames Verständnis über den Aufbau haben.
 

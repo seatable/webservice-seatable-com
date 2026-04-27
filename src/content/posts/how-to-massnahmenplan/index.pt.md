@@ -16,7 +16,7 @@ seo:
     description: 'Aprenda a criar um plano de ações anual com etapas, cronograma detalhado e modelo para empresas e projetos.'
 ---
 
-Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos objectivos e trabalham para eles com todos os seus recursos. O plano de acção é um método comprovado para alcançar estes objectivos - por exemplo na [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}), finanças & controlo e [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
+Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos objectivos e trabalham para eles com todos os seus recursos. O plano de acção é um método comprovado para alcançar estes objectivos - por exemplo na [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), finanças & controlo e [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}).
 
 ## O que é um plano de acção?
 
@@ -38,7 +38,7 @@ Cada tarefa e cada medida precisa de uma responsabilidade clara. O plano de acç
 
 ## Plano de acção como uma ferramenta versátil
 
-Um plano de acção pode ser aplicado em toda a empresa ao formular objectivos empresariais em grande escala. Mas também pode ser utilizado de várias maneiras na [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}), e nos mais diversos contextos. O plano de acção é útil onde quer que haja projectos a gerir: por exemplo, a curto prazo, quando as medidas para objectivos específicos devem ser desenvolvidas num workshop, por exemplo, para a próxima campanha publicitária de um produto. Ou também a longo prazo, se se pretende prosseguir uma estratégia definida, como no [marketing]({{< relref "pages/industry-solutions/marketing" >}}) ou no departamento de comunicação, quando se trata de comunicação estratégica externa.
+Um plano de acção pode ser aplicado em toda a empresa ao formular objectivos empresariais em grande escala. Mas também pode ser utilizado de várias maneiras na [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), e nos mais diversos contextos. O plano de acção é útil onde quer que haja projectos a gerir: por exemplo, a curto prazo, quando as medidas para objectivos específicos devem ser desenvolvidas num workshop, por exemplo, para a próxima campanha publicitária de um produto. Ou também a longo prazo, se se pretende prosseguir uma estratégia definida, como no [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) ou no departamento de comunicação, quando se trata de comunicação estratégica externa.
 
 As empresas precisam de planear a sua aparência externa muito bem, e de preferência com bastante antecedência. Deve ser claro: Quando se realizam os eventos especiais que precisamos de comunicar? Quando são datas importantes e quem está envolvido? Isto acontece normalmente no departamento de marketing ou comunicação, onde as medidas de comunicação e marketing externo são planeadas e implementadas. A importância de um [plano de acção para a empresa](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/aussenauftritt/externe-kommunikation/) e a estratégia de relações públicas não pode ser subestimada.
 

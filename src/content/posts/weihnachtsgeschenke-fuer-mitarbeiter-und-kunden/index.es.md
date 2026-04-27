@@ -67,7 +67,7 @@ Compaginar el espíritu navideño con el trabajo es todo un reto. Al fin y al ca
 
 Cuadernos personalizados con logotipo en relieve de LEUCHTTURM1917.
 
-- **¿Logotipo? Así es.** Decore los regalos para clientes o empleados con su marca para destacar entre la multitud. Los útiles de uso diario con el diseño de su empresa o acabados con un logotipo en relieve son especialmente adecuados para ello. Con cuadernos o calendarios de bonito diseño, no sólo hará felices a sus clientes, sino que también obsequiará a los embajadores de su marca. Puede seleccionar y personalizar fácilmente cuadernos adecuados de [proveedores seleccionados](https://www.leuchtturm1917.de/fuer-unternehmen/corporate-gift/).
+- **¿Logotipo? Así es.** Decore los regalos para clientes o empleados con su marca para destacar entre la multitud. Los útiles de uso diario con el diseño de su empresa o acabados con un logotipo en relieve son especialmente adecuados para ello. Con cuadernos o calendarios de bonito diseño, no sólo hará felices a sus clientes, sino que también obsequiará a los embajadores de su marca. Puede seleccionar y personalizar fácilmente cuadernos adecuados de [proveedores seleccionados](https://www.leuchtturm1917.de/fuer-unternehmen/kundengeschenke/).
 - **Un punto de atracción en el escritorio**: ¿un regalo útil en el lugar de trabajo? Sí, ¡con mucho gusto! Ya sea una planta, un cojín para el cuello o un portabolígrafos: cualquier cosa que alegre la jornada laboral es un buen regalo.
 - **Música de fondo**: ¡un regalo para todos! La música en el trabajo mejora el humor y anima a cantar.
 - **Reto aceptado**: Sólo se entrega un regalo cuando se han completado todos los retos navideños. Así se mantiene el factor diversión.

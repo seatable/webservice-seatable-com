@@ -56,7 +56,7 @@ Si planea realizar cambios estructurales en su propiedad, el derecho de construc
 
 ### Protección de datos
 
-Un ámbito importante de la gestión inmobiliaria que a menudo no resulta obvio a primera vista es la protección de datos. Especialmente en el [sector público]({{< relref "pages/industry-solutions/public-service" >}}) o en unidades administrativas más grandes, debe gestionar los datos de inquilinos y propietarios de conformidad con el GDPR. Esto significa que solo puede recopilar y almacenar de forma segura datos personales con consentimiento. Una protección eficaz contra el acceso no autorizado a estos datos es esencial para evitar tanto las consecuencias legales como la pérdida de confianza.
+Un ámbito importante de la gestión inmobiliaria que a menudo no resulta obvio a primera vista es la protección de datos. Especialmente en el [sector público]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) o en unidades administrativas más grandes, debe gestionar los datos de inquilinos y propietarios de conformidad con el GDPR. Esto significa que solo puede recopilar y almacenar de forma segura datos personales con consentimiento. Una protección eficaz contra el acceso no autorizado a estos datos es esencial para evitar tanto las consecuencias legales como la pérdida de confianza.
 
 ## Cuándo puede externalizar la gestión inmobiliaria a terceros
 

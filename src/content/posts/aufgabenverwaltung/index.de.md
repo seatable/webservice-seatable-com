@@ -52,9 +52,9 @@ Die Scrum-Methode wird bei besonders komplexen Projekten eingesetzt, bei der zu 
 **3\. Kanban**  
 Davon haben Sie sicher schon einmal gehört. Diese Methode arbeitet besonders mit der Visualisierung von Aufgaben und erfreut sich dadurch recht großer Beliebtheit im Aufgabenmanagement. Bei dieser Art der Aufgabenverwaltung werden Aufgaben in Form von Kanban-Karten auf einem visuellen Kanban Board von einer Spalte in die nächste geschoben – meistens von “Open” zu “Doing” zu “Done”.
 
-Sie sehen, dass die Methoden sich in ihrer Herangehensweise unterscheiden und dass die einen möglicherweise besser zu Ihrem Projekt passen, als die anderen. In allen Fällen benötigen Sie aber ein Aufgabenverwaltungs-Tool, dass Sie in allen Aufgabenbereichen dabei unterstützt, Ihr Projekt erfolgreich abzuschließen. Dafür gibt es viele verschiedene Anbieter, die alle ihre Vor- und Nachteile haben. SeaTable hat hier den entscheidenden Vorteil, als flexible Software nicht nur das das ganze Projekt abbilden zu können, sondern auch jegliche andere Prozesse wie etwa [Arbeitszeiterfassung]({{< relref "pages/arbeitszeiterfassung" >}}), CRM oder die Erstellung eines [Redaktionsplans]({{< relref "posts/redaktionsplan-contentplan" >}}).
+Sie sehen, dass die Methoden sich in ihrer Herangehensweise unterscheiden und dass die einen möglicherweise besser zu Ihrem Projekt passen, als die anderen. In allen Fällen benötigen Sie aber ein Aufgabenverwaltungs-Tool, dass Sie in allen Aufgabenbereichen dabei unterstützt, Ihr Projekt erfolgreich abzuschließen. Dafür gibt es viele verschiedene Anbieter, die alle ihre Vor- und Nachteile haben. SeaTable hat hier den entscheidenden Vorteil, als flexible Software nicht nur das das ganze Projekt abbilden zu können, sondern auch jegliche andere Prozesse wie etwa [Arbeitszeiterfassung]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}), CRM oder die Erstellung eines [Redaktionsplans]({{< relref "posts/redaktionsplan-contentplan" >}}).
 
-SeaTable ist als [Projektmananagement-Tool]({{< relref "pages/industry-solutions/project-management" >}}) hochflexibel und kann sich hervorragend **auf all Ihre Bedürfnisse individuell anpassen**. Mit SeaTable binden Sie Ihre Mitarbeiter in das Projekt ein, vereinfachen Arbeits- und Kommunikationsprozesse und **strukturieren Ihr Projekt von Anfang bis Ende** mithilfe von klaren Aufgabenzuweisungen und -beschreibungen.
+SeaTable ist als [Projektmananagement-Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) hochflexibel und kann sich hervorragend **auf all Ihre Bedürfnisse individuell anpassen**. Mit SeaTable binden Sie Ihre Mitarbeiter in das Projekt ein, vereinfachen Arbeits- und Kommunikationsprozesse und **strukturieren Ihr Projekt von Anfang bis Ende** mithilfe von klaren Aufgabenzuweisungen und -beschreibungen.
 
 ## Ganzheitliche Aufgabenverwaltung in wenigen Schritten
 
@@ -74,7 +74,7 @@ SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die 
 
 ## Aufgabenverwaltung mit dem Kanban-Board
 
-Für eine bessere Visualisierung und einfachere Handhabung der Aufgabenverwaltung ist das Kanban-Plugin genau das richtige. Das integrierte Plugin funktioniert wie alle gängigen Kanban-Aufgabenmanagement-Tools und ermöglicht das Hin- und Herschieben von Aufgaben in Form von Karten auf Grundlage verschiedener Einordnungskategorien, also etwa dem Status. Wenn eine Aufgabe erledigt ist, kann die verantwortliche Person die Karte einfach von “doing” zu “done” schieben und die Aufgabe wird als erledigt markiert.
+Für eine bessere Visualisierung und einfachere Handhabung der Aufgabenverwaltung ist die Kanban-Ansicht genau die richtige. Die integrierte Ansicht funktioniert wie alle gängigen Kanban-Aufgabenmanagement-Tools und ermöglicht das Hin- und Herschieben von Aufgaben in Form von Karten auf Grundlage verschiedener Einordnungskategorien, also etwa dem Status. Wenn eine Aufgabe erledigt ist, kann die verantwortliche Person die Karte einfach von “doing” zu “done” schieben und die Aufgabe wird als erledigt markiert.
 
 ![Das Kanban-Board macht Ihre Aufgabenverwaltung einfacher](Kanban-board-711x457.jpg)
 
@@ -90,25 +90,25 @@ Falls die Ansichten in unserem Aufgabenverwaltungs-Template wirklich nur von dem
 
 ## Die Zeit immer im Blick: Mit der Timeline und dem Kalender
 
-Das Timeline-Plugin ist zur zeitlichen Visualisierung Ihrer ganzen Aufgabenverwaltung eine sehr große Hilfe. Damit sehen Sie auf einen Blick, ob Sie mit Ihrer Zeitplanung noch im Rahmen liegen oder ob einige Aufgaben schon im Verzug sind. Durch die Festlegung von Beginndatum und Deadline der Aufgabe kann diese in der Zeitleiste perfekt dargestellt werden. Legen Sie fest, welche weiteren Informationen angezeigt werden sollen, wie etwa die zuständige Person, die exakte Deadline oder die To Do’s.
+Die Zeitleisten-Ansicht ist zur zeitlichen Visualisierung Ihrer ganzen Aufgabenverwaltung eine sehr große Hilfe. Damit sehen Sie auf einen Blick, ob Sie mit Ihrer Zeitplanung noch im Rahmen liegen oder ob einige Aufgaben schon im Verzug sind. Durch die Festlegung von Beginndatum und Deadline der Aufgabe kann diese in der Zeitleiste perfekt dargestellt werden. Legen Sie fest, welche weiteren Informationen angezeigt werden sollen, wie etwa die zuständige Person, die exakte Deadline oder die To Do’s.
 
 Für individuelle Mitarbeiter-Ansichten kreieren Sie im Vorfeld bereits eigene Ansichten für jeden Mitarbeiter. So sieht dann auch jeder seine eigenen Aufgaben in seiner eigenen Zeitleiste und weiß, wie viel Zeit für einzelne Aufgaben noch bleibt. Sie sehen aber etwa auch, wie ausgelastet Ihre Mitarbeiter bei der Aufgabenplanung sind und können umplanen, wenn der Workload ungleich verteilt ist.
 
 ![Planen Sie Ihre Aufgabenliste für ein perfektes Timing](Timeline.gif)
 
-Das Kalender-Plugin bietet ähnlich wie das Timeline-Plugin eine zeitliche Übersicht über das gesamte Projekt und alle Planungsstufen der Aufgabenverwaltung, jedoch ganz im kalendarischen Stil. Die Ansicht nach Tag, Woche, Monat, Jahr oder ganz in der Agenda-Ansicht ermöglicht eine tagesgenaue Betrachtung der Projektschritte und zeigt auf, an welchem Tag wie viel zu tun ist. Auch hier ist die Erstellung von persönlichen Mitarbeiter-Boards ohne Probleme auf Grundlage der erstellen Ansichten möglich.
+Die Kalender-Ansicht bietet ähnlich wie die Zeitleisten-Ansicht eine zeitliche Übersicht über das gesamte Projekt und alle Planungsstufen der Aufgabenverwaltung, jedoch ganz im kalendarischen Stil. Die Ansicht nach Tag, Woche, Monat, Jahr oder ganz in der Agenda-Ansicht ermöglicht eine tagesgenaue Betrachtung der Projektschritte und zeigt auf, an welchem Tag wie viel zu tun ist. Auch hier ist die Erstellung von persönlichen Mitarbeiter-Boards ohne Probleme auf Grundlage der erstellen Ansichten möglich.
 
-![Visualisieren Sie Ihre Aufgabenverwaltung mit dem Kalender Plugin](Cal.gif)
+![Visualisieren Sie Ihre Aufgabenverwaltung mit der Kalender-Ansicht](Cal.gif)
 
 ## Alle Projektfortschritte automatisch erhalten
 
 Damit auch alle Mitarbeiter immer up to date sind, was ihre Aufgaben und die Aufgabenverwaltung angeht, sind automatische Benachrichtigungen sehr wichtig. Ein obligatorischer Check der Base, ob es Neuigkeiten gibt, fällt also weg. In unserem Template haben wir eine Benachrichtigungsregel gesetzt, die bei Änderungen in der “Responsible”-Spalte ausgelöst wird. Wenn eine Aufgabe an einen  Mitarbeiter vergeben wird, so bekommt er direkt und automatisch eine Benachrichtigung.  
 ![Erledigte Aufgaben in der Aufgabenverwaltung](task-done.jpg)
 
-Ist es nötig, Feedback von einem Kollegen oder dem Vorgesetzen einzuholen, so weist man die Aufgabe einfach dieser Person zu – auch hier löst die Regel wieder automatisch aus und die zuständige Person wird informiert. So entfallen E-Mails mit Rückfragen, Feedback oder Arbeitsanweisungen. Die Aufgabe wird dann nach Bearbeitung wieder an die entsprechende Person zurückgewiesen, um den [Workflow]({{< relref "pages/industry-solutions/individual" >}}) fortzusetzen.
+Ist es nötig, Feedback von einem Kollegen oder dem Vorgesetzen einzuholen, so weist man die Aufgabe einfach dieser Person zu – auch hier löst die Regel wieder automatisch aus und die zuständige Person wird informiert. So entfallen E-Mails mit Rückfragen, Feedback oder Arbeitsanweisungen. Die Aufgabe wird dann nach Bearbeitung wieder an die entsprechende Person zurückgewiesen, um den [Workflow]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) fortzusetzen.
 
 Auch Kommentare innerhalb einer Zeile mithilfe der Kommentar-Funktion lösen eine automatische Benachrichtigung aus, sodass erwähnte Personen direkt informiert werden. Wenn Sie möchten, können Sie sich eigene Regeln erstellen, zum Beispiel wenn Aufgaben auf den Status “Done” wechseln, um die Projektfortschritte im Blick zu behalten. Wir haben zudem eine Benachrichtigungsregel in die Aufgabenverwaltung eingestellt, die regelmäßig an bevorstehende Deadlines erinnert – damit alle Aufgaben rechtzeitig fertig werden.
 
 ## Aufgabenverwaltung so einfach wie nie
 
-Mit SeaTable wird Ihre Aufgabenverwaltung zu einem effektiven und zeitsparenden Gamechanger in Ihren Projekten. Um unser Template zu nutzen, müssen Sie sich bei uns [registrieren]({{< relref "pages/registration" >}}). SeaTable geht als [Excel-Alternative]({{< relref "pages/excel-alternative" >}}) und Datenbank weit über die Eintragung von Daten hinaus: Strukturieren, sortieren, delegieren, besprechen, organisieren, planen, implementieren und abschließen – all das und mehr ist mit SeaTable möglich.
+Mit SeaTable wird Ihre Aufgabenverwaltung zu einem effektiven und zeitsparenden Gamechanger in Ihren Projekten. Um unser Template zu nutzen, müssen Sie sich bei uns [registrieren]({{< relref "pages/registration" >}}). SeaTable geht als [Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) und Datenbank weit über die Eintragung von Daten hinaus: Strukturieren, sortieren, delegieren, besprechen, organisieren, planen, implementieren und abschließen – all das und mehr ist mit SeaTable möglich.

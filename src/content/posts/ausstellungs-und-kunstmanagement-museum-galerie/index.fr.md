@@ -17,7 +17,7 @@ tags:
 color: '#c75d67'
 ---
 
-Il existe environ [55 000 musées](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) dans le monde et d'innombrables autres galeries, expositions, théâtres et scènes artistiques. Tout le monde sera d'accord pour dire que l'art, sous ses différentes formes, joue un rôle important dans notre vie. Sans les outils numériques, il serait difficile d'imaginer aujourd'hui la gestion et l'exploitation d'une telle institution artistique. Demander des fonds publics, faire l'inventaire des pièces exposées et (surtout pendant la pandémie de Corona) enregistrer les visiteurs - il y a certainement des tâches plus simples que dans la gestion artistique.
+Il existe environ [55 000 musées](https://www.zukunftsinstitut.de/zukunftsthemen/die-zukunft-des-museums-ist-integrativ) dans le monde et d'innombrables autres galeries, expositions, théâtres et scènes artistiques. Tout le monde sera d'accord pour dire que l'art, sous ses différentes formes, joue un rôle important dans notre vie. Sans les outils numériques, il serait difficile d'imaginer aujourd'hui la gestion et l'exploitation d'une telle institution artistique. Demander des fonds publics, faire l'inventaire des pièces exposées et (surtout pendant la pandémie de Corona) enregistrer les visiteurs - il y a certainement des tâches plus simples que dans la gestion artistique.
 
 Cet article décrit les défis de la gestion artistique, aborde les différences entre la gestion d'une institution artistique publique et celle d'une entreprise, esquisse les problèmes posés par les solutions sectorielles inflexibles dans la gestion artistique et propose des moyens efficaces pour relever ces défis.
 
@@ -87,9 +87,9 @@ Notre modèle [Art Gallery Management]({{< relref "templates/operations/art-gall
 
 Aperçu des objets du modèle de galerie d'art
 
-### Représentation visuelle des objets avec le plug-in galerie
+### Représentation visuelle des objets avec la vue de galerie
 
-L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser le [plug-in Galerie]({{< relref "help/base-editor/ansichten" >}}) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
+L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser la [vue de galerie]({{< relref "help/base-editor/ansichten" >}}) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
 
 ![Les artistes présentés comme une galerie](art-gallery-management-gallery-view.png)
 

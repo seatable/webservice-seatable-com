@@ -1,5 +1,5 @@
 ---
-title: 'Añadir una descripción de la mesa'
+title: 'Añadir una descripción de la tabla'
 date: 2023-08-21
 lastmod: '2023-08-21'
 categories:

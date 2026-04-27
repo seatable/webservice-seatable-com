@@ -25,7 +25,7 @@ Erfahren Sie, wie Sie mit unsere Digitalen Produktmanagement Vorlage Ihre Workfl
 In unserer Vorlage haben wir die wichtigsten Arbeitsbereiche eines Product Managers abgebildet:
 - **Zentraler Produktkatalog:** Verwalten Sie externe Informationen für das Marketing und gleichzeitig wichtige interne Spezifikationen für die Entwicklung an einem Ort.
 - **Asset-Management & Bilddatenbank:** Da SeaTable als relationale Datenbank funktioniert, können Sie Produktbilder in Originalqualität speichern.
-- **Visualisierung mit Plugins:** Mit dem Galerie-Plugin verwandeln Sie Ihre Datenliste im Handumdrehen in eine visuelle Bilddatenbank, die von jedem Mitarbeiter intuitiv abgerufen werden kann.
+- **Visualisierung:** Mit der Galerie-Ansicht verwandeln Sie Ihre Datenliste im Handumdrehen in eine visuelle Bilddatenbank, die von jedem Mitarbeiter intuitiv abgerufen werden kann.
 ​
 
 ## Interaktives Template

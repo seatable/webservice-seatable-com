@@ -76,7 +76,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Tenir un carnet de route en ligne avec SeaTable'
       subtitle: 'Vos avantages'
-      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et sa personnalisation. Elle constitue une [alternative performante aux modèles Excel]({{< relref "pages/excel-alternative" >}}) statiques de carnets de route. Avec notre carnet de bord numérique, vous bénéficiez d une collaboration en temps réel, d évaluations automatiques et d un archivage conforme aux normes d audit – idéal pour les équipes qui souhaitent documenter leurs déplacements professionnels de manière conforme à la législation fiscale sans se perdre dans le chaos d Excel.'
+      description: 'La solution IA no-code SeaTable séduit par sa flexibilité et sa personnalisation. Elle constitue une [alternative performante aux modèles Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) statiques de carnets de route. Avec notre carnet de bord numérique, vous bénéficiez d une collaboration en temps réel, d évaluations automatiques et d un archivage conforme aux normes d audit – idéal pour les équipes qui souhaitent documenter leurs déplacements professionnels de manière conforme à la législation fiscale sans se perdre dans le chaos d Excel.'
       items:
       - text: "Toujours à jour : restez informé grâce aux mises à jour en temps réel, à l'historique complet des modifications et à l'authentification numérique des conducteurs."
       - text: "Accès depuis n'importe où : avec un carnet de bord en ligne, vous avez accès à vos données à tout moment, même depuis votre véhicule, et vous les protégez contre toute perte ou détérioration."
@@ -133,7 +133,7 @@ sections:
       weight: 16
       title: 'Gestion des trajets assistée par IA avec SeaTable'
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent la gestion de vos déplacements à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux. Conforme au RGPD.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui élèvent la gestion de vos déplacements à un niveau supérieur. Automatisez les tâches récurrentes et gagnez un temps précieux. Conforme au RGPD.'
       items:
       - headline: 'Classification automatique avec Classify'
         text: "Laissez les données de trajet être classées automatiquement : l'IA identifie automatiquement le motif du trajet (par exemple, visite professionnelle, visite client, voyage d'affaires) à partir des textes de destination ou des notes et attribue les trajets à la bonne catégorie."

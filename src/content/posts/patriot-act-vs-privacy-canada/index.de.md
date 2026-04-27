@@ -4,9 +4,10 @@ description: 'Die Daten von Millionen Kanadiern lagern auf US-Servern von Micros
 date: 2023-07-17
 lastmod: '2023-08-18'
 author: 'cdb'
-url: '/de/atriot-act-vs-datenschutz-kanada'
+url: '/de/patriot-act-vs-datenschutz-kanada'
 aliases:
     - /de/patriot-act-vs-privacy-canada
+    - /de/atriot-act-vs-datenschutz-kanada
 seo:
     title: 'Patriot Act vs. Datenschutz – Kanadische Daten sicher verarbeiten'
     description: 'Erfahren Sie, wie Kanadas Gesetz 25 mit dem US-Patriot Act kollidiert und welche datenschutzkonformen Alternativen für Unternehmen bestehen.'
@@ -83,6 +84,6 @@ Noch nicht überzeugt? Weitere Informationen über SeaTable finden Sie auf der [
 
 ### Tipp für Airtable-Nutzer
 
-Eine detaillierte Gegenüberstellung von Airtable und SeaTable finden Sie [hier]({{< relref "pages/airtable-alternative" >}}). Als Airtable-Nutzer haben Sie darüber hinaus die Möglichkeit, ohne Programmierkenntnisse mithilfe eines Skripts sämtliche Daten Ihrer Bases bequem in SeaTable zu migrieren. Wie das funktioniert, erklärt [dieser Hilfeartikel]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
+Eine detaillierte Gegenüberstellung von Airtable und SeaTable finden Sie [hier]({{< relref "pages/landing-pages/alternatives/airtable-alternative" >}}). Als Airtable-Nutzer haben Sie darüber hinaus die Möglichkeit, ohne Programmierkenntnisse mithilfe eines Skripts sämtliche Daten Ihrer Bases bequem in SeaTable zu migrieren. Wie das funktioniert, erklärt [dieser Hilfeartikel]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 {{< warning headline="Disclaimer" text="Datenschutzgesetze unterscheiden sich von Region zu Region und können sich jederzeit ändern. Trotz gründlicher Recherche ersetzt dieser Artikel keine verbindliche Rechtsberatung in Ihrem Land, weshalb wir keine Verantwortung für eventuelle juristische Fehleinschätzungen übernehmen können." />}}

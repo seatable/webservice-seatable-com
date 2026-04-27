@@ -81,7 +81,7 @@ sections:
       - text: 'Zugriff von überall: Mit einem online geführten Bug Tracker System haben Sie zu jeder Zeit Zugriff und behalten den Überblick – im Büro, im Homeoffice oder beim Kunden.'
       - text: 'Transparenz im Prozess: Verknüpfen Sie Issues mit Tests und Versionen – so sehen Sie jederzeit, wo Fehler entdeckt wurden und in welchem Release sie behoben sind.'
       - text: 'Skalierbar: Unsere Bug Tracker System Vorlage wächst mit Ihren Anforderungen – unabhängig davon, wie viele Projekte, Komponenten oder Teammitglieder Sie verwalten.'
-      - text: 'Automatisiert & integriert: Verbinden Sie Ihren Bug Tracker mit Ihrem [IT Service Management]({{< relref "pages/industry-solutions/software-development" >}}) System – für durchgängige Workflows ohne Medienbruch.'
+      - text: 'Automatisiert & integriert: Verbinden Sie Ihren Bug Tracker mit Ihrem [IT Service Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) System – für durchgängige Workflows ohne Medienbruch.'
       image_position: [left]
       image: '/images/template_page_bugtacker_01.png'
       image_alt: 'SeaTable Bug Tracker System mit Übersicht zu Issues, Tests und Versionen in verknüpften Tabellen'
@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: 'KI-gestütztes Bug Tracking System'
       subtitle: 'Smarte Automatisierung'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/ai-automations" >}}), die Ihr Bug Tracker System auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Bugtracking, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Priorisierung, Qualitätssicherung sowie eine fundierte Release-Planung mit klaren Entscheidungsgrundlagen.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), die Ihr Bug Tracker System auf ein neues Level heben. Automatisieren Sie wiederkehrende Aufgaben im Bugtracking, reduzieren Sie manuelle Routinearbeit und gewinnen Sie Zeit für Analyse, Priorisierung, Qualitätssicherung sowie eine fundierte Release-Planung mit klaren Entscheidungsgrundlagen.'
       items:
       - headline: 'Klassifizierung mit Classify'
         text: 'Die KI-Funktion „Classify“ ordnet neue Issues anhand von Titel und Beschreibung passenden Kategorien oder Komponenten zu. So landen Bugs direkt in der richtigen Spalte und Teams erkennen Schwerpunkte in bestimmten Modulen deutlich schneller.'
@@ -188,7 +188,7 @@ sections:
       - q: "Kann ich eigene Felder und Workflows im Bug Tracker System anlegen?"
         a: 'Ja, Sie können jederzeit zusätzliche Spalten, Tabellen, Ansichten und Automatisierungen hinzufügen. So passen Sie das Bug Tracking System flexibel an Ihre Release-, Test- und Supportprozesse an.'
       - q: "Kann SeaTable als Asana Alternative im Bugtracking eingesetzt werden?"
-        a: 'Ja, SeaTable eignet sich hervorragend als [Asana Alternative]({{< relref "pages/asana-alternative" >}}), wenn Sie Aufgaben- und Bugtracking enger mit Datenbanklogik verbinden möchten. Statt starrer Boards erstellen Sie eigene Strukturen, verknüpfen Bugs mit Tests und Versionen und bauen bei Bedarf weitere Projektmanagement-Workflows in derselben Plattform auf'
+        a: 'Ja, SeaTable eignet sich hervorragend als [Asana Alternative]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), wenn Sie Aufgaben- und Bugtracking enger mit Datenbanklogik verbinden möchten. Statt starrer Boards erstellen Sie eigene Strukturen, verknüpfen Bugs mit Tests und Versionen und bauen bei Bedarf weitere Projektmanagement-Workflows in derselben Plattform auf'
       - q: "Unterstützt die Vorlage ein standardisiertes Software Bug Report Template?"
         a: 'Ja, die Bug Tracker System Vorlage enthält eine vordefinierte Software Bug Report Template mit typischen Feldern wie Titel, Beschreibung, Umgebung, Reproduzierbarkeit, erwartetes Ergebnis, tatsächliches Ergebnis und Anhängen. Sie können diese Struktur bei Bedarf erweitern oder an Ihre internen Richtlinien anpassen, ohne programmieren zu müssen.'
       - q: "Gibt es Unterstützung beim Einstieg in die Bug Tracker Vorlage?"

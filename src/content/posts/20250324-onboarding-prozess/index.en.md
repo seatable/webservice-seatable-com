@@ -138,7 +138,7 @@ Use a suitable onboarding program to maintain an overview and make the process e
 
 ## The right onboarding program for your requirements
 
-With SeaTable's free template, you can design your onboarding process so efficiently that you not only relieve your [HR processes]({{< relref path="pages/industry-solutions/hr" >}}), but also make it as easy as possible for your new employees to get started.
+With SeaTable's free template, you can design your onboarding process so efficiently that you not only relieve your [HR processes]({{< relref path="pages/landing-pages/industry-solutions/hr" >}}), but also make it as easy as possible for your new employees to get started.
 
 With just one click, you can create an intuitive checklist with all upcoming tasks for each new employee, so that everyone knows exactly what needs to be done. To avoid chaos and paperwork, you can store all important documents directly in the spreadsheet and have them digitally signed.
 

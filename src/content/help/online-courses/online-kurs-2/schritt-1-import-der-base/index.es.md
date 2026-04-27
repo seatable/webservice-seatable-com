@@ -17,14 +17,14 @@ Antes de poder asignar un nuevo proceso de negocio en SeaTable, primero debe cre
 
 Como este curso trata de la gestión de servicios en línea, necesitamos dos tablas centrales:
 
-- Un cuadro para registrar la oferta de cursos
-- Una mesa para los participantes
+- Una tabla para registrar la oferta de cursos
+- Una tabla para los participantes
 
 En el primer curso ya ha aprendido a crear una base con distintos tipos de columnas. Por lo tanto, nos saltaremos este paso y empezaremos directamente con una base preparada.
 
 Descargue el siguiente archivo a su PC e impórtelo como una nueva base en la página de inicio de SeaTable:
 
-<a href="/SeaTable-Course-Level-2.dtable" download>Curso SeaTable Nivel 2.dtable</a>
+[Curso SeaTable Nivel 2.dtable](/SeaTable-Course-Level-2.dtable)
 
 Aunque no tenga que crear usted mismo la base, es importante que se familiarice a fondo con la estructura. Se han utilizado nuevos tipos de columnas que quizá no conozca del curso anterior.
 
@@ -32,7 +32,7 @@ Aunque no tenga que crear usted mismo la base, es importante que se familiarice 
 
 A primera vista, la base parece bastante clara. Sólo consta de:
 
-- 2 Mesas
+- 2 tablas
 - 18 columnas
 - 3 vistas
 - 1 Formulario web

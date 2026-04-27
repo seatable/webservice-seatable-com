@@ -20,7 +20,7 @@ register:
 
 ## ¿Qué es una campaña de marketing?
 
-Las campañas de marketing son secuencias de actividades de marketing planificadas estratégicamente y limitadas en el tiempo para dirigirse a un grupo objetivo específico y difundir mensajes concretos sobre productos y marcas como parte de los objetivos de la empresa. Las campañas típicas de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) sirven para aumentar el conocimiento de la marca y cultivar la imagen, apoyar el lanzamiento de productos o, como campaña publicitaria clásica, dirigirse específicamente a la venta de determinados productos y servicios. Se puede utilizar una amplia variedad de canales como la radio y la televisión, los medios impresos o las plataformas en línea.
+Las campañas de marketing son secuencias de actividades de marketing planificadas estratégicamente y limitadas en el tiempo para dirigirse a un grupo objetivo específico y difundir mensajes concretos sobre productos y marcas como parte de los objetivos de la empresa. Las campañas típicas de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) sirven para aumentar el conocimiento de la marca y cultivar la imagen, apoyar el lanzamiento de productos o, como campaña publicitaria clásica, dirigirse específicamente a la venta de determinados productos y servicios. Se puede utilizar una amplia variedad de canales como la radio y la televisión, los medios impresos o las plataformas en línea.
 
 ## ¿En qué se diferencia una campaña de marketing de una estrategia de marketing?  
 

@@ -132,7 +132,7 @@ sections:
       weight: 16
       title: "Gestion de flotte assistée par l'intelligence artificielle"
       subtitle: 'Automatisation intelligente'
-      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/ai-automations" >}}), qui élèvent la gestion de votre parc automobile à un niveau supérieur. Automatisez les tâches récurrentes dans le quotidien de votre flotte, réduisez les tâches manuelles routinières et gagnez du temps pour les évaluations, l optimisation et les décisions stratégiques dans la gestion de votre parc automobile.'
+      description: 'Avec SeaTable, vous bénéficiez de puissantes [fonctions IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), qui élèvent la gestion de votre parc automobile à un niveau supérieur. Automatisez les tâches récurrentes dans le quotidien de votre flotte, réduisez les tâches manuelles routinières et gagnez du temps pour les évaluations, l optimisation et les décisions stratégiques dans la gestion de votre parc automobile.'
       items:
       - headline: 'Classification avec Classify'
         text: "Avec Classify, vous pouvez classer automatiquement les nouveaux véhicules ou les demandes de réservation par type, domaine d'utilisation ou emplacement. Ainsi, les enregistrements sont directement classés dans la bonne catégorie et vous pouvez immédiatement voir quelles parties de votre flotte sont particulièrement utilisées."
@@ -165,7 +165,7 @@ sections:
       box-position: [right!]
       items:
       - headline: Alternative à Excel
-        text: 'Avec SeaTable, vous gérez votre parc automobile de manière plus efficace qu avec Excel, grâce à des tableaux, des vues et des automatisations liés. Une [alternative performante à Excel]({{< relref "pages/excel-alternative" >}}).'
+        text: 'Avec SeaTable, vous gérez votre parc automobile de manière plus efficace qu avec Excel, grâce à des tableaux, des vues et des automatisations liés. Une [alternative performante à Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
       - headline: Carnet de route numérique 
         text: 'Veuillez utiliser SeaTable pour créer un [carnet de bord numérique]({{< relref "posts/fahrtenbuch" >}}) et relier directement les trajets à la gestion de votre parc automobile, ce qui vous permet de garder un œil sur l utilisation et les coûts.'
       - headline: Conforme au RGPD

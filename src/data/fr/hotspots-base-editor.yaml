@@ -6,7 +6,7 @@
   'y': 9
 
 - 'label': 'Colonnes'
-  'description': 'Une colonne enregistre des données d’un type spécifique. SeaTable propose 25 types de colonnes différents pour stocker différents types d’informations comme du texte, des dates, des nombres, des images, des fichiers, des cases à cocher ou des formules.'
+  'description': 'Une colonne enregistre des données d’un type spécifique. SeaTable propose 26 types de colonnes différents pour stocker différents types d’informations comme du texte, des dates, des nombres, des images, des fichiers, des cases à cocher ou des formules.'
   'link': 'help/base-editor/spalten'
   'position': 'right'
   'x': 26

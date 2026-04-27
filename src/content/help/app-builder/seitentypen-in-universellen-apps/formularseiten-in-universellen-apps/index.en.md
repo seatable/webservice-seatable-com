@@ -1,26 +1,27 @@
 ---
-title: 'Form pages in universal apps'
+title: 'Form pages in SeaTable apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/form-pages-in-universal-apps'
+url: '/help/form-pages-in-seatable-apps'
 aliases:
     - '/help/formularseiten-in-universellen-apps'
+    - '/help/form-pages-in-universal-apps'
 seo:
-    title: 'Form Pages in Universal Apps: SeaTable Guide'
-    description: 'Create custom form pages in SeaTable Universal Apps: drag-and-drop fields, required fields, help texts & submission controls made easy.'
-
+    title: 'Form Pages in SeaTable Apps: Guide'
+    description: 'Create custom form pages in SeaTable Apps: drag-and-drop fields, required fields, help texts & submission controls made easy.'
+weight: 3
 ---
 
-You can use this page type to build different **forms** that users can then submit. Form pages in universal apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "pages/arbeitszeiterfassung" >}}).
+You can use this page type to build different **forms** that users can then submit. Form pages in SeaTable apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}).
 
 ![Web form for recording your employees' working hours](images/webformular-working-time.png)
 
 {{< warning  headline="Tipp" >}}
 
-[Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the universal app, but also directly in the base.
+[Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the app builder, but also directly in the base.
 
 {{< /warning >}}
 
@@ -44,7 +45,7 @@ Each field also has individual **field settings** where you can add a **display 
 
 If you want to change the **order** of the fields in the form, you can grab and move a field using the {{< seatable-icon icon="dtable-icon-drag" >}} **six-dot icon**. By clicking the {{< seatable-icon icon="dtable-icon-delete" >}} **trash can icon**, you remove a field from the form.
 
-![Field on the form page of a Universal App](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
+![Field on the form page of a SeaTable App](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
 
 ### Additional Form Page Settings
 
@@ -60,6 +61,6 @@ Finally, you can redirect users to another page of the app or to another website
 
 At the very bottom, you can restrict who is allowed to see the form page.
 
-![Permission for individual pages of the Universal App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Permission for individual pages](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
 This is the only [page permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) you can choose for form pages – because form pages cannot be used to change or delete rows in the table, and anyone who can see the page is also allowed to submit forms, i.e., add rows.

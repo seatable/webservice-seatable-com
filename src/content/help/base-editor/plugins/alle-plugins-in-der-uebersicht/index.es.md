@@ -10,57 +10,26 @@ aliases:
     - '/es/ayuda/alle-plugins-in-der-uebersicht'
 seo:
     title: 'Plugins de SeaTable: todas las extensiones y usos explicados'
-    description: 'Todos los plugins de SeaTable: calendario, galería, Kanban, pizarra, SQL, mapa, organigrama y relaciones – funciones, ventajas y consejos.'
+    description: 'Todos los plugins de SeaTable explicados: chat de IA, pizarra, SQL, diseño de páginas, mapas, organigrama, relaciones entre tablas – funciones, ventajas y consejos.'
 star: true
 weight: 1
 ---
 
-**Los plugins** de SeaTable le ofrecen la oportunidad de ver sus datos desde una perspectiva completamente diferente. Visualice citas, tareas y ubicaciones, y cree documentos diagramados y perfiles a partir de sus datos. En el siguiente artículo le explicamos qué plugins están disponibles en SeaTable y cómo puede utilizarlos.
+Los **plugins** de SeaTable le ofrecen la posibilidad de ver sus datos desde perspectivas completamente diferentes y utilizar funciones ampliadas. Por ejemplo, visualice ubicaciones, organigramas y relaciones entre tablas, cree documentos con diseño o configure un chat de IA en su base. En el siguiente artículo explicamos qué plugins están disponibles en SeaTable y cómo puede utilizarlos.
 
-![Gráfico general con iconos de todos los plugins de SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
+![Gráfico general con iconos de todos los plugins de SeaTable](images/overview-all-plugins.gif)
 
 ## ¿Qué es un plugin?
 
-En SeaTable puede crear diferentes **vistas** para sus tablas en las que puede [filtrar]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) datos como desee.
+En SeaTable puede crear diferentes [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) para sus tablas con las que puede visualizar sus datos, por ejemplo, en **calendarios**, **galerías** y **diagramas de árbol**. Además, existen los plugins.
 
-Un **plugin** es un componente de software opcional en SeaTable que le ofrece opciones de visualización adicionales. Se pueden activar varios plugins en cada base, que muestran los datos de las respectivas tablas y vistas en **calendarios**, **documentos** o **galerías**, por ejemplo. Lea más sobre [cómo activar un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en el artículo de ayuda enlazado.
+Un **plugin** es un componente de software opcional en SeaTable que le ofrece funciones adicionales. En cada base se pueden activar varios plugins que muestran los datos de la tabla correspondiente, por ejemplo, en **mapas**, **organigramas** o **documentos**. También puede utilizar funciones ampliadas para detectar **duplicados**, configurar un **chat de IA** o dar rienda suelta a su creatividad en la **pizarra**.
 
-## Plugin de calendario
+Lea más sobre [cómo activar un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en el artículo de ayuda enlazado.
 
-En el complemento de calendario, puede mostrar los datos de una [columna]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de fecha en una **vista de** **año**, **mes**, **semana**, **día** o **agenda**. También puede utilizar dos columnas de fecha para mostrar **intervalos de tiempo** y mantener así una visión general de todas las fechas importantes, etc.
+## Plugin de mapas
 
-![Plugin de calendario con citas en vista mensual](images/Calendar.png)
-
-[Más información sobre el plugin de calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
-
-Estos artículos también pueden interesarle:
-
-- [Crear varios calendarios para una base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
-- [Crear nuevas entradas de calendario en el complemento de calendario]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
-
-## Complemento de línea de tiempo
-
-El plug-in de línea de tiempo representa distintos periodos de tiempo en forma de **línea de tiempo** mediante una fecha de inicio y una de finalización o una fecha de inicio y una duración. Esto le permite mantener una buena visión general de los proyectos que se ejecutan en paralelo o de las citas que se solapan. Este plugin también es excelente para planificar las vacaciones del equipo y la ocupación de las salas.
-
-![Plugin de cronología con línea temporal para proyectos y periodos](images/projektmanagement-timeline.png)
-
-[Más información sobre el plugin de cronología]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
-
-## Plugin de galería
-
-El complemento de galería es especialmente adecuado para mostrar registros con **imágenes**, ya que se refiere principalmente al contenido de una columna [de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Debajo de las imágenes, las entradas de una columna se muestran como **títulos**. Además, es posible mostrar otras columnas de la tabla en este plug-in y complementar así las imágenes con más información de los conjuntos de datos. Especialmente para proyectos creativos y artísticos, esto resulta muy útil para resumir toda la información de un vistazo.
-
-![Plugin de galería con imágenes y títulos bajo las miniaturas](images/Galerie.png)
-
-[Más información sobre el plugin de galerías]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
-
-Este artículo también puede interesarle:
-
-- [Añadir una nueva fila a través del plugin de galería]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
-
-## Complemento de mapas
-
-**Las ubicaciones** pueden visualizarse en un mapa con el complemento de mapa. Puede visualizar la información geográfica introducida con marcadores de posición o imágenes. El plug-in de mapa puede manejar **coordenadas GPS**, así como **direcciones**. Sin embargo, las direcciones deben ser únicas para poder mostrarse.
+**Las ubicaciones** pueden visualizarse en un mapa con el plugin de mapas. Puede visualizar la información geográfica introducida con marcadores de posición o imágenes. El plugin de mapas puede manejar **coordenadas GPS**, así como **direcciones**. Sin embargo, las direcciones deben ser únicas para poder mostrarse.
 
 ![Plugin de mapas con marcadores de ubicación en un mapa](images/Map.png)
 
@@ -68,27 +37,19 @@ Este artículo también puede interesarle:
 
 ## Plugin de deduplicación de datos
 
-El complemento de deduplicación de datos descubre **entradas duplicadas** en una tabla. Esto es especialmente útil con grandes cantidades de datos para detectar duplicados y eliminarlos. Puede eliminar todas las entradas duplicadas con un solo clic.
+El plugin de deduplicación de datos descubre **entradas duplicadas** en una tabla. Esto es especialmente útil con grandes cantidades de datos para detectar duplicados y eliminarlos. Puede eliminar todas las entradas duplicadas con un solo clic.
 
-![Plugin de desduplicación de datos con lista de entradas duplicadas](images/Deduplication.png)
+![Plugin de desduplicación de datos con lista de entradas duplicadas](images/deduplication-plugin.jpg)
 
 [Más información sobre el plugin de duplicación de datos]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Plugin de diseño de páginas
 
-Con ayuda del plug-in de diseño de páginas, puede maquetar **documentos** como cartas-formulario, tarjetas de visita y certificados y rellenarlos con los datos de su tabla. Más concretamente, puede crear maquetaciones con **elementos estáticos** que se complementan e individualizan con **elementos dinámicos** y **campos de** tabla. Éstos le ofrecen la gran ventaja de que, en función del registro de datos, insertan toda la información relacionada (por ejemplo, el nombre, la dirección y el cargo de una persona) en plantillas estandarizadas sin que usted tenga que copiar manualmente los datos en los documentos. De este modo, puede crear facturas, certificados u otros documentos importantes listos para imprimir a partir de los datos almacenados con sólo unos clics.
+Con ayuda del plugin de diseño de páginas, puede maquetar **documentos** como cartas-formulario, tarjetas de visita y certificados y rellenarlos con los datos de su tabla. Más concretamente, puede crear maquetaciones con **elementos estáticos** que se complementan e individualizan con **elementos dinámicos** y **campos de tabla**. Éstos le ofrecen la gran ventaja de que, en función del registro de datos, insertan toda la información relacionada (por ejemplo, el nombre, la dirección y el cargo de una persona) en plantillas estandarizadas sin que usted tenga que copiar manualmente los datos en los documentos. De este modo, puede crear facturas, certificados u otros documentos importantes listos para imprimir a partir de los datos almacenados con sólo unos clics.
 
 ![Plugin de diseño de página con documentos maquetados desde datos](images/Pagedesign.png)
 
 [Más información sobre el plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-## Complemento Kanban
-
-Con el plugin Kanban puede visualizar las entradas de la tabla en **un tablero Kanban**. Cada entrada se visualiza con una tarjeta y se puede mover hacia adelante y hacia atrás entre las diferentes columnas. Puede utilizar el método Kanban en la **gestión** ágil **de proyectos y flujos de trabajo**. Mediante la visualización de **las tareas** agrupadas por estado o fase del proyecto, se obtiene una excelente visión general del progreso de los flujos de trabajo.
-
-![Plugin Kanban con tarjetas en columnas para distintos estados](images/Kanban-Plugin.png)
-
-[Más información sobre el plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## Complemento de consulta SQL
 
@@ -100,7 +61,7 @@ El complemento de consulta SQL está perfectamente adaptado para la **ejecución
 
 ## Plugin de pizarra blanca
 
-El plugin de pizarra blanca te da la libertad de visualizar gráficamente procesos y estructuras que no puedes mostrar con los plugins anteriores. También puedes **esbozar libremente** diseños y maquetas. Para el diseño, dispones de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.
+El plugin de pizarra blanca le da la libertad de visualizar gráficamente procesos y estructuras que no puede mostrar con los plugins anteriores. También puede **esbozar libremente** diseños y maquetas. Para el diseño, dispone de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.
 
 ![Plugin de pizarra con formas, flechas y elementos dibujados libremente](images/Whiteboard-Plugin.png)
 
@@ -108,7 +69,7 @@ El plugin de pizarra blanca te da la libertad de visualizar gráficamente proces
 
 ## Plugin de organigrama
 
-Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las tareas superordinadas y subordinadas en un proyecto.
+Puede utilizar el plugin de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las tareas superordinadas y subordinadas en un proyecto.
 
 ![Plugin de organigrama con tarjetas jerárquicamente organizadas](images/Organigramm-Plugin.png)
 
@@ -116,17 +77,31 @@ Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre 
 
 ## Plugin de relaciones entre tablas
 
-Especialmente cuando hay muchas tablas con docenas de columnas en una base, es fácil perder la pista de cómo se relacionan entre sí. Puedes utilizar el complemento de relaciones entre tablas para visualizar **qué tablas están vinculadas entre sí a través de qué columnas**.
+Especialmente cuando hay muchas tablas con docenas de columnas en una base, es fácil perder la pista de cómo se relacionan entre sí. Puede utilizar el plugin de relaciones entre tablas para visualizar **qué tablas están vinculadas entre sí a través de qué columnas**.
 
-![Plugin de relaciones entre tablas con líneas entre tablas vinculadas](images/Table-Relationships-Plugin.png)
+![Plugin de relaciones entre tablas con líneas entre tablas vinculadas](images/table-relationship-plugin.png)
 
 [Más información sobre el plugin de relaciones entre tablas]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
+
+## Plugin de diseño de informes
+
+Con este plugin puede crear **informes de varias páginas** en los que tablas, diagramas y campos se alimentan dinámicamente con datos de su base. Es similar al plugin de diseño de páginas en que también crea **documentos PDF basados en plantillas con diseño**. Sin embargo, los elementos estáticos y dinámicos no se posicionan con precisión de píxel en la plantilla, sino que se colocan uno debajo del otro de forma continua, como en un **procesador de textos** (p. ej. Microsoft Word o Google Docs).
+
+![El plugin de diseño de informes](images/report-design-plugin-example.png)
+
+## Plugin de chat de IA
+
+El plugin más reciente de SeaTable está absolutamente a la vanguardia. Le permite configurar un **chat de IA** con su modelo de lenguaje preferido. Así puede editar y analizar sus bases en lenguaje natural, p. ej. crear registros, cambiar valores, vincular filas o crear análisis.
+
+![Configurar el plugin de chat de IA en SeaTable](images/ai-chat-plugin.png)
+
+[Más información sobre el plugin de chat de IA]({{< relref "help/ai/ai-chat/introduction" >}})
 
 ## Otros artículos útiles
 
 ### Estadísticas
 
-El **módulo de estadísticas** le permite visualizar datos en todo tipo de gráficos y estadísticas. Tienes a tu disposición los siguientes **tipos de** gráficos: de columnas, de barras, de líneas y circulares, así como mapas, imágenes térmicas, velocímetros y tablas dinámicas. Puedes configurar la visualización que más te convenga en los distintos **gráficos** y construir un **cuadro de mandos con las estadísticas más importantes**.
+El **módulo de estadísticas** le permite visualizar datos en todo tipo de gráficos y estadísticas. Tiene a su disposición los siguientes **tipos de gráficos**: de columnas, de barras, de líneas y circulares, así como mapas, imágenes térmicas, velocímetros y tablas dinámicas. Puede configurar la visualización que más le convenga en los distintos **gráficos** y construir un **cuadro de mandos con las estadísticas más importantes**.
 
 [Más información sobre el módulo estadístico]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 

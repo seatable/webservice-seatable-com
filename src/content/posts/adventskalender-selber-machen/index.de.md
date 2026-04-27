@@ -23,7 +23,7 @@ Ein selbst gebastelter Adventskalender ist ein Geschenk, das **von Herzen** komm
 
 {{< warning headline="Die Geschichte des Adventskalenders" >}}
 
-Wenn Sie wissen möchten, woher die Tradition des Adventskalenders kommt, klicken Sie [hier](https://www.adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+Wenn Sie wissen möchten, woher die Tradition des Adventskalenders kommt, klicken Sie [hier](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 

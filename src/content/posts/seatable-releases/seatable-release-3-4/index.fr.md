@@ -69,7 +69,7 @@ Le menu contextuel des lignes, accessible par un clic droit dans les tableaux, p
 
 Dans SeaTable 3.4, les logs dans les détails des lignes sont plus compacts qu'auparavant. Toutes les modifications qu'un utilisateur a apportées à une ligne à un moment donné sont présentées dans une entrée collective. Jusqu'à présent, chaque modification faisait l'objet d'une entrée de journal séparée.
 
-Jusqu'à présent, la limite de lignes par base était invariablement de 100.000 lignes. Si cette limite était dépassée, la base ne pouvait être ouverte qu'en mode lecture. Avec SeaTable 3.4, les auto-hébergeurs ont davantage de contrôle sur la limite de lignes. Dans certains cas d'utilisation, la limite peut être augmentée via les fichiers de configuration. Vous trouverez plus d'informations à ce sujet dans le [manuel SeaTable](https://manual.seatable.io/config/base_rows_limit/).
+Jusqu'à présent, la limite de lignes par base était invariablement de 100.000 lignes. Si cette limite était dépassée, la base ne pouvait être ouverte qu'en mode lecture. Avec SeaTable 3.4, les auto-hébergeurs ont davantage de contrôle sur la limite de lignes. Dans certains cas d'utilisation, la limite peut être augmentée via les fichiers de configuration. Vous trouverez plus d'informations à ce sujet dans le [manuel SeaTable](https://admin.seatable.com/configuration/base-rows-limit/).
 
 ## Deux limitations fonctionnelles
 

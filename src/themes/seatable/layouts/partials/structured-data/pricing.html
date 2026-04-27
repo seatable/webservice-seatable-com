@@ -3,8 +3,8 @@
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     "name": "{{ .Site.Title }}",
-    {{- if or (strings.HasPrefix .TranslationKey "/pages/industry-solutions/") (strings.HasPrefix .TranslationKey "/templates") }}
-        {{/* Include description for industry solution and template pages */}}
+    {{- if or (strings.HasPrefix .TranslationKey "/pages/landing-pages") (strings.HasPrefix .TranslationKey "/templates") }}
+        {{/* Include description for landing pages and template pages */}}
         "description": "{{ .Params.seo.description | safeJS }}",
     {{- end }}
     "applicationCategory": "BusinessApplication",

@@ -54,7 +54,7 @@ La inteligencia artificial suele clasificarse en **inteligencia artificial fuert
 
 Hoy en día, la inteligencia artificial casi siempre se refiere a la IA débil. Está especializada en realizar **tareas recurrentes y claramente definidas** particularmente bien.
 
-Sin embargo, la IA débil no puede pensar, desarrollar intenciones ni reflexionar sobre sí misma. No tiene creatividad y no aprende de forma autónoma, sino que tiene que ser entrenada. Su capacidad de aprendizaje suele limitarse a la aplicación de algoritmos (instrucciones claras para resolver determinados problemas) y a reconocer patrones en grandes cantidades de datos. Esto es especialmente útil en la [automatización de procesos]({{< relref "pages/ai-automations" >}}) y en el **procesamiento del lenguaje y la imagen**.
+Sin embargo, la IA débil no puede pensar, desarrollar intenciones ni reflexionar sobre sí misma. No tiene creatividad y no aprende de forma autónoma, sino que tiene que ser entrenada. Su capacidad de aprendizaje suele limitarse a la aplicación de algoritmos (instrucciones claras para resolver determinados problemas) y a reconocer patrones en grandes cantidades de datos. Esto es especialmente útil en la [automatización de procesos]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) y en el **procesamiento del lenguaje y la imagen**.
 
 ### IA fuerte
 
@@ -107,14 +107,14 @@ La inteligencia artificial también se utiliza en muchas empresas. Dado que el r
 
 ### Marketing y ventas
 
-*   Personalización del [acercamiento al cliente]({{< relref "pages/industry-solutions/kundenmanagement" >}}) al reproducir la publicidad
+*   Personalización del [acercamiento al cliente]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) al reproducir la publicidad
 *   Creación más rápida de contenidos con IA generativa
 *   Análisis de grupos objetivo específicos para el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}})
 
 ### RRHH y desarrollo del personal
 
 *   Entrevistas estandarizadas con asistentes virtuales
-*   Análisis de las cualificaciones y los perfiles de personalidad de los [solicitantes]({{< relref "pages/bewerbermanagement" >}})
+*   Análisis de las cualificaciones y los perfiles de personalidad de los [solicitantes]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 *   Previsiones de [necesidades de personal]({{< relref "posts/personalplanung" >}}) en determinados escenarios
 
 ### Administración general
@@ -246,7 +246,7 @@ La inteligencia artificial generativa puede generar nuevos contenidos siguiendo 
 {{< /faq >}}
 
 {{< faq "¿Dónde se utiliza la inteligencia artificial? " >}}
-Los ámbitos de aplicación de la inteligencia artificial son diversos. Van desde la investigación médica y la modelización del clima hasta la inteligencia artificial en la vida cotidiana y los sistemas de IA en las empresas. Allí, la inteligencia artificial se utiliza en producción, administración, [recursos humanos]({{< relref "pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), atención al cliente y otras áreas.
+Los ámbitos de aplicación de la inteligencia artificial son diversos. Van desde la investigación médica y la modelización del clima hasta la inteligencia artificial en la vida cotidiana y los sistemas de IA en las empresas. Allí, la inteligencia artificial se utiliza en producción, administración, [recursos humanos]({{< relref "pages/landing-pages/industry-solutions/hr" >}}), [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), atención al cliente y otras áreas.
 {{< /faq >}}
 
 {{< faq "¿Qué problemas puede causar la inteligencia artificial? " >}}

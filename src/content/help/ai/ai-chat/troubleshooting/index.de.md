@@ -26,7 +26,7 @@ Die meisten KI-Anbieter arbeiten mit einem Prepaid-Guthaben. Wenn keine Antworte
 
 - [Anthropic Console](https://console.anthropic.com/)
 - [OpenAI Platform](https://platform.openai.com/)
-- [Mistral Console](https://console.mistral.ai/)
+- [Mistral Console](https://v2.auth.mistral.ai/login)
 
 ## Keine oder falsche Antworten
 

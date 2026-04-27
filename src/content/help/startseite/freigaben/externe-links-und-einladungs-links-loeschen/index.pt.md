@@ -25,7 +25,7 @@ Pode **apagar** tanto as **ligações externas** como as **ligações de convite
 
 ## Eliminação através do ícone de acção
 
-![Clique no ícone de partilha na sua mesa](images/share-single-tablesheets-from-the-base-options.png)
+![Clique no ícone de partilha na sua tabela](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Abrir uma **base** ou **vista para** a qual deseja apagar um link.
 2. Clique no **ícone de partilha** {{< seatable-icon icon="dtable-icon-share" >}} para bases ou vistas.

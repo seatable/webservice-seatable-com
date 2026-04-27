@@ -20,7 +20,7 @@ Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei
 
 So einfach es auf den ersten Blick klingen mag – Content Marketing funktioniert nur, wenn Sie **qualitativ hochwertige Inhalte** bieten, die den Kunden interessieren; und wenn Sie eine passende Struktur und die passenden Werkzeuge für die Planung, Umsetzung und Learnings haben. Denn eine Content Marketing Strategie zielt nicht auf kurzfristige Effekte ab, wie es z. B. bei bezahlter Werbung wäre, sondern stellt einen langfristigen, organischen Vertriebs- und Kommunikationsansatz heutiger Unternehmen dar.
 
-Um eine eigene Content Marketing Strategie aufbauen und ein geeignetes [Marketing Tool]({{< relref "pages/industry-solutions/marketing" >}}) auswählen zu können, ist es erst einmal wichtig zu verstehen, was Content Marketing genau ist und wie die einzelnen Teile miteinander zusammenhängen.
+Um eine eigene Content Marketing Strategie aufbauen und ein geeignetes [Marketing Tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) auswählen zu können, ist es erst einmal wichtig zu verstehen, was Content Marketing genau ist und wie die einzelnen Teile miteinander zusammenhängen.
 
 ## Welche Vorteile hat Content Marketing?
 
@@ -66,7 +66,7 @@ Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kl
 
 Content Marketing erfordert ein Tool, das den Überblick über diese Masse an Informationen ermöglicht und eine zielgerichtete Veröffentlichung von geplanten Inhalten erlaubt.
 
-Typische Kanban- und [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) wie Trello oder Asana sind mit dieser großen Menge an Informationen schnell überfordert. Wenn man z. B. eine Google Keywordrecherche mit Hunderten von SEO-Begriffen in so eine Software importiert, hat man praktisch schon die notwendige Übersicht verloren.
+Typische Kanban- und [Projektmanagement-Tools]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) wie Trello oder Asana sind mit dieser großen Menge an Informationen schnell überfordert. Wenn man z. B. eine Google Keywordrecherche mit Hunderten von SEO-Begriffen in so eine Software importiert, hat man praktisch schon die notwendige Übersicht verloren.
 
 Gehen wir also die Schritte durch, die notwendig sind, um eine Content Marketing Strategie aufzubauen, und wie ein geeignetes Content Marketing Tool aussieht.
 

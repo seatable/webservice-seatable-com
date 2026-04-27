@@ -15,7 +15,7 @@ tags:
 color: '#c75d67'
 ---
 
-Weltweit existieren rund [55.000 Museen](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) und unzählige weitere Galerien, Ausstellungen, Theater und Kunstbühnen. Jeder wird zustimmen, dass Kunst in ihren verschiedenen Formen eine wichtige Rolle in unserem Leben spielt. Ohne digitale Tools wäre die Verwaltung und das Betreiben einer solchen Kunsteinrichtung heutzutage kaum noch vorstellbar. Das Beantragen von öffentlichen Geldern, die Inventarisierung der Exponate und (insbesondere während der Corona-Pandemie) die Registrierung der Besucher – es gibt bestimmt einfachere Aufgaben als im Kunstmanagement.
+Weltweit existieren rund [55.000 Museen](https://www.zukunftsinstitut.de/zukunftsthemen/die-zukunft-des-museums-ist-integrativ) und unzählige weitere Galerien, Ausstellungen, Theater und Kunstbühnen. Jeder wird zustimmen, dass Kunst in ihren verschiedenen Formen eine wichtige Rolle in unserem Leben spielt. Ohne digitale Tools wäre die Verwaltung und das Betreiben einer solchen Kunsteinrichtung heutzutage kaum noch vorstellbar. Das Beantragen von öffentlichen Geldern, die Inventarisierung der Exponate und (insbesondere während der Corona-Pandemie) die Registrierung der Besucher – es gibt bestimmt einfachere Aufgaben als im Kunstmanagement.
 
 Dieser Artikel beschreibt die Herausforderungen im Kunstmanagement, geht auf die Unterschiede in der Verwaltung einer öffentlichen Kunsteinrichtung im Gegensatz zu einem Unternehmen ein, skizziert die Probleme von unflexiblen Branchenlösungen im Kunstmanagement und zeigt effiziente Wege auf, wie Sie diese Herausforderungen meistern können.
 
@@ -85,9 +85,9 @@ Unser Template [Art Gallery Management]({{< relref "templates/operations/art-gal
 
 Objektübersicht des Art Gallery Templates
 
-### Visuelle Darstellung der Objekte mit dem Galerie-Plugin
+### Visuelle Darstellung der Objekte mit der Galerie-Ansicht
 
-Die Tabellenansicht von SeaTable lässt sich mit individuellen Ansichten flexibel an die Bedürfnisse Ihrer einzelnen Mitarbeiter anpassen. Zusätzlich verfügt SeaTable neben der tabellarischen Darstellung über weitere Anzeigemöglichkeiten. So kann es bei Einträgen mit Bildern Sinn ergeben, das [Galerie-Plugin]({{< relref "help/base-editor/ansichten" >}}) zu verwenden, um einen anschaulichen Überblick zu erhalten und schnell den gewünschten Eintrag zu finden. Ein Klick auf den Eintrag genügt, um in die Detailansicht zu wechseln und Anpassungen an den Daten vorzunehmen.
+Die Tabellenansicht von SeaTable lässt sich mit individuellen Ansichten flexibel an die Bedürfnisse Ihrer einzelnen Mitarbeiter anpassen. Zusätzlich verfügt SeaTable neben der tabellarischen Darstellung über weitere Anzeigemöglichkeiten. So kann es bei Einträgen mit Bildern Sinn ergeben, die [Galerie-Ansicht]({{< relref "help/base-editor/ansichten" >}}) zu verwenden, um einen anschaulichen Überblick zu erhalten und schnell den gewünschten Eintrag zu finden. Ein Klick auf den Eintrag genügt, um in die Detailansicht zu wechseln und Anpassungen an den Daten vorzunehmen.
 
 ![Die Künstler als Galerie dargestellt](art-gallery-management-gallery-view.png)
 

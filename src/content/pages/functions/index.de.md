@@ -27,7 +27,7 @@ sections:
             icon: toggle-off
 
           - headline: Spaltentypen
-            text: SeaTable kann mit allen Arten von Informationen umgehen. Limitieren Sie sich nicht auf Text und Zahlen. In Summe stehen 25 verschiedenen Spaltentypen zur Verfügung.
+            text: SeaTable kann mit allen Arten von Informationen umgehen. Limitieren Sie sich nicht auf Text und Zahlen. In Summe stehen 26 verschiedene Spaltentypen zur Verfügung.
             icon: medal
 
           - headline: Ansichten

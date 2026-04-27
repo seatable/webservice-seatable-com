@@ -14,13 +14,11 @@ seo:
 weight: 6
 ---
 
-{{< required-version "Enterprise" >}}
-
 **Automated actions** represent one of the two essential components of automations. The actions are triggered by defined **trigger events**. Depending on the [trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable can perform different automation actions. This article provides you with an **overview of** the different types of automated actions.
 
 ## Available automation actions
 
-The latest version of SeaTable offers a total of 13 different automation actions to choose from:
+The latest version of SeaTable offers a total of 15 different automation actions to choose from:
 
 - Send notification
 - Send app notification
@@ -32,9 +30,11 @@ The latest version of SeaTable offers a total of 13 different automation actions
 - Add record to another table
 - Run Python script
 - Run AI
+- Manage events in Google Calendar
 - Run data processing
 - Convert page to PDF
 - Generate PDF from document and send
+- Archive
 
 ## Add, duplicate, move and delete automation actions
 
@@ -186,6 +186,23 @@ The "Run AI" automation action is currently available for the following **automa
 - When a row is added
 - At a scheduled time
 
+## Automation action: Manage events in Google Calendar
+
+If you select "Manage events in Google Calendar" as an automated action, an appointment from SeaTable is created or updated in a Google calendar when the trigger is triggered. There are a few requirements that must be met for this action to work smoothly:
+- First, you must [synchronize your Google Calendar account with SeaTable.]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}})
+- [Two date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) must exist in a table, which define the **start** and **end** of the dates.
+- You also need a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) in which Google can write the **event ID** so that the appointments can be synchronized.
+
+![Requirements for managing events in Google Calendar](images/manage-events-in-google-calendar-part-1.png)
+
+You can also make further settings. Add a **title**, a **description**, a **location** and **attendees** to the event. To do this, write the details in the **text fields** or work with **column references in curly brackets** to insert specific values from the table. By activating the **controllers**, you can decide whether you want to send notifications, whether it is a video conference and whether guests can modify the event, see the guest list and invite other guests.
+
+![more settings for events in Google Calendar](images/manage-events-in-google-calendar-part-2.png)
+
+The automation action "Manage events in Google Calendar" is currently available for the following **automation triggers**:
+- When a row is updated
+- When a row is added
+
 ## Automation action: Run data processing
 
 If you select the execution of a data processing operation as an automated action, the trigger initiates a predefined [data processing operation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) in the table. You can configure the exact action to be performed in the **settings**. Depending on the type of operation, **certain input and output columns** may be required.
@@ -228,3 +245,13 @@ If you then want to send the generated document, activate the "Send to e-mail" s
 
 The automation action "Generate PDF from document and send" is currently available with the following **automation trigger**:
 - At a scheduled time
+
+## Automation action: Archive
+
+You can use the archive action to automatically [move rows to the big data storage]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). The big data function must of course be activated in the respective base. As you have already defined the **view** and any filter conditions for the rows to be archived in the trigger settings, you cannot make any settings for the action itself.
+
+![Archive rows via automation](images/automated-action-archive.png)
+
+The "Archive" automation action is currently available for the following **automation triggers**:
+- At a scheduled time
+- At a scheduled time for records that match conditions

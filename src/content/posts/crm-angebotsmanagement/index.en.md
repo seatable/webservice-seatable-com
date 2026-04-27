@@ -20,7 +20,7 @@ Any company that wants to record and track its customers more efficiently cannot
 
 A CRM tool should help you and your company to improve the business relationships with your customers, to increase the associated turnover of your customers and to optimise the internal processes in your company.
 
-There are more than enough CRM software providers on the market. The best-known CRM software solutions are probably [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) and [SugarCRM](https://www.sugarcrm.com/). It can quickly become expensive, especially for small and medium-sized companies, to introduce a new and well-known CRM system. However, this does not necessarily have to be the case. [SeaTable]({{< relref "pages/registration" >}}) is an optimal and at the same time affordable solution.
+There are more than enough CRM software providers on the market. The best-known CRM software solutions are probably [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/eu/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) and [SugarCRM](https://www.sugarcrm.com/). It can quickly become expensive, especially for small and medium-sized companies, to introduce a new and well-known CRM system. However, this does not necessarily have to be the case. [SeaTable]({{< relref "pages/registration" >}}) is an optimal and at the same time affordable solution.
 
 ## What is CRM anyway?
 
@@ -40,7 +40,7 @@ A CRM tool records all important customer data, such as the name of the customer
 
 For example, it is also possible for you to link the purchase history of each individual customer at product level with your CRM system. Furthermore, you should be able to create an evaluation in the form of [statistics]({{< relref "help/base-editor/statistiken" >}}) about your customers and their turnover within a few clicks.
 
-For this, SeaTable offers you many possibilities to collect all customer data in one place in a cost-effective, lucrative and intuitive way. The departments and employees relevant to you can immediately start working together as a team. For example, assign read and/or write rights to your [sales]({{< relref "templates/sales/sales-pipeline" >}}), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), purchasing or customer service departments in no time at all.
+For this, SeaTable offers you many possibilities to collect all customer data in one place in a cost-effective, lucrative and intuitive way. The departments and employees relevant to you can immediately start working together as a team. For example, assign read and/or write rights to your [sales]({{< relref "templates/sales/sales-pipeline" >}}), [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), purchasing or customer service departments in no time at all.
 
 The advantage of a CRM in SeaTable: You always have a central collection point where all information from all departments converge and thus always have all customer data, sales phases and much more at a glance. This means that you no longer have to compile the information yourself through individual departments. This saves you a lot of time and, above all, nerves. Furthermore, SeaTable adapts flexibly to all your requirements.
 
@@ -142,7 +142,7 @@ In this way, you always have an overview of the distribution of customers per em
 
 ## A flexible CRM solution does not have to be expensive
 
-So it doesn't always have to end with expensive CRM solutions such as [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html) and [Salesforce](https://www.salesforce.com/). SeaTable offers you many possibilities to run a successful CRM.
+So it doesn't always have to end with expensive CRM solutions such as SAP-Hybris and Salesforce. SeaTable offers you many possibilities to run a successful CRM.
 
 This article should have made it clear to you how powerful and flexible SeaTable can be. If you get involved with SeaTable, you will be rewarded with a CRM system that is perfectly tailored to you. A truly powerful CRM tool that you can expand at will and add new features, columns and departments on a daily basis.
 

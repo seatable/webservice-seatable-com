@@ -53,8 +53,8 @@ Si une personne décède et n'a pas pris les dispositions nécessaires, ses donn
 Google, Facebook et Apple proposent dans le compte d'utilisateur certains paramètres dans lesquels il est possible de régler une succession numérique :
 
 - Google dispose à cet effet d'un [gestionnaire d'inactivité de compte](https://myaccount.google.com/inactive?continue=https%3A%2F%2Fmyaccount.google.com%2Fdata-and-privacy): vous pouvez définir de votre vivant qui doit être informé en cas d'inactivité de votre compte et qui doit avoir accès à votre compte. De même, vous pouvez décider que votre compte sera automatiquement et complètement supprimé après une période prédéfinie.
-- Facebook vous donne la possibilité de désigner dans vos [paramètres personnels](https://accountscenter.facebook.com/personal_info) un **contact successoral** qui sera autorisé à gérer votre profil en cas de décès. Vous pouvez également choisir de supprimer votre profil après le décès ou de le placer en mode commémoratif.
-- Les utilisateurs d'appareils Apple peuvent [ajouter des contacts successoraux à leur identifiant Apple](https://support.apple.com/de-de/HT212360). Après votre décès, ces personnes peuvent accéder à vos photos, messages, notes, fichiers, etc. enregistrés, mais **pas** aux informations de paiement ou aux mots de passe.
+- Facebook vous donne la possibilité de désigner dans vos [paramètres personnels] un **contact successoral** qui sera autorisé à gérer votre profil en cas de décès. Vous pouvez également choisir de supprimer votre profil après le décès ou de le placer en mode commémoratif.
+- Les utilisateurs d'appareils Apple peuvent [ajouter des contacts successoraux à leur identifiant Apple](https://support.apple.com/de-de/102631). Après votre décès, ces personnes peuvent accéder à vos photos, messages, notes, fichiers, etc. enregistrés, mais **pas** aux informations de paiement ou aux mots de passe.
 
 ## Comment et pourquoi prendre des dispositions de son vivant ?
 

@@ -11,11 +11,15 @@ aliases:
 seo:
     title: 'Python: generate random entries in SeaTable'
     description: 'Use this Python script to quickly add random sample rows to your SeaTable base—perfect for tests, demos, or automating database population in one click.'
-
+weight: 5
 ---
 
 
 Sometimes you want to generate a few sample entries in a base. With this Python script you can generate from a few to many thousands of entries in no time.
+
+![Random Entries in SeaTable](random-entries.png)
+
+{{< dtable-download name="Random Entries" file="/downloads/python-examples/random-entries.dtable" text="Base with matching table structure and ready-made script to try out directly." />}}
 
 This article will guide you through the different sections of the script so that you can understand how it works and customize it to your needs if necessary. You can find the full script at the end of this article.
 

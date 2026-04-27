@@ -1,5 +1,5 @@
 ---
-title: 'Gestión organizada de la tienda con SeaTable - SeaTable'
+title: 'Gestión organizada de la tienda con SeaTable'
 description: 'Más sucursales significan más tareas: SeaTable reúne toda la información clave sobre empleados, ventas, formaciones y materiales en un solo sitio. Personaliza vistas, automatiza procesos y facilita el seguimiento para una gestión de tiendas sencilla y productiva.'
 date: 2021-10-21
 categories:
@@ -23,7 +23,7 @@ Además, su equipo de ventas también se enfrenta a nuevos retos: Hay más sucur
 
 Hay muchas cosas que hay que tener en cuenta en la gestión de una tienda. Nuestra solución de software le ayuda a realizar un seguimiento de los empleados y de la formación. Le muestra el volumen de negocio en diferentes grupos de facturación y, con nuestro plugin de estadísticas, también proporciona la base para varios análisis de facturación. Para sus gestores de ventas, SeaTable ofrece un sencillo formulario web que puede utilizarse para organizar los controles de las tiendas.
 
-El complemento de la línea de tiempo también muestra todas las próximas citas. Por último, pero no menos importante, nuestra Plantilla de Gestión de Tiendas también le ayuda a ordenar y hacer un seguimiento de todos los materiales del punto de venta en todas las sucursales. A continuación, explicaremos cómo está estructurada exactamente la plantilla y cómo puede utilizarla.
+La vista de la línea de tiempo también muestra todas las próximas citas. Por último, pero no menos importante, nuestra Plantilla de Gestión de Tiendas también le ayuda a ordenar y hacer un seguimiento de todos los materiales del punto de venta en todas las sucursales. A continuación, explicaremos cómo está estructurada exactamente la plantilla y cómo puede utilizarla.
 
 [Haga clic aquí para ir directamente a nuestra plantilla]({{< relref "templates/sales/store-management" >}})
 
@@ -31,13 +31,13 @@ El complemento de la línea de tiempo también muestra todas las próximas citas
 
 Su primera tabla "Tiendas" le ofrece una visión general de todas las sucursales. Aquí puede ver la dirección exacta, todos los empleados por tienda y el jefe de ventas responsable de la tienda correspondiente. La columna que muestra sus empleados está vinculada a la segunda tabla "Empleados". Aquí puede ver una lista completa de sus empleados por sucursal. Además de una imagen, también se muestra el cargo del empleado.
 
-Toda la línea se resalta en rojo si el empleado correspondiente es un Director de Tienda. De este modo, podrá ver directamente quién es el principal responsable de la ubicación de la tienda. Puede establecer fácilmente el marcado de las filas individuales con el pequeño cubo de color situado encima de su mesa. Aquí puede definir reglas que coloreen la fila en consecuencia. Además, esta base también contiene los datos de contacto de cada uno de los empleados.
+Toda la línea se resalta en rojo si el empleado correspondiente es un Director de Tienda. De este modo, podrá ver directamente quién es el principal responsable de la ubicación de la tienda. Puede establecer fácilmente el marcado de las filas individuales con el pequeño cubo de color situado encima de su tabla. Aquí puede definir reglas que coloreen la fila en consecuencia. Además, esta base también contiene los datos de contacto de cada uno de los empleados.
 
-Una columna adicional para documentos le permite almacenar contratos de trabajo o CV, para que tenga todos los documentos importantes en un solo lugar. Otra columna vinculada es la de "Formación", aquí puedes organizar la formación continua de tus empleados en la siguiente tabla.
+Una columna adicional para documentos le permite almacenar contratos de trabajo o CV, para que tenga todos los documentos importantes en un solo lugar. Otra columna vinculada es la de "Formación", aquí puede organizar la formación continua de sus empleados en la siguiente tabla.
 
 ## Organice la formación continua de sus empleados
 
-Dado que los empleados son uno de los recursos más importantes para las empresas, a éstas les interesa promover estos recursos y hacerlos aún más valiosos. Por ello, la formación continua puede considerarse una inversión sostenible en la empresa. Porque los nuevos conocimientos que adquieren sus empleados no sólo les benefician a ellos, [sino también a toda la empresa](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Dado que los empleados son uno de los recursos más importantes para las empresas, a éstas les interesa promover estos recursos y hacerlos aún más valiosos. Por ello, la formación continua puede considerarse una inversión sostenible en la empresa. Porque los nuevos conocimientos que adquieren sus empleados no sólo les benefician a ellos, [sino también a toda la empresa](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 Nuestra tercera base "Formación" le ofrece una visión general de las distintas necesidades de sus empleados y de las oportunidades de formación continua asociadas. Puede introducir todos los cursos de formación disponibles en la primera columna. A continuación, introduzca la fecha en la que tendrá lugar la formación continua. Otra columna muestra las plazas disponibles para esta formación continua.
 
@@ -55,7 +55,7 @@ Con una columna para el potencial de facturación y la facturación real, se pue
 
 ### Analice su facturación con el plugin de estadísticas avanzadas
 
-Con nuestro plugin de estadísticas avanzadas podrá realizar fácilmente análisis de sus ventas. Ya hemos creado tres [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) útiles para nuestra plantilla de ejemplo. Al hacer clic en el complemento que se encuentra encima de la mesa, se accede directamente al área de estadísticas. Aquí puede utilizar el signo + para crear nuevos cuadros de mando en los que podrá insertar varias estadísticas.
+Con nuestro plugin de estadísticas avanzadas podrá realizar fácilmente análisis de sus ventas. Ya hemos creado tres [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) útiles para nuestra plantilla de ejemplo. Al hacer clic en el complemento que se encuentra encima de la tabla, se accede directamente al área de estadísticas. Aquí puede utilizar el signo + para crear nuevos cuadros de mando en los que podrá insertar varias estadísticas.
 
 ![Gestión de la tienda ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -123,7 +123,7 @@ En la columna "Artículo", puede utilizar una única selección para introducir 
 
 El pedido de material vuelve a ser muy sencillo a través de un formulario web. Los materiales pedidos a través del formulario web "Pida su material PLV" aparecen en la tabla "Material PLV pedido". Las cantidades también aparecen aquí. Una vez enviado el material, la persona responsable puede marcar la casilla y completar la tarea.
 
-Puede utilizar las Reglas de Notificación para definir la configuración de las notificaciones en determinados puntos de activación. Por ejemplo, puede establecer aquí que los responsables de la tienda reciban una notificación sobre los materiales del TPV enviados por correo. Puedes establecer las reglas de notificación a través de los 3 puntos pequeños junto a la campana en la parte superior derecha de tu mesa.
+Puede utilizar las Reglas de Notificación para definir la configuración de las notificaciones en determinados puntos de activación. Por ejemplo, puede establecer aquí que los responsables de la tienda reciban una notificación sobre los materiales del TPV enviados por correo. Puede establecer las reglas de notificación a través de los 3 puntos pequeños junto a la campana en la parte superior derecha de su tabla.
 
 ## La gestión de la tienda es más fácil con SeaTable
 

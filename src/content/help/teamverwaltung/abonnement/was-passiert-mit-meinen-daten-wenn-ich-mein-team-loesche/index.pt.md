@@ -1,5 +1,5 @@
 ---
-title: 'O que acontece aos meus dados quando elimino a minha equipa? - Mesa do mar'
+title: 'O que acontece aos meus dados quando elimino a minha equipa?'
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:

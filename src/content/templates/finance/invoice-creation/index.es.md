@@ -84,7 +84,7 @@ El plugin de diseño de páginas es especialmente práctico para la plantilla de
 
 ### Más que un modelo de factura
 
-Además de crear facturas, la plantilla de facturas ofrece valiosas funciones adicionales que le ayudarán en su negocio. La función de estadísticas facilita elanálisis de las cifras de ventas y el volumen de negocios, mientras que el complemento de galería le ofrece una visión clara de sucartera de productos. Gracias a las flexibles opciones de personalización de SeaTable, podrá adaptar las columnas, los cálculos y las vistas a sus necesidades individuales y crear unafactura en PDFque se ajuste perfectamente a su negocio.
+Además de crear facturas, la plantilla de facturas ofrece valiosas funciones adicionales que le ayudarán en su negocio. La función de estadísticas facilita elanálisis de las cifras de ventas y el volumen de negocios, mientras que la vista de galería le ofrece una visión clara de su cartera de productos. Gracias a las flexibles opciones de personalización de SeaTable, podrá adaptar las columnas, los cálculos y las vistas a sus necesidades individuales y crear una factura en PDF que se ajuste perfectamente a su negocio.
 
 ## Ventajas de SeaTable como software de facturación
 

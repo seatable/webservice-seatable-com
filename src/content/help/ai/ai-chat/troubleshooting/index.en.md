@@ -26,7 +26,7 @@ Most AI providers work with prepaid credit. If responses are no longer being gen
 
 - [Anthropic Console](https://console.anthropic.com/)
 - [OpenAI Platform](https://platform.openai.com/)
-- [Mistral Console](https://console.mistral.ai/)
+- [Mistral Console](https://v2.auth.mistral.ai/login)
 
 ## No or incorrect answers
 

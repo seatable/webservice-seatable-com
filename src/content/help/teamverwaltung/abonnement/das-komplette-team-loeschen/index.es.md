@@ -33,7 +33,7 @@ Al confirmar la eliminación, se desencadenan inmediatamente las siguientes acci
 - Se eliminan todas las bases y los datos que contienen.
 - Tu suscripción, si la tienes, será eliminada.
 - Sus datos se eliminarán de nuestro sistema de pago Stripe en la medida de lo posible. Sin embargo, si se han generado facturas, es posible que Stripe no elimine su cuenta por completo.
-- Sus direcciones de correo electrónico se eliminarán de nuestro sistema de correo electrónico Sendinblue.
+- Sus direcciones de correo electrónico se eliminarán de nuestro sistema de correo electrónico Brevo.
 
 {{< warning  headline="Advertencia"  text="**No puedes** deshacer la eliminación de tu equipo. Todos los datos se perderán **irremediablemente**. La eliminación de **tu equipo** también va acompañada de la eliminación **de tu contrato**." />}}
 

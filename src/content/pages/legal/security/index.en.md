@@ -32,7 +32,7 @@ Five principles guide our decisions in terms of architecture and operation of Se
 
 ## Data Storage
 
-We rely on the infrastructure of [Akenes SA (Exoscale)](https://www.exoscale.com/) for the operation of SeaTable Cloud. Exoscale was founded in 2011 and is headquartered in Lausanne, Switzerland. Since 2017, it is a subsidiary of A1 Digital International GmbH and, as such, a part of the public-stock company [A1 Telekom Austria Group](https://www.a1.group/de/home/).
+We rely on the infrastructure of [Akenes SA (Exoscale)](https://www.exoscale.com/) for the operation of SeaTable Cloud. Exoscale was founded in 2011 and is headquartered in Lausanne, Switzerland. Since 2017, it is a subsidiary of A1 Digital International GmbH and, as such, a part of the public-stock company [A1 Telekom Austria Group](https://a1.com/).
 
 Exoscale operates [multiple data centers in Germany, Austria, Switzerland, and Bulgaria](https://www.exoscale.com/datacenters/) (as of October 2024). All data centers are [ISO 9001 and 27001 certified](https://www.exoscale.com/compliance) and have N+1 redundancy for all core components such as power supply, cooling, fire detection and suppression. Exoscale’s data centers meet or exceed the Tier III requirements of the [Uptime Institute](https://uptimeinstitute.com/tiers).
 
@@ -90,7 +90,7 @@ You can export your data stored in SeaTable at any time. SeaTable offers three e
 - Export via the web interface to a DTABLE file
 - Export via the API
 
-More information about the DTABLE file format can be found in the [SeaTable Manual]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). The SeaTable API is fully documented in the [SeaTable API Reference](https://api.seatable.com).
+More information about the DTABLE file format can be found in the [SeaTable Admin Manual]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). The SeaTable API is fully documented in the [SeaTable API Reference](https://api.seatable.com).
 
 ## Audit and Certification
 

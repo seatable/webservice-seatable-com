@@ -13,8 +13,6 @@ seo:
     description: 'Découvrez comment configurer une automatisation SeaTable : déclencheurs, actions, conditions logiques pour des process optimisés.'
 ---
 
-{{< required-version "Entreprise" >}}
-
 Les automatisations permettent d'**automatiser les processus**, ce qui permet non seulement de gagner du temps, mais aussi de réduire le nombre d'erreurs humaines. La première étape vers l'automatisation des flux de travail est la création d'une automatisation.
 
 ## Créer une automatisation

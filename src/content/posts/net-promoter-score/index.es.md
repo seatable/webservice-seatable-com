@@ -32,7 +32,7 @@ El **puntuación real del promotor neto se calcula** como el porcentaje de promo
 
 ## ¿Qué significa la puntuación neta del promotor?
 
-El NPS se utiliza en [gestión de clientes]({{< relref "pages/industry-solutions/kundenmanagement" >}}) como **indicador de la fidelidad del cliente**. Muchas empresas lo utilizan como parámetro, ya que es fácil de determinar y proporciona resultados comparables. Un NPS alto se asocia generalmente con la satisfacción y el crecimiento del cliente, mientras que un valor bajo indica problemas.
+El NPS se utiliza en [gestión de clientes]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) como **indicador de la fidelidad del cliente**. Muchas empresas lo utilizan como parámetro, ya que es fácil de determinar y proporciona resultados comparables. Un NPS alto se asocia generalmente con la satisfacción y el crecimiento del cliente, mientras que un valor bajo indica problemas.
 
 Sus defensores consideran que una puntuación alta es un reflejo positivo de muchos factores, como la calidad del producto, la experiencia del servicio, la imagen de marca y también la conexión emocional de los clientes con la marca. En estas empresas, la puntuación no se considera una simple medida. Más bien, el NPS se ha convertido en una herramienta estratégica para comprender mejor las necesidades de los clientes y asegurar la propia competitividad de la empresa a largo plazo.
 

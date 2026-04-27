@@ -1,5 +1,5 @@
 ---
-title: 'Gestão de loja organizada com SeaTable - SeaTable'
+title: 'Gestão de loja organizada com SeaTable'
 description: 'À medida que o número de lojas cresce, a organização precisa ser ágil. Com SeaTable, controle funcionários, vendas, treinamentos e materiais em um só lugar. Vistas personalizadas e formulários digitais facilitam a rotina e otimizam sua gestão comercial.'
 date: 2021-10-21
 categories:
@@ -23,7 +23,7 @@ Além disso, a sua equipa de vendas é também confrontada com novos desafios: H
 
 Há muitas coisas a considerar na gestão de lojas. A nossa solução de software ajuda-o a manter um registo dos empregados e da formação. Mostra-lhe o volume de negócios em diferentes grupos de volume de negócios e, com o nosso plugin estatístico, fornece também a base para várias análises de volume de negócios. Para os seus gestores de vendas, a SeaTable oferece um simples formulário web que pode ser utilizado para organizar cheques de loja.
 
-O plug-in da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todos os ramos. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
+A vista da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todos os ramos. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
 
 [Clique aqui para ir directamente para o nosso modelo]({{< relref "templates/sales/store-management" >}})
 
@@ -31,13 +31,13 @@ O plug-in da linha do tempo também mostra todos os compromissos que se aproxima
 
 O primeiro quadro "Lojas" dá-lhe uma visão geral de todas as sucursais. Aqui pode ver o endereço exato, todos os empregados por loja e o gestor de vendas responsável pela respectiva loja. A coluna que mostra os seus empregados está ligada à segunda tabela "Empregados". Aqui pode ver uma lista completa dos seus empregados por filial. Para além de uma fotografia, é também apresentada a respectiva posição do empregado.
 
-A linha inteira é destacada a vermelho se o empregado correspondente for um Gerente de Loja. Desta forma é possível ver directamente quem é o principal responsável pela localização da loja. Pode facilmente definir a marcação de filas individuais com o pequeno balde de cor por cima da sua mesa. Aqui pode definir regras que coloram a fila em conformidade. Além disso, esta base contém também os dados de contacto dos empregados individuais.
+A linha inteira é destacada a vermelho se o empregado correspondente for um Gerente de Loja. Desta forma é possível ver directamente quem é o principal responsável pela localização da loja. Pode facilmente definir a marcação de filas individuais com o pequeno balde de cor por cima da sua tabela. Aqui pode definir regras que coloram a fila em conformidade. Além disso, esta base contém também os dados de contacto dos empregados individuais.
 
 Uma coluna adicional para documentos permite-lhe armazenar contratos de trabalho ou CVs, para que tenha todos os documentos importantes num só local. Outra coluna ligada é a coluna "Formações", onde pode organizar a formação contínua dos seus empregados no quadro seguinte.
 
 ## Organize formação complementar para os seus empregados
 
-Uma vez que os empregados são um dos recursos mais importantes para as empresas, é do interesse das empresas promover estes recursos e, assim, torná-los ainda mais valiosos. Consequentemente, a formação contínua pode ser vista como um investimento sustentável na empresa. Porque os novos conhecimentos que os seus empregados adquirem não só os beneficia, [mas também a toda a empresa](https://www.kofa.de/mitarbeiter-finden-und-binden/mitarbeiter-weiterbilden/betriebliche-weiterbildung#c8096).
+Uma vez que os empregados são um dos recursos mais importantes para as empresas, é do interesse das empresas promover estes recursos e, assim, torná-los ainda mais valiosos. Consequentemente, a formação contínua pode ser vista como um investimento sustentável na empresa. Porque os novos conhecimentos que os seus empregados adquirem não só os beneficia, [mas também a toda a empresa](https://www.kofa.de/personalarbeit/weiterbildung/betriebliche-weiterbildung/).
 
 A nossa terceira base "Formações" dá-lhe uma visão geral das várias necessidades dos seus empregados e das oportunidades de formação contínua associadas. Pode introduzir todos os cursos de formação disponíveis na primeira coluna. Em seguida, introduza a data em que a formação contínua terá lugar. Outra coluna mostra os lugares disponíveis para esta formação complementar.
 
@@ -55,7 +55,7 @@ Com uma coluna para o seu potencial de rotatividade e a rotatividade real, os d�
 
 ### Analise o seu volume de negócios com o Plugin de Estatísticas Avançadas
 
-Com o nosso Plugin Estatístico Avançado pode facilmente realizar análises das suas vendas. Já criámos três [estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) úteis para o nosso modelo de exemplo. Clicando no plug-in acima da sua mesa leva-o directamente para a área de estatísticas. Aqui pode usar o sinal + para criar novos painéis de bordo nos quais pode então inserir várias estatísticas.
+Com o nosso Plugin Estatístico Avançado pode facilmente realizar análises das suas vendas. Já criámos três [estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) úteis para o nosso modelo de exemplo. Clicando no plug-in acima da sua tabela leva-o directamente para a área de estatísticas. Aqui pode usar o sinal + para criar novos painéis de bordo nos quais pode então inserir várias estatísticas.
 
 ![Gestão de lojas ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -123,7 +123,7 @@ Na coluna "Item", é possível utilizar uma única seleção para entrar todos o
 
 A encomenda de mercadorias é novamente muito simples através de um formulário Web. Os materiais encomendados através do formulário Web "Encomendar o seu material POS" aparecem na tabela "Material POS encomendado". As quantidades também aparecem aqui. Depois de o material ter sido enviado, a pessoa responsável pode assinalar a caixa e concluir a tarefa.
 
-Pode utilizar as Regras de Notificação para definir definições para notificações em determinados pontos de activação. Por exemplo, poderia definir aqui que os gerentes da loja recebessem uma notificação sobre os materiais de PDV enviados por correio. Pode definir regras de notificação através dos 3 pequenos pontos junto ao sino no canto superior direito da sua mesa.
+Pode utilizar as Regras de Notificação para definir definições para notificações em determinados pontos de activação. Por exemplo, poderia definir aqui que os gerentes da loja recebessem uma notificação sobre os materiais de PDV enviados por correio. Pode definir regras de notificação através dos 3 pequenos pontos junto ao sino no canto superior direito da sua tabela.
 
 ## Gestão de loja facilitada com SeaTable
 

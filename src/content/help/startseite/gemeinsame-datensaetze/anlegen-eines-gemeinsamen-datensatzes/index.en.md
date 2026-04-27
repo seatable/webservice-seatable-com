@@ -1,13 +1,14 @@
 ---
-title: 'Creating a common dataset'
+title: 'Create a common dataset'
 date: 2022-11-21
 lastmod: '2024-06-13'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/help/create-shared-dataset-seatable'
+url: '/help/create-common-dataset-seatable'
 aliases:
     - '/help/anlegen-eines-gemeinsamen-datensatzes'
+    - '/help/create-shared-dataset-seatable'
 seo:
     title: 'Create a shared dataset in SeaTable: step-by-step guide'
     description: 'How to create a shared dataset in a group base, publish individual views and import them centrally for team management.'

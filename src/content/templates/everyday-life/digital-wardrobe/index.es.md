@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: Armario digital y planificador de outfits de SeaTable
       subtitle: Más flexible que otras aplicaciones de armario
-      description: Una simple lista en aplicaciones para tomar notas o en Excel es rápida de crear, pero también puede resultar confusa. Con la [solución de IA no-code SeaTable]({{< relref "/" >}}), puede crear su propia aplicación de armario personal para tener un armario organizado y **más transparencia y claridad en su vida cotidiana**.
+      description: Una simple lista en aplicaciones para tomar notas o en Excel es rápida de crear, pero también puede resultar confusa. Con la [solución de IA no-code SeaTable]({{< relref "/" >}}), puede crear su propia aplicación de armario personal para tener un [armario organizado]({{< relref "posts/kleiderschrank-organisieren" >}}) y **más transparencia y claridad en su vida cotidiana**.
       items:
       - text: "**Siempre actualizado**: se pueden añadir nuevas piezas o ideas en cualquier momento y siempre están actualizadas."
       - text: "**Acceso desde cualquier lugar**: con la solución en la nube, siempre tendrá todo su armario a mano."
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: Su armario digital con funciones de IA
       subtitle: Ayudante inteligente para el día a día
-      description: Con SeaTable, se beneficia de potentes [automatizaciones basadas en IA]({{< relref "pages/ai-automations" >}}). Resuma textos descriptivos de forma concisa, extraiga instrucciones de cuidado o genere sugerencias de conjuntos, **totalmente compatibles con el RGPD en servidores europeos en Alemania**.
+      description: Con SeaTable, se beneficia de potentes [automatizaciones basadas en IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Resuma textos descriptivos de forma concisa, extraiga instrucciones de cuidado o genere sugerencias de conjuntos, **totalmente compatibles con el RGPD en servidores europeos en Alemania**.
       items:
       - headline: Resúmenes automáticos con Summarize
         text: Anote la ocasión, el estado de ánimo y la comodidad, y genere automáticamente un breve titular de estilo para cada conjunto con la función «Summarize» de la IA. La vista de calendario le ofrece una visión general concisa del look sin tener que leer todo el registro de datos.
@@ -167,6 +167,6 @@ sections:
       - q: ¿También puedo guardar fotos de conjuntos y combinaciones?
         a: Sí, puede guardar fotos, vídeos y otros archivos, y vincularlos a la ropa y los conjuntos que haya guardado. 
       - q: ¿El uso de la IA en SeaTable cumple con el RGPD? 
-        a: Por supuesto, con SeaTable no tiene que preocuparse de que su información se utilice indebidamente como datos de entrenamiento. Alojamos SeaTable Cloud y [nuestro propio modelo de IA]({{< relref "pages/ai-automations" >}}) en servidores europeos certificados en Alemania. No hay intercambio de datos con proveedores externos de IA, y sus datos nunca salen de la infraestructura de SeaTable. 
+        a: Por supuesto, con SeaTable no tiene que preocuparse de que su información se utilice indebidamente como datos de entrenamiento. Alojamos SeaTable Cloud y [nuestro propio modelo de IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) en servidores europeos certificados en Alemania. No hay intercambio de datos con proveedores externos de IA, y sus datos nunca salen de la infraestructura de SeaTable. 
 ---
 

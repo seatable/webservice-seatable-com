@@ -1,0 +1,25 @@
+name: Check links (PR)
+
+on:
+    pull_request:
+        branches:
+            - main
+
+jobs:
+    check-links-offline:
+        name: Check links (offline)
+        runs-on: ubuntu-24.04
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # Fetches entire commit history for git lastmod
+
+            - name: Build site
+              run: ./build.sh
+
+            - name: Check links with lychee
+              uses: lycheeverse/lychee-action@v2
+              with:
+                  args: --offline --no-progress --root-dir src/public 'src/public/**/*.html'
+                  fail: true

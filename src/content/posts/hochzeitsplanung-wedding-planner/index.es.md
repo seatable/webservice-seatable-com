@@ -1,5 +1,5 @@
 ---
-title: 'La planificación de la boda perfecta con SeaTable - SeaTable'
+title: 'La planificación de la boda perfecta con SeaTable'
 description: 'planear una boda implica muchos detalles: lugar, invitados, presupuesto. Con SeaTable podrá usar listas de tareas, comparaciones de proveedores, organización de invitados y un planificador de presupuestos. Además, puede recoger inspiración y notas para no olvidar nada. Todo en un solo lugar para una boda inolvidable.'
 date: 2021-07-22
 lastmod: '2023-07-11'

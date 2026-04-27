@@ -51,7 +51,7 @@ Um Ihre Sammlung zu verwalten, haben Sie verschiedene Möglichkeiten. Es existie
 
 ### Evernote – die Notiz-App für ein schnelles Erfassen und Verwalten Ihrer Sammlungen
 
-Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/intl/de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
+Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/de-de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
 
 ![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
@@ -63,7 +63,7 @@ Die Software [Data Crow](https://www.datacrow.net/) eignet sich vor allem für d
 
 ### GCstar – kostenfreie Sammlungssoftware
 
-Eine weitere kostenlose Sammlungssoftware ist [GCstar](http://www.gcstar.org/). Das Verwaltungsprogramm weist dieselben Funktionen zum Erfassen und Verwalten von Sammlungen auf wie Data Crow. Sie haben ebenfalls die Möglichkeit, Ihre Sammlung mit Informationen aus dem Internet anzureichern. Speichern Sie ab, an welchem Ort Sie den Gegenstand erworben haben, und erfassen Sie, falls Sie das Sammlungsstück an jemand ausleihen. Neben Medien können Sie natürlich auch andere Objekte inventarisieren. Wenn Sie sich für eine Open-Source-Lösung interessieren, können Sie Data Crow und GCstar testweise installieren und die Oberflächen miteinander vergleichen.
+Eine weitere kostenlose Sammlungssoftware ist [GCstar](https://gitlab.com/GCstar/). Das Verwaltungsprogramm weist dieselben Funktionen zum Erfassen und Verwalten von Sammlungen auf wie Data Crow. Sie haben ebenfalls die Möglichkeit, Ihre Sammlung mit Informationen aus dem Internet anzureichern. Speichern Sie ab, an welchem Ort Sie den Gegenstand erworben haben, und erfassen Sie, falls Sie das Sammlungsstück an jemand ausleihen. Neben Medien können Sie natürlich auch andere Objekte inventarisieren. Wenn Sie sich für eine Open-Source-Lösung interessieren, können Sie Data Crow und GCstar testweise installieren und die Oberflächen miteinander vergleichen.
 
 ### Nischen-Software für Sammler
 

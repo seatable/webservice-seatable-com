@@ -18,7 +18,7 @@ register:
 
 ## Was ist eine Marketingkampagne?
 
-Marketing Kampagnen sind strategisch geplante, zeitlich begrenzte Abfolgen von Marketingaktivitäten, um eine spezifische Zielgruppe anzusprechen und im Rahmen der Unternehmensziele spezifische Produkt- und Markenbotschaften zu verbreiten. Typische Kampagnen im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}) dienen der Steigerung der Markenbekanntheit und der Imagepflege, unterstützen Produkteinführungen oder zielen als klassische Werbekampagne konkret auf den Verkauf bestimmter Produkte und Dienstleistungen. Dabei können verschiedenste Kanäle wie Funk und Fernsehen, Printmedien oder Online-Plattformen zum Einsatz kommen.
+Marketing Kampagnen sind strategisch geplante, zeitlich begrenzte Abfolgen von Marketingaktivitäten, um eine spezifische Zielgruppe anzusprechen und im Rahmen der Unternehmensziele spezifische Produkt- und Markenbotschaften zu verbreiten. Typische Kampagnen im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) dienen der Steigerung der Markenbekanntheit und der Imagepflege, unterstützen Produkteinführungen oder zielen als klassische Werbekampagne konkret auf den Verkauf bestimmter Produkte und Dienstleistungen. Dabei können verschiedenste Kanäle wie Funk und Fernsehen, Printmedien oder Online-Plattformen zum Einsatz kommen.
 
 ## Wie unterscheidet sich eine Marketingkampagne von der Marketingstrategie?  
 

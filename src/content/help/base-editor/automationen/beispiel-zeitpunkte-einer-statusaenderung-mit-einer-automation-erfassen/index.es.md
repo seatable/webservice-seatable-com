@@ -103,7 +103,7 @@ Para **citar** los distintos **números de pedido** y los **importes** correspon
 
 ### Probar la automatización
 
-Si **modifica** el **estado de** varios pedidos en su mesa después de confirmar la automatización, ...
+Si **modifica** el **estado de** varios pedidos en su tabla después de confirmar la automatización, ...
 
 ![Ajuste del estado de varios pedidos](images/change-status-of-different-orders.gif)
 

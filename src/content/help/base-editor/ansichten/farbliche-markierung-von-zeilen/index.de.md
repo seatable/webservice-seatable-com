@@ -12,21 +12,23 @@ seo:
 weight: 27
 ---
 
-Mithilfe des **Zeilen-formatieren-Werkzeugs** können Sie farbliche Markierungen am **Zeilenanfang** setzen. Das **farbliche Markieren von Zeilen** dient dabei der schnellen Identifikation bestimmter Datensätze. Dies ist nicht zu verwechseln mit dem [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), wodurch Sie einzelne Zellen farblich hervorheben können.
+Das **farbliche Markieren von Zeilen** dient der schnellen Identifikation bestimmter Datensätze. Dies ist nicht zu verwechseln mit dem [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), wodurch Sie einzelne Zellen farblich hervorheben können.
 
-## Das Zeilen-formatieren-Werkzeug
+## Das Zeilenfarben-Werkzeug
 
 In den Ansichtsoptionen über einer Tabelle finden Sie folgendes Symbol:
 
-![Farbliches Makierungs Werkzeug](images/Farbliche-Markierung-von-Zellen-1.png)
+![Farbliche-Markierungs-Werkzeug](images/Farbliche-Markierung-von-Zellen-1.png)
 
-Nach einem Klick auf das Zeilen-formatieren-Werkzeug können Sie zwischen **drei Optionen** für die farbliche Markierung wählen:
+Nach einem Klick auf das Zeilenfarben-Werkzeug können Sie zwischen **drei Optionen** für die farbliche Markierung wählen:
 
 - Einfachauswahl-Spalte verwenden
 - Regeln verwenden
 - Duplikate hervorheben
 
 ![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-2.png)
+
+Das Zeilenfarben-Werkzeug steht nicht nur in Tabellenansichten, sondern auch in [Kalender-]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) und [Zeitleisten-Ansichten]({{< relref "help/base-editor/ansichten/die-zeitleisten-ansicht" >}}) zur Verfügung. Allerdings können Sie bei den Letzteren nur Einfachauswahl-Spalten verwenden, um die Zeilenfarbe zu definieren.
 
 ## Einfachauswahl-Spalte verwenden
 

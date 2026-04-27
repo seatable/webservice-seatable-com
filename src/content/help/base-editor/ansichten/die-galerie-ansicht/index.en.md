@@ -6,6 +6,11 @@ categories:
     - 'grundlagen-von-ansichten'
 author: 'kgr'
 url: '/help/the-gallery-view'
+aliases:
+    - '/help/gallery-plugin-guide-seatable'
+    - '/help/anleitung-zum-galerie-plugin'
+    - '/help/add-new-row-via-gallery-plugin'
+    - '/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 seo:
     title: 'Gallery view: Display images clearly in SeaTable'
     description: 'With the Gallery view you get a vivid overview of all data records that contain images.'

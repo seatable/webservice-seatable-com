@@ -46,7 +46,7 @@ Portfolio management offers you numerous advantages in all areas.
 
 ## Project portfolio management
 
-Project portfolio management (PPM) is responsible for the **overarching management, planning and control of all projects** that are interrelated within a company. Above all, it aims to ensure that resources are optimally distributed and projects are prioritized in such a way that they best support the company's strategic goals. Project portfolio management is therefore a permanent task that is repeated cyclically and requires the evaluation of many projects. This is the biggest difference to normal [project management]({{< relref "pages/industry-solutions/project-management" >}}), which usually ends with the completion of individual projects.
+Project portfolio management (PPM) is responsible for the **overarching management, planning and control of all projects** that are interrelated within a company. Above all, it aims to ensure that resources are optimally distributed and projects are prioritized in such a way that they best support the company's strategic goals. Project portfolio management is therefore a permanent task that is repeated cyclically and requires the evaluation of many projects. This is the biggest difference to normal [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), which usually ends with the completion of individual projects.
 
 **Note**: In larger companies and public authorities, there is often a separate department for project portfolio management: the **Project Management Office (PMO)**.
 

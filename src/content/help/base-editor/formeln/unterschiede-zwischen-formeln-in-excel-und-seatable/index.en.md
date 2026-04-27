@@ -13,16 +13,15 @@ seo:
     description: 'Learn the key differences between Excel and SeaTable formulas: column vs. cell references, tabular logic, and practical tips for experts.'
 ---
 
-Are you an Excel user who is familiar with writing formulas and just getting started with SeaTable?  
-If so, this article is for you! Although the principles of the formula functions in SeaTable are similar, there are some important differences that you need to learn at the beginning that will pay off if you want to become an expert in SeaTable formulas.
+Are you an Excel user who is familiar with writing formulas and just getting started with SeaTable? If so, this article is for you! Although the principles of the formula functions in SeaTable are similar, there are some important differences that you need to learn at the beginning that will pay off if you want to become an expert in SeaTable formulas.
 
 ## Central difference
 
-The most central and important difference in the formula function of SeaTable and Excel is the **scope of** the formulas.
+The most important difference in the formula function of SeaTable and Excel is the **scope of the formulas**.
 
-While in **Excel** you can enter a formula in any cell and it will subsequently refer to any other cell in the spreadsheet, formulas in **SeaTable** refer to entire _columns_ and **not** to specific cells.
+While in **Excel** you can enter a formula in any cell and it can subsequently refer to any other cell in the spreadsheet, formulas in **SeaTable** refer to **entire columns** and not to specific cells.
 
-Since SeaTable acts as a relational database in this context, formulas are applied to the entire _column of_ a table so that the same formula applies to each entry in that column.
+Since SeaTable acts as a [relational database]({{< relref "posts/relationale-datenbank" >}}) in this context, formulas are applied to the entire column of a table so that the same formula applies to each entry in that column.
 
 ## Line referencing
 
@@ -53,7 +52,7 @@ The formula refers to whole _columns_, such as {Purchase Type}.
 ## Values from other tables
 
 SeaTable formulas work within _tables_, not across _bases_.  
-Similar to above, by default SeaTable formulas only refer to _columns_ within the same _table_. However, there are also ways to take a value from another table to reference it in a formula field (This approach uses linked records, which are discussed in more detail [here]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ).
+Similar to above, by default SeaTable formulas only refer to _columns_ within the same _table_. However, there are also ways to take a value from another table to reference it in a formula field. This approach uses linked records, which are discussed in more detail [here]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
 
 ### Excel
 

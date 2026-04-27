@@ -13,16 +13,15 @@ seo:
     description: 'Saiba as diferenças entre fórmulas do Excel e SeaTable: referência a célula ou coluna, conceitos e dicas práticas para migrar.'
 ---
 
-É um utilizador de Excel que está familiarizado com a escrita de fórmulas e está apenas a começar com o SeaTable?  
-Então este artigo é para si! Embora os princípios das funções da fórmula em SeaTable sejam semelhantes, existem algumas diferenças importantes que precisa de aprender no início e que compensarão se quiser tornar-se um especialista em fórmulas SeaTable.
+É um utilizador de Excel que está familiarizado com a escrita de fórmulas e está apenas a começar com SeaTable? Então este artigo é para si! Embora os princípios das funções da fórmula em SeaTable sejam semelhantes, existem algumas diferenças importantes que precisa de aprender no início e que compensarão se quiser tornar-se um especialista em fórmulas SeaTable.
 
 ## Diferença central
 
-A diferença mais central e importante na função da fórmula de SeaTable e Excel é a **gama eficaz das** fórmulas.
+A diferença mais importante na função da fórmula de SeaTable e Excel é a **gama eficaz das fórmulas**.
 
-Enquanto no **Excel** pode introduzir uma fórmula em qualquer célula, que depois se refere a qualquer outra célula da folha de cálculo, as fórmulas no **SeaTable** referem-se a _colunas_ inteiras e **não** a células específicas.
+Enquanto no **Excel** pode introduzir uma fórmula em qualquer célula, que depois se refere a qualquer outra célula da folha de cálculo, as fórmulas no **SeaTable** referem-se a **colunas inteiras** e não a células específicas.
 
-Uma vez que o SeaTable actua como uma base de dados relacional neste contexto, as fórmulas são aplicadas a toda a _coluna_ de uma tabela de modo a que a mesma fórmula se aplique a cada entrada nessa coluna.
+Uma vez que SeaTable actua como uma [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}) neste contexto, as fórmulas são aplicadas a toda a coluna de uma tabela de modo a que a mesma fórmula se aplique a cada entrada nessa coluna.
 
 ## Referenciação de linhas
 

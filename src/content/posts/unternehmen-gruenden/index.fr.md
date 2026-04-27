@@ -97,7 +97,7 @@ Vérifiez également vos obligations vis-à-vis de l'**Association professionnel
 
 {{< warning headline="Conseil" >}}
 
-SeaTable vous permet de garder un œil sur toutes les dates et échéances importantes pendant que vous créez votre entreprise. Utilisez le calendrier et le plug-in Timeline pour afficher clairement les étapes clés telles que la remise du business plan, les inscriptions, les rendez-vous avec les autorités ou les demandes de subventions. Vous ne manquerez ainsi aucune échéance et veillerez à ce que votre création d'entreprise avance pas à pas, conformément au calendrier.
+SeaTable vous permet de garder un œil sur toutes les dates et échéances importantes pendant que vous créez votre entreprise. Utilisez le calendrier et la vue de ligne de temps pour afficher clairement les étapes clés telles que la remise du business plan, les inscriptions, les rendez-vous avec les autorités ou les demandes de subventions. Vous ne manquerez ainsi aucune échéance et veillerez à ce que votre création d'entreprise avance pas à pas, conformément au calendrier.
 
 {{< /warning >}}
 

@@ -38,10 +38,10 @@ for row in rows:
 
     img = Image.open(BytesIO(content))
     buf = BytesIO()
-    img.save(buf, format='PNG', quality=90)
+    img.save(buf, format='PNG')
     buf.seek(0)
 
-    info = base.upload_bytes_file(row.get('Name', 'image') + '.png', buf.read())
+    info = base.upload_bytes_file(row.get('Name', 'image') + '.png', buf.read(), file_type='image')
     base.update_row(TABLE_NAME, row['_id'], {PNG_COLUMN: [info.get('url')]})
 
 print("HEIC files converted to PNG.")

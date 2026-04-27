@@ -12,8 +12,7 @@ In this guide, you will create an automation with the **Run AI** action. Once se
 
 ## Prerequisites
 
-- SeaTable **Enterprise** subscription (Cloud or Self-Hosted)
-- SeaTable **version 6.0** or higher
+- SeaTable (Cloud or Server) **version 6.0** or higher
 - A base with a table containing text data
 
 {{< warning headline="Note for self-hosted customers" >}}

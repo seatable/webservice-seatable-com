@@ -14,13 +14,11 @@ seo:
 weight: 6
 ---
 
-{{< required-version "Entreprise" >}}
-
 **Les actions automatisées** représentent l'une des deux composantes essentielles des automatisations. Les actions sont alors déclenchées par des **événements déclencheurs** définis. Selon le [déclencheur]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable peut exécuter différentes actions d'automatisation. Cet article vous donne un **aperçu** des différents types d'actions automatisées.
 
 ## Actions d'automatisation disponibles
 
-La dernière version de SeaTable propose un total de 13 actions d'automatisation différentes :
+La dernière version de SeaTable propose un total de 15 actions d'automatisation différentes :
 
 - Envoyer une notification
 - Envoyer une notification à une app
@@ -32,9 +30,11 @@ La dernière version de SeaTable propose un total de 13 actions d'automatisation
 - Ajouter un enregistrement dans un autre tableau
 - Exécuter un script Python
 - Appeler l'IA
+- Gérer les rendez-vous dans Google Agenda
 - Exécuter un traitement de données
 - Convertir une page en PDF
 - Créer un PDF à partir d'un document et l'envoyer
+- Archiver
 
 ## Ajouter, dupliquer, déplacer et supprimer des actions d'automatisation
 
@@ -186,6 +186,23 @@ L'action d'automatisation "Appeler l'IA" est actuellement disponible pour les **
 - Lorsqu'une ligne est ajoutée
 - À une heure programmée
 
+## Action d'automatisation : Gérer les rendez-vous dans Google Agenda
+
+Si vous sélectionnez "Gérer les rendez-vous dans Google Agenda" comme action automatisée, un rendez-vous de SeaTable sera créé ou mis à jour dans un Google Agenda lorsque le déclencheur est déclenché. Il y a quelques conditions à remplir pour que cette action fonctionne correctement :
+- Tout d'abord, vous devez [synchroniser votre compte Google Agenda avec SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
+- Dans un tableau, il doit y avoir deux [colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) qui définissent le **début** et la **fin** des dates.
+- Vous avez également besoin d'une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) dans laquelle Google peut enregistrer l'**ID de l'événement** afin de synchroniser les rendez-vous.
+
+![conditions préalables pour la gestion des événements dans Google Calendar](images/manage-events-in-google-calendar-part-1.png)
+
+En outre, vous pouvez définir d'autres paramètres. Ajoutez un **titre**, une **description**, un **lieu** et des **participants** au rendez-vous. Pour ce faire, écrivez les informations dans les **champs de texte** ou utilisez les **références de colonne entre accolades** pour insérer des valeurs spécifiques du tableau. En activant les **régulateurs**, vous pouvez décider si vous souhaitez envoyer des notifications, s'il s'agit d'une vidéoconférence et si les invités peuvent modifier le rendez-vous, voir la liste des invités et inviter d'autres invités.
+
+![Autres paramètres pour les événements dans Google Calendar](images/manage-events-in-google-calendar-part-2.png)
+
+L'action d'automatisation "Gérer les événements dans Google Agenda" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
+- Lorsqu'une ligne est mise à jour
+- Lorsqu'une ligne est ajoutée
+
 ## Action d'automatisation : Exécuter un traitement des données
 
 Si vous choisissez d'exécuter un traitement de données comme action automatisée, le déclencheur déclenchera une [opération de traitement de données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) définie à l'avance dans la table. Vous pouvez configurer précisément l'opération à effectuer dans les **Paramètres de l'action**. Selon le type d'opération, **certaines colonnes d'entrée et de sortie** peuvent être nécessaires.
@@ -227,3 +244,13 @@ Si vous souhaitez ensuite envoyer le document généré, activez le curseur "Env
 
 L'action d'automatisation "Créer un PDF à partir d'un document et l'envoyer" est actuellement disponible pour le **déclencheur d'automatisation** suivant :
 - À une heure programmée
+
+## Action d'automatisation : Archiver
+
+L'action d'archivage vous permet de [déplacer automatiquement des lignes vers le stockage Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). Pour cela, la fonction Big Data doit bien sûr être activée dans la base concernée. Comme vous définissez déjà la **vue** et les éventuelles conditions de filtrage pour les lignes à archiver dans les paramètres du déclencheur, vous ne pouvez effectuer aucun réglage pour l'action elle-même.
+
+![archiver des lignes par automatisation](images/automated-action-archive.png)
+
+L'action d'automatisation "Archiver" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
+- À une heure programmée
+- À une heure programmée pour les enregistrements qui correspondent aux conditions

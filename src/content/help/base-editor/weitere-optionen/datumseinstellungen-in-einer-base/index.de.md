@@ -32,4 +32,4 @@ Datumseinstellungen einer Base, die zu einer Gruppe gehört, können **ausschlie
 
 Eine Anpassung in den Datumseinstellungen führt dazu, dass im Kalendersteuerelement von [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) der gewählte Tag in die erste Spalte rückt. Dies gilt für die aktuell geöffnete Base und für alle auf ihr basierenden Apps.
 
-Im [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) sowie auf der [Kalenderseite in der App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}) können Sie den ersten Tag der Woche allerdings weiterhin individuell und unabhängig von der Einstellung in der Base konfigurieren.
+In der [Kalender-Ansicht]({{< relref "help/base-editor/ansichten/die-kalender-ansicht" >}}) sowie auf der [Kalenderseite in der App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}) können Sie den ersten Tag der Woche allerdings weiterhin individuell und unabhängig von der Einstellung in der Base konfigurieren.

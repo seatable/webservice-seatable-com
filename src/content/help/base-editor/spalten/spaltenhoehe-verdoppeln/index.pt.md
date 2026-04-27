@@ -1,5 +1,5 @@
 ---
-title: 'Duplicar a altura do cabeçalho da mesa'
+title: 'Duplicar a altura do cabeçalho da tabela'
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:
@@ -18,8 +18,8 @@ Duplicar a **altura do cabeçalho da tabela para** poder ler completamente os no
 
 ![Altura dupla da coluna](images/Spaltenhoehe-verdoppeln.gif)
 
-1. Clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} na extrema direita do cabeçalho da mesa.
-2. Seleccionar a opção **Definir Altura do Cabeçalho da Mesa**.
+1. Clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} na extrema direita do cabeçalho da tabela.
+2. Seleccionar a opção **Definir altura do cabeçalho da tabela**.
 3. Clique na opção **Duplo**.
 
 {{< warning  headline="Nota"  text="Para retornar o cabeçalho da tabela ao seu **tamanho original**, siga os mesmos passos e clique na opção **Simples**." />}}

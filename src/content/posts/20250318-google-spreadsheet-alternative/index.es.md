@@ -46,7 +46,7 @@ Google Sheets, en cambio, ofrece una funcionalidad significativamente mejorada p
 
 ## Ventajas y desventajas de Google Spreadsheet
 
-Tanto particulares como organizaciones de todo el mundo utilizan Google a diario para crear una hoja de cálculo. Algunas de sus características la convierten en una opción atractiva para los usuarios que buscan una [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) que sea **flexible y esté basada en la nube**. Por otro lado, también existen algunos escollos que no debes subestimar. En definitiva, merece la pena analizar los pros y los contras.
+Tanto particulares como organizaciones de todo el mundo utilizan Google a diario para crear una hoja de cálculo. Algunas de sus características la convierten en una opción atractiva para los usuarios que buscan una [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) que sea **flexible y esté basada en la nube**. Por otro lado, también existen algunos escollos que no debes subestimar. En definitiva, merece la pena analizar los pros y los contras.
 
 ### Ventajas
 

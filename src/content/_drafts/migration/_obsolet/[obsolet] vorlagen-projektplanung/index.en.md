@@ -67,7 +67,7 @@ To create your project plan, [register for free on SeaTable]({{< relref "pages/r
 
 Below you can see five project plan examples from the template library.
 
-**Project plan template for [marketing]({{< relref "pages/industry-solutions/marketing" >}})**  
+**Project plan template for [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}})**  
 With the help of this template, you have the opportunity to [plan](https://seatable.io/en/vorlage/hntk-vocrksmyj-9746vka/) your [actions for a project in advance](https://seatable.io/en/vorlage/hntk-vocrksmyj-9746vka/). You enter responsible departments and persons, a priority, the due date, to-dos and more.
 
 The example template is about [planning the marketing and communication activities of](https://seatable.io/en/marketingplan-vorlage/) a fictitious, large company. The project planning takes place one year in advance.

@@ -53,7 +53,7 @@ Tienes varias opciones para gestionar tu colección. Existen aplicaciones y prog
 
 ### Evernote: la aplicación de notas para capturar y gestionar rápidamente sus colecciones
 
-Una opción para gestionar las colecciones es [Evernote](https://evernote.com/intl/de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
+Una opción para gestionar las colecciones es [Evernote](https://evernote.com/de-de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
 
 ![Alguien mira la herramienta Evernote para gestionar su colección.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
@@ -65,7 +65,7 @@ El software [Data Crow](https://www.datacrow.net/) es especialmente adecuado par
 
 ### GCstar - software gratuito de recogida
 
-Otro programa gratuito de gestión de cobros es [GCstar](http://www.gcstar.org/). Este programa de gestión tiene las mismas funciones de registro y gestión de colecciones que Data Crow. También tiene la opción de enriquecer su colección con información de Internet. Guarde el lugar donde adquirió el artículo y registre si presta el artículo de la colección a alguien. Por supuesto, además de los medios de comunicación, también puedes inventariar otros objetos. Si le interesa una solución de código abierto, puede instalar Data Crow y GCstar a modo de prueba y comparar las interfaces.
+Otro programa gratuito de gestión de cobros es [GCstar](https://gitlab.com/GCstar/). Este programa de gestión tiene las mismas funciones de registro y gestión de colecciones que Data Crow. También tiene la opción de enriquecer su colección con información de Internet. Guarde el lugar donde adquirió el artículo y registre si presta el artículo de la colección a alguien. Por supuesto, además de los medios de comunicación, también puedes inventariar otros objetos. Si le interesa una solución de código abierto, puede instalar Data Crow y GCstar a modo de prueba y comparar las interfaces.
 
 ### Software especializado para coleccionistas
 

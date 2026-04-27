@@ -57,7 +57,7 @@ Même si vous n'avez peut-être pas (encore) besoin de traiter vous-même d'éno
 
 Imaginez que vous avez créé une entreprise. En plus de votre magasin spécialisé stationnaire, vous avez maintenant décidé de vendre vos marchandises en ligne. Au début, vous recevez 2 à 4 commandes par jour. Il est donc assez facile de saisir les informations relatives aux commandes dans un **tableur**. Vous commencez à faire de la publicité en ligne et votre entreprise est soudain en plein essor. Le volume des commandes augmente et vous décidez d'ajouter encore plus de produits à votre assortiment.
 
-La quantité d'informations que vous devez traiter chaque jour peut surcharger un tableur comme [Excel]({{< relref "pages/excel-alternative" >}}). La feuille de calcul devient inerte ou se fige, car la **capacité de stockage** est tout simplement trop faible. En revanche, l'un des avantages des bases de données, comme nous l'avons déjà mentionné plus haut, est qu'elles ont une capacité de stockage beaucoup plus importante et qu'elles évoluent sans problème avec votre entreprise. Elles sont donc nettement plus **évolutives** que les simples tableaux.
+La quantité d'informations que vous devez traiter chaque jour peut surcharger un tableur comme [Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}). La feuille de calcul devient inerte ou se fige, car la **capacité de stockage** est tout simplement trop faible. En revanche, l'un des avantages des bases de données, comme nous l'avons déjà mentionné plus haut, est qu'elles ont une capacité de stockage beaucoup plus importante et qu'elles évoluent sans problème avec votre entreprise. Elles sont donc nettement plus **évolutives** que les simples tableaux.
 
 ### 2\. gérer plusieurs utilisateurs en même temps
 

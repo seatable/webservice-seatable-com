@@ -52,55 +52,55 @@ weight = 30
 [[main]]
 name = "Marketing"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/marketing"
+pageRef = "pages/landing-pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Gestão de Projectos"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/project-management"
+pageRef = "pages/landing-pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "Recursos Humanos"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/hr"
+pageRef = "pages/landing-pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Setor Público"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/public-service"
+pageRef = "pages/landing-pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Desenvolvimento de Software"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/software-development"
+pageRef = "pages/landing-pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "Personalizado"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/individual"
+pageRef = "pages/landing-pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
 name = "Operações"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/operations"
+pageRef = "pages/landing-pages/industry-solutions/operations"
 weight = 37
 
 [[main]]
 name = "Vendas"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/kundenmanagement"
+pageRef = "pages/landing-pages/industry-solutions/kundenmanagement"
 weight = 39
 
 [[main]]
 name = "Finanças"
 parent = "Soluções"
-pageRef = "pages/industry-solutions/finanzplan-erstellen"
+pageRef = "pages/landing-pages/industry-solutions/finanzplan-erstellen"
 weight = 38
 
 [[main]]

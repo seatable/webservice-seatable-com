@@ -2,6 +2,7 @@
 title: 'Com estes 4 passos para uma gestão perfeita do produto - SeaTable'
 description: 'Do planejamento à análise: veja como estruturar todas as etapas do gerenciamento de produtos, centralizar contatos e extrair valor dos dados para impulsionar resultados e vendas. Otimize o processo com dicas eficientes e um modelo flexível.'
 date: 2021-04-29
+lastmod: '2023-07-11'
 categories:
     - 'best-practice'
 tags: 
@@ -38,7 +39,7 @@ As tarefas de gestão do produto incluem todas as fases pelas quais um produto p
 - **Conceito**: desenvolvimento de estratégia para o mercado, preço, distribuição, comunicação; protótipo, visão geral dos custos
 - **Implementação**: implementação técnica, implementação de estratégias, lançamento de produtos
 
-Além disso, há algumas tarefas de organização que um gestor de produto assume. Actua como uma **interface** entre [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [vendas]({{< relref "templates/sales/sales-pipeline" >}}) e desenvolvimento de produtos, bem como produção. Para as etapas individuais do processo de desenvolvimento do produto, o gestor do produto também coordena o **[Gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}})**. A gestão do produto está, portanto, também muito ocupada com a formação e análises estratégicas, que ocorrem para além da concepção e desenvolvimento do próprio produto.
+Além disso, há algumas tarefas de organização que um gestor de produto assume. Actua como uma **interface** entre [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [vendas]({{< relref "templates/sales/sales-pipeline" >}}) e desenvolvimento de produtos, bem como produção. Para as etapas individuais do processo de desenvolvimento do produto, o gestor do produto também coordena o **[Gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})**. A gestão do produto está, portanto, também muito ocupada com a formação e análises estratégicas, que ocorrem para além da concepção e desenvolvimento do próprio produto.
 
 ### Desafios na gestão de produtos
 
@@ -72,7 +73,7 @@ Na ficha do produto encontrará toda a informação importante sobre o produto
 
 ### 3\. todos os contactos num relance
 
-No processo de desenvolvimento do produto, o produto passa por uma série de departamentos diferentes. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), vendas, fábrica de produção, fotografia e também retalho são importantes pontos de contacto diários no trabalho de um gestor de produto. É então prático se todos os dados de contacto forem recolhidos num único local e assim acessíveis a todos. Isto é tão útil para o substituto de férias como para o novo estagiário! Além disso, também podem ser acrescentadas informações, tais como actas de reuniões, documentos importantes ou marcações telefónicas futuras. Com SeaTable, criar um livro de endereços dentro de uma mesa não é absolutamente nenhum problema.
+No processo de desenvolvimento do produto, o produto passa por uma série de departamentos diferentes. [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), vendas, fábrica de produção, fotografia e também retalho são importantes pontos de contacto diários no trabalho de um gestor de produto. É então prático se todos os dados de contacto forem recolhidos num único local e assim acessíveis a todos. Isto é tão útil para o substituto de férias como para o novo estagiário! Além disso, também podem ser acrescentadas informações, tais como actas de reuniões, documentos importantes ou marcações telefónicas futuras. Com SeaTable, criar um livro de endereços dentro de uma tabela não é absolutamente nenhum problema.
 
 ![Os dados de contacto de fornecedores e clientes são muito importantes para uma boa gestão do produto](Suppliers-and-Contacts.jpg)
 
@@ -80,7 +81,7 @@ Anote todos os dados de contacto importantes dos seus fornecedores e clientes
 
 ### 4\. Avaliar inteligentemente os números de vendas
 
-Na gestão de produtos, as vendas são um importante instrumento de controlo para avaliar o sucesso das medidas e estratégias. Haverá talvez uma loja que não se esteja a sair nada bem? Os produtos têm de ser apresentados de novo ou o sortido estruturado de forma diferente? Os números das vendas são números-chave extremamente importantes para as empresas das quais podem extrair informações valiosas. Se as vendas são boas, isto é prova de boa gestão do produto e de que os objectivos estabelecidos foram alcançados. Se houver necessidade de melhorias, os números de vendas também podem fornecer informações sobre isto. Se os números das vendas incluírem mesmo dados demográficos, que podem ser recolhidos através do comércio em linha, por exemplo, a análise do grupo-alvo pode ser significativamente optimizada - por exemplo, criando [personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) ou adaptando a estratégia de marketing a segmentos específicos do grupo-alvo.
+Na gestão de produtos, as vendas são um importante instrumento de controlo para avaliar o sucesso das medidas e estratégias. Haverá talvez uma loja que não se esteja a sair nada bem? Os produtos têm de ser apresentados de novo ou o sortido estruturado de forma diferente? Os números das vendas são números-chave extremamente importantes para as empresas das quais podem extrair informações valiosas. Se as vendas são boas, isto é prova de boa gestão do produto e de que os objectivos estabelecidos foram alcançados. Se houver necessidade de melhorias, os números de vendas também podem fornecer informações sobre isto. Se os números das vendas incluírem mesmo dados demográficos, que podem ser recolhidos através do comércio em linha, por exemplo, a análise do grupo-alvo pode ser significativamente optimizada - por exemplo, criando [personas](https://reachx.de/artikel/6-punkte-anleitung-zur-erstellung-individueller-personas) ou adaptando a estratégia de marketing a segmentos específicos do grupo-alvo.
 
 ![Os números de vendas também desempenham um papel importante na gestão de produtos. Com SeaTable não se perde nada de vista](Sales_1.jpg)
 

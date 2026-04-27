@@ -1,0 +1,29 @@
+{{ $name := .Get "name" }}
+{{ $file := .Get "file" }}
+{{ $text := .Get "text" | default "Download this base and run the script directly." }}
+{{ $ext := path.Ext $file | default ".dtable" }}
+{{ with .Inner }}{{ end }}
+
+<aside class="group relative mb-12 mt-8 flex items-center gap-4 rounded-md border border-gray-200 bg-gray-50 px-5 py-4 text-base shadow-sm">
+    <!-- Download icon -->
+    <div class="flex-shrink-0">
+        <span class="dtable-font dtable-icon-download" style="font-size: 32px; color: #f88000;"></span>
+    </div>
+    <!-- Text content -->
+    <div class="flex-grow">
+        <strong class="block font-poppins text-base font-bold text-gray-800">{{ $name }}</strong>
+        <span class="text-sm text-gray-500">{{ $text }}</span>
+    </div>
+    <!-- Download button -->
+    <a
+        href="{{ $file }}"
+        download
+        class="flex-shrink-0 inline-flex items-center gap-2 rounded-lg border border-seatable-orange bg-white px-4 py-2 font-poppins text-sm font-bold !text-seatable-orange no-underline transition hover:bg-seatable-orange hover:!text-white">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="7 10 12 15 17 10"></polyline>
+            <line x1="12" y1="15" x2="12" y2="3"></line>
+        </svg>
+        {{ $ext }}
+    </a>
+</aside>

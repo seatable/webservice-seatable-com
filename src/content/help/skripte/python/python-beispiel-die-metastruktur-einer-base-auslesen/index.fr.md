@@ -11,10 +11,14 @@ aliases:
 seo:
     title: 'Exemple Python : lire la métastructure d’une base'
     description: 'Apprenez à lire et organiser la métastructure d’une base SeaTable avec un script Python – liens, colonnes et sortie détaillée.'
-
+weight: 4
 ---
 
 Cet article vous présente un script Python qui permet d'afficher la métastructure complète d'une base. Ceci est par exemple utile si vous avez une question sur une base dans le [forum de la communauté](https://forum.seatable.com/) et que vous souhaitez décrire la structure de votre base de manière simple et rapide sans avoir recours à des captures d'écran.
+
+![Sortie de la métastructure dans SeaTable](base-metadata.png)
+
+{{< dtable-download name="Base Metadata" file="/downloads/python-examples/base-metadata.dtable" text="Base avec plusieurs tables et liens pour essayer." />}}
 
 ## La métastructure d'une base
 

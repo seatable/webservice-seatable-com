@@ -1,19 +1,21 @@
 ---
-title: 'Pages de calendrier dans les applications universelles'
+title: 'Pages de calendrier dans les applications de SeaTable'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/pages-calendrier-apps-universelles'
+url: '/fr/aide/pages-calendrier-apps-seatable'
 aliases:
     - '/fr/aide/kalenderseiten-in-universellen-apps'
+    - '/fr/aide/pages-calendrier-apps-universelles'
 seo:
-    title: 'Pages calendrier dans les apps universelles'
-    description: 'Calendrier dans SeaTable: organisez rendez-vous et projets dans l app universelle, filtres et édition inclus.'
+    title: 'Pages calendrier dans les apps de SeaTable'
+    description: 'Pages de calendrier dans SeaTable: organisez rendez-vous et projets dans les applications, filtres et édition inclus.'
+weight: 5
 ---
 
-Ce type de page de l'application universelle fonctionne de la même manière que le [plug-in]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de votre tableau dans un **calendrier**. Une application concrète pourrait être, par exemple, la représentation calendaire de **réunions** à venir.
+Ce type de page vous permet d'afficher les entrées d'une ou deux [colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de votre tableau dans un **calendrier**. Une application concrète pourrait être, par exemple, la représentation calendaire de **réunions** à venir.
 
 ![Réunions à venir dans une vue de calendrier de la page de calendrier](images/calendar-page-example.png)
 
@@ -31,19 +33,19 @@ Dans les **paramètres de la page**, vous pouvez notamment choisir le **titre**,
 
 Vous pouvez définir **des filtres prédéfinis** et **des colonnes masquées** afin de limiter les données affichées pour les utilisateurs.
 
-![Ajouter un filtre sur les pages de calendrier dans les applications universelles](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Ajouter un filtre sur les pages de calendrier](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Pour ce faire, cliquez sur **Ajouter un filtre**, sélectionnez la **colonne** et la **condition** souhaitées et confirmez en cliquant sur **Envoyer**.
 
 Les utilisateurs peuvent afficher plus d'informations sur un rendez-vous en cliquant sur une entrée du calendrier.
 
-![Ouvrir des entrées de calendrier dans l'application universelle](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
+![Ouvrir des entrées de calendrier dans une application](images/Kalendereintraege-in-der-Universellen-App-oeffnen.gif)
 
 Décidez donc quelles données doivent être **visibles** et affichez ou masquez les colonnes correspondantes à l'aide des **curseurs**.
 
-![Masquer les colonnes des pages de calendrier dans les applications universelles](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
+![Masquer les colonnes des pages de calendrier](images/Hide-columns-on-calendar-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier****les filtres prédéfinis** et les **colonnes masquées**. Ils n'obtiennent donc que les données filtrées, comme ils le souhaitent." />}}
+{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier les filtres prédéfinis** et les **colonnes masquées**. Ils n'obtiennent donc que les données filtrées, comme ils le souhaitent." />}}
 
 ## Ajouter une entrée de calendrier
 
@@ -58,6 +60,20 @@ Indépendamment de la date, vous pouvez également cliquer sur le grand **symbol
 Vous pouvez modifier les entrées du calendrier très facilement en **cliquant sur une entrée** et en effectuant les modifications souhaitées dans les **détails de la ligne** qui s'ouvrent. De plus, vous pouvez facilement **déplacer** les entrées du calendrier **par glisser-déposer**. SeaTable ajuste automatiquement les valeurs dans [les colonnes de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) correspondantes.
 
 ![Déplacer et modifier des entrées sur les pages du calendrier](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
+
+## Paramètres de la colonne des liens
+
+Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et quelles opérations sont autorisées.
+
+![Paramètres de colonne de lien sur les pages de calendrier](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
+
+- **Paramètres des colonnes** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
+- **Ajouter et relier de nouveaux enregistrements**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des champs permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
+- **Relier des enregistrements existants**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres de champ.
+- **Limiter les liens à une ligne maximum**: Si vous activez ce curseur, les utilisateurs ne pourront plus lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne des liens.
+- **Filtres prédéfinis**: si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la création de liens vers des entrées.
+- **Activer la fonction Big Data**: Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20.000 enregistrements, à condition qu'il y ait autant d'entrées dans le tableau lié.
+- **Modifier les enregistrements reliés** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
 
 ## Autorisations des pages
 

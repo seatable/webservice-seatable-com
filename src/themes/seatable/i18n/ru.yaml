@@ -155,6 +155,8 @@ price_table:
     advanced_sharing: 'Расширенный доступ'
     advanced_customization: 'Расширенная настройка'
     automations: 'Автоматизация'
+    automations_per_user: 'Автоматизаций на пользователя'
+    unlimited_automations: 'Неограниченные автоматизации'
     big_data_storage: 'Хранилище Big Data'
     bank_transfer_payment: 'Оплата банковским переводом'
     unlimited_api_calls: 'Неограниченные API-вызовы'
@@ -170,11 +172,12 @@ price_table:
     monthly_billing: 'Ежемесячная оплата'
     min_100_users: 'Минимум 100 пользователей'
     team_saml: Single Sign-On через SAML
+    ai_credits: 'Кредиты ИИ'
     ai_credits_per_user: Кредиты ИИ на пользователя
 
     year: Год
     years: Лет
-    user: Пользователь
+    user: Пользователей
     yearly_license: '-годовая лицензия'
     download: 'Скачать бесплатно'
     buy: 'Оформить подписку'

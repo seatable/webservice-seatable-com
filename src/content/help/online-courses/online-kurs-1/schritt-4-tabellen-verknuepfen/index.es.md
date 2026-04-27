@@ -28,7 +28,7 @@ Enlazar registros de datos es una de las funciones centrales de SeaTable, lo que
 Para poder crear enlaces, necesitamos una segunda tabla, que crearemos a continuación.
 
 1. Crear una segunda tabla con el nombre `Categories` en la misma base.
-2. La mesa `Categories` sólo requiere una columna: `Name`. Se crea por defecto, por lo que no es necesario hacer nada aquí.
+2. La tabla `Categories` sólo requiere una columna: `Name`. Se crea por defecto, por lo que no es necesario hacer nada aquí.
 3. Añadir manualmente cuatro entradas a la tabla `Categories` en:
 
     - `Travel`
@@ -38,7 +38,7 @@ Para poder crear enlaces, necesitamos una segunda tabla, que crearemos a continu
 
     ![Tabla «Categories» con cuatro categorías de ejemplo: Travel, Clothing, Groceries, Leisure](images/level1-categories.png)
 
-4. Volver a la mesa `Expenses`.
+4. Volver a la table `Expenses`.
 
 5. Inserta otra columna. Dale a la nueva columna el nombre `Category-Link` y seleccione el tipo de columna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` off. La columna enlaza con la tabla `Categories`.  
    ![Diálogo para crear la columna de enlace «Category-Link» hacia la tabla «Categories»](images/level1-create-link-column.png)
@@ -58,8 +58,8 @@ Para ello, cree una nueva operación de tratamiento de datos con el nombre `Assi
 
 También debe realizar los siguientes ajustes para que SeaTable sepa cómo desea vincular sus datos:
 
-- Mesa: `Expenses`
-- Otra mesa: `Categories`
+- Tabla: `Expenses`
+- Otra tabla: `Categories`
 - Si columna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Columna: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 

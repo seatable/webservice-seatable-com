@@ -19,7 +19,7 @@ seo:
 
 As circunstâncias em 2020 alteraram significativamente a forma como o trabalho é efectuado nas empresas. De acordo com uma [sondagem](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx) recente [da Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 em cada 10 trabalhadores remotos gostariam de manter esta forma de trabalhar até certo ponto.
 
-No entanto, para os vendedores que não estão habituados à venda à distância, esta pode revelar-se um desafio, uma vez que é muito diferente da venda pessoal ou tradicional. No entanto, o trabalho à distância pode trazer muitos [benefícios](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/) ao processo, desde que seja praticado correctamente. Pode melhorar o processo de vendas, aumentar a produtividade da sua equipa e preencher o seu pipeline de vendas sem ter de sair da sua secretária.
+No entanto, para os vendedores que não estão habituados à venda à distância, esta pode revelar-se um desafio, uma vez que é muito diferente da venda pessoal ou tradicional. No entanto, o trabalho à distância pode trazer muitos [benefícios](https://myquickcloud.com/blog/benefits-of-remote-work/) ao processo, desde que seja praticado correctamente. Pode melhorar o processo de vendas, aumentar a produtividade da sua equipa e preencher o seu pipeline de vendas sem ter de sair da sua secretária.
 
 Neste artigo, mostramos-lhe como uma equipa de vendas remota pode gerir e monitorizar de forma óptima os seus processos de marketing e vendas.
 
@@ -49,7 +49,7 @@ As ferramentas de gestão de projectos permitem que o seu pessoal acompanhe os p
 
 A colaboração entre diferentes regiões geográficas e fusos horários não é fácil. Google Workspace, Miro e Podio são algumas das melhores ferramentas de colaboração para vendedores.
 
-A [SeaTable]({{< relref "/" >}}) é outra das melhores aplicações de gestão de informação colaborativa da sua classe. A aplicação sem código tem soluções para [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [vendas]({{< relref "templates/sales/sales-pipeline" >}}) e [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) que ajudam as equipas de vendas remotas a captar, estruturar e avaliar diferentes tipos de informação.
+A [SeaTable]({{< relref "/" >}}) é outra das melhores aplicações de gestão de informação colaborativa da sua classe. A aplicação sem código tem soluções para [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [vendas]({{< relref "templates/sales/sales-pipeline" >}}) e [gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) que ajudam as equipas de vendas remotas a captar, estruturar e avaliar diferentes tipos de informação.
 
 ![O SeaTable oferece várias soluções para equipas de vendas remotas que apoiam a recolha, estruturação e avaliação de diferentes tipos de informação](Ansicht_Offers.png)
 
@@ -67,7 +67,7 @@ Devem também procurar relatórios de objectivos de vendas para ver se os vended
 
 ### Automatizar sempre que possível
 
-De acordo com [estatísticas de vendas recentes](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/), cerca de 71% dos vendedores desperdiçam a maior parte do seu tempo produtivo com a introdução manual de dados. Com a automatização das vendas e a inteligência artificial, o trabalho dos vendedores é facilitado.
+De acordo com estatísticas de vendas recentes, cerca de 71% dos vendedores desperdiçam a maior parte do seu tempo produtivo com a introdução manual de dados. Com a automatização das vendas e a inteligência artificial, o trabalho dos vendedores é facilitado.
 
 A automatização dos processos de vendas ajuda a equipa de vendas remota a ter um melhor desempenho, mantendo-a no fluxo de trabalho e poupando o seu valioso tempo e energia. Os gestores podem dimensionar eficazmente a sua equipa de vendas e decidir para onde dirigir os esforços para obter os melhores resultados.
 
@@ -95,7 +95,7 @@ Para tal, é importante tomar medidas preventivas para encorajar os trabalhadore
 
 As interacções sociais em equipas remotas melhoram as capacidades de comunicação, tornam as reuniões mais produtivas e criam boas relações de equipa.
 
-É também uma boa ideia encorajar os seus empregados a passarem tempo juntos fora do trabalho ou atribuir um orçamento para actividades de formação de equipas. As interacções que ocorrem durante estas actividades podem melhorar as capacidades de comunicação e ajudar [a prevenir o esgotamento](https://breadnbeyond.com/articles/wfh-burnout/). Além disso, pode tornar as reuniões mais produtivas e criar boas relações de equipa.
+É também uma boa ideia encorajar os seus empregados a passarem tempo juntos fora do trabalho ou atribuir um orçamento para actividades de formação de equipas. As interacções que ocorrem durante estas actividades podem melhorar as capacidades de comunicação e ajudar [a prevenir o esgotamento](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). Além disso, pode tornar as reuniões mais produtivas e criar boas relações de equipa.
 
 ### Conclusão
 

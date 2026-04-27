@@ -75,7 +75,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use the editorial plan template online'
       subtitle: 'Your advantages at a glance'
-      description: 'The AI no-code solution SeaTable offers flexibility, automation, and real-time teamwork. With editorial and content plan templates, you can centrally manage all your multi-channel content, keep track of status and capacities, and create a uniform basis for your content marketing—more efficiently than a traditional Excel editorial plan approach or static systems. Use SeaTable as a powerful [marketing tool]({{< relref "pages/industry-solutions/marketing" >}}) and templates become scalable marketing processes.'
+      description: 'The AI no-code solution SeaTable offers flexibility, automation, and real-time teamwork. With editorial and content plan templates, you can centrally manage all your multi-channel content, keep track of status and capacities, and create a uniform basis for your content marketing—more efficiently than a traditional Excel editorial plan approach or static systems. Use SeaTable as a powerful [marketing tool]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) and templates become scalable marketing processes.'
       items:
       - text: '**Always up to date:** With comments, change history, and real-time updates, your editorial planning always stays up to date—from the initial idea to the final publication.'
       - text: '**Access from anywhere:** As a digital editorial calendar, your content plan is available at any time—in the office, at home, or on the go, even for agencies and freelancers.'
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'AI-supported editorial planning'
       subtitle: 'Smart automation in content marketing'
-      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/ai-automations" >}}), that automate your editorial planning, content creation, and evaluation. This turns your editorial plan template into an intelligent content hub that takes care of routine tasks and gives marketing teams more time for creativity and strategy.'
+      description: 'With SeaTable, you can use powerful [AI features]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), that automate your editorial planning, content creation, and evaluation. This turns your editorial plan template into an intelligent content hub that takes care of routine tasks and gives marketing teams more time for creativity and strategy.'
       items:
       - headline: 'Classification of content with Classify'
         text: 'With Classify, you can automatically organize new content in your editorial plan by channel, format, topic, or funnel phase and structure your content plan without any manual effort. This allows you to identify which content types you use most frequently and where there are still gaps in your editorial calendar.'

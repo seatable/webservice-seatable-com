@@ -12,7 +12,6 @@ seo:
 
 ---
 
-{{< required-version "Enterprise" >}}
 
 Wenn Sie über ein Enterprise-Abo verfügen, können Sie Benachrichtigungen auch per Automation an ausgewählte Benutzer versenden. Definieren Sie hierfür einfach eine entsprechende Automatisierungsregel für eine beliebige Tabellenansicht.
 

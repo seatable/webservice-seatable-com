@@ -21,7 +21,7 @@ Als Software-as-a-Service ist Asana auf die Organisation, Verwaltung und Dokumen
 
 ## Warum sollte man sich nach Alternativen umsehen?
 
-Wer einmal einen genaueren Blick auf den Markt wirft, erkennt schnell, dass es nicht nur Asana als [Projektmanagement-Tool](https://seatable.io/projekt-management-tool/) gibt. Zahlreiche Asana-Alternativen bieten die gleichen Vorteile wie das bekannte Tool – auch wenn sie bisher eher noch unter dem Radar schwirren. Doch es lohnt sich, genauer hinzuschauen. Denn viele der Alternativen bieten nicht nur die gleichen, sondern auch zusätzliche Features, von denen Teams beim [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) deutlich mehr profitieren können.
+Wer einmal einen genaueren Blick auf den Markt wirft, erkennt schnell, dass es nicht nur Asana als [Projektmanagement-Tool](https://seatable.io/projekt-management-tool/) gibt. Zahlreiche Asana-Alternativen bieten die gleichen Vorteile wie das bekannte Tool – auch wenn sie bisher eher noch unter dem Radar schwirren. Doch es lohnt sich, genauer hinzuschauen. Denn viele der Alternativen bieten nicht nur die gleichen, sondern auch zusätzliche Features, von denen Teams beim [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) deutlich mehr profitieren können.
 
 Vor allem untypische, unbekanntere Tools können durchaus mit dem Asana-Projektmanagement mithalten und mit nützlichen Funktionen überzeugen. Welche Alternativen wirklich vielversprechend sind, zeigt die folgende Übersicht.
 

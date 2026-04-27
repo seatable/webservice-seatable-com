@@ -21,7 +21,7 @@ Ihre Aufgaben sollten Sie dabei priorisieren, damit wichtige Dinge zuerst erledi
 
 ## Wieso Time Blocking?
 
-Arbeitsunterbrechungen gehören im Arbeitsalltag dazu – denn nicht jeder hat einen eigenen Büroraum, in dem er ungestört arbeiten kann. Insbesondere bei der Arbeit mit vielen Schnittstellen, wie etwa im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), sind Arbeitsunterbrechungen fast unvermeidbar. Anrufe, laute Umgebung und ad-hoc zugerufene Aufgaben sind in Großraumbüros keine Seltenheit.
+Arbeitsunterbrechungen gehören im Arbeitsalltag dazu – denn nicht jeder hat einen eigenen Büroraum, in dem er ungestört arbeiten kann. Insbesondere bei der Arbeit mit vielen Schnittstellen, wie etwa im [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), sind Arbeitsunterbrechungen fast unvermeidbar. Anrufe, laute Umgebung und ad-hoc zugerufene Aufgaben sind in Großraumbüros keine Seltenheit.
 
 Während des Arbeitsflusses ständig unterbrochen zu werden, hemmt aber die Produktivität deutlich. Auch Multitasking ist ein Produktivitätskiller, der sogar die Gesundheit belasten kann, wie [eine Studie der BAuA herausfand](https://www.baua.de/DE/Angebote/Publikationen/Praxis/A78.pdf?__blob=publicationFile&v). Die Arbeitsqualität verschlechtert sich, denn Sie kommen fast nie in den Zustand hoher Konzentration und Produktivität hat kaum eine Chance, überhaupt erst zu entstehen.
 
@@ -41,7 +41,7 @@ Das Aufgaben Batching konzentriert sich darauf, kleinere und ähnliche Aufgaben 
 
 **Tagesthemen**: „Montags werde ich mich immer um die Markt- und Konkurrenzrecherchen kümmern, Dienstags konzentriere ich mich auf die Berichterstattung über unsere Produkte“
 
-Es kann auch helfen, ganze Wochentage nach bestimmten Themen zu planen. Das kann funktionieren, wenn man mehrere Aufgabenbereiche verantwortet und betreut, wie etwa [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), Vertrieb oder Personal. Um dabei in jedem Bereich informiert zu sein und auf wichtige Themen reagieren zu können, ist es ratsam, Meetings dieser Bereiche nicht auf den selben Tag zu legen, sondern ihnen separate Tage zuzuordnen. So kann sich davor mit neuen Erkenntnissen, Fragen, Problemen oder Neuigkeiten beschäftigt werden und danach mit den Ergebnissen des Meetings gearbeitet werden. Das thematische Aufteilen auf verschiedene Tage reduziert den Kontextwechsel und gibt mental klarere Strukturen.
+Es kann auch helfen, ganze Wochentage nach bestimmten Themen zu planen. Das kann funktionieren, wenn man mehrere Aufgabenbereiche verantwortet und betreut, wie etwa [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), Vertrieb oder Personal. Um dabei in jedem Bereich informiert zu sein und auf wichtige Themen reagieren zu können, ist es ratsam, Meetings dieser Bereiche nicht auf den selben Tag zu legen, sondern ihnen separate Tage zuzuordnen. So kann sich davor mit neuen Erkenntnissen, Fragen, Problemen oder Neuigkeiten beschäftigt werden und danach mit den Ergebnissen des Meetings gearbeitet werden. Das thematische Aufteilen auf verschiedene Tage reduziert den Kontextwechsel und gibt mental klarere Strukturen.
 
 **Time Boxing**: „Heute werde ich von 12 bis 13 Uhr das Briefing fertigstellen“
 

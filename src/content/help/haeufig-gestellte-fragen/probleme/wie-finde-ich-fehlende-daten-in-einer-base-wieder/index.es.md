@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo encontrar los datos que faltan en una Base? - TablaMar'
+title: '¿Cómo encontrar los datos que faltan en una Base?'
 date: 2023-03-21
 lastmod: '2023-03-21'
 categories:

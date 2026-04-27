@@ -56,7 +56,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Guarda-roupa digital e planeador de roupas da SeaTable'
       subtitle: Mais flexível do que outros aplicativos de guarda-roupa
-      description: Uma lista simples em aplicativos de anotações ou no Excel é rápida de criar, mas também pode ser confusa. Com a [solução de IA no-code SeaTable]({{< relref "/" >}}), é possível criar o seu próprio aplicativo de guarda-roupa pessoal para um armário organizado e **mais transparência e clareza na sua vida cotidiana**.
+      description: Uma lista simples em aplicativos de anotações ou no Excel é rápida de criar, mas também pode ser confusa. Com a [solução de IA no-code SeaTable]({{< relref "/" >}}), é possível criar o seu próprio aplicativo de guarda-roupa pessoal para um [armário organizado]({{< relref "posts/kleiderschrank-organisieren" >}}) e **mais transparência e clareza na sua vida cotidiana**.
       items:
       - text: '**Sempre atualizado**: novas peças ou ideias podem ser adicionadas a qualquer momento e estão sempre atualizadas.'
       - text: '**Acesso a partir de qualquer lugar**: com a solução em nuvem, o utilizador tem sempre o seu guarda-roupa completo consigo.'
@@ -116,7 +116,7 @@ sections:
       weight: 16
       title: 'O seu guarda-roupa digital com funcionalidades de IA'
       subtitle: 'Assistente inteligente para o dia a dia'
-      description: Com o SeaTable, beneficia de poderosas [automações baseadas em IA]({{< relref "pages/ai-automations" >}}). Resuma textos descritivos de forma concisa, extraia instruções de cuidados ou gere sugestões de roupas — **totalmente em conformidade com o RGPD em servidores europeus na Alemanha**.
+      description: Com o SeaTable, beneficia de poderosas [automações baseadas em IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Resuma textos descritivos de forma concisa, extraia instruções de cuidados ou gere sugestões de roupas — **totalmente em conformidade com o RGPD em servidores europeus na Alemanha**.
       items:
       - headline: Resumos automáticos com o Summarize
         text: Registre notas sobre a ocasião, o estado de espírito e o conforto, e gere automaticamente um título curto para cada roupa. A visualização do calendário oferece uma visão geral concisa do look, sem a necessidade de ler todo o registo de dados.

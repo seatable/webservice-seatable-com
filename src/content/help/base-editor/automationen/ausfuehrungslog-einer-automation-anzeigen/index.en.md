@@ -14,9 +14,7 @@ seo:
 weight: 8
 ---
 
-{{< required-version "Enterprise" >}}
-
-To check the **correct execution of an automation**, you have the possibility to view the **execution log**. In this log, SeaTable records the following information for each automation run: execution time, execution condition, status and warnings, if any.
+To check the **correct execution of an automation**, you have the possibility to view the **execution log**. In this log, SeaTable records the following information for each automation run: execution time, execution condition, status and warnings, if any. There are also comprehensive **statistics** for all automation runs.
 
 {{< warning  headline="Important note"  text="Each execution of an automation is called an **automation run**." />}}
 
@@ -45,3 +43,12 @@ The status indicates whether the automation was executed successfully. If this i
 
 **Warnings**  
 If there were problems during the execution of an automation, a corresponding warning message appears here.
+
+## Statistics of all automation runs
+
+You can also view the statistics on **how many automation runs have taken place in total within the base**, regardless of individual automation rules. This allows you to find out how often your automation rules are triggered and how many of the automation runs available to you in your monthly subscription you have already used.
+
+1. Click on **Statistic** in the top right-hand corner of the open automation editor.
+![open the automation run statistics](images/open-automation-statistic.png)
+2. This opens a window in which you can see the **number of all automations executed per day**.
+![Automation run statistics](images/automation-statistic.png)

@@ -47,7 +47,7 @@ Si le résultat d'une formule est un nombre (par exemple, pour les formules somm
 
 ### De meilleures statistiques
 
-Le module de statistiques de SeaTable utilise la [bibliothèque de logiciels de visualisation de données open source G2](https://g2.antv.vision/en). G2 permet de générer une variété d'évaluations basées sur le web de manière interactive et dynamique dans SeaTable.
+Le module de statistiques de SeaTable utilise la [bibliothèque de logiciels de visualisation de données open source G2](https://g2.antv.antgroup.com/en). G2 permet de générer une variété d'évaluations basées sur le web de manière interactive et dynamique dans SeaTable.
 
 Dans SeaTable 1.5 nous avons mis à jour G2 à la version actuelle 4.0. Celle-ci a été publiée au printemps 2020 par l'équipe de visualisation des données du groupe Ant. Avec quelques améliorations concernant l'intégration, cette mise à jour augmente la fiabilité et la stabilité globales du module de statistiques.
 

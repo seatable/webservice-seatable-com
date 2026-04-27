@@ -55,7 +55,7 @@ The Scrum method is used for particularly complex projects in which not all task
 **3\. kanban**  
 You've probably heard of it before. This method works particularly well with the visualization of tasks and is therefore very popular in task management. In this type of task management, tasks are moved from one column to the next in the form of Kanban cards on a visual Kanban board - usually from "Open" to "Doing" to "Done".
 
-You can see that the methods differ in their approach and that some may be better suited to your project than others. In all cases, however, you need a task management tool that supports you in all task areas to successfully complete your project. There are many different providers for this, all of which have their advantages and disadvantages. SeaTable has the decisive advantage of being a flexible software that can not only map the entire project, but also any other processes such as [time tracking]({{< relref "pages/arbeitszeiterfassung" >}}), [CRM]({{< relref "posts/crm-angebotsmanagement" >}}) or the creation of an editorial plan.
+You can see that the methods differ in their approach and that some may be better suited to your project than others. In all cases, however, you need a task management tool that supports you in all task areas to successfully complete your project. There are many different providers for this, all of which have their advantages and disadvantages. SeaTable has the decisive advantage of being a flexible software that can not only map the entire project, but also any other processes such as [time tracking]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}), [CRM]({{< relref "posts/crm-angebotsmanagement" >}}) or the creation of an editorial plan.
 
 As a project management tool, SeaTable is highly flexible and can be **customized to meet all your needs**. With SeaTable, you can involve your employees in the project, simplify work and communication processes and **structure your project from start to finish** with the help of clear task assignments and descriptions.
 
@@ -77,7 +77,7 @@ SeaTable allows direct communication within the tables, eliminating the need for
 
 ## Task management with the Kanban board
 
-For better visualization and easier handling of task management, the Kanban plugin is just the thing. The integrated plugin works like all common Kanban task management tools and enables tasks to be moved back and forth in the form of cards based on various classification categories, such as status. When a task is completed, the person responsible can simply move the card from "doing" to "done" and the task is marked as completed.
+For better visualization and easier handling of task management, the Kanban view is just the thing. The integrated view works like all common Kanban task management tools and enables tasks to be moved back and forth in the form of cards based on various classification categories, such as status. When a task is completed, the person responsible can simply move the card from "doing" to "done" and the task is marked as completed.
 
 ![The Kanban board makes your task management easier](Kanban-board-711x457.jpg)
 
@@ -93,15 +93,15 @@ If the views in our task management template are really only to be seen by the r
 
 ## Always keep an eye on the time: With the timeline and calendar
 
-The timeline plug-in is a great help in visualising the time of your entire task management. With it, you can see at a glance whether you are still on track with your time planning or whether some tasks are already behind schedule. By setting the start date and deadline of the task, it can be perfectly displayed in the timeline. Define which other information should be displayed, such as the person responsible, the exact deadline or the to-dos.
+The timeline view is a great help in visualising the time of your entire task management. With it, you can see at a glance whether you are still on track with your time planning or whether some tasks are already behind schedule. By setting the start date and deadline of the task, it can be perfectly displayed in the timeline. Define which other information should be displayed, such as the person responsible, the exact deadline or the to-dos.
 
 For individual staff views, you create your own views for each staff member in advance. This way, everyone sees their own tasks in their own timeline and knows how much time is left for individual tasks. You can also see how busy your employees are when planning tasks and can reschedule if the workload is unevenly distributed.
 
 ![Plan your to-do list for perfect timing](Timeline.gif)
 
-Similar to the timeline plug-in, the calendar plug-in offers a temporal overview of the entire project and all planning stages of task management, but entirely in calendar style. The view by day, week, month, year or entirely in the agenda view enables a day-by-day view of the project steps and shows on which day how much needs to be done. Here, too, the creation of personal staff boards is possible without any problems based on the views created.
+Similar to the timeline view, the calendar view offers a temporal overview of the entire project and all planning stages of task management, but entirely in calendar style. The view by day, week, month, year or entirely in the agenda view enables a day-by-day view of the project steps and shows on which day how much needs to be done. Here, too, the creation of personal staff boards is possible without any problems based on the views created.
 
-![Visualise your task management with the calendar plugin](Cal.gif)
+![Visualise your task management with the calendar view](Cal.gif)
 
 ## Receive all project progress automatically
 

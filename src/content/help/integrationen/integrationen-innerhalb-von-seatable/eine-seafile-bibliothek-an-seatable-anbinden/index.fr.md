@@ -1,5 +1,5 @@
 ---
-title: 'Connecter une bibliothèque Seafile à SeaTable - SeaTable'
+title: 'Connecter une bibliothèque Seafile à SeaTable'
 date: 2023-06-27
 lastmod: '2023-06-27'
 categories:

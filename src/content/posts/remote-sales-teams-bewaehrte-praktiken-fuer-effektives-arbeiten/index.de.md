@@ -20,7 +20,7 @@ seo:
 
 Die Umstände im Jahr 2020 haben die Art und Weise, wie in Unternehmen gearbeitet wird, erheblich verändert. Gemäß einer kürzlich durchgeführten [Gallup-Umfrage](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx) möchten 9 von 10 Remote-Arbeitnehmern diese Arbeitsweise in gewissem Umfang beibehalten.
 
-Für Vertriebsmitarbeiter, die nicht an den Remote-Verkauf gewöhnt sind, kann sich dies jedoch als Herausforderung erweisen, da dieser sich erheblich von dem Verkauf von Mensch zu Mensch oder dem traditionellen Verkauf unterscheidet. Die Remote-Arbeit kann dabei jedoch viele [Vorteile](https://myquickcloud.com/blog/productivity/benefits-of-remote-work/) mit sich bringen, vorausgesetzt sie wird richtig praktiziert. Sie kann den Verkaufsprozess verbessern, die Produktivität Ihres Teams steigern und Ihre Vertriebspipeline füllen, ohne dass Sie Ihren Schreibtisch verlassen müssen.
+Für Vertriebsmitarbeiter, die nicht an den Remote-Verkauf gewöhnt sind, kann sich dies jedoch als Herausforderung erweisen, da dieser sich erheblich von dem Verkauf von Mensch zu Mensch oder dem traditionellen Verkauf unterscheidet. Die Remote-Arbeit kann dabei jedoch viele [Vorteile](https://myquickcloud.com/blog/benefits-of-remote-work/) mit sich bringen, vorausgesetzt sie wird richtig praktiziert. Sie kann den Verkaufsprozess verbessern, die Produktivität Ihres Teams steigern und Ihre Vertriebspipeline füllen, ohne dass Sie Ihren Schreibtisch verlassen müssen.
 
 In diesem Artikel zeigen wir Ihnen, wie ein Remote Sales Team seine Marketing- und Verkaufsprozesse optimal verwalten und überwachen kann.
 
@@ -50,7 +50,7 @@ Projektmanagement-Tools ermöglichen es Ihren Mitarbeitern, Projekte im Blick zu
 
 Die Zusammenarbeit über verschiedene geografische Regionen und Zeitzonen hinweg ist nicht einfach. Google Workspace, Miro und Podio sind einige der besten Kollaborations-Tools für Vertriebsmitarbeiter.
 
-[SeaTable]({{< relref "/" >}}) ist eine weitere erstklassige kollaborative Anwendung für das Informationsmanagement. Die No-Code-Anwendung verfügt über Lösungen für [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), die Remote Sales Teams bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen.
+[SeaTable]({{< relref "/" >}}) ist eine weitere erstklassige kollaborative Anwendung für das Informationsmanagement. Die No-Code-Anwendung verfügt über Lösungen für [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), die Remote Sales Teams bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen.
 
 ![SeaTable bietet verschiedene Lösungen für Remote Sales Teams, die bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen](Ansicht_Offers.png)
 
@@ -68,7 +68,7 @@ Sie sollten sich auch nach Berichten über Verkaufsziele erkundigen, um zu sehen
 
 ### Automatisieren Sie, wo immer es möglich ist
 
-[Jüngsten Vertriebsstatistiken](https://www.heinzmarketing.com/2015/02/15-inside-sales-statistics-last-weeks-aa-isp-front-lines-conference/) zufolge verschwenden etwa 71 % der Vertriebsmitarbeiter den Großteil ihrer produktiven Zeit mit manuellen Eingaben. Mit Vertriebsautomatisierung und künstlicher Intelligenz wird die Arbeit von Vertriebsmitarbeitern erleichtert.
+Jüngsten Vertriebsstatistiken zufolge verschwenden etwa 71 % der Vertriebsmitarbeiter den Großteil ihrer produktiven Zeit mit manuellen Eingaben. Mit Vertriebsautomatisierung und künstlicher Intelligenz wird die Arbeit von Vertriebsmitarbeitern erleichtert.
 
 Die Automatisierung von Vertriebsprozessen hilft dem Remote Sales Team, bessere Leistungen zu erbringen, weil es im Workflow bleibt und seine wertvolle Zeit und Energie spart. Manager können ihr Vertriebsteam effektiv skalieren und entscheiden, wohin der Aufwand für optimale Ergebnisse gelenkt werden soll.
 
@@ -96,7 +96,7 @@ Zu diesem Zweck ist es wichtig, vorbeugende Maßnahmen zu ergreifen, um die Arbe
 
 Soziale Interaktionen in Remote Teams fördern die Kommunikationsfähigkeiten, machen Meetings produktiver und schaffen gute Teambeziehungen.
 
-Eine gute Idee ist außerdem, Ihre Mitarbeiter zu ermutigen, auch Zeit außerhalb der Arbeit miteinander zu verbringen, oder ein Budget für teambildende Aktivitäten zur Verfügung zu stellen. Die bei diesen Aktivitäten stattfindenden Interaktionen können die Kommunikationsfähigkeiten verbessern und dabei helfen, [Burnout zu vermeiden](https://breadnbeyond.com/articles/wfh-burnout/). Darüber hinaus können Sie Meetings produktiver machen und gute Teambeziehungen schaffen.
+Eine gute Idee ist außerdem, Ihre Mitarbeiter zu ermutigen, auch Zeit außerhalb der Arbeit miteinander zu verbringen, oder ein Budget für teambildende Aktivitäten zur Verfügung zu stellen. Die bei diesen Aktivitäten stattfindenden Interaktionen können die Kommunikationsfähigkeiten verbessern und dabei helfen, [Burnout zu vermeiden](https://breadnbeyond.medium.com/creative-burnout-9c7c1fe2a433). Darüber hinaus können Sie Meetings produktiver machen und gute Teambeziehungen schaffen.
 
 ### Fazit
 

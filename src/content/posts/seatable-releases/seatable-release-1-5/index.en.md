@@ -48,7 +48,7 @@ When a formula result is numerical (e.g., sum, roundup, average), all format set
 
 ### Statistics upgrade
 
-SeaTable's statistics module makes use of the open-source [data visualization library G2](https://g2.antv.vision/en). G2 allows SeaTable to generate a multitude of web-based views interactively and dynamically.
+SeaTable's statistics module makes use of the open-source [data visualization library G2](https://g2.antv.antgroup.com/en). G2 allows SeaTable to generate a multitude of web-based views interactively and dynamically.
 
 In SeaTable 1.5, we have updated G2 to the current version 4.0 which had been released earlier in 2020 by the data visualization team from the Ant Group. Together with some changes in its integration in SeaTable, this upgrade improves the general reliability and stability of the statistics module.
 

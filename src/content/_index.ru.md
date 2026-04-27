@@ -38,32 +38,32 @@ sections:
       - icon: 'chart-simple'
         headline: 'Маркетинг'
         text: 'Планируйте кампании, управляйте лидами и анализируйте результаты в SeaTable. Автоматизируйте процессы с помощью ИИ и оптимизируйте маркетинговую стратегию.'
-        link: '/pages/industry-solutions/marketing'
+        link: '/pages/landing-pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
         headline: 'Управление проектами'
         text: 'Используйте диаграммы Ганта и канбан-доски для эффективного управления проектами. Отслеживайте прогресс и координируйте команды в SeaTable.'
-        link: '/pages/industry-solutions/project-management'
+        link: '/pages/landing-pages/industry-solutions/project-management'
 
       - icon: 'people-group'
         headline: 'HR и кадры'
         text: 'Управляйте данными сотрудников, обучением и запросами на отпуск. Оптимизируйте HR-процессы и повышайте вовлеченность персонала.'
-        link: '/pages/industry-solutions/hr'
+        link: '/pages/landing-pages/industry-solutions/hr'
 
       - icon: 'building'
         headline: 'Государственный сектор'
         text: 'Управляйте личными делами, данными о квалификации и заявками. Оптимизируйте процессы и повышайте прозрачность в госучреждениях.'
-        link: '/pages/industry-solutions/public-service'
+        link: '/pages/landing-pages/industry-solutions/public-service'
 
       - icon: 'terminal'
         headline: 'Разработка ПО'
         text: 'Управляйте бэклогами, инцидентами, багами и релизами. Оптимизируйте процесс разработки и улучшайте коммуникацию в команде.'
-        link: '/pages/industry-solutions/software-development'
+        link: '/pages/landing-pages/industry-solutions/software-development'
 
       - icon: 'fingerprint'
         headline: 'Индивидуальные решения'
         text: 'Создавайте кастомизированные приложения для специфических нужд Вашего бизнеса. Автоматизируйте процессы и повышайте эффективность.'
-        link: '/pages/industry-solutions/individual'
+        link: '/pages/landing-pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -250,31 +250,31 @@ sections:
     text: "Как альтернатива Airtable, SeaTable предлагает полноценные функции No-code базы данных, автоматизацию с ИИ, конструктор приложений и возможность работы On-premises с соблюдением требований безопасности."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе Airtable"
-      link: "/pages/airtable-alternative"
+      link: "/pages/landing-pages/alternatives/airtable-alternative"
   - subtitle: Управление задачами и проектами
     title: Альтернатива Asana
     text: "SeaTable объединяет управление задачами, планирование ресурсов, дашборды и работу с файлами, выступая мощной альтернативой Asana с функциями ИИ."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе Asana"
-      link: "/pages/asana-alternative"
+      link: "/pages/landing-pages/alternatives/asana-alternative"
   - subtitle: ИИ-автоматизация, коллаборация
     title: Альтернатива Excel и Microsoft Access
     text: "От простых списков до сложных моделей данных: SeaTable заменяет устаревшие базы данных, предлагая современные инструменты автоматизации и защиты."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе Excel"
-      link: "/pages/excel-alternative"
+      link: "/pages/landing-pages/alternatives/excel-alternative"
   - subtitle: Гибкость и защита данных
     title: Альтернатива Personio
     text: "Оцифруйте HR-процессы. Управляйте персоналом и конфиденциальными данными эффективно и гибко, используя индивидуальные дашборды."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе Personio"
-      link: "/pages/personio-alternative"
+      link: "/pages/landing-pages/alternatives/personio-alternative"
   - subtitle: Процессы продаж, масштабируемость
     title: Альтернатива HubSpot
     text: "Самая гибкая CRM-альтернатива: соберите данные о продажах на одной платформе с автоматизацией процессов и аналитикой на базе ИИ."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе HubSpot"
-      link: "/pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
   - subtitle: База знаний, реляционные данные
     title: Альтернатива Notion
     text: "SeaTable сочетает управление знаниями, структурированные данные и конструктор приложений — комплексное решение для бизнеса."

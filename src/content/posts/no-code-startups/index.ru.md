@@ -49,7 +49,7 @@ register:
 
 ### Иметь одно решение для всего
 
-Традиционное программное обеспечение для бизнеса обычно охватывает только одну область (например, [маркетинг]({{< relref "pages/industry-solutions/marketing" >}}), [человеческие ресурсы]({{< relref "pages/industry-solutions/hr" >}}) или [бухгалтерский учет]({{< relref "posts/debitorenbuchhaltung" >}})) или определенные процессы (например, [учет рабочего времени]({{< relref "templates/projects/project-time-tracking" >}}), [выставление счетов]({{< relref "posts/fakturierung" >}}) или [поддержка клиентов]({{< relref "posts/no-code-crm" >}})). С другой стороны, No-code – это **универсальное оружие**, с помощью которого Вы можете гибко отобразить любой процесс.
+Традиционное программное обеспечение для бизнеса обычно охватывает только одну область (например, [маркетинг]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [человеческие ресурсы]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) или [бухгалтерский учет]({{< relref "posts/debitorenbuchhaltung" >}})) или определенные процессы (например, [учет рабочего времени]({{< relref "templates/projects/project-time-tracking" >}}), [выставление счетов]({{< relref "posts/fakturierung" >}}) или [поддержка клиентов]({{< relref "posts/no-code-crm" >}})). С другой стороны, No-code – это **универсальное оружие**, с помощью которого Вы можете гибко отобразить любой процесс.
 
 ### Сосредоточьтесь на главном
 
@@ -116,7 +116,7 @@ register:
 *   [совместная работа]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) в режиме реального времени
 *   [учет рабочего времени]({{< relref "templates/human-resources/recording-working-time" >}})
 *   [управление персоналом]({{< relref "posts/20250317-hris" >}})
-*   [рекрутинг]({{< relref "posts/20250317-recruiting" >}}) и [Управление соискателями]({{< relref "pages/bewerbermanagement" >}})
+*   [рекрутинг]({{< relref "posts/20250317-recruiting" >}}) и [Управление соискателями]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}})
 
 ## Подходящие шаблоны для основания стартапа
 

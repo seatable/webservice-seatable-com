@@ -69,7 +69,7 @@ Mediante el menú contextual de filas, al que se accede en las tablas haciendo c
 
 Los registros en los detalles de las filas son más compactos en SeaTable 3.4 que antes. Todos los cambios que un usuario ha realizado en una fila en un momento determinado se muestran en una entrada colectiva. Anteriormente, se mostraba una entrada de registro separada para cada cambio.
 
-Hasta ahora, el límite de líneas por base se mantenía en 100.000 líneas. Si se superaba el límite, la base sólo podía abrirse en modo lectura. Con SeaTable 3.4, los autoalojadores tienen más control sobre el límite de líneas. En determinados casos de uso, el límite puede aumentarse a través de los archivos de configuración. Encontrará más información al respecto en el [manual de Sea](https://manual.seatable.io/config/base_rows_limit/)Table.
+Hasta ahora, el límite de líneas por base se mantenía en 100.000 líneas. Si se superaba el límite, la base sólo podía abrirse en modo lectura. Con SeaTable 3.4, los autoalojadores tienen más control sobre el límite de líneas. En determinados casos de uso, el límite puede aumentarse a través de los archivos de configuración. Encontrará más información al respecto en el [manual de Sea](https://admin.seatable.com/configuration/base-rows-limit/)Table.
 
 ## Dos limitaciones funcionales
 

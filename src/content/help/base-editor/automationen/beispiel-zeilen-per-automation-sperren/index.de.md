@@ -72,7 +72,6 @@ Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren eine
 - [Automationen stoppen]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Automationen löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Ausführungslog einer Automation anzeigen]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
-- [Warum finde ich Automationen in meiner Base nicht?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Automations-Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Verlinken von Einträgen per Automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})

@@ -120,9 +120,9 @@ Kanban prospera con la mejora continua. No se limite a recoger opiniones, utilí
 
 ## ¿Cómo puede utilizar el método Kanban?
 
-Veamos con más detalle cómo puede aplicar el método Kanban. Siguiendo el primer principio básico, seleccione cualquier flujo de trabajo existente. En principio, también puede crear su tablero Kanban en una pizarra blanca con notas adhesivas o hacer algo en Excel. Sin embargo, un tablero digital es más transparente y flexible, como ya ofrecen la mayoría de los [sistemas de gestión del trabajo]({{< relref "pages/industry-solutions/individual" >}}), en algunos casos de forma gratuita. Siga estos sencillos pasos:
+Veamos con más detalle cómo puede aplicar el método Kanban. Siguiendo el primer principio básico, seleccione cualquier flujo de trabajo existente. En principio, también puede crear su tablero Kanban en una pizarra blanca con notas adhesivas o hacer algo en Excel. Sin embargo, un tablero digital es más transparente y flexible, como ya ofrecen la mayoría de los [sistemas de gestión del trabajo]({{< relref "pages/landing-pages/industry-solutions/individual" >}}), en algunos casos de forma gratuita. Siga estos sencillos pasos:
 
-1\. Cree un tablero vacío: El tablero es la base sobre la que trabajará más adelante. Tómese su tiempo para pensar qué pasos de trabajo desea mapear en lugar de inundar el tablero con todo su backlog. Si utiliza una solución sin código como SeaTable, puede utilizar el plugin Kanban.
+1\. Cree un tablero vacío: El tablero es la base sobre la que trabajará más adelante. Tómese su tiempo para pensar qué pasos de trabajo desea mapear en lugar de inundar el tablero con todo su backlog. Si utiliza una solución sin código como SeaTable, puede utilizar la vista Kanban.
 
 2\. Cree columnas para visualizar sus procesos: Por lo general, las columnas individuales representan diferentes pasos del proceso o estados de la tarea, pero básicamente usted es completamente libre aquí. Para empezar, lo mejor es trabajar con ***Backlog, En curso, En pausa*** y ***Completado.*** Es importante que todos los que trabajen con el tablero tengan una comprensión común de la estructura.
 
