@@ -281,7 +281,7 @@ sections:
     text: "The most flexible of all CRM alternatives: SeaTable brings all relevant sales data together in one platform with process automation and data analysis using AI. You can integrate your processes and teams into the tool without having to adapt to predefined structures—the most flexible and scalable solution among HubSpot alternatives."
     buttons:
     - label: "Learn more about SeaTable as a HubSpot alternative"
-      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/alternatives/hubspot-alternative"
   - subtitle: Knowledge management, relational data
     title: Notion alternative
     text: "SeaTable combines knowledge management, structured data, and collaborative tools with a no-code database, AI-powered automations, relational structures, and app builders—the GDPR-compliant solution among Notion alternatives for complex business requirements."

@@ -275,7 +275,7 @@ sections:
     text: "La alternativa de CRM más flexible: unifique sus datos de ventas, automatice procesos y analice información con IA sin tener que adaptarse a estructuras rígidas predefinidas."
     buttons:
     - label: "Saber más sobre SeaTable como alternativa a HubSpot"
-      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/alternatives/hubspot-alternative"
   - subtitle: Gestión del conocimiento y datos relacionales
     title: Alternativa a Notion
     text: "SeaTable combina la gestión del conocimiento con una base de datos no-code robusta y estructuras relacionales. La solución que cumple con el RGPD para requerimientos empresariales complejos."
