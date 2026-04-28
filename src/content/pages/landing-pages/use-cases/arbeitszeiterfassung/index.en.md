@@ -71,8 +71,8 @@ sections:
         - text: lets you respond to bottlenecks in a timely manner
         - text: 100% GDPR-compliant
         - text: flexibly customizable data structure
-      image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
-      image_alt: 'SeaTable Arbeitszeiterfassung mit Stundenübersicht und Tages-Salden'
+      image: /images/landing-page-arbeitszeiterfassung-01.png
+      image_alt: 'SeaTable Time Tracking with Hourly Summary and Daily Totals'
 
     - name: content-25
       weight: 7
@@ -81,24 +81,24 @@ sections:
       items:
       - headline: No-code app as an ESS
         text: With **SeaTables App Builder**, you can create custom ESS forms for your time tracking system. Your employees can independently enter overtime, [vacation]({{< relref "posts/20250324-urlaubsplanung" >}}), and sick leave without having access to the entire time tracking system. You can keep track of everything on the dashboard and are automatically notified of new entries or discrepancies. 
-        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+        image: /images/landing-page-arbeitszeiterfassung-02.png
+        image_alt: 'SeaTable Time Tracking with Customizable ESS'
       - headline: Easy data entry
         text: Your employees can easily track their working hours using **intuitive web forms**. For each form, SeaTable creates a new entry that only managers can view and edit. The time-tracking app automatically calculates hours worked, as well as overtime and under-hours, and **highlights the daily balance** in color. 
-        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+        image: /images/landing-page-arbeitszeiterfassung-03.png
+        image_alt: 'SeaTable web form for easy tracking of work hours'
       - headline: Monitoring and Reporting
         text: "At first glance, SeaTable's time tracking software resembles other tools, but it offers **advanced visualization features**: filters, sorting, grouping, various views, statistics dashboards, and a report designer plugin make it easier for you to monitor your employees' time tracking and create **compelling management reports**."
-        image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
-        image_alt: 'SeaTable Auswertung von Arbeitszeiten mit Kalender- und Statistikansicht'
+        image: /images/landing-page-arbeitszeiterfassung-04.png
+        image_alt: 'SeaTable: Tracking Work Hours with Calendar and Statistics Views'
       - headline: Time tracking, absence planner, and more
         text: When employees track their hours in different spreadsheets, consolidating the data is often tedious and prone to errors. With SeaTable as a time-tracking app, all data flows centrally into a secure, [online database]({{< relref "posts/online-datenbank-kostenlos" >}}). Using **views, sharing, and permissions**, you control who sees and edits which data—efficiently, organized, and accessible at all times.
-        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'
+        image: /images/landing-page-arbeitszeiterfassung-05.png
+        image_alt: 'SeaTable Overview with centrally stored work time and absence data'
       - headline: Smart Automations
         text: 'With built-in automations, your time tracking app becomes even more powerful! Send notifications or emails, edit entries, execute [AI actions]({{< relref "posts/ai-powered-automations" >}}), generate PDFs: With the intuitive drag-and-drop editor, you can define your desired triggers and let your time tracking system do the work.'
-        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'  
+        image: /images/landing-page-arbeitszeiterfassung-06.png
+        image_alt: 'SeaTable Time Tracking with AI Features for Smart Data Processing' 
     
     - name: "content-4"
       weight: 11
@@ -133,8 +133,8 @@ sections:
       title: Time tracking with SeaTable instead of Personio
       subtitle: Time Tracking and Human Resources Management 
       description: 'SeaTable is a compelling tool for time tracking and HR, easily serving as an [alternative to Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}). In a direct comparison, SeaTable stands out in particular for its fully **customizable data structure**, a broader range of features, a **no-code app builder for flexible ESS**, and **various hosting options**—for full control and [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}), companies can use SeaTable on-premises.' 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
-      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'      
+      image: /images/landing-page-arbeitszeiterfassung-07.png
+      image_alt: 'SeaTable Time Tracking as an Alternative to Personio'      
 
     - name: 'content-8'
       weight: 15
@@ -164,16 +164,16 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Perfect for businesses that want to get started quickly without needing a complex IT infrastructure—flexible and scalable.
-            image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Basis für HR- und Zeiterfassungsprozesse'
+            image: /images/landingpage_arbeitszeiterfassung_cloud.png
+            image_alt: 'SeaTable Cloud as the foundation for HR and time tracking processes'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
-            image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für interne HR-Workflows'
+            image: /images/landingpage_arbeitszeiterfassung_server.png
+            image_alt: 'SeaTable Server for time tracking with full data control'
           - headline: SeaTable Dedicated
             text: For businesses that need the simplicity of the cloud and the flexibility of a self-hosted system.  
-            image: /images/asana-dedicated.jpg
-            image_alt: 'SeaTable Dedicated Umgebung für skalierbare HR- und Zeiterfassungslösungen'
+            image: /images/landingpage_arbeitszeiterfassung_dedicated.png
+            image_alt: 'SeaTable Dedicated Environment for Scalable HR and Time Tracking Solutions'
               
     - name: "banner-2"
       weight: 17
