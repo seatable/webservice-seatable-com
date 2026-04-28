@@ -66,6 +66,7 @@ sections:
           - text: "**AI-powered automation** for streamlined processes"
           - text: "Intuitive **App Builder** for front-end use"
           - text: "Can be used as a **cloud solution or on-premises**"
+          - text: "Secure access with **single sign-on**"
       image: /images/landing-page-it-01.png
       image_alt: 'SeaTable interface for customized IT service management with tickets and assets'
 

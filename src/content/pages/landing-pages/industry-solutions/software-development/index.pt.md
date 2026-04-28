@@ -66,6 +66,7 @@ sections:
           - text: "**Automações assistidas por IA** para processos eficientes"
           - text: "**Construtor de aplicações intuitivo** para utilização front-end"
           - text: "Utilizável como **solução em nuvem ou localmente**"
+          - text: "Acesso seguro com **autenticação única**"
       image: /images/landing-page-it-01.png
       image_alt: 'Interface SeaTable para gestão individualizada de serviços de TI com tickets e ativos'
 

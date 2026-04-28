@@ -63,6 +63,7 @@ sections:
           - text: "**KI-unterstützte Automatisierungen** für schlanke Prozesse"
           - text: "**Intuitiver App Builder** für Frontend-Nutzung"
           - text: "Nutzbar als **Cloud-Lösung oder on-premises**"
+          - text: "Sicherer Zugang mit **Single Sign-On**"
       image: /images/landing-page-it-01.png
       image_alt: 'SeaTable Oberfläche für individuelles IT Service Management mit Tickets und Assets'
 
