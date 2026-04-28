@@ -70,8 +70,8 @@ sections:
         - text: "Construtor de aplicações no-code para **interfaces de utilizador intuitivas**"
         - text: "**100 % em conformidade com o RGPD**, com servidores europeus na Alemanha"
         - text: "**Preços transparentes, assinaturas escaláveis** e assistência ao cliente justa"
-      image: /images/hr-teamwork.jpg
-      image_alt: 'SeaTable Personio Alternative für Teamarbeit'    
+      image: /images/landing-page-hubspot_alternative-01.png
+      image_alt: 'O SeaTable como alternativa ao HubSpot para CRM e marketing'    
 
     - name: "content-4"
       weight: 5
@@ -135,18 +135,18 @@ sections:
       items:
       - headline: "Negócios e oportunidades sempre sob controlo"
         text: Com o SeaTable, pode configurar o seu CRM exatamente de acordo com as suas necessidades. Defina como os leads são qualificados, como os negócios são acompanhados e como as vendas são documentadas. Visualizações personalizadas, como Kanban ou Gantt, filtros e notificações automáticas mantêm a sua equipa sempre a par de tudo.
-        image: /images/Landing-Page_HR_Bewerbermanagement.png
-        image_alt: 'SeaTable Ansicht für KI-automatisiertes Bewerbermanagement im Recruiting'
+        image: /images/landing-page-hubspot-alternative-02.png
+        image_alt: 'Com o SeaTable como alternativa ao HubSpot, terá sempre tudo à vista através de várias visualizações'
 
       - headline: "Planear, acompanhar e otimizar campanhas"
         text: 'Reúna **todos os dados das campanhas de marketing num único local**: orçamentos, públicos-alvo, canais e métricas de desempenho são reunidos numa estrutura clara e transparente. **As alterações são visíveis em tempo real**, para que todos os envolvidos estejam sempre a par das últimas novidades.'
-        image: /images/Landing-Page_HR_Personalakte.png
-        image_alt: 'SeaTable Oberfläche für digitale, DSGVO-konforme Personalaktenverwaltung'
+        image: /images/landing-page-hubspot-alternative-03.png
+        image_alt: 'O SeaTable, uma alternativa ao HubSpot, oferece estatísticas e análises de funil'
 
       - headline: "Gerir centralmente as solicitações dos clientes"
         text: Configure o seu **serviço de apoio ao cliente exatamente da forma como a sua equipa trabalha**. Utilize o **construtor de aplicações no-code para portais de autoatendimento ao cliente** e formulários de contacto, e atribua automaticamente as solicitações recebidas aos colaboradores adequados.
-        image: /images/Landing-Page_HR_Zeiterfassung.png
-        image_alt: 'SeaTable HR Zeiterfassungsansicht mit Arbeitszeiten und Abwesenheiten'
+        image: /images/landing-page-hubspot-alternative-04.png
+        image_alt: 'O SeaTable, como alternativa ao HubSpot, oferece formulários web flexíveis para consultas de clientes'
       
     - name: content-12
       weight: 9
@@ -155,8 +155,8 @@ sections:
       title: "IA escalável da SeaTables em vez do HubSpot Breeze"
       subtitle: "Funcionalidades de IA avançadas"
       description: 'A HubSpot promete muito com a sua IA Breeze, mas as avaliações dos clientes e os fóruns revelam que algumas funcionalidades ainda não estão totalmente desenvolvidas. Além disso, uma análise dos preços da HubSpot mostra que o conjunto completo de funcionalidades da IA da HubSpot só está incluído nos planos superiores, nomeadamente nos planos Pro e Enterprise. E mesmo assim, terá de adquirir funcionalidades específicas separadamente ou pagar de acordo com o volume de utilização. Com o SeaTable, pode utilizar a [integração nativa de IA]({{< relref "posts/ai-in-seatable" >}}) **já na subscrição gratuita**, ligar o seu próprio LLM e comunicar em linguagem natural com o seu agente de IA através do plugin de chat de IA. Ou utilize o modelo de IA próprio do SeaTable para as [automatizações baseadas em IA]({{< relref "posts/ai-powered-automations" >}}) integradas, com ações de IA predefinidas para o processamento inteligente de dados.'
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
-      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'    
+      image: /images/landing-page-hubspot-alternative-05.png
+      image_alt: 'Funcionalidades de IA integradas no SeaTables para o processamento inteligente de dados'    
        
     - name: "content-5"
       weight: 10
@@ -173,15 +173,15 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Ideal para empresas sem uma infraestrutura de TI extensa – flexível e escalável.
-            image: /images/template-projektplan.png
-            image_alt: 'Modelo de plano de projeto do SeaTable Cloud para projetos orientados para o cliente'
+            image: /images/seatable_cloud_v1.png
+            image_alt: 'O SeaTable Cloud como alternativa ideal ao HubSpot'
           - headline: SeaTable Server
             text: Para empresas que pretendem manter o controlo total sobre os seus dados.
-            image: /images/template-massnahmenplan.jpg
-            image_alt: 'Modelo de plano de ação do SeaTable Server para a gestão de projetos de clientes'
+            image: /images/seatable_server_v1.png
+            image_alt: 'O SeaTable Server como alternativa ao HubSpot para um controlo total dos dados'
           - headline: SeaTable Dedicated
             text: A simplicidade da nuvem combinada com a flexibilidade de um sistema próprio.
-            image: /images/asana-dedicated.jpg
+            image: /images/seatable_dedicated_v1.png
             image_alt: 'Ambiente SeaTable Dedicated para uma gestão de clientes escalável na empresa'    
     
     - name: banner-2

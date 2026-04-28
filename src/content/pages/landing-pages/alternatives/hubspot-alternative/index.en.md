@@ -70,8 +70,8 @@ sections:
         - text: "No-code app builder for **user-friendly front ends**"
         - text: "**100% GDPR-compliant** with European servers located in Germany"
         - text: "**Transparent pricing, scalable subscriptions**, and fair support"
-      image: /images/hr-teamwork.jpg
-      image_alt: 'SeaTable Personio Alternative für Teamarbeit'    
+      image: /images/landing-page-hubspot_alternative-01.png
+      image_alt: 'SeaTable as a HubSpot alternative for CRM and marketing'     
 
     - name: "content-4"
       weight: 5
@@ -135,18 +135,18 @@ sections:
       items:
       - headline: "Keep track of deals and pipelines"
         text: With SeaTable, you can tailor your CRM exactly to your needs. Define how leads are qualified, deals are tracked, and closed deals are documented. Custom views like Kanban or Gantt charts, filters, and automated notifications keep your team up to date.
-        image: /images/Landing-Page_HR_Bewerbermanagement.png
-        image_alt: 'SeaTable Ansicht für KI-automatisiertes Bewerbermanagement im Recruiting'
+        image: /images/landing-page-hubspot-alternative-02.png
+        image_alt: 'With SeaTable as a HubSpot alternative, you always have everything at a glance thanks to its various views'
 
       - headline: "Plan, track, and optimize campaigns"
         text: 'Consolidate **all your marketing campaign data in one place**: budgets, target audiences, channels, and performance metrics are all brought together in a clear and transparent structure. **Changes are visible in real time**, ensuring that everyone involved is always up to date.'
-        image: /images/Landing-Page_HR_Personalakte.png
-        image_alt: 'SeaTable Oberfläche für digitale, DSGVO-konforme Personalaktenverwaltung'
+        image: /images/landing-page-hubspot-alternative-03.png
+        image_alt: 'As a HubSpot alternative, SeaTable offers statistics and funnel analysis'
 
       - headline: "Manage customer inquiries centrally"
         text: Configure your **customer service exactly the way your team actually works**. Use the **no-code app builder for customer self-service portals** and contact forms, and automatically assign incoming inquiries to the right employees.
-        image: /images/Landing-Page_HR_Zeiterfassung.png
-        image_alt: 'SeaTable HR Zeiterfassungsansicht mit Arbeitszeiten und Abwesenheiten'
+        image: /images/landing-page-hubspot-alternative-04.png
+        image_alt: 'SeaTable, a HubSpot alternative, offers flexible web forms for customer inquiries'
       
     - name: content-12
       weight: 9
@@ -155,8 +155,8 @@ sections:
       title: "SeaTable's scalable AI instead of HubSpot Breeze"
       subtitle: "Powerful AI features"
       description: 'HubSpot makes big promises with its AI tool Breeze, but customer reviews and forums show that some features aren’t fully developed yet. A look at HubSpot’s pricing also reveals that the full range of HubSpot AI features is only included in the higher tiers of the Pro and Enterprise plans. And even then, you have to purchase individual features separately or pay based on usage. With SeaTable, you can use the [native AI integration]({{< relref "posts/ai-in-seatable" >}}) **even in the Free plan**, connect your own LLM, and communicate with your AI agent in natural language via the AI chat plugin. Or use SeaTable’s own AI model for the built-in [AI-powered automations]({{< relref "posts/ai-powered-automations" >}}) with predefined AI actions for intelligent data processing.'
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
-      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'    
+      image: /images/landing-page-hubspot-alternative-05.png
+      image_alt: "SeaTable's built-in AI features for intelligent data processing"    
        
     - name: "content-5"
       weight: 10
@@ -173,15 +173,15 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Perfect for businesses without a large IT infrastructure—flexible and scalable.
-            image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud Project Plan Template for Client-Facing Projects'
+            image: /images/seatable_cloud_v1.png
+            image_alt: 'SeaTable Cloud: The Ideal HubSpot Alternative'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data.
-            image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server Action Plan Template for Managing Client Projects'
+            image: /images/seatable_server_v1.png
+            image_alt: 'SeaTable Server as a HubSpot alternative for full data control'
           - headline: SeaTable Dedicated
             text: The simplicity of the cloud combined with the flexibility of a self-hosted system.
-            image: /images/asana-dedicated.jpg
+            image: /images/seatable_dedicated_v1.png
             image_alt: 'SeaTable Dedicated Environment for Scalable Customer Management in the Enterprise'    
     
     - name: banner-2
