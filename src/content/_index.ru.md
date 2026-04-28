@@ -274,7 +274,7 @@ sections:
     text: "Самая гибкая CRM-альтернатива: соберите данные о продажах на одной платформе с автоматизацией процессов и аналитикой на базе ИИ."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе HubSpot"
-      link: "/pages/landing-pages/industry-solutions/kundenmanagement"
+      link: "/pages/landing-pages/alternatives/hubspot-alternative"
   - subtitle: База знаний, реляционные данные
     title: Альтернатива Notion
     text: "SeaTable сочетает управление знаниями, структурированные данные и конструктор приложений — комплексное решение для бизнеса."
