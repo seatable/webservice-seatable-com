@@ -164,15 +164,15 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Idéal pour les entreprises qui souhaitent se lancer rapidement sans avoir besoin d'une infrastructure informatique complexe.
-            image: /images/landingpage_arbeitszeiterfassung_cloud.png
+            image: /images/seatable_cloud_v1.png
             image_alt: 'Modèle de plan de projet SeaTable Cloud servant de base aux processus de gestion des ressources humaines et de suivi du temps de travail'
           - headline: SeaTable Server
             text: Pour les entreprises qui souhaitent garder le contrôle total de leurs données, SeaTable Server propose une solution sur site.
-            image: /images/landingpage_arbeitszeiterfassung_server.png
+            image: /images/seatable_server_v1.png
             image_alt: 'SeaTable Server pour la gestion des heures de travail avec un contrôle total des données'
           - headline: SeaTable Dedicated
             text: Pour les entreprises qui recherchent la simplicité du cloud et la flexibilité d'un système auto-hébergé.  
-            image: /images/landingpage_arbeitszeiterfassung_dedicated.png
+            image: /images/seatable_dedicated_v1.png
             image_alt: 'Environnement SeaTable dédié pour des solutions évolutives de gestion des ressources humaines et de suivi du temps de travail'
               
     - name: "banner-2"

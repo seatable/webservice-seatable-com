@@ -164,15 +164,15 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Perfect for businesses that want to get started quickly without needing a complex IT infrastructure—flexible and scalable.
-            image: /images/landingpage_arbeitszeiterfassung_cloud.png
+            image: /images/seatable_cloud_v1.png
             image_alt: 'SeaTable Cloud as the foundation for HR and time tracking processes'
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
-            image: /images/landingpage_arbeitszeiterfassung_server.png
+            image: /images/seatable_server_v1.png
             image_alt: 'SeaTable Server for time tracking with full data control'
           - headline: SeaTable Dedicated
             text: For businesses that need the simplicity of the cloud and the flexibility of a self-hosted system.  
-            image: /images/landingpage_arbeitszeiterfassung_dedicated.png
+            image: /images/seatable_dedicated_v1.png
             image_alt: 'SeaTable Dedicated Environment for Scalable HR and Time Tracking Solutions'
               
     - name: "banner-2"

@@ -164,15 +164,15 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Идеально подходит для компаний без обширной ИТ-инфраструктуры — гибкий и масштабируемый.
-            image: /images/landingpage_arbeitszeiterfassung_cloud.png
+            image: /images/seatable_cloud_v1.png
             image_alt: 'SeaTable Cloud в качестве основы для процессов управления персоналом и учета рабочего времени'
           - headline: SeaTable Server
             text: Для компаний, которые стремятся сохранить полный контроль над своими данными.
-            image: /images/landingpage_arbeitszeiterfassung_server.png
+            image: /images/seatable_server_v1.png
             image_alt: 'SeaTable Server для учета рабочего времени с полным контролем над данными'
           - headline: SeaTable Dedicated
             text: Простота облачного хранения в сочетании с гибкостью самостоятельно размещенной системы.  
-            image: /images/landingpage_arbeitszeiterfassung_dedicated.png
+            image: /images/seatable_dedicated_v1.png
             image_alt: 'Выделенная среда SeaTable для масштабируемых решений в области управления персоналом и учета рабочего времени'
               
     - name: "banner-2"
