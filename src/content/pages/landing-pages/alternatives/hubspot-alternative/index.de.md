@@ -70,7 +70,7 @@ sections:
         - text: "No-Code App Builder für **benutzerfreundliche Frontends**"
         - text: "**100 % DSGVO-konform** mit europäischen Servern in Deutschland"
         - text: "**Transparente Preise, skalierbare Subscriptions** und fairer Support"
-      image: /images/hr-teamwork.jpg
+      image: /images/landing-page-arbeitszeiterfassung-01.png
       image_alt: 'SeaTable Personio Alternative für Teamarbeit'    
 
     - name: "content-4"

@@ -71,8 +71,8 @@ sections:
         - text: позволяет своевременно реагировать на возникновение узких мест
         - text: 100% соответствует требованиям GDPR
         - text: гибко настраиваемая структура данных
-      image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
-      image_alt: 'SeaTable Arbeitszeiterfassung mit Stundenübersicht und Tages-Salden'
+      image: /images/landing-page-arbeitszeiterfassung-01.png
+      image_alt: 'SeaTable: учет рабочего времени с обзором часов и дневными балансами'
 
     - name: content-25
       weight: 7
@@ -81,24 +81,24 @@ sections:
       items:
       - headline: Приложение no-code в ESS
         text: С помощью **SeaTables App Builder** вы можете создавать настраиваемые формы ESS для вашей системы учета рабочего времени. Ваши сотрудники смогут самостоятельно вводить данные о сверхурочной работе, [отпусках]({{< relref "posts/20250324-urlaubsplanung" >}}) и больничных, не имея доступа ко всей системе учета рабочего времени. Вы сможете отслеживать всю информацию на панели управления и будете автоматически получать уведомления о новых записях или несоответствиях. 
-        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+        image: /images/landing-page-arbeitszeiterfassung-02.png
+        image_alt: 'Учет рабочего времени в SeaTable с настраиваемыми ESS'
       - headline: Простой ввод данных
         text: Ваши сотрудники могут легко отслеживать свои рабочие часы с помощью **интуитивно понятных веб-форм**. Для каждой формы SeaTable создает новую запись, которую могут просматривать и редактировать только руководители. Приложение для учета рабочего времени автоматически рассчитывает отработанные часы, а также сверхурочные и недоработанные часы, и **выделяет ежедневный баланс** цветом. 
-        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+        image: /images/landing-page-arbeitszeiterfassung-03.png
+        image_alt: 'Веб-форма SeaTable для удобного учета рабочего времени'
       - headline: Мониторинг и отчетность
         text: "На первый взгляд программа SeaTable для учета рабочего времени напоминает другие инструменты, однако она предлагает **расширенные возможности визуализации**: фильтры, сортировка, группировка, различные виды представления данных, информационные панели со статистикой и плагин для создания отчетов позволяют вам с большей легкостью отслеживать учет рабочего времени сотрудников и составлять **убедительные управленческие отчеты**."
-        image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
-        image_alt: 'SeaTable Auswertung von Arbeitszeiten mit Kalender- und Statistikansicht'
+        image: /images/landing-page-arbeitszeiterfassung-04.png
+        image_alt: 'SeaTable: анализ рабочего времени с помощью календарного и статистического просмотра'
       - headline: Учет рабочего времени, планировщик отсутствий и многое другое
         text: Когда сотрудники ведут учет рабочего времени в разных таблицах, объединение данных часто становится утомительным процессом, при котором легко допустить ошибки. Используя SeaTable в качестве приложения для учета рабочего времени, все данные централизованно поступают в безопасную [онлайн-базу данных]({{< relref "posts/online-datenbank-kostenlos" >}}). Используя **просмотры, обмен данными и права доступа**, вы контролируете, кто видит и редактирует какие данные — эффективно, упорядоченно и с постоянным доступом.
-        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'
+        image: /images/landing-page-arbeitszeiterfassung-05.png
+        image_alt: 'Обзор SeaTable с централизованным хранением данных о рабочем времени и отсутствиях'
       - headline: Интеллектуальная автоматизация
         text: 'Благодаря встроенным автоматизированным функциям ваше приложение для учета рабочего времени станет ещё более мощным! Отправляйте уведомления или электронные письма, редактируйте записи, выполняйте [действия на основе ИИ]({{< relref "posts/ai-powered-automations" >}}), создавайте PDF-файлы: с помощью интуитивно понятного редактора с функцией перетаскивания вы можете настроить нужные триггеры и позволить системе учета рабочего времени выполнять всю работу за вас.'
-        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'  
+        image: /images/landing-page-arbeitszeiterfassung-06.png
+        image_alt: 'SeaTable: система учета рабочего времени с функциями искусственного интеллекта для интеллектуальной обработки данных'  
     
     - name: "content-4"
       weight: 11
@@ -133,8 +133,8 @@ sections:
       title: Учет рабочего времени с помощью SeaTable вместо Personio
       subtitle: Учет рабочего времени и управление персоналом 
       description: 'SeaTable — это эффективный инструмент для учета рабочего времени и управления персоналом, который с легкостью может служить [альтернативой Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}). При прямом сравнении SeaTable выделяется, в частности, полностью **настраиваемой структурой данных**, более широким набором функций, **конструктором приложений no-code для гибкой системы ESS** и **различными вариантами хостинга** — для полного контроля и [суверенитета данных]({{< relref "posts/digitale-souveraenitaet" >}}), компании могут использовать SeaTable в локальной инсталляции.' 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
-      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'      
+      image: /images/landing-page-arbeitszeiterfassung-07.png
+      image_alt: 'SeaTable — система учета рабочего времени в качестве альтернативы Personio'      
 
     - name: 'content-8'
       weight: 15
@@ -164,16 +164,16 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: Идеально подходит для компаний без обширной ИТ-инфраструктуры — гибкий и масштабируемый.
-            image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Basis für HR- und Zeiterfassungsprozesse'
+            image: /images/landingpage_arbeitszeiterfassung_cloud.png
+            image_alt: 'SeaTable Cloud в качестве основы для процессов управления персоналом и учета рабочего времени'
           - headline: SeaTable Server
             text: Для компаний, которые стремятся сохранить полный контроль над своими данными.
-            image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für interne HR-Workflows'
+            image: /images/landingpage_arbeitszeiterfassung_server.png
+            image_alt: 'SeaTable Server для учета рабочего времени с полным контролем над данными'
           - headline: SeaTable Dedicated
             text: Простота облачного хранения в сочетании с гибкостью самостоятельно размещенной системы.  
-            image: /images/asana-dedicated.jpg
-            image_alt: 'SeaTable Dedicated Umgebung für skalierbare HR- und Zeiterfassungslösungen'
+            image: /images/landingpage_arbeitszeiterfassung_dedicated.png
+            image_alt: 'Выделенная среда SeaTable для масштабируемых решений в области управления персоналом и учета рабочего времени'
               
     - name: "banner-2"
       weight: 17

@@ -71,8 +71,8 @@ sections:
         - text: le permite responder a los cuellos de botella de manera oportuna
         - text: 100 % conforme al RGPD
         - text: estructura de datos personalizable de forma flexible
-      image: /images/Landing-Page_Arbeitszeiterfassung_Screenshot_ 2_transparent.png
-      image_alt: 'Registro de horas de trabajo en SeaTable con resumen de horas y saldos diarios'
+      image: /images/landing-page-arbeitszeiterfassung-01.png
+      image_alt: 'Registro de horas de trabajo en SeaTable con resumen de horas y saldos diariosn'
 
     - name: content-25
       weight: 7
@@ -81,24 +81,24 @@ sections:
       items:
       - headline: Aplicación no-code como ESS
         text: Con **SeaTables App Builder**, puede crear formularios ESS personalizados para su sistema de control de horarios. Sus empleados pueden introducir de forma autónoma las horas extras, las [vacaciones]({{< relref "posts/20250324-urlaubsplanung" >}}) y las bajas por enfermedad sin necesidad de acceder al sistema completo de control de horarios. Podrá realizar un seguimiento de todo ello en el panel de control y recibirá notificaciones automáticas de nuevas entradas o discrepancias. 
-        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+        image: /images/landing-page-arbeitszeiterfassung-02.png
+        image_alt: 'Registro de horas de trabajo en SeaTable con ESS personalizables'
       - headline: Introducción sencilla de datos
         text: Sus empleados pueden llevar un control sencillo de sus horas de trabajo mediante **formularios web intuitivos**. Por cada formulario, SeaTable crea una nueva entrada que solo los responsables pueden ver y editar. La aplicación de control de horarios calcula automáticamente las horas trabajadas, así como las horas extras y las horas no completadas, y **resalta el saldo diario** en color. 
-        image: /images/Landing-Page_arbeitszeiterfassung_benutzerfreundliche_datenerfassung_neu.png
-        image_alt: 'SeaTable Webformular zur benutzerfreundlichen Erfassung von Arbeitszeiten'
+        image: /images/landing-page-arbeitszeiterfassung-03.png
+        image_alt: 'Formulario web de SeaTable para el registro sencillo de las horas de trabajo'
       - headline: Seguimiento y presentación de informes
         text: "A primera vista, el software de control de horas de SeaTable se asemeja a otras herramientas, pero ofrece **funciones avanzadas de visualización**: filtros, ordenación, agrupación, diversas vistas, paneles de estadísticas y un complemento de diseño de informes que le facilitan el seguimiento del control de horas de sus empleados y la creación de **informes de gestión convincentes**."
-        image: /images/Landing-Page_arbeitszeiterfassung_datenvisualisierung_neu.png
-        image_alt: 'SeaTable Auswertung von Arbeitszeiten mit Kalender- und Statistikansicht'
+        image: /images/landing-page-arbeitszeiterfassung-04.png
+        image_alt: 'Análisis de las horas de trabajo en SeaTable con vista de calendario y estadísticas'
       - headline: Control de horarios, planificador de ausencias y mucho más
         text: Cuando los empleados registran sus horas en diferentes hojas de cálculo, la consolidación de los datos suele resultar tediosa y propensa a errores. Con SeaTable como aplicación de control de horarios, todos los datos se centralizan en una [base de datos en línea]({{< relref "posts/online-datenbank-kostenlos" >}}). Mediante **vistas, funciones para compartir y permisos**, usted controla quién ve y edita qué datos, de forma eficiente, organizada y accesible en todo momento.
-        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'
+        image: /images/landing-page-arbeitszeiterfassung-05.png
+        image_alt: 'Resumen de SeaTable con datos de horas de trabajo y ausencias almacenados de forma centralizada'
       - headline: Automatizaciones inteligentes
         text: '¡Gracias a las automatizaciones integradas, su aplicación de seguimiento del tiempo es aún más potente! Envíe notificaciones o correos electrónicos, edite entradas, ejecute [acciones de IA]({{< relref "posts/ai-powered-automations" >}}), genere archivos PDF: con el intuitivo editor de arrastrar y soltar, puede definir los desencadenantes que desee y dejar que su sistema de seguimiento del tiempo haga el trabajo.'
-        image: /images/Landing-Page_arbeitszeiterfassung_zentraler_speicherort_neu.png
-        image_alt: 'SeaTable Übersicht mit zentral gespeicherten Arbeitszeit- und Abwesenheitsdaten'  
+        image: /images/landing-page-arbeitszeiterfassung-06.png
+        image_alt: 'SeaTable: registro de horas de trabajo con funciones de IA para un procesamiento inteligente de datos'  
     
     - name: "content-4"
       weight: 11
@@ -133,8 +133,8 @@ sections:
       title: Control del tiempo con SeaTable en lugar de Personio
       subtitle: Control del tiempo y gestión de recursos humanos 
       description: 'SeaTable es una herramienta muy interesante para el control del tiempo y la gestión de recursos humanos, que puede servir fácilmente como [alternativa a Personio]({{< relref "pages/landing-pages/alternatives/personio-alternative" >}}). En una comparación directa, SeaTable destaca especialmente por su **estructura de datos totalmente personalizable**, una gama más amplia de funciones, un **creador de aplicaciones no-code para un ESS flexible** y **varias opciones de alojamiento**; para un control total y la [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}), las empresas pueden utilizar SeaTable en sus propias instalaciones.' 
-      image: /images/landing-page-kundenmanagement-ticketing.jpg
-      image_alt: 'SeaTable Ticket-System zur Bearbeitung von Support-Anfragen, SLAs und KI-gestützter Klassifizierung'      
+      image: /images/landing-page-arbeitszeiterfassung-07.png
+      image_alt: 'SeaTable: un sistema de registro de horas de trabajo como alternativa a Personio'      
 
     - name: 'content-8'
       weight: 15
@@ -164,16 +164,16 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: 'Ideal para empresas que desean ponerse en marcha rápidamente sin necesidad de una infraestructura informática compleja.'
-            image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Basis für HR- und Zeiterfassungsprozesse'
+            image: /images/landingpage_arbeitszeiterfassung_cloud.png
+            image_alt: 'SeaTable Cloud como base para los procesos de recursos humanos y de control de horarios'
           - headline: SeaTable Server
             text: Para las empresas que desean mantener el control total sobre sus datos, SeaTable ofrece una opción de instalación local.
-            image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für interne HR-Workflows'
+            image: /images/landingpage_arbeitszeiterfassung_server.png
+            image_alt: 'SeaTable Server para el registro de horas de trabajo con control total de los datos'
           - headline: SeaTable Dedicated
             text: Para empresas que necesitan la simplicidad de la nube y la flexibilidad de un sistema autohospedado.  
-            image: /images/asana-dedicated.jpg
-            image_alt: 'SeaTable Dedicated Umgebung für skalierbare HR- und Zeiterfassungslösungen'
+            image: /images/landingpage_arbeitszeiterfassung_dedicated.png
+            image_alt: 'Entorno SeaTable Dedicated para soluciones escalables de recursos humanos y control de horarios'
               
     - name: "banner-2"
       weight: 17
