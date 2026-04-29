@@ -544,4 +544,15 @@ sections:
             id: ab96101c9e5b4470a2d2
             submit: "Awesome Template"
 
+  - name: youtube
+    weight: 46
+    title: Sieh dir SeaTable in Aktion an
+    subtitle: Demo
+    description: Ein 2-Minuten-Überblick über die wichtigsten Funktionen.
+    videoId: A1_LWaFWveM
+    aspect: 16:9   # optional, default 16:9
+    classes:
+      - bg-gray-100   # optional
+      - curved
+
 ---

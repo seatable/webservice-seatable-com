@@ -1,0 +1,49 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: (optional)
+  subtitle: (optional)
+  description: (optional)
+  videoId:
+  aspect: 16:9 (default) oder 4:3, 1:1
+  classes: (optional)
+  - bg-gray-100
+  - curved</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $classes := .classes | default "" }}
+{{ $aspect := .aspect | default "16:9" }}
+{{ $aspectClass := "aspect-video" }}
+{{ if eq $aspect "4:3" }}{{ $aspectClass = "aspect-4/3" }}{{ end }}
+{{ if eq $aspect "1:1" }}{{ $aspectClass = "aspect-square" }}{{ end }}
+<section class="{{ delimit $classes " " }} padding" id="{{ .name }}">
+    <section class="max-container">
+        {{ if or .title .subtitle .description }}
+            <div class="mx-auto max-w-[800px] text-center">
+                {{ with .subtitle }}<p class="gradient font-poppins text-2xl font-bold">{{ . }}</p>{{ end }}
+                {{ with .title }}<h2 class="mt-1 text-4xl font-bold">{{ . }}</h2>{{ end }}
+                {{ with .description }}<p class="mt-8 text-lg leading-normal">{{ . | markdownify }}</p>{{ end }}
+            </div>
+        {{ end }}
+
+        {{ if .videoId }}
+            <div class="mx-auto mt-12 max-w-4xl">
+                <div class="{{ $aspectClass }} overflow-hidden rounded-lg shadow-lg">
+                    <iframe
+                        class="h-full w-full"
+                        src="https://www.youtube-nocookie.com/embed/{{ .videoId }}"
+                        title="{{ .title | default "YouTube video" }}"
+                        loading="lazy"
+                        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin"
+                        allowfullscreen></iframe>
+                </div>
+            </div>
+        {{ end }}
+    </section>
+</section>
