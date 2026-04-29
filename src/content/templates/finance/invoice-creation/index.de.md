@@ -178,7 +178,7 @@ sections:
       items:
       - q: "Welche Pflichtangaben müssen auf einer Rechnung Vorlage stehen?"
         a: 'Eine vollständige Rechnungsvorlage sollte mindestens Name und Anschrift von Rechnungssteller und Kunde, Steuernummer oder Umsatzsteuer-ID, Ausstellungsdatum, eine fortlaufende Rechnungsnummer, die Art und den Umfang der Leistung sowie Netto-/Bruttobetrag inklusive Umsatzsteuer und angewendetem Steuersatz enthalten. Die SeaTable Vorlage bildet diese Felder als Spalten ab und überführt sie in eine einheitliche PDF-Rechnung.'
-      - q: " Ist die Rechnungsvorlage für Kleinunternehmer geeignet? "
+      - q: "Ist die Rechnungsvorlage für Kleinunternehmer geeignet?"
         a: 'Ja, Sie können die Vorlage für Kleinunternehmer anpassen, indem Sie Umsatzsteuer-Felder entsprechend konfigurieren und den Hinweis auf die Kleinunternehmerregelung in der Textvorlage ergänzen. Die so entstandene Rechnungsvorlage Kleinunternehmer können Sie als eigenes Layout speichern und wiederverwenden.'
       - q: "Kann ich die Vorlage als PDF exportieren?"
         a: 'Ja, mit dem Page-Design-Plugin lässt sich aus jeder Rechnungsvorlage per Klick eine PDF-Rechnung generieren. Diese wird direkt am Datensatz gespeichert und kann anschließend aus SeaTable heraus per E-Mail an den Kunden verschickt werden.'
@@ -191,6 +191,6 @@ sections:
     - q: "Kann ich die Rechnungsvorlage mit einem CRM verbinden?"
       a: 'Ja, über verknüpfte Tabellen lässt sich die Vorlage mit einer CRM Vorlage, Projektplanungen oder Angebots-Tabellen kombinieren. So entsteht ein durchgängiger Prozess vom ersten Kontakt über das Angebot bis zur bezahlten Rechnung.' 
     - q: "Brauche ich meine alte Rechnung schreiben Vorlage in Word noch?"
-      a: ' In der Regel nicht. Sobald Ihre Kundendatenbank, Produkte und Layouts in SeaTable eingerichtet sind, übernimmt die Vorlage das Rechnung erstellen, den PDF-Export, den Versand und die Archivierung – ohne die Nachteile statischer Word- oder Excel-Dokumente.'
+      a: 'In der Regel nicht. Sobald Ihre Kundendatenbank, Produkte und Layouts in SeaTable eingerichtet sind, übernimmt die Vorlage das Rechnung erstellen, den PDF-Export, den Versand und die Archivierung – ohne die Nachteile statischer Word- oder Excel-Dokumente.'
       
 ---
