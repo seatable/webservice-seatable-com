@@ -1,186 +1,185 @@
 ---
-title: 'HubSpot-Erfahrungen: Wie Kunden Kosten und Funktionen bewerten'
-description: 'Denken Sie darüber nach, Hubspot als CRM- und Marketing-Automation-Tool einzuführen? Oder haben Sie bereits erste Hubspot-Erfahrungen und sind noch unsicher? Dann sehen Sie sich an, welche Eindrücke echte Nutzer in Reviews schildern. In diesem Artikel erhalten Sie nützliche Informationen für Ihre Entscheidung.'
+title: 'HubSpot Reviews: How Customers Rate Costs and Features'
+description: 'Are you considering implementing HubSpot as a CRM and marketing automation tool? Or have you already had some experience with HubSpot but are still unsure? Then take a look at what real users have to say in their reviews. This article provides useful information to help you make your decision.'
 seo:
-    title: 'HubSpot-Erfahrungen 2026: Kosten, Pricing & Testbericht'
-    description: 'Lohnt sich HubSpot?  Wir teilen echte Erfahrungen zu HubSpot-Pricing, Kosten & Features. Machen Sie sich Ihr eigenes Bild über HubSpot.'
+    title: 'HubSpot Review 2026: Costs, Pricing & Review'
+    description: 'Is HubSpot worth it?  We share real-world experiences with HubSpot pricing, costs, and features. See for yourself what HubSpot has to offer.'
 date: 2026-04-29
-url: '/hubspot-erfahrungen'
+url: '/hubspot-reviews'
 categories:
     - 'best-practice'
 tags:
-    - 'Kundenmanagement'
-    - 'Marketingplanung'
-    - 'Toolings & Plugins'
+    - 'Customer Relationship Management'
+    - 'Marketing Planning'
+    - 'Tools & Plugins'
 color: '#9aa7b5'
 register:
    show: true
-draft: true   
 ---
 
-## Das Wichtigste zu Hubspot
+## Key Facts About HubSpot
 
-Hubspot ist eine cloudbasierte CRM- & Marketing-Automation-Plattform mit Hauptsitz in den USA. Das 2006 gegründete Unternehmen zielt vor allem auf KMU mit 10 bis 500 Mitarbeitern, die Inbound-Marketing, Lead-Management und CRM in einem zentralen System bündeln möchten. HubSpot bietet eine kostenlose Basisversion sowie bezahlte Tarife in den Stufen Starter, Professional und Enterprise – jeweils separat für Marketing Hub, Sales Hub, Service Hub, Content Hub und Operations Hub.
+HubSpot is a cloud-based CRM and marketing automation platform headquartered in the United States. Founded in 2006, the company primarily targets small and medium-sized businesses (SMBs) with 10 to 500 employees that want to consolidate inbound marketing, lead management, and CRM into a single system. HubSpot offers a free basic version as well as paid plans at the Starter, Professional, and Enterprise levels—each available separately for Marketing Hub, Sales Hub, Service Hub, Content Hub, and Operations Hub.
 
-*   Hubspot bietet eine zentrale Lösung für [Kundenmanagement]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) und [Marketingplanung]({{< relref "posts/20250318-marketingplan" >}}), die Kontaktdaten, Deal-Pipelines, Aktivitäten und Kampagnen abbildet
+*   HubSpot offers a centralized solution for [customer management]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) and [marketing planning]({{< relref "posts/20250318-marketingplan" >}}), which tracks contact information, deal pipelines, activities, and campaigns
     
-*   Hubspots Preise sind modular strukturiert und basieren auf mehreren, kombinierbaren Faktoren
+*   HubSpot’s pricing is modular and based on several combinable factors
+ 
+*   HubSpot receives generally positive reviews on review platforms, but faces significant criticism regarding costs and support, among other issues
+ 
+*   HubSpot operates servers in Germany, among other locations, but does not rule out the possibility that data may be transferred to other data centers in certain cases
     
-*   Hubspot wird auf Review-Plattformen insgesamt positiv bewertet, erhält jedoch viel Kritik u. a. für Kosten und Support
-    
-*   Hubspot betreibt Server u. a. in Deutschland, schließt jedoch nicht aus, dass Daten in bestimmten Fällen in andere Rechenzentren übertragen werden
-    
-![Sales-Mitarbeiter mit positiven Hubspot-Erfahrungen](hubspot_erfahrungen_01.png)
+![Sales representatives with positive experiences with HubSpot](hubspot_erfahrungen_01.png)
 
-## Welche Hubspot-Erfahrungen machen Kunden?
+## What are customers' experiences with HubSpot?
 
-Um Ihnen einen belastbaren Eindruck zu vermitteln, welche Erfahrungen mit Hubspot gemacht werden, haben wir **echte Hubspot-Reviews** von Capterra und G2 ausgewertet. Während die meisten Kunden die Benutzerfeundlichkeit positiv herausstellen, werden die Hubspot-Kosten, die Verkaufspraktiken und die Skalierbarkeit kritisch bewertet. Betrachten wir im Folgenden einmal genauer, wie Hubspot-Nutzer die Kosten, Vorteile und Nachteile der Software beurteilen.
+To give you a reliable picture of what people’s experiences with HubSpot are like, we analyzed **real HubSpot reviews** from Capterra and G2. While most customers highlight its user-friendliness, they are critical of HubSpot’s costs, sales practices, and scalability. Let’s take a closer look at how HubSpot users rate the software’s costs, advantages, and disadvantages.
 
-### Was schätzen Kunden besonders an Hubspot?
+### What do customers particularly appreciate about HubSpot?
 
-* **Intuitive Oberfläche**: In vielen Reviews wird die eingängige Benutzeroberfläche hervorgehoben, die einen schnellen Einstieg auch ohne Schulungen ermöglicht.
+*   **Intuitive interface**: Many reviews highlight the user-friendly interface, which allows for a quick start even without training.
     
-* **All-in-One**: Hubspot kann nahezu alle CRM-, Marketing- und Kundenservice-Prozesse abbilden und ermöglicht so eine nahtlose Verknüpfung von Informationsflüssen und Prozessen.
-    
-* **Automatisierung**: Ein ebenfalls häufig positiv hervorgehobener Punkt sind die integrierten Automatisierungen, mit denen Workflows beschleunigt werden.
-    
-* **Schlanke Kampagnenerstellung**: Ebenfalls positiv heben Nutzer die E-Mail- und Ladingpage-Builder und die einfache Integration verschiedener Marketingkanäle hervor.
-    
+*   **All-in-One**: HubSpot can handle nearly all CRM, marketing, and customer service processes, enabling a seamless integration of information flows and workflows.
+ 
+*   **Automation**: Another frequently highlighted positive feature is the integrated automation tools that accelerate workflows.
+ 
+*   **Streamlined campaign creation**: Users also positively highlight the email and landing page builders and the easy integration of various marketing channels.
+ 
 
-### Was bewerten Nutzer kritisch an Hubspot?
+### What do users criticize about HubSpot?
 
-* **Unbefriedigender Support**: Zahlreiche Nutzer berichten in Ihrer Hubspot-Review von langen Support-Wartezeiten und unzureichenden oder generischen Antworten. Zudem wird Hubspot vorgeworfen, bei kleinen Accounts bewusst langsam zu reagieren.
+*   **Unsatisfactory support**: Numerous users report in their HubSpot reviews about long support wait times and insufficient or generic responses. HubSpot is also accused of deliberately responding slowly to small accounts.
+ 
+*   **Lack of flexibility**: In many HubSpot reviews, users criticize that while standard processes work well, custom pipelines or complex processes are difficult to implement or require an expensive Enterprise plan.
     
-* **Mangelnde Flexibilität**: In vielen Hubspot-Erfahrungen kritisieren die Nutzer, dass Standard-Prozesse zwar gut funktionieren, aber individuelle Pipelines oder komplexe Prozesse kaum umsetzbar sind, oder einen teuren Enterprise-Tarif erfordern.
+*   **High Costs and Lack of Transparency**: Many customers find the pricing to be overpriced and opaque. They criticize the fact that, despite expensive subscriptions, additional packages must still be purchased to use key features.
+ 
+*   **Aggressive Sales Tactics**: Aggressive sales tactics are criticized in most negative HubSpot reviews. Many customers say they were pressured into signing a contract with discounts that were only valid for a short time. Others criticize that they were promised features during the sales call that they then had to pay extra for, or that contract and cancellation terms were not adequately communicated in advance.
     
-* **Hohe Kosten und Intransparenz**: Viele Kunden empfinden die Preisgestaltung als überteuert und undurchsichtig. Sie kritisieren, dass trotz teurer Abos noch Zusatzpakete gebucht werden müssen, um zentrale Funktionen zu nutzenn.
-    
-* **Aggresiver Vertrieb**: In den meisten negativen Hubspot-Erfahrungen wird der aggresive Vertrieb kritisiert. So äußern viele Kunden, dass sie mit nur kurz gültigen Rabatten zum Vertragsabschluss gedrängt worden seien. Andere kritisieren, dass ihnen im Sales-Gespräch Leistungen zugesagt worden seien, für die sie dann doch extra bezahlen mussten, oder dass Vertrags- und Kündigungsbedingungen im Vorfeld nicht ausreichend kommuniziert wurden.
-    
-*   **Steile Lernkurve**: Hubspot bietet zwar eine intuitive Oberfläche, doch viele Nutzer berichten in ihren Hubspot-Erfahrungen, dass es Wochen oder Monate dauert, bis alle Einstellungen richtig gesetzt und verschiedene Hubs miteinander kombiniert sind, oder teure Schulungen und Integrationen eingekauft werden müssen.
+*   **Steep learning curve**: While HubSpot offers an intuitive interface, many users report in their HubSpot reviews that it takes weeks or months to properly configure all settings and integrate various hubs, or that they have to purchase expensive training and integrations.
     
 
-## HubSpot-Pricing im Detail: Warum sind die Hubspot-Preise so hoch?
+## HubSpot Pricing in Detail: Why Are HubSpot Prices So High?
 
-Einen der am häufigsten auftauchenden Kritikpunkte in den Erfahrungsberichten sind die **hohen Hubspot Kosten und Hubspots Preisstruktur**. Wenn man einen Blick auf die Preistabelle auf Hubspots Website wirft, fällt auf, dass die Preise durch vier Faktoren bestimmt werden: dem gewählten Hub, dem Tarif, der Nutzung und der Anzahl der Nutzerplätze.
+One of the most common points of criticism in user reviews is the **high HubSpot costs and HubSpot’s pricing structure**. If you take a look at the pricing table on HubSpot’s website, you’ll notice that prices are determined by four factors: the selected Hub, the plan, usage, and the number of user seats.
 
-![Hubspot-Kosten sollten sehr genau kalkuliert werden](hubspot_erfahrungen_02.png)
+![HubSpot costs should be calculated very carefully](hubspot_erfahrungen_02.png)
 
-### Hubspot-Pricing pro Hub
+### HubSpot Pricing per Hub
 
-Hubspot platziert sich als Lösung, die die gesamte benötigte Marketing-, Vertriebs-, Support- und CRM-Software beinhaltet. Daran ist auch grundsätzlich nichts falsch, jedoch müssen Nutzer sich aus verschiedenen Hubs das Paket zusammenstellen, welches sie benötigen. Für jeden Hub fallen extra Kosten an. Zwar macht Hubspot diese Preise pro einzelnem Hub transparent, jedoch sind **individuelle Rabatte sowie Bundle-Preise** üblich. Daher sagt die Preistabelle nichts darüber aussagen, wie viel am Ende wirklich gezahlt wird und Preisvergleiche sind nur schwer möglich. Zusätzliche Komplexität ensteht dadurch, dass beim Marketing-Hub eine monatliche Gebühr gezahlt wird, die anderen Hubs jedoch pro Nutzer abgerechnet werden.
+HubSpot positions itself as a solution that includes all the necessary marketing, sales, support, and CRM software. There’s nothing fundamentally wrong with that, but users must assemble the package they need from various hubs. Each hub incurs additional costs. Although HubSpot makes these prices per individual Hub transparent, **individual discounts and bundle pricing** are common. Therefore, the price table does not indicate how much will actually be paid in the end, and price comparisons are difficult to make. Additional complexity arises from the fact that the Marketing Hub has a monthly fee, while the other Hubs are billed per user.
 
-### Hubspots Tarifstruktur
+### HubSpot’s Pricing Structure
 
-Hubspot bietet jeden Hub in vier Stufen an: Free, Starter, Professional und Enterprise. Die Kosten variieren zwischen diesen Tarifen stark – von etwa 20,– Euro pro Monat im Starter-Tarif bis zu mehreren tausend Euro pro Monat im Enterprise-Tarif. Insbesondere die **großen Preissprünge zum nächsten Tarif** werden häufig kritisiert. Ein Beispiel: Die Kosten für den Marketing-Hub im Professional-Tarif liegen bei 792,– Euro pro Monat, im Enterprise-Tarif bereits bei 3.300 € pro Monat.
+HubSpot offers each hub in four tiers: Free, Starter, Professional, and Enterprise. Costs vary significantly across these plans—from around €20 per month for the Starter plan to several thousand euros per month for the Enterprise plan. In particular, the **large price jumps to the next tier** are frequently criticized. For example: The cost for the Marketing Hub in the Professional plan is €792 per month, while in the Enterprise plan it jumps to €3,300 per month.
 
-### Nutzungsverhalten als Kostenfaktor in Hubspot
+### Usage Patterns as a Cost Factor in HubSpot
 
-Ein weiterer Faktor, der zur Intransparenz beiträgt und viele Kunden negativ überrascht, ist, dass Hubspot **für manche Funktionen Limits in den Standardtarifen setzt**, z. B. für Marketingkontakte im Marketing-Hub, das Calling-Feature im Sales-Hub, skalierbare Content-Produktion im Content Hub oder allgemein die KI- und API-Nutzung. Wenn das Limit ausgeschöpft ist, müssen zusätzliche Pakete erworben werden.
+Another factor contributing to a lack of transparency and often catching many customers off guard is that HubSpot **imposes limits on certain features in the standard plans**, e.g., for marketing contacts in the Marketing Hub, the calling feature in the Sales Hub, scalable content production in the Content Hub, or AI and API usage in general. Once the limit is reached, additional packages must be purchased.
 
-### Seats als Faktor bei den Hubspot Preisen
+### Seats as a Factor in HubSpot Pricing
 
-Seit März 2024 basiert HubSpot auf einem Seat-Modell: Jeder Nutzer braucht eine Lizenz, die seinen Zugriff definiert. *Core Seats* gewähren vollen Zugriff auf alle gebuchten Hubs inklusive KI-Funktionen, während *View-only Seats* kostenlos und unbegrenzt verfügbar sind, aber nur Leserechte bieten. Für aktiv arbeitende Mitarbeiter ist ein kostenpflichtiger Core Seat erforderlich. Bei wachsenden Teams summieren sich die Kosten so schnell. Und wer Kosten spart und Mitarbeiter auf View-only-Seats beschränkt, schränkt damit gleichzeitig auch die Kollaborationsfähigkeit seines Teams im System ein.
+Since March 2024, HubSpot has been based on a seat model: Each user needs a license that defines their access. *Core Seats* grant full access to all subscribed Hubs, including AI features, while *View-only Seats* are available for free and without limits but offer read-only access. A paid Core Seat is required for active employees. As teams grow, costs add up quickly. And while limiting employees to View-only Seats may save costs, it simultaneously restricts the team’s ability to collaborate within the system.
 
-### Onboarding – die versteckten Hubspot-Kosten
+### Onboarding – the hidden HubSpot costs
 
-Obwohl Hubspot eine intuitive Oberfläche bietet und mit seiner Hubspot Academy Nutzern umfangreiche kostenlose Hilfe an die Hand gibt, lässt sich das Unternehmen die Implementierung teilweise bezahlen. Ab dem Professional-Tarif fällt eine **verpflichtende, einmalige Onboarding-Gebühr** von etwa 1.000–6.000 Euro an, abhängig von Hub und Tarif. Alternativ können Kunden auch Onboardings bei zertifizierten Hubspot-Partnern buchen, die jedoch auch nicht günstiger sind.
+Although HubSpot offers an intuitive interface and provides users with extensive free support through its HubSpot Academy, the company charges for some aspects of implementation. Starting with the Professional plan, there is a **mandatory, one-time onboarding fee** of approximately 1,000–6,000 euros, depending on the Hub and plan. Alternatively, customers can book onboarding sessions with certified HubSpot partners, though these are not any cheaper.
 
-## Was kostet Hubspot? Eine Beispielrechnung
+## How much does HubSpot cost? A sample calculation
 
-Das intransparente Hubspot-Pricing und **mangelnde Skalierbarkeit** sind also ein ganz wesentlicher Kritikpunkt. An dieser Stelle wollen wir anhand eines konkreten Beispiels einmal deutlich machen, mit welchen Kosten Sie rechnen können.
+HubSpot’s opaque pricing and **lack of scalability** are therefore a major point of criticism. At this point, we’d like to use a concrete example to illustrate the costs you can expect.
 
-Nehmen wir folgendes Szenario: Ein mittelständisches Unternehmen bucht den Marketing Hub Professional und den Sales Hub Professional mit 5 Lizenzen. Im Marketing Hub sind 2000 Marketingkontakte und 3 Nutzerlizenzen enthalten, der Kunde braucht jedoch 3000 Kontakte und ebenfalls 5 Lizenzen. Außerdem stellt Hubspot das Pflicht-Onboarding in Rechnung. Zusätzliche Marketingkontakt-Kontingente bietet Hubspot lediglich in 5000er-Paketen an. 
+Let’s consider the following scenario: A medium-sized company signs up for the Marketing Hub Professional and the Sales Hub Professional with 5 licenses. The Marketing Hub includes 2,000 marketing contacts and 3 user licenses, but the customer needs 3,000 contacts and also 5 licenses. HubSpot only offers additional marketing contact quotas in packages of 5,000. In addition, HubSpot charges for the mandatory onboarding.  
 
-Im ersten Jahr sieht die Rechnung wie folgt aus (alle Preise stammen von der Hubspot-Website):
+In the first year, the bill looks as follows (all prices are from the HubSpot website):
 
 
-|                     | **Kosten / Monat**              | **Gesamtkosten / Jahr**              | 
+| | **Cost / Month** | **Total Cost / Year** | 
 | ------------------- | --------------------- | --------------------- | 
-| **Marketing Hub Professional** | 792,– €        | 9.504,– € | 
-| **5 Sales Hub Professional Lizenzen**      | 500,– € | 6.000,– €   | 
-| **2 Extralizenzen für Marketing Hub**       | 90,– €     | 1.080,– €      | 
-| **5000 zusätzliche Marketingkontakte**    | 250,– €   | 3.000,–€  |
-| **Einmaliges Pflicht-Onboarding** |   |  4.470,– €    |  
-| **Total**  |   | **24.054,– €**    |
+| **Marketing Hub Professional** | €792 | €9,504 | 
+| **5 Sales Hub Professional licenses** | €500 | €6,000   | 
+| **2 additional licenses for Marketing Hub** | €90     | €1,080 | 
+| **5,000 additional marketing contacts**    | €250   | €3,000  |
+| **One-time mandatory onboarding** |   |  €4,470    |  
+| **Total**  |   | **€24,054**    |
 
-Da Hubspots Professional- und Enterprise-Tarife nur im Jahres-Abo verfügbar sind, entstehen dem Unternehmen in diesem fiktiven Beispiel im ersten Jahr bereits knapp 24.000 Euro Kosten. Bei gleichbleibendem Setup entstehen in den Folgejahren Kosten von etwa 20.000 Euro jährlich. Und selbst mit dem Starter-Tarif entsteht in diesem Beispiel eine Jahresrechnung von 6.000 Euro. Ein immenses Investment, dass nur zu rechtfertigen ist, wenn ihm eine rundum positive Hubspot Erfahrung zugrundeliegt oder es keine gleichwertige Alternative gibt.
+Since HubSpot’s Professional and Enterprise plans are only available as annual subscriptions, the company in this hypothetical example incurs costs of nearly €24,000 in the first year alone. With the same setup, costs in subsequent years amount to approximately €20,000 annually. And even with the Starter plan, this example results in an annual bill of €6,000. This is a massive investment that can only be justified if it is based on an all-around positive HubSpot experience or if there is no equivalent alternative.
 
-## HubSpot kostenlos nutzen: Wo liegen die Grenzen der Free-Version?
+## Using HubSpot for Free: What Are the Limitations of the Free Version?
 
-Doch womöglich müssen diese hohen Kosten zu Beginn nicht sein, denn Hubspot bietet auch einen Free-Tarif mit sehr stark reduzierten Funktionen an. Eine echte Alternative ist dieser Tarif indes nicht.
+However, these high costs may not be necessary at the outset, as HubSpot also offers a free plan with significantly reduced features. That said, this plan is not a true alternative.
 
-Der kostenlose Tarif enthält **ein Basis-CRM, einfache E-Mail-Marketing-Optionen, Formulare und ein begrenztes Dashboard** ohne komplexe Statistiken. Automatisierungen, Custom Reporting, KI-Funktionen oder Pipelines sind nicht enthalten und erst nach einem Tarifwechsel verfügbar. Es ist zwar möglich, Hubspot kostenlos zu nutzen, jedoch eignet sich die Free-Version im Grunde **lediglich für Tests oder sehr einfache Prozesse**.
+The free plan includes **a basic CRM, simple email marketing options, forms, and a limited dashboard** without complex statistics. Automations, custom reporting, AI features, or pipelines are not included and are only available after upgrading to a paid plan. While it is possible to use HubSpot for free, the free version is essentially **only suitable for testing or very simple processes**.
 
-![Hubspot-Schulung in einem KMU](hubspot_erfahrungen_03.png)
+![HubSpot training at an SME](hubspot_erfahrungen_03.png)
 
-## Hubspot Breeze: Wie sind die Erfahrungen mit Hubspots KI?
+## HubSpot Breeze: What is the experience with HubSpot’s AI?
 
-KI-Funktionen sind heute ein wichtiges Feature auch in leistungsfähigen CRM- und Marketing-Lösungen. Hubspot bildet da keine Ausnahme und das US-Unternehmen hat bereits früh auf den Trend reagiert und Anfang 2024 erste KI-Funktionen zur Contenterstellung eingeführt. Inzwischen bietet Hubspot mit Breeze eine komplette KI-Suite für Content-Erstellung, Lead-Scoring, Datenanreicherung und Prozessautomatisierung.
+AI features are now an important component of powerful CRM and marketing solutions. HubSpot is no exception, and the U.S. company responded to this trend early on, introducing its first AI features for content creation in early 2024. With Breeze, HubSpot now offers a complete AI suite for content creation, lead scoring, data enrichment, and process automation.
 
-Auch die Erfahrungen mit Hubspot Breeze fallen gemischt aus, wobei erwähnt werden muss, dass die Funktion bisher nur in wenigen Hubspot-Reviews genannt wird.
+Experiences with HubSpot Breeze have also been mixed, though it should be noted that the feature has only been mentioned in a few HubSpot reviews so far.
 
-### Positive Erfahrungen mit Hubspots KI
+### Positive Experiences with HubSpot’s AI
 
-*   hilfreich bei Datenpflege und Datenanreicherung
+*   Helpful for data maintenance and data enrichment
+ 
+*   Breeze Intelligence delivers good results when enriching lead data
+ 
+
+### Negative Assessment of HubSpot’s AI
+
+*   Does not measure up to other LLMs for more complex applications and content creation
+ 
+*   Rapidly rising costs due to credit-based billing with automatic upgrades
+ 
+*   Not included with the same features in all plans
+ 
+*   Some features must be purchased as add-ons
     
-*   Breeze Intelligence liefert gute Ergebnisse bei der Anreicherung von Lead-Daten
-    
+## HubSpot for Startups: Is the Tool Worth It for Young Entrepreneurs?
 
-### Negative Bewertung von Hubspots KI
+HubSpot offers a special program called "HubSpot for Startups" and specifically targets tomorrow’s SMEs with very high discounts. However, the discounts are subject to conditions and, depending on the program, apply only for the first year or on a tiered basis for the first three years. But is such a complex and expensive tool even suitable for startups? In our view, the answer is clear: HubSpot is **an attractive solution at best in the very early stages**—and even then, it’s a double-edged sword.
 
-*   bei komplexeren Anwendungen und Content-Erstellung kommt es nicht an andere LLM heran
-    
-*   schnell steigende Kosten durch Credit basierte Nutzungsabrechnung mit automatischem Upgrade
-    
-*   nicht in allen Tarifen mit den gleichen Funktionen enthalten
-    
-*   manche Funktionen müssen als Add-on dazugekauft werden
-    
-## Hubspot für Startups: Lohnt sich das Tool für junge Unternehmer?
+Even for newly founded companies, the Free plan essentially offers too few features to work productively without using additional tools. As a result, these startups also fail to benefit from the clear advantages of a centralized CRM and marketing solution. And while the Starter plan is still affordable for small teams with few marketing contacts, **the problems begin as soon as the startup scales**. Monthly fees quickly add up to four-figure amounts (even with HubSpot’s conditional startup discounts, it’s still several hundred euros). The cumbersome migration to a more affordable tool then consumes valuable resources. For [company founders and startups]({{< relref "posts/no-code-startups" >}}), there are significantly better and more affordable solutions, such as scalable and customizable [no-code tools]({{< relref "posts/no-code-tools" >}}).
 
-Hubspot bietet ein spezielles Programm "Hubspot for Startups" und wirbt mit sehr hohen Rabatten gezielt um die KMU von morgen. Die Rabatte sind jedoch an Voraussetzungen gebunden und gelten je nach Programm nur für das erste Jahr, oder gestaffelt für die ersten drei Jahre. Doch ist ein so komplexes und teures Tool überhaupt für Startups geeignet? Die Antwort ist aus unserer Sicht eindeutig: Hubspot ist **allenfalls in der sehr frühen Phase eine attraktive Lösung** – und selbst dann eine zweischneidige.
+## Side Note: Is HubSpot GDPR-compliant?
 
-Selbst für gerade neugegründete Unternehmen bietet der Free-Tarif im Grunde zu wenige Funktionen, um produktiv zu arbeiten ohne noch zusätzliche Tools zu nutzen. Damit profitieren diese Startups jedoch auch nicht von den klaren Vorteilen einer zentralen CRM- und Marketing-Lösung. Und während der Starter-Tarif für kleine Teams mit wenigen Marketingkontakten noch günstig ist, **beginnen die Probleme, sobald das Startup skaliert**. Dann kommen schnell vierstellige Monatsgebühren zusammen (selbst mit Hubspots konditionalen Startup-Rabatten noch mehrere hundert €). Die umständliche Migration zu einem günstigeren Tool verschlingt dann wertvolle Ressourcen. Für [Unternehmensgründer und Startups]({{< relref "posts/no-code-startups" >}}) gibt es deutlich bessere und günstigere Lösungen, z. B. skalierbare und anpassbare [No-Code-Tools]({{< relref "posts/no-code-tools" >}}).
+HubSpot operates servers in AWS data centers in the US, Canada, Australia, and Germany and automatically stores its customers’ data in the respective regional data center with the corresponding **legally required data protection settings**. Only data from Free users is stored exclusively in the US. European customers’ data is automatically stored in Germany. However, as a U.S. company, HubSpot is subject to the U.S. Cloud Act. Additionally, the company reserves the right to **transfer data to other data centers in certain cases**. For companies with high data protection requirements, a very careful review is therefore recommended—or **switching to a provider with exclusively European hosting or an on-premises solution**, such as [SeaTable]({{< relref "/" >}}).
 
-## Exkurs: Ist Hubspot DSGVO-konform?
+![HubSpot Cloud and Data Protection](hubspot_erfahrungen_04.png)
 
-HubSpot betreibt Server in AWS-Rechenzentren in den USA, Kanada, Australien und Deutschland und speichert die Daten seiner Kunden automatisch im jeweiligen regionalen Rechenzentrum mit den entsprechenden **gesetzlich vorgeschriebenen Datenschutzeinstellungen**. Lediglich die Daten von Free-Usern werden ausschließlich in den USA gespeichert. Die Daten euopäischer Kunden werden automatisch in Deutschland gespeichert. Als US-Unternehmen unterliegt Hubspot jedoch dem amerikanischen Cloud Act. Zudem behält sich das Unternehmen vor, **in bestimmten Fällen Daten auf andere Rechenzentren zu übertragen**. Für Unternehmen mit hohen Datenschutzanforderungen empfiehlt sich daher eine sehr sorgfältige Prüfung – oder der **Wechsel zu einem Anbieter mit ausschließlich europäischem Hosting oder on-premises Lösung** wie z. B. [SeaTable]({{< relref "/" >}}).
+## Conclusion: HubSpot Experience – Strong for Getting Started, Expensive as You Grow
 
-![Hubspot-Cloud und Datenschutz][hubspot_erfahrungen_04.png]
+The numerous reviews from HubSpot users on Capterra and G2 paint a fairly clear picture of Hubspot: The tool impresses with an intuitive interface, a free version, and robust automation for standard inbound processes. Getting started is quick and requires little technical effort. However, it can take weeks or months until all processes are set up and employees have fully mastered the tool. As soon as you scale up and need more contacts, users, or possibly custom processes, things become problematic. **Costs and complexity rise disproportionately**, and reporting, flexibility, and support regularly reach their limits, especially for SMEs.
 
-## Fazit: HubSpot-Erfahrungen – stark im Einstieg, teuer beim Wachstum
+## Looking for a powerful alternative?
 
-Die zahlreichen Erfahrungsberichte von Hubspot-Nutzern auf Capterra und G2 ergeben eine recht deutliche Hubspot-Bewertung: Das Tool überzeugt mit einer intuitiven Oberfläche, einer Free-Version und starker Automatisierung für Standard-Inbound-Prozesse. Der Einstieg gelingt schnell und ohne großen technischen Aufwand. Bis alle Prozesse aufgesetzt sind und Mitarbeiter das Tool durchdrungen haben, kann es jedoch Wochen oder Monate dauern. Sobald Sie skalieren und mehr Kontakte, Nutzer oder womöglich individuelle Prozesse brauchen, wird es indes problematisch. **Kosten und Komplexität steigen schnell unverhältnismäßig** stark an,  Reporting, Flexibilität und Support stoßen gerade bei KMU regelmäßig an Grenzen.
-
-## Suchen Sie eine leistungsfähige Alternative?
-
-Wer eine [Alternative zu Hubspot]({{< relref "pages/landing-pages/alternatives/hubspot-alternative" >}}) sucht, die mehr Flexibilität bei niedrigeren und transparenten Kosten bietet, sollte die **KI No-Code Lösung SeaTable** in Betracht ziehen. Die KI-No-Code-Plattform ermöglicht es, CRM, Kampagnensteuerung und Reporting individuell zu modellieren und bietet zahlreiche Vorlagen für den schnellen Einstieg – auch für [CRM]({{< relref "templates/sales/crm-tool" >}}) und Marketing. Und das Ganze **ohne Kontaktstaffeln, ohne komplexe Hub-Kombinationen und mit DSGVO-konformen Hosting**. Statt sich an vordefinierte Strukturen anzupassen, bauen Sie mit SeaTable **ein System, das wirklich zu Ihren Prozessen passt**.
+If you’re looking for an [alternative to HubSpot]({{< relref "pages/landing-pages/alternatives/hubspot-alternative" >}}) that offers more flexibility at lower and transparent costs, you should consider **SeaTable**. The **AI no-code platform** allows you to customize CRM, campaign management, and reporting, and offers numerous templates for a quick start—including for [CRM]({{< relref "templates/sales/crm-tool" >}}) and marketing. And all of this **without tiered pricing, without complex hub combinations, and with GDPR-compliant hosting**. Instead of adapting to predefined structures, with SeaTable you build **a system that truly fits your processes**.
 
 {{< template id="80356f5aa87e4a879b52" >}}
 
-## FAQs – Nutzererfahrungen mit Hubspot
+## FAQs – User Experiences with HubSpot
 
-{{< faq "Wie bewerten Nutzer ihre Hubspot-Erfahrungen bei der Implementierung?" >}}
-Wie Nutzer die Implementierung bewerten, hängt stark von der Komplexität des Setups ab. In der Regel wird der Einstieg als reibungslos beschrieben und die Hubspot-Dokumentation gelobt. Jedoch wird in vielen Reviews empfohlen, einen Integrator zu beauftragen, sobald mehrere Hubs eingerichtet oder Daten migriert werden müssen.
-{{< /faq >}}
-
-{{< faq "Wann sollte man über einen Wechsel von Hubspot zu einem anderen Systen nachdenken?" >}}
-Spätestens dann, wenn die Lizenzgebühren für Hubspot nicht mehr im Verhältnis zum Ertrag stehen, Sie regelmäßig Workarounds für individuelle Prozesse erstellen müssen oder Ihre Hub-Struktur eine Komplexität erreicht, die effektives Arbeiten behindert.
-{{< /faq >}}
-    
-{{< faq "Warum äußern sich viele Reviews kritisch zum Hubspot Pricing?" >}}
-Hubspots Preisberechnung aus kontaktbasierten Kosten, kostenpflichtigen Zusatzfunktionen, Hub-Kombinationen und Seats ist intransparent und lässt die Kosten schnell steigen. Zudem sind die Sprünge zwischen den Abos enorm.
-{{< /faq >}}
-    
-{{< faq "Ist Hubspot für kleine Teams geeignet?" >}}
-Ja, Hubspot rechnet sich für kleine Teams, wenn Sie mit eingeschränkten Funktionen zufrieden sind. Mit seinem Programm "Hubspot for Startups" wirbt Hubspot sogar gezielt um junge Unternehmen in der Wachstumsphase. Sobald kleine Teams skalieren, wird das Tool jedoch meistens zu teuer und zu komplex.
+{{< faq "How do users rate their HubSpot implementation experiences?" >}}
+How users rate the implementation depends heavily on the complexity of the setup. Generally, the onboarding process is described as smooth, and HubSpot’s documentation is praised. However, many reviews recommend hiring an integrator as soon as multiple hubs need to be set up or data needs to be migrated.
 {{< /faq >}}
 
-{{< faq "Welche Alternativen gibt es zu Hubspot?" >}}
-Es gibt auf dem Markt zahlreiche leistungsfähige Alternativen zu Hubspot wie z. B. Salesforce oder Pipedrive. Wenn Sie eine Lösung mit ähnlichem Leistungsumfang und mehr Flexibilität zu geringeren Kosten suchen, bieten sich No-Code-Lösungen wie SeaTable an.
+{{< faq "When should you consider switching from HubSpot to another system?" >}}
+At the latest when HubSpot’s licensing fees are no longer proportional to the return on investment, you regularly have to create workarounds for specific processes, or your hub structure reaches a level of complexity that hinders effective work.
+{{< /faq >}}
+ 
+{{< faq "Why are many reviews critical of HubSpot's pricing?" >}}
+HubSpot's pricing structure, which is based on contact-based costs, paid add-ons, hub combinations, and seats, is opaque and can cause costs to rise rapidly. Additionally, the price jumps between subscription tiers are significant.
+{{< /faq >}}
+ 
+{{< faq "Is HubSpot suitable for small teams?" >}}
+Yes, HubSpot is a good fit for small teams if you’re satisfied with limited features. With its “HubSpot for Startups” program, HubSpot even specifically targets young companies in the growth phase. However, as soon as small teams scale up, the tool usually becomes too expensive and too complex.
 {{< /faq >}}
 
-{{< faq "Kann Hubspot monatlich gekündigt werden?" >}}
-Die Kündigungsfrist bei Hubspot hängt vom gewählten Tarif ab. Während Starter-Tarife monatlich gekündigt werden können, gilt ab dem Professional-Tarif in der Regel eine Jahresbindung.
+{{< faq "What alternatives are there to HubSpot?" >}}
+There are numerous powerful alternatives to HubSpot on the market, such as Salesforce or Pipedrive. If you’re looking for a solution with a similar feature set and more flexibility at a lower cost, no-code solutions like SeaTable are a good option.
+{{< /faq >}}
+
+{{< faq "Can HubSpot be canceled on a monthly basis?" >}}
+The cancellation period for HubSpot depends on the plan you choose. While Starter plans can be canceled monthly, plans starting with the Professional tier typically require a one-year commitment.
 {{< /faq >}}

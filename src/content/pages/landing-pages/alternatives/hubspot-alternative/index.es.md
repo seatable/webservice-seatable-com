@@ -62,7 +62,7 @@ sections:
         - bg-white
       title: CRM y automatización del marketing de forma sencilla
       subtitle: Desde el primer contacto hasta el acuerdo final
-      description: 'Si ha utilizado HubSpot y busca una solución más flexible y escalable, SeaTable ofrece una alternativa muy interesante a HubSpot: una [plataforma no-code con IA]({{< relref "/" >}}), tan fácil de usar como una hoja de cálculo y tan potente como una base de datos. Cree una **solución personalizada de CRM y marketing** y realice un seguimiento de las interacciones con los clientes y los procesos de venta en todo momento.'
+      description: 'Si ha [utilizado HubSpot]({{< relref "posts/hubspot-erfahrungen" >}}) y busca una solución más flexible y escalable, SeaTable ofrece una alternativa muy interesante a HubSpot: una [plataforma no-code con IA]({{< relref "/" >}}), tan fácil de usar como una hoja de cálculo y tan potente como una base de datos. Cree una **solución personalizada de CRM y marketing** y realice un seguimiento de las interacciones con los clientes y los procesos de venta en todo momento.'
       items:
         - text: "Funciones de IA integradas para **procesos inteligentes y automatizados sin necesidad de una API**"
         - text: "Mejora del trabajo en equipo gracias a **la colaboración en tiempo real y una función de chat integrada**"
