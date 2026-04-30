@@ -1,5 +1,5 @@
 ---
-title: 'Excel kostenlos? Tabellenkalkulation: Programme im Vergleich'
+title: 'Excel kostenlos? Tabellenkalkulation: Excel Alternativen im Vergleich'
 description: 'Benötigen Sie eine leistungsstarke Tabellenkalkulation, hadern aber mit Excel? Oder haben Sie Datenschutzbedenken gegenüber dem US-Riesen Microsoft? Kein Problem! Es gibt genügend Programme, die im Gegensatz zu Excel kostenlos sind oder sogar mehr Funktionen bieten. Tauchen Sie ein in die Welt der Tabellenlösungen!'
 seo:
     title: 'Excel kostenlos | Tabellenkalkulation | Tools im Vergleich'
@@ -16,7 +16,7 @@ color: '#6d9c70'
 
 ## Konkurrenz für den Marktführer: Wer Excel kostenlos anbietet
 
-Obwohl als **Tabellenkalkulation** konzipiert, wird heute wohl kaum ein anderes Computerprogramm für so viele unterschiedliche Anwendungsfälle genutzt wie **Microsoft Excel**: Schätzungen zufolge sollen bis zu eine Milliarde Menschen regelmäßig Spreadsheets mit Excel online bearbeiten! Dabei kann man mit gewissen Einschränkungen sogar Excel kostenlos nutzen. Wenn Sie sich jedoch nicht an den US-amerikanischen Quasi-Monopolisten binden wollen, haben Sie die Qual der Wahl: **Google Sheets, Apple Numbers, Calc und SeaTable** sind nur die bekanntesten unter den zahlreichen Excel Konkurrenten.
+Obwohl als **Tabellenkalkulation** konzipiert, wird heute wohl kaum ein anderes Computerprogramm für so viele unterschiedliche Anwendungsfälle genutzt wie **Microsoft Excel**: Schätzungen zufolge sollen bis zu eine Milliarde Menschen regelmäßig Spreadsheets mit Excel online bearbeiten! Dabei kann man mit gewissen Einschränkungen sogar Excel kostenlos nutzen. Wenn Sie sich jedoch nicht an den US-amerikanischen Quasi-Monopolisten binden wollen, haben Sie die Qual der Wahl: **Google Sheets, Apple Numbers, Calc und SeaTable** sind nur die bekanntesten unter den zahlreichen Excel Alternativen.
 
 Erfahren Sie im Folgenden, wie Sie Excel kostenlos nutzen und welche anderen Tabellenkalkulationsprogramme kostenlos sind.
 
@@ -24,11 +24,11 @@ Erfahren Sie im Folgenden, wie Sie Excel kostenlos nutzen und welche anderen Tab
 
 Excel ist das Tabellenkalkulationsprogramm des US-amerikanischen Tech-Riesen Microsoft und gehört zu den Microsoft-365-Anwendungen. Mit einem **kostenlosen Microsoft-Konto** können Sie Excel ausschließlich online verwenden – samt 5 Gigabyte Cloudspeicher. Da Microsoft auch die mobile Excel App kostenlos anbietet, können Sie Excel gratis auf Android- und iOS-Geräten installieren. Für manche Anwendungsfälle mag dies bereits ausreichen.
 
-Wenn Sie stattdessen aber die Desktop-Vollversion für Windows oder macOS benötigen, müssen Sie tief in die Tasche greifen. Ein **Microsoft-365-Abonnement** für eine Person kostet für zu Hause 69 Euro im Jahr bzw. 7 Euro im Monat und für Unternehmen sogar 11,70 Euro zzgl. MwSt. pro Benutzer und Monat. Daher lohnt es sich auf jeden Fall, sich mit anderen Anbietern zu beschäftigen und das ein oder andere Tabellenprogramm kostenlos zu testen.
+Wenn Sie stattdessen aber die Desktop-Vollversion für Windows oder macOS benötigen, müssen Sie tief in die Tasche greifen. Ein **Microsoft-365-Abonnement** für eine Person kostet für zu Hause 69 Euro im Jahr bzw. 7 Euro im Monat und für Unternehmen sogar 11,70 Euro zzgl. MwSt. pro Benutzer und Monat. Daher lohnt es sich auf jeden Fall, sich mit anderen Excel-Anbietern zu beschäftigen und das ein oder andere Tabellenprogramm kostenlos zu testen.
 
 ## Tabellenkalkulationen, die im Gegensatz zu Excel kostenlos sind
 
-Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in die nachfolgende Tabelle, welche die wichtigsten Tabellenkalkulationen gegenüberstellt. Eine detaillierte Beschreibung folgt weiter unten im Anschluss an eine Kategorisierung der hier betrachteten Tabellenkalkulationsprogramme.
+Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in die nachfolgende Tabelle, welche die wichtigsten alternativen Tabellenkalkulationen gegenüberstellt. Eine detaillierte Beschreibung folgt weiter unten im Anschluss an eine Kategorisierung der hier betrachteten Tabellenkalkulationsprogramme.
 
 | **Software**  | **Entwickelt von**       | **Betriebssysteme** |
 | ------------- | ------------------------ | ------------------- |
@@ -41,7 +41,7 @@ Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in 
 
 In diesem Vergleich wurden nur lokale Anwendungen berücksichtigt, die mindestens zwei Betriebssystemfamilien unterstützen. Aus diesem Grund ist Apple Numbers als reine Tabellenkalkulation für MacOS/iOS genauso wenig dabei wie Gnumeric, das seit 2014 eine reine Anwendung für Linux ist.
 
-Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [KI No-Code-Datenbank und App-Builder]({{< relref "/" >}}) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
+Ein aufstrebender Player unter den Tabellenkalkulationen Alternativen ist SeaTable, das als [KI No-Code-Datenbank und App-Builder]({{< relref "/" >}}) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
 
 ### Einordnung der Tabellenkalkulationen
 
@@ -73,9 +73,9 @@ Calc finden Sie in ähnlicher, aber nicht identischer Form in der **OpenOffice**
 
 ### Funktionsumfang: Vollwertige Tabellenkalkulation
 
-Bei den Kernfunktionen steht Calc seinem Vorbild Excel in nichts nach! Bei genauem Hinsehen findet man auch einige Features, die Excel kostenlos nicht im Angebot hat. Eine besondere Stärke zeigt Calc im Bereich **Formeln**. Der Formel-Assistent von Calc kennt rund 30 Funktionen mehr als der Konkurrent von Microsoft. Darüber hinaus bietet Calc als Open-Source-Alternative eine gute Unterstützung des OpenFormula Standards. Flexibel zeigt sich Calc auch beim Thema **Formatierungen**. In Ergänzung zu den üblichen Zellformatierungen kennt Calc Zell- und Seitenstile, mit den sich Tabellen schnell ansehnlich und einheitlich gestalten lassen.
+Bei den Kernfunktionen steht Calc seinem Vorbild Excel in nichts nach! Bei genauem Hinsehen findet man auch einige Features, die Excel kostenlos nicht im Angebot hat. Eine besondere Stärke zeigt Calc im Bereich **Formeln**. Der Formel-Assistent von Calc kennt rund 30 Funktionen mehr als der Konkurrent von Microsoft. Darüber hinaus bietet Calc als Open-Source Excel Alternative eine gute Unterstützung des OpenFormula Standards. Flexibel zeigt sich Calc auch beim Thema **Formatierungen**. In Ergänzung zu den üblichen Zellformatierungen kennt Calc Zell- und Seitenstile, mit den sich Tabellen schnell ansehnlich und einheitlich gestalten lassen.
 
-Dem Open-Source-Paradigma folgend fördert Calc auch die **Datenportabilität**: Apple-Numbers- und Gnumeric-Dateien lassen sich ebenso importieren wie zahlreiche ältere Formate (z. B. MS Works, Lotus 1-2-3). Die Möglichkeit, zwei Tabellendateien zu vergleichen, ist eine weitere Calc Funktion, auf die Excel Nutzer bisher vergeblich warten. Administratoren schätzen außerdem die Möglichkeit, OpenOffice wie LibreOffice ohne Installation direkt von einem USB-Stick starten und ausführen zu können.
+Dem Open-Source-Paradigma folgend fördert Calc auch die **Datenportabilität**: Apple-Numbers- und Gnumeric-Dateien lassen sich ebenso importieren wie zahlreiche ältere Formate (z. B. MS Works, Lotus 1-2-3). Die Möglichkeit, zwei Tabellendateien zu vergleichen, ist eine weitere Calc Funktion, auf die Excel Nutzer bisher vergeblich warten. Administratoren schätzen außerdem die Möglichkeit, OpenOffice-Alternativen wie LibreOffice ohne Installation direkt von einem USB-Stick starten und ausführen zu können.
 
 ### Nachteile von Calc im Vergleich zu Excel
 
@@ -87,13 +87,13 @@ Ein weiteres Hindernis für den Wechsel auf Calc ist die unvollständige Unterst
 
 ## PlanMaker
 
-### Excel Konkurrenz aus dem Hause SoftMaker
+### Excel Alternative aus dem Hause SoftMaker
 
 **PlanMaker** ist die Tabellenkalkulation der SoftMaker Office Suite, die von der Nürnberger SoftMaker Software GmbH entwickelt wird. Die Office Suite aus deutschen Landen enthält neben PlanMaker auch die Textverarbeitung **TextMaker** und die Anwendung **Presentations**.
 
 ![PlanMaker](Screenshot_PlanMaker.jpg)
 
-Wenn Sie eine Tabellenkalkulation suchen, die Sie anders als Excel kostenlos nutzen können, werden Sie mit PlanMaker zunächst enttäuscht: Das jährliche Abonnement für fünf Arbeitsplätze kostet rund 200 Euro, die Lizenz für fünf private Computer desselben Haushalts oder einen geschäftlichen Computer liegt bei 29,90 Euro pro Jahr oder 2,99 Euro pro Monat. Wenn Sie partout nichts ausgeben wollen, finden Sie unter dem Namen **FreeOffice** eine funktionseingeschränkte Version der SoftMaker Office Suite, mit der Sie dauerhaft eine Abwandlung von Excel kostenlos nutzen können.
+Wenn Sie eine Tabellenkalkulation suchen, die Sie anders als kostenlose Excel Alternative nutzen können, werden Sie mit PlanMaker zunächst enttäuscht: Das jährliche Abonnement für fünf Arbeitsplätze kostet rund 200 Euro, die Lizenz für fünf private Computer desselben Haushalts oder einen geschäftlichen Computer liegt bei 29,90 Euro pro Jahr oder 2,99 Euro pro Monat. Wenn Sie partout nichts ausgeben wollen, finden Sie unter dem Namen **FreeOffice** eine funktionseingeschränkte Version der SoftMaker Office Suite, mit der Sie dauerhaft eine Abwandlung von Excel kostenlos nutzen können.
 
 ### Gleicher Funktionsumfang wie Excel
 
@@ -105,13 +105,13 @@ PlanMaker kann aber auch noch an einer anderen Stelle gegen Excel punkten: PlanM
 
 ### Die Online-Tabellenkalkulation von Google
 
-**Sheets** ist die Tabellen-Webanwendung aus dem Hause Alphabet. Es bietet eine ansprechende Benutzeroberfläche, reichhaltige Datenanalyse-Funktionen sowie praktische Teamfunktionen. Alles, was Sie brauchen, um mit Sheets loszulegen, ist ein **kostenloser Google Account** – und wer hat den nicht? Kein Wunder also, dass viele derzeit wohl am liebsten Google Sheets als Ersatz für Excel kostenlos nutzen!
+**Sheets** ist eine Alternative zu Excel aus dem Hause Alphabet. Es bietet eine ansprechende Benutzeroberfläche, reichhaltige Datenanalyse-Funktionen sowie praktische Teamfunktionen. Alles, was Sie brauchen, um mit Sheets loszulegen, ist ein **kostenloser Google Account** – und wer hat den nicht? Kein Wunder also, dass viele derzeit wohl am liebsten Google Sheets als Ersatz für Excel kostenlos nutzen!
 
 ![Google Sheets ist im Vergleich zu Excel kostenlos](Screenshot_Google_Sheets.jpg)
 
 ### Kollaborative Tabellenkalkulation für den Browser
 
-Die Entwickler von Google haben mit Sheets eine Anwendung geschaffen, in der sich Einsteiger wie anspruchsvolle Nutzer gleichermaßen wohlfühlen. Einfach eine Tabelle erstellen, kostenlos speichern und mit anderen teilen! Das webbasierte **Interface läuft flüssig**, die Menüs sind gut organisiert und auch engagierte Benutzer werden kaum funktionale Wünsche offen haben. Andererseits ist es gerade der Verzicht auf einige Funktionen, der Google Sheets für Einsteiger attraktiv macht.
+Die Entwickler von Google haben mit Sheets eine Anwendung geschaffen, in der sich Einsteiger wie anspruchsvolle Nutzer gleichermaßen wohlfühlen. Einfach eine Tabelle erstellen, speichern und mit anderen teilen! Das webbasierte **Interface läuft flüssig**, die Menüs sind gut organisiert und auch engagierte Benutzer werden kaum funktionale Wünsche offen haben. Andererseits ist es gerade der Verzicht auf einige Funktionen, der Google Sheets für Einsteiger attraktiv macht.
 
 Insbesondere, wenn die **gemeinsame Arbeit** an Tabellen im Vordergrund steht, kann Sheets seine Trümpfe als Webanwendung ausspielen. Tabellen von Google Sheets werden in Google Drive, das ebenfalls mit dem Google Konto verknüpft ist, gespeichert. Von dort können Sie die Tabellen mit wenigen Klicks mit anderen Benutzern teilen. Bei gleichzeitiger Bearbeitung sehen alle Benutzer die Cursor-Positionen und die Eingaben der anderen **in Echtzeit**. Ein integrierter Chat erlaubt den direkten Austausch mit Kollegen.
 
@@ -131,13 +131,13 @@ Neueinsteiger werden sich mit Sheets vermutlich leichter tun als mit Excel. Umst
 
 ### Deutliche Orientierung an Google Sheets
 
-Wenn Sie aufgrund des Namens und des Anspruchs als G Suite Killer weitere Ähnlichkeiten zu Google Sheets vermuten, liegen Sie richtig: Auf den ersten Blick erscheint Zoho Sheet wie ein Klon von Google Sheets. Die **Menüstruktur ist quasi identisch**; Unterschiede zeigen sich erst auf den zweiten Blick. Auch beim direkten Funktionsvergleich sind Zoho Sheet und Google Sheets nah beieinander. Webformulare, Pivot-Tabellen, bedingte Formatierung, Versionierung sowie **umfangreiche Kollaborationsfunktionen** inklusive Sharing, Echtzeit-Zusammenarbeit und Chat gibt es in beiden. Wer mit Google Sheets zurechtkommt, wird auch mit Zoho Sheet keine Mühe haben, Excel kostenlos zu ersetzen.
+Wenn Sie aufgrund des Namens und des Anspruchs als G Suite Killer weitere Ähnlichkeiten zu Google Sheets vermuten, liegen Sie richtig: Auf den ersten Blick erscheint Zoho Sheet wie ein Klon von Google Sheets. Die **Menüstruktur ist quasi identisch**; Unterschiede zeigen sich erst auf den zweiten Blick. Auch beim direkten Funktionsvergleich sind die beiden Alternativen Zoho Sheet und Google Sheets nah beieinander. Webformulare, Pivot-Tabellen, bedingte Formatierung, Versionierung sowie **umfangreiche Kollaborationsfunktionen** inklusive Sharing, Echtzeit-Zusammenarbeit und Chat gibt es in beiden. Wer mit Google Sheets zurechtkommt, wird auch mit Zoho Sheet keine Mühe haben, Excel kostenlos zu ersetzen.
 
 Man tut Zoho Sheet aber Unrecht, wenn man ihm komplett die Individualität abspricht! Im Bereich Datenanalyse bietet es mit einem Solver und einer Zielwertfunktion mehr als das Google Pendant. Aufgrund seiner weniger marktdominierenden Rolle zeigt es sich auch erfreulich **integrativ**. In Zoho Sheet angelegte Tabellen können Sie in einem eigenen Online-Speicher – **Zoho Docs** für Privatpersonen, **Zoho WorkDrive** für Teams – oder in einem eingebundenen Account von Google Drive, OneDrive oder Dropbox abspeichern. Der Dateiexport ist in Dateien vom Typ .csv, .xlsx und .ods möglich.
 
 ![Screenshot Zoho Sheet](Screenshot_Zoho_Sheet.jpg)
 
-### Vor- und Nachteile, wenn Sie es als Ersatz für Excel kostenlos nutzen möchten
+### Vor- und Nachteile, wenn Sie es als Alternative für Excel kostenlos nutzen möchten
 
 Eine Stärke von Zoho Sheet, die es insbesondere für Umsteiger von Excel empfehlenswert macht, ist seine **Makro-Unterstützung**, die auch eine solche für Visual Basic for Applications (VBA) beinhaltet. Die leistungsfähige Scripting Engine von Google Sheets benötigt für Makros Google Apps Skripte, die auf JavaScript basieren. Für Excel Benutzer, die bisher in VBA entwickelten, bedeutet das eine massive Umgewöhnung bzw. das Erlernen einer neuen Programmiersprache.
 
@@ -163,7 +163,7 @@ Für die Web-Tabelle benötigt man kein installiertes Programm, sondern kann von
 
 ### Die kollaborative No-Code-Datenbank für mehr als Zahlen und Text
 
-SeaTable ist die jüngste Anwendung im Kreis der hier betrachteten Tabellenprogramme. Wie Google Sheets, Zoho Sheet und Ethercalc ist SeaTable eine **webbasierte Tabellenkalkulation**, die Sie im Gegensatz zu Excel kostenlos nutzen können. Die No-Code-Datenbank kombiniert eine ansprechende Benutzeroberfläche in Spreadsheet-Optik mit leistungsfähigen Analyse- und Kollaborationsfunktionen. Darüber hinaus ermöglicht SeaTable viele neue Anwendungsfälle, die so in Excel und Co. nicht möglich sind.
+SeaTable ist die jüngste Anwendung im Kreis der hier betrachteten Excel Alternativen. Wie Google Sheets, Zoho Sheet und Ethercalc ist SeaTable eine **webbasierte Tabellenkalkulation**, die Sie im Gegensatz zu Excel kostenlos nutzen können. Die No-Code-Datenbank kombiniert eine ansprechende **Benutzeroberfläche in Spreadsheet-Optik** mit leistungsfähigen **Analyse- und Kollaborationsfunktionen**. Darüber hinaus ermöglicht SeaTable viele neue Anwendungsfälle, die so in Excel und Co. nicht möglich sind.
 
 Dass SeaTable einiges anders macht als die anderen Tabellenkalkulationen, fällt schon beim ersten Öffnen einer Tabelle ins Auge. Anstelle eines uniformen Tabellenrasters, das nur Text, Zahlen und Formeln versteht, können Sie in einer SeaTable Tabelle auch **Bilder und Dateien**, Checkboxen, Positionsdaten sowie Benutzerverweise speichern. Weitere [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), die SeaTable anbietet, sind **Einfach- und Mehrfachauswahlen**.
 
@@ -173,7 +173,7 @@ Einfachauswahlfelder sind den Drop-down-Listen, die Sie in Excel via Datenvalidi
 
 ### Tabellenkalkulation mit der Power von No-Code-Datenbanken und App-Buildern
 
-Eine weitere Funktion von SeaTable, die in keiner der anderen Anwendungen zur Verfügung steht, sind **Verknüpfungen**. Mit Verknüpfungen lassen sich Datensätze miteinander in Beziehung setzen und Abhängigkeiten sowie Zugehörigkeiten abbilden (nicht zu verwechseln mit Zellverweisen in Excel). Dies geht sowohl innerhalb einer Tabelle als auch [über alle Tabellen in einer Datenbank hinweg]({{< relref "posts/relationale-datenbank" >}}). Über dazugehörige **Analysefunktionen** lassen sich die verknüpften Daten in der Browser-basierten Tabellenkalkulation spielend einfach grafisch und tabellarisch auswerten. SeaTable bringt Funktionalitäten mit, die man sonst nur aus Datenbanken kennt, und ist die optimale Lösung, um Spreadsheets wie in Excel kostenlos nutzen zu können.
+Eine weitere Funktion von der [Excel Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) SeaTable, die in keiner der anderen Anwendungen zur Verfügung steht, sind **Verknüpfungen**. Mit Verknüpfungen lassen sich Datensätze miteinander in Beziehung setzen und Abhängigkeiten sowie Zugehörigkeiten abbilden (nicht zu verwechseln mit Zellverweisen in Excel). Dies geht sowohl innerhalb einer Tabelle als auch [über alle Tabellen in einer Datenbank hinweg]({{< relref "posts/relationale-datenbank" >}}). Über dazugehörige **Analysefunktionen** lassen sich die verknüpften Daten in der Browser-basierten Tabellenkalkulation spielend einfach grafisch und tabellarisch auswerten. SeaTable bringt Funktionalitäten mit, die man sonst nur aus Datenbanken kennt, und ist die optimale Lösung, um Spreadsheets wie in Excel kostenlos nutzen zu können.
 
 SeaTable Einsteiger werden sich zunächst daran gewöhnen müssen, vor der Datenerfassung die Spaltentypen zu definieren und tabellenübergreifend in einer **Datenbank-Logik** zu denken. Die **intuitive Benutzeroberfläche** macht diese Herausforderung jedoch überschaubar. Die Migration von Excel wird mit [Importfunktionen für CSV- und XLSX-Dateien]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) erleichtert. Aufgrund der von SeaTable verwendeten Datenformate können beim Import aber Informationsverluste entstehen.
 
@@ -189,7 +189,7 @@ Zudem können Sie mit SeaTable ohne Programmierkenntnisse eigene Apps erstellen
 
 ### In der Cloud oder auf eigenen Servern
 
-Als flexible Allzweckwaffe macht SeaTable auch beim Thema **Betriebsart** keine Kompromisse. SeaTable lässt sich komfortabel in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) oder als [selbstgehostete Lösung]({{< relref "pages/product/seatable-server" >}}) verwenden. Anders als die anderen webbasierten Excel Konkurrenten gibt es SeaTable also auch als Software für den eigenen Server. Auf diese Weise bietet sich SeaTable für all diejenigen an, die mit strikten Datenschutzanforderungen konfrontiert sind.
+Als flexible Allzweckwaffe macht SeaTable auch beim Thema **Betriebsart** keine Kompromisse. SeaTable lässt sich komfortabel in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) oder als [selbstgehostete Lösung]({{< relref "pages/product/seatable-server" >}}) verwenden. Anders als die anderen webbasierten Excel Alternativen gibt es SeaTable also auch als Software für den eigenen Server. Auf diese Weise bietet sich SeaTable für all diejenigen an, die mit strikten Datenschutzanforderungen konfrontiert sind.
 
 Das [Free Abonnement]({{< relref "pages/prices" >}}) ist dauerhaft kostenlos und für den privaten Gebrauch ausreichend. Die kostenpflichtigen Versionen Plus und Enterprise bieten erweiterte Funktionen für den Unternehmenseinsatz wie z. B. benutzerdefinierte Freigaben, Automationen und Customizing. Die [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) verfügt zudem über eine zentrale Benutzer-Authentifizierung und Objektspeicher-Unterstützung.
 
