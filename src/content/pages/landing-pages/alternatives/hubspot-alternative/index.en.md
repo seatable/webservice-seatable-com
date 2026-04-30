@@ -62,7 +62,7 @@ sections:
         - bg-white
       title: CRM and Marketing Automation Made Easy
       subtitle: From the first contact to the final agreement
-      description: 'If you’ve used HubSpot and are looking for a more flexible and scalable solution, SeaTable offers a compelling alternative to HubSpot: an [AI-powered no-code platform]({{< relref "/" >}}), which is as easy to use as a spreadsheet and as powerful as a database. Create a **custom CRM and marketing solution** and keep track of customer interactions and sales processes at all times.'
+      description: 'If you’ve [used HubSpot]({{< relref "posts/hubspot-erfahrungen" >}}) and are looking for a more flexible and scalable solution, SeaTable offers a compelling alternative to HubSpot: an [AI-powered no-code platform]({{< relref "/" >}}), which is as easy to use as a spreadsheet and as powerful as a database. Create a **custom CRM and marketing solution** and keep track of customer interactions and sales processes at all times.'
       items:
         - text: "Built-in AI features for **smart, automated processes without an API**"
         - text: "Improved teamwork thanks to **real-time collaboration and an integrated chat feature**"
