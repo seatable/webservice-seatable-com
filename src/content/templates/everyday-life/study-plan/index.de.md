@@ -94,19 +94,19 @@ sections:
       - headline: 'Stoffplan-Tabelle für Themen & Fächer'
         text: 'In der Tabelle "Lernplan" planen Sie jedes Thema im Detail: von Fach und Modul über Priorität und Lernziele bis zu geplanter Lernzeit, Meilensteinen und Lernfortschritt. So halten Sie den gesamten Inhalt Ihrer Prüfungsvorbereitung strukturiert fest und ergänzen bei Bedarf weitere Hinweise zu Skripten, Notizen und Deadlines.'
         image: '/images/template_page_lernplan_02.png'
-        image_alt: ''
+        image_alt: 'Tabellarische Themenübersicht mit Lernzielen, Prioritäten, Zeitplanung und Lernfortschritt im digitalen Lernplan'
       - headline: 'Fächer-Tabelle für organisatorische Infos'  
         text: 'In der Tabelle "Fächer" erfassen Sie alle relevanten Organisationsinformationen zu jedem Kurs und dokumentieren wichtige Details wie Prüfungstermine, Kursinhalte oder Kontaktdaten der Dozenten. So sehen Studenten, Schüler und Prüfungskandidaten jederzeit, welche Anforderungen je Fach gelten und wie der Stoff strukturiert ist.'
         image: '/images/template_page_lernplan_03.png'
-        image_alt: ''
+        image_alt: 'Fächer-Tabelle mit Prüfungsterminen, Kursinhalten und Dozentenkontakten für strukturiertes Studienmanagement'
       - headline: 'Prüfungs-Tabelle für Deadlines & Termine'
         text: 'In der Tabelle "Prüfungen" verwalten Sie alle wichtigen Prüfungstermine präzise und halten Ort, Uhrzeit und Dauer der Klausuren fest. Die integrierte Kalenderansicht zeigt Ihnen nicht nur die Termine, sondern auch die Prüfungsdauer – damit Sie in der gesamten Klausurenphase keinen Termin verpassen.'
         image: '/images/template_page_lernplan_04.png'
-        image_alt: ''
+        image_alt: 'Prüfungstabelle mit Terminen, Ort, Uhrzeit und Kalenderansicht für lückenlose Klausurenplanung'
       - headline: 'In drei Schritten zum Lernrhythmus'
         text: 'Wenn alle Themen, Fächer und Prüfungen in der Lernplan Vorlage erfasst sind, starten Sie direkt in Ihren persönlichen Lernrhythmus: Sie setzen Meilensteine, stimmen Prioritäten ab und gehen mit einem klar strukturierten Lernplan, erstellt in der Vorlage, optimal vorbereitet in jede Prüfungsphase.'
         image: '/images/template_page_lernplan_05.png'
-        image_alt: ''
+        image_alt: 'Übersichtliche Lernplan Planung als Basis für Meilensteine, Prioritäten und strukturierte Prüfungsvorbereitung'
             
     - name: "content-6"
       weight: 12
@@ -118,7 +118,7 @@ sections:
       items:
       - text: 'Mit dem integrierten No-Code App Builder gestalten Sie aus der Lernplan Vorlage eine interaktive Lernplan-App für Studenten, Schüler, Dozenten und Lerngruppen. Kombinieren Sie Formulare für neue Themen, Felder für Fach, Modul und Lernziele mit Kalenderansichten, Kanban-Boards und Zeitablauf-Views – bis hin zu spezialisierten Apps für die Klausurenphase, Abschlussarbeiten oder berufsbegleitende Weiterbildungen. Teilen Sie gezielte Ausschnitte als Frontend mit den jeweiligen Rollen und steuern Sie über Berechtigungen, wer Themen anlegen, kommentieren oder im Lernprozess abhaken darf – so wird aus dem digitalen Template ein zentraler Lernplan für Ihre individuelle Selbstorganisation.'
       image: '/images/template_page_lernplan_06.png'
-      image_alt: ''
+      image_alt: 'Interaktive Lernplan-App mit Formularen, Kalenderansichten, Kanban-Boards und Timeline-Views in SeaTable'
 
     - name: "banner-3"
       weight: 15
