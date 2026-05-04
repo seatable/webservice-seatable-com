@@ -1,0 +1,31 @@
+{
+    "name": "Hugo",
+    "build": {
+        "context": "..",
+        "dockerfile": "../Dockerfile"
+    },
+    "workspaceMount": "source=${localWorkspaceFolder},target=/hugo,type=bind",
+    "workspaceFolder": "/hugo",
+    // Use command specified in Dockerfile
+    "overrideCommand": false,
+    "containerEnv": {
+        "HUGO_BACKEND_URL": "http://127.0.0.1:3000",
+        "ENABLE_PAGEFIND": "0"
+    },
+    "forwardPorts": [1313],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bradlc.vscode-tailwindcss",
+                "esbenp.prettier-vscode",
+                "yzhang.markdown-all-in-one",
+                "wayou.vscode-todo-highlight",
+                "soerenuhrbach.vscode-deepl"
+                // "ms-azuretools.vscode-docker"
+            ],
+            "settings": {
+                "remote.autoForwardPorts": false
+            }
+        }
+    }
+}
