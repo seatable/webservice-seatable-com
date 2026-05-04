@@ -1,5 +1,5 @@
 ---
-title: 'Anwesenheitsliste'
+title: 'Anwesenheitsliste Vorlage'
 description: 'Erfassen Sie Anwesenheiten digital und fehlerfrei, speichern Sie diese automatisch und werten Sie flexibel aus – professionell und papierlos.'
 date: '2025-02-28'
 url: '/de/vorlage/anwesenheitsliste'
@@ -9,7 +9,7 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: 'Anwesenheitslist Vorlage – einfach und digital '
+    title: 'Anwesenheitsliste Vorlage – einfach und digital '
     description: 'Erfassen Sie Anwesenheiten mühelos mit dieser Vorlage. Ideal für Mitarbeiter, Teilnehmer oder Schulungen – schnell und einfach organisiert'
 template: '7e0a717a66ca4658bbb4'
 weight: 3
