@@ -87,6 +87,14 @@ sections:
       image: '/images/template_page_arbeitszeiterfassung_01.png'
       image_alt: 'Datenbank zur digitalen Arbeitszeiterfassung mit Zeiten, Urlaub und Überstunden in SeaTable'
 
+    - name: "youtube"
+      weight: 6
+      title: So einfach funktioniert SeaTable
+      subtitle: How-to Arbeitszeiterfassung-App
+      description: 
+      videoId: nLXLACzVhAQ
+      aspect: 16:9
+
     - name: "content-25"
       weight: 10
       title: 'So funktioniert die Arbeitszeiterfassung Vorlage'
