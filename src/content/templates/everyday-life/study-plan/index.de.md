@@ -84,7 +84,7 @@ sections:
       - text: '**Zentrale Ablage:** Skripte, Notizen, Lernmaterialien und Prüfungsdaten liegen direkt in Ihrer Lernplan Vorlage – ohne separate Word-Dokumente oder verstreute Dateiablagen.'
       image_position: [left]
       image: '/images/template_page_lernplan_01.png'
-      image_alt: ''
+      image_alt: 'Strukturierte digitale Lernplan Vorlage mit Kalender-, Tabellen- und Kanban-Ansicht für Prüfungsvorbereitung'
 
     - name: "content-25"
       weight: 10
