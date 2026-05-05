@@ -40,7 +40,7 @@ sections:
         - text: '**Automações assistidas por IA**'
         - text: '**Construtor de aplicações de arrastar e soltar** para utilização front-end e painéis de relatórios'
         - text: 'Como solução **escalável na nuvem ou no local**'
-      image: /images/Landing Page Marketing_Planning and Analysis-1.png
+      image: /images/landing-page-marketing-01.png
       image_alt: 'Dashboard de marketing do SeaTable para planeamento de campanhas e análise de desempenho'
 
     - name: 'content-4'
