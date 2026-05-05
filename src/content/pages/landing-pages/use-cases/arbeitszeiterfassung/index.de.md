@@ -73,6 +73,14 @@ sections:
       image: /images/landing-page-arbeitszeiterfassung-01.png
       image_alt: 'SeaTable Arbeitszeiterfassung mit Stundenübersicht und Tages-Salden'
 
+    - name: "youtube"
+      weight: 6
+      title: So einfach funktioniert SeaTable
+      subtitle: How-to Arbeitszeiterfassung-App
+      description: 
+      videoId: nLXLACzVhAQ
+      aspect: 16:9
+
     - name: content-25
       weight: 7
       title: Arbeitszeiterfassung mit SeaTable  
