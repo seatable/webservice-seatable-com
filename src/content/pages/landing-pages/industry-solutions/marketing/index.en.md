@@ -43,7 +43,7 @@ sections:
           - text: '**AI-supported automation**'
           - text: '**Drag-and-drop app builder** for front-end use and reporting dashboards' 
           - text: 'As a scalable **cloud solution or on-premises**'
-      image: /images/Landing Page Marketing_Planning and Analysis-1.png
+      image: /images/landing-page-marketing-01.png
       image_alt: 'SeaTable marketing dashboard for campaign planning and performance analysis'
 
     - name: 'content-4'

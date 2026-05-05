@@ -69,7 +69,7 @@ sections:
         - text: "**Implementação simples** sem necessidade de conhecimentos de programação"
         - text: "Aplicação de gestão de projetos intuitiva graças ao **construtor de aplicações de arrastar e soltar**"
         - text: "Als skalierbare **Cloud-Lösung oder On-Premises**"
-      image: /images/Projektmanagement_Teamwork-6.png
+      image: /images/landing-page-projectmanagement-01.png
       image_alt: 'Visualização de gestão de projetos SeaTable para trabalho em equipa com tarefas e status'    
 
     - name: content-1
@@ -83,7 +83,7 @@ sections:
         text: Com o SeaTable, pode reunir todas as informações num único local, colaborar em projetos e sincronizar alterações em tempo real. Isso proporciona transparência para todos os participantes do projeto. 
       - headline: Solução acessível
         text: Com o SeaTable, é possível personalizar o seu software de gestão de projetos. Paga apenas pelas funcionalidades de que realmente necessita ou utiliza a versão gratuita, que pode atualizar conforme necessário – de forma transparente e justa.
-      image: /images/Projektmanagement_Group-3.png
+      image: /images/landing-page-projectmanagement-02.png
       image_alt: 'A equipa discute projetos com o SeaTable como ferramenta de gestão de projetos.'
       
     - name: 'content-8'
@@ -139,19 +139,19 @@ sections:
       items:
       - headline: Planos do projeto
         text: Gerencie todas as atividades do seu próximo projeto com um planeador de projetos claro. Com o modelo de plano de projeto do SeaTable, você tem a ferramenta perfeita para planejar projetos grandes e pequenos.
-        image: /images/Projektmanagement_-Project-Plan_10.png
+        image: /images/landing-page-projectmanagement-03.png
         image_alt: 'Visualização do SeaTable Project Planner com linha do tempo e tarefas'
       - headline: Plano de estrutura do projeto
         text: Com um plano de estrutura do projeto, pode dividir o seu projeto em subtarefas e pacotes de trabalho planeáveis. Graças ao [modelo de planeamento da estrutura do projeto]({{< relref "templates/projects/work-breakdown-structure" >}}) do SeaTable, isso é muito fácil. 
-        image: /images/Projektmanagement_Projektstrukturplan_7.png
+        image: /images/landing-page-projectmanagement-04.png
         image_alt: 'Modelo de estrutura do projeto SeaTable com pacotes de trabalho'
       - headline: Gestão do portfólio de projetos
         text: A [gestão de portfólio de projetos]({{< relref "posts/20250327-portfoliomanagement" >}}) (PPM) abrange o controlo de todos os projetos de uma organização. A gestão de portfólio de projetos envolve um volume significativo de dados e requer a avaliação de muitos projetos.
-        image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
+        image: /images/landing-page-projectmanagement-05.png
         image_alt: 'Visualização do portfólio de projetos SeaTable para vários projetos paralelos'
       - headline: Aplicação de gestão de projetos
         text: Com o criador de aplicações sem código da SeaTable, é possível criar aplicações baseadas na web sem qualquer conhecimento de programação. Numa aplicação de gestão de projetos ou de planeamento de projetos, pode controlar exatamente quem pode ver quais dados e como estes são visualizados.
-        image: /images/Projektmanagement_Universal-App_7.png
+        image: /images/landing-page-projectmanagement-06.png
         image_alt: 'Aplicação SeaTable para gestão de projetos como interface de planeamento de projetos baseada na web'
         # TODO: doppelte Bilder mit (1) entfernen.   
     

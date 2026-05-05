@@ -41,7 +41,7 @@ sections:
         - text: "**Automatisation assistée par l'intelligence artificielle**"
         - text: "**Générateur d'applications par glisser-déposer** pour une utilisation frontale et des tableaux de bord de reporting"
         - text: "En tant que solution **cloud évolutive ou sur site**"
-      image: /images/Landing Page Marketing_Planning and Analysis-1.png
+      image: /images/landing-page-marketing-01.png
       image_alt: 'Tableau de bord marketing SeaTable pour planification de campagnes et analyse de performance'
 
     - name: 'content-4'

@@ -69,7 +69,7 @@ sections:
         - text: "**Easy implementation** without programming knowledge"
         - text: "Clear project management app thanks to **drag-and-drop app builder**"
         - text: "As a scalable **cloud solution or on-premises**"
-      image: /images/Projektmanagement_Teamwork-6.png
+      image: /images/landing-page-projectmanagement-01.png
       image_alt: "SeaTable project management view for teamwork with tasks and statuses"    
 
     - name: content-1
@@ -83,7 +83,7 @@ sections:
         text: With SeaTable, you can consolidate all information in one place, collaborate on projects, and synchronize changes in real time. This creates transparency for everyone involved in the project. 
       - headline: Inexpensive solution
         text: With SeaTable, you can **customize your project management software**. You only pay for the features you really need, or you can use the free version, which you can upgrade if necessary—transparent and fair.
-      image: /images/Projektmanagement_Group-3.png
+      image: /images/landing-page-projectmanagement-02.png
       image_alt: 'Team discusses projects using SeaTable as a project management tool'
       
     - name: 'content-8'
@@ -139,19 +139,19 @@ sections:
       items:
       - headline: Project plans
         text: Manage every activity of your next project with a clear project planner. With SeaTable's project plan template, you have the perfect project planning tool for large and small projects alike.
-        image: /images/Projektmanagement_-Project-Plan_10.png
+        image: /images/landing-page-projectmanagement-03.png
         image_alt: 'SeaTable project planner view with timeline and tasks'
       - headline: Project structure plan
         text: With a project structure plan, you can divide your project into manageable subtasks and work packages. Thanks to SeaTable's [project structure planning template]({{< relref "templates/projects/work-breakdown-structure" >}}), this is a breeze.
-        image: /images/Projektmanagement_Projektstrukturplan_7.png
+        image: /images/landing-page-projectmanagement-04.png
         image_alt: 'SeaTable project structure plan template with work packages'
       - headline: Project portfolio management
         text: '[Project portfolio management]({{< relref "posts/20250327-portfoliomanagement" >}}) (PPM) encompasses the management of all projects within an organization. Project portfolio management is data-intensive and requires the evaluation of many projects.'
-        image: /images/1-Projektmanagement_Project-Portfolio_7-1.png
+        image: /images/landing-page-projectmanagement-05.png
         image_alt: 'SeaTable project portfolio view for multiple parallel projects'
       - headline: Project management app
         text: With SeaTable's no-code app builder, you can create web-based apps without any programming knowledge. In a project management app or project planning app, you can control exactly who can see which data and how it is visualized.
-        image: /images/Projektmanagement_Universal-App_7.png
+        image: /images/landing-page-projectmanagement-06.png
         image_alt: 'SeaTable project management app as a web-based project planning interface'
         # TODO: doppelte Bilder mit (1) entfernen.   
     

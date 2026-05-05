@@ -38,7 +38,7 @@ sections:
         - text: '**KI-unterstützte Automatisierungen**'
         - text: '**Drag-and-Drop-App Builder** für Frontend-Nutzung und Reporting-Dashboards'
         - text: 'Als skalierbare **Cloud-Lösung oder On-Premises**'
-      image: /images/Landing Page Marketing_Planning and Analysis-1.png
+      image: /images/landing-page-marketing-01.png
       image_alt: 'SeaTable Marketing Dashboard für Kampagnenplanung und Performance-Analyse'
 
     - name: "content-4"
