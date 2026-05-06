@@ -8,7 +8,6 @@ date: 2026-03-03
 url: '/fr/base-de-donnees-relationnelle/'
 categories:
     - 'best-practice'
-    - 'low-code-no-code'
 tags:
     - 'Gestion des données & visualisation'
     - 'No Code & Low Code'

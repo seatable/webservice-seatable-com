@@ -8,7 +8,6 @@ date: 2026-03-03
 url: '/ru/relyatsionnaya-baza-dannykh/'
 categories:
     - 'best-practice'
-    - 'low-code-no-code'
 tags:
     - 'Управление данными и визуализация'
     - 'No Code & Low Code'

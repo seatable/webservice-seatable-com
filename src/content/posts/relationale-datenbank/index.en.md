@@ -8,7 +8,6 @@ date: 2026-03-03
 url: '/relational-database/'
 categories:
     - 'best-practice'
-    - 'low-code-no-code'
 tags:
     - 'Data management & visualization'
     - 'No Code & Low Code'
