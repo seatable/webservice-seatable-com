@@ -128,7 +128,7 @@ Notion ne vous convient pas si
 
 Si vous recherchez une alternative à Notion offrant davantage de flexibilité et de véritables structures de données relationnelles, tout en garantissant **une performance élevée et une protection maximale des données**, vous devriez **envisager SeaTable**. Grâce à la [plateforme IA no-code]({{< relref "/" >}}), vous créez **de manière intuitive des bases de données et des applications personnalisées** pour tous les usages, du livre de comptes personnel à la quasi-totalité des applications professionnelles. Avec des **mises à jour en temps réel**, des fonctions de chat et de notification intégrées, un plugin de chat IA pour l'intégration d'agents IA externes ainsi que des **intégrations natives pour les clients de messagerie ou Google Agenda**, SeaTable est parfaitement adapté aux petites et grandes équipes. De nombreux modèles sont à votre disposition pour vous permettre de démarrer rapidement. Et contrairement à Notion, SeaTable Server vous permet **également d’opter pour une version sur site**.
 
-{{< template id="1acd19d97c8f4ed3ad38" >}}
+{{< template-box id="1acd19d97c8f4ed3ad38" submit="Essayer le modèle gratuitement" text="" >}}
 
 ## FAQ – Expériences avec Notion
 
