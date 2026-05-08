@@ -77,7 +77,7 @@ Hubspot bietet jeden Hub in vier Stufen an: Free, Starter, Professional und Ente
 
 Ein weiterer Faktor, der zur Intransparenz beiträgt und viele Kunden negativ überrascht, ist, dass Hubspot **für manche Funktionen Limits in den Standardtarifen setzt**, z. B. für Marketingkontakte im Marketing-Hub, das Calling-Feature im Sales-Hub, skalierbare Content-Produktion im Content Hub oder allgemein die KI- und API-Nutzung. Wenn das Limit ausgeschöpft ist, müssen zusätzliche Pakete erworben werden.
 
-### Seats als Faktor bei den Hubspot Preisen
+### Seats als Faktor bei den Hubspot-Preisen
 
 Seit März 2024 basiert Hubspot auf einem Seat-Modell: Jeder Nutzer braucht eine Lizenz, die seinen Zugriff definiert. *Core Seats* gewähren vollen Zugriff auf alle gebuchten Hubs inklusive KI-Funktionen, während *View-only Seats* kostenlos und unbegrenzt verfügbar sind, aber nur Leserechte bieten. Für aktiv arbeitende Mitarbeiter ist ein kostenpflichtiger Core Seat erforderlich. Bei wachsenden Teams summieren sich die Kosten so schnell. Und wer Kosten spart und Mitarbeiter auf View-only-Seats beschränkt, schränkt damit gleichzeitig auch die Kollaborationsfähigkeit seines Teams im System ein.
 
@@ -156,7 +156,7 @@ Die zahlreichen Erfahrungsberichte von Hubspot-Nutzern auf Capterra und G2 ergeb
 
 Wer eine [Alternative zu Hubspot]({{< relref "pages/landing-pages/alternatives/hubspot-alternative" >}}) sucht, die mehr Flexibilität bei niedrigeren und transparenten Kosten bietet, sollte **SeaTable** in Betracht ziehen. Die **KI-No-Code-Plattform** ermöglicht es, CRM, Kampagnensteuerung und Reporting individuell zu modellieren und bietet zahlreiche Vorlagen für den schnellen Einstieg – auch für [CRM]({{< relref "templates/sales/crm-tool" >}}) und Marketing. Und das Ganze **ohne Kontaktstaffeln, ohne komplexe Hub-Kombinationen und mit DSGVO-konformen Hosting**. Statt sich an vordefinierte Strukturen anzupassen, bauen Sie mit SeaTable **ein System, das wirklich zu Ihren Prozessen passt**.
 
-{{< template id="80356f5aa87e4a879b52" >}}
+{{< template-box id="80356f5aa87e4a879b52" submit="Vorlage kostenlos ausprobieren" text="" >}}
 
 ## FAQs – Nutzererfahrungen mit Hubspot
 

@@ -156,7 +156,7 @@ Les nombreux témoignages d’utilisateurs de HubSpot sur Capterra et G2 aboutis
 
 Si vous recherchez une [alternative à HubSpot]({{< relref "pages/landing-pages/alternatives/hubspot-alternative" >}}) offrant davantage de flexibilité à des coûts réduits et transparents, vous devriez envisager **SeaTable**. Cette **plateforme IA no-code** permet de modéliser individuellement le CRM, la gestion des campagnes et le reporting, et propose de nombreux modèles pour un démarrage rapide – y compris pour le [CRM]({{< relref "templates/sales/crm-tool" >}}) et le marketing. Le tout **sans barèmes de contact, sans combinaisons complexes de hubs et avec un hébergement conforme au RGPD**. Au lieu de vous adapter à des structures prédéfinies, vous construisez avec SeaTable **un système qui correspond véritablement à vos processus**.
 
-{{< template id="80356f5aa87e4a879b52" >}}
+{{< template-box id="80356f5aa87e4a879b52" submit="Essayer le modèle gratuitement" text="" >}}
 
 ## FAQ – Expériences des utilisateurs avec HubSpot
 

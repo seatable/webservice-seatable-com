@@ -106,7 +106,7 @@ sections:
             image_alt: Modèle SeaTables d'intégration des clients pour favoriser leur fidélisation dès le premier jour
       buttons:
           - label: "Découvrez d'autres modèles CRM"
-            link: "templates/human-resources"
+            link: "templates/sales"
 
     - name: banner-2
       weight: 7

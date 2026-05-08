@@ -156,7 +156,7 @@ The numerous reviews from HubSpot users on Capterra and G2 paint a fairly clear 
 
 If you’re looking for an [alternative to HubSpot]({{< relref "pages/landing-pages/alternatives/hubspot-alternative" >}}) that offers more flexibility at lower and transparent costs, you should consider **SeaTable**. The **AI no-code platform** allows you to customize CRM, campaign management, and reporting, and offers numerous templates for a quick start—including for [CRM]({{< relref "templates/sales/crm-tool" >}}) and marketing. And all of this **without tiered pricing, without complex hub combinations, and with GDPR-compliant hosting**. Instead of adapting to predefined structures, with SeaTable you build **a system that truly fits your processes**.
 
-{{< template id="80356f5aa87e4a879b52" >}}
+{{< template-box id="80356f5aa87e4a879b52" submit="Try the template for free" text="" >}}
 
 ## FAQs – User Experiences with HubSpot
 
