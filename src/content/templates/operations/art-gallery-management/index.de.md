@@ -83,7 +83,7 @@ sections:
       - text: '**Interaktives Template:** Wechseln Sie zwischen Galerie-Ansicht für visuelle Objektübersichten, Kanban-Ansicht für Restaurierungsstatus und tabellarischer Detailplanung.'
       - text: '**Zentrale Ablage:** Zustandsfotos, Gutachten, Leihverträge und Herkunftsdaten liegen direkt am Objekt – ohne separate Ordner, Festplatten oder Aktenschränke.'
       image_position: [left]
-      image: '/images/template_page_storyboard_01.png'
+      image: '/images/template_page_inventarisierung_museen_01.png'
       image_alt: 'Digitales Bestandsverzeichnis für Museen mit Galerie-Ansicht, Kanban-Board und Objektdetails in SeaTable'
 
     - name: "content-25"
@@ -93,19 +93,19 @@ sections:
       items:
       - headline: 'Objekte-Tabelle für das Bestandsverzeichnis'
         text: 'In der Tabelle "Objects" erfassen Sie jedes Exponat vollständig: Objektname, Künstler, Foto, Standort, Beschreibung, Zustand und Herkunftsangaben. Die integrierte Galerie-Ansicht verwandelt Ihr digitales Bestandsverzeichnis in einen visuellen Katalog – ideal für die tägliche Arbeit in der Inventarisierung im Museum und für die Präsentation gegenüber Kuratoren oder Leihgebern.'
-        image: '/images/template_page_storyboard_02.png'
+        image: '/images/template_page_inventarisierung_museen_02.png'
         image_alt: 'Objekttabelle mit Galerie-Ansicht, Zustandsfotos und Herkunftsdaten im digitalen Bestandsverzeichnis'
       - headline: 'Künstler-Tabelle für vollständige Dokumentation'  
         text: 'In der Tabelle "Artists" sammeln Sie alle Informationen zu den Künstlern Ihrer Sammlung: Biografie, Geburtsdaten, Nationalität und verknüpfte Werke. Die direkte Verlinkung mit der Objekttabelle sorgt dafür, dass Ihr Sammlungsmanagement für Museen jederzeit vollständig und ohne Doppelerfassung aktuell bleibt.'
-        image: '/images/template_page_storyboard_03.png'
+        image: '/images/template_page_inventarisierung_museen_03.png'
         image_alt: 'Künstlertabelle mit Biografien und verlinkten Kunstgegenständen im Sammlungsmanagement für Museen'
       - headline: 'Leihverkehr-Tabelle mit Fristen und Verträgen'
         text: 'In der Tabelle "Loan" verwalten Sie den gesamten Leihverkehr: Leihobjekt, Leihvertrag, Leihdatum, Rückgabefrist und monatliche Kosten werden automatisch aus verknüpften Tabellen übernommen. Automatisierte Erinnerungen informieren Ihr Team rechtzeitig, bevor Fristen ablaufen – für ein lückenloses Leihmanagement ohne manuelle Nachverfolgung.'
-        image: '/images/template_page_storyboard_04.png'
+        image: '/images/template_page_inventarisierung_museen_04.png'
         image_alt: 'Leihverkehr-Tabelle mit Fristen, Verträgen und automatischen Erinnerungen im digitalen Bestandsverzeichnis'
       - headline: 'Restaurierungs-Kanban für den Überblick'
         text: 'Wenn alle Objekte, Künstler und Leihvorgänge erfasst sind, visualisieren Sie laufende Restaurierungen im Kanban-Board nach Status: Geplant, In Bearbeitung, Abgeschlossen. Mit Vorher-Nachher-Dokumentation und Statusfeldern behalten Kuratoren und Restauratoren jederzeit den Überblick über jedes Restaurierungsprojekt in Ihrer Sammlung.'
-        image: '/images/template_page_storyboard_05.png'
+        image: '/images/template_page_inventarisierung_museen_05.png'
         image_alt: 'Kanban-Board für Restaurierungsprojekte mit Statusverfolgung und Dokumentation im Museum-Bestandsverzeichnis'
             
     - name: "content-6"
@@ -117,7 +117,7 @@ sections:
       subtitle: 
       items:
       - text: 'Mit dem integrierten No-Code App Builder von SeaTable gestalten Sie aus der Vorlage für die Inventarisierung im Museum eine maßgeschneiderte Kunstmanagement-App – ganz ohne Programmierkenntnisse. Kombinieren Sie Formulare für die mobile Objekterfassung im Depot mit Galerie-Ansichten für visuelle Sammlungsübersichten, Kanban-Boards für Restaurierungsstatus und Listenansichten für den Leihverkehr. Teilen Sie gezielte Ausschnitte als Frontend mit Kuratoren, Restauratoren oder externen Leihgebern und steuern Sie über Berechtigungen, wer Objekte anlegen, Zustandsfotos hochladen oder Leihfristen einsehen darf – so entsteht aus der Vorlage eine zentrale Plattform für Ihre digitale Kunstverwaltung und das Sammlungsmanagement für Museen und Galerien. Erfahren Sie, wie einfach es ist, [eine App ohne Programmierkenntisse zu erstellen]({{< relref "posts/20250318-app-erstellen" >}}).'
-      image: '/images/template_page_storyboard_06.png'
+      image: '/images/template_page_inventarisierung_museen_06.png'
       image_alt: 'Interaktive Museum-App mit Galerie-Ansicht, Leihverkehr-Übersicht und Formularen für mobile Objekterfassung'
 
     - name: "banner-3"
