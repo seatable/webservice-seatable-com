@@ -106,7 +106,7 @@ sections:
             image_alt: 'Modelo de integração de clientes da SeaTables para a retenção desde o primeiro dia'
       buttons:
           - label: "Descubra mais modelos de CRM"
-            link: "templates/human-resources"
+            link: "templates/sales"
 
     - name: banner-2
       weight: 7

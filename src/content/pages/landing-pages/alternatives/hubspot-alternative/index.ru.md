@@ -106,7 +106,7 @@ sections:
             image_alt: 'Шаблон SeaTables для адаптации новых клиентов, направленный на удержание с самого первого дня'
       buttons:
           - label: "Откройте для себя другие шаблоны CRM"
-            link: "templates/human-resources"
+            link: "templates/sales"
 
     - name: banner-2
       weight: 7

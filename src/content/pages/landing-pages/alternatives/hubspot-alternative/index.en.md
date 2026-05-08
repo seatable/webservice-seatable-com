@@ -106,7 +106,7 @@ sections:
             image_alt: "SeaTable's Customer Onboarding Template for Retention from Day One"
       buttons:
           - label: "Discover more CRM templates"
-            link: "templates/human-resources"
+            link: "templates/sales"
 
     - name: banner-2
       weight: 7

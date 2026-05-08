@@ -106,7 +106,7 @@ sections:
             image_alt: "Plantilla de SeaTable para la incorporación de clientes, destinada a la fidelización desde el primer día"
       buttons:
           - label: "Descubra más plantillas de CRM"
-            link: "templates/human-resources"
+            link: "templates/sales"
 
     - name: banner-2
       weight: 7
