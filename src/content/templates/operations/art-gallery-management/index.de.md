@@ -50,7 +50,7 @@ sections:
           text: 'Laden Sie Zustandsfotos, Gutachten und PDFs direkt aus dem Lager hoch – per Smartphone oder Tablet. Jedes Exponat erhält seine eigene digitale Akte mit Bilddokumentation, Herkunftsdaten und Zustandserfassung in Ihrer Kunstverwaltung.'
         - icon: 'bell'
           headline: 'Anpassbar statt starr'
-          text: 'SeaTable passt sich Ihrem Museum an – nicht umgekehrt. Ergänzen Sie Felder für Provenienz, Versicherungswert oder Ausstellungshistorie ohne IT-Hilfe. Ihr Sammlungsmanagement für Museen wächst flexibel mit Ihren Anforderungen und Projekten' 
+          text: 'SeaTable passt sich Ihrem Museum an – nicht umgekehrt. Ergänzen Sie Felder für Provenienz, Versicherungswert oder Ausstellungshistorie ohne IT-Hilfe. Ihr Sammlungsmanagement für Museen wächst flexibel mit Ihren Anforderungen und Projekten.' 
 
     - name: "customer-1"
       weight: 4
