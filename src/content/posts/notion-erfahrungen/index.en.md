@@ -19,7 +19,7 @@ register:
 ---
 ## The Basics of Notion
 
-Notion is one of the most talked-about productivity tools of recent years. Founded in 2016, this U.S.-based company promises to provide a **digital all-in-one workspace** that allows users to combine documents, [databases]({{< relref "posts/relational-database" >}}), task management, [knowledge management]({{< relref "posts/wissensmanagement" >}}), and project planning in a single solution. At the core of the tool are **block-based pages** where users can create documents, images, text, or tables and structure and link them together as they see fit.
+Notion is one of the most talked-about productivity tools of recent years. Founded in 2016, this U.S.-based company promises to provide a **digital all-in-one workspace** that allows users to combine documents, [databases]({{< relref "posts/relationale-datenbank" >}}), task management, [knowledge management]({{< relref "posts/wissensmanagement" >}}), and project planning in a single solution. At the core of the tool are **block-based pages** where users can create documents, images, text, or tables and structure and link them together as they see fit.
 
 *   Notion offers workspaces with block-based pages that can be flexibly and individually designed using drag-and-drop.
  
