@@ -135,27 +135,27 @@ Si busca una alternativa a Notion que ofrezca más flexibilidad y estructuras de
 {{< faq "¿Cumple Notion con el RGPD?" >}}
 Notion, como empresa estadounidense, está sujeta a la Ley de la Nube de EE. UU. (US Cloud Act) y, además, almacena todos los datos en centros de datos de AWS. Aunque la empresa ofrece a sus clientes empresariales la residencia de datos en la UE desde 2025, se reserva el derecho de almacenar, por ejemplo, la información de los usuarios y los datos de facturación en EE. UU. De este modo, aunque la empresa cumple formalmente los requisitos del Marco de Protección de Datos UE-EE. UU., no satisface los estrictos requisitos de protección de datos y cumplimiento normativo.
 {{< /faq >}}
-    
+
 {{< faq "¿Se pueden migrar los datos de Notion?" >}}
 Sí, Notion permite exportar las páginas creadas en formato HTML, Markdown o CSV; esta última opción es recomendable si desea migrar sus datos a SeaTable. Sin embargo, algunos usuarios informan de que la exportación puede resultar incompleta o interrumpirse en espacios de trabajo de gran tamaño.
-{{< /faq >}}   
+{{< /faq >}}
 
 {{< faq "¿Es Notion adecuado también para equipos grandes?">}}
 No, más bien no. Notion funciona bastante bien para personas individuales o equipos pequeños de hasta unas 10 personas. En muchas experiencias con Notion, los usuarios informan de que, en equipos más grandes, las estructuras de permisos rudimentarias, la colaboración en tiempo real limitada y el rendimiento del sistema se convierten en un problema.
-{{< /faq >}} 
+{{< /faq >}}
  
 {{< faq "¿Se puede utilizar Notion como base de datos?" >}}
 Sí, pero con limitaciones significativas. Notion ofrece las denominadas «bases de datos», aunque en esencia se trata de tablas con posibilidades de vinculación limitadas. Sin embargo, en cuanto se desee crear relaciones de datos algo más complejas con múltiples vínculos, rollups o integridad de datos referencial, la herramienta llega a sus límites. Por lo tanto, si necesita una herramienta de base de datos completa y escalable, debería considerar directamente alternativas como SeaTable.  
-{{< /faq >}} 
+{{< /faq >}}
 
 {{< faq "¿Qué alternativas hay a Notion?" >}}
 Notion es una herramienta versátil y la alternativa que le convenga dependerá del caso de uso. Para la gestión de proyectos, puede utilizar Asana o Clickup; como herramienta de CRM y gestión de marketing, [Hubspot]({{< relref "posts/hubspot-erfahrungen" >}}) o Pipedrive; y para la gestión estructurada del conocimiento, por ejemplo, Confluence. Si busca una alternativa «todo en uno», lo más recomendable son las herramientas no-code, como SeaTable. 
-{{< /faq >}} 
+{{< /faq >}}
 
 {{< faq "¿Merece la pena la versión gratuita de Notion?" >}}
 Si tomamos como referencia las numerosas opiniones sobre Notion de [G2](https://www.g2.com/de/products/notion/reviews) y [Capterra](https://www.capterra.com/p/186596/Notion/), depende de cómo utilice Notion. Los usuarios particulares pueden gestionar perfectamente su organización personal y proyectos sencillos con el plan gratuito. Los estudiantes se benefician además de *Notion Student* y obtienen todas las funciones del plan Plus de forma gratuita. *Notion* Student también puede ser utilizado por organizaciones estudiantiles. Sin embargo, si desea utilizar Notion en equipo, las limitaciones se notan claramente y no tendrá más remedio que optar por un plan de pago. Dado que Notion calcula los precios por usuario, los precios de Notion se convierten rápidamente en un factor decisivo.
-{{< /faq >}} 
+{{< /faq >}}
 
 {{< faq "¿Ofrece Notion plantillas?" >}}
 Sí, puede utilizar plantillas de Notion ya preparadas y, de hecho, para los principiantes es recomendable empezar con ellas. Las plantillas de Notion son personalizables, al igual que las de SeaTable.
-{{< /faq >}} 
+{{< /faq >}}
