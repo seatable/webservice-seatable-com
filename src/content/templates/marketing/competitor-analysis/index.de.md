@@ -49,7 +49,7 @@ sections:
           text: 'Passen Sie die Konkurrenzanalyse Vorlage ohne IT-Hilfe an: Ergänzen Sie Felder für SWOT-Analyse, Marktanteile oder Zielgruppen. Die skalierbare No-Code-Struktur wächst mit Ihren Anforderungen in Marktforschung und Benchmarking – kooperativ für C-Level und Teams.'
         - icon: 'bell'
           headline: 'Wettbewerber zentral verwalten'
-          text: 'Pflegen Sie alle Wettbewerber-Stammdaten zentral: Logos, Websites, USPs und Marktinformationen in der Konkurrenzanalyse Vorlage. Automatische Verknüpfungen mit Produkten, Preisen und SWOTs ermöglichen nahtlose Feature-Vergleiche und kollaborative Strategieentwicklung' 
+          text: 'Pflegen Sie alle Wettbewerber-Stammdaten zentral: Logos, Websites, USPs und Marktinformationen in der Konkurrenzanalyse Vorlage. Automatische Verknüpfungen mit Produkten, Preisen und SWOTs ermöglichen nahtlose Feature-Vergleiche und kollaborative Strategieentwicklung.' 
 
     - name: "customer-1"
       weight: 4
@@ -83,7 +83,7 @@ sections:
       - text: '**Zentrale Ablage:** Logos, Websites, USPs und Marktinformationen liegen direkt im Konkurrenzanalyse Tool – ohne separate Ordner oder Dateiablagen.'
       image_position: [left]
       image: '/images/template_page_konkurrenzanalyse_01.png'
-      image_alt: ''
+      image_alt: 'Konkurrenzanalyse Vorlage mit Dashboard, Marktanteilen und SWOT-Analyse in SeaTable'
 
     - name: "content-25"
       weight: 10
@@ -93,19 +93,19 @@ sections:
       - headline: 'Wettbewerber-Datenbank für Stammdaten'
         text: 'In der Tabelle "Companies" pflegen Sie alle Wettbewerber-Stammdaten: Größe, Umsatz, Gründungsdatum, Region und Headquarters. Die Company-ID wird automatisch vergeben. Diese Basis verknüpft sich mit "Brands" und "Products", für lückenlose Marktbeobachtung in der Konkurrenzanalyse Vorlage.'
         image: '/images/template_page_konkurrenzanalyse_02.png'
-        image_alt: ''
+        image_alt: 'Wettbewerber-Datenbank mit Stammdaten, Umsatz und Headquarters in der Konkurrenzanalyse Vorlage'
       - headline: 'Brands mit USPs und Zielgruppen'  
         text: 'In "Brands" listen Sie Marken mit Logos, Websites, Marketing-Materialien, Zielgruppen und Positionierung. Analysieren Sie Claims, USPs, Stärken/Schwächen. Durch Links zu Products berechnet sich der Durchschnittspreis pro 100g automatisch für Preisstrategie-Vergleiche.'
         image: '/images/template_page_konkurrenzanalyse_03.png'
-        image_alt: ''
+        image_alt: 'Brands-Tabelle mit Logos, USPs, Zielgruppen und Preisen in der Wettbewerbsanalyse Vorlage'
       - headline: 'Produkte per Webformular erfassen'
         text: 'In "Products" gruppieren Sie Produkte nach Brands, fügen Preise und Features hinzu. Upload von Bildern für detaillierte Feature-Vergleiche. Statusfarben zeigen Marktpositionierung – ideal für Benchmarking in der Konkurrenzanalyse Vorlage.'
         image: '/images/template_page_konkurrenzanalyse_04.png'
-        image_alt: ''
+        image_alt: 'Produkte-Tabelle mit Preisen, Features und Brands in der Konkurrenzanalyse Vorlage'
       - headline: 'Features für SWOT-Integration'
         text: 'In "Features" sammeln Sie alle Merkmale für Vergleiche: Beliebte Inhalte, Lückenidentifikation. Verknüpfen mit [SWOT-Analyse Vorlage]({{< relref "templates/operations/swot-analysis" >}}) für ganzheitliche Strategieentwicklung und Positionierung – nahtlos von Marktforschung zur Optimierung.'
         image: '/images/template_page_konkurrenzanalyse_05.png'
-        image_alt: ''
+        image_alt: 'Features-Tabelle mit Vergleichen und SWOT-Links im Konkurrenzanalyse Tool'
             
     - name: "content-6"
       weight: 12
@@ -117,7 +117,7 @@ sections:
       items:
       - text: 'Mit dem integrierten App Builder verwandeln Sie die Konkurrenzanalyse Vorlage in eine individuelle Analyse-App für Marketing, Vertrieb und Management. Kombinieren Sie Formulare für Marktbeobachtung, Übersichten für Wettbewerberprofile, Kanban-Ansichten für Analyse-Tasks und fokussierte Filter für einzelne Segmente oder Regionen – bis hin zu spezialisierten Views für Preisstrategie oder Medienstrategien. Teilen Sie gezielte Ausschnitte als Frontend mit Stakeholdern und steuern Sie über Berechtigungen, wer welche Marktinformationen sehen oder bearbeiten darf – so wird aus der Vorlage für die Konkurrenzanalyse ein maßgeschneidertes Konkurrenzanalyse Tool.'
       image: '/images/template_page_konkurrenzanalyse_06.png'
-      image_alt: ''
+      image_alt: 'Interaktive Konkurrenzanalyse-App mit Dashboards, SWOT und Feature-Vergleichen in SeaTable'
 
     - name: "banner-3"
       weight: 15
@@ -130,7 +130,7 @@ sections:
       weight: 16
       title: 'KI-gestützte Konkurrenzanalyse'
       subtitle: 'Smarte Automatisierung für Markt- und Wettbewerbsdaten'
-      description: 'Mit dem Konkurrenzanalyse Tool von SeaTable heben Sie Ihre Wettbewerbsanalyse auf das nächste Level! Automatisieren Sie Marktforschung und Strategieentwicklung mit leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) Verwandeln Sie die Vorlage für die Konkurrenzanalyse in einen intelligenten Hub für Wettbewerber, Marktanteile und SWOT-Analysen. Genießen Sie Echtzeit-Einblicke wie nie zuvor. Verabschieden Sie sich von Excel-Chaos und erleben Sie effiziente Marktbeobachtung. SeaTable integriert alles nahtlos für Ihre Positionierung.'
+      description: 'Mit dem Konkurrenzanalyse Tool von SeaTable heben Sie Ihre Wettbewerbsanalyse auf das nächste Level! Automatisieren Sie Marktforschung und Strategieentwicklung mit leistungsstarken [KI-Funktionen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) verwandeln Sie die Vorlage für die Konkurrenzanalyse in einen intelligenten Hub für Wettbewerber, Marktanteile und SWOT-Analysen. Genießen Sie Echtzeit-Einblicke wie nie zuvor. Verabschieden Sie sich von Excel-Chaos und erleben Sie effiziente Marktbeobachtung. SeaTable integriert alles nahtlos für Ihre Positionierung.'
       items:
       - headline: 'Wettbewerber klassifizieren'
         text: 'Mit Classify ordnet SeaTable Wettbewerber Kategorien, Marktsegmenten oder Risikogruppen zu. Die KI analysiert Namen, USPs oder Marktanteile und trägt Klassifizierungen in die Konkurrenzanalyse Vorlage ein – Filter und Dashboards für Wettbewerbsanalyse bleiben stets aktuell und datenbasiert für C-Level-Entscheidungen.'
@@ -185,7 +185,7 @@ sections:
       - q: "Ist die Nutzung der Konkurrenzanalyse-Vorlage kostenlos?"
         a: 'Sie können die Konkurrenzanalyse Vorlage kostenlos in der SeaTable Cloud nutzen. Sie benötigen lediglich einen Account und können sofort beginnen, Wettbewerberdaten strukturiert zu erfassen und auswertbare Analysen aufzubauen.'
       - q: "Wie unterscheidet sich die SeaTable Konkurrenzanalyse Vorlage von einer Konkurrenzanalyse in Excel?"
-        a: ' In Excel stoßen Sie schnell an Grenzen: manuelle Pflege, fehlende Verknüpfungen, Medienbrüche und aufwendige Visualisierung. Die Vorlage in SeaTable verknüpft Marktinformationen, Wettbewerberprofile, SWOT-Analysen und Dashboards und ermöglicht Automatisierungen sowie Kollaboration in Echtzeit.'
+        a: 'In Excel stoßen Sie schnell an Grenzen: manuelle Pflege, fehlende Verknüpfungen, Medienbrüche und aufwendige Visualisierung. Die Vorlage in SeaTable verknüpft Marktinformationen, Wettbewerberprofile, SWOT-Analysen und Dashboards und ermöglicht Automatisierungen sowie Kollaboration in Echtzeit.'
       - q: "Kann ich die Konkurrenzanalyse Vorlage mit der SWOT-Analyse Vorlage kombinieren?"
         a: 'Ja, Sie können diese Vorlage direkt mit der SWOT-Analyse-Vorlage verknüpfen, Ergebnisse'
       - q: "Eignet sich die Vorlage auch für internationale Märkte?"
