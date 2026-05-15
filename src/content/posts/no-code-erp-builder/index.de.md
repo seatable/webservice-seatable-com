@@ -1,6 +1,6 @@
 ---
 title: 'Maßgeschneiderte ERP-Systeme für den Mittelstand mit No-Code und Low-Code'
-description: 'Wer ein passendes ERP für den Mittelstand einführen wollte, kennt das Dilemma: Standardsoftware ist zu groß, zu starr und zu teuer. Ein Flickenteppich aus Einzellösungen ist häufig die Lösung. Doch es gibt eine dritte Option: Mit No-Code- und Low-Code-Plattformen erstellen Sie maßgeschneiderte ERP-Lösungen ohne aufwendige Programmierung und hohe Kosten. In diesem Artikel erfahren Sie, wie das funktioniert, welches Modell zu Ihrem Unternehmen passt und welche Tools im Vergleich überzeugen.'
+description: 'Wer ein ERP für den Mittelstand einführen wollte, kennt das Dilemma: Standardsoftware ist zu groß und zu starr. Ein Flickenteppich aus Einzellösungen ist häufig die Alternative. Doch es gibt eine dritte Option: maßgeschneiderte No-Code- und Low-Code-ERP-Lösungen. In diesem Artikel erfahren Sie, was zu Ihrem Unternehmen passt.'
 seo:
     title: 'ERP-System mit No-Code aufbauen – günstige Alternative für KMU'
     description: 'Die Anschaffungskosten für ein ERP-System im Mittelstand sind oft zu hoch. No-Code-ERP-Builder bieten eine skalierbare Alternative'
