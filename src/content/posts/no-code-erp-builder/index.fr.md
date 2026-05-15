@@ -14,8 +14,7 @@ categories:
     - 'low-code-no-code'
 color: '#fdb4a2'
 register:
-   show: true
-draft: true   
+   show: true  
 ---
 
 ## Moderne et flexible : ce que doit offrir un système ERP adapté aux petites et moyennes entreprises

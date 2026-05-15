@@ -14,8 +14,7 @@ categories:
     - 'low-code-no-code'
 color: '#fdb4a2'
 register:
-   show: true
-draft: true   
+   show: true 
 ---
 
 ## Современность и гибкость: что должна предлагать подходящая ERP-система для малого и среднего бизнеса

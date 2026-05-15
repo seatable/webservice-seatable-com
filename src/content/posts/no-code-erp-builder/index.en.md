@@ -14,8 +14,7 @@ categories:
     - 'low-code-no-code'
 color: '#fdb4a2'
 register:
-   show: true
-draft: true   
+   show: true  
 ---
 
 ## Modern and Flexible: What the Right ERP System for Small and Medium-Sized Businesses Must Offer

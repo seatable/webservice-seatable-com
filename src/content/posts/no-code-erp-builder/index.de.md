@@ -14,8 +14,7 @@ categories:
     - 'low-code-no-code'
 color: '#fdb4a2'
 register:
-   show: true
-draft: true   
+   show: true  
 ---
 
 ## Modern und flexibel: Was ein passendes ERP für den Mittelstand leisten muss
