@@ -6,7 +6,6 @@ seo:
     description: 'Melhore os seus fluxos de trabalho com a melhor alternativa ao Notion do mercado. Experimente-a agora e trabalhe com mais eficiência!'
 date: '2026-04-23'
 url: '/pt/alternativa-notion'
-draft: true
 
 sections:
     - name: hero-5

@@ -6,7 +6,6 @@ seo:
     description: 'Streamline your workflows with the best Notion alternative on the market. Try it now and work more efficiently!'
 date: '2026-04-23'
 url: '/notion-alternative'
-draft: true
 
 sections:
     - name: hero-5

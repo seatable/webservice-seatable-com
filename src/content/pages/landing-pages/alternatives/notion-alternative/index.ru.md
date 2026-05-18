@@ -6,7 +6,6 @@ seo:
     description: 'Оптимизируйте свои рабочие процессы с помощью лучшей альтернативы Notion на рынке. Попробуйте ее прямо сейчас и работайте эффективнее!'
 date: '2026-04-23'
 url: '/ru/alternativnoe-notion'
-draft: true
 
 sections:
     - name: hero-5
