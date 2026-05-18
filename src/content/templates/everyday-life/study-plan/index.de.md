@@ -3,10 +3,10 @@ title: 'Lernplan'
 description: 'Planen Sie Lernzeiten und Themen strukturiert, setzen Sie Prioritäten, tracken Sie Fortschritte und bereiten Sie Prüfungen stressfreier vor.'
 date: '2024-08-24'
 lastmod: '2026-04-30'
-url: '/de/vorlage-lernplan'
+url: '/de/vorlage/lernplan'
 aliases:
     - '/de/vorlage/study-plan'
-    - '/de/vorlage/lernplan'
+    - '/de/vorlage-lernplan'
 category: 'everyday-life'
 functions:
 seo:
