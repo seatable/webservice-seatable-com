@@ -6,7 +6,6 @@ seo:
     description: 'Streamline your workflows with the best Notion alternative on the market. Try it now and work more efficiently!'
 date: '2026-04-23'
 url: '/notion-alternative'
-draft: true
 
 sections:
     - name: hero-5
@@ -63,7 +62,7 @@ sections:
         - bg-white
       title: The powerful alternative to Notion
       subtitle: Real database power for business data
-      description: 'If you’ve already used Notion, you know that the tool quickly reaches its limits when it comes to structured business data. As an alternative to Notion, the [AI-powered no-code solution SeaTable]({{< relref "/" >}}) combines the flexibility of no-code tools with the power of a relational database.'
+      description: 'If you’ve [already used Notion]({{< relref "posts/notion-erfahrungen" >}}), you know that the tool quickly reaches its limits when it comes to structured business data. As an alternative to Notion, the [AI-powered no-code solution SeaTable]({{< relref "/" >}}) combines the flexibility of no-code tools with the power of a relational database.'
       items:
         - text: "No-code app builder for user-friendly front ends and fully-featured self-service portals"
         - text: "Real-time collaboration and integrated notifications for true teamwork"

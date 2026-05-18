@@ -6,7 +6,6 @@ seo:
     description: 'Melhore os seus fluxos de trabalho com a melhor alternativa ao Notion do mercado. Experimente-a agora e trabalhe com mais eficiência!'
 date: '2026-04-23'
 url: '/pt/alternativa-notion'
-draft: true
 
 sections:
     - name: hero-5
@@ -63,7 +62,7 @@ sections:
         - bg-white
       title: A alternativa eficaz ao Notion
       subtitle: Todo o poder de uma base de dados para os dados empresariais
-      description: 'Se já tem experiência com o Notion, sabe que esta ferramenta atinge rapidamente os seus limites quando se trata de dados empresariais estruturados. A [solução de IA no-code SeaTable]({{< relref "/" >}}), uma alternativa ao Notion, combina a flexibilidade das ferramentas no-code com o desempenho de uma base de dados relacional.'
+      description: 'Se já tem [experiência com o Notion]({{< relref "posts/notion-erfahrungen" >}}), sabe que esta ferramenta atinge rapidamente os seus limites quando se trata de dados empresariais estruturados. A [solução de IA no-code SeaTable]({{< relref "/" >}}), uma alternativa ao Notion, combina a flexibilidade das ferramentas no-code com o desempenho de uma base de dados relacional.'
       items:
         - text: "Construtor de aplicações no-code para interfaces de utilizador intuitivas e portais de autoatendimento completos"
         - text: "Colaboração em tempo real e notificações integradas para um verdadeiro trabalho em equipa"
