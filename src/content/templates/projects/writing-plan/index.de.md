@@ -34,7 +34,7 @@ sections:
       items:
         - icon: 'check'
           headline: 'Digitale Schreibstruktur'
-          text: 'Nutzen Sie die Schreibplan Vorlage, um Ideen, Kapitel, Abschnitte und Textziele digital zu strukturieren. So ersetzen Sie unübersichtliche Word-Dokumente durch eine zentrale Arbeitsumgebung, in der Ihr Schreibprozess klar gegliedert und jederzeit nachvollziehbar bleibt'
+          text: 'Nutzen Sie die Schreibplan Vorlage, um Ideen, Kapitel, Abschnitte und Textziele digital zu strukturieren. So ersetzen Sie unübersichtliche Word-Dokumente durch eine zentrale Arbeitsumgebung, in der Ihr Schreibprozess klar gegliedert und jederzeit nachvollziehbar bleibt.'
         - icon: 'bars'
           headline: 'Kapitel und Quellen verknüpfen'
           text: 'Verknüpfen Sie Kapitelplanung, Recherchequellen und Termine direkt miteinander. Wenn Sie einen Schreibplan erstellen, sehen Sie sofort, welche Quellen zu welchem Abschnitt gehören, welche Argumente noch fehlen und wo der rote Faden Ihres Textes gestärkt werden muss.'
@@ -45,7 +45,7 @@ sections:
           headline: 'Recherche sicher verwalten'
           text: 'Sammeln Sie Notizen, Quellenverzeichnis, Zitate und Kapitelideen an einem geschützten Ort statt in verteilten Dateien. So arbeiten Sie strukturierter, reduzieren Suchaufwand und schaffen eine belastbare Grundlage für DSGVO-bewusste, professionelle Content-Erstellung.' 
         - icon: 'pencil'
-          headline: 'Für Texte frei anpassbar '
+          headline: 'Für Texte frei anpassbar'
           text: 'Passen Sie die Vorlage für einen Schreibplan flexibel an Blogbeitrag, Roman, Bachelorarbeit oder Redaktionsprozess an. Ergänzen Sie Spalten für Storytelling, Status, Zielgruppe oder Wortanzahl und gestalten Sie Ihren Schreibplan genau passend zu Ihrem Projekt.'
         - icon: 'bell'
           headline: 'Status mobil aktualisieren'
