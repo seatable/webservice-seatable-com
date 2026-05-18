@@ -1,9 +1,9 @@
 ---
-title: 'Die strukturierte Notion Alternative für Teams'
+title: 'The Structured Notion Alternative for Teams'
 description: ''
 seo:
-    title: 'Entdecken Sie die beste Notion Alternative'
-    description: 'Verbessern Sie Ihre Arbeitsabläufe mit der besten Notion Alternative auf dem Markt. Testen Sie es jetzt und arbeiten Sie effizienter!'
+    title: 'Discover the best Notion alternative'
+    description: 'Streamline your workflows with the best Notion alternative on the market. Try it now and work more efficiently!'
 date: '2026-04-23'
 url: '/notion-alternative'
 draft: true
@@ -11,49 +11,49 @@ draft: true
 sections:
     - name: hero-5
       weight: 1
-      title: Die strukturierte Notion Alternative für Teams
+      title: The structured Notion alternative for teams
       subtitle:
-      text: "Notion eignet sich gut als Notizbuch oder Ideensammlung, doch bereits ab ein paar hundert Einträgen sinkt die Performance spürbar, Echtzeit-Kollaboration im Team und Tabellenverknüpfungen sind nur eingeschränkt möglich. Und wenn Sie keinen teuren Business-Account nutzen möchten, werden Ihre Daten in den USA gespeichert.  Wenn Sie davon genug haben, dann ist die KI No-Code Lösung SeaTable das richtige Tool für Sie: echte relationale Datenbanken, flexible Ansichten und DSGVO-konformes Hosting – alles in einer skalierbaren Plattform." 
+      text: "Notion works well as a notebook or idea collector, but performance drops noticeably once you have just a few hundred entries. Real-time team collaboration and table linking are only possible to a limited extent. And if you don’t want to use an expensive business account, your data will be stored in the U.S.  If you’ve had enough of that, then the AI-powered no-code solution SeaTable is the right tool for you: true relational databases, flexible views, and GDPR-compliant hosting—all in one scalable platform." 
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
       buttons:
-          - label: Jetzt kostenlos loslegen
+          - label: Get started for free now
             link: 'pages/registration'
             style: primary
-            id: de-notion-registration
-          - label: Funktionen kennenlernen
+            id: en-notion-registration
+          - label: Learn about the features
             link: pages/functions
 
     - name: "content-4"
       weight: 2
-      title: Die Notion Alternative, die mehr kann 
-      subtitle: Darum SeaTable
+      title: The Notion alternative that does more 
+      subtitle: That's why SeaTable
       text: 
       items:
       - icon: edit
-        headline: Echte relationale Datenbanken
-        text: "Notion kennt keine echten Lookups und Rollups sind auf eine Ebene beschränkt. SeaTable bietet das volle Spektrum relationaler Datenbanken, mit Verknüpfungen über mehrere Ebenen und referenzieller Integrität."
+        headline: True relational databases
+        text: "Notion does not support true lookups, and rollups are limited to a single level. SeaTable offers the full range of relational database features, including cross-level joins and referential integrity."
 
       - icon: eye
-        headline: Ansichten für jede Anwendung
-        text: "In SeaTable nutzen Sie verschiedene Ansichten und visualisieren Ihre Daten immer so, wie Sie es brauchen: mit Kanban, Tabelle, Kalender, Galerie, Zeitleiste, Karte, Baumansicht oder Statistiken."
+        headline: Views for every application
+        text: "In SeaTable, you can use different views to visualize your data exactly as you need: with Kanban, table, calendar, gallery, timeline, map, tree view, or statistics. One data, multiple display options."
 
       - icon: robot
-        headline: KI-gestützte Automatisierungen
-        text: "Nutzen Sie unsere KI-gestützten Automatisierungen, um Daten zu kategorisieren, zu übersetzen oder zusammenzufassen. Mit unserem KI-Chat-Plugin verbinden Sie SeaTable mit Ihrem KI-Agenten."
+        headline: AI-powered automation
+        text: "Use our AI-powered automation tools to categorize, translate, and summarize data or extract text from images. With our AI chat plugin, you can connect SeaTable to your AI agent."
       
       - icon: people-group
-        headline: Kollaboratives Arbeiten
-        text: "Arbeiten Sie mit Ihren Kollegen gleichzeitig in einer Base – ohne Performance-Probleme. Berechtigungen, Chat- und Benachrichtigsfunktionen machen SeaTable zu einem echten Team-Tool."
+        headline: Collaborative Work
+        text: "Work with your colleagues in a Base at the same time—without any performance issues. Real-time updates,  permissions, chat, and notification features make SeaTable a true team tool."
 
       - icon: puzzle-piece
-        headline: Asset- und Medienverwaltung
-        text: "Speichern Sie nicht nur Text, sondern auch Bilder, Videos, Dokumente und Metadaten in einer strukturierten Datenbank. Verarbeiten Sie sie in Automationen und E-Mails oder nutzen Sie sie für Präsentationen."
+        headline: Assets and Media
+        text: "Store not only text, but also images, videos, documents, and metadata in a structured database. Use them in automations and emails, or incorporate them into presentations."
       
       - icon: palette
         headline: Page Designer & Report Builder
-        text: "Erstellen Sie professionelle Dokumente und Berichte unmittelbar aus Ihren Daten. Per Schaltfläche oder Automatisierung erzeugen Sie druckfertige PDFs oder versenden Sie sie direkt aus dem System per E-Mail."
+        text: "Create professional documents and reports directly from your data. With the click of a button or through automation, you can generate print-ready PDFs and send them directly from the system via email."
 
 
     - name: content-12
@@ -61,67 +61,67 @@ sections:
       classes: 
         - curved
         - bg-white
-      title: Die leistungsfähige Alternative zu Notion
-      subtitle: Echte Datenbank-Power für Geschäftsdaten
-      description: 'Wenn Sie bereits Erfahrungen mit Notion gesammelt haben, dann wissen Sie, dass das Tool bei strukturierten Geschäftsdaten schnell an seine Grenzen stößt. Die [KI No-Code Lösung SeaTable]({{< relref "/" >}}) verbindet als Notion Alternative die Flexibilität von No-Code-Tools mit der Leistungsfähigkeit einer relationalen Datenbank.'
+      title: The powerful alternative to Notion
+      subtitle: Real database power for business data
+      description: 'If you’ve already used Notion, you know that the tool quickly reaches its limits when it comes to structured business data. As an alternative to Notion, the [AI-powered no-code solution SeaTable]({{< relref "/" >}}) combines the flexibility of no-code tools with the power of a relational database.'
       items:
-        - text: "No-Code App Builder für benutzerfreundliche Frontends und vollwertige Self-Service-Portale"
-        - text: "Echtzeit-Kollaboration und integrierte Benachrichtigungen für echtes Teamwork"
-        - text: "Intuitiver Zugang und flexibel gestaltbare Datenstrukturen "
-        - text: "Als DSGVO-konforme Cloud-Lösung mit Hosting ausschließlich in Deutschland oder self-hosted"
-        - text: "Stabile Performance und transparente Preise auch bei großen Datenmengen und Teams"
-      image: /images/landing-page-hubspot_alternative-01.png
-      image_alt: 'SeaTable als Hubspot Alternative für CRM und Marketing'    
+        - text: "No-code app builder for user-friendly front ends and fully-featured self-service portals"
+        - text: "Real-time collaboration and integrated notifications for true teamwork"
+        - text: "Intuitive access and flexible data structures "
+        - text: "As a GDPR-compliant cloud solution hosted exclusively in Germany or self-hosted"
+        - text: "Consistent performance and transparent pricing, even with large data sets and teams"
+      image: /images/landing-page-notion-alternative-01.png
+      image_alt: 'SeaTable as an alternative to Notion for project management and knowledge management'    
 
     - name: "content-4"
       weight: 10
-      title: 'Ihre Notion Alternative für volle Compliance'
-      subtitle: Keine Kompromisse beim Datenschutz
-      text: 'Mit der Notion Alternative SeaTable können Sie sicher sein, dass Ihre Daten ausschließlich auf europäischen Servern in Deutschland gehostet werden. Mit [Single Sign-on]({{< relref "posts/single-sign-on" >}}) und granularen Zugriffsberechtigungen sind Ihre Daten zusätzlich geschützt.'
+      title: 'Your Notion alternative for full compliance'
+      subtitle: No compromises on data protection
+      text: 'With SeaTable, the Notion alternative, you can rest assured that your data is hosted exclusively on European servers in Germany. With [single sign-on]({{< relref "posts/single-sign-on" >}}) and granular access permissions, your data is further protected.'
       items:
       - icon: location-dot
-        headline: Hosting in Deutschland
-        text: "Die SeaTable Cloud und der SeaTable KI-Server werden in zertifizierten Rechenzentren in Deutschland gehostet – vollständig DSGVO-konform."
+        headline: Hosting in Germany
+        text: "The SeaTable Cloud and the SeaTable AI Server are hosted in certified data centers in Germany—and are fully GDPR-compliant."
       - icon: user-plus
-        headline: Zugriffsberechtigungen
-        text: "Richten Sie individuelle Rollenberechtigungen ein und beschränken Sie den Zugang zu sensiblen Daten durch granulare Zugriffs- und Bearbeitungsrechte."
+        headline: Access permissions
+        text: "In SeaTable you can set up custom role permissions and restrict access to sensitive data using granular access and editing rights."
       - icon: fingerprint
-        headline: Authentifizierung und SSO
-        text: 'SeaTable unterstützt Single Sign-on, Zwei-Faktor-Authentifizierung und weitere gängige Authentifizierungstechniken.'
+        headline: Authentication and SSO
+        text: 'SeaTable supports single sign-on, two-factor authentication, and other common authentication methods.'
 
     - name: 'content-8'
       weight: 6
-      title: So starten Sie mit der Notion Alternative SeaTable
-      subtitle: Praktische Vorlagen für Ihren Start
-      description: "Um Ihnen den Einstieg so einfach wie möglich zu machen, gibt es zahlreiche kostenlose, sofort nutzbare Vorlagen, YouTube-Videos und einen Online-Kurs, der Sie bei den ersten Schritten begleitet. Egal, ob Sie eine Software für Wissensmanagement oder einen Projektplan brauchen."
+      title: How to Get Started with SeaTable, the Notion Alternative
+      subtitle: Handy templates to get you started
+      description: 'To make getting started as easy as possible, we offer a wide range of free, **ready-to-use templates, YouTube videos, and numerous [help articles]({{< relref "help/" >}})** to guide you through the first steps. Whether you need knowledge management software or a project plan.'
       items:
-          - text: Projektstrukturplan
-            image: /images/hubspot_alternative_template_crm.png
-            image_alt: 'SeaTables CRM-Vorlage für smarte Sales Pipelines'
-          - text: Produkteinführung
-            image: /images/Marketing_Content-Calendar_Template.png
-            image_alt: 'SeaTables Vorlage für Kampagnenplanung und Content-Erstellung'
-          - text: Workshop-Planer
-            image: /images/template_customer_onboarding.png
-            image_alt: 'SeaTables Customer-Onboarding-Vorlage für Retention ab dem ersten Tag'
+          - text: Project Structure Plan
+            image: /images/notion-alternative-template-workbreakdown.png
+            image_alt: 'SeaTables Project Structure Plan Template for Smart Project Management'
+          - text: Product Launch
+            image: /images/notion-alternative-template-produktlaunch.png
+            image_alt: 'SeaTables Template for a Successful Product Launch'
+          - text: Workshop Plans
+            image: /images/notion-alternative-template-workshop.png
+            image_alt: 'SeaTables Workshop Planner Template for Successful Events'
       buttons:
-          - label: "Entdecken Sie weitere Vorlagen"
-            link: "templates/human-resources"
+          - label: "Discover more templates"
+            link: "templates"
 
     - name: banner-2
       weight: 7
-      title: "Sind Sie bereit für echte Datenbank-Power?"
+      title: "Are you ready for real database power?"
       text: 
       buttons:
-          - label: Jetzt loslegen
+          - label: Get started now
             link: 'pages/registration'
-            id: de-notion-registration-2
+            id: en-notion-registration-2
 
     - name: 'content-10'
       weight: 8
-      title: 'SeaTable integriert mit Ihren Lieblings-Tools'
-      subtitle: 'Standard-Integrationen'
-      description: Die nahtlose Integration verschiedener Tools ist ein weiterer Vorteil von SeaTable als Alternative zu Notion. Dank SeaTables flexibler API lassen sich weitere Tools reibungslos integrieren – ganz nach Ihren Anforderungen.
+      title: 'SeaTable integrates with your favorite tools'
+      subtitle: 'Standard Integration'
+      description: The seamless integration of various tools is another advantage of SeaTable as an alternative to Notion. Thanks to SeaTable’s flexible API, you can seamlessly integrate additional tools—tailored to your specific needs.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -130,90 +130,90 @@ sections:
 
     - name: content-25
       weight: 4
-      title: 'SeaTable: Ein Tool, zahlreiche Funktionen'
-      subtitle: Von Projektmanagement bis Wissensdatenbank
+      title: 'SeaTable: One tool, countless features'
+      subtitle: From project management to a knowledge base
       items:
-      - headline: "Echte Tabellenverknüpfungen"
-        text: In Notion ist jede Datenbank eigentlich nur ein Notizzettel. Verknüpfungen sind nur auf einer Ebene möglich, Rollups verarbeiten maximal 25 Werte und Lookups werden als editierbare Auswahlfelder ohne Validierung abgebildet. Mit SeaTable erstellen Sie sauber strukturierte, integre Daten und echte verknüpfte Tabellen über beliebig viele Ebenen und Werte. 
-        image: /images/landing-page-hubspot-alternative-02.png
-        image_alt: 'Mit SeaTable als Hubspot Alternative haben Sie über verschiedene Ansichten stets alles im Blick'
+      - headline: "True table links"
+        text: In Notion, every database is essentially a note. Links are limited to a single level, rollups can handle a maximum of 25 values, and lookups are editable dropdown fields without validation. With SeaTable, you can create **cleanly structured, consistent, and relational data** across multiple levels. 
+        image: /images/landing-page-notion-alternative-02.png
+        image_alt: 'With SeaTable as an alternative to Notion, you can harness the power of true relational data links'
 
-      - headline: "Dokumente, Dashboards und Visualisierungen"
-        text: 'Die Notion Alternative SeaTable ist mehr als eine reine Datenbank. Mit dem integrierten Whiteboard erstellen Sie freie Skizzen und Prozessvisualisierungen. Mit dem Page Designer und dem Report Builder erzeugen Sie druckfertige Dokumente und Berichte voll automatisierbar direkt aus Ihren Tabelleneinträgen. Und mit dem Statistikmodul bauen Sie ansprechende Analyse- und Monitoring-Dashboards.'
-        image: /images/landing-page-hubspot-alternative-03.png
-        image_alt: 'SeaTable bietet als Hubspot Alternative Statistiken und Funnel-Analysen'
+      - headline: "Documents, Dashboards, and Visualizations"
+        text: 'SeaTable, the alternative to Notion, is more than just a database. With its built-in whiteboard, you can create **freehand sketches and process visualizations**. With the Page Designer and Report Builder, you can create **print-ready documents and reports** directly from your tables. And with the statistics module, you can build **attractive analysis and monitoring dashboards**.'
+        image: /images/landing-page-notion-alternative-03.png
+        image_alt: 'SeaTable is a Notion alternative that offers attractive dashboards and data visualizations'
 
-      - headline: "Chat, Benachrichtigungen und E-Mail-Integration"
-        text: "Mit Notion benötigt Ihr Team externe Kommunikationskanäle, um sich über Aufgaben und Daten auszutauschen. SeaTable bietet dafür integrierte Funktionen: Mit der Chat-Funktion tauschen Sie sich unmittelbar zu einzelnen Aufgaben aus, über die Benachrichtigungsfunktion werden Sie bei wichtigen Entwicklungen automatisch informiert. Und mit der E-Mail-Integration verknüpfen Sie Ihren E-Mail-Client direkt mit Ihrer Datenbank. Damit ist SeaTable die ideale Notion Alternative für echte Team-Arbeit."
-        image: /images/landing-page-hubspot-alternative-04.png
-        image_alt: 'SeaTable als Hubspot Alternative bietet flexible Webformulare für Kundenanfragen'
+      - headline: "Chat, Notifications, and Email Integration"
+        text: "With Notion, your team needs external channels to discuss tasks. **SeaTable offers built-in features for this**: Use the chat feature to discuss individual tasks, and receive automatic notifications for important updates. Native email integration allows you to send emails directly from the database."
+        image: /images/landing-page-notion-alternative-04.png
+        image_alt: 'SeaTable, an alternative to Notion, offers built-in communication features'
 
       - headline: "App Builder"
-        text: "Mit Notion brauchen Sie externe Tools, um aus Ihren Seiten Anwendungen zu bauen. In SeaTable ist der App Builder direkt integriert. So bauen Sie im Handumdrehen aus jeder Base flexibel anpassbare Apps mit Formularen, Listenansichten und rollenbasierten Zugriffsrechten, die Sie bei Bedarf mit Passwortschutz für Externe freigegeben. Ein Außendienstmitarbeiter sieht nur seine Einträge, die Führungskraft das aggregierte Dashboard."
-        image: /images/landing-page-hubspot-alternative-04.png
-        image_alt: 'SeaTable als Hubspot Alternative bietet flexible Webformulare für Kundenanfragen' 
+        text: "With Notion, you need external tools to turn your pages into apps. In SeaTable, the App Builder is built right in. This lets you quickly turn any base into **fully customizable apps** with forms, list views, and **role-based access controls**, which you can share with external users **with password protection** if needed."
+        image: /images/landing-page-notion-alternative-05.png
+        image_alt: 'With SeaTable as an alternative to Notion, you can create front ends and self-service portals' 
         
-      - headline: "Automatisierte Workflows"
-        text: Notions Automationen sind eingeschränkt und können keine mehrstufigen Workflows oder bedingte Logiken verarbeiten. SeaTable bietet native Automationen mit Triggern auf Basis von Zeitplänen, Statuswechseln oder neuen Einträgen und mehrfachen Aktionen mit integrierten KI-Funktionen. Für erweiterte Workflows steht eine native Verbindung zu n8n, Make.com und Zapier bereit.
-        image: /images/landing-page-hubspot-alternative-04.png
-        image_alt: 'SeaTable als Hubspot Alternative bietet flexible Webformulare für Kundenanfragen'   
+      - headline: "Automated Workflows"
+        text: Notion's automations are limited and cannot handle multi-step workflows. SeaTable offers native automations with triggers based on schedules, status changes, or new entries, and multiple actions with [built-in AI features]({{< relref "posts/ai-in-seatable" >}}). 
+        image: /images/landing-page-notion-alternative-06.png
+        image_alt: 'SeaTable, an alternative to Notion, offers smart AI-powered automations for streamlined workflows'   
        
     - name: "content-5"
       weight: 5
       items:
-      - title: Leistungsfähig selbst bei großen Datenmengen
-        subtitle: Die skalierbare Alternative zu Notion
-        text: 'Notion ist nicht als Datenbank konzipiert, sondern als block-basierter Workspace. Und das merkt man: Sobald viele Workspaces angelegt sind oder mehrere Personen damit arbeiten, sinkt die Performance deutlich. SeaTable unterstützt bei Bedarf hunderte oder tausende User und große Datenmengen ohne Performance-Einschränkungen oder Kostensteigerungen.'
+      - title: High-performance even with large amounts of data
+        subtitle: The scalable alternative to Notion
+        text: "Notion isn't designed as a database, but as a block-based workspace. And it shows: as soon as you create a lot of workspaces or have multiple people working on them, performance drops significantly. Seatable can support hundreds or thousands of users and large amounts of data **without any performance limitations or increased costs**."
         
     - name: 'content-3'
       weight: 12
-      title: Notion Alternative self-hosted oder in der Cloud
-      subtitle: Umfangreiche Funktionen in allen Preismodellen
+      title: Notion alternative self-hosted or in the Cloud
+      subtitle: Comprehensive features across all pricing plans
       description: ''
       items:
           - headline: SeaTable Cloud
-            text: Perfekt für Unternehmen ohne umfangreiche IT-Infrastruktur – flexibel und skalierbar.
+            text: Perfect for businesses without an extensive IT infrastructure—flexible and scalable.
             image: /images/seatable_cloud_v1.png
-            image_alt: 'SeaTable Cloud als ideale Hubspot Alternative'
+            image_alt: 'SeaTable Cloud: The Perfect Alternative to Notion'
           - headline: SeaTable Server
-            text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen.
+            text: For companies that want to retain full control over their data.
             image: /images/seatable_server_v1.png
-            image_alt: 'SeaTable Server als Hubspot Alternative für volle Datenkontrolle'
+            image_alt: 'SeaTable Server as a Notion alternative for full control over your data'
           - headline: SeaTable Dedicated
-            text: Die Einfachheit der Cloud kombiniert mit der Flexibilität eines selbst gehosteten Systems.
+            text: The simplicity of the cloud combined with the flexibility of a self-hosted system.
             image: /images/seatable_dedicated_v1.png
-            image_alt: 'SeaTable Dedicated Umgebung für skalierbares Kundenmanagement im Unternehmen'    
+            image_alt: 'SeaTable Dedicated Environment for Scalable Project and Knowledge Management in the Enterprise'    
     
     - name: banner-2
       weight: 13
-      title: Wechseln Sie jetzt für stabile Performance und echte Struktur
+      title: Switch now for consistent performance and true structure
       buttons:
-        - label: Jetzt kostenlos starten
+        - label: Get started for free now
           link: pages/registration
-          id: de-notion-registration-3
+          id: en-notion-registration-3
 
     - name: faq
       weight: 99
-      title: FAQs – SeaTable als Notion Alternative
+      title: FAQs – SeaTable as Notion alternative
       items:
-          - q: "Können Daten von Notion zu SeaTable migriert werden?"
-            a: "Ja, Sie können Ihre Notion-Datenbank als CSV exportieren und direkt in SeaTable importieren. "
+          - q: "Can data be migrated from Notion to SeaTable?"
+            a: "Yes, you can export your Notion database as a CSV file and import it directly into SeaTable."
 
-          - q: "Kann ich in SeaTable auch Dokumente erstellen?"
-            a: "Ja, das ist kein Problem. Mit dem Page Designer erstellen Sie strukturierte Dokumente direkt aus Ihren Daten und können sie bei Bedarf direkt aus der Datenbank heraus per E-Mail versenden. Der Report Builder automatisiert wiederkehrende Berichte."
+          - q: "Can I also create documents in SeaTable?"
+            a: "Yes, that’s no problem. With the Page Designer, you can create structured documents directly from your data and, if needed, send them via email directly from the database. The Report Builder automates recurring reports."
 
-          - q: "Was kostet SeaTable im Vergleich zu Notion?"
-            a: " SeaTable bietet einen dauerhaft kostenfreien Plan für bis zu 25 Nutzer an, der bereits alle wesentlichen Funktionen für produktives Arbeiten beinhaltet. Und auch im Plus- und Enterprise-Abo liegt SeaTable mit 7,– € pro Nutzer/Monat beziehungsweise 14,– € pro Nutzer/Monat unter den vergleichbaren Notion Kosten."
+          - q: "How does SeaTable compare to Notion in terms of cost?"
+            a: "SeaTable offers a permanently free plan for up to 25 users that already includes all essential features for productive work. And even with the Plus and Enterprise subscriptions, SeaTable costs €7 per user/month and €14 per user/month, respectively—less than comparable Notion costs."
           
-          - q: "Für welche Teams eignet sich SeaTable als Alternative zu Notion?"
-            a: "SeaTable eignet sich vor allem für Teams, die Notion als Datenbank nutzen und an Performance-, Struktur- oder Datenschutzgrenzen stoßen. "
+          - q: "For which teams is SeaTable a suitable alternative to Notion?"
+            a: "SeaTable is particularly well-suited for teams that use Notion as a database and are running into performance, structural, or data privacy limitations."
 
-          - q: Bietet SeaTable auch einen Support an?
-            a: Ja, SeaTable bietet neben umfangreichen Hilfe-Artikeln und YouTube-Tutorials einen kostenfreien Support über unser Forum. Sie können uns auch direkt über unser Kontaktformular oder per E-Mail kontaktieren. 
-            
-          - q: "Ist SeaTable wirklich DSGVO-konform?"
-            a: 'Ja, SeaTable ist ein deutsches Unternehmen und hostet die SeaTable Cloud ausschließlich auf Servern der Schweizer Firma Exoscale in einem Frankfurter Rechenzentrum. Unser SeaTable KI-Server wird auf deutschen Servern gehostet. Damit ist SeaTable die vollkommen DSGVO-konforme Lösung unter den Notion Alternativen am Markt.'  
-          
-          - q: Ist SeaTable open-source?
-            a: SeaTable Server ist teilweise als Notion Alternative open source. Die selbst-gehostetet SeaTable-Version basiert auf einem Open-Core-Modell, bei dem der Kern der Plattform quelloffen und auf GitHub einsehbar ist, während erweiterte Enterprise-Funktionen proprietär sind. Wer SeaTable als Alternative zu Notion self-hosted betreiben möchte, kann den Quellcode prüfen, anpassen und die Plattform vollständig unter eigener Kontrolle betreiben. 
+          - q: Does SeaTable also offer support?
+            a: Yes, in addition to extensive help articles and [YouTube tutorials](https://www.youtube.com/@SeaTable), SeaTable also offers free support via our forum. You can also contact us directly via our contact form or by email. 
+ 
+          - q: "Is SeaTable truly GDPR-compliant?"
+            a: 'Yes, SeaTable is a German company and hosts the SeaTable Cloud exclusively on servers belonging to the Swiss company Exoscale in a Frankfurt data center. Our SeaTable AI Server is hosted on German servers. This makes SeaTable the fully GDPR-compliant solution among the Notion alternatives on the market.' 
+ 
+          - q: Is SeaTable open-source?
+            a: SeaTable Server is partially open-source as a Notion alternative. The self-hosted version of SeaTable is based on an open-core model, in which the core of the platform is open-source and available on GitHub, while advanced enterprise features are proprietary. Anyone who wants to run SeaTable as a self-hosted alternative to Notion can review the source code, customize it, and operate the platform entirely under their own control. 
 ---
