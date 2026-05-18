@@ -280,7 +280,7 @@ sections:
     text: "SeaTable сочетает управление знаниями, структурированные данные и конструктор приложений — комплексное решение для бизнеса."
     buttons:
     - label: "Узнать больше о SeaTable как альтернативе Notion"
-      link: "/posts/wissensmanagement"
+      link: "/pages/landing-pages/alternatives/notion-alternative"
 
 - name: banner-2
   weight: 14

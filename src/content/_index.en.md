@@ -287,7 +287,7 @@ sections:
     text: "SeaTable combines knowledge management, structured data, and collaborative tools with a no-code database, AI-powered automations, relational structures, and app builders—the GDPR-compliant solution among Notion alternatives for complex business requirements."
     buttons:
     - label: "Learn more about SeaTable as a Notion alternative"
-      link: "/posts/wissensmanagement"
+      link: "/pages/landing-pages/alternatives/notion-alternative"
 
 - name: banner-2
   weight: 14

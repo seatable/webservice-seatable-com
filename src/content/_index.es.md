@@ -281,7 +281,7 @@ sections:
     text: "SeaTable combina la gestión del conocimiento con una base de datos no-code robusta y estructuras relacionales. La solución que cumple con el RGPD para requerimientos empresariales complejos."
     buttons:
     - label: "Saber más sobre SeaTable como alternativa a Notion"
-      link: "/posts/wissensmanagement"
+      link: "/pages/landing-pages/alternatives/notion-alternative"
 
 - name: banner-2
   weight: 14

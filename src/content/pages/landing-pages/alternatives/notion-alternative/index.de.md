@@ -63,7 +63,7 @@ sections:
         - bg-white
       title: Die leistungsfähige Alternative zu Notion
       subtitle: Echte Datenbank-Power für Geschäftsdaten
-      description: 'Wenn Sie bereits Erfahrungen mit Notion gesammelt haben, dann wissen Sie, dass das Tool bei strukturierten Geschäftsdaten schnell an seine Grenzen stößt. Die [KI No-Code Lösung SeaTable]({{< relref "/" >}}) verbindet als Notion-Alternative die Flexibilität von No-Code-Tools mit der Leistungsfähigkeit einer relationalen Datenbank.'
+      description: 'Wenn Sie bereits [Erfahrungen mit Notion]({{< relref "posts/notion-erfahrungen" >}}) gesammelt haben, dann wissen Sie, dass das Tool bei strukturierten Geschäftsdaten schnell an seine Grenzen stößt. Die [KI No-Code Lösung SeaTable]({{< relref "/" >}}) verbindet als Notion-Alternative die Flexibilität von No-Code-Tools mit der Leistungsfähigkeit einer relationalen Datenbank.'
       items:
         - text: "No-Code App Builder für benutzerfreundliche Frontends und vollwertige Self-Service-Portale"
         - text: "Echtzeit-Kollaboration und integrierte Benachrichtigungen für echtes Teamwork"

@@ -63,7 +63,7 @@ sections:
         - bg-white
       title: La potente alternativa a Notion
       subtitle: Verdadera potencia de bases de datos para datos empresariales
-      description: 'Si ya tiene experiencia con Notion, sabrá que esta herramienta alcanza rápidamente sus límites cuando se trata de datos empresariales estructurados. La [solución de IA no-code SeaTable]({{< relref "/" >}}), como alternativa a Notion, combina la flexibilidad de las herramientas no-code con la potencia de una base de datos relacional.'
+      description: 'Si ya tiene [experiencia con Notion]({{< relref "posts/notion-erfahrungen" >}}), sabrá que esta herramienta alcanza rápidamente sus límites cuando se trata de datos empresariales estructurados. La [solución de IA no-code SeaTable]({{< relref "/" >}}), como alternativa a Notion, combina la flexibilidad de las herramientas no-code con la potencia de una base de datos relacional.'
       items:
         - text: "No-Code App Builder para interfaces de usuario intuitivas y portales de autoservicio completos"
         - text: "Colaboración en tiempo real y notificaciones integradas para un verdadero trabajo en equipo"

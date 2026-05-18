@@ -280,7 +280,7 @@ sections:
     text: "Estruturas relacionais e automação robusta para requisitos de negócios complexos em uma solução segura."
     buttons:
     - label: "Saiba mais sobre o SeaTable como alternativa ao Notion"
-      link: "/posts/wissensmanagement"
+      link: "/pages/landing-pages/alternatives/notion-alternative"
 
 - name: banner-2
   weight: 14

@@ -282,7 +282,7 @@ sections:
     text: "SeaTable combine la gestion des connaissances, les données structurées et les outils collaboratifs - avec une base de données No-Code, des structures relationnelles et un constructeur d'applications - la solution conforme au DSGVO parmi les alternatives Notion pour les besoins complexes des entreprises."
     buttons:
     - label: "En savoir plus sur SeaTable comme alternative à Notion"
-      link: "/posts/wissensmanagement"
+      link: "/pages/landing-pages/alternatives/notion-alternative"
 
 - name: banner-2
   weight: 14
