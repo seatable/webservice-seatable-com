@@ -1,5 +1,5 @@
 ---
-title: 'Link tables together'
+title: 'Link tables with each other'
 date: 2022-10-15
 lastmod: '2023-01-02'
 categories:
@@ -9,15 +9,15 @@ url: '/help/link-tables'
 aliases:
     - '/help/tabellen-miteinander-verlinken'
 seo:
-    title: 'Link Tables in SeaTable – Step-by-Step Connection Guide'
+    title: 'Link Tables in SeaTable – Overview'
     description: 'Learn how to use link columns to connect rows across tables in SeaTable and build powerful relationships between your data easily.'
 
 ---
 
-At first glance, SeaTable looks like a spreadsheet, but in many places it works like a database. The tables in SeaTable are not isolated, but can relate rows to each other using a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+At first glance, SeaTable looks like a spreadsheet, but it is a **relational database**. This means: The tables in SeaTable are not isolated, but can be related to each other using **link columns**. This works both with records within a table and across multiple tables.
 
-More precisely, link columns create a link between entries. This works both with entries within a table and across multiple tables. In the end, SeaTable does not link entire tables with each other, but rows across table boundaries.
+Since linking records in SeaTable is done with special columns, you will find all further explanations about the [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) in the article of the same name.
 
-Since you implement this in SeaTable with columns, you will find all further explanations about links and link formulas in the [Columns]({{< relref "help/base-editor/spalten" >}}) section.
+For the special features of [links within a table]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}) you will find a separate guide.
 
-To get started, we recommend the following article: [How to link tables in SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+For an introduction to the technical background, we recommend the [article on relational databases]({{< relref "posts/relationale-datenbank" >}}).

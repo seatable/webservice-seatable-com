@@ -18,7 +18,7 @@ A **vista de árvore** permite a **visualização hierárquica** compacta de reg
 
 {{< warning type="warning" headline="Requisitos" >}}
 
-Para usar a vista em árvore de forma sensata, precisa de uma base com **pelo menos duas tabelas** que estejam ligadas entre si através de uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Para usar a vista em árvore de forma sensata, precisa de uma base com **pelo menos duas tabelas** que estejam ligadas entre si através de uma [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning >}}
 

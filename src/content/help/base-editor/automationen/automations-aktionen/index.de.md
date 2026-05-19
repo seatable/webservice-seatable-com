@@ -129,7 +129,7 @@ Die Automations-Aktion "Eintrag bearbeiten" steht Ihnen derzeit bei folgenden **
 
 ## Automations-Aktion: Links hinzufügen
 
-Wenn Sie "Links hinzufügen" als automatisierte Aktion auswählen, wird in der entsprechenden Spalte bei Auslösung des Triggers eine [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) hergestellt. In den **Einstellungen** der Aktion können Sie dabei genauestens festlegen, unter welchen Bedingungen welcher Link in der Tabelle hinzugefügt wird.
+Wenn Sie "Links hinzufügen" als automatisierte Aktion auswählen, wird in der entsprechenden Spalte bei Auslösung des Triggers eine [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) hergestellt. In den **Einstellungen** der Aktion können Sie dabei genauestens festlegen, unter welchen Bedingungen welcher Link in der Tabelle hinzugefügt wird.
 
 ![Automations-Aktion: Hinzufügen von Verlinkungen](images/add-links-action-settings.jpg)
 

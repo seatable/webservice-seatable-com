@@ -1,16 +1,17 @@
 ---
-title: 'How to link tables in SeaTable'
+title: 'The link column'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
-author: 'vge'
-url: '/help/how-to-link-tables-seatable'
+author: 'kgr'
+url: '/help/link-column'
 aliases:
     - '/help/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+    - '/help/how-to-link-tables-seatable'
 seo:
-    title: 'How to link tables in SeaTable for powerful relations'
-    description: 'Link tables in SeaTable for cross-references and data integration. Step-by-step guide to connect and manage related tables.'
+    title: 'Use link columns in SeaTable for powerful relations'
+    description: 'Link tables via link columns for relations and data integration. Step-by-step guide to connect and manage related tables.'
 
 ---
 

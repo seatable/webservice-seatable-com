@@ -14,7 +14,7 @@ seo:
 weight: 29
 ---
 
-Por defeito, SeaTable mostra todas as filas nas vistas de tabela com uma altura de fila compacta para mostrar o maior número de registos possível. No entanto, com esta **simples altura de linha**, entre outras coisas, são cortadas colunas de [texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) e [selecção múltipla]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) e apenas **miniaturas de imagens** são exibidas.
+Por defeito, SeaTable mostra todas as filas nas vistas de tabela com uma altura de fila compacta para mostrar o maior número de registos possível. No entanto, com esta **simples altura de linha**, entre outras coisas, são cortadas colunas de [texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) e [selecção múltipla]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) e apenas **miniaturas de imagens** são exibidas.
 
 ![Conteúdo celular truncado](images/small-row-height-cut-cells.png)
 

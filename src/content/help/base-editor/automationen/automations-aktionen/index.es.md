@@ -131,7 +131,7 @@ La acción de automatización "Modificar registro" está disponible actualmente 
 
 ## Acción de automatización: Añadir enlaces
 
-Si selecciona "Añadir enlaces" como acción automatizada, se creará un [enlace a otras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la columna correspondiente cuando se active el activador. En los **configuraciones** de la acción, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
+Si selecciona "Añadir enlaces" como acción automatizada, se creará un [enlace a otras entradas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) en la columna correspondiente cuando se active el activador. En los **configuraciones** de la acción, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
 
 ![Acción de automatización: Añadir enlaces](images/add-links-action-settings.jpg)
 

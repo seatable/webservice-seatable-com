@@ -170,7 +170,7 @@ No caso da Base Airtable com as duas tabelas "table1" e "table2", o resultado po
 
 ### 6\. definir colunas de ligação
 
-Para que o SeaTable importe os dados corretamente, é necessário mais um passo: a especificação das [colunas de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na Airtable Base.
+Para que o SeaTable importe os dados corretamente, é necessário mais um passo: a especificação das [colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) na Airtable Base.
 
 A variável "links" destina-se a este fim. Por exemplo, se a coluna "link to table2" da tabela "table1" representar uma ligação à tabela "table 2", o guião deve ser parametrizado da seguinte forma
 

@@ -55,4 +55,4 @@ Ao contrário da coluna de seleção única, você **não pode** especificar um 
 
 ## Seleção múltipla ou ligação a outras entradas?
 
-Se pretender guardar **informação adicional** para cada opção de seleção, deve considerar a utilização de uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em vez de uma coluna de seleção múltipla. Para tal, crie registos de dados completos para todas as opções numa tabela separada, que pode ligar a qualquer número de linhas noutras tabelas.
+Se pretender guardar **informação adicional** para cada opção de seleção, deve considerar a utilização de uma [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) em vez de uma coluna de seleção múltipla. Para tal, crie registos de dados completos para todas as opções numa tabela separada, que pode ligar a qualquer número de linhas noutras tabelas.

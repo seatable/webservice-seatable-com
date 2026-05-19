@@ -164,7 +164,7 @@ Für die Airtable Base mit den zwei Tabellen "table1" und "table2" könnte es da
 
 ### 6\. Verknüpfungsspalten festlegen
 
-Damit SeaTable die Daten richtig importieren kann, ist noch ein weiterer Schritt erforderlich: die Spezifikation der [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in der Airtable Base.
+Damit SeaTable die Daten richtig importieren kann, ist noch ein weiterer Schritt erforderlich: die Spezifikation der [Verknüpfungsspalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) in der Airtable Base.
 
 Dafür ist die Variable "links" vorgesehen. Wenn beispielsweise die Spalte "link to table2" in der Tabelle "table1" eine Verknüpfung mit der Tabelle "table 2" abbildet, dann sollte das Skript wie folgt parametrisiert werden:
 

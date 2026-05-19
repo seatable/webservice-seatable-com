@@ -38,7 +38,7 @@ Für die Umsetzung benötigen Sie zunächst zwei Tabellen: eine Tabelle, in der 
 
 {{< warning  type="warning" headline="Wichtiger Hinweis" >}}
 
-Bei dieser Datenverarbeitungsoperation müssen Sie Ihren Tabellen **keine Spalten** manuell hinzufügen, da bei der ersten Ausführung automatisch eine [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in beiden Tabellen angelegt wird.
+Bei dieser Datenverarbeitungsoperation müssen Sie Ihren Tabellen **keine Spalten** manuell hinzufügen, da bei der ersten Ausführung automatisch eine [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) in beiden Tabellen angelegt wird.
 
 {{< /warning >}}
 

@@ -73,7 +73,7 @@ Se especificar a referência **{creator.name}** ou **{creator.id}** como valor p
 Os valores predefinidos aplicam-se **sempre que** é possível criar novas linhas:
 
 - num [quadro]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- numa [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- numa [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - via [botão]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (ação: "Copiar linha para outra tabela")
 - através da [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
 - na [vista Calendário, Kanban, Galeria e Árvore]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})

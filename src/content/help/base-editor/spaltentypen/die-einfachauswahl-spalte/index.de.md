@@ -64,7 +64,7 @@ Alle in diesem Abschnitt vorgestellten Funktionen gelten genauso für die [Mehrf
 4. Der eingegebene Begriff wird anschließend der ausgewählten Zelle zugewiesen und zu den verschiedenen **Auswahl-Optionen** der Spalte hinzugefügt.
 
 {{< warning headline="Einfachauswahl oder Verknüpfung zu anderen Einträgen?" >}}
-Wenn Sie sich wünschen, **zusätzliche Daten** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, statt einer Einfachauswahl-Spalte eine [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) zu verwenden. Dazu legen Sie in einer separaten Tabelle die Einfachauswahl als erste Spalte an. So können Sie für alle Optionen vollständige Datensätze erfassen, die Sie in verknüpften Tabellen beliebig vielen Zeilen zuordnen können.
+Wenn Sie sich wünschen, **zusätzliche Daten** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, statt einer Einfachauswahl-Spalte eine [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) zu verwenden. Dazu legen Sie in einer separaten Tabelle die Einfachauswahl als erste Spalte an. So können Sie für alle Optionen vollständige Datensätze erfassen, die Sie in verknüpften Tabellen beliebig vielen Zeilen zuordnen können.
 {{< /warning >}}
 
 ## Optionen exportieren und importieren

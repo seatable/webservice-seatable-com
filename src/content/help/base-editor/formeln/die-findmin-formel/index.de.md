@@ -31,7 +31,7 @@ Die Findmin-Formel können Sie bei allen numerischen Werten zur Darstellung des 
 
 ### Eine Tabellenverknüpfung hinzufügen
 
-Informieren Sie sich im Artikel [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), wie Sie eine Spalte des Typs **Verknüpfung zu anderen Einträgen** erstellen. Dies ist eine Grundvoraussetzung, um die Findmin-Formel nutzen zu können.
+Informieren Sie sich im Artikel über die [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), wie Sie eine Spalte des Typs **Verknüpfung zu anderen Einträgen** erstellen. Dies ist eine Grundvoraussetzung, um die Findmin-Formel nutzen zu können.
 
 ### Eine Spalte mit Findmin-Formel hinzufügen
 

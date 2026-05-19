@@ -65,7 +65,7 @@ All functions presented in this section apply in the same way to the [multiple s
 4. The term entered is then assigned to the selected cell and added to the various **options** in the column.
 
 {{< warning headline="Single select or Link to other records?" >}}
-If you wish to be able to store **additional data** for each option, you should consider using a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) instead of a single select column. To do this, create the single select as the first column in a separate table. This allows you to enter complete data records for all options, which you can assign to any number of rows in linked tables.
+If you wish to be able to store **additional data** for each option, you should consider using a [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) instead of a single select column. To do this, create the single select as the first column in a separate table. This allows you to enter complete data records for all options, which you can assign to any number of rows in linked tables.
 {{< /warning >}}
 
 ## Export and import options

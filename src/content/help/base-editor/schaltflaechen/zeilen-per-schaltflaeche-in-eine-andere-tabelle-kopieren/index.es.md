@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Puede utilizar un **botón** para **copiar filas a otras tablas**. Esto resulta útil si necesita determinados registros de datos en diferentes tablas pero no desea utilizar [un enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Las siguientes instrucciones ilustran el caso de uso utilizando un ejemplo.
+Puede utilizar un **botón** para **copiar filas a otras tablas**. Esto resulta útil si necesita determinados registros de datos en diferentes tablas pero no desea utilizar [un enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Las siguientes instrucciones ilustran el caso de uso utilizando un ejemplo.
 
 ## Ejemplo de aplicación
 

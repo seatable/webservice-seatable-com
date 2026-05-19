@@ -55,4 +55,4 @@ Contrairement à une colonne de sélection unique, une colonne de sélection mul
 
 ## Sélection multiple ou lien vers d'autres entrées ?
 
-Si vous souhaitez **enregistrer des informations supplémentaires** pour chaque option de sélection, vous devriez envisager d'utiliser une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) plutôt qu'une colonne de sélection multiple. Pour ce faire, créez des enregistrements complets pour toutes les options dans un tableau séparé, que vous pouvez lier à autant de lignes que vous le souhaitez dans d'autres tableaux.
+Si vous souhaitez **enregistrer des informations supplémentaires** pour chaque option de sélection, vous devriez envisager d'utiliser une [colonne de liaison]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) plutôt qu'une colonne de sélection multiple. Pour ce faire, créez des enregistrements complets pour toutes les options dans un tableau séparé, que vous pouvez lier à autant de lignes que vous le souhaitez dans d'autres tableaux.

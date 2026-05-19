@@ -10,11 +10,11 @@ aliases:
     - '/help/verknuepfungen-innerhalb-einer-tabelle'
 seo:
     title: 'Linking Records Within a Table: SeaTable Guide'
-    description: 'How to link rows in the same SeaTable: hierarchy, parent-child relations, double link columns, and clear tips for table connections.'
+    description: 'How to link rows in the same table: hierarchy, parent-child relations, double link columns, and clear tips for table connections.'
 
 ---
 
-With the help of a **link column**, you can not only [link several tables with each other]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in SeaTable, but also **relate data records in one and the same table to each other**.
+With the help of a **link column**, you can not only link several tables with each other, but also **relate data records in one and the same table to each other**.
 
 This is particularly useful if the data in your table has a **hierarchy**.
 
@@ -59,4 +59,4 @@ The **parents and children** of a parent-child relationship are therefore record
 ## Related articles
 
 - If you want to **visualize** hierarchical links clearly, we can warmly recommend the [organization chart plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
-- For all other questions about handling link columns, please consult the article [How to link tables in SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+- For all other questions about handling link columns, please consult the article about the [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).

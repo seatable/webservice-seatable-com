@@ -32,7 +32,7 @@ Cela peut être utile pour accéder facilement à des informations inter-tables,
 
 ### Ajouter un lien de tableau
 
-La fonction Lookup ne peut être utilisée que s'il existe déjà une colonne de type _lien vers d'autres entrées_. Si vous ne disposez pas encore d'une telle colonne, commencez par en créer une. Pour savoir comment cela fonctionne, [cliquez ici]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+La fonction Lookup ne peut être utilisée que s'il existe déjà une colonne de type _lien vers d'autres entrées_. Si vous ne disposez pas encore d'une telle colonne, commencez par en créer une. Pour savoir comment cela fonctionne, [cliquez ici]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Ajouter une formule de recherche
 

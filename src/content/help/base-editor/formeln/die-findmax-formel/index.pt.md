@@ -33,7 +33,7 @@ Pode usar a fórmula Findmax com todos os valores numéricos para representar o 
 
 ### Acrescentar uma ligação de tabela
 
-Ver o artigo [How to Link Tables in SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) para informações sobre como criar uma coluna do tipo **Link to Other Entries**. Este é um requisito básico para se poder utilizar a fórmula Findmax.
+Ver o artigo da [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) para informações sobre como criar uma coluna do tipo **Ligação a outras entradas**. Este é um requisito básico para se poder utilizar a fórmula Findmax.
 
 ### Adicionar uma coluna com fórmula Findmax
 
@@ -41,7 +41,7 @@ Ver o artigo [How to Link Tables in SeaTable]({{< relref "help/base-editor/tabel
 
 1. Criar uma nova coluna do tipo **Fórmula para links**.
 2. Defina a opção **Findmax** como a fórmula.
-3. Seleccione a coluna previamente criada do tipo **Link para outras entradas** nesta tabela.
+3. Seleccione a coluna previamente criada do tipo **Ligação para outras entradas** nesta tabela.
 4. No campo **Selecionar coluna de pesquisa na tabela ligada "..."**, defina a coluna da outra tabela que pretende ligar à coluna aqui.
 5. Clique em **Submeter**.
 

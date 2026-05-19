@@ -13,7 +13,7 @@ seo:
     description: 'Découvrez comment utiliser le plugin Arbre de SeaTable pour visualiser des tables liées et structurer vos données hiérarchiquement.'
 ---
 
-Le **plug-in Arbre** permet une **représentation hiérarchique** compacte des ensembles de données liés. Cela signifie que vous pouvez visualiser les données qui se trouvent dans différents [tableaux liés entre eux à]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) différents niveaux dans un diagramme en arborescence. Le plugin permet donc d'obtenir une vue d'ensemble structurée, en particulier pour les grandes quantités de données telles que les données financières ou les données de projet.
+Le **plug-in Arbre** permet une **représentation hiérarchique** compacte des ensembles de données liés. Cela signifie que vous pouvez visualiser les données qui se trouvent dans différents [tableaux liés entre eux à]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) différents niveaux dans un diagramme en arborescence. Le plugin permet donc d'obtenir une vue d'ensemble structurée, en particulier pour les grandes quantités de données telles que les données financières ou les données de projet.
 
 Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 

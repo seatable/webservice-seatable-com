@@ -14,7 +14,7 @@ seo:
 weight: 29
 ---
 
-By default, SeaTable displays all rows in table views with a compact row height to show as many records as possible. However, with this **default row height**, among other things, [text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [link]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})and [multiple select columns]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) are truncated and only small **thumbnails** of images are displayed.
+By default, SeaTable displays all rows in table views with a compact row height to show as many records as possible. However, with this **default row height**, among other things, [text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [link]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})and [multiple select columns]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) are truncated and only small **thumbnails** of images are displayed.
 
 ![Truncated cell contents](images/small-row-height-cut-cells.png)
 

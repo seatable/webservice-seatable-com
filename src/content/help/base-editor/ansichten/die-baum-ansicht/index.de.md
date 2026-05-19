@@ -18,7 +18,7 @@ Die **Baum-Ansicht** ermöglicht die kompakte **hierarchische Darstellung** verk
 
 {{< warning  type="warning" headline="Voraussetzungen" >}}
 
-Um die Baum-Ansicht sinnvoll nutzen zu können, benötigen Sie eine Base mit **mindestens zwei Tabellen**, die über eine [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) miteinander verbunden sind.
+Um die Baum-Ansicht sinnvoll nutzen zu können, benötigen Sie eine Base mit **mindestens zwei Tabellen**, die über eine [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) miteinander verbunden sind.
 
 {{< /warning >}}
 

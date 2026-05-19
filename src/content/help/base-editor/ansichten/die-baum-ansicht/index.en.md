@@ -18,7 +18,7 @@ The **tree view** enables the compact **hierarchical display** of linked data re
 
 {{< warning type="warning" headline="Requirements" >}}
 
-In order to use the tree view sensibly, you need a base with **at least two tables** that are linked to each other via a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+In order to use the tree view sensibly, you need a base with **at least two tables** that are linked to each other via a [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning>}}
 

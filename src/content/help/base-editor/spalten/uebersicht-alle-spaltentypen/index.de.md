@@ -151,7 +151,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Verknüpfun
 
 In Zellen dieses Spaltentyps können Sie eine beliebige Anzahl an **Verweisen auf Einträge in anderen Tabellen** der Base erfassen. Die Verknüpfungsspalte ist dafür gedacht, Relationen zwischen Einträgen unterschiedlicher Tabellen abzubilden. Mit der Verknüpfungsspalte lassen sich 1:n und n:1 Relationen ebenso abbilden wie n:m Relationen.
 
-Weitere Informationen zum Spaltentyp Verknüpfung zu anderen Einträgen finden Sie [hier]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Weitere Informationen zum Spaltentyp Verknüpfung zu anderen Einträgen finden Sie [hier]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Formel für Verknüpfungen
 

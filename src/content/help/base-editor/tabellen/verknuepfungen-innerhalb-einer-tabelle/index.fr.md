@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Une **colonne de liaison** dans SeaTable permet non seulement de [lier plusieurs tableaux entre eux]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi **de mettre en relation les enregistrements d'un même tableau**.
+Une **colonne de liaison** dans SeaTable permet non seulement de lier plusieurs tableaux entre eux, mais aussi **de mettre en relation les enregistrements d'un même tableau**.
 
 Cela a surtout du sens si les données de votre tableau présentent une **hiérarchie**.
 
@@ -41,13 +41,13 @@ Les deux colonnes de liens sont **indissociables**. Si vous **supprimez** l'une 
 
 1. Cliquez dans une **cellule de la colonne des liens**, puis sur le **symbole plus** qui apparaît.
 2. Les **lignes** disponibles **du tableau** sont maintenant listées. Cliquez sur la ou les lignes que vous souhaitez lier à la ligne sélectionnée.
-3. Dans les deux colonnes de liens, **l'entrée correspondante s** 'affiche immédiatement.
+3. Dans les deux colonnes de liens, **l'entrée correspondante** s'affiche immédiatement.
 
 {{< warning  headline="Conseil"  text="La **fonction de recherche intégrée** dans la boîte de dialogue des liens permet de parcourir les entrées du tableau afin de trouver rapidement la ligne souhaitée." />}}
 
 ## Pourquoi y a-t-il deux colonnes pour le même lien ?
 
-Si vous créez une colonne de jointure qui relie des entrées dans un même tableau, SeaTable crée automatiquement une deuxième colonne de jointure.
+Si vous créez une colonne de liens qui relie des entrées dans un même tableau, SeaTable crée automatiquement une deuxième colonne de liens.
 
 - Dans la **première** colonne de liens, vous voyez les enregistrements qui sont **supérieurs** à une ligne.
 - Dans la **deuxième** colonne de liens, vous voyez les enregistrements qui sont **subordonnés** à une ligne.
@@ -59,4 +59,4 @@ Les **parents et les enfants** d'une relation parent-enfant sont donc saisis et 
 ## Articles connexes
 
 - Si vous souhaitez **visualiser** clairement les liens hiérarchiques, nous vous recommandons vivement le [plug-in Organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
-- Pour toute autre question concernant l'utilisation des colonnes de jointure, veuillez consulter l'article [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+- Pour toute autre question concernant l'utilisation des colonnes de liaison, veuillez consulter l'article de [la colonne des liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).

@@ -14,10 +14,10 @@ seo:
 
 ---
 
-A primera vista, SeaTable parece una hoja de cálculo, pero en muchos puntos funciona como una base de datos. Las tablas de SeaTable no están aisladas, sino que pueden relacionar filas entre sí mediante una [columna de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+A primera vista, SeaTable parece una hoja de cálculo, pero es una **base de datos relacional**. Esto significa: las tablas en SeaTable no están aisladas, sino que pueden relacionarse entre sí mediante **columnas de enlace**. Esto funciona tanto con registros dentro de una tabla como entre varias tablas.
 
-Más concretamente, las columnas de enlace crean un vínculo entre las entradas. Esto funciona tanto con entradas dentro de una tabla como entre varias tablas. En última instancia, SeaTable no enlaza tablas enteras entre sí, sino filas a través de los límites de las tablas.
+Dado que la vinculación de registros en SeaTable se realiza con columnas especiales, encontrará todas las explicaciones adicionales sobre la [columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) en el artículo del mismo nombre.
 
-Dado que esto se implementa en SeaTable con columnas, encontrará todas las explicaciones adicionales sobre el tema de los enlaces y las fórmulas de enlace en la sección [Columnas]({{< relref "help/base-editor/spalten" >}}).
+Para las características especiales de los [enlaces dentro de una tabla]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}) encontrará una guía separada.
 
-Para empezar, le recomendamos el siguiente artículo: [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Para una introducción al trasfondo técnico, le recomendamos el [artículo sobre bases de datos relacionales]({{< relref "posts/relationale-datenbank" >}}).

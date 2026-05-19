@@ -23,7 +23,7 @@ Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "hel
 
 Wenn Sie das Tabellenbeziehungen-Plugin eingerichtet und geöffnet haben, sehen Sie zunächst **alle Tabellen**, die sich in der Base befinden. Unter den farbig hinterlegten Tabellennamen sind **alle Spalten** aufgelistet, die in den jeweiligen Tabellen angelegt sind.
 
-Um die Tabellenbeziehungen zu visualisieren, werden Ihnen nicht nur **durchgezogene Linien** für _direkte_ Verbindungen über [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sondern auch **gestrichelte Linien** für _indirekte_ Verbindungen über Linkformel-Spalten (z. B. [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) angezeigt.
+Um die Tabellenbeziehungen zu visualisieren, werden Ihnen nicht nur **durchgezogene Linien** für _direkte_ Verbindungen über [Verknüpfungsspalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sondern auch **gestrichelte Linien** für _indirekte_ Verbindungen über Linkformel-Spalten (z. B. [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) angezeigt.
 
 ## Einstellungsmöglichkeiten einer Tabellenbeziehungen-Grafik
 

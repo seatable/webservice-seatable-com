@@ -50,7 +50,7 @@ Les [formulaires web]({{< relref "help/base-editor/webformulare" >}}) simples qu
 
 ### Type de page Tableau
 
-Les **filtres prédéfinis** dans les paramètres de données permettent désormais de sélectionner tous les types de colonnes pertinents, y compris [les]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) [colonnes]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [de formules]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) et [de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Cela supprime une restriction fonctionnelle importante lors du préfiltrage des données. Avec l'implémentation des groupes de filtres dans une prochaine version, ce type de page offrira les mêmes possibilités de filtrage performantes que la Base.
+Les **filtres prédéfinis** dans les paramètres de données permettent désormais de sélectionner tous les types de colonnes pertinents, y compris [les]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) [colonnes]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) [de formules]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) et [de liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Cela supprime une restriction fonctionnelle importante lors du préfiltrage des données. Avec l'implémentation des groupes de filtres dans une prochaine version, ce type de page offrira les mêmes possibilités de filtrage performantes que la Base.
 
 ### Pages personnalisées
 

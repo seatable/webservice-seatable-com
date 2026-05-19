@@ -52,7 +52,7 @@ La formule fait référence à des _colonnes_ entières, comme par exemple {Purc
 ## Valeurs provenant d'autres tableaux
 
 Les formules SeaTable fonctionnent à l'intérieur des _tableaux_, pas au-delà des _bases_.  
-Comme ci-dessus, les formules SeaTable ne concernent par défaut que les _colonnes_ d'une même _table_. Il est toutefois possible de prendre une valeur dans un autre tableau pour la référencer dans un champ de calcul (cette approche utilise des enregistrements liés, qui sont traités plus en détail [ici]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ).
+Comme ci-dessus, les formules SeaTable ne concernent par défaut que les _colonnes_ d'une même _table_. Il est toutefois possible de prendre une valeur dans un autre tableau pour la référencer dans un champ de calcul (cette approche utilise des enregistrements liés, qui sont traités plus en détail [ici]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) ).
 
 ### Excel
 

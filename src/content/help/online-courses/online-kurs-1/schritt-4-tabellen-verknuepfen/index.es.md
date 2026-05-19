@@ -85,5 +85,5 @@ Al suprimir la columna `Category` la opción de entrada en el formulario web se 
 ## Artículo de ayuda con más información
 
 - [Añadir una tabla a una base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - [Tratamiento de datos Comparación y enlace]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

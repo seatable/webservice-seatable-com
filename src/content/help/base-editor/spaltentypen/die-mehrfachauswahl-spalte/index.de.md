@@ -53,4 +53,4 @@ Bei einer Mehrfachauswahl-Spalte haben Sie im Gegensatz zur Einfachauswahl-Spalt
 
 ## Mehrfachauswahl oder Verknüpfung zu anderen Einträgen?
 
-Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, statt einer Mehrfachauswahl-Spalte eine [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) zu verwenden. Dazu legen Sie in einer separaten Tabelle für alle Optionen vollständige Datensätze an, die Sie mit beliebig vielen Zeilen in anderen Tabellen verknüpfen können.
+Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, statt einer Mehrfachauswahl-Spalte eine [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) zu verwenden. Dazu legen Sie in einer separaten Tabelle für alle Optionen vollständige Datensätze an, die Sie mit beliebig vielen Zeilen in anderen Tabellen verknüpfen können.

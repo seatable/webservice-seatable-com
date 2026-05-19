@@ -43,13 +43,13 @@ Ein weiteres Highlight von SeaTable 5.0 sind die neuen [Plugins]({{< relref "hel
 
 ### Organigramm
 
-Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt]({{< relref "templates/projects/work-breakdown-structure" >}}). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
+Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt]({{< relref "templates/projects/work-breakdown-structure" >}}). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
 
 ![Organigramm-Plugin](Organigramm-Plugin.png)
 
 ### Tabellenbeziehungen
 
-Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
+Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
 
 ![Tabellenbeziehungen-Plugin](Table-Relationships-Plugin.png)
 

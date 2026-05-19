@@ -40,7 +40,7 @@ Depois de ter dominado com sucesso os primeiros passos e criado as suas primeira
 
 A tabela é o nível mais importante em que pode organizar os seus dados em SeaTable, comparável a uma folha de cálculo numa folha de cálculo. Basicamente, **as tabelas** são o nível seguinte abaixo das bases na estrutura organizacional do SeaTable.
 
-Uma vez que SeaTable é uma [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}), é possível ligar informações em diferentes tabelas de uma base através de [ligações]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automatizações]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) e outras funções.
+Uma vez que SeaTable é uma [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}), é possível ligar informações em diferentes tabelas de uma base através de [ligações]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), [automatizações]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) e outras funções.
 
 Uma tabela é constituída por linhas e colunas. Todas as entradas numa **linha** formam um **conjunto de dados** coerente. Os [tipos de coluna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) no SeaTable definem quais os **tipos de dados** que pode introduzir numa **coluna**.
 

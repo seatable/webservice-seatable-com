@@ -73,7 +73,7 @@ Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por
 Los valores por defecto se aplican **siempre que** se puedan crear nuevas líneas:
 
 - en una [tabla]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- en una [columna de enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- en una [columna de enlaces]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - mediante [un botón]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (acción: "Copiar fila a otra tabla")
 - mediante [automatización]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
 - en la [vista Calendario, Kanban, Galería y Árbol]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})

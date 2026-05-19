@@ -18,7 +18,7 @@ The Countlinks formula counts the number of linked entries of the column type **
 
 {{< warning  headline="Table linking is a basic requirement" >}}
 
-You can create a column with the Countlinks formula only if you have linked two tables. Read [here how to create such a link]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+You can create a column with the Countlinks formula only if you have linked two tables. Read [here how to create such a link]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning >}}
 
@@ -26,7 +26,7 @@ You can create a column with the Countlinks formula only if you have linked two 
 
 The **Countlinks formula** should be used whenever you want to display the **number of entries of** another table as a cross-reference.
 
-For example, you can use this to map the number of registered participants from a separate table when planning a workshop. The [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) would thus hold the names of all participants.
+For example, you can use this to map the number of registered participants from a separate table when planning a workshop. The [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) would thus hold the names of all participants.
 
 ![The Countlinks Formula.](images/countlinks-2.png)
 

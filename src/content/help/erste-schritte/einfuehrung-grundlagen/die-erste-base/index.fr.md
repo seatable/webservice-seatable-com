@@ -37,7 +37,7 @@ SeaTable propose [plus de 20 types de colonnes]({{< relref "help/base-editor/spa
 
 Vous voulez ajouter des images à une entrée ? Faites simplement glisser l'image dans une colonne d'images et SeaTable l'enregistrera directement dans le tableau. Dans SeaTable, vous avez toutes vos données au même endroit !
 
-Un autre type de colonne que vous ne connaissez pas dans un tableur est la [liaison à d'autres entrées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Les liens permettent de créer des relations entre les lignes de différents tableaux. Cette procédure, qui correspond au mode de fonctionnement des bases de données relationnelles, permet d'éviter les saisies en double, d'assurer la cohérence des données et de créer une vue d'ensemble.
+Un autre type de colonne que vous ne connaissez pas dans un tableur est la [liaison à d'autres entrées]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Les liens permettent de créer des relations entre les lignes de différents tableaux. Cette procédure, qui correspond au mode de fonctionnement des bases de données relationnelles, permet d'éviter les saisies en double, d'assurer la cohérence des données et de créer une vue d'ensemble.
 
 Voici un exemple d'application : une gérance immobilière saisit dans un tableau les objets gérés et les relie aux locataires qui sont gérés dans un autre tableau. Si les propriétés de l'objet changent, le gestionnaire doit uniquement modifier l'adaptation dans le tableau des objets. Grâce à la liaison, les informations modifiées sont automatiquement mises à jour pour tous les locataires affectés.
 

@@ -170,7 +170,7 @@ else:
 
 ### 6\. определить колонки ссылок
 
-Для того чтобы SeaTable корректно импортировал данные, необходимо выполнить еще один шаг: указать [колонки связей]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) в Airtable Base.
+Для того чтобы SeaTable корректно импортировал данные, необходимо выполнить еще один шаг: указать [колонки связей]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) в Airtable Base.
 
 Для этого предназначена переменная "links". Например, если столбец "link to table2" в таблице "table1" представляет собой ссылку на таблицу "table 2", то сценарий должен быть параметризован следующим образом:
 

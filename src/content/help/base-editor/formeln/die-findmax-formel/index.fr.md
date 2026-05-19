@@ -33,7 +33,7 @@ Vous pouvez utiliser la formule Findmax pour toutes les valeurs numériques afin
 
 ### Ajouter un lien de tableau
 
-Consultez l'article [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) pour savoir comment créer une colonne de type **lien vers d'autres entrées**. C'est une condition préalable à l'utilisation de la formule Findmax.
+Consultez l'article de la [colonne des liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) pour savoir comment créer une colonne de type **lien vers d'autres entrées**. C'est une condition préalable à l'utilisation de la formule Findmax.
 
 ### Ajouter une colonne avec la formule Findmax
 

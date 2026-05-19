@@ -35,5 +35,5 @@ SeaTable berücksichtigt diese Einschränkung und stellt sicher, dass auch im We
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - [Konfigurationsmöglichkeiten eines Webformulars]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

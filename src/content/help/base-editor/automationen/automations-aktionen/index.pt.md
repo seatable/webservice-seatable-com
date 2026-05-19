@@ -131,7 +131,7 @@ A ação de automatização "Modificar registro" está atualmente disponível pa
 
 ## Ação de automatização: Adicionar ligações
 
-Se selecionar "Adicionar ligações" como uma ação automática, é criada uma [ligação a outras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na coluna correspondente quando o acionador é acionado. Nas **definições** da ação, pode especificar exatamente em que condições o link é adicionado à tabela.
+Se selecionar "Adicionar ligações" como uma ação automática, é criada uma [ligação a outras entradas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) na coluna correspondente quando o acionador é acionado. Nas **definições** da ação, pode especificar exatamente em que condições o link é adicionado à tabela.
 
 ![Ação de automatização: Adicionar ligações](images/add-links-action-settings.jpg)
 

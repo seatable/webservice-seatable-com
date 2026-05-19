@@ -52,7 +52,7 @@ The formula refers to whole _columns_, such as {Purchase Type}.
 ## Values from other tables
 
 SeaTable formulas work within _tables_, not across _bases_.  
-Similar to above, by default SeaTable formulas only refer to _columns_ within the same _table_. However, there are also ways to take a value from another table to reference it in a formula field. This approach uses linked records, which are discussed in more detail [here]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Similar to above, by default SeaTable formulas only refer to _columns_ within the same _table_. However, there are also ways to take a value from another table to reference it in a formula field. This approach uses linked records, which are discussed in more detail [here]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Excel
 

@@ -19,7 +19,7 @@ With the help of the rollup formula of the column type **Formula for links** you
 
 With the **rollup formula** it is possible to determine relations between numerical values. For example, in budgeting, you can **sum up** the expenses of a category, calculate the **maximum** or **minimum value** spent, or even the **average**.
 
-First of all, you need a column of the type [Link to other entries]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Make sure that the option **Allow links to several rows** is activated, because only then you can determine relations between numbers.
+First of all, you need a column of the type [Link to other records]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Make sure that the option **Allow links to several rows** is activated, because only then you can determine relations between numbers.
 
 ![The roll-up formula](images/rollup-1.png)
 
@@ -29,7 +29,7 @@ The **Formula for Link** column then uses the rollup formula to show you the sel
 
 ## Add a table link
 
-Read in the article [How to link tables in SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) how to create a column of the type **Link to other entries**. This is a basic requirement to be able to use the rollup formula.
+Read in the [article about the link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) how to create a column of the type **Link to other records**. This is a basic requirement to be able to use the rollup formula.
 
 Using the rollup formula only makes sense if you enable the **Allow link to multiple rows** option when creating a link column. If the option were disabled, the field of the rollup formula would always contain the same value of the link column.
 

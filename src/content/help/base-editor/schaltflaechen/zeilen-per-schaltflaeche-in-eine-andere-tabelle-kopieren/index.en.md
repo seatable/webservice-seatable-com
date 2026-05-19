@@ -14,7 +14,7 @@ seo:
 
 ---
 
-You can use a **button** to **copyrows to other tables**. This is helpful if you need certain data records in different tables but do not want to use [a link]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). The following instructions illustrate the use case using an example.
+You can use a **button** to **copyrows to other tables**. This is helpful if you need certain data records in different tables but do not want to use [a link]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). The following instructions illustrate the use case using an example.
 
 ## Application example
 

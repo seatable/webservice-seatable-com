@@ -50,7 +50,7 @@ Einfache [Webformulare]({{< relref "help/base-editor/webformulare" >}}), die sic
 
 ### Seitentyp Tabelle
 
-Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswahl aller relevanten Spaltentypen inklusive [Formel-]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) und [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Damit ist eine wichtige funktionale Einschränkung bei der Vorfilterung der Daten aufgehoben. Mit der Implementierung von Filtergruppen in einer der kommenden Versionen wird dieser Seitentyp die gleichen leistungsfähigen Filtermöglichkeiten bieten wie die Base.
+Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswahl aller relevanten Spaltentypen inklusive [Formel-]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) und [Verknüpfungsspalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Damit ist eine wichtige funktionale Einschränkung bei der Vorfilterung der Daten aufgehoben. Mit der Implementierung von Filtergruppen in einer der kommenden Versionen wird dieser Seitentyp die gleichen leistungsfähigen Filtermöglichkeiten bieten wie die Base.
 
 ### Individuelle Seiten
 

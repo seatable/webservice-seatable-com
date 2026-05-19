@@ -19,7 +19,7 @@ Com a ajuda da fórmula de roll-up do tipo de coluna **Fórmula para ligações*
 
 Com a **fórmula de rollup** é possível determinar as relações entre os valores numéricos. Por exemplo, no planeamento orçamental pode **resumir** as despesas de uma categoria, calcular o **valor** **máximo** ou **mínimo** gasto ou mesmo a **média**.
 
-Primeiro é necessária uma coluna do tipo [Link para outras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Certifique-se de que a opção **Permitir ligações a várias filas** é activada, porque esta é a única forma de determinar as relações entre números.
+Primeiro é necessária uma coluna do tipo [Ligação para outras entradas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Certifique-se de que a opção **Permitir ligações a várias filas** é activada, porque esta é a única forma de determinar as relações entre números.
 
 ![A fórmula de enrolar](images/rollup-1.png)
 
@@ -29,7 +29,7 @@ A coluna **Fórmula para Ligação** mostra-lhe então a relação seleccionada 
 
 ## Acrescentar uma ligação de tabela
 
-Leia no artigo [Como ligar tabelas no SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) como criar uma coluna do tipo **Ligar a outras entradas**. Este é um requisito básico para se poder utilizar a fórmula de enrolamento.
+Leia no artigo [da coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) como criar uma coluna do tipo **Ligação a outras entradas**. Este é um requisito básico para se poder utilizar a fórmula de enrolamento.
 
 A utilização da fórmula de enrolar só faz sentido se activar a opção **Permitir ligação a múltiplas linhas** ao criar uma coluna de ligação. Se a opção fosse desligada, o campo da fórmula de enrolar conteria sempre o mesmo valor da coluna de ligação.
 

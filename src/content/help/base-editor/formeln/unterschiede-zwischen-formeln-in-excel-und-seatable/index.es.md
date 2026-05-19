@@ -52,7 +52,7 @@ La fórmula se refiere a columnas enteras, como {Tipo de compra}.
 ## Valores de otras tablas
 
 Las fórmulas de SeaTable funcionan dentro de _las tablas_, no a través de _las bases_.  
-Al igual que en el caso anterior, por defecto las fórmulas de SeaTable sólo hacen referencia a _columnas_ dentro de la misma _tabla_. Sin embargo, hay formas de tomar un valor de otra tabla para referenciarlo en un campo de fórmula (este enfoque utiliza registros enlazados, que se tratan con más detalle [aquí]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ).
+Al igual que en el caso anterior, por defecto las fórmulas de SeaTable sólo hacen referencia a _columnas_ dentro de la misma _tabla_. Sin embargo, hay formas de tomar un valor de otra tabla para referenciarlo en un campo de fórmula (este enfoque utiliza registros enlazados, que se tratan con más detalle [aquí]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) ).
 
 ### Excel
 

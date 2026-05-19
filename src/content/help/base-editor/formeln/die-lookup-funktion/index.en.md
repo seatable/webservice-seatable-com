@@ -32,7 +32,7 @@ This can be useful for easy access to cross-table information, setting up automa
 
 ### Add a table link
 
-The lookup function can only be used if a column of the type _Link to other entries_ already exists. If you don't have such a column yet, create one first. You can find out how this works [here]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+The lookup function can only be used if a column of the type _Link to other entries_ already exists. If you don't have such a column yet, create one first. You can find out how this works [here]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Add a lookup formula
 

@@ -19,7 +19,7 @@ Bases sind in SeaTable von zentraler Bedeutung. Wann auch immer Sie Daten in Sea
 
 Auf den ersten Blick ist eine Base nur ein **Container** für eine oder mehrere **Tabellen**. Aus dieser Perspektive liegt es nahe, eine Base mit einer Arbeitsmappe in Excel zu vergleichen. Dieser Vergleich wird einer Base aber nicht gerecht. Den Arbeitsmappen, wie man sie aus herkömmlichen Tabellenkalkulationen kennt, sind Bases in SeaTable weit überlegen, denn sie bieten:
 
-- [Relationale Datenbankfunktionen]({{< relref "posts/relationale-datenbank" >}}) und die [Verknüpfung von Tabellen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Relationale Datenbankfunktionen]({{< relref "posts/relationale-datenbank" >}}) und die [Verknüpfung von Tabellen]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - [Über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), die alle gängigen Datenformate abdecken
 - Diverse [Freigabemöglichkeiten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) zum einfachen Teilen von Daten
 - Echtzeit-[Zusammenarbeit]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) mit anderen Nutzern und Echtzeit-Übertragung aller Änderungen

@@ -30,7 +30,7 @@ Dies kann für den einfachen Zugriff auf tabellenübergreifende Informationen, d
 
 ### Eine Tabellenverknüpfung hinzufügen
 
-Die Lookup-Funktion kann nur verwendet werden, wenn bereits eine Spalte des Typs _Verknüpfung zu anderen Einträgen_ existiert. Wenn Sie bisher keine solche Spalte haben, legen Sie zuerst eine an. Wie das funktioniert, erfahren Sie [hier]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Die Lookup-Funktion kann nur verwendet werden, wenn bereits eine Spalte des Typs _Verknüpfung zu anderen Einträgen_ existiert. Wenn Sie bisher keine solche Spalte haben, legen Sie zuerst eine an. Wie das funktioniert, erfahren Sie [hier]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Eine Lookup-Formel hinzufügen
 

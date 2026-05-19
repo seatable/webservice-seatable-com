@@ -73,7 +73,7 @@ If you specify the reference **{creator.name}** or **{creator.id}** as the defau
 The default values apply **wherever** you can create new rows :
 
 - in a [table]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- in a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- in a [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - via [button]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (action: "Copyrow to another table")
 - via [automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (actions: "Addrow " and "Add new entry in another table")
 - in the [calendar, Kanban, gallery and tree view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})

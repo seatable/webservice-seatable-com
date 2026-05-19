@@ -1,15 +1,16 @@
 ---
-title: 'Cómo enlazar tablas en SeaTable'
+title: 'La columna de enlace'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
-author: 'vge'
-url: '/es/ayuda/como-vincular-tablas-seatable'
+author: 'kgr'
+url: '/es/ayuda/columna-de-enlace'
 aliases:
     - '/es/ayuda/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+    - '/es/ayuda/como-vincular-tablas-seatable'
 seo:
-    title: 'Cómo enlazar tablas en SeaTable – paso a paso'
+    title: 'La columna de enlace en SeaTable – paso a paso'
     description: 'Relacione datos entre tablas usando columnas de enlace en SeaTable. Aprenda a unir, editar y manejar relaciones fácilmente.'
 
 ---

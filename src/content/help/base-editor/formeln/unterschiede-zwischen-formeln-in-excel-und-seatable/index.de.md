@@ -47,7 +47,7 @@ Die Formel verweist auf ganze _Spalten_, wie z.B. {Purchase Type}.
 
 ## Werte aus anderen Tabellen
 
-SeaTable-Formeln funktionieren innerhalb von _Tabellen_, nicht über _Bases_ hinaus. Ähnlich wie oben beziehen sich SeaTable-Formeln standardmäßig nur auf _Spalten_ innerhalb derselben _Tabelle_. Es gibt jedoch auch Möglichkeiten, einen Wert aus einer anderen Tabelle zu übernehmen, um ihn in einem Formelfeld zu referenzieren. Dieser Ansatz verwendet verknüpfte Datensätze, die [hier]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ausführlicher behandelt werden.
+SeaTable-Formeln funktionieren innerhalb von _Tabellen_, nicht über _Bases_ hinaus. Ähnlich wie oben beziehen sich SeaTable-Formeln standardmäßig nur auf _Spalten_ innerhalb derselben _Tabelle_. Es gibt jedoch auch Möglichkeiten, einen Wert aus einer anderen Tabelle zu übernehmen, um ihn in einem Formelfeld zu referenzieren. Dieser Ansatz verwendet verknüpfte Datensätze, die [hier]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) ausführlicher behandelt werden.
 
 ### Excel
 

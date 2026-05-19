@@ -65,7 +65,7 @@ Todas as funções apresentadas nesta secção aplicam-se da mesma forma à [col
 4. O termo introduzido é então atribuído à célula selecionada e adicionado às várias **opções de seleção** da coluna.
 
 {{< warning headline="Seleção única ou ligação a outras entradas?" >}}
-Se pretender armazenar **dados adicionais** para cada opção de seleção, deve considerar a utilização de uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em vez de uma coluna de seleção única. Para tal, crie a seleção única como a primeira coluna de uma tabela separada. Isto permite-lhe introduzir registos de dados completos para todas as opções, que pode atribuir a qualquer número de linhas em tabelas ligadas.
+Se pretender armazenar **dados adicionais** para cada opção de seleção, deve considerar a utilização de uma [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) em vez de uma coluna de seleção única. Para tal, crie a seleção única como a primeira coluna de uma tabela separada. Isto permite-lhe introduzir registos de dados completos para todas as opções, que pode atribuir a qualquer número de linhas em tabelas ligadas.
 {{< /warning >}}
 
 ## Exportar e importar opções

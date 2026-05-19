@@ -50,7 +50,7 @@ Los [formularios web]({{< relref "help/base-editor/webformulare" >}}) sencillos 
 
 ### Tipo de página Tabla
 
-Los **filtros preestablecidos** de la configuración de datos permiten ahora seleccionar todos los tipos de columnas pertinentes, incluidas [las columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) y [enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Esto elimina una importante restricción funcional en el prefiltrado de datos. Con la implementación de grupos de filtros en una de las próximas versiones, este tipo de página ofrecerá las mismas potentes opciones de filtro que la base.
+Los **filtros preestablecidos** de la configuración de datos permiten ahora seleccionar todos los tipos de columnas pertinentes, incluidas [las columnas de]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) [fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) y [enlaces]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Esto elimina una importante restricción funcional en el prefiltrado de datos. Con la implementación de grupos de filtros en una de las próximas versiones, este tipo de página ofrecerá las mismas potentes opciones de filtro que la base.
 
 ### Páginas personalizadas
 

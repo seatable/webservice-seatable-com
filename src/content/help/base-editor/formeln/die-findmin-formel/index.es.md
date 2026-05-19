@@ -33,7 +33,7 @@ Puede utilizar la fórmula Findmin para todos los valores numéricos para repres
 
 ### Añadir un enlace a la tabla
 
-Descubra cómo crear una columna del tipo **Vincular a otras entradas** [en]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Este es un requisito básico para poder utilizar la fórmula Findmin.
+Consulte el [artículo sobre la columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) para obtener información sobre cómo crear una columna del tipo **Enlace a otros registros**. Este es un requisito básico para poder utilizar la fórmula Findmin.
 
 ### Añadir una columna con la fórmula Findmin
 

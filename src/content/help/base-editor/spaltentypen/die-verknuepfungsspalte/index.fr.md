@@ -1,15 +1,16 @@
 ---
-title: 'Comment lier des tableaux dans SeaTable'
+title: 'La colonne des liens'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
-author: 'vge'
-url: '/fr/aide/comment-lier-tables-seatable'
+author: 'kgr'
+url: '/fr/aide/colonne-des-liens'
 aliases:
     - '/fr/aide/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+    - '/fr/aide/comment-lier-tables-seatable'
 seo:
-    title: 'Comment lier des tables dans SeaTable – guide complet'
+    title: 'La colonne des liens dans SeaTable – guide complet'
     description: 'Créez des liens entre plusieurs tables, gérez et affichez les relations d’un simple clic, pour analyses et automatisations.'
 
 ---

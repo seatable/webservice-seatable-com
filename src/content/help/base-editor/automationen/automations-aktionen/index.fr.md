@@ -131,7 +131,7 @@ L'action d'automatisation "Modifier l'enregistrement" est actuellement disponibl
 
 ## Action d'automatisation : Ajouter des liens
 
-Si vous sélectionnez "Ajouter des liens" comme action automatisée, un [lien vers d'autres enregistrements]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) sera créé dans la colonne correspondante lors du déclenchement du trigger. Dans les **paramètres** de l'action, vous pouvez définir précisément les conditions d'ajout de tel ou tel lien dans le tableau.
+Si vous sélectionnez "Ajouter des liens" comme action automatisée, un [lien vers d'autres enregistrements]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) sera créé dans la colonne correspondante lors du déclenchement du trigger. Dans les **paramètres** de l'action, vous pouvez définir précisément les conditions d'ajout de tel ou tel lien dans le tableau.
 
 ![Action d'automatisation : ajout de liens](images/add-links-action-settings.jpg)
 
