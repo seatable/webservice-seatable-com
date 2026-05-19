@@ -85,5 +85,5 @@ Essayez donc la colonne nouvellement ajoutée `Category-Link` au formulaire web 
 ## Article d'aide avec plus d'informations
 
 - [Ajouter un tableau à une base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - [Traitement des données Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

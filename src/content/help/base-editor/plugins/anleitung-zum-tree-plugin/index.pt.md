@@ -13,7 +13,7 @@ seo:
     description: 'Saiba como usar o plugin Árvore do SeaTable para visualizar registros vinculados em diferentes níveis e organizar dados complexos.'
 ---
 
-O **plugin Árvore** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.
+O **plugin Árvore** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.
 
 Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 

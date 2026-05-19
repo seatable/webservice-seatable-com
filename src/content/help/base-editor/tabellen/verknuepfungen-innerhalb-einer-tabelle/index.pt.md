@@ -14,7 +14,7 @@ seo:
 
 ---
 
-É possível utilizar uma **coluna de ligação** no SeaTable não só para [ligar várias tabelas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também para **relacionar registos de dados numa única tabela**.
+É possível utilizar uma **coluna de ligação** no SeaTable não só para ligar várias tabelas, mas também para **relacionar registos de dados numa única tabela**.
 
 Isto é particularmente útil se os dados na sua tabela tiverem uma **hierarquia**.
 
@@ -59,4 +59,4 @@ Os **pais e os filhos** de uma relação pai-filho são, portanto, registados e 
 ## Artigos relacionados
 
 - Se pretender **visualizar** claramente as ligações hierárquicas, recomendamos vivamente o [plugin do organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
-- Para todas as outras questões sobre o tratamento de colunas de ligação, consulte o artigo [Como ligar tabelas no SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+- Para todas as outras questões sobre o tratamento de colunas de ligação, consulte o artigo da [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).

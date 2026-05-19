@@ -12,7 +12,7 @@ seo:
 
 ---
 
-Mithilfe einer **Verknüpfungsspalte** können Sie in SeaTable nicht nur [mehrere Tabellen miteinander verlinken]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sondern auch **Datensätze in ein und derselben Tabelle miteinander in Beziehung setzen**.
+Mithilfe einer **Verknüpfungsspalte** können Sie in SeaTable nicht nur mehrere Tabellen miteinander verlinken, sondern auch **Datensätze in ein und derselben Tabelle miteinander in Beziehung setzen**.
 
 Dies ergibt vor allem Sinn, wenn die Daten in Ihrer Tabelle eine **Hierarchie** aufweisen.
 
@@ -57,4 +57,4 @@ Die **Eltern und Kinder** einer Eltern-Kind-Beziehung werden also in separaten S
 ## Weiterführende Artikel
 
 - Wenn Sie hierarchische Verknüpfungen anschaulich **visualisieren** wollen, können wir Ihnen wärmstens das [Organigramm-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) empfehlen.
-- Für alle weiteren Fragen zum Umgang mit Verknüpfungsspalten konsultieren Sie bitte den Artikel [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+- Für alle weiteren Fragen zum Umgang mit Verknüpfungsspalten konsultieren Sie bitte den Artikel zur [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).

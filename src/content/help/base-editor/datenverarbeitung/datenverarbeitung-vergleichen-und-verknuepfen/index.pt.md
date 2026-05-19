@@ -50,7 +50,7 @@ Para a implementação, são necessárias duas tabelas: uma tabela na qual são 
 
 {{< warning  headline="Nota importante" >}}
 
-Com esta operação de processamento de dados, **não** precisa de adicionar **colunas** às suas tabelas manualmente, uma vez que uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) é criada automaticamente em ambas as tabelas na primeira vez que é executada.
+Com esta operação de processamento de dados, **não** precisa de adicionar **colunas** às suas tabelas manualmente, uma vez que uma [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) é criada automaticamente em ambas as tabelas na primeira vez que é executada.
 
 {{< /warning >}}
 

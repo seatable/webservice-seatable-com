@@ -32,7 +32,7 @@ Isto pode ser útil para um fácil acesso à informação de tabelas cruzadas, c
 
 ### Acrescentar uma ligação de tabela
 
-A função de pesquisa só pode ser utilizada se já existir uma coluna do tipo _Link para outras entradas_. Se ainda não tiver uma coluna deste tipo, crie uma primeiro. Pode descobrir como isto funciona [aqui]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+A função de pesquisa só pode ser utilizada se já existir uma coluna do tipo _Link para outras entradas_. Se ainda não tiver uma coluna deste tipo, crie uma primeiro. Pode descobrir como isto funciona [aqui]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Adicionar uma Fórmula de Pesquisa
 

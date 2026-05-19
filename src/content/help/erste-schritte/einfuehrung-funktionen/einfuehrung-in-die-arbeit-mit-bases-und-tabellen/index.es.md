@@ -40,7 +40,7 @@ Una vez que haya dominado los primeros pasos y haya creado sus primeras bases, p
 
 La tabla es el nivel más importante en el que puede organizar sus datos en SeaTable, comparable a una hoja de cálculo. Básicamente, **las tablas** son el siguiente nivel por debajo de las bases en la estructura organizativa de SeaTable.
 
-Dado que SeaTable es una [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}), puede vincular la información de diferentes tablas de una base mediante [enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automatizaciones]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) y otras funciones.
+Dado que SeaTable es una [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}), puede vincular la información de diferentes tablas de una base mediante [enlaces]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), [automatizaciones]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) y otras funciones.
 
 Una tabla consta de filas y columnas. Todas las entradas de una **fila** forman un **conjunto de datos** coherente. Los [tipos de columna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) en SeaTable definen qué **tipos de datos** puede introducir en una **columna**.
 

@@ -50,7 +50,7 @@ Para além do controlo de autorização, a nova versão contém também duas mel
 
 ### Tipo de página Tabela
 
-**Os filtros predefinidos** nas definições de dados permitem agora a seleção de todos os tipos de colunas relevantes, incluindo [colunas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [de fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) e [de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Isto elimina uma importante restrição funcional na pré-filtragem de dados. Com a implementação de grupos de filtros numa das próximas versões, este tipo de página oferecerá as mesmas opções de filtro poderosas que a base.
+**Os filtros predefinidos** nas definições de dados permitem agora a seleção de todos os tipos de colunas relevantes, incluindo [colunas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) [de fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) e [de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Isto elimina uma importante restrição funcional na pré-filtragem de dados. Com a implementação de grupos de filtros numa das próximas versões, este tipo de página oferecerá as mesmas opções de filtro poderosas que a base.
 
 ### Páginas personalizadas
 

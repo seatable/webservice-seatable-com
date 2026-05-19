@@ -85,5 +85,5 @@ seo:
 ## Справочная статья с дополнительной информацией
 
 - [Добавить таблицу в базу]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Как связать таблицы вместе в SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Как связать таблицы вместе в SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - [Обработка данных Сравнение и связь]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

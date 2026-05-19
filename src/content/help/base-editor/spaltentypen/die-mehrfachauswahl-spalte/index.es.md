@@ -55,4 +55,4 @@ A diferencia de la columna de selección única, usted **no puede** especificar 
 
 ## ¿Selección múltiple o enlace a otras entradas?
 
-Si desea poder guardar **información adicional** para cada opción de selección, debería plantearse utilizar una [columna de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en lugar de una columna de selección múltiple. Para ello, cree registros de datos completos para todas las opciones en una tabla adicional, que podrá vincular a cualquier número de filas de otras tablas.
+Si desea poder guardar **información adicional** para cada opción de selección, debería plantearse utilizar una [columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) en lugar de una columna de selección múltiple. Para ello, cree registros de datos completos para todas las opciones en una tabla adicional, que podrá vincular a cualquier número de filas de otras tablas.

@@ -153,7 +153,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Ligação
 
 Nas células deste tipo de coluna pode ser introduzido qualquer número de **referências a entradas noutras tabelas** da base. A coluna de ligação destina-se a mapear relações entre entradas em diferentes tabelas. A coluna de ligação pode ser utilizada para representar relações 1:n e n:1, bem como relações n:m.
 
-Para mais informações sobre o tipo de coluna Ligação a outras entradas, [clique aqui]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+Para mais informações sobre o tipo de coluna Ligação a outras entradas, [clique aqui]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 
 ### Fórmula para ligações
 

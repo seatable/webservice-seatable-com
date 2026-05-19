@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Puede utilizar una **columna de enlace** en SeaTable no sólo para [enlazar varias tablas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sino también para **relacionar registros de datos de una misma tabla**.
+Puede utilizar una **columna de enlace** en SeaTable no sólo para enlazar varias tablas, sino también para **relacionar registros de datos de una misma tabla**.
 
 Esto es especialmente útil si los datos de su tabla tienen una **jerarquía**.
 
@@ -59,4 +59,4 @@ Por lo tanto, los **padres y los hijos** de una relación padre-hijo se registra
 ## Artículos relacionados
 
 - Si desea **visualizar** claramente los vínculos jerárquicos, le recomendamos encarecidamente el [plugin de organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
-- Para todas las demás preguntas sobre el manejo de columnas de enlace, consulte el artículo [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+- Para todas las demás preguntas sobre el manejo de columnas de enlace, consulte el artículo sobre [la columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).

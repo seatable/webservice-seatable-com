@@ -37,7 +37,7 @@ O SeaTable oferece um total de [mais de 20 tipos de colunas]({{< relref "help/ba
 
 Quer adicionar fotografias a uma entrada? Basta arrastar a imagem para uma coluna de imagens e o SeaTable guarda-a directamente na tabela. Em SeaTable tem todos os seus dados no mesmo lugar!
 
-Outro tipo de coluna com que não está familiarizado numa folha de cálculo é a [ligação a outras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Com as ligações, criam-se relações entre linhas de diferentes tabelas. Este procedimento, que corresponde à forma como as bases de dados relacionais funcionam, evita entradas duplas, assegura a consistência dos dados e cria uma síntese.
+Outro tipo de coluna com que não está familiarizado numa folha de cálculo é a [ligação a outras entradas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Com as ligações, criam-se relações entre linhas de diferentes tabelas. Este procedimento, que corresponde à forma como as bases de dados relacionais funcionam, evita entradas duplas, assegura a consistência dos dados e cria uma síntese.
 
 Aqui está um exemplo de aplicação: Uma empresa de gestão de propriedade regista os objectos geridos numa tabela e liga-os a inquilinos que são geridos noutra tabela. Se algo mudar nas propriedades do objecto, o gestor só tem de alterar o ajustamento na tabela de objectos. Através da ligação, a informação alterada é automaticamente actualizada para todos os inquilinos atribuídos.
 

@@ -72,7 +72,7 @@ Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/sp
 Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 
 - in einer [Tabelle]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- in einer [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- in einer [Link-Spalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - per [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
 - in der [Kalender-, Kanban-, Galerie- und Baum-Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})

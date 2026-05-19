@@ -65,7 +65,7 @@ Todas las funciones presentadas en esta sección se aplican del mismo modo a la 
 4. El término introducido se asigna entonces a la celda seleccionada y se añade a las distintas **opciones de selección** de la columna.
 
 {{< warning headline="¿Selección única o enlace a otras entradas?" >}}
-Si desea poder almacenar **datos adicionales** para cada opción de selección, debería considerar el uso de una [columna de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en lugar de una columna de selección única. Para ello, cree la selección única como primera columna en una tabla adicional. Esto le permitirá introducir registros de datos completos para todas las opciones, que podrá asignar a cualquier número de filas en las tablas vinculadas.
+Si desea poder almacenar **datos adicionales** para cada opción de selección, debería considerar el uso de una [columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) en lugar de una columna de selección única. Para ello, cree la selección única como primera columna en una tabla adicional. Esto le permitirá introducir registros de datos completos para todas las opciones, que podrá asignar a cualquier número de filas en las tablas vinculadas.
 {{< /warning >}}
 
 ## Exportación e importación de opciones

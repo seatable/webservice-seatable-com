@@ -33,7 +33,7 @@ seo:
 
 ### Добавить ссылку на таблицу
 
-Информацию о том, как создать колонку типа **Link to Other Entries**, см. в статье [Как связать таблицы в SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Это основное требование для того, чтобы иметь возможность использовать формулу Findmax.
+Информацию о том, как создать колонку типа **Связать с другими записями**, см. в статье [Колонка ссылок]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Это основное требование для того, чтобы иметь возможность использовать формулу Findmax.
 
 ### Добавить столбец с формулой Findmax
 

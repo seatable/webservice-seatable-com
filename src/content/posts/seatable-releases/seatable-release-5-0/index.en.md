@@ -43,13 +43,13 @@ Another highlight of SeaTable 5.0 are the new [plugins]({{< relref "help/base-ed
 
 ### Organizational Chart
 
-The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}). To visualize the dependencies of the data records, you need a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
+The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}). To visualize the dependencies of the data records, you need a [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
 
 ![Organizational chart plugin](Organigramm-Plugin.png)
 
 ### Table Relationships
 
-Especially when there are many tables with thousands of rows in a base, it is easy to lose track of how they relate to each other. With the new Table Relationships plugin, you can visualize which tables are linked to each other via which columns. Not only direct links via [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) are displayed, but also indirect links via link formula columns.
+Especially when there are many tables with thousands of rows in a base, it is easy to lose track of how they relate to each other. With the new Table Relationships plugin, you can visualize which tables are linked to each other via which columns. Not only direct links via [link columns]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) are displayed, but also indirect links via link formula columns.
 
 ![Table relations plugin](Table-Relationships-Plugin.png)
 

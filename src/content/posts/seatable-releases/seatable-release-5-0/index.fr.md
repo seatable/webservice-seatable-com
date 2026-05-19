@@ -43,13 +43,13 @@ Un autre point fort de SeaTable 5.0 sont les nouveaux [plugins]({{< relref "help
 
 ### Organigramme
 
-Le plug-in Organigramme permet de représenter les hiérarchies entre les enregistrements d'un tableau, par exemple les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet]({{< relref "templates/projects/work-breakdown-structure" >}}). Pour visualiser les dépendances entre les enregistrements, vous avez besoin d'une [colonne de lien]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) qui se réfère à un seul et même tableau. L'entrée avec laquelle vous liez une autre ligne du même tableau est représentée comme enregistrement parent.
+Le plug-in Organigramme permet de représenter les hiérarchies entre les enregistrements d'un tableau, par exemple les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet]({{< relref "templates/projects/work-breakdown-structure" >}}). Pour visualiser les dépendances entre les enregistrements, vous avez besoin d'une [colonne de lien]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) qui se réfère à un seul et même tableau. L'entrée avec laquelle vous liez une autre ligne du même tableau est représentée comme enregistrement parent.
 
 ![Plugin d'organigramme](Organigramm-Plugin.png)
 
 ### Relations entre les tables
 
-Il est facile de perdre la vue d'ensemble des relations entre les différents tableaux d'une base, surtout lorsque celle-ci contient des milliers de lignes. Le nouveau plug-in Relations entre les tableaux permet de voir quels tableaux sont liés entre eux et par quelles colonnes. Il affiche non seulement les liens directs via les [colonnes de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi les liens indirects via les colonnes de formules de liens.
+Il est facile de perdre la vue d'ensemble des relations entre les différents tableaux d'une base, surtout lorsque celle-ci contient des milliers de lignes. Le nouveau plug-in Relations entre les tableaux permet de voir quels tableaux sont liés entre eux et par quelles colonnes. Il affiche non seulement les liens directs via les [colonnes de liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), mais aussi les liens indirects via les colonnes de formules de liens.
 
 ![Plugin de relations entre les tables](Table-Relationships-Plugin.png)
 

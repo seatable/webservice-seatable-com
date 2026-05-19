@@ -56,4 +56,4 @@ In contrast to the single select column, you **cannot** set a default value for 
 
 ## Multiple select or link to other records?
 
-If you want to be able to save **additional information** for each selection option, you should consider using a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) instead of a multiple select column. To do this, create complete data records for all options in a separate table, which you can link to any number of rows in other tables.
+If you want to be able to save **additional information** for each selection option, you should consider using a [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) instead of a multiple select column. To do this, create complete data records for all options in a separate table, which you can link to any number of rows in other tables.

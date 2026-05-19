@@ -12,7 +12,7 @@ seo:
 
 ---
 
-Mithilfe einer **Schaltfläche** können Sie **Zeilen in andere Tabellen kopieren**. Dies ist hilfreich, wenn Sie bestimmte Datensätze in verschiedenen Tabellen benötigen, aber keine [Verknüpfung]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) nutzen möchten. Die folgende Anleitung illustriert den Anwendungsfall anhand eines Beispiels.
+Mithilfe einer **Schaltfläche** können Sie **Zeilen in andere Tabellen kopieren**. Dies ist hilfreich, wenn Sie bestimmte Datensätze in verschiedenen Tabellen benötigen, aber keine [Verknüpfung]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) nutzen möchten. Die folgende Anleitung illustriert den Anwendungsfall anhand eines Beispiels.
 
 ## Anwendungsbeispiel
 

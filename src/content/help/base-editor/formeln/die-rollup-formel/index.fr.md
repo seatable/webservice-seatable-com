@@ -19,7 +19,7 @@ seo:
 
 La **formule du rollup** permet de déterminer des relations entre des valeurs numériques. Par exemple, lors de la planification budgétaire, vous pouvez **additionner** les dépenses d'une catégorie, calculer la **valeur** **maximale** ou **minimale** dépensée ou encore la **moyenne**.
 
-Vous avez d'abord besoin d'une colonne de type [lien vers d'autres entrées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Assurez-vous que l'option **Autoriser les liens vers plusieurs lignes** est activée, car c'est la seule façon de déterminer les relations entre les nombres.
+Vous avez d'abord besoin d'une colonne de type [Lien vers d'autres entrées]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Assurez-vous que l'option **Autoriser les liens vers plusieurs lignes** est activée, car c'est la seule façon de déterminer les relations entre les nombres.
 
 ![La formule du rollup](images/rollup-1.png)
 
@@ -29,7 +29,7 @@ La colonne **Formule de lien** affiche ensuite la relation sélectionnée entre 
 
 ## Ajouter un lien de tableau
 
-Consultez l'article [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) pour savoir comment créer une colonne de type **Lien vers d'autres entrées**. C'est une condition de base pour pouvoir utiliser la formule de rollup.
+Consultez l'[article de la colonne des liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) pour savoir comment créer une colonne de type **Lien vers d'autres entrées**. C'est une condition de base pour pouvoir utiliser la formule de rollup.
 
 L'utilisation de la formule de rollup n'a de sens que si vous activez l'option **Autoriser la liaison à plusieurs lignes** lors de la création d'une colonne de lien. Si cette option était désactivée, le champ de la formule de rollup contiendrait toujours la même valeur de la colonne de jointure.
 

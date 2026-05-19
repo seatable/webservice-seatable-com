@@ -1,14 +1,16 @@
 ---
-title: 'Wie man Tabellen in SeaTable miteinander verknüpft'
+title: 'Die Verknüpfungsspalte'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
-author: 'vge'
-url: '/de/hilfe/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+author: 'kgr'
+url: '/de/hilfe/die-verknuepfungsspalte'
+aliases: 
+    - '/de/hilfe/wie-man-tabellen-in-seatable-miteinander-verknuepft'
 seo:
-    title: 'Tabellen in SeaTable miteinander verknüpfen – Anleitung'
-    description: 'So verbinden Sie Daten aus mehreren Tabellen per Link-Spalte – erstellen, bearbeiten und nutzen Sie echte Querverweise flexibel und einfach.'
+    title: 'Die Verknüpfungsspalte in SeaTable – Anleitung'
+    description: 'So verbinden Sie Daten aus mehreren Tabellen per Link-Spalte – erstellen, bearbeiten und nutzen Sie echte Relationen flexibel und einfach.'
 
 ---
 

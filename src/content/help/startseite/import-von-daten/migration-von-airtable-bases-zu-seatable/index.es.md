@@ -174,7 +174,7 @@ Para la base de Airtable con las dos tablas “table1” y “table2”, podría
 
 ### 6\. Definir columnas de enlace
 
-Para que SeaTable pueda importar los datos correctamente, es necesario un paso adicional: la especificación de las [columnas de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la base de Airtable.
+Para que SeaTable pueda importar los datos correctamente, es necesario un paso adicional: la especificación de las [columnas de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) en la base de Airtable.
 
 Para ello se utiliza la variable “links”. Por ejemplo, si la columna “link to table2” en la tabla “table1” representa un enlace con la tabla “table 2”, entonces el script debe parametrizarse de la siguiente manera:
 

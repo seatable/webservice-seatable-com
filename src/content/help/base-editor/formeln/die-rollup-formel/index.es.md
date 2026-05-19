@@ -19,7 +19,7 @@ Con la ayuda de la fórmula roll-up del tipo de columna **Fórmula para enlaces*
 
 Con la **fórmula rollup** es posible determinar relaciones entre valores numéricos. Por ejemplo, en la planificación presupuestaria puede **sumar** los gastos de una categoría, calcular el **valor** **máximo** o **mínimo** gastado o incluso la **media**.
 
-Primero necesita una columna del tipo [Enlace a otras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Asegúrese de que la opción **Permitir enlaces a varias filas** está activada, porque es la única forma de determinar relaciones entre números.
+Primero necesita una columna del tipo [Enlace a otras entradas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Asegúrese de que la opción **Permitir enlaces a varias filas** está activada, porque es la única forma de determinar relaciones entre números.
 
 ![La fórmula del roll-up](images/rollup-1.png)
 
@@ -29,7 +29,7 @@ A continuación, la columna **Fórmula para** enlace muestra la relación selecc
 
 ## Añadir un enlace a la tabla
 
-Lea en el artículo [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) cómo crear una columna del tipo **Enlace a otras entradas**. Este es un requisito básico para poder utilizar la fórmula rollup.
+Lea en el artículo sobre [la columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) cómo crear una columna del tipo **Enlace a otras entradas**. Este es un requisito básico para poder utilizar la fórmula rollup.
 
 El uso de la fórmula desplegable sólo tiene sentido si activa la opción **Permitir enlace a varias filas** al crear una columna de enlace. Si la opción estuviera desactivada, el campo de la fórmula roll-up contendría siempre el mismo valor de la columna de enlace.
 

@@ -18,7 +18,7 @@ A fórmula Countlinks conta o número de entradas ligadas do tipo de coluna **Li
 
 {{< warning  headline="A ligação de tabelas é um requisito básico" >}}
 
-Só pode criar uma coluna com a fórmula Countlinks se tiver ligado duas tabelas. Leia [aqui como criar uma tal ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Só pode criar uma coluna com a fórmula Countlinks se tiver ligado duas tabelas. Leia [aqui como criar uma tal ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning >}}
 
@@ -26,7 +26,7 @@ Só pode criar uma coluna com a fórmula Countlinks se tiver ligado duas tabelas
 
 A **fórmula Countlinks** deve ser sempre utilizada quando se pretende exibir o **número de entradas de** outra tabela como uma referência cruzada.
 
-Por exemplo, ao planear um workshop, é possível exibir o número de participantes registados a partir de uma tabela separada. A [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) registaria assim os nomes de todos os participantes.
+Por exemplo, ao planear um workshop, é possível exibir o número de participantes registados a partir de uma tabela separada. A [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) registaria assim os nomes de todos os participantes.
 
 ![A Fórmula Countlinks.](images/countlinks-2.png)
 

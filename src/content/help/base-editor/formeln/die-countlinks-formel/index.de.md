@@ -16,7 +16,7 @@ Die Countlinks-Formel zählt die Anzahl der verknüpften Einträge des Spaltenty
 
 {{< warning  type="warning" headline="Tabellenverknüpfung ist Grundvoraussetzung" >}}
 
-Sie können nur dann eine Spalte mit der Countlinks-Formel anlegen, wenn Sie zwei Tabellen miteinander verknüpft haben. Lesen Sie [hier, wie Sie eine solche Verknüpfung anlegen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Sie können nur dann eine Spalte mit der Countlinks-Formel anlegen, wenn Sie zwei Tabellen miteinander verknüpft haben. Lesen Sie [hier, wie Sie eine solche Verknüpfung anlegen]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning >}}
 
@@ -24,7 +24,7 @@ Sie können nur dann eine Spalte mit der Countlinks-Formel anlegen, wenn Sie zwe
 
 Die **Countlinks-Formel** sollte immer dann zur Anwendung kommen, wenn Sie als Querverweis die **Anzahl von Einträgen** einer anderen Tabelle anzeigen möchten.
 
-Beispielsweise können Sie so bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) würde somit die Namen aller Teilnehmer festhalten.
+Beispielsweise können Sie so bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) würde somit die Namen aller Teilnehmer festhalten.
 
 ![Die Countlinks-Formel.](images/countlinks-2.png)
 

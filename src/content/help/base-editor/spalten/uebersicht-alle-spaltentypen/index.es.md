@@ -153,7 +153,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Enlace a 
 
 En las celdas de este tipo de columna puede introducir cualquier número de **referencias a registros de otras tablas** de la base. La columna de enlace está pensada para asignar relaciones entre registros de diferentes tablas. La columna de enlace puede utilizarse para representar relaciones 1:n y n:1, así como relaciones n:m.
 
-Para más información sobre el tipo de columna Enlace a otros registros, [haga clic aquí]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Para más información sobre el tipo de columna Enlace a otros registros, [haga clic aquí]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 ### Fórmula para enlaces
 

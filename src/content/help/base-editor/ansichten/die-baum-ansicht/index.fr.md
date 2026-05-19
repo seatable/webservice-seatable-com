@@ -18,7 +18,7 @@ La vue **Arbre** permet une **représentation hiérarchique** compacte des enreg
 
 {{< warning type="warning" headline="Conditions" >}}
 
-Pour que la vue arborescente soit utile, vous devez disposer d'une base avec **au moins deux tables** reliées entre elles par une [colonne de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Pour que la vue arborescente soit utile, vous devez disposer d'une base avec **au moins deux tables** reliées entre elles par une [colonne de liens]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning >}}
 

@@ -13,7 +13,7 @@ seo:
     description: 'Descubra cómo usar el complemento Árbol de SeaTable para mostrar registros vinculados en niveles y estructurar sus datos fácilmente.'
 ---
 
-El **complemento Árbol** permite la **visualización jerárquica** compacta de registros de datos enlazados. Esto significa que puede visualizar datos que se encuentran en varias [tablas vinculadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) a diferentes niveles en un diagrama de árbol. De este modo, el plugin ofrece una visión general estructurada, especialmente para grandes cantidades de datos, como datos financieros o datos de proyectos.
+El **complemento Árbol** permite la **visualización jerárquica** compacta de registros de datos enlazados. Esto significa que puede visualizar datos que se encuentran en varias [tablas vinculadas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) a diferentes niveles en un diagrama de árbol. De este modo, el plugin ofrece una visión general estructurada, especialmente para grandes cantidades de datos, como datos financieros o datos de proyectos.
 
 Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 

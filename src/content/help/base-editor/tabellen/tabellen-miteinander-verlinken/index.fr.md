@@ -10,14 +10,14 @@ aliases:
     - '/fr/aide/tabellen-miteinander-verlinken'
 seo:
     title: 'Lier des tableaux dans SeaTable – méthode claire & rapide'
-    description: 'Apprenez à relier des lignes entre plusieurs tableaux SeaTable grâce à la colonne de liaison. Méthode pas à pas pour des bases relationnelles agiles.'
+    description: 'Apprenez à relier des lignes entre plusieurs tableaux SeaTable grâce à la colonne de liaison. Méthode pour des bases relationnelles agiles.'
 
 ---
 
-SeaTable ressemble à première vue à un tableur, mais fonctionne à de nombreux égards comme une base de données. Les tableaux de SeaTable ne sont pas isolés les uns des autres, mais peuvent mettre en relation des lignes à l'aide d'une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+SeaTable ressemble à première vue à un tableur, mais c'est une **base de données relationnelle**. Cela signifie : les tableaux dans SeaTable ne sont pas isolés, mais peuvent être mis en relation les uns avec les autres à l'aide de **colonnes de liaison**. Cela fonctionne aussi bien avec les enregistrements au sein d'un tableau qu'entre plusieurs tableaux.
 
-Plus précisément, les colonnes de liaison établissent un lien entre les entrées. Cela fonctionne aussi bien avec les entrées d'un tableau qu'avec celles de plusieurs tableaux. En fin de compte, SeaTable ne relie pas des tableaux entiers entre eux, mais des lignes entre les tableaux.
+Étant donné que la liaison des enregistrements dans SeaTable se fait avec des colonnes spéciales, vous trouverez toutes les explications supplémentaires sur la [colonne de liaison]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) dans l'article du même nom.
 
-Comme cela se fait dans SeaTable avec des colonnes, vous trouverez toutes les explications supplémentaires sur les liens et les formules de liaison dans la section [Colonnes]({{< relref "help/base-editor/spalten" >}}).
+Pour les particularités des [liaisons au sein d'un tableau]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}), vous trouverez un guide séparé.
 
-Pour commencer, nous vous recommandons l'article suivant : [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Pour une introduction au contexte technique, nous vous recommandons l'[article sur les bases de données relationnelles]({{< relref "posts/relationale-datenbank" >}}).

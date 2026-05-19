@@ -43,13 +43,13 @@ Outro destaque do SeaTable 5.0 são os novos [plugins]({{< relref "help/base-edi
 
 ### Organigrama
 
-O plugin do organigrama pode ser utilizado para apresentar hierarquias entre os registos de dados de uma tabela, por exemplo, cargos numa empresa ou [tarefas superiores e subordinadas num projeto]({{< relref "templates/projects/work-breakdown-structure" >}}). Para visualizar as dependências dos registos de dados, é necessária uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) que se refira a uma mesma tabela. A entrada à qual se liga outra linha na mesma tabela é exibida como um registo de dados superordenado.
+O plugin do organigrama pode ser utilizado para apresentar hierarquias entre os registos de dados de uma tabela, por exemplo, cargos numa empresa ou [tarefas superiores e subordinadas num projeto]({{< relref "templates/projects/work-breakdown-structure" >}}). Para visualizar as dependências dos registos de dados, é necessária uma [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) que se refira a uma mesma tabela. A entrada à qual se liga outra linha na mesma tabela é exibida como um registo de dados superordenado.
 
 ![Plugin de organograma](Organigramm-Plugin.png)
 
 ### Relações de tabela
 
-Especialmente quando existem muitas tabelas com milhares de linhas numa base, é fácil perder a noção de como estão relacionadas umas com as outras. Com o novo plug-in de relações entre tabelas, pode visualizar as tabelas que estão ligadas entre si através de que colunas. São apresentadas não só as ligações directas através das [colunas de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também as ligações indirectas através das colunas de fórmula de ligação.
+Especialmente quando existem muitas tabelas com milhares de linhas numa base, é fácil perder a noção de como estão relacionadas umas com as outras. Com o novo plug-in de relações entre tabelas, pode visualizar as tabelas que estão ligadas entre si através de que colunas. São apresentadas não só as ligações directas através das [colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), mas também as ligações indirectas através das colunas de fórmula de ligação.
 
 ![Plugin de relações de tabela](Table-Relationships-Plugin.png)
 

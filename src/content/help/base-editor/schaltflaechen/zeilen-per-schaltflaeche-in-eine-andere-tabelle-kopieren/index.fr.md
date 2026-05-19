@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Vous pouvez utiliser un **bouton** pour **copier des lignes dans d'autres tableaux**. C'est utile si vous avez besoin de certains enregistrements dans différents tableaux, mais que vous ne souhaitez pas utiliser de [lien]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Les instructions suivantes illustrent le cas d'utilisation à l'aide d'un exemple.
+Vous pouvez utiliser un **bouton** pour **copier des lignes dans d'autres tableaux**. C'est utile si vous avez besoin de certains enregistrements dans différents tableaux, mais que vous ne souhaitez pas utiliser de [lien]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Les instructions suivantes illustrent le cas d'utilisation à l'aide d'un exemple.
 
 ## Exemple d'application
 

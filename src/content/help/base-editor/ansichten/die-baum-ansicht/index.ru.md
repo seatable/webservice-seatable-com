@@ -18,7 +18,7 @@ weight: 16
 
 {{< warning type="warning" headline="Требования" >}}
 
-Чтобы разумно использовать древовидный вид, Вам нужна база с **как минимум двумя таблицами**, которые связаны друг с другом через [колонку ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Чтобы разумно использовать древовидный вид, Вам нужна база с **как минимум двумя таблицами**, которые связаны друг с другом через [колонку ссылок]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
 
 {{< /warning >}}
 

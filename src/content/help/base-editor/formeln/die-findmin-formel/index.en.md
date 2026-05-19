@@ -15,7 +15,7 @@ seo:
 
 The **Findmin formula** searches among the entries of a linked column for the **minimum value** and returns it. This is useful if there are **several entries** in the linked table that refer to the same record (e.g. of a person) in another table.
 
-The Findmin formula works exclusively with **numerical values**, which is why the content of the linked column must also consist of numerical values. In addition, the use of the Findmin formula only makes sense if the **Allow link to multiple rows** slider is enabled when creating the **Link to other entries** column. If the option were off, the Findmin formula would always contain the same number as in the linked column.
+The Findmin formula works exclusively with **numerical values**, which is why the content of the linked column must also consist of numerical values. In addition, the use of the Findmin formula only makes sense if the **Allow link to multiple rows** slider is enabled when creating the **Link to other records** column. If the option were off, the Findmin formula would always contain the same number as in the linked column.
 
 ## What you need the Findmin formula for
 
@@ -33,7 +33,7 @@ You can use the Findmin formula with all numeric values to represent the **minim
 
 ### Add a table link
 
-Find out how to create a column of the type **Link to other entries** [in]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). This is a basic requirement to be able to use the Findmin formula.
+See the [article about the link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) for information on how to create a column of the type **Link to other records**. This is a basic requirement to be able to use the Findmin formula.
 
 ### Add a column with Findmin formula
 
@@ -41,8 +41,8 @@ Find out how to create a column of the type **Link to other entries** [in]({{< r
 
 1. Create a new column of the type **Formula for links**.
 2. Set the **Findmin** option as the formula.
-3. Select the previously created column of the type **Link to other entries** in this table.
+3. Select the previously created column of the type **Link to other records** in this table.
 4. Now, in the **Select lookup column** field **in the linked table "..."**, specify the column from the other table that you want to link to the column here.
 5. Click **Submit**.
 
-{{< warning  headline="Attention"  text="The Findmin formula works exclusively with **numeric values**which is why the linked column must contain numerical values." />}}
+{{< warning  headline="Attention"  text="The Findmin formula works exclusively with **numeric values** which is why the linked column must contain numerical values." />}}

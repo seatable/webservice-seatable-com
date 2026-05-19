@@ -37,7 +37,7 @@ SeaTable bietet insgesamt [über 20 Spaltentypen]({{< relref "help/base-editor/s
 
 Sie wollen Bilder zu einem Eintrag hinzufügen? Ziehen Sie einfach das Bild in eine Bild-Spalte und SeaTable speichert es direkt in der Tabelle. In SeaTable haben Sie alle Ihre Daten an einem Ort!
 
-Ein weiterer Spaltentyp, den Sie aus einer Tabellenkalkulation nicht kennen, ist die [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Mit Verknüpfungen erstellen Sie Relationen zwischen Zeilen unterschiedlicher Tabellen. Dieses Vorgehen, das der Arbeitsweise relationaler Datenbanken entspricht, vermeidet Doppeleingaben, sichert die Datenkonsistenz und schafft Übersicht.
+Ein weiterer Spaltentyp, den Sie aus einer Tabellenkalkulation nicht kennen, ist die [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Mit Verknüpfungen erstellen Sie Relationen zwischen Zeilen unterschiedlicher Tabellen. Dieses Vorgehen, das der Arbeitsweise relationaler Datenbanken entspricht, vermeidet Doppeleingaben, sichert die Datenkonsistenz und schafft Übersicht.
 
 Hier ein Anwendungsbeispiel: Eine Hausverwaltung erfasst in einer Tabelle die verwalteten Objekte und verknüpft diese mit Mietern, die in einer anderen Tabelle geführt werden. Ändert sich an den Objekteigenschaften etwas, so muss der Verwalter die Anpassung nur in der Objekt-Tabelle ändern. Per Verknüpfung wird die geänderte Information bei allen zugeordneten Mietern automatisch aktualisiert.
 

@@ -14,7 +14,7 @@ seo:
 
 ---
 
-É possível utilizar um **botão** para **copiar linhas para outras tabelas**. Isto é útil se precisar de determinados registos de dados em tabelas diferentes, mas não quiser utilizar [uma ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). As instruções seguintes ilustram o caso de utilização através de um exemplo.
+É possível utilizar um **botão** para **copiar linhas para outras tabelas**. Isto é útil se precisar de determinados registos de dados em tabelas diferentes, mas não quiser utilizar [uma ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). As instruções seguintes ilustram o caso de utilização através de um exemplo.
 
 ## Exemplo de aplicação
 

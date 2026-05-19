@@ -1,15 +1,16 @@
 ---
-title: 'Como ligar tabelas em SeaTable'
+title: 'A coluna de ligação'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:
     - 'verknuepfungen'
-author: 'vge'
-url: '/pt/ajuda/como-vincular-tabelas-seatable'
+author: 'kgr'
+url: '/pt/ajuda/coluna-de-ligacao'
 aliases:
     - '/pt/ajuda/wie-man-tabellen-in-seatable-miteinander-verknuepft'
+    - '/pt/ajuda/como-vincular-tabelas-seatable'
 seo:
-    title: 'Como vincular tabelas no SeaTable de forma eficiente'
+    title: 'A coluna de ligação no SeaTable – utilização eficiente'
     description: 'Conecte dados entre diferentes tabelas em SeaTable usando colunas de ligação – veja como criar relações e facilitar a análise.'
 
 ---
@@ -34,7 +35,7 @@ Assim que as tabelas são ligadas, é possível chamar as informações das entr
 
 ![Ligar entradas existentes](images/link-existing-entries.gif)
 
-1. Clique numa **célula da** **coluna de ligação** e, em seguida, clique no **símbolo de mais** que aparece.
+1. Clique numa **célula da coluna de ligação** e, em seguida, clique no **símbolo de mais** que aparece.
 2. Agora, as **linhas** disponíveis **da tabela ligada** são listadas. Seleccione a(s) linha(s) que pretende ligar à linha da sua tabela atual.
 3. Na coluna de ligação, cada linha é imediatamente apresentada **como uma entrada ligada**.
 

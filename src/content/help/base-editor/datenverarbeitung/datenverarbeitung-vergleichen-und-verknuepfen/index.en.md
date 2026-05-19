@@ -50,7 +50,7 @@ For the implementation, you first need two tables: a table in which the invoice 
 
 {{< warning  headline="Important note" >}}
 
-This data processing operation does **not** require you to add **columns** to your tables manually, as a [join column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is automatically created in both tables when it is first executed.
+This data processing operation does **not** require you to add **columns** to your tables manually, as a [join column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) is automatically created in both tables when it is first executed.
 
 {{< /warning >}}
 

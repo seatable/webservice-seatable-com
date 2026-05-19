@@ -131,7 +131,7 @@ The "Modify record" automation action is currently available for the following *
 
 ## Automation action: Add links
 
-If you select "Add links" as an automated action, a [link to other records]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the trigger is triggered. In the **settings** of the action, you can specify exactly under which conditions which link is added to the table.
+If you select "Add links" as an automated action, a [link to other records]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) is created in the corresponding column when the trigger is triggered. In the **settings** of the action, you can specify exactly under which conditions which link is added to the table.
 
 ![Automation action: Adding links](images/add-links-action-settings.jpg)
 

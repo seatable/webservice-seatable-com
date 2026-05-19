@@ -50,7 +50,7 @@ Simple [web forms]({{< relref "help/base-editor/webformulare" >}}) that can be c
 
 ### Page type Table
 
-The **preset filters** in the data settings now allow the selection of all relevant column types including [formula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) and [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). This removes an important functional limitation in the pre-filtering of data. With the implementation of filter groups in one of the upcoming versions, this page type will offer the same powerful filter options as the Base.
+The **preset filters** in the data settings now allow the selection of all relevant column types including [formula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) and [link columns]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). This removes an important functional limitation in the pre-filtering of data. With the implementation of filter groups in one of the upcoming versions, this page type will offer the same powerful filter options as the Base.
 
 ### Individual pages
 

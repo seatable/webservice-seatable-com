@@ -37,7 +37,7 @@ SeaTable ofrece un total de [más de 20 tipos de columnas]({{< relref "help/base
 
 ¿Quieres añadir fotos a una entrada? Basta con arrastrar la imagen a una columna de imágenes para que SeaTable la guarde directamente en la tabla. En SeaTable tienes todos tus datos en un solo lugar.
 
-Otro tipo de columna que no le resultará familiar de una hoja de cálculo es el enlace [a otras entradas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Con los enlaces se crean relaciones entre filas de diferentes tablas. Este procedimiento, que se corresponde con el funcionamiento de las bases de datos relacionales, evita las entradas dobles, garantiza la coherencia de los datos y crea una visión de conjunto.
+Otro tipo de columna que no le resultará familiar de una hoja de cálculo es el enlace [a otras entradas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). Con los enlaces se crean relaciones entre filas de diferentes tablas. Este procedimiento, que se corresponde con el funcionamiento de las bases de datos relacionales, evita las entradas dobles, garantiza la coherencia de los datos y crea una visión de conjunto.
 
 He aquí un ejemplo de aplicación: Una empresa de gestión inmobiliaria registra los objetos gestionados en una tabla y los vincula a los inquilinos gestionados en otra tabla. Si algo cambia en las propiedades del objeto, el gestor sólo tiene que modificar el ajuste en la tabla de objetos. Mediante la vinculación, la información modificada se actualiza automáticamente para todos los inquilinos asignados.
 

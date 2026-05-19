@@ -37,5 +37,5 @@ O SeaTable tem em conta esta restrição e garante que apenas os cursos que aind
 
 ## Artigo de ajuda com mais informações
 
-- [Como ligar as tabelas em SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Como ligar as tabelas em SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
 - [Opções de configuração de um formulário web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
