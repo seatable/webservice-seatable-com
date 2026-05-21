@@ -28,6 +28,16 @@ Das normale Backend von SeaTable kann maximal 100.000 Zeilen pro Tabelle aufnehm
 
 Der Import von Grafiken und Dateien per XLSX-Datei ist **nicht** möglich. Für einen solchen Import müssen Sie die SeaTable API verwenden, mit der Sie ohne Schwierigkeiten Bilder und Dateien importieren können.
 
+## Verknüpfungen zu anderen Einträgen
+
+Es gibt keine Möglichkeit, Daten in den Spaltentyp **Verknüpfung zu anderen Einträgen** zu importieren. Da SeaTable eine [relationale Datenbank]({{< relref "posts/relationale-datenbank" >}}) ist, funktionieren Verknüpfungen zudem anders als Querverweise in Excel.
+
+Alles zum Umgang mit der Verknüpfungsspalte in SeaTable erfahren Sie [hier]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
+
+{{< warning headline="Hinweis" >}}
+Sie können nach dem Import auch die Datenverarbeitungsoperation [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) verwenden, um Verknüpfungen zwischen bestimmten Datensätzen zu erstellen.
+{{< /warning >}}
+
 ## Abweichende Dateiformate
 
 Die Importfunktion von SeaTable wurde sowohl mit Dateien von **LibreOffice** als auch aktuellen Dateien von **Microsoft Excel** getestet. Andere Office-Programme (wie von der Firma Softmaker) werden **nicht** aktiv getestet, was zu abweichenden Importergebnissen führen kann. Verwenden Sie im Zweifelsfall Microsoft Excel oder das kostenlose LibreOffice, um die besten Ergebnisse zu erhalten.

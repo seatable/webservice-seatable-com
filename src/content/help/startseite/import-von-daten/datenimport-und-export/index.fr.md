@@ -33,11 +33,29 @@ Vous pouvez **exporter des tableaux** individuels de chaque base à laquelle vou
 
 ![Exportation de tableaux](images/export-tables.jpg)
 
-Vous lancez l'exportation d'un tableau à partir de la base. Cliquez sur la flèche déroulante à droite du nom du tableau à exporter. Sélectionnez maintenant **Exporter le tableau vers Excel** pour démarrer le téléchargement. Dès que l'exportation est terminée, vous trouverez le fichier XLSX à l'emplacement choisi sur votre appareil.
+Vous lancez l'exportation d'un tableau à partir de la base. Cliquez sur la flèche déroulante à droite du nom du tableau à exporter. Sélectionnez maintenant **Exporter le tableau vers un fichier XLSX**.
+
+![Confirmer l'exportation du tableau](images/confirm-view-export.png)
+
+Décidez si vous souhaitez **inclure les images dans le fichier d'exportation** en activant ou non le curseur. Confirmez avec **Exporter** pour démarrer le téléchargement. Dès que l'exportation est terminée, vous trouverez le fichier XLSX à l'emplacement choisi sur votre appareil.
+
+## Exporter la vue
+
+Vous ne souhaitez pas exporter toutes les données d'un tableau ? Alors limitez la [vue]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) à l'aide de **filtres** et de **colonnes masquées** ! Si vous souhaitez exporter une vue de tableau, cliquez sur les **trois points** dans les options de vue au-dessus du tableau, puis sur **Exporter la vue vers un fichier XLSX**. 
+
+![Exporter la vue](images/export-view.png)
+
+Décidez si vous souhaitez **inclure les images dans le fichier d'exportation** en activant ou non le curseur. 
+
+![Confirmer l'exportation de la vue](images/confirm-view-export.png)
+
+Dès que vous cliquez sur **Exporter**, le téléchargement commence. Ensuite, vous trouverez le fichier XLSX à l'emplacement choisi sur votre appareil.
 
 ## Importer la base
 
-SeaTable prend en charge l'importation de bases depuis son propre [format DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), depuis **des fichiers Excel** ainsi que depuis le **format** générique **CSV**. Lors de l'importation d'un **fichier DTABLE**, la base est restaurée exactement telle qu'elle était au moment de l'exportation. Lors de l'importation de fichiers CSV ou Excel, les valeurs du fichier CSV/XLSX sont copiées dans les colonnes du tableau d'une nouvelle base, SeaTable essayant d'interpréter les types de colonnes en fonction des données.
+SeaTable prend en charge l'importation de bases depuis son propre [format DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), depuis **des fichiers Excel** ainsi que depuis le **format** générique **CSV**. Vous pouvez également importer des bases d'Airtable dans SeaTable.
+
+Lors de l'importation d'un **fichier DTABLE**, la base est restaurée exactement telle qu'elle était au moment de l'exportation. Lors de l'importation de fichiers CSV ou Excel, les valeurs du fichier CSV/XLSX sont copiées dans les colonnes du tableau d'une nouvelle base, SeaTable essayant d'interpréter les types de colonnes en fonction des données.
 
 ![Importation de données dans une base](images/import-data-into-your-base.png)
 
@@ -46,6 +64,7 @@ Ce à quoi vous devez faire attention lors de l'importation d'une base dépend d
 - [Création d'une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Importation de fichiers Excel dans SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Importation de données dans SeaTable à l'aide de CSV]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
+- [Migration de bases Airtable vers SeaTable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}})
 
 ## Importer un tableau
 

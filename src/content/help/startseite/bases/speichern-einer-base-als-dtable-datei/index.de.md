@@ -19,7 +19,12 @@ Sie können eine Base jederzeit als DTABLE-Datei exportieren und so ein umfassen
 
 1. Gehen Sie auf die **Startseite** von SeaTable.
 2. Bewegen Sie den Mauszeiger auf den Namen der **Base**, die Sie exportieren möchten, und klicken Sie auf das **Drei-Punkte-Icon**, das ganz rechts erscheint.
-3. Wählen Sie den Menüpunkt **Export** aus.
+3. Wählen Sie den Menüpunkt **Exportieren** aus.
+
+[Export der Base](images/export-base.png)
+
+4. Entscheiden Sie, ob Sie **Assets** (z. B. Bilder und Dateien) und das letzte **Backup von Big Data** in die Exportdatei inkludieren möchten, indem Sie die Regler aktivieren oder deaktivieren.
+5. Bestätigen Sie mit **Exportieren**.
 
 Je nach Browser-Einstellungen startet der **Download** nun entweder automatisch oder Sie werden gefragt, wo Sie die Exportdatei abspeichern wollen. Wählen Sie ggf. einen geeigneten **Speicherort** und bestätigen Sie die Auswahl.
 

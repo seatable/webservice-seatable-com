@@ -35,10 +35,6 @@ Lorsque SeaTable importe une liste Excel, il tente de déterminer le **type de c
 
 Même si la reconnaissance des colonnes fonctionne généralement de manière fiable, vous pouvez facilement éviter que ce problème ne se produise. Au lieu de faire créer une nouvelle base par importation, créez d'abord vous-même la base avec toutes les colonnes du tableau et importez ensuite uniquement le contenu.
 
-{{< warning headline="Note" >}}
-Il n'est pas possible d'importer des données dans le type de colonne **Lien vers d'autres entrées**. Cependant, après l'importation, vous pouvez utiliser l'opération de traitement des données [Comparer et lier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) pour créer des liens entre certains enregistrements.
-{{< /warning >}}
-
 ## Diviser l'importation
 
 La fonction d'importation de SeaTable peut importer des fichiers Excel contenant **plusieurs feuilles de calcul** et **des dizaines de milliers de lignes**. L'expérience montre toutefois que plus vous essayez d'importer de données d'un coup, plus il est probable que des problèmes surviennent.

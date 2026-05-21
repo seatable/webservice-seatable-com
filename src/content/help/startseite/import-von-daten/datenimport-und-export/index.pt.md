@@ -15,9 +15,9 @@ star: true
 weight: 1
 ---
 
-As funções de importação do SeaTable permitem passar de outras soluções para o SeaTable com pouco esforço. O mesmo se aplica à mudança de um sistema SeaTable para outro, por exemplo, ao migrar de um sistema SeaTable Cloud para um sistema auto-hospedado. Pode continuar a trabalhar sem problemas sobre uma base que tenha importado de outra instância SeaTable.
+As funções de importação do SeaTable permitem passar de outras soluções para SeaTable com pouco esforço. O mesmo se aplica à mudança de um sistema SeaTable para outro, por exemplo, ao migrar de um sistema SeaTable Cloud para um sistema auto-hospedado. Pode continuar a trabalhar sem problemas sobre uma base que tenha importado de outra instância SeaTable.
 
-Como exportar bases e tabelas do SeaTable e importá-las para o SeaTable é o tema deste artigo.
+Como exportar bases e tabelas do SeaTable e importá-las para SeaTable é o tema deste artigo.
 
 ## Exportar bases
 
@@ -33,19 +33,38 @@ Pode **exportar tabelas** individuais a partir de cada base a que tem acesso **p
 
 ![Exportação de tabela](images/export-tables.jpg)
 
-Inicia-se a exportação de uma tabela a partir da Base. Clique na seta para a direita do nome da tabela a ser exportada. Agora seleccione **Exportar tabela para Excel** para iniciar o download. Quando a exportação estiver concluída, encontrará o ficheiro XLSX no local seleccionado no seu dispositivo.
+Inicia-se a exportação de uma tabela a partir da Base. Clique na seta para a direita do nome da tabela a ser exportada. Agora selecione **Exportar tabela para um ficheiro XLSX**.
+
+![Confirmar a exportação da tabela](images/confirm-view-export.png)
+
+Decida se pretende **incluir imagens no ficheiro de exportação** ativando ou não o controlo deslizante. Confirme com **Exportar** para iniciar o download. Quando a exportação estiver concluída, encontrará o ficheiro XLSX no local seleccionado no seu dispositivo.
+
+## Exportar vista
+
+Não pretende exportar todos os dados de uma tabela? Então limite a [vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) com **filtros** e **colunas ocultas**! Se pretender exportar uma vista de tabela, clique nos **três pontos** nas opções de vista acima da tabela e, em seguida, em **Exportar vista para um ficheiro XLSX**. 
+
+![Exportar vista](images/export-view.png)
+
+Decida se pretende **incluir imagens no ficheiro de exportação** ativando ou não o controlo deslizante. 
+
+![Confirmar a exportação da vista](images/confirm-view-export.png)
+
+Assim que clicar em **Exportar**, o download é iniciado. Depois, encontrará o ficheiro XLSX no local seleccionado no seu dispositivo.
 
 ## Importar bases
 
-SeaTable suporta a importação de bases a partir do seu próprio [formato DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), de **ficheiros Excel** e do **formato** genérico **CSV**. Quando se importa um **ficheiro DTABLE**, a base é restaurada exactamente como se apresentava no momento da exportação. Ao importar um ficheiro CSV ou Excel, os valores do ficheiro CSV/XLSX são copiados para colunas de tabela de uma nova base, e o SeaTable tenta interpretar os tipos de colunas com base nos dados.
+SeaTable suporta a importação de bases a partir do seu próprio [formato DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), de **ficheiros Excel** e do **formato** genérico **CSV**. Também pode importar bases do Airtable para SeaTable.
+
+Quando se importa um **ficheiro DTABLE**, a base é restaurada exactamente como se apresentava no momento da exportação. Ao importar um ficheiro CSV ou Excel, os valores do ficheiro CSV/XLSX são copiados para colunas de tabela de uma nova base, e SeaTable tenta interpretar os tipos de colunas com base nos dados.
 
 ![Importação de dados para uma base](images/import-data-into-your-base.png)
 
-O que tem de considerar ao importar uma base depende do tipo de ficheiro de importação. Contudo, o procedimento é o mesmo para todos os tipos de ficheiro: Vá à página **inicial** e clique em **Adicionar uma base ou pasta** na área ou grupo onde pretende ter a nova base. Pode encontrar informações mais detalhadas nos artigos seguintes:
+O que tem de considerar ao importar uma base depende do tipo de ficheiro de importação. Contudo, o procedimento é o mesmo para todos os tipos de ficheiro: Vá à **página inicial** e clique em **Adicionar uma base ou pasta** na área ou grupo onde pretende ter a nova base. Pode encontrar informações mais detalhadas nos artigos seguintes:
 
 - [Criação de uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Importar ficheiros Excel para o SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
+- [Importar ficheiros Excel para SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Importação de dados usando CSV em SeaTable]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
+- [Migração de bases do Airtable para SeaTable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}})
 
 ## Importar tabelas
 
@@ -63,7 +82,7 @@ Se já tiver criado uma tabela no **SeaTable** e precisar dela **noutra base**, 
 
 {{< warning  headline="Limite de memória para linhas" >}}
 
-O backend normal do SeaTable pode conter um máximo de 100.000 linhas por tabela. Se pretender importar um ficheiro Excel ou CSV que contenha mais de 100 000 linhas, tem de [ativar]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) para o poder importar.
+O backend normal do SeaTable pode conter um máximo de 100.000 linhas por tabela. Se pretender importar um ficheiro Excel ou CSV que contenha mais de 100 000 linhas, tem de [ativar o backend de big data]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) para o poder importar.
 
 {{< /warning >}}
 

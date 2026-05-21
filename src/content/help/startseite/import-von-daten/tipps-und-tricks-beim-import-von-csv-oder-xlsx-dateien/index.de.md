@@ -33,10 +33,6 @@ Wenn SeaTable eine Excel-Liste importiert, versucht es anhand der **importierten
 
 Auch wenn die Spaltenerkennung typischerweise zuverlässig funktioniert, können Sie ein mögliches Auftreten dieses Problems leicht vermeiden. Anstatt eine neue Base per Import anlegen zu lassen, legen Sie zuerst selbst die Base mit allen Tabellenspalten an und importieren dann nur noch die Inhalte.
 
-{{< warning headline="Hinweis" >}}
-Es gibt keine Möglichkeit, Daten in den Spaltentyp **Verknüpfung zu anderen Einträgen** zu importieren. Sie können aber nach dem Import die Datenverarbeitungsoperation [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) verwenden, um Verknüpfungen zwischen bestimmten Datensätzen zu erstellen.
-{{< /warning >}}
-
 ## Teilen Sie den Import auf
 
 Die Importfunktion von SeaTable kann Excel-Dateien mit **mehreren Tabellenblättern** und **Zehntausenden Zeilen** importieren. Die Erfahrung zeigt jedoch: Je mehr Daten Sie versuchen auf einen Schlag zu importieren, umso wahrscheinlicher treten Probleme auf.

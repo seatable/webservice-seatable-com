@@ -30,6 +30,16 @@ Le backend normal de SeaTable peut contenir au maximum 100.000 lignes par tablea
 
 L'importation de graphiques et de fichiers par fichier XLSX n'est **pas** possible. Pour une telle importation, il faut utiliser l'API SeaTable, qui permet d'importer sans difficulté des images et des fichiers.
 
+## Liens vers d'autres enregistrements
+
+Il n'est pas possible d'importer des données dans le type de colonne **Lien vers d'autres enregistrements**. Comme SeaTable est une [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}), les liens fonctionnent en outre différemment des références croisées dans Excel.
+
+Vous trouverez tout sur l'utilisation de la colonne de lien dans SeaTable [ici]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
+
+{{< warning headline="Remarque" >}}
+Après l'importation, vous pouvez également utiliser l'opération de traitement des données [Comparer et lier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) pour créer des liens entre des enregistrements spécifiques.
+{{< /warning >}}
+
 ## Formats de fichiers différents
 
 La fonction d'importation de SeaTable a été testée avec des fichiers de **LibreOffice** et des fichiers actuels de **Microsoft Excel**. Les autres programmes Office (comme ceux de la société Softmaker) ne sont **pas** testés activement, ce qui peut entraîner des résultats d'importation différents. En cas de doute, utilisez Microsoft Excel ou le logiciel gratuit LibreOffice pour obtenir les meilleurs résultats.

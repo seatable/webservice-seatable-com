@@ -23,6 +23,11 @@ Puedes exportar una base como archivo DTABLE en cualquier momento y guardar así
 2. Mueva el puntero del ratón hasta el nombre de la **base** que desea exportar y haga clic en el **icono de tres puntos** que aparece en el extremo derecho.
 3. Seleccione la opción **Exportar**.
 
+[Exportación de la base](images/export-base.png)
+
+4. Decida si desea incluir los **Assets** (p. ej. imágenes y archivos) y la última **copia de seguridad de Big Data** en el archivo de exportación, activando o desactivando los interruptores.
+5. Confirme con **Exportar**.
+
 Dependiendo de la configuración de su navegador, la **descarga** se iniciará automáticamente o se le preguntará dónde desea guardar el archivo de exportación. Si es necesario, seleccione un **lugar de almacenamiento** adecuado y confirme la selección.
 
 En cuanto su archivo con la extensión **.dtable** aparezca en la ubicación de almacenamiento especificada, la exportación de la base se habrá completado.

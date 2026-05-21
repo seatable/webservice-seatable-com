@@ -35,10 +35,6 @@ Quando o SeaTable importa uma lista Excel, tenta determinar que **tipo de coluna
 
 Mesmo que o reconhecimento da coluna funcione normalmente de forma fiável, pode facilmente evitar uma possível ocorrência deste problema. Em vez de ter uma nova base criada por importação, primeiro crie você mesmo a base com todas as colunas da tabela e depois importe apenas o conteúdo.
 
-{{< warning headline="Sugestão" >}}
-Não existe a opção de importar dados para o tipo de coluna **Ligação a outras entradas**. No entanto, pode utilizar a operação de processamento de dados [Comparar e ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) após a importação para criar ligações entre registos de dados específicos.
-{{< /warning >}}
-
 ## Dividir a importação
 
 A função de importação do SeaTable pode importar ficheiros Excel com **múltiplas folhas de cálculo** e **dezenas de milhares de filas**. No entanto, a experiência mostra que quanto mais dados tentar importar de uma só vez, maior é a probabilidade de encontrar problemas.
