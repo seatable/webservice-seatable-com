@@ -10,7 +10,7 @@ category: 'projects'
 functions:
 seo:
     title: 'Maßnahmenplan Vorlage & Beispiel: Kostenlos & Digital planen'
-    description: 'Nutzen Sie unsere Maßnahmenplan Vorlage für Business & Pflege. Inkl. Beispielen, Deadlines & Team-Features. Jetzt starten!'
+    description: 'Nutzen Sie unsere Maßnahmenplan Vorlage für Business. Inkl. Beispielen, Deadlines & Team-Features. Jetzt starten!'
 type: pages
 
 sections:
