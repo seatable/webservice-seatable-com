@@ -23,7 +23,7 @@ You can export a base as a DTABLE file at any time and thus save a comprehensive
 2. Move the mouse cursor to the name of the **base** you want to export and click the **three-dot icon** that appears on the far right.
 3. Select the **Export** menu item.
 
-[Export of the base](images/export-base.png)
+![Export of the base](images/export-base.png)
 
 4. Decide whether you want to include **Assets** (e.g. images and files) and the latest **Big Data backup** in the export file by activating or deactivating the toggles.
 5. Confirm with **Export**.

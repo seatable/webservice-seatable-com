@@ -23,7 +23,7 @@ Pode exportar uma base como um ficheiro DTABLE em qualquer altura e, assim, guar
 2. Mova o ponteiro do rato para o nome da **base** que pretende exportar e clique no **ícone de três pontos** que aparece na extrema direita.
 3. Seleccionar o item do menu **Exportar**.
 
-[Exportação da base](images/export-base.png)
+![Exportação da base](images/export-base.png)
 
 4. Decida se pretende incluir os **Assets** (por exemplo, imagens e ficheiros) e o último **backup de Big Data** no ficheiro de exportação, activando ou desactivando os controlos deslizantes.
 5. Confirme com **Exportar**.
