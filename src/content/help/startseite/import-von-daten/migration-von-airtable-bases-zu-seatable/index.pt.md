@@ -10,18 +10,35 @@ aliases:
     - '/pt/ajuda/migration-von-airtable-bases-zu-seatable'
 seo:
     title: 'Migrar bases Airtable para SeaTable: guia prático'
-    description: 'Saiba como migrar suas bases do Airtable para o SeaTable com facilidade usando o script de migração e nossas dicas.'
+    description: 'Saiba como migrar suas bases do Airtable para SeaTable com facilidade usando o script de migração e nossas dicas.'
 ---
 
-Quer mudar as suas Airtable Bases para SeaTable e tem medo do esforço? Não se preocupe! Mesmo as bases com estruturas de dados complicadas e muitos milhares de registos de dados podem ser rapidamente transferidas para o SeaTable.
+Quer mudar as suas Airtable Bases para SeaTable e tem medo do esforço? Não se preocupe! Mesmo as bases com estruturas de dados complicadas e muitos milhares de registos de dados podem ser rapidamente transferidas para SeaTable. Para isso, tem **duas opções** à escolha: uma variante simples totalmente sem código e um script mais flexível para o qual é vantajoso ter conhecimentos básicos de Python.
 
-Desenvolvemos um script de migração para a transferência de dados do Airtable para o SeaTable. Este script transfere todos os dados de uma base Airtable - tabelas, colunas, registos de dados - para uma base SeaTable de uma só vez. Após a migração, pode continuar no SeaTable com os dados que utilizou pela última vez no Airtable. Após a execução do script, são necessários apenas alguns ajustes.
+## Importar bases Airtable para SeaTable
 
-O guião pode ser utilizado por qualquer pessoa - técnicos e não técnicos. Apenas são necessárias algumas **entradas manuais** para que o script esteja pronto a ser utilizado. Neste artigo, explicamos como o fazer.
+Para a primeira opção de importar bases Airtable para SeaTable, não precisa de quaisquer conhecimentos de programação.
 
-{{< warning  headline="Nota importante"  text="O guião de migração é funcional, mas ainda é beta. Estamos constantemente a adaptá-lo e a optimizá-lo. Se tiver algum problema, deixe uma mensagem no [fórum SeaTable](https://forum.seatable.com/)." />}}
+1. Abra a **página inicial** do SeaTable.
+2. Clique em **Adicionar uma base ou pasta** na secção ou no grupo onde pretende ter a nova base.
+![Importar do Airtable](images/import-from-airtable.png)
+3. Selecione **Importar do Airtable**.
+4. Introduza o [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) bem como o [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids). Utilize as ligações para a documentação do Airtable para saber onde pode obter o PAT e o Base ID. O PAT deve dispor das permissões **data.records:read** e **schema.bases:read**.
+![Janela de importação do Airtable](images/airtable-import-window.png)
+5. Defina o **nome da base** que a nova base receberá no SeaTable.
+6. Confirme com **Importar**.
 
-## Como migrar uma base do Airtable para o SeaTable
+Ao contrário do script descrito no capítulo seguinte, na via de importação padrão **não tem qualquer possibilidade de personalização**. Todas as tabelas e linhas (incluindo os anexos) são importadas do Airtable. Por isso, dependendo do tamanho da base Airtable, o processo de importação pode demorar algum tempo.
+
+Todas as colunas do Airtable, com exceção das colunas dos tipos Button, Count, Lookup e Rollup, também são importadas. Mais abaixo, encontrará uma visão geral de como os tipos de coluna do Airtable são transferidos para SeaTable. A tabela "Columns to be migrated manually" na nova base lista as colunas que não foram importadas do Airtable.
+
+## Como migrar uma base do Airtable para SeaTable através de um script
+
+Para uma transferência mais flexível dos dados do Airtable, desenvolvemos um script de migração. Este transfere dados selecionados de uma base Airtable – tabelas, colunas, registos de dados – para uma base SeaTable. Após a migração, pode continuar no SeaTable com os dados que utilizou pela última vez no Airtable.
+
+Apenas são necessárias algumas **entradas manuais** para que o script esteja pronto a ser utilizado. Após a execução do script, ainda serão necessários alguns ajustes posteriores. Neste artigo, explicamos como o fazer.
+
+{{< warning  type="warning" headline="Nota importante"  text="O guião de migração é funcional, mas ainda é beta. Estamos constantemente a adaptá-lo e a optimizá-lo. Se tiver algum problema, deixe uma mensagem no [fórum SeaTable](https://forum.seatable.com/)." />}}
 
 ### 1\. criar uma base
 
@@ -134,13 +151,13 @@ else:
 ##
 ```
 
-Não se preocupe se não compreender o código que acabou de copiar. Nós explicamo-lo. Os comentários no código devem ajudar um pouco na interpretação. Os comentários são todas as linhas com um sinal de hash ('#') à esquerda. Estas linhas são ignoradas quando o script é executado, ou seja, pode alterar, apagar ou adicionar comentários sem afetar a funcionalidade do script.
+Não se preocupe se ainda não compreender totalmente o código que acabou de copiar. Nós explicamo-lo. Os **comentários no código** devem ajudar um pouco na interpretação. Os comentários são todas as linhas com um sinal de hash ('#') à esquerda. Estas linhas são ignoradas quando o script é executado, ou seja, pode alterar, apagar ou adicionar comentários sem afetar a funcionalidade do script.
 
-Ao contrário dos comentários, as indentações no código são muito importantes quando se executa o script. Por favor, não as altere.
+Ao contrário dos comentários, as **indentações no código** são muito importantes quando se executa o script. Por favor, não as altere.
 
 ### 3\. especificar o URL do servidor SeaTable e o token da API da base
 
-Adicione o URL do servidor SeaTable no comentário **SeaTable - Destination** e introduza o [token da API]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). O token da API deve conceder permissões de leitura e gravação. Se estiver a utilizar o SeaTable Cloud, então o URL pré-preenchido "https://cloud.seatable.io" está correto. Se estiver a utilizar um servidor SeaTable diferente, introduza o respetivo URL. (O URL deve ser sempre introduzido com https:// ou http://.) O URL e o token devem ser colocados entre aspas simples.
+Adicione o URL do servidor SeaTable no comentário **SeaTable – Destination** e introduza o [token da API]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). O token da API deve conceder permissões de leitura e gravação. Se estiver a utilizar SeaTable Cloud, então o URL pré-preenchido "https://cloud.seatable.io" está correto. Se estiver a utilizar um servidor SeaTable diferente, introduza o respetivo URL. O URL deve ser sempre introduzido com https:// ou http://. O URL e o token devem ser colocados entre aspas simples.
 
 Este é um exemplo de configuração para importar dados para uma base no SeaTable Cloud:  
 ![](images/SeaTable_Server_URL_and_API_Token.png)
@@ -156,7 +173,7 @@ Utilize as ligações no script para a documentação do Airtable para saber ond
 
 ### 5\. Introduzir os nomes das tabelas e colunas
 
-Agora, indique ao script quais as tabelas que pretende importar da Airtable Base. Faça isso na linha "table_names". Adicione os nomes das tabelas entre parêntesis rectos - cada um entre uma única vírgula invertida e separado por uma vírgula.
+Agora, indique ao script quais as tabelas que pretende importar da Airtable Base. Faça isso na linha "table_names". Adicione os nomes das tabelas entre parêntesis rectos – cada um entre uma única vírgula invertida e separado por uma vírgula.
 
 Para uma base com as duas tabelas "table1" e "table2", a linha deve então ter o seguinte aspeto, por exemplo:  
 ![](images/Airtable-tables_names_500.png)
@@ -170,7 +187,7 @@ No caso da Base Airtable com as duas tabelas "table1" e "table2", o resultado po
 
 ### 6\. definir colunas de ligação
 
-Para que o SeaTable importe os dados corretamente, é necessário mais um passo: a especificação das [colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) na Airtable Base.
+Para que SeaTable importe os dados corretamente, é necessário mais um passo: a especificação das [colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) na Airtable Base.
 
 A variável "links" destina-se a este fim. Por exemplo, se a coluna "link to table2" da tabela "table1" representar uma ligação à tabela "table 2", o guião deve ser parametrizado da seguinte forma
 
@@ -178,12 +195,12 @@ A variável "links" destina-se a este fim. Por exemplo, se a coluna "link to tab
 
 Só é necessário especificar uma vez cada par de colunas de ligação. Não é necessário especificar a ligação em ambas as direcções.
 
-Se a base da Airtable não receber quaisquer colunas de ligação, pode deixar o parêntesis quadrado vazio:  
+Se a base da Airtable não contiver quaisquer colunas de ligação, pode deixar o parêntesis quadrado vazio:  
 ![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. excluir colunas ou tipos de colunas (opcional)
 
-Se não quiser copiar todas as colunas ou tipos de colunas do Airtable para o SeaTable, pode excluí-las. A exclusão de uma coluna ou tipo de coluna garante que a coluna é criada no SeaTable Base, mas os dados que contém não são transferidos. Ao excluir colunas com grandes quantidades de dados - e estamos a pensar em particular nas colunas de ficheiros - pode reduzir significativamente o tempo de execução do script. A exclusão de colunas com um grande volume de dados é particularmente útil para um teste de migração.
+Se não quiser copiar todas as colunas ou tipos de colunas do Airtable para SeaTable, pode excluí-las. A exclusão de uma coluna ou tipo de coluna garante que a coluna é criada no SeaTable Base, mas os dados que contém não são transferidos. Ao excluir colunas com grandes quantidades de dados – e estamos a pensar em particular nas colunas de ficheiros – pode reduzir significativamente o tempo de execução do script. A exclusão de colunas com um grande volume de dados é particularmente útil para um teste de migração.
 
 Os tipos de colunas podem ser excluídos através da variável "excluded_column_types". Para especificar os tipos de colunas a excluir, utilize as constantes Python fornecidas para o efeito. As colunas individuais podem ser excluídas através da variável "excluded_columns". A especificação é análoga à variável "first_columns" no formato ('nome da tabela', 'nome da coluna'). Se se pretender excluir várias colunas, os valores devem ser separados por vírgulas.
 
@@ -206,16 +223,16 @@ Agora verifique se
 - a primeira coluna correcta foi criada em todas as tabelas e
 - as colunas de ligação estão correctas.
 
-Como os tipos de coluna do Airtable e do SeaTable não são completamente congruentes, alguns tipos de coluna na Base do SeaTable serão diferentes dos da Base do Airtable. A tabela a seguir mostra como os tipos de coluna no Airtable são transferidos para o SeaTable.
+Como os tipos de coluna do Airtable e do SeaTable não são completamente congruentes, alguns tipos de coluna na Base do SeaTable serão diferentes dos da Base do Airtable. A tabela a seguir mostra como os tipos de coluna no Airtable são transferidos para SeaTable.
 
 | **Tipo de coluna de Airtable**   | **Importar para tipo de coluna do SeaTable** |
 | -------------------------------- | -------------------------------------------- |
 | Anexo                            | Ficheiro                                     |
 | Número automático                | Texto                                        |
 | Código de barras                 | Texto                                        |
-| Botão                            | \-                                           |
+| Botão                            | –                                            |
 | Caixa de verificação             | Caixa de verificação                         |
-| Contagem                         | \-                                           |
+| Contagem                         | –                                            |
 | Criado por                       | Texto                                        |
 | Tempo de criação                 | Data                                         |
 | Moeda                            | Número                                       |
@@ -227,13 +244,13 @@ Como os tipos de coluna do Airtable e do SeaTable não são completamente congru
 | Última modificação               | Data                                         |
 | Ligação a outro registo          | Ligação a outras entradas                    |
 | Texto descritivo                 | Texto formatado                              |
-| Consulta                         | \-                                           |
+| Consulta                         | –                                            |
 | Seleção múltipla                 | Selecção múltipla                            |
 | Número                           | Número                                       |
 | Percentagem                      | Número                                       |
 | Número de telefone               | Texto                                        |
 | Classificação                    | Classificação                                |
-| Rollup                           | \-                                           |
+| Rollup                           | –                                            |
 | Texto de uma linha               | Texto                                        |
 | Seleção única                    | Selecção única                               |
 | Utilizador                       | Texto                                        |
@@ -259,7 +276,7 @@ Execute o script novamente, clicando em **Executar Script**. Mais uma vez, pode 
 
 ![](images/Migration_final-1088x348.png)
 
-Agora deve ver todos os registos da Airtable Base na nova SeaTable Base. Parabéns, a migração dos conjuntos de dados está concluída!
+Agora deve ver todos os registos da Airtable Base na nova SeaTable Base. **Parabéns, a migração dos conjuntos de dados está concluída!**
 
 Se não estiver satisfeito com o resultado final, [apague todas as tabelas]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) e recomece no passo 5.
 

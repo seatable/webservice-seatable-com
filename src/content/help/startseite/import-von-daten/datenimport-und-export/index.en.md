@@ -33,19 +33,38 @@ You can **export** individual **tables to Excel files** from any base to which y
 
 ![Export tables](images/export-tables.jpg)
 
-You start the export of a table from base. Click on the drop-down arrow to the right of the name of the table you want to export. Now select **Export table to Excel** to start the download. Once the export is complete, you will find the XLSX file in the selected location on your device.
+You start the export of a table from base. Click on the drop-down arrow to the right of the name of the table you want to export. Now select **Export table to XLSX**.
+
+![Confirm table export](images/confirm-view-export.png)
+
+Decide whether you want to **include images in the export file** by toggling the switch. Confirm with **Export** to start the download. Once the export is complete, you will find the XLSX file in the selected location on your device.
+
+## Export view
+
+You don't want to export all data in a table? Then narrow down the [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) using **filters** and **hidden columns**! If you want to export a table view, click the **three dots** in the view options above the table and then **Export view to XLSX**. 
+
+![Export view](images/export-view.png)
+
+Decide whether you want to **include images in the export file** by toggling the switch. 
+
+![Confirm view export](images/confirm-view-export.png)
+
+As soon as you click **Export**, the download starts. Afterwards you will find the XLSX file in the selected location on your device.
 
 ## Import base
 
-SeaTable supports importing bases from its own [DTABLE format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), from **Excel files**, and from the generic **CSV format**. When importing a **DTABLE file**, the base is restored exactly as it looked at the time of export. When importing CSV or Excel, the values from the CSV/XLSX file are copied into table columns of a new base, and SeaTable tries to interpret the column types based on the data.
+SeaTable supports importing bases from its own [DTABLE format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), from **Excel files**, and from the generic **CSV format**. You can also import bases from Airtable into SeaTable.
+
+When importing a **DTABLE file**, the base is restored exactly as it looked at the time of export. When importing CSV or Excel, the values from the CSV/XLSX file are copied into table columns of a new base, and SeaTable tries to interpret the column types based on the data.
 
 ![Importing data into a base](images/import-data-into-your-base.png)
 
-What you need to do when importing a base depends on the type of import file. However, the procedure is the same for all file types: go to the **Home** page and click **Add a base or Folder** in the area or group where you want the new base. You can get more detailed information in the following articles:
+What you need to do when importing a base depends on the type of import file. However, the procedure is the same for all file types: go to the **Home page** and click **Add a base or Folder** in the area or group where you want the new base. You can get more detailed information in the following articles:
 
 - [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Import Excel files into SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Data import using CSV in SeaTable]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
+- [Migration of Airtable bases to SeaTable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}})
 
 ## Import table
 
@@ -63,7 +82,7 @@ If you have already created a table in **SeaTable** and need it in **another bas
 
 {{< warning  headline="Memory limit for rows" >}}
 
-SeaTable's normal backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [enable the Big Data backend to]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) import it.
+SeaTable's normal backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [enable the Big Data backend]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) to import it.
 
 {{< /warning >}}
 

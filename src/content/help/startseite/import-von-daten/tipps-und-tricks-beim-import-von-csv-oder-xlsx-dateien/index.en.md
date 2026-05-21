@@ -35,10 +35,6 @@ When SeaTable imports an Excel list, it tries to determine which **column type**
 
 Even if the column recognition typically works reliably, you can easily avoid a possible occurrence of this problem. Instead of having a new base created via import, first create the base yourself with all table columns and then import only the contents.
 
-{{< warning headline="Notice" >}}
-There is no option to import data into the **Link to other records** column type. However, you can use the data processing operation [Compare and link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) after the import to create links between specific data records.
-{{< /warning >}}
-
 ## Split the import
 
 SeaTable's import function can import Excel files with **multiple spreadsheets** and **tens of thousands rows.** However, experience shows that the more data you try to import in one go, the more likely you are to encounter problems.

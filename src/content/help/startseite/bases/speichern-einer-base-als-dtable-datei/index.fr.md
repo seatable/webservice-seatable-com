@@ -21,7 +21,12 @@ Vous pouvez à tout moment exporter une base en tant que fichier DTABLE et enreg
 
 1. Allez sur la **page d'accueil** de SeaTable.
 2. Placez le curseur de la souris sur le nom de la **base** que vous souhaitez exporter et cliquez sur l'**icône à trois points** qui apparaît à l'extrême droite.
-3. Sélectionnez l'option de menu **Export**.
+3. Sélectionnez l'option de menu **Exporter**.
+
+[Export de la base](images/export-base.png)
+
+4. Décidez si vous souhaitez inclure les **Assets** (p. ex. les images et les fichiers) et la dernière **sauvegarde de Big Data** dans le fichier d'exportation en activant ou en désactivant les curseurs.
+5. Confirmez avec **Exporter**.
 
 Selon les paramètres du navigateur, soit le **téléchargement** démarre automatiquement, soit il vous est demandé où vous souhaitez enregistrer le fichier d'exportation. Choisissez le cas échéant un **emplacement** approprié et confirmez votre choix.
 

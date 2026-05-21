@@ -13,15 +13,32 @@ seo:
     description: 'Learn how to transfer your Airtable bases to SeaTable in a few steps using a migration script and helpful tips.'
 ---
 
-You want to move your Airtable bases to SeaTable and are afraid of the effort? Don't worry! Even bases with complicated data structures and many thousands of data records can be quickly transferred to SeaTable.
+You want to move your Airtable bases to SeaTable and are afraid of the effort? Don't worry! Even bases with complicated data structures and many thousands of data records can be quickly transferred to SeaTable. You have **two options** to choose from: a simple variant entirely without code and a more flexible script, for which basic Python knowledge is helpful.
 
-We have developed a migration script for the transfer of Airtable data to SeaTable. This transfers all data in an Airtable base - tables, columns, data records - to a SeaTable base in one go. After the migration, you can continue in SeaTable with the data that you last used in Airtable. After executing the script, only a few adjustments are necessary.
+## Import Airtable bases into SeaTable
 
-The script can be used by anyone - technicians and non-technicians alike. Only a few **manual entries** are required to make the script ready for use. In this article, we explain how to do this.
+For the first option to import Airtable bases into SeaTable, you do not need any programming knowledge.
 
-{{< warning  headline="Important note"  text="The migration script is functional, but still beta. We are constantly adapting and optimizing it. If you have any problems, please leave a post in the [SeaTable forum](https://forum.seatable.com/)." />}}
+1. Open the **home page** of SeaTable.
+2. Click on **Add a base or folder** in the area or group where you want the new base.
+![Import from Airtable](images/import-from-airtable.png)
+3. Select **Import from Airtable**.
+4. Enter the [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) as well as the [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids). Use the links to the Airtable documentation to find out where to obtain the PAT and Base ID. The PAT must have the **data.records:read** and **schema.bases:read** permissions.
+![Airtable import dialog](images/airtable-import-window.png)
+5. Specify the **base name** that the new base in SeaTable should have.
+6. Confirm with **Import**.
 
-## How to migrate a base from Airtable to SeaTable
+Unlike the script described in the following section, the standard import path does **not offer any customization options**. All tables and rows (including assets) are imported from Airtable. Depending on the size of the Airtable base, the import process can therefore take some time.
+
+All Airtable columns are imported as well, with the exception of columns of type Button, Count, Lookup and Rollup. Below you will find an overview of how Airtable column types are transferred to SeaTable. The table "Columns to be migrated manually" in the new base lists the columns that were not imported from Airtable.
+
+## How to migrate a base from Airtable to SeaTable via script
+
+For a more flexible transfer of the Airtable data, we have developed a migration script. This transfers selected data in an Airtable base – tables, columns, data records – to a SeaTable base. After the migration, you can continue in SeaTable with the data that you last used in Airtable.
+
+Only a few **manual entries** are required to make the script ready for use. After executing the script, a few adjustments are still necessary. In this article, we explain how to do this.
+
+{{< warning  type="warning" headline="Important note"  text="The migration script is functional, but still beta. We are constantly adapting and optimizing it. If you have any problems, please leave a post in the [SeaTable forum](https://forum.seatable.com/)." />}}
 
 ### 1\. create base
 
@@ -134,13 +151,13 @@ else:
 ##
 ```
 
-Don't worry if you don't understand the code you have just copied. We will explain it. The comments in the code should help a little with interpretation. Comments are all rows with a leading hash sign ('#'). These rows are not taken into account when the script is executed, i.e. you can change, delete or add comments without affecting the functionality of the script.
+Don't worry if you don't fully understand the code you have just copied. We will explain it. The **comments in the code** should help a little with interpretation. Comments are all rows with a leading hash sign ('#'). These rows are not taken into account when the script is executed, i.e. you can change, delete or add comments without affecting the functionality of the script.
 
-Unlike the comments, the indentations in the code are very important when running the script. Please do not change them.
+Unlike the comments, the **indentations in the code** are very important when running the script. Please do not change them.
 
 ### 3\. specify SeaTable Server URL and API token of the base
 
-Add the SeaTable server URL under the **SeaTable - Destination** comment and enter the [API token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). The API token must grant read and write permissions. If you are using SeaTable Cloud, then the prefilled URL "https://cloud.seatable.io" is correct. If you are using a different SeaTable server, enter its URL. (The URL must always be entered with https:// or http://.) The URL and token must be enclosed in single quotation marks.
+Add the SeaTable server URL under the **SeaTable – Destination** comment and enter the [API token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). The API token must grant read and write permissions. If you are using SeaTable Cloud, then the prefilled URL "https://cloud.seatable.io" is correct. If you are using a different SeaTable server, enter its URL. The URL must always be entered with https:// or http://. The URL and token must be enclosed in single quotation marks.
 
 This is an example configuration for importing data into a base in SeaTable Cloud:  
 ![](images/SeaTable_Server_URL_and_API_Token.png)
@@ -156,7 +173,7 @@ Use the links in the script to the Airtable documentation to find out where you 
 
 ### 5\. enter table and column names
 
-Now tell the script which tables you want to import from the Airtable base. Do this in the row "table_names". Add the names of the tables in the square brackets - each enclosed by a single quotation mark and separated by a comma.
+Now tell the script which tables you want to import from the Airtable base. Do this in the row "table_names". Add the names of the tables in the square brackets – each enclosed by a single quotation mark and separated by a comma.
 
 For a base with the two tables "table1" and "table2", the row must then look like this, for example:  
 ![](images/Airtable-tables_names_500.png)
@@ -178,12 +195,12 @@ The variable "links" is intended for this purpose. For example, if the "link to 
 
 You need to specify each link column pair only once. You do not need to specify the link in both directions.
 
-If the airtable base does not receive any link columns, then you can leave the square bracket empty:  
+If the Airtable base does not contain any link columns, then you can leave the square bracket empty:  
 ![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. exclude columns or column types (optional)
 
-If you do not want to copy all columns or column types from Airtable to SeaTable, you can exclude them. Excluding a column or column type ensures that the column is created in the SeaTable base, but the data it contains is not transferred. By excluding columns with very large amounts of data - and we are thinking in particular of file columns - you can significantly reduce the runtime of the script. Excluding columns with a high volume of data is particularly useful for a migration test.
+If you do not want to copy all columns or column types from Airtable to SeaTable, you can exclude them. Excluding a column or column type ensures that the column is created in the SeaTable base, but the data it contains is not transferred. By excluding columns with very large amounts of data – and we are thinking in particular of file columns – you can significantly reduce the runtime of the script. Excluding columns with a high volume of data is particularly useful for a migration test.
 
 Column types can be excluded via the variable "excluded_column_types". To specify the column types to be excluded, use the Python constants provided for this purpose. Individual columns can be excluded via the variable "excluded_columns". The specification is analogous to the variable "first_columns" in the format ('table name', 'column name'). If you want to exclude several columns, the values must be separated by commas.
 
@@ -213,9 +230,9 @@ Since the column types of Airtable and SeaTable are not completely congruent, so
 | Attachment               | File                               |
 | Autonumber               | Text                               |
 | Barcode                  | Text                               |
-| Button                   | \-                                 |
+| Button                   | –                                  |
 | Checkbox                 | Checkbox                           |
-| Count                    | \-                                 |
+| Count                    | –                                  |
 | Created by               | Text                               |
 | Created time             | Date                               |
 | Currency                 | Number                             |
@@ -227,13 +244,13 @@ Since the column types of Airtable and SeaTable are not completely congruent, so
 | Last modified time       | Date                               |
 | Link to another record   | Link to other entries              |
 | Long text                | Formatted text                     |
-| Lookup                   | \-                                 |
+| Lookup                   | –                                  |
 | Multiple select          | Multiple selection                 |
 | Number                   | Number                             |
 | Percent                  | Number                             |
 | Phone number             | Text                               |
 | Rating                   | Rating                             |
-| Rollup                   | \-                                 |
+| Rollup                   | –                                  |
 | Single line text         | Text                               |
 | Single select            | Single selection                   |
 | User                     | Text                               |
@@ -259,7 +276,7 @@ Run the script again by clicking **Run Script**. Again you can watch the executi
 
 ![](images/Migration_final-1088x348.png)
 
-Now you should see all records from the Airtable base in the new SeaTable base. Congratulations, the dataset migration is complete!
+Now you should see all records from the Airtable base in the new SeaTable base. **Congratulations, the dataset migration is complete!**
 
 If you are not satisfied with the final result, [delete all tables]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) and start again at step 5.
 
@@ -273,7 +290,7 @@ On the other hand, you must also create views yourself, as these are not transfe
 
 ## FAQ area
 
-{{< faq "Does the script change data in my airtable base?" >}}No. The script only reads your airtable base. The data in the airtable base is not changed.
+{{< faq "Does the script change data in my Airtable base?" >}}No. The script only reads your Airtable base. The data in the Airtable base is not changed.
 {{< /faq >}}
 
 {{< faq "What do I do if I receive an error message?" >}}An error message on first execution is not at all unlikely. There are plenty of reasons for this, e.g. an incorrect token, an incorrect sequence in the specification of the links, typing errors, missing commas or incorrect indentation. A single error can lead to script execution being aborted.  

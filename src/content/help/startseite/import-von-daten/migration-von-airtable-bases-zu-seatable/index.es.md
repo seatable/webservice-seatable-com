@@ -13,19 +13,32 @@ seo:
     description: 'Descubra cómo migrar sus bases de Airtable a SeaTable de forma sencilla y rápida gracias al script de migración.'
 ---
 
-¿Quiere trasladar sus Airtable Bases a SeaTable y tiene miedo del esfuerzo? ¡No se preocupe! Incluso bases con estructuras de datos complicadas y muchos miles de registros de datos pueden ser rápidamente transferidos a SeaTable.
+¿Quiere trasladar sus Airtable Bases a SeaTable y tiene miedo del esfuerzo? ¡No se preocupe! Incluso bases con estructuras de datos complicadas y muchos miles de registros de datos pueden ser rápidamente transferidos a SeaTable. Para ello dispone de **dos opciones**: una variante sencilla totalmente sin código y un script más flexible para el que resulta útil tener conocimientos básicos de Python.
 
-Hemos desarrollado un script de migración para transferir datos de Airtable a SeaTable. Esto transfiere todos los datos de una base Airtable - tablas, columnas, registros de datos - a una base SeaTable de una sola vez. Después de la migración, puede continuar en SeaTable con los datos que utilizó por última vez en Airtable. Después de ejecutar el script, sólo unos pocos ajustes son necesarios.
+## Importar bases de Airtable a SeaTable
 
-El script puede ser utilizado por cualquier persona - técnicos y no técnicos por igual. Sólo unas pocas **entradas manuales** son necesarias para hacer operativo el script. En este artículo explicamos cómo hacerlo.
+Para la primera opción de importar bases de Airtable a SeaTable, no necesita ningún conocimiento de programación.
 
-{{< warning  headline="Nota importante" >}}
+1. Abra la **página de inicio** de SeaTable.
+2. Haga clic en **Añadir una base o carpeta** en la sección o grupo donde desee la nueva base.
+![Importar desde Airtable](images/import-from-airtable.png)
+3. Seleccione **Importar desde Airtable**.
+4. Introduzca el [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) así como el [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids). Utilice los enlaces a la documentación de Airtable para saber dónde obtener el PAT y el Base ID. El PAT debe disponer de los permisos **data.records:read** y **schema.bases:read**.
+![Cuadro de diálogo de importación de Airtable](images/airtable-import-window.png)
+5. Defina el **nombre de la base** que la nueva base recibirá en SeaTable.
+6. Confirme con **Importar**.
 
-El script de migración es funcional, pero aún está en fase beta. Lo estamos adaptando y optimizando constantemente. Si tiene algún problema, por favor deje un mensaje en el [Foro SeaTable](https://forum.seatable.com/)."
+A diferencia del script que se explica en el siguiente capítulo, con la vía de importación estándar **no dispone de opciones de personalización**. Todas las tablas y filas (incluidos los archivos adjuntos) se importan desde Airtable. Por ello, según el tamaño de la base de Airtable, el proceso de importación puede llevar algún tiempo.
 
-{{< /warning >}}
+También se importan todas las columnas de Airtable, salvo las columnas de tipo Button, Count, Lookup y Rollup. Más abajo encontrará una visión general de cómo se transfieren los tipos de columna de Airtable a SeaTable. La tabla «Columns to be migrated manually» en la nueva base muestra las columnas que no se importaron desde Airtable.
 
-## Cómo migrar una base de Airtable a SeaTable
+## Cómo migrar una base de Airtable a SeaTable mediante un script
+
+Para una transferencia más flexible de los datos de Airtable, hemos desarrollado un script de migración. Este transfiere los datos seleccionados de una base Airtable – tablas, columnas, registros de datos – a una base SeaTable. Tras la migración puede seguir trabajando en SeaTable con los datos que utilizó por última vez en Airtable.
+
+Solo se requieren unas pocas **entradas manuales** para poner el script en funcionamiento. Tras la ejecución del script aún serán necesarios algunos ajustes posteriores. En este artículo explicamos cómo hacerlo.
+
+{{< warning  type="warning" headline="Nota importante"  text="El script de migración es funcional, pero aún está en fase beta. Lo estamos adaptando y optimizando constantemente. Si tiene algún problema, por favor deje un mensaje en el [Foro SeaTable](https://forum.seatable.com/)." />}}
 
 ### 1\. Crear base
 
@@ -138,13 +151,13 @@ else:
 ##
 ```
 
-No se preocupe si no entiende el código que acaba de copiar. Lo explicaremos. Los comentarios en el código deberían ayudarle un poco a interpretarlo. Los comentarios son todas las líneas que comienzan con el símbolo de almohadilla (‘#’). Estas líneas no se tienen en cuenta durante la ejecución del script, es decir, puede modificar, eliminar o agregar más comentarios sin afectar la funcionalidad del script.
+No se preocupe si aún no entiende del todo el código que acaba de copiar. Lo explicaremos. Los **comentarios en el código** deberían ayudarle un poco a interpretarlo. Los comentarios son todas las líneas que comienzan con el símbolo de almohadilla (‘#’). Estas líneas no se tienen en cuenta durante la ejecución del script, es decir, puede modificar, eliminar o agregar más comentarios sin afectar la funcionalidad del script.
 
-A diferencia de los comentarios, las indentaciones en el código son muy importantes durante la ejecución del script. Por favor, no las modifique.
+A diferencia de los comentarios, las **indentaciones en el código** son muy importantes durante la ejecución del script. Por favor, no las modifique.
 
 ### 3\. Indicar la URL del servidor de SeaTable y el API Token de la base
 
-Bajo el comentario **SeaTable – Destination**, introduzca la URL del servidor de SeaTable e indique el [API-Token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). El API-Token debe otorgar permisos de lectura y escritura. Si utiliza SeaTable Cloud, la URL pre-rellenada “https://cloud.seatable.io” es la correcta. Si utiliza otro servidor de SeaTable, introduzca su URL. (La URL siempre debe comenzar con https:// o http://). Tanto la URL como el token deben ir entre comillas simples.
+Bajo el comentario **SeaTable – Destination**, introduzca la URL del servidor de SeaTable e indique el [API-Token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). El API-Token debe otorgar permisos de lectura y escritura. Si utiliza SeaTable Cloud, la URL pre-rellenada “https://cloud.seatable.io” es la correcta. Si utiliza otro servidor de SeaTable, introduzca su URL. La URL siempre debe comenzar con https:// o http://. Tanto la URL como el token deben ir entre comillas simples.
 
 Este es un ejemplo de configuración para importar datos a una base en SeaTable Cloud:  
 ![](images/SeaTable_Server_URL_and_API_Token.png)
@@ -187,7 +200,7 @@ Si la base de Airtable no tiene columnas de enlace, puede dejar el corchete vac�
 
 ### 7\. Excluir columnas o tipos de columna (opcional)
 
-Si no desea copiar todas las columnas o tipos de columna de Airtable a SeaTable, puede excluirlos. Excluir una columna o tipo de columna hará que la columna se cree en la base de SeaTable, pero los datos que contiene no se transferirán. Excluir columnas con grandes volúmenes de datos —especialmente columnas de archivos— puede reducir significativamente el tiempo de ejecución del script. Especialmente para una prueba de migración, es recomendable excluir columnas con mucho volumen de datos.
+Si no desea copiar todas las columnas o tipos de columna de Airtable a SeaTable, puede excluirlos. Excluir una columna o tipo de columna hará que la columna se cree en la base de SeaTable, pero los datos que contiene no se transferirán. Excluir columnas con grandes volúmenes de datos – especialmente columnas de archivos – puede reducir significativamente el tiempo de ejecución del script. Especialmente para una prueba de migración, es recomendable excluir columnas con mucho volumen de datos.
 
 Los tipos de columna se pueden excluir usando la variable “excluded_column_types”. Para especificar los tipos de columna a excluir, utilice las constantes de Python correspondientes. Las columnas individuales se pueden excluir usando la variable “excluded_columns”. La especificación es análoga a la variable “first_columns” en el formato (‘NombreTabla’, ‘NombreColumna’). Si desea excluir varias columnas, los valores deben estar separados por comas.
 
@@ -217,9 +230,9 @@ Dado que los tipos de columna de Airtable y SeaTable no son completamente congru
 | Attachment                      | Archivo                                          |
 | Autonumber                      | Texto                                            |
 | Barcode                         | Texto                                            |
-| Button                          | \-                                               |
+| Button                          | –                                                |
 | Checkbox                        | Casilla de verificación                          |
-| Count                           | \-                                               |
+| Count                           | –                                                |
 | Created by                      | Texto                                            |
 | Created time                    | Fecha                                            |
 | Currency                        | Número                                           |
@@ -231,13 +244,13 @@ Dado que los tipos de columna de Airtable y SeaTable no son completamente congru
 | Last modified time              | Fecha                                            |
 | Link to another record          | Enlace a otros registros                         |
 | Long text                       | Texto con formato                                |
-| Lookup                          | \-                                               |
+| Lookup                          | –                                                |
 | Multiple select                 | Selección múltiple                               |
 | Number                          | Número                                           |
 | Percent                         | Número                                           |
 | Phone number                    | Texto                                            |
 | Rating                          | Valoración                                       |
-| Rollup                          | \-                                               |
+| Rollup                          | –                                                |
 | Single line text                | Texto                                            |
 | Single select                   | Selección única                                  |
 | User                            | Texto                                            |
@@ -263,7 +276,7 @@ Ejecute nuevamente el script haciendo clic en **Ejecutar script**. Nuevamente po
 
 ![](images/Migration_final-1088x348.png)
 
-Ahora debería ver todos los registros de la base de Airtable en la nueva base de SeaTable. ¡Felicidades, la migración de los registros se ha completado!
+Ahora debería ver todos los registros de la base de Airtable en la nueva base de SeaTable. **¡Felicidades, la migración de los registros se ha completado!**
 
 Si no está satisfecho con el resultado final, entonces [elimine todas las tablas]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) y comience de nuevo desde el paso 5.
 

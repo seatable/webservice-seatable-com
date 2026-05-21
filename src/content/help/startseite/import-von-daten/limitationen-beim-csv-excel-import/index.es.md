@@ -30,6 +30,16 @@ El backend normal de SeaTable puede contener un máximo de 100.000 filas por tab
 
 **No** es posible importar gráficos y archivos mediante un archivo XLSX. Para dicha importación debe utilizar la API de SeaTable, con la que podrá importar imágenes y archivos sin dificultad.
 
+## Enlaces a otros registros
+
+No es posible importar datos al tipo de columna **Enlace a otros registros**. Dado que SeaTable es una [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}), los enlaces funcionan además de forma diferente a las referencias cruzadas en Excel.
+
+Todo lo relativo al manejo de la columna de enlace en SeaTable se encuentra [aquí]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
+
+{{< warning headline="Nota" >}}
+Tras la importación, también puede utilizar la operación de procesamiento de datos [Comparar y enlazar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) para crear enlaces entre registros específicos.
+{{< /warning >}}
+
 ## Formatos de archivo diferentes
 
 La función de importación de SeaTable se ha probado con archivos de **LibreOffice**, así como con archivos actuales de **Microsoft Excel**. Otros programas de Office (como los de la empresa Softmaker) **no** se prueban activamente, lo que puede dar lugar a resultados de importación divergentes. En caso de duda, utiliza Microsoft Excel o el programa gratuito LibreOffice para obtener los mejores resultados.

@@ -16,7 +16,7 @@ seo:
 
 SeaTable vous offre de nombreuses possibilités de saisie de données : vous pouvez saisir manuellement des données dans des tableaux et faire saisir des données par [formulaire web]({{< relref "help/base-editor/webformulare" >}}) ou à l'aide d'automatismes.
 
-En outre, SeaTable dispose d'un puissant système d'importation de données. Celui-ci s'occupe de pratiquement tous les fichiers Excel et CSV. Il est également possible d'importer des données de Microsoft Access et de Google Sheets par un petit détour.
+En outre, SeaTable dispose d'un puissant système d'importation de données. Celui-ci s'occupe de pratiquement tous les **fichiers Excel et CSV**. De plus, il arrive souvent que des utilisateurs souhaitent migrer des bases d'**Airtable** vers SeaTable. Il est également possible d'importer des données de **Microsoft Access** et de **Google Sheets** par un petit détour.
 
 ## Importation de données avec CSV
 
@@ -29,6 +29,12 @@ CSV est un format d'échange de données très répandu, qui représente souvent
 Lorsqu'il s'agit de travailler avec des données, Excel est bien sûr incontournable. SeaTable prend en charge l'importation du nouveau _format de fichier_ _XLSX_ ainsi que de l'ancien _format XLS_. Les fichiers Excel permettent également d'importer simultanément **plusieurs tableaux** ou feuilles de calcul dans une base SeaTable. SeaTable convertit chaque feuille de calcul d'Excel en un tableau.
 
 [Apprenez tout sur l'importation de fichiers Excel.]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
+
+## Importation de données depuis Airtable
+
+Pour importer des bases Airtable, SeaTable propose à la fois une voie simple sans code et un script de migration plus flexible.
+
+[Découvrez ici comment migrer des bases Airtable vers SeaTable.]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}})
 
 ## Importation de données à partir de Microsoft Access
 

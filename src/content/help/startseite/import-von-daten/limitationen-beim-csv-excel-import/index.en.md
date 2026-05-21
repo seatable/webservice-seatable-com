@@ -30,6 +30,16 @@ The normal SeaTable backend can hold a maximum of 100,000 rows per table. If you
 
 Importing graphics and files via XLSX file is **not** possible. For such import you need to use SeaTable API, which allows you to import images and files without difficulties.
 
+## Links to other records
+
+There is no way to import data into the column type **Link to other records**. Since SeaTable is a [relational database]({{< relref "posts/relationale-datenbank" >}}), links also work differently from cross-references in Excel.
+
+Everything about handling the link column in SeaTable can be found [here]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
+
+{{< warning headline="Note" >}}
+After the import, you can also use the data processing operation [Compare and link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) to create links between specific records.
+{{< /warning >}}
+
 ## Different file formats
 
 The import function of SeaTable has been tested with files from **LibreOffice** as well as current files from **Microsoft Excel.** Other office programs (such as from the company Softmaker) are **not** actively tested, which may lead to different import results. If in doubt, use Microsoft Excel or the free LibreOffice to get the best results.

@@ -11,15 +11,32 @@ seo:
     description: 'Erfahren Sie, wie Sie Ihre Airtable Bases einfach, sicher und schnell per Skript in SeaTable übertragen können.'
 ---
 
-Sie wollen Ihre Airtable Bases zu SeaTable umziehen und scheuen den Aufwand? Keine Sorge! Auch Bases mit komplizierten Datenstrukturen und vielen tausend Datensätzen lassen sich rasch in SeaTable übertragen.
+Sie wollen Ihre Airtable Bases zu SeaTable umziehen und scheuen den Aufwand? Keine Sorge! Auch Bases mit komplizierten Datenstrukturen und vielen tausend Datensätzen lassen sich rasch in SeaTable übertragen. Dafür haben Sie **zwei Optionen** zur Auswahl: eine einfache Variante komplett ohne Code und ein flexibleres Skript, für das Python-Grundkenntnisse von Vorteil sind.
 
-Für den Transfer der Airtable Daten in SeaTable haben wir ein Migrationsskript entwickelt. Dieses überträgt alle Daten in einer Airtable Base - Tabellen, Spalten, Datensätze - in einem Rutsch in eine SeaTable Base. Nach der Migration können Sie in SeaTable mit den Daten weitermachen, die Sie in Airtable zuletzt verwendet haben. Nach Ausführung des Skripts sind nur einige Nacharbeiten notwendig.
+## Airtable Bases in SeaTable importieren
 
-Das Skript kann jeder - Techniker wie nicht-Techniker - verwenden. Es sind nur ein paar **manuelle Angaben** erforderlich, um das Skript betriebsbereit zu machen. In diesem Artikel erklären wir, wie Sie das machen.
+Für die erste Möglichkeit, Airtable Bases in SeaTable zu importieren, benötigen Sie keinerlei Programmierkenntnisse.
+
+1. Öffnen Sie die **Startseite** von SeaTable.
+2. Klicken Sie auf **Eine Base oder Ordner hinzufügen** in dem Bereich oder der Gruppe, wo Sie die neue Base haben möchten.
+![Von Airtable importieren](images/import-from-airtable.png)
+3. Wählen Sie **Von Airtable importieren** aus.
+4. Tragen Sie den [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) sowie die [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids) ein. Nutzen Sie die Links zur Airtable Dokumentation, um zu erfahren, wo Sie PAT und Base ID erhalten. Der PAT muss über die Berechtigungen **data.records:read** und **schema.bases:read** verfügen.
+![Airtable Import Dialogfenster](images/airtable-import-window.png)
+5. Legen Sie den **Basenamen** fest, den die neue Base in SeaTable erhalten soll.
+6. Bestätigen Sie mit **Import**.
+
+Im Gegensatz zum Skript, das im folgenden Kapitel erläutert wird, haben Sie auf dem Standard-Importweg **keine Anpassungsmöglichkeiten**. Alle Tabellen und Zeilen (einschließlich Assets) werden aus Airtable importiert. Je nach Größe der Airtable Base kann der Importvorgang daher einige Zeit dauern. 
+
+Alle Airtable Spalten mit Ausnahme der Spalten vom Typ Button, Count, Lookup und Rollup werden ebenfalls importiert. Weiter unten finden Sie eine Übersicht, wie die Spaltentypen von Airtable in SeaTable übertragen werden. Die Tabelle „Columns to be migrated manually“ in der neuen Base listet die Spalten auf, die nicht aus Airtable importiert wurden.
+
+## Wie Sie eine Base per Skript von Airtable zu SeaTable migrieren
+
+Für den flexibleren Transfer der Airtable Daten haben wir ein Migrationsskript entwickelt. Dieses überträgt ausgewählte Daten in einer Airtable Base – Tabellen, Spalten, Datensätze – in eine SeaTable Base. Nach der Migration können Sie in SeaTable mit den Daten weitermachen, die Sie in Airtable zuletzt verwendet haben.
+
+Es sind nur wenige **manuelle Angaben** erforderlich, um das Skript betriebsbereit zu machen. Nach Ausführung des Skripts sind noch ein paar Nacharbeiten notwendig. In diesem Artikel erklären wir, wie Sie das machen.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Das Migrationsskript ist funktional, aber noch beta. Wir passen es fortlaufend an und optimieren es. Bei Problemen hinterlassen Sie bitte einen Post im [SeaTable Forum](https://forum.seatable.com/)." />}}
-
-## Wie Sie eine Base von Airtable zu SeaTable migrieren
 
 ### 1\. Base anlegen
 
@@ -29,7 +46,7 @@ Erstellen Sie in SeaTable eine [neue Base]({{< relref "help/startseite/bases/ein
 
 Öffnen Sie in der neuen Base die [Skript-Seitenleiste]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) durch einen Klick auf das Skript-Icon {{< seatable-icon icon="dtable-icon-script" >}} im Base-Header oben rechts. Wählen Sie dann **Skript hinzufügen**. Das Migrationsskript ist in der Programmiersprache Python geschrieben. Wählen Sie daher **Python** aus.
 
-Markieren Sie nun den folgenden Codeblock, kopieren ihn in den Zwischenspeicher und fügen Sie ihn dann in das linke Fenster des Skripteditors ein:
+Markieren Sie nun den folgenden Codeblock, kopieren Sie ihn in den Zwischenspeicher und fügen Sie ihn dann in das linke Fenster des Skripteditors ein:
 
 ```
 ## Parameterize the script
@@ -132,13 +149,13 @@ else:
 ##
 ```
 
-Machen Sie sich keine Gedanken, wenn Sie den gerade kopierten Code nicht verstehen. Wir erläutern ihn. Ein wenig bei der Interpretation helfen sollten die Kommentare im Code. Kommentare sind alle Zeilen mit führendem Rautezeichen ('#'). Diese Zeilen werden bei der Skriptausführung nicht beachtet, d.h. Sie können Kommentare verändern, löschen oder auch weitere hinzufügen, ohne die Funktionalität des Skripts zu beeinflussen.
+Machen Sie sich keine Gedanken, wenn Sie den gerade kopierten Code noch nicht ganz verstehen. Wir erläutern ihn. Ein wenig bei der Interpretation helfen sollten die **Kommentare im Code**. Kommentare sind alle Zeilen mit führendem Rautezeichen ('#'). Diese Zeilen werden bei der Skriptausführung nicht beachtet, d.h. Sie können Kommentare verändern, löschen oder auch weitere hinzufügen, ohne die Funktionalität des Skripts zu beeinflussen.
 
-Anders als die Kommentare sind die Einrückungen im Code bei der Ausführung des Skripts sehr wichtig. Verändern Sie diese bitte nicht.
+Anders als die Kommentare sind die **Einrückungen im Code** bei der Ausführung des Skripts sehr wichtig. Verändern Sie diese bitte nicht.
 
 ### 3\. SeaTable Server URL und API-Token der Base angeben
 
-Fügen Sie unter dem Kommentar **SeaTable – Destination** die SeaTable Server URL ein und geben Sie den [API-Token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) an. Der API-Token muss Lese- und Schreibrechte gewähren. Wenn Sie SeaTable Cloud verwenden, dann ist die vorausgefüllte URL "https://cloud.seatable.io" richtig. Wenn Sie einen anderen SeaTable Server verwenden, dann tragen Sie dessen URL ein. (Die URL muss immer mit https:// bzw. http:// eingegeben werden.) URL und Token müssen von einfachen Anführungszeichen umschlossen sein.
+Fügen Sie unter dem Kommentar **SeaTable – Destination** die SeaTable Server URL ein und geben Sie den [API-Token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) an. Der API-Token muss Lese- und Schreibrechte gewähren. Wenn Sie SeaTable Cloud verwenden, dann ist die vorausgefüllte URL "https://cloud.seatable.io" richtig. Wenn Sie einen anderen SeaTable Server verwenden, dann tragen Sie dessen URL ein. Die URL muss immer mit https:// bzw. http:// eingegeben werden. URL und Token müssen von einfachen Anführungszeichen umschlossen sein.
 
 Dies ist eine Beispielkonfiguration für den Import der Daten in eine Base in SeaTable Cloud: ![](images/SeaTable_Server_URL_and_API_Token.png)
 
@@ -152,7 +169,7 @@ Nutzen Sie die im Skript hinterlegten Links zur Airtable Dokumentation, um zu er
 
 ### 5\. Tabellen- und Spaltennamen eintragen
 
-Teilen Sie dem Skript nun mit, welche Tabellen Sie aus der Airtable Base importieren möchten. Tun Sie dies in der Zeile "table_names". Ergänzen Sie in der eckigen Klammer die Namen der Tabellen - jeweils umschlossen von einem einfachen Anführungszeichen und getrennt durch Komma.
+Teilen Sie dem Skript nun mit, welche Tabellen Sie aus der Airtable Base importieren möchten. Tun Sie dies in der Zeile "table_names". Ergänzen Sie in der eckigen Klammer die Namen der Tabellen – jeweils umschlossen von einem einfachen Anführungszeichen und getrennt durch Komma.
 
 Für eine Base mit den zwei Tabellen "table1" und "table2" muss die Zeile dann beispielsweise so aussehen: ![](images/Airtable-tables_names_500.png)
 
@@ -172,11 +189,11 @@ Dafür ist die Variable "links" vorgesehen. Wenn beispielsweise die Spalte "link
 
 Jedes Linkspaltenpaar müssen Sie nur einmal angeben. Sie müssen die Verknüpfung nicht in beiden Richtungen spezifizieren.
 
-Erhält die Airtable Base keine Verknüpfungsspalten, dann können Sie die eckige Klammer leer lassen: ![](images/Airtable-linksEmpty_500.png)
+Enthält die Airtable Base keine Verknüpfungsspalten, dann können Sie die eckige Klammer leer lassen: ![](images/Airtable-linksEmpty_500.png)
 
-### 7\. Spalten bzw. Spaltentypen auschließen (optional)
+### 7\. Spalten bzw. Spaltentypen ausschließen (optional)
 
-Wenn Sie nicht alle Spalten oder Spaltentypen von Airtable zu SeaTable kopieren möchten, dann können Sie diese ausschließen. Der Ausschluss einer Spalte oder eines Spaltentyps sorgt dafür, dass die Spalte in der SeaTable Base angelegt, die darin enthaltenen Daten aber nicht übertragen werden. Durch den Ausschluss von Spalten mit sehr großen Datenmengen - und wir denken insbesondere an Dateispalten - können Sie die Laufzeit des Skripts deutlich reduzieren. Gerade für einen Migrationstest bietet es sich an, Spalten mit hohem Datenvolumen auszuschließen.
+Wenn Sie nicht alle Spalten oder Spaltentypen von Airtable zu SeaTable kopieren möchten, dann können Sie diese ausschließen. Der Ausschluss einer Spalte oder eines Spaltentyps sorgt dafür, dass die Spalte in der SeaTable Base angelegt, die darin enthaltenen Daten aber nicht übertragen werden. Durch den Ausschluss von Spalten mit sehr großen Datenmengen – und wir denken insbesondere an Dateispalten – können Sie die Laufzeit des Skripts deutlich reduzieren. Gerade für einen Migrationstest bietet es sich an, Spalten mit hohem Datenvolumen auszuschließen.
 
 Spaltentypen lassen sich über die Variable "excluded_column_types" ausschließen. Für die Spezfikation der auszuschließenden Spaltentypen verwenden Sie die dafür vorgesehenen Python Constants. Einzelne Spalten lassen sich über die Variable "excluded_columns" ausschließen. Die Spezifikation erfolgt analog der Variable "first_columns" im Format ('Tabellenname', 'Spaltenname'). Wenn Sie mehrere Spalten ausschließen wollen, dann müssen die Werte durch Komma getrennt werden.
 
@@ -205,9 +222,9 @@ Da die Spaltentypen von Airtable und SeaTable nicht vollständig kongruent sind,
 | Attachment             | Datei                            |
 | Autonumber             | Text                             |
 | Barcode                | Text                             |
-| Button                 | -                                |
+| Button                 | –                                |
 | Checkbox               | Checkbox                         |
-| Count                  | -                                |
+| Count                  | –                                |
 | Created by             | Text                             |
 | Created time           | Datum                            |
 | Currency               | Zahl                             |
@@ -219,13 +236,13 @@ Da die Spaltentypen von Airtable und SeaTable nicht vollständig kongruent sind,
 | Last modified time     | Datum                            |
 | Link to another record | Verknüpfung zu anderen Einträgen |
 | Long text              | Formatierter Text                |
-| Lookup                 | -                                |
+| Lookup                 | –                                |
 | Multiple select        | Mehrfachauswahl                  |
 | Number                 | Zahl                             |
 | Percent                | Zahl                             |
 | Phone number           | Text                             |
 | Rating                 | Rating                           |
-| Rollup                 | -                                |
+| Rollup                 | –                                |
 | Single line text       | Text                             |
 | Single select          | Einfachauswahl                   |
 | User                   | Text                             |
@@ -239,7 +256,7 @@ Wenn etwas nicht richtig ist, dann löschen Sie die durch das Skript angelegten 
 
 ### 10\. Alle Datensätze importieren
 
-Wenn die Überprüfung in Schritt 9. zu Ihrer Zufriedenheit ist, dann können alle Datensätze übertragen werden.
+Wenn die Überprüfung in Schritt 9 zu Ihrer Zufriedenheit ist, dann können alle Datensätze übertragen werden.
 
 Ändern Sie im Skript den Modus von "import-header" zu "import-rows":
 
@@ -251,7 +268,7 @@ Führen Sie das Skript mit einem Klick auf **Skript ausführen** erneut aus. Wie
 
 ![](images/Migration_final-1088x348.png)
 
-Nun sollten Sie alle Datensätze aus der Airtable Base in der neuen SeaTable Base sehen. Gratulation, die Migration der Datensätze ist abgeschlossen!
+Nun sollten Sie alle Datensätze aus der Airtable Base in der neuen SeaTable Base sehen. **Gratulation, die Migration der Datensätze ist abgeschlossen!**
 
 Wenn Sie mit dem Endergebnis nicht zufrieden sind, dann [löschen Sie alle Tabellen]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) und starten erneut bei Schritt 5.
 
@@ -261,7 +278,7 @@ Das Migrationsskript hat alle Daten übertragen. Einige manuelle Nacharbeiten si
 
 Zum einen müssen Sie die Formeln in Formelspalten ergänzen sowie die nicht automatisch angelegten und in der Tabelle "Columns to be migrated manually" aufgeführten Spalten hinzufügen.
 
-Zum anderen müssen Sie auch Ansichten selbst anlegen, da diese nicht aus der Airtable Base übertragen werden. Das gleiche gilt für Automationen, Interfaces und Skripte.
+Zum anderen müssen Sie auch Ansichten selbst anlegen, da diese nicht aus der Airtable Base übertragen werden. Das Gleiche gilt für Automationen, Interfaces und Skripte.
 
 ## FAQ-Bereich
 
@@ -278,7 +295,7 @@ Zum anderen müssen Sie auch Ansichten selbst anlegen, da diese nicht aus der Ai
 
 {{< /faq >}}
 
-{{< faq "Können Airtable Bases beliebiger Größe migriert werden?" >}}Grundsätzlich ja. Die in diesem Artikel vorgestellten Vorgehensweise mit dem integrierten Python Editor unterliegt jedoch einer maximalen Laufzeitbeschränkung von 15 Minuten, d.h. Skripte, die länger als 15 Minuten laufen, werden abgebrochen. In der Praxis ist dies für die allermeisten Bases ausreichend. Bei Bases mit großen/vielen Dateianhängen kann dieses Limit jedoch eine Rolle spielen. In dem Fall können Sie durch das Ausschließen von Spalten die Laufzeit verrringern. Wenn Sie Spalten nicht ausschließen wollen, dann müssen Sie das Python Skript lokal auf einem Rechner ausführen, bei dem es keine Laufzeitbeschränkung gibt.
+{{< faq "Können Airtable Bases beliebiger Größe migriert werden?" >}}Grundsätzlich ja. Die in diesem Artikel vorgestellte Vorgehensweise mit dem integrierten Python Editor unterliegt jedoch einer maximalen Laufzeitbeschränkung von 15 Minuten, d.h. Skripte, die länger als 15 Minuten laufen, werden abgebrochen. In der Praxis ist dies für die allermeisten Bases ausreichend. Bei Bases mit großen/vielen Dateianhängen kann dieses Limit jedoch eine Rolle spielen. In dem Fall können Sie durch das Ausschließen von Spalten die Laufzeit verringern. Wenn Sie Spalten nicht ausschließen wollen, dann müssen Sie das Python Skript lokal auf einem Rechner ausführen, bei dem es keine Laufzeitbeschränkung gibt.
 {{< /faq >}}
 
 {{< faq "Kann man Tabellen in eine bestehende Base importieren?" >}}Das Skript erfordert nicht, dass eine Base leer ist. Sie können das Skript also auch in einer Base mit bestehenden, gefüllten Tabellen ausführen. Das Einzige, was Sie vermeiden sollten, ist die Duplizierung von Tabellennamen.
