@@ -1,6 +1,6 @@
 ---
 title: 'SeaTable Developer und Enterprise Edition im Vergleich'
-description: 'SeaTable gibt es in zwei verschiedenen Editionen. Die Enterprise Edition bietet den vollen Funktionsumfang. SeaTable Cloud basiert auf der Enterprise Edition. Die Developer Edition ist funktional limitiert, überzeugt aber als flexible Datenbank für Webprojekte. Die Enterprise Edition erfordert eine kostenpflichtige Lizenz, wohin die Developer Edition uneingeschränkt kostenlos genutzt werden kann.'
+description: 'SeaTable gibt es in zwei verschiedenen Editionen: Die Enterprise Edition bietet den vollen Funktionsumfang. Auch SeaTable Cloud basiert auf der Enterprise Edition. Die Developer Edition ist funktional limitiert, überzeugt aber als flexible Datenbank für Webprojekte. Die Enterprise Edition erfordert eine kostenpflichtige Lizenz, wohingegen die Developer Edition uneingeschränkt kostenlos genutzt werden kann.'
 color: '#069214'
 categories:
     - 'product-features'
@@ -13,19 +13,19 @@ seo:
     description: 'SeaTable bietet zwei No-Code Editionen: Enterprise und Developer. Erfahren Sie Details zu Features und Einsatzmöglichkeiten der Plattform.'
 ---
 
-SeaTable Server ist SeaTable für den eigenen Server. Durch die Installation von SeaTable in der eigenen Infratruktur haben Sie volle Kontrolle darüber, wo Ihre Daten liegen und wer darauf zugreift. Damit empfiehlt sich SeaTable auch für Anwendungsfälle, in denen Sie Ihre Daten nicht außer Haus geben wollen. Sie können SeaTable Server auch ausschließlich im lokalen Netzwerk ohne Zugriffsmöglichkeit über das Internet betreiben.
+[SeaTable Server]({{< relref "pages/product/seatable-server" >}}) ist SeaTable für den eigenen Server. Durch die Installation von SeaTable in der eigenen Infratruktur haben Sie volle Kontrolle darüber, wo Ihre Daten liegen und wer darauf zugreift. Damit empfiehlt sich SeaTable auch für Anwendungsfälle, in denen Sie Ihre Daten nicht außer Haus geben wollen. Sie können SeaTable Server auch ausschließlich im lokalen Netzwerk ohne Zugriffsmöglichkeit über das Internet betreiben.
 
 ## Kurzvergleich
 
 ### SeaTable Enterprise Edition
 
-Die SeaTable Enterprise Edition (SeaTable EE) ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die eine leistungsfähige No-Code Datenbank suchen und nicht auf volle Datenhoheit verzichten wollen. Benutzer können mit erweiterten Freigabeberechtigungen, Automationen, integriertem App Builder und Big-Data-Backend auch anspruchsvolle Use Cases umsetzen. Enterprise Funktionen wie externe Authentifizierung (AD/LDAP, SAML), rollenbasierte Berechtigungsverwaltung, Malware-Prüfung und Audit Log erfreuen die Administratoren.
+Die SeaTable Enterprise Edition (SeaTable EE) ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die eine leistungsfähige No-Code Datenbank suchen und nicht auf volle [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}) verzichten wollen. Benutzer können mit erweiterten Freigabeberechtigungen, Automationen, integriertem App Builder und Big-Data-Backend auch anspruchsvolle Use Cases umsetzen. Enterprise Funktionen wie externe Authentifizierung (AD/LDAP, SAML), rollenbasierte Berechtigungsverwaltung, Malware-Prüfung und Audit Log erfreuen die Administratoren.
 
-Eine SeaTable EE Lizenz für bis zu drei Anwender erhalten Sie kostenlos. Für mehr Benutzer ist eine [kostenpflichtige Lizenz](https://seatable.com/prices) erforderlich. Die Installation ist dank [Docker Compose](https://admin.seatable.com) innerhalb weniger Minuten erledigt.
+Eine SeaTable EE Lizenz für bis zu drei Anwender erhalten Sie kostenlos. Für mehr Benutzer ist eine [kostenpflichtige Lizenz]({{< relref "pages/prices" >}}) erforderlich. Die Installation ist dank [Docker Compose](https://admin.seatable.com) innerhalb weniger Minuten erledigt.
 
 ### SeaTable Developer Edition
 
-Die SeaTable Developer Edition (SeaTable DE) richtet sich an Entwickler, die SeaTable als flexible Datenbank verwenden möchten und für die Funktionen im Frontend von nachranginger Bedeutung sind. In diesen Anwendungsfällen punktet SeaTable DE mit der Unterstützung zahlreicher Datentypen, einer leistungsfähigen [REST API](https://api.seatable.com/) und Apps für die bekannten Automatisierungsplattformen wie Zapier, Make und n8n.
+Die SeaTable Developer Edition (SeaTable DE) richtet sich an Entwickler, die SeaTable als flexible Datenbank verwenden möchten und für die Funktionen im Frontend von nachrangiger Bedeutung sind. In diesen Anwendungsfällen punktet SeaTable DE mit der Unterstützung zahlreicher Datentypen, einer leistungsfähigen [REST API](https://api.seatable.com/) und Apps für bekannte Automatisierungsplattformen wie Zapier, Make und n8n.
 
 SeaTable DE erfordert keine kostenpflichtige Lizenzierung. Die Installationsanleitung finden Sie [hier](https://admin.seatable.com/installation/basic-setup/).
 
@@ -43,9 +43,9 @@ SeaTable DE erfordert keine kostenpflichtige Lizenzierung. Die Installationsanle
 | **Limits**                          |                                                                                                       |                                                                     |
 | Unlimitierte Bases                  | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Unlimitierte Tabellen               | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
-| Unlimitierte Zeilen                 | {{< icon icon="circle-check" class="text-seatable-orange" >}}\*\*                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
+| Unlimitierte Zeilen                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} (aber kein Archiv-Backend)              | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Unlimitierter Speicher              | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
-| Unlimitierte Benutzer               | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}\*\*\* |
+| Unlimitierte Benutzer               | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} (Lizenz erforderlich) |
 | Versionierung (Snapshots)           | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | **Datenerfassung und -bearbeitung** |                                                                                                       |                                                                     |
 | 26 Spaltentypen                     | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
@@ -56,7 +56,7 @@ SeaTable DE erfordert keine kostenpflichtige Lizenzierung. Die Installationsanle
 | Sortierung                          | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Bedingte Formatierung               | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Webformulare                        | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
-| Geteilte Datensätze                 | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
+| Gemeinsame Datensätze                 | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Datenverarbeitungen                 | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Statistiken                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Import aus CSV und XLSX             | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
@@ -65,10 +65,10 @@ SeaTable DE erfordert keine kostenpflichtige Lizenzierung. Die Installationsanle
 | Automationen                        | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Big-Data-Backend                    | {{< icon "circle-xmark" >}}                                                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | JavaScript Unterstützung            | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
-| Python Unterstützung                | {{< icon icon="circle-check" class="text-seatable-orange" >}}\*                                       | {{< icon icon="circle-check" class="text-seatable-orange" >}}\*     |
+| Python Unterstützung (separate Installation)  | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}}     |
 | **Kollaboration**                   |                                                                                                       |                                                                     |
 | Echtzeit-Zusammenarbeit             | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
-| Extene Links                        | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
+| Externe Links                        | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Einladungs-Links                    | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Freigabe von Bases                  | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Freigabe von Ansichten              | {{< icon "circle-xmark" >}}                                                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
@@ -84,12 +84,9 @@ SeaTable DE erfordert keine kostenpflichtige Lizenzierung. Die Installationsanle
 | Seitendesign                        | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | Berichtsdesign                      | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
 | SQL-Abfrage                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}       |
-| Google Calendar Integration         | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}}\*     |
-| ONLYOFFICE Integration              | {{< icon "circle-xmark" >}}                                                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}}\*     |
+| Google Calendar Integration         | {{< icon icon="circle-check" class="text-seatable-orange" >}}                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} (separate Installation erforderlich)   |
+| ONLYOFFICE Integration              | {{< icon "circle-xmark" >}}                                                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} (separate Installation erforderlich)     |
 
-- \*: separate Installation erforderlich
-- \*\*: aber kein Archiv-Backend
-- \*\*\*: Lizenz erforderlich
 
 |                                                    | Developer Edition                                             | Enterprise Edition                                            |
 | -------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -106,9 +103,9 @@ SeaTable DE erfordert keine kostenpflichtige Lizenzierung. Die Installationsanle
 | Logo im Webformular                                | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Titelbild im Webformular                           | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | “Powered by” ausblenden                            | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| **Benutzerverwaltung und Berechtigungsverwaltung** |                                                               |                                                               |
+| **Benutzer- und Berechtigungsverwaltung** |                                                               |                                                               |
 | Lokale Benutzerdatenbank                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| 2-Faktor Authentifizierung                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Zwei-Faktor-Authentifizierung                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Authentifizierung via AD/LDAP                      | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Single Sign-on via SAML/OAuth2                     | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Benutzerrollen                                     | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
@@ -127,7 +124,7 @@ Sowohl die SeaTable Enterprise Edition als auch die Developer Edition laden Sie 
 
 Die Developer Edition stellt jeweils nur eine Grundversion bereit, zum Beispiel **5.3.0**, die auf der ersten Enterprise-Version basiert. Die Enterprise Edition entwickelt sich stetig weiter. Dort finden Sie stets die aktuellste Version, etwa **5.3.12**.
 
-Entdeckte Probleme in der Developer Edition beheben wir erst mit der nächsten Hauptversion (z.B. von 5.3.x zu 5.4.0).
+Entdeckte Probleme in der Developer Edition beheben wir erst mit der nächsten Hauptversion (z. B. von 5.3.0 zu 5.4.0).
 
 ## Unterschiede bei Testing und Support
 
