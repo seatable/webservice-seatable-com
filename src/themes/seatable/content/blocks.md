@@ -34,6 +34,7 @@ sections:
         steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und
         Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren."
     image: /images/Group-38.png
+    image_border: false
 
   - name: fonts
     weight: 1
