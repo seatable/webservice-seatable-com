@@ -22,7 +22,8 @@
     style: [primary,]
   image:
   image_alt:
-  image_position [left, right]</code></pre>
+  image_position: [left, right]
+  image_border: [true, false]</code></pre>
     </div>
 {{ end }}
 
@@ -50,7 +51,7 @@
             {{ end }}
         </div>
         <div class="basis-2/5 justify-center">
-            <img src="{{ .image }}" alt="{{ .image_alt }}" />
+            <img src="{{ .image }}" alt="{{ .image_alt }}" {{ if ne .image_border false }}class="rounded-lg border shadow-lg"{{ end }} />
         </div>
     </section>
 </section>
