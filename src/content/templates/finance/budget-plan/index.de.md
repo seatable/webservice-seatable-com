@@ -81,7 +81,7 @@ sections:
       - text: '**Zentrale Ablage:** Alle Budgetdaten, Belege, Notizen, Ziele und Verantwortlichkeiten liegen an einem Ort – strukturiert, nachvollziehbar und flexibel für wachsende Teams erweiterbar.'
       image_position: [left]
       image: '/images/template_page_budgetplanung_01.png'
-      image_alt: ''
+      image_alt: 'Budgetplaner Vorlage in SeaTable mit zentraler Übersicht zu Budgets, Ausgaben und Kostenstellen.'
 
     - name: "content-25"
       weight: 10
@@ -91,19 +91,19 @@ sections:
       - headline: 'Budgettabelle für das neue Planungsjahr'
         text: 'In der Tabelle "Budget Plan" erstellen Sie Ihre neue Budgetplanung für Kostenstellen, Abteilungen oder Projekte. Sie definieren Kategorien, hinterlegen Ziele und Erwartungen für das kommende Jahr und weisen direkt verantwortliche Manager zu. Über Verknüpfungen greifen Sie zugleich auf die Plan- und Ist-Werte aus dem Vorjahr zu. So nutzen Sie die Budgetplaner Vorlage, um realistische Budgets zu setzen und finanzielle Entscheidungen auf belastbaren Daten aufzubauen.'
         image: '/images/template_page_budgetplanung_02.png'
-        image_alt: ''
+        image_alt: 'Tabelle für die Budgetplanung mit Kostenstellen, Budgetzielen, verantwortlichen Managern und Vorjahreswerten.'
       - headline: 'Ausgabentabelle für laufende Betriebskosten'  
         text: 'In der Tabelle "Operating Costs" sammeln Sie sämtliche Ausgaben und ordnen diese nach Datum, Monat und Kategorie. Zusätzlich können Sie Beträge, Frequenzen, Notizen und Belege ergänzen. Verschiedene Ansichten mit Filtern nach Kostenstelle zeigen auf einen Blick, welche Bereiche besonders budgetrelevant sind. Über ein Webformular können Mitarbeitende neue Einträge direkt selbst erfassen.'
         image: '/images/template_page_budgetplanung_03.png'
-        image_alt: ''
+        image_alt: 'Tabelle zur Erfassung laufender Betriebskosten mit Datum, Kategorie, Betrag, Notizen und Belegen.'
       - headline: 'Vergleichstabelle für Plan und Ist'
         text: 'In der Tabelle "Budget Plan"-laufendes Jahr laufen die geplanten Budgets, die tatsächlichen Ausgaben und die verantwortlichen Personen zusammen. Rollup- und Formelspalten summieren alle erfassten Kosten je Kostenstelle und berechnen automatisch die Differenz zwischen Planwert und realem Aufwand. So erkennen Sie mit der Budgetplaner Vorlage sofort, wo Budgets überschritten wurden und wo Erklärungen erforderlich sind.'
         image: '/images/template_page_budgetplanung_04.png'
-        image_alt: ''
+        image_alt: 'Plan-Ist-Vergleich im Budgetplaner mit geplanten Budgets, tatsächlichen Ausgaben und berechneten Abweichungen je Kostenstelle.'
       - headline: 'Manager-Tabelle für Zuständigkeiten'
         text: 'In der Tabelle "Managers" verwalten Sie die Personen, die Budgets planen, überwachen und gegenüber einzelnen Kostenstellen verantwortlich sind. Dadurch wird klar, wer Budgets freigibt, Abweichungen kommentiert und Finanzziele für das nächste Jahr vorbereitet. Die Budgetplaner Vorlage schafft so eine transparente Zuordnung von Verantwortung und Controlling.'
         image: '/images/template_page_budgetplanung_05.png'
-        image_alt: ''
+        image_alt: 'Manager-Tabelle mit verantwortlichen Personen für Budgetplanung, Freigaben und Kostenstellen.'
             
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       items:
       - text: 'Verwandeln Sie Ihre Budgetplaner Vorlage in eine interaktive Budgetplaner-App für Finanzplanung, Controlling und Ressourcensteuerung. Kombinieren Sie Budgettabellen, Ausgabenerfassung, Soll-Ist-Vergleich und Abteilungsfilter in einer anpassbaren Anwendung. Visualisieren Sie Entwicklungen in Dashboards, teilen Sie gezielte Ansichten mit Verantwortlichen und steuern Sie Zugriffe auf sensible Daten präzise über Rollen. Ob Jahresbudget, Projektbudget oder Investitionsplanung – die Budgetplaner-App lässt sich flexibel an Ihre Prozesse anpassen und unterstützt Teams bei schnellen, fundierten Entscheidungen.'
       image: '/images/template_page_budgetplanung_06.png'
-      image_alt: ''
+      image_alt: 'Interaktive Budgetplaner-App mit Ansichten für Finanzplanung, Controlling, Filter und Auswertungen.'
 
     - name: "banner-3"
       weight: 15
