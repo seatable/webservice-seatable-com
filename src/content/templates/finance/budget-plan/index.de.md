@@ -3,7 +3,9 @@ title: 'Budgetplanung'
 description: 'Analysieren Sie Ausgaben, planen Sie Ihr Jahresbudget vorausschauend und stimmen Sie Finanzziele und Kostenstellen zentral aufeinander ab.'
 date: '2024-08-24'
 lastmod: '2026-05-27'
-url: '/de/vorlage/budget-plan'
+url: '/de/vorlage/budgetplaner'
+aliases: 
+    - '/de/vorlage/budget-plan'
 category: 'finance'
 functions:
 seo:
@@ -18,7 +20,7 @@ sections:
       text: 'Behalten Sie Ihre Finanzplanung zuverlässig im Griff! Mit unserer kostenlosen Budgetplaner Vorlage steuern Sie Jahresbudget, Projektbudget und Kostenstellen zentral an einem Ort. Statt fehleranfälliger Tabellen und manueller Abstimmungen nutzen Sie diese Budgetplaner-Vorlage für klare Budgetallokation, Echtzeit-Transparenz und belastbare Entscheidungen. Projektmanager, Abteilungsleiter, Finance-Teams und Executives erkennen Abweichungen sofort, verfolgen Restbudgets und arbeiten gemeinsam mit einer stets aktuellen Datenbasis.. Ob Marketing-Budget, IT-Projekt oder komplette Abteilungsplanung – die Budgetplaner Vorlage hilft Ihnen, finanzielle Ressourcen strukturiert zu verteilen und Kostenüberschreitungen frühzeitig zu vermeiden.'
       classes:
           - bg-white
-      template: '7e0a717a66ca4658bbb4'
+      template: '8fa08d31d16c4a54a1bb'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
             link_to_template: true
