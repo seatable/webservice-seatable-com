@@ -26,27 +26,63 @@ Depois de ter configurado e aberto o plugin de relações de tabela, começa por
 
 Para visualizar as relações de tabela, verá não só **linhas sólidas** para ligações _directas_ através de [colunas de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), mas também **linhas tracejadas** para ligações _indirectas_ através de colunas de fórmula de ligação (por exemplo, [pesquisas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
 
-## Definir opções para um gráfico de relações de tabela
+## Gestão de um diagrama de relações
 
-Por defeito, já é criado um gráfico com todas as relações de tabela quando o plug-in de relações de tabela é aberto pela primeira vez. {{< seatable-icon icon="dtable-icon-add-table" >}} Se pretender criar outro gráfico, clique em **Adicionar nova relação de tabela**. Isto abre um campo de entrada no qual pode introduzir o **nome** pretendido.
+Por defeito, já é criado um diagrama com todas as relações de tabela quando o plugin de relações de tabela é aberto pela primeira vez. Se pretender criar outro diagrama de relações, clique em {{< seatable-icon icon="dtable-icon-add-table" >}} **Adicionar diagrama de relações**. Isto abre um campo de entrada no qual pode introduzir o **nome** pretendido.
 
-![Opções de um gráfico de relações de tabela](images/Options-of-Table-Relationship-Chart.png)
+![Opções de gestão de um diagrama de relações](images/table-relationship-plugin-management-options.png)
 
-{{< seatable-icon icon="dtable-icon-drag" >}} Para **alterar a ordem dos gráficos**, mantenha premido o botão esquerdo do rato na **superfície de aperto** e arraste **e largue** um gráfico para a posição pretendida. Também é possível **renomear**, **duplicar** ou **eliminar** os gráficos.
+Quando passa o ponteiro do rato sobre o nome de um diagrama, aparecem três ícones. Para **alterar a ordem dos diagramas**, mantenha premido o botão esquerdo do rato na **superfície de aperto** {{< seatable-icon icon="dtable-icon-drag" >}} e **arraste e largue** um diagrama para a posição pretendida.
 
-{{< warning  headline="Nota"  text="Se apenas for criado um único gráfico no plugin, **não é possível** eliminá-lo." />}}
+![Opções de um diagrama de relações](images/Options-of-Table-Relationship-Chart.png)
 
-{{< seatable-icon icon="dtable-icon-set-up" >}} Através das **definições**, às quais se acede clicando no **símbolo da roda dentada**, é possível definir o seguinte para o gráfico, **(des)activando** os **cursores**:
+Além disso, pode clicar nos **três pontos** para gerir o diagrama. Estão disponíveis as seguintes opções:
+- **renomear**
+- **duplicar**
+- **eliminar**
+- **repor**
+- **exportar como imagem**.
 
-- Deseja visualizar **ligações para outras entradas** (ligações directas)?
-- Deseja visualizar **fórmulas para ligações** (ligações indirectas)?
-- Pretende apresentar **fórmulas de dois níveis para ligações** (por exemplo, uma fórmula de pesquisa que obtém valores da coluna de pesquisa de outra tabela)?
+{{< warning  type="warning" headline="Nota"  text="Se apenas for criado um único diagrama no plugin, **não é possível** eliminá-lo." />}}
+
+## Definições de um diagrama de relações
+
+Através das **definições**, às quais se acede clicando no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, é possível definir o seguinte para um diagrama, **(des)activando** os **cursores**:
+
+- Deseja visualizar **ligações para outras tabelas** (ligações directas)?
+- Deseja visualizar **ligações dentro de uma tabela** (ligações directas)?
+- Deseja visualizar **fórmulas para ligações** (ligações indirectas)? Em caso afirmativo, que tipos de fórmulas de ligação?
+- Deseja visualizar **todas as colunas independentemente das vistas**?
 - Gostaria de apresentar **tabelas sem ligações**?
+- Deseja **mostrar ou ocultar tabelas**?
 
-![Definir opções para um gráfico de relações de tabela](images/Settings-of-Table-Relationship-Chart.png)
+![Opções de definição de um diagrama de relações](images/table-relationship-plugin-settings.png)
 
-## Mover tabelas num gráfico
+## Opções de design de um diagrama de relações
 
-É possível mover as várias tabelas no gráfico, conforme necessário, **usando arrastar e soltar**. Para isso, manter pressionado o botão esquerdo do mouse, arrastar a tabela para a posição desejada e soltá-la.
+Vá para o separador **Design**, no canto superior direito, ao lado das definições, para alterar o estilo de determinados elementos num diagrama. Clique na **seta pendente** à frente de um elemento para expandir as definições disponíveis:
 
-![Mover tabelas em um gráfico de relações de tabela usando arrastar e soltar](images/Move-tables-in-a-Table-Relationship-Chart.gif)
+- **Tabelas**: cor do cabeçalho da tabela e tamanho do tipo de letra
+- **Colunas de ligação** (ligações directas): largura de linha, estilo de linha e cor de linha
+- **Fórmulas para ligações** (ligações indirectas de primeiro nível): largura de linha, estilo de linha e cor de linha
+- **Fórmulas multinível para ligações** (ligações aninhadas de níveis superiores, por exemplo, uma fórmula de pesquisa que obtém valores através de outra coluna de ligação da tabela ligada): largura de linha, estilo de linha e cor de linha
+- **Definir cor de fundo para exportação**
+
+![Opções de design de um diagrama de relações](images/table-relationship-plugin-theme.png)
+
+## Mover tabelas num diagrama
+
+É possível mover as várias tabelas num diagrama, conforme necessário, **usando arrastar e largar**. Para isso, mantenha premido o botão esquerdo do rato, arraste a tabela para a posição desejada e largue-a.
+
+![Mover tabelas num diagrama de relações usando arrastar e largar](images/Move-tables-in-a-Table-Relationship-Chart.gif)
+
+## Adicionar uma nota num diagrama de relações
+
+Pode também adicionar uma nota num diagrama de relações clicando no ícone de nota no canto inferior esquerdo. Em seguida, tem as seguintes opções:
+
+- editar texto
+- ocultar fundo
+- alinhar o texto à esquerda, ao centro ou à direita
+- eliminar nota
+
+![Adicionar uma nota num diagrama de relações](images/add-note-on-table-relationship-chart.png)
