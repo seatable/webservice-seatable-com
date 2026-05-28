@@ -26,27 +26,63 @@ Una vez que haya configurado y abierto el plugin de relaciones entre tablas, ver
 
 Para visualizar las relaciones de la tabla, no sólo verá **líneas continuas** para los enlaces _directos_ a través de [columnas de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sino también **líneas discontinuas** para los enlaces _indirectos_ a través de columnas de fórmulas de enlace (por ejemplo, [búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
 
-## Configuración de opciones para un gráfico de relaciones de tabla
+## Gestión de un diagrama de relaciones
 
-Por defecto, se crea un gráfico con todas las relaciones de tabla cuando se abre el plugin de relaciones de tabla por primera vez. {{< seatable-icon icon="dtable-icon-add-table" >}} Si desea crear otro gráfico, haga clic en **Añadir nueva** relación de tabla. Se abrirá un campo de entrada en el que podrá introducir el **nombre** deseado.
+Por defecto, ya se crea un diagrama con todas las relaciones de tabla al abrir el plugin de relaciones entre tablas por primera vez. Si desea crear otro diagrama de relaciones, haga clic en {{< seatable-icon icon="dtable-icon-add-table" >}} **Añadir diagrama de relaciones**. Se abrirá un campo de entrada en el que podrá introducir el **nombre** deseado.
 
-![Opciones de un gráfico de relaciones de tablas](images/Options-of-Table-Relationship-Chart.png)
+![Opciones de gestión de un diagrama de relaciones](images/table-relationship-plugin-management-options.png)
 
-{{< seatable-icon icon="dtable-icon-drag" >}} Para **cambiar** el **orden de los** gráficos, mantenga pulsado el botón izquierdo del ratón sobre la **superficie de agarre** y **arrastre y suelte** un gráfico en la posición deseada. También puede **renombrar**, **duplicar** o **eliminar** los gráficos.
+Cuando coloca el cursor del ratón sobre el nombre de un diagrama, aparecen tres iconos. Para **cambiar el orden de los diagramas**, mantenga pulsado el botón izquierdo del ratón sobre la **superficie de agarre** {{< seatable-icon icon="dtable-icon-drag" >}} y **arrastre y suelte** un diagrama en la posición deseada.
 
-{{< warning  headline="Nota"  text="Si sólo se crea un gráfico en el plugin, **no podrá eliminarlo**." />}}
+![Opciones de un diagrama de relaciones](images/Options-of-Table-Relationship-Chart.png)
 
-{{< seatable-icon icon="dtable-icon-set-up" >}} En los **ajustes**, a los que puede acceder haciendo clic en el **símbolo de la rueda dentada**, puede especificar lo siguiente para el gráfico **(des)activando** los **controles deslizantes**:
+Además, puede hacer clic en los **tres puntos** para gestionar el diagrama. Dispone de las siguientes opciones:
+- **renombrar**
+- **duplicar**
+- **eliminar**
+- **restablecer**
+- **exportar como imagen**.
 
-- ¿Desea mostrar **enlaces a otras entradas** (conexiones directas)?
-- ¿Desea visualizar **fórmulas de enlaces** (enlaces indirectos)?
-- ¿Desea mostrar **fórmulas de dos niveles para los enlaces** (por ejemplo, una fórmula de búsqueda que toma valores de la columna de búsqueda de otra tabla)?
+{{< warning  type="warning" headline="Nota"  text="Si sólo se crea un único diagrama en el plugin, **no podrá eliminarlo**." />}}
+
+## Ajustes de un diagrama de relaciones
+
+En los **ajustes**, a los que puede acceder haciendo clic en el **símbolo de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}, puede especificar lo siguiente para un diagrama **(des)activando** los **controles deslizantes**:
+
+- ¿Desea mostrar **enlaces a otras tablas** (conexiones directas)?
+- ¿Desea mostrar **enlaces dentro de una tabla** (conexiones directas)?
+- ¿Desea mostrar **fórmulas de enlaces** (conexiones indirectas)? En caso afirmativo, ¿qué tipos de fórmulas de enlace?
+- ¿Desea mostrar **todas las columnas independientemente de las vistas**?
 - ¿Desea mostrar **tablas sin enlaces**?
+- ¿Desea **mostrar u ocultar tablas**?
 
-![Configuración de opciones para un gráfico de relaciones de tabla](images/Settings-of-Table-Relationship-Chart.png)
+![Opciones de configuración de un diagrama de relaciones](images/table-relationship-plugin-settings.png)
 
-## Mover tablas en un gráfico
+## Opciones de diseño de un diagrama de relaciones
 
-Puede desplazar las distintas tablas del gráfico según sus necesidades mediante la **función de arrastrar y soltar**. Para ello, mantenga pulsado el botón izquierdo del ratón, arrastre la tabla a la posición deseada y suéltelo.
+Vaya a la pestaña **Diseño** en la parte superior derecha junto a los ajustes para cambiar el estilo de determinados elementos en un diagrama. Haga clic en la **flecha desplegable** delante de un elemento para mostrar los ajustes disponibles:
 
-![Mover tablas en un gráfico de relaciones de tablas mediante arrastrar y soltar](images/Move-tables-in-a-Table-Relationship-Chart.gif)
+- **Tablas**: color del encabezado de la tabla y tamaño de fuente
+- **Columnas de enlace** (conexiones directas): grosor de línea, estilo de línea y color de línea
+- **Fórmulas de enlaces** (conexiones indirectas de primer nivel): grosor de línea, estilo de línea y color de línea
+- **Fórmulas de enlace de varios niveles** (conexiones anidadas de niveles superiores, por ejemplo, una fórmula de búsqueda que obtiene valores a través de otra columna de enlace de la tabla vinculada): grosor de línea, estilo de línea y color de línea
+- **Establecer color de fondo para la exportación**
+
+![Opciones de diseño de un diagrama de relaciones](images/table-relationship-plugin-theme.png)
+
+## Mover tablas en un diagrama
+
+Puede mover las distintas tablas en un diagrama según sus necesidades mediante la **función de arrastrar y soltar**. Para ello, mantenga pulsado el botón izquierdo del ratón, arrastre la tabla a la posición deseada y suéltelo.
+
+![Mover tablas en un diagrama de relaciones mediante arrastrar y soltar](images/Move-tables-in-a-Table-Relationship-Chart.gif)
+
+## Añadir una nota a un diagrama de relaciones
+
+Además, puede añadir una nota a un diagrama de relaciones haciendo clic en el icono de la nota en la esquina inferior izquierda. A continuación, dispone de las siguientes opciones:
+
+- editar texto
+- ocultar fondo
+- alinear el texto a la izquierda, al centro o a la derecha
+- eliminar nota
+
+![Añadir una nota a un diagrama de relaciones](images/add-note-on-table-relationship-chart.png)

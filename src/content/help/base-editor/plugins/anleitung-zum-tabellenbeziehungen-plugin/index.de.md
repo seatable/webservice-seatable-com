@@ -12,7 +12,7 @@ seo:
 
 ---
 
-Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind.
+Besonders wenn sich viele verknüpfte Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind.
 
 Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ).
@@ -25,27 +25,63 @@ Wenn Sie das Tabellenbeziehungen-Plugin eingerichtet und geöffnet haben, sehen 
 
 Um die Tabellenbeziehungen zu visualisieren, werden Ihnen nicht nur **durchgezogene Linien** für _direkte_ Verbindungen über [Verknüpfungsspalten]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}), sondern auch **gestrichelte Linien** für _indirekte_ Verbindungen über Linkformel-Spalten (z. B. [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) angezeigt.
 
-## Einstellungsmöglichkeiten einer Tabellenbeziehungen-Grafik
+## Verwaltung eines Beziehungsdiagramms
 
-Standardmäßig ist beim ersten Öffnen des Tabellenbeziehungen-Plugins bereits eine Grafik mit allen Tabellenbeziehungen angelegt. Wenn Sie eine weitere Grafik erstellen möchten, klicken Sie auf {{< seatable-icon icon="dtable-icon-add-table" >}} **Neue Tabellenbeziehung hinzufügen**. Daraufhin öffnet sich ein Eingabefeld, in das Sie den gewünschten **Namen** tippen.
+Standardmäßig ist beim ersten Öffnen des Tabellenbeziehungen-Plugins bereits ein Diagramm mit allen Tabellenbeziehungen angelegt. Wenn Sie ein weiteres Beziehungsdiagramm erstellen möchten, klicken Sie auf {{< seatable-icon icon="dtable-icon-add-table" >}} **Beziehungsdiagramm hinzufügen**. Daraufhin öffnet sich ein Eingabefeld, in das Sie den gewünschten **Namen** tippen.
 
-![Optionen einer Tabellenbeziehungen-Grafik](images/Options-of-Table-Relationship-Chart.png)
+![Verwaltungsoptionen eines Beziehungsdiagramms](images/table-relationship-plugin-management-options.png)
 
-Um die **Reihenfolge der Grafiken zu ändern**, halten Sie die linke Maustaste an der **Greiffläche** {{< seatable-icon icon="dtable-icon-drag" >}} gedrückt und ziehen eine Grafik **per Drag-and-Drop** an die gewünschte Stelle. Darüber hinaus können Sie die Grafiken **umbenennen**, **duplizieren** oder **löschen**.
+Wenn Sie mit dem Mauszeiger über den Namen eines Diagramms fahren, erscheinen drei Symbole. Um die **Reihenfolge der Diagramme zu ändern**, halten Sie die linke Maustaste an der **Greiffläche** {{< seatable-icon icon="dtable-icon-drag" >}} gedrückt und ziehen es **per Drag-and-Drop** an die gewünschte Stelle.
 
-{{< warning  type="warning" headline="Hinweis"  text="Wenn nur eine einzige Grafik im Plugin angelegt ist, können Sie diese **nicht löschen**." />}}
+![Optionen eines Beziehungsdiagramms](images/Options-of-Table-Relationship-Chart.png)
 
-Über die **Einstellungen**, die Sie per Klick auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} erreichen, können Sie Folgendes für die Grafik festlegen, indem Sie die **Regler (de-)aktivieren**:
+Darüber hinaus können Sie auf die **drei Punkte** klicken, um das Diagramm zu verwalten. Folgende Optionen stehen Ihnen zur Verfügung: 
+- **umbenennen**
+- **duplizieren**
+- **löschen**
+- **zurücksetzen**
+- **als Bild exportieren**.
 
-- Möchten Sie **Verknüpfungen zu anderen Einträgen** (direkte Verbindungen) anzeigen?
-- Möchten Sie **Formeln für Verknüpfungen** (indirekte Verbindungen) anzeigen?
-- Möchten Sie **zweistufige Formeln für Verknüpfungen** anzeigen (z. B. eine Lookup-Formel, die Werte aus der Lookup-Spalte einer anderen Tabelle bezieht)?
+{{< warning  type="warning" headline="Hinweis"  text="Wenn nur ein einziges Diagramm im Plugin angelegt ist, können Sie dieses **nicht löschen**." />}}
+
+## Einstellungen eines Beziehungsdiagramms
+
+Über die **Einstellungen**, die Sie per Klick auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} erreichen, können Sie Folgendes für ein Diagramm festlegen, indem Sie die **Regler (de-)aktivieren**:
+
+- Möchten Sie **Verknüpfungen zu anderen Tabellen** (direkte Verbindungen) anzeigen?
+- Möchten Sie **Verknüpfungen innerhalb einer Tabelle** (direkte Verbindungen) anzeigen?
+- Möchten Sie **Formeln für Verknüpfungen** (indirekte Verbindungen) anzeigen? Wenn ja, welche Arten von Linkformeln?
+- Möchten Sie **alle Spalten ungeachtet der Ansichten** anzeigen?
 - Möchten Sie **Tabellen ohne Verknüpfungen** anzeigen?
+- Möchten Sie **Tabellen anzeigen oder ausblenden**?
 
-![Einstellungsmöglichkeiten einer Tabellenbeziehungen-Grafik](images/Settings-of-Table-Relationship-Chart.png)
+![Einstellungsmöglichkeiten eines Beziehungsdiagramms](images/table-relationship-plugin-settings.png)
 
-## Tabellen in einer Grafik verschieben
+## Designoptionen eines Beziehungsdiagramms
 
-Sie können die verschiedenen Tabellen in der Grafik beliebig **per Drag-and-Drop verschieben**. Halten Sie dazu die linke Maustaste gedrückt, ziehen Sie die Tabelle an die gewünschte Stelle und lassen Sie los.
+Gehen Sie oben rechts neben den Einstellungen auf den Reiter **Design**, um den Stil bestimmter Elemente in einem Diagramm zu ändern. Klicken Sie auf den **Drop-down-Pfeil** vor einem Element, um die verfügbaren Einstellungen auszuklappen:
 
-![Tabellen in einer Tabellenbeziehungen-Grafik per Drag-and-Drop verschieben](images/Move-tables-in-a-Table-Relationship-Chart.gif)
+- **Tabellen**: Farbe des Tabellenkopfes und Schriftgröße
+- **Verknüpfungsspalten** (direkte Verbindungen): Linienbreite, Linienstil und Linienfarbe
+- **Formeln für Verknüpfungen** (indirekte Verbindungen der ersten Ebene): Linienbreite, Linienstil und Linienfarbe
+- **mehrstufige Formeln für Verknüpfungen** (verschachtelte Verbindungen höherer Ebenen, z. B. eine Lookup-Formel, die Werte über eine andere Verknüpfungsspalte der verknüpften Tabelle bezieht): Linienbreite, Linienstil und Linienfarbe
+- **Hintergrundfarbe für Export festlegen**
+
+![Designoptionen eines Beziehungsdiagramms](images/table-relationship-plugin-theme.png)
+
+## Tabellen in einem Diagramm verschieben
+
+Sie können die verschiedenen Tabellen in einem Diagramm beliebig **per Drag-and-Drop verschieben**. Halten Sie dazu die linke Maustaste gedrückt, ziehen Sie die Tabelle an die gewünschte Stelle und lassen Sie los.
+
+![Tabellen eines Beziehungsdiagramms per Drag-and-Drop verschieben](images/Move-tables-in-a-Table-Relationship-Chart.gif)
+
+## Notiz in einem Beziehungsdiagramm hinzufügen
+
+Zudem können Sie eine Notiz in einem Beziehungsdiagramm hinzufügen, indem Sie auf das **Zettel-Symbol** in der linken unteren Ecke klicken. Anschließend haben Sie diese Optionen:
+
+- Text bearbeiten
+- Hintergrund ausblenden
+- Text linksbündig, zentriert oder rechtsbündig setzen
+- Notiz löschen
+
+![Notiz auf einem Beziehungsdiagramm hinzufügen](images/add-note-on-table-relationship-chart.png)
