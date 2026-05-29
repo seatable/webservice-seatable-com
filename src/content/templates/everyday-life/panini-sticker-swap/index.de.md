@@ -44,7 +44,7 @@ sections:
         - icon: 'table'
           headline: 'Alles an einem Ort'
           text: 'Doppelte Sticker, Wunschliste, Tauschpartner und Chatsverläufe sind zentral in einer einzigen Base, ohne dass Sie zwischen Apps und Listen hin- und herwechseln müssen.' 
-        - icon: 'up-right-and-down-left-from-centere'
+        - icon: 'up-right-and-down-left-from-center'
           headline: 'Individuelle Ansichten'
           text: 'Strukturieren Sie Ihre Tauschbörse mit Ansichten so, wie Sie es brauchen. Gruppieren Sie Sticker nach Teams, oder erstellen Sie eine private Übersicht nur mit Ihren Stickern.'  
 
