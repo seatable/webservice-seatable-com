@@ -1,6 +1,6 @@
 ---
 title: 'Comparación entre las ediciones Developer y Enterprise de SeaTable'
-description: 'SeaTable está disponible en dos ediciones diferentes: La Enterprise Edition ofrece toda la gama de funciones. SeaTable Cloud también se basa en la Enterprise Edition. La Developer Edition tiene funcionalidad limitada, pero destaca como base de datos flexible para proyectos web. La Enterprise Edition requiere una licencia de pago, mientras que la Developer Edition puede utilizarse de forma gratuita y sin restricciones.'
+description: 'SeaTable está disponible en dos ediciones diferentes: La Enterprise Edition ofrece toda la gama de funciones. SeaTable Cloud también se basa en la Enterprise Edition. La SeaTable Developer Edition tiene funcionalidad limitada, pero destaca como base de datos flexible para proyectos web. La Enterprise Edition requiere una licencia de pago, mientras que la Developer Edition puede utilizarse de forma gratuita y sin restricciones.'
 color: '#069214'
 categories:
     - 'product-features'
@@ -11,13 +11,13 @@ url: '/es/comparacion-ediciones'
 aliases:
     - /es/editionsvergleich
 seo:
-    title: 'SeaTable Developer vs Enterprise Edition: comparación'
+    title: 'SeaTable Developer Edition vs Enterprise Edition: comparación'
     description: 'SeaTable ofrece dos ediciones No-Code: Enterprise y Developer. Descubra detalles sobre las funciones y los casos de uso de la plataforma.'
 ---
 
 [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) es SeaTable para su propio servidor. Al instalar SeaTable en su propia infraestructura, tendrá un control total sobre dónde se almacenan sus datos y quién puede acceder a ellos. Por ello, SeaTable también es recomendable para casos de uso en los que no quiera sacar sus datos de la empresa. También puede operar SeaTable Server exclusivamente en la red local sin posibilidad de acceso a través de Internet.
 
-## Comparación breve
+## Comparación breve: SeaTable Developer Edition vs Enterprise Edition
 
 ### SeaTable Enterprise Edition
 
@@ -117,21 +117,21 @@ SeaTable DE no requiere ninguna licencia de pago. Encontrará las instrucciones 
 
 ## Diferencias entre versiones
 
-Tanto la SeaTable Enterprise Edition como la Developer Edition se pueden descargar cómodamente desde Docker Hub:
+Tanto la SeaTable Enterprise Edition como la SeaTable Developer Edition se pueden descargar cómodamente desde Docker Hub:
 
 - https://hub.docker.com/r/seatable/seatable-enterprise
 - https://hub.docker.com/r/seatable/seatable-developer
 
 **Las ediciones se diferencian sobre todo en sus versiones:**
 
-La Developer Edition proporciona únicamente una versión base, por ejemplo **5.3.0**, basada en la primera versión Enterprise correspondiente. La Enterprise Edition se desarrolla y actualiza continuamente. Allí siempre encontrará la versión más reciente, como **5.3.12**.
+La SeaTable Developer Edition proporciona únicamente una versión base, por ejemplo **5.3.0**, basada en la primera versión Enterprise correspondiente. La Enterprise Edition se desarrolla y actualiza continuamente. Allí siempre encontrará la versión más reciente, como **5.3.12**.
 
-Los problemas detectados en la Developer Edition solo se corrigen con la siguiente versión principal (por ejemplo, de 5.3.0 a 5.4.0).
+Los problemas detectados en la SeaTable Developer Edition solo se corrigen con la siguiente versión principal (por ejemplo, de 5.3.0 a 5.4.0).
 
 ## Diferencias en pruebas y soporte
 
-La **SeaTable Enterprise Edition** se prueba exhaustivamente para garantizar una experiencia lo más estable y libre de errores posible. En cambio, **no se realizan pruebas sistemáticas** para la **Developer Edition**.
+La **SeaTable Enterprise Edition** se prueba exhaustivamente para garantizar una experiencia lo más estable y libre de errores posible. En cambio, **no se realizan pruebas sistemáticas** para la **SeaTable Developer Edition**.
 
-El **soporte de pago** está disponible únicamente para la edición Enterprise; **no se proporciona soporte oficial** para la Developer Edition.
+El **soporte de pago** está disponible únicamente para la edición Enterprise; **no se proporciona soporte oficial** para la SeaTable Developer Edition.
 
-Si tiene preguntas sobre la Developer Edition, le recomendamos utilizar el [foro de la comunidad SeaTable](https://forum.seatable.com). Sin embargo, tenga en cuenta que la mayoría de las consultas se refieren a la Enterprise Edition, ya que es más utilizada y está oficialmente soportada.
+Si tiene preguntas sobre la SeaTable Developer Edition, le recomendamos utilizar el [foro de la comunidad SeaTable](https://forum.seatable.com). Sin embargo, tenga en cuenta que la mayoría de las consultas se refieren a la Enterprise Edition, ya que es más utilizada y está oficialmente soportada.
