@@ -5,7 +5,7 @@ seo:
     title: 'AVV'
     description: '...'
 date: 2024-10-16
-version: '1.1.5'
+version: '1.1.6'
 type: 'legal'
 url: '/data-processing-agreement'
 ---
@@ -23,27 +23,27 @@ These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable G
 >
 > [Go to the form]({{< relref path="pages/legal/avv/create" lang="de" >}})
 
-## 1. Subject Matter of the Agreement; Subject Matter of this Data Processing Agreement
+## Preamble
+
+The parties have concluded a contract – hereinafter the Main Agreement – for the use of the cloud solution SeaTable Cloud – hereinafter the Online Service. This Data Processing Agreement specifies the mutual data protection obligations of the parties.
+
+## 1. Subject Matter of the Main Agreement; Subject Matter of this Data Processing Agreement
 
 ### 1.1
 
-The subject matter of this agreement is the provision of the online service for one or more users managed by the controller and the provision of related services. Under this agreement, depending on the subscribed plan or chosen deployment option, the controller may use a browser and the application programming interface (API) of the service to process data (to collect, store, modify, share, and delete it).
+The subject matter of the Main Agreement is the provision of the online service for one or more users managed by the controller and the provision of related services. Under this agreement, the controller may use a browser and the application programming interface (API) of the service to process data (to collect, store, modify, share, and delete it).
 
 ### 1.2
 
-The subject matter of the agreement is not the processor’s own use or processing of personal data. However, in the course of providing services as the operator of the online service and fulfilling obligations regarding support, maintenance, data backup, and administration, access to personal data cannot be entirely ruled out.
+The subject matter of the Main Agreement is not the processor’s own use or processing of personal data. However, in the course of providing services as the operator of the online service and fulfilling obligations regarding support, maintenance, data backup, and administration, access to personal data cannot be entirely ruled out.
 
 ### 1.3
 
-The details are set out in the contract summarized under the customer number specified above. This Data Processing Agreement applies to the entire service relationship, insofar as the services described in section 1.1 are concerned.
+The details are set out in the Main Agreement. This Data Processing Agreement applies to the entire service relationship.
 
 ### 1.4
 
 Whenever “data” is referred to below, this exclusively means personal data within the meaning of the GDPR. The following data protection and data security provisions apply to all processing activities within the meaning of Art. 28(1) GDPR that the processor performs for the controller and to all activities in which employees of the processor or third parties engaged by the processor may come into contact with the controller’s personal data.
-
-### 1.5
-
-In addition to the contract concluded between the parties, this Data Processing Agreement specifies the mutual obligations regarding the general handling of the controller’s data.
 
 ## 2. Term, Termination, Deletion of Data
 
@@ -176,6 +176,10 @@ The controller has full access to the data at all times, so that the processor�
 ### 9.2
 
 If a data subject contacts the processor directly to request rectification or deletion of their data, the processor will forward this request to the controller. If the controller is required under applicable data protection law to provide information about the collection, processing, and/or use of data, the processor will support the controller as necessary in providing such information. The controller must submit any such request to the processor in writing and reimburse the processor for the costs incurred.
+
+### 9.3
+
+The processor and any person subordinate to the processor who has access to personal data may process data only within the scope of the Main Agreement and in accordance with the controller’s instructions, including the powers granted in this agreement, unless they are required to process the data by law. In such a case, the processor will inform the controller of these legal requirements, unless the relevant law prohibits such notification on important grounds of public interest. The controller has the right to issue supplementary instructions at any time. The controller will promptly confirm oral instructions (at least in text form). The processor must promptly inform the controller if it believes that an instruction violates data protection provisions. The processor is entitled to suspend execution of the relevant instruction until it has been confirmed or amended by the controller.
 
 ## 10. Audit Rights of the Controller
 
