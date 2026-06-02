@@ -1,42 +1,42 @@
 ---
-title: 'Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO'
+title: 'Vertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO'
 description: ''
 seo:
     title: 'AVV'
     description: '...'
 date: 2024-10-16
-version: '1.1.5'
+version: '1.1.6'
 type: 'legal'
 url: '/de/auftrag-zur-auftragsverarbeitung'
 ---
 
-Dies ist der Vertrag zur Auftragsverarbeitung gemäß Art. 28, DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
+Dies ist der Vertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
 
 > Hier können Sie sich Ihren eigenen Vertag erstellen.
 >
 > [Zum Formular]({{< relref "pages/legal/avv/create" >}})
 
-## 1. Gegenstand des Vertrages, Gegenstand dieses Vertrages zur Auftragsverarbeitung
+## Präambel
+
+Die Parteien haben einen Vertrag - nachfolgend Hauptvertrag - über die Nutzung der Cloud-Lösung SeaTable Cloud - nachfolgend Online-Service - geschlossen. Dieser Vertrag zur Auftragsverarbeitung konkretisiert die gegenseitigen, datenschutzrechtlichen Verpflichtungen zum Datenschutz.
+
+## 1. Gegenstand des Hauptvertrages, Gegenstand dieses Vertrages zur Auftragsverarbeitung
 
 ### 1.1
 
-Gegenstand des Vertrages ist die Bereitstellung des Online-Services für einen oder mehrere Nutzer, die durch den Auftraggeber verwaltet werden, und die Erbringung damit im Zusammenhang stehenden Leistungen. Im Rahmen dieses Vertrages hat der Auftraggeber – je nach gebuchtem Abonnement bzw. gewählter Deployment-Option – die Möglichkeit, unter Nutzung eines Browsers und der Programmierschnittstelle (API) des Dienstes, Daten zu verarbeiten (zu erfassen, zu speichern, zu verändern, zu teilen und zu löschen).
+Gegenstand des Hauptvertrages ist die Bereitstellung des Online-Services für einen oder mehrere Nutzer, die durch den Auftraggeber verwaltet werden, und die Erbringung damit im Zusammenhang stehenden Leistungen. Im Rahmen dieses Vertrages hat der Auftraggeber die Möglichkeit, unter Nutzung eines Browsers und der Programmierschnittstelle (API) des Dienstes, Daten zu verarbeiten (zu erfassen, zu speichern, zu verändern, zu teilen und zu löschen).
 
 ### 1.2
 
-Gegenstand des Vertrages ist nicht die originäre Nutzung oder Verarbeitung von personenbezogenen Daten durch den Auftragnehmer. Im Zuge der Leistungserbringung durch den Auftragnehmer als Betreiber von des Online-Services und seiner Verpflichtungen bzgl. Support, Wartung, Datensicherung und Administration kann ein Zugriff auf personenbezogene Daten jedoch nicht ausgeschlossen werden.
+Gegenstand des Hauptvertrages ist nicht die originäre Nutzung oder Verarbeitung von personenbezogenen Daten durch den Auftragnehmer. Im Zuge der Leistungserbringung durch den Auftragnehmer als Betreiber von des Online-Services und seiner Verpflichtungen bzgl. Support, Wartung, Datensicherung und Administration kann ein Zugriff auf personenbezogene Daten jedoch nicht ausgeschlossen werden.
 
 ### 1.3
 
-Die Einzelheiten ergeben sich aus dem Vertrag, der unter der oben benannten Kundennummer zusammengefasst sind. Die Vereinbarung zur Auftragsverarbeitung findet Anwendung auf das gesamte Dienstleistungsverhältnis, sofern die in Punkt 1.1 beschriebenen Dienstleistung betroffen sind.
+Die Einzelheiten ergeben sich aus dem Hauptvertrag. Der Vertrag zur Auftragsverarbeitung findet Anwendung auf das gesamte Dienstleistungsverhältnis.
 
 ### 1.4
 
 Soweit nachfolgend von Daten die Rede ist, handelt es sich ausschließlich um personenbezogene Daten im Sinne der DSGVO. Die nachfolgenden Datenschutz- und Datensicherheitsbestimmungen finden Anwendung auf alle Leistungen der Auftragsverarbeitung i.S.d. Art. 28 Abs. 1 DSGVO, die der Auftragnehmer gegenüber dem Auftraggeber erbringt und auf alle Tätigkeiten, bei denen Mitarbeiter des Auftragnehmers oder durch den Auftragnehmer beauftragte Dritte mit personenbezogenen Daten des Auftraggebers in Berührung kommen können.
-
-### 1.5
-
-In Ergänzung zu dem zwischen den Parteien geschlossenen Vertrag konkretisieren die Vertragsparteien mit dem vorliegenden Auftragsverarbeitungsvertrag die gegenseitigen Pflichten im generellen Umgang mit den Daten des Auftraggebers.
 
 ## 2. Laufzeit, Beendigung, Löschung von Daten
 
@@ -169,6 +169,10 @@ Der Auftraggeber hat selbst jederzeit umfassenden Zugriff auf die Daten, so dass
 ### 9.2
 
 Soweit ein Betroffener sich unmittelbar an den Auftragnehmer zwecks Berichtigung oder Löschung seiner Daten wenden sollte, wird der Auftragnehmer dieses Ersuchen an den Auftraggeber weiterleiten. Ist der Auftraggeber auf Grund geltender Datenschutzgesetze verpflichtet, Auskünfte zur Erhebung, Verarbeitung und / oder Nutzung von Daten zu erteilen, wird der Auftragnehmer den Auftraggeber dabei soweit notwendig bei der Bereitstellung dieser Informationen unterstützen. Eine diesbezügliche Anfrage hat der Auftraggeber schriftlich an den Auftragnehmer zu richten und diesem die hierdurch entstandenen Kosten zu erstatten.
+
+### 9.3
+
+Der Auftragnehmer und jede dem Auftragnehmer unterstellte Person, die Zugang zu personenbezogenen Daten hat, dürfen Daten nur im Rahmen des Hauptvertrags und gemäß der Weisung des Auftraggebers verarbeiten einschließlich der in diesem Vertrag eingeräumten Befugnisse, es sei denn, dass sie gesetzlich zur Verarbeitung verpflichtet sind. In einem solchen Fall teilt der Auftragnehmer dem Auftraggeber diese rechtlichen Anforderungen mit, sofern das betreffende Recht eine solche Mitteilung nicht wegen eines wichtigen öffentlichen Interesses verbietet. Der Auftraggeber hat das Recht, jederzeit ergänzende Weisungen zu erteilen. Mündliche Weisungen bestätigt der Auftraggeber unverzüglich (mind. Textform). Der Auftragnehmer hat den Auftraggeber unverzüglich zu informieren, wenn er der Meinung ist, eine Weisung verstoße gegen Datenschutzvorschriften. Der Auftragnehmer ist berechtigt, die Durchführung der entsprechenden Weisung solange auszusetzen, bis sie durch den Auftraggeber bestätigt oder geändert wird.
 
 ## 10. Kontrollrechte des Auftraggebers
 
