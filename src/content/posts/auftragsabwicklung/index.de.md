@@ -12,10 +12,9 @@ tags:
     - 'Beschaffung & Logistik'
     - 'Digitale Transformation'
 url: '/de/auftragsabwicklung'
-color: '#e9d3b4'
+color: '#abe2e2'
 register:
    show: true  
-draft: true
 ---
 
 ## Was bedeutet Auftragsabwicklung?
