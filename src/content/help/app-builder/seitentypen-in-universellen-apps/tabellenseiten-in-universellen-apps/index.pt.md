@@ -94,11 +94,11 @@ Nas páginas de tabelas em que diferentes utilizadores podem fazer novas entrada
 
 ## Verificação de formato para novas entradas
 
-Pode ativar outra **barra deslizante** para [validar entradas em colunas de texto]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}). Assim que a **verificação do formato** estiver activada, os detalhes da linha abrem-se sempre que alguém quiser adicionar uma nova entrada à página da tabela - e isto só é possível se as entradas corresponderem ao formato definido. Aparece uma **mensagem de erro** para entradas com um formato diferente.
+Pode ativar outra **barra deslizante** para [validar entradas em colunas de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). Assim que a **verificação do formato** estiver activada, os detalhes da linha abrem-se sempre que alguém quiser adicionar uma nova entrada à página da tabela - e isto só é possível se as entradas corresponderem ao formato definido. Aparece uma **mensagem de erro** para entradas com um formato diferente.
 
 ![Verificação do formato na página da tabela](images/Format-check-on-table-page.png)
 
-Por exemplo, é possível minimizar **os erros de digitação** em cadeias de caracteres claramente definidas, como códigos postais ou números de conta. As [expressões regulares]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) para validação das entradas são definidas quando se cria uma coluna de texto na base.
+Por exemplo, é possível minimizar **os erros de digitação** em cadeias de caracteres claramente definidas, como códigos postais ou números de conta. As [expressões regulares]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) para validação das entradas são definidas quando se cria uma coluna de texto na base.
 
 ## Mostrar formatação de células
 

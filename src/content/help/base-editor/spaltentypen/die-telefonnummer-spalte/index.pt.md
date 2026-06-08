@@ -29,7 +29,7 @@ Pode definir um [valor predefinido]({{< relref "help/base-editor/spalten/standar
 
 ### Valide a entrada
 
-Tal como acontece com as colunas de texto, tem a opção de validar as entradas na coluna do número de telefone. Ao efetuar uma **verificação de formato**, pode destacar os números de telefone que se desviam do formato válido. Também pode utilizar [expressões regulares]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) para validação.
+Tal como acontece com as colunas de texto, tem a opção de validar as entradas na coluna do número de telefone. Ao efetuar uma **verificação de formato**, pode destacar os números de telefone que se desviam do formato válido. Também pode utilizar [expressões regulares]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) para validação.
 
 ![Verifique o formato de um número de telefone](images/format-check-phone-number.png)
 

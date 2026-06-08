@@ -65,4 +65,4 @@ Para os seguintes tipos de colunas, a barra de estado **não** reflecte um valor
 - [Colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Tempo criado]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) y [Último tempo modificado]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Número automático]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
-- Números em [colunas de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- Números em [colunas de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})

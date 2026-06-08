@@ -18,7 +18,7 @@ When using text columns in your tables, you have the option to validate inputs. 
 
 {{< warning  headline="Note" >}}
 
-Basically, there are two different ways to validate entries in text columns. Validation can be performed both when **adding a new** [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) that have **already been created**.
+Basically, there are two different ways to validate entries in text columns. Validation can be performed both when **adding a new** [text column]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) that have **already been created**.
 
 {{< /warning >}}
 

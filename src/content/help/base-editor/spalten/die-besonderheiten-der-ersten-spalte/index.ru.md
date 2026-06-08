@@ -22,7 +22,7 @@ seo:
 - В отличие от других столбцов, вы **не можете удалить** первый столбец таблицы.
 - Однако, в отличие от других колонок, первую колонку можно **закрепить** отдельно.
 - Для **первой колонки** можно выбрать только **шесть типов колонок**:
-  - [Текст]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Текст]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
   - [Номер]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
   - [Дата]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
   - [Одиночный выбор]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})

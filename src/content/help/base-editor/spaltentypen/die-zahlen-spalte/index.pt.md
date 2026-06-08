@@ -17,7 +17,7 @@ No SeaTable pode utilizar a **coluna de números** de muitas maneiras para traba
 
 ## Área de aplicação da coluna de números
 
-A utilização de **colunas de números** permite-lhe, por exemplo, **calcular valores** com fórmulas e criar **gráficos e estatísticas**. No entanto, não é adequada para guardar cadeias de caracteres de qualquer comprimento (por exemplo, números de conta), uma vez que ocorre um arredondamento com mais de 15 dígitos. Neste caso, deve utilizar [a coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+A utilização de **colunas de números** permite-lhe, por exemplo, **calcular valores** com fórmulas e criar **gráficos e estatísticas**. No entanto, não é adequada para guardar cadeias de caracteres de qualquer comprimento (por exemplo, números de conta), uma vez que ocorre um arredondamento com mais de 15 dígitos. Neste caso, deve utilizar [a coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 Além disso, o SeaTable oferece outras colunas que por vezes se ajustam melhor aos seus valores dados.
 

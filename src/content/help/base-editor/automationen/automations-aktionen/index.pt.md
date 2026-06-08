@@ -175,7 +175,7 @@ Pode fazer com que as seguintes **funções de IA** sejam executadas com um auto
 
 - **Resumir**: Resume o texto de uma ou mais colunas. Pode controlar a extensão, o tom, o formato e o idioma do resumo, personalizando o aviso.
 - **Classificar**: Classifica os registos de uma ou mais colunas. Pode personalizar as categorias e regras utilizando o prompt. O resultado termina numa [coluna de seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou [coluna de seleção múltipla]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
-- **OCR**: Extrai texto de uma [coluna de imagem]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). O conteúdo reconhecido é escrito na coluna de resultado do tipo [Texto ou Texto formatado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+- **OCR**: Extrai texto de uma [coluna de imagem]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). O conteúdo reconhecido é escrito na coluna de resultado do tipo [Texto ou Texto formatado]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}).
 - **Extrair**: Extrai informações específicas de uma coluna do tipo texto ou número, de acordo com os seus requisitos. A informação extraída é escrita nas colunas de resultados.
 - **Personalizar**: Gera conteúdo com base no seu pedido. Utilize {nome da coluna} entre chavetas para inserir o valor da coluna de uma linha.
 
@@ -191,7 +191,7 @@ A ação de automatização "Chamar IA" está atualmente disponível para os seg
 Se selecionar "Gerir eventos no Google Calendar" como uma ação automatizada, um compromisso do SeaTable é criado ou atualizado num calendário do Google quando o acionador é acionado. Existem alguns requisitos que devem ser cumpridos para que esta ação funcione sem problemas:
 - Primeiro, tem de [sincronizar a sua conta do Google Calendar com SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
 - Devem existir duas [colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) numa tabela, que definem o **início** e o **fim** das datas.
-- Também precisa de uma [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) na qual o Google pode escrever o **identificador do evento** para que os compromissos possam ser sincronizados.
+- Também precisa de uma [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) na qual o Google pode escrever o **identificador do evento** para que os compromissos possam ser sincronizados.
 
 ![requisitos para gerir eventos no Calendário Google](images/manage-events-in-google-calendar-part-1.png)
 

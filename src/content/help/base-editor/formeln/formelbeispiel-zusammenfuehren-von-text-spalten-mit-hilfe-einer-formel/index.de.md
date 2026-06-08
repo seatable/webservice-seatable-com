@@ -11,7 +11,7 @@ seo:
     description: 'Lernen Sie, wie Sie mit SeaTable-Formeln Inhalte mehrerer Text-Spalten einfach zu einem vollständigen Textstring kombinieren.'
 ---
 
-SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine davon ist das Zusammenführen von Inhalten aus verschiedenen [Text-Spalten]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). Mithilfe einer entsprechenden Formel können Sie beliebig viele Inhalte aus unterschiedlichen Spalten in einer Formel-Spalte zusammenführen.
+SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine davon ist das Zusammenführen von Inhalten aus verschiedenen [Text-Spalten]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). Mithilfe einer entsprechenden Formel können Sie beliebig viele Inhalte aus unterschiedlichen Spalten in einer Formel-Spalte zusammenführen.
 
 ## Zusammenführen von Text-Spalten
 

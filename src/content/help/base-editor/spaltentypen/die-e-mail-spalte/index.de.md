@@ -9,7 +9,7 @@ url: '/de/hilfe/die-e-mail-spalte'
 seo:
     title: 'E-Mail-Spalte in SeaTable – Adressen erfassen und nutzen'
     description: 'Erfassen Sie mit der E-Mail-Spalte in SeaTable valide Adressen. Per Klick können Sie direkt Ihr E-Mail-Programm öffnen und Nachrichten versenden.'
-
+weight: 12
 ---
 
 Die E-Mail-Spalte ist ein Spaltentyp, mit dem Sie E-Mail-Adressen erfassen können. Im Unterschied zu einer Text-Spalte wird bei der E-Mail-Spalte sichergestellt, dass die Eingabe die Struktur einer gültigen E-Mail-Adresse hat.

@@ -24,7 +24,7 @@ Se quiser saber como alterar o ID de utilizador de um membro da equipa, [encontr
 
 ## Filtrar com o ID do utilizador
 
-No SeaTable, pode utilizar o filtro **"é o ID do utilizador actual"** para cada coluna de texto. Isto cria um **filtro dinâmico** que apenas apresenta entradas em que o **ID do próprio utilizador** está armazenado na [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) correspondente.
+No SeaTable, pode utilizar o filtro **"é o ID do utilizador actual"** para cada coluna de texto. Isto cria um **filtro dinâmico** que apenas apresenta entradas em que o **ID do próprio utilizador** está armazenado na [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) correspondente.
 
 ![Exemplo de filtro por ID de utilizador](images/filter-user-ID-example-1.png)
 

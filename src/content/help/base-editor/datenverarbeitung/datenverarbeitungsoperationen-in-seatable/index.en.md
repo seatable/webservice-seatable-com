@@ -46,7 +46,7 @@ The following **relationship operations** can currently be performed using the d
 The two types of data processing operations each have different **requirements** that must be met in order to create a corresponding operation.
 
 - **Mathematical operations** require the presence of **two columns of numbers** in your table.
-- For the **relation operations**, you need very specific column types depending on the use case, e.g. an [employee column]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) and a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) when transferring user names.
+- For the **relation operations**, you need very specific column types depending on the use case, e.g. an [employee column]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) and a [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) when transferring user names.
 
 ## Execution notes
 

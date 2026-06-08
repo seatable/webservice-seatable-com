@@ -13,7 +13,7 @@ seo:
     description: 'Transfiera nombres de usuario entre columnas en SeaTable con procesamiento de datos: perfecto para informes, listas y automatización.'
 ---
 
-Mediante la función de tratamiento de datos, puede realizar diversas operaciones en una columna. La **transferencia de nombres de usuario** es una operación que permite copiar datos de columnas del tipo [Colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) o [Último modificador]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+Mediante la función de tratamiento de datos, puede realizar diversas operaciones en una columna. La **transferencia de nombres de usuario** es una operación que permite copiar datos de columnas del tipo [Colaborador]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) o [Último modificador]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 ## Puesta en marcha de la operación
 
@@ -36,7 +36,7 @@ La primera vez que se ejecuta con éxito, un pequeño **garrapata verde**.
 
 ## Ejecución de la operación
 
-Si, por ejemplo, mantiene una tabla con tareas pendientes en la que **los miembros de** su equipo están registrados como personas de contacto responsables en una [columna de personal]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), puede simplemente copiar los nombres de usuario en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), por ejemplo, para utilizarlos en una lista de personal.
+Si, por ejemplo, mantiene una tabla con tareas pendientes en la que **los miembros de** su equipo están registrados como personas de contacto responsables en una [columna de personal]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), puede simplemente copiar los nombres de usuario en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), por ejemplo, para utilizarlos en una lista de personal.
 
 Para ello, siga los pasos descritos anteriormente y seleccione la columna de personal como columna de **origen** y la columna de texto como columna de **resultado**.
 

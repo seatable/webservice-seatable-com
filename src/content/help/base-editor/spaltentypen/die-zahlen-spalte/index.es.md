@@ -17,7 +17,7 @@ En SeaTable puede utilizar la **columna numérica** de muchas formas para trabaj
 
 ## Área de aplicación de la columna numérica
 
-El uso de **columnas numéricas** le permite, por ejemplo, **calcular valores** con fórmulas y crear diagramas y estadísticas. Sin embargo, no es adecuado para guardar cadenas de cualquier longitud (por ejemplo, números de cuenta), ya que el redondeo se produce con más de 15 dígitos. En este caso, debe utilizar la [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+El uso de **columnas numéricas** le permite, por ejemplo, **calcular valores** con fórmulas y crear diagramas y estadísticas. Sin embargo, no es adecuado para guardar cadenas de cualquier longitud (por ejemplo, números de cuenta), ya que el redondeo se produce con más de 15 dígitos. En este caso, debe utilizar la [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 Además, SeaTable ofrece otras columnas que a veces se ajustan mejor a sus valores dados.
 

@@ -50,4 +50,4 @@ There are **different requirements for** creating a data processing operation de
 
 For mathematical calculations, i.e. for the operations **Calculate cumulative values**, Calculate **ranking**, Calculate **changes** and Calculate **percentage**, you need at least **two** [number columns]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}) in the selected table view. Usually, the **source column** already exists and is filled with data, whereas you create the **result column** and fill it with values through the operation.
 
-For the other operations you need partly [link columns]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})**(compare and link** & **compare and copy**) or [text columns]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})**(transfer user name**).
+For the other operations you need partly [link columns]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})**(compare and link** & **compare and copy**) or [text columns]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})**(transfer user name**).

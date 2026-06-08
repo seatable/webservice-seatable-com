@@ -18,7 +18,7 @@ Ao utilizar colunas de texto nas suas tabelas, tem a opção de validar entradas
 
 {{< warning  headline="Nota" >}}
 
-Basicamente, existem duas formas diferentes de validar entradas em colunas de texto. A validação pode ser efectuada tanto ao **adicionar uma nova** [coluna]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) **já criadas**.
+Basicamente, existem duas formas diferentes de validar entradas em colunas de texto. A validação pode ser efectuada tanto ao **adicionar uma nova** [coluna]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) **já criadas**.
 
 {{< /warning >}}
 

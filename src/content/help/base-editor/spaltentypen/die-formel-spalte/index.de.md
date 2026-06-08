@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Die Formel-Spalte in SeaTable effektiv nutzen'
     description: 'Mit der Formel-Spalte Werte in einer Zeile berechnen, Text zusammenfassen oder Funktionen flexibel nutzen – so geht’s!'
-
+weight: 17
 ---
 
 SeaTable bietet Ihnen viele verschiedene Funktionen, die Sie zu Ihrer Tabelle hinzufügen können. Eine davon ist die sogenannte **Formel-Spalte**. Mithilfe von Formeln können Sie Werte von unterschiedlichen Spalten verknüpfen und basierend auf den Datentypen dieser Spalten verschiedene Funktionen erstellen. Sie können unter anderem mit Werten in einer Zeile rechnen, sie zusammenführen oder miteinander in Beziehung setzen.

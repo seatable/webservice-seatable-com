@@ -173,7 +173,7 @@ Folgende **KI-Funktionen** können Sie mit einer Automation ausführen lassen:
 
 - **Zusammenfassen**: Fasst den Text aus einer oder mehreren Spalten zusammen. Sie können die Länge, den Ton, das Format und die Sprache der Zusammenfassung durch Anpassen des Prompts steuern.
 - **Klassifizieren**: Klassifiziert Datensätze aus einer oder mehreren Spalten. Sie können die Kategorien und die Regeln durch den Prompt anpassen. Das Ergebnis landet in einer [Einfachauswahl-]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) oder [Mehrfachauswahl-Spalte]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
-- **OCR**: Extrahiert Text aus einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Der erkannte Inhalt wird in die Ergebnisspalte vom Typ [Text oder Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) geschrieben.
+- **OCR**: Extrahiert Text aus einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Der erkannte Inhalt wird in die Ergebnisspalte vom Typ [Text oder Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) geschrieben.
 - **Extrahieren**: Extrahiert bestimmte Informationen aus einer Spalte vom Typ Text oder Zahl entsprechend Ihrer Anforderung. Die extrahierten Informationen werden in die Ergebnisspalten geschrieben.
 - **Benutzerdefiniert**: Erzeugt Inhalte basierend auf Ihrem Prompt. Verwenden Sie {Spaltennamen} in geschweiften Klammern, um den Spaltenwert einer Zeile einzufügen.
 
@@ -190,7 +190,7 @@ Ausführliche Anleitungen zu den einzelnen KI-Funktionen mit Schritt-für-Schrit
 Wenn Sie "Termine in Google Kalender verwalten" als automatisierte Aktion auswählen, wird bei Auslösung des Triggers ein Termin aus SeaTable in einem Google Kalender angelegt oder aktualisiert. Es gibt einige Voraussetzungen, die erfüllt sein müssen, damit diese Aktion reibungslos funktioniert:
 - Zuerst müssen Sie [Ihr Google Kalender Konto mit SeaTable synchronisieren]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
 - In einer Tabelle müssen zwei [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) existieren, die den **Start** und das **Ende** der Termine definieren.
-- Außerdem benötigen Sie eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), in die Google die **Event ID** schreiben kann, damit die Termine synchronisiert werden können.
+- Außerdem benötigen Sie eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), in die Google die **Event ID** schreiben kann, damit die Termine synchronisiert werden können.
 
 ![Voraussetzungen für die Verwaltung von Terminen in Google Calendar](images/manage-events-in-google-calendar-part-1.png)
 

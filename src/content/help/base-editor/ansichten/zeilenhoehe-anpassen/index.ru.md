@@ -14,7 +14,7 @@ seo:
 weight: 29
 ---
 
-По умолчанию SeaTable отображает все строки в табличных представлениях с компактной высотой строки, чтобы показать как можно больше записей. Однако при такой **простой высоте строки**, помимо прочего, обрезаются колонки [текста]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [ссылка]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) и [множественным выбором]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}), а также отображаются только маленькие **эскизы изображений**.
+По умолчанию SeaTable отображает все строки в табличных представлениях с компактной высотой строки, чтобы показать как можно больше записей. Однако при такой **простой высоте строки**, помимо прочего, обрезаются колонки [текста]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}), [ссылка]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) и [множественным выбором]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}), а также отображаются только маленькие **эскизы изображений**.
 
 ![Усеченное содержимое ячеек](images/small-row-height-cut-cells.png)
 

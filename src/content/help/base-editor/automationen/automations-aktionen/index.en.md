@@ -175,7 +175,7 @@ You can have the following **AI functions** executed with an automation:
 
 - **Summarize**: Summarizes the text from one or more columns. You can control the length, tone, format and language of the summary by customizing the prompt.
 - **Classify**: Classifies records from one or more columns. You can customize the categories and rules through the prompt. The result ends up in a [single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) or [multiple select column]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
-- **OCR**: Extracts text from an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). The recognized content is written to the result column of type [Text or Long text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+- **OCR**: Extracts text from an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). The recognized content is written to the result column of type [Text or Long text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}).
 - **Extract**: Extracts specific information from a column of type text or number according to your requirement. The extracted information is written to the result columns.
 - **Custom**: Generates content based on your prompt. Use {column name} in curly brackets to insert the column value of a row.
 
@@ -191,7 +191,7 @@ The "Run AI" automation action is currently available for the following **automa
 If you select "Manage events in Google Calendar" as an automated action, an appointment from SeaTable is created or updated in a Google calendar when the trigger is triggered. There are a few requirements that must be met for this action to work smoothly:
 - First, you must [synchronize your Google Calendar account with SeaTable.]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}})
 - [Two date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) must exist in a table, which define the **start** and **end** of the dates.
-- You also need a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) in which Google can write the **event ID** so that the appointments can be synchronized.
+- You also need a [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) in which Google can write the **event ID** so that the appointments can be synchronized.
 
 ![Requirements for managing events in Google Calendar](images/manage-events-in-google-calendar-part-1.png)
 

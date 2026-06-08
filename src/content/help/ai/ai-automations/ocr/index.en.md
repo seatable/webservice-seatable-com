@@ -21,7 +21,7 @@ The AI function **OCR** (Optical Character Recognition) recognizes text in image
 ## Prerequisites
 
 - A table with an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) or a [file column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) containing the images or documents to be recognized.
-- A [text column or formatted text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) for the recognized text.
+- A [text column or formatted text column]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) for the recognized text.
 
 ## Step-by-Step Guide
 

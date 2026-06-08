@@ -13,7 +13,7 @@ seo:
     description: 'See how to search for specific words in any SeaTable text column and auto-flag results or indicate “found/not found” using smart logical formulas and tips.'
 ---
 
-SeaTable formulas offer you several ways to work with the data in your tables. One possibility is to **search for words in a text**. By entering an appropriate formula you can automatically search a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) for any words and have a hint - e.g. "word found/not found" - written as a result in a formula column of your table.
+SeaTable formulas offer you several ways to work with the data in your tables. One possibility is to **search for words in a text**. By entering an appropriate formula you can automatically search a [text column]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) for any words and have a hint - e.g. "word found/not found" - written as a result in a formula column of your table.
 
 ## Search for a word in a text
 

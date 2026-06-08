@@ -52,7 +52,7 @@ You can create **several rules with different colors** per column.
 
 ![Multiple rules with different colors in one column](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-You can also define **several conditions** per rule, which can apply to all columns in the table. For example, color the [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) with the headline of an article if the **status** is not "finished", the **publication date** is in the future and an **image** is already available.
+You can also define **several conditions** per rule, which can apply to all columns in the table. For example, color the [text column]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) with the headline of an article if the **status** is not "finished", the **publication date** is in the future and an **image** is already available.
 
 ![Rule with multiple conditions for cell coloring](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

@@ -64,7 +64,7 @@ Default values can be defined for many, but not all, [column types in SeaTable](
 
 ## Referenced default values in text columns
 
-If you specify the reference **{creator.name}** or **{creator.id}** as the default value in a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), the **name** or **ID of the user** who added the row is automatically entered.
+If you specify the reference **{creator.name}** or **{creator.id}** as the default value in a [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), the **name** or **ID of the user** who added the row is automatically entered.
 
 ![Referencing the user name with a default value](images/Set-creator-name-as-default-value.png)
 

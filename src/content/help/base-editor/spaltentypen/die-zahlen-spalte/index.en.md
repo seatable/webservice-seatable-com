@@ -17,7 +17,7 @@ In SeaTable you can use the **Number column** in many ways to work with numbers 
 
 ## Application area of the number column
 
-The use of **number columns** allows you, for example, to **calculate values** with formulas and create clear **diagrams and statistics**. However, it is not suitable for saving strings of any length (e.g. account numbers), as rounding occurs with more than 15 digits. In this case, you should use the [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+The use of **number columns** allows you, for example, to **calculate values** with formulas and create clear **diagrams and statistics**. However, it is not suitable for saving strings of any length (e.g. account numbers), as rounding occurs with more than 15 digits. In this case, you should use the [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 In addition, SeaTable offers other column types that sometimes better match your specified values.
 

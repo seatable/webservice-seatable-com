@@ -9,6 +9,7 @@ url: '/de/hilfe/die-url-spalte'
 seo:
     title: 'URL-Spalte in SeaTable – Links und IP-Adressen einfügen'
     description: 'Mit der URL-Spalte in SeaTable können Sie Webseiten-Links, IP-Adressen und Netzwerkressourcen einfügen und mit einem Klick direkt öffnen. Anleitung hier.'
+weight: 13
 ---
 
 **URL-Spalten** interpretieren die eingegebene Information als eine Ressource im Internet oder im lokalen Netzwerk und erlauben Ihnen **Links** direkt per Klick aufzurufen. SeaTable ergänzt automatisch http(s):// als Präfix der URL, wenn Sie dieses nicht erfasst haben.

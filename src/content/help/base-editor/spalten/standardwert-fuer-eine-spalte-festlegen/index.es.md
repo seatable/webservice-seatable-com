@@ -64,7 +64,7 @@ Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de 
 
 ## Valores por defecto referenciados en columnas de texto
 
-Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
+Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
 
 ![Referenciar el nombre de usuario con un valor por defecto](images/Set-creator-name-as-default-value.png)
 

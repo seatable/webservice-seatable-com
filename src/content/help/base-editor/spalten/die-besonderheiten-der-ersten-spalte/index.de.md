@@ -20,7 +20,7 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht löschen**.
 - Im Gegensatz zu den anderen Spalten können Sie die erste Spalte aber individuell **fixieren**.
 - Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
-  - [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Text]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
   - [Zahl]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
   - [Datum]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
   - [Einfachauswahl]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})

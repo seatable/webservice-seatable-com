@@ -21,7 +21,7 @@ seo:
 ## Предварительные условия
 
 - Таблица со [столбцом изображений]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) или [столбцом файлов]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), содержащим изображения или документы для распознавания.
-- [Текстовый столбец или столбец форматированного текста]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) для распознанного текста.
+- [Текстовый столбец или столбец форматированного текста]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) для распознанного текста.
 
 ## Пошаговая инструкция
 

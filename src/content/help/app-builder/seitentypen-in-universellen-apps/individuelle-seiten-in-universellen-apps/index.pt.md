@@ -55,7 +55,7 @@ Os elementos de texto são particularmente adequados para **títulos** ou **text
 
 ### Texto formatado
 
-Como o nome sugere, pode utilizar elementos de texto formatado para **formatar textos mais longos**. Isto abre o editor de texto que já conhece do tipo de coluna [Texto formatado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+Como o nome sugere, pode utilizar elementos de texto formatado para **formatar textos mais longos**. Isto abre o editor de texto que já conhece do tipo de coluna [Texto formatado]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}).
 
 ![Textos formatados em páginas personalizadas](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 

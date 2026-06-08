@@ -32,7 +32,7 @@ Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie
 
 Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 26 Spaltentypen**. Diese sind:
 
-- [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- [Text]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 - [Zahl]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
 - [Datum]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Einfachauswahl]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
@@ -41,4 +41,4 @@ Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 26 Spaltentypen**
 
 ## Warnung vor Datenverlust
 
-Die **Konvertierung** von bestimmten Spaltentypen führt in der Regel zu unerwünschtem **Datenverlust**. Dies ist beispielsweise bei [Datei-]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) der Fall oder wenn Sie [Textspalten]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) in numerische Spalten umwandeln. SeaTable blendet Ihnen in diesen Fällen die **Warnmeldung** ein, ob Sie den Spaltentyp wirklich ändern möchten.
+Die **Konvertierung** von bestimmten Spaltentypen führt in der Regel zu unerwünschtem **Datenverlust**. Dies ist beispielsweise der Fall, wenn Sie [Textspalten]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) in numerische Spalten umwandeln. SeaTable blendet Ihnen in diesen Fällen die **Warnmeldung** ein, ob Sie den Spaltentyp wirklich ändern möchten.

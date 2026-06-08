@@ -12,7 +12,7 @@ seo:
 weight: 29
 ---
 
-Standardmäßig zeigt SeaTable in Tabellenansichten sämtliche Zeilen mit einer kompakten Zeilenhöhe an, um möglichst viele Datensätze darzustellen. Bei dieser **einfachen Zeilenhöhe** werden aber unter anderem [Text-]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [Link-]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) und [Mehrfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) abgeschnitten und von Bildern nur kleine **Miniaturansichten** angezeigt.
+Standardmäßig zeigt SeaTable in Tabellenansichten sämtliche Zeilen mit einer kompakten Zeilenhöhe an, um möglichst viele Datensätze darzustellen. Bei dieser **einfachen Zeilenhöhe** werden aber unter anderem [Text-]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}), [Link-]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) und [Mehrfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) abgeschnitten und von Bildern nur kleine **Miniaturansichten** angezeigt.
 
 ![Abgeschnittene Zelleninhalte](images/small-row-height-cut-cells.png)
 

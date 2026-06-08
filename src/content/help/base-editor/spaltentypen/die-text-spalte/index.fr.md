@@ -18,7 +18,7 @@ Lorsque vous utilisez des colonnes de texte dans vos tableaux, vous avez la poss
 
 {{< warning  headline="Remarque" >}}
 
-En principe, vous disposez de deux méthodes différentes pour valider les entrées dans les colonnes de texte. Une validation peut être effectuée au cours de l'**ajout d'une nouvelle** [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) **déjà créées**.
+En principe, vous disposez de deux méthodes différentes pour valider les entrées dans les colonnes de texte. Une validation peut être effectuée au cours de l'**ajout d'une nouvelle** [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) **déjà créées**.
 
 {{< /warning >}}
 

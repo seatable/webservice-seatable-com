@@ -15,6 +15,7 @@ aliases:
 seo:
     title: 'Die Einfachauswahl-Spalte in SeaTable: Optionen, Farben & Kaskadierung'
     description: 'Einfachauswahl-Spalte in SeaTable: Optionen anlegen, Farben anpassen, Kaskadierung nutzen und Abhängigkeiten logisch definieren.'
+weight: 7
 ---
 
 Eine Einfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen **genau eine Option** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte **Labels**, mit denen Sie Ihre Datensätze in **Kategorien** einordnen und Tabellen übersichtlich gestalten können.

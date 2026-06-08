@@ -94,11 +94,11 @@ On table pages where different users can make new entries in a base, it is easy 
 
 ## Format check for new entries
 
-You can activate another **slider** to [validate entries in text columns]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}). As soon as the **format check** is switched on, the row details always open when someone wants to add a new entry to the table page - and this is only possible if the entries correspond to the defined format. An **error message** appears for entries with a different format.
+You can activate another **slider** to [validate entries in text columns]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). As soon as the **format check** is switched on, the row details always open when someone wants to add a new entry to the table page - and this is only possible if the entries correspond to the defined format. An **error message** appears for entries with a different format.
 
 ![Format check on table page](images/Format-check-on-table-page.png)
 
-For example, you can minimize **typing errors** for clearly defined character strings such as zip codes or account numbers. You define the [regular expressions]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) for validating the entries when you create a text column in the base.
+For example, you can minimize **typing errors** for clearly defined character strings such as zip codes or account numbers. You define the [regular expressions]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) for validating the entries when you create a text column in the base.
 
 ## Show cell formatting
 

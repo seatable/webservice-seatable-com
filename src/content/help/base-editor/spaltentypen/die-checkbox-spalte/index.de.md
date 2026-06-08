@@ -9,6 +9,7 @@ url: '/de/hilfe/die-checkbox-spalte'
 seo:
     title: 'Die Checkbox-Spalte in SeaTable: Aufgaben markieren, filtern und gestalten'
     description: 'Lernen Sie, wie Sie Checkbox‑Spalten in SeaTable anlegen, Aufgaben abhaken und alle Ja/Nein‑Bedingungen filtern, sortieren und gruppieren.'
+weight: 14
 ---
 
 In SeaTable haben Sie die Möglichkeit, Ihren Tabellen **Checkbox-Spalten** hinzuzufügen. Diese eignen sich beispielsweise gut, um Aufgaben als erledigt zu markieren – also für den Überblick, ob Zeilen eine bestimmte **Ja/Nein-Bedingung** erfüllen. Daher können Sie Checkbox-Spalten hervorragend zum [Filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [Sortieren]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) oder [Gruppieren]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) nutzen.

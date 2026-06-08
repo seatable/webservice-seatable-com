@@ -64,7 +64,7 @@ Les valeurs par défaut peuvent être définies pour de nombreux [types de colon
 
 ## Valeurs par défaut référencées dans les colonnes de texte
 
-Si vous définissez comme valeur par défaut dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) la référence **{creator.name}** ou **{creator.id}**, le **nom** ou l'**ID de l'utilisateur** qui a ajouté la ligne sera automatiquement inscrit.
+Si vous définissez comme valeur par défaut dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) la référence **{creator.name}** ou **{creator.id}**, le **nom** ou l'**ID de l'utilisateur** qui a ajouté la ligne sera automatiquement inscrit.
 
 ![Référencer le nom d'utilisateur avec une valeur par défaut](images/Set-creator-name-as-default-value.png)
 

@@ -33,7 +33,7 @@ Symbole : {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Texte**
 
 Ce type de colonne stocke **du texte** sans mise en forme et fait partie des types de colonnes les plus basiques de SeaTable. Le contenu textuel est composé de **lettres**, de **chiffres**, de **caractères spéciaux** et **d'espaces**. C'est pourquoi les colonnes de texte sont souvent utilisées pour les noms et les (courtes) descriptions.
 
-[En savoir plus sur la colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[En savoir plus sur la colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 
 ### Texte mis en forme
 
@@ -41,7 +41,7 @@ Symbole : {{< seatable-icon icon="dtable-icon-long-text" >}} **Texte mis en form
 
 Dans ce type de colonne, vous pouvez enregistrer **des textes plus longs** avec des éléments insérés, tels que **des images** et **des tableaux**. Pour vos textes, vous disposez en outre de diverses options de formatage et de structuration à l'aide du langage de balisage Markdown. C'est pourquoi la colonne _Texte mis en forme_ est souvent utilisée pour les descriptions et la documentation. S'il est utile pour la saisie d'informations que les textes contiennent des éléments structurants et/ou que le texte et les images soient proches les uns des autres, ce type de colonne est alors idéal.
 
-[En savoir plus sur la colonne Texte mis en forme]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[En savoir plus sur la colonne Texte mis en forme]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}})
 
 ### Nombre
 

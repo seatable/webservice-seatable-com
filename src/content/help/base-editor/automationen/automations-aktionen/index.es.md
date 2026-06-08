@@ -175,7 +175,7 @@ Puede hacer que se ejecuten las siguientes **funciones de IA** con una automatiz
 
 - **Resumir**: Resume el texto de una o varias columnas. Puede controlar la longitud, el tono, el formato y el idioma del resumen personalizando la indicación.
 - **Clasificar**: Clasifica los registros a partir de una o varias columnas. Puede personalizar las categorías y las reglas mediante el prompt. El resultado termina en una columna de [selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) o de [selección múltiple]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
-- **OCR**: Extrae texto de una [columna de imagenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). El contenido reconocido se escribe en la columna resultante de tipo [Texto o Texto formateado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+- **OCR**: Extrae texto de una [columna de imagenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). El contenido reconocido se escribe en la columna resultante de tipo [Texto o Texto formateado]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}).
 - **Extraer**: Extrae información específica de una columna de tipo texto o número según sus necesidades. La información extraída se escribe en las columnas resultantes.
 - **Personalizar**: Genera contenido basado en su requerimiento. Utilice {nombre de columna} entre llaves para insertar el valor de la columna de una fila.
 
@@ -191,7 +191,7 @@ La acción de automatización "Llamar a la IA" está disponible actualmente para
 Si selecciona "Gestionar citas en Google Calendar" como acción automatizada, se creará o actualizará una cita de SeaTable en un calendario de Google cuando se active el disparador. Hay algunos requisitos que deben cumplirse para que esta acción funcione sin problemas:
 - En primer lugar, debe [sincronizar su cuenta de Google Calendar con SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
 - Deben existir dos [columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en una tabla, que definan el **inicio** y el **final** de las fechas.
-- También necesita una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) en la que Google pueda escribir el **identificador del evento** para poder sincronizar las citas.
+- También necesita una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) en la que Google pueda escribir el **identificador del evento** para poder sincronizar las citas.
 
 ![Requisitos para gestionar eventos en Google Calendar](images/manage-events-in-google-calendar-part-1.png)
 

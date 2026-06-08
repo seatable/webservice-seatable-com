@@ -13,7 +13,7 @@ seo:
     description: 'Передавайте имена пользователей из отдельных или системных столбцов в текстовые — для списков, фильтров и автоматизации.'
 ---
 
-Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. **Перенос имен пользователей** – это операция, которая может копировать данные из столбцов типа [Сотрудник]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Создатель]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) или [Последний редактор]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) в [текстовый столбец]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. **Перенос имен пользователей** – это операция, которая может копировать данные из столбцов типа [Сотрудник]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Создатель]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) или [Последний редактор]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) в [текстовый столбец]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 ## Проведение операции
 
@@ -36,7 +36,7 @@ seo:
 
 ## Выполнение операции
 
-Если, например, вы ведете таблицу с заданиями, в которой **члены** вашей **команды** записаны в качестве ответственных контактных лиц в [столбце сотрудников]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), вы можете просто скопировать имена пользователей в [текстовый столбец]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), например, чтобы использовать их для списка сотрудников.
+Если, например, вы ведете таблицу с заданиями, в которой **члены** вашей **команды** записаны в качестве ответственных контактных лиц в [столбце сотрудников]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), вы можете просто скопировать имена пользователей в [текстовый столбец]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), например, чтобы использовать их для списка сотрудников.
 
 Для этого выполните описанные выше действия и выберите столбец сотрудников в качестве **столбца-источника**, а столбец текста - в качестве **столбца-результата**.
 

@@ -49,7 +49,7 @@ Sie können pro Spalte **mehrere Regeln mit unterschiedlichen Farben** anlegen.
 
 ![Mehrere Regeln mit unterschiedlichen Farben in einer Spalte](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
+Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
 
 ![Regel mit mehreren Bedingungen zur Zellfärbung](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

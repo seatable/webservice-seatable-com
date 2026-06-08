@@ -77,6 +77,6 @@ Hemos introducido los cambios más importantes en la interfaz de usuario de los 
 
 ## Dos nuevos límites
 
-Como se anunció en [las últimas Notas de la Versión]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}), SeaTable 3.5 introduce un límite de 100.000 caracteres para celdas individuales del tipo [Texto Formateado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). Si el texto de una celda supera los 100.000 caracteres (lo que corresponde a unas 25 páginas A4 de texto), aparecerá un mensaje de advertencia. Si no acorta el texto y cierra el editor, SeaTable sólo guardará 100.000 caracteres.
+Como se anunció en [las últimas Notas de la Versión]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}), SeaTable 3.5 introduce un límite de 100.000 caracteres para celdas individuales del tipo [Texto Formateado]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}). Si el texto de una celda supera los 100.000 caracteres (lo que corresponde a unas 25 páginas A4 de texto), aparecerá un mensaje de advertencia. Si no acorta el texto y cierra el editor, SeaTable sólo guardará 100.000 caracteres.
 
 Con la versión 3.5, hemos reducido el número máximo de líneas devueltas en una llamada API de 10.000 a 1.000 para SeaTable Cloud. Por favor, compruebe si esto provoca la necesidad de realizar ajustes en sus integraciones.

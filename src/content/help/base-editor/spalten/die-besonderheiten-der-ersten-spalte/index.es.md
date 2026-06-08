@@ -22,7 +22,7 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 - A diferencia de las demás columnas, **no puede eliminar** la primera columna de una tabla.
 - Sin embargo, a diferencia de las demás columnas, la primera puede **fijarse** individualmente.
 - Para la **primera** columna, sólo hay **seis tipos de columna** entre los que elegir:
-  - [Texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
   - [Número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
   - [Fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
   - [Selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})

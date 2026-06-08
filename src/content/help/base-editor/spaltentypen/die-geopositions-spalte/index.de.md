@@ -9,6 +9,7 @@ url: '/de/hilfe/die-geopositions-spalte'
 seo:
     title: 'Geopositions-Spalte in SeaTable – Standorte und Koordinaten'
     description: 'Mit der Geopositions-Spalte erfassen Sie Längen- und Breitengrade sowie Länder/Regionen in SeaTable – für präzise, ortsbasierte Dateneingabe.'
+weight: 19
 ---
 
 Mithilfe der Geopositions-Spalte können Sie die Längen- und Breitengrade eines beliebigen Standorts in Ihren Tabellen erheben. Zusätzlich haben Sie die Möglichkeit, ein Land bzw. eine Region mithilfe der Suchfunktion zu finden und als Eintrag hinzuzufügen.

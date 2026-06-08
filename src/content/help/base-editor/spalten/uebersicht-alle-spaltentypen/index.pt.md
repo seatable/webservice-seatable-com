@@ -33,7 +33,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Texto**
 
 Este tipo de coluna armazena **texto** sem formatação e é um dos tipos de coluna mais básicos do SeaTable. O conteúdo do texto é constituído por **letras**, **números** e **caracteres especiais**, bem como **espaços**. Por isso, as colunas de texto são frequentemente utilizadas para nomes e descrições (curtas).
 
-[Mais informações sobre a coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[Mais informações sobre a coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 
 ### Texto longo
 
@@ -41,7 +41,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-long-text" >}} **Texto longo**
 
 Neste tipo de coluna, pode guardar **textos mais longos** com elementos inseridos, como **imagens** e **tabelas**. Estão também disponíveis várias opções de formatação e estruturação para os seus textos utilizando a linguagem de marcação Markdown. Por conseguinte, a coluna _Texto longo_ é frequentemente utilizada para descrições e documentação. Se for útil para a recolha de informações que os textos contenham elementos estruturantes e/ou que o texto e as imagens estejam próximos uns dos outros, então este tipo de coluna é ideal.
 
-[Mais informações sobre a coluna Texto longo]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[Mais informações sobre a coluna Texto longo]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}})
 
 ### Número
 

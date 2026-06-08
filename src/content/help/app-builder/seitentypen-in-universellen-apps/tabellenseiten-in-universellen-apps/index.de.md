@@ -93,11 +93,11 @@ Auf Tabellenseiten, über die verschiedene Benutzer neue Einträge in einer Base
 
 ## Formatprüfung bei neuen Einträgen
 
-Sie können einen weiteren **Regler** aktivieren, um [Eingaben in Text-Spalten zu validieren]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}). Sobald die **Formatprüfung** eingeschaltet ist, öffnen sich immer die Zeilendetails, wenn jemand einen neuen Eintrag auf der Tabellenseite hinzufügen möchte – und dies ist nur möglich, sofern die Einträge dem definierten Format entsprechen. Bei Einträgen mit einem abweichenden Format erscheint eine **Fehlermeldung**.
+Sie können einen weiteren **Regler** aktivieren, um [Eingaben in Text-Spalten zu validieren]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). Sobald die **Formatprüfung** eingeschaltet ist, öffnen sich immer die Zeilendetails, wenn jemand einen neuen Eintrag auf der Tabellenseite hinzufügen möchte – und dies ist nur möglich, sofern die Einträge dem definierten Format entsprechen. Bei Einträgen mit einem abweichenden Format erscheint eine **Fehlermeldung**.
 
 ![Format check on table page](images/Format-check-on-table-page.png)
 
-So können Sie zum Beispiel **Tippfehler** bei klar umrissenen Zeichenfolgen wie Postleitzahlen oder Kontonummern minimieren. Die [regulären Ausdrücke]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) zum Validieren der Eingaben legen Sie bereits beim Erstellen einer Text-Spalte in der Base fest.
+So können Sie zum Beispiel **Tippfehler** bei klar umrissenen Zeichenfolgen wie Postleitzahlen oder Kontonummern minimieren. Die [regulären Ausdrücke]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) zum Validieren der Eingaben legen Sie bereits beim Erstellen einer Text-Spalte in der Base fest.
 
 ## Zellformatierung anzeigen
 

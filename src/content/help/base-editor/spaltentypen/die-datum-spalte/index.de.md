@@ -9,7 +9,7 @@ url: '/de/hilfe/die-datum-spalte'
 seo:
     title: 'Die Datum-Spalte in SeaTable: alle Einstellungen erklärt'
     description: 'Erfassen und formatieren Sie Zeitpunkte in SeaTable-Datumsspalten: Kalender, Standardwerte, flexibles Datumsformat, Tages- und Minuten-Genauigkeit, Tipps und Screenshots.'
-
+weight: 5
 ---
 
 Mithilfe der Datum-Spalte können Sie **Zeitpunkte** und **Termine** bis auf die Minute genau in Ihren Tabellen erfassen. Nutzen Sie einfach den eingeblendeten Kalender oder Ihre Tastatur, um ein Datum manuell einzugeben. Beachten Sie dabei, dass SeaTable keine anderen Dateninputs in einer Datum-Spalte akzeptiert.

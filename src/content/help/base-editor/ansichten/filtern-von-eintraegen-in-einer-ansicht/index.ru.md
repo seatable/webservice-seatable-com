@@ -37,7 +37,7 @@ SeaTable поддерживает фильтрацию по всем [типам
 
 ### Вот несколько примеров
 
-У вас есть эти варианты условий с [Текстовая колонка]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}): 
+У вас есть эти варианты условий с [Текстовая колонка]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}): 
 
 ![Фильтр текстового столбца](images/filtern-von-eintraegen-5.png)
 

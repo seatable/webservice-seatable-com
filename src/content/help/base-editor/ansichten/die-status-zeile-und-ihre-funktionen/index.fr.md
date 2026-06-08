@@ -64,4 +64,4 @@ Pour les types de colonnes suivants, la barre d'état ne donne **pas** de valeur
 - [Colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Date de création]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) y [Date de dernière modification]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Numéro automatique]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
-- Chiffres dans [les colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- Chiffres dans [les colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})

@@ -14,7 +14,7 @@ seo:
 weight: 29
 ---
 
-Par défaut, SeaTable affiche toutes les lignes dans les vues de tableau avec une hauteur de ligne compacte afin d'afficher le plus grand nombre possible d'enregistrements. Or, cette **hauteur de ligne simple** a pour effet, entre autres, de tronquer les colonnes de [texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), de [lien]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})  et [de sélections multiples]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}), et de n'afficher que de **miniatures des images**.
+Par défaut, SeaTable affiche toutes les lignes dans les vues de tableau avec une hauteur de ligne compacte afin d'afficher le plus grand nombre possible d'enregistrements. Or, cette **hauteur de ligne simple** a pour effet, entre autres, de tronquer les colonnes de [texte]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}), de [lien]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})  et [de sélections multiples]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}), et de n'afficher que de **miniatures des images**.
 
 ![Contenu de cellule tronqué](images/small-row-height-cut-cells.png)
 
