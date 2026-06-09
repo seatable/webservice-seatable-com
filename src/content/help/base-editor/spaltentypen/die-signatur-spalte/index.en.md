@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Signature column: store digital signatures in SeaTable'
     description: 'Use the signature column in SeaTable to capture digital signatures and manage them as PNG files directly in the base file manager.'
-
+weight: 26
 ---
 
 You can store a digital signature in a **signature column**, which is saved as a PNG file in the base file manager.

@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columna URL SeaTable – agrega enlaces e IPs rápidamente'
     description: 'Agrega enlaces web o IP fácilmente en la columna URL de SeaTable. Acceso directo por clic, configuración automática y guía de uso paso a paso.'
+weight: 13
 ---
 
 **Las columnas URL** interpretan la información introducida como un recurso de Internet o de la red local y permiten llamar directamente a **los enlaces** haciendo clic. SeaTable añade automáticamente http(s):// como prefijo a la URL si no lo ha introducido.

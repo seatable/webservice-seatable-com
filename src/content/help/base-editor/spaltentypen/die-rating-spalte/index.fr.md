@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne de notation SeaTable : explications & astuces'
     description: 'Utilisez la colonne de notation pour évaluer vos tableaux avec symboles, échelles de 1 à 10 et valeur par défaut. Idéal pour classements et avis.'
-
+weight: 15
 ---
 
 La colonne Classement permet de **classer** vos enregistrements afin d'établir un **ordre** ou une **évaluation de la qualité**. Lors de la création de la colonne, vous pouvez définir des paramètres spécifiques concernant l'apparence et le nombre maximal de **symboles de classement** autorisés.

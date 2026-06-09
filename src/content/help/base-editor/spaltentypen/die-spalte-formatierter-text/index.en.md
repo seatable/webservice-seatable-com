@@ -1,69 +1,57 @@
 ---
-title: 'The Text and Formatted Text columns'
+title: 'The Long Text column'
 date: 2023-02-21
 lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
-author: 'nsc2'
-url: '/help/text-formatted-text-columns-seatable'
+author: 'kgr'
+url: '/help/long-text-column'
 aliases:
     - '/help/die-spalten-text-und-formatierter-text'
+    - '/help/text-formatted-text-columns-seatable'
 seo:
-    title: 'Text vs formatted text columns in SeaTable'
-    description: 'Use text columns for short entries, formatted text columns for longer, structured data with markdown and more formatting.'
-
+    title: 'The Long Text column in SeaTable'
+    description: 'Use the Long Text column to capture structured texts of any length with line breaks, lists, tables and images, and set a default value.'
+weight: 2
 ---
 
-For capturing **strings** and **texts of** any kind, SeaTable provides you with two different column types: **Text** and **Formatted Text**. But what exactly is the difference between the two column types? And in which cases does it make sense to use the formatted text column?
+For **capturing structured texts of any length**, SeaTable provides the *Long Text* column type. In this article, learn what the differences to the text column are and in which cases it makes sense to use the Long text column.
 
-## The text column
+## Using the Long Text column
 
-The text column is one of the most basic **column types** in SeaTable and is also displayed first in the column type selection menu.
+In contrast to the text column, the **Long Text** column type does not capture unstructured strings, but Long texts with line breaks, lists, images, etc.
 
-![The regular text column](images/select-regular-text-column.png)
+![The Long Text column](images/formatted-text-column.png)
 
-In addition, SeaTable automatically adds a **text column** as the first column to each newly created table.
+Long text columns are particularly suitable for holding **longer texts**, for example product descriptions, checklists or social media posts.
 
-![The "regular" text column ](images/text-column-new.png)
-
-The **first column of** a table has several [peculiarities]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}), as you can read in the linked article.
-
-### Using the text column
-
-The text column is particularly suitable for collecting short entries, such as **terms**, **names**, **words** or other **character strings** that do not have a calculable numerical value, e.g. addresses and telephone numbers.
-
-![Application example of the regular text column](images/regular-text-example.png)
-
-When using the column, it makes sense to keep the entries **short**, since only a **limited number of characters** can be displayed without having to increase the column width.
-
-![Entries that are too long cannot be displayed in their entirety in a text column without increasing the column width](images/use-short-entries.png)
-
-{{< warning  headline="Important note"  text="Please note that **no formatting options** are available for entries in the regular text column." />}}
-
-There are two other text-based column types in SeaTable for special use cases: the [email column]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) and the [URL column]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}).
-
-### Set default value
-
-You can define a preset [default value]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) for each text column. This is automatically entered in every new row of the table.
-
-If you set the **{creator.name}** or **{creator.id}** reference as the default value, the **name** or **ID of the user** who added the row is automatically entered.
-
-![Referencing the user name with a default value](images/Set-creator-name-as-default-value.png)
-
-## The Formatted Text column
-
-The **Formatted Text** column type is one of the more specific column types and is displayed second when you select the column type.
-
-![The Formatted Text column](images/formatted-text-column.png)
-
-### Using the Formatted Text column
-
-Formatted text columns are particularly suitable for holding **longer texts**, for example product descriptions, checklists or social media posts.
+{{< warning  headline="UTF-8"  text="SeaTable supports all characters according to the UTF-8 standard, since UTF-8 is the most widely used character encoding for the internet worldwide." />}}
 
 You do **not** write your entries directly in the cell, but in an **editor** that can be called up with a click, which offers various **formatting options**. In contrast to the text column, you can also structure longer texts.
 
-![Application example of a formatted text column](images/long-text-example.png)
+![Application example of a Long text column](images/long-text-example.png)
 
 Among other things, you can choose a **paragraph format**, italicize or bold the **font**, and insert **links**, **quotes**, **lists**, **tables**, and **images**.
 
-{{< warning  headline="Character limit"  text="A limit of 100,000 characters applies to individual cells of the Formatted Text type. This corresponds to approximately 25 A4 pages of text. The character limit should therefore only have an effect on your work in exceptional cases." />}}
+{{< warning  type="warning" headline="Character limit"  text="A limit of 100,000 characters applies to individual cells of the Long Text type. This corresponds to approximately 25 A4 pages of text. The character limit should therefore only have an effect on your work in exceptional cases." />}}
+
+## Other text-based column types
+
+If you want to capture **short strings without formatting** (e.g. names, passwords, license plates), you should use the [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
+
+In addition to the Long text column, there are three other text-based column types in SeaTable for special use cases:
+- the [email column]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}})
+- the [URL column]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}})
+- the [phone number column]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
+
+## Set default value
+
+You can define a preset [default value]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) for each Long text column. This text is automatically entered into the cell of every newly created row.
+
+1. Click on the **drop-down arrow** to the right of the column name.
+2. Go to **Set default value**.
+3. When you click on **Edit text**, the editor opens, where you can write the text that is to serve as the default value.
+
+## Limitations with filters, sorting and grouping
+
+It is not possible to sort or group the entries in a table by Long text columns. With filters, you only have the options "is empty" and "is not empty" available.

@@ -9,7 +9,7 @@ url: '/help/the-phone-number-column'
 seo:
     title: 'The phone number column type in SeaTable'
     description: 'Use this column type to validate telephone numbers and start calls with a mouse click.'
-
+weight: 16
 ---
 
 There is a separate column type in SeaTable for entering **phone numbers**. Compared to a normal text column, the phone number column offers the advantage that you can **call a phone number** with a mouse click.

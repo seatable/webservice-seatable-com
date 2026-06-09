@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columna numérica en SeaTable – formatos y opciones'
     description: 'Aprende a usar columnas numéricas en SeaTable para sumas, porcentajes y monedas. Ajustes, validación y consejos prácticos.'
+weight: 3
 ---
 
 En SeaTable puede utilizar la **columna numérica** de muchas formas para trabajar con números de cualquier tipo (por ejemplo, número de artículos, porcentajes o precios en distintas monedas).
@@ -19,10 +20,13 @@ En SeaTable puede utilizar la **columna numérica** de muchas formas para trabaj
 
 El uso de **columnas numéricas** le permite, por ejemplo, **calcular valores** con fórmulas y crear diagramas y estadísticas. Sin embargo, no es adecuado para guardar cadenas de cualquier longitud (por ejemplo, números de cuenta), ya que el redondeo se produce con más de 15 dígitos. En este caso, debe utilizar la [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
-Además, SeaTable ofrece otras columnas que a veces se ajustan mejor a sus valores dados.
+Además, SeaTable ofrece otras columnas que a veces se ajustan mejor a los valores que se van a almacenar:
 
 - Duración y periodos = [columna de duración]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
 - Fecha y hora = [columna de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- Puntuaciones = [columna de calificación]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Números de serie = [Autonumeración]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Números de teléfono = [columna del número de teléfono]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 - Geoinformación = [columna de geolocalización]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}})
 
 ## Añadir una columna numérica

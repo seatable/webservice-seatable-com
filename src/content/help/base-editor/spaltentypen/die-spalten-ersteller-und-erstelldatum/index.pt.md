@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colunas “criador” e “criado” no SeaTable: log automático e histórico detalhado'
     description: 'SeaTable usa "Criador" e "Criado" para registrar automaticamente usuários e datas. Ambas as colunas não podem ser editadas manualmente.'
+weight: 21
 ---
 
 As colunas **Criador** e **Tempo criado** são exclusivamente preenchidas **automaticamente** pelo SeaTable e, portanto, representam tipos de colunas especiais. Enquanto o SeaTable preenche a coluna Criador com o **nome do utilizador** que criou uma linha, a coluna Tempo criado regista a **data e hora** em que o utilizador criou a linha.

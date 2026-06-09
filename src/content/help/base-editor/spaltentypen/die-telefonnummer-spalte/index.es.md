@@ -9,7 +9,7 @@ url: '/es/ayuda/columna-del-numero-de-telefono'
 seo:
     title: 'El tipo de columna del número de teléfono en SeaTable'
     description: 'Utilice este tipo de columna para validar números de teléfono e iniciar llamadas con un simple clic del ratón.'
-
+weight: 16
 ---
 
 Existe un tipo de columna independiente en SeaTable para introducir **números de teléfono**. En comparación con una columna de texto normal, la columna de números de teléfono ofrece la ventaja de que puede **llamar a un número de teléfono** con un clic del ratón.

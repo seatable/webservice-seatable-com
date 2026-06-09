@@ -16,6 +16,7 @@ aliases:
 seo:
     title: 'SeaTable Single-Select Column: Options, Colors, Cascading and Default Values'
     description: 'SeaTable Single Select Column: Create options, customize colors, use cascading and define logical dependencies.'
+weight: 7
 ---
 
 A single select column is ideal if you want to assign **exactly one option** from a list of options to be defined to your rows. The options are given colorful **labels**, which you can use to group your data records into **categories** and clearly arrange tables.

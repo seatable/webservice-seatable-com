@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Image column: Manage photos in your SeaTable tables'
     description: 'SeaTable Image Column: Upload, manage and preview images. Add via upload, URL, drag-and-drop and file manager.'
-
+weight: 9
 ---
 
 With the help of an **image column** you can upload, save and manage new images in your tables with just a few clicks.

@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Чекбокс-столбец в SeaTable: отмечайте задачи, сортируйте и настраивайте стиль'
     description: 'Узнайте, как создавать в SeaTable столбцы с флажками, отмечать задачи и фильтровать, сортировать и группировать все условия да/нет.'
+weight: 14
 ---
 
 В SeaTable есть возможность добавлять в таблицы **столбцы с флажками**. Они идеально подходят, например, для пометки задач как выполненных - т.е. для обзора выполнения строк по определенному **условию "да/нет"**. Таким образом, столбцы с флажками можно использовать для [фильтрации]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [сортировки]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) и [группировки]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

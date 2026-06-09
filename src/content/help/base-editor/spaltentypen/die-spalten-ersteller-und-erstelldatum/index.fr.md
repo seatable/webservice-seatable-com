@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colonnes «réateur» et «créé» dans SeaTable : historisation automatique'
     description: 'SeaTable utilise "Créateur" et "Créé" pour consigner automatiquement utilisateurs et horodatages. Ces colonnes sont non modifiables.'
+weight: 21
 ---
 
 Les colonnes **Créateur** et **Date de création** sont exclusivement remplies **automatiquement** par SeaTable et constituent donc des types de colonnes particuliers. Alors que SeaTable remplit la colonne Créateur avec le **nom de l'utilisateur** qui a créé une ligne, il enregistre dans la colonne Date de création le **moment** (date et heure) où l'utilisateur a créé la ligne.

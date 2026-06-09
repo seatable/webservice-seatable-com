@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Coluna número automático SeaTable – guia completo'
     description: 'Saiba como numerar registros automaticamente no SeaTable: formatos, reinício de contagem, dicas para evitar falhas ou valores repetidos.'
+weight: 24
 ---
 
 O tipo de coluna **Número Automático** gera um número automaticamente crescente para cada nova linha. Este tipo de coluna é utilizado sempre que se necessita de um identificador único para cada registo.

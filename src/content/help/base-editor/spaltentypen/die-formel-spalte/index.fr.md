@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'Colonne de formule SeaTable : fonctions et astuces'
     description: 'Utilisez la colonne de formule SeaTable pour calculs, texte ou logiques : tout savoir sur les opérations dans chaque ligne.'
-
+weight: 17
 ---
 
 SeaTable offre de nombreuses fonctions différentes que vous pouvez ajouter à votre tableau. L'une d'entre elles est la **colonne des formules**. Les formules vous permettent de combiner les valeurs de différentes colonnes et de créer différentes fonctions basées sur les types de données de ces colonnes. Vous pouvez, entre autres, calculer, fusionner ou mettre en relation les valeurs d'une ligne.

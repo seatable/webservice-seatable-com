@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'The Checkbox Column in SeaTable: Mark Tasks, Filter and Customize Styles'
     description: 'Learn how to create checkbox columns in SeaTable, tick off tasks and filter, sort and group all yes/no conditions.'
+weight: 14
 ---
 
 In SeaTable, you have the option of adding **checkbox columns** to your tables. These are ideal for marking tasks as completed, for example - i.e. for an overview of whether rows fulfills a certain **yes/no condition**. You can therefore make excellent use of checkbox columns for [filtering]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sorting]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) or [grouping]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

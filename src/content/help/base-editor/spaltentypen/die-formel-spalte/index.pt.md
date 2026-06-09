@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'Coluna de fórmula em SeaTable: como usar e exemplos'
     description: 'Saiba como calcular, combinar e manipular valores por linha usando a coluna de fórmula no SeaTable – para todos os usos.'
-
+weight: 17
 ---
 
 O SeaTable oferece-lhe muitas funções diferentes que pode adicionar à sua tabela. Uma delas é a chamada **coluna de fórmulas**. Com a ajuda das fórmulas, pode ligar valores de diferentes colunas e criar diferentes funções com base nos tipos de dados dessas colunas. Entre outras coisas, pode calcular com valores numa linha, fundi-los ou relacioná-los entre si.

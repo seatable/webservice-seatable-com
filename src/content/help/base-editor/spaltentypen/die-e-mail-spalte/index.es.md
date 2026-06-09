@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Columna de correo en SeaTable – emails válidos y prácticos'
     description: 'Captura direcciones de correo en SeaTable y envía mensajes rápidamente. Valida emails y accede al cliente de correo con un solo clic.'
-
+weight: 12
 ---
 
 La columna de correo electrónico es un tipo de columna que permite introducir direcciones de correo electrónico. A diferencia de una columna de texto, la columna de correo electrónico garantiza que la entrada tiene la estructura de una dirección de correo electrónico válida.

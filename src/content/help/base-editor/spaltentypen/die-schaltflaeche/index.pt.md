@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Coluna botão no SeaTable – automação com um clique'
     description: 'Descubra como usar a coluna botão do SeaTable para acionar scripts, bloquear linhas, abrir URLs e automatizar fluxos facilmente.'
+weight: 25
 ---
 
 A coluna de botões tem uma função semelhante às [automatizações]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), em que tem sempre de operar botões **manualmente**. Com a ajuda do **botão** que pode adicionar às suas **filas** nesta coluna, desencadeia **acções** definidas antecipadamente. Por esta razão, este tipo de coluna é particularmente adequado para automatizar etapas de processo.

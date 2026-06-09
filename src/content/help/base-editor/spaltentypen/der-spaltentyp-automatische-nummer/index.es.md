@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columna de numeración automática SeaTable – completa'
     description: 'Descubre cómo asignar números automáticos únicos en SeaTable, manejar formatos, reinicio y consejos para evitar duplicados o saltos.'
+weight: 24
 ---
 
 El tipo de columna **Autonumeración** genera un número creciente automáticamente para cada nueva fila. Este tipo de columna se utiliza cuando se necesita un identificador único para cada registro.

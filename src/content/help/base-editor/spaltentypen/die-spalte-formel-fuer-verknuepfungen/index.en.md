@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Using the Linked Formula Column in SeaTable'
     description: 'Discover how to use the linked formula column in SeaTable to connect and summarize data across related tables efficiently.'
-
+weight: 18
 ---
 
 With a link formula, you can **display, summarize or relate data from linked tables** in your current table. This is where SeaTable shows its advantages as a [relational database]({{< relref "posts/relationale-datenbank" >}}).

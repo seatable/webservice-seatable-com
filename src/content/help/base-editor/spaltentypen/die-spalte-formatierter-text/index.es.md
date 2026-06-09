@@ -1,69 +1,57 @@
 ---
-title: 'Las columnas Texto y Texto con formato'
+title: 'La columna de texto largo'
 date: 2023-02-21
 lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
-author: 'nsc2'
-url: '/es/ayuda/campos-texto-vs-texto-formato-seatable'
+author: 'kgr'
+url: '/es/ayuda/columna-de-texto-largo'
 aliases:
     - '/es/ayuda/die-spalten-text-und-formatierter-text'
+    - '/es/ayuda/campos-texto-vs-texto-formato-seatable'
 seo:
-    title: 'Campos texto vs texto con formato en SeaTable'
-    description: 'Elija columnas de texto normal para entradas cortas y formato avanzado para textos largos y estructurados en sus tablas.'
-
+    title: 'La columna de texto largo en SeaTable'
+    description: 'Use la columna de texto largo en SeaTable para registrar textos estructurados de cualquier longitud con saltos de línea, listas, imágenes y más.'
+weight: 2
 ---
 
-SeaTable proporciona dos tipos de columnas diferentes para introducir **cadenas** y **textos de** cualquier tipo: **Texto** y **Texto con formato**. Pero, ¿cuál es exactamente la diferencia entre los dos tipos de columna? ¿Y en qué casos tiene sentido utilizar la columna de texto formateado?
+Para el **registro de textos estructurados de cualquier longitud**, SeaTable pone a su disposición el tipo de columna *Texto largo*. En este artículo descubrirá cuáles son las diferencias respecto a la columna de texto y en qué casos tiene sentido recurrir a la columna de texto largo.
 
-## La columna de texto
+## Uso de la columna de texto largo
 
-La columna de texto es uno de los **tipos de columna** más básicos en SeaTable y también se muestra en primer lugar en el menú de selección del tipo de columna.
+A diferencia de la columna de texto, el tipo de columna **Texto largo** no registra cadenas de caracteres sin estructura, sino textos con formato que incluyen saltos de línea, listas, imágenes, etc.
 
-![La columna de texto normal](images/select-regular-text-column.png)
+![La columna de texto largo](images/formatted-text-column.png)
 
-Además, SeaTable añade automáticamente una **columna de texto** como primera columna a cada tabla recién creada.
+Las columnas de texto largo son especialmente adecuadas para registrar **textos largos**, como descripciones de productos, listas de control o publicaciones en redes sociales.
 
-![La columna de texto "normal ](images/text-column-new.png)
+{{< warning  headline="UTF-8"  text="SeaTable admite todos los caracteres del estándar UTF-8, ya que UTF-8 es la codificación de caracteres más extendida del mundo en Internet." />}}
 
-La **primera columna de** una tabla tiene varias [características]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) especiales, como puedes leer en el artículo enlazado.
+Las entradas **no** se escriben directamente en la celda, sino en un **editor** al que se accede con un clic y que ofrece diversas **opciones de formato**. A diferencia de la columna de texto, así también puede estructurar textos más largos.
 
-### Uso de la columna de texto
+![Ejemplo de aplicación de una columna de texto largo](images/long-text-example.png)
 
-La columna de texto es especialmente adecuada para recoger entradas cortas, como **términos**, **nombres**, **palabras** u otras **cadenas de caracteres** que no tienen un valor numérico calculable, por ejemplo, direcciones y números de teléfono.
+Entre otras cosas, puede elegir un **formato de párrafo**, poner la **fuente** en cursiva o negrita e insertar **enlaces**, **citas**, **listas**, **tablas** e **imágenes**.
 
-![Ejemplo de aplicación de la columna de texto normal](images/regular-text-example.png)
+{{< warning  type="warning" headline="Límite de caracteres"  text="Se aplica un límite de 100.000 caracteres a las celdas individuales del tipo Texto largo. Esto corresponde aproximadamente a 25 páginas A4 de texto. Por tanto, el límite de caracteres solo debería afectar a su trabajo en casos excepcionales." />}}
 
-Al utilizar la columna, es conveniente que las entradas **sean cortas**, ya que sólo se puede mostrar un **número limitado de caracteres** sin tener que aumentar el ancho de la columna.
+## Otros tipos de columnas basadas en texto
 
-![Las entradas demasiado largas no pueden mostrarse en su totalidad en una columna de texto sin aumentar el ancho de la columna.](images/use-short-entries.png)
+Si desea registrar **cadenas de caracteres cortas sin formato** (p. ej., nombres, contraseñas, matrículas de vehículos), debería utilizar la [columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
-{{< warning  headline="Nota importante"  text="Tenga en cuenta que **no hay opciones de formato** disponibles para las entradas de la columna de texto normal." />}}
+Además de la columna de texto largo, en SeaTable existen otros tres tipos de columnas basadas en texto para casos de uso especiales:
+- la [columna de correo electrónico]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}})
+- la [columna de URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}})
+- la [columna de número de teléfono]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 
-Existen otros dos tipos de columnas basadas en texto en SeaTable para casos de uso especiales: la [columna de correo electrónico]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) y la [columna de URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}).
+## Establecer el valor por defecto
 
-### Establecer el valor por defecto
+Puede definir un [valor predeterminado]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) para cada columna de texto largo. Este texto se introduce automáticamente en la celda de cada nueva fila creada.
 
-Puede definir un [valor predeterminado]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) para cada columna de texto. Este valor se introduce automáticamente en cada nueva fila de la tabla.
+1. Haga clic en la **flecha desplegable** situada a la derecha del nombre de la columna.
+2. Vaya a **Establecer valor por defecto**.
+3. Al hacer clic en **Editar texto**, se abre el editor, donde puede redactar el texto que servirá de valor por defecto.
 
-Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto, se introduce automáticamente el **nombre** o el **ID del usuario** que ha añadido la fila.
+## Restricciones en filtros, ordenación y agrupación
 
-![Referenciar el nombre de usuario con un valor por defecto](images/Set-creator-name-as-default-value.png)
-
-## La columna Texto con formato
-
-El tipo de columna **Texto con formato** es uno de los tipos de columna más específicos y se muestra en segundo lugar cuando se selecciona el tipo de columna.
-
-![La columna Texto con formato](images/formatted-text-column.png)
-
-### Uso de la columna Texto con formato
-
-Las columnas de texto con formato son especialmente adecuadas para **textos largos**, como descripciones de productos, listas de control o publicaciones en redes sociales.
-
-Las entradas **no** se escriben directamente en la celda, sino en un **editor** al que se accede con un clic y que ofrece diversas **opciones de formato**. A diferencia de la columna de texto, también puedes estructurar textos más largos.
-
-![Ejemplo de aplicación de una columna de texto formateada](images/long-text-example.png)
-
-Entre otras cosas, puedes elegir un **formato de párrafo**, poner la **fuente** en cursiva o negrita e insertar **enlaces**, **citas**, **listas**, **tablas** e **imágenes**.
-
-{{< warning  headline="Límite de caracteres"  text="Se aplica un límite de 100.000 caracteres a las celdas individuales del tipo Texto con formato. Esto corresponde aproximadamente a 25 páginas A4 de texto. Por tanto, el límite de caracteres solo debería afectar a su trabajo en casos excepcionales." />}}
+No es posible ordenar ni agrupar las entradas de una tabla según las columnas de texto largo. En cuanto a los filtros, solo dispone de las opciones "está vacío" y "no está vacío".

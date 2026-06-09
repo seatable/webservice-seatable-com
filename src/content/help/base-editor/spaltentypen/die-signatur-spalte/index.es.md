@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Columna de firmas: guarda firmas digitales en SeaTable'
     description: 'Capture firmas digitales en SeaTable con la columna de firma y adminístrelas como archivos PNG directamente en la gestión de archivos de la base.'
-
+weight: 26
 ---
 
 Puede almacenar una firma digital en una **columna de firma**, que se guarda como archivo PNG en el gestor de archivos Base.

@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'The Collaborator Column in SeaTable: Assign People, Notify and Filter Data'
     description: 'SeaTable Collaborator Column: Assign tasks, activate notifications and use flexibly for filters & automations.'
+weight: 4
 ---
 
 In the **collaborator column**, you can assign one or more **people** to row . SeaTable allows you to select people who currently have **access** to the **base** as well as all other team members without access.

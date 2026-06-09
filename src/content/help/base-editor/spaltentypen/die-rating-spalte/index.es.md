@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Columna de puntuación SeaTable: guía completa'
     description: 'Use la columna de valoración para evaluaciones en tablas con símbolos, escalas del 1 al 10 y valor predeterminado. Ideal para rankings y feedback.'
-
+weight: 15
 ---
 
 La columna de calificación le permite **calificar** sus registros para **ordenarlos** o darles una **puntuación**. Al crear la columna, puede realizar ajustes específicos relativos a la apariencia y al número máximo de **símbolos de calificación** permitidos.

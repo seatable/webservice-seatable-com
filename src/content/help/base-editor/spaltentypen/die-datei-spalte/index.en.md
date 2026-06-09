@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'File column in SeaTable – manage and share all files'
     description: 'Learn how to use the file column in SeaTable to upload, share, rename, delete and manage multiple documents directly in your table.'
+weight: 10
 ---
 
 In a **file column** you can save one or more files and thus add documents to the respective row .

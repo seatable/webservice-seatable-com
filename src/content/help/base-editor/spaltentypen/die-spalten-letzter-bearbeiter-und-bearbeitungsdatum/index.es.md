@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Último editor y fecha de edición en SeaTable'
     description: 'Las columnas de “último editor” y “fecha edición” de SeaTable muestran siempre quién modificó cada fila y cuándo, para máxima trazabilidad y orden.'
-
+weight: 23
 ---
 
 Las columnas **Último modificador** y **Última modificación** sólo son rellenadas **automáticamente** por SeaTable y por lo tanto son tipos de columnas especiales. Son muy útiles si desea saber **cuándo** y **quién editó por última vez** una entrada.

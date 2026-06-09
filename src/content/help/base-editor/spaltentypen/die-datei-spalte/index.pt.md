@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Coluna de arquivos SeaTable – gerencie documentos'
     description: 'Saiba como usar a coluna de arquivos no SeaTable para carregar, compartilhar, renomear, excluir e organizar diversos documentos facilmente.'
+weight: 10
 ---
 
 Numa **coluna de ficheiros** pode guardar um ou mais ficheiros e assim adicionar documentos à respectiva linha.

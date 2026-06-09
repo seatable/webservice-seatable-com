@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Coluna de números SeaTable – opções e validação'
     description: 'Use a coluna de números no SeaTable para somas, moedas, validação de valores e configurações personalizadas. Guia para iniciantes.'
+weight: 3
 ---
 
 No SeaTable pode utilizar a **coluna de números** de muitas maneiras para trabalhar com números de qualquer tipo (por exemplo, número de artigos, percentagens, ou preços em diferentes moedas).
@@ -19,10 +20,13 @@ No SeaTable pode utilizar a **coluna de números** de muitas maneiras para traba
 
 A utilização de **colunas de números** permite-lhe, por exemplo, **calcular valores** com fórmulas e criar **gráficos e estatísticas**. No entanto, não é adequada para guardar cadeias de caracteres de qualquer comprimento (por exemplo, números de conta), uma vez que ocorre um arredondamento com mais de 15 dígitos. Neste caso, deve utilizar [a coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
-Além disso, o SeaTable oferece outras colunas que por vezes se ajustam melhor aos seus valores dados.
+Além disso, o SeaTable oferece outras colunas que por vezes se ajustam melhor aos valores a armazenar:
 
 - Duração e períodos = [coluna de duração]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}}) 
 - Data e horas = [coluna de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- Pontuações = [coluna de avaliação]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Números de série = [número automático]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Números de telefone = [coluna do número de telefone]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 - Geo-informação = [coluna de geoposição]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}})
 
 ## Acrescentar uma coluna de números

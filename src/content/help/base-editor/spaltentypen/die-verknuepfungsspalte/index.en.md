@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'Use link columns in SeaTable for powerful relations'
     description: 'Link tables via link columns for relations and data integration. Step-by-step guide to connect and manage related tables.'
-
+weight: 20
 ---
 
 Use the [relational database]({{< relref "posts/relationale-datenbank" >}}) functions of SeaTable by linking information from different tables. To do this, use the **Link to other records** column type.

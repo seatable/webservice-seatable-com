@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Coluna de colaboradores no SeaTable: atribuição, avisos e automações'
     description: 'Coluna de colaborador SeaTable: atribua tarefas, ative notificações e use de forma flexível para filtros e automações.'
+weight: 4
 ---
 
 Na **coluna do colaborador**, pode atribuir uma ou mais **pessoas** a uma linha. O SeaTable permite-lhe selecionar as pessoas que têm atualmente **acesso** à **base**, bem como todos os outros membros da equipa sem acesso.

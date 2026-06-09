@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Date column in SeaTable: format, defaults and options'
     description: 'Record dates with calendar or keyboard in SeaTable. Choose date or minute detail, flexible regional format and define default values for each row. Full configuration guide.'
-
+weight: 5
 ---
 
 You can use the date column to enter **times** and **dates** in your tables down to the minute. Simply use the displayed calendar or your keyboard to enter a date manually. Please note that SeaTable does not accept any other data inputs in a date column.

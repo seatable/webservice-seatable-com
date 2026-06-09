@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'La columna de enlace en SeaTable – paso a paso'
     description: 'Relacione datos entre tablas usando columnas de enlace en SeaTable. Aprenda a unir, editar y manejar relaciones fácilmente.'
-
+weight: 20
 ---
 
 Utilice las funciones de [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}) de SeaTable enlazando información de diferentes tablas. Para ello, utilice el tipo de columna **Enlace a otros registros**.

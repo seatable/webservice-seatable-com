@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'La columna de botón en SeaTable – automatiza procesos'
     description: 'Aprende cómo la columna de botón en SeaTable permite automatizar acciones y ejecutar scripts o emails directamente desde tus filas.'
+weight: 25
 ---
 
 La columna de botones tiene una función similar a [las automatizaciones]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), en las que siempre hay que accionar los botones **manualmente**. Con la ayuda del **botón** que puede añadir a sus **filas en** esta columna, desencadena **acciones** definidas de antemano. Por esta razón, este tipo de columna es especialmente adecuado para automatizar los pasos del proceso.

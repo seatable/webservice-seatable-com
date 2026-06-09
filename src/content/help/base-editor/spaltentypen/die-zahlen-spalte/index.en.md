@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Number column in SeaTable – formats, settings & tips'
     description: 'Easily track, format and validate numbers, percentages, and currencies in SeaTable. Everything about number columns at a glance.'
+weight: 3
 ---
 
 In SeaTable you can use the **Number column** in many ways to work with numbers of any kind (e.g. number of items, percentages, or prices in different currencies).
@@ -19,10 +20,13 @@ In SeaTable you can use the **Number column** in many ways to work with numbers 
 
 The use of **number columns** allows you, for example, to **calculate values** with formulas and create clear **diagrams and statistics**. However, it is not suitable for saving strings of any length (e.g. account numbers), as rounding occurs with more than 15 digits. In this case, you should use the [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
-In addition, SeaTable offers other column types that sometimes better match your specified values.
+In addition, SeaTable offers other column types that sometimes better match the values to be stored:
 
 - Duration and periods = [duration column]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
 - Date and times = [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- Scores = [rating column]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Serial numbers = [Auto Number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Phone numbers = [phone number column]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 - Geo information = [geolocation column]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}})
 
 ## Adding a number column
