@@ -14,7 +14,6 @@ categories:
 color: '#a4caae'
 register:
    show: true
-draft: true   
 ---
 
 ## Skalierbare No-Code-Anwendungen: Werbeversprechen oder Realität?
