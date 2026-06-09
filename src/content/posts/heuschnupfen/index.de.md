@@ -67,7 +67,7 @@ Genau diese Symptome bei Heuschnupfen führen oft zur Verwechslung mit einer Erk
 
 Bleibt eine Pollenallergie über Jahre unbehandelt, kann sie auf die unteren Atemwege übergreifen. Mediziner sprechen dann vom Etagenwechsel. Aus dem Heuschnupfen in der oberen Etage (Nase, Augen) entwickelt sich ein allergisches Asthma in der unteren Etage (Bronchien). 
 
-Erste Anzeichen sind **anhaltender trockener Husten, ein Engegefühl in der Brust, pfeifende Atemgeräusche oder Atemnot bei Belastung**. Studien zeigen, dass etwa jeder dritte Heuschnupfen-Patienten im Laufe der Zeit ein allergisches Asthma entwickeln. Wenn Sie solche Symptome bei sich bemerken, sollten Sie nicht abwarten, sondern zeitnah einen Allergologen aufsuchen. Je früher die Behandlung beginnt, desto besser lässt sich der Etagenwechsel verhindern.
+Erste Anzeichen sind **anhaltender trockener Husten, ein Engegefühl in der Brust, pfeifende Atemgeräusche oder Atemnot bei Belastung**. Studien zeigen, dass etwa jeder dritte Heuschnupfen-Patient im Laufe der Zeit ein allergisches Asthma entwickelt. Wenn Sie solche Symptome bei sich bemerken, sollten Sie nicht abwarten, sondern zeitnah einen Allergologen aufsuchen. Je früher die Behandlung beginnt, desto besser lässt sich der Etagenwechsel verhindern.
 
 ## Effektive Hausmittel gegen Heuschnupfen für den Alltag
 
@@ -95,7 +95,7 @@ Hausmittel sind ein guter Anfang, doch bei stärkeren Beschwerden führt kein We
 
 Der gängigste Heuschnupfen-Test ist der Prick-Test. Dabei werden kleine Tropfen verschiedener Allergenlösungen auf die Haut des Unterarms aufgetragen und leicht angeritzt. Reagiert die Stelle nach etwa 15 bis 20 Minuten mit Rötung oder Quaddeln, gilt das Allergen als wahrscheinlicher Auslöser. 
 
-Ergänzend kann eine Blutuntersuchung auf spezifische Antikörper durchgeführt werden, vor allem dann, wenn der Prick-Test keine eindeutigen Ergebnisse liefert. Erst mit dieser Diagnose lässt sich Ihre Pollenallergie und die Symptome wirklich gezielt behandeln, weil klar ist, ob Sie auf Birke, Gräser, Beifuß oder mehrere Pollen reagieren.
+Ergänzend kann eine Blutuntersuchung auf spezifische Antikörper durchgeführt werden, vor allem dann, wenn der Prick-Test keine eindeutigen Ergebnisse liefert. Erst mit dieser Diagnose lässt <!-- "Symptome" steht im Plural, dann muss das Verb doch auch im Plural sein, oder? --> sich Ihre Pollenallergie und die Symptome wirklich gezielt behandeln, weil klar ist, ob Sie auf Birke, Gräser, Beifuß oder mehrere Pollen reagieren.
 
 ![Prick-Test auf dem Unterarm zur Diagnose von Pollenallergien beim Arzt.](prick-test.png)
 
@@ -140,7 +140,7 @@ Die wirksamste Strategie bei Heuschnupfen ist immer noch, möglichst wenig Polle
                  
 ## Warum ein Allergie-Tagebuch der erste Schritt ist
 
-Ein Pollenkalender zeigt Ihnen, was draußen unterwegs ist. Aber er sagt aber nichts darüber, wie stark genau Sie an diesem Tag reagieren. Zwei Menschen mit derselben Gräserallergie können bei identischem Pollenflug völlig unterschiedliche Symptome eines Heuschnupfens haben. Die persönliche Empfindlichkeit, Schlaf, Stress, Medikamenteneinnahme und sogar die Luftfeuchtigkeit spielen mit hinein. 
+Ein Pollenkalender zeigt Ihnen, was draußen unterwegs ist. Aber er sagt nichts darüber, wie stark genau Sie an diesem Tag reagieren. Zwei Menschen mit derselben Gräserallergie können bei identischem Pollenflug völlig unterschiedliche Symptome eines Heuschnupfens haben. Die persönliche Empfindlichkeit, Schlaf, Stress, Medikamenteneinnahme und sogar die Luftfeuchtigkeit spielen mit hinein. 
 
 Genau deshalb lohnt es sich, neben dem Pollenflug auch Ihre eigenen Symptome festzuhalten. Wer ein paar Wochen lang notiert, wann welche Beschwerden auftraten und welche Pollen gerade dominierten, erkennt sein persönliches Muster. Plötzlich wird sichtbar, dass die Augen vor allem an windigen Birkentagen jucken oder dass Gräserpollen vor allem den Schlaf rauben. Ein einfaches Allergietagebuch macht aus diffusen Beschwerden konkrete Auslöser, mit denen Sie und Ihr Arzt arbeiten können.
 
