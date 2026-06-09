@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columna de casillas en SeaTable: marcar, filtrar y personalizar registros'
     description: 'Aprenda a crear columnas de casillas en SeaTable, marcar tareas como hechas y filtrar, ordenar y agrupar todas las condiciones sí/no.'
+weight: 14
 ---
 
 En SeaTable, tiene la opción de añadir **columnas de casillas de verificación** a sus tablas. Son ideales para marcar tareas como completadas, por ejemplo, es decir, para tener una visión general de si las filas cumplen una determinada **condición de sí/no**. Por lo tanto, puede hacer un uso excelente de las columnas de casillas de verificación para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) o [agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

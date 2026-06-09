@@ -55,7 +55,7 @@ You can define numerous parameters in the element settings:
 
 ### Formatted text
 
-As the name suggests, you can use formatted text elements to **format longer texts**. This opens the text editor that you already know from the [formatted text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) column type.
+As the name suggests, you can use formatted text elements to **format longer texts**. This opens the text editor that you already know from the [formatted text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) column type.
 
 ![Formatted texts on custom pages](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 

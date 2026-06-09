@@ -11,7 +11,7 @@ seo:
     description: 'Lernen Sie, wie Sie in SeaTable per Formel gezielt Wörter in Text-Spalten suchen, Fundstellen automatisch erkennen und Treffer mit individuellen Hinweisen markieren.'
 ---
 
-SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine Möglichkeit ist die **Suche nach Wörtern in einem Text**. Durch die Eingabe einer entsprechenden Formel können Sie eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) automatisch nach beliebigen Wörtern durchsuchen und einen Hinweis - z. B. "Wort gefunden/nicht gefunden" - als Ergebnis in eine Formel-Spalte Ihrer Tabelle schreiben lassen.
+SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine Möglichkeit ist die **Suche nach Wörtern in einem Text**. Durch die Eingabe einer entsprechenden Formel können Sie eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) automatisch nach beliebigen Wörtern durchsuchen und einen Hinweis - z. B. "Wort gefunden/nicht gefunden" - als Ergebnis in eine Formel-Spalte Ihrer Tabelle schreiben lassen.
 
 ## Nach einem Wort in einem Text suchen
 

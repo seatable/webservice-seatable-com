@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne durée SeaTable : mesurer le temps facilement'
     description: 'Mesurez des durées à la minute ou seconde grâce à la colonne durée : parfaite pour le temps de travail et l’analyse !'
-
+weight: 6
 ---
 
 La **colonne de durée** est particulièrement bien adaptée pour enregistrer la durée de différents événements. Elle peut saisir une **période** à la minute ou même à la seconde près. Par exemple, pour la saisie du temps de travail, il est intéressant d'utiliser la colonne de durée en combinaison avec une [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).

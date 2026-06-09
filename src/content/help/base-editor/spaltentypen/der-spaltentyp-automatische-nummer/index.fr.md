@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Type de colonne Numérotation automatique – SeaTable'
     description: 'Gérez des identifiants uniques avec la colonne Numérotation auto de SeaTable : formats, remise à zéro et astuces pour éviter les doublons.'
+weight: 24
 ---
 
 Le type de colonne **Numéro automatique** génère automatiquement un numéro croissant pour chaque nouvelle ligne. Ce type de colonne est toujours utilisé lorsque vous avez besoin d'un identifiant unique pour chaque enregistrement.

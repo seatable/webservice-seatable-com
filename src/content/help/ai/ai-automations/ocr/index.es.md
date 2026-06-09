@@ -21,7 +21,7 @@ La función de IA **OCR** (Optical Character Recognition) reconoce texto en imá
 ## Requisitos previos
 
 - Una tabla con una [columna de imagen]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) o una [columna de archivo]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) que contenga las imágenes o documentos a reconocer.
-- Una [columna de texto o columna de texto formateado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) para el texto reconocido.
+- Una [columna de texto o columna de texto formateado]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) para el texto reconocido.
 
 ## Guía paso a paso
 

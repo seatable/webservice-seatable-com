@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne d’images : gérer photos dans SeaTable'
     description: 'Colonne image SeaTable : téléversez, gérez et prévisualisez des images. Ajoutez par upload, URL, glisser-déposer et gestion de fichiers.'
-
+weight: 9
 ---
 
 Grâce à une **colonne d'images**, vous pouvez télécharger, enregistrer et gérer de nouvelles images dans vos tableaux en quelques clics seulement.

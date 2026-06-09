@@ -11,18 +11,22 @@ aliases:
 seo:
     title: 'Colonne numérique SeaTable – formats et paramétrages'
     description: 'Gérez chiffres, montants ou pourcentages dans SeaTable. Paramétrez vos colonnes numériques et facilitez l’analyse de vos données.'
+weight: 3
 ---
 
 Dans SeaTable, vous pouvez utiliser la **colonne des nombres** de manière polyvalente pour travailler avec des nombres de toutes sortes (par exemple, le nombre d'objets, pourcentages ou prix dans différentes devises).
 
 ## Champ d'application de la colonne des nombres
 
-L'utilisation de **la colonne des nombres** vous permet par exemple de **calculer des valeurs** avec des formules et de créer des **diagrammes et des statistiques**. Cependant, elle ne convient pas pour stocker des chaînes de caractères aussi longues que vous le souhaitez (par exemple, des numéros de compte), car les chiffres supérieurs à 15 sont arrondis. Dans ce cas, vous devez utiliser [la colonne du texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+L'utilisation de **la colonne des nombres** vous permet par exemple de **calculer des valeurs** avec des formules et de créer des **diagrammes et des statistiques**. Cependant, elle ne convient pas pour stocker des chaînes de caractères aussi longues que vous le souhaitez (par exemple, des numéros de compte), car les chiffres supérieurs à 15 sont arrondis. Dans ce cas, vous devez utiliser [la colonne du texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
-En outre, SeaTable propose d'autres types de colonnes qui correspondent parfois mieux aux valeurs que vous avez indiquées.
+En outre, SeaTable propose d'autres types de colonnes qui correspondent parfois mieux aux valeurs à stocker :
 
 - Durée et périodes = [colonne de durée]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
 - Date et points de temps = [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- Scores = [colonne de classement]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Numéros de série = [Numéro automatique]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Numéros de téléphone = [colonne des numéros de téléphone]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 - Informations géographiques = [colonne de géopositionnement]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}})
 
 ## Ajouter une colonne des nombres

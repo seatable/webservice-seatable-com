@@ -46,7 +46,7 @@ Les **opérations** suivantes **sur les relations** peuvent actuellement être e
 Les deux types d'opérations de traitement des données sont soumis à des **conditions** différentes, qui doivent être remplies pour pouvoir créer une opération correspondante.
 
 - **Les opérations mathématiques** supposent la présence de **deux colonnes de chiffres** dans votre tableau.
-- Pour les **opérations sur les liens**, vous avez besoin de types de colonnes bien spécifiques selon le cas d'utilisation, par exemple une [colonne de collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) et une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) lors du transfert de noms d'utilisateurs.
+- Pour les **opérations sur les liens**, vous avez besoin de types de colonnes bien spécifiques selon le cas d'utilisation, par exemple une [colonne de collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) et une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) lors du transfert de noms d'utilisateurs.
 
 ## Remarques sur l'exécution
 

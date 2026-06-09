@@ -9,7 +9,7 @@ url: '/de/hilfe/die-mehrfachauswahl-spalte'
 seo:
     title: 'Mehrfachauswahl-Spalte in SeaTable: Optionen & Farben'
     description: 'So nutzen Sie die Mehrfachauswahl-Spalte: bunte Labels, flexible Sortierung, Export, Import, eigene Farben und wichtige Unterschiede zur Einfachauswahl.'
-
+weight: 8
 ---
 
 Eine Mehrfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen in einer Spalte **mehrere Optionen** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte Labels, mit denen Sie Ihre Datensätze versehen und Tabellen übersichtlich gestalten können, z. B. indem Sie nach bestimmten Optionen [filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}).

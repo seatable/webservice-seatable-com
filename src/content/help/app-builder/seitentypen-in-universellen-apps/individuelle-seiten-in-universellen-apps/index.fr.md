@@ -55,7 +55,7 @@ Vous pouvez définir de nombreux paramètres dans les paramètres des éléments
 
 ### Texte formaté
 
-Les éléments de texte formaté vous permettent, comme leur nom l'indique, de **formater des textes plus longs**. Pour cela, l'éditeur de texte que vous connaissez déjà du type de colonne [Texte formaté]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) s'ouvre.
+Les éléments de texte formaté vous permettent, comme leur nom l'indique, de **formater des textes plus longs**. Pour cela, l'éditeur de texte que vous connaissez déjà du type de colonne [Texte formaté]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) s'ouvre.
 
 ![Textes formatés sur des pages de tableau de bord](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 

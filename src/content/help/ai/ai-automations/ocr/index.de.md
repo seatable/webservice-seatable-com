@@ -21,7 +21,7 @@ Die KI-Funktion **OCR** (Optical Character Recognition) erkennt Text in Bildern 
 ## Voraussetzungen
 
 - Eine Tabelle mit einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) oder einer [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), die die zu erkennenden Bilder oder Dokumente enthält.
-- Eine [Text-Spalte oder Formatierter-Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) für den erkannten Text.
+- Eine [Text-Spalte oder Formatierter-Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) für den erkannten Text.
 
 ## Schritt-für-Schritt-Anleitung
 

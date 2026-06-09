@@ -9,6 +9,7 @@ url: '/de/hilfe/die-spalten-ersteller-und-erstelldatum'
 seo:
     title: 'Die Spalten „Ersteller“ und „Erstellt“ in SeaTable: Automatisierte Dokumentation'
     description: 'SeaTable nutzt „Ersteller“ & „Erstellt“, um Nutzer und Zeitpunkte automatisch zu protokollieren. Beide Spalten sind nicht editierbar.'
+weight: 21
 ---
 
 Die Spalten **Ersteller** und **Erstellt** werden von SeaTable ausschließlich **automatisch** gefüllt und stellen daher besondere Spaltentypen dar. Während SeaTable die Ersteller-Spalte mit dem **Namen des Benutzers** füllt, der eine Zeile angelegt hat, wird in der Erstellt-Spalte der **Zeitpunkt** (Datum und Uhrzeit) festgehalten, wann der Benutzer die Zeile angelegt hat.

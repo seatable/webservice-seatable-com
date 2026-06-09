@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'La colonne des liens dans SeaTable – guide complet'
     description: 'Créez des liens entre plusieurs tables, gérez et affichez les relations d’un simple clic, pour analyses et automatisations.'
-
+weight: 20
 ---
 
 Utilisez les fonctions de [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}) de SeaTable en reliant les informations de différentes tables. Pour ce faire, utilisez le type de colonne **Lien vers d'autres enregistrements**.

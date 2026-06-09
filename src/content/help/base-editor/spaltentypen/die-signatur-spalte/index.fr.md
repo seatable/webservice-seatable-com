@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne signature : stockez des signatures numériques'
     description: 'Saisissez des signatures numériques dans SeaTable avec la colonne de signature et gérez‑les comme fichiers PNG dans la gestion de fichiers de la base.'
-
+weight: 26
 ---
 
 Dans une **colonne de signature**, vous pouvez déposer une signature numérique qui sera enregistrée sous forme de fichier PNG dans le gestionnaire de fichiers de la base.

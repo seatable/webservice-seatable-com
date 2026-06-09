@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colonne case à cocher SeaTable : cochez, personnalisez et filtrez vos données'
     description: 'Apprenez à créer des colonnes à case à cocher dans SeaTable, cocher les tâches et filtrer, trier et regrouper toutes les conditions oui/non.'
+weight: 14
 ---
 
 Dans SeaTable, vous avez la possibilité d'ajouter **des colonnes de cases à cocher** à vos tableaux. Celles-ci conviennent bien, par exemple, pour marquer les tâches comme étant terminées – c'est-à-dire pour avoir un aperçu des lignes qui remplissent une certaine **condition oui/non**. Les colonnes de cases à cocher sont donc idéales pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [grouper]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Duration column in SeaTable: track time precisely'
     description: 'Use SeaTables duration column to record event times down to minutes or seconds. Perfect for working hours and analytics.'
-
+weight: 6
 ---
 
 The **duration column** is particularly suitable for recording the duration of various events. It can record a **period of time** to the minute or even to the second. For example, the duration column can be used in conjunction with a [date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) column for recording working hours.

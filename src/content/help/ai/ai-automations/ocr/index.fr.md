@@ -21,7 +21,7 @@ La fonction IA **OCR** (Optical Character Recognition) reconnaît le texte dans 
 ## Prérequis
 
 - Un tableau avec une [colonne image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou une [colonne fichier]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) contenant les images ou documents à reconnaître.
-- Une [colonne texte ou colonne texte formaté]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) pour le texte reconnu.
+- Une [colonne texte ou colonne texte formaté]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) pour le texte reconnu.
 
 ## Guide étape par étape
 

@@ -12,7 +12,7 @@ aliases:
 seo:
     title: 'A coluna de ligação no SeaTable – utilização eficiente'
     description: 'Conecte dados entre diferentes tabelas em SeaTable usando colunas de ligação – veja como criar relações e facilitar a análise.'
-
+weight: 20
 ---
 
 Utilize as funções de [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}) do SeaTable ligando informações de diferentes tabelas. Para tal, utilizar o tipo de coluna **Link para outras entradas**.

@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Auto Number column type in SeaTable – all formats & tips'
     description: 'Learn how to use the auto number column in SeaTable: unique record IDs, formatting, resetting, and common pitfalls with numbering gaps.'
+weight: 24
 ---
 
 The **Auto number** column type generates an automatically increasing number for each new row. This column type is used whenever you need a unique identifier for each record.

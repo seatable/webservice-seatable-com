@@ -94,11 +94,11 @@ Sur les pages de tableaux permettant à différents utilisateurs d'effectuer de 
 
 ## Contrôle du format pour les nouvelles entrées
 
-Vous pouvez activer un autre **curseur** pour [valider les entrées dans les colonnes de texte]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}). Dès que la **vérification du format** est activée, les détails de la ligne s'ouvrent toujours lorsque quelqu'un veut ajouter une nouvelle entrée sur la page du tableau - et cela n'est possible que si les entrées correspondent au format défini. Pour les entrées dont le format est différent, un **message d'erreur** apparaît.
+Vous pouvez activer un autre **curseur** pour [valider les entrées dans les colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). Dès que la **vérification du format** est activée, les détails de la ligne s'ouvrent toujours lorsque quelqu'un veut ajouter une nouvelle entrée sur la page du tableau - et cela n'est possible que si les entrées correspondent au format défini. Pour les entrées dont le format est différent, un **message d'erreur** apparaît.
 
 ![Vérification du format sur la page du tableau](images/Format-check-on-table-page.png)
 
-Vous pouvez par exemple minimiser **les erreurs de frappe** sur des chaînes de caractères clairement définies, comme les codes postaux ou les numéros de compte. Vous définissez les [expressions régulières]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) pour valider les entrées dès la création d'une colonne de texte dans la base.
+Vous pouvez par exemple minimiser **les erreurs de frappe** sur des chaînes de caractères clairement définies, comme les codes postaux ou les numéros de compte. Vous définissez les [expressions régulières]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) pour valider les entrées dès la création d'une colonne de texte dans la base.
 
 ## Afficher le formatage des cellules
 

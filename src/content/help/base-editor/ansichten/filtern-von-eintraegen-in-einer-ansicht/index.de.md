@@ -35,7 +35,7 @@ Je nachdem, nach welchem **Spaltentyp** Sie filtern möchten, passen sich auch d
 
 ### Hier einige Beispiele
 
-Diese Optionen haben Sie bei einer [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}): 
+Diese Optionen haben Sie bei einer [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}): 
 
 ![Filtern Textspalte](images/filtern-von-eintraegen-5.png)
 

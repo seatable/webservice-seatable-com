@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Coluna de checkbox SeaTable: organizar tarefas, filtrar e personalizar'
     description: 'Aprenda a criar colunas de caixa de seleção no SeaTable, marcar tarefas concluídas e filtrar, ordenar e agrupar todas as condições sim/não.'
+weight: 14
 ---
 
 No SeaTable, tem a opção de adicionar **colunas de caixas de seleção** às suas tabelas. Estas são ideais para marcar tarefas como concluídas, por exemplo – ou seja, para obter uma visão geral sobre se as linhas cumprem uma determinada **condição de sim/não**. Pode, portanto, fazer uma excelente utilização das colunas de caixas de seleção para [filtragem]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenação]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [agrupamento]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

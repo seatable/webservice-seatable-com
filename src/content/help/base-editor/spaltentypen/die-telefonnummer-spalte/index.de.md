@@ -9,7 +9,7 @@ url: '/de/hilfe/die-telefonnummer-spalte'
 seo:
     title: 'Der Spaltentyp Telefonnummer in SeaTable'
     description: 'Nutzen Sie diesen Spaltentyp, um Telefonnummern zu validieren und per Mausklick Anrufe zu starten.'
-
+weight: 16
 ---
 
 Für das Erfassen von **Telefonnummern** gibt es in SeaTable einen eigenen Spaltentyp. Im Vergleich zu einer normalen Text-Spalte bietet die Telefonnummer-Spalte den Vorteil, dass Sie per Mausklick **eine Telefonnummer anrufen** können.
@@ -29,7 +29,7 @@ Sie können für jede Telefonnummer-Spalte einen voreingestellten [Standardwert]
 
 ### Eingabe validieren
 
-Wie bei Text-Spalten haben Sie bei der Telefonnummer-Spalte die Möglichkeit, Eingaben zu validieren. Indem Sie eine **Formatprüfung** durchführen, können Sie Telefonnummern hervorheben, die vom gültigen Format abweichen. Für die Validierung können Sie auch [reguläre Ausdrücke]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) verwenden.
+Wie bei Text-Spalten haben Sie bei der Telefonnummer-Spalte die Möglichkeit, Eingaben zu validieren. Indem Sie eine **Formatprüfung** durchführen, können Sie Telefonnummern hervorheben, die vom gültigen Format abweichen. Für die Validierung können Sie auch [reguläre Ausdrücke]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) verwenden.
 
 ![Format einer Telefonnummer überprüfen](images/format-check-phone-number.png)
 

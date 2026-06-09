@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Last editor and modified date columns in SeaTable'
     description: 'SeaTable’s system columns show exactly who changed each row and when. They are vital for tracking, auditing and efficient team processes.'
-
+weight: 23
 ---
 
 The columns **Last modifier** and **Last modified time** are exclusively filled **automatically** by SeaTable and therefore represent special column types. They prove to be extremely useful if you want to track **when** and **by whom** an entry was **last edited**.

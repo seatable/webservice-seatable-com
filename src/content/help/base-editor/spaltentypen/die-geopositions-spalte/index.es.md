@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columna de geoposición en SeaTable – ubicaciones precisas'
     description: 'Con la columna de geoposición en SeaTable puede registrar coordenadas exactas o países usando mapa o búsqueda rápida y agregar ubicaciones fácilmente.'
+weight: 19
 ---
 
 Con la ayuda de la columna de geolocalización, puede recoger la longitud y la latitud de cualquier lugar de sus tablas. Además, puede utilizar la función de búsqueda para encontrar un país o región y añadirlo como entrada.

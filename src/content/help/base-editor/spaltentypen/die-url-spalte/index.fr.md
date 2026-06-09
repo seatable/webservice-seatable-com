@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colonne URL dans SeaTable – liens et adresses réseau'
     description: 'Ajoutez liens web ou IP dans la colonne URL SeaTable et ouvrez en un clic. Préfixes automatiques et accès rapide pour plus d’efficacité au quotidien.'
+weight: 13
 ---
 
 **Les colonnes URL** interprètent l'information saisie comme une ressource sur Internet ou sur le réseau local et vous permettent d'accéder directement **aux liens** en cliquant dessus. SeaTable ajoute automatiquement http(s):// comme préfixe de l'URL si vous ne l'avez pas saisi.

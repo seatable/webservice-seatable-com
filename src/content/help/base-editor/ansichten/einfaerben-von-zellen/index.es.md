@@ -52,7 +52,7 @@ Puede crear **varias reglas con diferentes colores** por columna.
 
 ![Varias reglas con diferentes colores en una columna](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-También puede definir **varias condiciones** por regla, que pueden referirse a todas las columnas de la tabla. Por ejemplo, colorear la [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) con el titular de un artículo si el **estado** no es "terminado", la **fecha de publicación** es futura y ya hay una **imagen** disponible.
+También puede definir **varias condiciones** por regla, que pueden referirse a todas las columnas de la tabla. Por ejemplo, colorear la [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) con el titular de un artículo si el **estado** no es "terminado", la **fecha de publicación** es futura y ya hay una **imagen** disponible.
 
 ![Regla con múltiples condiciones para colorear celdas](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

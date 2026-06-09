@@ -9,6 +9,7 @@ url: '/de/hilfe/die-schaltflaeche'
 seo:
     title: 'Die Schaltfläche in SeaTable – Automatisierung per Klick'
     description: 'Mit der Schaltflächen-Spalte in SeaTable automatisieren Sie Aktionen: Status ändern, Skript starten, PDF erzeugen oder Mail versenden.'
+weight: 25
 ---
 
 Die Schaltflächen-Spalte besitzt eine ähnliche Funktion wie [Automationen]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), wobei Sie Schaltflächen immer **manuell** bedienen müssen. Mithilfe des **Buttons**, den Sie in dieser Spalte Ihren **Zeilen** hinzufügen können, lösen Sie im Vorhinein definierte **Aktionen** aus. Aus diesem Grund eignet sich dieser Spaltentyp besonders gut für die Automatisierung von Prozessschritten.

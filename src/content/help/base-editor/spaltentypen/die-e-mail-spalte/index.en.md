@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Email column in SeaTable – capture and send emails easily'
     description: 'Save email addresses in SeaTable’s email column. Open your mail client directly from the table and ensure every address is correctly validated.'
-
+weight: 12
 ---
 
 The e-mail column is a column type that allows you to enter e-mail addresses. Unlike a text column, the e-mail column ensures that the input has the structure of a valid e-mail address.

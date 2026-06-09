@@ -77,6 +77,6 @@ Die wichtigsten Änderungen am User Interface haben wir in den Dialogen der Verk
 
 ## Zwei neue Limits
 
-Wie in den [letzten Release Notes]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}) angekündigt, führt SeaTable 3.5 ein Limit von 100.000 Zeichen für einzelne Zellen vom Typ [Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) ein. Überschreitet der Text in einer Zelle 100.000 Zeichen (das entspricht ungefähr 25 DIN-A4-Seiten Text), wird ein Warnhinweis eingeblendet. Wenn Sie den Text daraufhin nicht kürzen und den Editor schließen, speichert SeaTable nur 100.000 Zeichen.
+Wie in den [letzten Release Notes]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}) angekündigt, führt SeaTable 3.5 ein Limit von 100.000 Zeichen für einzelne Zellen vom Typ [Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) ein. Überschreitet der Text in einer Zelle 100.000 Zeichen (das entspricht ungefähr 25 DIN-A4-Seiten Text), wird ein Warnhinweis eingeblendet. Wenn Sie den Text daraufhin nicht kürzen und den Editor schließen, speichert SeaTable nur 100.000 Zeichen.
 
 Mit der Version 3.5 haben wir bei SeaTable Cloud die Maximalanzahl der in einem API-Call zurückgelieferten Zeilen von 10.000 auf 1.000 reduziert. Bitte prüfen Sie, ob sich dadurch Anpassungsbedarf bei Ihren Integrationen ergibt.

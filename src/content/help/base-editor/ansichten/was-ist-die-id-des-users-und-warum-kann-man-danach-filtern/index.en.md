@@ -24,7 +24,7 @@ If you want to know how to change the user ID of a team member, [you can find th
 
 ## Filter with the User ID
 
-In SeaTable you can use the filter **"is current user's ID"** for each text column. This creates a **dynamic filter** that only shows entries where the **own user**'s ID is stored in the corresponding [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+In SeaTable you can use the filter **"is current user's ID"** for each text column. This creates a **dynamic filter** that only shows entries where the **own user**'s ID is stored in the corresponding [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 ![Example filter by user ID](images/filter-user-ID-example-1.png)
 

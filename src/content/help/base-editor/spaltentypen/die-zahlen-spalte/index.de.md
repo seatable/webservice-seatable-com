@@ -9,18 +9,22 @@ url: '/de/hilfe/die-zahlen-spalte'
 seo:
     title: 'Die Zahlen‑Spalte in SeaTable – Formate & Funktionen'
     description: 'Nutzen Sie die Zahlen‑Spalte für Summen, Prozent, Währungen und Validierung. Formate und praxisnahe Tipps zur richtigen Anwendung in SeaTable. '
+weight: 3
 ---
 
 In SeaTable können Sie die **Zahlen-Spalte** vielseitig nutzen, um mit Zahlen jeder Art zu arbeiten, z. B. Anzahl von Gegenständen, prozentuale Anteile oder Preise in verschiedenen Währungen.
 
 ## Anwendungsgebiet der Zahlen-Spalte
 
-Die Verwendung von **Zahlen-Spalten** ermöglicht Ihnen beispielsweise die **Berechnung von Werten** mit Formeln und die Erstellung anschaulicher **Diagramme und Statistiken**. Allerdings eignet sie sich nicht zum Speichern beliebig langer Zeichenfolgen (z. B. Kontonummern), da bei über 15 Ziffern gerundet wird. In diesem Fall sollten Sie die [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) verwenden.
+Die Verwendung von **Zahlen-Spalten** ermöglicht Ihnen beispielsweise die **Berechnung von Werten** mit Formeln und die Erstellung anschaulicher **Diagramme und Statistiken**. Allerdings eignet sie sich nicht zum Speichern beliebig langer Zeichenfolgen (z. B. Kontonummern), da bei über 15 Ziffern gerundet wird. In diesem Fall sollten Sie die [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) verwenden.
 
-Darüber hinaus bietet SeaTable andere Spaltentypen an, die manchmal besser zu Ihren angegebenen Werten passen.
+Darüber hinaus bietet SeaTable andere Spaltentypen an, die manchmal besser zu den zu speichernden Werten passen:
 
 - Dauer und Zeiträume = [Dauer-Spalte]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
 - Datum und Zeitpunkte = [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- Punktzahlen = [Rating-Spalte]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Seriennummern = [Automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Telefonnummern = [Telefonnummer-Spalte]({{< relref "help/base-editor/spaltentypen/die-telefonnummer-spalte" >}})
 - Geo-Informationen = [Geopositions-Spalte]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}})
 
 ## Hinzufügen einer Zahlen-Spalte

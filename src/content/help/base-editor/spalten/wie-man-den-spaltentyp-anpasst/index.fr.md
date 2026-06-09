@@ -33,7 +33,7 @@ Il est encore possible de modifier le type de colonne après coup. Vous apprendr
 
 La **première colonne** d'un tableau ne prend en charge **que 6 des 26 types de colonnes**. Il s'agit de :
 
-- [Texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- [Texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 - [Nombre]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
 - [Date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
@@ -42,4 +42,4 @@ La **première colonne** d'un tableau ne prend en charge **que 6 des 26 types de
 
 ## Avertissement de perte de données
 
-La **conversion** de certains types de colonnes entraîne généralement une **perte de données** indésirable. C'est par exemple le cas des [colonnes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou lorsque vous convertissez [des colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) en colonnes numériques. Dans ces cas, SeaTable affiche un **message d'avertissement** vous demandant si vous souhaitez vraiment changer le type de colonne.
+La **conversion** de certains types de colonnes entraîne généralement une **perte de données** indésirable. C'est par exemple le cas lorsque vous convertissez [des colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) en colonnes numériques. Dans ces cas, SeaTable affiche un **message d'avertissement** vous demandant si vous souhaitez vraiment changer le type de colonne.

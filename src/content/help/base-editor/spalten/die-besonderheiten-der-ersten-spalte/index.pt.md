@@ -22,7 +22,7 @@ A **primeira coluna** de uma tabela no SeaTable tem várias características e r
 - Ao contrário das outras colunas, **não é possível eliminar** a primeira coluna de uma tabela.
 - No entanto, ao contrário das outras colunas, é possível **fixar** a primeira coluna individualmente.
 - Para a **primeira coluna**, existem apenas **seis tipos de colunas** à escolha:
-  - [Texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
   - [Número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
   - [Data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
   - [Seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})

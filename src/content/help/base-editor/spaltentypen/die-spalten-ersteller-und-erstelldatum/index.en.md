@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'SeaTable’s “Creator” and “Created” Columns: Automatic Entry Tracking Features'
     description: 'SeaTable uses "Creator" & "Created" to automatically log users and timestamps. Both columns cannot be edited manually.'
+weight: 21
 ---
 
 The columns **Creator** and **Created time** are filled **automatically** by SeaTable and therefore represent special column types. While SeaTable fills the Creator column with the **name of the user** who created the row, the Created time column records the **moment** (creation date and time) when the user created the row.

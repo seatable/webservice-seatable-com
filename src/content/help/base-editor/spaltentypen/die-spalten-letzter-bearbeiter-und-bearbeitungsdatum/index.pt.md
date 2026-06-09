@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Último editor e data de alteração em SeaTable'
     description: 'As colunas especiais do SeaTable informam que usuário alterou cada linha e quando, proporcionando rastreio, automações e controle de versões.'
-
+weight: 23
 ---
 
 As colunas **Último modificador** y **Último tempo modificado** são exclusivamente preenchidas **automaticamente** pelo SeaTable e são, portanto, tipos de colunas especiais. Revelam-se extremamente úteis se pretender registar **quando** e **por quem** uma entrada foi **editada pela última vez**.

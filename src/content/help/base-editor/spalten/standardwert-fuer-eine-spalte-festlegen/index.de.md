@@ -63,7 +63,7 @@ Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in Sea
 
 ## Referenzierte Standardwerte in Text-Spalten
 
-Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
+Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
 
 ![Mit einem Standardwert auf den Benutzernamen referenzieren](images/Set-creator-name-as-default-value.png)
 

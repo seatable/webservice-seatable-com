@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Die Verknüpfungsspalte in SeaTable – Anleitung'
     description: 'So verbinden Sie Daten aus mehreren Tabellen per Link-Spalte – erstellen, bearbeiten und nutzen Sie echte Relationen flexibel und einfach.'
-
+weight: 20
 ---
 
 Nutzen Sie die [relationalen Datenbankfunktionen]({{< relref "posts/relationale-datenbank" >}}) von SeaTable, indem Sie Informationen aus unterschiedlichen Tabellen miteinander verknüpfen. Verwenden Sie hierfür den Spaltentyp **Verknüpfung zu anderen Einträgen**.

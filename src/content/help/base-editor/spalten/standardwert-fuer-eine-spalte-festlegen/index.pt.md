@@ -64,7 +64,7 @@ Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tip
 
 ## Valores por defeito referenciados em colunas de texto
 
-Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
+Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
 
 ![Referência ao nome do utilizador com um valor predefinido](images/Set-creator-name-as-default-value.png)
 

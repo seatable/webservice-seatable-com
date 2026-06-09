@@ -13,7 +13,7 @@ seo:
     description: 'Aprende a buscar palabras en columnas de texto en SeaTable usando fórmulas y resalta los aciertos con mensajes personalizados o indicadores visuales.'
 ---
 
-Las fórmulas de SeaTable le ofrecen diferentes maneras de trabajar con los datos de sus tablas. Una posibilidad es buscar **palabras en un** texto. Introduciendo la fórmula correspondiente, puede buscar automáticamente cualquier palabra en una [columna de]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) texto y obtener una sugerencia -por ejemplo, "palabra encontrada/no encontrada"- escrita como resultado en una columna de fórmulas de su tabla.
+Las fórmulas de SeaTable le ofrecen diferentes maneras de trabajar con los datos de sus tablas. Una posibilidad es buscar **palabras en un** texto. Introduciendo la fórmula correspondiente, puede buscar automáticamente cualquier palabra en una [columna de]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) texto y obtener una sugerencia -por ejemplo, "palabra encontrada/no encontrada"- escrita como resultado en una columna de fórmulas de su tabla.
 
 ## Buscar una palabra en un texto
 

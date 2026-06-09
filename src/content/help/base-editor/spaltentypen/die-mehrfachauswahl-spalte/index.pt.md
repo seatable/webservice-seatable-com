@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Coluna de seleção múltipla no SeaTable: opções e cores'
     description: 'Aprenda a usar seleção múltipla – etiquetas coloridas, ordenação, exportação, cores personalizadas e diferenças para seleção única.'
-
+weight: 8
 ---
 
 Uma coluna de seleção múltipla é ideal se quiser atribuir as suas linhas numa coluna **várias opções** de uma lista de opções a serem definidas. As opções são dadas etiquetas coloridas que pode utilizar para rotular os seus registos e tornar as tabelas claras, por exemplo, através [de filtragem]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) para opções específicas.

@@ -78,6 +78,6 @@ We have made the most important changes to the user interface in the link column
 
 ## Two new limits
 
-As announced in the [last release notes]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}), SeaTable 3.5 introduces a limit of 100,000 characters for single cells of the [Formatted Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) type. If the text in a cell exceeds 100,000 characters (which corresponds to about 25 A4 pages of text), a warning message is displayed. If you do not shorten the text and close the editor, SeaTable saves only 100,000 characters.
+As announced in the [last release notes]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}), SeaTable 3.5 introduces a limit of 100,000 characters for single cells of the [Formatted Text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) type. If the text in a cell exceeds 100,000 characters (which corresponds to about 25 A4 pages of text), a warning message is displayed. If you do not shorten the text and close the editor, SeaTable saves only 100,000 characters.
 
 With version 3.5, we have reduced the maximum number of rows returned in an API call from 10,000 to 1,000 for SeaTable Cloud. Please check if this requires any adjustments to your integrations.

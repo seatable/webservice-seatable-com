@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Colonne de fichiers SeaTable – organiser et partager'
     description: 'Utilisez la colonne de fichiers SeaTable pour télécharger, partager, renommer, supprimer et gérer tous vos documents depuis vos tableaux.'
+weight: 10
 ---
 
 Dans une **colonne de fichiers**, vous pouvez enregistrer un ou plusieurs fichiers et compléter ainsi la ligne correspondante par des documents.

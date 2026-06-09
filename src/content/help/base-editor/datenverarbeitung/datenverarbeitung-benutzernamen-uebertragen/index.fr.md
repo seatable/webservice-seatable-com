@@ -13,7 +13,7 @@ seo:
     description: 'Transférez automatiquement des noms d’utilisateurs dans des champs texte pour rapports, listes et intégration de processus.'
 ---
 
-La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Dernier éditeur]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [Collaborateur]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Dernier éditeur]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}).
 
 ## Mise en place de l'opération
 
@@ -36,7 +36,7 @@ Lors de la première exécution réussie, une petite icône apparaît dans la ma
 
 ## Exécution de l'opération
 
-Par exemple, si vous gérez un tableau de tâches à effectuer dans lequel les **membres de votre équipe** sont saisis en tant que personnes de contact responsables dans une [colonne de collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), vous pouvez simplement copier les noms d'utilisateur dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), par exemple pour les utiliser dans une liste de collaborateurs.
+Par exemple, si vous gérez un tableau de tâches à effectuer dans lequel les **membres de votre équipe** sont saisis en tant que personnes de contact responsables dans une [colonne de collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), vous pouvez simplement copier les noms d'utilisateur dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}), par exemple pour les utiliser dans une liste de collaborateurs.
 
 Pour ce faire, suivez les étapes décrites ci-dessus et sélectionnez la colonne des collaborateurs comme **colonne source** et la colonne de texte comme **colonne de résultats**.
 

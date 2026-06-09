@@ -22,7 +22,7 @@ The **first column** of a table in SeaTable has several special features and res
 - Unlike the other columns, you **cannot delete** the first column of a table.
 - In contrast to the other columns, however, you can **freeze** the first column individually.
 - There are only **six column types** to choose from for the **first column**:
-  - [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Text]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
   - [Number]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
   - [Date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
   - [Single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})

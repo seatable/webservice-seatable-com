@@ -37,7 +37,7 @@ Depending on the **column type** you want to filter by, the conditions you can s
 
 ### Here are some examples
 
-You have these condition options with a [Text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}): 
+You have these condition options with a [Text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}): 
 
 ![Filter text column](images/filtern-von-eintraegen-5.png)
 

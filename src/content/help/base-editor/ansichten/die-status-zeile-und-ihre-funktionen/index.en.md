@@ -65,4 +65,4 @@ For the following column types, the status bar **does not** reflect a calculated
 - [Date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Created time]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) and [Last modified time]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Automatic number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
-- Numbers in [text columns]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- Numbers in [text columns]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})

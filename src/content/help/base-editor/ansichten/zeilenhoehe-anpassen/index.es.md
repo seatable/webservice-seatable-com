@@ -14,7 +14,7 @@ seo:
 weight: 29
 ---
 
-Por defecto, SeaTable muestra todas las filas en las vistas de tabla con una altura de fila compacta para mostrar el mayor número posible de registros. Sin embargo, con esta **altura de fila simple**, entre otras cosas, se cortan las columnas de [texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), [enlaces]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) y [selección múltiple]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) y solo se muestran **miniaturas de imágenes**.
+Por defecto, SeaTable muestra todas las filas en las vistas de tabla con una altura de fila compacta para mostrar el mayor número posible de registros. Sin embargo, con esta **altura de fila simple**, entre otras cosas, se cortan las columnas de [texto]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}), [enlaces]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) y [selección múltiple]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) y solo se muestran **miniaturas de imágenes**.
 
 ![Contenido de la celda truncado](images/small-row-height-cut-cells.png)
 

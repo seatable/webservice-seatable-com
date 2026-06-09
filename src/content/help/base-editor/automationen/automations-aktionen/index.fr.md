@@ -175,7 +175,7 @@ Vous pouvez faire exécuter les **fonctions d'IA** suivantes par une automation 
 
 - **Résumer** : Résume le texte d'une ou plusieurs colonnes. Vous pouvez contrôler la longueur, le ton, le format et la langue du résumé en ajustant l'invite.
 - **Classer** : Classifie les enregistrements d'une ou plusieurs colonnes. Vous pouvez personnaliser les catégories et les règles en utilisant l'invite. Le résultat atterrit dans une [colonne de sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou [colonne de sélection multiple]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}).
-- **OCR** : Extrait du texte d'une [colonne d'image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Le contenu reconnu est écrit dans la colonne de résultat de type [Texte ou Texte formaté]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
+- **OCR** : Extrait du texte d'une [colonne d'image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Le contenu reconnu est écrit dans la colonne de résultat de type [Texte ou Texte formaté]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}).
 - **Extraire** : Extrait des informations spécifiques d'une colonne de type texte ou nombre en fonction de votre demande. Les informations extraites sont écrites dans les colonnes de résultats.
 - **Défini par l'utilisateur** : Génère du contenu basé sur votre invite. Utilisez {nom de la colonne} entre accolades pour insérer la valeur de la colonne d'une ligne.
 
@@ -191,7 +191,7 @@ L'action d'automatisation "Appeler l'IA" est actuellement disponible pour les **
 Si vous sélectionnez "Gérer les rendez-vous dans Google Agenda" comme action automatisée, un rendez-vous de SeaTable sera créé ou mis à jour dans un Google Agenda lorsque le déclencheur est déclenché. Il y a quelques conditions à remplir pour que cette action fonctionne correctement :
 - Tout d'abord, vous devez [synchroniser votre compte Google Agenda avec SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}}).
 - Dans un tableau, il doit y avoir deux [colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) qui définissent le **début** et la **fin** des dates.
-- Vous avez également besoin d'une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) dans laquelle Google peut enregistrer l'**ID de l'événement** afin de synchroniser les rendez-vous.
+- Vous avez également besoin d'une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) dans laquelle Google peut enregistrer l'**ID de l'événement** afin de synchroniser les rendez-vous.
 
 ![conditions préalables pour la gestion des événements dans Google Calendar](images/manage-events-in-google-calendar-part-1.png)
 

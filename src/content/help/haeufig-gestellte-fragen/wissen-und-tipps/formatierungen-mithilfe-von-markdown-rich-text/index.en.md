@@ -21,7 +21,7 @@ You don't necessarily need to be familiar with the syntax of Markdown. But wheth
 
 Currently, there are five areas where you can use Markdown syntax in SeaTable. These are:
 
-- Columns of the [Formatted Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) type
+- Columns of the [Formatted Text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}}) type
 - [Base descriptions]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}})
 - Email texts when sending via [automations]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Forms]({{< relref "help/base-editor/webformulare/webformulare" >}})

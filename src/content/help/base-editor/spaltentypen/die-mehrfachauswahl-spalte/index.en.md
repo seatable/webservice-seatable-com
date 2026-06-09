@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Multiple Select Column in SeaTable: Options & Colors'
     description: 'Use the multiple select column in SeaTable: colorful labels, flexible sorting, export/import, custom colors, and key differences to single select.'
-
+weight: 8
 ---
 
 A multiple select column is ideal if you want to assign your rows in a column **several options** from a list of options to be defined. The options are given colorful labels that you can use to label your records and make tables clear, for example, by [filtering]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) for specific options.

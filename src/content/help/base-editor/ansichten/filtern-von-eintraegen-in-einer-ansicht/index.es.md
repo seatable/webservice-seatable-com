@@ -37,7 +37,7 @@ Dependiendo del **tipo de columna** por el que quiera filtrar, las condiciones q
 
 ### He aquí algunos ejemplos
 
-Tiene estas opciones de condición con un [Columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}):
+Tiene estas opciones de condición con un [Columna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}):
 
 ![Columna de texto filtrado](images/filtern-von-eintraegen-5.png)
 

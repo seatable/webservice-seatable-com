@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columnas “creador” y “creado” de SeaTable: registro automático y seguimiento'
     description: 'SeaTable usa "Creador" y "Creado" para registrar automáticamente usuarios y fechas. Ambas columnas no se pueden editar manualmente.'
+weight: 21
 ---
 
 Las columnas **Creador** y **Fecha y hora de creación** son rellenadas exclusivamente **de forma automática** por SeaTable y, por lo tanto, representan tipos de columna especiales. Mientras que SeaTable rellena la columna creador con el **nombre del usuario** que creó una fila, la columna fecha y hora de creación registra la **fecha y hora** en que el usuario creó la fila.

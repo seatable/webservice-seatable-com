@@ -13,7 +13,7 @@ seo:
     description: 'Aprende a usar fórmulas en SeaTable para fusionar varias columnas de texto en un solo campo, útil para nombres completos y más.'
 ---
 
-Las fórmulas de SeaTable le ofrecen varias formas de trabajar con los datos de sus tablas. Una de ellas es la fusión de contenidos de diferentes [columnas de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). Con la ayuda de una fórmula correspondiente, puede combinar cualquier número de contenidos de diferentes columnas en una columna de fórmula.
+Las fórmulas de SeaTable le ofrecen varias formas de trabajar con los datos de sus tablas. Una de ellas es la fusión de contenidos de diferentes [columnas de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). Con la ayuda de una fórmula correspondiente, puede combinar cualquier número de contenidos de diferentes columnas en una columna de fórmula.
 
 ## Fusión de columnas de texto
 

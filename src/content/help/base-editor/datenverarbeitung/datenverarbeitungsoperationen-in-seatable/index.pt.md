@@ -46,7 +46,7 @@ As seguintes **operações de relacionamento** podem actualmente ser realizadas 
 Os dois tipos de operações de tratamento de dados têm **requisitos** diferentes que devem ser cumpridos cada um para criar uma operação correspondente.
 
 - **As operações matemáticas** requerem a presença de **duas colunas de números** na sua tabela.
-- Para as **operações de relacionamento**, são necessários tipos de colunas muito específicos dependendo da aplicação, por exemplo uma [coluna de pessoal]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) e uma coluna de [texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) quando se transferem nomes de utilizadores.
+- Para as **operações de relacionamento**, são necessários tipos de colunas muito específicos dependendo da aplicação, por exemplo uma [coluna de pessoal]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) e uma coluna de [texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) quando se transferem nomes de utilizadores.
 
 ## Notas sobre a execução
 

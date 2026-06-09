@@ -33,7 +33,7 @@ It is possible to change the column type at a later date. Here you can find out 
 
 The **first column** in a table **only** supports **6 of the 26 column types**. These are
 
-- [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- [Text]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 - [Number]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
 - [Date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
@@ -42,4 +42,4 @@ The **first column** in a table **only** supports **6 of the 26 column types**. 
 
 ## Data loss warning
 
-**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) columns or when you convert [text columns]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.
+**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) columns or when you convert [text columns]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.

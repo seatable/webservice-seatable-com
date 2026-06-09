@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne de sélection multiple SeaTable : options'
     description: 'Découvrez la colonne de sélection multiple : couleurs, tri libre, import/export, couleurs personnalisées, différences avec la sélection simple.'
-
+weight: 8
 ---
 
 Une colonne de sélection multiple est idéale si vous souhaitez attribuer à vos lignes d'une colonne **plusieurs options** parmi une liste d'options à définir. Les options reçoivent des étiquettes colorées qui vous permettent d'étiqueter vos enregistrements et de rendre vos tableaux plus clairs, par exemple en [filtrant]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) sur des options spécifiques.

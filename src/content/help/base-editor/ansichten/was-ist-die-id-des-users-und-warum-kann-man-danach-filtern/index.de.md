@@ -22,7 +22,7 @@ Wenn Sie wissen wollen, wie Sie die User-ID eines Teammitglieds ändern, [finden
 
 ## Mit der User-ID filtern
 
-In SeaTable können Sie für jede Text-Spalte den Filter **„is current user’s ID“** verwenden. Dies erzeugt einen **dynamischen Filter**, der ausschließlich Einträge anzeigt, bei dem in der entsprechenden [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) die **eigene User-ID** gespeichert ist.
+In SeaTable können Sie für jede Text-Spalte den Filter **„is current user’s ID“** verwenden. Dies erzeugt einen **dynamischen Filter**, der ausschließlich Einträge anzeigt, bei dem in der entsprechenden [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) die **eigene User-ID** gespeichert ist.
 
 ![Beispiel-Filter nach User-ID](images/filter-user-ID-example-1.png)
 

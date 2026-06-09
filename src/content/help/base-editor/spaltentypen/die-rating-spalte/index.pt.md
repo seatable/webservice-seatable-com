@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Coluna de avaliação do SeaTable: tutorial detalhado'
     description: 'Use a coluna de avaliação para tabelas com símbolos, escalas de 1 a 10 e valor padrão. Ideal para rankings e feedback.'
-
+weight: 15
 ---
 
 A coluna de avaliação permite-lhe **classificar** os seus registos de modo a dar-lhes uma **pontuação** ou **avaliação de qualidade**. Ao criar a coluna, pode fazer configurações específicas relativamente à aparência e ao número máximo de **símbolos de avaliação** permitidos.

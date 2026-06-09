@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne date dans SeaTable : formats et réglages'
     description: 'Saisissez des dates précises dans SeaTable : calendrier, choix du format, valeurs par défaut et paramétrage jusqu’à la minute près. Tutoriel complet.'
-
+weight: 5
 ---
 
 La colonne des dates vous permet de saisir **des** dates et **des rendez-vous** à la minute près dans vos tableaux. Il vous suffit d'utiliser le calendrier qui s'affiche ou votre clavier pour saisir manuellement une date. Notez que SeaTable n'accepte pas d'autres entrées de données dans une colonne de date.

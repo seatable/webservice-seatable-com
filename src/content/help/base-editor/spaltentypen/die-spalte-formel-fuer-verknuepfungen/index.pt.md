@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Coluna de fórmula de ligações no SeaTable'
     description: 'Saiba como usar a coluna de fórmula de ligações no SeaTable para combinar e resumir dados entre tabelas relacionadas.'
-
+weight: 18
 ---
 
 Com uma fórmula para ligações, pode **exibir, resumir ou relacionar dados de tabelas ligadas** na sua tabela atual. É aqui que SeaTable mostra as suas vantagens como [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}).

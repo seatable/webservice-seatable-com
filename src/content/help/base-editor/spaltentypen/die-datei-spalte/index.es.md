@@ -11,6 +11,7 @@ aliases:
 seo:
     title: 'Columna de archivos en SeaTable – gestión de documentos'
     description: 'Descubre cómo usar la columna de archivos en SeaTable para subir, compartir, renombrar, eliminar y organizar tus documentos fácilmente.'
+weight: 10
 ---
 
 En una **columna de archivos** puede guardar uno o varios archivos y añadir así documentos a la fila correspondiente.

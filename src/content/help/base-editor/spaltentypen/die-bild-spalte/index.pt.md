@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Coluna de imagens: fotos em tabelas SeaTable'
     description: 'Coluna de imagens SeaTable: carregue, gerencie e visualize imagens. Adicione por upload, URL, arrastar e soltar e gestão de arquivos.'
-
+weight: 9
 ---
 
 Com a ajuda de uma **coluna de imagens**, pode carregar, guardar e gerir novas imagens nas suas tabelas com apenas alguns cliques.

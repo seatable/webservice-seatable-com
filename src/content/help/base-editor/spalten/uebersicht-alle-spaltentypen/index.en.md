@@ -33,7 +33,7 @@ Icon: {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Text**
 
 This column type stores **text** without formatting and is one of the most basic column types in SeaTable. Text contents consist of **letters**, **numbers** and **special characters** as well as **spaces**. That's why text columns are often used for names and (short) descriptions.
 
-[More about the text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[More about the text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 
 ### Long text
 
@@ -41,7 +41,7 @@ Icon: {{< seatable-icon icon="dtable-icon-long-text" >}} **Long text**
 
 In this column type you can save **longer texts** with inserted elements such as **images** and **tables**. You also have various formatting and structuring options for your texts using the Markdown markup language. Therefore, the _Long Text_ column is often used for descriptions and documentation. If it is helpful for information gathering that texts contain structuring elements and/or text and images are close to each other, then this column type is ideal.
 
-[More about the Long Text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[More about the Long Text column]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}})
 
 ### Number
 

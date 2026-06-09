@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Colonne email SeaTable – adresses validées et contacts faciles'
     description: 'Renseignez des adresses mail valides dans SeaTable. Lancez votre client mail en un clic sur l’icône de la colonne et envoyez vos messages facilement.'
-
+weight: 12
 ---
 
 La colonne e-mail est un type de colonne qui permet de saisir des adresses e-mail. Contrairement à une colonne de texte, la colonne e-mail garantit que la saisie a la structure d'une adresse e-mail valide.

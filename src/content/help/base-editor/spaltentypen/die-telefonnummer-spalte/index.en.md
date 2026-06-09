@@ -9,7 +9,7 @@ url: '/help/the-phone-number-column'
 seo:
     title: 'The phone number column type in SeaTable'
     description: 'Use this column type to validate telephone numbers and start calls with a mouse click.'
-
+weight: 16
 ---
 
 There is a separate column type in SeaTable for entering **phone numbers**. Compared to a normal text column, the phone number column offers the advantage that you can **call a phone number** with a mouse click.
@@ -29,7 +29,7 @@ You can define a preset [default value]({{< relref "help/base-editor/spalten/sta
 
 ### Validate input
 
-As with text columns, you have the option of validating entries in the telephone number column. By performing a **format check**, you can highlight telephone numbers that deviate from the valid format. You can also use [regular expressions]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) for validation.
+As with text columns, you have the option of validating entries in the telephone number column. By performing a **format check**, you can highlight telephone numbers that deviate from the valid format. You can also use [regular expressions]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) for validation.
 
 ![Check the format of a telephone number](images/format-check-phone-number.png)
 

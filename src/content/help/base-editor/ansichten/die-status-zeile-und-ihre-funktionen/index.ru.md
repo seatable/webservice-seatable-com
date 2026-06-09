@@ -65,4 +65,4 @@ weight: 30
 - [Колонки дат]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Время создания]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) и [Время последнего изменения]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Автоматический номер]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
-- Числа в [текстовых колонках]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- Числа в [текстовых колонках]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})

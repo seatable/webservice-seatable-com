@@ -63,4 +63,4 @@ Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert
 - [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Erstellt]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) und [Zuletzt bearbeitet]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
-- Zahlen in [Text-Spalten]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- Zahlen in [Text-Spalten]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})

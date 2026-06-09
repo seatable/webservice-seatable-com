@@ -37,7 +37,7 @@ Dependendo do **tipo de coluna** que se pretende filtrar, as condições que se 
 
 ### Aqui estão alguns exemplos
 
-Tem estas opções de condição com um [Coluna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}): 
+Tem estas opções de condição com um [Coluna de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}): 
 
 ![Filtrar coluna de texto](images/filtern-von-eintraegen-5.png)
 

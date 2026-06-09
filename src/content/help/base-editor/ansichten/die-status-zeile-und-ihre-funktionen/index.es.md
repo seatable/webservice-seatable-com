@@ -65,4 +65,4 @@ Para los siguientes tipos de columnas, la barra de estado **no** refleja un valo
 - [Columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
 - [Fecha y hora de creación]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) y [Última modificación]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Autonumeración]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
-- Números en [columnas de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- Números en [columnas de texto]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})

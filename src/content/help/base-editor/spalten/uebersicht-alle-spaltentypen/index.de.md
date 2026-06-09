@@ -31,7 +31,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Text**
 
 Dieser Spaltentyp speichert **Text** ohne Formatierung und gehört zu den grundlegendsten Spaltentypen in SeaTable. Textinhalte bestehen aus **Buchstaben**, **Zahlen** und **Sonderzeichen** sowie **Leerzeichen**. Deswegen werden Text-Spalten häufig für Namen und (Kurz-)Beschreibungen verwendet.
 
-[Mehr zur Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[Mehr zur Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}})
 
 ### Formatierter Text
 
@@ -39,7 +39,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-long-text" >}} **Formatierter Text**
 
 In diesem Spaltentyp können Sie **längere Texte** mit eingefügten Elementen, wie **Bildern** und **Tabellen** speichern. Für Ihre Texte stehen Ihnen zudem diverse Formatierungs- und Strukturierungsoptionen mithilfe der Auszeichnungssprache Markdown zur Verfügung. Daher wird die Spalte _Formatierter Text_ häufig für Beschreibungen und Dokumentationen verwendet. Wenn es für die Informationserfassung hilfreich ist, dass Texte strukturierende Elemente beinhalten und/oder Text und Bilder nahe beieinander stehen, dann ist dieser Spaltentyp ideal.
 
-[Mehr zur Spalte Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+[Mehr zur Spalte Formatierter Text]({{< relref "help/base-editor/spaltentypen/die-spalte-formatierter-text" >}})
 
 ### Zahl
 

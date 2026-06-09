@@ -11,7 +11,7 @@ seo:
     description: 'Übertragen Sie Benutzernamen automatisiert aus Mitarbeiter- oder Systemspalten in Textspalten – für Listen, Workflows und Filter.'
 ---
 
-Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) oder [Letzter Bearbeiter]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kopiert werden können.
+Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) oder [Letzter Bearbeiter]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) kopiert werden können.
 
 ## Anlegen der Operation
 
@@ -26,7 +26,7 @@ Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über ei
 
 ## Ausführung der Operation
 
-Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
+Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
 
 Befolgen Sie dazu die oben beschriebenen Schritte und wählen Sie die Mitarbeiter-Spalte als **Quellspalte** sowie die Text-Spalte als **Ergebnisspalte** aus.
 

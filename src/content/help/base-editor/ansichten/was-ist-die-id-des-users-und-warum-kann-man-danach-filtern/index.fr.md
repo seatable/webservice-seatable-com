@@ -24,7 +24,7 @@ Si vous voulez savoir comment modifier l'ID utilisateur d'un membre de l'équipe
 
 ## Filtrer avec l'ID utilisateur
 
-Dans SeaTable, vous pouvez utiliser le filtre **"is current user's ID"** pour chaque colonne de texte. Cela crée un **filtre dynamique** qui n'affiche que les entrées dont l'**ID utilisateur** est enregistré dans la [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) correspondante.
+Dans SeaTable, vous pouvez utiliser le filtre **"is current user's ID"** pour chaque colonne de texte. Cela crée un **filtre dynamique** qui n'affiche que les entrées dont l'**ID utilisateur** est enregistré dans la [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) correspondante.
 
 ![Exemple de filtre par ID d'utilisateur](images/filter-user-ID-example-1.png)
 

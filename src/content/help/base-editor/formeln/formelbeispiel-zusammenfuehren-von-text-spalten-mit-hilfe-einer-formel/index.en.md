@@ -13,7 +13,7 @@ seo:
     description: 'See how to use SeaTable formulas to combine text from multiple columns into one field for full names or other strings.'
 ---
 
-SeaTable formulas offer you several ways to work with the data in your tables. One of them is merging content from different [text columns]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). Using an appropriate formula, you can merge any number of contents from different columns into one formula column.
+SeaTable formulas offer you several ways to work with the data in your tables. One of them is merging content from different [text columns]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}). Using an appropriate formula, you can merge any number of contents from different columns into one formula column.
 
 ## Merging text columns
 

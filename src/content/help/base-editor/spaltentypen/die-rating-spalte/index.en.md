@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'The rating column in SeaTable: tutorial & options'
     description: 'Use the rating column for table evaluations with symbols, scales from 1 to 10 and default values. Ideal for rankings and feedback.'
-
+weight: 15
 ---
 
 The Rating column allows you to **grade** your records in order to **rank** them or give them a **quality score**. When creating the column, you can make specific settings concerning the appearance and the maximum number of **rating symbols** allowed.

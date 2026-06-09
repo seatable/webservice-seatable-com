@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Coluna de assinatura: assine digitalmente no SeaTable'
     description: 'Registre assinaturas digitais no SeaTable com a coluna de assinatura e gerencie‑as como arquivos PNG direto na gestão de arquivos da base.'
-
+weight: 26
 ---
 
 Pode armazenar uma assinatura digital numa **coluna de assinatura**, que é guardada como um ficheiro PNG no gestor de ficheiros Base.
