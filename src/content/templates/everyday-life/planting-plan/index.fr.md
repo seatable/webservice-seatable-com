@@ -81,7 +81,7 @@ sections:
       - text: '**Modèle interactif :** Reliez plantes, planches, voisinages, rotation des cultures et saisons et passez librement du tableau à la galerie, à la frise et à d’autres vues claires, idéal pour créer votre plan de plantation en ligne.'
       - text: '**Stockage central :** Toutes les données sur distance, germination, association de cultures, récolte et observations sont au même endroit : structurées, traçables et extensibles pour chaque projet de jardin.'
       image_position: [left]
-      image: '/images/template_page_pflanzplan_01.png'
+      image: '/images/template_page_Pflanzplan_01.png'
       image_alt: 'Modèle de plan de plantation dans SeaTable avec calendrier de semis, vue des planches et planification centrale du potager.'
 
     - name: "content-25"

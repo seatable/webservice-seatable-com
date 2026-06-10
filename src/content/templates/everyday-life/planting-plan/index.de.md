@@ -81,7 +81,7 @@ sections:
       - text: '**Interaktives Template:** Verknüpfen Sie Pflanzen, Beetflächen, Nachbarn, Fruchtfolge und Saisonzeiten miteinander und wechseln Sie flexibel zwischen Tabelle, Galerie, Timeline und weiteren übersichtlichen Ansichten – ideal, wenn Sie Ihren Pflanzplan online erstellen und visuell prüfen möchten.'
       - text: '**Zentrale Ablage:** Alle Informationen zu Pflanzabstand, Keimdauer, Mischkultur, Erntezeit und Beobachtungen liegen an einem Ort – strukturiert, nachvollziehbar und für jedes Gartenprojekt erweiterbar, egal wie oft Sie Ihren Pflanzplan neu erstellen.'
       image_position: [left]
-      image: '/images/template_page_pflanzplan_01.png'
+      image: '/images/template_page_Pflanzplan_01.png'
       image_alt: 'Pflanzplan Vorlage in SeaTable mit Aussaatkalender, Beetübersicht und zentraler Planung für Gemüse und Kräuter.'
 
     - name: "content-25"

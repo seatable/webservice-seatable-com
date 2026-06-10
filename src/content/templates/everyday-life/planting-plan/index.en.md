@@ -79,7 +79,7 @@ sections:
       - text: '**Interactive template:** Link plants, beds, neighbors, crop rotation and seasons, and switch flexibly between table, gallery, timeline and other clear views – ideal when you create your planting plan online and review it visually.'
       - text: '**Central storage:** All details on spacing, germination time, companion planting, harvest and observations sit in one place – structured, traceable and expandable for every garden project, no matter how often you replan.'
       image_position: [left]
-      image: '/images/template_page_pflanzplan_01.png'
+      image: '/images/template_page_Pflanzplan_01.png'
       image_alt: 'Planting plan template in SeaTable with a sowing calendar, bed overview and central planning for vegetables and herbs.'
 
     - name: "content-25"
