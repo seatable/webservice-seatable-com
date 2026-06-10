@@ -1,6 +1,6 @@
 ---
 title: 'Confirmação de encomenda'
-description: 'Crie confirmações de pedido digitalmente, automatize envios e acompanhe informações de vendas com máxima eficiência.'
+description: 'Crie e faça a gestão de confirmações de encomenda em digital, automatize fluxos e mantenha o controlo de todo o processo.'
 date: '2025-05-02'
 url: '/pt/modelo/confirmacao-pedido'
 aliases:
@@ -8,123 +8,188 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Modelo confirmação de pedido: digital e seguro'
-    description: 'Baixe modelo gratuito para confirmar pedidos – totalmente editável, pronto para uso em qualquer negócio.'
-template: 'f62eb7d3adf841cfb48a'
+    title: 'Modelo de confirmação de encomenda digital | SeaTable'
+    description: 'Use o modelo de confirmação de encomenda online: faça a gestão de dados, acompanhe o estado e exporte para PDF com o SeaTable.'
+type: pages
+
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'Modelo de confirmação de encomenda para processos claros e PDF'
+      text: 'Mantenha o controlo da sua gestão de encomendas. Com o nosso modelo de confirmação de encomenda gratuito, faça a gestão de encomendas de clientes, detalhes de projeto, rubricas e totais de forma centralizada numa base de dados flexível. Em vez de ficheiros Word ou Excel propensos a erros, use este modelo digital para dados obrigatórios padronizados, processos de aprovação claros e criação automática de PDF. As equipas veem a qualquer momento que encomendas estão abertas, confirmadas ou em curso e trabalham com uma base atualizada. Em poucos cliques, o seu modelo de confirmação de encomenda torna-se um PDF que pode enviar diretamente aos clientes.'
+      classes:
+          - bg-white
+      template: 'f62eb7d3adf841cfb48a'
+      buttons:
+          - label: Registe-se gratuitamente e use o modelo
+            link_to_template: true
+            style: primary
+    
+    - name: "content-4"
+      weight: 2
+      title: 'Modelo de confirmação de encomenda para equipas'
+      subtitle: Processamento digital
+      text: 
+      items:
+        - icon: 'check'
+          headline: 'Confirme as encomendas'
+          text: 'Use o modelo para reunir clientes, rubricas, preços e dados obrigatórios num ambiente estruturado. Assim substitui ficheiros desatualizados por uma solução central para processos limpos, aprovações rápidas e confirmações de encomenda uniformes.'
+        - icon: 'bars'
+          headline: 'Ligue os dados de clientes'
+          text: 'Ligue diretamente clientes, contactos, rubricas e preços entre si. Surge assim uma base de dados comum onde todos os dados relevantes confluem de forma coerente e podem ser reutilizados com clareza para questões, aprovações e processos seguintes.'
+        - icon: 'chart-line'
+          headline: 'Acompanhe o estado ao vivo'
+          text: 'Acompanhe a qualquer momento que encomendas estão abertas, já confirmadas ou em curso. O modelo digital de confirmação de encomenda traz transparência ao dia a dia e ajuda as equipas a detetar cedo os passos pendentes.'
+        - icon: 'lock'
+          headline: 'Trate os dados obrigatórios'
+          text: 'Trabalhe com um modelo que regista de forma estruturada a data de entrega, as condições de pagamento, os dados do cliente e outros dados obrigatórios. Isto reduz erros, evita documentos incompletos e garante processos comerciais fiáveis.' 
+        - icon: 'pencil'
+          headline: 'Modelo flexível e adaptável'
+          text: 'Amplie o modelo de confirmação de encomenda com campos próprios para descontos, fases de projeto, referências internas ou diretrizes de design. Assim o modelo digital adapta-se a agências, PME e equipas de serviços e apoia os seus processos.'
+        - icon: 'bell'
+          headline: 'Gere PDF diretamente'
+          text: 'Converta automaticamente os dados das tabelas em documentos prontos a enviar e guarde cada confirmação de encomenda como PDF. Assim evita copiar à mão para um exemplo de confirmação, e versões, conteúdos e aprovações ficam sempre rastreáveis.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes em todo o mundo confiam no SeaTable"
+      subtitle: "Quem utiliza o SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Transferências no Docker Hub no primeiro ano
+      - number: "1.500+"
+        text: "Utilizadores diários no SeaTable Cloud"
+      - number: "4,6"
+        text: "Avaliação no Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable em ação: casos de sucesso"
+          id: pt-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Use o modelo de confirmação de encomenda online'
+      subtitle: 'As suas vantagens num relance'
+      description: 'Descubra um modelo de confirmação de encomenda para gerir encomendas sem o caos do Word ou Excel. Use o SeaTable para controlar clientes, produtos, rubricas e totais numa base de dados comum. O modelo suporta dados obrigatórios, criação de PDF e processos de aprovação transparentes em tempo real. Para ligar ainda mais os seus fluxos, o SeaTable oferece também um [modelo de fatura]({{< relref "templates/finance/invoice-creation" >}}) ou um [modelo de orçamento]({{< relref "templates/sales/quotation-management" >}}) estruturados. Assim cria uma base sólida para um processamento de encomendas profissional e processos empresariais mais eficientes, em que gera a partir do modelo documentos PDF atualizados para os seus clientes.'
+      items:
+      - text: '**Dados atualizados:** Registe encomendas de clientes, rubricas e estado dos documentos de forma contínua num modelo central, para que as encomendas abertas, confirmadas e enviadas fiquem sempre visíveis e atuais.'
+      - text: '**Colaboração real:** Office managers, operations managers, gestores de projeto e equipas de vendas trabalham na mesma base de dados, sem caos de versões, quebras de meios ou cópias manuais entre CRM, Excel e PDF.'
+      - text: '**Modelo interativo:** Ligue clientes, produtos, preços, descontos e responsáveis entre si e alterne entre tabelas, filtros, agrupamentos, formulários e análises visuais sempre que precisar.'
+      - text: '**Arquivo central:** Todas as confirmações de encomenda, dados de clientes, campos obrigatórios, PDF e notas ficam num só lugar: estruturados, rastreáveis e ampliáveis para equipas em crescimento.'
+      image_position: [left]
+      image: '/images/template_page_auftragsbestaetigung_01.png'
+      image_alt: 'Modelo de confirmação de encomenda no SeaTable com vista de clientes, encomendas, rubricas e estado dos documentos.'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Como usar o modelo de confirmação de encomenda'
+      subtitle: 'Um exemplo prático'
+      items:
+      - headline: 'Tabela de encomendas para confirmações'
+        text: 'Na tabela «Orders» reúne todos os dados necessários para uma confirmação de encomenda profissional. Escolhe o cliente, a pessoa responsável das vendas e as rubricas adequadas. Os números de série são atribuídos automaticamente, os totais calculados por fórmula e, consoante o país do cliente, são considerados dados fiscais como o IVA ou o número de IVA. Assim usa o modelo de confirmação de encomenda para representar as encomendas de clientes de forma limpa e padronizada.'
+        image: '/images/template_page_auftragsbestaetigung_02.png'
+        image_alt: 'Tabela de encomendas com atribuição de cliente, pessoa responsável, rubricas e totais calculados automaticamente.'
+      - headline: 'Tabela de clientes para dados mestre'  
+        text: 'Na tabela «Customers» faz a gestão de todos os dados relevantes do cliente, como nome da empresa, morada, pessoa de contacto, e-mail, telefone, país e número de IVA. Esta informação está ligada às encomendas e é integrada automaticamente na confirmação através de lookup. Assim reduz a introdução de dados duplicados e o seu exemplo de confirmação é preenchido com dados coerentes.'
+        image: '/images/template_page_auftragsbestaetigung_03.png'
+        image_alt: 'Tabela de clientes com dados da empresa, pessoa de contacto, país, e-mail e número de identificação de IVA.'
+      - headline: 'Tabela de produtos para serviços'
+        text: 'Na tabela «Products» mantém os seus produtos ou serviços com designação, descrição, categoria e preço líquido. As fórmulas calculam automaticamente os preços brutos, enquanto a ligação às rubricas garante que os preços são transpostos de forma coerente para as confirmações. Assim o seu modelo de confirmação de encomenda mantém-se fiável e fácil de manter, mesmo com muitos orçamentos e variantes.'
+        image: '/images/template_page_auftragsbestaetigung_04.png'
+        image_alt: 'Tabela de produtos com designações, categorias, preços líquidos e preços brutos calculados automaticamente.'
+      - headline: 'Tabela de rubricas para quantidades'
+        text: 'Na tabela «Positions» compõe as várias rubricas da encomenda ligando produtos à quantidade pretendida. O valor líquido total de cada rubrica é calculado automaticamente e depois integrado na confirmação de encomenda. Assim gera um documento completo diretamente a partir de dados estruturados, pronto para aprovação, envio e processamento seguinte.'
+        image: '/images/template_page_auftragsbestaetigung_05.png'
+        image_alt: 'Tabela de rubricas com produtos ligados, quantidades e totais de rubrica calculados automaticamente no SeaTable.'
+            
+    - name: "content-6"
+      weight: 12
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'A sua app interativa de confirmação de encomenda'
+      subtitle: 
+      items:
+      - text: 'Transforme o seu modelo de confirmação de encomenda numa app interativa para gestão de encomendas, processo de aprovação e criação de documentos. Combine tabelas de encomendas, dados mestre de clientes, listas de produtos, gestão de rubricas e exportação para PDF numa aplicação personalizável. Gere a partir do modelo um PDF que reúne toda a informação relevante e que se usa sem esforço de formatação adicional. Visualize estados e a evolução das receitas em dashboards, partilhe vistas específicas com os departamentos e controle com precisão o acesso a dados sensíveis através de funções. Seja uma encomenda única, um projeto em curso ou um processamento padronizado, o modelo adapta-se aos seus processos e ajuda as equipas a decidir mais depressa e com menos erros.'
+      image: '/images/template_page_auftragsbestaetigung_06.png'
+      image_alt: 'App interativa de confirmação de encomenda com vistas de clientes, encomendas, rubricas, criação de PDF e estado.'
+
+    - name: "banner-3"
+      weight: 15
+      title: 'Organize encomendas, dados de clientes e confirmações PDF em digital, com o SeaTable'
+      buttons:
+        - label: Usar agora o modelo de confirmação
+          link: pages/registration
+     
+    - name: "content-9"
+      weight: 16
+      title: 'Processamento de encomendas com IA'
+      subtitle: 'Automatização para o office'
+      description: 'Com o SeaTable, o seu modelo de confirmação de encomenda fica ainda mais potente. As [automatizações com IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) integradas ajudam-no a processar dados de encomenda mais depressa, a manter dados obrigatórios coerentes e a reduzir tarefas de rotina no processo documental. Assim, um exemplo de confirmação clássico torna-se um sistema inteligente para gestão de encomendas, aprovações e colaboração.'
+      items:
+      - headline: 'Classifique dados com IA'
+        text: 'Com Classify atribui automaticamente registos de clientes, tipos de encomenda ou rubricas a categorias adequadas. A IA analisa designações, textos e dados adicionais e escreve a atribuição em campos definidos. Assim o seu modelo mantém-se uniforme, analisável e estruturado mesmo com muitos dados.'
+        icon: table
+      - headline: 'Extraia campos obrigatórios'
+        text: 'Com Extract importa conteúdos de e-mails, encomendas ou orçamentos diretamente para o seu modelo de confirmação de encomenda. A IA reconhece data de entrega, condições de pagamento, contactos ou referências e transfere-os automaticamente para as colunas certas. Poupa tempo e reduz erros.'
+        icon: layer-group
+      - headline: 'Capte os dados por OCR'
+        text: 'Com OCR lê conteúdos de encomendas digitalizadas, confirmações assinadas ou documentos complementares. A IA reconhece nomes, datas, valores ou números e adiciona-os ao seu modelo digital de confirmação de encomenda. Assim integra também documentos manuais em fluxos digitais.'
+        icon: image
+      - headline: 'Resuma o estado da encomenda'
+        text: 'Com Summarize a IA cria relatórios breves sobre aprovações abertas, encomendas confirmadas ou atrasos críticos. Números, comentários e estados do seu modelo são condensados e apresentados com clareza. Isto facilita a coordenação na gestão de projetos e acelera as decisões.'
+        icon: circle-info
+      - headline: 'Defina regras próprias'
+        text: 'Com Custom Prompt define regras próprias para o seu modelo de confirmação de encomenda, como avisos por dados obrigatórios em falta, verificações de condições de pagamento ou formulações para a carta de confirmação comercial. Assim a solução ajusta-se aos seus processos internos.'
+        icon: wand-magic-sparkles
+      - headline: 'Priorize aprovações'
+        text: 'Com vistas de estado baseadas em IA deteta de imediato que confirmações têm de ser enviadas, onde falta informação ou que encomenda deve ser priorizada. Isto dá clareza às equipas de office, operações e projeto e torna o seu processamento muito mais reativo.'
+        icon: arrow-right
+        
+        
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Modelo de confirmação de encomenda flexível'
+      subtitle: 'Transparência em tempo real'
+      description: 'O SeaTable é uma moderna base de dados no-code com IA, automatizações e App Builder, e oferece tudo o que precisa para um modelo de confirmação de encomenda profissional. O foco está na padronização, na transparência e na adaptação flexível: da encomenda simples a uma app escalável para processo de aprovação, criação de PDF e processamento de ponta a ponta, como alternativa moderna aos documentos estáticos de Word e Excel.'
+      box-position: [right!]
+      items:
+      - headline: Alternativa aos modelos estáticos 
+        text: 'Organize as suas confirmações de encomenda com o SeaTable como uma forte [alternativa ao Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) muito mais eficiente, com tabelas ligadas, aprovações, formulários e atualizações em tempo real para processos documentais profissionais.'
+      - headline: Ligue projetos e encomendas
+        text: 'Ligue o seu modelo de confirmação de encomenda ao [modelo de plano de projeto]({{< relref "templates/projects/project-plan" >}}) para coordenar de forma central encomendas, responsabilidades, prazos e próximos passos na gestão de projetos.'
+      - headline: Totalmente conforme com o RGPD
+        text: 'Se usar o SeaTable Cloud ou a IA integrada, os dados sensíveis de clientes e encomendas permanecem na Europa: a infraestrutura é operada exclusivamente em servidores na Alemanha, para que mantenha o controlo total.'
+      - headline: Acesso seguro com 2FA e SSO
+        text: 'O SeaTable suporta autenticação de dois fatores e single sign-on, para que controle exatamente quem pode aceder a dados de clientes, confirmações de encomenda e aprovações internas nas suas equipas.'
+
+    - name: "faq"
+      weight: 20
+      title: 'FAQ: perguntas frequentes sobre o modelo de confirmação de encomenda'
+      subtitle: 
+      items:
+      - q: "Para quem é o modelo de confirmação de encomenda?"
+        a: 'O modelo é indicado para operations managers, office managers, gestores de projeto, PME, agências e equipas de vendas que querem confirmar encomendas de clientes de forma estruturada e gerir o seu processamento em digital.'
+      - q: "O que deve constar numa confirmação de encomenda válida?"
+        a: 'São importantes, entre outros, os dados da empresa e do cliente, o número de encomenda, o assunto, a descrição do serviço com rubricas, preços, data, eventuais datas de entrega, condições de pagamento e outros dados obrigatórios. O conteúdo não pode divergir do orçamento aceite.'
+      - q: "Quando é necessária uma confirmação na gestão de projetos?"
+        a: 'Uma confirmação de encomenda por escrito é especialmente útil quando as encomendas foram feitas verbalmente, existem várias versões de orçamento, os detalhes do contrato não são claros ou passou algum tempo entre o orçamento e a aceitação.'
+      - q: "Como gero um PDF a partir do exemplo de confirmação?"
+        a: 'Com o modelo digital de confirmação de encomenda, os dados do cliente, as rubricas e os preços são retirados das tabelas e gerados como PDF através do design de página. Assim obtém um documento pronto a enviar sem copiar à mão.'
+      - q: "A plataforma pode ligar-se a sistemas CRM existentes?"
+        a: 'O SeaTable integra-se com flexibilidade nos processos empresariais existentes. Assim, os dados de clientes, a informação de encomendas e outros fluxos podem ser ligados a outros sistemas e processados de forma centralizada.'
+      - q: "O modelo de confirmação é escalável para equipas?"
+        a: 'Sim, vários utilizadores podem trabalhar ao mesmo tempo na mesma base de dados. O modelo amplia-se com flexibilidade desde pequenas equipas até processos de toda a empresa, sem perder estrutura.'
+      - q: "Posso representar orçamento e fatura com o modelo?"
+        a: 'Sim, na solução de base também pode usar modelos e processos para orçamento e fatura, de modo que represente todo o fluxo, desde o pedido inicial até à faturação, num único lugar.'
+      - q: "Posso usar o modelo de confirmação gratuitamente?"
+        a: 'Sim, o modelo pode ser usado gratuitamente no SeaTable. Assim começa de imediato com uma gestão de encomendas digital e uma criação de documentos profissional, sem ter de criar primeiro a sua própria estrutura.'
+      
 ---
-
-Parabéns! Outro cliente aceitou a sua oferta. Antes de começar a prestar o serviço, só precisa deescreverumaconfirmação da encomenda. No entanto, especialmente se processa encomendas com frequência, não deve criar uma confirmação de encomenda de cada vez. Em vez disso, utilizeo modelo de confirmação de encomenda da SeaTable, que pode utilizar para confirmar todas as ofertas por escrito - gratuitamente, de forma cómoda e segura!
-
-## Vantagens de um modelo de confirmação de encomenda
-
-Quando utiliza um modelo de confirmação de encomenda, beneficia de inúmeras melhorias que tornam o seu processo mais eficiente, mais simples e mais robusto.
-
-- Poupe tempo: O nosso modelo digital permite-lhe criar, enviar e guardar automaticamente todas as confirmações de encomendas. Isto reduz as entradas manuais e minimiza o seu volume de trabalho administrativo.
-
-- Sem erros: Se a confirmação da ordem for criada automaticamente com os campos dinâmicos e as fórmulas, não há erros de cálculo ou de digitação, como acontece com um modelo de confirmação da ordem no Word.
-
-- Armazenamento centralizado: No SeaTable, pode armazenar todos os dados existentes relativos aos seus clientes, produtos e encomendas, ligá-los entre si e incorporá-los em documentos.
-
-- Sustentabilidade: Com o SeaTable, a confirmação da sua encomenda é completamente sem papel - sem expedições demoradas e dispendiosas, mas simplesmente com o toque de um botão por correio eletrónico.
-
-![Edição de uma confirmação de encomenda no SeaTable com campos preenchidos automaticamente](images/image-1743589610782.gif)
-
-## Quando é que se deve criar uma confirmação de encomenda
-
-A confirmação da encomenda é o processo através do qual um cliente aceita a sua oferta e confirma ao cliente que a sua empresa cumprirá a encomenda nas condições acordadas. Note-se que a confirmação da encomenda deve corresponder à oferta negociada. Só então éjuridicamente vinculativaeé celebrado um contrato. No entanto, se os pormenores (por exemplo, o âmbito dos serviços, o preço ou a quantidade) da oferta e da confirmação da encomenda não foremidênticos, não é celebrado qualquer contrato e o cliente tem de chegar novamente a acordo.
-
-Se tudo já estiver precisamente regulado na oferta aceite, pode também dispensaruma confirmação escrita da encomenda. No entanto, é útil para evitar mal-entendidos, especialmente se a oferta tiver sido alterada várias vezes ou se tiver passado algum tempo desde que a oferta foi aceite. A confirmação da encomenda também pode indicar as datas de entrega e as condições de pagamento, mas não substitui uma fatura. A confirmação da encomenda indica apenas o preço dos serviços acordados.
-
-### Casos em que uma confirmação escrita da encomenda é importante
-
-- O seu cliente apenas efectuou a encomenda verbalmente (por exemplo, por telefone).
-
-- O seu cliente efectuou uma encomenda sem receber previamente um orçamento.
-
-- As condições contratuais essenciais não são claras na proposta.
-
-- Existem várias versões da sua oferta devido às negociações.
-
-- O cliente só efectuou a encomenda depois de o prazo da oferta ter expirado.
-
-Também podepedir ao cliente que assinea confirmação da encomenda se quiser certificar-se de que ele concorda com os termos do contrato. O cliente também pode confirmar a oferta por escrito com a sua assinatura.
-
-## Como criar uma confirmação de encomenda profissional
-
-Embora não existam requisitos legais quanto às informações que uma confirmação de encomenda por escrito deve conter,os detalhes não devem divergir da oferta aceite. Se utilizar o nosso modelo para a confirmação da encomenda, está sempre seguro, uma vez que o SeaTable utiliza os mesmos dados que na oferta correspondente.
-
-![Vista de tabela de encomendas com informações de clientes, itens e valores](images/image-1743589843690.png)
-
-As seguintes informações obrigatórias não devem faltar em nenhuma confirmação de encomenda aos clientes:
-
-1. Quando redige uma confirmação de encomenda, onomeeo endereço da sua empresaconstituem normalmente o papel timbrado, juntamente como logótipoda suaempresa.
-
-2. é necessário onomeeo endereço do clientenão só para a entrega, mas também por razões fiscais, uma vez que os serviços prestados a empresas são tributáveis no local onde o cliente está estabelecido.
-
-3.assuntoenúmero de encomenda: uma numeração clara e consecutiva das suas encomendas facilita a sua atribuição na futura correspondência com os seus clientes.
-
-4 A saudação direta com onome da pessoa de contactodá um toque pessoal à confirmação da encomenda.
-
-5 A descrição exacta do serviço com oselementosindividuais(tipo, preço e quantidade)constitui a parte principal da confirmação da encomenda. Deve ser claro em que medida está a vender os seus produtos ou serviços.
-
-6 Agora é hora de pôr mãos à obra: somar as rubricas individuais para obter omontante líquido, deduzir umdesconto, se necessário, e, para os clientes nacionais, calcular também o montante bruto, incluindo o IVA.
-
-7 Para as empresas clientes no estrangeiro, é necessário onúmero de identificação para efeitos de IVA. Chame a atenção destes clientes para o facto de terem de pagar eles próprios o IVA no respetivo país (responsabilidade fiscal do destinatário do serviço).
-
-8. Não se esqueça dadata atualeda data em que a encomenda foi feitaquando redigir uma confirmação de encomenda. Opcionalmente, pode também indicar umadata de entrega.
-
-9. concluir o texto com um fecho amigável e umasaudação. É preferível fazer também referência às suasCondições Gerais de Venda (CGV)quando enviar uma confirmação de encomenda aos clientes.
-
-    10.Os dados bancários, o númerode IVAe outros dados relevantes da empresa devem ser incluídos no cabeçalho do modelo de confirmação da encomenda.
-
-## As várias funções do nosso modelo de confirmação de encomenda
-
-- Pode personalizar o nosso modelo de confirmação de encomenda de acordo com os seus desejos e necessidades. Conceba a sua confirmação de encomenda com o modelo noplug-in de conceção de páginase utilize uma variedade de tipos de colunas e opções de visualização.
-
-- Crie os seus modelos de confirmação de encomendaem diferentes línguasou para diferentes países e defina dependências para que o modelo adequado seja sempre selecionado automaticamente.
-
-- Assim que tiver preenchido o modelo com os seus dados e desenhos personalizados, pode criar a confirmação da encomendaautomáticae gratuitamentecom o toque de um botão- sem qualquer esforço adicional da sua parte.
-
-- Também pode automatizar a expedição: A integração com o seu fornecedor de correio eletrónico permite-lhe escrever uma confirmação de encomenda com apenas um clique e enviá-ladiretamente por correio eletrónico.
-
-- Utilize asestatísticasintegradas para obter informações valiosas dos seus números e dados e tomar decisões bem fundamentadas.
-
-## Redigir uma confirmação de encomenda - pode ser tão simples quanto isso
-
-O modelo de confirmação de encomenda do SeaTable ajuda-o a organizar claramenteos produtos,os clienteseas encomendas, a criar automaticamente uma confirmação de encomenda e a guardá-la como um PDF pronto a ser enviado. Graças aligaçõesinteligentes, a confirmação da encomenda é alimentada a partir de dados relevantes de várias tabelas: As informações sobre o cliente, os artigos da encomenda e os preços são integrados sem problemas, enquantoas fórmulascalculam automaticamente os descontos e o IVA.
-
-![Fluxo no SeaTable: criar confirmação de encomenda, guardar em PDF e enviar](images/image-1743590730029.gif)
-
-### Criar uma confirmação de encomenda de forma simples
-
-O plugin de design de páginas, que lhe permite conceberdocumentos em várias línguas, é particularmente prático para confirmações de encomendas escritas. Basta um único clique para guardar um modelo de confirmação de encomenda em PDF - dependendo do país do cliente, o SeaTable utiliza automaticamente o modelo adequado para a confirmação da encomenda. Graças àinterface de fácil utilização, pode escrever uma confirmação de encomenda num instante. A expedição também está integrada: Com um botão adicional, aconfirmação de encomendafinalizada pode serenviada diretamente para o cliente por correio eletrónico. Todo o processo decorre de forma eficiente e sem problemas, sem necessidade de cópias laboriosas ou de dactilografia manual.
-
-### Mais do que um simples modelo de confirmação de encomenda
-
-Também precisa de um modelo para o seuorçamentooufatura? Felizmente, a confirmação da encomenda é apenas um dosinúmeros casos de utilizaçãodo SeaTable. Também pode utilizar funções adicionais valiosas:As estatísticaspermitem-lhe analisar facilmente os números de vendas e o volume de negócios, enquanto a vista de galeria fornece uma visão geral da sua carteira de produtos. Graças às opções flexíveis de personalização do SeaTable, pode adaptar colunas, cálculos e vistas às suas necessidades individuais e criar uma aplicação que se adapte perfeitamente à sua empresa.
-
-## Vantagens do SeaTable como software de confirmação de encomendas
-
--Gratuito: O modelo de confirmação de encomenda é gratuito. Comece com a versão gratuita do SeaTable, que já inclui inúmeras funções. Se necessário, pode simplesmente atualizar para obter mais funções ou espaço de armazenamento.
-
--Colaboração: Graças à sincronização em tempo real, o SeaTable facilita muito a colaboração em equipa. Vários utilizadores podem trabalhar em tabelas, atualizar dados e deixar comentários ao mesmo tempo.
-
--Prático: Se criar uma confirmação de encomenda em linha, pode aceder-lhe a partir de qualquer lugar e a qualquer momento, estando também protegida contra perdas. Ao contrário de um modelo de confirmação de encomenda em Word, também é possível guardar dados estruturados e gerar documentos automaticamente.
-
--Flexível: O SeaTable é muito mais do que uma simples base de dados. Graças às suas versáteis opções de personalização, pode ser utilizado para uma vasta gama de aplicações (tais como cotações, facturas e confirmações de encomendas) e perfeitamente integrado em vários processos empresariais.
-
--Seguro: Os seus dados estão protegidos de forma óptima com o SeaTable. Tem a opção de os armazenar na nuvem ou no local. Graças à conformidade com o RGPD e aos direitos de acesso individuais, mantém sempre o controlo total sobre os seus dados.
-
--Escalável: Desde a utilização inicial com apenas alguns funcionários até uma solução para toda a empresa - o SeaTable cresce com as suas necessidades. Só paga pelas funções e recursos que realmente utiliza.
-
-## Facilite a confirmação de encomendas com o SeaTable
-
-Quer seja um modelo de confirmação de encomenda gratuito para pequenas empresas ou um software de confirmação de encomenda para grandes empresas - com o SeaTable é uma brincadeira de crianças escrever uma confirmação de encomenda para cada cliente. Utilize as automatizações para criar e enviar uma confirmação de encomenda escrita após outra num instante. Isto dá-lhe mais tempo para as coisas importantes em vez de perder horas valiosas a confirmar encomendas aos clientes.
-
-Se pretender utilizar gratuitamente o modelo de confirmação de encomenda,basta registar-secom o seu endereço de correio eletrónico.
-
-## Modelo interativo
-
-Percorra o nosso modelo incorporado de forma interactiva ou leia a descrição clicando no símbolo i a seguir ao nome do modelo. Isto dar-lhe-á uma melhor noção das funções do modelo de confirmação de encomenda. Se tiver alguma dúvida, consulte a nossasecção de ajuda.
-
-​

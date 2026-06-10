@@ -1,6 +1,6 @@
 ---
 title: 'Confirmación de pedido'
-description: 'Cree, gestione y envíe confirmaciones de pedido fácilmente, estructure el proceso y evite errores en cada venta.'
+description: 'Cree y gestione confirmaciones de pedido en digital, automatice flujos y mantenga el control de todo el proceso de pedidos.'
 date: '2025-05-02'
 url: '/es/plantilla/confirmacion-pedido'
 aliases:
@@ -8,123 +8,188 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Plantilla confirmación de pedido: digital y adaptada'
-    description: 'Automatiza tus confirmaciones de pedido: descarga la plantilla, añade tus datos, crea documentos legales al instante.'
-template: 'f62eb7d3adf841cfb48a'
+    title: 'Plantilla de confirmación de pedido digital | SeaTable'
+    description: 'Use la plantilla de confirmación de pedido online: gestione datos, siga el estado y exporte a PDF. Empiece gratis con SeaTable.'
+type: pages
+
+sections:
+    - name: hero-5
+      weight: 1
+      title: 'Plantilla de confirmación de pedido para procesos claros y PDF'
+      text: 'Mantenga el control de su gestión de pedidos. Con nuestra plantilla de confirmación de pedido gratuita, gestione pedidos de clientes, detalles de proyectos, partidas y totales de forma centralizada en una base de datos flexible. En lugar de archivos de Word o Excel propensos a errores, use esta plantilla digital de confirmación de pedido para datos obligatorios estandarizados, procesos de aprobación claros y creación automática de PDF. Los equipos ven en todo momento qué pedidos están abiertos, confirmados o en curso y trabajan con una base de datos actualizada. En pocos clics, su plantilla de confirmación de pedido se convierte en un PDF que puede enviar directamente a sus clientes.'
+      classes:
+          - bg-white
+      template: 'f62eb7d3adf841cfb48a'
+      buttons:
+          - label: Regístrese gratis y use la plantilla
+            link_to_template: true
+            style: primary
+    
+    - name: "content-4"
+      weight: 2
+      title: 'Plantilla de confirmación de pedido para equipos y clientes'
+      subtitle: Gestión digital de pedidos
+      text: 
+      items:
+        - icon: 'check'
+          headline: 'Confirme pedidos en un lugar'
+          text: 'Use la plantilla para reunir clientes, partidas, precios y datos obligatorios en un entorno estructurado. Así sustituye archivos obsoletos por una solución central para procesos limpios, aprobaciones rápidas y confirmaciones de pedido uniformes.'
+        - icon: 'bars'
+          headline: 'Vincule datos de clientes'
+          text: 'Conecte clientes, contactos, partidas y precios directamente entre sí. Así surge una base de datos común en la que todos los datos relevantes confluyen de forma coherente y pueden reutilizarse con claridad para consultas, aprobaciones y procesos posteriores.'
+        - icon: 'chart-line'
+          headline: 'Siga el estado en directo'
+          text: 'Controle en todo momento qué pedidos siguen abiertos, ya están confirmados o en curso. La plantilla digital de confirmación de pedido aporta transparencia al día a día y ayuda a los equipos a detectar a tiempo los pasos pendientes.'
+        - icon: 'lock'
+          headline: 'Cuide los datos obligatorios'
+          text: 'Trabaje con una plantilla que registra de forma estructurada la fecha de entrega, las condiciones de pago, los datos del cliente y otros datos obligatorios. Esto reduce errores, evita documentos incompletos y garantiza procesos comerciales fiables.' 
+        - icon: 'pencil'
+          headline: 'Plantilla flexible y adaptable'
+          text: 'Amplíe la plantilla para la confirmación de pedido con campos propios para descuentos, fases de proyecto, referencias internas o pautas de diseño. Así la plantilla digital se adapta a agencias, pymes y equipos de servicios y apoya procesos propios.'
+        - icon: 'bell'
+          headline: 'Genere PDF en digital'
+          text: 'Convierta automáticamente los datos de sus tablas en documentos listos para enviar y guarde cada confirmación de pedido como PDF. Así evita copiar a mano en un modelo de confirmación de pedido, y versiones, contenidos y aprobaciones quedan siempre trazables.' 
+
+    - name: "customer-1"
+      weight: 4
+      title: "Empresas líderes de todo el mundo confían en SeaTable"
+      subtitle: "¿Quién usa SeaTable?"
+      marquee_rows: 2
+      items: 
+      - number: "100.000+"
+        text: Descargas en Docker Hub el primer año
+      - number: "1.500+"
+        text: "Usuarios diarios en SeaTable Cloud"
+      - number: "4,6"
+        text: "Valoración en Capterra"
+      buttons:
+        - link: "categories/customer-story"
+          label: "SeaTable en acción: casos de éxito"
+          id: es-homepage-customer-1
+
+    - name: "content-12"
+      weight: 5
+      classes:
+        - curved
+        - [bg-gray-200, bg-seatable-blue]
+      title: 'Use la plantilla de confirmación de pedido online'
+      subtitle: 'Sus ventajas de un vistazo'
+      description: 'Descubra una plantilla de confirmación de pedido con la que gestionar pedidos sin el caos de Word o Excel. Use SeaTable para controlar clientes, productos, partidas y totales en una base de datos común. La plantilla admite datos obligatorios, creación de PDF y procesos de aprobación transparentes en tiempo real. Si desea conectar aún más sus flujos, con SeaTable también puede usar una [plantilla de factura]({{< relref "templates/finance/invoice-creation" >}}) o una [plantilla de presupuesto]({{< relref "templates/sales/quotation-management" >}}) estructuradas. Así crea una base sólida para una gestión de pedidos profesional y procesos empresariales más eficientes, en los que genera desde la plantilla documentos PDF actualizados para sus clientes.'
+      items:
+      - text: '**Datos actualizados:** Registre pedidos de clientes, partidas y estado de los documentos de forma continua en una plantilla central, para que los pedidos abiertos, confirmados y enviados estén siempre visibles y al día.'
+      - text: '**Colaboración real:** Office managers, operations managers, jefes de proyecto y equipos de ventas trabajan juntos en la misma base de datos, sin caos de versiones, rupturas de medios ni copias manuales entre CRM, Excel y PDF.'
+      - text: '**Plantilla interactiva:** Vincule clientes, productos, precios, descuentos y responsables entre sí y alterne entre tablas, filtros, agrupaciones, formularios y análisis visuales cuando lo necesite.'
+      - text: '**Almacenamiento central:** Todas las confirmaciones de pedido, datos de clientes, campos obligatorios, PDF y notas están en un solo lugar: estructurados, trazables y ampliables para equipos en crecimiento.'
+      image_position: [left]
+      image: '/images/template_page_auftragsbestaetigung_01.png'
+      image_alt: 'Plantilla de confirmación de pedido en SeaTable con visión de clientes, pedidos, partidas y estado de los documentos.'
+
+    - name: "content-25"
+      weight: 10
+      title: 'Cómo usar la plantilla de confirmación de pedido'
+      subtitle: 'Un ejemplo práctico'
+      items:
+      - headline: 'Tabla de pedidos para confirmaciones'
+        text: 'En la tabla «Orders» reúne todos los datos necesarios para una confirmación de pedido profesional. Elige el cliente, la persona responsable de ventas y las partidas adecuadas. Los números de serie se asignan automáticamente, los totales se calculan por fórmula y, según el país del cliente, se tienen en cuenta datos fiscales como el IVA o el número de IVA. Así usa la plantilla de confirmación de pedido para reflejar los pedidos de clientes de forma limpia, trazable y estandarizada.'
+        image: '/images/template_page_auftragsbestaetigung_02.png'
+        image_alt: 'Tabla de pedidos con asignación de cliente, persona responsable, partidas y totales calculados automáticamente.'
+      - headline: 'Tabla de clientes para datos maestros'  
+        text: 'En la tabla «Customers» gestiona todos los datos relevantes del cliente, como nombre de la empresa, dirección, persona de contacto, correo electrónico, teléfono, país y número de IVA. Esta información se vincula a los pedidos y se incorpora automáticamente a la confirmación mediante lookup. Así reduce la entrada de datos duplicados y su modelo de confirmación de pedido se rellena con datos de cliente coherentes.'
+        image: '/images/template_page_auftragsbestaetigung_03.png'
+        image_alt: 'Tabla de clientes con datos de empresa, persona de contacto, país, correo electrónico y número de identificación de IVA.'
+      - headline: 'Tabla de productos para servicios'
+        text: 'En la tabla «Products» mantiene sus productos o servicios con denominación, descripción, categoría y precio neto. Las fórmulas calculan automáticamente los precios brutos, mientras que la vinculación con las partidas garantiza que los precios se trasladen de forma coherente a las confirmaciones de pedido. Así su plantilla para la confirmación de pedido sigue siendo fiable y fácil de mantener, incluso con muchos presupuestos y variantes.'
+        image: '/images/template_page_auftragsbestaetigung_04.png'
+        image_alt: 'Tabla de productos con denominaciones, categorías, precios netos y precios brutos calculados automáticamente.'
+      - headline: 'Tabla de partidas para cantidades'
+        text: 'En la tabla «Positions» compone las distintas partidas del pedido vinculando productos con la cantidad deseada. El valor neto total de cada partida se calcula automáticamente y se integra en la confirmación de pedido. Así genera un documento completo directamente a partir de datos estructurados, listo para su aprobación, envío y gestión posterior.'
+        image: '/images/template_page_auftragsbestaetigung_05.png'
+        image_alt: 'Tabla de partidas con productos vinculados, cantidades y totales de partida calculados automáticamente.'
+            
+    - name: "content-6"
+      weight: 12
+      classes:
+        - curved
+        - bg-gray-100
+      title: 'Su app interactiva de confirmación de pedido'
+      subtitle: 
+      items:
+      - text: 'Convierta su plantilla de confirmación de pedido en una app interactiva para gestión de pedidos, proceso de aprobación y creación de documentos. Combine tablas de pedidos, datos maestros de clientes, listas de productos, gestión de partidas y exportación a PDF en una aplicación personalizable. Genere desde su plantilla un PDF que reúna toda la información relevante y se use sin esfuerzo de formato adicional. Visualice estados y la evolución de ingresos en cuadros de mando, comparta vistas concretas con los departamentos y controle con precisión el acceso a datos sensibles mediante roles. Ya sea un pedido único, un proyecto en curso o una gestión estandarizada, la plantilla se adapta a sus procesos y ayuda a decidir más rápido y con menos errores.'
+      image: '/images/template_page_auftragsbestaetigung_06.png'
+      image_alt: 'App interactiva de confirmación de pedido con vistas de clientes, pedidos, partidas, creación de PDF y seguimiento.'
+
+    - name: "banner-3"
+      weight: 15
+      title: 'Organice pedidos, datos de clientes y confirmaciones en PDF en digital, con SeaTable'
+      buttons:
+        - label: Use ahora la plantilla de confirmación
+          link: pages/registration
+     
+    - name: "content-9"
+      weight: 16
+      title: 'Gestión de pedidos con IA'
+      subtitle: 'Automatización inteligente'
+      description: 'Con SeaTable, su plantilla de confirmación de pedido es aún más potente. Las [automatizaciones con IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) integradas le ayudan a procesar datos de pedidos más rápido, mantener coherentes los datos obligatorios y reducir tareas rutinarias en el proceso documental. Así, un modelo de confirmación de pedido clásico se convierte en un sistema inteligente para gestión de pedidos, aprobaciones y colaboración.'
+      items:
+      - headline: 'Clasifique datos con IA'
+        text: 'Con Classify asigna automáticamente registros de clientes, tipos de pedido o partidas a categorías adecuadas. La IA analiza denominaciones, textos y datos adicionales y escribe la asignación en campos definidos. Así su plantilla de confirmación de pedido sigue siendo uniforme, analizable y estructurada con muchos datos.'
+        icon: table
+      - headline: 'Extraiga datos obligatorios'
+        text: 'Con Extract incorpora contenidos de correos, pedidos o presupuestos directamente a su plantilla de confirmación de pedido. La IA reconoce fecha de entrega, condiciones de pago, contactos o referencias y los traslada automáticamente a las columnas adecuadas. Esto ahorra tiempo y reduce errores de transcripción.'
+        icon: layer-group
+      - headline: 'Capture datos con OCR'
+        text: 'Con OCR lee contenidos de pedidos escaneados, confirmaciones firmadas o documentos complementarios. La IA reconoce nombres, fechas, importes o números y los añade a su plantilla digital de confirmación de pedido. Así integra también documentos manuales en flujos de trabajo digitales.'
+        icon: image
+      - headline: 'Resuma el estado del pedido'
+        text: 'Con Summarize la IA crea informes breves sobre aprobaciones abiertas, pedidos confirmados o retrasos críticos. Cifras, comentarios y estados de su plantilla se condensan y presentan con claridad. Esto facilita la coordinación en la gestión de proyectos y acelera las decisiones.'
+        icon: circle-info
+      - headline: 'Defina reglas propias'
+        text: 'Con Custom Prompt define reglas propias para su plantilla de confirmación de pedido, como avisos por datos obligatorios faltantes, comprobaciones de condiciones de pago o fórmulas para el escrito de confirmación comercial. Así la solución se ajusta a sus procesos internos.'
+        icon: wand-magic-sparkles
+      - headline: 'Priorice aprobaciones'
+        text: 'Con vistas de estado basadas en IA detecta al instante qué confirmaciones deben enviarse, dónde falta información o qué pedido conviene priorizar. Esto da claridad a los equipos de oficina, operaciones y proyectos y hace su gestión de pedidos mucho más reactiva.'
+        icon: arrow-right
+        
+        
+    - name: "content-13"
+      weight: 18
+      class:
+       - curved
+       - bg-gray-100
+      title: 'Plantilla de confirmación de pedido flexible'
+      subtitle: 'Transparencia en tiempo real'
+      description: 'SeaTable es una moderna base de datos no-code con IA, automatizaciones y App Builder, y ofrece todo lo que necesita para una plantilla de confirmación de pedido profesional. El foco está en la estandarización, la transparencia y la adaptación flexible: del pedido sencillo a una app escalable para proceso de aprobación, creación de PDF y gestión de pedidos integral, como alternativa moderna a los documentos estáticos de Word y Excel.'
+      box-position: [right!]
+      items:
+      - headline: Alternativa a los modelos estáticos 
+        text: 'Organice sus confirmaciones de pedido con SeaTable como una potente [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) mucho más eficiente, con tablas vinculadas, aprobaciones, formularios y actualizaciones en tiempo real para procesos documentales profesionales.'
+      - headline: Conecte proyectos y pedidos
+        text: 'Vincule su plantilla de confirmación de pedido con la [plantilla de plan de proyecto]({{< relref "templates/projects/project-plan" >}}) para coordinar de forma central pedidos, responsabilidades, plazos y próximos pasos en la gestión de proyectos.'
+      - headline: Totalmente conforme con el RGPD
+        text: 'Si usa SeaTable Cloud o la IA integrada, los datos sensibles de clientes y pedidos permanecen en Europa: la infraestructura se opera exclusivamente en servidores de Alemania, para que mantenga el control de sus datos.'
+      - headline: Acceso seguro con 2FA y SSO
+        text: 'SeaTable admite autenticación de dos factores e inicio de sesión único, de modo que controla con exactitud quién puede acceder a datos de clientes, confirmaciones de pedido y aprobaciones internas en su equipo.'
+
+    - name: "faq"
+      weight: 20
+      title: 'FAQ: preguntas frecuentes sobre la plantilla de confirmación de pedido'
+      subtitle: 
+      items:
+      - q: "¿Para quién es la plantilla de confirmación de pedido?"
+        a: 'La plantilla es ideal para operations managers, office managers, jefes de proyecto, pymes, agencias y equipos de ventas que quieren confirmar pedidos de clientes de forma estructurada y gestionar su tramitación digitalmente.'
+      - q: "¿Qué debe incluir una confirmación de pedido válida?"
+        a: 'Son importantes, entre otros, los datos de la empresa y del cliente, el número de pedido, el asunto, la descripción del servicio con partidas, precios, fecha, posibles fechas de entrega, condiciones de pago y otros datos obligatorios. El contenido no debe desviarse del presupuesto aceptado.'
+      - q: "¿Cuándo es necesaria una confirmación en la gestión de proyectos?"
+        a: 'Una confirmación de pedido por escrito es especialmente útil cuando los pedidos se hicieron verbalmente, existen varias versiones del presupuesto, los detalles del contrato no están claros o ha pasado tiempo entre el presupuesto y su aceptación.'
+      - q: "¿Cómo genero un PDF a partir del modelo de confirmación?"
+        a: 'Con la plantilla digital de confirmación de pedido, los datos del cliente, las partidas y los precios se toman de las tablas y se generan como PDF mediante el diseño de página. Así obtiene un documento listo para enviar sin copiar a mano.'
+      - q: "¿Se puede conectar la plataforma con sistemas CRM?"
+        a: 'SeaTable se integra con flexibilidad en los procesos empresariales existentes. Así, los datos de clientes, la información de pedidos y otros flujos pueden conectarse con otros sistemas y procesarse de forma centralizada.'
+      - q: "¿Es escalable la plantilla para equipos?"
+        a: 'Sí, varios usuarios pueden trabajar a la vez en la misma base de datos. La plantilla se amplía con flexibilidad desde equipos pequeños hasta procesos de toda la empresa sin perder estructura.'
+      - q: "¿Puedo reflejar presupuesto y factura con la plantilla?"
+        a: 'Sí, en la solución de base también puede usar plantillas y procesos para presupuesto y factura, de modo que se refleje todo el flujo desde la consulta inicial hasta la facturación en un único lugar.'
+      - q: "¿Puedo usar la plantilla de confirmación gratis?"
+        a: 'Sí, la plantilla se puede usar gratis en SeaTable. Así empieza enseguida con una gestión de pedidos digital y una creación de documentos profesional, sin tener que crear primero su propia estructura.'
+      
 ---
-
-Enhorabuena. Otro cliente ha aceptado su oferta. Antes de empezar a prestar el servicio, sólo tiene queredactarunaconfirmacióndepedido. Sin embargo, especialmente si procesa pedidos con frecuencia, no debería crear una confirmación de pedido cada vez. En su lugar, utilicela plantilla de confirmación de pedido de SeaTable, con la que podrá confirmar cada oferta por escrito - ¡de forma gratuita, cómoda y segura!
-
-## Ventajas de una plantilla de confirmación de pedido
-
-Cuando utiliza una plantilla de confirmación de pedido, se beneficia de numerosas mejoras que hacen que su proceso sea más eficaz, sencillo y sólido.
-
-- Ahorre tiempo: Nuestra plantilla digital le permite crear, enviar y guardar automáticamente cada confirmación de pedido. Esto reduce las entradas manuales y minimiza su carga de trabajo administrativo.
-
-- Sin errores: Si crea la confirmación de pedido automáticamente utilizando los campos dinámicos y las fórmulas, no se producen errores de cálculo ni de escritura como con una plantilla de confirmación de pedido en Word.
-
-- Almacenamiento centralizado: en SeaTable puede almacenar todos los datos existentes relativos a sus clientes, productos y pedidos, vincularlos entre sí e incrustarlos en documentos.
-
-- Sostenibilidad: con SeaTable, la confirmación de su pedido se realiza completamente sin papel, sin necesidad de largos y costosos envíos, sino simplemente pulsando un botón por correo electrónico.
-
-![Edición de una confirmación de pedido en SeaTable con campos rellenados automáticamente](images/image-1743589610782.gif)
-
-## Cuándo debe crear una confirmación de pedido
-
-Una confirmación de pedido es el proceso por el cual un cliente acepta su oferta y usted confirma al cliente que su empresa cumplirá el pedido en las condiciones acordadas. Tenga en cuenta que la confirmación del pedido debe coincidir con la oferta negociada. Sólo entonces esjurídicamente vinculanteyse celebra un contrato. Sin embargo, si los detalles (por ejemplo, el alcance de los servicios, el precio o la cantidad) de la oferta y la confirmación del pedido no sonidénticos, no se celebra ningún contrato y el cliente debe aceptarlo de nuevo.
-
-Si todo está ya regulado con precisión en la oferta aceptada, también puedeprescindir de una confirmación escrita del pedido. No obstante, es útil para evitar malentendidos, sobre todo si la oferta se ha modificado varias veces o si ha pasado algún tiempo desde que se aceptó la oferta. En la confirmación de pedido también se pueden especificar las fechas de entrega y las condiciones de pago, pero no sustituye a una factura. La confirmación de pedido sólo indica el precio de los servicios acordados.
-
-### Casos en los que es importante una confirmación de pedido por escrito
-
-- Su cliente sólo ha realizado el pedido verbalmente (por ejemplo, por teléfono).
-
-- Su cliente ha realizado un pedido sin haber recibido antes un presupuesto.
-
-- Las condiciones contractuales esenciales seguían sin estar claras en la oferta.
-
-- Existen varias versiones de su oferta debido a las negociaciones.
-
-- Su cliente ha realizado el pedido una vez expirado el plazo de la oferta.
-
-También puedehacer que su cliente firmela confirmación del pedido si quiere asegurarse de que acepta las condiciones del contrato. Tu cliente también puede confirmar la oferta por escrito con su firma.
-
-## Cómo crear una confirmación de pedido profesional
-
-Aunque no existen requisitos legales sobre la información que debe contener una confirmación de pedido por escrito, losdetalles no deben desviarse de la oferta aceptada. Si utiliza nuestra plantilla para la confirmación del pedido, siempre irá sobre seguro, ya que SeaTable utiliza los mismos datos que en la oferta correspondiente.
-
-![Vista de tabla de pedidos con datos de clientes, conceptos y importes](images/image-1743589843690.png)
-
-La siguiente información obligatoria no debe faltar en ninguna confirmación de pedido a los clientes:
-
-1. cuando redacta una confirmación de pedido, elnombrey ladirección de su empresasuelen formar el membrete junto conel logotipo desuempresa.
-
-2. necesita elnombrey ladirección del clienteno sólo para la entrega, sino también por motivos fiscales, ya que los servicios a empresas están sujetos a impuestos en el lugar donde tiene su sede el cliente.
-
-3.asuntoynúmero de pedido: una numeración clara y consecutiva de sus pedidos facilita su asignación en la futura correspondencia con sus clientes.
-
-4 El saludo directo con elnombre de la persona de contactoda un toque personal a la confirmación de su pedido.
-
-5 La descripción exacta del servicio con los elementos individuales(tipo, precio y cantidad)constituye la parte principal de su confirmación de pedido. Debe quedar claro en qué medida vende sus productos o servicios.
-
-6 Ahora es el momento de ponerse manos a la obra: sume los distintos conceptos para obtener elimporte neto, deduzca undescuentosi es necesario y, en el caso de los clientes nacionales, calcule también el importe bruto, IVA incluido.
-
-7 Para las empresas extranjeras, necesitará elnúmero de identificación a efectos del IVA. Señale a estos clientes que deben pagar ellos mismos el IVA en sus respectivos países (responsabilidad fiscal del destinatario del servicio).
-
-8. no olvide lafecha actualy lafecha de realización del pedidocuando redacte una confirmación de pedido. Opcionalmente, también puede indicar unafecha de entrega.
-
-9. concluya el texto con un cierre amistoso y unsaludo. Lo mejor es remitirse también a susCondiciones Generales de Contratación(CGC) cuando envíe una confirmación de pedido a los clientes.
-
-10. susdatos bancarios,CIFy otros datos relevantes de la empresa deben incluirse en el membrete de su plantilla de confirmación de pedido.
-
-## Las múltiples funciones de nuestra plantilla de confirmación de pedido
-
-- Puede personalizar nuestra plantilla de confirmación de pedido para adaptarla a sus deseos y necesidades. Diseñe su confirmación de pedido con la plantilla delplugin de diseño de páginasy utilice diversos tipos de columnas y opciones de visualización.
-
-- Cree sus plantillas de confirmación de pedidosen distintos idiomaso para distintos países y defina dependencias para que siempre se seleccione automáticamente la plantilla adecuada.
-
-- En cuanto haya rellenado la plantilla con sus datos y diseños personalizados, podrá crear la confirmación de pedido deforma automáticay gratuitacon sólo pulsar un botón, sin ningún esfuerzo adicional por su parte.
-
-- También puede automatizar el envío: La integración con su proveedor de correo electrónico le permite redactar una confirmación de pedido con un solo clic yenviarla directamente por correo electrónico.
-
-- Utilice lasestadísticasintegradas para obtener información valiosa de sus cifras y datos y tomar decisiones bien fundadas.
-
-## Redactar una confirmación de pedido puede ser así de sencillo
-
-La plantilla de confirmación de pedidos de SeaTable le ayuda a organizar claramentelos productos,clientesypedidos, crear automáticamente una confirmación de pedido y guardarla como PDF lista para su envío. Gracias aenlacesinteligentes, la confirmación de pedido se alimenta de datos relevantes de varias tablas: La información del cliente, los artículos del pedido y los precios fluyen a la perfección, mientras quelas fórmulascalculan automáticamente los descuentos y el IVA.
-
-![Flujo en SeaTable: crear confirmación de pedido, guardarla como PDF y enviarla](images/image-1743590730029.gif)
-
-### Creación sencilla de una confirmación de pedido
-
-El plugin de diseño de páginas, que permite diseñardocumentos en varios idiomas, resulta especialmente práctico para las confirmaciones de pedido por escrito. Con un solo clic puede guardar una plantilla de confirmación de pedido en formato PDF: en función del país del cliente, SeaTable utiliza automáticamente la plantilla adecuada para la confirmación de pedido. Gracias a susencilla interfaz, podrá redactar una confirmación de pedido en un abrir y cerrar de ojos. El envío también está integrado: Con un botón adicional, laconfirmaciónde pedido finalizada puede enviarsedirectamente al cliente por correo electrónico. Todo el proceso se lleva a cabo de forma eficiente y sin problemas, sin necesidad de laboriosas copias o mecanografía manual.
-
-### Más que una plantilla de confirmación de pedido
-
-¿Necesita también una plantilla para supresupuestoofactura? Afortunadamente, la confirmación de pedido es sólo uno de losinnumerables casos de usode SeaTable. También puede utilizar valiosas funciones adicionales:Las estadísticasle permiten analizar fácilmente las cifras de ventas y el volumen de negocio, mientras que la vista de galería le ofrece una visión general de su cartera de productos. Gracias a las flexibles opciones de personalización de SeaTable, puede adaptar columnas, cálculos y vistas a sus necesidades individuales y crear una aplicación que se adapte perfectamente a su empresa.
-
-## Ventajas de SeaTable como software de confirmación de pedidos
-
--Gratuito: La plantilla de confirmación de pedido es gratuita. Comience con la versión gratuita de SeaTable, que ya incluye numerosas funciones. Si lo desea, puede actualizarla para obtener más funciones o espacio de almacenamiento.
-
--Colaboración: Gracias a la sincronización en tiempo real, SeaTable facilita enormemente la colaboración en equipo. Varios usuarios pueden trabajar en tablas, actualizar datos y dejar comentarios al mismo tiempo.
-
--Cómoda: si crea una confirmación de pedido en línea, podrá acceder a ella desde cualquier lugar y en cualquier momento, y además estará protegida contra pérdidas. A diferencia de una plantilla de confirmación de pedido en Word, también puede guardar datos estructurados y generar documentos automáticamente.
-
--Flexible: SeaTable es mucho más que una base de datos. Gracias a sus versátiles opciones de personalización, puede utilizarse para una amplia gama de aplicaciones (como presupuestos, facturas y confirmaciones de pedidos) e integrarse a la perfección en diversos procesos empresariales.
-
--Seguro: Sus datos están protegidos de forma óptima con SeaTable. Puede elegir entre almacenarlos en la nube o en sus instalaciones. Gracias al cumplimiento de la normativa GDPR y a los derechos de acceso individuales, conservará el control total de sus datos en todo momento.
-
--Escalable: Desde el uso inicial con unos pocos empleados hasta una solución para toda la empresa, SeaTable crece con sus necesidades. Solo pagará por las funciones y los recursos que realmente utilice.
-
-## Facilite la confirmación de pedidos con SeaTable
-
-Ya sea como plantilla gratuita de confirmación de pedidos para pequeñas empresas o como software de confirmación de pedidos para grandes corporaciones, con SeaTable escribir una confirmación de pedido para cada cliente es un juego de niños. Utilice automatizaciones para crear y enviar una confirmación de pedido escrita tras otra en un abrir y cerrar de ojos. Así tendrá más tiempo para las cosas importantes en lugar de perder valiosas horas confirmando pedidos a los clientes.
-
-Si desea utilizar gratuitamente la plantilla de confirmación de pedido,sólo tiene que registrarsecon su dirección de correo electrónico.
-
-## Plantilla interactiva
-
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de confirmación de pedido. Si tiene alguna pregunta, eche un vistazo a nuestra [sección de ayuda]({{< relref "help" >}}).
-
-​
