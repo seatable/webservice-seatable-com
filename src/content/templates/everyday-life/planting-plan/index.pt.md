@@ -107,7 +107,7 @@ sections:
       classes:
         - curved
         - bg-gray-100
-      title: 'A sua app interativa de plantação'
+      title: 'A sua app interativa de plano de plantação'
       subtitle: 
       items:
       - text: 'Transforme o seu modelo de plano de plantação numa app interativa para calendário de sementeira, planeamento de canteiros e organização sazonal da horta. Combine listas de plantas, rotação de culturas, consociação de culturas, pré-cultivo e janelas de colheita numa aplicação personalizável. Visualize processos em linhas de tempo, use vistas de galeria com imagens das suas variedades e partilhe as vistas relevantes com a família ou a horta comunitária. Seja varanda, canteiro elevado ou horta de autoconsumo, a app adapta-se ao seu espaço e ajuda-o a criar o seu plano de plantação de forma rápida, clara e sustentável, e a criar um novo a cada ano.'

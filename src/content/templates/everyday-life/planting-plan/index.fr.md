@@ -107,7 +107,7 @@ sections:
       classes:
         - curved
         - bg-gray-100
-      title: 'Votre appli interactive de plantation'
+      title: 'Appli interactive de plan de plantation'
       subtitle: 
       items:
       - text: 'Transformez votre modèle de plan de plantation en une appli interactive pour calendrier de semis, planification des planches et organisation saisonnière du jardin. Combinez listes de plantes, rotation des cultures, association de cultures, pré-culture et fenêtres de récolte dans une application personnalisable. Visualisez les processus en frises, utilisez des vues galerie avec les photos de vos variétés et partagez les vues utiles avec votre famille ou votre jardin partagé. Balcon, potager surélevé ou jardin nourricier, l’appli s’adapte à votre espace et vous aide à créer votre plan de plantation vite, clairement et durablement, et à en créer un nouveau chaque année.'
