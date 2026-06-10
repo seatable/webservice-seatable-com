@@ -193,6 +193,14 @@ sections:
         - image: "/images/logos/n8n.svg"
         - image: "/images/logos/seatable-api.svg"        
 
+    - name: "youtube"
+      weight: 15
+      title: Switching to SeaTable is that easy
+      subtitle: A Practical Guide to Migrating to Airtable
+      description: 
+      videoId: 8jj8VtYdgFQ
+      aspect: 16:9
+    
     - name: content-5
       weight: 16
       items:
