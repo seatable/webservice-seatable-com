@@ -81,7 +81,7 @@ sections:
       - text: '**Plantilla interactiva:** Vincule plantas, bancales, vecinos, rotación de cultivos y temporadas y cambie con flexibilidad entre tabla, galería, cronograma y otras vistas claras, ideal si crea su plan de siembra en línea.'
       - text: '**Almacenamiento central:** Todos los datos sobre distancia, germinación, cultivo asociado, cosecha y observaciones están en un solo lugar: estructurados, trazables y ampliables para cada proyecto de huerto.'
       image_position: [left]
-      image: '/images/template_page_pflanzplan_01.png'
+      image: '/images/template_page_Pflanzplan_01.png'
       image_alt: 'Plantilla de plan de siembra en SeaTable con calendario de siembra, vista de bancales y planificación central de hortalizas.'
 
     - name: "content-25"

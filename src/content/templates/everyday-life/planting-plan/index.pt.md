@@ -81,7 +81,7 @@ sections:
       - text: '**Modelo interativo:** Ligue plantas, canteiros, vizinhanças, rotação de culturas e épocas e alterne livremente entre tabela, galeria, linha de tempo e outras vistas claras, ideal para criar o seu plano de plantação online.'
       - text: '**Arquivo central:** Todos os dados sobre espaçamento, germinação, consociação de culturas, colheita e observações ficam num só lugar: estruturados, rastreáveis e ampliáveis para cada projeto de horta.'
       image_position: [left]
-      image: '/images/template_page_pflanzplan_01.png'
+      image: '/images/template_page_Pflanzplan_01.png'
       image_alt: 'Modelo de plano de plantação no SeaTable com calendário de sementeira, vista de canteiros e planeamento central de hortícolas.'
 
     - name: "content-25"
