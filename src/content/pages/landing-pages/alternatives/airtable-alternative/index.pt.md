@@ -195,6 +195,14 @@ sections:
         - image: "/images/logos/n8n.svg"
         - image: "/images/logos/seatable-api.svg"        
 
+    - name: "youtube"
+      weight: 15
+      title: É assim tão fácil mudar para o SeaTable
+      subtitle: Guia prático para a migração do Airtable (com legendas em português)
+      description: 
+      videoId: 32Vq2R0fzQs
+      aspect: 16:9
+
     - name: content-5
       weight: 16
       items:

@@ -28,6 +28,10 @@ Para la primera opción de importar bases de Airtable a SeaTable, no necesita ni
 5. Defina el **nombre de la base** que la nueva base recibirá en SeaTable.
 6. Confirme con **Importar**.
 
+**Vea nuestro vídeo explicativo con subtítulos en francés.**
+
+{{< youtube 32Vq2R0fzQs >}}
+
 A diferencia del script que se explica en el siguiente capítulo, con la vía de importación estándar **no dispone de opciones de personalización**. Todas las tablas y filas (incluidos los archivos adjuntos) se importan desde Airtable. Por ello, según el tamaño de la base de Airtable, el proceso de importación puede llevar algún tiempo.
 
 También se importan todas las columnas de Airtable, salvo las columnas de tipo Button, Count, Lookup y Rollup. Más abajo encontrará una visión general de cómo se transfieren los tipos de columna de Airtable a SeaTable. La tabla «Columns to be migrated manually» en la nueva base muestra las columnas que no se importaron desde Airtable.
