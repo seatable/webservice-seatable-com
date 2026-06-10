@@ -1,6 +1,6 @@
 ---
 title: 'Heuschnupfen & Pollenallergie: Symptome, Hausmittel & Hilfe'
-description: ' Leiden Sie unter Heuschnupfen? Pollenallergie kann beim Arbeiten Einfluss auf die Konzentration haben. Wir beleuchten typische Symptome bei Heuschnupfen, zeigen effektive Hausmittel gegen Heuschnupfen und erklären moderne Wege der Behandlung bei Heuschnupfen. Erfahren Sie, wie Sie den Pollenflug im Blick behalten und mit einem Heuschnupfen-Test Klarheit schaffen, damit Ihre Performance nicht unter der Allergie leidet.'
+description: 'Leiden Sie unter Heuschnupfen? Pollenallergie kann beim Arbeiten Einfluss auf die Konzentration haben. Wir beleuchten typische Symptome bei Heuschnupfen, zeigen effektive Hausmittel gegen Heuschnupfen und erklären moderne Wege der Behandlung bei Heuschnupfen. Erfahren Sie, wie Sie den Pollenflug im Blick behalten und mit einem Heuschnupfen-Test Klarheit schaffen, damit Ihre Performance nicht unter der Allergie leidet.'
 seo:
     title: 'Heuschnupfen & Pollenallergie: Symptome, Hausmittel & Hilfe'
     description: 'Leiden Sie unter Heuschnupfen? Erfahren Sie alles über Pollenallergie Symptome, die besten Hausmittel und moderne Behandlungsmöglichkeiten.'
@@ -61,7 +61,9 @@ Genau diese Symptome bei Heuschnupfen führen oft zur Verwechslung mit einer Erk
 
 ![Infografik zu Heuschnupfen-Symptomen.](infografik-heuschnupfen.png)
 
-{{< warning headline="Hinweis" text="Manchmal wandert eine Pollenallergie weiter und löst eine sogenannte Kreuzallergie aus. Ihr Immunsystem verwechselt dann bestimmte Lebensmittel mit den Pollen, weil die Eiweiße einander ähneln. Wer auf Birkenpollen reagiert, verträgt deshalb manchmal keinen rohen Apfel oder keine Haselnuss mehr." />}}
+{{< warning headline="Hinweis" >}}
+Manchmal wandert eine Pollenallergie weiter und löst eine sogenannte Kreuzallergie aus. Ihr Immunsystem verwechselt dann bestimmte Lebensmittel mit den Pollen, weil die Eiweiße einander ähneln. Wer auf Birkenpollen reagiert, verträgt deshalb manchmal keinen rohen Apfel oder keine Haselnuss mehr. Ein [Ernährungstagebuch]({{< relref "posts/ernaehrungstagebuch" >}}) kann helfen, solche Zusammenhänge zu erkennen und herauszufinden, welche Lebensmittel tatsächlich Beschwerden auslösen.
+{{< /warning >}}
 
 ### Wenn die Allergie die Atemwege erreicht
 
@@ -95,7 +97,7 @@ Hausmittel sind ein guter Anfang, doch bei stärkeren Beschwerden führt kein We
 
 Der gängigste Heuschnupfen-Test ist der Prick-Test. Dabei werden kleine Tropfen verschiedener Allergenlösungen auf die Haut des Unterarms aufgetragen und leicht angeritzt. Reagiert die Stelle nach etwa 15 bis 20 Minuten mit Rötung oder Quaddeln, gilt das Allergen als wahrscheinlicher Auslöser. 
 
-Ergänzend kann eine Blutuntersuchung auf spezifische Antikörper durchgeführt werden, vor allem dann, wenn der Prick-Test keine eindeutigen Ergebnisse liefert. Erst mit dieser Diagnose lässt <!-- "Symptome" steht im Plural, dann muss das Verb doch auch im Plural sein, oder? --> sich Ihre Pollenallergie und die Symptome wirklich gezielt behandeln, weil klar ist, ob Sie auf Birke, Gräser, Beifuß oder mehrere Pollen reagieren.
+Ergänzend kann eine Blutuntersuchung auf spezifische Antikörper durchgeführt werden, vor allem dann, wenn der Prick-Test keine eindeutigen Ergebnisse liefert. Erst mit dieser Diagnose lassen sich Ihre Pollenallergie und die Symptome wirklich gezielt behandeln, weil klar ist, ob Sie auf Birke, Gräser, Beifuß oder mehrere Pollen reagieren.
 
 ![Prick-Test auf dem Unterarm zur Diagnose von Pollenallergien beim Arzt.](prick-test.png)
 
@@ -135,7 +137,8 @@ Die wirksamste Strategie bei Heuschnupfen ist immer noch, möglichst wenig Polle
 - **FFP2-Maske beim Pendeln oder Rasenmähen:** Was sich in den letzten Jahren etabliert hat, schützt zuverlässig auch vor Pollen.
 - **Autofenster geschlossen halten:** Nach Möglichkeit einen Pollenfilter in die Lüftungsanlage einbauen lassen.
 - **Sport in pollenarme Zeitfenster legen:** Nach einem Regenschauer ist die Luft besonders rein. Mittags und bei trockenem Wind sollten Sie Outdoor-Sport eher meiden.
-  
+- **Lokale Pollensaison bei Reisen berücksichtigen:** Informieren Sie sich bei der [Urlaubsplanung]({{< relref "posts/20250324-urlaubsplanung" >}}) über die Pollenbelastung am Urlaubsort.
+
 ![Nahaufnahme einer Blüte mit sichtbaren Pollenkörnern.](pollen-in-einer-bluete.png)
                  
 ## Warum ein Allergie-Tagebuch der erste Schritt ist
