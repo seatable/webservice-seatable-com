@@ -13,7 +13,6 @@ categories:
 color: '#a7c3d7'
 register:
    show: true
-draft: true
 ---
 
 Mitten im Meeting fängt Ihre Nase an zu kribbeln und schon folgt die Niesattacke. Ihre Augen tränen und die Konzentration ist dahin. Eine Tablette schafft kurz Abhilfe, macht Sie aber oft müde. So fühlt sich Heuschnupfen für Sie vielleicht wie eine Wahl zwischen zwei Übeln an. 
@@ -26,10 +25,9 @@ In diesem Artikel erfahren Sie, wie Sie Ihre Symptome richtig deuten, mit Hausmi
 
 Hinter dem Heuschnupfen steckt eine Verwechslung Ihres Körpers. Ihr Immunsystem stuft eigentlich **harmlose Blütenpollen als Bedrohung** ein und schüttet zur Abwehr den Botenstoff Histamin aus. Dieses Histamin löst die typischen Reaktionen an den Schleimhäuten aus. Die Nase läuft, die Augen jucken, der Niesreiz setzt ein. Genau deshalb spüren Sie die Beschwerden vor allem dort, wo Ihr Körper direkten Kontakt mit der Luft hat. 
 
-Mit dieser Reaktion sind Sie keineswegs allein, denn Heuschnupfen ist die häufigste Allergie überhaupt. Etwa 15 Prozent der Erwachsenen in Deutschland leiden darunter. Eine Pollenallergie kann grundsätzlich in jedem Alter auftreten, zeigt sich aber häufig schon im Kindes- und Jugendalter zum ersten Mal. Ob Sie betroffen sind, hängt meist von einer Mischung aus erblicher Veranlagung und Umweltfaktoren ab.
+Mit dieser Reaktion sind Sie keineswegs allein, denn Heuschnupfen ist die häufigste Allergie überhaupt. Etwa 15 Prozent der Erwachsenen in Europa leiden darunter. Eine Pollenallergie kann grundsätzlich in jedem Alter auftreten, zeigt sich aber häufig schon im Kindes- und Jugendalter zum ersten Mal. Ob Sie betroffen sind, hängt meist von einer Mischung aus erblicher Veranlagung und Umweltfaktoren ab.
 
-
-![Person in blühender Wiese hält sich die Nase.](heuschnupfen-in-der-natur.png)
+![Person in blühender Wiese hält sich die Nase](heuschnupfen-in-der-natur.png)
 
 Wann genau Ihre Beschwerden auftreten, verrät Ihnen die Pflanze, gegen die Sie reagieren. Denn die Symptome folgen der Blütezeit. Reagieren Sie auf mehrere Pollenarten, kann sich Ihre Saison über viele Monate ziehen.
 
@@ -41,17 +39,16 @@ Die Pollenbelastung ist kein gleichmäßiger Strom, sondern schwankt stark. Übe
 
 ### Welche Pollen lösen Heuschnupfen aus?
 
-Je nachdem, auf welche dieser Pflanzen Sie reagieren, verschiebt sich Ihre persönliche Heuschnupfen-Saison. Diese vier große Gruppen sorgen für die meisten Beschwerden:
+Je nachdem, auf welche dieser Pflanzen Sie reagieren, verschiebt sich Ihre persönliche Heuschnupfen-Saison. Diese vier großen Gruppen sorgen für die meisten Beschwerden:
                      
 - **Frühblüher** wie Hasel, Erle und Birke starten oft schon im Februar oder März. 
 - **Gräser** belasten viele Allergikerinnen und Allergiker von Mai bis in den Hochsommer.
 - **Getreidepollen**, vor allem Roggen, fliegen im Frühsommer.  
-- **Kräuter** wie Beifuß und Ambrosia treten dann bis in den September auf.
+- **Kräuter** wie Beifuß und Ambrosia treten bis in den September auf.
                  
-<!-- Tipp nur für den deutschen Blogpost relevant -->
 {{< warning headline="Tipp" text="Der Deutsche Wetterdienst erstellt während der Pollenflugsaison Vorhersagen zum Pollenflug-Gefahrenindex für die acht allergologisch wichtigsten Blütenpollen Hasel, Erle, Esche, Birke, Gräser, Roggen, Beifuß und Ambrosia. Die Vorhersagen sind regional aufgeschlüsselt und lassen sich täglich online, per Newsletter oder App abrufen." />}}
 
-![Schild, das vor Pollensaison warnt.](heuschnupfen-saison.png)
+![Schild, das vor Pollensaison warnt](heuschnupfen-saison.png)
 
 ## Die klassischen Symptome bei Pollenallergie: Erkältung oder Allergie?
 
@@ -59,7 +56,7 @@ Die Symptome bei Heuschnupfen treten meist plötzlich auf und konzentrieren sich
 
 Genau diese Symptome bei Heuschnupfen führen oft zur Verwechslung mit einer Erkältung. Die wichtigste Faustregel: **Eine Erkältung kommt schleichend, klingt nach einer Woche ab und geht oft mit Fieber und zähem, gelblichem Sekret einher. Heuschnupfen-Symptome dagegen setzen schlagartig ein, ziehen sich über Wochen und bessern sich spürbar in geschlossenen Räumen.** Die folgende Grafik zeigt die wichtigsten Unterschiede auf einen Blick.
 
-![Infografik zu Heuschnupfen-Symptomen.](infografik-heuschnupfen.png)
+![Infografik zu Heuschnupfen-Symptomen](infografik-heuschnupfen.png)
 
 {{< warning headline="Hinweis" >}}
 Manchmal wandert eine Pollenallergie weiter und löst eine sogenannte Kreuzallergie aus. Ihr Immunsystem verwechselt dann bestimmte Lebensmittel mit den Pollen, weil die Eiweiße einander ähneln. Wer auf Birkenpollen reagiert, verträgt deshalb manchmal keinen rohen Apfel oder keine Haselnuss mehr. Ein [Ernährungstagebuch]({{< relref "posts/ernaehrungstagebuch" >}}) kann helfen, solche Zusammenhänge zu erkennen und herauszufinden, welche Lebensmittel tatsächlich Beschwerden auslösen.
@@ -83,7 +80,7 @@ Bevor Sie zur Tablette greifen, lohnt sich ein Blick in die Küche. Viele Hausmi
 - **Apfelessig:** Ein Esslöffel in einem Glas warmem Wasser am Morgen kann die Schleimproduktion regulieren.
 - **Regionaler Honig:** Enthält geringe Mengen heimischer Pollen. Manche Betroffene berichten, dass eine tägliche Portion langfristig die Empfindlichkeit senkt.
 
-![Verschiedene Hausmittel gegen Allergien – Ingwer, Honig und Kräutertee auf einem Holztisch.](hausmittel-gegen-allergie.png)
+![Verschiedene Hausmittel gegen Allergien – Ingwer, Honig und Kräutertee auf einem Holztisch](hausmittel-gegen-allergie.png)
                  
 Auch von außen können Sie die Symptome lindern. Eine Nasendusche mit Salzwasser spült Pollen direkt von den Schleimhäuten und entlastet Ihre Nase spürbar. Ideal ist die Anwendung abends nach der Arbeit, um die Tagesbelastung loszuwerden. Bei verstopfter Nase hilft zusätzlich eine Dampfinhalation, am besten mit Kamille oder Salz. Der warme Dampf befeuchtet Ihre Atemwege und löst festsitzendes Sekret.
 
@@ -99,14 +96,14 @@ Der gängigste Heuschnupfen-Test ist der Prick-Test. Dabei werden kleine Tropfen
 
 Ergänzend kann eine Blutuntersuchung auf spezifische Antikörper durchgeführt werden, vor allem dann, wenn der Prick-Test keine eindeutigen Ergebnisse liefert. Erst mit dieser Diagnose lassen sich Ihre Pollenallergie und die Symptome wirklich gezielt behandeln, weil klar ist, ob Sie auf Birke, Gräser, Beifuß oder mehrere Pollen reagieren.
 
-![Prick-Test auf dem Unterarm zur Diagnose von Pollenallergien beim Arzt.](prick-test.png)
+![Prick-Test auf dem Unterarm zur Diagnose von Pollenallergien beim Arzt](prick-test.png)
 
 ### Medikamente zur symptomatischen Behandlung
 
 Die medikamentöse Behandlung von Heuschnupfen setzt an den Symptomen an und lindert Ihre akute Belastung. Drei Wirkstoffgruppen spielen die Hauptrolle.
                      
 - **Antihistaminika** blockieren die Wirkung des Histamins und lindern damit Niesreiz, Juckreiz und laufende Nase. Achten Sie auf Präparate der neuen Generation, denn diese machen deutlich weniger müde als ältere Wirkstoffe und eignen sich auch für den Arbeitsalltag. 
-- **Kortison** als Nasenspray oder Tablette wirkt stark entzündungshemmend und ist die Mittel der Wahl bei ausgeprägten Beschwerden. Lokal angewendet gelten die Nebenwirkungen als gering. 
+- **Kortison** als Nasenspray oder Tablette wirkt stark entzündungshemmend und ist das Mittel der Wahl bei ausgeprägten Beschwerden. Lokal angewendet gelten die Nebenwirkungen als gering. 
 - **Cromone** stabilisieren die Mastzellen und verhindern, dass Histamin überhaupt erst ausgeschüttet wird. Sie wirken vorbeugend und sollten schon vor Beginn der Pollensaison angewendet werden.
                  
 ### Hyposensibilisierung als Langzeitlösung
@@ -139,11 +136,11 @@ Die wirksamste Strategie bei Heuschnupfen ist immer noch, möglichst wenig Polle
 - **Sport in pollenarme Zeitfenster legen:** Nach einem Regenschauer ist die Luft besonders rein. Mittags und bei trockenem Wind sollten Sie Outdoor-Sport eher meiden.
 - **Lokale Pollensaison bei Reisen berücksichtigen:** Informieren Sie sich bei der [Urlaubsplanung]({{< relref "posts/20250324-urlaubsplanung" >}}) über die Pollenbelastung am Urlaubsort.
 
-![Nahaufnahme einer Blüte mit sichtbaren Pollenkörnern.](pollen-in-einer-bluete.png)
+![Nahaufnahme einer Blüte mit sichtbaren Pollenkörnern](pollen-in-einer-bluete.png)
                  
 ## Warum ein Allergie-Tagebuch der erste Schritt ist
 
-Ein Pollenkalender zeigt Ihnen, was draußen unterwegs ist. Aber er sagt nichts darüber, wie stark genau Sie an diesem Tag reagieren. Zwei Menschen mit derselben Gräserallergie können bei identischem Pollenflug völlig unterschiedliche Symptome eines Heuschnupfens haben. Die persönliche Empfindlichkeit, Schlaf, Stress, Medikamenteneinnahme und sogar die Luftfeuchtigkeit spielen mit hinein. 
+Ein Pollenkalender zeigt Ihnen, was draußen unterwegs ist. Aber er sagt nichts darüber aus, wie stark genau Sie an diesem Tag reagieren. Zwei Menschen mit derselben Gräserallergie können bei identischem Pollenflug völlig unterschiedliche Symptome eines Heuschnupfens haben. Die persönliche Empfindlichkeit, Schlaf, Stress, Medikamenteneinnahme und sogar die Luftfeuchtigkeit spielen mit hinein. 
 
 Genau deshalb lohnt es sich, neben dem Pollenflug auch Ihre eigenen Symptome festzuhalten. Wer ein paar Wochen lang notiert, wann welche Beschwerden auftraten und welche Pollen gerade dominierten, erkennt sein persönliches Muster. Plötzlich wird sichtbar, dass die Augen vor allem an windigen Birkentagen jucken oder dass Gräserpollen vor allem den Schlaf rauben. Ein einfaches Allergietagebuch macht aus diffusen Beschwerden konkrete Auslöser, mit denen Sie und Ihr Arzt arbeiten können.
 
@@ -168,7 +165,7 @@ Sobald Hausmittel und Verhaltenstipps nicht mehr ausreichen, ist eine medikament
 {{< /faq >}}
 
 {{< faq "Was sind die typischen Symptome bei einer Pollenallergie im Vergleich zum Virusinfekt?" >}}
-Symptome bei Pollenallergie setzen bei Ihnen plötzlich ein, treten saisonal auf und zeigen sich mit juckenden, tränenden Augen, anfallsartigem Niesen und klarem Nasensekret. Fieber gibt es so gut wie nie. Eine Erkältung dagegen kommt schleichend, klingt nach einer Woche ab und zeigt sich mit zähem, gelblichem Sekret, Halsschmerzen und gelegentlich Fieber. Wenn Sie in geschlossenen Räumen deutlich aufatmen, haben Sie mit hoher Wahrscheinlichkeit Heuschnupfen.
+Symptome bei Pollenallergie setzen plötzlich ein, treten saisonal auf und zeigen sich mit juckenden, tränenden Augen, anfallsartigem Niesen und klarem Nasensekret. Fieber gibt es so gut wie nie. Eine Erkältung dagegen kommt schleichend, klingt nach einer Woche ab und zeigt sich mit zähem, gelblichem Sekret, Halsschmerzen und gelegentlich Fieber. Wenn Sie in geschlossenen Räumen deutlich aufatmen, haben Sie mit hoher Wahrscheinlichkeit Heuschnupfen.
 
 {{< /faq >}}
 
