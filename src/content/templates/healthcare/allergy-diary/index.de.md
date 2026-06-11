@@ -14,7 +14,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Kostenloses Allergie-Tagebuch mit Pollenflugkalender'
-      text: 'Wann sind Ihre Symptome am stärksten? Welche Pollen sind der Auslöser? Oft bleiben bei einer Pollenallergie die genauen Zusammenhänge erst mal unklar. Doch ohne eine systematische Aufzeichnungen fehlt Ihnen und Ihrem Arzt die Grundlage für einen gezielten Allergietest oder eine Therapie. Mit unserer kostenlosen Allergie-Tagebuch-Vorlage dokumentieren Sie Symptome und Auslöser systematisch an einem Ort. Mit dem integrierten Pollenflugkalender grenzen Sie Allergieauslöser ein. Nutzen Sie SeaTable als flexible Lösung, um Ihre Allergie besser zu verstehen und Arztbesuche optimal vorzubereiten.'
+      text: 'Wann sind Ihre Symptome am stärksten? Welche Pollen sind der Auslöser? Oft bleiben bei einer Pollenallergie die genauen Zusammenhänge erst mal unklar. Doch ohne eine systematische Aufzeichnung fehlt Ihnen und Ihrem Arzt die Grundlage für einen gezielten Allergietest oder eine Therapie. Mit unserer kostenlosen Allergie-Tagebuch-Vorlage dokumentieren Sie Symptome und Auslöser systematisch an einem Ort. Mit dem integrierten Pollenflugkalender grenzen Sie Allergieauslöser ein. Nutzen Sie SeaTable als flexible Lösung, um Ihre Allergie besser zu verstehen und Arztbesuche optimal vorzubereiten.'
       classes:
           - bg-white
       template: 22b19ef9b0aa4348978d
@@ -34,7 +34,7 @@ sections:
           text: 'Erfassen Sie Ihre Tagebucheinträge ganz einfach über ein individualisierbares Formular in der App. Bequem von zu Hause oder unterwegs.'
         - icon: 'palette'
           headline: 'Einfach und flexibel'
-          text: 'Unsere Vorlage lässt sich ganz einfach an Ihre persönliche Situation  anpassen. Ergänzen Sie Symptome, Pollen oder Medikamente nach Bedarf.'
+          text: 'Unsere Vorlage lässt sich ganz einfach an Ihre persönliche Situation anpassen. Ergänzen Sie Symptome, Pollen oder Medikamente nach Bedarf.'
         - icon: 'table'
           headline: 'Pollenflugkalender'
           text: 'Der integrierte, beliebig erweiterbare Pollenflugkalender zeigt die saisonalen Flugzeiten der 20 häufigsten Pollenarten als Zeitleiste.'
@@ -95,7 +95,7 @@ sections:
         image: '/images/Templatee-Page_Medikamentenplan_Screenshot_2.png'
         image_alt: ''
       - headline: 'Medikamente verwalten und vergleichen'
-        text: 'Erfassen Sie Ihre Allergiemittel mit Wirkstoffen und Dosierungsangaben. So haben Sie stets den Überblick, welche Präparate Sie einsetzen. Da die Medikamente direkt mit Ihren Tagebucheinträgen verknüpft sind, können Sie über Zeit für die ärztliche Dokumentation auswerten, welche Mittel Ihre Symptome tatsächlich lindern.'
+        text: 'Erfassen Sie Ihre Allergiemittel mit Wirkstoffen und Dosierungsangaben. So haben Sie stets den Überblick, welche Präparate Sie einsetzen. Da die Medikamente direkt mit Ihren Tagebucheinträgen verknüpft sind, können Sie über längere Zeit für die ärztliche Dokumentation auswerten, welche Mittel Ihre Symptome tatsächlich lindern.'
         image: '/images/template_page_medikamentenplan_screenshot_5.png'
         image_alt: 'Medikamentenplan Vorlage: Gesundheitsdaten, Allergien, Größe und Gewicht sicher speichern.'
       - headline: 'Datenschutz und Sicherheit'
@@ -115,10 +115,10 @@ sections:
       weight: 16
       title: 'Das smarte Tagebuch für Allergiker mit KI-Funktionen'
       subtitle: 'Ihr intelligenter Alltagshelfer'
-      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-gestützten Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) und unserem KI-Chat-Plugin. Erstellen Sie automatisch Zusammenfassungen Ihrer Tagesform oder unsere KI-Funktionen für Klassifizierungen oder Übersetzungen – DSGVO-konform mit eigenem KI-Server in Deutschland.'
+      description: 'Mit SeaTable profitieren Sie von leistungsstarken [KI-gestützten Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) und unserem KI-Chat-Plugin. Erstellen Sie automatisch Zusammenfassungen Ihrer Tagesform oder nutzen Sie unsere KI-Funktionen für Klassifizierungen oder Übersetzungen – DSGVO-konform mit eigenem KI-Server in Deutschland.'
       items:
       - headline: 'Automatische Klassifizierung mit Classify'
-        text: 'Nutzen Sie „Classify" um Tagebucheinträge automatisch zu kategorisieren, z. B. in „Leicht", „Mittel" oder „Stark". So erkennen Sie auf einen Blick, wie sich Ihre Beschwerdelage entwickelt.'
+        text: 'Nutzen Sie „Classify", um Tagebucheinträge automatisch zu kategorisieren, z. B. in „leicht", „mittel" oder „stark". So erkennen Sie auf einen Blick, wie sich Ihre Beschwerdelage entwickelt.'
         icon: table
       - headline: 'Automatische Texterkennung mit OCR'
         text: 'Haben Sie einen alten Beipackzettel oder einen Arztbrief als Foto? Mit „OCR" wird Text aus Bildern automatisch ausgelesen und direkt in die passende Tabelle übertragen.'
@@ -133,7 +133,7 @@ sections:
         text: 'Erstellen Sie automatisch Symptomzusammenfassungen, indem Sie Informationen aus Datum, Score und Beschwerdespalten zusammenführen und als kompakten Bericht speichern.'
         icon: wand-magic-sparkles
       - headline: 'Automatische Übersetzung der Einträge'
-        text: 'Wenn Sie Ihren Arzt im Ausland aufsuchen oder eine internationale Studie an Ihren Daten interessiert ist, können Sie Ihre Einträge automatisch übersetzen lassen.'
+        text: 'Wenn Sie einen Arzt im Ausland aufsuchen oder eine internationale Studie an Ihren Daten interessiert ist, können Sie Ihre Einträge automatisch übersetzen lassen.'
         icon: arrow-right
 
     - name: "content-6"
@@ -162,14 +162,14 @@ sections:
       - q: "Ist das Allergie-Tagebuch von SeaTable dauerhaft kostenlos nutzbar?"
         a: 'Ja, Sie können unsere Allergie-Tagebuch App kostenlos ohne zeitliche Einschränkung nutzen. Sie benötigen lediglich einen kostenlosen SeaTable-Account und können direkt loslegen.'
       - q: "Kann ich das Allergie-Tagebuch mit meinem Arzt teilen?"
-        a: 'Ja, Sie können die Base oder einzelne App-Seiten gezielt freigeben. In der kostenlosen Free-Subscription können bis zu 25 Personen gemeinsam arbeiten. Alternativ können Sie eine Lesezugrift für Personen ohne SeaTable-Account einrichten.'
+        a: 'Ja, Sie können die Base oder einzelne App-Seiten gezielt freigeben. In der kostenlosen Free-Subscription können bis zu 25 Personen gemeinsam arbeiten. Alternativ können Sie einen Lesezugriff für Personen ohne SeaTable-Account einrichten.'
       - q: "Kann ich SeaTable als allgemeine Gesundheits-App nutzen?"
-        a: 'Ja, sicher. Sie finden in unserer Vorlagen-Bibliothek verschiedene vorgefertigte, individualisierbare Gesundheits-Vorlagen als Ergänzung zu Ihrem Allergie-Tagebuch und Pollenallergie Kalender. Neben einem Ernährungstagebuch finden Sie dort auch einen [Medikamentenplan]({{< relref "templates/healthcare/medication-plan" >}}), einen [Trainingsplan]({{< relref "templates/healthcare/personal-exercise-guide" >}}) oder einen [Ernährungsplan]({{< relref "templates/healthcare/recipes-meal-plan" >}}).'
+        a: 'Ja, sicher. Sie finden in unserer Vorlagen-Bibliothek verschiedene vorgefertigte, individualisierbare Gesundheits-Vorlagen als Ergänzung zu Ihrem Allergie-Tagebuch und Pollenallergie Kalender. Neben einem Ernährungstagebuch finden Sie dort auch einen [Medikamentenplan]({{< relref "templates/healthcare/medication-plan" >}}), einen [Trainingsplan]({{< relref "templates/healthcare/personal-exercise-guide" >}}) oder einen [Speiseplan]({{< relref "templates/healthcare/recipes-meal-plan" >}}).'
       - q: "Wie berechnet sich der Symptom-Score?"
         a: 'Der Symptom-Score basiert auf der Anzahl und Intensität der erfassten Beschwerden und wird automatisch berechnet. Die Formel lässt sich bei Bedarf jederzeit in der Spalteneinstellung anpassen, falls Sie bestimmte Symptome stärker gewichten möchten.'
       - q: "Kann ich Arztbriefe oder Medikamentenlisten automatisch auswerten lassen?"
         a: 'Ja, mit der Kombination aus OCR- und Extract-Funktion können Sie Arztbriefe, Entlassberichte oder vorhandene Medikamentenlisten digitalisieren und relevante Informationen wie Präparate, Dosierungen oder Einnahmehinweise automatisch in strukturierte Felder übertragen.'
       - q: "Sind meine Gesundheitsdaten bei SeaTable sicher?"
-        a: 'Ja. SeaTable wird ausschließlich auf Servern des Schweizer Anbieters Exoscale in Deutschland gehostet und erfüllt alle Anforderungen der DSGVO. Ihre Daten verlassen zu keinem Zeitpunkt den europäischen Rechtsraum. Für besonders sensible Anwendungsfälle steht zudem eine Self-Hosted-Option zur Verfügung, bei der Sie die vollständige Kontrolle behalten.'
+        a: 'Ja. SeaTable Cloud wird ausschließlich auf Servern des Schweizer Anbieters Exoscale in Deutschland gehostet und erfüllt alle Anforderungen der DSGVO. Ihre Daten verlassen zu keinem Zeitpunkt den europäischen Rechtsraum. Für besonders sensible Anwendungsfälle steht zudem eine Self-Hosted-Option zur Verfügung, bei der Sie die vollständige Kontrolle behalten.'
 
 ---
