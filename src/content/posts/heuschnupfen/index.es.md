@@ -142,7 +142,7 @@ Un calendario de polen le muestra qué hay en el aire ahí fuera. Pero no dice n
 
 Precisamente por eso merece la pena anotar, además del vuelo del polen, también sus propios síntomas. Quien apunta durante unas semanas cuándo aparecieron qué molestias y qué polen dominaba en ese momento reconoce su patrón personal. De repente se hace visible que los ojos pican sobre todo en los días ventosos con polen de abedul, o que el polen de gramíneas roba sobre todo el sueño. Un sencillo diario de alergias convierte unas molestias difusas en desencadenantes concretos con los que usted y su médico pueden trabajar.
 
-Para que no tenga que empezar de cero, ponemos a su disposición un diario de alergias como plantilla gratuita que incorpora todo lo que necesita para un análisis limpio. Está listo para usar de inmediato y se adapta a su día a día, ya sea en el escritorio o de camino en el smartphone.
+Para que no tenga que empezar de cero, ponemos a su disposición un [diario de alergias]({{< relref "templates/healthcare/allergy-diary" >}}) como plantilla gratuita que incorpora todo lo que necesita para un análisis limpio. Está listo para usar de inmediato y se adapta a su día a día, ya sea en el escritorio o de camino en el smartphone.
 
 {{< template-box id="22b19ef9b0aa4348978d" >}}
 

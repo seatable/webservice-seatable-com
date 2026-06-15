@@ -142,7 +142,7 @@ Un calendrier pollinique vous montre ce qui circule dehors. Mais il ne dit rien 
 
 C'est précisément pour cela qu'il vaut la peine de noter, en plus de la concentration de pollen, vos propres symptômes. Quiconque consigne pendant quelques semaines quand quels symptômes sont apparus et quels pollens dominaient alors reconnaît son schéma personnel. Soudain, il devient visible que les yeux démangent surtout les jours venteux de pollen de bouleau, ou que les pollens de graminées troublent surtout le sommeil. Un simple journal des allergies transforme des symptômes diffus en déclencheurs concrets, sur lesquels vous et votre médecin pouvez travailler.
 
-Pour que vous n'ayez pas à partir de zéro, nous mettons à votre disposition un journal des allergies sous forme de modèle gratuit, qui réunit tout ce dont vous avez besoin pour une analyse propre. Il est immédiatement opérationnel et s'adapte à votre quotidien, que ce soit à votre bureau ou en déplacement sur votre smartphone.
+Pour que vous n'ayez pas à partir de zéro, nous mettons à votre disposition un [journal des allergies]({{< relref "templates/healthcare/allergy-diary" >}}) sous forme de modèle gratuit, qui réunit tout ce dont vous avez besoin pour une analyse propre. Il est immédiatement opérationnel et s'adapte à votre quotidien, que ce soit à votre bureau ou en déplacement sur votre smartphone.
 
 {{< template-box id="22b19ef9b0aa4348978d" >}}
 

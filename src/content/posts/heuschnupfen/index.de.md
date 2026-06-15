@@ -144,7 +144,7 @@ Ein Pollenkalender zeigt Ihnen, was draußen unterwegs ist. Aber er sagt nichts 
 
 Genau deshalb lohnt es sich, neben dem Pollenflug auch Ihre eigenen Symptome festzuhalten. Wer ein paar Wochen lang notiert, wann welche Beschwerden auftraten und welche Pollen gerade dominierten, erkennt sein persönliches Muster. Plötzlich wird sichtbar, dass die Augen vor allem an windigen Birkentagen jucken oder dass Gräserpollen vor allem den Schlaf rauben. Ein einfaches Allergietagebuch macht aus diffusen Beschwerden konkrete Auslöser, mit denen Sie und Ihr Arzt arbeiten können.
 
-Damit Sie nicht bei Null anfangen müssen, stellen wir Ihnen ein Allergietagebuch als kostenloses Template zur Verfügung, das alles mitbringt, was Sie für eine saubere Auswertung brauchen. Es ist sofort einsatzbereit und passt sich Ihrem Alltag an, ob am Schreibtisch oder unterwegs auf dem Smartphone.
+Damit Sie nicht bei Null anfangen müssen, stellen wir Ihnen ein [Allergietagebuch]({{< relref "templates/healthcare/allergy-diary" >}}) als kostenloses Template zur Verfügung, das alles mitbringt, was Sie für eine saubere Auswertung brauchen. Es ist sofort einsatzbereit und passt sich Ihrem Alltag an, ob am Schreibtisch oder unterwegs auf dem Smartphone.
 
 {{< template-box id="22b19ef9b0aa4348978d" >}}
 

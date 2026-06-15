@@ -142,7 +142,7 @@ Um calendário de pólen mostra-lhe o que anda lá fora. Mas não diz nada sobre
 
 É precisamente por isso que vale a pena registar, além da concentração de pólen, também os seus próprios sintomas. Quem anota durante algumas semanas quando surgiram que queixas e que pólens dominavam nesse momento reconhece o seu padrão pessoal. De repente, torna-se visível que os olhos fazem comichão sobretudo nos dias ventosos de bétula ou que os pólens das gramíneas roubam sobretudo o sono. Um simples diário de alergias transforma queixas difusas em desencadeadores concretos, com os quais o leitor e o seu médico podem trabalhar.
 
-Para que não tenha de começar do zero, disponibilizamos-lhe um diário de alergias como modelo gratuito, que traz tudo o que precisa para uma análise rigorosa. Está imediatamente pronto a usar e adapta-se à sua rotina, seja à secretária ou em deslocação no smartphone.
+Para que não tenha de começar do zero, disponibilizamos-lhe um [diário de alergias]({{< relref "templates/healthcare/allergy-diary" >}}) como modelo gratuito, que traz tudo o que precisa para uma análise rigorosa. Está imediatamente pronto a usar e adapta-se à sua rotina, seja à secretária ou em deslocação no smartphone.
 
 {{< template-box id="22b19ef9b0aa4348978d" >}}
 
