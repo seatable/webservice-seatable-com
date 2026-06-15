@@ -142,7 +142,7 @@ A pollen calendar shows you what's out there. But it says nothing about how stro
 
 That's exactly why it's worth recording your own symptoms alongside the pollen count. Anyone who notes for a few weeks when which symptoms occurred and which pollen was dominant at the time will recognize their personal pattern. Suddenly it becomes visible that your eyes itch mainly on windy birch days, or that grass pollen is mainly what robs you of sleep. A simple allergy journal turns vague symptoms into concrete triggers that you and your doctor can work with.
 
-So that you don't have to start from scratch, we're providing you with an allergy journal as a free template that comes with everything you need for a clean analysis. It's ready to use right away and adapts to your daily routine, whether at your desk or on the go on your smartphone.
+So that you don't have to start from scratch, we're providing you with an [allergy journal]({{< relref "templates/healthcare/allergy-diary" >}}) as a free template that comes with everything you need for a clean analysis. It's ready to use right away and adapts to your daily routine, whether at your desk or on the go on your smartphone.
 
 {{< template-box id="22b19ef9b0aa4348978d" >}}
 
