@@ -1,5 +1,5 @@
 ---
-title: 'Technical and Organizational Measures pursuant to Art. 32 GDPR'
+title: 'Technical & Organizational Measures <br />pursuant to Art. 32 GDPR'
 description: ''
 seo:
     title: 'TOMs'
@@ -15,9 +15,7 @@ url: '/technical-and-organizational-measures'
 These technical and organizational measures are only available in English and German. The English version is an non-binding, convenience translation.
 The **[German original version]({{< relref path="pages/legal/toms" lang="de" >}})** is legally binding.
 
-{{< /alert >}}
-
-These are the Technical and Organizational Measures pursuant to Art. 32 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
+{{< /alert >}}<br />
 
 ## Preamble
 
@@ -27,7 +25,7 @@ This documentation contains the implemented TOMs. The presentation follows the m
 
 ---
 
-### 1. Pseudonymization and Encryption (Art. 32(1)(a) GDPR)
+## 1. Pseudonymization and Encryption (Art. 32(1)(a) GDPR)
 
 | Technical Measures             | Organizational Measures                                              |
 | ------------------------------ | -------------------------------------------------------------------- |

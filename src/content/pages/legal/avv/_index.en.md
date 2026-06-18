@@ -1,5 +1,5 @@
 ---
-title: 'Data Processing Agreement pursuant to Art. 28 GDPR'
+title: 'Data Processing Agreement <br /> pursuant to Art. 28 GDPR'
 description: ''
 seo:
     title: 'AVV'
@@ -15,13 +15,11 @@ url: '/data-processing-agreement'
 This data processing agreement is only available in English and German. The English version is an non-binding, convenience translation.
 The **[German original version ]({{< relref path="pages/legal/avv" lang="de" >}})** is legally binding.
 
-{{< /alert >}}
+{{< /alert >}}<br/>
 
-These are the Data Processing Agreement pursuant to Art. 28 GDPR of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
+Below you find our model data processing agreement pursuant to Art. 28 GDPR. We recommend that all SeaTable Cloud and SeaTable Dedicated customers enter into such an agreement with us. You can do this with minimal effort using our data processing agreement generator (DPA generator).
 
-> Here you can create your own agreement (German Language only).
->
-> [Go to the form]({{< relref path="pages/legal/avv/create" lang="de" >}})
+[Go to the DPA generator]({{< relref path="pages/legal/avv/create" lang="de" >}})
 
 ## Preamble
 

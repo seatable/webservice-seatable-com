@@ -1,5 +1,5 @@
 ---
-title: 'Terms of Service'
+title: 'Terms of Service <br / > SeaTable Cloud'
 description: ''
 seo:
     title: 'Terms of Use: SeaTable Cloud & Market'
@@ -15,7 +15,7 @@ aliases:
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-These Terms of Service are only available in English and German. The English translation is an non-binding, convenience translation.
+These terms of service are only available in English and German. The English translation is an non-binding, convenience translation.
 The **[German original]({{< relref path="pages/legal/terms-of-service" lang="de" >}})** is legally binding.
 
 {{< /alert >}}

@@ -10,27 +10,25 @@ type: 'legal'
 url: '/de/evb-it'
 ---
 
-## Was ist EVB-IT?
-
 Die **Ergänzenden Vertragsbedingungen für die Beschaffung von IT-Leistungen (EVB-IT)** sind der etablierte Standard für öffentliche IT-Beschaffungen in Deutschland. Sie schaffen Rechtssicherheit, Transparenz und effiziente Vertragsprozesse zwischen öffentlichen Auftraggebern und IT-Dienstleistern.
 
-Für SeaTable und unsere Kunden ist insbesondere der **EVB-IT Dienstvertrag (Typ B)** relevant, da er die Erbringung von IT-Dienstleistungen regelt. SeaTable erfüllt sämtliche Anforderungen dieses Vertragstyps und bietet öffentlichen Auftraggebern eine leistungsstarke, weltweit bewährte und selbst gehostete No-Code-Lösung – flexibel, sicher und vollständig unter eigener Kontrolle betreibbar.
+## SeaTable auf Basis EVB-IT
 
-## EVB-IT bei SeaTable
+Für SeaTable und unsere Kunden ist insbesondere der **EVB-IT Überlassungsvertrag Typ B** relevant, da er die zeitweise Überlassung von Standardsoftware regelt (Miete von Software). SeaTable bietet öffentlichen Auftraggebern unsere leistungsstarke, selbst gehostete No-Code-Lösung SeaTable Server Enterprise Edition auf dieser Basis an.
 
-Um Ihnen den Abschluss so einfach wie möglich zu machen, stellen wir Ihnen den Vertrag bereits vorausgefüllt zur Verfügung:
+Um Ihnen die Beschaffung auf dieser Grundlage so einfach wie möglich zu machen, stellen wir Ihnen den Überlassungsvertrag vorausgefüllt zur Verfügung:
 
-[EVB-IT Dienstvertrag (Typ B) – SeaTable Server Enterprise 2026](/EVB_IT_TypB_Überlassung_SeaTableServerEnterprise_2026.odt)
+[EVB-IT Überlassungsvertrag Typ B – SeaTable Server Enterprise 2026](/EVB_IT_TypB_Überlassung_SeaTableServerEnterprise_2026.odt)
 
 ### Ausfüllhilfe
 
 Bitte ergänzen Sie lediglich die folgenden Angaben:
 
-- Tragen Sie im Kopfbereich die fehlenden Informationen (z. B. *Auftraggeber*) ein.
-- Tragen Sie in Abschnitt 3.1 die Nutzeranzahl (Spalte 3 *Anzahl*) sowie in den Spalten 4-7 *Startdatum* und *Vertragslaufzeit* ein.
+- Seite 1: Tragen Sie Ihren Name und Anschrift ein.
+- Seite 2: Ergänzen Sie in der Tabelle die gewünschte Nutzeranzahl in Spalte _Anzahl_ (Spalte 3), _Überlassungsdauer Beginn_ und _Überlassungsdauer Ende_ (Spalte 6 und 7). (Die Ermittlung der _Summe der jährlichen Vergütung_ (Spalte 11) übernehmen wir für Sie.)
+- Seite 3: Fügen Sie die Lieferanschrift und den Erüllungsort hinzu. Da die Lieferung der Lizenzunterlagen per E-Mail, geben Sie als Lieferanschrift bitte eine E-Mail-Adresse und einen Ansprechpartner an.
+- Seite 4: Ergänzen Sie Ihren Ansprechpartner unter _Verantwortlicher Ansprechpartner des Auftraggebers_.
 
-Die Preisberechnung in den Spalten 10 und 11 (*Monatliche Vergütung*) übernehmen wir selbstverständlich für Sie.
+Senden Sie uns den unterzeichnenten Vertrag anschließend per E-Mail an [sales@seatable.com](mailto:sales.seatable.com) oder postalisch an unsere Büroadresse in Mainz. Wir ergänzen die Preisinformationen, unterzeichnen den Vertrag und senden Ihnen kurzfristig eine gegengezeichnete Fassung zurück.
 
-Senden Sie uns den ausgefüllten Vertrag anschließend per E-Mail an [sales@seatable.com](mailto:sales.seatable.com). Wir ergänzen die Preisinformationen, unterzeichnen den Vertrag und senden Ihnen kurzfristig eine gegengezeichnete Fassung zurück.
-
-So kommen Sie schnell, rechtssicher und ohne zusätzlichen Abstimmungsaufwand zu Ihrem SeaTable-Vertrag.
+Dank EVB-IT können Sie rechtssicher und mit minimalem Beschaffungsaufwand SeaTable Server für Ihre Organisation lizenzieren.

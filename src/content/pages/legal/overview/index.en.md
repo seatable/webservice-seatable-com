@@ -7,7 +7,7 @@ sections:
     - name: hero-7
       weight: 1
       title: Legal Information and Documents
-      text: 'Overview of data protection, terms of use, and security measures.'
+      text: 'Overview of Terms of Use, Privacy Policy, and Information Security'
       classes:
           - bg-gray-200
 
@@ -16,31 +16,31 @@ sections:
       items:
           - icon: fingerprint
             headline: Privacy Policy
-            text: The privacy policy explains which personal data is collected, processed, and protected by us.
+            text: The privacy policy explains what personal data we collect and process, the legal basis for doing so, and what rights you have.
             link: pages/legal/data-privacy
           - icon: pgpkey
-            headline: Terms and Conditions
-            text: The terms and conditions set the rules for using our services, including rights and obligations of all parties involved.
+            headline: Terms of Service SeaTable Cloud
+            text: The terms of service set forth the rules for using our cloud solution, SeaTable Cloud, including the rights and obligations of all parties involved.
             link: pages/legal/terms-of-service
+          - icon: bell
+            headline: End User License Agreement SeaTable Server Enterprise Edition
+            text: The end user license agreement (EULA) governs the legal relationship between SeaTable GmbH and you as a user of our on-premises solution, SeaTable Server Enterprise Edition.
+            link: pages/legal/eula
           - icon: file-shield
             headline: Data Processing Agreement
-            text: The data processing agreement regulates the contractual processing of personal data on behalf and compliance with data protection requirements.
+            text: The data processing agreement specifies the mutual obligations under data protection law regarding the processing of personal data in accordance with the General Data Protection Regulation (GDPR).
             link: pages/legal/avv
           - icon: globe
-            headline: Subcontractors
-            text: The description of subcontractors lists third parties that process personal data on behalf and clarifies their reliability as well as contractual security guarantees.
+            headline: Subprocessors
+            text: SeaTable works with partners to provide our services. You can find out who they are here.
             link: pages/legal/subprocessors
           - icon: list-check
             headline: Technical and Organizational Measures
-            text: The technical and organizational measures describe comprehensive protection measures against unauthorized access, loss, or manipulation of personal data.
+            text: The technical and organizational measures describe the safeguards we have implemented to ensure the protection and security of personal data.
             link: pages/legal/toms
-          - icon: bell
-            headline: End User License Agreement for SeaTable Server Enterprise Edition
-            text: The provisions of this End User License Agreement ("EULA") govern the legal relationship between SeaTable GmbH and the customer.
-            link: pages/legal/eula
           - icon: substack
             headline: EVB-IT
-            text: The EVB-IT regulates electronic data processing in the public sector and sets minimum requirements for IT security and data protection in data processing agreements.
+            text: We license our on-premises solution, SeaTable Server, to public-sector organizations under the EVB-IT Type B licensing agreement.
             link: pages/legal/evb-it
 
     - name: 'content-22'

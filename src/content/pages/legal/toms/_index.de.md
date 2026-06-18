@@ -1,5 +1,5 @@
 ---
-title: 'Technisch & organisatorische Maßnahmen gemäß Art. 32 DSGVO'
+title: 'Technische & organisatorische Maßnahmen <br />gemäß Art. 32 DSGVO'
 description: ''
 seo:
     title: 'TOMs'
@@ -10,8 +10,6 @@ type: 'legal'
 url: '/de/technisch-organisatorische-massnahmen'
 ---
 
-Dies sind die Technischen & organisatorischen Maßnahmen gemäß Art. 32 DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
-
 ## Präambel
 
 Unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen, hat die SeaTable GmbH geeignete technische und organisatorische Maßnahmen (TOM) getroffen, um ein dem Risiko angemessenes Schutzniveau der persönlichen Daten zu gewährleisten.
@@ -20,7 +18,7 @@ Diese Dokumentation enthält die ergriffenen TOMs. Die Darstellung der TOMs folg
 
 ---
 
-### 1. Pseudonymisierung und Verschlüsselung (Art. 32 Abs. 1 lit. a DSGVO)
+## 1. Pseudonymisierung und Verschlüsselung (Art. 32 Abs. 1 lit. a DSGVO)
 
 | Technische Maßnahmen                  | Organisatorische Maßnahmen                                                                 |
 | ------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -122,4 +120,3 @@ _Art. 32 Abs. 1 lit. d DSGVO; Art. 25 Abs. 1 DSGVO_
 | Regelmäßige Überprüfung der Zugangsberechtigungen                                                         | Jährliche Sensibilisierung der Mitarbeiter                                                                           |
 | Regelmäßige Überprüfung der Datenschutzbestimmungen und Bewertung der Angemessenheit der techn. Maßnahmen | Regelmäßige Überprüfung der Datenschutzbestimmungen und Bewertung der Angemessenheit der organisatorischen Maßnahmen |
 |                                                                                                           | Disziplinarmaßnahmen im Falle einer Datenschutzverletzung                                                            |
-

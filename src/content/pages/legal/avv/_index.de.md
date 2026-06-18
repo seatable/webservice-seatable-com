@@ -1,5 +1,5 @@
 ---
-title: 'Vertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO'
+title: 'Vertrag zur Auftragsverarbeitung <br />gemäß Art. 28 DSGVO'
 description: ''
 seo:
     title: 'AVV'
@@ -10,11 +10,9 @@ type: 'legal'
 url: '/de/auftrag-zur-auftragsverarbeitung'
 ---
 
-Dies ist der Vertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
+Nachfolgend finden Sie unseren Mustervertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO. Wir empfehlen allen Kunden von SeaTable Cloud und SeaTable Dedicated, einen solchen Vertrag mit uns abzuschließen. Mit unserem Generator für Auftragsverarbeitungsverträge (AVV-Generator) können Sie dies mit minimalem Aufwand tun.
 
-> Hier können Sie sich Ihren eigenen Vertag erstellen.
->
-> [Zum Formular]({{< relref "pages/legal/avv/create" >}})
+[Zum AVV-Generator]({{< relref "pages/legal/avv/create" >}})
 
 ## Präambel
 

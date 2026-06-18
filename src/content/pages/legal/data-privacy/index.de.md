@@ -1,5 +1,5 @@
 ---
-title: 'Datenschutz'
+title: 'Datenschutzerklärung'
 description: ''
 seo:
     title: 'Datenschutz & DSGVO bei SeaTable'
@@ -489,4 +489,3 @@ Wir nutzen **Jitsi Meet** (auf eigenem Server) und **TeamViewer** (mit DSGVO-Ver
 **Warum?** Damit wir Sie schnell & gut unterstützen können!
 
 {{< /legal-2col >}}
-

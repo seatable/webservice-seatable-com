@@ -10,8 +10,6 @@ type: 'legal'
 url: '/de/unterauftragnehmer'
 ---
 
-Dies sind die Unterauftragnehmer der **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Deutschland**.
-
 ## Präambel
 
 Mit dieser Dokumentation kommt die SeaTable GmbH ihren Verpflichtungen gemäß Nr. 7.2 des Vertrags zur Auftragsverarbeitung nach, eine Liste der eingesetzten Unterauftragsnehmer zur Verfügung zu stellen.
