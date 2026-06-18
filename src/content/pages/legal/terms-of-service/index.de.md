@@ -1,5 +1,5 @@
 ---
-title: 'Nutzungsbedingungen'
+title: 'Nutzungsbedingungen <br /> SeaTable Cloud'
 description: ''
 seo:
     title: 'Nutzungsbedingungen SeaTable: Rechte & Pflichten'

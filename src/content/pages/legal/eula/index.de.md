@@ -1,6 +1,6 @@
 ---
-title: 'Endnutzer-Lizenzvereinbarung'
-description: 'EULA SeaTable Server Enterprise Edition'
+title: 'Endnutzer-Lizenzvereinbarung <br/>SeaTable Server Enterprise Edition'
+description: ''
 date: 2021-09-28
 version: '1.0'
 type: 'legal'

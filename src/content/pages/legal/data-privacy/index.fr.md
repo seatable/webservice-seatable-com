@@ -16,7 +16,7 @@ aliases:
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This privacy statement is only available in English and German. The English version is an non-binding, convenience translation. The **[German original version]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
+This privacy policy is only available in English and German. The English version is an non-binding, convenience translation. The **[German original version]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 
@@ -66,10 +66,10 @@ This section explains **briefly and clearly** what happens to your data when you
 
 Specifically:
 
-- How and when we collect data  
-- What we use the data for  
-- What rights you have  
-- Which tools we use  
+- How and when we collect data
+- What we use the data for
+- What rights you have
+- Which tools we use
 
 {{< /legal-2col >}}
 
@@ -247,9 +247,9 @@ The following table lists the cookies used by this online service and provides f
 | Name des Cookies    | Gültigkeit | Reichweite                 |
 | ------------------- | ---------- | -------------------------- |
 | ph_phc_xxxx_posthog | 90d        | .seatable.com/.seatable.io |
-| _t                 | 1d         | forum.seatable.com         |
-| _forum_session     | Session    | forum.seatable.com         |
-| __profilin        | Session    | forum.seatable.com         |
+| \_t                 | 1d         | forum.seatable.com         |
+| \_forum_session     | Session    | forum.seatable.com         |
+| \_\_profilin        | Session    | forum.seatable.com         |
 | dtable_csrftoken    | 365d       | cloud.seatable.io          |
 | sessionId           | 7d         | cloud.seatable.io          |
 | django_language     | 30d        | cloud.seatable.io          |

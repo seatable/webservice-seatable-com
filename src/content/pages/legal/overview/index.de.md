@@ -7,7 +7,7 @@ sections:
     - name: hero-7
       weight: 1
       title: Rechtliche Informationen und Dokumente
-      text: 'Übersicht zu Datenschutz, Nutzungsbedingungen und Sicherheitsmaßnahmen.'
+      text: 'Übersicht zu Nutzungsbedingungen, Datenschutz und Informationssicherheit'
       classes:
           - bg-gray-200
 
@@ -16,31 +16,31 @@ sections:
       items:
           - icon: fingerprint
             headline: Datenschutzerklärung
-            text: Die Datenschutzerklärung erklärt, welche personenbezogenen Daten von uns erhoben, verarbeitet und geschützt werden.
+            text: Die Datenschutzerklärung erklärt, welche personenbezogenen Daten von uns erhoben und verarbeitet werden, auf welcher Grundlage dies geschieht und welche Rechte Sie haben.
             link: pages/legal/data-privacy
           - icon: pgpkey
-            headline: Nutzungs- und Vertragsbedingungen
-            text: Die Nutzungs- und Vertragsbedingungen legen die Regeln für die Nutzung unserer Dienste fest, inklusive Rechte und Pflichten aller Beteiligten.
+            headline: Nutzungsbedingungen SeaTable Cloud
+            text: Die Nutzungsbedingungen legen die Regeln für die Nutzung unserer Cloud-Lösung SeaTable Cloud fest, inklusive Rechte und Pflichten aller Beteiligten.
             link: pages/legal/terms-of-service
+          - icon: bell
+            headline: Endnutzer-Lizenzvereinbarung SeaTable Server Enterprise Edition
+            text: Die Endbenutzer-Lizenzvereinbarung (“EULA”) regeln das Rechtsverhältnis zwischen der SeaTable GmbH und Ihnen als Nutzer unserer on-premises Lösung SeaTable Server Enterprise Edition.
+            link: pages/legal/eula
           - icon: file-shield
             headline: Vertrag zur Auftragsverarbeitung
-            text: Der Vertrag zur Auftragsverarbeitung regelt die vertragliche Verarbeitung personenbezogener Daten im Auftrag und die Einhaltung datenschutzrechtlicher Vorgaben.
+            text: Der Vertrag zur Auftragsverarbeitung konkretisiert die gegenseitigen, datenschutzrechtlichen Verpflichtungen in Bezug auf die Verarbeitung personenbezogener Daten gemäß Datenschutzgrundverordnung (DSGVO).
             link: pages/legal/avv
           - icon: globe
             headline: Unterauftragnehmer
-            text: Die Beschreibung der Unterauftragnehmer listet Dritte auf, die im Auftrag personenbezogene Daten verarbeiten, und klärt deren Zuverlässigkeit sowie die vertraglichen Sicherheitsgarantien.
+            text: SeaTable arbeitet mit Partnern zusammen, um unsere Dienstleistungen zu erbringen. Welche das sind, finden Sie hier.
             link: pages/legal/subprocessors
           - icon: list-check
             headline: Technische und organisatorische Maßnahmen
-            text: Die technischen und organisatorischen Maßnahmen beschreiben die umfassenden Schutzvorkehrungen gegen unbefugten Zugriff, Verlust oder Manipulation personenbezogener Daten.
+            text: Die technischen und organisatorischen Maßnahmen beschreiben die von uns gewählten Schutzvorkehrungen, um den Schutz und die Sicherheit von personenbezogenen Daten zu gewährleisten.
             link: pages/legal/toms
-          - icon: bell
-            headline: Endnutzer-Lizenzvereinbarung von SeaTable Server Enterprise Edition
-            text: Die Bestimmungen dieser Endbenutzer-Lizenzvereinbarung (“EULA”) regeln das Rechtsverhältnis zwischen der SeaTable GmbH und dem Kunden.
-            link: pages/legal/eula
           - icon: substack
             headline: EVB-IT
-            text: Die EVB-IT regelt die elektronische Datenverarbeitung im öffentlichen Sektor und legt Mindestanforderungen an IT-Sicherheit sowie Datenschutz in der Auftragsverarbeitung fest.
+            text: An Organisationen des öffentlichen Sektors überlassen wir unsere on-premises Lösung SeaTable Server auf Basis des EVB-IT Überlassungsvertrag Typ B.
             link: pages/legal/evb-it
 
     - name: 'content-22'
