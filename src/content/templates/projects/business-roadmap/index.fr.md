@@ -1,8 +1,8 @@
 ---
-title: "Plan d'affaires"
+title: "Modèle de business roadmap"
 description: 'Planifiez idées commerciales, alignez objectifs stratégiques entre équipes et créez transparence pour succès durable.'
 date: '2024-08-24'
-url: '/fr/modele/plan-d-affaires'
+url: '/fr/modele/feuille-de-route-business'
 aliases:
     - '/fr/modele/business-roadmap'
 category: 'projects'

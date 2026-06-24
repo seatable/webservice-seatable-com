@@ -1,12 +1,12 @@
 ---
-title: 'Businessplan'
+title: 'Business-Roadmap'
 description: 'Planen Sie Geschäftsideen, stimmen Sie strategische Ziele teamübergreifend ab und schaffen Sie Transparenz für langfristige Unternehmenserfolge.'
 date: '2024-08-24'
 url: '/de/vorlage/business-roadmap'
 category: 'projects'
 functions:
 seo:
-    title: 'Businessplan-Vorlage für strukturierte Planung'
+    title: 'Business-Roadmap Vorlage für strukturierte Planung'
     description: 'Verschaffen Sie sich Überblick über Geschäftsziele und Initiativen. Die Vorlage unterstützt alle Teams bei strukturierter, transparenter Planung.'
 template: '7885fb8884474b68aa1a'
 ---

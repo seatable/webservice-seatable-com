@@ -2,7 +2,7 @@
 title: 'Plano de negócios'
 description: 'Planeje ideias de negócio, alinhe objetivos estratégicos entre equipes e crie transparência para sucesso empresarial.'
 date: '2024-08-24'
-url: '/pt/modelo/plano-de-negocios'
+url: '/pt/modelo/roadmap-de-negocios'
 aliases:
     - '/pt/modelo/business-roadmap'
 category: 'projects'
