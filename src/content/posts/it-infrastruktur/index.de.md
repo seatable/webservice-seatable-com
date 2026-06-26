@@ -11,10 +11,9 @@ categories:
 tags:
     - 'Digitale Transformation'
     - 'IT Sicherheit & Datenschutz'
-color: '#de9e13'
+color: '#009ebf'
 register:
    show: true
-draft: true
 ---
 
 ## Was ist IT-Infrastruktur?
@@ -170,7 +169,7 @@ Je nach Branche und Unternehmensstandort kann Ihre IT-Infrastruktur bestimmten R
 
 ## IT Infrastruktur Checkliste für mobiles Arbeiten
 
-*   **Cloud-basierte, tradionelle oder hybride Infrastruktur**: Entscheiden Sie sich zunächst für ein Betriebsmodell, weil dies weitreichende Folgen für Ihr IT Infrastruktur Management hat.
+*   **Cloud-basierte, tradionelle oder hybride Infrastruktur**: Entscheiden Sie sich zunächst für ein Betriebsmodell, weil dies weitreichende Folgen für Ihr [IT Service Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) hat.
 *   **Durchdachtes Mobile Device Management**: Haben Sie den Überblick über alle mobilen Endgeräte, sind diese ausreichend gesichert und technisch aktuell?
 *   **Keine VPN-Bremse**: Können Ihre Mitarbeiter ortsunabhängig über schnelle, stabile und sichere Netzwerkverbindungen auf Ihre Unternehmens- oder Cloud-Server zugreifen?
 *   **Datensilos und -verlust vermeiden**: Haben Sie Ihre Mitarbeiter dazu angehalten, alle Daten und Dokumente zentral und in Echtzeit synchonisiert auf Ihrem Server zu speichern – anstatt unzählige lokale Versionen auf verschiedenen Geräten?
