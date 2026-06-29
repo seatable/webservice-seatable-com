@@ -121,7 +121,7 @@ Another highlight is the integrated knowledge base, which provides you with quic
 
 ## You can't do without a ticketing system
 
-The demands on support are growing: IT infrastructure is becoming increasingly complex, you have to comply with new security standards and at the same time customers and employees expect innovative, fast solutions. To keep pace with these developments in complaint management, a ticketing system is essential.
+The demands on support are growing: [IT infrastructure]({{< relref "posts/it-infrastruktur" >}}) is becoming increasingly complex, you have to comply with new security standards and at the same time customers and employees expect innovative, fast solutions. To keep pace with these developments in complaint management, a ticketing system is essential.
 
 ![Cloud-based ticketing systems can be scaled flexibly and used from any location.](ticketing-system-helpdesk.png)
 

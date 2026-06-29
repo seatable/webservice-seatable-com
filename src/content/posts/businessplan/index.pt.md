@@ -148,7 +148,7 @@ Alguns investidores valorizam ainda um [cronograma]({{< relref "templates/projec
 
 No fundo, um plano de negócios é uma coleção estruturada de informação: textos, números, imagens, documentos, etc. O SeaTable é uma [plataforma de IA no-code]({{< relref "/" >}}) com a qual pode criar um plano de negócios digital – mais concretamente bases de dados, aplicações e processos automatizados – sem conhecimentos técnicos prévios. Além disso, todos os membros da equipa podem **colaborar em tempo real**; as alterações aos dados são sincronizadas de imediato e podem ser rastreadas através dos registos. Assim, existe sempre apenas uma versão atual do seu plano de negócios, acessível online a qualquer momento – também, se assim o desejar, com permissão de leitura para investidores e outros utilizadores externos. 
 
-A propósito: para lhe facilitar ainda mais os primeiros passos, criámos para si um **modelo de plano de negócios** que demonstra a título de exemplo a estrutura a partir de uma ideia de negócio.
+A propósito: para lhe facilitar ainda mais os primeiros passos, criámos para si um [modelo de plano de negócios]({{< relref "templates/finance/business-plan" >}}) que demonstra a título de exemplo a estrutura a partir de uma ideia de negócio.
 
 {{< template-box id="e9b0eb93b6764118aad0" >}}
 

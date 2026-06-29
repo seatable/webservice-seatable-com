@@ -18,7 +18,7 @@ seo:
 
 Les prévisions de rentabilité, également appelées prévisions de revenus ou plan de rentabilité, consistent à prévoir les revenus et dépenses futurs de votre entreprise sur une période donnée (généralement trois ans). Pour ce faire, vous comparez les ventes prévues aux coûts prévus afin de déterminer si votre entreprise est susceptible de réaliser des bénéfices ou des pertes.  
 
-La rentabilité prévisionnelle est un outil important de [planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et fait partie du plan d'affaires que vous devez préparer, en particulier lors de la création d'une entreprise. Mais elle peut également examiner la situation bénéficiaire d'une entreprise existante, en comparant les ressources utilisées avec le chiffre d'affaires généré.
+La rentabilité prévisionnelle est un outil important de [planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et fait partie du [plan d'affaires]({{< relref "posts/businessplan" >}}) que vous devez préparer, en particulier lors de la création d'une entreprise. Mais elle peut également examiner la situation bénéficiaire d'une entreprise existante, en comparant les ressources utilisées avec le chiffre d'affaires généré.
 
 ![rentabilité prévisionnelle avec vision large](rentabilitaetsvorschau-mit-weitblick.jpg)
 

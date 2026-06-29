@@ -27,7 +27,7 @@ register:
 
 ## ¿Qué es la TI en la sombra?
 
-La TI en la sombra se refiere a los sistemas de TI y las aplicaciones de software que los empleados de los departamentos de una empresa utilizan **sin el conocimiento del departamento de TI** para complementar o eludir la infraestructura de TI oficial.
+La TI en la sombra se refiere a los sistemas de TI y las aplicaciones de software que los empleados de los departamentos de una empresa utilizan **sin el conocimiento del departamento de TI** para complementar o eludir la [infraestructura de TI]({{< relref "posts/it-infrastruktur" >}}) oficial.
 
 Por definición, la TI en la sombra no está integrada ni técnica ni estratégicamente en la [gestión de servicios de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), lo que conlleva riesgos de seguridad y otros problemas. Derivado del inglés **Shadow IT**, el término pretende expresar el hecho de que los empleados dejan a oscuras a las instancias superiores de la empresa sobre el uso de herramientas y procesos digitales ejecutados en secreto.
 

@@ -22,7 +22,7 @@ register:
 La souveraineté numérique désigne la **capacité des entreprises, des individus ou des États à agir de manière autonome dans un monde en réseau**. Outre la compétence numérique, ce terme englobe le contrôle de toute l'infrastructure numérique nécessaire à la souveraineté technologique. Les principaux objectifs peuvent être résumés comme suit :
 
 - réduire la dépendance vis-à-vis des fournisseurs et des produits individuels
-- veiller à ce que l'infrastructure informatique soit sûre, fonctionnelle et disponible
+- veiller à ce que l'[infrastructure informatique]({{< relref "posts/it-infrastruktur" >}}) soit sûre, fonctionnelle et disponible
 - préserver la capacité d'action et la compétitivité dans le cadre de la numérisation
 - respecter toutes les règles de conformité applicables, notamment en matière de protection des données
     

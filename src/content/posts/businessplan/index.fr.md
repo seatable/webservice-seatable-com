@@ -148,7 +148,7 @@ Certains investisseurs accordent en outre de l'importance à un [calendrier]({{<
 
 Au fond, un business plan est une collection structurée d'informations : textes, chiffres, images, documents, etc. SeaTable est une [plateforme d'IA no-code]({{< relref "/" >}}) avec laquelle vous pouvez créer un business plan numérique – plus précisément des bases de données, des applications et des processus automatisés – sans connaissances techniques préalables. De plus, tous les membres de l'équipe peuvent **collaborer en temps réel** ; les modifications des données sont synchronisées immédiatement et restent traçables grâce aux journaux. Il n'existe ainsi toujours qu'une seule version à jour de votre business plan, accessible en ligne à tout moment – y compris, si vous le souhaitez, avec une autorisation de lecture pour les investisseurs et d'autres utilisateurs externes. 
 
-D'ailleurs : pour vous faciliter encore davantage les premiers pas, nous avons créé pour vous un **modèle de business plan** qui illustre la structure à l'aide d'une idée d'entreprise donnée en exemple.
+D'ailleurs : pour vous faciliter encore davantage les premiers pas, nous avons créé pour vous un [modèle de business plan]({{< relref "templates/finance/business-plan" >}}) qui illustre la structure à l'aide d'une idée d'entreprise donnée en exemple.
 
 {{< template-box id="e9b0eb93b6764118aad0" >}}
 

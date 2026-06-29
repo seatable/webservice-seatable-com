@@ -112,6 +112,6 @@ To use SeaTable, all you need to do is register [free of charge]({{< relref "pag
 {{< /faq >}}
 {{< faq "Is property management in SeaTable GDPR-compliant? " >}}GDPR compliance is essential, especially when processing the personal data of tenants and owners. With a platform like SeaTable, you can precisely define access rights and store data securely - either in the cloud or on your own servers (on-premises).
 {{< /faq >}}
-{{< faq "Does digital property management also make sense for smaller municipalities or communities? " >}}Yes, smaller municipalities in particular benefit from digital solutions, as they often have limited resources for administration. With SeaTable, they can design processes efficiently without incurring high costs for software or IT infrastructure. The scalable system adapts to your individual requirements.
+{{< faq "Does digital property management also make sense for smaller municipalities or communities? " >}}Yes, smaller municipalities in particular benefit from digital solutions, as they often have limited resources for administration. With SeaTable, they can design processes efficiently without incurring high costs for software or [IT infrastructure]({{< relref "posts/it-infrastruktur" >}}). The scalable system adapts to your individual requirements.
 
 {{< /faq >}}

@@ -22,7 +22,7 @@ register:
 Digital sovereignty is the **ability of companies, individuals or states to act autonomously in a networked world**. In addition to digital competence, the term encompasses control over the entire digital infrastructure required for technological sovereignty. The main objectives can be summarized as follows:
 
 - reduce dependence on individual providers and products
-- ensure a secure, functioning and available IT infrastructure
+- ensure a secure, functioning and available [IT infrastructure]({{< relref "posts/it-infrastruktur" >}})
 - maintain the ability to act and remain competitive in the course of digitalization
 - adhere to all applicable compliance regulations, in particular data protection
     

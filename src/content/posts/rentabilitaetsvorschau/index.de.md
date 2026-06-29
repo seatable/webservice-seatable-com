@@ -18,7 +18,7 @@ seo:
 
 Bei der Rentabilitätsvorschau, auch Ertragsvorschau oder Rentabilitätsplan genannt, prognostizieren Sie die zukünftigen Einnahmen und Ausgaben Ihres Unternehmens über einen bestimmten Zeitraum (normalerweise drei Jahre). Dabei stellen Sie den erwarteten Umsätzen die erwarteten Kosten gegenüber, um zu ermitteln, ob Ihr Unternehmen voraussichtlich Gewinne oder Verluste erzielen wird.  
 
-Die Rentabilitätsvorschau ist ein wichtiges Instrument der [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) und Teil des Businessplans, den Sie insbesondere bei einer Unternehmensgründung anfertigen sollten. Sie kann aber auch die Ertragssituation eines bestehenden Unternehmens betrachten, indem sie die eingesetzten Mittel mit dem erwirtschafteten Umsatz vergleicht.
+Die Rentabilitätsvorschau ist ein wichtiges Instrument der [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) und Teil des [Businessplans]({{< relref "posts/businessplan" >}}), den Sie insbesondere bei einer Unternehmensgründung anfertigen sollten. Sie kann aber auch die Ertragssituation eines bestehenden Unternehmens betrachten, indem sie die eingesetzten Mittel mit dem erwirtschafteten Umsatz vergleicht.
 
 ![Rentabilitätsvorschau mit Weitblick](rentabilitaetsvorschau-mit-weitblick.jpg)
 

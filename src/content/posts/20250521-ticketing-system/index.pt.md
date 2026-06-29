@@ -121,7 +121,7 @@ Outro destaque é a base de conhecimentos integrada, que lhe fornece respostas r
 
 ## Não pode passar sem um sistema de bilhética
 
-As exigências em matéria de apoio são cada vez maiores: a infraestrutura de TI está a tornar-se cada vez mais complexa, é necessário cumprir novas normas de segurança e, ao mesmo tempo, os clientes e os funcionários esperam soluções inovadoras e rápidas. Para acompanhar estes desenvolvimentos na gestão de reclamações, é essencial um sistema de emissão de bilhetes.
+As exigências em matéria de apoio são cada vez maiores: a [infraestrutura de TI]({{< relref "posts/it-infrastruktur" >}}) está a tornar-se cada vez mais complexa, é necessário cumprir novas normas de segurança e, ao mesmo tempo, os clientes e os funcionários esperam soluções inovadoras e rápidas. Para acompanhar estes desenvolvimentos na gestão de reclamações, é essencial um sistema de emissão de bilhetes.
 
 ![Os sistemas de bilhética baseados na nuvem podem ser escalados de forma flexível e utilizados a partir de qualquer local.](ticketing-system-helpdesk.png)
 

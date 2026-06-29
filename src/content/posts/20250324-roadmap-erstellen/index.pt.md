@@ -118,7 +118,7 @@ Se procura um modelo que lhe facilite o registo dos relatórios e da documentaç
 
 ### Roteiro estratégico
 
-É diretor-geral ou membro do conselho de administração e gostaria de explicar a **visão global** da empresa aos seus empregados ou a outras partes interessadas de uma forma clara e concisa? Então, um roteiro estratégico, que tem muitas semelhanças com um plano de negócios, é a ferramenta de eleição. Pode utilizá-lo para traçar os seus objectivos a curto e a longo prazo (por exemplo, em termos de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) e vendas), o [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e todas as medidas necessárias para alcançar a visão da empresa num relance.
+É diretor-geral ou membro do conselho de administração e gostaria de explicar a **visão global** da empresa aos seus empregados ou a outras partes interessadas de uma forma clara e concisa? Então, um roteiro estratégico, que tem muitas semelhanças com um [plano de negócios]({{< relref "posts/businessplan" >}}), é a ferramenta de eleição. Pode utilizá-lo para traçar os seus objectivos a curto e a longo prazo (por exemplo, em termos de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) e vendas), o [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e todas as medidas necessárias para alcançar a visão da empresa num relance.
 
 O modelo SeaTable mapeia claramente todos os processos importantes. Pode personalizá-lo para se adaptar à sua empresa.
 

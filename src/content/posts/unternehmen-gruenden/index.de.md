@@ -49,7 +49,7 @@ Ebenso entscheidend sind die Einnahmequellen und die passende Preisstrategie, de
 
 ## Businessplan für die Unternehmensgründung erstellen
 
-Ein Businessplan ist mehr als nur ein Dokument – er ist Ihr Fahrplan, während Sie Ihr Unternehmen gründen. Mit ihm halten Sie Ihre Ideen strukturiert fest, prüfen die Machbarkeit Ihres Vorhabens und zeigen potenziellen Investoren oder Partnern, dass Sie Ihr Geschäftsvorhaben durchdacht haben. In den folgenden Abschnitten erfahren Sie Schritt für Schritt, welche Elemente ein vollständiger Businessplan enthält und worauf Sie bei jedem Punkt besonders achten sollten.
+Ein [Businessplan]({{< relref "posts/businessplan" >}}) ist mehr als nur ein Dokument – er ist Ihr Fahrplan, während Sie Ihr Unternehmen gründen. Mit ihm halten Sie Ihre Ideen strukturiert fest, prüfen die Machbarkeit Ihres Vorhabens und zeigen potenziellen Investoren oder Partnern, dass Sie Ihr Geschäftsvorhaben durchdacht haben. In den folgenden Abschnitten erfahren Sie Schritt für Schritt, welche Elemente ein vollständiger Businessplan enthält und worauf Sie bei jedem Punkt besonders achten sollten.
 
 ### Zusammenfassung (Executive Summary)
 
@@ -77,7 +77,7 @@ Im Anhang können Sie zusätzliche Informationen bereitstellen, die Ihren Busine
 
 {{< warning headline="Tipp" >}}
 
-Mit der [No-Code-Plattform]({{< relref "/" >}}) SeaTable haben Sie die Möglichkeit, Ihren gesamten Businessplan digital abzubilden. Zahlen, Ideen, Aufgaben und Dokumente sind an einem Ort gebündelt, wodurch Sie jederzeit den Überblick behalten. Gleichzeitig können Sie gemeinsam mit Ihrem Team daran arbeiten, Änderungen direkt einpflegen und Fortschritte verfolgen. So wird die Planung transparent, effizient und deutlich einfacher als mit klassischen Dokumenten oder Tabellen.
+Mit der [No-Code-Plattform]({{< relref "/" >}}) SeaTable haben Sie die Möglichkeit, Ihren gesamten [Businessplan]({{< relref "templates/finance/business-plan" >}}) digital abzubilden. Zahlen, Ideen, Aufgaben und Dokumente sind an einem Ort gebündelt, wodurch Sie jederzeit den Überblick behalten. Gleichzeitig können Sie gemeinsam mit Ihrem Team daran arbeiten, Änderungen direkt einpflegen und Fortschritte verfolgen. So wird die Planung transparent, effizient und deutlich einfacher als mit klassischen Dokumenten oder Tabellen.
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ SeaTable deckt dabei alle wesentlichen Schritte ab:
 - **Marketing & Wachstum**: Erfassen Sie Kennzahlen (KPIs) zu Reichweite, Kundenakquise oder Kosten und werten Sie diese mit Dashboards anschaulich aus.
 - **Zusammenarbeit & Transparenz**: Arbeiten Sie in Echtzeit mit Mitgründern, Beratern oder Investoren an denselben Informationen – ohne Versionschaos.
 
-{{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Scrollen Sie durch unsere interaktive Vorlage und entdecken Sie erste Funktionen." >}}
+{{< template-box id="e9b0eb93b6764118aad0" >}}
 
 Der entscheidende Vorteil liegt darin, dass SeaTable mit Ihnen wächst. Was Sie zu Beginn für **Businessplan, Finanzplanung und Organisation** nutzen, können Sie später zu einem umfassenden System für [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), CRM, Reporting und Teamorganisation ausbauen. So haben Sie von Anfang an ein No-Code Tool an Ihrer Seite, das Ihre Gründung unterstützt und Sie langfristig begleitet.
 

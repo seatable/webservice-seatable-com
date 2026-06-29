@@ -111,6 +111,6 @@ Pour utiliser SeaTable, il vous suffit de [vous inscrire gratuitement]({{< relre
 {{< /faq >}}
 {{< faq "La gestion des biens immobiliers dans SeaTable est-elle conforme au RGPD ? " >}}La conformité au RGPD est essentielle, en particulier pour le traitement des données personnelles des locataires et des propriétaires. Avec une plateforme comme SeaTable, vous pouvez définir précisément les droits d'accès et stocker les données en toute sécurité, soit dans le cloud, soit sur vos propres serveurs (sur site).
 {{< /faq >}}
-{{< faq "Une gestion numérique des biens immobiliers est-elle également utile pour les petites communes ou municipalités ? " >}}Oui, les petites municipalités en particulier profitent des solutions numériques, car elles ont souvent des ressources limitées pour la gestion. SeaTable leur permet d'organiser efficacement les processus sans avoir à supporter des coûts élevés de logiciels ou d'infrastructure informatique. Le système évolutif s'adapte à vos besoins individuels.
+{{< faq "Une gestion numérique des biens immobiliers est-elle également utile pour les petites communes ou municipalités ? " >}}Oui, les petites municipalités en particulier profitent des solutions numériques, car elles ont souvent des ressources limitées pour la gestion. SeaTable leur permet d'organiser efficacement les processus sans avoir à supporter des coûts élevés de logiciels ou d'[infrastructure informatique]({{< relref "posts/it-infrastruktur" >}}). Le système évolutif s'adapte à vos besoins individuels.
 
 {{< /faq >}}

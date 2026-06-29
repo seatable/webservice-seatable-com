@@ -122,7 +122,7 @@ Una herramienta potente es un requisito previo para las soluciones escalables, p
 {{< /faq >}}
 
 {{< faq "¿Qué papel desempeña el departamento de TI en los proyectos no-code?" >}}
-El departamento de TI no solo debe aprobar los proyectos no-code, sino también apoyarlos activamente. El departamento de TI cuenta con experiencia en seguridad, cumplimiento normativo, gestión de identidades, integración de sistemas y evaluación de riesgos. Especialmente cuando se trata de datos sensibles y procesos críticos para el negocio, la colaboración con el departamento de TI le ayuda a desarrollar una arquitectura de sistema robusta para su base de datos que se integre en la infraestructura de TI de la empresa. Esto le permite no solo crear soluciones empresariales sólidas, sino también garantizar la escalabilidad de su infraestructura de TI.
+El departamento de TI no solo debe aprobar los proyectos no-code, sino también apoyarlos activamente. El departamento de TI cuenta con experiencia en seguridad, cumplimiento normativo, gestión de identidades, integración de sistemas y evaluación de riesgos. Especialmente cuando se trata de datos sensibles y procesos críticos para el negocio, la colaboración con el departamento de TI le ayuda a desarrollar una arquitectura de sistema robusta para su base de datos que se integre en la [infraestructura de TI]({{< relref "posts/it-infrastruktur" >}}) de la empresa. Esto le permite no solo crear soluciones empresariales sólidas, sino también garantizar la escalabilidad de su infraestructura de TI.
 {{< /faq >}}
 
 {{< faq "¿Por qué es tan crucial la documentación en el ámbito no-code?" >}}

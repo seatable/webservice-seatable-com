@@ -18,7 +18,7 @@ seo:
 
 In a profitability forecast, also known as an income forecast or profitability plan, you forecast the future income and expenses of your company over a certain period of time (usually three years). You compare the expected turnover with the expected costs to determine whether your company is likely to make a profit or a loss.  
 
-The profitability forecast is an important tool in [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and part of the business plan that you should prepare, especially when setting up a company. However, it can also look at the earnings situation of an existing company by comparing the funds used with the turnover generated.
+The profitability forecast is an important tool in [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and part of the [business plan]({{< relref "posts/businessplan" >}}) that you should prepare, especially when setting up a company. However, it can also look at the earnings situation of an existing company by comparing the funds used with the turnover generated.
 
 ![profitability forecast with foresight](rentabilitaetsvorschau-mit-weitblick.jpg)
 
