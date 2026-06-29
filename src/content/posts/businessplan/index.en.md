@@ -148,7 +148,7 @@ Some investors also place value on a plausible [schedule]({{< relref "templates/
 
 Basically, a business plan is a structured collection of information: texts, figures, images, documents, etc. SeaTable is an [AI no-code platform]({{< relref "/" >}}) with which you can create a digital business plan – more precisely databases, apps and automated processes – without any prior technical knowledge. All team members can **collaborate in real time**; changes to the data are synchronized immediately and can be traced via the logs. This means there is always only one current version of your business plan, which is accessible online at any time – with read permission for investors and other external users, too, if you wish. 
 
-By the way: To make it even easier for you to get started, we have created a **business plan template** for you that demonstrates the structure using an example business idea.
+By the way: To make it even easier for you to get started, we have created a [business plan template]({{< relref "templates/finance/business-plan" >}}) for you that demonstrates the structure using an example business idea.
 
 {{< template-box id="e9b0eb93b6764118aad0" >}}
 

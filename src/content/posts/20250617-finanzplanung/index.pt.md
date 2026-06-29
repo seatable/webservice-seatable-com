@@ -83,7 +83,7 @@ As **análises de cenários** ajudam-no a planear as taxas de crescimento, os lu
 
 A incerteza é maior na fase de arranque. Não existem ainda números de vendas fiáveis e os recursos são geralmente limitados. O financiamento externo é muitas vezes necessário sem que seja possível prever com fiabilidade se o modelo de negócio irá realmente funcionar e cobrir os custos. Um bom planeamento financeiro para a sua empresa em fase de arranque ajuda a gerir estes riscos.
 No início, o foco está principalmente nestas questões:
-- **Plano de negócios**: A sua ideia de negócio é economicamente viável e distingue-se da concorrência no mercado?
+- [Plano de negócios]({{< relref "posts/businessplan" >}}): A sua ideia de negócio é economicamente viável e distingue-se da concorrência no mercado?
 - **Planeamento das necessidades de capital**: O que precisa para o arranque (por exemplo, equipamento, pessoal, marketing)?
 - **Planeamento do financiamento**: De onde virá o dinheiro (capital próprio, empréstimos bancários, subsídios, investidores)?
 - **Planeamento da liquidez**: Quanto tempo durará o dinheiro disponível para cobrir as despesas correntes?

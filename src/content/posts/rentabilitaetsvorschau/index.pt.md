@@ -18,7 +18,7 @@ seo:
 
 Numa previsão de rentabilidade, também conhecida como previsão de rendimentos ou plano de rentabilidade, prevê os rendimentos e despesas futuros da sua empresa durante um determinado período de tempo (normalmente três anos). Compara o volume de negócios esperado com os custos esperados para determinar se a sua empresa é suscetível de ter um lucro ou uma perda.  
 
-A previsão de rentabilidade é uma ferramenta importante no [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e faz parte do plano de negócios que deve preparar, especialmente quando cria uma empresa. No entanto, também pode analisar a situação dos rendimentos de uma empresa existente, comparando os fundos investidos com o volume de negócios gerado.
+A previsão de rentabilidade é uma ferramenta importante no [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e faz parte do [plano de negócios]({{< relref "posts/businessplan" >}}) que deve preparar, especialmente quando cria uma empresa. No entanto, também pode analisar a situação dos rendimentos de uma empresa existente, comparando os fundos investidos com o volume de negócios gerado.
 
 ![previsão de rentabilidade com visão de futuro](rentabilitaetsvorschau-mit-weitblick.jpg)
 

@@ -120,7 +120,7 @@ Un autre point fort est la base de connaissances intégrée qui vous fournit des
 
 ## On ne peut pas se passer d'un système de ticketing
 
-Les exigences en matière de support sont de plus en plus élevées : l'infrastructure informatique devient de plus en plus complexe, vous devez respecter de nouvelles normes de sécurité et, en même temps, les clients et les collaborateurs attendent des solutions innovantes et rapides. Pour pouvoir suivre ces évolutions dans la gestion des plaintes, un système de ticketing est indispensable.
+Les exigences en matière de support sont de plus en plus élevées : l'[infrastructure informatique]({{< relref "posts/it-infrastruktur" >}}) devient de plus en plus complexe, vous devez respecter de nouvelles normes de sécurité et, en même temps, les clients et les collaborateurs attendent des solutions innovantes et rapides. Pour pouvoir suivre ces évolutions dans la gestion des plaintes, un système de ticketing est indispensable.
 
 ![Les systèmes de billetterie basés sur le cloud peuvent être mis à l'échelle de manière flexible et utilisés indépendamment du lieu.](ticketing-system-helpdesk.png)
 

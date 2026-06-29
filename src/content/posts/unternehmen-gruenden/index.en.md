@@ -49,7 +49,7 @@ The sources of revenue and the right pricing strategy are just as important, as 
 
 ## Create a business plan
 
-A business plan is more than just a document - it is your roadmap as you set up your company. You use it to record your ideas in a structured way, check the feasibility of your project and show potential investors or partners that you have thought your business project through. In the following sections, you will learn step by step which elements a complete business plan contains and what you should pay particular attention to at each point.
+A [business plan]({{< relref "posts/businessplan" >}}) is more than just a document - it is your roadmap as you set up your company. You use it to record your ideas in a structured way, check the feasibility of your project and show potential investors or partners that you have thought your business project through. In the following sections, you will learn step by step which elements a complete business plan contains and what you should pay particular attention to at each point.
 
 ### Executive summary
 
@@ -77,7 +77,7 @@ In the appendix, you can provide additional information that complements your bu
 
 {{< warning headline="Tip" >}}
 
-With SeaTable [no-code platform]({{< relref "/" >}}), you have the option of mapping your entire business plan digitally. Figures, ideas, tasks and documents are bundled in one place, allowing you to maintain an overview at all times. At the same time, you can work on it together with your team, enter changes directly and track progress. This makes planning transparent, efficient and much easier than with traditional documents or spreadsheets.
+With SeaTable [no-code platform]({{< relref "/" >}}), you have the option of mapping your entire [business plan]({{< relref "templates/finance/business-plan" >}}) digitally. Figures, ideas, tasks and documents are bundled in one place, allowing you to maintain an overview at all times. At the same time, you can work on it together with your team, enter changes directly and track progress. This makes planning transparent, efficient and much easier than with traditional documents or spreadsheets.
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ SeaTable covers all the essential steps:
 - **Marketing & Growth**: Record key performance indicators (KPIs) for reach, customer acquisition or costs and evaluate them clearly with dashboards.
 - **Collaboration & transparency**: Work in real time with co-founders, advisors or investors on the same information - without version chaos.
 
-{{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Scroll through our interactive template and discover the first functions." >}}
+{{< template-box id="e9b0eb93b6764118aad0" >}}
 
 The decisive advantage is that SeaTable grows with you. What you use at the beginning for **business plan, financial planning and organization**, you can later expand into a comprehensive system for [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), CRM, reporting and team organization. This means you have a tool at your side right from the start that supports your start-up and accompanies you in the long term.
 

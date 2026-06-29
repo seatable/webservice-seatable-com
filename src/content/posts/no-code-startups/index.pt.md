@@ -57,7 +57,7 @@ Além disso, a maioria das aplicações empresariais contém funções extensas 
 
 ### Reduza significativamente os custos
 
-Nem todos os fundadores conseguem convencer os investidores antes de fundar uma start-up. É bom que as ferramentas sem código sejam frequentemente **gratuitas** para as empresas em fase de arranque e as ajudem a **vivenciar com um orçamento baixo** no início: Por um lado, reduzem os custos de funcionamento das ferramentas empresariais e dos especialistas em TI e, por outro lado, é necessário um menor investimento em infra-estruturas de TI dispendiosas (por exemplo, servidores), uma vez que as plataformas sem código estão normalmente disponíveis na nuvem.
+Nem todos os fundadores conseguem convencer os investidores antes de fundar uma start-up. É bom que as ferramentas sem código sejam frequentemente **gratuitas** para as empresas em fase de arranque e as ajudem a **vivenciar com um orçamento baixo** no início: Por um lado, reduzem os custos de funcionamento das ferramentas empresariais e dos especialistas em TI e, por outro lado, é necessário um menor investimento em [infra-estruturas de TI]({{< relref "posts/it-infrastruktur" >}}) dispendiosas (por exemplo, servidores), uma vez que as plataformas sem código estão normalmente disponíveis na nuvem.
 
 ### Escale de forma flexível
 
@@ -83,7 +83,7 @@ Os casos de utilização típicos que tornam as ferramentas sem código interess
 
 Manter um registo de todas as receitas e despesas é essencial para qualquer empresa. Especialmente se precisar de credores para financiar a sua ideia, precisa de trabalhar muito no planeamento convincente do negócio, mesmo antes de começar. Antes de criar a sua start-up, as ferramentas no-code podem ajudá-lo com isto, entre outras coisas:
 
-*   criar um plano de negócios
+*   criar um [plano de negócios]({{< relref "posts/businessplan" >}})
 *   realizar análises [competitivas]({{< relref "posts/wettbewerbsanalyse" >}}) e [análises SWOT]({{< relref "posts/swot-analyse" >}})
 *   preparar um [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) sólido
 *   planear [investimentos]({{< relref "posts/investitionsplan" >}})

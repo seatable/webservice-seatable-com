@@ -122,7 +122,7 @@ Ein leistungsstarkes Tool ist die Voraussetzung für skalierbare Lösungen, erse
 {{< /faq >}}
 
 {{< faq "Welche Rolle kommt der IT bei No-Code-Projekten zu?" >}}
-Die IT sollte No-Code-Projekte nicht nur freigeben, sondern aktiv begleiten. Sie verfügt über Erfahrung bei Sicherheit, Compliance, Identitätsmanagement, Systemintegration und Risikobewertung. Gerade bei sensiblen Daten und geschäftskritischen Prozessen hilft die Zusammenarbeit mit der IT dabei, eine belastbare, in die IT-Infrastruktur des Unternehmens eingebettete Systemarchitektur für Ihre Datenbank zu entwickeln. So schaffen Sie nicht nur belastbare Fachlösungen, sondern sichern auch die Skalierbarkeit Ihrer IT.
+Die IT sollte No-Code-Projekte nicht nur freigeben, sondern aktiv begleiten. Sie verfügt über Erfahrung bei Sicherheit, Compliance, Identitätsmanagement, Systemintegration und Risikobewertung. Gerade bei sensiblen Daten und geschäftskritischen Prozessen hilft die Zusammenarbeit mit der IT dabei, eine belastbare, in die [IT-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) des Unternehmens eingebettete Systemarchitektur für Ihre Datenbank zu entwickeln. So schaffen Sie nicht nur belastbare Fachlösungen, sondern sichern auch die Skalierbarkeit Ihrer IT.
 {{< /faq >}}
 
 {{< faq "Weshalb ist Dokumentation im No-Code-Bereich so entscheidend?" >}}

@@ -49,7 +49,7 @@ Les sources de revenus et la stratégie de prix appropriée sont tout aussi déc
 
 ## Elaborer un business plan
 
-Un business plan est plus qu'un simple document - c'est votre feuille de route pendant que vous créez votre entreprise. Il vous permet de consigner vos idées de manière structurée, de vérifier la faisabilité de votre projet et de montrer aux investisseurs ou partenaires potentiels que vous avez bien réfléchi à votre projet d'entreprise. Dans les sections suivantes, vous découvrirez étape par étape les éléments d'un business plan complet et les points auxquels vous devez être particulièrement attentif pour chaque point.
+Un [business plan]({{< relref "posts/businessplan" >}}) est plus qu'un simple document - c'est votre feuille de route pendant que vous créez votre entreprise. Il vous permet de consigner vos idées de manière structurée, de vérifier la faisabilité de votre projet et de montrer aux investisseurs ou partenaires potentiels que vous avez bien réfléchi à votre projet d'entreprise. Dans les sections suivantes, vous découvrirez étape par étape les éléments d'un business plan complet et les points auxquels vous devez être particulièrement attentif pour chaque point.
 
 ### Résumé (Executive Summary)
 
@@ -77,7 +77,7 @@ Dans l'annexe, vous pouvez fournir des informations supplémentaires qui complè
 
 {{< warning headline="Conseil" >}}
 
-Avec SeaTable, vous avez la possibilité de représenter numériquement l'ensemble de votre business plan. Les chiffres, les idées, les tâches et les documents sont regroupés au même endroit, ce qui vous permet de garder une vue d'ensemble à tout moment. En même temps, vous pouvez travailler avec votre équipe, intégrer directement les modifications et suivre les progrès. La planification devient ainsi transparente, efficace et nettement plus simple qu'avec des documents ou des tableaux classiques.
+Avec SeaTable, vous avez la possibilité de représenter numériquement l'ensemble de votre [business plan]({{< relref "templates/finance/business-plan" >}}). Les chiffres, les idées, les tâches et les documents sont regroupés au même endroit, ce qui vous permet de garder une vue d'ensemble à tout moment. En même temps, vous pouvez travailler avec votre équipe, intégrer directement les modifications et suivre les progrès. La planification devient ainsi transparente, efficace et nettement plus simple qu'avec des documents ou des tableaux classiques.
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ SeaTable couvre toutes les étapes essentielles :
 - **Marketing & croissance** : Saisissez des chiffres clés (KPI) sur la portée, l'acquisition de clients ou les coûts et évaluez-les clairement à l'aide de tableaux de bord.
 - **Collaboration & transparence** : Travaillez en temps réel avec des cofondateurs, des conseillers ou des investisseurs sur les mêmes informations - sans chaos de versions.
 
-{{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Faites défiler notre modèle interactif et découvrez les premières fonctionnalités." >}}
+{{< template-box id="e9b0eb93b6764118aad0" >}}
 
 L'avantage décisif est que SeaTable évolue avec vous. Ce que vous utilisez au début pour **le business plan, la planification financière et l'organisation**, vous pouvez le développer plus tard en un système complet pour **la gestion de projet, le CRM, le reporting et l'organisation de l'équipe**. Vous disposez ainsi dès le début d'un outil qui soutient votre création et vous accompagne à long terme.
 

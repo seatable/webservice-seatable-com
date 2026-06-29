@@ -148,7 +148,7 @@ Manche Investoren legen noch dazu Wert auf einen plausiblen [zeitlichen Ablaufpl
 
 Im Grunde ist ein Businessplan eine strukturierte Sammlung an Informationen: Texte, Zahlen, Bilder, Dokumente etc. SeaTable ist eine [KI No-Code-Plattform]({{< relref "/" >}}), mit der Sie ohne technische Vorkenntnisse einen digitalen Businessplan – genauer gesagt Datenbanken, Apps und automatisierte Prozesse – erstellen können. Dabei können alle Teammitglieder **in Echtzeit zusammenarbeiten**; Änderungen an den Daten werden sofort synchronisiert und sind über die Logs nachvollziehbar. So existiert immer nur eine aktuelle Version von Ihrem Businessplan, der jederzeit online zugänglich ist – wenn Sie möchten, auch mit Leseberechtigung für Investoren und andere externe Nutzer. 
 
-Übrigens: Um Ihnen den Einstieg noch leichter zu machen, haben wir eine **Businessplan-Vorlage** für Sie erstellt, die den Aufbau exemplarisch an einer Geschäftsidee demonstriert.
+Übrigens: Um Ihnen den Einstieg noch leichter zu machen, haben wir eine [Businessplan-Vorlage]({{< relref "templates/finance/business-plan" >}}) für Sie erstellt, die den Aufbau exemplarisch an einer Geschäftsidee demonstriert.
 
 {{< template-box id="e9b0eb93b6764118aad0" >}}
 

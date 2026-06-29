@@ -57,7 +57,7 @@ In addition, most business applications contain extensive functions in a level o
 
 ### Significantly lower costs
 
-Not all founders can convince investors before founding a start-up. It's a good thing that no-code tools are often **free** for start-ups and help them **get by on a low budget** at the beginning: On the one hand, they reduce the running costs for business tools and IT specialists, and on the other hand, less investment in expensive IT infrastructure (e.g. servers) is required as no-code platforms are usually available in the cloud.
+Not all founders can convince investors before founding a start-up. It's a good thing that no-code tools are often **free** for start-ups and help them **get by on a low budget** at the beginning: On the one hand, they reduce the running costs for business tools and IT specialists, and on the other hand, less investment in expensive [IT infrastructure]({{< relref "posts/it-infrastruktur" >}}) (e.g. servers) is required as no-code platforms are usually available in the cloud.
 
 ### Scale flexibly
 
@@ -83,7 +83,7 @@ Typical use cases that make no-code tools interesting for start-ups and other co
 
 Keeping track of all income and expenses is essential for every company. Especially if you need lenders to finance your idea, you need to put a lot of work into convincing business planning before you start up. Before you set up your start-up, no-code tools can help you with this, among other things:
 
-*   create a business plan
+*   create a [business plan]({{< relref "posts/businessplan" >}})
 *   carry out [competitive]({{< relref "posts/wettbewerbsanalyse" >}}) and [SWOT analyses]({{< relref "posts/swot-analyse" >}})
 *   prepare solid [financial planning]({{< relref "posts/20250617-finanzplanung" >}})
 *   plan [investments]({{< relref "posts/investitionsplan" >}})

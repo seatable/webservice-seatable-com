@@ -119,7 +119,7 @@ Si vous cherchez un modèle qui vous permette de consigner plus facilement les r
 
 ### Feuille de route stratégique
 
-Vous êtes directeur ou membre du conseil d'administration et vous souhaitez expliquer à vos collaborateurs ou à d'autres parties prenantes la **vision globale** de l'entreprise de manière claire et accessible ? Une feuille de route stratégique, qui présente de nombreuses similitudes avec un business plan, est alors l'outil de choix. Elle vous permet d'illustrer vos objectifs à court et à long terme (par exemple en matière de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) et de vente), de rendre [la planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et toutes les mesures nécessaires à la réalisation de la vision d'entreprise accessibles en un coup d'œil.
+Vous êtes directeur ou membre du conseil d'administration et vous souhaitez expliquer à vos collaborateurs ou à d'autres parties prenantes la **vision globale** de l'entreprise de manière claire et accessible ? Une feuille de route stratégique, qui présente de nombreuses similitudes avec un [business plan]({{< relref "posts/businessplan" >}}), est alors l'outil de choix. Elle vous permet d'illustrer vos objectifs à court et à long terme (par exemple en matière de [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) et de vente), de rendre [la planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et toutes les mesures nécessaires à la réalisation de la vision d'entreprise accessibles en un coup d'œil.
 
 Le modèle de SeaTable illustre clairement tous les processus importants. Vous pouvez les adapter à votre entreprise.
 

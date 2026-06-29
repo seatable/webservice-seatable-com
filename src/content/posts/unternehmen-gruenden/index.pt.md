@@ -49,7 +49,7 @@ As fontes de receitas e a estratégia de preços correta são igualmente importa
 
 ## Criar um plano de negócios
 
-Um plano de negócios é mais do que um simples documento - é o seu roteiro para a criação da sua empresa. Utiliza-o para registar as suas ideias de forma estruturada, verificar a viabilidade do seu projeto e mostrar aos potenciais investidores ou parceiros que pensou bem no seu projeto empresarial. Nas secções seguintes, aprenderá passo a passo quais os elementos que um plano de negócios completo contém e a que deve prestar especial atenção em cada ponto.
+Um [plano de negócios]({{< relref "posts/businessplan" >}}) é mais do que um simples documento - é o seu roteiro para a criação da sua empresa. Utiliza-o para registar as suas ideias de forma estruturada, verificar a viabilidade do seu projeto e mostrar aos potenciais investidores ou parceiros que pensou bem no seu projeto empresarial. Nas secções seguintes, aprenderá passo a passo quais os elementos que um plano de negócios completo contém e a que deve prestar especial atenção em cada ponto.
 
 ### Resumo executivo
 
@@ -77,7 +77,7 @@ No anexo, pode fornecer informações adicionais que complementem o seu plano de
 
 {{< warning headline="Dica" >}}
 
-Com o SeaTable, tem a possibilidade de mapear digitalmente todo o seu plano de negócios. Os números, ideias, tarefas e documentos são agrupados num único local, permitindo-lhe manter uma visão geral em qualquer altura. Ao mesmo tempo, pode trabalhar em conjunto com a sua equipa, introduzir alterações diretamente e acompanhar o progresso. Isto torna o planeamento transparente, eficiente e muito mais fácil do que com documentos ou folhas de cálculo tradicionais.
+Com o SeaTable, tem a possibilidade de mapear digitalmente todo o seu [plano de negócios]({{< relref "templates/finance/business-plan" >}}). Os números, ideias, tarefas e documentos são agrupados num único local, permitindo-lhe manter uma visão geral em qualquer altura. Ao mesmo tempo, pode trabalhar em conjunto com a sua equipa, introduzir alterações diretamente e acompanhar o progresso. Isto torna o planeamento transparente, eficiente e muito mais fácil do que com documentos ou folhas de cálculo tradicionais.
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ O SeaTable cobre todos os passos essenciais:
 - **Marketing e crescimento**: Registe indicadores-chave de desempenho (KPI) para alcance, aquisição de clientes ou custos e analise-os claramente com painéis de controlo.
 - **Colaboração e transparência**: Trabalhe em tempo real com co-fundadores, consultores ou investidores sobre a mesma informação - sem caos de versões.
 
-{{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Percorra o nosso modelo interativo e descubra as primeiras funções." >}}
+{{< template-box id="e9b0eb93b6764118aad0" >}}
 
 A vantagem decisiva é que o SeaTable cresce consigo. O que inicialmente utiliza para **plano de negócios, planeamento financeiro e organização** pode mais tarde ser expandido para um sistema abrangente de **gestão de projectos, CRM, relatórios e organização de equipas**. Isto significa que tem ao seu lado, desde o início, uma ferramenta que apoia o seu arranque e o acompanha a longo prazo.
 

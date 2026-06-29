@@ -83,7 +83,7 @@ Die langfristige Finanzplanung ist eng mit der übergreifenden Strategie verknü
 In der Gründungsphase ist die Unsicherheit am größten. Es gibt noch keine belastbaren Umsatzzahlen und die Ressourcen sind meist begrenzt. Häufig ist eine Fremdfinanzierung vonnöten, ohne zuverlässig voraussagen zu können, ob das Geschäftsmodell wirklich funktioniert und die Kosten trägt. Eine gute Finanzplanung für Ihr Startup hilft diese Risiken zu beherrschen.
 
 Am Anfang stehen vor allem diese Fragen im Fokus:
-- **Businessplan**: Ist Ihre Geschäftsidee wirtschaftlich tragfähig und hebt sich von der Konkurrenz auf dem Markt ab?
+- [Businessplan]({{< relref "posts/businessplan" >}}): Ist Ihre Geschäftsidee wirtschaftlich tragfähig und hebt sich von der Konkurrenz auf dem Markt ab?
 - **Kapitalbedarfsplanung**: Was benötigen Sie für die Gründung (z. B. Ausstattung, Personal, Marketing)?
 - **Finanzierungsplanung**: Woher kommt das Geld (Eigenkapital, Bankkredite, Fördermittel, Investoren)? 
 - **Liquiditätsplanung**: Wie lange reicht das verfügbare Geld aus, um laufende Ausgaben zu decken? 

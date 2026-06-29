@@ -58,7 +58,7 @@ Darüber hinaus enthalten die meisten Business-Anwendungen umfangreiche Funktion
 
 ### Deutlich geringere Kosten
 
-Nicht alle Gründer können Investoren überzeugen, bevor sie ein Start up gründen. Gut, dass No-Code-Tools für Startups oft **kostenlos** sind und ihnen helfen, zu Beginn **mit einem geringen Budget auszukommen**: Einerseits senken sie die laufenden Kosten für Business-Tools und IT-Fachkräfte, andererseits sind weniger Investitionen in teure IT-Infrastruktur (z. B. Server) nötig, da No-Code-Plattformen üblicherweise in der Cloud verfügbar sind.
+Nicht alle Gründer können Investoren überzeugen, bevor sie ein Start up gründen. Gut, dass No-Code-Tools für Startups oft **kostenlos** sind und ihnen helfen, zu Beginn **mit einem geringen Budget auszukommen**: Einerseits senken sie die laufenden Kosten für Business-Tools und IT-Fachkräfte, andererseits sind weniger Investitionen in teure [IT-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) (z. B. Server) nötig, da No-Code-Plattformen üblicherweise in der Cloud verfügbar sind.
 
 ### Flexibel skalieren
 
@@ -84,7 +84,7 @@ Typische Anwendungsfälle, die No Code Tools für Startups und andere Unternehme
 
 Den Überblick über alle Einnahmen und Ausgaben zu behalten ist für jedes Unternehmen essentiell. Vor allem, wenn Sie Kreditgeber benötigen, um Ihre Idee zu finanzieren, müssen Sie schon vor der Gründung viel Arbeit in eine überzeugende Geschäftsplanung stecken. Bevor Sie Ihr Start up gründen, helfen Ihnen No-Code-Tools unter anderem dabei:
 
-*   einen Businessplan zu erstellen
+*   einen [Businessplan]({{< relref "posts/businessplan" >}}) zu erstellen
 *   [Wettbewerbs-]({{< relref "posts/wettbewerbsanalyse" >}}) und [SWOT-Analysen]({{< relref "posts/swot-analyse" >}}) durchzuführen
 *   eine solide [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) aufzustellen
 *   [Investitionen]({{< relref "posts/investitionsplan" >}}) zu planen

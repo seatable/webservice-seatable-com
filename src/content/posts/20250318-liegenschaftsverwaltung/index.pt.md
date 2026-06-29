@@ -111,6 +111,6 @@ Para utilizar o SeaTable, basta registar-se [gratuitamente] ({{< relref "pages/r
 {{< /faq >}}
 {{< faq "A gestão de propriedades no SeaTable é compatível com o RGPD? " >}}A conformidade com o RGPD é essencial, especialmente ao processar os dados pessoais dos inquilinos e proprietários. Com uma plataforma como o SeaTable, pode definir com precisão os direitos de acesso e armazenar os dados de forma segura - quer na nuvem, quer nos seus próprios servidores (on-premises).
 {{< /faq >}}
-{{< faq "A gestão digital de propriedades também faz sentido para municípios ou comunidades mais pequenas? " >}}Sim, os municípios mais pequenos beneficiam particularmente das soluções digitais, uma vez que têm frequentemente recursos limitados para a administração. Com o SeaTable, podem organizar processos de forma eficiente sem incorrer em custos elevados de software ou infra-estruturas de TI. O sistema escalável adapta-se às suas necessidades individuais.
+{{< faq "A gestão digital de propriedades também faz sentido para municípios ou comunidades mais pequenas? " >}}Sim, os municípios mais pequenos beneficiam particularmente das soluções digitais, uma vez que têm frequentemente recursos limitados para a administração. Com o SeaTable, podem organizar processos de forma eficiente sem incorrer em custos elevados de software ou [infra-estruturas de TI]({{< relref "posts/it-infrastruktur" >}}). O sistema escalável adapta-se às suas necessidades individuais.
 
 {{< /faq >}}

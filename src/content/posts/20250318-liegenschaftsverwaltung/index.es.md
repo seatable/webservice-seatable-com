@@ -111,6 +111,6 @@ Para utilizar SeaTable, sólo tiene que registrarse [gratuitamente]({{< relref "
 {{< /faq >}}
 {{< faq "¿Cumple GDPR la gestión de propiedades en SeaTable? " >}}El cumplimiento del GDPR es esencial, especialmente cuando se procesan los datos personales de inquilinos y propietarios. Con una plataforma como SeaTable, puede definir con precisión los derechos de acceso y almacenar los datos de forma segura, ya sea en la nube o en sus propios servidores (on-premises).
 {{< /faq >}}
-{{< faq "¿La gestión digital de la propiedad también tiene sentido para municipios o comunidades más pequeños? " >}}Sí, los municipios más pequeños en particular se benefician de las soluciones digitales, ya que a menudo disponen de recursos limitados para la administración. Con SeaTable, pueden organizar los procesos de forma eficiente sin incurrir en elevados costes de software o infraestructura informática. El sistema escalable se adapta a sus necesidades individuales.
+{{< faq "¿La gestión digital de la propiedad también tiene sentido para municipios o comunidades más pequeños? " >}}Sí, los municipios más pequeños en particular se benefician de las soluciones digitales, ya que a menudo disponen de recursos limitados para la administración. Con SeaTable, pueden organizar los procesos de forma eficiente sin incurrir en elevados costes de software o [infraestructura informática]({{< relref "posts/it-infrastruktur" >}}). El sistema escalable se adapta a sus necesidades individuales.
 
 {{< /faq >}}

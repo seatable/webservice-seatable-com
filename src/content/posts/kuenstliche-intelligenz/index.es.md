@@ -217,7 +217,7 @@ Como plataforma de IA sin código, SeaTable permite automatizaciones apoyadas en
 
 Y sin líneas de preocupación en lo que respecta a la protección de datos: además de Gemma 3, SeaTable soportará en el futuro otros modelos de IA de diversos proveedores que se operan en centros de datos alemanes en cumplimiento de la GDPR. Además, el intercambio de datos entre [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) y los modelos lingüísticos está cifrado.
   
-Para un control total, los autoalojadores también pueden, por supuesto, utilizar los modelos de AI en su propia infraestructura. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), un componente de [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), se basa en LiteLLM y, por tanto, admite la conexión de un gran número de modelos con una API compatible con OpenAI.
+Para un control total, los autoalojadores también pueden, por supuesto, utilizar los modelos de AI en su propia [infraestructura]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), un componente de [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), se basa en LiteLLM y, por tanto, admite la conexión de un gran número de modelos con una API compatible con OpenAI.
 
 {{< newsletter title="Manténgase informado" subtitle="" submit="Suscríbase ahora" >}}
 

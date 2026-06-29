@@ -131,6 +131,6 @@ Fundraising stammt aus dem Englischen und hat sich seit Mitte des 20. Jahrhunder
 
 {{< faq "Welche Besonderheiten gibt es beim Fundraising für Startups?" >}}
 
-Startups suchen häufig nach Finanzierungsmöglichkeiten abseits von klassischen Bankkrediten. Anders als herkömmliches Fundraising, funktioniert "Fundraising for startups" primär über Crowdfunding und spricht gezielt Investoren und Business Angels an. Grundlage des Prozesses ist ein ausgearbeiteter Businessplan. Aus Sicht der Geber handelt es sich um eine Geldanlage, an die eine Gewinnerwartung geknüpft ist. Sie sind also keine Spender, sondern Investoren.
+Startups suchen häufig nach Finanzierungsmöglichkeiten abseits von klassischen Bankkrediten. Anders als herkömmliches Fundraising, funktioniert "Fundraising for startups" primär über Crowdfunding und spricht gezielt Investoren und Business Angels an. Grundlage des Prozesses ist ein ausgearbeiteter [Businessplan]({{< relref "posts/businessplan" >}}). Aus Sicht der Geber handelt es sich um eine Geldanlage, an die eine Gewinnerwartung geknüpft ist. Sie sind also keine Spender, sondern Investoren.
 
 {{< /faq >}}

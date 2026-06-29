@@ -57,7 +57,7 @@ En outre, la plupart des applications professionnelles contiennent des fonctions
 
 ### Des coûts considérablement réduits
 
-Tous les fondateurs ne parviennent pas à convaincre les investisseurs avant de lancer leur start-up. Heureusement, les outils sans code sont souvent **gratuits** pour les start-ups et les aident à se débrouiller **avec un petit budget au début** : D'une part, ils réduisent les coûts récurrents des outils commerciaux et des professionnels de l'informatique, et d'autre part, ils nécessitent moins d'investissements dans une infrastructure informatique coûteuse (par exemple, des serveurs), car les plateformes No-Code sont généralement disponibles dans le cloud.
+Tous les fondateurs ne parviennent pas à convaincre les investisseurs avant de lancer leur start-up. Heureusement, les outils sans code sont souvent **gratuits** pour les start-ups et les aident à se débrouiller **avec un petit budget au début** : D'une part, ils réduisent les coûts récurrents des outils commerciaux et des professionnels de l'informatique, et d'autre part, ils nécessitent moins d'investissements dans une [infrastructure informatique]({{< relref "posts/it-infrastruktur" >}}) coûteuse (par exemple, des serveurs), car les plateformes No-Code sont généralement disponibles dans le cloud.
 
 ### Évoluer de manière flexible
 
@@ -83,7 +83,7 @@ Voici des cas d'utilisation typiques qui rendent les outils No Code intéressant
 
 Garder une vue d'ensemble de tous les revenus et dépenses est essentiel pour toute entreprise. Surtout si vous avez besoin de prêteurs pour financer votre idée, vous devez consacrer beaucoup d'efforts à une planification commerciale convaincante avant même la création de votre entreprise. Avant de créer votre start-up, les outils No-Code vous aident notamment à :
 
-*   élaborer un business plan
+*   élaborer un [business plan]({{< relref "posts/businessplan" >}})
 *   réaliser des [analyses concurrentielles]({{< relref "posts/wettbewerbsanalyse" >}}) et des [analyses SWOT]({{< relref "posts/swot-analyse" >}})
 *   établir une [planification financière]({{< relref "posts/20250617-finanzplanung" >}}) solide
 *   planifier les [investissements]({{< relref "posts/investitionsplan" >}})

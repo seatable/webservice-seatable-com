@@ -57,7 +57,7 @@ Además, la mayoría de las aplicaciones empresariales contienen amplias funcion
 
 ### Costes significativamente más bajos
 
-No todos los fundadores pueden convencer a los inversores antes de fundar una empresa. Es bueno que las herramientas sin código sean a menudo **gratis** para las empresas de nueva creación y les ayuden a **salir adelante con un presupuesto bajo** al principio: Por un lado, reducen los costes de funcionamiento de las herramientas empresariales y de los especialistas informáticos y, por otro, se requiere una menor inversión en infraestructuras informáticas caras (por ejemplo, servidores), ya que las plataformas sin código suelen estar disponibles en la nube.
+No todos los fundadores pueden convencer a los inversores antes de fundar una empresa. Es bueno que las herramientas sin código sean a menudo **gratis** para las empresas de nueva creación y les ayuden a **salir adelante con un presupuesto bajo** al principio: Por un lado, reducen los costes de funcionamiento de las herramientas empresariales y de los especialistas informáticos y, por otro, se requiere una menor inversión en [infraestructuras informáticas]({{< relref "posts/it-infrastruktur" >}}) caras (por ejemplo, servidores), ya que las plataformas sin código suelen estar disponibles en la nube.
 
 ### Escalar con flexibilidad
 
@@ -83,7 +83,7 @@ Los casos de uso típicos que hacen que las herramientas sin código sean intere
 
 Llevar un registro de todos los ingresos y gastos es esencial para cualquier empresa. Especialmente si necesita que los prestamistas financien su idea, debe dedicar mucho trabajo a una planificación empresarial convincente incluso antes de poner en marcha la empresa. Antes de poner en marcha su empresa, las herramientas sin código pueden ayudarle con esto, entre otras cosas:
 
-*   crear un plan de negocio
+*   crear un [plan de negocio]({{< relref "posts/businessplan" >}})
 *   realizar [análisis de la competencia]({{< relref "posts/wettbewerbsanalyse" >}}) y [análisis DAFO]({{< relref "posts/swot-analyse" >}})
 *   preparar una sólida [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}})
 *   planificar [las inversiones]({{< relref "posts/investitionsplan" >}})
