@@ -1,7 +1,7 @@
 ---
 title: Historie und Versionen
 seo:
-    title: 'SeaTable Formeln | Daten automatisch berechnen | Hilfe'
-    description: 'Alle Hilfe-Artikel zu Formeln in SeaTable: Erfahren Sie alles über mathematische Funktionen, Syntaxregeln und logische Verknüpfungen.'
+    title: 'Historie & Versionen in SeaTable: Änderungen verwalten'
+    description: 'Lernen Sie, wie Sie die Versionshistorie in SeaTable nutzen, Änderungen nachverfolgen und ältere Stände einfach wiederherstellen.'
 url: '/de/hilfe/base-editor/historie-und-versionen'
 ---
