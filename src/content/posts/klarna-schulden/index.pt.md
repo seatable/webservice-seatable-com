@@ -98,9 +98,9 @@ O próprio Klarna também oferece a possibilidade de definir orçamentos para ma
 
 ## Livro de orçamento do SeaTable
 
-Um **livro de orçamento** bem estruturado é extremamente útil para registar e analisar as suas despesas em pormenor. O SeaTable oferece um [modelo]({{< relref "templates/finance/budget-book" >}}) gratuito que lhe permite manter os seus assuntos financeiros sob controlo sem perder **a noção**.
+Um **livro de orçamento** bem estruturado é extremamente útil para registar e analisar as suas despesas em pormenor. O SeaTable oferece um [modelo]({{< relref "templates/everyday-life/budget-book" >}}) gratuito que lhe permite manter os seus assuntos financeiros sob controlo sem perder **a noção**.
 
-Com o [planeador de orçamento]({{< relref "templates/finance/budget-book" >}}) do SeaTable, pode registar facilmente todas as suas despesas e receitas e calcular o seu orçamento. Faça a distinção entre **despesas pontuais** e **custos regulares** para obter uma visão geral clara. Quer se trate de serviços de streaming mensais ou de actividades de lazer espontâneas - pode introduzir tudo no seu planificador de orçamento. Isto permite-lhe analisar o seu **comportamento de consumo** e **identificar** o seu **potencial de poupança**.
+Com o [planeador de orçamento]({{< relref "templates/everyday-life/budget-book" >}}) do SeaTable, pode registar facilmente todas as suas despesas e receitas e calcular o seu orçamento. Faça a distinção entre **despesas pontuais** e **custos regulares** para obter uma visão geral clara. Quer se trate de serviços de streaming mensais ou de actividades de lazer espontâneas - pode introduzir tudo no seu planificador de orçamento. Isto permite-lhe analisar o seu **comportamento de consumo** e **identificar** o seu **potencial de poupança**.
 
 Graças ao **calendário** prático, pode também vigiar a data de vencimento de certas despesas para não perder nenhum prazo de pagamento e não ser surpreendido por débitos directos inesperados.
 

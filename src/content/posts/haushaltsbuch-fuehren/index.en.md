@@ -55,7 +55,7 @@ So there is every reason to create a budget book and check your expenses. It's u
 
 The no-code database SeaTable offers you an excellent way to create your budget book - with an intuitive user interface and many functions that go beyond a classic **spreadsheet** such as Excel. Not only can you easily access your data in the cloud from any device, but you can also use **statistics**, **formulas**, **groupings** and **filters** to analyze your data.
 
-You can easily enter all your expenses in your digital budget book. Using the example of a family of four, we have created a [free template]({{< relref "templates/finance/budget-book" >}}) that contains all the important points:
+You can easily enter all your expenses in your digital budget book. Using the example of a family of four, we have created a [free template]({{< relref "templates/everyday-life/budget-book" >}}) that contains all the important points:
 
 - Category, frequency and type of output
 - Amount of the issue and upload of the invoice
@@ -63,7 +63,7 @@ You can easily enter all your expenses in your digital budget book. Using the ex
 
 Whether it's shopping, rent and utilities, car insurance or tutoring for your son - with SeaTable you can keep track of all your costs. With the help of [single-selection columns]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), you can **categorize**, **filter** and **group** your expenses individually. For a chronological order in your budget book, simply **sort** your expenses by [date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). You can list your monthly **income** and calculate your surplus **budget** in two additional tables.
 
-If you would like to use the template for your budget book, [simply register for free]({{< relref "pages/registration" >}}) in SeaTable. You can then import the [template]({{< relref "templates/finance/budget-book" >}}) into your workspace and adapt it flexibly to your needs.
+If you would like to use the template for your budget book, [simply register for free]({{< relref "pages/registration" >}}) in SeaTable. You can then import the [template]({{< relref "templates/everyday-life/budget-book" >}}) into your workspace and adapt it flexibly to your needs.
 
 ## 12 tips to help you save money
 

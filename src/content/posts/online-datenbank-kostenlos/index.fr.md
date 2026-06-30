@@ -28,7 +28,7 @@ Il existe également des bases de données clients pour enregistrer les intérê
 
 ## Quels sont les avantages des bases de données en ligne par rapport aux bases de données traditionnelles ?
 
-Les bases de données en ligne sont soit disponibles gratuitement, soit payées mensuellement. Vous ne payez que ce que vous avez utilisé comme capacité de stockage. De plus, vous n'avez pas besoin d'acheter votre propre matériel et vous [économisez des frais]({{< relref "templates/finance/budget-book" >}}) d'installation.
+Les bases de données en ligne sont soit disponibles gratuitement, soit payées mensuellement. Vous ne payez que ce que vous avez utilisé comme capacité de stockage. De plus, vous n'avez pas besoin d'acheter votre propre matériel et vous [économisez des frais]({{< relref "templates/everyday-life/budget-book" >}}) d'installation.
 
 Un autre avantage est que vous achetez un service. Les fournisseurs ont généralement leur propre département informatique. Vous déchargez ainsi votre propre personnel. Personne pour créer et utiliser la base de données n'a besoin de connaissances approfondies en programmation. La saisie des données peut également se faire par importation ou par formulaire web.
 

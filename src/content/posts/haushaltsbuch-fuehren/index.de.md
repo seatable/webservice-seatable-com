@@ -52,7 +52,7 @@ Es spricht also alles dafür, ein Haushaltsbuch zu erstellen und Ihre Ausgaben z
 
 Die No-Code-Datenbank SeaTable bietet Ihnen eine hervorragende Möglichkeit, Ihr Haushaltsbuch zu erstellen – mit einer intuitiven Benutzeroberfläche und vielen Funktionen, die über eine klassische **Tabellenkalkulation** wie Excel hinausgehen. Greifen Sie nicht nur spielend leicht von allen Endgeräten auf Ihre Daten in der Cloud zu, sondern nutzen Sie auch **Statistiken**, **Formeln**, **Gruppierungen** und **Filter**, um Ihre Daten auszuwerten.
 
-In Ihrem digitalen Haushaltsbuch können Sie alle Ausgaben ganz simpel eintragen. Am Beispiel einer vierköpfigen Familie haben wir eine [kostenlose Vorlage]({{< relref "templates/finance/budget-book" >}}) gebaut, in der alle wichtigen Punkte enthalten sind:
+In Ihrem digitalen Haushaltsbuch können Sie alle Ausgaben ganz simpel eintragen. Am Beispiel einer vierköpfigen Familie haben wir eine [kostenlose Vorlage]({{< relref "templates/everyday-life/budget-book" >}}) gebaut, in der alle wichtigen Punkte enthalten sind:
 
 - Kategorie, Häufigkeit und Art der Ausgabe
 - Höhe der Ausgabe und Upload der Rechnung
@@ -60,7 +60,7 @@ In Ihrem digitalen Haushaltsbuch können Sie alle Ausgaben ganz simpel eintragen
 
 Ob Einkäufe, Miete und Nebenkosten, die Autoversicherung oder die Nachhilfe für den Sohn – mit SeaTable behalten Sie den Überblick über all Ihre Kosten. Mithilfe von [Einfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) können Sie Ihre Ausgaben individuell **kategorisieren**, **filtern** und **gruppieren**. Für eine chronologische Ordnung in Ihrem Haushaltsbuch **sortieren** Sie Ihre Ausgaben einfach nach [Datum]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). In zwei weiteren Tabellen können Sie Ihre monatlichen **Einnahmen** auflisten sowie Ihr überschüssiges **Budget** errechnen.
 
-Wenn Sie die Vorlage für Ihr Haushaltsbuch verwenden möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) in SeaTable. Danach können Sie die [Vorlage]({{< relref "templates/finance/budget-book" >}}) in Ihren Arbeitsbereich importieren und flexibel an Ihre Bedürfnisse anpassen.
+Wenn Sie die Vorlage für Ihr Haushaltsbuch verwenden möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) in SeaTable. Danach können Sie die [Vorlage]({{< relref "templates/everyday-life/budget-book" >}}) in Ihren Arbeitsbereich importieren und flexibel an Ihre Bedürfnisse anpassen.
 
 ## 12 Tipps, mit denen Sie bares Geld sparen
 

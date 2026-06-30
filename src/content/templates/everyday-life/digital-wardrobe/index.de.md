@@ -163,7 +163,7 @@ sections:
       - q: "Welche KI-Funktionen unterstützt die Kleiderschrank-App?"
         a: 'Mit den intgerierten KI-unterstützten Automatisierungen stehen Ihnen ab einem Enterprise-Abo unsere Standardfunktionen Summarize, Classify, Extract und OCR sowie der Custom Prompt zur Verfügung. Damit lassen sich z. B. Kaufbelege und Rechnungen auswerten, Texte aus Bildern extrahieren, Kleidungsstücke kategorisieren oder Outfitvorschläge erzeugen.'
       - q: "Kann ich meinen digitalen Kleiderschrank mit anderen Vorlagen verbinden?"
-        a: 'Absolut, Sie können Ihre Vorlage mit weiteren passenden SeaTable-Vorlagen wie z. B. dem [Haushaltsbuch]({{< relref "templates/finance/budget-book" >}}) oder dem [Urlaubsplaner]({{< relref "templates/events/travel-planner" >}}) kombinieren oder über [Integrationen]({{< relref "pages/integrations" >}}) mit anderen genutzten Tools verknüpfen. '
+        a: 'Absolut, Sie können Ihre Vorlage mit weiteren passenden SeaTable-Vorlagen wie z. B. dem [Haushaltsbuch]({{< relref "templates/everyday-life/budget-book" >}}) oder dem [Urlaubsplaner]({{< relref "templates/events/travel-planner" >}}) kombinieren oder über [Integrationen]({{< relref "pages/integrations" >}}) mit anderen genutzten Tools verknüpfen. '
       - q: "Kann ich auch Fotos von Outfits und Kombinationen speichern?"
         a: 'Ja, Sie können Fotos, Videos und andere Dateien speichern und mit Ihren gespeicherten Kleidungsstücken und Outfits verknüpfen.'
       - q: 'Ist die KI-Nutzung bei SeaTable DSGVO-konform?'
