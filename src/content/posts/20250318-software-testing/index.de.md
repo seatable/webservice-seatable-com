@@ -90,7 +90,7 @@ Ob Sie an einer neuen App, einem großen Softwareprojekt oder kleineren Updates 
 
 ## SeaTable – die leistungsstarke Lösung im Software Testing
 
-Wenn Sie nach einer umfassenden Lösung suchen, die Softwaretesting und Bugtracking clever vereint, sollten Sie sich die [kostenlose Vorlage von SeaTable]({{< relref "templates/software-development/bug-tracker" >}}) genauer ansehen. Diese bietet Ihnen und Ihrem Team eine praktische Umgebung, um jeden System Test sauber zu dokumentieren und die daraus resultierenden Issues ganz einfach über ein Webformular zu erfassen. Kein kompliziertes Setup – SeaTable macht es möglich, alle Schritte für das Software Testing und die Qualitätssicherung an einem Ort zu bündeln und zu verwalten.
+Wenn Sie nach einer umfassenden Lösung suchen, die Softwaretesting und Bugtracking clever vereint, sollten Sie sich die [kostenlose Vorlage von SeaTable]({{< relref "templates/it-engineering/bug-tracker" >}}) genauer ansehen. Diese bietet Ihnen und Ihrem Team eine praktische Umgebung, um jeden System Test sauber zu dokumentieren und die daraus resultierenden Issues ganz einfach über ein Webformular zu erfassen. Kein kompliziertes Setup – SeaTable macht es möglich, alle Schritte für das Software Testing und die Qualitätssicherung an einem Ort zu bündeln und zu verwalten.
 
 {{< template id="51d678ca8b004e9b9b79" >}}
 

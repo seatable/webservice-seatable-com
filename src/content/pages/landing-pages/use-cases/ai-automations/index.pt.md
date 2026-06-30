@@ -104,7 +104,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_03.png
         image_alt: 'Processamento de faturas SeaTable com função de IA'
       - headline: Suporte de TI
-        text: As solicitações de suporte ou [tickets internos]({{< relref "templates/software-development/it-helpdesk" >}}) são **automaticamente analisadas, categorizadas e priorizadas** antes de serem encaminhadas aos funcionários responsáveis. A partir dos comentários técnicos dos administradores de TI, são geradas descrições sucintas e concisas para clientes e utilizadores finais. O esforço manual para classificação e documentação diminui, enquanto a qualidade e a transparência aumentam – em conformidade com a [Gestão de Serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
+        text: As solicitações de suporte ou [tickets internos]({{< relref "templates/it-engineering/it-helpdesk" >}}) são **automaticamente analisadas, categorizadas e priorizadas** antes de serem encaminhadas aos funcionários responsáveis. A partir dos comentários técnicos dos administradores de TI, são geradas descrições sucintas e concisas para clientes e utilizadores finais. O esforço manual para classificação e documentação diminui, enquanto a qualidade e a transparência aumentam – em conformidade com a [Gestão de Serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Classificar bilhetes diretamente através de funções de IA'
       - headline: Análise de documentos e contratos
