@@ -236,7 +236,7 @@ Utilisez des formats de voyage pour les produits d'hygiène afin de gagner de la
 
 ## Conclusion : partir en vacances en toute sérénité avec votre check-list
 
-Que vous ayez été un préparateur de dernière minute ou un planificateur prévoyant, vous pourrez désormais partir en vacances sans stress inutile et avec tous les éléments essentiels dans vos bagages. Le [modèle gratuit]({{< relref "templates/events/travel-planner" >}}) de SeaTable vous fera gagner un temps précieux et vous permettra de préparer efficacement et sans stress vos vacances à venir.
+Que vous ayez été un préparateur de dernière minute ou un planificateur prévoyant, vous pourrez désormais partir en vacances sans stress inutile et avec tous les éléments essentiels dans vos bagages. Le [modèle gratuit]({{< relref "templates/everyday-life/travel-planner" >}}) de SeaTable vous fera gagner un temps précieux et vous permettra de préparer efficacement et sans stress vos vacances à venir.
 
 Dans le modèle, vous trouverez non seulement une check-list de vacances adaptable de manière flexible avec toutes les choses à faire, mais aussi d'autres fonctions utiles : Rassemblez toutes les idées et les lieux que vous souhaitez visiter, créez un calendrier clair et visualisez tous les emplacements de vos activités prévues sur une carte. Vous pouvez également conserver tous les merveilleux souvenirs que vous avez eus pendant votre voyage, ajouter des photos et noter où et quand ces moments particuliers ont eu lieu.
 
@@ -244,4 +244,4 @@ Une application est également disponible pour simplifier la planification des v
 
 ![Tableau de bord du budget dans l'application Voyage de SeaTable](Travel-App.png)
 
-[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd'hui pour profiter de ces fonctions pratiques et organiser votre prochain voyage sans stress. Vous pourrez ensuite utiliser le [modèle]({{< relref "templates/events/travel-planner" >}}) dans votre espace de travail personnel SeaTable, le remplir avec vos propres données et le partager avec vos compagnons de voyage via l'application.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd'hui pour profiter de ces fonctions pratiques et organiser votre prochain voyage sans stress. Vous pourrez ensuite utiliser le [modèle]({{< relref "templates/everyday-life/travel-planner" >}}) dans votre espace de travail personnel SeaTable, le remplir avec vos propres données et le partager avec vos compagnons de voyage via l'application.

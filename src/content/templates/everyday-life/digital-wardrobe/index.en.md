@@ -163,7 +163,7 @@ sections:
       - q: "What AI features does the wardrobe app support?"
         a: With the integrated AI-supported automations, our standard functions Summarize, Classify, Extract, and OCR, as well as Custom Prompt, are available to you with an Enterprise subscription. This allows you to evaluate purchase receipts and invoices, extract text from images, categorize clothing items, or generate outfit suggestions, for example.
       - q: "Can I connect my digital wardrobe to other templates?"
-        a: Absolutely, you can combine your template with other suitable SeaTable templates such as the [household budget book]({{< relref "templates/everyday-life/budget-book" >}}) or the [vacation planner]({{< relref "templates/events/travel-planner" >}}), or link it to other tools you use via [integrations]({{< relref "pages/integrations" >}}).
+        a: Absolutely, you can combine your template with other suitable SeaTable templates such as the [household budget book]({{< relref "templates/everyday-life/budget-book" >}}) or the [vacation planner]({{< relref "templates/everyday-life/travel-planner" >}}), or link it to other tools you use via [integrations]({{< relref "pages/integrations" >}}).
       - q: "Can I also save photos of outfits and combinations?" 
         a: "Yes, you can save photos, videos, and other files and link them to your saved clothes and outfits." 
       - q: "Is the use of AI in SeaTable GDPR-compliant?"

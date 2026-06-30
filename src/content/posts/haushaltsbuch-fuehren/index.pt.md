@@ -90,7 +90,7 @@ Para além das assinaturas de entretenimento, **as inscrições em ginásios, cl
 
 ### 4\. convidar amigos para casa
 
-Noites de jogos, festas ou cozinhar algo delicioso em conjunto: **As actividades em casa** são quase sempre mais baratas do que sair. Juntamente com os amigos, pode facilmente poupar dinheiro reduzindo as idas a restaurantes, bares e discotecas e, em vez disso, [organizando festas em]({{< relref "templates/events/party-planner" >}}) casa em que cada convidado contribui com alguns petiscos ou bebidas. Pode até divertir-se mais em casa, pode escolher a música e a lista de convidados e o seu orçamento agradecer-lhe-á por isso.
+Noites de jogos, festas ou cozinhar algo delicioso em conjunto: **As actividades em casa** são quase sempre mais baratas do que sair. Juntamente com os amigos, pode facilmente poupar dinheiro reduzindo as idas a restaurantes, bares e discotecas e, em vez disso, [organizando festas em]({{< relref "templates/everyday-life/party-planner" >}}) casa em que cada convidado contribui com alguns petiscos ou bebidas. Pode até divertir-se mais em casa, pode escolher a música e a lista de convidados e o seu orçamento agradecer-lhe-á por isso.
 
 ### 5\. alugar um espaço de habitação ou de armazenamento não utilizado
 

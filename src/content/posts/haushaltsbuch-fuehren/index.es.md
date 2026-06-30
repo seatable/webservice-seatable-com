@@ -90,7 +90,7 @@ Además de las suscripciones a espectáculos, las **cuotas de gimnasios, clubes 
 
 ### 4\. invitar a amigos a casa
 
-Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en casa** son casi siempre más baratas que salir. Junto con tus amigos, puedes ahorrar dinero fácilmente reduciendo las visitas a restaurantes, bares y discotecas y [organizando en su lugar fiestas en]({{< relref "templates/events/party-planner" >}}) casa en las que cada invitado contribuya con algunos aperitivos o bebidas. Puede que incluso te diviertas más en casa, tú mismo puedes elegir la música y la lista de invitados, y tu presupuesto te lo agradecerá.
+Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en casa** son casi siempre más baratas que salir. Junto con tus amigos, puedes ahorrar dinero fácilmente reduciendo las visitas a restaurantes, bares y discotecas y [organizando en su lugar fiestas en]({{< relref "templates/everyday-life/party-planner" >}}) casa en las que cada invitado contribuya con algunos aperitivos o bebidas. Puede que incluso te diviertas más en casa, tú mismo puedes elegir la música y la lista de invitados, y tu presupuesto te lo agradecerá.
 
 ### 5\. Alquilar el espacio vital o de almacenamiento no utilizado.
 

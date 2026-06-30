@@ -55,7 +55,7 @@ Uma óptima alternativa ao clássico calendário do Advento analógico é uma ve
 
 ![Calendário do Advento da Empresa](Enterprise-Advent-Calendar.png)
 
-A equipa SeaTable criou [um modelo]({{< relref "templates/events/advent-calendar" >}}) para si que pode personalizar de acordo com as suas necessidades. Dê um toque pessoal ao calendário e aguarde com expetativa os rostos espantados dos seus empregados quando descobrirem uma nova surpresa atrás de uma das pequenas portas todos os dias.
+A equipa SeaTable criou [um modelo]({{< relref "templates/everyday-life/advent-calendar" >}}) para si que pode personalizar de acordo com as suas necessidades. Dê um toque pessoal ao calendário e aguarde com expetativa os rostos espantados dos seus empregados quando descobrirem uma nova surpresa atrás de uma das pequenas portas todos os dias.
 
 Se quiser utilizar o SeaTable para criar um calendário do Advento em linha, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente e personalizar o modelo como desejar. O modelo também contém 24 ideias para prendas de Natal para empregados e clientes.
 

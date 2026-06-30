@@ -154,4 +154,4 @@ Faltou algo? Sem problemas! Muitas coisas podem ser resolvidas até poucos dias 
 
 Organizar e planejar uma festa de aniversário – o que para muitos parece fácil, na prática pode ser um processo demorado e trabalhoso. Quem quer uma festa única e inesquecível precisa cuidar de todos os detalhes com antecedência. Com tanta coisa para fazer, é fácil esquecer alguém, pedir pouca comida e bebida ou perder o controle do orçamento.
 
-Para evitar esses contratempos e esperar pela festa com tranquilidade, nós da SeaTable desenvolvemos um [Planejador de Festas]({{< relref "templates/events/party-planner" >}}), que permite preparar sua festa de forma clara e estruturada, sempre de olho nos convidados. Experimente gratuitamente, basta [registrar-se]({{< relref "pages/registration" >}}).
+Para evitar esses contratempos e esperar pela festa com tranquilidade, nós da SeaTable desenvolvemos um [Planejador de Festas]({{< relref "templates/everyday-life/party-planner" >}}), que permite preparar sua festa de forma clara e estruturada, sempre de olho nos convidados. Experimente gratuitamente, basta [registrar-se]({{< relref "pages/registration" >}}).

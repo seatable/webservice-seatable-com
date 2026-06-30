@@ -91,7 +91,7 @@ In addition to entertainment subscriptions, **memberships to gyms, sports clubs 
 
 ### 4\. invite friends home
 
-Game nights, parties or cooking something delicious together: **Activities at home** are almost always cheaper than going out. Together with friends, you can easily save money by reducing visits to restaurants, bars and clubs and [organizing parties at]({{< relref "templates/events/party-planner" >}}) home instead, where each guest contributes a few snacks or drinks. You might even have more fun at home, you can choose the music and the guest list yourself and your budget will thank you for it.
+Game nights, parties or cooking something delicious together: **Activities at home** are almost always cheaper than going out. Together with friends, you can easily save money by reducing visits to restaurants, bars and clubs and [organizing parties at]({{< relref "templates/everyday-life/party-planner" >}}) home instead, where each guest contributes a few snacks or drinks. You might even have more fun at home, you can choose the music and the guest list yourself and your budget will thank you for it.
 
 ### 5\. rent out unused living or storage space
 

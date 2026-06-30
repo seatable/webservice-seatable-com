@@ -173,7 +173,7 @@ Now that you have mastered the basics of the Universal App, why not try out some
 
 **Tip**:
 
-If you would like to browse a little more and discover additional app functions, take a look at the [Time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) or [Travel planner]({{< relref "templates/events/travel-planner" >}}) templates. These already contain fully developed apps that you can use and customize immediately.
+If you would like to browse a little more and discover additional app functions, take a look at the [Time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) or [Travel planner]({{< relref "templates/everyday-life/travel-planner" >}}) templates. These already contain fully developed apps that you can use and customize immediately.
 
 ### Conclusion
 

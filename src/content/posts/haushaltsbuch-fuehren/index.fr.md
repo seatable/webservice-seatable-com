@@ -90,7 +90,7 @@ Outre les abonnements de divertissement, **les adhésions à des centres de fitn
 
 ### 4\. inviter des amis à la maison
 
-Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **Les activités à la maison** sont presque toujours moins chères que les sorties. Avec vos amis, vous pouvez facilement économiser de l'argent en réduisant les visites dans les restaurants, les bars et les clubs et en [organisant des soirées à la]({{< relref "templates/events/party-planner" >}}) maison, où chaque invité apporte quelques snacks ou boissons. Vous vous amuserez peut-être encore plus à la maison, vous pourrez choisir la musique et la liste des invités, et votre comptabilité budgétaire vous en remerciera.
+Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **Les activités à la maison** sont presque toujours moins chères que les sorties. Avec vos amis, vous pouvez facilement économiser de l'argent en réduisant les visites dans les restaurants, les bars et les clubs et en [organisant des soirées à la]({{< relref "templates/everyday-life/party-planner" >}}) maison, où chaque invité apporte quelques snacks ou boissons. Vous vous amuserez peut-être encore plus à la maison, vous pourrez choisir la musique et la liste des invités, et votre comptabilité budgétaire vous en remerciera.
 
 ### 5\. louer des espaces de vie ou de rangement inutilisés
 

@@ -88,7 +88,7 @@ Neben Entertainment-Abos zählen auch **Mitgliedschaften in Fitnessstudios, Spor
 
 ### 4\. Freunde nach Hause einladen
 
-Spieleabende, Partys oder gemeinsam etwas Leckeres kochen: **Aktivitäten zu Hause** sind fast immer günstiger als auszugehen. Zusammen mit Freunden können Sie leicht bares Geld sparen, indem Sie Besuche in Restaurants, Bars und Clubs reduzieren und stattdessen [Partys in den eigenen vier Wänden organisieren]({{< relref "templates/events/party-planner" >}}), zu denen jeder Gast ein paar Snacks oder Getränke beisteuert. Zu Hause haben Sie vielleicht sogar mehr Spaß, können die Musik und die Gästeliste selbst bestimmen und Ihr Haushaltsbuch wird es Ihnen danken.
+Spieleabende, Partys oder gemeinsam etwas Leckeres kochen: **Aktivitäten zu Hause** sind fast immer günstiger als auszugehen. Zusammen mit Freunden können Sie leicht bares Geld sparen, indem Sie Besuche in Restaurants, Bars und Clubs reduzieren und stattdessen [Partys in den eigenen vier Wänden organisieren]({{< relref "templates/everyday-life/party-planner" >}}), zu denen jeder Gast ein paar Snacks oder Getränke beisteuert. Zu Hause haben Sie vielleicht sogar mehr Spaß, können die Musik und die Gästeliste selbst bestimmen und Ihr Haushaltsbuch wird es Ihnen danken.
 
 ### 5\. Ungenutzten Wohn- oder Stauraum vermieten
 
