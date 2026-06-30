@@ -115,7 +115,7 @@ However, JabRef also has weaknesses. The reference management does not work opti
 
 SeaTable offers you a **tabular** alternative to the literature management programs already presented. The user interface is **intuitive** to use and offers you many useful features for structuring your literature quickly and easily.
 
-The [template]({{< relref "templates/projects/bibliography" >}}) gives you an overview of how you can use the program and adapt it to your needs. SeaTable is a database where you can enter your data in tables, link it to tasks and enrich it with documents. **Team collaboration** is possible **in real time**.
+The [template]({{< relref "templates/everyday-life/bibliography" >}}) gives you an overview of how you can use the program and adapt it to your needs. SeaTable is a database where you can enter your data in tables, link it to tasks and enrich it with documents. **Team collaboration** is possible **in real time**.
 
 SeaTable is available as a **free cloud version** or as a program for your own server. If you would like to receive additional features and work with more users, you have the option of upgrading. The Plus version costs 7 euros per user per month and the Enterprise version costs 14 euros per user per month.
 
@@ -204,6 +204,6 @@ You often look at more sources than you ultimately use for your work. Once a pro
 
 Which reference management program is right for you should depend on which functions you want to use and how much money you are prepared to invest in the program. It is also advisable to test the programs free of charge.
 
-SeaTable offers you a [template]({{< relref "templates/projects/bibliography" >}}) in which you can find examples of literature and follow the process from entering the sources to outputting the bibliography. You can adapt the template to your requirements, insert your own sources and structure and visualize them with many useful tools.
+SeaTable offers you a [template]({{< relref "templates/everyday-life/bibliography" >}}) in which you can find examples of literature and follow the process from entering the sources to outputting the bibliography. You can adapt the template to your requirements, insert your own sources and structure and visualize them with many useful tools.
 
 If you would like to use SeaTable as a reference management program, simply [register]({{< relref "pages/registration" >}}) free of charge.
