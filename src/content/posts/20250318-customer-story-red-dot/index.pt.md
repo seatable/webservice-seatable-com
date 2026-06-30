@@ -35,7 +35,7 @@ A facilidade de utilização, o elevado nível de proteção de dados e a possib
 
 ![Tablet com SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
-Atualmente, o SeaTable é utilizado como uma ferramenta de gestão versátil. O principal caso de utilização continua a ser a [organização de eventos]({{< relref "templates/events/event-management" >}}). As listas de convidados e os planos de atribuição de salas, o planeamento do pessoal em eventos e até o programa da gala planeado ao segundo são mapeados no SeaTable. A capacidade de carregar ficheiros áudio diretamente para uma base revelou-se particularmente útil neste caso. Isto permite que o diretor tenha acesso a gravações áudio em qualquer altura, por exemplo, da pronúncia dos nomes dos vencedores dos prémios.
+Atualmente, o SeaTable é utilizado como uma ferramenta de gestão versátil. O principal caso de utilização continua a ser a [organização de eventos]({{< relref "templates/marketing/event-management" >}}). As listas de convidados e os planos de atribuição de salas, o planeamento do pessoal em eventos e até o programa da gala planeado ao segundo são mapeados no SeaTable. A capacidade de carregar ficheiros áudio diretamente para uma base revelou-se particularmente útil neste caso. Isto permite que o diretor tenha acesso a gravações áudio em qualquer altura, por exemplo, da pronúncia dos nomes dos vencedores dos prémios.
 
 Graças à API, a gestão de encomendas e o envio dos anuários do Red Dot Design são agora também organizados através do SeaTable. Por fim, o SeaTable também é utilizado como CRM e [ferramenta de gestão de projectos]({{< relref "pages/landing-pages/industry-solutions/project-management/" >}}).
 

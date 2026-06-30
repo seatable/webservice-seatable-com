@@ -165,7 +165,7 @@ sections:
       - headline: Alternative aux listes de présence statiques 
         text: Organisez vos présences avec SeaTable, une excellente [alternative à Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) nettement plus efficace – grâce à des tableaux interconnectés, des vues personnalisées, des formulaires Web et des automatisations destinés aux établissements d'enseignement, aux équipes RH et aux organisateurs d'événements.
       - headline: Allier formation, RH et événements
-        text: Associez votre modèle de liste de présence au [modèle de planification d'événement]({{< relref "templates/events/event-management" >}}) oder weiteren [HR-Prozessen]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) et utilisez SeaTable comme alternative centrale à Excel. Vous pourrez ainsi regrouper les dates, les participants, les commentaires et les justificatifs dans un seul et même système.
+        text: Associez votre modèle de liste de présence au [modèle de planification d'événement]({{< relref "templates/marketing/event-management" >}}) oder weiteren [HR-Prozessen]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) et utilisez SeaTable comme alternative centrale à Excel. Vous pourrez ainsi regrouper les dates, les participants, les commentaires et les justificatifs dans un seul et même système.
       - headline: Conforme au RGPD
         text: "Si vous utilisez SeaTable Cloud ou l'IA intégrée, toutes les données relatives aux participants restent en Europe : l'infrastructure est hébergée exclusivement sur des serveurs situés en Allemagne."
       - headline: 2FA et SSO 
