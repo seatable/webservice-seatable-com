@@ -81,7 +81,7 @@ A gestão de colecções assegura o registo, a catalogação, a indexação e a 
 
 A força do SeaTable reside no facto de ser o próprio utilizador a determinar a informação que pretende registar, podendo expandi-la como desejar. Ao mesmo tempo, pode criar quaisquer ligações entre as diferentes informações e, com a ajuda de colunas de roll-up, também pode assumir informações de outra tabela.
 
-O nosso modelo [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) tem alguns exemplos de entradas para lhe mostrar as possibilidades. Os objectos de arte individuais estão no centro da gestão da coleção e estão ligados aos artistas. Ao mesmo tempo, a localização da obra de arte é registada e existem ligações para restauros e empréstimos planeados. A qualquer momento, pode ser acrescentada uma extensão para incluir referências públicas, períodos criativos ou categorias de arte.
+O nosso modelo [Art Gallery Management]({{< relref "templates/public-sector/art-gallery-management" >}}) tem alguns exemplos de entradas para lhe mostrar as possibilidades. Os objectos de arte individuais estão no centro da gestão da coleção e estão ligados aos artistas. Ao mesmo tempo, a localização da obra de arte é registada e existem ligações para restauros e empréstimos planeados. A qualquer momento, pode ser acrescentada uma extensão para incluir referências públicas, períodos criativos ou categorias de arte.
 
 ![Vista geral dos objectos do modelo da Galeria de Arte](art-gallery-management-objects.png)
 
