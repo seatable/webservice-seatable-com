@@ -29,6 +29,8 @@ In SeaTable können Sie für Ihre Tabellen verschiedene Ansichten erstellen und 
 
 Die neu erstellte **Ansicht** öffnet sich im Anschluss automatisch und Sie können in dieser beispielsweise nach beliebigen Werten **filtern**, **sortieren** oder **gruppieren**.
 
+{{< youtube HXn2sDwRau0 >}}
+
 {{< warning  headline="Tipp" >}}
 
 Ausführliche Informationen zu den drei Werkzeugen **Gruppierung**, **Sortierung** und **Filter** finden Sie [hier]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).

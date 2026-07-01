@@ -31,6 +31,8 @@ In SeaTable, you can create different views for your tables and thus view the sa
 
 The newly created **view** then opens automatically and you can **filter**, **sort** or **group** it according to any values, for example.
 
+{{< youtube fGmBMJKu9NY >}}
+
 {{< warning  headline="Note" >}}
 
 Detailed information about the three tools **grouping**, **sorting** and **filtering** can be found [here]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
