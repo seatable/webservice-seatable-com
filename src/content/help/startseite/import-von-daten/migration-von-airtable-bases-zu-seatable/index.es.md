@@ -28,7 +28,7 @@ Para la primera opción de importar bases de Airtable a SeaTable, no necesita ni
 5. Defina el **nombre de la base** que la nueva base recibirá en SeaTable.
 6. Confirme con **Importar**.
 
-**Vea nuestro vídeo explicativo con subtítulos en francés.**
+**Vea nuestro vídeo explicativo con subtítulos en espanhol.**
 
 {{< youtube 32Vq2R0fzQs >}}
 
