@@ -173,7 +173,7 @@ Maintenant que vous maîtrisez les bases de l'application universelle, essayez v
 
 **Tip** :
 
-Si vous souhaitez fouiller encore un peu et découvrir d'autres fonctions des apps, jetez donc un coup d'œil aux modèles [Saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) ou [Planificateur de voyage]({{< relref "templates/events/travel-planner" >}}). Ceux-ci contiennent des apps déjà entièrement élaborées que vous pouvez utiliser et adapter immédiatement.
+Si vous souhaitez fouiller encore un peu et découvrir d'autres fonctions des apps, jetez donc un coup d'œil aux modèles [Saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) ou [Planificateur de voyage]({{< relref "templates/everyday-life/travel-planner" >}}). Ceux-ci contiennent des apps déjà entièrement élaborées que vous pouvez utiliser et adapter immédiatement.
 
 ### Conclusion
 

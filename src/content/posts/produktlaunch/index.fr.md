@@ -17,7 +17,7 @@ seo:
 
 Une fois le processus de développement du produit terminé avec succès, plus rien ne s'oppose au lancement du produit.
 
-Alors que le processus de développement est déjà très bien structuré dans la plupart des entreprises, le processus de lancement du produit ne bénéficie généralement pas d'une attention suffisante. Avez-vous vraiment franchi toutes les étapes nécessaires et n'avez-vous rien oublié ? Avec notre [modèle]({{< relref "templates/software-development/product-launch" >}}) et ces [5 conseils](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), plus rien ne s'oppose à un lancement de produit réussi !
+Alors que le processus de développement est déjà très bien structuré dans la plupart des entreprises, le processus de lancement du produit ne bénéficie généralement pas d'une attention suffisante. Avez-vous vraiment franchi toutes les étapes nécessaires et n'avez-vous rien oublié ? Avec notre [modèle]({{< relref "templates/it-engineering/product-launch" >}}) et ces [5 conseils](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), plus rien ne s'oppose à un lancement de produit réussi !
 
 ## Structure de notre modèle de lancement de produit
 
@@ -37,4 +37,4 @@ Le tableau Newsletter sert spécialement au canal du marketing par e-mail. Les n
 
 ## Avec SeaTable, le lancement d'un produit est garanti
 
-Notre [modèle de lancement de produit]({{< relref "templates/software-development/product-launch" >}}) vous permet de toujours garder une vue d'ensemble de vos tâches à accomplir avant le lancement final du produit. Comme tous les tableaux de SeaTable, celui-ci est personnalisable. Adaptez le modèle à votre flux de travail et partagez le tableau avec vos collaborateurs. Ainsi, tout le monde peut accéder au tableau à tout moment et en tout lieu pour consulter et inscrire des modifications importantes.
+Notre [modèle de lancement de produit]({{< relref "templates/it-engineering/product-launch" >}}) vous permet de toujours garder une vue d'ensemble de vos tâches à accomplir avant le lancement final du produit. Comme tous les tableaux de SeaTable, celui-ci est personnalisable. Adaptez le modèle à votre flux de travail et partagez le tableau avec vos collaborateurs. Ainsi, tout le monde peut accéder au tableau à tout moment et en tout lieu pour consulter et inscrire des modifications importantes.

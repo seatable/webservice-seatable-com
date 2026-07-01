@@ -54,7 +54,7 @@ Assim, tudo aponta para a criação de um livro de orçamento e para o controlo 
 
 A base de dados sem código SeaTable oferece-lhe uma excelente oportunidade para criar o seu livro orçamental - com uma interface de utilizador intuitiva e muitas funções que vão além de uma **folha de cálculo** clássica como o Excel. Não só pode aceder facilmente aos seus dados na nuvem a partir de qualquer dispositivo final, como também pode utilizar **estatísticas**, **fórmulas**, **agrupamentos** e **filtros** para analisar os seus dados.
 
-Pode introduzir facilmente todas as suas despesas no seu livro de orçamento digital. Utilizando o exemplo de uma família de quatro pessoas, criámos um [modelo gratuito]({{< relref "templates/finance/budget-book" >}}) que contém todos os pontos importantes:
+Pode introduzir facilmente todas as suas despesas no seu livro de orçamento digital. Utilizando o exemplo de uma família de quatro pessoas, criámos um [modelo gratuito]({{< relref "templates/everyday-life/budget-book" >}}) que contém todos os pontos importantes:
 
 - Categoria, frequência e tipo de saída
 - Montante da emissão e carregamento da fatura
@@ -62,7 +62,7 @@ Pode introduzir facilmente todas as suas despesas no seu livro de orçamento dig
 
 Quer se trate de compras, renda e serviços públicos, seguro automóvel ou explicações para o seu filho - com o SeaTable pode controlar todas as suas despesas. Com a ajuda de [colunas de seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), pode **categorizar**, **filtrar** e **agrupar** as suas despesas individualmente. Para uma ordem cronológica no seu livro de orçamento, basta **ordenar** as suas despesas por [data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). Pode listar o seu **rendimento** mensal e calcular o seu excedente **orçamental** em dois quadros adicionais.
 
-Se pretender utilizar o modelo para o seu livro de orçamento, [basta registar-se gratuitamente]({{< relref "pages/registration" >}}) no SeaTable. Pode então importar o [modelo]({{< relref "templates/finance/budget-book" >}}) para o seu espaço de trabalho e personalizá-lo de acordo com as suas necessidades.
+Se pretender utilizar o modelo para o seu livro de orçamento, [basta registar-se gratuitamente]({{< relref "pages/registration" >}}) no SeaTable. Pode então importar o [modelo]({{< relref "templates/everyday-life/budget-book" >}}) para o seu espaço de trabalho e personalizá-lo de acordo com as suas necessidades.
 
 ## 12 dicas para o ajudar a poupar dinheiro
 
@@ -90,7 +90,7 @@ Para além das assinaturas de entretenimento, **as inscrições em ginásios, cl
 
 ### 4\. convidar amigos para casa
 
-Noites de jogos, festas ou cozinhar algo delicioso em conjunto: **As actividades em casa** são quase sempre mais baratas do que sair. Juntamente com os amigos, pode facilmente poupar dinheiro reduzindo as idas a restaurantes, bares e discotecas e, em vez disso, [organizando festas em]({{< relref "templates/events/party-planner" >}}) casa em que cada convidado contribui com alguns petiscos ou bebidas. Pode até divertir-se mais em casa, pode escolher a música e a lista de convidados e o seu orçamento agradecer-lhe-á por isso.
+Noites de jogos, festas ou cozinhar algo delicioso em conjunto: **As actividades em casa** são quase sempre mais baratas do que sair. Juntamente com os amigos, pode facilmente poupar dinheiro reduzindo as idas a restaurantes, bares e discotecas e, em vez disso, [organizando festas em]({{< relref "templates/everyday-life/party-planner" >}}) casa em que cada convidado contribui com alguns petiscos ou bebidas. Pode até divertir-se mais em casa, pode escolher a música e a lista de convidados e o seu orçamento agradecer-lhe-á por isso.
 
 ### 5\. alugar um espaço de habitação ou de armazenamento não utilizado
 

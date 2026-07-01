@@ -53,7 +53,7 @@ Eine schöne Alternative zum klassischen analogen Adventskalender ist eine digit
 
 ![Enterprise Advent Calendar](Enterprise-Advent-Calendar.png)
 
-Das Team von SeaTable hat für Sie [eine Vorlage]({{< relref "templates/events/advent-calendar" >}}) erstellt, welche Sie nach Ihren Bedürfnissen anpassen können. Geben Sie dem Kalender eine persönliche Note und freuen Sie sich auf die erstaunten Gesichter Ihrer Mitarbeiter, wenn diese täglich eine neue Überraschung hinter einem der Türchen entdecken.
+Das Team von SeaTable hat für Sie [eine Vorlage]({{< relref "templates/everyday-life/advent-calendar" >}}) erstellt, welche Sie nach Ihren Bedürfnissen anpassen können. Geben Sie dem Kalender eine persönliche Note und freuen Sie sich auf die erstaunten Gesichter Ihrer Mitarbeiter, wenn diese täglich eine neue Überraschung hinter einem der Türchen entdecken.
 
 Wenn Sie SeaTable für die Erstellung eines Online-Adventskalenders nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos und passen Sie die Vorlage nach Belieben an. In der Vorlage finden Sie zudem 24 Ideen, welche Weihnachtsgeschenke für Mitarbeiter und Kunden in Frage kommen.
 

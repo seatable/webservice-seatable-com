@@ -51,7 +51,7 @@ Auf Level 2 und 3 haben Sie die Möglichkeit, Einträge innerhalb ihrer Gruppe *
 
 ## Anwendungsbeispiel für das Baum-Plugin
 
-Ein gutes Beispiel für die Anwendung des Baum-Plugins ist ein [Bugtracker]({{< relref "templates/software-development/bug-tracker" >}}). Dort können Sie in drei verschiedenen Tabellen die Versionen einer Software, die durchgeführten Tests und die dabei gefundenen Softwarefehler erfassen. Mithilfe eines Baumdiagramms können Sie nun all diese Daten in einer Übersicht visualisieren.
+Ein gutes Beispiel für die Anwendung des Baum-Plugins ist ein [Bugtracker]({{< relref "templates/it-engineering/bug-tracker" >}}). Dort können Sie in drei verschiedenen Tabellen die Versionen einer Software, die durchgeführten Tests und die dabei gefundenen Softwarefehler erfassen. Mithilfe eines Baumdiagramms können Sie nun all diese Daten in einer Übersicht visualisieren.
 
 Sobald Sie in den Einstellungen die verknüpften Tabellen ausgewählt haben, können Sie die gruppierten Einträge im Baumdiagramm ansehen und öffnen. Zunächst werden Ihnen allerdings nur die Einträge auf der ersten Ebene (hier: Software-Versionen) angezeigt. Um die darunterliegenden Datensätze auszuklappen, klicken Sie auf den **Drop-down-Pfeil** links vor dem Eintrag.
 

@@ -163,7 +163,7 @@ sections:
       - q: "Quelles sont les fonctionnalités d'intelligence artificielle prises en charge par l'application de garde-robe ?"
         a: With the integrated AI-supported automations, our standard functions Summarize, Classify, Extract, and OCR, as well as Custom Prompt, are available to you with an Enterprise subscription. This allows you to evaluate purchase receipts and invoices, extract text from images, categorize clothing items, or generate outfit suggestions, for example.
       - q: "Can I connect my digital wardrobe to other templates?"
-        a: Tout à fait, vous pouvez associer votre modèle à d'autres modèles SeaTable adaptés, tels que le [livre de comptes ménagers]({{< relref "templates/finance/budget-book" >}}) ou le [planificateur de vacances]({{< relref "templates/events/travel-planner" >}}), ou le relier à d'autres outils que vous utilisez via [des intégrations]({{< relref "pages/integrations" >}}).
+        a: Tout à fait, vous pouvez associer votre modèle à d'autres modèles SeaTable adaptés, tels que le [livre de comptes ménagers]({{< relref "templates/everyday-life/budget-book" >}}) ou le [planificateur de vacances]({{< relref "templates/everyday-life/travel-planner" >}}), ou le relier à d'autres outils que vous utilisez via [des intégrations]({{< relref "pages/integrations" >}}).
       - q: Puis-je également enregistrer des photos de tenues et d'associations ? 
         a: Oui, vous pouvez enregistrer des photos, des vidéos et d'autres fichiers, puis les associer aux vêtements et tenues que vous avez enregistrés. 
       - q: L'utilisation de l'IA dans SeaTable est-elle conforme au RGPD ?

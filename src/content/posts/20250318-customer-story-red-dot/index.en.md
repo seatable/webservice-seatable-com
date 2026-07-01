@@ -36,7 +36,7 @@ The user-friendliness, the high level of data protection and the unproblematic p
 
 ![Tablet with SeaTable table](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
-Today SeaTable is used as a versatile management tool. The main use case is still [event organization]({{< relref "templates/events/event-management" >}}). Guest lists and room allocation plans, personnel planning at events and even the gala schedule planned to the second are mapped in SeaTable. The ability to load audio files directly into a base has proven to be particularly useful here. This gives the director access to audio recordings at any time, for example of the pronunciation of the award winners' names.
+Today SeaTable is used as a versatile management tool. The main use case is still [event organization]({{< relref "templates/marketing/event-management" >}}). Guest lists and room allocation plans, personnel planning at events and even the gala schedule planned to the second are mapped in SeaTable. The ability to load audio files directly into a base has proven to be particularly useful here. This gives the director access to audio recordings at any time, for example of the pronunciation of the award winners' names.
 
 Thanks to the API, order management and the dispatch of the Red Dot Design yearbooks are now also organized via SeaTable. Finally, SeaTable is also used as a CRM and [project management tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
 

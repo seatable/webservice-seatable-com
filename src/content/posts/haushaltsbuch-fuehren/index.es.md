@@ -54,7 +54,7 @@ Así que todo habla a favor de crear un libro de presupuesto y controlar tus gas
 
 La base de datos sin código SeaTable le ofrece una excelente oportunidad para crear su libro de presupuestos, con una interfaz de usuario intuitiva y muchas funciones que van más allá de una **hoja de cálculo** clásica como Excel. No solo puedes acceder fácilmente a tus datos en la nube desde cualquier dispositivo final, sino que también puedes utilizar **estadísticas**, **fórmulas**, **agrupaciones** y **filtros** para analizar tus datos.
 
-Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digital. Utilizando el ejemplo de una familia de cuatro miembros, hemos creado una [plantilla gratuita]({{< relref "templates/finance/budget-book" >}}) que contiene todos los puntos importantes:
+Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digital. Utilizando el ejemplo de una familia de cuatro miembros, hemos creado una [plantilla gratuita]({{< relref "templates/everyday-life/budget-book" >}}) que contiene todos los puntos importantes:
 
 - Categoría, frecuencia y tipo de salida
 - Importe de la emisión y carga de la factura
@@ -62,7 +62,7 @@ Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digita
 
 Ya se trate de la compra, el alquiler y los servicios públicos, el seguro del coche o las clases particulares de su hijo, con SeaTable podrá llevar un registro de todos sus gastos. Con la ayuda de [columnas de selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), puede **clasificar**, **filtrar** y **agrupar** sus gastos individualmente. Para un orden cronológico en su libro de presupuesto, simplemente **ordene** sus gastos por [fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). En dos tablas adicionales puede enumerar sus **ingresos** mensuales y calcular su **presupuesto de** excedentes.
 
-Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) en SeaTable. A continuación, podrá importar la [plantilla]({{< relref "templates/finance/budget-book" >}}) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
+Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) en SeaTable. A continuación, podrá importar la [plantilla]({{< relref "templates/everyday-life/budget-book" >}}) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
 
 ## 12 consejos para ahorrar
 
@@ -90,7 +90,7 @@ Además de las suscripciones a espectáculos, las **cuotas de gimnasios, clubes 
 
 ### 4\. invitar a amigos a casa
 
-Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en casa** son casi siempre más baratas que salir. Junto con tus amigos, puedes ahorrar dinero fácilmente reduciendo las visitas a restaurantes, bares y discotecas y [organizando en su lugar fiestas en]({{< relref "templates/events/party-planner" >}}) casa en las que cada invitado contribuya con algunos aperitivos o bebidas. Puede que incluso te diviertas más en casa, tú mismo puedes elegir la música y la lista de invitados, y tu presupuesto te lo agradecerá.
+Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en casa** son casi siempre más baratas que salir. Junto con tus amigos, puedes ahorrar dinero fácilmente reduciendo las visitas a restaurantes, bares y discotecas y [organizando en su lugar fiestas en]({{< relref "templates/everyday-life/party-planner" >}}) casa en las que cada invitado contribuya con algunos aperitivos o bebidas. Puede que incluso te diviertas más en casa, tú mismo puedes elegir la música y la lista de invitados, y tu presupuesto te lo agradecerá.
 
 ### 5\. Alquilar el espacio vital o de almacenamiento no utilizado.
 

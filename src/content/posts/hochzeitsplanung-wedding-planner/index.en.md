@@ -21,7 +21,7 @@ One of the most beautiful and important days in life is just around the corner: 
 
 ## Checklist wedding planning with over 200 to-dos
 
-Usually the planning of a wedding starts about 13 months before the big day. If you want to have a popular wedding location, sometimes even earlier. It is important not to lose track of the sheer number of tasks. That's why at the centre of our Wedding [Planner]({{< relref "templates/events/wedding-planner" >}}) template is the _checklist_ with already over 200 predefined tasks. In addition, this table records when the corresponding to-do must be completed. There is always a superordinate to-do, which contains several individual sub-items to guide you through the whole process. The _Check_ column is a [checkbox column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) that is used to tick off completed to-dos.
+Usually the planning of a wedding starts about 13 months before the big day. If you want to have a popular wedding location, sometimes even earlier. It is important not to lose track of the sheer number of tasks. That's why at the centre of our Wedding [Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) template is the _checklist_ with already over 200 predefined tasks. In addition, this table records when the corresponding to-do must be completed. There is always a superordinate to-do, which contains several individual sub-items to guide you through the whole process. The _Check_ column is a [checkbox column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) that is used to tick off completed to-dos.
 
 ![Wedding Planning Checklist](wedding-more-than-200-todos.png)
 
@@ -33,7 +33,7 @@ To start planning your own wedding, you need to [register for a SeaTable Free Ac
 
 You can insert additional or further to-dos at any point in the template. When you assign a new _Parent To-do_, a new group of tasks is automatically created. The sorting of the task groups is done automatically based on the lead time to your wedding. Want to give the tasks a specific date? Simply add a new [date column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#datum) and assign a date to each to-do.
 
-[Click here to go directly to the template for your wedding planning]({{< relref "templates/events/wedding-planner" >}})
+[Click here to go directly to the template for your wedding planning]({{< relref "templates/everyday-life/wedding-planner" >}})
 
 ## SeaTable helps you make important decisions
 

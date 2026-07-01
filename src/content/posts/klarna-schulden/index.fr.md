@@ -98,9 +98,9 @@ Klarna elle-même vous offre en outre la possibilité de définir des budgets af
 
 ## Livre de comptes de SeaTable
 
-Un **livre de comptes** bien structuré est extrêmement utile pour enregistrer et analyser vos dépenses en détail. SeaTable propose un [modèle]({{< relref "templates/finance/budget-book" >}}) gratuit qui vous permet de garder le contrôle de vos affaires financières sans perdre le **fil**.
+Un **livre de comptes** bien structuré est extrêmement utile pour enregistrer et analyser vos dépenses en détail. SeaTable propose un [modèle]({{< relref "templates/everyday-life/budget-book" >}}) gratuit qui vous permet de garder le contrôle de vos affaires financières sans perdre le **fil**.
 
-Avec le [planificateur de budget]({{< relref "templates/finance/budget-book" >}}) de SeaTable, vous pouvez facilement saisir toutes vos dépenses et recettes et calculer votre budget. Faites la distinction entre les **dépenses ponctuelles** et les **dépenses régulières** afin d'avoir une vue d'ensemble claire. Qu'il s'agisse de services de streaming prélevés mensuellement ou d'activités de loisirs spontanées, vous pouvez tout inscrire dans votre planificateur de budget. De cette manière, vous pouvez **analyser** vos **habitudes de consommation** et **identifier** votre **potentiel d'économies**.
+Avec le [planificateur de budget]({{< relref "templates/everyday-life/budget-book" >}}) de SeaTable, vous pouvez facilement saisir toutes vos dépenses et recettes et calculer votre budget. Faites la distinction entre les **dépenses ponctuelles** et les **dépenses régulières** afin d'avoir une vue d'ensemble claire. Qu'il s'agisse de services de streaming prélevés mensuellement ou d'activités de loisirs spontanées, vous pouvez tout inscrire dans votre planificateur de budget. De cette manière, vous pouvez **analyser** vos **habitudes de consommation** et **identifier** votre **potentiel d'économies**.
 
 Grâce au **calendrier** pratique, vous pouvez également garder un œil sur la date d'échéance de certaines dépenses afin de ne pas manquer une échéance de paiement et de ne pas être surpris par des prélèvements imprévus.
 

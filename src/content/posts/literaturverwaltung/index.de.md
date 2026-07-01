@@ -112,7 +112,7 @@ Darüber hinaus weist JabRef jedoch Schwachstellen auf. Die Literaturverwaltung 
 
 SeaTable bietet Ihnen eine **tabellarisch** aufgebaute Alternative zu den bereits vorgestellten Literaturverwaltungsprogrammen. Die Nutzeroberfläche ist **intuitiv** bedienbar und bietet Ihnen viele nützliche Features, um Ihre Literatur schnell und einfach zu strukturieren.
 
-Die [Vorlage]({{< relref "templates/projects/bibliography" >}}) gibt Ihnen einen Überblick, wie Sie das Programm nutzen und an Ihre Bedürfnisse anpassen können. SeaTable ist eine Datenbank, wobei Sie Ihre Daten in Tabellen eintragen, mit Aufgaben verknüpfen und mit Dokumenten anreichern können. Die **Zusammenarbeit im Team** ist **in Echtzeit** möglich.
+Die [Vorlage]({{< relref "templates/everyday-life/bibliography" >}}) gibt Ihnen einen Überblick, wie Sie das Programm nutzen und an Ihre Bedürfnisse anpassen können. SeaTable ist eine Datenbank, wobei Sie Ihre Daten in Tabellen eintragen, mit Aufgaben verknüpfen und mit Dokumenten anreichern können. Die **Zusammenarbeit im Team** ist **in Echtzeit** möglich.
 
 SeaTable ist als **kostenfreie Cloud-Version** oder als Programm für Ihren eigenen Server erhältlich. Möchten Sie noch weitere Features erhalten und mit mehr Nutzern zusammenarbeiten, gibt es die Möglichkeit, Upgrades vorzunehmen. Die Plus-Variante kostet 7 Euro pro User und Monat und die Enterprise-Variante liegt bei 14 Euro pro User und Monat.
 
@@ -201,6 +201,6 @@ Oft sichtet man mehr Quellen, als man letztendlich für seine Arbeit verwendet. 
 
 Welches Literaturverwaltungsprogramm für Sie das richtige ist, sollten Sie davon abhängig machen, welche Funktionen Sie nutzen möchten und wie viel Geld Sie bereit sind, in das Programm zu investieren. Es empfiehlt sich zudem, die Programme kostenfrei zu testen.
 
-SeaTable bietet Ihnen dafür eine [Vorlage]({{< relref "templates/projects/bibliography" >}}), in welcher Sie beispielhafte Literatur finden und den Prozess vom Einpflegen der Quellen bis hin zur Ausgabe des Literaturverzeichnisses nachvollziehen können. Die Vorlage können Sie nach Belieben an Ihre Anforderungen anpassen, eigene Quellen einfügen und sie mit vielen nützlichen Tools strukturieren und visualisieren.
+SeaTable bietet Ihnen dafür eine [Vorlage]({{< relref "templates/everyday-life/bibliography" >}}), in welcher Sie beispielhafte Literatur finden und den Prozess vom Einpflegen der Quellen bis hin zur Ausgabe des Literaturverzeichnisses nachvollziehen können. Die Vorlage können Sie nach Belieben an Ihre Anforderungen anpassen, eigene Quellen einfügen und sie mit vielen nützlichen Tools strukturieren und visualisieren.
 
 Wenn Sie SeaTable als Literaturverwaltungsprogramm nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos.

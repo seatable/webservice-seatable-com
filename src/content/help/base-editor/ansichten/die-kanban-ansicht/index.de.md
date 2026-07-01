@@ -14,7 +14,7 @@ seo:
 weight: 14
 ---
 
-Eine **Kanban-Ansicht** ist prädestiniert, um dynamische Prozesse mit verschiedenen Phasen darzustellen. In dieser Hinsicht ermöglicht sie Ihnen beispielsweise die Visualisierung von **Workflows** und **Projektfortschritten**. Besonders hilfreich ist sie bei der [Projektplanung]({{< relref "templates/projects/project-plan" >}}), [Softwareentwicklung]({{< relref "templates/software-development/bug-tracker" >}}) oder Aufgabenverteilung im Team.
+Eine **Kanban-Ansicht** ist prädestiniert, um dynamische Prozesse mit verschiedenen Phasen darzustellen. In dieser Hinsicht ermöglicht sie Ihnen beispielsweise die Visualisierung von **Workflows** und **Projektfortschritten**. Besonders hilfreich ist sie bei der [Projektplanung]({{< relref "templates/projects/project-plan" >}}), [Softwareentwicklung]({{< relref "templates/it-engineering/bug-tracker" >}}) oder Aufgabenverteilung im Team.
 
 {{< warning  type="warning" headline="Voraussetzungen" >}}
 

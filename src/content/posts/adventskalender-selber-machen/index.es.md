@@ -55,7 +55,7 @@ Si no estás seguro de lo que le gusta a la persona a la que vas a hacer el rega
 
 ¿Menos de 10 euros, ningún gasto o todo el dinero que necesite? Determine su presupuesto antes de empezar a planificar el contenido y el envase.
 
-El importe del calendario de Adviento dependerá de la persona que lo reciba. Por ejemplo, puede presupuestar más dinero para familiares y amigos que para parientes lejanos o compañeros de trabajo. Si se regalan calendarios de Adviento en grupo, suele fijarse una cantidad máxima. Una opción gratuita es un calendario de Adviento digital. [Aquí]({{< relref "templates/events/advent-calendar" >}}) encontrarás una plantilla muy útil.
+El importe del calendario de Adviento dependerá de la persona que lo reciba. Por ejemplo, puede presupuestar más dinero para familiares y amigos que para parientes lejanos o compañeros de trabajo. Si se regalan calendarios de Adviento en grupo, suele fijarse una cantidad máxima. Una opción gratuita es un calendario de Adviento digital. [Aquí]({{< relref "templates/everyday-life/advent-calendar" >}}) encontrarás una plantilla muy útil.
 
 En cuanto haya determinado un valor aproximado, puede empezar con la planificación.
 
@@ -167,7 +167,7 @@ Hay mucho que comprar y poco tiempo. Para asegurarte de que consigues todo lo qu
 
 ### Planifique en línea con qué llenar sus calendarios de Adviento
 
-Puede convertirse rápidamente en un caos, sobre todo si usted mismo está haciendo varios calendarios de Adviento. [El planificador online]({{< relref "templates/events/advent-calendar" >}}) personalizable [de SeaTable]({{< relref "templates/events/advent-calendar" >}}) te ayudará con los preparativos. Introduzca lo que necesita para sus calendarios de Adviento y vea de un vistazo qué cantidades tiene que comprar y qué regalos tiene que esconder detrás de qué puertas.
+Puede convertirse rápidamente en un caos, sobre todo si usted mismo está haciendo varios calendarios de Adviento. [El planificador online]({{< relref "templates/everyday-life/advent-calendar" >}}) personalizable [de SeaTable]({{< relref "templates/everyday-life/advent-calendar" >}}) te ayudará con los preparativos. Introduzca lo que necesita para sus calendarios de Adviento y vea de un vistazo qué cantidades tiene que comprar y qué regalos tiene que esconder detrás de qué puertas.
 
 Aunque llene una docena de calendarios de Adviento privados, nunca perderá la visión de conjunto gracias a las distintas vistas, organizadas por persona (cuadros 2 y 3).
 
@@ -179,4 +179,4 @@ Puedes utilizar SeaTable para crear tu calendario de Adviento virtual. Diseña u
 
 ![Calendario de Adviento privado](Private-Advent-Calendar.png)
 
-Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí]({{< relref "templates/events/advent-calendar" >}}).
+Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí]({{< relref "templates/everyday-life/advent-calendar" >}}).

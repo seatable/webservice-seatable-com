@@ -200,8 +200,8 @@ En el [catálogo de multas](https://www.bussgeldkatalog.org/festival/) puede con
 
 ## El planificador de festivales de SeaTable
 
-Con el [planificador de festivales]({{< relref "templates/events/festival-planner" >}}) gratuito de SeaTable, puedes organizar todos los actos en directo claramente por día y hora para no perderte a ninguno de tus artistas favoritos. Tanto si buscas cabezas de cartel como nuevas promesas, la vista general intuitiva te permite seguir todo el **programa** del festival. Descubre de un vistazo qué actuaciones quieren ver tus amigos y uníos para vivir juntos las mejores actuaciones.
+Con el [planificador de festivales]({{< relref "templates/everyday-life/festival-planner" >}}) gratuito de SeaTable, puedes organizar todos los actos en directo claramente por día y hora para no perderte a ninguno de tus artistas favoritos. Tanto si buscas cabezas de cartel como nuevas promesas, la vista general intuitiva te permite seguir todo el **programa** del festival. Descubre de un vistazo qué actuaciones quieren ver tus amigos y uníos para vivir juntos las mejores actuaciones.
 
 Con la opción de compartir una lista de equipaje para el festival con tus amigos, puedes asegurarte de que nada se lleva dos veces sin necesidad y de que todo el mundo sabe exactamente de qué es responsable. Las casillas marcables garantizan que no se olvide nada importante.
 
-[Regístrese]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico y utilice la [plantilla]({{< relref "templates/events/festival-planner" >}}) para su próximo festival.
+[Regístrese]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico y utilice la [plantilla]({{< relref "templates/everyday-life/festival-planner" >}}) para su próximo festival.

@@ -213,7 +213,7 @@ Use travel sizes for toiletries to save space and comply with fluid restrictions
 
 ## Conclusion: Relaxed on vacation with your checklist
 
-Whether you were a last-minute packer in the past or a forward-thinking planner - in future you can start your vacation without unnecessary stress and with all the essentials in your luggage. SeaTable's [free template]({{< relref "templates/events/travel-planner" >}}) will save you valuable time and make your travel preparations for your upcoming vacation efficient and stress-free.
+Whether you were a last-minute packer in the past or a forward-thinking planner - in future you can start your vacation without unnecessary stress and with all the essentials in your luggage. SeaTable's [free template]({{< relref "templates/everyday-life/travel-planner" >}}) will save you valuable time and make your travel preparations for your upcoming vacation efficient and stress-free.
 
 In the template you will not only find a flexibly customizable vacation checklist with all to-dos, but also other useful functions: Collect all the ideas and places you want to visit, create a clear schedule and visualize all the locations of your planned activities on a map. You can also capture all the wonderful memories during your trip, add photos and note where and when these special moments took place.
 
@@ -221,4 +221,4 @@ An app is also available to simplify travel planning. You can use it to enter id
 
 ![Budget Dashboard in SeaTable's Travel App](Travel-App.png)
 
-[Register]({{< relref "pages/registration" >}}) for free today to benefit from these practical functions and organize your next trip stress-free. You can then use the [template]({{< relref "templates/events/travel-planner" >}}) in your personal SeaTable workspace, fill it with your own data and share it with your fellow travelers via the app.
+[Register]({{< relref "pages/registration" >}}) for free today to benefit from these practical functions and organize your next trip stress-free. You can then use the [template]({{< relref "templates/everyday-life/travel-planner" >}}) in your personal SeaTable workspace, fill it with your own data and share it with your fellow travelers via the app.

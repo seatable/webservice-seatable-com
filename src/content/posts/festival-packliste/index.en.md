@@ -176,8 +176,8 @@ You can read in detail about the laws that apply at festivals in Germany and the
 
 ## The festival planner from SeaTable
 
-With SeaTable's free [festival planner]({{< relref "templates/events/festival-planner" >}}), you can clearly organize all live acts by day and time so that you don't miss any of your favourite artists. Whether you're looking for headliners or up-and-coming newcomers, the intuitive overview allows you to keep track of the entire **festival program**. See at a glance which acts your friends want to see and join forces to experience the best performances together.
+With SeaTable's free [festival planner]({{< relref "templates/everyday-life/festival-planner" >}}), you can clearly organize all live acts by day and time so that you don't miss any of your favourite artists. Whether you're looking for headliners or up-and-coming newcomers, the intuitive overview allows you to keep track of the entire **festival program**. See at a glance which acts your friends want to see and join forces to experience the best performances together.
 
 With the option of sharing a festival packing list with your friends, you can make sure that nothing is brought twice unnecessarily and that everyone knows exactly what they are responsible for. The tickable checkboxes ensure that you don't forget anything important.
 
-[Register]({{< relref "pages/registration" >}}) for free with your e-mail address and use the [template]({{< relref "templates/events/festival-planner" >}}) for your next festival.
+[Register]({{< relref "pages/registration" >}}) for free with your e-mail address and use the [template]({{< relref "templates/everyday-life/festival-planner" >}}) for your next festival.

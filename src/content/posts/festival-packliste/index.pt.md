@@ -200,8 +200,8 @@ Pode ler em pormenor quais as leis aplicáveis aos festivais na Alemanha e quais
 
 ## O planeador de festivais da SeaTable
 
-Com o [planeador de festivais]({{< relref "templates/events/festival-planner" >}}) gratuito do SeaTable, pode organizar todos os espectáculos ao vivo de forma clara, por dia e hora, para que não perca nenhum dos seus artistas favoritos. Quer esteja à procura de cabeças de cartaz ou de novos artistas, a visão geral intuitiva permite-lhe acompanhar todo o **programa do festival**. Veja rapidamente quais as actuações que os seus amigos querem ver e junte forças para viverem juntos as melhores actuações.
+Com o [planeador de festivais]({{< relref "templates/everyday-life/festival-planner" >}}) gratuito do SeaTable, pode organizar todos os espectáculos ao vivo de forma clara, por dia e hora, para que não perca nenhum dos seus artistas favoritos. Quer esteja à procura de cabeças de cartaz ou de novos artistas, a visão geral intuitiva permite-lhe acompanhar todo o **programa do festival**. Veja rapidamente quais as actuações que os seus amigos querem ver e junte forças para viverem juntos as melhores actuações.
 
 Com a opção de partilhar uma lista de embalagem para o festival com os seus amigos, pode certificar-se de que nada é trazido duas vezes desnecessariamente e que todos sabem exatamente aquilo por que são responsáveis. As caixas de verificação assinaláveis garantem que não se esquece de nada importante.
 
-[Registe-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico e utilize o [modelo]({{< relref "templates/events/festival-planner" >}}) para o seu próximo festival.
+[Registe-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico e utilize o [modelo]({{< relref "templates/everyday-life/festival-planner" >}}) para o seu próximo festival.

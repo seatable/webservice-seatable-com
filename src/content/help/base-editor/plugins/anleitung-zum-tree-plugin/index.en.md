@@ -51,7 +51,7 @@ On levels 2 and 3, you have the option of **sorting** entries **alphabetically**
 
 ## Application example for the Tree plugin
 
-A good example of the use of the Tree plugin is a [bug tracker]({{< relref "templates/software-development/bug-tracker" >}}). There you can record the versions of a software, the tests carried out and the software errors found in three different tables. Using a tree diagram, you can now visualize all this data in an overview.
+A good example of the use of the Tree plugin is a [bug tracker]({{< relref "templates/it-engineering/bug-tracker" >}}). There you can record the versions of a software, the tests carried out and the software errors found in three different tables. Using a tree diagram, you can now visualize all this data in an overview.
 
 As soon as you have selected the linked tables in the settings, you can view and open the grouped entries in the tree diagram. Initially, however, only the entries on the first level (here: software versions) are displayed. To expand the underlying data records, click on the **drop-down arrow** to the left of the entry.
 

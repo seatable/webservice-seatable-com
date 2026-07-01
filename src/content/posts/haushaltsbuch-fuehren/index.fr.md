@@ -54,7 +54,7 @@ Tout plaide donc en faveur de l'établissement d'un livre de comptes et de la v�
 
 La base de données sans code SeaTable vous offre un excellent moyen de créer votre livre de comptes, avec une interface utilisateur intuitive et de nombreuses fonctions qui vont au-delà d'un **tableur** classique comme Excel. Non seulement vous accédez facilement à vos données dans le nuage à partir de n'importe quel terminal, mais vous utilisez également **des statistiques**, des **formules**, des **regroupements** et **des filtres** pour analyser vos données.
 
-Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépenses en toute simplicité. En prenant l'exemple d'une famille de quatre personnes, nous avons construit un [modèle gratuit]({{< relref "templates/finance/budget-book" >}}) qui contient tous les points importants :
+Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépenses en toute simplicité. En prenant l'exemple d'une famille de quatre personnes, nous avons construit un [modèle gratuit]({{< relref "templates/everyday-life/budget-book" >}}) qui contient tous les points importants :
 
 - Catégorie, fréquence et type de dépense
 - Montant de la dépense et téléchargement de la facture
@@ -62,7 +62,7 @@ Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépense
 
 Qu'il s'agisse des achats, du loyer et des charges, de l'assurance automobile ou des cours particuliers pour votre fils, SeaTable vous permet de garder une vue d'ensemble de tous vos frais. Les [colonnes à sélection simple]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) vous permettent de **classer**, **filtrer** et **regrouper** vos dépenses de manière individuelle. Pour un ordre chronologique dans votre livre de comptes, il vous suffit de **trier** vos dépenses par [date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). Deux autres tableaux vous permettent de lister vos **revenus** mensuels et de calculer votre **budget** excédentaire.
 
-Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) dans SeaTable. Vous pourrez ensuite importer le [modèle]({{< relref "templates/finance/budget-book" >}}) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
+Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) dans SeaTable. Vous pourrez ensuite importer le [modèle]({{< relref "templates/everyday-life/budget-book" >}}) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
 
 ## 12 conseils pour économiser de l'argent
 
@@ -90,7 +90,7 @@ Outre les abonnements de divertissement, **les adhésions à des centres de fitn
 
 ### 4\. inviter des amis à la maison
 
-Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **Les activités à la maison** sont presque toujours moins chères que les sorties. Avec vos amis, vous pouvez facilement économiser de l'argent en réduisant les visites dans les restaurants, les bars et les clubs et en [organisant des soirées à la]({{< relref "templates/events/party-planner" >}}) maison, où chaque invité apporte quelques snacks ou boissons. Vous vous amuserez peut-être encore plus à la maison, vous pourrez choisir la musique et la liste des invités, et votre comptabilité budgétaire vous en remerciera.
+Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **Les activités à la maison** sont presque toujours moins chères que les sorties. Avec vos amis, vous pouvez facilement économiser de l'argent en réduisant les visites dans les restaurants, les bars et les clubs et en [organisant des soirées à la]({{< relref "templates/everyday-life/party-planner" >}}) maison, où chaque invité apporte quelques snacks ou boissons. Vous vous amuserez peut-être encore plus à la maison, vous pourrez choisir la musique et la liste des invités, et votre comptabilité budgétaire vous en remerciera.
 
 ### 5\. louer des espaces de vie ou de rangement inutilisés
 

@@ -81,7 +81,7 @@ La gestion des collections garantit la saisie, le catalogage, l'indexation et la
 
 La force de SeaTable réside dans le fait que vous définissez vous-même les informations que vous souhaitez saisir et que vous pouvez les étendre à volonté. En même temps, vous pouvez créer des liens entre les différentes informations et utiliser les colonnes déroulantes pour reprendre des informations d'un autre tableau.
 
-Notre modèle [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) dispose de quelques exemples d'entrées pour vous présenter les possibilités. Les différents objets d'art sont au centre de la gestion de la collection et sont liés aux artistes. En même temps, l'endroit où se trouve l'œuvre d'art à un moment donné est enregistré et il existe des liens vers les restaurations prévues et les prêts. Une extension avec des références publiques, des périodes de création ou des catégories d'art peut être ajoutée à tout moment.
+Notre modèle [Art Gallery Management]({{< relref "templates/public-sector/art-gallery-management" >}}) dispose de quelques exemples d'entrées pour vous présenter les possibilités. Les différents objets d'art sont au centre de la gestion de la collection et sont liés aux artistes. En même temps, l'endroit où se trouve l'œuvre d'art à un moment donné est enregistré et il existe des liens vers les restaurations prévues et les prêts. Une extension avec des références publiques, des périodes de création ou des catégories d'art peut être ajoutée à tout moment.
 
 ![Aperçu des objets du modèle de galerie d'art](art-gallery-management-objects.png)
 

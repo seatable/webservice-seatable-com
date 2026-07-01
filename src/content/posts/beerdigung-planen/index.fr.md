@@ -197,4 +197,4 @@ Avec tout ce qu'il faut prévoir pour un enterrement, il est facile de se perdre
 
 Modèle SeaTable avec aperçu des coûts pour les funérailles
 
-Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/events/funeral-planner" >}}).
+Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/funeral-planner" >}}).

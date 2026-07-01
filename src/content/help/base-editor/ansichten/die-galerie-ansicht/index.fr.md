@@ -17,7 +17,7 @@ seo:
 weight: 12
 ---
 
-La vue **Galerie** utilise les fichiers d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) pour organiser les enregistrements de manière claire dans des tuiles. Plusieurs images sont ainsi regroupées dans un **album**. Cette présentation convient à de nombreux cas d'utilisation, par exemple [profils des employés]({{< relref "templates/human-resources/employee-directory" >}}), [bibliothèques de produits]({{< relref "templates/product-design/product-library" >}}), [listes d'inventaire]({{< relref "templates/operations/inventory-list" >}}) ou [la gestion des collections]({{< relref "templates/operations/art-gallery-management" >}}).
+La vue **Galerie** utilise les fichiers d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) pour organiser les enregistrements de manière claire dans des tuiles. Plusieurs images sont ainsi regroupées dans un **album**. Cette présentation convient à de nombreux cas d'utilisation, par exemple [profils des employés]({{< relref "templates/human-resources/employee-directory" >}}), [bibliothèques de produits]({{< relref "templates/product-design/product-library" >}}), [listes d'inventaire]({{< relref "templates/operations/inventory-list" >}}) ou [la gestion des collections]({{< relref "templates/public-sector/art-gallery-management" >}}).
 
 ![La vue de la galerie](images/gallery-view.jpg)
 

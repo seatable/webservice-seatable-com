@@ -182,7 +182,7 @@ register:
 
 *   [автоматизированных и поддерживаемых ИИ процессов]({{< relref "pages/landing-pages/use-cases/ai-automations" >}})
 *   [инвентаризации устройств]({{< relref "templates/operations/inventory-list" >}})
-*   [отслеживания багов]({{< relref "templates/software-development/bug-tracker" >}}) и [тестирования программного обеспечения]({{< relref "posts/20250318-software-testing" >}})
+*   [отслеживания багов]({{< relref "templates/it-engineering/bug-tracker" >}}) и [тестирования программного обеспечения]({{< relref "posts/20250318-software-testing" >}})
 *   [управления инцидентами]({{< relref "posts/20250612-incident-management" >}}) и [тикетинга]({{< relref "posts/20250521-ticketing-system" >}})
 *   [реляционных баз данных]({{< relref "posts/relationale-datenbank" >}})
 *   [гражданской разработки]({{< relref "posts/20250317-citizen-developer" >}})
