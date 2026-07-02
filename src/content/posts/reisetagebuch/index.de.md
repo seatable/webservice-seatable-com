@@ -14,7 +14,6 @@ tags:
 color: '#d64e51'
 register:
    show: true
-draft: true
 ---
 
 ## Warum Reisetagebuch führen?
