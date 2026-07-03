@@ -171,6 +171,6 @@ Se trata de adivinar. Haz que tus invitados predigan la **fecha de** nacimiento 
 
 ## Planificador en línea para su baby shower
 
-Para que tu fiesta de revelación de sexo sea todo un éxito, necesitas una organización exhaustiva. Para facilitarte las cosas, el equipo de SeaTable ha creado una [práctica plantilla]({{< relref "templates/everyday-life/baby-party" >}}) para planificar tu baby shower. Puedes personalizarla para adaptarla a tus necesidades.
+Para que tu fiesta de revelación de sexo sea todo un éxito, necesitas una organización exhaustiva. Para facilitarte las cosas, el equipo de SeaTable ha creado una [práctica plantilla]({{< relref "templates/events/baby-party" >}}) para planificar tu baby shower. Puedes personalizarla para adaptarla a tus necesidades.
 
-Si desea utilizar SeaTable para ello, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí]({{< relref "templates/everyday-life/baby-party" >}}).
+Si desea utilizar SeaTable para ello, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí]({{< relref "templates/events/baby-party" >}}).

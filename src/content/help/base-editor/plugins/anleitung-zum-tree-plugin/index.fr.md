@@ -51,7 +51,7 @@ Aux niveaux 2 et 3, vous avez la possibilité de **trier** les entrées **par or
 
 ## Exemple d'utilisation du plug-in Arbre
 
-Un bon exemple d'utilisation du plug-in Arbre est un [bugtracker]({{< relref "templates/it-engineering/bug-tracker" >}}). Vous pouvez y saisir, dans trois tableaux différents, les versions d'un logiciel, les tests effectués et les erreurs logicielles trouvées. À l'aide d'un diagramme en arborescence, vous pouvez maintenant visualiser toutes ces données dans une vue d'ensemble.
+Un bon exemple d'utilisation du plug-in Arbre est un [bugtracker]({{< relref "templates/software-development/bug-tracker" >}}). Vous pouvez y saisir, dans trois tableaux différents, les versions d'un logiciel, les tests effectués et les erreurs logicielles trouvées. À l'aide d'un diagramme en arborescence, vous pouvez maintenant visualiser toutes ces données dans une vue d'ensemble.
 
 Dès que vous avez sélectionné les tableaux liés dans les paramètres, vous pouvez consulter et ouvrir les entrées groupées dans l'arborescence. Dans un premier temps, seuls les enregistrements du premier niveau (ici : versions logicielles) sont affichés. Pour déployer les enregistrements inférieurs, cliquez sur la **flèche déroulante** à gauche de l'entrée.
 

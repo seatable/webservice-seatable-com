@@ -82,7 +82,7 @@ Collection management ensures the reliable capture, cataloging, indexing and man
 
 The strength of SeaTable lies in the fact that you determine yourself what information you want to capture and can expand it as you wish. At the same time, you can create any links between the different information and, with the help of rollup columns, also take over information from another table.
 
-Our template [Art Gallery Management]({{< relref "templates/public-sector/art-gallery-management" >}}) has some sample entries to show you the possibilities. The individual art objects are at the center of the collection management and are linked to the artists. At the same time, where the artwork is currently located is recorded and there are links to planned restorations and loans. An extension to include public references, creative periods or art categories can be added at any time.
+Our template [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) has some sample entries to show you the possibilities. The individual art objects are at the center of the collection management and are linked to the artists. At the same time, where the artwork is currently located is recorded and there are links to planned restorations and loans. An extension to include public references, creative periods or art categories can be added at any time.
 
 ![Object overview of the Art Gallery Template](art-gallery-management-objects.png)
 

@@ -15,7 +15,7 @@ seo:
 weight: 12
 ---
 
-Die **Galerie-Ansicht** nutzt Vorschaubilder aus einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), um Datensätze übersichtlich in Kacheln anzuordnen. Dabei werden mehrere Bilder in einem **Album** zusammengefasst. Diese Darstellung eignet sich für eine Vielzahl von Anwendungsfällen, zum Beispiel [Mitarbeiterprofile]({{< relref "templates/human-resources/employee-directory" >}}), [Produktbibliotheken]({{< relref "templates/product-design/product-library" >}}), [Inventarlisten]({{< relref "templates/operations/inventory-list" >}}) oder [die Verwaltung von Sammlungen]({{< relref "templates/public-sector/art-gallery-management" >}}).
+Die **Galerie-Ansicht** nutzt Vorschaubilder aus einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), um Datensätze übersichtlich in Kacheln anzuordnen. Dabei werden mehrere Bilder in einem **Album** zusammengefasst. Diese Darstellung eignet sich für eine Vielzahl von Anwendungsfällen, zum Beispiel [Mitarbeiterprofile]({{< relref "templates/human-resources/employee-directory" >}}), [Produktbibliotheken]({{< relref "templates/product-design/product-library" >}}), [Inventarlisten]({{< relref "templates/operations/inventory-list" >}}) oder [die Verwaltung von Sammlungen]({{< relref "templates/operations/art-gallery-management" >}}).
 
 ![Die Galerie-Ansicht](images/gallery-view.jpg)
 

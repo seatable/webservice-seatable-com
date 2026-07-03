@@ -197,4 +197,4 @@ Con todo lo que hay que planificar para un funeral, es fácil perderlo todo de v
 
 SeaTable Plantilla de resumen de costes funerarios
 
-Si desea utilizar SeaTable para organizar un funeral, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) y crear un resumen con sus propios datos. [Aquí]({{< relref "templates/everyday-life/funeral-planner" >}}) encontrará la plantilla correspondiente.
+Si desea utilizar SeaTable para organizar un funeral, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) y crear un resumen con sus propios datos. [Aquí]({{< relref "templates/events/funeral-planner" >}}) encontrará la plantilla correspondiente.

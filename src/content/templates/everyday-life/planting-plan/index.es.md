@@ -160,7 +160,7 @@ sections:
       - headline: Alternativa a las listas estáticas 
         text: 'Organice su temporada de jardín con SeaTable de forma mucho más flexible que con notas o tablas, y use datos vinculados, filtros y vistas para crear su plan de siembra de manera estructurada y crear uno nuevo enseguida cuando lo necesite.'
       - headline: Conecte el huerto y el hogar
-        text: 'Añada a su planificación de bancales un [libro de cuentas del hogar]({{< relref "templates/everyday-life/budget-book" >}}) para documentar gastos en semillas, tierra, abono o accesorios, perfecto si crea su plan de siembra y quiere controlar a la vez los costes.'
+        text: 'Añada a su planificación de bancales un [libro de cuentas del hogar]({{< relref "templates/finance/budget-book" >}}) para documentar gastos en semillas, tierra, abono o accesorios, perfecto si crea su plan de siembra y quiere controlar a la vez los costes.'
       - headline: Datos guardados con seguridad
         text: 'Si usa SeaTable Cloud o la IA integrada, sus datos se procesan en Europa y se alojan en centros de datos alemanes. Así puede gestionar su plan de siembra, sus notas de jardín y sus observaciones de temporada con total tranquilidad.'
       - headline: Proteja mejor su propia cuenta 

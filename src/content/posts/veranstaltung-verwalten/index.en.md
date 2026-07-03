@@ -161,7 +161,7 @@ To make your social program more interesting and ensure your guests have a good 
 
 When managing events, invitations play a crucial role in your success. By using personalized invitations, you can effectively increase the number of attendees. In addition, sending "Save the Date" notifications during the planning phase can help generate interest early and ensure your guests keep the date free.
 
-Don't forget to include important information such as date, time, location and program in the invitations. To make the booking process easier for your guests, it is a good idea to integrate a ticket booking system. With a [web form]({{< relref "help/base-editor/webformulare" >}}) in the ready-made [template]({{< relref "templates/marketing/event-management" >}}) from SeaTable, you can easily implement this step and automatically create a list of participants.
+Don't forget to include important information such as date, time, location and program in the invitations. To make the booking process easier for your guests, it is a good idea to integrate a ticket booking system. With a [web form]({{< relref "help/base-editor/webformulare" >}}) in the ready-made [template]({{< relref "templates/events/event-management" >}}) from SeaTable, you can easily implement this step and automatically create a list of participants.
 
 ![Send invitations with SeaTable via web form](Einladungskommunikation.jpg)
 

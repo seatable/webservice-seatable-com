@@ -170,6 +170,6 @@ Isto é tudo uma questão de adivinhação. Peça aos seus convidados para preve
 
 ## Planeador online para o seu chá de bebé
 
-É necessária uma grande organização para que a sua festa de revelação do sexo seja um sucesso total. Para facilitar a tarefa, a equipa do SeaTable criou um [modelo prático]({{< relref "templates/everyday-life/baby-party" >}}) para planear a sua festa do bebé. Pode personalizá-lo de acordo com as suas necessidades.
+É necessária uma grande organização para que a sua festa de revelação do sexo seja um sucesso total. Para facilitar a tarefa, a equipa do SeaTable criou um [modelo prático]({{< relref "templates/events/baby-party" >}}) para planear a sua festa do bebé. Pode personalizá-lo de acordo com as suas necessidades.
 
-Se pretender utilizar o SeaTable para este efeito, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui]({{< relref "templates/everyday-life/baby-party" >}}).
+Se pretender utilizar o SeaTable para este efeito, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui]({{< relref "templates/events/baby-party" >}}).

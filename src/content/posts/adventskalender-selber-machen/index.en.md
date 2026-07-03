@@ -56,7 +56,7 @@ If you are not sure what the person you are giving the gift to likes, don't be a
 
 Under 10 euros, no expenses at all or as much money as you need? Determine your budget before you start planning content and packaging.
 
-How much you spend on an Advent calendar should depend on the person receiving it. For example, you can budget more money for family and friends than for distant relatives or work colleagues. If you are giving each other Advent calendars in a group, a maximum amount is usually set. A free option is a digital Advent calendar. You can find a helpful template [here]({{< relref "templates/everyday-life/advent-calendar" >}}).
+How much you spend on an Advent calendar should depend on the person receiving it. For example, you can budget more money for family and friends than for distant relatives or work colleagues. If you are giving each other Advent calendars in a group, a maximum amount is usually set. A free option is a digital Advent calendar. You can find a helpful template [here]({{< relref "templates/events/advent-calendar" >}}).
 
 As soon as you have determined an approximate value, you can start with further planning.
 
@@ -168,7 +168,7 @@ There is a lot to get and little time. To make sure you get everything you need,
 
 ### Plan online what to fill your Advent calendars with
 
-Especially if you make several Advent calendars yourself, it can quickly become chaotic. [SeaTable's]({{< relref "templates/everyday-life/advent-calendar" >}}) customizable [online planner]({{< relref "templates/everyday-life/advent-calendar" >}}) will help you with your preparations. Enter what you need for your Advent calendars and see at a glance what quantities you need to buy and which presents you need to hide behind which doors.
+Especially if you make several Advent calendars yourself, it can quickly become chaotic. [SeaTable's]({{< relref "templates/events/advent-calendar" >}}) customizable [online planner]({{< relref "templates/events/advent-calendar" >}}) will help you with your preparations. Enter what you need for your Advent calendars and see at a glance what quantities you need to buy and which presents you need to hide behind which doors.
 
 Even if you fill a dozen private Advent calendars, you will never lose the overview thanks to the different views, which are organized by person (Table 2 & 3).
 
@@ -180,4 +180,4 @@ You can use SeaTable to create your virtual Advent calendar. Design a little doo
 
 ![Private Advent Calendar](Private-Advent-Calendar.png)
 
-If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. You can also find the free template [here]({{< relref "templates/everyday-life/advent-calendar" >}}).
+If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. You can also find the free template [here]({{< relref "templates/events/advent-calendar" >}}).

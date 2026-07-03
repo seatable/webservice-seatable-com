@@ -168,6 +168,6 @@ This is all about guessing. Have your guests predict the **date of birth** based
 
 ## Online planner for your baby shower
 
-In order for your gender reveal party to be a complete success, it requires extensive organization. To make this easier for you, the SeaTable team has created a [practical template]({{< relref "templates/everyday-life/baby-party" >}}) for planning your baby shower. You can customize it to suit your needs.
+In order for your gender reveal party to be a complete success, it requires extensive organization. To make this easier for you, the SeaTable team has created a [practical template]({{< relref "templates/events/baby-party" >}}) for planning your baby shower. You can customize it to suit your needs.
 
-If you would like to use SeaTable for this, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here]({{< relref "templates/everyday-life/baby-party" >}}).
+If you would like to use SeaTable for this, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here]({{< relref "templates/events/baby-party" >}}).

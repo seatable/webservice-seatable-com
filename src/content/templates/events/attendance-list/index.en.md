@@ -163,7 +163,7 @@ sections:
       - headline: An alternative to static attendance lists 
         text: 'Organize your attendance with SeaTable, a powerful [Excel alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) significantly more efficient—thanks to linked tables, personalized views, web forms, and automations for educational institutions, HR teams, and event organizers.'
       - headline: Uniting Education, HR and Events
-        text: 'Link your attendance list template to the [Event Planning Template]({{< relref "templates/marketing/event-management" >}}) or other [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) and use SeaTable as your go-to alternative to Excel. This way, you can consolidate dates, participants, feedback, and documentation into a single system.'
+        text: 'Link your attendance list template to the [Event Planning Template]({{< relref "templates/events/event-management" >}}) or other [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) and use SeaTable as your go-to alternative to Excel. This way, you can consolidate dates, participants, feedback, and documentation into a single system.'
       - headline: GDPR-compliant
         text: 'If you use SeaTable Cloud or the built-in AI, all participant-related data remains in Europe—the infrastructure is hosted exclusively on servers in Germany.'
       - headline: 2FA and SSO 

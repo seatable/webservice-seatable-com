@@ -55,7 +55,7 @@ Una gran alternativa al clásico calendario de Adviento analógico es la versió
 
 ![Calendario de Adviento para empresas](Enterprise-Advent-Calendar.png)
 
-El equipo de SeaTable ha creado para usted [una plantilla]({{< relref "templates/everyday-life/advent-calendar" >}}) que podrá personalizar según sus necesidades. Dale un toque personal al calendario y espera con impaciencia las caras de asombro de tus empleados cuando descubran cada día una nueva sorpresa detrás de una de las puertecitas.
+El equipo de SeaTable ha creado para usted [una plantilla]({{< relref "templates/events/advent-calendar" >}}) que podrá personalizar según sus necesidades. Dale un toque personal al calendario y espera con impaciencia las caras de asombro de tus empleados cuando descubran cada día una nueva sorpresa detrás de una de las puertecitas.
 
 Si desea utilizar SeaTable para crear un calendario de Adviento en línea, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente y personalizar la plantilla como desee. La plantilla también contiene 24 ideas de regalos de Navidad para empleados y clientes.
 

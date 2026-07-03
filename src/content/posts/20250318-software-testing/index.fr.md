@@ -94,7 +94,7 @@ Que vous travailliez sur une nouvelle application, un grand projet logiciel ou d
 
 ## SeaTable - la solution puissante pour les tests logiciels
 
-Si vous recherchez une solution complète qui combine intelligemment le test logiciel et le suivi des bugs, vous devriez examiner de plus près le [modèle gratuit de SeaTable]({{< relref "templates/it-engineering/bug-tracker" >}}). Celui-ci vous offre, à vous et à votre équipe, un environnement pratique pour documenter proprement chaque test de système et pour saisir facilement les issues qui en résultent via un formulaire web. Pas de configuration compliquée - SeaTable permet de regrouper et de gérer toutes les étapes des tests logiciels et de l'assurance qualité en un seul endroit.
+Si vous recherchez une solution complète qui combine intelligemment le test logiciel et le suivi des bugs, vous devriez examiner de plus près le [modèle gratuit de SeaTable]({{< relref "templates/software-development/bug-tracker" >}}). Celui-ci vous offre, à vous et à votre équipe, un environnement pratique pour documenter proprement chaque test de système et pour saisir facilement les issues qui en résultent via un formulaire web. Pas de configuration compliquée - SeaTable permet de regrouper et de gérer toutes les étapes des tests logiciels et de l'assurance qualité en un seul endroit.
 
 {{< template id="51d678ca8b004e9b9b79" >}}
 

@@ -197,4 +197,4 @@ Com tudo o que é necessário para planear um funeral, é fácil perder a noçã
 
 Modelo de síntese de custos funerários SeaTable
 
-Se quiser utilizar o SeaTable para organizar um funeral, [basta registar-se gratuitamente]({{< relref "pages/registration" >}}) e criar uma visão geral com os seus próprios dados. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/everyday-life/funeral-planner" >}}).
+Se quiser utilizar o SeaTable para organizar um funeral, [basta registar-se gratuitamente]({{< relref "pages/registration" >}}) e criar uma visão geral com os seus próprios dados. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/events/funeral-planner" >}}).

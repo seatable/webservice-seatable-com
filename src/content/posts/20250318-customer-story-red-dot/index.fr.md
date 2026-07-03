@@ -34,7 +34,7 @@ La convivialité, la protection élevée des données et la possibilité de trav
 
 ![Tablette avec tableau SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
-Aujourd'hui, SeaTable est utilisé comme outil de gestion polyvalent. Le principal cas d'utilisation est toujours l'[organisation d'événements]({{< relref "templates/marketing/event-management" >}}). Les listes d'invités et le plan d'occupation des salles, la planification du personnel lors de l'événement et même le déroulement du gala planifié à la seconde près sont représentés dans SeaTable. La possibilité de charger des fichiers audio directement dans une base s'est avérée particulièrement utile. La régie a ainsi accès à tout moment à des enregistrements sonores, par exemple de la prononciation des noms des lauréats.
+Aujourd'hui, SeaTable est utilisé comme outil de gestion polyvalent. Le principal cas d'utilisation est toujours l'[organisation d'événements]({{< relref "templates/events/event-management" >}}). Les listes d'invités et le plan d'occupation des salles, la planification du personnel lors de l'événement et même le déroulement du gala planifié à la seconde près sont représentés dans SeaTable. La possibilité de charger des fichiers audio directement dans une base s'est avérée particulièrement utile. La régie a ainsi accès à tout moment à des enregistrements sonores, par exemple de la prononciation des noms des lauréats.
 
 Grâce à l'API, la gestion des commandes et l'envoi des annuaires Red Dot Design sont désormais également organisés via SeaTable. Enfin, SeaTable est également utilisé comme CRM et [outil de gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
 

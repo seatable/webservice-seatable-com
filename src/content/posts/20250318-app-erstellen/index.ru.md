@@ -172,7 +172,7 @@ Glide использует несколько иной подход, чем мн
 
 **Совет**:
 
-Если вы хотите узнать больше и открыть для себя дополнительные функции приложения, обратите внимание на шаблоны [Time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) или [Travel planner]({{< relref "templates/everyday-life/travel-planner" >}}). Они уже содержат полностью готовые приложения, которые вы можете сразу же использовать и настраивать.
+Если вы хотите узнать больше и открыть для себя дополнительные функции приложения, обратите внимание на шаблоны [Time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) или [Travel planner]({{< relref "templates/events/travel-planner" >}}). Они уже содержат полностью готовые приложения, которые вы можете сразу же использовать и настраивать.
 
 ### Заключение
 

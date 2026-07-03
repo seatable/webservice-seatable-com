@@ -158,7 +158,7 @@ sections:
       - headline: Alternative to static garden lists 
         text: 'Organize your gardening year with SeaTable far more flexibly than with sticky notes or spreadsheets, and use linked data, filters and views to build your planting plan in a structured way and create a new one quickly when needed.'
       - headline: Connect planting and household
-        text: 'Add a [household budget]({{< relref "templates/everyday-life/budget-book" >}}) to your bed planning to document spending on seeds, soil, fertilizer or garden supplies – perfect when you create your planting plan and want to keep an eye on costs at the same time.'
+        text: 'Add a [household budget]({{< relref "templates/finance/budget-book" >}}) to your bed planning to document spending on seeds, soil, fertilizer or garden supplies – perfect when you create your planting plan and want to keep an eye on costs at the same time.'
       - headline: Your data stored securely
         text: 'When you use SeaTable Cloud or the built-in AI, your data is processed in Europe and hosted in German data centers. So you can manage your planting plan, personal garden notes and seasonal observations digitally with peace of mind.'
       - headline: Protect your account better 

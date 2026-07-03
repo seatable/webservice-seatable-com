@@ -166,7 +166,7 @@ sections:
       - headline: Alternative zu statischen Anwesenheitslisten 
         text: 'Organisieren Sie Ihre Anwesenheiten mit SeaTable als starke [Excel Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) deutlich effizienter – dank verknüpfter Tabellen, personalisierter Ansichten, Webformularen und Automatisierungen für Bildungseinrichtungen, HR-Teams und Event-Organisationen.'
       - headline: Bildung, HR & Events verbinden
-        text: 'Verknüpfen Sie Ihre Anwesenheitsliste Vorlage mit der [Veranstaltung planen Vorlage]({{< relref "templates/marketing/event-management" >}}) oder weiteren [HR-Prozessen]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) und nutzen Sie SeaTable als zentrale Excel-Alternative. So führen Sie Termine, Teilnehmer, Feedback und Nachweise in einem System zusammen.'
+        text: 'Verknüpfen Sie Ihre Anwesenheitsliste Vorlage mit der [Veranstaltung planen Vorlage]({{< relref "templates/events/event-management" >}}) oder weiteren [HR-Prozessen]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) und nutzen Sie SeaTable als zentrale Excel-Alternative. So führen Sie Termine, Teilnehmer, Feedback und Nachweise in einem System zusammen.'
       - headline: DSGVO-konform
         text: 'Wenn Sie SeaTable Cloud oder die integrierte KI nutzen, bleiben alle teilnehmerbezogenen Daten in Europa – die Infrastruktur wird ausschließlich auf Servern in Deutschland betrieben.'
       - headline: 2FA und SSO 

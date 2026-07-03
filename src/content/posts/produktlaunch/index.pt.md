@@ -17,7 +17,7 @@ seo:
 
 Uma vez concluído com sucesso o processo de desenvolvimento do produto, nada se interpõe no caminho do lançamento de um produto.
 
-Embora o processo de desenvolvimento já esteja muito bem estruturado na maioria das empresas, é normalmente dada muito pouca atenção ao processo de lançamento do produto. Concluiu realmente todos os passos necessários e não se esqueceu de nada? Com o nosso [modelo]({{< relref "templates/it-engineering/product-launch" >}}) e estas [5 dicas](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada impede o lançamento de um produto de sucesso!
+Embora o processo de desenvolvimento já esteja muito bem estruturado na maioria das empresas, é normalmente dada muito pouca atenção ao processo de lançamento do produto. Concluiu realmente todos os passos necessários e não se esqueceu de nada? Com o nosso [modelo]({{< relref "templates/software-development/product-launch" >}}) e estas [5 dicas](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada impede o lançamento de um produto de sucesso!
 
 ## Estrutura do nosso modelo de lançamento de produtos
 
@@ -37,4 +37,4 @@ A tabela Newsletter é especificamente para o canal de e-mail marketing. Novas c
 
 ## Com SeaTable, o lançamento do produto tem garantia de sucesso
 
-Com o nosso [modelo de lançamento de produto]({{< relref "templates/it-engineering/product-launch" >}}), mantém sempre um registo das suas doses antes do lançamento final do produto. Como todas as tabelas SeaTable, esta é personalizável. Adapte o modelo ao seu fluxo de trabalho e partilhe a tabela com os seus empregados. Desta forma, todos podem aceder à tabela em qualquer altura e em qualquer lugar para ver e introduzir alterações importantes.
+Com o nosso [modelo de lançamento de produto]({{< relref "templates/software-development/product-launch" >}}), mantém sempre um registo das suas doses antes do lançamento final do produto. Como todas as tabelas SeaTable, esta é personalizável. Adapte o modelo ao seu fluxo de trabalho e partilhe a tabela com os seus empregados. Desta forma, todos podem aceder à tabela em qualquer altura e em qualquer lugar para ver e introduzir alterações importantes.

@@ -55,7 +55,7 @@ Si vous n'êtes pas sûr de ce que la personne à qui vous voulez faire un cadea
 
 Moins de 10 euros, sans aucune dépense ou autant d'argent que nécessaire ? Déterminez votre budget avant de commencer à planifier le contenu et le conditionnement.
 
-Le montant que vous dépensez pour un calendrier de l'Avent devrait dépendre de la personne qui le reçoit. Vous pouvez par exemple prévoir plus d'argent pour la famille et les amis que pour des parents éloignés ou des collègues de travail. Si vous vous offrez mutuellement des calendriers de l'Avent au sein d'un groupe, un montant maximal est généralement fixé. Une option gratuite est un calendrier de l'Avent numérique. Vous trouverez [ici]({{< relref "templates/everyday-life/advent-calendar" >}}) un modèle utile.
+Le montant que vous dépensez pour un calendrier de l'Avent devrait dépendre de la personne qui le reçoit. Vous pouvez par exemple prévoir plus d'argent pour la famille et les amis que pour des parents éloignés ou des collègues de travail. Si vous vous offrez mutuellement des calendriers de l'Avent au sein d'un groupe, un montant maximal est généralement fixé. Une option gratuite est un calendrier de l'Avent numérique. Vous trouverez [ici]({{< relref "templates/events/advent-calendar" >}}) un modèle utile.
 
 Une fois que vous avez déterminé une valeur approximative, vous pouvez commencer à planifier la suite.
 
@@ -167,7 +167,7 @@ Il y a beaucoup de choses à acheter et peu de temps. Pour obtenir tout ce dont 
 
 ### Planifier en ligne avec quoi vous remplissez vos calendriers de l'Avent
 
-C'est justement lorsque vous faites vous-même plusieurs calendriers de l'Avent que cela peut vite devenir chaotique. Le [planificateur en ligne]({{< relref "templates/everyday-life/advent-calendar" >}}) personnalisable [de SeaTable]({{< relref "templates/everyday-life/advent-calendar" >}}) vous aide à vous préparer. Inscrivez ce dont vous avez besoin pour vos calendriers de l'Avent et voyez d'un coup d'œil les quantités que vous devez acheter et derrière quelle porte vous cachez quels cadeaux.
+C'est justement lorsque vous faites vous-même plusieurs calendriers de l'Avent que cela peut vite devenir chaotique. Le [planificateur en ligne]({{< relref "templates/events/advent-calendar" >}}) personnalisable [de SeaTable]({{< relref "templates/events/advent-calendar" >}}) vous aide à vous préparer. Inscrivez ce dont vous avez besoin pour vos calendriers de l'Avent et voyez d'un coup d'œil les quantités que vous devez acheter et derrière quelle porte vous cachez quels cadeaux.
 
 Même si vous remplissez une douzaine de calendriers de l'Avent privés, vous ne perdrez jamais le fil grâce aux différentes vues classées par personne (tableaux 2 & 3).
 
@@ -179,4 +179,4 @@ Pour créer votre calendrier de l'Avent virtuel, vous pouvez utiliser SeaTable. 
 
 ![Calendrier de l'Avent privé](Private-Advent-Calendar.png)
 
-Si vous souhaitez utiliser SeaTable pour créer des calendriers de l'Avent analogiques et/ou numériques, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail. Vous trouverez le modèle, également gratuit, [ici]({{< relref "templates/everyday-life/advent-calendar" >}}).
+Si vous souhaitez utiliser SeaTable pour créer des calendriers de l'Avent analogiques et/ou numériques, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail. Vous trouverez le modèle, également gratuit, [ici]({{< relref "templates/events/advent-calendar" >}}).

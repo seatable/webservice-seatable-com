@@ -29,7 +29,7 @@ Furthermore, there are customer databases for storing the interests, contact inf
 
 ## What are the advantages of online databases over traditional ones?
 
-Online databases are either available free of charge or are paid for monthly. You only pay for what you have used in terms of storage capacity. In addition, you do not have to purchase your own hardware and [save on]({{< relref "templates/everyday-life/budget-book" >}}) installation [costs]({{< relref "templates/everyday-life/budget-book" >}}).
+Online databases are either available free of charge or are paid for monthly. You only pay for what you have used in terms of storage capacity. In addition, you do not have to purchase your own hardware and [save on]({{< relref "templates/finance/budget-book" >}}) installation [costs]({{< relref "templates/finance/budget-book" >}}).
 
 Another advantage is that you purchase a service. The providers usually have their own IT department. This relieves the burden on your own employees. No one to create and operate the database needs in-depth programming knowledge. Also the input of data can be done by import or web form.
 

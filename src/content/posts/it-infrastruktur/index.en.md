@@ -182,7 +182,7 @@ As an [AI no-code platform]({{< relref "/" >}}), SeaTable can support your remot
 
 *   [automated and AI-supported processes]({{< relref "pages/landing-pages/use-cases/ai-automations" >}})
 *   [inventorying devices]({{< relref "templates/operations/inventory-list" >}})
-*   [bug tracking]({{< relref "templates/it-engineering/bug-tracker" >}}) and [software testing]({{< relref "posts/20250318-software-testing" >}})
+*   [bug tracking]({{< relref "templates/software-development/bug-tracker" >}}) and [software testing]({{< relref "posts/20250318-software-testing" >}})
 *   [incident management]({{< relref "posts/20250612-incident-management" >}}) and [ticketing]({{< relref "posts/20250521-ticketing-system" >}})
 *   [relational databases]({{< relref "posts/relationale-datenbank" >}})
 *   [citizen development]({{< relref "posts/20250317-citizen-developer" >}})

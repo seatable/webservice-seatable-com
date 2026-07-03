@@ -17,7 +17,7 @@ seo:
 weight: 12
 ---
 
-The **Gallery view** uses preview images from an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) to arrange data records clearly in tiles. Several images are combined in an **album**. This display is suitable for a variety of use cases, for example [employee profiles]({{< relref "templates/human-resources/employee-directory" >}}), [product libraries]({{< relref "templates/product-design/product-library" >}}), [inventory lists]({{< relref "templates/operations/inventory-list" >}}) or [the management of collections]({{< relref "templates/public-sector/art-gallery-management" >}}).
+The **Gallery view** uses preview images from an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) to arrange data records clearly in tiles. Several images are combined in an **album**. This display is suitable for a variety of use cases, for example [employee profiles]({{< relref "templates/human-resources/employee-directory" >}}), [product libraries]({{< relref "templates/product-design/product-library" >}}), [inventory lists]({{< relref "templates/operations/inventory-list" >}}) or [the management of collections]({{< relref "templates/operations/art-gallery-management" >}}).
 
 ![The Gallery view](images/gallery-view.jpg)
 

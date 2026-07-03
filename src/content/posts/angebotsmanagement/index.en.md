@@ -48,7 +48,7 @@ Proposal preparation lays the foundation for your optimal proposal management an
 After the initial discussions with the potential new customer, you know their "needs" and what solutions will help them. Now it's time for the second step of offer management, the preparation of the offer. But what should be in the offer? You'll be on the safe side if you consider these four aspects:
 
 - Specification of the solution
-- [Price calculation]({{< relref "templates/everyday-life/budget-book" >}})
+- [Price calculation]({{< relref "templates/finance/budget-book" >}})
 - Preparation of a written offer
 - Sending the written offer to the customer
 

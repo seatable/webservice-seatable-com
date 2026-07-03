@@ -98,8 +98,8 @@ Ne faites pas semblant, mais présentez-vous **de manière authentique**. Le bai
 
 ## 10\. garder une vue d'ensemble lors de la recherche d'un logement
 
-Garder une vue d'ensemble dans la jungle de l'immobilier n'est pas si facile. Surtout si l'on s'intéresse à plusieurs biens immobiliers, il est facile de s'y perdre. Pour éviter d'oublier un logement ou même de le contacter deux fois par inadvertance, il vaut la peine d'utiliser une bonne structure dès le départ. Le [modèle]({{< relref "templates/everyday-life/apartment-hunting" >}}) gratuit [de SeaTable]({{< relref "templates/everyday-life/apartment-hunting" >}}) s'y prête parfaitement.
+Garder une vue d'ensemble dans la jungle de l'immobilier n'est pas si facile. Surtout si l'on s'intéresse à plusieurs biens immobiliers, il est facile de s'y perdre. Pour éviter d'oublier un logement ou même de le contacter deux fois par inadvertance, il vaut la peine d'utiliser une bonne structure dès le départ. Le [modèle]({{< relref "templates/real-estate/apartment-hunting" >}}) gratuit [de SeaTable]({{< relref "templates/real-estate/apartment-hunting" >}}) s'y prête parfaitement.
 
 Dans le modèle, vous pouvez saisir vos critères et comparer en un coup d'œil tous les logements potentiels. Outre les photos, vous pouvez également insérer les coordonnées des propriétaires ainsi que les dates. Après une visite réussie, vous pouvez noter vos impressions et n'oublier ainsi aucun détail. Grâce à une bonne organisation, la recherche d'un logement et la décision finale concernant l'appartement de vos rêves vous seront plus faciles.
 
-Pour utiliser SeaTable, il vous suffit de vous inscrire gratuitement. Vous pouvez ensuite ajouter [le modèle]({{< relref "templates/everyday-life/apartment-hunting" >}}) à votre base et y ajouter vos propres données.
+Pour utiliser SeaTable, il vous suffit de vous inscrire gratuitement. Vous pouvez ensuite ajouter [le modèle]({{< relref "templates/real-estate/apartment-hunting" >}}) à votre base et y ajouter vos propres données.

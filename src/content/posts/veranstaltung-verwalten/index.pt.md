@@ -159,7 +159,7 @@ Para tornar o seu programa social mais interessante e garantir que os seus convi
 
 Ao gerir eventos, os convites desempenham um papel crucial no seu sucesso. Ao utilizar convites personalizados, pode aumentar efetivamente o número de participantes. Além disso, o envio de notificações "Save the Date" durante a fase de planeamento pode ajudar a gerar interesse antecipadamente e garantir que os seus convidados mantêm a data livre.
 
-Não se esqueça de incluir nos convites informações importantes, como a data, a hora, o local e o programa. Para tornar o processo de reserva mais fácil para os seus convidados, é uma boa ideia integrar um sistema de reserva de bilhetes. Com um [formulário Web]({{< relref "help/base-editor/webformulare" >}}) no [modelo]({{< relref "templates/marketing/event-management" >}}) pronto a usar da SeaTable, pode implementar facilmente este passo e criar automaticamente uma lista de participantes.
+Não se esqueça de incluir nos convites informações importantes, como a data, a hora, o local e o programa. Para tornar o processo de reserva mais fácil para os seus convidados, é uma boa ideia integrar um sistema de reserva de bilhetes. Com um [formulário Web]({{< relref "help/base-editor/webformulare" >}}) no [modelo]({{< relref "templates/events/event-management" >}}) pronto a usar da SeaTable, pode implementar facilmente este passo e criar automaticamente uma lista de participantes.
 
 ![Enviar convites com o SeaTable através de formulário Web](Einladungskommunikation.jpg)
 

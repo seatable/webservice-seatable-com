@@ -200,8 +200,8 @@ Vous pouvez lire en détail dans le [catalogue des amendes](https://www.bussgeld
 
 ## Le planificateur de festival de SeaTable
 
-Le [planificateur de festival]({{< relref "templates/everyday-life/festival-planner" >}}) gratuit de SeaTable vous permet de classer clairement tous les concerts en direct par jour et par heure, afin de ne manquer aucun de vos artistes préférés. Que vous soyez à la recherche de têtes d'affiche ou de nouveaux venus, l'aperçu intuitif vous permet de toujours garder une vue d'ensemble sur l'ensemble du **programme du festival**. Voyez d'un seul coup d'œil les artistes que vos amis souhaitent voir et regroupez-vous pour profiter ensemble des meilleurs spectacles.
+Le [planificateur de festival]({{< relref "templates/events/festival-planner" >}}) gratuit de SeaTable vous permet de classer clairement tous les concerts en direct par jour et par heure, afin de ne manquer aucun de vos artistes préférés. Que vous soyez à la recherche de têtes d'affiche ou de nouveaux venus, l'aperçu intuitif vous permet de toujours garder une vue d'ensemble sur l'ensemble du **programme du festival**. Voyez d'un seul coup d'œil les artistes que vos amis souhaitent voir et regroupez-vous pour profiter ensemble des meilleurs spectacles.
 
 La possibilité de partager une liste d'emballage de festival avec vos amis vous permet de vous assurer que rien n'est apporté inutilement en double et que chacun sait exactement ce dont il est responsable. Grâce aux cases à cocher que l'on peut cocher, vous êtes sûr de ne rien oublier d'important.
 
-[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail et utilisez le [modèle]({{< relref "templates/everyday-life/festival-planner" >}}) pour votre prochain festival.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail et utilisez le [modèle]({{< relref "templates/events/festival-planner" >}}) pour votre prochain festival.

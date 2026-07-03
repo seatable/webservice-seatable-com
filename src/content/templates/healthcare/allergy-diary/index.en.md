@@ -156,7 +156,7 @@ sections:
       - q: "Can I import my existing allergy diary from Excel or another app?"
         a: 'Yes, you can easily import [CSV]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}) or [XLSX files]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) into SeaTable. This makes it easy to transfer existing symptom records from Excel or other tools.'
       - q: "Can I add more allergens and track several allergies at once?"
-        a: 'Yes, you can expand the pollen allergy calendar in the template with any number of pollen types and allergens and link your diary entries accordingly. Cross-allergies can be mapped too. If you also suspect a food allergy, we recommend taking a look at our [food diary template]({{< relref "templates/healthcare/food-diary" >}}).'
+        a: 'Yes, you can expand the pollen allergy calendar in the template with any number of pollen types and allergens and link your diary entries accordingly. Cross-allergies can be mapped too. If you also suspect a food allergy, we recommend taking a look at our [food diary template]({{< relref "templates/everyday-life/food-diary" >}}).'
       - q: "Do I need technical skills to adapt the diary to my needs?"
         a: 'No, SeaTable is a no-code solution and generally requires no technical knowledge. You can adjust all settings, tables and app pages without any programming. New input fields or views are created via drag and drop.'
       - q: "Is SeaTable’s allergy diary free to use permanently?"

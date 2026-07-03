@@ -182,7 +182,7 @@ Como [plataforma no-code con IA]({{< relref "/" >}}), SeaTable puede ayudar a su
 
 *   [procesos automatizados y asistidos por IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}})
 *   [inventario de dispositivos]({{< relref "templates/operations/inventory-list" >}})
-*   [seguimiento de errores]({{< relref "templates/it-engineering/bug-tracker" >}}) y [pruebas de software]({{< relref "posts/20250318-software-testing" >}})
+*   [seguimiento de errores]({{< relref "templates/software-development/bug-tracker" >}}) y [pruebas de software]({{< relref "posts/20250318-software-testing" >}})
 *   [gestión de incidentes]({{< relref "posts/20250612-incident-management" >}}) y [tickets]({{< relref "posts/20250521-ticketing-system" >}})
 *   [bases de datos relacionales]({{< relref "posts/relationale-datenbank" >}})
 *   [desarrollo ciudadano]({{< relref "posts/20250317-citizen-developer" >}})
