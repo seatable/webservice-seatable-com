@@ -163,7 +163,7 @@ sections:
       - q: ¿Qué funciones de IA admite la aplicación para armarios?
         a: Con las automatizaciones integradas basadas en IA, nuestras funciones estándar Resumir, Clasificar, Extraer y OCR, así como la función Personalizar, están disponibles con una suscripción Enterprise. Esto le permite evaluar recibos de compra y facturas, extraer texto de imágenes, clasificar prendas de ropa o generar sugerencias de conjuntos, por ejemplo.
       - q: ¿Puedo conectar mi armario digital a otras plantillas? 
-        a: 'Por supuesto, puede combinar su plantilla con otras plantillas adecuadas de SeaTable, como el [libro de cuentas domésticas]({{< relref "templates/everyday-life/budget-book" >}}) o el [planificador de vacaciones]({{< relref "templates/everyday-life/travel-planner" >}}), o vincularla a otras herramientas que utilice a través de [integraciones]({{< relref "pages/integrations" >}}).'
+        a: 'Por supuesto, puede combinar su plantilla con otras plantillas adecuadas de SeaTable, como el [libro de cuentas domésticas]({{< relref "templates/finance/budget-book" >}}) o el [planificador de vacaciones]({{< relref "templates/events/travel-planner" >}}), o vincularla a otras herramientas que utilice a través de [integraciones]({{< relref "pages/integrations" >}}).'
       - q: ¿También puedo guardar fotos de conjuntos y combinaciones?
         a: Sí, puede guardar fotos, vídeos y otros archivos, y vincularlos a la ropa y los conjuntos que haya guardado. 
       - q: ¿El uso de la IA en SeaTable cumple con el RGPD? 

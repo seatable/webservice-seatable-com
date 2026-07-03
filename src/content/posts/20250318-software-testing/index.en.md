@@ -90,7 +90,7 @@ Whether you're working on a new app, a large software project or minor updates, 
 
 ## SeaTable - the powerful solution for software testing
 
-If you are looking for a comprehensive solution that cleverly combines software testing and bug tracking, you should take a closer look at the [free template from SeaTable]({{< relref "templates/it-engineering/bug-tracker" >}}). It offers you and your team a practical environment to document every system test cleanly and to record the resulting issues easily via a web form. No complicated setup - SeaTable makes it possible to bundle and manage all steps for software testing and quality assurance in one place.
+If you are looking for a comprehensive solution that cleverly combines software testing and bug tracking, you should take a closer look at the [free template from SeaTable]({{< relref "templates/software-development/bug-tracker" >}}). It offers you and your team a practical environment to document every system test cleanly and to record the resulting issues easily via a web form. No complicated setup - SeaTable makes it possible to bundle and manage all steps for software testing and quality assurance in one place.
 
 {{< template id="51d678ca8b004e9b9b79" >}}
 

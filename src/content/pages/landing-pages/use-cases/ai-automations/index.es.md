@@ -104,7 +104,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_03.png
         image_alt: 'Procesamiento de facturas SeaTable con función de IA'
       - headline: Soporte informático
-        text: Las solicitudes de asistencia o [tickets internos]({{< relref "templates/it-engineering/it-helpdesk" >}}) se **analizan, clasifican y priorizan automáticamente** antes de remitirse al personal responsable. A partir de los comentarios técnicos de los administradores de TI, se generan descripciones breves y concisas para los clientes y usuarios finales. El esfuerzo manual para la clasificación y la documentación se reduce, mientras que la calidad y la transparencia aumentan, en cumplimiento con la [gestión de servicios de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
+        text: Las solicitudes de asistencia o [tickets internos]({{< relref "templates/software-development/it-helpdesk" >}}) se **analizan, clasifican y priorizan automáticamente** antes de remitirse al personal responsable. A partir de los comentarios técnicos de los administradores de TI, se generan descripciones breves y concisas para los clientes y usuarios finales. El esfuerzo manual para la clasificación y la documentación se reduce, mientras que la calidad y la transparencia aumentan, en cumplimiento con la [gestión de servicios de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Clasificar los tickets directamente mediante funciones de IA'
       - headline: Análisis de documentos y contratos

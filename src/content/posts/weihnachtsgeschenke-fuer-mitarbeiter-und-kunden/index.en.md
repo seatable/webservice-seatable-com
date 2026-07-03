@@ -55,7 +55,7 @@ A nice alternative to the classic analog Advent calendar is a digital version. Y
 
 ![Enterprise Advent Calendar](Enterprise-Advent-Calendar.png)
 
-The SeaTable team has created [a template]({{< relref "templates/everyday-life/advent-calendar" >}}) for you that you can customize according to your needs. Give the calendar a personal touch and look forward to the astonished faces of your employees when they discover a new surprise behind one of the little doors every day.
+The SeaTable team has created [a template]({{< relref "templates/events/advent-calendar" >}}) for you that you can customize according to your needs. Give the calendar a personal touch and look forward to the astonished faces of your employees when they discover a new surprise behind one of the little doors every day.
 
 If you would like to use SeaTable to create an online Advent calendar, simply [register]({{< relref "pages/registration" >}}) for free and customize the template as you wish. The template also contains 24 ideas for Christmas gifts for employees and customers.
 

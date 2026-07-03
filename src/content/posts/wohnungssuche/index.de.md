@@ -96,8 +96,8 @@ Verstellen Sie sich nicht, sondern präsentieren Sie sich **authentisch**. Dadur
 
 ## 10\. Bei der Wohnungssuche den Überblick behalten
 
-Im Immobilien-Dschungel den Überblick zu bewahren ist gar nicht so leicht. Insbesondere, wenn man sich für mehrere Immobilien interessiert, kommt man schnell durcheinander. Um zu verhindern, dass Sie eine Wohnung vergessen oder gar versehentlich doppelt kontaktieren, macht es sich bezahlt, wenn Sie von Anfang an eine gute Struktur verwenden. Das kostenlose [Template von SeaTable]({{< relref "templates/everyday-life/apartment-hunting" >}}) eignet sich hervorragend dafür.
+Im Immobilien-Dschungel den Überblick zu bewahren ist gar nicht so leicht. Insbesondere, wenn man sich für mehrere Immobilien interessiert, kommt man schnell durcheinander. Um zu verhindern, dass Sie eine Wohnung vergessen oder gar versehentlich doppelt kontaktieren, macht es sich bezahlt, wenn Sie von Anfang an eine gute Struktur verwenden. Das kostenlose [Template von SeaTable]({{< relref "templates/real-estate/apartment-hunting" >}}) eignet sich hervorragend dafür.
 
 In der Vorlage können Sie Ihre Kriterien eintragen und auf einen Blick alle potenziellen Wohnungen vergleichen. Neben Bildern können Sie auch die Kontaktdaten der Vermieter sowie Termine einfügen. Nach einer erfolgreichen Besichtigung können Sie Ihren Eindruck notieren und so keine Details vergessen. Durch eine gute Organisation werden Ihnen die Wohnungssuche und die letztendliche Entscheidung für Ihre Traumwohnung leichter fallen.
 
-Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos registrieren. Anschließend können Sie [die Vorlage]({{< relref "templates/everyday-life/apartment-hunting" >}}) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.
+Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos registrieren. Anschließend können Sie [die Vorlage]({{< relref "templates/real-estate/apartment-hunting" >}}) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.

@@ -46,7 +46,7 @@ Die Angebotsvorbereitung legt den Grundstein für Ihr optimales Angebotsmanageme
 Nach den ersten Gesprächen mit dem potenziellen neuen Kunden, kennen Sie seine „Needs“ und wissen, welche Lösungen ihm helfen. Nun geht es um den zweiten Schritt des Angebotsmanagements, die Angebotserstellung. Doch was muss im Angebot stehen? Auf der sicheren Seite sind Sie, wenn Sie diese vier Aspekte berücksichtigen:
 
 - Spezifizierung der Lösung
-- [Preiskalkulation]({{< relref "templates/everyday-life/budget-book" >}})
+- [Preiskalkulation]({{< relref "templates/finance/budget-book" >}})
 - Erstellung eines schriftlichen Angebots
 - Versenden des schriftlichen Angebots an den Kunden
 

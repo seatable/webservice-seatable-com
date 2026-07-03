@@ -55,7 +55,7 @@ Une belle alternative au calendrier de l'Avent analogique classique est une vari
 
 ![Calendrier de l'Avent Enterprise](Enterprise-Advent-Calendar.png)
 
-L'équipe de SeaTable a créé pour vous [un modèle]({{< relref "templates/everyday-life/advent-calendar" >}}) que vous pouvez adapter à vos besoins. Donnez une touche personnelle au calendrier et réjouissez-vous de voir les visages étonnés de vos collaborateurs lorsqu'ils découvrent chaque jour une nouvelle surprise derrière l'une des portes.
+L'équipe de SeaTable a créé pour vous [un modèle]({{< relref "templates/events/advent-calendar" >}}) que vous pouvez adapter à vos besoins. Donnez une touche personnelle au calendrier et réjouissez-vous de voir les visages étonnés de vos collaborateurs lorsqu'ils découvrent chaque jour une nouvelle surprise derrière l'une des portes.
 
 Si vous souhaitez utiliser SeaTable pour créer un calendrier de l'Avent en ligne, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement et de personnaliser le modèle à votre guise. Dans le modèle, vous trouverez également 24 idées de cadeaux de Noël pour les employés et les clients.
 

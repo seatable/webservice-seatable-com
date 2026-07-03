@@ -176,4 +176,4 @@ color: '009f9b'
 
 ![План переезда](Umzugsplan.png)
 
-Если вы хотите использовать SeaTable для планирования переезда, [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон вы найдёте [здесь]({{< relref "templates/everyday-life/moving-plan" >}}).
+Если вы хотите использовать SeaTable для планирования переезда, [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон вы найдёте [здесь]({{< relref "templates/real-estate/moving-plan" >}}).

@@ -17,7 +17,7 @@ seo:
 weight: 12
 ---
 
-La **vista de galería** utiliza imágenes de vista previa de una [columna de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) para organizar los registros de datos claramente en mosaicos. Varias imágenes se resumen en un **álbum**. Esta visualización es adecuada para diversos casos de uso, por ejemplo [perfiles de empleados]({{< relref "templates/human-resources/employee-directory" >}}), [bibliotecas de productos]({{< relref "templates/product-design/product-library" >}}), [listas de inventario]({{< relref "templates/operations/inventory-list" >}}) o [gestión de colecciones]({{< relref "templates/public-sector/art-gallery-management" >}}).
+La **vista de galería** utiliza imágenes de vista previa de una [columna de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) para organizar los registros de datos claramente en mosaicos. Varias imágenes se resumen en un **álbum**. Esta visualización es adecuada para diversos casos de uso, por ejemplo [perfiles de empleados]({{< relref "templates/human-resources/employee-directory" >}}), [bibliotecas de productos]({{< relref "templates/product-design/product-library" >}}), [listas de inventario]({{< relref "templates/operations/inventory-list" >}}) o [gestión de colecciones]({{< relref "templates/operations/art-gallery-management" >}}).
 
 ![la vista de galería](images/gallery-view.jpg)
 

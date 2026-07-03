@@ -198,4 +198,4 @@ With everything to plan for a funeral, it’s easy to lose track. That’s why S
 
 SeaTable template with funeral cost overview
 
-If you want to use SeaTable to organize a funeral, [register for free]({{< relref "pages/registration" >}}) and create an overview with your own data. You’ll find the template [here]({{< relref "templates/everyday-life/funeral-planner" >}}).
+If you want to use SeaTable to organize a funeral, [register for free]({{< relref "pages/registration" >}}) and create an overview with your own data. You’ll find the template [here]({{< relref "templates/events/funeral-planner" >}}).

@@ -98,9 +98,9 @@ Klarna también ofrece la opción de establecer presupuestos para mantener tus g
 
 ## Libro de presupuesto de SeaTable
 
-Un **libro de presupuesto** bien estructurado es extremadamente útil para registrar y analizar sus gastos en detalle. SeaTable ofrece una [plantilla]({{< relref "templates/everyday-life/budget-book" >}}) gratuita que te permite mantener tus asuntos financieros bajo control sin perder el **hilo**.
+Un **libro de presupuesto** bien estructurado es extremadamente útil para registrar y analizar sus gastos en detalle. SeaTable ofrece una [plantilla]({{< relref "templates/finance/budget-book" >}}) gratuita que te permite mantener tus asuntos financieros bajo control sin perder el **hilo**.
 
-Con el [planificador de presupuestos]({{< relref "templates/everyday-life/budget-book" >}}) de SeaTable, puedes registrar fácilmente todos tus gastos e ingresos y calcular tu presupuesto. Distingue entre **gastos puntuales** y **gastos regulares** para tener una visión clara. Tanto si se trata de servicios de streaming mensuales como de actividades de ocio espontáneas, puede introducirlo todo en su planificador de presupuestos. Así podrás analizar tu **comportamiento de consumo** e **identificar** tu **potencial de ahorro**.
+Con el [planificador de presupuestos]({{< relref "templates/finance/budget-book" >}}) de SeaTable, puedes registrar fácilmente todos tus gastos e ingresos y calcular tu presupuesto. Distingue entre **gastos puntuales** y **gastos regulares** para tener una visión clara. Tanto si se trata de servicios de streaming mensuales como de actividades de ocio espontáneas, puede introducirlo todo en su planificador de presupuestos. Así podrás analizar tu **comportamiento de consumo** e **identificar** tu **potencial de ahorro**.
 
 Gracias al práctico **calendario**, también puede controlar la fecha de vencimiento de determinados gastos para no incumplir ningún plazo de pago y no verse sorprendido por domiciliaciones inesperadas.
 

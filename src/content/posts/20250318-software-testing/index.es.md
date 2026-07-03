@@ -93,7 +93,7 @@ Tanto si está trabajando en una nueva aplicación, en un gran proyecto de softw
 
 ## SeaTable: la potente solución para las pruebas de software
 
-Si busca una solución completa que combine de forma inteligente las pruebas de software y el seguimiento de errores, debería echar un vistazo a la [plantilla gratuita de SeaTable]({{< relref "templates/it-engineering/bug-tracker" >}}). Le ofrece a usted y a su equipo un entorno práctico para documentar limpiamente cada prueba del sistema y registrar fácilmente los problemas resultantes a través de un formulario web. Sin configuraciones complicadas: SeaTable permite agrupar y gestionar todos los pasos de las pruebas de software y el control de calidad en un único lugar.
+Si busca una solución completa que combine de forma inteligente las pruebas de software y el seguimiento de errores, debería echar un vistazo a la [plantilla gratuita de SeaTable]({{< relref "templates/software-development/bug-tracker" >}}). Le ofrece a usted y a su equipo un entorno práctico para documentar limpiamente cada prueba del sistema y registrar fácilmente los problemas resultantes a través de un formulario web. Sin configuraciones complicadas: SeaTable permite agrupar y gestionar todos los pasos de las pruebas de software y el control de calidad en un único lugar.
 
 {{< template id="51d678ca8b004e9b9b79" >}}
 

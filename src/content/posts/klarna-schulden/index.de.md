@@ -96,9 +96,9 @@ Klarna selbst bietet zudem die Möglichkeit, Budgets festzulegen, um Ihre Ausgab
 
 ## Haushaltsbuch von SeaTable
 
-Ein gut strukturiertes **Haushaltsbuch** ist äußerst nützlich, um Ihre Ausgaben detailliert zu erfassen und zu analysieren. SeaTable bietet eine kostenlose [Vorlage]({{< relref "templates/everyday-life/budget-book" >}}), mit der Sie Ihre finanziellen Angelegenheiten im Griff behalten können, ohne den **Überblick** zu verlieren.
+Ein gut strukturiertes **Haushaltsbuch** ist äußerst nützlich, um Ihre Ausgaben detailliert zu erfassen und zu analysieren. SeaTable bietet eine kostenlose [Vorlage]({{< relref "templates/finance/budget-book" >}}), mit der Sie Ihre finanziellen Angelegenheiten im Griff behalten können, ohne den **Überblick** zu verlieren.
 
-Mit dem [Budgetplaner]({{< relref "templates/everyday-life/budget-book" >}}) von SeaTable können Sie alle Ihre Ausgaben und Einnahmen einfach erfassen und Ihr Budget errechnen. Unterscheiden Sie dabei zwischen **einmaligen Ausgaben** und **regelmäßigen Kosten**, um eine klare Übersicht zu bekommen. Ob es sich um monatlich abgebuchte Streamingdienste oder um spontane Freizeitaktivitäten handelt – Sie können alles in Ihren Budgetplaner eintragen. Auf diese Weise können Sie Ihr **Konsumverhalten analysieren** und Ihr **Sparpotenzial identifizieren**.
+Mit dem [Budgetplaner]({{< relref "templates/finance/budget-book" >}}) von SeaTable können Sie alle Ihre Ausgaben und Einnahmen einfach erfassen und Ihr Budget errechnen. Unterscheiden Sie dabei zwischen **einmaligen Ausgaben** und **regelmäßigen Kosten**, um eine klare Übersicht zu bekommen. Ob es sich um monatlich abgebuchte Streamingdienste oder um spontane Freizeitaktivitäten handelt – Sie können alles in Ihren Budgetplaner eintragen. Auf diese Weise können Sie Ihr **Konsumverhalten analysieren** und Ihr **Sparpotenzial identifizieren**.
 
 Dank des praktischen **Kalenders** können Sie auch das Fälligkeitsdatum bestimmter Ausgaben im Auge behalten, um keine Zahlungsfrist zu verpassen und nicht von unvorhergesehenen Abbuchungen überrascht zu werden.
 

@@ -157,7 +157,7 @@ Para que su programa social sea más interesante y sus invitados se lo pasen bie
 
 En la gestión de eventos, las invitaciones desempeñan un papel crucial para su éxito. Si utiliza invitaciones personalizadas, podrá aumentar eficazmente el número de participantes. Además, enviar notificaciones de "Reserve la fecha" durante la fase de planificación puede ayudar a generar interés desde el principio y garantizar que sus invitados mantengan la fecha libre.
 
-No olvide incluir en las invitaciones información importante como la fecha, la hora, el lugar y el programa. Para facilitar el proceso de reserva a tus invitados, es buena idea integrar un sistema de reserva de entradas. Con un [formulario web]({{< relref "help/base-editor/webformulare" >}}) en la [plantilla]({{< relref "templates/marketing/event-management" >}}) ya preparada de SeaTable, puedes implementar fácilmente este paso y crear automáticamente una lista de participantes.
+No olvide incluir en las invitaciones información importante como la fecha, la hora, el lugar y el programa. Para facilitar el proceso de reserva a tus invitados, es buena idea integrar un sistema de reserva de entradas. Con un [formulario web]({{< relref "help/base-editor/webformulare" >}}) en la [plantilla]({{< relref "templates/events/event-management" >}}) ya preparada de SeaTable, puedes implementar fácilmente este paso y crear automáticamente una lista de participantes.
 
 ![Enviar invitaciones con SeaTable a través de un formulario web](Einladungskommunikation.jpg)
 

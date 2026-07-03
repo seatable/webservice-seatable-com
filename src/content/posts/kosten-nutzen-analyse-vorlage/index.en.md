@@ -35,7 +35,7 @@ Benefit from a cost-benefit analysis. Image rights: amazing studio / Adobe Stock
 
 ## Where is a cost-benefit analysis used?
 
-The larger a [project]({{< relref "templates/projects/project-plan" >}}) is, the larger its investment sum usually is. While the [costs]({{< relref "templates/everyday-life/budget-book" >}}) of an investment are usually quite easy to determine, the specific benefits are much more difficult to identify. The reason for this is that neither the success nor the impact of a measure can be reliably predicted and quantified in advance. In addition, the benefits of an investment are often subject to a subjective assessment by the decision-makers.
+The larger a [project]({{< relref "templates/projects/project-plan" >}}) is, the larger its investment sum usually is. While the [costs]({{< relref "templates/finance/budget-book" >}}) of an investment are usually quite easy to determine, the specific benefits are much more difficult to identify. The reason for this is that neither the success nor the impact of a measure can be reliably predicted and quantified in advance. In addition, the benefits of an investment are often subject to a subjective assessment by the decision-makers.
 
 A CBA helps to clearly document all possible factors that have an impact on a business decision and to evaluate them objectively and neutrally across departments. It is advantageous to use a **database** for this. Because if you create your cost-benefit analysis using a template, everyone involved can work on the same basis. This means that no data is lost, important aspects are not overlooked and additional factors that other departments consider relevant can be easily added.
 

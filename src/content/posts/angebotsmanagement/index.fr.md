@@ -48,7 +48,7 @@ La préparation de l'offre pose la première pierre de votre gestion optimale de
 Après les premiers entretiens avec le nouveau client potentiel, vous connaissez ses "besoins" et savez quelles solutions peuvent l'aider. Il s'agit maintenant de la deuxième étape de la gestion des offres, à savoir l'élaboration de l'offre. Mais que doit contenir l'offre ? Vous serez en sécurité si vous prenez en compte ces quatre aspects :
 
 - Spécification de la solution
-- [Calcul des prix]({{< relref "templates/everyday-life/budget-book" >}})
+- [Calcul des prix]({{< relref "templates/finance/budget-book" >}})
 - Rédaction d'une offre écrite
 - Envoi de l'offre écrite au client
 

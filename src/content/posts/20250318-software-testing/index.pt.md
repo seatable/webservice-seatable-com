@@ -94,7 +94,7 @@ Quer esteja a trabalhar numa nova aplicação, num grande projeto de software ou
 
 ## SeaTable - a solução poderosa para testes de software
 
-Se está à procura de uma solução abrangente que combine de forma inteligente os testes de software e o rastreio de erros, deve dar uma vista de olhos ao [modelo gratuito do SeaTable]({{< relref "templates/it-engineering/bug-tracker" >}}). Oferece-lhe a si e à sua equipa um ambiente prático para documentar cada teste de sistema de forma clara e registar facilmente os problemas resultantes através de um formulário Web. Sem configurações complicadas - o SeaTable permite agrupar e gerir todas as etapas dos testes de software e da garantia de qualidade num único local.
+Se está à procura de uma solução abrangente que combine de forma inteligente os testes de software e o rastreio de erros, deve dar uma vista de olhos ao [modelo gratuito do SeaTable]({{< relref "templates/software-development/bug-tracker" >}}). Oferece-lhe a si e à sua equipa um ambiente prático para documentar cada teste de sistema de forma clara e registar facilmente os problemas resultantes através de um formulário Web. Sem configurações complicadas - o SeaTable permite agrupar e gerir todas as etapas dos testes de software e da garantia de qualidade num único local.
 
 {{< template id="51d678ca8b004e9b9b79" >}}
 

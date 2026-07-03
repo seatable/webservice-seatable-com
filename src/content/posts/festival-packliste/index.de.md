@@ -174,8 +174,8 @@ Welche Gesetze auf Festivals in Deutschland gelten und welche Strafen bei Fehlve
 
 ## Der Festivalplaner von SeaTable
 
-Mit dem kostenlosen [Festivalplaner]({{< relref "templates/everyday-life/festival-planner" >}}) von SeaTable können Sie alle Live-Acts übersichtlich nach Tagen und Uhrzeiten ordnen, damit Sie keinen Ihrer Lieblingskünstler verpassen. Egal, ob Sie auf der Suche nach Headlinern oder aufstrebenden Newcomern sind – mit der intuitiven Übersicht behalten Sie stets den Überblick über das gesamte **Festivalprogramm**. Sehen Sie auf einen Blick, welche Acts Ihre Freunde besuchen möchten, und schließen Sie sich zusammen, um gemeinsam die besten Auftritte zu erleben.
+Mit dem kostenlosen [Festivalplaner]({{< relref "templates/events/festival-planner" >}}) von SeaTable können Sie alle Live-Acts übersichtlich nach Tagen und Uhrzeiten ordnen, damit Sie keinen Ihrer Lieblingskünstler verpassen. Egal, ob Sie auf der Suche nach Headlinern oder aufstrebenden Newcomern sind – mit der intuitiven Übersicht behalten Sie stets den Überblick über das gesamte **Festivalprogramm**. Sehen Sie auf einen Blick, welche Acts Ihre Freunde besuchen möchten, und schließen Sie sich zusammen, um gemeinsam die besten Auftritte zu erleben.
 
 Mit der Möglichkeit, eine Festival Packliste mit Ihren Freunden zu teilen, können Sie sicherstellen, dass nichts unnötig doppelt mitgebracht wird und jeder genau weiß, wofür er zuständig ist. Durch die abhakbaren Checkboxen stellen Sie sicher, dass Sie nichts Wichtiges vergessen.
 
-[Registrieren]({{< relref "pages/registration" >}}) Sie sich kostenlos mit Ihrer E-Mail-Adresse und nutzen Sie die [Vorlage]({{< relref "templates/everyday-life/festival-planner" >}}) für Ihr nächstes Festival.
+[Registrieren]({{< relref "pages/registration" >}}) Sie sich kostenlos mit Ihrer E-Mail-Adresse und nutzen Sie die [Vorlage]({{< relref "templates/events/festival-planner" >}}) für Ihr nächstes Festival.

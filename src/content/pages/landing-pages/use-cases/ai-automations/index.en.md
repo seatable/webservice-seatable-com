@@ -104,7 +104,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_03.png
         image_alt: 'SeaTable invoice processing with AI function'
       - headline: IT Support
-        text: Support requests or [internal tickets]({{< relref "templates/it-engineering/it-helpdesk" >}}) are **automatically analyzed, categorized, and prioritized** before being forwarded to the responsible employees. Technical comments from IT administrators are converted into concise descriptions for customers and end users. This reduces the manual effort required for classification and documentation while increasing quality and transparency—in compliance with IT service management.
+        text: Support requests or [internal tickets]({{< relref "templates/software-development/it-helpdesk" >}}) are **automatically analyzed, categorized, and prioritized** before being forwarded to the responsible employees. Technical comments from IT administrators are converted into concise descriptions for customers and end users. This reduces the manual effort required for classification and documentation while increasing quality and transparency—in compliance with IT service management.
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Classify tickets directly using AI functions'
       - headline: Document and contract analysis

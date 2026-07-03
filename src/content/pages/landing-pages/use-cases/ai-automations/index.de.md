@@ -104,7 +104,7 @@ sections:
         image: /images/landing_page_ki-automatisierung_03.png
         image_alt: 'SeaTable Rechnungsverarbeitung mit KI-Funktion'
       - headline: IT-Support
-        text: Supportanfragen oder [interne Tickets]({{< relref "templates/it-engineering/it-helpdesk" >}}) werden **automatisch analysiert, kategorisiert und priorisiert**, bevor sie an zuständige Mitarbeiter weitergeleitet werden. Aus technischen Kommentaren der IT-Admins werden prägnante Kurzbeschreibungen für Kunden und Endanwender erzeugt. Der manuelle Aufwand für Klassifikation und Dokumentation sinkt, während die Qualität und Transparenz steigt – in Compliance mit dem [IT-Service-Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
+        text: Supportanfragen oder [interne Tickets]({{< relref "templates/software-development/it-helpdesk" >}}) werden **automatisch analysiert, kategorisiert und priorisiert**, bevor sie an zuständige Mitarbeiter weitergeleitet werden. Aus technischen Kommentaren der IT-Admins werden prägnante Kurzbeschreibungen für Kunden und Endanwender erzeugt. Der manuelle Aufwand für Klassifikation und Dokumentation sinkt, während die Qualität und Transparenz steigt – in Compliance mit dem [IT-Service-Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
         image: /images/landing_page_ki-automatisierung_04.png
         image_alt: 'Tickets direkt über KI-Funktionen klassifizieren'
       - headline: Dokumenten- und Vertragsanalyse

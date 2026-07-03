@@ -160,7 +160,7 @@ sections:
       - headline: Alternative aux listes statiques 
         text: 'Organisez votre année de jardinage avec SeaTable bien plus librement qu’avec des notes ou des tableurs, et utilisez données liées, filtres et vues pour créer votre plan de plantation de façon structurée et en créer un nouveau au besoin.'
       - headline: Reliez le jardin et le budget
-        text: 'Complétez votre planification des planches par un [livre de comptes]({{< relref "templates/everyday-life/budget-book" >}}) pour suivre les dépenses en semences, terreau, engrais ou accessoires, idéal pour créer votre plan de plantation tout en gardant l’œil sur les coûts.'
+        text: 'Complétez votre planification des planches par un [livre de comptes]({{< relref "templates/finance/budget-book" >}}) pour suivre les dépenses en semences, terreau, engrais ou accessoires, idéal pour créer votre plan de plantation tout en gardant l’œil sur les coûts.'
       - headline: Données stockées en sécurité
         text: 'Avec SeaTable Cloud ou l’IA intégrée, vos données sont traitées en Europe et hébergées dans des centres de données allemands. Vous gérez ainsi votre plan de plantation, vos notes de jardin et vos observations saisonnières en toute confiance.'
       - headline: Protégez mieux votre compte 

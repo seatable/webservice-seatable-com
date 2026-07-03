@@ -26,7 +26,7 @@ Des Weiteren existieren Kundendatenbanken für das Speichern der Interessen, Kon
 
 ## Was sind die Vorteile von Online-Datenbanken gegenüber herkömmlichen?
 
-Online-Datenbanken sind entweder kostenlos verfügbar oder werden monatlich bezahlt. Sie zahlen nur das, was Sie an Speicherkapazität auch belegt haben. Zusätzlich müssen Sie keine eigene Hardware anschaffen und [sparen Kosten]({{< relref "templates/everyday-life/budget-book" >}}) bei der Installation.
+Online-Datenbanken sind entweder kostenlos verfügbar oder werden monatlich bezahlt. Sie zahlen nur das, was Sie an Speicherkapazität auch belegt haben. Zusätzlich müssen Sie keine eigene Hardware anschaffen und [sparen Kosten]({{< relref "templates/finance/budget-book" >}}) bei der Installation.
 
 Ein weiterer Vorteil ist, dass Sie einen Service erwerben. Die Anbieter haben meist ihre eigene IT-Abteilung. Dadurch entlasten Sie Ihre eigenen Mitarbeiter. Niemand, der die Datenbank erstellen und bedienen soll, benötigt tief gehende Programmierkenntnisse. Auch die Eingabe von Daten kann per Import oder Webformular geschehen.
 

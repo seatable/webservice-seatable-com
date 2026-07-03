@@ -156,7 +156,7 @@ sections:
       - q: "¿Puedo importar mi diario de alergias existente desde Excel u otra app?"
         a: 'Sí, puede importar sin problemas archivos [CSV]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}) o [XLSX]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) en SeaTable. Así puede trasladar fácilmente registros de síntomas ya existentes desde Excel u otras herramientas.'
       - q: "¿Puedo añadir más alérgenos y observar varias alergias a la vez?"
-        a: 'Sí, puede ampliar el calendario de alergia al polen de la plantilla con todos los tipos de polen y alérgenos que quiera y vincular sus entradas en consecuencia. También se pueden reflejar alergias cruzadas. Si además sospecha de una alergia alimentaria, le recomendamos consultar nuestra [plantilla de diario de alimentación]({{< relref "templates/healthcare/food-diary" >}}).'
+        a: 'Sí, puede ampliar el calendario de alergia al polen de la plantilla con todos los tipos de polen y alérgenos que quiera y vincular sus entradas en consecuencia. También se pueden reflejar alergias cruzadas. Si además sospecha de una alergia alimentaria, le recomendamos consultar nuestra [plantilla de diario de alimentación]({{< relref "templates/everyday-life/food-diary" >}}).'
       - q: "¿Necesito conocimientos técnicos para adaptar el diario a mis necesidades?"
         a: 'No, SeaTable es una solución no-code y, por lo general, no requiere conocimientos técnicos. Puede ajustar todos los ajustes, tablas y páginas de la app sin programar. Los nuevos campos de entrada o vistas se crean arrastrando y soltando.'
       - q: "¿El diario de alergias de SeaTable es gratuito de forma permanente?"

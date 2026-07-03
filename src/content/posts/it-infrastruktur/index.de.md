@@ -182,7 +182,7 @@ Als [KI No-Code-Plattform]({{< relref "/" >}}) kann SeaTable Ihr Remote IT Team 
 
 *   [automatisierte und KI-gestützte Prozesse]({{< relref "pages/landing-pages/use-cases/ai-automations" >}})
 *   [Inventarisierung von Geräten]({{< relref "templates/operations/inventory-list" >}})
-*   [Bug Tracking]({{< relref "templates/it-engineering/bug-tracker" >}}) und [Software Testing]({{< relref "posts/20250318-software-testing" >}})
+*   [Bug Tracking]({{< relref "templates/software-development/bug-tracker" >}}) und [Software Testing]({{< relref "posts/20250318-software-testing" >}})
 *   [Incident Management]({{< relref "posts/20250612-incident-management" >}}) und [Ticketing]({{< relref "posts/20250521-ticketing-system" >}})
 *   [relationale Datenbanken]({{< relref "posts/relationale-datenbank" >}})
 *   [Citizen Development]({{< relref "posts/20250317-citizen-developer" >}})

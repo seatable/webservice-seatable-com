@@ -48,7 +48,7 @@ A preparação da oferta lança as bases para a sua gestão óptima da oferta e 
 Após as discussões iniciais com o potencial novo cliente, conhece as suas "necessidades" e quais as soluções que o ajudarão. Agora é tempo de dar o segundo passo da gestão da oferta, a preparação da oferta. Mas o que deve constar da oferta? Estará do lado seguro se considerar estes quatro aspectos:
 
 - Especificação da solução
-- [Cálculo do preço]({{< relref "templates/everyday-life/budget-book" >}})
+- [Cálculo do preço]({{< relref "templates/finance/budget-book" >}})
 - Preparação de uma oferta escrita
 - Envio da oferta escrita ao cliente
 

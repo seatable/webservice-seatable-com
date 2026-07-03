@@ -165,7 +165,7 @@ sections:
       - headline: Alternativa a las listas de asistencia fijas 
         text: 'Organice sus asistencias con SeaTable, una potente [alternativa a Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}) mucho más eficiente, gracias a las tablas vinculadas, las vistas personalizadas, los formularios web y las automatizaciones para centros educativos, equipos de RR. HH. y organizadores de eventos.'
       - headline: Formación, RR. HH. y eventos unidos
-        text: 'Vincule su plantilla de lista de asistencia con la [plantilla de planificación de eventos]({{< relref "templates/marketing/event-management" >}}) o otros [procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) y utilice SeaTable como alternativa central a Excel. De este modo, podrá gestionar citas, participantes, comentarios y justificantes en un solo sistema.'
+        text: 'Vincule su plantilla de lista de asistencia con la [plantilla de planificación de eventos]({{< relref "templates/events/event-management" >}}) o otros [procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) y utilice SeaTable como alternativa central a Excel. De este modo, podrá gestionar citas, participantes, comentarios y justificantes en un solo sistema.'
       - headline: Conforme al RGPD
         text: 'Si utiliza SeaTable Cloud o la IA integrada, todos los datos relacionados con los participantes permanecen en Europa: la infraestructura se gestiona exclusivamente en servidores ubicados en Alemania.'
       - headline: 2FA y SSO 

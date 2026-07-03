@@ -15,7 +15,7 @@ seo:
 weight: 14
 ---
 
-Una **vista Kanban** está predestinada a visualizar procesos dinámicos con diferentes fases. En este sentido, permite visualizar **flujos de trabajo** y **progresos de proyectos**, por ejemplo. Es especialmente útil para la [planificación de proyectos]({{< relref "templates/projects/project-plan" >}}), el [desarrollo de software]({{< relref "templates/it-engineering/bug-tracker" >}}) o la distribución de tareas dentro de un equipo.
+Una **vista Kanban** está predestinada a visualizar procesos dinámicos con diferentes fases. En este sentido, permite visualizar **flujos de trabajo** y **progresos de proyectos**, por ejemplo. Es especialmente útil para la [planificación de proyectos]({{< relref "templates/projects/project-plan" >}}), el [desarrollo de software]({{< relref "templates/software-development/bug-tracker" >}}) o la distribución de tareas dentro de un equipo.
 
 {{< warning type="warning" headline="Requisitos" >}}
 

@@ -99,8 +99,8 @@ Don't pretend, but present yourself **authentically**. This will give the landlo
 
 ## 10\. keeping an overview when looking for an apartment
 
-Keeping an overview in the real estate jungle is not that easy. Especially if you are interested in several properties, it is easy to get confused. To prevent you from forgetting an apartment or even accidentally contacting it twice, it pays to use a good structure right from the start. The free [template from SeaTable]({{< relref "templates/everyday-life/apartment-hunting" >}}) is ideal for this.
+Keeping an overview in the real estate jungle is not that easy. Especially if you are interested in several properties, it is easy to get confused. To prevent you from forgetting an apartment or even accidentally contacting it twice, it pays to use a good structure right from the start. The free [template from SeaTable]({{< relref "templates/real-estate/apartment-hunting" >}}) is ideal for this.
 
 You can enter your criteria in the template and compare all potential apartments at a glance. In addition to pictures, you can also add the landlord's contact details and dates. After a successful viewing, you can make a note of your impression so that you don't forget any details. Good organization will make your apartment search and the final decision for your dream apartment easier.
 
-To use SeaTable, all you need to do is register for free. You can then add [the template]({{< relref "templates/everyday-life/apartment-hunting" >}}) to your base and add your own data.
+To use SeaTable, all you need to do is register for free. You can then add [the template]({{< relref "templates/real-estate/apartment-hunting" >}}) to your base and add your own data.

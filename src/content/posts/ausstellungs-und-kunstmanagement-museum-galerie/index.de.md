@@ -79,7 +79,7 @@ Das Sammlungsmanagement stellt die zuverlässige Erfassung, Katalogisierung, Ver
 
 Die Stärke von SeaTable liegt darin, dass Sie selbst festlegen, welche Informationen Sie erfassen wollen, und diese beliebig erweitern können. Gleichzeitig können Sie beliebige Verknüpfungen zwischen den unterschiedlichen Informationen herstellen und mithilfe von Rollup-Spalten auch Informationen aus einer anderen Tabelle übernehmen.
 
-Unser Template [Art Gallery Management]({{< relref "templates/public-sector/art-gallery-management" >}}) verfügt über einige Beispieleinträge, um Ihnen die Möglichkeiten darzustellen. Die einzelnen Kunstobjekte stehen im Zentrum des Sammlungsmanagements und sind mit den Künstlern verknüpft. Gleichzeitig wird erfasst, wo sich das Kunstwerk gerade befindet, und es gibt Verlinkungen zu den geplanten Restaurationen und Leihgaben. Eine Erweiterung um öffentliche Referenzen, Schaffensperioden oder Kunstkategorien können jederzeit hinzugefügt werden.
+Unser Template [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) verfügt über einige Beispieleinträge, um Ihnen die Möglichkeiten darzustellen. Die einzelnen Kunstobjekte stehen im Zentrum des Sammlungsmanagements und sind mit den Künstlern verknüpft. Gleichzeitig wird erfasst, wo sich das Kunstwerk gerade befindet, und es gibt Verlinkungen zu den geplanten Restaurationen und Leihgaben. Eine Erweiterung um öffentliche Referenzen, Schaffensperioden oder Kunstkategorien können jederzeit hinzugefügt werden.
 
 ![Objektübersicht des Art Gallery Templates](art-gallery-management-objects.png)
 

@@ -15,7 +15,7 @@ seo:
 weight: 14
 ---
 
-Une **vue Kanban** est prédestinée à la représentation de processus dynamiques avec différentes phases. Dans ce sens, elle vous permet par exemple de visualiser les **flux de travail** et les **avancées des projets**. Elle est particulièrement utile pour la [planification de projet]({{< relref "templates/projects/project-plan" >}}), le [développement de logiciel]({{< relref "templates/it-engineering/bug-tracker" >}}) ou la répartition des tâches au sein d'une équipe.
+Une **vue Kanban** est prédestinée à la représentation de processus dynamiques avec différentes phases. Dans ce sens, elle vous permet par exemple de visualiser les **flux de travail** et les **avancées des projets**. Elle est particulièrement utile pour la [planification de projet]({{< relref "templates/projects/project-plan" >}}), le [développement de logiciel]({{< relref "templates/software-development/bug-tracker" >}}) ou la répartition des tâches au sein d'une équipe.
 
 {{< warning type="warning" headline="Conditions préalables" >}}
 

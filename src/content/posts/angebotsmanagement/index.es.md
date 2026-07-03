@@ -48,7 +48,7 @@ La preparación de la oferta sienta las bases para una gestión óptima de la mi
 Tras las conversaciones iniciales con el nuevo cliente potencial, usted conoce sus "necesidades" y qué soluciones le ayudarán. Ahora es el momento de la segunda etapa de la gestión de la oferta, la preparación de la misma. Pero, ¿qué debe contener la oferta? Si tiene en cuenta estos cuatro aspectos, estará en el lado seguro:
 
 - Especificación de la solución
-- [Cálculo del precio]({{< relref "templates/everyday-life/budget-book" >}})
+- [Cálculo del precio]({{< relref "templates/finance/budget-book" >}})
 - Preparación de una oferta escrita
 - Envío de la oferta escrita al cliente
 

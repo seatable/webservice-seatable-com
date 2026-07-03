@@ -114,7 +114,7 @@ Sin embargo, JabRef también tiene limitaciones: su gestión en dispositivos mó
 
 SeaTable te ofrece una alternativa **basada en tablas** a los programas de gestión bibliográfica tradicionales. Su interfaz es **intuitiva** y cuenta con muchas funciones útiles para estructurar tu literatura de forma rápida y sencilla.
 
-La [plantilla]({{< relref "templates/everyday-life/bibliography" >}}) te da una visión general de cómo usar el programa y adaptarlo a tus necesidades. SeaTable es una base de datos donde puedes introducir tus datos en tablas, vincularlos a tareas y añadir documentos. La **colaboración en equipo** es **en tiempo real**.
+La [plantilla]({{< relref "templates/projects/bibliography" >}}) te da una visión general de cómo usar el programa y adaptarlo a tus necesidades. SeaTable es una base de datos donde puedes introducir tus datos en tablas, vincularlos a tareas y añadir documentos. La **colaboración en equipo** es **en tiempo real**.
 
 SeaTable está disponible como **versión gratuita en la nube** o como programa para tu propio servidor. Si quieres más funciones y colaborar con más usuarios, puedes actualizar: la versión Plus cuesta 7 euros por usuario y mes, y la Enterprise, 14 euros por usuario y mes.
 
@@ -203,6 +203,6 @@ A menudo revisas más fuentes de las que acabas usando. Cuando terminas un proye
 
 El programa más adecuado para ti depende de las funciones que necesites y de cuánto estés dispuesto a invertir. Es recomendable probar los programas gratuitamente.
 
-SeaTable te ofrece una [plantilla]({{< relref "templates/everyday-life/bibliography" >}}) con literatura de ejemplo y el proceso completo, desde la incorporación de fuentes hasta la generación de la bibliografía. Puedes adaptarla a tus necesidades, añadir tus propias fuentes y estructurarlas y visualizarlas con muchas herramientas útiles.
+SeaTable te ofrece una [plantilla]({{< relref "templates/projects/bibliography" >}}) con literatura de ejemplo y el proceso completo, desde la incorporación de fuentes hasta la generación de la bibliografía. Puedes adaptarla a tus necesidades, añadir tus propias fuentes y estructurarlas y visualizarlas con muchas herramientas útiles.
 
 Si quieres usar SeaTable como programa de gestión bibliográfica, [regístrate]({{< relref "pages/registration" >}}) gratis.

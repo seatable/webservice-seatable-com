@@ -236,7 +236,7 @@ Utilice tamaños de viaje para los artículos de aseo, para ahorrar espacio y cu
 
 ## Conclusión: Relájese en vacaciones con su lista de control
 
-Tanto si en el pasado era usted de los que hacían la maleta en el último momento como de los que planifican con visión de futuro, en el futuro podrá empezar sus vacaciones sin estrés innecesario y con todo lo esencial en su equipaje. La [plantilla gratuita]({{< relref "templates/everyday-life/travel-planner" >}}) de SeaTable le ahorrará un tiempo valioso y hará que los preparativos de sus próximas vacaciones sean eficientes y sin estrés.
+Tanto si en el pasado era usted de los que hacían la maleta en el último momento como de los que planifican con visión de futuro, en el futuro podrá empezar sus vacaciones sin estrés innecesario y con todo lo esencial en su equipaje. La [plantilla gratuita]({{< relref "templates/events/travel-planner" >}}) de SeaTable le ahorrará un tiempo valioso y hará que los preparativos de sus próximas vacaciones sean eficientes y sin estrés.
 
 En la plantilla no sólo encontrará una lista de comprobación de vacaciones personalizable de forma flexible con todas las tareas pendientes, sino también otras funciones útiles: Recopile todas las ideas y lugares que desea visitar, cree un calendario claro y visualice en un mapa todos los lugares de las actividades previstas. También puede capturar todos los recuerdos maravillosos durante su viaje, añadir fotos y anotar dónde y cuándo tuvieron lugar esos momentos especiales.
 
@@ -244,4 +244,4 @@ También hay disponible una aplicación para simplificar la planificación del v
 
 ![Presupuesto en la aplicación de viajes SeaTable](Travel-App.png)
 
-[Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo para beneficiarse de estas prácticas funciones y organizar su próximo viaje sin estrés. Después podrás utilizar la [plantilla]({{< relref "templates/everyday-life/travel-planner" >}}) en tu espacio de trabajo personal de SeaTable, rellenarla con tus propios datos y compartirla con tus compañeros de viaje a través de la app.
+[Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo para beneficiarse de estas prácticas funciones y organizar su próximo viaje sin estrés. Después podrás utilizar la [plantilla]({{< relref "templates/events/travel-planner" >}}) en tu espacio de trabajo personal de SeaTable, rellenarla con tus propios datos y compartirla con tus compañeros de viaje a través de la app.

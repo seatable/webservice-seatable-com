@@ -156,7 +156,7 @@ Um Ihr Rahmenprogramm interessanter zu gestalten und sicherzustellen, dass Ihre 
 
 Wenn Sie Veranstaltungen verwalten, spielen Einladungen eine entscheidende Rolle für Ihren Erfolg. Durch die Verwendung personalisierter Einladungen können Sie die Teilnehmerzahl effektiv steigern. Zudem kann das Versenden von “Save the Date”-Benachrichtigungen während der Planungsphase dazu beitragen, das Interesse frühzeitig zu wecken und sicherzustellen, dass Ihre Gäste den Termin freihalten.
 
-Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular]({{< relref "help/base-editor/webformulare" >}}) im vorgefertigten [Template]({{< relref "templates/marketing/event-management" >}}) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
+Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular]({{< relref "help/base-editor/webformulare" >}}) im vorgefertigten [Template]({{< relref "templates/events/event-management" >}}) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
 
 ![Einladungen versenden mit SeaTable via Webformular](Einladungskommunikation.jpg)
 

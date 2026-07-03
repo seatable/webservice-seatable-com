@@ -51,7 +51,7 @@ En los niveles 2 y 3, tiene la opción de **ordenar** las entradas **alfabética
 
 ## Ejemplo de aplicación del plugin Árbol
 
-Un buen ejemplo del uso del plugin Árbol es un [rastreador de errores]({{< relref "templates/it-engineering/bug-tracker" >}}). En él puedes registrar las versiones de un software, las pruebas realizadas y los errores de software encontrados en tres tablas diferentes. Mediante un diagrama de árbol, ahora puedes visualizar todos estos datos en una vista general.
+Un buen ejemplo del uso del plugin Árbol es un [rastreador de errores]({{< relref "templates/software-development/bug-tracker" >}}). En él puedes registrar las versiones de un software, las pruebas realizadas y los errores de software encontrados en tres tablas diferentes. Mediante un diagrama de árbol, ahora puedes visualizar todos estos datos en una vista general.
 
 Una vez seleccionadas las tablas vinculadas en los ajustes, puede ver y abrir las entradas agrupadas en el diagrama de árbol. Inicialmente, sin embargo, sólo se muestran las entradas del primer nivel (aquí: versiones de software). Para ampliar los registros de datos subyacentes, haga clic en la **flecha desplegable** situada a la izquierda de la entrada.
 
