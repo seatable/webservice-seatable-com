@@ -51,7 +51,7 @@ Wenn Sie sich nicht sicher sind, was die zu beschenkende Person mag, scheuen Sie
 
 Unter 10 Euro, ganz ohne Ausgaben oder so viel Geld, wie eben nötig ist? Legen Sie Ihr Budget fest, bevor Sie beginnen, Inhalte und Verpackungen zu planen.
 
-Wie viel Sie für einen Adventskalender ausgeben, sollten Sie von der Person abhängig machen, die ihn bekommt. So können Sie für Familie und Freunde zum Beispiel mehr Geld einplanen als für entfernte Verwandte oder Arbeitskollegen. Falls Sie sich in einer Gruppe gegenseitig Adventskalender schenken, wird meist ein maximaler Betrag festgelegt. Eine kostenlose Option ist ein digitaler Adventskalender. [Hier]({{< relref "templates/events/advent-calendar" >}}) finden Sie eine hilfreiche Vorlage.
+Wie viel Sie für einen Adventskalender ausgeben, sollten Sie von der Person abhängig machen, die ihn bekommt. So können Sie für Familie und Freunde zum Beispiel mehr Geld einplanen als für entfernte Verwandte oder Arbeitskollegen. Falls Sie sich in einer Gruppe gegenseitig Adventskalender schenken, wird meist ein maximaler Betrag festgelegt. Eine kostenlose Option ist ein digitaler Adventskalender. [Hier]({{< relref "templates/everyday-life/advent-calendar" >}}) finden Sie eine hilfreiche Vorlage.
 
 Sobald Sie einen ungefähren Wert bestimmt haben, können Sie mit der weiteren Planung beginnen.
 
@@ -163,7 +163,7 @@ Es gibt viel zu besorgen und wenig Zeit. Damit Sie alles, was Sie brauchen, auch
 
 ### Online planen, mit was Sie Ihre Adventskalender befüllen
 
-Gerade wenn Sie mehrere Adventskalender selber machen, kann es schnell chaotisch werden. Bei der Vorbereitung hilft Ihnen der individuell anpassbare [Online-Planer von SeaTable]({{< relref "templates/events/advent-calendar" >}}). Tragen Sie ein, was Sie für Ihre Adventskalender brauchen, und sehen Sie auf einen Blick, welche Mengen Sie kaufen müssen und hinter welchem Türchen Sie welche Geschenke verstecken.
+Gerade wenn Sie mehrere Adventskalender selber machen, kann es schnell chaotisch werden. Bei der Vorbereitung hilft Ihnen der individuell anpassbare [Online-Planer von SeaTable]({{< relref "templates/everyday-life/advent-calendar" >}}). Tragen Sie ein, was Sie für Ihre Adventskalender brauchen, und sehen Sie auf einen Blick, welche Mengen Sie kaufen müssen und hinter welchem Türchen Sie welche Geschenke verstecken.
 
 Selbst wenn Sie ein Dutzend private Adventskalender befüllen, verlieren Sie durch die verschiedenen Ansichten, die nach Personen geordnet sind, nie den Überblick (Tabelle 2 & 3).
 
@@ -175,4 +175,4 @@ Zur Erstellung Ihres virtuellen Adventskalenders können Sie SeaTable nutzen. De
 
 ![Private Advent Calendar](Private-Advent-Calendar.png)
 
-Wenn Sie SeaTable nutzen möchten, um analoge und/oder digitale Adventskalender zu erstellen, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos mit Ihrer E-Mail-Adresse. Die ebenfalls kostenlose Vorlage finden Sie [hier]({{< relref "templates/events/advent-calendar" >}}).
+Wenn Sie SeaTable nutzen möchten, um analoge und/oder digitale Adventskalender zu erstellen, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos mit Ihrer E-Mail-Adresse. Die ebenfalls kostenlose Vorlage finden Sie [hier]({{< relref "templates/everyday-life/advent-calendar" >}}).

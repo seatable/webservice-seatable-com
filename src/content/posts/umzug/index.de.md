@@ -174,4 +174,4 @@ Damit Ihr nächster Umzug möglichst stressfrei abläuft, hat das Team von SeaTa
 
 ![Umzugsplan](Umzugsplan.png)
 
-Wenn Sie SeaTable für Ihre Umzugsplanung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/real-estate/moving-plan" >}}).
+Wenn Sie SeaTable für Ihre Umzugsplanung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/moving-plan" >}}).

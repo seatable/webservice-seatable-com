@@ -163,7 +163,7 @@ sections:
       - q: Que funcionalidades de IA o aplicativo de guarda-roupa suporta?
         a: Com as automações integradas suportadas por IA, as nossas funções padrão Summarize, Classify, Extract e OCR, bem como o Prompt Personalizado, estão disponíveis para si com uma subscrição Enterprise. Isto permite-lhe avaliar recibos de compra e faturas, extrair texto de imagens, categorizar itens de vestuário ou gerar sugestões de conjuntos, por exemplo.
       - q: É possível conectar o meu guarda-roupa digital a outros modelos?
-        a: Certamente, é possível combinar o seu modelo com outros modelos SeaTable adequados, como o [livro de orçamento doméstico]({{< relref "templates/finance/budget-book" >}}) ou o [planejador de férias]({{< relref "templates/events/travel-planner" >}}), ou vinculá-lo a outras ferramentas que você utiliza por meio de [integrações]({{< relref "pages/integrations" >}}).
+        a: Certamente, é possível combinar o seu modelo com outros modelos SeaTable adequados, como o [livro de orçamento doméstico]({{< relref "templates/everyday-life/budget-book" >}}) ou o [planejador de férias]({{< relref "templates/everyday-life/travel-planner" >}}), ou vinculá-lo a outras ferramentas que você utiliza por meio de [integrações]({{< relref "pages/integrations" >}}).
       - q: É possível salvar fotos de roupas e combinações? 
         a: Sim, é possível guardar fotos, vídeos e outros ficheiros e associá-los às suas roupas e conjuntos guardados. 
       - q: O uso de IA no SeaTable está em conformidade com o GDPR?

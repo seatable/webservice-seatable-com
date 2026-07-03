@@ -99,9 +99,9 @@ Klarna itself also offers the option of setting budgets to keep your spending un
 
 ## Budget book from SeaTable
 
-A well-structured **budget book** is extremely useful for recording and analyzing your expenses in detail. SeaTable offers a free [template]({{< relref "templates/finance/budget-book" >}}) that allows you to keep your financial affairs under control without losing **track**.
+A well-structured **budget book** is extremely useful for recording and analyzing your expenses in detail. SeaTable offers a free [template]({{< relref "templates/everyday-life/budget-book" >}}) that allows you to keep your financial affairs under control without losing **track**.
 
-With SeaTable's [budget planner]({{< relref "templates/finance/budget-book" >}}), you can easily record all your expenses and income and calculate your budget. Distinguish between **one-off expenses** and **regular costs** to get a clear overview. Whether it's monthly streaming services or spontaneous leisure activities - you can enter everything in your budget planner. In this way, you can **analyze** your **consumer behavior** and **identify** your **savings potential**.
+With SeaTable's [budget planner]({{< relref "templates/everyday-life/budget-book" >}}), you can easily record all your expenses and income and calculate your budget. Distinguish between **one-off expenses** and **regular costs** to get a clear overview. Whether it's monthly streaming services or spontaneous leisure activities - you can enter everything in your budget planner. In this way, you can **analyze** your **consumer behavior** and **identify** your **savings potential**.
 
 Thanks to the practical **calendar**, you can also keep an eye on the due date of certain expenses so that you don't miss any payment deadlines and aren't surprised by unexpected direct debits.
 

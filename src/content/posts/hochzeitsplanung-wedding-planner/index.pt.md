@@ -20,7 +20,7 @@ Um dos dias mais bonitos e importantes da vida está mesmo ao virar da esquina: 
 
 ## Lista de controlo de planeamento do casamento com mais de 200 doses
 
-Normalmente, o planeamento de um casamento começa cerca de 13 meses antes do grande dia. Se quiser ter um local de casamento popular, por vezes até mais cedo. É importante não perder de vista o grande número de tarefas. É por isso que no centro do nosso modelo de Wedding [Planner]({{< relref "templates/events/wedding-planner" >}}) está a _lista de verificação_ com mais de 200 tarefas pré-definidas. Além disso, esta tabela regista quando a tarefa correspondente deve ser completada. Há sempre uma tarefa superordenada, que contém vários subitens individuais para o guiar ao longo de todo o processo. A coluna de _verificação_ é uma [coluna de caixa de verificação]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) que é utilizada para marcar as doses completadas.
+Normalmente, o planeamento de um casamento começa cerca de 13 meses antes do grande dia. Se quiser ter um local de casamento popular, por vezes até mais cedo. É importante não perder de vista o grande número de tarefas. É por isso que no centro do nosso modelo de Wedding [Planner]({{< relref "templates/everyday-life/wedding-planner" >}}) está a _lista de verificação_ com mais de 200 tarefas pré-definidas. Além disso, esta tabela regista quando a tarefa correspondente deve ser completada. Há sempre uma tarefa superordenada, que contém vários subitens individuais para o guiar ao longo de todo o processo. A coluna de _verificação_ é uma [coluna de caixa de verificação]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#checkbox) que é utilizada para marcar as doses completadas.
 
 ![Lista de controlo de planeamento de casamentos](wedding-more-than-200-todos.png)
 
@@ -32,7 +32,7 @@ Para começar a planear o seu próprio casamento, precisa de [se registar para u
 
 Pode inserir doses adicionais ou posteriores em qualquer ponto do modelo. Quando se atribui um novo _Parent To-do_, é automaticamente criado um novo grupo de tarefas. A ordenação dos grupos de tarefas é feita automaticamente com base no tempo de espera para o seu casamento. Deseja acrescentar uma data específica às tarefas? Basta adicionar uma nova [coluna de datas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#datum) e atribuir uma data a cada um dos afazeres.
 
-[Clique aqui para ir directamente para o modelo para o seu planeamento de casamento]({{< relref "templates/events/wedding-planner" >}})
+[Clique aqui para ir directamente para o modelo para o seu planeamento de casamento]({{< relref "templates/everyday-life/wedding-planner" >}})
 
 ## SeaTable ajuda-o a tomar decisões importantes
 

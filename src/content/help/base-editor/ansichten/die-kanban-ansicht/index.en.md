@@ -15,7 +15,7 @@ seo:
 weight: 14
 ---
 
-A **Kanban view** is predestined to visualize dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. It is particularly helpful for [project planning]({{< relref "templates/projects/project-plan" >}}), [software development]({{< relref "templates/software-development/bug-tracker" >}}) or task distribution within a team.
+A **Kanban view** is predestined to visualize dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. It is particularly helpful for [project planning]({{< relref "templates/projects/project-plan" >}}), [software development]({{< relref "templates/it-engineering/bug-tracker" >}}) or task distribution within a team.
 
 {{< warning type="warning" headline="Requirements" >}}
 

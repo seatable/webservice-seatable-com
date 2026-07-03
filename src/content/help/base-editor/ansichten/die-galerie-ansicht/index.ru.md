@@ -17,7 +17,7 @@ seo:
 weight: 12
 ---
 
-В представлении **Галерея** используются предварительные изображения из [колонки изображений]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) для наглядной организации записей данных в виде плиток. Несколько изображений объединяются в **альбом**. Такое отображение подходит для различных случаев использования, например, для [профилей сотрудников]({{< relref "templates/human-resources/employee-directory" >}}), [библиотек продуктов]({{< relref "templates/product-design/product-library" >}}), [инвентарных списков]({{< relref "templates/operations/inventory-list" >}}) или [управления коллекциями]({{< relref "templates/operations/art-gallery-management" >}}).
+В представлении **Галерея** используются предварительные изображения из [колонки изображений]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) для наглядной организации записей данных в виде плиток. Несколько изображений объединяются в **альбом**. Такое отображение подходит для различных случаев использования, например, для [профилей сотрудников]({{< relref "templates/human-resources/employee-directory" >}}), [библиотек продуктов]({{< relref "templates/product-design/product-library" >}}), [инвентарных списков]({{< relref "templates/operations/inventory-list" >}}) или [управления коллекциями]({{< relref "templates/public-sector/art-gallery-management" >}}).
 
 ![Вид галереи](images/gallery-view.jpg)
 

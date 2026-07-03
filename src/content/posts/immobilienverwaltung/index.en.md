@@ -61,7 +61,7 @@ Flat hunting with SeaTable - Leave nothing to chance.
 
 The search for a new apartment is notoriously difficult, especially in metropolitan areas. The apartments on offer often do not match individual requirements in terms of rent, location, rooms and furnishings. After the fifth viewing at the latest, you also start to lose track of the properties. Therefore, make a note of all the pros and cons of the apartments you view in one place, compare certain criteria such as the [price-performance ratio](https://de.wikipedia.org/wiki/Preis-Leistungs-Verhältnis) and you will find that the decision is easier in the end.
 
-With our [apartment search template]({{< relref "templates/real-estate/apartment-hunting" >}}), you can record all information, data and documents about the apartments in a simple and structured way. Save photos, floor plans, living space, rental price and everything else you noticed during the property viewing in a clear table. Assign a rating and make the right decision easier, safer and faster.
+With our [apartment search template]({{< relref "templates/everyday-life/apartment-hunting" >}}), you can record all information, data and documents about the apartments in a simple and structured way. Save photos, floor plans, living space, rental price and everything else you noticed during the property viewing in a clear table. Assign a rating and make the right decision easier, safer and faster.
 
 ## Start planning your next move
 
@@ -71,7 +71,7 @@ Your next move planning will be a breeze with SeaTable.
 
 We've all moved house in our lives and know how nerve-wracking a move can be. After the third packed box at the latest, you lose track of what is packed where and get bogged down in confusing to-do lists.
 
-You can significantly reduce your stress level with our [template for your next move]({{< relref "templates/real-estate/moving-plan" >}}). The template helps you to record exactly what you have packed where and how it gets from your old home to your new one.
+You can significantly reduce your stress level with our [template for your next move]({{< relref "templates/everyday-life/moving-plan" >}}). The template helps you to record exactly what you have packed where and how it gets from your old home to your new one.
 
 Our relocation template also provides a to-do list for other tasks that need to be completed by a certain date. So don't forget to set up the redirection request for the post office or cancel contracts relating to the old property in good time. Try it out! The next move is sure to come.
 

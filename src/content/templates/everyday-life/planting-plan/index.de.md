@@ -160,7 +160,7 @@ sections:
       - headline: Alternative zu statischen Gartenlisten 
         text: 'Organisieren Sie Ihr Gartenjahr mit SeaTable deutlich flexibler als mit Notizzetteln oder Tabellen und nutzen Sie verknüpfte Daten, Filter und Ansichten, um Ihren Pflanzplan strukturiert zu erstellen und bei Bedarf schnell einen neuen Pflanzplan zu erstellen.'
       - headline: Pflanzung und Haushalt verbinden
-        text: 'Ergänzen Sie Ihre Beetplanung bei Bedarf um ein  [Haushaltsbuch]({{< relref "templates/finance/budget-book" >}}), um Ausgaben für Saatgut, Erde, Dünger oder Gartenzubehör direkt nachvollziehbar zu dokumentieren – perfekt, wenn Sie Ihren Pflanzplan erstellen und gleichzeitig den Überblick über Kosten behalten möchten.'
+        text: 'Ergänzen Sie Ihre Beetplanung bei Bedarf um ein  [Haushaltsbuch]({{< relref "templates/everyday-life/budget-book" >}}), um Ausgaben für Saatgut, Erde, Dünger oder Gartenzubehör direkt nachvollziehbar zu dokumentieren – perfekt, wenn Sie Ihren Pflanzplan erstellen und gleichzeitig den Überblick über Kosten behalten möchten.'
       - headline: Daten sicher gespeichert
         text: 'Wenn Sie SeaTable Cloud oder die integrierte KI nutzen, werden Ihre Daten in Europa verarbeitet und in deutschen Rechenzentren gehostet. So können Sie Ihren Pflanzplan, persönliche Gartennotizen und saisonale Beobachtungen mit einem guten Gefühl digital verwalten.'
       - headline: Eigenes Konto besser schützen 

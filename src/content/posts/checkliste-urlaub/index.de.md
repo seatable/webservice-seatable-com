@@ -210,7 +210,7 @@ Verwenden Sie Reisegrößen für Hygieneartikel, um Platz zu sparen und den Flü
 
 ## Fazit: Entspannt mit Ihrer Checkliste in den Urlaub
 
-Egal, ob Sie in der Vergangenheit ein Last-Minute-Packer oder ein vorausschauender Planer waren – in Zukunft können Sie ohne unnötige Hektik und mit allen essentiellen Dingen im Gepäck in den Urlaub starten. Mit dem [kostenlosen Template]({{< relref "templates/events/travel-planner" >}}) von SeaTable sparen Sie künftig wertvolle Zeit und gestalten Ihre Reisevorbereitungen für den anstehenden Urlaub effizient und stressfrei.
+Egal, ob Sie in der Vergangenheit ein Last-Minute-Packer oder ein vorausschauender Planer waren – in Zukunft können Sie ohne unnötige Hektik und mit allen essentiellen Dingen im Gepäck in den Urlaub starten. Mit dem [kostenlosen Template]({{< relref "templates/everyday-life/travel-planner" >}}) von SeaTable sparen Sie künftig wertvolle Zeit und gestalten Ihre Reisevorbereitungen für den anstehenden Urlaub effizient und stressfrei.
 
 In der Vorlage finden Sie nicht nur eine flexibel anpassbare Urlaubs-Checkliste mit allen To-dos, sondern auch andere nützliche Funktionen: Sammeln Sie alle Ideen und Orte, die Sie besuchen möchten, erstellen Sie einen übersichtlichen Zeitplan und visualisieren Sie alle Standorte Ihrer geplanten Aktivitäten auf einer Karte. Sie können auch all die wunderbaren Erinnerungen während Ihrer Reise festhalten, Fotos hinzufügen und notieren, wo und wann diese besonderen Momente stattfanden.
 
@@ -218,4 +218,4 @@ Zur Vereinfachung der Reiseplanung steht Ihnen zudem eine App zur Verfügung. Mi
 
 ![Budget Dashboard in SeaTable's Travel App](Travel-App.png)
 
-[Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute kostenlos, um von diesen praktischen Funktionen zu profitieren und Ihre nächste Reise stressfrei zu organisieren. Daraufhin können Sie die [Vorlage]({{< relref "templates/events/travel-planner" >}}) in Ihrem persönlichen SeaTable Arbeitsbereich nutzen, mit ihren eigenen Daten füllen und via App mit Ihren Mitreisenden teilen.
+[Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute kostenlos, um von diesen praktischen Funktionen zu profitieren und Ihre nächste Reise stressfrei zu organisieren. Daraufhin können Sie die [Vorlage]({{< relref "templates/everyday-life/travel-planner" >}}) in Ihrem persönlichen SeaTable Arbeitsbereich nutzen, mit ihren eigenen Daten füllen und via App mit Ihren Mitreisenden teilen.

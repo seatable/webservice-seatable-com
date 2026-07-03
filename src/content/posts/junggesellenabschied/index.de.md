@@ -174,8 +174,8 @@ Einige Junggesellenabschiede haben bestimmte Themen oder Farben.
 
 ## Online-Planer für den perfekten Junggesellen- oder Junggesellinnenabschied
 
-Stehen Sie vor der Herausforderung, den ultimativen Junggesellenabschied für Ihren besten Freund oder Ihre beste Freundin zu planen? Kein Grund zur Sorge! Mit der [kostenlosen Vorlage]({{< relref "templates/events/hen-stag-party-planner" >}}) von SeaTable können Sie Ihre Planung mühelos realisieren.
+Stehen Sie vor der Herausforderung, den ultimativen Junggesellenabschied für Ihren besten Freund oder Ihre beste Freundin zu planen? Kein Grund zur Sorge! Mit der [kostenlosen Vorlage]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) von SeaTable können Sie Ihre Planung mühelos realisieren.
 
 Die Vorlage lässt sich einfach an Ihre Bedürfnisse anpassen, indem Sie die Beispieleinträge löschen und Ihre eigenen Daten eintragen. In SeaTable können Sie Daten so anschaulich ordnen und visualisieren, dass Sie stets den Überblick über Aktivitäten, To-dos, Gäste und Finanzen behalten.
 
-SeaTable unterstützt aber nicht nur Trauzeugen: Auch die zukünftigen Eheleute können SeaTable als kostenlosen [Hochzeitsplaner]({{< relref "templates/events/wedding-planner" >}}) nutzen, um den schönsten Tag ihres Lebens perfekt zu gestalten. Um sich kostenlos zu registrieren, geben Sie [hier]({{< relref "pages/registration" >}}) Ihre E-Mail-Adresse an.
+SeaTable unterstützt aber nicht nur Trauzeugen: Auch die zukünftigen Eheleute können SeaTable als kostenlosen [Hochzeitsplaner]({{< relref "templates/everyday-life/wedding-planner" >}}) nutzen, um den schönsten Tag ihres Lebens perfekt zu gestalten. Um sich kostenlos zu registrieren, geben Sie [hier]({{< relref "pages/registration" >}}) Ihre E-Mail-Adresse an.

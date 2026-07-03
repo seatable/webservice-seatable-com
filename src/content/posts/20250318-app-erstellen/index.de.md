@@ -170,7 +170,7 @@ Nun, da Sie die Grundlagen der Universal App beherrschen, probieren Sie doch mal
 
 **Tipp**:
 
-Wenn Sie noch ein wenig stöbern und weitere Funktionen der Apps entdecken möchten, werfen Sie doch einen Blick auf die Vorlagen [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}) oder [Reiseplaner]({{< relref "templates/events/travel-planner" >}}). Diese enthalten bereits vollständig ausgearbeitete Apps, die Sie sofort nutzen und anpassen können.
+Wenn Sie noch ein wenig stöbern und weitere Funktionen der Apps entdecken möchten, werfen Sie doch einen Blick auf die Vorlagen [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}) oder [Reiseplaner]({{< relref "templates/everyday-life/travel-planner" >}}). Diese enthalten bereits vollständig ausgearbeitete Apps, die Sie sofort nutzen und anpassen können.
 
 ### Fazit
 

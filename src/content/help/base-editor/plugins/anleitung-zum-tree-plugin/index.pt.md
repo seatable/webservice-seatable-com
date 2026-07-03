@@ -51,7 +51,7 @@ Nos níveis 2 e 3, tem a opção de **ordenar** as entradas **por ordem alfabét
 
 ## Exemplo de aplicação para o plugin Árvore
 
-Um bom exemplo da utilização do plugin Árvore é um [registo de erros]({{< relref "templates/software-development/bug-tracker" >}}). Nele pode registar as versões de um software, os testes efectuados e os erros de software encontrados em três tabelas diferentes. Utilizando um diagrama de árvore, pode agora visualizar todos estes dados numa vista geral.
+Um bom exemplo da utilização do plugin Árvore é um [registo de erros]({{< relref "templates/it-engineering/bug-tracker" >}}). Nele pode registar as versões de um software, os testes efectuados e os erros de software encontrados em três tabelas diferentes. Utilizando um diagrama de árvore, pode agora visualizar todos estes dados numa vista geral.
 
 Uma vez selecionadas as tabelas ligadas nas opções, é possível visualizar e abrir as entradas agrupadas no diagrama em árvore. No entanto, inicialmente, só são exibidas as entradas do primeiro nível (aqui: versões de software). Para expandir os registos de dados subjacentes, clicar na **seta pendente** à esquerda da entrada.
 

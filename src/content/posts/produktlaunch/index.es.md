@@ -17,7 +17,7 @@ seo:
 
 Una vez que haya completado con éxito el proceso de desarrollo del producto, nada se interpone en el camino de su lanzamiento.
 
-Aunque el proceso de desarrollo ya está muy bien estructurado en la mayoría de las empresas, se suele prestar muy poca atención al proceso de lanzamiento del producto. ¿Realmente ha completado todos los pasos necesarios y no ha olvidado nada? Con nuestra [plantilla]({{< relref "templates/software-development/product-launch" >}}) y estos [5 consejos](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada se interpone en el camino de un lanzamiento de producto exitoso.
+Aunque el proceso de desarrollo ya está muy bien estructurado en la mayoría de las empresas, se suele prestar muy poca atención al proceso de lanzamiento del producto. ¿Realmente ha completado todos los pasos necesarios y no ha olvidado nada? Con nuestra [plantilla]({{< relref "templates/it-engineering/product-launch" >}}) y estos [5 consejos](https://www.kom.de/medien/fuenf-tipps-fuer-einen-gelungenen-produkt-launch/), nada se interpone en el camino de un lanzamiento de producto exitoso.
 
 ## Estructura de nuestra plantilla de lanzamiento de productos
 
@@ -37,4 +37,4 @@ La tabla del boletín de noticias es específica para el canal de marketing por 
 
 ## Con SeaTable el lanzamiento del producto está garantizado para el éxito
 
-Con nuestra [plantilla de lanzamiento de productos]({{< relref "templates/software-development/product-launch" >}}), siempre tendrá en cuenta las tareas pendientes antes del lanzamiento final del producto. Como todas las tablas SeaTable, ésta es personalizable. Adapte la plantilla a su flujo de trabajo y comparta la tabla con sus empleados. De este modo, todos pueden acceder a la tabla en cualquier momento y lugar para ver e introducir cambios importantes.
+Con nuestra [plantilla de lanzamiento de productos]({{< relref "templates/it-engineering/product-launch" >}}), siempre tendrá en cuenta las tareas pendientes antes del lanzamiento final del producto. Como todas las tablas SeaTable, ésta es personalizable. Adapte la plantilla a su flujo de trabajo y comparta la tabla con sus empleados. De este modo, todos pueden acceder a la tabla en cualquier momento y lugar para ver e introducir cambios importantes.

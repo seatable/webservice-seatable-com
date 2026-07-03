@@ -60,7 +60,7 @@ Recherche de logement avec SeaTable - Ne laissez rien au hasard.
 
 Il est bien connu que la recherche d'un nouveau logement est difficile, surtout dans les agglomérations. Souvent, l'offre de logements ne correspond pas aux souhaits individuels en termes de loyer, de situation, de pièces et d'équipement. Au plus tard après la cinquième visite, on commence en outre à perdre la vue d'ensemble des biens immobiliers. Notez donc tous les arguments pour et contre des logements que vous avez visités en un seul endroit, comparez certains critères comme le [rapport qualité-prix](https://de.wikipedia.org/wiki/Preis-Leistungs-Verhältnis) et vous constaterez qu'au final, votre décision sera plus facile à prendre.
 
-Notre [modèle de recherche de logement]({{< relref "templates/real-estate/apartment-hunting" >}}) vous permet de saisir de manière simple et structurée toutes les informations, données et documents relatifs aux logements. Enregistrez les photos, les plans, la surface habitable, le prix du loyer et tout ce que vous avez remarqué d'autre pendant la visite des biens immobiliers dans un tableau clair. Attribuez une note et prenez plus facilement, plus sûrement et plus rapidement la bonne décision.
+Notre [modèle de recherche de logement]({{< relref "templates/everyday-life/apartment-hunting" >}}) vous permet de saisir de manière simple et structurée toutes les informations, données et documents relatifs aux logements. Enregistrez les photos, les plans, la surface habitable, le prix du loyer et tout ce que vous avez remarqué d'autre pendant la visite des biens immobiliers dans un tableau clair. Attribuez une note et prenez plus facilement, plus sûrement et plus rapidement la bonne décision.
 
 ## Commencez à planifier votre prochain déménagement
 
@@ -70,7 +70,7 @@ Votre prochaine planification de déménagement sera un jeu d'enfant avec SeaTab
 
 Chacun d'entre nous a déjà déménagé dans sa vie et sait à quel point un tel déménagement peut être angoissant. Au plus tard au bout de la troisième caisse emballée, on perd la vue d'ensemble de ce qui est emballé et où, et on s'embourbe dans des listes de choses à faire peu claires.
 
-Notre [modèle pour votre prochain déménagement]({{< relref "templates/real-estate/moving-plan" >}}) vous permettra de réduire considérablement votre niveau de stress. Le modèle vous aide à répertorier exactement ce que vous avez emballé et où, ainsi que la manière dont cela est passé de votre ancien à votre nouveau logement.
+Notre [modèle pour votre prochain déménagement]({{< relref "templates/everyday-life/moving-plan" >}}) vous permettra de réduire considérablement votre niveau de stress. Le modèle vous aide à répertorier exactement ce que vous avez emballé et où, ainsi que la manière dont cela est passé de votre ancien à votre nouveau logement.
 
 En outre, notre modèle de déménagement propose une liste de choses à faire pour les autres activités qui doivent être effectuées à une date précise. Ainsi, vous n'oublierez pas d'établir la demande de réexpédition du courrier ou de résilier à temps les contrats relatifs à l'ancien bien immobilier. Faites-en l'expérience ! Le prochain déménagement ne manquera pas d'arriver.
 

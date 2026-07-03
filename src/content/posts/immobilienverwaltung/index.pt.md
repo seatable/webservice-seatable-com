@@ -60,7 +60,7 @@ Caça plana com SeaTable - Não deixar nada ao acaso.
 
 A procura de um novo apartamento é notoriamente difícil, sobretudo nas zonas urbanas. Muitas vezes, os apartamentos propostos não correspondem às necessidades individuais em termos de renda, localização, divisões e mobiliário. Depois da quinta visita, o mais tardar, começa-se a perder a noção dos imóveis. Por isso, tome nota de todos os prós e contras dos apartamentos que vê num só lugar, compare certos critérios como a [relação preço/desempenho](https://de.wikipedia.org/wiki/Preis-Leistungs-Verhältnis) e verá que, no final, a decisão será mais fácil para si.
 
-Com o nosso [modelo de pesquisa de apartamento]({{< relref "templates/real-estate/apartment-hunting" >}}), pode registar todas as informações, dados e documentos sobre os apartamentos de uma forma simples e estruturada. Guarde fotografias, plantas, área de habitação, preço de aluguer e tudo o mais que observou durante a visita ao imóvel numa tabela claramente organizada. Atribua uma classificação e tome a decisão correcta de forma mais fácil, segura e rápida.
+Com o nosso [modelo de pesquisa de apartamento]({{< relref "templates/everyday-life/apartment-hunting" >}}), pode registar todas as informações, dados e documentos sobre os apartamentos de uma forma simples e estruturada. Guarde fotografias, plantas, área de habitação, preço de aluguer e tudo o mais que observou durante a visita ao imóvel numa tabela claramente organizada. Atribua uma classificação e tome a decisão correcta de forma mais fácil, segura e rápida.
 
 ## Comece a planear o seu próximo passo
 
@@ -70,7 +70,7 @@ Planear a sua próxima jogada é uma brincadeira de crianças com o SeaTable.
 
 Todos nós já mudámos de casa na vida e sabemos como uma mudança pode ser enervante. Depois da terceira caixa embalada, o mais tardar, perdemos a noção do que está embalado e onde e ficamos atolados em listas de tarefas confusas.
 
-Pode reduzir significativamente os seus níveis de stress com o nosso [modelo para a sua próxima mudança]({{< relref "templates/real-estate/moving-plan" >}}). O modelo ajuda-o a registar exatamente o que empacotou, onde e como vai da sua casa antiga para a nova.
+Pode reduzir significativamente os seus níveis de stress com o nosso [modelo para a sua próxima mudança]({{< relref "templates/everyday-life/moving-plan" >}}). O modelo ajuda-o a registar exatamente o que empacotou, onde e como vai da sua casa antiga para a nova.
 
 O nosso modelo de mudança também inclui uma lista de afazeres para outras tarefas que têm de ser concluídas até uma determinada data. Por isso, não se esqueça de preparar o pedido de reencaminhamento para os correios ou de cancelar atempadamente os contratos relativos à antiga propriedade. Experimente! O próximo passo é certo.
 
