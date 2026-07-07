@@ -33,7 +33,7 @@ Seafile is from the same family as SeaTable: the same interfaces, the API token 
 
 Here is the workflow, as it appears in n8n:
 
-{{< image-hotspots image="images/lvl4-n8n-workflow.png" alt="The n8n workflow: from the SeaTable trigger through to writing the Seafile link into the base" >}}
+{{< image-zoom image="images/lvl4-n8n-workflow.png" alt="The n8n workflow: from the SeaTable trigger through to writing the Seafile link into the base" >}}
 [
   {"x":1,"y":2,"w":9,"h":45,"img":"images/lvl4-n8n-node-trigger.png","label":"Trigger: a new document with a file"},
   {"x":16,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-geturl.png","label":"Get the file's address in SeaTable"},
@@ -42,7 +42,7 @@ Here is the workflow, as it appears in n8n:
   {"x":65,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-getlink.png","label":"Ask Seafile for a link"},
   {"x":81,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-update.png","label":"Write the link into the document's Backup URL"}
 ]
-{{< /image-hotspots >}}
+{{< /image-zoom >}}
 
 Click a node to open its configuration in detail.
 

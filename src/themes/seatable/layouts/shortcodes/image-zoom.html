@@ -3,12 +3,12 @@
      `image` = base image (page-bundle image path, e.g. "images/wf.png"). Inner content
      = a JSON array of hotspots, each with x/y/w/h as PERCENTAGES of the base image (so
      it stays responsive), an `img` (the detail capture) and a `label`:
-       {{< image-hotspots image="images/wf.png" alt="..." >}}
+       {{< image-zoom image="images/wf.png" alt="..." >}}
        [
          {"x":1,"y":38,"w":13,"h":24,"img":"images/node-a.png","label":"Step A"},
          ...
        ]
-       {{< /image-hotspots >}}
+       {{< /image-zoom >}}
      IMPORTANT: images in a page bundle are Page Resources, NOT static files — a raw
      <img src="images/x.png"> would 404. We resolve each via .Page.Resources.GetMatch →
      .RelPermalink (same as the theme's render-image hook), with a fallback to the raw

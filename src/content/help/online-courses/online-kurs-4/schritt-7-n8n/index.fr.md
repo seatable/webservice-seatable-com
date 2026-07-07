@@ -33,7 +33,7 @@ Seafile est de la même famille que SeaTable : mêmes interfaces, jeton d'API au
 
 Voici le workflow, tel qu'il apparaît dans n8n :
 
-{{< image-hotspots image="images/lvl4-n8n-workflow.png" alt="Le workflow n8n : du déclencheur SeaTable jusqu'à l'écriture du lien Seafile dans la base" >}}
+{{< image-zoom image="images/lvl4-n8n-workflow.png" alt="Le workflow n8n : du déclencheur SeaTable jusqu'à l'écriture du lien Seafile dans la base" >}}
 [
   {"x":1,"y":2,"w":9,"h":45,"img":"images/lvl4-n8n-node-trigger.png","label":"Déclencheur : un nouveau document avec fichier"},
   {"x":16,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-geturl.png","label":"Récupérer l'adresse du fichier dans SeaTable"},
@@ -42,7 +42,7 @@ Voici le workflow, tel qu'il apparaît dans n8n :
   {"x":65,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-getlink.png","label":"Demander un lien à Seafile"},
   {"x":81,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-update.png","label":"Écrire le lien dans Backup URL du document"}
 ]
-{{< /image-hotspots >}}
+{{< /image-zoom >}}
 
 Cliquez sur un nœud pour ouvrir sa configuration en détail.
 
