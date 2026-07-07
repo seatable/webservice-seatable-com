@@ -23,17 +23,6 @@ RUN apt-get update && \
 # Verify installation
 RUN node -v && npm -v && npx -v
 
-ARG GOLANG_VERSION=1.25.4
-
-# Install Go
-RUN wget https://go.dev/dl/go$GOLANG_VERSION.linux-amd64.tar.gz && \
-    tar -C /usr/local -xzf go$GOLANG_VERSION.linux-amd64.tar.gz && \
-    rm go$GOLANG_VERSION.linux-amd64.tar.gz
-
-# Set up Go environment variables
-ENV GOROOT=/usr/local/go
-ENV GOPATH=/go
-ENV PATH=$GOROOT/bin:$GOPATH/bin:$PATH
 ENV HUGO_BIND="0.0.0.0" \
     HUGO_ENV="development" \
     HUGO_EDITION="extended"
@@ -56,9 +45,6 @@ RUN git config --global --add safe.directory /hugo
 # Clean up
 RUN apt-get remove -y wget && apt-get autoremove -y && apt-get clean
 RUN rm -rf /var/lib/apt/lists/*
-
-# Set hugo in the path
-RUN PATH=$PATH:/usr/local/go/bin
 
 EXPOSE 1313
 
