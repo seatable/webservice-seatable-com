@@ -123,7 +123,7 @@ weight = 43
 [[main]]
 name = "Online Courses"
 parent = "Resources"
-pageRef = "help/erste-schritte"
+pageRef = "help/online-courses"
 weight = 44
 
 [[main]]

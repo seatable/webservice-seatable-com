@@ -1,0 +1,48 @@
+- 'label': 'Course 1 — Getting Started'
+  'description': 'Build your first relational database and start collecting data.<br><br>Covers bases, views, columns, web forms, and links — everything you need to model and capture information in SeaTable.'
+  'link': 'help/online-courses/online-kurs-1/level-eins-einfuehrung'
+  'position': 'right'
+  'x': 37.9
+  'y': 14
+
+- 'label': 'Course 2 — Inputs and Outputs'
+  'description': 'Bring data in and send results out.<br><br>Learn imports and exports, generating PDF documents, statistics, action buttons, and sending e-mails straight from your base.'
+  'link': 'help/online-courses/online-kurs-2/level-zwei-einfuehrung'
+  'position': 'right'
+  'x': 38.4
+  'y': 40.5
+
+- 'label': 'Course 3 — Collaboration'
+  'description': 'Work together on your data — share, co-edit, and keep everyone in sync.<br><br>Covers sharing and permissions, groups, comments and @mentions, the activity log, common datasets, and the whiteboard.'
+  'link': 'help/online-courses/online-kurs-3/level-drei-einfuehrung'
+  'position': 'right'
+  'x': 38.7
+  'y': 65.5
+
+- 'label': 'Course 4 — Automation & Integration'
+  'description': 'Automate your workflows and connect external tools.<br><br>Will cover automations, scripts, API basics, webhooks, and integrations with n8n, Zapier, and Make.<br><br><em>Coming soon.</em>'
+  'link': ''
+  'position': 'left'
+  'x': 96.2
+  'y': 14
+
+- 'label': 'Course 5 — Apps & Reporting'
+  'description': 'Turn your bases into apps and polished reports for end users.<br><br>Will cover the Universal App (page types, per-page permissions, custom pages), dashboards, and the report design plugin.<br><br><em>Coming soon.</em>'
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 38
+
+- 'label': 'Course 6 — Data Mastery'
+  'description': 'Model, compute, and scale your data with formulas and relationships.<br><br>Will cover formulas, data processing, big data, and table relationships.<br><br><em>Coming soon.</em>'
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 62
+
+- 'label': 'Course 7 — Maintenance & Hygiene'
+  'description': 'Keep your bases clean, organized, and auditable over time.<br><br>Will cover deduplication, file management, and audit logs.<br><br><em>Coming soon.</em>'
+  'link': ''
+  'position': 'left'
+  'x': 95.7
+  'y': 84
