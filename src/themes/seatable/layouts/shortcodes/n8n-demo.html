@@ -1,0 +1,25 @@
+{{/* Reusable across all online courses: embed an interactive, read-only n8n workflow
+     canvas. The workflow lives as a JSON file under static/ (easy to maintain, kept out
+     of the markdown) and is passed via `src`. A small script fetches it and hands it to
+     the official n8n-demo web component (created after fetch, so timing is safe — the
+     browser upgrades the element once the module loads). No CSP on the site. Usage:
+     {{< n8n-demo src="/n8n/my-workflow.json" >}} */}}
+{{ $src := .Get "src" }}
+<div class="relative mb-8 mt-6" data-n8n-src="{{ $src }}"></div>
+<script>
+    (function () {
+        document.querySelectorAll('[data-n8n-src]').forEach(function (mount) {
+            if (mount.dataset.n8nLoaded) return;
+            mount.dataset.n8nLoaded = '1';
+            fetch(mount.getAttribute('data-n8n-src'))
+                .then(function (r) { return r.text(); })
+                .then(function (json) {
+                    var el = document.createElement('n8n-demo');
+                    el.setAttribute('workflow', json);
+                    mount.appendChild(el);
+                })
+                .catch(function () {});
+        });
+    })();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/@n8n_io/n8n-demo-component@latest/n8n-demo.bundled.js" type="module"></script>

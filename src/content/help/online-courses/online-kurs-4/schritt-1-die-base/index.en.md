@@ -1,0 +1,73 @@
+---
+title: 'Step 1: The starting base'
+date: 2026-07-02
+lastmod: '2026-07-02'
+categories:
+    - 'online-kurs-4'
+author: 'bha'
+url: '/help/step-1-the-starting-base'
+aliases:
+    - '/help/schritt-1-die-base'
+seo:
+    title: 'Step 1 in SeaTable Course 4: the warehouse base'
+    description: 'Import the Warehouse base and get to know its three tables — the products, the incoming documents and their lines — before you automate the receiving of deliveries.'
+---
+
+Before you automate anything, you need a base to work on. In this course you run a warehouse: you receive goods, you check what arrives, and you keep your stock up to date. So we start from a base that is already prepared — as in the previous courses — to spend our time on automation rather than on data entry.
+
+Download the following file and import it as a new base:
+
+<!-- TODO: export the Warehouse base as .dtable and drop it at this path -->
+[SeaTable Course Level 4 - Warehouse.dtable](/SeaTable-Course-Level-4-Warehouse.dtable)
+
+Then add the online-courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice and have your work checked. <!-- TODO: plugin installation procedure and link -->
+
+Finally, enter your base's address below. The course uses it to offer you links that open the right exercise directly in the plugin; this address stays in your browser and never leaves your machine.
+
+{{< st-base-url label="Your base address" >}}
+
+Even though you did not build the base yourself, take the time to get to know it well: the course refers back to it at every step, and a few of the column types may be new to you.
+
+## The components of the base
+
+The `Warehouse` base is organized around three tables: your product catalog, the documents that move goods in and out, and the lines that detail each of those documents.
+
+### The catalog: `Products`
+
+The `Products` table is your catalog. Each row is one product, identified by its `Reference` — the barcode printed on the packaging. The `Stock` column shows the quantity you have in reserve: it is the number the rest of the course will work to keep up to date, without you having to touch it by hand.
+
+{{< warning headline="Stock is a number, not a formula" text="The Stock column is a plain number, not an automatic calculation. That is a deliberate choice for this course: you will learn to adjust it yourself, first with an automation, then with a script. In a real base, stock can also be calculated from the movements — but writing it ourselves is exactly what makes the next steps meaningful." />}}
+
+### The documents: `Documents`
+
+Each record in the `Documents` table is a piece of paperwork that moves stock — most often a delivery note received from a supplier, sometimes an order placed by a customer. The `{{< seatable-icon icon="dtable-icon-single-election" >}} Movement type` column says which kind it is, and `File` holds the document itself: the PDF of the delivery note, for example.
+
+The other columns in this table — those that will hold the text extracted from the document, the archive link or the assignment of an issue to a colleague — will fill up as the course goes on, as you put them into service. No need to detail them now; each one arrives at its own step.
+
+### The lines: `Line items`
+
+A document on its own does not say much: it is its lines that count. The `Line items` table details each document, one line per product. Each line ties a product from the catalog to two quantities: `Qty`, what the document **announces**, and `Received qty`, what you **actually find** on receiving. It is the comparison of these two numbers that sits at the heart of the course.
+
+![A delivery note from the “Documents” table and, beside it, its detailed lines in the “Line items” table](images/lvl4-document-and-lines.png)
+
+## How it all fits together
+
+The `Documents` and `Line items` tables are linked: on the document side, the `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Line items` column gathers all of its lines; on the line side, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Document` points to the document it belongs to. This is the structure any commercial document follows — a header and its lines — from the invoice to the delivery note. Each line also links its `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Product` to the catalog, which lets it show the product's `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Description` without retyping it.
+
+In a well-run warehouse, the same goods pass through three states, and your base tells them apart:
+
+- **Ordered**: the reference — what you expect from the supplier. These lines will come later from your management software; we will get back to that in the step on the API.
+- **Delivered**: what the delivery note announces on arrival, in the `Qty` column.
+- **Received**: what you actually count on the dock, in the `Received qty` column.
+
+The course's through-line compares the last two. The supplier announces three boxes, you receive only two: the gap has to jump out, be tracked, and trigger what is needed — a stock update, a notification, or a colleague stepping in. That is exactly what you are going to build, one brick after another.
+
+## Try it yourself
+
+Open the `Documents` table and find the delivery note already there. Follow its `Line items` link: you see the lines the supplier announces, each with its `Qty`. Their `Received qty` column is still empty — you are the one who will fill it in from the very next step, and SeaTable will take care of the rest.
+
+## Help article with further information
+
+- [Creating a base from a DTABLE file]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/" >}})
+- [The link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte/" >}})
+- [The link formula column]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen/" >}})

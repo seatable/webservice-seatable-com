@@ -1,0 +1,131 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "resource": "asset",
+        "operation": "getPublicURL",
+        "assetPath": "={{ $json.File[0].path }}"
+      },
+      "type": "n8n-nodes-seatable.seaTable",
+      "typeVersion": 2,
+      "position": [224, 0],
+      "id": "63eeb950-bc80-4708-b2e5-69689ccf6cf8",
+      "name": "Get the public URL from asset path"
+    },
+    {
+      "parameters": {
+        "repo": "YOUR_SEAFILE_LIBRARY",
+        "target_path": "/Delivery notes/2026/",
+        "target_file": "={{ $('SeaTable Trigger: Document with file').item.json.File[0].name }}",
+        "binaryData": true
+      },
+      "type": "n8n-nodes-seafile.seafile",
+      "typeVersion": 1,
+      "position": [656, 0],
+      "id": "63894723-5d5d-4ffd-8da6-ded85d2ef285",
+      "name": "SeaFile: Upload a file"
+    },
+    {
+      "parameters": {
+        "resource": "share",
+        "repo": "YOUR_SEAFILE_LIBRARY",
+        "file_path": "=Delivery notes/2026/{{ $json.name }}"
+      },
+      "type": "n8n-nodes-seafile.seafile",
+      "typeVersion": 1,
+      "position": [864, 0],
+      "id": "65cd746e-83b3-45a6-9cbe-f1955fd9d3f9",
+      "name": "SeaFile: Get an internal link"
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            { "mode": "everyMinute" }
+          ]
+        },
+        "event": "updatedRow",
+        "tableName": "Documents",
+        "viewName": "Document available",
+        "options": {
+          "simple": false
+        }
+      },
+      "type": "n8n-nodes-base.seaTableTrigger",
+      "typeVersion": 2,
+      "position": [0, 0],
+      "id": "9b0254d4-45e4-4a58-9168-b00773085a40",
+      "name": "SeaTable Trigger: Document with file"
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.download_link }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [448, 0],
+      "id": "63b4e968-62fe-462c-9636-135c46ecb6f1",
+      "name": "HTTP Request: Get the file data"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableName": "Documents",
+        "rowId": "={{ $('SeaTable Trigger: Document with file').item.json._id }}",
+        "columnsUi": {
+          "columnValues": [
+            {
+              "columnName": "Backup URL",
+              "columnValue": "={{ $json.smart_link }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.seaTable",
+      "typeVersion": 2,
+      "position": [1072, 0],
+      "id": "c324d76d-683f-4496-bc47-e6995e79f2bf",
+      "name": "SeaTable: Update a row with SeaFile's link"
+    }
+  ],
+  "connections": {
+    "Get the public URL from asset path": {
+      "main": [
+        [
+          { "node": "HTTP Request: Get the file data", "type": "main", "index": 0 }
+        ]
+      ]
+    },
+    "SeaFile: Upload a file": {
+      "main": [
+        [
+          { "node": "SeaFile: Get an internal link", "type": "main", "index": 0 }
+        ]
+      ]
+    },
+    "SeaFile: Get an internal link": {
+      "main": [
+        [
+          { "node": "SeaTable: Update a row with SeaFile's link", "type": "main", "index": 0 }
+        ]
+      ]
+    },
+    "SeaTable Trigger: Document with file": {
+      "main": [
+        [
+          { "node": "Get the public URL from asset path", "type": "main", "index": 0 }
+        ]
+      ]
+    },
+    "HTTP Request: Get the file data": {
+      "main": [
+        [
+          { "node": "SeaFile: Upload a file", "type": "main", "index": 0 }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {}
+}
