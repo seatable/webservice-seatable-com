@@ -129,7 +129,7 @@ Ein klassisches Hochzeitsgästebuch kann nur von einem Gast gleichzeitig ausgef�
 - Für analoge Gästebücher benötigen Sie **kein Internet/WLAN und keine Mobilgeräte mit geladenem Akku**.  
 - Gerade kreativere Ideen wie ein Puzzle können später als **dekoratives Erinnerungsstück** in Ihrer Wohnung zur Geltung kommen.
 
-#### Nachteile:
+#### Nachteile
 
 - Alle Gäste können die bisherigen Einträge lesen und **voneinander abschreiben**. 
 - **Unleserliche Handschriften** und **unvollständige Beiträge** sind schwer zuzuordnen. 
