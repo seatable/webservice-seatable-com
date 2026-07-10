@@ -465,11 +465,6 @@
                     return;
                 }
 
-                // Skip redirect if Matomo preview mode is enabled
-                if (params.has('mtmPreviewMode')) {
-                    return;
-                }
-
                 // Check local storage first
                 const language = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
 
@@ -528,10 +523,6 @@
 
         {{ $alpine := resources.Get "js/alpine.js" | fingerprint }}
         <script src="{{ $alpine.RelPermalink }}" integrity="{{ $alpine.Data.Integrity }}" defer></script>
-
-        <!-- matomo analytics -->
-        {{ partial "matomo-analytics.html" . }}
-
 
         <!-- custom posthog event tracker -->
         {{ partial "posthog/event_tracker.html" . }}
