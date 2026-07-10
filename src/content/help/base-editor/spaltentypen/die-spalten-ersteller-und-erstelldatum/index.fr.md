@@ -9,8 +9,8 @@ url: '/fr/aide/colonnes-createur-cree-seatable'
 aliases:
     - '/fr/aide/die-spalten-ersteller-und-erstelldatum'
 seo:
-    title: 'Colonnes «réateur» et «créé» dans SeaTable : historisation automatique'
-    description: 'SeaTable utilise "Créateur" et "Créé" pour consigner automatiquement utilisateurs et horodatages. Ces colonnes sont non modifiables.'
+    title: "Types de colonnes SeaTable | Enregistrer automatiquement l'auteur et la date"
+    description: "Un contrôle total au sein de l'équipe : découvrez comment ces colonnes enregistrent automatiquement les entrées et assurent la traçabilité des processus"
 weight: 21
 ---
 

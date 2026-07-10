@@ -7,8 +7,8 @@ categories:
 author: 'nsc2'
 url: '/de/hilfe/die-spalten-ersteller-und-erstelldatum'
 seo:
-    title: 'Die Spalten „Ersteller“ und „Erstellt“ in SeaTable: Automatisierte Dokumentation'
-    description: 'SeaTable nutzt „Ersteller“ & „Erstellt“, um Nutzer und Zeitpunkte automatisch zu protokollieren. Beide Spalten sind nicht editierbar.'
+    title: 'SeaTable Spaltentypen | Ersteller & Datum automatisch dokumentieren'
+    description: 'Volle Kontrolle im Team: Erfahren Sie, wie diese Spalten Einträge ohne manuellen Aufwand protokollieren und Prozesse nachvollziehbar machen'
 weight: 21
 ---
 
