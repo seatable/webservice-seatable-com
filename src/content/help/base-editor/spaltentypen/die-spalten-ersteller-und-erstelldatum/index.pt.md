@@ -9,8 +9,8 @@ url: '/pt/ajuda/colunas-criador-criado-seatable'
 aliases:
     - '/pt/ajuda/die-spalten-ersteller-und-erstelldatum'
 seo:
-    title: 'Colunas “criador” e “criado” no SeaTable: log automático e histórico detalhado'
-    description: 'SeaTable usa "Criador" e "Criado" para registrar automaticamente usuários e datas. Ambas as colunas não podem ser editadas manualmente.'
+    title: 'Tipos de colunas do SeaTable | Registar automaticamente o autor e a data'
+    description: 'Controlo total na equipa: Descubra como estas colunas registam as entradas sem esforço manual e tornam os processos rastreáveis'
 weight: 21
 ---
 

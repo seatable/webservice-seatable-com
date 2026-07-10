@@ -9,8 +9,8 @@ url: '/help/creator-created-column-features'
 aliases:
     - '/help/die-spalten-ersteller-und-erstelldatum'
 seo:
-    title: 'SeaTable’s “Creator” and “Created” Columns: Automatic Entry Tracking Features'
-    description: 'SeaTable uses "Creator" & "Created" to automatically log users and timestamps. Both columns cannot be edited manually.'
+    title: "SeaTable Column Types | Automatically Log Creator & Date"
+    description: "Full control for your team: Learn how these columns log entries without manual effort and make processes traceable"
 weight: 21
 ---
 
