@@ -2,8 +2,6 @@
 excludedKinds = ["taxonomy", "term"]
 
 [seo]
-matomoSiteId = "6"
-matomoProviderUrl = "https://wp-stats.seatable.io/"
 googleSearchConsoleVerificationTag = "iGenigAZSvwGpbLaeutS8SnDlLfYNsxtgZoDXMUNhFg"
 
 [acticle]
