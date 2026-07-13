@@ -1,0 +1,50 @@
+{{/* zoom: render an image inline; click it to open the same image full-size in a
+     lightbox modal (Esc or click-outside to close). For hard-to-read screenshots/GIFs.
+       {{< zoom image="images/foo.gif" alt="..." >}}
+       {{< zoom image="images/foo.gif" alt="..." hint="Agrandir" >}}   (optional label)
+     `image` is a page-bundle path: images in a bundle are Page Resources, so we resolve
+     via .Page.Resources.GetMatch -> .RelPermalink (a raw src="images/..." would 404),
+     with a fallback to the raw path. Self-contained inline style+script, idempotent —
+     mirrors the other custom shortcodes; distinct class/guard names so it coexists with
+     the image-zoom hotspot lightbox after branch merges. */}}
+{{- $image := .Get "image" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $hint := .Get "hint" | default "Click to enlarge" -}}
+{{- $src := $image -}}
+{{- with .Page.Resources.GetMatch $image }}{{ $src = .RelPermalink }}{{ end -}}
+<figure class="zoom-fig my-6">
+    <button type="button" class="zoom-trigger" data-full="{{ $src }}" data-alt="{{ $alt }}" data-hint="{{ $hint }}" aria-label="{{ $hint }}: {{ $alt }}">
+        <img class="zoom-img my-0 rounded-md" loading="lazy" src="{{ $src }}" alt="{{ $alt }}" />
+    </button>
+    {{- with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end -}}
+</figure>
+<style>
+    .zoom-fig { line-height: 0; }
+    .zoom-trigger { display: block; position: relative; width: 100%; margin: 0; padding: 0; border: 0; background: none; cursor: zoom-in; }
+    .zoom-img { display: block; width: 100%; height: auto; }
+    .zoom-trigger::after { content: attr(data-hint); position: absolute; top: 10px; right: 10px; padding: 4px 9px; font: 600 12px/1.2 sans-serif; color: #fff; background: rgba(0, 0, 0, .62); border-radius: 6px; opacity: 0; transition: opacity .15s; pointer-events: none; }
+    .zoom-trigger:hover::after, .zoom-trigger:focus-visible::after { opacity: 1; }
+    .zoom-lightbox { position: fixed; inset: 0; z-index: 9999; display: flex; align-items: center; justify-content: center; padding: 24px; background: rgba(0, 0, 0, .8); cursor: zoom-out; }
+    .zoom-lightbox[hidden] { display: none; }
+    .zoom-lightbox img { max-width: 95vw; max-height: 95vh; width: auto; height: auto; border-radius: 8px; box-shadow: 0 8px 40px rgba(0, 0, 0, .5); }
+</style>
+<script>
+    (function () {
+        if (window.__zoomLightboxInit) return;
+        window.__zoomLightboxInit = true;
+        var lb = document.createElement('div');
+        lb.className = 'zoom-lightbox';
+        lb.hidden = true;
+        lb.innerHTML = '<img alt="" />';
+        document.body.appendChild(lb);
+        var lbImg = lb.querySelector('img');
+        function open(src, alt) { lbImg.src = src; lbImg.alt = alt || ''; lb.hidden = false; document.documentElement.style.overflow = 'hidden'; }
+        function close() { lb.hidden = true; lbImg.src = ''; document.documentElement.style.overflow = ''; }
+        document.addEventListener('click', function (e) {
+            var t = e.target.closest('.zoom-trigger');
+            if (t) { e.preventDefault(); open(t.getAttribute('data-full'), t.getAttribute('data-alt')); return; }
+            if (e.target.closest('.zoom-lightbox')) close();
+        });
+        document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !lb.hidden) close(); });
+    })();
+</script>

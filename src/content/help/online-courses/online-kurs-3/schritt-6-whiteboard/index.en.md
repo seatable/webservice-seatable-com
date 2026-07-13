@@ -19,23 +19,23 @@ Unlike everything so far, the whiteboard holds none of your data — and, the ca
 
 ## A board of its own
 
-A whiteboard needs a base that everyone drawing on it can edit. You have just spent four steps learning not to hand that kind of access to a base full of sensitive data, and the same habit applies here: keep coordination and sketches out of your production tables, exactly as your customer master stays separate from Marketing's working copy. So the whiteboard gets a base of its own.
+A whiteboard needs a base that everyone drawing on it can edit. You have just spent four steps learning not to hand that kind of access to a base full of sensitive data, and the same habit applies here: keep coordination and sketches out of your production tables, exactly as your customer master stays separate from Marketing's working copy. So in our use case where you want to use it with a colleague from another department, the whiteboard better fits a base not containing any sensitive data.
 
-Marketing keeps a board explaining how the customer data reaches them — but it still shows the old way, back when they worked from a manual copy. Now that the data arrives as a common dataset, the picture needs redrawing, and since you set up that new flow, you will update it together. In Thomas's window 🕶, import the following base into the `Marketing` group — you are both members, so you will both be able to draw on it:
+Marketing keeps a board explaining how the customer data reaches them — but it still shows the old way, back when they worked from a manual copy. Now that the data arrives as a common dataset, the picture needs redrawing, and since you set up that new flow, you will update it together. In Malika's window 🕶, import the following base into the `Marketing` group — you are both members, so you will both be able to draw on it:
 
 [SeaTable Course 3 - Marketing Whiteboard.dtable](/SeaTable-Course-3-Marketing-Whiteboard.dtable)
 
 The whiteboard plugin comes already set up inside it, with a starter diagram already on it — so there is nothing to install; just open it from the base's plugin area.
 
-A read-only share would not work here: drawing on a whiteboard needs edit access, so a read-only colleague cannot contribute at all. That is one more reason it belongs in a base you can both edit, never in `Sales CRM`.
+A Read-Only share would not work here: drawing on a whiteboard needs edit access, so a Read-Only colleague cannot contribute at all. That is one more reason it belongs in a base you can both edit, never in `Sales CRM`.
 
 ## Working on it together
 
-With the board open in both windows, you are on one shared canvas — and the two of you are present on it at the same time. That live side is easiest to feel if you tile the windows side by side: in your window 🌐, move your cursor across the board, run the laser pointer along a shape, or leave a short message under your cursor — then glance at Thomas's window 🕶 and watch each one appear there as it happens. The travelling cursor, the fading laser trail, the brief message: this is the in-the-moment collaboration a table cannot give you.
+With the board open in both windows, you are on one shared canvas — and the two of you are present on it at the same time. That live side is easiest to feel if you tile the windows side by side: in your window 🌐, move your cursor across the board, run the laser pointer along a shape, or leave a short message under your cursor — then glance at Malika's window 🕶 and watch each one appear there as it happens. The travelling cursor, the fading laser trail, the brief message: this is the in-the-moment collaboration a table cannot give you.
 
 The one thing you cannot quite do alone is the back-and-forth — acting and watching the other at the very same instant. With a real colleague you each simply work in your own window; on your own, the clip below shows the duet.
 
-![Two cursors on the shared whiteboard gesturing to each other, with a laser trail and a message under one cursor](images/lvl3-whiteboard-collab.gif)
+{{< zoom image="images/lvl3-whiteboard-collab.gif" alt="Two cursors on the shared whiteboard gesturing to each other, with a laser trail and a message under one cursor" >}}
 
 ## The board remembers nothing
 
@@ -56,7 +56,7 @@ The starter board still shows the old way: the customer list reaching Marketing 
 | Window | What to change |
 |---|---|
 | 🌐 You (Commercial) | Rename the arrow to `common dataset` and repoint it to `Customers (live)`, then add a blue note for Commercial by the source — the new path is yours. |
-| 🕶 Thomas (Marketing) | Mark `Customer list (manual)` as no longer used, and add a green note for Marketing (Thomas) on that side. |
+| 🕶 Malika (Marketing) | Mark `Customer list (manual)` as no longer used, and add a green note for Marketing (Malika) on that side. |
 
 A minute's work between the two of you — and because you each drew in your own colour, the finished board shows at a glance who changed what, even though SeaTable kept no record of it.
 

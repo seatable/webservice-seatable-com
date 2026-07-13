@@ -60,24 +60,24 @@ To successfully complete this course, you will need:
 Throughout the course you play two roles, one in each window:
 
 - **🌐 You (Commercial)**: your main window, signed in to your own account on the Commercial team. You own the company's customer list, and this is the role you play for most of the course. In SeaTable's own logs this account appears under your own name (in this course's screenshots it is labelled "Commercial").
-- **🕶 Thomas (Marketing)**: your second account, opened in a private window. Thomas works in Marketing and needs to read, comment on, and reuse your data.
+- **🕶 Malika (Marketing)**: your second account, opened in a private window. Malika is Head of Marketing and needs to read, comment on, and reuse your data.
 
-Every instruction in the course is tagged with the window it belongs to — 🌐 your window (Commercial) or 🕶 Thomas's window (Marketing) — so you always know where to act.
+Every instruction in the course is tagged with the window it belongs to — 🌐 your window (Commercial) or 🕶 Malika's window (Marketing) — so you always know where to act.
 
 ### Adding your colleague to the team
 
 To play the colleague you need a second account that is a member of your team. In SeaTable, bringing someone into a team is called adding a team member: a team administrator invites the person by email, and once they accept they can be shared bases, @mentioned, and added to groups.
 
-From your team's admin page, invite a second email address, then accept the invitation from that address. A second, free email address from any provider is enough to stand in for your colleague. When you set up this second account, give it the name **Thomas** so that the names you later see in comments, @mentions, the activity log and the last-modifier column match the ones shown throughout this course. The full procedure is covered in the help article linked at the bottom of this page.
+From your team's admin page, invite a second email address, then accept the invitation from that address. A second, free email address from any provider is enough to stand in for your colleague. When you set up this second account, give it the name **Malika** so that the names you later see in comments, @mentions, the activity log and the last-modifier column match the ones shown throughout this course. The full procedure is covered in the help article linked at the bottom of this page.
 
 ### Setting up your groups
 
 SeaTable lets you organise bases into **groups** — shared containers that may stand for a particular project, or in our case for a department. This course uses two:
 
 - a **`Commercial`** group, your own department, where your `Sales CRM` base will live from Step 1 onwards.
-- a **`Marketing`** group, your colleague's department, which Thomas belongs to and which you will distribute the live dataset to in Step 5.
+- a **`Marketing`** group, your colleague's department, which Malika belongs to and which you will distribute the live dataset to in Step 5.
 
-From your team's admin page, create both groups, then add the Thomas account as a member of the **`Marketing`** group. The help articles at the bottom of this page walk through it.
+From your team's admin page, create both groups, then add the Malika account as a member of the **`Marketing`** group. The help articles at the bottom of this page walk through it.
 
 {{< warning headline="Adding a member and creating groups may need administrator rights" text="Adding a team member, creating groups, and adding people to them all depend on your role in the team. If any of these are unavailable to you, ask your team administrator to set them up — you can request the second account and both groups, Commercial and Marketing, in a single go." />}}
 
@@ -88,11 +88,11 @@ From your team's admin page, create both groups, then add the Thomas account as 
 Once the second account is a member of your team, set up your workspace so both accounts can stay signed in at the same time:
 
 1. Keep your 🌐 main window signed in to your own account (Commercial).
-2. Open a 🕶 private window (in Chrome, press {{< key "Ctrl" >}} + {{< key "Shift" >}} + {{< key "N" >}}) and sign in there as the Thomas (Marketing) account. A private window lets both accounts stay logged in at once without conflicting.
+2. Open a 🕶 private window (in Chrome, press {{< key "Ctrl" >}} + {{< key "Shift" >}} + {{< key "N" >}}) and sign in there as the Malika (Marketing) account. A private window lets both accounts stay logged in at once without conflicting.
 
-![Two browser windows side by side, one signed in as you and one private window signed in as Thomas](images/lvl3-side-by-side-windows.png)
+{{< zoom image="images/lvl3-side-by-side-windows.png" alt="Two browser windows side by side, one signed in as you and one private window signed in as Malika" >}}
 
-{{< warning headline="Tell your two windows apart" text="Give the two windows a quick visual cue so you never lose track of who is who — for example, keep your window on the left and Thomas's private window on the right." />}}
+{{< warning headline="Tell your two windows apart" text="Give the two windows a quick visual cue so you never lose track of who is who — for example, keep your window on the left and Malika's private window on the right." />}}
 
 ## How long does the course last?
 
@@ -102,8 +102,8 @@ The course lasts **about an hour**, but you can go through it at your own pace. 
 
 At the end of this course you can test your knowledge in a quiz:
 
-- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-level-3/) is in English and consists of multiple-choice questions about the collaboration features you have used.
-- Upon successful completion, you receive a badge for your forum profile, which makes your skills visible. <!-- TODO: add forum badge URL -->
+- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-course-3/) is in English and consists of multiple-choice questions about the collaboration features you have used.
+- Upon successful completion, you receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3), which makes your skills visible.
 
 What are we waiting for? Let's go!
 

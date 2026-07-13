@@ -15,7 +15,7 @@ Before you can collaborate on data, you need some data to collaborate on! Throug
 
 In Course 1 you already learned how to build a base from scratch, and in Course 2 you imported a ready-made one. We will do the same here and start directly with a prepared base, so we can spend our time on collaboration rather than on data entry.
 
-Everything in this step happens in your main window 🌐, signed in as your own Commercial account. Your colleague, Thomas, joins in the next step.
+Everything in this step happens in your main window 🌐, signed in as your own Commercial account. Your colleague, Malika, joins in the next step.
 
 Download the following file to your computer and import it as a new base **into your `Commercial` group** — the group you set up in the introduction:
 
@@ -38,13 +38,13 @@ This structure is intentionally simpler than a real-world database, but it is su
 
 ### Your customer master
 
-The table `Customers` is the heart of the base. Each row is one contact at one company, identified by the first column, `Full Name`. Alongside it you will find the columns you would expect of a customer list — company, industry and size, contact details, and the `Status` of the relationship (`Client`, `Prospect`, `Lead` or `Churned`), which we will come back to later. One column is worth flagging: `Account Manager` records who owns each customer. We keep it as a plain text column to keep the demo simple, but in a real base this is best stored as a `{{< seatable-icon icon="dtable-icon-collaborator" >}} Collaborator` column that links to the actual SeaTable user.
+The table `Customers` is the heart of the base. Each row is one contact at one company, identified by the first column, `Full Name`. Alongside it you will find the columns you would expect of a customer list — company, industry and size, contact details, and the `Status` of the relationship (`Client`, `Prospect`, `Lead` or `Churned`), which we will come back to later. One column is worth flagging: `Account Manager` records who owns each customer. To represent the variety of data in a real-world scenario, we used a plain text column, but in an actual database, it is best to store this data in a `{{< seatable-icon icon="dtable-icon-collaborator" >}} Collaborator` column that links to the actual SeaTable user.
 
-The table opens on a view that is **grouped by `{{< seatable-icon icon="dtable-icon-single-election" >}} Company Size`**, so contacts are gathered under headings like `11–50`, `201–500` and `1000+`. A single-select column makes a natural grouping key — its fixed set of options becomes the groups — and grouping turns a long flat list into something you can scan by segment at a glance, useful the moment more than one team starts working from the same list.
+The table opens on a view that is **grouped by `{{< seatable-icon icon="dtable-icon-single-election" >}} Company Size`**, so contacts are gathered under headings like `11–50`, `201–500` or `1000+`. A single-select column makes a natural grouping key — its fixed set of options becomes the groups — and grouping turns a long flat list into something you can scan by segment at a glance, useful the moment more than one team starts working from the same list.
 
-![The “Customers” table grouped by Company Size, with collapsible group headers](images/lvl3-customers-grouped.png)
+{{< zoom image="images/lvl3-customers-grouped.png" alt="The “Customers” table grouped by Company Size, with collapsible group headers" >}}
 
-{{< warning headline="The first column is the row's label" text="Wherever a row is referenced — in a comment, a notification, or the change history you will explore later — SeaTable shows it by the value of its first column. That is why the Full Name column sits first: a name is far easier to recognise than a row number. The first column does not have to be unique, but giving it a clear, distinctive value makes each row easy to tell apart when it turns up in those references." />}}
+{{< warning headline="The first column is the row's label" text="Wherever a row is referenced — in a comment, a notification, or the change history you will explore later — SeaTable shows it by the value of its first column. That is why the Full Name column sits first: a name is far easier to recognize than a row number. The first column does not have to be unique, but giving it a clear, distinctive value makes each row easy to tell apart when it turns up in those references." />}}
 
 ### The deals behind each customer
 
