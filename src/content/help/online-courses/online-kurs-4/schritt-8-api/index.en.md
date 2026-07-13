@@ -13,7 +13,7 @@ seo:
     description: 'Learn how an existing piece of software pushes data into SeaTable through its API: the api.seatable.com explorer, the append_rows operation, and the matching Python code.'
 ---
 
-From the very start, your delivery lines have been arriving, linking up, and getting validated. But one question has stayed open: the **order** lines — the ones that say what you had ordered — where do they come from? You never entered them yourself. That is the subject of this last technical building block, and it reverses the direction of everything we have seen so far: instead of taking information out of SeaTable, we are going to bring it in, from the outside.
+From the very start, your delivery lines have been arriving, linking up, and getting validated. But one question has stayed open: the **purchase-order** lines — the ones that say what you had ordered from your suppliers — where do they come from? You never entered them yourself. That is the subject of this last technical building block, and it reverses the direction of everything we have seen so far: instead of taking information out of SeaTable, we are going to bring it in, from the outside.
 
 ## Connecting the existing system, not replacing it
 
@@ -37,7 +37,47 @@ Look at what the explorer shows next to the request: the **matching code**, in P
 
 ## Going further
 
-Your ordered lines and your delivered lines now coexist in the same table, each tied to its own document — an order on one side, a delivery on the other, for the same supplier. Nothing stops you from comparing them automatically: was everything that was ordered actually delivered? The principle picks up the announced / received comparison from step 3, applied this time from one document to another. We leave that exploration to you.
+The API you just used pulls data *in* from another system you own. A script can travel the other way just as easily — out to a public service on the open web — and this is a good moment to feel that, on something more fun than an invoice.
+
+Every barcode in your `Products` catalog is described in [Open Food Facts](https://world.openfoodfacts.org), a free, community-run database of food products. So rather than typing a product's `Description`, `Brand` and `Qty` by hand, you can let a script look them up from the barcode alone.
+
+Everything you need sits off to the side of your base, untouched by the main course: a **webform** with a single `Reference` field and **barcode scanning turned on**. Take a real product from your desk — a bag of coffee, anything with a barcode — open that form on your phone and **scan it**. A new row lands in `Products`, carrying nothing but its barcode.
+
+Now give that row a way to fill itself in. On the `Products` table, create a **button column** named `🌐 Open Food Facts` and attach the script below — the same button-and-script pattern you built in step 3. Click it on your freshly scanned row and watch `Description`, `Brand` and `Qty` appear on their own.
+
+```python
+import requests
+from seatable_api import Base, context
+
+base = Base(context.api_token, context.server_url)
+base.auth()
+
+def get_product(barcode: str):
+    url = f"https://world.openfoodfacts.org/api/v3/product/{barcode}.json"
+    headers = {"User-Agent": "SeaTableOnlineCourseLevel4/1.0 (https://seatable.com)"}
+    params = {"fields": "product_name,brands,code,quantity"}
+
+    resp = requests.get(url, headers=headers, params=params, timeout=10)
+    resp.raise_for_status()
+    data = resp.json()
+
+    if data.get("status") == "success":
+        return data["product"]
+    print(f"Product {barcode} can't be found")
+    return None
+
+p = get_product(context.current_row.get('Reference'))
+if p:
+    base.update_row('Products', context.current_row['_id'], {
+        'Description': p.get("product_name"),
+        'Brand': p.get("brands") or "–",
+        'Qty': p.get("quantity") or "–",
+    })
+```
+
+The script reads the row's `Reference`, asks Open Food Facts about that barcode (`GET /product/{barcode}.json` — no key needed to read), and writes three of the fields it returns back onto the row: `product_name` into `Description`, `brands` into `Brand`, `quantity` into `Qty`. It is the mirror image of what you did above — there, an outside system wrote into your base; here, your base reaches outside and brings something back.
+
+{{< warning headline="Identify the app you are calling from" text="Open Food Facts is free and run by a non-profit, and it asks every program that calls its API to send a User-Agent header naming the app that is calling — so real applications are not mistaken for anonymous bots, and so the traffic can be traced back to whoever is behind it. The script already does this: it announces itself as the SeaTable course and points to seatable.com, so you have nothing to fill in. If one day you turn a script like this into a tool of your own, that identity is what you would make yours — politely saying who you are is simply part of being a good citizen of the open web." />}}
 
 ## Try it yourself
 

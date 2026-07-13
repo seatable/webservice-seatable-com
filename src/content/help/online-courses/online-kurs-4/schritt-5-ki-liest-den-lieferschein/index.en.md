@@ -55,7 +55,7 @@ base.auth()
 
 data = json.loads(context.current_row.get('JSON'))
 base.update_row(context.current_table, context.current_row['_id'], {
-    'Order reference': data['order'],
+    'PO reference': data['order'],
     'Delivery reference': data['delivery'],
 })
 lines = [{

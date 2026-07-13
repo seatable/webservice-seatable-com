@@ -58,7 +58,7 @@ try:
     if not products:
         raise ValueError('no products extracted')
     base.update_row(context.current_table, context.current_row['_id'], {
-        'Order reference': data['order'],
+        'PO reference': data['order'],
         'Delivery reference': data['delivery'],
     })
     lines = [{

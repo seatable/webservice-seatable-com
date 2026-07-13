@@ -23,7 +23,7 @@ Everything you have built falls into three directions, depending on where the in
 
 **To the outside.** Webhooks and n8n send information *out*: a notification on your phone, a file archived in another service. SeaTable tells the world, or hands it a task.
 
-**From the outside.** The API lets other systems *write* into your base: your management software drops its orders there. SeaTable doesn't live in a bubble, it hooks into what already exists.
+**From the outside.** The API lets other systems *write* into your base: your management software drops its purchase orders there. SeaTable doesn't live in a bubble, it hooks into what already exists.
 
 And, cutting across all of this, **artificial intelligence**: it read a delivery note for you. A powerful accelerator — provided, as you saw, that you always keep the human in the loop.
 
@@ -31,10 +31,12 @@ And, cutting across all of this, **artificial intelligence**: it read a delivery
 
 All that's left is to put your knowledge to the test. The quiz actually takes the shape of a **SeaTable form** — one last nod to what you have just learned. It mixes questions about the features you came across and questions about the base you have equipped throughout the course.
 
-When you're ready, open the [Level 4 quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-level-4). If you pass, you receive a badge for your profile on the forum, which makes your skills visible. <!-- TODO: forum badge URL -->
+When you're ready, open the [Course 4 quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-level-4). If you pass, you receive a badge for your profile on the forum, which makes your skills visible. <!-- TODO: forum badge URL -->
 
 ## What's next?
 
-The process you have built was deliberately kept simple to get to the point, but it already opens up a thousand next steps: automatically enriching a product sheet from a public database, matching each order against its delivery, plugging a third service into your workflow… You now have the building blocks; it's up to you to assemble them for your own needs.
+The process you have built was deliberately kept simple to get to the point, but it already opens up a thousand next steps: automatically enriching a product sheet from a public database, plugging a third service into your workflow, refining each automation as your needs grow… You now have the building blocks; it's up to you to assemble them for your own needs.
+
+And here is one challenge to stand on your own feet. All along you worked in a single direction — deliveries arriving from your suppliers, adding to the stock. But your base carries a second `Movement type` for the opposite direction: the `Customer order`, where goods leave your shelves. Point the same building blocks the other way — when a customer order comes in, check the stock is there, record what goes out, subtract it from `Stock`, and alert whoever needs to know. It is the patterns you already know, running in reverse — and this time, no one walks you through it.
 
 Thank you for taking this course, and well done for the road you have travelled.

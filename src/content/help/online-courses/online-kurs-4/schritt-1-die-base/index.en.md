@@ -18,7 +18,7 @@ Before you automate anything, you need a base to work on. In this course you run
 Download the following file and import it as a new base:
 
 <!-- TODO: export the Warehouse base as .dtable and drop it at this path -->
-[SeaTable Course Level 4 - Warehouse.dtable](/SeaTable-Course-Level-4-Warehouse.dtable)
+[SeaTable Course 4 - Warehouse.dtable](/SeaTable-Course-4-Warehouse.dtable)
 
 Then add the online-courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice and have your work checked. <!-- TODO: plugin installation procedure and link -->
 
@@ -34,13 +34,15 @@ The `Warehouse` base is organized around three tables: your product catalog, the
 
 ### The catalog: `Products`
 
-The `Products` table is your catalog. Each row is one product, identified by its `Reference` — the barcode printed on the packaging. The `Stock` column shows the quantity you have in reserve: it is the number the rest of the course will work to keep up to date, without you having to touch it by hand.
+The `Products` table is your catalog. Each row is one product, identified by its `Reference` — the barcode printed on the packaging. A few descriptive columns — `Description`, `Brand` and `Qty` (the pack size, such as `250 g`) — say what the product actually is. The `Stock` column shows the quantity you have in reserve: it is the number the rest of the course will work to keep up to date, without you having to touch it by hand.
+
+You will not always have to fill those descriptive fields by hand: in the last step, on the API, you will see how a script can pull them automatically from a free public database, using nothing but the barcode — a first taste of SeaTable reaching *out* to an external service. For now, just note they are there.
 
 {{< warning headline="Stock is a number, not a formula" text="The Stock column is a plain number, not an automatic calculation. That is a deliberate choice for this course: you will learn to adjust it yourself, first with an automation, then with a script. In a real base, stock can also be calculated from the movements — but writing it ourselves is exactly what makes the next steps meaningful." />}}
 
 ### The documents: `Documents`
 
-Each record in the `Documents` table is a piece of paperwork that moves stock — most often a delivery note received from a supplier, sometimes an order placed by a customer. The `{{< seatable-icon icon="dtable-icon-single-election" >}} Movement type` column says which kind it is, and `File` holds the document itself: the PDF of the delivery note, for example.
+Each record in the `Documents` table is a piece of paperwork that moves stock, and the `{{< seatable-icon icon="dtable-icon-single-election" >}} Movement type` column marks which way: a `Delivery` brings goods **in** from a supplier and adds to your stock, while a `Customer order` sends them **out** and draws from it. This course follows the delivery side from end to end — receiving goods and keeping the stock right. The `Customer order` side is there on purpose: your base is already structured for it, and turning the whole flow around to serve it is the challenge we leave you with at the end (see step 9). For now, every document you handle is a delivery, and `File` holds it — the PDF of the delivery note, for example.
 
 The other columns in this table — those that will hold the text extracted from the document, the archive link or the assignment of an issue to a colleague — will fill up as the course goes on, as you put them into service. No need to detail them now; each one arrives at its own step.
 
@@ -56,7 +58,7 @@ The `Documents` and `Line items` tables are linked: on the document side, the `{
 
 In a well-run warehouse, the same goods pass through three states, and your base tells them apart:
 
-- **Ordered**: the reference — what you expect from the supplier. These lines will come later from your management software; we will get back to that in the step on the API.
+- **Ordered**: your purchase order — what you asked the supplier for. These lines will come later from your management software; we will get back to that in the step on the API.
 - **Delivered**: what the delivery note announces on arrival, in the `Qty` column.
 - **Received**: what you actually count on the dock, in the `Received qty` column.
 

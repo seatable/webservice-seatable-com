@@ -32,7 +32,7 @@ The action to choose is called *link by comparison*. Rather than picking a recor
 The supplier sent you the detail of the delivery as a spreadsheet — a very common case. Rather than retyping everything, import that file straight into the `Line items` table: SeaTable creates one line per entry in the file and matches its columns to yours.
 
 <!-- TODO: provide the sample CSV/XLSX file and drop it at this path -->
-[SeaTable Course Level 4 - Delivery lines.csv](/SeaTable-Course-Level-4-Delivery-lines.csv)
+[SeaTable Course 4 - Delivery lines.csv](/SeaTable-Course-4-Delivery-lines.csv)
 
 The instant each line is created, your automation fires: the `Product` and `Document` columns, absent from the file, fill themselves in. Your lines are now attached to the catalog and to their delivery, without a single link entered by hand. This is a good moment to have your work checked by the plugin — it verifies that each imported line has indeed found its product.
 

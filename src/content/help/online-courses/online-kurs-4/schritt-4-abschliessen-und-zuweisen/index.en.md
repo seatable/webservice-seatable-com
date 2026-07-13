@@ -29,7 +29,7 @@ A compliant delivery calls for no particular action. But if items are missing, o
 
 The trigger, this time, is not the arrival of a new line but the **modification** of a document: the exact moment you fill in `Operator validation`. The action: assign a `Reviewer`, the person in charge of settling the dispute.
 
-On your base, you are on your own: assign the document to yourself. In a real team — as you saw in the [level 3 course, dedicated to collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung/" >}}) — it would be a colleague, the purchasing team for example, who would receive the notification and take over.
+On your base, you are on your own: assign the document to yourself. In a real team — as you saw in [Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung/" >}}) — it would be a colleague, the purchasing team for example, who would receive the notification and take over.
 
 ## The condition that changes everything
 
@@ -51,4 +51,4 @@ Open the record of a delivery you closed without any discrepancy, and confirm th
 
 - [The collaborator column]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte/" >}})
 - [Create and configure an automation]({{< relref "help/base-editor/automationen/" >}})
-- [The level 3 course: collaborating on shared data]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung/" >}})
+- [Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung/" >}})
