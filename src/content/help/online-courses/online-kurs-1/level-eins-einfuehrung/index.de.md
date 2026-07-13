@@ -1,5 +1,5 @@
 ---
-title: 'Level Eins: Einführung'
+title: 'Einführung'
 date: 2024-08-30
 lastmod: '2024-09-05'
 categories:
@@ -7,13 +7,13 @@ categories:
 author: 'cdb'
 url: '/de/hilfe/level-eins-einfuehrung'
 seo:
-    title: 'SeaTable Level 1: Einführung – Online Kurs für Einsteiger'
-    description: 'Der SeaTable Online Kurs Level 1 führt Sie Schritt für Schritt in die Grundlagen ein – Navigation, Tabellen, Webformulare, Verknüpfungen, Ansichten, Quiz.'
+    title: 'SeaTable Online-Kurs 1 – Erste Schritte: Einführung für Einsteiger'
+    description: 'Der SeaTable Online-Kurs 1 – Erste Schritte führt Sie Schritt für Schritt in die Grundlagen ein – Navigation, Tabellen, Webformulare, Verknüpfungen, Ansichten, Quiz.'
 
 weight: 1
 ---
 
-Willkommen zum **SeaTable Online Kurs Level 1**!
+Willkommen zum **SeaTable Online-Kurs 1 – Erste Schritte**!
 
 ## Ist dies der richtige Kurs für mich?
 

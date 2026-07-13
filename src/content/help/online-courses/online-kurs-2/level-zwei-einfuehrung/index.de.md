@@ -1,5 +1,5 @@
 ---
-title: 'Level Zwei: Einführung'
+title: 'Einführung'
 date: 2024-09-18
 lastmod: '2024-09-23'
 categories:
@@ -12,14 +12,14 @@ seo:
 weight: 1
 ---
 
-Willkommen zum **SeaTable Online Kurs Level 2!**
+Willkommen zum **SeaTable Online-Kurs 2 – Eingaben und Ausgaben!**
 
 ## Ist dies der richtige Kurs für mich?
 
 Dieser Kurs ist ideal für Sie, wenn Sie:
 
 - Einen Geschäftsprozess mit SeaTable entwickeln möchten.
-- Sie nach dem Absolvieren des [Online-Kurses Level 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}) noch tiefer in die Funktionen von SeaTable eintauchen möchten.
+- Sie nach dem Absolvieren des [Online-Kurs 1 – Erste Schritte]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}) noch tiefer in die Funktionen von SeaTable eintauchen möchten.
 
 ## Was werde ich in diesem Online Kurs lernen?
 

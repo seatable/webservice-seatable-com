@@ -1,5 +1,5 @@
 ---
-title: 'Level Three: Introduction'
+title: 'Introduction'
 date: 2026-06-18
 lastmod: '2026-06-18'
 categories:
@@ -9,12 +9,12 @@ url: '/help/level-three-introduction'
 aliases:
     - '/help/level-drei-einfuehrung'
 seo:
-    title: 'SeaTable Online Course Level 3: Collaboration'
+    title: 'SeaTable Online Course 3 – Collaboration'
     description: 'Work on shared data as a team in SeaTable: share a base, comment and @mention, track who changed what, distribute a live dataset, and collaborate on the whiteboard.'
 weight: 1
 ---
 
-Welcome to the SeaTable Online Course Level 3!
+Welcome to the SeaTable Online Course 3 – Collaboration!
 
 In Course 1 you learned the basics, and in Course 2 you built a complete business process. So far, though, you have been working on your own. In real life, data is rarely a solo affair: your colleagues need to read it, comment on it, edit it, and build on top of it, all without stepping on each other. That is what this course is about — collaboration.
 
@@ -24,7 +24,7 @@ In Course 1 you learned the basics, and in Course 2 you built a complete busines
 
 This course is ideal for you if you:
 
-- have completed the [Level 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung/" >}}) and [Level 2]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung/" >}}) online courses and want to go further.
+- have completed the [Online Course 1 – Getting Started]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung/" >}}) and [Online Course 2 – Inputs and Outputs]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung/" >}}) courses and want to go further.
 - need to work on the same data as your colleagues, without overwriting each other's work.
 - want to share a base, discuss records in context, track changes, and distribute data to other teams.
 
@@ -37,7 +37,7 @@ Step by step, you will learn how to:
 - share a base with a colleague and choose the right permission level.
 - comment and @mention to discuss specific records, and understand when a notification actually fires.
 - read the activity history to see who changed what, and restore a value to an earlier state.
-- distribute a live, always-up-to-date dataset to another team with the common dataset, so their copy stays in sync with yours.
+- distribute a live, always-up-to-date dataset to another team with the common dataset feature, so their copy stays in sync with yours.
 - collaborate visually in real time on the whiteboard.
 
 By the end, you will have a practical toolkit for working on shared data with confidence.
@@ -48,8 +48,8 @@ To successfully complete this course, you will need:
 
 1. **SeaTable**: Use any SeaTable system. The easiest way is a [free SeaTable Cloud account](/registration/).
 2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-3. **A second account**: A second SeaTable account, added to your team, to play the role of a colleague. A second email address is all it takes. We explain how to set this up just below — it is a prerequisite, not a course step.
-4. **Two browser windows**: One ordinary window 🌐 signed in to your main account, and one private window 🕶 signed in to the second account, so you can switch between the two roles. A wide screen is recommended, as the two windows sit side by side; a laptop screen is cramped and a phone will not work.
+3. **A second account** (facultative - solo path only): A second SeaTable account, added to your team, to play the role of a colleague. A second email address is all it takes. We explain how to set this up just below.
+4. **Two browser windows** (facultative - solo path only): One ordinary window 🌐 signed in to your main account, and one private window 🕶 signed in to the second account, so you can switch between the two roles. A wide screen is recommended, as the two windows sit side by side; a laptop screen is cramped and a phone will not work.
 5. **Two groups**: Two groups in your team — a `Commercial` group, where your `Sales CRM` base will live, and a `Marketing` group for your colleague. We explain how to create them below. This is more than tidiness: a base must sit in a group for the common dataset in Step 5 to work.
 6. **Browser and language**: We recommend Google Chrome, and the course and quiz are in English.
 
@@ -72,7 +72,7 @@ From your team's admin page, invite a second email address, then accept the invi
 
 ### Setting up your groups
 
-SeaTable lets you organise bases into **groups** — shared containers that usually stand for a department. This course uses two:
+SeaTable lets you organise bases into **groups** — shared containers that may stand for a particular project, or in our case for a department. This course uses two:
 
 - a **`Commercial`** group, your own department, where your `Sales CRM` base will live from Step 1 onwards.
 - a **`Marketing`** group, your colleague's department, which Thomas belongs to and which you will distribute the live dataset to in Step 5.

@@ -27,7 +27,7 @@ What Marketing needs is a third option: data that is as safe as a read-only shar
 
 First, give Thomas a base of his own to work in. In Thomas's window 🕶, download the following file and import it as a new base **into the `Marketing` group**, just as you imported `Sales CRM` into the `Commercial` group in Step 1:
 
-[SeaTable Course Level 3 - Campaign Hub.dtable](/SeaTable-Course-Level-3-Campaign-Hub.dtable)
+[SeaTable Course 3 - Campaign Hub.dtable](/SeaTable-Course-3-Campaign-Hub.dtable)
 
 `Campaign Hub` is Marketing's own small base. It has a `Campaigns` table and — the part that matters here — a table called `Customer list (manual)`. Open it and look closely: it holds about 150 customers where your master has 350, the newest customers are simply absent, the segment labels are out of date, and the "last updated" dates all go back a few years. This is the stale copy we are going to retire.
 

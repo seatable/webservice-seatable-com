@@ -11,7 +11,7 @@ seo:
     description: 'Import the prepared Sales CRM base and get to know the tables, the link between customers and deals, the confidential rollup and formula, and the two views you will share later.'
 ---
 
-Before you can collaborate on data, you need some data to collaborate on. Throughout this course you work on the Commercial team, and you own the company's customer list. So we start where every collaboration starts: with the base that holds the shared data.
+Before you can collaborate on data, you need some data to collaborate on! Throughout this course you work on the Commercial team, and you own the company's customer list. So we start where every collaboration starts: with the base that holds the shared data.
 
 In Course 1 you already learned how to build a base from scratch, and in Course 2 you imported a ready-made one. We will do the same here and start directly with a prepared base, so we can spend our time on collaboration rather than on data entry.
 
@@ -19,7 +19,7 @@ Everything in this step happens in your main window 🌐, signed in as your own 
 
 Download the following file to your computer and import it as a new base **into your `Commercial` group** — the group you set up in the introduction:
 
-[SeaTable Course Level 3 - Sales CRM.dtable](/SeaTable-Course-Level-3-Sales-CRM.dtable)
+[SeaTable Course 3 - Sales CRM.dtable](/SeaTable-Course-3-Sales-CRM.dtable)
 
 Importing into the `Commercial` group, rather than your personal workspace, matters for later: in Step 5 you will publish a common dataset, which only works from a base that lives in a group. If you were not able to create groups, you can still follow this step and most of the course with the base in your personal workspace — only Step 5 will be out of reach.
 
@@ -34,7 +34,7 @@ The base is called `Sales CRM` — the system the Commercial team uses to manage
 - 3 views
 - a link, a rollup and a formula column
 
-Despite its modest size, this structure is enough to cover every collaboration situation in the course. Below we walk through it piece by piece.
+This structure is intentionally simpler than a real-world database, but it is sufficient to cover all the collaboration scenarios addressed in the course; this allows us to focus on the essentials for now. Below we walk through it piece by piece.
 
 ### Your customer master
 

@@ -10,7 +10,7 @@ aliases:
     - '/help/schritt-1-import-der-base'
 seo:
     title: 'Step 1 in SeaTable Course 2: import and explore the base'
-    description: 'First step in Level 2: Import the provided DTABLE, discover new columns, formulas, and views—lay the groundwork for your advanced project process.'
+    description: 'First step in Course 2 – Inputs and Outputs: Import the provided DTABLE, discover new columns, formulas, and views—lay the groundwork for your advanced project process.'
 ---
 
 Before you can map a new business process in SeaTable, you must first create the appropriate table structure. This is the only way to record the data required for the process in a meaningful way and process it efficiently later. Although you can be inspired by the numerous templates, it is usually necessary to think through the process in detail and clearly define the relevant data.
@@ -24,7 +24,7 @@ In the first course, you have already learned how to create a base with differen
 
 Download the following file to your PC and import it as a new base on the SeaTable start page:
 
-[SeaTable Course Level 2.dtable](/SeaTable-Course-Level-2.dtable)
+[SeaTable Course 2.dtable](/SeaTable-Course-2.dtable)
 
 Even if you do not have to create the base yourself, it is important that you familiarize yourself intensively with the structure. New column types have been used that you may not be familiar with from the previous course.
 

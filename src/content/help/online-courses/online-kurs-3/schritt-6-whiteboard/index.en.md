@@ -23,7 +23,7 @@ A whiteboard needs a base that everyone drawing on it can edit. You have just sp
 
 Marketing keeps a board explaining how the customer data reaches them — but it still shows the old way, back when they worked from a manual copy. Now that the data arrives as a common dataset, the picture needs redrawing, and since you set up that new flow, you will update it together. In Thomas's window 🕶, import the following base into the `Marketing` group — you are both members, so you will both be able to draw on it:
 
-[SeaTable Course Level 3 - Marketing Whiteboard.dtable](/SeaTable-Course-Level-3-Marketing-Whiteboard.dtable)
+[SeaTable Course 3 - Marketing Whiteboard.dtable](/SeaTable-Course-3-Marketing-Whiteboard.dtable)
 
 The whiteboard plugin comes already set up inside it, with a starter diagram already on it — so there is nothing to install; just open it from the base's plugin area.
 
