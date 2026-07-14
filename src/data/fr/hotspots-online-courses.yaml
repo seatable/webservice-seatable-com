@@ -1,0 +1,52 @@
+# Interactive tree diagram for the online-courses landing page.
+# Courses 1 & 2 link to their localized intro pages; Course 3 is English-only
+# (tile shown without a link); Courses 4-7 are coming soon (no link).
+
+- 'label': "Cours 1 — Premiers pas"
+  'description': "Créez votre première base de données relationnelle et commencez à collecter des données.<br><br>Couvre les bases, les vues, les colonnes, les formulaires web et les liaisons — tout ce qu'il faut pour modéliser et saisir vos informations dans SeaTable."
+  'link': 'help/online-courses/online-kurs-1/level-eins-einfuehrung'
+  'position': 'right'
+  'x': 37.9
+  'y': 14
+
+- 'label': "Cours 2 — Entrées et sorties"
+  'description': "Faites entrer vos données et sortez vos résultats.<br><br>Apprenez les imports et exports, la génération de documents PDF, les statistiques, les boutons d'action et l'envoi d'e-mails directement depuis votre base."
+  'link': 'help/online-courses/online-kurs-2/level-zwei-einfuehrung'
+  'position': 'right'
+  'x': 38.4
+  'y': 40.5
+
+- 'label': "Cours 3 — Collaboration"
+  'description': "Collaborez sur vos données — partagez, coéditez et gardez tout le monde synchronisé.<br><br>Couvre le partage et les autorisations, les groupes, les commentaires et @mentions, le journal d'activité, les jeux de données communs et le tableau blanc.<br><br><em>Disponible en anglais pour le moment.</em>"
+  'link': ''
+  'position': 'right'
+  'x': 38.7
+  'y': 65.5
+
+- 'label': "Cours 4 — Automatisation et intégration"
+  'description': "Automatisez vos flux de travail et connectez des outils externes.<br><br>Couvrira les automatisations, les scripts, les bases de l'API, les webhooks et les intégrations avec n8n, Zapier et Make.<br><br><em>Bientôt disponible.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 96.2
+  'y': 14
+
+- 'label': "Cours 5 — Applications et rapports"
+  'description': "Transformez vos bases en applications et en rapports soignés pour vos utilisateurs.<br><br>Couvrira l'Universal App (types de pages, autorisations par page, pages personnalisées), les tableaux de bord et le plugin de conception de rapports.<br><br><em>Bientôt disponible.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 38
+
+- 'label': "Cours 6 — Maîtrise des données"
+  'description': "Modélisez, calculez et faites évoluer vos données avec des formules et des relations.<br><br>Couvrira les formules, le traitement des données, le big data et les relations entre tables.<br><br><em>Bientôt disponible.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 62
+
+- 'label': "Cours 7 — Maintenance et hygiène"
+  'description': "Gardez vos bases propres, organisées et traçables dans le temps.<br><br>Couvrira la déduplication, la gestion des fichiers et les journaux d'audit.<br><br><em>Bientôt disponible.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.7
+  'y': 84
