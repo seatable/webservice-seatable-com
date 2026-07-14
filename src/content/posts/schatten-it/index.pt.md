@@ -27,7 +27,7 @@ register:
 
 ## O que é Shadow IT?
 
-Shadow IT refere-se a sistemas de TI e aplicações de software que os funcionários dos departamentos de uma empresa utilizam **sem o conhecimento do departamento de TI** para complementar ou contornar a infraestrutura oficial de TI.
+Shadow IT refere-se a sistemas de TI e aplicações de software que os funcionários dos departamentos de uma empresa utilizam **sem o conhecimento do departamento de TI** para complementar ou contornar a [infraestrutura oficial de TI]({{< relref "posts/it-infrastruktur" >}}).
 
 Por definição, Shadow IT não está, portanto, nem técnica nem estrategicamente integrada na [gestão de serviços de TI]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}), o que acarreta riscos de segurança e outros problemas. Derivado do inglês **Shadow IT**, o termo pretende exprimir o facto de os empregados deixarem as instâncias superiores da empresa às escuras quanto à utilização de ferramentas e processos digitais executados em segredo.
 

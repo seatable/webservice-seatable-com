@@ -27,7 +27,7 @@ register:
 
 ## Was ist Schatten IT?
 
-Als Schatten-IT bezeichnet man IT-Systeme und Software-Anwendungen, die Mitarbeiter in den Fachabteilungen eines Unternehmens **ohne Kenntnis der IT-Abteilung** nutzen, um die offizielle IT-Infrastruktur zu ergänzen oder zu umgehen. 
+Als Schatten-IT bezeichnet man IT-Systeme und Software-Anwendungen, die Mitarbeiter in den Fachabteilungen eines Unternehmens **ohne Kenntnis der IT-Abteilung** nutzen, um die offizielle [IT-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) zu ergänzen oder zu umgehen. 
 
 Somit ist Schatten IT gemäß Definition weder technisch noch strategisch in das [IT-Service-Management]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) eingebunden, was Sicherheitsrisiken und andere Probleme mit sich bringt. Abgeleitet vom englischen **Shadow IT** soll der Begriff ausdrücken, dass Mitarbeiter höhere Instanzen im Unternehmen über den Einsatz von Tools im Dunkeln lassen und digitale Prozesse im Verborgenen ablaufen.
 

@@ -22,7 +22,7 @@ register:
 A soberania digital é a **capacidade de empresas, indivíduos ou Estados agirem autonomamente num mundo em rede**. Para além da competência digital, o termo engloba o controlo de toda a infraestrutura digital necessária para a soberania tecnológica. Os principais objectivos podem ser resumidos da seguinte forma:
 
 - reduzir a dependência de fornecedores e produtos individuais
-- garantir uma infraestrutura informática segura, funcional e disponível
+- garantir uma [infraestrutura informática]({{< relref "posts/it-infrastruktur" >}}) segura, funcional e disponível
 - manter a capacidade de atuar e permanecer competitivo no decurso da digitalização
 - cumprir todos os regulamentos de conformidade aplicáveis, em especial a proteção de dados
     

@@ -1,5 +1,7 @@
 ---
 title: 'Общий доступ'
-description: ''
+seo:
+    title: 'Общий доступ в SeaTable | Безопасный обмен данными в команде | Справка'
+    description: 'Все статьи справки по общему доступу в SeaTable: узнайте всё о ссылках для приглашений, правах на чтение и запись, а также о групповом доступе'
 url: '/ru/pomoshch/glavnaya-stranitsa/obshchiy-dostup'
 ---

@@ -31,6 +31,10 @@ SeaTable vous permet de créer différentes vues pour vos tableaux et de visuali
 
 La nouvelle **vue** s'ouvre automatiquement et vous pouvez par exemple **filtrer**, **trier** ou **grouper** les valeurs de votre choix dans cette vue.
 
+**Regardez notre vidéo explicative sous-titrée en français.**
+
+{{< youtube HXn2sDwRau0 >}}
+
 {{< warning  headline="Conseil" >}}
 
 Vous trouverez [ici]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) des informations détaillées sur les trois outils d'évaluation que sont le **regroupement**, le **tri** et le **filtre**.

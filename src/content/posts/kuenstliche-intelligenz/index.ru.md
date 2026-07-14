@@ -217,7 +217,7 @@ ChatGPT, Gemini, Copilot и Perplexity звучат убедительно, да
 
 И никаких проблем с защитой данных: помимо Gemma 3, SeaTable в будущем будет поддерживать и другие модели ИИ от различных поставщиков, которые работают в немецких центрах обработки данных в соответствии с GDPR. Кроме того, обмен данными между [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) и языковыми моделями зашифрован.
   
-Для полного контроля самостоятельные хостеры, конечно же, могут использовать модели AI в своей собственной инфраструктуре. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), компонент [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), основан на LiteLLM и поэтому поддерживает подключение большого количества моделей с OpenAI-совместимым API.
+Для полного контроля самостоятельные хостеры, конечно же, могут использовать модели AI в своей собственной [инфраструктуре]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), компонент [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), основан на LiteLLM и поэтому поддерживает подключение большого количества моделей с OpenAI-совместимым API.
 
 {{< newsletter title="Оставайтесь в курсе" subtitle="" submit="Подписаться сейчас" >}}
 

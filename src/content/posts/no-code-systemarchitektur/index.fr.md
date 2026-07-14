@@ -122,7 +122,7 @@ Un outil puissant est une condition préalable à des solutions évolutives, mai
 {{< /faq >}}
 
 {{< faq "Quel rôle joue le service informatique dans les projets no-code ?" >}}
-Le service informatique ne doit pas seulement approuver les projets no-code, mais aussi les soutenir activement. Il dispose d’une expertise en matière de sécurité, de conformité, de gestion des identités, d’intégration des systèmes et d’évaluation des risques. En particulier lorsque vous traitez des données sensibles et des processus critiques pour l’entreprise, la collaboration avec le service informatique vous aide à développer une architecture système robuste pour votre base de données, intégrée à l’infrastructure informatique de l’entreprise. Cela vous permet non seulement de créer des solutions métier robustes, mais aussi de garantir l’évolutivité de votre infrastructure informatique.
+Le service informatique ne doit pas seulement approuver les projets no-code, mais aussi les soutenir activement. Il dispose d’une expertise en matière de sécurité, de conformité, de gestion des identités, d’intégration des systèmes et d’évaluation des risques. En particulier lorsque vous traitez des données sensibles et des processus critiques pour l’entreprise, la collaboration avec le service informatique vous aide à développer une architecture système robuste pour votre base de données, intégrée à l’[infrastructure informatique]({{< relref "posts/it-infrastruktur" >}}) de l’entreprise. Cela vous permet non seulement de créer des solutions métier robustes, mais aussi de garantir l’évolutivité de votre infrastructure informatique.
 {{< /faq >}}
 
 {{< faq "Pourquoi la documentation est-elle si cruciale dans le domaine du no-code ?" >}}

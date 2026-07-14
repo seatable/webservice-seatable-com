@@ -31,6 +31,10 @@ No SeaTable, pode criar diferentes vistas para as suas tabelas e, assim, visuali
 
 A **vista** recém-criada abre-se automaticamente e pode **filtrar**, **ordenar** ou **agrupar** de acordo com quaisquer valores, por exemplo.
 
+**Veja o nosso vídeo explicativo com legendas em português.**
+
+{{< youtube HXn2sDwRau0 >}}
+
 {{< warning  headline="Dica" >}}
 
 Informações detalhadas sobre as três ferramentas, **agrupamento**, **classificação** e **filtragem**, podem ser encontradas [aqui]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).

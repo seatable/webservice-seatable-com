@@ -121,7 +121,7 @@ Ein weiteres Highlight ist die integrierte Knowledge Base, welche Ihnen mit weni
 
 ## Ohne Ticketing System geht es nicht
 
-Die Anforderungen an den Support wachsen: Die IT-Infrastruktur wird immer komplexer, Sie müssen neue Sicherheitsstandards einhalten und gleichzeitig erwarten Kunden und Mitarbeiter innovative, schnelle Lösungen. Um mit diesen Entwicklungen im Beschwerdemanagement Schritt halten zu können, ist ein Ticketing System unerlässlich.
+Die Anforderungen an den Support wachsen: Die [IT-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) wird immer komplexer, Sie müssen neue Sicherheitsstandards einhalten und gleichzeitig erwarten Kunden und Mitarbeiter innovative, schnelle Lösungen. Um mit diesen Entwicklungen im Beschwerdemanagement Schritt halten zu können, ist ein Ticketing System unerlässlich.
 
 ![Cloudbasierte Ticketing Systeme lassen sich flexibel skalieren und ortsunabhängig nutzen.](ticketing-system-helpdesk.png)
 

@@ -84,7 +84,7 @@ Los **análisis de escenarios** le ayudan a planificar las tasas de crecimiento,
 
 La incertidumbre es mayor en la fase de puesta en marcha. Aún no hay cifras de ventas fiables y los recursos suelen ser limitados. A menudo se necesita financiación externa sin poder predecir con seguridad si el modelo de negocio funcionará realmente y asumirá los costes. Una buena planificación financiera de la puesta en marcha ayuda a gestionar estos riesgos.
 Al principio, la atención se centra principalmente en estas cuestiones:
-- **Plan de empresa**: ¿Es su idea de negocio económicamente viable y se distingue de la competencia en el mercado?
+- [Plan de empresa]({{< relref "posts/businessplan" >}}): ¿Es su idea de negocio económicamente viable y se distingue de la competencia en el mercado?
 - **Planificación de las necesidades de capital**: ¿Qué necesita para la puesta en marcha (por ejemplo, equipamiento, personal, marketing)?
 - **Planificación de la financiación**: ¿De dónde procederá el dinero (capital propio, préstamos bancarios, subvenciones, inversores)?
 - **Planificación de la liquidez**: ¿Cuánto tiempo durará el dinero disponible para cubrir los gastos corrientes?

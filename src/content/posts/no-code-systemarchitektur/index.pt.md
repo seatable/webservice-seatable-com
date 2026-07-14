@@ -122,7 +122,7 @@ Uma ferramenta poderosa é um pré-requisito para soluções escaláveis, mas n�
 {{< /faq >}}
 
 {{< faq "Que papel desempenha a TI em projetos no-code?" >}}
-A TI não deve apenas aprovar projetos no-code, mas também apoiá-los ativamente. A TI possui conhecimentos especializados em segurança, conformidade, gestão de identidades, integração de sistemas e avaliação de riscos. Especialmente ao lidar com dados sensíveis e processos críticos para o negócio, a colaboração com a TI ajuda-o a desenvolver uma arquitetura de sistema robusta para a sua base de dados, integrada na infraestrutura de TI da empresa. Isto permite-lhe não só criar soluções de negócio robustas, mas também garantir a escalabilidade da sua TI.
+A TI não deve apenas aprovar projetos no-code, mas também apoiá-los ativamente. A TI possui conhecimentos especializados em segurança, conformidade, gestão de identidades, integração de sistemas e avaliação de riscos. Especialmente ao lidar com dados sensíveis e processos críticos para o negócio, a colaboração com a TI ajuda-o a desenvolver uma arquitetura de sistema robusta para a sua base de dados, integrada na [infraestrutura de TI]({{< relref "posts/it-infrastruktur" >}}) da empresa. Isto permite-lhe não só criar soluções de negócio robustas, mas também garantir a escalabilidade da sua TI.
 {{< /faq >}}
 
 {{< faq "Por que razão a documentação é tão crucial no âmbito do no-code?" >}}

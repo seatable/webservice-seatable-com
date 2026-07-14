@@ -22,7 +22,7 @@ register:
 Als digitale Souveränität bezeichnet man die **Fähigkeit von Unternehmen, Individuen oder Staaten, selbstbestimmt in einer vernetzten Welt zu agieren**. Neben der digitalen Kompetenz umfasst der Begriff die Kontrolle über die gesamte digitale Infrastruktur, die man für technologische Souveränität benötigt. Die Hauptziele lassen sich folgendermaßen zusammenfassen:
 
 - die Abhängigkeit von einzelnen Anbietern und Produkten verringern
-- für eine sichere, funktionierende und verfügbare IT-Infrastruktur sorgen
+- für eine sichere, funktionierende und verfügbare [IT-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) sorgen
 - die Handlungs- und Wettbewerbsfähigkeit im Zuge der Digitalisierung bewahren
 - alle geltenden Compliance-Regeln einhalten, insbesondere den Datenschutz
     

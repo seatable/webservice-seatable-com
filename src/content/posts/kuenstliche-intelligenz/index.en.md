@@ -217,7 +217,7 @@ As an AI no-code platform, SeaTable enables AI-supported automations with which 
 
 And without any worry lines when it comes to data protection: In addition to Gemma 3, SeaTable will in future support other AI models from various providers that are operated in German data centers in compliance with the GDPR. The data exchange between [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and the language models is encrypted.
   
-For full control, self-hosters can of course also use AI models in their own infrastructure. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), a component of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), is based on LiteLLM and thus supports the connection of a large number of models with an OpenAI-compatible API.
+For full control, self-hosters can of course also use AI models in their own [infrastructure]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), a component of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), is based on LiteLLM and thus supports the connection of a large number of models with an OpenAI-compatible API.
 
 {{< newsletter title="Stay informed" subtitle="" submit="Sign up now" >}}
 

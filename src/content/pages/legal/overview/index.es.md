@@ -7,7 +7,7 @@ sections:
     - name: hero-7
       weight: 1
       title: Información y documentos legales
-      text: 'Resumen de protección de datos, condiciones de uso y medidas de seguridad.'
+      text: 'Resumen de las condiciones de uso, la política de privacidad y la seguridad de la información'
       classes:
           - bg-gray-200
 
@@ -16,31 +16,31 @@ sections:
       items:
           - icon: fingerprint
             headline: Política de privacidad
-            text: La política de privacidad explica qué datos personales son recopilados, procesados y protegidos por nosotros.
+            text: La política de privacidad explica qué datos personales recopilamos y tratamos, en qué fundamento se basa esta actividad y cuáles son sus derechos.
             link: pages/legal/data-privacy
           - icon: pgpkey
-            headline: Términos y condiciones
-            text: Los términos y condiciones establecen las reglas para el uso de nuestros servicios, incluyendo derechos y obligaciones de todas las partes involucradas.
+            headline: Condiciones de uso SeaTable Cloud
+            text: Las condiciones de uso establecen las normas para el uso de nuestro servicio en la nube SeaTable Cloud, incluidos los derechos y obligaciones de todas las partes implicadas.
             link: pages/legal/terms-of-service
+          - icon: bell
+            headline: Acuerdo de licencia de usuario final SeaTable Server Enterprise Edition
+            text: El Acuerdo de licencia de usuario final («EULA») regula la relación jurídica entre SeaTable GmbH y usted, como usuario de nuestra solución local SeaTable Server Enterprise Edition.
+            link: pages/legal/eula
           - icon: file-shield
             headline: Acuerdo de procesamiento de datos
-            text: El acuerdo de procesamiento de datos regula el procesamiento contractual de datos personales por encargo y el cumplimiento de los requisitos de protección de datos.
+            text: El acuerdo de procesamiento de dates concreta las obligaciones recíprocas en materia de protección de datos relativas al tratamiento de datos personales, de conformidad con el Reglamento General de Protección de Datos (RGPD).
             link: pages/legal/avv
           - icon: globe
-            headline: Subcontratistas
-            text: La descripción de los subcontratistas enumera a terceros que procesan datos personales por encargo y aclara su fiabilidad así como las garantías de seguridad contractuales.
+            headline: Subencargados
+            text: SeaTable colabora con socios para prestar nuestros servicios. Aquí puede consultar quiénes son.
             link: pages/legal/subprocessors
           - icon: list-check
             headline: Medidas técnicas y organizativas
-            text: Las medidas técnicas y organizativas describen protecciones completas contra acceso no autorizado, pérdida o manipulación de datos personales.
+            text: Las medidas técnicas y organizativas describen las medidas de protección que hemos adoptado para garantizar la protección y la seguridad de los datos personales.
             link: pages/legal/toms
-          - icon: bell
-            headline: Acuerdo de licencia de usuario final para SeaTable Server Enterprise Edition
-            text: Las disposiciones de este Acuerdo de Licencia de Usuario Final ("EULA") rigen la relación legal entre SeaTable GmbH y el cliente.
-            link: pages/legal/eula
           - icon: substack
             headline: EVB-IT
-            text: La EVB-IT regula el procesamiento electrónico de datos en el sector público y establece requisitos mínimos de seguridad informática y protección de datos en los acuerdos de procesamiento de datos.
+            text: A las organizaciones del sector público les cedemos nuestra solución local SeaTable Server en virtud del tipo B de cesión de EVB-IT.
 
     - name: 'content-22'
       weight: 3

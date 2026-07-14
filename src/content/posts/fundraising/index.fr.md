@@ -129,6 +129,6 @@ Les logiciels de collecte de fonds sont spécifiquement conçus pour soutenir la
 
 {{< faq "Quelles sont les particularités de la collecte de fonds pour les jeunes entreprises ?" >}}
 
-Les startups sont souvent à la recherche d'options de financement autres que les prêts bancaires traditionnels. Contrairement à la collecte de fonds classique, la "collecte de fonds pour les startups" fonctionne principalement via le crowdfunding et s'adresse spécifiquement aux investisseurs et aux business angels. Le processus repose sur un plan d'affaires bien élaboré. Du point de vue des donateurs, il s'agit d'un investissement financier avec une espérance de gain. Ils ne sont donc pas des donateurs, mais des investisseurs.
+Les startups sont souvent à la recherche d'options de financement autres que les prêts bancaires traditionnels. Contrairement à la collecte de fonds classique, la "collecte de fonds pour les startups" fonctionne principalement via le crowdfunding et s'adresse spécifiquement aux investisseurs et aux business angels. Le processus repose sur un [plan d'affaires]({{< relref "posts/businessplan" >}}) bien élaboré. Du point de vue des donateurs, il s'agit d'un investissement financier avec une espérance de gain. Ils ne sont donc pas des donateurs, mais des investisseurs.
 
 {{< /faq >}}

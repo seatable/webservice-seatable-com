@@ -122,7 +122,7 @@ A powerful tool is a prerequisite for scalable solutions, but it is no substitut
 {{< /faq >}}
 
 {{< faq "What role does IT play in no-code projects?" >}}
-IT should not only approve no-code projects but also actively support them. IT has expertise in security, compliance, identity management, system integration, and risk assessment. Especially when dealing with sensitive data and business-critical processes, collaborating with IT helps you develop a robust system architecture for your database that is embedded within the company’s IT infrastructure. This allows you not only to create robust business solutions but also to ensure the scalability of your IT.
+IT should not only approve no-code projects but also actively support them. IT has expertise in security, compliance, identity management, system integration, and risk assessment. Especially when dealing with sensitive data and business-critical processes, collaborating with IT helps you develop a robust system architecture for your database that is embedded within the company’s [IT infrastructure]({{< relref "posts/it-infrastruktur" >}}). This allows you not only to create robust business solutions but also to ensure the scalability of your IT.
 {{< /faq >}}
 
 {{< faq "Why is documentation so crucial in the no-code space?" >}}

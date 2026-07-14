@@ -125,6 +125,6 @@ Fundraising software is specifically designed to support the planning and manage
 
 {{< faq "What are the special features of fundraising for start-ups?" >}}
 
-Startups are often looking for financing options other than traditional bank loans. Unlike conventional fundraising, "fundraising for startups" works primarily via crowdfunding and specifically addresses investors and business angels. The process is based on a well-developed business plan. From the donors' point of view, it is a financial investment with an expectation of profit. They are therefore not donors, but investors.
+Startups are often looking for financing options other than traditional bank loans. Unlike conventional fundraising, "fundraising for startups" works primarily via crowdfunding and specifically addresses investors and business angels. The process is based on a well-developed [business plan]({{< relref "posts/businessplan" >}}). From the donors' point of view, it is a financial investment with an expectation of profit. They are therefore not donors, but investors.
 
 {{< /faq >}}

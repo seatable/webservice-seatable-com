@@ -12,13 +12,10 @@ url: '/subprocessors'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-These subprocessors are only available in English and German. The English translation is an non-binding, convenience translation.
-
+This list of subprocessors is only available in English and German. The English translation is an non-binding, convenience translation.
 The **[German original]({{< relref path="pages/legal/subprocessors" lang="de" >}})** is legally binding.
 
-{{< /alert >}}
-
-These are the subprocessors of **SeaTable GmbH, 117er Ehrenhof 5, 55118 Mainz, Germany**.
+{{< /alert >}}<br />
 
 ## Preamble
 
@@ -51,4 +48,3 @@ With this documentation, SeaTable GmbH fulfills its obligations under section 7.
 | Sendinblue GmbH | Köpenicker Straße 126, 10179 Berlin, Germany | Email marketing system |
 
 Further information about the subprocessors can be found in the privacy policy, which is available at any time on the SeaTable website under [Privacy Policy]({{< relref "pages/legal/data-privacy" >}}).
-

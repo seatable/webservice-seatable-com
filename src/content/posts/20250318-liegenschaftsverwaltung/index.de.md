@@ -110,6 +110,6 @@ Um SeaTable zu verwenden, müssen Sie sich lediglich [kostenlos registrieren]({{
 {{< /faq >}}
 {{< faq "Ist die Liegenschaftsverwaltung in SeaTable DSGVO-konform? " >}}DSGVO-Konformität ist essenziell, insbesondere bei der Verarbeitung personenbezogener Daten von Mietern und Eigentümern. Mit einer Plattform wie SeaTable können Sie Zugriffsrechte genau festlegen und Daten sicher speichern – entweder in der Cloud oder auf eigenen Servern (On-Premises).
 {{< /faq >}}
-{{< faq "Ist eine digitale Liegenschaftsverwaltung auch für kleinere Kommunen oder Gemeinden sinnvoll? " >}}Ja, besonders kleinere Kommunen profitieren von digitalen Lösungen, da sie oft begrenzte Ressourcen für die Verwaltung haben. Mit SeaTable können sie Prozesse effizient gestalten, ohne hohe Kosten für Software oder IT-Infrastruktur zu verursachen. Das skalierbare System passt sich Ihren individuellen Anforderungen an.
+{{< faq "Ist eine digitale Liegenschaftsverwaltung auch für kleinere Kommunen oder Gemeinden sinnvoll? " >}}Ja, besonders kleinere Kommunen profitieren von digitalen Lösungen, da sie oft begrenzte Ressourcen für die Verwaltung haben. Mit SeaTable können sie Prozesse effizient gestalten, ohne hohe Kosten für Software oder [IT-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) zu verursachen. Das skalierbare System passt sich Ihren individuellen Anforderungen an.
 
 {{< /faq >}}

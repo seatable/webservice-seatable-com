@@ -2,7 +2,7 @@
 title: 'Plan de negocio'
 description: 'Planifique ideas empresariales, alinee objetivos estratégicos entre equipos y cree transparencia para éxito empresarial sostenible.'
 date: '2024-08-24'
-url: '/es/plantilla/plan-de-negocios'
+url: '/es/plantilla/hoja-de-ruta-empresarial'
 aliases:
     - '/es/plantilla/business-roadmap'
 category: 'projects'

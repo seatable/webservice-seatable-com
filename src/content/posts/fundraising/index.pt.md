@@ -127,6 +127,6 @@ O software de angariação de fundos foi especificamente concebido para apoiar o
 
 {{< faq "Quais são as caraterísticas especiais da angariação de fundos para empresas em fase de arranque?" >}}
 
-As empresas em fase de arranque procuram frequentemente outras opções de financiamento para além dos empréstimos bancários tradicionais. Ao contrário da angariação de fundos convencional, a "angariação de fundos para empresas em fase de arranque" funciona principalmente através de crowdfunding e dirige-se especificamente a investidores e business angels. O processo baseia-se num plano de negócios bem desenvolvido. Do ponto de vista dos doadores, trata-se de um investimento financeiro com uma expetativa de lucro. Por conseguinte, não são dadores, mas sim investidores.
+As empresas em fase de arranque procuram frequentemente outras opções de financiamento para além dos empréstimos bancários tradicionais. Ao contrário da angariação de fundos convencional, a "angariação de fundos para empresas em fase de arranque" funciona principalmente através de crowdfunding e dirige-se especificamente a investidores e business angels. O processo baseia-se num [plano de negócios]({{< relref "posts/businessplan" >}}) bem desenvolvido. Do ponto de vista dos doadores, trata-se de um investimento financeiro com uma expetativa de lucro. Por conseguinte, não são dadores, mas sim investidores.
 
 {{< /faq >}}

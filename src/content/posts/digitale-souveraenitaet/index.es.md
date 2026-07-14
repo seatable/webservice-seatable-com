@@ -22,7 +22,7 @@ register:
 La soberanía digital es la **capacidad de las empresas, los individuos o los Estados para actuar de forma autónoma en un mundo interconectado**. Además de la competencia digital, el término engloba el control sobre toda la infraestructura digital necesaria para la soberanía tecnológica. Los principales objetivos pueden resumirse como sigue:
 
 - reducir la dependencia de proveedores y productos individuales
-- garantizar una infraestructura informática segura, operativa y disponible
+- garantizar una [infraestructura informática]({{< relref "posts/it-infrastruktur" >}}) segura, operativa y disponible
 - mantener la capacidad de actuar y seguir siendo competitivo en el curso de la digitalización
 - adherirse a todas las normativas de cumplimiento aplicables, en particular la protección de datos
     

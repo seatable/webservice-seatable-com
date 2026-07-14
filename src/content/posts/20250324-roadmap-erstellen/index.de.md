@@ -117,7 +117,7 @@ Wenn Sie eine Vorlage suchen, die Ihnen das Festhalten von Projektberichten und 
 
 ### Strategische Roadmap
 
-Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem Businessplan aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
+Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem [Businessplan]({{< relref "posts/businessplan" >}}) aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
 
 Die Vorlage von SeaTable bildet alle wichtigen Prozesse übersichtlich ab. Diese können Sie an Ihr Unternehmen individuell anpassen.
 

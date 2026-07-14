@@ -87,7 +87,7 @@ A Platform as a Service (PaaS) é uma **plataforma baseada na nuvem para o desen
 
 ### O que é IaaS?
 
-Infrastructure as a Service (IaaS) significa que aluga a sua **infraestrutura de TI** desejada, por exemplo, servidores, redes, bases de dados e sistemas operativos, **num centro de dados externo e acede-lhe através da nuvem**. A faturação é baseada na utilização através do fornecedor de computação em nuvem. Isto elimina a necessidade de investimentos elevados na sua própria infraestrutura.
+Infrastructure as a Service (IaaS) significa que aluga a sua [infraestrutura de TI]({{< relref "posts/it-infrastruktur" >}}) desejada, por exemplo, servidores, redes, bases de dados e sistemas operativos, **num centro de dados externo e acede-lhe através da nuvem**. A faturação é baseada na utilização através do fornecedor de computação em nuvem. Isto elimina a necessidade de investimentos elevados na sua própria infraestrutura.
 
 | **IaaS**            | **PaaS**                          | **SaaS**                              |                                                                  |
 | ------------------- | --------------------------------- | ------------------------------------- | ---------------------------------------------------------------- |

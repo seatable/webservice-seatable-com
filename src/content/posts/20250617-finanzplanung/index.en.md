@@ -84,7 +84,7 @@ Long-term financial planning is closely linked to the overarching strategy that 
 Uncertainty is greatest in the start-up phase. There are no reliable sales figures yet and resources are usually limited. External financing is often necessary without being able to reliably predict whether the business model will really work and cover the costs. Good financial planning for your start-up helps to manage these risks.
 
 At the beginning, the focus is primarily on these questions:
-- **Business plan**: Is your business idea economically viable and does it stand out from the competition on the market?
+- [Business plan]({{< relref "posts/businessplan" >}}): Is your business idea economically viable and does it stand out from the competition on the market?
 - **Capital requirement planning**: What do you need for the start-up (e.g. equipment, personnel, marketing)?
 - **Financing planning**: Where will the money come from (equity, bank loans, subsidies, investors)?
 - **Liquidity planning**: How long will the available money last to cover current expenses?

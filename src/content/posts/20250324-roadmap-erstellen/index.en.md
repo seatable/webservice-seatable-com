@@ -118,7 +118,7 @@ If you are looking for a template that makes it easier for you to record project
 
 ### Strategic roadmap
 
-Are you a managing director or board member and want to explain the **overall vision** for the company to your employees or other stakeholders in a clear and concise way? Then a strategic roadmap, which has many similarities to a business plan, is the tool of choice. You can use it to map out your short and long-term goals (e.g. in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) and sales) and make the [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and all the measures required to achieve the business vision tangible at a glance.
+Are you a managing director or board member and want to explain the **overall vision** for the company to your employees or other stakeholders in a clear and concise way? Then a strategic roadmap, which has many similarities to a [business plan]({{< relref "posts/businessplan" >}}), is the tool of choice. You can use it to map out your short and long-term goals (e.g. in [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) and sales) and make the [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and all the measures required to achieve the business vision tangible at a glance.
 
 The SeaTable template clearly maps all important processes. You can customize it to suit your company.
 

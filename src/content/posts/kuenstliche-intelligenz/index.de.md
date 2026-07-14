@@ -217,7 +217,7 @@ Als KI No-Code Plattform erlaubt SeaTable KI-gestützte Automationen, mit denen 
 
 Und zwar ganz ohne Sorgenfalten in Sachen Datenschutz: Neben Gemma 3 unterstützt SeaTable künftig weitere KI-Modelle verschiedener Anbieter, die DSGVO-konform in deutschen Rechenzentren betrieben werden. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.
   
-Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen Infrastruktur nutzen. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.
+Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen [Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) nutzen. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.
 
 {{< newsletter title="Bleiben Sie informiert" subtitle="" submit="Jetzt anmelden" >}}
 

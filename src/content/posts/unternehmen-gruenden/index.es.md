@@ -49,7 +49,7 @@ Las fuentes de ingresos y la estrategia de precios adecuada son igual de importa
 
 ## Crear un plan de empresa
 
-Un plan de empresa es algo más que un documento: es tu hoja de ruta para crear tu empresa. Te servirá para plasmar tus ideas de forma estructurada, comprobar la viabilidad de tu proyecto y demostrar a posibles inversores o socios que has pensado bien tu proyecto empresarial. En las siguientes secciones, aprenderá paso a paso qué elementos contiene un plan de empresa completo y a qué debe prestar especial atención en cada punto.
+Un [plan de empresa]({{< relref "posts/businessplan" >}}) es algo más que un documento: es tu hoja de ruta para crear tu empresa. Te servirá para plasmar tus ideas de forma estructurada, comprobar la viabilidad de tu proyecto y demostrar a posibles inversores o socios que has pensado bien tu proyecto empresarial. En las siguientes secciones, aprenderá paso a paso qué elementos contiene un plan de empresa completo y a qué debe prestar especial atención en cada punto.
 
 ### Resumen ejecutivo
 
@@ -77,7 +77,7 @@ En el apéndice puedes aportar información adicional que complemente tu plan de
 
 {{< warning headline="Consejo" >}}
 
-Con SeaTable [plataforma de desarrollo sin código]({{< relref "/" >}}) , tiene la opción de trazar digitalmente todo su plan de negocio. Cifras, ideas, tareas y documentos se agrupan en un solo lugar, lo que le permite mantener una visión de conjunto en todo momento. Al mismo tiempo, puede trabajar en él junto con su equipo, introducir cambios directamente y hacer un seguimiento del progreso. Esto hace que la planificación sea transparente, eficiente y mucho más fácil que con los documentos u hojas de cálculo tradicionales.
+Con SeaTable [plataforma de desarrollo sin código]({{< relref "/" >}}) , tiene la opción de trazar digitalmente todo su [plan de negocio]({{< relref "templates/finance/business-plan" >}}). Cifras, ideas, tareas y documentos se agrupan en un solo lugar, lo que le permite mantener una visión de conjunto en todo momento. Al mismo tiempo, puede trabajar en él junto con su equipo, introducir cambios directamente y hacer un seguimiento del progreso. Esto hace que la planificación sea transparente, eficiente y mucho más fácil que con los documentos u hojas de cálculo tradicionales.
 
 {{< /warning >}}
 
@@ -136,7 +136,7 @@ SeaTable cubre todos los pasos esenciales:
 - **Marketing y crecimiento**: Registre indicadores clave de rendimiento (KPI) para el alcance, la captación de clientes o los costes y analícelos claramente con paneles de control.
 - **Colaboración y transparencia**: Trabaje en tiempo real con cofundadores, asesores o inversores sobre la misma información, sin caos de versiones.
 
-{{< template-box id="7885fb8884474b68aa1a" submit="Template testen" text="Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
+{{< template-box id="e9b0eb93b6764118aad0" >}}
 
 La ventaja decisiva es que SeaTable crece con usted. Lo que usted utiliza inicialmente para **plan de negocio, planificación financiera y organización** puede ampliarse más adelante a un sistema integral para [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), CRM, elaboración de informes y organización de equipos. De este modo, dispondrá desde el principio de una herramienta que le ayudará en su puesta en marcha y le acompañará a largo plazo.
 

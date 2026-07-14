@@ -10,13 +10,11 @@ type: 'legal-new'
 url: '/data-privacy'
 ---
 
-
-
 <div class="max-w-[800px] mx-auto mt-8">
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This privacy statement is only available in English and German. The English version is an non-binding, convenience translation. The **[German original version]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
+This privacy policy is only available in English and German. The English version is an non-binding, convenience translation. The **[German original version]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 
@@ -27,14 +25,14 @@ This privacy statement is only available in English and German. The English vers
 
 <div class="grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
     <div class="legal-left md:border-r md:pr-8">
-        <h2 class="text-3xl mb-12">The full Privacy Policy</h2>
+        <h2 class="text-3xl mb-12">The Full Privacy Policy</h2>
     </div>
     <div class="legal-right hidden md:block">
         <h3 class="text-2xl pt-2">... and what it means</h3>
     </div>
 </div>
 
-## 1\. Data protection at a glance
+## 1\. Data Protection at a Glance
 
 {{< legal-2col >}}
 
@@ -66,10 +64,10 @@ This section explains **briefly and clearly** what happens to your data when you
 
 Specifically:
 
-- How and when we collect data  
-- What we use the data for  
-- What rights you have  
-- Which tools we use  
+- How and when we collect data
+- What we use the data for
+- What rights you have
+- Which tools we use
 
 {{< /legal-2col >}}
 
@@ -247,9 +245,9 @@ The following table lists the cookies used by this online service and provides f
 | Name des Cookies    | Gültigkeit | Reichweite                 |
 | ------------------- | ---------- | -------------------------- |
 | ph_phc_xxxx_posthog | 90d        | .seatable.com/.seatable.io |
-| _t                 | 1d         | forum.seatable.com         |
-| _forum_session     | Session    | forum.seatable.com         |
-| __profilin        | Session    | forum.seatable.com         |
+| \_t                 | 1d         | forum.seatable.com         |
+| \_forum_session     | Session    | forum.seatable.com         |
+| \_\_profilin        | Session    | forum.seatable.com         |
 | dtable_csrftoken    | 365d       | cloud.seatable.io          |
 | sessionId           | 7d         | cloud.seatable.io          |
 | django_language     | 30d        | cloud.seatable.io          |
@@ -527,6 +525,3 @@ We use **Jitsi Meet** (on our own server) and **TeamViewer** (with GDPR agreemen
 **Why?** So we can support you quickly & effectively!
 
 {{< /legal-2col >}}
-
-
-

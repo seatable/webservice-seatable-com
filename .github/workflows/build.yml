@@ -20,11 +20,11 @@ jobs:
         if: github.ref == 'refs/heads/main'
         steps:
             - name: Checkout repository
-              uses: actions/checkout@v4
+              uses: actions/checkout@v7
               with:
                   fetch-depth: 0 # Fetches entire commit history for git lastmod
             - name: Log in to Docker Hub
-              uses: docker/login-action@v3
+              uses: docker/login-action@v4
               with:
                   username: ${{ secrets.DOCKERHUB_USERNAME }}
                   password: ${{ secrets.DOCKERHUB_TOKEN }}
@@ -42,7 +42,7 @@ jobs:
               run: tar -czvf archive.tar.gz public
               working-directory: src
             - name: Upload tar.gz artifact
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v7
               with:
                   name: site
                   path: src/archive.tar.gz
@@ -63,7 +63,7 @@ jobs:
 
             - name: Checkout repository
               if: steps.check.outputs.skipped != 'true'
-              uses: actions/checkout@v4
+              uses: actions/checkout@v7
 
             - uses: actions/setup-go@v2
               if: steps.check.outputs.skipped != 'true'
@@ -103,7 +103,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         steps:
             - name: Download artifact
-              uses: actions/download-artifact@v4
+              uses: actions/download-artifact@v8
               with:
                   name: site
             - name: Extract archive

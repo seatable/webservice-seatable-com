@@ -126,6 +126,6 @@ El software de recaudación de fondos está diseñado específicamente para apoy
 
 {{< faq "¿Cuáles son las características especiales de la recaudación de fondos para empresas de nueva creación?" >}}
 
-Las startups suelen buscar opciones de financiación distintas a los préstamos bancarios tradicionales. A diferencia de la captación de fondos convencional, la "captación de fondos para startups" funciona principalmente a través del crowdfunding y se dirige específicamente a inversores y business angels. El proceso se basa en un plan de negocio bien desarrollado. Desde el punto de vista de los donantes, se trata de una inversión financiera con una expectativa de beneficio. Por lo tanto, no son donantes, sino inversores.
+Las startups suelen buscar opciones de financiación distintas a los préstamos bancarios tradicionales. A diferencia de la captación de fondos convencional, la "captación de fondos para startups" funciona principalmente a través del crowdfunding y se dirige específicamente a inversores y business angels. El proceso se basa en un [plan de negocio]({{< relref "posts/businessplan" >}}) bien desarrollado. Desde el punto de vista de los donantes, se trata de una inversión financiera con una expectativa de beneficio. Por lo tanto, no son donantes, sino inversores.
 
 {{< /faq >}}

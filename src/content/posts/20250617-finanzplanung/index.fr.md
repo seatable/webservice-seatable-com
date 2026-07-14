@@ -83,7 +83,7 @@ L'analyse de scénarios vous aide à planifier les taux de croissance, les bén�
 
 C'est au cours de la phase de création que l'incertitude est la plus grande. Il n'existe pas encore de chiffre d'affaires fiable et les ressources sont généralement limitées. Un financement externe est souvent nécessaire, sans pouvoir prédire de manière fiable si le modèle d'entreprise fonctionnera réellement et s'il supportera les coûts. Une bonne planification financière pour votre startup vous aidera à maîtriser ces risques.
 Au début, ce sont surtout ces questions qui sont au centre de l'attention :
-- **Business plan** : Votre idée commerciale est-elle économiquement viable et se démarque-t-elle de la concurrence sur le marché ?
+- [Business plan]({{< relref "posts/businessplan" >}}) : Votre idée commerciale est-elle économiquement viable et se démarque-t-elle de la concurrence sur le marché ?
 - **Planification des besoins en capitaux** : de quoi avez-vous besoin pour démarrer (par exemple, équipement, personnel, marketing) ?
 - **Planification du financement** : d'où proviendra l'argent (fonds propres, prêts bancaires, subventions, investisseurs) ?
 - **Planification des liquidités** : combien de temps l'argent disponible suffira-t-il à couvrir les dépenses courantes ?

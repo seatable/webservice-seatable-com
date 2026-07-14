@@ -121,7 +121,7 @@ Otro aspecto destacado es la base de conocimientos integrada, que proporciona re
 
 ## No puedes prescindir de un sistema de tickets
 
-Las exigencias al servicio de asistencia son cada vez mayores: la infraestructura informática es cada vez más compleja, hay que cumplir nuevas normas de seguridad y, al mismo tiempo, los clientes y empleados esperan soluciones innovadoras y rápidas. Para seguir el ritmo de estos avances en la gestión de reclamaciones, es esencial contar con un sistema de tickets.
+Las exigencias al servicio de asistencia son cada vez mayores: la [infraestructura informática]({{< relref "posts/it-infrastruktur" >}}) es cada vez más compleja, hay que cumplir nuevas normas de seguridad y, al mismo tiempo, los clientes y empleados esperan soluciones innovadoras y rápidas. Para seguir el ritmo de estos avances en la gestión de reclamaciones, es esencial contar con un sistema de tickets.
 
 ![Los sistemas de emisión de billetes basados en la nube pueden ampliarse de forma flexible y utilizarse desde cualquier lugar.](ticketing-system-helpdesk.png)
 
