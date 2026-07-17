@@ -147,6 +147,7 @@ price_table:
     month_snapshots: 'Месяцев снимков'
     unlimited_javascript: 'Неограниченный JavaScript'
     python_runs: 'Запуски Python'
+    python_runs_per_user: 'Запуски Python hа пользователя'
     api_runs: 'Вызовы Api'
     api_runs_per_user: 'Вызовы Api hа пользователя'
     unlimited_rows: 'Неограниченное количество строк'

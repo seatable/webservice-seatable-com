@@ -147,6 +147,7 @@ price_table:
     month_snapshots: 'Meses de Snapshots'
     unlimited_javascript: 'JavaScript ilimitado'
     python_runs: 'Ejecuciones de Python'
+    python_runs_per_user: 'Ejecuciones de Python por usuario'
     api_runs: 'Llamadas API'
     api_runs_per_user: 'Llamadas API por usuario'
     unlimited_rows: 'Filas ilimitadas'
