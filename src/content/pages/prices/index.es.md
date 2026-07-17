@@ -43,6 +43,8 @@ sections:
             values: ['0€', '9€', '18€', '*']
           - type: section
             label: 'Uso (total por equipo)'
+          - key: 'Usuarios'
+            values: ['25', '∞', '∞', '∞']
           - key: 'Bases'
             values: ['∞', '∞', '∞', '∞']
           - key: 'Tablas'
@@ -57,12 +59,10 @@ sections:
             values: ['1 mes', '6 meses', '12 meses', '24 meses']
           - key: 'Ejecuciones de JavaScript (por mes)'
             values: ['∞', '∞', '∞', '∞']
-          - key: 'Ejecuciones de Python (por mes)'
-            values: ['100', '5.000', '∞', '∞']
+          - key: 'Ejecuciones de Python (por mes y usuario)'
+            values: ['100 (fijo)', '250', '1.000', '∞']
           - key: 'Llamadas API (por mes y usuario)'
             values: ['3.000 (fijo)', '10.000', '50.000', '∞']
-          - key: 'Tamaño máximo del equipo'
-            values: ['25', '∞', '∞', '∞']
           - type: section
             label: 'Funciones'
           - key: '26 tipos de columnas'

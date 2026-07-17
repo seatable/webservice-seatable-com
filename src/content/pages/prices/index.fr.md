@@ -43,6 +43,8 @@ sections:
             values: ['0€', '9€', '18€', '*']
           - type: section
             label: 'Utilisation (total par équipe)'
+          - key: 'Utilisateurs'
+            values: ['25', '∞', '∞', '∞']
           - key: 'Bases'
             values: ['∞', '∞', '∞', '∞']  
           - key: 'Tables'
@@ -57,12 +59,10 @@ sections:
             values: ['1 mois', '6 mois', '12 mois', '24 mois']
           - key: 'Exécutions JavaScript (par mois)'
             values: ['∞', '∞', '∞', '∞']
-          - key: 'Exécutions Python (par mois)'
-            values: ['100', '5 000', '∞', '∞']
+          - key: 'Exécutions Python (par mois et utilisateur)'
+            values: ['100 (fixe)', '250', '1.000', '∞']
           - key: 'Appels API (par mois et utilisateur)'
             values: ['3.000 (fixe)', '10.000', '50.000', '∞']
-          - key: 'Taille maximale de l’équipe'
-            values: ['25', '∞', '∞', '∞']
           - type: section
             label: 'Fonctionnalités'
           - key: '26 types de colonnes'
@@ -77,7 +77,7 @@ sections:
             values: ['-', '+', '+', '+']
           - key: 'Formulaires web'
             values: ['+', '+', '+', '+']
-          - key: 'Jeux de données partagés'
+          - key: 'Jeux de données communs'
             values: ['+', '+', '+', '+']
           - key: 'Import / Export (CSV, XLSX et DTABLE)'
             values: ['+', '+', '+', '+']

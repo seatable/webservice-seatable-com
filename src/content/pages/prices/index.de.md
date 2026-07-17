@@ -38,7 +38,9 @@ sections:
               - key: 'Monatliche Abrechnung'
                 values: ['0€', '9€', '18€', '*']
               - type: section
-                label: 'Nutzung (Gesamt pro Team)'
+                label: 'Nutzung (gesamt pro Team)'
+              - key: 'Benutzer'
+                values: ['25', '∞', '∞', '∞']
               - key: 'Bases'
                 values: ['∞', '∞', '∞', '∞']  
               - key: 'Tabellen'
@@ -53,12 +55,10 @@ sections:
                 values: ['1 Monat', '6 Monate', ' 12 Monate', '24 Monate']
               - key: 'JavaScript Läufe (pro Monat)'
                 values: ['∞', '∞', '∞', '∞']
-              - key: 'Python Läufe (pro Monat)'
-                values: ['100', '5.000', '∞', '∞']
+              - key: 'Python Läufe (pro Monat und Benutzer)'
+                values: ['100 (fix)', '250', '1.000', '∞']
               - key: 'API-Aufrufe (pro Monat und Benutzer)'
                 values: ['3.000 (fix)', '10.000', '50.000', '∞']
-              - key: 'Maximale Teamgröße'
-                values: ['25', '∞', '∞', '∞']
               - type: section
                 label: 'Funktionen'
               - key: '26 Spaltentypen'

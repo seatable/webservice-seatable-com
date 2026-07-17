@@ -43,6 +43,8 @@ sections:
             values: ['0€', '9€', '18€', '*']
           - type: section
             label: 'Usage (total per team)'
+          - key: 'Users'
+            values: ['25', '∞', '∞', '∞']
           - key: 'Bases'
             values: ['∞', '∞', '∞', '∞']  
           - key: 'Tables'
@@ -57,12 +59,10 @@ sections:
             values: ['1 month', '6 months', '12 months', '24 months']
           - key: 'JavaScript script runs (per month)'
             values: ['∞', '∞', '∞', '∞']
-          - key: 'Python script runs (per month)'
-            values: ['100', '5,000', '∞', '∞']
+          - key: 'Python script runs (per month and user)'
+            values: ['100 (fixed)', '250', '1.000', '∞']
           - key: 'API calls (per month and user)'
             values: ['3,000 (fixed)', '10.000', '50.000', '∞']
-          - key: 'Maximum team size'
-            values: ['25', '∞', '∞', '∞']
           - type: section
             label: 'Features'
           - key: '26 column types'
@@ -77,7 +77,7 @@ sections:
             values: ['-', '+', '+', '+']
           - key: 'Web forms'
             values: ['+', '+', '+', '+']
-          - key: 'Shared datasets'
+          - key: 'Common datasets'
             values: ['+', '+', '+', '+']
           - key: 'Import / Export (CSV, XLSX and DTABLE)'
             values: ['+', '+', '+', '+']
