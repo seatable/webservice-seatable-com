@@ -45,18 +45,13 @@ Dr. Ralf Dyllick-Brenzinger
 55118 Mainz  
 Germany
 
-## EU dispute resolution
-
-The European Commission provides a platform for online dispute resolution (ODR): [https://consumer-redress.ec.europa.eu/](https://consumer-redress.ec.europa.eu/).  
-For dispute resolution inquiries, you find our e-mail address address above.
-
 ## Dispute resolution proceedings in front of a consumer arbitration board
 
 SeaTable GmbH will not participate in dispute resolution proceedings in front of a consumer arbitration board and is not obliged to do so.
 
 ## Liability for content
 
-As service providers, we are liable for the content of this online service according to § 7 German Telemedia Act (TMG). However, according to §§ 8 to 10 TMG, service providers are not obligated to permanently monitor submitted or stored information or to search for evidences that indicate illegal activities.
+As service providers, we are liable for the content of this online service according to § 7 DDG. However, according to §§ 8 to 10 DDG, service providers are not obligated to permanently monitor submitted or stored information or to search for evidences that indicate illegal activities.
 
 Legal obligations to removing information or to blocking the use of information remain unchallenged. In this case, liability is only possible at the time of knowledge about a specific violation of law. Illegal contents will be removed immediately at the time we get knowledge of them.
 
