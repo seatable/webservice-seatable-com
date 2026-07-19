@@ -14,7 +14,7 @@ categories:
     - 'best-practice'
 color: '#f34b4c'
 register:
-   show: true
+    show: true
 ---
 
 ## So wird Ihr Fahrtenbuch zum Steuer-Vorteil
@@ -98,7 +98,7 @@ Vimcar ist eine digitale Fahrtenbuch-Software speziell für Unternehmen und Selb
 - **Analysefunktion**: Umfangreiche Analysefunktionen
 - **Manueller Aufwand**: Minimaler Aufwand, da automatisierte Erfassung
 
-**Hinweis**: Falls Sie bereits Lexware als Buchhaltungssoftware nutzen, können Sie über Lexware das Fahrtenbuch von Vimcar verwenden, da beide Unternehmen miteinander kooperieren.
+**Hinweis**: Falls Sie bereits <a href="https://www.lexware.de/buchhaltungssoftware/">Lexware als Buchhaltungssoftware nutzen</a>, können Sie über Lexware das Fahrtenbuch von Vimcar verwenden, da beide Unternehmen miteinander kooperieren.
 
 ![Hier wird ein Rücklicht eines blauen Autos gezeigt, das mit einem Fahrtenbuch geführt wird](image.jpg)
 
