@@ -29,7 +29,13 @@ Das [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934
 
 Für [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) steht Version 6.2 mit dem heutigen Tag im [SeaTable Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download zur Verfügung.
 
-Das Update von [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) erfolgt **am 22. Juli**. Mit dem Update wird das Monatskontingent für die [Ausführung von Python-Skripten]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) dynamisiert. Analog zu API-Aufrufen oder Automatisierungen wird das Gesamtkontingent für Python-Skripte an die Größe eines Teams geknüpft. Ein Plus Team erhält 1.000 Python-Skriptläufe, ein Enterprise Team 5.000 Python-Ausführungen pro Benutzer und Monat. Beim Free Abonnement gilt weiterhin ein pauschales Ausführungslimit von 100 pro Monat.
+Das Update von [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) erfolgt **am 4. August**. Mit dem Update wird das Monatskontingent für die [Ausführung von Python-Skripten]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) dynamisiert. Analog zu API-Aufrufen oder Automatisierungen wird das Gesamtkontingent für Python-Skripte an die Größe eines Teams geknüpft. Ein Plus Team erhält 1.000 Python-Skriptläufe, ein Enterprise Team 5.000 Python-Ausführungen pro Benutzer und Monat. Beim Free Abonnement gilt weiterhin ein pauschales Ausführungslimit von 100 pro Monat.
+
+{{< warning headline="Breaking Changes bei Python-Skripten" >}}
+
+Die Rückgabewerte des Context-Objekts und der Query-Methode für die Spaltentypen Datum, Formel sowie Formel für Verknüpfungen werden in Version 6.2 harmonisiert. Dies kann dazu führen, dass die Ausführung Ihrer Skripte zu Fehlern führt. Bitte prüfen und aktualisieren Sie Ihre Python-Skripte.
+
+{{< /warning >}}
 
 ## Neuer App-Seitentyp: HTML-Seite
 
@@ -37,7 +43,7 @@ Mit dem **SeaTable App Builder** lassen sich leistungsfähige Anwendungen erstel
 
 Sie möchten einen Diagrammtyp verwenden, den SeaTable nicht unterstützt? Ein hochgradig individualisiertes Webformular erstellen? Ein interaktives Schaubild mit klickbaren Elementen einbinden? Oder mehrere Darstellungen – beispielsweise Tabelle und einzelner Datensatz – auf einer Seite kombinieren? Mit dem neuen Seitentyp **HTML-Seite** lassen sich diese und viele weitere Anforderungen umsetzen.
 
-\[BILD]
+![Neuer App-Seitentyp: HTML-Seite](HTMLPage.png)
 
 HTML-Seiten können **statische Inhalte** anzeigen, Ihr Potenzial entfalten Sie jedoch in Verbindung mit den **Daten einer Base**. Genauso wie andere Seitentypen des App Builders können sie Daten aus einer Base abrufen und Datensätze in einer Base ändern. Bei der **Gestaltung der Benutzeroberfläche** sind Sie dagegen nahezu frei. Was sich mit HTML, CSS und JavaScript realisieren lässt, können Sie grundsätzlich auch als HTML-Seite im App Builder umsetzen.
 
@@ -51,9 +57,9 @@ Der Seitentyp **Einzelner Datensatz** erhält in SeaTable 6.2 gleich mehrere Ver
 
 Mit SeaTable 6.2 gehört dieser Zwischenschritt der Vergangenheit an. Verfügt ein Benutzer über die erforderlichen Bearbeitungsrechte, lassen sich Felder nun direkt auf der Seite bearbeiten. **Ein Klick auf ein Feld aktiviert den Bearbeitungsmodus**, Eingaben werden wie gewohnt validiert und Änderungen unmittelbar gespeichert. Das sorgt für einen deutlich flüssigeren und intuitiveren Arbeitsablauf.
 
-Auch die Darstellung wurde erweitert. **Spaltentypen** mit einer eigenen visuellen Darstellung – beispielsweise die Labels von [Einfachauswahl-]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) oder [Mitarbeiter-Spalten]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) – können jetzt optional als reiner Text angezeigt werden. Für alle als Text dargestellten Werte steht zudem ein einheitlicher Satz an **Formatierungsoptionen** zur Verfügung: Schriftgröße, Schriftfarbe, Ausrichtung und Hintergrund lassen sich unabhängig vom ursprünglichen Spaltentyp konsistent anpassen. So können Sie Seiten mit einem einheitlichen und aufgeräumten Erscheinungsbild gestalten.
+![Inline-Editing auf Single Record Pages](SingleRecordPage_InlineEditing.png)
 
-\[BILD]
+Auch die Darstellung wurde erweitert. **Spaltentypen** mit einer eigenen visuellen Darstellung – beispielsweise die Labels von [Einfachauswahl-]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) oder [Mitarbeiter-Spalten]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) – können jetzt optional als reiner Text angezeigt werden. Für alle als Text dargestellten Werte steht zudem ein einheitlicher Satz an **Formatierungsoptionen** zur Verfügung: Schriftgröße, Schriftfarbe, Ausrichtung und Hintergrund lassen sich unabhängig vom ursprünglichen Spaltentyp konsistent anpassen. So können Sie Seiten mit einem einheitlichen und aufgeräumten Erscheinungsbild gestalten.
 
 ## Erweiterte Berechtigungen für Verknüpfungen in der App
 
@@ -61,7 +67,7 @@ SeaTable 6.2 schließt eine Lücke in der Berechtigungsverwaltung von [Verknüpf
 
 Bislang konnte jeder Benutzer mit Bearbeitungsberechtigung bestehende Verknüpfungen entfernen. Dieses Verhalten lässt sich nun unabhängig von den übrigen [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) für die Verknüpfungsspalte steuern.
 
-\[BILD]
+![Neue Berechtigung in der App: Bestehende Verknüpfungen löschen](AppBuilder_RemoveExistingRecords.png)
 
 Nun können Sie die Zugriffsrechte für Verknüpfungsspalten umfassend verwalten: Benutzer dürfen je nach Konfiguration neue Datensätze in der verknüpften Tabelle anlegen, bestehende Datensätze verknüpfen, ändern und entfernen – jeweils mit eigenen Berechtigungen. Das ermöglicht eine **deutlich präzisere Steuerung von Bearbeitungsrechten in Apps**.
 
@@ -69,11 +75,11 @@ Nun können Sie die Zugriffsrechte für Verknüpfungsspalten umfassend verwalten
 
 Die neue Funktion **datetimeFormat()** hilft Ihnen, Datumswerte genau so darzustellen, wie Sie diese benötigen. Der erste Parameter enthält das zu formatierende Datum bzw. den Verweis auf die Spalte, die den Wert enthält. Im zweiten Parameter definieren Sie das Zielformat.
 
-\[BILD]
+![Formel für formatierte Datumswerte](FormulaColumn_datetimeFormat.png)
 
 In String-Formeln können Sie nun mit "\n" bzw. '\n' einen **Zeilenumbruch** einfügen. Dies ist insbesondere dann hilfreich, wenn Sie mehrere Spalten verketten, aber die Werte nicht in eine Zeile schreiben möchten. Paradebeispiel dafür ist eine Adresse:
 
-\[BILD]
+![Zeilenumbrüche in String-Formeln](FormulaColumn_LineBreak.png)
 
 ## Verbesserungen bei externen Links und Einladungslinks
 
@@ -86,3 +92,11 @@ Nicht zuletzt hält SeaTable 6.2 eine Optimierung für **externe Links und Einla
 * **Verbessertes Datums-Widget​**: Das Datums-Widget wurde hinsichtlich Bedienung und Darstellung optimiert und bietet ein noch komfortableres Arbeiten mit [Datumswerten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 * **Emojis in Kommentaren​**: [Kommentare]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) unterstützen jetzt Emojis. Das macht Rückmeldungen, Reaktionen und die Zusammenarbeit noch ausdrucksstärker.
+
+## Anpassung der Rückgabewerte in Python-Skripten
+
+Mit dem Ziel einer Harmonisierung der Formate werden die Rückgabewerte einiger Spaltentypen für das Context-Objekt und die Query-Methode in SeaTable 6.2 aktualisiert. Dies erfordert gegebenenfalls die Anpassung Ihrer Python-Skripte.
+
+Eine Gegenüberstellung der Rückgabewerte in SeaTable 6.1 und SeaTable 6.2 finden Sie im [SeaTable Forum](https://forum.seatable.com/t/important-changes-related-to-python-client-in-seatable-6-2/7435).
+
+Für manuell ausgeführte Skripte, d.h. Skripte, die Sie per Button oder im Python-Editor von SeaTable ausführen, müssen Sie alle dort genannten Änderungen berücksichtigen. Skripte, die per Automation ausgeführt werden, müssen Sie nur in Bezug auf die Änderungen in Zusammenhang mit der Query-Methode anpassen.

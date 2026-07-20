@@ -27,7 +27,7 @@ Le [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b
 
 La version 6.2 de [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) est disponible au téléchargement dès aujourd'hui dans le [dépôt Docker de SeaTable](https://hub.docker.com/r/seatable/seatable-enterprise).
 
-La mise à jour de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) aura lieu dans une semaine, **le 22 juillet**. Avec cette mise à jour, le quota mensuel pour l'[exécution des scripts Python]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) devient dynamique. À l'instar des appels d'API ou des automatisations, le quota global pour les scripts Python est lié à la taille d'une équipe. Une équipe Plus reçoit 1 000 exécutions de scripts Python, une équipe Enterprise 5 000 exécutions Python par utilisateur et par mois. Pour l'abonnement Free, une limite forfaitaire de 100 exécutions par mois continue de s'appliquer.
+La mise à jour de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) aura lieu **le 4 août**. Avec cette mise à jour, le quota mensuel pour l'[exécution des scripts Python]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) devient dynamique. À l'instar des appels d'API ou des automatisations, le quota global pour les scripts Python est lié à la taille d'une équipe. Une équipe Plus reçoit 1 000 exécutions de scripts Python, une équipe Enterprise 5 000 exécutions Python par utilisateur et par mois. Pour l'abonnement Free, une limite forfaitaire de 100 exécutions par mois continue de s'appliquer.
 
 {{< warning headline="Rupture de rétrocompatibilité pour les scripts Python" >}}
 
@@ -55,9 +55,9 @@ Celui-ci bénéficie en effet de plusieurs améliorations dans cette nouvelle ve
 
 Avec SeaTable 6.2, cette étape intermédiaire appartient au passé. Si un utilisateur dispose des droits de modification nécessaires, les champs peuvent désormais être modifiés directement sur la page. **Un clic sur un champ active le mode de modification**, les saisies sont validées comme d'habitude et les modifications sont enregistrées immédiatement. Cela garantit un flux de travail nettement plus fluide et plus intuitif.
 
-L'affichage a lui aussi été enrichi. Les **colonnes** disposant d'une représentation visuelle propre — par exemple les [colonnes de sélection]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou de [collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) — peuvent désormais, en option, être affichées sous forme de texte simple. Pour toutes les valeurs affichées sous forme de texte, un ensemble uniforme d'**options de mise en forme** est en outre disponible. La taille et la couleur de la police, l'alignement et l'arrière-plan peuvent être ajustés de manière cohérente, indépendamment du type de colonne d'origine. Il est ainsi possible de concevoir des pages à l'apparence uniforme et soignée.
-
 ![Édition en ligne sur une page Enregistrement unique](SingleRecordPage_InlineEditing.png)
+
+L'affichage a lui aussi été enrichi. Les **colonnes** disposant d'une représentation visuelle propre — par exemple les [colonnes de sélection]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) ou de [collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) — peuvent désormais, en option, être affichées sous forme de texte simple. Pour toutes les valeurs affichées sous forme de texte, un ensemble uniforme d'**options de mise en forme** est en outre disponible. La taille et la couleur de la police, l'alignement et l'arrière-plan peuvent être ajustés de manière cohérente, indépendamment du type de colonne d'origine. Il est ainsi possible de concevoir des pages à l'apparence uniforme et soignée.
 
 ## Des autorisations étendues pour les liens dans l'application
 
@@ -95,6 +95,6 @@ Enfin, SeaTable 6.2 apporte une optimisation pour les **liens externes et les li
 
 Dans un souci d'harmonisation des données renvoyées, les formats de sortie de certaines colonnes (pour l'objet Context et la méthode Query) sont mis à jour dans SeaTable 6.2. Cela peut nécessiter une adaptation de vos scripts Python.
 
-Vous trouverez une comparaison des formats de sortie entre SeaTable 6.1 et la version 6.2 sur le [forum SeaTable](https://forum.seatable.com/t/important-changes-related-to-python-client-in-seatable-6-2/7435 "https://forum.seatable.com/t/important-changes-related-to-python-client-in-seatable-6-2/7435").
+Vous trouverez une comparaison des formats de sortie entre SeaTable 6.1 et la version 6.2 sur le [forum SeaTable](https://forum.seatable.com/t/important-changes-related-to-python-client-in-seatable-6-2/7435).
 
 Pour les scripts exécutés manuellement, c'est-à-dire les scripts lancés via un bouton ou dans l'éditeur Python de SeaTable, toutes les modifications qui y sont indiquées doivent être prises en compte. Les scripts exécutés via une automatisation ne doivent être adaptés que pour les modifications liées à la méthode Query.
