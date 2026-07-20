@@ -12,7 +12,6 @@ seo:
     description: 'SeaTable 6.2: new HTML page type and further improvements in the App Builder, as well as new functions for formula columns and external links.'
 register:
     show: true
-draft: true
 ---
 
 With SeaTable 6.2, the [App Builder]({{< relref "help/app-builder" >}}) gains a new page type: **HTML pages** allow you to create fully customized pages based on HTML, JavaScript, and CSS. This removes almost all limitations when it comes to data visualization. Web forms can also be designed exactly to your requirements, and even complex interactions are easy to implement. "It can't be done" is a thing of the past!
@@ -29,7 +28,7 @@ The [changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934
 
 For [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), version 6.2 is available for download as of today in the [SeaTable Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise).
 
-The update for [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) takes place **on August 4**. With the update, the monthly quota for [running Python scripts]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) becomes dynamic. Just like API calls or automations, the total quota for Python scripts is tied to the size of a team. A Plus team receives 1,000 Python script runs, an Enterprise team 5,000 Python executions per user and month. For the Free subscription, a flat execution limit of 100 per month continues to apply.
+The update for [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) takes place **on August 4**. With the update, the monthly quota for [running Python scripts]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) becomes dynamic. Just like API calls or automations, the total quota for Python scripts is tied to the size of a team. A Plus team receives 250 Python script runs, an Enterprise team 1,000 Python executions per user and month. For the Free subscription, a flat execution limit of 100 per month continues to apply.
 
 {{< warning headline="Breaking changes for Python scripts" >}}
 
@@ -47,7 +46,7 @@ Would you like to use a chart type that SeaTable does not support? Create a high
 
 HTML pages can display **static content**, but they realize their full potential in combination with the **data of a base**. Just like other page types of the App Builder, they can retrieve data from a base and modify records in a base. When it comes to **designing the user interface**, however, you are almost completely free. What can be achieved with HTML, CSS, and JavaScript can, in principle, also be implemented as an HTML page in the App Builder.
 
-Don't let the name confuse you. HTML pages support not only **HTML**, but also **JavaScript and CSS**. The entire code of the page is uploaded to the app as a bundle. You can find the way it works, the possible development approaches, and the reference for the associated Software Development Kit (SDK) in the [SeaTable Developer Manual](https://developer.seatable.com/html-pages/ "SeaTable Developer Manual"). You will also find an example page there.
+Don't let the name confuse you. HTML pages support not only **HTML**, but also **JavaScript and CSS**. The entire code of the page is uploaded to the app as a bundle. You can find the way it works, the possible development approaches, and the reference for the associated Software Development Kit (SDK) in the [SeaTable Developer Manual](https://developer.seatable.com/html-pages/ 'SeaTable Developer Manual'). You will also find an example page there.
 
 Currently, the page type is aimed in particular at **users with programming experience**. Already in development is an AI function that will allow HTML pages to be created in natural language and without programming knowledge in the future.
 
@@ -87,11 +86,11 @@ Last but not least, SeaTable 6.2 has an optimization for **external links and in
 
 ## And quite a bit more
 
-* **Improved base log**:​ The [base log]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) has been reworked in several places. Search fields make it easier to make a selection in large bases, drop-down menus present themselves in a uniform design, and you can now also filter actions in deleted tables.
+- **Improved base log**:​ The [base log]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) has been reworked in several places. Search fields make it easier to make a selection in large bases, drop-down menus present themselves in a uniform design, and you can now also filter actions in deleted tables.
 
-* **Improved date widget​**: The date widget has been optimized in terms of operation and display and offers even more convenient work with [date values]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
+- **Improved date widget​**: The date widget has been optimized in terms of operation and display and offers even more convenient work with [date values]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
-* **Emojis in comments​**: [Comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) now support emojis. This makes feedback, reactions, and collaboration even more expressive.
+- **Emojis in comments​**: [Comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) now support emojis. This makes feedback, reactions, and collaboration even more expressive.
 
 ## Adjustment of the return values in Python scripts
 
