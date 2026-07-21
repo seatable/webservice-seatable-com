@@ -12,7 +12,6 @@ seo:
     description: 'SeaTable 6.2: nuevo tipo de página HTML y otras mejoras en el App Builder, así como nuevas funciones en las columnas de fórmula y los enlaces externos.'
 register:
     show: true
-draft: true
 ---
 
 Con SeaTable 6.2, el [App Builder]({{< relref "help/app-builder" >}}) incorpora un nuevo tipo de página: las **páginas HTML** permiten crear páginas totalmente personalizadas basadas en HTML, JavaScript y CSS. Con ello desaparecen prácticamente todas las limitaciones en materia de visualización de datos. También los formularios web pueden diseñarse exactamente según sus necesidades, e incluso las interacciones complejas se pueden implementar sin problemas. ¡Lo imposible ya no existe!
@@ -29,7 +28,7 @@ El [changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b
 
 Para [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), la versión 6.2 está disponible para su descarga a partir de hoy en el [repositorio Docker de SeaTable](https://hub.docker.com/r/seatable/seatable-enterprise).
 
-La actualización de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) se realizará **el 4 de agosto**. Con la actualización, el cupo mensual para la [ejecución de scripts de Python]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) se vuelve dinámico. Al igual que ocurre con las llamadas a la API o las automatizaciones, el cupo total de scripts de Python queda vinculado al tamaño de un equipo. Un equipo Plus recibe 1000 ejecuciones de scripts de Python, y un equipo Enterprise 5000 ejecuciones de Python por usuario y mes. En la suscripción Free se sigue aplicando un límite fijo de 100 ejecuciones al mes.
+La actualización de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) se realizará **el 4 de agosto**. Con la actualización, el cupo mensual para la [ejecución de scripts de Python]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) se vuelve dinámico. Al igual que ocurre con las llamadas a la API o las automatizaciones, el cupo total de scripts de Python queda vinculado al tamaño de un equipo. Un equipo Plus recibe 250 ejecuciones de scripts de Python, y un equipo Enterprise 1000 ejecuciones de Python por usuario y mes. En la suscripción Free se sigue aplicando un límite fijo de 100 ejecuciones al mes.
 
 {{< warning headline="Breaking Changes en los scripts de Python" >}}
 
@@ -47,7 +46,7 @@ Con el **App Builder de SeaTable** se pueden crear aplicaciones potentes, sin ne
 
 Las páginas HTML pueden mostrar **contenidos estáticos**, pero despliegan todo su potencial en combinación con los **datos de una base**. Igual que otros tipos de página del App Builder, pueden recuperar datos de una base y modificar registros en una base. En cambio, en el **diseño de la interfaz de usuario** dispone de una libertad casi total. Lo que se puede realizar con HTML, CSS y JavaScript se puede llevar a cabo, en principio, también como página HTML en el App Builder.
 
-No hay que dejarse confundir por el nombre. Las páginas HTML no solo admiten **HTML**, sino también **JavaScript y CSS**. Todo el código de la página se sube a la aplicación como un paquete (bundle). El funcionamiento, los posibles enfoques de desarrollo y la referencia del correspondiente Software Development Kit (SDK) los encontrará en el [Manual del desarrollador de SeaTable](https://developer.seatable.com/html-pages/ "SeaTable Developer Manual"). También encontrará allí un ejemplo de página.
+No hay que dejarse confundir por el nombre. Las páginas HTML no solo admiten **HTML**, sino también **JavaScript y CSS**. Todo el código de la página se sube a la aplicación como un paquete (bundle). El funcionamiento, los posibles enfoques de desarrollo y la referencia del correspondiente Software Development Kit (SDK) los encontrará en el [Manual del desarrollador de SeaTable](https://developer.seatable.com/html-pages/ 'SeaTable Developer Manual'). También encontrará allí un ejemplo de página.
 
 Actualmente, este tipo de página se dirige en especial a **usuarios con experiencia en programación**. Ya está en desarrollo una función de IA con la que en el futuro se podrán crear páginas HTML también en lenguaje natural y sin conocimientos de programación.
 
@@ -87,11 +86,11 @@ Por último, SeaTable 6.2 depara una optimización para los **enlaces externos y
 
 ## Y bastante más
 
-* **Registro de la base mejorado**:​ El [registro de la base]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) se ha rediseñado en varios puntos. Los campos de búsqueda facilitan la selección en bases grandes, los menús desplegables se presentan con un diseño uniforme y ahora también puede filtrar las acciones en tablas eliminadas.
+- **Registro de la base mejorado**:​ El [registro de la base]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) se ha rediseñado en varios puntos. Los campos de búsqueda facilitan la selección en bases grandes, los menús desplegables se presentan con un diseño uniforme y ahora también puede filtrar las acciones en tablas eliminadas.
 
-* **Widget de fecha mejorado​**: El widget de fecha se ha optimizado en cuanto a manejo y presentación y ofrece un trabajo aún más cómodo con los [valores de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
+- **Widget de fecha mejorado​**: El widget de fecha se ha optimizado en cuanto a manejo y presentación y ofrece un trabajo aún más cómodo con los [valores de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
-* **Emojis en los comentarios​**: Los [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) ahora admiten emojis. Esto hace que los comentarios, las reacciones y la colaboración sean aún más expresivos.
+- **Emojis en los comentarios​**: Los [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) ahora admiten emojis. Esto hace que los comentarios, las reacciones y la colaboración sean aún más expresivos.
 
 ## Adaptación de los valores de retorno en los scripts de Python
 

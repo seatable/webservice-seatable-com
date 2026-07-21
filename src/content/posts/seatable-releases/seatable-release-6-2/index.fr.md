@@ -12,7 +12,6 @@ seo:
     description: "SeaTable 6.2 : nouveau type de page HTML et autres améliorations dans l'App Builder, ainsi que de nouvelles fonctionnalités pour les colonnes de formule et les liens externes."
 register:
     show: true
-draft: true
 ---
 
 L'[App Builder]({{< relref "help/app-builder" >}}) de SeaTable accueille un nouveau type de page : les **pages HTML** permettent de créer des pages entièrement personnalisées à partir de HTML, JavaScript et CSS. En matière de visualisation des données, quasiment toutes les limites disparaissent. Les formulaires web peuvent eux aussi être conçus exactement selon vos besoins, et même les interactions les plus complexes se réalisent sans difficulté. « Impossible » n'existe plus !
@@ -27,7 +26,7 @@ Le [Changelog](https://cloud.seatable.io/dtable/view-external-links/c9124bcd934b
 
 La version 6.2 de [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) est disponible au téléchargement dès aujourd'hui dans le [dépôt Docker de SeaTable](https://hub.docker.com/r/seatable/seatable-enterprise).
 
-La mise à jour de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) aura lieu **le 4 août**. Avec cette mise à jour, le quota mensuel pour l'[exécution des scripts Python]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) devient dynamique. À l'instar des appels d'API ou des automatisations, le quota global pour les scripts Python est lié à la taille d'une équipe. Une équipe Plus reçoit 1 000 exécutions de scripts Python, une équipe Enterprise 5 000 exécutions Python par utilisateur et par mois. Pour l'abonnement Free, une limite forfaitaire de 100 exécutions par mois continue de s'appliquer.
+La mise à jour de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) aura lieu **le 4 août**. Avec cette mise à jour, le quota mensuel pour l'[exécution des scripts Python]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}) devient dynamique. À l'instar des appels d'API ou des automatisations, le quota global pour les scripts Python est lié à la taille d'une équipe. Une équipe Plus reçoit 250 exécutions de scripts Python, une équipe Enterprise 1 000 exécutions Python par utilisateur et par mois. Pour l'abonnement Free, une limite forfaitaire de 100 exécutions par mois continue de s'appliquer.
 
 {{< warning headline="Rupture de rétrocompatibilité pour les scripts Python" >}}
 
@@ -45,7 +44,7 @@ Vous souhaitez utiliser un type de diagramme que SeaTable ne prend pas en charge
 
 Les pages HTML peuvent afficher des **contenus statiques**, mais elles révèlent tout leur potentiel en lien avec les **données d'une base**. Vous pouvez récupérer des données d'une base et modifier des enregistrements, tout comme les autres types de pages de l'App Builder. En ce qui concerne le **design de l'interface utilisateur**, vous êtes en revanche presque entièrement libre. Tout ce qui peut être réalisé avec HTML, CSS et JavaScript peut en principe l'être également sous forme de page HTML dans l'App Builder.
 
-Ne vous laissez pas tromper par le nom : les pages HTML ne prennent pas seulement en charge le **HTML**, mais aussi le **JavaScript et le CSS**. L'ensemble du code de la page est chargé dans l'application sous forme de bundle. Vous trouverez le fonctionnement, les approches de développement possibles ainsi que la référence du kit de développement logiciel (SDK) associé dans la [Documentation Développeur SeaTable](https://developer.seatable.com/html-pages/ "SeaTable Developer Manual"). Vous y trouverez également un exemple de page.
+Ne vous laissez pas tromper par le nom : les pages HTML ne prennent pas seulement en charge le **HTML**, mais aussi le **JavaScript et le CSS**. L'ensemble du code de la page est chargé dans l'application sous forme de bundle. Vous trouverez le fonctionnement, les approches de développement possibles ainsi que la référence du kit de développement logiciel (SDK) associé dans la [Documentation Développeur SeaTable](https://developer.seatable.com/html-pages/ 'SeaTable Developer Manual'). Vous y trouverez également un exemple de page.
 
 Actuellement, les pages HTML s'adressent en particulier **aux utilisateurs ayant une expérience de la programmation**. Une fonctionnalité IA est cependant déjà en développement : elle permettra de créer des pages HTML en langage naturel et sans connaissances en programmation.
 
@@ -85,11 +84,11 @@ Enfin, SeaTable 6.2 apporte une optimisation pour les **liens externes et les li
 
 ## Et bien plus encore
 
-* **Journal de la base amélioré :** le [journal de la base]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) a été retravaillé à plusieurs endroits. Des champs de recherche facilitent la sélection dans les bases volumineuses, les menus déroulants adoptent un design uniforme et il est désormais possible de filtrer les actions effectuées dans des tableaux supprimés.
+- **Journal de la base amélioré :** le [journal de la base]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) a été retravaillé à plusieurs endroits. Des champs de recherche facilitent la sélection dans les bases volumineuses, les menus déroulants adoptent un design uniforme et il est désormais possible de filtrer les actions effectuées dans des tableaux supprimés.
 
-* **Widget de date amélioré :** le widget de date a été optimisé en matière d'utilisation et d'affichage, pour une manipulation encore plus confortable des [valeurs de date et d'heure]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
+- **Widget de date amélioré :** le widget de date a été optimisé en matière d'utilisation et d'affichage, pour une manipulation encore plus confortable des [valeurs de date et d'heure]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
-* **Emojis dans les commentaires :** les [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) prennent désormais en charge les emojis. Cela rend les retours, les réactions et la collaboration encore plus expressifs.
+- **Emojis dans les commentaires :** les [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) prennent désormais en charge les emojis. Cela rend les retours, les réactions et la collaboration encore plus expressifs.
 
 ## Adaptation des formats de sortie dans les scripts Python
 
