@@ -43,7 +43,8 @@ sections:
       anchor: release-6
       items:
         - text: 'Версия **6.0.10** от 16 ноября 2025: [Примечания к выпуску 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
-        - text: 'Версия **6.1.8** от 20 марта 2026: [Примечания к выпуску 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}})'
+        - text: 'Версия **6.1.8** от 20 март 2026: [Примечания к выпуску 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}})'
+        - text: 'Версия **6.2.12** от 16 июль 2026: [Примечания к выпуску 6.2]({{< relref "posts/seatable-releases/seatable-release-6-2" >}})'
       template: "c9124bcd934b47bc8f30"
 
     - name: "content-26"

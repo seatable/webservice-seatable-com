@@ -1,7 +1,7 @@
 ---
 title: 'SeaTable 6.2 : Quand le code rencontre le No-code'
 description: "SeaTable 6.2 introduit un type de page HTML extrêmement flexible et enrichit l'App Builder. Les colonnes de formule et les liens externes bénéficient eux aussi de nouvelles fonctionnalités."
-date: 2026-07-13
+date: 2026-07-21
 author: 'rdb'
 url: '/fr/seatable-release-6-2'
 color: '#dc6165'
