@@ -1,7 +1,7 @@
 ---
 title: 'SeaTable 6.2: Code meets No-Code'
 description: 'SeaTable 6.2 introduces a highly flexible HTML page type and further improvements in the App Builder. There are also new functions for formula columns and external links.'
-date: 2026-07-13
+date: 2026-07-21
 author: 'rdb'
 url: '/seatable-release-6-2'
 color: '#dc6165'
