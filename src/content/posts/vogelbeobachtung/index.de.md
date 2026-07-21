@@ -65,9 +65,9 @@ Um eine Art sicher zu bestimmen, helfen fünf zentrale Merkmale:
 - **Verhalten**, etwa die Art der Fortbewegung oder Nahrungssuche
 - **Lebensraum**, in dem die Beobachtung stattfindet
   
-### Die besten Orte zum Vögel beobachten und fotografieren
+### Die besten Orte zum Vögel beobachten und fotografieren <--! Ist m. E. so nicht korrekt. Entweder "zum Vögelbeobachten und -fotografieren" oder "Orte, um Vögel zu beobachten und zu fotografieren".--> 
 
-Wald, Seen, Parks, Küsten und Naturschutzgebiete bieten jeweils unterschiedliche Artenvielfalt, weil verschiedene Vogelarten an unterschiedliche Lebensräume angepasst sind. Besonders ergiebig sind **Beobachtungsgebiete während der Zugzeit im Frühjahr und Herbst**, wenn Zugvögel auf ihrem Weg in die Winter- oder Sommerquartiere zwischenrasten. Wer in dieser Zeit an einem bekannten Rastplatz unterwegs ist, kann innerhalb weniger Stunden deutlich mehr Arten entdecken als an einem gewöhnlichen Wochenende.
+Wald, Seen, Parks, Küsten und Naturschutzgebiete bieten jeweils unterschiedliche Artenvielfalt, weil verschiedene Vogelarten an unterschiedliche Lebensräume angepasst sind. Besonders ergiebig sind **Beobachtungsgebiete während der Zugzeit im Frühjahr und Herbst**, wenn Zugvögel auf ihrem Weg in die Winter- oder Sommerquartiere zwischenrasten <<!--Kann man "zwischenrasten" so schreiben? Reicht nicht "rasten"?-->. Wer in dieser Zeit an einem bekannten Rastplatz unterwegs ist, kann innerhalb weniger Stunden deutlich mehr Arten entdecken als an einem gewöhnlichen Wochenende.
 
 ![Ein Naturschutzgebiet aus der Vogelperspektive](naturschutzgebiet.jpg)
 
@@ -160,7 +160,7 @@ Jahresvergleiche zeigen darüber hinaus **saisonale Muster, etwa wann bestimmte 
 
 ## Digitale Dokumentation mit SeaTable
 
-Wer regelmäßig Vögel beobachten und fotografieren möchte, profitiert stark davon, Sichtungen und Fotos an einem Ort zu sammeln statt sie über verschiedene Ordner und Apps zu verteilen. Genau an diesem Punkt setzt die [KI-gestützte No-Code-Plattform]({{< relref "/" >}}) SeaTable an. Mit SeaTable lässt sich eine **eigene Beobachtungsdatenbank aufbauen, in der jede Sichtung mit Datum, Ort, Art und weiteren Details erfasst wird**. Fotos können direkt der jeweiligen Sichtung zugeordnet und gespeichert werden, sodass Bild und Information nicht getrennt voneinander existieren. 
+Wer regelmäßig Vögel beobachten und fotografieren möchte, profitiert stark davon, Sichtungen und Fotos an einem Ort zu sammeln <<!-- hier fehlt ein Komma --> statt sie über verschiedene Ordner und Apps zu verteilen. Genau an diesem Punkt setzt die [KI-gestützte No-Code-Plattform]({{< relref "/" >}}) SeaTable an. Mit SeaTable lässt sich eine **eigene Beobachtungsdatenbank aufbauen, in der jede Sichtung mit Datum, Ort, Art und weiteren Details erfasst wird**. Fotos können direkt der jeweiligen Sichtung zugeordnet und gespeichert werden, sodass Bild und Information nicht getrennt voneinander existieren. 
 
 {{< template-box id="bd645bf653994d8d917c" >}}
 
