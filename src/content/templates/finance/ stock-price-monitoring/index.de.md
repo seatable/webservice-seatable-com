@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Aktienkurse mit SeaTable automatisch überwachen'
     description: 'Beobachten Sie Kursentwicklungen automatisiert, speichern Sie Daten und visualisieren Sie Trends – mit SeaTable und externer Preis-API.'
-template: 'd5cbbf2bba084333a1d7'
+template: 'a7bbe6280aad4c409a93'
 ---
 
 SeaTable ist die perfekte Lösung, um die Kursentwicklung von Aktien (oder auch Preisen) fortlaufend und automatisch zu überwachen.

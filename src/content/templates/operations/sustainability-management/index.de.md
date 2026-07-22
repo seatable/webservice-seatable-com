@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Nachhaltigkeitsmanagement: Umwelt & CSR steuern'
     description: 'Nachhaltigkeitsziele, soziale und ökologische Maßnahmen zentral planen und überwachen – mit SeaTable.'
-template: 'a7bbe6280aad4c409a93'
+template: 'd5cbbf2bba084333a1d7'
 ---
 
 Nachhaltigkeitsmanagement in Unternehmen erfordert nicht nur ein Verständnis für Umweltfragen, sondern auch eine strukturierte Herangehensweise und organisatorisches Geschick. Denn ähnlich wie bei anderen langfristigen Projekten müssen auch nachhaltige Initiativen unternehmensweit geplant, koordiniert und umgesetzt werden.

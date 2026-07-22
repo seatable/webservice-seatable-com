@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Sustainability Management Guide'
     description: 'Plan, manage and document your company’s sustainability, CSR and ESG goals with this easy template.'
-template: 'a7bbe6280aad4c409a93'
+template: 'd5cbbf2bba084333a1d7'
 ---
 
 Sustainability management in companies requires not only an understanding of environmental issues, but also a structured approach and organizational skills. As with other long-term projects, sustainable initiatives must be planned, coordinated and implemented company-wide.

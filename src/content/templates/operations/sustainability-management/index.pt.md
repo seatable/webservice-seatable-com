@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Gestão de sustentabilidade: template completo'
     description: 'Organize objetivos, ações ambientais e sociais no seu negócio com transparência e controle digital.'
-template: 'a7bbe6280aad4c409a93'
+template: 'd5cbbf2bba084333a1d7'
 ---
 
 A gestão da sustentabilidade nas empresas exige não só uma compreensão das questões ambientais, mas também uma abordagem estruturada e competências organizacionais. Tal como acontece com outros projectos a longo prazo, as iniciativas sustentáveis devem ser planeadas, coordenadas e implementadas em toda a empresa.

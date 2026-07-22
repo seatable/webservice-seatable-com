@@ -8,7 +8,7 @@ functions:
 seo:
     title: 'Stock Price Monitoring: Track Automatically in SeaTable'
     description: 'Automate daily stock price tracking, visualize results, analyze trends and keep all data up to date—powered by SeaTable and APIs.'
-template: 'd5cbbf2bba084333a1d7'
+template: 'a7bbe6280aad4c409a93'
 ---
 
 SeaTable is the perfect solution to continuously and automatically monitor the price development of stocks (or even prices).

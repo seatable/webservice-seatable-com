@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Gestión de sostenibilidad: guía práctica'
     description: 'Gestiona objetivos y acciones de sostenibilidad, responsabilidad social y cumplimiento ESG de forma centralizada.'
-template: 'a7bbe6280aad4c409a93'
+template: 'd5cbbf2bba084333a1d7'
 ---
 
 La gestión de la sostenibilidad en las empresas no sólo requiere una comprensión de las cuestiones medioambientales, sino también un planteamiento estructurado y dotes organizativas. Como ocurre con otros proyectos a largo plazo, las iniciativas sostenibles deben planificarse, coordinarse y aplicarse en toda la empresa.

@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Suivi des cours d’actions automatisé par SeaTable'
     description: 'Centralisez la collecte automatique des données boursières : graphiques, historique, API et dashboards intégrés dans SeaTable.'
-template: 'd5cbbf2bba084333a1d7'
+template: 'a7bbe6280aad4c409a93'
 ---
 
 SeaTable est la solution parfaite pour surveiller en permanence et automatiquement l'évolution du cours des actions (ou même des prix).
