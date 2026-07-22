@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Gestion durable : objectifs RSE & ESG'
     description: 'Centralisez la gestion environnementale, sociale et économique en entreprise et suivez vos progrès RSE facilement.'
-template: 'a7bbe6280aad4c409a93'
+template: 'd5cbbf2bba084333a1d7'
 ---
 
 La gestion de la durabilité en entreprise requiert non seulement une compréhension des questions environnementales, mais aussi une approche structurée et des compétences organisationnelles. En effet, à l'instar d'autres projets à long terme, les initiatives durables doivent être planifiées, coordonnées et mises en œuvre à l'échelle de l'entreprise.

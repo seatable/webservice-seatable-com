@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Monitoramento de preços de ações automatizado'
     description: 'Monitore cotações em tempo real, salve histórico e obtenha relatórios visuais com SeaTable e integração via API/Zapier.'
-template: 'd5cbbf2bba084333a1d7'
+template: 'a7bbe6280aad4c409a93'
 ---
 
 SeaTable é a solução perfeita para monitorizar contínua e automaticamente a evolução dos preços das acções (ou preços).

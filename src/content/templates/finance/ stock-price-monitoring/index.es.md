@@ -10,7 +10,7 @@ functions:
 seo:
     title: 'Monitor de precios de acciones: template SeaTable'
     description: 'Supervise precios, registre datos día a día y visualice tendencias en tableros: todo digital y automático con APIs y SeaTable.'
-template: 'd5cbbf2bba084333a1d7'
+template: 'a7bbe6280aad4c409a93'
 ---
 
 SeaTable es la solución perfecta para seguir de forma continua y automática la evolución de los precios de las acciones (o de los precios).
