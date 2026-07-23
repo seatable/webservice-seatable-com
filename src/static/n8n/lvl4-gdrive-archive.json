@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "mode": "everyHour"
+            }
+          ]
+        },
+        "event": "updatedRow",
+        "tableName": "=Documents",
+        "viewName": "=Document available",
+        "options": {
+          "simple": false
+        }
+      },
+      "type": "n8n-nodes-base.seaTableTrigger",
+      "typeVersion": 2,
+      "position": [
+        -2688,
+        -1072
+      ],
+      "id": "9b0254d4-45e4-4a58-9168-b00773085a40",
+      "name": "SeaTable Trigger: Document with file",
+      "credentials": {
+        "seaTableApi": {
+          "id": "REPLACE_ME",
+          "name": "SeaTable account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "Each time a new row with a file is created, the workflow:\n1. retrieves the public URL of the file,\n2. gets it,\n3. uploads it on Google Drive,\n4. and write back the Google Drive specific URL in the SeaTable's row",
+        "height": 192,
+        "width": 496,
+        "color": "#E66100"
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -2848,
+        -1328
+      ],
+      "typeVersion": 1,
+      "id": "4b68216f-a6f6-4460-bafd-5b6f989ebc5c",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "resource": "asset",
+        "operation": "getPublicURL",
+        "assetPath": "={{ $json.File[0].path }}"
+      },
+      "type": "n8n-nodes-base.seaTable",
+      "typeVersion": 2,
+      "position": [
+        -2464,
+        -1072
+      ],
+      "id": "4e2f7a59-f9c6-4661-97f1-5cc66a11eb3c",
+      "name": "1. Get the public URL from asset path",
+      "credentials": {
+        "seaTableApi": {
+          "id": "REPLACE_ME",
+          "name": "SeaTable account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.download_link }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -2240,
+        -1072
+      ],
+      "id": "63b4e968-62fe-462c-9636-135c46ecb6f1",
+      "name": "2. HTTP Request: Get the file data"
+    },
+    {
+      "parameters": {
+        "name": "={{ $('SeaTable Trigger: Document with file').item.json.File[0].name }}",
+        "driveId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "My Drive"
+        },
+        "folderId": {
+          "__rl": true,
+          "value": "REPLACE_WITH_YOUR_FOLDER_ID",
+          "mode": "list",
+          "cachedResultName": "Delivery Notes 2026"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        -2016,
+        -1072
+      ],
+      "id": "69352a95-98a5-4eab-a8ea-411670c09738",
+      "name": "3. Upload file",
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "REPLACE_ME",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "tableName": "=Documents",
+        "rowId": "={{ $('SeaTable Trigger: Document with file').item.json._id }}",
+        "columnsUi": {
+          "columnValues": [
+            {
+              "columnName": "=Backup URL",
+              "columnValue": "={{ $json.webViewLink }}"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.seaTable",
+      "typeVersion": 2,
+      "position": [
+        -1792,
+        -1072
+      ],
+      "id": "c324d76d-683f-4496-bc47-e6995e79f2bf",
+      "name": "4. SeaTable: Update a row with GDrive's link",
+      "credentials": {
+        "seaTableApi": {
+          "id": "REPLACE_ME",
+          "name": "SeaTable account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "SeaTable Trigger: Document with file": {
+      "main": [
+        [
+          {
+            "node": "1. Get the public URL from asset path",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1. Get the public URL from asset path": {
+      "main": [
+        [
+          {
+            "node": "2. HTTP Request: Get the file data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "2. HTTP Request: Get the file data": {
+      "main": [
+        [
+          {
+            "node": "3. Upload file",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "3. Upload file": {
+      "main": [
+        [
+          {
+            "node": "4. SeaTable: Update a row with GDrive's link",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {
+    "SeaTable Trigger: Document with file": [
+      {
+        "Identifier": "DNINT-000",
+        "Date": null,
+        "Order reference": "2412/2026",
+        "Delivery reference": "INT-000",
+        "File": [
+          {
+            "name": "delivery-note-capture.jpg",
+            "size": 52279,
+            "type": "file",
+            "upload_time": "2026-07-01T21:02:01.269+00:00",
+            "url": "https://seatable.example.com/workspace/00/asset/00000000-0000-0000-0000-000000000000/files/2026-07/delivery-note-capture.jpg",
+            "path": "/files/2026-07/delivery-note-capture.jpg"
+          }
+        ],
+        "OCR text": null,
+        "JSON": null,
+        "Line items": [
+          {
+            "row_id": "row-000000000000000001",
+            "display_value": "098765"
+          },
+          {
+            "row_id": "row-000000000000000002",
+            "display_value": "567890"
+          },
+          {
+            "row_id": "row-000000000000000003",
+            "display_value": "345678"
+          }
+        ],
+        "Movement type": "Delivery",
+        "Backup URL": null,
+        "Lines to check": 3,
+        "Review needed": null,
+        "Operator validation": null,
+        "Reviewer": null,
+        "row ID": "row-000000000000000010",
+        "_archived": false,
+        "_creator": "user@auth.local",
+        "_ctime": "2026-06-30T16:36:23.158+02:00",
+        "_last_modifier": "user",
+        "_mtime": "2026-07-02T23:01:27.357+02:00",
+        "_id": "row-000000000000000010"
+      }
+    ],
+    "1. Get the public URL from asset path": [
+      {
+        "download_link": "https://seatable.example.com/seafhttp/files/11111111-1111-1111-1111-111111111111/delivery-note-capture.jpg"
+      }
+    ],
+    "3. Upload file": [
+      {
+        "kind": "drive#file",
+        "id": "1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "name": "delivery-note-capture.jpg",
+        "mimeType": "image/jpeg",
+        "parents": [
+          "1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+        ],
+        "webContentLink": "https://drive.google.com/uc?id=1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&export=download",
+        "webViewLink": "https://drive.google.com/file/d/1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/view?usp=drivesdk",
+        "size": "52279",
+        "createdTime": "2026-07-14T00:44:20.662Z",
+        "imageMediaMetadata": {
+          "width": 750,
+          "height": 1061,
+          "rotation": 0
+        }
+      }
+    ],
+    "4. SeaTable: Update a row with GDrive's link": [
+      {
+        "success": true
+      }
+    ]
+  },
+  "meta": {}
+}

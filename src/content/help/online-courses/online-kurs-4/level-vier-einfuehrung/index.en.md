@@ -40,7 +40,7 @@ Throughout the course, you will learn to:
 - call SeaTable's API, and let an outside tool write to it in turn.
 - send a notification to the outside world with a webhook.
 - orchestrate a small workflow with n8n to archive a document.
-- let artificial intelligence read a delivery note and extract its lines on its own.
+- let AI read a delivery note and extract its lines on its own.
 
 By the end, you will have a complete toolkit to automate your processes and connect them to the outside world.
 
@@ -52,6 +52,8 @@ Like the previous courses, you follow this one here, on the site. What is new is
 
 Some steps, on the other hand, take you out of SeaTable for real — sending an actual notification to your phone, archiving an actual file in another service. For those, the plugin scores nothing: it simply tells you to trigger the action, then to go and see the result on the other side. That manual check is part of the lesson.
 
+New to this companion? The plugin includes a short Welcome course — pick it from the list on the left for a quick tour of how a course works, the buttons, and the movable toolbar you can slide out of your way. It takes barely a minute, and everything that follows assumes you are at ease moving between the site and the plugin, so that is the place to start.
+
 ## What are the requirements?
 
 To follow this course successfully, you will need:
@@ -60,7 +62,7 @@ To follow this course successfully, you will need:
 2. **The course plugin**: the online-courses plugin, to add to your base. We explain how to install it just before the first step. <!-- TODO: plugin install procedure / link -->
 3. **Forum**: an [account on our community forum](https://forum.seatable.com/)  if you would like to receive a badge after completing the course.
 4. **Optional, for the webhook step**: you will send an external notification using [ntfy](https://ntfy.sh/). No account is needed and you can confirm receipt in your browser, but to receive it on your phone you will need to install the ntfy app from your app store.
-5. **Optional, for the n8n step**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Seafile](https://www.seafile.com/en/home/) account — two services offering a free trial with no credit card (Seafile is from the same family as SeaTable). Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
+5. **Optional, for the n8n step**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Google](https://www.google.com/drive/) account (for Google Drive) — n8n offers a free trial with no credit card, and a Google account is one you very likely already have. Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
 6. **Browser**: we recommend Google Chrome.
 7. **Language**: the course is available in several languages, but the quiz, screenshots and sample data are in English.
 

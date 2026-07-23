@@ -9,19 +9,19 @@ url: '/help/step-5-let-ai-read-the-delivery-note'
 aliases:
     - '/help/schritt-5-ki-liest-den-lieferschein'
 seo:
-    title: 'Step 5 of SeaTable course 4: extract line items from a PDF with AI'
-    description: 'Let SeaTable read a PDF delivery note and create its line items automatically — text recognition, AI extraction, script — without ever making AI a critical link.'
+    title: 'Step 5 of SeaTable course 4: extract line items from a photo with AI'
+    description: 'Let SeaTable read a photographed delivery note and create its line items automatically — text recognition, AI extraction, script — without ever making AI a critical link.'
 ---
 
-Remember step 2: you imported the line items of a delivery from a neatly organized spreadsheet. But a real delivery note, to begin with, is a PDF document, not a ready-to-use file. Now you are going to let SeaTable do that work for you: read the PDF and pull out the line items, all on its own. This is the most spectacular moment of the course — and also the one where you need to stay clear-eyed about what AI can, and cannot, do.
+Remember step 2: you imported the line items of a delivery from a neatly organized spreadsheet. A real delivery note rarely arrives so conveniently — it seldom lands as a tidy PDF in your inbox. More often it is a slip of paper the driver hands over at the dock, and the warehouse worker simply snaps a photo of it with a phone. That image is nothing like a ready-to-use file. Now you are going to let SeaTable do that work for you: read the photo and pull out the line items, all on its own. This is the most spectacular moment of the course — and also the one where you need to stay clear-eyed about what AI can, and cannot, do.
 
 It all happens in an automation triggered when a new document arrives, in three steps: **read**, **extract**, **create**.
 
 ## Read the document
 
-The delivery note arrives in the `File` column of your document, as a PDF. First action: a **text recognition** AI action. It requires no instructions — you only tell it which column to read, `File`, and the column where to drop the result, `OCR text`. SeaTable extracts all the text from it: references, quantities, whatever is on the paper — but raw, as-is.
+The delivery note arrives in the `File` column of your document, as a photo. First action: a **text recognition** AI action. It requires no instructions — you only tell it which column to read, `File`, and the column where to drop the result, `OCR text`. SeaTable extracts all the text from it: references, quantities, whatever is on the paper — but raw, as-is.
 
-![The result of text recognition dropped into the OCR text column from the PDF](images/lvl4-ai-extraction.png)
+![The result of text recognition dropped into the OCR text column from the photo](images/lvl4-ai-extraction.png)
 
 ## Extract the line items
 
@@ -59,19 +59,19 @@ base.update_row(context.current_table, context.current_row['_id'], {
     'Delivery reference': data['delivery'],
 })
 lines = [{
-    'Product ref': p['ref'],
+    'Product reference': p['ref'],
     'Qty': int(p['qty']),
-    'Document reference': 'DN' + data['delivery'],
+    'Document reference': data['delivery'],
 } for p in data['products']]
 if lines:
     base.batch_append_rows('Line items', lines)
 ```
 
-And here is the elegance of the whole thing: each line created triggers, as in step 2, your "link by comparison" automation. The new lines attach themselves to their product and their document. From the PDF to the linked line items, without a single manual entry — chain these three actions in an automation triggered by the arrival of a document, drop a new note, and watch it work.
+And here is the elegance of the whole thing: each line created triggers, as in step 2, your "link by comparison" automation. The new lines attach themselves to their product and their document. From the photo to the linked line items, without a single manual entry — chain these three actions in an automation triggered by the arrival of a document, drop a new note, and watch it work.
 
 ## AI proposes, you validate
 
-An essential word before going further. AI is impressive, but it is not infallible: depending on the scan quality or the supplier's layout, it can get a quantity wrong, miss a line, or simply choke. That is in its nature, and no setting changes that one hundred percent.
+An essential word before going further. AI is impressive, but it is not infallible: depending on the photo quality or the supplier's layout, it can get a quantity wrong, miss a line, or simply choke. That is in its nature, and no setting changes that one hundred percent.
 
 That is precisely why the next step in your process is the human verification you already know. The lines proposed by the AI are not set in stone: they go through the receiving of step 3, where you compare what was announced against what is real. The AI's imperfection is not a flaw to work around, it is the very reason for this validation.
 

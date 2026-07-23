@@ -10,12 +10,12 @@ aliases:
     - '/help/schritt-7-n8n'
 seo:
     title: 'Step 7 of SeaTable course 4: orchestrate a workflow with n8n'
-    description: 'Chain SeaTable and Seafile together with n8n: automatically archive every delivery note and pull its link back into the base. A step to follow as a demo or replay yourself.'
+    description: 'Chain SeaTable and Google Drive together with n8n: automatically archive every delivery note and pull its link back into the base. A step to follow as a demo or replay yourself.'
 ---
 
 A webhook sends a message; a script sends a custom one. But when you need to **chain several services together** — pick up a file here, drop it there, grab a link to it, write that back somewhere else — it pays to bring out a dedicated tool: an orchestrator. Ours is called n8n.
 
-This step is a demonstration: you can simply follow along to see how these pieces fit together. If you want to replay it yourself, an n8n account and a Seafile account are all you need, and we provide the ready-made workflow.
+This step is a demonstration: you can simply follow along to see how these pieces fit together. If you want to replay it yourself, an n8n account and a Google account are all you need, and we provide the ready-made workflow.
 
 ## A workflow orchestrator
 
@@ -25,24 +25,19 @@ We put n8n forward for two specific reasons. First, it is **open source** and yo
 
 ## The scenario: archive the delivery note
 
-Your delivery notes are valuable: in case of a dispute, you need to be able to lay your hands on the original. Rather than leaving them to sleep in the base, let's archive them in a dedicated storage space — **Seafile**.
+Your delivery notes are valuable: in case of a dispute, you need to be able to lay your hands on the original. Rather than leaving them to sleep in the base, let's archive them in a dedicated storage space — **Google Drive**.
 
-Seafile is from the same family as SeaTable: the same interfaces, the API token in the same place. You won't feel out of place, and it is a consistent choice — here again, we stay within what we master. A free trial, with no credit card, is more than enough for this step.
+Google Drive is a place almost everyone already has, and n8n talks to it through a **built-in node** that the tool maintains itself: the connection is solid and there is nothing extra to install. It is a fitting partner for this step — a well-known destination, reached over a channel we can rely on.
+
+One honest caveat: connecting Google is not a two-click affair. You have to create a project in the Google Cloud console, switch on the Drive API, and set up an OAuth consent screen before n8n can act on your behalf. It can feel like a lot for a single backup workflow — but it is worth it.
+
+{{< warning headline="Why the setup is worth it" text="First, this is the price of a properly secured service: instead of handing over a permanent password, you grant scoped, revocable access that you can withdraw at any time. Second, it is an investment you make only once — the very same connection then opens the door to Google's other services (Sheets, Gmail, Calendar, and more), simply by enabling the matching API. The effort pays off well beyond this step." />}}
 
 ## The workflow, step by step
 
 Here is the workflow, as it appears in n8n:
 
-{{< image-zoom image="images/lvl4-n8n-workflow.png" alt="The n8n workflow: from the SeaTable trigger through to writing the Seafile link into the base" >}}
-[
-  {"x":1,"y":2,"w":9,"h":45,"img":"images/lvl4-n8n-node-trigger.png","label":"Trigger: a new document with a file"},
-  {"x":16,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-geturl.png","label":"Get the file's address in SeaTable"},
-  {"x":32,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-download.png","label":"Download the file"},
-  {"x":49,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-upload.png","label":"Upload the file to Seafile"},
-  {"x":65,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-getlink.png","label":"Ask Seafile for a link"},
-  {"x":81,"y":2,"w":10,"h":45,"img":"images/lvl4-n8n-node-update.png","label":"Write the link into the document's Backup URL"}
-]
-{{< /image-zoom >}}
+{{< n8n-demo src="/n8n/lvl4-gdrive-archive.json" >}}
 
 Click a node to open its configuration in detail.
 
@@ -50,29 +45,31 @@ It forms a full round trip between the two services:
 
 1. **The trigger** watches the `Documents` table: as soon as a document with a file appears, the workflow starts.
 2. n8n **retrieves the file's address** in SeaTable, then **downloads** it.
-3. It **uploads it to Seafile**, into an archive folder (`/Delivery notes/2026/`).
-4. It **asks Seafile for a link** to the file thus archived.
-5. It **writes that link back** into the document's `Backup URL` column, on the SeaTable side.
+3. It **uploads it to Google Drive**, into an archive folder (`Delivery Notes 2026`) — and Google hands back a shareable link to the stored file.
+4. It **writes that link back** into the document's `Backup URL` column, on the SeaTable side.
 
-In short: the file leaves SeaTable, is filed away in Seafile, and its archive address comes back to settle in the base. The strength of n8n is not a spectacular node — it is this **composition** of simple gestures between two tools.
+Want to see what actually travels along those wires? Step through the run below — each click advances one node and shows the data it hands on: watch the SeaTable row become a download link, then a file on Drive, then the link that lands back in the base.
+
+{{< lvl4-n8n-simulator src="/n8n/lvl4-gdrive-archive.json" >}}
+
+In short: the file leaves SeaTable, is filed away in Google Drive, and its archive address comes back to settle in the base. The strength of n8n is not a spectacular node — it is this **composition** of simple gestures between two tools.
 
 ## Replay it yourself
 
 If you want to see it truly run, there's no need to rebuild it node by node: import it ready-made.
 
-<!-- TODO: check that the file is actually served at this URL after build. -->
-[Download the n8n workflow](/n8n/lvl4-seafile-archive.json)
+[Download the n8n workflow](/n8n/lvl4-gdrive-archive.json)
 
-In your n8n, create a new workflow and import this file. All that's left is to install the community node `n8n-nodes-seafile`, then fill in your own credentials — your SeaTable and Seafile accounts, and the ID of your Seafile library in place of the `YOUR_SEAFILE_LIBRARY` value. Then run the workflow, and drop a delivery note into your base.
+In your n8n, create a new workflow and import this file. Google Drive is a built-in node, so there is nothing extra to install — you simply connect two accounts, your SeaTable and your Google account (the OAuth step from earlier), and choose the destination folder in place of the `REPLACE_WITH_YOUR_FOLDER_ID` value. Then run the workflow, and drop a delivery note into your base.
 
 {{< warning headline="A backup is not a showcase" text="The link the workflow saves points to a private archive, not to a page meant to be shared. This is intentional: backing up a document and presenting it to the public are two distinct needs. Here, the goal is to keep the original in a safe place and to keep a trace of it in the base, nothing more." />}}
 
 ## Try it yourself
 
-Head to your Seafile library after processing a note: the PDF is there, filed away in its archive folder. Then come back to the base and open the document: its `Backup URL` column now holds the link that leads to it. You have just made two applications talk to each other without writing a single line of code — that is the whole point of an orchestrator.
+Head to your Google Drive after processing a note: the document is there, filed away in its archive folder. Then come back to the base and open the document: its `Backup URL` column now holds the link that leads to it. You have just made two applications talk to each other without writing a single line of code — that is the whole point of an orchestrator.
 
 ## Help article with further information
 
 - [SeaTable's n8n integration]({{< relref "help/integrationen/n8n/" >}})
 - [n8n — workflow automation](https://n8n.io/)
-- [Seafile — file storage](https://www.seafile.com/en/home/)
+- [Google Drive](https://www.google.com/drive/)

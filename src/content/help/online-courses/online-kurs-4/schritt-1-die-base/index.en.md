@@ -20,11 +20,7 @@ Download the following file and import it as a new base:
 <!-- TODO: export the Warehouse base as .dtable and drop it at this path -->
 [SeaTable Course 4 - Warehouse.dtable](/SeaTable-Course-4-Warehouse.dtable)
 
-Then add the online-courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice and have your work checked. <!-- TODO: plugin installation procedure and link -->
-
-Finally, enter your base's address below. The course uses it to offer you links that open the right exercise directly in the plugin; this address stays in your browser and never leaves your machine.
-
-{{< st-base-url label="Your base address" >}}
+Then add the online-courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice and have your work checked.
 
 Even though you did not build the base yourself, take the time to get to know it well: the course refers back to it at every step, and a few of the column types may be new to you.
 
@@ -42,15 +38,15 @@ You will not always have to fill those descriptive fields by hand: in the last s
 
 ### The documents: `Documents`
 
-Each record in the `Documents` table is a piece of paperwork that moves stock, and the `{{< seatable-icon icon="dtable-icon-single-election" >}} Movement type` column marks which way: a `Delivery` brings goods **in** from a supplier and adds to your stock, while a `Customer order` sends them **out** and draws from it. This course follows the delivery side from end to end — receiving goods and keeping the stock right. The `Customer order` side is there on purpose: your base is already structured for it, and turning the whole flow around to serve it is the challenge we leave you with at the end (see step 9). For now, every document you handle is a delivery, and `File` holds it — the PDF of the delivery note, for example.
+Each record in the `Documents` table is a piece of paperwork that moves stock. Its `{{< seatable-icon icon="dtable-icon-single-election" >}} Movement type` marks which way the goods go — a `Delivery` brings them **in**, a `Customer order` sends them **out** — and `{{< seatable-icon icon="dtable-icon-file" >}} File` holds the document itself: the delivery note, for example.
+
+{{< warning headline="Deliveries only" text="Throughout this course, every document is a Delivery — goods coming in that add to your stock. We leave the Customer order direction aside." />}}
 
 The other columns in this table — those that will hold the text extracted from the document, the archive link or the assignment of an issue to a colleague — will fill up as the course goes on, as you put them into service. No need to detail them now; each one arrives at its own step.
 
 ### The lines: `Line items`
 
 A document on its own does not say much: it is its lines that count. The `Line items` table details each document, one line per product. Each line ties a product from the catalog to two quantities: `Qty`, what the document **announces**, and `Received qty`, what you **actually find** on receiving. It is the comparison of these two numbers that sits at the heart of the course.
-
-![A delivery note from the “Documents” table and, beside it, its detailed lines in the “Line items” table](images/lvl4-document-and-lines.png)
 
 ## How it all fits together
 
@@ -66,10 +62,11 @@ The course's through-line compares the last two. The supplier announces three bo
 
 ## Try it yourself
 
-Open the `Documents` table and find the delivery note already there. Follow its `Line items` link: you see the lines the supplier announces, each with its `Qty`. Their `Received qty` column is still empty — you are the one who will fill it in from the very next step, and SeaTable will take care of the rest.
+Open the `Documents` table and find the delivery note already there. Its header is filled in — you can have a look at the original note in the `File` column, but you will see it has no lines yet: the detail of what the supplier sent — which products, in what quantities — is still missing. Supplying that detail is exactly where the next step begins.
 
 ## Help article with further information
 
+- [Activating a plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
 - [Creating a base from a DTABLE file]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/" >}})
 - [The link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte/" >}})
 - [The link formula column]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen/" >}})

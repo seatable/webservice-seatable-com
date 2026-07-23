@@ -62,12 +62,12 @@ try:
         'Delivery reference': data['delivery'],
     })
     lines = [{
-        'Product ref': p['ref'],
+        'Product reference': p['ref'],
         'Qty': int(p['qty']),
-        'Document reference': 'DN' + data['delivery'],
+        'Document reference': data['delivery'],
     } for p in products]
     base.batch_append_rows('Line items', lines)
-    requests.post(NTFY, data=f"Delivery DN{data['delivery']}: {len(lines)} lines ready to check".encode('utf-8'))
+    requests.post(NTFY, data=f"Delivery {data['delivery']}: {len(lines)} lines ready to check".encode('utf-8'))
 except Exception as e:
     requests.post(NTFY, data=f"Extraction failed: {e}".encode('utf-8'),
                   headers={'Priority': 'high', 'Tags': 'warning'})
@@ -79,7 +79,7 @@ Replace the topic with your own, drop in a new delivery note, and wait for the b
 
 ## Try it yourself
 
-Deliberately cause an error: drop in a document whose PDF is unreadable, or empty the `JSON` column before you rerun the script. You should receive the failure notification, not the success one. That is the kind of safeguard that, in production, warns you of a problem before someone discovers it out on the dock.
+Deliberately cause an error: drop in a document whose photo is unreadable, or empty the `JSON` column before you rerun the script. You should receive the failure notification, not the success one. That is the kind of safeguard that, in production, warns you of a problem before someone discovers it out on the dock.
 
 ## Help article with further information
 
