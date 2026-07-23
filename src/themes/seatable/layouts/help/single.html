@@ -13,7 +13,7 @@
                         <div class="lg:top-10 print:hidden">{{ partial "toc.html" . }}</div>
                     </div>
 
-                    {{ .Content }}
+                    {{ partial "content-body.html" .Content }}
 
                     {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
                     <div class="mt-24 flex flex-row justify-between gap-4" data-pagefind-ignore>

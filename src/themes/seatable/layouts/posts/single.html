@@ -35,7 +35,7 @@
             <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
                 <!-- max width of the blog posts is 768px -> image optimization -->
                 <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4 print:block print:w-full">
-                    {{ .Content }}
+                    {{ partial "content-body.html" .Content }}
 
 
                     <div class="mt-12 border-t border-gray-300"></div>

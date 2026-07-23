@@ -16,7 +16,7 @@
         </header>
 
         <section class="mx-auto mt-4 max-w-[800px]" id="avv">
-            {{ .Content }}
+            {{ partial "content-body.html" .Content }}
 
             <form x-data="avvForm()" @submit.prevent="submitForm" method="post">
                 <div class="border-t border-gray-300 px-16 py-16">

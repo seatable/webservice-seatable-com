@@ -1,0 +1,11 @@
+{{- /*
+  Renders page body content, fixing a whitespace artifact from the custom
+  link render hook (layouts/_default/_markup/render-link.html): it emits a
+  trailing newline after every </a>, which collapses to a rendered space.
+  When a link is immediately followed by closing punctuation, that space both
+  looks wrong and lets the punctuation (e.g. a lone ")") wrap to a new line.
+  We replace it with a non-breaking space so the punctuation stays attached.
+  Dashes (– —) are intentionally excluded so "word – word" keeps its space.
+  Input: the page's .Content
+*/ -}}
+{{- . | replaceRE `</a>\s+([)\]}.,;:!?])` "</a>&#160;$1" | safeHTML -}}

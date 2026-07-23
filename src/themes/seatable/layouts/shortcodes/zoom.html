@@ -6,7 +6,7 @@
      via .Page.Resources.GetMatch -> .RelPermalink (a raw src="images/..." would 404),
      with a fallback to the raw path. Self-contained inline style+script, idempotent —
      mirrors the other custom shortcodes; distinct class/guard names so it coexists with
-     the image-zoom hotspot lightbox after branch merges. */}}
+     any other lightbox on the page. */}}
 {{- $image := .Get "image" -}}
 {{- $alt := .Get "alt" | default "" -}}
 {{- $hint := .Get "hint" | default "Click to enlarge" -}}

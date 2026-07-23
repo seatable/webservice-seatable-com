@@ -1,0 +1,259 @@
+{{/* Course-4 ONLY, single-use: a step-through "simulator" for the delivery-note -> Google
+     Drive n8n workflow. Sits under the reusable {{< n8n-demo >}} canvas; both read the SAME JSON
+     (pass the same `src`) so they never drift. Node names/subtitles/notes are hardcoded to THIS
+     workflow -- deliberately not generic. One instance per page. CSS scoped under .st-n8nsim,
+     theme-aware. Assembled from "online course 4/n8n-demo.html" (see assemble_sim.py). */}}
+{{ $src := .Get "src" }}
+<div class="st-n8nsim" data-src="{{ $src }}">
+  <div class="steps"></div>
+  <div class="meta"><span class="note"></span></div>
+  <div class="controls"><button class="prev" type="button">Previous</button><button class="next" type="button">Next</button></div>
+  <pre class="payload"></pre>
+</div>
+<style>
+.st-n8nsim { margin-top: 2.5rem; font-family: system-ui, sans-serif; color: #1f1f1f; }
+.st-n8nsim .steps { overflow-x: auto; }
+.st-n8nsim .steps {display: flex; align-items: flex-start; padding-left: 16px; }
+.st-n8nsim .node {position: relative; flex: 0 0 auto; width: 84px; display: flex; flex-direction: column;
+          align-items: center; cursor: pointer; }
+.st-n8nsim .node-card {position: relative; box-sizing: border-box; width: 84px; height: 84px;
+               border-radius: 8px; background: #fff; border: 1.5px solid #dcdcdc;
+               box-shadow: 0 1px 2px rgba(0,0,0,.05);
+               display: flex; align-items: center; justify-content: center; }
+.st-n8nsim .node.trigger .node-card {border-radius: 42px 8px 8px 42px; }
+.st-n8nsim .node-ico {width: 46px; height: 46px; }
+.st-n8nsim .node-ico svg {width: 100%; height: 100%; display: block; }
+.st-n8nsim .bolt {position: absolute; left: -13px; top: 50%; transform: translateY(-50%);
+          width: 15px; height: 15px; color: #ff8000; }
+.st-n8nsim .bolt svg {width: 100%; height: 100%; display: block; }
+.st-n8nsim .handle {position: absolute; box-sizing: border-box; top: 50%; width: 13px; height: 13px;
+            border-radius: 50%; background: #fff; border: 1.5px solid #b6b6b6;
+            transform: translateY(-50%); }
+.st-n8nsim .handle-in {left: -6.5px; }
+.st-n8nsim .handle-out {right: -6.5px; }
+.st-n8nsim .node.reached .node-card {border-color: #33a852;
+               box-shadow: 0 0 0 1.5px rgba(51,168,82,.25), 0 1px 3px rgba(0,0,0,.07); }
+.st-n8nsim .node-check {position: absolute; right: 6px; bottom: 4px; color: #33a852; font-size: 13px;
+                line-height: 1; display: none; }
+.st-n8nsim .node.reached .node-check {display: block; }
+.st-n8nsim .node-name {width: 116px; margin: 9px -16px 0; font-size: 12px; line-height: 1.25;
+               color: #37352f; text-align: center; }
+.st-n8nsim .node.current .node-name {font-weight: 600; }
+.st-n8nsim .node-sub {width: 116px; margin: 2px -16px 0; font-size: 11px; line-height: 1.2;
+              color: #9a9a9a; text-align: center; }
+.st-n8nsim .wire {flex: 1 1 auto; min-width: 34px; height: 2px; margin: 41px 6.5px 0; border-radius: 2px;
+          background: #d3d3d3; position: relative; transition: background 0s .45s; }
+.st-n8nsim .wire::after {content: ''; position: absolute; right: -1px; top: 50%; transform: translateY(-50%);
+                 border-left: 6px solid #d3d3d3; border-top: 4px solid transparent;
+                 border-bottom: 4px solid transparent; transition: border-left-color 0s .45s; }
+.st-n8nsim .wire.flow {background: #33a852; }
+.st-n8nsim .wire.flow::after {border-left-color: #33a852; }
+.st-n8nsim .wire-count {position: absolute; left: 50%; bottom: 7px; transform: translateX(-50%);
+                white-space: nowrap; font-size: 10px; color: #33a852; opacity: 0;
+                transition: opacity 0s .45s; }
+.st-n8nsim .wire.flow .wire-count {opacity: 1; }
+.st-n8nsim .meta {display: flex; align-items: baseline; gap: 8px; margin: 1.25rem 0 .5rem; font-size: 14px; }
+.st-n8nsim .meta .note {color: #666; }
+.st-n8nsim .meta .badge {margin-left: auto; font-size: 12px; color: #888; }
+.st-n8nsim pre {background: #f6f6f4; border-radius: 8px; padding: 1rem; margin: 0;
+        font-size: 12px; line-height: 1.6; white-space: pre-wrap; word-break: break-all;
+        max-height: 340px; overflow: auto; }
+.st-n8nsim .controls {display: flex; align-items: center; gap: 8px; margin-top: 12px; margin-bottom: 12px; }
+.st-n8nsim button {font: inherit; font-size: 13px; padding: 6px 12px; border: 1px solid #ccc;
+           border-radius: 6px; background: #fff; cursor: pointer; }
+.st-n8nsim button:disabled {opacity: .4; cursor: default; }
+.st-n8nsim button:disabled:hover {background: #fff; }
+.st-n8nsim button:hover {background: #f6f6f4; }
+.st-n8nsim .controls select {font: inherit; font-size: 13px; padding: 5px; margin-left: auto; }
+.st-n8nsim .payload {height: 300px; }
+
+@media (prefers-color-scheme: dark) {
+  .st-n8nsim { color: #c9ccd3; }
+  .st-n8nsim .node-card { background: #20242e; border-color: #3a3f4b; box-shadow: 0 1px 2px rgba(0,0,0,.3); }
+  .st-n8nsim .handle { background: #20242e; border-color: #5a606d; }
+  .st-n8nsim .node-name { color: #c9ccd3; }
+  .st-n8nsim .node-sub { color: #8a8f98; }
+  .st-n8nsim .node.reached .node-card { border-color: #33a852; box-shadow: 0 0 0 1.5px rgba(51,168,82,.35), 0 1px 3px rgba(0,0,0,.4); }
+  .st-n8nsim .wire { background: #454b57; }
+  .st-n8nsim .wire::after { border-left-color: #454b57; }
+  .st-n8nsim .meta .note { color: #9aa0aa; }
+  .st-n8nsim .payload { background: #15181e; color: #c9ccd3; }
+  .st-n8nsim button { background: #20242e; border-color: #3a3f4b; }
+  .st-n8nsim button:hover:not(:disabled) { background: #2a2f3a; }
+}
+</style>
+<script>
+(function () {
+  document.querySelectorAll('.st-n8nsim[data-src]').forEach(function (root) {
+    if (root.dataset.simInit) return;
+    root.dataset.simInit = '1';
+    fetch(root.getAttribute('data-src'))
+      .then(function (r) { return r.json(); })
+      .then(function (wf) { initSim(root, wf); })
+      .catch(function () {});
+  });
+  function initSim(root, wf) {
+// Node order: start from the trigger, then follow connections.main[0][0].node
+function chain(wf) {
+  const targets = new Set();
+  for (const src of Object.values(wf.connections || {})) {
+    for (const out of src.main || []) {
+      for (const link of out || []) targets.add(link.node);
+    }
+  }
+  const start = wf.nodes.find(n =>
+    !targets.has(n.name) &&
+    wf.connections[n.name] &&
+    n.type !== 'n8n-nodes-base.stickyNote'
+  );
+  const order = [];
+  let cur = start;
+  while (cur && !order.includes(cur.name)) {
+    order.push(cur.name);
+    const next = wf.connections[cur.name]?.main?.[0]?.[0]?.node;
+    cur = wf.nodes.find(n => n.name === next);
+  }
+  return order;
+}
+
+// Steps that cannot be pinned (binary data), keyed by node name.
+// The function receives the index of the current item.
+const FALLBACK = {
+  '2. HTTP Request: Get the file data': (i, pins) => {
+    const f = pins['SeaTable Trigger: Document with file']?.[i]?.File?.[0] ?? {};
+    return {
+      value: { binary: { data: { fileName: f.name, mimeType: 'image/jpeg', fileSize: f.size } } },
+      note: 'JSON gives way to binary — not pinnable, reconstructed here'
+    };
+  }
+};
+
+const NOTES = {
+  'SeaTable Trigger: Document with file': 'The SeaTable row, as the trigger delivers it',
+  '1. Get the public URL from asset path': 'File[0].path becomes a download link',
+  '3. Upload file': 'The binary becomes a Drive file',
+  "4. SeaTable: Update a row with GDrive's link": 'webViewLink written back to the Backup URL column'
+};
+
+// Node icons, matching the n8n canvas: the official SeaTable mark (orange→red gradient "S"),
+// the tri-colour Google Drive logo, and an indigo globe for the generic HTTP node. The
+// gradient id is reused across the three SeaTable instances — the first definition wins, which
+// is fine here.
+const SEATABLE = '<svg viewBox="0 0 352.115 493.94" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="stg" x1="0" y1="1206.99" x2="1" y2="1206.99" gradientTransform="matrix(-32.515286,-94.164221,-94.164221,32.515286,113852.8,-38927.12)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff8000"/><stop offset="1" stop-color="#ec2837"/></linearGradient></defs><path fill-rule="evenodd" fill="url(#stg)" d="m 45.5275,377.5 116.44,116.44 167.37,-167.37 c 30.37,-30.37 30.37,-79.61 0,-109.98 l -61.45,-61.46 -1.1,-1.1 -183.86,183.46 1.29,1.29 -38.7,38.7 z"/><path fill-rule="evenodd" fill="#ff8000" d="M 84.2275,338.8 306.5975,116.45 190.1475,0 22.7775,167.37 c -30.37,30.37 -30.37,79.61 0,109.98 z"/></svg>';
+const GLOBE = '<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#6366d9" stroke-width="6.5"><circle cx="50" cy="50" r="33"/><ellipse cx="50" cy="50" rx="15" ry="33"/><line x1="17" y1="50" x2="83" y2="50"/><line x1="24" y1="31" x2="76" y2="31"/><line x1="24" y1="69" x2="76" y2="69"/></g></svg>';
+const DRIVE = '<svg viewBox="0 0 87 78" xmlns="http://www.w3.org/2000/svg"><path d="M6.6 66.85l3.85 6.65c.8 1.4 1.95 2.5 3.3 3.3l13.75-23.8H0c0 1.55.4 3.1 1.2 4.5z" fill="#0066da"/><path d="M43.65 25L29.9 1.2c-1.35.8-2.5 1.9-3.3 3.3L1.2 48.5C.4 49.9 0 51.45 0 53h27.5z" fill="#00ac47"/><path d="M73.55 76.8c1.35-.8 2.5-1.9 3.3-3.3l1.6-2.75 7.65-13.25c.8-1.4 1.2-2.95 1.2-4.5H59.5l5.85 11.5z" fill="#ea4335"/><path d="M43.65 25L57.4 1.2c-1.35-.8-2.9-1.2-4.5-1.2h-18.5c-1.6 0-3.15.45-4.5 1.2z" fill="#00832d"/><path d="M59.8 53H27.5L13.75 76.8c1.35.8 2.9 1.2 4.5 1.2h50.8c1.6 0 3.15-.45 4.5-1.2z" fill="#2684fc"/><path d="M73.4 26.5L60.7 4.5c-.8-1.4-1.95-2.5-3.3-3.3L43.65 25 59.8 53h27.45c0-1.55-.4-3.1-1.2-4.5z" fill="#ffba00"/></svg>';
+const BOLT = '<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M13 2L4 14h6l-1 8 9-12h-6l1-8z"/></svg>';
+
+const ICONS = {
+  'n8n-nodes-base.seaTableTrigger': SEATABLE,
+  'n8n-nodes-base.seaTable': SEATABLE,
+  'n8n-nodes-base.httpRequest': GLOBE,
+  'n8n-nodes-base.googleDrive': DRIVE
+};
+
+// Grey operation subtitle under each card, as n8n shows it.
+const SUBTITLES = {
+  'SeaTable Trigger: Document with file': 'updatedRow',
+  '1. Get the public URL from asset path': 'asset: getPublicURL',
+  '2. HTTP Request: Get the file data': 'GET',
+  '3. Upload file': 'file: upload',
+  "4. SeaTable: Update a row with GDrive's link": 'row: update'
+};
+
+const order = chain(wf);
+const pins = wf.pinData || {};
+const itemCount = Math.max(1, ...order.map(n => (pins[n] || []).length));
+
+const $steps = root.querySelector('.steps');
+const $note = root.querySelector('.note');
+const $payload = root.querySelector('.payload');
+const $prev = root.querySelector('.prev');
+const $next = root.querySelector('.next');
+//const $play = document.getElementById('play');
+
+// Build the stepper: a node card per step, joined by a wire (the wire also carries the
+// green data-flow dot once execution has passed it).
+$steps.innerHTML = order.map((name, k) => {
+  const node = wf.nodes.find(x => x.name === name);
+  const icon = ICONS[node.type] || GLOBE;
+  const displayName = name.replace(/^\d+\.\s*/, '');            // drop the "N." authoring prefix
+  const sub = SUBTITLES[name] || '';
+  const isTrigger = node.type.endsWith('Trigger');
+  const count = pins[name]?.length ?? itemCount;               // items this node outputs
+  const items = `${count} ${count === 1 ? 'item' : 'items'}`;
+  const handles = `${isTrigger ? '' : '<span class="handle handle-in"></span>'}<span class="handle handle-out"></span>`;
+  const card = `<div class="node${isTrigger ? ' trigger' : ''}" data-k="${k}">
+      <div class="node-card">
+        ${isTrigger ? `<span class="bolt">${BOLT}</span>` : ''}
+        ${handles}
+        <span class="node-ico">${icon}</span>
+        <span class="node-check">✓</span>
+      </div>
+      <span class="node-name">${displayName}</span>
+      ${sub ? `<span class="node-sub">${sub}</span>` : ''}
+    </div>`;
+  // The wire carries the SOURCE node's output count, shown once that node has run.
+  const wire = k < order.length - 1
+    ? `<div class="wire" data-e="${k}"><span class="wire-count">${items}</span></div>`
+    : '';
+  return card + wire;
+}).join('');
+
+// step === -1 is the "before" state: the workflow hasn't run, no node is green yet.
+let step = -1, timer = null;
+const LAST = order.length - 1;
+
+function render() {
+  $steps.querySelectorAll('.node').forEach(el => {
+    const k = +el.dataset.k;
+    el.classList.toggle('reached', k <= step);   // executed → green contour + check
+    el.classList.toggle('current', k === step);   // node currently inspected
+  });
+  $steps.querySelectorAll('.wire').forEach(el => {
+    el.classList.toggle('flow', +el.dataset.e <= step);  // source has run → its output edge + count light up
+  });
+
+  $prev.disabled = step <= -1;
+  $next.disabled = step >= LAST;
+
+  if (step < 0) {                       // before the workflow runs
+    $note.textContent = 'Press Next to run the workflow.';
+    $payload.textContent = '—';
+    return;
+  }
+
+  // First item of the node's output (the item selector is gone; one representative item is enough).
+  const name = order[step];
+  const pinned = pins[name]?.[0];
+  let value, note = NOTES[name] || '';
+
+  if (pinned !== undefined) {
+    value = pinned;
+  } else if (FALLBACK[name]) {
+    const fb = FALLBACK[name](0, pins);
+    value = fb.value;
+    note = fb.note;
+  } else {
+    value = null;
+  }
+
+  $note.textContent = note;
+  $payload.textContent = value === null ? '—' : JSON.stringify(value, null, 2);
+}
+
+$next.onclick = () => { if (step < LAST) { step++; render(); } };
+$prev.onclick = () => { if (step > -1) { step--; render(); } };
+$steps.onclick = e => {
+  const b = e.target.closest('.node');
+  if (b) { step = +b.dataset.k; render(); }
+};
+/*$play.onclick = () => {
+  if (timer) return stop();
+  $play.textContent = 'Pause';
+  timer = setInterval(() => { step = (step + 1) % order.length; render(); }, 1800);
+};*/
+
+render();
+  }
+})();
+</script>
