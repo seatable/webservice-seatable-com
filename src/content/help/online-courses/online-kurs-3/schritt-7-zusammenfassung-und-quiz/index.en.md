@@ -46,6 +46,6 @@ You have reached the end of the course. Now you can take the quiz to test what y
 - Don't worry if you don't pass straight away — you can repeat it as often as you like until you reach the required score.
 - Upon successful completion, you receive a [badge for your community forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3), so your skills are visible to others.
 
-[To the quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-course-3/)
+[To the quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/)
 
 Thank you for taking the course — now go and collaborate. Good luck on your journey with SeaTable!

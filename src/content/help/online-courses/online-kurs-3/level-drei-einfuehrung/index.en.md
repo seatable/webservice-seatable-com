@@ -102,7 +102,7 @@ The course lasts **about an hour**, but you can go through it at your own pace. 
 
 At the end of this course you can test your knowledge in a quiz:
 
-- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-course-3/) is in English and consists of multiple-choice questions about the collaboration features you have used.
+- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) is in English and consists of multiple-choice questions about the collaboration features you have used.
 - Upon successful completion, you receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3), which makes your skills visible.
 
 What are we waiting for? Let's go!
