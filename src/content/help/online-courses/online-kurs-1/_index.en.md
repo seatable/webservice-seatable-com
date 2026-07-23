@@ -1,5 +1,5 @@
 ---
-title: 'Online Course – Level 1'
+title: 'Online Course 1 – Getting Started'
 seo:
     title: 'SeaTable Online Course 1 | Learn the Basics & Hands-On | Help'
     description: 'Get started now with the SeaTable online course - Learn step by step how to manage data effectively and build workflows.'

@@ -1,5 +1,5 @@
 ---
-title: 'Nível um: Introdução'
+title: 'Introdução'
 date: 2024-08-30
 lastmod: '2024-09-05'
 categories:
@@ -10,13 +10,13 @@ aliases:
     - '/pt/training/'
     - '/pt/ajuda/level-eins-einfuehrung'
 seo:
-    title: 'SeaTable Nível 1: introdução – curso online para iniciantes'
-    description: 'Aprenda os fundamentos no curso SeaTable Nível 1: navegação, criação de tabelas, formulários, vinculação de dados, filtros e quiz para testar habilidades.'
+    title: 'SeaTable Curso Online 1 – Primeiros passos: introdução para iniciantes'
+    description: 'Aprenda os fundamentos no curso SeaTable 1 – Primeiros passos: navegação, criação de tabelas, formulários, vinculação de dados, filtros e quiz para testar habilidades.'
 
 weight: 1
 ---
 
-Bem-vindo ao **Curso Online SeaTable Nível 1**!
+Bem-vindo ao **Curso Online SeaTable 1 – Primeiros passos**!
 
 ## Este é o curso certo para mim?
 

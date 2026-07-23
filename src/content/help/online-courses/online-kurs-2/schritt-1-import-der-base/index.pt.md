@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/schritt-1-import-der-base'
 seo:
     title: 'Passo 1 do Curso SeaTable 2: importe e conheça a base'
-    description: 'Comece o Curso Nível 2: Importe a base pronta, veja as colunas, fórmulas e vistas para estruturar seus processos digitais com SeaTable.'
+    description: 'Comece o Curso 2 – Entradas e saídas: Importe a base pronta, veja as colunas, fórmulas e vistas para estruturar seus processos digitais com SeaTable.'
 ---
 
 Antes de poder mapear um novo processo empresarial no SeaTable, é necessário criar primeiro a estrutura de tabela adequada. Esta é a única forma de registar os dados necessários para o processo de uma forma significativa e processá-los eficientemente mais tarde. Embora se possa inspirar nos inúmeros modelos, normalmente é necessário pensar no processo em pormenor e definir claramente os dados relevantes.
@@ -24,7 +24,7 @@ No primeiro curso, já aprendeu a criar uma base com diferentes tipos de colunas
 
 Descarregue o seguinte ficheiro para o seu PC e importe-o como uma nova base na página inicial do SeaTable:
 
-[Curso SeaTable Nível 2.dtable](/SeaTable-Course-Level-2.dtable)
+[Curso SeaTable 2.dtable](/SeaTable-Course-2.dtable)
 
 Mesmo que não tenha de ser o próprio a criar a base, é importante que se familiarize intensamente com a estrutura. Foram utilizados novos tipos de colunas com os quais pode não estar familiarizado desde o curso anterior.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Online-Kurs – Level 1'
+title: 'Online-Kurs 1 – Erste Schritte'
 seo:
     title: 'SeaTable Online-Kurs 1 | Grundlagen & Praxis lernen | Hilfe'
     description: 'Starten Sie jetzt mit dem SeaTable Online-Kurs - Erfahren Sie Schritt für Schritt, wie Sie Daten optimal verwalten und Workflows bauen.'

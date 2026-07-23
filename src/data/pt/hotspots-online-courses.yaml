@@ -1,0 +1,52 @@
+# Interactive tree diagram for the online-courses landing page.
+# Courses 1 & 2 link to their localized intro pages; Course 3 is English-only
+# (tile shown without a link); Courses 4-7 are coming soon (no link).
+
+- 'label': "Curso 1 — Primeiros passos"
+  'description': "Crie seu primeiro banco de dados relacional e comece a coletar dados.<br><br>Aborda bases, visões, colunas, formulários web e ligações — tudo o que você precisa para modelar e capturar informações no SeaTable."
+  'link': 'help/online-courses/online-kurs-1/level-eins-einfuehrung'
+  'position': 'right'
+  'x': 37.9
+  'y': 14
+
+- 'label': "Curso 2 — Entradas e saídas"
+  'description': "Traga dados para dentro e envie resultados para fora.<br><br>Aprenda importações e exportações, geração de documentos PDF, estatísticas, botões de ação e o envio de e-mails direto da sua base."
+  'link': 'help/online-courses/online-kurs-2/level-zwei-einfuehrung'
+  'position': 'right'
+  'x': 38.4
+  'y': 40.5
+
+- 'label': "Curso 3 — Colaboração"
+  'description': "Trabalhem juntos nos seus dados — compartilhar, coeditar e manter todos sincronizados.<br><br>Aborda compartilhamento e permissões, grupos, comentários e @menções, o registro de atividades, os conjuntos de dados comuns e o quadro branco.<br><br><em>Disponível em inglês no momento.</em>"
+  'link': ''
+  'position': 'right'
+  'x': 38.7
+  'y': 65.5
+
+- 'label': "Curso 4 — Automação e integração"
+  'description': "Automatize seus fluxos de trabalho e conecte ferramentas externas.<br><br>Abordará automações, scripts, noções de API, webhooks e integrações com n8n, Zapier e Make.<br><br><em>Em breve.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 96.2
+  'y': 14
+
+- 'label': "Curso 5 — Aplicativos e relatórios"
+  'description': "Transforme suas bases em aplicativos e relatórios elegantes para seus usuários finais.<br><br>Abordará o Universal App (tipos de página, permissões por página, páginas personalizadas), os painéis e o plugin de design de relatórios.<br><br><em>Em breve.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 38
+
+- 'label': "Curso 6 — Domínio dos dados"
+  'description': "Modele, calcule e escale seus dados com fórmulas e relações.<br><br>Abordará fórmulas, processamento de dados, big data e relações entre tabelas.<br><br><em>Em breve.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 62
+
+- 'label': "Curso 7 — Manutenção e higiene"
+  'description': "Mantenha suas bases limpas, organizadas e auditáveis ao longo do tempo.<br><br>Abordará a remoção de duplicatas, a gestão de arquivos e os registros de auditoria.<br><br><em>Em breve.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.7
+  'y': 84

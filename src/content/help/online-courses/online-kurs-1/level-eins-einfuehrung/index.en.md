@@ -1,5 +1,5 @@
 ---
-title: 'Level One: Introduction'
+title: 'Introduction'
 date: 2024-08-30
 lastmod: '2024-09-05'
 categories:
@@ -11,13 +11,13 @@ aliases:
     - '/training/'
     - '/help/level-eins-einfuehrung'
 seo:
-    title: 'SeaTable Level 1: Introduction – Your Beginner Online Course'
-    description: 'This SeaTable Level 1 Online Course teaches navigation, table creation, forms, linking, views, and includes a quiz to test your new practical skills.'
+    title: 'SeaTable Online Course 1 – Getting Started: Introduction for Beginners'
+    description: 'This SeaTable Online Course 1 – Getting Started teaches navigation, table creation, forms, linking, views, and includes a quiz to test your new practical skills.'
 
 weight: 1
 ---
 
-Welcome to the **SeaTable Online Course Level 1**!
+Welcome to the **SeaTable Online Course 1 – Getting Started**!
 
 ## Is this the right course for me?
 

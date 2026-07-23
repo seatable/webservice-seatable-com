@@ -1,5 +1,5 @@
 ---
-title: 'Segundo nivel: Introducción'
+title: 'Introducción'
 date: 2024-09-18
 lastmod: '2024-09-23'
 categories:
@@ -14,14 +14,14 @@ seo:
 weight: 1
 ---
 
-¡Bienvenido al **curso en línea SeaTable Nivel 2!**
+¡Bienvenido al **curso en línea SeaTable 2 – Entradas y salidas!**
 
 ## ¿Es éste el curso adecuado para mí?
 
 Este curso es ideal para usted si
 
 - desea desarrollar un proceso de negocio con SeaTable.
-- desea profundizar en las funciones de SeaTable tras completar el [curso en línea de Nivel 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
+- desea profundizar en las funciones de SeaTable tras completar el [Curso en línea 1 – Primeros pasos]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## ¿Qué aprenderé en este curso en línea?
 

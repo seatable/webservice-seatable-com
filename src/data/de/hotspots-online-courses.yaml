@@ -1,0 +1,52 @@
+# Interactive tree diagram for the online-courses landing page.
+# Courses 1 & 2 link to their localized intro pages; Course 3 is English-only
+# (tile shown without a link); Courses 4-7 are coming soon (no link).
+
+- 'label': "Kurs 1 — Erste Schritte"
+  'description': "Erstelle deine erste relationale Datenbank und beginne, Daten zu sammeln.<br><br>Behandelt Bases, Ansichten, Spalten, Web-Formulare und Verknüpfungen — alles, um Informationen in SeaTable zu modellieren und zu erfassen."
+  'link': 'help/online-courses/online-kurs-1/level-eins-einfuehrung'
+  'position': 'right'
+  'x': 37.9
+  'y': 14
+
+- 'label': "Kurs 2 — Eingaben und Ausgaben"
+  'description': "Bring Daten hinein und sende Ergebnisse hinaus.<br><br>Lerne Import und Export, das Erzeugen von PDF-Dokumenten, Statistiken, Aktions-Buttons und den E-Mail-Versand direkt aus deiner Base."
+  'link': 'help/online-courses/online-kurs-2/level-zwei-einfuehrung'
+  'position': 'right'
+  'x': 38.4
+  'y': 40.5
+
+- 'label': "Kurs 3 — Zusammenarbeit"
+  'description': "Arbeitet gemeinsam an euren Daten — teilen, mitbearbeiten und synchron bleiben.<br><br>Behandelt Freigaben und Berechtigungen, Gruppen, Kommentare und @Erwähnungen, das Aktivitätsprotokoll, gemeinsame Datensätze und das Whiteboard.<br><br><em>Derzeit auf Englisch verfügbar.</em>"
+  'link': ''
+  'position': 'right'
+  'x': 38.7
+  'y': 65.5
+
+- 'label': "Kurs 4 — Automatisierung & Integration"
+  'description': "Automatisiere deine Workflows und verbinde externe Tools.<br><br>Behandelt künftig Automatisierungen, Skripte, API-Grundlagen, Webhooks und Integrationen mit n8n, Zapier und Make.<br><br><em>Demnächst verfügbar.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 96.2
+  'y': 14
+
+- 'label': "Kurs 5 — Apps & Reporting"
+  'description': "Verwandle deine Bases in Apps und ansprechende Reports für Endnutzer.<br><br>Behandelt künftig die Universal-App (Seitentypen, seitenbezogene Berechtigungen, eigene Seiten), Dashboards und das Report-Design-Plugin.<br><br><em>Demnächst verfügbar.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 38
+
+- 'label': "Kurs 6 — Daten meistern"
+  'description': "Modelliere, berechne und skaliere deine Daten mit Formeln und Verknüpfungen.<br><br>Behandelt künftig Formeln, Datenverarbeitung, Big Data und Tabellenbeziehungen.<br><br><em>Demnächst verfügbar.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.5
+  'y': 62
+
+- 'label': "Kurs 7 — Wartung & Pflege"
+  'description': "Halte deine Bases sauber, geordnet und langfristig nachvollziehbar.<br><br>Behandelt künftig Deduplizierung, Dateiverwaltung und Audit-Logs.<br><br><em>Demnächst verfügbar.</em>"
+  'link': ''
+  'position': 'left'
+  'x': 95.7
+  'y': 84
