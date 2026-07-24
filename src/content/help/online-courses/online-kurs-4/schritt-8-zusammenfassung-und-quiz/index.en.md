@@ -1,15 +1,16 @@
 ---
-title: 'Step 9: Summary and quiz'
+title: 'Step 8: Summary and quiz'
 date: 2026-07-02
-lastmod: '2026-07-02'
+lastmod: '2026-07-23'
 categories:
     - 'online-kurs-4'
 author: 'bha'
-url: '/help/step-9-summary-and-quiz'
+url: '/help/step-8-summary-and-quiz'
 aliases:
     - '/help/schritt-9-zusammenfassung-und-quiz'
+    - '/help/step-9-summary-and-quiz'
 seo:
-    title: 'Step 9 of SeaTable course 4: summary and quiz'
+    title: 'Step 8 of SeaTable course 4: summary and quiz'
     description: 'Recap what you have learned — automations, scripts, webhooks, n8n, AI and the API — along the three directions of information, then check your knowledge with the quiz.'
 ---
 
@@ -19,7 +20,7 @@ Here you are at the end of the journey. Look back for a moment: you took a wareh
 
 Everything you have built falls into three directions, depending on where the information comes from and where it goes.
 
-**Inside SeaTable.** The no-code automations — linking by comparison, reacting to a status, assigning a colleague — and the Python scripts — updating a stock, creating rows — act on your data without ever leaving the base. This is the backbone: the most accessible one, and the one everything else leans on.
+**Inside SeaTable.** The no-code automations — linking by comparison the instant a line appears, then sweeping your deliveries on a schedule to assign whoever must settle a dispute — and the Python scripts — updating a stock, creating rows — act on your data without ever leaving the base. This is the backbone: the most accessible one, and the one everything else leans on.
 
 **To the outside.** Webhooks and n8n send information *out*: a notification on your phone, a file archived in another service. SeaTable tells the world, or hands it a task.
 

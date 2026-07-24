@@ -1,15 +1,16 @@
 ---
-title: 'Step 6: Notify the outside world'
+title: 'Step 5: Notify the outside world'
 date: 2026-07-02
-lastmod: '2026-07-02'
+lastmod: '2026-07-23'
 categories:
     - 'online-kurs-4'
 author: 'bha'
-url: '/help/step-6-notify-the-outside-world'
+url: '/help/step-5-notify-the-outside-world'
 aliases:
     - '/help/schritt-6-webhooks'
+    - '/help/step-6-notify-the-outside-world'
 seo:
-    title: 'Step 6 of SeaTable course 4: webhooks and ntfy notifications'
+    title: 'Step 5 of SeaTable course 4: webhooks and ntfy notifications'
     description: 'Get information out of SeaTable: inspect the payload of a native webhook, then notify your phone with ntfy by completing your extraction script.'
 ---
 
@@ -37,11 +38,11 @@ ntfy asks for no account. You pick a **topic** — a channel name that also acts
 
 {{< warning headline="A ntfy topic is both an address and a password" text="Anyone who knows your topic can send you notifications, and read yours. Choose a long name that is hard to guess, and never let any sensitive information pass through it." />}}
 
-Now to find the right moment to fire this notification. Remember step 5: the AI extraction takes a few seconds. Rather than staring at the screen while you wait, have yourself alerted when the lines are ready — or when something has failed.
+Now to find the right moment to fire this notification. Remember step 4: the AI extraction takes a few seconds. Rather than staring at the screen while you wait, have yourself alerted when the lines are ready — or when something has failed.
 
 ## Wiring ntfy into your script
 
-The native webhook you just saw sends a fixed payload to a URL. A script, on the other hand, decides everything: what to send, when, and with what message. So take the script from step 5 and complete it so that it notifies at the end of its work:
+The native webhook you just saw sends a fixed payload to a URL. A script, on the other hand, decides everything: what to send, when, and with what message. So take the script from step 4 and complete it so that it notifies at the end of its work:
 
 ```python
 from seatable_api import Base, context
@@ -75,7 +76,9 @@ except Exception as e:
 
 Two things to remember. First, `requests` — the library that sends the request — is one of the tools already available in SeaTable scripts: nothing to install. Second, the `try / except`: if the AI produced usable JSON, you get a "lines ready" message; otherwise, an error notification at high priority. Your phone keeps you informed either way — and that is why a script offers more than a native webhook: it sends the right message, at the right moment, based on what actually happened.
 
-Replace the topic with your own, drop in a new delivery note, and wait for the buzz.
+Replace the topic with your own, then give your chain a fresh delivery to chew on: a second note arrived today, and this one you have never seen. Drop it in and wait for the buzz.
+
+<!-- TODO: publish the second delivery note (delivery_note_2.pdf, ref INT-002) as a downloadable asset and link it here. It is used again in step 6, where n8n archives it. -->
 
 ## Try it yourself
 

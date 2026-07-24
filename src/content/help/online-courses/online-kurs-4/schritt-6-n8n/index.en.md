@@ -1,15 +1,16 @@
 ---
-title: 'Step 7: Orchestrate with n8n'
+title: 'Step 6: Orchestrate with n8n'
 date: 2026-07-02
-lastmod: '2026-07-02'
+lastmod: '2026-07-23'
 categories:
     - 'online-kurs-4'
 author: 'bha'
-url: '/help/step-7-orchestrate-with-n8n'
+url: '/help/step-6-orchestrate-with-n8n'
 aliases:
     - '/help/schritt-7-n8n'
+    - '/help/step-7-orchestrate-with-n8n'
 seo:
-    title: 'Step 7 of SeaTable course 4: orchestrate a workflow with n8n'
+    title: 'Step 6 of SeaTable course 4: orchestrate a workflow with n8n'
     description: 'Chain SeaTable and Google Drive together with n8n: automatically archive every delivery note and pull its link back into the base. A step to follow as a demo or replay yourself.'
 ---
 

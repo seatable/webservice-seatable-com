@@ -1,7 +1,7 @@
 ---
 title: 'Step 1: The starting base'
 date: 2026-07-02
-lastmod: '2026-07-02'
+lastmod: '2026-07-23'
 categories:
     - 'online-kurs-4'
 author: 'bha'
@@ -34,7 +34,7 @@ The `Products` table is your catalog. Each row is one product, identified by its
 
 You will not always have to fill those descriptive fields by hand: in the last step, on the API, you will see how a script can pull them automatically from a free public database, using nothing but the barcode — a first taste of SeaTable reaching *out* to an external service. For now, just note they are there.
 
-{{< warning headline="Stock is a number, not a formula" text="The Stock column is a plain number, not an automatic calculation. That is a deliberate choice for this course: you will learn to adjust it yourself, first with an automation, then with a script. In a real base, stock can also be calculated from the movements — but writing it ourselves is exactly what makes the next steps meaningful." />}}
+{{< warning headline="Stock is a number, not a formula" text="The Stock column is a plain number, not an automatic calculation. That is a deliberate choice for this course: you will learn to move it yourself, with a script you write in step 3. In a real base, stock can also be calculated from the movements — but writing it ourselves is exactly what makes the next steps meaningful." />}}
 
 ### The documents: `Documents`
 
@@ -42,11 +42,11 @@ Each record in the `Documents` table is a piece of paperwork that moves stock. I
 
 {{< warning headline="Deliveries only" text="Throughout this course, every document is a Delivery — goods coming in that add to your stock. We leave the Customer order direction aside." />}}
 
-The other columns in this table — those that will hold the text extracted from the document, the archive link or the assignment of an issue to a colleague — will fill up as the course goes on, as you put them into service. No need to detail them now; each one arrives at its own step.
+The other columns in this table — those that will hold the text extracted from the document, the archive link or the assignment of an issue to a colleague — will fill up as the course goes on, as you put them into service. No need to detail them now; each one arrives at its own step. One of them is worth spotting straight away, though: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Lines to review` counts, on its own, how many lines of that delivery came in with something wrong. Nobody fills it in — SeaTable recalculates it — and step 3 turns on that very fact.
 
 ### The lines: `Line items`
 
-A document on its own does not say much: it is its lines that count. The `Line items` table details each document, one line per product. Each line ties a product from the catalog to two quantities: `Qty`, what the document **announces**, and `Received qty`, what you **actually find** on receiving. It is the comparison of these two numbers that sits at the heart of the course.
+A document on its own does not say much: it is its lines that count. The `Line items` table details each document, one line per product. Each line ties a product from the catalog to two quantities: `Qty`, what the document **announces**, and `Received qty`, what you **actually find** on receiving. It is the comparison of these two numbers that sits at the heart of the course. Two more columns record how the receiving went — `Status` and `Validated` — and you put them to work in step 3.
 
 ## How it all fits together
 

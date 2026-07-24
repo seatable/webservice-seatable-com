@@ -1,21 +1,25 @@
 ---
-title: 'Step 5: Let AI read the delivery note'
+title: 'Step 4: Let AI read the delivery note'
 date: 2026-07-02
-lastmod: '2026-07-02'
+lastmod: '2026-07-23'
 categories:
     - 'online-kurs-4'
 author: 'bha'
-url: '/help/step-5-let-ai-read-the-delivery-note'
+url: '/help/step-4-let-ai-read-the-delivery-note'
 aliases:
     - '/help/schritt-5-ki-liest-den-lieferschein'
+    - '/help/step-5-let-ai-read-the-delivery-note'
 seo:
-    title: 'Step 5 of SeaTable course 4: extract line items from a photo with AI'
+    title: 'Step 4 of SeaTable course 4: extract line items from a photo with AI'
     description: 'Let SeaTable read a photographed delivery note and create its line items automatically — text recognition, AI extraction, script — without ever making AI a critical link.'
 ---
 
-Remember step 2: you imported the line items of a delivery from a neatly organized spreadsheet. A real delivery note rarely arrives so conveniently — it seldom lands as a tidy PDF in your inbox. More often it is a slip of paper the driver hands over at the dock, and the warehouse worker simply snaps a photo of it with a phone. That image is nothing like a ready-to-use file. Now you are going to let SeaTable do that work for you: read the photo and pull out the line items, all on its own. This is the most spectacular moment of the course — and also the one where you need to stay clear-eyed about what AI can, and cannot, do.
+In step 2, the delivery lines simply appeared, already typed up, as if the supplier had sent through a tidy list of what went onto the truck. That is the textbook case — and it is worth asking where such a list would actually come from. A delivery note seldom lands as a neat file in your inbox. More often it is a slip of paper the driver hands over at the dock, which the warehouse worker snaps with a phone. That image is nothing like a ready-to-use file. Now you are going to let SeaTable do that work for you: read the photo and pull out the line items, all on its own. This is the most spectacular moment of the course — and also the one where you need to stay clear-eyed about what AI can, and cannot, do.
 
 It all happens in an automation triggered when a new document arrives, in three steps: **read**, **extract**, **create**.
+
+<!-- TODO: confirm the trigger to use. "When a row is added" to Documents may fire before the file finishes uploading; if so, switch to a modification trigger watching the File column. -->
+
 
 ## Read the document
 
@@ -67,7 +71,19 @@ if lines:
     base.batch_append_rows('Line items', lines)
 ```
 
-And here is the elegance of the whole thing: each line created triggers, as in step 2, your "link by comparison" automation. The new lines attach themselves to their product and their document. From the photo to the linked line items, without a single manual entry — chain these three actions in an automation triggered by the arrival of a document, drop a new note, and watch it work.
+And here is the elegance of the whole thing: each line created sets off the automation you built in step 2. The new lines attach themselves to their product and their document, without you touching that rule again. From a photo to linked line items, with not one manual entry.
+
+## Rewind, and do it for real
+
+You have the chain. What you do not have is anything to feed it: that delivery is already in your base, lines and all.
+
+So put it back. In your base, open the **online-courses plugin** and select **Step 4**: it removes the line items of that delivery, then the document itself, returning your base to the moment before the truck pulled in. Nothing of value is lost — those lines were a stand-in for the ones you are about to obtain properly.
+
+Now receive the same delivery the way a warehouse really receives one. In `Documents`, create a row and attach the photo of the delivery note — and nothing else. No reference, no date: everything written on that slip is in the picture, and reading it is the machine's job now.
+
+<!-- TODO: publish the photographed note (delivery-note-dirty.jpg) as a downloadable asset and link it here. -->
+
+Then watch it run: text recognition fills `OCR text`, the AI writes its JSON, the script creates the lines, and your step-2 automation links them. And because you already saw these very lines in step 2, you are in the rare position of knowing what the right answer looks like. Compare them.
 
 ## AI proposes, you validate
 
