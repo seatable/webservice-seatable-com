@@ -44,16 +44,19 @@ By the end, you will have a practical toolkit for working on shared data with co
 
 ## What are the requirements?
 
-To successfully complete this course, you will need:
+Whether you follow along with a real colleague or on your own, you will need:
 
-1. **SeaTable**: Use any SeaTable system. The easiest way is a [free SeaTable Cloud account](/registration/).
+1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine.
 2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-3. **A second account** (facultative - solo path only): A second SeaTable account, added to your team, to play the role of a colleague. A second email address is all it takes. We explain how to set this up just below.
-4. **Two browser windows** (facultative - solo path only): One ordinary window 🌐 signed in to your main account, and one private window 🕶 signed in to the second account, so you can switch between the two roles. A wide screen is recommended, as the two windows sit side by side; a laptop screen is cramped and a phone will not work.
-5. **Two groups**: Two groups in your team — a `Commercial` group, where your `Sales CRM` base will live, and a `Marketing` group for your colleague. We explain how to create them below. This is more than tidiness: a base must sit in a group for the common dataset in Step 5 to work.
-6. **Browser and language**: We recommend Google Chrome, and the course and quiz are in English.
+3. **Two groups**: Two groups in your team — a `Commercial` group, where your `Sales CRM` base will live, and a `Marketing` group for your colleague. We explain how to create them below. This is more than tidiness: a base must sit in a group for the common dataset in Step 5 to work.
+4. **Browser and language**: We recommend Google Chrome, and the course and quiz are in English.
 
-{{< warning headline="Following along with a real colleague?" text="Then you can ignore requirements 3 and 4: each of you uses your own account in your own window, and you never switch. Wherever the course says to switch to the colleague's window, you simply ask your teammate to do that part." />}}
+If you are taking the solo path — playing both roles yourself, with no teammate following along — you will also need:
+
+5. **A second account**: A second SeaTable account, added to your team, to play the role of a colleague. A second email address is all it takes. We explain how to set this up just below.
+6. **Two browser windows**: One ordinary window 🌐 signed in to your main account, and one private window 🕶 signed in to the second account, so you can switch between the two roles. A wide screen is recommended, as the two windows sit side by side; a laptop screen is cramped and a phone will not work.
+
+{{< warning headline="Following along with a real colleague?" text="Then you can ignore the two solo-path requirements: each of you uses your own account in your own window, and you never switch. Wherever the course says to switch to the colleague's window, you simply ask your teammate to do that part." />}}
 
 ### Meet your team
 
@@ -68,7 +71,7 @@ Every instruction in the course is tagged with the window it belongs to — 🌐
 
 To play the colleague you need a second account that is a member of your team. In SeaTable, bringing someone into a team is called adding a team member: a team administrator invites the person by email, and once they accept they can be shared bases, @mentioned, and added to groups.
 
-From your team's admin page, invite a second email address, then accept the invitation from that address. A second, free email address from any provider is enough to stand in for your colleague. When you set up this second account, give it the name **Malika** so that the names you later see in comments, @mentions, the activity log and the last-modifier column match the ones shown throughout this course. The full procedure is covered in the help article linked at the bottom of this page.
+From your [team administration](https://account.seatable.com), invite a second email address, then accept the invitation from that address. A second, free email address from any provider is enough to stand in for your colleague. When you set up this second account, give it the name **Malika** so that the names you later see in comments, @mentions, the activity log and the last-modifier column match the ones shown throughout this course. The full procedure is covered in the help article linked at the bottom of this page.
 
 ### Setting up your groups
 
@@ -77,7 +80,7 @@ SeaTable lets you organise bases into **groups** — shared containers that may 
 - a **`Commercial`** group, your own department, where your `Sales CRM` base will live from Step 1 onwards.
 - a **`Marketing`** group, your colleague's department, which Malika belongs to and which you will distribute the live dataset to in Step 5.
 
-From your team's admin page, create both groups, then add the Malika account as a member of the **`Marketing`** group. The help articles at the bottom of this page walk through it.
+From your [team administration](https://account.seatable.com), create both groups, then add the Malika account as a member of the **`Marketing`** group. The help articles at the bottom of this page walk through it.
 
 {{< warning headline="Adding a member and creating groups may need administrator rights" text="Adding a team member, creating groups, and adding people to them all depend on your role in the team. If any of these are unavailable to you, ask your team administrator to set them up — you can request the second account and both groups, Commercial and Marketing, in a single go." />}}
 
