@@ -1,6 +1,6 @@
 ---
-title: 'Christmas party 2025 - ideas for a unique company event'
-description: "It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already a reminder of the coming Christmas season. To ensure that your Christmas party is a complete success, you can't start planning early enough! This article will give you valuable tips and lots of varied ideas for your next company Christmas party."
+title: 'Christmas party 2026 - ideas for a unique company event'
+description: "It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already a reminder of the coming Christmas season. To ensure that your 2026 Christmas party is a complete success, you can't start planning early enough! This article will give you valuable tips and lots of varied ideas for your next company Christmas party."
 date: 2023-08-25
 categories:
     - 'best-practice'
@@ -15,9 +15,7 @@ seo:
     description: 'With these varied ideas, your Christmas party will be an unforgettable company event with colleagues'
 ---
 
-It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already reminding us of the coming Christmas season. But even if you're not yet in the Christmas spirit: The next company Christmas party is already waiting for you. To make your 2025 Christmas party unforgettable, you can't start planning early enough!
-
-Do you drink mulled wine with your colleagues at the Christmas market every year or go out to eat in a restaurant? Are you wondering how you can organize a unique company event with your team in 2025? Then our varied ideas for your upcoming Christmas party are just the thing!
+Do you drink mulled wine with your colleagues at the Christmas market every year or go out to eat in a restaurant? Are you wondering how you can organize a unique company event with your team for the 2026 Christmas party? Then our varied ideas for your upcoming Christmas party are just the thing!
 
 ## Ideas for a Christmas party outside the company premises
 
@@ -109,7 +107,7 @@ Depending on the size of your company, the time and effort required to plan your
 
 ### Set budget
 
-First of all, you should set a budget for your Christmas party. A good starting point for this could be the German tax allowance: As with any company event, expenses for your Christmas party are tax-free up to 110 euros per participant. This amount is realistic if you take care of food and drinks for your employees, but do not include major costs for a location or a supporting program.
+First of all, you should set a [budget]({{< relref "posts/20250606-budgetplanung" >}}) for your Christmas party. A good starting point for this could be the German tax allowance: As with any company event, expenses for your Christmas party are tax-free up to 110 euros per participant. This amount is realistic if you take care of food and drinks for your employees, but do not include major costs for a location or a supporting program.
 
 ### Find ideas
 
@@ -121,7 +119,7 @@ Look for suitable dates and locations. If you have the possibility to host the C
 
 ### Invite and interview guests
 
-You probably already have a rough idea of how many people will potentially attend your Christmas party. Before you start planning the details, however, you should check the availability of your guests. To do this, you can embed the link to an online survey in your invitation, for example. In addition to the date preference, you can have your employees indicate directly, for example, whether they will be attending with a partner, need overnight accommodations, and have a preference for vegan, vegetarian, or gluten-free food.
+You probably already have a rough idea of how many people will potentially attend your Christmas party. Before you start planning the details, however, you should check the availability of your guests. To do this, you can embed the link to an [online survey]({{< relref "posts/umfrage-online" >}}) in your invitation, for example. In addition to the date preference, you can have your employees indicate directly, for example, whether they will be attending with a partner, need overnight accommodations, and have a preference for vegan, vegetarian, or gluten-free food.
 
 ## Plan the details of your Christmas party
 
@@ -144,7 +142,7 @@ Whether it's a visit to a restaurant, a catering service or cooking together: Ca
 
 ### Entertainment program for your Christmas party
 
-If you have decided on one of the above ideas, a large part of the program for your Christmas party is already set. In this case, coordinate with the organizer of your booked event and clarify what you may still have to organize yourself. If you are planning the Christmas party completely on your own, you should consider how to arrange the evening program. Below we have three ideas for you:
+If you have decided on one of the above ideas, a large part of the program for your Christmas party is already set. In this case, coordinate with the [organizer of your booked event]({{< relref "posts/veranstaltung-verwalten" >}}) and clarify what you may still have to organize yourself. If you are planning the Christmas party completely on your own, you should consider how to arrange the evening program. Below we have three ideas for you:
 
 1. If you want to add a musical crown to your Christmas party, you can hire a live band or DJ to get your guests dancing later in the evening.
 2. Or would you rather laugh a lot together? For example, invite a stand-up comedian who will give a funny talk and interact with your guests.
@@ -156,10 +154,12 @@ You have only a limited budget, but still want to spend a fun evening with your 
 
 ## Conclusion
 
-The annual Christmas party is the biggest highlight for many companies at the end of the year. Accordingly, your employees have high expectations for this corporate event. To ensure that you have an all-round harmonious Christmas party, it is essential to start planning several months in advance. Depending on your budget, you have different [options](https://www.lebegeil.de/weihnachtsfeier-ideen-firma/). Whether it's a Christmas thriller, a theme party or Christmas baking - be creative and come up with something original. Because one thing is certain: the umpteenth visit to the Christmas market or to the Italian restaurant around the corner is more likely to give your employees a hangover than a Christmas spirit.
+The annual Christmas party is the biggest highlight for many companies at the end of the year. Accordingly, your employees have high expectations for this corporate event. To ensure that you have an all-round harmonious Christmas party, it is essential to start planning several months in advance. Depending on your budget, you have different options. Whether it's a Christmas thriller, a theme party or Christmas baking - be creative and come up with something original. Because one thing is certain: the umpteenth visit to the Christmas market or to the Italian restaurant around the corner is more likely to give your employees a hangover than a Christmas spirit.
 
 ### Software tip for organizing your Christmas party
 
-To keep track of everything when planning and implementing your Christmas party, you can organize all the important things with the free table and database solution SeaTable. For example, you can use a [web form]({{< relref "help/base-editor/webformulare" >}}) to register your guests. Easily compare the prices and offers of different event locations and organizers or calculate the costs for food and drinks. Various functions for visualizing your data (e.g. timeline, calendar, map, Kanban board or statistics) offer you the opportunity to prepare your upcoming company Christmas party perfectly.
+To keep track of everything when planning and implementing your Christmas party, you can organize all the important things with the free [AI no-code platform]({{< relref "/" >}}) SeaTable. For example, you can use a [web form]({{< relref "help/base-editor/webformulare" >}}) to register your guests. Easily compare the prices and offers of different event locations and organizers or calculate the costs for food and drinks. Various functions for visualizing your data (e.g. timeline, calendar, map, Kanban board or statistics) offer you the opportunity to prepare your upcoming company Christmas party perfectly.
+
+{{< template-box id="bb4d007014a64a18be06" >}}
 
 Simply try out the SeaTable [template]({{< relref "templates/marketing/event-management" >}}) by registering [here]({{< relref "pages/registration" >}}) free of charge. Of course you can fill the tables with your own data and adapt them to your needs.
