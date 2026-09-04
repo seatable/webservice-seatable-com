@@ -155,7 +155,7 @@ SeaTable es una [plataforma de IA no-code]({{< relref "/" >}}), con la que podr�
 
 {{< template-box id="bc53ed17009447c39f90" submit="Probar la plantilla" text="¿Le ha picado la curiosidad? Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
 
-Aproveche, en el ajetreado día a día de los cuidados, que SeaTable ofrece mucho más que una mera estructura de tablas: las **automatizaciones integradas** con funciones de IA facilitan el procesamiento de datos. En la **aplicación de diario de cuidados**, ya incluida en la plantilla, podrá registrar nuevas entradas mediante un formulario de introducción de datos estructurado. El panel de control, siempre actualizado, proporciona **análisis estadísticos sobre la carga de cuidados**, los signos vitales o el estado de ánimo.
+Aproveche, en el ajetreado día a día de los cuidados, que SeaTable ofrece mucho más que una mera estructura de tablas: las **automatizaciones integradas** con funciones de IA facilitan el procesamiento de datos. En la **aplicación de diario de cuidados**, ya incluida en la [plantilla de diario de cuidados]({{< relref "templates/healthcare/care-journal" >}}), podrá registrar nuevas entradas mediante un formulario de introducción de datos estructurado. El panel de control, siempre actualizado, proporciona **análisis estadísticos sobre la carga de cuidados**, los signos vitales o el estado de ánimo.
 
 Precisamente en un tema tan delicado como la documentación privada sobre cuidados, es importante contar con un **alto nivel de protección de datos**. Con [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), sus datos se almacenan de forma segura en servidores certificados de la empresa suiza Exoscale, ubicados en Alemania.
 

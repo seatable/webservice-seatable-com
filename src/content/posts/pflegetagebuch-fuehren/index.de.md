@@ -147,8 +147,7 @@ Mit einem digitalen, strukturierten Pflegetagebuch vermeiden Sie die Nachteile e
     
 *   Automatische Berechnung kumulierter Zeitaufwände.
     
-*   Gemeinsamer Zugriff für mehrere Pflegepersonen. 
-    
+*   Gemeinsamer Zugriff für mehrere Pflegepersonen.     
 
 ## Wie das digitale Pflegetagebuch von SeaTable den Pflegealltag nachhaltig entlastet
 
@@ -156,7 +155,7 @@ SeaTable ist eine [KI No-Code Plattform]({{< relref "/" >}}), mit der Sie ganz l
 
 {{< template-box id="bc53ed17009447c39f90" submit="Vorlage testen" text="Neugierig geworden? Scrollen Sie durch unsere interaktive Vorlage und entdecken Sie erste Funktionen." >}}
 
-Profitieren Sie im stressigen Pflegealltag davon, dass SeaTable weit mehr bietet, als eine reine Tabellenstruktur: Die **integrierten Automationen** mit KI-Funktionen erleichtern die Datenverarbeitung. In der bereits in der Vorlage enthaltenen **Pflegetagebuch-App** erfassen Sie neue Einträge mithilfe eines strukturierten Eingabeformulars. Das jederzeit aktuelle Dashboard liefert **statistische Auswertungen über den Pflegeaufwand**, Vitalwerte oder Stimmungen.
+Profitieren Sie im stressigen Pflegealltag davon, dass SeaTable weit mehr bietet, als eine reine Tabellenstruktur: Die **integrierten Automationen** mit KI-Funktionen erleichtern die Datenverarbeitung. In der bereits in unserer [Pflegetagebuch-Vorlage]({{< relref "templates/healthcare/care-journal" >}}) enthaltenen **Pflegetagebuch-App** erfassen Sie neue Einträge mithilfe eines strukturierten Eingabeformulars. Das jederzeit aktuelle Dashboard liefert **statistische Auswertungen über den Pflegeaufwand**, Vitalwerte oder Stimmungen.
 
 Gerade bei einem sensiblen Thema wie der privaten Pflegedokumentation ist ein **hoher Datenschutz** wichtig. Mit [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) sind Ihre Daten sicher auf zertifizierten Servern des Schweizer Unternehmens Exoscale in Deutschland gespeichert.
 

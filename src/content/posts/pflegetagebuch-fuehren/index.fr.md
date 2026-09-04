@@ -156,7 +156,7 @@ SeaTable est une [plateforme IA no-code]({{< relref "/" >}}), qui vous permet de
 
 {{< template-box id="bc53ed17009447c39f90" submit="Tester le modèle" text="Cela vous intrigue ? Parcourez notre modèle interactif et découvrez ses premières fonctionnalités." >}}
 
-Dans le quotidien stressant des soins, profitez du fait que SeaTable offre bien plus qu’une simple structure de tableau : les **automatisations intégrées** dotées de fonctions d’IA facilitent le traitement des données. Dans l’**application de journal de soins** déjà incluse dans le modèle, vous saisissez de nouvelles entrées à l’aide d’un formulaire de saisie structuré. Le tableau de bord, mis à jour en temps réel, fournit des **analyses statistiques sur la charge de soins**, les signes vitaux ou l’humeur.
+Dans le quotidien stressant des soins, profitez du fait que SeaTable offre bien plus qu’une simple structure de tableau : les **automatisations intégrées** dotées de fonctions d’IA facilitent le traitement des données. Dans l’**application de journal de soins** déjà incluse dans le [modèle de journal de soins]({{< relref "templates/healthcare/care-journal" >}}), vous saisissez de nouvelles entrées à l’aide d’un formulaire de saisie structuré. Le tableau de bord, mis à jour en temps réel, fournit des **analyses statistiques sur la charge de soins**, les signes vitaux ou l’humeur.
 
 Un **niveau élevé de protection des données** est particulièrement important lorsqu’il s’agit d’un sujet sensible tel que la documentation privée relative aux soins. Avec [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), vos données sont stockées en toute sécurité sur des serveurs certifiés de la société suisse Exoscale, situés en Allemagne.
 

@@ -154,7 +154,7 @@ SeaTable is an [AI no-code platform]({{< relref "/" >}}) that lets you easily ca
 
 {{< template-box id="bc53ed17009447c39f90" submit="Try the template" text="Curious? Scroll through our interactive template and discover its key features." >}}
 
-In the stressful day-to-day reality of caregiving, take advantage of the fact that SeaTable offers far more than just a simple table structure: The **integrated automations** with AI features simplify data processing. In the **care diary app** already included in the template, you can enter new entries using a structured input form. The dashboard, which is always up to date, provides **statistical analyses of care workload**, vital signs, and moods.
+In the stressful day-to-day reality of caregiving, take advantage of the fact that SeaTable offers far more than just a simple table structure: The **integrated automations** with AI features simplify data processing. In the **care diary app** already included in the [care journal template]({{< relref "templates/healthcare/care-journal" >}}), you can enter new entries using a structured input form. The dashboard, which is always up to date, provides **statistical analyses of care workload**, vital signs, and moods.
 
 Especially when it comes to a sensitive topic like private care documentation, **strong data protection** is crucial. With [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data is securely stored on certified servers operated by the Swiss company Exoscale in Germany.
 
