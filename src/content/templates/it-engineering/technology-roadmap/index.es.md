@@ -85,7 +85,7 @@ sections:
       - text: '**Conectar procesos**: combine su hoja de ruta de TI con [ITIL]({{< relref "posts/20250612-incident-management" >}}) para dirigir procesos estratégicos y operativos sin rupturas de medios.'
       image_position: [left]
       image: '/images/template_page_it_roadmap_01.png'
-      image_alt: 'Hoja de ruta de TI en SeaTable con vista de línea de tiempo, iniciativas vinculadas e hitos para la planificación'
+      image_alt: 'Hoja de ruta de TI en SeaTable con iniciativas, plazos, responsabilidades e hitos visualizados'
 
     - name: "content-25"
       weight: 10
@@ -95,15 +95,15 @@ sections:
       - headline: 'Planificar iniciativas de forma estratégica'
         text: 'En la tabla «Initiatives» registra todos los objetivos estratégicos, las iniciativas tecnológicas y las medidas de su hoja de ruta de TI. Describa cada paso con claridad, asígnelo a una intención estratégica y a un área de la empresa y priorice qué proyectos deben implantarse a corto plazo. Así su organización estructura proyectos de TI complejos en una única hoja de ruta y crea una base común para la estrategia de TI.'
         image: '/images/template_page_it_roadmap_02.png'
-        image_alt: 'Tabla de iniciativas de la plantilla de hoja de ruta de TI en SeaTable con prioridades, áreas y objetivos'
+        image_alt: 'Tabla Initiatives de la hoja de ruta de TI con objetivos estratégicos, medidas de proyecto, prioridades y responsables'
       - headline: 'Visualizar plazos y avance del proyecto'  
         text: 'Defina para cada iniciativa el periodo previsto, la fecha objetivo y el estado de desarrollo actual. El plugin de línea de tiempo representa estos datos de forma visual y hace comprensible de un vistazo el desarrollo temporal de su roadmap tecnológico. Además, un tablero Kanban muestra las distintas fases y facilita a los equipos el seguimiento de avances, tareas abiertas y cambios de prioridad en la hoja de ruta de TI.'
         image: '/images/template_page_it_roadmap_03.png'
-        image_alt: 'Vista de línea de tiempo del roadmap tecnológico en SeaTable con fases de proyecto, hitos y plazos previstos'
+        image_alt: 'Vista de línea de tiempo de una hoja de ruta de TI con plazos y fases de desarrollo de distintas iniciativas tecnológicas'
       - headline: 'Asignar responsables de forma centralizada'
         text: 'La tabla «Supervisors» ofrece una visión rápida de los responsables y de los proyectos que tienen asignados. Vincule cada iniciativa a una persona responsable para que decisiones, consultas y actualizaciones de estado queden claramente asignadas. Así se reduce el estancamiento en la hoja de ruta de su proyecto de TI y se apoya una comunicación transparente entre equipos, áreas y niveles directivos.'
         image: '/images/template_page_it_roadmap_04.png'
-        image_alt: 'Tabla de responsables en SeaTable que vincula gestores con las iniciativas de la plantilla de hoja de ruta'
+        image_alt: 'Tabla Supervisors con los responsables y las iniciativas de TI que tienen asignadas'
                   
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       items:
       - text: 'Con el App Builder integrado de SeaTable crea con poco esfuerzo un frontend propio para su hoja de ruta de TI. Utilice vistas filtradas para los jefes de proyecto, diagramas de Gantt para la planificación de hitos, vistas Kanban para los equipos operativos y cuadros de mando estadísticos para CIO y directivos. Comparta extractos concretos con las partes interesadas, integre a socios externos de forma controlada y gestione los accesos mediante permisos granulares. Así la plantilla se convierte en una solución a medida para la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), la digitalización y la planificación de recursos.'
       image: '/images/template_page_it_roadmap_05.png'
-      image_alt: 'App de hoja de ruta de TI a medida creada con el App Builder de SeaTable con cuadros de mando y Gantt'
+      image_alt: 'App SeaTable personalizada para una hoja de ruta de TI con dashboard, línea de tiempo, vista Kanban y resumen de proyectos'
 
     - name: "banner-3"
       weight: 15

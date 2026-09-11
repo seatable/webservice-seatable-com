@@ -85,7 +85,7 @@ sections:
       - text: '**Prozesse verknüpfen**: Kombinieren Sie Ihre IT-Roadmap mit [ITIL]({{< relref "posts/20250612-incident-management" >}}), um strategische und operative Abläufe ohne Medienbruch zu steuern.'
       image_position: [left]
       image: '/images/template_page_it_roadmap_01.png'
-      image_alt: ''
+      image_alt: 'SeaTable IT-Roadmap mit Initiativen, Zeiträumen, Verantwortlichkeiten und visualisierten Meilensteinen'
 
     - name: "content-25"
       weight: 10
@@ -95,15 +95,15 @@ sections:
       - headline: 'Initiativen strategisch planen'
         text: 'In der Tabelle „Initiatives“ erfassen Sie alle strategischen Ziele, Technologieinitiativen und Projektmaßnahmen Ihrer IT-Roadmap. Beschreiben Sie jeden Schritt klar, ordnen Sie ihn einer strategischen Intention und einem Unternehmensbereich zu und priorisieren Sie, welche Vorhaben zeitnah umgesetzt werden sollen. So strukturiert Ihre IT-Organisation komplexe IT-Projekte in einer Roadmap und schafft eine gemeinsame Grundlage für die IT-Strategie.'
         image: '/images/template_page_it_roadmap_02.png'
-        image_alt: ''
+        image_alt: 'Tabelle Initiatives der IT-Roadmap mit strategischen Zielen, Projektmaßnahmen, Prioritäten und Zuständigkeiten'
       - headline: 'Zeiträume und Fortschritt visualisieren'  
         text: 'Definieren Sie für jede Initiative den geplanten Zeitraum, das Zielerreichungsdatum und den aktuellen Entwicklungsstand. Das Timeline-Plugin stellt diese Angaben visuell dar und macht den zeitlichen Verlauf Ihrer Technologie Roadmap auf einen Blick verständlich. Ergänzend zeigt ein Kanban-Board die einzelnen Phasen und erleichtert es Teams, Fortschritte, offene Aufgaben und Prioritätsverschiebungen in der IT-Roadmap nachzuverfolgen.'
         image: '/images/template_page_it_roadmap_03.png'
-        image_alt: ''
+        image_alt: 'Timeline-Ansicht einer IT-Roadmap mit Zeiträumen und Entwicklungsphasen verschiedener Technologieinitiativen'
       - headline: 'Verantwortliche zentral zuordnen'
         text: 'Die Tabelle „Supervisors“ liefert einen schnellen Überblick über verantwortliche Manager und ihre zugeordneten Vorhaben. Verknüpfen Sie jede Initiative mit einer zuständigen Person, damit Entscheidungen, Rückfragen und Statusupdates eindeutig zugeordnet bleiben. Das reduziert Stillstand in der Roadmap Ihres IT-Projekts und unterstützt eine transparente Stakeholder-Kommunikation über Teams, Bereiche und Führungsebenen hinweg.'
         image: '/images/template_page_it_roadmap_04.png'
-        image_alt: ''
+        image_alt: 'Tabelle Supervisors mit verantwortlichen Managern und den ihnen zugeordneten IT-Initiativen'
                   
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       items:
       - text: 'Mit SeaTables integriertem App Builder erstellen Sie mit wenig Aufwand ein individuelles Frontend für Ihre IT-Roadmap. Nutzen Sie gefilterte Übersichten für Projektleiter, Gantt-Diagramme für die Meilensteinplanung, Kanban-Ansichten für operative Teams und Statistik-Dashboards für CIOs und Führungskräfte. Teilen Sie gezielte Ausschnitte mit Stakeholdern, binden Sie externe Partner kontrolliert ein und steuern Sie Zugriffe über granulare Berechtigungen. So wird aus der Vorlage eine passgenaue Lösung für [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), Digitalisierung und Ressourcenplanung.'
       image: '/images/template_page_it_roadmap_05.png'
-      image_alt: ''
+      image_alt: 'Individuelle SeaTable App für eine IT-Roadmap mit Dashboard, Timeline, Kanban-Ansicht und Projektübersicht'
 
     - name: "banner-3"
       weight: 15
