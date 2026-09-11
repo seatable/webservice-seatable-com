@@ -1,6 +1,6 @@
 ---
 title: 'Öffentlicher Dienst'
-description: 'n	Organisieren Sie öffentliche Verwaltungsaufgaben strukturiert und DSGVO-konform.'
+description: 'Organisieren Sie öffentliche Verwaltungsaufgaben strukturiert und DSGVO-konform.'
 url: '/de/vorlagen/oeffentlicher-dienst'
 weight: 13
 seo:
