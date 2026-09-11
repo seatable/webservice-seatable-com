@@ -85,7 +85,7 @@ sections:
       - text: '**Ligar processos**: combine o seu roadmap de TI com o [ITIL]({{< relref "posts/20250612-incident-management" >}}) para conduzir processos estratégicos e operacionais sem quebras de suporte.'
       image_position: [left]
       image: '/images/template_page_it_roadmap_01.png'
-      image_alt: 'Roadmap de TI na SeaTable com vista de timeline, iniciativas ligadas e marcos para o planeamento estratégico'
+      image_alt: 'Roadmap de TI na SeaTable com iniciativas, períodos, responsabilidades e marcos visualizados'
 
     - name: "content-25"
       weight: 10
@@ -95,15 +95,15 @@ sections:
       - headline: 'Planear iniciativas de forma estratégica'
         text: 'Na tabela «Initiatives» regista todos os objetivos estratégicos, as iniciativas tecnológicas e as medidas de projeto do seu roadmap de TI. Descreva cada passo com clareza, associe-o a uma intenção estratégica e a uma área da empresa e defina que projetos devem avançar a curto prazo. Assim, a sua organização estrutura projetos de TI complexos num único roadmap e cria uma base comum para a estratégia de TI.'
         image: '/images/template_page_it_roadmap_02.png'
-        image_alt: 'Tabela de iniciativas do modelo de roadmap de TI na SeaTable com prioridades, áreas e objetivos estratégicos'
+        image_alt: 'Tabela Initiatives do roadmap de TI com objetivos estratégicos, medidas de projeto, prioridades e responsáveis'
       - headline: 'Visualizar prazos e progresso do projeto'  
         text: 'Defina para cada iniciativa o período previsto, a data-alvo e o estado de desenvolvimento atual. O plugin de timeline apresenta estes dados visualmente e torna o percurso temporal do seu roadmap tecnológico compreensível num relance. Além disso, um quadro Kanban mostra as várias fases e ajuda as equipas a acompanhar progressos, tarefas abertas e mudanças de prioridade no roadmap de TI.'
         image: '/images/template_page_it_roadmap_03.png'
-        image_alt: 'Vista de timeline do roadmap tecnológico na SeaTable com fases de projeto, marcos e períodos planeados'
+        image_alt: 'Vista de timeline de um roadmap de TI com períodos e fases de desenvolvimento de várias iniciativas tecnológicas'
       - headline: 'Atribuir responsáveis de forma centralizada'
         text: 'A tabela «Supervisors» dá uma visão rápida dos gestores responsáveis e dos projetos que lhes estão atribuídos. Ligue cada iniciativa a uma pessoa responsável para que decisões, questões e atualizações de estado fiquem claramente atribuídas. Isso reduz a estagnação no roadmap do seu projeto de TI e apoia uma comunicação transparente entre equipas, áreas e níveis de direção.'
         image: '/images/template_page_it_roadmap_04.png'
-        image_alt: 'Tabela de responsáveis na SeaTable a ligar gestores às iniciativas do modelo de roadmap de TI da empresa'
+        image_alt: 'Tabela Supervisors com os gestores responsáveis e as iniciativas de TI que lhes estão atribuídas'
                   
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       items:
       - text: 'Com o App Builder integrado da SeaTable cria com pouco esforço um frontend próprio para o seu roadmap de TI. Utilize vistas filtradas para os gestores de projeto, diagramas de Gantt para o planeamento de marcos, vistas Kanban para as equipas operacionais e dashboards estatísticos para CIO e direção. Partilhe extratos específicos com os stakeholders, envolva parceiros externos de forma controlada e faça a gestão dos acessos através de permissões granulares. Assim, o modelo torna-se uma solução à medida para a [gestão de projetos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), a digitalização e o planeamento de recursos.'
       image: '/images/template_page_it_roadmap_05.png'
-      image_alt: 'App de roadmap de TI personalizada criada com o App Builder da SeaTable, com dashboards, Gantt e Kanban'
+      image_alt: 'App SeaTable personalizada para um roadmap de TI com dashboard, timeline, vista Kanban e visão geral dos projetos'
 
     - name: "banner-3"
       weight: 15

@@ -85,7 +85,7 @@ sections:
       - text: "**Connecter les processus** : combinez votre feuille de route IT avec [ITIL]({{< relref \"posts/20250612-incident-management\" >}}) afin de piloter processus stratégiques et opérationnels sans rupture."
       image_position: [left]
       image: '/images/template_page_it_roadmap_01.png'
-      image_alt: "Feuille de route IT dans SeaTable avec vue timeline, initiatives liées et jalons pour la planification IT"
+      image_alt: "Feuille de route IT SeaTable avec initiatives, périodes, responsabilités et jalons visualisés"
 
     - name: "content-25"
       weight: 10
@@ -95,15 +95,15 @@ sections:
       - headline: 'Planifier les initiatives de façon stratégique'
         text: "Dans la table « Initiatives », vous consignez tous les objectifs stratégiques, les initiatives technologiques et les mesures de votre feuille de route IT. Décrivez chaque étape clairement, rattachez-la à une intention stratégique et à un domaine de l'entreprise, puis définissez les priorités de mise en œuvre. Votre organisation structure ainsi des projets informatiques complexes dans une seule roadmap et crée une base commune pour la stratégie IT."
         image: '/images/template_page_it_roadmap_02.png'
-        image_alt: "Table des initiatives du modèle de feuille de route IT dans SeaTable avec priorités, domaines et objectifs"
+        image_alt: "Table Initiatives de la feuille de route IT avec objectifs stratégiques, mesures de projet, priorités et responsabilités"
       - headline: 'Visualiser les périodes et la progression'  
         text: "Définissez pour chaque initiative la période prévue, la date cible et l'état d'avancement actuel. Le plugin Timeline représente ces informations visuellement et rend le déroulé de votre roadmap technologique compréhensible en un coup d'œil. Un tableau Kanban affiche en complément les différentes phases et aide les équipes à suivre progrès, tâches ouvertes et changements de priorité dans la feuille de route IT."
         image: '/images/template_page_it_roadmap_03.png'
-        image_alt: "Vue timeline de la roadmap technologique dans SeaTable avec phases de projet, jalons et périodes prévues"
+        image_alt: "Vue timeline d'une feuille de route IT avec périodes et phases de développement de différentes initiatives technologiques"
       - headline: 'Attribuer les responsables de façon centrale'
         text: "La table « Supervisors » offre un aperçu rapide des responsables et des projets qui leur sont attribués. Reliez chaque initiative à une personne référente afin que décisions, questions et mises à jour de statut restent clairement attribuées. Cela réduit les blocages dans la feuille de route de votre projet informatique et favorise une communication transparente entre équipes, services et niveaux de direction."
         image: '/images/template_page_it_roadmap_04.png'
-        image_alt: "Table des responsables dans SeaTable reliant les managers aux initiatives du modèle de feuille de route"
+        image_alt: "Table Supervisors avec les managers responsables et les initiatives IT qui leur sont attribuées"
                   
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       items:
       - text: "Avec l'App Builder intégré de SeaTable, vous créez sans effort un frontend sur mesure pour votre feuille de route IT. Utilisez des vues filtrées pour les chefs de projet, des diagrammes de Gantt pour la planification des jalons, des vues Kanban pour les équipes opérationnelles et des tableaux de bord statistiques pour la DSI et la direction. Partagez des extraits ciblés avec les parties prenantes, associez les partenaires externes de façon contrôlée et gérez les accès par des droits granulaires. Le modèle devient ainsi une solution sur mesure pour la [gestion de projet]({{< relref \"pages/landing-pages/industry-solutions/project-management\" >}}), la digitalisation et la planification des ressources."
       image: '/images/template_page_it_roadmap_05.png'
-      image_alt: "Application de feuille de route IT sur mesure créée avec l'App Builder de SeaTable, avec Gantt et Kanban"
+      image_alt: "Application SeaTable personnalisée pour une feuille de route IT avec tableau de bord, timeline, vue Kanban et aperçu des projets"
 
     - name: "banner-3"
       weight: 15

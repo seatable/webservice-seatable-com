@@ -85,7 +85,7 @@ sections:
       - text: '**Connect processes**: Combine your IT roadmap with [ITIL]({{< relref "posts/20250612-incident-management" >}}) to manage strategic and operational workflows without any media discontinuity.'
       image_position: [left]
       image: '/images/template_page_it_roadmap_01.png'
-      image_alt: 'IT roadmap in SeaTable with timeline view, linked initiatives and milestones for strategic IT planning'
+      image_alt: 'SeaTable IT roadmap with initiatives, time frames, responsibilities and visualized milestones'
 
     - name: "content-25"
       weight: 10
@@ -95,15 +95,15 @@ sections:
       - headline: 'Plan technology initiatives strategically'
         text: 'In the “Initiatives” table you record all strategic goals, technology initiatives and project measures of your IT roadmap. Describe each step clearly, assign it to a strategic intention and a business unit, and prioritize which projects should be implemented soon. This is how your IT organization structures complex IT projects in one roadmap and creates a shared basis for the IT strategy.'
         image: '/images/template_page_it_roadmap_02.png'
-        image_alt: 'Initiatives table of the IT roadmap template in SeaTable with priorities, business units and strategic goals'
+        image_alt: 'Initiatives table of the IT roadmap with strategic goals, project measures, priorities and responsibilities'
       - headline: 'Visualize time frames and progress'  
         text: 'Define the planned period, the target date and the current development status for every initiative. The timeline plugin displays this information visually and makes the schedule of your technology roadmap easy to grasp at a glance. In addition, a Kanban board shows the individual phases and helps teams track progress, open tasks and shifting priorities in the IT roadmap.'
         image: '/images/template_page_it_roadmap_03.png'
-        image_alt: 'Timeline view of the technology roadmap in SeaTable showing project phases, milestones and planned time frames'
+        image_alt: 'Timeline view of an IT roadmap with time frames and development phases of various technology initiatives'
       - headline: 'Assign responsibilities centrally'
         text: 'The “Supervisors” table gives you a quick overview of the responsible managers and the initiatives assigned to them. Link every initiative to a dedicated owner so that decisions, questions and status updates stay clearly assigned. This reduces standstill in the roadmap of your IT project and supports transparent stakeholder communication across teams, departments and management levels.'
         image: '/images/template_page_it_roadmap_04.png'
-        image_alt: 'Supervisors table in SeaTable linking responsible managers to the initiatives of the IT roadmap template'
+        image_alt: 'Supervisors table with responsible managers and their assigned IT initiatives'
                   
     - name: "content-6"
       weight: 12
@@ -115,7 +115,7 @@ sections:
       items:
       - text: 'With the built-in SeaTable App Builder, you create a custom front end for your IT roadmap with very little effort. Use filtered overviews for project managers, Gantt charts for milestone planning, Kanban views for operational teams and statistics dashboards for CIOs and executives. Share targeted extracts with stakeholders, involve external partners in a controlled way and manage access through granular permissions. This turns the template into a tailored solution for [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), digitalization and resource planning.'
       image: '/images/template_page_it_roadmap_05.png'
-      image_alt: 'Custom IT roadmap app built with the SeaTable App Builder showing dashboards, Gantt charts and Kanban views'
+      image_alt: 'Custom SeaTable app for an IT roadmap with dashboard, timeline, Kanban view and project overview'
 
     - name: "banner-3"
       weight: 15
