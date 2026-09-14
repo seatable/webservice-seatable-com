@@ -11,6 +11,9 @@ star: true
 
 Le plugin de chat IA (bêta) est une nouvelle extension de SeaTable (à partir de la version 6.1) qui vous permet d'utiliser un chat assisté par IA directement dans votre base. Posez des questions en langage naturel et l'IA répond sur la base de vos données réelles. Vous n'avez besoin d'aucun logiciel externe, d'aucun assistant IA séparé et d'aucune configuration technique. Le chat fonctionne directement dans SeaTable.
 
+**Dans cette vidéo explicative, nous vous montrons en quelques minutes seulement comment utiliser le plugin de chat IA (avec sous-titres en français).**
+{{< youtube lihaPreD4J4 >}}
+
 ## Comment fonctionne le plugin de chat IA ?
 
 Le plugin repose sur le **Model Context Protocol (MCP)**, le même standard ouvert qu'utilisent également les [agents IA]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}). En arrière-plan, le chat accède à vos données via le serveur MCP de SeaTable, lit les tableaux, les colonnes et les entrées, et vous fournit des réponses précises.
