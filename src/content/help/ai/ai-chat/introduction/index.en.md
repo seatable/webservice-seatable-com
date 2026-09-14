@@ -11,6 +11,9 @@ star: true
 
 The AI Chat Plugin (Beta) is a new extension in SeaTable (from version 6.1) that lets you use an AI-powered chat directly in your base. Ask questions in natural language, and the AI responds based on your actual data. You do not need any external software, a separate AI assistant, or any technical setup. The chat runs directly in SeaTable.
 
+**In this how-to video, we'll show you how to use the AI chat plugin in just a few minutes.**
+{{< youtube lihaPreD4J4 >}}
+
 ## How does the AI Chat Plugin work?
 
 The plugin is based on the **Model Context Protocol (MCP)**, the same open standard used by [AI agents]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}). Behind the scenes, the chat accesses your data via the SeaTable MCP Server, reads tables, columns, and records, and delivers precise answers.

@@ -23,6 +23,9 @@ In order to be able to use the Kanban view sensibly, you need at least one colum
 
 {{< /warning>}}
 
+**In this how-to video, we’ll show you in just a few minutes how to create and import a Kanban view in SeaTable.**
+{{< youtube C19DWHZzTbg >}}
+
 ## Structure of a Kanban view
 
 A Kanban view consists of **pillars** that stand for different steps or phases in a process. In a workflow, for example, these can be "idea", "planned", "in progress" and "done".

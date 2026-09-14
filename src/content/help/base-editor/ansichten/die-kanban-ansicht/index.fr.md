@@ -23,6 +23,9 @@ Pour pouvoir utiliser la vue Kanban de manière judicieuse, vous avez besoin d'a
 
 {{< /warning >}}
 
+**Dans cette vidéo tutoriel, nous allons vous montrer en quelques minutes seulement comment créer une vue Kanban dans SeaTable (avec des sous-titres en français).**
+{{< youtube C19DWHZzTbg >}}
+
 ## Construction d'une vue Kanban
 
 Une vue Kanban est composée de **colonnes** qui représentent différentes étapes ou phases dans un processus. Dans le cas d'un workflow, il peut s'agir par exemple de "idée", "planifié", "en cours" et "terminé".

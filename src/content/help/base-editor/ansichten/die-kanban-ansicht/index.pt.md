@@ -23,6 +23,9 @@ Para poder utilizar a vista Kanban de uma forma significativa, precisa de pelo m
 
 {{< /warning >}}
 
+**Neste vídeo tutorial, vamos mostrar-lhe, em apenas alguns minutos, como criar uma visualização Kanban no SeaTable (com legendas em português).**
+{{< youtube C19DWHZzTbg >}}
+
 ## Estrutura de uma vista Kanban
 
 Uma vista Kanban é constituída por **pilares** que representam diferentes passos ou fases de um processo. Num fluxo de trabalho, por exemplo, estes podem ser "ideia", "planeado", "em curso" e "concluído".

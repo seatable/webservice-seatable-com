@@ -11,6 +11,9 @@ star: true
 
 Das KI-Chat-Plugin (Beta) ist eine neue Erweiterung in SeaTable (ab Version 6.1), mit der Sie direkt in Ihrer Base einen KI-gestützten Chat nutzen können. Stellen Sie Fragen in natürlicher Sprache, und die KI antwortet auf Basis Ihrer echten Daten. Sie brauchen dafür keine externe Software, keinen separaten KI-Assistenten und keine technische Einrichtung. Der Chat läuft direkt in SeaTable.
 
+**In diesem How-to-Video zeigen wir Ihnen in nur wenigen Minuten, wie Sie das KI-Chat-Plugin nutzen.**
+{{< youtube 3O-futjotgU >}}
+
 ## Wie funktioniert das KI-Chat-Plugin?
 
 Das Plugin basiert auf dem **Model Context Protocol (MCP)**, dem gleichen offenen Standard, den auch [KI-Agenten]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) nutzen. Im Hintergrund greift der Chat über den SeaTable MCP Server auf Ihre Daten zu, liest Tabellen, Spalten und Einträge und liefert Ihnen präzise Antworten.
