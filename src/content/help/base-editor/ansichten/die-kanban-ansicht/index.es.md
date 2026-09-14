@@ -23,6 +23,10 @@ Para utilizar la vista Kanban de forma eficaz, necesita al menos una columna en 
 
 {{< /warning >}}
 
+**En este vídeo tutorial, te mostraremos en solo unos minutos cómo crear una vista Kanban en SeaTable (con subtítulos en español).**
+{{< youtube C19DWHZzTbg >}}
+
+
 ## Estructura de una vista Kanban
 
 Una vista Kanban consta de **pilares** que representan diferentes pasos o fases de un proceso. En un flujo de trabajo, por ejemplo, pueden ser "idea", "planificado", "en curso" y "completado".

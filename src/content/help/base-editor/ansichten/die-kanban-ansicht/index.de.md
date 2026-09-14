@@ -22,6 +22,9 @@ Um die Kanban-Ansicht sinnvoll verwenden zu können, benötigen Sie in Ihrer Tab
 
 {{< /warning >}}
 
+**In diesem How-to-Video zeigen wir Ihnen in nur wenigen Minuten, wie Sie in SeaTable eine Kanban-Ansicht erstellen.**
+{{< youtube bKZSnqLmpEc >}}
+
 ## Aufbau einer Kanban-Ansicht
 
 Eine Kanban-Ansicht besteht aus **Säulen**, die für verschiedene Schritte oder Phasen in einem Prozess stehen. Bei einem Workflow können das beispielsweise "Idee", "geplant", "in Arbeit" und "erledigt" sein.
