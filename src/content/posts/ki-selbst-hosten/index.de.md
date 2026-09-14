@@ -4,7 +4,7 @@ description: 'Statt Anfragen an eine externe Cloud KI zu übertragen, können Si
 seo:
     title: 'KI selbst hosten – maximale Kontrolle mit SeaTable'
     description: 'Erfahren Sie, wie Sie eine KI selbst hosten, sensible Daten schützen und sich mit einem eigenen KI Server unabhängig von Cloud KI machen.'
-date: 2026-09-11
+date: 2026-09-14
 url: '/de/ki-selbst-hosten'
 categories:
     - 'best-practice'
@@ -15,7 +15,6 @@ tags:
 color: '#dfe8f8'
 register:
    show: true
-draft: true
 ---
 
 ## Warum Sie Ihre eigene KI hosten sollten
@@ -69,7 +68,7 @@ Nicht immer müssen Sie für Grafikkarten tief in die Tasche greifen. Kleine KI-
 
 Ein eigener KI Server kann viel Abwärme freisetzen sowie einen enormen Stromverbrauch und Durchsatz haben. Um KI selbst hosten zu können, benötigen Sie deshalb neben den bereits erwähnten Komponenten spezielle **Kühlsysteme**, **Verkabelung**, **Netzwerke**, **unterbrechungsfreie Stromversorgung** und natürlich **Serverräume**, in denen Ihr eigener KI Server stehen soll.
 
-![Infrastuktur für den eigenen KI Server](ki-server.jpg)
+![Infrastruktur für den eigenen KI Server](ki-server.jpg)
 
 ## Geeignete Modelle, um KI selbst zu hosten
 
@@ -156,11 +155,11 @@ Dank **No-Code AI** – beispielsweise mit einem No Code AI Workflow Builder –
 
 Bei **SeaTable** haben Sie die Wahl: Profitieren Sie von der Skalierbarkeit und dem Komfort der [Cloud]({{< relref "posts/cloud-computing" >}}) oder installieren Sie SeaTable On-Premises auf Ihrer eigenen Infrastruktur. Als [KI No-Code-Plattform]({{< relref "/" >}}) eröffnet Ihnen SeaTable interessante Möglichkeiten wie die Kombination von [No Code]({{< relref "posts/20250307-low-code" >}}), [relationalen Datenbanken]({{< relref "posts/relationale-datenbank" >}}) und [KI-Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}): Nutzen Sie leistungsstarke Funktionen wie **Summarize, OCR, Extract, Classify und Custom Prompts**. 
 
-![Ki-Automatisierungen von SeaTable](ki-automatisierung-seatable.jpg)
+![KI-Automatisierungen von SeaTable](ki-automatisierung-seatable.jpg)
 
 [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) verwendet als KI-Modell ein Gemma3 von Google mit 12 Milliarden Parametern. Für Cloud-Nutzer laufen KI-Automationen dabei über unseren eigenen KI-Server in Deutschland. Ihre Daten verlassen zu keinem Zeitpunkt diese Infrastruktur und fließen nicht an Google oder andere US-Anbieter.
 
-Für volle Kontrolle konnen Sie nicht nur [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), sondern auch Ihre KI selbst hosten. So können Sie Workflows automatisieren, ohne sensible Informationen an eine externe Cloud-KI übertragen zu müssen. Die Komponente **SeaTable AI** basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen – darunter alle LLM-Dienste mit einer OpenAI-kompatiblen API. In unserem Admin-Handbuch finden Sie die [Anleitung zum Deployment von SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/) und Beispielkonfigurationen für zahlreiche populäre LLMs.
+Für volle Kontrolle können Sie nicht nur [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), sondern auch Ihre KI selbst hosten. So können Sie Workflows automatisieren, ohne sensible Informationen an eine externe Cloud-KI übertragen zu müssen. Die Komponente **SeaTable AI** basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen – darunter alle LLM-Dienste mit einer OpenAI-kompatiblen API. In unserem Admin-Handbuch finden Sie die [Anleitung zum Deployment von SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/) und Beispielkonfigurationen für zahlreiche populäre LLMs.
 
 ### KI-Agenten mit SeaTable verbinden
 
