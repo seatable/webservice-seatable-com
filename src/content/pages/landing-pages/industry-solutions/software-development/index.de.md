@@ -36,7 +36,7 @@ sections:
             text: Reduzieren Sie manuelle Routineaufgaben durch KI-unterstützte Automatisierungen, die Sprache erkennen, Texte übersetzen oder Prioritäten für Incidents vorschlagen.
             icon: robot
           - headline: Kanban, Gantt und mehr
-            text: Individuelle Tabellenstrukturen Ansichten wie Kanban-Boards, Gantt-Diagramme oder Galierie-Ansichten für Ihr Asset Management ermöglichen übersichtliche ITSM Prozesse.
+            text: Individuelle Tabellenstrukturen Ansichten wie Kanban-Boards, Gantt-Diagramme oder Galerie-Ansichten für Ihr Asset Management ermöglichen übersichtliche ITSM Prozesse.
             icon: eye
           - headline: Analysen und Reportings
             text: 'Visualisieren Sie Incident-Volumen und Service-Level-Agreement-Kennzahlen in übersichtlichen Dashboards. Erstellen Sie aussagekräftige Reporting-Dashboards mit Echtzeitdaten.'          
