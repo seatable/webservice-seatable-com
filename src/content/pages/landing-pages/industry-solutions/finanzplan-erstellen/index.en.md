@@ -37,8 +37,38 @@ sections:
         - text: Simple tool integration
         - text: GDPR-compliant
         - text: Fast implementation without IT thanks to no code
-      image: /images/landing-page-finanzplan-erstellen.png
+      image: /images/landing-page-finance-01.png
       image_alt: 'SeaTable interface for creating and analyzing a financial plan'
+
+    - name: content-25
+      weight: 4
+      title: Features That Will Revolutionize Your Financial Planning
+      subtitle: A Financial Planning Tool — Endless Possibilities
+      items:
+      - headline: "Budget Planning & Cost Control"
+        text: Set budgets for teams, projects, or cost centers, and match actual expenses directly to the planned amounts. Budget-versus-actual comparisons show you where budgets are being fully utilized or exceeded, providing a reliable foundation for future financial planning.
+        image:  /images/landing-page-finance-02.png
+        image_alt: 'SeaTable View for a User-Friendly No-Code Builder'
+
+      - headline: "Invoice Management"
+        text: Keep a reliable track of due dates and payment statuses. Record incoming and outgoing invoices with all relevant details and assign documents directly to the appropriate transaction. This allows you to quickly identify and efficiently process outstanding, paid, or overdue invoices.
+        image:  /images/landing-page-finance-03.png
+        image_alt: 'SeaTable interface for digital, GDPR-compliant invoice management'
+
+      - headline: "Expense Management & Expense Reimbursement"
+        text: Track and manage expenses and expense reimbursements centrally in SeaTable. Employees can easily submit expense reports and receipts, while all relevant information is clearly consolidated in one place. Track the current processing and reimbursement status and see at any time which expenses are still pending.
+        image:  /images/landing-page-finance-04.png
+        image_alt: 'SeaTable view of a web form for expense reporting'
+
+      - headline: "Cash Flow Planning & Payment Summary"
+        text: Plan your cash flow proactively and compare income and expenses over weeks or months. Factor upcoming payments and due dates into your cash flow forecast to identify financial trends and available flexibility early on.
+        image:  /images/landing-page-finance-05.png
+        image_alt: 'SeaTable Views for Displaying the Financial Structure'
+
+      - headline: "Financial Reporting & Controlling"
+        text: Analyze your financial data and keep track of key metrics with clear, easy-to-read dashboards. For example, visualize revenue, expenses, budget variances, or costs by department, and generate regular financial reports for internal analysis. This will help you establish a central foundation for your financial controlling.
+        image:  /images/landing-page-finance-06.png
+        image_alt: 'SeaTable HR Dashboard for Optimizing and Automating Financial Reporting'
  
     - name: "content-4"
       weight: 2

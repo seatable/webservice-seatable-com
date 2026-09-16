@@ -37,8 +37,38 @@ sections:
         - text: Integración sencilla de herramientas
         - text: Conforme a la RGPD
         - text: Rápida implantación sin TI gracias a la ausencia de código
-      image: /images/landing-page-finanzplan-erstellen.png
-      image_alt: 'Interfaz de SeaTable para crear y analizar un plan financiero'
+      image: /images/landing-page-finance-01.png
+      image_alt: 'Interfaz de SeaTable para la elaboración y el análisis de un plan financiero'
+
+    - name: content-25
+      weight: 4
+      title: Funciones que revolucionarán tu planificación financiera
+      subtitle: "Una herramienta para la planificación financiera: numerosas posibilidades"
+      items:
+      - headline: "Planificación presupuestaria y control de costes"
+        text: Establezca presupuestos para equipos, proyectos o centros de coste y asigne los gastos reales directamente a los valores previstos. Las comparaciones entre los valores previstos y los reales le permiten identificar en qué casos se han agotado o superado los presupuestos, lo que constituye una base fiable para la planificación financiera futura.
+        image:  /images/landing-page-finance-02.png
+        image_alt: 'Vista de SeaTable para un generador sin código fácil de usar'
+
+      - headline: "Gestión de facturas"
+        text: Mantenga un control fiable de los vencimientos y el estado de los pagos. Registre las facturas recibidas y emitidas con todos los datos pertinentes y asigne los documentos directamente a la operación correspondiente. De este modo, podrá identificar rápidamente las facturas pendientes, pagadas o vencidas y gestionarlas de forma específica.
+        image:  /images/landing-page-finance-03.png
+        image_alt: 'Interfaz de SeaTable para la gestión digital de facturas conforme al RGPD'
+
+      - headline: "Gestión de gastos y reembolso de gastos"
+        text: Registre y gestione los gastos y los reembolsos de forma centralizada en SeaTable. Los empleados pueden enviar fácilmente sus gastos y justificantes, mientras que toda la información relevante se recopila de forma clara en un único lugar. Realice un seguimiento del estado actual de tramitación y reembolso, y compruebe en todo momento qué gastos siguen pendientes.
+        image:  /images/landing-page-finance-04.png
+        image_alt: 'Vista de SeaTable de un formulario web para el registro de gastos'
+
+      - headline: "Planificación de la liquidez y resumen de pagos"
+        text: Planifique su liquidez con antelación y compare los ingresos y los gastos a lo largo de semanas o meses. Tenga en cuenta los pagos pendientes y los vencimientos en su previsión de flujo de caja e identifique con antelación la evolución financiera y el margen de maniobra disponible.
+        image:  /images/landing-page-finance-05.png
+        image_alt: 'Vistas de SeaTable para representar la estructura financiera'
+
+      - headline: "Informes financieros y control de gestión"
+        text: Analice sus datos financieros y mantenga a la vista los indicadores clave mediante paneles de control claros y concisos. Visualice, por ejemplo, los ingresos, los gastos, las desviaciones presupuestarias o los costes por departamento, y elabore informes financieros periódicos para realizar análisis internos. De este modo, creará una base central para su control financiero.
+        image:  /images/landing-page-finance-06.png
+        image_alt: 'Panel de control de RR. HH. de SeaTable para la optimización y automatización de los informes financieros'
  
     - name: "content-4"
       weight: 2
