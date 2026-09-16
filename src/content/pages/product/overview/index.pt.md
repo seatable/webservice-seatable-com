@@ -94,8 +94,8 @@ sections:
       image_position: 'left'
       image_alt: 'SeaTable On-Premises – controle total no seu próprio servidor'
       buttons:
-          - label: Mais sobre o SeaTable Dedicated
-            link: 'pages/product/seatable-dedicated'
+          - label: Mais sobre o SeaTable Servidor
+            link: 'pages/product/seatable-server'
 
     - name: product-comparison-table
       weight: 7
