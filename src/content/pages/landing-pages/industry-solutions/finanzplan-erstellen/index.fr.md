@@ -37,8 +37,38 @@ sections:
         - text : Intégration facile des outils
         - text : Conforme au RGPD
         - text : Implémentation rapide sans informatique grâce au No Code
-      image: /images/landing-page-finanzplan-erstellen.png
-      image_alt: 'Interface SeaTable pour créer et analyser un plan financier'
+      image: /images/landing-page-finance-01.png
+      image_alt: "Interface SeaTable permettant la création et l'analyse d'un plan financier"
+
+    - name: content-25
+      weight: 4
+      title: Des fonctionnalités qui vont révolutionner votre planification financière
+      subtitle: Un outil de planification financière – de nombreuses possibilités
+      items:
+      - headline: "Planification budgétaire et maîtrise des coûts"
+        text: Définissez des budgets pour les équipes, les projets ou les centres de coûts, et affectez les dépenses réelles directement aux valeurs prévisionnelles. Les comparaisons entre les valeurs prévisionnelles et réelles vous permettent d'identifier les budgets épuisés ou dépassés et constituent une base fiable pour la suite de la planification financière.
+        image:  /images/landing-page-finance-02.png
+        image_alt: 'Vue SeaTable pour un générateur « no-code » convivial'
+
+      - headline: "Gestion de la facturation"
+        text: Gardez un contrôle fiable sur les échéances et l'état des paiements. Saisissez les factures entrantes et sortantes avec toutes les informations pertinentes et attribuez directement les pièces justificatives à l'opération correspondante. Vous pouvez ainsi identifier rapidement les factures en attente, payées ou en retard et les traiter de manière ciblée.
+        image:  /images/landing-page-finance-03.png
+        image_alt: 'Interface SeaTable pour la gestion numérique des factures, conforme au RGPD'
+
+      - headline: "Gestion des dépenses et remboursement des frais"
+        text: Enregistrez et gérez de manière centralisée les dépenses et les remboursements de frais dans SeaTable. Les collaborateurs soumettent facilement leurs notes de frais et leurs justificatifs, tandis que toutes les informations pertinentes sont regroupées de manière claire en un seul et même endroit. Suivez l'état d'avancement du traitement et du remboursement et identifiez à tout moment les frais qui restent à régler.
+        image:  /images/landing-page-finance-04.png
+        image_alt: "SeaTable : vue d'un formulaire Web destiné à la saisie des frais professionnels"
+
+      - headline: "Planification de la trésorerie et aperçu des paiements"
+        text: Planifiez votre trésorerie de manière proactive et comparez vos recettes et vos dépenses sur plusieurs semaines ou plusieurs mois. Tenez compte des paiements à venir et des échéances dans vos prévisions de trésorerie afin d’identifier à l’avance les tendances financières et les marges de manœuvre disponibles.
+        image:  /images/landing-page-finance-05.png
+        image_alt: 'Vues SeaTable permettant de présenter la structure financière'
+
+      - headline: "Reporting financier et contrôle de gestion"
+        text: Analysez vos données financières et gardez un œil sur les indicateurs clés grâce à des tableaux de bord clairs. Visualisez, par exemple, les recettes, les dépenses, les écarts budgétaires ou les coûts par service, et établissez régulièrement des rapports financiers à des fins d'analyse interne. Vous disposez ainsi d'une base centralisée pour votre contrôle de gestion.
+        image:  /images/landing-page-finance-06.png
+        image_alt: "Tableau de bord SeaTable HR pour l'optimisation et l'automatisation du reporting financier"
  
     - name: "content-4"
       weight: 2

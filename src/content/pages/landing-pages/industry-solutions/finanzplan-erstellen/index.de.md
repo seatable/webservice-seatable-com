@@ -36,8 +36,38 @@ sections:
         - text: Einfache Tool-Integration
         - text: DSGVO-konform
         - text: Schnelle Implementierung ohne IT dank No Code
-      image: /images/landing-page-finanzplan-erstellen.png
+      image: /images/landing-page-finance-01.png
       image_alt: 'SeaTable Oberfläche zur Erstellung und Auswertung eines Finanzplans'
+
+    - name: content-25
+      weight: 4
+      title: Funktionen, die Ihre Finanzplanung revolutionieren
+      subtitle: Ein Tool für Finanzplanung – zahlreiche Möglichkeiten
+      items:
+      - headline: "Budgetplanung & Kostenkontrolle"
+        text: Legen Sie Budgets für Teams, Projekte oder Kostenstellen fest und ordnen Sie tatsächliche Ausgaben direkt den geplanten Werten zu. Soll-Ist-Vergleiche zeigen Ihnen, wo Budgets ausgeschöpft oder überschritten werden und schaffen eine verlässliche Grundlage für die weitere Finanzplanung.
+        image:  /images/landing-page-finance-02.png
+        image_alt: 'SeaTable Ansicht für benutzerfreundlichen No-Code-Builder'
+
+      - headline: "Rechnungsmanagement"
+        text: Behalten Sie Fälligkeiten und Zahlungsstände zuverlässig unter Kontrolle. Erfassen Sie eingehende und ausgehende Rechnungen mit allen relevanten Angaben und ordnen Sie Belege direkt dem passenden Vorgang zu. So lassen sich offene, bezahlte oder überfällige Rechnungen schnell erkennen und gezielt bearbeiten.
+        image:  /images/landing-page-finance-03.png
+        image_alt: 'SeaTable Oberfläche für digitale, DSGVO-konforme Rechnungsverwaltung'
+
+      - headline: "Ausgabenmanagent & Auslagenerstattung"
+        text: Erfassen und verwalten Sie Ausgaben und Auslagenerstattungen zentral in SeaTable. Mitarbeiter reichen Spesen und Belege einfach ein, während alle relevanten Informationen übersichtlich an einem Ort zusammenlaufen. Verfolgen Sie den aktuellen Bearbeitungs- und Erstattungsstatus und erkennen Sie jederzeit, welche Auslagen noch offen sind.
+        image:  /images/landing-page-finance-04.png
+        image_alt: 'SeaTable Ansicht eines Webformulars zur Erfassung von Spesen'
+
+      - headline: "Liquiditäplanung & Zahlungsübersicht"
+        text: Planen Sie Ihre Liquidität vorausschauend und stellen Sie Einnahmen und Ausgaben über Wochen oder Monate gegenüber. Berücksichtigen Sie anstehende Zahlungen und Fälligkeiten in Ihrem Cashflow Forecast und erkennen Sie frühzeitig finanzielle Entwicklungen und verfügbare Spielräume.
+        image:  /images/landing-page-finance-05.png
+        image_alt: 'SeaTable Ansichten zur Darstellung der Finanzstruktur'
+
+      - headline: "Finanz- reporting & Controlling"
+        text: Analysieren Sie Ihre Finanzdaten und behalten Sie wichtige Kennzahlen mit übersichtlichen Dashboards im Blick. Visualisieren Sie beispielsweise Einnahmen, Ausgaben, Budgetabweichungen oder Kosten nach Abteilung und erstellen Sie regelmäßige Finanzberichte für interne Auswertungen. So schaffen Sie eine zentrale Grundlage für Ihr Finanzcontrolling.
+        image:  /images/landing-page-finance-06.png
+        image_alt: 'SeaTable HR Dashboard zur Optimierung und Automatisierung von Finanzreporting'
  
     - name: "content-4"
       weight: 2
