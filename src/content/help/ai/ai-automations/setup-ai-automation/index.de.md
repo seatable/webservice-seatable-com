@@ -17,7 +17,7 @@ In dieser Anleitung erstellen Sie eine Automation mit der Aktion **KI aufrufen**
 
 {{< warning headline="Hinweis für Self-Hosted-Kunden" >}}
 
-In der **SeaTable Cloud** ist der KI-Server bereits integriert. SeaTable betreibt ein eigenes Sprachmodell (Gemma 3) auf GPU-Infrastruktur in Deutschland — Sie können KI-Automationen sofort nutzen.
+In der **SeaTable Cloud** ist der KI-Server bereits integriert. SeaTable betreibt ein eigenes Sprachmodell (Gemma 4) auf GPU-Infrastruktur in Deutschland — Sie können KI-Automationen sofort nutzen.
 
 Wenn Sie SeaTable **selbst hosten**, müssen Sie entweder einen eigenen KI-Server betreiben oder eine Verbindung zu einem Cloud-KI-Anbieter konfigurieren. Weitere Informationen finden Sie in der [Installationsanleitung für SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/).
 

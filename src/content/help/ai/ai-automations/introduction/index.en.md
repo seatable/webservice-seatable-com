@@ -55,7 +55,7 @@ Learn more about AI agents in the article [What are AI agents?]({{< relref "help
 
 ## Data privacy: AI made in Europe
 
-A key advantage of AI automations over external AI services: **your data does not leave the EU.** SeaTable operates its own AI server running the open-source model Gemma-3-12B on GPU infrastructure at Hetzner in Germany.
+A key advantage of AI automations over external AI services: **your data does not leave the EU.** SeaTable operates its own AI server running the open-source model Gemma 4 E4B on GPU infrastructure at Hetzner in Germany.
 
 In concrete terms, this means:
 

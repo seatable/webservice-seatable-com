@@ -157,7 +157,7 @@ Chez **SeaTable**, vous avez le choix : profitez de l’évolutivité et du conf
 
 ![Automatisations IA de SeaTable](ki-automatisierung-seatable.jpg)
 
-[SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) utilise comme modèle d’IA un Gemma3 de Google doté de 12 milliards de paramètres. Pour les utilisateurs du cloud, les automatisations IA passent par notre propre serveur IA en Allemagne. Vos données ne quittent à aucun moment cette infrastructure et ne sont transmises ni à Google ni à d’autres fournisseurs américains.
+[SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) utilise comme modèle d’IA un Gemma 4 de Google doté de 4 milliards de paramètres. Pour les utilisateurs du cloud, les automatisations IA passent par notre propre serveur IA en Allemagne. Vos données ne quittent à aucun moment cette infrastructure et ne sont transmises ni à Google ni à d’autres fournisseurs américains.
 
 Pour un contrôle total, vous pouvez héberger vous-même non seulement [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), mais aussi votre IA. Vous pouvez ainsi automatiser vos workflows sans avoir à transmettre d’informations sensibles à un cloud IA externe. Le composant **SeaTable AI** repose sur LiteLLM et prend donc en charge le raccordement d’une multitude de modèles – dont tous les services LLM disposant d’une API compatible OpenAI. Dans notre manuel d’administration, vous trouverez le [guide de déploiement de SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/) ainsi que des exemples de configuration pour de nombreux LLM populaires.
 

@@ -55,7 +55,7 @@ Mehr zu KI-Agenten erfahren Sie im Artikel [Was sind KI-Agenten?]({{< relref "he
 
 ## Datenschutz: KI made in Europe
 
-Ein wesentlicher Vorteil der KI-Automationen gegenüber externen KI-Diensten: **Ihre Daten verlassen die EU nicht.** SeaTable betreibt einen eigenen KI-Server mit dem Open-Source-Modell Gemma-3-12B auf GPU-Infrastruktur bei Hetzner in Deutschland.
+Ein wesentlicher Vorteil der KI-Automationen gegenüber externen KI-Diensten: **Ihre Daten verlassen die EU nicht.** SeaTable betreibt einen eigenen KI-Server mit dem Open-Source-Modell Gemma 4 E4B auf GPU-Infrastruktur bei Hetzner in Deutschland.
 
 Das bedeutet konkret:
 

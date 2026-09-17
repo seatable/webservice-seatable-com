@@ -55,7 +55,7 @@ Más información sobre los agentes de IA en el artículo [¿Qué son los agente
 
 ## Protección de datos: IA hecha en Europa
 
-Una ventaja clave de las automatizaciones de IA frente a los servicios de IA externos: **sus datos no salen de la UE.** SeaTable opera su propio servidor de IA con el modelo de código abierto Gemma-3-12B en infraestructura GPU en Hetzner en Alemania.
+Una ventaja clave de las automatizaciones de IA frente a los servicios de IA externos: **sus datos no salen de la UE.** SeaTable opera su propio servidor de IA con el modelo de código abierto Gemma 4 E4B en infraestructura GPU en Hetzner en Alemania.
 
 En términos concretos, esto significa:
 

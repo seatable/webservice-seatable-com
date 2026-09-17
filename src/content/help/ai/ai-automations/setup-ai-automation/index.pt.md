@@ -17,7 +17,7 @@ Neste guia, irá criar uma automatização com a ação **Executar IA**. Depois 
 
 {{< warning headline="Nota para clientes auto-hospedados" >}}
 
-No **SeaTable Cloud**, o servidor de IA já está integrado. O SeaTable opera o seu próprio modelo linguístico (Gemma 3) em infraestrutura GPU na Alemanha — pode utilizar as automatizações IA imediatamente.
+No **SeaTable Cloud**, o servidor de IA já está integrado. O SeaTable opera o seu próprio modelo linguístico (Gemma 4) em infraestrutura GPU na Alemanha — pode utilizar as automatizações IA imediatamente.
 
 Se **auto-hospedar** o SeaTable, precisa de operar o seu próprio servidor de IA ou configurar uma ligação a um fornecedor de IA na nuvem. Para mais informações, consulte o [guia de instalação do SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/).
 
