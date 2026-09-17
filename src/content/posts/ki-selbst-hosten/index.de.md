@@ -157,7 +157,7 @@ Bei **SeaTable** haben Sie die Wahl: Profitieren Sie von der Skalierbarkeit und 
 
 ![KI-Automatisierungen von SeaTable](ki-automatisierung-seatable.jpg)
 
-[SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) verwendet als KI-Modell ein Gemma3 von Google mit 12 Milliarden Parametern. Für Cloud-Nutzer laufen KI-Automationen dabei über unseren eigenen KI-Server in Deutschland. Ihre Daten verlassen zu keinem Zeitpunkt diese Infrastruktur und fließen nicht an Google oder andere US-Anbieter.
+[SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) verwendet als KI-Modell ein Gemma 4 von Google mit 4 Milliarden Parametern. Für Cloud-Nutzer laufen KI-Automationen dabei über unseren eigenen KI-Server in Deutschland. Ihre Daten verlassen zu keinem Zeitpunkt diese Infrastruktur und fließen nicht an Google oder andere US-Anbieter.
 
 Für volle Kontrolle können Sie nicht nur [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), sondern auch Ihre KI selbst hosten. So können Sie Workflows automatisieren, ohne sensible Informationen an eine externe Cloud-KI übertragen zu müssen. Die Komponente **SeaTable AI** basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen – darunter alle LLM-Dienste mit einer OpenAI-kompatiblen API. In unserem Admin-Handbuch finden Sie die [Anleitung zum Deployment von SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/) und Beispielkonfigurationen für zahlreiche populäre LLMs.
 

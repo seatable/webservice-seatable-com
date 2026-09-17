@@ -215,9 +215,11 @@ En tant que plate-forme d'IA No-Code, SeaTable permet des automatisations basée
 
 ![Fonctionnalités d'IA dans SeaTable](ki-features-seatable.jpg)
 
-En plus de Gemma 3, SeaTable prend en charge d'autres modèles d'IA de différents fournisseurs, qui sont gérés dans des centres de données allemands conformément au RGPD. De plus, l'échange de données entre [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) et les modèles linguistiques est crypté.
+En plus de Gemma 4, SeaTable prend en charge d'autres modèles d'IA de différents fournisseurs, qui sont gérés dans des centres de données allemands conformément au RGPD. De plus, l'échange de données entre [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) et les modèles linguistiques est crypté.
   
 Pour un contrôle total, les auto-hébergeurs peuvent bien sûr utiliser des modèles d'IA dans leur propre [infrastructure]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), un composant de [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), est basé sur LiteLLM et prend ainsi en charge la connexion d'un grand nombre de modèles avec une API compatible OpenAI.
+
+Si vous [hébergez votre IA vous-même]({{< relref "posts/ki-selbst-hosten" >}}), vous pouvez également utiliser, grâce à notre [serveur MCP]({{< relref "posts/mcp-server" >}}), des agents IA qui interagissent directement avec vos données dans SeaTable, répondent à vos questions ou effectuent des modifications.
 
 {{< newsletter title="Restez informé" subtitle="" submit="Inscrivez-vous maintenant" >}}
 

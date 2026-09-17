@@ -38,7 +38,7 @@ Las nuevas funciones de IA están integradas en las automatizaciones de SeaTable
 
 ### Despliegue de IA sin comprometer la protección de datos
 
-SeaTable Cloud utiliza un **Gemma3** con 12.000 millones de parámetros como modelo de IA. Este Large Language Model (LLM) multimodal de Google funciona **en un servidor alemán** de Hetzner Online GmbH y es gestionado por los administradores de SeaTable Cloud. El intercambio de datos entre SeaTable Cloud y el modelo lingüístico está **cifrado**. Por lo tanto, sus datos no se envían a otro proveedor de IA ni al extranjero.
+SeaTable Cloud utiliza un **Gemma 4** con 4.000 millones de parámetros como modelo de IA. Este Large Language Model (LLM) multimodal de Google funciona **en un servidor alemán** de Hetzner Online GmbH y es gestionado por los administradores de SeaTable Cloud. El intercambio de datos entre SeaTable Cloud y el modelo lingüístico está **cifrado**. Por lo tanto, sus datos no se envían a otro proveedor de IA ni al extranjero.
 
 Todos los suscriptores de SeaTable Cloud Enterprise reciben **500 créditos de IA por miembro del equipo**. Los créditos de IA se calculan de tal forma que permiten realizar pruebas exhaustivas. Se requieren créditos adicionales para cargas de trabajo productivas. Se pueden proporcionar gratuitamente previa solicitud durante la fase beta.
 

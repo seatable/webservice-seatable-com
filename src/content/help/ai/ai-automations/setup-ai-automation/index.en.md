@@ -17,7 +17,7 @@ In this guide, you will create an automation with the **Run AI** action. Once se
 
 {{< warning headline="Note for self-hosted customers" >}}
 
-In **SeaTable Cloud**, the AI server is already integrated. SeaTable operates its own language model (Gemma 3) on GPU infrastructure in Germany — you can use AI automations right away.
+In **SeaTable Cloud**, the AI server is already integrated. SeaTable operates its own language model (Gemma 4) on GPU infrastructure in Germany — you can use AI automations right away.
 
 If you **self-host** SeaTable, you need to either run your own AI server or configure a connection to a cloud AI provider. For more information, see the [SeaTable AI installation guide](https://admin.seatable.com/installation/components/seatable-ai/).
 

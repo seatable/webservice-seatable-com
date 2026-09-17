@@ -38,7 +38,7 @@ Die neuen KI-Funktionen sind in SeaTables Automationen integriert und lassen sic
 
 ### KI-Einsatz ohne Kompromisse beim Datenschutz
 
-SeaTable Cloud verwendet als KI-Modell ein **Gemma3** mit 12 Milliarden Parametern. Dieses multimodale Large Language Modell (LLM) aus dem Hause Google läuft **auf einem deutschen Server** der Hetzner Online GmbH und wird durch die Administratoren von SeaTable Cloud betreut. Der Datenaustausch zwischen SeaTable Cloud und dem Sprachmodell erfolgt **verschlüsselt**. Ihre Daten wandern somit nicht zu einem anderen KI-Anbieter und auch nicht ins Ausland.
+SeaTable Cloud verwendet als KI-Modell ein **Gemma 4** mit 4 Milliarden Parametern. Dieses multimodale Large Language Modell (LLM) aus dem Hause Google läuft **auf einem deutschen Server** der Hetzner Online GmbH und wird durch die Administratoren von SeaTable Cloud betreut. Der Datenaustausch zwischen SeaTable Cloud und dem Sprachmodell erfolgt **verschlüsselt**. Ihre Daten wandern somit nicht zu einem anderen KI-Anbieter und auch nicht ins Ausland.
 
 Alle Abonnenten von SeaTable Cloud Enterprise erhalten **500 KI-Credits pro Teammitglied**. Die KI-Credits sind so bemessen, dass sie umfangreiche Tests ermöglichen. Für produktive Workloads sind zusätzliche Credits nötig. Diese können während der Beta-Phase auf Nachfrage kostenlos bereitgestellt werden.
 

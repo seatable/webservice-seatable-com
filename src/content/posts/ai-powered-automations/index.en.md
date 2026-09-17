@@ -37,16 +37,16 @@ For us, this means responsibility. For you, it means increased transparency, dat
 
 ## Technical foundation of our AI server "made in Europe" for SeaTable Cloud
 
-To meet this claim, we rely on a carefully designed infrastructure. The heart of it is a GPU server at Hetzner (GEX44, starting at €220 per month), running the multimodal model _Gemma-3-12B_. We deliberately chose this model:
+To meet this claim, we rely on a carefully designed infrastructure. The heart of it is a GPU server at Hetzner (GEX44, starting at €220 per month), running the model Gemma 4 E4B. We deliberately chose this model:
 
 - Smaller models did not deliver the required quality in our tests – they were simply too inaccurate, especially in multilingual scenarios or tasks like OCR.
 - Larger models may have more potential but require significantly more powerful (and thus more expensive) hardware.
 
-With Gemma-3-12B, we achieve the perfect middle ground: a powerful, established model that reliably understands text as well as visual inputs.
+With Gemma 4 E4B, we achieve the perfect middle ground: a powerful, established model that reliably understands text as well as visual inputs.
 
 And the performance is impressive:
 
-| Parameter         | Expected value on Hetzner GEX44 with vLLM & Gemma-3 12B |
+| Parameter         | Expected value on Hetzner GEX44 with vLLM & Gemma 4 E4B |
 | ----------------- | ------------------------------------------------------- |
 | Token throughput  | 1,200–2,000 tokens per second                           |
 | Parallel requests | 5–10 simultaneously                                     |
@@ -77,7 +77,7 @@ With **version 6.1**, we will open the features to Free and Plus plans in a limi
 
 ## LLM Freedom in SeaTable: From Hetzner Hosting to OpenAI and Beyond
 
-Another key feature we are planning for upcoming versions is to give users the option to use not only our self-hosted LLM (Large Language Model) at Hetzner but also other models from the cloud. For automations that access publicly available data—or where there are no data protection concerns—you will be able to choose freely whether to use Gemma-3, DeepSeek, Mistral, OpenAI, or similar providers. Our goal is to give users the freedom to decide which AI model best fits their use case.
+Another key feature we are planning for upcoming versions is to give users the option to use not only our self-hosted LLM (Large Language Model) at Hetzner but also other models from the cloud. For automations that access publicly available data—or where there are no data protection concerns—you will be able to choose freely whether to use Gemma, DeepSeek, Mistral, OpenAI, or similar providers. Our goal is to give users the freedom to decide which AI model best fits their use case.
 
 ## Conclusion: Innovation meets responsibility
 

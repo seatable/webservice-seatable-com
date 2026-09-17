@@ -38,7 +38,7 @@ The new AI functions are integrated into SeaTable's automations and are just as 
 
 ### AI deployment without compromising on data protection
 
-SeaTable Cloud uses a **Gemma3** with 12 billion parameters as its AI model. This multimodal Large Language Model (LLM) from Google runs **on a German server** from Hetzner Online GmbH and is maintained by the SeaTable Cloud administrators. The data exchange between SeaTable Cloud and the language model is **encrypted**. Your data is therefore not sent to another AI provider or abroad.
+SeaTable Cloud uses a **Gemma 4** with 4 billion parameters as its AI model. This multimodal Large Language Model (LLM) from Google runs **on a German server** from Hetzner Online GmbH and is maintained by the SeaTable Cloud administrators. The data exchange between SeaTable Cloud and the language model is **encrypted**. Your data is therefore not sent to another AI provider or abroad.
 
 All SeaTable Cloud Enterprise subscribers receive **500 AI credits per team member**. The AI credits are calculated in such a way that they enable extensive testing. Additional credits are required for productive workloads. These can be provided free of charge on request during the beta phase.
 
