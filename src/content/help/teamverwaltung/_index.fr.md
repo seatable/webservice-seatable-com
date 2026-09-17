@@ -10,4 +10,4 @@ seo:
     description: 'Découvrez comment administrer membres, groupes, bases, droits d’accès et abonnements SeaTable dans un espace de gestion centralisé.'
 ---
 
-{{< hotspots image="/hotspots/team-admin-fr.png" alt="Teamverwaltung" data="hotspots-team-admin" >}}
+{{< youtube HUIJ8k2zlgY >}}

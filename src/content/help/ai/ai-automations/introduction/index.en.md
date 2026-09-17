@@ -11,7 +11,9 @@ star: true
 
 Since version 6.0, SeaTable offers AI-powered automation actions that can process your data automatically. Summarize texts, categorize support requests, extract invoice data or translate content — all of this happens directly in your base, triggered by the automation rules you already know from SeaTable. No external AI platform needed, no manual follow-up.
 
-{{< youtube A1_LWaFWveM >}}
+**In this how-to video, we'll show you how to use the AI automations within SeaTable's automation system.**
+
+{{< youtube kk5FtrG56Jo >}}
 
 ## How do AI automations work?
 
