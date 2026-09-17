@@ -11,7 +11,9 @@ star: true
 
 SeaTable bietet seit Version 6.0 KI-gestützte Automationsaktionen, die Ihre Daten automatisch verarbeiten können. Texte zusammenfassen, Supportanfragen kategorisieren, Rechnungsdaten extrahieren oder Inhalte übersetzen — all das passiert direkt in Ihrer Base, ausgelöst durch die Automationsregeln, die Sie bereits aus SeaTable kennen. Keine externe KI-Plattform nötig, keine manuelle Nacharbeit.
 
-{{< youtube uCE6JeR_7Uo >}}
+**In diesem How-To-Video zeigen wir Ihnen, wie Sie in SeaTable KI-Automationen nutzen.**
+
+{{< youtube nA3BWvAanl8 >}}
 
 ## Wie funktionieren KI-Automationen?
 

@@ -10,4 +10,4 @@ seo:
     description: 'Learn how to use SeaTable’s team administration to manage members, groups, bases, permissions and subscriptions from a single central interface.'
 ---
 
-{{< hotspots image="/hotspots/team-admin-en.png" alt="Teamverwaltung" data="hotspots-team-admin" >}}
+{{< youtube HUIJ8k2zlgY >}}

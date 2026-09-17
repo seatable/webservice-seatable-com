@@ -10,4 +10,4 @@ seo:
     description: 'Saiba como usar o painel de administração do SeaTable para gerir membros, grupos, bases, permissões e assinaturas em um só lugar.'
 ---
 
-{{< hotspots image="/hotspots/team-admin-pt.png" alt="Teamverwaltung" data="hotspots-team-admin" >}}
+{{< youtube HUIJ8k2zlgY >}}

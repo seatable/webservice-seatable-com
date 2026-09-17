@@ -10,4 +10,4 @@ seo:
     description: 'Erfahren Sie, wie Sie in der SeaTable Teamverwaltung Mitglieder, Gruppen, Bases, Rechte und Abonnements zentral organisieren und verwalten.'
 ---
 
-{{< hotspots image="/hotspots/team-admin-de.png" alt="Teamverwaltung" data="hotspots-team-admin" >}}
+{{< youtube UuGRB0NZ-1E >}}
