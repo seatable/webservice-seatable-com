@@ -1,130 +1,134 @@
 ---
-title: 'Lauftrainingsplan erstellen und Fortschritte gezielt verfolgen'
-description: Vom ersten lockeren Lauf bis zur Ziellinie braucht es mehr als Motivation. Mit einem strukturierten Lauftrainingsplan bringen Sie Trainingsziele, Laufeinheiten, Erholungsphasen und Vitalwerte aus Fitness-Trackern zusammen. In diesem Artikel erfahren Sie, worauf es bei einem guten Lauftrainingsplan ankommt.
+title: 'Create a running training plan and track your progress'
+description: From your first easy run to the finish line, it takes more than motivation. A structured running training plan brings together your training goals, running sessions, recovery phases and vital signs from fitness trackers. In this article, you will learn what makes a good running training plan.
 date: 2026-09-18
-url: '/lauftrainingsplan-erstellen/'
+url: '/running-training-plan/'
 seo:
-    title: "Lauftrainingsplan erstellen: Für Anfänger bis Marathon"
-    description: Erstelle deinen individuellen Lauftrainingsplan für 10 km, Halbmarathon oder Marathon. So starten Anfänger durch und werten Sportuhr-Daten digital aus
+    title: "Running Training Plan: From Beginner to Marathon"
+    description: Create your individual running training plan for 10K, a half marathon or a marathon. How beginners get started and evaluate sports watch data digitally.
 categories:
     - 'best-practice'
 tags:
-      - 'Alltag & Freizeit'
+      - 'Everyday Life & Leisure'
 color: '#aeb5f5'
 register:
    show: true
-draft: true   
----   
+---
 
-## Der strukturierte Weg zum persönlichen Laufziel
+## The structured path to your personal running goal
 
-Ein flexibler Lauftrainingsplan hilft Ihnen, Training, Regeneration und Alltag sinnvoll aufeinander abzustimmen. Erfahren Sie, wie Sie sicher einsteigen, sich auf 10 Kilometer, Halbmarathon oder Marathon vorbereiten und Daten Ihrer Sportuhr zentral auswerten. Mit einem individuellen Lauftrainingsplan **dokumentieren Sie Ihre Fortschritte übersichtlich** und passen Ihren Plan jederzeit an Ihre Ziele an. So bleiben Sie motiviert, laufen langfristig erfolgreicher und reagieren flexibel auf Veränderungen, statt gegen den eigenen Körper und Alltag zu trainieren.
-  
+A flexible running training plan helps you align training, recovery and everyday life in a sensible way. Find out how to get started safely, prepare for 10 kilometers, a half marathon or a marathon, and evaluate the data from your sports watch in one central place. With an individual running training plan, you **document your progress clearly** and can adapt your plan to your goals at any time. That way you stay motivated, run more successfully in the long term and respond flexibly to changes instead of training against your own body and daily routine.
 
 ## Key Facts
 
-*   Mit klar strukturierten und flexibel anpassbaren Laufpläne bringen Sie Alltag, Motivation und Erholung besser zusammen.
-    
-*   Ein moderner digitaler Lauftrainingsplan verbindet Trainingseinheiten, Wochenzusammenfassungen und Fitness-Daten aus Ihrer Sportuhr zu einem ganzheitlichen Bild.
-    
-*   Mit einem einfachen Laufplan starten Sie als Anfänger mit System und vermeiden Überlastungen.
-    
+*   Clearly structured and flexibly adjustable running plans help you bring everyday life, motivation and recovery together.
+*   A modern digital running training plan combines training sessions, weekly summaries and fitness data from your sports watch into one complete picture.
+*   With a simple running plan, you start out as a beginner in a systematic way and avoid overloading yourself.
 
-## Wenn aus Motivation Überforderung wird
+## When motivation turns into overload
 
-Laufen erscheint auf den ersten Blick einfach: Schuhe anziehen, Tür öffnen und los. Es ist nicht zuletzt diese Einfachheit, die den Sport so attraktiv macht. Doch ein motivierter Start führt nicht unbedingt zu einem guten Training. Viele Laufanfänger starten mit zu langen Strecken, zu schnellen Läufen, zu kurzen Pausen und zu ambitionierten Zielen, z. B. eine Marathon Vorbereitung in wenigen Wochen zu absolvieren. Ihr Kreislauf fühlt sich vielleicht bereits nach wenigen Läufen belastbarer an, während Muskeln und Gelenke überfordert werden. Fehlende Regeneration kann dann schnell zu Verletzungen und erzwungenen Trainingspausen führen.
+At first glance, running seems simple: put on your shoes, open the door and off you go. That is not least why this sport has been so popular for years. But a motivated start does not necessarily lead to good training. Many running beginners start with distances that are too long, runs that are too fast, breaks that are too short and goals that are too ambitious, e.g. completing marathon preparation in just a few weeks. Your cardiovascular system may already feel more resilient after just a few runs, while your muscles and joints are overtaxed. A lack of recovery can then quickly lead to injuries and forced training breaks.
 
-Doch auch erfahrene Läufer kennen solche Situationen. Ein beruflicher Termin verschiebt den langen Übungslauf oder eine Krankheit unterbricht die Trainingswoche. Wer dann ausgefallene Laufeinheiten nachholt, erhöht die Belastung zusätzlich.
+But experienced runners know these situations too. A work appointment pushes back the long training run, or an illness interrupts the training week. Anyone who then makes up for missed running sessions increases the strain even further.
 
-## Was ist ein Lauftrainingsplan?
+![Runners completing a session from their running training plan](lauftrainingsplan_training.png)
 
-Ein Lauftrainingsplan **ordnet Ihre Laufeinheiten über mehrere Wochen** und richtet sie auf ein persönliches Ziel aus, z. B. eine Marathon Vorbereitung. Sie legen darin fest, an welchen Tagen Sie trainieren, wie lange oder weit Sie laufen und welche Intensität für die jeweilige Einheit vorgesehen ist. Lockere Dauerläufe verbessern die Grundlagenausdauer, während Intervalltraining und Tempoläufe gezielte Leistungsreize setzen. Lange Läufe bereiten Sie auf längere Wettkampfdistanzen vor. Fest eingeplante Regenerationsphasen geben Ihrem Körper die notwendige Zeit, um die Belastung zu verarbeiten. Auf diese Weise entsteht ein **ausgewogener Wechsel zwischen Training und Erholung**. Statt spontan möglichst viele Kilometer zu sammeln, verfolgen Sie einen nachvollziehbaren Aufbau und wissen bei jeder Einheit, welchem Zweck sie dient.
+## What is a running training plan?
 
-## Was leistet ein guter Lauftrainingsplan?
+A running training plan **organizes your running sessions over several weeks** and aligns them with a personal goal, e.g. marathon preparation. In it, you determine which days you train, how long or how far you run and what intensity is planned for each session. Easy endurance runs improve your basic endurance, while interval training and tempo runs provide targeted performance stimuli. Long runs prepare you for longer race distances. Firmly scheduled recovery phases give your body the time it needs to process the strain. This creates a **balanced alternation between training and recovery**. Instead of spontaneously collecting as many kilometers as possible, you follow a comprehensible structure and know exactly what you want to achieve with every session.
 
-Ein guter Lauftrainingsplan orientiert sich an Ihrem aktuellen Leistungsstand, Ihrer verfügbaren Zeit und Ihrer bisherigen Trainingsbelastung. Sie sollten sich darin **realistische Ziele** setzen, mit denen Sie sich fordern, ohne sich dauerhaft zu überfordern. Dafür steigern Sie Dauer, Distanz und Intensität schrittweise und verteilen anstrengende Einheiten in Ihrem Laufplan so, dass dazwischen ausreichend Zeit zur Erholung bleibt. Zugleich bietet ein guter Trainingsplan genügend Spielraum für den Alltag. Wenn Krankheit, Müdigkeit oder Termine dazwischenkommen, können Sie einzelne Läufe verschieben, verkürzen oder streichen. Sie müssen ausgefallene Einheiten nicht um jeden Preis nachholen. Anhand **regelmäßiger Aufzeichnungen beurteilen Sie Ihre Belastung** und passen das weitere Training an.
+## What does a good running training plan achieve?
 
-## Wie setzen Sie sich realistische Trainingsziele?
+A good running training plan is based on your current fitness level, the time you have available and your previous training load. In it, you should set **realistic goals** that challenge you without permanently overtaxing you. To do this, you increase duration, distance and intensity step by step and distribute demanding sessions across your running plan so that there is enough time to recover in between. At the same time, a good training plan offers enough leeway for everyday life. If illness, fatigue or appointments get in the way, you can postpone, shorten or cancel individual runs. You do not have to make up for missed sessions at any cost. Based on **regular records, you can assess your training load over longer periods** and adjust your further training.
 
-Ein realistisches Trainingsziel passt zu Ihrer Lauferfahrung und lässt sich mit Ihrem Alltag vereinbaren. Wenn Sie gerade erst anfangen, können Sie zunächst 30 Minuten ohne längere Pause anstreben. Laufen Sie bereits regelmäßig fünf Kilometer, bietet sich eine 10 km Strecke als nächster Schritt an. Bevor Sie einen Trainingsplan für einen Halbmarathon oder einen Marathon Trainingsplan beginnen, ist eine **belastbare Grundlagenausdauer und eine längere Vorbereitungszeit** nötig.
+### How do you set realistic training goals?
 
-Formulieren Sie Ihr Ziel möglichst konkret und verbinden Sie es mit einem festen Zeitraum. Legen Sie außerdem fest, wie viele Trainingstermine Sie pro Woche zuverlässig einhalten können. Drei realistisch geplante Kurzstreckenläufe bringen Ihnen mehr als fünf Einheiten über lange Distanz, die regelmäßig ausfallen. Setzen Sie sich für erste Wettkämpfe besser niedrigschwellige Ziele. Bei Ihrem ersten Wettkampf darf ruhig das sichere Ankommen im Mittelpunkt stehen. Eine ambitionierte Zielzeit ist erst sinnvoll, wenn Ihre bisherigen Leistungen dafür eine verlässliche Grundlage bieten.
+A realistic training goal matches your running experience and can be reconciled with your everyday life. If you are just starting out, you can initially aim for 30 minutes without a longer break. If you already run five kilometers regularly, a 10K distance is a good next step. Before you begin a training plan for a half marathon or a marathon training plan, you need **solid basic endurance and a longer preparation period**.
 
-## Lauftraining für Anfänger realistisch planen
+![Female runner warming up – warm-up and recovery belong in every running plan](lauftraining_cooldown.png)
 
-Wer mit dem Laufen starten möchte, braucht keinen komplizierten Plan, sondern einen einfachen und verlässlichen Laufplan für Anfänger. Wichtig ist, dass Sie Ihr Lauftraining behutsam steigern und Ihrem Körper Zeit zur Anpassung geben. Viele Experten empfehlen einen Einstieg mit Intervallen aus kurzen Laufphasen und Gehpausen. So gewöhnen Sie Herz, Kreislauf und Bewegungsapparat an die neue Belastung, ohne sich zu überfordern.  
+Formulate your goal as concretely as possible and link it to a fixed period of time. Also determine how many training appointments you can reliably keep per week. Three realistically planned short-distance runs will get you further than five long-distance sessions that are regularly canceled. For your first races, it is better to set low-threshold goals. In your first competition, simply finishing safely can absolutely be the focus. An ambitious target time only makes sense once your previous performances provide a reliable basis for it.
 
-Ein typischer Laufplan für Anfänger sieht **zwei bis drei Einheiten pro Woche** vor. Zu Beginn laufen Sie zum Beispiel drei Minuten in ruhigem Tempo und gehen anschließend drei Minuten, dies mehrfach im Wechsel. Die Dauer der Laufabschnitte steigt von Woche zu Woche, während die Gehpausen kürzer werden. Zwischen den Trainingstagen sollte jeweils ein Ruhetag liegen, damit Muskeln und Sehnen sich erholen können.  
+## Planning running training realistically for beginners
 
-Begleiten Sie Ihr Einstiegstraining mit einem einfachen [Workout]({{< relref "templates/healthcare/personal-exercise-guide" >}}). **Leichte Übungen für Rumpf und Beine** stabilisieren Ihre Haltung und helfen dabei, typische Beschwerden im Knie oder Rücken zu vermeiden. Achten Sie außerdem auf passende Schuhe und eine lockere Geschwindigkeit. Wenn Sie sich während des Laufens noch unterhalten können, bewegen Sie sich meist in einem sinnvollen Belastungsbereich. Hören Sie auf Ihren Körper und gönnen Sie sich zusätzliche Pausen, wenn Müdigkeit oder muskuläre Schmerzen deutlich zunehmen.
+Anyone who wants to start running does not need a complicated plan, but a simple and reliable running plan for beginners. It is important that you increase your running training carefully and give your body time to adapt. Many experts recommend starting with intervals of short running phases and walking breaks. This way, you get your heart, circulation and musculoskeletal system used to the new strain without overtaxing yourself.
 
-## Wie ist ein effektiver Laufplan aufgebaut?
+A typical running plan for beginners provides for **two to three sessions per week**. At the beginning, for example, you run for three minutes at a calm pace and then walk for three minutes, alternating several times. The duration of the running sections increases from week to week, while the walking breaks become shorter. There should be a rest day between training days so that muscles and tendons can recover.
 
-Ein effektiver Laufplan verbindet drei zentrale Bausteine.
+Accompany your entry-level training with a simple [workout]({{< relref "templates/healthcare/personal-exercise-guide" >}}). **Light exercises for your core and legs** stabilize your posture and help you avoid typical complaints in the knee or back. Also make sure you have suitable shoes and a relaxed speed. If you can still hold a conversation while running, you are usually moving within a sensible exertion range. Listen to your body and treat yourself to additional breaks if fatigue or muscular pain increases noticeably.
 
-* Die **Grundlagenausdauer** bildet das Fundament Ihres Trainings. Sie entsteht vor allem durch ruhige Dauerläufe in einem Tempo, das sich leicht anfühlt. In diesem Bereich verbessern Sie Ihre allgemeine Fitness, stärken Herz und Kreislauf und bereiten Ihren Körper auf längere Belastungen vor. 
+## How is an effective running plan structured?
 
-+ Die **Intensität** ergänzt diese Basis. Sie umfasst zügige Dauerläufe, Tempoläufe und Intervalltraining. Ein durchdachter Plan enthält meist ein oder zwei intensive Einheiten pro Woche und trennt sie durch mehrere ruhige Tage. 
+An effective running plan combines three central building blocks.
 
-* **Regeneration** ist der dritte Baustein. Ruhetage, leichtere Wochen und ein wohldosiertes Cooldown nach dem Lauf geben Ihrem Körper Gelegenheit, Trainingsreize zu verarbeiten. Viele Ratgeber empfehlen nach einer Einheit mindestens 36 bis 48 Stunden Erholungszeit, bevor die nächste Belastung folgt. Dazu gehören ausreichend Schlaf, leichtes Dehnen nach dem Lauf und eine [ausgewogene Ernährung]({{< relref "posts/meal-prep" >}}).
+* **Basic endurance** forms the foundation of your training. It is built above all through calm endurance runs at a pace that feels easy. In this range, you improve your general fitness, strengthen your heart and circulation and prepare your body for longer periods of exertion.
 
-## Wettkampfvorbereitung mit System
++ **Intensity** complements this basis. It includes brisk endurance runs, tempo runs and interval training. A well-thought-out plan usually contains one or two intensive sessions per week and separates them with several calm days.
 
-Wer sich auf einen Wettkampf vorbereitet, braucht Struktur. Läuferinnen und Läufer, die bereits etwa 30 Minuten am Stück laufen können, ist ein Laufplan für 10 km ein sinnvoller erster Schritt. Der Plan kombiniert lockere Dauerläufe, einen längeren Lauf und gelegentlich ein Workout mit kurzen Tempoabschnitten oder Intervallen. Woche für Woche steigt vor allem die Länge des langen Laufs, während die übrigen Bausteine stabil bleiben. So bauen Sie Ihre Ausdauer kontrolliert auf.
+* **Recovery** is the third building block. Rest days, lighter weeks and a well-measured cooldown after your run give your body the opportunity to process training stimuli. Many guides recommend at least 36 to 48 hours of recovery time after a session before the next strain follows. This includes enough sleep, light stretching after your run and a [balanced diet]({{< relref "posts/meal-prep" >}}).
 
-### Halbmarathon-Vorbereitung
+![Runner at the marathon after preparing with a running plan](lauftrainingsplan_marathon.png)
 
-Ein Trainingsplan für einen Halbmarathon erweitert diesen Aufbau. Vor der eigentlichen Vorbereitung sollte eine solide Grundausdauer vorhanden sein, zum Beispiel mehrere ruhige Läufe pro Woche über mehrere Monate. In der eigentlichen **Trainingsphase von rund zehn bis vierzehn Wochen** stehen lange Läufe, lockere Einheiten und gezielte Abschnitte im geplanten Wettkampftempo im Mittelpunkt. Ergänzende Workouts mit Kraftübungen für Rumpf und Beine stabilisieren die Laufbewegung und unterstützen die Verletzungsprävention.
+## Systematic race preparation
 
-### Marathon-Trainingsplan
+Anyone preparing for a race needs structure. For runners who can already run for around 30 minutes at a stretch, a running plan for 10K is a sensible first step. The plan combines easy endurance runs, one longer run and occasionally a workout with short tempo sections or intervals. Week by week, it is above all the length of the long run that increases, while the other building blocks remain stable. This way, you build up your endurance in a controlled manner.
 
-Die Marathon-Vorbereitung unterscheidet sich von anderen Lauftrainingsplänen vor allem durch den Umfang. Ein klassischer Marathon Trainingsplan umfasst in der direkten Wettkampfphase oft zwölf bis achtzehn Wochen. Er kombiniert lange Läufe, ruhige Dauerläufe, wenige intensive Einheiten und gezielte Regenerationsphasen. Die langen Läufe werden über viele Wochen hinweg ausgedehnt, bevor der Umfang kurz vor dem Rennen wieder deutlich sinkt. Parallel dazu testen Sie im Training Ihre Verpflegung und Ihre richtige Ernährung, zum Beispiel Energiezufuhr über Gels, Getränke und leicht verdauliche Snacks.
+### Half marathon preparation
 
-## Intensität sinnvoll steuern: Smarte Hilfsmittel integrieren
+A training plan for a half marathon builds on this basic training. Before the actual preparation, solid basic endurance should be in place, for example several calm runs per week over several months. The actual **training phase of around ten to fourteen weeks** focuses on long runs, easy sessions and targeted sections at the planned race pace. Supplementary workouts with strength exercises for the core and legs stabilize your running motion and support injury prevention.
 
-Wie bei jedem Training ist es auch beim Lauftraining sehr wichtig, dass Sie Ihren Kreislauf und Ihre Muskulatur nicht überfordern und bewusst wahrnehmen, wie Ihr Körper auf eine Trainingseinheit reagiert. Dafür können Sie auf zahlreiche Hilfsmittel zurückgreifen, von einfachen Pulsmessern bis zu ausgeklügelten **Fitness-Apps und Sportuhren**. Je nach Modell zeichnen Sie damit Pace, Distanz, Höhenmeter, Schrittfrequenz und Herzfrequenz auf. Wenn Sie dieser Werte strukturiert erfassen, können Sie nicht bloß Ihren Trainingsfortschrit erfassen, sondern auch Ihr Verletzungsrisiko minimieren. Manche Fitness-Tracker erlauben einen Datenexport als Excel- oder CSV-Datei, so dass Sie Ihre **Fitnesswerte direkt in Ihren digitalen Lauftrainingsplan importieren** können.
+### Marathon training plan
 
-Für die Verletzungsprävention ist es wichtig, Ihre Laufeinheiten in Belastungsstufen einzuteilen und ausreichend Regenarationsphasen einzuplanen. Lockere Läufe absolvieren Sie in einem Tempo, bei dem ein Gespräch möglich bleibt. Zügige Dauerläufe fühlen sich kontrolliert an, verlangen aber Konzentration. Bei Intervallen steigt die Belastung deutlich und die Erholungspausen gehören fest zur Einheit. Wenn Sie nach Herzfrequenzbereichen trainieren, sollten Sie Ihre **persönliche maximale Herzfrequenz** möglichst zuverlässig bestimmen, statt sich nur auf eine allgemeine Altersformel zu verlassen.
+Marathon preparation differs from other running training plans above all in its volume. In the direct race phase, a classic marathon training plan often covers twelve to eighteen weeks. It combines long runs, calm endurance runs, few intensive sessions and targeted recovery phases. The long runs are extended over many weeks before the volume drops significantly again shortly before the race.
 
-## Typische Fehler vermeiden: Warum scheitern Laufpläne häufig?
+## Managing intensity sensibly: integrating smart tools
 
-Laufpläne scheitern häufig, wenn Umfang und Intensität gleichzeitig steigen und ausgefallene Einheiten dicht hintereinander nachgeholt werden. Oft werden Wettkampfvorbereitungszeiten zu knapp bemessen. Wenn zum Beispiel der Trainingsplan für einen Halbmarathon nur vier oder sechs Wochen umfasst, sind Verletzungen nahezu vorprogrammiert. Zu den typischen Fehlern gehören:
+As with any training, it is very important in running training that you do not overtax your circulation and your muscles. Consciously notice how your body reacts to a training session. There are numerous tools you can use for this, from simple heart rate monitors to sophisticated **fitness apps and sports watches**. Depending on the model, you can use them to record pace, distance, elevation gain, cadence and heart rate. If you record these values in a structured way, you can not only measure your training progress but also minimize your risk of injury. Some fitness trackers allow you to export data as an Excel or CSV file, so that you can **import your fitness values directly into your digital running training plan**.
 
-*   Zu viel auf einmal: Statt den langen Lauf zu verlängern, die Wochenkilometer zu erhöhen und zusätzlich harte Intervalle einzubauen, sollten Sie immer nur eine Stellschraube verändern und Ihrem Körper Zeit zur Anpassung geben.
-    
-*   Warnsignale ignorieren: Anhaltende Müdigkeit, Schlafprobleme, stechende Schmerzen oder ein deutlicher Leistungseinbruch sind wichtige Signale Ihres Körpers, die auf eine Überlastung hindeuten.
-    
-*   Starre Pläne: Kurzfristige Termine oder Krankheiten gehören zur Alltagsrealität und Sie sollten Ihren Laufplan flexibel anpassen können.
-    
-*   Keine einheitliche Struktur: Für einen langfristigen Trainingseffekt sollten Sie alle relevanten Informationen zentral sammeln, statt zwischen Ihrem Plan und Fitness-Apps wechseln zu müssen.
-    
+![A female runner checks her sports watch](lauftraining_fitness_tracker.png)
 
-## Lauftraining mit SeaTable strukturiert planen
+For injury prevention, it is important to divide your running sessions into exertion levels and to schedule enough recovery phases. You complete easy runs at a pace at which a conversation is still possible. Brisk endurance runs feel controlled but require concentration. During intervals, the strain increases significantly and the recovery breaks are a fixed part of the session. If you train according to heart rate zones, you should determine your **personal maximum heart rate** as reliably as possible instead of relying only on a general age formula.
 
-SeaTable ist eine **KI No-Code-Lösung**, mit der Sie strukturiert Daten und Texte erfassen und eine eigene Laufplan-App erstellen können. Sie können unsere Laufplan-Vorlage völlig flexibel an Ihre individuellen Vorstellungen und Ziele anpassen und Daten aus Fitness-Apps über einen CSV-Import hinzufügen. Sie können Ihren Lauftrainingsplan dauerhaft kostenlos in der [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen und jederzeit geräteunabhängig online darauf zugreifen.
+## Avoiding typical mistakes: why do running plans often fail?
 
-## FAQ – Lauftrainingsplan
+Running plans often fail when volume and intensity increase at the same time and missed sessions are made up in quick succession. Race preparation times are often set too tight. If, for example, the training plan for a half marathon only covers four or six weeks, injuries are practically inevitable. Typical mistakes include:
 
-{{< faq "Wie oft sollten Laufanfänger pro Woche trainieren?">}}
-Ein Lauftraining für Anfänger sollte anfangs nicht mehr als zwei bis drei Trainingseinheiten pro Woche beinhalten. Achten Sie darauf, zwischen den Lauftagen immer einen Pausentag einzuplanen, damit sich Muskeln, Sehnen, Gelenke und Kreislauf an die neue Belastung gewöhnen können. Beginnen Sie mit Intervallläufen und steigern Sie nach und nach die Laufdauer und erst danach das Tempo.
+*   **Too much at once**: instead of extending the long run, increasing your weekly kilometers and additionally adding hard intervals, you should always change only one variable and give your body time to adapt.
+
+*   **Ignoring warning signals**: persistent fatigue, sleep problems, stabbing pain or a clear drop in performance are important signals from your body that indicate overload.
+
+*   **Rigid plans**: short-notice appointments or illnesses are part of everyday reality, and you should be able to adapt your running plan flexibly.
+
+*   **No consistent structure**: for a long-term training effect, you should collect all relevant information in one central place instead of having to switch between your plan and various fitness apps.
+
+## Planning running training in a structured way with SeaTable
+
+SeaTable is an **AI no-code solution** that lets you record data and text in a structured way and build your own running plan app. Our running plan template can be adapted completely flexibly to your individual ideas and goals. You add data from fitness apps via a CSV import. You can use your running training plan permanently free of charge in the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and access it online at any time, regardless of your device.
+
+{{< template-box id="4684f7bd6fc9498196ff" >}}
+
+## FAQ – Running training plan
+
+{{< faq "How often should running beginners train per week?">}}
+Running training for beginners should initially involve no more than two to three training sessions per week. Make sure you always schedule a rest day between running days so that muscles, tendons, joints and your circulation can get used to the new strain. Start with interval runs and gradually increase the duration of your runs, and only then the pace.
 {{< /faq >}}
 
-{{< faq "Wie lange dauert die Vorbereitung auf 10 km, Halbmarathon oder Marathon?">}}
-Die passende Vorbereitungszeit hängt von Ihrer aktuellen Fitness ab. Wenn Sie mit Joggen anfangen, ohne Kondition für einen längeren Lauf über mehrere Kilometer zu besitzen, sollten Sie in Ihrem Laufplan für 10 km mehrere Wochen regelmäßiges Training einplanen. Ein Trainingsplan für einen Halbmarathon umfasst häufig zehn bis 14 Wochen, wenn bereits Grundausdauer vorhanden ist. Für einen Marathon Trainingsplan sollten Sie zwölf bis 18 Wochen einplanen. Wichtig ist immer, dass Ihre Zeitplanung realistisch ist und Sie kein Zieldatum setzen, das Sie zu schnellen Leistungssteigerungen zwingt. Wenn Sie einen Trainingsplan zum Laufen als Anfänger erstellen, reicht auch ein ungefähres Zieldatum.
+{{< faq "How long does preparation for a 10K, half marathon or marathon take?">}}
+The right preparation time depends on your current fitness. If you are starting to jog without the stamina for a longer run over several kilometers, you should plan several weeks of regular training in your running plan for 10K. A training plan for a half marathon often covers ten to 14 weeks if basic endurance is already in place. For a marathon training plan, you should allow twelve to 18 weeks. It is always important that your scheduling is realistic and that you do not set a target date that forces you into rapid performance increases. If you are creating a running training plan as a beginner, an approximate target date is also enough.
 {{< /faq >}}
 
-{{< faq "Was mache ich, wenn eine Trainingseinheit ausfällt">}}
-Wenn ein Lauftraining ausfällt, dann streichen Sie die Einheit einfach, statt zu versuchen, es in einer ohnehin vollen Woche nachzuholen. Insbesondere nach einer Krankheit oder einer längeren Pause sollten Sie langsam wieder einsteigen und Ihre weiteren Trainingseinheiten entsprechend anpassen. Ein flexibler Lauftrainingsplan lässt sich problemlos neu ordnen, ohne dass Sie gleich den ganzen Trainingsblock verwerfen müssen. Insbesondere in einem Laufplan für Anfänger sollten Sie eher weniger Einheiten planen und ausgefallene Trainings streichen.
+{{< faq "What do I do if a training session is canceled?">}}
+If a running session is canceled, simply drop the session instead of trying to make it up in a week that is already full. Especially after an illness or a longer break, you should ease back in slowly and adjust your further training sessions accordingly. A flexible running training plan can easily be rearranged without you having to discard the entire training block. In a running plan for beginners in particular, you should plan fewer sessions and drop missed workouts.
 {{< /faq >}}
 
-{{< faq "Welche Daten sollte ich nach einem Lauftraining in meinen Lauftrainingsplan übertragen?">}}
-Wenn Sie beim Lauftraining einen Pulsmesser, eine Sportuhr oder eine Smartwatch mit Fitness-App tragen, erfassen Sie Distanz, Dauer, Pace und Herzfrequenz. Notieren Sie bei Bedarf noch zusätzliche Besonderheiten wie das Wetter oder Schmerzen. Viele Sportuhren und Fitness-Apps wie Apple Health oder Garmin bieten einen Datenexport als CSV-Datei an, die Sie in der Regel problemlos in Lauftraingsplan-Vorlagen importieren können. Gerade als Joggen Anfänger sind solche Daten hilfreich, um die eigene Belastungsgrenze kennenzulernen.
+{{< faq "Which data should I transfer to my running training plan after a running session?">}}
+If you wear a heart rate monitor, a sports watch or a smartwatch with a fitness app during running training, you record distance, duration, pace and heart rate. If necessary, also note additional particularities such as the weather or pain. Many sports watches and fitness apps such as Apple Health or Garmin offer a data export as a CSV file, which you can usually import into running training plan templates without any problems. Especially as a jogging beginner, such data is helpful for getting to know your own exertion limit.
 {{< /faq >}}
 
-{{< faq "Sollte ich mein Lauftraining nach Pace oder Herzfrequenzbereich steuern?" >}}
-Das hängt von Ihrem Training ab. Bei lockeren Läufen zeigen die Herzfrequenzbereiche, wie stark Ihr Körper tatsächlich arbeitet. Tempoeinheiten und Intervallläufe steuern Sie besser über die Pace, weil Ihr Puls verzögert auf Belastungswechsel reagiert. Auch wenn Sie ein Joggen Anfänger sind, kann es sinnvoll sein, sich zunächst an der Herzfrequenz zu orientieren.
+{{< faq "Should I manage my running training by pace or heart rate zone?" >}}
+That depends on your training. During easy runs, heart rate zones show how hard your body is actually working. It is better to manage tempo sessions and interval runs by pace, because your pulse reacts with a delay to changes in exertion. Even if you are a jogging beginner, it can make sense to orient yourself by heart rate at first.
 {{< /faq >}}
 
-{{< faq "Wie erkenne ich Fortschritte beim Lauftraining?" >}}
-Trainingserfolge lassen sich nicht alleine an Bestzeiten oder gelaufenen Distanzen festmachen. Gerade wenn Sie Joggen anfangen, ohne Kondition zu besitzen, oder nachhaltige Trainingserfolge erzielen möchten, müssen Sie mehrere Werte betrachten. Eine niedrigere Herzfrequenz bei gleicher Pace, längere lockere Läufe oder eine schnellere Erholung nach intensiven Trainings sind Zeichen für eine positive Entwicklung. Doch auch Ihr subjektives Belastungsgefühl ist ein guter Gradmesser, gerade als Joggen Anfänger.
+{{< faq "How do I recognize progress in my running training?" >}}
+Training success cannot be measured by personal bests or distances run alone. Especially if you are starting to jog without any stamina, or if you want to achieve sustainable training results, you need to look at several values. A lower heart rate at the same pace, longer easy runs or a faster recovery after intensive sessions are signs of a positive development. But your subjective feeling of exertion is also a good yardstick, especially as a jogging beginner.
 {{< /faq >}}
