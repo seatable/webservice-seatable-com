@@ -19,6 +19,10 @@ Cet article explique comment configurer un compte de messagerie **GMX** ou **WEB
 
 {{< warning headline="Procédure identique pour GMX et WEB.DE" text="**GMX** et **WEB.DE** sont des offres du fournisseur de télécommunications allemand 1&1. La procédure d'intégration d'un compte e-mail dans une SeaTable Base est démontrée dans cet article d'aide en prenant l'exemple de GMX. Si vous souhaitez utiliser un compte WEB.DE, suivez les instructions de la même manière. L'étape préparatoire doit être effectuée dans les paramètres du compte WEB.DE." />}}
 
+**Dans ce tutoriel vidéo, nous vous montrons comment configurer votre compte de messagerie dans SeaTable (avec des sous-titres en français).**
+
+{{< youtube 5AcQzZiwCx0 >}}
+
 ## Autoriser la récupération POP3/IMAP
 
 Par défaut, les comptes GMX et WEB.DE ne peuvent être utilisés que via les webmails ou les applications des deux fournisseurs. La consultation et l'envoi d'e-mails avec un programme tiers comme Outlook, Thunderbird et aussi SeaTable doivent être explicitement autorisés. Vous faites cela dans les paramètres de votre compte.

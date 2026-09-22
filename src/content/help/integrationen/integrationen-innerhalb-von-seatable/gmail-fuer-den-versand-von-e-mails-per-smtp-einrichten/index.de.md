@@ -15,6 +15,10 @@ seo:
 
 {{< warning headline="Google Workspace Konten" text="Diese Anleitung erklärt das Vorgehen anhand eines einfachen Gmail Kontos. Das hier beschriebene Vorgehen gilt aber genauso für Google Workspace Konten. Sollten Sie ein Workspace Konto haben, müssen Sie nur sicherstellen, dass die 2-Schritt-Verifizierung aktiviert ist." />}}
 
+**In diesem How-To-Video zeigen wir Ihnen, wie Sie Ihren Gmail-Account in SeaTable einrichten.**
+
+{{< youtube WoM2-QUHEdY >}}
+
 ## Authentifizierung mittels App-Passwort
 
 Ein [App-Passwort](https://support.google.com/accounts/answer/185833?hl=de) ist ein 16-stelliger Sicherheitscode, mit dem sich Apps oder Geräte gegenüber Google authentifizieren können und dadurch Zugriff auf das Gmail Konto erhalten. App-Passwörter können Sie in Ihrem [Google Konto](https://myaccount.google.com/) erstellen. App-Passwörter können nur für Konten verwendet werden, bei denen die 2‑Faktor-Authentifizierung aktiviert ist.

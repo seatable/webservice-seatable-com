@@ -19,6 +19,10 @@ Este artículo explica cómo configurar una cuenta de correo electrónico **GMX*
 
 {{< warning headline="Procedimiento idéntico para GMX y WEB.DE" text="**GMX** y **WEB.DE** son ofertas del proveedor de telecomunicaciones alemán 1&1. El procedimiento para integrar una cuenta de correo electrónico en una SeaTable Base se muestra en este artículo de ayuda utilizando GMX como ejemplo. Si desea utilizar una cuenta WEB.DE, siga las instrucciones del mismo modo. El paso preparatorio debe realizarse en la configuración de la cuenta WEB.DE." />}}
 
+**En este video tutorial, le mostraremos cómo configurar su cuenta de correo electrónico en SeaTable (con subtítulos en español).**
+
+{{< youtube 5AcQzZiwCx0 >}}
+
 ## Permitir la recuperación POP3/IMAP
 
 Por defecto, las cuentas GMX y WEB.DE sólo pueden utilizarse a través de los webmailers o apps de los dos proveedores. La recuperación y el envío de correos electrónicos con un programa de terceros como Outlook, Thunderbird y SeaTable deben aprobarse explícitamente. Puede hacerlo en la configuración de su cuenta.

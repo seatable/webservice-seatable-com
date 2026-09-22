@@ -17,6 +17,9 @@ seo:
 
 {{< warning headline="Comptes Google Workspace" text="Ces instructions expliquent la procédure à suivre à l'aide d'un simple compte Gmail. Toutefois, la procédure décrite ici s'applique également aux comptes Google Workspace. Si vous avez un compte Workspace, il vous suffit de vous assurer que la vérification en deux étapes est activée." />}}
 
+**Dans cette vidéo explicative, nous vous montrerons comment configurer votre compte Gmail dans SeaTable (avec sous-titres en français).**
+{{< youtube p_jyn7y7uXk >}}
+
 ## Authentification par mot de passe d'application
 
 Un [mot de passe d'application](https://support.google.com/accounts/answer/185833?hl=de) est un code de sécurité à 16 chiffres qui permet aux applications ou aux appareils de s'authentifier auprès de Google et d'accéder ainsi à votre compte Gmail. Vous pouvez créer des mots de passe d'application dans votre [compte Google](https://myaccount.google.com/). Les mots de passe d'application ne peuvent être utilisés que pour les comptes pour lesquels la validation en deux étapes est activée.

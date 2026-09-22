@@ -19,6 +19,10 @@ This article explains how to set up a **GMX** or **WEB.DE** e-mail account in a 
 
 {{< warning headline="Identical procedure for GMX and WEB.DE" text="**GMX** and **WEB.DE** are offers from the German telecommunications provider 1&1. The procedure for integrating an email account in a SeaTable base is demonstrated in this help article using GMX as an example. If you want to use a WEB.DE account, follow the instructions in the same way. The preparatory step must be carried out in the WEB.DE account settings." />}}
 
+**In this how-to video, we'll show you how to set up your email account in SeaTable.**
+
+{{< youtube 5AcQzZiwCx0 >}}
+
 ## Allow POP3/IMAP retrieval
 
 By default, GMX and WEB.DE accounts can only be used via the webmailers or apps of the two providers. The retrieval and sending of emails with a third-party program such as Outlook, Thunderbird and SeaTable must be explicitly approved. You can do this in your account settings.
