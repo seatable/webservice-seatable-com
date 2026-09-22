@@ -17,6 +17,9 @@ O **Gmail**, o popular serviço de correio eletrónico da Google, pode ser utili
 
 {{< warning headline="Contas do Google Workspace" text="Estas instruções explicam o procedimento utilizando uma conta simples do Gmail. No entanto, o procedimento aqui descrito também se aplica às contas do Google Workspace. Se tiver uma conta do Workspace, só tem de se certificar de que a verificação em duas etapas está activada." />}}
 
+**Neste vídeo explicativo, mostraremos como configurar sua conta do Gmail no SeaTable (com legendas em português).**
+{{< youtube p_jyn7y7uXk >}}
+
 ## Autenticação através da palavra-passe da aplicação
 
 Uma [palavra-passe de aplicação](https://support.google.com/accounts/answer/185833?hl=de) é um código de segurança de 16 dígitos que as aplicações ou dispositivos podem utilizar para se autenticarem junto da Google e, assim, obterem acesso à sua conta Gmail. Pode criar palavras-passe de aplicações na sua [conta Google](https://myaccount.google.com/). As palavras-passe de aplicações só podem ser utilizadas em contas que tenham a autenticação de dois factores activada.

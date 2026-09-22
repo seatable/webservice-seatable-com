@@ -19,6 +19,10 @@ Este artigo explica como configurar uma conta de correio eletrónico **GMX** ou 
 
 {{< warning headline="Procedimento idêntico para GMX e WEB.DE" text="**GMX** e **WEB.DE** são ofertas do fornecedor de telecomunicações alemão 1&1. O procedimento para integrar uma conta de correio eletrónico num SeaTable Base é demonstrado neste artigo de ajuda utilizando o GMX como exemplo. Se pretender utilizar uma conta WEB.DE, siga as instruções da mesma forma. O passo preparatório deve ser efectuado nas definições da conta WEB.DE." />}}
 
+**Neste vídeo tutorial, mostraremos como configurar sua conta de e-mail no SeaTable (com legendas em português).**
+
+{{< youtube 5AcQzZiwCx0 >}}
+
 ## Permitir a recuperação de POP3/IMAP
 
 Por defeito, as contas GMX e WEB.DE só podem ser utilizadas através dos webmailers ou das aplicações dos dois fornecedores. A recuperação e o envio de mensagens de correio eletrónico com um programa de terceiros, como o Outlook, o Thunderbird e o SeaTable, têm de ser explicitamente aprovados. Pode fazê-lo nas definições da sua conta.

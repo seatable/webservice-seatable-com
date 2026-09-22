@@ -17,6 +17,9 @@ seo:
 
 {{< warning headline="Cuentas de Google Workspace" text="Estas instrucciones explican el procedimiento utilizando una cuenta sencilla de Gmail. Sin embargo, el procedimiento aquí descrito también se aplica a las cuentas de Google Workspace. Si tienes una cuenta de Workspace, solo tienes que asegurarte de que la verificación en dos pasos está activada." />}}
 
+**En este video explicativo, le mostraremos cómo configurar su cuenta de Gmail en SeaTable (con subtítulos en español).**
+{{< youtube p_jyn7y7uXk >}}
+
 ## Autenticación mediante contraseña de aplicación
 
 Una [contraseña](https://support.google.com/accounts/answer/185833?hl=de) de [aplicación](https://support.google.com/accounts/answer/185833?hl=de) es un código de seguridad de 16 dígitos que las aplicaciones o los dispositivos pueden utilizar para autenticarse ante Google y, de este modo, obtener acceso a tu cuenta de Gmail. Puedes crear contraseñas de aplicaciones en tu [cuenta de Google](https://myaccount.google.com/). Las contraseñas de aplicaciones solo se pueden utilizar en cuentas que tengan habilitada la autenticación de dos factores.
