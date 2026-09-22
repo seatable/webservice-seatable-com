@@ -17,6 +17,10 @@ Dieser Artikel erklärt, wie Sie ein **GMX** oder **WEB.DE** E-Mail-Konto in ein
 
 {{< warning headline="Identisches Vorgehen bei GMX und WEB.DE" text="**GMX** und **WEB.DE** sind Angebote des deutschen Telekommunikationsanbieters 1&1. Das Vorgehen zur Integration eines E-Mail-Kontos in einer SeaTable Base wird in diesem Hilfeartikel am Beispiel von GMX demonstriert. Wenn Sie ein WEB.DE Konto verwenden wollen, dann folgen Sie der Anleitung analog. Der vorbereitende Schritt muss in den Kontoeinstellungen von WEB.DE erfolgen." />}}
 
+**In diesem How-To-Video zeigen wir Ihnen, wie Sie Ihren E-Mail-Account in SeaTable einrichten.**
+
+{{< youtube 7KOWB54vx34 >}}
+
 ## POP3/IMAP Abruf erlauben
 
 GMX und WEB.DE Konten können standardmäßig nur über die Webmailer oder die Apps der beiden Anbieter verwendet werden. Der Abruf und Versand von E-Mails mit einem Drittanbieterprogramm wie Outlook, Thunderbird und auch SeaTable muss explizit genehmigt werden. Dies machen Sie in den Einstellungen Ihres Kontos.
