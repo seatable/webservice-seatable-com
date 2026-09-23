@@ -106,7 +106,7 @@ Laufpläne scheitern häufig, wenn Umfang und Intensität gleichzeitig steigen u
 
 ## Lauftraining mit SeaTable strukturiert planen
 
-SeaTable ist eine **KI No-Code-Lösung**, mit der Sie strukturiert Daten und Texte erfassen und eine eigene Laufplan-App erstellen können. Unsere Laufplan-Vorlage lässt sich völlig flexibel an Ihre individuellen Vorstellungen und Ziele anpassen. Daten aus Fitness-Apps fügen Sie über einen CSV-Import hinzu. Sie können Ihren Lauftrainingsplan dauerhaft kostenlos in der [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen und jederzeit geräteunabhängig online darauf zugreifen.
+SeaTable ist eine **KI No-Code-Lösung**, mit der Sie strukturiert Daten und Texte erfassen und eine eigene Laufplan-App erstellen können. Unsere [Laufplan-Vorlage]({{< relref "templates/healthcare/running-plan" >}}) lässt sich völlig flexibel an Ihre individuellen Vorstellungen und Ziele anpassen. Daten aus Fitness-Apps fügen Sie über einen CSV-Import hinzu. Sie können Ihren Lauftrainingsplan dauerhaft kostenlos in der [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen und jederzeit geräteunabhängig online darauf zugreifen.
 
 {{< template-box id="4684f7bd6fc9498196ff" >}}
 

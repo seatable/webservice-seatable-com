@@ -14,8 +14,8 @@ type: pages
 sections:
     - name: hero-5
       weight: 1
-      title: 'Digitale Laufplan Vorlage für strukturiertes Lauftraining'
-      text: 'Starre Laufplan-Tabellen oder PDF-Vorlagen lassen sich kaum an Ihren Alltag, Krankheitstage oder Ihr persönliches Tempo anpassen. Die Folge: Trainingsfortschritte bleiben unsichtbar, die Motivation sinkt, und Sie verlieren den Überblick über Distanzen, Pace und Ruhetage. Mit unserer flexiblen Laufplan Vorlage in SeaTable dokumentieren Sie Ihr Lauftraining strukturiert, importieren relevante Lauf- und Vitalwerte direkt aus Ihrer Sportuhr oder Fitness-App und passen Ihren individuellen Laufplan jederzeit an – egal ob Sie Anfänger sind oder auf dem Weg zum Halbmarathon. Mit dieser DSGVO-konformen Cloud-Vorlage behalten Sie Ziele, Regeneration und Trainingseinheiten im Blick.'
+      title: 'Digitale Laufplan-Vorlage für strukturiertes Lauftraining'
+      text: 'Starre Laufplan-Tabellen oder PDF-Vorlagen lassen sich kaum an Ihren Alltag, Krankheitstage oder Ihr persönliches Tempo anpassen. Die Folge: Trainingsfortschritte bleiben unsichtbar, die Motivation sinkt, und Sie verlieren den Überblick über Distanzen, Pace und Ruhetage. Mit unserer flexiblen Laufplan-Vorlage in SeaTable dokumentieren Sie Ihr Lauftraining strukturiert, importieren relevante Lauf- und Vitalwerte direkt aus Ihrer Sportuhr oder Fitness-App und passen Ihren individuellen Laufplan jederzeit an – egal ob Sie Anfänger sind oder auf dem Weg zum Halbmarathon. Mit dieser DSGVO-konformen Cloud-Vorlage behalten Sie Ziele, Regeneration und Trainingseinheiten im Blick.'
       classes:
           - bg-white
       template: '4684f7bd6fc9498196ff'
@@ -35,7 +35,7 @@ sections:
           text: 'Für Anfänger und Fortgeschrittene, um das Lauftraining individuell und flexibel zu strukturieren und Fortschritte sichtbar zu machen.'
         - icon: 'bars'
           headline: 'Klares Trainingslogbuch'
-          text: 'Erfassen Sie Distanz, Pace, Herzfrequenz Laufzeit mit wenigen Klicks in einer zentralen, strukturierten Übersicht, statt in verstreuten Notizen.'
+          text: 'Erfassen Sie Distanz, Pace, Herzfrequenz und Laufzeit mit wenigen Klicks in einer zentralen, strukturierten Übersicht, statt in verstreuten Notizen.'
         - icon: 'chart-line'
           headline: 'Fortschritte visualisieren'
           text: 'Nutzen Sie Dashboards und Grafiken, um zum Beispiel Plan-Ist-Pensum, durchschnittliche Trainingsdistanzen oder Pace-Entwicklung auf einen Blick auszuwerten.'
@@ -47,7 +47,7 @@ sections:
           text: 'Greifen Sie jederzeit per Smartphone auf Ihren Laufplan zu und planen Sie neue Laufeinheiten oder analysieren Sie Vitalwerte und Trainingsfortschritte.'
         - icon: 'up-right-and-down-left-from-center'
           headline: 'Smartwatch-Import'
-          text: 'Importieren Sie Laufdaten und Vitalwerte aus Sportuhren oder Fitness-Apps wie aus Garmin, Strava oder Apple Health direkt in Ihren Trainingsplan Logbuch.'
+          text: 'Importieren Sie Laufdaten und Vitalwerte aus Sportuhren oder Fitness-Apps wie Garmin, Strava oder Apple Health direkt in Ihr Trainingsplan-Logbuch.'
 
     - name: "customer-1"
       weight: 4
@@ -98,7 +98,7 @@ sections:
         image: '/images/template_page_running_plan_03.png'
         image_alt: 'Laufplan-Vorlage mit geplanten Trainingswochen'
       - headline: 'Trainingseinheiten im Kalender im Blick'
-        text: 'Jede geplante Einheit, vom lockeren Lauf bis zum Intervalltraining, wird mit Zieldistanz, Pace und Pulsbereich erfasst und mit der erfüllenden Aktivität verknüpft. Eine Kalenderansicht zeigt Ihre Trainingswoche auf einen Blick und macht aus Ihrem Laufplan einen [Habit Tracker]({{< relref "posts/habit-tracker" >}}).'
+        text: 'Jede geplante Einheit, vom lockeren Lauf bis zum Intervalltraining, wird mit Zieldistanz, Pace und Pulsbereich erfasst und mit der entsprechenden Aktivität verknüpft. Eine Kalenderansicht zeigt Ihre Trainingswoche auf einen Blick und macht aus Ihrem Laufplan einen [Habit Tracker]({{< relref "posts/habit-tracker" >}}).'
         image: '/images/template_page_running_plan_04.png'
         image_alt: 'Kalenderansicht mit geplanten Trainingseinheiten im Laufplan'
       - headline: 'Aktivitäten aus jeder Smartwatch importieren'
@@ -120,9 +120,9 @@ sections:
 
     - name: "banner-3"
       weight: 15
-      title: 'Bleiben Sie motiviert vom ersten Kilometer an – mit der Laufplan Vorlage von SeaTable'
+      title: 'Bleiben Sie motiviert vom ersten Kilometer an – mit der Laufplan-Vorlage von SeaTable'
       buttons:
-        - label: Jetzt die Laufplan Vorlage nutzen
+        - label: Jetzt die Laufplan-Vorlage nutzen
           link: pages/registration
           id: de-vorlage-laufplan-registration-2
 
@@ -156,7 +156,7 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Laufplan Vorlage für Ihr Training'
+      title: 'Laufplan-Vorlage für Ihr Training'
       subtitle: 'Struktur, Klarheit und Motivation'
       description: 'Vom Laufplan für Anfänger bis zur Vorbereitung auf einen Halbmarathon bietet SeaTable alle Funktionen für einen professionellen Laufplan, mit Nachvollziehbarkeit und individueller Anpassung bei höchstem Datenschutz.'
       box-position: [right!]

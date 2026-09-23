@@ -103,7 +103,7 @@ Running plans often fail when volume and intensity increase at the same time and
 
 ## Planning running training in a structured way with SeaTable
 
-SeaTable is an **AI no-code solution** that lets you record data and text in a structured way and build your own running plan app. Our running plan template can be adapted completely flexibly to your individual ideas and goals. You add data from fitness apps via a CSV import. You can use your running training plan permanently free of charge in the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and access it online at any time, regardless of your device.
+SeaTable is an **AI no-code solution** that lets you record data and text in a structured way and build your own running plan app. Our [running plan template]({{< relref "templates/healthcare/running-plan" >}}) can be adapted completely flexibly to your individual ideas and goals. You add data from fitness apps via a CSV import. You can use your running training plan permanently free of charge in the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and access it online at any time, regardless of your device.
 
 {{< template-box id="4684f7bd6fc9498196ff" >}}
 

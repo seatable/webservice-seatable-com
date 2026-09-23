@@ -103,7 +103,7 @@ Les plans de course échouent souvent lorsque le volume et l'intensité augmente
 
 ## Planifier son entraînement de course à pied de manière structurée avec SeaTable
 
-SeaTable est une **solution no-code avec IA** qui vous permet de saisir données et textes de manière structurée et de créer votre propre application de plan de course. Notre modèle de plan de course s'adapte en toute souplesse à vos idées et objectifs personnels. Vous ajoutez les données issues des applications de fitness via un import CSV. Vous pouvez utiliser votre plan d'entraînement de course à pied gratuitement et de façon permanente dans le [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) et y accéder en ligne à tout moment, quel que soit votre appareil.
+SeaTable est une **solution no-code avec IA** qui vous permet de saisir données et textes de manière structurée et de créer votre propre application de plan de course. Notre [modèle de plan de course]({{< relref "templates/healthcare/running-plan" >}}) s'adapte en toute souplesse à vos idées et objectifs personnels. Vous ajoutez les données issues des applications de fitness via un import CSV. Vous pouvez utiliser votre plan d'entraînement de course à pied gratuitement et de façon permanente dans le [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) et y accéder en ligne à tout moment, quel que soit votre appareil.
 
 {{< template-box id="4684f7bd6fc9498196ff" >}}
 
