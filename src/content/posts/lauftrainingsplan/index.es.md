@@ -103,7 +103,7 @@ Los planes de carrera fracasan a menudo cuando el volumen y la intensidad aument
 
 ## Planificar el entrenamiento de running de forma estructurada con SeaTable
 
-SeaTable es una **solución no-code con IA** con la que puede registrar datos y textos de forma estructurada y crear su propia aplicación de plan de carrera. Nuestra plantilla de plan de carrera se puede adaptar con total flexibilidad a sus ideas y objetivos individuales. Los datos de las aplicaciones de fitness los añade mediante una importación CSV. Puede utilizar su plan de entrenamiento de running de forma gratuita y permanente en la [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) y acceder a él en línea en cualquier momento, con independencia del dispositivo.
+SeaTable es una **solución no-code con IA** con la que puede registrar datos y textos de forma estructurada y crear su propia aplicación de plan de carrera. Nuestra [plantilla de plan de carrera]({{< relref "templates/healthcare/running-plan" >}}) se puede adaptar con total flexibilidad a sus ideas y objetivos individuales. Los datos de las aplicaciones de fitness los añade mediante una importación CSV. Puede utilizar su plan de entrenamiento de running de forma gratuita y permanente en la [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) y acceder a él en línea en cualquier momento, con independencia del dispositivo.
 
 {{< template-box id="4684f7bd6fc9498196ff" >}}
 
