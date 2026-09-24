@@ -151,6 +151,8 @@ Para los [procesos administrativos digitales]({{< relref "pages/landing-pages/in
 
 Para una gestión integral del aparcamiento, en SeaTable puede, por ejemplo, **evaluar zonas de aparcamiento** comparando el parque de vehículos de los residentes y el volumen de tráfico de no residentes con la oferta de plazas públicas y la capacidad de aparcamiento en manos privadas. Así obtiene una visión estructurada y puede derivar recomendaciones de actuación para la gestión del aparcamiento.
 
+{{< template-box id="77a86a4a5a074bfd967e" >}}
+
 [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) se aloja en centros de datos seguros en Alemania conforme al RGPD, por lo que resulta ideal para los altos requisitos de protección de datos del sector público. Además, los municipios pueden conservar la plena [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}) operando [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) en su propia [infraestructura]({{< relref "posts/it-infrastruktur" >}}).
 
 ## Conclusión: de la gestión del aparcamiento al control del aparcamiento

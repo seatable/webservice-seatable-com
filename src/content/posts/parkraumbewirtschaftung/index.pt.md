@@ -151,6 +151,8 @@ Para [processos administrativos digitais]({{< relref "pages/landing-pages/indust
 
 Para uma gestão abrangente do estacionamento, pode, por exemplo, **avaliar zonas de estacionamento** no SeaTable, comparando o parque automóvel dos moradores e o volume de tráfego de não residentes com a oferta de lugares públicos e a capacidade de estacionamento em mãos privadas. Obtém assim uma visão estruturada e pode derivar recomendações de ação para a gestão do estacionamento.
 
+{{< template-box id="77a86a4a5a074bfd967e" >}}
+
 O [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) é alojado em conformidade com o RGPD em centros de dados seguros na Alemanha, sendo por isso excelente para os elevados requisitos de proteção de dados do setor público. Além disso, os municípios também podem manter a plena [soberania dos dados]({{< relref "posts/digitale-souveraenitaet" >}}), operando o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) na sua própria [infraestrutura]({{< relref "posts/it-infrastruktur" >}}).
 
 ## Conclusão: da gestão do estacionamento à orientação

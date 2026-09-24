@@ -151,6 +151,8 @@ Für [digitale Verwaltungsprozesse]({{< relref "pages/landing-pages/industry-sol
 
 Für ein übergreifendes Parkraummanagement können Sie in SeaTable zum Beispiel **Parkzonen auswerten**, indem Sie den Fahrzeugbestand der Anwohner und das Verkehrsaufkommen von Fremdparkern mit dem Angebot an öffentlichen Parkplätzen sowie Stellplatzkapazitäten in privater Hand vergleichen. Dadurch gewinnen Sie einen strukturierten Überblick und können Handlungsempfehlungen für die Parkraumbewirtschaftung ableiten.
 
+{{< template-box id="77a86a4a5a074bfd967e" >}}
+
 Die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) wird DSGVO-konform in sicheren deutschen Rechenzentren gehostet und eignet sich dadurch hervorragend für hohe Datenschutzanforderungen im öffentlichen Sektor. Zudem können Kommunen auch die volle [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}) behalten, indem Sie [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) auf ihrer eigenen [Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) betreiben.
 
 ## Fazit: Von der Parkraumbewirtschaftung zur Steuerung
