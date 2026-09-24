@@ -151,6 +151,8 @@ For [digital administrative processes]({{< relref "pages/landing-pages/industry-
 
 For comprehensive parking management, you can use SeaTable to **evaluate parking zones**, for example by comparing the vehicle stock of residents and the volume of non-resident traffic with the supply of public parking spaces and privately owned parking capacity. This gives you a structured overview and allows you to derive recommendations for action in parking management.
 
+{{< template-box id="77a86a4a5a074bfd967e" >}}
+
 [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) is hosted in secure German data centers in compliance with the GDPR, making it ideally suited to the high data protection requirements of the public sector. In addition, municipalities can retain full [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}) by running [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) on their own [infrastructure]({{< relref "posts/it-infrastruktur" >}}).
 
 ## Conclusion: From Parking Management to Parking Control

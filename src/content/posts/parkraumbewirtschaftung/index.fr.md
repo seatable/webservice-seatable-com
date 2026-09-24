@@ -151,6 +151,8 @@ Pour des [processus administratifs numériques]({{< relref "pages/landing-pages/
 
 Pour une gestion globale du stationnement, vous pouvez par exemple **évaluer des zones de stationnement** dans SeaTable en comparant le parc automobile des riverains et le trafic des non-résidents avec l’offre de places publiques et les capacités de stationnement privées. Vous obtenez ainsi une vue d’ensemble structurée et pouvez en déduire des recommandations d’action pour la gestion du stationnement.
 
+{{< template-box id="77a86a4a5a074bfd967e" >}}
+
 [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) est hébergé conformément au RGPD dans des centres de données sécurisés en Allemagne et convient donc parfaitement aux exigences élevées du secteur public en matière de protection des données. En outre, les communes peuvent conserver leur pleine [souveraineté sur les données]({{< relref "posts/digitale-souveraenitaet" >}}) en exploitant [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) sur leur propre [infrastructure]({{< relref "posts/it-infrastruktur" >}}).
 
 ## Conclusion : de la gestion du stationnement au pilotage
