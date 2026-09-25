@@ -1,6 +1,6 @@
 ---
-title: 'Meal Prep - preparación de comidas sanas y asequibles + plan semanal'
-description: 'Cocina en lote, organiza tus comidas y gestiona mejor tu dieta y presupuesto. Descubre los beneficios del Meal Prepping y descarga tu plantilla de menú semanal para simplificar tu rutina saludable sin complicaciones.'
+title: 'Meal Prep: cocinar por adelantado de forma sana y económica'
+description: 'Cocine en lote, organice sus comidas y gestione mejor su dieta y su presupuesto. Descubra las ventajas del Meal Prep y descargue su plantilla de plan semanal para simplificar su rutina saludable sin complicaciones.'
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
@@ -8,8 +8,8 @@ url: '/es/meal-prep'
 aliases:
     - /es/meal-prep
 seo:
-    title: 'Meal Prep: Come sano y ahorra sin estrés'
-    description: 'Prepara tus comidas sanas en menos tiempo y ahorra dinero. Planifica platos variados con recetas prácticas y trucos fáciles.'
+    title: 'Meal Prep: coma sano y ahorre sin estrés'
+    description: 'El Meal Prep ahorra tiempo y dinero: cocine sus comidas por adelantado. ¡Consejos y plan semanal para comer sano!'
 categories:
     - 'best-practice'
 tags:
@@ -17,125 +17,123 @@ tags:
 color: '#cfc6e9'
 ---
 
-Comer lo más barato y sano posible con el menor tiempo posible: una tendencia de EE.UU. promete exactamente eso. En el estresante día a día solemos descuidar una **dieta equilibrada**. En lugar de ello, a menudo recurrimos a la comida rápida o a tentempiés poco saludables durante las pausas para comer, por ejemplo, para satisfacer nuestros antojos. En este artículo descubrirá en qué consiste la **preparación** de comidas, qué debe tener en cuenta a la hora de prepararla y cómo crear un [plan semanal]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) inteligente.
+Comer de la forma más barata y sana posible con poco tiempo: una tendencia de EE. UU. promete exactamente eso. En el estresante día a día, una **alimentación equilibrada** suele quedar en segundo plano. En su lugar, a menudo recurrimos a la comida rápida o a tentempiés poco saludables, por ejemplo durante la pausa del mediodía, para calmar el hambre. En este artículo descubrirá en qué consiste el **Meal Prep**, qué debe tener en cuenta al practicarlo y cómo puede crear un plan semanal de Meal Prep inteligente.
 
-## ¿Qué es exactamente la preparación de comidas?
+## ¿Qué es exactamente el Meal Prep?
 
-Meal Prep es la abreviatura de **preparación de comidas**. La idea consiste en precocinar tus comidas favoritas en grandes cantidades para que estén listas para comer en los días siguientes y puedan recalentarse o terminarse en pocos minutos.
+Meal Prep es la abreviatura de **Meal Preparation**, que en español significa algo así como «preparación de comidas». La idea es que usted cocine sus platos favoritos por adelantado en grandes cantidades, de modo que estén listos para comer en los días siguientes y puedan recalentarse o terminarse en pocos minutos.
 
-![Con Meal Prep, los alimentos preparados se guardan en cajas o tarros.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
+![Con el Meal Prep, la comida preparada se guarda en táperes o tarros.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
 
-A partir de unos pocos ingredientes se elaboran diversos platos.
+Con unos pocos ingredientes se preparan platos muy distintos.
 
-{{< faq "¿De dónde viene la moda de la preparación de comidas?" >}}
+{{< faq "¿De dónde viene la tendencia del Meal Prep?" >}}
 
-Como muchas otras tendencias alimentarias, la moda de la preparación de comidas se originó en Estados Unidos. Allí, los entusiastas del fitness eran los primeros en utilizarla, pero pronto se extendió a todos los ámbitos de la vida.
+Como muchas otras tendencias gastronómicas, el auge del Meal Prep procede de EE. UU. Allí lo utilizaban sobre todo los aficionados al fitness, pero pronto se extendió a todos los ámbitos de la vida.
 {{< /faq >}}
 
 {{< faq "¿Para quién es adecuado el Meal Prep?" >}}
 
-Merece la pena que prueben el Meal Prep las personas que no tienen tiempo de cocinar. También ayuda a cumplir los propósitos dietéticos y a reforzar la autodisciplina. Por supuesto, requiere un poco de esfuerzo y suficiente motivación probar esta nueva forma de cocinar, pero al final puede hacer que tu dieta sea más eficiente, más sana y más barata.
+Merece especialmente la pena probar el Meal Prep para las personas que en su día a día no encuentran tiempo para cocinar. También ayuda a cumplir los propósitos alimentarios y a reforzar la autodisciplina. Por supuesto, hace falta un poco de esfuerzo y suficiente motivación para atreverse con esta nueva forma de cocinar, pero al final puede hacer que la alimentación sea más eficiente, más sana y más económica.
 {{< /faq >}}
 
-{{< faq "¿Cuántos días de antelación puedes cocinar?" >}}
+{{< faq "¿Para cuántos días se pueden cocinar platos por adelantado?" >}}
 
-Hay dos formas de preparar la comida. Puedes cocinar **el** doble para tener comida suficiente para el día siguiente, o puedes ir un paso más allá y tomarte el tiempo de **precocinar los ingredientes individuales** y luego combinarlos como quieras los días siguientes.
+Hay dos formas de practicar el Meal Prep. O bien cocina **el doble de cantidad** para tener comida suficiente para el día siguiente, o bien va un paso más allá, se toma tiempo para **precocinar los ingredientes por separado** y luego los combina a su gusto en los días siguientes.
 {{< /faq >}}
 
-## Ventajas e inconvenientes de la preparación de comidas
+## Ventajas y desventajas del Meal Prep
 
-La preparación de comidas tiene algunas ventajas insuperables, tanto frente a la preparación de comidas frescas cada día como frente a los platos precocinados del supermercado o la comida para llevar.
+El Meal Prep tiene algunas ventajas imbatibles, tanto frente a cocinar platos frescos cada día como frente a los platos preparados del supermercado o la comida para llevar.
 
-### Las ventajas:
+### Las ventajas
 
-- **Ahorra tiempo:** no tienes que pasarte horas en la cocina cada noche, sino que puedes preparar tus comidas para varios días y combinarlas en distintas variaciones.
-- **Ahorra dinero:** los platos precocinados suelen ser más caros que cocinarlos tú mismo y las grandes cantidades de comida cuestan menos que los paquetes pequeños.
-- **A tu medida:** A diferencia de los platos precocinados, puedes adaptar los platos caseros a tus necesidades y preferencias y perfeccionarlos a tu gusto.
-- **Fomenta una alimentación sana:** las comidas caseras suelen contener menos azúcar, grasa y sal; usted sabe lo que come y puede adaptar las recetas a sus objetivos nutricionales.
-- **Contra el desperdicio de alimentos:** puede evitar los envases abiertos y los ingredientes estropeados comprando la cantidad justa de alimentos frescos y consumiéndolos todos de inmediato.
+- **Ahorra tiempo:** No tiene que pasarse horas en la cocina cada noche, sino que puede preparar sus comidas para varios días y combinarlas de distintas maneras.
+- **Ahorra dinero:** Los platos preparados suelen ser más caros que cocinar uno mismo y, en proporción, las cantidades grandes de alimentos cuestan menos que los envases pequeños.
+- **A su medida:** A diferencia de los platos preparados, puede adaptar los platos caseros a sus propias necesidades y preferencias y perfeccionarlos a su gusto.
+- **Fomenta una alimentación sana:** Los platos caseros suelen contener menos azúcar, grasa y sal; usted sabe lo que come y puede adaptar las recetas a sus [objetivos nutricionales]({{< relref "posts/ernaehrungstagebuch" >}}).
+- **Contra el desperdicio de alimentos:** Puede evitar envases abiertos e ingredientes estropeados comprando alimentos frescos en la cantidad adecuada y aprovechándolos por completo de inmediato.
 
-![Con Meal Prep, sólo debes comprar los alimentos que realmente necesitas.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
+![Con el Meal Prep solo debe comprar los alimentos que realmente necesita.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
-La compra selectiva le ahorra tiempo y dinero porque sólo compra los alimentos que realmente necesita.
+Con una compra bien planificada ahorra dinero y tiempo, porque solo compra los alimentos que realmente necesita.
 
-¿Suena demasiado bien para ser verdad? Como muchas tendencias alimentarias, el Meal Prep no puede resolver todos tus problemas. Además de los beneficios obvios, también hay puntos negativos que debes tener en cuenta antes de lanzarte al tema del Meal Prep.
+### Las desventajas
 
-### Las desventajas:
+¿Suena demasiado bien para ser verdad? Como muchas tendencias gastronómicas, el Meal Prep tampoco puede resolver todos los problemas. Además de las ventajas evidentes, también hay puntos negativos que debería tener en cuenta antes de dedicarse al Meal Prep.
 
-- Caducidad **limitada:** algunos alimentos y platos (por ejemplo, las ensaladas) no son adecuados para el almacenamiento a largo plazo, ya que se estropean rápidamente, pierden consistencia o sabor.
-- **Te hace inflexible**: una comida espontánea en un restaurante puede estropear tu plan de comidas. En el peor de los casos, tienes que tirar comida estropeada o raciones precocinadas.
-- **Monotonía:** no siempre apetece comer tus platos favoritos, aunque sea el tercer día consecutivo. Pero a continuación puedes descubrir cómo añadir variedad a tus platos precocinados.
-- **Costes de almacenamiento:** Si vas a precocinar para varios días, necesitas espacio suficiente en tu frigorífico o congelador y el equipo de almacenamiento adecuado.
+- **Conservación limitada:** Algunos alimentos y platos (p. ej., las ensaladas) no son adecuados para conservarse mucho tiempo, ya que se estropean rápidamente o pierden su textura o su sabor.
+- **Resta flexibilidad:** Una comida improvisada en un restaurante puede desbaratar su plan de comidas. En el peor de los casos, tendrá que tirar alimentos estropeados o raciones ya cocinadas.
+- **Monotonía:** Ni siquiera los platos favoritos apetecen siempre cuando se comen por tercer día consecutivo. Más abajo descubrirá cómo aportar variedad a sus comidas preparadas.
+- **El almacenamiento cuesta:** Quien cocina para varios días necesita suficiente espacio en el frigorífico o el congelador, además de los recipientes adecuados.
 
-![Tus comidas pueden volverse unilaterales si sólo utilizas unos pocos ingredientes.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
+![Sus comidas pueden volverse monótonas si solo utiliza unos pocos ingredientes.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
 
-Sé creativo y procura que tus platos sean lo más variados posible.
+Sea creativo y procure que sus platos sean lo más variados posible.
 
-## Paso a paso para preparar la comida perfecta
+## Paso a paso hacia el Meal Prep perfecto
 
-Para que la misión Meal Prep sea un éxito, primero necesitas un [plan de comidas]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Los siguientes **cinco pasos** te ayudarán con el proceso.
+Para que la misión Meal Prep sea un éxito, primero necesita un **plan de comidas**. Los siguientes cinco pasos le ayudarán en el proceso.
 
-![Cómo conseguir que la preparación de comidas sea un éxito en cinco sencillos pasos.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
+![Así tendrá éxito con su Meal Prep en cinco sencillos pasos.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
-Con la planificación adecuada, incluso los cocineros inexpertos pueden tener éxito con la preparación de comidas.
+Con la planificación adecuada, el Meal Prep también sale bien a los cocineros sin experiencia.
 
-### 1\. preparar
+### 1\. Planificar
 
-En primer lugar, pregúntate para cuántos días te gustaría cocinar con antelación. Para los principiantes, es una buena idea cocinar para dos o tres días para acostumbrarse al esfuerzo y desarrollar poco a poco una rutina. Busque **recetas** adecuadas para la preparación de comidas. Deben contener alimentos que te gusten. La composición de las comidas también es importante. Para una dieta equilibrada, tus comidas deben contener lo siguiente:
+En primer lugar, pregúntese para cuántos días quiere cocinar por adelantado. Para los principiantes, conviene empezar cocinando para dos o tres días, para acostumbrarse al esfuerzo y desarrollar poco a poco una [rutina]({{< relref "posts/habit-tracker" >}}). Busque **recetas de Meal Prep** adecuadas. Deben contener alimentos que le guste comer. Además, la composición de su plato es importante. Para una alimentación equilibrada, sus comidas deberían contener lo siguiente:
 
-- **Proteínas:** Buenas fuentes son la carne, el pescado y los productos lácteos, pero también el tofu y las legumbres.
-- **Verduras:** lo ideal es que sean frescas y de temporada, pero también contienen muchas vitaminas y nutrientes si se congelan.
-- **Hidratos de carbono:** las patatas, el arroz y la pasta son especialmente adecuados para ello.
-- **Grasas:** Las grasas vegetales, como el aceite de oliva, contienen más ácidos grasos insaturados y, por tanto, son más saludables que las grasas animales.
+- **Proteínas:** Buenas fuentes son la carne, el pescado y los lácteos, pero también el tofu y las legumbres.
+- **Verduras:** Lo ideal es que sean frescas y de temporada, pero congeladas también contienen muchas vitaminas y nutrientes.
+- **Hidratos de carbono:** Son especialmente adecuados las patatas, el arroz y la pasta.
+- **Grasas:** Las grasas vegetales como el aceite de oliva contienen más ácidos grasos insaturados y, por tanto, son más saludables que las grasas animales.
 
-### 2\. compras
+### 2\. Comprar
 
-Las recetas ya están seleccionadas, ahora necesitas los **ingredientes**. Haz una lista de lo que necesitas y en qué **cantidades** para que puedas tenerlo todo controlado mientras haces la compra. Una [lista de la compra]({{< relref "templates/everyday-life/shopping-list" >}}) también te ayuda a comprar sólo los alimentos que realmente necesitas para tus comidas. Asegúrate de que sólo compras productos frescos y perecederos si puedes utilizarlos inmediatamente.
+Las recetas ya están elegidas; ahora solo le faltan los **ingredientes**. Anote qué necesita y en qué **cantidades** para no perder la visión de conjunto durante la compra. Además, una [lista de la compra]({{< relref "templates/everyday-life/shopping-list" >}}) le ayuda a comprar solo los alimentos que realmente necesita para sus comidas. Procure comprar los productos frescos y perecederos solo cuando pueda procesarlos de inmediato.
 
-![Una lista de la compra te ayudará a realizar tus compras sin gastar más dinero](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
+![Una lista de la compra le ayuda a hacer la compra sin gastar de más.](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
-Una lista te ayuda a llevar un registro de tus compras.
+### 3\. Cocinar
 
-### 3\. preparación
+Ahora llega la parte más laboriosa del Meal Prep. Para preparar todos sus alimentos, tómese **tiempo suficiente**, idealmente dos o tres horas en el día que usted elija. Fría, hierva, cocine al vapor u hornee los ingredientes por separado, ya que tienen **tiempos de cocción diferentes** y, de lo contrario, acabarán convertidos en una papilla uniforme. Además de las comidas principales, también puede preparar **pequeños tentempiés** para entre horas, por ejemplo, barritas de muesli caseras.
 
-Ahora viene la parte que más tiempo requiere de la preparación de las comidas. Tómate **el tiempo suficiente** para preparar toda la comida, preferiblemente dos o tres horas en un día de tu elección. Asa, hierve, cuece al vapor u hornea los ingredientes por separado, ya que tienen **diferentes puntos de cocción** y, de lo contrario, se convertirán en papilla blanda y uniforme. Además de las comidas principales, también puedes preparar **pequeños tentempiés** para tomar entre horas. Por ejemplo, barritas caseras de muesli.
+{{< warning headline="Las especias, un remedio milagroso" text="Las especias adecuadas dan el toque final a sus platos. Con distintas mezclas de especias, el mismo plato sabe diferente cada vez y le invita a explorar nuevos mundos de sabor." />}}
 
-{{< warning headline="Especias milagrosas" text="Las especias adecuadas dan el toque final a sus platos. Con diferentes mezclas de especias, el mismo plato sabe diferente cada vez y te tienta a explorar nuevos mundos de sabor." />}}
+### 4\. Almacenar
 
-### 4\. almacenamiento
+Para que los ingredientes preparados se mantengan frescos el tiempo suficiente y conserven su sabor, debería **guardarlos por separado**. Para el Meal Prep son adecuadas, por ejemplo, unas [fiambreras](https://www.chefkoch.de/vergleich/meal-prep-boxen/) especiales con compartimentos. Guarde los alimentos en recipientes herméticos de vidrio o de plástico resistente. Conserve los platos preparados preferiblemente en el frigorífico o congélelos.
 
-Para que los ingredientes preparados se mantengan frescos el tiempo suficiente y conserven su sabor, debes **guardarlos por separado**. Las [cajas](https://www.chefkoch.de/vergleich/meal-prep-boxen/) especiales con separadores son adecuadas, por ejemplo, para la preparación de comidas. Los alimentos deben guardarse en recipientes herméticos de cristal o plástico resistente. Es preferible guardar los platos preparados en el frigorífico o congelarlos.
+{{< warning headline="Envasar en tarros" text="Los tarros grandes con tapa de rosca o de cierre hermético son perfectos para transportar su comida. Son ideales para guardar alimentos secos como el muesli o el arroz, pero también sopas o salsas. La mayoría de los tarros son aptos para microondas, de modo que puede calentar y consumir su comida directamente." />}}
 
-{{< warning headline="Rellenar los tarros" text="Los tarros grandes con tapa de rosca o a presión son perfectos para transportar sus alimentos. Son ideales para guardar alimentos secos como muesli o arroz, pero también para sopas líquidas o salsas. La mayoría de los tarros son aptos para microondas, por lo que podrá calentar y consumir sus alimentos inmediatamente." />}}
+### 5\. Combinar
 
-### 5\. combinar
+El último paso del Meal Prep es el más fácil. Saque los componentes preparados del frigorífico y componga un plato a su gusto. Las **distintas combinaciones** aportan variedad de sabores. Empaquete bien su creación para transportarla o caliéntela y disfrute directamente de su comida casera, sana y deliciosa.
 
-El último paso de la preparación de comidas es el más fácil. Saca los ingredientes preparados de la nevera y monta un plato a tu gusto. Las **diferentes combinaciones** garantizan una gran variedad de sabores. Empaqueta tu creación de forma segura para transportarla o caliéntala y ¡disfruta enseguida de tu comida casera sana y deliciosa!
+{{< warning headline="La clave está en la mezcla" text="Para una alimentación equilibrada, debería prestar atención a los valores nutricionales de su comida. Se recomienda una composición de entre un 50 y un 60 % de hidratos de carbono, entre un 15 y un 25 % de proteínas y entre un 20 y un 30 % de grasas." />}}
 
-{{< warning headline="Todo está en la mezcla" text="Para una dieta equilibrada, hay que prestar atención a los valores nutricionales de los alimentos. Se recomienda una composición de entre el 50% y el 60% de hidratos de carbono, entre el 15% y el 25% de proteínas y entre el 20% y el 30% de grasas." />}}
+## Ejemplo de plan semanal de Meal Prep
 
-## Ejemplo de plan semanal de preparación de comidas
+Un ejemplo de **plan de comidas** ilustra una vez más cómo funciona el Meal Prep: usted ha elegido cuatro platos para una semana, todos con verduras, patatas y/o arroz. Las **verduras al horno** son la base de todos los platos y podrían consistir, por ejemplo, en pimientos, calabacines, zanahorias, garbanzos, cebollas y champiñones.
 
-Aquí tienes un ejemplo de **plan de comidas** para ilustrar cómo funciona el Meal Prep: Ha elegido cuatro platos para una semana, todos ellos con verduras, patatas y/o arroz. Las **verduras de horno** son la base de todos los platos y podrían consistir, por ejemplo, en pimientos, calabacines, zanahorias, garbanzos, cebollas y champiñones.
+![Meal Prep con verduras al horno](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
-![Comida preparada con verduras al horno](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
+Así pues, el **domingo por la tarde** dedica unas dos horas a lavar y cortar las verduras y a hornearlas en una fuente grande, mientras cuece por separado las patatas y el arroz. Deje enfriar los componentes y reparta todo en táperes o tarros limpios. A continuación, puede combinar los siguientes platos con los ingredientes preparados:
 
-Las verduras al horno son una base excelente para una gran variedad de platos.
-
-Así que el **domingo por la noche**, dedica unas dos horas a lavar, cortar y hornear las verduras en una cazuela grande mientras cueces las patatas y el arroz por separado. Deja enfriar los ingredientes y mételo todo en cajas o tarros limpios. A continuación, puedes combinar los siguientes platos con los ingredientes preparados:
-
-- **Lunes:** Verduras al horno con patatas (+ salsa de tomate y hierbas de Provenza)
+- **Lunes:** Verduras al horno con patatas (+ salsa de tomate y hierbas provenzales)
 - **Martes:** Chop suey con arroz (+ especias asiáticas como jengibre y salsa de soja)
-- **Miércoles:** Pisto con patatas (+ caldo y nuez moscada)
+- **Miércoles:** Ratatouille con patatas (+ caldo y nuez moscada)
 - **Jueves:** Curry de verduras con arroz (+ leche de coco y curry en polvo)
 - **Viernes:** Verduras gratinadas (todas las sobras + queso)
 
-Las distintas especias dan a las verduras un sabor diferente cada día. Por supuesto, puedes añadir carne y otros ingredientes a los platos para adaptarlos a tu gusto.
+Gracias a las distintas especias, las verduras tienen un sabor diferente cada día. Por supuesto, puede completar los platos con carne y otros ingredientes a su gusto.
 
 ## Plantilla para su plan semanal de Meal Prep
 
-Para tener siempre a mano tus recetas favoritas, puedes crear una lista de todos tus platos preparados y anotar en qué sitios web has encontrado cada plato. La [plantilla gratuita de SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) es ideal para organizar con claridad tus recetas de preparación de comidas.
+Para tener siempre a mano sus recetas favoritas, puede crear una lista con todos sus platos de Meal Prep y anotar en qué sitios web encontró cada uno. La [plantilla gratuita de SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) es ideal para organizar sus recetas de Meal Prep de forma clara.
 
-Sólo tienes que introducir el día en el que quieres cocinar un plato la próxima vez y crear nuevos **planes semanales de Meal Prep** en el calendario. Sube fotos e inspírate con tu galería de posibles platos semana tras semana. En dos tablas adicionales, puedes registrar todos los ingredientes de una **lista de la compra** y comparar los **valores nutricionales** de tus platos favoritos.
+Solo tiene que introducir el día en que quiere volver a cocinar un plato y crear una y otra vez nuevos **planes semanales de Meal Prep** en el calendario. Suba fotos y deje que su galería de posibles platos le inspire semana tras semana. En dos tablas adicionales puede registrar todos los ingredientes en una **lista de la compra** y comparar los **valores nutricionales** de sus platos favoritos.
 
-Si desea utilizar SeaTable para su plan semanal de preparación de comidas, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/healthcare/recipes-meal-plan" >}}) encontrará la plantilla correspondiente. Elimine las recetas de muestra y personalice el plan de comidas según sus necesidades.
+{{< template-box id="f1b6279b2aa8466fbcea" >}}
+
+Si desea utilizar SeaTable para su plan semanal de Meal Prep, [regístrese gratis sin más]({{< relref "pages/registration" >}}). Elimine las recetas de ejemplo de la plantilla y adapte el plan de comidas a sus necesidades como prefiera.

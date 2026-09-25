@@ -27,7 +27,7 @@ Neue Gewohnheiten aufbauen und schlechte ändern – dabei hilft Ihnen ein Habit
 
 So könnte Ihr Habit Tracker aussehen.
 
-Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem [Habit Tracker von SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker) einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
+Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem Habit Tracker von SeaTable einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
 
 {{< warning headline="Warum wir Gewohnheiten brauchen" text="Gewohnheiten machen unser Leben leichter. Haben Sie eine Verhaltensweise erst einmal verinnerlicht, wird sie meist automatisch von Ihnen ausgeführt. Die Aktivität passiert unterbewusst, wie zum Beispiel das tägliche Zähneputzen, das wir aus Gewohnheit tun, ohne jedes Mal den Zweck zu hinterfragen. Damit nehmen wir dem Gehirn Denkarbeit ab und schaffen gleichzeitig Kapazitäten für wichtigere Abläufe." />}}
 
@@ -39,9 +39,9 @@ Neben dem Ziel, Gewohnheiten zu erlernen und diese in Ihren Alltag zu integriere
 
 Außerdem sorgen die schnell zu erkennenden Erfolge für eine Stärkung des Selbstbewusstseins und regen dazu an, **motiviert** und **diszipliniert** weiterzumachen. Mit einem Habit Tracker entwickeln Sie schnell einen Ehrgeiz, die Siegesserie nicht abreißen zu lassen.
 
-{{< warning headline="Tracking hilft, Ziele zu erreichen" text="Dass Tracking hilft, Ihre Ziele zu erreichen, zeigt auch die Wissenschaft. [Studien](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) belegen, dass Menschen, die ihren Fortschritt verfolgen, erfolgreicher darin sind, ihre Ziele zu erreichen." />}}
+{{< warning headline="Tracking hilft, Ziele zu erreichen" text="Dass Tracking hilft, Ihre Ziele zu erreichen, zeigt auch die Wissenschaft. Studien belegen, dass Menschen, die ihren Fortschritt verfolgen, erfolgreicher darin sind, ihre Ziele zu erreichen." />}}
 
-Der wohl größte Vorteil ist das **Aufbauen von Routinen**. Indem Sie sich Ihrer Fortschritte bewusst werden, können Sie Ihre Gewohnheiten verinnerlichen. Das beweist allen voran der Habit Tracker an sich. Schließlich ist auch das regelmäßige Abhaken Ihrer To-dos eine Gewohnheit.
+Der wohl größte Vorteil ist das **Aufbauen von Routinen**. Indem Sie sich Ihrer Fortschritte bewusst werden, können Sie Ihre Gewohnheiten verinnerlichen. Das beweist allen voran der Habit Tracker an sich. Schließlich ist auch das regelmäßige Abhaken Ihrer [To-dos]({{< relref "posts/to-do-liste-online" >}}) eine Gewohnheit.
 
 ## Welche Gewohnheiten Sie tracken können
 
@@ -55,11 +55,11 @@ Sie können schlechte Gewohnheiten gegen gute austauschen.
 
 ### Neue Gewohnheiten mit dem Habit Tracker einführen
 
-- **Gesundheit**: dreimal pro Woche Sport machen, mehr Obst essen, zwei Liter Wasser pro Tag trinken
-- **Produktivität**: um 6 Uhr morgens aufstehen, weniger Social Media nutzen, jeden Abend Kleidung für den nächsten Tag bereitlegen
+- **Gesundheit**: dreimal pro Woche [Sport machen]({{< relref "posts/lauftrainingsplan" >}}), [mehr Obst essen]({{< relref "posts/ernaehrungstagebuch" >}}), zwei Liter Wasser pro Tag trinken
+- **Produktivität**: um 6 Uhr morgens aufstehen, [weniger Social Media nutzen]({{< relref "posts/digital-detox" >}}), jeden Abend [Kleidung]({{< relref "posts/kleiderschrank-organisieren" >}}) für den nächsten Tag bereitlegen
 - **Lernziele**: 10 Minuten lesen, fünf neue Wörter einer Fremdsprache lernen, fremdsprachige Videos schauen
-- **Haushalt**: direkt nach dem Essen spülen, einmal die Woche den Müll herausbringen, den Schreibtisch freiräumen
-- **Mentalität**: 30 Minuten meditieren, eine Runde spazieren gehen, jemandem ein Kompliment machen
+- **Haushalt**: direkt nach dem Essen spülen, [einmal die Woche das Bad putzen]({{< relref "posts/putzplan" >}}), den Schreibtisch freiräumen
+- **Mentalität**: 30 Minuten meditieren, eine Runde spazieren gehen, jemandem ein Kompliment machen, [für etwas dankbar sein]({{< relref "posts/dankbarkeitstagebuch" >}})
 
 ## Gewohnheiten ändern
 
@@ -84,8 +84,6 @@ Behalten Sie Ihre Pläne nicht für sich. Indem Sie Ihren Freunden oder Verwandt
 Ihre Verhaltensweisen regelmäßig auszuführen erfordert eine starke **Selbstdisziplin**. Es gibt jedoch Tipps, welche Ihnen helfen, schneller Gewohnheiten in Ihren Alltag zu integrieren.
 
 ![Das Buch Atomic Habits enthält die unten stehenden Tipps, welche Sie in Ihren Gewohnheitstracker integrieren können.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
-
-James Clears Bestseller enthält nützliche Tipps.
 
 Die folgenden Tipps stammen aus dem Buch **Die 1% Methode** (auf Englisch _Atomic Habits_) von James Clear und können Ihren Habit Tracker noch effektiver machen.
 
@@ -114,13 +112,13 @@ Wenn eine Aktivität weniger als zwei Minuten dauert, können Sie sie sofort erl
 
 Je länger Sie an einer Gewohnheit festhalten, desto leichter fällt es Ihnen, diese auszuführen. Normalerweise dauert es etwa zwei bis drei Monate, bis eine neue Gewohnheit zum **Automatismus** wird. Doch das ist ein langer Weg und auf diesem sollten Sie jeden Meilenstein gebührend feiern. Um Ihnen das Erreichen Ihrer Ziele zu erleichtern, können Sie **Mini-Habits** in Ihren Habit Tracker aufnehmen. Das sind Etappen auf Ihrem Weg zum Ziel.
 
-Nehmen Sie sich zum Beispiel vor, jeden Tag 30 Seiten zu lesen. Schaffen dies jedoch nicht, ist das kein Grund ganz aufzugeben. Beginnen Sie damit, jeden Tag fünf Seiten zu lesen, und versuchen Sie sich langsam zu **steigern**. Setzen Sie sich ein Minimum, was Sie auf jeden Fall an einem Tag schaffen möchten, dann können Sie sich über alles freuen, was sie darüber hinaus leisten.
+Nehmen Sie sich zum Beispiel vor, jeden Tag 30 Seiten zu lesen. Schaffen Sie dies jedoch nicht, ist das kein Grund ganz aufzugeben. Beginnen Sie damit, jeden Tag fünf Seiten zu lesen, und versuchen Sie sich langsam zu **steigern**. Setzen Sie sich ein Minimum, was Sie auf jeden Fall an einem Tag schaffen möchten, dann können Sie sich über alles freuen, was Sie darüber hinaus leisten.
 
 ### Rückschläge überwinden
 
 Wer Fortschritte macht, wird auch Rückschläge verkraften müssen. Ihre Gewohnheiten einmal nicht auszuführen ist kein Weltuntergang. Es ist schnell passiert, wenn Sie sich schlicht zu vielen guten Vorsätzen annehmen wollten und diese Sie nun überfordern. Nehmen Sie sich die Zeit, um zu reflektieren, **warum** Sie Ihre Ziele nicht erreichen konnten.
 
-Sind es zu viele Gewohnheiten? Dann passen Sie diese an oder **reduzieren Sie das Pensum**. Sagt Ihnen eine Aktivität doch nicht zu? Auch das kann passieren. Nicht immer gefällt Ihnen eine Gewohnheit so gut, wie Sie es sich vorgestellt haben, und das ist in Ordnung. Wenn Sie sich dem Grund Ihres Strauchelns klargeworden sind, ist es wichtig mit einem überarbeiteten Habit Tracker weiterzumachen. Denn wenn Sie aufgeben, wären Ihre ganzen Bemühungen dahin. Rufen Sie sich daher ins Gedächtnis, warum Sie Ihre Gewohnheiten ändern wollen, und finden Sie eine neue **Motivationsquelle**.
+Sind es zu viele Gewohnheiten? Dann passen Sie diese an oder **reduzieren Sie das Pensum**. Sagt Ihnen eine Aktivität doch nicht zu? Auch das kann passieren. Nicht immer gefällt Ihnen eine Gewohnheit so gut, wie Sie es sich vorgestellt haben, und das ist in Ordnung. Wenn Sie sich über den Grund Ihres Strauchelns klargeworden sind, ist es wichtig mit einem überarbeiteten Habit Tracker weiterzumachen. Denn wenn Sie aufgeben, wären Ihre ganzen Bemühungen dahin. Rufen Sie sich daher ins Gedächtnis, warum Sie Ihre Gewohnheiten ändern wollen, und finden Sie eine neue **Motivationsquelle**, um die [Prokrastination zu überwinden]({{< relref "posts/prokrastination" >}}).
 
 ### Gewohnheiten automatisieren
 
@@ -132,12 +130,12 @@ Wie bereits erwähnt, sind Ihnen bei der Gestaltung Ihres Habit Trackers keine G
 
 ![Die Vorlage zeigt einen kreativeren Ansatz, bei dem mit Farben und einer besonderen Form gearbeitet wurde.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
-Sie können Ihren Habit Tracker von Hand oder mit Vorlagen designen.
-
-Wer es praktisch und einfach mag, kann auch eine **App** oder **Online-Vorlage** benutzen. Diese sind meist weniger kreativ, bündeln jedoch alle Gewohnheiten übersichtlich und strukturiert. Im Vergleich zu Notizbüchern und Papier-Kalendern sind **digitale Habit Tracker** flexibel anpassbar, wenn sich Ihre Gewohnheiten ändern.
+Sie können Ihren Habit Tracker von Hand oder mit Vorlagen designen. Wer es praktisch und einfach mag, kann auch eine **App** oder **Online-Vorlage** benutzen. Diese sind meist weniger kreativ, bündeln jedoch alle Gewohnheiten übersichtlich und strukturiert. Im Vergleich zu Notizbüchern und Papier-Kalendern sind **digitale Habit Tracker** flexibel anpassbar, wenn sich Ihre Gewohnheiten ändern.
 
 ## Vorlage für Ihren digitalen Habit Tracker
 
 Um Ihr Ziel nicht aus den Augen zu verlieren, benötigen Sie eine einfache und effektive Lösung, um Ihre Gewohnheiten und Fortschritte nachzuverfolgen. Diese bietet Ihnen SeaTable mit einer [kostenlosen Vorlage]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}), welche Sie nach Ihren persönlichen Bedürfnissen anpassen können. Der Habit Tracker ist in ein Bullet Journal integriert, das noch weitere spannende Möglichkeiten bietet, Ihr Leben zu organisieren und zu verändern.
+
+{{< template-box id="c7a62de5f2664659bce2" >}}
 
 Wenn Sie SeaTable für Ihren Habit Tracker nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage mit vielen Inspirationen und Beispiel-Gewohnheiten finden Sie [hier]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}).

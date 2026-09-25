@@ -14,17 +14,11 @@ tags:
 color: '#f9cb0d'
 ---
 
-Im oft stressigen Alltag ist es schwer, Aufgaben, Termine und die eigenen Interessen unter einen Hut zu bekommen. Damit Sie die Dinge, die Ihnen im Leben wirklich wichtig sind, im täglichen Haufen an monotonen Abläufen nicht aus den Augen verlieren, hilft es, diese aufzuschreiben. Dafür eignet sich ein **Bullet Journal**, in welchem Sie alles Wichtige festhalten und Ihrer Kreativität freien Lauf lassen können.
-
-Wie ein Bullet Journal funktioniert und was Sie wissen müssen, um ein Bullet Journal nach Ihren Wünschen zu gestalten, erfahren Sie in diesem Artikel.
-
 ## Was ist ein Bullet Journal?
 
-Ein Bullet Journal hilft Ihnen dabei, Ihren **Alltag zu organisieren** und alle Ihre Aufgaben, Termine und Bedürfnisse im Blick zu behalten. Dabei fungiert das Journal als eine Kombination aus Terminkalender, Projektplaner und Notizbuch. Außerdem bietet es genügend Freiraum, damit auch Ihre individuellen Themenwünsche Platz finden. Das Bullet Journal setzt Ihrer **Kreativität** keine Grenzen. Denn im Vergleich zu herkömmlichen Kalendern, gibt es keine vorgefertigten Seiten. Diese sollen von Ihnen selbst designt und nach Ihren Vorstellungen gefüllt werden.
+Ein Bullet Journal hilft Ihnen dabei, Ihren **Alltag zu organisieren** und alle Ihre Aufgaben, Termine und Bedürfnisse im Blick zu behalten. Dabei fungiert das Journal als eine Kombination aus Terminkalender, [Projektplaner]({{< relref "templates/projects/project-plan" >}}) und Notizbuch. Außerdem bietet es genügend Freiraum, damit auch Ihre individuellen Themenwünsche Platz finden. Das Bullet Journal setzt Ihrer **Kreativität** keine Grenzen. Denn im Vergleich zu herkömmlichen Kalendern, gibt es keine vorgefertigten Seiten. Diese sollen von Ihnen selbst designt und nach Ihren Vorstellungen gefüllt werden.
 
 ![So kann ein Bullet Journal mit Monats- und Tagesübersicht aussehen.](estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
-
-Gestalten Sie Ihr Bullet Journal nach Ihren Wünschen.
 
 Ihr Bullet Journal wächst mit jedem neuen Eintrag. Sobald alle Seiten gefüllt sind, beginnen Sie mit einem neuen Buch.
 
@@ -32,15 +26,13 @@ Ihr Bullet Journal wächst mit jedem neuen Eintrag. Sobald alle Seiten gefüllt 
 
 Erfunden hat der New Yorker Grafikdesigner Ryder Carroll diese Kalender-Methode. Der gebürtige Österreicher entwickelte für sich ein System, um Aufgaben besser planen und Projekte zielgerichtet durchführen zu können.
 
-**Seine Idee:** Ein Journal ohne Vorgaben und Platzprobleme. 2013 veröffentlichte Carroll sein Bullet Journal. Auf seiner praktischen Grundlage bauten viele begeisterte Bullet Journaler auf und entwickelten eigene kreative Inhalte. Heute gibt es eine große Community, die in sozialen Medien und Blogs ihre Ideen teilt.
+**Seine Idee:** Ein Journal ohne Vorgaben und Platzprobleme. 2013 veröffentlichte Carroll sein Bullet Journal. Auf seiner praktischen Grundlage bauten viele begeisterte Bullet Journaler auf und entwickelten eigene kreative Inhalte. Heute gibt es eine große Community, die in [sozialen Medien und Blogs]({{< relref "templates/marketing/social-media-plan" >}}) ihre Ideen teilt.
 
 ## Das richtige Starterpack
 
 Mit dem Bullet Journaling anzufangen ist denkbar einfach. Sie brauchen lediglich ein **Notizbuch** und einen **Stift**. Es bietet sich an, mit dem zu beginnen, was Sie zu Hause haben. Sie können ausprobieren, ob Ihnen das Journaling liegt. Wenn Sie Gefallen daran finden und sich kreativ entfalten möchten, können Sie weitere Utensilien dazukaufen.
 
-![Ihr](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
-
-Alles um Sie herum kann zur Gestaltung genutzt werden.
+![Ihr Bullet Journal](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
 Als Grundlage dienen Notizbücher mit **Punktraster**, da dieses beim Schreiben und Malen, im Vergleich zu herkömmlichen Linien oder Kästchen, eine gewisse Freiheit bietet. Wenn Sie Ihre Seiten originell gestalten wollen, gibt es einige Extra-Materialien, welche Ihnen gefallen könnten. Dazu zählen zum Beispiel Textmarker, Fineliner, Brushpens oder auch Washi-Tape und Sticker. Wenn Sie sich nicht sicher sind, welche Utensilien Sie sich zulegen sollen, gibt es auch vorgefertigte [Sets](https://www.faber-castell.de/produkte/BulletJournalingStarterSet9teilig/267125).
 
@@ -85,7 +77,7 @@ Noch weiter ins Detail geht das **Daily Log**. Dieses wird wochenweise erstellt 
 
 Hier wird es kreativ! Im Internet gibt es Hunderte von Vorlagen, wie Sie Ihr Bullet Journal mit Inhalten füllen können. Lassen Sie sich von unseren **Ideen** inspirieren und passen Sie diese an Ihre Vorstellungen an oder werden Sie selbst erfinderisch.
 
-Viele Ideen lassen sich in **Listen** umsetzen. Dabei kommt es darauf an, dass Sie Dinge auflisten, die Ihnen gefallen und die Sie nicht vergessen möchten. Klassische Beispiele sind die Bucket List, die To-do-Liste oder die Wunschliste. Auch Ihre Interessen können Sie in dieser Form festhalten. Legen Sie eine Liste für Ihre Lieblingsfilme an oder erstellen Sie eine Übersicht mit Büchern, die Sie noch lesen möchten.
+Viele Ideen lassen sich in **Listen** umsetzen. Dabei kommt es darauf an, dass Sie Dinge auflisten, die Ihnen gefallen und die Sie nicht vergessen möchten. Klassische Beispiele sind die [Bucket List]({{< relref "posts/bucket-list" >}}), die [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}) oder die [Wunschliste]({{< relref "templates/everyday-life/wish-list" >}}). Auch Ihre Interessen können Sie in dieser Form festhalten. Legen Sie eine Liste für Ihre Lieblingsfilme an oder erstellen Sie eine Übersicht mit Büchern, die Sie noch lesen möchten.
 
 **Tracker** sind wohl die bekannteste Ergänzung zum Bullet Journal. Sie helfen, regelmäßige Aufgaben zu dokumentieren. Es gibt verschiedene Arten von Trackern:
 
@@ -112,7 +104,7 @@ Der Hauptgrund, mit dem Journaling anzufangen, ist für die meisten die **organi
 
 Ihre Ideen – Ihr Bullet Journal. Es passt sich an Ihre **Bedürfnisse** an und muss keinem vorgegebenen Muster entsprechen. Sie können es zum Organisieren Ihrer täglichen Termine und Aufgaben verwenden. Dafür eignen sich die integrierten Tools, wie der Kalender oder die To-do-Liste. Gleichzeitig können Sie aber auch kreativ werden und in den Collections Ihrer Fantasie freien Lauf lassen.
 
-![Das Bild zeigt, dass es im Bullet Journal möglich ist., kreative Inhalte mit praktischen Inhalten zu kombinieren.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
+![Das Bild zeigt, dass es im Bullet Journal möglich ist, kreative Inhalte mit praktischen Inhalten zu kombinieren.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
 
 Kombinieren Sie Funktionalität mit Kreativität.
 
@@ -120,14 +112,16 @@ Kombinieren Sie Funktionalität mit Kreativität.
 
 Durch das Niederschreiben im Bullet Journal können Sie zu jedem Zeitpunkt nachsehen, was Sie wann getan haben und ob Sie Ihren **Zielen näherkommen**. Ziehen Sie aus Ihrem **Verhalten** Rückschlüsse und versuchen Sie, Ihren Alltag noch effektiver und stressfreier zu gestalten. Das Bullet Journal ist ein **lebendiges System** und verändert sich mit Ihnen. Probieren Sie neue Dinge in den Collections aus und sortieren Sie aus, wenn Ihnen bestimmte Themen nicht mehr zusagen.
 
-„Wenn der Weg das Ziel ist, dann müssen wir besser reisen lernen.“
+> Wenn der Weg das Ziel ist, dann müssen wir besser reisen lernen.
 
 ### Lebensqualität steigern
 
-Für den Erfinder, Ryder Carroll, ist es wichtig, dass das Bullet Journal Ihr Leben verbessert. Es gibt kein Richtig oder Falsch, wenn es darum geht, das Leben im Hier und Jetzt zu genießen. Dazu gehört auch, dass das Journaling für Sie eine **Pause vom alltäglichen Stress** bietet und Sie Ihr Leben reflektieren. Das kreative Schreiben kann für manche eine **meditative Wirkung** entfalten. Außerdem fließt in Ihr Bullet Journal viel Arbeit. Es ist etwas Selbstgemachtes, was den emotionalen Wert steigert und es leichter macht, am Ball zu bleiben.
+Für den Erfinder, Ryder Carroll, ist es wichtig, dass das Bullet Journal Ihr Leben verbessert. Es gibt kein Richtig oder Falsch, wenn es darum geht, [das Leben im Hier und Jetzt zu genießen]({{< relref "posts/dankbarkeitstagebuch" >}}). Dazu gehört auch, dass das Journaling für Sie eine [Pause vom alltäglichen Stress]({{< relref "posts/digital-detox" >}}) bietet und Sie Ihr Leben reflektieren. Das kreative Schreiben kann für manche eine **meditative Wirkung** entfalten. Außerdem fließt in Ihr Bullet Journal viel Arbeit. Es ist etwas Selbstgemachtes, was den emotionalen Wert steigert und es leichter macht, am Ball zu bleiben.
 
 ## Vorlage für Ihr digitales Bullet Journal
 
 Eine Alternative zum analogen Notizbuch ist ein **digitales Bullet Journal**. SeaTable bietet Ihnen eine einfache und effektive Lösung, wie Sie Ihre Kalender, Listen und Tracker digital gestalten und mit ein paar Klicks flexibel umstrukturieren können. Passen Sie die [kostenlose Vorlage]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) an Ihre Bedürfnisse an und ergänzen Sie Ihre eigenen Ideen. In das Bullet Journal ist ein Habit Tracker integriert, welcher eine praktische Ergänzung zu Ihrem Journal darstellt. Arbeiten Sie mit Farben, Symbolen und Bildern, um Ihr Journal individuell zu gestalten.
+
+{{< template-box id="c7a62de5f2664659bce2" >}}
 
 Wenn Sie SeaTable für Ihr Bullet Journal nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage mit vielen Inspirationen und Beispiel-Einträgen finden Sie [hier]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}).

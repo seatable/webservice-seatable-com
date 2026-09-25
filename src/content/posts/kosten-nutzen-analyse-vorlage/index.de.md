@@ -32,15 +32,15 @@ Profitieren Sie von einer Kosten-Nutzen-Analyse. Bildrechte: amazing studio / Ad
 
 ## Wo kommt eine Kosten-Nutzen-Analyse zum Einsatz?
 
-Je größer ein [Projekt]({{< relref "templates/projects/project-plan" >}}) ist, umso größer ist in der Regel auch seine Investitionssumme. Während sich die [Kosten]({{< relref "templates/everyday-life/budget-book" >}}) einer Investition dabei meist recht einfach ermitteln lassen, ist der konkrete Nutzen wesentlich schwieriger zu identifizieren. Grund dafür ist, dass sich weder der Erfolg noch die Wirkung einer Maßnahme vorab sicher voraussagen und beziffern lassen. Hinzu kommt, dass der Nutzen einer Investition oft einer subjektiven Bewertung der Entscheider unterliegt.
+Je größer ein [Projekt]({{< relref "templates/projects/project-plan" >}}) ist, umso größer ist in der Regel auch seine Investitionssumme. Während sich die Kosten einer [Investition]({{< relref "posts/investitionsplan" >}}) dabei meist recht einfach ermitteln lassen, ist der konkrete Nutzen wesentlich schwieriger zu identifizieren. Grund dafür ist, dass sich weder der Erfolg noch die Wirkung einer Maßnahme vorab sicher voraussagen und beziffern lassen. Hinzu kommt, dass der Nutzen einer Investition oft einer subjektiven Bewertung der Entscheider unterliegt.
 
-Eine CBA hilft dabei, alle möglichen Faktoren, die sich auf eine unternehmerische Entscheidung auswirken, übersichtlich zu dokumentieren und abteilungsübergreifend, objektiv und neutral zu bewerten. Dabei ist es von Vorteil, auf eine **Datenbank** zu setzen. Denn wer seine Kosten-Nutzen-Analyse mit einer Vorlage erstellt, ermöglicht es allen Beteiligten, auf der gleichen Basis zu arbeiten. So gehen keine Daten verloren, wichtige Aspekte werden nicht übersehen und zusätzliche Faktoren, die andere Abteilungen als relevant erachten, lassen sich einfach ergänzen.
+Eine CBA hilft dabei, alle möglichen Faktoren, die sich auf eine unternehmerische Entscheidung auswirken, übersichtlich zu dokumentieren und abteilungsübergreifend, objektiv und neutral zu bewerten. Dabei ist es von Vorteil, auf eine [Datenbank]({{< relref "posts/relationale-datenbank" >}}) zu setzen. Denn wer seine Kosten-Nutzen-Analyse mit einer Vorlage erstellt, ermöglicht es allen Beteiligten, auf der gleichen Basis zu arbeiten. So gehen keine Daten verloren, wichtige Aspekte werden nicht übersehen und zusätzliche Faktoren, die andere Abteilungen als relevant erachten, lassen sich einfach ergänzen.
 
 ### Anwendungsfälle für eine CBA
 
 Im Grunde passt eine Kosten-Nutzen-Analyse immer, wenn größere finanzielle Investitionen geplant sind. Besonders eignet sie sich, wenn Sie zum Beispiel
 
-- Ihre IT-Ausstattung modernisieren möchten
+- Ihre [IT-Ausstattung]({{< relref "posts/it-infrastruktur" >}}) modernisieren möchten
 - Umbaumaßnahmen für Ihren Betrieb planen
 - [Aus- und Weiterbildungsmaßnahmen]({{< relref "posts/workshop-planen" >}}) für Ihre Mitarbeiter anbieten
 - neue Fertigungsverfahren implementieren möchten
@@ -85,9 +85,8 @@ Demgegenüber steht der Gewinn, den diese Weiterbildungsmaßnahme bringen könnt
 | Reisekosten      | 1.500 €      | gesteigerter Umsatz        | 16.000 €          |
 | Übernachtung     | 1.650 €      |                            |                   |
 | Verdienstausfall | 2.200 €      |                            |                   |
-|                  |              |                            |                   |
-|                  | Gesamtkosten |                            | Gesamtnutzen      |
-|                  | 7.850 €      |                            | 19.300 €          |
+|   |   |   |   |
+| Gesamtkosten     | 7.850 €      | Gesamtnutzen               | 19.300 €          |
 
 Durch die CBA können die Geschäftsinhaber die Gesamtkosten von 7.850 Euro dem erwarteten Gesamtnutzen von über 19.000 Euro gegenüberstellen. So sehen sie, dass sich die geplante Investition langfristig lohnen würde.
 
@@ -105,5 +104,7 @@ Neben der klassischen Kosten-Nutzen-Analyse gibt es noch [weitere Formen und Met
 ## Hier finden Sie eine passende Vorlage
 
 Ihre Kosten-Nutzen-Analyse können Sie zwar auch händisch mit simplen Tabellen durchführen, bequemer geht es aber mit einer intelligenten Datenbank, die mit Formeln und Verknüpfungen automatisch die gewünschten Werte errechnet.
+
+{{< template-box id="96bac4ce0df545daa01f" >}} 
 
 Die Vorteile einer Kosten-Nutzen-Analyse haben Sie überzeugt? Dann finden Sie [hier]({{< relref "templates/finance/cost-benefit-analysis" >}}) die entsprechende Vorlage. Wenn Sie noch kein SeaTable Konto haben, können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}). Probieren Sie es aus!

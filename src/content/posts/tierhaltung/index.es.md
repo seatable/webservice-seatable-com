@@ -1,112 +1,113 @@
 ---
-title: 'Organización de la cría de animales: cómo mantener a su mascota de forma adecuada a su especie'
-description: "Una mascota le aporta alegría, es un alma gemela o simplemente es hermosa a la vista. Sin embargo, tener un animal de compañía también implica trabajo, porque se compromete durante mucho tiempo y debe tener en cuenta las necesidades de su mascota. Aquí puede averiguar cómo organizar la tenencia de un animal de compañía adecuado a su especie y qué condiciones deben cumplir usted y su hogar para poder ofrecer un buen hogar a un animal."
+title: 'Organizar la tenencia de animales: cómo cuidar a su mascota de forma adecuada a su especie'
+description: "Una mascota le aporta alegría, es un alma gemela o simplemente es bonita de ver. Sin embargo, tener un animal de compañía también implica trabajo, porque se compromete durante mucho tiempo y debe tener en cuenta las necesidades de su mascota. Aquí descubrirá cómo organizar una tenencia de animales adecuada a la especie y qué condiciones deben cumplir usted y su hogar para poder ofrecer un buen hogar a un animal."
 date: 2024-01-30
 categories:
     - 'best-practice'
 tags:
     - 'Vida cotidiana y ocio'
-url: '/es/ganaderia'
+url: '/es/tenencia-animales'
 aliases:
+    - '/es/ganaderia/'
     - '/es/tierhaltung/'
 color: '#f5c119'
 seo:
-    title: 'Organiza el cuidado y bienestar de tu mascota'
-    description: 'Si deseas tener una mascota, infórmate bien antes. Aquí descubrirás lo esencial para un cuidado responsable y adecuado del animal.'
+    title: 'Organice el cuidado y bienestar de su mascota'
+    description: 'Si desea tener una mascota, infórmese bien antes. Aquí descubrirá lo esencial para una tenencia de animales responsable y adecuada.'
 ---
 
-El perro es el mejor amigo del hombre: esto se dice a menudo cuando se trata de la relación entre amo y **mascota**. El gato es la mascota más popular en Alemania, por delante del perro, seguido de roedores, peces y reptiles. Una mascota da alegría, es un alma gemela o simplemente es bonita de ver. Sin embargo, **tener** un animal de compañía también implica trabajo, ya que te comprometes durante mucho tiempo y tienes que tener en cuenta las necesidades de tus mascotas.
+El perro es el mejor amigo del hombre: esto se dice a menudo cuando se habla de la relación entre dueño y **mascota**. Sin embargo, el gato es la mascota favorita de los alemanes y ocupa el primer puesto, por delante del perro. Muy por detrás le siguen los roedores, los peces y los reptiles. Una mascota le aporta alegría, es un alma gemela o simplemente es bonita de ver. Sin embargo, la **tenencia de animales** también implica trabajo, ya que usted se compromete durante mucho tiempo y debe tener en cuenta las necesidades de sus mascotas.
 
-Aquí encontrará información sobre cómo organizar una tenencia de animales de compañía adecuada a su especie y qué condiciones deben cumplir usted y su familia para poder ofrecer un buen hogar a un animal.
+Aquí descubrirá cómo organizar una tenencia de animales adecuada a la especie y qué condiciones deben cumplir usted y su hogar para poder ofrecer un buen hogar a un animal.
 
 ## ¿Encaja una mascota en su vida?
 
-La primera pregunta es si hay sitio para un animal en tu vida cotidiana. Tienes que **responsabilizarte** de una mascota por tiempo indefinido. Debes preguntarte si puedes cumplir los requisitos individuales que tu mascota te impone.
+La primera pregunta es si hay sitio para un animal en su día a día. Con una mascota, usted asume una **responsabilidad** por tiempo indefinido. Por eso, debe preguntarse si puede cumplir los requisitos individuales que su mascota le plantea.
 
 ![He aquí una lista de preguntas que debe hacerse antes de comprar un animal de compañía.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
 
-Debes ser consciente de ello antes de adquirir un animal de compañía.
+Tenga esto en cuenta antes de adquirir una mascota.
 
 ### ¿Cuándo se considera que un animal es un animal de compañía?
 
-En la cría de animales se distingue entre animales de granja, animales de compañía y animales salvajes. Para ser considerado animal de compañía, un animal debe ser mantenido por humanos y vivir con ellos. Los **animales salvajes y** de granja también pueden convertirse en animales de compañía en determinadas circunstancias. Dependiendo de la normativa legal de su país, puede tener casi cualquier animal como mascota.
+En la tenencia de animales se distingue entre animales de granja, animales de compañía y animales salvajes. Para ser considerado animal de compañía, un animal debe ser mantenido por el ser humano y vivir con él. Por eso, también los **animales salvajes y de granja** pueden convertirse en animales de compañía en determinadas circunstancias. Dependiendo de la normativa legal de su país, puede tener casi cualquier animal como mascota.
 
-En Alemania, el término **animal** de compañía se refiere sobre todo a representantes típicos como perros, gatos y roedores. Sin embargo, cada vez se tienen más animales exóticos como mascotas.
+En Alemania, el concepto de **animal de compañía** está marcado sobre todo por representantes típicos como perros, gatos y roedores. Sin embargo, cada vez se tienen más animales exóticos como mascotas.
 
 ### Animales exóticos
 
-Desde el pez payaso _Nemo_ hasta el búho nival _Hedwig_, cada vez es más frecuente encontrar en los hogares animales populares que normalmente viven en zoológicos o en la naturaleza. Salvo algunas excepciones, en Alemania está permitido tener animales exóticos de todo tipo como mascotas.
+Desde el pez payaso _Nemo_ hasta la lechuza nival _Hedwig_: cada vez es más frecuente encontrar en los hogares animales populares que normalmente viven en zoológicos o en libertad. Salvo algunas excepciones, en Alemania está permitido tener animales exóticos de todo tipo como mascotas.
 
-![La tenencia de serpientes está permitida. Las excepciones son las serpientes peligrosas, que deben denunciarse.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
+![La tenencia de serpientes está permitida. Las excepciones son las serpientes peligrosas, que deben declararse.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
 
-Puede tener serpientes en condiciones legales, pero debe informar de los ejemplares peligrosos.
+Puede tener serpientes cumpliendo los requisitos legales, pero debe declarar los ejemplares peligrosos.
 
-Los animales de especies especialmente raras o peligrosas pueden tener cierto atractivo, pero son muy difíciles de mantener. Esto se debe a que los animales exóticos necesitan una alimentación especial, están acostumbrados a un clima diferente y a menudo superan a sus dueños. Desaconsejamos encarecidamente comprar este tipo de animales por Internet, ya que suelen venderse ilegalmente y sacarse de su país de origen con este fin.
+Los animales de especies especialmente raras o peligrosas pueden tener cierto atractivo, pero son muy exigentes en cuanto a sus cuidados. Esto se debe a que los animales exóticos necesitan una alimentación especial, están acostumbrados a otro clima y, con frecuencia, acaban desbordando a sus dueños. Desaconsejamos encarecidamente comprar este tipo de animales por Internet, ya que suelen venderse ilegalmente y, para ello, se les arranca de su lugar de origen.
 
-## Tener animales en el piso de alquiler
+## Tener animales en un piso de alquiler
 
-¿Piensa mudarse con un nuevo animal de compañía y no está seguro de si puede tener una mascota en su piso? Entonces es aconsejable echar un vistazo al **contrato de alquiler** o ponerse en contacto directamente con el **casero**. Porque no está permitido tener cualquier animal de compañía sin acuerdo previo.
+¿Tiene previsto acoger a un nuevo compañero animal y no está seguro de si puede tener una mascota en su piso? Entonces es aconsejable echar un vistazo al **contrato de alquiler** o ponerse en contacto directamente con el **casero**. Y es que no puede tener cualquier animal de compañía sin acuerdo previo.
 
 {{< faq "¿Qué dice el contrato de alquiler sobre la tenencia de animales?" >}}
 
-El casero puede estipular en el contrato de alquiler ciertas restricciones a la tenencia de animales de compañía. Si no existe tal disposición en el contrato de alquiler, el casero no puede prohibirle tener animales de compañía, independientemente del animal de que se trate. La excepción es la tenencia de animales peligrosos.
+El casero puede estipular en el contrato de alquiler ciertas restricciones a la tenencia de animales. Si no existe tal disposición en el contrato de alquiler, el casero no puede prohibirle tener animales de compañía, independientemente del animal de que se trate. La excepción es la tenencia de animales peligrosos.
 {{< /faq >}}
 
 {{< faq "¿Qué restricciones existen?" >}}
 
-Existe la llamada cláusula **de permiso**, que restringe la tenencia de animales grandes. Si esta cláusula está incluida en su contrato de alquiler, debe pedir permiso al propietario antes de mudarse con un animal. El casero puede prohibirle adquirir determinados animales en casos concretos, indicando el motivo.
+Existe la llamada **reserva de autorización**, que restringe la tenencia de animales grandes. Si esta cláusula está incluida en su contrato de alquiler, debe pedir permiso al casero antes de que el animal llegue a casa. En casos concretos, el casero puede prohibirle adquirir determinados animales, siempre que indique el motivo.
 {{< /faq >}}
 
 {{< faq "¿Qué animales puedo tener sin autorización?" >}}
 
-Los **animales pequeños** como ratones, salamanquesas o peces ornamentales que no representen peligro, ruido o molestias por olores y se mantengan en jaulas cerradas, terrarios o acuarios no necesitan permiso.
+Los **animales pequeños** como ratones, geckos o peces ornamentales que no representen peligro ni causen molestias por ruido u olores y se mantengan en jaulas cerradas, terrarios o acuarios no necesitan permiso.
 {{< /faq >}}
 
 {{< faq "¿Puedo tener animales de compañía en mi piso temporalmente?" >}}
 
-Por supuesto, no hay nada malo en una breve visita de un amigo con su mascota. Sin embargo, debes obtener el consentimiento del propietario si cuidas de animales durante más tiempo o incluso a cambio de una remuneración.
+Por supuesto, no hay nada malo en una breve visita de un conocido con su mascota. Sin embargo, debe obtener el consentimiento del casero si cuida animales durante un periodo prolongado o incluso a cambio de una remuneración.
 {{< /faq >}}
 
-## La cría de animales cuesta tiempo
+## La tenencia de animales requiere tiempo
 
-Antes de tener una mascota, debes ser consciente del impacto que tendrá en tu **rutina diaria**. Porque los animales cuestan tiempo. Ya sea pasear al perro con regularidad, darle al gato los mimos que necesita o preparar comida fresca para el conejo. Incluso los animales pequeños que requieren poca atención pero tienen recintos difíciles de limpiar te quitan tiempo.
+Antes de tener una mascota, debe ser consciente del impacto que tendrá en su **rutina diaria**. Y es que los animales requieren tiempo. Ya sea pasear al perro con regularidad, darle al gato los mimos que reclama o preparar comida fresca para el conejo. Incluso los animales pequeños que requieren poca atención, pero cuyos recintos son laboriosos de limpiar, le quitan tiempo.
 
-Por supuesto, en un hogar con varias personas, tiene sentido dividir **las tareas** de cuidado de tu mascota. Lo lógico es trazar un plan para que tu mascota nunca se sienta desatendida.
+Por supuesto, en un hogar con varias personas, tiene sentido **repartir las tareas** relacionadas con la tenencia del animal. Para ello, conviene crear una [lista de tareas]({{< relref "posts/to-do-liste-online" >}}) para que su mascota nunca se sienta desatendida.
 
-Si te ausentas durante un periodo prolongado, por ejemplo porque te vas de **vacaciones**, debes [ocuparte](https://www.lanuk.nrw.de/article/haustiere-brauchen-auch-in-der-urlaubszeit-eine-zuverlaessige-betreuung) de tu mascota con tiempo. En el caso de los roedores, suele bastar con pedir a amigos y familiares que se ocupen de ellos de vez en cuando y les den de comer. Esto no suele ser suficiente para los animales más grandes, ya que necesitan ejercicio activo y estar cerca de la gente.
+Si se ausenta durante un periodo prolongado, por ejemplo porque se va de **vacaciones**, debe ocuparse con tiempo del [cuidado](https://www.lanuk.nrw.de/article/haustiere-brauchen-auch-in-der-urlaubszeit-eine-zuverlaessige-betreuung) de su mascota. En el caso de los roedores, suele bastar con pedir a amigos y familiares que pasen de vez en cuando a ver cómo están y les den de comer. Para los animales más grandes esto no suele ser suficiente, ya que necesitan hacer ejercicio y estar cerca de las personas.
 
-{{< warning headline="Llevarse animales de vacaciones" text="Las vacaciones también pueden ser una gran experiencia para los animales. Sin embargo, **viajar con animales** también supone mucho estrés. Los gatos, perros y hurones necesitan un **pasaporte de la UE** para viajar al extranjero. Además, en el destino de las vacaciones pueden exigirse vacunas especiales y cuarentena." />}}
+{{< warning headline="Llevarse a los animales de vacaciones" text="Las vacaciones también pueden ser una gran experiencia para los animales. Sin embargo, **viajar con animales** también supone mucho estrés. Los gatos, perros y hurones necesitan un **pasaporte europeo para animales de compañía** para viajar al extranjero. Además, en el país de destino pueden exigirse vacunas especiales y cuarentena." />}}
 
-Para vacaciones más largas, tiene la opción de llevar a su mascota a una **residencia can** ina. Si ha comprado el animal a un criador, puede preguntarle si ofrece cuidado en vacaciones. En cualquier caso, no debe dejar a su mascota sola en casa.
+Para [vacaciones más largas]({{< relref "posts/checkliste-urlaub" >}}), tiene la opción de llevar a su mascota a una **residencia de animales**. Si ha comprado el animal a un criador, también puede preguntarle si ofrece cuidado durante las vacaciones. En cualquier caso, no debe dejar a su mascota sola en casa.
 
-## Lo que necesita para una cría de animales adecuada a su especie
+## Lo que necesita para una tenencia de animales adecuada a la especie
 
-El entorno y los cuidados que necesita su mascota dependen del tamaño, tipo y carácter del animal. Los animales exóticos y raros suelen tener requisitos más exigentes que los aquí descritos.
+El entorno y los cuidados que necesita su mascota dependen del tamaño, la especie y el carácter del animal. Los animales exóticos y raros suelen tener requisitos más exigentes que los aquí descritos.
 
 ### Equipamiento básico
 
-- **Juguetes:** Para que tu mascota tenga algo que hacer mientras tú estás fuera u ocupado, debes comprarle juguetes adecuados que le duren mucho tiempo.
-- **Acuarios/jaulas:** Para los aficionados a los animales pequeños, instalar un recinto y crear un entorno adecuado forma parte del proceso. Al comprar una jaula o un acuario, debes tener en cuenta cuánto espacio, luz y calor necesita tu mascota.
-- **Zona para dormir**: Los animales que se mueven libremente por su casa primero tienen que acostumbrarse a su nuevo entorno. Ofrezca a su mascota un refugio que también pueda servirle como lugar para dormir.
-- **Comederos:** Para que tu mascota tenga acceso constante a comida y bebida, debes instalar un comedero fijo. Así te resultará más fácil controlar su comportamiento alimentario.
+- **Juguetes:** Para que su mascota tenga algo que hacer mientras usted está fuera u ocupado, debe comprarle juguetes adecuados que le duren mucho tiempo.
+- **Acuarios/jaulas:** Para los aficionados a los animales pequeños, instalar un recinto y crear un entorno adecuado forma parte del proceso. Al comprar una jaula o un acuario, debe tener en cuenta cuánto espacio, luz y calor necesita su mascota.
+- **Zona para dormir:** Los animales que se mueven libremente por su casa primero tienen que acostumbrarse a su nuevo entorno. Ofrezca a su mascota un refugio que también pueda servirle como lugar para dormir.
+- **Comederos:** Para que su mascota tenga acceso constante a comida y bebida, debe instalar un comedero fijo. Así le resultará más fácil controlar su [comportamiento alimentario]({{< relref "posts/ernaehrungstagebuch" >}}).
 
-![En las tiendas de animales encontrará artículos, comida y todo lo necesario para su cuidado.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
+![En las tiendas de animales encontrará artículos, comida y todo lo necesario para la tenencia de animales.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
 En las tiendas de animales encontrará todo lo que su mascota necesita.
 
-- **Caja de transporte:** Lo primero que verá su mascota es la caja de transporte. La necesitará cuando recoja a su mascota, para las visitas al veterinario o mientras se limpia la jaula.
-- **Collar/arnés:** Para asegurarte de que no pierdes a tu mascota en los paseos, necesitas una correa y un collar, preferiblemente con la información más importante sobre tu mascota en caso de que se pierda.
-- **Productos de limpieza:** su mascota sólo se sentirá a gusto en un hogar limpio. Por lo tanto, debes limpiar con regularidad todos los elementos utilizados para mantener a los animales.
+- **Transportín:** Lo primero que verá su mascota es el transportín. Lo necesitará cuando vaya a recogerla, para las visitas al veterinario o mientras limpia la jaula.
+- **Collar/arnés:** Para no perder a su mascota durante los paseos, necesita una correa y un collar, preferiblemente con la información más importante sobre su mascota por si llegara a perderse.
+- **Productos de limpieza:** Su mascota solo se sentirá a gusto en un [hogar limpio]({{< relref "posts/putzplan" >}}). Por lo tanto, debe limpiar con regularidad todos los objetos que utiliza para la tenencia del animal.
 
-### Nutrición
+### Alimentación
 
-Tienes una gran responsabilidad a la hora de alimentar a tu mascota. Como en el caso de los humanos, las **comidas regulares** favorecen la digestión y el metabolismo. Preste especial atención a la **cantidad** que le da de comer. Debe depender de su **peso corporal**. Los perros y los gatos, en particular, a veces piden más y más comida, lo que puede provocarles malestar físico a largo plazo.
+Usted tiene una gran responsabilidad a la hora de alimentar a su mascota. Como en el caso de los humanos, las **comidas regulares** favorecen la digestión y el metabolismo. Preste especial atención a la **cantidad** que le da de comer. Esta debe depender de su **peso corporal**. Los perros y los gatos, en particular, a veces reclaman insistentemente cada vez más comida, lo que a largo plazo puede provocar problemas de salud.
 
-Los animales no siempre comen lo que se les pone delante. En este caso, conviene alternar comida seca, enlatada y fresca para abrir el apetito del animal. Si esto tampoco funciona, puedes utilizar golosinas durante un breve periodo de tiempo.
+Los animales no siempre comen lo que se les pone delante. En este caso, conviene alternar comida seca, enlatada y fresca para abrir el apetito del animal. Si esto tampoco funciona, puede recurrir a golosinas durante un breve periodo de tiempo.
 
-Muchos de los alimentos que comemos a diario son **tóxicos** para los animales. Los perros, por ejemplo, no toleran el chocolate y deben mantenerse alejados de muchos otros [alimentos](https://www.br.de/radio/bayern1/was-duerfen-hunde-nicht-fressen-100.html). Por tanto, asegúrese de mantener los alimentos fuera del alcance de sus mascotas.
+Muchos de los alimentos que comemos a diario son **tóxicos** para los animales. Los perros, por ejemplo, no toleran el chocolate y deben mantenerse alejados de muchos otros [alimentos](https://www.br.de/radio/bayern1/was-duerfen-hunde-nicht-fressen-100.html). Por tanto, asegúrese de guardar sus alimentos fuera del alcance de sus mascotas.
 
-Su mascota debe tener siempre acceso a **agua potable** fresca. Esto es especialmente importante para los roedores. Los roedores también necesitan forraje, como heno y paja, a todas horas para mantener en funcionamiento su sistema digestivo.
+Su mascota debe tener siempre acceso a **agua potable** fresca. Esto es especialmente importante para los roedores. Además, los roedores necesitan forraje, como heno y paja, a todas horas para que su sistema digestivo funcione.
 
 ### Salud
 
@@ -116,23 +117,23 @@ Puede saber si su mascota está bien por su **comportamiento** y su **aspecto**.
 
 Los perros necesitan hacer suficiente ejercicio todos los días.
 
-### Atención
+### Cuidados
 
-En el mejor de los casos, el aseo de un animal se limita a **darle de comer** y **limpiarle el retrete**. Esto se debe a que la mayoría de los animales se limpian solos. Sin embargo, los animales mayores suelen necesitar el apoyo de sus dueños. Entre las posibles tareas se incluyen el cepillado, el corte de garras y el cuidado en caso de enfermedad.
+En el mejor de los casos, el cuidado de un animal se limita a **darle de comer** y **limpiar su arenero**. Esto se debe a que la mayoría de los animales se asean solos. Sin embargo, los animales mayores suelen necesitar el apoyo de sus dueños. Entre las posibles tareas se incluyen el cepillado, el corte de uñas y los cuidados en caso de enfermedad.
 
-Pero acicalar también puede significar que quiere mimar a su mascota. Para tales necesidades, existen, por ejemplo, **peluqueros** que pueden hacer un cambio de imagen a tu mascota.
+Pero el cuidado también puede significar que quiera mimar a su mascota. Para ello existen, por ejemplo, las **peluquerías caninas**, donde su mascota puede recibir un cambio de imagen.
 
-## La cría de animales cuesta dinero
+## La tenencia de animales cuesta dinero
 
-Si quieres tener un animal de compañía, tienes que poder permitírtelo. Al fin y al cabo, las mascotas son caras, sobre todo cuando se trata de costosas **visitas al veterinario**.
+Si quiere tener un animal de compañía, tiene que poder [permitírselo]({{< relref "posts/haushaltsbuch-fuehren" >}}). Al fin y al cabo, las mascotas pueden resultar bastante caras, sobre todo cuando hay que pagar costosas **visitas al veterinario**.
 
-Los **costes de adquisición** varían mucho según se compre un animal a un refugio o a un criador. Además de la comida y los productos para el cuidado del animal, hay que pagar cada mes **la tasa canina** y el **seguro de animales de compañía**. Para hacerse una idea aproximada, aquí puede consultar los costes de los 3 principales animales de compañía en Alemania.
+Los **costes de adquisición** varían mucho según se adopte un animal en un refugio o se compre a un criador. Además de la comida y los productos para el cuidado del animal, cada mes hay que pagar el **impuesto sobre perros** o el **seguro para mascotas**. Para hacerse una idea aproximada, aquí puede consultar los costes de las 3 mascotas más populares en Alemania.
 
 ### Perros
 
 - **Compra:** de 200 a 3500 euros
 - **Equipamiento básico:** de 70 a 300 euros
-- **Coste mensual:** 110 euros aprox.
+- **Coste mensual:** aprox. 110 euros
 
 ### Gatos
 
@@ -148,65 +149,67 @@ Los **costes de adquisición** varían mucho según se compre un animal a un ref
 
 ## Cuándo debe acudir al veterinario
 
-Al igual que nosotros, los animales a veces enferman, pero a menudo nos lo ocultan. Por eso es necesario consultar a un veterinario aunque haya pequeñas desviaciones del comportamiento normal de su mascota. Las **revisiones preventivas** periódicas pueden ayudar a prevenir enfermedades.
+Al igual que nosotros, los animales a veces enferman, pero a menudo nos lo ocultan. Por eso es necesario consultar a un veterinario incluso ante pequeñas desviaciones del comportamiento normal de su mascota. Las **revisiones preventivas** periódicas pueden ayudar a prevenir enfermedades.
 
-{{< warning headline="Seguro médico para su mascota" text="Un seguro médico puede merecer la pena para su mascota, sobre todo si conoce alguna enfermedad preexistente. Las primas de seguro empiezan en 200 euros al año para gatos y 280 euros para perros. El [seguro de cirugía](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) también puede ser útil para animales mayores, ya que las operaciones pueden costar rápidamente sumas de cuatro cifras. Por lo demás, conviene reservar dinero suficiente para pagarlo en caso de urgencia." />}}
+{{< warning headline="Seguro médico para su mascota" text="Un seguro médico puede merecer la pena para su mascota, sobre todo si se conocen enfermedades previas. Las primas empiezan en 200 euros al año para gatos y en 280 euros para perros. Un [seguro de cirugía](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) también puede compensar en el caso de animales de edad avanzada, ya que las operaciones pueden costar rápidamente cifras de cuatro dígitos. De lo contrario, debería reservar dinero suficiente para poder pagarlas en caso de urgencia." />}}
 
-Cuando se acoge a un animal, hay que acudir al médico para un primer **chequeo sanitario**. También es necesario **vacunarlo** y **desparasitarlo** periódicamente.
+Cuando acoja a un animal, debe llevarlo al veterinario para un primer **chequeo de salud**. También son necesarias **vacunas** y **desparasitaciones** periódicas.
 
 ![El veterinario examina al perro para reconocer enfermedades en una fase temprana.](pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
 
-La prevención es lo más importante para que su mascota tenga una larga vida.
+La prevención es fundamental para que su mascota tenga una larga vida.
 
 ## ¿De dónde procede su mascota?
 
-Comprar un animal en un refugio, una tienda de animales o un criador es muy fácil. Sin embargo, según la opción, el bienestar del animal, el precio y lo exóticos que sean los animales pueden variar mucho.
+En un refugio, en una tienda de animales o a través de un criador: adquirir un animal es muy fácil. Sin embargo, según la opción, varía mucho lo adecuada que sea la tenencia de los animales, lo elevado que sea el precio y lo exóticos que sean los animales.
 
 ### Refugio de animales
 
-Al comprar un animal a una protectora, estás dando un nuevo hogar **a un animal abandonado** y apoyando la cría de animales adecuados a su especie. Antes de decidirte por un animal, puedes conocerlo intensamente. En el refugio de animales conocerás una gran variedad de especies y caracteres, algunos de los cuales han tenido malas experiencias en el pasado y necesitan una atención especial.
+Al adoptar un animal en un refugio, da un nuevo hogar **a un animal abandonado** y apoya una tenencia de animales adecuada a la especie. Antes de decidirse por un animal, puede conocerlo a fondo. En el refugio encontrará una gran variedad de especies y caracteres, algunos de los cuales han tenido malas experiencias en el pasado y necesitan una atención especial.
 
-Para adoptar el animal de su elección, se realiza un control personal que garantiza que el animal será entregado a un dueño cariñoso y a un hogar adecuado. Una vez superado este obstáculo, sólo tiene que pagar la **tasa de colocación**. El hecho de que los animales estén siempre vacunados y desparasitados le ahorra gastos y desplazamientos al veterinario.
+Para poder adoptar el animal que haya elegido, se le someterá a una comprobación personal para garantizar que el animal será entregado a un dueño cariñoso y a un hogar adecuado. Una vez superado este obstáculo, solo tiene que pagar la **tasa de adopción**. El hecho de que los animales se entreguen siempre vacunados y desparasitados le ahorra gastos y visitas al veterinario.
 
-### Tienda de mascotas
+### Tienda de animales
 
-Una visita a la tienda de animales favorece las **compras espontáneas**. Al fin y al cabo, los animales pequeños, la comida y los accesorios pueden comprarse de una sola vez. Sin embargo, comprar un animal en una tienda de animales a menudo contribuye a una cría deficiente. Los animales se consideran mercancías y suelen proceder de centros de cría. Además, las pequeñas jaulas en las que se exponen roedores y reptiles dan una falsa impresión de cuánto espacio se necesita para una cría adecuada a la especie.
+Una visita a la tienda de animales favorece las **compras impulsivas**. Al fin y al cabo, los animales pequeños, la comida y los accesorios pueden comprarse de una sola vez. Sin embargo, comprar un animal allí a menudo favorece una tenencia inadecuada. Los animales se consideran mercancías y suelen proceder de criaderos. Además, las pequeñas jaulas en las que se exponen roedores y reptiles dan una falsa impresión de cuánto espacio necesita para una tenencia adecuada a la especie.
 
 ### Criador
 
-Un animal de un criador es sobre todo una cosa: **caro**. Si quieres un gato especial con pedigrí o un pez exótico, aquí lo encontrarás por el precio justo.
+Un animal de un criador es sobre todo una cosa: **caro**. Si quiere un gato de raza especial o un pez exótico, aquí lo encontrará por el precio correspondiente.
 
-Antes de comprar un animal a un criador, debe comprobarlo. Porque no todos los criadores hacen su trabajo por pasión. Algunos actúan por afán de lucro, con lo que descuidan la cría adecuada a la especie y el bienestar de los animales. Los animales pueden sufrir de endogamia, sobregamia o cría de tortura, lo que no es evidente cuando los compra y puede causarle costosos problemas más adelante.
+Antes de comprar un animal a un criador, debe comprobar su reputación. Y es que no todos los criadores hacen su trabajo por pasión. Algunos actúan por afán de lucro, descuidando una tenencia adecuada a la especie y el bienestar de los animales. Los animales pueden sufrir endogamia, cría excesiva o cría de tortura, algo que no se aprecia en el momento de la compra y que más adelante puede causarle problemas costosos.
 
-### Privado
+### Particulares
 
-En la compra privada hay grandes diferencias según se quiera comprar un animal en eBay o adoptar un cachorro del perro de un vecino. Se recomienda precaución, sobre todo al **comprar por internet**. Esto se debe a que no se puede juzgar si un animal está sano o se ha criado bien basándose sólo en fotos.
+En la compra a particulares hay grandes diferencias según quiera comprar un animal en eBay o adoptar un cachorro de la perra de sus vecinos. Se recomienda precaución, sobre todo al **comprar por Internet**. Y es que solo con fotos no puede juzgar si un animal está sano o ha sido bien cuidado.
 
-Mira las opiniones sobre el vendedor y pide más fotos e información sobre el animal. Tampoco deberías comprar el animal sin haberlo olfateado antes in situ. Esto le dirá rápidamente si el vendedor es de fiar. Asegúrese de que le entregan un contrato de compra al que pueda recurrir en caso necesario si el animal tiene enfermedades no detectadas.
+Consulte las opiniones sobre el vendedor y pida más fotos e información sobre el animal. Además, no debería comprar el animal sin haberlo conocido antes en persona. Así sabrá rápidamente si el vendedor es de fiar. Asegúrese de recibir un contrato de compraventa al que pueda recurrir en caso necesario si su mascota tiene enfermedades no detectadas.
 
 ## Una mascota para toda la familia
 
-Para los niños, la pregunta de si quieren o no un animal de compañía es fácil de responder. A menudo son ellos quienes inician este deseo. Porque en su mente, una mascota es un compañero leal al que le encanta abrazarles y que les quiere incondicionalmente. Sólo los padres saben que no todos los animales cumplen estos requisitos y que tener una mascota implica mucho trabajo. Por lo tanto, debe hablar detalladamente con sus hijos sobre la compra de un animal de compañía.
+Para los niños, la pregunta de si quieren o no un animal de compañía es fácil de responder. A menudo son ellos quienes plantean este deseo. Y es que, en su imaginación, una mascota es un compañero fiel al que le encanta que lo abracen y que los quiere incondicionalmente. Solo los padres saben que no todos los animales cumplen estas expectativas y que la tenencia de animales implica mucho trabajo. Por eso, debería hablar detenidamente con sus hijos sobre la adquisición de una mascota.
 
-Si el principal motivo para tener un animal de compañía son los niños, los padres suelen decantarse por un **animal pequeño y fácil de cuidar**. Sin embargo, los conejos, cobayas o hámsters difícilmente satisfacen el deseo de cercanía y mimos de los niños. Más bien al contrario: suelen ser tímidos y limpiar el suelo requiere mucho trabajo. Por eso, los roedores son especialmente adecuados para los niños que disfrutan observando y cuidando a los animales y son capaces de darles su espacio.
+Si el deseo de tener una mascota parte principalmente de los niños, los padres suelen decantarse por un **animal pequeño y fácil de cuidar**. Sin embargo, los conejos, cobayas o hámsteres difícilmente satisfacen el deseo de cercanía y mimos de los niños. Más bien al contrario: suelen ser asustadizos y limpiar su jaula requiere mucho trabajo. Por eso, los roedores son especialmente adecuados para los niños que disfrutan observando y cuidando a los animales y que saben respetar su espacio.
 
 ![Niños abrazando conejos.](pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
 
 Es importante que los niños aprendan a respetar los límites del animal.
 
-Cuidando animales, los niños pueden aprender a tratar a otros seres vivos con **respeto** y a asumir **responsabilidades**. A pesar del positivo efecto de aprendizaje, el interés por los animales suele decaer con el tiempo y el trabajo queda en manos de los padres. Por eso, la adquisición de un animal de compañía debe ir siempre unida a unas **condiciones**. Si su hijo ya no muestra ningún interés y usted apenas tiene tiempo para cuidarlo, la ansiada compra acabará en una rápida entrega a una protectora de animales. Así que asegúrate de antemano de que puedes hacer justicia al animal a largo plazo.
+Cuidando animales, los niños pueden aprender a tratar a otros seres vivos con **respeto** y a asumir **responsabilidades**. A pesar del efecto positivo de aprendizaje, el interés por los animales suele decaer con el tiempo y el trabajo recae en los padres. Por eso, la adquisición de una mascota debe ir siempre ligada a unas **condiciones**. Si su hijo ya no muestra ningún interés y usted apenas tiene tiempo para cuidar del animal, la ansiada compra acabará en una rápida entrega a un refugio. Así que asegúrese de antemano de que podrá atender adecuadamente al animal a largo plazo.
 
-## Aplicación gratuita para la cría de animales
+## Aplicación gratuita para la tenencia de sus animales
 
-Cuando se adquiere una mascota, hay mucho que tener en cuenta a la hora de mantenerla. SeaTable le ofrece una solución sencilla, eficaz y gratuita que le permite recopilar y ver los datos más importantes sobre sus mascotas en un solo lugar.
+Cuando se adquiere una mascota, hay mucho que tener en cuenta. SeaTable le ofrece una solución sencilla, eficaz y gratuita que le permite recopilar y consultar los datos más importantes sobre sus mascotas en un solo lugar.
 
-Puede utilizar la plantilla para su cría de animales:
+{{< template-box id="b82852b6536b4b2b9cbd" >}}
 
-- Crear fichas informativas y anotar datos sanitarios
-- Guarde las facturas del veterinario, tarjetas de identificación y documentos
-- planificar quién cuidará del animal y cuándo
-- documente lo que ha alimentado y cuándo
-- Organizar el cuidado de sus vacaciones y ausencias
-- Registro de gastos y cálculo de costes
+Con la plantilla para la tenencia de sus animales puede:
 
-Si desea utilizar SeaTable para su cría de animales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/pet-care" >}}) encontrará la plantilla correspondiente con ejemplos de entradas.
+- crear fichas y anotar datos de salud
+- guardar facturas del veterinario, pasaportes y documentos
+- planificar quién cuida del animal y cuándo
+- documentar qué ha dado de comer y cuándo
+- organizar el cuidado durante sus vacaciones y ausencias
+- registrar gastos y calcular costes
+
+Si desea utilizar SeaTable para la tenencia de sus animales, solo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/pet-care" >}}) encontrará la plantilla correspondiente con entradas de ejemplo.

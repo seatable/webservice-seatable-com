@@ -53,7 +53,7 @@ Erfolgreiche Werbekampagnen setzen **klare Zuständigkeiten im Team** voraus. De
 
 ### 5\. Bei der Planung der Marketingkampagne Maßnahmen und Inhalte zusammenbringen
 
-Sind alle organisatorischen Aspekte erledigt, geht es an den inhaltlichen Aufbau Ihrer Marketing Kampagne. Zu diesem Schritt gehört, dass Sie gemeinsam mit dem Team entscheiden, welche Inhalte in welchem Format auf welchen [Kanälen]({{< relref "templates/marketing/social-media-plan" >}}) gespielt werden sollen – immer mit Zielgruppe, Wettbewerb und Markt im Hinterkopf. Nehmen Sie ruhig eine frühere erfolgreiche Werbekampagne als Beispiel und **analysieren Sie Stärken und Schwächen** der Inhalte. Wichtig in diesem Zusammenhang sind auch die rechtlichen Aspekte. So sollten Sie bei jeder Kampagnenmaßnahme beachten, welche Urheberrechte bei verwendeten Fotos gelten, wann Werberichtlinien zu beachten sind und welche Vorgaben die verschiedenen genutzten Plattformen machen.
+Sind alle organisatorischen Aspekte erledigt, geht es an den inhaltlichen Aufbau Ihrer Marketing Kampagne. Zu diesem Schritt gehört, dass Sie gemeinsam mit dem Team entscheiden, **welche Inhalte in welchem Format auf welchen Kanälen** gespielt werden sollen – immer mit Zielgruppe, Wettbewerb und Markt im Hinterkopf. Nehmen Sie ruhig eine frühere erfolgreiche Werbekampagne als Beispiel und **analysieren Sie Stärken und Schwächen** der Inhalte. Wichtig in diesem Zusammenhang sind auch die rechtlichen Aspekte. So sollten Sie bei jeder Kampagnenmaßnahme beachten, welche Urheberrechte bei verwendeten Fotos gelten, wann Werberichtlinien zu beachten sind und welche Vorgaben die verschiedenen genutzten Plattformen machen.
 
 ### 6\. Umsetzung, Monitoring und Erfolgskontrolle
 
@@ -63,17 +63,38 @@ Sind alle Maßnahmen rund um die Marketingkampagne ausgearbeitet und die Planung
 
 Stift und Papier sind super; und sicher lässt sich eine Marketingkampagne damit planen, aber es geht auch einfacher. Denn ganz gleich, ob Offline- oder Online-Marketing-Kampagne – mit dem passenden Marketing Tool können Sie Planung und Umsetzung optimieren. So gibt es heute bereits etliche Programme, die Ihnen den Aufbau einer Marketing Kampagne erleichtern.
 
-SeaTable bietet für verschiedene Marketing Kampagnen [fertige Vorlagen]({{< relref "templates/marketing/" >}}) an, die sich flexibel an Ihre Anforderungen oder für weitere Anwendungsfälle anpassen lassen, z. B. für Social-Media- oder Redaktionspläne, eine Konkurrenzanalyse oder zur Planung Ihres Content Marketings. So können Sie direkt mit Ihrer Marketingplanung loslegen. Eine digitale Vorlage sorgt dafür, dass Sie Ihre **Arbeitsprozesse vereinfachen** und den Arbeitsaufwand reduzieren können. Mit einem digitalen Tool wie der No-Code-Lösung SeaTable, die **kollaboratives Arbeiten** in Echtzeit ermöglicht, können Sie Ihr Projektmanagement im Marketing optimieren und effizienter, kreativer, transparenter und schneller erfolgreiche Werbekampagnen entwickeln:
+SeaTable bietet für verschiedene Marketing Kampagnen [fertige Vorlagen]({{< relref "templates/marketing/" >}}) an, die sich flexibel an Ihre Anforderungen oder für weitere Anwendungsfälle anpassen lassen, z. B. für [Social-Media-]({{< relref "templates/marketing/social-media-plan" >}}) oder [Redaktionspläne]({{< relref "templates/marketing/editorial-plan" >}}), eine [Konkurrenzanalyse]({{< relref "templates/marketing/competitor-analysis" >}}) oder zur Planung Ihres Content Marketings. 
+
+{{< tabs
+
+title1="Content-Marketing-Strategie"
+text1="Entwickeln Sie eine Content-Strategie inklusive SEO und Personas für durchdachte Kampagnen."
+id1="791a438b055a4680908c"
+submit1="Template nutzen"
+
+title2="Konkurrenzanalyse"
+text2="Vergleichen und analysieren Sie Wettbewerber, um Marktlücken und USPs zu identifizieren."
+id2="c08760ae51e94e9e9632"
+submit2="Template nutzen"
+
+title3="Redaktionsplan"
+text3="Verwalten Sie Content, Ideen, Termine und Aufgaben im Team an einem zentralen Ort."
+id3="62d7d05bf70348c080e8"
+submit3="Template nutzen"
+
+title4="Social-Media-Plan"
+text4="Planen Sie Social-Media-Posts für all Ihre Kanäle und feiern Sie messbare Erfolge."
+id4="e386be96230744a18802"
+submit4="Template nutzen"  >}}
+
+So können Sie direkt mit Ihrer Marketingplanung loslegen. Eine digitale Vorlage sorgt dafür, dass Sie Ihre **Arbeitsprozesse vereinfachen** und den Arbeitsaufwand reduzieren können. Mit einem digitalen Tool wie der No-Code-Lösung SeaTable, die **kollaboratives Arbeiten** in Echtzeit ermöglicht, können Sie Ihr Projektmanagement im Marketing optimieren und effizienter, kreativer, transparenter und schneller erfolgreiche Werbekampagnen entwickeln:
 
 - Sie verpassen keine Deadlines mehr dank automatischer Benachrichtigungen.
-
 - Sie arbeiten in Echtzeit kollaborativ zusammen und stellen maximale Transparenz her.
-
 - Sie erstellen Analyse-Dashboards und Reportings direkt in SeaTable.
-  
 - Sie speichern jede Art von Content – ob Texte, Bilder, Präsentationen oder andere Dateien – an einem Ort.
 
-Und das Beste: SeaTable wird ausschließlich **auf Servern in Deutschland gehostet** und ist in wenigen Minuten startklar, ohne dass Sie auf Ihre IT warten müssen.
+Und das Beste: Die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) wird ausschließlich **auf Servern in Deutschland gehostet** und ist in wenigen Minuten startklar, ohne dass Sie auf Ihre IT warten müssen.
 
 ## Fazit: Marketing Kampagne erstellen in 6 Schritten
 

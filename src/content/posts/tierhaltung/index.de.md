@@ -69,13 +69,13 @@ Gegen einen kurzen Besuch von einem Bekannten mit seinem Haustier ist natürlich
 
 Bevor Sie sich ein Haustier zulegen, sollten Sie sich dem Einfluss, den das Tier auf Ihren **Tagesablauf** hat, bewusst werden. Denn Tiere kosten Zeit. Sei es regelmäßig mit Ihrem Hund Gassi zu gehen, die von Ihrer Katze eingeforderten Kuscheleinheiten zu genehmigen oder für Ihr Kaninchen frisches Futter anzurichten. Auch kleine Tiere, die wenig Zuwendung benötigen, aber dafür aufwändig zu reinigende Gehege haben, nehmen Ihre Zeit in Anspruch.
 
-Natürlich bietet es sich in einem Haushalt mit mehreren Personen an, die rund um die Tierhaltung anfallenden **Aufgaben aufzuteilen**. Dafür ist es sinnvoll, einen Plan zu erstellen, damit Ihr Haustier sich zu keinem Zeitpunkt vernachlässigt fühlt.
+Natürlich bietet es sich in einem Haushalt mit mehreren Personen an, die rund um die Tierhaltung anfallenden **Aufgaben aufzuteilen**. Dafür ist es sinnvoll, eine [To-do-Liste]({{< relref "posts/to-do-liste-online" >}}) zu erstellen, damit Ihr Haustier sich zu keinem Zeitpunkt vernachlässigt fühlt.
 
 Wenn Sie für längere Zeit nicht da sind, zum Beispiel weil Sie in den **Urlaub** fahren, sollten Sie sich frühzeitig um die [Versorgung](https://www.lanuk.nrw.de/article/haustiere-brauchen-auch-in-der-urlaubszeit-eine-zuverlaessige-betreuung) Ihres Haustiers kümmern. Bei Nagetieren reicht es oft, Freunde und Verwandte zu fragen, ob sie ab und zu nach dem Rechten sehen und die Tiere füttern. Bei größeren Tieren reicht das meist nicht, da diese aktiv Auslauf und die Nähe zum Menschen brauchen.
 
 {{< warning headline="Tiere mit in den Urlaub nehmen" text="Auch für Tiere kann Urlaub eine tolle Erfahrung sein. **Reisen mit Tieren** bedeuten aber auch viel Stress. Für Katzen, Hunde und Frettchen wird für Reisen ins Ausland ein **EU-Heimtierausweis** benötigt. Außerdem können im Urlaubsland spezielle Impfungen und Quarantäne vorgeschrieben sein." />}}
 
-Für längere Urlaube gibt es die Möglichkeit, Ihren Liebling in eine **Tierpension** zu geben. Haben Sie Ihr Tier vom Züchter erworben, können Sie auch diesen Fragen, ob er eine Urlaubsbetreuung anbietet. In jedem Fall sollten Sie Ihr Tier nicht alleine zu Hause zurücklassen.
+Für [längere Urlaube]({{< relref "posts/checkliste-urlaub" >}}) gibt es die Möglichkeit, Ihren Liebling in eine **Tierpension** zu geben. Haben Sie Ihr Tier vom Züchter erworben, können Sie auch diesen fragen, ob er eine Urlaubsbetreuung anbietet. In jedem Fall sollten Sie Ihr Tier nicht alleine zu Hause zurücklassen.
 
 ## Was Sie für eine artgerechte Tierhaltung brauchen
 
@@ -86,7 +86,7 @@ Welche Umgebung und Pflege Ihr Haustier benötigt, hängt von der Größe, Art u
 - **Spielzeug:** Damit Ihr Tier etwas zu tun hat, während Sie abwesend oder beschäftigt sind, sollten Sie ihm angemessenes Spielzeug besorgen, welches lange hält.
 - **Aquarien/Käfige:** Für Kleintierfans gehört das Einrichten eines Geheges und das Schaffen einer angemessenen Umgebung dazu. Beim Kauf eines Käfigs oder Aquariums sollten Sie beachten, wie viel Platz, Licht und Wärme Ihr Tier braucht.
 - **Schlafplatz:** Tiere, die sich in Ihrer Wohnung frei bewegen, müssen sich erst an die neue Umgebung gewöhnen. Bieten Sie Ihrem Liebling einen Rückzugsort, der auch als Schlafplatz dienen kann.
-- **Futterstationen:** Damit Ihr Tier ständigen Zugang zu Essen und Trinken hat, sollten Sie eine feste Futterstation einrichten. Damit fällt es Ihnen leichter, das Essverhalten Ihres Tierss zu überwachen.
+- **Futterstationen:** Damit Ihr Tier ständigen Zugang zu Essen und Trinken hat, sollten Sie eine feste Futterstation einrichten. Damit fällt es Ihnen leichter, das [Essverhalten]({{< relref "posts/ernaehrungstagebuch" >}}) Ihres Tiers zu überwachen.
 
 ![Tierbedarf, Tierfutter und alles für die Tierhaltung finden Sie in Zoohandlungen.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
@@ -94,7 +94,7 @@ In Zoohandlungen finden Sie alles, was Ihr Tier benötigt.
 
 - **Transportbox:** Das Erste, was Ihr Tier sehen wird, ist die Transportbox. Diese brauchen Sie bei der Abholung, für Tierarztbesuche oder während der Reinigungszeit des Käfigs.
 - **Halsband/Geschirr:** Damit Sie Ihr Tier bei Spaziergängen nicht verlieren, benötigen Sie eine Leine und ein Halsband, das am besten mit den wichtigsten Angaben zu Ihrem Tier versehen ist, falls es doch verloren gehen sollte.
-- **Säuberungsmittel:** Nur in einem sauberen Zuhause fühlt sich Ihr Tier wohl. Daher sollten Sie alle Gegenstände für die Tierhaltung regelmäßig reinigen.
+- **Säuberungsmittel:** Nur in einem [sauberen Zuhause]({{< relref "posts/putzplan" >}}) fühlt sich Ihr Tier wohl. Daher sollten Sie alle Gegenstände für die Tierhaltung regelmäßig reinigen.
 
 ### Ernährung
 
@@ -104,7 +104,7 @@ Nicht immer fressen Tiere das, was man ihnen vorsetzt. Dann bietet es sich an, z
 
 Viele Lebensmittel, die wir jeden Tag essen, sind für Tiere **giftig**. Hunde vertragen zum Beispiel keine Schokolade und müssen auch von vielen anderen [Lebensmitteln](https://www.br.de/radio/bayern1/was-duerfen-hunde-nicht-fressen-100.html) ferngehalten werden. Passen Sie daher auf, dass Sie Ihre Lebensmittel außerhalb der Reichweite Ihrer Lieblinge aufbewahren.
 
-Ihr Tier sollte immer Zugang zu frischem **Trinkwasser** haben. Das ist besonders wichtig bei Nagetieren. Zusätzlich benötigen Nager rund um die Uhr Raufutter wie Heu und Stroh, damit Ihr Verdauungsapparat funktioniert.
+Ihr Tier sollte immer Zugang zu frischem **Trinkwasser** haben. Das ist besonders wichtig bei Nagetieren. Zusätzlich benötigen Nager rund um die Uhr Raufutter wie Heu und Stroh, damit ihr Verdauungsapparat funktioniert.
 
 ### Gesundheit
 
@@ -116,13 +116,13 @@ Hunde brauchen jeden Tag genügend Auslauf.
 
 ### Pflege
 
-Die Pflege eines Tiers beschränkt sich im besten Fall auf die **Futtergabe** und das **Säubern der Toilette**. Denn die meisten Tiere putzen sich selbst. Trotzdem brauchen ältere Tiere oft die Unterstützung Ihrer Besitzer. Mögliche Aufgaben sind das Bürsten, Krallen schneiden und Pflegen bei einer Krankheit.
+Die Pflege eines Tiers beschränkt sich im besten Fall auf die **Futtergabe** und das **Säubern der Toilette**. Denn die meisten Tiere putzen sich selbst. Trotzdem brauchen ältere Tiere oft die Unterstützung ihrer Besitzer. Mögliche Aufgaben sind das Bürsten, Krallen schneiden und Pflegen bei einer Krankheit.
 
 Pflege kann aber auch bedeuten, dass Sie Ihr Tier verwöhnen möchten. Für solche Bedürfnisse gibt es zum Beispiel **Hundefriseure**, bei denen Ihr Liebling ein Make-over bekommt.
 
 ## Tierhaltung kostet Geld
 
-Wer ein Haustier haben möchte, muss es sich auch leisten können. Denn Haustiere sind durchaus kostspielig, besonders wenn teure **Tierarztbesuche** anfallen.
+Wer ein Haustier haben möchte, muss es sich auch [leisten können]({{< relref "posts/haushaltsbuch-fuehren" >}}). Denn Haustiere sind durchaus kostspielig, besonders wenn teure **Tierarztbesuche** anfallen.
 
 Bei den **Anschaffungskosten** gehen die Preise weit auseinander – je nachdem, ob Sie ein Tier aus dem Tierheim oder von einem Züchter kaufen. Monatlich werden neben Futter- und Pflegemitteln auch die **Hundesteuer** oder **Tierversicherungen** fällig. Zur groben Orientierung finden Sie hier die Kostenpunkte der Top 3 Haustiere in Deutschland.
 
@@ -197,6 +197,8 @@ Mit der Pflege von Tieren können Kinder lernen, andere Lebewesen mit **Respekt*
 ## Kostenlose App für Ihre Tierhaltung
 
 Wenn Sie sich ein Haustier zulegen, gibt es bei der Tierhaltung vieles zu beachten. SeaTable bietet Ihnen eine einfache, effiziente und kostenfreie Lösung, mit der Sie die wichtigsten Daten Ihrer Haustiere an einem Ort sammeln und einsehen können.
+
+{{< template-box id="b82852b6536b4b2b9cbd" >}}
 
 Mit der Vorlage für Ihre Tierhaltung können Sie:
 

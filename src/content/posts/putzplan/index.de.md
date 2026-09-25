@@ -33,8 +33,6 @@ Nun geht es ans Eingemachte: Sie und Ihre Mitbewohner möchten einen Putzplan er
 
 ![Ein erster Überblick über anstehende Aufgaben](Putzplan-1-711x711.png)
 
-Ein erster Überblick über anstehende Aufgaben
-
 ## Was ist in welchem Raum zu tun?
 
 Um einen groben Überblick über die anfallenden Aufgaben zu erhalten, ist es hilfreich, diese nach Räumen aufzuteilen. Dabei fallen in allen Zimmern grundlegende Aufgaben wie Staubsaugen, den Boden putzen, den Müll rausbringen, Schränke abstauben oder Aufräumen an. Für spezifische Aufgaben in den einzelnen Räumen könnte ein möglicher Putzplan so aussehen:
@@ -43,15 +41,19 @@ Um einen groben Überblick über die anfallenden Aufgaben zu erhalten, ist es hi
 - **Küche:** Arbeitsfläche sauber halten, Essensreste entsorgen, Geschirr spülen, Spülbecken säubern, Backofen reinigen, Kühlschrank und Gefrierschrank abtauen und reinigen
 - **Wohnzimmer:** Fernseher abwischen, Kissen ausschütteln, Decken falten
 - **Flur:** Kommode aufräumen, Kleiderständer ordentlich halten, Spiegel reinigen
-- **Schlafzimmer:** Bett frischmachen, Kleiderschrank aufräumen, Wäsche waschen (hierfür ist meist jeder selbst zuständig)
+- **Schlafzimmer:** Bett frischmachen, [Kleiderschrank aufräumen]({{< relref "posts/kleiderschrank-organisieren" >}}), Wäsche waschen (hierfür ist meist jeder selbst zuständig)
 
-{{< warning headline="Gut zu wissen: Woher der lästige Staub stammt" text="Immer wiederkehrender Hausstaub kann manch einen in den Wahnsinn treiben oder gar Allergien auslösen. Er besteht aus winzigen Teilchen, die aus unterschiedlichen Quellen stammen. So gelangen beim Lüften kleine Partikel (z. B. Pollen, Sand, Ruß) in die Wohnung, von den Schuhen fällt Schmutz ab, Kleidung und Polster verlieren mikroskopische Fasern, Menschen und Haustiere verlieren Hautschuppen und Haare, Krümel fallen auf den Boden, Insekten wie Milben hinterlassen Ausscheidungen und zerfallen nach ihrem Tod selbst zu Staub. Vermeiden lässt sich die Entstehung von Hausstaub also leider nicht, Sie können diesen aber durch einen Putzplan reduzieren." />}}
+{{< warning headline="Gut zu wissen: Woher der lästige Staub stammt" >}}
+
+Immer wiederkehrender Hausstaub kann manch einen in den Wahnsinn treiben oder gar [Allergien]({{< relref "templates/healthcare/allergy-diary" >}}) auslösen. Er besteht aus winzigen Teilchen, die aus unterschiedlichen Quellen stammen. So gelangen beim Lüften kleine Partikel (z. B. Pollen, Sand, Ruß) in die Wohnung, von den Schuhen fällt Schmutz ab, Kleidung und Polster verlieren mikroskopische Fasern, Menschen und Haustiere verlieren Hautschuppen und Haare, Krümel fallen auf den Boden, Insekten wie Milben hinterlassen Ausscheidungen und zerfallen nach ihrem Tod selbst zu Staub. Vermeiden lässt sich die Entstehung von Hausstaub also leider nicht, Sie können diesen aber durch einen Putzplan reduzieren.
+
+{{< /warning >}}
 
 ## Wie oft muss was erledigt werden?
 
 In welchen zeitlichen Abständen bestimmte Aufgaben zu erledigen sind, hängt davon ab, wie gründlich diese bearbeitet werden. Gibt sich jemand bei einer Aufgabe im Putzplan keine Mühe, muss diese öfter durchgeführt werden, um das gleiche Ergebnis zu erzielen. Trotzdem haben wir für Sie einen Leitfaden, welche Aufgaben bei gründlicher Bearbeitung wie oft anstehen:
 
-![Diese Aufgaben kommen in regelmäßige Abständen auf Sie in ihrem Putzplan zu.](Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
+![Diese Aufgaben kommen in regelmäßigen Abständen in Ihrem Putzplan auf Sie zu.](Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
 
 Diese Aufgaben kommen in regelmäßigen Abständen auf Sie zu.
 
@@ -69,18 +71,18 @@ Um auch [Putzmuffel](https://www.stuttgarter-zeitung.de/inhalt.putztipps-fuer-fa
 
 ## Bleiben Sie motiviert
 
-Die Aufgaben sind verteilt, aber keiner macht, was er sollte? Dann liegt es vielleicht am **Motivationsmangel**. Kein Wunder, denn Putzen gehört bei vielen nicht gerade zu ihren Lieblingsbeschäftigungen. Um den Putzplan dennoch am Laufen zu halten, kann es helfen, den richtigen Ansporn zu finden. Verbinden Sie das lästige Saubermachen mit Musik hören oder Serien schauen.
+Die Aufgaben sind verteilt, aber keiner macht, was er sollte? Dann liegt es vielleicht am **Motivationsmangel**. Kein Wunder, denn Putzen gehört bei vielen nicht gerade zu ihren Lieblingsbeschäftigungen. Um den Putzplan dennoch am Laufen zu halten, kann es helfen, den richtigen Ansporn zu finden und die [Prokrastination zu überwinden]({{< relref "posts/prokrastination" >}}).
 
 ![Mit ein bisschen Spaß beim Putzen ist es viel leichter, die Aufgaben zu erledigen.](pexels-rdne-stock-project-5591970-1-711x474.jpg)
 
-Mit ein bisschen Spaß beim Putzen geht alles direkt viel leichter.
+Verbinden Sie das lästige Saubermachen mit Musik hören oder Serien schauen. Mit ein bisschen Spaß beim Putzen geht alles direkt viel leichter.
 
 Achten Sie aber darauf, dass Sie sich nicht zu sehr ablenken lassen – das Putzen sollte immer noch Ihre Hauptbeschäftigung sein. Oder nutzen Sie die Anwesenheit Ihrer Mitbewohner und erledigen Sie besonders anstrengende Aufgaben gemeinsam. Eine andere Möglichkeit ist, das Ganze spielerisch zu betrachten. Beispielsweise können Sie Belohnungen oder Strafen einführen, um Ihre Mitbewohner zu Höchstleistungen anzutreiben.
 
-## Online-Putzplan
+## Online-Putzplan von SeaTable
 
-Bei der Hausarbeit gibt es viel zu planen, besonders wenn Sie mehrere Personen in die Aufgaben einbinden möchten. Um dabei nicht den Überblick zu verlieren, hat das Team von SeaTable Ihnen eine Putzplan-Vorlage erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Indem Sie Aufgaben klar einem Verantwortlichen zuteilen, sehen Sie beispielsweise auf einen Blick, welche Aufgaben Sie und Ihre Mitbewohner zu erledigen haben und ob diese gerecht verteilt sind.
+Bei der Hausarbeit gibt es viel zu planen, besonders wenn Sie mehrere Personen in die Aufgaben einbinden möchten. Um dabei nicht den Überblick zu verlieren, hat das Team von SeaTable Ihnen eine [Putzplan-Vorlage]({{< relref "templates/everyday-life/cleaning-plan" >}}) erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Indem Sie Aufgaben klar einem Verantwortlichen zuteilen, sehen Sie beispielsweise auf einen Blick, welche Aufgaben Sie und Ihre Mitbewohner zu erledigen haben und ob diese gerecht verteilt sind.
 
-![Erstellen Sie einen individuellen Putzplan in SeaTable.](Putzplan.png)
+{{< template-box id="8c6d69d5dcda43e6bf9f" >}}
 
-Wenn Sie SeaTable für die Erstellung Ihres individuellen Putzplans nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/cleaning-plan" >}}).
+Wenn Sie SeaTable für die Erstellung Ihres individuellen Putzplans nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}).
