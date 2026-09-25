@@ -1,179 +1,158 @@
 ---
-title: 'Planeie a sua mudança com uma lista de verificação: Como fazer uma mudança sem stress'
-description: 'Mudança à vista? Com um bom planejamento, checklist certeiro e orientações fiscais, seu processo fica mais fácil. Veja como organizar tudo, evitar imprevistos e aproveitar dicas profissionais para economizar tempo e dinheiro.'
+title: 'Como planear e realizar a sua mudança sem stress'
+description: 'Finalmente, chegou o momento! Encontrou o apartamento perfeito para si e mal pode esperar para se mudar para a sua nova casa. A única coisa que ainda o separa do apartamento dos seus sonhos é a mudança. O que para a maioria das pessoas significa muito stress e tempo, pode tornar mais fácil para si com um plano de mudança estruturado. Descubra aqui como planear a sua mudança com o mínimo de stress possível e levá-la a bom porto.'
 date: 2023-10-30
 lastmod: '2023-10-30'
 url: '/pt/mudanca'
 aliases:
     - /pt/umzug
 seo:
-    title: 'Mudança: checklist e dicas para organizar sem estresse'
-    description: 'Organize-se para mudar com checklist, economia e tranquilidade – guia completo e prático.'
+    title: 'Planear a mudança com checklist: como se mudar sem stress'
+    description: 'Mudar de casa pode ser stressante e demorado. Mas também pode ser diferente. Descubra aqui como organizar a sua mudança sem stress.'
 categories:
     - 'best-practice'
 tags:
     - 'Vida cotidiana e lazer'
-color: '009f9b'
+color: '#009f9b'
 ---
 
-Finalmente, chegou o momento! Encontrou o apartamento perfeito para si e mal pode esperar para se mudar para a sua nova casa. A única coisa que agora o separa do seu apartamento de sonho é a mudança. O que para a maioria das pessoas é muito stressante e consome muito tempo, pode ser facilitado com um **plano de mudança** estruturado. Descubra aqui como planear a sua mudança sem stress e como levá-la a bom porto.
+## Criar uma lista de verificação para a mudança
 
-## Criar uma lista de controlo
+Comece o planeamento da sua mudança com uma sessão de **brainstorming**. Que tarefas tenho de fazer? Quem me pode ajudar? Qual é o orçamento de que disponho? Em seguida, elabore uma visão geral dos custos para estimar as suas despesas. Numa lista de verificação, pode definir as primeiras tarefas e ir concluindo-as.
 
-Comece o planeamento da sua mudança com uma sessão de brainstorming. Que tarefas preciso de fazer? Quem me pode ajudar? Qual é o orçamento que posso gastar? Em seguida, elabore um resumo dos custos para estimar as suas despesas. Pode definir e trabalhar as primeiras tarefas numa lista de verificação.
+![Lista de verificação com as tarefas mais importantes para a sua mudança.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
-![Lista de controlo com as tarefas mais importantes para a sua mudança.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+## Tudo sobre a mudança: contratos de arrendamento, caução e entrega das chaves
 
-Uma lista de controlo pode ajudar a manter um registo de todas as tarefas.
+O novo contrato de arrendamento está assinado e a saída do seu antigo apartamento está decidida. Chegou o momento de rescindir o seu antigo contrato de arrendamento. A **rescisão** deve ser feita dentro do prazo e por escrito; normalmente aplica-se um pré-aviso de três meses. No entanto, se pretender sair antes do prazo acordado no contrato, deverá falar previamente com o seu senhorio. É que, neste caso, poderá ser o próprio responsável pela **procura de um novo inquilino**.
 
-Pode também encontrar uma lista de verificação para a sua mudança no nosso [modelo]({{< relref "posts/umzug" >}}).
-
-## Antes da mudança
-
-O novo contrato de arrendamento foi assinado e a saída do seu antigo apartamento foi selada. Chegou o momento de rescindir o antigo contrato de arrendamento. O **aviso de rescisão** deve ser apresentado atempadamente e por escrito; normalmente, aplica-se um período de três meses. No entanto, se pretender rescindir o contrato de arrendamento mais cedo do que o acordado no contrato, deve falar previamente com o seu senhorio. Neste caso, poderá ser responsável por encontrar um novo inquilino.
-
-Pouco tempo depois da sua mudança, deve marcar a data de **entrega do apartamento e das chaves**. Deve deixar o apartamento como acordado no contrato de arrendamento. Isto inclui normalmente reparações estéticas e a limpeza do apartamento.
+Pouco depois da sua mudança, deverá marcar a data para a **entrega do apartamento e das chaves**. Para isso, tem de deixar o apartamento tal como acordado no contrato de arrendamento. Isto inclui normalmente pequenas reparações de pintura e deixar o apartamento limpo e varrido. Após a entrega, receberá de volta a sua **caução** e poderá concentrar-se totalmente em mobilar a sua nova casa.
 
 ![Com a entrega das chaves do seu antigo apartamento, o seu plano de mudança é posto em marcha.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
-Ao entregar as chaves, está a fechar o negócio com o seu antigo apartamento.
-
-Após a entrega, receberá o seu depósito de volta e poderá concentrar-se totalmente no mobiliário da sua nova casa.
-
 ## Licença especial para a sua mudança
 
-Com um planeamento cuidadoso das entregas, a primeira etapa da sua mudança está concluída. Mas a subsequente desembalagem e embalagem dos apartamentos exige muita energia e tempo. Por isso, pode fazer sentido tirar um ou dois dias de férias para uma mudança importante. Se quiser tirar **um** dia de férias para este efeito, comece por colocar a si próprio as seguintes questões:
+Com um planeamento cuidadoso das entregas, o primeiro passo da sua mudança está dado. Mas **esvaziar o antigo apartamento e arrumar o novo** exige muita energia e tempo. Por isso, pode fazer sentido tirar um ou dois dias de férias para uma mudança maior. Se pretender obter uma **dispensa** do trabalho para este efeito, coloque a si próprio primeiro as seguintes questões:
 
-### Direito a uma licença especial
+### Direito a licença especial
 
-{{< faq "Tenho direito a uma licença especial legal?" >}}
+{{< faq "Tenho direito legal a uma licença especial?" >}}
 
-Em primeiro lugar, as más notícias: na Alemanha, de acordo com a Lei Federal das Férias e o Código Civil, **não existe qualquer direito legal a férias** quando se muda de casa.
+Primeiro, a má notícia: na Alemanha, de acordo com a Lei Federal de Férias e o Código Civil, **não existe qualquer direito legal a férias** em caso de mudança de casa.
 {{< /faq >}}
 
 {{< faq "O que diz o meu contrato de trabalho?" >}}
 
-Embora não exista um direito geral a uma licença especial, a entidade patronal pode, naturalmente, concedê-la. Para ter a certeza, consulte o seu contrato de trabalho ou pergunte ao conselho de empresa ou a um superior se tem direito a uma licença especial.
+Embora não exista um direito geral a licença especial, a sua entidade patronal pode, naturalmente, concedê-la na mesma. Para ter a certeza, consulte o seu contrato de trabalho ou pergunte à comissão de trabalhadores ou a um superior se tem direito a licença especial.
 {{< /faq >}}
 
 {{< faq "E se me mudar por motivos profissionais?" >}}
 
-Neste caso, tem boas hipóteses de beneficiar de férias pagas, mesmo que tal não esteja previsto no seu contrato de trabalho. É feita uma distinção entre mudar de entidade patronal ou apenas de local de trabalho. No primeiro caso, é necessário contar com a boa vontade da nova entidade patronal. Se, pelo contrário, se mudar com a mesma entidade patronal, é possível requerer uma licença remunerada.
+Neste caso, tem boas hipóteses de lhe ser concedida uma dispensa remunerada, mesmo que tal não esteja previsto no seu contrato de trabalho. Distingue-se entre mudar de entidade patronal ou apenas de local de trabalho. No primeiro caso, terá de contar com a boa vontade da sua nova entidade patronal. Se, pelo contrário, se mudar mantendo a mesma entidade patronal, é possível requerer uma dispensa remunerada.
 {{< /faq >}}
 
-### Razões profissionais para a mudança
+### Motivos profissionais para a mudança
 
-{{< faq "Que razões tornam uma mudança "relacionada com o trabalho"?" >}}
+{{< faq "Que motivos tornam uma mudança 'por motivos profissionais'?" >}}
 
-Para além das razões já mencionadas - _mudança de emprego ou de entidade patronal_ - há outras formas de declarar a sua mudança como relacionada com o trabalho. Trata-se, por exemplo, de começar a trabalhar pela primeira vez, mudar de casa ou de apartamento, regressar do estrangeiro para aceitar um novo emprego na Alemanha e encurtar o trajeto diário em pelo menos meia hora.
+Para além dos motivos já referidos, _mudança de local de trabalho ou de entidade patronal_, existem outras possibilidades de fazer valer a sua mudança como motivada por razões profissionais. São elas o início do seu primeiro emprego, a mudança de ou para uma habitação de serviço, o regresso do estrangeiro para assumir um novo posto de trabalho na Alemanha e a redução do trajeto para o trabalho em pelo menos meia hora por dia.
 {{< /faq >}}
 
-{{< faq "Existem outros regulamentos se eu trabalhar no sector público?" >}}
+{{< faq "Existem outras regras se eu trabalhar no setor público?" >}}
 
-Sim, porque, enquanto funcionário ou empregado do sector público, tem direito a um dia de licença remunerada para uma mudança de residência por motivos profissionais, de acordo com o artigo 29º do regulamento relativo às convenções colectivas de trabalho. Se já teve de se deslocar uma vez nos últimos cinco anos por motivos profissionais, tem mesmo direito a três dias de licença.
+Sim, pois enquanto funcionário ou trabalhador do setor público recebe, nos termos do artigo 29.º da convenção coletiva, um dia de licença remunerada para uma mudança por motivos de serviço. Se nos últimos cinco anos já teve de se mudar uma vez por motivos profissionais, tem mesmo direito a três dias livres.
 {{< /faq >}}
 
 ## Organizar a mudança
 
-Uma vez marcado o dia da mudança, o passo seguinte é o planeamento. Existem basicamente duas opções: uma mudança com uma empresa de mudanças ou uma mudança por conta própria. A opção que mais lhe convém depende do seu orçamento, da dimensão da sua casa e da sua resistência ao stress.
+Uma vez fixado o dia da mudança, o passo seguinte é o planeamento. Tem basicamente duas opções: **uma mudança com uma empresa de mudanças ou uma mudança por conta própria**. A opção que mais lhe convém depende do seu orçamento, da dimensão do seu agregado familiar e da sua resistência ao stress.
 
-### O pacote completo: Contratação de uma empresa de mudanças
+### O pacote completo: contratar uma empresa de mudanças
 
-Com uma **empresa de mudanças**, poupa-se muito tempo e nervos. Porque tudo o que, de outra forma, teria de organizar sozinho, é tratado aqui. Especialmente se estiver a mudar-se com várias pessoas ou se estiver sob pressão de tempo, a mudança pode ser concluída de forma rápida e confortável. No entanto, também é claro que, se quiser manter os seus próprios custos tão baixos quanto possível, terá de ir fundo nos seus bolsos. O montante exato do orçamento depende de cada um e deve ser discutido em pormenor com a empresa de mudanças. No entanto, pode dizer-se, grosso modo, que os custos estão relacionados com a distância da mudança e a dimensão do apartamento. Este cálculo médio serve de orientação:
+Com uma **empresa de mudanças**, poupa muito tempo e nervos. Isto porque tudo o que, de outra forma, teria de organizar sozinho fica a cargo da empresa. Especialmente se se mudar com várias pessoas ou estiver com pouco tempo, a mudança decorre assim de forma rápida e confortável. Mas também é claro: quem quer ter o mínimo de trabalho possível tem de abrir bem os cordões à bolsa. O valor exato com que deve contar varia de caso para caso e deve ser discutido em pormenor com a empresa de mudanças. Em termos gerais, pode dizer-se, no entanto, **que os custos dependem da distância até ao novo local e da dimensão da habitação**. Este cálculo médio serve-lhe de orientação:
 
-![Este é o custo da sua mudança, dependendo da dimensão do seu agregado familiar.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![Este é o custo da sua mudança, consoante a dimensão do seu agregado familiar.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
-O custo da sua mudança depende da dimensão do agregado familiar e da distância dos apartamentos.
+Em troca do seu dinheiro, recebe um **serviço completo**. Isto inclui também a responsabilidade da empresa por quaisquer danos nos seus bens, no apartamento ou nas escadas durante a mudança. A lei prevê que, em caso de danos, sejam contabilizados 620 euros por metro cúbico de bens transportados. Se pretender transportar bens particularmente valiosos, pode acordar com a empresa de mudanças um **montante de responsabilidade** mais elevado. Mas atenção: se embalar o próprio os seus móveis e pertences, os profissionais não assumem qualquer responsabilidade pelos danos ocorridos durante o transporte.
 
-Mas, pelo seu dinheiro, recebe um **Serviço completo**. Isto também inclui a responsabilidade da empresa por quaisquer danos causados aos seus bens, ao apartamento ou às escadas durante a mudança. A lei estipula que, em caso de danos, será cobrada uma indemnização de 620 euros por metro cúbico de bens transportados. Se pretender transportar bens particularmente valiosos, pode acordar com a empresa de mudanças um montante de responsabilidade mais elevado. Mas atenção: se for você a embalar os seus móveis e objectos, os profissionais não serão responsáveis por quaisquer danos causados durante o transporte.
+![Contratar uma empresa de mudanças poupa-lhe muito trabalho.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
-![A contratação de uma empresa de mudanças poupa-lhe muito trabalho.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+### Serviços de uma empresa de mudanças
 
-As empresas de mudanças tiram-lhe grande parte do trabalho.
-
-### Serviços
-
-A quantidade de apoio que pretende obter de uma empresa depende de si. Normalmente, existem vários modelos à escolha:
+O nível de apoio que pretende de uma empresa fica ao seu critério. Normalmente, tem vários modelos à escolha:
 
 - **Mudança standard**: carregamento e transporte
 - **Mudança completa**: embalagem e desembalagem de caixas, desmontagem e montagem de móveis, carregamento e transporte
-- **Serviços complementares**: Criação de uma zona de não paragem ou armazenamento temporário de mobiliário
+- **Serviços adicionais**: criação de uma zona de proibição de estacionamento ou armazenamento temporário de móveis
 
-### Para quem quer poupar dinheiro: organizar a mudança sozinho
+### Para quem quer poupar: organizar a mudança por conta própria
 
-Se quiser poupar custos, **mudar-se por conta** própria é exatamente a coisa certa a fazer. No entanto, o esforço de organização também será maior. Porque tudo o que está incluído na empresa de mudanças passa a estar nas suas mãos. Mas, com um bom planeamento, nada pode impedir este plano. Um [plano]({{< relref "posts/umzug" >}}) de mudanças ajudá-lo-á em todas as etapas do processo.
+Se pretende poupar nos custos, a **mudança por conta própria** é exatamente o que precisa. Em contrapartida, o esforço de organização é maior. Isto porque tudo o que está incluído com uma empresa de mudanças fica agora nas suas mãos. Mas com um bom planeamento, nada impede este projeto. Para isso, ajuda-o um plano de mudança que o acompanha em todos os passos do caminho. Estas são as despesas com que terá de contar numa mudança por conta própria:
 
-![Custos que terá de suportar durante a mudança.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Custos com que terá de contar durante a sua mudança.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
-Estas são as despesas em que incorrerá se se mudar sozinho.
+### Tarefas se planear a mudança por conta própria
 
-### Tarefas
+Organizar tudo sozinho? Não há problema! Estas são as tarefas que o esperam:
 
-Organizar tudo sozinho? Não há problema! As tarefas seguintes são suas:
-
-- **Transporte**: Pergunte a amigos ou familiares se podem disponibilizar os seus veículos, ou alugue uma carrinha. Neste último caso, para além dos custos de aluguer, há custos de combustível e de quilometragem.
-- **Pedir uma proibição de estacionamento**: sobretudo numa grande cidade, é difícil encontrar lugares de estacionamento perto do seu apartamento. Para que não tenha de transportar as suas caixas e móveis para tão longe e para que a entrada e saída seja mais rápida, pode pedir uma proibição de estacionamento no serviço de trânsito. Aí, pode pedir emprestados os sinais que indicam a proibição de estacionamento. O pedido deve ser apresentado três a quatro semanas antes da mudança.
-- **Material de embalagem**: As caixas de cartão são as melhores para transportar os seus objectos. A regra geral é: número de metros quadrados = número de caixas de mudança necessárias. Pergunte primeiro aos seus conhecidos se têm caixas de mudança, assim pode poupar na compra de caixas novas. Também precisará de fita adesiva e de material de enchimento, como papel de cozinha ou plástico-bolha, para os objectos frágeis.
-- **Encontrar ajudantes de mudanças**: O seu primeiro ponto de contacto deve ser os seus familiares e amigos, que certamente terão todo o gosto em ajudá-lo sem qualquer pagamento. Se poucos dos seus amigos tiverem tempo, pode procurar outros ajudantes, mas terá de os pagar. Para o fazer, pode pedir ajuda na sua vizinhança ou lançar um apelo nas suas redes sociais. Lembre-se também de providenciar comida e bebida suficientes para os seus ajudantes no dia da mudança.
-- **Ferramentas**: Para facilitar o trabalho dos seus ajudantes e o seu, recomendamos ferramentas como luvas de trabalho, cintas de tensão e um carrinho de mão para transportar objectos pesados. Se não houver profissionais no local de trabalho, as lesões podem ocorrer com mais frequência. Por isso, prepare-se para o pior e tenha um kit de primeiros socorros no local.
+- **Transporte**: pergunte a amigos ou familiares se podem disponibilizar os seus veículos, ou alugue uma carrinha. Neste último caso, para além dos custos de aluguer, há também custos de combustível e de quilometragem.
+- **Pedir uma proibição de estacionamento**: sobretudo numa grande cidade, é difícil encontrar [lugares de estacionamento perto de casa]({{< relref "posts/parkraumbewirtschaftung" >}}). Para não ter de carregar as suas caixas e móveis tão longe e para que a carga e descarga dos veículos seja mais rápida, pode pedir uma proibição de estacionamento nos serviços de trânsito. Aí pode pedir emprestadas as placas que sinalizam a proibição de estacionamento. Deverá apresentar o pedido três a quatro semanas antes da mudança.
+- **Material de embalagem**: as caixas de cartão são a melhor opção para transportar os seus objetos. A regra geral é: número de metros quadrados = número de caixas de mudança necessárias. Pergunte primeiro aos seus conhecidos se alguém tem caixas de mudança; assim poderá poupar na compra de caixas novas. Precisará também de fita adesiva e de material de enchimento, como papel de cozinha ou plástico-bolha, para os objetos frágeis.
+- **Encontrar ajudantes para a mudança**: os primeiros a quem deve recorrer são os seus familiares e amigos, que certamente o ajudarão de bom grado sem pagamento. Se poucos dos seus conhecidos tiverem tempo, pode procurar mais ajudantes, que terá, no entanto, de pagar. Para isso, pode perguntar na sua vizinhança ou fazer um apelo nas suas redes sociais. Lembre-se também de providenciar comida e bebida suficientes para os seus ajudantes no dia da mudança.
+- **Ferramentas**: para facilitar o trabalho aos seus ajudantes e a si próprio, recomendam-se ferramentas como luvas de trabalho, cintas de fixação e um carrinho de mão para transportar objetos pesados. Quando não são profissionais a trabalhar, os ferimentos podem ser mais frequentes. Por isso, previna-se para qualquer eventualidade e tenha um kit de primeiros socorros no local.
 
 ![Embale os seus pertences de forma segura para que não se partam durante a mudança.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
-Organize material de embalagem resistente para que os seus pertences não se partam.
-
 ## Quem deve informar sobre a sua mudança
 
-A mudança está iminente e quer informar toda a gente da sua nova morada. Pense não só nos **amigos e nos familiares**, mas também nas **autoridades** e nas **empresas** com as quais celebrou contratos. Provavelmente, o local mais importante a que se deve dirigir após a mudança é o **Serviço de Registo de Residentes (Einwohnermeldeamt**). Deve registar-se aí no prazo de 14 dias após a mudança. Também pode voltar a registar o seu automóvel nesse local. Não se esqueça de marcar a sua entrevista com antecedência, pois normalmente estão cheios com muita antecedência.
+A mudança está para breve e pretende comunicar a todos a sua nova morada. Não pense apenas nos **amigos e familiares**, mas em primeiro lugar nas **autoridades** e nas **empresas** com as quais celebrou contratos. O serviço mais importante a contactar após a mudança é provavelmente o **serviço de registo de residentes**. Tem de alterar aí o seu registo no prazo de 14 dias após a mudança. Também pode alterar aí o registo do seu automóvel. Lembre-se de marcar uma vez com antecedência, pois normalmente estão esgotadas com muito tempo de antecedência.
 
-### Onde deve ainda indicar o seu novo endereço:
+### Onde mais deve indicar a sua nova morada:
 
-- Seguros (por exemplo, de saúde, de responsabilidade civil, domésticos, de proteção jurídica)
-- Bancos
-- Fornecedores de eletricidade, gás e água
-- Fornecedor de telefone e Internet
-- Taxa de difusão (ser-lhe-á enviada)
-- Assinaturas (por exemplo, de revistas)
-- Assinaturas (por exemplo, ginásio, clubes)
-- Lojas em linha e serviços de encomendas
+- Bancos e seguros (p. ex., seguro de saúde, de responsabilidade civil, de recheio, de proteção jurídica)
+- [Fornecedores de eletricidade, gás e água]({{< relref "templates/everyday-life/energy-tracker" >}})
+- Operadores de telefone e internet
+- Taxa de radiodifusão (ser-lhe-á enviada)
+- Assinaturas (p. ex., revistas)
+- Filiações (p. ex., ginásio, associações)
+- Lojas online e serviços de entrega de encomendas
 
-{{< warning headline="Se se esquecer de dizer a alguém a sua nova morada" text="Com a ordem de reencaminhamento da Deutsche Post, as cartas e encomendas que chegam à sua antiga morada são simplesmente reencaminhadas para a sua nova morada. Pode ser efectuada online em [nachsendeauftrag.de](http://nachsendeauftrag.de/) a partir de 28,90 euros por seis meses." />}}
+{{< warning headline="Caso se esqueça de comunicar a sua nova morada a alguém" text="Com o serviço de reencaminhamento de correio da Deutsche Post, as cartas e encomendas que chegam à sua antiga morada são simplesmente reencaminhadas para a nova. Em [nachsendeauftrag.de](http://nachsendeauftrag.de/) pode ativá-lo online a partir de 28,90 euros por seis meses." />}}
 
-## Deduzir do imposto uma mudança relacionada com o trabalho
+## Deduzir nos impostos uma mudança por motivos profissionais
 
-Na Alemanha, uma parte das despesas de mudança pode ser deduzida do imposto sobre o **rendimento** como **despesas relacionadas com o rendimento**. Estas despesas estão divididas em **despesas gerais e outras** e constituem uma grande parte das despesas dedutíveis nos impostos. Atenção: Se a sua entidade patronal pagar uma parte ou a totalidade das despesas de mudança, não pode voltar a deduzir as despesas pagas na sua declaração de impostos.
+Na Alemanha, pode deduzir parte das suas despesas de mudança nos impostos como **despesas profissionais**. Estas dividem-se em **despesas gerais e outras despesas** e constituem uma grande parte dos custos dedutíveis. Atenção: se a sua entidade patronal suportar parte ou a totalidade das suas despesas de mudança, não pode voltar a declarar os custos suportados na sua declaração de impostos.
 
-{{< warning headline="Atenção estudantes e estagiários!" text="Qualquer pessoa que se desloque para iniciar a sua primeira formação profissional pode declarar as despesas de mudança como **despesas especiais**." />}}
+{{< warning headline="Atenção, estudantes e formandos!" text="Quem se muda para iniciar a sua primeira formação profissional pode declarar as despesas de mudança como **despesas especiais**." />}}
 
-### Custos gerais
+### Despesas gerais
 
-Existem alguns **custos gerais**que pode declarar na íntegra na sua declaração de impostos. **Muito importante**: Guarde as facturas e os recibos para poder comprovar as suas despesas. As despesas gerais incluem, por exemplo, os custos de transporte dos bens domésticos, o dobro da renda durante o período de mudança ou a comissão do agente imobiliário.
+Existem algumas **despesas gerais** que pode declarar na íntegra na sua declaração de impostos. **Muito importante**: guarde as faturas e os recibos para poder comprovar as suas despesas. As despesas gerais incluem, por exemplo, os custos de transporte do recheio da casa, a renda em duplicado durante a fase de mudança ou a comissão do agente imobiliário.
 
-![Mantenha sempre um registo dos seus custos, guardando os recibos.](finance-8206242_1280-711x474.jpg)
+![Mantenha sempre as suas despesas sob controlo, guardando os recibos.](finance-8206242_1280-711x474.jpg)
 
-Guarde todas as facturas e recibos para poder declarar as suas despesas para efeitos fiscais.
+Guarde todas as faturas e recibos para poder declarar as suas despesas para efeitos fiscais.
 
-### Outros custos
+### Outras despesas
 
-As outras despesas podem ser deduzidas de uma só vez. Por conseguinte, não é necessário guardar todos os recibos. O **subsídio fixo de mudança** é particularmente vantajoso quando se muda sozinho. Cobre muitas despesas mais pequenas. Estas incluem, entre outras, a alimentação dos ajudantes de mudança, a instalação da cozinha, a mudança do bilhete de identidade e o novo registo do automóvel.
+As outras despesas pode deduzi-las de forma fixa. Por isso, não é necessário guardar todos os comprovativos. O **montante fixo para despesas de mudança** compensa especialmente se fizer a mudança por conta própria. Cobre muitas despesas mais pequenas. Entre elas incluem-se, entre outras, a alimentação dos ajudantes da mudança, a instalação da cozinha, a alteração do cartão de cidadão e a alteração do registo do automóvel.
 
-O montante fixo é de 886 euros desde 1 de abril de 2023; por cada pessoa suplementar, pode declarar mais 590 euros. Se não tinha o seu próprio agregado familiar antes da mudança, o montante fixo é de apenas 177 euros.
+Na Alemanha, o montante fixo é de 886 euros desde 1 de abril de 2023; por cada pessoa adicional, pode declarar mais 590 euros. Se antes da mudança não tinha casa própria, o montante fixo é de apenas 177 euros.
 
-É claro que não é obrigatório utilizar a taxa fixa. Se as despesas excederem os custos cobertos pela taxa fixa, é possível apresentar o pedido de reembolso do imposto com recibos, tal como acontece com as despesas gerais.
+Naturalmente, não é obrigatório utilizar o montante fixo. Se as despesas excederem os custos cobertos pelo montante fixo, pode, tal como nas despesas gerais, fazer valer o seu direito fiscal com recibos. A renovação do antigo apartamento, p. ex., pequenas reparações de pintura acordadas no contrato, também é tida em conta.
 
-![A renovação do antigo apartamento também será parcialmente coberta durante a mudança e deve ser considerada no seu plano de mudança, se houver despesas.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![A renovação do antigo apartamento também é parcialmente tida em conta na sua mudança e deve ser considerada nas despesas do seu plano de mudança.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
-A renovação do antigo apartamento, por exemplo, reparações estéticas acordadas contratualmente, também está coberta.
+## Deduzir nos impostos uma mudança privada
 
-## Deduzir a mudança privada do imposto
+Quem se muda por motivos privados não pode deduzir as despesas de mudança nos impostos. Ainda assim, não fica totalmente sem opções. Pode declarar os **custos de mão de obra e de deslocação** de uma empresa de transportes. Deve, no entanto, ter em conta que, por ano, podem ser declarados no máximo 20 000 euros em custos de prestadores de serviços e que, destes, no máximo 4000 euros trazem uma vantagem fiscal. Se estiver a ponderar esta opção, declare os custos como **despesas relacionadas com serviços domésticos**.
 
-Se efetuar uma mudança privada, não pode deduzir as despesas de mudança para efeitos fiscais. No entanto, não está completamente desprovido de opções. Pode declarar **as despesas de mão de obra e de deslocação** de um transitário. No entanto, deve ter em conta que, no máximo, 20.000 euros por ano podem ser declarados para despesas de prestação de serviços e que, no máximo, 4.000 euros destes custos trazem uma vantagem fiscal. Se está a considerar esta possibilidade, declare as despesas como **despesas relacionadas com o agregado familiar**.
+Uma mudança por motivos médicos conta como encargo extraordinário. Também a pode declarar na sua declaração de impostos, mas apenas com comprovativos detalhados da sua situação de saúde.
 
-Uma mudança por razões médicas é considerada um encargo extraordinário. Também pode apresentar este pedido na sua declaração de impostos, mas apenas com provas pormenorizadas da sua situação de saúde.
+## Planeador online para a sua mudança
 
-## Planificador online para a sua mudança
+Para que a sua próxima mudança decorra com o mínimo de stress possível, a equipa do SeaTable criou um modelo para o seu plano de mudança. Pode adaptá-lo às suas necessidades como desejar.
 
-Para que a sua próxima mudança seja o menos stressante possível, a equipa SeaTable criou um modelo para o seu plano de mudança. Pode adaptá-lo às suas necessidades como desejar.
+{{< template-box id="fc4bbfc83848400a8669" >}}
 
-![Plano de relocalização](Umzugsplan.png)
-
-Se pretender utilizar o SeaTable para o planeamento da sua mudança, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/everyday-life/moving-plan" >}}).
+Se pretender utilizar o SeaTable para planear a sua mudança, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Encontra o modelo correspondente [aqui]({{< relref "templates/everyday-life/moving-plan" >}}).

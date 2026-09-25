@@ -7,7 +7,7 @@ author: 'lsc'
 url: '/de/meal-prep'
 seo:
     title: 'Meal Prep – gesund und günstig Essen vorkochen + Wochenplan'
-    description: 'Meal Prep spart Zeit & Geld – plane, koche und lagere Mahlzeiten gezielt vor. Tipps & Wochenplan für gesunden Genuss!'
+    description: 'Meal Prep spart Zeit & Geld – kochen Sie Mahlzeiten gezielt vor. Tipps & Wochenplan für gesunden Genuss!'
 categories:
     - 'best-practice'
 tags:
@@ -15,7 +15,7 @@ tags:
 color: '#cfc6e9'
 ---
 
-Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten [Meal Prep Wochenplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) erstellen können.
+Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten Meal Prep Wochenplan erstellen können.
 
 ## Was genau ist Meal Prep?
 
@@ -44,25 +44,25 @@ Es gibt zwei Möglichkeiten, wie Sie Meal Prep betreiben können. Entweder Sie k
 
 Meal Prep hat einige unschlagbare Vorteile – sowohl gegenüber dem täglichen Kochen frischer Gerichte als auch gegenüber Fertiggerichten aus dem Supermarkt oder vom Take-away-Restaurant.
 
-### Die Vorteile:
+### Die Vorteile
 
 - **Spart Zeit:** Sie müssen nicht jeden Abend stundenlang in der Küche stehen, sondern können Ihre Mahlzeiten für mehrere Tage zubereiten und in verschiedenen Varianten kombinieren.
 - **Spart Geld:** Fertiggerichte sind meist teurer als selbst zu kochen und im Verhältnis kosten größere Mengen an Lebensmitteln weniger als kleine Packungen.
 - **Für Sie maßgeschneidert:** Selbstgekochte Gerichte können Sie im Gegensatz zu Fertiggerichten an Ihre eigenen Bedürfnisse und Vorlieben anpassen und nach Belieben verfeinern.
-- **Fördert gesunde Ernährung:** Selbstgekochte Gerichte enthalten oft weniger Zucker, Fett und Salz – Sie wissen, was Sie zu sich nehmen, und können die Rezepte an Ihre Ernährungsziele anpassen.
+- **Fördert gesunde Ernährung:** Selbstgekochte Gerichte enthalten oft weniger Zucker, Fett und Salz – Sie wissen, was Sie zu sich nehmen, und können die Rezepte an Ihre [Ernährungsziele]({{< relref "posts/ernaehrungstagebuch" >}}) anpassen.
 - **Gegen Lebensmittelverschwendung:** Sie können angebrochene Packungen und verdorbene Zutaten vermeiden, indem Sie frische Lebensmittel in der passenden Menge kaufen und direkt vollständig verwerten.
 
 ![Bei Meal Prep sollen nur die Lebensmittel gekauft werden, die Sie auch wirklich brauchen.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
 Bei einem gezielten Einkauf sparen Sie Geld und Zeit, weil Sie nur die Lebensmittel kaufen, die Sie wirklich brauchen.
 
-Das klingt zu schön, um wahr zu sein? Wie viele Essenstrends kann natürlich auch Meal Prep nicht alle Probleme lösen. Neben den offensichtlichen Vorteilen gibt es auch negative Punkte, welche Sie beachten sollten, bevor Sie sich dem Thema Meal Prep annehmen.
+### Die Nachteile
 
-### Die Nachteile:
+Das klingt zu schön, um wahr zu sein? Wie viele Essenstrends kann natürlich auch Meal Prep nicht alle Probleme lösen. Neben den offensichtlichen Vorteilen gibt es auch negative Punkte, welche Sie beachten sollten, bevor Sie sich dem Thema Meal Prep annehmen.
 
 - **Eingeschränkte Haltbarkeit:** Manche Lebensmittel und Gerichte (z. B. Salate) sind nicht für lange Lagerungen geeignet, da sie schnell schlecht werden, ihre Konsistenz oder ihren Geschmack verlieren.
 - **Macht unflexibel:** Ein spontanes Essen im Restaurant kann Ihren Essensplan durcheinanderbringen. Im schlimmsten Fall müssen Sie verdorbene Lebensmittel oder vorgekochte Portionen wegwerfen.
-- **Eintönigkeit:** Selbst auf Lieblingsgerichte hat man nicht immer Lust, wenn man Sie den dritten Tag in Folge isst. Unten erfahren Sie aber, wie Sie Abwechslung in Ihr vorgekochtes Essen bringen können.
+- **Eintönigkeit:** Selbst auf Lieblingsgerichte hat man nicht immer Lust, wenn man sie den dritten Tag in Folge isst. Unten erfahren Sie aber, wie Sie Abwechslung in Ihr vorgekochtes Essen bringen können.
 - **Lagerung kostet:** Wer für mehrere Tage vorkocht, braucht genügend Platz in seinem Kühlschrank oder Gefrierfach und zudem die richtigen Aufbewahrungsmittel.
 
 ![Ihre Mahlzeiten können einseitig werden, wenn Sie nur wenige Zutaten verwenden.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
@@ -71,7 +71,7 @@ Seien Sie kreativ und sorgen Sie für möglichst abwechslungsreiche Gerichte.
 
 ## Schritt für Schritt zum perfekten Meal Prep
 
-Damit die Mission Meal Prep ein Erfolg wird, benötigen Sie zunächst einen [Essensplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Die folgenden **fünf Schritte** helfen Ihnen beim Ablauf.
+Damit die Mission Meal Prep ein Erfolg wird, benötigen Sie zunächst einen **Essensplan**. Die folgenden fünf Schritte helfen Ihnen beim Ablauf.
 
 ![So gelingt Ihr Meal Prep in fünf einfachen Schritten.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
@@ -79,7 +79,7 @@ Mit der richtigen Planung gelingt Meal Prep auch ungeübten Köchen.
 
 ### 1\. Vorbereiten
 
-Stellen Sie sich zunächst die Frage, für wie viele Tage Sie vorkochen möchten. Für Meal Prep Beginner bietet es sich an, erstmal für zwei oder drei Tage zu kochen, um sich an den Aufwand zu gewöhnen und langsam eine Routine zu entwickeln. Suchen Sie nach passenden **Meal Prep Rezepten**. Diese sollten Nahrungsmittel enthalten, welche Sie gerne essen. Außerdem ist die Zusammensetzung Ihres Gerichts wichtig. Für eine ausgewogene Ernährung sollten Ihre Mahlzeiten Folgendes enthalten:
+Stellen Sie sich zunächst die Frage, für wie viele Tage Sie vorkochen möchten. Für Meal Prep Beginner bietet es sich an, erstmal für zwei oder drei Tage zu kochen, um sich an den Aufwand zu gewöhnen und langsam eine [Routine]({{< relref "posts/habit-tracker" >}}) zu entwickeln. Suchen Sie nach passenden **Meal Prep Rezepten**. Diese sollten Nahrungsmittel enthalten, welche Sie gerne essen. Außerdem ist die Zusammensetzung Ihres Gerichts wichtig. Für eine ausgewogene Ernährung sollten Ihre Mahlzeiten Folgendes enthalten:
 
 - **Proteine:** Gute Quellen sind Fleisch, Fisch und Milchprodukte, aber auch Tofu und Hülsenfrüchte.
 - **Gemüse:** Am besten frisch und saisonal, aber auch tiefgekühlt enthält es viele Vitamine und Nährstoffe.
@@ -91,8 +91,6 @@ Stellen Sie sich zunächst die Frage, für wie viele Tage Sie vorkochen möchten
 Die Rezepte sind ausgewählt, jetzt fehlen Ihnen noch die **Zutaten**. Listen Sie auf, was Sie in welchen **Mengen** brauchen, damit Sie während Ihres Einkaufs den Überblick behalten. Außerdem hilft Ihnen eine [Einkaufsliste]({{< relref "templates/everyday-life/shopping-list" >}}) dabei, nur die Lebensmittel zu kaufen, welche Sie für Ihre Mahlzeiten wirklich benötigen. Achten Sie darauf, frische und leicht verderbliche Ware erst dann zu kaufen, wenn Sie sie sofort weiterverarbeiten können.
 
 ![Um Ihren Einkauf ohne mehr Ausgaben durchzuziehen, hilft Ihnen eine Einkaufsliste](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
-
-Eine Liste hilft Ihnen, Ihre Einkäufe zu überblicken.
 
 ### 3\. Zubereiten
 
@@ -118,8 +116,6 @@ Ein Beispiel für einen **Essensplan** soll die Funktionsweise von Meal Prep noc
 
 ![Meal Prep mit Ofengemüse](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
-Ofengemüse eignet sich hervorragend als Basis für verschiedene Gerichte.
-
 Am **Sonntagabend** nehmen Sie sich also circa zwei Stunden Zeit, um das Gemüse zu waschen, zu schneiden und in einer großen Auflaufform zu backen, während Sie separat die Kartoffeln und den Reis kochen. Lassen Sie die Komponenten abkühlen und füllen Sie alles in saubere Boxen oder Gläser. Aus den vorbereiteten Zutaten können Sie anschließend folgende Gerichte kombinieren:
 
 - **Montag:** Ofengemüse mit Kartoffeln (+ Tomatensoße und Kräuter der Provence)
@@ -136,4 +132,6 @@ Damit Sie Ihre Lieblingsrezepte immer griffbereit haben, können Sie eine Liste 
 
 Tragen Sie einfach den Tag ein, an dem Sie ein Gericht das nächste Mal kochen wollen, und erstellen Sie sich im Kalender immer wieder neue **Meal Prep Wochenpläne**. Laden Sie Fotos hoch und lassen Sie sich Woche für Woche von Ihrer Galerie an möglichen Gerichten inspirieren. In zwei weiteren Tabellen können Sie alle Zutaten in einer **Einkaufsliste** erfassen und die **Nährwerte** Ihrer Lieblingsgerichte vergleichen.
 
-Wenn Sie SeaTable für Ihren Meal Prep Wochenplan nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Löschen Sie die Beispielrezepte und passen Sie den Essensplan nach Belieben an Ihre Bedürfnisse an.
+{{< template-box id="f1b6279b2aa8466fbcea" >}}
+
+Wenn Sie SeaTable für Ihren Meal Prep Wochenplan nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}). Löschen Sie die Beispielrezepte aus der Vorlage und passen Sie den Essensplan nach Belieben an Ihre Bedürfnisse an.

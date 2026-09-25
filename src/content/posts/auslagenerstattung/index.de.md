@@ -37,7 +37,7 @@ Es gibt verschiedene Kosten, die Sie sich als Auslagen erstatten lassen können.
 
 ## Auslagenerstattung vs. Durchlaufende Gelder
 
-Haben Sie sich bereits mit der Auslagenerstattung auseinandergesetzt und sind über den Begriff **Durchlaufende Gelder** gestolpert? Dann haben Sie sich bestimmt gefragt, wo genau der Unterschied liegt. Prinzipiell gelten sowohl für die Auslagenerstattung als auch für Durchlaufende Gelder die gleichen Vorschriften. Der einzige Unterschied ist der **Zeitpunkt zu dem der Arbeitnehmer das Geld erhält**,
+Haben Sie sich bereits mit der Auslagenerstattung auseinandergesetzt und sind über den Begriff **Durchlaufende Gelder** gestolpert? Dann haben Sie sich bestimmt gefragt, wo genau der Unterschied liegt. Prinzipiell gelten sowohl für die Auslagenerstattung als auch für Durchlaufende Gelder die gleichen Vorschriften. Der einzige Unterschied ist der **Zeitpunkt, zu dem der Arbeitnehmer das Geld erhält**:
 
 - **Auslagenerstattungen**: Sie leisten zunächst Vorkasse und bekommen erst nach der Transaktion die Auslagen erstattet.
 - **Durchlaufende Gelder**: Sie müssen nicht im Voraus aus eigener Tasche zahlen, sondern erhalten die Mittel von Ihrem Betrieb, bevor Sie diese ausgeben.
@@ -87,6 +87,8 @@ Ein weiterer Pluspunkt ist die **gesteigerte Transparenz**. Unternehmen können 
 ## Kostenlose Vorlage zur Auslagenerstattung
 
 Wenn Sie den Schritt von einer analogen hin zu einer digitalen Auslagenerstattung gehen möchten, stellt die [kostenlose Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}) von SeaTable eine hervorragende Option für Sie dar.
+
+{{< template-box id="e51bde56c25e439891c9" >}}
 
 Sie können Ihre Auslagen in die Tabelle eintragen und diese per Mausklick in **eigens festgelegte Kategorien** wie Büroausstattung, Reisekosten oder Geschäftsessen einordnen. Die Mitarbeiter können **digitale Belege und Rechnungen** direkt in der Tabelle ablegen und so sicherstellen, dass kein Nachweis mehr verloren geht. Außerdem sehen Sie auf einen Blick, welche Auslagen Sie bereits erstattet haben und welche noch ausstehen. Nach der Erstattung können Sie mühelos Dokumente erstellen, in denen Sie die Rückerstattung bestätigen. Anhand der **Statistiken** erkennen Sie auf einen Blick, welche Kosten am häufigsten anfallen und welche Sie vielleicht sogar senken können. 
 

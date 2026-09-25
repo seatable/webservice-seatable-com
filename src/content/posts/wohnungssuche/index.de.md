@@ -82,9 +82,7 @@ Wenn es endlich zur Wohnungsbesichtigung kommt, gibt es einige Punkte zu beachte
 
 ![Tipps für Wohnungsbesichtigungen](Wohnungssuche-Besichtigungen-1-711x889.png)
 
-Hilfreiche Tipps für Wohnungsbesichtigungen.
-
-Liegt die Wohnung an einer vielbefahrenen Straße oder Bahnstrecke? Sie besitzen kein **Auto** und der nächste Supermarkt ist 5 km entfernt? Gab es bereits Probleme mit Schimmel in der Wohnung oder sind hohe **Heizkosten** absehbar? Falls der bisherige Mieter während der Besichtigung anwesend ist, können Sie ihn auch zu den Gründen für seinen Auszug befragen. Versuchen Sie so viel wie möglich herauszufinden, ohne aber zu aufdringlich zu sein.
+Einige hilfreiche Tipps für Wohnungsbesichtigungen: Liegt die Wohnung an einer vielbefahrenen Straße oder Bahnstrecke? Sie besitzen ein Auto, es gibt aber keinen [Parkplatz]({{< relref "posts/parkraumbewirtschaftung" >}})? Sie besitzen **kein Auto** und der nächste Supermarkt ist 5 km entfernt? Gab es bereits Probleme mit Schimmel in der Wohnung oder sind hohe [Heizkosten]({{< relref "templates/everyday-life/energy-tracker" >}}) absehbar? Falls der bisherige Mieter während der Besichtigung anwesend ist, können Sie ihn auch zu den Gründen für seinen Auszug befragen. Versuchen Sie so viel wie möglich herauszufinden, ohne aber zu aufdringlich zu sein.
 
 Gegebenenfalls besteht die Möglichkeit oder sogar die Bedingung, dass Sie gegen einen Abschlag bestimmte **Möbel oder Geräte vom Vormieter** übernehmen. Wenn Sie mit größeren eigenen Möbeln einziehen wollen, fragen Sie am besten nach einem **Grundriss** oder messen Sie selbst die Räume aus, in die Sie sie stellen möchten.
 
@@ -96,8 +94,10 @@ Verstellen Sie sich nicht, sondern präsentieren Sie sich **authentisch**. Dadur
 
 ## 10\. Bei der Wohnungssuche den Überblick behalten
 
-Im Immobilien-Dschungel den Überblick zu bewahren ist gar nicht so leicht. Insbesondere, wenn man sich für mehrere Immobilien interessiert, kommt man schnell durcheinander. Um zu verhindern, dass Sie eine Wohnung vergessen oder gar versehentlich doppelt kontaktieren, macht es sich bezahlt, wenn Sie von Anfang an eine gute Struktur verwenden. Das kostenlose [Template von SeaTable]({{< relref "templates/everyday-life/apartment-hunting" >}}) eignet sich hervorragend dafür.
+Im Immobilien-Dschungel den Überblick zu bewahren ist gar nicht so leicht. Insbesondere, wenn man sich für mehrere Immobilien interessiert, kommt man schnell durcheinander. Um zu verhindern, dass Sie eine Wohnung vergessen oder gar versehentlich doppelt kontaktieren, macht es sich bezahlt, wenn Sie von Anfang an eine gute Struktur verwenden. Die [kostenlose Vorlage von SeaTable]({{< relref "templates/everyday-life/apartment-hunting" >}}) eignet sich hervorragend dafür.
 
-In der Vorlage können Sie Ihre Kriterien eintragen und auf einen Blick alle potenziellen Wohnungen vergleichen. Neben Bildern können Sie auch die Kontaktdaten der Vermieter sowie Termine einfügen. Nach einer erfolgreichen Besichtigung können Sie Ihren Eindruck notieren und so keine Details vergessen. Durch eine gute Organisation werden Ihnen die Wohnungssuche und die letztendliche Entscheidung für Ihre Traumwohnung leichter fallen.
+{{< template-box id="3ab08a59c6b34166b852" >}}
 
-Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos registrieren. Anschließend können Sie [die Vorlage]({{< relref "templates/everyday-life/apartment-hunting" >}}) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.
+In der Vorlage können Sie Ihre Kriterien eintragen und auf einen Blick alle potenziellen Wohnungen vergleichen. Neben **Bildern** können Sie auch die **Kontaktdaten der Vermieter** sowie **Termine** einfügen. Nach einer erfolgreichen Besichtigung können Sie Ihren Eindruck notieren und so keine Details vergessen. Durch eine gute Organisation werden Ihnen die Wohnungssuche und die letztendliche Entscheidung für Ihre Traumwohnung leichter fallen.
+
+Um SeaTable zu verwenden, müssen Sie sich lediglich [kostenlos registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie [die Vorlage]({{< relref "templates/everyday-life/apartment-hunting" >}}) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.

@@ -1,6 +1,6 @@
 ---
-title: 'Fiesta de revelación del sexo: cómo hacer que tu baby shower sea un éxito'
-description: 'Celebra la revelación del sexo del bebé a lo grande: esta guía te ofrece ideas originales, consejos de decoración, sugerencias de menú, juegos divertidos y una checklist práctica para organizar tu baby shower sin estrés.'
+title: 'Fiesta de revelación del sexo: cómo hacer que su fiesta del bebé sea un éxito'
+description: '¿Viene un bebé en camino y desea celebrarlo como se merece? Entonces una fiesta de revelación del sexo (gender reveal party) es justo lo que necesita. En esta tendencia procedente de EE. UU., el sexo del bebé se desvela de forma espectacular. Si desea organizar una fiesta así, debe planificar con todo detalle cómo coordinar la decoración, la comida y el programa.'
 date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
@@ -9,7 +9,7 @@ aliases:
     - /es/gender-reveal-party
 seo:
     title: 'Fiesta gender reveal: guía, ideas y planificación'
-    description: 'Organiza la mejor fiesta gender reveal: guía de organización, ideas para la revelación, decoración, juegos y lista de control.'
+    description: 'Planifique su fiesta gender reveal: checklist, decoración, juegos y recetas para que su fiesta del bebé sea un momento inolvidable.'
 categories:
     - 'best-practice'
 tags:
@@ -17,160 +17,144 @@ tags:
 color: '#f6dded'
 ---
 
-¿Viene un bebé en camino y quieres celebrarlo por todo lo alto? Entonces una **fiesta de revelación de sexo** es lo que necesitas. Esta tendencia estadounidense consiste en desvelar el sexo del bebé de una forma impresionante. Si quieres organizar una fiesta **de** este tipo, tienes que planificar cuidadosamente cómo coordinar la decoración, la comida y el programa.
+Aquí descubrirá qué debe tener en cuenta al organizarla para que su fiesta de revelación del sexo se convierta en una experiencia única.
 
-Aquí encontrarás lo que debes tener en cuenta a la hora de organizar tu fiesta de revelación de sexo para que sea una experiencia única.
+## ¿Qué es una fiesta de revelación del sexo?
 
-## ¿Qué es una fiesta de revelación de sexo?
+En el centro de la fiesta de revelación del sexo está el **anuncio del sexo** del bebé. Los futuros padres celebran junto con amigos y familiares el próximo nacimiento de su hijo, y lo hacen a bombo y platillo. La decoración, la comida y los juegos se planifican hasta el más mínimo detalle para aumentar la expectación ante el anuncio del sexo. Toda la celebración gira en torno a esta pregunta:
 
-La Fiesta de Revelación del Sexo se centra en **desvelar el sexo** del bebé. Los futuros padres celebran el inminente nacimiento del niño junto con amigos y familiares, a bombo y platillo. La decoración, la comida y los juegos se planean hasta el más mínimo detalle para aumentar la expectación ante la revelación del sexo del bebé.
+![Anime a sus invitados con una pizarra con la pregunta «he or she?».](frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
 
-![Haz que tus invitados se animen con una pizarra con la pregunta "¿él o ella?](frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
+La revelación propiamente dicha se hace de forma espectacular. Por ejemplo, puede cortar una tarta con relleno rosa o azul claro, o hacer estallar un globo lleno de confeti del color correspondiente.
 
-Toda la celebración gira en torno a esta pregunta.
+## ¿Quién se encarga de organizar la fiesta de revelación del sexo?
 
-La inauguración propiamente dicha se hace de forma espectacular. Por ejemplo, se puede cortar una tarta con relleno rosa o azul claro o reventar un globo lleno de confeti del color correspondiente.
-
-## ¿Quién organiza la fiesta de revelación de sexo?
-
-Existen básicamente **dos opciones** para organizar la fiesta de revelación de sexo. Depende de a quién de los presentes quieras sorprender con la revelación del sexo.
+En principio, existen **dos opciones** sobre quién se encarga de organizar la fiesta. Depende de a quién de los asistentes desee sorprender con la revelación del sexo.
 
 ### Sorpresa para los futuros padres
 
-Los futuros padres designan a una persona **de** confianza que es la única que conoce el sexo del bebé y que se encargará de todas las gestiones que giran en torno al gran momento. Con el consentimiento de los padres, esta persona recibe un sobre del ginecólogo, que previamente ha escrito en un papel el sexo del bebé. Ahora la tarea, aparte de organizarlo, es no cotorrear. Esto hace que el momento de la revelación sea especialmente emotivo para los padres.
+Los futuros padres eligen a una **persona de confianza**, que será la única que conozca el sexo del bebé y que se encargará de todos los preparativos relacionados con el gran momento. Con el consentimiento de los padres, esta persona recibe un sobre del ginecólogo, que previamente ha escrito el sexo del bebé en un papel. Además de la organización, su tarea consiste en no irse de la lengua. Así, el momento de la revelación resulta especialmente emotivo para los padres.
 
 ### Sorpresa para los invitados
 
-Si los padres quieren saber con tranquilidad el sexo de su hijo, pueden celebrar la fiesta como un anuncio para los invitados. Por supuesto, los amigos y familiares también pueden participar en la planificación para compartir el trabajo. Sin embargo, todo lo que pueda presagiar el momento de la revelación es tabú para ellos.
+Si los padres prefieren conocer el sexo de su hijo con tranquilidad, pueden celebrar la [fiesta]({{< relref "templates/everyday-life/party-planner" >}}) como anuncio para los invitados. Por supuesto, también pueden implicar a amigos y familiares en la planificación para repartir el trabajo. Eso sí, para ellos está prohibido todo lo que pueda desvelar de antemano el momento de la revelación.
 
-## 7 pasos para un baby shower perfecto
+## 7 pasos para una fiesta del bebé perfecta
 
-¿Te gustaría organizar una fiesta para revelar tu sexo o el de tus amigos, pero no sabes qué hay que organizar? Aquí encontrará un resumen de las tareas que le esperan en el camino hacia el éxito.
+¿Desea organizar una fiesta de revelación del sexo para usted o para sus amigos, pero no sabe todo lo que hay que preparar? Aquí encontrará un resumen de las tareas que le esperan en el camino hacia un [evento]({{< relref "posts/veranstaltung-verwalten" >}}) de éxito.
 
-![Aquí te explicamos cómo organizar tu fiesta de revelación de sexo en 7 pasos.](Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
+![Aquí descubrirá cómo organizar su fiesta de revelación del sexo en 7 pasos.](Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
 
 Con la organización adecuada, su celebración será un acontecimiento inolvidable.
 
-## 1\. fijar una fecha
+## 1\. Fijar la fecha
 
-El momento de la fiesta depende de los deseos de los futuros padres. Si desean conocer el sexo de su hijo inmediatamente después de que el médico lo haya confirmado, lo ideal es una fecha entre la **semana 20 y 30 de embarazo**.
+El momento de la fiesta depende de los deseos de los futuros padres. Si quieren conocer el sexo de su hijo en cuanto el médico lo haya confirmado, lo ideal es una fecha entre la **semana 20 y la 30 de embarazo**.
 
-Sin embargo, también es posible combinar la revelación del sexo con la **fiesta del bebé**, en la que tradicionalmente se hacen regalos a los padres y al bebé. De este modo, es más probable que la celebración tenga lugar en el **último trimestre del embarazo**.
+Sin embargo, también es posible combinar la revelación del sexo con el **baby shower**, en el que tradicionalmente se hacen regalos a los padres y al bebé. En ese caso, la celebración tendría lugar más bien en el **último trimestre del embarazo**.
 
-Ten en cuenta también la disponibilidad de tus invitados. Para que pueda venir el mayor número posible de personas, es mejor organizar la fiesta en **fin de semana**.
+Tenga en cuenta también la disponibilidad de sus invitados. Para que puedan asistir el mayor número posible de personas, lo mejor es celebrar la fiesta un **fin de semana**.
 
-![La fiesta de revelación del sexo puede celebrarse en cuanto el médico haya confirmado el sexo del niño con una ecografía.](pexels-amina-filkins-5427991-e1707224569403-711x1044.jpg)
+![La fiesta de revelación del sexo puede celebrarse en cuanto el médico haya confirmado el sexo del bebé mediante una ecografía.](pexels-amina-filkins-5427991-e1707224569403-711x1044.jpg)
 
-Asegúrate de no planificar la celebración demasiado cerca del parto.
+Procure no programar la celebración demasiado cerca del parto.
 
-## 2\. seleccione la ubicación
+## 2\. Elegir el lugar
 
-Ya sea en la comodidad de su **propia casa** o en un **local alquilado**, su baby shower puede ser un éxito en cualquier lugar. La decisión final depende sobre todo de la época del año y del día, así como del número de invitados. Si te gustan las fotos bonitas o las sorpresas especiales con humo de colores o fuegos artificiales, una fiesta en el **jardín o en el parque** es una buena opción.
+Ya sea de forma acogedora **en su propia casa** o en un **local de eventos alquilado**, su fiesta del bebé puede ser un éxito en cualquier sitio. La decisión final depende sobre todo de la época del año, la hora del día y el número de invitados. Si le dan especial importancia a las fotos bonitas o a sorpresas especiales con humo de colores o fuegos artificiales, lo ideal es celebrar la fiesta en el **jardín o en un parque**.
 
-## 3\. crear la lista de invitados
+## 3\. Elaborar la lista de invitados
 
-Una fiesta de revelación del sexo es un asunto íntimo y personal. Por lo tanto, sólo debe invitar a personas **de su círculo más cercano de amigos y familiares**. Si los futuros padres tienen alguna petición especial, por supuesto que debes tenerla en cuenta.
+Una fiesta de revelación del sexo es un acontecimiento íntimo y personal. Por eso, solo debería invitar a **personas de su círculo más cercano de amigos y familiares**. Si los futuros padres tienen algún deseo especial, por supuesto debe tenerlo en cuenta.
 
-Una **lista de invitados** le ofrece una visión general inicial y le permite adaptar los siguientes pasos de planificación al número de invitados previsto.
+Con una **lista de invitados** obtendrá una primera visión de conjunto y podrá adaptar los siguientes pasos de la planificación al número de invitados previsto.
 
-{{< warning headline="Ideas para la tarjeta de invitación" text="Dale un toque personal a las invitaciones diseñándolas tú mismo. Aumenta la expectación de los invitados con títulos como *¿Será niño o niña?*. Puedes mantener la tarjeta en la misma gama de colores que la decoración de la fiesta." />}}
+{{< warning headline="Ideas para la tarjeta de invitación" text="Dé un toque personal a las invitaciones diseñándolas usted mismo. Aumente la expectación de sus invitados con títulos como *¿Será niño o niña?*. La tarjeta ya puede tener la misma gama de colores con la que brillará la decoración de su fiesta." />}}
 
-Envíe las invitaciones con tiempo y fije una **fecha límite para aceptarlas o cancelarlas**. Pregunte también si vendrán parejas o hijos. Explique brevemente cómo funciona una fiesta de revelación de sexo para que los invitados puedan prepararse.
+Envíe las invitaciones con suficiente antelación y fije una **fecha límite para confirmar la asistencia**. Pregunte también si vendrán parejas o hijos. Además, debería explicar brevemente cómo se desarrolla una fiesta de revelación del sexo para que los invitados puedan prepararse.
 
-## 4\. conseguir decoración
+## 4\. Conseguir la decoración
 
-La decoración es lo más importante de la celebración. Tradicionalmente, la clave para saber el sexo del bebé se esconde en una de las piezas decorativas. Toda la decoración se basa en una **combinación de colores** elegida por ti. Puede ser el clásico **rosa** para una niña y **azul claro** para un niño u otros colores que rompan con los tópicos. Lo único importante es que todo el mundo tenga claro qué color representa a cada sexo antes de la inauguración.
+La decoración es lo más importante de la fiesta, ya que la pista decisiva sobre el sexo del bebé se esconde tradicionalmente en uno de los elementos decorativos. Toda la decoración sigue una **gama de colores** elegida por usted. Puede ser el clásico **rosa** para una niña y **azul claro** para un niño, u otros colores que rompan con los tópicos. Lo único importante es que antes de la revelación todos tengan claro qué color corresponde a cada sexo.
 
-![El arco del globo se mantiene en colores lisos.](tony-luginsland-nqk6s5Zkip8-unsplash-scaled-e1707225176373-711x918.jpg)
+![El arco de globos está decorado en colores discretos.](tony-luginsland-nqk6s5Zkip8-unsplash-scaled-e1707225176373-711x918.jpg)
 
-Decide una combinación de colores adecuada.
+Los elementos decorativos más habituales son los **globos**, las **guirnaldas** o los **pompones**. Preste atención también a los pequeños detalles, como la **decoración de la mesa**. Puede consistir, por ejemplo, en artículos para bebés como chupetes o biberones. Recurra a [sets de decoración](https://www.babybellyparty.de/gender-reveal-party/?p=1) temáticos o elabore usted mismo los elementos llamativos. Esto último lleva mucho tiempo, pero permite un diseño más libre y personal.
 
-Los **globos**, las **guirnaldas** y **los pompones** son elementos decorativos muy populares. Presta también atención a los pequeños detalles, como la **decoración de la mesa**. Pueden ser artículos para bebés, como chupetes o biberones, por ejemplo. Hazte con [sets de decoración](https://www.babybellyparty.de/gender-reveal-party/?p=1) temática o crea tú mismo los elementos llamativos. Esto último lleva mucho tiempo, pero el diseño es más libre y personalizado.
+## 5\. Planificar la comida
 
-## 5\. planificar el catering
+Por supuesto, tampoco puede faltar una comida a juego con la decoración. Si decide invitar a café y tarta, una **mesa dulce** bien surtida es imprescindible. La gama de colores que haya elegido se refleja en los dulces. Tartas, galletas o cupcakes con glaseado de colores invitan a picar.
 
-Por supuesto, tampoco puede faltar comida a juego con la decoración. Si decides invitar a los invitados a café y tarta, una mesa bien surtida **Mesa dulce** imprescindible. La combinación de colores que elijas se refleja en los postres. Las tartas, galletas o cupcakes con glaseado de colores invitan a merendar.
+![Presente la comida de su fiesta de revelación del sexo de forma atractiva.](pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
 
-![Emplata la comida de tu fiesta de revelación de sexo de forma atractiva.](pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
+Debe decidir con suficiente antelación si prefiere cocinar usted mismo o contratar un servicio de catering para su fiesta. Puede ser útil implicar a los invitados en la planificación de la comida y pedirles que traigan platos caseros. Así ahorrará tiempo y dinero. Además, algo hecho en casa es un bonito regalo que todos los invitados disfrutarán.
 
-Ofrece una deliciosa selección de platos.
+## 6\. Preparar los juegos
 
-Si quieres cocinar tú misma o contratar a un servicio de catering para tu fiesta de revelación de sexo es algo que tienes que pensar desde el principio. Puede ser útil que los invitados participen en la planificación de la comida y que traigan su propia comida casera. Así ahorrarás tiempo y dinero. Además, algo hecho en casa es un bonito regalo que gustará a todos los invitados.
+No solo los niños invitados pueden disfrutar de juegos relacionados con el tema. Para aumentar aún más la expectación, puede dividir a sus invitados en equipos y hacer que compitan entre sí en minijuegos. ¿Qué le parecen, por ejemplo, estos?
 
-## 6\. preparar los juegos de la fiesta
+- Adivinar el sexo del bebé
+- Tutti frutti (basta) con categorías temáticas como nombres de bebé, comida para bebés o peluches
+- Cambiar pañales contrarreloj
+- Adivinar canciones infantiles por la letra
+- Asignar fotos de bebé a los invitados
 
-No sólo los niños invitados podrán disfrutar de juegos acordes con el tema. Para aumentar aún más la expectación, puedes dividir a tus invitados en equipos y hacer que compitan entre sí en minijuegos. ¿Qué te parece esto, por ejemplo?
+Los invitados se motivan especialmente si reciben una **pequeña recompensa** por su victoria. Pueden ser dulces o pequeños regalos. También son divertidos los vales que benefician a los futuros padres, por ejemplo «Un vale para una tarde de canguro».
 
-- Adivina el sexo del bebé
-- Ciudad-país-río con categorías temáticas acordes, como el nombre del bebé, la comida del bebé o los peluches.
-- Cambio temporal de pañales
-- Adivina canciones infantiles a partir de la letra
-- Asignar fotos del bebé a los invitados
+## 7\. Desvelar la sorpresa
 
-Los invitados se sienten especialmente motivados si reciben una **pequeña recompensa** por su victoria. Pueden ser caramelos o pequeños regalos. También son divertidos los vales que benefician a los futuros padres, por ejemplo "Un vale para una sesión de canguro".
+Por fin ha llegado el momento que todos esperaban. ¿Será niño, niña o, para sorpresa de todos, gemelos? Haga que el momento de la revelación sea especialmente bonito e inspírese en las siguientes ideas.
 
-## 7\. resolver la sorpresa
+### Fiesta de revelación del sexo con globos
 
-Por fin ha llegado el momento que todo el mundo esperaba. ¿Será niño, niña o, para sorpresa de todos, gemelos? Haz que el momento de la revelación sea muy especial e inspírate con las siguientes ideas.
+Los globos son muy populares. Una opción es llenar un globo negro con purpurina del color elegido para el sexo y luego inflarlo. Con un alfiler o un dardo, los futuros padres pueden hacer estallar la sorpresa. El sexo del bebé se revela con un estallido.
 
-### Fiesta de género con globos
+![Utilice un gran globo negro para mantener en secreto el sexo del bebé hasta el último momento.](pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
 
-Los globos son muy populares. Una opción es rellenar un globo negro con purpurina del color elegido para el sexo y luego inflarlo. Los futuros padres pueden reventar la sorpresa con un alfiler o un dardo.
+Si desea disfrutar algo más de la imagen de la revelación, también puede optar por otra alternativa. Meta **globos de helio** del color correspondiente en una caja y pida que la abran. Los globos se elevan hacia el cielo y llevan consigo al mundo la noticia del sexo del bebé.
 
-![Utiliza un gran globo negro para mantener en secreto el sexo del bebé hasta el último momento.](pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
+### Implicar a los invitados
 
-El sexo del bebé se revela con estrépito.
+Para los invitados es especialmente bonito participar en el anuncio del sexo. Una forma de conseguirlo es repartir a todos los invitados bolsitas opacas. En ellas hay **polvo** del color correspondiente. Tras una cuenta atrás, todos lanzan el contenido al aire y pueden disfrutar de la nube de color que aparece.
 
-Si quieres un poco más de imagen de la revelación, también puedes optar por otra opción. Empaqueta **globos de helio** del color adecuado en una caja y haz que los abran. Los globos se elevarán hacia el cielo, llevando al mundo la noticia del sexo del bebé.
-
-### Involucrar a los invitados
-
-Es especialmente agradable para los invitados si se les incluye en el anuncio del sexo. Una forma de hacerlo es repartir bolsas opacas a todos los invitados. Éstas contienen **polvos** del color correspondiente. Tras una cuenta atrás, todos lanzan el contenido al aire y pueden disfrutar de la imagen en color que aparece.
-
-{{< warning headline="Presentación explosiva con confeti o cañón de humo" text="El uso de **confeti o cañones de** humo es un poco más atrevido. El sexo del niño se anuncia a bombo y platillo. La revelación con el cañón de humo, en particular, crea momentos fotográficos espectaculares." />}}
+{{< warning headline="Revelación explosiva con cañón de confeti o de humo" text="Algo más atrevido es el uso de **cañones de confeti o de humo**. El sexo del bebé se anuncia con un estallido. Sobre todo la revelación con el cañón de humo proporciona momentos fotográficos espectaculares." />}}
 
 ### Una dulce sorpresa
 
-La clásica revelación de género es la **Pastel**. Encarga o prepara una tarta de varios pisos con relleno de nata de colores o gotas de chocolate de colores, según el sexo. El exterior de la tarta coincide con el color de la decoración. El sexo del niño sólo se revela al cortar la tarta.
+El clásico de las revelaciones de sexo es la **tarta**. Encargue o hornee una tarta de varios pisos que, según el sexo, contenga un relleno de crema de color o grageas de chocolate de colores. Por fuera, la tarta se adapta a la gama de colores de la decoración. Así, el sexo del bebé no se revela hasta que se corta la tarta.
 
-![Una tarta que revela el sexo del bebé.](pexels-tima-miroshnichenko-6461826-711x474.jpg)
+![Una tarta de revelación desvela el sexo del bebé.](pexels-tima-miroshnichenko-6461826-711x474.jpg)
 
-Disfrute de una deliciosa sorpresa.
+## Guardar los recuerdos
 
-## Capturar recuerdos
+Una fiesta de revelación del sexo es un acontecimiento único, y no solo para los futuros padres. Capture el día en fotos para que quede siempre en el recuerdo. Para ello, conviene contratar a un **fotógrafo** que inmortalice los numerosos momentos felices. Como alternativa, los propios invitados pueden tomar la iniciativa. Reparta **cámaras desechables o instantáneas** entre los asistentes para que puedan capturar el día en todas sus facetas a su antojo.
 
-Una fiesta de revelación de sexo no es sólo un acontecimiento único para los futuros padres. Capta el día con fotos para que sea recordado para siempre. La mejor forma de hacerlo es utilizar un **Fotógrafos** que tomarán fotos de los muchos momentos felices. Los invitados también pueden participar activamente. Reparta **Cámaras desechables o instantáneas** a los presentes, permitiéndoles captar el día en todas sus facetas a su antojo.
+![Encargue a alguien que haga fotos durante la fiesta de revelación del sexo.](pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
 
-![Contrata a alguien para que haga fotos durante la fiesta de revelación de sexo.](pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
+{{< warning headline="Consejo" text="Con las fotos podrá informar posteriormente del sexo del bebé a los familiares y conocidos que no hayan podido asistir a su fiesta." />}}
 
-Capture la celebración en imágenes.
+## Ideas alternativas para su fiesta del bebé
 
-{{< warning headline="Consejo" text="Puedes utilizar las fotos después para informar del sexo del bebé a los familiares y amigos que no hayan podido asistir a la fiesta." />}}
+¿Desea celebrar el embarazo con amigos y familiares, pero una fiesta de revelación del sexo no le convence? No hay problema: aquí encontrará algunas **alternativas** con otros hitos que puede celebrar en el camino hacia el nacimiento del bebé.
 
-## Ideas alternativas para tu baby shower
+### Baby shower
 
-¿Te gustaría celebrar tu embarazo con amigos y familiares, pero una fiesta de revelación del sexo no te atrae? No hay problema, porque aquí tienes algunas **alternativas** para celebrar otros hitos en el camino hacia el nacimiento de tu hijo.
+¡Que lluevan los regalos! Tradicionalmente, esta **fiesta del bebé** la organizan las amigas de la futura madre y se celebra con amigas y familiares. Los invitados traen **regalos** para los futuros padres y el bebé.
 
-### Babyshower
+![Peluches, un cepillo o toallitas son regalos útiles para los futuros padres.](elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
 
-¡Que lluevan regalos! Tradicionalmente **Baby shower** organizado por las amigas de la futura madre y se celebra con amigas y familiares. Las invitadas traen **Regalos** para los futuros padres y el bebé.
-
-![Los peluches, cepillos o franelas son regalos útiles para los futuros padres.](elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
-
-Haz regalos que sean útiles para la primera vez con el niño.
-
-Averigua de antemano qué les gustaría recibir a mamá y papá y elabora una **lista de deseos**. Los regalos más populares son pañales, comida para bebés o vales de bienestar para los padres.
+Regale cosas que sean útiles para las primeras semanas con el bebé. Averigüe de antemano qué les haría ilusión a la madre y al padre y elabore una [lista de deseos]({{< relref "posts/wunschzettel" >}}). Algunos regalos muy apreciados son, por ejemplo, pañales, comida para bebés o vales de bienestar para los padres.
 
 ### Fiesta de revelación del nombre
 
-¿Cómo se llamará el recién nacido? Invita a amigos y familiares y deja que **te sugieran** sus **nombres** favoritos. Puedes aprovechar la celebración para anunciar el nombre que ya has elegido o dejar que las sugerencias te inspiren.
+¿Cómo se llamará el recién nacido? Invite a amigos y familiares y pídales que den sus **propuestas de nombre** favoritas. Puede aprovechar la fiesta para anunciar el nombre ya elegido o dejarse inspirar por las propuestas.
 
-### Fiesta de vencimiento
+### Fiesta de la fecha de parto
 
-Se trata de adivinar. Haz que tus invitados predigan la **fecha de** nacimiento basándose en la circunferencia de la barriga de la futura mamá. El que más se acerque será el primer visitante oficial que vea al bebé después del parto. Además, el ganador recibirá un certificado por ser el mejor pronosticador de la fecha de nacimiento. También se pueden hacer predicciones sobre el **tamaño** o el **peso** del recién nacido.
+Aquí se trata de adivinar. Pida a sus invitados que pronostiquen la **fecha de parto** a partir del tamaño de la barriga de la futura madre. Quien más se acerque podrá ver al bebé como primera visita oficial tras el nacimiento. Además, el ganador recibe un diploma al mejor pronosticador de la fecha de parto. Del mismo modo, se pueden hacer pronósticos sobre la **talla** o el **peso** del recién nacido.
 
-## Planificador en línea para su baby shower
+## Planificador online para su fiesta del bebé
 
-Para que tu fiesta de revelación de sexo sea todo un éxito, necesitas una organización exhaustiva. Para facilitarte las cosas, el equipo de SeaTable ha creado una [práctica plantilla]({{< relref "templates/everyday-life/baby-party" >}}) para planificar tu baby shower. Puedes personalizarla para adaptarla a tus necesidades.
+Para que su fiesta de revelación del sexo sea todo un éxito, hace falta una organización exhaustiva. Para facilitársela, el equipo de SeaTable ha creado una [práctica plantilla]({{< relref "templates/everyday-life/baby-party" >}}) para planificar su fiesta del bebé. Puede adaptarla a sus necesidades como desee. Si quiere utilizar SeaTable para ello, [regístrese gratis sin más]({{< relref "pages/registration" >}}).
 
-Si desea utilizar SeaTable para ello, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí]({{< relref "templates/everyday-life/baby-party" >}}).
+{{< template-box id="f49862deac1d4d1ea078" >}}

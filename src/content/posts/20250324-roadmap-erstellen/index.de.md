@@ -65,7 +65,11 @@ Um Ihr Projekt so effizient wie möglich zu gestalten, sollten Sie die betroffen
 
 Wie Sie Ihr Ziel erreichen wollen, legen Sie mit der Struktur der Roadmap fest. Ausgangspunkt sollte dabei immer der aktuelle Stand sein. In der Regel visualisiert eine Roadmap anschließend die **Hauptaufgaben**, die zur Erreichung des Ziels nötig sind. Dabei bringen Sie die Meilensteine in eine logische **zeitliche Reihenfolge**. Der gewünschte Detailgrad entscheidet darüber, wie viele Zwischenschritte und Teilaufgaben Sie festhalten wollen.
 
-Tipp: Für die Detailplanung Ihres Projekts nutzen Sie am besten einen [Projektstrukturplan]({{< relref "posts/20250317-projektstrukturplan" >}}), der sich beliebig erweitern lässt.
+{{< warning headline="Tipp" >}}
+
+Für die Detailplanung Ihres Projekts nutzen Sie am besten einen [Projektstrukturplan]({{< relref "posts/20250317-projektstrukturplan" >}}), der sich beliebig erweitern lässt.
+
+{{< /warning >}}
 
 ### 5. Roadmap erstellen
 
@@ -79,7 +83,7 @@ Egal, für welche Art der Roadmap Sie sich entschieden haben – Sie sollten Ihr
 
 ![Roadmap erstellen in 6 Schritten](Roadmap-in-6-Schritten.jpg)
 
-## Programme und Tools
+## Roadmap: Programme und Tools
 
 Bei der Projektplanung ist es entscheidend, zum Roadmap erstellen ein passendes Tool auszuwählen. Erleichtern Sie sich deshalb die Erfassung Ihrer Projektinformationen, indem Sie Ihre Daten in eine vorgefertigte Struktur einpflegen. Je nachdem, welche Themen und Stakeholder Sie für Ihr Vorhaben identifiziert haben, gibt es spezielle Vorlagen. Diese unterscheiden sich zunächst nach Anbietern und den damit verbundenen Tools. 
 
@@ -109,17 +113,19 @@ Jedes Ziel hat seine eigenen Anforderungen. Deswegen ist es sinnvoll, eine Roadm
 
 ### Projekt-Roadmap
 
-Eine Projekt-Roadmap liefert genau das, was ihr Name vermuten lässt: einen Überblick über ein bestimmtes Projekt. Das können zum Beispiel eine Marketingkampagne, eine größere Veranstaltung oder ein Bauprojekt sein. Die Projekt-Roadmap dient dabei als leistungsfähiges Werkzeug, um die Ziele zu definieren, Anforderungen an die Stakeholder zu kommunizieren und Fristen einzuhalten. Typische Elemente sind zudem Meilensteine, Kosten- und Ressourcenplanung. 
+Eine Projekt-Roadmap liefert genau das, was ihr Name vermuten lässt: einen Überblick über Ihre Projekte. Das können zum Beispiel eine [Marketingkampagne]({{< relref "posts/marketing-kampagne-planung" >}}), eine größere [Veranstaltung]({{< relref "posts/veranstaltung-verwalten" >}}) oder ein [Bauprojekt]({{< relref "posts/bauzeitenplan" >}}) sein. Die Projekt-Roadmap dient dabei als leistungsfähiges Werkzeug, um die Ziele zu definieren, Anforderungen an die Stakeholder zu kommunizieren und Fristen einzuhalten. Typische Elemente sind zudem Meilensteine, Kosten- und Ressourcenplanung. 
 
- 
+{{< template-box id="1acd19d97c8f4ed3ad38" >}}
 
-Wenn Sie eine Vorlage suchen, die Ihnen das Festhalten von Projektberichten und -dokumentationen erleichtert, bietet sich der Projektplaner von SeaTable an.
+Wenn Sie eine Vorlage suchen, die Ihnen das Projektmanagement erleichtert, bietet sich das [Projektportfolio]({{< relref "templates/projects/project-portfolio" >}}) von SeaTable an.
 
 ### Strategische Roadmap
 
-Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem [Businessplan]({{< relref "posts/businessplan" >}}) aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
+Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem [Businessplan]({{< relref "posts/businessplan" >}}) aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
 
-Die Vorlage von SeaTable bildet alle wichtigen Prozesse übersichtlich ab. Diese können Sie an Ihr Unternehmen individuell anpassen.
+{{< template-box id="e9b0eb93b6764118aad0" >}}
+
+Die [Businessplan Vorlage]({{< relref "templates/finance/business-plan" >}}) von SeaTable bildet alle wichtigen Prozesse übersichtlich ab. Diese können Sie an Ihr Unternehmen individuell anpassen.
 
 ### Produkt-Roadmap
 
@@ -129,9 +135,11 @@ Bei externer Nutzung dient die Produkt-Roadmap dazu, Kunden, Investoren oder and
 
 ### Technologie-Roadmap
 
-Eine Technologie- oder auch IT-Roadmap hilft Ihnen weiter, wenn es Ihr Ziel ist, die Technologie-Infrastruktur oder auch die Software-Entwicklung in Ihrem Unternehmen zu visualisieren. Damit behalten Sie den Überblick über Chancen und Risiken für das Management des Unternehmens: Welche Technologien haben ausgedient und welche Systeme wollen Sie einführen, um mit der Digitalisierung Schritt zu halten und auf dem Laufenden zu bleiben?
+Eine Technologie- oder auch IT-Roadmap hilft Ihnen weiter, wenn es Ihr Ziel ist, die [Technologie-Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) oder auch die [Software-Entwicklung]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) in Ihrem Unternehmen zu visualisieren. Damit behalten Sie den Überblick über Chancen und Risiken für das Management des Unternehmens: Welche Technologien haben ausgedient und welche Systeme wollen Sie einführen, um mit der Digitalisierung Schritt zu halten und auf dem Laufenden zu bleiben?
 
-Stellen Sie Ihre Roadmap für [Softwareentwicklung]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) mit der Vorlage von SeaTable dar und profitieren Sie von einer strukturierten Übersicht.
+{{< template-box id="1b086534c58049f481eb" >}}
+
+Stellen Sie Ihre [Technologie Roadmap]({{< relref "templates/it-engineering/technology-roadmap" >}}) mit der Vorlage von SeaTable dar und profitieren Sie von einer strukturierten Übersicht.
 
 ### Integrierte Roadmap
 
@@ -145,21 +153,18 @@ Dabei können Sie bereits bestehende Prozesse mit neuen Technologien und Produkt
 
 ![Unternehmensweite Roadmap erstellen](Unternehmensweite-Roadmap.jpg)
 
-## Online Roadmap-Vorlagen nutzen
+## Fazit: Online Roadmap-Vorlagen nutzen
 
-Wenn Sie also eine Roadmap erstellen und eine Vorlage nutzen möchten, sollten Sie auf jeden Fall ein bisschen Zeit dafür einplanen, verschiedene Vorlagen und Anbieter zu vergleichen und auszutesten.
+Wenn Sie also eine Roadmap erstellen und eine Vorlage nutzen möchten, sollten Sie auf jeden Fall ein bisschen Zeit dafür einplanen, verschiedene Vorlagen und Anbieter zu vergleichen und auszutesten. Wie bereits erwähnt, bietet SeaTable Ihnen spezielle Vorlagen an, welche Sie nach Belieben an die Anforderungen Ihres Unternehmens anpassen können.
 
-SeaTable bietet Ihnen spezielle Vorlagen an, welche Sie nach Belieben an die Anforderungen Ihres Unternehmens anpassen können.
+Wenn Sie SeaTable für die Erstellung Ihrer Roadmap nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}).
 
-{{< template id="1b086534c58049f481eb" >}}
-
-Wenn Sie SeaTable für die Erstellung Ihrer Roadmap nutzen möchten, registrieren Sie sich einfach kostenlos.
-
-## Häufig gestellte Fragen
+## Häufig gestellte Fragen zur Roadmap
 
 {{< faq "Was ist eine Roadmap und wie kann sie mir bei der Projektplanung helfen?" >}}
 Eine Roadmap ist eine visuelle Darstellung eines Projekts, die dessen Ziele, Meilensteine und Aufgaben übersichtlich darstellt. Sie hilft Ihnen dabei, den gesamten Projektverlauf klar zu strukturieren, so dass Sie die wichtigen Schritte im Auge behalten und den Fortschritt überwachen können. Die Roadmap ist besonders hilfreich, um komplexe Projekte zu vereinfachen und die Kommunikation mit allen Beteiligten zu verbessern.
 {{< /faq >}}
+
 {{< faq "Welche Arten von Roadmaps gibt es?" >}}
 Es gibt verschiedene Arten von Roadmaps, die jeweils spezifische Anforderungen und Ziele adressieren. Zu den häufigsten gehören:
 
@@ -168,8 +173,9 @@ Es gibt verschiedene Arten von Roadmaps, die jeweils spezifische Anforderungen u
 - Produkt-Roadmap
 - Technologie-Roadmap
 - Integrierte Roadmap
-  {{< /faq >}}
-  {{< faq "  Welche Tools eignen sich zur Erstellung einer Roadmap?" >}}
-  Es gibt zahlreiche Tools, die Ihnen bei der Erstellung einer Roadmap helfen können. Ein besonders flexibles Beispiel ist SeaTable: Ein Projektmanagement-Tool, das individuell anpassbare Roadmap-Vorlagen bereitstellt und verschiedene Darstellungsformen wie Gantt-Diagramme unterstützt.
+{{< /faq >}}
+
+{{< faq "Welche Tools eignen sich zur Erstellung einer Roadmap?" >}}
+Es gibt zahlreiche Tools, die Ihnen bei der Erstellung einer Roadmap helfen können. Ein besonders flexibles Beispiel ist SeaTable: Ein Projektmanagement-Tool, das individuell anpassbare Roadmap-Vorlagen bereitstellt und verschiedene Darstellungsformen wie Gantt-Diagramme unterstützt.
 
 {{< /faq >}}
