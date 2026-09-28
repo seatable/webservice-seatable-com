@@ -174,9 +174,9 @@
                                 }
                             })
                             .catch((error) => {
+                                // Request may have been processed although the response was lost (e.g. "Failed to fetch")
                                 console.error('Error:', error);
-                                this.errorMessage = error; // Show error message
-                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.unconfirmed" }}';
                             })
                             .finally(() => {
                                 //this.isSubmitting = false; // Enable the button again after completion
@@ -266,9 +266,9 @@
                                 }
                             })
                             .catch((error) => {
+                                // Request may have been processed although the response was lost (e.g. "Failed to fetch")
                                 console.error('Error:', error);
-                                this.errorMessage = error; // Show error message
-                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.unconfirmed" }}';
                             })
                             .finally(() => {
                                 //this.isSubmitting = false; // Enable the button again after completion
@@ -344,9 +344,9 @@
                             }
                         })
                         .catch((error) => {
+                            // Request may have been processed although the response was lost (e.g. "Failed to fetch")
                             console.error('Error:', error);
-                            this.errorMessage = error; // Show error message
-                            this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.error" }}'; // Reset button text
+                            this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.unconfirmed" }}';
                         })
                         .finally(() => {});
                     },

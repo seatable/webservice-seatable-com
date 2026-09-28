@@ -23,6 +23,7 @@ registration:
     send: 'Enviando registro...'
     success: 'Registro concluído com sucesso. Verifique sua caixa de entrada.'
     error: 'Ocorreu um erro.<br>Por favor, tente novamente em um minuto.'
+    unconfirmed: "Não foi possível confirmar o seu registo.<br>Por favor, verifique a sua caixa de entrada antes de tentar novamente."
 
 contact:
     concern:
@@ -79,12 +80,14 @@ contact:
     send: 'Enviando sua mensagem...'
     success: 'Recebemos sua mensagem.'
     error: 'Ocorreu um erro.'
+    unconfirmed: "Não foi possível confirmar o envio.<br>A sua mensagem provavelmente chegou até nós mesmo assim."
 
 newsletter:
     submit: 'Inscrever-se'
     send: 'A inscrição está sendo enviada...'
     success: 'Assinatura bem-sucedida. Verifique sua caixa de entrada.'
     error: 'Ocorreu um erro.'
+    unconfirmed: "Não foi possível confirmar a sua inscrição.<br>Por favor, verifique a sua caixa de entrada antes de tentar novamente."
 
 support_table:
     support_channel: 'Canal de suporte'

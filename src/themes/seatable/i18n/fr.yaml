@@ -23,6 +23,7 @@ registration:
     send: "Envoi de l'inscription en cours..."
     success: 'Inscription réussie. Vérifiez votre boîte mail.'
     error: "Une erreur s'est produite.<br>Veuillez réessayer dans une minute."
+    unconfirmed: "Votre inscription n'a pas pu être confirmée.<br>Veuillez vérifier votre boîte de réception avant de réessayer."
 
 contact:
     concern:
@@ -79,12 +80,14 @@ contact:
     send: 'Envoi de votre message en cours...'
     success: 'Nous avons bien reçu votre message.'
     error: "Une erreur s'est produite."
+    unconfirmed: "L'envoi n'a pas pu être confirmé.<br>Votre message nous est très probablement parvenu malgré tout."
 
 newsletter:
     submit: "S'abonner"
     send: "L'abonnement est en cours d'envoi..."
     success: 'Abonnement réussi. Vérifiez votre boîte de réception.'
     error: "Une erreur s'est produite."
+    unconfirmed: "Votre abonnement n'a pas pu être confirmé.<br>Veuillez vérifier votre boîte de réception avant de réessayer."
 
 support_table:
     support_channel: 'Canal de support'
