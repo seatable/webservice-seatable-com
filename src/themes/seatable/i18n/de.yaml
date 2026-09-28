@@ -23,6 +23,7 @@ registration:
     send: 'Registrierung wird geschickt...'
     success: 'Registrierung erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
     error: 'Es ist ein Fehler aufgetreten.<br>Bitte versuchen Sie es in einer Minute erneut.'
+    unconfirmed: "Die Registrierung konnte nicht bestätigt werden.<br>Bitte prüfen Sie zuerst Ihren E-Mail-Posteingang, bevor Sie es erneut versuchen."
 
 contact:
     concern:
@@ -79,12 +80,14 @@ contact:
     send: 'Ihre Nachricht wird geschickt...'
     success: 'Wir haben Ihre Nachricht erhalten.'
     error: 'Es ist ein Fehler aufgetreten.'
+    unconfirmed: "Der Versand konnte nicht bestätigt werden.<br>Ihre Nachricht ist wahrscheinlich trotzdem bei uns angekommen."
 
 newsletter:
     submit: 'Abonnieren'
     send: 'Die Anmeldung wird gesendet...'
     success: 'Abonnement erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
     error: 'Es ist ein Fehler aufgetreten.'
+    unconfirmed: "Die Anmeldung konnte nicht bestätigt werden.<br>Bitte prüfen Sie zuerst Ihren E-Mail-Posteingang, bevor Sie es erneut versuchen."
 
 support_table:
     support_channel: 'Support-Kanal'

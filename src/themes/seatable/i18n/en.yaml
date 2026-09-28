@@ -23,6 +23,7 @@ registration:
     send: 'Registration is being sent...'
     success: 'Registration successful. Check your email inbox.'
     error: 'An error has occurred.<br>Please try again in a minute.'
+    unconfirmed: "Your registration could not be confirmed.<br>Please check your inbox before trying again."
 
 contact:
     concern:
@@ -79,12 +80,14 @@ contact:
     send: 'Your message is being sent...'
     success: 'We have received your message.'
     error: 'An error has occurred.'
+    unconfirmed: "Sending could not be confirmed.<br>Your message has most likely reached us anyway."
 
 newsletter:
     submit: 'Subscribe'
     send: 'Subscription is being sent...'
     success: 'Subscription successful. Check your email inbox.'
     error: 'An error has occurred.'
+    unconfirmed: "Your subscription could not be confirmed.<br>Please check your inbox before trying again."
 
 support_table:
     support_channel: 'Support channel'
