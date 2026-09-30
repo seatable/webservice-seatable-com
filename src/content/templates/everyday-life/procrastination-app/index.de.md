@@ -84,7 +84,7 @@ sections:
        - text: '**Mit Freunden und Familie teilen**: Geben Sie Ihre App ganz einfach für weitere Personen frei. So erhalten Sie aktive Unterstützung aus Ihrem Umfeld, anstatt stillschweigend Deadlines zu verscheiben und neue Routinen schleifen zu lassen.'
        - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
        image_position: [left]
-       image: ''
+       image: '/images/template_page_procrastination_01.png'
        image_alt: 'Übersichtlich strukturierte Habit Tracker Vorlage als Prokrastination App'
 
      - name: "content-29"
@@ -120,15 +120,15 @@ sections:
        items:
        - headline: 'Neue Gewohnheiten strukturiert aufzubauen'
          text: 'Halten Sie im [Habit Tracker]({{< relref "posts/habit-tracker" >}}) fest, welche gewünschte Aktion Sie anstreben und welches Ziel Sie damit verfolgen. Die Spalte "Days on which I did it" ist mit der Diary-Tabelle verknüpft und dokumentiert automatisch jeden erfolgreichen Tag. Ein Countlink zählt in der Spalte "How many time" zusammen, wie häufig Sie Ihre neue Gewohnheit bereits erreicht haben. Mit dem Plan-Ist-Histogramm in der App sehen Sie Ihre Entwicklung auf einen Blick.'
-         image: ''
+         image: '/images/template_page_procrastination_02.png'
          image_alt: 'Habits-Tabelle in der Prokrastination App mit gewünschter Routine, Zielen und Häufigkeits-Auswertung'
        - headline: 'Tagesroutinen und Stimmung im Blick'
          text: 'In der Tabelle "diary" protokollieren Sie Ihren Tag und verknüpfen neue Einträge mit den Routinen und Gewohnheiten aus der Tabelle "habits". Das Herzstück dieser Tabelle sind die Spalten "overall mood" und "how was my day?", mit denen Sie verfolgen, ob Ihre neuen Routinen Ihre Stimmung langfristig verbessern.'
-         image: ''
+         image: '/images/template_page_procrastination_03.png'
          image_alt: 'Diary-Tabelle mit Stimmungstracking und Tagesbewertung in der Prokrastination App'
        - headline: Kalenderansicht für Ihre Deadlines
          text: 'Die Tabelle "appointments" funktioniert wie ein klassischer Kalender mit Start- und Endzeit für jeden Termin. Die Ansicht "upcoming appointments" blendet bereits vergangene Ereignisse automatisch aus, sodass Sie in der Kalenderansicht stets nur die Deadlines sehen, die tatsächlich noch anstehen. Der Kalender ist ein zentraler Baustein, um Aufgaben sichtbar zu machen und nicht erneut aufzuschieben.'
-         image: ''
+         image: '/images/template_page_procrastination_04.png'
          image_alt: 'Kalenderansicht als Herzstück der Habits-Base in der Prokrastination App'  
 
      - name: "banner-3"
@@ -149,7 +149,7 @@ sections:
        subtitle:
        items:
        - text: 'SeaTable liefert nicht nur die No-Code-Datenbank im Hintergrund, sondern mit dem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihre persönliche Prokrastination App. Über die integrierte App-Funktion erstellen Sie für jede Base separate Apps und greifen so bequem auf Kalenderansicht, Fortschrittsbalken, Tabellenübersicht und Dashboard zu. So richten Sie Ihre persönliche Prokrastination App auf Smartphone, Tablet und PC ein und passen Ihre Vorlagen jederzeit an veränderte Bedürfnisse an.'
-       image: ''
+       image: '/images/template_page_procrastination_05.png'
        image_alt: 'Prokrastination App mit individuellem Dashboard'
 
      - name: "content-9"
