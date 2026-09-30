@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2026-06-18
-lastmod: '2026-06-18'
+lastmod: '2026-09-16'
 categories:
     - 'online-kurs-3'
 author: 'bha'
@@ -17,8 +17,6 @@ weight: 1
 Welcome to the SeaTable Online Course 3 – Collaboration!
 
 In Course 1 you learned the basics, and in Course 2 you built a complete business process. So far, though, you have been working on your own. In real life, data is rarely a solo affair: your colleagues need to read it, comment on it, edit it, and build on top of it, all without stepping on each other. That is what this course is about — collaboration.
-
-{{< warning headline="The best way to learn collaboration is to actually collaborate" text="If you have a colleague who also has a SeaTable account, this course is even easier to follow side by side: each of you plays your own role, with no window-switching at all. No colleague at hand? No problem. The solo path described in the requirements (a second account plus two browser windows) reproduces exactly the same experience. We have written the course for the solo path, so just skip the window-switching if a teammate is following along with you." />}}
 
 ## Is this the right course for me?
 
@@ -44,62 +42,25 @@ By the end, you will have a practical toolkit for working on shared data with co
 
 ## What are the requirements?
 
-Whether you follow along with a real colleague or on your own, you will need:
-
-1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine.
-2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-3. **Two groups**: Two groups in your team — a `Commercial` group, where your `Sales CRM` base will be, and a `Marketing` group for your colleague. We explain how to create them below. This is more than tidiness: a base must sit in a group for the common dataset in Step 5 to work.
+1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine. On a self-hosted server, the whiteboard used in Step 6 is a separate component that your system administrator may first need to [install](https://admin.seatable.com/installation/components/whiteboard/).
+2. **The course plugin**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), the companion that guides you and checks your work inside your own base. You add it in Step 1, the moment you first need it.
+3. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
 4. **Browser and language**: We recommend Google Chrome, and the course and quiz are in English.
 
-If you are taking the solo path — playing both roles yourself, with no teammate following along — you will also need:
+That is everything you need to begin. Collaboration takes two, of course, so a colleague joins you in Step 2 — a second SeaTable account, which that step sets up with you. There is nothing to prepare for it now.
 
-5. **A second account**: A second SeaTable account, added to your team, to play the role of a colleague. A second email address is all it takes. We explain how to set this up just below.
-6. **Two browser windows**: One ordinary window 🌐 signed in to your main account, and one private window 🕶 signed in to the second account, so you can switch between the two roles. A wide screen is recommended, as the two windows sit side by side; a laptop screen is cramped and a phone will not work.
-
-{{< warning headline="Following along with a real colleague?" text="Then you can ignore the two solo-path requirements: each of you uses your own account in your own window, and you never switch. Wherever the course says to switch to the colleague's window, you simply ask your teammate to do that part." />}}
+{{< warning headline="If you are not a team administrator" text="Creating groups and inviting a team member depend on your role in the team. Along the way the course asks for three things: a group named Commercial in Step 1, a second team member in Step 2, and a group named Marketing in Step 5. If any of them are unavailable to you, request all three from your team administrator in one go, so that nothing stops you halfway through." />}}
 
 ### Meet your team
 
-Throughout the course you play two roles, one in each window:
+Throughout the course you keep the same role, and one colleague works alongside you:
 
-- **🌐 You (Commercial)**: your main window, signed in to your own account on the Commercial team. You own the company's customer list, and this is the role you play for most of the course. In SeaTable's own logs this account appears under your own name (in this course's screenshots it is labeled "Commercial").
-- **🕶 Malika (Marketing)**: your second account, opened in a private window. Malika is Head of Marketing and needs to read, comment on, and reuse your data.
-
-Every instruction in the course is tagged with the window it belongs to — 🌐 your window (Commercial) or 🕶 Malika's window (Marketing) — so you always know where to act.
-
-### Adding your colleague to the team
-
-To play the colleague you need a second account that is a member of your team. In SeaTable, bringing someone into a team is called adding a team member: a team administrator invites the person by email, and once they accept they can be shared bases, @mentioned, and added to groups.
-
-From your [team administration](https://account.seatable.com), invite a second email address, then accept the invitation from that address. A second, free email address from any provider is enough to stand in for your colleague. When you set up this second account, give it the name **Malika** so that the names you later see in comments, @mentions, the activity log and the last-modifier column match the ones shown throughout this course. The full procedure is covered in the help article linked at the bottom of this page.
-
-### Setting up your groups
-
-SeaTable lets you organize bases into **groups** — shared containers that may stand for a particular project, or in our case for a department. This course uses two:
-
-- a **`Commercial`** group, your own department, where your `Sales CRM` base will be from Step 1 onwards.
-- a **`Marketing`** group, your colleague's department, which Malika runs and which you will distribute the live dataset to in Step 5.
-
-From your [team administration](https://account.seatable.com), create both groups, then add the Malika account to the **`Marketing`** group — **as an administrator of that group, not just as a member**. The distinction matters in Step 5: only a group's owner or administrator can add a base to it, and Marketing will need a base of their own. The help articles at the bottom of this page walk through it.
-
-{{< warning headline="Adding a member and creating groups may need administrator rights" text="Adding a team member, creating groups, and adding people to them all depend on your role in the team. If any of these are unavailable to you, ask your team administrator to set them up — you can request the second account, both groups, Commercial and Marketing, and administrator rights for the second account on Marketing, in a single go." />}}
-
-{{< warning headline="The Commercial group is what makes Step 5 possible" text="A base can only publish a common dataset if it belongs to a group, not in your personal workspace (`My bases` homepage section). Importing Sales CRM into the Commercial group in Step 1 is what makes Step 5 possible. If you cannot create groups, you can still follow Steps 1 to 4 and Step 6 with the base in your personal workspace — only Step 5 will be out of reach, unless you move the base into a group later." />}}
-
-### Opening your two windows
-
-Once the second account is a member of your team, set up your workspace so both accounts can stay signed in at the same time:
-
-1. Keep your 🌐 main window signed in to your own account (Commercial).
-2. Open a 🕶 private window (in Chrome, press {{< key "Ctrl" >}} + {{< key "Shift" >}} + {{< key "N" >}}) and sign in there as the Malika (Marketing) account. A private window lets both accounts stay logged in at once without conflicting.
-
-{{< zoom image="images/lvl3-side-by-side-windows.png" alt="Two browser windows side by side, one signed in as you and one private window signed in as Malika" >}}
-
-{{< warning headline="Tell your two windows apart" text="Give the two windows a quick visual cue so you never lose track of who is who — for example, keep your window on the left and Malika's private window on the right." />}}
+- **You (Commercial)**: you own the company's customer list, and this is the role you play from beginning to end. In SeaTable's own logs this account appears under your own name.
+- **Malika (Marketing)**: Head of Marketing. She needs to read, comment on, and reuse your data. From Step 2 onwards she is a second account in your team, and the course companion acts for her — so you see what she does, and what she sees, from your own window.
 
 ## How long does the course last?
 
-The course lasts **about an hour**, but you can go through it at your own pace. Breaks are possible at any time, and you decide how deep you want to go with the "try it yourself" prompts along the way.
+The course lasts **about an hour and a half**, but you can go through it at your own pace. Breaks are possible at any time. Most steps end with a "Going further" section: extra discoveries that nothing later depends on, so you can skip them if you are short on time and come back to them whenever you like.
 
 ## How do I complete the course?
 
@@ -112,5 +73,5 @@ What are we waiting for? Let's go!
 
 ## Help article with further information
 
-- [Add a team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen/" >}})
-- [Introduction to working with groups]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen/" >}})
+- [Activating a plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
+- [Instructions for the online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
