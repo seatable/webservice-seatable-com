@@ -79,9 +79,9 @@ sections:
        description: 'Die [KI No-Code Plattform]({{< relref "/" >}}) SeaTable bietet Ihnen mehr als klassische To-do-Listen. SeaTable Ihnen eine vollwertige Prokrastination App, die sich exakt so konfigurieren lässt, wie Sie es brauchen, um Ihre [Prokrastination zu überwinden]({{< relref "posts/prokrastination" >}}). Sie profitieren von der Kombination aus sofort nutzbaren Vorlagen, Spreadsheet ähnlicher Benutzeroberfläche und einer flexiblen No-Code-Datenbank im Hintergrund.'
        items:
        - text: '**Viele Vorlagen, ein Account**: To-do-Liste, Projektstrukturplan, Habit-Tracker, Putzplan und viele weitere Vorlagen stehen Ihnen gebündelt zur Verfügung, statt über mehrere Insel-Lösungen verteilt zu sein.'
-       - text: '**Sofort einsatzbereit**: Klonen Sie die gewünschte Anti-Prokrastination Vorlage und tragen Sie direkt Ihre Aufgaben ein, statt bei einem leeren Blatt zu beginnen.'
+       - text: '**Sofort einsatzbereit**: Kopieren Sie die gewünschte Anti-Prokrastination Vorlage und tragen Sie direkt Ihre Aufgaben ein, statt bei einem leeren Blatt zu beginnen.'
        - text: '**Individuell erweiterbar**: Ergänzen Sie eigene Spalten, Prioritäts-Tags oder Teilaufgaben, ganz ohne Programmierkenntnisse.'
-       - text: '**Mit Freunden und Familie teilen**: Geben Sie Ihre App ganz einfach für weitere Personen frei. So erhalten Sie aktive Unterstützung aus Ihrem Umfeld, anstatt stillschweigend Deadlines zu verscheiben und neue Routinen schleifen zu lassen.'
+       - text: '**Mit Freunden und Familie teilen**: Geben Sie Ihre App ganz einfach für weitere Personen frei. So erhalten Sie aktive Unterstützung aus Ihrem Umfeld, anstatt stillschweigend Deadlines zu verschieben und neue Routinen schleifen zu lassen.'
        - text: '**Datenschutz-konform**: Bei SeaTable werden Ihre Daten DSGVO-konform auf Servern der Schweizer Firma Exoscale in Frankfurt gehostet.'
        image_position: [left]
        image: '/images/template_page_procrastination_01.png'
@@ -118,22 +118,22 @@ sections:
        title: 'Der Habit Tracker macht aus Vorsätzen feste Gewohnheiten'
        subtitle: "So einfach funktioniert's"
        items:
-       - headline: 'Neue Gewohnheiten strukturiert aufzubauen'
-         text: 'Halten Sie im [Habit Tracker]({{< relref "posts/habit-tracker" >}}) fest, welche gewünschte Aktion Sie anstreben und welches Ziel Sie damit verfolgen. Die Spalte "Days on which I did it" ist mit der Diary-Tabelle verknüpft und dokumentiert automatisch jeden erfolgreichen Tag. Ein Countlink zählt in der Spalte "How many time" zusammen, wie häufig Sie Ihre neue Gewohnheit bereits erreicht haben. Mit dem Plan-Ist-Histogramm in der App sehen Sie Ihre Entwicklung auf einen Blick.'
+       - headline: 'Neue Gewohnheiten strukturiert aufbauen'
+         text: 'Halten Sie im [Habit Tracker]({{< relref "posts/habit-tracker" >}}) fest, welche gewünschte Aktion Sie anstreben und welches Ziel Sie damit verfolgen. Die Spalte "Days on which I did it" ist mit der Diary-Tabelle verknüpft und dokumentiert automatisch jeden erfolgreichen Tag. Ein Countlink zählt in der Spalte "How many times" zusammen, wie häufig Sie Ihre neue Gewohnheit bereits erreicht haben.'
          image: '/images/template_page_procrastination_02.png'
          image_alt: 'Habits-Tabelle in der Prokrastination App mit gewünschter Routine, Zielen und Häufigkeits-Auswertung'
        - headline: 'Tagesroutinen und Stimmung im Blick'
-         text: 'In der Tabelle "diary" protokollieren Sie Ihren Tag und verknüpfen neue Einträge mit den Routinen und Gewohnheiten aus der Tabelle "habits". Das Herzstück dieser Tabelle sind die Spalten "overall mood" und "how was my day?", mit denen Sie verfolgen, ob Ihre neuen Routinen Ihre Stimmung langfristig verbessern.'
+         text: 'In der Tabelle "Diary" protokollieren Sie Ihren Tag und verknüpfen neue Einträge mit den Routinen und Gewohnheiten aus der Tabelle "Habits". Das Herzstück dieser Tabelle sind die Spalten "Overall mood" und "How was my day?", mit denen Sie verfolgen, ob Ihre neuen Routinen Ihre Stimmung langfristig verbessern.'
          image: '/images/template_page_procrastination_03.png'
          image_alt: 'Diary-Tabelle mit Stimmungstracking und Tagesbewertung in der Prokrastination App'
        - headline: Kalenderansicht für Ihre Deadlines
-         text: 'Die Tabelle "appointments" funktioniert wie ein klassischer Kalender mit Start- und Endzeit für jeden Termin. Die Ansicht "upcoming appointments" blendet bereits vergangene Ereignisse automatisch aus, sodass Sie in der Kalenderansicht stets nur die Deadlines sehen, die tatsächlich noch anstehen. Der Kalender ist ein zentraler Baustein, um Aufgaben sichtbar zu machen und nicht erneut aufzuschieben.'
+         text: 'Die Tabelle "Appointments" funktioniert wie ein klassischer Kalender mit Start- und Endzeit für jeden Termin. Die Ansicht "Upcoming appointments" blendet bereits vergangene Ereignisse automatisch aus, sodass Sie in der Kalenderansicht stets nur die Deadlines sehen, die tatsächlich noch anstehen. Der Kalender ist ein zentraler Baustein, um Aufgaben sichtbar zu machen.'
          image: '/images/template_page_procrastination_04.png'
          image_alt: 'Kalenderansicht als Herzstück der Habits-Base in der Prokrastination App'  
 
      - name: "banner-3"
        weight: 12
-       title: 'Nie wieder Aufschieberitis mit Ihrer maßgeschneiderten Prokrastination App'
+       title: 'Vermeiden Sie Aufschieberitis mit Ihrer maßgeschneiderten Prokrastination App'
        buttons:
          - label: Jetzt Prokrastination App testen
            link: pages/registration
@@ -158,23 +158,23 @@ sections:
        subtitle: 'Ihr smarte Assistent gegen das Aufschieben'
        description: 'Mit SeaTable profitieren Sie von **leistungsstarken, integrierten KI-Automatisierungen**. So erweitern Sie Ihre Prokrastination App um smarte Hilfen für Priorisierung und Aufgabenerfassung – DSGVO-konform mit eigenem KI-Server in Deutschland.'
        items:
-       - headline: 'Aufgaben automatisch priorisieren'
-         text: 'Fassen Sie Aufgabenbeschreibungen automatisch zusammenfassen und mit Prioritäts-Tags versehen. Das spart Zeit bei der Pflege Ihrer To-do-Liste.'
+       - headline: 'Aufgaben zusammenfassen'
+         text: 'Fassen Sie Aufgabenbeschreibungen automatisch zusammen und vergeben Sie Prioritäts-Tags. Das spart Zeit bei der Pflege Ihrer To-do-Liste.'
          icon: circle-info
        - headline: 'Aufgaben automatisch priorisieren'
-         text: 'Nutzen Sie die Classify-Funktione, um Aufgaben automatisch anhand von Themen, Deadlines oder Aufgabenbeschreibungen zu priorisieren.'
+         text: 'Nutzen Sie die Classify-Funktion, um Aufgaben automatisch anhand von Themen, Deadlines oder Aufgabenbeschreibungen zu priorisieren.'
          icon: table
        - headline: 'Wichtige Details extrahieren'
          text: 'Nutzen Sie die Extract-Funktion, um automatisch relevante Informationen wie Termine oder Orte aus PDF zu erfassen und in separate Spalten zu schreiben.'
          icon: layer-group
        - headline: 'Texte aus Bildern auslesen'
-         text: 'Nutzen Sie die OCR-Funktion, um Inhalte aus Fotos oder Screenshots auszulesen und direkt in passende Felder Ihrer Prokrastination-App zu übernehmen.'
+         text: 'Nutzen Sie die OCR-Funktion, um Inhalte aus Fotos oder Screenshots auszulesen und direkt in die passenden Felder Ihrer Prokrastination-App zu übernehmen.'
          icon: image
        - headline: 'Eigene KI-Regeln nutzen'
          text: 'Definieren Sie mit Custom Prompts individuelle Regeln für Ihre Prokrastination-App, um zum Beispiel überfällige Aufgaben automatisch hervorzuheben.'
          icon: wand-magic-sparkles
        - headline: 'Motivierende Affirmationen'
-         text: 'Formulieren Sie basierend auf erfolgreich absolvierten Aufgaben und Tagesplänen automatisch Kommentare und Affirmationen als Motivation .'
+         text: 'Formulieren Sie basierend auf erfolgreich absolvierten Aufgaben und Tagesplänen automatisch Kommentare und Affirmationen als Motivation.'
          icon: arrow-right
 
 
