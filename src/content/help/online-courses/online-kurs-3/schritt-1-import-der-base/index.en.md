@@ -15,13 +15,23 @@ Before you can collaborate on data, you need some data to collaborate on! Throug
 
 In Course 1 you already learned how to build a base from scratch, and in Course 2 you imported a ready-made one. We will do the same here and start directly with a prepared base, so we can spend our time on collaboration rather than on data entry.
 
-Everything in this step happens in your main window 🌐, signed in as your own Commercial account. Your colleague, Malika, joins in the next step.
+You work on your own in this step. Your colleague, Malika, joins in the next one.
 
-Download the following file to your computer and import it as a new base **into your `Commercial` group** — the group you set up in the introduction:
+## A home for your data
+
+Before the base, its container. SeaTable lets you organize bases into **groups** — shared containers that may stand for a particular project, or in our case for a department. Your department is Commercial, so start by creating a group named `Commercial`.
+
+This is more than tidiness, and it is why the group comes first: in Step 5 you will publish a common dataset, and that only works from a base that belongs to a group, never from your personal workspace.
+
+{{< warning headline="If you cannot create groups" text="Creating a group depends on your role in the team. If the option is unavailable to you, ask your team administrator — and take the opportunity to request everything the course needs in one go, as listed in the introduction. You can still follow this step and most of the course with the base in your personal workspace; only Step 5 will be out of reach, though you can still import its `Campaign Hub` base for Step 6." />}}
+
+## Importing the base
+
+Download the following file to your computer and import it as a new base **into your `Commercial` group**:
 
 [SeaTable Course 3 - Sales CRM.dtable](/SeaTable-Course-3-Sales-CRM.dtable)
 
-Importing into the `Commercial` group, rather than your personal workspace, matters for later: in Step 5 you will publish a common dataset, which only works from a base that belongs to a group. If you were not able to create groups, you can still follow this step and most of the course with the base in your personal workspace — only Step 5 will be out of reach.
+Then add the online courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice, to let Malika play her part, and to have your work checked. If you have never used it, start with its built-in Welcome course: a short tour of how a course works with it, including two small exercises to try it out.
 
 Even though you do not have to build the base yourself, take the time to get to know it well. The course refers back to these tables, columns and views in every later step, and a few of the column types may be new to you.
 
@@ -29,10 +39,9 @@ Even though you do not have to build the base yourself, take the time to get to 
 
 The base is called `Sales CRM` — the system the Commercial team uses to manage its customers and sales. At first glance it is compact:
 
-- 2 tables
+- 2 linked tables
 - around 350 customer records / 90 companies, and roughly 290 deals
-- 3 views
-- a link, a rollup and a formula column
+- a few views, some of which you will share
 
 This structure is intentionally simpler than a real-world database, but it is sufficient to cover all the collaboration scenarios addressed in the course; this allows us to focus on the essentials for now. Below we walk through it piece by piece.
 
@@ -40,11 +49,11 @@ This structure is intentionally simpler than a real-world database, but it is su
 
 The table `Customers` is the heart of the base. Each row is one contact at one company, identified by the first column, `Full Name`. Alongside it you will find the columns you would expect of a customer list — company, industry and size, contact details, and the `Status` of the relationship (`Client`, `Prospect`, `Lead` or `Churned`), which we will come back to later. One column is worth flagging: `Account Manager` records who owns each customer. To represent the variety of data in a real-world scenario, we used a plain text column, but in an actual database, it is best to store this data in a `{{< seatable-icon icon="dtable-icon-collaborator" >}} Collaborator` column that links to the actual SeaTable user.
 
-The table opens on a view that is **grouped by `{{< seatable-icon icon="dtable-icon-single-election" >}} Company Size`**, so contacts are gathered under headings like `11–50`, `201–500` or `1000+`. A single-select column makes a natural grouping key — its fixed set of options becomes the groups — and grouping turns a long flat list into something you can scan by segment at a glance, useful the moment more than one team starts working from the same list.
+The table opens on its `{{< seatable-icon icon="dtable-icon-main-view" >}} Default View`, which is **grouped by `{{< seatable-icon icon="dtable-icon-single-election" >}} Company Size`**, so contacts are gathered under headings like `11–50`, `201–500` or `1000+`. A single-select column makes a natural grouping key — its fixed set of options becomes the groups — and grouping turns a long flat list into something you can scan by segment at a glance, useful the moment more than one team starts working from the same list.
 
 {{< zoom image="images/lvl3-customers-grouped.png" alt="The “Customers” table grouped by Company Size, with collapsible group headers" >}}
 
-{{< warning headline="The first column is the row's label" text="Wherever a row is referenced — in a comment, a notification, or the change history you will explore later — SeaTable shows it by the value of its first column. That is why the Full Name column sits first: a name is far easier to recognize than a row number. The first column does not have to be unique, but giving it a clear, distinctive value makes each row easy to tell apart when it turns up in those references." />}}
+{{< warning headline="The first column is the row's label" text="Wherever a row is referenced — in a comment, a notification, or the change history you will explore later — SeaTable shows it by the value of its first column. That is why the Full Name column sits first: a name is far easier to recognize than a code or a number. The first column does not have to be unique, but giving it a clear, distinctive value makes each row easy to tell apart when it turns up in those references." />}}
 
 ### The deals behind each customer
 
@@ -88,25 +97,23 @@ So a deal in `Negotiation` counts for more than one still in `Qualification`, gi
 
 The `Customers` table comes with two purpose-built views.
 
-- `{{< seatable-icon icon="dtable-icon-main-view" >}} All Customers` shows everything, including the confidential `Total Deal Value`. This is the internal, full-detail view for the Commercial team.
-- `{{< seatable-icon icon="dtable-icon-main-view" >}} Active Customers` is a slimmed-down view: it focuses on current customer data and hides the confidential figures. This is the version that is safe to share with another team.
+- `{{< seatable-icon icon="dtable-icon-main-view" >}} All customers` shows everything, including the confidential `Total Deal Value`. This is the internal, full-detail view for the Commercial team.
+- `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` is a slimmed-down view: it focuses on current customer data and hides the confidential figures. This is the version that is safe to share with another team.
     - Filter: `{{< seatable-icon icon="dtable-icon-single-election" >}} Status` is None of `Churned`
     - Hidden columns: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Created`, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Deals`, `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Total Deal Value`
 
 
-A view in SeaTable is just a lens on the same underlying data — the rows are stored in one place, and each view decides what to show, hide, filter and group. You will lean on this distinction in the next steps: you share a **view**, not raw access to everything, and later you will publish `Active Customers` to another team as a live dataset.
+A view in SeaTable is just a lens on the same underlying data — the rows are stored in one place, and each view decides what to show, hide, filter and group. You will lean on this distinction in the next steps: you share a **view**, not raw access to everything, and later you will publish `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` to another team as a live dataset.
 
 {{< warning headline="Prefer automatic columns for timestamps" >}}The `Created` column in `Customers` is an ordinary `Date` column, so we could fill it with realistic past dates for this course. In your own bases, when you want to record when a row was created or last changed, prefer the `Created time` and `Last modified time` column types instead. They are filled in automatically by SeaTable, so there is no risk of forgetting to set them, mistyping a date, or backdating a change.{{< /warning >}}
-
-## Try it yourself
-
-Open the `Active Customers` view and work out which columns it hides compared with `All Customers` — and, for each one, why Marketing should not see it. This is the exact view you will hand to another team in Step 5, so the columns missing here are the ones that will stay private then. While you are exploring, open `James Bennett`: you will meet this record again in Step 4.
 
 When the base feels familiar, you are ready to bring in your colleague.
 
 ## Help article with further information
 
+- [Introduction to working with groups]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen/" >}})
 - [Creating a base from a DTABLE file]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/" >}})
+- [Activating a plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
 - [Linking records across tables]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte/" >}})
 - [Link formula column]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen/" >}})
 - [Basics of SeaTable formulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte/" >}})
