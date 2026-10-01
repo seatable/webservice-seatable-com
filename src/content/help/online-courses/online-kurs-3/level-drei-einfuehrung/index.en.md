@@ -16,16 +16,15 @@ weight: 1
 
 Welcome to the SeaTable Online Course 3 – Collaboration!
 
-In Course 1 you learned the basics, and in Course 2 you built a complete business process. So far, though, you have been working on your own. In real life, data is rarely a solo affair: your colleagues need to read it, comment on it, edit it, and build on top of it, all without stepping on each other. That is what this course is about — collaboration.
+In [Course 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung/" >}}) you learned the basics, and in [Course 2]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung/" >}}) you built a complete business process. So far, though, you have been working on your own. In real life, data is rarely a solo affair: your colleagues need to read it, comment on it, edit it, and build on top of it, all without stepping on each other. That is what this course is about — collaboration.
 
 {{< course-facts headline="At a glance" >}}
-- **Duration**: about an hour and a half, at your own pace. If you prefer two sessions, the end of Step 4 is the natural place to stop.
-- **Prerequisites**: [Online Course 1 – Getting Started]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung/" >}}) and [Online Course 2 – Inputs and Outputs]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung/" >}}).
-- **SeaTable account**: on any SeaTable system; the free plan is enough, and your account from Course 1 or 2 will do fine.
-- **Course companion**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), which you add in Step 1.
-- **A colleague**: a second account in your team, which Step 2 sets up with you. There is nothing to prepare now.
-- **Language and browser**: the course and quiz are in English; we recommend Google Chrome.
-- **Completion**: pass the [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) to receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3) (requires an [account in our community forum](https://forum.seatable.com/)).
+- **Duration**: about 1.5 hours · can be split after Step 4
+- **Prerequisites**: Course 1 and Course 2
+- **Requirements** ([details below](#before-you-start)):
+    - SeaTable account
+    - Online courses plugin (added in Step 1)
+    - Groups and a second team member (created along the way)
 {{< /course-facts >}}
 
 ## Is this the right course for me?
@@ -49,11 +48,27 @@ Step by step, you will learn how to:
 
 By the end, you will have a practical toolkit for working on shared data with confidence.
 
+## How the course works
+
+You follow the course here, on the site. The online courses plugin is your companion inside the base: you switch to it at certain moments to put things into practice and have your work checked.
+
+![The online courses plugin open below a base, showing the current exercise and its Verify button](images/online-courses-plugin.png)
+
+If you have never used the plugin before, start with its Welcome course: a short tour of how a course works, with two small exercises.
+
+Many steps end with a "Going further" section: nothing later depends on it, so you can skip it if you are short on time. The quiz, screenshots and sample data are in English, and we recommend Google Chrome.
+
+At the end, a [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) tests your knowledge. Pass it to receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3) — for that, you need an [account in our community forum](https://forum.seatable.com/).
+
 ## Before you start
 
-Most steps end with a "Going further" section: extra discoveries that nothing later depends on, so you can skip them if you are short on time and come back to them whenever you like. On a self-hosted server, the whiteboard used in Step 6 is a separate component that your system administrator may first need to [install](https://admin.seatable.com/installation/components/whiteboard/).
+Besides the plugin presented above, the course needs a few things from your team and your system:
 
-{{< warning headline="If you are not a team administrator" text="Creating groups and inviting a team member depend on your role in the team. Along the way the course asks for three things: a group named Commercial in Step 1, a second team member in Step 2, and a group named Marketing in Step 5. If any of them are unavailable to you, request all three from your team administrator in one go, so that nothing stops you halfway through." />}}
+- **Groups (Steps 1 and 5)**: you create a group named `Commercial` in Step 1, and one named `Marketing` in Step 5.
+- **A second team member (Step 2)**: your colleague is a second account in your team, which you invite in Step 2. There is nothing to prepare now.
+- **Whiteboard (Step 6)**: on a self-hosted server, the whiteboard is a separate component that your system administrator may first need to [install](https://admin.seatable.com/installation/components/whiteboard/).
+
+{{< warning headline="If you are not a team administrator" text="Creating groups and inviting a team member depend on your role in the team. If either is unavailable to you, request all three things from your team administrator in one go — the Commercial group, the second team member and the Marketing group — so that nothing stops you halfway through." />}}
 
 ### Meet your team
 
