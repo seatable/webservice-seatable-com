@@ -1,7 +1,7 @@
 ---
 title: 'Introducción'
 date: 2024-08-30
-lastmod: '2024-09-05'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
@@ -17,6 +17,12 @@ weight: 1
 ---
 
 ¡Bienvenido al **curso en línea SeaTable 1 – Primeros pasos**!
+
+{{< course-facts headline="De un vistazo" >}}
+- **Duración**: aproximadamente 1 hora
+- **Requisitos previos**: ninguno
+- **Requisitos** ([detalles más abajo](#before-you-start)): Cuenta de SeaTable
+{{< /course-facts >}}
 
 ## ¿Es éste el curso adecuado para mí?
 
@@ -42,27 +48,23 @@ Al final de este curso sabrá
 
 Aprenderá todo esto estableciendo una base para registrar sus gastos privados o profesionales.
 
-## ¿Qué necesito para empezar?
+## Cómo funciona el curso
 
-Los siguientes requisitos son necesarios para completar este curso en línea:
+No es necesario completarlo de una sola vez. Siéntase libre de hacer pausas y continuar cuando esté preparado.
 
-1. **SeaTable**: Puede utilizar cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud]({{< relref "pages/registration" >}}).
-2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.com/) si desea recibir una insignia al completarlo con éxito.
-3. **Navegador**: Recomendamos Google Chrome.
-4. **Inglés**: El curso está disponible en varios idiomas, pero el cuestionario final, las capturas de pantalla y los datos de muestra utilizados están en inglés.
-
-## ¿Cuánto dura el curso?
-
-El curso **dura** aproximadamente **una hora**. No es necesario completarlo de una sola vez. Siéntase libre de hacer pausas y continuar cuando esté preparado.
-
-## ¿Cómo puedo completar el curso?
-
-Al final, depende de usted qué conocimientos y habilidades se lleva de este curso en línea. Si sigue las instrucciones paso a paso, obtendrá un sólido conocimiento básico de SeaTable.
+El curso está disponible en varios idiomas, pero el cuestionario final, las capturas de pantalla y los datos de muestra utilizados están en inglés. Recomendamos Google Chrome.
 
 Al final de este curso tendrá la oportunidad de poner a prueba sus conocimientos recién adquiridos en un cuestionario:
 
 - El [cuestionario](https://tally.so/r/wk5BXr) consiste en una mezcla de preguntas de opción múltiple y preguntas básicas, que irás acumulando a lo largo del tutorial.
 - Si lo superas con éxito, recibirás una [insignia para tu perfil del foro](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Este distintivo será visible cada vez que responda en el foro y pondrá de relieve sus habilidades ante el resto de usuarios.
+- Para recibir la insignia, necesita una [cuenta en nuestro foro de la comunidad](https://forum.seatable.com/).
+
+## Antes de empezar {#before-you-start}
+
+Los siguientes requisitos son necesarios para completar este curso en línea:
+
+- **SeaTable**: Puede utilizar cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud]({{< relref "pages/registration" >}}).
 
 ¿A qué esperamos? Empecemos.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2024-09-18
-lastmod: '2024-09-23'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
@@ -16,6 +16,14 @@ weight: 1
 
 Welcome to the **SeaTable Online Course 2 – Inputs and Outputs!**
 
+{{< course-facts headline="At a glance" >}}
+- **Duration**: about 1 hour
+- **Prerequisites**: Course 1
+- **Requirements** ([details below](#before-you-start)):
+    - SeaTable account
+    - Mailtrap account (Step 3)
+{{< /course-facts >}}
+
 ## Is this the right course for me?
 
 This course is ideal for you if you:
@@ -29,26 +37,24 @@ The second part of this course is about how to implement a complete business pro
 
 The entire business process is mapped in SeaTable so that you can concentrate fully on your core business.
 
-## What are the requirements?
+## How the course works
 
-To successfully complete this course, you will need:
+You can go through the course at your own pace, and breaks are possible at any time. You will find links to further material at various points - you decide how deep you want to delve into the topics.
 
-1. **SeaTable**: Use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
-2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-3. **Mail dispatch**: An [account with Mailtrap](https://mailtrap.io/) to simulate mail dispatch from SeaTable.
-4. **Browser**: We recommend the use of Google Chrome.
-5. **English**: The course is available in several languages, but the quiz, screenshots and sample data are in English.
-
-## How long does the course last?
-
-The course lasts **about an hour**, but you can go through it at your own pace. Breaks are possible at any time. You will find links to further material at various points - you decide how deep you want to delve into the topics.
-
-## How do I complete the course?
+The course is available in several languages, but the quiz, screenshots and sample data are in English. We recommend the use of Google Chrome.
 
 At the end of this course you can test your knowledge in a quiz:
 
 - The [quiz](https://tally.so/r/mDDbpb) is in English and consists of multiple-choice questions and tasks relating to the process you have implemented.
 - Upon successful completion, you will receive a [badge for your forum profile](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), which will make your skills visible.
+- To receive the badge, you need an [account in our community forum](https://forum.seatable.com/).
+
+## Before you start {#before-you-start}
+
+To successfully complete this course, you will need:
+
+- **SeaTable**: Use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
+- **Mail dispatch**: An [account with Mailtrap](https://mailtrap.io/) to simulate mail dispatch from SeaTable.
 
 What are we waiting for? Let's go!
 

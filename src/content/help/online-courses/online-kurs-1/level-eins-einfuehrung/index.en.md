@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2024-08-30
-lastmod: '2024-09-05'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
@@ -18,6 +18,12 @@ weight: 1
 ---
 
 Welcome to the **SeaTable Online Course 1 – Getting Started**!
+
+{{< course-facts headline="At a glance" >}}
+- **Duration**: about 1 hour
+- **Prerequisites**: none
+- **Requirements** ([details below](#before-you-start)): SeaTable account
+{{< /course-facts >}}
 
 ## Is this the right course for me?
 
@@ -43,27 +49,23 @@ By the end of this course you will know:
 
 You will learn all this by setting up a base for recording your private or professional expenses.
 
-## What do I need to get started?
+## How the course works
 
-The following requirements are necessary for you to complete this online course:
+You do not have to complete the course in one go. Feel free to take breaks and continue when you are ready.
 
-1. **SeaTable**: You can use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
-2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge upon successful completion.
-3. **Browser**: We recommend Google Chrome.
-4. **English**: The course is available in several languages, but the final quiz, the screenshots and the sample data used are in English.
-
-## How long does the course last?
-
-The course should take about **one hour** to complete. You do not have to complete the course in one go. Feel free to take breaks and continue when you are ready.
-
-## How can I complete the course?
-
-In the end, it's up to you what knowledge and skills you take away from this online course. If you follow the step-by-step instructions, you will gain a solid basic knowledge of SeaTable.
+The course is available in several languages, but the final quiz, the screenshots and the sample data used are in English. We recommend Google Chrome.
 
 At the end of this course you will have the opportunity to test your newly acquired knowledge in a quiz:
 
 - The [quiz](https://tally.so/r/wk5BXr) consists of a mixture of multiple-choice and base questions, which you will build up over the course of the tutorial.
 - If you pass this successfully, you will receive a [badge for your forum profile](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). This badge will then be visible every time you reply in the forum and will make your skills clear to all other users.
+- To receive the badge, you need an [account in our community forum](https://forum.seatable.com/).
+
+## Before you start {#before-you-start}
+
+The following requirements are necessary for you to complete this online course:
+
+- **SeaTable**: You can use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
 
 What are we waiting for? Let's get started!
 

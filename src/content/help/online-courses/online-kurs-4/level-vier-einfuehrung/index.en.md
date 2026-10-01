@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2026-07-02
-lastmod: '2026-08-27'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-4'
 author: 'bha'
@@ -18,13 +18,22 @@ Welcome to the SeaTable Online Course 4 – Automation & Integration!
 
 In the previous courses you learned the basics ([Online Course 1 – Getting Started]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}})), built a complete business process ([Online Course 2 – Inputs and Outputs]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung" >}})), and worked as a team on shared data ([Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}})). So far, every action went through your own hands: you typed, you clicked, you updated. This course shifts register: you will learn to make SeaTable work for you, then to connect it to the rest of your tools. That is what this course is all about — automation and integration.
 
-To make it concrete, you run a warehouse that receives deliveries from its suppliers. With every delivery, you have to check what arrives, compare it against what was announced, update the stock and alert the right person. An ideal sequence to discover, one building block at a time, everything SeaTable can automate and connect.
+{{< course-facts headline="At a glance" >}}
+- **Duration**: about 1.5 hours
+- **Prerequisites**: Course 1 to Course 3
+- **Requirements** ([details below](#before-you-start)):
+    - SeaTable account
+    - Online courses plugin (added in Step 1)
+    - SeaTable AI for Step 4 (included on SeaTable Cloud)
+- **Optional** ([details below](#before-you-start)):
+    - ntfy app on your phone (Step 5)
+    - n8n and Google accounts (Step 6)
+{{< /course-facts >}}
 
 ## Is this the right course for me?
 
 This course is ideal for you if you:
 
-- have completed the three foundation online courses and want to go further.
 - spend too much time on repetitive tasks that SeaTable could take care of on its own.
 - want to connect SeaTable to your other tools — a management system, a notification service, a storage space.
 - are not afraid of a little code: a few Python scripts turn up along the way, but they are always provided for you.
@@ -44,38 +53,33 @@ Throughout the course, you will learn to:
 
 By the end, you will have a complete toolkit to automate your processes and connect them to the outside world.
 
-## An interactive course
+## How the course works
 
-Like the previous courses, you follow this one here, on the site. What is new is a companion: a plugin you add to your base and switch to at certain moments — to discover a feature, or to have what you just built checked. You set up an automation or a script by following the course, you open the plugin, you click `Verify`, and it checks whether the expected effect is really there in your data.
+You follow the course here, on the site. The online courses plugin is your companion inside the base: you switch to it at certain moments to put things into practice and have your work checked.
 
-![The online courses plugin open on the warehouse base, showing the current exercise and the verify button](images/lvl4-course-plugin.png)
+![The online courses plugin open below a base, showing the current exercise and its Verify button](images/online-courses-plugin.png)
 
-Some steps, on the other hand, take you out of SeaTable for real — sending an actual notification to your phone, archiving an actual file in another service. For those, the plugin scores nothing: it simply tells you to trigger the action, then to go and see the result on the other side. That manual check is part of the lesson.
+If you have never used the plugin before, start with its Welcome course: a short tour of how a course works, with two small exercises.
 
-New to this companion? The plugin includes a short Welcome course — pick it from the list on the left for a quick tour of how a course works, the buttons, and the movable toolbar you can slide out of your way. It takes barely a minute, and everything that follows assumes you are at ease moving between the site and the plugin, so that is the place to start.
+Many steps end with a "Going further" section: nothing later depends on it, so you can skip it if you are short on time. The quiz, screenshots and sample data are in English, and we recommend Google Chrome.
 
-## What are the requirements?
+At the end, a [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-4/) tests your knowledge. Pass it to receive a [badge for your forum profile](https://forum.seatable.com/badges/114/completed-seatable-course-4-automation-integration) — for that, you need an [account in our community forum](https://forum.seatable.com/).
 
-To follow this course successfully, you will need:
+## Before you start
 
-1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine.
-2. **Artificial intelligence, for one step**: the step where SeaTable reads a delivery note needs a system with AI available. On SeaTable Cloud there is nothing to do — it is included and free. On a self-hosted system, an administrator has to [install the SeaTable AI component](https://admin.seatable.com/installation/components/seatable-ai/) and point it at a model. Without it you can still read that step and carry on with the course, but you will not be able to run the chain it builds.
-3. **The course plugin**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), to add to your base. You will activate it in the first step, when you first need it.
-4. **Forum**: an [account on our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-5. **Optional, for the webhook step**: you will send an external notification using [ntfy](https://ntfy.sh/). No account is needed and you can confirm receipt in your browser, but to receive it on your phone you will need to install the ntfy app from your app store.
-6. **Optional, for the n8n step**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Google](https://www.google.com/drive/) account (for Google Drive) — n8n offers a free trial with no credit card, and a Google account is one you very likely already have. Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
-7. **Browser**: we recommend Google Chrome.
-8. **Language**: the course is available in several languages, but the quiz, screenshots and sample data are in English.
+Besides the plugin presented above, a few steps need more than your base. Some reach beyond it — they send an actual notification to your phone or archive an actual file in another service. For those, the plugin checks nothing: you trigger the action, then go and see the result on the other side. Here is what to prepare:
 
-## How long does the course last?
+- **SeaTable AI (Step 4)**: the step where SeaTable reads a delivery note needs a system with AI available. On SeaTable Cloud there is nothing to do — it is included and free. On a self-hosted system, an administrator has to [install the SeaTable AI component](https://admin.seatable.com/installation/components/seatable-ai/) and point it at a model. Without it you can still read that step and carry on with the course, but you will not be able to run the chain it builds.
+- **ntfy (Step 5, optional)**: you will send an external notification using [ntfy](https://ntfy.sh/). No account is needed and you can confirm receipt in your browser, but to receive it on your phone you will need to install the ntfy app from your app store.
+- **n8n (Step 6, optional)**: this step follows very well as a simple demonstration, with nothing to install. But if you want to carry it out yourself, you will need an [n8n](https://n8n.io/) account and a [Google](https://www.google.com/drive/) account (for Google Drive) — n8n offers a free trial with no credit card, and a Google account is one you very likely already have. Nothing to set up in advance: you will open them only if, once there, you decide to get your hands dirty.
 
-The course takes **about an hour and a half**, but you go at your own pace. Breaks are possible at any time, and you decide how far to push the "going further" sections scattered along the way.
+### Meet your warehouse
 
-## How do I complete the course?
-
-At the end of this course, you can test your knowledge with a quiz:
-
-- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-4/) is in English and mixes multiple-choice questions with tasks about the base you will have equipped throughout the course.
-- If you pass, you receive a [badge for your forum profile](https://forum.seatable.com/badges/114/completed-seatable-course-4-automation-integration), which makes your skills visible.
+Throughout the course, you run a warehouse that receives deliveries from its suppliers. With every delivery, you have to check what arrives, compare it against what was announced, update the stock and alert the right person. An ideal sequence to discover, one building block at a time, everything SeaTable can automate and connect.
 
 What are we waiting for? Let's go!
+
+## Help article with further information
+
+- [Activating a plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
+- [Instructions for the online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
