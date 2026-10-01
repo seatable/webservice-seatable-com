@@ -31,7 +31,7 @@ Download the following file to your computer and import it as a new base **into 
 
 [SeaTable Course 3 - Sales CRM.dtable](/SeaTable-Course-3-Sales-CRM.dtable)
 
-Then add the online courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice, to let Malika play her part, and to have your work checked. If you have never used it, start with its built-in Welcome course: a one-minute tour of how a course works with it.
+Then add the online courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice, to let Malika play her part, and to have your work checked. If you have never used it, start with its built-in Welcome course: a short tour of how a course works with it, including two small exercises to try it out.
 
 Even though you do not have to build the base yourself, take the time to get to know it well. The course refers back to these tables, columns and views in every later step, and a few of the column types may be new to you.
 
