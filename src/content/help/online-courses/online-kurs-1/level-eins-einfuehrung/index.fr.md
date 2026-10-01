@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2024-08-30
-lastmod: '2024-09-05'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
@@ -17,6 +17,12 @@ weight: 1
 ---
 
 Bienvenue dans le **cours en ligne SeaTable 1 – Premiers pas**!
+
+{{< course-facts headline="En bref" >}}
+- **Durée**: environ 1 heure
+- **Prérequis**: aucun
+- **Ce qu'il vous faut** ([détails plus bas](#before-you-start)): Compte SeaTable
+{{< /course-facts >}}
 
 ## Est-ce que ce cours est fait pour moi ?
 
@@ -42,27 +48,23 @@ Nous croyons en **Learning by doing**. Vous pouvez vous attendre à quelques inf
 
 Vous apprendrez tout cela en construisant une base pour enregistrer vos dépenses privées ou professionnelles.
 
-## De quoi ai-je besoin pour me lancer ?
+## Comment se déroule le cours
 
-Les conditions suivantes sont nécessaires pour pouvoir suivre ce cours en ligne :
+Vous n'êtes pas obligé de suivre le cours en une seule fois. N'hésitez pas à faire des pauses et à reprendre lorsque vous êtes prêt.
 
-1. **SeaTable**: Vous pouvez utiliser n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
-2. **Le forum**: Un [compte sur notre forum communautaire](https://forum.seatable.com/) si vous souhaitez obtenir un badge après avoir réussi le concours.
-3. **Le navigateur**: Nous recommandons Google Chrome.
-4. **Anglais**: le cours est disponible en plusieurs langues, mais le quiz final, les captures d'écran et les données d'exemple utilisées sont en anglais.
-
-## Combien de temps dure le cours ?
-
-L'étude du cours devrait prendre environ **une heure**. Vous n'êtes pas obligé de suivre le cours en une seule fois. N'hésitez pas à faire des pauses et à reprendre lorsque vous êtes prêt.
-
-## Comment puis-je terminer le cours ?
-
-En fin de compte, c'est vous qui décidez des connaissances et des compétences que vous retirez de ce cours en ligne. En suivant les instructions pas à pas, vous acquerrez de solides connaissances de base sur SeaTable.
+Le cours est disponible en plusieurs langues, mais le quiz final, les captures d'écran et les données d'exemple utilisées sont en anglais. Nous recommandons Google Chrome.
 
 À la fin de ce cours, vous aurez la possibilité de tester vos nouvelles connaissances en répondant à un quiz :
 
 - Le [quiz en anglais](https://tally.so/r/wk5BXr) est un mélange de questions à choix multiples et de questions sur la base, que vous construirez au fur et à mesure du tutoriel.
 - Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Celui-ci sera alors visible à chaque réponse que vous donnerez sur le forum et mettra en évidence vos compétences pour tous les autres utilisateurs.
+- Pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
+
+## Avant de commencer {#before-you-start}
+
+Les conditions suivantes sont nécessaires pour pouvoir suivre ce cours en ligne :
+
+- **SeaTable**: Vous pouvez utiliser n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
 
 Qu'est-ce qu'on attend ? Allons-y !
 

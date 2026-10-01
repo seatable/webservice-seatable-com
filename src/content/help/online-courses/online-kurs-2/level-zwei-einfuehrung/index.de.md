@@ -1,7 +1,7 @@
 ---
 title: 'Einführung'
 date: 2024-09-18
-lastmod: '2024-09-23'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
@@ -13,6 +13,14 @@ weight: 1
 ---
 
 Willkommen zum **SeaTable Online-Kurs 2 – Eingaben und Ausgaben!**
+
+{{< course-facts headline="Auf einen Blick" >}}
+- **Dauer**: etwa 1 Stunde
+- **Vorkenntnisse**: Kurs 1
+- **Voraussetzungen** ([Details unten](#before-you-start)):
+    - SeaTable-Account
+    - Mailtrap-Konto (Schritt 3)
+{{< /course-facts >}}
 
 ## Ist dies der richtige Kurs für mich?
 
@@ -27,26 +35,24 @@ Im zweiten Teil dieses Kurses geht es darum, wie Sie mit SeaTable einen vollstä
 
 Der komplette Geschäftsprozess wird in SeaTable abgebildet, sodass Sie sich voll und ganz auf Ihr Kerngeschäft konzentrieren können.
 
-## Welche Voraussetzungen gibt es?
+## So funktioniert der Kurs
 
-Um diesen Kurs erfolgreich zu absolvieren, benötigen Sie:
+Sie können den Kurs in Ihrem eigenen Tempo durchlaufen. Pausen sind jederzeit möglich. An verschiedenen Stellen finden Sie Links zu weiterführendem Material – Sie entscheiden selbst, wie tief Sie in die Themen einsteigen möchten.
 
-1. **SeaTable**: Verwenden Sie ein beliebiges SeaTable-System. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud-Account]({{< relref "pages/registration" >}}).
-2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.com/), falls Sie nach Abschluss des Kurses ein Abzeichen erhalten möchten.
-3. **Mailversand**: Ein [Konto bei Mailtrap](https://mailtrap.io/), um den Mailversand aus SeaTable zu simulieren.
-4. **Browser**: Wir empfehlen die Nutzung von Google Chrome.
-5. **Englisch**: Der Kurs ist in mehreren Sprachen verfügbar, jedoch sind das Quiz, die Screenshots und die Beispieldaten auf Englisch.
-
-## Wie lange dauert der Kurs?
-
-Der Kurs dauert **etwa eine Stunde**, aber Sie können ihn in Ihrem eigenen Tempo durchlaufen. Pausen sind jederzeit möglich. An verschiedenen Stellen finden Sie Links zu weiterführendem Material – Sie entscheiden selbst, wie tief Sie in die Themen einsteigen möchten.
-
-## Wie schließe ich den Kurs ab?
+Der Kurs ist in mehreren Sprachen verfügbar, jedoch sind das Quiz, die Screenshots und die Beispieldaten auf Englisch. Wir empfehlen die Nutzung von Google Chrome.
 
 Am Ende dieses Kurses können Sie Ihr Wissen in einem Quiz überprüfen:
 
 - Das [Quiz](https://tally.so/r/mDDbpb) ist auf Englisch und besteht aus Multiple-Choice-Fragen sowie Aufgaben zu dem von Ihnen umgesetzten Prozess.
 - Bei erfolgreichem Abschluss erhalten Sie ein [Abzeichen für Ihr Forums-Profil](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), das Ihre Fähigkeiten sichtbar macht.
+- Für das Abzeichen benötigen Sie einen [Account in unserem Community-Forum](https://forum.seatable.com/).
+
+## Bevor Sie beginnen {#before-you-start}
+
+Um diesen Kurs erfolgreich zu absolvieren, benötigen Sie:
+
+- **SeaTable**: Verwenden Sie ein beliebiges SeaTable-System. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud-Account]({{< relref "pages/registration" >}}).
+- **Mailversand**: Ein [Konto bei Mailtrap](https://mailtrap.io/), um den Mailversand aus SeaTable zu simulieren.
 
 Worauf warten wir? Los geht's!
 
