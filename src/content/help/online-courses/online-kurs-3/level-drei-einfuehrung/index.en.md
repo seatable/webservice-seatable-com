@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2026-06-18
-lastmod: '2026-09-16'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-3'
 author: 'bha'
@@ -18,11 +18,20 @@ Welcome to the SeaTable Online Course 3 – Collaboration!
 
 In Course 1 you learned the basics, and in Course 2 you built a complete business process. So far, though, you have been working on your own. In real life, data is rarely a solo affair: your colleagues need to read it, comment on it, edit it, and build on top of it, all without stepping on each other. That is what this course is about — collaboration.
 
+{{< course-facts headline="At a glance" >}}
+- **Duration**: about an hour and a half, at your own pace. If you prefer two sessions, the end of Step 4 is the natural place to stop.
+- **Prerequisites**: [Online Course 1 – Getting Started]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung/" >}}) and [Online Course 2 – Inputs and Outputs]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung/" >}}).
+- **SeaTable account**: on any SeaTable system; the free plan is enough, and your account from Course 1 or 2 will do fine.
+- **Course companion**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), which you add in Step 1.
+- **A colleague**: a second account in your team, which Step 2 sets up with you. There is nothing to prepare now.
+- **Language and browser**: the course and quiz are in English; we recommend Google Chrome.
+- **Completion**: pass the [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) to receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3) (requires an [account in our community forum](https://forum.seatable.com/)).
+{{< /course-facts >}}
+
 ## Is this the right course for me?
 
 This course is ideal for you if you:
 
-- have completed the [Online Course 1 – Getting Started]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung/" >}}) and [Online Course 2 – Inputs and Outputs]({{< relref "help/online-courses/online-kurs-2/level-zwei-einfuehrung/" >}}) courses and want to go further.
 - need to work on the same data as your colleagues, without overwriting each other's work.
 - want to share a base, discuss records in context, track changes, and distribute data to other teams.
 
@@ -40,14 +49,9 @@ Step by step, you will learn how to:
 
 By the end, you will have a practical toolkit for working on shared data with confidence.
 
-## What are the requirements?
+## Before you start
 
-1. **SeaTable account**: Use an account on any SeaTable system; your account from course 1 or 2 will do fine. On a self-hosted server, the whiteboard used in Step 6 is a separate component that your system administrator may first need to [install](https://admin.seatable.com/installation/components/whiteboard/).
-2. **The course plugin**: the [online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}}), the companion that guides you and checks your work inside your own base. You add it in Step 1, the moment you first need it.
-3. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge after completing the course.
-4. **Browser and language**: We recommend Google Chrome, and the course and quiz are in English.
-
-That is everything you need to begin. Collaboration takes two, of course, so a colleague joins you in Step 2 — a second SeaTable account, which that step sets up with you. There is nothing to prepare for it now.
+Most steps end with a "Going further" section: extra discoveries that nothing later depends on, so you can skip them if you are short on time and come back to them whenever you like. On a self-hosted server, the whiteboard used in Step 6 is a separate component that your system administrator may first need to [install](https://admin.seatable.com/installation/components/whiteboard/).
 
 {{< warning headline="If you are not a team administrator" text="Creating groups and inviting a team member depend on your role in the team. Along the way the course asks for three things: a group named Commercial in Step 1, a second team member in Step 2, and a group named Marketing in Step 5. If any of them are unavailable to you, request all three from your team administrator in one go, so that nothing stops you halfway through." />}}
 
@@ -57,17 +61,6 @@ Throughout the course you keep the same role, and one colleague works alongside 
 
 - **You (Commercial)**: you own the company's customer list, and this is the role you play from beginning to end. In SeaTable's own logs this account appears under your own name.
 - **Malika (Marketing)**: Head of Marketing. She needs to read, comment on, and reuse your data. From Step 2 onwards she is a second account in your team, and the course companion acts for her — so you see what she does, and what she sees, from your own window.
-
-## How long does the course last?
-
-The course lasts **about an hour and a half**, but you can go through it at your own pace. Breaks are possible at any time. Most steps end with a "Going further" section: extra discoveries that nothing later depends on, so you can skip them if you are short on time and come back to them whenever you like.
-
-## How do I complete the course?
-
-At the end of this course you can test your knowledge in a quiz:
-
-- The [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) is in English and consists of multiple-choice questions about the collaboration features you have used.
-- Upon successful completion, you receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3), which makes your skills visible.
 
 What are we waiting for? Let's go!
 

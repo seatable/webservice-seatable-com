@@ -1,7 +1,7 @@
 ---
 title: 'Step 5: Common datasets'
 date: 2026-06-18
-lastmod: '2026-09-29'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-3'
 author: 'bha'
@@ -12,6 +12,16 @@ seo:
     title: 'Step 5 in SeaTable Course 3: Common datasets'
     description: 'Distribute a live, always-up-to-date customer list to the Marketing team with a common dataset, replacing their stale manual copy.'
 ---
+
+{{< accordion "Coming back after a break?" >}}
+Here is where you left off:
+
+- Your `Sales CRM` base sits in the `Commercial` group, and you shared it with Malika as `Read-Write` (Steps 1 and 2).
+- You discussed `James Bennett` with her in a comment thread: she changed his `Industry` to `Technology`, and you closed the thread (Step 3).
+- You found her `Status` change in the base log and restored it, while your later `Phone` correction stayed (Step 4).
+
+To pick up from there, open `Sales CRM` and launch the online courses plugin: its list of steps shows how far you got.
+{{< /accordion >}}
 
 Many companies run into a problem like this one. Marketing needs the customer list too — but they are not allowed to touch the sales pipeline, and they certainly should not be editing your master. So at some point someone exported the customers into a separate Marketing copy. That copy was accurate for only a very short time. Ever since, it has been drifting: new customers missing, old segments wrong, etc.
 

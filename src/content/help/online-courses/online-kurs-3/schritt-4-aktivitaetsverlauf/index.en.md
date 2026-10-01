@@ -1,7 +1,7 @@
 ---
 title: 'Step 4: Activity log and history'
 date: 2026-06-18
-lastmod: '2026-09-29'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-3'
 author: 'bha'
@@ -70,6 +70,10 @@ This is easiest to see with the `Phone` number. You corrected it **after** Malik
 For deeper recovery — rolling an entire base back to an earlier point, or recovering from a serious accident — SeaTable also offers snapshots and other tools, which are a topic of their own and will belong to a later course on maintenance.
 
 You can now trace and reverse changes with confidence. So far, though, everything has happened inside one base. The next step opens up the most powerful collaboration tool in the course: sharing live data with a whole other team.
+
+{{< accordion "Want to split the course into two sessions?" >}}
+This is a good place to stop for today. Everything you have built stays in your base, and the next step opens with a short recap to help you pick up where you left off.
+{{< /accordion >}}
 
 ## Going further
 
