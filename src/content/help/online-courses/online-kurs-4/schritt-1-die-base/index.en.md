@@ -1,7 +1,7 @@
 ---
 title: 'Step 1: The starting base'
 date: 2026-07-02
-lastmod: '2026-08-28'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-4'
 author: 'bha'
@@ -19,7 +19,7 @@ Download the following file and import it as a new base:
 
 [SeaTable Course 4 - Warehouse.dtable](/SeaTable-Course-4-Warehouse.dtable)
 
-Then add the online courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice and have your work checked.
+Then add the online courses plugin to this base. You keep following the course here, on the site; the plugin is the companion you switch over to now and then to put things into practice and have your work checked. If you have never used it, start with its built-in Welcome course: a short tour of how a course works with it, including two small exercises to try it out.
 
 Even though you did not build the base yourself, take the time to get to know it well: the course refers back to it at every step, and a few of the column types may be new to you.
 
