@@ -15,6 +15,10 @@ Os compromissos num SeaTable Base podem ser automaticamente sincronizados com um
 
 Antes de configurar a sincronização de compromissos, deve configurar a **conta Google** do calendário para o qual pretende transferir os compromissos no SeaTable. Isto é feito em dois passos: Primeiro, crie **credenciais de autenticação** na Consola Google Cloud. Em seguida, crie uma conta de terceiros no SeaTable com os dados de acesso e ligue-a ao Google. Isto é muito fácil com estas instruções passo a passo.
 
+**Neste breve tutorial, iremos guiá-lo passo a passo pelo processo de ligação do seu Google Calendar ao SeaTable (com legendas em português).**
+
+{{< youtube wKp95ludstQ >}}
+
 ## Criação dos dados de acesso na Consola Google Cloud
 
 Sendo uma plataforma para programadores, a Google Cloud Console parece inicialmente confusa para os utilizadores normais. Não deixe que isso o impressione. O seguinte guia passo a passo vai ajudá-lo a configurá-lo sem dores de cabeça.
