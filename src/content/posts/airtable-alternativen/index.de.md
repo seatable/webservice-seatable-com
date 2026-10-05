@@ -79,7 +79,7 @@ SeaTable ist eine No-Code-Datenbank der SeaTable GmbH aus Mainz. Die Oberfläche
 - Ein Big-Data-Backend für große Datenmengen und ein eigener KI-Server in Deutschland für KI-Automationen.
 
 **Wo Airtable besser ist:**
-- **KI:** Airtable bietet deutlich mehr KI-Unterstützung. Mit Omni entstehen Apps und Agenten aus einer Beschreibung, Field Agents füllen Felder automatisch. SeaTable nutzt KI bisher vor allem in Automationen und Skripten.
+- **KI:** Airtable bietet deutlich mehr KI-Unterstützung. Mit Omni entstehen Apps und Agenten aus einer Beschreibung, Field Agents füllen Felder automatisch. SeaTable nutzt KI bisher vor allem in Automationen und Skripten. Mit der kommenden Version 7.0 kann die KI auch Tabellen und Felder anlegen.
 - **Spaltentypen:** Airtable hat 28, SeaTable 26.
 - **Support:** Airtable bietet optional Corporate Support mit SLAs, SeaTable nicht.
 - **Ökosystem:** Zu Airtable gibt es mehr Integrationen von Drittanbietern, Vorlagen und Anleitungen.
@@ -258,7 +258,7 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 | Kostenlose Version | ✅ | ✅ | ✅ | ✅ | – | ✅ | ✅ | ✅ |
 | Import aus Airtable | ✅ | ✅ | ✅ | ✅ | ✅ | – | – | – |
 | Python | ✅ | – | – | ✅ | – | – | – | – |
-| KI baut Tabellen und Felder | – | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| KI baut Tabellen und Felder | mit Version 7.0 | ✅ | ab Plus | ✅ | ✅ | ab Business | mit Copilot-Lizenz | über AppSheet |
 | Apps und Interfaces | ✅ App Builder | ✅ Application Builder | ab Plus | Seiten mit Widgets | Dashboards | – | über Power Apps | ✅ AppSheet |
 | Automationen | ✅ | ✅ | ✅ | ab Business | ✅ | ab Plus | über Power Automate | über AppSheet |
 | Rechte auf Spalten- oder Zeilenebene | Spalten ab Plus, Zeilen über Apps | Rollen ab Advanced | Felder ab Business, Zeilen ab Scale | ✅ | Felder ab Professional, Datensätze ab Enterprise | Zeilen ab Business | ✅ | über AppSheet |
@@ -266,7 +266,7 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 
 In den Zeilen zu Apps, Automationen, Rechten und Single Sign-on bedeutet ✅: in allen Tarifen enthalten. Sonst nennen wir den Tarif, ab dem es die Funktion gibt.
 
-[PRÜFEN: Zeilen „Python“ und „KI baut Tabellen und Felder“ für Baserow, NocoDB und SmartSuite vor Veröffentlichung verifizieren. Microsoft Lists und Google nur mit Zusatzlizenz bzw. AppSheet.]
+[PRÜFEN: Python bei Baserow: Gibt es im Code-Knoten der Automationen Python?]
 
 ## Kosten im Vergleich: ein Team mit 10 Nutzern
 
