@@ -46,10 +46,10 @@ seo:
 | **SeaTable** | Unternehmen und Behörden mit DSGVO-Anforderungen | ja, 10.000 Zeilen, 25 Nutzer | 7 € | Deutschland, Server in Frankfurt und München | ja, Enterprise bis 3 Nutzer kostenlos | ja |
 | **Baserow** | Open Source zum Selbsthosten | ja, 3.000 Zeilen | 10 $ | Niederlande, Server in Deutschland | ja, ohne Zeilenlimit, Kern unter MIT-Lizenz | ja |
 | **NocoDB** | Oberfläche auf bestehende SQL-Datenbanken | ja, 1.000 Datensätze | 12 $ | USA, Cloud bei AWS | ja, ohne Zeilenlimit, Sustainable Use License | ja |
-| **Grist** | Tabellen mit Python-Formeln | ja, 5.000 Datensätze pro Dokument | 8 $ | USA, Cloud bei AWS in den USA | ja, ohne Zeilenlimit, Apache-2.0 | ja |
+| **Grist** | Tabellen mit Python-Formeln | ja, 5.000 Datensätze pro Dokument | 8 $ | USA, Cloud bei AWS in den USA | ja, ohne Lizenzlimits, Apache-2.0 | ja |
 | **SmartSuite** | Nähe zu Airtable, viele Branchenvorlagen | nein, 14 Tage Test | 15 $ (mind. 3 Nutzer) | USA, EU-Region verfügbar | nein | ja |
 | **Notion** | Dokumente und einfache Datenbanken | ja, eingeschränkt | 9,50 € | USA, EU-Region nur Enterprise | nein | nein, nur CSV |
-| **Microsoft Lists** | Organisationen mit Microsoft 365 | ja, für private Konten | in Microsoft 365 enthalten | USA, EU Data Boundary | nur über SharePoint Server | nein, nur Excel/CSV |
+| **Microsoft Lists** | Organisationen mit Microsoft 365 | ja, für private Konten | in Microsoft 365 enthalten (ab ca. 6,07 €) | USA, EU Data Boundary | nur über SharePoint Server | nein, nur Excel/CSV |
 | **Google Sheets + AppSheet** | Organisationen mit Google Workspace | ja, AppSheet für Prototypen | in Google Workspace enthalten (ab 6,80 €) | USA, Datenregion EU ab Business Standard | nein | nein, nur CSV |
 
 ## So haben wir verglichen
@@ -221,7 +221,7 @@ Microsoft Lists ist Teil von Microsoft 365 und basiert auf SharePoint.
 
 **Für wen Microsoft Lists nicht geeignet ist:** Teams, die komplexe relationale Datenbanken abbilden wollen, und alle, die unabhängig von US-Konzernen werden möchten.
 
-**Preis:** in Microsoft 365 enthalten.
+**Preis:** in Microsoft 365 enthalten, ab Business Basic für ca. 6,07 € pro Nutzer und Monat bei jährlicher Zahlung (seit der Preiserhöhung im Juli 2026).
 
 **Fazit:** Pragmatisch für einfache Listen in Microsoft-Umgebungen, kein vollwertiger Ersatz für Airtable.
 
@@ -280,7 +280,7 @@ So viel kosten die Werkzeuge im Jahr für ein Team mit 10 Nutzern bei jährliche
 | **Grist** | Pro | 960 $ | 100.000 pro Dokument | Business | 2.880 $ | 150.000 pro Dokument |
 | **SmartSuite** | Team | 1.800 $ | 5.000 pro Solution | Professional | 3.840 $ | 100.000 pro Solution |
 | **Notion** | Plus | 1.140 € | keine Angabe | Business | 2.340 € | keine Angabe |
-| **Microsoft Lists** | in Microsoft 365 enthalten (ab Business Basic) | – | 30 Mio. pro Liste | – | – | – |
+| **Microsoft Lists** | in Microsoft 365 Business Basic enthalten, ca. 6,07 € | ca. 730 € | 30 Mio. pro Liste | – | – | – |
 | **Google Sheets + AppSheet** | Workspace Business Starter | 816 € | 20 Mio. Zellen pro Tabelle | Business Standard (EU-Datenregion) | 1.632 € | 20 Mio. Zellen pro Tabelle |
 
 Zwei Besonderheiten: NocoDB berechnet in Plus und Business höchstens 9 Nutzer, jeder weitere ist kostenlos. Deshalb kosten 10 Nutzer hier so viel wie 9. Bei SmartSuite zahlen Sie nur für Nutzer, die Daten bearbeiten. Wer nur liest, kommentiert oder Formulare ausfüllt, ist kostenlos.
@@ -291,7 +291,7 @@ Wer selbst hostet, zahlt bei Baserow, NocoDB und Grist für die Grundversion kei
 
 In vielen Listen mit Airtable-Alternativen tauchen weitere Werkzeuge auf. Wir haben sie bewusst weggelassen, weil sie Airtable nur in Teilen ersetzen:
 
-- **Teable:** eine junge Open-Source-Alternative auf Basis von PostgreSQL. Interessant für technische Teams, aber noch nicht so ausgereift wie die Werkzeuge in unserem Vergleich. Wir beobachten die Entwicklung.
+- **Teable:** eine junge Open-Source-Alternative (AGPL-3.0) auf Basis von PostgreSQL. Interessant für technische Teams, aber noch nicht so ausgereift wie die Werkzeuge in unserem Vergleich. Wir beobachten die Entwicklung.
 - **Coda:** verbindet Dokumente mit Tabellen und Bausteinen für kleine Anwendungen. Ähnlich wie Notion eher ein Dokumentenwerkzeug als eine Datenbank.
 - **ClickUp, monday.com, Asana und Smartsheet:** Werkzeuge für Projekt- und Aufgabenmanagement. Sie eignen sich, wenn Sie Airtable vor allem für Projekte genutzt haben, aber nicht als allgemeine Datenbank.
 - **Zoho Creator:** eine Low-Code-Plattform für eigene Geschäftsanwendungen. Mächtig, aber deutlich näher an der Softwareentwicklung als Airtable.
