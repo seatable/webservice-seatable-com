@@ -86,7 +86,7 @@ SeaTable is a no-code database from SeaTable GmbH, based in Mainz, Germany. The 
 
 **Who SeaTable is not right for:** teams that mainly want to use AI to build their databases and apps, and companies that need contractually guaranteed response times.
 
-**Switching from Airtable:** When creating a base, choose "Import from Airtable" and enter the base ID and a personal access token. All tables, all rows including attachments and all columns except button, count, lookup and rollup are transferred. For more control, there is a [migration script]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
+**Switching from Airtable:** When creating a base, choose "Import from Airtable" and enter the base ID and a personal access token. All tables, all rows including attachments, all columns except button, count, lookup and rollup, and the views are transferred. For more control, there is a [migration script]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 **Price:** Free (10,000 rows, 25 users), Plus €7, Enterprise €14 per user per month with annual billing. All details on the [pricing page]({{< relref "pages/prices" >}}).
 
