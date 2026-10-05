@@ -263,6 +263,7 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 | Automationen | ✅ | ✅ | ✅ | ab Business | ✅ | ab Plus | über Power Automate | über AppSheet |
 | Rechte auf Spalten- oder Zeilenebene | Spalten ab Plus, Zeilen über Apps | Rollen ab Advanced | Felder ab Business, Zeilen ab Scale | ✅ | Felder ab Professional, Datensätze ab Enterprise | Zeilen ab Business | ✅ | über AppSheet |
 | Single Sign-on (SAML) | ab Enterprise | ab Advanced | ab Business | nur Enterprise | nur Enterprise | ab Business | ✅ | ✅ |
+{.sticky-2}
 
 In den Zeilen zu Apps, Automationen, Rechten und Single Sign-on bedeutet ✅: in allen Tarifen enthalten. Sonst nennen wir den Tarif, ab dem es die Funktion gibt.
 
