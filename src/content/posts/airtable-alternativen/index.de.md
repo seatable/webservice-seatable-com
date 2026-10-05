@@ -25,7 +25,6 @@ seo:
 - **Beste Airtable-Alternative für Unternehmen und Behörden mit DSGVO-Anforderungen:** SeaTable. Anbieter aus Mainz, Server in Deutschland, auch auf eigenen Servern betreibbar.
 - **Beste Open-Source-Alternative zum Selbsthosten:** Baserow (MIT-Lizenz) oder Grist (Apache-2.0).
 - **Beste Oberfläche für eine bestehende SQL-Datenbank:** NocoDB.
-- **Viele Branchenvorlagen und Projektmanagement in einem Werkzeug:** SmartSuite.
 - **Wenn Dokumente im Mittelpunkt stehen:** Notion.
 - **Wenn Microsoft 365 oder Google Workspace schon im Einsatz ist:** Microsoft Lists bzw. Google Sheets mit AppSheet.
 

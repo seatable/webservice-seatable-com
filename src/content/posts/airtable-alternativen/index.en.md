@@ -25,7 +25,6 @@ seo:
 - **Best Airtable alternative for companies and public authorities with GDPR requirements:** SeaTable. Provider based in Mainz, servers in Germany, can also run on your own servers.
 - **Best open-source alternative for self-hosting:** Baserow (MIT license) or Grist (Apache 2.0).
 - **Best interface for an existing SQL database:** NocoDB.
-- **Many industry templates and project management in one tool:** SmartSuite.
 - **If documents are at the center:** Notion.
 - **If you already use Microsoft 365 or Google Workspace:** Microsoft Lists or Google Sheets with AppSheet.
 
