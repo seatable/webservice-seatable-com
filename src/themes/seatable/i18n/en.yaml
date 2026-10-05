@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Table of Contents'
+    written_by: 'By'
+    about_author: 'About the author'
+    author_profile: 'Profile'
 
 legal:
     version: 'Version'

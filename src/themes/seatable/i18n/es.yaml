@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Índice'
+    written_by: 'Por'
+    about_author: 'Sobre el autor'
+    author_profile: 'Perfil'
 
 legal:
     version: 'Versión'

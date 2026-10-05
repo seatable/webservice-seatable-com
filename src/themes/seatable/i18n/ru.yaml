@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Оглавление'
+    written_by: 'Автор:'
+    about_author: 'Об авторе'
+    author_profile: 'Профиль'
 
 legal:
     version: 'Версия'
