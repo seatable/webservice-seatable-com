@@ -360,3 +360,10 @@ Excel ist eine Tabellenkalkulation, Airtable eine relationale Datenbank mit der 
 Die beste Airtable-Alternative hängt davon ab, was Sie an Airtable ersetzen wollen. Wer vor allem Datenhoheit sucht, also einen Anbieter in der EU, Server in Deutschland und die Möglichkeit, selbst zu hosten, ist bei SeaTable richtig. Wer eine echte Open-Source-Lizenz braucht, wählt Baserow oder Grist. Und wer vor allem die KI-Funktionen von Airtable schätzt, findet derzeit keinen gleichwertigen Ersatz.
 
 [SeaTable kostenlos testen]({{< relref "pages/registration" >}}) und Ihre erste Airtable-Base in wenigen Minuten importieren.
+
+## Änderungsprotokoll
+
+Wir prüfen Preise, Limits und Funktionen regelmäßig und halten Änderungen hier fest.
+
+- **5. Oktober 2026:** Alle Preise und Limits auf den Seiten der Anbieter geprüft. Kostenvergleich für 10 Nutzer, Funktionen zu Apps, Automationen, Rechten und Single Sign-on sowie den Preis von Microsoft 365 ergänzt.
+- **30. September 2026:** Erste Fassung.
