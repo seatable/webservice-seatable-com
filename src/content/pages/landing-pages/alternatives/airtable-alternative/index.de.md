@@ -204,7 +204,7 @@ sections:
       weight: 11
       title: Wann Airtable die bessere Wahl bleibt
       subtitle: Ein ehrlicher Vergleich
-      description: 'SeaTable ist nicht für jedes Team die richtige Wahl. In diesen Punkten ist Airtable heute stärker:'
+      description: 'SeaTable ist nicht für jedes Team die richtige Wahl. Wie SeaTable, Baserow, NocoDB, Grist und weitere Werkzeuge im Detail abschneiden, zeigt unser [Vergleich der 8 besten Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}). In diesen Punkten ist Airtable heute stärker:'
       items:
       - icon: robot
         headline: KI beim Aufbau von Bases

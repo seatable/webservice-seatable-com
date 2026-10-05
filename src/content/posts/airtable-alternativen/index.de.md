@@ -2,9 +2,9 @@
 title: 'Die 8 besten Airtable-Alternativen 2026: DSGVO, Self-Hosting & No-Code im Vergleich'
 description: 'Airtable gehört seit September 2026 Bending Spoons, ist ein US-Anbieter und lässt sich nicht selbst hosten. Wir vergleichen acht Airtable-Alternativen nach Preis, Hosting, DSGVO, Self-Hosting und Import aus Airtable.'
 date: 2026-09-30
-lastmod: '2026-09-30'
+lastmod: '2026-10-05'
 author: 'cdb'
-url: '/de/airtable-alternativen'
+url: '/de/beste-airtable-alternativen'
 color: '#7cc3da'
 categories:
     - 'best-practice'
@@ -16,7 +16,7 @@ seo:
     description: 'Airtable-Alternativen 2026: SeaTable, Baserow, NocoDB, Grist, SmartSuite, Notion, Microsoft Lists und Google Sheets im Vergleich – mit Preisen, Hosting, DSGVO und Self-Hosting.'
 ---
 
-**Stand: 30. September 2026.** Alle Preise und Limits haben wir am 30. September 2026 auf den offiziellen Seiten der Anbieter geprüft. [PRÜFEN: Autor und Prüfer mit Namen und Rolle ergänzen]
+**Stand: 5. Oktober 2026.** Alle Preise und Limits haben wir zuletzt am 5. Oktober 2026 auf den offiziellen Seiten der Anbieter geprüft.
 
 > **Offenlegung:** Dieser Vergleich stammt von SeaTable. SeaTable steht deshalb auf Platz 1. Die anderen Werkzeuge haben wir nach denselben Kriterien verglichen und beschreiben ehrlich, wann sie die bessere Wahl sind – auch gegenüber SeaTable.
 
@@ -33,7 +33,7 @@ seo:
 
 **Airtable hat einen neuen Eigentümer.** Der Softwarekonzern Bending Spoons hat die Übernahme von Airtable am 4. September 2026 abgeschlossen, für einen Unternehmenswert von rund 1,3 Milliarden US-Dollar ([Pressemitteilung](https://investors.bendingspoons.com/newsroom/bending-spoons-completes-acquisition-of-airtable)). Bending Spoons kündigt an, stark in Produkt, Support und Vertrieb zu investieren. Konkrete Änderungen an Preisen oder Tarifen sind bisher nicht bekannt. Nach früheren Übernahmen wie Evernote hat Bending Spoons allerdings Personal abgebaut und Preise erhöht ([Reworked](https://www.reworked.co/digital-workplace/bending-spoons-acquires-airtable-for-1285b/)). Viele Teams nehmen das zum Anlass, ihre Abhängigkeit von einem einzelnen Anbieter zu prüfen.
 
-**Airtable wird mit dem Team teuer.** Airtable Team kostet 20 US-Dollar pro Nutzer und Monat bei jährlicher Zahlung, Airtable Business 45 US-Dollar. Im Tarif Team ist eine Base auf 50.000 Datensätze begrenzt, in Business auf 125.000 ([Airtable-Tarife](https://support.airtable.com/docs/airtable-plans)).
+**Airtable wird mit dem Team teuer.** Airtable Team kostet 20 US-Dollar pro Nutzer und Monat bei jährlicher Zahlung, Airtable Business 45 US-Dollar. Im Tarif Team ist eine Base auf 50.000 Datensätze begrenzt, in Business auf 125.000. Auch die API ist begrenzt: Im Tarif Team sind 100.000 API-Aufrufe pro Monat enthalten, in Free nur 1.000. Wer Airtable über n8n, Make oder Zapier mit anderen Systemen verbindet, stößt schnell an diese Grenze ([Airtable-Tarife](https://support.airtable.com/docs/airtable-plans)).
 
 **Airtable ist ein US-Anbieter.** Das Unternehmen sitzt in San Francisco und unterliegt damit dem US CLOUD Act. Eine Datenhaltung in Europa gibt es nur im höchsten Tarif Enterprise Scale, und auch dort bleiben Metadaten wie Base-Namen, Skripte und Nutzerdaten in den USA ([Airtable-Hilfe](https://support.airtable.com/docs/european-data-residency-at-airtable)). In der offiziellen [Liste des EU-US Data Privacy Framework](https://www.dataprivacyframework.gov/list) haben wir Airtable nicht gefunden (Stand: 30.09.2026).
 
@@ -54,7 +54,7 @@ seo:
 
 ## So haben wir verglichen
 
-Wir haben alle acht Werkzeuge anhand der offiziellen Preisseiten, Dokumentationen und Rechtstexte der Anbieter verglichen (Stand: 30.09.2026). SeaTable kennen wir als Anbieter naturgemäß am besten. Unsere Kriterien:
+Wir haben alle acht Werkzeuge anhand der offiziellen Preisseiten, Dokumentationen und Rechtstexte der Anbieter verglichen (Stand: 05.10.2026). SeaTable kennen wir als Anbieter naturgemäß am besten. Unsere Kriterien:
 
 1. **Datenmodell:** Verknüpfungen zwischen Tabellen, Ansichten, Formeln
 2. **Limits und Preis:** Datensätze pro Base, Speicher, Preis für ein Team von 10 Nutzern
@@ -64,6 +64,8 @@ Wir haben alle acht Werkzeuge anhand der offiziellen Preisseiten, Dokumentatione
 6. **Automationen, Skripte und KI**
 
 ## 1. SeaTable – die Airtable-Alternative mit Servern in Deutschland
+
+![SeaTable als Airtable-Alternative: SeaTable und Airtable im Vergleich](seatable-vs-airtable.jpg)
 
 SeaTable ist eine No-Code-Datenbank der SeaTable GmbH aus Mainz. Die Oberfläche ähnelt Airtable, die Cloud läuft in Rechenzentren in Deutschland, und wer will, betreibt SeaTable auf eigenen Servern. Zu den Nutzern gehören die Bundeswehr, die Humboldt-Universität zu Berlin, die Max-Planck-Gesellschaft und die französische Evaluationsbehörde Hcéres.
 
@@ -130,7 +132,7 @@ NocoDB legt eine Oberfläche wie bei Airtable über eine SQL-Datenbank. Anbieter
 
 **Für wen NocoDB nicht geeignet ist:** Fachabteilungen ohne technische Unterstützung. NocoDB steht außerdem nicht unter einer Open-Source-Lizenz im engeren Sinn, sondern unter der Sustainable Use License.
 
-**Preis:** Free, Plus 12 $, Business 24 $, Scale 45 $ pro Nutzer und Monat bei jährlicher Zahlung ([Preise](https://nocodb.com/pricing)).
+**Preis:** Free, Plus 12 $, Business 24 $, Scale 45 $ pro Nutzer und Monat bei jährlicher Zahlung. In Plus und Business zahlen Sie höchstens für 9 Nutzer ([Preise](https://nocodb.com/pricing)).
 
 **Fazit:** Stark für technische Teams, die selbst hosten. Für die Cloud-Version fehlen uns Angaben zum Datenschutz.
 
@@ -171,6 +173,7 @@ SmartSuite ist eine Arbeitsplattform mit Datenbank, Projektmanagement und vielen
 **Wo Airtable besser ist:**
 - Keine kostenlose Version, nur ein 14-tägiger Test.
 - Mindestens 3 Nutzer im Tarif Team, 5 im Tarif Professional.
+- Im Tarif Team nur 5.000 Datensätze pro Solution.
 
 **Für wen SmartSuite nicht geeignet ist:** Einzelpersonen, kleine Teams mit kleinem Budget und alle, die selbst hosten müssen.
 
@@ -256,8 +259,44 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 | Import aus Airtable | ✅ | ✅ | ✅ | ✅ | ✅ | – | – | – |
 | Python | ✅ | – | – | ✅ | – | – | – | – |
 | KI baut Tabellen und Felder | – | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Apps und Interfaces | ✅ App Builder | ✅ Application Builder | ab Plus | Seiten mit Widgets | Dashboards | – | über Power Apps | ✅ AppSheet |
+| Automationen | ✅ | ✅ | ✅ | ab Business | ✅ | ab Plus | über Power Automate | über AppSheet |
+| Rechte auf Spalten- oder Zeilenebene | Spalten ab Plus, Zeilen über Apps | Rollen ab Advanced | Felder ab Business, Zeilen ab Scale | ✅ | Felder ab Professional, Datensätze ab Enterprise | Zeilen ab Business | ✅ | über AppSheet |
+| Single Sign-on (SAML) | ab Enterprise | ab Advanced | ab Business | nur Enterprise | nur Enterprise | ab Business | ✅ | ✅ |
+
+In den Zeilen zu Apps, Automationen, Rechten und Single Sign-on bedeutet ✅: in allen Tarifen enthalten. Sonst nennen wir den Tarif, ab dem es die Funktion gibt.
 
 [PRÜFEN: Zeilen „Python“ und „KI baut Tabellen und Felder“ für Baserow, NocoDB und SmartSuite vor Veröffentlichung verifizieren. Microsoft Lists und Google nur mit Zusatzlizenz bzw. AppSheet.]
+
+## Kosten im Vergleich: ein Team mit 10 Nutzern
+
+So viel kosten die Werkzeuge im Jahr für ein Team mit 10 Nutzern bei jährlicher Zahlung. Wir vergleichen jeweils den günstigsten kostenpflichtigen Tarif und den nächsthöheren, zusammen mit der Zahl der Datensätze, die der Tarif erlaubt. Achten Sie dabei auf die Bezugsgröße: Manche Anbieter begrenzen pro Base oder Dokument, andere für den ganzen Workspace. Preise in US-Dollar haben wir nicht umgerechnet.
+
+| Tool | Einstiegstarif | pro Jahr | Datensätze | Nächster Tarif | pro Jahr | Datensätze |
+|---|---|---|---|---|---|---|
+| **Airtable** | Team | 2.400 $ | 50.000 pro Base | Business | 5.400 $ | 125.000 pro Base |
+| **SeaTable** | Plus | 840 € | 50.000 insgesamt | Enterprise | 1.680 € | 100.000 pro Base, insgesamt unbegrenzt |
+| **Baserow** | Premium | 1.200 $ | 50.000 pro Workspace | Advanced | 2.160 $ | 250.000 pro Workspace |
+| **NocoDB** | Plus | 1.296 $ | 50.000 | Business | 2.592 $ | 300.000 |
+| **Grist** | Pro | 960 $ | 100.000 pro Dokument | Business | 2.880 $ | 150.000 pro Dokument |
+| **SmartSuite** | Team | 1.800 $ | 5.000 pro Solution | Professional | 3.840 $ | 100.000 pro Solution |
+| **Notion** | Plus | 1.140 € | keine Angabe | Business | 2.340 € | keine Angabe |
+| **Microsoft Lists** | in Microsoft 365 enthalten (ab Business Basic) | – | 30 Mio. pro Liste | – | – | – |
+| **Google Sheets + AppSheet** | Workspace Business Starter | 816 € | 20 Mio. Zellen pro Tabelle | Business Standard (EU-Datenregion) | 1.632 € | 20 Mio. Zellen pro Tabelle |
+
+Zwei Besonderheiten: NocoDB berechnet in Plus und Business höchstens 9 Nutzer, jeder weitere ist kostenlos. Deshalb kosten 10 Nutzer hier so viel wie 9. Bei SmartSuite zahlen Sie nur für Nutzer, die Daten bearbeiten. Wer nur liest, kommentiert oder Formulare ausfüllt, ist kostenlos.
+
+Wer selbst hostet, zahlt bei Baserow, NocoDB und Grist für die Grundversion keine Lizenz, bei SeaTable für bis zu 3 Nutzer. Dafür kommen Kosten für Server und Betrieb hinzu.
+
+## Weitere Werkzeuge, die wir nicht aufgenommen haben
+
+In vielen Listen mit Airtable-Alternativen tauchen weitere Werkzeuge auf. Wir haben sie bewusst weggelassen, weil sie Airtable nur in Teilen ersetzen:
+
+- **Teable:** eine junge Open-Source-Alternative auf Basis von PostgreSQL. Interessant für technische Teams, aber noch nicht so ausgereift wie die Werkzeuge in unserem Vergleich. Wir beobachten die Entwicklung.
+- **Coda:** verbindet Dokumente mit Tabellen und Bausteinen für kleine Anwendungen. Ähnlich wie Notion eher ein Dokumentenwerkzeug als eine Datenbank.
+- **ClickUp, monday.com, Asana und Smartsheet:** Werkzeuge für Projekt- und Aufgabenmanagement. Sie eignen sich, wenn Sie Airtable vor allem für Projekte genutzt haben, aber nicht als allgemeine Datenbank.
+- **Zoho Creator:** eine Low-Code-Plattform für eigene Geschäftsanwendungen. Mächtig, aber deutlich näher an der Softwareentwicklung als Airtable.
+- **Microsoft Excel:** keine Datenbank, sondern eine Tabellenkalkulation. Den Unterschied erklären wir in den FAQ.
 
 ## Welche Airtable-Alternative passt zu Ihnen?
 
@@ -281,23 +320,41 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 
 ## FAQ
 
-**Ist Airtable DSGVO-konform?**
+{{< faq "Ist Airtable DSGVO-konform?" >}}
 Airtable bietet auf Anfrage einen Vertrag zur Auftragsverarbeitung mit EU-Standardvertragsklauseln an. Eine Datenhaltung in Europa gibt es nur im Tarif Enterprise Scale, Metadaten bleiben dabei in den USA. Als US-Unternehmen unterliegt Airtable dem CLOUD Act. Ob der Einsatz für Ihre Daten zulässig ist, muss Ihr Datenschutzbeauftragter im Einzelfall bewerten.
+{{< /faq >}}
 
-**Was ändert sich durch die Übernahme durch Bending Spoons?**
+{{< faq "Was ändert sich durch die Übernahme durch Bending Spoons?" >}}
 Die Übernahme wurde am 4. September 2026 abgeschlossen. Konkrete Änderungen an Preisen und Tarifen sind bisher nicht angekündigt.
+{{< /faq >}}
 
-**Gibt es eine kostenlose Airtable-Alternative?**
+{{< faq "Gibt es eine kostenlose Airtable-Alternative?" >}}
 Ja. SeaTable, Baserow, NocoDB, Grist und Notion haben kostenlose Tarife. Am großzügigsten sind SeaTable mit 10.000 Zeilen und 25 Nutzern und Grist mit 5.000 Datensätzen pro Dokument.
+{{< /faq >}}
 
-**Welche Airtable-Alternative ist Open Source?**
+{{< faq "Welche Airtable-Alternative ist Open Source?" >}}
 Baserow (Kern unter MIT-Lizenz) und Grist (Apache-2.0). NocoDB steht unter der Sustainable Use License, die keine Open-Source-Lizenz im engeren Sinn ist. SeaTable ist nicht Open Source, lässt sich aber kostenlos selbst hosten.
+{{< /faq >}}
 
-**Welche Airtable-Alternative kann man selbst hosten?**
+{{< faq "Welche Airtable-Alternative kann man selbst hosten?" >}}
 SeaTable, Baserow, NocoDB und Grist. Airtable selbst, SmartSuite, Notion und Google bieten keine Version zum Selbsthosten.
+{{< /faq >}}
 
-**Kann ich meine Airtable-Bases importieren?**
+{{< faq "Kann ich meine Airtable-Bases importieren?" >}}
 Bei SeaTable, Baserow, NocoDB, Grist und SmartSuite gibt es einen Import direkt aus Airtable. Formeln, Automationen und Interfaces müssen Sie bei allen neu anlegen.
+{{< /faq >}}
+
+{{< faq "Gibt es eine Airtable-Alternative von Google oder Microsoft?" >}}
+Keine direkte. Google hat sein Produkt Google Tables eingestellt und in AppSheet überführt. Am nächsten kommt die Kombination aus Google Sheets und AppSheet. Bei Microsoft ist es Microsoft Lists, für anspruchsvollere Anwendungen Power Apps mit Dataverse, das eine zusätzliche Lizenz erfordert. Beide Lösungen sind keine relationale Datenbank wie Airtable, lohnen sich aber, wenn Sie Google Workspace oder Microsoft 365 ohnehin nutzen. Mehr dazu in unserem Vergleich [SeaTable als Microsoft-Lists-Alternative]({{< relref "pages/landing-pages/alternatives/ms-list-alternative" >}}).
+{{< /faq >}}
+
+{{< faq "Welche Airtable-Alternative eignet sich als CRM?" >}}
+Für ein einfaches CRM eignen sich alle Werkzeuge mit verknüpften Tabellen: Kunden, Ansprechpartner, Angebote und Aufgaben lassen sich miteinander verbinden. SeaTable, Baserow und SmartSuite bringen dafür fertige Vorlagen mit. Wer Rechte auf Zeilenebene braucht, etwa damit jeder Vertriebsmitarbeiter nur seine eigenen Kunden sieht, sollte die Tabelle „Funktionen im Vergleich“ beachten. Für E-Mail-Marketing und Vertriebsautomatisierung im großen Stil ist ein spezialisiertes CRM die bessere Wahl. Mehr dazu in unserem Beitrag [No-Code CRM]({{< relref "posts/no-code-crm" >}}).
+{{< /faq >}}
+
+{{< faq "Was ist der Unterschied zwischen Airtable und Excel?" >}}
+Excel ist eine Tabellenkalkulation, Airtable eine relationale Datenbank mit der Oberfläche einer Tabelle. In Airtable und seinen Alternativen hat jede Spalte einen festen Typ, etwa Datum, Auswahl oder Datei, und Tabellen lassen sich miteinander verknüpfen. Dazu kommen Formulare, Ansichten, Berechtigungen und Automationen. Excel ist stärker bei Berechnungen und Auswertungen, wird aber unübersichtlich, sobald mehrere Personen gleichzeitig mit verknüpften Daten arbeiten. Mehr dazu in unserem Beitrag [Datenbanken: 5 Vorteile gegenüber einfachen Tabellen]({{< relref "posts/vorteile-von-datenbanken" >}}).
+{{< /faq >}}
 
 ## Fazit
 
