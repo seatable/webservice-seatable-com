@@ -279,8 +279,8 @@ This is what the tools cost per year for a team of 10 users with annual billing.
 | **Grist** | Pro | $960 | 100,000 per document | Business | $2,880 | 150,000 per document |
 | **SmartSuite** | Team | $1,800 | 5,000 per solution | Professional | $3,840 | 100,000 per solution |
 | **Notion** | Plus | €1,140 | not specified | Business | €2,340 | not specified |
-| **Microsoft Lists** | included in Microsoft 365 Business Basic, approx. €6.07 | approx. €730 | 30 million per list | – | – | – |
-| **Google Sheets + AppSheet** | Workspace Business Starter | €816 | 20 million cells per spreadsheet | Business Standard (EU data region) | €1,632 | 20 million cells per spreadsheet |
+
+Microsoft Lists and Google Sheets are not included in this table because they are part of Microsoft 365 and Google Workspace. If you already use these suites, they cost you nothing extra.
 
 Two special cases: on Plus and Business, NocoDB charges for at most 9 users; every additional user is free. That is why 10 users cost the same as 9 here. With SmartSuite, you only pay for users who edit data. Anyone who only reads, comments or fills out forms is free.
 
