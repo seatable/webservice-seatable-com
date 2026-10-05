@@ -55,4 +55,4 @@ Después de introducir el comando, se borran **todas las** entradas de la tabla 
 
 ## Resumen de los comandos SQL compatibles
 
-SeaTable no soporta todos, pero sí la mayoría de los comandos SQL. Para obtener una lista completa y más detalles, consulte el [Manual de programación de Sea](https://developer.seatable.com/scripts/)Table.
+SeaTable no soporta todos, pero sí la mayoría de los comandos SQL. Para obtener una lista completa y más detalles, consulte el [Manual de programación de Sea](https://developer.seatable.com/scripts/) Table.

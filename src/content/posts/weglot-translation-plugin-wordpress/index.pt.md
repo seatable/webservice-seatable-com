@@ -151,7 +151,7 @@ Weglot tenta redireccionar cada visitante para a tradução apropriada com base 
 
 **2) as ligações especiais do nosso tema não são suportadas**
 
-No SeaTable.io utilizamos o tema Enfold e, para além dos links no corpo do texto, também utilizamos caixas de links - por exemplo no nosso [Página de ajuda]({{< relref "help" >}})onde a caixa inteira serve de ligação. Infelizmente, esta caixa de ligação não é reconhecida como uma ligação por Weglot e os utilizadores são sempre redireccionados de volta à língua original. Conseguimos alterar este comportamento adicionando um _Action in der functions.php beheben._
+No SeaTable.io utilizamos o tema Enfold e, para além dos links no corpo do texto, também utilizamos caixas de links - por exemplo no nosso [Página de ajuda]({{< relref "help" >}}) onde a caixa inteira serve de ligação. Infelizmente, esta caixa de ligação não é reconhecida como uma ligação por Weglot e os utilizadores são sempre redireccionados de volta à língua original. Conseguimos alterar este comportamento adicionando um _Action in der functions.php beheben._
 
 ![Weglot teve problemas com as caixas de ligação](weglot-boxen-als-links.png)
 

@@ -151,7 +151,7 @@ Weglot intenta redirigir a cada visitante a la traducción adecuada en función 
 
 **2) los enlaces especiales de nuestro tema no son compatibles**
 
-En SeaTable.io utilizamos el tema Enfold y, además de los enlaces en el cuerpo del texto, también utilizamos cuadros de enlace, por ejemplo en nuestro [Página de ayuda]({{< relref "help" >}})donde toda la caja sirve de enlace. Lamentablemente, este cuadro de enlace no es reconocido como un enlace por Weglot y los usuarios siempre son redirigidos al idioma original. Hemos podido cambiar este comportamiento añadiendo un _Action in der functions.php beheben._
+En SeaTable.io utilizamos el tema Enfold y, además de los enlaces en el cuerpo del texto, también utilizamos cuadros de enlace, por ejemplo en nuestro [Página de ayuda]({{< relref "help" >}}) donde toda la caja sirve de enlace. Lamentablemente, este cuadro de enlace no es reconocido como un enlace por Weglot y los usuarios siempre son redirigidos al idioma original. Hemos podido cambiar este comportamiento añadiendo un _Action in der functions.php beheben._
 
 ![Weglot tenía problemas con las cajas de enlace](weglot-boxen-als-links.png)
 

@@ -29,4 +29,4 @@ La vista de Kanban le muestra todos los miembros, así como los cursos y eventos
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. nuestra [sección de ayuda]({{< relref "help" >}})ofrece respuestas a cualquier pregunta que pueda tener.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. nuestra [sección de ayuda]({{< relref "help" >}}) ofrece respuestas a cualquier pregunta que pueda tener.

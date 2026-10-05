@@ -91,7 +91,7 @@ Pflegende Angehörige sollten einige Regeln beachten, wenn Sie ein Tagebuch füh
     
 *   Erfassen Sie unabhängig von einzelnen Handlungen täglich die Stimmung der pflegebedürftigen Person, um dem Gutachter weiteren Kontext geben zu können.    
 
-Orienteren Sie sich bei der Struktur Ihres Pflegeprotokolls am besten an den Lebensbereichen, die für das Gutachten relevant sind. Erfassen Sie zusätzlich **die hauswirtschaftliche Versorgung** – Einkaufen, Kochen, Putzen. Damit vermitteln Sie dem Gutacher ein vollständigeres Bild der Pflegesituation, auch wenn die hauswirtschaftliche Versorgung nicht in die eigentliche Bewertung einfließt. **Vitalwerte**, ein persönlicher [Medikamentenplan]({{< relref "posts/medikamentenplan" >}}) oder ein [Ernährungsprotokoll]({{< relref "posts/ernaehrungstagebuch" >}})können je nach Situation ebenfalls sinnvolle Bestandteile des Pflegetagebuchs sein.
+Orienteren Sie sich bei der Struktur Ihres Pflegeprotokolls am besten an den Lebensbereichen, die für das Gutachten relevant sind. Erfassen Sie zusätzlich **die hauswirtschaftliche Versorgung** – Einkaufen, Kochen, Putzen. Damit vermitteln Sie dem Gutacher ein vollständigeres Bild der Pflegesituation, auch wenn die hauswirtschaftliche Versorgung nicht in die eigentliche Bewertung einfließt. **Vitalwerte**, ein persönlicher [Medikamentenplan]({{< relref "posts/medikamentenplan" >}}) oder ein [Ernährungsprotokoll]({{< relref "posts/ernaehrungstagebuch" >}}) können je nach Situation ebenfalls sinnvolle Bestandteile des Pflegetagebuchs sein.
 
 ### Zeitaufwand und Hilfebedarf exakt erfassen
 

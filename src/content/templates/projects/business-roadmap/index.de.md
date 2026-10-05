@@ -21,4 +21,4 @@ Mehr dazu, wie Sie eine Roadmap erstellen, können Sie in unseremBlogbeitragnach
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Sollten Sie Fragen haben, raten wir Ihnen, unseren [Hilfebereich]({{< relref "help" >}})zu nutzen.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Sollten Sie Fragen haben, raten wir Ihnen, unseren [Hilfebereich]({{< relref "help" >}}) zu nutzen.

@@ -108,7 +108,7 @@ sections:
       items:
           - text: Ein entscheidender Vorteil von SeaTable ist die Möglichkeit zur Zusammenarbeit in Echtzeit. In vielen Unternehmen führen verzögerte Workflows zu ineffizienten Prozessen und verpassten Chancen. Mit SeaTable können Teams gleichzeitig und ortsunabhängig an Workflows arbeiten. Alle Änderungen werden in Echtzeit synchronisiert, sodass jeder Mitarbeiter immer auf dem neuesten Stand ist. 
 
-          - text: Wie Sie die Zusammenarbeit im Team mit SeaTable optimal gestalten, erfahren Sie in unserem [Online-Kurs 3](https://seatable.com/help/online-course-3/)anhand praktischer Anwendungsbeispiele.
+          - text: Wie Sie die Zusammenarbeit im Team mit SeaTable optimal gestalten, erfahren Sie in unserem [Online-Kurs 3](https://seatable.com/help/online-course-3/) anhand praktischer Anwendungsbeispiele.
       image: /images/landing-page-individuell-02.png
       image_position: left
       image_alt: 'SeaTable Workflowmanagement Ansicht für Echtzeit-Zusammenarbeit im Team'
