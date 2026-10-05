@@ -122,7 +122,7 @@ sections:
           - key: 'Enterprise admin panel'
             values: ['-', '-', '-', '+']
           - key: 'Authentication via AD/LDAP, SAML or OAuth'
-            values: ['-', '-', '-', '+']
+            values: ['-', '-', '+', '+']
           - type: section
             label: 'Billing'
           - key: 'Payment by credit card'
