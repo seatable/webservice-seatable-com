@@ -41,12 +41,12 @@ seo:
 
 ## Die 8 Airtable-Alternativen im Überblick
 
-| Tool | Am besten für | Kostenlos | Preis ab (pro Nutzer/Monat, jährlich) | Anbieter und Hosting | Selbst hosten | Import aus Airtable |
+| Tool | Am besten für | Kostenlos in der Cloud | Preis ab (pro Nutzer/Monat, jährlich) | Anbieter und Hosting | Selbst hosten | Import aus Airtable |
 |---|---|---|---|---|---|---|
 | **SeaTable** | Unternehmen und Behörden mit DSGVO-Anforderungen | ja, 10.000 Zeilen, 25 Nutzer | 7 € | Deutschland, Server in Frankfurt und München | ja, Enterprise bis 3 Nutzer kostenlos | ja |
-| **Baserow** | Open Source zum Selbsthosten | ja, 3.000 Zeilen | 10 $ | Niederlande, Server in Deutschland | ja, Kern unter MIT-Lizenz | ja |
-| **NocoDB** | Oberfläche auf bestehende SQL-Datenbanken | ja, 1.000 Datensätze | 12 $ | USA, Cloud bei AWS | ja, Sustainable Use License | ja |
-| **Grist** | Tabellen mit Python-Formeln | ja, 5.000 Datensätze pro Dokument | 8 $ | USA, Cloud bei AWS in den USA | ja, Apache-2.0 | ja |
+| **Baserow** | Open Source zum Selbsthosten | ja, 3.000 Zeilen | 10 $ | Niederlande, Server in Deutschland | ja, ohne Zeilenlimit, Kern unter MIT-Lizenz | ja |
+| **NocoDB** | Oberfläche auf bestehende SQL-Datenbanken | ja, 1.000 Datensätze | 12 $ | USA, Cloud bei AWS | ja, ohne Zeilenlimit, Sustainable Use License | ja |
+| **Grist** | Tabellen mit Python-Formeln | ja, 5.000 Datensätze pro Dokument | 8 $ | USA, Cloud bei AWS in den USA | ja, ohne Zeilenlimit, Apache-2.0 | ja |
 | **SmartSuite** | Nähe zu Airtable, viele Branchenvorlagen | nein, 14 Tage Test | 15 $ (mind. 3 Nutzer) | USA, EU-Region verfügbar | nein | ja |
 | **Notion** | Dokumente und einfache Datenbanken | ja, eingeschränkt | 9,50 € | USA, EU-Region nur Enterprise | nein | nein, nur CSV |
 | **Microsoft Lists** | Organisationen mit Microsoft 365 | ja, für private Konten | in Microsoft 365 enthalten | USA, EU Data Boundary | nur über SharePoint Server | nein, nur Excel/CSV |
@@ -257,7 +257,7 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 | Selbst hosten | ✅ | ✅ | ✅ | ✅ | – | – | über SharePoint Server | – |
 | Kostenlose Version | ✅ | ✅ | ✅ | ✅ | – | ✅ | ✅ | ✅ |
 | Import aus Airtable | ✅ | ✅ | ✅ | ✅ | ✅ | – | – | – |
-| Python | ✅ | – | – | ✅ | – | – | – | – |
+| Python-Skripte oder -Formeln in der Base | ✅ | – | – | ✅ | – | – | – | – |
 | KI baut Tabellen und Felder | mit Version 7.0 | ✅ | ab Plus | ✅ | ✅ | ab Business | mit Copilot-Lizenz | über AppSheet |
 | Apps und Interfaces | ✅ App Builder | ✅ Application Builder | ab Plus | Seiten mit Widgets | Dashboards | – | über Power Apps | ✅ AppSheet |
 | Automationen | ✅ | ✅ | ✅ | ab Business | ✅ | ab Plus | über Power Automate | über AppSheet |
@@ -265,8 +265,6 @@ Google Sheets ist eine Tabellenkalkulation, AppSheet baut daraus Apps ohne Code.
 | Single Sign-on (SAML) | ab Enterprise | ab Advanced | ab Business | nur Enterprise | nur Enterprise | ab Business | ✅ | ✅ |
 
 In den Zeilen zu Apps, Automationen, Rechten und Single Sign-on bedeutet ✅: in allen Tarifen enthalten. Sonst nennen wir den Tarif, ab dem es die Funktion gibt.
-
-[PRÜFEN: Python bei Baserow: Gibt es im Code-Knoten der Automationen Python?]
 
 ## Kosten im Vergleich: ein Team mit 10 Nutzern
 
