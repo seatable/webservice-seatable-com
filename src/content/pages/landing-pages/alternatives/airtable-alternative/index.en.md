@@ -95,7 +95,7 @@ sections:
           - curved
       title: The most compelling Airtable alternative for your business
       subtitle: Good, better, SeaTable
-      description: 'There are many alternatives to Airtable. You will find an overview in our comparison of the [best Airtable alternatives in 2026]({{< relref "posts/airtable-alternativen" >}}). The [AI-powered no-code solution SeaTable]({{< relref "/" >}}) stands out with a **clear focus on flexibility and data protection**. If you have already [gained experience with Airtable]({{< relref "posts/airtable" >}}), you will quickly notice the difference. For companies and public authorities in the EU, one thing matters most: Airtable is a US company and does not offer a self-hosted version.'
+      description: 'There are many alternatives to Airtable. The [AI-powered no-code solution SeaTable]({{< relref "/" >}}) stands out with a **clear focus on flexibility and data protection**. If you have already [gained experience with Airtable]({{< relref "posts/airtable" >}}), you will quickly notice the difference. For companies and public authorities in the EU, one thing matters most: Airtable is a US company and does not offer a self-hosted version.'
       items:
           - text: '**True team collaboration** thanks to real-time updates, built-in notifications and a chat feature'
           - text: '**Flexible, customizable data structures** and processes tailored to your needs'

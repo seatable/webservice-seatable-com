@@ -320,7 +320,7 @@ Many lists of Airtable alternatives include other tools. We deliberately left th
 ## FAQ
 
 {{< faq "Is Airtable GDPR compliant?" >}}
-Airtable offers a data processing agreement with EU standard contractual clauses on request. Data residency in Europe is only available on the Enterprise Scale plan, and metadata remains in the US. As a US company, Airtable is subject to the CLOUD Act. Whether its use is permissible for your data must be assessed case by case by your data protection officer.
+There is no blanket answer. Airtable is a US company and subject to the CLOUD Act. EU data residency is only available on the Enterprise Scale plan, and metadata remains in the US. Whether its use is permissible for your data must be assessed by your data protection officer.
 {{< /faq >}}
 
 {{< faq "What changes with the acquisition by Bending Spoons?" >}}

@@ -320,7 +320,7 @@ In vielen Listen mit Airtable-Alternativen tauchen weitere Werkzeuge auf. Wir ha
 ## FAQ
 
 {{< faq "Ist Airtable DSGVO-konform?" >}}
-Airtable bietet auf Anfrage einen Vertrag zur Auftragsverarbeitung mit EU-Standardvertragsklauseln an. Eine Datenhaltung in Europa gibt es nur im Tarif Enterprise Scale, Metadaten bleiben dabei in den USA. Als US-Unternehmen unterliegt Airtable dem CLOUD Act. Ob der Einsatz für Ihre Daten zulässig ist, muss Ihr Datenschutzbeauftragter im Einzelfall bewerten.
+Das lässt sich nicht pauschal beantworten. Airtable ist ein US-Unternehmen und unterliegt dem CLOUD Act. Eine Datenhaltung in der EU gibt es nur im Tarif Enterprise Scale, und Metadaten bleiben in den USA. Ob der Einsatz für Ihre Daten zulässig ist, muss Ihr Datenschutzbeauftragter bewerten.
 {{< /faq >}}
 
 {{< faq "Was ändert sich durch die Übernahme durch Bending Spoons?" >}}
