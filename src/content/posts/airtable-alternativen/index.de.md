@@ -282,6 +282,12 @@ So viel kosten die Werkzeuge im Jahr für ein Team mit 10 Nutzern bei jährliche
 
 Microsoft Lists und Google Sheets fehlen in dieser Tabelle, weil sie Teil von Microsoft 365 bzw. Google Workspace sind. Wer diese Pakete bereits nutzt, zahlt für sie nichts zusätzlich.
 
+{{< warning headline="Kostenfalle: Abrechnung pro Workspace" >}}
+Bei Airtable (Tarif Team), Baserow, NocoDB und Notion gilt ein Abo immer für einen einzelnen Workspace. Wer in mehreren Workspaces mitarbeitet, wird in jedem davon als Nutzer berechnet. Arbeiten zum Beispiel dieselben 10 Personen in zwei Workspaces, zahlen Sie für 20 Plätze statt für 10.
+
+Planen Sie deshalb vor dem Kauf, wie viele Workspaces Sie brauchen, und bündeln Sie Ihre Bases nach Möglichkeit in einem. Bei Airtable entfällt die Doppelberechnung erst ab dem Tarif Business ([Airtable](https://support.airtable.com/docs/billing-overview-and-faqs), [Baserow](https://baserow.io/user-docs/subscriptions-overview), [Notion](https://www.notion.com/help/billing)).
+{{< /warning >}}
+
 Zwei Besonderheiten: NocoDB berechnet in Plus und Business höchstens 9 Nutzer, jeder weitere ist kostenlos. Deshalb kosten 10 Nutzer hier so viel wie 9. Bei SmartSuite zahlen Sie nur für Nutzer, die Daten bearbeiten. Wer nur liest, kommentiert oder Formulare ausfüllt, ist kostenlos.
 
 Wer selbst hostet, zahlt bei Baserow, NocoDB und Grist für die Grundversion keine Lizenz, bei SeaTable für bis zu 3 Nutzer. Dafür kommen Kosten für Server und Betrieb hinzu.

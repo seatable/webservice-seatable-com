@@ -282,6 +282,12 @@ This is what the tools cost per year for a team of 10 users with annual billing.
 
 Microsoft Lists and Google Sheets are not included in this table because they are part of Microsoft 365 and Google Workspace. If you already use these suites, they cost you nothing extra.
 
+{{< warning headline="Cost trap: billing per workspace" >}}
+With Airtable (Team plan), Baserow, NocoDB and Notion, a subscription always applies to a single workspace. Anyone who works in several workspaces is billed as a user in each of them. If, for example, the same 10 people work in two workspaces, you pay for 20 seats instead of 10.
+
+So plan how many workspaces you need before you buy, and consolidate your bases in one workspace where possible. With Airtable, the double billing only goes away from the Business plan upwards ([Airtable](https://support.airtable.com/docs/billing-overview-and-faqs), [Baserow](https://baserow.io/user-docs/subscriptions-overview), [Notion](https://www.notion.com/help/billing)).
+{{< /warning >}}
+
 Two special cases: on Plus and Business, NocoDB charges for at most 9 users; every additional user is free. That is why 10 users cost the same as 9 here. With SmartSuite, you only pay for users who edit data. Anyone who only reads, comments or fills out forms is free.
 
 If you self-host, Baserow, NocoDB and Grist charge no license fee for the basic version, SeaTable for up to 3 users. Server and operating costs come on top.
