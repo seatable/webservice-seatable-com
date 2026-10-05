@@ -18,7 +18,7 @@ seo:
 
 **Stand: 5. Oktober 2026.** Alle Preise und Limits haben wir zuletzt am 5. Oktober 2026 auf den offiziellen Seiten der Anbieter geprüft.
 
-> **Offenlegung:** Dieser Vergleich stammt von SeaTable. SeaTable steht deshalb auf Platz 1. Die anderen Werkzeuge haben wir nach denselben Kriterien verglichen und beschreiben ehrlich, wann sie die bessere Wahl sind – auch gegenüber SeaTable.
+> **Über diesen Vergleich:** Wir sind der Hersteller von SeaTable und kennen den Markt für No-Code-Datenbanken aus erster Hand. Unser Schwerpunkt sind Teams in Europa: Hosting, DSGVO, Self-Hosting und Kosten. Nach diesen Kriterien liegt SeaTable vorn. Wo andere Werkzeuge besser sind, sagen wir es in jedem Abschnitt.
 
 ## Kurz gesagt
 
