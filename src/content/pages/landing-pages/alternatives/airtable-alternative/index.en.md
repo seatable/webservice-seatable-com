@@ -56,7 +56,7 @@ sections:
           - curved
       title: The most compelling Airtable alternative for your business
       subtitle: Good, better, SeaTable
-      description: 'There are many alternatives to Airtable. The [AI-powered no-code solution SeaTable]({{< relref "/" >}}) stands out with a very **clear focus on flexibility, customer satisfaction, and high data protection standards**. If you’ve already [gained experience with Airtable]({{< relref "posts/airtable" >}}), you’ll quickly notice the difference. And for companies based in the EU, SeaTable is the most secure Airtable alternative, since Airtable cannot fully comply with the GDPR.'
+      description: 'There are many alternatives to Airtable. The [AI-powered no-code solution SeaTable]({{< relref "/" >}}) stands out with a very **clear focus on flexibility, customer satisfaction, and high data protection standards**. If you’ve already [gained experience with Airtable]({{< relref "posts/airtable" >}}), you’ll quickly notice the difference. And for companies based in the EU, SeaTable is the most secure Airtable alternative, since Airtable cannot fully comply with the GDPR. How SeaTable, Baserow, NocoDB, Grist and other tools compare in detail is shown in our [comparison of the 8 best Airtable alternatives]({{< relref "posts/airtable-alternativen" >}}).'
       items:
           - text: '**True team collaboration** thanks to real-time updates, built-in notifications, and a chat feature'
           - text: '**Flexible, customizable data structures** and processes tailored to your needs'
