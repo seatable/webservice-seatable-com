@@ -21,6 +21,6 @@ Con SeaTable tendrá un formulario de contacto y un sistema de tickets en uno: n
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. nuestra [sección de ayuda]({{< relref "help" >}})también le ofrece asistencia e instrucciones completas.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. nuestra [sección de ayuda]({{< relref "help" >}}) también le ofrece asistencia e instrucciones completas.
 
 ​

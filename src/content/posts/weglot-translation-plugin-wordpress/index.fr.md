@@ -151,7 +151,7 @@ Weglot essaie de rediriger chaque visiteur vers la traduction qui lui convient e
 
 **2) les liens spéciaux de notre thème ne sont pas pris en charge**
 
-Sur SeaTable.io, nous utilisons le thème Enfold et, en plus des liens dans le corps du texte, nous utilisons également des boîtes de liens - par exemple sur notre site web. [Page d'aide]({{< relref "help" >}})où la boîte entière sert de lien. Malheureusement, cette boîte de lien n'est pas reconnue comme un lien par Weglot et les utilisateurs sont toujours redirigés vers la langue d'origine. Nous avons pu remédier à ce comportement en ajoutant une _Action in der functions.php beheben._
+Sur SeaTable.io, nous utilisons le thème Enfold et, en plus des liens dans le corps du texte, nous utilisons également des boîtes de liens - par exemple sur notre site web. [Page d'aide]({{< relref "help" >}}) où la boîte entière sert de lien. Malheureusement, cette boîte de lien n'est pas reconnue comme un lien par Weglot et les utilisateurs sont toujours redirigés vers la langue d'origine. Nous avons pu remédier à ce comportement en ajoutant une _Action in der functions.php beheben._
 
 ![Weglot a eu des problèmes avec les boîtes de lien](weglot-boxen-als-links.png)
 
