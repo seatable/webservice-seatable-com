@@ -195,23 +195,35 @@
 }
 
 /* tabellen */
+/* the wrapper (render-table.html) scrolls wide tables horizontally */
+.post-content .table-wrapper {
+    @apply my-8 overflow-x-auto rounded-xl shadow-lg;
+}
 .post-content table {
-    @apply my-8 w-full overflow-hidden rounded-xl text-left text-sm text-gray-500 shadow-lg;
+    @apply w-full text-left text-sm text-gray-500;
 }
 .post-content thead {
     @apply border-b-2 border-gray-400 font-poppins text-sm uppercase text-gray-700;
 }
 .post-content thead th {
-    @apply border-r bg-gray-50 px-6 py-3;
+    @apply border-r bg-gray-50 px-3 py-3 sm:px-6;
 }
 .post-content tbody tr {
     @apply border-b border-gray-200 bg-white hover:bg-gray-100;
 }
 .post-content tbody td {
-    @apply border-r px-6 py-4;
+    @apply border-r px-3 py-4 sm:px-6;
+}
+/* first column stays visible while scrolling wide tables horizontally */
+.post-content thead th:first-child,
+.post-content tbody td:first-child {
+    @apply sticky left-0 z-10;
+}
+.post-content tbody td:first-child {
+    background-color: inherit;
 }
 .post-content tbody strong {
-    @apply whitespace-nowrap text-gray-900;
+    @apply text-gray-900 sm:whitespace-nowrap;
 }
 
 /* Inline code styling (not inside code blocks) */
