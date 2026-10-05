@@ -86,7 +86,7 @@ SeaTable ist eine No-Code-Datenbank der SeaTable GmbH aus Mainz. Die Oberfläche
 
 **Für wen SeaTable nicht geeignet ist:** Teams, die KI vor allem zum Aufbau ihrer Datenbanken und Apps nutzen wollen, und Unternehmen, die vertraglich zugesicherte Reaktionszeiten brauchen.
 
-**Umstieg von Airtable:** Beim Anlegen einer Base „Von Airtable importieren“ wählen, Base-ID und Personal Access Token eingeben. Übernommen werden alle Tabellen, alle Zeilen einschließlich Anhängen, alle Spalten außer Button, Count, Lookup und Rollup sowie die Ansichten. Formeln müssen Sie neu anlegen. Für mehr Kontrolle gibt es ein [Migrationsskript]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
+**Umstieg von Airtable:** Beim Anlegen einer Base „Von Airtable importieren“ wählen, Base-ID und Personal Access Token eingeben. Übernommen werden alle Tabellen, alle Zeilen einschließlich Anhängen, alle Spalten außer Button, Count, Lookup und Rollup sowie die Ansichten. Formelspalten werden mit der ursprünglichen Airtable-Formel als Platzhalter angelegt. Die Formel selbst übertragen Sie in die SeaTable-Syntax. Für mehr Kontrolle gibt es ein [Migrationsskript]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 **Preis:** Free kostenlos (10.000 Zeilen, 25 Nutzer), Plus 7 €, Enterprise 14 € pro Nutzer und Monat bei jährlicher Zahlung. Alle Details auf der [Preisseite]({{< relref "pages/prices" >}}).
 
