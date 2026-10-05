@@ -25,7 +25,7 @@ seo:
 - **Beste Airtable-Alternative für Unternehmen und Behörden mit DSGVO-Anforderungen:** SeaTable. Anbieter aus Mainz, Server in Deutschland, auch auf eigenen Servern betreibbar.
 - **Beste Open-Source-Alternative zum Selbsthosten:** Baserow (MIT-Lizenz) oder Grist (Apache-2.0).
 - **Beste Oberfläche für eine bestehende SQL-Datenbank:** NocoDB.
-- **Am nächsten an Airtable, ohne Self-Hosting:** SmartSuite.
+- **Viele Branchenvorlagen und Projektmanagement in einem Werkzeug:** SmartSuite.
 - **Wenn Dokumente im Mittelpunkt stehen:** Notion.
 - **Wenn Microsoft 365 oder Google Workspace schon im Einsatz ist:** Microsoft Lists bzw. Google Sheets mit AppSheet.
 
@@ -47,7 +47,7 @@ seo:
 | **Baserow** | Open Source zum Selbsthosten | ja, 3.000 Zeilen | 10 $ | Niederlande, Server in Deutschland | ja, ohne Zeilenlimit, Kern unter MIT-Lizenz | ja |
 | **NocoDB** | Oberfläche auf bestehende SQL-Datenbanken | ja, 1.000 Datensätze | 12 $ | USA, Cloud bei AWS | ja, ohne Zeilenlimit, Sustainable Use License | ja |
 | **Grist** | Tabellen mit Python-Formeln | ja, 5.000 Datensätze pro Dokument | 8 $ | USA, Cloud bei AWS in den USA | ja, ohne Lizenzlimits, Apache-2.0 | ja |
-| **SmartSuite** | Nähe zu Airtable, viele Branchenvorlagen | nein, 14 Tage Test | 15 $ (mind. 3 Nutzer) | USA, EU-Region verfügbar | nein | ja |
+| **SmartSuite** | Viele Branchenvorlagen, Projektmanagement | nein, 14 Tage Test | 15 $ (mind. 3 Nutzer) | USA, EU-Region verfügbar | nein | ja |
 | **Notion** | Dokumente und einfache Datenbanken | ja, eingeschränkt | 9,50 € | USA, EU-Region nur Enterprise | nein | nein, nur CSV |
 | **Microsoft Lists** | Organisationen mit Microsoft 365 | ja, für private Konten | in Microsoft 365 enthalten (ab ca. 6,07 €) | USA, EU Data Boundary | nur über SharePoint Server | nein, nur Excel/CSV |
 | **Google Sheets + AppSheet** | Organisationen mit Google Workspace | ja, AppSheet für Prototypen | in Google Workspace enthalten (ab 6,80 €) | USA, Datenregion EU ab Business Standard | nein | nein, nur CSV |
@@ -67,7 +67,7 @@ Wir haben alle acht Werkzeuge anhand der offiziellen Preisseiten, Dokumentatione
 
 ![SeaTable als Airtable-Alternative: SeaTable und Airtable im Vergleich](seatable-vs-airtable.jpg)
 
-SeaTable ist eine No-Code-Datenbank der SeaTable GmbH aus Mainz. Die Oberfläche ähnelt Airtable, die Cloud läuft in Rechenzentren in Deutschland, und wer will, betreibt SeaTable auf eigenen Servern. Zu den Nutzern gehören die Bundeswehr, die Humboldt-Universität zu Berlin, die Max-Planck-Gesellschaft und die französische Evaluationsbehörde Hcéres.
+SeaTable ist eine No-Code-Datenbank der SeaTable GmbH aus Mainz. Bases, Tabellen, Ansichten und Spaltentypen funktionieren wie in Airtable, sodass sich Airtable-Nutzer sofort zurechtfinden. Die Cloud läuft in Rechenzentren in Deutschland, und wer will, betreibt SeaTable auf eigenen Servern. Zu den Nutzern gehören die Bundeswehr, die Humboldt-Universität zu Berlin, die Max-Planck-Gesellschaft und die französische Evaluationsbehörde Hcéres.
 
 **Am besten für:** Unternehmen, Hochschulen und Behörden, die eine Datenbank wie Airtable suchen, ihre Daten aber in Deutschland oder auf eigenen Servern halten müssen.
 
@@ -159,11 +159,11 @@ Grist verbindet eine Tabellenkalkulation mit einer relationalen Datenbank. Anbie
 
 **Fazit:** Selbst gehostet eine sehr gute Wahl, in der Cloud eher nicht für personenbezogene Daten aus der EU.
 
-## 5. SmartSuite – nah an Airtable, mit EU-Region
+## 5. SmartSuite – Arbeitsplattform mit vielen Branchenvorlagen
 
 SmartSuite ist eine Arbeitsplattform mit Datenbank, Projektmanagement und vielen Branchenvorlagen. Anbieter ist die SmartSuite Holdings, Inc. aus Kalifornien.
 
-**Am besten für:** Teams, die Airtable ähnlich weiterarbeiten wollen und fertige Vorlagen für ihre Branche suchen.
+**Am besten für:** Teams, die Datenbank und Projektmanagement verbinden und fertige Vorlagen für ihre Branche suchen.
 
 **Wo SmartSuite Airtable schlägt:**
 - Professional kostet 32 $ für 100.000 Datensätze, Airtable Business 45 $ für 125.000.
@@ -179,7 +179,7 @@ SmartSuite ist eine Arbeitsplattform mit Datenbank, Projektmanagement und vielen
 
 **Preis:** Team 15 $, Professional 32 $ pro Nutzer und Monat bei jährlicher Zahlung ([Preise](https://www.smartsuite.com/pricing)).
 
-**Fazit:** Der vertrauteste Umstieg für Airtable-Teams, aber ebenfalls ein US-Anbieter ohne Self-Hosting.
+**Fazit:** Stark bei Vorlagen und Projektarbeit, aber ebenfalls ein US-Anbieter ohne Self-Hosting.
 
 ## 6. Notion – Dokumente und Datenbanken in einem
 
@@ -303,7 +303,8 @@ In vielen Listen mit Airtable-Alternativen tauchen weitere Werkzeuge auf. Wir ha
 - **Sie müssen selbst hosten und wollen ein fertiges Produkt mit Support:** SeaTable Server.
 - **Sie müssen selbst hosten, und die Software muss Open Source sein:** Baserow oder Grist.
 - **Sie wollen eine bestehende SQL-Datenbank bedienbar machen:** NocoDB.
-- **Sie wollen möglichst wenig umlernen und brauchen kein Self-Hosting:** SmartSuite.
+- **Sie wollen möglichst wenig umlernen:** SeaTable, Baserow oder NocoDB. Ihre Oberflächen sind eng an Airtable angelehnt.
+- **Sie suchen fertige Branchenvorlagen und Projektmanagement in einem Werkzeug:** SmartSuite.
 - **Bei Ihnen stehen Dokumente im Mittelpunkt:** Notion.
 - **Sie nutzen Microsoft 365 oder Google Workspace und haben einfache Listen:** Microsoft Lists oder Google Sheets.
 - **Sie nutzen KI vor allem, um Datenbanken und Apps zu bauen:** Hier ist Airtable selbst derzeit am stärksten.
