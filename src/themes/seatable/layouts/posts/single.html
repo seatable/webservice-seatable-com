@@ -14,7 +14,7 @@
                         {{ $textColor := index $colorMap (default "neutral" .Params.color) }}
                         <h1 class="xl:text-56 {{ $textColor }} mt-0 pt-8 text-left text-3xl font-extrabold leading-narrow md:text-4xl">{{ .Title | emojify }}</h1>
                         <p class="mt-4 text-xl leading-normal">{{ .Description }}</p>
-                        <p class="mt-8">{{ .Date.Format .Site.Params.dateFormat }}</p>
+                        <p class="mt-8">{{ .Date.Format .Site.Params.dateFormat }}{{ with partial "author-data.html" . }} · {{ T "article.written_by" }} {{ .name }}{{ end }}</p>
                     </div>
                     <div class="w-9/12 self-center lg:w-2/5">
                         {{ $images := .Resources.ByType "image" }}
@@ -36,6 +36,8 @@
                 <!-- max width of the blog posts is 768px -> image optimization -->
                 <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4 print:block print:w-full">
                     {{ partial "content-body.html" .Content }}
+
+                    {{ partial "author-box.html" . }}
 
 
                     <div class="mt-12 border-t border-gray-300"></div>

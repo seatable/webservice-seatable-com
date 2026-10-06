@@ -25,7 +25,7 @@ También puede utilizar el **portapapeles** de su ordenador para transferir ráp
 
 ## Importación de datos
 
-SeaTable tiene una potente función de importación de datos que le permite capturar datos de **archivos** **Excel** y **CSV** de diferentes maneras. Si se pregunta [qué formatos de importación admite Sea]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})Table, lea los artículos de ayuda correspondientes.
+SeaTable tiene una potente función de importación de datos que le permite capturar datos de **archivos** **Excel** y **CSV** de diferentes maneras. Si se pregunta [qué formatos de importación admite Sea]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}) Table, lea los artículos de ayuda correspondientes.
 
 ## Formularios web
 

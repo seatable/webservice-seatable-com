@@ -21,4 +21,4 @@ Visit ourblog articleto find out how digital contact tracing can be hygienic, fl
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}})is the best place to go.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}}) is the best place to go.

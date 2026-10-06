@@ -148,7 +148,7 @@ sections:
             text: 'Simply register and get started: SeaTable Cloud is ready to use immediately. Set up SeaTable the way you need it - without needing your IT.'
             icon: code
           - headline: 'Statistics and dashboards'
-            text: Analyze all your [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}})directly in SeaTable. With meaningful statistics and reports, you can continuously optimize your applicant management.
+            text: Analyze all your [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) directly in SeaTable. With meaningful statistics and reports, you can continuously optimize your applicant management.
             icon: chart-line
 
     - name: 'banner-2'

@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Inhaltsverzeichnis'
+    written_by: 'Von'
+    about_author: 'Über den Autor'
+    author_profile: 'Profil'
 
 legal:
     version: 'Version'

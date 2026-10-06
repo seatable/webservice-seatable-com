@@ -19,11 +19,26 @@
       "@type": "WebPage",
       "@id": {{ .Permalink | plainify }}
     },
+    {{ with partial "author-data.html" . -}}
+    "author": {
+      "@type": "Person",
+      "name": {{ .name }},
+      {{ with .role }}"jobTitle": {{ . }},{{ end }}
+      {{ with .image }}"image": {{ absURL . }},{{ end }}
+      {{ with .sameAs }}"sameAs": {{ . | jsonify | safeJS }},{{ end }}
+      "worksFor": {
+        "@type": "Organization",
+        "name": "SeaTable",
+        "url": {{ site.BaseURL | plainify }}
+      }
+    },
+    {{- else }}
     "author": {
       "@type": "Organization",
       "name": "SeaTable",
       "url": {{ .Site.BaseURL | plainify }}
     },
+    {{- end }}
     "publisher": {
       "@type": "Organization",
       "name": "SeaTable",

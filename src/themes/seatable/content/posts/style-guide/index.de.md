@@ -5,6 +5,7 @@ draft: true
 date: 2026-03-03
 url: '/de/style-guide'
 color: '#eef0f2'
+author: 'cdb'
 
 #register: 'hide'
 register:
@@ -102,6 +103,33 @@ Mit Markdown können auch Tabellen geschrieben werden.
 | **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software                    |
 | **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer                      |
 | **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | {{< icon "circle-check" >}} |
+
+### Breite Tabellen und fixierte Spalten
+
+Jede Tabelle steckt automatisch in einem Rahmen, der horizontal scrollt, wenn sie breiter als die Textspalte ist. Die **erste Spalte bleibt beim Scrollen immer stehen**, damit man die Zeilenbeschriftung nicht verliert. Dafür muss man nichts tun.
+
+Soll zusätzlich die **zweite Spalte** stehen bleiben, etwa SeaTable in einer Vergleichstabelle, schreibt man direkt unter die Tabelle (ohne Leerzeile) `{.sticky-2}`:
+
+```
+| | SeaTable | Baserow | NocoDB | Grist | SmartSuite | Notion | Microsoft Lists |
+|---|---|---|---|---|---|---|---|
+| Selbst hosten | ✅ | ✅ | ✅ | ✅ | – | – | über SharePoint Server |
+| Import aus Airtable | ✅ | ✅ | ✅ | ✅ | ✅ | – | – |
+{.sticky-2}
+```
+
+| | SeaTable | Baserow | NocoDB | Grist | SmartSuite | Notion | Microsoft Lists |
+|---|---|---|---|---|---|---|---|
+| Selbst hosten | ✅ | ✅ | ✅ | ✅ | – | – | über SharePoint Server |
+| Import aus Airtable | ✅ | ✅ | ✅ | ✅ | ✅ | – | – |
+| Hosting in der EU | ✅ Deutschland | ✅ Deutschland | – | – | ✅ Irland | nur Enterprise | ✅ |
+{.sticky-2}
+
+Hinweise:
+
+- Mit `{.sticky-2}` bekommt die erste Spalte eine feste Breite (9rem), damit die zweite direkt daneben stehen bleiben kann. Lange Zeilenbeschriftungen brechen deshalb um.
+- Auf dem Handy (unter 640 px) bleibt nur die erste Spalte stehen, sonst bliebe zu wenig Platz zum Scrollen.
+- Fett geschriebene Werte brechen auf dem Handy um, ab Tablet-Breite nicht mehr.
 
 ## SeaTable Templates
 
@@ -463,6 +491,38 @@ Default-Texte sind definiert. Folgender Eintrag im Frontmatter genügt aktuell:
 register:
    show: true
 ```
+
+## Autor
+
+Steht im Front Matter eines Blogbeitrags ein `author`, erscheint der Name neben dem Datum („Von …“) und unter dem Artikel eine Box „Über den Autor“ mit Foto, Rolle und Kurzbiografie. Außerdem wird der Autor in den strukturierten Daten für Google als Person ausgegeben. Diese Seite nutzt `author: 'cdb'`, die Box steht ganz unten.
+
+```
+---
+title: '...'
+author: 'cdb'
+---
+```
+
+Die Angaben zu den Autoren stehen zentral in `data/authors.yaml`:
+
+```
+cdb:
+    name: 'Christoph Dyllick-Brenzinger'
+    image: '/speaker-seadays/christoph_dyllick.jpg'
+    sameAs:
+        - 'https://www.linkedin.com/in/...'
+    role:
+        de: 'Mitgründer und Geschäftsführer der SeaTable GmbH'
+        en: 'Co-founder and Managing Director of SeaTable GmbH'
+    bio:
+        de: 'Zwei, drei Sätze zur Person und Erfahrung ...'
+        en: 'Two or three sentences ...'
+```
+
+- **image:** Pfad unterhalb von `/static`, quadratisch und mindestens 200 × 200 px. Ohne Bild werden die Initialen angezeigt.
+- **sameAs:** Profil-Links (LinkedIn, GitHub …). Sie erscheinen als „Profil“-Link in der Box und in den strukturierten Daten.
+- **role / bio:** pro Sprache. Fehlt eine Sprache, wird Englisch verwendet.
+- Gibt es zum Kürzel keinen Eintrag, erscheinen weder Autorenzeile noch Box, und als Autor wird „SeaTable“ (Organisation) ausgegeben.
 
 ## Tabs
 

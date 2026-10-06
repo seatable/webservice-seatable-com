@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Table des matières'
+    written_by: 'Par'
+    about_author: 'À propos de l''auteur'
+    author_profile: 'Profil'
 
 legal:
     version: 'Version'

@@ -168,7 +168,7 @@ Ceci est un exemple de configuration pour importer les données dans une base da
 
 ### 4\. entrer le jeton d'accès personnel Airtable et l'ID de base
 
-Complétez sous le commentaire **Airtable - Source** le site [Jeton d'accès personnel Airtable (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) ainsi que les [ID de la base aérienne](https://support.airtable.com/docs/finding-airtable-ids)Les deux valeurs sont à nouveau entre guillemets simples. Le PAT doit disposer de l'autorisation `data.records:read` et `schema.bases:read` décret.
+Complétez sous le commentaire **Airtable - Source** le site [Jeton d'accès personnel Airtable (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) ainsi que les [ID de la base aérienne](https://support.airtable.com/docs/finding-airtable-ids) Les deux valeurs sont à nouveau entre guillemets simples. Le PAT doit disposer de l'autorisation `data.records:read` et `schema.bases:read` décret.
 
 Voilà à quoi cela devrait ressembler, vos valeurs étant bien sûr différentes :  
 ![](images/Airtable_Base_ID_and_PAT.png)

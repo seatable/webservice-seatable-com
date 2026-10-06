@@ -166,7 +166,7 @@ This is an example configuration for importing data into a base in SeaTable Clou
 
 ### 4\. enter Airtable Personal Access Token and Base ID
 
-Add below the comment **Airtable - Source** the [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) and the [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids)both values again in single quotation marks. The PAT must have the authorization `data.records:read` and `schema.bases:read` have.
+Add below the comment **Airtable - Source** the [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) and the [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids) both values again in single quotation marks. The PAT must have the authorization `data.records:read` and `schema.bases:read` have.
 
 This is what it should look like, although your values will of course be different:  
 ![](images/Airtable_Base_ID_and_PAT.png)

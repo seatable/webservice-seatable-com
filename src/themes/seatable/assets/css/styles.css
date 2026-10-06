@@ -195,23 +195,60 @@
 }
 
 /* tabellen */
+/* the wrapper (render-table.html) scrolls wide tables horizontally */
+.post-content .table-wrapper {
+    @apply my-8 overflow-x-auto rounded-xl shadow-lg;
+}
 .post-content table {
-    @apply my-8 w-full overflow-hidden rounded-xl text-left text-sm text-gray-500 shadow-lg;
+    @apply w-full text-left text-sm text-gray-500;
 }
 .post-content thead {
     @apply border-b-2 border-gray-400 font-poppins text-sm uppercase text-gray-700;
 }
 .post-content thead th {
-    @apply border-r bg-gray-50 px-6 py-3;
+    @apply border-r bg-gray-50 px-3 py-3 sm:px-6;
 }
 .post-content tbody tr {
     @apply border-b border-gray-200 bg-white hover:bg-gray-100;
 }
 .post-content tbody td {
-    @apply border-r px-6 py-4;
+    @apply border-r px-3 py-4 sm:px-6;
+}
+/* first column stays visible while scrolling wide tables horizontally */
+.post-content thead th:first-child,
+.post-content tbody td:first-child {
+    @apply sticky left-0 z-10;
+}
+.post-content tbody td:first-child {
+    @apply bg-white;
+}
+.post-content tbody tr:hover td:first-child {
+    @apply bg-gray-100;
+}
+/* tables marked with {.sticky-2}: the second column (e.g. SeaTable in a
+   comparison) stays visible too, but only from sm upwards to save space */
+@media (min-width: 640px) {
+    .post-content .sticky-2 thead th:first-child,
+    .post-content .sticky-2 tbody td:first-child {
+        @apply w-36 min-w-36 max-w-36;
+    }
+    .post-content .sticky-2 thead th:nth-child(2),
+    .post-content .sticky-2 tbody td:nth-child(2) {
+        @apply sticky left-36 z-10;
+        box-shadow: inset -1px 0 0 theme('colors.gray.300');
+    }
+    .post-content .sticky-2 thead th:nth-child(2) {
+        @apply bg-gray-50;
+    }
+    .post-content .sticky-2 tbody td:nth-child(2) {
+        @apply bg-white;
+    }
+    .post-content .sticky-2 tbody tr:hover td:nth-child(2) {
+        @apply bg-gray-100;
+    }
 }
 .post-content tbody strong {
-    @apply whitespace-nowrap text-gray-900;
+    @apply text-gray-900 sm:whitespace-nowrap;
 }
 
 /* Inline code styling (not inside code blocks) */

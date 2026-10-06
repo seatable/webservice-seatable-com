@@ -107,7 +107,7 @@ Furthermore, we do not make any further efforts for our international SEO. Weglo
 ## Weglot compared to other translation plugins such as WTFD, TranslatePress, Polylang, Loco Translate and ConveyThis.
 
 Before we decided to use Weglot with SeaTable, we also looked at other WordPress plugins for translating the website.  
-The best-known plugin for a multilingual WordPress is, with paragraph, the plugin [WPML](https://wpml.org/). Unlike Weglot, however, WPML does not automatically translate the content, but _only_ provides the platform for its own translations. The other plugins [TranslatePress](https://translatepress.com/?ref=174), [Polylang](https://polylang.pro/) and [Loco Transl](https://de.wordpress.org/plugins/loco-translate/)ate work in the same way. 
+The best-known plugin for a multilingual WordPress is, with paragraph, the plugin [WPML](https://wpml.org/). Unlike Weglot, however, WPML does not automatically translate the content, but _only_ provides the platform for its own translations. The other plugins [TranslatePress](https://translatepress.com/?ref=174), [Polylang](https://polylang.pro/) and [Loco Translate](https://de.wordpress.org/plugins/loco-translate/) work in the same way. 
 
 ![WPML is by far the most popular translation plugin for WordPress.](weglot-bei-google-trends.png)
 
@@ -149,7 +149,7 @@ Weglot tries to redirect each visitor to the appropriate translation based on th
 
 **2) special links of our theme are not supported**
 
-On SeaTable.io we use the Enfold theme and in addition to links in the body text we also use link boxes - for example on our [Help page]({{< relref "help" >}})where the entire box serves as a link. Unfortunately, this link box is not recognised as a link by Weglot and users are always redirected back to the original language. We were able to change this behaviour by adding an additional _Action in der functions.php beheben._
+On SeaTable.io we use the Enfold theme and in addition to links in the body text we also use link boxes - for example on our [Help page]({{< relref "help" >}}) where the entire box serves as a link. Unfortunately, this link box is not recognised as a link by Weglot and users are always redirected back to the original language. We were able to change this behaviour by adding an additional _Action in der functions.php beheben._
 
 ![Weglot had problems with link boxes](weglot-boxen-als-links.png)
 

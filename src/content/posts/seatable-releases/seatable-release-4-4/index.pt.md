@@ -71,7 +71,7 @@ O SeaTable 4.4 torna [a importação de tabelas Excel]({{< relref "help/startsei
 
 [Os conjuntos de dados partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) são muito úteis se o utilizador e os membros da sua equipa necessitarem de determinadas tabelas (por exemplo, uma lista de empregados) em diferentes [grupos]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}}) das suas bases. O SeaTable 4.4 acrescenta três novas funções às já existentes:
 
-1. Se tiver um [Base de cópia]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})Se copiar uma base para um grupo no qual estão incluídos registos de dados partilhados, o utilizador pode decidir se pretende manter a ligação a esses registos de dados. O grupo para o qual se copia a base deve, obviamente, ter acesso aos registos de dados partilhados.
+1. Se tiver um [Base de cópia]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) Se copiar uma base para um grupo no qual estão incluídos registos de dados partilhados, o utilizador pode decidir se pretende manter a ligação a esses registos de dados. O grupo para o qual se copia a base deve, obviamente, ter acesso aos registos de dados partilhados.
 
     ![Manter a ligação ao conjunto de dados comum ao copiar uma base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
