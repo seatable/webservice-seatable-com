@@ -52,7 +52,7 @@ By the end, you will have a practical toolkit for working on shared data with co
 
 You follow the course here, on the site. The online courses plugin is your companion inside the base: you switch to it at certain moments to put things into practice and have your work checked.
 
-![The online courses plugin open below a base, showing the current exercise and its Verify button](images/online-courses-plugin.png)
+![The online courses plugin open below a base, with the list of steps on the left and the current exercise and its Verify button on the right](images/online-courses-plugin.png)
 
 If you have never used the plugin before, start with its Welcome course: a short tour of how a course works, with two small exercises.
 
