@@ -1,7 +1,7 @@
 ---
 title: 'Introdução'
 date: 2024-09-18
-lastmod: '2024-09-23'
+lastmod: '2026-10-01'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
@@ -16,6 +16,14 @@ weight: 1
 
 Bem-vindo ao **Curso Online SeaTable 2 – Entradas e saídas!**
 
+{{< course-facts headline="Num relance" >}}
+- **Duração**: cerca de 1 hora
+- **Pré-requisitos**: Curso 1
+- **Requisitos** ([detalhes abaixo](#before-you-start)):
+    - Conta SeaTable
+    - Conta Mailtrap (passo 3)
+{{< /course-facts >}}
+
 ## Este é o curso certo para mim?
 
 Este curso é ideal para si se:
@@ -29,26 +37,24 @@ A segunda parte deste curso é sobre como implementar um processo comercial comp
 
 Todo o processo comercial é mapeado no SeaTable para que se possa concentrar totalmente na sua atividade principal.
 
-## Quais são os requisitos?
+## Como funciona o curso
 
-Para concluir com êxito este curso, é necessário:
+Pode fazer o curso ao seu próprio ritmo. É possível fazer pausas em qualquer altura. Em vários pontos, encontrará ligações para outros materiais - cabe-lhe a si decidir até que ponto quer aprofundar os temas.
 
-1. **SeaTable**: Utilize qualquer sistema SeaTable. A forma mais fácil de o fazer é com uma [conta gratuita SeaTable Cloud]({{< relref "pages/registration" >}}).
-2. **Fórum**: Uma [conta no nosso fórum da comunidade](https://forum.seatable.com/) se quiser receber um distintivo depois de concluir o curso.
-3. **Envio de correio**: Uma [conta com o Mailtrap](https://mailtrap.io/) para simular o envio de correio do SeaTable.
-4. **Navegador**: Recomendamos a utilização do Google Chrome.
-5. **Inglês**: O curso está disponível em várias línguas, mas o questionário, as capturas de ecrã e os dados de amostra estão em inglês.
-
-## Qual é a duração do curso?
-
-O curso dura **cerca de uma hora**, mas pode ser efectuado ao seu próprio ritmo. É possível fazer pausas em qualquer altura. Em vários pontos, encontrará ligações para outros materiais - cabe-lhe a si decidir até que ponto quer aprofundar os temas.
-
-## Como é que concluo o curso?
+O curso está disponível em várias línguas, mas o questionário, as capturas de ecrã e os dados de amostra estão em inglês. Recomendamos a utilização do Google Chrome.
 
 No final do curso, pode testar os seus conhecimentos através de um questionário:
 
 - O [teste](https://tally.so/r/mDDbpb) é em inglês e consiste em perguntas de escolha múltipla e tarefas relacionadas com o processo que implementou.
 - Após a conclusão bem sucedida, receberá um [emblema no seu perfil do fórum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), que mostra as suas competências.
+- Para receber o distintivo, precisa de uma [conta no nosso fórum da comunidade](https://forum.seatable.com/).
+
+## Antes de começar {#before-you-start}
+
+Para concluir com êxito este curso, é necessário:
+
+- **SeaTable**: Utilize qualquer sistema SeaTable. A forma mais fácil de o fazer é com uma [conta gratuita SeaTable Cloud]({{< relref "pages/registration" >}}).
+- **Envio de correio**: Uma [conta com o Mailtrap](https://mailtrap.io/) para simular o envio de correio do SeaTable.
 
 De que é que estamos à espera? Vamos lá!
 
