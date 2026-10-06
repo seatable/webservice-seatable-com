@@ -18,7 +18,7 @@ The **Online courses plugin** is a little different from the other plugins: it d
 <!-- TODO: confirm the exact install path for this plugin (marketplace vs. manual upload) once it is published, and link it here. For now this points to the generic "activate a plugin" article. -->
 You can find out how to activate a plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-![The online-courses plugin open below a base, with the list of steps on the left and the current exercise and its Verify button on the right](images/online-courses-plugin.png)
+![The online courses plugin open below a base, with the list of steps on the left and the current exercise and its Verify button on the right](images/online-courses-plugin.png)
 
 ## How it works with the courses
 
