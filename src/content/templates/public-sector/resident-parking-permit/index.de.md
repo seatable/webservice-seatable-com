@@ -74,7 +74,7 @@ sections:
       subtitle: 'Warum Kommunen auf SeaTable setzen'
       description: Mit der [KI No-Code Lösung]({{< relref "/" >}}) SeaTable nutzen Sie eine **moderne und datenschutzkonforme digitale Lösung** für die [kommunale Parkraumbewirtschaftung]({{< relref "posts/parkraumbewirtschaftung" >}}). Erfassen Sie Vorgänge aus schriftlichen und Online-Anträgen, prüfen Sie Nachweise strukturiert und behalten Sie Rückfragen, Fristen und Bearbeitungsstände im Blick. Die Vorlage für den Anwohnerparkausweis lässt sich **flexibel an kommunale Abläufe anpassen** und mit Ihrem Fachverfahren Parkraumbewirtschaftung verbinden.'
       items:
-      - text: '**Stest aktuell:** Jede Änderung und jeder neue Eintrag sind sofort für alle Mitarbeiter sichtbar. So gleichen Kontrolleure Parkausweise immer mit aktuellen Daten ab.'
+      - text: '**Stets aktuell:** Jede Änderung und jeder neue Eintrag sind sofort für alle Mitarbeiter sichtbar. So gleichen Kontrolleure Parkausweise immer mit aktuellen Daten ab.'
       - text: '**Kollaboration zwischen Fachabteilungen:** Sachbearbeitung, Straßenverkehrsbehörden, Verkehrsplanungsamt und Kämmereien nutzen ein integriertes System und arbeiten in Echtzeit zusammen.'
       - text: '**DSGVO-konform:** SeaTable erfüllt höchste Sicherheitsanforderungen und wird ausschließlich auf Servern europäischer Unternehmen in Deutschland gehostet.'
       - text: '**On-premises:** Mit SeaTable Server steht eine on-premises Lösung zur Verfügung, die Organisationen des öffentlichen Sektors auf Basis des **EVB-IT Überlassungsvertrag Typ B** nutzen können.'
