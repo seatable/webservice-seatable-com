@@ -2,7 +2,7 @@
 # A post whose author has no entry here (or no name) gets no byline,
 # no author box and "SeaTable" as Organization in the structured data.
 #
-# image:  path below /static, ideally square (min. 200x200).
+# image:  path below /static, e.g. /img/authors/<key>.jpg, square (min. 200x200).
 #         Without an image, the initials are shown.
 # sameAs: profile URLs (LinkedIn, GitHub, ...), used for structured data
 #         and the profile link in the author box.
@@ -10,7 +10,7 @@
 
 cdb:
     name: 'Christoph Dyllick-Brenzinger'
-    image: '/speaker-seadays/christoph_dyllick.jpg'
+    image: '/img/authors/cdb.jpg'
     sameAs: []
     role:
         de: 'Mitgründer und Geschäftsführer der SeaTable GmbH'
@@ -21,11 +21,11 @@ cdb:
 
 rdb:
     name: 'Dr. Ralf Dyllick-Brenzinger'
-    image: '/speaker-seadays/ralf_dyllick.jpg'
+    image: '/img/authors/rdb.jpg'
     sameAs: []
     role:
         de: 'Mitgründer und Geschäftsführer der SeaTable GmbH'
         en: 'Co-founder and Managing Director of SeaTable GmbH'
     bio:
-        de: 'Ralf hat die SeaTable GmbH 2020 zusammen mit seinem Bruder Christoph gegründet.'
-        en: 'Ralf co-founded SeaTable GmbH with his brother Christoph in 2020.'
+        de: 'Ralf hat die SeaTable GmbH 2020 zusammen mit seinem Bruder Christoph gegründet und verantwortet Vertrieb, Finanzen und die Betreuung der Kunden.'
+        en: 'Ralf co-founded SeaTable GmbH with his brother Christoph in 2020 and is responsible for sales, finance and customer relations.'
