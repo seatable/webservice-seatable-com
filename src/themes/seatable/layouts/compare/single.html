@@ -1,12 +1,11 @@
 {{- /*
   Comparison pages (content/pages/landing-pages/compare/, `type: compare`).
   Hero with the compared products, then the same article body as blog
-  posts (Markdown content, tables, FAQ shortcode, author box, TOC) and a
-  closing CTA banner.
+  posts (Markdown content, tables, FAQ and cta shortcodes, author box, TOC).
 
   Front matter:
     products: list of {name, logo, show_name}, shown as cards in the hero
-    cta:      {title, label, link} for the closing banner (optional)
+    cta:      {title, text, buttons} for the {{< cta >}} shortcode, see cta-box.html (optional)
 */ -}}
 {{ define "main" }}
     <section class="max-container padding mx-auto w-full">
@@ -37,7 +36,4 @@
         </article>
     </section>
 
-    {{ with .Params.cta }}
-        {{ partial "content-blocks/banner-2.html" (dict "name" "banner-2" "title" .title "buttons" (slice (dict "label" .label "link" .link "style" "primary"))) }}
-    {{ end }}
 {{ end }}

@@ -18,11 +18,17 @@ products:
       logo: /images/logos/compare/nocodb.svg
       show_name: true
 register:
-    show: true
+    show: false
 cta:
     title: SeaTable kostenlos testen – in der Cloud oder auf Ihrem Server
-    label: Jetzt kostenlos registrieren
-    link: pages/registration
+    text: In der Cloud mit 10.000 Zeilen und 25 Nutzern, selbst gehostet für bis zu 3 Nutzer – jeweils dauerhaft kostenlos.
+    buttons:
+        - label: Kostenlos registrieren
+          link: pages/registration
+          style: primary
+        - label: SeaTable Server installieren
+          link: https://admin.seatable.com/installation/basic-setup/
+          style: secondary
 ---
 
 Alle Angaben zu Baserow und NocoDB haben wir am 5. Oktober 2026 auf deren Preis- und Dokumentationsseiten geprüft. Die Quellen stehen am Ende der Seite.
@@ -98,6 +104,8 @@ Bei Baserow und NocoDB gilt ein Abo immer für einen einzelnen Workspace. Wer in
 - **KI beim Aufbau:** Bei Baserow und NocoDB legt die KI schon heute Tabellen und Felder an, bei SeaTable erst ab Version 7.0.
 - **Bestehende Datenbanken:** Nur NocoDB arbeitet direkt auf Ihrer vorhandenen SQL-Datenbank.
 - **Self-Hosting-Plattformen:** Baserow und NocoDB gibt es als Ein-Klick-Installation auf Plattformen wie Cloudron oder Coolify, SeaTable nicht.
+
+{{< cta >}}
 
 ## FAQ
 
