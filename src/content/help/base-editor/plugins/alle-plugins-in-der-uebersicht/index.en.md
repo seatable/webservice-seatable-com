@@ -55,7 +55,7 @@ The data deduplication plugin uncovers **duplicate entries** in a table. This is
 
 Unlike the other plugins, this one does not give you a new view of your data — it is a **learning companion**. It guides you through the hands-on exercises of the SeaTable [online courses]({{< relref "help/online-courses" >}}) and **checks your work directly in your own base**: you build an automation, write a short script or set up a view by following a course, then let the plugin verify that the expected result is really there. It can also **walk you through an operation while you carry it out**, one stage at a time, and prepare things in your base for an exercise — it does more than look at the outcome. It turns the courses into a guided, interactive experience right inside SeaTable.
 
-![The online-courses plugin checking an exercise in a base](images/online-courses-plugin.png)
+![The online-courses plugin guiding an exercise below a base](images/online-courses-plugin.png)
 
 [More about the online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
 
