@@ -245,3 +245,6 @@ cookies:
     text: 'This website uses cookies to ensure you get the best experience on our website.'
     link: More information
     confirm: Got it
+
+compare:
+    as_of: 'As of'

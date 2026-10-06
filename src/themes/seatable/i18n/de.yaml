@@ -245,3 +245,6 @@ cookies:
     text: 'Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten.'
     link: Weitere Informationen
     confirm: Zustimmen
+
+compare:
+    as_of: 'Stand:'
