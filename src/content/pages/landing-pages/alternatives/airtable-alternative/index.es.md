@@ -415,7 +415,7 @@ sections:
             a: 'Todas las tablas, todas las filas con sus archivos adjuntos y todas las columnas, excepto las de tipo botón, recuento, búsqueda y resumen. SeaTable enumera en la nueva base las columnas que no se han transferido. Sus vistas también se transfieren. Las columnas de fórmula se crean con la fórmula original de Airtable como marcador de posición. Las automatizaciones y las interfaces se vuelven a configurar en SeaTable. Para tener más control, también existe un [script de migración]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).'
 
           - q: '¿Puedo autoalojar SeaTable de forma gratuita?'
-            a: 'Sí. SeaTable Enterprise Edition es gratuito para hasta 3 usuarios; solo necesita un archivo de licencia gratuito. Para más usuarios, debe adquirir una licencia. La instalación se describe en la [Guía del administrador](https://admin.seatable.com/).'
+            a: 'Sí. SeaTable Enterprise Edition es gratuito para hasta 3 usuarios; solo necesita un archivo de licencia gratuito. Para más usuarios, debe adquirir una licencia. La instalación se describe en la [Guía del administrador](https://admin.seatable.com/). En qué se diferencia SeaTable Server de Baserow y NocoDB lo muestra nuestra [comparación]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).'
 
           - q: '¿Está disponible Airtable para autoalojamiento?'
             a: 'No. Airtable solo está disponible como servicio en la nube. En cambio, con SeaTable Server y [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}), puede decidir hoy mismo en qué infraestructura se almacenan sus datos.'

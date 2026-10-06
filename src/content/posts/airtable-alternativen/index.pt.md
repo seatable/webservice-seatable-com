@@ -290,7 +290,7 @@ Por isso, planeie antes da compra quantos workspaces precisa e, sempre que poss�
 
 Duas particularidades: nos planos Plus e Business, o NocoDB cobra no máximo 9 utilizadores, sendo cada utilizador adicional gratuito. Por isso, aqui 10 utilizadores custam o mesmo que 9. No SmartSuite, paga apenas pelos utilizadores que editam dados. Quem apenas lê, comenta ou preenche formulários é gratuito.
 
-Quem aloja por conta própria não paga licença pela versão base no Baserow, no NocoDB e no Grist, e no SeaTable até 3 utilizadores. Em contrapartida, acrescem os custos de servidor e de operação.
+Quem aloja por conta própria não paga licença pela versão base no Baserow, no NocoDB e no Grist, e no SeaTable até 3 utilizadores. Em contrapartida, acrescem os custos de servidor e de operação. As diferenças em detalhe entre as três soluções que pode alojar por conta própria estão na nossa comparação [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
 
 ## Outras ferramentas que não incluímos
 
@@ -338,7 +338,7 @@ Sim. O SeaTable, o Baserow, o NocoDB, o Grist e o Notion têm planos gratuitos. 
 {{< /faq >}}
 
 {{< faq "Que alternativa ao Airtable é open source?" >}}
-O Baserow (núcleo sob licença MIT) e o Grist (Apache-2.0). O NocoDB está sob a Sustainable Use License, que não é uma licença open source em sentido estrito. O SeaTable não é open source, mas pode ser alojado gratuitamente por conta própria.
+O Baserow (núcleo sob licença MIT) e o Grist (Apache-2.0). O NocoDB está sob a Sustainable Use License, que não é uma licença open source em sentido estrito. O SeaTable não é open source, mas pode ser alojado gratuitamente por conta própria. Encontra uma comparação detalhada de licença, alojamento e funcionalidades em [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
 {{< /faq >}}
 
 {{< faq "Que alternativa ao Airtable se pode alojar por conta própria?" >}}
