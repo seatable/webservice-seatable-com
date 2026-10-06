@@ -21,7 +21,7 @@ In [Course 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehru
 {{< course-facts headline="At a glance" >}}
 - **Duration**: about 1.5 hours · can be split after Step 4
 - **Prerequisites**: Course 1 and Course 2
-- **Requirements** ([details below](#before-you-start)):
+- **Requirements** ([details](#before-you-start) below):
     - SeaTable account
     - Online courses plugin (added in Step 1)
     - Groups and a second team member (created along the way)
