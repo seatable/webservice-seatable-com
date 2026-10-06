@@ -23,28 +23,6 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: SeaTable as an Airtable alternative – in a nutshell
-      subtitle: 'The key facts at a glance (as of October 2026)'
-      text:
-      items:
-      - icon: shield
-        headline: Provider and hosting
-        text: "SeaTable GmbH is based in Mainz, Germany. SeaTable Cloud runs in Exoscale's ISO 27001 certified data centers in Frankfurt am Main and Munich."
-
-      - icon: terminal
-        headline: Cloud, dedicated or self-hosted
-        text: "You choose where your data is stored: in SeaTable Cloud, in your own dedicated system or on your own servers. Airtable is only available as a cloud service."
-
-      - icon: edit
-        headline: Import from Airtable
-        text: "Import your Airtable bases with a base ID and a personal access token. Tables, rows and attachments are transferred automatically."
-
-      - icon: expand
-        headline: Pricing
-        text: "Start for free. SeaTable Plus costs €7, SeaTable Enterprise €14 per user per month with annual billing. Self-hosted, Enterprise is free for up to 3 users."
-
-    - name: "content-4"
-      weight: 3
       title: 6 reasons why teams choose SeaTable as an Airtable alternative
       subtitle: The benefits of SeaTable
       text:
@@ -74,11 +52,14 @@ sections:
         text: "SeaTable Cloud and SeaTable AI are operated in data centers in Germany. A data processing agreement is available for all customers."
 
     - name: "content-2"
-      weight: 4
+      weight: 3
       title: Airtable is now owned by Bending Spoons – what does that mean?
       subtitle: Acquisition in September 2026
       description: 'The software group Bending Spoons completed its acquisition of Airtable on September 4, 2026, for around 1.3 billion US dollars. What will change for Airtable customers in terms of prices, plans and product is still open. Many teams are taking the acquisition as an opportunity to review their dependence on a single US vendor. With SeaTable, the choice remains yours:'
       items:
+      - icon: shield
+        headline: A provider from Germany
+        text: "SeaTable GmbH is based in Mainz, Germany. SeaTable Cloud runs in Exoscale's ISO 27001 certified data centers in Frankfurt am Main and Munich."
       - icon: terminal
         headline: Your data, your location
         text: "Cloud in Germany, dedicated system or your own server. You can switch between deployment options at any time."
@@ -87,10 +68,10 @@ sections:
         text: "Export your data at any time as CSV, Excel or a complete base file. The API gives you full access to all your data."
       - icon: eye
         headline: Transparent pricing
-        text: 'All prices and limits are publicly available on our [pricing page]({{< relref "pages/prices" >}}).'
+        text: 'Start for free. Plus costs €7, Enterprise €14 per user per month with annual billing, and self-hosted Enterprise is free for up to 3 users. All prices and limits are on our [pricing page]({{< relref "pages/prices" >}}).'
 
     - name: content-12
-      weight: 5
+      weight: 4
       classes:
           - curved
       title: The most compelling Airtable alternative for your business
@@ -108,10 +89,10 @@ sections:
     - name: customer-3
       title: What users say about the Airtable alternative
       subtitle: What SeaTable users say
-      weight: 6
+      weight: 5
 
     - name: "content-6"
-      weight: 7
+      weight: 6
       classes:
         - curved
         - bg-gray-100
@@ -123,7 +104,7 @@ sections:
       image_alt: 'App analytics dashboard in SeaTable, the Airtable alternative.'
 
     - name: content-12
-      weight: 8
+      weight: 7
       classes:
           - curved
       title: SeaTable offers full no-code power right from the start
@@ -139,7 +120,7 @@ sections:
       image_alt: 'The Airtable alternative SeaTable offers more features'
 
     - name: 'price-comparision'
-      weight: 9
+      weight: 8
       title: SeaTable vs. Airtable pricing
       description: 'Here you can see the cloud versions of Airtable Team and SeaTable Enterprise compared as an example (as of October 2026). We compare SeaTable Enterprise with Airtable Team because both are the plans teams choose for productive use. **SeaTable offers cloud servers in Germany** and also a self-hosted version, which makes it the logical Airtable alternative for higher security requirements.'
       competitor:
@@ -179,7 +160,7 @@ sections:
                 - '**Also available for self-hosting**'
 
     - name: "content-4"
-      weight: 10
+      weight: 9
       title: Data security and compliance
       subtitle: No compromises on data protection
       text: 'US providers like Airtable are widely used. As a US company, however, Airtable is subject to the US CLOUD Act. Under it, US authorities can, under certain conditions, demand access to data even if it is stored outside the US. This is particularly sensitive if you process HR data, customer data or data from public administration. SeaTable is the alternative to Airtable for securing your [digital sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}): your contractual partner is SeaTable GmbH in Mainz, your data is stored in Germany, and if you want to be completely sure, you run SeaTable on your own servers. The software is developed by our partner Seafile Ltd. and provided as a Docker image. The SeaTable Cloud servers are operated exclusively by SeaTable GmbH, and only we have access to them.'
@@ -201,7 +182,7 @@ sections:
         text: "SeaTable supports single sign-on, two-factor authentication and other common authentication methods."
 
     - name: "content-2"
-      weight: 11
+      weight: 10
       title: When Airtable remains the better choice
       subtitle: An honest comparison
       description: 'SeaTable is not the right choice for every team. How SeaTable, Baserow, NocoDB, Grist and other tools compare in detail is shown in our [comparison of the 8 best Airtable alternatives]({{< relref "posts/airtable-alternativen" >}}). In these areas, Airtable is stronger today:'
@@ -220,7 +201,7 @@ sections:
         text: 'Airtable has more users and therefore more third-party integrations, templates and tutorials online.'
 
     - name: customer-1
-      weight: 12
+      weight: 11
       title: 'Organizations around the world trust SeaTable'
       subtitle: 'Who uses SeaTable as an Airtable alternative?'
       text: 'SeaTable is used by organizations such as the German Armed Forces (Bundeswehr), Humboldt University of Berlin, the Max Planck Society, the French evaluation agency Hcéres, the electronics manufacturer eolane, Red Dot and TELUS.'
@@ -231,7 +212,7 @@ sections:
             style: primary
 
     - name: "content-6"
-      weight: 13
+      weight: 12
       classes:
         - curved
         - bg-gray-100
@@ -243,7 +224,7 @@ sections:
       image_alt: 'AI chat plugin in the Airtable alternative SeaTable.'
 
     - name: "content-10"
-      weight: 14
+      weight: 13
       classes:
         - curved
         - bg-white
@@ -257,7 +238,7 @@ sections:
         - image: "/images/logos/seatable-api.svg"
 
     - name: "youtube"
-      weight: 15
+      weight: 14
       title: Switching to SeaTable is that easy
       subtitle: How to migrate from Airtable
       description:
@@ -265,7 +246,7 @@ sections:
       aspect: 16:9
 
     - name: content-5
-      weight: 16
+      weight: 15
       items:
       - title: "Easy migration from Airtable to SeaTable"
         subtitle: "Automatic data transfer"

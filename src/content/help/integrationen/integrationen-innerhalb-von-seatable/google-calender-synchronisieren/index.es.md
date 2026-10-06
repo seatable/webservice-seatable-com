@@ -15,6 +15,10 @@ Las citas de una base SeaTable pueden sincronizarse automáticamente con uno o v
 
 Antes de configurar la sincronización de citas, debe configurar la **cuenta de Google** del calendario al que desea transferir las citas de SeaTable. Esto se hace en dos pasos: En primer lugar, cree **credenciales OAuth** en Google Cloud Console. A continuación, cree una cuenta de terceros en SeaTable con los datos de acceso y conéctela a Google. Esto es muy fácil con estas instrucciones paso a paso.
 
+**En este breve tutorial le mostramos paso a paso cómo conectar su Google Calendar con SeaTable (con subtítulos en español).**
+
+{{< youtube wKp95ludstQ >}}
+
 ## Creación de los datos de acceso en la Google Cloud Console
 
 Como plataforma para desarrolladores, Google Cloud Console parece inicialmente confusa para los usuarios normales. No deje que eso le impresione. La siguiente guía paso a paso le ayudará a configurarla sin quebraderos de cabeza.

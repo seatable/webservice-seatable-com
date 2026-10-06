@@ -5,7 +5,7 @@ seo:
     title: 'Airtable Alternative: DSGVO-konform, Cloud & On-Premises | SeaTable'
     description: 'SeaTable ist die Airtable Alternative aus Deutschland: Server in Frankfurt und München, Import Ihrer Airtable-Bases, auch selbst hostbar. Kostenlos starten.'
 date: '2025-05-02'
-lastmod: '2026-09-30'
+lastmod: '2026-10-05'
 url: '/de/airtable-alternative'
 
 sections:
@@ -23,28 +23,6 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: SeaTable als Airtable Alternative – kurz gesagt
-      subtitle: 'Das Wichtigste auf einen Blick (Stand: Oktober 2026)'
-      text:
-      items:
-      - icon: shield
-        headline: Anbieter und Hosting
-        text: "Die SeaTable GmbH hat ihren Sitz in Mainz. Die SeaTable Cloud läuft in den ISO-27001-zertifizierten Rechenzentren von Exoscale in Frankfurt am Main und München."
-
-      - icon: terminal
-        headline: Cloud, Dedicated oder selbst gehostet
-        text: "Sie wählen, wo Ihre Daten liegen: in der SeaTable Cloud, in einem eigenen Dedicated-System oder auf Ihren eigenen Servern. Airtable gibt es nur als Cloud."
-
-      - icon: edit
-        headline: Import aus Airtable
-        text: "Ihre Airtable-Bases importieren Sie mit Base-ID und Personal Access Token. Tabellen, Zeilen und Anhänge werden automatisch übernommen."
-
-      - icon: expand
-        headline: Preise
-        text: "Kostenlos starten. SeaTable Plus kostet 7 €, SeaTable Enterprise 14 € pro Nutzer und Monat bei jährlicher Zahlung. Selbst gehostet ist Enterprise für bis zu 3 Nutzer kostenlos."
-
-    - name: "content-4"
-      weight: 3
       title: 6 Gründe, warum Teams SeaTable als Airtable Alternative wählen
       subtitle: Ihre Vorteile mit SeaTable
       text:
@@ -74,11 +52,14 @@ sections:
         text: "SeaTable Cloud und die SeaTable KI werden in Rechenzentren in Deutschland betrieben. Einen Vertrag zur Auftragsverarbeitung schließen Sie direkt online ab."
 
     - name: "content-2"
-      weight: 4
+      weight: 3
       title: Airtable gehört jetzt Bending Spoons – was bedeutet das?
       subtitle: Übernahme im September 2026
       description: 'Der Softwarekonzern Bending Spoons hat die Übernahme von Airtable am 4. September 2026 abgeschlossen. Der Kaufpreis lag bei rund 1,3 Milliarden US-Dollar. Was sich für Airtable-Kunden an Preisen, Tarifen und Produkt ändert, ist noch offen. Viele Teams nehmen die Übernahme zum Anlass, ihre Abhängigkeit von einem einzelnen US-Anbieter zu überprüfen. Bei SeaTable bleibt Ihnen die Wahl:'
       items:
+      - icon: shield
+        headline: Anbieter aus Deutschland
+        text: "Die SeaTable GmbH hat ihren Sitz in Mainz. Die SeaTable Cloud läuft in den ISO-27001-zertifizierten Rechenzentren von Exoscale in Frankfurt am Main und München."
       - icon: terminal
         headline: Ihre Daten, Ihr Standort
         text: "Cloud in Deutschland, Dedicated-System oder eigener Server. Sie können jederzeit zwischen den Betriebsarten wechseln."
@@ -87,10 +68,10 @@ sections:
         text: "Exportieren Sie Ihre Daten jederzeit als CSV, Excel oder vollständige Base-Datei. Über die API haben Sie vollen Zugriff auf alle Daten."
       - icon: eye
         headline: Transparente Preise
-        text: 'Alle Preise und Limits stehen öffentlich auf unserer [Preisseite]({{< relref "pages/prices" >}}).'
+        text: 'Kostenlos starten. Plus kostet 7 €, Enterprise 14 € pro Nutzer und Monat bei jährlicher Zahlung, selbst gehostet ist Enterprise für bis zu 3 Nutzer kostenlos. Alle Preise und Limits stehen auf unserer [Preisseite]({{< relref "pages/prices" >}}).'
 
     - name: content-12
-      weight: 5
+      weight: 4
       classes:
           - curved
       title: Die überzeugendste Airtable Alternative für Ihr Unternehmen
@@ -108,10 +89,10 @@ sections:
     - name: customer-3
       title: Das sagen Nutzerinnen und Nutzer über die Airtable Alternative
       subtitle: Was SeaTable Nutzer sagen
-      weight: 6
+      weight: 5
 
     - name: "content-6"
-      weight: 7
+      weight: 6
       classes:
         - curved
         - bg-gray-100
@@ -123,7 +104,7 @@ sections:
       image_alt: 'App-Analyse-Dashboard in der Airtable Alternative SeaTable.'
 
     - name: content-12
-      weight: 8
+      weight: 7
       classes:
           - curved
       title: SeaTable bietet volle No-Code-Power von Anfang an
@@ -139,7 +120,7 @@ sections:
       image_alt: 'Die Airtable Alternative SeaTable bietet mehr Funktionen'
 
     - name: 'price-comparision'
-      weight: 9
+      weight: 8
       title: SeaTable vs. Airtable Pricing
       description: 'Hier sehen Sie exemplarisch die Cloud-Versionen von Airtable Team und SeaTable Enterprise im Vergleich (Stand: Oktober 2026). SeaTable Enterprise vergleichen wir mit Airtable Team, weil beide die Tarife sind, die Teams für den produktiven Einsatz wählen. **SeaTable bietet Cloud-Server in Deutschland** und zudem eine selbstgehostete Version, was es zur logischen Airtable Alternative für höhere Sicherheitsanforderungen macht.'
       competitor:
@@ -179,7 +160,7 @@ sections:
                 - '**Auch selbst hostbar**'
 
     - name: "content-4"
-      weight: 10
+      weight: 9
       title: Datensicherheit und Compliance
       subtitle: Datenschutz ohne Kompromisse
       text: 'US-Anbieter wie Airtable sind weitverbreitet. Als US-Unternehmen unterliegt Airtable aber dem US CLOUD Act. Danach können US-Behörden unter bestimmten Voraussetzungen Zugriff auf Daten verlangen, auch wenn diese außerhalb der USA gespeichert sind. Das ist besonders heikel, wenn Sie Personaldaten, Kundendaten oder Daten aus der öffentlichen Verwaltung verarbeiten. SeaTable ist die Alternative zu Airtable, um Ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) zu sichern: Ihr Vertragspartner ist die SeaTable GmbH in Mainz, Ihre Daten liegen in Deutschland, und wer ganz sichergehen will, betreibt SeaTable auf eigenen Servern. Die Software entwickelt unser Partner Seafile Ltd. und stellt sie als Docker-Image bereit. Die Server der SeaTable Cloud betreibt ausschließlich die SeaTable GmbH, und nur wir haben Zugriff darauf.'
@@ -201,7 +182,7 @@ sections:
         text: "SeaTable unterstützt Single Sign-on, Zwei-Faktor-Authentifizierung und weitere gängige Authentifizierungstechniken."
 
     - name: "content-2"
-      weight: 11
+      weight: 10
       title: Wann Airtable die bessere Wahl bleibt
       subtitle: Ein ehrlicher Vergleich
       description: 'SeaTable ist nicht für jedes Team die richtige Wahl. Wie SeaTable, Baserow, NocoDB, Grist und weitere Werkzeuge im Detail abschneiden, zeigt unser [Vergleich der 8 besten Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}). In diesen Punkten ist Airtable heute stärker:'
@@ -220,7 +201,7 @@ sections:
         text: 'Airtable hat mehr Nutzer und damit mehr Integrationen von Drittanbietern, Vorlagen und Anleitungen im Netz.'
 
     - name: customer-1
-      weight: 12
+      weight: 11
       title: 'Organisationen weltweit vertrauen SeaTable'
       subtitle: 'Wer nutzt SeaTable als Airtable Alternative?'
       text: 'SeaTable wird unter anderem von der Bundeswehr, der Humboldt-Universität zu Berlin, der Max-Planck-Gesellschaft, dem französischen Hochschulevaluationsrat Hcéres, dem Elektronikhersteller eolane, Red Dot und TELUS eingesetzt.'
@@ -231,7 +212,7 @@ sections:
             style: primary
 
     - name: "content-6"
-      weight: 13
+      weight: 12
       classes:
         - curved
         - bg-gray-100
@@ -243,7 +224,7 @@ sections:
       image_alt: 'KI-Chat-Plugin der Airtable Alternative SeaTable.'
 
     - name: "content-10"
-      weight: 14
+      weight: 13
       classes:
         - curved
         - bg-white
@@ -257,7 +238,7 @@ sections:
         - image: "/images/logos/seatable-api.svg"
 
     - name: "youtube"
-      weight: 15
+      weight: 14
       title: So einfach wechseln Sie zu SeaTable
       subtitle: How-to Airtable-Migration
       description:
@@ -265,7 +246,7 @@ sections:
       aspect: 16:9
 
     - name: content-5
-      weight: 16
+      weight: 15
       items:
       - title: "Einfache Migration von Airtable zu SeaTable"
         subtitle: "Automatischer Datentransfer"
