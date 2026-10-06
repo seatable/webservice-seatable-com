@@ -85,7 +85,7 @@ SeaTable es una base de datos no-code de SeaTable GmbH, con sede en Maguncia (Al
 
 **Para quién no es adecuado SeaTable:** equipos que quieren usar la IA principalmente para crear sus bases de datos y apps, y empresas que necesitan tiempos de respuesta garantizados por contrato.
 
-**Migración desde Airtable:** Al crear una base, elija "Import from Airtable" e introduzca el ID de la base y un Personal Access Token. Se transfieren todas las tablas, todas las filas incluidos los adjuntos, todas las columnas excepto Button, Count, Lookup y Rollup, así como las vistas. Las columnas de fórmula se crean con la fórmula original de Airtable como marcador de posición. Usted mismo traslada la fórmula a la sintaxis de SeaTable. Para tener más control, existe un [script de migración]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
+**Migración desde Airtable:** Al crear una base, elija "Importar desde Airtable" e introduzca el ID de la base y un Personal Access Token. Se transfieren todas las tablas, todas las filas incluidos los adjuntos, todas las columnas excepto Button, Count, Lookup y Rollup, así como las vistas. Las columnas de fórmula se crean con la fórmula original de Airtable como marcador de posición. Usted mismo traslada la fórmula a la sintaxis de SeaTable. Para tener más control, existe un [script de migración]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 **Precio:** Free gratis (10.000 filas, 25 usuarios), Plus 7 €, Enterprise 14 € por usuario y mes con pago anual. Todos los detalles en la [página de precios]({{< relref "pages/prices" >}}).
 

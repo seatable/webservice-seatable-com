@@ -5,7 +5,7 @@ seo:
     title: 'Airtable Alternative: DSGVO-konform, Cloud & On-Premises | SeaTable'
     description: 'SeaTable ist die Airtable Alternative aus Deutschland: Server in Frankfurt und München, Import Ihrer Airtable-Bases, auch selbst hostbar. Kostenlos starten.'
 date: '2025-05-02'
-lastmod: '2026-09-30'
+lastmod: '2026-10-05'
 url: '/de/airtable-alternative'
 
 sections:
