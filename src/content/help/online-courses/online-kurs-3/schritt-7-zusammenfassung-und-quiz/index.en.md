@@ -18,7 +18,7 @@ Congratulations! You started this course working alone on a base, and you are fi
 ## What you have learned
 
 - You can **share a base** with a colleague and pick the right permission level — Read-Only, Read-Write, or, on a paid plan, a custom share that exposes only chosen tables and views.
-- You can **discuss records in context** with comments, and you know that only an @mention actually notifies a colleague, while a plain comment quietly waits on the row.
+- You can **discuss records in context** with comments, and you know that a comment only notifies the people taking part in the row's conversation — which a colleague joins when you @mention or add them.
 - You can **read the history** in the activity log, the base log and the row log to see who changed what, and **restore a single change** without disturbing anything else.
 - You can **distribute a live dataset** to another team with a common dataset, keeping your master private and authoritative while their copy stays in sync and they build their own work on top of it.
 - You can **collaborate visually** in real time on the whiteboard.
