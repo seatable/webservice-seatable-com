@@ -1,7 +1,7 @@
 ---
-title: 'Instructions for the Online courses plugin'
+title: 'Instructions for the online courses plugin'
 date: 2026-08-03
-lastmod: '2026-08-03'
+lastmod: '2026-10-06'
 categories:
     - 'plugins'
 author: 'bha'
@@ -10,15 +10,15 @@ aliases:
     - '/help/anleitung-zum-online-kurse-plugin'
 seo:
     title: 'Online Courses Plugin Guide in SeaTable'
-    description: 'The SeaTable Online courses plugin turns each online course into an interactive, hands-on experience and checks your work directly in your own base.'
+    description: 'The SeaTable online courses plugin turns each online course into an interactive, hands-on experience and checks your work directly in your own base.'
 ---
 
-The **Online courses plugin** is a little different from the other plugins: it does not give you a new view of your data — it is a **learning companion**. It walks you through the hands-on exercises of the SeaTable [online courses]({{< relref "help/online-courses" >}}) and **checks your work directly in your own base**. You build an automation, write a short script or set up a view by following a course, then open the plugin and let it verify that the expected result is really there in your data.
+The **online courses plugin** is a little different from the other plugins: it does not give you a new view of your data — it is a **learning companion**. It walks you through the hands-on exercises of the SeaTable [online courses]({{< relref "help/online-courses" >}}) and **checks your work directly in your own base**. You build an automation, write a short script or set up a view by following a course, then open the plugin and let it verify that the expected result is really there in your data.
 
 <!-- TODO: confirm the exact install path for this plugin (marketplace vs. manual upload) once it is published, and link it here. For now this points to the generic "activate a plugin" article. -->
 You can find out how to activate a plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-![The online-courses plugin open below a base, with the list of steps on the left and the current exercise and its Verify button on the right](images/online-courses-plugin.png)
+![The online courses plugin open below a base, with the list of steps on the left and the current exercise and its Verify button on the right](images/online-courses-plugin.png)
 
 ## How it works with the courses
 
@@ -33,15 +33,17 @@ The plugin is not only there to mark your work at the end, though. When an opera
 
 It can also **make changes in your base itself** when an exercise needs it: bringing in the records a step is supposed to work on, or undoing what a previous step produced so you can run it again from a clean state. You are told each time what it is about to do.
 
+In the collaboration course, it goes one step further and **plays the part of a colleague**: it acts in your base on their behalf (a comment, an edit) so you can practice working as a team without needing a second person.
+
 ## Your first run
 
-The first time you open the plugin, start with the built-in **Welcome course** — pick it from the list on the left. It is a short, one-minute tour that shows you **how a course works**, what the **buttons** do, and how to slide the panel out of your way with the **movable toolbar**. Everything that follows assumes you are comfortable moving between the website and the plugin, so this is the place to begin.
+The first time you open the plugin, start with the built-in **Welcome course** — pick it from the list on the left. It is a short, two-minute tour that shows you **how a course works**, what the **buttons** do, and how to slide the panel out of your way with the **movable toolbar**. Everything that follows assumes you are comfortable moving between the website and the plugin, so this is the place to begin.
 
 Once you are familiar with the companion, select the course you are working on from the same list and follow along with the website.
 
 ## Which courses are supported
 
-The plugin is being rolled out course by course. [Online Course 4 – Automation & Integration]({{< relref "help/online-courses/online-kurs-4/level-vier-einfuehrung" >}}) is fully supported today, and more courses are being added. A course the plugin does not check yet still opens with a short note telling you so and pointing you to follow it on the website in the meantime.
+The plugin is being rolled out course by course. [Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) and [Online Course 4 – Automation & Integration]({{< relref "help/online-courses/online-kurs-4/level-vier-einfuehrung" >}}) are fully supported today, and more courses are being added. A course the plugin does not check yet still opens with a short note telling you so and pointing you to follow it on the website in the meantime.
 
 ## Other helpful articles
 
