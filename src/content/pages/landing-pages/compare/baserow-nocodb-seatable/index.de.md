@@ -42,10 +42,11 @@ Alle Angaben zu Baserow und NocoDB haben wir am 5. Oktober 2026 auf deren Preis-
 |---|---|---|---|
 | Lizenz | proprietär, selbst gehostet kostenlos bis 3 Nutzer | Kern unter MIT-Lizenz, Zusatzfunktionen kommerziell | Sustainable Use License (Fair-Code) |
 | Firmensitz | Mainz, Deutschland | Amsterdam, Niederlande | Delaware, USA |
-| Cloud-Hosting | Deutschland (Exoscale, Frankfurt und München) | Deutschland | nicht dokumentiert |
+| Cloud-Hosting | Deutschland (Exoscale, Frankfurt und München) | Deutschland | USA (AWS), keine Wahl des Standorts |
 | Selbst hosten | Docker Compose; Kubernetes möglich, kein offizielles Helm-Chart | Docker, Kubernetes mit offiziellem Helm-Chart | Docker Compose, offizielles Helm-Chart |
 | Preis selbst gehostet | kostenlos bis 3 Nutzer; 10 Nutzer 500 €/Jahr, 25 Nutzer 1.250 €/Jahr | Grundversion kostenlos ohne Limits; Zusatzfunktionen mit kostenpflichtiger Lizenz pro Platz | Community kostenlos ohne Limits; Business, Scale und Enterprise kostenpflichtig |
 | Preis Cloud (pro Nutzer/Monat, jährlich) | Plus 7 €, Enterprise 14 € | Premium 10 $, Advanced 18 $ | Plus 12 $, Business 24 $ (höchstens 9 Nutzer berechnet) |
+| Abrechnung | pro Team, Freigaben zwischen Teams kostenlos | pro Workspace | pro Workspace |
 | Gratisversion Cloud | 10.000 Zeilen, 25 Nutzer | 3.000 Zeilen pro Workspace | 1.000 Datensätze, 3 Bearbeiter |
 | Ansichten | Tabelle, Galerie, Kanban, Kalender, Zeitleiste, Baum, Formular | Tabelle, Formular, Galerie; ab Premium auch Kanban, Kalender, Zeitleiste | Tabelle, Kanban, Galerie, Formular, Kalender, Karte |
 | App-Builder | in allen Tarifen | Application Builder | ab Plus |
@@ -58,6 +59,10 @@ Alle Angaben zu Baserow und NocoDB haben wir am 5. Oktober 2026 auf deren Preis-
 | Deutsche Oberfläche | ja | ja | ja (Beta, von der Community übersetzt) |
 | Deutscher Support | ja | nicht ausgewiesen | nicht ausgewiesen |
 {.sticky-2}
+
+{{< warning headline="Kostenfalle: Abrechnung pro Workspace" >}}
+Bei Baserow und NocoDB gilt ein Abo immer für einen einzelnen Workspace. Wer in mehreren Workspaces mitarbeitet, wird in jedem davon als Nutzer berechnet. Arbeiten zum Beispiel dieselben 10 Personen in zwei Workspaces, zahlen Sie für 20 Plätze statt für 10. Bei SeaTable gehört jeder Nutzer zu genau einem Team und wird nur dort berechnet. Bases lassen sich zwischen Teams freigeben, ohne dass dafür zusätzliche Kosten entstehen ([Baserow](https://baserow.io/user-docs/subscriptions-overview), [NocoDB](https://nocodb.com/pricing)).
+{{< /warning >}}
 
 ## Die drei Werkzeuge kurz vorgestellt
 
@@ -81,6 +86,7 @@ Alle Angaben zu Baserow und NocoDB haben wir am 5. Oktober 2026 auf deren Preis-
 - **Python und JavaScript direkt in der Base**, in allen Tarifen ([Skripte in SeaTable]({{< relref "help/skripte" >}})).
 - **App-Builder schon in der Gratisversion**, für Eingabemasken, Dashboards und Portale ([App-Builder]({{< relref "help/app-builder" >}})).
 - **Großzügigere Gratisversion:** 10.000 Zeilen und 25 Nutzer, gegenüber 3.000 Zeilen bei Baserow und 1.000 Datensätzen bei NocoDB ([Preise]({{< relref "pages/prices" >}})).
+- **Abrechnung pro Team statt pro Workspace:** Jeder Nutzer wird nur in seinem Team berechnet, Freigaben zwischen Teams kosten nichts extra.
 - **Rechte auf Tabellen-, Ansichts- und Spaltenebene ab Plus (7 €).** Bei Baserow gibt es Rollen erst ab Advanced (18 $).
 - **Vertragspartner in Deutschland** mit öffentlich abschließbarem AV-Vertrag ([Sicherheit]({{< relref "pages/legal/security" >}})).
 - **Single Sign-on in der Cloud ab Enterprise**, selbst gehostet auch per LDAP ([SeaTable Server]({{< relref "pages/product/seatable-server" >}})).
@@ -112,7 +118,7 @@ Ja, alle drei importieren Bases direkt aus Airtable. Formeln, Automationen und I
 {{< /faq >}}
 
 {{< faq "Welches Werkzeug eignet sich für Behörden und Unternehmen mit DSGVO-Anforderungen?" >}}
-Selbst gehostet bleiben die Daten bei allen drei auf Ihren Servern. In der Cloud sitzen bei SeaTable der Anbieter und die Rechenzentren in Deutschland. Baserow speichert Cloud-Daten in Deutschland, der Anbieter sitzt in den Niederlanden. Für die NocoDB Cloud haben wir keine Angaben zum Hosting-Standort gefunden.
+Selbst gehostet bleiben die Daten bei allen drei auf Ihren Servern. In der Cloud sitzen bei SeaTable der Anbieter und die Rechenzentren in Deutschland. Baserow speichert Cloud-Daten in Deutschland, der Anbieter sitzt in den Niederlanden. Die NocoDB Cloud läuft bei Amazon Web Services, laut Liste der Unterauftragsverarbeiter in den USA. Eine Wahl des Standorts bietet NocoDB nicht an.
 {{< /faq >}}
 
 ## Quellen
@@ -120,7 +126,7 @@ Selbst gehostet bleiben die Daten bei allen drei auf Ihren Servern. In der Cloud
 Abgerufen am 5. Oktober 2026.
 
 - **Baserow:** [Preise](https://baserow.io/pricing), [Lizenz](https://gitlab.com/baserow/baserow/-/raw/develop/LICENSE), [AGB](https://baserow.io/terms-and-conditions), [Datenstandort](https://baserow.io/blog/baserow-data-residency), [Installation mit Helm](https://baserow.io/docs/installation/install-with-helm), [Abonnements](https://baserow.io/user-docs/subscriptions-overview), [KI-Assistent Kuma](https://baserow.io/user-docs/ai-assistant), [Single Sign-on](https://baserow.io/user-docs/single-sign-on-sso-overview), [Sprachen](https://github.com/bram2w/baserow/tree/develop/web-frontend/locales)
-- **NocoDB:** [Preise](https://nocodb.com/pricing), [Lizenz](https://github.com/nocodb/nocodb/blob/develop/LICENSE.md), [Datenschutz](https://nocodb.com/privacy), [Installation mit Docker](https://nocodb.com/docs/self-hosting/installation/docker), [Kubernetes](https://nocodb.com/docs/self-hosting/installation/kubernetes), [Skripte](https://nocodb.com/docs/scripts), [NocoAI](https://nocodb.com/docs/product/noco-ai), [Sprachen](https://nocodb.com/docs/product/account-settings/language)
+- **NocoDB:** [Preise](https://nocodb.com/pricing), [Lizenz](https://github.com/nocodb/nocodb/blob/develop/LICENSE.md), [Datenschutz](https://nocodb.com/privacy), [Unterauftragsverarbeiter](https://nocodb.com/docs/legal/subprocessors), [Installation mit Docker](https://nocodb.com/docs/self-hosting/installation/docker), [Kubernetes](https://nocodb.com/docs/self-hosting/installation/kubernetes), [Skripte](https://nocodb.com/docs/scripts), [NocoAI](https://nocodb.com/docs/product/noco-ai), [Sprachen](https://nocodb.com/docs/product/account-settings/language)
 - **SeaTable:** [Preise]({{< relref "pages/prices" >}}), [Hilfe]({{< relref "help" >}}), [Admin-Handbuch](https://admin.seatable.com/)
 
 ## Änderungsprotokoll
