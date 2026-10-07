@@ -28,7 +28,7 @@ A comment column opens on the right.
 
 ![A customer row with its comment thread open on the right](images/lvl3-comment-thread.png)
 
-Open the `Customers` table and pick the customer `James Bennett` to talk about. Type a message — for example, asking a colleague to confirm `James Bennett`'s `Industry` — and click `Submit`. A small speech-bubble icon now appears in the first column of that row, so anyone scanning the table can see a conversation is in progress.
+Open the `Customers` table and pick the customer `James Bennett` to talk about. Type a message — for example, asking a colleague to confirm `James Bennett`'s `Industry` — and send it with the send icon. A small speech-bubble icon now appears in the first column of that row, so anyone scanning the table can see a conversation is in progress.
 
 ## A comment reaches only the conversation
 
