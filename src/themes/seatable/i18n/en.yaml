@@ -9,6 +9,7 @@ error:
 
 article:
     table_of_contents: 'Table of Contents'
+    zoom_hint: 'Click to enlarge'
 
 legal:
     version: 'Version'

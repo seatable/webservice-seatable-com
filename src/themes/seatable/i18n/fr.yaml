@@ -9,6 +9,7 @@ error:
 
 article:
     table_of_contents: 'Table des matières'
+    zoom_hint: 'Cliquer pour agrandir'
 
 legal:
     version: 'Version'

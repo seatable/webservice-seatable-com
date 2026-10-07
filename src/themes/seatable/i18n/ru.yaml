@@ -9,6 +9,7 @@ error:
 
 article:
     table_of_contents: 'Оглавление'
+    zoom_hint: 'Нажмите, чтобы увеличить'
 
 legal:
     version: 'Версия'

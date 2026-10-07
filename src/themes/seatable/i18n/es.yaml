@@ -9,6 +9,7 @@ error:
 
 article:
     table_of_contents: 'Índice'
+    zoom_hint: 'Haga clic para ampliar'
 
 legal:
     version: 'Versión'

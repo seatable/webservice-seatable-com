@@ -19,7 +19,7 @@ Commençons par vous montrer comment utiliser SeaTable. SeaTable est une solutio
 
 Ouvrez donc votre navigateur, accédez à la page de connexion de SeaTable et connectez-vous avec vos données d'accès. La page d'accueil devrait ressembler à peu près à ceci :
 
-![Éléments de la page d'accueil SeaTable](images/elements_seatable_homepage.png)
+{{< zoom image="images/elements_seatable_homepage.png" alt="Éléments de la page d'accueil SeaTable" >}}
 
 ## La page d'accueil
 
@@ -39,7 +39,7 @@ Ouvrez maintenant une de vos bases en cliquant avec la souris sur une de vos bas
 
 Dans un premier temps, vous ne verrez que trois cellules vides dans votre base, ne vous laissez donc pas désorienter lorsque nous expliquerons les différents éléments à l'aide d'une base d'exemple remplie.
 
-![Éléments de la SeaTable Base](images/elements_seatable_base.png)
+{{< zoom image="images/elements_seatable_base.png" alt="Éléments de la SeaTable Base" >}}
 
 Ouf, la première vue d'une base peut être assez effrayante. Il y a tant de boutons et de possibilités d'interaction qui attendent d'être utilisés. Voyons les différents éléments en détail.
 
