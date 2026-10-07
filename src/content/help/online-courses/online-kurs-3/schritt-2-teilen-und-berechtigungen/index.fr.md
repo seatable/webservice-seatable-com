@@ -33,7 +33,7 @@ Passez à l'**étape 2b** du plugin : elle montre la page d'accueil de Malika t
 
 Malika doit travailler dans votre base : vous allez donc la partager avec elle. Comme Malika fait partie du marketing et que votre base appartient au commercial, l'outil adapté est ici un **partage avec un utilisateur** : vous donnez accès à une personne précise.
 
-Sur la page d'accueil de SeaTable, ouvrez le menu de la tuile `Sales CRM` et choisissez `Partage`. Sous `Partager avec un utilisateur`, sélectionnez Malika, réglez l'autorisation sur `Lecture / écriture` et validez.
+Sur la page d'accueil de SeaTable, ouvrez le menu de la tuile `Sales CRM` et choisissez `Partager`. Sous `Partager avec un utilisateur`, sélectionnez Malika, réglez l'autorisation sur `Lecture / écriture` et validez.
 
 ![La boîte de dialogue de partage, sur l'onglet de partage avec un utilisateur, avec Malika sélectionnée et l'autorisation réglée sur lecture et écriture](images/lvl3-share-base-with-user.gif)
 

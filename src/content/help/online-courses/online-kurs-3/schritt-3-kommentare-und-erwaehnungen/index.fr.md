@@ -26,7 +26,7 @@ Une colonne de commentaires s'ouvre à droite.
 
 ![Une ligne client avec son fil de commentaires ouvert à droite](images/lvl3-comment-thread.png)
 
-Ouvrez le tableau `Customers` et choisissez le client `James Bennett` comme sujet de discussion. Écrivez un message, par exemple pour demander à une collègue de confirmer l'`Industry` de `James Bennett`, et cliquez sur `Soumettre`. Une petite icône de bulle apparaît alors dans la première colonne de la ligne : en parcourant le tableau, chacun voit qu'une conversation est en cours.
+Ouvrez le tableau `Customers` et choisissez le client `James Bennett` comme sujet de discussion. Écrivez un message, par exemple pour demander à une collègue de confirmer l'`Industry` de `James Bennett`, et envoyez-le avec l'icône d'envoi. Une petite icône de bulle apparaît alors dans la première colonne de la ligne : en parcourant le tableau, chacun voit qu'une conversation est en cours.
 
 ## Un commentaire n'atteint que les participants de la conversation
 
