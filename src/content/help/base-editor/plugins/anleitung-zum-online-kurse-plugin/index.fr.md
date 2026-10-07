@@ -13,7 +13,7 @@ seo:
     description: 'Le plugin de cours en ligne de SeaTable rend chaque cours interactif et vérifie votre travail directement dans votre propre base.'
 ---
 
-Le **plugin de cours en ligne** n'est pas un plugin comme les autres : il ne vous offre pas une nouvelle façon de voir vos données, il vous **accompagne dans votre apprentissage**. Il vous guide dans les exercices pratiques des [cours en ligne]({{< relref "help/online-courses" >}}) de SeaTable et **vérifie votre travail directement dans votre propre base**. En suivant un cours, vous créez une automatisation, écrivez un court script ou configurez une vue ; vous ouvrez ensuite le plugin, qui vérifie que le résultat attendu se trouve bien dans vos données.
+Le **plugin de cours en ligne** n'est pas un plugin comme les autres : il ne vous offre pas une nouvelle façon de voir vos données, il vous **accompagne dans votre apprentissage**. Il vous guide dans les exercices pratiques des [cours en ligne]({{< relref "help/online-courses" >}}) de SeaTable et **vérifie votre travail directement dans votre propre base**. Au fil d'un cours, vous créez par exemple une automatisation, un court script ou une vue, puis vous ouvrez le plugin : il contrôle que le résultat attendu est bien là, dans vos données.
 
 Pour savoir comment activer un plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -25,20 +25,20 @@ Vous suivez chaque cours principalement sur notre **site web**, où le scénario
 
 Le site et le plugin ont chacun leur rôle :
 
-- Le **site** porte le récit : il explique chaque notion, et montre ce qu'il faut construire et pourquoi.
-- Le **plugin** travaille avec vous dans votre base. C'est le point de contrôle : il lit vos données et confirme que votre automatisation se déclenche correctement, que votre script a produit les bonnes valeurs ou que votre vue est configurée comme prévu, avec un retour immédiat.
+- Le **site** raconte l'histoire : il explique chaque notion, ce qu'il faut construire et pourquoi.
+- Le **plugin** vous accompagne dans votre base et contrôle votre travail : il lit vos données et vous confirme aussitôt que votre automatisation se déclenche bien, que votre script a produit les bonnes valeurs ou que votre vue est configurée comme prévu.
 
-Le plugin ne se contente pas pour autant de noter votre travail à la fin. Quand une opération se fait en plusieurs temps – le déclencheur d'une automatisation, puis ses conditions, puis chacune de ses actions –, il peut **vous guider pas à pas** : il vous indique ce qu'il faut régler et valide chaque phase avant de passer à la suivante. Vous pouvez donc tout construire vous-même et demander un verdict unique, ou vous laisser accompagner du début à la fin.
+Le plugin ne se contente pas pour autant de noter votre travail à la fin. Quand une opération se fait en plusieurs temps – le déclencheur d'une automatisation, puis ses conditions, puis chacune de ses actions –, il peut **vous guider pas à pas** : il vous indique ce qu'il faut régler et valide chaque phase avant de passer à la suivante. Vous pouvez donc tout construire par vous-même et ne demander qu'une vérification finale, ou vous laisser guider de bout en bout.
 
-Il peut aussi **modifier lui-même votre base** quand un exercice l'exige : ajouter les lignes sur lesquelles une étape doit travailler, ou annuler ce qu'une étape précédente a produit pour que vous puissiez la refaire en repartant de zéro. Il vous prévient chaque fois de ce qu'il s'apprête à faire.
+Il peut aussi **modifier lui-même votre base** quand un exercice l'exige : ajouter les lignes dont l'exercice a besoin, ou défaire ce qu'une étape précédente a produit pour que vous puissiez la recommencer de zéro. Il vous annonce chaque fois ce qu'il va faire.
 
-Dans le cours consacré à la collaboration, il va plus loin et **joue le rôle d'une collègue** : il agit dans votre base en son nom (un commentaire, une modification), pour que vous puissiez vous exercer au travail d'équipe sans avoir besoin d'une deuxième personne.
+Dans le cours sur la collaboration, il va plus loin : il **joue le rôle d'une collègue** et agit en son nom dans votre base (un commentaire, une modification). Vous pouvez ainsi vous exercer au travail d'équipe sans faire appel à une autre personne.
 
 ## Première utilisation
 
-À la première ouverture du plugin, commencez par le **cours d'introduction** intégré : choisissez-le dans la liste à gauche. Cette courte visite de deux minutes vous montre **comment se déroule un cours**, à quoi servent les **boutons** et comment **réduire le plugin** pour pouvoir le déplacer dans l'interface. Toute la suite suppose que vous sachiez passer aisément du site au plugin : c'est donc par là qu'il faut commencer.
+À la première ouverture du plugin, commencez par le **cours d'introduction** intégré : choisissez-le dans la liste à gauche. Cette visite de deux minutes vous montre **comment se déroule un cours**, à quoi servent les **boutons** et comment **réduire le plugin** pour pouvoir le déplacer dans l'interface. Toute la suite suppose que vous sachiez passer aisément du site au plugin : c'est donc par là qu'il faut commencer.
 
-Une fois à l'aise avec le plugin, choisissez dans la même liste le cours que vous suivez, et avancez en parallèle sur le site.
+Une fois à l'aise, choisissez dans la même liste le cours que vous suivez, et avancez en parallèle sur le site.
 
 ## Cours pris en charge
 
