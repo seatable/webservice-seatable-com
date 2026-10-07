@@ -72,7 +72,7 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Anwohnerparkausweis digital verwalten mit SeaTable'
       subtitle: 'Warum Kommunen auf SeaTable setzen'
-      description: Mit der [KI No-Code Lösung]({{< relref "/" >}}) SeaTable nutzen Sie eine **moderne und datenschutzkonforme digitale Lösung** für die [kommunale Parkraumbewirtschaftung]({{< relref "posts/parkraumbewirtschaftung" >}}). Erfassen Sie Vorgänge aus schriftlichen und Online-Anträgen, prüfen Sie Nachweise strukturiert und behalten Sie Rückfragen, Fristen und Bearbeitungsstände im Blick. Die Vorlage für den Anwohnerparkausweis lässt sich **flexibel an kommunale Abläufe anpassen** und mit Ihrem Fachverfahren Parkraumbewirtschaftung verbinden.'
+      description: 'Mit der [KI No-Code Lösung]({{< relref "/" >}}) SeaTable nutzen Sie eine **moderne und datenschutzkonforme digitale Lösung** für die [kommunale Parkraumbewirtschaftung]({{< relref "posts/parkraumbewirtschaftung" >}}). Erfassen Sie Vorgänge aus schriftlichen und Online-Anträgen, prüfen Sie Nachweise strukturiert und behalten Sie Rückfragen, Fristen und Bearbeitungsstände im Blick. Die Vorlage für den Anwohnerparkausweis lässt sich **flexibel an kommunale Abläufe anpassen** und mit Ihrem Fachverfahren Parkraumbewirtschaftung verbinden.'
       items:
       - text: '**Stets aktuell:** Jede Änderung und jeder neue Eintrag sind sofort für alle Mitarbeiter sichtbar. So gleichen Kontrolleure Parkausweise immer mit aktuellen Daten ab.'
       - text: '**Kollaboration zwischen Fachabteilungen:** Sachbearbeitung, Straßenverkehrsbehörden, Verkehrsplanungsamt und Kämmereien nutzen ein integriertes System und arbeiten in Echtzeit zusammen.'
@@ -100,11 +100,11 @@ sections:
         image: '/images/template_page_bewohnerparkausweis_04.png'
         image_alt: 'Parkausweise und Rechnungen direkt in SeaTable erzeugt und am zugehörigen Antrag gespeichert'
       - headline: 'Automatische Erinnerungen und Dokumentenversand'
-        text: Wenn Sie einen verschlüsselten und verifizierten E-Mail-Client mit SeaTable integrieren, dann können Sie Rechnungen und Parkausweise automatisiert versenden. Außerdem können Sie Automatisierungen nutzen, um rechtzeitig vor Ablauf der Gültigkeit Bürgerinnen und Bürger daran zu erinnern, ihren Parkausweis zu verlängern. '
+        text: 'Wenn Sie einen verschlüsselten und verifizierten E-Mail-Client mit SeaTable integrieren, dann können Sie Rechnungen und Parkausweise automatisiert versenden. Außerdem können Sie Automatisierungen nutzen, um rechtzeitig vor Ablauf der Gültigkeit Bürgerinnen und Bürger daran zu erinnern, ihren Parkausweis zu verlängern. '
         image: '/images/template_page_bewohnerparkausweis_05.png'
         image_alt: 'Intuitiver Automatisierungs-Editor für smarte Bewohnerparkausweis-Verwaltungsprozesse in SeaTable'
       - headline: 'Datenschutz und Sicherheit'
-        text: Gerade in der [öffentlichen Verwaltung]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) ist der Schutz sensibler personenbezogener Daten entscheidend. SeaTable legt größten Wert auf Datenschutz und Sicherheit und erfüllt die strengen Vorgaben der DSGVO. Über granulare Lese- und Bearbeitungsrechte steuern Sie, wer Zugriff auf welche Informationen erhält.'
+        text: 'Gerade in der [öffentlichen Verwaltung]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}) ist der Schutz sensibler personenbezogener Daten entscheidend. SeaTable legt größten Wert auf Datenschutz und Sicherheit und erfüllt die strengen Vorgaben der DSGVO. Über granulare Lese- und Bearbeitungsrechte steuern Sie, wer Zugriff auf welche Informationen erhält.'
         image: '/images/template_page_bewohnerparkausweis_06.png'
         image_alt: 'Granulare Berechtigungsverwaltung für höchsten Datenschutz'
             
@@ -116,15 +116,15 @@ sections:
       title: 'Vom Bürgerportal bis zum fertigen digitalen Parkausweis'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie mit wenig Aufwand **benutzerfreundliche Frontends für Ihr digitales Bürgerportal**. Die Bewohnerparkausweis-Verwaltung-Vorlage enthält bereits eine vorbereitete App zur Auftragserfassung und eine weitere zur Anwohnerparkausweis-Kontrolle. Sie können zusätzlich **flexible Dashboards anlegen**, um Parkzonen auszuwerten und offene Anträge auf einen Bewohnerparkausweis im Blick zu behalten. So machen Sie aus der Vorlage ein **zentrales System für Erfassung, Ausstellung und Auswertung**.'
+      - text: 'Mit SeaTables integriertem [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie mit wenig Aufwand **benutzerfreundliche Frontends für Ihr digitales Bürgerportal**. Die Bewohnerparkausweis-Verwaltung-Vorlage enthält bereits eine vorbereitete App zur Antragserfassung und eine weitere zur Anwohnerparkausweis-Kontrolle. Sie können zusätzlich **flexible Dashboards anlegen**, um Parkzonen auszuwerten und offene Anträge auf einen Bewohnerparkausweis im Blick zu behalten. So machen Sie aus der Vorlage ein **zentrales System für Erfassung, Ausstellung und Auswertung**.'
       image: '/images/template_page_bewohnerparkausweis_07.png'
       image_alt: 'Parkausweiskontrolle in der SeaTable-App'
 
     - name: "banner-3"
       weight: 15
-      title: 'Jedes Exponat digital erfasst – überall abrufbar mit SeaTable'
+      title: 'Jeder Bewohnerparkausweis digital verwaltet – überall abrufbar mit SeaTable'
       buttons:
-        - label: Jetzt die Inventarisierungsvorlage für Ihr Museum nutzen
+        - label: Jetzt die Bewohnerparkausweis-Vorlage nutzen
           link: pages/registration
      
     - name: "content-9"
@@ -140,7 +140,7 @@ sections:
         text: 'Kategorisieren Sie eingehende Bewohnerparkausweis-Anträge automatisch zum Beispiel nach Antragsart. So bleiben Neuanträge, Verlängerungen und Ersatzausstellungen sauber voneinander getrennt.'
         icon: table
       - headline: 'OCR für analoge Anträge'
-        text: 'Mit OCR lesen Sie Text aus Fotos von alten Anwohnerparkausweis Anträgen oder Dokumenten aus und schreiben den Text in die entsprechenden Spalten. Digitale Anträge werden so digitalisiert.'
+        text: 'Mit OCR lesen Sie Text aus Fotos von alten Anwohnerparkausweis Anträgen oder Dokumenten aus und schreiben den Text in die entsprechenden Spalten. Analoge Anträge werden so digitalisiert.'
         icon: image
       - headline: 'Daten aus Nachweisen übernehmen'
         text: 'Mit der Extract-Funktion übernehmen Sie automatisch Daten aus Ausweisdokumenten oder Fahrzeugscheinen und schreiben sie in die entsprechenden Spalten. So reduzieren Sie Aufwände und vermeiden manuelle Eingabefehler.'
@@ -160,7 +160,7 @@ sections:
        - bg-gray-100
       title: 'Bewohnerparkausweise rechtssicher und OZG-konform verwalten'
       subtitle: 'Transparenz und Datenschutz'
-      description: SeaTable ist eine moderne KI No-Code Lösung mit App Builder und bietet alle Funktionen, die Kommunen für ein digitales Antrags- und Bearbeitungsverfahren für einen Bewohnerparkausweis benötigen. Im Mittelpunkt stehen volle Transparenz, höchster Datenschutz, automatisierte Erfassung und eine flexible Integration in bestehende Fachverfahren.'
+      description: 'SeaTable ist eine moderne KI No-Code Lösung mit App Builder und bietet alle Funktionen, die Kommunen für ein digitales Antrags- und Bearbeitungsverfahren für einen Bewohnerparkausweis benötigen. Im Mittelpunkt stehen volle Transparenz, höchster Datenschutz, automatisierte Erfassung und eine flexible Integration in bestehende Fachverfahren.'
       box-position: [right!]
       items:
       - headline: Transparenz
@@ -177,7 +177,7 @@ sections:
       title: 'FAQ – Anwohnerparken mit SeaTable verwalten'
       subtitle: 
       items:
-      - q: "Ist die SeaTable-Vorlage für ein digitales Bewohnerparkausweis-Verwaltung OZG-konform?"
+      - q: "Ist die SeaTable-Vorlage für eine digitale Bewohnerparkausweis-Verwaltung OZG-konform?"
         a: 'Die Bewohnerparkausweis-Management-Vorlage ist modular aufgebaut und lässt sich flexibel an Ihre kommunalen Vorgaben anpassen. Da Antragsformular, Prüfprozesse und Bescheiderstellung standardisiert, aber individuell konfigurierbar sind, bildet sie eine solide Grundlage für eine OZG-konforme Umsetzung des Online-Antragsverfahrens.'
       - q: "Wie funktioniert die Anbindung an bestehende Fachverfahren der Straßenverkehrsbehörde?"
         a: 'SeaTable bietet eine API, über die Sie die Vorlage nahtlos an Ihre bestehenden Systeme anbinden. Sie können Antragsdaten, Kennzeichen und ausgestellte Anwohnerparkausweise automatisiert zwischen Ihrem Bewohnerparkausweis-Management-System in SeaTable und weiteren Fachverfahren synchronisieren. '
@@ -188,7 +188,7 @@ sections:
       - q: "Kann SeaTable als Bewohnerparkausweis-Verwaltung-System auch selbst gehostet werden? "
         a: 'Ja, absolut. Für öffentliche Verwaltungen eignet sich [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) oder [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) als on-premises Lösung.'
       - q: "Ist die KI-Nutzung in SeaTable sicher?"
-        a: 'a, SeaTable hostet ein eigenes KI-Modell auf Servern des deutschen Anbieters Exoscale in Frankfurt. Wenn Sie die integrierten KI-Funktionen nutzen, dann bleiben Ihre Daten jederzeit innerhalb der SeaTable-Infrastruktur.'
+        a: 'Ja, SeaTable hostet ein eigenes KI-Modell auf Servern des deutschen Anbieters Exoscale in Frankfurt. Wenn Sie die integrierten KI-Funktionen nutzen, dann bleiben Ihre Daten jederzeit innerhalb der SeaTable-Infrastruktur.'
       - q: "Bietet SeaTable eine kostenlose Version oder eine Test-Version an?"
         a: 'Ja, Sie können SeaTable dauerhaft kostenlos für bis zu 25 Teammitglieder nutzen.'
       - q: "Bietet SeaTable noch weitere Vorlagen für öffentliche Verwaltungen an?"
