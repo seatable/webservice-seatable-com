@@ -36,7 +36,7 @@ In the collaboration course, it goes one step further and **plays the part of a 
 
 ## Your first run
 
-The first time you open the plugin, start with the built-in **Welcome course** — pick it from the list on the left. It is a short, two-minute tour that shows you **how a course works**, what the **buttons** do, and how to slide the panel out of your way with the **movable toolbar**. Everything that follows assumes you are comfortable moving between the website and the plugin, so this is the place to begin.
+The first time you open the plugin, start with the built-in **Welcome course** — pick it from the list on the left. It is a short, two-minute tour that shows you **how a course works**, what the **buttons** do, and how to **shrink the plugin** so you can move it around the screen. Everything that follows assumes you are comfortable moving between the website and the plugin, so this is the place to begin.
 
 Once you are familiar with the companion, select the course you are working on from the same list and follow along with the website.
 
