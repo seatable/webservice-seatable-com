@@ -99,7 +99,7 @@ Le tableau `Customers` est livré avec deux vues conçues pour des usages diffé
 
 - `{{< seatable-icon icon="dtable-icon-main-view" >}} All customers` montre tout, y compris le `Total Deal Value` confidentiel. C'est la vue interne et complète de l'équipe commerciale.
 - `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` est une vue allégée : elle se concentre sur les clients actuels et masque les chiffres confidentiels. C'est la version qu'on peut partager sans risque avec une autre équipe.
-    - Filtre : `{{< seatable-icon icon="dtable-icon-single-election" >}} Status` n'est aucun de `Churned`
+    - Filtre : `{{< seatable-icon icon="dtable-icon-single-election" >}} Status` ne contient aucun `Churned`
     - Colonnes masquées : `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Created`, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Deals`, `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Total Deal Value`
 
 Dans SeaTable, une vue n'est qu'une façon de regarder les mêmes données : les lignes sont stockées à un seul endroit, et chaque vue décide de ce qu'elle montre, masque, filtre et regroupe. Cette distinction vous servira dans les étapes suivantes : vous partagez une **vue**, pas un accès brut à tout, et vous publierez plus tard `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` pour une autre équipe, sous forme de données toujours à jour.
