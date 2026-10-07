@@ -34,7 +34,7 @@ Im Kurs zur Zusammenarbeit geht das Plugin noch einen Schritt weiter und **über
 
 ## Der erste Start
 
-Wenn Sie das Plugin zum ersten Mal öffnen, beginnen Sie mit dem integrierten **Einführungskurs** – Sie finden ihn links in der Liste. Die zweiminütige Tour zeigt Ihnen, **wie ein Kurs abläuft**, was die **Buttons** bewirken und wie Sie **das Plugin verkleinern**, um es frei in der Oberfläche zu verschieben. Alles Weitere setzt voraus, dass Sie sicher zwischen Website und Plugin hin- und herwechseln können – hier fangen Sie also am besten an.
+Wenn Sie das Plugin zum ersten Mal öffnen, beginnen Sie mit dem integrierten **Einführungskurs** – Sie finden ihn links in der Liste. Diese kurze Einführung zeigt Ihnen, **wie ein Kurs abläuft**, was die **Buttons** bewirken und wie Sie **das Plugin verkleinern**, um es frei in der Oberfläche zu verschieben. Alles Weitere setzt voraus, dass Sie sicher zwischen Website und Plugin hin- und herwechseln können – hier fangen Sie also am besten an.
 
 Sobald Sie mit dem Plugin vertraut sind, wählen Sie in derselben Liste den Kurs aus, den Sie gerade bearbeiten, und gehen ihn parallel auf der Website durch.
 

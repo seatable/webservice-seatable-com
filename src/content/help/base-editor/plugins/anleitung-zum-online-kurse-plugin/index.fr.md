@@ -36,7 +36,7 @@ Dans le cours sur la collaboration, il va plus loin : il **joue le rôle d'une 
 
 ## Première utilisation
 
-À la première ouverture du plugin, commencez par le **cours d'introduction** intégré : choisissez-le dans la liste à gauche. Cette visite de deux minutes vous montre **comment se déroule un cours**, à quoi servent les **boutons** et comment **réduire le plugin** pour pouvoir le déplacer dans l'interface. Toute la suite suppose que vous sachiez passer aisément du site au plugin : c'est donc par là qu'il faut commencer.
+À la première ouverture du plugin, commencez par le **cours d'introduction** intégré : choisissez-le dans la liste à gauche. Cette brève introduction vous montre **comment se déroule un cours**, à quoi servent les **boutons** et comment **réduire le plugin** pour pouvoir le déplacer dans l'interface. Toute la suite suppose que vous sachiez passer aisément du site au plugin : c'est donc par là qu'il faut commencer.
 
 Une fois à l'aise, choisissez dans la même liste le cours que vous suivez, et avancez en parallèle sur le site.
 
