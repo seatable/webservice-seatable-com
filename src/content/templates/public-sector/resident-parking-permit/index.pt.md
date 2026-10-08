@@ -1,13 +1,13 @@
 ---
 title: 'Dístico de residente'
-description: 'Ofereça um serviço ao cidadão moderno: pedido online do dístico de residente, ligado ao seu software especializado e em conformidade com a OZG.'
+description: 'Ofereça um serviço ao cidadão moderno: pedido online do dístico de residente, ligado ao seu software especializado.'
 date: '2026-10-06'
 url: '/pt/modelo/distico-residente/'
 category: 'public-sector'
 functions:
 seo:
     title: 'Dístico de residente digital | Modelo para municípios'
-    description: 'Serviço ao cidadão moderno: pedido digital do dístico de residente, em conformidade com a OZG e o RGPD e ligado aos seus sistemas.'
+    description: 'Serviço ao cidadão moderno: pedido digital do dístico de residente, em conformidade com o RGPD e ligado aos seus sistemas.'
 type: pages
 
 sections:
@@ -30,8 +30,8 @@ sections:
       text: 
       items:
         - icon: 'edit'
-          headline: 'Flexível e conforme a OZG'
-          text: 'Adapte o nosso modelo de dístico de residente de forma modular aos seus requisitos locais, em conformidade com a OZG (lei alemã de acesso online) e sem programação. Acrescente campos, estados e zonas conforme as necessidades do município.'
+          headline: 'De personalização flexível'
+          text: 'Adapte o nosso modelo de dístico de residente de forma modular aos seus requisitos locais – sem qualquer programação. Adicione campos, estados e zonas de estacionamento exatamente de acordo com as necessidades do seu município.'
         - icon: 'people-group'
           headline: 'Portal digital do cidadão'
           text: 'Alivie os seus balcões: os residentes submetem o pedido de dístico de residente através de um formulário online, processado depois automaticamente – sem papel, sem transcrição de dados e com menos pedidos de esclarecimento ao balcão.'
@@ -77,7 +77,7 @@ sections:
       - text: '**Sempre atualizado:** cada alteração e cada nova entrada ficam imediatamente visíveis para toda a equipa. Assim, os fiscais verificam os dísticos sempre com dados atuais – no escritório ou na rua.'
       - text: '**Colaboração entre serviços:** atendimento, autoridade de trânsito, planeamento da mobilidade e serviços financeiros utilizam um sistema integrado e colaboram em tempo real.'
       - text: '**Conforme ao RGPD:** a SeaTable cumpre os mais elevados requisitos de segurança e é alojada exclusivamente em servidores de empresas europeias situados na Alemanha.'
-      - text: '**On-premises:** o SeaTable Server é uma solução on-premises que os organismos públicos alemães podem utilizar com base no **contrato EVB-IT do tipo B**, com controlo total dos dados.'
+      - text: '**On-premises:** O SeaTable Server é uma solução instalada no local que as organizações do setor público podem utilizar com controlo total sobre os dados.'
       image_position: [left]
       image: '/images/template_page_bewohnerparkausweis_01.png'
       image_alt: 'Modelo digital de dístico de residente na SeaTable, pronto a ser enviado diretamente por e-mail ao requerente'
@@ -158,15 +158,15 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Dísticos de residente: gestão segura e conforme a OZG'
+      title: 'Autorizações de estacionamento para residentes: juridicamente válido e conforme a lei'
       subtitle: 'Transparência e privacidade'
       description: 'A SeaTable é uma solução no-code moderna de IA com App Builder integrado e oferece todas as funcionalidades de que os municípios precisam para um procedimento digital de pedido e tratamento do dístico de residente. No centro estão a transparência total, a máxima proteção de dados, o registo automatizado e a integração flexível com o software especializado existente.'
       box-position: [right!]
       items:
       - headline: 'Transparência com registos'
         text: 'As novas entradas e as alterações a registos existentes recebem carimbo temporal e podem ser rastreadas e revertidas através dos registos integrados. Assim, dispõe de um histórico completo e rastreável para cada dístico de residente.'
-      - headline: 'Conforme a OZG e acessível'
-        text: 'A SeaTable é flexível, acessível e permite um processo de pedido e tratamento sem quebras de suporte. Uma API segura liga-a ao seu software especializado, em conformidade com a lei alemã de acesso online (OZG).'
+      - headline: 'Em conformidade e acessível'
+        text: 'O SeaTable é flexível e personalizável, acessível e permite um fluxo de trabalho de aplicação e processamento sem interrupções. Uma API segura liga-o aos seus sistemas especializados existentes e permite fluxos de trabalho contínuos.'
       - headline: 'Alojamento RGPD na Alemanha'
         text: 'Se utilizar o SeaTable Cloud ou a IA integrada, todos os dados permanecem na Europa – a infraestrutura funciona exclusivamente em servidores situados na Alemanha, de acordo com os requisitos rigorosos da administração pública.'
       - headline: 'Autenticação de dois fatores e SSO'
@@ -177,14 +177,10 @@ sections:
       title: 'FAQ – Gerir o estacionamento de residentes com a SeaTable'
       subtitle: 
       items:
-      - q: "O modelo de dístico de residente da SeaTable está em conformidade com a OZG?"
-        a: 'O modelo é modular e adapta-se com flexibilidade aos seus requisitos municipais. Como o formulário, os processos de verificação e a elaboração de decisões são padronizados mas configuráveis, constitui uma base sólida para um procedimento online em conformidade com a OZG.'
       - q: "Como funciona a ligação ao software da autoridade de trânsito?"
         a: 'A SeaTable disponibiliza uma API que permite ligar o modelo aos seus sistemas existentes. Pode sincronizar automaticamente dados de pedidos, matrículas e cartões de residente emitidos entre o seu sistema de gestão na SeaTable e outro software especializado.'
       - q: "O modelo também pode ser usado para renovar dísticos de residente?"
         a: 'Sim, sem dúvida. O nosso modelo de dístico de residente é igualmente adequado para tratar pedidos de renovação. A data de validade é prolongada automaticamente e é gerada uma nova fatura de taxas – sem trabalho manual adicional.'
-      - q: "Os municípios podem disponibilizar ou reutilizar este módulo como serviço EfA?"
-        a: 'Sim. Sendo modular, o modelo é uma boa base para a reutilização EfA («Einer für Alle», um para todos). Outros municípios podem adotar este serviço digital ao cidadão sem desenvolvimento próprio e adaptá-lo às suas zonas de estacionamento ou modelos de taxas.'
       - q: "A SeaTable pode ser alojada nos próprios servidores do município?"
         a: 'Sim, sem dúvida. Para as administrações públicas, o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) ou o [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) são soluções on-premises adequadas. Assim, mantém o controlo total sobre os seus dados e o alojamento.'
       - q: "É seguro utilizar as funcionalidades de IA da SeaTable?"

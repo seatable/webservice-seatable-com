@@ -1,13 +1,13 @@
 ---
 title: 'Carte résident'
-description: 'Offrez un service aux citoyens moderne : demande en ligne de carte de stationnement résident, connectée à votre logiciel métier et conforme à l’OZG.'
+description: 'Offrez un service aux citoyens moderne : demande en ligne de carte de stationnement résident, connectée à votre logiciel métier.'
 date: '2026-10-06'
 url: '/fr/modele/carte-stationnement-resident/'
 category: 'public-sector'
 functions:
 seo:
     title: 'Carte de stationnement résident | Modèle pour communes'
-    description: 'Service aux citoyens moderne : procédure de demande en ligne pour la carte de stationnement résident, conforme à l’OZG et au RGPD.'
+    description: 'Service aux citoyens moderne : procédure de demande en ligne pour la carte de stationnement résident, conforme au RGPD.'
 type: pages
 
 sections:
@@ -30,8 +30,8 @@ sections:
       text: 
       items:
         - icon: 'edit'
-          headline: 'Flexible et conforme OZG'
-          text: 'Adaptez notre modèle de carte de stationnement résident à vos exigences locales grâce à sa structure modulaire – conforme à l’OZG (loi allemande sur l’accès en ligne) et sans programmation. Ajoutez champs, statuts et zones selon vos besoins.'
+          headline: 'Flexible et personnalisable'
+          text: 'Adaptez notre modèle de permis de stationnement pour résidents de manière modulaire, sans aucune programmation. Ajoutez des champs, des statuts et des zones de stationnement exactement selon les besoins de votre commune.'
         - icon: 'people-group'
           headline: 'Portail citoyen numérique'
           text: 'Allégez vos guichets : les résidents déposent leur demande de carte de stationnement résident via un formulaire en ligne, traitée ensuite automatiquement – sans formulaire papier, sans ressaisie et avec moins de questions au guichet.'
@@ -77,7 +77,7 @@ sections:
       - text: '**Toujours à jour :** chaque modification et chaque nouvelle entrée sont immédiatement visibles par tous. Les agents de contrôle vérifient ainsi les cartes avec des données actuelles – au bureau comme sur le terrain.'
       - text: '**Collaboration entre services :** instruction, autorité de la circulation routière, service de planification des transports et service financier utilisent un système intégré et collaborent en temps réel.'
       - text: '**Conforme au RGPD :** SeaTable répond aux plus hautes exigences de sécurité et est hébergé exclusivement sur des serveurs d’entreprises européennes situés en Allemagne.'
-      - text: '**On-premises :** SeaTable Server est une solution on-premises que les organismes publics allemands peuvent utiliser sur la base du **contrat EVB-IT de type B**, en gardant le contrôle total des données.'
+      - text: '**On-premises :** SeaTable Server est une solution sur site que les organismes du secteur public peuvent utiliser tout en conservant un contrôle total sur leurs données.'
       image_position: [left]
       image: '/images/template_page_bewohnerparkausweis_01.png'
       image_alt: 'Modèle numérique de carte de stationnement résident dans SeaTable, prêt à être envoyé directement par e-mail'
@@ -158,15 +158,15 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Cartes résident : gestion sûre et conforme à l’OZG'
+      title: 'Permis de stationnement pour résidents : sécurité juridique et conformité réglementaire'
       subtitle: 'Transparence et protection'
       description: 'SeaTable est une solution no-code moderne basée sur l’IA avec App Builder intégré. Elle offre toutes les fonctions dont les communes ont besoin pour une procédure numérique de demande et d’instruction de la carte de stationnement résident : transparence totale, protection maximale des données, saisie automatisée et intégration flexible aux logiciels métier existants.'
       box-position: [right!]
       items:
       - headline: 'Transparence grâce aux logs'
         text: 'Les nouvelles entrées et les modifications d’enregistrements existants sont horodatées et peuvent être suivies et annulées via les journaux intégrés. Vous disposez ainsi d’un historique complet pour chaque carte résident.'
-      - headline: 'Conforme à l’OZG et accessible'
-        text: 'SeaTable est flexible, accessible et permet un processus de demande et d’instruction sans rupture de support. Une API sécurisée assure la connexion à vos logiciels métier, conformément à la loi allemande sur l’accès en ligne.'
+      - headline: 'Conforme et facilement accessible'
+        text: "SeaTable est personnalisable de manière flexible, accessible et permet un flux de travail d'application et de traitement sans interruption. Une API sécurisée le relie à vos systèmes spécialisés existants."
       - headline: 'Hébergement RGPD en Allemagne'
         text: 'Si vous utilisez SeaTable Cloud ou l’IA intégrée, toutes les données restent en Europe – l’infrastructure est exploitée exclusivement sur des serveurs situés en Allemagne, conformément aux exigences des administrations.'
       - headline: 'Double authentification et SSO'
@@ -177,14 +177,10 @@ sections:
       title: 'FAQ – Gérer le stationnement résidentiel avec SeaTable'
       subtitle: 
       items:
-      - q: "Le modèle SeaTable de carte de stationnement résident est-il conforme à l’OZG ?"
-        a: 'Le modèle est modulaire et s’adapte à vos exigences municipales. Formulaire de demande, processus de vérification et rédaction des décisions sont standardisés mais configurables : il constitue ainsi une base solide pour une procédure de demande en ligne conforme à l’OZG.'
       - q: "Comment se connecter aux logiciels de l’autorité de la circulation ?"
         a: 'SeaTable propose une API qui vous permet de connecter le modèle à vos systèmes existants. Vous synchronisez automatiquement données de demande, immatriculations et macarons résident délivrés entre votre système de gestion dans SeaTable et vos autres logiciels métier.'
       - q: "Le modèle convient-il aussi au renouvellement des cartes résident ?"
         a: 'Oui, bien sûr. Notre modèle de carte de stationnement résident convient également au traitement des demandes de renouvellement. La date d’expiration est prolongée automatiquement et une nouvelle facture est générée.'
-      - q: "Les communes peuvent-elles proposer ou réutiliser ce module en mode EfA ?"
-        a: 'Oui. Le modèle étant modulaire, il constitue une bonne base pour une réutilisation EfA (« Einer für Alle »). D’autres communes peuvent reprendre ce service aux citoyens numérique sans développement et l’adapter à leurs zones de stationnement ou à leurs tarifs.'
       - q: "SeaTable peut-il être auto-hébergé pour gérer les cartes résident ?"
         a: 'Oui, absolument. Pour les administrations publiques, [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) ou [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) sont des solutions on-premises adaptées. Vous gardez ainsi le contrôle total de vos données et de votre hébergement.'
       - q: "L’utilisation de l’IA dans SeaTable est-elle sécurisée ?"

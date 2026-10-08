@@ -1,20 +1,20 @@
 ---
 title: 'Resident Parking Permits'
-description: 'Offer a modern citizen service: an online application procedure for resident parking permits, connected to your specialist systems and OZG-compliant.'
+description: 'Offer a modern citizen service: an online application procedure for resident parking permits, connected to your specialist systems and compliant.'
 date: '2026-10-06'
 url: '/template/resident-parking-permit/'
 category: 'public-sector'
 functions:
 seo:
     title: 'Digitise Resident Parking Permits | Template for Councils'
-    description: 'Modern citizen service: a digital application procedure for resident parking permits – OZG-compliant and linked to your existing systems.'
+    description: 'Modern citizen service: a digital application procedure for resident parking permits – compliant and linked to your existing systems.'
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: 'Manage resident parking permits smartly – digital template for municipalities'
-      text: 'Incomplete applications, missing documents and cases arriving via online portals, post and in-person visits make processing resident parking permit applications time-consuming. Follow-up queries and repeated checks of registered address, parking zone and vehicle data also tie up valuable staff resources. With SeaTable''s free resident parking permit template, municipalities handle the entire application procedure without media breaks: from receipt of the application and structured verification of supporting documents to status tracking and preparation of the official notice. GDPR-compliant, with servers in Germany.'
+      text: "Incomplete applications, missing documents and cases arriving via online portals, post and in-person visits make processing resident parking permit applications time-consuming. Follow-up queries and repeated checks of registered address, parking zone and vehicle data also tie up valuable staff resources. With SeaTable's free resident parking permit template, municipalities handle the entire application procedure without media breaks: from receipt of the application and structured verification of supporting documents to status tracking and preparation of the official notice. GDPR-compliant, with servers in Germany."
       classes:
           - bg-white
       template: '77a86a4a5a074bfd967e'
@@ -30,11 +30,11 @@ sections:
       text: 
       items:
         - icon: 'edit'
-          headline: 'Flexible and OZG-compliant'
-          text: 'Adapt our resident parking permit template modularly to your local requirements – compliant with Germany''s Online Access Act (OZG) and without any programming. Add fields, statuses and parking zones exactly as your municipality needs them.'
+          headline: 'Flexibly customizable'
+          text: 'Adapt our resident parking permit template modularly to your local requirements and regulations – without any programming. Add and adjust tables, forms, fields, statuses and parking zones exactly as your municipality needs them.'
         - icon: 'people-group'
           headline: 'Digital citizen portal'
-          text: 'Relieve your citizens'' offices: residents submit resident parking permit applications conveniently via an online form, and the data is processed automatically – no paper forms, no manual data transfer and fewer queries at the counter.'
+          text: 'Relieve your citizens offices: residents submit resident parking permit applications conveniently via an online form, and the data is processed automatically – no paper forms, no manual data transfer and fewer queries at the counter.'
         - icon: 'robot'
           headline: 'Integrated automations'
           text: 'Use integrated automations and AI functions to generate official notices automatically, for example, and reduce manual administrative work. Recurring steps run reliably in the background, so your staff can focus on the cases that matter.'
@@ -43,7 +43,7 @@ sections:
           text: 'Use the integrated Page Designer plugin to build dynamic, auto-filled document templates. This lets you generate invoices and parking permits at the click of a button – with a consistent layout and stored directly with the application.'
         - icon: 'shield'
           headline: 'GDPR-compliant AI use'
-          text: 'Use SeaTable''s integrated AI functions, e.g. for automatic summaries or classifications – GDPR-compliant thanks to SeaTable''s own AI server. Sensitive personal and vehicle data never leaves the SeaTable infrastructure at any point.'
+          text: "Use SeaTable's integrated AI functions, e.g. for automatic summaries or classifications – GDPR-compliant thanks to SeaTable's own AI server. Sensitive personal and vehicle data never leaves the SeaTable infrastructure at any point."
         - icon: 'eye'
           headline: 'Transparent and central'
           text: 'With SeaTable, you can create a digital and transparent resident parking permit process in which all relevant data is stored centrally in one place. Every member of your team works with the same, up-to-date information at all times.'
@@ -77,7 +77,7 @@ sections:
       - text: '**Always up to date:** Every change and every new entry is instantly visible to all staff. This means enforcement officers always check parking permits against current data – in the office or on the street.'
       - text: '**Collaboration across departments:** Case workers, road traffic authorities, the transport planning office and the finance department use one integrated system and work together in real time.'
       - text: '**GDPR-compliant:** SeaTable meets the highest security requirements and is hosted exclusively on servers operated by European companies in Germany – for maximum data protection.'
-      - text: '**On-premises:** SeaTable Server is an on-premises solution that public-sector organisations can use on the basis of the German **EVB-IT Type B licence agreement** – with full control over data.'
+      - text: '**On-premises:** SeaTable Server is an on-premises solution that public-sector organisations can use with full control over data.'
       image_position: [left]
       image: '/images/template_page_bewohnerparkausweis_01.png'
       image_alt: 'Digital resident parking permit template in SeaTable, ready to be sent directly to the applicant by email'
@@ -88,7 +88,7 @@ sections:
       subtitle: 'How the template works'
       items:
       - headline: 'Simple online application capture'
-        text: 'Applications for a resident parking permit are submitted conveniently via an online form. Relevant personal and vehicle data as well as supporting documents such as an ID document and the vehicle registration certificate (Part I) are stored directly in the "Residents" and "Vehicles" tables. Incomplete applications are immediately visible, so queries can be resolved quickly.'
+        text: 'Applications for a resident parking permit are submitted conveniently via an online form. Relevant personal and vehicle data as well as supporting documents such as an ID document and the vehicle registration are stored directly in the "Residents" and "Vehicles" tables. Incomplete applications are immediately visible, so queries can be resolved quickly.'
         image: '/images/template_page_bewohnerparkausweis_02.png'
         image_alt: 'Online application form for a resident parking permit with fields for personal data, vehicle data and documents'
       - headline: 'Manage parking zones efficiently'
@@ -149,7 +149,7 @@ sections:
         text: 'Use Custom Prompts to turn bullet points or case worker notes into clear, understandable information for applicants and save it directly as a ready-to-send email draft. This ensures consistent, professional and friendly communication with every single citizen.'
         icon: wand-magic-sparkles
       - headline: 'Multilingual information'
-        text: 'Use the AI functions to translate information or explanations about ongoing resident parking permit applications into the applicant''s language. This helps you avoid misunderstandings, reduce follow-up queries and offer a truly inclusive digital citizen service.'
+        text: "Use the AI functions to translate information or explanations about ongoing resident parking permit applications into the applicant's language. This helps you avoid misunderstandings, reduce follow-up queries and offer a truly inclusive digital citizen service."
         icon: arrow-right
         
         
@@ -158,15 +158,15 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Resident parking permits: legally secure and OZG-compliant'
+      title: 'Resident parking permits: legally secure and compliant'
       subtitle: 'Transparency & data protection'
       description: 'SeaTable is a modern AI no-code solution with an integrated App Builder and offers all the functions municipalities need for a digital application and processing procedure for resident parking permits. The focus is on full transparency, maximum data protection, automated data capture and flexible integration into existing specialist software – without any programming knowledge.'
       box-position: [right!]
       items:
       - headline: 'Transparency through change logs'
         text: 'New entries and changes to existing records are time-stamped and can be traced and reverted via the integrated logs. This gives you a complete, traceable audit trail for every resident parking permit.'
-      - headline: 'OZG-compliant and accessible'
-        text: 'SeaTable is flexibly customisable, accessible and enables an application and processing workflow without media breaks. A secure API connects it to your existing specialist systems in line with Germany''s Online Access Act.'
+      - headline: 'Compliant and accessible'
+        text: 'SeaTable is flexibly customisable, accessible and enables an application and processing workflow without media breaks. A secure API connects it to your existing specialist systems and enables seamless workflows.'
       - headline: 'GDPR-compliant hosting in Germany'
         text: 'If you use SeaTable Cloud or the integrated AI, all data remains in Europe – the infrastructure is operated exclusively on servers in Germany. This meets the strict data protection requirements of public administrations.'
       - headline: 'Two-factor authentication and SSO'
@@ -177,14 +177,10 @@ sections:
       title: 'FAQ – Managing resident parking with SeaTable'
       subtitle: 
       items:
-      - q: "Is the SeaTable resident parking permit template OZG-compliant?"
-        a: 'The template is modular and can be flexibly adapted to your municipal requirements. As the application form, verification processes and creation of official notices are standardised yet individually configurable, it provides a solid basis for an OZG-compliant online application procedure.'
       - q: "How does the connection to road traffic authority systems work?"
         a: 'SeaTable offers an API that lets you connect the template seamlessly to your existing systems. You can automatically synchronise application data, number plates and issued residential parking permits between your resident parking permit system in SeaTable and other specialist software.'
       - q: "Can the template also be used to renew resident parking permits?"
         a: 'Yes, of course. Our resident parking permit template is equally suitable for processing renewal applications. The expiry date is extended automatically and a new fee invoice is generated – without additional manual effort.'
-      - q: "Can municipalities provide or re-use this module as an EfA service?"
-        a: 'Yes. As the resident parking permit template is modular, it is a suitable basis for EfA re-use ("One for All"). Other municipalities can adopt the digital citizen service for resident parking permits without development effort and adapt it to local conditions such as parking zones or fee models.'
       - q: "Can SeaTable be self-hosted as a resident parking permit system?"
         a: 'Yes, absolutely. For public administrations, [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) or [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) are suitable on-premises solutions. This gives you full control over your data, hosting and IT infrastructure.'
       - q: "Is it secure to use the AI functions in SeaTable?"
