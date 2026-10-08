@@ -1,13 +1,13 @@
 ---
 title: 'Tarjeta de residente'
-description: 'Ofrezca un servicio ciudadano moderno: solicitud en línea de la tarjeta de estacionamiento para residentes, conectada a su software y conforme a la OZG.'
+description: 'Ofrezca un servicio ciudadano moderno: solicitud en línea de la tarjeta de estacionamiento para residentes, conectada a su software.'
 date: '2026-10-06'
 url: '/es/plantilla/tarjeta-estacionamiento-residentes/'
 category: 'public-sector'
 functions:
 seo:
     title: 'Tarjeta de estacionamiento para residentes | Plantilla'
-    description: 'Servicio ciudadano moderno: solicitud digital de la tarjeta de estacionamiento para residentes, conforme a la OZG y al RGPD.'
+    description: 'Servicio ciudadano moderno: solicitud digital de la tarjeta de estacionamiento para residentes, conforme al RGPD.'
 type: pages
 
 sections:
@@ -30,8 +30,8 @@ sections:
       text: 
       items:
         - icon: 'edit'
-          headline: 'Flexible y conforme a OZG'
-          text: 'Adapte de forma modular nuestra plantilla de tarjeta de estacionamiento para residentes a sus requisitos locales, conforme a la OZG (ley alemana de acceso en línea) y sin programar. Añada campos, estados y zonas según lo necesite.'
+          headline: 'Personalizable de forma flexible'
+          text: 'Adapte nuestra plantilla de permiso de aparcamiento para residentes de forma modular a sus requisitos y normativas locales, sin necesidad de programación. Añada tablas, campos, estados y zonas de aparcamiento exactamente según las necesidades de su municipio.'
         - icon: 'people-group'
           headline: 'Portal ciudadano digital'
           text: 'Descongestione sus oficinas: los residentes presentan la solicitud de tarjeta de estacionamiento para residentes en un formulario en línea que se procesa automáticamente, sin papel, sin transcribir datos y con menos consultas en ventanilla.'
@@ -77,7 +77,7 @@ sections:
       - text: '**Siempre actualizado:** cada cambio y cada nueva entrada son visibles al instante para todo el personal. Así, los agentes de control comprueban las tarjetas siempre con datos actuales, en la oficina o en la calle.'
       - text: '**Colaboración entre departamentos:** tramitación, autoridad de tráfico, planificación de movilidad y hacienda municipal utilizan un sistema integrado y trabajan juntos en tiempo real.'
       - text: '**Conforme al RGPD:** SeaTable cumple los más altos requisitos de seguridad y se aloja exclusivamente en servidores de empresas europeas ubicados en Alemania, con máxima protección.'
-      - text: '**On-premises:** SeaTable Server es una solución on-premises que los organismos públicos alemanes pueden utilizar mediante el **contrato EVB-IT tipo B**, con pleno control de sus datos.'
+      - text: '**On-premises:** SeaTable Server es una solución local que las organizaciones del sector público pueden utilizar con pleno control sobre los datos.'
       image_position: [left]
       image: '/images/template_page_bewohnerparkausweis_01.png'
       image_alt: 'Plantilla digital de tarjeta de estacionamiento para residentes en SeaTable, lista para enviarse por correo'
@@ -158,15 +158,15 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Tarjetas de residente: seguridad jurídica y conformidad OZG'
+      title: 'Permisos de aparcamiento para residentes: legalmente válidos y conformes a la normativa'
       subtitle: 'Transparencia y privacidad'
       description: 'SeaTable es una solución no-code moderna con IA y App Builder integrado, y ofrece todas las funciones que los municipios necesitan para un procedimiento digital de solicitud y tramitación de la tarjeta de estacionamiento para residentes. En el centro están la transparencia total, la máxima protección de datos, el registro automatizado y la integración flexible con el software especializado existente.'
       box-position: [right!]
       items:
       - headline: 'Transparencia con registros'
         text: 'Las nuevas entradas y los cambios en registros existentes llevan marca de tiempo y pueden rastrearse y revertirse mediante los registros integrados. Así dispone de un historial completo y trazable para cada tarjeta de residente.'
-      - headline: 'Conforme a la OZG y accesible'
-        text: 'SeaTable es flexible, accesible y permite un proceso de solicitud y tramitación sin cambios de soporte. Una API segura lo conecta con su software especializado, conforme a la ley alemana de acceso en línea (OZG).'
+      - headline: 'Conforme a la normativa y accesible'
+        text: 'SeaTable es un sistema flexible y personalizable, accesible y que permite un flujo de trabajo de aplicación y procesamiento sin interrupciones. Una API segura lo conecta con sus sistemas especializados existentes y permite flujos de trabajo sin interrupciones.'
       - headline: 'Alojamiento RGPD en Alemania'
         text: 'Si utiliza SeaTable Cloud o la IA integrada, todos los datos permanecen en Europa: la infraestructura funciona exclusivamente en servidores ubicados en Alemania, de acuerdo con los estrictos requisitos de la administración pública.'
       - headline: 'Doble autenticación y SSO'
@@ -177,14 +177,10 @@ sections:
       title: 'FAQ – Gestionar el estacionamiento de residentes con SeaTable'
       subtitle: 
       items:
-      - q: "¿La plantilla de tarjeta de residente de SeaTable es conforme a la OZG?"
-        a: 'La plantilla es modular y se adapta con flexibilidad a sus requisitos municipales. Como el formulario, los procesos de revisión y la elaboración de resoluciones están estandarizados pero son configurables, constituye una base sólida para un procedimiento en línea conforme a la OZG.'
       - q: "¿Cómo se conecta con el software de la autoridad de tráfico?"
         a: 'SeaTable ofrece una API con la que puede conectar la plantilla con sus sistemas existentes. Puede sincronizar automáticamente datos de solicitudes, matrículas y distintivos de residente expedidos entre su sistema de gestión en SeaTable y otro software especializado.'
       - q: "¿Sirve la plantilla también para renovar tarjetas de residente?"
         a: 'Sí, por supuesto. Nuestra plantilla de tarjeta de estacionamiento para residentes es igualmente adecuada para tramitar solicitudes de renovación. La fecha de caducidad se prolonga automáticamente y se genera una nueva factura de tasas.'
-      - q: "¿Pueden los municipios ofrecer o reutilizar este módulo como servicio EfA?"
-        a: 'Sí. Al ser modular, la plantilla es una buena base para la reutilización EfA («Einer für Alle», uno para todos). Otros municipios pueden adoptar este servicio ciudadano digital sin desarrollo propio y adaptarlo a sus zonas de estacionamiento o modelos de tasas.'
       - q: "¿Puedo alojar SeaTable en mis propios servidores para gestionar tarjetas?"
         a: 'Sí, por supuesto. Para las administraciones públicas, [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) o [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) son soluciones on-premises adecuadas. Así mantiene el control total de sus datos y de su alojamiento.'
       - q: "¿Es seguro utilizar las funciones de IA de SeaTable?"
