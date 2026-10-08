@@ -53,7 +53,7 @@ Die Tabelle öffnet sich in ihrer Ansicht `{{< seatable-icon icon="dtable-icon-m
 
 {{< zoom image="images/lvl3-customers-grouped.png" alt="Die Tabelle „Customers“, gruppiert nach Company Size, mit einklappbaren Gruppenüberschriften" >}}
 
-{{< warning headline="Die erste Spalte benennt die Zeile" text="Überall, wo auf eine Zeile verwiesen wird – in einem Kommentar, einer Benachrichtigung oder dem Änderungsverlauf, den Sie später kennenlernen –, zeigt SeaTable sie mit dem Wert ihrer ersten Spalte an. Deshalb steht die Spalte Full Name an erster Stelle: Einen Namen erkennt man viel leichter wieder als einen Code oder eine Nummer. Die erste Spalte muss nicht eindeutig sein, aber ein klarer, unverwechselbarer Wert macht jede Zeile leicht erkennbar, wenn sie in solchen Verweisen auftaucht." />}}
+{{< warning headline="Die erste Spalte benennt die Zeile" text="Überall, wo auf eine Zeile verwiesen wird – in einem Kommentar, einer Benachrichtigung oder dem Änderungsverlauf, den Sie später kennenlernen –, zeigt SeaTable sie mit dem Wert ihrer ersten Spalte an. Deshalb steht die Spalte Full Name an erster Stelle: Einen Namen erkennt man viel leichter wieder als einen Code oder eine Nummer. Die erste Spalte muss nicht eindeutig sein, aber ein klarer, unverwechselbarer Wert macht jede Zeile leicht erkennbar, wenn sie in solchen Verweisen auftaucht (beachten Sie nebenbei, dass sich mit der aktuellen Wahl zum Beispiel Namensvettern nicht unterscheiden lassen)." />}}
 
 ### Die Deals hinter jedem Kunden
 

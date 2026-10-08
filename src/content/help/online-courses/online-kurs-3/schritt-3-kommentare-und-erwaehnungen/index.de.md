@@ -30,7 +30,7 @@ Rechts öffnet sich eine Kommentarspalte.
 
 ## Ein Kommentar erreicht nur die Konversation
 
-Öffnen Sie das Plugin bei **Schritt 3a**: Es zeigt Malikas Fenster in dieser Base. Klicken Sie auf `Aktualisieren` und sehen Sie sich ihre Glocke an. Nichts. Ihr Kommentar steht an der Zeile und ist gut sichtbar, falls Malika sie zufällig öffnet – aber SeaTable hat ihr nicht mitgeteilt, dass es ihn gibt.
+Öffnen Sie das Plugin bei **Schritt 3a**: Es zeigt eine vereinfachte Darstellung der Kopfzeile der Base, wie Malika sie sieht. Klicken Sie auf `Aktualisieren` und sehen Sie sich ihre Glocke an. Nichts. Ihr Kommentar steht an der Zeile und ist gut sichtbar, falls Malika sie zufällig öffnet – aber SeaTable hat ihr nicht mitgeteilt, dass es ihn gibt.
 
 Das liegt daran, dass ein Kommentar nur die Personen benachrichtigt, die an der Konversation dieser Zeile teilnehmen. Wer einen Kommentar schreibt, gehört dazu – und bisher sind das nur Sie. Um eine Kollegin oder einen Kollegen einzubeziehen, müssen Sie die Person zur Konversation hinzufügen.
 

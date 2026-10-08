@@ -83,7 +83,7 @@ Ein anderer Weg kommt ganz ohne Freigabe der Base aus: Sie bauen eine **Universe
 
 Eine Freigabe ist nicht endgültig. Um sie zu beenden, öffnen Sie den Freigeben-Dialog erneut und entfernen Malika.
 
-Klicken Sie dann im Plugin noch einmal auf `Aktualisieren`: `Sales CRM` ist aus ihrem Bereich `An mich freigegebene Bases` verschwunden, und das Plugin kann in dieser Base nicht mehr in ihrem Namen handeln – der Zugriff endet in dem Moment, in dem Sie ihn entziehen. Das ist das Sicherheitsnetz hinter jeder Freigabe: Zugriff ist etwas, das Sie gewähren und jederzeit wieder entziehen können.
+Klicken Sie dann im Plugin noch einmal auf `Aktualisieren` (weiterhin bei **Schritt 2b**): `Sales CRM` ist aus ihrem Bereich `An mich freigegebene Bases` verschwunden, und das Plugin kann in dieser Base nicht mehr in ihrem Namen handeln – der Zugriff endet in dem Moment, in dem Sie ihn entziehen. Das ist das Sicherheitsnetz hinter jeder Freigabe: Zugriff ist etwas, das Sie gewähren und jederzeit wieder entziehen können.
 
 Geben Sie die Base für den Rest des Kurses wieder mit `Lesen und Schreiben` für Malika frei. Sie braucht den Zugriff, um weiter mit Ihnen zu arbeiten – und das Plugin ebenso, denn es kann nur in einer Base in ihrem Namen handeln, auf die sie Zugriff hat.
 
@@ -94,7 +94,7 @@ Malika kann Ihre Daten jetzt sehen und bearbeiten. Doch wer stillschweigend Date
 Probieren Sie eine der Möglichkeiten aus, Malika nur einen Teil der Base zu zeigen, und prüfen Sie das Ergebnis aus ihrer Sicht. Dafür brauchen Sie ein zweites Fenster, in dem Sie mit ihrem Account angemeldet sind: Öffnen Sie in Ihrem Browser ein privates Fenster (Inkognito-Modus) und melden Sie sich dort mit ihrem Account an. Ein privates Fenster hält die beiden Sitzungen getrennt, sodass Sie in Ihrem gewohnten Fenster mit Ihrem eigenen Account angemeldet bleiben.
 
 - **Mit einem Plus- oder Enterprise-Abonnement**: Legen Sie eine benutzerdefinierte Freigabe an, die Malika Zugriff auf die Tabelle `Customers` gibt, aber keinen auf `Deals`. Öffnen Sie in ihrem Fenster `Sales CRM` und überzeugen Sie sich, dass `Deals` vollständig verschwunden ist. Wechseln Sie danach wieder zu einer einfachen Lese- und Schreibfreigabe, damit Malika für die nächsten Schritte vollen Zugriff behält.
-- **Mit jedem Abonnement, auch dem kostenlosen**: Bauen Sie auf `Sales CRM` eine Universelle App mit einer einzigen Tabellenseite für `Customers` und blenden Sie in den Seiteneinstellungen `Total Deal Value` und `Deals` aus. Fügen Sie Malika in der Benutzer- und Rollenverwaltung der App über `Benutzer importieren` hinzu und öffnen Sie die App dann in ihrem Fenster: Sie sieht die Kunden, aber nicht die Zahlen, die Sie weggelassen haben. Bedenken Sie, dass sie die Base selbst trotzdem öffnen kann, weil Sie sie mit Lese- und Schreibrechten für sie freigegeben haben. Die App zeigt, was sie bekäme, wenn Sie ihr statt der Base die App geben würden.
+- **Mit jedem Abonnement, auch dem kostenlosen**: Bauen Sie auf `Sales CRM` eine Universelle App mit einer einzigen Tabellenseite für `Customers` und blenden Sie in den Seiteneinstellungen `Total Deal Value` und `Deals` aus. Fügen Sie Malika in der Benutzer- und Rollenverwaltung der App über `Benutzer importieren` hinzu und öffnen Sie die App dann in ihrem Fenster: Sie sieht die Kunden, aber nicht die Zahlen, die Sie weggelassen haben. Bedenken Sie, dass sie die Base selbst trotzdem öffnen kann, weil Sie sie mit Lese- und Schreibrechten für sie freigegeben haben!
 
 ## Hilfeartikel mit weiteren Informationen
 

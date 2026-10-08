@@ -53,7 +53,7 @@ A tabela abre na sua vista `{{< seatable-icon icon="dtable-icon-main-view" >}} D
 
 {{< zoom image="images/lvl3-customers-grouped.png" alt="A tabela «Customers» agrupada por Company Size, com cabeçalhos de grupo que se podem recolher" >}}
 
-{{< warning headline="A primeira coluna serve de etiqueta à linha" text="Sempre que uma linha é referida (num comentário, numa notificação ou no histórico de alterações que vai descobrir mais adiante), o SeaTable apresenta-a pelo valor da sua primeira coluna. É por isso que a coluna Full Name está em primeiro lugar: um nome reconhece-se muito mais facilmente do que um código ou um número. A primeira coluna não tem de ser única, mas um valor claro e distintivo permite reconhecer facilmente cada linha quando ela aparece nessas referências." />}}
+{{< warning headline="A primeira coluna serve de etiqueta à linha" text="Sempre que uma linha é referida (num comentário, numa notificação ou no histórico de alterações que vai descobrir mais adiante), o SeaTable apresenta-a pelo valor da sua primeira coluna. É por isso que a coluna Full Name está em primeiro lugar: um nome reconhece-se muito mais facilmente do que um código ou um número. A primeira coluna não tem de ser única, mas um valor claro e distintivo permite reconhecer facilmente cada linha quando ela aparece nessas referências (repare, de passagem, que a escolha atual não permite, por exemplo, distinguir duas pessoas com o mesmo nome)." />}}
 
 ### Os negócios de cada cliente
 

@@ -83,7 +83,7 @@ Outra via evita de todo a partilha da base: construir uma **aplicação universa
 
 Uma partilha não é definitiva. Para lhe pôr fim, volte a abrir a caixa de diálogo de partilha e retire a Malika.
 
-Depois, clique de novo em `Atualizar` no plugin: `Sales CRM` desapareceu da secção `Compartilhou comigo` da Malika, e o plugin já não pode agir em nome dela nesta base. O acesso desaparece no momento em que o retira. É esta a rede de segurança da partilha: um acesso concede-se e pode ser retirado a qualquer momento.
+Depois, clique de novo em `Atualizar` no plugin (ainda no **passo 2b**): `Sales CRM` desapareceu da secção `Compartilhou comigo` da Malika, e o plugin já não pode agir em nome dela nesta base. O acesso desaparece no momento em que o retira. É esta a rede de segurança da partilha: um acesso concede-se e pode ser retirado a qualquer momento.
 
 Para o resto do curso, volte a partilhar a base com a Malika com a permissão `Ler escrever`. Ela precisa dela para continuar a trabalhar consigo, e o plugin também, pois só pode agir em nome dela numa base a que ela tenha acesso.
 
@@ -94,7 +94,7 @@ A Malika pode agora ver e editar os seus dados. Mas editar em silêncio é meio 
 Experimente uma das formas de mostrar à Malika apenas uma parte da base, e confirme o resultado do lado dela. Para isso, precisa de uma segunda janela com a sessão dela iniciada: abra uma janela privada (anónima) no seu navegador e inicie aí sessão com a conta dela. Uma janela privada mantém as duas sessões separadas, por isso continua com a sua própria sessão iniciada na janela habitual.
 
 - **Num plano Plus ou Enterprise**: crie uma partilha personalizada que dê à Malika a tabela `Customers`, mas nenhum acesso a `Deals`. Na janela dela, abra `Sales CRM` e confirme que `Deals` desapareceu por completo. No fim, volte a uma simples partilha de leitura e escrita, para que a Malika mantenha o acesso completo nos passos seguintes.
-- **Em qualquer plano, incluindo o gratuito**: crie sobre `Sales CRM` uma aplicação universal com uma única página de tabela sobre `Customers`, e oculte `Total Deal Value` e `Deals` nas definições da página. Adicione a Malika à aplicação com `Importar utilizador`, na gestão de utilizadores e funções da aplicação, e depois abra a aplicação na janela dela: ela vê os clientes, mas não os valores que deixou de fora. Lembre-se de que ela continua a poder abrir a própria base, já que a partilhou com ela em leitura e escrita; a aplicação mostra o que ela teria se lhe desse a aplicação em vez da base.
+- **Em qualquer plano, incluindo o gratuito**: crie sobre `Sales CRM` uma aplicação universal com uma única página de tabela sobre `Customers`, e oculte `Total Deal Value` e `Deals` nas definições da página. Adicione a Malika à aplicação com `Importar utilizador`, na gestão de utilizadores e funções da aplicação, e depois abra a aplicação na janela dela: ela vê os clientes, mas não os valores que deixou de fora. Lembre-se de que ela continua a poder abrir a própria base, já que a partilhou com ela em leitura e escrita!
 
 ## Artigo de ajuda com mais informações
 

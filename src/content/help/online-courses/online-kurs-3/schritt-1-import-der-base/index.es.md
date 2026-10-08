@@ -53,7 +53,7 @@ La tabla se abre en su vista `{{< seatable-icon icon="dtable-icon-main-view" >}}
 
 {{< zoom image="images/lvl3-customers-grouped.png" alt="La tabla «Customers» agrupada por Company Size, con encabezados de grupo plegables" >}}
 
-{{< warning headline="La primera columna es la etiqueta de la fila" text="Allí donde se hace referencia a una fila (en un comentario, una notificación o el historial de cambios que descubrirá más adelante), SeaTable la muestra mediante el valor de su primera columna. Por eso la columna Full Name ocupa el primer lugar: un nombre se reconoce mucho más fácilmente que un código o un número. La primera columna no tiene por qué ser única, pero un valor claro y distintivo permite reconocer cada fila con facilidad cuando aparece en esas referencias." />}}
+{{< warning headline="La primera columna es la etiqueta de la fila" text="Allí donde se hace referencia a una fila (en un comentario, una notificación o el historial de cambios que descubrirá más adelante), SeaTable la muestra mediante el valor de su primera columna. Por eso la columna Full Name ocupa el primer lugar: un nombre se reconoce mucho más fácilmente que un código o un número. La primera columna no tiene por qué ser única, pero un valor claro y distintivo permite reconocer cada fila con facilidad cuando aparece en esas referencias (observe, de paso, que la elección actual no permite, por ejemplo, distinguir a dos personas con el mismo nombre)." />}}
 
 ### Los negocios de cada cliente
 

@@ -30,7 +30,7 @@ Abra la tabla `Customers` y elija al cliente `James Bennett` como tema de conver
 
 ## Un comentario solo llega a quienes participan en la conversación
 
-Abra el plugin en el **paso 3a**: muestra la ventana de Malika dentro de esta base. Pulse `Actualizar` y mire su campana de notificaciones. Nada. El comentario que acaba de escribir está en la fila, perfectamente visible si Malika la abre, pero SeaTable no le ha avisado de que existe.
+Abra el plugin en el **paso 3a**: muestra una representación simplificada de la cabecera de la base tal como la ve Malika. Pulse `Actualizar` y mire su campana de notificaciones. Nada. El comentario que acaba de escribir está en la fila, perfectamente visible si Malika la abre, pero SeaTable no le ha avisado de que existe.
 
 Esto se debe a que un comentario solo notifica a las personas que participan en la conversación de esa fila. Al escribir un comentario, usted pasa a formar parte de ella, y por ahora es el único. Para que entre un compañero, tiene que añadirlo a la conversación.
 
