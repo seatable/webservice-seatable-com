@@ -194,7 +194,7 @@ Link formulas also work across several levels: a lookup can refer to a lookup or
 
 ## See relationships at a glance: the relationship diagram
 
-With many linked tables, it is easy to lose track. The [table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) shows all tables of a base with their columns as a **relationship diagram**. Solid lines stand for direct links via link columns, dashed lines for indirect connections via link formulas such as lookup or rollup. You can export the diagram as an image.
+With many linked tables, it is easy to lose track. The [table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) shows all tables of a base with their columns as a **relationship chart**, a diagram of your data model. Solid lines stand for direct links via link columns, dashed lines for indirect connections via link formulas such as lookup or rollup. You can export the diagram as an image.
 
 **[SCREENSHOT: relationship diagram of the example base Customers, Orders, Order items, Products]**
 

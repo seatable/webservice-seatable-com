@@ -1,7 +1,7 @@
 ---
 title: 'Instructions for the table relationships plugin'
 date: 2024-07-29
-lastmod: '2024-08-01'
+lastmod: '2026-10-08'
 categories:
     - 'plugins'
 author: 'kgr'
@@ -9,12 +9,12 @@ url: '/help/table-relationships-plugin-guide'
 aliases:
     - '/help/anleitung-zum-tabellenbeziehungen-plugin'
 seo:
-    title: 'Guide to Table Relationships Plugin in SeaTable'
-    description: 'Learn how to use the Table Relationships Plugin in SeaTable to visualize and manage table links clearly within your bases.'
+    title: 'Relationship chart: visualize linked tables in SeaTable'
+    description: 'With the table relationships plugin, you see the data model of your base as a chart: all tables, links and lookups at a glance.'
 
 ---
 
-Especially when there are many linked tables with dozens of columns in a base, it is easy to lose track of how they relate to each other. Using the table relationships plugin, you can visualize which tables are linked to each other via which columns.
+Especially when there are many linked tables with dozens of columns in a base, it is easy to lose track of how they relate to each other. Using the table relationships plugin, you can visualize which tables are linked to each other via which columns. You see the **data model** of your base as a **relationship chart**: all tables, their [links]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) and [link formulas]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen" >}}) such as lookup and rollup.
 
 You can find out how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
