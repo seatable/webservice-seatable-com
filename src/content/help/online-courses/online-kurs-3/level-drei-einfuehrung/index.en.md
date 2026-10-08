@@ -56,9 +56,11 @@ You follow the course here, on the site. The online courses plugin is your compa
 
 If you have never used the plugin before, start with its Welcome course: a short tour of how a course works, with two small exercises.
 
-Many steps end with a "Going further" section: nothing later depends on it, so you can skip it if you are short on time. The quiz, screenshots and sample data are in English, and we recommend Google Chrome.
+Many steps end with a "Going further" section: nothing later depends on it, so you can skip it if you are short on time.
 
 At the end, a [quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) tests your knowledge. Pass it to receive a [badge for your forum profile](https://forum.seatable.com/badges/108/completed-seatable-course-level-3) — for that, you need an [account in our community forum](https://forum.seatable.com/).
+
+The quiz, screenshots and sample data are in English, and we recommend Google Chrome.
 
 ## Before you start
 
@@ -74,7 +76,7 @@ Besides the plugin presented above, the course needs a few things from your team
 
 Throughout the course you keep the same role, and one colleague works alongside you:
 
-- **You (Commercial)**: you own the company's customer list, and this is the role you play from beginning to end. In SeaTable's own logs this account appears under your own name.
+- **You (Commercial)**: you own the company's customer list, and this is the role you play from beginning to end. In SeaTable's own logs this account appears under your own name; in the course screenshots, the name shown is **Commercial**.
 - **Malika (Marketing)**: Head of Marketing. She needs to read, comment on, and reuse your data. From Step 2 onwards she is a second account in your team, and the course companion acts for her — so you see what she does, and what she sees, from your own window.
 
 What are we waiting for? Let's go!
@@ -83,3 +85,4 @@ What are we waiting for? Let's go!
 
 - [Activating a plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
 - [Instructions for the online courses plugin]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
+- [Introduction to working with groups]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen/" >}})

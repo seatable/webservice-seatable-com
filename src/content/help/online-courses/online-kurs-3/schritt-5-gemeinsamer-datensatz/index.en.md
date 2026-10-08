@@ -20,10 +20,10 @@ Here is where you left off:
 - You discussed `James Bennett` with her in a comment thread: she changed his `Industry` to `Technology`, and you closed the thread (Step 3).
 - You found her `Status` change in the base log and restored it, while your later `Phone` correction stayed (Step 4).
 
-To pick up from there, open `Sales CRM` and launch the online courses plugin: its list of steps shows how far you got.
+To pick up from there, you can also reopen `Sales CRM` and launch the online courses plugin: its list of steps shows where you are and lets you look back over the earlier steps.
 {{< /accordion >}}
 
-Many companies run into a problem like this one. Marketing needs the customer list too — but they are not allowed to touch the sales pipeline, and they certainly should not be editing your master. So at some point someone exported the customers into a separate Marketing copy. That copy was accurate for only a very short time. Ever since, it has been drifting: new customers missing, old segments wrong, etc.
+Many companies run into a problem like this one: Marketing needs the customer list too — but they are not allowed to touch the sales pipeline, and they certainly should not be editing your master. So at some point someone exported the customers into a separate Marketing copy. That copy was accurate for only a very short time. Ever since, it has been drifting: new customers missing, old segments wrong, etc.
 
 Common datasets are a central feature for collaboration, because they solve exactly this problem. They let you share a live, always-up-to-date version of your data with another team, and let that team build on top of it — without giving them any access to your confidential figures, and without any risk of them changing your source data.
 
@@ -61,7 +61,7 @@ The dataset now exists, built from the safe view. Notice what you did and did no
 
 To put your list in Marketing's hands, grant their group access. Unlike sharing a base, this happens from the home page: open the `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Common datasets` tab, find `Customers (live)`, and give the `Marketing` group access through its `Access permissions`. Your live customer list is now available to Marketing, while everything you left out stays in your base.
 
-{{< warning headline="Sharing across groups needs membership" text="To share a common dataset with another group you must be a member of that group, not only the owner of the source base. Here you created the Marketing group yourself, so you already qualify and the share works straight away. One subtlety is worth knowing: it is the publisher who has to reach into the other group, while the subscriber does not — Malika never needs access to your Commercial group to receive the data. In a real organization, where the owner of the customer list is not part of Marketing, this cross-group sharing is usually set up by a team administrator, who belongs to every group and can connect the two without either department stepping into the other." />}}
+{{< warning headline="Sharing across groups needs membership" text="To share a common dataset with another group you must be a member of that group, not only the owner of the source base. Here you created the Marketing group yourself, so you already qualify and the share works straight away. One subtlety is worth knowing: it is the publisher (an owner or admin of the source group) who has to reach into the other group, not the people who use the dataset — Malika never needs access to your Commercial group to receive the data. In a real organization, where the owner of the customer list is not part of Marketing, this cross-group sharing is usually set up by a team administrator, who belongs to every group and can connect the two without either department stepping into the other." />}}
 
 ## Subscribing from the other side
 
@@ -103,7 +103,7 @@ The synced table updates to match your source — the edit appears, just as a ne
 
 ## Retiring the stale copy
 
-`Campaign Hub` now has a live, accurate customer list, with the old segments copied into it. The `Customers list (manual)` table has nothing left to offer. Delete it. Nothing breaks, because that table was a standalone manual copy — nothing else in the base depended on it. Marketing has gone from a copy that was wrong the day after it was made to a list that is never out of date.
+`Campaign Hub` now has a live, accurate customer list, with the old segments copied into it. The `Customers list (manual)` table has nothing left to offer. Delete it. Nothing breaks, because that table was a standalone manual copy — nothing else in the base depended on it. Marketing has gone from a copy that had quickly gone out of date to a list that is never out of date.
 
 {{< warning headline="Deleting is clean only when nothing is linked" text="The manual list was safe to delete because no other table linked to it. If a table you want to retire is connected to others through link columns, deleting it would break those links. In that case you would first re-point the links to the new synced table, then delete the old one. Here there was nothing to re-point, so the swap was effortless." />}}
 
@@ -119,7 +119,6 @@ In `Campaign Hub`, add an `{{< seatable-icon icon="dtable-icon-link-other-record
 
 ## Help article with further information
 
-- [Create a new group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen/" >}})
 - [Add a team member to a group]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen/" >}})
 - [How common datasets work]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
 - [Data processing: Compare and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})

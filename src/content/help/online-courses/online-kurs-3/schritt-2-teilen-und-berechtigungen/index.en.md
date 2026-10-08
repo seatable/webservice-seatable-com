@@ -21,7 +21,7 @@ Malika needs an account of her own in your team. In SeaTable, bringing someone i
 
 From your [team administration](https://account.seatable.com), invite a second email address — a free address from any provider is enough to stand in for your colleague — and accept the invitation from that address. When you set up the account, name it **Malika**, so that the names you later see in comments, @mentions and the activity log match the ones in this course.
 
-One last thing while you are signed in as her: open her `Personal settings` and copy her account token. Then open the online courses plugin in your `Sales CRM` base, select **Step 2a**, and paste the token there. The plugin checks it and greets Malika by name and avatar, so you know you pasted hers and not your own. From now on, the plugin shows you what Malika sees, and later acts for her — you will not need to sign in as her again.
+One last thing while you are signed in as her: open her `Personal settings` and copy her account token. Then open the online courses plugin in your `Sales CRM` base, select **Step 2a**, and paste the token there. The plugin checks it and shows the matching name and avatar, so you know you pasted Malika's token and not your own. From now on, the plugin shows you what Malika sees, and later acts for her — you will not need to sign in as her again.
 
 {{< warning headline="A token works like a username and password" text="An account token lets whoever holds it act as that account, without signing in: it opens every base the account can open. That is what allows the plugin to show you Malika's side and act for her. It is also why this second account should be used for the course and nothing else, with access only to the course's bases." />}}
 
@@ -79,7 +79,7 @@ This is the precise tool for "work with these contacts, but the revenue figures 
 
 Custom sharing is not the only way to narrow down what someone sees. You can also share an individual view on its own — directly with a team member or a group, or as a Read-Only **external link** for people who have no SeaTable account at all. Because a view already carries its own filter and hidden columns, sharing just the `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` view hands over exactly that slice and nothing more. Like custom sharing, sharing a view is a Plus and Enterprise feature.
 
-A different route avoids base sharing altogether: build a **Universal App** on top of the base. In an app you design pages of several types, and table pages can use preset filters, sorting and hidden columns, so the people who use the app only ever see the slice you chose to expose — never the underlying base. This suits a wider audience of data consumers rather than collaborators working inside your team.
+A different route avoids base sharing altogether: build a **Universal App** on top of the base. In an app you design pages of several types, and table pages can use preset filters, sorting and hidden columns, so the people who use the app only ever see the slice you chose to expose — never the underlying base. This suits a wider audience of data consumers rather than collaborators working inside your team, and it is available on every plan.
 
 ## Taking access away again
 

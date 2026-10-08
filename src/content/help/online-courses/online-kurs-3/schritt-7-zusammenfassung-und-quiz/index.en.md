@@ -33,10 +33,7 @@ Together, these are some everyday tools of teamwork in SeaTable, but you can pro
 
 ## Where to go next
 
-You can now set up a base that a whole team works on together. If you want to keep going, here are two good next steps:
-
-- **Course 4 – Automation & Integration**: you have done a lot by hand in this course — making changes, sending notifications by @mention, synchronizing data. Next you will let SeaTable do this work for you automatically, and connect it to the other tools your team uses.
-- **Course 5 – Apps & Reporting**: turn the data you collaborate on into polished apps and reports for the people who only need to read or submit, not edit.
+You can now set up a base that a whole team works on together. If you want to keep going, have a look at the [list of online courses]({{< relref "help/online-courses/" >}}): you will find out, for example, how to let SeaTable do part of the work for you automatically (**Course 4 – Automation & Integration**), how to turn your data into polished apps and reports (**Course 5 – Apps & Reporting**), or how to keep your bases clean, organized and traceable over time (**Course 7 – Maintenance & Hygiene**).
 
 ## Test your knowledge
 

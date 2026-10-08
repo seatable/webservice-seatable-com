@@ -25,7 +25,7 @@ A whiteboard needs a base that everyone drawing on it can edit. You have just sp
 
 The whiteboard plugin is already set up in `Campaign Hub`, so there is nothing to install: open `Customers data flow` from the base's plugin area. (On a self-hosted server, the whiteboard is a separate component: if it does not open, your system administrator may first need to [install it](https://admin.seatable.com/installation/components/whiteboard/).)
 
-A Read-Only share would not have worked here anyway: drawing on a whiteboard needs edit access, so a Read-Only colleague cannot contribute at all.
+Note that a Read-Only share would not have worked here: drawing on a whiteboard needs edit access.
 
 ## Working on it together
 
@@ -42,7 +42,7 @@ Since the board keeps no record of its own, it is worth agreeing on a few graphi
 - one color per department, so a glance tells you which team each element belongs to;
 - no-fill rectangles around what belongs together, here one per base.
 
-These are only a starting point: your team may settle on its own. Keep them simple, and keep to them.
+These are only a starting point: your team may settle on its own. Keep them simple and few, and try to stick to them. Feel free to set up a separate board just for these rules, so everyone can refer back to them later.
 
 ## Update the board
 
@@ -53,8 +53,6 @@ That is the whole collaboration toolkit. Time to look back at everything you hav
 ## Going further
 
 Feel the live side for yourself, with Malika. Open a private (incognito) window in your browser, sign in there with her account, and open the same board — she can, because she is a member of the `Marketing` group. A private window keeps the two sessions apart, so you stay signed in as yourself in your usual window. Tile the two windows side by side, then, in your window, move your cursor across the board, run the laser pointer along a shape, or leave a short message under your cursor — and watch each one appear in her window as it happens.
-
-Then work the other way round: change something on the board from her window, and watch it appear in yours — the way you would work on it with a real colleague, both on the board at the same time.
 
 ## Help article with further information
 

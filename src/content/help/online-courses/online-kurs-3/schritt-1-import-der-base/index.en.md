@@ -49,7 +49,7 @@ This structure is intentionally simpler than a real-world database, but it is su
 
 The table `Customers` is the heart of the base. Each row is one contact at one company, identified by the first column, `Full Name`. Alongside it you will find the columns you would expect of a customer list — company, industry and size, contact details, and the `Status` of the relationship (`Client`, `Prospect`, `Lead` or `Churned`), which we will come back to later. One column is worth flagging: `Account Manager` records who owns each customer. To represent the variety of data in a real-world scenario, we used a plain text column, but in an actual database, it is best to store this data in a `{{< seatable-icon icon="dtable-icon-collaborator" >}} Collaborator` column that links to the actual SeaTable user.
 
-The table opens on its `{{< seatable-icon icon="dtable-icon-main-view" >}} Default View`, which is **grouped by `{{< seatable-icon icon="dtable-icon-single-election" >}} Company Size`**, so contacts are gathered under headings like `11–50`, `201–500` or `1000+`. A single-select column makes a natural grouping key — its fixed set of options becomes the groups — and grouping turns a long flat list into something you can scan by segment at a glance, useful the moment more than one team starts working from the same list.
+The table opens on its `{{< seatable-icon icon="dtable-icon-main-view" >}} Default View`, which is **grouped by `{{< seatable-icon icon="dtable-icon-single-election" >}} Company Size`**, so contacts are gathered under headings like `11–50`, `201–500` or `1000+`. A single-select column makes a natural grouping key — its fixed set of options becomes the groups — and grouping turns a long flat list into something you can scan by segment at a glance, which becomes valuable as soon as the list grows.
 
 {{< zoom image="images/lvl3-customers-grouped.png" alt="The “Customers” table grouped by Company Size, with collapsible group headers" >}}
 
@@ -111,7 +111,7 @@ When the base feels familiar, you are ready to bring in your colleague.
 
 ## Help article with further information
 
-- [Introduction to working with groups]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen/" >}})
+- [Create a new group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen/" >}})
 - [Creating a base from a DTABLE file]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/" >}})
 - [Activating a plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
 - [Linking records across tables]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte/" >}})
