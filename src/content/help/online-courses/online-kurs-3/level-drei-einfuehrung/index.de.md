@@ -1,7 +1,7 @@
 ---
 title: 'Einführung'
 date: 2026-10-07
-lastmod: '2026-10-07'
+lastmod: '2026-10-08'
 categories:
     - 'online-kurs-3'
 author: 'bha'
@@ -56,9 +56,9 @@ Falls Sie das Plugin zum ersten Mal nutzen, starten Sie am besten mit seinem Ein
 
 Mehrere Schritte enden mit einem optionalen Abschnitt „Zur Vertiefung“. Der weitere Kurs baut nicht darauf auf – wenn die Zeit knapp ist, können Sie ihn also überspringen.
 
-Quiz, Screenshots und Beispieldaten sind auf Englisch. Wir empfehlen Google Chrome.
-
 Zum Abschluss können Sie Ihr Wissen in einem [Quiz](https://cloud.seatable.io/dtable/forms/custom/seatable-quiz-online-course-3/) überprüfen. Wenn Sie es bestehen, erhalten Sie ein [Abzeichen für Ihr Forums-Profil](https://forum.seatable.com/badges/108/completed-seatable-course-level-3); dafür benötigen Sie einen [Account in unserem Community-Forum](https://forum.seatable.com/).
+
+Quiz, Screenshots und Beispieldaten sind auf Englisch. Wir empfehlen Google Chrome.
 
 ## Bevor Sie beginnen {#before-you-start}
 
@@ -74,7 +74,7 @@ Außer dem oben vorgestellten Plugin benötigen Sie:
 
 Ihre Rolle bleibt während des gesamten Kurses dieselbe; an Ihrer Seite arbeitet eine Kollegin:
 
-- **Sie (Commercial)**: Sie pflegen die Kundenliste des Unternehmens. In den Logs von SeaTable erscheint dieser Account unter Ihrem eigenen Namen.
+- **Sie (Commercial)**: Sie pflegen die Kundenliste des Unternehmens. In den Logs von SeaTable erscheint dieser Account unter Ihrem eigenen Namen. In den Screenshots des Kurses lautet der angezeigte Name **Commercial**.
 - **Malika (Marketing)**: Als Marketingleiterin muss sie Ihre Daten lesen, kommentieren und weiterverwenden. Ab Schritt 2 hat sie einen eigenen Account in Ihrem Team, und das Plugin handelt in ihrem Namen: So sehen Sie, ohne Ihr Fenster zu verlassen, was sie tut und was sie sieht.
 
 Worauf warten wir? Los geht's!
