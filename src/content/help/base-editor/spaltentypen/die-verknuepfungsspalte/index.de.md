@@ -31,7 +31,7 @@ Eine Verknüpfung ist in beiden Tabellen sichtbar. Beim Anlegen der Verknüpfung
 
 ### Beispiel: Kunden, Aufträge und Produkte
 
-**[SCREENSHOT: Base mit den Tabellen Kunden, Aufträge, Auftragspositionen, Produkte und deren Verknüpfungen]**
+![Base mit den Tabellen Kunden, Aufträge, Auftragspositionen, Produkte und deren Verknüpfungen](images/verknuepfungsspalten.png)
 
 - Die Tabelle **Kunden** enthält Name, Ansprechpartner und Adresse.
 - Jeder Eintrag in **Aufträge** ist mit einem Kunden verknüpft.
@@ -195,7 +195,7 @@ Formeln für Verknüpfungen funktionieren auch über mehrere Ebenen: Ein Lookup 
 
 Bei vielen verknüpften Tabellen verliert man schnell den Überblick. Das [Tabellenbeziehungen-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) zeigt alle Tabellen einer Base mit ihren Spalten als **Beziehungsdiagramm**. Durchgezogene Linien stehen für direkte Verknüpfungen über Verknüpfungsspalten, gestrichelte Linien für indirekte Verbindungen über Formeln für Verknüpfungen wie Lookup oder Rollup. Das Diagramm können Sie als Bild exportieren.
 
-**[SCREENSHOT: Beziehungsdiagramm der Beispiel-Base Kunden, Aufträge, Auftragspositionen, Produkte]**
+![Beziehungsdiagramm der Beispiel-Base Kunden, Aufträge, Auftragspositionen, Produkte](images/Beziehungsdarstellung.png)
 
 ## Grenzen
 

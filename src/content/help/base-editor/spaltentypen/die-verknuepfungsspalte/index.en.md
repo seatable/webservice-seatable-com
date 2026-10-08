@@ -32,7 +32,7 @@ A link is visible in both tables. When you create the link column, you choose wh
 
 ### Example: customers, orders and products
 
-**[SCREENSHOT: base with the tables Customers, Orders, Order items, Products and their links]**
+![Base with the tables Customers, Orders, Order items, Products and their links](images/verknuepfungsspalten.png)
 
 - The **Customers** table contains name, contact person and address.
 - Each record in **Orders** is linked to one customer.
@@ -196,7 +196,7 @@ Link formulas also work across several levels: a lookup can refer to a lookup or
 
 With many linked tables, it is easy to lose track. The [table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) shows all tables of a base with their columns as a **relationship chart**, a diagram of your data model. Solid lines stand for direct links via link columns, dashed lines for indirect connections via link formulas such as lookup or rollup. You can export the diagram as an image.
 
-**[SCREENSHOT: relationship diagram of the example base Customers, Orders, Order items, Products]**
+![Relationship diagram of the example base Customers, Orders, Order items, Products](images/Beziehungsdarstellung.png)
 
 ## Limits
 

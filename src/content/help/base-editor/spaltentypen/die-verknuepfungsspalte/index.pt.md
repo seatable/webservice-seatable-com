@@ -1,7 +1,7 @@
 ---
 title: 'A coluna de ligação'
 date: 2022-10-11
-lastmod: '2023-11-29'
+lastmod: '2026-10-08'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
@@ -10,12 +10,36 @@ aliases:
     - '/pt/ajuda/wie-man-tabellen-in-seatable-miteinander-verknuepft'
     - '/pt/ajuda/como-vincular-tabelas-seatable'
 seo:
-    title: 'A coluna de ligação no SeaTable – utilização eficiente'
-    description: 'Conecte dados entre diferentes tabelas em SeaTable usando colunas de ligação – veja como criar relações e facilitar a análise.'
+    title: 'Entradas ligadas no SeaTable: a coluna de ligação'
+    description: 'Entradas ligadas sem programação: ligue tabelas, use valores com lookup e rollup e veja as relações como diagrama.'
 weight: 20
 ---
 
-Utilize as funções de [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}) do SeaTable ligando informações de diferentes tabelas. Para tal, utilizar o tipo de coluna **Link para outras entradas**.
+Com a coluna de ligação, cria relações entre tabelas no SeaTable, sem SQL nem programação. Uma entrada de uma tabela remete para uma ou mais entradas de outra tabela, por exemplo, uma encomenda para o respetivo cliente e para os produtos encomendados. Estas **entradas ligadas** (em inglês: _linked records_) são a base das funções de [base de dados relacional]({{< relref "posts/relationale-datenbank" >}}) do SeaTable. O tipo de coluna chama-se **Link para outras entradas**.
+
+## Que relações pode representar
+
+| Relação | Exemplo | Como fazer no SeaTable |
+|---|---|---|
+| **1:1** (um para um) | Uma fatura pertence exatamente a uma encomenda. | Coluna de ligação com a definição [Restringir as ligações a uma linha](#restringir-as-ligações-a-uma-linha) |
+| **1:n** (um para muitos) | Um cliente tem muitas encomendas, cada encomenda pertence a um cliente. | Coluna de ligação restringida a uma linha na tabela de encomendas e sem restrição na tabela de clientes |
+| **n:m** (muitos para muitos) | Uma encomenda contém vários produtos, um produto aparece em muitas encomendas. | Coluna de ligação sem restrição, não é necessária uma tabela intermédia |
+| **Dentro de uma tabela** | Tarefas e subtarefas, colaboradores e os seus superiores | [Ligações dentro de uma tabela]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}) |
+
+Uma ligação é visível em ambas as tabelas. Ao criar a coluna de ligação, escolhe se a ligação é apresentada numa **coluna existente** da outra tabela ou se é criada aí uma **nova coluna**.
+
+{{< warning  headline="Dica: dados por combinação"  text="Precisa, numa relação n:m, de dados que pertencem à combinação, como a **quantidade** e o **preço** de um produto numa determinada encomenda? Nesse caso, crie uma tabela própria, p. ex. **Linhas de encomenda**, e ligue-a às encomendas e aos produtos." />}}
+
+### Exemplo: clientes, encomendas e produtos
+
+![Base com as tabelas Clientes, Encomendas, Linhas de encomenda, Produtos e as respetivas ligações](images/verknuepfungsspalten.png)
+
+- A tabela **Clientes** contém nome, pessoa de contacto e morada.
+- Cada entrada em **Encomendas** está ligada a um cliente.
+- As **Linhas de encomenda** ligam uma encomenda a um produto e contêm quantidade e preço.
+- A tabela **Produtos** contém referência, designação e preço de tabela.
+
+Com uma [fórmula para ligações](#utilizar-dados-de-entradas-ligadas-lookup-rollup-e-mais), apresenta o nome do cliente em cada encomenda e calcula a faturação por cliente na tabela de clientes. O [plugin de relações de tabela](#visualizar-as-relações-o-diagrama-de-relações) mostra toda a estrutura como diagrama.
 
 ## Para ligar duas tabelas
 
@@ -154,7 +178,41 @@ Clicar nos **símbolos de seta para** **ordenar** as entradas ligadas na caixa d
 
 {{< warning  headline="Dica"  text="Em **combinação**, as **opções de visualização** têm um efeito ainda maior e podem ajudá-lo a encontrar entradas ligadas específicas de forma ainda mais rápida e conveniente." />}}
 
+## Utilizar dados de entradas ligadas: lookup, rollup e mais
+
+As entradas ligadas mostram inicialmente apenas um valor da outra tabela, p. ex. o nome. Para obter, contar ou resumir mais valores, utilize uma coluna do tipo [Fórmula para ligações]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen" >}}). Estão disponíveis cinco fórmulas:
+
+| Fórmula | O que faz | Exemplo |
+|---|---|---|
+| [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) | obtém os valores de uma coluna das entradas ligadas | mostrar o número de telefone do cliente na encomenda |
+| [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}}) | resume os valores das entradas ligadas, p. ex. como soma ou média | faturação por cliente de todas as encomendas |
+| [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}}) | conta as entradas ligadas | número de encomendas por cliente |
+| [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}}) | encontra a entrada ligada com o valor mais alto | última encomenda de um cliente |
+| [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}}) | encontra a entrada ligada com o valor mais baixo | primeira encomenda de um cliente |
+
+As fórmulas para ligações também funcionam em vários níveis: um lookup pode aceder a uma coluna lookup ou rollup da tabela ligada. Assim, uma linha de encomenda mostra o nome do cliente: a encomenda obtém-no por lookup da tabela de clientes, e a linha de encomenda acede por lookup a essa coluna da encomenda.
+
+## Visualizar as relações: o diagrama de relações
+
+Com muitas tabelas ligadas, é fácil perder a visão de conjunto. O [plugin de relações de tabela]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) mostra todas as tabelas de uma base com as respetivas colunas como **diagrama de relações**. As linhas contínuas representam ligações diretas através de colunas de ligação; as linhas tracejadas, ligações indiretas através de fórmulas para ligações como lookup ou rollup. Pode exportar o diagrama como imagem.
+
+![Diagrama de relações da base de exemplo Clientes, Encomendas, Linhas de encomenda, Produtos](images/Beziehungsdarstellung.png)
+
+## Limites
+
+- **Alterar o tipo de coluna posteriormente:** Uma coluna existente não pode ser convertida numa coluna de ligação. Crie uma nova coluna (ver [Perguntas mais frequentes](#perguntas-mais-frequentes)).
+- **Uma coluna por lookup:** Cada coluna lookup obtém os valores de exatamente uma coluna da tabela ligada. Para mais valores, crie mais colunas lookup.
+
 ## Perguntas mais frequentes
+
+{{< faq "O SeaTable consegue representar relações n:m (muitos para muitos)?" >}}Sim. Uma coluna de ligação sem restrição permite qualquer número de entradas ligadas em cada célula, e uma entrada pode estar ligada a qualquer número de linhas da outra tabela. Só precisa de uma tabela intermédia se quiser guardar dados sobre a combinação, p. ex. quantidade e preço por linha de encomenda.
+{{< /faq >}}
+
+{{< faq "Preciso de saber SQL para ligar tabelas?" >}}Não. Configura ligações, lookups e rollups inteiramente na interface. Se quiser, também pode trabalhar com entradas ligadas através da [API](https://developer.seatable.com) ou com scripts Python e JavaScript.
+{{< /faq >}}
+
+{{< faq "As ligações são mantidas na importação a partir do Airtable?" >}}Sim. Na [migração de bases Airtable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}), indica as colunas de ligação no script de migração e estas chegam ao SeaTable como ligações. São importadas todas as colunas exceto **Button**, **Count**, **Lookup** e **Rollup**. Após a importação, crie novamente as colunas lookup e rollup como fórmulas para ligações.
+{{< /faq >}}
 
 {{< faq "Não consigo encontrar este tipo de coluna. Não posso criar uma ligação?" >}}A coluna Ligação está disponível em todas as subscrições do SeaTable. No entanto, é provável que esteja a tentar alterar o tipo de coluna de uma coluna existente. Quando [altera]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) o tipo de coluna, o tipo de coluna Ligação a **outras entradas** _não_ está disponível. Em vez disso, crie uma **nova coluna** e ser-lhe-á oferecido o tipo de coluna pretendido.
 
