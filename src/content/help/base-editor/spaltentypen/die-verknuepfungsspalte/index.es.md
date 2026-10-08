@@ -1,7 +1,7 @@
 ---
 title: 'La columna de enlace'
 date: 2022-10-11
-lastmod: '2023-11-29'
+lastmod: '2026-10-08'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
@@ -10,12 +10,36 @@ aliases:
     - '/es/ayuda/wie-man-tabellen-in-seatable-miteinander-verknuepft'
     - '/es/ayuda/como-vincular-tablas-seatable'
 seo:
-    title: 'La columna de enlace en SeaTable – paso a paso'
-    description: 'Relacione datos entre tablas usando columnas de enlace en SeaTable. Aprenda a unir, editar y manejar relaciones fácilmente.'
+    title: 'Registros enlazados en SeaTable: la columna de enlace'
+    description: 'Registros enlazados sin programación: enlace tablas, use valores con lookup y rollup y vea las relaciones como diagrama.'
 weight: 20
 ---
 
-Utilice las funciones de [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}) de SeaTable enlazando información de diferentes tablas. Para ello, utilice el tipo de columna **Enlace a otros registros**.
+Con la columna de enlace crea relaciones entre tablas en SeaTable, sin SQL ni programación. Un registro de una tabla hace referencia a uno o varios registros de otra tabla, por ejemplo, un pedido a su cliente y a los productos pedidos. Estos **registros enlazados** (en inglés: _linked records_) son la base de las funciones de [base de datos relacional]({{< relref "posts/relationale-datenbank" >}}) de SeaTable. El tipo de columna se llama **Enlace a otros registros**.
+
+## Qué relaciones puede representar
+
+| Relación | Ejemplo | Cómo hacerlo en SeaTable |
+|---|---|---|
+| **1:1** (uno a uno) | Una factura pertenece exactamente a un pedido. | Columna de enlace con el ajuste [Limitar los enlaces a una fila como máximo](#limitar-los-enlaces-a-una-fila-como-máximo) |
+| **1:n** (uno a muchos) | Un cliente tiene muchos pedidos, cada pedido pertenece a un cliente. | Columna de enlace limitada a una fila en la tabla de pedidos y sin límite en la tabla de clientes |
+| **n:m** (muchos a muchos) | Un pedido contiene varios productos, un producto aparece en muchos pedidos. | Columna de enlace sin límite, no se necesita una tabla intermedia |
+| **Dentro de una tabla** | Tareas y subtareas, empleados y sus superiores | [Enlaces dentro de una tabla]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}) |
+
+Un enlace es visible en ambas tablas. Al crear la columna de enlace, usted elige si el enlace se muestra en una **columna existente** de la otra tabla o si se crea allí una **nueva columna**.
+
+{{< warning  headline="Consejo: datos por combinación"  text="¿Necesita en una relación n:m datos que pertenecen a la combinación, como la **cantidad** y el **precio** de un producto en un pedido concreto? Entonces cree una tabla propia, p. ej. **Líneas de pedido**, y enlácela con los pedidos y con los productos." />}}
+
+### Ejemplo: clientes, pedidos y productos
+
+![Base con las tablas Clientes, Pedidos, Líneas de pedido, Productos y sus enlaces](images/verknuepfungsspalten.png)
+
+- La tabla **Clientes** contiene nombre, persona de contacto y dirección.
+- Cada registro de **Pedidos** está enlazado con un cliente.
+- Las **Líneas de pedido** enlazan un pedido con un producto y contienen cantidad y precio.
+- La tabla **Productos** contiene número de artículo, denominación y precio de lista.
+
+Con una [fórmula para enlaces](#usar-datos-de-registros-enlazados-lookup-rollup-y-más) muestra el nombre del cliente en cada pedido y calcula la facturación por cliente en la tabla de clientes. El [plugin de relaciones entre tablas](#ver-las-relaciones-el-diagrama-de-relaciones) muestra toda la estructura como diagrama.
 
 ## Para enlazar dos tablas
 
@@ -154,7 +178,41 @@ Haga clic en los **símbolos de flecha para ordenar** los registros enlazados en
 
 {{< warning  headline="Consejo"  text="En **combinación**, las **opciones de visualización** tienen un efecto aún mayor y pueden ayudarle a encontrar entradas vinculadas específicas de forma aún más rápida y cómoda." />}}
 
+## Usar datos de registros enlazados: lookup, rollup y más
+
+Los registros enlazados muestran al principio solo un valor de la otra tabla, p. ej. el nombre. Para traer, contar o resumir más valores, use una columna del tipo [Fórmula para enlaces]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen" >}}). Hay cinco fórmulas disponibles:
+
+| Fórmula | Qué hace | Ejemplo |
+|---|---|---|
+| [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) | trae los valores de una columna de los registros enlazados | mostrar el teléfono del cliente en el pedido |
+| [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}}) | resume los valores de los registros enlazados, p. ej. como suma o promedio | facturación por cliente de todos sus pedidos |
+| [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}}) | cuenta los registros enlazados | número de pedidos por cliente |
+| [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}}) | encuentra el registro enlazado con el valor más alto | último pedido de un cliente |
+| [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}}) | encuentra el registro enlazado con el valor más bajo | primer pedido de un cliente |
+
+Las fórmulas para enlaces también funcionan en varios niveles: un lookup puede acceder a una columna lookup o rollup de la tabla enlazada. Así, una línea de pedido muestra el nombre del cliente: el pedido lo trae con un lookup de la tabla de clientes y la línea de pedido accede con un lookup a esa columna del pedido.
+
+## Ver las relaciones: el diagrama de relaciones
+
+Con muchas tablas enlazadas es fácil perder la visión de conjunto. El [plugin de relaciones entre tablas]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) muestra todas las tablas de una base con sus columnas como **diagrama de relaciones**. Las líneas continuas representan enlaces directos mediante columnas de enlace; las líneas discontinuas, conexiones indirectas mediante fórmulas para enlaces como lookup o rollup. Puede exportar el diagrama como imagen.
+
+![Diagrama de relaciones de la base de ejemplo Clientes, Pedidos, Líneas de pedido, Productos](images/Beziehungsdarstellung.png)
+
+## Límites
+
+- **Cambiar el tipo de columna después:** Una columna existente no se puede convertir en una columna de enlace. Cree una nueva columna (véase [Preguntas frecuentes](#preguntas-frecuentes)).
+- **Una columna por lookup:** Cada columna lookup trae los valores de exactamente una columna de la tabla enlazada. Para más valores, cree más columnas lookup.
+
 ## Preguntas frecuentes
+
+{{< faq "¿Puede SeaTable representar relaciones n:m (muchos a muchos)?" >}}Sí. Una columna de enlace sin límite permite cualquier número de registros enlazados en cada celda, y un registro puede estar enlazado con cualquier número de filas de la otra tabla. Solo necesita una tabla intermedia si quiere guardar datos sobre la combinación, p. ej. cantidad y precio por línea de pedido.
+{{< /faq >}}
+
+{{< faq "¿Necesito saber SQL para enlazar tablas?" >}}No. Los enlaces, lookups y rollups se configuran por completo en la interfaz. Si lo desea, también puede trabajar con registros enlazados a través de la [API](https://developer.seatable.com) o con scripts de Python y JavaScript.
+{{< /faq >}}
+
+{{< faq "¿Se conservan los enlaces al importar desde Airtable?" >}}Sí. Al [migrar bases de Airtable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}), indique las columnas de enlace en el script de migración y llegarán a SeaTable como enlaces. Se importan todas las columnas excepto **Button**, **Count**, **Lookup** y **Rollup**. Después de la importación, vuelva a crear las columnas lookup y rollup como fórmulas para enlaces.
+{{< /faq >}}
 
 {{< faq "No encuentro este tipo de columna. ¿No puedo crear un enlace?" >}}La columna Enlace está disponible en todas las suscripciones de SeaTable. Sin embargo, probablemente esté intentando cambiar el tipo de columna de una columna existente. Cuando [cambie]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) el tipo de columna, el tipo de columna Enlace a **otras entradas** _no_ estará disponible. En su lugar, cree una **nueva columna** y se le ofrecerá el tipo de columna deseado.
 

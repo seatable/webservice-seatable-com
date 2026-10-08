@@ -1,7 +1,7 @@
 ---
 title: 'The link formula column'
 date: 2025-07-18
-lastmod: '2025-07-18'
+lastmod: '2026-10-08'
 categories:
     - 'formeln'
 author: 'kgr'
@@ -9,12 +9,12 @@ url: '/help/linked-formula-column'
 aliases:
     - '/help/die-spalte-formel-fuer-verknuepfungen'
 seo:
-    title: 'Using the Linked Formula Column in SeaTable'
-    description: 'Discover how to use the linked formula column in SeaTable to connect and summarize data across related tables efficiently.'
+    title: 'Link formulas in SeaTable: lookup, rollup and more'
+    description: 'Use data from linked records: lookup, rollup, countlinks, findmax and findmin, also across several levels of linked tables.'
 weight: 18
 ---
 
-With a link formula, you can **display, summarize or relate data from linked tables** in your current table. This is where SeaTable shows its advantages as a [relational database]({{< relref "posts/relationale-datenbank" >}}).
+With a link formula, you can **display, summarize or relate data from linked tables** in your current table: **look up** values, **roll up** values into a sum or average, or count linked records. This is where SeaTable shows its advantages as a [relational database]({{< relref "posts/relationale-datenbank" >}}).
 
 A total of **five different formulas** are available for the column type. The prerequisite for using the column is the existence of at least one column of the type [Link to other records]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) in your table.
 
@@ -35,12 +35,21 @@ To apply a formula, you must first add a new link formula column to your table.
 
 ## 5 link formulas
 
-Further information and examples of the five different formulas can be found in the following articles, which illustrate the benefits and use of the formulas:
-- [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}})
-- [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}})
-- [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})
-- [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}})
-- [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}})
+The examples refer to a base with the tables Customers and Orders, as in the guide to the [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}). You can find more information in the articles on the individual formulas:
+
+| Formula | What it does | Example |
+|---|---|---|
+| [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) | pulls the values of a column from the linked records | show the customer's phone number in the order |
+| [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}}) | summarizes the values of the linked records, e.g. as a sum or average | revenue per customer from all orders |
+| [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}}) | counts the linked records | number of orders per customer |
+| [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}}) | finds the linked record with the highest value | a customer's latest order |
+| [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}}) | finds the linked record with the lowest value | a customer's first order |
+
+## Formulas across several levels
+
+A lookup can also refer to a lookup or rollup column in the linked table. This lets you work across several linked tables: an order pulls the customer's name with a lookup, and an order item linked to the order looks up this column.
+
+The [table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) shows as a chart which tables are connected through which formulas.
 
 ## Formatting the results
 
