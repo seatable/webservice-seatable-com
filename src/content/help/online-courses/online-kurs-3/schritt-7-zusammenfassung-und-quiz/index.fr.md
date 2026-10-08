@@ -15,26 +15,23 @@ Félicitations ! Vous avez commencé ce cours en travaillant en solo sur une ba
 
 ## Ce que vous avez appris
 
-- Vous savez **partager une base** avec une collègue et choisir le bon niveau d'autorisation : lecture seule, lecture et écriture ou, avec un abonnement payant, un partage personnalisé qui n'expose que les tableaux et les vues choisis.
-- Vous savez **discuter des données là où elles se trouvent** grâce aux commentaires, et vous savez qu'un commentaire ne prévient que les participants de la conversation de la ligne, conversation qu'une collègue rejoint quand vous la mentionnez ou l'ajoutez.
+- Vous savez **partager une base** avec un collègue et choisir le bon niveau d'autorisation : lecture seule, lecture et écriture ou, avec un abonnement payant, un partage personnalisé qui n'expose que les tableaux et les vues choisis.
+- Vous savez **discuter des données là où elles se trouvent** grâce aux commentaires, et vous savez qu'un commentaire ne prévient que les participants de la conversation de la ligne, conversation qu'un collègue rejoint quand vous le mentionnez ou l'ajoutez.
 - Vous savez **lire l'historique** dans le journal des activités, le journal de la base et le journal de la ligne pour savoir qui a modifié quoi, et **restaurer une seule modification** sans toucher au reste.
-- Vous savez **transmettre des données toujours à jour** à une autre équipe avec un jeu de données commun : votre fichier de référence reste privé et fait foi, tandis que sa copie reste synchronisée et qu'elle construit son propre travail par-dessus.
+- Vous savez **transmettre des données toujours à jour** à un autre groupe avec un jeu de données commun : votre fichier de référence reste privé et fait foi, tandis que la copie reste synchronisée et que l'autre groupe construit son propre travail par-dessus.
 - Vous savez **collaborer visuellement** en temps réel sur le tableau blanc.
 
-Ce sont quelques-uns des outils du travail d'équipe au quotidien dans SeaTable, et vous en trouverez sans doute d'autres ! Le fil conducteur reste le même : partager en connaissance de cause, garder une seule source de vérité qui fait foi, et permettre à chacun de voir qui a fait quoi.
+Il s'agit de différents outils permettant le travail d'équipe au quotidien dans SeaTable, et vous en trouverez sans doute d'autres ! Le fil conducteur reste le même : partager en connaissance de cause, garder une seule source de vérité qui fait foi, et permettre à chacun de voir qui a fait quoi.
 
 ## Quelques bonnes habitudes
 
 - **Partagez le strict nécessaire.** Donnez à vos collègues l'accès dont ils ont besoin, et pas davantage. Quand deux équipes ont besoin de parties différentes des mêmes données, pensez au jeu de données commun avant de confier toute la base.
-- **Gardez la conversation sur les données.** Un commentaire sur la ligne survit à n'importe quel échange d'e-mails, et quiconque ouvrira cet enregistrement plus tard en comprendra l'histoire d'un coup d'œil.
+- **Gardez la conversation sur les données.** Un commentaire sur une ligne est plus facile à retrouver que n'importe quel échange d'e-mails, et quiconque ouvrira cet enregistrement plus tard en comprendra l'histoire d'un coup d'œil.
 - **Fiez-vous au journal plutôt qu'à votre mémoire.** Quand une valeur semble fausse, consultez l'historique avant de la ressaisir, et restaurez plutôt que de deviner.
 
 ## Pour aller plus loin
 
-Vous savez désormais mettre en place une base sur laquelle toute une équipe travaille ensemble. Si vous voulez continuer, voici deux bonnes suites :
-
-- **Cours 4 – Automatisation et intégration** : dans ce cours, vous avez fait beaucoup de choses à la main (modifier des données, prévenir par une mention, synchroniser). Vous laisserez ensuite SeaTable faire ce travail pour vous, automatiquement, et le relierez aux autres outils de votre équipe.
-- **Cours 5 – Applications et rapports** : transformez les données sur lesquelles vous collaborez en applications et en rapports soignés, pour les personnes qui ont seulement besoin de consulter ou de saisir, pas de modifier.
+Vous savez désormais mettre en place une base sur laquelle toute une équipe travaille ensemble. Si vous voulez continuer, n'hésitez pas à consulter la [liste des cours en ligne]({{< relref "help/online-courses/" >}}) : vous y découvrirez par exemple comment laisser SeaTable faire une partie du travail pour vous, automatiquement (**cours 4 – Automatisation et intégration**), comment transformer vos données en applications et en rapports soignés (**cours 5 – Applications et rapports**) ou encore comment garder vos bases propres, organisées et traçables dans le temps (**cours 7 – Maintenance et hygiène**).
 
 ## Testez vos connaissances
 
