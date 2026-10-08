@@ -42,7 +42,7 @@ Quando se sentir à vontade, escolha na mesma lista o curso que está a seguir e
 
 ## Cursos suportados
 
-O plugin está a ser disponibilizado curso a curso. O [curso online 3 – Colaboração (em inglês)]({{< relref path="help/online-courses/online-kurs-3/level-drei-einfuehrung" lang="en" >}}) e o [curso online 4 – Automação e integração (em inglês)]({{< relref path="help/online-courses/online-kurs-4/level-vier-einfuehrung" lang="en" >}}) já são totalmente suportados, e outros cursos se seguirão. Um curso que o plugin ainda não verifica abre-se na mesma, com uma breve mensagem que o indica e o convida a segui-lo no site entretanto.
+O plugin está a ser disponibilizado curso a curso. O [curso online 3 – Colaboração]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) e o [curso online 4 – Automação e integração (em inglês)]({{< relref path="help/online-courses/online-kurs-4/level-vier-einfuehrung" lang="en" >}}) já são totalmente suportados, e outros cursos se seguirão. Um curso que o plugin ainda não verifica abre-se na mesma, com uma breve mensagem que o indica e o convida a segui-lo no site entretanto.
 
 ## Outros artigos úteis
 
