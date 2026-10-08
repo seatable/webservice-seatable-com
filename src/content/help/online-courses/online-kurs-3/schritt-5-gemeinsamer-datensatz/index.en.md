@@ -67,7 +67,7 @@ To put your list in Marketing's hands, grant their group access. Unlike sharing 
 
 Now take Marketing's side. From here on you work in `Campaign Hub`, doing what Malika would do for her team — as a member of the `Marketing` group, the base is open to you too. In `Campaign Hub`, add a new table and choose `{{< seatable-icon icon="dtable-icon-import" >}} Import common dataset`, then pick `Customers (live)`.
 
-A new table appears, marked with a small stack icon to show it comes from a Common dataset. It contains your current customers — the complete, up-to-date list, minus the churned ones the view filters out — and only the safe columns. Next to the outdated `Customers list (manual)`, the difference is immediately clear.
+A new table appears, marked with a small stack icon to show it comes from a common dataset. It contains your current customers — the complete, up-to-date list, minus the churned ones the view filters out — and only the safe columns. Next to the outdated `Customers list (manual)`, the difference is immediately clear.
 
 ![The synced Common dataset table in Campaign Hub, marked with the common-dataset icon](images/lvl3-subscribed-dataset.png)
 
@@ -91,7 +91,7 @@ Create a `Compare and copy` operation from `{{< seatable-icon icon="dtable-icon-
 
 Run it, and every customer that existed in the old list gets its segment and its acquisition campaign back on the live table — SeaTable recreates the labels as it copies. Customers who were not in the old list, the newer ones your master added, simply stay blank, ready to be filled in.
 
-{{< warning headline="Keeping the original segment colors" text="Compare and copy recreates the segment labels, but gives them fresh default colors. If you want the exact colors from the old list, export the options from its `Segment` column within `Customers list (manual)` and import them into the new `Segment` column — `Customers (live)` — before you run the operation. The labels come across either way; this step only preserves the colors." />}}
+{{< warning headline="Keeping the original segment colors" text="Compare and copy recreates the segment labels, but gives them fresh default colors. If you want the exact colors from the old list, export the options from its Segment column within Customers list (manual) and import them into the new Segment column — Customers (live) — before you run the operation. The labels come across either way; this step only preserves the colors." />}}
 
 ## Watching it stay in sync
 
@@ -99,7 +99,7 @@ Now the payoff. In `Sales CRM`, make a change to the source — edit a value of 
 
 The synced table updates to match your source — the edit appears, just as a new customer added to the view would. And the `Segment` column Marketing added is untouched: the customers already tagged keep their tags. The live data refreshes from your master; Marketing's own work on top of it is preserved.
 
-{{< warning headline="The synced copy is not theirs to edit" text="Because the flow is one-way, anything Marketing changes in the synced columns themselves is temporary: the next synchronization overwrites it with your source values. That is the point — the master stays authoritative. Columns Marketing adds on their own, like `Segment`, are the exception and are kept. So: read and build on the synced data, but make corrections to the customer list itself in the source base." />}}
+{{< warning headline="The synced copy is not theirs to edit" text="Because the flow is one-way, anything Marketing changes in the synced columns themselves is temporary: the next synchronization overwrites it with your source values. That is the point — the master stays authoritative. Columns Marketing adds on their own, like Segment, are the exception and are kept. So: read and build on the synced data, but make corrections to the customer list itself in the source base." />}}
 
 ## Retiring the stale copy
 
@@ -115,7 +115,7 @@ You have now distributed live data across teams while keeping your master privat
 
 In `Campaign Hub`, add an `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Audience` link column on `Campaigns`, pointing to `Customers (live)`. From now on, when Marketing launches a campaign, they pick its target customers right there — a proper, many-to-many link, not a single label.
 
-{{< warning headline="Improving a structure mid-flight" text="The new Audience link starts empty and fills up with each new campaign. You cannot back-fill it: `Acquired via` keeps only the one campaign the old copy happened to record, and the full history of which campaigns each customer belonged to was never captured, so it cannot be reconstructed. That is the usual trade of improving a structure along the way — cleaner data from here on, the old data left as it is." />}}
+{{< warning headline="Improving a structure mid-flight" text="The new Audience link starts empty and fills up with each new campaign. You cannot back-fill it: Acquired via keeps only the one campaign the old copy happened to record, and the full history of which campaigns each customer belonged to was never captured, so it cannot be reconstructed. That is the usual trade of improving a structure along the way — cleaner data from here on, the old data left as it is." />}}
 
 ## Help article with further information
 

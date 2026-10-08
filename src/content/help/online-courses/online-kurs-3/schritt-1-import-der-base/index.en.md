@@ -23,7 +23,7 @@ Before the base, its container. SeaTable lets you organize bases into **groups**
 
 This is more than tidiness, and it is why the group comes first: in Step 5 you will publish a common dataset, and that only works from a base that belongs to a group, never from your personal workspace.
 
-{{< warning headline="If you cannot create groups" text="Creating a group depends on your role in the team. If the option is unavailable to you, ask your team administrator — and take the opportunity to request everything the course needs in one go, as listed in the introduction. You can still follow this step and most of the course with the base in your personal workspace; only Step 5 will be out of reach, though you can still import its `Campaign Hub` base for Step 6." />}}
+{{< warning headline="If you cannot create groups" text="Creating a group depends on your role in the team. If the option is unavailable to you, ask your team administrator — and take the opportunity to request everything the course needs in one go, as listed in the introduction. You can still follow this step and most of the course with the base in your personal workspace; only Step 5 will be out of reach, though you can still import its Campaign Hub base for Step 6." />}}
 
 ## Importing the base
 
@@ -53,7 +53,7 @@ The table opens on its `{{< seatable-icon icon="dtable-icon-main-view" >}} Defau
 
 {{< zoom image="images/lvl3-customers-grouped.png" alt="The “Customers” table grouped by Company Size, with collapsible group headers" >}}
 
-{{< warning headline="The first column is the row's label" text="Wherever a row is referenced — in a comment, a notification, or the change history you will explore later — SeaTable shows it by the value of its first column. That is why the Full Name column sits first: a name is far easier to recognize than a code or a number. The first column does not have to be unique, but giving it a clear, distinctive value makes each row easy to tell apart when it turns up in those references." />}}
+{{< warning headline="The first column is the row's label" text="Wherever a row is referenced — in a comment, a notification, or the change history you will explore later — SeaTable shows it by the value of its first column. That is why the Full Name column sits first: a name is far easier to recognize than a code or a number. The first column does not have to be unique, but giving it a clear, distinctive value makes each row easy to tell apart when it turns up in those references (note that the current choice cannot, for example, tell apart two people with the same name)." />}}
 
 ### The deals behind each customer
 

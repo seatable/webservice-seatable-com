@@ -85,7 +85,7 @@ A different route avoids base sharing altogether: build a **Universal App** on t
 
 Sharing is not permanent. To stop sharing, open the share dialog again and remove Malika.
 
-Then press `Refresh` in the plugin again: `Sales CRM` has gone from her `Shared with me` section, and the plugin can no longer act for her in this base — the access is gone the moment you remove it. This is the safety net behind sharing: access is something you grant and can withdraw at any time.
+Then press `Refresh` in the plugin again (still at **Step 2b**): `Sales CRM` has gone from her `Shared with me` section, and the plugin can no longer act for her in this base — the access is gone the moment you remove it. This is the safety net behind sharing: access is something you grant and can withdraw at any time.
 
 For the rest of the course, share the base with Malika again as `Read-Write`. She needs it to keep working alongside you — and so does the plugin, which can only act for her in a base she has access to.
 
@@ -96,7 +96,7 @@ Malika can now see and edit your data. But editing in silence is a recipe for co
 Try one of the ways to show Malika only part of the base, and check the result from her side. For that you need a second window signed in as her: open a private (incognito) window in your browser and sign in there with her account. A private window keeps the two sessions apart, so you stay signed in as yourself in your usual window.
 
 - **On a Plus or Enterprise plan**: build a custom share that gives Malika the `Customers` table but no access to `Deals`. In her window, open `Sales CRM` and confirm that `Deals` has vanished entirely. Switch back to a plain Read-Write share afterwards, so Malika keeps full access for the next steps.
-- **On any plan, including the free one**: build a Universal App on `Sales CRM` with a single table page on `Customers`, and hide `Total Deal Value` and `Deals` in the page settings. Add Malika to the app with `Import User`, in its user and role management, then open the app in her window: she sees the customers, but not the figures you left out. Keep in mind that she can still open the base itself, since you shared it with her as Read-Write; the app shows what she would get if you gave her the app instead of the base.
+- **On any plan, including the free one**: build a Universal App on `Sales CRM` with a single table page on `Customers`, and hide `Total Deal Value` and `Deals` in the page settings. Add Malika to the app with `Import User`, in its user and role management, then open the app in her window: she sees the customers, but not the figures you left out. Keep in mind that she can still open the base itself, since you shared it with her as Read-Write!
 
 ## Help article with further information
 

@@ -32,7 +32,7 @@ Open the `Customers` table and pick the customer `James Bennett` to talk about. 
 
 ## A comment reaches only the conversation
 
-Open the plugin at **Step 3a**: it shows Malika's window inside this base. Press `Refresh` and look at her notification bell. Nothing. The comment you just wrote is sitting on the row, perfectly visible if Malika happens to open it, but SeaTable did not tell her it exists.
+Open the plugin at **Step 3a**: it shows a simplified view of the base header as Malika sees it. Press `Refresh` and look at her notification bell. Nothing. The comment you just wrote is sitting on the row, perfectly visible if Malika happens to open it, but SeaTable did not tell her it exists.
 
 That is because a comment notifies only the people taking part in that row's conversation. Writing a comment makes you one of them — and so far, you are the only one. To pull a colleague in, you have to add them to the conversation.
 
@@ -52,7 +52,7 @@ Now write one more comment on the row, without mentioning her — a quick "Thank
 
 Now it is Malika's turn. Move on to **Step 3b** in the plugin and let her answer. Because she has read-write access, she updates `James Bennett`'s `Industry` from `Manufacturing` to `Technology`, then replies in the same thread to say it is done. While she is in the base, she also updates a few other customers of her own — you will come across those changes in Step 4. Her reply does not mention you, yet your own bell lights up, inside the base: you started this conversation, so you are part of it too. The whole discussion stays attached to the record — the question, the change, and the confirmation, all in one place.
 
-{{< warning headline="Some data describes the company, not the contact" text="Industry describes the company, Indelo, rather than James Bennett himself — yet here it sits on each customer row. Indelo has another contact in this base, Lena de Vries, so correcting Indelo's industry on one row means you should correct it on the others too. A quick filter on the Company column (filtering rule: `Company` is Indelo) finds them all before you edit. A cleaner design would store each company once in its own table and link the customers to it, so a company's details are stored in a single place — more powerful, but more complex, which is why this course keeps everything in one table." />}}
+{{< warning headline="Some data describes the company, not the contact" text="Industry describes the company, Indelo, rather than James Bennett himself — yet here it sits on each customer row. Indelo has another contact in this base, Lena de Vries, so correcting Indelo's industry on one row means you should correct it on the others too. A quick filter on the Company column (filtering rule: Company is Indelo) finds them all before you edit. A cleaner design would store each company once in its own table and link the customers to it, so a company's details are stored in a single place — more powerful, but more complex, which is why this course keeps everything in one table." />}}
 
 ## Closing the loop
 
