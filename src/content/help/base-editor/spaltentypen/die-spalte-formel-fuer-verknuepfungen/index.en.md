@@ -47,7 +47,7 @@ The examples refer to a base with the tables Customers and Orders, as in the gui
 
 ## Formulas across several levels
 
-A link formula can also refer to a lookup or rollup column in the linked table. This lets you work across several linked tables: an order pulls the customer's name with a lookup, and an order item linked to the order looks up this column.
+A lookup can also refer to a lookup or rollup column in the linked table. This lets you work across several linked tables: an order pulls the customer's name with a lookup, and an order item linked to the order looks up this column.
 
 The [table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) shows as a chart which tables are connected through which formulas.
 

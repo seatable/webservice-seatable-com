@@ -45,7 +45,7 @@ Die Beispiele beziehen sich auf eine Base mit den Tabellen Kunden und Aufträge,
 
 ## Formeln über mehrere Ebenen
 
-Eine Formel für Verknüpfungen kann auch auf eine Lookup- oder Rollup-Spalte der verknüpften Tabelle zugreifen. So arbeiten Sie über mehrere verknüpfte Tabellen hinweg: Ein Auftrag holt per Lookup den Namen des Kunden, und eine Auftragsposition, die mit dem Auftrag verknüpft ist, greift per Lookup auf diese Spalte zu.
+Ein Lookup kann auch auf eine Lookup- oder Rollup-Spalte der verknüpften Tabelle zugreifen. So arbeiten Sie über mehrere verknüpfte Tabellen hinweg: Ein Auftrag holt per Lookup den Namen des Kunden, und eine Auftragsposition, die mit dem Auftrag verknüpft ist, greift per Lookup auf diese Spalte zu.
 
 Welche Tabellen über welche Formeln miteinander verbunden sind, zeigt das [Tabellenbeziehungen-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) als Diagramm.
 
