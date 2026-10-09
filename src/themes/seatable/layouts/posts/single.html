@@ -32,62 +32,7 @@
                 </div>
             </header>
 
-            <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
-                <!-- max width of the blog posts is 768px -> image optimization -->
-                <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4 print:block print:w-full">
-                    {{ partial "content-body.html" .Content }}
-
-                    {{ partial "author-box.html" . }}
-
-
-                    <div class="mt-12 border-t border-gray-300"></div>
-                    <p class="mt-12">
-                        <span class="text-sm uppercase">TAGS:</span>
-                        <span class="mt-2 flex flex-wrap gap-2">
-                            {{ range (.GetTerms "tags") }}
-                                <a href="{{ .Permalink }}" class="whitespace-nowrap rounded-lg bg-gray-200 px-2 py-1">{{ .LinkTitle }}</a>
-                            {{ end }}
-                        </span>
-                    </p>
-                </div>
-
-                <!-- Second section with TOC und Register (optional) -->
-                <div class="toc post-toc mt-12 hidden min-w-[220px] lg:block print:hidden">
-                    <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
-                        {{ .TableOfContents }}
-
-
-                        <!-- registration box -->
-                        <!-- später so: if ne .Params.register "hide" -->
-                        {{ $dark := eq .Params.register.style "dark" }}
-
-                        {{ if .Params.register.show }}
-                            <div class="{{ if $dark }}bg-seatable-blue{{ else }}bg-gray-100{{ end }} mt-8 rounded-lg p-8">
-                                <div class="{{ if $dark }}text-white{{ else }}text-seatable-blue{{ end }} mb-4 pb-2 font-poppins text-xl font-bold">
-                                    {{ or ( .Params.register.title ) ( T "blog-register.title" ) }}
-                                </div>
-                                <ul class="ml-4 !list-disc">
-                                    {{ if .Params.register.items }}
-                                        {{ range .Params.register.items }}
-                                            <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ . }}</li>
-                                        {{ end }}
-                                    {{ else }}
-                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ T "blog-register.item1" }}</li>
-                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ T "blog-register.item2" }}</li>
-                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ T "blog-register.item3" }}</li>
-                                    {{ end }}
-                                </ul>
-                                <p class="{{ if $dark }}text-white{{ end }} pt-1 text-sm">{{ or ( .Params.register.text ) ( T "blog-register.text" ) }}</p>
-                                <a
-                                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
-                                    class="bg-gradient mt-6 rounded-lg px-4 py-2 text-center font-poppins !font-bold !text-white md:block"
-                                    >{{ or ( .Params.register.submit ) ( T "blog-register.submit" ) }}</a
-                                >
-                            </div>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
+            {{ partial "article-body.html" . }}
         </article>
     </section>
 {{ end }}

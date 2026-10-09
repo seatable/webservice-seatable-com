@@ -245,3 +245,6 @@ cookies:
     text: 'Este site utiliza cookies para garantir que obtém a melhor experiência no nosso site.'
     link: Mais informações
     confirm: Percebi
+
+compare:
+    as_of: 'Situação:'

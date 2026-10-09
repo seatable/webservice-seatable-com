@@ -415,7 +415,7 @@ sections:
             a: 'Toutes les tables, toutes les lignes, pièces jointes comprises, et toutes les colonnes, à l''exception des types Button, Count, Lookup et Rollup. SeaTable liste les colonnes non transférées dans la nouvelle base. Vos vues sont également transférées. Les colonnes de formule sont créées avec la formule Airtable d''origine comme espace réservé. Les automatisations et les interfaces sont à recréer dans SeaTable. Pour plus de contrôle, il existe également un [script de migration]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).'
 
           - q: 'Puis-je héberger SeaTable moi-même gratuitement ?'
-            a: 'Oui. SeaTable Enterprise Edition est gratuit jusqu''à 3 utilisateurs ; il vous suffit d''un fichier de licence gratuit. Pour davantage d''utilisateurs, vous achetez une licence. L''installation est décrite dans le [Guide de l''administrateur](https://admin.seatable.com/).'
+            a: 'Oui. SeaTable Enterprise Edition est gratuit jusqu''à 3 utilisateurs ; il vous suffit d''un fichier de licence gratuit. Pour davantage d''utilisateurs, vous achetez une licence. L''installation est décrite dans le [Guide de l''administrateur](https://admin.seatable.com/). Ce qui distingue SeaTable Server de Baserow et NocoDB est présenté dans notre [comparatif]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).'
 
           - q: 'Airtable est-il disponible en auto-hébergement ?'
             a: 'Non. Airtable est uniquement disponible en tant que service cloud. Avec SeaTable Server et [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}), en revanche, vous pouvez décider dès aujourd''hui sur quelle infrastructure vos données sont stockées.'

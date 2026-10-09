@@ -290,7 +290,7 @@ Avant d'acheter, déterminez donc combien d'espaces de travail il vous faut et r
 
 Deux particularités : avec Plus et Business, NocoDB facture au maximum 9 utilisateurs, chaque utilisateur supplémentaire est gratuit. C'est pourquoi 10 utilisateurs coûtent ici autant que 9. Chez SmartSuite, vous ne payez que pour les utilisateurs qui modifient des données. Ceux qui se contentent de lire, de commenter ou de remplir des formulaires sont gratuits.
 
-En auto-hébergement, Baserow, NocoDB et Grist ne facturent aucune licence pour la version de base, SeaTable jusqu'à 3 utilisateurs. Il faut en revanche ajouter les coûts de serveur et d'exploitation.
+En auto-hébergement, Baserow, NocoDB et Grist ne facturent aucune licence pour la version de base, SeaTable jusqu'à 3 utilisateurs. Il faut en revanche ajouter les coûts de serveur et d'exploitation. Pour une comparaison détaillée des trois solutions auto-hébergeables, consultez notre article [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
 
 ## Autres outils que nous n'avons pas retenus
 
@@ -338,7 +338,7 @@ Oui. SeaTable, Baserow, NocoDB, Grist et Notion proposent des formules gratuites
 {{< /faq >}}
 
 {{< faq "Quelle alternative à Airtable est open source ?" >}}
-Baserow (cœur sous licence MIT) et Grist (Apache 2.0). NocoDB est publié sous la Sustainable Use License, qui n'est pas une licence open source au sens strict. SeaTable n'est pas open source, mais peut être auto-hébergé gratuitement.
+Baserow (cœur sous licence MIT) et Grist (Apache 2.0). NocoDB est publié sous la Sustainable Use License, qui n'est pas une licence open source au sens strict. SeaTable n'est pas open source, mais peut être auto-hébergé gratuitement. Vous trouverez une comparaison détaillée de la licence, de l'hébergement et des fonctionnalités dans [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
 {{< /faq >}}
 
 {{< faq "Quelle alternative à Airtable peut-on auto-héberger ?" >}}

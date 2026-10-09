@@ -290,7 +290,7 @@ So plan how many workspaces you need before you buy, and consolidate your bases 
 
 Two special cases: on Plus and Business, NocoDB charges for at most 9 users; every additional user is free. That is why 10 users cost the same as 9 here. With SmartSuite, you only pay for users who edit data. Anyone who only reads, comments or fills out forms is free.
 
-If you self-host, Baserow, NocoDB and Grist charge no license fee for the basic version, SeaTable for up to 3 users. Server and operating costs come on top.
+If you self-host, Baserow, NocoDB and Grist charge no license fee for the basic version, SeaTable for up to 3 users. Server and operating costs come on top. For a detailed look at how the three self-hostable tools differ, see our comparison [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
 
 ## Other tools we did not include
 
@@ -338,7 +338,7 @@ Yes. SeaTable, Baserow, NocoDB, Grist and Notion have free plans. The most gener
 {{< /faq >}}
 
 {{< faq "Which Airtable alternative is open source?" >}}
-Baserow (core under the MIT license) and Grist (Apache 2.0). NocoDB is under the Sustainable Use License, which is not an open-source license in the strict sense. SeaTable is not open source, but can be self-hosted for free.
+Baserow (core under the MIT license) and Grist (Apache 2.0). NocoDB is under the Sustainable Use License, which is not an open-source license in the strict sense. SeaTable is not open source, but can be self-hosted for free. For a detailed comparison of license, hosting and features, see [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
 {{< /faq >}}
 
 {{< faq "Which Airtable alternative can be self-hosted?" >}}

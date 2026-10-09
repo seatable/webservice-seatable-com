@@ -413,7 +413,7 @@ sections:
             a: 'All tables, all rows including attachments and all columns except the types button, count, lookup and rollup. SeaTable lists the columns that were not transferred in the new base. Your views are transferred as well. Formula columns are created with the original Airtable formula as a placeholder. Automations and interfaces are set up again in SeaTable. For more control, there is also a [migration script]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).'
 
           - q: 'Can I self-host SeaTable for free?'
-            a: 'Yes. SeaTable Enterprise Edition is free for up to 3 users; all you need is a free license file. For more users, you purchase a license. The installation is described in the [Administrator Manual](https://admin.seatable.com/).'
+            a: 'Yes. SeaTable Enterprise Edition is free for up to 3 users; all you need is a free license file. For more users, you purchase a license. The installation is described in the [Administrator Manual](https://admin.seatable.com/). How SeaTable Server differs from Baserow and NocoDB is shown in our [comparison]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).'
 
           - q: 'Is Airtable available for self-hosting?'
             a: 'No. Airtable is only available as a cloud service. With SeaTable Server and [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}), on the other hand, you can decide today on which infrastructure your data is stored.'
