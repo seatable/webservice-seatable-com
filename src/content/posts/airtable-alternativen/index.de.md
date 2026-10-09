@@ -5,7 +5,7 @@ date: 2026-09-30
 lastmod: '2026-10-05'
 author: 'cdb'
 url: '/de/beste-airtable-alternativen'
-color: '#7cc3da'
+color: '#dee0e6'
 categories:
     - 'best-practice'
 tags:
