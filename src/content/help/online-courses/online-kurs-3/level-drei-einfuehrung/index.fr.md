@@ -22,9 +22,9 @@ Le [cours 1]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrun
 - **Durée** : environ 1 h 30, en une ou deux séances (pause possible après l'étape 4)
 - **Prérequis** : avoir suivi les cours 1 et 2
 - **Ce qu'il vous faut** ([détails](#before-you-start) plus bas) :
-    - Un compte SeaTable
-    - Le plugin de cours en ligne (ajouté à l'étape 1)
-    - Deux groupes et un second membre dans votre équipe (créés au fil du cours)
+    - un compte SeaTable
+    - le plugin de cours en ligne (ajouté à l'étape 1)
+    - deux groupes et un second membre dans votre équipe (créés au fil du cours)
 {{< /course-facts >}}
 
 ## Ce cours est-il fait pour moi ?
