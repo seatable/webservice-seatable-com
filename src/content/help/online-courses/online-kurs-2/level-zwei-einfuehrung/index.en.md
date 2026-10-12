@@ -19,7 +19,7 @@ Welcome to the **SeaTable Online Course 2 – Inputs and Outputs!**
 {{< course-facts headline="At a glance" >}}
 - **Duration**: about 1 hour
 - **Prerequisites**: Course 1
-- **Requirements** ([details below](#before-you-start)):
+- **Requirements** ([details](#before-you-start) below):
     - SeaTable account
     - Mailtrap account (Step 3)
 {{< /course-facts >}}

@@ -17,7 +17,7 @@ Willkommen zum **SeaTable Online-Kurs 2 – Eingaben und Ausgaben!**
 {{< course-facts headline="Auf einen Blick" >}}
 - **Dauer**: etwa 1 Stunde
 - **Vorkenntnisse**: Kurs 1
-- **Voraussetzungen** ([Details unten](#before-you-start)):
+- **Voraussetzungen** ([Details](#before-you-start) unten):
     - SeaTable-Account
     - Mailtrap-Konto (Schritt 3)
 {{< /course-facts >}}

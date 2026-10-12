@@ -17,11 +17,11 @@ weight: 1
 Bienvenue dans le **cours en ligne SeaTable 2 – Entrées et sorties !**
 
 {{< course-facts headline="En bref" >}}
-- **Durée**: environ 1 heure
-- **Prérequis**: Cours 1
-- **Ce qu'il vous faut** ([détails plus bas](#before-you-start)):
-    - Compte SeaTable
-    - Compte Mailtrap (étape 3)
+- **Durée** : environ 1 heure
+- **Prérequis** : Cours 1
+- **Ce qu'il vous faut** ([détails](#before-you-start) plus bas) :
+    - un compte SeaTable
+    - un compte Mailtrap (étape 3)
 {{< /course-facts >}}
 
 ## Est-ce que ce cours est fait pour moi ?

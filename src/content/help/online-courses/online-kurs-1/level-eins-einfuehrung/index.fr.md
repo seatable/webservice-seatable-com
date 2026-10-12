@@ -19,9 +19,9 @@ weight: 1
 Bienvenue dans le **cours en ligne SeaTable 1 – Premiers pas**!
 
 {{< course-facts headline="En bref" >}}
-- **Durée**: environ 1 heure
-- **Prérequis**: aucun
-- **Ce qu'il vous faut** ([détails plus bas](#before-you-start)): Compte SeaTable
+- **Durée** : environ 1 heure
+- **Prérequis** : aucun
+- **Ce qu'il vous faut** ([détails](#before-you-start) plus bas) : un compte SeaTable
 {{< /course-facts >}}
 
 ## Est-ce que ce cours est fait pour moi ?

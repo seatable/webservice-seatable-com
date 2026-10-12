@@ -18,7 +18,7 @@ Willkommen zum **SeaTable Online-Kurs 1 – Erste Schritte**!
 {{< course-facts headline="Auf einen Blick" >}}
 - **Dauer**: etwa 1 Stunde
 - **Vorkenntnisse**: keine
-- **Voraussetzungen** ([Details unten](#before-you-start)): SeaTable-Account
+- **Voraussetzungen** ([Details](#before-you-start) unten): SeaTable-Account
 {{< /course-facts >}}
 
 ## Ist dies der richtige Kurs für mich?

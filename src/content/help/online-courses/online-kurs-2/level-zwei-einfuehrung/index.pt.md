@@ -19,7 +19,7 @@ Bem-vindo ao **Curso Online SeaTable 2 – Entradas e saídas!**
 {{< course-facts headline="Num relance" >}}
 - **Duração**: cerca de 1 hora
 - **Pré-requisitos**: Curso 1
-- **Requisitos** ([detalhes abaixo](#before-you-start)):
+- **Requisitos** ([detalhes](#before-you-start) abaixo):
     - Conta SeaTable
     - Conta Mailtrap (passo 3)
 {{< /course-facts >}}

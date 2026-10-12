@@ -22,7 +22,7 @@ Welcome to the **SeaTable Online Course 1 – Getting Started**!
 {{< course-facts headline="At a glance" >}}
 - **Duration**: about 1 hour
 - **Prerequisites**: none
-- **Requirements** ([details below](#before-you-start)): SeaTable account
+- **Requirements** ([details](#before-you-start) below): SeaTable account
 {{< /course-facts >}}
 
 ## Is this the right course for me?

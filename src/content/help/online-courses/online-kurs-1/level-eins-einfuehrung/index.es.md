@@ -21,7 +21,7 @@ weight: 1
 {{< course-facts headline="De un vistazo" >}}
 - **Duración**: aproximadamente 1 hora
 - **Requisitos previos**: ninguno
-- **Requisitos** ([detalles más abajo](#before-you-start)): Cuenta de SeaTable
+- **Requisitos** ([detalles](#before-you-start) más abajo): Cuenta de SeaTable
 {{< /course-facts >}}
 
 ## ¿Es éste el curso adecuado para mí?

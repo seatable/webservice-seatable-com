@@ -19,7 +19,7 @@ weight: 1
 {{< course-facts headline="De un vistazo" >}}
 - **Duración**: aproximadamente 1 hora
 - **Requisitos previos**: Curso 1
-- **Requisitos** ([detalles más abajo](#before-you-start)):
+- **Requisitos** ([detalles](#before-you-start) más abajo):
     - Cuenta de SeaTable
     - Cuenta de Mailtrap (paso 3)
 {{< /course-facts >}}

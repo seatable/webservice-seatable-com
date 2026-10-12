@@ -21,7 +21,7 @@ Bem-vindo ao **Curso Online SeaTable 1 – Primeiros passos**!
 {{< course-facts headline="Num relance" >}}
 - **Duração**: cerca de 1 hora
 - **Pré-requisitos**: nenhum
-- **Requisitos** ([detalhes abaixo](#before-you-start)): Conta SeaTable
+- **Requisitos** ([detalhes](#before-you-start) abaixo): Conta SeaTable
 {{< /course-facts >}}
 
 ## Este é o curso certo para mim?

@@ -21,11 +21,11 @@ In the previous courses you learned the basics ([Online Course 1 – Getting Sta
 {{< course-facts headline="At a glance" >}}
 - **Duration**: about 1.5 hours
 - **Prerequisites**: Course 1 to Course 3
-- **Requirements** ([details below](#before-you-start)):
+- **Requirements** ([details](#before-you-start) below):
     - SeaTable account
     - Online courses plugin (added in Step 1)
     - SeaTable AI for Step 4 (included on SeaTable Cloud)
-- **Optional** ([details below](#before-you-start)):
+- **Optional** ([details](#before-you-start) below):
     - ntfy app on your phone (Step 5)
     - n8n and Google accounts (Step 6)
 {{< /course-facts >}}
