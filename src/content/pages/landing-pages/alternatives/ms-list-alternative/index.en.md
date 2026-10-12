@@ -149,4 +149,7 @@ sections:
 
           - q: 'Does SeaTable offer free support?'
             a: 'We are here to help with any questions regarding SeaTable or specific features. You can reach our support team via the [SeaTable Forum](https://forum.seatable.com/) or directly by email.'
+
+          - q: 'How does Microsoft Lists compare to Airtable and other databases?'
+            a: 'Microsoft Lists is included in Microsoft 365 and works well for simple lists. For links, views and automations, it is less flexible than a relational database. How Microsoft Lists, SeaTable, Airtable and other tools compare in terms of price, hosting and features is shown in our [comparison of the 8 best Airtable alternatives]({{< relref "posts/airtable-alternativen" >}}).'
 ---

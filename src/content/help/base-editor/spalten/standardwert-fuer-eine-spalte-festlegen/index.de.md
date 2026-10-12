@@ -30,7 +30,7 @@ Zudem können Sie bereits beim [Anlegen einer neuen Spalte]({{< relref "help/bas
 ## Für welche Spaltentypen Sie Standardwerte festlegen können
 
 Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), [Datei-]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) und [Signatur-]({{< relref "help/base-editor/spaltentypen/die-signatur-spalte" >}})Spalten.
+) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), [Datei-]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) und [Signatur-]({{< relref "help/base-editor/spaltentypen/die-signatur-spalte" >}}) Spalten.
 
 **Hier eine Übersicht, für welche Spaltentypen Sie Standardwerte festlegen können:**
 

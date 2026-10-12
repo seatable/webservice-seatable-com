@@ -147,6 +147,8 @@ NocoDB permet de transférer des bases de données SQL existantes vers une inter
 | **évolutivité**         | haut                                                               | 
 | **frais**                 | Version de base gratuite, fonctions avancées à partir de 12 dollars américains     | 
 
+Baserow, NocoDB et SeaTable comparés directement : [Baserow vs. NocoDB vs. SeaTable]({{< relref "pages/landing-pages/compare/baserow-nocodb-seatable" >}}).
+
 ### n8n
 
 n8n se distingue particulièrement par son approche open source et permet de créer visuellement des flux de données et d'API complexes et ramifiés, et de les héberger soi-même si nécessaire. La plateforme sert de solution sans code/à faible code pour les automatisations, les intégrations, les pipelines de données et la logique backend. Contrairement aux bases de données classiques, le modèle de données est basé sur des flux de travail sous forme de diagrammes de nœuds qui transforment les objets de données entre les systèmes. Fondée en Allemagne, n8n permet l'exportation de données via les systèmes connectés, tandis que les flux de travail sont stockés sous forme de fichiers JSON. 

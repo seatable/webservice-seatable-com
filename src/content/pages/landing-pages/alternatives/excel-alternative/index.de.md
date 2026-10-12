@@ -246,4 +246,7 @@ sections:
             </ul>"
           - q: Kann ich SeaTable auch als Datenanalyse-Tool verwenden?
             a: Ja, auch hier ist SeaTable eine leistungsstarke Alternative zu Excel. Während Excel bei der Analyse großer Datenmengen oft langsam wird, bietet SeaTable eine performante Umgebung, um Daten zu strukturieren und per KI auszuwerten. Nutzen Sie SeaTable, um Daten mit wenigen Klicks zu transformieren und lassen Sie sich von der integrierten KI helfen, Muster oder Trends in Ihren Statistiken zu erkennen. Erleben Sie eine intuitive Datenanalyse, die bereits in der Basis-Version deutlich über die klassischen Features eines Spreadsheets hinausgeht.
+
+          - q: 'Welche Excel-Alternativen gibt es außer SeaTable?'
+            a: 'Wer mehr als eine Tabellenkalkulation braucht, landet meist bei einer No-Code-Datenbank wie Airtable, SeaTable, Baserow, NocoDB oder Grist. Alle verbinden die vertraute Tabellenansicht mit verknüpften Tabellen, Formularen und Automationen. Wie sich diese Werkzeuge bei Preis, Hosting und Funktionen unterscheiden, zeigt unser [Vergleich der 8 besten Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}).'
 ---

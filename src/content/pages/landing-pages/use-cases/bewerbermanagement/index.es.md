@@ -148,7 +148,7 @@ sections:
             text: 'Simplemente regístrese y comience: SeaTable Cloud está listo para su uso inmediato. Configure SeaTable de la forma que necesite - sin necesidad de su TI.'
             icon: code
           - headline: 'Statistics and dashboards'
-            text: Analice todos sus [procesos de RRHH]({{< relref "pages/landing-pages/industry-solutions/hr" >}})directamente en SeaTable. Con estadísticas e informes significativos, podrá optimizar continuamente su gestión de candidatos.
+            text: Analice todos sus [procesos de RRHH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) directamente en SeaTable. Con estadísticas e informes significativos, podrá optimizar continuamente su gestión de candidatos.
             icon: chart-line
 
     - name: 'banner-2'

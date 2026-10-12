@@ -120,7 +120,7 @@ Airtable hat im Test zunächst recht gut abgeschnitten: Die Software punktet mit
   
 Als **US-Cloud ohne On-Premises-Variante** weckt der Anbieter jedoch große Zweifel, ob Airtable den Datenschutz wirklich gewährleisten kann. Da personenbezogene Daten auf Servern von US-Firmen möglicherweise ausgespäht werden, ist Airtable mit der DSGVO unvereinbar und für Unternehmen in der EU nicht einsatzfähig. Gerade für kleine Teams mit wachsenden Datenmengen und Benutzerzahlen ist auch das **Airtable Pricing** weniger geeignet, da von der Gratis-Version zum Team-Abo die Airtable Kosten sprunghaft ansteigen.
 
-Wenn Sie nach einer Alternative suchen, die **mehr Datensicherheit und ein besseres Preis-Leistungs-Verhältnis** bietet, ist vor allem SeaTable eine Überlegung wert. Werfen Sie doch mal einen Blick in die kostenlose Basis-Version von SeaTable, die über einen großen Funktionsumfang und **großzügigere Limits als Airtable** verfügt.
+Wenn Sie nach einer Alternative suchen, die **mehr Datensicherheit und ein besseres Preis-Leistungs-Verhältnis** bietet, ist vor allem SeaTable eine Überlegung wert. Werfen Sie doch mal einen Blick in die kostenlose Basis-Version von SeaTable, die über einen großen Funktionsumfang und **großzügigere Limits als Airtable** verfügt. Einen Überblick über weitere Optionen finden Sie in unserem [Vergleich der 8 besten Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}).
 
 {{< button label="Jetzt kostenlos registrieren und zeitlich unbegrenzt testen" link="/pages/registration" >}}
 

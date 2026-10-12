@@ -71,7 +71,7 @@ SeaTable 4.4 hace que [la importación de tablas Excel]({{< relref "help/startse
 
 Los [conjuntos de datos compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) son muy útiles si usted y los miembros de su equipo necesitan ciertas tablas (por ejemplo, una lista de empleados) en diferentes [grupos]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}}) de sus bases. SeaTable 4.4 añade tres nuevas funciones a las ya existentes:
 
-1. Si tiene un [Base de copias]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})Si copia una base a un grupo en el que se incluyen registros de datos compartidos, puede decidir si desea conservar la conexión con estos registros de datos. Por supuesto, el grupo en el que se copia la base debe tener acceso a los registros de datos compartidos.
+1. Si tiene un [Base de copias]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) Si copia una base a un grupo en el que se incluyen registros de datos compartidos, puede decidir si desea conservar la conexión con estos registros de datos. Por supuesto, el grupo en el que se copia la base debe tener acceso a los registros de datos compartidos.
 
     ![Conservar el enlace al conjunto de datos común al copiar una base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 

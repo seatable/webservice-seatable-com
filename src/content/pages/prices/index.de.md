@@ -118,7 +118,7 @@ sections:
               - key: 'Enterprise Admin Panel'
                 values: ['-', '-', '-', '+']
               - key: 'Authentifizierung per AD/LDAP, SAML oder OAuth'
-                values: ['-', '-', '-', '+']
+                values: ['-', '-', '+', '+']
               - type: section
                 label: 'Abrechnung'
               - key: 'Zahlung per Kreditkarte'

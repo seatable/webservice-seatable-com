@@ -122,7 +122,7 @@ sections:
           - key: 'Panel de administración empresarial'
             values: ['-', '-', '-', '+']
           - key: 'Autenticación mediante AD/LDAP, SAML u OAuth'
-            values: ['-', '-', '-', '+']
+            values: ['-', '-', '+', '+']
           - type: section
             label: 'Facturación'
           - key: 'Pago con tarjeta de crédito'

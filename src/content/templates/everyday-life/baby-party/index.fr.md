@@ -23,4 +23,4 @@ Lors d'une baby shower, les futurs parents reçoivent traditionnellement des cad
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. notre [rubrique d'aide]({{< relref "help" >}})vous permet de trouver des réponses aux questions que vous vous posez.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. notre [rubrique d'aide]({{< relref "help" >}}) vous permet de trouver des réponses aux questions que vous vous posez.

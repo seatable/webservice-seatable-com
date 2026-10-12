@@ -1,0 +1,24 @@
+{{- /*
+  Resolves the author of a page from data/authors.yaml.
+
+  Input:  the page
+  Output: a dict (name, role, bio, image, initials, sameAs) or nil if the
+          page has no author or the author has no entry with a name.
+*/ -}}
+{{- $result := "" -}}
+{{- with .Params.author -}}
+    {{- $a := index site.Data.authors . -}}
+    {{- if and $a $a.name -}}
+        {{- $lang := site.Language.Lang -}}
+        {{- $role := "" -}}
+        {{- with $a.role -}}{{- $role = index . $lang | default (index . "en") -}}{{- end -}}
+        {{- $bio := "" -}}
+        {{- with $a.bio -}}{{- $bio = index . $lang | default (index . "en") -}}{{- end -}}
+        {{- $initials := "" -}}
+        {{- range first 2 (split (replaceRE `^Dr\.\s+` "" $a.name) " ") -}}
+            {{- $initials = print $initials (substr . 0 1) -}}
+        {{- end -}}
+        {{- $result = dict "name" $a.name "role" $role "bio" $bio "image" ($a.image | default "") "initials" (upper $initials) "sameAs" ($a.sameAs | default slice) -}}
+    {{- end -}}
+{{- end -}}
+{{- return $result -}}

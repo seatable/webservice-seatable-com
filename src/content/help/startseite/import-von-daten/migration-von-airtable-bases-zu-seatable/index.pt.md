@@ -168,7 +168,7 @@ Este é um exemplo de configuração para importar dados para uma base no SeaTab
 
 ### 4\. introduzir o Airtable Personal Access Token e a Base ID
 
-Adicionar abaixo do comentário **Airtable - Fonte** a [Token de acesso pessoal (PAT) Airtable](https://support.airtable.com/docs/creating-personal-access-tokens) e o [ID da base aérea](https://support.airtable.com/docs/finding-airtable-ids)ambos os valores novamente entre aspas simples. O PAT deve ter a autorização `data.records:read` e `schema.bases:read` disponível.
+Adicionar abaixo do comentário **Airtable - Fonte** a [Token de acesso pessoal (PAT) Airtable](https://support.airtable.com/docs/creating-personal-access-tokens) e o [ID da base aérea](https://support.airtable.com/docs/finding-airtable-ids) ambos os valores novamente entre aspas simples. O PAT deve ter a autorização `data.records:read` e `schema.bases:read` disponível.
 
 Este é o aspeto que deve ter, embora os seus valores sejam, naturalmente, diferentes:  
 ![](images/Airtable_Base_ID_and_PAT.png)

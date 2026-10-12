@@ -1,0 +1,39 @@
+{{- /*
+  Comparison pages (content/pages/landing-pages/compare/, `type: compare`).
+  Hero with the compared products, then the same article body as blog
+  posts (Markdown content, tables, FAQ and cta shortcodes, author box, TOC).
+
+  Front matter:
+    products: list of {name, logo, show_name}, shown as cards in the hero
+    cta:      {title, text, buttons} for the {{< cta >}} shortcode, see cta-box.html (optional)
+*/ -}}
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full">
+        <article>
+            <header class="mt-6 rounded-2xl bg-gray-100 p-8 lg:p-12 xl:p-16">
+                <h1 class="xl:text-56 mt-0 text-left text-3xl font-extrabold leading-narrow text-seatable-blue md:text-4xl">{{ .Title }}</h1>
+                {{ with .Description }}<p class="mt-4 max-w-3xl text-xl leading-normal">{{ . }}</p>{{ end }}
+                <p class="mt-6">
+                    {{ T "compare.as_of" }} {{ .Lastmod | time.Format "January 2006" }}
+                    {{- with partial "author-data.html" . }} · {{ T "article.written_by" }} {{ .name }}{{ end }}
+                </p>
+
+                {{ with .Params.products }}
+                    {{- /* literal class names, so Tailwind picks them up */ -}}
+                    {{ $cols := index (dict "2" "sm:grid-cols-2" "3" "sm:grid-cols-3" "4" "sm:grid-cols-4") (string (len .)) | default "sm:grid-cols-3" }}
+                    <div class="mt-10 grid grid-cols-1 gap-4 {{ $cols }}">
+                        {{ range . }}
+                            <div class="flex h-24 items-center justify-center gap-3 rounded-xl bg-white px-6 shadow-sm">
+                                <img src="{{ .logo | relURL }}" alt="{{ .name }}" class="max-h-10 w-auto max-w-[180px]" />
+                                {{ if .show_name }}<span class="font-poppins text-2xl font-bold text-gray-800">{{ .name }}</span>{{ end }}
+                            </div>
+                        {{ end }}
+                    </div>
+                {{ end }}
+            </header>
+
+            {{ partial "article-body.html" . }}
+        </article>
+    </section>
+
+{{ end }}

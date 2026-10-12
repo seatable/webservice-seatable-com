@@ -15,6 +15,10 @@ Les dates dans une base de SeaTable peuvent être automatiquement synchronisés 
 
 Avant de configurer la synchronisation des événements, vous devez configurer le **compte Google** de l'agenda dans lequel vous souhaitez transférer des dates de SeaTable. Cela se fait en deux étapes : Tout d'abord, créez des **informations d'accès OAuth** dans la Console Google Cloud. Ensuite, vous créez un compte tiers dans SeaTable avec les données d'accès et vous le connectez à Google. Grâce à ce guide étape par étape, c'est très facile.
 
+**Dans ce petit tutoriel, nous allons vous guider pas à pas dans la procédure de connexion de votre Google Agenda à SeaTable (avec des sous-titres en français).**
+
+{{< youtube wKp95ludstQ >}}
+
 ## Création des données d'accès dans la Google Cloud Console
 
 En tant que plateforme destinée aux développeurs, la Google Cloud Console peut sembler confuse aux utilisateurs ordinaires. Ne vous laissez pas impressionner. Grâce aux instructions pas à pas suivantes, vous pourrez la configurer sans vous prendre la tête.

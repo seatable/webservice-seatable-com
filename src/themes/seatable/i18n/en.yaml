@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Table of Contents'
+    written_by: 'By'
+    about_author: 'About the author'
+    author_profile: 'Profile'
 
 legal:
     version: 'Version'
@@ -242,3 +245,6 @@ cookies:
     text: 'This website uses cookies to ensure you get the best experience on our website.'
     link: More information
     confirm: Got it
+
+compare:
+    as_of: 'As of'

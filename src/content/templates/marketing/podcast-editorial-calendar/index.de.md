@@ -23,4 +23,4 @@ Mit dem Podcast Redaktionskalender werden Sie Ihre Verwaltung deutlich optimiere
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen empfehlen wir Ihnen, unseren [Hilfebereich]({{< relref "help" >}})zu nutzen.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen empfehlen wir Ihnen, unseren [Hilfebereich]({{< relref "help" >}}) zu nutzen.

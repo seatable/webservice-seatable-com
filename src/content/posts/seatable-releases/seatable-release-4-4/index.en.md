@@ -73,7 +73,7 @@ SeaTable 4.4 makes the [import of Excel tables]({{< relref "help/startseite/impo
 
 1. If you  
    [Copy a base
-   ]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})to a group in which common datasets are included, you can decide whether you want to retain the connection to these datasets. The group to which you copy the base must of course have access to the common datasets.
+   ]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) to a group in which common datasets are included, you can decide whether you want to retain the connection to these datasets. The group to which you copy the base must of course have access to the common datasets.
 
     ![Retain link to common dataset when copying a base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 

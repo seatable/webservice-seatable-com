@@ -25,4 +25,4 @@ Démarrez dès aujourd'hui avec la comptabilité clients efficace de SeaTable. V
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Si vous avez des doutes ou des questions, notre [rubrique d'aide]({{< relref "help" >}})est à votre disposition.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Si vous avez des doutes ou des questions, notre [rubrique d'aide]({{< relref "help" >}}) est à votre disposition.

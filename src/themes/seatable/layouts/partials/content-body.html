@@ -1,27 +1,21 @@
 {{- /*
-  Renders page body content, fixing two whitespace artifacts.
+  Renders page body content, fixing a whitespace artifact.
 
-  1. The custom link render hook (layouts/_default/_markup/render-link.html)
-     emits a trailing newline after every </a>, which collapses to a rendered
-     space. When a link is immediately followed by closing punctuation, that
-     space both looks wrong and lets the punctuation (e.g. a lone ")") wrap to
-     a new line. We replace it with a non-breaking space so the punctuation
-     stays attached. Dashes (– —) are intentionally excluded so "word – word"
-     keeps its space.
+  (Links: render-link.html emits no whitespace after </a>, so a link followed
+  by punctuation needs no fix here.)
 
-  2. The seatable-icon shortcode emits a trailing newline after its <span>,
-     which collapses with the space the author types before the column name
-     into a single rendered space. That space is a legal break point, so the
-     icon can end up alone at the end of a line with its column name on the
-     next one. We replace it with a non-breaking space, so icon + first word
-     stay together (the rest of a multi-word name can still wrap normally).
-     Fires when text or an opening tag follows (e.g. an icon in front of a
-     bold column name); an icon followed by a CLOSING tag is left alone, so
-     no stray space is added at the end of a paragraph or cell.
+  The seatable-icon shortcode emits a trailing newline after its <span>,
+  which collapses with the space the author types before the column name
+  into a single rendered space. That space is a legal break point, so the
+  icon can end up alone at the end of a line with its column name on the
+  next one. We replace it with a non-breaking space, so icon + first word
+  stay together (the rest of a multi-word name can still wrap normally).
+  Fires when text or an opening tag follows (e.g. an icon in front of a
+  bold column name); an icon followed by a CLOSING tag is left alone, so
+  no stray space is added at the end of a paragraph or cell.
 
   Input: the page's .Content
 */ -}}
 {{- $c := . -}}
-{{- $c = replaceRE `</a>\s+([)\]}.,;:!?])` "</a>&#160;$1" $c -}}
 {{- $c = replaceRE `(<span[^>]*dtable-font[^>]*></span>)\s+([^<\s]|<[^/])` "${1}&#160;${2}" $c -}}
 {{- $c | safeHTML -}}

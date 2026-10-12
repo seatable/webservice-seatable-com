@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Índice'
+    written_by: 'Por'
+    about_author: 'Sobre o autor'
+    author_profile: 'Perfil'
 
 legal:
     version: 'Versão'
@@ -242,3 +245,6 @@ cookies:
     text: 'Este site utiliza cookies para garantir que obtém a melhor experiência no nosso site.'
     link: Mais informações
     confirm: Percebi
+
+compare:
+    as_of: 'Situação:'

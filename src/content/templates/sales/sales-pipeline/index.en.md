@@ -21,4 +21,4 @@ With a structured sales pipeline, sales processes can be optimised and thus ofte
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any doubts or questions, our [help section]({{< relref "help" >}})is at your disposal.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any doubts or questions, our [help section]({{< relref "help" >}}) is at your disposal.

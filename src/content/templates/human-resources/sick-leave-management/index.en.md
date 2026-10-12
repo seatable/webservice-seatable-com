@@ -21,4 +21,4 @@ With the integrated web form, your employees can easily submit sick notes and si
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}})is at your disposal.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}}) is at your disposal.

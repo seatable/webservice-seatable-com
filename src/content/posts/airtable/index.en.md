@@ -122,7 +122,7 @@ Airtable initially performed quite well in this review: The software scores with
   
 However, as a **US cloud without an on-premises version**, the provider raises major doubts as to whether Airtable can really guarantee data protection. As personal data on servers of US companies may be spied on, Airtable is incompatible with the GDPR and cannot be used by companies in the EU. **Airtable pricing** is also less suitable for small teams with growing data volumes and user numbers, as Airtable costs skyrocket from the free version to the Team subscription.
 
-If you are looking for an alternative that offers **more data security and a better price-performance ratio**, SeaTable in particular is worth considering. Take a look at the free basic version of SeaTable, which has a wide range of functions and **more generous limits than Airtable**.
+If you are looking for an alternative that offers **more data security and a better price-performance ratio**, SeaTable in particular is worth considering. Take a look at the free basic version of SeaTable, which has a wide range of functions and **more generous limits than Airtable**. For an overview of further options, see our [comparison of the 8 best Airtable alternatives]({{< relref "posts/airtable-alternativen" >}}).
 
 {{< button label="Register now for free and test for an unlimited time" link="/pages/registration" >}}
 

@@ -23,4 +23,4 @@ Warum Sie Ihre Sammlung verwalten sollten, erfahren Sie in unseremBlogbeitrag.
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen legen wir Ihnen unseren [Hilfebereich]({{< relref "help" >}})ans Herz.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen legen wir Ihnen unseren [Hilfebereich]({{< relref "help" >}}) ans Herz.

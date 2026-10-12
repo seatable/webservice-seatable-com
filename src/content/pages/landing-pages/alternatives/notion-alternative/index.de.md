@@ -215,4 +215,7 @@ sections:
           
           - q: Ist SeaTable open-source?
             a: SeaTable Server ist teilweise als Notion-Alternative open-source. Die selbst-gehostete SeaTable-Version basiert auf einem Open-Core-Modell, bei dem der Kern der Plattform quelloffen und auf GitHub einsehbar ist, während erweiterte Enterprise-Funktionen proprietär sind. Wer SeaTable als Alternative zu Notion self-hosted betreiben möchte, kann den Quellcode prüfen, anpassen und die Plattform vollständig unter eigener Kontrolle betreiben. 
+
+          - q: 'Wie schneidet Notion im Vergleich zu Airtable und anderen No-Code-Datenbanken ab?'
+            a: 'Notion ist stark bei Dokumenten und Wikis, als Datenbank aber schwächer, besonders bei Verknüpfungen und großen Datenmengen. Wie Notion, SeaTable, Airtable, Baserow und weitere Werkzeuge bei Preis, Hosting und Funktionen abschneiden, zeigt unser [Vergleich der 8 besten Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}).'
 ---

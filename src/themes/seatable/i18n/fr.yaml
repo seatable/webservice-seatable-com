@@ -9,6 +9,9 @@ error:
 
 article:
     table_of_contents: 'Table des matières'
+    written_by: 'Par'
+    about_author: 'À propos de l''auteur'
+    author_profile: 'Profil'
 
 legal:
     version: 'Version'
@@ -242,3 +245,6 @@ cookies:
     text: 'Ce site utilise des cookies pour vous garantir la meilleure expérience sur notre site web.'
     link: Plus d’informations
     confirm: J’ai compris
+
+compare:
+    as_of: 'État :'
