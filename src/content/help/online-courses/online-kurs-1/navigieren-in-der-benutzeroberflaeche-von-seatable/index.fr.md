@@ -37,7 +37,7 @@ Une base est une base de données. Elle se compose d'un ou de plusieurs tableaux
 
 Ouvrez maintenant l'une de vos bases en cliquant dessus. Si vous n'en avez pas encore, créez-en une : son nom n'a pas d'importance pour l'instant.
 
-Votre base ne contient pour le moment que trois cellules vides. Ne soyez donc pas dérouté : pour expliquer les différents éléments, nous nous appuyons sur une base d'exemple déjà remplie.
+Votre base ne contient pour le moment que trois cellules vides. Rien d'inquiétant : pour expliquer les différents éléments, nous nous appuyons sur une base d'exemple déjà remplie.
 
 ![Éléments de la base SeaTable](images/elements_seatable_base.png)
 
@@ -45,7 +45,7 @@ Au premier abord, une base peut impressionner : les boutons et les possibilité
 
 ### Tableaux
 
-En haut de chaque base, ses tableaux s'affichent côte à côte sous forme d'onglets. Selon ce que vous connaissez déjà, vous pouvez les comparer aux feuilles de calcul d'Excel ou aux tables d'une base de données. Dans chaque tableau, vous créez les colonnes qui accueilleront vos informations. Mais alors que dans Excel toutes les colonnes se valent, SeaTable vous demande de choisir un type pour chaque nouvelle colonne. Ce type détermine ce que la colonne pourra contenir. Cela paraît compliqué ? Pas du tout :
+En haut de chaque base, ses tableaux s'affichent côte à côte sous forme d'onglets. Selon ce que vous connaissez déjà, vous pouvez les comparer aux feuilles de calcul d'Excel ou aux tables d'une base de données. Dans chaque tableau, vous créez les colonnes qui accueilleront vos informations. Mais alors que dans Excel toutes les colonnes se valent, SeaTable vous demande de choisir un type pour chaque nouvelle colonne. Ce type détermine ce que la colonne pourra contenir. Cela peut paraître compliqué, mais ça ne l'est pas :
 
 - Une colonne de nombres n'accepte que des nombres, pas d'images.
 - Une colonne de date n'accepte que des dates, pas de nombres.
@@ -65,7 +65,7 @@ Ce cours revient plus en détail sur les vues, à travers des exemples concrets.
 
 ## Résumé
 
-Vous avez découvert les principaux éléments de l'interface de SeaTable. Ne vous laissez pas impressionner par toutes ses possibilités : dès la prochaine partie du cours, vous commencerez à construire votre propre **système de suivi des dépenses**, et découvrirez au passage de nombreuses fonctionnalités de SeaTable.
+Vous avez découvert les principaux éléments de l'interface de SeaTable. Ne vous laissez pas impressionner par toutes ses possibilités : dès la prochaine étape du cours, vous commencerez à construire votre propre **système de suivi des dépenses**, et découvrirez au passage de nombreuses fonctionnalités de SeaTable.
 
 Pour vous familiariser avec l'interface et le vocabulaire de SeaTable, consultez notre [glossaire]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}}) : vous y trouverez une explication détaillée de chaque terme.
 

@@ -25,7 +25,7 @@ SeaTable offre de nombreuses possibilités d'importation. Vous pouvez importer d
 
 - Téléchargez le fichier [expenses.csv](/expenses.csv).
 - Importez-le dans le tableau `Expenses`.
-- Vérifiez que le tableau compte exactement 50 lignes.
+- Vérifiez que le tableau comporte exactement 50 lignes.
 
 ![Boîte de dialogue d’import CSV dans le tableau « Expenses » avec aperçu des données](images/level1-import-csv.png)
 

@@ -90,7 +90,7 @@ Bravo ! Si vous avez suivi les consignes à la lettre, votre base devrait maint
 
 ![](images/level1-expenses-table.png)
 
-Faisons le point sur ce que vous venez de créer en quelques clics : **une base dans laquelle vous pourrez désormais saisir toutes vos dépenses.**
+Faisons le point sur ce que vous venez de créer en quelques clics : **une base dans laquelle vous pouvez désormais saisir toutes vos dépenses.**
 
 Et en choisissant les types de colonnes, vous avez fait en sorte que chaque colonne n'accepte que les informations qui lui correspondent.
 

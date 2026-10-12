@@ -41,11 +41,11 @@ Le formulaire est configuré : vous pouvez maintenant l'utiliser pour saisir vo
 
 ## Essayer le formulaire web
 
-Les boutons orange, en haut à droite, vous donnent l'URL du formulaire ou un code QR.
+Les boutons orange, en haut à droite, vous donnent l'URL du formulaire ou un QR code.
 
-Chaque envoi du formulaire crée aussitôt une nouvelle ligne dans votre base, sans même que vous ayez à recharger la page.
+Chaque soumission du formulaire crée aussitôt une nouvelle ligne dans votre base, sans même que vous ayez à recharger la page.
 
-Prenez quelques minutes pour essayer le formulaire et mesurer le chemin parcouru : **désormais, vous-même et toute personne à qui vous donnez le lien du formulaire pouvez ajouter des dépenses dans votre base.**
+Prenez quelques minutes pour essayer le formulaire et mesurer le chemin parcouru : **désormais vous, ou toute personne à qui vous donnez le lien du formulaire, pouvez ajouter des dépenses dans votre base.**
 
 Notez qu'un formulaire web ne sert qu'à créer de nouvelles lignes : il ne permet ni de consulter ni de modifier celles qui existent.
 

@@ -17,7 +17,7 @@ weight: 2
 
 Pour suivre ce cours en ligne, vous avez besoin d'un accès à SeaTable et, de préférence, d'un compte sur notre forum communautaire. Voici comment obtenir l'un et l'autre.
 
-Si vous avez déjà un compte SeaTable et un compte sur le forum, vous pouvez sauter cette page et [passer directement à la suite]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
+Si vous avez déjà un compte SeaTable et un compte sur le forum, vous pouvez sauter cette étape et [passer directement à la suite]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
 ## Accéder à SeaTable
 
@@ -25,7 +25,7 @@ Il existe trois façons d'accéder à SeaTable :
 
 ### 1\. SeaTable Cloud
 
-Le plus simple, et de loin, est de créer un compte gratuit sur SeaTable Cloud. Il suffit d'une adresse e-mail, et c'est fait en une minute.
+Le plus simple, et de loin, est de créer un compte gratuit sur SeaTable Cloud. L'inscription ne nécessite qu'une adresse e-mail et se fait en une minute.
 
 [Inscrivez-vous gratuitement dès maintenant]({{< relref "pages/registration" >}})
 

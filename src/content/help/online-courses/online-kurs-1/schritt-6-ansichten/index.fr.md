@@ -19,7 +19,7 @@ Une vue détermine quelles données d'un tableau s'affichent, et comment : filt
 
 Un exemple : une vue qui n'affiche que les dépenses de plus de 100 euros, triées par date, vous permet de garder un œil sur les grosses dépenses.
 
-{{< warning  headline="Une modification vaut pour toutes les vues"  text="Gardez à l'esprit qu'une vue n'est qu'une autre façon d'afficher les mêmes données. Si vous modifiez une ligne dans une vue, la modification apparaît dans toutes les vues du tableau, puisqu'elles affichent toutes les mêmes lignes." />}}
+{{< warning  headline="Une modification vaut pour toutes les vues"  text="Gardez à l'esprit qu'une vue n'est qu'une autre façon d'afficher les mêmes données. Si vous modifiez un enregistrement dans une vue, la modification apparaît dans toutes les vues du tableau, puisque les lignes affichées représentent toutes les mêmes enregistrements." />}}
 
 ## Créer une vue avec des regroupements
 
@@ -43,11 +43,11 @@ Créez une nouvelle vue nommée `Clothing Expenses by Year`, qui affichera les d
 
 En quelques clics, vous avez créé une vue qui présente clairement vos dépenses de vêtements, année par année.
 
-## Essayez d'autres vues
+## Essayez de créer d'autres vues
 
 Ce cours touche à sa fin, mais votre parcours avec SeaTable ne fait que commencer. Prenez quelques minutes pour essayer d'autres vues : bien les comprendre est essentiel pour tirer parti de SeaTable.
 
-Continuez à explorer SeaTable : vous avez déjà créé un outil puissant, et il vous reste beaucoup à découvrir !
+Continuez à explorer SeaTable : vous avez déjà créé un outil puissant, mais il vous reste encore beaucoup à découvrir !
 
 Quand vous aurez assez exploré, tentez le quiz et décrochez votre badge sur notre forum communautaire.
 

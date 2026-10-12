@@ -15,7 +15,7 @@ seo:
 
 Dans SeaTable, des colonnes de lien permettent de relier plusieurs tableaux entre eux. Pour découvrir cette fonctionnalité très puissante, vous allez ajouter un second tableau, consacré aux catégories de dépenses, et le relier au premier.
 
-## Parenthèse : pourquoi relier les données ?
+## Petite parenthèse : pourquoi relier les données ?
 
 Relier des enregistrements est l'une des fonctions centrales de SeaTable : c'est ce qui le distingue d'un tableur classique et lui donne la puissance d'une base de données relationnelle. Cela paraît complexe, mais vous allez voir par vous-même que ça ne l'est pas. Relier ses données présente trois grands avantages :
 
@@ -45,14 +45,14 @@ Pour créer des liens, il faut un second tableau. Créons-le.
 
 ## Relier les lignes des deux tableaux
 
-Pour relier les lignes des deux tableaux, vous avez deux possibilités :
+Pour relier les enregistrements des deux tableaux, vous avez deux possibilités :
 
 1. À la main : dans une cellule du tableau `Expenses`, cliquez sur le bouton {{< key "+" >}}, puis choisissez la catégorie qui convient. Avec beaucoup de données, cela devient vite fastidieux, et les erreurs arrivent vite.  
    ![Liaison manuelle d’une ligne de dépense à une catégorie via l’icône plus](images/level1-link-rows.png)
 2. Automatiquement, grâce aux [opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable.  
    ![Menu « Data Processing » avec sélection d’une opération de traitement de données dans le tableau](images/level1-data-operation.png)
 
-### Relier les lignes par une opération de traitement des données
+### Relier les enregistrements par une opération de traitement des données
 
 Créez une nouvelle opération de traitement des données nommée `Assign Category`, de type `Auto add link`.
 
