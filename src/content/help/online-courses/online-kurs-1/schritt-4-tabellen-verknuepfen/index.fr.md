@@ -43,7 +43,7 @@ Pour créer des liens, il faut un second tableau. Créons-le.
 5. Ajoutez-y une colonne nommée `Category-Link`, de type `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records`, qui pointe vers le tableau `Categories`.  
    ![Boîte de dialogue pour créer la colonne de lien « Category-Link » vers le tableau « Categories »](images/level1-create-link-column.png)
 
-## Relier les lignes des deux tableaux
+## Relier les enregistrements des deux tableaux
 
 Pour relier les enregistrements des deux tableaux, vous avez deux possibilités :
 
