@@ -13,19 +13,19 @@ seo:
     description: 'À la quatrième étape, créez un bouton SeaTable pour enregistrer les paiements et envoyer une confirmation automatique par e-mail aux participants.'
 ---
 
-Après avoir reçu la demande de paiement par e-mail, les participants au cours transfèrent les frais de cours sur votre compte bancaire. Nous n'allons pas automatiser davantage la vérification de la réception du paiement à ce stade. Néanmoins, il serait judicieux d'intégrer un bouton supplémentaire dans votre base, qui se chargerait de deux tâches :
+Après avoir reçu la demande de paiement par e-mail, les participants virent le prix du cours sur votre compte bancaire. Nous n'allons pas automatiser davantage le suivi des paiements à ce stade. Il serait toutefois utile d'ajouter à votre base un second bouton, qui remplirait deux fonctions :
 
-1. Confirmation de la réception du paiement et donc de l'inscription complète du participant au cours.
-2. Documentation du processus de paiement dans la base.
+1. confirmer au participant que son paiement est bien arrivé, et donc que son inscription est complète ;
+2. garder une trace du paiement dans la base.
 
 ## Plusieurs actions dans un seul bouton
 
-C'est facile à mettre en œuvre dans SeaTable. Dans le tableau `Registrations`, ajoutez un nouveau bouton qui effectue deux actions :
+SeaTable le permet facilement. Dans le tableau `Registrations`, ajoutez un nouveau bouton qui enchaîne deux actions :
 
-- Envoyer un e-mail de confirmation de paiement au participant.
-- Définir le `Payment Status` sur `Paid`.
+- envoyer au participant un e-mail de confirmation de paiement ;
+- passer `Payment Status` à `Paid`.
 
-Grâce à vos nouvelles connaissances, cela ne devrait pas poser de problème. Vous pouvez utiliser le texte suivant pour votre e-mail :
+Avec ce que vous avez appris, cela ne devrait pas vous poser de difficulté. Pour l'e-mail, vous pouvez reprendre ce texte :
 
 > Subject: Payment Confirmation and Online Meeting Details
 >

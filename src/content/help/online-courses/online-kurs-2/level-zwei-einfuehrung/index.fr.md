@@ -24,29 +24,29 @@ Bienvenue dans le **cours en ligne SeaTable 2 – Entrées et sorties !**
     - un compte Mailtrap (étape 3)
 {{< /course-facts >}}
 
-## Est-ce que ce cours est fait pour moi ?
+## Ce cours est-il fait pour moi ?
 
-Ce cours est idéal pour vous si vous :
+Il est fait pour vous si vous :
 
-- souhaitez développer un processus métier avec SeaTable ;
-- souhaitez approfondir les fonctions de SeaTable après avoir suivi le [cours en ligne 1 – Premiers pas]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
+- souhaitez mettre en place un processus métier avec SeaTable ;
+- voulez approfondir les fonctions de SeaTable après avoir suivi le [cours en ligne 1 – Premiers pas]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
 
-## Qu'est-ce que je vais apprendre dans ce cours en ligne ?
+## Qu'allez-vous apprendre dans ce cours ?
 
-La deuxième partie de ce cours est consacrée à la mise en œuvre d'un processus métier complet avec SeaTable. Vous développez un système informatique pour un fournisseur de services en ligne. Peu importe que vous proposiez des ateliers de graphisme, des cours de cuisine, des cours particuliers, des séances photo ou un coaching personnalisé – votre offre reste individuelle. SeaTable se charge de toute la gestion, de la présentation du cours à l'inscription des participants, en passant par le paiement et l'envoi des confirmations de participation.
+Ce deuxième cours vous fait mettre en place un processus métier complet avec SeaTable : la gestion d'une activité de prestations en ligne. Ateliers de graphisme, cours de cuisine, cours particuliers, séances photo ou coaching : votre offre vous appartient, SeaTable se charge de toute la gestion. De la présentation des cours au paiement, en passant par l'inscription des participants et l'envoi des attestations de participation.
 
-L'ensemble du processus métier est reproduit dans SeaTable, ce qui vous permet de vous concentrer pleinement sur votre activité principale.
+Tout le processus se déroule dans SeaTable, et vous pouvez vous consacrer pleinement à votre cœur de métier.
 
 ## Comment se déroule le cours
 
-Vous pouvez suivre le cours à votre propre rythme. Des pauses sont possibles à tout moment. Vous trouverez à différents endroits des liens vers du matériel complémentaire – c'est vous qui décidez jusqu'où vous souhaitez approfondir chaque thème.
+Vous avancez à votre rythme et pouvez faire une pause à tout moment. Des liens vers des contenus complémentaires jalonnent le cours : à vous de décider jusqu'où approfondir chaque sujet.
 
-Le cours est disponible en plusieurs langues, mais le quiz, les captures d'écran et les données d'exemple sont en anglais. Nous recommandons l'utilisation de Google Chrome.
+Le cours existe en plusieurs langues, mais le quiz, les captures d'écran et les données d'exemple sont en anglais. Nous vous recommandons d'utiliser Google Chrome.
 
-À la fin de ce cours, vous pourrez vérifier vos connaissances en répondant à un quiz :
+À la fin du cours, un quiz vous permet de vérifier vos connaissances :
 
-- Le [quiz](https://tally.so/r/mDDbpb) est en anglais et se compose de questions à choix multiples ainsi que de tâches relatives au processus que vous avez mis en œuvre.
-- Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui rendra vos compétences visibles.
+- Le [quiz](https://tally.so/r/mDDbpb), en anglais, mêle des questions à choix multiples et des exercices sur le processus que vous aurez mis en place.
+- Si vous le réussissez, vous obtenez un [badge sur votre profil du forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui atteste de vos compétences.
 - Pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
 
 ## Avant de commencer {#before-you-start}
@@ -58,4 +58,4 @@ Pour suivre ce cours en ligne, il vous faut :
 
 Qu'attendons-nous ? C'est parti !
 
-{{< warning  headline="Voici un petit conseil"  text="Tout au long du cours, certaines informations importantes vous seront signalées dans des encarts comme celui-ci. En bas de chaque page, vous trouverez à droite un lien qui vous mènera directement à la page suivante du cours." />}}
+{{< warning  headline="Un petit conseil"  text="Tout au long du cours, certaines informations importantes vous seront signalées dans des encarts comme celui-ci. En bas de chaque page, vous trouverez à droite un lien qui vous mènera directement à la page suivante du cours." />}}

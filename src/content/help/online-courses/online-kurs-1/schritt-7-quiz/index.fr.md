@@ -14,11 +14,11 @@ seo:
 
 ---
 
-**Vous avez réussi !** Vous êtes arrivé à la fin du cours.
+**Bravo !** Vous êtes arrivé au bout du cours.
 
-Vous pouvez maintenant lancer le quiz pour tester vos connaissances sur SeaTable. Le quiz est en anglais et se compose de 12 questions.
+Place au quiz, pour tester vos connaissances sur SeaTable. Il est en anglais et compte 12 questions.
 
-- La première partie aborde des sujets généraux sur SeaTable, tandis que la deuxième partie se concentre sur la base que vous avez créée et les données qu'elle permet de collecter.
-- Ne vous inquiétez pas si vous ne réussissez pas le quiz immédiatement. Vous pouvez le refaire autant de fois que vous le souhaitez, jusqu'à ce que vous ayez répondu correctement à au moins 10 des 12 questions.
+- La première partie porte sur SeaTable en général, la seconde sur la base que vous avez créée et les données qu'elle contient.
+- Pas d'inquiétude si vous échouez au premier essai : vous pouvez le repasser autant de fois que nécessaire, jusqu'à obtenir au moins 10 bonnes réponses sur 12.
 
 [Vers le quiz](https://tally.so/r/wk5BXr)

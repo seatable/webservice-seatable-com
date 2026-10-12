@@ -13,55 +13,55 @@ seo:
     description: 'Apprenez à créer et envoyer automatiquement des attestations de participation PDF aux participants avec SeaTable.'
 ---
 
-Une fois votre prestation terminée, vous souhaitez parachever le processus en envoyant un dernier e-mail aux participants. Cet e-mail peut avoir différents contenus, comme par exemple :
+Une fois le cours terminé, vous voulez clore le processus en envoyant un dernier e-mail aux participants. Il peut contenir, par exemple :
 
-- Une confirmation de participation
-- Un remerciement pour votre participation
-- Une demande de feedback
-- Un code de bon pour le prochain cours
+- une attestation de participation ;
+- des remerciements ;
+- une demande d'avis ;
+- un bon de réduction pour le prochain cours ;
 - …
 
-## Créer et envoyer une confirmation de participation
+## Créer et envoyer une attestation de participation
 
-Dans cette section, nous utiliserons SeaTable pour générer une confirmation de participation au format PDF et l'envoyer par e-mail aux participants.
+Dans cette étape, vous allez générer avec SeaTable une attestation de participation au format PDF, puis l'envoyer par e-mail aux participants.
 
-### Publipostage avec le plugin de conception de pages
+### Un publipostage avec le plugin de conception de pages
 
-SeaTable propose quelques plugins qui vous permettent d'ajouter des vues et des fonctionnalités supplémentaires à vos données. Le plugin de conception de pages permet de créer des documents PDF, comme un publipostage dans Microsoft Word.
+SeaTable propose plusieurs plugins, qui ajoutent des vues et des fonctionnalités à vos données. Le plugin de conception de pages crée des documents PDF, à la manière d'un publipostage dans Microsoft Word.
 
-Ce plugin vous permet de créer des modèles qui contiennent à la fois des contenus statiques (comme des textes ou des logos) et des données dynamiques issues de votre base. Chaque ligne du tableau peut générer un document individuel.
+Vous y créez des modèles qui mêlent des contenus fixes (textes, logos…) et des données issues de votre base. Chaque ligne du tableau peut ainsi produire son propre document.
 
-{{< warning  headline="De nombreuses possibilités d'utilisation"  text="Le plugin de conception de pages offre de nombreuses possibilités : outre les attestations de participation, vous pouvez également créer des factures, des certificats, des circulaires et bien plus encore." />}}
+{{< warning  headline="De nombreux usages"  text="Le plugin de conception de pages se prête à bien des usages : outre les attestations de participation, il permet de créer des factures, des certificats, des courriers et bien d'autres documents." />}}
 
-Pour ce cours, nous avons déjà préparé un modèle simple pour créer une attestation de participation. Le nom, le cours et la date du cours sont automatiquement insérés, tandis que le reste du texte reste inchangé.
+Pour ce cours, un modèle simple d'attestation de participation est déjà prêt : le nom du participant, le cours et sa date y sont insérés automatiquement, le reste du texte ne change pas.
 
-Prenez quelques minutes pour explorer les possibilités du plugin. Essayez par exemple d'ajouter un logo ou un graphique à votre signature.
+Prenez quelques minutes pour explorer le plugin. Essayez par exemple d'ajouter un logo, ou une image sous la signature.
 
 ![](images/lvl2-page-design.png)
 
-Si vous cliquez sur `{{< seatable-icon icon="dtable-icon-download" >}} PDF`, le PDF généré est enregistré sur votre PC.
+Un clic sur `{{< seatable-icon icon="dtable-icon-download" >}} PDF` enregistre le PDF généré sur votre ordinateur.
 
-{{< warning  headline="Les modèles se réfèrent toujours à un tableau"  text="Lors de la création d'un nouveau modèle, les données ne peuvent être utilisées qu'à partir d'un seul tableau. Si vous avez besoin de données provenant d'une colonne liée, vous devez les inclure via des colonnes de référence (lookup). C'est la raison pour laquelle, dans le tableau `Registrations`, il existe trois colonnes de référence masquées. Ces colonnes ne sont nécessaires que pour le plugin de conception de pages et peuvent donc rester masquées." />}}
+{{< warning  headline="Un modèle porte toujours sur un seul tableau"  text="Un modèle ne peut utiliser que les données d'un seul tableau. Pour y faire figurer des données d'un tableau lié, il faut passer par des colonnes de référence (lookup) : c'est pourquoi le tableau `Registrations` contient trois colonnes de référence masquées. Elles ne servent qu'au plugin de conception de pages et peuvent donc rester masquées." />}}
 
 ### Envoi par e-mail
 
-Bien entendu, vous ne souhaitez pas télécharger manuellement le PDF et le charger à nouveau pour l'envoyer par e-mail. Au lieu de cela, vous pouvez utiliser un bouton dans le tableau `Registrations` qui exécute deux actions à la suite :
+Pas question, bien sûr, de télécharger le PDF pour le joindre ensuite à la main à un e-mail. Un bouton du tableau `Registrations` peut enchaîner les deux actions :
 
 - `{{< seatable-icon icon="dtable-icon-pdf" >}} Create PDF and save to column`
 - `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
 
-La configuration de ces actions devrait maintenant vous être familière. Lors de la création du PDF, vous choisissez le modèle souhaité et la colonne dans laquelle le document doit être enregistré. Lors de l'envoi de l'e-mail, vous indiquez la colonne à partir de laquelle la pièce jointe doit être envoyée.
+Ces réglages devraient maintenant vous être familiers. Pour créer le PDF, vous choisissez le modèle et la colonne où enregistrer le document ; pour envoyer l'e-mail, vous indiquez la colonne qui contient la pièce jointe.
 
-{{< warning  headline="Les actions sont exécutées les unes après les autres"  text="Il n'y a aucun problème à ce que le bouton crée d'abord le fichier PDF et l'envoie ensuite. SeaTable attend que le PDF soit créé avant d'envoyer l'e-mail." />}}
+{{< warning  headline="Les actions s'exécutent l'une après l'autre"  text="Le bouton peut sans problème créer le PDF puis l'envoyer : SeaTable attend que le PDF soit prêt avant d'envoyer l'e-mail." />}}
 
 ### Quelques mots sur la gestion des fichiers
 
-Dans SeaTable, les fichiers et les images ne sont pas stockés directement dans les cellules, mais dans le magasin de données central de la base. Les cellules contiennent uniquement des références aux fichiers correspondants. Cette gestion centralisée présente plusieurs avantages :
+Dans SeaTable, les fichiers et les images ne sont pas stockés dans les cellules elles-mêmes, mais dans un espace de stockage central propre à la base ; les cellules ne contiennent que des références vers ces fichiers. Cette gestion centralisée a plusieurs avantages :
 
-- Les fichiers peuvent être utilisés plusieurs fois sans devoir les télécharger à nouveau.
-- Même si vous supprimez un fichier d'une cellule, il reste disponible dans la gestion centrale jusqu'à ce que vous le supprimiez définitivement.
+- Un même fichier peut servir plusieurs fois, sans avoir à le téléverser de nouveau.
+- Un fichier retiré d'une cellule reste disponible dans la gestion des fichiers, jusqu'à ce que vous le supprimiez définitivement.
 
-Prenez quelques minutes pour vous familiariser avec la gestion des fichiers dans SeaTable. Pour plus d'informations, consultez les articles d'aide en lien à la fin de cette section.
+Prenez quelques minutes pour découvrir la gestion des fichiers de SeaTable. Les articles d'aide ci-dessous vous en diront plus.
 
 ## Article d'aide avec plus d'informations
 

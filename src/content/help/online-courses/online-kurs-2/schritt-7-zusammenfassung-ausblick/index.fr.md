@@ -13,42 +13,42 @@ seo:
     description: 'Profitez d’un résumé de votre parcours avec SeaTable et découvrez les prochaines étapes pour automatiser et intégrer de nouvelles fonctions.'
 ---
 
-Toutes nos félicitations ! Vous avez maintenant créé une structure de base solide qui vous permettra de gérer efficacement votre offre de cours. Résumons brièvement ce que vous avez maintenant réalisé :
+Félicitations ! Vous avez mis en place une base solide pour gérer efficacement votre offre de cours. Faisons le point sur ce que vous avez réalisé :
 
-- Vous pouvez saisir et gérer vos cours de manière claire.
-- Les participants peuvent s'inscrire aux cours via un formulaire web.
-- Vous avez à tout moment un aperçu des cours qui sont complets et de ceux qui sont encore disponibles.
-- Vous pouvez suivre le statut de paiement de vos participants.
-- L'envoi d'e-mails aux participants (confirmations d'inscription, demandes de paiement, confirmations de participation) vous permet de maîtriser l'ensemble du déroulement du cours.
+- Vous saisissez et gérez vos cours de façon claire.
+- Les participants s'inscrivent aux cours via un formulaire web.
+- Vous voyez à tout moment quels cours sont complets et lesquels ont encore des places.
+- Vous suivez le statut de paiement de vos participants.
+- Les e-mails envoyés aux participants (confirmations d'inscription, demandes de paiement, attestations de participation) vous permettent de maîtriser tout le déroulement du cours.
 
-## La voie du succès : étape par étape
+## Avancer pas à pas
 
-Il est important de souligner que le travail avec SeaTable sera particulièrement efficace si vous vous concentrez sur l'essentiel. Voici deux conseils essentiels qui vous aideront à travailler avec succès et de manière ciblée :
+SeaTable donne le meilleur de lui-même quand on se concentre sur l'essentiel. Voici deux conseils pour travailler efficacement et sans vous disperser :
 
-### Conseil 1 : démarrer le plus simplement possible
+### Conseil 1 : commencer le plus simplement possible
 
-Lors de la numérisation des processus, on a souvent tendance à vouloir tout mettre en œuvre de manière parfaite et complète jusque dans les moindres détails. Or, dans de nombreux cas, des solutions trop complexes entraînent plutôt des problèmes. Il est préférable d'optimiser d'abord le processus central. Dans votre cas, il pourrait s'agir du processus allant de l'enregistrement du cours à la saisie des paiements. Une fois que ce processus de base fonctionne de manière fiable, vous pouvez ajouter des extensions au fur et à mesure.
+Quand on numérise un processus, on a souvent envie de tout prévoir, parfaitement et jusqu'au moindre détail. Or une solution trop complexe crée souvent plus de problèmes qu'elle n'en résout. Mieux vaut d'abord bien faire fonctionner le cœur du processus : ici, le parcours qui va de l'inscription au cours à l'enregistrement du paiement. Une fois ce socle fiable, vous pourrez l'enrichir petit à petit.
 
-Une approche utile consiste à esquisser visuellement le processus, par exemple à l'aide d'un simple dessin de processus. Celui-ci pourrait se présenter comme suit :
+Pour cela, il est utile de dessiner le processus, même sommairement. Il pourrait ressembler à ceci :
 
 1. Créer une offre de cours
-2. Fournir le formulaire d'inscription
+2. Mettre le formulaire d'inscription à disposition
 3. Envoyer une demande de paiement
-4. Saisir un encaissement
-5. Confirmation de la réception du paiement
-6. Organiser un cours
-7. Envoyer la confirmation de participation
+4. Enregistrer le paiement
+5. Confirmer la réception du paiement
+6. Animer le cours
+7. Envoyer l'attestation de participation
 
 ### Conseil 2 : tester régulièrement
 
-Des changements et des adaptations sont souvent nécessaires pour optimiser votre flux de travail. Mais chaque modification comporte le risque que les processus existants cessent de fonctionner de manière inattendue. C'est pourquoi vous devez tester l'ensemble du processus après chaque adaptation afin de vous assurer que tout continue à fonctionner sans problème. Cela concerne en particulier les vues, les formulaires et les automatisations critiques. Verrouillez les vues critiques ou donnez-leur des noms parlants afin d'éviter tout malentendu.
+Pour améliorer votre processus, vous serez souvent amené à le modifier. Or chaque modification risque de casser, sans prévenir, quelque chose qui fonctionnait. Après chaque changement, testez donc l'ensemble du processus pour vous assurer que tout fonctionne toujours, en particulier les vues, les formulaires et les automatisations dont il dépend. Verrouillez les vues importantes, ou donnez-leur des noms explicites, pour éviter tout malentendu.
 
-## Perspectives d'avenir : Plus d'automatisation et de nouvelles possibilités
+## Et ensuite ? Plus d'automatisation, de nouvelles possibilités
 
-La prochaine étape de votre parcours avec SeaTable offre des possibilités passionnantes d'automatiser et de professionnaliser davantage vos processus.
+La suite de votre parcours avec SeaTable vous ouvre de belles perspectives pour automatiser et professionnaliser encore vos processus.
 
-- **Cours en ligne, 3e partie** : le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à collaborer en équipe et à rendre vos processus encore plus conviviaux en quelques gestes.
-- **Automatisations** : vous envoyez déjà des e-mails par bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces processus et bien d'autres. Les e-mails, les changements de statut et de nombreuses autres tâches pourraient alors se dérouler sans aucune intervention manuelle. L'administration fonctionnerait ainsi en pilote automatique et vous pourriez vous concentrer pleinement sur votre cours.
-- **Intégration des paiements avec Stripe** : au lieu d'effectuer des virements manuels, vous pouvez ajouter une intégration directe des paiements Stripe. Les participants paient alors immédiatement en ligne et la réception du paiement est automatiquement enregistrée dans SeaTable. Une connexion avec un outil comme [n8n](https://n8n.io) peut facilement réaliser cette intégration et automatiser de manière transparente l'ensemble du processus de paiement.
+- **Cours en ligne, 3e partie** : le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à travailler en équipe et à rendre vos processus encore plus simples à utiliser.
+- **Automatisations** : vous envoyez déjà des e-mails d'un clic sur un bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces tâches et bien d'autres : e-mails, changements de statut… tout se ferait sans intervention de votre part. La gestion tournerait toute seule, et vous pourriez vous consacrer pleinement à vos cours.
+- **Paiement en ligne avec Stripe** : plutôt que d'attendre des virements, vous pouvez intégrer le paiement par Stripe. Les participants paient directement en ligne, et le paiement est enregistré automatiquement dans SeaTable. Un outil comme [n8n](https://n8n.io) permet de réaliser facilement cette intégration et d'automatiser tout le processus de paiement.
 
-Grâce à ces extensions, vous avez la possibilité de professionnaliser davantage votre système et de le rendre encore plus efficace. Préparez-vous à la troisième partie, dans laquelle nous nous plongerons plus profondément dans l'automatisation et l'intégration. Bonne chance pour la suite !
+Avec ces extensions, votre système gagnera encore en professionnalisme et en efficacité. Rendez-vous dans la troisième partie, qui ira plus loin dans l'automatisation et l'intégration. Bonne continuation !

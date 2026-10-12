@@ -14,30 +14,30 @@ seo:
 
 ---
 
-Nous approchons de la fin de ce deuxième cours en ligne. Alors que le processus est terminé pour vos clients avec la réception de la confirmation de participation, vous pouvez encore franchir une étape supplémentaire : l'analyse des données que vous avez collectées. Celles-ci constituent une excellente base pour des analyses statistiques qui vous aideront à améliorer vos services et à les rendre plus efficaces.
+Ce deuxième cours touche à sa fin. Pour vos clients, le processus s'arrête à la réception de leur attestation de participation ; vous, vous pouvez aller plus loin et analyser les données collectées. Elles se prêtent parfaitement à des analyses statistiques, qui vous aideront à améliorer vos prestations et à les rendre plus efficaces.
 
-Avec SeaTable, vous pouvez créer en quelques secondes des diagrammes et des graphiques qui vous permettront de répondre à des questions comme celle-ci :
+Avec SeaTable, quelques secondes suffisent pour créer des graphiques qui répondent à des questions comme celles-ci :
 
-- Quel est le chiffre d'affaires que j'ai réalisé au cours de quel mois ?
-- Combien d'inscriptions ai-je reçues par mois ?
-- Quel cours est le plus demandé ?
-- Quels participants se sont inscrits à plus d'un cours ?
+- Quel chiffre d'affaires ai-je réalisé chaque mois ?
+- Combien d'inscriptions ai-je reçues par mois ?
+- Quel cours est le plus demandé ?
+- Quels participants se sont inscrits à plus d'un cours ?
 
 ## Le module Statistiques de SeaTable
 
-Ouvrez le module Statistiques dans votre base et vous verrez que nous avons déjà préparé quelques graphiques pour répondre aux trois premières questions. Ces graphiques vous montrent par exemple :
+Ouvrez le module Statistiques de votre base : quelques graphiques y sont déjà prêts, qui répondent aux trois premières questions. Ils vous montrent par exemple :
 
-- **Chiffre d'affaires par mois** : en un coup d'œil, vous pouvez constater que juin et août 2024 ont été les mois les plus rentables, tandis que le mois d'août 2024 a enregistré le plus grand nombre d'inscriptions.
-- **Inscriptions par mois** : vous pouvez voir ici pour quels mois vos cours ont été les plus prisés.
-- **Cours populaires** : vous obtenez un aperçu des cours qui ont reçu le plus d'inscriptions.
+- **Chiffre d'affaires par mois** : vous voyez d'un coup d'œil que juin et août 2024 ont été les mois les plus rentables, et qu'août 2024 a aussi enregistré le plus d'inscriptions.
+- **Inscriptions par mois** : vous voyez quels mois vos cours ont le plus attiré.
+- **Cours populaires** : vous voyez quels cours ont reçu le plus d'inscriptions.
 
-## Créer soi-même un graphique
+## Créer votre propre graphique
 
-Si vous souhaitez répondre à la quatrième question – « Quel participant s'est inscrit à plus d'un cours ? » –, vous pouvez facilement la visualiser vous-même. Cliquez en haut à droite dans le module Statistiques sur `{{< seatable-icon icon="dtable-icon-add-table" >}} Add chart` et explorez les différentes options. Ici, vous pouvez filtrer par participant et représenter le nombre d'inscriptions.
+Pour répondre à la quatrième question, « Quels participants se sont inscrits à plus d'un cours ? », créez vous-même un graphique : dans le module Statistiques, cliquez en haut à droite sur `{{< seatable-icon icon="dtable-icon-add-table" >}} Add chart` et explorez les options. Vous pouvez par exemple regrouper par participant et afficher le nombre d'inscriptions.
 
-## Mise à jour automatique des graphiques
+## Des graphiques toujours à jour
 
-L'un des grands avantages du module Statistiques de SeaTable est sa mise à jour automatique. Une fois que vous avez créé un graphique, celui-ci aura toujours accès aux données les plus récentes dans votre base. Une mise à jour manuelle n'est pas nécessaire : les graphiques sont calculés en permanence avec les chiffres les plus récents.
+Grand avantage du module Statistiques : il se met à jour tout seul. Un graphique s'appuie toujours sur les données les plus récentes de votre base ; inutile de l'actualiser à la main.
 
 ## Article d'aide avec plus d'informations
 

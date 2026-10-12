@@ -13,107 +13,107 @@ seo:
     description: 'Démarrez le cours 2 : importez la base fournie, explorez champs et formules, et découvrez les vues clés pour vos prochains processus complexes.'
 ---
 
-Avant de pouvoir représenter un nouveau processus de gestion dans SeaTable, vous devez d'abord créer la structure de tableau appropriée. C'est la seule façon de saisir judicieusement les données nécessaires au processus et de les traiter efficacement par la suite. Vous pouvez certes vous inspirer des nombreux modèles proposés, mais il est généralement nécessaire de bien réfléchir au processus et de définir clairement les données pertinentes.
+Pour gérer un nouveau processus dans SeaTable, il faut d'abord la bonne structure de tableaux : c'est elle qui permet de saisir les données utiles au processus, puis de les exploiter efficacement. Les nombreux modèles proposés peuvent vous inspirer, mais il faut en général bien réfléchir au processus et définir précisément les données dont il a besoin.
 
-Comme ce cours porte sur la gestion des services en ligne, nous avons besoin de deux tableaux centraux :
+Ce cours portant sur la gestion de prestations en ligne, il nous faut deux tableaux centraux :
 
-- Un tableau pour recenser les offres de cours
-- Un tableau pour les participants
+- un tableau pour les cours proposés ;
+- un tableau pour les participants.
 
-Dans le premier cours, vous avez déjà appris à créer une base avec différents types de colonnes. Nous allons donc sauter cette étape et commencer directement avec une base préparée.
+Vous avez déjà appris à créer une base et ses colonnes au cours 1. Nous sautons donc cette étape et partons d'une base toute prête.
 
-Téléchargez le fichier suivant sur votre PC et importez-le comme nouvelle base sur la page d'accueil de SeaTable :
+Téléchargez le fichier suivant sur votre ordinateur, puis importez-le comme nouvelle base depuis la page d'accueil de SeaTable :
 
 [SeaTable Course 2.dtable](/SeaTable-Course-2.dtable)
 
-Même si vous ne devez pas créer la base vous-même, il est important que vous vous familiarisiez intensivement avec sa structure. De nouveaux types de colonnes ont été utilisés, que vous n'avez peut-être pas encore rencontrés dans le cours précédent.
+Vous n'avez pas à créer la base vous-même, mais prenez le temps de bien comprendre sa structure : elle utilise des types de colonnes que vous n'avez peut-être pas encore rencontrés au cours 1.
 
-## Les composants de la base
+## Ce que contient la base
 
-Au premier coup d'œil, la base semble assez claire. Elle se compose uniquement de :
+À première vue, la base est plutôt simple. Elle ne compte que :
 
 - 2 tableaux
 - 18 colonnes
 - 3 vues
 - 1 formulaire web
 
-Mais ne vous laissez pas tromper par sa simplicité : cette structure est étonnamment puissante. Voyons ci-dessous pourquoi nous avons conçu la base de cette manière.
+Ne vous fiez pourtant pas à cette simplicité : cette structure est étonnamment puissante. Voyons pourquoi nous l'avons conçue ainsi.
 
-### Aperçu de votre offre de cours
+### Vos cours en un coup d'œil
 
-Dans le tableau `Courses`, vous trouverez toutes les informations importantes sur vos offres. Chaque ligne représente un cours ou un service que vous proposez. Les différentes colonnes fournissent des informations détaillées, comme par exemple :
+Le tableau `Courses` rassemble toutes les informations importantes sur vos cours. Chaque ligne correspond à un cours ou à une prestation que vous proposez, et les colonnes en donnent le détail, par exemple :
 
-- Nom du cours
-- Date et lieu du cours
-- Nombre de participants inscrits
-- Statut du cours (complet ou places encore disponibles)
+- le nom du cours ;
+- sa date et son lieu ;
+- le nombre de participants inscrits ;
+- son statut (complet ou places encore disponibles).
 
-Cet aperçu structuré vous permet de garder à tout moment une vue d'ensemble de vos cours et du nombre de participants.
+Vous gardez ainsi à tout moment une vue d'ensemble de vos cours et de leurs inscrits.
 
 ![Tableau « Courses » avec données de cours, nombre de participants et statut par cours](images/lvl2-table-courses.png)
 
-{{< warning  headline="Les dates sont dans le passé"  text="Vous constaterez que toutes les dates de cours se situent dans le passé. Cela s'explique tout simplement par le fait que nous ne voulions pas actualiser régulièrement ce cours en ligne. Ne tenez donc pas compte de ce fait pour ce cours en ligne." />}}
+{{< warning  headline="Des dates dans le passé"  text="Toutes les dates de cours sont passées : nous avons simplement choisi de ne pas les mettre à jour régulièrement. N'en tenez pas compte pendant le cours." />}}
 
-### Tout ce qu'il faut savoir sur les participants à vos cours
+### Tout sur vos participants
 
-Le tableau `Registrations` permet de saisir toutes les données relatives aux personnes qui se sont inscrites à vos cours. Chaque ligne représente un participant et contient les informations suivantes :
+Le tableau `Registrations` rassemble les informations sur les personnes inscrites à vos cours. Chaque ligne correspond à un participant :
 
-- Nom du participant
-- Adresse électronique
-- Le cours auquel la personne s'est inscrite
-- Statut de paiement (si le paiement a déjà été effectué)
+- son nom ;
+- son adresse e-mail ;
+- le cours auquel il s'est inscrit ;
+- son statut de paiement (a-t-il déjà payé ?).
 
-Ce tableau vous donne à tout moment un aperçu clair de l'état actuel des inscriptions et du statut des paiements.
+Ce tableau vous donne à tout moment une vision claire des inscriptions et des paiements.
 
 ![Tableau « Registrations » avec noms, e-mails et cours choisis par les participants](images/lvl2-table-registrations.png)
 
-{{< warning  headline="Colonnes cachées"  text="Pour une meilleure vue d'ensemble, deux colonnes ont été masquées. Vous verrez plus tard que nous n'avons de toute façon besoin de ces colonnes que pour le publipostage." />}}
+{{< warning  headline="Colonnes masquées"  text="Pour plus de lisibilité, deux colonnes sont masquées. Vous verrez plus loin qu'elles ne servent qu'au publipostage." />}}
 
 ## Autres particularités
 
-Certaines fonctions de cette base ne sont compréhensibles qu'après certaines configurations. Veuillez lire attentivement les explications suivantes afin de mieux comprendre les sections qui suivent.
+Certaines fonctions de cette base ne se comprennent qu'une fois leurs réglages connus. Lisez attentivement les explications qui suivent : elles vous aideront pour la suite du cours.
 
 ### Colonnes de formule
 
-Dans le tableau `Courses`, vous trouverez deux colonnes de formule importantes, dont voici l'utilité :
+Le tableau `Courses` contient deux colonnes de formule importantes, dont voici le rôle :
 
 - `{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date`
 - `{{< seatable-icon icon="dtable-icon-formula" >}} Status`
 
-`{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` est une colonne auxiliaire qui combine les valeurs des colonnes `Title` et `Date`. La formule utilisée est très simple et se contente d'assembler le titre et la date du cours.
+`{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` est une colonne auxiliaire qui assemble les valeurs des colonnes `Title` et `Date` : sa formule, très simple, accole le titre et la date du cours.
 
 ![Colonne de formule « Title and Date » combinant titre du cours et date en un affichage unique](images/lvl2-formula-title-date.png)
 
-À première vue, cette colonne semble superflue, car elle ne fait que combiner des données existantes. Mais faites-nous confiance : si nous analysons tout de suite le formulaire d'inscription, vous comprendrez pourquoi cette colonne est extrêmement utile.
+À première vue, cette colonne semble superflue, puisqu'elle ne fait que combiner des données existantes. Faites-nous confiance : en examinant le formulaire d'inscription, vous comprendrez vite à quel point elle est utile.
 
 ---
 
-La colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` détermine automatiquement s'il y a encore des places disponibles dans un cours ou si le cours est déjà complet. La logique sous-jacente est relativement simple, mais pourrait également tenir compte de la date de l'événement si elle était utilisée de manière productive.
+La colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` indique automatiquement si un cours a encore des places disponibles ou s'il est complet. Sa logique est assez simple ; en situation réelle, elle pourrait aussi tenir compte de la date du cours.
 
 ![Colonne de formule « Status » calculant automatiquement places libres ou complet pour chaque cours](images/lvl2-formula-status.png)
 
-{{< warning  headline="L'utilité des colonnes de formule"  text="Les colonnes de formule jouent un rôle central dans le développement de bases performantes dans SeaTable. Elles servent à relier des informations ou à définir certains états. La pleine utilité de ces colonnes n'apparaît souvent que lorsqu'on travaille avec d'autres fonctions." />}}
+{{< warning  headline="À quoi servent les colonnes de formule"  text="Les colonnes de formule jouent un rôle central dans les bases SeaTable bien conçues : elles combinent des informations ou déterminent un état. Tout leur intérêt apparaît souvent quand d'autres fonctions s'appuient sur elles." />}}
 
-### Vue permettant de sélectionner les cours disponibles
+### Une vue pour ne proposer que les cours disponibles
 
-Dans le tableau `Courses`, il existe une vue spéciale appelée `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`. Cette vue filtre la colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` et affiche uniquement les cours pour lesquels des places sont encore disponibles. Les cours complets sont automatiquement masqués.
+Le tableau `Courses` comporte une vue spéciale, `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`. Elle filtre sur la colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` pour n'afficher que les cours qui ont encore des places : les cours complets disparaissent automatiquement.
 
-Cette vue est verrouillée pour empêcher toute modification {{< seatable-icon icon="dtable-icon-unlock" >}}pour s'assurer qu'elle reste inchangée. Elle joue un rôle important, car elle limite les choix possibles dans la colonne de lien `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Registered for`.
+Cette vue est verrouillée {{< seatable-icon icon="dtable-icon-unlock" >}} pour que personne ne la modifie par erreur. Elle joue un rôle important : elle limite les choix proposés dans la colonne de lien `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Registered for`.
 
-Si nous examinons tout de suite le formulaire d'inscription de plus près, nous verrons pourquoi cette vue est si utile.
+Vous verrez pourquoi elle est si utile en examinant le formulaire d'inscription, à l'étape suivante.
 
 ![Paramètres de la colonne de lien « Registered for » limitée à la vue « Available Courses »](images/lvl2-link-column-limit-to-view.png)
 
-### Marquage en couleur des lignes et des colonnes
+### Des couleurs pour les lignes et les colonnes
 
-SeaTable offre la possibilité de mettre en évidence les lignes, les colonnes et les cellules par des couleurs. Deux effets de ce type sont déjà intégrés dans ce modèle :
+SeaTable permet de mettre en couleur des lignes, des colonnes et des cellules. Ce modèle en utilise déjà deux exemples :
 
-- Les lignes des cours sont marquées en fonction de leur statut : les cours avec des places libres sont mis en évidence en vert, tandis que les cours complets sont marqués en rouge.
-- Les prix des cours sont classés par couleur en fonction de leur montant : plus le cours est cher, plus le marquage est foncé.
+- Les lignes des cours prennent une couleur selon leur statut : en vert les cours qui ont encore des places, en rouge les cours complets.
+- Les prix sont colorés selon leur montant : plus le cours est cher, plus la couleur est foncée.
 
-## Familiarisez-vous avec la base
+## Prenez la base en main
 
-Prenez suffisamment de temps pour explorer la base en détail. Si certaines fonctions vous sont encore inconnues, n'hésitez pas à consulter les articles d'aide en lien.
+Prenez le temps d'explorer la base en détail. Si certaines fonctions vous sont encore inconnues, consultez les articles d'aide ci-dessous.
 
 ## Article d'aide avec plus d'informations
 
