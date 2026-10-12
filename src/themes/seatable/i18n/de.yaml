@@ -10,6 +10,9 @@ error:
 article:
     table_of_contents: 'Inhaltsverzeichnis'
     zoom_hint: 'Zum Vergrößern klicken'
+    written_by: 'Von'
+    about_author: 'Über den Autor'
+    author_profile: 'Profil'
 
 legal:
     version: 'Version'
@@ -243,3 +246,6 @@ cookies:
     text: 'Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten.'
     link: Weitere Informationen
     confirm: Zustimmen
+
+compare:
+    as_of: 'Stand:'

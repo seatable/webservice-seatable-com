@@ -23,4 +23,4 @@ Especialmente si toma medicación con regularidad, debe documentar la hora y la 
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. nuestra [sección de ayuda]({{< relref "help" >}})te ofrece soporte si tienes alguna duda.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. nuestra [sección de ayuda]({{< relref "help" >}}) te ofrece soporte si tienes alguna duda.

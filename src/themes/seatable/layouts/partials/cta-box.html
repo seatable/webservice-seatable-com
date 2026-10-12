@@ -1,0 +1,29 @@
+{{- /*
+  Call-to-action box inside an article (dark, no curved banner). Rendered
+  by the {{< cta >}} shortcode.
+
+  Input: dict with
+    title:   headline
+    text:    optional short text
+    buttons: list of {label, link, style}; link is a page path
+             (e.g. "pages/registration") or an absolute URL; style
+             "primary" (gradient) or "secondary" (white outline)
+*/ -}}
+<aside class="my-12 rounded-lg bg-seatable-blue p-6 sm:p-8">
+    <p class="!mb-0 mt-0 !pb-0 font-poppins !text-2xl !leading-tight font-bold !text-white">{{ .title }}</p>
+    {{ with .text }}<p class="!mb-0 mt-3 !pb-0 !text-base !text-white">{{ . }}</p>{{ end }}
+    {{ with .buttons }}
+        <div class="mt-6 flex flex-col gap-3 sm:flex-row">
+            {{ range . }}
+                {{ $external := hasPrefix .link "http" }}
+                {{ $href := .link }}
+                {{ if not $external }}{{ with site.GetPage .link }}{{ $href = .RelPermalink }}{{ end }}{{ end }}
+                {{ if eq .style "secondary" }}
+                    <a href="{{ $href }}" {{ if $external }}target="_blank" rel="noopener"{{ end }} class="rounded-xl border border-white px-5 py-3 text-center font-poppins text-lg font-bold !text-white !no-underline">{{ .label }}</a>
+                {{ else }}
+                    <a href="{{ $href }}" {{ if $external }}target="_blank" rel="noopener"{{ end }} class="bg-gradient rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold !text-white !no-underline">{{ .label }}</a>
+                {{ end }}
+            {{ end }}
+        </div>
+    {{ end }}
+</aside>

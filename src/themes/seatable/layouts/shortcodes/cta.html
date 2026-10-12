@@ -1,0 +1,9 @@
+{{- /*
+  Call-to-action box inside an article, placed where the author wants it:
+
+    {{< cta >}}
+
+  Content comes from the page's front matter `cta` (title, text, buttons),
+  see partials/cta-box.html.
+*/ -}}
+{{ with .Page.Params.cta }}{{ partial "cta-box.html" . }}{{ end }}

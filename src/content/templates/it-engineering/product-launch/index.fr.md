@@ -26,4 +26,4 @@ Pour savoir comment garantir le succès de votre lancement de produit avec SeaTa
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Vous avez des questions ? notre [rubrique d'aide]({{< relref "help" >}})est là pour vous aider.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Vous avez des questions ? notre [rubrique d'aide]({{< relref "help" >}}) est là pour vous aider.

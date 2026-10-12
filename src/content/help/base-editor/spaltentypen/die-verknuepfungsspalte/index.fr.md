@@ -1,7 +1,7 @@
 ---
 title: 'La colonne des liens'
 date: 2022-10-11
-lastmod: '2023-11-29'
+lastmod: '2026-10-08'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
@@ -10,12 +10,36 @@ aliases:
     - '/fr/aide/wie-man-tabellen-in-seatable-miteinander-verknuepft'
     - '/fr/aide/comment-lier-tables-seatable'
 seo:
-    title: 'La colonne des liens dans SeaTable – guide complet'
-    description: 'Créez des liens entre plusieurs tables, gérez et affichez les relations d’un simple clic, pour analyses et automatisations.'
+    title: 'Enregistrements liés dans SeaTable : la colonne des liens'
+    description: 'Des enregistrements liés sans programmation : reliez des tableaux, utilisez lookup et rollup et visualisez les relations sous forme de diagramme.'
 weight: 20
 ---
 
-Utilisez les fonctions de [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}) de SeaTable en reliant les informations de différentes tables. Pour ce faire, utilisez le type de colonne **Lien vers d'autres enregistrements**.
+Avec la colonne des liens, vous créez des relations entre tableaux dans SeaTable, sans SQL ni programmation. Un enregistrement d'un tableau renvoie à un ou plusieurs enregistrements d'un autre tableau, par exemple une commande à son client et aux produits commandés. Ces **enregistrements liés** (en anglais : _linked records_) sont la base des fonctions de [base de données relationnelle]({{< relref "posts/relationale-datenbank" >}}) de SeaTable. Le type de colonne s'appelle **Lien vers d'autres enregistrements**.
+
+## Quelles relations vous pouvez représenter
+
+| Relation | Exemple | Comment faire dans SeaTable |
+|---|---|---|
+| **1:1** (un à un) | Une facture correspond à exactement une commande. | Colonne des liens avec le réglage [Limiter les liens à une seule ligne maximum](#limiter-les-liens-à-une-seule-ligne-maximum) |
+| **1:n** (un à plusieurs) | Un client a plusieurs commandes, chaque commande appartient à un client. | Colonne des liens limitée à une ligne dans le tableau des commandes et sans limite dans le tableau des clients |
+| **n:m** (plusieurs à plusieurs) | Une commande contient plusieurs produits, un produit figure dans de nombreuses commandes. | Colonne des liens sans limite, aucune table intermédiaire nécessaire |
+| **Dans un même tableau** | Tâches et sous-tâches, collaborateurs et leurs responsables | [Liens dans un tableau]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}) |
+
+Un lien est visible dans les deux tableaux. Lors de la création de la colonne des liens, vous choisissez si le lien est affiché dans une **colonne existante** de l'autre tableau ou si une **nouvelle colonne** y est créée.
+
+{{< warning  headline="Conseil : données par combinaison"  text="Vous avez besoin, dans une relation n:m, de données propres à la combinaison, comme la **quantité** et le **prix** d'un produit dans une commande donnée ? Créez alors un tableau dédié, par ex. **Lignes de commande**, et reliez-le aux commandes et aux produits." />}}
+
+### Exemple : clients, commandes et produits
+
+![Base avec les tableaux Clients, Commandes, Lignes de commande, Produits et leurs liens](images/verknuepfungsspalten.png)
+
+- Le tableau **Clients** contient le nom, l'interlocuteur et l'adresse.
+- Chaque enregistrement de **Commandes** est lié à un client.
+- Les **Lignes de commande** relient une commande à un produit et contiennent la quantité et le prix.
+- Le tableau **Produits** contient la référence, la désignation et le prix catalogue.
+
+Avec une [formule pour les liens](#utiliser-les-données-des-enregistrements-liés--lookup-rollup-et-plus), vous affichez le nom du client dans chaque commande et calculez le chiffre d'affaires par client dans le tableau des clients. Le [plugin de relations entre les tableaux](#visualiser-les-relations--le-diagramme-de-relations) affiche toute la structure sous forme de diagramme.
 
 ## Voici comment lier deux tableaux
 
@@ -154,7 +178,41 @@ En cliquant sur les **symboles fléchés**, vous pouvez **trier** les entrées l
 
 {{< warning  headline="Conseil"  text="**Combinées**, les **options d'affichage** ont encore plus d'impact et peuvent vous aider à trouver certaines entrées liées encore plus rapidement et plus facilement." />}}
 
+## Utiliser les données des enregistrements liés : lookup, rollup et plus
+
+Les enregistrements liés n'affichent d'abord qu'une seule valeur de l'autre tableau, par ex. le nom. Pour récupérer, compter ou résumer d'autres valeurs, utilisez une colonne de type [Formule pour les liens]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen" >}}). Cinq formules sont disponibles :
+
+| Formule | Ce qu'elle fait | Exemple |
+|---|---|---|
+| [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) | récupère les valeurs d'une colonne des enregistrements liés | afficher le numéro de téléphone du client dans la commande |
+| [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}}) | résume les valeurs des enregistrements liés, par ex. en somme ou en moyenne | chiffre d'affaires par client sur toutes ses commandes |
+| [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}}) | compte les enregistrements liés | nombre de commandes par client |
+| [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}}) | trouve l'enregistrement lié ayant la valeur la plus élevée | dernière commande d'un client |
+| [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}}) | trouve l'enregistrement lié ayant la valeur la plus faible | première commande d'un client |
+
+Les formules pour les liens fonctionnent aussi sur plusieurs niveaux : un lookup peut accéder à une colonne lookup ou rollup du tableau lié. Ainsi, une ligne de commande affiche le nom du client : la commande le récupère par lookup dans le tableau des clients, et la ligne de commande accède par lookup à cette colonne de la commande.
+
+## Visualiser les relations : le diagramme de relations
+
+Avec de nombreux tableaux liés, on perd vite la vue d'ensemble. Le [plugin de relations entre les tableaux]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) affiche tous les tableaux d'une base avec leurs colonnes sous forme de **diagramme de relations**. Les lignes continues représentent des liens directs via des colonnes des liens, les lignes en pointillés des connexions indirectes via des formules pour les liens comme lookup ou rollup. Vous pouvez exporter le diagramme en tant qu'image.
+
+![Diagramme de relations de la base d'exemple Clients, Commandes, Lignes de commande, Produits](images/Beziehungsdarstellung.png)
+
+## Limites
+
+- **Modifier le type de colonne ultérieurement :** Une colonne existante ne peut pas être convertie en colonne des liens. Créez plutôt une nouvelle colonne (voir [Questions fréquentes](#questions-fréquentes)).
+- **Une colonne par lookup :** Chaque colonne lookup récupère les valeurs d'exactement une colonne du tableau lié. Pour d'autres valeurs, créez d'autres colonnes lookup.
+
 ## Questions fréquentes
+
+{{< faq "SeaTable peut-il représenter des relations n:m (plusieurs à plusieurs) ?" >}}Oui. Une colonne des liens sans limite permet un nombre quelconque d'enregistrements liés dans chaque cellule, et un enregistrement peut être lié à un nombre quelconque de lignes de l'autre tableau. Vous n'avez besoin d'une table intermédiaire que si vous souhaitez enregistrer des données sur la combinaison, par ex. la quantité et le prix par ligne de commande.
+{{< /faq >}}
+
+{{< faq "Faut-il connaître SQL pour relier des tableaux ?" >}}Non. Vous configurez les liens, lookups et rollups entièrement dans l'interface. Si vous le souhaitez, vous pouvez aussi travailler avec les enregistrements liés via l'[API](https://developer.seatable.com) ou avec des scripts Python et JavaScript.
+{{< /faq >}}
+
+{{< faq "Les liens sont-ils conservés lors d'une importation depuis Airtable ?" >}}Oui. Lors de la [migration de bases Airtable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}), vous indiquez les colonnes de liens dans le script de migration, et elles arrivent dans SeaTable sous forme de liens. Toutes les colonnes sont importées sauf **Button**, **Count**, **Lookup** et **Rollup**. Après l'importation, recréez les colonnes lookup et rollup en tant que formules pour les liens.
+{{< /faq >}}
 
 {{< faq "Je ne trouve pas ce type de colonne. Ne puis-je pas créer de lien ?" >}}La colonne de liens est disponible dans chaque abonnement SeaTable. Cependant, vous essayez probablement de modifier le type de colonne d'une colonne existante. Lorsque vous [modifiez le]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) type de colonne, le type de colonne **Lien vers d'autres entrées** n'est en effet _pas_ disponible. Créez plutôt une **nouvelle colonne** et le type de colonne souhaité vous sera proposé.
 

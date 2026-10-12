@@ -1,3 +1,6 @@
 # -- Markup --
 
 # brauche ich das???
+# Allows attributes on blocks, e.g. `{.sticky-2}` below a table
+[goldmark.parser.attribute]
+block = true

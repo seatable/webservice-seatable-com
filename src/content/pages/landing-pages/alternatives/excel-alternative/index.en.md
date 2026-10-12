@@ -229,4 +229,7 @@ sections:
             - Define who has access to sensitive data through granular permission management, which is not possible in Excel in this way"
           - q: Can I also use SeaTable as a data analysis tool?
             a: Yes, SeaTable is also a strong alternative to Excel here. While Excel often becomes slow when analyzing large amounts of data, SeaTable provides a high-performance environment for structuring and analyzing data via AI. Use SeaTable to transform data with just a few clicks and let the integrated AI help you identify patterns or trends in your statistics. Experience intuitive data analysis that goes significantly beyond the classic features of a spreadsheet, even in the basic version.
+
+          - q: 'What Excel alternatives are there besides SeaTable?'
+            a: 'If you need more than a spreadsheet, you usually end up with a no-code database such as Airtable, SeaTable, Baserow, NocoDB or Grist. They all combine the familiar spreadsheet view with linked tables, forms and automations. How these tools differ in terms of price, hosting and features is shown in our [comparison of the 8 best Airtable alternatives]({{< relref "posts/airtable-alternativen" >}}).'
 ---

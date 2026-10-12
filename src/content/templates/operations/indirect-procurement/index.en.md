@@ -21,4 +21,4 @@ Read more about the possible applications of this template in ourblog article.
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}})is always at your disposal.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}}) is always at your disposal.

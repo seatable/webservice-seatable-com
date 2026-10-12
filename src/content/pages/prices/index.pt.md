@@ -121,7 +121,7 @@ sections:
               - key: 'Painel de administração Enterprise'
                 values: ['-', '-', '-', '+']
               - key: 'Autenticação via AD/LDAP, SAML ou OAuth'
-                values: ['-', '-', '-', '+']
+                values: ['-', '-', '+', '+']
               - type: section
                 label: 'Faturamento'
               - key: 'Pagamento com cartão de crédito'

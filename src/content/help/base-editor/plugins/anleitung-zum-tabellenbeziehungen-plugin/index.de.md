@@ -1,18 +1,18 @@
 ---
 title: 'Anleitung zum Tabellenbeziehungen-Plugin'
 date: 2024-07-29
-lastmod: '2024-08-01'
+lastmod: '2026-10-08'
 categories:
     - 'plugins'
 author: 'kgr'
 url: '/de/hilfe/anleitung-zum-tabellenbeziehungen-plugin'
 seo:
-    title: 'Anleitung Tabellenbeziehungen-Plugin in SeaTable'
-    description: 'Erfahren Sie, wie Sie mit dem Tabellenbeziehungen-Plugin Ihre Base-Tabellen und Verknüpfungen visualisieren und effizient verwalten.'
+    title: 'Beziehungsdiagramm: verknüpfte Tabellen in SeaTable visualisieren'
+    description: 'Mit dem Tabellenbeziehungen-Plugin sehen Sie das Datenmodell Ihrer Base als Diagramm: alle Tabellen, Verknüpfungen und Lookups auf einen Blick.'
 
 ---
 
-Besonders wenn sich viele verknüpfte Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind.
+Besonders wenn sich viele verknüpfte Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Sie sehen das **Datenmodell** Ihrer Base als **Beziehungsdiagramm**: alle Tabellen, ihre [Verknüpfungen]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) und die [Formeln für Verknüpfungen]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen" >}}) wie Lookup und Rollup.
 
 Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ).

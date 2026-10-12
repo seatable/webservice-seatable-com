@@ -120,7 +120,7 @@ sections:
               - key: 'Панель администратора Enterprise'
                 values: ['-', '-', '-', '+']
               - key: 'Аутентификация через AD/LDAP, SAML или OAuth'
-                values: ['-', '-', '-', '+']
+                values: ['-', '-', '+', '+']
               - type: section
                 label: 'Оплата'
               - key: 'Оплата кредитной картой'

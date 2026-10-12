@@ -44,7 +44,7 @@ Si su Zap lee los datos de SeaTable, debería prescindir de tales conversiones e
 
 ## 4\. cómo no superar el límite API
 
-Toda implementación seria de API limita el número de llamadas permitidas para evitar que usuarios individuales bloqueen los recursos del sistema o, en el peor de los casos, pongan de rodillas a todo el sistema. SeaTable también utiliza este tipo de límites, aunque para Zapier sólo es relevante el límite de un máximo de 5.000 consultas al día. Este límite no cuenta por equipo o cuenta, sino que se calcula por base. Puedes encontrar más detalles en la [documentación de la API de Sea](https://api.seatable.com/reference/limits)Table.
+Toda implementación seria de API limita el número de llamadas permitidas para evitar que usuarios individuales bloqueen los recursos del sistema o, en el peor de los casos, pongan de rodillas a todo el sistema. SeaTable también utiliza este tipo de límites, aunque para Zapier sólo es relevante el límite de un máximo de 5.000 consultas al día. Este límite no cuenta por equipo o cuenta, sino que se calcula por base. Puedes encontrar más detalles en la [documentación de la API de Sea](https://api.seatable.com/reference/limits) Table.
 
 Básicamente, 5.000 visitas parece un número bastante grande, pero especialmente con una [suscripción Profesional, Equipo o Empresa a Zapier,](https://zapier.com/app/pricing) puede ocurrir rápidamente que alcances este límite. El siguiente ejemplo explica por qué ocurre esto:
 

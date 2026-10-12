@@ -19,6 +19,6 @@ With SeaTable you have a contact form and ticket system in one - our flexible ta
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. our [help section]({{< relref "help" >}})also offers you comprehensive support and instructions.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. our [help section]({{< relref "help" >}}) also offers you comprehensive support and instructions.
 
 ​

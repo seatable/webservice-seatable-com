@@ -23,4 +23,4 @@ Puede encontrar más información sobre cómo redactar una carta de presentació
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tienes alguna pregunta, nuestra [sección de ayuda]({{< relref "help" >}})es el mejor lugar al que acudir.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tienes alguna pregunta, nuestra [sección de ayuda]({{< relref "help" >}}) es el mejor lugar al que acudir.

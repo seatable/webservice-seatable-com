@@ -71,7 +71,7 @@ Avec SeaTable 4.4, l'[importation de tableaux Excel]({{< relref "help/startseite
 
 [Les ensembles de données partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) sont très utiles lorsque vous et les membres de votre équipe avez besoin de certains tableaux (par exemple une liste d'employés) à travers différents [groupes]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}}) dans vos bases. Avec SeaTable 4.4, trois nouvelles fonctions viennent s'ajouter à celles déjà existantes :
 
-1. Si vous avez une [Copier la base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})Si vous utilisez des bases de données qui contiennent des enregistrements partagés, vous pouvez décider de conserver ou non le lien avec ces enregistrements. Le groupe dans lequel vous copiez la base doit bien sûr avoir accès aux enregistrements communs.
+1. Si vous avez une [Copier la base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) Si vous utilisez des bases de données qui contiennent des enregistrements partagés, vous pouvez décider de conserver ou non le lien avec ces enregistrements. Le groupe dans lequel vous copiez la base doit bien sûr avoir accès aux enregistrements communs.
 
     ![Retenir le lien vers le dataset commun lors de la copie d'une base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 

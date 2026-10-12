@@ -15,6 +15,10 @@ Termine in einer SeaTable Base lassen sich automatisch mit einem oder mehreren *
 
 Bevor Sie die Terminsynchronisation konfigurieren, müssen Sie das **Google Konto** des Kalenders, in den Sie Termine übertragen wollen, in SeaTable einrichten. Dies erfolgt in zwei Schritten: Zunächst erzeugen Sie in der Google Cloud Console **OAuth-Zugangsdaten**. Dann legen Sie in SeaTable mit den Zugangsdaten ein Drittanbieterkonto an und verbinden es mit Google. Mit dieser Schritt-für-Schritt-Anleitung ist dies ganz leicht.
 
+**In diesem kurzen Tutorial zeigen wir Ihnen Schritt für Schritt, wie Sie Ihren Google Kalender mit SeaTable verbinden.**
+
+{{< youtube 58M2tBEKkbA >}}
+
 ## Erstellung der Zugangsdaten in der Google Cloud Console
 
 Als Plattform für Entwickler wirkt die Google Cloud Console für normale Benutzer zunächst unübersichtlich. Lassen Sie sich davon nicht beeindrucken. Mit der folgenden Schritt-für-Schritt-Anleitung schaffen Sie die Einrichtung ohne Kopfzerbrechen.

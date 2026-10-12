@@ -131,7 +131,7 @@ sections:
       weight: 16
       title: "Quand l'IA prend en charge l'inventaire de votre musée"
       subtitle: 'Automatisation intelligente pour les musées et les galeries'
-      description: Avec SeaTable, vous bénéficiez de puissantes fonctionnalités d'IA qui automatisent l'inventaire de votre musée, vos prêts entre institutions et la documentation de vos collections. Grâce à de puissantes [fonctionnalités d'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}})votre modèle deviendra une plateforme intelligente dédiée à la gestion numérique des œuvres d'art, à la recherche de provenance et à l'optimisation des collections – plus efficace que les logiciels de musée classiques ou les listes Excel manuelles.
+      description: Avec SeaTable, vous bénéficiez de puissantes fonctionnalités d'IA qui automatisent l'inventaire de votre musée, vos prêts entre institutions et la documentation de vos collections. Grâce à de puissantes [fonctionnalités d'IA]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) votre modèle deviendra une plateforme intelligente dédiée à la gestion numérique des œuvres d'art, à la recherche de provenance et à l'optimisation des collections – plus efficace que les logiciels de musée classiques ou les listes Excel manuelles.
       items:
       - headline: 'Classer automatiquement les objets'
         text: "Grâce à Classify, SeaTable classe les objets par catégorie, période ou domaine de collection. L'IA analyse la désignation ou le matériau et inscrit la classification dans le catalogue numérique – les filtres et vues de votre inventaire au musée restent toujours à jour."

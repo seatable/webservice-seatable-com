@@ -15,6 +15,10 @@ Dates in a SeaTable Base can be automatically synchronized with one or more **Go
 
 Before you configure the synchronization, you must set up the **Google account** of the calendar to which you want to transfer appointments from SeaTable. This is done in two steps: First, create **OAuth credentials** in the Google Cloud Console. Then create a third-party account in SeaTable with the access data and connect it to Google. This is very easy with these step-by-step instructions.
 
+**In this short tutorial, we’ll walk you through the process of connecting your Google Calendar to SeaTable step by step.**
+
+{{< youtube wKp95ludstQ >}}
+
 ## Creation of the access data in the Google Cloud Console
 
 As a platform for developers, the Google Cloud Console initially seems confusing for normal users. Don't let this impress you. The following step-by-step guide will help you set it up without any headaches.

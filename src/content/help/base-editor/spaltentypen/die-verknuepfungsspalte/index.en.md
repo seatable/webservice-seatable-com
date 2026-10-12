@@ -1,7 +1,7 @@
 ---
 title: 'The link column'
 date: 2022-10-11
-lastmod: '2023-11-29'
+lastmod: '2026-10-08'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
@@ -10,12 +10,36 @@ aliases:
     - '/help/wie-man-tabellen-in-seatable-miteinander-verknuepft'
     - '/help/how-to-link-tables-seatable'
 seo:
-    title: 'Use link columns in SeaTable for powerful relations'
-    description: 'Link tables via link columns for relations and data integration. Step-by-step guide to connect and manage related tables.'
+    title: 'Linked records in SeaTable: the link column'
+    description: 'Link records between tables without code: link tables, use lookup and rollup on linked records and see relationships as a diagram.'
 weight: 20
 ---
 
-Use the [relational database]({{< relref "posts/relationale-datenbank" >}}) functions of SeaTable by linking information from different tables. To do this, use the **Link to other records** column type.
+With the link column, you build relationships between tables in SeaTable, without SQL or coding. A record in one table refers to one or more records in another table, for example an order to its customer and to the products ordered. These **linked records** are the basis of SeaTable's [relational database]({{< relref "posts/relationale-datenbank" >}}) functions. The column type is called **Link to other records**.
+
+## Which relationships you can model
+
+| Relationship | Example | How to do it in SeaTable |
+|---|---|---|
+| **One-to-one** | An invoice belongs to exactly one purchase order. | Link column with the setting [Limit linking to max one row](#limit-linking-to-max-one-row) |
+| **One-to-many** | A customer has many orders, each order belongs to one customer. | Link column, limited to one row in the orders table and unlimited in the customers table |
+| **Many-to-many** | An order contains several products, a product appears in many orders. | Link column without a limit, no junction table needed |
+| **Within one table** | Tasks and subtasks, employees and their managers | [Links within a table]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}) |
+
+A link is visible in both tables. When you create the link column, you choose whether the link is shown in an **existing column** of the other table or whether a **new column** is created there.
+
+{{< warning  headline="Tip: data per combination"  text="Do you need data that belongs to the combination in a many-to-many relationship, such as the **quantity** and **price** of a product in a specific order? Then create a separate table, e.g. **Order items**, and link it to the orders and to the products." />}}
+
+### Example: customers, orders and products
+
+![Base with the tables Customers, Orders, Order items, Products and their links](images/verknuepfungsspalten.png)
+
+- The **Customers** table contains name, contact person and address.
+- Each record in **Orders** is linked to one customer.
+- **Order items** link an order to a product and contain quantity and price.
+- The **Products** table contains item number, description and list price.
+
+With a [link formula](#use-data-from-linked-records-lookup-rollup-and-more) you show the customer name in each order and calculate the revenue per customer in the customers table. The [table relationships plugin](#see-relationships-at-a-glance-the-relationship-diagram) shows the whole structure as a diagram.
 
 ## How to link two tables with each other
 
@@ -154,7 +178,41 @@ You can **sort** the linked records in the link dialog by clicking on the **arro
 
 {{< warning  headline="Tip"  text="In **combination**, the **view options** have an even greater effect and can help you find specific linked records even faster and more conveniently." />}}
 
+## Use data from linked records: lookup, rollup and more
+
+Linked records first show only one value from the other table, for example the name. To pull in, count or summarize more values, add a [link formula]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen" >}}) column. Five formulas are available:
+
+| Formula | What it does | Example |
+|---|---|---|
+| [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) | pulls the values of a column from the linked records | show the customer's phone number in the order |
+| [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}}) | summarizes the values of the linked records, e.g. as a sum or average | revenue per customer from all orders |
+| [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}}) | counts the linked records | number of orders per customer |
+| [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}}) | finds the linked record with the highest value | a customer's latest order |
+| [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}}) | finds the linked record with the lowest value | a customer's first order |
+
+Link formulas also work across several levels: a lookup can refer to a lookup or rollup column in the linked table. For example, an order item can show the customer's name: the order pulls it from the customers table with a lookup, and the order item looks up this column of the order.
+
+## See relationships at a glance: the relationship diagram
+
+With many linked tables, it is easy to lose track. The [table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}}) shows all tables of a base with their columns as a **relationship chart**, a diagram of your data model. Solid lines stand for direct links via link columns, dashed lines for indirect connections via link formulas such as lookup or rollup. You can export the diagram as an image.
+
+![Relationship diagram of the example base Customers, Orders, Order items, Products](images/Beziehungsdarstellung.png)
+
+## Limits
+
+- **Changing the column type later:** An existing column cannot be converted into a link column. Create a new column instead (see [Frequently asked questions](#frequently-asked-questions)).
+- **One column per lookup:** Each lookup column pulls the values of exactly one column of the linked table. For more values, add more lookup columns.
+
 ## Frequently asked questions
+
+{{< faq "Can SeaTable handle many-to-many relationships?" >}}Yes. A link column without a limit allows any number of linked records in each cell, and a record can be linked to any number of rows in the other table. You only need a junction table if you want to store data about the combination, such as quantity and price per order item.
+{{< /faq >}}
+
+{{< faq "Do I need SQL to link tables?" >}}No. You set up links, lookups and rollups entirely in the interface. If you want, you can also work with linked records via the [API](https://developer.seatable.com) or with Python and JavaScript scripts.
+{{< /faq >}}
+
+{{< faq "Are linked records kept when importing from Airtable?" >}}Yes. When you [migrate Airtable bases]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}), you specify the link columns in the migration script, and they arrive in SeaTable as links. All columns are imported except **Button**, **Count**, **Lookup** and **Rollup**. After the import, you recreate lookup and rollup columns as link formulas.
+{{< /faq >}}
 
 {{< faq "I can't find this column type. Can't I create a link?" >}}The Link column is available in every SeaTable subscription. However, you are probably trying to change the column type of an existing column. When [changing the]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) column type, the **Link to other records** column type is actually _not_ available to you. Instead, create a **new column** and you will be offered the column type you want.
 
