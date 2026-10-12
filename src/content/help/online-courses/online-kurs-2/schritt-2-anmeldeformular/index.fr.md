@@ -13,25 +13,25 @@ seo:
     description: 'Apprenez à utiliser le formulaire intégré du cours SeaTable et à afficher uniquement les formations encore disponibles.'
 ---
 
-Nous allons maintenant nous pencher sur le formulaire Web. Comme vous avez déjà appris à créer un formulaire web avec SeaTable dans le premier cours en ligne, vous n'avez pas besoin de le faire à nouveau. Le formulaire web est déjà intégré au modèle.
+Nous allons maintenant nous pencher sur le formulaire web. Comme vous avez déjà appris à créer un formulaire web avec SeaTable dans le premier cours en ligne, vous n'avez pas besoin de le faire à nouveau. Le formulaire web est déjà intégré au modèle.
 
-Ouvrez maintenant le formulaire web en mode édition et nous discuterons brièvement des points les plus importants.
+Ouvrez maintenant le formulaire web en mode édition et nous aborderons brièvement les points les plus importants.
 
 ## Le formulaire web et la sélection des cours
 
 Le formulaire web est volontairement simple et ne demande que trois valeurs :
 
 - Nom
-- Courriel :
+- E-mail
 - Cours
 
 Les trois champs sont définis comme obligatoires. Les champs **Nom** et **E-mail** ne nécessitent pas d'explication supplémentaire.
 
-La particularité réside dans la sélection des cours : Ici, seuls les cours qui disposent encore de places libres peuvent être sélectionnés. Faites-en vous-même l'expérience : Si vous cliquez sur le champ de sélection, seuls trois cours s'affichent, bien que cinq cours au total soient saisis dans le tableau.
+La particularité réside dans la sélection des cours : ici, seuls les cours qui disposent encore de places disponibles peuvent être sélectionnés. Faites-en vous-même l'expérience : si vous cliquez sur le champ de sélection, seuls trois cours s'affichent, bien que cinq cours au total soient saisis dans le tableau.
 
 ![Formulaire web avec sélection de cours limitée aux cours disponibles](images/lvl2-limited-course-selection.png)
 
-Pourquoi en est-il ainsi ? Nous avons réduit la sélection dans la colonne des liens à la vue `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` qui n'affiche que les cours avec des places disponibles. Ainsi, vous ne voyez dans le formulaire web que les cours qui sont disponibles dans cette vue.
+Pourquoi cela ? Nous avons réduit la sélection dans la colonne de lien à la vue `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses` qui n'affiche que les cours avec des places disponibles. Ainsi, vous ne voyez dans le formulaire web que les cours qui sont disponibles dans cette vue.
 
 SeaTable tient compte de cette restriction et s'assure que, même dans le formulaire web, seuls les cours qui ne sont pas encore complets sont proposés.
 

@@ -1,5 +1,5 @@
 ---
-title: "Étape 4 : Réception de l'argent"
+title: 'Étape 4 : Réception du paiement'
 date: 2024-09-19
 lastmod: '2024-09-24'
 categories:
@@ -9,21 +9,21 @@ url: '/fr/aide/etape4-reception-paiement-seatable'
 aliases:
     - '/fr/aide/schritt-4-geldeingang'
 seo:
-    title: 'Étape 4 SeaTable Cours 2: réception de paiement – email'
-    description: 'Au quatrième module, créez un bouton SeaTable pour enregistrer les paiements et envoyer une confirmation automatique par e-mail aux participants.'
+    title: 'Étape 4 SeaTable Cours 2 : réception de paiement – email'
+    description: 'À la quatrième étape, créez un bouton SeaTable pour enregistrer les paiements et envoyer une confirmation automatique par e-mail aux participants.'
 ---
 
-Après avoir reçu la demande de paiement par e-mail, les participants au cours transfèrent les frais de cours sur votre compte bancaire. Nous n'allons pas automatiser davantage la vérification de la réception de l'argent à ce stade. Néanmoins, il serait judicieux d'intégrer un bouton supplémentaire dans votre base, qui se chargerait de deux tâches :
+Après avoir reçu la demande de paiement par e-mail, les participants au cours transfèrent les frais de cours sur votre compte bancaire. Nous n'allons pas automatiser davantage la vérification de la réception du paiement à ce stade. Néanmoins, il serait judicieux d'intégrer un bouton supplémentaire dans votre base, qui se chargerait de deux tâches :
 
-1. Confirmation de la réception de l'argent et donc de l'inscription complète du participant au cours.
+1. Confirmation de la réception du paiement et donc de l'inscription complète du participant au cours.
 2. Documentation du processus de paiement dans la base.
 
 ## Plusieurs actions dans un seul bouton
 
-C'est facile à mettre en œuvre dans SeaTable. Ajoutez dans le tableau `Registrations` ajoute un nouveau bouton qui effectue deux actions :
+C'est facile à mettre en œuvre dans SeaTable. Dans le tableau `Registrations`, ajoutez un nouveau bouton qui effectue deux actions :
 
 - Envoyer un e-mail de confirmation de paiement au participant.
-- Le site `Payment Status` sur `Paid` mettre en place.
+- Définir le `Payment Status` sur `Paid`.
 
 Grâce à vos nouvelles connaissances, cela ne devrait pas poser de problème. Vous pouvez utiliser le texte suivant pour votre e-mail :
 

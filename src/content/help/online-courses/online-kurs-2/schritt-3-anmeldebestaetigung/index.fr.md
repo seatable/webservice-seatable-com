@@ -17,9 +17,9 @@ Nous ajoutons maintenant la fonction permettant aux participants qui se sont ins
 
 ## Envoi d'e-mails avec SeaTable
 
-Pour envoyer des e-mails avec SeaTable, vous devez d'abord enregistrer un compte e-mail dans la base. Comme la configuration varie selon les fournisseurs, nous vous recommandons d'utiliser [mailtrap](https://mailtrap.io). _Mailtrap_ vous permet d'envoyer des e-mails dans une boîte aux lettres virtuelle, ce qui a l'avantage de ne pas envoyer d'e-mails à des clients réels ou fictifs - mais vous pouvez simuler l'envoi d'e-mails de manière réaliste.
+Pour envoyer des e-mails avec SeaTable, vous devez d'abord enregistrer un compte e-mail dans la base. Comme la configuration varie selon les fournisseurs, nous vous recommandons d'utiliser [Mailtrap](https://mailtrap.io). _Mailtrap_ vous permet d'envoyer des e-mails dans une boîte aux lettres virtuelle, ce qui a l'avantage de ne pas envoyer d'e-mails à des clients réels ou fictifs – mais vous pouvez simuler l'envoi d'e-mails de manière réaliste.
 
-{{< warning headline="Quel est le fournisseur de messagerie qui me convient le mieux ?" text="Il n'y a pas de _bon_ ou _de mauvais>_fournisseur de messagerie. Si vous n'envoyez que quelques e-mails par jour, votre compte de messagerie existant suffira probablement. Toutefois, si le volume d'e-mails augmente, vous devriez envisager de faire appel à un fournisseur professionnel tel que [Brevo.com](https://brevo.com), qui vous permettra de mieux suivre la livraison des e-mails." />}}
+{{< warning headline="Quel est le fournisseur de messagerie qui me convient le mieux ?" text="Il n'y a pas de _bon_ ni de _mauvais_ fournisseur de messagerie. Si vous n'envoyez que quelques e-mails par jour, votre compte de messagerie existant suffira probablement. Toutefois, si le volume d'e-mails augmente, vous devriez envisager de faire appel à un fournisseur professionnel tel que [Brevo.com](https://brevo.com), qui vous permettra de mieux suivre la livraison des e-mails." />}}
 
 ### Créer un compte Mailtrap
 
@@ -27,7 +27,7 @@ Pour commencer, visitez la [page d'enregistrement de Mailtrap](https://mailtrap.
 
 ![Page d’inscription Mailtrap avec formulaire de création de compte](images/lvl2-mailtrap.png)
 
-Confirmez votre adresse e-mail et connectez-vous. Après quelques questions sur vos intérêts - qui ne sont pas pertinentes pour la suite - vous arrivez sur la page d'accueil de _Mailtrap_.
+Confirmez votre adresse e-mail et connectez-vous. Après quelques questions sur vos intérêts – qui ne sont pas pertinentes pour la suite –, vous arrivez sur la page d'accueil de _Mailtrap_.
 
 ![Page d’accueil Mailtrap avec boîte de réception préconfigurée « My Inbox »](images/lvl2-mailtrap-inbox.png)
 
@@ -41,13 +41,13 @@ Avec les données d'accès SMTP de Mailtrap, vous pouvez maintenant configurer l
 
 ![Boîte de dialogue SeaTable avec données SMTP Mailtrap saisies pour l’envoi d’e-mails](images/lvl2-mailtrap-in-seatable.png)
 
-Les e-mails ne sont pas réellement envoyés, mais apparaissent dans votre boîte mailtrap. Testez ceci en envoyant un e-mail à n'importe quel destinataire - il atterrira uniquement dans votre boîte aux lettres virtuelle.
+Les e-mails ne sont pas réellement envoyés, mais apparaissent dans votre boîte Mailtrap. Testez ceci en envoyant un e-mail à n'importe quel destinataire – il atterrira uniquement dans votre boîte aux lettres virtuelle.
 
 ![E-mail de test dans la boîte Mailtrap pour vérifier l’envoi depuis SeaTable](images/lvl2-mailtest.gif)
 
 ## Envoyer un e-mail au client
 
-Maintenant, nous pouvons être dans le tableau `Registrations` créer une nouvelle colonne pour l'envoi d'e-mails. Utilisez les paramètres suivants :
+Nous pouvons maintenant créer une nouvelle colonne dans le tableau `Registrations` pour l'envoi d'e-mails. Utilisez les paramètres suivants :
 
 > Nom : au choix
 >
@@ -59,7 +59,7 @@ Maintenant, nous pouvons être dans le tableau `Registrations` créer une nouvel
 >
 > Objet : `Confirmation: Course {Registered for}`
 >
-> Récepteurs : `customer@example.com`
+> Destinataire : `customer@example.com`
 
 ![Tableau SeaTable avec colonne de bouton « Send » pour envoyer des e-mails aux participants](images/lvl2-create-button.png)
 
@@ -78,13 +78,13 @@ Pour le texte du message, vous pouvez utiliser le modèle de texte suivant :
 >
 > Best regards
 
-Si vous utilisez l'éditeur de texte simple, les caractères de remplacement entre accolades sont remplacés automatiquement. Si vous utilisez l'éditeur de texte enrichi, vous devez remplacer les espaces réservés manuellement en utilisant la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` insérer.
+Si vous utilisez l'éditeur de texte simple, les espaces réservés entre accolades sont remplacés automatiquement. Si vous utilisez l'éditeur de texte enrichi, vous devez insérer les espaces réservés manuellement à l'aide de la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column`.
 
 ![Éditeur de texte enrichi SeaTable avec espaces réservés pour le cours et la date](images/lvl2-rich-text-editor.png)
 
 Cliquez ensuite sur le bouton et vérifiez si l'e-mail apparaît dans votre boîte aux lettres Mailtrap.
 
-Félicitations ! Vous venez d'envoyer votre premier e-mail via SeaTable - même s'il n'est allé que dans la boîte aux lettres virtuelle de Mailtrap.
+Félicitations ! Vous venez d'envoyer votre premier e-mail via SeaTable – même s'il n'est allé que dans la boîte aux lettres virtuelle de Mailtrap.
 
 {{< warning  headline="Envoyer automatiquement des e-mails"  text="Actuellement, nous envoyons les e-mails manuellement par bouton. Toutefois, avec un abonnement Enterprise à SeaTable, vous pourriez mettre en place des automatismes pour envoyer automatiquement des e-mails. Comme il s'agit d'une fonctionnalité payante, nous ne ferons pas de démonstration ici." />}}
 

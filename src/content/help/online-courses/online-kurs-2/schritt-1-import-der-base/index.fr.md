@@ -30,18 +30,18 @@ Même si vous ne devez pas créer la base vous-même, il est important que vous 
 
 ## Les composants de la base
 
-Au premier coup d'œil, la base semble assez claire. Elle se compose uniquement de
+Au premier coup d'œil, la base semble assez claire. Elle se compose uniquement de :
 
 - 2 tableaux
 - 18 colonnes
 - 3 vues
 - 1 formulaire web
 
-Mais ne vous laissez pas tromper par sa simplicité : Cette structure est étonnamment puissante. J'explique ci-dessous pourquoi nous avons conçu la base de cette manière.
+Mais ne vous laissez pas tromper par sa simplicité : cette structure est étonnamment puissante. Voyons ci-dessous pourquoi nous avons conçu la base de cette manière.
 
 ### Aperçu de votre offre de cours
 
-Dans le tableau `Courses` vous trouverez toutes les informations importantes sur vos offres. Chaque ligne représente un cours ou un service que vous proposez. Les différentes colonnes fournissent des informations détaillées, comme par exemple
+Dans le tableau `Courses`, vous trouverez toutes les informations importantes sur vos offres. Chaque ligne représente un cours ou un service que vous proposez. Les différentes colonnes fournissent des informations détaillées, comme par exemple :
 
 - Nom du cours
 - Date et lieu du cours
@@ -50,13 +50,13 @@ Dans le tableau `Courses` vous trouverez toutes les informations importantes sur
 
 Cet aperçu structuré vous permet de garder à tout moment une vue d'ensemble de vos cours et du nombre de participants.
 
-![Table « Courses » avec données de cours, nombre de participants et statut par cours](images/lvl2-table-courses.png)
+![Tableau « Courses » avec données de cours, nombre de participants et statut par cours](images/lvl2-table-courses.png)
 
 {{< warning  headline="Les dates sont dans le passé"  text="Vous constaterez que toutes les dates de cours se situent dans le passé. Cela s'explique tout simplement par le fait que nous ne voulions pas actualiser régulièrement ce cours en ligne. Ne tenez donc pas compte de ce fait pour ce cours en ligne." />}}
 
 ### Tout ce qu'il faut savoir sur les participants à vos cours
 
-Dans le tableau `Registrations` permet de saisir toutes les données relatives aux personnes qui se sont inscrites à vos cours. Chaque ligne représente un participant et contient les informations suivantes :
+Le tableau `Registrations` permet de saisir toutes les données relatives aux personnes qui se sont inscrites à vos cours. Chaque ligne représente un participant et contient les informations suivantes :
 
 - Nom du participant
 - Adresse électronique
@@ -65,7 +65,7 @@ Dans le tableau `Registrations` permet de saisir toutes les données relatives a
 
 Ce tableau vous donne à tout moment un aperçu clair de l'état actuel des inscriptions et du statut des paiements.
 
-![Table « Registrations » avec noms, e-mails et cours réservés des participants](images/lvl2-table-registrations.png)
+![Tableau « Registrations » avec noms, e-mails et cours choisis par les participants](images/lvl2-table-registrations.png)
 
 {{< warning  headline="Colonnes cachées"  text="Pour une meilleure vue d'ensemble, deux colonnes ont été masquées. Vous verrez plus tard que nous n'avons de toute façon besoin de ces colonnes que pour le publipostage." />}}
 
@@ -73,32 +73,32 @@ Ce tableau vous donne à tout moment un aperçu clair de l'état actuel des insc
 
 Certaines fonctions de cette base ne sont compréhensibles qu'après certaines configurations. Veuillez lire attentivement les explications suivantes afin de mieux comprendre les sections qui suivent.
 
-### Colonnes de formules
+### Colonnes de formule
 
-Dans le tableau `Courses` vous trouverez deux colonnes de formules importantes dont j'aimerais vous expliquer l'utilité :
+Dans le tableau `Courses`, vous trouverez deux colonnes de formule importantes, dont voici l'utilité :
 
 - `{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date`
 - `{{< seatable-icon icon="dtable-icon-formula" >}} Status`
 
-`{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` est une colonne auxiliaire qui combine les valeurs des colonnes "Titre" et "Date". La formule utilisée est très simple et se contente d'assembler le titre et la date du cours.
+`{{< seatable-icon icon="dtable-icon-formula" >}} Title and Date` est une colonne auxiliaire qui combine les valeurs des colonnes `Title` et `Date`. La formule utilisée est très simple et se contente d'assembler le titre et la date du cours.
 
 ![Colonne de formule « Title and Date » combinant titre du cours et date en un affichage unique](images/lvl2-formula-title-date.png)
 
-A première vue, cette colonne semble superflue, car elle ne fait que combiner des données existantes. Mais faites-moi confiance : si nous analysons tout de suite le formulaire d'inscription, vous comprendrez pourquoi cette colonne est extrêmement utile.
+À première vue, cette colonne semble superflue, car elle ne fait que combiner des données existantes. Mais faites-nous confiance : si nous analysons tout de suite le formulaire d'inscription, vous comprendrez pourquoi cette colonne est extrêmement utile.
 
 ---
 
-La colonne de formules `{{< seatable-icon icon="dtable-icon-formula" >}} Status` détermine automatiquement s'il y a encore des places disponibles dans un cours ou si le cours est déjà complet. La logique sous-jacente est relativement simple, mais pourrait également tenir compte de la date de l'événement si elle était utilisée de manière productive.
+La colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` détermine automatiquement s'il y a encore des places disponibles dans un cours ou si le cours est déjà complet. La logique sous-jacente est relativement simple, mais pourrait également tenir compte de la date de l'événement si elle était utilisée de manière productive.
 
 ![Colonne de formule « Status » calculant automatiquement places libres ou complet pour chaque cours](images/lvl2-formula-status.png)
 
-{{< warning  headline="L'utilité des colonnes de formules"  text="Les colonnes de formules jouent un rôle central dans le développement de bases performantes dans SeaTable. Elles servent à relier des informations ou à définir certains états. La pleine utilité de ces colonnes n'apparaît souvent que lorsqu'on travaille avec d'autres fonctions." />}}
+{{< warning  headline="L'utilité des colonnes de formule"  text="Les colonnes de formule jouent un rôle central dans le développement de bases performantes dans SeaTable. Elles servent à relier des informations ou à définir certains états. La pleine utilité de ces colonnes n'apparaît souvent que lorsqu'on travaille avec d'autres fonctions." />}}
 
 ### Vue permettant de sélectionner les cours disponibles
 
-Dans le tableau `Courses` il existe une vue spéciale appelée `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`. Cette vue filtre la colonne de formules `{{< seatable-icon icon="dtable-icon-formula" >}} Status` et affiche uniquement les cours pour lesquels des places sont encore disponibles. Les cours complets sont automatiquement masqués.
+Dans le tableau `Courses`, il existe une vue spéciale appelée `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`. Cette vue filtre la colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` et affiche uniquement les cours pour lesquels des places sont encore disponibles. Les cours complets sont automatiquement masqués.
 
-Cette vue est verrouillée pour empêcher toute modification {{< seatable-icon icon="dtable-icon-unlock" >}}pour s'assurer qu'elle reste inchangée. Elle joue un rôle important, car elle détermine les choix possibles dans la colonne des liens. `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Registered for` limitée.
+Cette vue est verrouillée pour empêcher toute modification {{< seatable-icon icon="dtable-icon-unlock" >}}pour s'assurer qu'elle reste inchangée. Elle joue un rôle important, car elle limite les choix possibles dans la colonne de lien `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Registered for`.
 
 Si nous examinons tout de suite le formulaire d'inscription de plus près, nous verrons pourquoi cette vue est si utile.
 
@@ -108,8 +108,8 @@ Si nous examinons tout de suite le formulaire d'inscription de plus près, nous 
 
 SeaTable offre la possibilité de mettre en évidence les lignes, les colonnes et les cellules par des couleurs. Deux effets de ce type sont déjà intégrés dans ce modèle :
 
-- Les lignes des cours sont marquées en fonction de leur statut : Les cours avec des places libres sont mis en évidence en vert, tandis que les cours complets sont marqués en rouge.
-- Les prix des cours sont classés par couleur en fonction de leur montant : Plus le cours est cher, plus le marquage est foncé.
+- Les lignes des cours sont marquées en fonction de leur statut : les cours avec des places libres sont mis en évidence en vert, tandis que les cours complets sont marqués en rouge.
+- Les prix des cours sont classés par couleur en fonction de leur montant : plus le cours est cher, plus le marquage est foncé.
 
 ## Familiarisez-vous avec la base
 

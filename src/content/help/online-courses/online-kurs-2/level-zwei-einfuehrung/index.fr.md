@@ -14,7 +14,7 @@ seo:
 weight: 1
 ---
 
-Bienvenue dans le **cours en ligne SeaTable 2 – Entrées et sorties !**
+Bienvenue dans le **cours en ligne SeaTable 2 – Entrées et sorties !**
 
 {{< course-facts headline="En bref" >}}
 - **Durée** : environ 1 heure
@@ -26,20 +26,20 @@ Bienvenue dans le **cours en ligne SeaTable 2 – Entrées et sorties !**
 
 ## Est-ce que ce cours est fait pour moi ?
 
-Ce cours est idéal pour vous si vous :
+Ce cours est idéal pour vous si vous :
 
-- souhaitent développer un processus commercial avec SeaTable
-- vous souhaitez vous plonger encore plus profondément dans les fonctions de SeaTable après avoir suivi le [Cours en ligne 1 – Premiers pas]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
+- souhaitez développer un processus métier avec SeaTable ;
+- souhaitez approfondir les fonctions de SeaTable après avoir suivi le [cours en ligne 1 – Premiers pas]({{< relref "help/online-courses/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## Qu'est-ce que je vais apprendre dans ce cours en ligne ?
 
-La deuxième partie de ce cours est consacrée à la mise en œuvre d'un processus commercial complet avec SeaTable. Vous développez un système informatique pour un fournisseur de services en ligne. Peu importe que vous proposiez des ateliers de graphisme, des cours de cuisine, des cours particuliers, des séances photo ou un coaching personnalisé - votre offre reste individuelle. SeaTable se charge de toute la gestion, de la présentation du cours à l'inscription des participants, en passant par le paiement et l'envoi des confirmations de participation.
+La deuxième partie de ce cours est consacrée à la mise en œuvre d'un processus métier complet avec SeaTable. Vous développez un système informatique pour un fournisseur de services en ligne. Peu importe que vous proposiez des ateliers de graphisme, des cours de cuisine, des cours particuliers, des séances photo ou un coaching personnalisé – votre offre reste individuelle. SeaTable se charge de toute la gestion, de la présentation du cours à l'inscription des participants, en passant par le paiement et l'envoi des confirmations de participation.
 
-L'ensemble du processus commercial est reproduit dans SeaTable, ce qui vous permet de vous concentrer pleinement sur votre activité principale.
+L'ensemble du processus métier est reproduit dans SeaTable, ce qui vous permet de vous concentrer pleinement sur votre activité principale.
 
 ## Comment se déroule le cours
 
-Vous pouvez suivre le cours à votre propre rythme. Des pauses sont possibles à tout moment. Vous trouverez à différents endroits des liens vers du matériel complémentaire - c'est vous qui décidez jusqu'où vous souhaitez aller dans les thèmes.
+Vous pouvez suivre le cours à votre propre rythme. Des pauses sont possibles à tout moment. Vous trouverez à différents endroits des liens vers du matériel complémentaire – c'est vous qui décidez jusqu'où vous souhaitez approfondir chaque thème.
 
 Le cours est disponible en plusieurs langues, mais le quiz, les captures d'écran et les données d'exemple sont en anglais. Nous recommandons l'utilisation de Google Chrome.
 
@@ -51,11 +51,11 @@ Le cours est disponible en plusieurs langues, mais le quiz, les captures d'écra
 
 ## Avant de commencer {#before-you-start}
 
-Pour suivre ce cours avec succès, il vous faut
+Pour suivre ce cours en ligne, il vous faut :
 
-- **SeaTable**: utilisez n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
-- **Envoi de courrier**: un [compte chez Mailtrap](https://mailtrap.io/) pour simuler l'envoi de courrier depuis SeaTable.
+- **Un compte SeaTable** : sur n'importe quel système SeaTable. Le plus simple est de créer un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
+- **Un compte Mailtrap** : un [compte gratuit chez Mailtrap](https://mailtrap.io/) permet de simuler l'envoi d'e-mails depuis SeaTable (étape 3).
 
-Qu'est-ce qu'on attend ? C'est parti !
+Qu'attendons-nous ? C'est parti !
 
-{{< warning  headline="Voici un petit conseil"  text="Tout à la fin de cet article, vous trouverez sur la droite un lien qui vous mènera directement à la page suivante de ce cours en ligne." />}}
+{{< warning  headline="Voici un petit conseil"  text="Tout au long du cours, certaines informations importantes vous seront signalées dans des encarts comme celui-ci. En bas de chaque page, vous trouverez à droite un lien qui vous mènera directement à la page suivante du cours." />}}

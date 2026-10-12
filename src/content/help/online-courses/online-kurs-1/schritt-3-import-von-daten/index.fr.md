@@ -25,9 +25,9 @@ SeaTable offre de nombreuses possibilités d'importation. Vous pouvez ainsi impo
 
 - Téléchargez le fichier [expenses.csv](/expenses.csv) suivant
 - Importez maintenant le fichier CSV dans le tableau `Expenses`
-- Vérifiez que le tableau comporte exactement 50 entrées.
+- Vérifiez que le tableau comporte exactement 50 entrées
 
-![Boîte de dialogue d’import CSV dans la table « Expenses » avec aperçu des données](images/level1-import-csv.png)
+![Boîte de dialogue d’import CSV dans le tableau « Expenses » avec aperçu des données](images/level1-import-csv.png)
 
 ## Importation et exportation
 

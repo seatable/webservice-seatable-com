@@ -13,9 +13,9 @@ seo:
     description: 'Apprenez à créer et envoyer automatiquement des attestations de participation PDF aux participants avec SeaTable.'
 ---
 
-Une fois votre prestation terminée, vous souhaitez parachever le processus en envoyant un dernier e-mail aux participants. Cet e-mail peut avoir différents contenus, comme par exemple
+Une fois votre prestation terminée, vous souhaitez parachever le processus en envoyant un dernier e-mail aux participants. Cet e-mail peut avoir différents contenus, comme par exemple :
 
-- Une attestation de participation
+- Une confirmation de participation
 - Un remerciement pour votre participation
 - Une demande de feedback
 - Un code de bon pour le prochain cours
@@ -25,23 +25,23 @@ Une fois votre prestation terminée, vous souhaitez parachever le processus en e
 
 Dans cette section, nous utiliserons SeaTable pour générer une confirmation de participation au format PDF et l'envoyer par e-mail aux participants.
 
-### Lettre en série avec le plugin de conception de page
+### Publipostage avec le plugin de conception de pages
 
-SeaTable propose quelques plug-ins qui vous permettent d'ajouter des vues et des fonctionnalités supplémentaires à vos données. Le plugin de conception de pages permet de créer des documents PDF, comme une lettre en série dans Microsoft Word.
+SeaTable propose quelques plugins qui vous permettent d'ajouter des vues et des fonctionnalités supplémentaires à vos données. Le plugin de conception de pages permet de créer des documents PDF, comme un publipostage dans Microsoft Word.
 
-Ce plugin vous permet de créer des modèles qui contiennent à la fois des contenus statiques (comme des textes ou des logos) et des données dynamiques issues de votre base. Chaque ligne de la base peut générer un document individuel.
+Ce plugin vous permet de créer des modèles qui contiennent à la fois des contenus statiques (comme des textes ou des logos) et des données dynamiques issues de votre base. Chaque ligne du tableau peut générer un document individuel.
 
-{{< warning  headline="De nombreuses possibilités d'utilisation"  text="Le plug-in de conception de pages offre de nombreuses possibilités : Outre les attestations de participation, vous pouvez également créer des factures, des certificats, des circulaires et bien plus encore." />}}
+{{< warning  headline="De nombreuses possibilités d'utilisation"  text="Le plugin de conception de pages offre de nombreuses possibilités : outre les attestations de participation, vous pouvez également créer des factures, des certificats, des circulaires et bien plus encore." />}}
 
 Pour ce cours, nous avons déjà préparé un modèle simple pour créer une attestation de participation. Le nom, le cours et la date du cours sont automatiquement insérés, tandis que le reste du texte reste inchangé.
 
-Prenez quelques minutes pour explorer les possibilités du plug-in. Essayez par exemple d'ajouter un logo ou un graphique à votre signature.
+Prenez quelques minutes pour explorer les possibilités du plugin. Essayez par exemple d'ajouter un logo ou un graphique à votre signature.
 
 ![](images/lvl2-page-design.png)
 
-Si vous cliquez sur `{{< seatable-icon icon="dtable-icon-download" >}} PDF` le PDF généré est enregistré sur votre PC.
+Si vous cliquez sur `{{< seatable-icon icon="dtable-icon-download" >}} PDF`, le PDF généré est enregistré sur votre PC.
 
-{{< warning  headline="Les modèles se réfèrent toujours à un tableau"  text="Lors de la création d'un nouveau modèle, les données ne peuvent être utilisées qu'à partir d'un seul tableau. Si vous avez besoin de données provenant d'une colonne liée, vous devez les inclure via des colonnes de consultation. C'est la raison pour laquelle, dans le tableau `Registrations` il existe trois colonnes de recherche masquées. Ces colonnes ne sont nécessaires que pour le plug-in de conception de page et peuvent donc rester masquées." />}}
+{{< warning  headline="Les modèles se réfèrent toujours à un tableau"  text="Lors de la création d'un nouveau modèle, les données ne peuvent être utilisées qu'à partir d'un seul tableau. Si vous avez besoin de données provenant d'une colonne liée, vous devez les inclure via des colonnes de référence (lookup). C'est la raison pour laquelle, dans le tableau `Registrations`, il existe trois colonnes de référence masquées. Ces colonnes ne sont nécessaires que pour le plugin de conception de pages et peuvent donc rester masquées." />}}
 
 ### Envoi par e-mail
 
@@ -50,9 +50,9 @@ Bien entendu, vous ne souhaitez pas télécharger manuellement le PDF et le char
 - `{{< seatable-icon icon="dtable-icon-pdf" >}} Create PDF and save to column`
 - `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
 
-La configuration de ces actions devrait maintenant vous être familière. Lors de la création du PDF, vous choisissez le modèle souhaité et la colonne dans laquelle le document doit être enregistré. Lors de l'envoi du courriel, vous indiquez la colonne à partir de laquelle la pièce jointe doit être envoyée.
+La configuration de ces actions devrait maintenant vous être familière. Lors de la création du PDF, vous choisissez le modèle souhaité et la colonne dans laquelle le document doit être enregistré. Lors de l'envoi de l'e-mail, vous indiquez la colonne à partir de laquelle la pièce jointe doit être envoyée.
 
-{{< warning  headline="Les actions sont exécutées les unes après les autres"  text="Il n'y a aucun problème à ce que le bouton crée d'abord le fichier PDF et l'envoie ensuite. SeaTable attend que le PDF soit créé avant d'envoyer le courriel." />}}
+{{< warning  headline="Les actions sont exécutées les unes après les autres"  text="Il n'y a aucun problème à ce que le bouton crée d'abord le fichier PDF et l'envoie ensuite. SeaTable attend que le PDF soit créé avant d'envoyer l'e-mail." />}}
 
 ### Quelques mots sur la gestion des fichiers
 

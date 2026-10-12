@@ -27,7 +27,7 @@ Il est important de souligner que le travail avec SeaTable sera particulièremen
 
 ### Conseil 1 : démarrer le plus simplement possible
 
-Lors de la numérisation des processus, on a souvent tendance à vouloir tout mettre en œuvre de manière parfaite et complète jusque dans les moindres détails. Or, dans de nombreux cas, des solutions trop complexes entraînent plutôt des problèmes. Il est préférable d'optimiser d'abord le processus central. Dans votre cas, il pourrait s'agir du processus, de l'enregistrement du cours à la saisie des paiements. Une fois que ce processus de base fonctionne de manière fiable, vous pouvez ajouter des extensions au fur et à mesure.
+Lors de la numérisation des processus, on a souvent tendance à vouloir tout mettre en œuvre de manière parfaite et complète jusque dans les moindres détails. Or, dans de nombreux cas, des solutions trop complexes entraînent plutôt des problèmes. Il est préférable d'optimiser d'abord le processus central. Dans votre cas, il pourrait s'agir du processus allant de l'enregistrement du cours à la saisie des paiements. Une fois que ce processus de base fonctionne de manière fiable, vous pouvez ajouter des extensions au fur et à mesure.
 
 Une approche utile consiste à esquisser visuellement le processus, par exemple à l'aide d'un simple dessin de processus. Celui-ci pourrait se présenter comme suit :
 
@@ -39,16 +39,16 @@ Une approche utile consiste à esquisser visuellement le processus, par exemple 
 6. Organiser un cours
 7. Envoyer la confirmation de participation
 
-### Conseil n° 2 : tester régulièrement
+### Conseil 2 : tester régulièrement
 
-Des changements et des adaptations sont souvent nécessaires pour optimiser votre flux de travail. Mais chaque modification comporte le risque que les processus existants cessent de fonctionner de manière inattendue. C'est pourquoi vous devez tester l'ensemble du processus après chaque adaptation afin de vous assurer que tout continue à fonctionner sans problème. Cela concerne en particulier les vues, les formulaires et les automatisations importants. Verrouillez les vues critiques ou donnez-leur des noms parlants afin d'éviter tout malentendu.
+Des changements et des adaptations sont souvent nécessaires pour optimiser votre flux de travail. Mais chaque modification comporte le risque que les processus existants cessent de fonctionner de manière inattendue. C'est pourquoi vous devez tester l'ensemble du processus après chaque adaptation afin de vous assurer que tout continue à fonctionner sans problème. Cela concerne en particulier les vues, les formulaires et les automatisations critiques. Verrouillez les vues critiques ou donnez-leur des noms parlants afin d'éviter tout malentendu.
 
 ## Perspectives d'avenir : Plus d'automatisation et de nouvelles possibilités
 
-La prochaine étape de votre voyage avec SeaTable offre des possibilités passionnantes d'automatiser et de professionnaliser davantage vos processus.
+La prochaine étape de votre parcours avec SeaTable offre des possibilités passionnantes d'automatiser et de professionnaliser davantage vos processus.
 
-- **Cours en ligne, 3e partie**: le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à collaborer en équipe et à rendre vos processus encore plus conviviaux en quelques gestes.
-- **Les automatisations**: Vous envoyez déjà des e-mails par bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces processus et bien d'autres. Les e-mails, les changements de statut et de nombreuses autres tâches pourraient alors se dérouler sans aucune intervention manuelle. L'administration fonctionnerait ainsi en pilote automatique et vous pourriez vous concentrer pleinement sur votre cours.
-- **Intégration des paiements avec Stripe**: au lieu d'effectuer des virements manuels, vous pouvez ajouter une intégration directe des paiements Stripe. Les participants paient alors immédiatement en ligne et la réception du paiement est automatiquement enregistrée dans SeaTable. Une connexion avec un outil comme [n8n](https://n8n.io) peut facilement réaliser cette intégration et automatiser de manière transparente l'ensemble du processus de paiement.
+- **Cours en ligne, 3e partie** : le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à collaborer en équipe et à rendre vos processus encore plus conviviaux en quelques gestes.
+- **Automatisations** : vous envoyez déjà des e-mails par bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces processus et bien d'autres. Les e-mails, les changements de statut et de nombreuses autres tâches pourraient alors se dérouler sans aucune intervention manuelle. L'administration fonctionnerait ainsi en pilote automatique et vous pourriez vous concentrer pleinement sur votre cours.
+- **Intégration des paiements avec Stripe** : au lieu d'effectuer des virements manuels, vous pouvez ajouter une intégration directe des paiements Stripe. Les participants paient alors immédiatement en ligne et la réception du paiement est automatiquement enregistrée dans SeaTable. Une connexion avec un outil comme [n8n](https://n8n.io) peut facilement réaliser cette intégration et automatiser de manière transparente l'ensemble du processus de paiement.
 
 Grâce à ces extensions, vous avez la possibilité de professionnaliser davantage votre système et de le rendre encore plus efficace. Préparez-vous à la troisième partie, dans laquelle nous nous plongerons plus profondément dans l'automatisation et l'intégration. Bonne chance pour la suite !

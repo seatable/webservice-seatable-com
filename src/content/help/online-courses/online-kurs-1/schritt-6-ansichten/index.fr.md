@@ -17,9 +17,9 @@ Vous avez créé une solide gestion des dépenses, qui calcule déjà automatiqu
 
 Les vues vous permettent de déterminer quelles données d'un tableau doivent être affichées en utilisant des filtres, des tris, des regroupements et en masquant des informations. Les vues s'appliquent toujours par tableau et vous pouvez créer autant de vues que vous le souhaitez. Vous obtenez ainsi toujours les informations qui vous intéressent.
 
-Un exemple : vous pourriez créer une vue qui n'affiche que les dépenses supérieures à 100 euros et les trier par date. Cela vous permettra de garder une trace des dépenses importantes.
+Un exemple : vous pourriez créer une vue qui n'affiche que les dépenses supérieures à 100 euros et les trie par date. Cela vous permettra de garder une trace des dépenses importantes.
 
-{{< warning  headline="Les modifications apportées aux données s'appliquent à toutes les vues"  text="Il est important de garder à l'esprit qu'une vue n'est qu'une représentation différente des mêmes données. Les modifications apportées aux enregistrements d'une vue se répercutent sur toutes les vues de le même tableau, car elles accèdent toutes au même enregistrement." />}}
+{{< warning  headline="Les modifications apportées aux données s'appliquent à toutes les vues"  text="Il est important de garder à l'esprit qu'une vue n'est qu'une représentation différente des mêmes données. Les modifications apportées aux enregistrements d'une vue se répercutent sur toutes les vues du même tableau, car elles accèdent toutes au même enregistrement." />}}
 
 ## Créer une vue supplémentaire avec un regroupement
 
@@ -36,18 +36,18 @@ Au départ, chaque nouvelle vue créée ne contient pas de regroupements, de tri
 
 Maintenant que vous maîtrisez le regroupement de vos données, passons au filtrage des données à l'aide d'une vue.
 
-Créez une nouvelle vue nommée `Clothing Expenses by Year`pour représenter les dépenses annuelles en vêtements :
+Créez une nouvelle vue nommée `Clothing Expenses by Year` pour représenter les dépenses annuelles en vêtements :
 
-1. Ajoutez un filtre : `Category-Link` contient `Clothing`pour n'afficher que les entrées de cette catégorie.
-2. Regrouper les données filtrées par année.
+1. Ajoutez un filtre : `Category-Link` contient `Clothing` pour n'afficher que les entrées de cette catégorie.
+2. Regroupez les données filtrées par année.
 
 Maintenant, en quelques clics, vous avez créé une vue qui vous présente clairement les dépenses en vêtements, regroupées par année.
 
 ## Expérimentez d'autres vues
 
-C'est la fin de ce cours en ligne, qui marque aussi le début de votre voyage avec SeaTable. Prenez quelques minutes pour expérimenter d'autres vues - les comprendre est l'un des aspects les plus importants de l'utilisation de SeaTable.
+C'est la fin de ce cours en ligne, qui marque aussi le début de votre parcours avec SeaTable. Prenez quelques minutes pour expérimenter d'autres vues – les comprendre est l'un des aspects les plus importants de l'utilisation de SeaTable.
 
-Je vous encourage à mieux connaître SeaTable. Vous avez déjà créé un outil puissant, mais il y a encore beaucoup de choses à découvrir !
+Nous vous encourageons à mieux connaître SeaTable. Vous avez déjà créé un outil puissant, mais il y a encore beaucoup de choses à découvrir !
 
 Lorsque vous aurez fait suffisamment d'expériences, essayez de terminer le quiz et gagnez votre récompense sur notre forum communautaire.
 
