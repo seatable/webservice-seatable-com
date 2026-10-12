@@ -1,0 +1,8 @@
+{{/* Key facts about an online course, shown at the top of its introduction.
+     Usage: {{< course-facts headline="At a glance" >}} markdown list with bold labels {{< /course-facts >}} */}}
+<aside class="course-facts -mx-4 mb-12 mt-8 rounded-md border border-gray-200 bg-gray-50 px-6 py-6 text-base shadow-lg">
+    <strong class="mb-4 block font-poppins text-xl font-bold">{{ .Get "headline" }}</strong>
+    <div class="[&_li]:mb-2 [&_li:last-child]:mb-0 [&_ul]:mb-0">
+        {{ .Inner | strings.TrimSpace | .Page.RenderString }}
+    </div>
+</aside>
