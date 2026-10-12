@@ -13,23 +13,23 @@ seo:
     description: 'Découvrez comment relier des tableaux dans SeaTable, structurer vos données, automatiser les mises à jour et garantir la cohérence de vos enregistrements.'
 ---
 
-Plusieurs tableaux peuvent être liés dans SeaTable par des colonnes de lien. Dans ce qui suit, nous allons ajouter un deuxième tableau de catégories de dépenses et lier les deux tableaux pour démontrer cette puissante fonctionnalité.
+Dans SeaTable, des colonnes de lien permettent de relier plusieurs tableaux entre eux. Pour découvrir cette fonctionnalité très puissante, vous allez ajouter un second tableau, consacré aux catégories de dépenses, et le relier au premier.
 
-## Digression : avantages de la liaison des enregistrements
+## Parenthèse : pourquoi relier les données ?
 
-La liaison entre les enregistrements est l'une des fonctions centrales de SeaTable, ce qui le distingue nettement des feuilles de calcul traditionnelles et lui confère la puissance d'une base de données relationnelle. Cela peut paraître complexe, mais ça ne l'est pas, comme vous allez le découvrir par vous-même. Voici les trois principaux avantages des données liées :
+Relier des enregistrements est l'une des fonctions centrales de SeaTable : c'est ce qui le distingue d'un tableur classique et lui donne la puissance d'une base de données relationnelle. Cela paraît complexe, mais vous allez voir par vous-même que ça ne l'est pas. Relier ses données présente trois grands avantages :
 
-- **Plus de clarté** : en reliant les tableaux entre eux, vous créez une structure claire et concise. Au lieu de stocker toutes les informations dans un seul tableau et de risquer des redondances, vous pouvez gérer les données apparentées – comme les dépenses et les catégories – dans des tableaux séparés. Vos données restent ainsi cohérentes et les doublons sont évités.
-- **Analyse de données plus flexible** : les tableaux liés permettent de combiner et d'analyser de manière ciblée des données provenant de différentes sources. Il est par exemple possible d'analyser rapidement et facilement toutes les dépenses d'une certaine catégorie ou d'un département.
-- **Une gestion des données plus simple** : les modifications apportées à un tableau central sont automatiquement répercutées dans tous les tableaux liés. Vos données restent ainsi toujours à jour et cohérentes, sans que vous ayez à les gérer plusieurs fois.
+- **Plus de clarté** : relier des tableaux donne à vos données une structure claire. Plutôt que de tout regrouper dans un seul tableau, au risque de répéter les mêmes informations, vous rangez les données liées entre elles, comme les dépenses et les catégories, dans des tableaux distincts. Vos données restent cohérentes, sans doublons.
+- **Des analyses plus souples** : les tableaux reliés permettent de croiser et d'analyser des données de provenances différentes. Vous pouvez par exemple analyser en un instant toutes les dépenses d'une catégorie ou d'un service.
+- **Une gestion plus simple** : une modification apportée dans un tableau se répercute automatiquement dans tous les tableaux qui lui sont reliés. Vos données restent à jour et cohérentes, sans avoir à les modifier à plusieurs endroits.
 
 ## Étendre la structure de la base
 
-Pour pouvoir créer des liens, nous avons besoin d'un deuxième tableau, que nous allons créer maintenant.
+Pour créer des liens, il faut un second tableau. Créons-le.
 
-1. Créez un deuxième tableau nommé `Categories` dans la même base.
-2. Le tableau `Categories` ne nécessite qu'une seule colonne : `Name`. Celle-ci est créée par défaut, vous n'avez donc rien à faire ici.
-3. Ajoutez manuellement quatre entrées dans le tableau `Categories` :
+1. Dans la même base, créez un second tableau nommé `Categories`.
+2. Ce tableau n'a besoin que d'une colonne, `Name`, qui existe déjà : rien à faire de ce côté.
+3. Ajoutez à la main quatre lignes dans le tableau `Categories` :
 
     - `Travel`
     - `Clothing`
@@ -40,23 +40,23 @@ Pour pouvoir créer des liens, nous avons besoin d'un deuxième tableau, que nou
 
 4. Revenez au tableau `Expenses`.
 
-5. Insérez une autre colonne. Donnez à la nouvelle colonne le nom `Category-Link` et sélectionnez le type de colonne `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records`. La colonne renvoie au tableau `Categories`.  
+5. Ajoutez-y une colonne nommée `Category-Link`, de type `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records`, qui pointe vers le tableau `Categories`.  
    ![Boîte de dialogue pour créer la colonne de lien « Category-Link » vers le tableau « Categories »](images/level1-create-link-column.png)
 
-## Relier les lignes entre les deux tableaux
+## Relier les lignes des deux tableaux
 
-Pour relier les enregistrements des deux tableaux, vous avez deux possibilités :
+Pour relier les lignes des deux tableaux, vous avez deux possibilités :
 
-1. Vous pouvez attribuer manuellement une ligne du tableau `Categories` à une entrée du tableau `Expenses` en cliquant à l'intérieur de la cellule sur le bouton {{< key "+" >}} puis sélectionner la catégorie appropriée. Cela devient vite fastidieux et source d'erreurs lorsque le volume de données est important.  
+1. À la main : dans une cellule du tableau `Expenses`, cliquez sur le bouton {{< key "+" >}}, puis choisissez la catégorie qui convient. Avec beaucoup de données, cela devient vite fastidieux, et les erreurs arrivent vite.  
    ![Liaison manuelle d’une ligne de dépense à une catégorie via l’icône plus](images/level1-link-rows.png)
-2. Vous pouvez également utiliser les [options de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable pour automatiser la mise en place des liens.  
+2. Automatiquement, grâce aux [opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable.  
    ![Menu « Data Processing » avec sélection d’une opération de traitement de données dans le tableau](images/level1-data-operation.png)
 
-### Relier les cellules par une opération de traitement des données
+### Relier les lignes par une opération de traitement des données
 
-Pour ce faire, créez une nouvelle opération de traitement des données nommée `Assign Category` et choisissez le type d'opération `Auto add link`.
+Créez une nouvelle opération de traitement des données nommée `Assign Category`, de type `Auto add link`.
 
-En outre, vous devez définir les paramètres suivants pour que SeaTable sache comment vous souhaitez lier vos données :
+Réglez ensuite les paramètres suivants, pour indiquer à SeaTable comment relier vos données :
 
 - Tableau : `Expenses`
 - Autre tableau : `Categories`
@@ -65,22 +65,22 @@ En outre, vous devez définir les paramètres suivants pour que SeaTable sache c
 
 ![Opération de traitement « Assign Category » de type « Auto add link » avec champs correspondants](images/level1-auto-add-link.png)
 
-Cliquez sur Exécuter pour effectuer l'opération. Vous constaterez que, d'un coup, toutes les lignes du tableau `Expenses` ont été liées à une ligne du tableau `Categories`.
+Cliquez sur Exécuter pour lancer l'opération : d'un seul coup, chaque ligne du tableau `Expenses` est reliée à une ligne du tableau `Categories`.
 
-{{< warning  headline="Si des liens manquent"  text="Si certaines lignes n'ont pas de lien après l'opération de traitement des données, vous avez probablement fait une faute de frappe sur les quatre entrées du tableau `Categories`. Corrigez la faute de frappe et exécutez à nouveau l'opération de traitement des données." />}}
+{{< warning  headline="S'il manque des liens"  text="Si certaines lignes restent sans lien après l'opération, vous avez sans doute fait une faute de frappe en saisissant les quatre catégories du tableau `Categories`. Corrigez-la, puis relancez l'opération." />}}
 
-## Supprimer la colonne inutile
+## Supprimer la colonne devenue inutile
 
-Une fois que toutes les entrées ont été liées, vous pouvez supprimer la colonne `Category` dans le tableau `Expenses`. Les informations saisies deux fois sont superflues et doivent être évitées.
+Une fois toutes les lignes reliées, vous pouvez supprimer la colonne `Category` du tableau `Expenses` : inutile de stocker deux fois la même information.
 
-## Révision du formulaire web
+## Retour sur le formulaire web
 
-Si vous consultez à nouveau votre formulaire web pour la saisie des dépenses, vous constaterez que le type de dépenses n'est plus demandé. Pourquoi cela ?  
-En supprimant la colonne `Category`, la possibilité de saisir des données dans le formulaire web disparaît automatiquement, car SeaTable ne dispose plus de la colonne correspondante pour stocker les données.
+Si vous rouvrez votre formulaire web, vous constaterez que la catégorie de la dépense n'est plus demandée. Pourquoi ?  
+En supprimant la colonne `Category`, vous avez aussi supprimé le champ correspondant du formulaire : SeaTable n'a plus de colonne où enregistrer cette donnée.
 
-Quelle leçon en tirons-nous ? Avec un grand pouvoir vient une grande responsabilité. Dans SeaTable, vous pouvez ajouter ou supprimer des colonnes en quelques secondes. La plupart des adaptations apportées à une colonne ne présentent aucun risque. Toutefois, si vous supprimez des colonnes ou modifiez leur type, vérifiez brièvement si cela a un impact sur d'autres composants.
+La leçon à en tirer ? Un grand pouvoir implique de grandes responsabilités. Dans SeaTable, ajouter ou supprimer une colonne prend quelques secondes, et la plupart des modifications de colonnes sont sans risque. Mais avant de supprimer une colonne ou de changer son type, vérifiez rapidement si d'autres éléments en dépendent.
 
-Essayez donc d'ajouter au formulaire web la colonne `Category-Link` que vous venez de créer, afin de pouvoir à nouveau saisir vos dépenses comme d'habitude. Vous y arriverez sans peine.
+Ajoutez donc au formulaire web la colonne `Category-Link` que vous venez de créer, pour pouvoir de nouveau saisir vos dépenses comme avant. Vous y arriverez sans peine.
 
 ## Article d'aide avec plus d'informations
 

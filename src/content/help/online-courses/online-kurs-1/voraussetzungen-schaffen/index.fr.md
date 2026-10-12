@@ -15,39 +15,38 @@ seo:
 weight: 2
 ---
 
-Dans l'introduction, nous avons déjà indiqué que pour suivre ce cours en ligne, vous devez avoir accès à un système SeaTable et, idéalement, posséder un compte sur notre forum communautaire.  
-Dans cet article, nous souhaitons expliquer brièvement ces deux aspects.
+Pour suivre ce cours en ligne, vous avez besoin d'un accès à SeaTable et, de préférence, d'un compte sur notre forum communautaire. Voici comment obtenir l'un et l'autre.
 
-Si vous avez déjà un compte SeaTable et un compte sur le forum, vous pouvez passer cette partie et [aller]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
+Si vous avez déjà un compte SeaTable et un compte sur le forum, vous pouvez sauter cette page et [passer directement à la suite]({{< relref "help/online-courses/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
-## Serveur SeaTable
+## Accéder à SeaTable
 
-Commençons par l'accès à un serveur SeaTable. Il y a trois façons d'en obtenir un :
+Il existe trois façons d'accéder à SeaTable :
 
 ### 1\. SeaTable Cloud
 
-Le plus simple, et de loin, est de créer un compte gratuit sur SeaTable Cloud. L'inscription ne nécessite qu'une adresse e-mail et se fait en une minute.
+Le plus simple, et de loin, est de créer un compte gratuit sur SeaTable Cloud. Il suffit d'une adresse e-mail, et c'est fait en une minute.
 
 [Inscrivez-vous gratuitement dès maintenant]({{< relref "pages/registration" >}})
 
 ### 2\. SeaTable Server
 
-Nous vous offrons également la possibilité d'installer vous-même SeaTable sur votre propre serveur avec notre solution [SeaTable Server](https://admin.seatable.com/). Nous ne pouvons cependant le recommander qu'aux utilisateurs avancés ayant des connaissances techniques dans le domaine Docker.
+Vous pouvez aussi installer SeaTable vous-même, sur votre propre serveur, avec notre solution [SeaTable Server](https://admin.seatable.com/). Nous ne la recommandons toutefois qu'aux utilisateurs avancés, à l'aise avec Docker.
 
 ### 3\. SeaTable Dedicated
 
-La troisième option est notre offre SeaTable Dedicated. Dans le cadre de cette offre premium, que nous proposons aux équipes à partir de 100 utilisateurs, nous installons votre cloud individuel et privé, auquel vous et votre équipe pouvez accéder sur le domaine de votre choix. De plus, nous nous chargeons de la gestion de ce système, si bien que vous n'avez à vous occuper de rien. Parallèlement, nous vous offrons la possibilité de personnaliser votre système en fonction de vos besoins. Cela peut se faire par le biais de votre propre logo, de vos propres couleurs, de vos propres templates ou de vos propres limites.
+Troisième option : notre offre SeaTable Dedicated. Avec cette offre premium, destinée aux équipes d'au moins 100 utilisateurs, nous installons pour vous un cloud privé, auquel votre équipe accède sur le domaine de votre choix. Nous nous chargeons aussi de son exploitation : vous n'avez à vous occuper de rien. Le système peut en outre être adapté à vos besoins : votre logo, vos couleurs, vos propres modèles ou vos propres limites.
 
-{{< warning  headline="Si vous voulez en savoir plus"  text="Dans notre comparaison de produits, vous trouverez tous les détails sur ces trois variantes." />}}
+{{< warning  headline="Pour en savoir plus"  text="Notre comparatif des offres détaille ces trois possibilités." />}}
 
-[Vers la comparaison des produits]({{< relref "pages/product/overview" >}})
+[Voir le comparatif des offres]({{< relref "pages/product/overview" >}})
 
 ## Forum communautaire SeaTable
 
-Notre [forum communautaire](https://forum.seatable.com) est un canal de communication important pour tous ceux qui souhaitent utiliser SeaTable. D'une part, nous y publions régulièrement des nouveautés concernant SeaTable ainsi que des conseils et des astuces pour une utilisation efficace. En même temps, vous avez la possibilité de créer des messages sur le forum si vous avez des questions ou des problèmes avec SeaTable. Un troisième aspect qui ne doit pas être négligé est l'échange direct entre les utilisateurs de SeaTable. De nombreux utilisateurs partagent volontiers leurs expériences et leurs succès avec d'autres.
+Notre [forum communautaire](https://forum.seatable.com) est un lieu d'échange essentiel pour toutes celles et ceux qui utilisent SeaTable. Nous y publions régulièrement les nouveautés de SeaTable, ainsi que des conseils et des astuces. Vous pouvez aussi y poser vos questions ou y signaler un problème. Enfin, et ce n'est pas le moins important, les utilisateurs y échangent directement entre eux : beaucoup partagent volontiers leur expérience et leurs réussites.
 
-L'inscription au forum communautaire est très simple. Sur [forum](https://forum.seatable.com/signup), vous trouverez le formulaire d'inscription qui ne demande que votre nom, votre e-mail, votre nom d'utilisateur et un mot de passe. Vous recevrez ensuite un e-mail avec un lien d'activation. Une fois que vous aurez confirmé ce lien, vous pourrez commencer à participer au forum. Notez bien votre nom d'utilisateur, vous en aurez besoin au début du quiz.
+L'inscription au forum est très simple. Le [formulaire d'inscription](https://forum.seatable.com/signup) ne demande que votre nom, votre adresse e-mail, un nom d'utilisateur et un mot de passe. Vous recevez ensuite un e-mail avec un lien d'activation : cliquez dessus, et vous pouvez participer au forum. Notez bien votre nom d'utilisateur, il vous sera demandé au début du quiz.
 
-Nous vous recommandons dans tous les cas de vous inscrire sur notre forum, car, une fois le quiz réussi à la fin de ce cours en ligne, le badge correspondant sera automatiquement attribué à votre compte sur le forum.
+Nous vous recommandons vivement de vous inscrire sur le forum : si vous réussissez le quiz à la fin de ce cours, le badge correspondant sera automatiquement attribué à votre compte.
 
 Vous voilà prêt : passons à la pratique ! Le lien vers la page suivante se trouve en bas à droite.

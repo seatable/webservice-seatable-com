@@ -14,19 +14,19 @@ seo:
 
 ---
 
-Nous avons maintenant lié les enregistrements des deux tableaux. Il est important que cette liaison ne soit pas unilatérale. Si vous allez au tableau `Categories`, vous verrez qu'une nouvelle colonne a été ajoutée pour afficher les liens. Dans notre cas, cela signifie qu'une dépense est liée à une catégorie et qu'une catégorie peut être liée à de nombreuses dépenses.
+Les lignes des deux tableaux sont maintenant reliées, et ce lien fonctionne dans les deux sens. Ouvrez le tableau `Categories` : une nouvelle colonne y affiche les liens. Autrement dit, chaque dépense est reliée à une catégorie, et chaque catégorie peut être reliée à de nombreuses dépenses.
 
-Jusqu'à présent, nous n'avons pas encore obtenu d'avantages directs grâce aux liens, mais cela va changer : les liens nous permettent de réaliser des analyses statistiques en quelques secondes. Par exemple, nous pouvons facilement déterminer le montant total de toutes les dépenses de la catégorie `Travel`.
+Jusqu'ici, ces liens ne vous ont pas encore apporté grand-chose. Cela va changer : ils permettent de réaliser des analyses statistiques en quelques secondes, par exemple de calculer le total des dépenses de la catégorie `Travel`.
 
 ## Augmenter la hauteur des lignes
 
-Tout d'abord, augmentez la hauteur des lignes dans le tableau `Categories` pour voir davantage de liens. Vous trouverez l'option correspondante `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` sur la ligne au-dessus du nom de la colonne. Il est également possible d'élargir certaines colonnes afin de voir davantage de contenu.
+Commencez par augmenter la hauteur des lignes du tableau `Categories`, pour voir davantage de liens. L'option `{{< seatable-icon icon="dtable-icon-row-height-default" >}}` se trouve dans la barre située au-dessus des noms de colonnes. Vous pouvez aussi élargir certaines colonnes pour en voir davantage.
 
 ![Vue de tableau avec hauteur de ligne ajustée pour mieux voir les liens](images/level1-row-height.png)
 
 ## Analyse des catégories
 
-Créez maintenant une nouvelle colonne dans le tableau `Categories`.
+Ajoutez maintenant une colonne au tableau `Categories` :
 
 > Nom : `Sum`
 >
@@ -42,17 +42,17 @@ Créez maintenant une nouvelle colonne dans le tableau `Categories`.
 
 ![Colonne de formule de lien « Sum » avec rollup pour additionner les montants liés](images/lvl1-rollup.png)
 
-Ensuite, vous pouvez encore régler le format de la colonne `Sum` sur Euro, afin que les totaux affichés soient formatés en conséquence en euros.
+Réglez ensuite le format de la colonne `Sum` sur Euro, pour que les totaux s'affichent en euros.
 
-## Calcul automatique à chaque modification
+## Un calcul mis à jour à chaque modification
 
-N'est-ce pas fantastique ? Dans la colonne `Sum`, les dépenses totales pour chaque catégorie sont toujours affichées automatiquement. Même lorsque vous saisissez de nouvelles dépenses dans le tableau `Expenses`, le total est immédiatement mis à jour.
+Pratique, non ? La colonne `Sum` affiche en permanence le total des dépenses de chaque catégorie. Saisissez une nouvelle dépense dans le tableau `Expenses` : le total se met à jour aussitôt.
 
-Bien entendu, ce n'est pas tout. Vous pourriez limiter le rapport à certaines années ou ajouter des conditions supplémentaires. Lorsque vous aurez acquis un peu plus d'expérience avec SeaTable, vous pourrez créer de tels rapports en quelques clics.
+Et ce n'est qu'un début. Vous pourriez limiter le calcul à certaines années, ou ajouter d'autres conditions. Avec un peu plus d'expérience, vous créerez ce genre de rapport en quelques clics.
 
-Ceci nous amène déjà à la fin de cette section. Faites défiler la page jusqu'à la fin et passez au sixième et avant-dernier sujet de ce cours en ligne.
+Cette étape est déjà terminée. Faites défiler la page jusqu'en bas et passez à la sixième et avant-dernière étape du cours.
 
-{{< warning  headline="Des analyses statistiques comme un professionnel"  text="SeaTable offre encore bien d'autres possibilités d'analyse statistique de vos données. Réjouissez-vous donc du deuxième cours en ligne, au cours duquel nous aborderons certainement ce sujet de manière plus approfondie." />}}
+{{< warning  headline="Des analyses statistiques comme un pro"  text="SeaTable offre bien d'autres façons d'analyser vos données. Le deuxième cours en ligne reviendra plus en détail sur le sujet." />}}
 
 ## Article d'aide avec plus d'informations
 

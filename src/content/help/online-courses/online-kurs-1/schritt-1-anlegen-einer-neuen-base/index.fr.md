@@ -13,33 +13,33 @@ seo:
     description: 'Lancez le cours en ligne : créez une nouvelle base SeaTable, adaptez vos colonnes et catégories pour commencer à suivre efficacement toutes vos dépenses.'
 ---
 
-Dans ce cours, nous allons créer un outil simple pour enregistrer et gérer vos dépenses personnelles ou professionnelles. Lorsque vous aurez terminé, vous pourrez enregistrer vos dépenses à tout moment, soit sur votre ordinateur, soit sur votre téléphone portable. Chaque fois que vous sortez votre porte-monnaie, vous devez ensuite documenter cette dépense. La récompense de ces efforts est que vous pouvez voir d'un coup d'œil où et combien vous avez dépensé.
+Dans ce cours, vous allez créer un outil simple pour enregistrer et suivre vos dépenses personnelles ou professionnelles. Une fois terminé, il vous permettra de noter une dépense à tout moment, depuis votre ordinateur comme depuis votre téléphone. Le principe : chaque fois que vous sortez votre porte-monnaie, vous enregistrez la dépense. En échange de cet effort, vous voyez d'un coup d'œil combien vous avez dépensé, et pour quoi.
 
-Commençons donc ce cours en ligne par créer la structure nécessaire pour pouvoir enregistrer ces dépenses. Pour cela, vous allez créer une première base, puis quelques colonnes. Vous verrez que les étapes suivantes sont presque évidentes.
+Commençons par créer la structure qui accueillera ces dépenses : une première base, puis quelques colonnes. Vous verrez, les étapes s'enchaînent presque naturellement.
 
-{{< warning  headline="Un petit conseil pour travailler efficacement avec ce cours en ligne"  text="Nous vous recommandons d'avoir deux fenêtres de navigateur ouvertes sur votre écran et de les placer côte à côte. Dans l'une des fenêtres du navigateur, vous ouvrez cet article et dans l'autre, vous ouvrez votre SeaTable. Vous pourrez ainsi suivre beaucoup plus facilement les étapes de ce cours sans devoir changer constamment de fenêtre." />}}
+{{< warning  headline="Un petit conseil pour suivre le cours confortablement"  text="Ouvrez deux fenêtres de navigateur et placez-les côte à côte : le cours dans l'une, SeaTable dans l'autre. Vous suivrez ainsi les étapes bien plus facilement, sans passer sans cesse d'une fenêtre à l'autre." />}}
 
 ![](images/level1-browser-window-setup.png)
 
 ## Créer une nouvelle base
 
-Commençons par la page d'accueil de SeaTable. Créez une nouvelle base nommée `Expense Tracking`. Cliquez ensuite sur cette base pour accéder à l'éditeur de base.
+Depuis la page d'accueil de SeaTable, créez une nouvelle base nommée `Expense Tracking`. Cliquez ensuite dessus pour l'ouvrir dans l'éditeur de base.
 
-## Modifier le nom du premier tableau
+## Renommer le premier tableau
 
-Par défaut, chaque base contient un tableau nommé `Table 1` qui possède une colonne comportant trois lignes.
+Toute nouvelle base contient un tableau nommé `Table 1`, avec une colonne et trois lignes.
 
-- Supprimez les trois lignes
-- Modifiez ensuite le nom du tableau en `Expenses`
+- Supprimez les trois lignes.
+- Renommez ensuite le tableau en `Expenses`.
 
-{{< warning  headline="De l'aide si vous êtes bloqué"  text="L'utilisation de SeaTable devrait être intuitive dans la plupart des cas. Par exemple, vous pouvez supprimer des lignes de la même manière que vous avez l'habitude de le faire avec de nombreuses autres solutions logicielles : sélectionnez les lignes et faites un clic droit. Si vous avez toutefois besoin d'aide, pensez aux articles d'aide que nous avons rassemblés pour vous en bas de page. Vous y trouverez des instructions adaptées à chaque étape de ce cours en ligne." />}}
+{{< warning  headline="Si vous êtes bloqué"  text="SeaTable se prend en main assez intuitivement. Vous supprimez par exemple des lignes comme dans la plupart des logiciels : sélectionnez-les, puis faites un clic droit. Si vous avez besoin d'aide, pensez aux articles listés en bas de chaque page : ils donnent la marche à suivre pour chaque étape du cours." />}}
 
-## Personnalisez les colonnes du tableau et ajoutez-en de nouvelles
+## Adapter les colonnes et en ajouter
 
-Ensuite, nous nous penchons sur les colonnes du tableau afin que notre base puisse contenir les données souhaitées.
+Passons maintenant aux colonnes, pour que la base puisse recevoir les bonnes données.
 
-- Modifiez le nom de la première colonne de `Name` en `Reason`
-- Ajoutez maintenant trois autres colonnes
+- Renommez la première colonne `Name` en `Reason`.
+- Ajoutez ensuite trois colonnes :
 
 **Colonne 1 :**
 
@@ -51,7 +51,7 @@ Ensuite, nous nous penchons sur les colonnes du tableau afin que notre base puis
 >
 > À la minute près : `Yes`
 
-**Remarque :** Au lieu du type de colonne `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`, on aurait également pu utiliser ici le type de colonne `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time`. Alors que vous devez remplir la colonne de date à la main, celle-ci serait automatiquement remplie avec la date du jour. Cela permet bien sûr de gagner du temps. Mais l'inconvénient serait que vous ne pourriez plus modifier la valeur de la date et que, par exemple, vous ne pourriez plus saisir rétroactivement des dépenses pour d'autres jours.
+**Remarque :** au lieu du type `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`, nous aurions pu choisir `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time`. Une colonne de date se remplit à la main ; une colonne de ce type se remplit toute seule avec la date du jour, ce qui fait gagner du temps. En revanche, sa valeur ne se modifie pas : impossible, par exemple, de saisir après coup une dépense d'un autre jour.
 
 ---
 
@@ -73,28 +73,28 @@ Ensuite, nous nous penchons sur les colonnes du tableau afin que notre base puis
 
 ---
 
-{{< warning  headline="26 types de colonnes"  text="Jusqu'à présent, vous n'avez découvert qu'une fraction des types de colonnes possibles. L'une des plus grandes forces de SeaTable est que vous pouvez vraiment stocker tout type d'information grâce aux 26 types de colonnes actuels." />}}
+{{< warning  headline="26 types de colonnes"  text="Vous n'avez vu qu'une petite partie des types de colonnes. Avec ses 26 types actuels, SeaTable peut stocker à peu près n'importe quelle information : c'est l'une de ses grandes forces." />}}
 
 ## Ajouter des options à la sélection unique
 
-Actuellement, votre colonne de sélection unique n'a pas encore d'options. Créez donc ensuite, pour la colonne `Category`, les quatre options suivantes :
+Votre colonne de sélection unique n'a pas encore d'options. Créez pour la colonne `Category` les quatre options suivantes :
 
 - Clothing
 - Groceries
 - Leisure
 - Travel
 
-## Un bref contrôle de qualité
+## Petite vérification
 
-Fantastique ! Si vous avez suivi les instructions à la lettre, votre base devrait maintenant ressembler à ceci :
+Bravo ! Si vous avez suivi les consignes à la lettre, votre base devrait maintenant ressembler à ceci :
 
 ![](images/level1-expenses-table.png)
 
-Récapitulons brièvement ce que vous venez de créer en quelques clics de souris : **vous avez maintenant une base dans laquelle vous pourrez à l'avenir saisir toutes vos dépenses.**
+Faisons le point sur ce que vous venez de créer en quelques clics : **une base dans laquelle vous pourrez désormais saisir toutes vos dépenses.**
 
-En même temps, en choisissant les types de colonnes, vous vous êtes assuré que seules les informations appropriées peuvent être saisies dans les colonnes.
+Et en choisissant les types de colonnes, vous avez fait en sorte que chaque colonne n'accepte que les informations qui lui correspondent.
 
-C'est déjà l'étape 1 de ce cours en ligne. Faites défiler jusqu'à la fin de cet article et passez à l'**étape 2 : Créer un formulaire**.
+L'étape 1 est déjà terminée. Faites défiler la page jusqu'en bas et passez à l'**étape 2 : Créer un formulaire**.
 
 ## Article d'aide avec plus d'informations
 
