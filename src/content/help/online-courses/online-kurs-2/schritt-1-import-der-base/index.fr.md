@@ -44,7 +44,7 @@ Ne vous fiez pourtant pas à cette simplicité : cette structure est étonnamme
 Le tableau `Courses` rassemble toutes les informations importantes sur vos cours. Chaque ligne correspond à un cours ou à une prestation que vous proposez, et les colonnes en donnent le détail, par exemple :
 
 - le nom du cours ;
-- sa date et son lieu ;
+- sa date ;
 - le nombre de participants inscrits ;
 - son statut (complet ou places encore disponibles).
 
@@ -56,12 +56,12 @@ Vous gardez ainsi à tout moment une vue d'ensemble de vos cours et de leurs ins
 
 ### Tout sur vos participants
 
-Le tableau `Registrations` rassemble les informations sur les personnes inscrites à vos cours. Chaque ligne correspond à un participant :
+Le tableau `Registrations` rassemble les informations sur les personnes inscrites à vos cours. Chaque ligne correspond à une inscription :
 
-- son nom ;
+- le nom du participant ;
 - son adresse e-mail ;
 - le cours auquel il s'est inscrit ;
-- son statut de paiement (a-t-il déjà payé ?).
+- le statut de paiement de l'inscription (a-t-elle déjà été payée ?).
 
 Ce tableau vous donne à tout moment une vision claire des inscriptions et des paiements.
 

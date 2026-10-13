@@ -44,7 +44,7 @@ Mas não se deixe enganar pela sua simplicidade: Esta estrutura é incrivelmente
 Na tabela `Courses` encontrará todas as informações importantes sobre as suas ofertas. Cada linha representa um curso ou serviço que oferece. As colunas individuais fornecem informações pormenorizadas, tais como
 
 - Nome do curso
-- Data e local do curso
+- Data do curso
 - Número de participantes registados
 - Situação do curso (totalmente reservado ou lugares ainda disponíveis)
 
@@ -56,12 +56,12 @@ Esta visão geral estruturada permite-lhe manter sempre um registo dos seus curs
 
 ### Tudo o que precisa de saber sobre os participantes na sua disciplina
 
-Na tabela `Registrations` são registados todos os dados sobre as pessoas que se inscreveram nos seus cursos. Cada linha representa um participante e contém as seguintes informações:
+Na tabela `Registrations` são registados todos os dados sobre as pessoas que se inscreveram nos seus cursos. Cada linha representa uma inscrição e contém as seguintes informações:
 
 - Nome do participante
 - Endereço de correio electrónico
 - O curso para o qual a pessoa se inscreveu
-- Estado do pagamento (se o pagamento já foi efectuado)
+- Estado do pagamento (se a inscrição já foi paga)
 
 Este quadro dá-lhe uma visão clara do estado atual do registo e do estado dos pagamentos em qualquer altura.
 
