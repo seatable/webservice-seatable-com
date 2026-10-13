@@ -9,8 +9,8 @@ url: '/fr/aide/niveau-deux-introduction'
 aliases:
     - '/fr/aide/level-zwei-einfuehrung'
 seo:
-    title: 'Démarrer avec un modèle SeaTable – base efficace'
-    description: 'Profitez des modèles SeaTable pour organiser vos projets plus vite. Choisissez une catégorie ou créez votre propre template sur mesure.'
+    title: 'SeaTable Cours en ligne 2 – Entrées et sorties'
+    description: "Mettez en place un processus métier complet dans SeaTable : formulaire d'inscription, e-mails de confirmation et de paiement, attestations PDF et statistiques."
 weight: 1
 ---
 
