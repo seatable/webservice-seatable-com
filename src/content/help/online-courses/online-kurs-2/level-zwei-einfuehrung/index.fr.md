@@ -33,20 +33,20 @@ Il est fait pour vous si vous :
 
 ## Qu'allez-vous apprendre dans ce cours ?
 
-Ce deuxième cours vous fait mettre en place un processus métier complet avec SeaTable : la gestion d'une activité de prestations en ligne. Ateliers de graphisme, cours de cuisine, cours particuliers, séances photo ou coaching : votre offre vous appartient, SeaTable se charge de toute la gestion. De la présentation des cours au paiement, en passant par l'inscription des participants et l'envoi des attestations de participation.
+Ce deuxième cours vous fait mettre en place un processus métier complet avec SeaTable : la gestion d'une activité de prestations en ligne. Ateliers de graphisme, cours de cuisine, cours particuliers, séances photo ou coaching : quelle que soit votre offre, SeaTable se charge de toute la gestion, de la présentation des cours au paiement, en passant par l'inscription des participants et l'envoi des attestations.
 
-Tout le processus se déroule dans SeaTable, et vous pouvez vous consacrer pleinement à votre cœur de métier.
+Tout le processus se déroule dans SeaTable, vous pouvez ainsi vous consacrer pleinement à votre cœur de métier.
 
 ## Comment se déroule le cours
 
 Vous avancez à votre rythme et pouvez faire une pause à tout moment. Des liens vers des contenus complémentaires jalonnent le cours : à vous de décider jusqu'où approfondir chaque sujet.
 
-Le cours existe en plusieurs langues, mais le quiz, les captures d'écran et les données d'exemple sont en anglais. Nous vous recommandons d'utiliser Google Chrome.
+Le cours est disponible en plusieurs langues, mais le quiz, les captures d'écran et les données d'exemple sont en anglais. Nous vous recommandons d'utiliser Google Chrome comme navigateur pour suivre ce cours.
 
 À la fin du cours, un quiz vous permet de vérifier vos connaissances :
 
-- Le [quiz](https://tally.so/r/mDDbpb), en anglais, mêle des questions à choix multiples et des exercices sur le processus que vous aurez mis en place.
-- Si vous le réussissez, vous obtenez un [badge sur votre profil du forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui atteste de vos compétences.
+- Le [quiz en anglais](https://tally.so/r/mDDbpb) mêle des questions à choix multiples et d'autres relatives au processus que vous aurez mis en place.
+- Si vous le réussissez, vous obtiendrez un [badge sur votre profil du forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui atteste de vos compétences.
 - Pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
 
 ## Avant de commencer {#before-you-start}

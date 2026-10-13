@@ -13,13 +13,13 @@ seo:
     description: 'Profitez d’un résumé de votre parcours avec SeaTable et découvrez les prochaines étapes pour automatiser et intégrer de nouvelles fonctions.'
 ---
 
-Félicitations ! Vous avez mis en place une base solide pour gérer efficacement votre offre de cours. Faisons le point sur ce que vous avez réalisé :
+Félicitations ! Vous avez mis en place une architecture de base solide pour gérer efficacement votre offre de cours. Faisons le point sur ce que vous avez réalisé :
 
 - Vous saisissez et gérez vos cours de façon claire.
 - Les participants s'inscrivent aux cours via un formulaire web.
 - Vous voyez à tout moment quels cours sont complets et lesquels ont encore des places.
 - Vous suivez le statut de paiement de vos participants.
-- Les e-mails envoyés aux participants (confirmations d'inscription, demandes de paiement, attestations de participation) vous permettent de maîtriser tout le déroulement du cours.
+- Les e-mails envoyés aux participants (confirmations d'inscription, demandes de paiement, attestations de participation) vous permettent de maîtriser tout le déroulement du processus.
 
 ## Avancer pas à pas
 

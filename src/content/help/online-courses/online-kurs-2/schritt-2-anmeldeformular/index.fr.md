@@ -13,9 +13,9 @@ seo:
     description: 'Apprenez à utiliser le formulaire intégré du cours SeaTable et à afficher uniquement les formations encore disponibles.'
 ---
 
-Passons au formulaire web. Vous avez appris à en créer un au cours 1 : inutile de recommencer, celui-ci est déjà fourni avec la base.
+Passons au formulaire web. Vous avez appris à en créer un lors du cours précédent : inutile de recommencer, celui-ci est déjà fourni avec la base.
 
-Ouvrez le formulaire en mode édition : nous allons en voir les points essentiels.
+Ouvrez le formulaire en mode édition : nous allons aborder les points essentiels.
 
 ## Le formulaire web et le choix du cours
 
@@ -27,11 +27,11 @@ Le formulaire est volontairement simple et ne demande que trois informations :
 
 Les trois champs sont obligatoires. Les champs **Nom** et **E-mail** se passent d'explication.
 
-La particularité tient au choix du cours : seuls les cours qui ont encore des places disponibles peuvent être choisis. Vérifiez-le vous-même : cliquez sur le champ, et seuls trois cours s'affichent, alors que le tableau en compte cinq.
+La particularité tient au choix du cours : seuls les cours qui ont encore des places disponibles peuvent être choisis. Vérifiez-le vous-même : cliquez sur le champ, seuls trois cours s'affichent, alors que le tableau en compte cinq.
 
 ![Formulaire web avec sélection de cours limitée aux cours disponibles](images/lvl2-limited-course-selection.png)
 
-Pourquoi ? Parce que la colonne de lien est limitée à la vue `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`, qui n'affiche que les cours ayant encore des places. Le formulaire ne propose donc que les cours visibles dans cette vue.
+Pourquoi ? Parce que la sélection au sein de la colonne de lien est limitée à la vue `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`, qui n'affiche que les cours ayant encore des places. Le formulaire ne propose donc que les cours visibles dans cette vue.
 
 SeaTable applique cette restriction jusque dans le formulaire web : un cours complet n'y est jamais proposé.
 

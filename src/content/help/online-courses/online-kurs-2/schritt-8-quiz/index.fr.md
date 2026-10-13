@@ -16,9 +16,9 @@ seo:
 
 **Bravo !** Vous êtes arrivé au bout du deuxième cours.
 
-Place au quiz, pour tester vos connaissances sur SeaTable. Il est en anglais et compte 12 questions.
+Place au quiz, pour tester vos connaissances sur SeaTable. Il est en anglais et comporte 12 questions.
 
-- Comme au cours 1, la première partie porte sur SeaTable en général, la seconde sur la base que vous avez construite.
+- Comme durant le cours précédent, la première partie porte sur SeaTable en général, la seconde sur la base que vous avez construite.
 - Pas d'inquiétude si vous échouez au premier essai : vous pouvez le repasser autant de fois que nécessaire, jusqu'à obtenir au moins 10 bonnes réponses sur 12.
 
 [Vers le quiz](https://tally.so/r/mDDbpb)

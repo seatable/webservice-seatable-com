@@ -14,7 +14,7 @@ seo:
 
 ---
 
-Ce deuxième cours touche à sa fin. Pour vos clients, le processus s'arrête à la réception de leur attestation de participation ; vous, vous pouvez aller plus loin et analyser les données collectées. Elles se prêtent parfaitement à des analyses statistiques, qui vous aideront à améliorer vos prestations et à les rendre plus efficaces.
+Ce deuxième cours touche à sa fin. Pour vos clients, le processus s'arrête à la réception de leur attestation de participation ; de votre côté, vous pouvez aller plus loin et analyser les données collectées. Elles se prêtent parfaitement à des analyses statistiques, qui vous aideront à améliorer vos prestations et à les rendre plus efficaces.
 
 Avec SeaTable, quelques secondes suffisent pour créer des graphiques qui répondent à des questions comme celles-ci :
 
@@ -37,7 +37,7 @@ Pour répondre à la quatrième question, « Quels participants se sont inscrit
 
 ## Des graphiques toujours à jour
 
-Grand avantage du module Statistiques : il se met à jour tout seul. Un graphique s'appuie toujours sur les données les plus récentes de votre base ; inutile de l'actualiser à la main.
+Grand avantage du module Statistiques : il se met à jour automatiquement. Un graphique s'appuie toujours sur les données les plus récentes de votre base ; inutile de l'actualiser à la main.
 
 ## Article d'aide avec plus d'informations
 

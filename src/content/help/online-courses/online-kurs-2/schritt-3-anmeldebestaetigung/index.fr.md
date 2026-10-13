@@ -17,7 +17,7 @@ Ajoutons maintenant la possibilité d'envoyer par e-mail, à chaque participant 
 
 ## Envoyer des e-mails avec SeaTable
 
-Pour envoyer des e-mails depuis SeaTable, il faut d'abord enregistrer un compte e-mail dans la base. Comme le paramétrage varie d'un fournisseur à l'autre, nous vous recommandons [Mailtrap](https://mailtrap.io). _Mailtrap_ dirige vos e-mails vers une boîte aux lettres virtuelle : aucun e-mail ne part vers de vrais destinataires, ni vers des adresses fictives, mais l'envoi se simule de façon réaliste.
+Pour envoyer des e-mails depuis SeaTable, il faut d'abord enregistrer un compte e-mail dans la base. Comme le paramétrage varie d'un fournisseur à l'autre, nous vous recommandons d'utiliser [Mailtrap](https://mailtrap.io) dans le cadre de ce cours. _Mailtrap_ dirige vos e-mails vers une boîte aux lettres virtuelle : aucun e-mail ne part vers de vrais destinataires, ni vers des adresses fictives, mais l'envoi est simulé de façon réaliste.
 
 {{< warning headline="Quel fournisseur de messagerie choisir ?" text="Il n'y a pas de _bon_ ni de _mauvais_ fournisseur de messagerie. Si vous n'envoyez que quelques e-mails par jour, votre compte de messagerie actuel suffira sans doute. Si le volume augmente, pensez à un fournisseur professionnel comme [Brevo.com](https://brevo.com), qui vous permettra de mieux suivre la distribution de vos e-mails." />}}
 
@@ -41,7 +41,7 @@ Avec les identifiants SMTP de Mailtrap, vous pouvez maintenant configurer l'[env
 
 ![Boîte de dialogue SeaTable avec données SMTP Mailtrap saisies pour l’envoi d’e-mails](images/lvl2-mailtrap-in-seatable.png)
 
-Les e-mails ne partent pas réellement : ils arrivent dans votre boîte Mailtrap. Faites l'essai en envoyant un e-mail à n'importe quelle adresse : il n'atterrira que dans votre boîte aux lettres virtuelle.
+Les e-mails ne sont pas réellement envoyés : ils arrivent dans votre boîte Mailtrap. Faites l'essai en envoyant un e-mail à n'importe quelle adresse : il n'atterrira que dans votre boîte aux lettres virtuelle.
 
 ![E-mail de test dans la boîte Mailtrap pour vérifier l’envoi depuis SeaTable](images/lvl2-mailtest.gif)
 
@@ -78,11 +78,11 @@ Pour le corps du message, vous pouvez reprendre ce texte :
 >
 > Best regards
 
-Avec l'éditeur de texte simple, les espaces réservés entre accolades sont remplacés automatiquement. Avec l'éditeur de texte enrichi, insérez-les vous-même à l'aide de la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column`.
+Avec l'éditeur de texte simple, les noms de colonnes entre accolades sont remplacés automatiquement par le contenu correspondant. Avec l'éditeur de texte enrichi, insérez les colonnes vous-même à l'aide de la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column`.
 
 ![Éditeur de texte enrichi SeaTable avec espaces réservés pour le cours et la date](images/lvl2-rich-text-editor.png)
 
-Cliquez ensuite sur le bouton, et vérifiez que l'e-mail arrive bien dans votre boîte Mailtrap.
+Cliquez ensuite sur le bouton et vérifiez que l'e-mail arrive bien dans votre boîte Mailtrap.
 
 Félicitations ! Vous venez d'envoyer votre premier e-mail depuis SeaTable, même s'il n'est allé que dans la boîte virtuelle de Mailtrap.
 

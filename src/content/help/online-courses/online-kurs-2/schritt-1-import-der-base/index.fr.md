@@ -13,24 +13,24 @@ seo:
     description: 'Démarrez le cours 2 : importez la base fournie, explorez champs et formules, et découvrez les vues clés pour vos prochains processus complexes.'
 ---
 
-Pour gérer un nouveau processus dans SeaTable, il faut d'abord la bonne structure de tableaux : c'est elle qui permet de saisir les données utiles au processus, puis de les exploiter efficacement. Les nombreux modèles proposés peuvent vous inspirer, mais il faut en général bien réfléchir au processus et définir précisément les données dont il a besoin.
+Pour créer un nouvel outil de gestion dans SeaTable, il faut d'abord la bonne structure de tableaux : c'est elle qui permet de saisir les données utiles au processus, puis de les exploiter efficacement. Les nombreux modèles proposés peuvent vous inspirer, mais il faut en général bien réfléchir au processus et définir clairement les données nécessaires et pertinentes.
 
 Ce cours portant sur la gestion de prestations en ligne, il nous faut deux tableaux centraux :
 
 - un tableau pour les cours proposés ;
 - un tableau pour les participants.
 
-Vous avez déjà appris à créer une base et ses colonnes au cours 1. Nous sautons donc cette étape et partons d'une base toute prête.
+Vous avez déjà appris à créer une base et ses colonnes lors du cours précédent. Nous sautons donc cette étape et partons d'une base toute prête.
 
 Téléchargez le fichier suivant sur votre ordinateur, puis importez-le comme nouvelle base depuis la page d'accueil de SeaTable :
 
 [SeaTable Course 2.dtable](/SeaTable-Course-2.dtable)
 
-Vous n'avez pas à créer la base vous-même, mais prenez le temps de bien comprendre sa structure : elle utilise des types de colonnes que vous n'avez peut-être pas encore rencontrés au cours 1.
+Vous n'avez pas à créer la base vous-même, mais prenez le temps de bien comprendre sa structure : elle utilise des types de colonnes que vous n'avez peut-être pas encore rencontrés dans le cours précédent.
 
 ## Ce que contient la base
 
-À première vue, la base est plutôt simple. Elle ne compte que :
+À première vue, la base est plutôt simple. Elle comporte seulement :
 
 - 2 tableaux
 - 18 colonnes
@@ -71,7 +71,7 @@ Ce tableau vous donne à tout moment une vision claire des inscriptions et des p
 
 ## Autres particularités
 
-Certaines fonctions de cette base ne se comprennent qu'une fois leurs réglages connus. Lisez attentivement les explications qui suivent : elles vous aideront pour la suite du cours.
+Certaines fonctions de cette base ne sont compréhensibles qu'à la lecture de leur définition et/ou de leurs paramètres. Lisez attentivement les explications qui suivent : elles vous aideront pour la suite du cours.
 
 ### Colonnes de formule
 
@@ -84,7 +84,7 @@ Le tableau `Courses` contient deux colonnes de formule importantes, dont voici l
 
 ![Colonne de formule « Title and Date » combinant titre du cours et date en un affichage unique](images/lvl2-formula-title-date.png)
 
-À première vue, cette colonne semble superflue, puisqu'elle ne fait que combiner des données existantes. Faites-nous confiance : en examinant le formulaire d'inscription, vous comprendrez vite à quel point elle est utile.
+À première vue, cette colonne semble superflue, puisqu'elle ne fait que combiner des données existantes. Croyez-nous : en examinant le formulaire d'inscription, vous comprendrez vite à quel point elle est utile.
 
 ---
 
@@ -96,7 +96,7 @@ La colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` 
 
 ### Une vue pour ne proposer que les cours disponibles
 
-Le tableau `Courses` comporte une vue spéciale, `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`. Elle filtre sur la colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` pour n'afficher que les cours qui ont encore des places : les cours complets disparaissent automatiquement.
+Le tableau `Courses` comporte une vue spéciale, `{{< seatable-icon icon="dtable-icon-main-view" >}} Available Courses`. Elle utilise un filtre sur la colonne de formule `{{< seatable-icon icon="dtable-icon-formula" >}} Status` pour n'afficher que les cours qui ont encore des places. Les cours complets disparaissent ainsi automatiquement.
 
 Cette vue est verrouillée {{< seatable-icon icon="dtable-icon-unlock" >}} pour que personne ne la modifie par erreur. Elle joue un rôle important : elle limite les choix proposés dans la colonne de lien `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Registered for`.
 
@@ -106,7 +106,7 @@ Vous verrez pourquoi elle est si utile en examinant le formulaire d'inscription,
 
 ### Des couleurs pour les lignes et les colonnes
 
-SeaTable permet de mettre en couleur des lignes, des colonnes et des cellules. Ce modèle en utilise déjà deux exemples :
+SeaTable permet de mettre en couleur des lignes, des colonnes et des cellules. Deux exemples de coloration sont utilisés dans cette base :
 
 - Les lignes des cours prennent une couleur selon leur statut : en vert les cours qui ont encore des places, en rouge les cours complets.
 - Les prix sont colorés selon leur montant : plus le cours est cher, plus la couleur est foncée.

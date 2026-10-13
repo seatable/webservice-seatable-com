@@ -35,7 +35,7 @@ Vous y créez des modèles qui mêlent des contenus fixes (textes, logos…) et 
 
 Pour ce cours, un modèle simple d'attestation de participation est déjà prêt : le nom du participant, le cours et sa date y sont insérés automatiquement, le reste du texte ne change pas.
 
-Prenez quelques minutes pour explorer le plugin. Essayez par exemple d'ajouter un logo, ou une image sous la signature.
+Prenez quelques minutes pour explorer le plugin. Essayez par exemple d'ajouter un logo ou une image sous la signature.
 
 ![](images/lvl2-page-design.png)
 
