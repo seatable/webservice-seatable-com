@@ -79,7 +79,7 @@ Klicken Sie anschließend auf d0ie Schaltfläche und prüfen Sie, ob die E-Mail 
 
 Glückwunsch! Sie haben soeben Ihre erste E-Mail über SeaTable verschickt – auch wenn sie nur in das virtuelle Postfach von Mailtrap ging.
 
-{{< warning  type="warning" headline="E-Mails automatisch versenden"  text="Derzeit versenden wir E-Mails noch manuell per Schaltfläche. Mit einem Enterprise-Abonnement von SeaTable könnten Sie jedoch Automationen einrichten, um den Versand von E-Mails automatisch durchzuführen. Da dies ein kostenpflichtiges Feature ist, verzichten wir an dieser Stelle auf eine Demonstration." />}}
+{{< warning  type="warning" headline="E-Mails automatisch versenden"  text="Derzeit wird der E-Mail-Versand noch per Klick auf eine Schaltfläche ausgelöst. Das kann auch eine Automation übernehmen: Automationen sind Thema von Kurs 4." />}}
 
 ## Hilfeartikel mit weiteren Informationen
 

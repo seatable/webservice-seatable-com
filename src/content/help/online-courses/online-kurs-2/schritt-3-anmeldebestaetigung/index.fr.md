@@ -86,7 +86,7 @@ Cliquez ensuite sur le bouton et vérifiez que l'e-mail arrive bien dans votre b
 
 Félicitations ! Vous venez d'envoyer votre premier e-mail depuis SeaTable, même s'il n'est allé que dans la boîte virtuelle de Mailtrap.
 
-{{< warning  headline="Envoyer des e-mails automatiquement"  text="Ici, les e-mails partent à la main, d'un clic sur un bouton. Avec un abonnement Enterprise, vous pourriez les envoyer automatiquement grâce aux automatisations. Comme il s'agit d'une fonctionnalité payante, nous ne la présentons pas ici." />}}
+{{< warning  headline="Envoyer des e-mails automatiquement"  text="Pour l'instant, l'envoi des e-mails est déclenché par un clic sur un bouton. Une automatisation peut aussi s'en charger : les automatisations sont au programme du cours 4." />}}
 
 ## Article d'aide avec plus d'informations
 

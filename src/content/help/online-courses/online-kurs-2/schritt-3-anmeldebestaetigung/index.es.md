@@ -86,7 +86,7 @@ A continuación, haga clic en el botón y compruebe si el correo electrónico ap
 
 ¡Enhorabuena! Acaba de enviar su primer correo electrónico a través de SeaTable - aunque sólo haya ido al buzón virtual de Mailtrap.
 
-{{< warning  headline="Enviar correos electrónicos automáticamente"  text="Actualmente seguimos enviando correos electrónicos manualmente mediante un botón. Sin embargo, con una suscripción Enterprise a SeaTable, podría configurar automatizaciones para enviar correos electrónicos automáticamente. Como se trata de una función de pago, no la mostraremos aquí." />}}
+{{< warning  headline="Enviar correos electrónicos automáticamente"  text="Por ahora, el envío de los correos electrónicos se activa con un clic en un botón. También puede encargarse de ello una automatización: las automatizaciones se tratan en el curso 4." />}}
 
 ## Artículo de ayuda con más información
 

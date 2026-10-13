@@ -47,8 +47,8 @@ Pour améliorer votre processus, vous serez souvent amené à le modifier. Or ch
 
 La suite de votre parcours avec SeaTable vous ouvre de belles perspectives pour automatiser et professionnaliser encore vos processus.
 
-- **cours en ligne, 3e partie** : le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à travailler en équipe et à rendre vos processus encore plus simples à utiliser ;
-- **automatisations** : vous envoyez déjà des e-mails d'un clic sur un bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces tâches et bien d'autres : e-mails, changements de statut… tout se ferait sans intervention de votre part. La gestion tournerait toute seule, et vous pourriez vous consacrer pleinement à vos cours ;
+- **cours en ligne, 3e partie** : le prochain cours sera consacré à la **collaboration**. Vous apprendrez à travailler en équipe dans SeaTable : partager des bases, échanger dans les commentaires, suivre les modifications et partager des données entre équipes ;
+- **automatisations** : vous envoyez déjà des e-mails d'un clic sur un bouton. Grâce aux automatisations, disponibles dans toutes les offres, vous pourriez automatiser entièrement ces tâches et bien d'autres : e-mails, changements de statut… tout se ferait sans intervention de votre part. La gestion tournerait toute seule, et vous pourriez vous consacrer pleinement à vos cours ;
 - **paiement en ligne avec Stripe** : plutôt que d'attendre des virements, vous pouvez intégrer le paiement par Stripe. Les participants paient directement en ligne, et le paiement est enregistré automatiquement dans SeaTable. Un outil comme [n8n](https://n8n.io) permet de réaliser facilement cette intégration et d'automatiser tout le processus de paiement.
 
-Avec ces extensions, votre système gagnera encore en professionnalisme et en efficacité. Rendez-vous dans la troisième partie, qui ira plus loin dans l'automatisation et l'intégration. Bonne continuation !
+Avec ces extensions, votre système gagnera encore en professionnalisme et en efficacité. Rendez-vous au cours 3, consacré à la collaboration ; l'automatisation et l'intégration viendront au cours 4. Bonne continuation !

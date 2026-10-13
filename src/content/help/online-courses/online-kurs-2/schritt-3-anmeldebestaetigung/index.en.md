@@ -86,7 +86,7 @@ Then click on the button and check whether the e-mail appears in your Mailtrap m
 
 Congratulations! You have just sent your first email via SeaTable - even if it only went to Mailtrap's virtual mailbox.
 
-{{< warning  headline="Send e-mails automatically"  text="Currently, we still send emails manually by button. However, with an Enterprise subscription to SeaTable, you could set up automations to send emails automatically. As this is a paid feature, we will not demonstrate it here." />}}
+{{< warning  headline="Send e-mails automatically"  text="For now, sending the emails is triggered by clicking a button. An automation can also do this for you: automations are covered in Course 4." />}}
 
 ## Help article with further information
 

@@ -86,7 +86,7 @@ Em seguida, clique no botão e verifique se a mensagem aparece na sua caixa de c
 
 Parabéns! Acabou de enviar a sua primeira mensagem de correio eletrónico através do SeaTable - mesmo que tenha ido apenas para a caixa de correio virtual do Mailtrap.
 
-{{< warning  headline="Enviar e-mails automaticamente"  text="Atualmente, continuamos a enviar mensagens de correio eletrónico manualmente por botão. No entanto, com uma subscrição Enterprise do SeaTable, é possível configurar automações para enviar e-mails automaticamente. Como se trata de uma funcionalidade paga, não a vamos demonstrar aqui." />}}
+{{< warning  headline="Enviar e-mails automaticamente"  text="Por agora, o envio dos e-mails é acionado com um clique num botão. Uma automação também pode tratar disso: as automações são abordadas no curso 4." />}}
 
 ## Artigo de ajuda com mais informações
 
