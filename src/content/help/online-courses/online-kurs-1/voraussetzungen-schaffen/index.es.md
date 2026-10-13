@@ -50,6 +50,4 @@ Registrarse en el Foro comunitario es muy fácil. En https://forum.seatable.com/
 
 En cualquier caso, le recomendamos que se registre en nuestro foro, ya que la superación del cuestionario al final de este curso en línea asignará automáticamente la insignia correspondiente a su cuenta del foro.
 
----
-
 Suficiente preparación. Empecemos de una vez. Abajo a la derecha encontrarás el enlace a la página siguiente.

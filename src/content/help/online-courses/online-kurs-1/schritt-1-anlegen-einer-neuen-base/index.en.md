@@ -23,7 +23,7 @@ So let's start this online course by creating the necessary structure to be able
 
 ## Create new base
 
-We start on the SeaTable start page. Create a new base with the name `Expense Tracking` button. Then click on this base to go to the base Editor.
+We start on the SeaTable start page. Create a new base with the name `Expense Tracking`. Then click on this base to go to the base Editor.
 
 ## Change the name of the first table
 

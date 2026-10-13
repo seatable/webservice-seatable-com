@@ -23,7 +23,7 @@ Assim, vamos começar este curso online criando a estrutura necessária para pod
 
 ## Criar uma nova base
 
-Começamos na página inicial do SeaTable. Criar uma nova base com o nome `Expense Tracking` botão. Em seguida, clique nesta base para aceder ao Editor de bases.
+Começamos na página inicial do SeaTable. Crie uma nova base com o nome `Expense Tracking`. Em seguida, clique nesta base para aceder ao Editor de bases.
 
 ## Alterar o nome da primeira tabela
 
