@@ -15,8 +15,8 @@ seo:
 
 Après avoir reçu la demande de paiement par e-mail, les participants transfèrent le montant du cours sur votre compte bancaire. Nous n'allons pas automatiser davantage le suivi des paiements à ce stade. Il serait toutefois utile d'ajouter à votre base un second bouton, qui remplirait deux fonctions :
 
-1. confirmer au participant que son paiement est bien arrivé, et donc que son inscription est complète ;
-2. garder une trace du paiement dans la base.
+1. Confirmer au participant que son paiement est bien arrivé, et donc que son inscription est complète.
+2. Garder une trace du paiement dans la base.
 
 ## Plusieurs actions dans un seul bouton
 

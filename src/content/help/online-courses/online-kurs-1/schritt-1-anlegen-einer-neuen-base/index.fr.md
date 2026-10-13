@@ -29,8 +29,8 @@ Depuis la page d'accueil de SeaTable, créez une nouvelle base nommée `Expense 
 
 Toute nouvelle base contient un tableau nommé `Table 1`, avec une colonne et trois lignes.
 
-- Supprimez les trois lignes.
-- Renommez ensuite le tableau en `Expenses`.
+- supprimez les trois lignes ;
+- renommez ensuite le tableau en `Expenses`.
 
 {{< warning  headline="Si vous êtes bloqué"  text="SeaTable se prend en main assez intuitivement. Vous supprimez par exemple des lignes comme dans la plupart des logiciels : sélectionnez-les, puis faites un clic droit. Si vous avez besoin d'aide, pensez aux articles listés en bas de chaque page : ils donnent la marche à suivre pour chaque étape du cours." />}}
 
@@ -38,8 +38,8 @@ Toute nouvelle base contient un tableau nommé `Table 1`, avec une colonne et tr
 
 Passons maintenant aux colonnes, pour que la base puisse recevoir les bonnes données.
 
-- Renommez la première colonne `Name` en `Reason`.
-- Ajoutez ensuite trois colonnes :
+- renommez la première colonne `Name` en `Reason` ;
+- ajoutez ensuite trois colonnes :
 
 **Colonne 1 :**
 

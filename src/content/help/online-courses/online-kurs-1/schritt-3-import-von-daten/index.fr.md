@@ -23,9 +23,9 @@ Ouvrez votre tableau `Expenses` et supprimez toutes les lignes saisies jusqu'ici
 
 SeaTable offre de nombreuses possibilités d'importation. Vous pouvez importer des bases entières à partir d'un fichier .dtable, .csv ou .xlsx, mais aussi ajouter des données, ou mettre à jour des données existantes, directement dans le tableau d'une base. C'est ce que vous allez faire ici avec un fichier CSV ; un fichier Excel aurait aussi fait l'affaire.
 
-- Téléchargez le fichier [expenses.csv](/expenses.csv).
-- Importez-le dans le tableau `Expenses`.
-- Vérifiez que le tableau comporte exactement 50 lignes.
+- téléchargez le fichier [expenses.csv](/expenses.csv) ;
+- importez-le dans le tableau `Expenses` ;
+- vérifiez que le tableau comporte exactement 50 lignes.
 
 ![Boîte de dialogue d’import CSV dans le tableau « Expenses » avec aperçu des données](images/level1-import-csv.png)
 

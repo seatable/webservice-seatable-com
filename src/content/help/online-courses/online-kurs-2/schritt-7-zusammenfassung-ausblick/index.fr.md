@@ -31,13 +31,13 @@ Quand on numérise un processus, on a souvent envie de tout prévoir, parfaiteme
 
 Pour cela, il est utile de dessiner le processus, même sommairement. Il pourrait ressembler à ceci :
 
-1. créer une offre de cours ;
-2. mettre le formulaire d'inscription à disposition ;
-3. envoyer une demande de paiement ;
-4. enregistrer le paiement ;
-5. confirmer la réception du paiement ;
-6. animer le cours ;
-7. envoyer l'attestation de participation.
+1. Créer une offre de cours.
+2. Mettre le formulaire d'inscription à disposition.
+3. Envoyer une demande de paiement.
+4. Enregistrer le paiement.
+5. Confirmer la réception du paiement.
+6. Animer le cours.
+7. Envoyer l'attestation de participation.
 
 ### Conseil 2 : tester régulièrement
 
