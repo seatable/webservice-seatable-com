@@ -45,16 +45,16 @@ Le cours est disponible en plusieurs langues, mais le quiz, les captures d'écra
 
 À la fin du cours, un quiz vous permet de vérifier vos connaissances :
 
-- Le [quiz en anglais](https://tally.so/r/mDDbpb) mêle des questions à choix multiples et d'autres relatives au processus que vous aurez mis en place.
-- Si vous le réussissez, vous obtiendrez un [badge sur votre profil du forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui atteste de vos compétences.
-- Pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
+- le [quiz en anglais](https://tally.so/r/mDDbpb) mêle des questions à choix multiples et d'autres relatives au processus que vous aurez mis en place ;
+- si vous le réussissez, vous obtiendrez un [badge sur votre profil du forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui atteste de vos compétences ;
+- pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
 
 ## Avant de commencer {#before-you-start}
 
 Pour suivre ce cours en ligne, il vous faut :
 
-- **Un compte SeaTable** : sur n'importe quel système SeaTable. Le plus simple est de créer un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
-- **Un compte Mailtrap** : un [compte gratuit chez Mailtrap](https://mailtrap.io/) permet de simuler l'envoi d'e-mails depuis SeaTable (étape 3).
+- **un compte SeaTable** : sur n'importe quel système SeaTable. Le plus simple est de créer un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}) ;
+- **un compte Mailtrap** : un [compte gratuit chez Mailtrap](https://mailtrap.io/) permet de simuler l'envoi d'e-mails depuis SeaTable (étape 3).
 
 Qu'attendons-nous ? C'est parti !
 

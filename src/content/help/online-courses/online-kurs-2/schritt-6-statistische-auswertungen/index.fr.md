@@ -18,18 +18,18 @@ Ce deuxième cours touche à sa fin. Pour vos clients, le processus s'arrête à
 
 Avec SeaTable, quelques secondes suffisent pour créer des graphiques qui répondent à des questions comme celles-ci :
 
-- Quel chiffre d'affaires ai-je réalisé chaque mois ?
-- Combien d'inscriptions ai-je reçues par mois ?
-- Quel cours est le plus demandé ?
-- Quels participants se sont inscrits à plus d'un cours ?
+- quel chiffre d'affaires ai-je réalisé chaque mois ?
+- combien d'inscriptions ai-je reçues par mois ?
+- quel cours est le plus demandé ?
+- quels participants se sont inscrits à plus d'un cours ?
 
 ## Le module Statistiques de SeaTable
 
 Ouvrez le module Statistiques de votre base : quelques graphiques y sont déjà prêts, qui répondent aux trois premières questions. Ils vous montrent par exemple :
 
-- **Chiffre d'affaires par mois** : vous voyez d'un coup d'œil que juin et août 2024 ont été les mois les plus rentables, et qu'août 2024 a aussi enregistré le plus d'inscriptions.
-- **Inscriptions par mois** : vous voyez quels mois vos cours ont le plus attiré.
-- **Cours populaires** : vous voyez quels cours ont reçu le plus d'inscriptions.
+- **chiffre d'affaires par mois** : vous voyez d'un coup d'œil que juin et août 2024 ont été les mois les plus rentables, et qu'août 2024 a aussi enregistré le plus d'inscriptions ;
+- **inscriptions par mois** : vous voyez quels mois vos cours ont le plus attiré ;
+- **cours populaires** : vous voyez quels cours ont reçu le plus d'inscriptions.
 
 ## Créer votre propre graphique
 

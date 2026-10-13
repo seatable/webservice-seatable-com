@@ -29,8 +29,8 @@ La page d'accueil se divise en deux parties : la navigation à gauche et l'aper
 
 Une base est une base de données. Elle se compose d'un ou de plusieurs tableaux et peut contenir plusieurs milliers de lignes. La page d'accueil affiche toutes les bases auxquelles vous avez accès, réparties en plusieurs espaces selon qui a créé la base ou qui y a accès :
 
-- **Mes bases** : les bases que vous avez créées vous-même. Tant que vous ne les avez pas explicitement partagées avec une personne ou un groupe, vous êtes le seul à y avoir accès.
-- **Favoris** : marquez n'importe quelle base comme favorite pour la retrouver toujours dans cette section.
+- **Mes bases** : les bases que vous avez créées vous-même. Tant que vous ne les avez pas explicitement partagées avec une personne ou un groupe, vous êtes le seul à y avoir accès ;
+- **Favoris** : marquez n'importe quelle base comme favorite pour la retrouver toujours dans cette section ;
 - **Groupes** : SeaTable est fait pour travailler à plusieurs. Les groupes vous permettent de rendre une base accessible à toute une équipe.
 
 ## L'éditeur de base
@@ -47,9 +47,9 @@ Au premier abord, une base peut impressionner : les boutons et les possibilité
 
 En haut de chaque base, ses tableaux s'affichent côte à côte sous forme d'onglets. Selon ce que vous connaissez déjà, vous pouvez les comparer aux feuilles de calcul d'Excel ou aux tables d'une base de données. Dans chaque tableau, vous créez les colonnes qui accueilleront vos informations. Mais alors que dans Excel toutes les colonnes se valent, SeaTable vous demande de choisir un type pour chaque nouvelle colonne. Ce type détermine ce que la colonne pourra contenir. Cela peut paraître compliqué, mais ça ne l'est pas :
 
-- Une colonne de nombres n'accepte que des nombres, pas d'images.
-- Une colonne de date n'accepte que des dates, pas de nombres.
-- Une colonne de… – vous avez compris le principe.
+- une colonne de nombres n'accepte que des nombres, pas d'images ;
+- une colonne de date n'accepte que des dates, pas de nombres ;
+- une colonne de… – vous avez compris le principe.
 
 ### Lignes
 

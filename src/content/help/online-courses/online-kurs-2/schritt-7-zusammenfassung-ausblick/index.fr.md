@@ -15,11 +15,11 @@ seo:
 
 Félicitations ! Vous avez mis en place une architecture de base solide pour gérer efficacement votre offre de cours. Faisons le point sur ce que vous avez réalisé :
 
-- Vous saisissez et gérez vos cours de façon claire.
-- Les participants s'inscrivent aux cours via un formulaire web.
-- Vous voyez à tout moment quels cours sont complets et lesquels ont encore des places.
-- Vous suivez le statut de paiement de vos participants.
-- Les e-mails envoyés aux participants (confirmations d'inscription, demandes de paiement, attestations de participation) vous permettent de maîtriser tout le déroulement du processus.
+- vous saisissez et gérez vos cours de façon claire ;
+- les participants s'inscrivent aux cours via un formulaire web ;
+- vous voyez à tout moment quels cours sont complets et lesquels ont encore des places ;
+- vous suivez le statut de paiement de vos participants ;
+- les e-mails envoyés aux participants (confirmations d'inscription, demandes de paiement, attestations de participation) vous permettent de maîtriser tout le déroulement du processus.
 
 ## Avancer pas à pas
 
@@ -31,13 +31,13 @@ Quand on numérise un processus, on a souvent envie de tout prévoir, parfaiteme
 
 Pour cela, il est utile de dessiner le processus, même sommairement. Il pourrait ressembler à ceci :
 
-1. Créer une offre de cours
-2. Mettre le formulaire d'inscription à disposition
-3. Envoyer une demande de paiement
-4. Enregistrer le paiement
-5. Confirmer la réception du paiement
-6. Animer le cours
-7. Envoyer l'attestation de participation
+1. créer une offre de cours ;
+2. mettre le formulaire d'inscription à disposition ;
+3. envoyer une demande de paiement ;
+4. enregistrer le paiement ;
+5. confirmer la réception du paiement ;
+6. animer le cours ;
+7. envoyer l'attestation de participation.
 
 ### Conseil 2 : tester régulièrement
 
@@ -47,8 +47,8 @@ Pour améliorer votre processus, vous serez souvent amené à le modifier. Or ch
 
 La suite de votre parcours avec SeaTable vous ouvre de belles perspectives pour automatiser et professionnaliser encore vos processus.
 
-- **Cours en ligne, 3e partie** : le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à travailler en équipe et à rendre vos processus encore plus simples à utiliser.
-- **Automatisations** : vous envoyez déjà des e-mails d'un clic sur un bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces tâches et bien d'autres : e-mails, changements de statut… tout se ferait sans intervention de votre part. La gestion tournerait toute seule, et vous pourriez vous consacrer pleinement à vos cours.
-- **Paiement en ligne avec Stripe** : plutôt que d'attendre des virements, vous pouvez intégrer le paiement par Stripe. Les participants paient directement en ligne, et le paiement est enregistré automatiquement dans SeaTable. Un outil comme [n8n](https://n8n.io) permet de réaliser facilement cette intégration et d'automatiser tout le processus de paiement.
+- **cours en ligne, 3e partie** : le prochain cours sera principalement consacré à la **collaboration et à l'App Builder**. Vous apprendrez à créer votre propre application avec SeaTable, à travailler en équipe et à rendre vos processus encore plus simples à utiliser ;
+- **automatisations** : vous envoyez déjà des e-mails d'un clic sur un bouton. Avec un abonnement Enterprise, vous pourriez automatiser entièrement ces tâches et bien d'autres : e-mails, changements de statut… tout se ferait sans intervention de votre part. La gestion tournerait toute seule, et vous pourriez vous consacrer pleinement à vos cours ;
+- **paiement en ligne avec Stripe** : plutôt que d'attendre des virements, vous pouvez intégrer le paiement par Stripe. Les participants paient directement en ligne, et le paiement est enregistré automatiquement dans SeaTable. Un outil comme [n8n](https://n8n.io) permet de réaliser facilement cette intégration et d'automatiser tout le processus de paiement.
 
 Avec ces extensions, votre système gagnera encore en professionnalisme et en efficacité. Rendez-vous dans la troisième partie, qui ira plus loin dans l'automatisation et l'intégration. Bonne continuation !

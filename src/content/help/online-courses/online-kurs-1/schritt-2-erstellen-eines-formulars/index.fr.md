@@ -33,8 +33,8 @@ En haut de votre base se trouvent de nombreuses fonctions supplémentaires. Le b
 
 Votre formulaire est presque prêt, et déjà utilisable. Nous vous conseillons toutefois trois réglages. Pour régler un champ, cliquez dessus dans le formulaire : ses options s'affichent à droite. Elles varient selon le champ choisi.
 
-- `Category` : les différentes options doivent être affichées sous forme de **liste**.
-- `Date` : le jour actuel doit être prédéfini comme **valeur par défaut**.
+- `Category` : les différentes options doivent être affichées sous forme de **liste** ;
+- `Date` : le jour actuel doit être prédéfini comme **valeur par défaut** ;
 - `Amount` : la saisie de ce champ est **obligatoire**.
 
 Le formulaire est configuré : vous pouvez maintenant l'utiliser pour saisir vos premières dépenses.

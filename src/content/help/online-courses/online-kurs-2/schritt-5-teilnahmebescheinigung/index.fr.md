@@ -58,8 +58,8 @@ Ces réglages devraient maintenant vous être familiers. Pour créer le PDF, vou
 
 Dans SeaTable, les fichiers et les images ne sont pas stockés dans les cellules elles-mêmes, mais dans un espace de stockage central propre à la base ; les cellules ne contiennent que des références vers ces fichiers. Cette gestion centralisée a plusieurs avantages :
 
-- Un même fichier peut servir plusieurs fois, sans avoir à le téléverser de nouveau.
-- Un fichier retiré d'une cellule reste disponible dans la gestion des fichiers, jusqu'à ce que vous le supprimiez définitivement.
+- un même fichier peut servir plusieurs fois, sans avoir à le téléverser de nouveau ;
+- un fichier retiré d'une cellule reste disponible dans la gestion des fichiers, jusqu'à ce que vous le supprimiez définitivement.
 
 Prenez quelques minutes pour découvrir la gestion des fichiers de SeaTable. Les articles d'aide ci-dessous vous en diront plus.
 

@@ -32,10 +32,10 @@ Vous n'avez pas à créer la base vous-même, mais prenez le temps de bien compr
 
 À première vue, la base est plutôt simple. Elle comporte seulement :
 
-- 2 tableaux
-- 18 colonnes
-- 3 vues
-- 1 formulaire web
+- 2 tableaux ;
+- 18 colonnes ;
+- 3 vues ;
+- 1 formulaire web.
 
 Ne vous fiez pourtant pas à cette simplicité : cette structure est étonnamment puissante. Voyons pourquoi nous l'avons conçue ainsi.
 
@@ -108,8 +108,8 @@ Vous verrez pourquoi elle est si utile en examinant le formulaire d'inscription,
 
 SeaTable permet de mettre en couleur des lignes, des colonnes et des cellules. Deux exemples de coloration sont utilisés dans cette base :
 
-- Les lignes des cours prennent une couleur selon leur statut : en vert les cours qui ont encore des places, en rouge les cours complets.
-- Les prix sont colorés selon leur montant : plus le cours est cher, plus la couleur est foncée.
+- les lignes des cours prennent une couleur selon leur statut : en vert les cours qui ont encore des places, en rouge les cours complets ;
+- les prix sont colorés selon leur montant : plus le cours est cher, plus la couleur est foncée.
 
 ## Prenez la base en main
 

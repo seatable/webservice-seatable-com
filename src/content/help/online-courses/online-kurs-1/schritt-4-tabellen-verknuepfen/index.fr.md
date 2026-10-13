@@ -19,9 +19,9 @@ Dans SeaTable, des colonnes de lien permettent de relier plusieurs tableaux entr
 
 Relier des enregistrements est l'une des fonctions centrales de SeaTable : c'est ce qui le distingue d'un tableur classique et lui donne la puissance d'une base de données relationnelle. Cela paraît complexe, mais vous allez voir par vous-même que ça ne l'est pas. Relier ses données présente trois grands avantages :
 
-- **Plus de clarté** : relier des tableaux donne à vos données une structure claire. Plutôt que de tout regrouper dans un seul tableau, au risque de répéter les mêmes informations, vous rangez les données liées entre elles, comme les dépenses et les catégories, dans des tableaux distincts. Vos données restent cohérentes, sans doublons.
-- **Des analyses plus souples** : les tableaux reliés permettent de croiser et d'analyser des données de provenances différentes. Vous pouvez par exemple analyser en un instant toutes les dépenses d'une catégorie ou d'un service.
-- **Une gestion plus simple** : une modification apportée dans un tableau se répercute automatiquement dans tous les tableaux qui lui sont reliés. Vos données restent à jour et cohérentes, sans avoir à les modifier à plusieurs endroits.
+- **plus de clarté** : relier des tableaux donne à vos données une structure claire. Plutôt que de tout regrouper dans un seul tableau, au risque de répéter les mêmes informations, vous rangez les données liées entre elles, comme les dépenses et les catégories, dans des tableaux distincts. Vos données restent cohérentes, sans doublons ;
+- **des analyses plus souples** : les tableaux reliés permettent de croiser et d'analyser des données de provenances différentes. Vous pouvez par exemple analyser en un instant toutes les dépenses d'une catégorie ou d'un service ;
+- **une gestion plus simple** : une modification apportée dans un tableau se répercute automatiquement dans tous les tableaux qui lui sont reliés. Vos données restent à jour et cohérentes, sans avoir à les modifier à plusieurs endroits.
 
 ## Étendre la structure de la base
 

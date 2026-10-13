@@ -56,15 +56,15 @@ Le cours est disponible en plusieurs langues, mais le quiz final, les captures d
 
 À la fin du cours, un quiz vous permet de tester vos nouvelles connaissances :
 
-- Le [quiz en anglais](https://tally.so/r/wk5BXr) mêle des questions à choix multiples et des questions sur la base que vous aurez construite au fil du cours.
-- Si vous le réussissez, vous obtiendrez un [badge sur votre profil du forum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Il s'affichera à côté de chacune de vos réponses sur le forum et montrera vos compétences à tous les autres utilisateurs.
-- Pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
+- le [quiz en anglais](https://tally.so/r/wk5BXr) mêle des questions à choix multiples et des questions sur la base que vous aurez construite au fil du cours ;
+- si vous le réussissez, vous obtiendrez un [badge sur votre profil du forum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Il s'affichera à côté de chacune de vos réponses sur le forum et montrera vos compétences à tous les autres utilisateurs ;
+- pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
 
 ## Avant de commencer {#before-you-start}
 
 Pour suivre ce cours en ligne, il vous faut :
 
-- **Un compte SeaTable** : sur n'importe quel système SeaTable. Le plus simple est de créer un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
+- **un compte SeaTable** : sur n'importe quel système SeaTable. Le plus simple est de créer un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
 
 Qu'attendons-nous ? C'est parti !
 
