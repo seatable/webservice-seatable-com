@@ -1,22 +1,23 @@
 ---
-title: 'Excel Alternative für Ihr Unternehmen | KI-gestützte Datenverwaltung'
+title: 'Excel-Alternative: die Datenbank, die sich wie eine Tabelle anfühlt'
 description: ''
 seo:
-    title: Beste Excel Alternative für Unternehmen | SeaTable Datenbank"
-    description: "Suchen Sie eine leistungsstarke Excel Alternative, die die Flexibilität einer Tabelle mit der Power einer Datenbank vereint. Jetzt testen"
+    title: 'Excel-Alternative für Teams: Datenbank mit Tabellenoberfläche | SeaTable'
+    description: 'Aus Excel herausgewachsen? SeaTable ist eine Datenbank, die sich wie eine Tabelle anfühlt: verknüpfte Tabellen statt SVERWEIS, gemeinsames Arbeiten, Rechte, Hosting in Deutschland.'
 date: '2025-03-30'
+lastmod: '2026-10-13'
 url: '/de/excel-alternative'
 
 sections:
     - name: hero-5
       weight: 1
-      title: Die moderne Excel-Alternative für Ihre Daten & effiziente Workflows
-      text: "Suchen Sie eine flexible Tabellenkalkulation, die mit Ihren Anforderungen mitwächst? SeaTable ist die moderne Excel-Alternative für private Alltagsprojekte ebenso wie für hochprofessionelle Business-Workflows. Verbinden Sie die intuitive Einfachheit einer Tabelle mit der Power einer relationalen Datenbank. Organisieren Sie Ihre Daten genau so, wie Sie es brauchen – flexibel, kollaborativ und absolut zukunftssicher. Starten Sie einfach kostenlos und zu 100 % DSGVO-konform."
+      title: Aus Excel herausgewachsen? Die Datenbank, die sich wie eine Tabelle anfühlt
+      text: "Wenn mehrere Leute dieselben Listen pflegen, Dateien in Versionen zerfallen und SVERWEISe brechen, ist eine Datenbank der nächste Schritt. SeaTable sieht aus wie eine Tabelle und arbeitet darunter wie eine Datenbank: feste Spaltentypen, verknüpfte Tabellen, gemeinsames Arbeiten in Echtzeit und Rechte für Ihr Team. Ohne Programmierung, mit Hosting in Deutschland oder auf Ihrem eigenen Server. Starten Sie kostenlos mit bis zu 25 Personen."
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
       buttons:
-          - label: Jetzt loslegen
+          - label: Jetzt kostenlos starten
             link: 'pages/registration'
             style: primary
           - label: Funktionen kennenlernen
@@ -24,38 +25,38 @@ sections:
 
     - name: 'content-4'
       weight: 2
-      title: Warum starre Tabellenraster Sie und Ihr Team ausbremsen
-      subtitle: Vorteile von SeaTable
-      text: 'Klassische Tabellenkalkulationen stoßen im modernen Alltag schnell an ihre Grenzen. Sobald mehrere Personen gleichzeitig an einer Datei arbeiten sollen, entstehen Versionskonflikte. Daten sind in isolierten Blättern gefangen, und komplexe Formeln wie der klassische SVERWEIS erweisen sich als fehleranfällig. Als **zukunftsweisende Excel-Alternative** bricht SeaTable diese starren Strukturen auf. Statt flacher Tabellen erstellen Sie eine relationale Datenbank, in der Sie **unterschiedliche Tabellen intelligent verknüpfen**. So bleibt Ihre Datenstruktur immer **sauber, übersichtlich und fehlerfrei** – ganz ohne Programmierkenntnisse.'
+      title: Woran Sie merken, dass Excel nicht mehr reicht
+      subtitle: Typische Anzeichen
+      text: 'Excel ist ein hervorragendes Werkzeug zum Rechnen und Auswerten. Schwierig wird es, wenn eine Tabelle zur gemeinsamen Datenbank eines Teams wird. Diese Anzeichen sprechen dafür, dass eine **Datenbank mit Tabellenoberfläche** besser passt:'
       items:
-          - icon: layer-group
-            headline: Flexibilität mit KI-Integration
-            text: 'Während Excel rein manuell bedient wird, automatisiert SeaTable Ihre Datenpflege. Nutzen Sie die KI-Funktionen, um Texte zu generieren, Daten zu klassifizieren oder komplexe Inhalte in Sekunden zusammenzufassen.'
-
-          - icon: sack-dollar
-            headline: Kosteneffizienz
-            text: 'SeaTable ist die ideale kostenlose Excel Alternative für kleine Teams. Starten Sie direkt ohne Lizenzkosten und erleben Sie, wie eine moderne Alternative Ihre Workflows automatisiert.'
-
           - icon: edit
-            headline: Echtzeit-Zusammenarbeit
-            text: 'Vergessen Sie Versionskonflikte in Excel beim Versenden von Dateien. Die alternative SeaTable ermöglicht Ihrem Team eine Echtzeit-Kollaboration an einer zentralen, intelligenten Datenquelle.'
-          
+            headline: Versionschaos
+            text: 'Mehrere Personen bearbeiten dieselbe Datei, Kopien kursieren per E-Mail, und niemand weiß, welche Fassung gilt. In SeaTable arbeiten alle gleichzeitig an derselben Datenbasis; Änderungen sind sofort für alle sichtbar.'
+
           - icon: link
-            headline: Relationale Datenbank-Power
-            text: 'Vergessen Sie fehleranfällige SVERWEIS-Formeln in Excel. Verknüpfen Sie Tabellen einfach per Klick. SeaTable ist eine echte relationale Datenbank, die Inkonsistenzen vermeidet und Daten intelligent strukturiert.'
+            headline: Brüchige SVERWEISe
+            text: 'Kunden, Aufträge und Rechnungen liegen in verschiedenen Blättern und werden über SVERWEIS zusammengeführt, bis jemand eine Zeile einfügt. In SeaTable verknüpfen Sie Datensätze direkt miteinander; die Verknüpfung hängt nicht an Zeilennummern.'
+
+          - icon: layer-group
+            headline: Doppelte und uneinheitliche Daten
+            text: 'Dieselbe Adresse steht in drei Listen, mal mit, mal ohne Postleitzahl. In SeaTable legt jede Spalte ihren Typ fest (Datum, Zahl, Auswahl, Person, Datei und mehr), und ein Datensatz wird einmal gepflegt und überall verknüpft.'
+
+          - icon: lock-open
+            headline: Jeder sieht alles
+            text: 'Eine Excel-Datei teilt man ganz oder gar nicht. In SeaTable legen Sie fest, wer welche Tabellen, Ansichten und Spalten sehen oder bearbeiten darf (ab dem Plus-Tarif).'
+
+          - icon: bell
+            headline: Abläufe von Hand
+            text: 'Erinnerungen, Statusänderungen und E-Mails laufen über Zuruf. In SeaTable übernehmen Automationen solche Schritte, schon im Free-Tarif mit 100 Ausführungen pro Monat und Nutzer.'
 
           - icon: check
-            headline: 100% DSGVO-konform
-            text: 'Suchen Sie eine DSGVO-konforme Excel-Alternative? Während herkömmliche Cloud-Lösungen wie Excel Online oft Datenschutzfragen aufwerfen, sichert SeaTable Ihre Daten durch Hosting in deutschen Rechenzentren zu 100 % ab.'
-
-          - icon: chart-line
-            headline: Einfacher CSV-Import
-            text: 'Haben Sie bereits unzählige Daten in alten Tabellen? Über den schnellen CSV-Import können Sie Ihre bestehenden Datensätze ganz einfach aus Excel importieren und direkt nahtlos weiterarbeiten.'
+            headline: Datenschutz
+            text: 'Personenbezogene Daten in Dateien auf Laufwerken und in Postfächern sind schwer zu kontrollieren. Daten in SeaTable Cloud werden ausschließlich in deutschen Rechenzentren verarbeitet; alternativ betreiben Sie SeaTable auf Ihrem eigenen Server.'
 
     - name: 'banner-1'
       weight: 3
-      title: "Der Wechsel ist kinderleicht - Jetzt kostenlos starten"
-      text: "Entdecken Sie, wie einfach, flexibel und sicher modernes Datenmanagement sein kann. Nutzen Sie SeaTable dauerhaft in unserem Free-Tarif für Ihre privaten Projekte oder testen Sie die erweiterten Business-Funktionen für Ihr Unternehmen."
+      title: "Probieren Sie es mit Ihrer eigenen Excel-Datei aus"
+      text: "Importieren Sie eine bestehende XLSX- oder CSV-Datei und sehen Sie in wenigen Minuten, wie Ihre Daten als Datenbank aussehen. Der Free-Tarif ist dauerhaft kostenlos."
       buttons:
           - label: Jetzt kostenlos testen
             link: pages/registration
@@ -66,36 +67,36 @@ sections:
       classes:
           - curved
           - bg-gray-100
-      title: Erstellen Sie maßgeschneiderte Datenbanken
-      subtitle: Vereinfachen Sie Ihr Datenmanagement
-      text: Viele Nutzer suchen eine Excel Alternative, weil herkömmliche Tabellenkalkulationen bei großen Datenmengen an ihre Grenzen stoßen. SeaTable bietet hier als Alternative zu Excel eine hochflexible relationale Datenbankstruktur **mit intelligenten Verknüpfungen**.
+      title: Was beim Umstieg von Excel passiert
+      subtitle: Von der Datei zur Datenbank
+      text: 'Der Umstieg ist kein Neuanfang. Sie übernehmen Ihre Daten, geben den Spalten einen festen Typ und ersetzen Querverweise durch Verknüpfungen.'
       items:
-          - headline: Daten intelligent organisieren
-            text: Nutzen Sie über 20 spezialisierte Spaltentypen, die weit über Text und Zahlen hinausgehen. Integrieren Sie **Mitarbeiter-Zuordnungen**, Checkboxen, Schaltflächen, Dateien oder Bilder direkt in Ihre Zeilen. So strukturieren Sie Ihre **Datenstruktur** professionell und schaffen eine zentrale Datenquelle **(Single Source of Truth)**, die herkömmliche Tabellenkalkulationen alt aussehen lässt.
+          - headline: Daten importieren
+            text: 'Importieren Sie XLSX- und CSV-Dateien als neue Base, als neue Tabelle oder in eine bestehende Tabelle ([Anleitung]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})). In SeaTable Cloud sind Dateien bis 100 MB und 50.000 Zeilen pro Import möglich. Eingebettete Grafiken und Querverweise werden nicht übernommen ([Grenzen beim Import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})).'
             image: /images/Excel-Alternative_Daten-effizient-organisieren.png
-            image_alt: 'SeaTable Tabellenansicht mit verschiedenen Spaltentypen zur effizienten Datenorganisation'
-          - headline: Intuitive Visualisierung
-            text: Erstellen Sie individuelle Ansichten Ihrer Daten, um wertvolle Erkenntnisse aus völlig unterschiedlichen Perspektiven zu gewinnen. Wechseln Sie mühelos zwischen Kalender, Kanban-Board, Gantt-Charts oder Bilder-Galerien. Diese **Datenvisualisierung** ermöglicht es Ihrem Team, Projekte visuell zu steuern, statt sich durch endlose, unübersichtliche Zeilen und Spalten quälen zu müssen.
+            image_alt: 'SeaTable Tabellenansicht mit verschiedenen Spaltentypen nach dem Import aus Excel'
+          - headline: Verknüpfungen statt SVERWEIS
+            text: 'Mit der [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) verweisen Sie von einem Auftrag auf den Kunden und die Produkte. Werte aus verknüpften Datensätzen holen und summieren Sie mit der Spalte „Formel für Verknüpfungen“ (Lookup, Rollup). Bestehende Daten verknüpfen Sie nach dem Import per [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}).'
             image: /images/Excel-Alternative_Ansichten.png
-            image_alt: 'Verschiedene SeaTable Ansichten wie Tabelle, Kalender, Kanban und Galerie im Überblick'
-          - headline: Erweiterte Datenverarbeitung
-            text: Führen Sie komplexe Analysen durch und lassen Sie sich von der integrierten KI dabei unterstützen, verborgene Trends in Ihren Pivot-Tabellen und Diagrammen zu identifizieren. SeaTable verwandelt Rohdaten in aussagekräftige **Dashboards und Berichte**, damit Sie fundierte Entscheidungen schneller treffen und Ihre Geschäftsabläufe **datenbasiert optimieren** können.
-            image: /images/Excel-Alternative_Datenverarbeitung.png
-            image_alt: 'SeaTable Oberfläche mit Diagrammen und Pivot-Tabellen für erweiterte Datenverarbeitung'
-          - headline: Kostenlose Vorlagen
-            text: Greifen Sie auf zahlreiche kostenlose Templates zurück, die speziell für verschiedene Fachbereiche entwickelt wurden. Optimieren Sie diese Vorlagen mit **smarten Skripten** sowie **maßgeschneiderten KI-Workflows** und digitalisieren Sie Ihre manuellen Prozesse in wenigen Minuten. Starten Sie sofort durch, statt wertvolle Zeit mit dem mühsamen Aufbau komplexer Tabellenstrukturen von Grund auf zu verschwenden.
-            image: /images/Excel-Alternative-Templates.png
-            image_alt: 'Auswahl an SeaTable Vorlagen als Excel Alternative für verschiedene Fachbereiche'
-          - headline: Filter- und Sortierfunktion
-            text: Dank leistungsstarker Filter- und Sortierfunktionen sowie automatischer Berechnungen behalten Sie selbst bei riesigen Datenmengen jederzeit den vollen Überblick. Erstellen Sie komplexe Abfragen und speichern Sie diese als eigene Ansichten ab, um fokussiert an genau den Informationen zu arbeiten, die für Ihren aktuellen Arbeitsschritt wirklich entscheidend sind. Über die offene API-Anbindung lassen sich diese gefilterten Daten zudem nahtlos an andere Tools übergeben.
+            image_alt: 'Verknüpfte Tabellen in SeaTable als Ersatz für SVERWEIS'
+          - headline: Formeln, aber pro Spalte
+            text: 'Formeln gibt es auch in SeaTable, sie gelten aber für eine ganze Spalte statt für einzelne Zellen. Das macht sie robuster, verlangt beim Umstieg aber ein Umdenken. Die wichtigsten Unterschiede erklärt der Artikel [Unterschiede zwischen Formeln in Excel und SeaTable]({{< relref "help/base-editor/formeln/unterschiede-zwischen-formeln-in-excel-und-seatable" >}}).'
             image: /images/Filterfunktionen.png
-            image_alt: 'SeaTable Tabelle mit Filter- und Sortierfunktionen zur fokussierten Datenanalyse'
+            image_alt: 'SeaTable Tabelle mit Formelspalte, Filter und Sortierung'
+          - headline: Ansichten und Auswertungen
+            text: 'Filtern, sortieren und gruppieren Sie wie gewohnt und speichern Sie jede Sicht als eigene Ansicht. Kalender, Kanban, Galerie und Zeitleiste zeigen dieselben Daten aus anderen Blickwinkeln; Diagramme und Pivot-Tabellen werten sie aus.'
+            image: /images/Excel-Alternative_Datenverarbeitung.png
+            image_alt: 'SeaTable Oberfläche mit Diagrammen und Pivot-Tabellen'
+          - headline: Kostenlose Vorlagen
+            text: 'Statt bei null anzufangen, nutzen Sie eine der kostenlosen Vorlagen für Projekte, Aufgaben, Personal, Termine oder Finanzen und passen sie an Ihre Daten an.'
+            image: /images/Excel-Alternative-Templates.png
+            image_alt: 'Auswahl an SeaTable Vorlagen für verschiedene Fachbereiche'
 
     - name: 'content-10'
       weight: 5
-      title: 'Automatisieren Sie Ihre Workflows mit KI'
-      subtitle: 'Integration & Intelligenz'
-      description: 'Verknüpfen Sie leistungsstarke Automatisierungen mit KI-Logi*, um manuelle Routineaufgaben endgültig zu eliminieren. Integrieren Sie Ihre bestehenden Tools oder nutzen Sie Python-Skripte und KI-Abfragen direkt in Ihrer Base.<br><br>In der Enterprise-Version definieren Sie komplexe Regeln, die Daten nicht nur verwalten, sondern proaktiv für Sie arbeiten lassen.'
+      title: 'Automationen und KI'
+      subtitle: 'Weniger Handarbeit'
+      description: 'Automationen erledigen wiederkehrende Schritte: Benachrichtigungen bei Fristen, Statuswechsel, neue Datensätze. Im Free-Tarif sind 100 Ausführungen pro Monat und Nutzer enthalten, im Plus-Tarif 500, im Enterprise-Tarif 5.000.<br><br>Mit **KI-Automationen** fassen Sie Texte zusammen, ordnen Einträge Kategorien zu, ziehen Angaben aus Dokumenten oder lesen Text aus Bildern. Mit einem eigenen Prompt kann die KI auch Kennzahlen eines Datensatzes einordnen und kommentieren. Für Fragen über ganze Tabellen, etwa „Wie verteilen sich die Anfragen nach Kategorie?“, gibt es den **KI-Chat** direkt in der Base. Dazu kommen Python- und JavaScript-Skripte sowie Integrationen mit Zapier, Make, n8n und die SeaTable API.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -114,139 +115,91 @@ sections:
 
     - name: 'content-2'
       weight: 7
-      title: Eine zentrale Datenquelle für Ihr gesamtes Team
-      subtitle: Synchrones Arbeiten ohne Dateisperren
-      description: Arbeiten Sie synchron mit Ihrem gesamten Team an Ihren Projekten, egal ob im Büro oder Remote. SeaTable stellt sicher, dass alle Beteiligten stets auf die aktuellste Datenbasis zugreifen. Durch intelligente Verknüpfungen und automatisierte Benachrichtigungen schaffen Sie eine dynamische Arbeitsumgebung, in der Informationen fließen, statt in Excel-Dateien zu verstauben.
+      title: Eine Datenbasis für das ganze Team
+      subtitle: Gemeinsam statt nacheinander
+      description: 'Alle arbeiten gleichzeitig an denselben Daten, im Büro wie unterwegs. Es gibt keine Dateisperren und keine Kopien, die auseinanderlaufen.'
       items:
-          - headline: Einfache Zusammenarbeit in Echtzeit
-            text: Arbeiten Sie simultan mit beliebig vielen Teammitgliedern an einer Datenbasis. SeaTable verhindert Versionskonflikte und Dateisperren, die bei herkömmlichen Excel-Lösungen im Arbeitsalltag oft entstehen.
+          - headline: Zusammenarbeit in Echtzeit
+            text: 'Mehrere Personen bearbeiten dieselbe Tabelle gleichzeitig; Änderungen erscheinen sofort bei allen. Im Free-Tarif arbeiten bis zu 25 Personen zusammen, in den anderen Tarifen beliebig viele.'
             icon: list-check
           - headline: Kommentare und Benachrichtigungen
-            text: Diskutieren Sie Änderungen direkt am Datensatz. Dank automatisierter Benachrichtigungen bleibt Ihr Team über wichtige Updates informiert, ohne mühsam E-Mails oder Chat-Nachrichten manuell versenden zu müssen.
+            text: 'Besprechen Sie Änderungen direkt am Datensatz und lassen Sie sich benachrichtigen, wenn sich etwas Wichtiges ändert.'
             icon: comment
-          - headline: Individuelle Berechtigungen
-            text: 'Steuern Sie präzise, wer spezifische Tabellen, Spalten und Zeilen sehen oder bearbeiten darf, um maximale Kontrolle und Sicherheit über Ihre Unternehmensdaten zu gewährleisten.'
+          - headline: Rechte für Tabellen, Ansichten und Spalten
+            text: 'Legen Sie fest, wer welche Tabellen, Ansichten und Spalten sehen oder bearbeiten darf, und sperren Sie Zeilen gegen Änderungen (ab dem Plus-Tarif). Sollen Personen nur bestimmte Datensätze sehen, etwa ihre eigenen, stellen Sie ihnen eine App mit voreingestellten Filtern bereit.'
             icon: lock-open
-          - headline: Intelligente Datenverknüpfung
+          - headline: Änderungen nachvollziehen
+            text: 'Wer wann was geändert hat, sehen Sie in den [Logs]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) der Base und jeder Zeile; einzelne Änderungen lassen sich dort rückgängig machen. Snapshots sichern zusätzlich den Stand Ihrer Base, je nach Tarif zwischen einem Monat und zwei Jahren.'
             icon: link
-            text: Verbinden Sie unterschiedliche Tabellen einfach per Mausklick miteinander. So vermeiden Sie doppelte Datenpflege und fehleranfällige Formeln, während Ihre Informationen stets aktuell und konsistent bleiben.
 
-    - name: 'content-16'
+    - name: 'content-13'
       weight: 8
-      title: Excel Alternative mit nahezu grenzenloser Flexibilität
-      subtitle: Warum SeaTable der ideale Excel Ersatz ist
-      description: SeaTable bietet eine Flexibilität, die weit über das hinausgeht, was Sie von Excel gewohnt sind. Unterschiedliche Datentypen und erweiterte Funktionen machen es zur idealen Wahl für komplexe Datenprojekte. **Organisieren und analysieren Sie Ihre Daten** mit einer ganz neuen Flexibilität, die Sie in einem Excel-Programm vergeblich suchen.
+      class:
+          - curved
+          - bg-gray-100
+      title: Wann Excel oder eine andere Lösung besser passt
+      subtitle: Ehrlich gesagt
+      description: 'SeaTable ersetzt Excel dort, wo eine Tabelle zur gemeinsamen Datenbank geworden ist. Nicht jede Excel-Datei gehört in eine Datenbank.'
       items:
-          - headline: Intuitive Bedienung
-            text: Dank der intuitiven Oberfläche und Vorlagen starten Sie ohne Schulung sofort durch. Die klare Struktur macht SeaTable zur idealen Excel Alternative für Einsteiger, die Datenbanken und Tabellen mit nur wenigen Klicks professionell erstellen und verwalten möchten.
-          - headline: Leistungsstarke Automatisierung
-            text: Optimieren Sie Ihre Workflows und automatisieren Sie wiederkehrende Aufgaben. SeaTable ermöglicht automatische Benachrichtigungen bei Terminüberschreitungen und führt komplexe Berechnungen eigenständig aus – eine zeitsparende Alternative zu Excel für effizientes Datenmanagement.
-          - headline: Echtzeit-Kollaboration
-            text: Profitieren Sie von umfassender Zusammenarbeit - Arbeiten Sie mit Ihrem Team in Echtzeit an derselben Datenbasis. SeaTable hält alle Beteiligten stets auf dem neuesten Stand und ermöglicht das mühelose Teilen von Tabellen und Datenbanken.
-          - headline: Skalierbarkeit
-            text: SeaTable wächst flexibel mit Ihrem Unternehmen. Passen Sie Ihre Datenbanken und Anwendungen jederzeit an sich verändernde Anforderungen an. So bietet Ihnen die Plattform stets die nötige Flexibilität für jede Unternehmensgröße.
+          - headline: Rechenmodelle und Makros
+            text: 'Finanzmodelle mit Zellbezügen kreuz und quer, Szenariorechnungen oder VBA-Makros sind die Stärke einer Tabellenkalkulation. Dafür bleiben Excel, LibreOffice Calc oder Google Sheets die bessere Wahl.'
+          - headline: Sehr große Datenmengen
+            text: 'Eine Base fasst im Free-Tarif 10.000 Zeilen, im Plus-Tarif 50.000 und im Enterprise-Tarif 100.000. Für mehr gibt es ab Enterprise den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), allerdings mit Einschränkungen, etwa ohne Echtzeit-Abgleich.'
+          - headline: Eigene Software mit Entwicklern
+            text: 'Baut ein Entwicklerteam eine eigene Anwendung, ist eine klassische SQL-Datenbank wie PostgreSQL oft die passendere Grundlage. SeaTable richtet sich an Fachabteilungen, die ohne Programmierung arbeiten wollen.'
+          - headline: Rechte pro Zeile in der Tabelle
+            text: 'Innerhalb einer Base gelten Rechte für Tabellen, Ansichten und Spalten, nicht für einzelne Zeilen. Wer nur seine eigenen Datensätze sehen soll, bekommt eine App statt Zugriff auf die Base.'
 
     - name: 'content-23'
       weight: 9
       title: Mobiler Zugriff
       subtitle: Seien Sie flexibel
-      text: Bearbeiten Sie Ihre Daten von überall aus. SeaTable bietet mobilen Zugriff, sodass Sie auch unterwegs auf Ihre Projekte zugreifen können.
+      text: Bearbeiten Sie Ihre Daten von überall aus. SeaTable läuft im Browser auf Smartphone und Tablet mit einer eigenen mobilen Oberfläche; für Android gibt es zusätzlich eine App.
       image: /images/SeaTable_de.png
-      image_alt: 'SeaTable Oberfläche auf mehreren Geräten für mobilen Zugriff und flexible Datennutzung'
-
-    - name: 'content-13'
-      weight: 10
-      class:
-          - curved
-          - bg-gray-100
-      title: Excel Alternative mit intuitiver Benutzeroberfläche
-      subtitle: Tabellen erstellen und organisieren
-      description: SeaTable bietet eine intuitive Benutzeroberfläche, die speziell für eine einfache Bedienung konzipiert wurde.
-      items:
-          - headline: Einfach zu bedienen
-            text: Die vertraute Tabellenansicht und die Drag-and-Drop-Funktion von SeaTable macht den Einstieg einfach, auch  für Excel-Anwender.
-          - headline: Vielfältige Ansichten
-            text: Nutzen Sie individuelle Ansichten und die Kanban-, Zeitleisten- oder Galerie-Ansicht, um ihre Daten zu strukturieren.
-          - headline: Benachrichtigungen
-            text: Definieren Sie Trigger, bei denen Sie oder Ihre Kollegen benachrichtigt werden oder Aufgabenstatus aktualisiert werden.
-          - headline: Farbliche Markierungen
-            text: Definieren Sie Regeln, nach denen einzelne oder mehrere Spalten farblich hervorgehoben werden, um eine bessere Übersicht zu gewährleisten.
-
-    - name: 'content-4'
-      weight: 11
-      title: Starten Sie mit unseren kostenlosen Vorlagen durch
-      subtitle: Was ist SeaTable?
-      text: Tabellen erstellen in Excel war gestern – SeaTable kombiniert Tabellenkalkulation, Datenbank und App-Builder in einer Plattform und bietet Ihnen damit umfassende Möglichkeiten für Ihr Datenmanagement. Nutzen Sie die zahlreichen Vorlagen, die SeaTable bietet, um schnell und effizient mit Ihren Projekten zu starten. Auf Grundlage dieser Vorlagen können Sie ganz einfach individuelle Dashboards erstellen, um Ihre Daten zu visualisieren, für weitere Analysen oder Reportings.
-      buttons:
-          - label: Jetzt ausprobieren
-            link: pages/registration
-            style: primary
-      gridheadline: Das neue Tool für ...
-      items:
-          - icon: bell
-            headline: Aufgabenverwaltung
-            text: 'Unser Template für Ihre Aufgabenplanung löst die herkömmliche To Do Liste aus Excel ab und hilft Ihnen, Ihre täglichen Aufgaben effizient zu verwalten und Ihre Produktivität zu steigern. SeaTable bietet eine benutzerfreundliche Oberfläche, die Sie einfach an Ihre spezifischen Anforderungen anpassen können. Entscheiden Sie, ob Sie unsere praktische To Do Liste Vorlage als Tabelle, Kanban oder Timeline nutzen möchten.'
-          - icon: chart-line
-            headline: Projektmanagement
-            text: 'Smarte Projektplanung braucht eine leistungsfähige Excel Alternative. Vergessen Sie starre Raster – nutzen Sie die Flexibilität von SeaTable als Ihren neuen Excel Ersatz für komplexe Projekte.'
-          - icon: people-group
-            headline: 'Personal- und Urlaubsplanung'
-            text: 'Verwalten Sie Ihre Personalressourcen mit SeaTable effizienter als mit der herkömmlichen Personalplanung in Excel. Unsere Vorlagen ermöglichen eine dynamische Verwaltung von Arbeitszeiten und Abwesenheiten und bieten Ihnen eine flexiblere Lösung für die Urlaubsplanung als Excel.'
-          - icon: edit
-            headline: Terminplanung
-            text: 'Mit SeaTable können Sie den Excel Terminplaner durch eine flexiblere Lösung ersetzen, die Ihnen hilft, Termine und Fristen zuverlässig zu verwalten und den Überblick über alle wichtigen Deadlines zu behalten.'
-          - icon: sack-dollar
-            headline: Buchhaltung
-            text: 'Unsere Templates aus dem Bereich Buchhaltung bieten Ihnen eine effektive Alternative zur Buchhaltung Vorlage in Excel und ermöglichen eine einfache Verwaltung Ihrer finanziellen Daten, sodass Sie Zeit sparen und Ihre Buchhaltungsprozesse optimieren können.'
-          - icon: building
-            headline: Finanzplanung
-            text: 'Ersetzen Sie den Excel-Finanzplan durch unsere leistungsstarken Templates aus diesem Bereich, die Ihnen helfen, Ihre Finanzen präzise zu planen, zu verwalten und über eine Visualisierung im Dashboard immer im Blick zu behalten. Diese Finanzplaner sind ideal, um Ihre finanziellen Prozesse zu optimieren und bieten mehr Flexibilität als herkömmliche Finanzplaner Excel-Vorlagen.'
+      image_alt: 'SeaTable Oberfläche auf mehreren Geräten für mobilen Zugriff'
 
     - name: 'content-3'
-      weight: 12
-      title: Eine No-Code Lösung, der Sie langfristig vertrauen können
-      subtitle: Cloud oder eigener Server
-      description: Mit SeaTable haben Sie die Wahl zwischen zwei leistungsfähigen Bereitstellungsoptionen für Ihr [Workflowmanagement]({{< relref "pages/landing-pages/industry-solutions/individual" >}}).
+      weight: 10
+      title: In der Cloud oder auf Ihrem eigenen Server
+      subtitle: Hosting nach Ihren Vorgaben
+      description: Sie entscheiden, wo Ihre Daten liegen.
       items:
           - headline: SeaTable Cloud
-            text: Profitieren Sie von der Flexibilität und Sicherheit einer modernen Cloud-Infrastruktur.
+            text: 'Sofort startklar, betrieben in deutschen Rechenzentren, mit Free-, Plus- und Enterprise-Tarif.'
             image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud Projektplan-Vorlage als Alternative zu Excel für moderne Projektplanung'
+            image_alt: 'SeaTable Cloud mit Projektplan-Vorlage'
           - headline: SeaTable Server
-            text: Volle Datenhoheit mit der On-Premises-Variante
+            text: 'Volle Datenhoheit: Sie betreiben SeaTable selbst, in Ihrem Rechenzentrum oder bei einem Hoster Ihrer Wahl.'
             image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server Maßnahmenplan-Vorlage für On-Premises-Datenverwaltung als Excel Alternative'
+            image_alt: 'SeaTable Server mit Maßnahmenplan-Vorlage für den Betrieb auf eigenen Servern'
 
     - name: 'banner-2'
-      weight: 13
-      title: Registrieren Sie sich kostenlos für SeaTable, um Ihre Prozesse auf ein neues Level zu heben
+      weight: 11
+      title: Registrieren Sie sich kostenlos und importieren Sie Ihre erste Excel-Datei
       buttons:
           - label: 'Jetzt registrieren und loslegen'
             link: 'pages/registration'
 
     - name: faq
-      weight: 14
-      title: FAQ – SeaTable als Excel Alternative
+      weight: 12
+      title: FAQ – von Excel zur Datenbank
       items:
+          - q: 'Ab wann lohnt sich eine Datenbank statt Excel?'
+            a: 'Sobald mehrere Personen dieselben Daten regelmäßig pflegen, Daten aus mehreren Listen über SVERWEIS zusammengeführt werden oder nicht jeder alles sehen soll. Für Berechnungen, die eine Person allein macht, bleibt eine Tabellenkalkulation meist das bessere Werkzeug.'
+          - q: 'Kann ich meine Excel-Dateien übernehmen?'
+            a: 'Ja. SeaTable importiert XLSX- und CSV-Dateien, in SeaTable Cloud bis 100 MB und 50.000 Zeilen pro Import. Nicht übernommen werden eingebettete Grafiken und Querverweise; Verknüpfungen zwischen Tabellen legen Sie nach dem Import an, auch automatisch per „Vergleichen und verknüpfen“. Die Daten aus Google Sheets übernehmen Sie auf demselben Weg.'
+          - q: 'Was wird aus meinen Formeln und SVERWEISen?'
+            a: 'Formeln werden beim Import nicht übernommen. In SeaTable gilt eine Formel für eine ganze Spalte, und SVERWEISe ersetzen Sie durch Verknüpfungen: Ein Auftrag verweist direkt auf den Kunden, und die Spalte „Formel für Verknüpfungen“ holt oder summiert Werte aus verknüpften Datensätzen.'
           - q: 'Kann ich SeaTable kostenlos nutzen?'
-            a: 'Ja, SeaTable bietet eine kostenlose Nutzung mit umfangreichen Grundfunktionen. Sie können **Tabellen kostenlos erstellen, Vorlagen nutzen** und von der intuitiven Benutzeroberfläche profitieren. Für erweiterte Funktionen, höhere API-Limits und die Nutzung von KI-Guthaben gibt es kostenpflichtige Abonnements, die zusätzlichen Mehrwert bieten.'
-          - q: 'Kann ich meine Daten aus Excel oder Google Spreadsheet nach SeaTable migrieren?'
-            a: 'Ja, Sie können Ihre Daten **problemlos nach SeaTable migrieren**. SeaTable unterstützt den Import von .xlsx- und .csv-Dateien, sodass Sie Ihre bestehenden Daten nahtlos übernehmen können. Einmal importiert, können Sie Ihre statischen Listen sofort mit intelligenten KI-Funktionen aufwerten und automatisieren.'
-          - q: 'Warum brauche ich eine Excel Alternative?'
-            a: Egal ob in der Softwareentwicklung, der Verwaltung oder im Marketing – in **allen Fachbereichen steigen die Anforderungen an ein intelligentes Datenmanagement** stetig an. Die Datenmengen und die notwendige Prozessautomatisierung übersteigen häufig die Möglichkeiten herkömmlicher Tabellenkalkulationen, wie Sie sie von Excel oder [Google Spreadsheet]({{< relref "posts/20250318-google-spreadsheet-alternative" >}}) kennen. Erweitern Sie Ihre Möglichkeiten und steigern Sie Ihre Produktivität mit unserer [KI-gestützten No-Code Plattform.]({{< relref "/" >}})<br><br>SeaTable bietet Ihnen mehr als nur eine Tabellenkalkulation. Als umfassende Lösung ermöglicht sie es Ihnen, komplexe Datenmodelle zu erstellen, Workflows per KI zu automatisieren und in Echtzeit mit Ihrem Team zusammenzuarbeiten. Vereinfachen Sie Ihre Arbeitsabläufe und gewinnen Sie wertvolle Zeit durch smarte Algorithmen, die Routineaufgaben für Sie erledigen. Starten Sie noch heute mit unserer Free-Version und erleben Sie die Vorteile eines modernen, flexiblen und effizienten Datenmanagements.
-          - q: Ist SeaTable besser für Projektmanagement geeignet als Excel?
-            a: Ja, definitiv. Nutzen Sie für Ihren nächsten Projektplan nicht Excel – sondern die KI-gestützten Möglichkeiten von SeaTable. Während Excel-Vorlagen bei komplexen Projekten schnell unübersichtlich werden, bietet SeaTable einen dynamischen Projektplan, der weit über herkömmliche Tabellen hinausgeht. Dank automatischer Benachrichtigungen, KI-basierter Aufgabenverteilung und Echtzeit-Dashboards verwalten Sie Aufgaben, Zeitpläne und Ressourcen deutlich effizienter als in jedem Spreadsheet.
-          - q: Kann ich SeaTable als Excel Alternative in der Personalabteilung nutzen?
-            a: "Personalplanung mit herkömmlichen Tabellenprogrammen ist oft mühsam und fehleranfällig. Besonders bei der Urlaubsplanung oder dem Recruiting stoßen Unternehmen schnell an funktionale Grenzen. SeaTable bietet eine effiziente und KI-gestützte Excel Alternative für eine moderne Personalverwaltung:
-            <ul>
-            <li>Erstellen Sie mit dem App-Builder mühelos ein sicheres Frontend für Ihre Mitarbeiterdaten</li>
-            <li>Nutzen Sie KI-Unterstützung, um Stellenausschreibungen zu formulieren oder Bewerbungen vorzusortieren</li>
-            <li>Erstellen Sie automatisierte Personal- und Urlaubsplanungen, die sich bei Änderungen in Echtzeit aktualisieren</li>
-            <li>Schützen Sie sensible Daten durch eine granulare Berechtigungsverwaltung, die in Excel so nicht möglich ist</li>
-            </ul>"
-          - q: Kann ich SeaTable auch als Datenanalyse-Tool verwenden?
-            a: Ja, auch hier ist SeaTable eine leistungsstarke Alternative zu Excel. Während Excel bei der Analyse großer Datenmengen oft langsam wird, bietet SeaTable eine performante Umgebung, um Daten zu strukturieren und per KI auszuwerten. Nutzen Sie SeaTable, um Daten mit wenigen Klicks zu transformieren und lassen Sie sich von der integrierten KI helfen, Muster oder Trends in Ihren Statistiken zu erkennen. Erleben Sie eine intuitive Datenanalyse, die bereits in der Basis-Version deutlich über die klassischen Features eines Spreadsheets hinausgeht.
-
+            a: 'Ja, der Free-Tarif ist dauerhaft kostenlos: bis zu 25 Personen, 10.000 Zeilen, 2 GB Speicher und 100 Automationen pro Monat und Nutzer. Der Plus-Tarif kostet 7 € pro Person und Monat bei jährlicher Zahlung, der Enterprise-Tarif 14 € (zzgl. MwSt.). Alle Details stehen auf der [Preisseite]({{< relref "pages/prices" >}}).'
+          - q: 'Wie viele Daten kann SeaTable verwalten?'
+            a: 'Eine Base fasst im Free-Tarif 10.000 Zeilen, im Plus-Tarif 50.000 und im Enterprise-Tarif 100.000; die Zahl der Bases ist nicht begrenzt. Ab Enterprise lässt sich der Big-Data-Speicher aktivieren, der Millionen Zeilen aufnimmt, dafür aber nicht in Echtzeit abgleicht.'
+          - q: 'Kann jeder Mitarbeiter nur seine eigenen Daten sehen?'
+            a: 'Nicht innerhalb der Base, dort gelten Rechte für Tabellen, Ansichten und Spalten. Dafür gibt es Apps: Sie bauen mit dem App-Builder eine Oberfläche mit voreingestellten Filtern, die App-Nutzer nicht ändern können, und geben nur diese App frei.'
+          - q: 'Kann SeaTable meine Daten mit KI auswerten?'
+            a: 'Ja, auf zwei Wegen. Im KI-Chat stellen Sie Fragen über eine ganze Tabelle in normaler Sprache, etwa nach Verteilungen oder Fristen. KI-Automationen bearbeiten jeden Datensatz einzeln: Sie fassen zusammen, ordnen zu oder kommentieren mit einem eigenen Prompt die Kennzahlen eines Datensatzes. Diagramme und Pivot-Tabellen erstellen Sie selbst im Statistik-Modul.'
+          - q: 'Ist SeaTable DSGVO-konform?'
+            a: 'Daten in SeaTable Cloud werden ausschließlich in deutschen Rechenzentren verarbeitet, laufend überwacht und regelmäßig gesichert. Wer die Daten nicht aus dem Haus geben möchte, betreibt SeaTable Server selbst. Einzelheiten stehen in der Datenschutzerklärung.'
           - q: 'Welche Excel-Alternativen gibt es außer SeaTable?'
-            a: 'Wer mehr als eine Tabellenkalkulation braucht, landet meist bei einer No-Code-Datenbank wie Airtable, SeaTable, Baserow, NocoDB oder Grist. Alle verbinden die vertraute Tabellenansicht mit verknüpften Tabellen, Formularen und Automationen. Wie sich diese Werkzeuge bei Preis, Hosting und Funktionen unterscheiden, zeigt unser [Vergleich der 8 besten Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}).'
+            a: 'Das hängt davon ab, was Sie ersetzen wollen. Suchen Sie eine andere Tabellenkalkulation, sind LibreOffice Calc, Google Sheets oder OnlyOffice gute Kandidaten. Brauchen Sie eine gemeinsame Datenbank mit Tabellenoberfläche, kommen No-Code-Datenbanken wie Airtable, SeaTable, Baserow, NocoDB oder Grist infrage. Wie sich diese bei Preis, Hosting und Funktionen unterscheiden, zeigt unser [Vergleich der Airtable-Alternativen]({{< relref "posts/airtable-alternativen" >}}).'
 ---
