@@ -3,7 +3,7 @@ title: 'Adventskalender selber machen: 24 Ideen zum Befüllen'
 description: 'Was es bei der Planung Ihres Vorhabens zu beachten gilt, womit Sie den Adventskalender befüllen und die Inhalte verpacken können und welche digitalen Alternativen es gibt, erfahren Sie in diesem Artikel.'
 seo:
     title: 'Adventskalender selber machen: Kreative Ideen & Anleitungen'
-    description: 'Lerne, wie du einen einzigartigen Adventskalender erstellen kannst. Entdecke inspirierende Vorschläge und detaillierte Beschreibungen für eine festliche Zeit'
+    description: 'Lernen Sie, wie Sie einen einzigartigen Adventskalender erstellen können. Entdecken Sie inspirierende Vorschläge und detaillierte Beschreibungen für eine festliche Zeit'
 color: '#264c41'
 categories:
     - 'best-practice'
@@ -31,9 +31,7 @@ Wenn Sie wissen möchten, woher die Tradition des Adventskalenders kommt, klicke
 
 Spätestens am 30. November muss der Adventskalender fertig sein. Damit dem nichts im Weg steht, hilft Ihnen folgende Planung:
 
-![Wie Sie in 5 Schritten Ihren Adventskalender planen.](five_steps_adventscalendar.jpg) 
-
-Diese Schritte führen zum Erfolg.
+![Wie Sie in 5 Schritten Ihren Adventskalender planen.](five_steps_adventscalendar.jpg "Diese Schritte führen zum Erfolg.") 
 
 ## 1\. Für wen ist der Adventskalender?
 
@@ -43,9 +41,7 @@ Bedenken Sie bei der Planung, **für wen** Sie den Adventskalender befüllen. De
 
 ![Kinder erfreuen sich besonders daran, jeden Tag ein Türchen zu öffnen.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
-Wird ein Türchen geöffnet, ist die Freude oft groß.
-
-Wenn Sie sich nicht sicher sind, was die zu beschenkende Person mag, scheuen Sie sich nicht unauffällig nachzuhaken. Schließlich bringt auch der ausgefeilteste Adventskalender nichts, wenn er der Person nicht gefällt.
+Wenn Sie sich nicht sicher sind, was die zu beschenkende Person mag, scheuen Sie sich nicht unauffällig nachzuhaken. Schließlich bringt auch der ausgefeilteste Adventskalender nichts, wenn er der Person nicht gefällt. Vielleicht nutzen Sie einfach eine [Wunschliste]({{< relref "templates/everyday-life/wish-list" >}}) für Ihre Liebsten.
 
 ## 2\. Gesamtes Budget bestimmen
 
@@ -63,9 +59,7 @@ Kommen wir zum Eingemachten. Wie Sie den Adventskalender selber befüllen, kommt
 
 Der **Schokoladen-Adventskalender** ist ohne Zweifel der Klassiker unter den Adventskalendern. Egal, ob als einfaches Täfelchen, in eine weihnachtliche Form gegossen oder als edle Praline – der Geschmack überzeugt! Möchten Sie jemandem eine Freude bereiten, der in der Adventszeit nicht auf Süßes verzichten möchte, können Sie mit selbst zusammengestellten Leckereien den Geschmack der Person treffen und auf abwechslungsreiche Weise einen Adventskalender selber machen.
 
-![Einen Adventskalender mit Schokolade zu befüllen, ist der Klassiker.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
-
-Schokolade selbst zu verzieren macht den Adventskalender einzigartig.
+![Einen Adventskalender mit Schokolade zu befüllen, ist der Klassiker.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg "Schokolade selbst zu verzieren macht den Adventskalender einzigartig.")
 
 Beschränken Sie sich nicht nur auf eine Süßigkeit, sondern variieren Sie. Von Fruchtgummi über Müsliriegel bis hin zu Lebkuchen können Sie alles kaufen, was das Herz begehrt. Darüber hinaus können Sie mit selbstgemachtem Gebäck oder Trinkschokolade am Stiel den Adventskalender befüllen. Die Mischung macht’s!
 
@@ -83,24 +77,19 @@ Für Menschen, die künstlerisch aktiv sind, bietet sich ein selbst zusammengest
 
 ![Kindern machen Sie eine Freude, indem Sie Bastelsachen schenken.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
-Es braucht nicht viel, um kreativ zu sein.
-
 Mögliche Kleinigkeiten, mit denen Sie den Adventskalender befüllen können, sind zum Beispiel Stifte, Farbtuben, Glitzerkleber, Kreide, Washi-Tape oder Schablonen.
 
 ### Für Poeten
 
 Sie sind ein Meister des Wortes und schmieden gerne Sätze? Dann verstecken Sie hinter den Türchen eine von Hand geschriebene weihnachtliche **Botschaft**, ein selbst geschriebenes **Gedicht** oder ein inspirierendes **Zitat**.
 
-„Oh, wie ist es schön, wenn Weihnachten ist. Ich wünschte nur, dass ein wenig öfter Weihnachten wäre.“  
-Astrid Lindgren
+> Oh, wie ist es schön, wenn Weihnachten ist. Ich wünschte nur, dass ein wenig öfter Weihnachten wäre. – Astrid Lindgren
 
 ### Für Puzzler
 
 Besonders **für Kinder** gilt beim Adventskalender befüllen: Je aufregender, desto besser. Bereiten Sie für Ihr Kind etwas vor, woran es länger Freude hat. Beispielweise ein Puzzle oder Lego-Set, bei dem jeden Tag ein Teilbereich zusammengesetzt wird.
 
 ![Lego-Sets gibt es auch in Adventskalenderform.](handcraft-8226964_640-e1718624762925.jpg)
-
-Schenken Sie Ihrem Kind etwas, woran es Freude hat.
 
 Eine zugegebenermaßen anspruchsvolle Idee ist das Konzipieren eines Rätsels, bei dem das Kind der Auflösung jeden Tag einen Schritt näherkommt. Wie eine Art Schnitzeljagd können Sie im Haus Hinweise verstecken und den Adventskalender interaktiv gestalten.
 
@@ -112,13 +101,11 @@ Verschenken Sie **gemeinsame Zeit** in Form von Gutscheinen, zum Beispiel für l
 
 Besonders einzigartig wirkt Ihr Geschenk, wenn Sie es mit einem symbolischen Gegenstand verbinden. Anstatt die Überraschung auf ein Blatt Papier zu schreiben, wie es wäre es mit einer Möhre als Symbol für das Bauen eines Schneemanns oder einem goldenen Ticket, das einen gemeinsamen Filmabend ankündigt?
 
-**24 Ideen für Ihren Adventskalender auf einen Blick**
+### 24 Ideen für Ihren Adventskalender auf einen Blick
 
 Eine Mischung aus verschiedenen Produkten sorgt für Spannung bis zur letzten Sekunde.
 
 ![24 Ideen zum Befüllen Ihres Adventskalenders.](gift_ideas_adventscalendar.jpg)
-
-Die Mischung macht’s.
 
 ## 4\. Passende Verpackungen suchen
 
@@ -137,9 +124,7 @@ Wie also die Geschenke verpacken? Das kommt erstmal darauf an, ob Sie einen einh
 
 Wenn Sie einen Adventskalender selber machen und alle Inhalte (z. B. Schokoriegel) ungefähr die gleiche Größe haben, können Sie Klopapierrollen bemalen und als Verpackung nutzen.
 
-![Der Klassiker der Verpackungen ist die Papiertüte.](pexels-nati-87264186-19312001-e1718886187213.jpg)
-
-Am einfachsten geht das Verpacken mit Papiertüten.
+![Der Klassiker der Verpackungen ist die Papiertüte.](pexels-nati-87264186-19312001-e1718886187213.jpg "Am einfachsten geht das Verpacken mit Papiertüten.")
 
 ### Nachhaltigkeit
 
@@ -164,6 +149,8 @@ Es gibt viel zu besorgen und wenig Zeit. Damit Sie alles, was Sie brauchen, auch
 ### Online planen, mit was Sie Ihre Adventskalender befüllen
 
 Gerade wenn Sie mehrere Adventskalender selber machen, kann es schnell chaotisch werden. Bei der Vorbereitung hilft Ihnen der individuell anpassbare [Online-Planer von SeaTable]({{< relref "templates/everyday-life/advent-calendar" >}}). Tragen Sie ein, was Sie für Ihre Adventskalender brauchen, und sehen Sie auf einen Blick, welche Mengen Sie kaufen müssen und hinter welchem Türchen Sie welche Geschenke verstecken.
+
+{{< template-box id="618993ff2f964dadb460" >}}
 
 Selbst wenn Sie ein Dutzend private Adventskalender befüllen, verlieren Sie durch die verschiedenen Ansichten, die nach Personen geordnet sind, nie den Überblick (Tabelle 2 & 3).
 

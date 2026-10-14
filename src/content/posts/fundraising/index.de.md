@@ -17,9 +17,9 @@ color: '#465b46'
 
 ## Was heißt Fundraising? Bedeutung und Definition
 
-Fundraising ist ein Begriff aus dem Englischen, der sich aus den Wörtern ***fund*** (Mittel) und ***raising*** (Beschaffung) zusammensetzt. Er steht für die organisierte und systematische Beschaffung von Ressourcen für bestimmte Zwecke oder Projekte. Dabei kann es sich um Sachzuwendungen, Geld sowie Dienstleistungen oder ehrenamtliche Mitarbeit handeln. Als Methode zur Kapitalbeschaffung können Sie es sowohl für **wohltätige** als auch für **unternehmerische** Zwecke nutzen.
+Fundraising ist ein Begriff aus dem Englischen, der sich aus den Wörtern ***fund*** (Mittel) und ***raising*** (Beschaffung) zusammensetzt. Er steht für die organisierte und systematische [Beschaffung]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) von Ressourcen für bestimmte Zwecke oder Projekte. Dabei kann es sich um Sachzuwendungen, Geld sowie Dienstleistungen oder ehrenamtliche Mitarbeit handeln. Als Methode zur Kapitalbeschaffung können Sie es sowohl für **wohltätige** als auch für **unternehmerische** Zwecke nutzen.
 
-Im Unternehmenskontext hat Fundraising Bedeutung als Alternative zu einem klassischen Bankkredit, um unternehmerische Projekte über Investoren oder Zuschüsse zu finanzieren. In der Regel wird der Begriff jedoch mit wohltätigen Zwecken in Verbindung gebracht, wo Spendengelder für **soziale Projekte** gesammelt werden. Dabei steht nicht die Erwartung einer direkten Gegenleistung seitens der Spender im Vordergrund, sondern vielmehr das Ziel, einen positiven Einfluss auf die Gesellschaft oder eine bestimmte Zielgruppe zu nehmen.
+Im Unternehmenskontext hat Fundraising Bedeutung als Alternative zu einem klassischen Bankkredit, um unternehmerische Projekte über [Investoren]({{< relref "posts/investitionsplan" >}}) oder Zuschüsse zu finanzieren. In der Regel wird der Begriff jedoch mit wohltätigen Zwecken in Verbindung gebracht, wo Spendengelder für **soziale Projekte** gesammelt werden. Dabei steht nicht die Erwartung einer direkten Gegenleistung seitens der Spender im Vordergrund, sondern vielmehr das Ziel, einen positiven Einfluss auf die Gesellschaft oder eine bestimmte Zielgruppe zu nehmen.
 
 ![Das Wort Fundraising steht in einem Heft mit Strichmännchen](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
@@ -36,7 +36,7 @@ Im Gegensatz dazu laufen Crowdfunding Kampagnen über einen festgelegten Zeitrau
 Maßnahmen und Kanäle zur Spendengewinnung lassen sich in zwei Bereiche unterscheiden: Offline Fundraising und Online Fundraising.
 
 ### Was ist Online Fundraising?
-Zum Online-Fundraising gehören alle Maßnahmen, die im Internet durchgeführt werden. Dazu zählen Social-Media-Kampagnen, Suchmaschinenmarketing sowie auch **Spendenplattformen** wie Betterplace oder GoFundMe, über die Projekte vorgestellt und Spenden gesammelt werden können. Im weitesten Sinn werden auch E-Mail-Marketing und Newsletter zu diesem Bereich gezählt. Durch Online-Aktionen erreichen Sie ein **breites Spektrum an Zielgruppen** und Altersgruppen zu geringeren Kosten und sprechen eine größere Anzahl potentieller Spender an.
+Zum Online-Fundraising gehören alle Maßnahmen, die im Internet durchgeführt werden. Dazu zählen [Social-Media-Kampagnen]({{< relref "posts/social-media-management" >}}), Suchmaschinenmarketing sowie auch **Spendenplattformen** wie Betterplace oder GoFundMe, über die Projekte vorgestellt und Spenden gesammelt werden können. Im weitesten Sinn werden auch E-Mail-Marketing und Newsletter zu diesem Bereich gezählt. Durch Online-Aktionen erreichen Sie ein **breites Spektrum an Zielgruppen** und Altersgruppen zu geringeren Kosten und sprechen eine größere Anzahl potentieller Spender an.
 
 ### Was ist Offline Fundraising?
 
@@ -62,7 +62,7 @@ Heutzutage wird die Spenderpyramide als Fundraising Modell aus verschiedenen Gr�
 
 ### Wie überzeugen Sie Spender?
 
-Um erfolgreich Mittel einzuwerben und Menschen von Ihrem Projekt zu überzeugen, ist eine direkte und **persönliche Ansprache** von entscheidender Bedeutung. Potenziellen Spendern sollte klar werden, wer Sie sind und für welches Projekt Sie Spenden suchen. Dabei ist es wichtig, dass Sie detaillierte Informationen bereitstellen, einschließlich des spezifischen Betrags, den Sie für Ihren festgelegten Zweck benötigen. Nutzen Sie dabei eine **emotionale und anschauliche Sprache**, um möglichst viele Interessenten von Ihrer Idee zu begeistern. Es lohnt sich, wenn Sie Zeit und Ressourcen investieren, um langfristige Beziehungen zu Ihren Spendern aufzubauen und aufrechtzuerhalten.
+Um erfolgreich Mittel einzuwerben und Menschen von Ihrem [Projekt]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) zu überzeugen, ist eine direkte und **persönliche Ansprache** von entscheidender Bedeutung. Potenziellen Spendern sollte klar werden, wer Sie sind und für welches Projekt Sie Spenden suchen. Dabei ist es wichtig, dass Sie detaillierte Informationen bereitstellen, einschließlich des spezifischen Betrags, den Sie für Ihren festgelegten Zweck benötigen. Nutzen Sie dabei eine **emotionale und anschauliche Sprache**, um möglichst viele Interessenten von Ihrer Idee zu begeistern. Es lohnt sich, wenn Sie Zeit und Ressourcen investieren, um langfristige Beziehungen zu Ihren Spendern aufzubauen und aufrechtzuerhalten.
 
 So wichtig die persönliche, emotionale Ansprache auch ist: Den Grundstein für erfolgreiche Fundraising Kampagnen legen Sie mit einer sorgfältigen Planung. Es ist kein Zufall, dass ein gut gemachtes Fundraising Konzept als Beispiel für eine [Marketingkampagne]({{< relref "posts/marketing-kampagne-planung/" >}}) dienen könnte. Denn letztlich ist es genau das und es gibt im Aufbau und den konzeptionellen Schritten keinen Unterschied:
 
@@ -86,7 +86,7 @@ Zwischen der ersten und zweiten Spende verlieren viele Non-Profit-Organisationen
 
 ## Wie können Spenden effektiv verwaltet werden?
 
-Zu jeder Fundraising Kampagne gehört auch Verwaltung: eingeworbene Mittel müssen erfasst, Spenderdaten verwaltet und **Spendenbescheinigungen** ausgestellt werden. Hierfür bietet sich die Nutzung einer speziellen Software an. **Fundraising Software** kombiniert Finanzverwaltung, **Spendermanagement**, [Eventplanung]({{< relref "posts/veranstaltung-verwalten" >}}) und Kampagnenplanung in einem System. Oft bieten solche Programme auch die Möglichkeit, direkt zu spenden und bieten dafür verschiedene Zahlungsarten. Die wichtigsten Vorteile sind:
+Zu jeder Fundraising Kampagne gehört auch Verwaltung: eingeworbene Mittel müssen erfasst, Spenderdaten verwaltet und **Spendenbescheinigungen** ausgestellt werden. Hierfür bietet sich die Nutzung einer speziellen Software an. **Fundraising Software** kombiniert [Finanzverwaltung]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), **Spendermanagement**, [Eventplanung]({{< relref "posts/veranstaltung-verwalten" >}}) und Kampagnenplanung in einem System. Oft bieten solche Programme auch die Möglichkeit, direkt zu spenden und bieten dafür verschiedene Zahlungsarten. Die wichtigsten Vorteile sind:
 
 - Effiziente Erfassung von Spenden und Spenderdaten
 - Individuelle Spenderansprache durch Analyse der Spenderhistorie und Erfassung von Präferenzen

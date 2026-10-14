@@ -13,23 +13,13 @@ seo:
     description: 'Die ultimative Festival‑Packliste: Essentials, Camping, Verpflegung, Kleidung, Hygiene & Planung – damit Ihr Erlebnis unvergesslich wird.'
 ---
 
-Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame Erlebnisse mit Freunden steigt, ist es wieder an der Zeit, das Gepäck zu schnüren. Damit Ihr Festivalbesuch reibungslos verläuft und nicht von Problemen und Ärgernissen überschattet wird, ist eine **gründliche Vorbereitung** entscheidend.
-
-Egal, ob Sie sich für das legendäre [Wacken](https://www.wacken.com/de/), das mitreißende [Rock am Ring](https://www.rock-am-ring.com) oder das energiegeladene [Hurricane](https://hurricane.de/) Festival rüsten – einige Must-haves sind auf jeder Festival Packliste Pflicht.
-
-![Festival Packliste: Mann trägt Frau auf Festival Huckepack](group-friends-having-fun-together-711x475.jpg)
-
-Festivals bringen Menschen zusammen und fördern das Gemeinschaftsgefühl.
-
 ## Die Festival Packliste
 
 Damit Sie alles auf einen Blick finden, ist die Festival Packliste in sechs übersichtliche Kategorien gegliedert. Zunächst werden die Essentials aufgeführt, die keinesfalls fehlen dürfen. Anschließend folgen die Camping-Ausrüstung, Verpflegungsgegenstände, Kleidung, Hygieneartikel und Arzneimittel sowie weitere Artikel, welche keiner Kategorie zugeordnet werden konnten.
 
 ### Essentials
 
-![Festival Packlist: Eine Menschenmenge vor einer Bühne](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
-
-Festivals ermöglichen den Zugang zu einem vielfältigen Musikprogramm.
+![Festival Packlist: Eine Menschenmenge vor einer Bühne](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg "Festivals ermöglichen den Zugang zu einem vielfältigen Musikprogramm.")
 
 Das Wichtigste für ein Festival ist selbstverständlich das **Festivalticket**. Deshalb sollten Sie, insbesondere wenn Sie eine lange Anreise haben, unbedingt sicherstellen, dass das Ticket auch wirklich dabei ist. Ebenso sollten Sie immer Ihren **Ausweis**, Ihre **Krankenkarte** und **Bargeld** mit sich führen.
 
@@ -49,9 +39,7 @@ Dinge, auf die Sie verzichten können oder die besonders teuer sind, sollten Sie
 
 ### Camping
 
-![Frau steht im Schlafsack vor ihrem Zelt](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
-
-Inmitten der lauten Umgebung sind die Nächte oft kurz.
+![Frau steht im Schlafsack vor ihrem Zelt](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg "Inmitten der lauten Umgebung sind die Nächte oft kurz.")
 
 Wenn Sie zum ersten Mal ein Festival besuchen und Ihre Camping-Ausstattung neu anschaffen müssen, sollten Sie sicherstellen, dass Ihr Zelt **ausreichend Platz** bietet, um all Ihre Sachen unterzubringen. Falls Sie bereits ein Zelt besitzen, überprüfen Sie vor der Abfahrt unbedingt, ob **genug Heringe** vorhanden sind und das Zelt **vollständig** ist. Denn es wäre ärgerlich, wenn Ihnen vor Ort eine Zeltstange fehlen würde.
 
@@ -71,9 +59,7 @@ Ein weiterer wichtiger Punkt auf Ihrer Festival Packliste ist ein **Pavillon**, 
 
 ### Verpflegung
 
-![Schale mit Müsli und Tasse stehen auf einem Stein](camping-lifestyle-with-food-711x637.jpg)
-
-Auf einem Festival benötigt man besonders viel Energie.
+![Schale mit Müsli und Tasse stehen auf einem Stein](camping-lifestyle-with-food-711x637.jpg "Auf einem Festival benötigt man besonders viel Energie.")
 
 Manche Festivals bieten ihren Besuchern kleine **Supermärkte auf dem Gelände** an. Informieren Sie sich im Voraus darüber, denn so müssen Sie nicht alles an Essen und Getränken von Anfang an dabei haben.
 
@@ -93,9 +79,7 @@ Ansonsten ist der Klassiker auf jeder Festival Packliste wohl Essen in **Konserv
 
 ### Kleidung
 
-![Eine Frau zeigt ihrem Partner etwas auf einem Festival](couple-standing-crowd-music-festival-711x481.jpg)
-
-Die richtige Kleidung ist die, in der Sie sich wohlfühlen.
+![Eine Frau zeigt ihrem Partner etwas auf einem Festival](couple-standing-crowd-music-festival-711x481.jpg "Die richtige Kleidung ist die, in der Sie sich wohlfühlen.")
 
 Obwohl sonniges **Wetter** vorhergesagt wurde, kann es plötzlich zu Regen kommen. Das Wetter ist nicht immer zuverlässig vorhersehbar, daher ist es wichtig, auf alle Eventualitäten vorbereitet zu sein. Stellen Sie sicher, dass sowohl Kleidung für sonnige und heiße Tage als auch für regnerische Tage auf Ihrer Festival Packliste steht.
 
@@ -115,9 +99,7 @@ Auf dem Festivalgelände kann es schnell **matschig** oder **staubig** werden, w
 
 ### Hygiene & Arznei
 
-![Bunte Dixi-Toiletten auf staubigem Boden](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
-
-Die Hygienesituation auf Festivals ist häufig nicht besonders komfortabel.
+![Bunte Dixi-Toiletten auf staubigem Boden](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg "Die Hygienesituation auf Festivals ist häufig nicht besonders komfortabel.")
 
 Für jegliche Hygieneartikel auf Ihrer Festival Packliste gilt grundsätzlich: **Reisegrößen** sind platzsparend und daher optimal. Eigenes **Toilettenpapier** mitzubringen erweist sich oft als lebensrettend, da es bei so vielen Festivalbesuchern in den Dixi-Toiletten oft Mangelware ist.
 
@@ -141,9 +123,7 @@ Generell sind die Wege auf einem Festival vom Zelt bis zur Stage oft lang. Desha
 
 ### Sonstiges
 
-![Freunde spielen zusammen Bierpong](front-view-women-playing-beer-pong-711x474.jpg)
-
-Zum Zeitvertreib werden auf dem Zeltplatz Spiele gespielt.
+![Freunde spielen zusammen Bierpong](front-view-women-playing-beer-pong-711x474.jpg "Zum Zeitvertreib werden auf dem Zeltplatz Spiele gespielt.")
 
 **Müllsäcke** sind nicht nur nützlich, um Ihr Camp sauber zu halten, sondern auch um leere Pfandflaschen zu sammeln oder bei Regen als Schutz vor Nässe zu dienen. Ein oft auf Festivals genutzter Retter in der Not ist außerdem das **Panzertape**, das sich als nützlich erweist, wenn Reparaturen an Zelt, Kleidung oder anderen Gegenständen erforderlich sind.
 
@@ -166,6 +146,8 @@ Zudem ist es sinnvoll, sich **mit Freunden abzusprechen**, um zu vermeiden, dass
 
 Im Vorfeld ist es ratsam, die **Richtlinien der Veranstalter** genau zu lesen. In den meisten Fällen sind Gegenstände wie Glasflaschen oder Holzkohlegrills nicht erlaubt. Diese werden am Eingang überprüft und Ihnen gegebenenfalls abgenommen.
 
+![Festival Packliste: Mann trägt Frau auf Festival Huckepack](group-friends-having-fun-together-711x475.jpg "Festivals bringen Menschen zusammen und fördern das Gemeinschaftsgefühl.")
+
 ### Rechtliches
 
 Neben den Regeln, die der Veranstalter für sein Privatgelände erlassen kann, gelten auf Festivals auch die allgemeinen Gesetze. Wer zum Beispiel ein Lagerfeuer entzündet, fremdes Eigentum beschädigt oder unter Drogeneinfluss Auto fährt, muss mit rechtlichen Konsequenzen rechnen. Damit Ihr Festivalbesuch nicht aus dem Ruder läuft und Sie mit Tausenden Menschen friedlich und sicher feiern können, sollten Sie sich an alle bestehenden Regeln halten.
@@ -175,6 +157,8 @@ Welche Gesetze auf Festivals in Deutschland gelten und welche Strafen bei Fehlve
 ## Der Festivalplaner von SeaTable
 
 Mit dem kostenlosen [Festivalplaner]({{< relref "templates/everyday-life/festival-planner" >}}) von SeaTable können Sie alle Live-Acts übersichtlich nach Tagen und Uhrzeiten ordnen, damit Sie keinen Ihrer Lieblingskünstler verpassen. Egal, ob Sie auf der Suche nach Headlinern oder aufstrebenden Newcomern sind – mit der intuitiven Übersicht behalten Sie stets den Überblick über das gesamte **Festivalprogramm**. Sehen Sie auf einen Blick, welche Acts Ihre Freunde besuchen möchten, und schließen Sie sich zusammen, um gemeinsam die besten Auftritte zu erleben.
+
+{{< template-box id="1aa1f7e441554bf6887b" >}}
 
 Mit der Möglichkeit, eine Festival Packliste mit Ihren Freunden zu teilen, können Sie sicherstellen, dass nichts unnötig doppelt mitgebracht wird und jeder genau weiß, wofür er zuständig ist. Durch die abhakbaren Checkboxen stellen Sie sicher, dass Sie nichts Wichtiges vergessen.
 

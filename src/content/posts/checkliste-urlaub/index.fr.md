@@ -17,7 +17,7 @@ tags:
 color: '#ffb04e'
 ---
 
-Les vacances d'été approchent et pour de nombreux vacanciers, cela signifie qu'il est temps de **faire ses valises**! Mais quel est exactement le bon moment pour faire sa valise ? Faites-vous partie de ceux qui, la nuit précédant le départ, rassemblent rapidement tout ce qu'il faut et le jettent dans le premier sac de voyage venu ? Ou préférez-vous planifier des semaines à l'avance ce qui doit figurer sur votre **check-list pour les vacances**?
+Les vacances d'été approchent et pour de nombreux vacanciers, cela signifie qu'il est temps de **faire ses valises** ! Mais quel est exactement le bon moment pour faire sa valise ? Faites-vous partie de ceux qui, la nuit précédant le départ, rassemblent rapidement tout ce qu'il faut et le jettent dans le premier sac de voyage venu ? Ou préférez-vous planifier des semaines à l'avance ce qui doit figurer sur votre **check-list pour les vacances** ?
 
 Cet article vous donne un aperçu complet de ce dont vous avez besoin pour votre prochain voyage de vacances et vous explique comment l'organiser au mieux sans oublier les choses essentielles. Que vous soyez un voyageur de dernière minute ou un planificateur prévoyant, vous trouverez ici une check-list détaillée pour vos vacances et de précieux conseils pour préparer votre voyage efficacement et sans stress.
 
@@ -35,7 +35,7 @@ Dans l'idéal, la préparation des valises proprement dite ne devrait avoir lieu
 
 ![Deux femmes préparent une valise pour un voyage](pexels-gabby-k-5330979-711x474.jpg)
 
-Une liste de colisage permet de structurer la procédure d'emballage.
+Une liste de bagages permet de structurer la préparation de la valise.
 
 ## Les avantages d'une check-list bien conçue pour vos vacances
 
@@ -55,7 +55,7 @@ Une préparation minutieuse de vos vacances implique bien plus qu'une simple che
 
 - **Documents de voyage et visa :** Pour voyager dans des pays lointains, vous avez besoin d'un passeport en cours de validité et éventuellement d'un visa. Vérifiez à temps la validité de votre passeport et renseignez-vous sur les conditions de visa de votre destination.
 - **Vaccins et santé :** Si vous prévoyez des vacances d'aventure dans des régions exotiques, vérifiez votre carnet de vaccination à l'avance et faites mettre à jour les vaccins nécessaires contre les maladies rares en Europe. Renseignez-vous sur les vaccins recommandés ou obligatoires pour votre destination.
-- **Assurance à l'étranger :** Une assurance voyage est indispensable pour être couvert en cas de maladie ou d'autres urgences. Comparez différentes offres et choisissez une assurance qui correspond à vos besoins.
+- **Assurance voyage à l'étranger :** Une assurance voyage est indispensable pour être couvert en cas de maladie ou d'autres urgences. Comparez différentes offres et choisissez une assurance qui correspond à vos besoins.
 
 ![Check-list vacances : une femme apprécie la vue depuis sa chambre d'hôtel](pexels-elina-sazonova-1838554-711x474.jpg)
 
@@ -74,13 +74,13 @@ Décidez comment vous allez vous déplacer (location de voiture, transports en c
 
 ### Derniers préparatifs le jour du départ
 
-Le jour du départ est enfin arrivé et vous êtes prêt à partir, les valises faites, prêt à partir en vacances. Il vous reste maintenant quelques détails à régler pour ne pas avoir de mauvaises surprises après les vacances.
+Le jour du départ est enfin arrivé et vous êtes prêt à partir en vacances, valises bouclées. Il vous reste maintenant quelques détails à régler pour ne pas avoir de mauvaises surprises au retour.
 
 - Videz le réfrigérateur, le lave-vaisselle et la poubelle afin d'éviter la formation de moisissures et d'odeurs désagréables.
-- Vérifier que toutes les fenêtres et portes sont bien fermées.
-- Éteignez l'eau, le chauffage, les lampes et les appareils électriques.
+- Vérifiez que toutes les fenêtres et portes sont bien fermées.
+- Coupez l'eau et le chauffage, éteignez les lampes et les appareils électriques.
 - Assurez-vous que les documents importants et les objets de valeur sont bien rangés.
-- Informez une personne de confiance (par exemple un voisin ou un ami) de votre absence et donnez-lui une clé pour qu'elle puisse se rendre sur place en cas d'urgence. Si vous en avez convenu au préalable, cette personne peut également arroser vos plantes ou nourrir vos petits animaux.
+- Informez une personne de confiance (par exemple un voisin ou un ami) de votre absence et donnez-lui une clé pour qu'elle puisse vérifier le logement en cas d'urgence. Si vous en avez convenu au préalable, cette personne peut également arroser vos plantes ou nourrir vos petits animaux.
 
 ## Les incontournables à ajouter à votre check-list de vacances
 
@@ -88,21 +88,17 @@ Imaginez que les vacances tant attendues approchent et que vous ayez à portée 
 
 ### Documents
 
-Entretoise
-
 - Passeport
 - Carte d'identité
 - Permis de conduire
 - Carnet de vaccination
 - Visa
 
-Entretoise
-
 - Carte d'assurance maladie
 - Assurance maladie à l'étranger
 - Carte de crédit/débit et argent liquide
 - Billets d'avion
-- Dossier d'hôtel/de location de voiture
+- Documents d'hôtel/de location de voiture
 
 ![Check-list vacances : passeport, billets d'avion et autres documents](convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
 
@@ -110,15 +106,11 @@ Vous pouvez photocopier les documents importants avant de partir en vacances afi
 
 ### Vêtements
 
-Entretoise
-
 - Pull-over
 - Veste
 - Pantalons
 - T-shirts
 - Selon les vacances, maillots de bain, vêtements de ski, etc.
-
-Entretoise
 
 - Casquettes/bonnets
 - Pyjama
@@ -132,41 +124,33 @@ Avant de partir, vérifiez le temps qu'il fera sur votre lieu de voyage.
 
 ### Hygiène
 
-Entretoise
-
 - Brosse à cheveux ou peigne
 - Déodorant
 - Shampoing et gel douche
 - Rasoir
 - Brosse à dents et dentifrice
 
-Entretoise
-
 - Matériel de maquillage
 - Articles d'hygiène féminine
 - Contraceptifs
 - Désinfectant
-- Serviettes de bain
+- Serviettes
 
 ![Les produits d'hygiène : Savon et serviettes pour la check-list vacances](pexels-karolina-grabowska-4210373-711x474.jpg)
 
 Renseignez-vous à l'avance pour savoir si les serviettes et autres articles de toilette sont inclus afin de gagner de la place.
 
-### Médicament
-
-Entretoise
+### Médicaments
 
 - Antidouleurs
 - Médicaments contre la diarrhée
 - Antipyrétique
-- Comprimés de voyage
+- Comprimés contre le mal des transports
 - Crème solaire
-
-Entretoise
 
 - Pansements (pour ampoules)
 - Anti-moustiques
-- Carte à tiques
+- Carte tire-tique
 - Médicaments personnels
 
 ![Médicaments et fruits pour la santé](pexels-darina-belonogova-7208650-711x517.jpg)
@@ -175,32 +159,24 @@ Pour être paré à toute éventualité en vacances, pensez à une petite pharma
 
 ### Électronique
 
-Entretoise
-
 - Téléphone portable
-- Casque d'écoute
+- Écouteurs
 - Ordinateur portable
 
-Entretoise
-
 - Câble de recharge
-- Caméra
+- Appareil photo
 
 ![Check-list vacances : un appareil photo drapé esthétiquement en pièces détachées](pexels-alex-andrews-271121-821652-711x431.jpg)
 
 Veillez à ranger les appareils électroniques de manière sûre, de sorte que rien ne puisse se casser.
 
-### Autres
-
-Entretoise
+### Divers
 
 - Clé
 - Masque de sommeil
 - Bouchons d'oreilles
 
-Entretoise
-
-- lunettes (de soleil) ou lentilles de contact
+- Lunettes (de soleil) ou lentilles de contact
 - Provisions de voyage
 - Livre
 
@@ -236,7 +212,9 @@ Utilisez des formats de voyage pour les produits d'hygiène afin de gagner de la
 
 ## Conclusion : partir en vacances en toute sérénité avec votre check-list
 
-Que vous ayez été un préparateur de dernière minute ou un planificateur prévoyant, vous pourrez désormais partir en vacances sans stress inutile et avec tous les éléments essentiels dans vos bagages. Le [modèle gratuit]({{< relref "templates/everyday-life/travel-planner" >}}) de SeaTable vous fera gagner un temps précieux et vous permettra de préparer efficacement et sans stress vos vacances à venir.
+Que vous ayez fait vos valises à la dernière minute par le passé ou que vous ayez toujours planifié à l'avance, vous pourrez désormais partir en vacances sans stress inutile et avec tous les éléments essentiels dans vos bagages. Le [modèle gratuit]({{< relref "templates/everyday-life/travel-planner" >}}) de SeaTable vous fera gagner un temps précieux et vous permettra de préparer efficacement et sans stress vos vacances à venir.
+
+{{< template-box id="836031683b7e4df489a2" >}}
 
 Dans le modèle, vous trouverez non seulement une check-list de vacances adaptable de manière flexible avec toutes les choses à faire, mais aussi d'autres fonctions utiles : Rassemblez toutes les idées et les lieux que vous souhaitez visiter, créez un calendrier clair et visualisez tous les emplacements de vos activités prévues sur une carte. Vous pouvez également conserver tous les merveilleux souvenirs que vous avez eus pendant votre voyage, ajouter des photos et noter où et quand ces moments particuliers ont eu lieu.
 
