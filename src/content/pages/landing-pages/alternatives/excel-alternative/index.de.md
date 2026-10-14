@@ -74,23 +74,23 @@ sections:
           - headline: Daten importieren
             text: 'Importieren Sie XLSX- und CSV-Dateien als neue Base, als neue Tabelle oder in eine bestehende Tabelle ([Anleitung]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})). In SeaTable Cloud sind Dateien bis 100 MB und 50.000 Zeilen pro Import möglich. Eingebettete Grafiken und Querverweise werden nicht übernommen ([Grenzen beim Import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})).'
             image: /images/landing_page_excel_alternative_01.png
-            image_alt: ''
+            image_alt: 'Dateitypen in SeaTable: Tabelle, Dokument, PDF, Präsentation, Bild und Video'
           - headline: Verknüpfungen statt SVERWEIS
             text: 'Mit der [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) verweisen Sie von einem Auftrag auf den Kunden und die Produkte. Werte aus verknüpften Datensätzen holen und summieren Sie mit der Spalte „Formel für Verknüpfungen“ (Lookup, Rollup). Bestehende Daten verknüpfen Sie nach dem Import per [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}).'
             image: /images/landing_page_excel_alternative_02.png
-            image_alt: ''
+            image_alt: 'Funktionen der Formel für Verknüpfungen: lookup, countlinks, rollup, findmin und findmax'
           - headline: Formeln, aber pro Spalte
             text: 'Formeln gibt es auch in SeaTable, sie gelten aber für eine ganze Spalte statt für einzelne Zellen. Das macht sie robuster, verlangt beim Umstieg aber ein Umdenken. Die wichtigsten Unterschiede erklärt der Artikel [Unterschiede zwischen Formeln in Excel und SeaTable]({{< relref "help/base-editor/formeln/unterschiede-zwischen-formeln-in-excel-und-seatable" >}}).'
             image: /images/landing_page_excel_alternative_03.png
-            image_alt: ''
+            image_alt: 'Formel-Editor in SeaTable: {Budget} - {Spent} berechnet die Differenz für jede Zeile'
           - headline: Ansichten und Auswertungen
             text: 'Filtern, sortieren und gruppieren Sie wie gewohnt und speichern Sie jede Sicht als eigene Ansicht. Kalender, Kanban, Galerie und Zeitleiste zeigen dieselben Daten aus anderen Blickwinkeln; Diagramme und Pivot-Tabellen werten sie aus.'
             image: /images/landing_page_excel_alternative_04.png
-            image_alt: ''
+            image_alt: 'Filter und Gruppierung in einer SeaTable-Ansicht: Status ist „Applied“ oder „Visited“'
           - headline: Kostenlose Vorlagen
             text: 'Statt bei null anzufangen, nutzen Sie eine der kostenlosen Vorlagen für Projekte, Aufgaben, Personal, Termine oder Finanzen und passen sie an Ihre Daten an.'
             image: /images/landing_page_excel_alternative_05.png
-            image_alt: ''
+            image_alt: 'Kostenlose SeaTable-Vorlagen, u. a. Projektplan, To-do-Liste und Maßnahmenplan'
 
     - name: 'content-10'
       weight: 5
