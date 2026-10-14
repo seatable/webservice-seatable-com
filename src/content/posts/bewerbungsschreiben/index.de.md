@@ -15,19 +15,9 @@ tags:
 color: '#add899'
 ---
 
-Egal, ob Praktikum, Ausbildung oder Festanstellung – der erste Schritt auf dem Weg zum Traumjob ist immer eine erfolgreiche **Bewerbung**. Sie haben viele interessante **Stellenangebote** gefunden, doch das Schreiben der Bewerbungen bereitet Ihnen Kopfzerbrechen? Keine Sorge, damit sind Sie nicht allein. Für viele ist das **Bewerbungsschreiben** ein großes Hindernis, denn es erfordert eine ehrliche Selbsteinschätzung und ist mit einer aufwändigen Formulierung der eigenen Fähigkeiten verbunden.
+## Warum ist ein Bewerbungsschreiben wichtig?
 
-Doch der Arbeitsaufwand lohnt sich, denn nur ein gelungenes Bewerbungsschreiben öffnet Ihnen die Türen zu einem persönlichen **Vorstellungsgespräch** und bringt Sie einen Schritt näher zu Ihrem **Traumjob**. Im Folgenden erfahren Sie, worauf Sie beim Schreiben Ihrer Bewerbung achten sollten.
-
-{{< warning headline="Tipp" >}}
-
-Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier]({{< relref "templates/everyday-life/application-cover-letter" >}}) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können.
-
-{{< /warning >}}
-
-## Warum ein Bewerbungsschreiben wichtig ist
-
-Das Bewerbungsschreiben ist ein fester Bestandteil jeder Bewerbung. Während Sie im **Lebenslauf** Ihre **Hard Skills** unterbringen, widmen Sie Ihr Anschreiben Ihren **Soft Skills**. Diese haben in den letzten Jahren immer mehr an Bedeutung gewonnen, weswegen auch das persönliche Bewerbungsschreiben im Auswahlverfahren mehr in den Fokus gerückt ist.
+Nur ein gelungenes Bewerbungsschreiben öffnet Ihnen die Türen zu einem persönlichen **Vorstellungsgespräch** und bringt Sie einen Schritt näher zu Ihrem **Traumjob**. Daher ist das Bewerbungsschreiben ein fester Bestandteil jeder Bewerbung. Während Sie im **Lebenslauf** Ihre **Hard Skills** unterbringen, widmen Sie Ihr Anschreiben Ihren **Soft Skills**. Diese haben in den letzten Jahren immer mehr an Bedeutung gewonnen, weswegen auch das persönliche Bewerbungsschreiben im Auswahlverfahren mehr in den Fokus gerückt ist.
 
 {{< warning headline="Hard versus Soft Skills" text="Unter Hard Skills fällt das gesamte fachliche Wissen, welches Sie sich durch Arbeit, Praktika oder Freizeitaktivitäten angeeignet haben. [Soft Skills](https://www.karriereakademie.de/soft-skills) hingegen fassen Eigenschaften zusammen, welche Ihre Persönlichkeit ausmachen." />}}
 
@@ -39,11 +29,9 @@ Bevor Sie mit dem Schreiben starten, sollten Sie ein **Informationsblatt** anleg
 
 ![Recherchieren Sie mit Ihrem Computer im Internet, um Informationen über das Unternehmen zu sammeln.](pexels-pixabay-39284-1-e1713177205489.jpg)
 
-Bedienen Sie sich bei Ihrer Recherche an verschiedenen Quellen.
-
 Dabei hilft Ihnen ein strukturiertes Vorgehen, relevante Informationen herauszuarbeiten und später nicht zu ausschweifend zu schreiben. Das Anschreiben basiert auf Ihren **Bewerbungsunterlagen**. Diese sollten Sie vorher zusammenstellen und gegebenenfalls an die Stellenausschreibung anpassen.
 
-### Relevante Qualifikationen finden in sechs Schritten
+### Relevante Qualifikationen finden in 6 Schritten
 
 1. Lesen Sie sich die Stellenausschreibung aufmerksam durch und schreiben Sie auf, welche **Anforderungen** an Sie gestellt werden.
 2. Gleichen Sie das Anforderungsprofil mit **Ihren Zeugnissen, Kenntnissen und Erfahrungen** ab. Suchen Sie nach Übereinstimmungen, welche Sie für die Stelle qualifizieren, und ergänzen Sie wichtige Qualifikationen in Ihrem Lebenslauf, wenn Sie diese noch nicht genannt haben.
@@ -56,11 +44,9 @@ Aus diesen Fragen soll hervorgehen, was **Ihre Persönlichkeit** ausmacht und wa
 
 ![Verschiedene Hard- und Soft Skills sind für ein Bewerbungsschreiben relevant.](Bewerbungsschreiben_01-e1713776827650-711x549.png)
 
-Verbinden Sie die erlernten Soft Skills mit den dazugehörigen Hard Skills.
-
-6. Schreiben Sie in die linke Tabellenspalte all Ihre **Hard Skills**. Dazu gehören neben beruflichen Erfahrungen vor allem Abschlüsse, Praktika, Fremdsprachen- und Computerkenntnisse, aber auch ehrenamtliches Engagement.
-7. In die rechte Spalte kommen **Soft Skills**, welche Sie während Ihrer Tätigkeiten erworben oder ausgebaut haben. Dazu zählen zum Beispiel Teamgeist, Begeisterungsfähigkeit oder Durchsetzungsvermögen.
-8. Markieren Sie nun, welche Kompetenzen in der Stellenausschreibung erwähnt wurden und dementsprechend in Ihrem Bewerbungsschreiben einen Platz erhalten sollten.
+4. Schreiben Sie in die linke Tabellenspalte all Ihre **Hard Skills**. Dazu gehören neben beruflichen Erfahrungen vor allem Abschlüsse, Praktika, Fremdsprachen- und Computerkenntnisse, aber auch ehrenamtliches Engagement.
+5. In die rechte Spalte kommen **Soft Skills**, welche Sie während Ihrer Tätigkeiten erworben oder ausgebaut haben. Dazu zählen zum Beispiel Teamgeist, Begeisterungsfähigkeit oder Durchsetzungsvermögen.
+6. Markieren Sie nun, welche Kompetenzen in der Stellenausschreibung erwähnt wurden und dementsprechend in Ihrem Bewerbungsschreiben einen Platz erhalten sollten.
 
 Alle Qualifikationen, welche Sie nicht als **bewerbungsrelevant** markiert haben, können Sie zur Seite legen. Seien Sie dabei konsequent und streichen Sie auch Informationen, welche zwar etwas Positives über Sie aussagen, aber nicht zur Stelle passen.
 
@@ -68,7 +54,9 @@ Alle Qualifikationen, welche Sie nicht als **bewerbungsrelevant** markiert haben
 
 ## Bewerbungsübersicht anlegen
 
-Damit Sie auf der Jobsuche nicht den Überblick darüber verlieren, wo Sie sich wann und mit welchen Unterlagen beworben haben, sollten Sie eine Tabelle anlegen. Um die von Ihnen ausgearbeiteten Informationen und Dokumente immer griffbereit zu haben, bietet SeaTable Ihnen eine [strukturierte Bewerbungsübersicht]({{< relref "templates/everyday-life/application-cover-letter" >}}). Sehen Sie auf einen Blick alle Ihre Bewerbungen und die dazugehörigen Unterlagen und erleichtern Sie sich das Erstellen von Anschreiben mit dem **Seitendesign**.
+Damit Sie auf der Jobsuche nicht den Überblick darüber verlieren, wo Sie sich wann und mit welchen Unterlagen beworben haben, sollten Sie eine Tabelle anlegen. Um die von Ihnen ausgearbeiteten Informationen und Dokumente immer griffbereit zu haben, bietet SeaTable Ihnen eine strukturierte Bewerbungsübersicht. Sehen Sie auf einen Blick alle Ihre Bewerbungen und die dazugehörigen Unterlagen und erleichtern Sie sich das Erstellen von Anschreiben mit dem **Seitendesign**.
+
+{{< template-box id="2671e798b8924aeb8957" >}}
 
 Wenn Sie SeaTable für Ihren Bewerbungsplaner nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier]({{< relref "templates/everyday-life/application-cover-letter" >}}).
 
@@ -77,8 +65,6 @@ Wenn Sie SeaTable für Ihren Bewerbungsplaner nutzen möchten, [registrieren]({{
 Bevor Sie mit dem Formulieren Ihrer Bewerbung beginnen, gilt es, ein **einheitliches Design** für alle Ihre Bewerbungsunterlagen festzulegen. Damit sieht Ihre Bewerbung nicht nur auf den ersten Blick stimmiger aus, sondern Sie vermitteln, dass Sie **ordentlich** und **sauber** arbeiten.
 
 ![Suchen Sie eine passende Schriftart, Zeilenabstand und Schriftgröße aus.](markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
-
-Suchen Sie eine passende Schriftart und achten Sie auf Schriftgröße, Zeilenabstand und Seitenrand.
 
 Wie Sie Ihre Unterlagen gestalten, ist dabei voll und ganz Ihnen überlassen, denn es gibt kein vorgegebenes Format. Achten Sie jedoch darauf, dass Ihre Schrift gut leserlich ist und dass Sie das Bewerbungsschreiben übersichtlich strukturieren. Im Folgenden finden Sie einige Empfehlungen:
 
@@ -96,13 +82,11 @@ Der Aufbau eines Bewerbungsschreibens sieht immer gleich aus und lässt sich in 
 
 ![Die perfekte Struktur Ihres Anschreibens besteht aus sechs Schritten.](Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
 
-Folgen Sie der Struktur und füllen Sie diese mit Inhalt.
-
 ## Briefkopf
 
 Der Briefkopf wird klassischerweise verwendet, wenn Sie Ihr Bewerbungsschreiben per Post verschicken. Aber auch bei einer Online-Einreichung sollten Sie Ihrem Anschreiben einen Briefkopf hinzufügen. Dieser enthält Ihre **Kontaktdaten** sowie die **Adresse** des Unternehmens und den **Empfänger**, an den Sie Ihre Bewerbung schicken. Achten Sie darauf, dass Sie die Adressdaten, so wie in der Abbildung gezeigt, in der richtigen Reihenfolge angeben.
 
-Die Adresse sollte in jedem Fall fehlerfrei und lückenlos sein. Überprüfen Sie, ob der **Firmenname** vollständig ist. Um unnötige Fehler zur vermeiden, übernehmen Sie die Schreibweise des Unternehmens von der Webseite. Der **Name Ihres Ansprechpartners** sollte stimmen und wenn angegeben mit akademischem Titel genannt werden.
+Die Adresse sollte in jedem Fall fehlerfrei und lückenlos sein. Überprüfen Sie, ob der **Firmenname** vollständig ist. Um unnötige Fehler zu vermeiden, übernehmen Sie die Schreibweise des Unternehmens von der Webseite. Der **Name Ihres Ansprechpartners** sollte stimmen und wenn angegeben mit akademischem Titel genannt werden.
 
 {{< warning headline="So finden Sie den richtigen Ansprechpartner" text="Nicht immer steht in der **Stellenanzeige** der Name Ihres Ansprechpartners dabei. Diesen sollten Sie bestenfalls jedoch ausfindig machen. Auf den **Job- oder Karriere-Seiten des Unternehmens** finden Sie meist einen Kontakt. Sollte das nicht der Fall sein, können Sie den Namen auch telefonisch erfragen." />}}
 
@@ -119,8 +103,6 @@ Darunter folgt mit zwei bis drei Leerzeilen Abstand die **Betreffzeile**. Diese 
 Bevor Sie die Möglichkeit haben, inhaltlich mit Ihren Qualifikationen zu glänzen, gilt es, die Aufmerksamkeit Ihres Ansprechpartners zu gewinnen. Sprechen Sie diesen **persönlich** mit Namen an und verwenden Sie nur im Notfall die unpersönliche Bezeichnung _Damen und Herren_, wenn Ihnen niemand namentlich bekannt ist. Wählen Sie bei konservativeren Unternehmen eine klassische **Anrede** wie _Sehr geehrte Frau XY_, um Ihr Anliegen höflich einzuleiten. Bei Start-ups können Sie auch eine informelle Anrede wie _Hallo liebes Marketing-Team, liebe Frau XY_ ausprobieren.
 
 ![Schreiben Sie höflich, denn Sie wollen sich und Ihre Fähigkeiten in Ihrem Anschreiben gut verkaufen.](monitor-376211_640-e1713177612297.jpg)
-
-Schreiben Sie höflich, um bei Ihrem Gegenüber einen guten ersten Eindruck zu erwecken.
 
 Der erste Eindruck zählt. Daher sollten Sie sich mit dem **ersten Satz** in Ihrem Bewerbungsschreiben besonders intensiv beschäftigen. Denn dieser soll das **Interesse wecken** und entscheidet darüber, ob der Personaler Ihre Bewerbung weiterliest. Sätze wie _Hiermit bewerbe ich mich auf die Stelle XY_ sollten Sie dabei auf jeden Fall vermeiden, da diese für den Personaler keine relevanten Informationen über Sie als Person liefern.
 
@@ -172,8 +154,6 @@ Möchten Sie sich im Rahmen eines Schüler- oder Hochschulpraktikums bewerben, s
 
 ![Mit ehrenamtlichen Tätigkeiten lassen sich Soft Skills beweisen.](ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
 
-Zeigen Sie anhand eines Ehrenamtes Ihr soziales Engagement.
-
 Außerdem interessiert sich Ihr Ansprechpartner für Ihre **Motivation**. Warum wollen Sie genau für dieses Unternehmen arbeiten? Was erhoffen Sie sich von dem Einblick in die Praxis? Zeigen Sie, was Sie begeistert.
 
 ### Initiativbewerbung
@@ -193,8 +173,6 @@ Inhaltlich steht Ihre Bewerbung und Sie wollen ihr den letzten Schliff verpassen
 Achten Sie auf Ihren Schreibstil und die von Ihnen verwendeten Formulierungen.
 
 ![Ihr Anschreiben können Sie mit der Beachtung von Dos und Don'ts aufwerten.](Bewerbungsschreiben_02-e1713776597515-711x575.png)
-
-Achten Sie auf angemessene Formulierungen.
 
 Um Selbstbewusstsein auszudrücken, verwenden Sie Aktivsätze und sprechen Personen direkt an. Achten Sie darauf, Ihr Anschreiben individuell zu gestalten und sich selbst treu zu bleiben.
 
@@ -232,8 +210,10 @@ Bevor Sie Ihre Bewerbung abschicken, sollten Sie diese final **Korrektur lesen**
 - Haben Sie Ihre einzigartige Persönlichkeit genügend herausgearbeitet?
 - Kann der Personaler beurteilen, welchen Mehrwert Sie dem Unternehmen bringen und ob Sie sich mit der Kultur identifizieren?
 
-## Fazit
+## Nutzen Sie ein Planungstool für Ihre Bewerbungen
 
-Dem Schreiben Ihrer nächsten erfolgreichen Bewerbung steht nun nichts mehr im Wege. Damit Sie auch bei mehreren Bewerbungen nicht den Überblick über Ihre Unterlagen verlieren, hat SeaTable einen [Online-Bewerbungsplaner]({{< relref "posts/bewerbungsschreiben" >}}) für Sie erstellt. Dieser hilft Ihnen Ihre nächsten Schritte zu planen, Dokumente zu ordnen und immer auf dem neuesten Stand im Bewerbungsprozess zu bleiben.
+Dem Schreiben Ihrer nächsten erfolgreichen Bewerbung steht nun nichts mehr im Wege. Damit Sie auch bei mehreren Bewerbungen nicht den Überblick über Ihre Unterlagen verlieren, hat SeaTable einen [Online-Bewerbungsplaner]({{< relref "templates/everyday-life/application-cover-letter" >}}) für Sie erstellt. Dieser hilft Ihnen Ihre nächsten Schritte zu planen, Dokumente zu ordnen und immer auf dem neuesten Stand im Bewerbungsprozess zu bleiben.
 
-Wenn Sie SeaTable für Ihre Bewerbungsübersicht nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier]({{< relref "templates/everyday-life/application-cover-letter" >}}).
+{{< template-box id="2671e798b8924aeb8957" >}}
+
+Wenn Sie SeaTable für Ihre Bewerbungsübersicht nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos.

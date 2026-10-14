@@ -56,7 +56,7 @@ Thorough preparation for your vacation involves more than just the vacation chec
 
 - **Travel documents and visa:** You will need a valid passport and possibly a visa to travel to distant countries. Check the validity of your passport in good time and find out about the visa requirements for your destination.
 - **Vaccinations and health:** If you are planning an adventure vacation in exotic regions, you should check your vaccination record in good time and have any necessary vaccinations against diseases that are rare in Europe updated. Find out about recommended or mandatory vaccinations for your destination.
-- **Foreign travel insurance:** Travel insurance is essential to be covered in the event of illness or other emergencies. Compare different offers and choose an insurance policy that meets your needs.
+- **Travel health insurance abroad:** Travel insurance is essential to be covered in the event of illness or other emergencies. Compare different offers and choose a policy that meets your needs.
 
 ![Vacation checklist: A woman enjoys the view from her hotel room](pexels-elina-sazonova-1838554-711x474.jpg)
 
@@ -69,7 +69,7 @@ Travel insurance that covers medical care abroad and trip interruption for healt
 - **Local laws and driving license:** Check whether you need an international driving license in your destination country and familiarize yourself with the local laws. Some countries have stricter regulations (e.g. rules of conduct in public places) that you must observe.
 - **Travel preparations on site:** Little things like booking a parking space at the airport or ensuring mobile accessibility abroad can have a significant impact on your vacation mood. Make sure that everything is well organized.
 
-![Glasses on a map](eyeglasses-8227429_1280-711x533.jpg)
+![A pair of glasses on a map](eyeglasses-8227429_1280-711x533.jpg)
 
 Decide how you will get around (rental car, public transport, etc.) and book in advance if necessary.
 
@@ -81,7 +81,7 @@ The day of departure has finally arrived and you are ready to go on vacation wit
 - Check that all windows and doors are securely locked.
 - Switch off the water, heating, lamps and electrical appliances.
 - Make sure that important documents and valuables are stowed away.
-- Inform a trusted person (e.g. neighbors, friends) of your absence and give them a key so that they can check on you in an emergency. If previously agreed, this person can also water your plants or feed small animals.
+- Inform a trusted person (e.g. neighbors, friends) of your absence and give them a key so that they can check on your home in an emergency. If previously agreed, this person can also water your plants or feed small pets.
 
 ## Must-haves that belong on your vacation checklist
 
@@ -90,13 +90,13 @@ Imagine your long-awaited vacation is just around the corner and you have a perf
 ### Documents
 
 - Passport
-- Identity card
+- ID card
 - Driver's license
 - Vaccination certificate
 - Visa
 
 - Health insurance card
-- International health insurance
+- Travel health insurance abroad
 - Credit/EC card and cash
 - Flight tickets
 - Hotel/rental car documents
@@ -113,8 +113,8 @@ You can copy important documents before your vacation so that you are covered in
 - T-shirts
 - Depending on your vacation, swimwear, ski clothing, etc.
 
-- Caps/Caps
-- Pyjamas
+- Hats/caps
+- Pajamas
 - Socks and underwear
 - Shoes
 - Dresses/skirts
@@ -128,11 +128,11 @@ Check what the weather will be like at your destination before you travel.
 - Hairbrush or comb
 - Deodorant
 - Shampoo and shower gel
-- Shaver
+- Razor
 - Toothbrush and toothpaste
 
-- Make-up utensils
-- Feminine hygiene articles
+- Makeup
+- Feminine hygiene products
 - Contraceptives
 - Disinfectant
 - Towels
@@ -141,17 +141,17 @@ Check what the weather will be like at your destination before you travel.
 
 Find out in advance whether towels and other toiletries are included to save space.
 
-### Drug
+### Medication
 
 - Painkillers
 - Diarrhea medication
 - Fever reducer
-- Travel tablets
-- Sun cream
+- Motion sickness tablets
+- Sunscreen
 
-- (Blister) plaster
+- Band-aids (for blisters)
 - Mosquito repellent
-- Tick card
+- Tick removal card
 - Personal medication
 
 ![Medication and fruit for your health](pexels-darina-belonogova-7208650-711x517.jpg)
@@ -167,18 +167,18 @@ To be prepared for anything on vacation, you should think about a small first-ai
 - Charging cable
 - Camera
 
-![Vacation checklist: A camera that has been aesthetically draped in individual parts](pexels-alex-andrews-271121-821652-711x431.jpg)
+![Vacation checklist: A camera artfully taken apart and arranged in individual parts](pexels-alex-andrews-271121-821652-711x431.jpg)
 
 Make sure you store electronic devices safely so that nothing can break.
 
 ### Miscellaneous
 
-- key
+- Keys
 - Sleep mask
 - Earplugs
 
-- (Sunglasses) glasses or contact lenses
-- Travel provisions
+- (Sun)glasses or contact lenses
+- Travel snacks
 - Book
 
 ![Vacation checklist: A woman sleeps with a sleep mask](pexels-cottonbro-6863349-711x512.jpg)
@@ -187,7 +187,7 @@ You can make long flights more comfortable with sleep masks and earplugs.
 
 ## Adapt the checklist to your vacation
 
-As every trip has different requirements, it is important that your checklist can be flexibly adapted to your vacation. On a **summer vacation**, you will need light clothing, sun protection and swimwear, while warm clothing and snow gear are important on **a winter vacation**. The type of accommodation also influences the packing list: Fewer basics are needed in **hotels**, while basic food and kitchen utensils are useful in **vacation apartments**.
+As every trip has different requirements, it is important that your checklist can be flexibly adapted to your vacation. On a **summer vacation**, you will need light clothing, sun protection and swimwear, while warm clothing and snow gear are important on a **winter vacation**. The type of accommodation also influences the packing list: Fewer basics are needed in **hotels**, while staple foods and kitchen utensils are useful in **vacation apartments**.
 
 The type of vacation also plays a decisive role. For a **city break**, comfortable shoes and a practical rucksack for **day trips** are essential, while a **wellness vacation** requires relaxed clothing and swimwear for the spa area. Adventure travelers should also include outdoor equipment on their vacation checklist.
 
@@ -195,7 +195,7 @@ A flexible checklist for your vacation also allows you to react to last-minute c
 
 ![Vacation checklist: View of a sunset from an airplane](pexels-stefanstefancik-127905-711x513.jpg)
 
-Whether beach utensils or winter sports equipment - you need different things depending on your vacation.
+Whether beach gear or winter sports equipment - you need different things depending on your vacation.
 
 ## The best tips for packing your suitcase
 
@@ -205,15 +205,17 @@ If your checklist for your vacation is extensive, it can be a challenge to fit e
 - **Use packing cubes:** These small, lightweight bags help organize your clothes and accessories and make the most of the space in your suitcase.
 - **Rolling instead of folding:** Rolling clothes not only saves space, but also reduces creases so your clothes stay smooth.
 - **Prepare for the way back:** Also think about the way back and leave some space for souvenirs and other things you buy during your vacation.
-- **Keep essentials to hand:** Keep important documents, charging cables and a small first aid kit in an easily accessible compartment. This means you have everything you need to hand immediately.
+- **Keep essentials on hand:** Keep important documents, charging cables and a small first aid kit in an easily accessible compartment. This way you have everything important within immediate reach.
 
 ![A suitcase lies on a hotel bed](pexels-ketut-subiyanto-4246101-711x522.jpg)
 
-Use travel sizes for toiletries to save space and comply with fluid restrictions on flights.
+Use travel sizes for toiletries to save space and comply with liquid restrictions on flights.
 
 ## Conclusion: Relaxed on vacation with your checklist
 
 Whether you were a last-minute packer in the past or a forward-thinking planner - in future you can start your vacation without unnecessary stress and with all the essentials in your luggage. SeaTable's [free template]({{< relref "templates/everyday-life/travel-planner" >}}) will save you valuable time and make your travel preparations for your upcoming vacation efficient and stress-free.
+
+{{< template-box id="836031683b7e4df489a2" >}}
 
 In the template you will not only find a flexibly customizable vacation checklist with all to-dos, but also other useful functions: Collect all the ideas and places you want to visit, create a clear schedule and visualize all the locations of your planned activities on a map. You can also capture all the wonderful memories during your trip, add photos and note where and when these special moments took place.
 

@@ -4,10 +4,12 @@ description: 'Gestión de carteras de proyectos, gestión de carteras de product
 seo:
     title: 'Gestión de carteras: Mantenga la visión de conjunto | SeaTable'
     description: 'Gestión de carteras de proyectos o gestión de carteras de productos: en este artículo aprenderá cómo su gestión de carteras siempre tiene éxito'
-fecha: 2025-03-27
-categorías:
+date: 2025-03-27
+categories:
     - 'best-practice'
 tags:
+    - 'Gestión de proyectos'
+    - 'Finanzas'
 color: '#bba9d3'
 url: '/es/gestion-de-portafolio'
 aliases:
@@ -18,7 +20,11 @@ aliases:
 
 Una cartera agrupa un conjunto de objetos relacionados entre sí. Puede tratarse de objetos de inversión como valores y propiedades, por ejemplo, pero también de la cartera de proyectos o productos de una empresa. Por tanto, la gestión de carteras se centra en la **composición rentable, la gestión y el desarrollo posterior de una cartera**.
 
-**Nota**: La palabra cartera (que en latín significa "portador de hojas", de _portare_ "llevar" y _folium_ "hoja") procede de las artes visuales, donde se refiere a una carpeta que contiene referencias y obras especiales. Ya en el Renacimiento, artistas y arquitectos utilizaban portafolios para solicitar encargos y ser admitidos en academias. En su significado original, el portafolio se sigue utilizando hoy en día en los ámbitos artístico y educativo.
+{{< warning headline="Nota sobre el origen de la palabra" >}}
+
+La palabra cartera o portafolio (en latín, "portador de hojas", de _portare_ "llevar" y _folium_ "hoja") procede de las artes visuales, donde se refiere a una carpeta que contiene referencias y obras especiales. Ya en el Renacimiento, artistas y arquitectos utilizaban portafolios para solicitar encargos y ser admitidos en academias. En su significado original, el portafolio se sigue utilizando hoy en día en los ámbitos artístico y educativo.
+
+{{< /warning >}}
 
 ## Tipos de gestión de carteras
 
@@ -31,20 +37,24 @@ A continuación echamos un vistazo a las áreas más importantes en las que la g
 
 La gestión de carteras le ofrece numerosas ventajas en todos los ámbitos.
 
-### ¿Qué ventajas le ofrece la gestión de carteras?
+## ¿Qué ventajas le ofrece la gestión de carteras?
 
 - **Transparencia**: Ya se trate de proyectos, productos, TI o finanzas: con una cartera, puede hacer un seguimiento del estado actual y crear claridad sobre lo que ocurre en su empresa. Esto evita que varios empleados trabajen en los mismos temas en paralelo y sin coordinación.
 - **Coherencia estratégica**: ¿Por qué hacemos esto? La gestión de carteras examina si algo está en consonancia con la estrategia corporativa y contribuye a los objetivos generales. Así se garantiza que todas las actividades de la empresa estén coordinadas y sean coherentes en su conjunto.
-- **Eficiencia de los recursos**: Dado que recursos como el presupuesto, el personal y el tiempo son limitados, hay que utilizarlos con eficiencia. La gestión de carteras le ayuda a priorizar los asuntos de su empresa en función de su importancia estratégica para lograr los mejores resultados posibles.
-- **Seguimiento y control**: Los indicadores clave de rendimiento, los calendarios y los planes de costes fluyen juntos en una cartera para que tenga todos los avances en pantalla, pueda reconocer las desviaciones inmediatamente y reaccionar con rapidez a los cambios.
+- **Eficiencia de los recursos**: Dado que recursos como el [presupuesto]({{< relref "posts/20250606-budgetplanung" >}}), el [personal]({{< relref "posts/personalplanung" >}}) y el tiempo son limitados, hay que utilizarlos con eficiencia. La gestión de carteras le ayuda a priorizar los asuntos de su empresa en función de su importancia estratégica para lograr los mejores resultados posibles.
+- **Seguimiento y control**: Los indicadores clave de rendimiento, los calendarios y los planes de costes fluyen juntos en una cartera para que tenga todos los avances a la vista, pueda reconocer las desviaciones inmediatamente y reaccionar con rapidez a los cambios.
 
 ![Seguimiento en la gestión de carteras](Portfoliomanagement.jpg)
 
 ## Gestión de la cartera de proyectos
 
-La gestión de la cartera de proyectos (PPM) se encarga de la **gestión global, la planificación y el control de todos los proyectos** interrelacionados de una empresa. Sobre todo, pretende garantizar que los recursos se distribuyan de forma óptima y que los proyectos se prioricen de tal manera que apoyen mejor los objetivos estratégicos de la empresa. La gestión de la cartera de proyectos es, por tanto, una tarea permanente que se repite cíclicamente y requiere la evaluación de muchos proyectos. Esta es la mayor diferencia con la [gestión de proyectos] normal ({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), que suele terminar con la finalización de proyectos individuales.
+La gestión de la cartera de proyectos (PPM) se encarga de la **gestión global, la planificación y el control de todos los proyectos** interrelacionados de una empresa. Sobre todo, pretende garantizar que los recursos se distribuyan de forma óptima y que los proyectos se prioricen de tal manera que apoyen mejor los objetivos estratégicos de la empresa. La gestión de la cartera de proyectos es, por tanto, una tarea permanente que se repite cíclicamente y requiere la evaluación de muchos proyectos. Esta es la mayor diferencia con la [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) normal, que suele terminar con la finalización de proyectos individuales.
 
-**Nota**: En las grandes empresas y administraciones públicas, suele existir un departamento independiente para la gestión de la cartera de proyectos: la **Oficina de Gestión de Proyectos (PMO)**.
+{{< warning headline="Nota" >}}
+
+En las grandes empresas y administraciones públicas, suele existir un departamento independiente para la gestión de la cartera de proyectos: la **Oficina de Gestión de Proyectos (PMO)**.
+
+{{< /warning >}}
 
 ### Tareas y pasos importantes en la gestión de la cartera de proyectos
 
@@ -56,9 +66,9 @@ El primer paso es, por tanto, registrar **todos los proyectos en curso, previsto
 
 #### 2\. Analizar y evaluar los proyectos
 
-Gracias a la gestión de carteras, es fácil comparar, analizar y evaluar los proyectos actuales, previstos y potenciales. Por ejemplo, puede comparar los **valores netos de caja** de los proyectos a lo largo de un periodo de tiempo determinado. Esto le permite determinar la rentabilidad de las inversiones en relación con los gastos actuales y los ingresos futuros previstos.
+Gracias a la gestión de carteras, es fácil comparar, analizar y evaluar los proyectos actuales, previstos y potenciales. Por ejemplo, puede comparar los **valores actuales netos** de los proyectos a lo largo de un periodo de tiempo determinado. Esto le permite determinar la rentabilidad de las inversiones en relación con los gastos actuales y los ingresos futuros previstos.
 
-También puede utilizar un **modelo de puntuación** para llevar a cabo una evaluación estratégica de los proyectos basada en criterios ponderados. Podría ser el siguiente
+También puede utilizar un **modelo de puntuación** para llevar a cabo una evaluación estratégica de los proyectos basada en criterios ponderados. Podría ser así:
 
 ![Modelo de puntuación estratégica para la gestión de carteras](Strategic-Scoring-Model.jpg 'Multiplique la prioridad del objetivo por el factor de la intensidad con la que cree que el proyecto contribuye al objetivo. Si suma los resultados de todos los objetivos, obtendrá la puntuación estratégica del proyecto. Esto le permite comparar la importancia de los distintos proyectos para su empresa.')
 
@@ -70,17 +80,17 @@ Dentro de una cartera de proyectos, muchos de ellos compiten por la **atención 
 
 #### 4\. Comunicación y decisión sobre las solicitudes de proyectos
 
-Una de tus tareas centrales como gestor de cartera es evaluar los **proyectos propuestos** en función de si pueden contribuir a alcanzar los objetivos de la organización y en qué medida, y de cuántos recursos ocuparían. Como los recursos suelen ser limitados, en la gestión de la cartera de proyectos hay que sopesar qué proyectos son preferibles a otros. Una vez que ha priorizado los proyectos, toma la decisión de aprobar o rechazar la **ejecución de un proyecto** y de programarlo pronto o dejarlo en un segundo plano, una cuestión delicada que puede causar frustración entre los candidatos. Por eso es importante comunicar sus decisiones con habilidad y dar buenas razones.
+Una de sus tareas centrales como gestor de cartera es evaluar los **proyectos propuestos** en función de si pueden contribuir a alcanzar los objetivos de la organización y en qué medida, y de cuántos recursos ocuparían. Como los recursos suelen ser limitados, en la gestión de la cartera de proyectos hay que sopesar qué proyectos son preferibles a otros. Una vez que haya ponderado los proyectos según las prioridades existentes, decide si aprueba o rechaza la **ejecución de un proyecto** y si lo programa pronto o lo deja en un segundo plano, una cuestión delicada que puede causar frustración entre los solicitantes. Por eso es importante comunicar sus decisiones con habilidad y dar buenas razones.
 
 #### 5\. Seguimiento de los proyectos
 
-La cartera de proyectos nunca duerme. Por lo tanto, debe estar siempre atento para asegurarse de que los proyectos se ajustan a los objetivos de la empresa. Proporcione actualizaciones periódicas del estado de los **progresos, costes y calendario de los proyectos** para reconocer las desviaciones en una fase temprana y hacer los ajustes necesarios. Pueden utilizarse soluciones informáticas especializadas para facilitar el seguimiento y la elaboración de informes.
+La cartera de proyectos nunca duerme. Por lo tanto, debe estar siempre atento para asegurarse de que los proyectos se ajustan a los objetivos de la empresa. Infórmese periódicamente mediante actualizaciones de estado sobre el **progreso, los costes y el calendario de los proyectos** para reconocer las desviaciones en una fase temprana y hacer los ajustes necesarios. Pueden utilizarse soluciones informáticas especializadas para facilitar el seguimiento y la elaboración de informes.
 
 Sin embargo, el software estándar de gestión de carteras, como Microsoft Project, Asana o Jira, puede resultar caro rápidamente. Pruebe la **alternativa gratuita** de SeaTable:
 
 {{< template id="1acd19d97c8f4ed3ad38" >}}
 
-[Aquí puedes descubrir cómo utilizar la plantilla de cartera de proyectos de SeaTable en tu beneficio]({{< relref "templates/projects/project-portfolio" >}})
+[Aquí descubrirá cómo utilizar la plantilla de cartera de proyectos de SeaTable en su beneficio]({{< relref "templates/projects/project-portfolio" >}})
 
 #### 6\. Gestión de la calidad, la información y el conocimiento
 
@@ -124,11 +134,11 @@ Al igual que la gestión de la cartera de proyectos, la gestión de la cartera d
 
 ## Gestión de la cartera de TI
 
-La gestión de la cartera de TI\*\* (también conocida como gestión de activos de TI) ofrece la oportunidad de gestionar los activos de TI de una empresa de forma sistemática y previsora. La cartera de TI puede dividirse en tres categorías de activos:
+La **gestión de la cartera de TI** (también conocida como gestión de activos de TI) ofrece la oportunidad de gestionar los activos de TI de una empresa de forma sistemática y previsora. La cartera de TI puede dividirse en tres categorías de activos:
 
-1. **Software**: todas las aplicaciones de software, sistemas operativos y herramientas utilizadas.
-1. **hardware e infraestructura**: todos los dispositivos, redes, servidores y servicios en la nube
-1. **Proyectos y conocimientos especializados**: todos los proyectos informáticos actuales y previstos, así como los conocimientos informáticos de la empresa
+1. **Software**: todas las aplicaciones de software, sistemas operativos y herramientas utilizadas
+2. **Hardware e infraestructura**: todos los dispositivos, redes, servidores y servicios en la nube
+3. **Proyectos y conocimientos especializados**: todos los proyectos informáticos actuales y previstos, así como los conocimientos informáticos de la empresa
 
 La gestión de la cartera de TI debe optimizar estos activos para que respalden mejor los objetivos estratégicos y las operaciones eficientes de la empresa. Ante todo, debe garantizarse la **escalabilidad, seguridad y fiabilidad de todos los sistemas informáticos**.
 
@@ -136,9 +146,9 @@ La gestión de la cartera de TI debe optimizar estos activos para que respalden 
 
 #### 1\. Inventario y categorización
 
-En primer lugar, debe registrar todos los activos informáticos de su empresa y categorizarlos como se ha descrito anteriormente. Al igual que en los tipos anteriores de gestión de carteras, resulta útil registrar datos adicionales como el coste o el valor de los activos informáticos a la hora de hacer inventario. Además, los activos informáticos suelen tener un ciclo de vida limitado: por ejemplo, aclare cuándo caducan las licencias de software y en qué estado se encuentra el hardware para obtener una **visión completa de la cartera informática**.
+En primer lugar, debe registrar todos los activos informáticos de su empresa y categorizarlos como se ha descrito anteriormente. Al igual que en los tipos anteriores de gestión de carteras, resulta útil registrar datos adicionales como el coste o el valor de los activos informáticos a la hora de hacer el [inventario]({{< relref "posts/inventarliste-erstellen" >}}). Además, los activos informáticos suelen tener un ciclo de vida limitado: por ejemplo, aclare cuándo caducan las licencias de software y en qué estado se encuentra el hardware para obtener una **visión completa de la cartera informática**.
 
-![Hardware en la gestión de la cartera de TI](Hardware-im-IT-Portfoliomanagement.jpg 'El hardware es una categoría de activos en la cartera de TI').
+![Hardware en la gestión de la cartera de TI](Hardware-im-IT-Portfoliomanagement.jpg 'El hardware es una categoría de activos en la cartera de TI.')
 
 #### 2\. Evaluación y priorización
 
@@ -150,7 +160,7 @@ Examine periódicamente su cartera de TI para asegurarse de que se mantiene en e
 
 ## Gestión de carteras en el sector financiero
 
-En el sector financiero, la gestión de carteras consiste en gestionar y optimizar las inversiones y los activos de una cartera. Se trata de **inversiones financieras como acciones, obligaciones, fondos, inmuebles o metales preciosos**. El objetivo de la gestión de carteras es realizar una selección estratégica de activos para lograr la **mayor rentabilidad posible** minimizando el riesgo mediante una **diversificación equilibrada**.
+En el sector financiero, la gestión de carteras consiste en gestionar y optimizar las [inversiones]({{< relref "posts/investitionsplan" >}}) y los activos de una cartera. Se trata de **inversiones financieras como acciones, obligaciones, fondos, inmuebles o metales preciosos**. El objetivo de la gestión de carteras es realizar una selección estratégica de activos para lograr la mayor [rentabilidad]({{< relref "posts/rentabilitaetsvorschau" >}}) posible minimizando el riesgo mediante una **diversificación equilibrada**.
 
 ![Gestión de carteras en el sector financiero](Finanzportfoliomanagement.jpg)
 
@@ -162,7 +172,7 @@ Ya sea un propietario privado, una empresa o una asociación municipal de la viv
 
 {{< template id="6f9a2b4869804608978c" >}}
 
-[Aprenda a utilizar la plantilla de cartera de propiedades de SeaTable en su beneficio aquí]({{< relref "templates/real-estate/property-management" >}})
+[Aquí aprenderá a utilizar la plantilla de cartera de inmuebles de SeaTable en su beneficio]({{< relref "templates/real-estate/property-management" >}})
 
 Encontrará más información en el artículo [Gestión de la propiedad]({{< relref "posts/hausverwaltung" >}}) para propietarios privados o en el artículo [Gestión de la propiedad]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) para empresas y organizaciones municipales.
 

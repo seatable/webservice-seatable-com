@@ -13,7 +13,7 @@ seo:
     description: 'Transparente Reisekostenabrechnungen für Ihr Unternehmen. Dieser Guide erklärt erstattungsfähige Kosten und die Nutzung von SeaTable für Effizienz.'
 ---
 
-Im Einkommensteuergesetz werden drei Kategorien für **Auslagen** beschrieben, die sich Arbeitnehmer von ihren Unternehmen **erstatten** lassen können. Neben Bestellungen im Namen der Firma und Ausgaben, die getätigt werden, um einen Auftrag auszuführen, betrifft dies auch **Dienstreisen**. Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen sind Alltag für viele Arbeitnehmer. Im folgenden Artikel erfahren Sie nicht nur, was eine **Reisekostenabrechnung** ist, sondern erhalten auch wertvolle Tipps für die Erstellung.
+Im Einkommensteuergesetz werden drei Kategorien für [Auslagen]({{< relref "posts/auslagenerstattung" >}}) beschrieben, die sich Arbeitnehmer von ihren Unternehmen **erstatten** lassen können. Neben Bestellungen im Namen der Firma und Ausgaben, die getätigt werden, um einen Auftrag auszuführen, betrifft dies auch **Dienstreisen**. Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen sind Alltag für viele Arbeitnehmer. Im folgenden Artikel erfahren Sie nicht nur, was eine **Reisekostenabrechnung** ist, sondern erhalten auch wertvolle Tipps für die Erstellung.
 
 ![Dienstreise: Hand am Koffer](guests-with-suitcases-hotel-reception-711x474.jpg)
 
@@ -23,7 +23,7 @@ Unternehmen führen oft eine [Kosten-Nutzen-Analyse]({{< relref "posts/kosten-nu
 
 Eine Reisekostenabrechnung ist ein strukturierter Bericht, der sämtliche Kosten auflistet, welche im Rahmen einer Dienstreise angefallen sind. Sie dient dazu sicherzustellen, dass Mitarbeiter angemessen für ihre Ausgaben entschädigt werden und dass die finanziellen Aufwendungen für Geschäftsreisen transparent und nachvollziehbar sind.
 
-Bei diesem Prozess erfasst der Mitarbeiter alle relevanten Ausgaben. Anschließend erfolgt eine Überprüfung dieser Kosten, üblicherweise durch die Buchhaltung oder das Controlling-Team des Unternehmens. Wenn sie den geltenden Richtlinien entsprechen, bekommt der Mitarbeiter die erstattungsfähigen Kosten zurückerstattet.
+Bei diesem Prozess erfasst der Mitarbeiter alle relevanten Ausgaben. Anschließend erfolgt eine Überprüfung dieser Kosten, üblicherweise durch die [Buchhaltung]({{< relref "posts/debitorenbuchhaltung" >}}) oder das Controlling-Team des Unternehmens. Wenn sie den geltenden Richtlinien entsprechen, bekommt der Mitarbeiter die erstattungsfähigen Kosten zurückerstattet.
 
 ## Warum Sie eine Reisekostenabrechnung erstellen sollten
 
@@ -104,6 +104,8 @@ Eine korrekte Reisekostenabrechnung erfordert bestimmte Angaben, die unbedingt e
 
 Viele nutzen für ihre Reisekostenabrechnung eine Vorlage in Excel – aber das muss nicht sein! Eine intuitivere und übersichtlichere Reisekostenabrechnung Vorlage gibt es zum Beispiel von SeaTable. Lassen Sie Ihre Mitarbeiter alle Kosten und Belege digital über Webformulare einreichen. Die Daten landen anschließend automatisch und ordentlich sortiert in einer Tabelle, sodass Sie immer den Überblick behalten und Ihren Mitarbeitern regelmäßig alle Auslagen zurückerstatten können.
 
-Erfahren Sie mehr Informationen zur [Reisekostenabrechnung Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}) von SeaTable.
+{{< template-box id="e51bde56c25e439891c9" >}}
+
+Erfahren Sie mehr über die [Reisekostenabrechnung Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}) von SeaTable.
 
 [Registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse, probieren Sie SeaTable aus und passen Sie die Vorlage ganz nach Ihren Wünschen an, um die Auslagen in Ihrem Unternehmen so zu erfassen, wie Sie es möchten!

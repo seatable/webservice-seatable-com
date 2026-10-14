@@ -1,5 +1,5 @@
 ---
-title: 'Recaudación de fondos: Cómo recaudar y gestionar donativo'
+title: 'Recaudación de fondos: Cómo recaudar y gestionar donativos'
 description: 'La recaudación de fondos es mucho más que recoger donativos: es la clave para dar visibilidad a los proyectos, las ideas y las visiones y ponerlos en práctica de forma sostenible. Descubra cómo funciona, cómo se establecen las campañas de recaudación de fondos de éxito y por qué el software adecuado es un socio indispensable.'
 date: 2024-04-16
 lastmod: '2025-09-18'
@@ -8,7 +8,7 @@ aliases:
     - '/es/fundraising'
 seo:
     title: 'Recaudación de fondos: guía para el éxito solidario'
-    description: 'Aprende estrategias de captación de fondos y gestiona donaciones fácilmente en una sola herramienta digital.'
+    description: 'Aprenda estrategias de captación de fondos y gestione donaciones fácilmente en una sola herramienta digital.'
 categories:
     - 'best-practice'
 tags:
@@ -19,9 +19,9 @@ color: '#465b46'
 
 ## ¿Qué significa recaudación de fondos? Significado y definición
 
-La recaudación de fondos significa la obtención organizada y sistemática de recursos para fines o proyectos específicos. Puede tratarse de aportaciones en especie, dinero, servicios o trabajo voluntario. Como método de obtención de capital, puede utilizarse tanto para **fines benéficos** como para **fines corporativos**.
+La recaudación de fondos significa la [obtención]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) organizada y sistemática de recursos para fines o proyectos específicos. Puede tratarse de aportaciones en especie, dinero, servicios o trabajo voluntario. Como método de obtención de capital, puede utilizarse tanto para **fines benéficos** como para **fines corporativos**.
 
-En el contexto corporativo, la captación de fondos se utiliza como alternativa a un préstamo bancario tradicional para financiar proyectos empresariales a través de inversores o subvenciones. Sin embargo, el término suele asociarse a fines benéficos, en los que se recaudan donativos para **proyectos sociales**. En este caso, la atención no se centra en la expectativa de un servicio de retorno directo por parte del donante, sino en el objetivo de tener un impacto positivo en la sociedad o en un grupo objetivo específico.
+En el contexto corporativo, la captación de fondos se utiliza como alternativa a un préstamo bancario tradicional para financiar proyectos empresariales a través de [inversores]({{< relref "posts/investitionsplan" >}}) o subvenciones. Sin embargo, el término suele asociarse a fines benéficos, en los que se recaudan donativos para **proyectos sociales**. En este caso, la atención no se centra en la expectativa de una contraprestación directa por parte del donante, sino en el objetivo de tener un impacto positivo en la sociedad o en un grupo objetivo específico.
 
 ![La palabra recaudación de fondos está escrita en un folleto con figuras de palitos](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
@@ -38,7 +38,7 @@ Por el contrario, las campañas de crowdfunding se desarrollan durante un period
 Las medidas y canales para la recaudación de fondos pueden dividirse en dos áreas: La recaudación de fondos fuera de línea y la recaudación de fondos en línea.
 
 ### ¿Qué es la recaudación de fondos en línea?
-La recaudación de fondos en línea incluye todas las medidas que se llevan a cabo en Internet. Esto incluye las campañas en las redes sociales, el marketing en buscadores y las **plataformas de donación** como Betterplace o GoFundMe, que pueden utilizarse para presentar proyectos y recaudar donativos. En el sentido más amplio, el marketing por correo electrónico y los boletines informativos también se incluyen en este ámbito. Las campañas en línea le permiten llegar a un **amplio espectro de grupos objetivo** y grupos de edad a un coste menor y atraer a un mayor número de donantes potenciales.
+La recaudación de fondos en línea incluye todas las medidas que se llevan a cabo en Internet. Esto incluye las [campañas en las redes sociales]({{< relref "posts/social-media-management" >}}), el marketing en buscadores y las **plataformas de donación** como Betterplace o GoFundMe, que pueden utilizarse para presentar proyectos y recaudar donativos. En el sentido más amplio, el marketing por correo electrónico y los boletines informativos también se incluyen en este ámbito. Las campañas en línea le permiten llegar a un **amplio espectro de grupos objetivo** y grupos de edad a un coste menor y atraer a un mayor número de donantes potenciales.
 
 ### ¿Qué es la recaudación de fondos fuera de línea?
 
@@ -60,11 +60,11 @@ Hoy en día, la pirámide de donantes como modelo de captación de fondos se ve 
 - Donantes primerizos
 - Donantes múltiples y permanentes
 - Grandes donantes
-- Fallecidos
+- Testadores (donantes por herencia)
 
 ### ¿Cómo convencer a los donantes?
 
-Para recaudar fondos con éxito y convencer a la gente de su proyecto, es crucial un enfoque directo y **personal**. Los donantes potenciales deben tener claro quién es usted y para qué proyecto busca donativos. Es importante que proporcione información detallada, incluida la cantidad específica que necesita para su propósito definido. Utilice un lenguaje **emotivo y descriptivo** para entusiasmar al mayor número posible de personas con su idea. Merece la pena invertir tiempo y recursos para construir y mantener relaciones a largo plazo con sus donantes.
+Para recaudar fondos con éxito y convencer a la gente de su [proyecto]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), es crucial un enfoque directo y **personal**. Los donantes potenciales deben tener claro quién es usted y para qué proyecto busca donativos. Es importante que proporcione información detallada, incluida la cantidad específica que necesita para su propósito definido. Utilice un lenguaje **emotivo y descriptivo** para entusiasmar al mayor número posible de personas con su idea. Merece la pena invertir tiempo y recursos para construir y mantener relaciones a largo plazo con sus donantes.
 
 Tan importante como el enfoque personal y emocional es sentar las bases de unas campañas de recaudación de fondos de éxito con una planificación cuidadosa. No es casualidad que un concepto de recaudación de fondos bien elaborado pueda servir como ejemplo de una [campaña de marketing]({{< relref "posts/marketing-kampagne-planung/" >}}). Al fin y al cabo, eso es exactamente lo que es y no hay ninguna diferencia en la estructura y los pasos conceptuales:
 
@@ -73,6 +73,7 @@ Tan importante como el enfoque personal y emocional es sentar las bases de unas 
 - Determinación de las medidas y los canales
 - Creación de la campaña
 - Control y evaluación
+
 ![Vaso con monedas del que crece una pequeña planta](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
 ### Ciclo de fidelización de donantes
@@ -87,7 +88,7 @@ Entre la primera y la segunda donación, muchas organizaciones sin ánimo de luc
 
 ## ¿Cómo gestionar eficazmente los donativos?
 
-Toda campaña de captación de fondos implica también una gestión administrativa: hay que registrar los fondos recaudados, gestionar los datos de los donantes y emitir **recibos de donación**. Para ello puede utilizarse un software especial. Los **software de recaudación de fondos** combinan la gestión financiera, la **gestión de donantes**, la [planificación de eventos]({{< relref "posts/veranstaltung-verwalten" >}}) y la planificación de campañas en un solo sistema. Estos programas suelen ofrecer también la opción de donar directamente y ofrecen varios métodos de pago para ello. Las principales ventajas son:
+Toda campaña de captación de fondos implica también una gestión administrativa: hay que registrar los fondos recaudados, gestionar los datos de los donantes y emitir **recibos de donación**. Para ello puede utilizarse un software especial. El **software de recaudación de fondos** combina la [gestión financiera]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), la **gestión de donantes**, la [planificación de eventos]({{< relref "posts/veranstaltung-verwalten" >}}) y la planificación de campañas en un solo sistema. Estos programas suelen ofrecer también la opción de donar directamente y ofrecen varios métodos de pago para ello. Las principales ventajas son:
 
 - Registro eficaz de las donaciones y de los datos de los donantes
 - Enfoque individual del donante mediante el análisis de su historial y el registro de sus preferencias
@@ -98,11 +99,11 @@ Toda campaña de captación de fondos implica también una gestión administrati
 
 ## Gestión de donaciones con SeaTable
 
-La [plantilla gratuita]({{< relref "templates/finance/donation-overview" >}}) de SeaTable convierte la recaudación de fondos en un juego de niños y simplifica al máximo la gestión de sus donaciones. Organice múltiples proyectos en un solo lugar y manténgase organizado. Como **solución sin código**, SeaTable es completamente flexible y escalable, lo que le permite personalizar la plantilla según sus necesidades específicas con poco esfuerzo en lugar de utilizar software especializado estándar. Como solución que cumple con la GDPR** y que está alojada exclusivamente en servidores de Alemania, SeaTable también es adecuada para procesar datos especialmente sensibles, como la información de los donantes.
+La [plantilla gratuita]({{< relref "templates/finance/donation-overview" >}}) de SeaTable convierte la recaudación de fondos en un juego de niños y simplifica al máximo la gestión de sus donaciones. Organice múltiples proyectos en un solo lugar y manténgase organizado. Como **solución sin código**, SeaTable es completamente flexible y escalable, lo que le permite personalizar la plantilla según sus necesidades específicas con poco esfuerzo en lugar de utilizar software especializado estándar. Como **solución conforme al RGPD** y que está alojada exclusivamente en servidores de Alemania, SeaTable también es adecuada para procesar datos especialmente sensibles, como la información de los donantes.
 
 {{< template-box id="f64c97dc0723400887c0" submit="Plantilla de prueba" text="Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
 
-En su base de datos en línea, no sólo podrá recaudar y gestionar las donaciones, sino también calcular automáticamente la diferencia entre las donaciones ya realizadas y el importe objetivo. **Integre su proveedor de servicios de pago**, cree recibos de donativos** con un solo clic y lleve un seguimiento de los datos de contacto y el historial de sus donantes. Podrá ver todos los datos importantes y el progreso de sus proyectos de un vistazo en un claro tablero Kanban. Sus empleados trabajan **colaborativamente en tiempo real** para que exista una total transparencia de los datos en todo momento. Con la **aplicación universal** puede crear fácilmente su propio frontend de base de datos y proporcionar a sus donantes informes y otra información.
+En su base de datos en línea, no sólo podrá recaudar y gestionar las donaciones, sino también calcular automáticamente la diferencia entre las donaciones ya realizadas y el importe objetivo. **Integre su proveedor de servicios de pago**, cree **recibos de donativos con un solo clic** y lleve un seguimiento de los datos de contacto y el historial de sus donantes. Podrá ver todos los datos importantes y el progreso de sus proyectos de un vistazo en un claro tablero Kanban. Sus empleados trabajan **colaborativamente en tiempo real** para que exista una total transparencia de los datos en todo momento. Con la **aplicación universal** puede crear fácilmente su propio frontend de base de datos y proporcionar a sus donantes informes y otra información.
 
 ## Preguntas frecuentes - Recaudación de fondos
 

@@ -1,6 +1,6 @@
 ---
 title: 'Lista de verificação para as férias: tudo sob controlo para uma viagem perfeita | SeaTable'
-description: 'Tenha a checklist de viagem essencial: lista completa para não esquecer nada na mala, recomendações para organização, documentos, clima e segurança – prepare sua viagem sem preocupação, com tranquilidade.'
+description: 'Tenha a checklist de viagem essencial: lista completa para não esquecer nada na mala, recomendações para organização, documentos, clima e segurança – prepare a sua viagem sem preocupações e com tranquilidade.'
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
@@ -9,7 +9,7 @@ aliases:
     - /pt/checkliste-urlaub
 seo:
     title: 'Checklist de viagem: lista para férias perfeitas'
-    description: 'Baixe sua checklist de viagem: tudo o que levar nas férias + dicas práticas.'
+    description: 'Descarregue a sua checklist de viagem: tudo o que levar nas férias + dicas práticas.'
 categories:
     - 'best-practice'
 tags:
@@ -35,7 +35,7 @@ O ideal é fazer a mala apenas **dois ou três dias** antes da partida. Desta fo
 
 ![Duas mulheres fazem uma mala para uma viagem](pexels-gabby-k-5330979-711x474.jpg)
 
-Uma lista de embalagem fornece uma abordagem estruturada para a embalagem.
+Uma lista de bagagem permite fazer as malas de forma estruturada.
 
 ## As vantagens de uma lista de controlo bem pensada para as suas férias
 
@@ -55,7 +55,7 @@ A preparação cuidadosa das suas férias envolve mais do que uma simples lista 
 
 - **Documentos de viagem e visto:** Para viajar para países distantes, é necessário um passaporte válido e, eventualmente, um visto. Verifique atempadamente a validade do seu passaporte e informe-se sobre as exigências em matéria de vistos para o seu destino.
 - **Vacinas e saúde:** Se está a planear umas férias de aventura em regiões exóticas, deve verificar atempadamente o seu registo de vacinas e atualizar todas as vacinas necessárias contra doenças raras na Europa. Informe-se sobre as vacinas recomendadas ou obrigatórias para o seu destino.
-- **Seguro de viagem internacional:** O seguro de viagem é essencial para estar coberto em caso de doença ou outras emergências. Compare as diferentes ofertas e escolha uma apólice de seguro que satisfaça as suas necessidades.
+- **Seguro de viagem no estrangeiro:** O seguro de viagem é essencial para estar coberto em caso de doença ou outras emergências. Compare as diferentes ofertas e escolha uma apólice que satisfaça as suas necessidades.
 
 ![Lista de verificação de férias: uma mulher aprecia a vista do seu quarto de hotel](pexels-elina-sazonova-1838554-711x474.jpg)
 
@@ -63,7 +63,7 @@ A preparação cuidadosa das suas férias envolve mais do que uma simples lista 
 
 ### Esclareça este aspeto na lista de controlo à medida que as férias se aproximam
 
-- **Finanças e moeda:** Quando viajar para países com moeda estrangeira, deve esclarecer antecipadamente se pode pagar com cartão de crédito ou se precisa de dinheiro. Pesquise as taxas de câmbio para poder estimar os preços locais e, se necessário, peça dinheiro ao seu banco para estar bem preparado.
+- **Finanças e moeda:** Quando viajar para países com moeda estrangeira, esclareça antecipadamente se pode pagar com cartão de crédito ou se precisa de dinheiro vivo. Pesquise as taxas de câmbio para poder estimar os preços locais e, se necessário, encomende dinheiro ao seu banco para estar bem preparado.
 - **Requisitos de entrada e segurança:** Informe-se junto do [Ministério Federal dos Negócios Estrangeiros](https://www.auswaertiges-amt.de/de) sobre as regras de entrada e eventuais riscos de segurança no seu país de destino. É importante conhecer todas as informações necessárias para evitar más experiências.
 - **Legislação local e carta de condução:** Verifique se precisa de uma carta de condução internacional no seu país de destino e familiarize-se com a legislação local. Alguns países têm regulamentos mais rigorosos (por exemplo, regras de comportamento em locais públicos) que deve respeitar.
 - **Preparativos de viagem no local:** Pequenas coisas como reservar um lugar de estacionamento no aeroporto ou garantir a acessibilidade do telemóvel no estrangeiro podem ter um impacto significativo no seu estado de espírito de férias. Certifique-se de que tudo está bem organizado.
@@ -77,18 +77,16 @@ Decida como se vai deslocar (carro alugado, transportes públicos, etc.) e reser
 O dia da partida chegou finalmente e está pronto para as suas férias com as malas feitas. Agora, ainda há algumas coisas que precisa de fazer para evitar surpresas desagradáveis depois das férias.
 
 - Esvazie o frigorífico, a máquina de lavar louça e o lixo para evitar a formação de bolor e odores desagradáveis.
-- Verificar se todas as janelas e portas estão bem fechadas.
-- Desligue a água, o aquecimento, as lâmpadas e os aparelhos eléctricos.
-- Certifique-se de que os documentos importantes e os objectos de valor estão guardados.
-- Informe uma pessoa de confiança (por exemplo, vizinhos, amigos) da sua ausência e dê-lhe uma chave para que possa visitar o local em caso de emergência. Se previamente acordado, esta pessoa pode também regar as suas plantas ou alimentar pequenos animais.
+- Verifique se todas as janelas e portas estão bem fechadas.
+- Desligue a água, o aquecimento, as luzes e os aparelhos elétricos.
+- Certifique-se de que os documentos importantes e os objetos de valor estão guardados.
+- Informe uma pessoa de confiança (por exemplo, vizinhos ou amigos) da sua ausência e dê-lhe uma chave para que possa verificar a casa em caso de emergência. Se previamente acordado, esta pessoa pode também regar as suas plantas ou alimentar pequenos animais.
 
 ## Os artigos indispensáveis que devem constar da sua lista de férias
 
-Imagine que as suas tão esperadas férias estão mesmo ao virar da esquina e que tem uma lista de verificação perfeitamente preparada para a sua viagem. Sem pânico, sem coisas esquecidas - apenas a antecipação de uma aventura de viagem descontraída. Eis os objectos essenciais que não podem faltar na lista de embalagem para as férias:
+Imagine que as suas tão esperadas férias estão mesmo ao virar da esquina e que tem uma lista de verificação perfeitamente preparada para a sua viagem. Sem pânico, sem coisas esquecidas - apenas a antecipação de uma aventura de viagem descontraída. Eis os objetos essenciais que não podem faltar na lista de bagagem para as férias:
 
 ### Documentos
-
-Espaçador
 
 - Passaporte
 - Bilhete de identidade
@@ -96,11 +94,9 @@ Espaçador
 - Certificado de vacinação
 - Visto
 
-Espaçador
-
 - Cartão de seguro de doença
 - Seguro de saúde internacional
-- Cartão de crédito/CE e dinheiro
+- Cartão de crédito/débito e dinheiro
 - Bilhetes de avião
 - Documentos do hotel/aluguer de automóveis
 
@@ -110,37 +106,29 @@ Pode fazer cópias de documentos importantes antes das férias para estar proteg
 
 ### Vestuário
 
-Espaçador
-
 - Camisola
 - Casaco
 - Calças
 - T-shirts
 - Consoante as férias, fatos de banho, roupa de esqui, etc.
 
-Espaçador
-
-- Caps/Caps
+- Gorros/bonés
 - Pijama
 - Meias e roupa interior
 - Sapatos
 - Vestidos/saias
 
-![Roupas que foram colocadas para férias](pexels-taryn-elliott-4374510-711x484.jpg)
+![Roupa preparada para as férias](pexels-taryn-elliott-4374510-711x484.jpg)
 
 Verifique como estará o tempo no seu destino antes de viajar.
 
 ### Higiene
-
-Espaçador
 
 - Escova ou pente para o cabelo
 - Desodorizante
 - Champô e gel de duche
 - Máquina de barbear
 - Escova e pasta de dentes
-
-Espaçador
 
 - Utensílios de maquilhagem
 - Produtos de higiene feminina
@@ -154,19 +142,15 @@ Informe-se com antecedência se as toalhas e outros artigos de higiene pessoal e
 
 ### Medicamentos
 
-Espaçador
-
 - Analgésicos
 - Medicamentos para a diarreia
-- Redutor de febre
+- Antipirético
 - Comprimidos de viagem
 - Creme solar
 
-Espaçador
-
 - Pensos (para bolhas)
 - Repelente de mosquitos
-- Cartão de marcação
+- Cartão tira-carraças
 - Medicamentos pessoais
 
 ![Medicamentos e frutas para a sua saúde](pexels-darina-belonogova-7208650-711x517.jpg)
@@ -175,33 +159,25 @@ Para estar preparado para tudo nas férias, deve pensar num pequeno estojo de pr
 
 ### Eletrónica
 
-Espaçador
-
 - Telemóvel
 - Auscultadores
 - Computador portátil
 
-Espaçador
-
 - Cabo de carregamento
 - Câmara
 
-![Lista de verificação de férias: uma câmara que foi esteticamente revestida com peças individuais](pexels-alex-andrews-271121-821652-711x431.jpg)
+![Lista de verificação de férias: uma câmara disposta esteticamente em peças individuais](pexels-alex-andrews-271121-821652-711x431.jpg)
 
-Certifique-se de que guarda os aparelhos electrónicos de forma segura para que nada se parta.
+Certifique-se de que guarda os aparelhos eletrónicos de forma segura para que nada se parta.
 
 ### Diversos
 
-Espaçador
-
-- chave
+- Chaves
 - Máscara de dormir
 - Tampões para os ouvidos
 
-Espaçador
-
 - (Óculos de sol) óculos ou lentes de contacto
-- Disposições relativas às viagens
+- Provisões de viagem
 - Livro
 
 ![Lista de verificação para as férias: uma mulher dorme com uma máscara de dormir](pexels-cottonbro-6863349-711x512.jpg)
@@ -236,11 +212,13 @@ Utilize tamanhos de viagem para os produtos de higiene pessoal para poupar espa�
 
 ## Conclusão: Férias descontraídas com a sua lista de controlo
 
-Quer no passado tenha feito as malas à última da hora ou tenha planeado tudo com antecedência, no futuro poderá começar as suas férias sem stress desnecessário e com todos os elementos essenciais na sua bagagem. O [modelo gratuito]({{< relref "templates/everyday-life/travel-planner" >}}) da SeaTable irá poupar-lhe tempo valioso e tornar os preparativos para as suas próximas férias eficientes e sem stress.
+Quer tenha feito as malas à última hora no passado ou tenha planeado tudo com antecedência, no futuro poderá começar as suas férias sem stress desnecessário e com todos os elementos essenciais na sua bagagem. O [modelo gratuito]({{< relref "templates/everyday-life/travel-planner" >}}) da SeaTable irá poupar-lhe tempo valioso e tornar os preparativos para as suas próximas férias eficientes e sem stress.
 
-No modelo, não só encontrará uma lista de verificação de férias personalizável e flexível com todas as tarefas a realizar, mas também outras funções úteis: Recolha todas as ideias e locais que pretende visitar, crie um calendário claro e visualize todos os locais das actividades planeadas num mapa. Pode também registar todas as recordações maravilhosas da sua viagem, adicionar fotografias e anotar onde e quando ocorreram esses momentos especiais.
+{{< template-box id="836031683b7e4df489a2" >}}
 
-Também está disponível uma aplicação para simplificar o seu planeamento de viagens. Pode utilizar esta aplicação para introduzir ideias, custos e tarefas através de páginas de formulário, cujas informações são depois automaticamente guardadas nos quadros correspondentes. Todo o seu planeamento de férias pode ser consultado em tabelas claras, que pode agrupar e ordenar como desejar. Estatísticas claras, como no painel de controlo do orçamento, também facilitam a obtenção de uma visão geral:
+No modelo, não só encontrará uma lista de verificação de férias personalizável e flexível com todas as tarefas a realizar, mas também outras funções úteis: recolha todas as ideias e locais que pretende visitar, crie um calendário claro e visualize num mapa todos os locais das atividades planeadas. Pode também registar todas as recordações maravilhosas da sua viagem, adicionar fotografias e anotar onde e quando ocorreram esses momentos especiais.
+
+Também está disponível uma aplicação para simplificar o planeamento de viagens. Pode utilizá-la para introduzir ideias, custos e tarefas através de páginas de formulário, cujas informações são depois guardadas automaticamente nas tabelas correspondentes. Todo o seu planeamento de férias pode ser consultado em tabelas claras, que pode agrupar e ordenar como desejar. Estatísticas claras, como no painel de controlo do orçamento, facilitam ainda a visão geral:
 
 ![Painel de controlo do orçamento na aplicação de viagens da SeaTable](Travel-App.png)
 

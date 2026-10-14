@@ -42,9 +42,9 @@ Logística y gestión de la cadena de suministro suelen utilizarse indistintamen
 
 La gestión de la cadena de suministro es crucial para el éxito de una empresa. Con procesos planificados y ejecutados en [aprovisionamiento]({{< relref "posts/20250327-beschaffung-unternehmen" >}}), producción y [ventas]({{< relref "posts/20250506-distributionspolitik" >}}), una logística eficiente y una cadena de suministro estable, se pueden alcanzar varios objetivos. El objetivo es siempre garantizar una logística fluida y reducir al mínimo los retrasos o interrupciones para que toda la cadena de valor pueda funcionar de forma óptima.
 
-* **Reducir costes:** Una planificación optimizada de los recursos y unos proveedores fiables reducen los costes a largo plazo. Esto incluye la rápida reducción de inventarios, la disminución de los costes de almacenamiento, la garantía de entrega puntual (suministro justo a tiempo) y la reducción de los ciclos de caja.
+* **Reducir costes:** Una planificación optimizada de los recursos y unos proveedores fiables reducen los costes a largo plazo. Esto incluye la rápida reducción de inventarios, la disminución de los costes de almacenamiento, la garantía de entrega puntual (suministro justo a tiempo) y la reducción de los ciclos cash-to-cash.
 * **Mayor flexibilidad:** Las cadenas de valor y los procesos pueden diseñarse con una gestión eficaz de la cadena de suministro para poder reaccionar a corto plazo ante los cambios en las condiciones del mercado y los cuellos de botella en el suministro.
-* **Lealtad de clientes y proveedores:** Los procesos optimizados y la capacidad de reaccionar con rapidez mantienen y refuerzan las relaciones con clientes y proveedores. Esto aumenta la fiabilidad de las entregas.
+* **Fidelización de clientes y proveedores:** Los procesos optimizados y la capacidad de reaccionar con rapidez mantienen y refuerzan las relaciones con clientes y proveedores. Esto aumenta la fiabilidad de las entregas.
 * **Ganancia de eficiencia:** Los [flujos de trabajo]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) y los procesos se revisan y mejoran continuamente.
 * **Intercambio de información:** Las tareas de gestión de la cadena de suministro también incluyen garantizar un intercambio fluido de información para que los empleados y los proveedores de servicios externos implicados reciban la información pertinente con prontitud.
 
@@ -74,7 +74,7 @@ Los modernos entornos en nube permiten una gestión más flexible de la cadena d
 
 Las soluciones en la nube, como la [plataforma sin código SeaTable]({{< relref "/" >}}), ofrecen otra ventaja que no hay que subestimar: no son soluciones estandarizadas y listas para usar. Al contrario, los responsables de la cadena de suministro pueden adaptar el sistema a sus necesidades específicas, ya sea partiendo de cero o utilizando como base una plantilla de gestión de la cadena de suministro.
 
-**La plantilla incrustada se puede desplazar y pulsar.**
+**La plantilla incrustada se puede desplazar y se puede hacer clic en ella.**
 {{< template id="d58845a24cda4807847e" >}}
 
 {{< button label="Descargar plantilla ahora" link="/templates/operations/supply-chain-management/" >}}
@@ -83,9 +83,9 @@ Las soluciones en la nube, como la [plataforma sin código SeaTable]({{< relref 
 
 Desarrollar y gestionar de forma eficiente y eficaz la cadena de suministro de su empresa es, sin duda, una tarea difícil. Las tecnologías modernas le ayudan a establecer procesos eficientes y a automatizar tareas. Para asegurarse de que su SCM realmente conduce a resultados óptimos, debería seguir estos cinco consejos:
 
-1. **Trabaje en colaboración:** Ya hemos demostrado que el SCM moderno implica a varias áreas interdepartamentales. Implique a todos los empleados afectados en los procesos y fomente un ambiente de trabajo cooperativo y colaborativo para desarrollar juntos las mejores soluciones.  
+1. **Trabaje en colaboración:** Ya hemos visto que el SCM moderno implica a varias áreas interdepartamentales. Implique a todos los empleados afectados en los procesos y fomente un ambiente de trabajo cooperativo y colaborativo para desarrollar juntos las mejores soluciones.  
 2. **Comuníquese con regularidad:** Comparta de forma activa y abierta la información relevante con los compañeros y departamentos afectados. Esto le permitirá reaccionar más rápidamente ante los problemas e identificar los puntos débiles de sus procesos.
-3. **Determine quién es el responsable:** Defina responsabilidades claras para cada uno de los pasos del proceso dentro de su cadena de valor desde el principio. Se pueden evitar muchas dificultades si todos los implicados saben quién tiene que actuar o tomar una decisión y cuándo.
+3. **Determine los responsables:** Defina responsabilidades claras para cada uno de los pasos del proceso dentro de su cadena de valor desde el principio. Se pueden evitar muchas dificultades si todos los implicados saben quién tiene que actuar o tomar una decisión y cuándo.
 4. **Optimice continuamente:** La optimización de procesos es una tarea continua. Defina un flujo de trabajo repetitivo para ello, por ejemplo, el ciclo PDCA. En este concepto circular, los cuatro pasos Planificar, Hacer, Comprobar y Actuar se repiten constantemente. Esto hace que sus procesos sean cada vez más eficientes y proporciona a su empresa una ventaja competitiva.
 5. **Elija el software adecuado:** Comunicación, visualización de procesos, automatización de tareas, seguimiento e informes, gestión de proveedores... la lista de tareas que debe cubrir una plataforma de gestión de la cadena de suministro es larga. Analice detenidamente sus necesidades y la oferta del mercado. Una alternativa a menudo ignorada al software SCM o a las plataformas de gestión del trabajo son las soluciones sin código, como SeaTable. Éstas le permiten almacenar toda la información y los procesos de forma centralizada y accesible para todas las partes implicadas y adaptar la estructura a sus necesidades específicas.  
 
@@ -93,7 +93,7 @@ Desarrollar y gestionar de forma eficiente y eficaz la cadena de suministro de s
 
 ## Inicie la transformación de la gestión de su cadena de suministro
 
-Ahora ya sabe qué es la SCM y qué es importante a la hora de optimizarla. El paso decisivo ahora es crear el marco técnico. SeaTable crea un lugar donde puede reunirse toda la información. Esto le permite trazar eficazmente la gestión de su cadena de suministro en sólo unos pasos y clics. Registre toda la información necesaria, como sus proveedores, los envíos entrantes y salientes y su [cartera de productos]({{< relref "posts/20250327-portfoliomanagement" >}}), y controle todo su almacén. Colabore con sus colegas en tiempo real, configure automatizaciones para notificaciones o asignación de tareas y utilice cuadros de mando y estadísticas para tomar decisiones basadas en datos. Sólo tiene que registrarse gratuitamente y probar nuestra plantilla de gestión de la cadena de suministro.
+Ahora ya sabe qué es la SCM y qué es importante a la hora de optimizarla. El paso decisivo ahora es crear el marco técnico. SeaTable crea un lugar donde puede reunirse toda la información. Esto le permite reflejar eficazmente la gestión de su cadena de suministro en sólo unos pasos y clics. Registre toda la información necesaria, como sus proveedores, los envíos entrantes y salientes y su [cartera de productos]({{< relref "posts/20250327-portfoliomanagement" >}}), y controle todo su almacén. Colabore con sus colegas en tiempo real, configure automatizaciones para notificaciones o asignación de tareas y utilice cuadros de mando y estadísticas para tomar decisiones basadas en datos. Sólo tiene que registrarse gratuitamente y probar nuestra plantilla de gestión de la cadena de suministro.
 
 {{< button label="Regístrese sin compromiso" link="/pages/registration/" >}}
 
@@ -107,7 +107,7 @@ Los sistemas SCM basados en la nube permiten trabajar en colaboración y compart
 {{< /faq >}}
 {{< faq "¿Cuáles son los tres niveles de gestión de la cadena de suministro?" >}}
 En una estrategia de gestión de la cadena de suministro, se distingue entre los niveles operativo, táctico y estratégico. Estos se diferencian por su orientación temporal.
-1. Gestión operativa de la cadena de suministro: todas las decisiones pueden aplicarse a corto plazo o en cuestión de días o pocas semanas. Normalmente, se trata de procesos que pueden aplicarse rápidamente, como la planificación de procesos, la carga o la tramitación de pedidos. También se analizan las relaciones entre pedidos y existencias. El objetivo en este caso es lograr el mayor nivel posible de satisfacción del cliente, ya que el foco principal está en las relaciones con el cliente.
+1. Gestión operativa de la cadena de suministro: Todas las decisiones pueden aplicarse a corto plazo o en cuestión de días o pocas semanas. Normalmente, se trata de procesos que pueden aplicarse rápidamente, como la planificación de procesos, la carga o la tramitación de pedidos. También se analizan las relaciones entre pedidos y existencias. El objetivo en este caso es lograr el mayor nivel posible de satisfacción del cliente, ya que el foco principal está en las relaciones con el cliente.
 2. Gestión táctica de la cadena de suministro: Todas las decisiones pueden aplicarse a medio plazo o entre un trimestre y un año. Se refieren, por ejemplo, a decisiones sobre cantidades de producción, recursos de producción, inventarios, estrategias de envío y transporte.
-3. Gestión estratégica de la cadena de suministro: Aquí se toman decisiones con éxito a largo plazo. Se refieren, por ejemplo, a la elección de la ubicación del almacén propio, las capacidades de producción y almacenamiento, las inversiones, la selección de proveedores, las decisiones de hacer o comprar y las [estrategias de venta]({{< relref "posts/vertriebsstrategie" >}}).
+3. Gestión estratégica de la cadena de suministro: Aquí se toman decisiones orientadas al éxito a largo plazo. Se refieren, por ejemplo, a la elección de la ubicación del almacén propio, las capacidades de producción y almacenamiento, las inversiones, la selección de proveedores, las decisiones de hacer o comprar y las [estrategias de venta]({{< relref "posts/vertriebsstrategie" >}}).
 {{< /faq >}}

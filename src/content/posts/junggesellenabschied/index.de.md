@@ -29,7 +29,7 @@ Einige Kulturen haben besondere Traditionen im Zusammenhang mit Junggesellenabsc
 
 Die Feier des Junggesellenabschieds hat eine lange und reiche Tradition, die bis ins antike Griechenland zurückreicht. Bereits damals wurde der Abschied vom Junggesellenleben mit großen Festlichkeiten zelebriert.
 
-Bräute und Bräutigame neigen oft dazu, ihre Abschiedsfeiern getrennt voneinander zu veranstalten. Allerdings ist dies keineswegs ein Muss. Die Entscheidung, ob die Feiern gemeinsam oder separat stattfinden sollen, liegt ganz bei den zukünftigen Ehepartnern und ihren individuellen Vorlieben.
+Bräute und Bräutigame neigen oft dazu, ihre Abschiedsfeiern getrennt voneinander zu veranstalten. Allerdings ist dies keineswegs ein Muss. Die Entscheidung, ob die [Feiern]({{< relref "templates/everyday-life/party-planner" >}}) gemeinsam oder separat stattfinden sollen, liegt ganz bei den zukünftigen Ehepartnern und ihren individuellen Vorlieben.
 
 Einige Paare feiern ihren Junggesellen- und Junggesellinnenabschied zusammen, bekannt als „Jack and Jill Party“ oder „Stag and Hen Party“. Diese moderne Variante bietet eine Gelegenheit für Familien und Freunde beider Seiten, sich zusammenzufinden, um das Paar zu feiern und symbolisch den Start in ihr gemeinsames Leben zu unterstützen.
 
@@ -79,7 +79,7 @@ Egal, ob Sie eine spaßige Aktivität oder eine luxuriöse Location suchen – d
 
 ![Die Tür zu einer Bar in orange beleuchtet](pexels-mali-219095-711x473.jpg)
 
-Städtetrips können schnell teuer werden, da sie Unterkunft, Verpflegung und Aktivitäten umfassen.
+Städtetrips können schnell teuer werden, da sie Unterkunft, Verpflegung und Aktivitäten umfassen. Nutzen Sie ggf. einen [Reiseplaner]({{< relref "templates/everyday-life/travel-planner" >}}), um den Überblick zu behalten.
 
 ### Kurzurlaub
 
@@ -143,13 +143,13 @@ In den letzten Jahren ist ein Trend zu gesünderen Junggesellenabschieden entsta
 
 ![Anstoß mit Aperol Spritz auf dem Junggesellenabschied](pexels-rachel-claire-4819717-711x570.jpg)
 
-Einige entscheiden sich für alternative Aktivitäten während des Junggesellenabschieds, wie z. B. Kochkurse, Cocktail-Abende oder sogar humanitäre Arbeit.
+Einige entscheiden sich für alternative Aktivitäten während des Junggesellenabschieds, wie z. B. Kochkurse oder Cocktail-Abende.
 
 ## Braut und Bräutigam einbeziehen
 
 Ein Junggesellenabschied kann ganz unterschiedlich aussehen. Für den einen ist ein Partyurlaub das Nonplusultra, für andere klingt das eher nach dem absoluten Albtraum. Damit dieser besondere Tag auch wirklich zu einem schönen Erlebnis für Braut und Bräutigam wird, beachten Sie am besten folgende Regeln:
 
-1. **Persönliche Gespräche führen:** Führen Sie persönliche Gespräche mit der Braut oder dem Bräutigam, um herauszufinden, welche Art von Junggesellenabschied sie sich wünschen. Durch diesen Austausch lassen sich die individuellen Vorstellungen und Wünsche genau erfassen.
+1. **Persönliche Gespräche führen:** Führen Sie persönliche Gespräche mit der Braut oder dem Bräutigam, um herauszufinden, welche Art von Junggesellenabschied sie sich wünschen. Durch diesen Austausch lassen sich die individuellen Vorstellungen und [Wünsche]({{< relref "templates/everyday-life/wish-list" >}}) genau erfassen.
 2. **Vorlieben und Interessen beachten**: Berücksichtigen Sie die persönlichen Vorlieben und Interessen des Junggesellen oder der Junggesellin, um ein ganz besonderes Erlebnis zu schaffen. Ob eine entspannte Wellness-Auszeit, ein aufregender Abenteuer-Tag oder eine ausgelassene Feier – am wichtigsten ist, dass sich Braut oder Bräutigam wohlfühlen.
 3. **Besondere Überraschungen planen:** Planen Sie besondere Überraschungen für die Braut oder den Bräutigam während des Junggesellenabschieds. Dies könnten persönliche Geschenke, unerwartete Gäste oder einzigartige Erlebnisse sein, die dem Tag eine besondere Note verleihen und ihn unvergesslich machen.
 
@@ -167,14 +167,14 @@ Ein Junggesellenabschied soll ein unvergesslicher Tag voller Spaß und Freude se
 
 ![Pinke Luftballons als Deko für einen Junggesellinnenabschied](sj-38adackPTsI-unsplash-711x474.jpg)
 
-Einige Junggesellenabschiede haben bestimmte Themen oder Farben.
-
 - **Überraschungen** sind das Salz in der Suppe eines Junggesellenabschieds, doch sollten dosiert eingesetzt werden. Zu viele Überraschungen können schnell überwältigend wirken. Achten Sie darauf, dass die geplanten Aktivitäten gut aufeinander abgestimmt sind und dem Geschmack des Ehrengasts entsprechen.
 - Schließlich ist **Flexibilität** das A und O. Trotz sorgfältiger Planung können unerwartete Ereignisse eintreten. Seien Sie bereit, den Plan spontan anzupassen und Alternativen zu finden, damit der Tag trotz kleiner Hindernisse reibungslos verläuft und für alle Beteiligten ein unvergessliches Erlebnis wird.
 
 ## Online-Planer für den perfekten Junggesellen- oder Junggesellinnenabschied
 
 Stehen Sie vor der Herausforderung, den ultimativen Junggesellenabschied für Ihren besten Freund oder Ihre beste Freundin zu planen? Kein Grund zur Sorge! Mit der [kostenlosen Vorlage]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) von SeaTable können Sie Ihre Planung mühelos realisieren.
+
+{{< template-box id="88ed38a6b4b04683a4c8" >}}
 
 Die Vorlage lässt sich einfach an Ihre Bedürfnisse anpassen, indem Sie die Beispieleinträge löschen und Ihre eigenen Daten eintragen. In SeaTable können Sie Daten so anschaulich ordnen und visualisieren, dass Sie stets den Überblick über Aktivitäten, To-dos, Gäste und Finanzen behalten.
 

@@ -17,9 +17,9 @@ color: '#465b46'
 
 ## What does fundraising mean? Meaning and definition
 
-Fundraising stands for the organized and systematic procurement of resources for specific purposes or projects. This can involve contributions in kind, money, services or voluntary work. As a method of raising capital, you can use it for both **charitable** and **corporate** purposes.
+Fundraising stands for the organized and systematic [procurement]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) of resources for specific purposes or projects. This can involve contributions in kind, money, services or voluntary work. As a method of raising capital, you can use it for both **charitable** and **corporate** purposes.
 
-In the corporate context, fundraising is used as an alternative to a traditional bank loan to finance entrepreneurial projects via investors or grants. However, the term is usually associated with charitable purposes, where donations are collected for **social projects**. The focus here is not on the expectation of a direct return service from the donor, but rather the aim of having a positive impact on society or a specific target group.
+In the corporate context, fundraising is used as an alternative to a traditional bank loan to finance entrepreneurial projects via [investors]({{< relref "posts/investitionsplan" >}}) or grants. However, the term is usually associated with charitable purposes, where donations are collected for **social projects**. The focus here is not on the expectation of a direct return from the donor, but rather the aim of having a positive impact on society or a specific target group.
 
 ![The word fundraising is written in a booklet with stick figures](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
@@ -36,7 +36,7 @@ In contrast, crowdfunding campaigns run for a fixed period of time – typically
 Measures and channels for fundraising can be divided into two areas: Offline fundraising and online fundraising.
 
 ### What is online fundraising?
-Online fundraising includes all measures that are carried out on the Internet. This includes social media campaigns, search engine marketing and **donation platforms** such as Betterplace or GoFundMe, which can be used to present projects and collect donations. In the broadest sense, email marketing and newsletters are also included in this area. Online campaigns allow you to reach a **broad spectrum of target groups** and age groups at a lower cost and appeal to a larger number of potential donors.
+Online fundraising includes all measures that are carried out on the Internet. This includes [social media campaigns]({{< relref "posts/social-media-management" >}}), search engine marketing and **donation platforms** such as Betterplace or GoFundMe, which can be used to present projects and collect donations. In the broadest sense, email marketing and newsletters are also included in this area. Online campaigns allow you to reach a **broad spectrum of target groups** and age groups at a lower cost and appeal to a larger number of potential donors.
 
 ### What is offline fundraising?
 
@@ -58,11 +58,11 @@ Nowadays, the donor pyramid as a fundraising model is viewed critically for vari
 - First-time donors
 - Multiple and permanent donors
 - Major donors
-- Decedent
+- Testators (bequest donors)
 
 ### How do you convince donors?
 
-In order to successfully raise funds and convince people of your project, a direct and **personal approach** is crucial. It should be clear to potential donors who you are and what project you are looking for donations for. It is important that you provide detailed information, including the specific amount you need for your defined purpose. Use **emotional and descriptive language** to get as many people as possible excited about your idea. It pays to invest time and resources to build and maintain long-term relationships with your donors.
+In order to successfully raise funds and convince people of your [project]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), a direct and **personal approach** is crucial. It should be clear to potential donors who you are and what project you are looking for donations for. It is important that you provide detailed information, including the specific amount you need for your defined purpose. Use **emotional and descriptive language** to get as many people as possible excited about your idea. It pays to invest time and resources to build and maintain long-term relationships with your donors.
 
 As important as the personal, emotional approach is, you lay the foundation for successful fundraising campaigns with careful planning. It's no coincidence that a well-crafted fundraising concept could serve as an example of a [marketing campaign]({{< relref "posts/marketing-kampagne-planung/" >}}). After all, that's exactly what it is and there is no difference in the structure and conceptual steps:
 
@@ -86,7 +86,7 @@ Between the first and second donation, many non-profit organizations lose a larg
 
 ## How can donations be managed effectively?
 
-Every fundraising campaign also involves administration: funds raised must be recorded, donor data managed and **donation receipts** issued. Special software can be used for this purpose. **Fundraising software** combines financial management, **donor management**, [event planning]({{< relref "posts/veranstaltung-verwalten" >}}) and campaign planning in one system. Such programs often also offer the option to donate directly and offer various payment methods for this. The main advantages are:
+Every fundraising campaign also involves administration: funds raised must be recorded, donor data managed and **donation receipts** issued. Special software can be used for this purpose. **Fundraising software** combines [financial management]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), **donor management**, [event planning]({{< relref "posts/veranstaltung-verwalten" >}}) and campaign planning in one system. Such programs often also offer the option to donate directly and offer various payment methods for this. The main advantages are:
 
 - Efficient recording of donations and donor data
 - Individual donor approach through analysis of donor history and recording of preferences
@@ -97,11 +97,11 @@ Every fundraising campaign also involves administration: funds raised must be re
 
 ## Manage donations with SeaTable
 
-SeaTable's [free template]({{< relref "templates/finance/donation-overview" >}}) makes fundraising child's play and makes your donation management as simple as possible. Organize multiple projects in one place and stay organized. As a **no-code solution**, SeaTable is completely flexible and scalable, allowing you to customize the template to your specific needs with little effort instead of using off-the-shelf specialist software. As a GDPR-compliant solution** that is hosted exclusively on servers in Germany, SeaTable is also suitable for processing particularly sensitive data such as donor information.
+SeaTable's [free template]({{< relref "templates/finance/donation-overview" >}}) makes fundraising child's play and makes your donation management as simple as possible. Organize multiple projects in one place and stay organized. As a **no-code solution**, SeaTable is completely flexible and scalable, allowing you to customize the template to your specific needs with little effort instead of using off-the-shelf specialist software. As a **GDPR-compliant solution** that is hosted exclusively on servers in Germany, SeaTable is also suitable for processing particularly sensitive data such as donor information.
 
 {{< template-box id="f64c97dc0723400887c0" submit="Test template" text="Scroll through our interactive template and discover the first functions." >}}
 
-In your online database, you can not only collect and manage donations, but also automatically calculate the difference between donations already made and the target amount. **Integrate your payment service provider**, create donation receipts** with a single click and keep track of your donors' contact details and history. You can see all the important facts and the progress of your projects at a glance on a clear Kanban board. Your employees work together **collaboratively in real time** so that there is full transparency of the data at all times. With the **Universal App** you can easily build your own database frontend and provide your donors with reports and other information.
+In your online database, you can not only collect and manage donations, but also automatically calculate the difference between donations already made and the target amount. **Integrate your payment service provider**, create **donation receipts with a single click** and keep track of your donors' contact details and history. You can see all the important facts and the progress of your projects at a glance on a clear Kanban board. Your employees work together **collaboratively in real time** so that there is full transparency of the data at all times. With the **Universal App** you can easily build your own database frontend and provide your donors with reports and other information.
 
 ## FAQs - Fundraising
 

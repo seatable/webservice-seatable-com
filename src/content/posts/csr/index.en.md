@@ -1,5 +1,5 @@
 ---
-title: 'CSR - the basics of corporate social responsibility'
+title: 'CSR – the basics of corporate social responsibility'
 description: 'Corporate Social Responsibility (CSR) is about taking responsibility for environmental, social, and economic impacts. Companies committed to CSR not only enhance their reputation but also improve employee engagement and customer loyalty. Discover practical steps to implement CSR and create a sustainable long-term impact for your organization.'
 date: 2024-04-08
 lastmod: '2025-05-19'
@@ -14,7 +14,7 @@ categories:
 tags:
     - 'Build your Business'
     - 'Operations'
-color: '#4fb086'
+color: '#52b487'
 ---
 
 In an era where the trend toward **sustainability** is gaining momentum, companies face the challenge of meeting their customers’ higher expectations. The growing demand for sustainable products is reflected in consumer behavior, as people increasingly value environmental compatibility and social responsibility—keyword: **Corporate Social Responsibility (CSR)**.
@@ -105,6 +105,8 @@ By creating these reports, you ensure **transparency** and allow your stakeholde
 ## SeaTable Template
 
 To set concrete goals and track your progress, the free [SeaTable template]({{< relref "templates/operations/sustainability-management" >}}) is ideal. In the template, you can enter your goals, categorize them, and assign them to departments. In addition to planned measures, you can also set priorities and enter a target date.
+
+{{< template-box id="d5cbbf2bba084333a1d7" >}}
 
 With another table, you can keep an overview of all key figures and instantly see which areas you’ve already improved. You can also document sustainability certificates you’ve already received or are working toward, and automatically generate the next renewal date.
 

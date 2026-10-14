@@ -1,8 +1,8 @@
 ---
-title: 'Haz tu propio calendario de Adviento: 24 ideas para rellenarlo'
-description: 'En este artículo descubrirá qué debe tener en cuenta a la hora de planificar su proyecto, qué puede utilizar para rellenar el calendario de Adviento y empaquetar el contenido, y qué alternativas digitales existen.'
+title: 'Haga su propio calendario de Adviento: 24 ideas para rellenarlo'
+description: 'En este artículo descubrirá qué debe tener en cuenta a la hora de planificar su proyecto, con qué puede rellenar el calendario de Adviento, cómo puede envolver el contenido y qué alternativas digitales existen.'
 seo:
-    title: 'Haz tu propio calendario de adviento: Ideas creativas e instrucciones'
+    title: 'Haga su propio calendario de Adviento: ideas creativas e instrucciones'
     description: 'Aprenda a crear un calendario de Adviento único. Descubra sugerencias inspiradoras y descripciones detalladas para una temporada festiva.'
 color: '#264c41'
 categories:
@@ -12,171 +12,157 @@ tags:
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'
-url: '/es/haz-tu-propio-calendario-de-adviento'
+url: '/es/haga-su-propio-calendario-de-adviento'
 aliases:
     - /es/adventskalender-selber-machen/
+    - /es/haz-tu-propio-calendario-de-adviento/
 ---
 
-Cada año, **la anticipación de la Navidad** es grande. El olor a galletas recién horneadas está en el aire, la nieve cae suavemente fuera y la primera puerta del calendario de Adviento ya espera ansiosa a que la abras. Así que tienes un motivo para alegrarte todos los días de diciembre. La alegría es aún mayor si **haces tu propio calendario de Adviento** con mucha dedicación y se lo regalas a tus seres queridos.
+Cada año, **la ilusión por la Navidad** es grande. El aroma de las galletas recién horneadas flota en el aire, fuera cae suavemente la nieve y la primera puertecita del calendario de Adviento ya espera impaciente a que usted la abra. Así, en diciembre tiene cada día un motivo para alegrarse. La alegría es aún mayor si usted mismo **hace un calendario de Adviento** con mucha dedicación y se lo regala a sus seres queridos.
 
-En este artículo descubrirá qué debe tener en cuenta a la hora de planificar su proyecto, qué puede utilizar para rellenar el calendario de Adviento y empaquetar el contenido, y qué alternativas digitales existen.
+## ¿Por qué hacer su propio calendario de Adviento?
 
-## ¿Por qué hacer su propio calendario de adviento?
+Un calendario de Adviento hecho a mano es un regalo que viene **del corazón**. Al dedicarle tiempo y esfuerzo, demuestra a sus seres queridos lo mucho que significan para usted. Su creatividad no tiene límites a la hora de reunir el contenido y los envoltorios.
 
-Un calendario de Adviento casero es un regalo hecho **con el corazón**. Si le dedicas algo de tiempo y esfuerzo, demostrarás a tus seres queridos lo mucho que significan para ti. La creatividad no tiene límites a la hora de diseñar el contenido y el envoltorio.
+{{< warning headline="La historia del calendario de Adviento" >}}
 
-{{< warning headline="Historia del calendario de Adviento" >}}
-
-Si quiere saber de dónde viene la tradición del calendario de Adviento, haga clic [aquí](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
+Si desea saber de dónde viene la tradición del calendario de Adviento, haga clic [aquí](https://adventskalender.de/der-adventskalender-die-geschichte-und-entstehung.html).
 
 {{< /warning >}}
 
-## Crea tu propio calendario de adviento en 5 pasos
+## Haga su propio calendario de Adviento en 5 pasos
 
-El calendario de Adviento debe estar listo como muy tarde el 30 de noviembre. La siguiente planificación te ayudará a que nada se interponga en el camino:
+El calendario de Adviento debe estar listo, como muy tarde, el 30 de noviembre. Para que nada se interponga, le ayudará la siguiente planificación:
 
-![Cómo planificar su calendario de Adviento en 5 pasos.](five_steps_adventscalendar.jpg)
+![Cómo planificar su calendario de Adviento en 5 pasos.](five_steps_adventscalendar.jpg "Estos pasos conducen al éxito.")
 
-Estos pasos conducen al éxito.
+## 1\. ¿Para quién es el calendario de Adviento?
 
-## 1\. ¿para quién es el calendario de adviento?
+Tanto jóvenes como mayores esperan con ilusión abrir cada mañana una nueva puertecita. Un calendario de Adviento **no tiene límite de edad**. Regálelo, por ejemplo, a sus hijos, a sus padres, a su pareja y a sus mejores amigos.
 
-Ya sea joven o mayor, todo el mundo espera con ilusión abrir una nueva puerta por la mañana. Un calendario de adviento **no** conoce **límites de edad**. Regálalo a tus hijos, a tus padres, a tu pareja y a tus mejores amigos, por ejemplo.
+A la hora de planificar, tenga en cuenta **para quién** va a rellenar el calendario de Adviento, ya que no todo el mundo disfruta con las mismas cosas.
 
-A la hora de planificar, ten en cuenta **para quién** vas a llenar el calendario de Adviento. Porque no a todo el mundo le gustan las mismas cosas.
+![A los niños les encanta abrir una puertecita cada día.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
-![Los niños disfrutan especialmente abriendo una puertecita cada día.](pexels-cottonbro-6139608-e1718886096417.jpg)
+Si no está seguro de lo que le gusta a la persona a la que va a hacer el regalo, no dude en preguntar con discreción. Al fin y al cabo, ni el calendario de Adviento más elaborado sirve de nada si no gusta a quien lo recibe. Quizá le venga bien utilizar una [lista de deseos]({{< relref "templates/everyday-life/wish-list" >}}) para sus seres queridos.
 
-Cuando se abre una puerta, la alegría suele ser grande.
+## 2\. Determinar el presupuesto total
 
-Si no estás seguro de lo que le gusta a la persona a la que vas a hacer el regalo, no tengas miedo de preguntar discretamente. Al fin y al cabo, incluso el calendario de Adviento más elaborado es inútil si a la persona no le gusta.
+¿Menos de 10 euros, ningún gasto o todo el dinero que haga falta? Fije su presupuesto antes de empezar a planificar el contenido y los envoltorios.
 
-## 2\. determinar el presupuesto total
+Cuánto gasta en un calendario de Adviento debería depender de la persona que lo recibe. Por ejemplo, puede prever más dinero para la familia y los amigos que para parientes lejanos o compañeros de trabajo. Si en un grupo se regalan calendarios de Adviento unos a otros, normalmente se fija un importe máximo. Una opción gratuita es un calendario de Adviento digital. [Aquí]({{< relref "templates/everyday-life/advent-calendar" >}}) encontrará una plantilla muy útil.
 
-¿Menos de 10 euros, ningún gasto o todo el dinero que necesite? Determine su presupuesto antes de empezar a planificar el contenido y el envase.
+En cuanto haya fijado un importe aproximado, puede continuar con la planificación.
 
-El importe del calendario de Adviento dependerá de la persona que lo reciba. Por ejemplo, puede presupuestar más dinero para familiares y amigos que para parientes lejanos o compañeros de trabajo. Si se regalan calendarios de Adviento en grupo, suele fijarse una cantidad máxima. Una opción gratuita es un calendario de Adviento digital. [Aquí]({{< relref "templates/everyday-life/advent-calendar" >}}) encontrarás una plantilla muy útil.
+## 3\. Elegir el contenido con esmero
 
-En cuanto haya determinado un valor aproximado, puede empezar con la planificación.
+Vayamos al grano. La forma de rellenar el calendario de Adviento depende sobre todo de lo que pueda gustar a los destinatarios.
 
-## 3\. seleccionar cuidadosamente los contenidos
+### Para golosos
 
-Vayamos al grano. La forma de llenar el calendario de Adviento depende sobre todo de lo que le guste al destinatario.
+El **calendario de Adviento de chocolate** es, sin duda, el clásico entre los calendarios de Adviento. Ya sea en forma de sencilla tableta, moldeado con forma navideña o como fino praliné, ¡su sabor convence! Si quiere alegrar a alguien que no quiere renunciar a los dulces en Adviento, puede acertar con su gusto mediante golosinas seleccionadas por usted mismo y hacer un calendario de Adviento muy variado.
 
-### Para los más golosos
+![Rellenar un calendario de Adviento con chocolate es un clásico.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg "Decorar usted mismo el chocolate hace único el calendario de Adviento.")
 
-El **calendario de Adviento de chocolate** es sin duda el clásico entre los calendarios de Adviento. Ya sea en forma de simple tableta, moldeado con forma navideña o en forma de fino praliné, ¡su sabor convence! Si quiere hacer feliz a alguien que no quiere renunciar a los dulces durante el Adviento, puede satisfacer el gusto de esa persona con golosinas que usted mismo haya preparado y confeccionar su propio calendario de Adviento de diversas maneras.
-
-![Llenar un calendario de Adviento con chocolate es un clásico.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
-
-Decorar tú mismo el chocolate hace que el calendario de Adviento sea único.
-
-No te limites a un solo dulce, sino varía. Desde chicles de frutas y barritas de muesli hasta pan de especias, puede comprar lo que le apetezca. También puedes llenar el calendario de Adviento con galletas caseras o chocolate para beber en barra. Todo está en la mezcla.
+No se limite a un solo dulce, sino varíe. Desde gominolas y barritas de muesli hasta pan de especias, puede comprar todo lo que desee. Además, puede rellenar el calendario de Adviento con galletas caseras o chocolate caliente en palito. ¡La mezcla es lo que cuenta!
 
 ### Para gourmets
 
-Un **viaje culinario** alrededor del mundo; este calendario de Adviento es especialmente bueno para los cocineros aficionados. Regala **especias** envasadas, aceites finos o pastas de especias exóticas y una receta a juego para cocinar.
+Un **viaje culinario** alrededor del mundo: con este calendario de Adviento podrá alegrar especialmente a quienes disfrutan cocinando. Regale **especias** envasadas, aceites selectos o pastas de especias exóticas y, además, una receta adecuada para cocinarlas.
 
-{{< warning headline="Especias según la temporada" text="¿Añadir un toque navideño con especias? La mejor forma de hacerlo es con canela, clavo, anís estrellado o nuez moscada." />}}
+{{< warning headline="Especias acordes con la época del año" text="¿Quiere crear un toque navideño con especias? Lo mejor para ello son la canela, el clavo, el anís estrellado o la nuez moscada." />}}
 
-Sin embargo, comprar 24 especias diferentes es caro. En primer lugar, eche un vistazo a su propia casa para ver de qué especias puede prescindir. Porque incluso las especias más cotidianas sirven para preparar platos muy sabrosos.
+Sin embargo, comprar 24 especias diferentes es caro. Primero eche un vistazo en su casa para ver de qué especias puede apartar una pequeña cantidad. Porque incluso con especias de uso cotidiano se pueden preparar distintos platos sabrosos.
 
 ### Para creativos
 
-Para las personas artísticamente activas, lo ideal es un **juego de manualidades o de colorear** automontable. Deje volar la creatividad de su ser querido o regálele unas instrucciones de manualidades que le permitan trabajar en el proyecto un poco más cada día.
+Para las personas con inquietudes artísticas, resulta ideal un **set de manualidades o de pintura** preparado por usted mismo. Deje volar la creatividad de sus seres queridos o añada unas instrucciones de manualidades que les permitan avanzar un poco cada día en el proyecto.
 
-![Haz felices a los niños regalándoles objetos de artesanía.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
+![Haga felices a los niños regalándoles material para manualidades.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
-No hace falta ser muy creativo.
-
-Entre los posibles objetos pequeños con los que puedes llenar el calendario de Adviento se incluyen bolígrafos, tubos de colores, pegamento con purpurina, tiza, washi tape o plantillas.
+Entre las pequeñas cosas con las que puede rellenar el calendario de Adviento se incluyen, por ejemplo, rotuladores, tubos de pintura, pegamento con purpurina, tiza, washi tape o plantillas.
 
 ### Para poetas
 
-¿Eres un maestro de las palabras y te gusta forjar frases? Entonces esconde un **mensaje navide**ño escrito a mano, un **poema** escrito por ti mismo o una **cita** inspiradora detrás de las puertecitas.
+¿Es usted un maestro de las palabras y le gusta forjar frases? Entonces esconda detrás de las puertecitas un **mensaje** navideño escrito a mano, un **poema** de su propia cosecha o una **cita** inspiradora.
 
-"Oh, qué bonito es cuando es Navidad. Ojalá fuera Navidad un poco más a menudo".  
-Astrid Lindgren
+> Oh, qué bonito es cuando es Navidad. Solo desearía que fuera Navidad un poco más a menudo. – Astrid Lindgren
 
-### Para los rompecabezas
+### Para amantes de los puzles
 
-Lo siguiente es válido para rellenar calendarios de Adviento, especialmente **para niños**: Cuanto más emocionante, mejor. Prepárele a su hijo algo que le divierta durante más tiempo. Por ejemplo, un puzzle o un juego de Lego en el que cada día haya que montar una sección.
+Especialmente **para los niños**, a la hora de rellenar el calendario de Adviento vale lo siguiente: cuanto más emocionante, mejor. Prepare para su hijo algo con lo que disfrute durante más tiempo. Por ejemplo, un puzle o un set de Lego en el que cada día se monte una parte.
 
-![Los sets de Lego también están disponibles en forma de calendario de Adviento.](handcraft-8226964_640-e1718624762925.jpg)
+![Los sets de Lego también existen en formato de calendario de Adviento.](handcraft-8226964_640-e1718624762925.jpg)
 
-Dé a su hijo algo que le guste.
-
-Una idea ciertamente desafiante es diseñar un rompecabezas en el que el niño se acerque cada día un paso más a la solución. Puedes esconder pistas por la casa como si fuera una yincana y hacer que el calendario de Adviento sea interactivo.
+Una idea, eso sí, exigente es diseñar un acertijo con el que el niño se acerque un paso más cada día a la solución. Como en una especie de búsqueda del tesoro, puede esconder pistas por la casa y hacer que el calendario de Adviento sea interactivo.
 
 ### Para aficionados al bricolaje
 
-¿Te gustaría regalar algo que te salga del corazón y en lo que hayas puesto mucho empeño y corazón? Entonces **los regalos caseros** son la elección perfecta. Decora tazas o adornos para el árbol de Navidad, por ejemplo, y sorprende a tus seres queridos con regalos únicos.
+¿Quiere regalar algo que venga del corazón y en lo que haya puesto mucho trabajo y entrega? Entonces los **detalles hechos a mano** son la mejor opción. Decore, por ejemplo, tazas o bolas de Navidad y sorprenda a sus seres queridos con regalos únicos.
 
-Regale **tiempo juntos** en forma de vales, por ejemplo para largos paseos por la nieve, una relajada tarde de cocina o un útil curso de máquina de coser.
+Regale **tiempo juntos** en forma de vales, por ejemplo, para largos paseos por la nieve, una relajada velada de cocina o un útil curso de costura.
 
-Tu regalo parecerá especialmente único si lo combinas con un objeto simbólico. En lugar de escribir la sorpresa en un papel, ¿qué tal una zanahoria como símbolo de la construcción de un muñeco de nieve o una entrada dorada que anuncie una tarde de cine juntos?
+Su regalo resultará especialmente original si lo combina con un objeto simbólico. En lugar de escribir la sorpresa en un papel, ¿qué le parece una zanahoria como símbolo de la construcción de un muñeco de nieve o una entrada dorada que anuncie una noche de cine en compañía?
 
-**24 ideas para su calendario de adviento de un vistazo**
+### 24 ideas para su calendario de Adviento de un vistazo
 
-Una mezcla de diferentes productos garantiza la emoción hasta el último segundo.
+Una mezcla de distintos productos mantiene la emoción hasta el último segundo.
 
-![24 ideas para llenar tu calendario de adviento.](gift_ideas_adventscalendar.jpg)
+![24 ideas para rellenar su calendario de Adviento.](gift_ideas_adventscalendar.jpg)
 
-Todo está en la mezcla.
+## 4\. Buscar envoltorios adecuados
 
-## 4\. búsqueda de envases adecuados
+Una cosa es el contenido y otra el envoltorio adecuado. Para que la sorpresa funcione cada día, el regalo debe estar bien envuelto, a salvo de miradas curiosas.
 
-Una cosa es el contenido y otra el envoltorio adecuado. Para que la sorpresa sea un éxito cada día, el regalo debe estar bien envuelto, lejos de miradas indiscretas.
+A la hora de elegir los envoltorios, debería plantearse las siguientes preguntas:
 
-A la hora de seleccionar el envase, debe plantearse las siguientes preguntas:
-
-- ¿Todos los envases deben ser iguales?
-- ¿Es importante para mí la sostenibilidad del calendario?
-- ¿Qué herramientas de artesanía necesito?
-- ¿Dónde colocar el calendario de Adviento?
+- ¿Deben tener todos los envoltorios el mismo aspecto?
+- ¿Me importa la sostenibilidad del calendario?
+- ¿Qué herramientas de manualidades necesito?
+- ¿Dónde se colocará el calendario de Adviento?
 
 ### Materiales
 
-¿Cómo deben envolverse los regalos? En primer lugar, depende de si prefiere un estilo uniforme. Si el contenido es de distintos tamaños, esto se nota enseguida en las **bolsas de papel**. Si no quieres que la gente adivine lo que hay detrás por el tamaño, **las cajas de cartón** son adecuadas.
+¿Cómo envolver, pues, los regalos? Eso depende, en primer lugar, de si prefiere un estilo uniforme. Si los contenidos son de distinto tamaño, se nota enseguida en las **bolsas de papel**. Si le importa que por el tamaño no se pueda adivinar lo que se esconde tras la puertecita, son adecuadas las **cajas de cartón**.
 
-Si vas a hacer tu propio calendario de Adviento y todo el contenido (por ejemplo, las barritas de chocolate) es más o menos del mismo tamaño, puedes pintar rollos de papel higiénico y utilizarlos como envoltorio.
+Si hace usted un calendario de Adviento y todos los contenidos (p. ej., barritas de chocolate) tienen aproximadamente el mismo tamaño, puede pintar rollos de papel higiénico y utilizarlos como envoltorio.
 
-![El envase clásico es la bolsa de papel.](pexels-nati-87264186-19312001-e1718886187213.jpg)
-
-La forma más fácil de empaquetar es con bolsas de papel.
+![El envoltorio clásico es la bolsa de papel.](pexels-nati-87264186-19312001-e1718886187213.jpg "Lo más sencillo es envolver con bolsas de papel.")
 
 ### Sostenibilidad
 
-Invierte en materiales resistentes, como bolsas de tela o cajas de madera, o utiliza latas y tarros ya existentes para envolver tus regalos. Por un lado, de este modo desperdiciarás menos y, por otro, podrás reutilizar los envases el año que viene.
+Invierta en material resistente, como bolsas de tela o cajas de madera, o utilice latas y tarros que ya tenga en casa para envolver sus regalos. Así, por un lado, se genera menos basura y, por otro, podrá reutilizar los envoltorios el año que viene.
 
 ### Herramientas
 
-Para dar el toque final al envoltorio, debes decorarlo con los números del 1 al 24. Colorear, troquelar, pegar... todo lo que quieras está permitido.
+Para dar el toque final a los envoltorios, debería numerarlos del 1 al 24. Pintar, troquelar, pegar: vale todo lo que le guste.
 
-También tienes la opción de añadir más adornos. Dependiendo de cómo quieras diseñar tu envoltorio, te serán útiles las siguientes herramientas: tijeras, pegamento, bolígrafos, pegatinas, cinta adhesiva, grapadora, cordón.
+Además, puede añadir de forma opcional otros adornos. Según cómo desee diseñar sus envoltorios, le pueden resultar útiles las siguientes herramientas: tijeras, pegamento, rotuladores, pegatinas, cinta adhesiva, grapadora, cordel.
 
 ### Colocación y presentación del calendario de Adviento
 
-Si está preparando el calendario de Adviento para alguien de su casa, también debe pensar en la presentación. Al fin y al cabo, un calendario de Adviento funciona mejor cuando está constantemente presente, de modo que el suspense de lo que hay detrás de la puerta de al lado es casi insoportable.
+Si prepara el calendario de Adviento para una persona de su hogar, debería pensar también en la presentación. Al fin y al cabo, un calendario de Adviento funciona mejor cuando está siempre presente, de modo que la emoción por saber qué hay detrás de la siguiente puertecita sea casi insoportable.
 
-Si los paquetes son ligeros, puedes colgarlos en la pared con una cuerda o perchas, por ejemplo. Los paquetes pesados o los tarros pueden alinearse o apilarse en una superficie plana. Queda especialmente impresionante si sujetas los paquetes a una barandilla.
+Si los paquetes son ligeros, puede colgarlos de una pared con un cordel o con perchas, por ejemplo. Los paquetes pesados o los tarros pueden colocarse en fila o apilarse sobre una superficie plana. Queda especialmente vistoso si sujeta los paquetes a la barandilla de una escalera.
 
-## 5\. compre todo lo que necesite
+## 5\. Comprar todo lo necesario
 
-Hay mucho que comprar y poco tiempo. Para asegurarte de que consigues todo lo que necesitas, tiene sentido elaborar una [lista de la compra]({{< relref "posts/einkaufsliste" >}}). Investiga con tiempo dónde puedes conseguir lo que necesitas. Especialmente si haces mucho bricolaje, no sólo debes pensar en los materiales, sino también en las herramientas.
+Hay mucho que conseguir y poco tiempo. Para asegurarse de conseguir todo lo que necesita, resulta útil elaborar una [lista de la compra]({{< relref "posts/einkaufsliste" >}}). Investigue con suficiente antelación dónde puede conseguir cada cosa. Sobre todo si hace usted muchas manualidades, no solo debe pensar en los materiales, sino también en las herramientas.
 
-### Planifique en línea con qué llenar sus calendarios de Adviento
+### Planifique en línea con qué rellenar sus calendarios de Adviento
 
-Puede convertirse rápidamente en un caos, sobre todo si usted mismo está haciendo varios calendarios de Adviento. [El planificador online]({{< relref "templates/everyday-life/advent-calendar" >}}) personalizable [de SeaTable]({{< relref "templates/everyday-life/advent-calendar" >}}) te ayudará con los preparativos. Introduzca lo que necesita para sus calendarios de Adviento y vea de un vistazo qué cantidades tiene que comprar y qué regalos tiene que esconder detrás de qué puertas.
+Sobre todo si hace varios calendarios de Adviento, todo puede volverse rápidamente caótico. Para los preparativos le ayudará el [planificador online de SeaTable]({{< relref "templates/everyday-life/advent-calendar" >}}), que puede personalizar a su gusto. Anote lo que necesita para sus calendarios de Adviento y vea de un vistazo qué cantidades tiene que comprar y detrás de qué puertecita esconde cada regalo.
 
-Aunque llene una docena de calendarios de Adviento privados, nunca perderá la visión de conjunto gracias a las distintas vistas, organizadas por persona (cuadros 2 y 3).
+{{< template-box id="618993ff2f964dadb460" >}}
 
-## Su calendario de adviento virtual para compartir
+Aunque rellene una docena de calendarios de Adviento privados, nunca perderá la visión de conjunto gracias a las distintas vistas, organizadas por persona (tablas 2 y 3).
 
-Un **calendario de adviento digital** es sostenible y creativo. Si quieres hacer feliz a alguien que vive lejos, esta alternativa es lo que necesitas. Puedes enviar fotos, vídeos o textos como mensajes digitales. Un calendario de este tipo también es adecuado para un grupo más amplio de personas, ya que los contenidos son fáciles de duplicar.
+## Su calendario de Adviento virtual para compartir
 
-Puedes utilizar SeaTable para crear tu calendario de Adviento virtual. Diseña una puertecita para cada día, crea una galería con la ayuda de una aplicación y haz que tu contenido, seleccionado con cariño, esté fácilmente disponible a través de un enlace.
+Un **calendario de Adviento digital** es sostenible y, al mismo tiempo, creativo. Si quiere alegrar a alguien que vive lejos, esta alternativa es la adecuada para usted. Como mensajes digitales puede enviar imágenes, vídeos o textos. Además, un calendario de este tipo también es apto para un grupo grande de personas, ya que los contenidos son fáciles de duplicar.
+
+Para crear su calendario de Adviento virtual puede utilizar SeaTable. Diseñe una puertecita para cada día, cree una galería con la ayuda de una app y ponga a disposición de los destinatarios, simplemente mediante un enlace, los contenidos que ha seleccionado con tanto cariño.
 
 ![Calendario de Adviento privado](Private-Advent-Calendar.png)
 
-Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí]({{< relref "templates/everyday-life/advent-calendar" >}}).
+Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, [regístrese]({{< relref "pages/registration" >}}) gratis con su dirección de correo electrónico. La plantilla, también gratuita, la encontrará [aquí]({{< relref "templates/everyday-life/advent-calendar" >}}).
