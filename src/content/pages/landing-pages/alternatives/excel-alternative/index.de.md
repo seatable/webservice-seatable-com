@@ -73,30 +73,30 @@ sections:
       items:
           - headline: Daten importieren
             text: 'Importieren Sie XLSX- und CSV-Dateien als neue Base, als neue Tabelle oder in eine bestehende Tabelle ([Anleitung]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})). In SeaTable Cloud sind Dateien bis 100 MB und 50.000 Zeilen pro Import möglich. Eingebettete Grafiken und Querverweise werden nicht übernommen ([Grenzen beim Import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})).'
-            image: /images/Excel-Alternative_Daten-effizient-organisieren.png
-            image_alt: 'SeaTable Tabellenansicht mit verschiedenen Spaltentypen nach dem Import aus Excel'
+            image: /images/landing_page_excel_alternative_01.png
+            image_alt: ''
           - headline: Verknüpfungen statt SVERWEIS
             text: 'Mit der [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) verweisen Sie von einem Auftrag auf den Kunden und die Produkte. Werte aus verknüpften Datensätzen holen und summieren Sie mit der Spalte „Formel für Verknüpfungen“ (Lookup, Rollup). Bestehende Daten verknüpfen Sie nach dem Import per [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}).'
-            image: /images/Excel-Alternative_Ansichten.png
-            image_alt: 'Verknüpfte Tabellen in SeaTable als Ersatz für SVERWEIS'
+            image: /images/landing_page_excel_alternative_02.png
+            image_alt: ''
           - headline: Formeln, aber pro Spalte
             text: 'Formeln gibt es auch in SeaTable, sie gelten aber für eine ganze Spalte statt für einzelne Zellen. Das macht sie robuster, verlangt beim Umstieg aber ein Umdenken. Die wichtigsten Unterschiede erklärt der Artikel [Unterschiede zwischen Formeln in Excel und SeaTable]({{< relref "help/base-editor/formeln/unterschiede-zwischen-formeln-in-excel-und-seatable" >}}).'
-            image: /images/Filterfunktionen.png
-            image_alt: 'SeaTable Tabelle mit Formelspalte, Filter und Sortierung'
+            image: /images/landing_page_excel_alternative_03.png
+            image_alt: ''
           - headline: Ansichten und Auswertungen
             text: 'Filtern, sortieren und gruppieren Sie wie gewohnt und speichern Sie jede Sicht als eigene Ansicht. Kalender, Kanban, Galerie und Zeitleiste zeigen dieselben Daten aus anderen Blickwinkeln; Diagramme und Pivot-Tabellen werten sie aus.'
-            image: /images/Excel-Alternative_Datenverarbeitung.png
-            image_alt: 'SeaTable Oberfläche mit Diagrammen und Pivot-Tabellen'
+            image: /images/landing_page_excel_alternative_04.png
+            image_alt: ''
           - headline: Kostenlose Vorlagen
             text: 'Statt bei null anzufangen, nutzen Sie eine der kostenlosen Vorlagen für Projekte, Aufgaben, Personal, Termine oder Finanzen und passen sie an Ihre Daten an.'
-            image: /images/Excel-Alternative-Templates.png
-            image_alt: 'Auswahl an SeaTable Vorlagen für verschiedene Fachbereiche'
+            image: /images/landing_page_excel_alternative_05.png
+            image_alt: ''
 
     - name: 'content-10'
       weight: 5
       title: 'Automationen und KI'
       subtitle: 'Weniger Handarbeit'
-      description: 'Automationen erledigen wiederkehrende Schritte: Benachrichtigungen bei Fristen, Statuswechsel, neue Datensätze. Im Free-Tarif sind 100 Ausführungen pro Monat und Nutzer enthalten, im Plus-Tarif 500, im Enterprise-Tarif 5.000.<br><br>Mit **KI-Automationen** fassen Sie Texte zusammen, ordnen Einträge Kategorien zu, ziehen Angaben aus Dokumenten oder lesen Text aus Bildern. Mit einem eigenen Prompt kann die KI auch Kennzahlen eines Datensatzes einordnen und kommentieren. Für Fragen über ganze Tabellen, etwa „Wie verteilen sich die Anfragen nach Kategorie?“, gibt es den **KI-Chat** direkt in der Base. Dazu kommen Python- und JavaScript-Skripte sowie Integrationen mit Zapier, Make, n8n und die SeaTable API.'
+      description: 'Automationen erledigen wiederkehrende Schritte: Benachrichtigungen bei Fristen, Statuswechsel, neue Datensätze. Im Free-Tarif sind 100 Ausführungen pro Monat und Nutzer enthalten, im Plus-Tarif 500, im Enterprise-Tarif 5.000.<br><br>Mit KI-Automationen fassen Sie Texte zusammen, ordnen Einträge Kategorien zu, ziehen Angaben aus Dokumenten oder lesen Text aus Bildern. Mit einem eigenen Prompt kann die KI auch Kennzahlen eines Datensatzes einordnen und kommentieren. Für Fragen über ganze Tabellen, etwa „Wie verteilen sich die Anfragen nach Kategorie?“, gibt es den KI-Chat direkt in der Base. Dazu kommen Python- und JavaScript-Skripte sowie Integrationen mit Zapier, Make, n8n und die SeaTable API.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
