@@ -6,8 +6,6 @@ seo:
     description: 'How to Keep a Care Journal Correctly: How to Comprehensively Document Care Needs, Avoid Errors During Assessments, and Ensure the Correct Care Classification'
 date: 2026-08-31
 url: '/keeping-a-care-diary/'
-aliases:
-    - '/Keeping a Care Diary/'
 categories:
     - 'best-practice'
 tags:
