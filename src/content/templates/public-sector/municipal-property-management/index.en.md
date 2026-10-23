@@ -2,7 +2,7 @@
 title: 'Kommunale Liegenschaftsverwaltung'
 description: 'Verwalten Sie Ihren kommunalen Immobilienbestand zentral: Objekte, Verträge, Zahlungen und Projekte verknüpft in einer No-Code-Vorlage – DSGVO-konform.'
 date: '2026-10-23'
-url: '/de/vorlage/kommunale-liegenschaftsverwaltung/'
+url: '/vorlage/kommunale-liegenschaftsverwaltung/'
 category: 'public sector'
 functions:
 seo:
