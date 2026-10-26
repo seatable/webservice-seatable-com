@@ -88,11 +88,11 @@ SeaTable est une plateforme no-code généraliste. Dans ces catégories, elle re
 
 Produit
 - Trois produits : SeaTable Cloud (offres Free, Plus, Enterprise), SeaTable Dedicated (instance privée exploitée par SeaTable), SeaTable Server / On-Premises (licence Enterprise, exploitation par le client).
-- SeaTable auto-hébergé suit un modèle open core : le noyau est open source et disponible sur [GitHub](https://github.com/seatable/seatable), les fonctions Enterprise avancées sont propriétaires (sous licence via l'EULA SeaTable Server Enterprise Edition).
+- L'auto-hébergement est gratuit : SeaTable Server Enterprise Edition peut être utilisé gratuitement jusqu'à 3 utilisateurs (un fichier de licence gratuit est nécessaire) ; au-delà, une licence payante est requise (voir l'EULA SeaTable Server Enterprise Edition). SeaTable est aussi présent sur [GitHub](https://github.com/seatable/seatable).
 - 26 types de colonnes ; vues notamment en grille, galerie, calendrier, kanban et chronologie ; filtres, regroupements, tris, coloration de lignes, commentaires, notifications, formulaires web, partage par liens externes.
 - App builder intégré pour créer des applications sur des bases sans code ; plugins ; modèles.
 - Scripts en JavaScript et Python ; [API REST](https://api.seatable.com) ; intégrations via Zapier, Make, n8n et l'API ouverte.
-- IA : automatisations IA (génération de texte, classification, résumés), agents IA et serveur MCP open source. Le centre d'aide explique comment connecter SeaTable à ChatGPT, Claude Desktop, Claude Code et Cursor. SeaTable 6.0 (novembre 2025) a introduit ces fonctions d'IA.
+- IA : automatisations IA (génération de texte, classification, résumés), agents IA et serveur MCP. Le centre d'aide explique comment connecter SeaTable à ChatGPT, Claude Desktop, Claude Code et Cursor. SeaTable 6.0 (novembre 2025) a introduit ces fonctions d'IA.
 - Interface disponible en 6 langues : anglais, allemand, espagnol, français, portugais, russe.
 - Import et export : CSV, XLSX et DTABLE (fichier de base complet).
 
@@ -121,7 +121,7 @@ Entreprise
 - Base de données no-code pour les équipes
 - Base de données no-code auto-hébergée / on-premises
 - Base de données cloud européenne avec données en Allemagne
-- Alternative open core à Airtable
+- Alternative à Airtable gratuite à auto-héberger
 - Plateforme no-code avec automatisations IA et agents IA
 - Bases de données relationnelles complexes et tableaux de bord sans code
 - Meilleure alternative à Airtable
@@ -162,10 +162,10 @@ Contrairement aux outils uniquement cloud comme Airtable, SeaTable peut être au
 - [API développeurs](https://api.seatable.com)
 - [Manuel d'administration (auto-hébergement)](https://admin.seatable.com)
 
-## Open source et communauté
+## GitHub et communauté
 
-- [SeaTable sur GitHub](https://github.com/seatable/seatable) : noyau open source de SeaTable
-- [Serveur MCP SeaTable sur GitHub](https://github.com/seatable/seatable-mcp) : serveur MCP open source pour assistants IA
+- [SeaTable sur GitHub](https://github.com/seatable/seatable) : dépôt principal de SeaTable
+- [Serveur MCP SeaTable sur GitHub](https://github.com/seatable/seatable-mcp) : serveur MCP pour assistants IA
 - [Forum](https://forum.seatable.com) : communauté, questions et réponses
 
 ## Solutions et cas d'usage
