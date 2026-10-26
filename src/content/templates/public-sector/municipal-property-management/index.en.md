@@ -14,7 +14,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Kommunale Liegenschaftsverwaltung einfach digital – Vorlage für Verwaltungen'
-      text: 'Excel-Listen, Papierakten und Datensilos in einzelnen Fachämtern verstellen den Blick auf den kommunalen Immobilienbestand. Verträge laufen unbemerkt aus, Kündigungsfristen verstreichen, und Objekte, Zuständigkeiten und Projekte bleiben unverknüpft. Mit der kostenlosen SeaTable-Vorlage bündeln Sie die kommunale Liegenschaftsverwaltung in einem No-Code-System: alles verknüpft, nachvollziehbar und DSGVO-konform mit Servern in Deutschland.'
+      text: 'Excel-Listen, Papierakten und Datensilos in einzelnen Fachämtern verstellen den Blick auf den kommunalen Immobilienbestand. Verträge laufen unbemerkt aus, Kündigungsfristen verstreichen, und Objekte, Zuständigkeiten und Projekte bleiben unverknüpft. Mit der kostenlosen SeaTable-Vorlage **bündeln Sie die kommunale Liegenschaftsverwaltun**g in einem No-Code-System: alles verknüpft, nachvollziehbar und **DSGVO-konform mit Servern in Deutschland**.'
       classes:
           - bg-white
       template: 'b119bb39340842419781'
@@ -43,7 +43,7 @@ sections:
           text: 'Bewerten Sie Ihr Portfolio anhand individueller Kriterien und gleichen Sie die Bewertung mit dem Bedarf ab. So werden strategische Entscheidungen nachvollziehbar.' 
         - icon: 'pencil'
           headline: 'DSGVO-konforme Verwaltung'
-          text: 'erfüllt höchste Sicherheitsanforderungen und wird ausschließlich auf Servern europäischer Unternehmen in Deutschland gehostet.'
+          text: 'SeaTable erfüllt höchste Sicherheitsanforderungen und wird ausschließlich auf Servern europäischer Unternehmen in Deutschland gehostet.'
         - icon: 'bell'
           headline: 'Leerstände aktiv managen'
           text: 'Sehen Sie auf einen Blick, welche Objekte leer stehen oder welche Nutzungen demnächst auslaufen. So planen Sie Nachnutzungen oder Umbauprojekte gezielt.' 
@@ -72,16 +72,16 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Kommunale Liegenschaften digital verwalten'
       subtitle: 'Darum setzen Kommunen auf SeaTable'
-      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie eine moderne und datenschutzkonforme Lösung für die [kommunale Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}). Sie verknüpfen Objekte, Verträge, Zahlungen, Kontakte und Zuständigkeiten, statt Informationen in Einzeltabellen zu pflegen. Die Vorlage für kommunales Immobilienmanagement lässt sich flexibel an Ihre Abläufe anpassen und liefert die Datenbasis für ein digitales Gebäudemanagement im öffentlichen Dienst.'
+      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie eine moderne und datenschutzkonforme Lösung für die [kommunale Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}). Sie verknüpfen Objekte, Verträge, Zahlungen, Kontakte und Zuständigkeiten, statt Informationen in Einzeltabellen zu pflegen. Die Vorlage für kommunales Immobilienmanagement lässt sich flexibel an Ihre Abläufe anpassen und **liefert die Datenbasis für ein digitales Gebäudemanagement** im öffentlichen Dienst.'
       items:
       - text: '**Stets aktuell**: Jede Änderung ist sofort für alle Berechtigten sichtbar. Sachbearbeitung und Leitung arbeiten immer mit demselben Stand.'
       - text: '**Echtzeit-Kollaboration zwischen Fachämtern**: Liegenschaftsamt, Hochbauamt, Schul- und Sportamt sowie Kämmerei nutzen ein System und arbeiten in Echtzeit zusammen.'
-      - text: '**Zentrales Register**: Pflegen Sie Grundstücke und Gebäude in einem zentralen Verzeichnis gepflegt. Das Liegenschaftsamt und Fachämter arbeiten auf derselben Datenbasis.'
+      - text: '**Zentrales Register**: Pflegen Sie Grundstücke und Gebäude in einem zentralen Verzeichnis. Das Liegenschaftsamt und Fachämter arbeiten auf derselben Datenbasis.'
       - text: '**Integrierte Automationen**: Nutzen Sie integrierte Automatisierungen und automatisierte Benachrichtigungen für schlanke Prozesse, um zum Beispiel automatisierte Benachrichtigungen zu versenden. So reduzieren Sie manuelle Aufwände.'
       - text: '**On-premises**: Für noch mehr Datenkontrolle steht Ihnen mit SeaTable Server eine on-premises Lösung zur Verfügung.'
       image_position: [left]
-      image: '/images/template_page_inventarisierung_museen_01.png'
-      image_alt: 'Digitales Bestandsverzeichnis für Museen mit Galerie-Ansicht, Kanban-Board und Objektdetails in SeaTable'
+      image: '/images/template_page_liegenschaftsverwaltung_01.png'
+      image_alt: 'Objektübersicht gruppiert nach Nutzungsart in der kommunalen Liegenschaftsverwaltung-App'
 
     - name: "content-25"
       weight: 10
@@ -89,21 +89,21 @@ sections:
       subtitle: 'So funktioniert die Vorlage '
       items:
       - headline: 'Einfache Datenerfassung über Formulare'
-        text: 'Wenn Sie es satt haben, Tabellen in Excel auszufüllen, werden Sie SeaTable lieben. Erfassen Sie IhreBedarfsanmeldungen und Projektevaluierungen bequem per Webformular. Der neue Eintrag wird automatisch mit dem aktuellen Datum in der entsprechenden Tabelle gespeichert.'
-        image: '/images/template_page_inventarisierung_museen_02.png'
-        image_alt: 'Objekttabelle mit Galerie-Ansicht, Zustandsfotos und Herkunftsdaten im digitalen Bestandsverzeichnis'
+        text: 'Wenn Sie genug davon haben, Tabellen in Excel auszufüllen, werden Sie SeaTable lieben. Erfassen Sie Ihre Bedarfsanmeldungen und Projektevaluierungen bequem per Webformular. Der neue Eintrag wird automatisch mit dem aktuellen Datum in der entsprechenden Tabelle gespeichert.'
+        image: '/images/templatepage_liegenschaftsverwaltung_02.png'
+        image_alt: 'Eingabeformular für eine Projektevaluierung in der Liegenschaftsverwaltung-App'
       - headline: 'Objekte, Fachämter und Verträge verknüpfen'  
         text: 'Die Tabelle "Objects" ist das Herzstück der Vorlage für kommunale Liegenschaftsverwaltung. Sie enthält alle eigenen und angemieteten Grundstücke und Gebäude mit Adresse, Nutzungsart, Eigentumsverhältnis, Fläche. In "Contracts" erfassen Sie Mietverträge, Pachtverträge, Erbbaurechte und Nutzungsvereinbarungen, und in der Tabelle "Organization" ordnen Sie jede Liegenschaft einem verantwortlichen Fachbereich zu. Alle Tabellen sind untereinander verknüpft, so dass keine Information doppelt gepflegt wird.'
-        image: '/images/template_page_inventarisierung_museen_03.png'
-        image_alt: 'Künstlertabelle mit Biografien und verlinkten Kunstgegenständen im Sammlungsmanagement für Museen'
+        image: '/images/templatepage_liegenschaftsverwaltung_03.png'
+        image_alt: 'Übersicht der verknüpften Spalten in den Tabellen Objects, Contracts und Organization'
       - headline: 'Portfolio bewerten und Maßnahmen festlegen'
         text: 'In der Tabelle "Portfolio evaluation" bewerten Sie Zustand, Lage, Restnutzungsdauer und Eignung eines Objekts zu festgelegten Stichtagen. Per Kanban-Board ordnen Sie jedem Objekt per Drag-and-drop eine Maßnahme zu, z. B. Halten, Umnutzen, Verkaufen oder Entwickeln. Über eine Verknüpfung mit der Tabelle "Projects" sehen Sie sofort, welches konkrete Projekt mit einem Evaluierungsergebnis zusammenhängt.'
-        image: '/images/template_page_inventarisierung_museen_04.png'
-        image_alt: 'Leihverkehr-Tabelle mit Fristen, Verträgen und automatischen Erinnerungen im digitalen Bestandsverzeichnis'
+        image: '/images/templatepage_liegenschaftsverwaltung_04.png'
+        image_alt: Kanban-Board der kommunalen Liegenschaftsevaluierung'
       - headline: 'Bedarfe erfassen und Projekte planen'
         text: 'Fachämter melden ihren Flächenbedarf in der Tabelle "Requirements", etwa eine zusätzliche Kita-Gruppe oder einen neuen Bürostandort. Über die Verknüpfung mit einem Objekt prüfen Sie, ob der Bedarf gedeckt ist. In "Projects" planen Sie Ihr [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) mit abgeleiteten Maßnahmen wie Umbauten oder Umzügen mit Budget und Zeitplan. '
-        image: '/images/template_page_inventarisierung_museen_05.png'
-        image_alt: 'Kanban-Board für Restaurierungsprojekte mit Statusverfolgung und Dokumentation im Museum-Bestandsverzeichnis'
+        image: '/images/templatepage_liegenschaftsverwaltung_05.png'
+        image_alt: 'Bedarfsübersicht gruppiert nach Fachämtern in der Liegenschaftsverwaltung-Vorlage'
             
     - name: "content-6"
       weight: 12
@@ -113,13 +113,13 @@ sections:
       title: 'Vom Objektregister zur Entscheidungsgrundlage'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem App Builder erstellen Sie per Drag-and-Drop individuelle Frontends für das Gebäudemanagement im öffentlichen Dienst. Die Vorlage bietet bereits zwei vorbereitete Apps: eine interne für Bewertungen, Bedarfsmeldungen, Objektgalerie, Objektkarten und Projektübersicht sowie eine für Mietinteressenten mit Anfrageformular und Galerie leerstehender Objekte. [Legen Sie beliebig viele weitere Apps an]({{< relref "posts/20250318-app-erstellen" >}}) und modifizieren Sie die bestehenden nach Bedarf, um Ihre kommunale Liegenschaftsverwaltung zu organisieren..'
-      image: '/images/template_page_inventarisierung_museen_06.png'
-      image_alt: 'Interaktive Museum-App mit Galerie-Ansicht, Leihverkehr-Übersicht und Formularen für mobile Objekterfassung'
+      - text: 'Mit SeaTables integriertem App Builder erstellen Sie per Drag-and-Drop **individuelle Frontends für das Gebäudemanagement im öffentlichen Dienst**. Die Vorlage bietet bereits **zwei vorbereitete Apps**: eine interne für Bewertungen, Bedarfsmeldungen, Objektgalerie, Objektkarten und Projektübersicht sowie eine für Mietinteressenten mit Anfrageformular und einer Galerie leerstehender Objekte. [Legen Sie beliebig viele weitere Apps an]({{< relref "posts/20250318-app-erstellen" >}}) und modifizieren Sie die bestehenden nach Bedarf, um Ihre kommunale Liegenschaftsverwaltung zu organisieren.'
+      image: '/images/template_page_liegenschaftsverwaltung_06.png'
+      image_alt: 'Interne App für die kommunale Liegenschaftsverwaltung mit Objekt-Steckbriefen'
 
     - name: "banner-3"
       weight: 15
-      title: 'Ihre kommunale Liegenschaftsverwaltung modern und digital organiseren – mit SeaTable'
+      title: 'Ihre kommunale Liegenschaftsverwaltung modern und digital organisieren – mit SeaTable'
       buttons:
         - label: Jetzt die InventLiegenschaftsverwaltung-Vorlage für Kommunen nutzen
           link: pages/registration
@@ -131,10 +131,10 @@ sections:
       description: 'Mit SeaTable nutzen kommunale Verwaltungen leistungsstarke, DSGVO-konforme [KI-gestützte Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Digitalisieren Sie zum Beispiel Ihre alten Akten und lesen Sie Vertragsdaten automatisiert aus. So setzen Sie ein professionelles, modernes und digitales Gebäudemanagement im öffentlichen Dienst mit weniger manuellem Aufwand um.'
       items:
       - headline: 'Verträge zusammenfassen:'
-        text: 'Nutzen Sie die Summarize-Funktion, um Verträge oder Schriftwechsel automatisch zusammenzufassen. So erfassen Sachbearbeiter die wichtigen Kernpunkte auf einen Blick.'
+        text: 'Nutzen Sie die Summarize-Funktion, um Verträge oder Schriftwechsel automatisch zusammenzufassen. So erfassen Sachbearbeiter die wichtigen Kernpunkte auf einen Blick und verkürzen Bearbeitungszeiten.'
         icon: table
       - headline: 'Liegenschaften kategorisieren'
-        text: 'Mit "Classify" kategorisieren Sie Ihre Liegenschaften. Die KI liest Felder wie Nutzungsart, Nutzfläche oder Denkmalschutz aus und schreibt die Klassifizierung in eine separate Spalte.'
+        text: 'Mit der KI-Funktion "Classify" kategorisieren Sie Ihre Liegenschaften. Die KI liest Felder wie Nutzungsart, Nutzfläche oder Denkmalschutz aus und schreibt die Klassifizierung in eine separate Spalte.'
         icon: layer-group
       - headline: 'OCR für alte Aktenbestände'
         text: 'Mit OCR lesen Sie Text aus Fotos oder Screenshots von alten Verträgen oder Dokumenten aus und schreiben ihn in die entsprechenden Spalten. Analoge Unterlagen werden so digitalisiert.'
@@ -155,14 +155,14 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Kommunale Liegenschaften rechtssicher und nachvollziehbar verwalten'
+      title: 'Kommunale Liegenschaften rechtssicher  verwalten'
       subtitle: 'Transparenz und Datenschutz'
       description: 'SeaTable ist eine moderne KI No-Code Lösung mit App Builder und integrierten Automationen. Es bietet alle Funktionen, die Kommunen für ein digitales Gebäudemanagement in der öffentlichen Verwaltung brauchen. Im Mittelpunkt stehen zentrale Datenhaltung, Datenschutz und eine nachvollziehbare Dokumentation Ihrer Verträge und Entscheidungen.'
       box-position: [right!]
       items:
       - headline: Transparenz
         text: 'Neue Einträge und Änderungen erhalten einen Zeitstempel und lassen sich über die integrierten Logs nachverfolgen.'
-      - headline: Zentrale Datenerfassung
+      - headline: Zentrale Daten
         text: 'Objektdaten, Verträge, Bewertungen, Bedarfsanmeldungen und Projekte liegen verknüpft in einer Datenbank.'
       - headline: DSGVO-konform
         text: 'Die SeaTable-Infrastruktur läuft ausschließlich auf zertifizierten Servern europäischer Dienstleister in Deutschland. '
@@ -186,6 +186,4 @@ sections:
         a: 'Ja, SeaTable hostet ein eigenes KI-Modell auf Servern des deutschen Anbieters Exoscale in Frankfurt. Wenn Sie die integrierten KI-Funktionen nutzen, um Ihre kommunale Liegenschaftsverwaltung zu modernisieren, dann bleiben Ihre Daten jederzeit innerhalb der SeaTable-Infrastruktur.'
       - q: "Lassen sich auch Hausmeisterdienste und Instandhaltungen mit SeaTable verwalten?"
         a: 'Absolut. In unserer Vorlagen-Bibliothek finden Sie eine fertige [Hausmeisterdienst-Vorlage]({{< relref "templates/real-estate/janitorial-services" >}}). Sie lässt sich flexibel an Ihre kommunalen Bedürfnisse anpassen und unterstützt Sie dabei, Ihr Gebäudemanagement Öffentliche Verwaltung zu digitalisieren. Sie können den Bereich Instandhaltungen ebenso leicht in die Vorlage für die kommunale Liegenschaftsverwaltung integrieren wie eine separate [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}).'
-      - q: "Bietet SeaTable noch weitere Vorlagen speziell für die Bedürfnisse des öffentlichen Dienstes?"
-        a: "Ja, neben der Vorlage für die kommunale Liegenschaftsverwaltung finden Sie in unserer Vorlagenbibliothek auch Vorlagen für die Verwaltung von Museumssammlungen, die Anwohnerparkausweisverwaltung und einen Kita-Finder."    
 ---
