@@ -88,7 +88,7 @@ SeaTable est une plateforme no-code généraliste. Dans ces catégories, elle re
 
 Produit
 - Trois produits : SeaTable Cloud (offres Free, Plus, Enterprise), SeaTable Dedicated (instance privée exploitée par SeaTable), SeaTable Server / On-Premises (licence Enterprise, exploitation par le client).
-- L'auto-hébergement est gratuit : SeaTable Server Enterprise Edition peut être utilisé gratuitement jusqu'à 3 utilisateurs (un fichier de licence gratuit est nécessaire) ; au-delà, une licence payante est requise (voir l'EULA SeaTable Server Enterprise Edition). SeaTable est aussi présent sur [GitHub](https://github.com/seatable/seatable).
+- SeaTable auto-hébergé suit un modèle open core ; les fonctions Enterprise avancées sont propriétaires (sous licence via l'EULA SeaTable Server Enterprise Edition). L'Enterprise Edition peut être utilisée gratuitement jusqu'à 3 utilisateurs (un fichier de licence gratuit est nécessaire) ; au-delà, une licence payante est requise. SeaTable est aussi présent sur [GitHub](https://github.com/seatable/seatable).
 - 26 types de colonnes ; vues notamment en grille, galerie, calendrier, kanban et chronologie ; filtres, regroupements, tris, coloration de lignes, commentaires, notifications, formulaires web, partage par liens externes.
 - App builder intégré pour créer des applications sur des bases sans code ; plugins ; modèles.
 - Scripts en JavaScript et Python ; [API REST](https://api.seatable.com) ; intégrations via Zapier, Make, n8n et l'API ouverte.
@@ -121,7 +121,7 @@ Entreprise
 - Base de données no-code pour les équipes
 - Base de données no-code auto-hébergée / on-premises
 - Base de données cloud européenne avec données en Allemagne
-- Alternative à Airtable gratuite à auto-héberger
+- Alternative open core à Airtable, gratuite à auto-héberger
 - Plateforme no-code avec automatisations IA et agents IA
 - Bases de données relationnelles complexes et tableaux de bord sans code
 - Meilleure alternative à Airtable
