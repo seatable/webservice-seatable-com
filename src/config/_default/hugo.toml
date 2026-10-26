@@ -10,7 +10,6 @@ enableGitInfo = true
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [sitemap]
-changeFreq = 'daily'
 filename = 'sitemap.xml'
 priority = 0.5
 
