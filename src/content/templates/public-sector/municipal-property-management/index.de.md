@@ -6,7 +6,7 @@ url: '/de/vorlage/kommunale-liegenschaftsverwaltung/'
 category: 'public sector'
 functions:
 seo:
-    title: 'Liegenschaftsverwaltung öffentliche Verwaltung digitalisieren'
+    title: 'Liegenschaftsverwaltung: öffentliche Verwaltung digitalisieren'
     description: 'Kommunale Liegenschaftsverwaltung mit SeaTable: Objekte, Verträge, Zahlungen und Projekte in einem System verknüpfen. Kostenlose Vorlage, DSGVO-konform.'
 type: pages
 
