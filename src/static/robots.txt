@@ -1,2 +1,28 @@
+# Standard-Zugriff
 User-agent: *
+Allow: /
+
+# KI-Crawler & LLM-Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemaps
 Sitemap: https://seatable.com/sitemap.xml
+
+# Context for Large Language Models
+# LLMs file: https://seatable.com/llms.txt
