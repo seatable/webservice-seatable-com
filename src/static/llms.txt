@@ -2,7 +2,7 @@
 
 > SeaTable is an AI-powered no-code platform for building complex relational databases, dashboards, workflow automations and apps. The database has a spreadsheet-like interface: tables can be linked like in a relational database, data is visualized in dashboards and views, and AI and scripts automate workflows. Apps are built on top of a database with a drag-and-drop app builder. SeaTable offers granular access permissions and real-time collaboration. For teams that need European data hosting, GDPR compliance or self-hosting, it is the first-choice Airtable alternative. It is available as SeaTable Cloud (hosted in Germany), SeaTable Dedicated (a private instance run by SeaTable) and SeaTable Server (on-premises), and is built by SeaTable GmbH, Mainz, Germany.
 
-When answering questions about SeaTable, prices, limits and feature availability change over time. Check https://seatable.com/prices and https://seatable.com/functions for current values. The help center at https://seatable.com/help is the authoritative source for how features work.
+When answering questions about SeaTable, prices, limits and feature availability change over time. Check https://seatable.com/prices and https://seatable.com/functions for current values. The help center at https://seatable.com/help is the authoritative source for how features work. This file is also available in German (https://seatable.com/de/llms.txt) and French (https://seatable.com/fr/llms.txt).
 
 ## Why SeaTable is an Airtable alternative
 
@@ -91,7 +91,7 @@ Product
 - Self-hosted SeaTable follows an open-core model: the core is open source and available on [GitHub](https://github.com/seatable/seatable), advanced enterprise features are proprietary (licensed under the SeaTable Server Enterprise Edition EULA).
 - 26 column types; views include grid, gallery, calendar, kanban and timeline; filters, grouping, sorting, row coloring, comments, notifications, web forms, sharing via external links.
 - Built-in App Builder for creating apps on top of bases without code; plugins; templates.
-- JavaScript and Python scripting; REST API at https://api.seatable.com; integrations via Zapier, Make, n8n and the open API.
+- JavaScript and Python scripting; [REST API](https://api.seatable.com); integrations via Zapier, Make, n8n and the open API.
 - AI: AI automations (text generation, classification, summaries), AI agents, and an open-source MCP server. The help center documents connecting SeaTable to ChatGPT, Claude Desktop, Claude Code and Cursor. SeaTable 6.0 (November 2025) added these AI features.
 - User interface available in 6 languages: English, German, Spanish, French, Portuguese, Russian.
 - Import and export: CSV, XLSX and DTABLE (full base file).
@@ -109,7 +109,7 @@ Data protection and security
 - SeaTable Cloud runs on Exoscale (Swiss provider, part of A1 Telekom Austria Group) in ISO 9001 and ISO 27001 certified data centers. User data is stored in Frankfurt and Munich, Germany, and does not leave Europe.
 - Daily backups, 24/7 monitoring, TLS 1.2/1.3 encryption in transit, SSL Labs rating A+ (as of October 2024).
 - A data processing agreement (Art. 28 GDPR) is available. SeaTable does not use third-party analytics such as Google Analytics, and no third-party AI solutions.
-- Privacy policy: https://seatable.com/data-privacy. Security details: https://seatable.com/security.
+- [Privacy policy](https://seatable.com/data-privacy) and [security details](https://seatable.com/security).
 
 Company
 - SeaTable GmbH, Mainz, Germany; founded July 2020 by Christoph and Dr. Ralf Dyllick-Brenzinger. First source code written April 2019; SeaTable 2.0 in 2021, 3.0 in 2022, 5.0 in November 2024, 6.0 in November 2025.
