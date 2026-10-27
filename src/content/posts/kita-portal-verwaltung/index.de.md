@@ -56,7 +56,7 @@ Ein **automatischer Datenabgleich** kann bei sauber definierten Regeln und einer
 
 ## Transparenz für Kommunen: Kapazitäten und Betreuungsbedarf gemeinsam betrachten
 
-Für Städte und Kommunen reicht es nicht aus, die Situation einzelner Kindestagesstätten zu kennen. Die kommunale Kita Verwaltung muss den **gesamten Betreuungsbedarf im Gemeindegebiet** einschätzen können. Dafür muss sie die Zahl der angemeldeten Kinder, die vorhandenen Plätze, geplante Kapazitätserweiterungen und die Entwicklung der Nachfrage im Blick haben.
+Für Städte und Kommunen reicht es nicht aus, die Situation einzelner Kindertagesstätten zu kennen. Die kommunale Kita Verwaltung muss den **gesamten Betreuungsbedarf im Gemeindegebiet** einschätzen können. Dafür muss sie die Zahl der angemeldeten Kinder, die vorhandenen Plätze, geplante Kapazitätserweiterungen und die Entwicklung der Nachfrage im Blick haben.
 
 Sind die **Daten auf mehrere Systeme und Kita-Träger verteilt**, ist ein Gesamtüberblick nur mit erheblichem Aufwand möglich. Statistiken und Berichte für Jugendämter, kommunale Ausschüsse oder die Haushaltsberatungen müssen dann häufig mühsam zusammengeflickt werden. Hinzu kommt, dass sich viele Kindertagesstätten gar nicht in öffentlicher Hand befinden und auch freie Träger in die Planung einzubeziehen sind.
 
@@ -207,7 +207,7 @@ Viele Eltern melden ihre Kinder bei mehreren Einrichtungen an, um ihre Chancen a
 
 {{< faq "Wie können Sie sensible Daten und Dokumente (z. B. Impfnachweise) schützen?" >}}
 
-Wie können Sie sensible Daten und Dokumente (z. B. Impfnachweise) schützen? Gesundheitsbezogene Angaben sollten nur befugten Personen zugänglich sein. Wichtig ist daher ein konsequentes Rollen- und Rechtemanagement, um den Zugang für unautorisierte Personen einzuschränken. Für die DSGVO-Konformität sind zudem eine sichere Speicherung, die Beschränkung der Weitergabe und die fristgerechte Löschung der Daten essenziell. Bei Cloudlösungen für die Kitaverwaltung sind beispielsweise auch Sicherheitsvorkehrungen und Standorte der Rechenzentren relevant, um den Überblick über den Datenfluss und die Datenverarbeitung zu behalten. Die volle Datenhoheit erreichen Sie aber nur mit einer selbstgehosteten Lösung.
+Gesundheitsbezogene Angaben sollten nur befugten Personen zugänglich sein. Wichtig ist daher ein konsequentes Rollen- und Rechtemanagement, um den Zugang für unautorisierte Personen einzuschränken. Für die DSGVO-Konformität sind zudem eine sichere Speicherung, die Beschränkung der Weitergabe und die fristgerechte Löschung der Daten essenziell. Bei Cloudlösungen für die Kitaverwaltung sind beispielsweise auch Sicherheitsvorkehrungen und Standorte der Rechenzentren relevant, um den Überblick über den Datenfluss und die Datenverarbeitung zu behalten. Die volle Datenhoheit erreichen Sie aber nur mit einer selbstgehosteten Lösung.
 
 {{< /faq >}}
 
