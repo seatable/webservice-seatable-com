@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Statistiques et graphiques : guide SeaTable module'
     description: 'Créez des graphiques et tableaux de bord facilement dans SeaTable, analysez vos données, suivez l’évolution et adaptez la visualisation à vos besoins.'
-
+weight: 1
 ---
 
 Le **module Statistiques** vous permet de présenter visuellement les données de votre tableau sous la forme de différents **graphiques** et **diagrammes**. Ceci est extrêmement utile pour votre travail dans SeaTable : grâce aux **tableaux de bord**, vous gardez toujours une vue d'ensemble des chiffres et des développements statistiques dans votre base.
@@ -26,19 +26,18 @@ Le module de statistiques est installé par défaut dans chaque base. Vous pouve
 
 ## Créer un graphique
 
-1. Ouvrez le module Statistiques et cliquez en haut à droite sur le bouton {{< seatable-icon icon="dtable-icon-add-table" >}} **Nouveau graphique** pour ajouter un nouveau graphique.
+1. Ouvrez le module Statistiques et cliquez en haut à droite sur le bouton {{< seatable-icon icon="dtable-icon-add-table" >}} **Ajouter un graphique**.
 
 Vous avez la possibilité de choisir parmi différents **types** de graphiques et de diagrammes. Faites défiler la sélection ou cliquez sur les icônes étiquetées dans la barre d'options pour aller directement à l'endroit souhaité.
 
 ![Naviguer dans le module Statistiques.](images/Navigieren-im-Statistik-Plugin-1.png)
 
-4. Choisissez le **type** qui convient à vos statistiques.
-5. Donnez un **titre** au graphique. Pour ce faire, cliquez sur le **symbole du crayon** {{< seatable-icon icon="dtable-icon-rename" >}} et saisissez le nom souhaité.
+2. Choisissez le **type** qui convient à vos statistiques et cliquez sur **Soumettre**.
 
 ### Paramètres de données
 
-7. Définissez le **tableau** et **la vue** à partir desquels les statistiques doivent obtenir les données.
-8. Selon le graphique, vous pouvez définir différents **paramètres de données** - dans le cas d'un diagramme à colonnes, par exemple, quelles valeurs vous souhaitez afficher sur les **axes X et Y**. Vous pouvez également définir le type de graphique que vous souhaitez utiliser.
+3. Définissez le **tableau** et la **vue** à partir desquels le graphique doit obtenir les données.
+4. Selon le graphique, vous pouvez définir différents **paramètres de données** – dans le cas d'un diagramme à colonnes, par exemple, quelles valeurs vous souhaitez afficher sur les **axes X et Y**. Vous pouvez également définir le type de graphique que vous souhaitez utiliser.
 
 ![Créer un nouveau graphique dans le module Statistiques.](images/Dateneinstellungen.png)
 
@@ -50,13 +49,14 @@ Toutes les modifications de réglage sont effectuées **en temps réel**, ce qui
 
 ### Paramètres de style
 
-14. Si le graphique que vous avez choisi permet **des réglages de style**, vous pouvez par exemple configurer **les couleurs** ou **les étiquettes de données**.
+5. Donnez un **titre** au graphique. Pour ce faire, cliquez sur l'onglet **Style du graphique** et saisissez le nom souhaité.
+6. Si le graphique que vous avez choisi permet des **réglages de style**, vous pouvez par exemple configurer les **titres des axes X et Y**, les **couleurs** ou les **étiquettes de données**.
 
 ![Paramètres pour l'ajout d'un nouveau graphique dans le module Statistiques.](images/Stileinstellungen.png)
 
 ## Graphiques sur le tableau de bord
 
-17. Après avoir fermé la fenêtre des paramètres, le graphique enregistré apparaît sur votre **tableau de bord**.
+7. Après avoir fermé la fenêtre des paramètres, le graphique enregistré apparaît sur votre **tableau de bord**.
 
 Vous pouvez créer **plusieurs tableaux de bord** et créer autant de graphiques que vous le souhaitez sur chaque tableau de bord. Pour modifier l'**ordre des graphiques**, il suffit de les **glisser-déposer** à l'endroit souhaité. Pour ce faire, placez le curseur de la souris sur le **titre** d'un graphique jusqu'à ce qu'une **croix fléchée** apparaisse, puis maintenez le **bouton de la souris** enfoncé.
 
