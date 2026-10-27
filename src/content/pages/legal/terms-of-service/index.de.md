@@ -24,7 +24,9 @@ Der Betreiber von SeaTable, dessen Nutzung in diesen Nutzungsbedingungen geregel
 
 Der Entwickler der Software, die dem SeaTable Dienst und dem SeaTable Plugin Market zugrunde liegt, ist die Seafile Ltd. mit Sitz in Peking, China (Anschrift: Seafile Ltd., GuiGuLiangCheng, Block 2B, #310, HaiDian District, Peking, China). Teile der Software sind unter einer Open Source Lizenz veröffentlicht.
 
-Der Cloud-Dienst SeaTable Cloud und der Store SeaTable Market werden bei Exoscale in Frankfurt am Main, Deutschland gehostet. Für die Pflege der Software und der Dienste greifen wir auf die Ressourcen der Entwicklergesellschaft und von Partnerunternehmen zurück. Dies gilt auch für Dedicated Systeme von SeaTable. Mit Exoscale, der Seafile Ltd. und unseren Partnerunternehmen wurden Verträge zur Auftragsverarbeitung abgeschlossen, die auf Anfrage zur Verfügung gestellt werden.
+Der Cloud-Dienst SeaTable Cloud und der Store SeaTable Market werden bei Exoscale in Frankfurt am Main, Deutschland gehostet. Für das Backup nutzen wir ein Exoscale Rechenzentrum in München.
+
+Für die Pflege der Software und der Dienste greifen wir auf die Ressourcen der Entwicklergesellschaft und von Partnerunternehmen zurück. Mit Exoscale und anderen Partnerunternehmen wurden Verträge zur Auftragsverarbeitung abgeschlossen, die auf Anfrage zur Verfügung gestellt werden.
 
 SeaTable ist urheber- und markenrechtlich geschützt. Durch diese Nutzungsbedingungen werden Ihnen keine Rechte, kein Eigentum und kein Anspruch an den Inhalten, den Diensten, den Anwendungen oder an anderen durch uns verwendeten Marken eingeräumt.
 

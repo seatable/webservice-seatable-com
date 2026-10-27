@@ -33,7 +33,9 @@ SeaTable, whose access and use is governed in these Terms, is operated by SeaTab
 
 The developer of the Software, which provides the SeaTable service and the SeaTable Plugin Market is Seafile Ltd. that has its registered off in Beijing, China (address: Seafile Ltd., GuiGuLiangCheng, Block 2B, #310, HaiDian District, Beijing, China). Part of the software are released under an open-source license.
 
-The cloud service SeaTable Cloud and the store SeaTable Market are hosted at Exoscale in Frankfurt am Main, Germany. We rely on the resources of the developer and other partners to maintain the software and the services. This also applies to dedicated SeaTable systems. We concluded data processing agreements with Exoscale, Seafile Ltd. and our other partners which are available upon request.
+The cloud service SeaTable Cloud and the store SeaTable Market are hosted at Exoscale in Frankfurt am Main, Germany. We use an Exoscale datacenter in Munich for backups.
+
+We rely on the resources of the developer and other partners to maintain the software and the services. We concluded data processing agreements with Exoscale and other partners which are available upon request.
 
 SeaTable is protected by copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. These Terms do not transfer to you any right, ownership or interest in intellectual property.
 
