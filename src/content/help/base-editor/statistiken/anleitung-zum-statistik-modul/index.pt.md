@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Estatísticas e gráficos no módulo SeaTable: tutorial'
     description: 'Visualize seus dados em gráficos no SeaTable: organize dashboards, crie estatística e otimize relatórios com o módulo de análise visual e configurações práticas.'
-
+weight: 1
 ---
 
 O **módulo de estatísticas** permite-lhe visualizar os dados da sua tabela sob a forma de vários **gráficos** e **diagramas**. Isto é extremamente útil para o seu trabalho no SeaTable: graças aos **painéis de controlo**, tem sempre uma visão geral dos números e da evolução estatística da sua base.
@@ -26,19 +26,18 @@ O módulo de estatísticas é configurado por defeito em todas as bases. Pode se
 
 ## Criar um gráfico
 
-1. Abra o módulo de estatísticas e clique no botão {{< seatable-icon icon="dtable-icon-add-table" >}} **Novo gráfico** no canto superior direito para adicionar um novo gráfico.
+1. Abra o módulo de estatísticas e clique no botão {{< seatable-icon icon="dtable-icon-add-table" >}} **Adicionar gráfico** no canto superior direito.
 
 Tem a opção de escolher entre diferentes **tipos de** gráficos e gráficos. Percorrer a selecção ou clicar nos ícones rotulados na barra de opções para saltar directamente para o local desejado.
 
 ![Navegar no módulo de estatísticas.](images/Navigieren-im-Statistik-Plugin-1.png)
 
-4. Seleccione o **tipo** apropriado para as suas estatísticas.
-5. Dê um **título** ao gráfico. Para o fazer, clicar no **símbolo do lápis** {{< seatable-icon icon="dtable-icon-rename" >}} e introduzir o nome desejado.
+2. Seleccione o **tipo** apropriado para as suas estatísticas e clique em **Enviar**.
 
 ### Definições de dados
 
-7. Determinar de que **tabela** e **visualizar as** estatísticas devem obter os dados.
-8. Dependendo do gráfico, pode fazer diferentes **configurações de dados** - para um gráfico de barras, por exemplo, quais os valores que deseja exibir nos **eixos X e Y**.
+3. Determine de que **tabela** e **vista** o gráfico deve obter os dados.
+4. Dependendo do gráfico, pode fazer diferentes **configurações de dados** – para um gráfico de barras, por exemplo, quais os valores que deseja exibir nos **eixos X e Y**.
 
 ![Criar um novo gráfico no módulo de estatísticas.](images/Dateneinstellungen.png)
 
@@ -50,13 +49,14 @@ Todas as alterações de configuração são efectuadas **em tempo real**, ou se
 
 ### Definições de estilo
 
-14. Se o gráfico escolhido permitir **configurações de estilo**, pode configurar **cores** ou **etiquetas de dados**, por exemplo.
+5. Dê um **título** ao gráfico. Para o fazer, clique no separador **Estilo do gráfico** e introduza o nome desejado.
+6. Se o gráfico escolhido permitir **configurações de estilo**, pode configurar, por exemplo, **títulos dos eixos X e Y**, **cores** ou **etiquetas de dados**.
 
 ![Configurações ao adicionar um novo gráfico no módulo de estatísticas.](images/Stileinstellungen.png)
 
 ## Gráficos no Painel de instrumentos
 
-17. Depois de fechar a janela de definições, o gráfico guardado aparece no seu **painel de instrumentos**.
+7. Depois de fechar a janela de definições, o gráfico guardado aparece no seu **painel de instrumentos**.
 
 Pode criar **vários painéis de instrumentos** e criar quantos gráficos quiser em cada painel. Para alterar a **ordem dos gráficos**, arraste-os **e largue-os** para o local desejado. Para o fazer, mover o ponteiro do rato sobre o **título de** um gráfico até aparecer uma **seta cruzada** e manter premido o **botão** do rato.
 

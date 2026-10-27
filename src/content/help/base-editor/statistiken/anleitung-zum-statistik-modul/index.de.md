@@ -9,7 +9,7 @@ url: "/de/hilfe/anleitung-zum-statistik-modul"
 seo:
     title: 'Statistiken und Diagramme im SeaTable Statistik-Modul'
     description: 'Erstellen Sie ansprechende Grafiken und Dashboards mit dem Statistik-Modul von SeaTable. Daten visuell analysieren, Trends erkennen und Layouts individuell anpassen.'
-
+weight: 1
 ---
 
 Mit dem **Statistik-Modul** können Sie die Daten aus Ihrer Tabelle visuell in Form von verschiedenen **Grafiken** und **Diagrammen** darstellen. Dies ist für Ihre Arbeit in SeaTable äußerst nützlich: Dank der **Dashboards** behalten Sie immer den Überblick über die Zahlen und statistischen Entwicklungen in Ihrer Base.
@@ -24,18 +24,17 @@ Das Statistik-Modul ist standardmäßig in jeder Base eingerichtet. Sie erreiche
 
 ## Eine Grafik erstellen
 
-1. Öffnen Sie das Statistik-Modul und klicken Sie rechts oben auf die Schaltfläche {{< seatable-icon icon="dtable-icon-add-table" >}} **Neue Grafik**, um eine neue Grafik hinzuzufügen.
+1. Öffnen Sie das Statistik-Modul und klicken Sie rechts oben auf die Schaltfläche {{< seatable-icon icon="dtable-icon-add-table" >}} **Grafik hinzufügen**.
 Sie haben die Möglichkeit, aus verschiedenen **Typen** von Grafiken und Diagrammen auszuwählen. Scrollen Sie durch die Auswahl oder klicken Sie in der Optionsleiste auf die beschrifteten Icons, um direkt an die gewünschte Stelle zu springen.
 
 ![Im Statistik-Modul navigieren.](images/Navigieren-im-Statistik-Plugin-1.png)
 
-6. Wählen Sie den passenden **Typ** für Ihre Statistik aus.
-7. Geben Sie der Grafik einen **Titel**. Klicken Sie dazu auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} und tragen Sie den gewünschten Namen ein.
+2. Wählen Sie den passenden **Typ** für Ihre Statistik aus und klicken Sie auf **Einreichen**.
 
 ### Dateneinstellungen
 
-11. Legen Sie fest, aus welcher **Tabelle** und **Ansicht** die Statistik die Daten beziehen soll.
-12. Je nach Grafik können Sie unterschiedliche **Dateneinstellungen** vornehmen – bei einem Säulendiagramm zum Beispiel, welche Werte Sie auf der **X- und Y-Achse** darstellen möchten.
+3. Legen Sie fest, aus welcher **Tabelle** und **Ansicht** die Grafik die Daten beziehen soll.
+4. Je nach Grafik können Sie unterschiedliche **Dateneinstellungen** vornehmen – bei einem Säulendiagramm zum Beispiel, welche Werte Sie auf der **X- und Y-Achse** darstellen möchten.
 
 ![Neue Grafik im Statistik-Modul erstellen.](images/Dateneinstellungen.png)
 
@@ -47,13 +46,14 @@ Alle Einstellungsänderungen werden **in Echtzeit** ausgeführt, d.h. das Diagra
 
 ### Stileinstellungen
 
-31. Wenn die von Ihnen gewählte Grafik **Stileinstellungen** erlaubt, können Sie beispielsweise **Farben** oder **Datenbeschriftungen** konfigurieren.
+5. Geben Sie der Grafik einen **Titel**. Klicken Sie dazu auf den Tab **Diagrammstil** und tragen Sie den gewünschten Namen ein.
+6. Wenn die von Ihnen gewählte Grafik **Stileinstellungen** erlaubt, können Sie beispielsweise **Titel der X- und Y-Achse**, **Farben** oder **Datenbeschriftungen** konfigurieren.
 
 ![Einstellungen beimzufügen einer neuen Grafik im Statistik-Modul.](images/Stileinstellungen.png)
 
 ## Grafiken auf dem Dashboard
 
-36. Nachdem Sie das Einstellungsfenster geschlossen haben, erscheint die gespeicherte Grafik auf Ihrem **Dashboard**.
+7. Nachdem Sie das Einstellungsfenster geschlossen haben, erscheint die gespeicherte Grafik auf Ihrem **Dashboard**.
 
 Sie können **mehrere Dashboards** anlegen und auf jedem Dashboard beliebig viele Grafiken erstellen. Um die **Reihenfolge der Grafiken** zu ändern, ziehen Sie diese **per Drag-and-Drop** an die gewünschte Stelle. Fahren Sie dazu mit dem Mauszeiger über den **Titel** einer Grafik, bis ein **Pfeilkreuz** angezeigt wird, und halten Sie die **Maustaste** gedrückt.
 
