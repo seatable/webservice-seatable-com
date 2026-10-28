@@ -102,6 +102,7 @@ sections:
         image_alt: Kanban-Board der kommunalen Liegenschaftsevaluierung'
       - headline: 'Bedarfe erfassen und Projekte planen'
         text: 'Fachämter melden ihren Flächenbedarf in der Tabelle "Requirements", etwa eine zusätzliche Kita-Gruppe oder einen neuen Bürostandort. Über die Verknüpfung mit einem Objekt prüfen Sie, ob der Bedarf gedeckt ist. In "Projects" planen Sie Ihr [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) mit abgeleiteten Maßnahmen wie Umbauten oder Umzügen mit Budget und Zeitplan. '
+<!-- Über den vorherigen Satz bin ich beim Lesen etwas gestolpert. Vielleicht könnte man ihn etwas flüssiger formulieren.-->
         image: '/images/templatepage_liegenschaftsverwaltung_05.png'
         image_alt: 'Bedarfsübersicht gruppiert nach Fachämtern in der Liegenschaftsverwaltung-Vorlage'
             
@@ -139,7 +140,8 @@ sections:
       - headline: 'OCR für alte Aktenbestände'
         text: 'Mit OCR lesen Sie Text aus Fotos oder Screenshots von alten Verträgen oder Dokumenten aus und schreiben ihn in die entsprechenden Spalten. Analoge Unterlagen werden so digitalisiert.'
         icon: image
-      - headline: 'Vertragsdaten übernehmen'
+      - headline: 'Vertragsdaten übernehmen' 
+      <!-- nach "Extract-Funktion" fehlt ein Komma -->
         text: 'Nutzen Sie die Extract-Funktion um automatisch Informationen wie Miethöhe oder Vertragslaufzeit aus Dokumenten zu übernehmen. So reduzieren Sie Aufwände und vermeiden manuelle Eingabefehler.'
         icon: circle-info
       - headline: 'Maßgeschneiderte Automatisierung'
