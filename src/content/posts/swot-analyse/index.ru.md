@@ -25,6 +25,9 @@ image_sources:
     - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
       source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
       author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## SWOT-анализ — простое объяснение
@@ -52,9 +55,9 @@ SWOT-анализ — это пример того, как вы можете п�
 
 На втором этапе вы выводите из этой оценки **стратегические рекомендации к действию**. Что нужно делать, когда возможности встречаются со слабыми сторонами, а угрозы — с сильными?
 
-![Графическое представление матрицы SWOT в качестве шаблона для SWOT-анализа.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Графическое представление матрицы SWOT в качестве шаблона для SWOT-анализа.](swot-strategy-matrix.jpg)
 
-Пример SWOT-анализа © r0b\_ / Adobe Stock
+Пример SWOT-анализа © SeaTable
 
 Поскольку учитываются как внешнее окружение, так и внутренние факторы компании, SWOT-анализ считается примером и **важным инструментом стратегического корпоративного планирования**.
 

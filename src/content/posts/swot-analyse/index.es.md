@@ -25,6 +25,9 @@ image_sources:
     - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
       source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
       author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## El análisis DAFO explicado de forma sencilla
@@ -52,9 +55,9 @@ A continuación, **analiza el entorno de su empresa o su equipo**. Ahora toca an
 
 En un segundo paso, a partir de ese balance deriva **recomendaciones estratégicas de actuación**. ¿Qué debe hacer cuando las oportunidades se encuentran con las debilidades o las amenazas con las fortalezas?
 
-![Representación gráfica de una matriz DAFO como plantilla para un análisis DAFO.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Representación gráfica de una matriz DAFO como plantilla para un análisis DAFO.](swot-strategy-matrix.jpg)
 
-Ejemplo de análisis DAFO © r0b\_ / Adobe Stock
+Ejemplo de análisis DAFO © SeaTable
 
 Dado que se tienen en cuenta tanto el entorno como los factores internos de la empresa, el análisis DAFO es un ejemplo y una **herramienta importante para la planificación estratégica empresarial**.
 

@@ -25,6 +25,9 @@ image_sources:
     - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
       source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
       author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## L'analyse SWOT expliquée simplement
@@ -52,9 +55,9 @@ Ensuite, **vous analysez l'environnement de votre entreprise ou de votre équipe
 
 Dans un deuxième temps, vous déduisez de cet état des lieux **des recommandations d'actions stratégiques**. Que devez-vous faire lorsque des opportunités rencontrent des faiblesses ou des menaces rencontrent des forces ?
 
-![Représentation graphique d'une matrice SWOT comme modèle pour une analyse SWOT.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Représentation graphique d'une matrice SWOT comme modèle pour une analyse SWOT.](swot-strategy-matrix.jpg)
 
-Exemple d'analyse SWOT © r0b\_ / Adobe Stock
+Exemple d'analyse SWOT © SeaTable
 
 Comme l'environnement et les facteurs internes à l'entreprise sont pris en compte, l'analyse SWOT est considérée comme un exemple et **un outil important pour la planification stratégique d'entreprise**.
 

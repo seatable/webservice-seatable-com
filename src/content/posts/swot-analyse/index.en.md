@@ -26,6 +26,9 @@ image_sources:
     - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
       source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
       author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## SWOT analysis explained simply
@@ -53,9 +56,9 @@ You then **analyze the environment of your company or team**. Now it is about **
 
 In the second step, you derive **strategic recommendations for action** from this stocktaking. What do you have to do when opportunities meet weaknesses or threats meet strengths?
 
-![Graphical representation of a SWOT matrix as a template for a SWOT analysis.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Graphical representation of a SWOT matrix as a template for a SWOT analysis.](swot-strategy-matrix.jpg)
 
-SWOT analysis example © r0b\_ / Adobe Stock
+SWOT analysis example © SeaTable
 
 Since both the environment and internal company factors are taken into account, the SWOT analysis is regarded as an example and an **important tool for strategic corporate planning**.
 

@@ -23,6 +23,9 @@ image_sources:
     - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
       source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
       author: 'UX Indonesia'
+    - file: 'swot-strategien-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## SWOT Analyse einfach erklärt
@@ -50,9 +53,9 @@ Anschließend **analysieren Sie das Umfeld Ihres Unternehmens oder Teams**. Jetz
 
 Aus der Bestandsaufnahme leiten Sie im zweiten Schritt **strategische Handlungsempfehlungen** ab. Was müssen Sie tun, wenn Chancen auf Schwächen oder Risiken auf Stärken treffen?
 
-![Grafische Darstellung einer SWOT Matrix als Template für eine SWOT Analyse.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Grafische Darstellung einer SWOT Matrix als Template für eine SWOT Analyse.](swot-strategien-matrix.jpg)
 
-SWOT Analyse Beispiel © r0b\_ / Adobe Stock
+SWOT Analyse Beispiel © SeaTable
 
 Da sowohl das Umfeld als auch unternehmensinterne Faktoren betrachtet werden, gilt die SWOT-Analyse als Beispiel und **wichtiges Tool für die strategische Unternehmensplanung**.
 
