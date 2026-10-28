@@ -6,6 +6,8 @@ seo:
     description: '¿Excel se le ha quedado pequeño? SeaTable es una base de datos que se siente como una hoja de cálculo: tablas enlazadas en lugar de BUSCARV, trabajo en equipo, permisos y alojamiento en Alemania o en su propio servidor.'
 date: '2025-03-30'
 lastmod: '2026-10-14'
+sitemap:
+    priority: 0.9
 url: '/es/alternativa-excel'
 
 sections:

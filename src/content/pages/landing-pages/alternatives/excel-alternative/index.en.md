@@ -6,6 +6,8 @@ seo:
     description: 'Outgrown Excel? SeaTable is a database that feels like a spreadsheet: linked tables instead of VLOOKUP, real-time collaboration, permissions, hosting in Germany or on your own server.'
 date: '2025-03-30'
 lastmod: '2026-10-14'
+sitemap:
+    priority: 0.9
 url: '/excel-alternative'
 aliases:
   - '/en/excel-alternative'

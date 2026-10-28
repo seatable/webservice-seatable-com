@@ -5,6 +5,8 @@ seo:
     title: 'Asana Alternative: Flexible Workflows für Ihr Team'
     description: 'Entdecken Sie SeaTable – die sichere, deutsche Asana-Alternative für Teams. Datenschutz, Flexibilität und Effizienz vereint in einem Tool.'
 date: '2025-07-08'
+sitemap:
+    priority: 0.9
 url: '/de/asana-alternative/'
 
 sections:

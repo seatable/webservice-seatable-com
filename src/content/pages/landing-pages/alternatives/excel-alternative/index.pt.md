@@ -6,6 +6,8 @@ seo:
     description: 'O Excel ficou pequeno? O SeaTable é um banco de dados que parece uma planilha: tabelas vinculadas em vez de PROCV, trabalho em equipe, permissões e hospedagem na Alemanha ou no seu próprio servidor.'
 date: '2026-01-23'
 lastmod: '2026-10-14'
+sitemap:
+    priority: 0.9
 url: '/pt/alternativa-excel'
 
 sections:

@@ -6,6 +6,8 @@ seo:
     description: 'Aus Excel herausgewachsen? SeaTable ist eine Datenbank, die sich wie eine Tabelle anfühlt: verknüpfte Tabellen statt SVERWEIS, gemeinsames Arbeiten, Rechte, Hosting in Deutschland.'
 date: '2025-03-30'
 lastmod: '2026-10-13'
+sitemap:
+    priority: 0.9
 url: '/de/excel-alternative'
 
 sections:

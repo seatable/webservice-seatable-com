@@ -3,6 +3,8 @@ title: 'Alternative à Excel : la base de données qui ressemble à un tableur'
 description: ''
 date: '2025-03-30'
 lastmod: '2026-10-14'
+sitemap:
+    priority: 0.9
 url: '/fr/alternative-a-excel'
 aliases:
   - '/fr/excel-alternative'
