@@ -3,7 +3,7 @@ title: 'Managing the collection with digital tools'
 description: 'Whether you collect stamps, books or NFTs: use modern collection manager software to track, compare, insure and share your collectibles wherever you are. Analysis of leading apps from Evernote to SeaTable.'
 date: 2022-07-01
 lastmod: '2024-03-21'
-coverImage: 'Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg'
+coverImage: anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg'
 author: 'cdb'
 url: '/manage-collection'
 aliases:
@@ -16,13 +16,20 @@ categories:
 tags:
     - 'Art & Culture Management'
 color: '#c6d7cb'
+image_sources:
+    - file: 'anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-pages-of-a-book-with-pictures-of-animals-CCTyw_EkKyw'
+      author: 'Anastasia Zhenina'
+    - file: 'vadim-bozhko-lbO1iCnbTW0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-writing-in-notebook-at-desk-lbO1iCnbTW0'
+      author: 'Vadim Bozhko'
 ---
 
 Your **collections** can be ideally **managed** via digital programs and apps. It doesn't matter whether the collection consists of physical items or digital media. The most popular collectibles include coins, stamps, shoes, artwork, toys, trading cards, non-fungible tokens (NFTs), [books]({{< relref "posts/buecher-katalogisieren" >}}), movies, music (on CD, records) and more. When a collector's passion takes hold, the biggest challenge is often keeping track of everything. This is where the programs that allow you to manage your collection come into play - on your PC or with an app.
 
-![Manage collection of all stamps via a digital tool.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Manage collection of all stamps via a digital tool.](anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg)
 
-What do you collect? © VRD / Adobe Stock
+What do you collect? © Anastasia Zhenina / Unsplash
 
 ## Why should you manage your collections?
 
@@ -56,9 +63,9 @@ You have various options for managing your collection. There are both paid and f
 
 One option for managing collections is [Evernote](https://evernote.com/de-de). Here you can write down notes and attach pictures or documents such as purchase receipts of the items. It is also possible to set tags to distinguish different collections from each other. A search function helps to find collection items within the notes. You start with a free version. The Personal version costs €6.99 per month per user and the Professional version costs €8.99.
 
-![Someone looks at the Evernote tool to manage their collection.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Someone looks at the Evernote tool to manage their collection.](vadim-bozhko-lbO1iCnbTW0-unsplash.jpg)
 
-Manage collection © monticellllo / Adobe Stock
+Manage collection © Vadim Bozhko / Unsplash
 
 ### Data Crow - Freeware for media management
 

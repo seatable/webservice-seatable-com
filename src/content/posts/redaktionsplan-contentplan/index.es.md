@@ -16,6 +16,13 @@ tags:
 seo:
     title: 'Calendario editorial: guía y plantilla de content plan'
     description: 'Aprenda a organizar su marketing: plantilla de redacción, pasos y checklist para su content plan ideal.'
+image_sources:
+    - file: 'cherrydeck-rMILC1PIwM0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/people-sitting-on-chair-in-front-of-laptop-computers-rMILC1PIwM0'
+      author: 'Cherrydeck'
+    - file: 'ravi-palwe-I3urDa6z2_4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/blue-and-black-pen-beside-orange-sticky-notes-I3urDa6z2_4'
+      author: 'Ravi Palwe'
 ---
 
 ## ¿Cuáles son las ventajas de un plan de contenidos?
@@ -30,9 +37,9 @@ Con un plan de contenidos siempre puede controlar los plazos de los borradores y
 
 Debe asignar un responsable a cada artículo planificado. De este modo, todos los miembros del equipo pueden filtrar el plan editorial según sus [tareas pendientes]({{< relref "posts/to-do-liste-online" >}}) y ver de un vistazo lo que hay que hacer. **La coordinación entre varias personas o departamentos es más fácil** si está claro quién participa en cada proyecto y quién tiene aún capacidad.
 
-![El equipo de marketing crea una plantilla de plan editorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![El equipo de marketing crea una plantilla de plan editorial.](cherrydeck-rMILC1PIwM0-unsplash.jpg)
 
-Utilice un plan de contenidos para coordinar la planificación y creación de artículos. Derechos de imagen: © DisobeyArt / Adobe Stock
+Utilice un plan de contenidos para coordinar la planificación y creación de artículos. Derechos de imagen: © Cherrydeck / Unsplash
 
 ### No se pierde ningún contenido
 
@@ -61,9 +68,9 @@ El siguiente paso es elegir el marco adecuado para su plan de contenidos. La sig
 
 Las respuestas a las preguntas de la lista de comprobación determinan la estructura y el alcance del modelo de plan de contenidos requerido.
 
-![Un empleado de marketing crea una plantilla para la planificación editorial.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Un empleado de marketing crea una plantilla para la planificación editorial.](ravi-palwe-I3urDa6z2_4-unsplash.jpg)
 
-La planificación de contenidos requiere un concepto bien pensado. Derechos de imagen: © Andrey Popov / Adobe Stock
+La planificación de contenidos requiere un concepto bien pensado. Derechos de imagen: © Ravi Palwe / Unsplash
 
 ## Crear un plan de contenidos en 5 pasos
 

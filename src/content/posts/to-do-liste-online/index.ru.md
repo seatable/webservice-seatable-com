@@ -14,6 +14,10 @@ aliases:
 seo:
     title: 'Создать Список Дел Онлайн | Лучшее Приложение'
     description: 'Найдите лучшее приложение для вашего списка дел и создайте свой список онлайн с помощью удобного шаблона.'
+image_sources:
+    - file: 'thomas-bormans-pcpsVsyFp_s-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-notepad-with-a-pen-on-top-of-it-pcpsVsyFp_s'
+      author: 'Thomas Bormans'
 ---
 
 ## Для чего вам нужен список дел
@@ -78,9 +82,9 @@ seo:
 
 {{< warning headline="Бесплатное использование" text="Microsoft To Do предоставляется бесплатно. Все, что вам нужно, - это учетная запись Microsoft." />}}
 
-![Приложение Microsoft To do list на смартфоне.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Приложение Microsoft To do list на смартфоне.](thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
 
-© sdx15 / Adobe Stock
+ © Thomas Bormans / Unsplash
 
 ### Projoodle: Список дел на основе Doodle
 

@@ -14,6 +14,10 @@ tags:
     - 'Finanzen'
     - 'Projektmanagement'
 color: '#f4a64b'
+image_sources:
+    - file: 'christin-hume-hBuwVLcYTnA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-using-macbook-hBuwVLcYTnA'
+      author: 'Christin Hume'
 ---
 
 **Haben Sie schon Ihre Budgetierung für nächstes Jahr aufgestellt?** Wenn nicht, wird es Zeit: Je früher Sie wissen, wie viel Geld Sie zur Verfügung haben, desto präziser können Sie Maßnahmen einleiten, um Ihre Ziele zu erreichen: Wollen Sie mehr Mitarbeiter einstellen oder planen Sie eine größere Werbekampagne? Egal, was Sie vorhaben – dieser Artikel gibt Ihnen wertvolle Tipps für die Budgetplanung an die Hand.
@@ -24,7 +28,7 @@ Der folgende Artikel beschäftigt sich mit der **Budgetplanung in Unternehmen** 
 
 Bei der Budgetierung – auch Budgetplanung oder Budgetverteilung genannt – geht es, wie der Name schon vermuten lässt, um **die Zuweisung von Budgets und die Planung von Ressourcen**. Per se erfolgt die Budgetplanung für die Zukunft, zumeist für das folgende Geschäftsjahr. Dabei können Sie einerseits das Budget für das gesamte Unternehmen bestimmen und andererseits die **detaillierte Budgetierung für bestimmte Abteilungen oder einzelne Projekte** vornehmen. Der daraus resultierende Budgetplan gibt vor, wohin das verfügbare Geld im Unternehmen fließen soll und welche Ziele Sie damit in welchem Zeitraum erreichen möchten.
 
-![Mitarbeiter setzt Budgetplanung am Laptop um](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
+![Mitarbeiter setzt Budgetplanung am Laptop um](christin-hume-hBuwVLcYTnA-unsplash.jpg)
 
 ## Vorteile einer vorausschauenden Budgetplanung
 

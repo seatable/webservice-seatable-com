@@ -14,6 +14,13 @@ tags:
     - 'Datenmanagement & Visualisierung'
     - 'Finanzen'
 color: '#e45706'
+image_sources:
+    - file: 'sasun-bughdaryan-njiadDwbgaM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/calculator-magnifying-glass-and-chart-with-gears-on-paper-njiadDwbgaM'
+      author: 'Sasun Bughdaryan'
+    - file: 'tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-sitting-on-chair-wearing-gray-crew-neck-long-sleeved-shirt-using-apple-magic-keyboard-CPs2X8JYmS8'
+      author: 'Tim van der Kuip'
 ---
 
 Im unternehmerischen Alltag ist es nicht immer leicht, die richtigen Entscheidungen zu treffen. Sie müssen viele Aspekte und Faktoren berücksichtigen und oft ohne Erfahrungswerte die Wirkung bestimmter Maßnahmen abschätzen. Wie erfolgreich Ihr Unternehmen dabei ist, hängt insbesondere von einer Sache ab: auf welcher Basis Ihre Entscheidungen fallen. Gut, dass Sie Ihre Entscheidungen mit einer **Kosten-Nutzen-Analyse** auf eine solide Grundlage stellen können.
@@ -26,9 +33,9 @@ Eine Kosten-Nutzen-Analyse, kurz CBA (cost benefit analysis), ist eine **Wirtsch
 
 Der Vorteil hierbei ist, dass Sie alle **Faktoren und Auswirkungen, die mit einer Investition zusammenhängen**, in nur einer Datenbank bündeln können und so nicht den Überblick verlieren. Denn gerade bei [großen Projekten]({{< relref "templates/projects/work-breakdown-structure" >}}) gibt es eine Vielzahl an objektiven, aber auch subjektiven Kriterien, die sich ganz unterschiedlich auf die CBA auswirken. Eine Vorlage hilft Ihnen, all diese Aspekte im Blick zu behalten.
 
-![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](sasun-bughdaryan-njiadDwbgaM-unsplash.jpg)
 
-Profitieren Sie von einer Kosten-Nutzen-Analyse. Bildrechte: amazing studio / Adobe Stock
+Profitieren Sie von einer Kosten-Nutzen-Analyse. Bildrechte: © Sasun Bughdaryan / Unsplash
 
 ## Wo kommt eine Kosten-Nutzen-Analyse zum Einsatz?
 
@@ -47,9 +54,9 @@ Im Grunde passt eine Kosten-Nutzen-Analyse immer, wenn größere finanzielle Inv
 - neue betriebswirtschaftliche Prozesse einführen
 - Ihre [Fahrzeugflotte]({{< relref "posts/fuhrparkmanagement" >}}) vergrößern möchten
 
-![Mitarbeiter erstellt Vorlage für eine Kosten-Nutzen-Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Mitarbeiter erstellt Vorlage für eine Kosten-Nutzen-Analyse.](tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg)
 
-Ein Mitarbeiter führt eine Kosten-Nutzen-Analyse durch. Bildrechte: Andrey Popov / Adobe Stock
+Ein Mitarbeiter führt eine Kosten-Nutzen-Analyse durch. Bildrechte: © Tim van der Kuip / Unsplash
 
 ## Diese Vorteile verschafft Ihnen eine Kosten-Nutzen-Analyse
 

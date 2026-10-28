@@ -14,6 +14,13 @@ tags:
 seo:
     title: 'Top 9 kostenlose Online-Datenbanken'
     description: 'Verschaffen Sie sich einen Überblick über neun bekannte Online-Datenbanken, die Sie kostenlos erhalten können.'
+image_sources:
+    - file: 'kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-wearing-black-t-shirt-holding-white-computer-keyboard-YK0HPwWDJ1I'
+      author: 'Kelly Sikkema'
+    - file: 'carlos-muza-hpjSkU2UYSU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU'
+      author: 'Carlos Muza'
 ---
 
 Eine Datenbank dient als Basis zur Erfassung, Verarbeitung und dem Darstellen von Daten. Sie fassen Informationen mit gemeinsamen Merkmalen zusammen und erleichtern die Verwaltung. Für die Erstellung und Arbeit mit einer Datenbank benötigen Sie nicht immer Programmierkenntnisse. Einige Online-Datenbanken haben den Vorteil, dass sie sowohl kostenlos sind als auch einfach bedient werden können. In diesem Artikel haben wir Ihnen die neun besten, kostenlosen Online-Datenbanken gegenübergestellt.
@@ -30,9 +37,9 @@ Online-Datenbanken sind entweder kostenlos verfügbar oder werden monatlich beza
 
 Ein weiterer Vorteil ist, dass Sie einen Service erwerben. Die Anbieter haben meist ihre eigene IT-Abteilung. Dadurch entlasten Sie Ihre eigenen Mitarbeiter. Niemand, der die Datenbank erstellen und bedienen soll, benötigt tief gehende Programmierkenntnisse. Auch die Eingabe von Daten kann per Import oder Webformular geschehen.
 
-![It-Mitarbeiterin arbeitet mit einer kostenlosen Online Datenbank.](Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
+![It-Mitarbeiterin arbeitet mit einer kostenlosen Online Datenbank.](kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg)
 
-Online Datenbank kostenlos © Gorodenkoff / adobe stock
+Online Datenbank kostenlos © Kelly Sikkema / Unsplash
 
 ## Was ist bei der Wahl einer kostenlosen Online-Datenbank zu beachten?
 
@@ -76,9 +83,9 @@ Wenn von Amazon und Google die Rede ist, darf Microsoft ebenfalls nicht fehlen. 
 - **Microsoft SQL Server Edge**: Mit dieser relationalen Datenbank lässt sich das Konzept des Edge Computings für IoT-Anwendungen umsetzen.
 - **Microsoft dedizierter SQL Server**: Hier wissen Sie, wo Ihre Daten gespeichert werden und können auf eine hybride Datenplattform zurückgreifen.
 
-![Jemand schaut sich die kostenlose Online Datenbank von Microsoft an.](Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
+![Jemand schaut sich die kostenlose Online Datenbank von Microsoft an.](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
 
-Online Datenbank kostenlos © monticellllo / adobe stock
+Online Datenbank kostenlos © Carlos Muza / Unsplash
 
 Um die Online-Datenbank kostenlos zu betreiben, benötigen Sie die Developer-Version von Microsoft SQL Server. Diese Edition ist für die Verwendung als Entwicklungsdatenbank lizensiert, beinhaltet jedoch alle Funktionen.
 
@@ -117,4 +124,3 @@ Entweder legen Sie Hand an und programmieren selbst oder Sie wählen eine Lösun
 
 Testen Sie zwei bis drei Lösungen, um die passende für Ihr [Projekt]({{< relref "templates/projects/project-plan" >}}) zu finden. [Starten Sie mit dem kostenlosen Free-Abo von SeaTable hier]({{< relref "pages/registration" >}}).
 
-Bildquelle Titelbild: © monsitj/Adobe Stock

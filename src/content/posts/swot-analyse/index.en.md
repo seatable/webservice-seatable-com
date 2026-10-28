@@ -3,7 +3,7 @@ title: 'SWOT analysis example: Focus on internal strengths and weaknesses'
 description: 'Discover how a SWOT analysis reveals your strengths, weaknesses, opportunities, and threats. Learn actionable tips, explore a real-world example, and download a free template to optimize your strategic planning.'
 date: 2024-03-19
 lastmod: '2025-02-03'
-coverImage: 'Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg'
+coverImage: scott-graham-5fNmWej4tAA-unsplash.jpg'
 author: 'rdb'
 url: '/swot-analysis'
 aliases:
@@ -19,6 +19,13 @@ tags:
     - 'Data Management & Visualisation'
     - 'Operations'
 color: '#9f91c7'
+image_sources:
+    - file: 'scott-graham-5fNmWej4tAA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA'
+      author: 'Scott Graham'
+    - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
+      source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
+      author: 'UX Indonesia'
 ---
 
 ## SWOT analysis explained simply
@@ -32,9 +39,9 @@ Let's start with a definition. SWOT stands for
 - Opportunities
 - Threats
 
-![Management consultant looking for a new template for a SWOT analysis example on a laptop.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Management consultant looking for a new template for a SWOT analysis example on a laptop.](scott-graham-5fNmWej4tAA-unsplash.jpg)
 
-SWOT analysis © everythingpossible / Adobe Stock
+SWOT analysis © Scott Graham / Unsplash
 
 The SWOT analysis is an example of how you can analyze your company (internal) and relevant environmental influences (external).
 
@@ -89,9 +96,9 @@ You should also choose a [SWOT analysis template]({{< relref "templates/operatio
 
 [Taking stock]({{< relref "posts/inventarliste-erstellen" >}}) involves a considerable amount of time. Who can you release for the meetings and workshops? Expertise from various departments is also required. **Which colleagues have an insight into the strengths, weaknesses, opportunities and threats of your company and its business environment?** Ideally, you put together a team of ten employees.
 
-![A team talks about a new SWOT analysis example.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![A team talks about a new SWOT analysis example.](ux-indonesia-w00FkE6e8zE-unsplash.jpg)
 
-A team talks about a SWOT analysis example © weedezign / Adobe Stock
+A team talks about a SWOT analysis example © UX Indonesia / Unsplash
 
 **Another tip:** Be creative. Set up the brainstorming workshops in such a way that they bring (new) ideas to light in a playful way.
 

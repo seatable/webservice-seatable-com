@@ -12,6 +12,13 @@ url: '/de/angebotsmanagement'
 seo:
     title: 'Angebotsmanagement optimieren – die Software-Lösung'
     description: 'Optimieren Sie Ihr Angebotsmanagement! Automatisieren Sie Vertriebsprozesse, verwalten Sie Daten zentral und behalten Sie stets den Überblick'
+image_sources:
+    - file: 'jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg'
+      source: 'https://unsplash.com/photos/office-desk-with-smartphone-and-financial-charts-heiYgqp0Tsk'
+      author: 'Jakub Żerdzicki'
+    - file: 'vitaly-gariev-BXLy_lXu5j0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-woman-talking-on-a-cell-phone-while-using-a-laptop-BXLy_lXu5j0'
+      author: 'Vitaly Gariev'
 ---
 
 Eine Sache ist entscheidend für eine erfolgreiche Vertriebsarbeit: das **Angebotsmanagement**. Doch worauf kommt es dabei an? Welche Fehler sollten auf keinen Fall auftauchen? Und was steckt überhaupt hinter dem Begriff „Angebotsmanagement“?
@@ -50,9 +57,9 @@ Nach den ersten Gesprächen mit dem potenziellen neuen Kunden, kennen Sie seine 
 - Erstellung eines schriftlichen Angebots
 - Versenden des schriftlichen Angebots an den Kunden
 
-![Mitarbeiterin kalkulliert Preis im Rahmen des Angebotsmanagement](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Mitarbeiterin kalkulliert Preis im Rahmen des Angebotsmanagement](jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg)
 
-Angebotsmanagement © Antonioguillem / adobe stock
+Angebotsmanagement © Jakub Żerdzicki / Unsplash
 
 ### 3\. Die Nachbereitung
 
@@ -91,9 +98,9 @@ Ein weiterer häufiger Fehler im Angebotsmanagement ist, dass der Verkäufer sic
 
 Zum perfekten Angebotsmanagement gehört auch, dass Sie nach geraumer Zeit nachhaken, sollte der Kunde sich nicht von selbst zurückmelden. So zeigen Sie nicht nur, dass er Ihnen wichtig ist (Thema Kundenbindung), sondern können mögliche Unklarheiten oder Fragen direkt aus dem Weg räumen und das Angebot ggf. nochmals anpassen.
 
-![Vertriebsmitarbeiter telefoniert mit dem potentiellen Kunden im Rahmen seines Angebotsmanagements.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Vertriebsmitarbeiter telefoniert mit dem potentiellen Kunden im Rahmen seines Angebotsmanagements.](vitaly-gariev-BXLy_lXu5j0-unsplash.jpg)
 
-Angebotsmanagement © Patrick Daxenbichler / adobe stock
+Angebotsmanagement © Vitaly Gariev / Unsplash
 
 ## Software für ein besseres Angebotsmanagement
 
@@ -107,4 +114,3 @@ Wer das Rund-um-Sorglos-Paket für sein Angebotsmanagement sucht, findet mit [Se
 
 Sowohl CRM und Customer Support als auch Supply Chain Management können Sie mit SeaTable zentral an einem Ort managen und allen Mitarbeitern ganz ohne zusätzlichen Aufwand zur Verfügung stellen. So weiß jeder immer, wie der aktuelle Stand eines jeden Angebots ist. Und: mittels Zeitleiste und Kanban-Board können Sie [Fristen ganz einfach visualisieren und einhalten]({{< relref "templates/projects/project-plan" >}}). So legen Sie die Basis für eine wirklich erfolgreiche Vertriebsarbeit.
 
-Bildquelle Titelbild: © contrastwerkstatt/Adobe Stock

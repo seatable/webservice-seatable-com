@@ -13,6 +13,13 @@ color: '#93aae5'
 seo:
     title: 'Gestion de contenu social : Planifiez et organisez efficacement'
     description: 'Découvrez comment élaborer un plan éditorial pour gérer, programmer et analyser votre contenu social efficacement avec un seul outil'
+image_sources:
+    - file: 'shutter-speed-a_lBsEZZjWc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-social-media-icons-on-it-a_lBsEZZjWc'
+      author: 'Shutter Speed'
+    - file: 'towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc'
+      author: 'Towfiqu barbhuiya'
 ---
 
 Pour obtenir des résultats mesurables sur les plates-formes de médias sociaux, vous devez publier continuellement de nouveaux contenus. Et ce, souvent plusieurs fois par semaine pour différents canaux, comme LinkedIn, Instagram, Facebook, X ou Youtube. Il s'agit de **publier des contenus intéressants et divertissants dans les délais impartis**. Un **plan éditorial pour les médias sociaux** vous aidera à le mettre en œuvre. Découvrez dans cet article comment développer une stratégie de médias sociaux efficace grâce à un plan de médias sociaux.
@@ -23,9 +30,9 @@ Pour obtenir des résultats mesurables sur les plates-formes de médias sociaux,
 
 Un plan pour les médias sociaux vous permet de garder **une vue d'ensemble sur vos canaux de médias sociaux**. Plus précisément, un plan éditorial pour les médias sociaux vous permet de savoir **qui doit publier quoi, quand et où**. Si vous utilisez un outil central pour les publications sur les médias sociaux, vous travaillez plus efficacement avec vos collègues, car chaque membre de l'équipe voit toujours l'état actuel. Vous pouvez ainsi **répartir plus facilement les tâches** tout en respectant vos directives de conception d'entreprise afin de créer des posts sur les médias sociaux comme s'il s'agissait d'un seul et même document.
 
-![Une collaboratrice du service marketing utilise le modèle de plan des médias sociaux pour la vue d'ensemble des publications.](Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
+![Une collaboratrice du service marketing utilise le modèle de plan des médias sociaux pour la vue d'ensemble des publications.](shutter-speed-a_lBsEZZjWc-unsplash.jpg)
 
-Un plan éditorial pour les médias sociaux permet de structurer les processus et d'assurer une présence cohérente. Droits d'image : © Urupong / Adobe Stock
+Un plan éditorial pour les médias sociaux permet de structurer les processus et d'assurer une présence cohérente. Droits d'image : © Shutter Speed / Unsplash
 
 ### 2\. fixer les idées
 
@@ -37,9 +44,9 @@ Le prochain avantage d'un plan de contenu pour les médias sociaux est que vous 
 
 Le plan éditorial devrait pouvoir être représenté dans un calendrier. Vous pouvez ainsi planifier longtemps à l'avance **les dates et les intervalles auxquels vous souhaitez publier**. Notez par exemple les jours fériés ou les événements importants pour lesquels vous souhaitez publier un contenu fidèle au thème. Ceux qui produisent régulièrement des contenus pour les canaux de médias sociaux savent à quel point **un plan éditorial bien structuré est important pour le bon déroulement du travail**.
 
-![Modèle de plan pour les médias sociaux](Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
+![Modèle de plan pour les médias sociaux](towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg)
 
-Planifiez les dates de vos posts dans un calendrier. Droits d'image : © mizar_21984 / Adobe Stock
+Planifiez les dates de vos posts dans un calendrier. Droits d'image : © Towfiqu barbhuiya / Unsplash
 
 ### 4\. classer systématiquement les contenus
 

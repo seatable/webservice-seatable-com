@@ -14,6 +14,10 @@ aliases:
 seo:
     title: 'Créer Liste de Tâches en Ligne | Meilleure App'
     description: "Découvrez la meilleure application pour votre liste de tâches et créez votre liste en ligne facilement avec un modèle prêt à l’emploi."
+image_sources:
+    - file: 'thomas-bormans-pcpsVsyFp_s-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-notepad-with-a-pen-on-top-of-it-pcpsVsyFp_s'
+      author: 'Thomas Bormans'
 ---
 
 ## Pourquoi une liste de choses à faire ?
@@ -78,9 +82,9 @@ Il est possible de trier les différentes tâches à faire, de leur attribuer un
 
 {{< warning headline="Utilisation gratuite" text="Microsoft To Do est disponible gratuitement. Tout ce dont vous avez besoin, c'est d'un compte Microsoft." />}}
 
-![Application Microsoft To do List sur smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Application Microsoft To do List sur smartphone.](thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
 
-© sdx15 / Adobe Stock
+ © Thomas Bormans / Unsplash
 
 ### Projoodle (en anglais) : Une liste de choses à faire inspirée de Doodle
 

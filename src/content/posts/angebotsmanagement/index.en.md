@@ -14,6 +14,13 @@ url: '/quote-management'
 aliases:
     - /angebotsmanagement
 color: '#66a7a3'
+image_sources:
+    - file: 'jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg'
+      source: 'https://unsplash.com/photos/office-desk-with-smartphone-and-financial-charts-heiYgqp0Tsk'
+      author: 'Jakub Żerdzicki'
+    - file: 'vitaly-gariev-BXLy_lXu5j0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-woman-talking-on-a-cell-phone-while-using-a-laptop-BXLy_lXu5j0'
+      author: 'Vitaly Gariev'
 ---
 
 One thing is crucial for successful sales work: **offer management**. But what is important here? What mistakes should not be made under any circumstances? And what is behind the term "offer management" anyway?
@@ -52,9 +59,9 @@ After the initial discussions with the potential new customer, you know their "n
 - Preparation of a written offer
 - Sending the written offer to the customer
 
-![Employee calculates price within the framework of offer management](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Employee calculates price within the framework of offer management](jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg)
 
-Offer management © Antonioguillem / adobe stock
+Offer management © Jakub Żerdzicki / Unsplash
 
 ### 3\. the follow-up
 
@@ -93,9 +100,9 @@ Another common mistake in offer management is that the salesperson has not prepa
 
 Perfect offer management also means that you follow up after some time if the customer does not get back to you on their own. In this way, you not only show that the customer is important to you (customer loyalty), but you can also clear up any ambiguities or questions directly and adjust the offer again if necessary.
 
-![Sales representative makes a phone call to the potential customer as part of his offer management.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Sales representative makes a phone call to the potential customer as part of his offer management.](vitaly-gariev-BXLy_lXu5j0-unsplash.jpg)
 
-Offer management © Patrick Daxenbichler / adobe stock
+Offer management © Vitaly Gariev / Unsplash
 
 ## Software for better supply management
 
@@ -109,4 +116,3 @@ If you are looking for the all-round carefree package for your offer management,
 
 With SeaTable, you can manage CRM and customer support as well as supply chain management centrally in one place and make them available to all employees without any additional effort. This way, everyone always knows the current status of each offer. And: using a timeline and Kanban board, you can [easily visualize and meet deadlines]({{< relref "templates/projects/project-plan" >}}). This is how you lay the foundation for truly successful sales work.
 
-Image source Cover image: © contrastwerkstatt/Adobe Stock

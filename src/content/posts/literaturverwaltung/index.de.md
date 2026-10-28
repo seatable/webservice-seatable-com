@@ -14,6 +14,16 @@ color: '#719da6'
 seo:
     title: 'Literaturverwaltungsprogramm für mehr Durchblick'
     description: 'Sorgen Sie für eine übersichtliche und fehlerfreie Literaturverwaltung. Hier gibt es Tipps im Umgang mit einem Literaturverwaltungsprogramm.'
+image_sources:
+    - file: 'gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg'
+      source: 'https://unsplash.com/photos/pile-of-open-paperback-books-LUGuCtvlk1Q'
+      author: 'Gülfer ERGİN'
+    - file: 'jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-long-row-of-bookshelves-filled-with-lots-of-books-GxCLXVWAJMY'
+      author: 'Jayanth Muppaneni'
+    - file: 'zoshua-colah-klbApl9mxr0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/student-studies-at-a-library-with-books-klbApl9mxr0'
+      author: 'Zoshua Colah'
 ---
 
 Ob Abschlussarbeit, Dissertation oder Forschungsbericht – ein **Literaturverwaltungsprogramm** erleichtert Ihnen die Arbeit an wissenschaftlichen Projekten. Genauso viel Zeit wie das Finden, Sichten und Auswerten von **Quellen** frisst dabei die Erstellung von **Literaturverzeichnissen**.
@@ -22,9 +32,9 @@ Mit einer strukturierten Literaturverwaltung beugen Sie Fehlern in Literaturlist
 
 Im Folgenden bekommen Sie verschiedene Software-Lösungen im Vergleich vorgestellt und erhalten zusätzlich Tipps zur erfolgreichen Literaturverwaltung.
 
-![Ein Stapel Bücher, vorsortiert für die Literaturverwaltung.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Ein Stapel Bücher, vorsortiert für die Literaturverwaltung.](gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg)
 
-Bringen Sie Ordnung in Ihre wissenschaftliche Literatur! © caftor / Adobe Stock
+Bringen Sie Ordnung in Ihre wissenschaftliche Literatur! © Gülfer ERGİN / Unsplash
 
 ## Warum ist ein Literaturverwaltungsprogramm sinnvoll?
 
@@ -128,9 +138,9 @@ Verlassen Sie sich nicht darauf, dass die Quellenangaben in Literaturprogrammen 
 
 Kontrollieren Sie also direkt, ob die Literaturangaben korrekt sind, und ergänzen Sie diese gegebenenfalls. Möchten Sie sich diese Aufgabe bis zum Schluss aufheben, ist es hilfreich, sie in einer [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}) einzutragen, um es nicht zu vergessen.
 
-![Literaturverwaltung in Bibliothek mit Tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Literaturverwaltung in Bibliothek mit Tablet.](jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg)
 
-Einige Literaturverwaltungsprogramme können Quellen per DOI erfassen. © ake1150 / Adobe Stock
+Einige Literaturverwaltungsprogramme können Quellen per DOI erfassen. © Jayanth Muppaneni / Unsplash
 
 ### 2\. Literaturdaten sorgfältig eingeben
 
@@ -167,9 +177,9 @@ Diese Angaben sollten Sie so genau wie möglich notieren. Zählen Sie die Seiten
 
 Einige Literaturverwaltungsprogramme erleichtern Ihnen die Suche nach neuer Literatur. Bei Citavi haben Sie zum Beispiel die Möglichkeit, sich **Such-Alarme** ausgeben zu lassen. So erfahren Sie, wenn neue Artikel zu einem Ihrer Themen online verfügbar sind. Mendeley bietet einen Empfehlungsdienst an, über den Sie sich ähnliche Artikel anzeigen lassen können.
 
-![Studentin prüft vor Abgabe final Ihr Literaturverzeichnis.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![Studentin prüft vor Abgabe final Ihr Literaturverzeichnis.](zoshua-colah-klbApl9mxr0-unsplash.jpg)
 
-Für die Quellenrecherche bieten sich auch Bibliotheken an. © Jacob Lund / Adobe Stock
+Für die Quellenrecherche bieten sich auch Bibliotheken an. © Zoshua Colah / Unsplash
 
 ### 4\. Gliederung im Literaturverwaltungsprogramm anlegen
 

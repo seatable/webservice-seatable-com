@@ -15,6 +15,10 @@ tags:
     - 'Finanças'
     - 'Gestão de projectos'
 color: '#f4a64b'
+image_sources:
+    - file: 'christin-hume-hBuwVLcYTnA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-using-macbook-hBuwVLcYTnA'
+      author: 'Christin Hume'
 ---
 
 **Já elaborou o seu orçamento para o próximo ano?** Se não, está na hora: quanto mais cedo souber quanto dinheiro tem disponível, mais precisamente poderá iniciar medidas para atingir os seus objectivos: Quer contratar mais empregados ou está a planear uma grande campanha publicitária? Independentemente do que tem em mente, este artigo dar-lhe-á dicas valiosas para o planeamento do orçamento.
@@ -25,7 +29,7 @@ O artigo seguinte trata do **planeamento orçamental nas empresas** e da melhor 
 
 A orçamentação - também conhecida como planeamento orçamental ou atribuição orçamental - é, como o nome sugere, a **atribuição de orçamentos e o planeamento de recursos**. Por definição, o planeamento orçamental é efectuado para o futuro, normalmente para o ano financeiro seguinte. Pode, por um lado, determinar o orçamento para toda a empresa e, por outro, efetuar uma **orçamentação detalhada para departamentos específicos ou projectos individuais**. O plano orçamental resultante especifica para onde deve ir o dinheiro disponível na empresa e quais os objectivos que pretende atingir com ele e durante que período de tempo.
 
-![Empregado executa o planeamento orçamental num computador portátil](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
+![Empregado executa o planeamento orçamental num computador portátil](christin-hume-hBuwVLcYTnA-unsplash.jpg)
 
 ## Vantagens do planeamento orçamental prospetivo
 

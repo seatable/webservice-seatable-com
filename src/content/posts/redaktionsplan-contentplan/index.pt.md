@@ -16,6 +16,13 @@ tags:
 seo:
     title: 'Planejamento editorial: dicas e modelo gratuito'
     description: 'Planeje e monitore seu conteúdo com checklist, modelo grátis e guia prático para marketing digital eficaz.'
+image_sources:
+    - file: 'cherrydeck-rMILC1PIwM0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/people-sitting-on-chair-in-front-of-laptop-computers-rMILC1PIwM0'
+      author: 'Cherrydeck'
+    - file: 'ravi-palwe-I3urDa6z2_4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/blue-and-black-pen-beside-orange-sticky-notes-I3urDa6z2_4'
+      author: 'Ravi Palwe'
 ---
 
 ## Quais são as vantagens de um plano de conteúdos?
@@ -30,9 +37,9 @@ Com um plano de conteúdos, é sempre possível controlar os prazos dos projecto
 
 Deve atribuir uma pessoa responsável a cada artigo planeado. Desta forma, todos os membros da equipa podem filtrar o plano editorial de acordo com as suas [tarefas]({{< relref "posts/to-do-liste-online" >}}) e ver rapidamente o que tem de ser feito. **A coordenação entre várias pessoas ou departamentos é mais fácil** se for claro quem está envolvido em que projeto e quem ainda tem capacidade.
 
-![A equipa de marketing cria um modelo de plano editorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![A equipa de marketing cria um modelo de plano editorial.](cherrydeck-rMILC1PIwM0-unsplash.jpg)
 
-Utilize um plano de conteúdos para coordenar o planeamento e a criação de artigos. Direitos de imagem: © DisobeyArt / Adobe Stock
+Utilize um plano de conteúdos para coordenar o planeamento e a criação de artigos. Direitos de imagem: © Cherrydeck / Unsplash
 
 ### Nenhum conteúdo é perdido
 
@@ -61,9 +68,9 @@ O passo seguinte é escolher a estrutura correta para o seu plano de conteúdos.
 
 As respostas às perguntas da lista de verificação determinam a estrutura e o âmbito do modelo do plano de conteúdo requerido.
 
-![O funcionário de marketing cria um modelo para o planeamento editorial.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![O funcionário de marketing cria um modelo para o planeamento editorial.](ravi-palwe-I3urDa6z2_4-unsplash.jpg)
 
-O planeamento de conteúdos requer um conceito bem pensado. Direitos de imagem: © Andrey Popov / Adobe Stock
+O planeamento de conteúdos requer um conceito bem pensado. Direitos de imagem: © Ravi Palwe / Unsplash
 
 ## Criar um plano de conteúdo em 5 passos
 

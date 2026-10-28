@@ -13,13 +13,20 @@ categories:
 tags:
     - 'Kunst- & Kulturmanagement'
 color: '#c6d7cb'
+image_sources:
+    - file: 'anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-pages-of-a-book-with-pictures-of-animals-CCTyw_EkKyw'
+      author: 'Anastasia Zhenina'
+    - file: 'vadim-bozhko-lbO1iCnbTW0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-writing-in-notebook-at-desk-lbO1iCnbTW0'
+      author: 'Vadim Bozhko'
 ---
 
 Ihre **Sammlungen** lassen sich ideal über digitale Programme und Apps **verwalten**. Dabei ist es egal, ob es sich bei der Sammlung um physische Gegenstände oder digitale Medien handelt. Zu den beliebtesten Sammlerstücken zählen Münzen, Briefmarken, Schuhe, Kunstwerke, Spielzeug, Sammelkarten, Non Fungible Tokens (NFT), [Bücher]({{< relref "posts/buecher-katalogisieren" >}}), Filme, Musik (auf CD, Schallplatten) und mehr. Wenn einen Sammler die Leidenschaft packt, ist die größte Herausforderung oft, den Überblick zu behalten. Hier kommen die Programme ins Spiel, mit denen Sie Ihre Sammlung verwalten können – am PC oder mit einer App.
 
-![Sammlung aller Briefmarken über ein digitales Tool verwalten.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Sammlung aller Briefmarken über ein digitales Tool verwalten.](anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg)
 
-Was sammeln Sie? © VRD / Adobe Stock
+Was sammeln Sie? © Anastasia Zhenina / Unsplash
 
 ## Warum sollten Sie Ihre Sammlungen verwalten?
 
@@ -53,9 +60,9 @@ Um Ihre Sammlung zu verwalten, haben Sie verschiedene Möglichkeiten. Es existie
 
 Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/de-de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
 
-![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](vadim-bozhko-lbO1iCnbTW0-unsplash.jpg)
 
-Sammlung verwalten © monticellllo / Adobe Stock
+Sammlung verwalten © Vadim Bozhko / Unsplash
 
 ### Data Crow – Freeware zur Medienverwaltung
 

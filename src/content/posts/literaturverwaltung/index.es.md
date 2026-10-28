@@ -16,6 +16,16 @@ color: '#719da6'
 seo:
     title: 'Programa de gestión literaria para una mejor visión de conjunto'
     description: 'Asegúrese de que su gestión bibliográfica es clara y no contiene errores. Aquí tiene consejos sobre cómo utilizar un programa de gestión de referencias.'
+image_sources:
+    - file: 'gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg'
+      source: 'https://unsplash.com/photos/pile-of-open-paperback-books-LUGuCtvlk1Q'
+      author: 'Gülfer ERGİN'
+    - file: 'jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-long-row-of-bookshelves-filled-with-lots-of-books-GxCLXVWAJMY'
+      author: 'Jayanth Muppaneni'
+    - file: 'zoshua-colah-klbApl9mxr0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/student-studies-at-a-library-with-books-klbApl9mxr0'
+      author: 'Zoshua Colah'
 ---
 
 Ya sea para un trabajo de fin de grado, una tesis doctoral o un informe de investigación, un **programa de gestión bibliográfica** facilita el trabajo en proyectos académicos. La elaboración de **bibliografías** consume tanto tiempo como la búsqueda, revisión y análisis de **fuentes**.
@@ -24,9 +34,9 @@ Con una gestión bibliográfica estructurada, evitará errores en las listas de 
 
 A continuación, le presentamos una comparativa de diferentes soluciones de software y consejos para una gestión bibliográfica exitosa.
 
-![Una pila de libros, preseleccionados para la gestión bibliográfica.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Una pila de libros, preseleccionados para la gestión bibliográfica.](gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg)
 
-¡Ponga orden en su literatura científica! © caftor / Adobe Stock
+¡Ponga orden en su literatura científica! © Gülfer ERGİN / Unsplash
 
 ## ¿Por qué es útil un programa de gestión bibliográfica?
 
@@ -130,9 +140,9 @@ No confíe en que las referencias en los programas o en otros trabajos académic
 
 Compruebe siempre que las referencias sean correctas y complételas si es necesario. Si prefiere dejar esta tarea para el final, es útil anotarlo en una [lista de tareas]({{< relref "templates/projects/to-do-list" >}}) para no olvidarlo.
 
-![Gestión bibliográfica en la biblioteca con tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestión bibliográfica en la biblioteca con tablet.](jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg)
 
-Algunos programas pueden capturar fuentes mediante DOI. © ake1150 / Adobe Stock
+Algunos programas pueden capturar fuentes mediante DOI. © Jayanth Muppaneni / Unsplash
 
 ### 2\. Introduzca cuidadosamente los datos bibliográficos
 
@@ -169,9 +179,9 @@ Anote estos datos con la mayor precisión posible. Si las páginas no están imp
 
 Algunos programas facilitan la búsqueda de nueva literatura. Por ejemplo, en Citavi puede configurar **alertas de búsqueda** para saber cuándo hay nuevos artículos sobre sus temas. Mendeley ofrece un servicio de recomendaciones para ver artículos similares.
 
-![Estudiante revisa la bibliografía final antes de entregar.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![Estudiante revisa la bibliografía final antes de entregar.](zoshua-colah-klbApl9mxr0-unsplash.jpg)
 
-Las bibliotecas también son útiles para la búsqueda de fuentes. © Jacob Lund / Adobe Stock
+Las bibliotecas también son útiles para la búsqueda de fuentes. © Zoshua Colah / Unsplash
 
 ### 4\. Crear una estructura en el programa
 

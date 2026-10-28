@@ -13,6 +13,13 @@ color: '#93aae5'
 seo:
     title: 'Planificador de contenido en redes sociales: Organice y programe fácil'
     description: 'Aprenda a crear un plan de redes sociales para gestionar, programar y analizar sus contenidos de forma eficiente con una sola herramienta'
+image_sources:
+    - file: 'shutter-speed-a_lBsEZZjWc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-social-media-icons-on-it-a_lBsEZZjWc'
+      author: 'Shutter Speed'
+    - file: 'towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc'
+      author: 'Towfiqu barbhuiya'
 ---
 
 Para lograr un éxito mensurable en las plataformas de medios sociales, es necesario publicar continuamente nuevos contenidos. Y a menudo varias veces a la semana para distintos canales, como LinkedIn, Instagram, Facebook, X o YouTube. Hay que **publicar contenidos interesantes y entretenidos a tiempo**. Un **plan editorial para redes sociales** puede ayudarle a conseguirlo. Lea este artículo para saber cómo desarrollar una estrategia de éxito en las redes sociales con un plan editorial.
@@ -23,9 +30,9 @@ Para lograr un éxito mensurable en las plataformas de medios sociales, es neces
 
 Un plan de redes sociales le permite hacer un **seguimiento de sus canales de redes sociales**. Más concretamente, puede utilizar un plan editorial de redes sociales para registrar **quién, qué, cuándo y dónde deben hacerse las publicaciones**. Si utiliza una herramienta centralizada para las publicaciones en redes sociales, podrá trabajar de forma más eficaz con sus compañeros, ya que todos los miembros del equipo pueden ver en todo momento el estado actual. Así le resultará **más fácil distribuir las tareas** y seguir cumpliendo las directrices de diseño corporativo para crear publicaciones en las redes sociales a partir de un único molde.
 
-![El empleado de marketing utiliza la plantilla del plan de redes sociales para tener una visión general de las publicaciones.](Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
+![El empleado de marketing utiliza la plantilla del plan de redes sociales para tener una visión general de las publicaciones.](shutter-speed-a_lBsEZZjWc-unsplash.jpg)
 
-Un plan editorial para las redes sociales garantiza procesos estructurados y una presencia normalizada. Derechos de imagen: © Urupong / Adobe Stock
+Un plan editorial para las redes sociales garantiza procesos estructurados y una presencia normalizada. Derechos de imagen: © Shutter Speed / Unsplash
 
 ### 2\. registrar ideas
 
@@ -37,9 +44,9 @@ La siguiente ventaja de un plan de contenidos para redes sociales es que puede *
 
 Debería ser posible visualizar el plan editorial en un calendario. Esto le permite planificar con mucha antelación **en qué fechas y con qué intervalos desea publicar**. Por ejemplo, anote los días festivos o eventos importantes para los que desee publicar contenidos. Cualquiera que produzca regularmente contenidos para canales de medios sociales sabe lo **importante que es un plan editorial bien estructurado para que los flujos de trabajo sean fluidos**.
 
-![Plantilla de plan de redes sociales](Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
+![Plantilla de plan de redes sociales](towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg)
 
-Planifique las fechas de sus posts en un calendario. Derechos de imagen: © mizar_21984 / Adobe Stock
+Planifique las fechas de sus posts en un calendario. Derechos de imagen: © Towfiqu barbhuiya / Unsplash
 
 ### 4\. organizar sistemáticamente los contenidos
 
