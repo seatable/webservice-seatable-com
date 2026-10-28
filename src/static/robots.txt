@@ -21,8 +21,11 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Bingbot
+Allow: /
+
 # Sitemaps
 Sitemap: https://seatable.com/sitemap.xml
 
 # Context for Large Language Models
-# LLMs file: https://seatable.com/llms.txt
+LLMs: https://seatable.com/llms.txt
