@@ -13,6 +13,13 @@ tags:
 seo:
     title: 'Redaktionsplan & Contentplan: Tipps, Vorlage & Checkliste'
     description: 'Redaktionsplan effizient erstellen – mit Checkliste, Vorlage & Experten-Tipps für erfolgreichen Content.'
+image_sources:
+    - file: 'cherrydeck-rMILC1PIwM0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/people-sitting-on-chair-in-front-of-laptop-computers-rMILC1PIwM0'
+      author: 'Cherrydeck'
+    - file: 'ravi-palwe-I3urDa6z2_4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/blue-and-black-pen-beside-orange-sticky-notes-I3urDa6z2_4'
+      author: 'Ravi Palwe'
 ---
 
 ## Welche Vorteile hat ein Contentplan?
@@ -27,9 +34,9 @@ Deadlines für Entwürfe und wichtige Veröffentlichungstermine behalten Sie mit
 
 Jedem geplanten Beitrag sollten Sie einen Verantwortlichen zuweisen. So kann jeder im Team den Redaktionsplan nach seinen [To-dos]({{< relref "posts/to-do-liste-online" >}}) filtern und auf einen Blick sehen, was zu erledigen ist. Die **Abstimmung über mehrere Personen oder Abteilungen hinweg ist leichter**, wenn klar ist, wer an welchem Projekt beteiligt ist und wer noch Kapazitäten hat.
 
-![Marketingteam erstellt Redaktionsplan Vorlage.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![Marketingteam erstellt Redaktionsplan Vorlage.](cherrydeck-rMILC1PIwM0-unsplash.jpg)
 
-Mit einem Contentplan koordinieren Sie die Planung und Erstellung von Beiträgen. Bildrechte: © DisobeyArt / Adobe Stock
+Mit einem Contentplan koordinieren Sie die Planung und Erstellung von Beiträgen. Bildrechte: © Cherrydeck / Unsplash
 
 ### Kein Content geht verloren
 
@@ -58,9 +65,9 @@ Als Nächstes geht es um die Wahl des passenden Rahmens für Ihren Contentplan. 
 
 Die Antworten auf die Fragen der Checkliste bestimmen den Aufbau und Umfang der benötigten Contentplan-Vorlage.
 
-![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](ravi-palwe-I3urDa6z2_4-unsplash.jpg)
 
-Die Planung des Contents erfordert ein durchdachtes Konzept. Bildrechte: © Andrey Popov / Adobe Stock
+Die Planung des Contents erfordert ein durchdachtes Konzept. Bildrechte: © Ravi Palwe / Unsplash
 
 ## Contentplan erstellen in 5 Schritten
 

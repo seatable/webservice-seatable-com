@@ -3,7 +3,7 @@ title: 'Create editorial plan | content plan: Tips & tricks with template'
 description: "In today's world, an online presence is crucial for the success of your company. You need to publish content regularly via social media, your website, a blog or formats such as a podcast. This could be articles, explanatory videos or infographics, for example. A content plan, also known as an editorial plan, helps you to plan and create all your content. Read on to find out how you can easily create your content plan using a free template and what you need to bear in mind when doing so."
 date: 2022-05-27
 lastmod: '2025-01-17'
-coverImage: 'Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg'
+coverImage: ravi-palwe-I3urDa6z2_4-unsplash.jpg'
 author: 'rdb'
 url: '/editorial-calendar'
 aliases:
@@ -17,6 +17,13 @@ tags:
 seo:
     title: 'Editorial Calendar: Content Plan Template & Checklist'
     description: 'Create an effective content plan : free template, checklist and expert tips for marketing success.'
+image_sources:
+    - file: 'cherrydeck-rMILC1PIwM0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/people-sitting-on-chair-in-front-of-laptop-computers-rMILC1PIwM0'
+      author: 'Cherrydeck'
+    - file: 'ravi-palwe-I3urDa6z2_4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/blue-and-black-pen-beside-orange-sticky-notes-I3urDa6z2_4'
+      author: 'Ravi Palwe'
 ---
 
 ## What are the advantages of a content plan?
@@ -31,9 +38,9 @@ You can always keep an eye on deadlines for drafts and important publication dat
 
 You should assign a responsible person to each planned article. This way, everyone in the team can filter the editorial plan according to their [to-dos]({{< relref "posts/to-do-liste-online" >}}) and see at a glance what needs to be done. **Coordination across several people or departments is easier** if it is clear who is involved in which project and who still has capacity.
 
-![Marketing team creates editorial plan template.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![Marketing team creates editorial plan template.](cherrydeck-rMILC1PIwM0-unsplash.jpg)
 
-Use a content plan to coordinate the planning and creation of articles. Image rights: © DisobeyArt / Adobe Stock
+Use a content plan to coordinate the planning and creation of articles. Image rights: © Cherrydeck / Unsplash
 
 ### No content is lost
 
@@ -62,9 +69,9 @@ The next step is to choose the right framework for your content plan. The follow
 
 The answers to the questions in the checklist determine the structure and scope of the required content plan template.
 
-![Marketing employee creates a template for editorial planning.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Marketing employee creates a template for editorial planning.](ravi-palwe-I3urDa6z2_4-unsplash.jpg)
 
-Content planning requires a well thought-out concept. Image rights: © Andrey Popov / Adobe Stock
+Content planning requires a well thought-out concept. Image rights: © Ravi Palwe / Unsplash
 
 ## Create a content plan in 5 steps
 

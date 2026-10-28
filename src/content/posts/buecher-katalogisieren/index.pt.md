@@ -16,6 +16,16 @@ tags:
     - 'Ferramentas e plugins'
     - 'Vida cotidiana e lazer'
 color: '#71c392'
+image_sources:
+    - file: 'yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/7iJD7oPwHVw'
+      author: 'Yaroslava Holiachenko'
+    - file: 'vitaly-gariev-R-xd9TJSWeM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/R-xd9TJSWeM'
+      author: 'Vitaly Gariev'
+    - file: 'tom-hermans-9BoqXzEeQqM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/9BoqXzEeQqM'
+      author: 'Tom Hermans'
 ---
 
 Adora ler e não se farta de livros? Isso é ótimo, porque não há melhor maneira de mergulhar em mundos estrangeiros do que com um livro. Mas sabe exatamente quantos e quais os livros que possui imediatamente? E onde é que cada livro se encontra atualmente? Se não, existe a solução perfeita, porque com as aplicações certas pode catalogar os seus livros - de forma fácil, rápida e sem grande esforço.
@@ -32,9 +42,9 @@ Quanto maior for o número de livros, mais difícil será manter um registo de t
 
 Tem mais de uma estante e os locais dos seus livros estão espalhados por várias salas? Então é também muito útil catalogar os seus livros. Com a aplicação de livros certa, sabe exatamente onde está cada livro e não tem de o procurar quando precisa dele rapidamente.
 
-![A mulher cataloga os seus livros com aplicação de livro.](buecher-katalogisieren-frau.jpg)
+![A mulher cataloga os seus livros com aplicação de livro.](yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg)
 
-Catalogação de livros © Viktoriia / Adobe Stock
+Catalogação de livros © Yaroslava Holiachenko / Unsplash
 
 ### Pode facilmente manter listas de desejos de livros
 
@@ -58,9 +68,9 @@ Já decidiu que quer catalogar os seus livros? Agora é altura de encontrar o m�
 
 Se quiser catalogar, organizar e gerir os seus livros de forma sensata, deve utilizar uma aplicação para livros ou uma aplicação para bibliotecas. É rápido, descomplicado e não requer uma caneta ou um pedaço de papel.
 
-![Um homem cataloga os seus livros numa aplicação de livros.](buecher-katalogisieren-mann.jpg)
+![Um homem cataloga os seus livros numa aplicação de livros.](vitaly-gariev-R-xd9TJSWeM-unsplash.jpg)
 
-Catalogação de livros © NDABCREATIVITY / Adobe Stock
+Catalogação de livros © Vitaly Gariev / Unsplash
 
 ## Como funciona uma aplicação de livro?
 
@@ -98,9 +108,9 @@ Independentemente do meio que acabe por utilizar, há três fatores que determin
 2. **Informação inteligente**: A informação que se pretende registar também é importante para a escolha da aplicação certa. O título e o autor são suficientes ou devem ser incluídos outros aspetos como o género, o estado de leitura, etc.?
 3. **Gestão do tempo**: Quanto mais livros tiver, mais tempo demorará a catalogá-los. Para não perder a motivação, planeie mais tempo. No final, será recompensado com uma biblioteca privada completa.
 
-![Pilha de livros a serem catalogados numa aplicação de livro.](buecher-stapel.jpg)
+![Pilha de livros a serem catalogados numa aplicação de livro.](tom-hermans-9BoqXzEeQqM-unsplash.jpg)
 
-Catalogação de livros © Kara / Adobe Stock
+Catalogação de livros © Tom Hermans / Unsplash
 
 ## Conclusão
 

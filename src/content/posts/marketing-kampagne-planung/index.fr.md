@@ -16,6 +16,13 @@ seo:
     description: "Une campagne de marketing ne vaut que ce que vaut sa planification – voici 6 conseils pour une préparation parfaite !"
 register:
    show: true    
+image_sources:
+    - file: 'vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-working-on-laptop-in-modern-office-with-team-sOwh2ZHMGRQ'
+      author: 'Vitaly Gariev'
+    - file: 'campaign-creators-gMsnXqILjp4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4'
+      author: 'Campaign Creators'
 ---
 
 ## Qu'est-ce qu'une campagne de marketing ?
@@ -26,7 +33,7 @@ Les campagnes de marketing sont des séquences d'activités de marketing straté
 
 Les termes campagne de marketing et stratégie de marketing sont parfois utilisés de manière interchangeable. Pourtant, ils désignent deux choses différentes. L'une des différences essentielles est la composante temporelle. Alors que la stratégie est une approche planifiée à long terme de la mise en œuvre des objectifs de marketing, la campagne est une action **limitée dans le temps** dans le cadre de cette même stratégie. Une stratégie peut comprendre de nombreuses campagnes de marketing ou de publicité différentes sur une longue période. Cela signifie qu'une stratégie bien développée est la condition préalable pour que vous puissiez commencer à planifier votre campagne de marketing.
 
-![Un employé prend en charge la planification d'une campagne de marketing](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Un employé prend en charge la planification d'une campagne de marketing](vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg)
 
 ## Six étapes vers le succès – comment planifier avec succès votre campagne de marketing
 
@@ -51,7 +58,7 @@ Il n'existe pratiquement pas d'idées auxquelles on n'ait pas déjà pensé. En 
 
 Les campagnes publicitaires réussies supposent des **responsabilités claires au sein de l'équipe**. En effet, les campagnes de marketing fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand il doit le faire. Une fois que les [objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ont été définis, l'étape suivante consiste à répartir les domaines de responsabilité au sein de l'équipe et le budget. N'oubliez pas de fixer des échéances et des jalons et, surtout, de définir des **mesures pour l'analyse ultérieure des performances**.
 
-![L'équipe marketing discute de l'approche de la planification de la campagne](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![L'équipe marketing discute de l'approche de la planification de la campagne](campaign-creators-gMsnXqILjp4-unsplash.jpg)
 
 ### 5\. Associer mesures et contenu lors de la planification de la campagne de marketing
 

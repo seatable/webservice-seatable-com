@@ -18,6 +18,16 @@ tags:
     - 'постройте свой бизнес'
     - 'Операционная деятельность'
 color: '#9f91c7'
+image_sources:
+    - file: 'scott-graham-5fNmWej4tAA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA'
+      author: 'Scott Graham'
+    - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
+      source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
+      author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## SWOT-анализ — простое объяснение
@@ -31,9 +41,9 @@ color: '#9f91c7'
 - Opportunities — возможности
 - Threats — угрозы
 
-![Консультант по управлению ищет новый шаблон для примера SWOT-анализа на своем ноутбуке.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Консультант по управлению ищет новый шаблон для примера SWOT-анализа на своем ноутбуке.](scott-graham-5fNmWej4tAA-unsplash.jpg)
 
-SWOT-анализ © everythingpossible / Adobe Stock
+SWOT-анализ © Scott Graham / Unsplash
 
 SWOT-анализ — это пример того, как вы можете проанализировать свою компанию (внутренние факторы) и значимые факторы внешней среды (внешние).
 
@@ -45,9 +55,9 @@ SWOT-анализ — это пример того, как вы можете п�
 
 На втором этапе вы выводите из этой оценки **стратегические рекомендации к действию**. Что нужно делать, когда возможности встречаются со слабыми сторонами, а угрозы — с сильными?
 
-![Графическое представление матрицы SWOT в качестве шаблона для SWOT-анализа.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Графическое представление матрицы SWOT в качестве шаблона для SWOT-анализа.](swot-strategy-matrix.jpg)
 
-Пример SWOT-анализа © r0b\_ / Adobe Stock
+Пример SWOT-анализа © SeaTable
 
 Поскольку учитываются как внешнее окружение, так и внутренние факторы компании, SWOT-анализ считается примером и **важным инструментом стратегического корпоративного планирования**.
 
@@ -88,9 +98,9 @@ SWOT-анализ — это пример того, как вы можете п�
 
 [Инвентаризация]({{< relref "posts/inventarliste-erstellen" >}}) отнимает много времени. Кого вы можете освободить для встреч и семинаров? Кроме того, необходимы компетенции из разных отделов. **Кто из коллег имеет представление о сильных и слабых сторонах, возможностях и угрозах вашей компании и вашей бизнес-среды?** В идеале вы соберете команду из десяти сотрудников.
 
-![Команда рассказывает о новом примере SWOT-анализа.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Команда рассказывает о новом примере SWOT-анализа.](ux-indonesia-w00FkE6e8zE-unsplash.jpg)
 
-Команда обсуждает пример SWOT-анализа © weedezign / Adobe Stock
+Команда обсуждает пример SWOT-анализа © UX Indonesia / Unsplash
 
 **Еще один совет:** будьте креативны. Организуйте мозговой штурм так, чтобы в игровой форме выявлять (новые) идеи.
 

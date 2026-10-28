@@ -13,6 +13,13 @@ color: '#93aae5'
 seo:
     title: 'Social Media Content Plan: Organize and Schedule Effortlessly'
     description: 'Learn how to craft a social media editorial plan to manage, schedule, and analyze your content efficiently with all-in-one tools'
+image_sources:
+    - file: 'shutter-speed-a_lBsEZZjWc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-social-media-icons-on-it-a_lBsEZZjWc'
+      author: 'Shutter Speed'
+    - file: 'towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc'
+      author: 'Towfiqu barbhuiya'
 ---
 
 To achieve measurable success on social media platforms, you need to continuously publish new content. And often several times a week for different channels, such as LinkedIn, Instagram, Facebook, X or YouTube. You need to **post interesting and entertaining content on time**. A **social media editorial plan** will help you with this. Read this article to find out how to develop a successful social media strategy with a social media plan.
@@ -23,9 +30,9 @@ To achieve measurable success on social media platforms, you need to continuousl
 
 A social media plan allows you to keep **track of your social media channels**. More specifically, you can use a social media editorial plan to record **who, what, when and where you should post**. If you use a central tool for social media posts, you can work more efficiently with your colleagues, as everyone in the team can always see the current status. This **makes it easier for you to distribute tasks** and still adhere to your corporate design guidelines to create social media posts that look consistent.
 
-![Marketing employee uses the social media plan template for posting overview.](Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
+![Marketing employee uses the social media plan template for posting overview.](shutter-speed-a_lBsEZZjWc-unsplash.jpg)
 
-An editorial plan for social media ensures structured processes and a uniform appearance. Image rights: © Urupong / Adobe Stock
+An editorial plan for social media ensures structured processes and a uniform appearance. Image rights: © Shutter Speed / Unsplash
 
 ### 2\. record ideas
 
@@ -37,9 +44,9 @@ The next advantage of a content plan for social media is that you can **collect 
 
 It should be possible to display the editorial plan in a calendar. This allows you to plan well in advance **on which dates and at what intervals you want to post**. For example, make a note of important public holidays or events for which you want to publish content in line with the topic. Anyone who regularly produces content for social media channels knows how **important a well-structured editorial plan** is **for smooth workflows**.
 
-![Template for social media plan](Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
+![Template for social media plan](towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg)
 
-Plan the dates for your posts in a calendar. Image rights: © mizar_21984 / Adobe Stock
+Plan the dates for your posts in a calendar. Image rights: © Towfiqu barbhuiya / Unsplash
 
 ### 4\. systematically organize content
 

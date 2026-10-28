@@ -15,13 +15,20 @@ categories:
 tags:
     - 'Management arts et culture'
 color: '#c6d7cb'
+image_sources:
+    - file: 'anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-pages-of-a-book-with-pictures-of-animals-CCTyw_EkKyw'
+      author: 'Anastasia Zhenina'
+    - file: 'vadim-bozhko-lbO1iCnbTW0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-writing-in-notebook-at-desk-lbO1iCnbTW0'
+      author: 'Vadim Bozhko'
 ---
 
 Vos **collections** peuvent être **gérées** de manière idéale via des programmes et des applications numériques. Peu importe que la collection soit constituée d'objets physiques ou de supports numériques. Les objets de collection les plus populaires sont les pièces de monnaie, les timbres, les chaussures, les œuvres d'art, les jouets, les cartes à collectionner, les jetons non fongibles (NFT), les [livres]({{< relref "posts/buecher-katalogisieren" >}}), les films, la musique (sur CD, disques) et bien plus encore. Lorsqu'un collectionneur est pris de passion, le plus grand défi est souvent de garder une vue d'ensemble. C'est là qu'interviennent les programmes qui vous permettent de gérer votre collection - sur votre PC ou avec une application.
 
-![Gérer la collection de tous les timbres via un outil numérique.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Gérer la collection de tous les timbres via un outil numérique.](anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg)
 
-Qu'est-ce que vous collectionnez ? © VRD / Adobe Stock
+Qu'est-ce que vous collectionnez ? © Anastasia Zhenina / Unsplash
 
 ## Pourquoi gérer vos collections ?
 
@@ -55,9 +62,9 @@ Pour gérer votre collection, vous avez plusieurs possibilités. Il existe des a
 
 Une option pour la gestion des collections est [Evernote](https://evernote.com/de-de). Vous pouvez y écrire des notes et y joindre des images ou des documents tels que des preuves d'achat des objets. Il est également possible de définir des tags afin de distinguer les différentes collections les unes des autres. Une fonction de recherche permet de retrouver les objets de la collection dans les notes. Vous commencez avec une version gratuite. La version Personal coûte 6,99 € par mois et par utilisateur et la version Professional 8,99 €.
 
-![Quelqu'un consulte l'outil Evernote pour gérer sa collection.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Quelqu'un consulte l'outil Evernote pour gérer sa collection.](vadim-bozhko-lbO1iCnbTW0-unsplash.jpg)
 
-Gérer la collection © monticellllo / Adobe Stock
+Gérer la collection © Vadim Bozhko / Unsplash
 
 ### Data Crow - Logiciel gratuit de gestion des médias
 

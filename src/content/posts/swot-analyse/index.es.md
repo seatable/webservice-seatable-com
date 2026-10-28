@@ -18,6 +18,16 @@ tags:
     - 'Construya su empresa'
     - 'Operaciones'
 color: '#9f91c7'
+image_sources:
+    - file: 'scott-graham-5fNmWej4tAA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA'
+      author: 'Scott Graham'
+    - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
+      source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
+      author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## El análisis DAFO explicado de forma sencilla
@@ -31,9 +41,9 @@ Empecemos con una definición. DAFO significa
 - Opportunities – Oportunidades
 - Threats – Amenazas
 
-![Consultor de gestión buscando una nueva plantilla para un ejemplo de análisis DAFO en su portátil.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Consultor de gestión buscando una nueva plantilla para un ejemplo de análisis DAFO en su portátil.](scott-graham-5fNmWej4tAA-unsplash.jpg)
 
-Análisis DAFO © everythingpossible / Adobe Stock
+Análisis DAFO © Scott Graham / Unsplash
 
 El análisis DAFO es un ejemplo de cómo puede analizar su empresa (interno) y las influencias relevantes del entorno (externo).
 
@@ -45,9 +55,9 @@ A continuación, **analiza el entorno de su empresa o su equipo**. Ahora toca an
 
 En un segundo paso, a partir de ese balance deriva **recomendaciones estratégicas de actuación**. ¿Qué debe hacer cuando las oportunidades se encuentran con las debilidades o las amenazas con las fortalezas?
 
-![Representación gráfica de una matriz DAFO como plantilla para un análisis DAFO.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Representación gráfica de una matriz DAFO como plantilla para un análisis DAFO.](swot-strategy-matrix.jpg)
 
-Ejemplo de análisis DAFO © r0b\_ / Adobe Stock
+Ejemplo de análisis DAFO © SeaTable
 
 Dado que se tienen en cuenta tanto el entorno como los factores internos de la empresa, el análisis DAFO es un ejemplo y una **herramienta importante para la planificación estratégica empresarial**.
 
@@ -88,9 +98,9 @@ Elija además una [plantilla de análisis DAFO]({{< relref "templates/operations
 
 El proceso de [inventario]({{< relref "posts/inventarliste-erstellen" >}}) conlleva una gran inversión de tiempo. ¿A quién puede liberar para las reuniones y los talleres? Además, se necesitan competencias de distintos departamentos. **¿Qué colegas tienen una visión de las fortalezas, las debilidades, las oportunidades y las amenazas de su empresa y de su entorno empresarial?** Lo ideal sería que formara un equipo de diez empleados.
 
-![Un equipo habla de un nuevo ejemplo de análisis DAFO.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Un equipo habla de un nuevo ejemplo de análisis DAFO.](ux-indonesia-w00FkE6e8zE-unsplash.jpg)
 
-Un equipo habla sobre un ejemplo de análisis DAFO © weedezign / Adobe Stock
+Un equipo habla sobre un ejemplo de análisis DAFO © UX Indonesia / Unsplash
 
 **Otro consejo:** sea creativo. Organice los talleres de lluvia de ideas de tal manera que saque a la luz (nuevas) ideas de forma lúdica.
 

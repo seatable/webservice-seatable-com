@@ -16,6 +16,16 @@ color: '#719da6'
 seo:
     title: "Programme de gestion de la littérature pour plus de clarté"
     description: "Assurez une gestion de la littérature claire et sans erreur. Voici des conseils sur l'utilisation d'un programme de gestion de la littérature."
+image_sources:
+    - file: 'gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg'
+      source: 'https://unsplash.com/photos/pile-of-open-paperback-books-LUGuCtvlk1Q'
+      author: 'Gülfer ERGİN'
+    - file: 'jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-long-row-of-bookshelves-filled-with-lots-of-books-GxCLXVWAJMY'
+      author: 'Jayanth Muppaneni'
+    - file: 'zoshua-colah-klbApl9mxr0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/student-studies-at-a-library-with-books-klbApl9mxr0'
+      author: 'Zoshua Colah'
 ---
 
 Qu'il s'agisse d'un travail de fin d'études, d'une thèse ou d'un rapport de recherche, un **programme de gestion de la littérature** vous facilite le travail sur les projets scientifiques. La création d'une **bibliographie** prend autant de temps que la recherche, la consultation et l'évaluation des **sources**.
@@ -24,9 +34,9 @@ Une gestion structurée de la littérature vous permet d'éviter les erreurs dan
 
 Vous trouverez ci-dessous une comparaison de différentes solutions logicielles ainsi que des conseils pour une gestion efficace de la littérature.
 
-![Une pile de livres, pré-triés pour la gestion de la littérature.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Une pile de livres, pré-triés pour la gestion de la littérature.](gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg)
 
-Mettez de l'ordre dans votre littérature scientifique ! © caftor / Adobe Stock
+Mettez de l'ordre dans votre littérature scientifique ! © Gülfer ERGİN / Unsplash
 
 ## Pourquoi un programme de gestion de la littérature est-il utile ?
 
@@ -130,9 +140,9 @@ Ne vous fiez pas à l'exactitude des sources indiquées dans les programmes de l
 
 Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire]({{< relref "templates/projects/to-do-list" >}}) afin de ne pas l'oublier.
 
-![Gestion de la littérature dans une bibliothèque avec une tablette.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestion de la littérature dans une bibliothèque avec une tablette.](jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg)
 
-Certains programmes de gestion de la littérature peuvent saisir les sources par DOI. © ake1150 / Adobe Stock
+Certains programmes de gestion de la littérature peuvent saisir les sources par DOI. © Jayanth Muppaneni / Unsplash
 
 ### 2\. saisir soigneusement les données bibliographiques
 
@@ -169,9 +179,9 @@ Notez ces informations le plus précisément possible. Comptez les numéros de p
 
 Certains programmes de gestion de la littérature vous facilitent la recherche de nouveaux ouvrages. Avec Citavi, vous avez par exemple la possibilité de **recevoir des alertes de recherche**. Vous êtes ainsi informé lorsque de nouveaux articles sur l'un de vos sujets sont disponibles en ligne. Mendeley propose un service de recommandation qui vous permet d'afficher des articles similaires.
 
-![L'étudiante vérifie finalement sa bibliographie avant de la rendre.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![L'étudiante vérifie finalement sa bibliographie avant de la rendre.](zoshua-colah-klbApl9mxr0-unsplash.jpg)
 
-Pour la recherche de sources, les bibliothèques sont également une bonne solution. © Jacob Lund / Adobe Stock
+Pour la recherche de sources, les bibliothèques sont également une bonne solution. © Zoshua Colah / Unsplash
 
 ### 4\. créer un plan dans le programme de gestion de la littérature
 

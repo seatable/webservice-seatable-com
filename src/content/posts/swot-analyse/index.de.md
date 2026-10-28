@@ -16,6 +16,16 @@ tags:
     - 'Build your Business'
     - 'Operations'
 color: '#9f91c7'
+image_sources:
+    - file: 'scott-graham-5fNmWej4tAA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA'
+      author: 'Scott Graham'
+    - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
+      source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
+      author: 'UX Indonesia'
+    - file: 'swot-strategien-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## SWOT Analyse einfach erklärt
@@ -29,9 +39,9 @@ Beginnen wir mit einer Definition. SWOT steht für
 - Opportunities – Chancen
 - Threats – Risiken
 
-![Unternehmensberater, der am Laptop nach einer neuem neuen Template für eine SWOT Analyse Beispiel sucht.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Unternehmensberater, der am Laptop nach einer neuem neuen Template für eine SWOT Analyse Beispiel sucht.](scott-graham-5fNmWej4tAA-unsplash.jpg)
 
-SWOT Analyse © everythingpossible / Adobe Stock
+SWOT Analyse © Scott Graham / Unsplash
 
 Die SWOT-Analyse ist ein Beispiel dafür, wie Sie Ihr Unternehmen (intern) und relevante Umwelteinflüsse (extern) analysieren können.
 
@@ -43,9 +53,9 @@ Anschließend **analysieren Sie das Umfeld Ihres Unternehmens oder Teams**. Jetz
 
 Aus der Bestandsaufnahme leiten Sie im zweiten Schritt **strategische Handlungsempfehlungen** ab. Was müssen Sie tun, wenn Chancen auf Schwächen oder Risiken auf Stärken treffen?
 
-![Grafische Darstellung einer SWOT Matrix als Template für eine SWOT Analyse.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Grafische Darstellung einer SWOT Matrix als Template für eine SWOT Analyse.](swot-strategien-matrix.jpg)
 
-SWOT Analyse Beispiel © r0b\_ / Adobe Stock
+SWOT Analyse Beispiel © SeaTable
 
 Da sowohl das Umfeld als auch unternehmensinterne Faktoren betrachtet werden, gilt die SWOT-Analyse als Beispiel und **wichtiges Tool für die strategische Unternehmensplanung**.
 
@@ -86,9 +96,9 @@ Wählen Sie außerdem eine [SWOT Analyse Vorlage]({{< relref "templates/operatio
 
 Die [Bestandsaufnahme]({{< relref "posts/inventarliste-erstellen" >}}) geht mit einem hohen zeitlichen Aufwand einher. Wen können Sie für die Meetings und Workshops freistellen? Des Weiteren werden Kompetenzen aus verschiedenen Abteilungen benötigt. **Welche Kollegen haben einen Einblick in die Stärken, Schwächen, Chancen und Risiken Ihres Unternehmens und Unternehmensumfelds?** Im Idealfall stellen Sie ein Team von zehn Mitarbeitern zusammen.
 
-![Ein Team spricht über neues SWOT Analyse Beispiel.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Ein Team spricht über neues SWOT Analyse Beispiel.](ux-indonesia-w00FkE6e8zE-unsplash.jpg)
 
-Ein Team spricht über ein SWOT Analyse Beispiel © weedezign / Adobe Stock
+Ein Team spricht über ein SWOT Analyse Beispiel © UX Indonesia / Unsplash
 
 **Ein weiterer Tipp:** Seien Sie kreativ. Setzen Sie die Brainstorming-Workshops so auf, dass Sie spielerisch (neue) Ideen zutage fördern.
 

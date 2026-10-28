@@ -3,7 +3,7 @@ title: 'Easily create a cost-benefit analysis'
 description: 'Navigating business decisions means weighing costs against potential benefits, but which factors are truly decisive? Discover how a cost-benefit analysis reveals hidden risks, pinpoints opportunities, and provides a clear foundation for lasting investment choices—all while keeping your company’s goals in focus.'
 date: 2024-03-04
 lastmod: '2025-02-20'
-coverImage: 'Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg'
+coverImage: tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg'
 author: 'cdb'
 url: '/cost-benefit-analysis-template'
 aliases:
@@ -17,6 +17,13 @@ tags:
     - 'Data Management & Visualisation'
     - 'Finances'
 color: '#e45706'
+image_sources:
+    - file: 'sasun-bughdaryan-njiadDwbgaM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/calculator-magnifying-glass-and-chart-with-gears-on-paper-njiadDwbgaM'
+      author: 'Sasun Bughdaryan'
+    - file: 'tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-sitting-on-chair-wearing-gray-crew-neck-long-sleeved-shirt-using-apple-magic-keyboard-CPs2X8JYmS8'
+      author: 'Tim van der Kuip'
 ---
 
 In everyday business life, it is not always easy to make the right decisions. You have to consider many aspects and factors and often have to assess the effect of certain measures without any empirical data. How successful your company is depends on one thing in particular: the basis on which your decisions are made. Fortunately, you can put your decisions on a solid footing with a **cost-benefit analysis**.
@@ -29,9 +36,9 @@ A cost-benefit analysis, or CBA for short, is a **profitability analysis**. It c
 
 The advantage here is that you can bundle all the **factors and effects associated with an investment** in just one database, so you don't lose track. Especially with [large projects]({{< relref "templates/projects/work-breakdown-structure" >}}), there are a large number of objective and subjective criteria that affect the CBA in very different ways. A template helps you to keep track of all these aspects.
 
-![Printed template for a cost benefit analysis.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Printed template for a cost benefit analysis.](sasun-bughdaryan-njiadDwbgaM-unsplash.jpg)
 
-Benefit from a cost-benefit analysis. Image rights: amazing studio / Adobe Stock
+Benefit from a cost-benefit analysis. Image rights: © Sasun Bughdaryan / Unsplash
 
 ## Where is a cost-benefit analysis used?
 
@@ -50,9 +57,9 @@ Basically, a cost-benefit analysis is always appropriate when major financial in
 - introduce new business processes
 - want to expand your [vehicle fleet]({{< relref "posts/fuhrparkmanagement" >}})
 
-![Employee creates template for a cost-benefit analysis.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Employee creates template for a cost-benefit analysis.](tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg)
 
-An employee carries out a cost-benefit analysis. Image rights: Andrey Popov / Adobe Stock
+An employee carries out a cost-benefit analysis. Image rights: © Tim van der Kuip / Unsplash
 
 ## A cost-benefit analysis provides you with these advantages
 

@@ -15,6 +15,10 @@ tags:
     - 'Finances'
     - 'Gestion de projet'
 color: '#f4a64b'
+image_sources:
+    - file: 'christin-hume-hBuwVLcYTnA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-using-macbook-hBuwVLcYTnA'
+      author: 'Christin Hume'
 ---
 
 **Avez-vous déjà établi votre budget pour l'année prochaine ?** Si ce n'est pas le cas, il est grand temps : plus vite vous connaîtrez le montant dont vous disposez, plus vous pourrez prendre des mesures précises pour atteindre vos objectifs : Souhaitez-vous embaucher davantage de salariés ou envisagez-vous une campagne publicitaire importante ? Peu importe ce que vous avez en tête, cet article vous fournira des conseils précieux pour la planification budgétaire.
@@ -25,7 +29,7 @@ L'article suivant traite de la **planification budgétaire dans les entreprises*
 
 La budgétisation - également connue sous le nom de planification budgétaire ou d'allocation budgétaire - est, comme son nom l'indique, **l'allocation des budgets et la planification des ressources**. Par définition, la planification budgétaire est effectuée pour l'avenir, généralement pour l'année financière suivante. Vous pouvez d'une part déterminer le budget pour l'ensemble de l'entreprise et d'autre part effectuer une **budgétisation détaillée pour des départements spécifiques ou des projets individuels**. Le budget prévisionnel qui en résulte détermine où l'argent disponible dans l'entreprise doit aller et quels objectifs vous souhaitez atteindre avec lui et sur quelle période de temps.
 
-![Le salarié met en œuvre la budgétisation sur ordinateur portable](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
+![Le salarié met en œuvre la budgétisation sur ordinateur portable](christin-hume-hBuwVLcYTnA-unsplash.jpg)
 
 ## Avantages de la planification budgétaire prospective
 

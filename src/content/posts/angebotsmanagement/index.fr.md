@@ -14,6 +14,13 @@ color: '#66a7a3'
 seo:
     title: "Optimiser la gestion des appels d'offres : la solution informatique"
     description: "Optimisez la gestion de vos offres Automatisez les processus de vente, gérez les données de manière centralisée et gardez une vue d'ensemble à tout moment."
+image_sources:
+    - file: 'jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg'
+      source: 'https://unsplash.com/photos/office-desk-with-smartphone-and-financial-charts-heiYgqp0Tsk'
+      author: 'Jakub Żerdzicki'
+    - file: 'vitaly-gariev-BXLy_lXu5j0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-woman-talking-on-a-cell-phone-while-using-a-laptop-BXLy_lXu5j0'
+      author: 'Vitaly Gariev'
 ---
 
 Une chose est essentielle pour une vente réussie : la **gestion des offres**. Mais de quoi s'agit-il ? Quelles sont les erreurs à ne pas commettre ? Et qu'est-ce qui se cache derrière le terme "gestion des offres" ?
@@ -52,9 +59,9 @@ Après les premiers entretiens avec le nouveau client potentiel, vous connaissez
 - Rédaction d'une offre écrite
 - Envoi de l'offre écrite au client
 
-![Une collaboratrice calcule le prix dans le cadre de la gestion des offres](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Une collaboratrice calcule le prix dans le cadre de la gestion des offres](jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg)
 
-Gestion des offres © Antonioguillem / adobe stock
+Gestion des offres © Jakub Żerdzicki / Unsplash
 
 ### 3\. le suivi
 
@@ -93,9 +100,9 @@ Une autre erreur fréquente dans la gestion des offres est que le vendeur ne s'e
 
 Une gestion parfaite de l'offre implique également de relancer le client après un certain temps s'il ne répond pas de lui-même. Ainsi, vous montrez non seulement qu'il est important pour vous (thème de la fidélisation de la clientèle), mais vous pouvez aussi éliminer directement les éventuelles ambiguïtés ou questions et, le cas échéant, adapter à nouveau l'offre.
 
-![Le commercial est au téléphone avec le client potentiel dans le cadre de la gestion de son offre.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Le commercial est au téléphone avec le client potentiel dans le cadre de la gestion de son offre.](vitaly-gariev-BXLy_lXu5j0-unsplash.jpg)
 
-Gestion des offres © Patrick Daxenbichler / adobe stock
+Gestion des offres © Vitaly Gariev / Unsplash
 
 ## Logiciel pour une meilleure gestion des offres
 
@@ -109,4 +116,3 @@ Pour ceux qui recherchent un package complet pour la gestion de leurs offres, [S
 
 Avec SeaTable, vous pouvez centraliser la gestion de la relation client, l'assistance à la clientèle et la gestion de la chaîne d'approvisionnement en un seul endroit et les mettre à la disposition de tous les collaborateurs sans effort supplémentaire. Ainsi, chacun sait toujours où en est chaque offre. De plus, grâce à la ligne de temps et au tableau Kanban, vous pouvez [facilement visualiser et respecter les délais]({{< relref "templates/projects/project-plan" >}}). Vous posez ainsi les bases d'un travail de vente vraiment efficace.
 
-Source de l'image de couverture : © contrastwerkstatt/Adobe Stock

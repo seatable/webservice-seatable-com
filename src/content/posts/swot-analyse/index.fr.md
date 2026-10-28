@@ -18,6 +18,16 @@ tags:
     - 'Créez votre entreprise'
     - 'Opérations'
 color: '#9f91c7'
+image_sources:
+    - file: 'scott-graham-5fNmWej4tAA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA'
+      author: 'Scott Graham'
+    - file: 'ux-indonesia-w00FkE6e8zE-unsplash.jpg'
+      source: 'https://unsplash.com/photos/team-collaborating-with-sticky-notes-w00FkE6e8zE'
+      author: 'UX Indonesia'
+    - file: 'swot-strategy-matrix.jpg'
+      source: 'eigene Grafik (SeaTable)'
+      author: 'SeaTable'
 ---
 
 ## L'analyse SWOT expliquée simplement
@@ -31,9 +41,9 @@ Commençons par une définition. SWOT signifie
 - Opportunities – Opportunités
 - Threats – Menaces
 
-![Consultant en gestion d'entreprise qui cherche sur son ordinateur portable un nouveau modèle pour un exemple d'analyse SWOT.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Consultant en gestion d'entreprise qui cherche sur son ordinateur portable un nouveau modèle pour un exemple d'analyse SWOT.](scott-graham-5fNmWej4tAA-unsplash.jpg)
 
-Analyse SWOT © everythingpossible / Adobe Stock
+Analyse SWOT © Scott Graham / Unsplash
 
 L'analyse SWOT est un exemple de la manière dont vous pouvez analyser votre entreprise (interne) et les influences environnementales pertinentes (externes).
 
@@ -45,9 +55,9 @@ Ensuite, **vous analysez l'environnement de votre entreprise ou de votre équipe
 
 Dans un deuxième temps, vous déduisez de cet état des lieux **des recommandations d'actions stratégiques**. Que devez-vous faire lorsque des opportunités rencontrent des faiblesses ou des menaces rencontrent des forces ?
 
-![Représentation graphique d'une matrice SWOT comme modèle pour une analyse SWOT.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Représentation graphique d'une matrice SWOT comme modèle pour une analyse SWOT.](swot-strategy-matrix.jpg)
 
-Exemple d'analyse SWOT © r0b\_ / Adobe Stock
+Exemple d'analyse SWOT © SeaTable
 
 Comme l'environnement et les facteurs internes à l'entreprise sont pris en compte, l'analyse SWOT est considérée comme un exemple et **un outil important pour la planification stratégique d'entreprise**.
 
@@ -88,9 +98,9 @@ Choisissez également un [modèle d'analyse SWOT]({{< relref "templates/operatio
 
 L'[inventaire]({{< relref "posts/inventarliste-erstellen" >}}) s'accompagne d'un investissement en temps important. Qui pouvez-vous libérer pour les réunions et les ateliers ? En outre, des compétences de différents départements sont nécessaires. **Quels sont les collègues qui ont un aperçu des forces, des faiblesses, des opportunités et des menaces de votre entreprise et de son environnement ?** Dans l'idéal, vous constituez une équipe de dix personnes.
 
-![Une équipe parle d'un nouvel exemple d'analyse SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Une équipe parle d'un nouvel exemple d'analyse SWOT.](ux-indonesia-w00FkE6e8zE-unsplash.jpg)
 
-Une équipe discute d'un exemple d'analyse SWOT © weedezign / Adobe Stock
+Une équipe discute d'un exemple d'analyse SWOT © UX Indonesia / Unsplash
 
 **Un autre conseil :** soyez créatif. Concevez les ateliers de brainstorming de manière à faire émerger de (nouvelles) idées de manière ludique.
 

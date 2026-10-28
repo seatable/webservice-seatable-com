@@ -13,6 +13,13 @@ color: '#93aae5'
 seo:
     title: 'Planejamento de conteúdo social: organize e programe fácil'
     description: 'Aprenda a criar um plano de conteúdo para gerenciar, agendar e analisar suas redes sociais com uma única ferramenta eficiente'
+image_sources:
+    - file: 'shutter-speed-a_lBsEZZjWc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-social-media-icons-on-it-a_lBsEZZjWc'
+      author: 'Shutter Speed'
+    - file: 'towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc'
+      author: 'Towfiqu barbhuiya'
 ---
 
 Para obter resultados mensuráveis nas plataformas de mídia social, é preciso publicar continuamente novos conteúdos – muitas vezes várias vezes por semana e para diferentes canais, como LinkedIn, Instagram, Facebook, X ou Youtube. O objetivo é **postar conteúdo interessante e envolvente dentro do prazo**. Um **plano editorial de social media** ajuda muito nessa tarefa. Neste artigo, você aprende como desenvolver uma estratégia de sucesso com um plano de social media.
@@ -23,9 +30,9 @@ Para obter resultados mensuráveis nas plataformas de mídia social, é preciso 
 
 Com um plano de social media, você mantém o **controle sobre seus canais de mídia social**. Em um plano editorial, você registra **quem, o que, quando e onde deve postar**. Ao usar uma ferramenta central para as postagens, você trabalha de forma mais eficiente com sua equipe, pois todos sempre veem o status atual. Assim, é possível **distribuir tarefas com mais facilidade** e ainda seguir as diretrizes de design da marca, garantindo que os posts tenham uma aparência consistente.
 
-![Colaboradora de marketing usa o modelo de plano de social media para visualizar postagens.](Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
+![Colaboradora de marketing usa o modelo de plano de social media para visualizar postagens.](shutter-speed-a_lBsEZZjWc-unsplash.jpg)
 
-Um plano editorial de social media garante processos estruturados e uma presença uniforme. Direitos da imagem: © Urupong / Adobe Stock
+Um plano editorial de social media garante processos estruturados e uma presença uniforme. Direitos da imagem: © Shutter Speed / Unsplash
 
 ### 2\. Registrar ideias
 
@@ -37,9 +44,9 @@ Outra vantagem de um content plan para social media é que você pode **coletar 
 
 O plano editorial deve ser representado em um calendário. Assim, você pode planejar com antecedência **em quais datas e com que frequência vai postar**. Anote feriados ou eventos importantes para publicar conteúdos temáticos. Quem produz conteúdo regularmente sabe **como um plano editorial estruturado é importante para o fluxo de trabalho**.
 
-![Modelo de planejamento de social media](Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
+![Modelo de planejamento de social media](towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg)
 
-Planeje as datas dos seus posts em um calendário. Direitos da imagem: © mizar_21984 / Adobe Stock
+Planeje as datas dos seus posts em um calendário. Direitos da imagem: © Towfiqu barbhuiya / Unsplash
 
 ### 4\. Organizar conteúdos de forma sistemática
 

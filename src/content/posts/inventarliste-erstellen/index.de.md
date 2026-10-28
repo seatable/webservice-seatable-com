@@ -13,6 +13,16 @@ categories:
 tags:
     - 'Beschaffung & Logistik'
 color: '#bed8cb'
+image_sources:
+    - file: 'cova-software-r--jcbaXgek-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-men-in-a-store-looking-at-a-tablet-r--jcbaXgek'
+      author: 'Cova Software'
+    - file: 'thestandingdesk-pn6tf73O2As-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-in-blue-polo-shirt-using-laptop-computer-pn6tf73O2As'
+      author: 'TheStandingDesk'
+    - file: 'lukas-blazek-mcSDtbWXUZU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU'
+      author: 'Lukas Blazek'
 ---
 
 Importieren Sie eine Inventarliste in Excel oder bauen Ihre eigene Vorlage in Word auf. Finden Sie heraus, welche Vorteile eine kostenlose Datenbank wie SeaTable gegenüber Excel und Word bietet.
@@ -25,9 +35,9 @@ Mit einer Inventarliste können Sie den Bestand in Ihrem Unternehmen erfassen. D
 
 Jeder Kaufmann und jedes Unternehmen, das zur doppelten Buchführung verpflichtet ist, muss eine Inventur durchführen. Diese muss sowohl zur Geschäftseröffnung als auch nach jedem Geschäftsjahr erfolgen. Dabei nehmen Sie den Bestand auf und erstellen ein Inventar.
 
-![Lagerarbeiter nutzt iPad mit Inventarliste.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Lagerarbeiter nutzt iPad mit Inventarliste.](cova-software-r--jcbaXgek-unsplash.jpg)
 
-Nutzen Sie eine digitale Inventarliste, um Ihren Bestand zu erfassen. Bildrechte: tradol / Adobe Stock
+Nutzen Sie eine digitale Inventarliste, um Ihren Bestand zu erfassen. Bildrechte: © Cova Software / Unsplash
 
 ## Was ist der Unterschied zwischen Inventur und Inventar?
 
@@ -52,9 +62,9 @@ Zudem macht es einen Unterschied, **wann** Sie Ihr Inventar erstellen:
 - Daher gibt es auch die **verlegte Inventur**. Bei dieser Form der Inventur können Sie die Bestandsaufnahme flexibel an einem von Ihnen gewählten Tag durchführen, der maximal drei Monate vor oder zwei Monate nach dem Bilanzstichtag liegt. Da Sie die Bestände dann anhand der Zu- und Abgänge in Ihrer Inventarliste fortschreiben oder zurückrechnen müssen, ist die verlegte Inventur jedoch ungenauer als die Stichtagsinventur.
 - Im Gegensatz dazu ist die **permanente Inventur** ein laufender Prozess mit dem Vorteil, dass sich der Aufwand gleichmäßig über das ganze Jahr verteilt und zum Bilanzstichtag eine Buchinventur ausreicht. Dennoch ist einmal im Jahr eine körperliche Inventur aller Vermögensgegenstände notwendig, um die tatsächlichen Bestände mit den Buchbeständen abzugleichen. Anschließend müssen Sie alle Zu- und Abgänge präzise in Ihrer Inventarliste dokumentieren, um die Bestände buchhalterisch fortzuschreiben.
 
-![Lagerarbeiter macht Inventur in Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Lagerarbeiter macht Inventur in Excel.](thestandingdesk-pn6tf73O2As-unsplash.jpg)
 
-Ihre Inventarliste sollten Sie regelmäßig mit dem tatsächlichen Bestand abgleichen. Bildrechte: zephyr_p / Adobe Stock
+Ihre Inventarliste sollten Sie regelmäßig mit dem tatsächlichen Bestand abgleichen. Bildrechte: © TheStandingDesk / Unsplash
 
 ## Warum ist es wichtig, eine Inventarliste zu erstellen?
 
@@ -86,9 +96,9 @@ Ein Programm, das viele Unternehmen bereits verwenden, ist Excel. Hier können S
 
 Liegt Ihnen bereits eine Inventurliste als Excel-Vorlage vor, können Sie diese mit wenigen Klicks immer wieder verwenden. Duplizieren Sie dazu die bestehende Datei, bevor Sie sie in Excel öffnen.
 
-![Excel für eine Inventarliste.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel für eine Inventarliste.](lukas-blazek-mcSDtbWXUZU-unsplash.jpg)
 
-Excel-Tabellen sind für Inventarlisten beliebt. Bildrechte: PixieMe / Adobe Stock
+Excel-Tabellen sind für Inventarlisten beliebt. Bildrechte: © Lukas Blazek / Unsplash
 
 Wenn Ihnen noch keine Excel Inventarliste vorliegt, erstellen Sie kurzerhand eine eigene: Öffnen Sie ein neues, leeres Excel-Dokument. Überlegen Sie, **welche Spaltentitel Sie für Ihre Inventurliste benötigen** (zum Beispiel Identifikationsnummer, Bezeichnung, Standort, Menge und Wert), und tippen Sie diese ein.
 

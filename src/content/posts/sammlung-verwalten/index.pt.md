@@ -15,13 +15,20 @@ categories:
 tags:
     - 'Gestão da arte e da cultura'
 color: '#c6d7cb'
+image_sources:
+    - file: 'anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-pages-of-a-book-with-pictures-of-animals-CCTyw_EkKyw'
+      author: 'Anastasia Zhenina'
+    - file: 'vadim-bozhko-lbO1iCnbTW0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-writing-in-notebook-at-desk-lbO1iCnbTW0'
+      author: 'Vadim Bozhko'
 ---
 
 Suas **coleções** podem ser gerenciadas de forma ideal usando programas digitais e aplicativos. Não importa se a coleção é composta por itens físicos ou mídias digitais. Entre os itens de coleção mais populares estão moedas, selos, tênis, obras de arte, brinquedos, cartas colecionáveis, NFTs, [livros]({{< relref "posts/buecher-katalogisieren" >}}), filmes, música (em CD, vinil) e muito mais. Quando a paixão de um colecionador desperta, o maior desafio costuma ser manter a visão geral. É aí que entram os programas que permitem gerenciar sua coleção – no PC ou em um aplicativo.
 
-![Gerencie toda a sua coleção de selos com uma ferramenta digital.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Gerencie toda a sua coleção de selos com uma ferramenta digital.](anastasia-zhenina-CCTyw_EkKyw-unsplash.jpg)
 
-O que você coleciona? © VRD / Adobe Stock
+O que você coleciona? © Anastasia Zhenina / Unsplash
 
 ## Por que gerenciar suas coleções?
 
@@ -55,9 +62,9 @@ Para gerenciar sua coleção, você tem várias opções. Existem aplicativos e 
 
 Uma opção para gerenciar coleções é o [Evernote](https://evernote.com/de-de). Nele, você pode anotar observações e anexar imagens ou documentos, como comprovantes de compra dos itens. Também é possível usar tags para diferenciar várias coleções. Uma função de busca ajuda a encontrar itens nas notas. Você começa com uma versão gratuita. A versão Personal custa €6,99 por mês por usuário e a Professional €8,99.
 
-![Alguém usa o Evernote para gerenciar sua coleção.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Alguém usa o Evernote para gerenciar sua coleção.](vadim-bozhko-lbO1iCnbTW0-unsplash.jpg)
 
-Gerenciar coleção © monticellllo / Adobe Stock
+Gerenciar coleção © Vadim Bozhko / Unsplash
 
 ### Data Crow – freeware para gerenciamento de mídias
 

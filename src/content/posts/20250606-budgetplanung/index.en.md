@@ -14,6 +14,10 @@ tags:
     - 'Finances'
     - 'Project management'
 color: '#f4a64b'
+image_sources:
+    - file: 'christin-hume-hBuwVLcYTnA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-using-macbook-hBuwVLcYTnA'
+      author: 'Christin Hume'
 ---
 
 **Have you already drawn up your budget for next year?** If not, it's time: the sooner you know how much money you have available, the more precisely you can initiate measures to achieve your goals: Do you want to hire more employees or are you planning a major advertising campaign? No matter what you have in mind, this article will provide you with valuable tips for budget planning.
@@ -24,7 +28,7 @@ The following article deals with **budget planning in companies** and how best t
 
 Budgeting – also known as budget planning or budget allocation – is, as the name suggests, about **the allocation of budgets and the planning of resources**. By definition, budget planning is carried out for the future, usually for the following financial year. You can determine the budget for the entire company on the one hand and carry out **detailed budgeting for specific departments or individual projects** on the other. The resulting budget plan specifies where the available money in the company should go and what goals you want to achieve with it and over what period of time.
 
-![Employee implements budget planning on laptop](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
+![Employee implements budget planning on laptop](christin-hume-hBuwVLcYTnA-unsplash.jpg)
 
 ## Advantages of forward-looking budget planning
 
