@@ -7,6 +7,8 @@ seo:
 date: '2025-05-02'
 lastmod: '2026-10-05'
 url: '/airtable-alternative'
+sitemap:
+    priority: 0.9
 
 sections:
     - name: hero-5
