@@ -15,6 +15,9 @@ seo:
 
 Le plug-in Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
+**Regardez notre vidéo explicative sous-titrée en français.**
+{{< youtube OD71y5CJ7vo >}}
+
 Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin d'organigramme](images/Organigramm-Plugin.png)
