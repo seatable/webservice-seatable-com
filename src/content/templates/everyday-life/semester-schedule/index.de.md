@@ -22,7 +22,7 @@ sections:
       text: 'Bringen Sie Ihren Studienalltag in eine klare Struktur! Mit unserer digitalen Vorlage organisieren Sie Vorlesungen, Hausarbeiten, Prüfungen, ECTS-Punkte und Noten an einem zentralen Ort. Der flexible Studienplaner von SeaTable verbindet Semesterplaner, Notenrechner und Modulübersicht in einer interaktiven No-Code-Datenbank. Statt verstreuter Kalender, Notizen und Excel-Listen nutzen Sie einen personalisierten Studienplaner mit Kalender-Ansicht, Kanban-Board und verknüpften Tabellen. Egal ob Bachelor, Master oder Staatsexamen – mit dieser Online-Vorlage behalten Studierende aller Fachrichtungen Fristen, Credit Points und die Klausurenphase zuverlässig im Blick. Erstellen Sie jetzt Ihren individuellen Plan und organisieren Sie Ihr Studium digital, flexibel und stressfrei!'
       classes:
           - bg-white
-      template: '44ac24b866ac446f8fda'
+      template: 'cd782931d4db43a99b45'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
             link_to_template: true

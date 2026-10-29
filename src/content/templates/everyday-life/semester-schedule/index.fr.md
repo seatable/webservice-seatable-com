@@ -23,7 +23,7 @@ sections:
       text: 'Donnez une structure claire à votre quotidien étudiant ! Avec notre modèle digital, vous organisez cours, travaux, examens, crédits ECTS et notes en un seul endroit. Le planificateur flexible de SeaTable réunit planificateur de semestre, calculateur de notes et aperçu des modules dans une base de données no-code interactive. Au lieu de calendriers, notes et fichiers Excel épars, vous utilisez un planificateur personnalisé avec vue calendrier, tableau Kanban et tables liées. Que ce soit en licence, master ou examen d’État, les étudiants gardent échéances, crédits et période d’examens sous contrôle. Créez votre plan et organisez vos études de façon digitale, flexible et sans stress !'
       classes:
           - bg-white
-      template: '44ac24b866ac446f8fda'
+      template: 'cd782931d4db43a99b45'
       buttons:
           - label: Inscrivez-vous gratuitement et utilisez le modèle
             link_to_template: true
