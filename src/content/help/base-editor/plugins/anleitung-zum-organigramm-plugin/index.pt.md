@@ -15,6 +15,9 @@ seo:
 
 Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os registos de dados de uma tabela. Isto é útil, por exemplo, para visualizar os cargos numa empresa ou as [tarefas superiores e subordinadas num projeto]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
+**Veja o nosso vídeo explicativo com legendas em português.**
+{{< youtube OD71y5CJ7vo >}}
+
 Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin de organograma](images/Organigramm-Plugin.png)
