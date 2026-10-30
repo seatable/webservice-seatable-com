@@ -3,15 +3,15 @@ title: 'Das flexible Projektmanagement-Tool für Ihr Team'
 description: ''
 seo:
     title: 'Projektmanagement Tool mit KI | flexibel & skalierbar'
-    description: 'SeaTable – die intelligente Projektmanagement Software. Projekte planen, Aufgaben per KI automatisieren und Workflows optimieren.'
+    description: 'SeaTable – das flexible Projektmanagement-Tool: Projekte als Tabelle, Kanban, Kalender oder Zeitleiste planen, im Team kommentieren, automatisieren. Free bis 25 Nutzer, Hosting in Deutschland.'
 date: '2025-04-03'
 url: '/de/projektmanagement-tools'
 
 sections:
     - name: hero-5
       weight: 1
-      title: Die flexibelste Lösung unter den Projektmanagement Tools
-      text: Planen und steuern Sie Ihre Projekte effizient mit SeaTable. Arbeiten Sie im Team kollaborativ in Echtzeit und nutzen Sie KI-gestützte Workflows für smarte Prozesse. Profitieren Sie von allen Vorteilen eines modernen, dynamischen Projektmanagement Tools.
+      title: Projektmanagement, das sich Ihrem Team anpasst
+      text: Planen und steuern Sie Ihre Projekte mit SeaTable – von der einfachen Projektliste bis zum Portfolio mit Status, Budget und Verantwortlichen. Ihr Team arbeitet in Echtzeit zusammen, bespricht Aufgaben direkt am Datensatz und wird vor Deadlines erinnert. Automationen und KI nehmen Routinearbeit ab.
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
@@ -33,24 +33,24 @@ sections:
         headline: Flexibel und intuitiv
         text: "SeaTable bietet eine intuitive Oberfläche, leicht nutzbare Vorlagen und sofortige Zugänglichkeit. Entwickeln Sie maßgeschneiderte Lösungen, die sich genau Ihren Bedürfnissen anpassen."
       - icon: table
-        headline: Kanban, Gantt und mehr
-        text: "Erfassen Sie alle Daten in übersichtlich strukturieren Tabellen und erzeugen Sie mit wenigen Klicks anschauliche, individuell anpasbare Gantt-Diagramme, Kanban Boards, Projektstrukturpläne oder Dashboards."
+        headline: Kanban, Zeitleiste und mehr
+        text: "Erfassen Sie alle Projektdaten in übersichtlich strukturierten Tabellen und zeigen Sie sie mit wenigen Klicks als Kanban-Board, Kalender, Zeitleiste im Gantt-Stil, Projektstrukturplan oder Dashboard – in allen Tarifen."
 
       - icon: up-right-and-down-left-from-center
         headline: Echtzeit-Kollaboration
-        text: "Dank umfassender Kollaborationsfunktionen schaffen Sie Transparenz in Ihren Projekten. Mit Chat-Funktion, automatisierten Benachrichtigungen und Echtzeit-Änderungen sind alle stets auf dem aktuellen Stand."
+        text: "Jede Aufgabe hat ihren eigenen Chat: Markieren Sie Kolleginnen und Kollegen mit @, und sie werden sofort benachrichtigt. Benachrichtigungsregeln melden neue oder geänderte Einträge und erinnern vor Deadlines. Änderungen sehen alle in Echtzeit."
       
       - icon: robot
-        headline: KI-gestützte Automatisierung
-        text: Nutzen Sie die integrierten KI-unterstützten Automatisierungen für schlanke Workflows und intelligente Datenverarbeitungen. So reduzieren Sie den manuellen Arbeitsaufwand. 
+        headline: Automationen und KI
+        text: Automationen übernehmen wiederkehrende Schritte, z. B. Statuswechsel festhalten, Einträge anlegen oder E-Mails senden – schon im Free-Tarif. KI-Automationen fassen Texte zusammen, ordnen Einträge zu oder lesen Dokumente aus.
 
       - icon: expand
         headline: Skalierbar
-        text: "Ihre Anforderungen wachsen? SeaTable wächst mit. Passen Sie Ihr Projektmanagement Tool flexibel an Ihr Projekt an. SeaTable Free ist dauerhaft kostenlos – Sie skalieren erst, wenn nötig. "
+        text: "Ihre Anforderungen wachsen? SeaTable wächst mit. Passen Sie Ihr Projektmanagement-Tool flexibel an Ihr Projekt an. SeaTable Free ist dauerhaft kostenlos für bis zu 25 Nutzer – Sie skalieren erst, wenn nötig."
       
       - icon: shield
         headline: DSGVO-konform
-        text: "Der Schutz sensibler Projektdaten ist besonders wichtig. SeaTable bietet SSO, granulare Zugriffberechtigungen und hostet SeaTable Cloud und den SeaTable KI-Server ausschließlich auf europäischen Servern in Deutschland."
+        text: "Der Schutz sensibler Projektdaten ist besonders wichtig. SeaTable bietet ab dem Plus-Tarif Zugriffsberechtigungen für Tabellen, Ansichten und Spalten, im Enterprise-Tarif auch Single Sign-on, und hostet SeaTable Cloud und den SeaTable KI-Server ausschließlich auf Servern in Deutschland. Auf Wunsch betreiben Sie SeaTable auf Ihrem eigenen Server."
         
     - name: content-12
       weight: 3
@@ -61,13 +61,14 @@ sections:
       subtitle: Projektteams managen
       description: 'Mit der [KI No-Code-Plattform]({{< relref "/" >}}) SeaTable steht Ihnen ein flexibles Tool für Projektmanagement zur Verfügung, um [Prozesse individuell]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) zu gestalten. Nutzen Sie die integrierten Automatisierungen und granulare Zugriffsrechte für agile Projekte und effektives Stakeholdermanagement.'
       items:
-        - text: "Verbesserte **Team-Kollaboration** dank Kommentarfunktionen und Benachrichtigungen"
-        - text: "**KI-unterstützte Workflows** für schlanke Projekte"
-        - text: "**Einfache Implementierung** ohne Programmierkenntnisse"
-        - text: "Übersichtliche Projektmanagement App dank **Drag-and-Drop-App Builder**"
-        - text: "Als skalierbare **Cloud-Lösung oder On-Premises**"
+        - text: "**Chat an jeder Aufgabe** mit @-Erwähnungen und Benachrichtigungen"
+        - text: "**Erinnerungen** vor Deadlines und eine Ansicht **„Meine Aufgaben“** für jedes Teammitglied"
+        - text: "**Automationen und KI** für schlanke Abläufe"
+        - text: "**Einfache Einrichtung** ohne Programmierkenntnisse"
+        - text: "Eigene Projektmanagement-App mit dem **Drag-and-Drop-App-Builder**"
+        - text: "Als **Cloud-Lösung in Deutschland oder auf Ihrem eigenen Server**"
       image: /images/landing-page-projectmanagement-01.png
-      image_alt: 'SeaTable Projektmanagement Ansicht für Teamarbeit mit Aufgaben und Status'    
+      image_alt: 'Projektteam plant die Phasen eines Projekts an einer Glaswand (KI-generiertes Bild)'
 
     - name: content-1
       weight: 9
@@ -77,11 +78,11 @@ sections:
       - headline: Viel Gestaltungsfreiheit
         text: Die KI No-Code-Plattform SeaTable ermöglicht es Ihnen, Ihre Prozesse individuell zu gestalten. Sie erhalten alle nötigen Werkzeuge, um Ihr Projekt nach Ihren Vorstellungen zu entwickeln und verschiedene [Projektmanagement-Methoden]({{< relref "posts/20250308-projektmanagement-methoden" >}}) zu nutzen.
       - headline: Transparenz und Datenschutz
-        text: Mit SeaTable bündeln Sie alle Informationen an einem Ort, arbeiten gemeinsam an Projekten und synchronisieren Änderungen in Echtzeit. So entsteht Transparenz für alle Projektbeteiligten. 
+        text: Mit SeaTable bündeln Sie alle Informationen an einem Ort, arbeiten gemeinsam an Projekten und synchronisieren Änderungen in Echtzeit. So entsteht Transparenz für alle Projektbeteiligten. Ihre Daten liegen dabei in Deutschland oder auf Ihrem eigenen Server.
       - headline: Preiswerte Lösung
-        text: 'Mit SeaTable können Sie Ihre **Projektmanagement Software individuell konfigurieren**. Sie zahlen nur für Funktionen, die Sie wirklich brauchen, oder nutzen die kostenlose Version, die Sie bei Bedarf upgraden können – transparent und fair.'
+        text: 'Mit SeaTable können Sie Ihre **Projektmanagement-Software individuell konfigurieren**. Starten Sie kostenlos mit bis zu 25 Nutzern und allen Ansichten und wechseln Sie erst in einen bezahlten Tarif, wenn Sie mehr Zeilen, Automationen oder Berechtigungen brauchen – transparent und fair.'
       image: /images/landing-page-projectmanagement-02.png
-      image_alt: 'Team bespricht Projekte mit SeaTable als Projektmanagement Tool'
+      image_alt: 'Projektdaten in SeaTable als Zeitleiste mit Projektphasen, als Kanban-Board und als Statistik'
       
     - name: 'content-8'
       weight: 10
@@ -123,7 +124,7 @@ sections:
         text: 'Klären Sie alle Projektziele vorab und dokumentieren sie mithilfe von Projektmanagement Tools wie SeaTable für alle sichtbar. Für eine übersichtliche Darstellung eignet sich zum Beispiel ein Projektstrukturplan.'
         icon: circle-question
       - headline: Klare Kommunikation
-        text: Kommunizieren Sie transparent mit Projektbeteiligten und Stakeholdern, um Missverständnisse zu vermeiden. In SeaTable können Sie Externen eingeschränkten Zugriff gewähren – und ein effizientes Stakeholdermamanegement gewährleisten.
+        text: Kommunizieren Sie transparent mit Projektbeteiligten und Stakeholdern, um Missverständnisse zu vermeiden. In SeaTable besprechen Sie Aufgaben direkt am Datensatz und geben Externen gezielt Einblick – etwa über eine freigegebene Ansicht oder eine App, in der jeder Kunde nur seine eigenen Projekte sieht.
         icon: comment
       - headline: Flexible Zeitpläne
         text: "Setzen Sie auf anpassbare Projektmanagement Tools, die agile Methoden abbilden können. Mit SeaTable können Sie Ihren Zeitplan flexibel anpassen, auf Ressourcenengpässe reagieren, Aufgaben umverteilen und dennoch das Ziel im Auge behalten."
@@ -135,19 +136,19 @@ sections:
       subtitle: Flexibler als Projektmanagement mit Monday und Co.
       items:
       - headline: Projektplaner
-        text: Managen Sie jede Aktivität Ihres nächsten Projekts mit einem übersichtlichen Projektplaner. Mit der Projektplan Vorlage von SeaTable haben Sie das perfekte Projektplanungstool für große wie kleine Projekte.
+        text: Managen Sie jede Aktivität Ihres nächsten Projekts mit einem übersichtlichen Projektplaner. Mit der Projektplan-Vorlage von SeaTable verteilen Sie Aufgaben, setzen Fälligkeiten und verfolgen den Status im Kanban-Board – für große wie kleine Projekte.
         image: /images/landing-page-projectmanagement-03.png
-        image_alt: 'SeaTable Projektplaner Ansicht mit Zeitachse und Aufgaben'
+        image_alt: 'Kanban-Board in SeaTable mit Aufgaben in den Spalten To do, Doing und Done; eine Karte zeigt Verantwortliche und Fälligkeitsdatum'
       - headline: Projektstrukturplan
         text: Mit einem Projektstrukturplan unterteilen Sie Ihr Projekt in planbare Teilaufgaben und Arbeitspakete. Dank der [Projektstrukturplanung Vorlage]({{< relref "templates/projects/work-breakdown-structure" >}}) von SeaTable geht das kinderleicht.
         image: /images/landing-page-projectmanagement-04.png
         image_alt: 'SeaTable Projektstrukturplan Vorlage mit Arbeitspaketen'
       - headline: Projektportfoliomanagement
-        text: Das [Projektportfoliomanagement]({{< relref "posts/20250327-portfoliomanagement" >}}) (PPM) umfasst die Steuerung aller Projekte einer Organisation. Projekt Portfolio Management ist datenintensiv und erfordert die Auswertung vieler Projekte.
+        text: Das [Projektportfoliomanagement]({{< relref "posts/20250327-portfoliomanagement" >}}) (PPM) umfasst die Steuerung aller Projekte einer Organisation. Mit der [Vorlage Projektportfolio]({{< relref "templates/projects/project-portfolio" >}}) sehen Sie alle laufenden Projekte mit Status, Budget und Verantwortlichen in einer Übersicht und werten sie mit Diagrammen aus.
         image: /images/landing-page-projectmanagement-05.png
         image_alt: 'SeaTable Projektportfolio Ansicht für mehrere parallele Projekte'
       - headline: Projektmanagement App
-        text: Mit dem No-Code-App-Builder von SeaTable erstellen Sie webbasierte Apps – ganz ohne Programmierkenntnisse. In einer solchen Projekt Management App oder Projektplanungs App können Sie genau steuern, wer welche Daten sehen kann und wie diese visualisiert werden.
+        text: Mit dem No-Code-App-Builder von SeaTable erstellen Sie webbasierte Apps – ganz ohne Programmierkenntnisse. In einer solchen Projektmanagement-App legen Sie fest, welche Seiten und Ansichten es gibt. Mit einem Filter auf den angemeldeten Nutzer sieht jedes Teammitglied oder jeder Kunde nur die eigenen Projekte.
         image: /images/landing-page-projectmanagement-06.png
         image_alt: 'SeaTable Projektmanagement App als webbasierte Projektplanungsoberfläche'
         # TODO: doppelte Bilder mit (1) entfernen.   
@@ -158,12 +159,12 @@ sections:
       - title: Flexible Alternative zu Jira 
         subtitle: Jira Projektmanagement Alternative
         text: Jira ist ein mächtiges, aber auch komplexes Tool, das Vorkenntnisse oder ein begleitetes Onboarding voraussetzt. Als alternatives Projektmanagement Tool zu Jira erlaubt SeaTable die Abbildung komplexer Prozesse ohne aufwendige Lernphase.
-      - title: Intuitive Alternative zum Projekttool Monday
+      - title: Flexible Alternative zum Projekttool Monday
         subtitle: Monday Projektmanagement Alternative
-        text: SeaTable überzeugt als alternative Projektmanagement-Lösung mit einer intuitiveren Benutzeroberfläche und durchdachten Funktionen. Im Gegensatz zu Monday.com bietet SeaTable zudem verschiedene Ansichten wie Kanban, Gantt oder Kalender in allen Tarifen.
+        text: monday.com überzeugt mit fertigen Workflows und vielen Integrationen. Der kostenlose Tarif ist aber auf 2 Plätze begrenzt, Zeitleiste, Gantt und Kalender gibt es erst ab dem Standard-Tarif (Stand Oktober 2026). SeaTable Free bietet bis zu 25 Nutzern alle Ansichten – Kanban, Kalender und Zeitleiste.
       - title: Günstigere Projekt-Alternative zu Asana
         subtitle: Asana Alternative Projektmanagement
-        text: Als [Projekttool-Alternative zu Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) punktet SeaTable durch größere Flexibilität, intuitivere Bedienbarkeit und einen günstigeren Preis. SeaTable bietet bereits im Free-Abo ein umfangreiches Leistungssprektrum und ist auch in den wieteren Abo-Stufen günstiger bei gleichwertigem Funktionsumfang.
+        text: Asana ist stark bei der Aufgabenplanung, etwa mit Abhängigkeiten im Gantt-Diagramm. Kostenlos arbeiten dort aber nur 2 Nutzer zusammen, Zeitleiste und Gantt gibt es erst ab dem Starter-Tarif (Stand Oktober 2026). Als [Projekttool-Alternative zu Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) punktet SeaTable mit freier Datenstruktur, einem Free-Tarif für bis zu 25 Nutzer und Hosting in Deutschland.
 
     - name: "content-21"
       weight: 30
@@ -175,7 +176,7 @@ sections:
       - headline: Kostenlose Vorlagen
         text: Starten Sie mit einer kostenlosen Projektmanagement Vorlage und überzeugen Sie sich selbst von SeaTables Leistungsfähigkeit und Flexibilität! Sie werden schnell merken, wie SeaTable Ihr Projektmanagement auf ein neues Level heben kann. Laden Sie Ihre eigenen Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit.
       - headline: Umfassender Support
-        text: "Wir stehen Ihnen von Beginn an zur Seite, wenn Sie Fragen rund um unser kostenloses Projektmanagement-Tool haben: Nutzen Sie über 350 Hilfeartikel, den Online-Kurs für Einsteiger, YouTube-Tutorials oder unser Community-Forum."
+        text: "Wir stehen Ihnen von Beginn an zur Seite, wenn Sie Fragen rund um unser kostenloses Projektmanagement-Tool haben: Nutzen Sie über 400 Hilfeartikel, den Online-Kurs für Einsteiger, YouTube-Tutorials oder unser Community-Forum."
       - headline: Preiswerte Lösung
         text: "Managen Sie Ihre Projekte mit der Free Version von SeaTable komplett kostenlos – oder skalieren Sie SeaTable ganz nach Ihren Anforderungen: Wenn Sie erweiterte Funktionen oder mehr Speicherkapazitäten für Ihre Projekte benötigen, können Sie einfach auf eine kostengünstige Premium-Version upgraden."
 
@@ -192,15 +193,21 @@ sections:
       title: FAQ – Projektmanagement mit SeaTable
       items:
           - q: Für welche Projekte kann ich SeaTable verwenden?
-            a: 'Sie können SeaTable für alle Ihre Projekte verwenden, z. B. Software Projekte, [Bauprojekte]({{< relref "posts/bauzeitenplan" >}}) oder Produktentwicklungen. Dank der flexiblen Spaltentypen und der vielfältigen Visualisierungsmöglichkeiten ist SeaTable die perfekte Lösung für jede Herausforderung, der sich ein Projektmanager stellen muss und bietet alle Funktionen, die Sie von Agiles Projektmanagement-Tools gewohnt sind.'
+            a: 'Sie können SeaTable für alle Ihre Projekte verwenden, z. B. Software Projekte, [Bauprojekte]({{< relref "posts/bauzeitenplan" >}}) oder Produktentwicklungen. Dank der flexiblen Spaltentypen und der vielfältigen Ansichten – Tabelle, Kanban, Kalender, Zeitleiste, Galerie – bilden Sie Ihr Projekt so ab, wie Ihr Team arbeitet.'
+          - q: Kann SeaTable unsere Excel-Projektliste ersetzen?
+            a: 'Ja. Importieren Sie Ihre Excel- oder CSV-Datei, und alle arbeiten gleichzeitig in derselben Liste – ohne Versionschaos und ohne Dateien per E-Mail. Aus der Liste wird eine Datenbank: Verknüpfen Sie Projekte mit Aufgaben, Kunden oder Budgets und zeigen Sie dieselben Daten als Kanban-Board oder Zeitleiste. Mehr dazu auf unserer Seite [SeaTable als Excel-Alternative]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}).'
+          - q: Gibt es Benachrichtigungen und Erinnerungen?
+            a: 'Ja. In den Kommentaren zu einer Aufgabe markieren Sie Teammitglieder mit @, und sie werden benachrichtigt. Mit [Benachrichtigungsregeln]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregel-erstellen" >}}) informiert SeaTable automatisch über neue oder geänderte Einträge und erinnert, wenn eine Deadline naht. Über einen Filter auf den aktuellen Nutzer sieht jedes Teammitglied seine eigenen Aufgaben.'
           - q: Kann ich meinen Projektplan an Externe freigeben?
-            a: Auf jeden Fall. Viele Projektteams arbeiten mit externen Stakeholdern entweder über eine Projektmanagement App oder direkt in SeaTable zusammen. In beiden Fällen legen Sie mithilfe von Freigaben und Berechtigungen fest, wer auf welche Inhalte zugreifen darf.
+            a: 'Ja. Für reinen Lesezugriff teilen Sie eine Ansicht per externem Link – dafür braucht niemand ein Konto. Sollen Kunden oder Partner nur ihre eigenen Projekte sehen oder Daten bearbeiten, laden Sie sie in eine App ein: Mit einem voreingestellten Filter auf den angemeldeten Nutzer sieht jeder nur die ihm zugeordneten Einträge. Dafür brauchen die Externen ein SeaTable-Konto.'
           - q: Welches Abo brauche ich für ein effizientes Projektmanagement?
-            a: Das hängt von Ihren Anforderungen ab. Mit dem kostenlosen Free-Abo erhalten Sie bereits die wichtigsten Funktionen für kleinere Teams, die andere Tools für Projektmanagement so nicht bieten. Mit dem Plus-Abo wird die Zusammenarbeit mit externen Stakeholdern dank der erweiterten Freigabe-Optionen deutlich einfacher und die höheren Speicherlimits erlauben es Ihnen, auch umfangreiche Projekte zu betreuen. Im Enterprise-Abo kommen schließlich noch Automationen, erweitertes Customizing und der Big-Data-Speicher für datenintensive Projekte hinzu. 
+            a: 'Das hängt von Ihren Anforderungen ab. Das kostenlose Free-Abo enthält für bis zu 25 Nutzer alle Ansichten, Kommentare, Benachrichtigungen, den App-Builder und 100 Automationen je Monat und Nutzer. Mit dem Plus-Abo kommen private Ansichten, die Freigabe von Ansichten, Berechtigungen für Tabellen, Ansichten und Spalten, gesperrte Zeilen und mehr Automationen hinzu. Das Enterprise-Abo bietet zusätzlich Seitenberechtigungen in Apps, den Big-Data-Speicher und noch höhere Limits. Details finden Sie auf der [Preisseite]({{< relref "pages/prices" >}}).'
           - q: Wie kann ich meine Daten zu SeaTable migrieren?
             a: SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen. Laden Sie Ihre bestehenden Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit. Dank der intuitiven, grafischen Benutzeroberfläche werden Sie sich schnell zurechtfinden.
           - q: Ist SeaTable eine Alternative zu Monday, Jira oder Asana?
-            a: 'Ja, absolut. Viele Teams greifen zwar auf diese Projektmanagement Tools zurück, weil sie bekannt sind. Jedes hat jedoch spezifische Schwächen, die Sie aufgrund der großen Flexibilität mit SeaTable nicht haben. Zudem bieten Asana, Monday und Jira bis auf stark funktionseingeschränkte Versionen keine Free-Version. Im Gegensatz zu SeaTable müssen Sie daher gerade bei größeren Teams hohe Kosten in Kauf nehmen. SeaTable kann dagegen als vollwertige Projektmanagement-Software kostenlos genutzt werden. Ein weiterer Vorteil: SeaTable kann z. B. als Alternative zu Jira auch self-hosted genutzt werden.' 
+            a: 'Ja, vor allem für Teams, die ihre Projektdaten frei strukturieren wollen. Alle drei Tools haben kostenlose Tarife, aber mit engen Grenzen (Stand Oktober 2026): monday.com Free für 2 Plätze ohne Zeitleiste, Gantt und Kalender; Asana Personal für 2 Nutzer ohne Zeitleiste und Gantt; Jira Free für bis zu 10 Nutzer mit Board und Zeitleiste. SeaTable Free bietet bis zu 25 Nutzern alle Ansichten. Zudem können Sie SeaTable kostenlos auf Ihrem eigenen Server betreiben.'
+          - q: Wann passt ein anderes Projektmanagement-Tool besser?
+            a: 'Wenn Ihre Planung von Abhängigkeiten zwischen Aufgaben lebt und sich Termine automatisch verschieben sollen, sind spezialisierte Gantt-Werkzeuge wie Asana, monday.com oder Microsoft Project stärker. Für Softwareentwicklung mit Sprints und Backlog ist Jira gebaut. Wer ausdrücklich eine Open-Source-Lösung sucht, findet sie z. B. in OpenProject. SeaTable spielt seine Stärken aus, wenn Projekte, Aufgaben, Kunden und Budgets zusammenhängen und Sie Struktur, Ansichten und Abläufe selbst bestimmen wollen.' 
           - q: Kann ich mit SeaTable auch meine Projektplanung abbilden?
             a: Ja, absolut. SeaTable eignet sich als Projektplanung Tool für Teams jeder Größe. Sie können flexibler als in herkömmlichen Tools für Projektmanagement alle Schritte Ihres Projekts individuell planen. Dank der zahlreichen Funktionen lassen sich ganz verschiedene Projektmanagement-Methoden wie z. B. [Kanban]({{< relref "posts/kanban-methoden" >}}), ein [Projektstrukturplan]({{< relref "posts/20250317-projektstrukturplan" >}}) oder auch Scrum in SeaTable abbilden.          
 ---            
