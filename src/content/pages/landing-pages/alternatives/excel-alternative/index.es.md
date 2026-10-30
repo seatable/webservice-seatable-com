@@ -33,7 +33,7 @@ sections:
       items:
           - icon: edit
             headline: Caos de versiones
-            text: 'Varias personas editan el mismo archivo, circulan copias por correo electrónico y nadie sabe qué versión es la válida. En SeaTable, todos trabajan al mismo tiempo sobre los mismos datos; los cambios son visibles para todos al instante.'
+            text: 'Varias personas editan el mismo archivo, circulan copias por correo electrónico y nadie sabe qué versión es la válida; algo típico, por ejemplo, en la gran lista de proyectos de un departamento. En SeaTable, todos trabajan al mismo tiempo sobre los mismos datos; los cambios son visibles para todos al instante.'
 
           - icon: link
             headline: BUSCARV frágiles
@@ -188,6 +188,8 @@ sections:
       items:
           - q: '¿Cuándo merece la pena una base de datos en lugar de Excel?'
             a: 'En cuanto varias personas mantienen regularmente los mismos datos, se combinan datos de varias listas con BUSCARV o no todos deben verlo todo. Para cálculos que hace una sola persona, una hoja de cálculo suele seguir siendo la mejor herramienta.'
+          - q: 'Gestionamos nuestros proyectos en una lista de Excel y tenemos caos de versiones constantemente. ¿Qué podemos usar en su lugar?'
+            a: 'Depende de lo que deba hacer la lista. Si la lista en sí basta y solo falta la edición conjunta, a menudo es suficiente Excel online o Microsoft Lists en Microsoft 365. Si la lista es más bien una colección de datos (proyectos con estado, presupuesto y responsables, vinculados a clientes o tareas), encaja una base de datos como SeaTable: importa el archivo, todos trabajan en él a la vez y los mismos datos aparecen como tabla, tablero Kanban o línea de tiempo, con recordatorios antes de los plazos. Si lo principal es planificar tareas con dependencias, las herramientas de gestión de proyectos como Asana o monday.com están más especializadas. Más información en nuestra página [Gestión de proyectos con SeaTable]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) y en la [plantilla de portafolio de proyectos]({{< relref "templates/projects/project-portfolio" >}}).'
           - q: '¿Puedo llevar mis archivos de Excel?'
             a: 'Sí. SeaTable importa archivos XLSX y CSV, en SeaTable Cloud hasta 100 MB y 50.000 filas por importación. No se importan los gráficos incrustados ni las referencias cruzadas; los enlaces entre tablas se crean después de la importación, también de forma automática con «comparar y enlazar». Los datos de Google Sheets se transfieren de la misma manera.'
           - q: '¿Qué pasa con mis fórmulas y BUSCARV?'

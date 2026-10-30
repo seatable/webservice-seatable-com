@@ -36,7 +36,7 @@ sections:
       items:
           - icon: edit
             headline: Le chaos des versions
-            text: 'Plusieurs personnes modifient le même fichier, des copies circulent par e-mail et personne ne sait quelle version fait foi. Dans SeaTable, tout le monde travaille en même temps sur les mêmes données ; les modifications sont immédiatement visibles pour tous.'
+            text: 'Plusieurs personnes modifient le même fichier, des copies circulent par e-mail et personne ne sait quelle version fait foi, typiquement avec la grande liste de projets d’un service. Dans SeaTable, tout le monde travaille en même temps sur les mêmes données ; les modifications sont immédiatement visibles pour tous.'
 
           - icon: link
             headline: Des RECHERCHEV fragiles
@@ -191,6 +191,8 @@ sections:
       items:
           - q: 'À partir de quand une base de données vaut-elle mieux qu’Excel ?'
             a: 'Dès que plusieurs personnes tiennent régulièrement les mêmes données, que des données de plusieurs listes sont rapprochées avec RECHERCHEV ou que tout le monde ne doit pas tout voir. Pour des calculs qu’une personne fait seule, un tableur reste généralement le meilleur outil.'
+          - q: 'Nous gérons nos projets dans une liste Excel et le chaos des versions est permanent. Que pouvons-nous utiliser à la place ?'
+            a: 'Cela dépend de ce que la liste doit faire. Si la liste elle-même suffit et qu’il ne manque que l’édition à plusieurs, Excel en ligne ou Microsoft Lists dans Microsoft 365 suffisent souvent. Si la liste est plutôt une collection de données (projets avec statut, budget et responsables, liés à des clients ou à des tâches), une base de données comme SeaTable convient : vous importez le fichier, tout le monde y travaille en même temps, et les mêmes données s’affichent en tableau, en tableau Kanban ou en chronologie, avec des rappels avant les échéances. Si la planification des tâches avec dépendances est au premier plan, des outils de gestion de projet comme Asana ou monday.com sont plus spécialisés. Plus d’informations sur notre page [Gestion de projet avec SeaTable]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) et dans le [modèle de portefeuille de projets]({{< relref "templates/projects/project-portfolio" >}}).'
           - q: 'Puis-je reprendre mes fichiers Excel ?'
             a: 'Oui. SeaTable importe des fichiers XLSX et CSV, dans SeaTable Cloud jusqu’à 100 Mo et 50 000 lignes par import. Les graphiques intégrés et les références croisées ne sont pas repris ; vous créez les liens entre les tables après l’import, y compris automatiquement avec « comparer et relier ». Les données de Google Sheets se reprennent de la même façon.'
           - q: 'Que deviennent mes formules et mes RECHERCHEV ?'

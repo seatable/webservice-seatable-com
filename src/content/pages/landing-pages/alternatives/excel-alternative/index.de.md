@@ -33,7 +33,7 @@ sections:
       items:
           - icon: edit
             headline: Versionschaos
-            text: 'Mehrere Personen bearbeiten dieselbe Datei, Kopien kursieren per E-Mail, und niemand weiß, welche Fassung gilt. In SeaTable arbeiten alle gleichzeitig an derselben Datenbasis; Änderungen sind sofort für alle sichtbar.'
+            text: 'Mehrere Personen bearbeiten dieselbe Datei, Kopien kursieren per E-Mail, und niemand weiß, welche Fassung gilt – typisch etwa bei der großen Projektliste einer Abteilung. In SeaTable arbeiten alle gleichzeitig an derselben Datenbasis; Änderungen sind sofort für alle sichtbar.'
 
           - icon: link
             headline: Brüchige SVERWEISe
@@ -188,6 +188,8 @@ sections:
       items:
           - q: 'Ab wann lohnt sich eine Datenbank statt Excel?'
             a: 'Sobald mehrere Personen dieselben Daten regelmäßig pflegen, Daten aus mehreren Listen über SVERWEIS zusammengeführt werden oder nicht jeder alles sehen soll. Für Berechnungen, die eine Person allein macht, bleibt eine Tabellenkalkulation meist das bessere Werkzeug.'
+          - q: 'Wir verwalten unsere Projekte in einer Excel-Liste und haben ständig Versionschaos. Was können wir stattdessen nutzen?'
+            a: 'Das hängt davon ab, was die Liste leisten soll. Reicht die Liste an sich und fehlt nur das gemeinsame Bearbeiten, genügen oft Excel online oder Microsoft Lists in Microsoft 365. Ist die Liste eher eine Datensammlung – Projekte mit Status, Budget und Verantwortlichen, verknüpft mit Kunden oder Aufgaben –, passt eine Datenbank wie SeaTable: Sie importieren die Datei, alle arbeiten gleichzeitig daran, und dieselben Daten erscheinen als Tabelle, Kanban-Board oder Zeitleiste, mit Erinnerungen vor Fristen. Steht die Aufgabenplanung mit Abhängigkeiten im Vordergrund, sind Projektmanagement-Tools wie Asana oder monday.com spezialisierter. Mehr dazu auf unserer Seite [Projektmanagement mit SeaTable]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) und in der [Vorlage Projektportfolio]({{< relref "templates/projects/project-portfolio" >}}).'
           - q: 'Kann ich meine Excel-Dateien übernehmen?'
             a: 'Ja. SeaTable importiert XLSX- und CSV-Dateien, in SeaTable Cloud bis 100 MB und 50.000 Zeilen pro Import. Nicht übernommen werden eingebettete Grafiken und Querverweise; Verknüpfungen zwischen Tabellen legen Sie nach dem Import an, auch automatisch per „Vergleichen und verknüpfen“. Die Daten aus Google Sheets übernehmen Sie auf demselben Weg.'
           - q: 'Was wird aus meinen Formeln und SVERWEISen?'
