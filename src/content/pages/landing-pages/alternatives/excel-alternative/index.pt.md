@@ -33,7 +33,7 @@ sections:
       items:
           - icon: edit
             headline: Caos de versões
-            text: 'Várias pessoas editam o mesmo arquivo, cópias circulam por e-mail e ninguém sabe qual versão vale. No SeaTable, todos trabalham ao mesmo tempo nos mesmos dados; as alterações ficam visíveis para todos imediatamente.'
+            text: 'Várias pessoas editam o mesmo arquivo, cópias circulam por e-mail e ninguém sabe qual versão vale, algo típico na grande lista de projetos de um departamento. No SeaTable, todos trabalham ao mesmo tempo nos mesmos dados; as alterações ficam visíveis para todos imediatamente.'
 
           - icon: link
             headline: PROCV frágeis
@@ -188,6 +188,8 @@ sections:
       items:
           - q: 'Quando vale a pena usar um banco de dados em vez do Excel?'
             a: 'Assim que várias pessoas mantêm regularmente os mesmos dados, dados de várias listas são reunidos com PROCV ou nem todos devem ver tudo. Para cálculos que uma pessoa faz sozinha, uma planilha costuma continuar sendo a melhor ferramenta.'
+          - q: 'Gerenciamos nossos projetos em uma lista do Excel e vivemos com caos de versões. O que podemos usar no lugar?'
+            a: 'Depende do que a lista precisa fazer. Se a lista em si basta e só falta a edição em conjunto, muitas vezes o Excel online ou o Microsoft Lists no Microsoft 365 são suficientes. Se a lista é mais uma coleção de dados (projetos com status, orçamento e responsáveis, vinculados a clientes ou tarefas), um banco de dados como o SeaTable é adequado: você importa o arquivo, todos trabalham nele ao mesmo tempo e os mesmos dados aparecem como tabela, quadro Kanban ou linha do tempo, com lembretes antes dos prazos. Se o foco é planejar tarefas com dependências, ferramentas de gerenciamento de projetos como Asana ou monday.com são mais especializadas. Saiba mais na nossa página [Gerenciamento de projetos com SeaTable]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) e no [modelo de portfólio de projetos]({{< relref "templates/projects/project-portfolio" >}}).'
           - q: 'Posso levar meus arquivos do Excel?'
             a: 'Sim. O SeaTable importa arquivos XLSX e CSV, no SeaTable Cloud até 100 MB e 50.000 linhas por importação. Gráficos incorporados e referências cruzadas não são importados; os vínculos entre tabelas você cria após a importação, inclusive automaticamente com “comparar e ligar”. Dados do Google Sheets são transferidos da mesma forma.'
           - q: 'O que acontece com minhas fórmulas e PROCV?'

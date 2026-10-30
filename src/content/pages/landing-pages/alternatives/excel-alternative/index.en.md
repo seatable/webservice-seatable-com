@@ -35,7 +35,7 @@ sections:
       items:
           - icon: edit
             headline: Version chaos
-            text: 'Several people edit the same file, copies circulate by email, and nobody knows which version is current. In SeaTable, everyone works on the same data at the same time; changes are visible to everyone immediately.'
+            text: 'Several people edit the same file, copies circulate by email, and nobody knows which version is current – typical of a department’s large project list. In SeaTable, everyone works on the same data at the same time; changes are visible to everyone immediately.'
 
           - icon: link
             headline: Fragile VLOOKUPs
@@ -190,6 +190,8 @@ sections:
       items:
           - q: 'When is a database worth it instead of Excel?'
             a: 'As soon as several people regularly maintain the same data, data from several lists is combined with VLOOKUP, or not everyone should see everything. For calculations that one person does alone, a spreadsheet usually remains the better tool.'
+          - q: 'We manage our projects in an Excel list and keep running into version chaos. What can we use instead?'
+            a: 'That depends on what the list needs to do. If the list itself is fine and only shared editing is missing, Excel online or Microsoft Lists in Microsoft 365 are often enough. If the list is really a data collection – projects with status, budget and owners, linked to clients or tasks –, a database such as SeaTable fits: you import the file, everyone works on it at the same time, and the same data appears as a table, Kanban board or timeline, with reminders before deadlines. If task planning with dependencies is the focus, project management tools such as Asana or monday.com are more specialised. Learn more on our page [project management with SeaTable]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) and in the [project portfolio template]({{< relref "templates/projects/project-portfolio" >}}).'
           - q: 'Can I bring my Excel files with me?'
             a: 'Yes. SeaTable imports XLSX and CSV files, in SeaTable Cloud up to 100 MB and 50,000 rows per import. Embedded charts and cross-references are not imported; you create links between tables after the import, also automatically with “compare and link”. Data from Google Sheets can be brought over the same way.'
           - q: 'What happens to my formulas and VLOOKUPs?'
