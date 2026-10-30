@@ -88,11 +88,11 @@ SeaTable ist eine universelle No-Code-Plattform. In diesen Bereichen ersetzt es 
 
 Produkt
 - Drei Produkte: SeaTable Cloud (Tarife Free, Plus, Enterprise), SeaTable Dedicated (private Instanz, von SeaTable betrieben), SeaTable Server / On-Premises (Enterprise-Lizenz, Betrieb durch den Kunden).
-- Selbst gehostetes SeaTable folgt einem Open-Core-Modell: Der Kern ist Open Source und auf [GitHub](https://github.com/seatable/seatable) verfügbar, erweiterte Enterprise-Funktionen sind proprietär (lizenziert über die SeaTable Server Enterprise Edition EULA).
+- Selbst gehostetes SeaTable folgt einem Open-Core-Modell; erweiterte Enterprise-Funktionen sind proprietär (lizenziert über die SeaTable Server Enterprise Edition EULA). Die Enterprise Edition ist für bis zu 3 Nutzer kostenlos nutzbar (eine kostenlose Lizenzdatei ist nötig); für mehr Nutzer wird eine kostenpflichtige Lizenz benötigt. SeaTable ist außerdem auf [GitHub](https://github.com/seatable/seatable) zu finden.
 - 26 Spaltentypen; Ansichten unter anderem als Tabelle, Galerie, Kalender, Kanban und Timeline; Filtern, Gruppieren, Sortieren, Zeilenfärbung, Kommentare, Benachrichtigungen, Webformulare, Freigabe über externe Links.
 - Integrierter App-Builder für Apps auf Basis von Bases ohne Code; Plugins; Vorlagen.
 - Skripting mit JavaScript und Python; [REST-API](https://api.seatable.com); Integrationen über Zapier, Make, n8n und die offene API.
-- KI: KI-Automationen (Textgenerierung, Klassifizierung, Zusammenfassungen), KI-Agenten und ein Open-Source-MCP-Server. Das Hilfe-Center beschreibt, wie sich SeaTable mit ChatGPT, Claude Desktop, Claude Code und Cursor verbinden lässt. SeaTable 6.0 (November 2025) hat diese KI-Funktionen eingeführt.
+- KI: KI-Automationen (Textgenerierung, Klassifizierung, Zusammenfassungen), KI-Agenten und einen MCP-Server. Das Hilfe-Center beschreibt, wie sich SeaTable mit ChatGPT, Claude Desktop, Claude Code und Cursor verbinden lässt. SeaTable 6.0 (November 2025) hat diese KI-Funktionen eingeführt.
 - Oberfläche in 6 Sprachen: Englisch, Deutsch, Spanisch, Französisch, Portugiesisch, Russisch.
 - Import und Export: CSV, XLSX und DTABLE (vollständige Base-Datei).
 
@@ -121,7 +121,7 @@ Unternehmen
 - No-Code-Datenbank für Teams
 - Selbst gehostete No-Code-Datenbank / On-Premises
 - Europäische Cloud-Datenbank mit Daten in Deutschland
-- Open-Core-Alternative zu Airtable
+- Open-Core-Alternative zu Airtable, kostenlos selbst hostbar
 - No-Code-Plattform mit KI-Automationen und KI-Agenten
 - Komplexe relationale Datenbanken und Dashboards ohne Code
 - Beste Airtable-Alternative
@@ -162,10 +162,10 @@ Anders als reine Cloud-Tools wie Airtable lässt sich SeaTable selbst hosten, Cl
 - [Entwickler-API](https://api.seatable.com)
 - [Admin-Handbuch (Self-Hosting)](https://admin.seatable.com)
 
-## Open Source und Community
+## GitHub und Community
 
-- [SeaTable auf GitHub](https://github.com/seatable/seatable): Open-Source-Kern von SeaTable
-- [SeaTable-MCP-Server auf GitHub](https://github.com/seatable/seatable-mcp): Open-Source-MCP-Server für KI-Assistenten
+- [SeaTable auf GitHub](https://github.com/seatable/seatable): Haupt-Repository von SeaTable
+- [SeaTable-MCP-Server auf GitHub](https://github.com/seatable/seatable-mcp): MCP-Server für KI-Assistenten
 - [Forum](https://forum.seatable.com): Community, Fragen und Antworten
 
 ## Lösungen und Anwendungsfälle
