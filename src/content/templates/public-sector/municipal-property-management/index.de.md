@@ -14,7 +14,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Kommunale Liegenschaftsverwaltung einfach digital – Vorlage für Verwaltungen'
-      text: 'Excel-Listen, Papierakten und Datensilos in einzelnen Fachämtern verstellen den Blick auf den kommunalen Immobilienbestand. Verträge laufen unbemerkt aus, Kündigungsfristen verstreichen, und Objekte, Zuständigkeiten und Projekte bleiben unverknüpft. Mit der kostenlosen SeaTable-Vorlage **bündeln Sie die kommunale Liegenschaftsverwaltun**g in einem No-Code-System: alles verknüpft, nachvollziehbar und **DSGVO-konform mit Servern in Deutschland**.'
+      text: 'Excel-Listen, Papierakten und Datensilos in einzelnen Fachämtern verstellen den Blick auf den kommunalen Immobilienbestand. Verträge laufen unbemerkt aus, Kündigungsfristen verstreichen, und Objekte, Zuständigkeiten und Projekte bleiben unverknüpft. Mit der kostenlosen SeaTable-Vorlage **bündeln Sie die kommunale Liegenschaftsverwaltung** in einem No-Code-System: alles verknüpft, nachvollziehbar und **DSGVO-konform mit Servern in Deutschland**.'
       classes:
           - bg-white
       template: 'b119bb39340842419781'
@@ -36,7 +36,7 @@ sections:
           headline: 'Bedarfe und Projekte verbinden'
           text: 'Erfassen Sie die Anforderungen und Flächenbedarfe der Ämter und leiten Sie daraus direkt Sanierungs-, Umbau- oder Umzugsprojekte ab.'
         - icon: 'chart-line'
-          headline: 'Granulare Zugriffssteuerun'
+          headline: 'Granulare Zugriffssteuerung'
           text: 'Steuern Sie mit Zugriffsberechtigungen, wer welche Daten sehen oder ändern kann. So schützen Sie sensible Daten, ohne Datensilos zu schaffen. '
         - icon: 'lock'
           headline: 'Transparente Evaluierung'
@@ -77,7 +77,7 @@ sections:
       - text: '**Stets aktuell**: Jede Änderung ist sofort für alle Berechtigten sichtbar. Sachbearbeitung und Leitung arbeiten immer mit demselben Stand.'
       - text: '**Echtzeit-Kollaboration zwischen Fachämtern**: Liegenschaftsamt, Hochbauamt, Schul- und Sportamt sowie Kämmerei nutzen ein System und arbeiten in Echtzeit zusammen.'
       - text: '**Zentrales Register**: Pflegen Sie Grundstücke und Gebäude in einem zentralen Verzeichnis. Das Liegenschaftsamt und Fachämter arbeiten auf derselben Datenbasis.'
-      - text: '**Integrierte Automationen**: Nutzen Sie integrierte Automatisierungen und automatisierte Benachrichtigungen für schlanke Prozesse, um zum Beispiel automatisierte Benachrichtigungen zu versenden. So reduzieren Sie manuelle Aufwände.'
+      - text: '**Integrierte Automationen**: Nutzen Sie integrierte Automatisierungen für schlanke Prozesse, um zum Beispiel automatisierte Benachrichtigungen zu versenden. So reduzieren Sie manuelle Aufwände.'
       - text: '**On-premises**: Für noch mehr Datenkontrolle steht Ihnen mit SeaTable Server eine on-premises Lösung zur Verfügung.'
       image_position: [left]
       image: '/images/template_page_liegenschaftsverwaltung_01.png'
@@ -99,7 +99,7 @@ sections:
       - headline: 'Portfolio bewerten und Maßnahmen festlegen'
         text: 'In der Tabelle "Portfolio evaluation" bewerten Sie Zustand, Lage, Restnutzungsdauer und Eignung eines Objekts zu festgelegten Stichtagen. Per Kanban-Board ordnen Sie jedem Objekt per Drag-and-drop eine Maßnahme zu, z. B. Halten, Umnutzen, Verkaufen oder Entwickeln. Über eine Verknüpfung mit der Tabelle "Projects" sehen Sie sofort, welches konkrete Projekt mit einem Evaluierungsergebnis zusammenhängt.'
         image: '/images/templatepage_liegenschaftsverwaltung_04.png'
-        image_alt: Kanban-Board der kommunalen Liegenschaftsevaluierung'
+        image_alt: 'Kanban-Board der kommunalen Liegenschaftsevaluierung'
       - headline: 'Bedarfe erfassen und Projekte planen'
         text: 'Fachämter melden ihren Flächenbedarf in der Tabelle "Requirements", etwa eine zusätzliche Kita-Gruppe oder einen neuen Bürostandort. Über die Verknüpfung mit einem Objekt prüfen Sie, ob der Bedarf gedeckt ist. In "Projects" planen Sie Ihr [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) und sehen über eine Verknüpfungsspalte direkt, welches Projekt sich aus welchem Bedarf ableitet.'
         image: '/images/templatepage_liegenschaftsverwaltung_05.png'
@@ -121,7 +121,7 @@ sections:
       weight: 15
       title: 'Ihre kommunale Liegenschaftsverwaltung modern und digital organisieren – mit SeaTable'
       buttons:
-        - label: Jetzt die InventLiegenschaftsverwaltung-Vorlage für Kommunen nutzen
+        - label: Jetzt die Liegenschaftsverwaltung-Vorlage für Kommunen nutzen
           link: pages/registration
      
     - name: "content-9"

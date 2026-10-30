@@ -1,68 +1,70 @@
 ---
-title: 'Kommunale Liegenschaftsverwaltung'
-description: 'Verwalten Sie Ihren kommunalen Immobilienbestand zentral: Objekte, Verträge, Zahlungen und Projekte verknüpft in einer No-Code-Vorlage – DSGVO-konform.'
+title: 'Municipal Property Management'
+description: 'Manage your municipal property portfolio centrally: properties, contracts, payments and projects linked in one no-code template – GDPR-compliant.'
 date: '2026-10-23'
-url: '/vorlage/kommunale-liegenschaftsverwaltung/'
+url: '/template/municipal-property-management/'
+aliases:
+    - '/vorlage/kommunale-liegenschaftsverwaltung/'
 category: 'public sector'
 functions:
 seo:
-    title: 'Liegenschaftsverwaltung öffentliche Verwaltung digitalisieren'
-    description: 'Kommunale Liegenschaftsverwaltung mit SeaTable: Objekte, Verträge, Zahlungen und Projekte in einem System verknüpfen. Kostenlose Vorlage, DSGVO-konform.'
+    title: 'Municipal Property Management | Template for Councils'
+    description: 'Municipal property management with SeaTable: link properties, contracts, payments and projects in one system. Free, GDPR-compliant template.'
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
-      title: 'Kommunale Liegenschaftsverwaltung einfach digital – Vorlage für Verwaltungen'
-      text: 'Excel-Listen, Papierakten und Datensilos in einzelnen Fachämtern verstellen den Blick auf den kommunalen Immobilienbestand. Verträge laufen unbemerkt aus, Kündigungsfristen verstreichen, und Objekte, Zuständigkeiten und Projekte bleiben unverknüpft. Mit der kostenlosen SeaTable-Vorlage **bündeln Sie die kommunale Liegenschaftsverwaltun**g in einem No-Code-System: alles verknüpft, nachvollziehbar und **DSGVO-konform mit Servern in Deutschland**.'
+      title: 'Municipal property management made simple – template for councils'
+      text: 'Excel lists, paper files and data silos in individual departments obscure the view of the municipal property portfolio. Contracts expire unnoticed, notice periods are missed, and properties, responsibilities and projects remain disconnected. Maintenance intervals, inspection deadlines and space requirements end up in separate files, which makes reliable, well-founded decisions difficult. With the free SeaTable template, you **bring your municipal property management together in one no-code system** – from the property register to project planning: everything linked, traceable and **GDPR-compliant with servers in Germany**.'
       classes:
           - bg-white
       template: 'b119bb39340842419781'
       buttons:
-          - label: Jetzt kostenlos registrieren und Vorlage nutzen
+          - label: Register for free and use the template
             link_to_template: true
             style: primary
     
     - name: "content-4"
       weight: 2
-      title: 'Ihre Vorteile in der kommunalen Liegenschaftsverwaltung'
-      subtitle: Überblick schaffen, Fachämter entlasten
+      title: 'Your benefits in municipal property management'
+      subtitle: More clarity, less workload
       text: 
       items:
         - icon: 'check'
-          headline: 'Flexibel und OZG-konform'
-          text: 'Passen Sie die Liegenschaftsverwaltung-Vorlage modular an Ihre kommunalen Vorgaben an – OZG-konform und ohne Programmieraufwand.'
+          headline: 'Flexible and e-gov ready'
+          text: 'Adapt the property management template to your municipal requirements in modular steps – without any programming effort. Add tables, columns and views as needed and meet the requirements of modern digital public services with ease.'
         - icon: 'bars'
-          headline: 'Bedarfe und Projekte verbinden'
-          text: 'Erfassen Sie die Anforderungen und Flächenbedarfe der Ämter und leiten Sie daraus direkt Sanierungs-, Umbau- oder Umzugsprojekte ab.'
+          headline: 'Link needs and projects'
+          text: 'Record the requirements and space needs of individual departments and derive refurbishment, conversion or relocation projects directly from them. Every project remains traceable back to the original request at all times – from idea to completion.'
         - icon: 'chart-line'
-          headline: 'Granulare Zugriffssteuerun'
-          text: 'Steuern Sie mit Zugriffsberechtigungen, wer welche Daten sehen oder ändern kann. So schützen Sie sensible Daten, ohne Datensilos zu schaffen. '
+          headline: 'Granular access control'
+          text: 'Use access permissions to control who can view or edit which data. This way, you protect sensitive information without creating data silos – and every department sees exactly what it actually needs for its daily work and decisions.'
         - icon: 'lock'
-          headline: 'Transparente Evaluierung'
-          text: 'Bewerten Sie Ihr Portfolio anhand individueller Kriterien und gleichen Sie die Bewertung mit dem Bedarf ab. So werden strategische Entscheidungen nachvollziehbar.' 
+          headline: 'Transparent evaluation'
+          text: 'Assess your entire portfolio against individual criteria and compare the results with actual demand. This makes strategic decisions on holding, converting, selling or developing properties transparent, comprehensible and justifiable.'
         - icon: 'pencil'
-          headline: 'DSGVO-konforme Verwaltung'
-          text: 'SeaTable erfüllt höchste Sicherheitsanforderungen und wird ausschließlich auf Servern europäischer Unternehmen in Deutschland gehostet.'
+          headline: 'GDPR-compliant management'
+          text: 'SeaTable meets the highest security requirements and is hosted exclusively on certified servers operated by European companies in Germany. Your sensitive property and contract data stays in Europe and is reliably protected at all times.'
         - icon: 'bell'
-          headline: 'Leerstände aktiv managen'
-          text: 'Sehen Sie auf einen Blick, welche Objekte leer stehen oder welche Nutzungen demnächst auslaufen. So planen Sie Nachnutzungen oder Umbauprojekte gezielt.' 
+          headline: 'Actively manage vacancies'
+          text: 'See at a glance which properties are vacant or which uses are about to expire. This allows you to plan follow-up uses or conversion projects in good time and avoid long, costly vacancy periods across your entire property portfolio.'
 
     - name: "customer-1"
       weight: 4
-      title: "Führende Unternehmen weltweit vertrauen auf SeaTable"
-      subtitle: "Wer nutzt SeaTable?"
+      title: "Leading companies worldwide rely on SeaTable"
+      subtitle: "Who uses SeaTable?"
       marquee_rows: 2
       items: 
       - number: "100.000+"
-        text: Downloads im ersten Jahr von Docker Hub
+        text: Downloads in the first year of Docker Hub
       - number: "1.500+"
-        text: "Tägliche Nutzer auf SeaTable Cloud"
+        text: "Daily users on SeaTable Cloud"
       - number: "4.6"
-        text: "Bewertung auf Capterra"
+        text: "Review on Capterra"
       buttons:
         - link: "categories/customer-story"
-          label: "SeaTable im Einsatz - Erfolgsgeschichten"
+          label: "SeaTable in action – success stories"
           id: de-homepage-customer-1
 
     - name: "content-12"
@@ -70,83 +72,83 @@ sections:
       classes:
         - curved
         - [bg-gray-200, bg-seatable-blue]
-      title: 'Kommunale Liegenschaften digital verwalten'
-      subtitle: 'Darum setzen Kommunen auf SeaTable'
-      description: 'Mit der [KI No-Code Plattform]({{< relref "/" >}}) SeaTable nutzen Sie eine moderne und datenschutzkonforme Lösung für die [kommunale Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}). Sie verknüpfen Objekte, Verträge, Zahlungen, Kontakte und Zuständigkeiten, statt Informationen in Einzeltabellen zu pflegen. Die Vorlage für kommunales Immobilienmanagement lässt sich flexibel an Ihre Abläufe anpassen und **liefert die Datenbasis für ein digitales Gebäudemanagement** im öffentlichen Dienst.'
+      title: 'Manage municipal properties digitally'
+      subtitle: 'Why councils choose SeaTable'
+      description: 'With the [AI no-code platform]({{< relref "/" >}}) SeaTable, you get a modern, privacy-compliant solution for [municipal property management]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}). Instead of maintaining information in separate spreadsheets, you link properties, contracts, payments, contacts and responsibilities. From the property register to rental and lease agreements, all information is in one place. The template for municipal real estate management can be flexibly adapted to your workflows and **provides the data foundation for digital facility management** in the public sector.'
       items:
-      - text: '**Stets aktuell**: Jede Änderung ist sofort für alle Berechtigten sichtbar. Sachbearbeitung und Leitung arbeiten immer mit demselben Stand.'
-      - text: '**Echtzeit-Kollaboration zwischen Fachämtern**: Liegenschaftsamt, Hochbauamt, Schul- und Sportamt sowie Kämmerei nutzen ein System und arbeiten in Echtzeit zusammen.'
-      - text: '**Zentrales Register**: Pflegen Sie Grundstücke und Gebäude in einem zentralen Verzeichnis. Das Liegenschaftsamt und Fachämter arbeiten auf derselben Datenbasis.'
-      - text: '**Integrierte Automationen**: Nutzen Sie integrierte Automatisierungen und automatisierte Benachrichtigungen für schlanke Prozesse, um zum Beispiel automatisierte Benachrichtigungen zu versenden. So reduzieren Sie manuelle Aufwände.'
-      - text: '**On-premises**: Für noch mehr Datenkontrolle steht Ihnen mit SeaTable Server eine on-premises Lösung zur Verfügung.'
+      - text: '**Always up to date**: Every change is immediately visible to all authorised users. Caseworkers and management always work with the same information – no more outdated copies.'
+      - text: '**Real-time collaboration between departments**: The property office, building authority, schools and sports office and the finance department use one system and work together in real time.'
+      - text: '**Central register**: Maintain land and buildings in one central directory. The property office and specialist departments work on the same data basis – without duplicate entries.'
+      - text: '**Integrated automations**: Use built-in automations for lean processes, for example to send notifications automatically before notice periods or inspection deadlines expire. This reduces manual effort.'
+      - text: '**On-premises**: For even more data control, SeaTable Server is available as an on-premises solution that you can operate in your own data centre or with your municipal IT service provider.'
       image_position: [left]
       image: '/images/template_page_liegenschaftsverwaltung_01.png'
-      image_alt: 'Objektübersicht gruppiert nach Nutzungsart in der kommunalen Liegenschaftsverwaltung-App'
+      image_alt: 'Objects table in the municipal property management app, grouped by type: administrative building, school and cemetery'
 
     - name: "content-25"
       weight: 10
-      title: 'Kommunale Liegenschaftsverwaltung im Einsatz'
-      subtitle: 'So funktioniert die Vorlage '
+      title: 'Municipal property management in practice'
+      subtitle: 'How the template works'
       items:
-      - headline: 'Einfache Datenerfassung über Formulare'
-        text: 'Wenn Sie genug davon haben, Tabellen in Excel auszufüllen, werden Sie SeaTable lieben. Erfassen Sie Ihre Bedarfsanmeldungen und Projektevaluierungen bequem per Webformular. Der neue Eintrag wird automatisch mit dem aktuellen Datum in der entsprechenden Tabelle gespeichert.'
+      - headline: 'Easy data entry with web forms'
+        text: 'If you are tired of filling in spreadsheets in Excel, you will love SeaTable. Record space requests and project evaluations conveniently via web form – even colleagues without SeaTable experience can submit entries. Each new entry is automatically saved with the current date in the corresponding table and is immediately available for further processing.'
         image: '/images/templatepage_liegenschaftsverwaltung_02.png'
-        image_alt: 'Eingabeformular für eine Projektevaluierung in der Liegenschaftsverwaltung-App'
-      - headline: 'Objekte, Fachämter und Verträge verknüpfen'  
-        text: 'Die Tabelle "Objects" ist das Herzstück der Vorlage für kommunale Liegenschaftsverwaltung. Sie enthält alle eigenen und angemieteten Grundstücke und Gebäude mit Adresse, Nutzungsart, Eigentumsverhältnis, Fläche. In "Contracts" erfassen Sie Mietverträge, Pachtverträge, Erbbaurechte und Nutzungsvereinbarungen, und in der Tabelle "Organization" ordnen Sie jede Liegenschaft einem verantwortlichen Fachbereich zu. Alle Tabellen sind untereinander verknüpft, so dass keine Information doppelt gepflegt wird.'
+        image_alt: 'Web form for adding a portfolio evaluation with star ratings for condition, site quality and functional suitability'
+      - headline: 'Link properties, departments and contracts'  
+        text: 'The "Objects" table is the heart of the municipal property management template. It contains all owned and leased land and buildings with address, type of use, ownership status and floor area. In "Contracts", you record rental and lease agreements, heritable building rights and usage agreements, and in the "Organization" table, you assign each property to a responsible department. All tables are linked, so no information is maintained twice.'
         image: '/images/templatepage_liegenschaftsverwaltung_03.png'
-        image_alt: 'Übersicht der verknüpften Spalten in den Tabellen Objects, Contracts und Organization'
-      - headline: 'Portfolio bewerten und Maßnahmen festlegen'
-        text: 'In der Tabelle "Portfolio evaluation" bewerten Sie Zustand, Lage, Restnutzungsdauer und Eignung eines Objekts zu festgelegten Stichtagen. Per Kanban-Board ordnen Sie jedem Objekt per Drag-and-drop eine Maßnahme zu, z. B. Halten, Umnutzen, Verkaufen oder Entwickeln. Über eine Verknüpfung mit der Tabelle "Projects" sehen Sie sofort, welches konkrete Projekt mit einem Evaluierungsergebnis zusammenhängt.'
+        image_alt: 'Diagram of the linked columns between the Objects, Organization and Contracts tables in the property template'
+      - headline: 'Evaluate the portfolio and define measures'
+        text: 'In the "Portfolio evaluation" table, you assess the condition, location, remaining useful life and suitability of a property on defined reference dates. On a Kanban board, you assign a measure to each property via drag and drop, such as hold, repurpose, sell or develop. A link to the "Projects" table shows you immediately which specific project is connected to an evaluation result.'
         image: '/images/templatepage_liegenschaftsverwaltung_04.png'
-        image_alt: Kanban-Board der kommunalen Liegenschaftsevaluierung'
-      - headline: 'Bedarfe erfassen und Projekte planen'
-        text: 'Fachämter melden ihren Flächenbedarf in der Tabelle "Requirements", etwa eine zusätzliche Kita-Gruppe oder einen neuen Bürostandort. Über die Verknüpfung mit einem Objekt prüfen Sie, ob der Bedarf gedeckt ist. In "Projects" planen Sie Ihr [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) mit abgeleiteten Maßnahmen wie Umbauten oder Umzügen mit Budget und Zeitplan. '
+        image_alt: 'Kanban board for municipal portfolio evaluation with the columns hold, develop and repurpose and star ratings'
+      - headline: 'Record requirements and plan projects'
+        text: 'Departments report their space requirements in the "Requirements" table, such as an additional nursery group or a new office location. By linking a requirement to a property, you check whether the demand is covered. In "Projects", you organise your [project management]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) and see directly via a link column which project is derived from which requirement.'
         image: '/images/templatepage_liegenschaftsverwaltung_05.png'
-        image_alt: 'Bedarfsübersicht gruppiert nach Fachämtern in der Liegenschaftsverwaltung-Vorlage'
+        image_alt: 'Requirements table grouped by department with request types such as relocation, more space and repurposing'
             
     - name: "content-6"
       weight: 12
       classes:
         - curved
         - bg-gray-100
-      title: 'Vom Objektregister zur Entscheidungsgrundlage'
+      title: 'From property register to decision basis'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem App Builder erstellen Sie per Drag-and-Drop **individuelle Frontends für das Gebäudemanagement im öffentlichen Dienst**. Die Vorlage bietet bereits **zwei vorbereitete Apps**: eine interne für Bewertungen, Bedarfsmeldungen, Objektgalerie, Objektkarten und Projektübersicht sowie eine für Mietinteressenten mit Anfrageformular und einer Galerie leerstehender Objekte. [Legen Sie beliebig viele weitere Apps an]({{< relref "posts/20250318-app-erstellen" >}}) und modifizieren Sie die bestehenden nach Bedarf, um Ihre kommunale Liegenschaftsverwaltung zu organisieren.'
+      - text: 'With SeaTable''s integrated App Builder, you create **custom front ends for facility management in the public sector** via drag and drop. The template already includes **two ready-made apps**: an internal one for evaluations, requirement requests, property gallery, property cards and project overview, and one for prospective tenants with an enquiry form and a gallery of vacant properties. [Create as many additional apps as you like]({{< relref "posts/20250318-app-erstellen" >}}) and adapt the existing ones as needed to organise your municipal property management efficiently and transparently.'
       image: '/images/template_page_liegenschaftsverwaltung_06.png'
-      image_alt: 'Interne App für die kommunale Liegenschaftsverwaltung mit Objekt-Steckbriefen'
+      image_alt: 'Internal app for municipal property management showing a property card with photo, address and usage status vacant'
 
     - name: "banner-3"
       weight: 15
-      title: 'Ihre kommunale Liegenschaftsverwaltung modern und digital organisieren – mit SeaTable'
+      title: 'Organise your municipal property management in a modern, digital way – with SeaTable'
       buttons:
-        - label: Jetzt die InventLiegenschaftsverwaltung-Vorlage für Kommunen nutzen
+        - label: Use the property management template now
           link: pages/registration
      
     - name: "content-9"
       weight: 16
-      title: 'Liegenschaftsverwaltung mit integrierten KI-Funktionen'
-      subtitle: 'Weniger manuelle Arbeit, mehr Überblick'
-      description: 'Mit SeaTable nutzen kommunale Verwaltungen leistungsstarke, DSGVO-konforme [KI-gestützte Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Digitalisieren Sie zum Beispiel Ihre alten Akten und lesen Sie Vertragsdaten automatisiert aus. So setzen Sie ein professionelles, modernes und digitales Gebäudemanagement im öffentlichen Dienst mit weniger manuellem Aufwand um.'
+      title: 'Property management with built-in AI'
+      subtitle: 'Less manual work, more clarity'
+      description: 'With SeaTable, municipal administrations benefit from powerful, GDPR-compliant [AI-powered automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). For example, digitise your old files and extract contract data automatically. This allows you to implement professional, modern and digital facility management in the public sector with far less manual effort – while your data remains securely in Europe.'
       items:
-      - headline: 'Verträge zusammenfassen:'
-        text: 'Nutzen Sie die Summarize-Funktion, um Verträge oder Schriftwechsel automatisch zusammenzufassen. So erfassen Sachbearbeiter die wichtigen Kernpunkte auf einen Blick und verkürzen Bearbeitungszeiten.'
+      - headline: 'Summarise contracts quickly'
+        text: 'Use the Summarize function to automatically summarise contracts or correspondence. Caseworkers grasp all the key points at a glance, noticeably shorten processing times and can respond much faster to queries from other departments, tenants, citizens or council members.'
         icon: table
-      - headline: 'Liegenschaften kategorisieren'
-        text: 'Mit der KI-Funktion "Classify" kategorisieren Sie Ihre Liegenschaften. Die KI liest Felder wie Nutzungsart, Nutzfläche oder Denkmalschutz aus und schreibt die Klassifizierung in eine separate Spalte.'
+      - headline: 'Categorise properties'
+        text: 'With the AI function "Classify", you categorise your properties automatically. The AI reads fields such as type of use, usable floor area or listed-building status and writes the classification into a separate column – consistently, traceably and without manual sorting.'
         icon: layer-group
-      - headline: 'OCR für alte Aktenbestände'
-        text: 'Mit OCR lesen Sie Text aus Fotos oder Screenshots von alten Verträgen oder Dokumenten aus und schreiben ihn in die entsprechenden Spalten. Analoge Unterlagen werden so digitalisiert.'
+      - headline: 'OCR for legacy paper files'
+        text: 'With OCR, you read text from photos or screenshots of old contracts or documents and write it into the corresponding columns. This digitises analogue records step by step and makes historic contract and property information searchable for all authorised departments.'
         icon: image
-      - headline: 'Vertragsdaten übernehmen'
-        text: 'Nutzen Sie die Extract-Funktion um automatisch Informationen wie Miethöhe oder Vertragslaufzeit aus Dokumenten zu übernehmen. So reduzieren Sie Aufwände und vermeiden manuelle Eingabefehler.'
+      - headline: 'Transfer contract data'
+        text: 'Use the Extract function to automatically transfer information such as rent amount or contract term from documents into your tables. This reduces effort, avoids manual input errors and keeps your contract data complete, up to date and consistent across all properties.'
         icon: circle-info
-      - headline: 'Maßgeschneiderte Automatisierung'
-        text: 'Mit Custom Prompts definieren Sie eigene KI-Anweisungen, um zum Beispiel anhand von Bedarfsanmeldungen oder Stichpunkten ausführliche Projektbeschreibungen mit Risikobewertung zu formulieren.'
+      - headline: 'Tailored AI automation'
+        text: 'With Custom Prompts, you define your own AI instructions – for example, to turn requirement requests or bullet points into detailed, well-structured project descriptions including a risk assessment. This way, the AI adapts to your specific administrative processes.'
         icon: wand-magic-sparkles
-      - headline: 'Empfehlungen ableiten'
-        text: 'Leiten Sie anhand von Objektevaluierungen oder Bedarfen erste Projektempfehlungen für Ihre strategische kommunale Liegenschaftsverwaltung ab – zum Beispiel ob ein Umbau oder Neubau sinnvoller ist.'
+      - headline: 'Derive recommendations'
+        text: 'Derive initial project recommendations from property evaluations or requirements for your strategic municipal property management – for example, whether a conversion or a new building makes more sense. The final decision always remains with you and your committees.'
         icon: arrow-right
         
         
@@ -155,35 +157,35 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Kommunale Liegenschaften rechtssicher  verwalten'
-      subtitle: 'Transparenz und Datenschutz'
-      description: 'SeaTable ist eine moderne KI No-Code Lösung mit App Builder und integrierten Automationen. Es bietet alle Funktionen, die Kommunen für ein digitales Gebäudemanagement in der öffentlichen Verwaltung brauchen. Im Mittelpunkt stehen zentrale Datenhaltung, Datenschutz und eine nachvollziehbare Dokumentation Ihrer Verträge und Entscheidungen.'
+      title: 'Manage municipal properties in a legally compliant way'
+      subtitle: 'Transparency & data protection'
+      description: 'SeaTable is a modern AI no-code solution with App Builder and integrated automations. It offers all the functions municipalities need for digital facility management in public administration. The focus is on central data storage, data protection and traceable documentation of your contracts and decisions – a reliable basis for audits, accountability and well-founded decisions.'
       box-position: [right!]
       items:
-      - headline: Transparenz
-        text: 'Neue Einträge und Änderungen erhalten einen Zeitstempel und lassen sich über die integrierten Logs nachverfolgen.'
-      - headline: Zentrale Daten
-        text: 'Objektdaten, Verträge, Bewertungen, Bedarfsanmeldungen und Projekte liegen verknüpft in einer Datenbank.'
-      - headline: DSGVO-konform
-        text: 'Die SeaTable-Infrastruktur läuft ausschließlich auf zertifizierten Servern europäischer Dienstleister in Deutschland. '
-      - headline: 2FA und SSO 
-        text: 'SeaTable unterstützt Zwei-Faktor-Authentifizierung und Single Sign-on. Sie steuern genau, wer auf Daten zugreifen kann.'
+      - headline: Transparent change history
+        text: 'New entries and changes receive a timestamp and can be tracked via the integrated logs. This allows you to trace at any time who changed which data and when – an important basis for audits and accountability.'
+      - headline: All data in one central place
+        text: 'Property data, contracts, evaluations, requirement requests and projects are linked in one database. Information is entered only once – and is immediately available to all authorised departments – without duplicates or conflicting versions.'
+      - headline: GDPR-compliant hosting in Germany
+        text: 'The SeaTable infrastructure runs exclusively on certified servers operated by European service providers in Germany. Your data does not leave Europe and is processed in line with the GDPR and public sector data protection requirements.'
+      - headline: Secure login with 2FA and SSO
+        text: 'SeaTable supports two-factor authentication and single sign-on. You control precisely who can access which data and when, and integrate SeaTable seamlessly into your existing identity and access management.'
 
     - name: "faq"
       weight: 20
-      title: 'FAQ – Kommunale Liegenschaften mit SeaTable verwalten'
+      title: 'FAQ – Managing municipal properties with SeaTable'
       subtitle: 
       items:
-      - q: "Lässt sich mit der Vorlage ein Flächenverzeichnis oder Gebäudepass anlegen?"
-        a: 'Ja. In der Tabelle "Objects" sind bereits Spalten für Adresse, Nutzungsart, Eigentumsverhältnis und Fläche in Quadratmeter enthalten. Sie können einfach eine weitere verknüpfte Tabelle oder weitere Spalten für Gebäudepassdaten hinzufügen.'
-      - q: "Können mehrere Fachämter mit der Vorlage gemeinsam im Gebäudemanagement der öffentlichen Verwaltung kooperieren?"
-        a: 'Ja, kein Problem. Mit SeaTable arbeiten Liegenschaftsamt, Bauamt, Grünflächendezernat oder Schul- und Sportamt gemeinsam in einer kollaborativen Datenbank. Die Tabelle "Organization" ist genau dafür vorgesehen und erlaubt Ihnen die einfache Zuordnung und Filterung von Zuständigkeiten.'
-      - q: "Ist es möglich Verträge und Bilder direkt mit den Stammdaten der Liegenschaften zu verknüpfen?"
-        a: 'Ja, in der Tabelle "Objects" ist eine Spalte für den Bild-Upload vorgesehen und in der Tabelle "Contracts" können Sie Verträge und weitere relevante Dokumente in einer Dokumentenspalte ablegen, und diese über eine Lookup-Spalte direkt am Objekt anzeigen.'
-      - q: "Wir arbeiten in der Liegenschaftsverwaltung und der Gebäudeprojektentwicklung mit externen Partner zusammen. Können sie ebenfalls auf die Daten zugreifen?" 
-        a: 'Ja, Sie können im Gebäudemanagement Öffentlicher Dienst externen Nutzern problemlos Zugriff auf Ihre Daten gewähren. Die granulare Rechteverwaltung ermöglicht es Ihnen, nur genau die Daten zugänglich zu machen, die für Ihre Partner relevant sind, und sensible Daten zu verbergen.'
-      - q: "Ist die Nutzung der SeaTable KI wirklich sicher? "
-        a: 'Ja, SeaTable hostet ein eigenes KI-Modell auf Servern des deutschen Anbieters Exoscale in Frankfurt. Wenn Sie die integrierten KI-Funktionen nutzen, um Ihre kommunale Liegenschaftsverwaltung zu modernisieren, dann bleiben Ihre Daten jederzeit innerhalb der SeaTable-Infrastruktur.'
-      - q: "Lassen sich auch Hausmeisterdienste und Instandhaltungen mit SeaTable verwalten?"
-        a: 'Absolut. In unserer Vorlagen-Bibliothek finden Sie eine fertige [Hausmeisterdienst-Vorlage]({{< relref "templates/real-estate/janitorial-services" >}}). Sie lässt sich flexibel an Ihre kommunalen Bedürfnisse anpassen und unterstützt Sie dabei, Ihr Gebäudemanagement Öffentliche Verwaltung zu digitalisieren. Sie können den Bereich Instandhaltungen ebenso leicht in die Vorlage für die kommunale Liegenschaftsverwaltung integrieren wie eine separate [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}).'
+      - q: "Can I create a space register or building passport with the template?"
+        a: 'Yes. The "Objects" table already contains columns for address, type of use, ownership status and floor area in square metres. You can simply add another linked table or additional columns for building passport data, such as energy ratings or year of construction.'
+      - q: "Can several departments collaborate on public sector facility management?"
+        a: 'Yes, no problem. With SeaTable, the property office, building authority, parks department or schools and sports office work together in one collaborative database. The "Organization" table is designed for exactly this purpose and lets you easily assign and filter responsibilities.'
+      - q: "Can contracts and images be linked directly to property master data?"
+        a: 'Yes. The "Objects" table includes a column for image uploads, and in the "Contracts" table you can store contracts and other relevant documents in a file column and display them directly on the property via a lookup column.'
+      - q: "We work with external partners. Can they access the data too?"
+        a: 'Yes. In public sector facility management, you can easily grant external users access to your data. Granular permission management lets you share exactly the data that is relevant to your partners while keeping sensitive information hidden.'
+      - q: "Is using the SeaTable AI really secure for public bodies?"
+        a: 'Yes. SeaTable hosts its own AI model on servers of the German provider Exoscale in Frankfurt. When you use the integrated AI functions to modernise your municipal property management, your data remains within the SeaTable infrastructure at all times.'
+      - q: "Can caretaker services and maintenance be managed with SeaTable?"
+        a: 'Absolutely. Our template library includes a ready-made [caretaker services template]({{< relref "templates/real-estate/janitorial-services" >}}) that adapts flexibly to municipal needs. You can integrate maintenance into the municipal property management template just as easily as a separate [to-do list]({{< relref "templates/projects/to-do-list" >}}).'
 ---
