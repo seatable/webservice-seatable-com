@@ -22,6 +22,9 @@ In order to use the tree view sensibly, you need a base with **at least two tabl
 
 {{< /warning>}}
 
+**In this how-to video, we’ll show you in just a few minutes how to create and import a Tree View in SeaTable.**
+{{< youtube DV1BCXDH8nM >}}
+
 ## How the tree view works
 
 Before you create a tree view, you should consider which **tree structure** (i.e. hierarchy of linked data records in your base) makes sense: In a [project portfolio]({{< relref "templates/projects/project-portfolio" >}}), for example, this could be the departments on the first level, the projects on the second level and the tasks on the third level. Accordingly, the departments, projects and tasks must be recorded in three different tables that are linked to each other. Each task is assigned to a project, which in turn is subordinate to a department.

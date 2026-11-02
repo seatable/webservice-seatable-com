@@ -22,6 +22,9 @@ Para utilizar la vista en árbol de forma sensata, necesita una base con **al me
 
 {{< /warning >}}
 
+**En este vídeo tutorial, te mostraremos en solo unos minutos cómo crear una vista en árbol en SeaTable (con subtítulos en español).**
+{{< youtube DV1BCXDH8nM >}}
+
 ## Cómo funciona la vista en árbol
 
 Antes de crear una vista en árbol, debe considerar qué **estructura de árbol** (es decir, jerarquía de registros de datos vinculados en su base) tiene sentido: En una [cartera de proyectos]({{< relref "templates/projects/project-portfolio" >}}), por ejemplo, podrían ser los departamentos en el primer nivel, los proyectos en el segundo y las tareas en el tercero. En consecuencia, los departamentos, los proyectos y las tareas deben registrarse en tres tablas diferentes vinculadas entre sí. Cada tarea está asignada a un proyecto, que a su vez está subordinado a un departamento.
