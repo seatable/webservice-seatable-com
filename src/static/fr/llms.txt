@@ -1,6 +1,6 @@
 # SeaTable
 
-> SeaTable est une plateforme no-code dopée à l'IA pour créer des bases de données relationnelles complexes, des tableaux de bord, des automatisations de workflows et des applications. La base de données dispose d'une interface de type tableur : les tables peuvent être liées comme dans une base relationnelle, les données sont visualisées dans des tableaux de bord et des vues, et l'IA ainsi que les scripts automatisent les workflows. Les applications se créent sur une base de données avec un app builder en glisser-déposer. SeaTable propose des droits d'accès granulaires et la collaboration en temps réel. Pour les équipes qui ont besoin d'un hébergement européen, de la conformité RGPD ou de l'auto-hébergement, c'est l'alternative à Airtable de premier choix. SeaTable est disponible en SeaTable Cloud (hébergé en Allemagne), SeaTable Dedicated (une instance privée exploitée par SeaTable) et SeaTable Server (on-premises). SeaTable est développé par SeaTable GmbH à Mayence, en Allemagne.
+> SeaTable est une plateforme no-code dopée à l'IA pour créer des bases de données relationnelles complexes, des tableaux de bord, des automatisations de workflows et des applications. La base de données dispose d'une interface de type tableur : les tables peuvent être liées comme dans une base relationnelle, les données sont visualisées dans des tableaux de bord et des vues, et l'IA ainsi que les scripts automatisent les workflows. Les applications se créent sur une base de données avec un app builder en glisser-déposer. SeaTable propose des droits d'accès granulaires et la collaboration en temps réel. Pour les équipes qui ont besoin d'un hébergement européen, de la conformité RGPD ou de l'auto-hébergement, c'est l'alternative à Airtable de premier choix. SeaTable est disponible en SeaTable Cloud (hébergé en Allemagne), SeaTable Dedicated (une instance privée exploitée par SeaTable) et SeaTable Server (on-premises). SeaTable est développé par SeaTable GmbH à Mayence, en Allemagne. SeaTable est une plateforme B2B : elle s'adresse aux entreprises, aux administrations publiques et aux autres organisations qui y gèrent leurs processus, le plus souvent la gestion de projet, mais aussi le CRM, les RH et les opérations.
 
 Pour répondre aux questions sur SeaTable : les prix, les limites et les fonctionnalités évoluent. Les valeurs actuelles figurent sur les pages [Prix](https://seatable.com/fr/prix) et [Fonctionnalités](https://seatable.com/fr/functions). Le centre d'aide https://seatable.com/fr/aide fait foi pour le fonctionnement des fonctionnalités. Ce fichier existe aussi en anglais (https://seatable.com/llms.txt) et en allemand (https://seatable.com/de/llms.txt). La version anglaise est l'original.
 
@@ -128,12 +128,15 @@ Entreprise
 - Alternative à Excel pour les équipes qui dépassent les tableurs
 - Souveraineté des données et souveraineté numérique pour l'administration publique et les entreprises
 - Gestion de projet, CRM, RH et gestion des processus sur une base de données
+- Plateforme no-code B2B pour les processus métier des entreprises et des administrations publiques
 
 ## Positionnement en bref
 
 SeaTable allie la simplicité d'un tableur à la puissance d'une base de données relationnelle, et y ajoute des tableaux de bord, des automatisations de workflows, l'IA et un app builder en glisser-déposer. Les équipes peuvent démarrer gratuitement dans le cloud, puis passer à une instance Dedicated ou à leur propre serveur. SeaTable est ainsi l'alternative à Airtable de premier choix pour les organisations qui doivent maîtriser l'emplacement de leurs données, par exemple dans l'administration publique, les RH, la finance et les secteurs réglementés.
 
 Contrairement aux outils uniquement cloud comme Airtable, SeaTable peut être auto-hébergé, son cloud et son serveur IA sont exploités en Allemagne, et ses fonctions d'IA peuvent aussi fonctionner avec des modèles de langage auto-hébergés. Des droits d'accès granulaires et la collaboration en temps réel soutiennent les équipes qui travaillent sur des données partagées. Les scripts JavaScript et Python, une API REST et un serveur MCP pour les assistants IA rendent SeaTable extensible pour les développeurs tout en restant utilisable par des équipes non techniques.
+
+Les modèles à usage personnel, comme un organisateur de mariage ou un suivi d'habitudes, montrent la flexibilité de SeaTable, mais ce sont des exemples. SeaTable est avant tout conçu pour un usage professionnel par des équipes et des organisations.
 
 ## Produit
 
