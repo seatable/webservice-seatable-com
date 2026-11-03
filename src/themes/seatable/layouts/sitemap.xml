@@ -1,33 +1,14 @@
 {{- if hugo.IsProduction -}}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {{- /* Order: core pages first, private topics (lifestyle) last */}}
+    {{- range slice "page" "post" "help" "template" "lifestyle" }}
     <sitemap>
-      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/post-sitemap.xml" }}</loc>
-      {{- $posts := where .Site.Pages "Section" "posts" -}}
-      {{ range $posts.ByLastmod.Reverse | first 1 }}
+      <loc>{{ print site.BaseURL site.Language.Lang "/" . "-sitemap.xml" }}</loc>
+      {{- range sort (partial "sitemap/pages.html" .) "Lastmod" "desc" | first 1 }}
         <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-      {{ end }}
+      {{- end }}
     </sitemap>
-    <sitemap>
-      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/page-sitemap.xml" }}</loc>
-      {{- $pages := where .Site.Pages "Section" "pages" -}}
-      {{ range $pages.ByLastmod.Reverse | first 1 }}
-        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-      {{ end }}
-    </sitemap>
-    <sitemap>
-      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/help-sitemap.xml" }}</loc>
-      {{- $pages := where .Site.Pages "Section" "help" -}}
-      {{ range $pages.ByLastmod.Reverse | first 1 }}
-        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-      {{ end }}
-    </sitemap>
-    <sitemap>
-      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/template-sitemap.xml" }}</loc>
-      {{- $pages := where .Site.Pages "Section" "templates" -}}
-      {{ range $pages.ByLastmod.Reverse | first 1 }}
-        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-      {{ end }}
-    </sitemap>
+    {{- end }}
   </sitemapindex>
 {{ end }}

@@ -14,7 +14,7 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [outputs]
-home = ["HTML", "RSS", "post-sitemap", "page-sitemap", "help-sitemap", "template-sitemap"]
+home = ["HTML", "RSS", "post-sitemap", "page-sitemap", "help-sitemap", "template-sitemap", "lifestyle-sitemap"]
 
 [outputFormats.post-sitemap]
 baseName = 'post-sitemap'
@@ -33,6 +33,11 @@ noUgly = true
 
 [outputFormats.template-sitemap]
 baseName = 'template-sitemap'
+mediaType = 'application/xml'
+noUgly = true
+
+[outputFormats.lifestyle-sitemap]
+baseName = 'lifestyle-sitemap'
 mediaType = 'application/xml'
 noUgly = true
 

@@ -35,3 +35,9 @@ baseName = "template-sitemap"
 mediaType = "application/xml"
 noUgly = true
 path = "en"
+
+[outputFormats.lifestyle-sitemap]
+baseName = "lifestyle-sitemap"
+mediaType = "application/xml"
+noUgly = true
+path = "en"
