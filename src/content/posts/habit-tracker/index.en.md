@@ -132,6 +132,8 @@ As already mentioned, there are no limits to the design of your habit tracker. C
 
 You can design your habit tracker by hand or with templates. If you like it practical and simple, you can also use an **app** or **online template**. These are usually less creative, but bundle all habits in a clear and structured way. Compared to notebooks and paper calendars, **digital habit trackers** can be flexibly adapted if your habits change.
 
+Recurring tasks also need structure in a team: our article on [task management]({{< relref "posts/aufgabenverwaltung" >}}) shows how teams plan tasks and resources efficiently.
+
 ## Template for your digital habit tracker
 
 In order not to lose sight of your goal, you need a simple and effective solution to track your habits and progress. SeaTable offers you this with a [free template]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) that you can customize according to your personal needs. The habit tracker is integrated into a bullet journal that offers even more exciting ways to organize and change your life.

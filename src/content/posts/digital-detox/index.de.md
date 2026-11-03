@@ -211,6 +211,8 @@ Und das Beste: Sie können die [SeaTable Cloud]({{< relref "pages/product/seatab
 
 {{< button label="Jetzt kostenlos registrieren" link="/pages/registration" >}}
 
+Konzentration zählt auch im Arbeitsalltag, besonders im Homeoffice: Praktische Hinweise dazu liefern unsere [Tipps fürs Homeoffice]({{< relref "posts/homeoffice-tipps" >}}).
+
 ## Fazit: Langfristige Gewohnheiten statt kurzfristiger Verzicht
 
 Ein Digital Detox ist keine kurzfristige Challenge, sondern eine **bewusste Entscheidung für mehr Ausgeglichenheit im Leben**. Wenn Sie regelmäßig digitale Pausen einlegen, reduzieren Sie die Reizüberflutung, verbessern Ihre Konzentration und stärken Ihre mentale Gesundheit. Ob durch einen Social Media Detox, einen geplanten Digital Detox Urlaub oder regelmäßige Offline-Aktivitäten im Alltag – bereits kleine Veränderungen können einen großen Unterschied machen. Die wertvollsten Digital Detox Erfahrungen entstehen meist nicht durch völligen Verzicht auf digitale Medien, sondern durch eine besonnene Nutzung und eine Änderung von Gewohnheiten.

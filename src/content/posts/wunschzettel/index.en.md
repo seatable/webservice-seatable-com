@@ -153,6 +153,8 @@ SeaTable's wish list app is fully included in the [free version]({{< relref "pag
 
 Once you have registered with your email address, you can use the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) immediately via your browser. If you want to host the app yourself, you can download and install [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 
+Gifts need to be organized at work too: ideas and tips for the business context can be found in our article on [Christmas gifts for employees and customers]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Conclusion: a digital wish list instead of gift chaos
 
 Whether for Christmas, birthdays or weddings: collecting and sharing wishes often causes gift chaos and unwelcome surprises. If you want to avoid bad buys and keep track of everything, you are better off with a digital wish list. That way you can record gift ideas at any time, store them centrally and securely with a unique URL, and organize wish lists clearly.

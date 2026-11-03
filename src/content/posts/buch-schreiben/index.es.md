@@ -146,6 +146,8 @@ El [plan de escritura]({{< relref "templates/projects/writing-plan" >}}) de SeaT
 
 {{< template-box id="f4d05c56e13e4dd1bb57" >}}
 
+Planificar contenidos también forma parte del día a día de los equipos de marketing: nuestro artículo sobre el [plan editorial]({{< relref "posts/redaktionsplan-contentplan" >}}) muestra cómo organizar temas, plazos y responsabilidades.
+
 ## Conclusión: así puede escribir su libro
 
 Las herramientas de software de autoría que se presentan aquí ofrecen una variedad de características y capacidades para ayudarle en cada etapa del proceso de escritura. En última instancia, la elección del software adecuado depende de sus necesidades y preferencias individuales a la hora de escribir un libro. Con el programa adecuado, puede agilizar su proceso de escritura y hacer realidad sus visiones creativas.

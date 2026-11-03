@@ -156,6 +156,8 @@ Además de las normas que el organizador puede dictar para sus recintos privados
 
 En el [catálogo de multas](https://www.bussgeldkatalog.org/festival/) puede consultar detalladamente qué leyes se aplican en los festivales de Alemania y qué sanciones se aplican en caso de conducta indebida.
 
+Detrás de cada festival hay una cuidadosa planificación de los organizadores: los programas, los proveedores y los presupuestos de eventos se gestionan en un solo lugar con la [planificación de eventos en SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}).
+
 ## El planificador de festivales de SeaTable
 
 Con el [planificador de festivales]({{< relref "templates/everyday-life/festival-planner" >}}) gratuito de SeaTable, puede organizar todas las actuaciones en directo claramente por día y hora para no perderse a ninguno de sus artistas favoritos. Tanto si busca cabezas de cartel como nuevas promesas, la vista general intuitiva le permite seguir todo el **programa** del festival. Descubra de un vistazo qué actuaciones quieren ver sus amigos y únase a ellos para vivir juntos las mejores actuaciones.

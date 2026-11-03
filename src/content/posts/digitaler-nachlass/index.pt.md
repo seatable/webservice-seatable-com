@@ -133,6 +133,8 @@ Outro software de base de dados que lhe permite gerir o seu património digital 
 
 Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui]({{< relref "templates/everyday-life/password-manager" >}}). Se estiver interessado, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente e criar uma visão geral com os seus próprios dados.
 
+Nas empresas, os departamentos de TI acompanham acessos, licenças e dispositivos. A [gestão de serviços de TI com o SeaTable]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) mostra como o fazer.
+
 ## Conclusão: O património digital é mais importante do que nunca
 
 Atualmente, cada um de nós tem dezenas de contas online. Para garantir que os seus familiares possam aceder às suas contas de utilizador se o pior acontecer, deve tomar providências atempadamente. É por isso que um espólio digital no qual documenta todos os seus dados de acesso é mais importante do que nunca.

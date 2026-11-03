@@ -191,6 +191,8 @@ And the best part: you can use the basic version of SeaTable completely [free of
 
 {{< button label="Register now for free" link="/pages/registration" >}}
 
+Guest lists and registrations matter at business events too: with [event planning in SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}), companies keep track of all participants at company events, conferences and trade fairs.
+
 ## Conclusion: Upgrading the Wedding Guestbook with Ideas
 
 You can put out a classic guestbook at the wedding or use new ideas and digital solutions entirely as you wish. Our recommendation: take the time to design the media selection for the guestbook yourself. Because when it comes to the wedding guestbook, creative ideas help you actively involve your wedding guests, overcome writer's block, and collect shared memories. Whether it's a puzzle, a wishing tree, a photo booth, or an audio or video guestbook for the wedding, each variation has its own appeal for capturing unforgettable moments. A digital guestbook is the tool of choice when you want to capture personal messages and various media files in a structured way.

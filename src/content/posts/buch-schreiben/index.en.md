@@ -147,6 +147,8 @@ SeaTable's [writing plan]({{< relref "templates/projects/writing-plan" >}}) is e
 
 {{< template-box id="f4d05c56e13e4dd1bb57" >}}
 
+Planning content is also everyday work in marketing teams: how to keep topics, deadlines and responsibilities organized is shown in our article on the [editorial plan]({{< relref "posts/redaktionsplan-contentplan" >}}).
+
 ## Conclusion: How to Write Your Book
 
 The authoring software tools presented here offer a variety of features and capabilities to support you at every stage of the writing process. Ultimately, choosing the right software depends on your individual needs and preferences when writing a book. With the right program, you can streamline your writing process and successfully realize your creative visions.

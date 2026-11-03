@@ -181,6 +181,8 @@ submit4="Utiliser le modèle" >}}
 - [Modèle pour un tableau Kanban flexible]({{< relref "templates/projects/kanban-board" >}})
 - [Modèle pour un plan de nettoyage bien organisé]({{< relref "templates/everyday-life/cleaning-plan" >}})
 
+Des priorités claires aident aussi les équipes : notre article sur la [gestion des tâches]({{< relref "posts/aufgabenverwaltung" >}}) montre comment répartir et planifier les tâches en équipe.
+
 ## Conclusion : vaincre durablement la procrastination avec la bonne structure
 
 Vous vaincrez rarement la procrastination en vous fixant beaucoup d'objectifs et en voulant accomplir une tâche à la perfection. Vous vous mettez ainsi inutilement sous pression, alimentez la peur de l'échec et les reproches envers vous-même. Il est plus efficace de prioriser vos tâches, de les décomposer en tâches partielles plus petites et de les traiter dans des blocs de temps fixes, afin d'abaisser la barrière à l'entrée et d'[établir des routines]({{< relref "posts/habit-tracker" >}}). Essayez en outre d'éliminer consciemment les sources de distraction pour éviter les actions de substitution. La meilleure façon de vous motiver est de commencer petit, de rendre vos progrès visibles et de garder vos objectifs en vue. Les outils numériques peuvent eux aussi vous y aider.

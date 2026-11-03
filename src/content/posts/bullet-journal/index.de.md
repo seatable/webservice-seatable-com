@@ -118,6 +118,8 @@ Durch das Niederschreiben im Bullet Journal können Sie zu jedem Zeitpunkt nachs
 
 Für den Erfinder, Ryder Carroll, ist es wichtig, dass das Bullet Journal Ihr Leben verbessert. Es gibt kein Richtig oder Falsch, wenn es darum geht, [das Leben im Hier und Jetzt zu genießen]({{< relref "posts/dankbarkeitstagebuch" >}}). Dazu gehört auch, dass das Journaling für Sie eine [Pause vom alltäglichen Stress]({{< relref "posts/digital-detox" >}}) bietet und Sie Ihr Leben reflektieren. Das kreative Schreiben kann für manche eine **meditative Wirkung** entfalten. Außerdem fließt in Ihr Bullet Journal viel Arbeit. Es ist etwas Selbstgemachtes, was den emotionalen Wert steigert und es leichter macht, am Ball zu bleiben.
 
+Im Team wollen Aufgaben nicht nur notiert, sondern verteilt werden: Wie Teams Aufgaben und Ressourcen gemeinsam planen, zeigt unser Beitrag zur [Aufgabenverwaltung]({{< relref "posts/aufgabenverwaltung" >}}).
+
 ## Vorlage für Ihr digitales Bullet Journal
 
 Eine Alternative zum analogen Notizbuch ist ein **digitales Bullet Journal**. SeaTable bietet Ihnen eine einfache und effektive Lösung, wie Sie Ihre Kalender, Listen und Tracker digital gestalten und mit ein paar Klicks flexibel umstrukturieren können. Passen Sie die [kostenlose Vorlage]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) an Ihre Bedürfnisse an und ergänzen Sie Ihre eigenen Ideen. In das Bullet Journal ist ein Habit Tracker integriert, welcher eine praktische Ergänzung zu Ihrem Journal darstellt. Arbeiten Sie mit Farben, Symbolen und Bildern, um Ihr Journal individuell zu gestalten.

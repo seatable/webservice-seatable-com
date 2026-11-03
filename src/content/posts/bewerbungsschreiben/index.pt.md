@@ -212,6 +212,8 @@ Antes de enviar a sua candidatura, deve fazer uma **revisão** final da mesma. P
 - Já destacou suficientemente a sua personalidade única?
 - O recrutador pode avaliar o valor acrescentado que traz à empresa e se se identifica com a cultura da mesma?
 
+Do outro lado da secretária, as empresas precisam de uma visão clara de todas as candidaturas. A [gestão de candidatos com o SeaTable]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}}) mostra como os departamentos de RH o organizam.
+
 ## Utilize uma ferramenta de planeamento para as suas candidaturas
 
 Agora nada o impede de redigir a sua próxima candidatura com êxito. Para que não perca o rasto dos seus documentos, mesmo que tenha várias candidaturas, a SeaTable criou para si um [planeador de candidaturas em linha]({{< relref "templates/everyday-life/application-cover-letter" >}}). Este ajudá-lo-á a planear os seus próximos passos, a organizar os seus documentos e a manter-se sempre atualizado sobre o processo de candidatura.

@@ -84,6 +84,8 @@ Vous pouvez en outre appliquer les mêmes critères d’évaluation à chaque li
 
 ![Des mains appuient une pile de livres contre une fenêtre.](buchreihe.png)
 
+Consigner les connaissances de manière structurée est aussi utile en équipe : notre article sur la [gestion des connaissances]({{< relref "posts/wissensmanagement" >}}) montre comment les entreprises rendent le savoir exploitable.
+
 ## Tenir un book journal avec SeaTable
 
 Le plus simple est de commencer avec le [modèle de book journal]({{< relref "templates/everyday-life/digital-book-journal" >}}) gratuit de **SeaTable**. Vous y trouverez déjà une table structurée pour vos livres et pourrez démarrer immédiatement votre carnet de lecture numérique. Pour chaque titre, vous pouvez consigner des informations importantes telles que l’auteur, le genre, le statut de lecture, la date de début, la date de fin et l’évaluation. Vous pouvez également ajouter une note en étoiles et des remarques personnelles. Le modèle s’adapte à tout moment à vos propres habitudes de lecture et peut être complété par d’autres colonnes.

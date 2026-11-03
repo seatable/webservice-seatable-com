@@ -211,6 +211,8 @@ Et le meilleur : vous pouvez utiliser la [SeaTable Cloud]({{< relref "pages/prod
 
 {{< button label="Inscrivez-vous gratuitement maintenant" link="/pages/registration" >}}
 
+La concentration compte aussi au travail, surtout en télétravail : nos [conseils pour le télétravail]({{< relref "posts/homeoffice-tipps" >}}) donnent des pistes pratiques.
+
 ## Conclusion : des habitudes durables plutôt qu'un renoncement ponctuel
 
 Une détox digitale n'est pas un défi de courte durée, mais un **choix conscient en faveur de plus d'équilibre dans la vie**. Lorsque vous faites régulièrement des pauses numériques, vous réduisez la surcharge sensorielle, améliorez votre concentration et renforcez votre santé mentale. Que ce soit par une détox des réseaux sociaux, des vacances de détox digitale planifiées ou des activités hors ligne régulières au quotidien, de petits changements peuvent déjà faire une grande différence. Les expériences de détox digitale les plus précieuses ne naissent généralement pas d'un renoncement total aux médias numériques, mais d'une utilisation mesurée et d'un changement d'habitudes.

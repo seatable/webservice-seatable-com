@@ -211,6 +211,8 @@ If your checklist for your vacation is extensive, it can be a challenge to fit e
 
 Use travel sizes for toiletries to save space and comply with liquid restrictions on flights.
 
+Before the trip comes the leave request: how companies plan vacations in their team fairly and transparently is explained in our article on [vacation planning for HR managers]({{< relref "posts/20250324-urlaubsplanung" >}}).
+
 ## Conclusion: Relaxed on vacation with your checklist
 
 Whether you were a last-minute packer in the past or a forward-thinking planner - in future you can start your vacation without unnecessary stress and with all the essentials in your luggage. SeaTable's [free template]({{< relref "templates/everyday-life/travel-planner" >}}) will save you valuable time and make your travel preparations for your upcoming vacation efficient and stress-free.

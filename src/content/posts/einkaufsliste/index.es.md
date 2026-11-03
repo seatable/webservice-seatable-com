@@ -191,6 +191,8 @@ La lista de la compra digital / app también le ayuda a controlar mejor los aspe
 
 {{< template-box id="913bf21e3f934d57b402" >}}
 
+En la empresa, la lista de la compra se convierte en compras: nuestro artículo con [5 consejos para las compras en la empresa]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) muestra cómo organizar pedidos y proveedores.
+
 ## Conclusión: ¿Qué aplicación de lista de la compra es la adecuada para usted?
 
 En resumen, elegir la aplicación de lista de la compra adecuada depende de sus preferencias y necesidades. Aunque cada una de las aplicaciones analizadas tiene sus puntos fuertes y débiles, todas tienen algo en común: facilitan su día a día y contribuyen a hacer la compra sin estrés.

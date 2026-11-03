@@ -154,6 +154,8 @@ Les mauvaises habitudes comme la consommation régulière d'**alcool, de cigaret
 
 En même temps, vous pouvez établir des habitudes positives : Par exemple, il est bon pour la santé de boire de l'eau plutôt que des **boissons énergétiques** coûteuses. Votre livre de comptes s'en réjouira, surtout si vous renoncez à l'eau en bouteille au profit de l'**eau du robinet**.
 
+Ce qui fonctionne pour un budget familial fonctionne aussi à plus grande échelle : notre page [créer un plan financier]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) montre comment les entreprises gardent le contrôle de leur chiffre d'affaires et de leurs coûts.
+
 ## Avec SeaTable, créez votre livre de comptes parfait
 
 Comme vous pouvez le constater : Surveiller vos dépenses et votre train de vie n'a que des avantages. Avec un livre de comptes, vous restez toujours maître de la situation et vous savez exactement où est passé votre argent. SeaTable s'adapte à vos besoins. Si vous utilisiez Excel pour votre livre de comptes, vous pouvez facilement importer vos tableaux dans SeaTable. Vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et essayer SeaTable !

@@ -156,6 +156,8 @@ In addition to the rules that the organizer can issue for their private grounds,
 
 You can read in detail about the laws that apply at festivals in Germany and the penalties for misconduct in the [catalog of fines](https://www.bussgeldkatalog.org/festival/).
 
+Behind every festival is careful planning by the organizers: schedules, service providers and budgets for events can be kept in one place with [event planning in SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}).
+
 ## The festival planner from SeaTable
 
 With SeaTable's free [festival planner]({{< relref "templates/everyday-life/festival-planner" >}}), you can clearly organize all live acts by day and time so that you don't miss any of your favorite artists. Whether you're looking for headliners or up-and-coming newcomers, the intuitive overview allows you to keep track of the entire **festival program**. See at a glance which acts your friends want to see and join forces to experience the best performances together.

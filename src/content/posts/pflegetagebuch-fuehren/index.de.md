@@ -159,6 +159,8 @@ Profitieren Sie im stressigen Pflegealltag davon, dass SeaTable weit mehr bietet
 
 Gerade bei einem sensiblen Thema wie der privaten Pflegedokumentation ist ein **hoher Datenschutz** wichtig. Mit [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) sind Ihre Daten sicher auf zertifizierten Servern des Schweizer Unternehmens Exoscale in Deutschland gespeichert.
 
+Auch professionelle Pflegedienste sind auf eine gute Dokumentation angewiesen. Wie ein Pflegedienst seine Abläufe digitalisiert hat, zeigt unsere Kundenstory [KD Cura: digitale Vorreiterrolle im Pflegedienst]({{< relref "posts/kd-cura-pflegedienst" >}}).
+
 ## Fazit: Mit Struktur und Gelassenheit den passenden Pflegegrad beantragen
 
 Ein Pflegetagebuch ist ein entscheidendes Hilfsmittel, um den tatsächlichen Pflegebedarf transparent zu dokumentieren und den richtigen Pflegegrad bewilligt zu bekommen. Wer als pflegender Angehöriger ohnehin am Limit ist, profitiert besonders von einer digitalen Lösung wie SeaTable, die Dokumentation, Auswertung und Vorbereitung auf den nächsten Begutachtungstermin so einfach wie möglich macht. Anstatt sich im Papierchaos zu verlieren, schaffen strukturierte, digitale Pflegetagebücher Transparenz und nachvollziehbare, auswertbare Daten und schonen Zeit und Nerven pflegender Angehöriger.

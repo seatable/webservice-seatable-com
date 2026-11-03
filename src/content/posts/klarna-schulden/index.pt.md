@@ -88,6 +88,8 @@ Para evitar dívidas futuras e criar uma base financeira sólida, deve aplicar a
 
 A própria Klarna oferece ainda a possibilidade de definir orçamentos para manter as suas despesas sob controlo. Em alternativa, pode optar por não pagar em prestações e pagar apenas **antecipadamente** ou por **transferência bancária imediata**, para garantir que só gasta o dinheiro que já tem.
 
+Do lado das empresas, os pagamentos em aberto são assunto das contas a receber: o nosso artigo sobre a [contabilidade das contas a receber]({{< relref "posts/debitorenbuchhaltung" >}}) mostra como acompanhar as faturas pendentes.
+
 ## Livro de orçamento da SeaTable
 
 Um [livro de orçamento]({{< relref "posts/haushaltsbuch-fuehren" >}}) bem estruturado é extremamente útil para registar e analisar as suas despesas em pormenor. A SeaTable oferece um [modelo gratuito]({{< relref "templates/everyday-life/budget-book" >}}) que lhe permite manter os seus assuntos financeiros sob controlo sem perder a **visão geral**.

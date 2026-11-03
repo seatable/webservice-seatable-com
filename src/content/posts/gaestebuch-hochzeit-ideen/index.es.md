@@ -191,6 +191,8 @@ Y lo mejor: puede utilizar la versión básica de SeaTable de forma completament
 
 {{< button label="Regístrese gratis" link="/pages/registration" >}}
 
+Las listas de invitados y las inscripciones también son importantes en los eventos profesionales: con la [planificación de eventos en SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}), las empresas tienen bajo control a todos los participantes de sus eventos, conferencias y ferias.
+
 ## Conclusión: mejore el libro de visitas de su boda con ideas
 
 Puede poner a disposición un libro de visitas clásico en la boda o utilizar nuevas ideas y soluciones digitales totalmente a su gusto. Nuestra recomendación: tómese el tiempo de diseñar usted mismo la selección de medios para el libro de visitas. Porque en el libro de visitas de la boda, las ideas creativas ayudan a involucrar activamente a sus invitados, a superar los bloqueos a la hora de escribir y a recopilar recuerdos compartidos. Ya sea un puzle, un árbol de los deseos, un fotomatón, un libro de visitas de audio o de vídeo para la boda, cada variante tiene su propio encanto para capturar momentos inolvidables. Un libro de visitas digital es la opción ideal cuando desea registrar de forma estructurada mensajes personales y distintos archivos multimedia.

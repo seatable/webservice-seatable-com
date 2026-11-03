@@ -94,6 +94,8 @@ El plan de medicación digital también es impresionante en lo que respecta a la
 
 ![Una mujer muestra algo a un hombre mayor en un portátil](warum-digitaler-medikationsplan.jpg)
 
+En la asistencia profesional, los planes de medicación forman parte de la documentación diaria. Nuestro caso de cliente [KD Cura: pionero digital en el servicio de asistencia]({{< relref "posts/kd-cura-pflegedienst" >}}) muestra cómo un servicio de asistencia lo organiza de forma digital.
+
 ## Plan de medicación con SeaTable
 
 La plantilla gratuita de plan de medicación de SeaTable hace que sea muy fácil tomar la medicación correctamente. En lugar de una confusa caja de medicación o una lista impresa que puede perderse rápidamente, puede registrar toda la información relevante de forma centralizada y digital. Esto significa que puede crear fácilmente y actualizar continuamente su lista de medicación.

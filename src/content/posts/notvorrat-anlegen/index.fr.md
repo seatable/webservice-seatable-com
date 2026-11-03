@@ -101,6 +101,8 @@ Pour pouvoir rester propre et garder votre logement propre, il est recommandé d
 
 Bien sûr, il ne faut pas oublier l'eau pour se laver. Pour qu'elle se conserve plus longtemps, vous pouvez utiliser des **produits de désinfection de l'eau**.
 
+Les entreprises aussi doivent savoir ce qu'elles ont en stock : notre article sur la [création d'une liste d'inventaire]({{< relref "posts/inventarliste-erstellen" >}}) explique comment suivre équipements et stocks.
+
 ## Planificateur en ligne pour vos réserves d'urgence
 
 Pour que vous soyez idéalement préparé à la prochaine situation d'urgence, l'équipe de SeaTable a créé pour vous un modèle pour votre réserve d'urgence. Vous pouvez l'adapter à vos besoins comme vous le souhaitez.

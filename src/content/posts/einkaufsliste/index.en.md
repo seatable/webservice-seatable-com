@@ -192,6 +192,8 @@ The digital shopping list / app also helps you to keep a better eye on the finan
 
 {{< template-box id="913bf21e3f934d57b402" >}}
 
+In companies, the shopping list becomes procurement: our article with [5 tips for procurement in your company]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) shows how to organize orders and suppliers.
+
 ## Conclusion: Which shopping list app is right for you?
 
 To summarize, choosing the right shopping list app depends on your preferences and needs. Although each of the apps tested has its own strengths and weaknesses, they all have one thing in common - they make your everyday life easier and contribute to a stress-free shopping experience.

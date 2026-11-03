@@ -63,6 +63,8 @@ The search for a new apartment is notoriously difficult, especially in metropoli
 
 With our [apartment search template]({{< relref "templates/everyday-life/apartment-hunting" >}}), you can record all information, data and documents about the apartments in a simple and structured way. Save photos, floor plans, living space, rental price and everything else you noticed during the property viewing in a clear table. Assign a rating and make the right decision easier, safer and faster.
 
+For landlords and property managers who look after several properties, our article on [professional property management]({{< relref "posts/hausverwaltung" >}}) shows how to keep tenants, contracts and maintenance organized.
+
 ## Start planning your next move
 
 ![Your next move will be a breeze with SeaTable](umzugsliste-seatable-immobilien.png)

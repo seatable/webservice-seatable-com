@@ -86,6 +86,8 @@ Es ist außerdem ratsam, sich nicht zu sehr von Werbeversprechen und verlockende
 
 Klarna selbst bietet zudem die Möglichkeit, Budgets festzulegen, um Ihre Ausgaben im Griff zu behalten. Alternativ können Sie auch auf Ratenzahlungen verzichten und nur per **Vorkasse** oder **Sofortüberweisung** bezahlen, um sicherzustellen, dass Sie nur Geld ausgeben, das Sie bereits besitzen.
 
+Aus Sicht der Unternehmen sind offene Zahlungen ein Thema für die Debitorenbuchhaltung: Wie Firmen offene Rechnungen im Blick behalten, zeigt unser Beitrag zur [Debitorenbuchhaltung]({{< relref "posts/debitorenbuchhaltung" >}}).
+
 ## Haushaltsbuch von SeaTable
 
 Ein gut strukturiertes [Haushaltsbuch]({{< relref "posts/haushaltsbuch-fuehren" >}}) ist äußerst nützlich, um Ihre Ausgaben detailliert zu erfassen und zu analysieren. SeaTable bietet eine [kostenlose Vorlage]({{< relref "templates/everyday-life/budget-book" >}}), mit der Sie Ihre finanziellen Angelegenheiten im Griff behalten können, ohne den **Überblick** zu verlieren.

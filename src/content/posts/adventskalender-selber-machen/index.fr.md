@@ -156,6 +156,8 @@ C'est justement lorsque vous fabriquez plusieurs calendriers de l'Avent que cela
 
 Même si vous remplissez une douzaine de calendriers de l'Avent privés, vous ne perdrez jamais le fil grâce aux différentes vues classées par personne (tableaux 2 & 3).
 
+Un calendrier de l'Avent est aussi une belle attention pour une équipe ou des clients. D'autres idées pour le cadre professionnel se trouvent dans notre article sur les [cadeaux de Noël pour les employés et les clients]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Votre calendrier de l'Avent virtuel à partager
 
 Un **calendrier de l'Avent numérique** est à la fois durable et créatif. Si vous souhaitez faire plaisir à quelqu'un qui habite loin de chez vous, cette alternative est faite pour vous. Vous pouvez envoyer des images, des vidéos ou des textes en guise de messages numériques. De plus, un tel calendrier convient également à un grand groupe de personnes, car le contenu peut être facilement dupliqué.

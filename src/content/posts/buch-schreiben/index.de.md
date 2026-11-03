@@ -144,6 +144,8 @@ Der [Schreibplan]({{< relref "templates/projects/writing-plan" >}}) von SeaTable
 
 {{< template-box id="f4d05c56e13e4dd1bb57" >}}
 
+Inhalte planen gehört auch in Marketingteams zum Alltag: Wie sich Themen, Termine und Zuständigkeiten organisieren lassen, zeigt unser Beitrag zum [Redaktionsplan]({{< relref "posts/redaktionsplan-contentplan" >}}).
+
 ## Fazit: So können Sie Ihr Buch schreiben
 
 Die hier vorgestellten Autorensoftware-Tools bieten eine Vielzahl von Funktionen und Möglichkeiten, um Sie in jeder Phase des Schreibprozesses zu unterstützen. Letztendlich ist die Auswahl der passenden Software von Ihren individuellen Bedürfnissen und Vorlieben beim Buch schreiben abhängig. Mit dem richtigen Programm können Sie Ihren Schreibprozess optimieren und Ihre kreativen Visionen erfolgreich realisieren.

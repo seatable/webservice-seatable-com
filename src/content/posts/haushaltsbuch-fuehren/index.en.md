@@ -155,6 +155,8 @@ Bad habits such as the regular consumption of **alcohol, cigarettes or coffee** 
 
 At the same time, you can establish positive habits: For example, simply drinking water instead of expensive **energy drinks** is good for your health. Your budget book will rejoice – especially if you avoid bottled water and use **tap water** instead.
 
+What works for a household budget also works on a larger scale: how companies keep revenue and costs under control is shown on our page on [creating a financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}).
+
 ## Your perfect budget book with SeaTable
 
 As you can see: Keeping track of your expenses and living costs only has advantages. With a budget book, you always stay in control and know exactly where your money has gone. SeaTable adapts to your needs. If you currently use Excel for your budget book, you can simply import your tables into SeaTable. You can [register for free]({{< relref "pages/registration" >}}) and try out SeaTable!

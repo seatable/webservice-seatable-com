@@ -133,6 +133,8 @@ Comme nous l'avons déjà mentionné, il n'y a pas de limites à la conception d
 
 Vous pouvez concevoir votre Habit Tracker à la main ou avec des modèles. Ceux qui aiment la praticité et la simplicité peuvent aussi utiliser une **application** ou un **modèle en ligne**. Ceux-ci sont généralement moins créatifs, mais regroupent toutes les habitudes de manière claire et structurée. Par rapport aux carnets de notes et aux calendriers papier, **les Habit Trackers numériques** sont adaptables de manière flexible lorsque vos habitudes changent.
 
+En équipe aussi, les tâches récurrentes ont besoin d'une structure : notre article sur la [gestion des tâches]({{< relref "posts/aufgabenverwaltung" >}}) montre comment les équipes planifient efficacement tâches et ressources.
+
 ## Modèle pour votre Habit Tracker numérique
 
 Pour ne pas perdre de vue votre objectif, vous avez besoin d'une solution simple et efficace pour suivre vos habitudes et vos progrès. C'est ce que vous propose SeaTable avec un [modèle gratuit]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) que vous pouvez adapter à vos besoins personnels. Le Habit Tracker est intégré à un Bullet Journal, qui offre encore d'autres possibilités passionnantes d'organiser et de changer votre vie.

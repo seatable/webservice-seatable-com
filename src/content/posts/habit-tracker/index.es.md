@@ -133,6 +133,8 @@ Como ya se ha mencionado, no hay límites para el diseño de su rastreador de h�
 
 Puede diseñar su rastreador de hábitos a mano o con plantillas. Si le gusta lo práctico y sencillo, también puede utilizar una **aplicación** o una **plantilla en línea**. Suelen ser menos creativas, pero agrupan todos los hábitos de forma clara y estructurada. En comparación con los cuadernos y calendarios de papel, **los rastreadores de hábitos digitales** pueden adaptarse con flexibilidad cuando cambian sus hábitos.
 
+En equipo, las tareas recurrentes también necesitan una estructura: nuestro artículo sobre la [gestión de tareas]({{< relref "posts/aufgabenverwaltung" >}}) muestra cómo los equipos planifican de forma eficiente tareas y recursos.
+
 ## Plantilla para su rastreador de hábitos digital
 
 Para no perder de vista su objetivo, necesita una solución sencilla y eficaz para hacer un seguimiento de sus hábitos y progresos. SeaTable se la ofrece con una [plantilla gratuita]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) que puede personalizar según sus necesidades. El rastreador de hábitos está integrado en un bullet journal, que ofrece otras posibilidades interesantes para organizar y cambiar su vida.

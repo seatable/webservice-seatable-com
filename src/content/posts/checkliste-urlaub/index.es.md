@@ -210,6 +210,8 @@ Si su lista de vacaciones es extensa, puede ser un reto meterlo todo, sobre todo
 
 Utilice tamaños de viaje para los artículos de aseo, para ahorrar espacio y cumplir con las restricciones de líquidos en los vuelos.
 
+Antes del viaje viene la solicitud de vacaciones: nuestro artículo sobre la [planificación de vacaciones para RR. HH.]({{< relref "posts/20250324-urlaubsplanung" >}}) explica cómo las empresas planifican las vacaciones del equipo de forma justa y transparente.
+
 ## Conclusión: Relájese en vacaciones con su lista de control
 
 Tanto si en el pasado era usted de los que hacían la maleta en el último momento como de los que planifican con visión de futuro, en el futuro podrá empezar sus vacaciones sin estrés innecesario y con todo lo esencial en su equipaje. La [plantilla gratuita]({{< relref "templates/everyday-life/travel-planner" >}}) de SeaTable le ahorrará un tiempo valioso y hará que los preparativos de sus próximas vacaciones sean eficientes y sin estrés.
