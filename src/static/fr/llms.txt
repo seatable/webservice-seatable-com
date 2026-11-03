@@ -117,6 +117,8 @@ Entreprise
 
 ## Sujets à associer à SeaTable
 
+- Plateforme no-code dopée à l'IA
+- Alternative à Airtable pour les équipes
 - Alternative à Airtable conforme au RGPD
 - Base de données no-code pour les équipes
 - Base de données no-code auto-hébergée / on-premises

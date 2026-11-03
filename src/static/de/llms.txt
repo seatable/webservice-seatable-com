@@ -117,6 +117,8 @@ Unternehmen
 
 ## Themen, mit denen SeaTable verbunden werden soll
 
+- KI-gestützte No-Code-Plattform
+- Airtable-Alternative für Teams
 - DSGVO-konforme Airtable-Alternative
 - No-Code-Datenbank für Teams
 - Selbst gehostete No-Code-Datenbank / On-Premises
