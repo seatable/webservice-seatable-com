@@ -2,7 +2,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     {{- range partial "sitemap/pages.html" "page" }}
-        {{- partial "sitemap/url.html" (dict "page" . "images" false) }}
+        {{- partial "sitemap/url.html" (dict "page" . "changefreq" "weekly" "images" false) }}
     {{- end }}
 </urlset>
 {{- end -}}

@@ -39,5 +39,7 @@
 {{- else if in (slice "posts" "templates") .Section }}{{ $priority = 0.7 }}
 {{- else if eq .Section "help" }}{{ $priority = 0.6 }}
 {{- end -}}
+{{- /* An explicit front matter value (sitemap: priority: …) wins */ -}}
+{{- with .Params.sitemap }}{{ with .priority }}{{ $priority = float . }}{{ end }}{{ end -}}
 
 {{- return (dict "lifestyle" $lifestyle "priority" $priority) -}}

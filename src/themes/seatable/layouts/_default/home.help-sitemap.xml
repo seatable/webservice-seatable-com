@@ -8,7 +8,7 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
 >
     {{- range partial "sitemap/pages.html" "help" }}
-        {{- partial "sitemap/url.html" (dict "page" . "images" true) }}
+        {{- partial "sitemap/url.html" (dict "page" . "changefreq" "monthly" "images" true) }}
     {{- end }}
 </urlset>
 {{- end -}}
