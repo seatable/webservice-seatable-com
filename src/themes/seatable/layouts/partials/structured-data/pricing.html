@@ -7,6 +7,7 @@
         {{/* Include description for landing pages and template pages */}}
         "description": "{{ .Params.seo.description | safeJS }}",
     {{- end }}
+    "audience": { "@type": "BusinessAudience", "audienceType": "Companies, public administration and other organizations" },
     "applicationCategory": "BusinessApplication",
     "operatingSystem": "Web",
     "offers": [
