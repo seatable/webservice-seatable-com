@@ -3,7 +3,9 @@ title: 'KI unterstützte Automationen: Das Highlight von SeaTable 6.0'
 description: 'Mit SeaTable 6.0 halten KI unterstützte Automationen Einzug in die Cloud. Profitieren Sie von intelligenter Prozessautomatisierung, voller DSGVO-Konformität und maximaler Datensouveränität dank eigenem KI-Server in Deutschland.'
 date: '2025-09-30'
 lastmod: '2025-10-31'
-url: '/ki-automationen-datenschutz'
+url: '/de/ki-automationen-datenschutz'
+aliases:
+  - '/ki-automationen-datenschutz'
 seo:
     title: 'SeaTable 6.0 – Sichere KI-Automationen made in Europe'
     description: 'Erleben Sie mit SeaTable 6.0 sichere KI-Automationen in der Cloud – modernste Technologie mit deutschem Datenschutz. '

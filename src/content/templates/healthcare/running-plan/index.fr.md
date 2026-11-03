@@ -3,7 +3,9 @@ title: Plan d'entraînement à pied
 description: 'Grâce à notre modèle gratuit de programme de course à pied modulable, vous pouvez structurer votre entraînement et trouver la motivation nécessaire directement dans SeaTable.'
 date: '2026-09-22'
 lastmod: '2026-09-22'
-url: '/modele/modele-de-plan-entrainement-a-pied'
+url: '/fr/modele/modele-de-plan-entrainement-a-pied'
+aliases:
+  - '/modele/modele-de-plan-entrainement-a-pied'
 category: 'healthcare'
 functions:
 seo:
