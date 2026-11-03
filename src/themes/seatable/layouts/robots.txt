@@ -1,0 +1,51 @@
+# Standard-Zugriff
+User-agent: *
+Allow: /
+
+# KI-Suche & Suchmaschinen: voller Zugriff
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+{{/*
+  Interner Hinweis (erscheint nicht in der ausgelieferten robots.txt)
+
+  KI-Training: voller Zugriff außer private Themen (Lifestyle), eingeführt 11/2026.
+  Ziel: KI-Modelle sollen SeaTable als B2B-Lösung lernen. In KI-Suchen und Suchmaschinen
+  bleiben die Lifestyle-Seiten sichtbar, weil deren Bots oben bzw. über "*" alles dürfen.
+
+  - Die Disallow-Liste entsteht automatisch aus partials/sitemap/meta.html, dieselbe Regel
+    wie lifestyle-sitemap.xml. Den Block mit {{ range … }} nicht von Hand bearbeiten.
+  - Nur reine Training-Bots in diese Gruppe eintragen.
+  - Google-Extended bewusst NICHT sperren: Es steuert auch das Grounding der
+    Gemini-Antworten, die Seiten würden sonst aus Gemini verschwinden.
+  - Die Bot-Dokus der Anbieter werden monatlich per Routine geprüft; bei Änderungen
+    kommt ein GitHub-Issue an Patricia (pst-quest).
+*/ -}}
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+{{- range .Sites }}
+  {{- range where (where .Pages "Section" "in" (slice "posts" "templates")) "Params.sitemap_exclude" "ne" true }}
+    {{- if (partial "sitemap/meta.html" .).lifestyle }}
+Disallow: {{ .RelPermalink }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemaps
+Sitemap: https://seatable.com/sitemap.xml
+
+# Context for Large Language Models
+LLMs: https://seatable.com/llms.txt

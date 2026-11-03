@@ -4,6 +4,7 @@ title = 'SeaTable - no code no limit'
 
 defaultContentLanguage = 'en'
 enableGitInfo = true
+enableRobotsTXT = true
 
 # FIXME: klären, ob das lokal auskommentiert werden kann, weil ich in build.sh ja lastmod mitgebe...
 [frontmatter]
