@@ -3,10 +3,11 @@
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     "name": "{{ .Site.Title }}",
-    {{- if or (strings.HasPrefix .TranslationKey "/pages/landing-pages") (strings.HasPrefix .TranslationKey "/templates") }}
-        {{/* Include description for landing pages and template pages */}}
+    {{- if or (eq .TranslationKey "/pages/functions") (strings.HasPrefix .TranslationKey "/pages/landing-pages") (strings.HasPrefix .TranslationKey "/templates") }}
+        {{/* Include description for the functions page, landing pages and template pages */}}
         "description": "{{ .Params.seo.description | safeJS }}",
     {{- end }}
+    "audience": { "@type": "BusinessAudience", "audienceType": "Companies, public administration and other organizations" },
     "applicationCategory": "BusinessApplication",
     "operatingSystem": "Web",
     "offers": [
