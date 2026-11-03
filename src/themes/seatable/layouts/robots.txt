@@ -12,10 +12,21 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-# KI-Training: voller Zugriff ausser private Themen (Lifestyle)
-# Die Liste kommt automatisch aus partials/sitemap/meta.html (wie lifestyle-sitemap.xml).
-# Nur reine Training-Bots eintragen! Google-Extended bewusst NICHT, weil es auch die
-# Gemini-Antworten (Grounding) steuert. Bots werden monatlich geprueft (Routine, Patricia).
+{{/*
+  Interner Hinweis (erscheint nicht in der ausgelieferten robots.txt)
+
+  KI-Training: voller Zugriff außer private Themen (Lifestyle), eingeführt 11/2026.
+  Ziel: KI-Modelle sollen SeaTable als B2B-Lösung lernen. In KI-Suchen und Suchmaschinen
+  bleiben die Lifestyle-Seiten sichtbar, weil deren Bots oben bzw. über "*" alles dürfen.
+
+  - Die Disallow-Liste entsteht automatisch aus partials/sitemap/meta.html, dieselbe Regel
+    wie lifestyle-sitemap.xml. Den Block mit {{ range … }} nicht von Hand bearbeiten.
+  - Nur reine Training-Bots in diese Gruppe eintragen.
+  - Google-Extended bewusst NICHT sperren: Es steuert auch das Grounding der
+    Gemini-Antworten, die Seiten würden sonst aus Gemini verschwinden.
+  - Die Bot-Dokus der Anbieter werden monatlich per Routine geprüft; bei Änderungen
+    kommt ein GitHub-Issue an Patricia (pst-quest).
+*/ -}}
 User-agent: GPTBot
 User-agent: ClaudeBot
 User-agent: anthropic-ai
