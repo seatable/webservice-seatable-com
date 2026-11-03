@@ -210,6 +210,8 @@ Bevor Sie Ihre Bewerbung abschicken, sollten Sie diese final **Korrektur lesen**
 - Haben Sie Ihre einzigartige Persönlichkeit genügend herausgearbeitet?
 - Kann der Personaler beurteilen, welchen Mehrwert Sie dem Unternehmen bringen und ob Sie sich mit der Kultur identifizieren?
 
+Auf der anderen Seite des Schreibtischs brauchen Unternehmen einen klaren Überblick über alle Bewerbungen. Wie Personalabteilungen das organisieren, zeigt das [Bewerbermanagement mit SeaTable]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}}).
+
 ## Nutzen Sie ein Planungstool für Ihre Bewerbungen
 
 Dem Schreiben Ihrer nächsten erfolgreichen Bewerbung steht nun nichts mehr im Wege. Damit Sie auch bei mehreren Bewerbungen nicht den Überblick über Ihre Unterlagen verlieren, hat SeaTable einen [Online-Bewerbungsplaner]({{< relref "templates/everyday-life/application-cover-letter" >}}) für Sie erstellt. Dieser hilft Ihnen Ihre nächsten Schritte zu planen, Dokumente zu ordnen und immer auf dem neuesten Stand im Bewerbungsprozess zu bleiben.

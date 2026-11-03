@@ -88,6 +88,8 @@ Il est également conseillé de ne pas trop vous laisser influencer par les prom
 
 Klarna elle-même vous offre en outre la possibilité de définir des budgets afin de garder le contrôle de vos dépenses. Vous pouvez également renoncer aux paiements échelonnés et ne payer que par **paiement anticipé** ou par **virement immédiat**, pour être sûr de ne dépenser que l'argent que vous possédez déjà.
 
+Du côté des entreprises, les paiements en attente relèvent de la comptabilité clients : notre article sur la [comptabilité clients]({{< relref "posts/debitorenbuchhaltung" >}}) montre comment suivre les factures impayées.
+
 ## Livre de comptes de SeaTable
 
 Un [livre de comptes]({{< relref "posts/haushaltsbuch-fuehren" >}}) bien structuré est extrêmement utile pour enregistrer et analyser vos dépenses en détail. SeaTable propose un [modèle gratuit]({{< relref "templates/everyday-life/budget-book" >}}) qui vous permet de garder le contrôle de vos affaires financières sans perdre la **vue d'ensemble**.

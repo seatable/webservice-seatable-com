@@ -88,6 +88,8 @@ Además, es aconsejable no dejarse influir demasiado por las promesas publicitar
 
 Además, la propia Klarna ofrece la posibilidad de fijar presupuestos para mantener sus gastos bajo control. También puede renunciar a los pagos a plazos y pagar únicamente **por adelantado** o mediante **transferencia bancaria instantánea**, para asegurarse de gastar solo el dinero que ya tiene.
 
+Desde el punto de vista de la empresa, los pagos pendientes son cosa de la contabilidad de deudores: nuestro artículo sobre la [contabilidad de deudores]({{< relref "posts/debitorenbuchhaltung" >}}) muestra cómo controlar las facturas pendientes.
+
 ## Libro de presupuesto de SeaTable
 
 Un [libro de presupuesto]({{< relref "posts/haushaltsbuch-fuehren" >}}) bien estructurado es extremadamente útil para registrar y analizar sus gastos en detalle. SeaTable ofrece una [plantilla gratuita]({{< relref "templates/everyday-life/budget-book" >}}) con la que podrá mantener sus asuntos financieros bajo control sin perder la **visión de conjunto**.

@@ -92,6 +92,8 @@ Le plan de médication numérique convainc également en matière de protection 
 
 ![Une femme montre quelque chose à un homme âgé sur un ordinateur portable](warum-digitaler-medikationsplan.jpg)
 
+Dans les soins professionnels, les plans de médication font partie de la documentation quotidienne. Notre témoignage client [KD Cura : pionnier du numérique dans les services de soins]({{< relref "posts/kd-cura-pflegedienst" >}}) montre comment un service de soins l'organise numériquement.
+
 ## Plan de médicaments avec SeaTable
 
 Avec le modèle de plan de médication gratuit de SeaTable, il est très facile de prendre correctement vos médicaments. Au lieu d'une boîte de médicaments encombrée ou d'une liste imprimée qui peut vite se perdre, vous saisissez toutes les informations pertinentes de manière centralisée et numérique. Vous pouvez ainsi établir sans grand effort votre liste de médicaments et la mettre à jour en continu.

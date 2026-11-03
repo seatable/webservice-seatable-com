@@ -154,6 +154,8 @@ Neben den Regeln, die der Veranstalter für sein Privatgelände erlassen kann, g
 
 Welche Gesetze auf Festivals in Deutschland gelten und welche Strafen bei Fehlverhalten drohen, können Sie detailliert im [Bußgeldkatalog](https://www.bussgeldkatalog.org/festival/) nachlesen.
 
+Hinter jedem Festival steckt eine sorgfältige Planung der Veranstalter: Abläufe, Dienstleister und Budgets von Events lassen sich mit der [Eventplanung in SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}) an einem Ort organisieren.
+
 ## Der Festivalplaner von SeaTable
 
 Mit dem kostenlosen [Festivalplaner]({{< relref "templates/everyday-life/festival-planner" >}}) von SeaTable können Sie alle Live-Acts übersichtlich nach Tagen und Uhrzeiten ordnen, damit Sie keinen Ihrer Lieblingskünstler verpassen. Egal, ob Sie auf der Suche nach Headlinern oder aufstrebenden Newcomern sind – mit der intuitiven Übersicht behalten Sie stets den Überblick über das gesamte **Festivalprogramm**. Sehen Sie auf einen Blick, welche Acts Ihre Freunde besuchen möchten, und schließen Sie sich zusammen, um gemeinsam die besten Auftritte zu erleben.

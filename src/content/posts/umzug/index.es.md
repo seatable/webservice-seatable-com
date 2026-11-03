@@ -149,6 +149,8 @@ Quien se muda por motivos privados no puede deducir fiscalmente los gastos de mu
 
 Una mudanza por motivos médicos cuenta como carga extraordinaria. También puede hacerla valer en su declaración de la renta, pero solo con justificantes detallados de su situación de salud.
 
+Una mudanza de oficinas en una empresa es un proyecto en sí mismo, con muchas tareas y plazos. Nuestra [herramienta de gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) muestra cómo los equipos mantienen el control de estos proyectos.
+
 ## Planificador online para su mudanza
 
 Para que su próxima mudanza sea lo menos estresante posible, el equipo de SeaTable ha creado una plantilla para su plan de mudanza. Puede adaptarla a sus necesidades como desee.

@@ -189,6 +189,8 @@ Die digitale Einkaufsliste / App hilft Ihnen außerdem, die finanziellen Aspekte
 
 {{< template-box id="913bf21e3f934d57b402" >}}
 
+Im Unternehmen wird aus der Einkaufsliste die Beschaffung: Wie sich Bestellungen und Lieferanten organisieren lassen, zeigt unser Beitrag mit [5 Tipps für die Beschaffung im Unternehmen]({{< relref "posts/20250327-beschaffung-unternehmen" >}}).
+
 ## Fazit: Welche Einkaufslisten-App ist die richtige für Sie?
 
 Zusammenfassend lässt sich sagen, dass die Wahl der richtigen Einkaufslisten-App von Ihren Vorlieben und Bedürfnissen abhängt. Obwohl jede der getesteten Anwendungen ihre eigenen Stärken und Schwächen hat, haben sie alle eines gemeinsam – sie erleichtern Ihren Alltag und tragen zu einem stressfreieren Einkauf bei.

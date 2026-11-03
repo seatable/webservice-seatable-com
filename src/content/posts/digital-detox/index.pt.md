@@ -211,6 +211,8 @@ E o melhor: pode utilizar a [SeaTable Cloud]({{< relref "pages/product/seatable-
 
 {{< button label="Registe-se agora gratuitamente" link="/pages/registration" >}}
 
+A concentração também conta no trabalho, sobretudo em teletrabalho: as nossas [dicas para o teletrabalho]({{< relref "posts/homeoffice-tipps" >}}) dão sugestões práticas.
+
 ## Conclusão: hábitos a longo prazo em vez de abstinência a curto prazo
 
 Uma desintoxicação digital não é um desafio a curto prazo, mas sim uma **decisão consciente por mais equilíbrio na vida**. Se fizer pausas digitais com regularidade, reduz a sobrecarga de estímulos, melhora a sua concentração e fortalece a sua saúde mental. Seja através de uma desintoxicação das redes sociais, de umas férias de desintoxicação digital planeadas ou de atividades offline regulares no dia a dia — já pequenas mudanças podem fazer uma grande diferença. As experiências de desintoxicação digital mais valiosas não surgem, na maioria das vezes, através da abdicação total dos meios digitais, mas sim através de uma utilização ponderada e de uma mudança de hábitos.

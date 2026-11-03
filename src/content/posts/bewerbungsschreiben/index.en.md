@@ -212,6 +212,8 @@ Before you send off your application, you should **proofread** it. In addition t
 - Have you worked out your unique personality sufficiently?
 - Can the recruiter assess what added value you bring to the company and whether you identify with the culture?
 
+On the other side of the desk, companies need a clear overview of all applications. How HR teams organize this is shown in [applicant management with SeaTable]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}}).
+
 ## Use a planning tool for your applications
 
 Now nothing stands in the way of writing your next successful application. SeaTable has created an [online application planner]({{< relref "templates/everyday-life/application-cover-letter" >}}) for you so that you don't lose track of your documents even if you have several applications. This will help you to plan your next steps, organize your documents and always stay up to date with the application process.

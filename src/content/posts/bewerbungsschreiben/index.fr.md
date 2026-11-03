@@ -212,6 +212,8 @@ Avant d'envoyer votre candidature, vous devez la **relire** une dernière fois. 
 - Avez-vous suffisamment mis en valeur votre personnalité unique ?
 - Le recruteur peut-il évaluer la valeur ajoutée que vous apportez à l'entreprise et si vous vous identifiez à sa culture ?
 
+De l'autre côté du bureau, les entreprises ont besoin d'une vue claire de toutes les candidatures. La [gestion des candidatures avec SeaTable]({{< relref "pages/landing-pages/use-cases/bewerbermanagement" >}}) montre comment les services RH s'organisent.
+
 ## Utilisez un outil de planification pour vos candidatures
 
 Plus rien ne s'oppose à la rédaction de votre prochaine candidature réussie. Pour que vous ne perdiez pas de vue vos documents, même avec plusieurs candidatures, SeaTable a créé pour vous un [planificateur de candidatures en ligne]({{< relref "templates/everyday-life/application-cover-letter" >}}). Il vous aide à planifier vos prochaines étapes, à classer vos documents et à rester à jour dans le processus de candidature.

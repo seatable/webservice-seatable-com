@@ -149,6 +149,8 @@ Cuando faltan pocos días para su celebración, es el momento de hacer una últi
 
 ¿Todavía necesita ponerse al día en ciertas áreas? No hay problema. Muchas cosas pueden solucionarse incluso unos días antes de la fiesta. ¿Ha repasado todos los puntos y no ha encontrado más [tareas pendientes]({{< relref "templates/projects/to-do-list" >}})? Entonces todo está perfectamente preparado para su fiesta y no nos queda más remedio que desearle una celebración de cumpleaños inolvidable.
 
+Los mismos pasos también ayudan en las celebraciones de empresa: nuestro artículo sobre la [fiesta de Navidad de empresa]({{< relref "posts/weihnachtsfeier" >}}) muestra cómo organizar un evento corporativo de éxito.
+
 ## Conclusión:
 
 Planificar y organizar una fiesta de cumpleaños -lo que a muchos les parece un juego de niños, a menudo resulta ser un proceso largo y laborioso por experiencia propia. Al fin y al cabo, si quiere organizar una fiesta única e inolvidable, tiene que ocuparse de todos los preparativos importantes lo antes posible. Con todo el estrés, puede ocurrir rápidamente que olvide a una persona importante durante la planificación, pida muy poca comida y bebida o pierda de vista el presupuesto disponible.

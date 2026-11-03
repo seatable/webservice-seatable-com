@@ -158,6 +158,8 @@ In the stressful day-to-day reality of caregiving, take advantage of the fact th
 
 Especially when it comes to a sensitive topic like private care documentation, **strong data protection** is crucial. With [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data is securely stored on certified servers operated by the Swiss company Exoscale in Germany.
 
+Professional care services also depend on good documentation. How one care service digitized its processes is shown in our customer story [KD Cura: digital pioneering in the care service]({{< relref "posts/kd-cura-pflegedienst" >}}).
+
 ## Conclusion: Apply for the appropriate care level with structure and peace of mind
 
 A care diary is a crucial tool for transparently documenting actual care needs and securing approval for the correct care level. Family caregivers who are already at their limit benefit especially from a digital solution like SeaTable, which makes documentation, analysis, and preparation for the next assessment appointment as easy as possible. Instead of getting lost in a sea of paperwork, structured, digital care journals provide transparency and generate traceable, analyzable data—saving caregivers both time and stress.

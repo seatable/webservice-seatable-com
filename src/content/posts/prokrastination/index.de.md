@@ -181,6 +181,8 @@ submit4="Vorlage nutzen" >}}
 - [Vorlage für ein flexibles Kanban-Board]({{< relref "templates/projects/kanban-board" >}})
 - [Vorlage für einen gut organisierten Putzplan]({{< relref "templates/everyday-life/cleaning-plan" >}})
 
+Klare Prioritäten helfen auch Teams: Wie Aufgaben im Team verteilt und geplant werden, zeigt unser Beitrag zur [Aufgabenverwaltung]({{< relref "posts/aufgabenverwaltung" >}}).
+
 ## Fazit: Mit der richtigen Struktur nachhaltig Prokrastination überwinden
 
 Prokrastination überwinden Sie selten, indem Sie sich viel vornehmen und eine Aufgabe perfekt erledigen wollen. Dadurch setzen Sie sich unnötig unter Druck, schüren Versagensängste und Selbstvorwürfe. Wirksamer ist es, Ihre Aufgaben zu priorisieren, in kleinere Teilaufgaben zu zerlegen und in festen Zeitblöcken zu bearbeiten, um die Einstiegshürde zu senken und [Routinen zu etablieren]({{< relref "posts/habit-tracker" >}}). Versuchen Sie außerdem Ablenkungsquellen bewusst zu beseitigen, um Ersatzhandlungen zu vermeiden. Am besten motivieren Sie sich, indem Sie klein anfangen, Ihre Fortschritte sichtbar machen und Ihre Ziele vor Augen behalten. Auch digitale Tools können Ihnen dabei helfen.

@@ -154,6 +154,8 @@ Gerade wenn Sie mehrere Adventskalender selber machen, kann es schnell chaotisch
 
 Selbst wenn Sie ein Dutzend private Adventskalender befüllen, verlieren Sie durch die verschiedenen Ansichten, die nach Personen geordnet sind, nie den Überblick (Tabelle 2 & 3).
 
+Ein Adventskalender ist auch für das Team oder für Kunden eine schöne Geste. Weitere Ideen für den geschäftlichen Rahmen bietet unser Beitrag zu [Weihnachtsgeschenken für Mitarbeiter und Kunden]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Ihr virtueller Adventskalender zum Teilen
 
 Nachhaltig und zugleich kreativ ist ein **digitaler Adventskalender**. Möchten Sie jemandem eine Freude machen, der weit weg wohnt, ist diese Alternative das Richtige für Sie. Als digitale Botschaften können Sie Bilder, Videos oder Texte verschicken. Außerdem eignet sich ein solcher Kalender auch für eine größere Gruppe von Menschen, da die Inhalte leicht zu vervielfältigen sind.

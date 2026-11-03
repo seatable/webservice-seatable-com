@@ -149,6 +149,8 @@ Faltando poucos dias para a festa, faça uma checagem final. Você pensou em tud
 
 Faltou algo? Sem problemas! Muitas coisas podem ser resolvidas até poucos dias antes. Se tudo estiver pronto e não houver mais [tarefas pendentes]({{< relref "templates/projects/to-do-list" >}}), então está tudo certo para sua festa – só nos resta desejar uma comemoração inesquecível!
 
+Os mesmos passos também ajudam nas celebrações na empresa: o nosso artigo sobre a [festa de Natal da empresa]({{< relref "posts/weihnachtsfeier" >}}) mostra como organizar um evento empresarial bem-sucedido.
+
 ## Conclusão
 
 Organizar e planejar uma festa de aniversário – o que para muitos parece fácil, na prática pode ser um processo demorado e trabalhoso. Quem quer uma festa única e inesquecível precisa cuidar de todos os detalhes com antecedência. Com tanta coisa para fazer, é fácil esquecer alguém, pedir pouca comida e bebida ou perder o controle do orçamento.

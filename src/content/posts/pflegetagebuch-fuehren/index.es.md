@@ -159,6 +159,8 @@ Aproveche, en el ajetreado día a día de los cuidados, que SeaTable ofrece much
 
 Precisamente en un tema tan delicado como la documentación privada sobre cuidados, es importante contar con un **alto nivel de protección de datos**. Con [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), sus datos se almacenan de forma segura en servidores certificados de la empresa suiza Exoscale, ubicados en Alemania.
 
+Los servicios de asistencia profesionales también dependen de una buena documentación. Nuestro caso de cliente [KD Cura: pionero digital en el servicio de asistencia]({{< relref "posts/kd-cura-pflegedienst" >}}) muestra cómo un servicio de asistencia digitalizó sus procesos.
+
 ## Conclusión: solicitar el grado de dependencia adecuado con organización y serenidad
 
 Un diario de cuidados es una herramienta fundamental para documentar de forma transparente las necesidades reales de cuidados y conseguir que se conceda el grado de dependencia adecuado. Quienes, como familiares cuidadores, ya se encuentran al límite de sus fuerzas, se benefician especialmente de una solución digital como SeaTable, que simplifica al máximo la documentación, el análisis y la preparación para la próxima cita de evaluación. En lugar de perderse en el caos del papeleo, los diarios de cuidados digitales y estructurados aportan transparencia y datos comprensibles y analizables, lo que ahorra tiempo y evita el estrés a los familiares cuidadores.

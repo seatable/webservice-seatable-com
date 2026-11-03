@@ -146,6 +146,8 @@ O [plano de escrita]({{< relref "templates/projects/writing-plan" >}}) do SeaTab
 
 {{< template-box id="f4d05c56e13e4dd1bb57" >}}
 
+Planear conteúdos também faz parte do dia a dia das equipas de marketing: o nosso artigo sobre o [plano editorial]({{< relref "posts/redaktionsplan-contentplan" >}}) mostra como organizar temas, prazos e responsabilidades.
+
 ## Conclusão: é assim que pode escrever o seu livro
 
 As ferramentas de software para autores aqui apresentadas oferecem uma variedade de funções e possibilidades para o apoiar em todas as fases do processo de escrita. Em última análise, a escolha do software certo depende das suas necessidades e preferências individuais ao escrever um livro. Com o programa certo, pode otimizar o seu processo de escrita e concretizar com sucesso as suas visões criativas.

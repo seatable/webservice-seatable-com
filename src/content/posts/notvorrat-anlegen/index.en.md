@@ -101,6 +101,8 @@ In order to keep yourself and your home clean, it is recommended that you also s
 
 Of course, water for washing should not be missing. To make it last longer, you can use **water purification products**.
 
+Companies also need to know what is in stock: how to keep track of equipment and stock levels is explained in our article on [creating an inventory list]({{< relref "posts/inventarliste-erstellen" >}}).
+
 ## Online planner for your emergency stock
 
 So that you are ideally prepared for the next emergency situation, the SeaTable team has created a template for your emergency supplies. You can adapt it to your needs as you wish.

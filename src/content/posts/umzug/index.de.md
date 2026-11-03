@@ -147,6 +147,8 @@ Wer privat umzieht, kann keine Umzugskosten steuerlich absetzen. Ganz ohne Mögl
 
 Als außergewöhnliche Belastung zählt ein Umzug aus medizinischen Gründen. Diesen können Sie auch in der Steuererklärung geltend machen, aber nur mit ausführlichen Nachweisen über Ihre gesundheitliche Situation.
 
+Ein Büroumzug im Unternehmen ist ein eigenes Projekt mit vielen Aufgaben und Fristen. Wie Teams solche Vorhaben im Griff behalten, zeigt unser [Projektmanagement-Tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
+
 ## Online-Planer für Ihren Umzug
 
 Damit Ihr nächster Umzug möglichst stressfrei abläuft, hat das Team von SeaTable eine Vorlage für Ihren Umzugsplan erstellt. Diesen können Sie nach Belieben an Ihre Bedürfnisse anpassen.

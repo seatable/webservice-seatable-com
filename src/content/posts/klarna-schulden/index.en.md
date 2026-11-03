@@ -89,6 +89,8 @@ It is also advisable not to be overly influenced by advertising promises and tem
 
 Klarna itself also offers the option of setting budgets to keep your spending under control. Alternatively, you can choose not to pay in installments and only pay **in advance** or by **instant bank transfer** to ensure that you only spend money that you already have.
 
+Seen from the company side, open payments are a matter for accounts receivable: our article on [accounts receivable accounting]({{< relref "posts/debitorenbuchhaltung" >}}) shows how companies keep track of outstanding invoices.
+
 ## Budget book from SeaTable
 
 A well-structured [budget book]({{< relref "posts/haushaltsbuch-fuehren" >}}) is extremely useful for recording and analyzing your expenses in detail. SeaTable offers a [free template]({{< relref "templates/everyday-life/budget-book" >}}) that allows you to keep your financial affairs under control without losing **track**.

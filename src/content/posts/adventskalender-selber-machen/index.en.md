@@ -156,6 +156,8 @@ Especially if you make several Advent calendars yourself, things can quickly bec
 
 Even if you fill a dozen private Advent calendars, you will never lose track thanks to the different views, which are organized by person (tables 2 & 3).
 
+An Advent calendar is also a nice gesture for a team or for customers. More ideas for the business context can be found in our article on [Christmas gifts for employees and customers]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Your virtual Advent calendar to share
 
 A **digital Advent calendar** is both sustainable and creative. If you want to make someone happy who lives far away, this alternative is the right choice for you. You can send pictures, videos or texts as digital messages. Such a calendar is also suitable for a larger group of people, as the contents are easy to duplicate.

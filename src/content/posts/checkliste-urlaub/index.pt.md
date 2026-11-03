@@ -210,6 +210,8 @@ Se a sua lista de verificação para as férias for extensa, pode ser um desafio
 
 Utilize tamanhos de viagem para os produtos de higiene pessoal para poupar espaço e respeitar as restrições de líquidos nos voos.
 
+Antes da viagem vem o pedido de férias: o nosso artigo sobre o [planeamento de férias para os RH]({{< relref "posts/20250324-urlaubsplanung" >}}) explica como as empresas planeiam as férias da equipa de forma justa e transparente.
+
 ## Conclusão: Férias descontraídas com a sua lista de controlo
 
 Quer tenha feito as malas à última hora no passado ou tenha planeado tudo com antecedência, no futuro poderá começar as suas férias sem stress desnecessário e com todos os elementos essenciais na sua bagagem. O [modelo gratuito]({{< relref "templates/everyday-life/travel-planner" >}}) da SeaTable irá poupar-lhe tempo valioso e tornar os preparativos para as suas próximas férias eficientes e sem stress.

@@ -210,6 +210,8 @@ Si votre check-list pour les vacances est longue, cela peut être un défi de to
 
 Utilisez des formats de voyage pour les produits d'hygiène afin de gagner de la place et de respecter les restrictions de liquides en vol.
 
+Avant le voyage vient la demande de congé : notre article sur la [planification des congés pour les RH]({{< relref "posts/20250324-urlaubsplanung" >}}) explique comment les entreprises planifient les congés de leur équipe de manière équitable et transparente.
+
 ## Conclusion : partir en vacances en toute sérénité avec votre check-list
 
 Que vous ayez fait vos valises à la dernière minute par le passé ou que vous ayez toujours planifié à l'avance, vous pourrez désormais partir en vacances sans stress inutile et avec tous les éléments essentiels dans vos bagages. Le [modèle gratuit]({{< relref "templates/everyday-life/travel-planner" >}}) de SeaTable vous fera gagner un temps précieux et vous permettra de préparer efficacement et sans stress vos vacances à venir.

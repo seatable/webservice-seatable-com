@@ -81,6 +81,8 @@ Combine la tediosa limpieza con escuchar música o ver series. Con un poco de di
 
 Pero asegúrese de no distraerse demasiado: la limpieza debe seguir siendo su ocupación principal. O aproveche la presencia de sus compañeros de piso y hagan juntos las tareas más agotadoras. Otra opción es adoptar un enfoque lúdico. Por ejemplo, puede introducir recompensas o castigos para animar a sus compañeros de piso a dar lo mejor de sí mismos.
 
+Quién hace qué y cuándo también es una cuestión clave en la empresa: nuestro artículo sobre la [planificación del personal]({{< relref "posts/personalplanung" >}}) ofrece consejos para turnos y asignación de personal.
+
 ## Plan de limpieza online de SeaTable
 
 Hay mucho que planificar cuando se trata de las tareas domésticas, sobre todo si quiere implicar a varias personas. Para que no pierda la visión de conjunto, el equipo de SeaTable ha creado para usted una [plantilla de plan de limpieza]({{< relref "templates/everyday-life/cleaning-plan" >}}). Puede adaptarla a sus necesidades como desee. Por ejemplo, asignando claramente cada tarea a una persona responsable, podrá ver de un vistazo qué tareas tienen que hacer usted y sus compañeros de piso y si están repartidas equitativamente.

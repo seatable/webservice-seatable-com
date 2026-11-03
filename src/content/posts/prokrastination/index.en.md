@@ -181,6 +181,8 @@ submit4="Use template" >}}
 - [Template for a flexible Kanban board]({{< relref "templates/projects/kanban-board" >}})
 - [Template for a well-organized cleaning schedule]({{< relref "templates/everyday-life/cleaning-plan" >}})
 
+Clear priorities also help teams: our article on [task management]({{< relref "posts/aufgabenverwaltung" >}}) shows how tasks are distributed and planned in a team.
+
 ## Conclusion: overcoming procrastination sustainably with the right structure
 
 You will rarely overcome procrastination by taking on a lot and wanting to complete a task perfectly. This puts you under unnecessary pressure and fuels fears of failure and self-reproach. It is more effective to prioritize your tasks, break them down into smaller subtasks and work on them in fixed time blocks, in order to lower the barrier to getting started and [establish routines]({{< relref "posts/habit-tracker" >}}). Also try to deliberately eliminate sources of distraction in order to avoid substitute activities. The best way to motivate yourself is to start small, make your progress visible and keep your goals in mind. Digital tools can help you with this too.

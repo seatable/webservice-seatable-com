@@ -146,6 +146,8 @@ Le [plan d’écriture]({{< relref "templates/projects/writing-plan" >}}) de Sea
 
 {{< template-box id="f4d05c56e13e4dd1bb57" >}}
 
+Planifier des contenus fait aussi partie du quotidien des équipes marketing : notre article sur le [plan éditorial]({{< relref "posts/redaktionsplan-contentplan" >}}) montre comment organiser sujets, échéances et responsabilités.
+
 ## Conclusion : Comment écrire votre livre
 
 Les outils logiciels de création présentés ici offrent une variété de fonctionnalités et de capacités pour vous aider à chaque étape du processus d’écriture. En fin de compte, le choix du bon logiciel dépend de vos besoins et de vos préférences personnels lorsque vous écrivez un livre. Avec le bon programme, vous pouvez rationaliser votre processus d’écriture et réaliser avec succès vos visions créatives.

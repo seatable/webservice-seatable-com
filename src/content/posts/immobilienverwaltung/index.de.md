@@ -61,6 +61,8 @@ Die Suche nach einer neuen Wohnung ist bekanntermaßen vor allem in Ballungsgebi
 
 Mit unserer [Vorlage zur Wohnungssuche]({{< relref "templates/everyday-life/apartment-hunting" >}}) können Sie alle Informationen, Daten und Dokumente zu den Wohnungen einfach und strukturiert erfassen. Speichern Sie Fotos, Grundrisse, Wohnfläche, Mietpreis und alles, was Ihnen sonst noch während der Besichtigung der Immobilien aufgefallen ist, in einer übersichtlichen Tabelle. Vergeben Sie eine Bewertung und treffen Sie leichter, sicherer und schneller die richtige Entscheidung.
 
+Für Vermieter und Hausverwaltungen mit mehreren Objekten zeigt unser Beitrag zur [professionellen Hausverwaltung]({{< relref "posts/hausverwaltung" >}}), wie sich Mieter, Verträge und Instandhaltung übersichtlich verwalten lassen.
+
 ## Starten Sie mit der Planung Ihres nächsten Umzugs
 
 ![Ihr nächster Umzug wird mit SeaTable zum Kinderspiel](umzugsliste-seatable-immobilien.png)

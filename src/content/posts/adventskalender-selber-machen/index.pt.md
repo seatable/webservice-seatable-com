@@ -156,6 +156,8 @@ Quando faz vários calendários do Advento, tudo pode rapidamente tornar-se caó
 
 Mesmo que encha uma dúzia de calendários do Advento privados, nunca perderá a visão geral graças às diferentes vistas, organizadas por pessoa (tabelas 2 e 3).
 
+Um calendário do Advento é também um bonito gesto para uma equipa ou para clientes. Mais ideias para o contexto profissional no nosso artigo sobre [prendas de Natal para colaboradores e clientes]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## O seu calendário do Advento virtual para partilhar
 
 Um **calendário do Advento digital** é simultaneamente sustentável e criativo. Se quer alegrar alguém que vive longe, esta alternativa é a indicada para si. Pode enviar imagens, vídeos ou textos como mensagens digitais. Além disso, um calendário deste tipo também é adequado para um grupo maior de pessoas, uma vez que o conteúdo é fácil de duplicar.

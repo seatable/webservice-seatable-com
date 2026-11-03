@@ -154,6 +154,8 @@ Los malos hábitos, como el consumo habitual de **alcohol, cigarrillos o café**
 
 Al mismo tiempo, puede establecer hábitos positivos: Por ejemplo, beber agua en lugar de **bebidas energéticas** caras es bueno para la salud. Su libro de presupuesto se alegrará, sobre todo si renuncia al agua embotellada y utiliza **agua del grifo** en su lugar.
 
+Lo que funciona en el presupuesto doméstico también funciona a mayor escala: nuestra página sobre cómo [crear un plan financiero]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) muestra cómo las empresas controlan sus ingresos y costes.
+
 ## Su libro de presupuesto perfecto con SeaTable
 
 Como puede ver: Controlar sus gastos y costes de vida sólo tiene ventajas. Con un libro de presupuesto, siempre tendrá el control y sabrá exactamente a dónde ha ido a parar su dinero. SeaTable se adapta a sus necesidades. Si actualmente utiliza Excel para su libro de presupuesto, puede simplemente importar sus tablas a SeaTable. Puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y probar SeaTable.

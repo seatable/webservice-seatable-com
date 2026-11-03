@@ -149,6 +149,8 @@ Once your celebration is just a few days away, it's time for a final check. Have
 
 Do you still need to catch up in certain areas? No problem! Many things can be taken care of even a few days before your party. You have gone through all the points and have not found any outstanding [to-dos]({{< relref "templates/projects/to-do-list" >}})? Then everything is well prepared for your party and we have no choice but to wish you an unforgettable birthday celebration!
 
+The same steps help with celebrations at work: our article on the [company Christmas party]({{< relref "posts/weihnachtsfeier" >}}) shows how to organize a successful company event.
+
 ## Conclusion
 
 Planning and organizing a birthday party - what sounds like child's play to many, often turns out to be a lengthy and laborious process from personal experience. After all, if you want to throw a unique and unforgettable party, you need to take care of all the important preparations as early as possible. With all the stress, it can quickly happen that you forget an important person during the planning, order too little food and drinks or lose sight of your available budget.

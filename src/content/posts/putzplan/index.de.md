@@ -79,6 +79,8 @@ Verbinden Sie das lästige Saubermachen mit Musik hören oder Serien schauen. Mi
 
 Achten Sie aber darauf, dass Sie sich nicht zu sehr ablenken lassen – das Putzen sollte immer noch Ihre Hauptbeschäftigung sein. Oder nutzen Sie die Anwesenheit Ihrer Mitbewohner und erledigen Sie besonders anstrengende Aufgaben gemeinsam. Eine andere Möglichkeit ist, das Ganze spielerisch zu betrachten. Beispielsweise können Sie Belohnungen oder Strafen einführen, um Ihre Mitbewohner zu Höchstleistungen anzutreiben.
 
+Wer wann was übernimmt, ist auch im Unternehmen eine zentrale Frage: Tipps für Dienstpläne und Personaleinsatz bietet unser Beitrag zur [Personalplanung]({{< relref "posts/personalplanung" >}}).
+
 ## Online-Putzplan von SeaTable
 
 Bei der Hausarbeit gibt es viel zu planen, besonders wenn Sie mehrere Personen in die Aufgaben einbinden möchten. Um dabei nicht den Überblick zu verlieren, hat das Team von SeaTable Ihnen eine [Putzplan-Vorlage]({{< relref "templates/everyday-life/cleaning-plan" >}}) erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Indem Sie Aufgaben klar einem Verantwortlichen zuteilen, sehen Sie beispielsweise auf einen Blick, welche Aufgaben Sie und Ihre Mitbewohner zu erledigen haben und ob diese gerecht verteilt sind.

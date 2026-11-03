@@ -157,6 +157,8 @@ Sobre todo si hace varios calendarios de Adviento, todo puede volverse rápidame
 
 Aunque rellene una docena de calendarios de Adviento privados, nunca perderá la visión de conjunto gracias a las distintas vistas, organizadas por persona (tablas 2 y 3).
 
+Un calendario de Adviento también es un bonito detalle para un equipo o para los clientes. Más ideas para el ámbito profesional en nuestro artículo sobre [regalos de Navidad para empleados y clientes]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Su calendario de Adviento virtual para compartir
 
 Un **calendario de Adviento digital** es sostenible y, al mismo tiempo, creativo. Si quiere alegrar a alguien que vive lejos, esta alternativa es la adecuada para usted. Como mensajes digitales puede enviar imágenes, vídeos o textos. Además, un calendario de este tipo también es apto para un grupo grande de personas, ya que los contenidos son fáciles de duplicar.
