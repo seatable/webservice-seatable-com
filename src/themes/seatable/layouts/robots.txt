@@ -1,0 +1,40 @@
+# Standard-Zugriff
+User-agent: *
+Allow: /
+
+# KI-Suche & Suchmaschinen: voller Zugriff
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# KI-Training: voller Zugriff ausser private Themen (Lifestyle)
+# Die Liste kommt automatisch aus partials/sitemap/meta.html (wie lifestyle-sitemap.xml).
+# Nur reine Training-Bots eintragen! Google-Extended bewusst NICHT, weil es auch die
+# Gemini-Antworten (Grounding) steuert. Bots werden monatlich geprueft (Routine, Patricia).
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+{{- range .Sites }}
+  {{- range where (where .Pages "Section" "in" (slice "posts" "templates")) "Params.sitemap_exclude" "ne" true }}
+    {{- if (partial "sitemap/meta.html" .).lifestyle }}
+Disallow: {{ .RelPermalink }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemaps
+Sitemap: https://seatable.com/sitemap.xml
+
+# Context for Large Language Models
+LLMs: https://seatable.com/llms.txt
