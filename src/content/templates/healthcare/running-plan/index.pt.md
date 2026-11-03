@@ -3,7 +3,9 @@ title: 'Plano de treino de corrida'
 description: 'Com o nosso modelo gratuito para um horário flexível, poderá dar estrutura e motivação ao seu treino de corrida diretamente no SeaTable.'
 date: '2026-09-22'
 lastmod: '2026-09-22'
-url: '/modelo/modelo-de-plano-de-treino-de-corrida'
+url: '/pt/modelo/modelo-de-plano-de-treino-de-corrida'
+aliases:
+  - '/modelo/modelo-de-plano-de-treino-de-corrida'
 category: 'healthcare'
 functions:
 seo:

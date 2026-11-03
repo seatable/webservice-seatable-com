@@ -3,7 +3,9 @@ title: 'Plan de entrenamiento de carrera'
 description: 'Con nuestra plantilla gratuita para un horario flexible, podrá aportar estructura y motivación a su entrenamiento de running directamente en SeaTable.'
 date: '2026-09-22'
 lastmod: '2026-09-22'
-url: '/plantilla/plantilla-de-plan-de-entrenamiento-de-carrera'
+url: '/es/plantilla/plantilla-de-plan-de-entrenamiento-de-carrera'
+aliases:
+  - '/plantilla/plantilla-de-plan-de-entrenamiento-de-carrera'
 category: 'healthcare'
 functions:
 seo:

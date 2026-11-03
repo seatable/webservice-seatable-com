@@ -3,7 +3,9 @@ title: 'План тренировок по бегу'
 description: 'С помощью нашего бесплатного шаблона для составления гибкого графика вы сможете придать структуру и мотивацию своим тренировкам по бегу прямо в SeaTable.'
 date: '2026-09-22'
 lastmod: '2026-09-22'
-url: '/shablon/shablon-plan-trenirovok-po-begu'
+url: '/ru/shablon/shablon-plan-trenirovok-po-begu'
+aliases:
+  - '/shablon/shablon-plan-trenirovok-po-begu'
 category: 'healthcare'
 functions:
 seo:
