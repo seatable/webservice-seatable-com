@@ -11,7 +11,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Education'
+    - 'Everyday Life & Leisure'
 color: '#f1c449'
 register:
    show: true
