@@ -49,9 +49,9 @@ Em seguida, passamos às colunas da tabela para que a nossa base possa registar 
 >
 > Formato: qualquer
 >
-> Ao minuto: `Yes`
+> Preciso a minuto: ativado
 
-**Nota:** Em vez do tipo de coluna `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` o tipo de coluna `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` pode ser utilizado. Enquanto a coluna da data tem de ser preenchida manualmente, esta seria preenchida automaticamente com a data atual. É claro que isso economiza tempo. No entanto, a desvantagem seria que não seria mais possível modificar o valor da data e, por exemplo, não seria mais possível entrar retroativamente despesas de outros dias.
+**Nota:** Em vez do tipo de coluna `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` o tipo de coluna `{{< seatable-icon icon="dtable-icon-creation-time" >}} Tempo criado` pode ser utilizado. Enquanto a coluna da data tem de ser preenchida manualmente, esta seria preenchida automaticamente com a data atual. É claro que isso economiza tempo. No entanto, a desvantagem seria que não seria mais possível modificar o valor da data e, por exemplo, não seria mais possível entrar retroativamente despesas de outros dias.
 
 ---
 
@@ -59,7 +59,7 @@ Em seguida, passamos às colunas da tabela para que a nossa base possa registar 
 
 > Nome: `Amount`
 >
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-number" >}} Número`
 >
 > Formato: `Euro`
 
@@ -69,7 +69,7 @@ Em seguida, passamos às colunas da tabela para que a nossa base possa registar 
 
 > Nome: `Category`
 >
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Selecionar único`
 
 ---
 
@@ -99,9 +99,9 @@ Este foi o passo 1 deste curso online. Desloque-se até ao fim deste artigo e sa
 ## Artigo de ajuda com mais informações
 
 - [Criar uma nova base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Como ajustar o tipo de coluna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
-- [Apagar uma linha]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Adicionar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Acrescentar opções a uma coluna de selecção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
-- [Caraterísticas especiais da primeira coluna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
+- [Como personalizar o tipo de coluna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
+- [Apagar várias linhas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#apagar-várias-linhas" >}})
+- [Acrescentar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
+- [Adicione opções de seleção]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte#adicione-opções-de-seleção" >}})
+- [As características especiais da primeira coluna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Personalizar a aparência de uma base (ícone e cor)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

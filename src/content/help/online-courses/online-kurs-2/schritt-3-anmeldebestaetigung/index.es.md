@@ -49,17 +49,17 @@ Los correos electrónicos no se envían realmente, sino que aparecen en su buzó
 
 Ahora podemos ver en la tabla `Registrations` para crear una nueva columna para enviar correos electrónicos. Utilice la siguiente configuración:
 
-> Nombre: any
+> Nombre: cualquiera
 >
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-button" >}} Botón`
 >
 > Etiqueta: `Send`
 >
-> Acción: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+> Acción: `{{< seatable-icon icon="dtable-icon-email" >}} Enviar email`
 >
 > Asunto: `Confirmation: Course {Registered for}`
 >
-> Beneficiario: `customer@example.com`
+> Destinatario: `customer@example.com`
 
 ![Tabla de SeaTable con columna de botón «Send» para enviar correos a participantes](images/lvl2-create-button.png)
 
@@ -78,7 +78,7 @@ Puede utilizar la siguiente plantilla de texto para el texto del mensaje:
 >
 > Best regards
 
-En el editor de texto simple, los marcadores de posición entre llaves se sustituyen automáticamente. Si utiliza el editor de texto enriquecido, debe reemplazar los marcadores de posición manualmente utilizando la función `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` insertar.
+En el editor de texto simple, los marcadores de posición entre llaves se sustituyen automáticamente. Si utiliza el editor de texto enriquecido, debe reemplazar los marcadores de posición manualmente utilizando la función `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insertar columna`.`
 
 ![Editor de texto enriquecido de SeaTable con marcadores para curso y fecha](images/lvl2-rich-text-editor.png)
 
@@ -90,8 +90,8 @@ A continuación, haga clic en el botón y compruebe si el correo electrónico ap
 
 ## Artículo de ayuda con más información
 
-- [Crear una cuenta de correo electrónico en una base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Configurar una cuenta de correo electrónico en una Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
 - [Configurar Gmail para enviar correos electrónicos a través de SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [El botón]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
-- [Enviar un correo electrónico mediante un botón]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [Correo electrónico automatizado]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Enviar un correo electrónico por botón]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
+- [Envío automatizado de correos electrónicos]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

@@ -117,7 +117,7 @@ Reserve tempo suficiente para explorar a base em pormenor. Se ainda não estiver
 
 ## Artigo de ajuda com mais informações
 
-- [Criação de uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Noções básicas das fórmulas SeaTable]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
-- [Marcação a cores das linhas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
-- [Vistas de bloqueio]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [Criar uma base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [A coluna de fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
+- [Marcação a cores das filas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
+- [Bloquear vistas]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

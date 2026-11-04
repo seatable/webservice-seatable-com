@@ -37,6 +37,6 @@ SeaTable предлагает широкий спектр возможносте
 
 ## Справочная статья с дополнительной информацией
 
-- [Удалить строки]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Импорт и экспорт данных в SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Удаление нескольких строк]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#удаление-нескольких-строк" >}})
+- [Импорт и экспорт данных]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 - [Какие форматы импорта поддерживает SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

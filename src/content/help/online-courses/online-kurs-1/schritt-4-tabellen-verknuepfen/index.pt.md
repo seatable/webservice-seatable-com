@@ -40,7 +40,7 @@ Para podermos criar ligações, precisamos de uma segunda tabela, que vamos cria
 
 4. Voltar à tabela `Expenses`.
 
-5. Insira outra coluna. Dar à nova coluna o nome `Category-Link` e selecionar o tipo de coluna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` desligado. A coluna liga ao quadro `Categories`.  
+5. Insira outra coluna. Dar à nova coluna o nome `Category-Link` e selecionar o tipo de coluna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link para outros registros` A coluna liga ao quadro `Categories`.  
    ![Janela para criar a coluna de ligação «Category-Link» para a tabela «Categories»](images/level1-create-link-column.png)
 
 ## Ligação de linhas entre as duas tabelas
@@ -54,20 +54,20 @@ Existem agora duas opções para ligar os registos de dados em ambas as tabelas:
 
 ### Ligar células por operação de processamento de dados
 
-Para isso, criar uma nova operação de processamento de dados com o nome `Assign Category` e selecionar o tipo de operação `Auto add link` de.
+Para isso, criar uma nova operação de processamento de dados com o nome `Assign Category` e selecionar o tipo de operação `Adicionar ligações automaticamente`
 
 Também é necessário efetuar as seguintes definições para que o SeaTable saiba como pretende ligar os seus dados:
 
-- Tabela: `Expenses`
+- Mesa: `Expenses`
 - Outra tabela: `Categories`
 - Se coluna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Coluna: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
 ![Operação de processamento «Assign Category» com tipo «Auto add link» e campos configurados](images/level1-auto-add-link.png)
 
-Clique em Executar para efetuar a operação. Verá que todas as linhas da tabela `Expenses` com uma linha do quadro `Categories` estavam ligados.
+Clique em `Correr` para efetuar a operação. Verá que todas as linhas da tabela `Expenses` com uma linha do quadro `Categories` estavam ligados.
 
-{{< warning  headline="Quando faltam ligações"  text="Se algumas linhas não tiverem uma ligação após a operação de processamento de dados, é provável que tenha havido um erro de digitação nas quatro entradas da tabela `Categories`. Corrigir o erro de digitação e executar novamente a operação de processamento de dados." />}}
+{{< warning  headline="Quando faltam ligações"  text="Se algumas linhas não tiverem uma ligação após a operação de processamento de dados, é provável que tenha havido um erro de digitação nas quatro entradas da tabela Categories. Corrigir o erro de digitação e executar novamente a operação de processamento de dados." />}}
 
 ## Remover a coluna desnecessária
 
@@ -84,6 +84,6 @@ Porque não experimenta a coluna recentemente adicionada `Category-Link` para o 
 
 ## Artigo de ajuda com mais informações
 
-- [Adicionar uma tabela a uma base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Como ligar as tabelas em SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
-- [Processamento de dados Comparar e ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
+- [Adicionar uma tabela numa base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
+- [Para ligar duas tabelas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#para-ligar-duas-tabelas" >}})
+- [Processamento de dados: Comparar e Ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
