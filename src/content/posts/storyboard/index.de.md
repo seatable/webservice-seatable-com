@@ -6,7 +6,7 @@ lastmod: '2024-03-26'
 author: 'nsc'
 url: '/de/storyboard'
 seo:
-    title: 'Storyboard erstellen: Anleitung, Tipps & kostenlose Vorlag'
+    title: 'Storyboard erstellen: Anleitung, Tipps & kostenlose Vorlage'
     description: 'Lernen Sie, wie Sie ein Storyboard erstellen. Schritt-für-Schritt-Anleitung von der Idee zum Drehplan inkl. kostenloser SeaTable-Vorlage'
 categories:
     - 'best-practice'
@@ -24,13 +24,11 @@ Bevor ein Film gedreht wird, muss er zunächst gut geplant werden.
 
 ## Was ist ein Storyboard?
 
-Als Storyboard bezeichnet man die **grafische Darstellung** oder **Skizze** einer Geschichte. Nutzen können Sie es überall dort, wo **Filme**, **Animationen**, **Werbevideos** oder andere **visuelle Medien** ins Spiel kommen. Mithilfe einer Aneinanderreihung von Bildern oder Zeichnungen, die Schlüsselszenen oder Handlungselemente zeigen, können Sie eine Erzählung auf visueller Ebene planen, bevor Sie mit der eigentlichen Produktion beginnen. 
+Als Storyboard bezeichnet man die **grafische Darstellung** oder **Skizze** einer Geschichte. Nutzen können Sie es überall dort, wo **Filme**, **Animationen**, **Werbevideos** oder andere **visuelle Medien** ins Spiel kommen. Mithilfe einer Aneinanderreihung von Bildern oder Zeichnungen, die Schlüsselszenen oder Handlungselemente zeigen, können Sie eine Erzählung auf visueller Ebene planen, bevor Sie mit der eigentlichen Produktion beginnen.
 
 Dabei ist es egal, ob Sie Ihr **Storyboard erstellen**, indem Sie klassisch zu Stift und Papier greifen oder moderne Software nutzen – das Ziel bleibt die visuelle Orientierung für das gesamte Team. Die Zeichenstile können dabei erheblich voneinander abweichen: Einige Storyboard-Künstler erstellen äußerst ausgearbeitete Illustrationen, während andere es vorziehen, sich auf einfache Strichmännchen-Zeichnungen zu beschränken.
 
 ![Von Hand gezeichnetes Storyboard](dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
-
-Ein Beispiel für die visuelle Darstellung eines Storyboards
 
 ## Warum Sie für Ihr Video ein Storyboard erstellen sollten
 
@@ -45,13 +43,13 @@ Durch das Storyboard bekommt Ihr Produktionsteam eine klare Vorstellung davon, w
 
 Ein Storyboard hat den bedeutenden Vorteil, dass es **komplexe Handlungsabläufe visualisiert** und dadurch besser verständlich macht. So kann Ihr Produktionsteam die Ideen, die Sie haben, nachvollziehen und genauer umsetzen. Lassen Sie Ihre Kreativität fließen und ergänzen Sie Elemente in Ihren Skizzen, die Sie vorher vielleicht noch gar nicht bedacht haben. Ihre Storyboard Vorlage können Sie im Schaffensprozess immer wieder **verändern und anpassen**, wenn Ihnen spontan etwas einfällt.
 
-Während Sie im Planungsprozess Ihre Geschichte verfeinern und weiter Details hinzufügen, können Sie mithilfe des Storyboards **frühzeitig Fehler erkennen**. Dadurch sparen Sie sich eine Menge Aufwand während der Dreharbeiten und beim Videoschnitt. Bestimmen Sie möglichst viele Einzelheiten wie zum Beispiel das Erzähltempo im Vorfeld, um während der anstrengenden Drehtage einen freien Kopf für das Wesentliche haben.
+Während Sie im Planungsprozess Ihre Geschichte verfeinern und weiter Details hinzufügen, können Sie mithilfe des Storyboards **frühzeitig Fehler erkennen**. Dadurch sparen Sie sich eine Menge Aufwand während der Dreharbeiten und beim Videoschnitt. Bestimmen Sie möglichst viele Einzelheiten wie zum Beispiel das Erzähltempo im Vorfeld, um während der anstrengenden Drehtage einen freien Kopf für das Wesentliche zu haben.
 
 ![Visuelle Planung für einen Film](matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
 
 ## Schritt-für-Schritt-Anleitung: So erstellen Sie ein Storyboard
 
-Um einen Film oder ein Video zu produzieren, ollten Sie diesen bewährten Ablauf befolgen:
+Um einen Film oder ein Video zu produzieren, sollten Sie diesen bewährten Ablauf befolgen:
 
 1. **Die Kernidee:** Denken Sie in erster Linie an den Inhalt, das Ziel und den gewünschten Effekt bei den Zuschauern.
 2. **Das Drehbuch:** Ist Ihre Idee ausgereift, sollten Sie diese **schriftlich fixieren**. Das Drehbuch ist die textliche Basis, bevor Sie das visuelle Storyboard erstellen.
@@ -102,6 +100,8 @@ Mit dem kostenlosen Template von SeaTable können Sie nicht nur problemlos Ihr S
 
 Die Storyboard Vorlage ermöglicht es Ihnen, **Handlung**, **Szenerie**, **Dialoge** und **Kameraeinstellungen** übersichtlich zu planen. Darüber hinaus können Sie mühelos **Charaktere**, **Requisiten** und **Regieanweisungen** hinzufügen, um Ihre Geschichte bis ins kleinste Detail zu durchdenken und festzuhalten.
 
+{{< template-box id="ecbab98c02fa45aa903b" >}}
+
 Wenn Sie das [Storyboard Template]({{< relref "templates/marketing/storyboard" >}}) von SeaTable für Ihr Filmprojekt nutzen möchten, [registrieren Sie sich]({{< relref "pages/registration" >}}) einfach kostenlos mit Ihrer E-Mail-Adresse. So können Sie in kürzester Zeit mit dem Erstellen Ihres individuellen Storyboards beginnen und Ihre Filmprojekte effektiv vorantreiben.
 
 ## FAQ Storyboard erstellen
@@ -113,5 +113,5 @@ Nein. Es geht um die visuelle Kommunikation, nicht um Kunst. Einfache Skizzen, S
 Das Drehbuch ist die schriftliche Form der Geschichte (Dialoge, Handlungsanweisungen). Das Storyboard ist die visuelle Übersetzung dieser Texte in Bilder.
 {{< /faq >}}
 {{< faq "Welche Software eignet sich zum Storyboard erstellen?" >}}
-Neben den herkömmlichen kostenpflichtigen Zeichensoftware eignen sich Datenbank-Tools wie SeaTable hervorragend, um Bilder mit technischen Daten zu verknüpfen.
+Neben herkömmlicher kostenpflichtiger Zeichensoftware eignen sich Datenbank-Tools wie SeaTable hervorragend, um Bilder mit technischen Daten zu verknüpfen.
 {{< /faq >}}

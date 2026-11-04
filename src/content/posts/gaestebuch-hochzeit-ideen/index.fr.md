@@ -191,6 +191,8 @@ Et le meilleur : vous pouvez utiliser la version de base de SeaTable de façon t
 
 {{< button label="Inscrivez-vous gratuitement dès maintenant" link="/pages/registration" >}}
 
+Les listes d'invités et les inscriptions comptent aussi lors des événements professionnels : avec la [planification d'événements dans SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}), les entreprises gardent une vue d'ensemble de tous les participants à leurs événements, conférences et salons.
+
 ## Conclusion : améliorer le livre d'or de mariage grâce à de bonnes idées
 
 Vous pouvez mettre à disposition un livre d'or classique lors du mariage ou opter pour de nouvelles idées et des solutions numériques, selon vos envies. Notre recommandation : prenez le temps de concevoir vous-même la sélection de médias pour le livre d'or. Car pour le livre d'or de mariage, des idées créatives aident à impliquer activement vos invités, à débloquer le syndrome de la page blanche et à recueillir des souvenirs partagés. Qu'il s'agisse d'un puzzle, d'un arbre à vœux, d'un photomaton, d'un livre d'or audio ou vidéo pour le mariage, chaque variante possède son propre charme pour capturer des moments inoubliables. Un livre d'or numérique est le moyen idéal si vous souhaitez recueillir de manière structurée des messages personnels et différents fichiers médias.

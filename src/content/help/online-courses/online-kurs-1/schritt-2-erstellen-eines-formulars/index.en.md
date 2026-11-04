@@ -33,9 +33,9 @@ You will find many additional functions in the header area of your base. Behind 
 
 Your web form is almost ready and can already be used. Nevertheless, there are still three settings that I would recommend. To adjust the settings of an input field, you need to click on the input field in the form, which will immediately display the setting options for this input field on the right-hand side. The setting options vary depending on which input field you click on.
 
-- `Category`: The individual options should be **List** be displayed
-- `Date`: The current day should already be **Default value** be set
-- `Amount`: The entry of this field is mandatory **required**
+- `Category`: choose the `List` display
+- `Date`: set today's date as the `Default value`
+- `Amount`: turn on `Required`
 
 The configuration of the web form is now complete and we can use it to enter the first data records.
 

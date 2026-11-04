@@ -22,6 +22,9 @@ Um die Baum-Ansicht sinnvoll nutzen zu können, benötigen Sie eine Base mit **m
 
 {{< /warning >}}
 
+**In diesem How-to-Video zeigen wir Ihnen in nur wenigen Minuten, wie Sie in SeaTable eine Baum-Ansicht erstellen.**
+{{< youtube OuFqUciTiB4 >}}
+
 ## Funktionsweise der Baum-Ansicht
 
 Bevor Sie eine Baum-Ansicht anlegen, sollten Sie sich überlegen, welche **Baumstruktur** (also Hierarchie verknüpfter Datensätze in Ihrer Base) Sinn ergibt: Bei einem [Projektportfolio]({{< relref "templates/projects/project-portfolio" >}}) könnten dies beispielsweise die Abteilungen auf der ersten Ebene, die Projekte auf der zweiten Ebene und die Aufgaben auf der dritten Ebene sein. Dementsprechend müssen die Abteilungen, Projekte und Aufgaben in drei verschiedenen Tabellen erfasst sein, die miteinander verknüpft sind. Jede Aufgabe ist einem Projekt zugeordnet, das wiederum einer Abteilung untergeordnet ist.

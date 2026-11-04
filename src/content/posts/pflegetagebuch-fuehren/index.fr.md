@@ -160,6 +160,8 @@ Dans le quotidien stressant des soins, profitez du fait que SeaTable offre bien 
 
 Un **niveau élevé de protection des données** est particulièrement important lorsqu’il s’agit d’un sujet sensible tel que la documentation privée relative aux soins. Avec [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), vos données sont stockées en toute sécurité sur des serveurs certifiés de la société suisse Exoscale, situés en Allemagne.
 
+Les services de soins professionnels dépendent eux aussi d'une bonne documentation. Notre témoignage client [KD Cura : pionnier du numérique dans les services de soins]({{< relref "posts/kd-cura-pflegedienst" >}}) montre comment un service de soins a numérisé ses processus.
+
 ## Conclusion : demander le classement GIR approprié avec méthode et sérénité
 
 Un journal de soins est un outil essentiel pour documenter de manière transparente les besoins réels en matière de soins et obtenir l’octroi du niveau de prise en charge approprié. Les proches aidants, qui sont de toute façon déjà à bout, tirent particulièrement profit d’une solution numérique telle que SeaTable, qui simplifie au maximum la documentation, l’analyse et la préparation du prochain rendez-vous d’évaluation. Au lieu de se perdre dans la paperasse, les journaux de soins numériques structurés garantissent la transparence et fournissent des données traçables et exploitables, tout en épargnant du temps et des tracas aux proches aidants.

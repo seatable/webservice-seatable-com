@@ -19,7 +19,7 @@ Mas é claro que seria bom se também pudesse registar outras despesas no seu te
 
 ## Anexo do formulário Web
 
-Encontrará muitas funções adicionais na área do cabeçalho da sua base. Atrás do botão `Forms` O SeaTable oferece-lhe a possibilidade de criar novos formulários Web.
+Encontrará muitas funções adicionais na área do cabeçalho da sua base. Atrás do botão `Formas` O SeaTable oferece-lhe a possibilidade de criar novos formulários Web.
 
 ![Gestão de formulários com botão «Forms» e novo formulário web](images/level1-create-webform.png)
 
@@ -33,9 +33,9 @@ Encontrará muitas funções adicionais na área do cabeçalho da sua base. Atr�
 
 O seu formulário Web está quase pronto e já pode ser utilizado. No entanto, há ainda três definições que eu recomendaria. Para ajustar as definições de um campo de entrada, tem de clicar no campo de entrada no formulário, o que fará aparecer imediatamente as opções de definição para esse campo de entrada no lado direito. As opções de configuração variam consoante o campo de entrada em que se clica.
 
-- `Category`As opções individuais devem ser **Lista** ser exibido
-- `Date`: O dia atual já deve ser **Valor por defeito** ser definido
-- `Amount`: A introdução deste campo é obrigatória **necessário**
+- `Category`: escolha a apresentação `Lista`
+- `Date`: defina a data de hoje como `Valor padrão`
+- `Amount`: ative a opção `Obrigatória`
 
 A configuração do formulário Web está agora concluída e podemos utilizá-lo para introduzir os primeiros registos de dados.
 
@@ -53,6 +53,6 @@ Reserve alguns minutos para explorar as possibilidades adicionais do formulário
 
 ## Artigo de ajuda com mais informações
 
-- [Formulários Web em geral]({{< relref "help/base-editor/webformulare/webformulare" >}})
+- [Formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Criar um formulário web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
 - [Opções de configuração de um formulário web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

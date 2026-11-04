@@ -23,7 +23,7 @@ Así que vamos a empezar este curso online creando la estructura necesaria para 
 
 ## Crear nueva base
 
-Comenzamos en la página de inicio de SeaTable. Creamos una nueva base con el nombre `Expense Tracking` botón . A continuación, haga clic en esta base para ir al Editor de bases.
+Comenzamos en la página de inicio de SeaTable. Cree una nueva base con el nombre `Expense Tracking`. A continuación, haga clic en esta base para ir al Editor de bases.
 
 ## Cambiar el nombre de la primera tabla
 
@@ -49,9 +49,9 @@ A continuación, pasamos a las columnas de la tabla para que nuestra base pueda 
 >
 > Formato: cualquiera
 >
-> Al minuto: `Yes`
+> Precisión hasta el minuto: activado
 
-**Nota:** En lugar del tipo de columna `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` el tipo de columna `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` puede utilizarse. Mientras que tiene que rellenar manualmente la columna de la fecha, ésta se rellenaría automáticamente con la fecha actual. Esto, por supuesto, ahorra tiempo. Sin embargo, la desventaja sería que ya no podría cambiar el valor de la fecha y, por ejemplo, ya no podría introducir retroactivamente gastos de otros días.
+**Nota:** En lugar del tipo de columna `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` el tipo de columna `{{< seatable-icon icon="dtable-icon-creation-time" >}} Fecha y hora de creación` puede utilizarse. Mientras que tiene que rellenar manualmente la columna de la fecha, ésta se rellenaría automáticamente con la fecha actual. Esto, por supuesto, ahorra tiempo. Sin embargo, la desventaja sería que ya no podría cambiar el valor de la fecha y, por ejemplo, ya no podría introducir retroactivamente gastos de otros días.
 
 ---
 
@@ -59,7 +59,7 @@ A continuación, pasamos a las columnas de la tabla para que nuestra base pueda 
 
 > Nombre: `Amount`
 >
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-number" >}} Número`
 >
 > Formato: `Euro`
 
@@ -69,7 +69,7 @@ A continuación, pasamos a las columnas de la tabla para que nuestra base pueda 
 
 > Nombre: `Category`
 >
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Selección única`
 
 ---
 
@@ -100,8 +100,8 @@ Ese fue el paso 1 de este curso en línea. Desplázate hasta el final de este ar
 
 - [Crear una nueva base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Cómo personalizar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
-- [Borrar una línea]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
+- [Borrar varias líneas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#borrar-varias-líneas" >}})
 - [Añadir una columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Añadir opciones a una columna de selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
-- [Particularidades de la primera columna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
-- [Personalizar el aspecto de una base (icono y color)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})
+- [Añadir opciones de selección]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte#añadir-opciones-de-selección" >}})
+- [Las características especiales de la primera columna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
+- [Personalizar la apariencia de una base (icono y color)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

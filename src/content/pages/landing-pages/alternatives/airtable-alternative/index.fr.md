@@ -6,6 +6,8 @@ seo:
     description: 'SeaTable est l''alternative à Airtable venue d''Allemagne : serveurs à Francfort et à Munich, import de vos bases Airtable, également disponible en auto-hébergement. Commencez gratuitement.'
 date: '2025-05-02'
 lastmod: '2026-10-05'
+sitemap:
+    priority: 0.9
 url: '/fr/alternative-airtable/'
 aliases:
   - '/fr/airtable-alternative'

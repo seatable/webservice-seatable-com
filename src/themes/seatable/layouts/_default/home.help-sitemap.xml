@@ -7,31 +7,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
 >
-    {{- $posts := where .Site.Pages "Section" "help" -}}
-
-    {{- range $posts -}}
-        {{- if .Permalink }}
-    <url>
-        <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
-        <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}{{ with .Sitemap.ChangeFreq }}
-        <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
-        <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .Translations }}
-        <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />{{ end }}
-        <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />{{ end }}
-
-    {{ $images := findRE `(?s)<img.+?>` .Content }}
-
-    <!-- Source: https://dariusz.wieckiewicz.org/en/add-and-use-an-image-sitemap-with-hugo/ -->
-    {{- range $images }}
-        <image:image>
-            <image:loc>{{ replaceRE `(?s).*src="(.+?)".*` "$1" . | absURL }}</image:loc>
-        </image:image>
-    {{ end }}
-
-    </url>
-        {{- end -}}
+    {{- range partial "sitemap/pages.html" "help" }}
+        {{- partial "sitemap/url.html" (dict "page" . "changefreq" "monthly" "images" true) }}
     {{- end }}
 </urlset>
 {{- end -}}
 
-{{/* Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/sitemap.xml */}}
+{{/* Entries and priorities: partials/sitemap/ */}}

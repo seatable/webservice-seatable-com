@@ -101,6 +101,8 @@ Para poder manter-se a si e à sua casa limpos, é aconselhável prevenir-se tam
 
 É claro que também não pode faltar água para lavar. Para que dure mais tempo, pode utilizar **produtos para desinfetar a água**.
 
+As empresas também precisam de saber o que têm em stock: o nosso artigo sobre como [criar uma lista de inventário]({{< relref "posts/inventarliste-erstellen" >}}) explica como acompanhar equipamentos e existências.
+
 ## Planeador online para a sua reserva de emergência
 
 Para que esteja idealmente preparado para a próxima situação de emergência, a equipa do SeaTable criou para si um modelo para a sua reserva de emergência. Pode adaptá-lo às suas necessidades como desejar.

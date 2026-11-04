@@ -50,6 +50,4 @@ O registo no Fórum Comunitário é muito fácil. Em [https://forum.seatable.com
 
 Em qualquer caso, recomendamos que se registe no nosso fórum, uma vez que a conclusão bem sucedida do questionário no final deste curso online atribuirá automaticamente o crachá correspondente à sua conta do fórum.
 
----
-
 Já chega de preparação. Vamos finalmente começar. No canto inferior direito, encontrará a ligação para a página seguinte.

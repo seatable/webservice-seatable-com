@@ -38,7 +38,7 @@ Um überhaupt Verknüpfungen anlegen zu können, benötigen wir eine zweite Tabe
 
 4. Wechseln Sie zurück in die Tabelle `Expenses`.
 
-5. Fügen Sie eine weitere Spalte ein. Geben Sie der neuen Spalten den Namen `Category-Link` und wählen Sie den Spaltentyp `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` aus. Die Spalte verlinkt auf die Tabelle `Categories`. ![Dialog zum Anlegen der Link-Spalte „Category-Link“ zur Tabelle „Categories“](images/level1-create-link-column.png)
+5. Fügen Sie eine weitere Spalte ein. Geben Sie der neuen Spalten den Namen `Category-Link` und wählen Sie den Spaltentyp `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Verknüpfung zu anderen Einträgen` aus. Die Spalte verlinkt auf die Tabelle `Categories`. ![Dialog zum Anlegen der Link-Spalte „Category-Link“ zur Tabelle „Categories“](images/level1-create-link-column.png)
 
 ## Verknüpfen von Zeilen zwischen den beiden Tabellen
 
@@ -49,7 +49,7 @@ Um die Datensätze in beiden Tabellen nun miteinander zu verknüpfen, haben Sie 
 
 ### Zellen per Datenverarbeitungsoperation verknüpfen
 
-Legen Sie dazu eine neue Datenverarbeitungsoperation mit dem Namen `Assign Category` an und wählen Sie als Operationstyp `Auto add link` aus.
+Legen Sie dazu eine neue Datenverarbeitungsoperation mit dem Namen `Assign Category` an und wählen Sie als Operationstyp `Vergleichen und verknüpfen` aus.
 
 Zudem müssen Sie folgende Einstellungen setzen, damit SeaTable weiß, wie Sie Ihre Daten verknüpfen wollen:
 
@@ -60,9 +60,9 @@ Zudem müssen Sie folgende Einstellungen setzen, damit SeaTable weiß, wie Sie I
 
 ![Datenverarbeitungsoperation „Assign Category“ mit Typ „Auto add link“ und passenden Feldern](images/level1-auto-add-link.png)
 
-Klicken Sie auf Ausführen, um die Operation auszuführen. Sie werden sehen, dass schlagartig alle Zeilen in der Tabelle `Expenses` mit einer Zeile aus der Tabelle `Categories` verknüpft wurden.
+Klicken Sie auf `Ausführen`, um die Operation auszuführen. Sie werden sehen, dass schlagartig alle Zeilen in der Tabelle `Expenses` mit einer Zeile aus der Tabelle `Categories` verknüpft wurden.
 
-{{< warning  type="warning" headline="Wenn Verknüpfungen fehlen"  text="Sollten einige Zeilen nach der Datenverarbeitungsoperation keine Verknüpfung haben, haben Sie wahrscheinlich einen Tippfehler bei den vier Einträgen in der Tabelle `Categories` gemacht. Korrigieren Sie den Schreibfehler und führen Sie die Datenverarbeitungsoperation einfach erneut aus." />}}
+{{< warning  type="warning" headline="Wenn Verknüpfungen fehlen"  text="Sollten einige Zeilen nach der Datenverarbeitungsoperation keine Verknüpfung haben, haben Sie wahrscheinlich einen Tippfehler bei den vier Einträgen in der Tabelle Categories gemacht. Korrigieren Sie den Schreibfehler und führen Sie die Datenverarbeitungsoperation einfach erneut aus." />}}
 
 ## Entfernen der unnötigen Spalte
 
@@ -78,6 +78,6 @@ Probieren Sie doch die neu hinzufügte Spalte `Category-Link` dem Webformular hi
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Eine Tabelle einer Base hinzufügen]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
-- [Datenverarbeitung Vergleichen und Verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
+- [Eine Tabelle in einer Base hinzufügen]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
+- [So können Sie zwei Tabellen miteinander verknüpfen]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#so-können-sie-zwei-tabellen-miteinander-verknüpfen" >}})
+- [Datenverarbeitung: Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

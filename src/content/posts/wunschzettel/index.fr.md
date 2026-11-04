@@ -153,6 +153,8 @@ L'application de liste de souhaits de SeaTable est intégralement comprise dans 
 
 Une fois inscrit avec votre adresse e-mail, vous pouvez utiliser immédiatement le [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) depuis votre navigateur. Si vous préférez héberger l'application vous-même, vous pouvez télécharger et installer [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 
+En entreprise aussi, les cadeaux doivent être organisés : idées et conseils pour le cadre professionnel dans notre article sur les [cadeaux de Noël pour les employés et les clients]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Conclusion : une liste de souhaits numérique plutôt que le chaos des cadeaux
 
 Que ce soit pour Noël, un anniversaire ou un mariage : rassembler et partager des souhaits vire souvent au chaos des cadeaux et réserve de mauvaises surprises. Pour éviter les achats ratés et garder une vue d'ensemble, mieux vaut miser sur une liste de souhaits numérique. Vous pouvez ainsi consigner vos idées de cadeaux à tout moment, les enregistrer de façon centralisée et sûre avec une URL unique, et organiser vos listes de souhaits en toute clarté.

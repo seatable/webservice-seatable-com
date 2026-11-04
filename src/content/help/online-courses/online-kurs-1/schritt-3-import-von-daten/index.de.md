@@ -35,6 +35,6 @@ Das war es auch schon für diesen Teil. Auf geht es zum nächsten Schritt.
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Löschen von Zeilen]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Datenimport und Export in SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
-- [Welche Importformate unterstützt SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Löschen mehrerer Zeilen]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#löschen-mehrerer-zeilen" >}})
+- [Datenimport und -export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Welche Import-Formate unterstützt SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

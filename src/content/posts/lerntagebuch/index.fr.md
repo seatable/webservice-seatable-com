@@ -11,7 +11,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Éducation'
+    - 'Vie Quotidienne'
 color: '#f1c449'
 register:
    show: true

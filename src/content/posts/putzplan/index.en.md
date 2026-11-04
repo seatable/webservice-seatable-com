@@ -81,6 +81,8 @@ Combine the tedious cleaning with listening to music or watching series. With a 
 
 But make sure you don't get too distracted – cleaning should still be your main focus. Or take advantage of your roommates' presence and do particularly strenuous tasks together. Another option is to take a playful approach to the whole thing. For example, you can introduce rewards or penalties to spur your roommates on to top performance.
 
+Who does what and when also matters in companies: tips for duty rosters and staff deployment can be found in our article on [personnel planning]({{< relref "posts/personalplanung" >}}).
+
 ## Online cleaning schedule from SeaTable
 
 There is a lot to plan when it comes to housework, especially if you want to involve several people in the tasks. To help you keep track of everything, the SeaTable team has created a [cleaning schedule template]({{< relref "templates/everyday-life/cleaning-plan" >}}) for you. You can customize it to your needs as you like. For example, by clearly assigning tasks to a responsible person, you can see at a glance which tasks you and your roommates have to do and whether they are distributed fairly.

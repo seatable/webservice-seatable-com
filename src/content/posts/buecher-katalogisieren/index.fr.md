@@ -16,6 +16,16 @@ tags:
     - 'Outils & plugins'
     - 'Vie Quotidienne'
 color: '#71c392'
+image_sources:
+    - file: 'yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/7iJD7oPwHVw'
+      author: 'Yaroslava Holiachenko'
+    - file: 'vitaly-gariev-R-xd9TJSWeM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/R-xd9TJSWeM'
+      author: 'Vitaly Gariev'
+    - file: 'tom-hermans-9BoqXzEeQqM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/9BoqXzEeQqM'
+      author: 'Tom Hermans'
 ---
 
 Vous aimez lire et vous ne vous lassez jamais des livres ? C'est merveilleux, car il n'y a rien de mieux qu'un livre pour se plonger dans des univers inconnus. Mais savez-vous d'emblée combien de livres vous possédez et lesquels ? Et où se trouve tel ou tel livre ? Si ce n'est pas le cas, il existe une solution parfaite, car avec les bonnes applications, vous pouvez cataloguer vos livres - simplement, rapidement et sans grand effort.
@@ -32,9 +42,9 @@ Plus vous possédez de livres, plus il est difficile de garder une vue d'ensembl
 
 Vous avez plus d'une bibliothèque et les emplacements de vos livres sont répartis dans plusieurs pièces ? Même dans ce cas, il est très utile de cataloguer les livres. Avec l'application de livres appropriée, vous savez exactement quel livre se trouve où et vous n'avez pas besoin de le chercher longtemps si vous en avez besoin rapidement.
 
-![Une femme catalogue ses livres avec une application de livres.](buecher-katalogisieren-frau.jpg)
+![Une femme catalogue ses livres avec une application de livres.](yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg)
 
-Cataloguer des livres © Viktoriia / Adobe Stock
+Cataloguer des livres © Yaroslava Holiachenko / Unsplash
 
 ### Vous pouvez facilement faire des listes de souhaits de livres
 
@@ -58,9 +68,9 @@ Il en va de même si vous organisez vos livres avec Excel ou Google Sheets. Ici 
 
 Si vous souhaitez cataloguer, organiser et gérer vos livres de manière judicieuse, vous devriez miser sur le travail avec une application pour livres ou une application pour bibliothèques. C'est rapide, simple et sans crayon ni fiche.
 
-![Un homme répertorie ses livres dans une application de livres.](buecher-katalogisieren-mann.jpg)
+![Un homme répertorie ses livres dans une application de livres.](vitaly-gariev-R-xd9TJSWeM-unsplash.jpg)
 
-Cataloguer des livres © NDABCREATIVITY / Adobe Stock
+Cataloguer des livres © Vitaly Gariev / Unsplash
 
 ## Comment fonctionne une application de livres ?
 
@@ -98,9 +108,9 @@ Quel que soit le support que vous utilisez au final, il y a trois facteurs qui s
 2. **Des informations intelligentes**: Pour choisir l'application qui convient, il est également important de savoir quelles informations vous souhaitez saisir. Le titre et l'auteur suffisent-ils ou faut-il également saisir des aspects plus détaillés comme le genre, le statut de lecture, etc.
 3. **Gestion du temps**: plus vous avez de livres, plus il vous faudra de temps pour les cataloguer. Pour ne pas perdre votre motivation, prévoyez plutôt plus de temps. En revanche, vous serez récompensé à la fin par une bibliothèque privée complète.
 
-![Pile de livres à cataloguer dans une application de livres.](buecher-stapel.jpg)
+![Pile de livres à cataloguer dans une application de livres.](tom-hermans-9BoqXzEeQqM-unsplash.jpg)
 
-Cataloguer des livres © Kara / Adobe Stock
+Cataloguer des livres © Tom Hermans / Unsplash
 
 ## Conclusion
 

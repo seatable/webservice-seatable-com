@@ -51,13 +51,13 @@ seo:
 
 > Имя: любое
 >
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+> Тип столбца: `{{< seatable-icon icon="dtable-icon-button" >}} Кнопка`
 >
-> Ярлык: `Send`
+> Этикетка: `Send`
 >
-> Действие: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+> Действие: `{{< seatable-icon icon="dtable-icon-email" >}} Отправить электронное письмо`
 >
-> Тема: `Confirmation: Course {Registered for}`
+> Предмет: `Confirmation: Course {Registered for}`
 >
 > Получатель: `customer@example.com`
 
@@ -78,7 +78,7 @@ seo:
 >
 > Best regards
 
-В простом текстовом редакторе заполнители в фигурных скобках заменяются автоматически. Если вы используете редактор насыщенного текста, вы должны заменить заполнители вручную с помощью команды `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` вставить.
+В простом текстовом редакторе заполнители в фигурных скобках заменяются автоматически. Если вы используете редактор насыщенного текста, вы должны заменить заполнители вручную с помощью команды `{{< seatable-icon icon="dtable-icon-choose-column" >}} Вставить столбец`.`
 
 ![Редактор форматированного текста SeaTable с плейсхолдерами курса и даты](images/lvl2-rich-text-editor.png)
 
@@ -86,12 +86,12 @@ seo:
 
 Поздравляем! Вы только что отправили свое первое письмо через SeaTable - даже если оно попало только в виртуальный почтовый ящик Mailtrap.
 
-{{< warning  headline="Отправляйте электронные письма автоматически"  text="В настоящее время мы по-прежнему отправляем электронные письма вручную с помощью кнопок. Однако при наличии корпоративной подписки на SeaTable вы можете настроить автоматическую отправку писем. Поскольку это платная функция, мы не будем демонстрировать ее здесь." />}}
+{{< warning  headline="Отправляйте электронные письма автоматически"  text="Пока отправка писем запускается нажатием кнопки. Это может делать и автоматизация: автоматизациям посвящен курс 4." />}}
 
 ## Справочная статья с дополнительной информацией
 
 - [Настройка учетной записи электронной почты в базе]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
-- [Настройте Gmail для отправки писем через SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Настройка Gmail для отправки электронной почты через SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [Кнопка]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Отправка сообщения электронной почты с помощью кнопки]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [Электронная почта с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Отправка электронных писем с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

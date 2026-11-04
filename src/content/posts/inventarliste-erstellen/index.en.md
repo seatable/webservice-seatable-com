@@ -15,6 +15,16 @@ color: '#bed8cb'
 url: '/inventory-list'
 aliases:
     - /inventarliste-erstellen/
+image_sources:
+    - file: 'cova-software-r--jcbaXgek-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-men-in-a-store-looking-at-a-tablet-r--jcbaXgek'
+      author: 'Cova Software'
+    - file: 'thestandingdesk-pn6tf73O2As-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-in-blue-polo-shirt-using-laptop-computer-pn6tf73O2As'
+      author: 'TheStandingDesk'
+    - file: 'lukas-blazek-mcSDtbWXUZU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU'
+      author: 'Lukas Blazek'
 ---
 
 Import an inventory list into Excel or create your own template in Word. Find out what advantages a free database like SeaTable offers over Excel and Word.
@@ -27,9 +37,9 @@ You can use an inventory list to record the stock in your company. This can be a
 
 Every merchant and every company that is obliged to keep double-entry accounts must carry out an inventory. This must be carried out both at the opening of the business and after each financial year. This involves recording the stock and drawing up an inventory.
 
-![Warehouse worker uses iPad with inventory list.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Warehouse worker uses iPad with inventory list.](cova-software-r--jcbaXgek-unsplash.jpg)
 
-Use a digital inventory list to record your stock. Image rights: tradol / Adobe Stock
+Use a digital inventory list to record your stock. Image rights: © Cova Software / Unsplash
 
 ## What is the difference between stocktaking and inventory?
 
@@ -54,9 +64,9 @@ It also makes a difference **when** you create your inventory:
 - This is why there is also the **postponed inventory**. With this form of stocktaking, you can carry out the inventory flexibly on a day of your choice, which is a maximum of three months before or two months after the balance sheet date. However, as you then have to update or count back the stocks using the receipts and issues in your inventory list, the postponed inventory is less accurate than the key date inventory.
 - In contrast, the **perpetual inventory** is an ongoing process with the advantage that the effort is spread evenly throughout the year and a book inventory is sufficient on the balance sheet date. Nevertheless, a physical inventory of all assets is necessary once a year in order to compare the actual stocks with the book stocks. You must then document all additions and disposals precisely in your inventory list in order to update the stocks for accounting purposes.
 
-![Warehouse worker takes inventory in Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Warehouse worker takes inventory in Excel.](thestandingdesk-pn6tf73O2As-unsplash.jpg)
 
-You should regularly compare your inventory list with the actual stock. Image rights: zephyr_p / Adobe Stock
+You should regularly compare your inventory list with the actual stock. Image rights: © TheStandingDesk / Unsplash
 
 ## Why is it important to create an inventory list?
 
@@ -88,9 +98,9 @@ One program that many companies already use is Excel. Here you can create an **i
 
 If you already have an inventory list as an Excel template, you can use it again and again with just a few clicks. To do this, duplicate the existing file before opening it in Excel.
 
-![Excel for an inventory list.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel for an inventory list.](lukas-blazek-mcSDtbWXUZU-unsplash.jpg)
 
-Excel spreadsheets are popular for inventory lists. Image copyright: PixieMe / Adobe Stock
+Excel spreadsheets are popular for inventory lists. Image copyright: © Lukas Blazek / Unsplash
 
 If you do not yet have an Excel inventory list, create your own without further ado: Open a new, empty Excel document. Think about **which column headings you need for your inventory list** (e.g. identification number, name, location, quantity and value) and type them in.
 

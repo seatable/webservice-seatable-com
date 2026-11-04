@@ -69,4 +69,4 @@ The following requirements are necessary for you to complete this online course:
 
 What are we waiting for? Let's get started!
 
-{{< warning  headline="Here is a little tip"  text="At the very end of this article you will find a link on the right-hand side that will take you directly to the next page of this online course." />}}
+{{< warning  headline="Here is a little tip"  text="Throughout the course, important information is highlighted in boxes like this one. At the bottom of each page, you will find a link on the right that takes you straight to the next page of the course." />}}

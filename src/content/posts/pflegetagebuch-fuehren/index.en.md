@@ -5,7 +5,7 @@ seo:
     title: 'Keeping a Care Journal: Properly Documenting Care Needs'
     description: 'How to Keep a Care Journal Correctly: How to Comprehensively Document Care Needs, Avoid Errors During Assessments, and Ensure the Correct Care Classification'
 date: 2026-08-31
-url: '/Keeping a Care Diary/'
+url: '/keeping-a-care-diary/'
 categories:
     - 'best-practice'
 tags:
@@ -157,6 +157,8 @@ SeaTable is an [AI no-code platform]({{< relref "/" >}}) that lets you easily ca
 In the stressful day-to-day reality of caregiving, take advantage of the fact that SeaTable offers far more than just a simple table structure: The **integrated automations** with AI features simplify data processing. In the **care diary app** already included in the [care journal template]({{< relref "templates/healthcare/care-journal" >}}), you can enter new entries using a structured input form. The dashboard, which is always up to date, provides **statistical analyses of care workload**, vital signs, and moods.
 
 Especially when it comes to a sensitive topic like private care documentation, **strong data protection** is crucial. With [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data is securely stored on certified servers operated by the Swiss company Exoscale in Germany.
+
+Professional care services also depend on good documentation. How one care service digitized its processes is shown in our customer story [KD Cura: digital pioneering in the care service]({{< relref "posts/kd-cura-pflegedienst" >}}).
 
 ## Conclusion: Apply for the appropriate care level with structure and peace of mind
 

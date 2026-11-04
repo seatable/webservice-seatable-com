@@ -11,12 +11,12 @@ aliases:
     - '/fr/aide/level-eins-einfuehrung'
 seo:
     title: 'SeaTable Cours en ligne 1 – Premiers pas : introduction pour débutants'
-    description: 'Découvrez le cours en ligne SeaTable 1 – Premiers pas : navigation, création de tableaux, formulaires, vues, quiz final pour évaluer vos acquis.'
+    description: 'Découvrez le cours en ligne SeaTable 1 – Premiers pas : navigation, création de tableaux, formulaires, vues, quiz final pour évaluer vos acquis.'
 
 weight: 1
 ---
 
-Bienvenue dans le **cours en ligne SeaTable 1 – Premiers pas**!
+Bienvenue dans le **cours en ligne SeaTable 1 – Premiers pas** !
 
 {{< course-facts headline="En bref" >}}
 - **Durée** : environ 1 heure
@@ -24,48 +24,48 @@ Bienvenue dans le **cours en ligne SeaTable 1 – Premiers pas**!
 - **Ce qu'il vous faut** ([détails](#before-you-start) plus bas) : un compte SeaTable
 {{< /course-facts >}}
 
-## Est-ce que ce cours est fait pour moi ?
+## Ce cours est-il fait pour moi ?
 
-Dans ce cours, vous apprendrez les concepts de base de SeaTable et développerez vos capacités à travailler efficacement avec une solution sans code comme SeaTable.
+Ce cours vous fera découvrir les notions de base de SeaTable et vous apprendra à travailler efficacement avec une solution no-code comme SeaTable.
 
-Ce cours vous convient si vous êtes :
+Il est fait pour vous si vous :
 
-- souhaitent travailler avec SeaTable pour la première fois.
-- chercher une aide supplémentaire pour la création de votre première base.
-- souhaitez numériser et éventuellement automatiser des processus dans votre environnement privé ou professionnel.
+- découvrez SeaTable ;
+- souhaitez être guidé pour créer votre première base ;
+- voulez numériser, voire automatiser, des processus dans votre vie privée ou professionnelle.
 
-## Qu'est-ce que je vais apprendre dans ce cours en ligne ?
+## Qu'allez-vous apprendre dans ce cours ?
 
-Nous croyons en **Learning by doing**. Vous pouvez vous attendre à quelques informations théoriques sur les concepts et composants de base de SeaTable, suivies d'exercices pratiques avec un guide étape par étape pour créer une base.
+Nous croyons en **l'apprentissage par la pratique**. Quelques notions théoriques sur les concepts et les composants de base de SeaTable vous attendent, suivies d'exercices pratiques qui vous guident pas à pas dans la création d'une base.
 
-À la fin de ce cours, vous saurez
+À la fin de ce cours, vous saurez :
 
-- Comment naviguer dans l'interface de SeaTable
-- Comment créer une nouvelle structure de tableau
-- Comment créer un formulaire web pour saisir de nouvelles données de manière structurée
-- Comment structurer efficacement vos données avec une colonne de liens
-- Comment obtenir une vue d'ensemble parfaite de vos données grâce aux filtres et aux affichages
+- vous repérer dans l'interface de SeaTable ;
+- créer la structure d'un tableau ;
+- créer un formulaire web pour saisir de nouvelles données de manière structurée ;
+- structurer efficacement vos données avec une colonne de lien ;
+- garder une vue d'ensemble de vos données grâce aux filtres et aux vues.
 
-Vous apprendrez tout cela en construisant une base pour enregistrer vos dépenses privées ou professionnelles.
+Vous apprendrez tout cela en construisant une base qui enregistre vos dépenses privées ou professionnelles.
 
 ## Comment se déroule le cours
 
-Vous n'êtes pas obligé de suivre le cours en une seule fois. N'hésitez pas à faire des pauses et à reprendre lorsque vous êtes prêt.
+Rien ne vous oblige à suivre le cours d'une traite : faites des pauses quand vous le souhaitez et reprenez quand vous êtes prêt.
 
-Le cours est disponible en plusieurs langues, mais le quiz final, les captures d'écran et les données d'exemple utilisées sont en anglais. Nous recommandons Google Chrome.
+Le cours est disponible en plusieurs langues, mais le quiz final, les captures d'écran et les données d'exemple sont en anglais. Nous vous recommandons d'utiliser Google Chrome comme navigateur pour suivre ce cours.
 
-À la fin de ce cours, vous aurez la possibilité de tester vos nouvelles connaissances en répondant à un quiz :
+À la fin du cours, un quiz vous permet de tester vos nouvelles connaissances :
 
-- Le [quiz en anglais](https://tally.so/r/wk5BXr) est un mélange de questions à choix multiples et de questions sur la base, que vous construirez au fur et à mesure du tutoriel.
-- Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Celui-ci sera alors visible à chaque réponse que vous donnerez sur le forum et mettra en évidence vos compétences pour tous les autres utilisateurs.
-- Pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
+- le [quiz en anglais](https://tally.so/r/wk5BXr) mêle des questions à choix multiples et des questions sur la base que vous aurez construite au fil du cours ;
+- si vous le réussissez, vous obtiendrez un [badge sur votre profil du forum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Il s'affichera à côté de chacune de vos réponses sur le forum et montrera vos compétences à tous les autres utilisateurs ;
+- pour recevoir le badge, il vous faut un [compte sur notre forum communautaire](https://forum.seatable.com/).
 
 ## Avant de commencer {#before-you-start}
 
-Les conditions suivantes sont nécessaires pour pouvoir suivre ce cours en ligne :
+Pour suivre ce cours en ligne, il vous faut :
 
-- **SeaTable**: Vous pouvez utiliser n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
+- **un compte SeaTable** : sur n'importe quel système SeaTable. Le plus simple est de créer un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
 
-Qu'est-ce qu'on attend ? Allons-y !
+Qu'attendons-nous ? C'est parti !
 
-{{< warning  headline="Voici un petit conseil"  text="Tout à la fin de cet article, vous trouverez sur la droite un lien qui vous mènera directement à la page suivante de ce cours en ligne." />}}
+{{< warning  headline="Un petit conseil"  text="Tout au long du cours, certaines informations importantes vous seront signalées dans des encarts comme celui-ci. En bas de chaque page, vous trouverez à droite un lien qui vous mènera directement à la page suivante du cours." />}}

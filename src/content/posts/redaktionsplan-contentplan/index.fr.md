@@ -16,6 +16,13 @@ tags:
 seo:
     title: 'Planning éditorial : modèle, conseils & check-list'
     description: 'Gagnez en efficacité : modèles gratuits et astuces pour votre planning éditorial et stratégie de contenu.'
+image_sources:
+    - file: 'cherrydeck-rMILC1PIwM0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/people-sitting-on-chair-in-front-of-laptop-computers-rMILC1PIwM0'
+      author: 'Cherrydeck'
+    - file: 'ravi-palwe-I3urDa6z2_4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/blue-and-black-pen-beside-orange-sticky-notes-I3urDa6z2_4'
+      author: 'Ravi Palwe'
 ---
 
 ## Quels sont les avantages d'un plan de contenu ?
@@ -30,9 +37,9 @@ Avec un plan de contenu, vous gardez toujours un œil sur les délais pour les p
 
 Vous devriez attribuer un responsable à chaque contribution planifiée. Ainsi, chaque membre de l'équipe peut filtrer le plan éditorial en fonction de ses [tâches à faire]({{< relref "posts/to-do-liste-online" >}}) et voir d'un seul coup d'œil ce qui doit être fait. La **coordination entre plusieurs personnes ou départements est plus facile** si l'on sait clairement qui est impliqué dans quel projet et qui a encore des capacités.
 
-![L'équipe marketing crée un modèle de plan éditorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![L'équipe marketing crée un modèle de plan éditorial.](cherrydeck-rMILC1PIwM0-unsplash.jpg)
 
-Un plan de contenu permet de coordonner la planification et la création de contributions. Droits d'image : © DisobeyArt / Adobe Stock
+Un plan de contenu permet de coordonner la planification et la création de contributions. Droits d'image : © Cherrydeck / Unsplash
 
 ### Aucun contenu n'est perdu
 
@@ -61,9 +68,9 @@ L'étape suivante consiste à choisir le cadre approprié pour votre plan de con
 
 Les réponses aux questions de la liste de contrôle déterminent la structure et l'étendue du modèle de plan de contenu requis.
 
-![Une collaboratrice marketing crée un modèle de planification éditoriale.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Une collaboratrice marketing crée un modèle de planification éditoriale.](ravi-palwe-I3urDa6z2_4-unsplash.jpg)
 
-La planification du contenu nécessite un concept bien pensé. Droits d'image : © Andrey Popov / Adobe Stock
+La planification du contenu nécessite un concept bien pensé. Droits d'image : © Ravi Palwe / Unsplash
 
 ## Créer un plan de contenu en 5 étapes
 

@@ -149,6 +149,8 @@ Dès que votre fête n'est plus qu'à quelques jours, il est temps de faire un d
 
 Vous avez encore du retard à rattraper dans certains domaines ? Pas de problème ! De nombreuses choses peuvent encore être réglées quelques jours avant votre fête. Vous avez passé en revue tous les points et n'avez plus trouvé de [tâches]({{< relref "templates/projects/to-do-list" >}}) en suspens ? Alors tout est prêt pour votre fête et il ne nous reste plus qu'à vous souhaiter une fête d'anniversaire inoubliable !
 
+Les mêmes étapes aident aussi pour les fêtes en entreprise : notre article sur la [fête de Noël en entreprise]({{< relref "posts/weihnachtsfeier" >}}) montre comment organiser un événement d'entreprise réussi.
+
 ## Conclusion
 
 Planifier et organiser une fête d'anniversaire - ce qui semble être un jeu d'enfant pour beaucoup s'avère souvent être un processus long et laborieux d'après notre propre expérience. En effet, si l'on veut organiser une fête unique et inoubliable, il faut s'occuper le plus tôt possible de tous les préparatifs importants. Avec tout ce stress, il peut vite arriver d'oublier une personne importante lors de la planification, de commander trop peu de nourriture et de boissons ou de perdre de vue le budget dont on dispose.

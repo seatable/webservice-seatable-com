@@ -133,6 +133,8 @@ Another database software that lets you manage your digital estate in a clear, f
 
 If you would like to use SeaTable's password manager for your digital estate, you can view the [template here]({{< relref "templates/everyday-life/password-manager" >}}). If you are interested, simply [register]({{< relref "pages/registration" >}}) for free and create an overview with your own data.
 
+In companies, IT departments keep track of accesses, licenses and devices. How this works is shown by [IT service management with SeaTable]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
+
 ## Conclusion: A digital estate is more important than ever
 
 Nowadays, each of us has dozens of online accounts. To ensure that your relatives can access your user accounts should the worst happen, you should take precautions in good time. That's why a digital estate in which you document all your access data is more important than ever.

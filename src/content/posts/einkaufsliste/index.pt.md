@@ -191,6 +191,8 @@ A lista de compras digital / aplicação também o ajuda a controlar melhor os a
 
 {{< template-box id="913bf21e3f934d57b402" >}}
 
+Na empresa, a lista de compras torna-se aprovisionamento: o nosso artigo com [5 dicas para o aprovisionamento na empresa]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) mostra como organizar encomendas e fornecedores.
+
 ## Conclusão: qual é a aplicação de lista de compras certa para si?
 
 Em suma, a escolha da aplicação de lista de compras correcta depende das suas preferências e necessidades. Embora cada uma das aplicações testadas tenha os seus próprios pontos fortes e fracos, todas têm uma coisa em comum - facilitam o seu quotidiano e contribuem para fazer compras sem stress.

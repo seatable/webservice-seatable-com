@@ -84,6 +84,8 @@ Zusätzlich können Sie für jedes Buch dieselben Bewertungskriterien verwenden,
 
 ![Hände lehnen einen Stapel Bücher gegen ein Fenster.](buchreihe.png)
 
+Wissen strukturiert festzuhalten lohnt sich auch im Team: Wie Unternehmen Wissen nutzbar machen, zeigt unser Beitrag zum [Wissensmanagement]({{< relref "posts/wissensmanagement" >}}).
+
 ## So führen Sie ein Book Journal mit SeaTable
 
 Am einfachsten starten Sie mit der kostenlosen [Book Journal Vorlage]({{< relref "templates/everyday-life/digital-book-journal" >}}) von **SeaTable**. Darin finden Sie bereits eine strukturierte Tabelle für Ihre Bücher und können direkt mit Ihrem digitalen Lesetagebuch beginnen. Für jeden Titel können Sie darin wichtige Informationen wie Autor, Genre, Lesestatus, Startdatum, Enddatum und Bewertung festhalten. Auch eine Sterne-Bewertung und persönliche Notizen können Sie ergänzen. Die Vorlage lässt sich jederzeit an Ihre eigenen Lesegewohnheiten anpassen und um weitere Spalten erweitern.

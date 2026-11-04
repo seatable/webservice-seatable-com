@@ -22,7 +22,7 @@ sections:
       text: 'Bring real structure to your study routine! With our digital template, you organize lectures, term papers, exams, ECTS credits and grades in one central place. SeaTable’s flexible student planner combines a semester planner, grade calculator and module overview in one interactive no-code database. Instead of scattered calendars, notes and Excel lists, you work with a personalized student planner featuring a calendar view, Kanban board and linked tables. Whether Bachelor, Master or state exam – with this online template, students keep deadlines, credit points and the exam period in view. Create your individual plan and organize your studies digitally, flexibly and stress-free!'
       classes:
           - bg-white
-      template: '44ac24b866ac446f8fda'
+      template: 'cd782931d4db43a99b45'
       buttons:
           - label: Register for free and use the template now
             link_to_template: true

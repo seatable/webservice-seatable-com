@@ -152,6 +152,8 @@ Schlechte Angewohnheiten wie der regelmäßige Konsum von **Alkohol, Zigaretten 
 
 Gleichzeitig können Sie positive Gewohnheiten etablieren: Zum Beispiel ist es gut für die Gesundheit, statt teuren **Energydrinks** einfach Wasser zu trinken. Ihr Haushaltsbuch wird frohlocken – insbesondere wenn Sie auf Flaschenwasser verzichten und stattdessen auf **Leitungswasser** zurückgreifen.
 
+Was im Haushaltsbuch funktioniert, klappt auch im größeren Maßstab: Wie Unternehmen Umsatz und Kosten im Blick behalten, zeigt unsere Seite zum [Finanzplan erstellen]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}).
+
 ## Mit SeaTable zu Ihrem perfekten Haushaltsbuch
 
 Sie sehen: Ihre Ausgaben und Lebenshaltungskosten zu überwachen hat nur Vorteile. Mit einem Haushaltsbuch bleiben Sie immer Herr der Lage und wissen genau, wo Ihr Geld geblieben ist. SeaTable passt sich dabei Ihren Bedürfnissen an. Wenn Sie für Ihr Haushaltsbuch bislang Excel nutzen, können Sie Ihre Tabellen einfach in SeaTable importieren. Sie können sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und SeaTable ausprobieren!

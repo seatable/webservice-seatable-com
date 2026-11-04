@@ -23,7 +23,7 @@ seo:
 
 ## Создайте новую базу
 
-Начнем со стартовой страницы SeaTable. Создайте новую базу с именем `Expense Tracking` кнопку. Затем щелкните на этой базе, чтобы перейти в редактор баз.
+Начнем со стартовой страницы SeaTable. Создайте новую базу с именем `Expense Tracking`. Затем щелкните на этой базе, чтобы перейти в редактор баз.
 
 ## Измените имя первой таблицы
 
@@ -45,13 +45,13 @@ seo:
 
 > Имя: `Date`
 >
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+> Тип столбца: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
 >
 > Формат: любой
 >
-> С точностью до минуты: `Yes`
+> С точностью до минуты: включено
 
-**Примечание:** Вместо типа столбца `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` тип столбца `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` можно использовать. Пока вам приходится заполнять столбец даты вручную, этот столбец будет автоматически заполняться текущей датой. Это, конечно, экономит время. Однако недостатком будет то, что вы больше не сможете изменять значение даты и, например, вводить расходы за другие дни задним числом.
+**Примечание:** Вместо типа столбца `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` тип столбца `{{< seatable-icon icon="dtable-icon-creation-time" >}} Время создания` можно использовать. Пока вам приходится заполнять столбец даты вручную, этот столбец будет автоматически заполняться текущей датой. Это, конечно, экономит время. Однако недостатком будет то, что вы больше не сможете изменять значение даты и, например, вводить расходы за другие дни задним числом.
 
 ---
 
@@ -59,7 +59,7 @@ seo:
 
 > Имя: `Amount`
 >
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+> Тип столбца: `{{< seatable-icon icon="dtable-icon-number" >}} Номер`
 >
 > Формат: `Euro`
 
@@ -69,7 +69,7 @@ seo:
 
 > Имя: `Category`
 >
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
+> Тип столбца: `{{< seatable-icon icon="dtable-icon-single-election" >}} Одиночный выбор`
 
 ---
 
@@ -100,8 +100,8 @@ seo:
 
 - [Создайте новую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Как настроить тип колонки]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
-- [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Добавить колонку]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Добавление опций в колонку с одним выбором]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
-- [Особенности первой колонны]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
-- [Настройка внешнего вида базы (значок и цвет)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})
+- [Удаление нескольких строк]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#удаление-нескольких-строк" >}})
+- [Добавление колонки]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
+- [Добавьте опции выбора]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte#добавьте-опции-выбора" >}})
+- [Особенности первой колонки]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
+- [Настройка внешнего вида базы (иконка и цвет)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

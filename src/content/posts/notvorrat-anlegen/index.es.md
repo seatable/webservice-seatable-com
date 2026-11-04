@@ -101,6 +101,8 @@ Para poder mantenerse limpio usted y su hogar, es aconsejable abastecerse tambi�
 
 Por supuesto, tampoco debe faltar agua para lavarse. Para que se conserve más tiempo, puede utilizar **productos para desinfectar el agua**.
 
+Las empresas también necesitan saber qué tienen en existencia: nuestro artículo sobre cómo [crear una lista de inventario]({{< relref "posts/inventarliste-erstellen" >}}) explica cómo controlar equipos y existencias.
+
 ## Planificador online para su reserva de emergencia
 
 Para que esté perfectamente preparado para la próxima situación de emergencia, el equipo de SeaTable ha creado para usted una plantilla para su reserva de emergencia. Puede adaptarla a sus necesidades como desee.

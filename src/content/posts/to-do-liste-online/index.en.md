@@ -14,6 +14,10 @@ color: '#ca9fb9'
 seo:
     title: 'Create To-Do List Online | Best App & Templates'
     description: 'Discover the best app for your to-do list and easily create your task list online with a ready-to-use template.'
+image_sources:
+    - file: 'thomas-bormans-pcpsVsyFp_s-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-notepad-with-a-pen-on-top-of-it-pcpsVsyFp_s'
+      author: 'Thomas Bormans'
 ---
 
 ## What you need a to-do list for
@@ -78,9 +82,9 @@ You can sort the individual to-dos, set a deadline and tick them off. Reminders 
 
 {{< warning headline="Free use" text="Microsoft To Do is available free of charge. All you need is a Microsoft account." />}}
 
-![Microsoft To do list app on smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Microsoft To do list app on smartphone.](thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
 
-© sdx15 / Adobe Stock
+ © Thomas Bormans / Unsplash
 
 ### Projoodle: A to-do list based on Doodle
 

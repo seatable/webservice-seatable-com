@@ -132,6 +132,8 @@ Wie bereits erwähnt, sind Ihnen bei der Gestaltung Ihres Habit Trackers keine G
 
 Sie können Ihren Habit Tracker von Hand oder mit Vorlagen designen. Wer es praktisch und einfach mag, kann auch eine **App** oder **Online-Vorlage** benutzen. Diese sind meist weniger kreativ, bündeln jedoch alle Gewohnheiten übersichtlich und strukturiert. Im Vergleich zu Notizbüchern und Papier-Kalendern sind **digitale Habit Tracker** flexibel anpassbar, wenn sich Ihre Gewohnheiten ändern.
 
+Auch im Team brauchen wiederkehrende Aufgaben eine feste Struktur: Wie Teams Aufgaben und Ressourcen effizient planen, zeigt unser Beitrag zur [Aufgabenverwaltung]({{< relref "posts/aufgabenverwaltung" >}}).
+
 ## Vorlage für Ihren digitalen Habit Tracker
 
 Um Ihr Ziel nicht aus den Augen zu verlieren, benötigen Sie eine einfache und effektive Lösung, um Ihre Gewohnheiten und Fortschritte nachzuverfolgen. Diese bietet Ihnen SeaTable mit einer [kostenlosen Vorlage]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}), welche Sie nach Ihren persönlichen Bedürfnissen anpassen können. Der Habit Tracker ist in ein Bullet Journal integriert, das noch weitere spannende Möglichkeiten bietet, Ihr Leben zu organisieren und zu verändern.

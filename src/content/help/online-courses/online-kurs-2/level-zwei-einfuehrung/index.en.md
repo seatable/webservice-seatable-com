@@ -9,8 +9,8 @@ url: '/help/level-two-introduction'
 aliases:
     - '/help/level-zwei-einfuehrung'
 seo:
-    title: 'Start with SeaTable template – ready projects in minutes'
-    description: 'Use SeaTable templates for quick project success. Find ready-made solutions, customize your own and get started faster, no setup from scratch required.'
+    title: 'SeaTable Online Course 2 – Inputs and Outputs'
+    description: 'Build a complete business process in SeaTable: registration form, confirmation and payment emails, PDF certificates of attendance and live statistics.'
 weight: 1
 ---
 
@@ -58,4 +58,4 @@ To successfully complete this course, you will need:
 
 What are we waiting for? Let's go!
 
-{{< warning  headline="Here is a little tip"  text="At the very end of this article you will find a link on the right-hand side that will take you directly to the next page of this online course." />}}
+{{< warning  headline="Here is a little tip"  text="Throughout the course, important information is highlighted in boxes like this one. At the bottom of each page, you will find a link on the right that takes you straight to the next page of the course." />}}

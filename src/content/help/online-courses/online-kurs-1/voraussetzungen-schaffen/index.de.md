@@ -47,6 +47,4 @@ Die Registrierung zum Community Forum ist denkbar einfach. Unter [https://forum.
 
 Wir empfehlen Ihnen in jedem Fall eine Registrierung in unserem Forum, den mit dem erfolgreichen Abschluss des Quiz am Ende dieses Online Kurses wird Ihrem Foren-Account automatisch das entsprechende Abzeichen zugewiesen.
 
----
-
 Genug der Vorbereitung. Lassen Sie uns endlich loslegen. Unten rechts finden Sie den Link, um zur nächsten Seite zu gelangen.

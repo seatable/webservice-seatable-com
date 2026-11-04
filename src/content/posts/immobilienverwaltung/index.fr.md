@@ -62,6 +62,8 @@ Il est bien connu que la recherche d'un nouveau logement est difficile, surtout 
 
 Notre [modèle de recherche de logement]({{< relref "templates/everyday-life/apartment-hunting" >}}) vous permet de saisir de manière simple et structurée toutes les informations, données et documents relatifs aux logements. Enregistrez les photos, les plans, la surface habitable, le prix du loyer et tout ce que vous avez remarqué d'autre pendant la visite des biens immobiliers dans un tableau clair. Attribuez une note et prenez plus facilement, plus sûrement et plus rapidement la bonne décision.
 
+Pour les bailleurs et les gestionnaires de plusieurs biens, notre article sur la [gestion immobilière professionnelle]({{< relref "posts/hausverwaltung" >}}) montre comment gérer clairement locataires, contrats et entretien.
+
 ## Commencez à planifier votre prochain déménagement
 
 ![Votre prochain déménagement sera un jeu d'enfant avec SeaTable](umzugsliste-seatable-immobilien.png)

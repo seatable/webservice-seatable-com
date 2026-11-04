@@ -23,7 +23,7 @@ So let's start this online course by creating the necessary structure to be able
 
 ## Create new base
 
-We start on the SeaTable start page. Create a new base with the name `Expense Tracking` button. Then click on this base to go to the base Editor.
+We start on the SeaTable start page. Create a new base with the name `Expense Tracking`. Then click on this base to go to the base Editor.
 
 ## Change the name of the first table
 
@@ -49,7 +49,7 @@ Next, we turn to the columns of the table so that our base can record the desire
 >
 > Format: any
 >
-> To the minute: `Yes`
+> Accurate to minute: on
 
 **Note:** Instead of the column type `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` the column type `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` can be used. While you have to fill in the date column manually, this would be filled in automatically with the current date. This of course saves time. However, the disadvantage would be that you would no longer be able to change the date value and, for example, could no longer retroactively enter expenses for other days.
 

@@ -181,6 +181,8 @@ submit4="Utilizar modelo" >}}
 - [Modelo para um quadro Kanban flexível]({{< relref "templates/projects/kanban-board" >}})
 - [Modelo para um plano de limpeza bem organizado]({{< relref "templates/everyday-life/cleaning-plan" >}})
 
+Prioridades claras também ajudam as equipas: o nosso artigo sobre a [gestão de tarefas]({{< relref "posts/aufgabenverwaltung" >}}) mostra como distribuir e planear as tarefas em equipa.
+
 ## Conclusão: superar a procrastinação de forma duradoura com a estrutura certa
 
 Raramente superará a procrastinação propondo-se muito e querendo realizar uma tarefa na perfeição. Com isso coloca-se sob pressão desnecessária, alimenta o medo do fracasso e as autocríticas. Mais eficaz é priorizar as suas tarefas, dividi-las em tarefas parciais mais pequenas e trabalhá-las em blocos de tempo fixos, para reduzir a barreira de entrada e [estabelecer rotinas]({{< relref "posts/habit-tracker" >}}). Tente além disso eliminar conscientemente as fontes de distração, para evitar ações substitutivas. A melhor forma de se motivar é começar em pequeno, tornar os seus progressos visíveis e manter os seus objetivos à vista. Também as ferramentas digitais o podem ajudar nisso.

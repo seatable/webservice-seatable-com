@@ -11,6 +11,13 @@ color: '#93aae5'
 seo:
     title: 'Social-Media-Redaktionsplan: Jetzt effektiv planen'
     description: 'Erfahren Sie, wie Sie mit einem Social-Media-Plan Ihre Inhalte effizient steuern, planen und analysieren – jetzt alles in einem Tool'
+image_sources:
+    - file: 'shutter-speed-a_lBsEZZjWc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-social-media-icons-on-it-a_lBsEZZjWc'
+      author: 'Shutter Speed'
+    - file: 'towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc'
+      author: 'Towfiqu barbhuiya'
 ---
 
 Um auf Social-Media-Plattformen messbare Erfolge zu erzielen, müssen Sie kontinuierlich neue Inhalte veröffentlichen. Und das oft mehrmals pro Woche für unterschiedliche Kanäle, wie LinkedIn, Instagram, Facebook, X oder Youtube. Es gilt, **termingerecht interessanten und unterhaltsamen Content zu posten**. Bei der Umsetzung hilft Ihnen ein **Social-Media Redaktionsplan**. Lesen Sie in diesem Artikel, wie Sie mit einem Social Media Plan eine erfolgreiche Social-Media-Strategie entwickeln.
@@ -21,9 +28,9 @@ Um auf Social-Media-Plattformen messbare Erfolge zu erzielen, müssen Sie kontin
 
 Mit einem Social-Media-Plan behalten Sie den **Überblick über Ihre Social-Media-Kanäle**. Genauer gesagt erfassen Sie in einem Redaktionsplan für Social-Media, **wer, was, wann und wo posten soll**. Wenn Sie ein zentrales Tool für Social-Media-Posts nutzen, arbeiten Sie effizienter mit Ihren Kollegen zusammen, da jeder im Team immer den aktuellen Stand sieht. Dadurch können Sie **leichter die Aufgaben verteilen** und dennoch Ihre Corporate-Design-Richtlinien einhalten, um Social-Media-Posts wie aus einem Guss zu erstellen.
 
-![Marketingmitarbeiterin nutzt für Postingübersicht die Social-Media Plan Vorlage.](Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
+![Marketingmitarbeiterin nutzt für Postingübersicht die Social-Media Plan Vorlage.](shutter-speed-a_lBsEZZjWc-unsplash.jpg)
 
-Ein Redaktionsplan für Social-Media sorgt für strukturierte Prozesse und einen einheitlichen Auftritt. Bildrechte: © Urupong / Adobe Stock
+Ein Redaktionsplan für Social-Media sorgt für strukturierte Prozesse und einen einheitlichen Auftritt. Bildrechte: © Shutter Speed / Unsplash
 
 ### 2\. Ideen festhalten
 
@@ -35,9 +42,9 @@ Der nächste Pluspunkt eines Contentplans für Social-Media ist, dass Sie **unbe
 
 Der Redaktionsplan sollte in einem Kalender abgebildet werden können. So können Sie weit im Voraus planen, **zu welchen Terminen und in welchen Abständen Sie posten wollen**. Notieren Sie zum Beispiel wichtige Feiertage oder Ereignisse, zu denen Sie themengetreu Content veröffentlichen möchten. Wer regelmäßig Inhalte für Social-Media-Kanäle produziert, der weiß, wie **wichtig ein gut strukturierter Redaktionsplan für reibungslose Arbeitsabläufe** ist.
 
-![Vorlage für Social-Media Plan](Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
+![Vorlage für Social-Media Plan](towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg)
 
-Planen Sie die Termine für Ihre Posts in einem Kalender. Bildrechte: © mizar_21984 / Adobe Stock
+Planen Sie die Termine für Ihre Posts in einem Kalender. Bildrechte: © Towfiqu barbhuiya / Unsplash
 
 ### 4\. Inhalte systematisch ordnen
 

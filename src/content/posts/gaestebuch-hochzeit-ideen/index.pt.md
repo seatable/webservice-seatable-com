@@ -191,6 +191,8 @@ E o melhor: pode utilizar a versão base do SeaTable totalmente [grátis]({{< re
 
 {{< button label="Registe-se agora gratuitamente" link="/pages/registration" >}}
 
+Listas de convidados e inscrições também contam em eventos profissionais: com o [planeamento de eventos no SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}), as empresas mantêm a visão geral de todos os participantes em eventos empresariais, conferências e feiras.
+
 ## Conclusão: dar um upgrade ao livro de visitas do casamento com ideias
 
 Pode disponibilizar um livro de visitas clássico no casamento ou utilizar novas ideias e soluções digitais totalmente ao seu gosto. A nossa recomendação: reserve tempo para conceber você mesmo a seleção de suportes para o livro de visitas. Porque, no livro de visitas do casamento, as ideias criativas ajudam a envolver ativamente os seus convidados, a desbloquear os bloqueios de escrita e a reunir recordações partilhadas. Quer seja puzzle, árvore dos desejos, cabine fotográfica, livro de visitas em áudio ou vídeo para o casamento – cada variante tem o seu próprio encanto para captar momentos inesquecíveis. Um livro de visitas digital é a escolha ideal quando quer registar de forma estruturada mensagens pessoais e diferentes ficheiros multimédia.

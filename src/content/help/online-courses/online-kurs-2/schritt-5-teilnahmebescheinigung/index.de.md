@@ -39,14 +39,14 @@ Nehmen Sie sich ein paar Minuten Zeit, um die Möglichkeiten des Plugins zu erku
 
 Wenn Sie auf `{{< seatable-icon icon="dtable-icon-download" >}} PDF` klicken, wird das generierte PDF auf Ihren PC gespeichert.
 
-{{< warning  headline="Vorlagen beziehen sich immer auf eine Tabelle"  text="Beim Erstellen einer neuen Vorlage können Daten immer nur aus einer Tabelle verwendet werden. Wenn Sie Daten aus einer verlinkten Spalte benötigen, müssen Sie diese über Lookup-Spalten einbinden. Dies ist der Grund, warum in der Tabelle `Registrations` drei ausgeblendete Lookup-Spalten existieren. Diese Spalten werden nur für das Seitendesign-Plugin benötigt und können daher ausgeblendet bleiben." />}}
+{{< warning  headline="Vorlagen beziehen sich immer auf eine Tabelle"  text="Beim Erstellen einer neuen Vorlage können Daten immer nur aus einer Tabelle verwendet werden. Wenn Sie Daten aus einer verlinkten Spalte benötigen, müssen Sie diese über Lookup-Spalten einbinden. Dies ist der Grund, warum in der Tabelle Registrations drei ausgeblendete Lookup-Spalten existieren. Diese Spalten werden nur für das Seitendesign-Plugin benötigt und können daher ausgeblendet bleiben." />}}
 
 ### Versand per E-Mail
 
 Natürlich möchten Sie das PDF nicht manuell herunterladen und wieder hochladen, um es per E-Mail zu versenden. Stattdessen können Sie eine Schaltfläche in der Tabelle `Registrations` erstellen, die zwei Aktionen hintereinander ausführt:
 
-- `{{< seatable-icon icon="dtable-icon-pdf" >}} Create PDF and save to column`
-- `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+- `{{< seatable-icon icon="dtable-icon-pdf" >}} PDF erzeugen und in Spalte speichern`
+- `{{< seatable-icon icon="dtable-icon-email" >}} E-Mail versenden`
 
 Die Konfiguration dieser Aktionen sollte mittlerweile vertraut sein. Beim Erstellen des PDFs wählen Sie die gewünschte Vorlage und die Spalte, in der das Dokument gespeichert werden soll. Beim Versand der E-Mail geben Sie an, aus welcher Spalte der Anhang gesendet werden soll.
 
@@ -63,7 +63,7 @@ Nehmen Sie sich ein paar Minuten, um sich mit der Dateiverwaltung von SeaTable v
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Anleitung zum Seitendesign Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
+- [Anleitung zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Ein PDF-Dokument per Schaltfläche in einer Spalte speichern]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
 - [Die Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}})
 - [Die Dateiverwaltung einer Base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

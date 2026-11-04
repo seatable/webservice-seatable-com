@@ -208,9 +208,13 @@ Wenn Ihre Checkliste für den Urlaub umfangreich ist, kann es eine Herausforderu
 
 Verwenden Sie Reisegrößen für Hygieneartikel, um Platz zu sparen und den Flüssigkeitsbeschränkungen bei Flügen zu entsprechen.
 
+Vor der Reise steht der Urlaubsantrag: Wie Unternehmen Urlaube im Team fair und transparent planen, erklärt unser Beitrag zur [Urlaubsplanung für Personalverantwortliche]({{< relref "posts/20250324-urlaubsplanung" >}}).
+
 ## Fazit: Entspannt mit Ihrer Checkliste in den Urlaub
 
 Egal, ob Sie in der Vergangenheit ein Last-Minute-Packer oder ein vorausschauender Planer waren – in Zukunft können Sie ohne unnötige Hektik und mit allen essentiellen Dingen im Gepäck in den Urlaub starten. Mit dem [kostenlosen Template]({{< relref "templates/everyday-life/travel-planner" >}}) von SeaTable sparen Sie künftig wertvolle Zeit und gestalten Ihre Reisevorbereitungen für den anstehenden Urlaub effizient und stressfrei.
+
+{{< template-box id="836031683b7e4df489a2" >}}
 
 In der Vorlage finden Sie nicht nur eine flexibel anpassbare Urlaubs-Checkliste mit allen To-dos, sondern auch andere nützliche Funktionen: Sammeln Sie alle Ideen und Orte, die Sie besuchen möchten, erstellen Sie einen übersichtlichen Zeitplan und visualisieren Sie alle Standorte Ihrer geplanten Aktivitäten auf einer Karte. Sie können auch all die wunderbaren Erinnerungen während Ihrer Reise festhalten, Fotos hinzufügen und notieren, wo und wann diese besonderen Momente stattfanden.
 

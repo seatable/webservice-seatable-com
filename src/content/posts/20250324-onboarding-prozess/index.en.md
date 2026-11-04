@@ -28,7 +28,7 @@ Structured onboarding of new employees is of central importance for the success 
 
 In addition, a well-organized onboarding program helps to keep your **employees in the company in the long term**. This is because employees who feel well integrated and supported from the outset are more likely to remain loyal to your company. This reduces turnover and ensures that valuable knowledge and experience is retained in your company.
 
-![Onboarding process - The picture shows a life belt with the inscription Welcome On Board. It hangs on a plank wall](an-Bord.jpg)
+![Onboarding process - The picture shows a life ring with the inscription Welcome On Board. It hangs on a plank wall](an-Bord.jpg)
 
 Structured onboarding management **also promotes the motivation and satisfaction of new employees**. If they clearly understand what you expect of them and how they can contribute to the success of the company, their job satisfaction increases considerably. In addition, well-trained employees are happy to contribute their knowledge internally and are willing to develop themselves further. This creates a culture of continuous learning and knowledge sharing.
 
@@ -83,9 +83,22 @@ The orientation phase **starts on the first day of work and lasts for the first 
 - Presentation of the products
 - Communication of corporate goals and values
 
+#### Secret weapon buddy program: the personal anchor
+In addition to structured induction by managers, the so-called **buddy program** has proven its worth in practice. A buddy is an experienced colleague from the team who supports the newcomer as a personal mentor – on an equal footing.
+
+**Why a buddy makes the difference:**
+
+- **Low barrier:** Questions like "How do I use the printer?" or "Where do we usually get lunch?" are easier to ask a buddy than a manager.
+
+- **Faster network:** The buddy proactively introduces the new employee to other departments and ensures informal exchange.
+
+- **Psychological safety:** A familiar face in the first few weeks reduces stress and immediately gives the new team member the feeling of being welcome.
+
+Choose someone as a buddy who embodies the company culture well and enjoys passing on knowledge. This way, you make sure that social integration is not left to chance.
+
 ### 3\. Integration phase
 
-This phase of onboarding **extends from the third to the sixth, sometimes even up to the twelfth month**. The main focus during this time is on integrating your new employee more and more into the company. In order to encourage this, you should allow your employee to take the initiative on as many occasions as possible and let them implement their own ideas.
+This phase of onboarding **extends from the third to the sixth, sometimes even up to the twelfth month**. The main focus during this time is on integrating your new employee more and more into the company. In order to encourage this, you should allow your employee to take the initiative on as many occasions as possible and let them take charge of implementation independently.
 
 - Joint events
 - Workshops and information days
@@ -144,7 +157,7 @@ With just one click, you can create an intuitive checklist with all upcoming tas
 
 {{< template id="89db2f0bd28d41f19c01" height="500" >}}
 
-In the [free template]({{< relref "templates/human-resources/employee-onboarding" >}}) from SeaTable, you can bundle all tasks and information in one place. By assigning clear responsibilities as well as a time horizon and status to each to-do, you can clearly visualize the progress of the training and track it live.
+In the [free template]({{< relref "templates/human-resources/employee-onboarding" >}}) from SeaTable, you can bundle all tasks and information in one place. By assigning clear responsibilities as well as a time horizon and status to each to-do, you can clearly visualize the progress of the induction and track it live.
 
 Rely on suitable software and ensure that your new employees feel immediately welcome and quickly settle into your company. To use the [no-code platform SeaTable]({{< relref "/" >}}), all you need to do is register free of charge. You can then add the template to your base and complete it with your own data.
 

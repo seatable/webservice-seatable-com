@@ -30,15 +30,15 @@ seo:
 
 > Имя: `Sum`
 >
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+> Тип столбца: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Формула связи`
 >
-> Используемая формула: `rollup`
+> Формула: `rollup`
 >
-> Используется колонка ссылок: `Expenses`
+> Столбец ссылки в этой таблице: `Expenses`
 >
-> Колонка, используемая для расчета: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+> Столбец для суммирования: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
 >
-> Метод расчета `Sum`
+> Сводный метод: `Сумма`
 
 ![Столбец формулы связей «Sum» с настройкой rollup для суммирования связанных значений](images/lvl1-rollup.png)
 
@@ -56,5 +56,5 @@ seo:
 
 ## Справочная статья с дополнительной информацией
 
-- [Отрегулируйте высоту ряда]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Регулировка высоты строки в табличных представлениях]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Формула сворачивания]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

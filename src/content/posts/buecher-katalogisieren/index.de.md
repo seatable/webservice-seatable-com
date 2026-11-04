@@ -14,6 +14,16 @@ tags:
     - 'Toolings & Plugins'
     - 'Alltag & Freizeit'
 color: '#71c392'
+image_sources:
+    - file: 'yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/7iJD7oPwHVw'
+      author: 'Yaroslava Holiachenko'
+    - file: 'vitaly-gariev-R-xd9TJSWeM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/R-xd9TJSWeM'
+      author: 'Vitaly Gariev'
+    - file: 'tom-hermans-9BoqXzEeQqM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/9BoqXzEeQqM'
+      author: 'Tom Hermans'
 ---
 
 Wie Sie Ihre Bücher katalogisieren können, was die Vorteile davon sind und welche Apps Ihnen ganz konkret beim Katalogisieren Ihrer Bücher helfen, lesen Sie in diesem Artikel.
@@ -28,9 +38,9 @@ Je mehr Bücher Sie besitzen, umso schwieriger wird es, den genauen Überblick z
 
 Sie haben mehr als ein Bücherregal und die Standorte Ihrer Bücher verteilen sich auf mehrere Zimmer? Auch dann ist es sehr hilfreich, die Bücher zu katalogisieren. Mit der passenden Bücher-App wissen Sie so ganz genau, welches Buch wo steht, und müssen nicht lange suchen, wenn Sie es gerade einmal schnell zur Hand brauchen.
 
-![Frau katalogisiert mit Bücher-App ihre Bücher.](buecher-katalogisieren-frau.jpg)
+![Frau katalogisiert mit Bücher-App ihre Bücher.](yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg)
 
-Bücher katalogisieren © Viktoriia / Adobe Stock
+Bücher katalogisieren © Yaroslava Holiachenko / Unsplash
 
 ### Sie können ganz leicht Buch-Wunschlisten führen
 
@@ -54,9 +64,9 @@ Sie haben sich dazu entschieden, dass Sie Ihre Bücher katalogisieren möchten? 
 
 Wer seine Bücher sinnvoll katalogisieren, organisieren und verwalten möchte, sollte auf die Arbeit mit einer Bücher-App bzw. Bibliotheks-Apps setzen. Das geht schnell, unkompliziert und ganz ohne Stift und Zettel.
 
-![Mann katalogisiert seine Bücher in Bücher-App.](buecher-katalogisieren-mann.jpg)
+![Mann katalogisiert seine Bücher in Bücher-App.](vitaly-gariev-R-xd9TJSWeM-unsplash.jpg)
 
-Bücher katalogisieren © NDABCREATIVITY / Adobe Stock
+Bücher katalogisieren © Vitaly Gariev / Unsplash
 
 ## Wie funktioniert eine Bücher-App?
 
@@ -94,9 +104,9 @@ Ganz gleich, welches Medium Sie am Ende nutzen, gibt es drei Faktoren, die aussc
 2. **Intelligente Infos**: Wichtig zur Auswahl der passenden App ist auch, welche Infos Sie erfassen möchten. Reichen Titel und Autor oder sollen auch weiterführende Aspekte wie Genre, Lesestatus usw. aufgenommen werden?
 3. **Zeitmanagement**: Je mehr Bücher Sie haben, umso länger dauert es, diese zu katalogisieren. Um nicht die Motivation zu verlieren, planen Sie lieber mehr Zeit ein. Dafür werden Sie am Ende mit einer umfassenden privaten Bibliothek belohnt.
 
-![Bücherstapel, der in einer Bücher-App katalogisiert werden soll.](buecher-stapel.jpg)
+![Bücherstapel, der in einer Bücher-App katalogisiert werden soll.](tom-hermans-9BoqXzEeQqM-unsplash.jpg)
 
-Bücher katalogisieren © Kara / Adobe Stock
+Bücher katalogisieren © Tom Hermans / Unsplash
 
 ## Fazit
 

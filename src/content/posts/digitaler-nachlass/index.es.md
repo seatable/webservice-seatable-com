@@ -133,6 +133,8 @@ Otro software de base de datos que le permite gestionar su patrimonio digital de
 
 Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí]({{< relref "templates/everyday-life/password-manager" >}}). Si está interesado, solo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente y crear una visión general con sus propios datos.
 
+En las empresas, los departamentos de TI controlan accesos, licencias y dispositivos. La [gestión de servicios de TI con SeaTable]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}) muestra cómo hacerlo.
+
 ## Conclusión: el patrimonio digital es más importante que nunca
 
 Hoy en día, cada uno de nosotros tiene decenas de cuentas en Internet. Para asegurarse de que sus familiares puedan acceder a sus cuentas de usuario en el peor de los casos, debe tomar disposiciones a tiempo. Por eso es más importante que nunca un patrimonio digital en el que documente todos sus datos de acceso.

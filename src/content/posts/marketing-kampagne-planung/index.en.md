@@ -16,6 +16,13 @@ seo:
     description: 'A marketing campaign is only as good as its planning – here are 6 tips for perfect preparation!'
 register:
    show: true    
+image_sources:
+    - file: 'vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-working-on-laptop-in-modern-office-with-team-sOwh2ZHMGRQ'
+      author: 'Vitaly Gariev'
+    - file: 'campaign-creators-gMsnXqILjp4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4'
+      author: 'Campaign Creators'
 ---
 
 ## What is a marketing campaign?
@@ -26,7 +33,7 @@ Marketing campaigns are strategically planned, time-limited sequences of marketi
 
 The terms marketing campaign and marketing strategy are sometimes used interchangeably. However, they mean two different things. One crucial difference is the time component. While the strategy is a long-term, planned approach to implementing marketing objectives, the campaign is a **time-limited action** within the framework of this very strategy. A strategy can include many different marketing campaigns or advertising campaigns over a long period of time. This means that a well-developed strategy is the prerequisite for you to be able to start planning your marketing campaign at all.
 
-![Employee takes over marketing campaign planning](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Employee takes over marketing campaign planning](vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg)
 
 ## Six steps to success – how to successfully plan your marketing campaign
 
@@ -51,7 +58,7 @@ There are virtually no ideas that have not been thought of before. In other word
 
 Successful advertising campaigns require **clear responsibilities within the team**. This is because marketing campaigns work best when everyone knows what they have to do and when. Once [project objectives]({{< relref "templates/projects/project-plan" >}}), target group and market analysis have been defined, the next step is to allocate the areas of responsibility within the team and the budget. Don't forget to set deadlines and milestones and – very importantly – define **metrics for later performance analysis**.
 
-![Marketing team discusses approach to campaign planning.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![Marketing team discusses approach to campaign planning.](campaign-creators-gMsnXqILjp4-unsplash.jpg)
 
 ### 5\. Bringing measures and content together when planning the marketing campaign
 

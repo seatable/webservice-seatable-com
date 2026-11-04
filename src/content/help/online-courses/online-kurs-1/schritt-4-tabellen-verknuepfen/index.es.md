@@ -40,7 +40,7 @@ Para poder crear enlaces, necesitamos una segunda tabla, que crearemos a continu
 
 4. Volver a la table `Expenses`.
 
-5. Inserta otra columna. Dale a la nueva columna el nombre `Category-Link` y seleccione el tipo de columna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` off. La columna enlaza con la tabla `Categories`.  
+5. Inserta otra columna. Dale a la nueva columna el nombre `Category-Link` y seleccione el tipo de columna `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Enlace a otros registros` La columna enlaza con la tabla `Categories`.  
    ![Diálogo para crear la columna de enlace «Category-Link» hacia la tabla «Categories»](images/level1-create-link-column.png)
 
 ## Vinculación de filas entre las dos tablas
@@ -54,20 +54,20 @@ Ahora tiene dos opciones para vincular los registros de datos de ambas tablas:
 
 ### Enlazar células por operación de tratamiento de datos
 
-Para ello, cree una nueva operación de tratamiento de datos con el nombre `Assign Category` y seleccione el tipo de operación `Auto add link` de.
+Para ello, cree una nueva operación de tratamiento de datos con el nombre `Assign Category` y seleccione el tipo de operación `Añadir enlaces automáticamente`
 
 También debe realizar los siguientes ajustes para que SeaTable sepa cómo desea vincular sus datos:
 
 - Tabla: `Expenses`
 - Otra tabla: `Categories`
-- Si columna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
+- Columna 'si': `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
 - Columna: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
 ![Operación de procesamiento «Assign Category» con tipo «Auto add link» y campos correspondientes](images/level1-auto-add-link.png)
 
-Haga clic en Ejecutar para llevar a cabo la operación. Verá que todas las filas de la tabla `Expenses` con una línea de la tabla `Categories` estaban vinculados.
+Haga clic en `Ejecutar` para llevar a cabo la operación. Verá que todas las filas de la tabla `Expenses` con una línea de la tabla `Categories` estaban vinculados.
 
-{{< warning  headline="Cuando faltan enlaces"  text="Si algunas filas no tienen enlace después de la operación de tratamiento de datos, es probable que haya cometido un error tipográfico en las cuatro entradas de la tabla `Categories`. Corrija el error tipográfico y simplemente vuelva a realizar la operación de tratamiento de datos." />}}
+{{< warning  headline="Cuando faltan enlaces"  text="Si algunas filas no tienen enlace después de la operación de tratamiento de datos, es probable que haya cometido un error tipográfico en las cuatro entradas de la tabla Categories. Corrija el error tipográfico y simplemente vuelva a realizar la operación de tratamiento de datos." />}}
 
 ## Eliminar la columna innecesaria
 
@@ -84,6 +84,6 @@ Al suprimir la columna `Category` la opción de entrada en el formulario web se 
 
 ## Artículo de ayuda con más información
 
-- [Añadir una tabla a una base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
-- [Tratamiento de datos Comparación y enlace]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
+- [Añadir una tabla en una Base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
+- [Para enlazar dos tablas]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#para-enlazar-dos-tablas" >}})
+- [Tratamiento de datos: Comparar y enlazar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

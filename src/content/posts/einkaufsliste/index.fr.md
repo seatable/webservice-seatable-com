@@ -191,6 +191,8 @@ La liste de courses numérique / l'application vous aide également à mieux con
 
 {{< template-box id="913bf21e3f934d57b402" >}}
 
+En entreprise, la liste de courses devient l'approvisionnement : notre article avec [5 conseils pour l'approvisionnement en entreprise]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) montre comment organiser commandes et fournisseurs.
+
 ## Conclusion : quelle application de liste de courses vous convient ?
 
 En résumé, le choix de la bonne application de liste de courses dépend de vos préférences et de vos besoins. Bien que chacune des applications testées ait ses propres forces et faiblesses, elles ont toutes un point commun : elles facilitent votre quotidien et contribuent à réduire le stress lié aux achats.

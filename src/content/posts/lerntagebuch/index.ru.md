@@ -11,7 +11,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Образование'
+    - 'Повседневная жизнь и досуг'
 color: '#f1c449'
 register:
    show: true

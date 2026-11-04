@@ -39,7 +39,11 @@ Ob sich ein Fahrtenbuch oder die 1%-Regelung für Ihren Firmenwagen mehr lohnt, 
 
 Anders sieht es aus, wenn Sie den Wagen **weniger als die Hälfte der Zeit privat nutzen**. Hier kann ein Fahrtenbuch von Vorteil sein. Indem Sie detailliert dokumentieren, wann und zu welchem Zweck Sie das Fahrzeug benutzen, lässt sich dem Finanzamt präzise nachweisen, welcher Anteil der Fahrten privat und welcher beruflich ist. So können Sie nur die tatsächliche Privatnutzung angeben und den geldwerten Vorteil, den Sie versteuern müssen, möglicherweise deutlich senken. Letztendlich tragen die Fahrer der Firmenwagen den Aufwand, auch wenn sie keine eigenen Steuerabzüge geltend machen können. Doch bei überwiegend beruflicher Nutzung kann sich dieser langfristig finanziell für das Unternehmen lohnen.
 
-**Hinweis**: Wenn Sie die Nutzung eines Firmenwagens mit einem Fahrtenbuch dokumentieren, ist ein Wechsel zur pauschalen 1%-Methode im laufenden Jahr – und umgekehrt – leider nicht möglich. Die gewählte Methode bleibt dann für das ganze Jahr verbindlich.
+{{< warning headline="Hinweis" >}}
+
+Wenn Sie die Nutzung eines Firmenwagens mit einem Fahrtenbuch dokumentieren, ist ein Wechsel zur pauschalen 1%-Methode im laufenden Jahr – und umgekehrt – leider nicht möglich. Die gewählte Methode bleibt dann für das ganze Jahr verbindlich.
+
+{{< /warning >}}
 
 ## Rechtliche Anforderungen und was Sie beachten müssen
 
@@ -61,7 +65,7 @@ Fahrtenbücher werden von Finanzämtern genau unter die Lupe genommen, da sie di
 
 ![Belege für ein digitales Fahrtenbuch](Worauf-das-Finanzamt-achtet.jpg 'Rechnungen von Tankstellen und Werkstätten müssen zu den Einträgen im Fahrtenbuch passen.')
 
-Schon kleine **Lücken oder Unstimmigkeiten**, wie beispielsweise die unklare Trennung zwischen beruflichen und privaten Fahrten, können problematisch sein. Wird das Finanzamt auf solche Fehler aufmerksam, kann es das Fahrtenbuch ablehnen und automatisch die 1%-Regelung anwenden. Diese pauschale Versteuerung ist meist teurer und geht zu Lasten des Fahrzeughalters. Deshalb ist Sorgfalt, wenn Sie ein Fahrtenbuch führen, besonders wichtig ist. 
+Schon kleine **Lücken oder Unstimmigkeiten**, wie beispielsweise die unklare Trennung zwischen beruflichen und privaten Fahrten, können problematisch sein. Wird das Finanzamt auf solche Fehler aufmerksam, kann es das Fahrtenbuch ablehnen und automatisch die 1%-Regelung anwenden. Diese pauschale Versteuerung ist meist teurer und geht zu Lasten des Fahrzeughalters. Deshalb ist Sorgfalt, wenn Sie ein Fahrtenbuch führen, besonders wichtig. 
 
 Bei der Führung des Fahrtenbuchs, ob handschriftlich oder digital, gilt das Prinzip der **Nachvollziehbarkeit**. Nachträgliche Änderungen dürfen keinesfalls Spuren verwischen oder die ursprünglichen Einträge verdecken. In einem **handschriftlichen Fahrtenbuch** bedeutet dies, dass Sie falsche Einträge nur so durchstreichen dürfen, dass diese lesbar bleiben – der Einsatz von Tipp-Ex oder ähnlichen Mitteln ist untersagt. In einem **elektronischen Fahrtenbuch** müssen alle Änderungen protokolliert werden, um jederzeit eine lückenlose Historie der Fahrten gewährleisten zu können.
 
@@ -98,7 +102,11 @@ Vimcar ist eine digitale Fahrtenbuch-Software speziell für Unternehmen und Selb
 - **Analysefunktion**: Umfangreiche Analysefunktionen
 - **Manueller Aufwand**: Minimaler Aufwand, da automatisierte Erfassung
 
-**Hinweis**: Falls Sie bereits <a href="https://www.lexware.de/buchhaltungssoftware/">Lexware als Buchhaltungssoftware nutzen</a>, können Sie über Lexware das Fahrtenbuch von Vimcar verwenden, da beide Unternehmen miteinander kooperieren.
+{{< warning headline="Hinweis" >}}
+
+Falls Sie bereits [Lexware](https://www.lexware.de/buchhaltungssoftware/) als Buchhaltungssoftware nutzen, können Sie über Lexware das Fahrtenbuch von Vimcar verwenden, da beide Unternehmen miteinander kooperieren.
+
+{{< /warning >}}
 
 ![Hier wird ein Rücklicht eines blauen Autos gezeigt, das mit einem Fahrtenbuch geführt wird](image.jpg)
 
@@ -121,7 +129,7 @@ SeaTable punktet in Sachen **Datenschutz** und bietet Ihnen die Wahl zwischen [C
 
 Ein besonderes Highlight ist die Möglichkeit, direkt in SeaTable einen **QR-Code** zu generieren, den Sie beispielsweise im Dienstfahrzeug anbringen können. So können Sie jederzeit bequem auf das Webformular zum Fahrtenbuch zugreifen. Zusätzlich ermöglicht SeaTable einfache **Analysen und Auswertungen**, sodass Sie die Nutzung Ihres Fahrzeugs genau nachvollziehen können.
 
-{{< template id=14498b7d75cd47ab934c >}}
+{{< template-box id=14498b7d75cd47ab934c >}}
 
 Nach dem Absenden des Formulars haben die Fahrer keinen Zugriff mehr auf ihre Einträge und können daher keine nachträglichen Änderungen oder Manipulationen vornehmen. Zwar haben Sie selbst die Möglichkeit, Anpassungen direkt in der Tabelle vorzunehmen, jedoch werden sämtliche Änderungen detailliert protokolliert und bleiben so jederzeit nachvollziehbar.
 
@@ -132,7 +140,11 @@ Nach dem Absenden des Formulars haben die Fahrer keinen Zugriff mehr auf ihre Ei
 - **Analysefunktion**: Umfangreiche Analyse mit geringem Aufwand
 - **Manueller Aufwand**: Moderater Aufwand durch manuelle Eingabe ins Formular
 
-**Hinweis:** Mit SeaTable können Sie nicht nur ein individuelles Fahrtenbuch führen, sondern auch Ihr gesamtes [Fuhrparkmanagement]({{< relref "templates/operations/fleet-management" >}}) effizient verwalten.
+{{< warning headline="Hinweis" >}}
+
+Mit SeaTable können Sie nicht nur ein individuelles Fahrtenbuch führen, sondern auch Ihr gesamtes [Fuhrparkmanagement]({{< relref "templates/operations/fleet-management" >}}) effizient verwalten.
+
+{{< /warning >}}
 
 Wenn Sie das digitale Fahrtenbuch von SeaTable nutzen möchten, [registrieren Sie sich einfach]({{< relref "pages/registration" >}}) und starten Sie mit der kostenlosen Vorlage.
 
@@ -147,8 +159,8 @@ Wenn Sie das digitale Fahrtenbuch von SeaTable nutzen möchten, [registrieren Si
 - Kilometerstand zu Beginn und Ende der Fahrt
 - Zielort und Zweck der Fahrt
 - Name des Geschäftspartners oder Kunden (bei geschäftlichen Fahrten)
-  {{< /faq >}}
-  {{< faq "Was passiert, wenn ich mein Fahrtenbuch verliere?" >}}Wenn Sie Ihr Fahrtenbuch verlieren, hängt die Konsequenz davon ab, ob Sie verpflichtet waren, es zu führen:
+{{< /faq >}}
+{{< faq "Was passiert, wenn ich mein Fahrtenbuch verliere?" >}}Wenn Sie Ihr Fahrtenbuch verlieren, hängt die Konsequenz davon ab, ob Sie verpflichtet waren, es zu führen:
 
 **Bei verpflichtendem Fahrtenbuch:** Der Verlust führt zu einem Bußgeld von 100 Euro. Zudem kann die Fahrtenbuchauflage verlängert werden, da das Buch nicht mehr vorgelegt werden kann.
 

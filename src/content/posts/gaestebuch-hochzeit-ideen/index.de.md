@@ -191,6 +191,8 @@ Und das Beste: Sie können die Basis-Version von SeaTable komplett [kostenlos]({
 
 {{< button label="Jetzt kostenlos registrieren" link="/pages/registration" >}}
 
+Auch bei geschäftlichen Veranstaltungen zählen Gästelisten und Anmeldungen: Mit der [Eventplanung in SeaTable]({{< relref "pages/landing-pages/use-cases/event-management" >}}) behalten Unternehmen bei Firmenevents, Konferenzen und Messen den Überblick über alle Teilnehmenden.
+
 ## Fazit: Das Gästebuch für die Hochzeit mit Ideen upgraden
 
 Sie können ein klassisches Gästebuch bei der Hochzeit auslegen oder neue Ideen und digitale Lösungen ganz nach Ihren Wünschen nutzen. Unsere Empfehlung: Nehmen Sie sich die Zeit, die Medienauswahl für das Gästebuch selbst zu gestalten. Denn beim Gästebuch zur Hochzeit helfen kreative Ideen, Ihre Hochzeitsgäste aktiv einzubinden, Schreibblockaden zu lösen und gemeinsame Erinnerungen zu sammeln. Ob Puzzle, Wunschbaum, Fotobox, Audio- oder Video Gästebuch zur Hochzeit – jede Variante besitzt ihren eigenen Reiz, um unvergessliche Momente einzufangen. Ein digitales Gästebuch ist das Mittel der Wahl, wenn Sie persönliche Botschaften und verschiedene Mediendateien strukturiert erfassen möchten.
