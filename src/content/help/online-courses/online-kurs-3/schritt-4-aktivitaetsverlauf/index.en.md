@@ -84,4 +84,4 @@ Find the edge of what the log can undo: add a brand-new row to `Customers`, then
 ## Help article with further information
 
 - [History and logs]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs/" >}})
-- [Options for data recovery]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/" >}})
+- [Data recovery options with SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/" >}})
