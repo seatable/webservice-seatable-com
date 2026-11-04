@@ -100,9 +100,9 @@ Try one of the ways to show Malika only part of the base, and check the result f
 
 ## Help article with further information
 
-- [Add a team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen/" >}})
+- [Add a new team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen/" >}})
 - [Base and view shares at a glance]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick/" >}})
 - [Set table permissions]({{< relref "help/base-editor/tabellen/tabellenberechtigungen-setzen/" >}})
 - [Access to the notifications]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
 - [Table pages in SeaTable apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/" >}})
-- [User and role management in an app]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})
+- [User and role management of an app]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})
