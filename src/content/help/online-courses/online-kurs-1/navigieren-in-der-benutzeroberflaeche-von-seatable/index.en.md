@@ -19,7 +19,7 @@ Let's start with how to find your way around SeaTable. SeaTable is a web solutio
 
 Open your browser, go to the SeaTable login page and log in with your access data. The start page should look something like this:
 
-![Elements of the SeaTable home page](images/elements_seatable_homepage.png)
+{{< zoom image="images/elements_seatable_homepage.png" alt="Elements of the SeaTable home page" >}}
 
 ## The home page
 
@@ -39,7 +39,7 @@ Now open one of your bases by clicking on one of your bases with the mouse. If y
 
 You will initially only see three empty cells in your base, so don't be confused when we explain the various elements using a filled example base.
 
-![Elements of the SeaTable base](images/elements_seatable_base.png)
+{{< zoom image="images/elements_seatable_base.png" alt="Elements of the SeaTable base" >}}
 
 Phew, the first sight of a base can be quite frightening. There are so many buttons and interaction options waiting to be used. Let's take a look at the various elements in detail.
 

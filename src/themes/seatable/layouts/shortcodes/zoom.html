@@ -1,7 +1,7 @@
 {{/* zoom: render an image inline; click it to open the same image full-size in a
      lightbox modal (Esc or click-outside to close). For hard-to-read screenshots/GIFs.
        {{< zoom image="images/foo.gif" alt="..." >}}
-       {{< zoom image="images/foo.gif" alt="..." hint="Agrandir" >}}   (optional label)
+       {{< zoom image="images/foo.gif" alt="..." hint="Agrandir" >}}   (optional label; default: article.zoom_hint in the theme i18n files)
      `image` is a page-bundle path: images in a bundle are Page Resources, so we resolve
      via .Page.Resources.GetMatch -> .RelPermalink (a raw src="images/..." would 404),
      with a fallback to the raw path. Self-contained inline style+script, idempotent —
@@ -9,7 +9,7 @@
      any other lightbox on the page. */}}
 {{- $image := .Get "image" -}}
 {{- $alt := .Get "alt" | default "" -}}
-{{- $hint := .Get "hint" | default "Click to enlarge" -}}
+{{- $hint := .Get "hint" | default (i18n "article.zoom_hint") | default "Click to enlarge" -}}
 {{- $src := $image -}}
 {{- with .Page.Resources.GetMatch $image }}{{ $src = .RelPermalink }}{{ end -}}
 <figure class="zoom-fig my-6">
