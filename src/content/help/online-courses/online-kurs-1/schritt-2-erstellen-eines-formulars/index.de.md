@@ -17,7 +17,7 @@ Doch natürlich wäre es schön, wenn Sie auch von unterwegs über Ihr Handy wei
 
 ## Anlage des Webformulars
 
-Im Kopfbereich Ihrer Base finden Sie viele zusätzliche Funktionen. Hinter dem Knopf `Forms` bietet SeaTable Ihnen die Möglichkeit neue Webformulare zu erstellen.
+Im Kopfbereich Ihrer Base finden Sie viele zusätzliche Funktionen. Hinter dem Knopf `Formulare` bietet SeaTable Ihnen die Möglichkeit neue Webformulare zu erstellen.
 
 ![Formularverwaltung mit Schaltfläche „Forms“ und neuem Webformular](images/level1-create-webform.png)
 
@@ -31,9 +31,9 @@ Im Kopfbereich Ihrer Base finden Sie viele zusätzliche Funktionen. Hinter dem K
 
 Ihr Webformular ist fast fertig und kann bereits genutzt werden. Trotzdem gibt es noch drei Einstellungen, die ich Ihnen empfehlen würde. Um die Einstellungen eines Eingabefeldes anzupassen, müssen Sie im Formular auf das Eingabefeld klicken, wodurch unmittelbar auf der rechten Seite die Einstellungsmöglichkeiten dieses Eingabefelds angezeigt werden. Die Einstellungsmöglichkeiten variieren je nach Eingabefeld, welches Sie anklicken.
 
-- `Category`: Die einzelnen Optionen sollen als **Liste** dargestellt werden
-- `Date`: Der aktuelle Tag soll bereits als **Standardwert** gesetzt werden
-- `Amount`: Die Eingabe dieses Feldes ist zwingend **erforderlich**
+- `Category`: Wählen Sie die Darstellung `Liste`
+- `Date`: Legen Sie das heutige Datum als `Standardwert` fest
+- `Amount`: Aktivieren Sie die Option `Pflichtfeld`
 
 Nun ist die Konfiguration des Webformulars abgeschlossen und wir können erste Datensätze darüber erfassen.
 
@@ -51,6 +51,6 @@ Nehmen Sie sich auch ein paar Minuten Zeit und erkunden Sie die zusätzlichen M�
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Webformulare im Allgemeinen]({{< relref "help/base-editor/webformulare/webformulare" >}})
+- [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Anlegen eines Webformulars]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
 - [Konfigurationsmöglichkeiten eines Webformulars]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

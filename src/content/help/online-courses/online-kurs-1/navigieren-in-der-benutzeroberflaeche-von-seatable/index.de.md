@@ -74,5 +74,5 @@ In den folgenden Artikeln werden wir immer am Ende der Seite einen Abschnitt mit
 - [Eine neue Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Was ist eine Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
   )
-- [SeaTable Glossar]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Glossar]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
 - [Eine Base zu den Favoriten hinzufügen]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

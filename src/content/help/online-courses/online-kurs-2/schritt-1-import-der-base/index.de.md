@@ -116,6 +116,6 @@ Nehmen Sie sich ausreichend Zeit, um die Base im Detail zu erkunden. Sollten Ihn
 ## Hilfeartikel mit weiteren Informationen
 
 - [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Grundlagen von SeaTable Formeln]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
+- [Die Formel-Spalte]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 - [Farbliche Markierung von Zeilen]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Ansichten sperren]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

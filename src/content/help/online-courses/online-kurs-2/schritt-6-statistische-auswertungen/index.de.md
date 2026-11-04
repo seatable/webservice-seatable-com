@@ -31,7 +31,7 @@ Mit SeaTable können Sie in wenigen Sekunden Diagramme und Grafiken erstellen, d
 
 ## Selbst ein Schaubild erstellen
 
-Wenn Sie die vierte Frage – „Welcher Teilnehmer hat mehr als einen Kurs gebucht?“ – visualisieren möchten, können Sie dies einfach selbst tun. Klicken Sie oben rechts im Statistik-Modul auf `{{< seatable-icon icon="dtable-icon-add-table" >}} Add chart` und erkunden Sie die verschiedenen Optionen. Hier können Sie nach Teilnehmern filtern und die Anzahl der Buchungen darstellen.
+Wenn Sie die vierte Frage – „Welcher Teilnehmer hat mehr als einen Kurs gebucht?“ – visualisieren möchten, können Sie dies einfach selbst tun. Klicken Sie oben rechts im Statistik-Modul auf `{{< seatable-icon icon="dtable-icon-add-table" >}} Auswertung hinzufügen` und erkunden Sie die verschiedenen Optionen. Hier können Sie nach Teilnehmern filtern und die Anzahl der Buchungen darstellen.
 
 ## Automatische Aktualisierung der Schaubilder
 
@@ -40,4 +40,4 @@ Ein großer Vorteil des Statistik-Moduls in SeaTable ist die automatische Aktual
 ## Hilfeartikel mit weiteren Informationen
 
 - [Anleitung zum Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
-- [Statistiken und Datenanalyse]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Statistiken und Datenanalyse]({{< relref "help/base-editor/statistiken/statistiken" >}})

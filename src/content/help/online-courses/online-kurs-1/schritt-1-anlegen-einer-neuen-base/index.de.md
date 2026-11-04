@@ -47,9 +47,9 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 >
 > Format: beliebig
 >
-> Minutengenau: `Yes`
+> Minutengenau: aktiviert
 
-**Hinweis:** Anstelle des Spaltentyps `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` hätte man hier auch den Spaltentyp `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` verwenden können. Während Sie die Datumsspalte händisch ausfüllen müssen, würde diese automatisch mit dem aktuellen Datum gefüllt werden. Das spart natürlich Zeit. Der Nachteil wäre aber, dass Sie den Datumswert nicht mehr verändern können und z.B. rückwirkend keine Ausgaben mehr für andere Tage erfassen könnten.
+**Hinweis:** Anstelle des Spaltentyps `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` hätte man hier auch den Spaltentyp `{{< seatable-icon icon="dtable-icon-creation-time" >}} Erstellt` verwenden können. Während Sie die Datumsspalte händisch ausfüllen müssen, würde diese automatisch mit dem aktuellen Datum gefüllt werden. Das spart natürlich Zeit. Der Nachteil wäre aber, dass Sie den Datumswert nicht mehr verändern können und z.B. rückwirkend keine Ausgaben mehr für andere Tage erfassen könnten.
 
 ---
 
@@ -57,7 +57,7 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 
 > Name: `Amount`
 >
-> Spaltentyp: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+> Spaltentyp: `{{< seatable-icon icon="dtable-icon-number" >}} Zahl`
 >
 > Format: `Euro`
 
@@ -67,7 +67,7 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 
 > Name: `Category`
 >
-> Spaltentyp: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
+> Spaltentyp: `{{< seatable-icon icon="dtable-icon-single-election" >}} Einfachauswahl`
 
 ---
 
@@ -98,8 +98,8 @@ Das war auch schon Schritt 1 dieses Online Kurses. Scrollen Sie bis ans Ende die
 
 - [Eine neue Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Wie man den Spaltentyp anpasst]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
-- [Löschen einer Zeile]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
+- [Löschen mehrerer Zeilen]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#löschen-mehrerer-zeilen" >}})
 - [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
-- [Besonderheiten der ersten Spalte]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
+- [Auswahl-Optionen hinzufügen]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte#auswahl-optionen-hinzufügen" >}})
+- [Die Besonderheiten der ersten Spalte]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Aussehen einer Base anpassen (Icon und Farbe)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})
