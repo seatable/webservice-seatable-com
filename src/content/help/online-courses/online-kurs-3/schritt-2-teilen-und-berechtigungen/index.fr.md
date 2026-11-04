@@ -101,6 +101,6 @@ Essayez l'une des manières de ne montrer à Malika qu'une partie de la base, et
 - [Ajouter un nouveau membre à l'équipe]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen/" >}})
 - [Vue d'ensemble des partages de base et de vues]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick/" >}})
 - [Définir des permissions de tableau]({{< relref "help/base-editor/tabellen/tabellenberechtigungen-setzen/" >}})
-- [Accéder aux notifications]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
+- [Accès aux notifications]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
 - [Pages de tableau dans les applications de SeaTable]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/" >}})
 - [Gestion des utilisateurs et des rôles d'une application]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})

@@ -112,8 +112,8 @@ Quando a base lhe parecer familiar, está pronto para chamar a sua colega.
 
 - [Criar um novo grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen/" >}})
 - [Criar uma base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/" >}})
-- [Ativar um plugin numa base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
+- [Activação de um Plugin numa Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
 - [A coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte/" >}})
 - [A coluna Fórmula para ligações]({{< relref "help/base-editor/spaltentypen/die-spalte-formel-fuer-verknuepfungen/" >}})
-- [A coluna de fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte/" >}})
+- [A coluna de fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte/" >}})
 - [Agrupamento, ordenação e filtragem]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter/" >}})

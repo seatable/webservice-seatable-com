@@ -54,4 +54,4 @@ Experimente por si o lado em direto, com a Malika. Abra uma janela privada (anó
 
 ## Artigo de ajuda com mais informações
 
-- [Instruções para o plugin de quadro branco (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw/" >}})
+- [Instruções para o plug-in do quadro branco (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw/" >}})

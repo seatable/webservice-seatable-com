@@ -103,4 +103,4 @@ seo:
 - [Установка разрешений для таблиц]({{< relref "help/base-editor/tabellen/tabellenberechtigungen-setzen/" >}})
 - [Доступ к уведомлениям]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
 - [Страницы таблиц в приложениях SeaTable]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/" >}})
-- [Управление пользователями и ролями в приложении]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})
+- [Администрирование пользователей и ролей в приложении]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})

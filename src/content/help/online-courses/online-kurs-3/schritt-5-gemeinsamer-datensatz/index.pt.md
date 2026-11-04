@@ -118,6 +118,6 @@ Em `Campaign Hub`, adicione à tabela `Campaigns` uma coluna de ligação `{{< s
 ## Artigo de ajuda com mais informações
 
 - [Adicionar um membro da equipa a um grupo]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen/" >}})
-- [Como funcionam os conjuntos de dados comuns]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
+- [Como funcionam os Conjuntos de Dados Partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
 - [Processamento de dados: Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})
-- [Exportar e importar opções de seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})
+- [Exportar e importar opções]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})

@@ -70,5 +70,5 @@ Também pode retirar alguém de uma conversa. Abra o ícone de mais por cima do 
 
 ## Artigo de ajuda com mais informações
 
-- [Comentar linhas]({{< relref "help/base-editor/zeilen/zeilen-kommentieren/" >}})
-- [Sentido e objetivo das notificações no SeaTable]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/" >}})
+- [Comentar as filas]({{< relref "help/base-editor/zeilen/zeilen-kommentieren/" >}})
+- [Senso e objectivo das notificações em SeaTable]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/" >}})

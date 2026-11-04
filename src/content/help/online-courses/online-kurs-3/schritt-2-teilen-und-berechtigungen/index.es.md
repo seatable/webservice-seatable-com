@@ -103,4 +103,4 @@ Pruebe una de las formas de mostrar a Malika solo una parte de la base y comprue
 - [Establecer permisos de tabla]({{< relref "help/base-editor/tabellen/tabellenberechtigungen-setzen/" >}})
 - [Acceso a las notificaciones]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
 - [Páginas de tabla en aplicaciones de SeaTable]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/" >}})
-- [Administración de usuarios y roles de una aplicación]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})
+- [Administración de usuarios y funciones de una aplicación]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})

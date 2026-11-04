@@ -101,6 +101,6 @@ Experimente uma das formas de mostrar à Malika apenas uma parte da base, e conf
 - [Adicionar um novo membro da equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen/" >}})
 - [Partilhar bases e vistas]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick/" >}})
 - [Definir permissões de tabela]({{< relref "help/base-editor/tabellen/tabellenberechtigungen-setzen/" >}})
-- [Aceder às notificações]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
+- [Acesso às notificações]({{< relref "help/startseite/benachrichtigungen/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren#access-to-the-notifications" >}})
 - [Páginas de tabela em aplicações de SeaTable]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/" >}})
 - [Gestão de utilizadores e funções de uma aplicação]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app/" >}})

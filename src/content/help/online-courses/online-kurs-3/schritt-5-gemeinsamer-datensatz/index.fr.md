@@ -119,5 +119,5 @@ Dans `Campaign Hub`, ajoutez au tableau `Campaigns` une colonne de lien `{{< sea
 
 - [Ajouter un membre de l'équipe à un groupe]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen/" >}})
 - [Fonctionnement des jeux de données communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
-- [Traitement des données : comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})
-- [Exporter et importer les options d'une sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})
+- [Traitement des données : comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})
+- [Exporter et importer des options]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})

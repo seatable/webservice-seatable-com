@@ -54,4 +54,4 @@ seo:
 
 ## Справочная статья с дополнительной информацией
 
-- [Инструкции для плагина белой доски (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw/" >}})
+- [Инструкции для плагина для белой доски (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw/" >}})

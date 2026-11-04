@@ -118,6 +118,6 @@ En `Campaign Hub`, añada a la tabla `Campaigns` una columna de enlace `{{< seat
 ## Artículo de ayuda con más información
 
 - [Añadir un miembro del equipo a un grupo]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen/" >}})
-- [Cómo funcionan los conjuntos de datos comunes]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
-- [Tratamiento de datos: comparar y copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})
-- [Exportar e importar las opciones de una selección única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})
+- [Cómo funcionan los conjuntos de datos compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
+- [Tratamiento de datos: Comparar y copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})
+- [Exportación e importación de opciones]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})

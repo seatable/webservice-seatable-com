@@ -83,6 +83,6 @@ De que é que estamos à espera? Vamos lá!
 
 ## Artigo de ajuda com mais informações
 
-- [Ativar um plugin numa base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
+- [Activação de um Plugin numa Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base/" >}})
 - [Instruções para o plugin de cursos online]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
 - [Introdução ao trabalho com grupos]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen/" >}})

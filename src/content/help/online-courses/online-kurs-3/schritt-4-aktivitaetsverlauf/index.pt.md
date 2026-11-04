@@ -81,5 +81,5 @@ Descubra o limite do que o registo consegue anular: adicione uma linha nova a `C
 
 ## Artigo de ajuda com mais informações
 
-- [Histórico e registos]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs/" >}})
-- [Opções de recuperação de dados com o SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/" >}})
+- [História e Registos]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs/" >}})
+- [Opções de recuperação de dados com SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/" >}})

@@ -120,4 +120,4 @@ Fügen Sie in `Campaign Hub` der Tabelle `Campaigns` eine Verknüpfungsspalte `{
 - [Ein Teammitglied einer Gruppe hinzufügen]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen/" >}})
 - [Funktionsweise von gemeinsamen Datensätzen]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/" >}})
 - [Datenverarbeitung: Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/" >}})
-- [Optionen einer Einfachauswahl exportieren und importieren]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})
+- [Optionen exportieren und importieren]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte/#export-and-import-options" >}})
