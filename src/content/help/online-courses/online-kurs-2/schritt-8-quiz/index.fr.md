@@ -10,15 +10,15 @@ aliases:
     - '/fr/aide/schritt-8-quiz'
 seo:
     title: 'Étape 8 : Quiz – Testez vos connaissances SeaTable'
-    description: 'À la fin du tutoriel, un quiz de 12 questions sur SeaTable vous attend. Testez vos connaissances et répétez‑le jusqu’à 10 bonnes réponses.'
+    description: 'À la fin du cours, un quiz de 12 questions sur SeaTable vous attend. Testez vos connaissances et répétez‑le jusqu’à obtenir au moins 10 bonnes réponses.'
 
 ---
 
-**Vous avez réussi !** Vous êtes arrivé à la fin du deuxième tutoriel.
+**Bravo !** Vous êtes arrivé au bout du deuxième cours.
 
-Vous pouvez maintenant lancer le quiz pour tester vos connaissances sur SeaTable. Le quiz est en anglais et se compose de 12 questions.
+Place au quiz, pour tester vos connaissances sur SeaTable. Il est en anglais et comporte 12 questions.
 
-- Comme la dernière fois, la première partie est consacrée à des questions plutôt générales sur SeaTable, tandis que la deuxième partie se concentre sur la base que vous avez créée.
-- Ne vous inquiétez pas si vous ne réussissez pas le quiz immédiatement. Vous pouvez le refaire autant de fois que vous le souhaitez, jusqu'à ce que vous ayez répondu correctement à au moins 10 des 12 questions.
+- Comme durant le cours précédent, la première partie porte sur SeaTable en général, la seconde sur la base que vous avez construite.
+- Pas d'inquiétude si vous échouez au premier essai : vous pouvez le repasser autant de fois que nécessaire, jusqu'à obtenir au moins 10 bonnes réponses sur 12.
 
 [Vers le quiz](https://tally.so/r/mDDbpb)

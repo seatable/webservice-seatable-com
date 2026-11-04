@@ -13,30 +13,30 @@ seo:
     description: 'Importez des données via CSV dans votre gestion de dépenses SeaTable. Contrôle, formats pris en charge, et exportation expliqués.'
 ---
 
-Vous avez probablement déjà saisi quelques dépenses dans votre nouvelle gestion des dépenses. Cependant, pour les étapes suivantes, nous avons besoin de quelques données supplémentaires. C'est pourquoi nous allons supprimer vos entrées actuelles et importer de nouveaux enregistrements dans le tableau.
+Vous avez sans doute déjà saisi quelques dépenses dans votre nouvelle base. Pour les étapes suivantes, il nous faut cependant davantage de données. Vous allez donc supprimer vos lignes actuelles et importer un nouveau jeu de données dans le tableau.
 
-## Suppression des anciens enregistrements
+## Supprimer les anciennes lignes
 
-Passez à votre tableau `Expenses` et supprimez toutes les lignes saisies jusqu'à présent. Votre tableau devrait maintenant être vide.
+Ouvrez votre tableau `Expenses` et supprimez toutes les lignes saisies jusqu'ici. Le tableau est maintenant vide.
 
-## Importation de nouveaux enregistrements
+## Importer de nouvelles données
 
-SeaTable offre de nombreuses possibilités d'importation. Vous pouvez ainsi importer des bases entières par fichier .dtable, .csv ou .xlsx. Mais même si vous avez déjà une base, vous pouvez écrire de nouvelles données ou des données mises à jour directement dans un tableau. C'est ce que nous voulons faire maintenant à l'aide d'un fichier CSV. Nous aurions également pu utiliser un fichier Excel.
+SeaTable offre de nombreuses possibilités d'importation. Vous pouvez importer des bases entières à partir d'un fichier .dtable, .csv ou .xlsx, mais aussi ajouter des données, ou mettre à jour des données existantes, directement dans le tableau d'une base. C'est ce que vous allez faire ici avec un fichier CSV ; un fichier Excel aurait aussi fait l'affaire.
 
-- Téléchargez le fichier [expenses.csv](/expenses.csv) suivant
-- Importez maintenant le fichier CSV dans le tableau `Expenses`
-- Vérifiez que le tableau comporte exactement 50 entrées.
+- téléchargez le fichier [expenses.csv](/expenses.csv) ;
+- importez-le dans le tableau `Expenses` ;
+- vérifiez que le tableau comporte exactement 50 lignes.
 
-![Boîte de dialogue d’import CSV dans la table « Expenses » avec aperçu des données](images/level1-import-csv.png)
+![Boîte de dialogue d’import CSV dans le tableau « Expenses » avec aperçu des données](images/level1-import-csv.png)
 
 ## Importation et exportation
 
-Bien entendu, vous pouvez exporter des données, des tableaux et des bases dans SeaTable, tout comme vous pouvez les importer. Jouez donc un peu avec les différentes possibilités pour vous faire une idée de ces fonctions. Pour la suite de ce cours, l'exportation n'est pas importante.
+Ce que vous pouvez importer dans SeaTable, vous pouvez aussi l'exporter : données, tableaux ou bases entières. Essayez les différentes options pour vous faire une idée. L'exportation ne sert pas dans la suite du cours.
 
-C'est tout pour cette partie. Passons à l'étape suivante.
+C'est tout pour cette étape : passons à la suivante.
 
 ## Article d'aide avec plus d'informations
 
-- [Suppression de lignes]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Importation et exportation de données dans SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Suppression de plusieurs lignes]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#suppression-de-plusieurs-lignes" >}})
+- [Importation et exportation de données]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 - [Quels sont les formats d'importation pris en charge par SeaTable ?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

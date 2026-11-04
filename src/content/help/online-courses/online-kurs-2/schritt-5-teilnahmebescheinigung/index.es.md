@@ -41,14 +41,14 @@ Tómate unos minutos para explorar las posibilidades del plugin. Por ejemplo, pr
 
 Si pulsa en `{{< seatable-icon icon="dtable-icon-download" >}} PDF` el PDF generado se guardará en su PC.
 
-{{< warning  headline="Las plantillas siempre hacen referencia a una tabla"  text="Al crear una nueva plantilla, sólo se pueden utilizar datos de una tabla. Si necesita datos de una columna vinculada, debe incluirlos mediante columnas de consulta. Esta es la razón por la que en la tabla `Registrations` existen tres columnas de búsqueda ocultas. Estas columnas solo son necesarias para el plugin de diseño de páginas y, por tanto, pueden permanecer ocultas." />}}
+{{< warning  headline="Las plantillas siempre hacen referencia a una tabla"  text="Al crear una nueva plantilla, sólo se pueden utilizar datos de una tabla. Si necesita datos de una columna vinculada, debe incluirlos mediante columnas de consulta. Esta es la razón por la que en la tabla Registrations existen tres columnas de búsqueda ocultas. Estas columnas solo son necesarias para el plugin de diseño de páginas y, por tanto, pueden permanecer ocultas." />}}
 
 ### Envío por correo electrónico
 
 Por supuesto, no querrás descargar el PDF manualmente y cargarlo de nuevo para enviarlo por correo electrónico. En su lugar, puede hacer clic en un botón del `Registrations` que ejecuta dos acciones sucesivamente:
 
-- `{{< seatable-icon icon="dtable-icon-pdf" >}} Create PDF and save to column`
-- `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+- `{{< seatable-icon icon="dtable-icon-pdf" >}} Crear PDF y guardar en columna`
+- `{{< seatable-icon icon="dtable-icon-email" >}} Enviar email`
 
 La configuración de estas acciones ya debería resultarle familiar. Al crear el PDF, seleccione la plantilla deseada y la columna en la que debe guardarse el documento. Al enviar el correo electrónico, especifique la columna desde la que debe enviarse el archivo adjunto.
 
@@ -65,7 +65,7 @@ Tómese unos minutos para familiarizarse con la gestión de archivos de SeaTable
 
 ## Artículo de ayuda con más información
 
-- [Instrucciones para el plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
+- [Guía del plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Guardar un documento PDF por botón en una columna]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
 - [La columna de archivos]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}})
 - [La gestión de archivos de una base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

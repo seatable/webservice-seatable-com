@@ -37,5 +37,5 @@ O SeaTable tem em conta esta restrição e garante que apenas os cursos que aind
 
 ## Artigo de ajuda com mais informações
 
-- [Como ligar as tabelas em SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
+- [Restringir as ligações a uma vista]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#restringir-as-ligações-a-uma-vista" >}})
 - [Opções de configuração de um formulário web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

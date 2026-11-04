@@ -44,7 +44,7 @@ Pero no te dejes engañar por su sencillez: Esta estructura es asombrosamente po
 En la tabla `Courses` encontrará toda la información importante sobre sus ofertas. Cada fila representa un curso o servicio que usted ofrece. Las columnas individuales proporcionan información detallada, como
 
 - Nombre del curso
-- Fecha y lugar del curso
+- Fecha del curso
 - Número de participantes inscritos
 - Estado del curso (completo o plazas disponibles)
 
@@ -56,12 +56,12 @@ Esta visión de conjunto estructurada le permite realizar un seguimiento de sus 
 
 ### Todo lo que necesita saber sobre los participantes en su curso
 
-En la tabla `Registrations` se registran todos los datos de las personas que se han inscrito en sus cursos. Cada línea representa a un participante y contiene la siguiente información:
+En la tabla `Registrations` se registran todos los datos de las personas que se han inscrito en sus cursos. Cada línea representa una inscripción y contiene la siguiente información:
 
 - Nombre del participante
 - Dirección de correo electrónico
 - El curso en el que la persona se ha inscrito
-- Estado del pago (si ya se ha efectuado el pago)
+- Estado del pago (si la inscripción ya se ha pagado)
 
 Este cuadro le ofrece en todo momento una visión clara del estado actual del registro y de la situación de los pagos.
 
@@ -118,6 +118,6 @@ Tómese el tiempo suficiente para explorar la base en detalle. Si aún no está 
 ## Artículo de ayuda con más información
 
 - [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Fórmulas básicas de SeaTable]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
-- [Codificación por colores de las líneas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
-- [Vistas de la cerradura]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})
+- [La columna de fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
+- [Marcado por colores de las filas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
+- [Bloquear vistas]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

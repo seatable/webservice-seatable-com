@@ -68,4 +68,4 @@ Os seguintes requisitos são necessários para concluir este curso em linha:
 
 De que é que estamos à espera? Vamos lá começar!
 
-{{< warning  headline="Eis uma pequena dica"  text="No final deste artigo, encontrará uma ligação do lado direito que o levará diretamente para a página seguinte deste curso em linha." />}}
+{{< warning  headline="Eis uma pequena dica"  text="Ao longo do curso, as informações importantes são destacadas em caixas como esta. No fundo de cada página, encontrará à direita uma ligação que o levará diretamente para a página seguinte do curso." />}}

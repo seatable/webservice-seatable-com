@@ -37,6 +37,6 @@ Eso es todo por esta parte. Pasemos al siguiente paso.
 
 ## Artículo de ayuda con más información
 
-- [Borrar líneas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Importación y exportación de datos en SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Borrar varias líneas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#borrar-varias-líneas" >}})
+- [Importación y exportación de datos]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 - [¿Qué formatos de importación admite SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

@@ -75,5 +75,5 @@ En los siguientes artículos, incluiremos siempre una sección al final de la p�
 
 - [Crear una nueva base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [¿Qué es una vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Glosario SeaTable]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Glosario]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
 - [Añade una base a tus favoritos]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

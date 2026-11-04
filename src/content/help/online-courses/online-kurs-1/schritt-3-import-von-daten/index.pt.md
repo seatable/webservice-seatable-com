@@ -37,6 +37,6 @@ Naturalmente, pode exportar dados, tabelas e bases no SeaTable, tal como os pode
 
 ## Artigo de ajuda com mais informações
 
-- [Eliminar linhas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Importação e exportação de dados no SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
-- [Que formatos de importação são suportados pelo SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Apagar várias linhas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#apagar-várias-linhas" >}})
+- [Importação e exportação de dados]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Que formatos de importação é que SeaTable suporta?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

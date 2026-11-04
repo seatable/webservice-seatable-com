@@ -42,7 +42,7 @@ Doch lassen Sie sich von der Einfachheit nicht täuschen: Diese Struktur ist ers
 In der Tabelle `Courses` finden Sie alle wichtigen Informationen zu Ihren Angeboten. Jede Zeile repräsentiert einen Kurs oder eine Dienstleistung, die Sie anbieten. Die einzelnen Spalten liefern detaillierte Angaben, wie z. B.:
 
 - Kursname
-- Datum und Ort des Kurses
+- Datum des Kurses
 - Anzahl der angemeldeten Teilnehmer
 - Status des Kurses (ausgebucht oder noch Plätze frei)
 
@@ -54,12 +54,12 @@ Diese strukturierte Übersicht ermöglicht es Ihnen, jederzeit den Überblick ü
 
 ### Alles Wichtige zu Ihren Kursteilnehmern
 
-In der Tabelle `Registrations` werden alle Daten zu den Personen erfasst, die sich für Ihre Kurse angemeldet haben. Jede Zeile steht für einen Teilnehmer und enthält folgende Informationen:
+In der Tabelle `Registrations` werden alle Daten zu den Personen erfasst, die sich für Ihre Kurse angemeldet haben. Jede Zeile steht für eine Anmeldung und enthält folgende Informationen:
 
 - Name des Teilnehmers
 - E-Mail-Adresse
 - Der Kurs, für den sich die Person angemeldet hat
-- Zahlungsstatus (ob bereits bezahlt wurde)
+- Zahlungsstatus (ob die Anmeldung bereits bezahlt wurde)
 
 Diese Tabelle gibt Ihnen jederzeit einen klaren Überblick über den aktuellen Anmeldestand und den Status der Zahlungen.
 
@@ -116,6 +116,6 @@ Nehmen Sie sich ausreichend Zeit, um die Base im Detail zu erkunden. Sollten Ihn
 ## Hilfeartikel mit weiteren Informationen
 
 - [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Grundlagen von SeaTable Formeln]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
+- [Die Formel-Spalte]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 - [Farbliche Markierung von Zeilen]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Ansichten sperren]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

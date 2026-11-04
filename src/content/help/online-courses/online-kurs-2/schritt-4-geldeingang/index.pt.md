@@ -41,8 +41,8 @@ Com os conhecimentos recentemente adquiridos, isso não deverá ser um problema.
 
 ## Artigo de ajuda com mais informações
 
-- [Configurar uma conta de correio eletrónico numa base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
-- [Configurar o Gmail para enviar mensagens de correio eletrónico através de SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Criação de uma conta de e-mail numa Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Configurar o Gmail para enviar emails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [O botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Envio de um e-mail por botão]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [Correio eletrónico através de automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envio de e-mails via automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

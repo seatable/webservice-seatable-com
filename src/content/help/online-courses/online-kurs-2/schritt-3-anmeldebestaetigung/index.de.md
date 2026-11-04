@@ -47,11 +47,13 @@ Die E-Mails werden nicht wirklich versendet, sondern erscheinen in Ihrem Mailtra
 
 Jetzt können wir in der Tabelle `Registrations` eine neue Spalte für den E-Mail-Versand anlegen. Verwenden Sie die folgenden Einstellungen:
 
-> Name: beliebig Spaltentyp: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+> Name: beliebig
+>
+> Spaltentyp: `{{< seatable-icon icon="dtable-icon-button" >}} Schaltfläche`
 >
 > Label: `Send`
 >
-> Action: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+> Aktion: `{{< seatable-icon icon="dtable-icon-email" >}} E-Mail versenden`
 >
 > Betreff: `Confirmation: Course {Registered for}`
 >
@@ -71,7 +73,7 @@ Für den Nachrichtentext können Sie folgende Textvorlage verwenden:
 >
 > Best regards
 
-Beim einfachen Texteditor werden die Platzhalter in geschweiften Klammern automatisch ersetzt. Wenn Sie den Rich-Text-Editor verwenden, müssen Sie die Platzhalter manuell über die Funktion `{{< seatable-icon icon="dtable-icon-choose-column " >}} Insert column` einfügen.
+Beim einfachen Texteditor werden die Platzhalter in geschweiften Klammern automatisch ersetzt. Wenn Sie den Rich-Text-Editor verwenden, müssen Sie die Platzhalter manuell über die Funktion `{{< seatable-icon icon="dtable-icon-choose-column" >}} Spalte einfügen` einfügen.
 
 ![Rich-Text-Editor in SeaTable mit Platzhaltern für Kurs- und Datumsangaben](images/lvl2-rich-text-editor.png)
 
@@ -79,12 +81,12 @@ Klicken Sie anschließend auf d0ie Schaltfläche und prüfen Sie, ob die E-Mail 
 
 Glückwunsch! Sie haben soeben Ihre erste E-Mail über SeaTable verschickt – auch wenn sie nur in das virtuelle Postfach von Mailtrap ging.
 
-{{< warning  type="warning" headline="E-Mails automatisch versenden"  text="Derzeit versenden wir E-Mails noch manuell per Schaltfläche. Mit einem Enterprise-Abonnement von SeaTable könnten Sie jedoch Automationen einrichten, um den Versand von E-Mails automatisch durchzuführen. Da dies ein kostenpflichtiges Feature ist, verzichten wir an dieser Stelle auf eine Demonstration." />}}
+{{< warning  type="warning" headline="E-Mails automatisch versenden"  text="Derzeit wird der E-Mail-Versand noch per Klick auf eine Schaltfläche ausgelöst. Das kann auch eine Automation übernehmen: Automationen sind Thema von Kurs 4." />}}
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Einrichten eines E-Mail-Kontos in einer Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
-- [Gmail für den Versand von e-Mails per SMTP einrichten]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Einrichtung eines E-Mail-Kontos in einer Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Gmail für den Versand von E-Mails per SMTP einrichten]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [Die Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Eine E-Mail per Schaltfläche verschicken]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [E-Mail per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [E-Mail-Versand per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

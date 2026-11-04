@@ -33,7 +33,7 @@ Abra el módulo de estadísticas en su Base y verá que ya hemos preparado algun
 
 ## Cree usted mismo un diagrama
 
-Si desea visualizar la cuarta pregunta - "¿Qué participante ha reservado más de un curso?" - puede visualizarla usted mismo fácilmente. En la parte superior derecha del módulo de estadísticas, haga clic en `{{< seatable-icon icon="dtable-icon-add-table" >}} Add chart` y explore las distintas opciones. Aquí puede filtrar por participantes y visualizar el número de reservas.
+Si desea visualizar la cuarta pregunta - "¿Qué participante ha reservado más de un curso?" - puede visualizarla usted mismo fácilmente. En la parte superior derecha del módulo de estadísticas, haga clic en `{{< seatable-icon icon="dtable-icon-add-table" >}} Añadir gráfico` y explore las distintas opciones. Aquí puede filtrar por participantes y visualizar el número de reservas.
 
 ## Actualización automática de los gráficos
 
@@ -42,4 +42,4 @@ Una gran ventaja del módulo de estadísticas de SeaTable es la actualización a
 ## Artículo de ayuda con más información
 
 - [Instrucciones para el módulo estadístico]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
-- [Estadísticas y análisis de datos]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Estadísticas y análisis de datos]({{< relref "help/base-editor/statistiken/statistiken" >}})

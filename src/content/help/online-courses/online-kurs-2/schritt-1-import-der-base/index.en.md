@@ -44,7 +44,7 @@ But don't be fooled by its simplicity: This structure is amazingly powerful. Bel
 In the table `Courses` you will find all the important information about your offers. Each row represents a course or service that you offer. The individual columns provide detailed information, such as
 
 - Course name
-- Date and place of the course
+- Date of the course
 - Number of registered participants
 - Status of the course (fully booked or places still available)
 
@@ -56,12 +56,12 @@ This structured overview allows you to keep track of your courses and participan
 
 ### Everything you need to know about your course participants
 
-In the table `Registrations` all data on the people who have registered for your courses is recorded. Each row represents one participant and contains the following information:
+In the table `Registrations` all data on the people who have registered for your courses is recorded. Each row represents one registration and contains the following information:
 
 - Name of the participant
 - E-mail address
 - The course for which the person has registered
-- Payment status (whether payment has already been made)
+- Payment status (whether the registration has already been paid)
 
 This table gives you a clear overview of the current registration status and the status of payments at all times.
 

@@ -28,14 +28,14 @@ Legen Sie jetzt eine neue Spalte in der Tabelle `Categories` an.
 
 > Name: `Sum`
 >
-> Spaltentyp: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
-> Verwendete Formel: `rollup`
+> Spaltentyp: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Formel für Verknüpfungen`
+> Formel: `rollup`
 >
-> Verwendete Link-Spalte: `Expenses`
+> Verknüpfungsspalte in dieser Tabelle: `Expenses`
 >
-> Verwendete Spalte für die Berechnung: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+> Zusammenzufassende Spalte: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
 >
-> Berechnungsmethode `Sum`
+> Auswertungsmethode: `Summe`
 
 ![Link-Formelspalte „Sum“ mit Rollup-Einstellung zur Summierung verknüpfter Beträge](images/lvl1-rollup.png)
 
@@ -53,5 +53,5 @@ Damit sind wir auch schon am Ende dieses Abschnitts. Scrollen Sie bis zum Ende u
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Zeilenhöhe anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Zeilenhöhe in Tabellenansichten anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Die Rollup-Formel]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

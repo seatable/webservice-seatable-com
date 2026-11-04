@@ -37,5 +37,5 @@ SeaTable tiene en cuenta esta restricción y garantiza que sólo se ofrezcan en 
 
 ## Artículo de ayuda con más información
 
-- [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
+- [Limitar la selección de filas a una vista]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#limitar-la-selección-de-filas-a-una-vista" >}})
 - [Opciones de configuración de un formulario web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

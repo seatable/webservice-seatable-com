@@ -7,8 +7,8 @@ categories:
 author: 'cdb'
 url: '/de/hilfe/level-zwei-einfuehrung'
 seo:
-    title: 'Mit SeaTable Vorlage starten – schneller zur perfekten Base'
-    description: 'Egal ob Projektmanagement oder Alltag: Mit den Vorlagen von SeaTable starten Sie direkt, nutzen fertige Strukturen und eigene Templates.'
+    title: 'SeaTable Online-Kurs 2 – Eingaben und Ausgaben'
+    description: 'Bilden Sie einen kompletten Geschäftsprozess in SeaTable ab: Anmeldeformular, Bestätigungs- und Zahlungs-E-Mails, Teilnahmebescheinigungen als PDF und Statistiken.'
 weight: 1
 ---
 
@@ -56,4 +56,4 @@ Um diesen Kurs erfolgreich zu absolvieren, benötigen Sie:
 
 Worauf warten wir? Los geht's!
 
-{{< warning  headline="Hier ein kleiner Tipp"  text="Ganz am Ende dieses Artikels finden Sie auf der rechten Seite einen Link, der Sie direkt zur nächsten Seite dieses Online Kurses bringt." />}}
+{{< warning  headline="Hier ein kleiner Tipp"  text="Im Verlauf des Kurses werden wichtige Hinweise in Kästen wie diesem hervorgehoben. Unten auf jeder Seite finden Sie rechts einen Link, der Sie direkt zur nächsten Seite des Kurses bringt." />}}

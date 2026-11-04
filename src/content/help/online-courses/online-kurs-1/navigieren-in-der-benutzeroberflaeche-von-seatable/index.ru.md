@@ -74,6 +74,6 @@ weight: 3
 В следующих статьях мы всегда будем включать раздел в нижней части страницы со ссылками на наш раздел помощи. Таким образом, мы поможем вам пройти этот онлайн-курс, но не будем наглядно демонстрировать каждый щелчок мыши с помощью скриншотов. Если вы застрянете, статьи помощи помогут вам.
 
 - [Создайте новую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Что такое вид]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Глоссарий SeaTable]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Что такое вид?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Глоссарий]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
 - [Добавить базу в избранное]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

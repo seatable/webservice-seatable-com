@@ -40,7 +40,7 @@ seo:
 
 4. Переключитесь обратно на стол `Expenses`.
 
-5. Вставьте еще один столбец. Дайте новому столбцу имя `Category-Link` и выберите тип столбца `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records` выключено. Колонка ссылается на таблицу `Categories`.  
+5. Вставьте еще один столбец. Дайте новому столбцу имя `Category-Link` и выберите тип столбца `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Ссылка на другие записи` Колонка ссылается на таблицу `Categories`.  
    ![Диалог создания столбца связи «Category-Link» с таблицей «Categories»](images/level1-create-link-column.png)
 
 ## Связывание строк между двумя таблицами
@@ -54,20 +54,20 @@ seo:
 
 ### Связывание ячеек с помощью операции обработки данных
 
-Для этого создайте новую операцию обработки данных с именем `Assign Category` и выберите тип операции `Auto add link` от.
+Для этого создайте новую операцию обработки данных с именем `Assign Category` и выберите тип операции `Автоматическое добавление связи`
 
 Вы также должны выполнить следующие настройки, чтобы SeaTable знал, как вы хотите связать свои данные:
 
 - Таблица: `Expenses`
-- Другой стол: `Categories`
-- Если колонка: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
-- Колонна: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
+- Другая таблица: `Categories`
+- Если столбец: `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
+- Столбец: `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
 ![Операция обработки «Assign Category» типа «Auto add link» с настроенными полями](images/level1-auto-add-link.png)
 
-Нажмите на кнопку Выполнить, чтобы выполнить операцию. Вы увидите, что все строки в таблице `Expenses` со строкой из таблицы `Categories` были связаны.
+Нажмите на кнопку `Запуск`, чтобы выполнить операцию. Вы увидите, что все строки в таблице `Expenses` со строкой из таблицы `Categories` были связаны.
 
-{{< warning  headline="Когда ссылки отсутствуют"  text="Если после операции обработки данных некоторые строки не имеют ссылок, вероятно, вы допустили опечатку в четырех записях таблицы `Categories`. Исправьте ошибку и просто выполните операцию обработки данных снова." />}}
+{{< warning  headline="Когда ссылки отсутствуют"  text="Если после операции обработки данных некоторые строки не имеют ссылок, вероятно, вы допустили опечатку в четырех записях таблицы Categories. Исправьте ошибку и просто выполните операцию обработки данных снова." />}}
 
 ## Удалите ненужный столбец
 
@@ -85,5 +85,5 @@ seo:
 ## Справочная статья с дополнительной информацией
 
 - [Добавить таблицу в базу]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Как связать таблицы вместе в SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
-- [Обработка данных Сравнение и связь]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
+- [Чтобы связать две таблицы вместе]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#чтобы-связать-две-таблицы-вместе" >}})
+- [Обработка данных: сравнение и связь]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

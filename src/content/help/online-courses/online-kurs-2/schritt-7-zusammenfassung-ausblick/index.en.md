@@ -47,8 +47,8 @@ Changes and adjustments are often necessary to optimize your workflow. However, 
 
 The next step on your journey with SeaTable offers exciting opportunities to further automate and professionalize your processes.
 
-- **Online course part 3**: The next course will focus primarily on the topics of **collaboration and App Builder**. You will learn how to create your own app with SeaTable, how to work together in a team and how to make your processes even more user-friendly with just a few simple steps.
-- **Automations**: You have already sent emails by button. With an Enterprise subscription, you could fully automate these and many other processes. Emails, status changes and many other tasks could then be carried out without any manual intervention. This way, administration runs on autopilot and you can concentrate fully on your course.
+- **Online course part 3**: The next course focuses on **collaboration**. You will learn how to work as a team in SeaTable: share bases, discuss in comments, track changes and share data between teams.
+- **Automations**: You have already sent emails by button. With automations, available on every plan, you could fully automate these and many other processes. Emails, status changes and many other tasks could then be carried out without any manual intervention. This way, administration runs on autopilot and you can concentrate fully on your course.
 - **Payment integration with Stripe**: Instead of manual transfers, you can add a direct Stripe payment integration. Participants then pay immediately online and the payment is automatically recorded in SeaTable. A connection with a tool like [n8n](https://n8n.io) can easily realize this integration and seamlessly automate the entire payment process.
 
-With these extensions, you have the opportunity to further professionalize your system and make it even more efficient. Get ready for part 3, in which we will delve deeper into automation and integration. Good luck on your future journey!
+With these extensions, you have the opportunity to further professionalize your system and make it even more efficient. Get ready for part 3, which is all about collaboration; automation and integration follow in part 4. Good luck on your future journey!

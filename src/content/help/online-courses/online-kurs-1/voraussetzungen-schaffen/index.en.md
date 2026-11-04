@@ -50,6 +50,4 @@ Registering for the Community Forum is very easy. At https://forum.seat [able.io
 
 In any case, we recommend that you register in our forum, as the successful completion of the quiz at the end of this online course will automatically assign the corresponding badge to your forum account.
 
----
-
 Enough preparation. Let's finally get started. At the bottom right you will find the link to the next page.
