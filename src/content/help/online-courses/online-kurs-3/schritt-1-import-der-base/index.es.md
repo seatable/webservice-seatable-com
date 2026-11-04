@@ -104,7 +104,7 @@ La tabla `Customers` incluye dos vistas pensadas para usos distintos.
 
 En SeaTable, una vista no es más que una forma de mirar los mismos datos: las filas se guardan en un solo lugar, y cada vista decide qué muestra, qué oculta, cómo filtra y cómo agrupa. Esta distinción le será útil en los pasos siguientes: lo que comparte es una **vista**, no un acceso sin restricciones a todo, y más adelante publicará `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` para otro equipo como un conjunto de datos siempre actualizado.
 
-{{< warning headline="Para las marcas de tiempo, mejor columnas automáticas" >}}La columna `Created` de la tabla `Customers` es una columna `Fecha` corriente, lo que nos ha permitido rellenarla con fechas pasadas realistas para este curso. En sus propias bases, cuando quiera registrar cuándo se creó o se modificó por última vez una fila, utilice mejor los tipos de columna `Fecha de creación` y `Última modificación`. SeaTable los rellena automáticamente, así que no hay riesgo de olvidarse de rellenarlos, equivocarse de fecha o antedatar un cambio.{{< /warning >}}
+{{< warning headline="Para las marcas de tiempo, mejor columnas automáticas" >}}La columna `Created` de la tabla `Customers` es una columna `Fecha` corriente, lo que nos ha permitido rellenarla con fechas pasadas realistas para este curso. En sus propias bases, cuando quiera registrar cuándo se creó o se modificó por última vez una fila, utilice mejor los tipos de columna `Fecha y hora de creación` y `Última modificación`. SeaTable los rellena automáticamente, así que no hay riesgo de olvidarse de rellenarlos, equivocarse de fecha o antedatar un cambio.{{< /warning >}}
 
 Cuando la base le resulte familiar, estará listo para incorporar a su compañera.
 

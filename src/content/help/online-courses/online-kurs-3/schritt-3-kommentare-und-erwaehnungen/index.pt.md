@@ -19,7 +19,7 @@ Neste passo, faz um ciclo completo de colaboração com a Malika: pede-lhe algo 
 
 Cada linha tem a sua própria conversa de comentários. Há duas formas de abrir os comentários:
 
-- clique com o botão direito na linha e escolha `Comentar a linha`;
+- clique com o botão direito na linha e escolha `Comentário fila`;
 - ou abra os detalhes da linha (clique no ícone de seta dupla {{< seatable-icon icon="dtable-icon-open" >}} no número da linha) e passe para o painel de comentários (pode ser preciso mostrar o painel de comentários e registos com o ícone de comentário {{< seatable-icon icon="dtable-icon-comment" >}}).
 
 Abre-se uma coluna de comentários à direita.

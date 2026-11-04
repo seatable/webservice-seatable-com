@@ -51,19 +51,19 @@ Un conjunto de datos común pasa de un grupo a otro: por eso `Sales CRM` entró 
 
 Recuerde las dos vistas del paso 1. `{{< seatable-icon icon="dtable-icon-main-view" >}} All customers` lo muestra todo, incluida la columna confidencial `Total Deal Value`; `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` es la vista reducida que oculta las cifras confidenciales y se puede compartir sin riesgo. Va a publicar esta última; y como un conjunto de datos común lleva consigo el filtro y las columnas ocultas de su vista, los datos confidenciales nunca salen de su base.
 
-Abra la vista `Active customers` de la tabla `Customers`, la que se puede compartir sin riesgo, y elija `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Publicar como conjunto de datos común` en su menú. Dé al conjunto de datos un nombre claro, por ejemplo `Customers (live)`, y confirme.
+Abra la vista `Active customers` de la tabla `Customers`, la que se puede compartir sin riesgo, y elija `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Publicar como dataset compartido` en su menú. Dé al conjunto de datos un nombre claro, por ejemplo `Customers (live)`, y confirme.
 
 El conjunto de datos ya existe, construido a partir de la vista segura. Fíjese en lo que ha incluido y en lo que no: los clientes actuales y las columnas sin riesgo, y nada de los datos comerciales ni de las cifras de ventas. Por ahora, sin embargo, solo existe en su grupo `Commercial`: marketing todavía no lo ve.
 
 ## Dar acceso al conjunto de datos a otro grupo
 
-Para poner su lista en manos de marketing, dé acceso a su grupo. A diferencia de compartir una base, esto se hace desde la página de inicio: abra la pestaña `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Conjuntos de datos comunes`, busque `Customers (live)` y dé acceso al grupo `Marketing` mediante sus `Permisos de acceso`. Su lista de clientes siempre actualizada ya está a disposición de marketing, y todo lo que dejó fuera se queda en su base.
+Para poner su lista en manos de marketing, dé acceso a su grupo. A diferencia de compartir una base, esto se hace desde la página de inicio: abra la pestaña `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Datasets compartidos`, busque `Customers (live)` y dé acceso al grupo `Marketing` mediante sus `Permisos de acceso`. Su lista de clientes siempre actualizada ya está a disposición de marketing, y todo lo que dejó fuera se queda en su base.
 
 {{< warning headline="Compartir con otro grupo requiere ser miembro de él" text="Para compartir un conjunto de datos común con otro grupo, tiene que ser miembro de ese grupo, no solo propietario de la base de origen. Aquí usted mismo creó el grupo Marketing, así que ya cumple la condición y el uso compartido funciona directamente. Conviene conocer un matiz: quien tiene que tener un pie en el otro grupo es quien publica (un propietario o administrador del grupo de origen), no quienes usan el conjunto de datos; Malika nunca necesita acceso a su grupo Commercial para recibir los datos. En una organización real, donde el responsable de la lista de clientes no forma parte de marketing, este uso compartido entre grupos suele configurarlo un administrador del equipo, que pertenece a todos los grupos y puede conectarlos sin que ningún departamento invada el terreno del otro." />}}
 
 ## Suscribirse desde el otro lado
 
-Pase ahora al lado de marketing. A partir de aquí trabaja en `Campaign Hub` y hace lo que Malika haría para su equipo: como miembro del grupo `Marketing`, usted también tiene acceso a la base. En `Campaign Hub`, añada una nueva tabla y elija `{{< seatable-icon icon="dtable-icon-import" >}} Importar conjunto de datos común`; después seleccione `Customers (live)`.
+Pase ahora al lado de marketing. A partir de aquí trabaja en `Campaign Hub` y hace lo que Malika haría para su equipo: como miembro del grupo `Marketing`, usted también tiene acceso a la base. En `Campaign Hub`, añada una nueva tabla y elija `{{< seatable-icon icon="dtable-icon-import" >}} Importar dataset compartido`; después seleccione `Customers (live)`.
 
 Aparece una nueva tabla, marcada con un pequeño icono de pila que indica que procede de un conjunto de datos común. Contiene sus clientes actuales (la lista completa y al día, sin los clientes perdidos que la vista filtra) y solo las columnas sin riesgo. Junto a la tabla desfasada `Customers list (manual)`, la diferencia salta a la vista.
 
@@ -81,7 +81,7 @@ Aquí es donde el sentido único de un conjunto de datos común se hace visible.
 
 La nueva columna `Segment` empieza vacía, pero el trabajo de marketing sobre estos clientes no era poca cosa. La antigua tabla `Customers list (manual)` lo contenía: el segmento de cada cliente y, en la columna `{{< seatable-icon icon="dtable-icon-single-election" >}} Acquired via`, la campaña que lo captó en su momento. Añada a `Customers (live)` una columna de selección única `Acquired via` junto a `Segment`, y deje que SeaTable traslade las dos en un solo paso, haciendo coincidir las direcciones de correo electrónico.
 
-Cree una operación `Comparar y copiar` desde `{{< seatable-icon icon="dtable-icon-data-processing" >}} Tratamiento de datos`, en el menú de la tabla `Customers (live)`:
+Cree una operación `Compare and copy` desde `{{< seatable-icon icon="dtable-icon-data-processing" >}} Procesado de datos`, en el menú de la tabla `Customers (live)`:
 
 - de `Customers list (manual)` a `Customers (live)`,
 - haciendo coincidir las filas en las que `Email` es igual a `Email`,
@@ -93,7 +93,7 @@ Ejecútela: cada cliente que figuraba en la lista antigua recupera su segmento y
 
 ## Comprobar que todo sigue sincronizado
 
-Llega la recompensa. En `Sales CRM`, haga un cambio en la fuente: modifique un valor de un cliente de la vista `Active customers`, por ejemplo su cargo. Después, de vuelta en `Campaign Hub`, sincronice el conjunto de datos. Con `{{< seatable-icon icon="dtable-icon-sync" >}} Sincronizar con el conjunto de datos`, en el menú de la tabla `Customers (live)`, puede sincronizar cuando lo necesite o activar una sincronización periódica para que SeaTable lo haga automáticamente. Si recibe un error porque la última sincronización es demasiado reciente, puede forzar la sincronización desde la fuente, en el menú del conjunto de datos de la pestaña `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Conjuntos de datos comunes` de la página de inicio.
+Llega la recompensa. En `Sales CRM`, haga un cambio en la fuente: modifique un valor de un cliente de la vista `Active customers`, por ejemplo su cargo. Después, de vuelta en `Campaign Hub`, sincronice el conjunto de datos. Con `{{< seatable-icon icon="dtable-icon-sync" >}} Sincronizar con dataset`, en el menú de la tabla `Customers (live)`, puede sincronizar cuando lo necesite o activar una sincronización periódica para que SeaTable lo haga automáticamente. Si recibe un error porque la última sincronización es demasiado reciente, puede forzar la sincronización desde la fuente, en el menú del conjunto de datos de la pestaña `{{< seatable-icon icon="dtable-icon-common-dataset" >}} Datasets compartidos` de la página de inicio.
 
 La tabla sincronizada se actualiza según su fuente: el cambio aparece, igual que aparecería un cliente nuevo añadido a la vista. Y la columna `Segment` que añadió marketing no se ha tocado: los clientes ya clasificados conservan su segmento. Los datos se actualizan desde su lista de referencia, y el trabajo que marketing ha construido encima se conserva.
 
