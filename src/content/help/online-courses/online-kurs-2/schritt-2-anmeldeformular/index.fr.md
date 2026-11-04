@@ -37,5 +37,5 @@ SeaTable applique cette restriction jusque dans le formulaire web : un cours co
 
 ## Article d'aide avec plus d'informations
 
-- [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
-- [Possibilités de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
+- [Limiter la sélection des liens à une seule vue]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#limiter-la-sélection-des-liens-à-une-seule-vue" >}})
+- [Options de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

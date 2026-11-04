@@ -51,11 +51,11 @@ Vous pouvez maintenant ajouter au tableau `Registrations` une colonne qui enverr
 
 > Nom : au choix
 >
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-button" >}} Bouton`
 >
-> Label : `Send`
+> Étiquette : `Send`
 >
-> Action : `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+> Action : `{{< seatable-icon icon="dtable-icon-email" >}} Envoyer un e-mail`
 >
 > Objet : `Confirmation: Course {Registered for}`
 >
@@ -78,7 +78,7 @@ Pour le corps du message, vous pouvez reprendre ce texte :
 >
 > Best regards
 
-Avec l'éditeur de texte simple, les noms de colonnes entre accolades sont remplacés automatiquement par le contenu correspondant. Avec l'éditeur de texte enrichi, insérez les colonnes vous-même à l'aide de la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column`.
+Avec l'éditeur de texte simple, les noms de colonnes entre accolades sont remplacés automatiquement par le contenu correspondant. Avec l'éditeur de texte enrichi, insérez les colonnes vous-même à l'aide de la fonction `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insérer une colonne`.
 
 ![Éditeur de texte enrichi SeaTable avec espaces réservés pour le cours et la date](images/lvl2-rich-text-editor.png)
 
@@ -90,8 +90,8 @@ Félicitations ! Vous venez d'envoyer votre premier e-mail depuis SeaTable, mê
 
 ## Article d'aide avec plus d'informations
 
-- [Configurer un compte de messagerie dans une base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
-- [Configurer Gmail pour l'envoi d'e-mails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Configuration d'un compte e-mail dans une base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Configurer Gmail pour envoyer des e-mails par SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [Le bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Envoyer un e-mail via un bouton]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [E-mail par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

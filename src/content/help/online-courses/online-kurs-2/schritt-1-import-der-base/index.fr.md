@@ -117,7 +117,7 @@ Prenez le temps d'explorer la base en détail. Si certaines fonctions vous sont 
 
 ## Article d'aide avec plus d'informations
 
-- [Création d'une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Principes de base des formules SeaTable]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
-- [Marquage des lignes en couleur]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
+- [Créer une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [La colonne des formules]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
+- [Marquage des lignes par des couleurs]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Verrouiller les vues]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

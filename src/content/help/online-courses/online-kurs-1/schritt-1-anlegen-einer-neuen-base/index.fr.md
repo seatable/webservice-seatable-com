@@ -49,9 +49,9 @@ Passons maintenant aux colonnes, pour que la base puisse recevoir les bonnes don
 >
 > Format : au choix
 >
-> À la minute près : `Yes`
+> Précis à la minute : activé
 
-**Remarque :** au lieu du type `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`, nous aurions pu choisir `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time`. Une colonne de date se remplit à la main ; une colonne de ce type se remplit toute seule avec la date du jour, ce qui fait gagner du temps. En revanche, sa valeur ne se modifie pas : impossible, par exemple, de saisir après coup une dépense d'un autre jour.
+**Remarque :** au lieu du type `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`, nous aurions pu choisir `{{< seatable-icon icon="dtable-icon-creation-time" >}} Date de création`. Une colonne de date se remplit à la main ; une colonne de ce type se remplit toute seule avec la date du jour, ce qui fait gagner du temps. En revanche, sa valeur ne se modifie pas : impossible, par exemple, de saisir après coup une dépense d'un autre jour.
 
 ---
 
@@ -59,7 +59,7 @@ Passons maintenant aux colonnes, pour que la base puisse recevoir les bonnes don
 
 > Nom : `Amount`
 >
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-number" >}} Nombre`
 >
 > Format : `Euro`
 
@@ -69,7 +69,7 @@ Passons maintenant aux colonnes, pour que la base puisse recevoir les bonnes don
 
 > Nom : `Category`
 >
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-single-election" >}} Sélection unique`
 
 ---
 
@@ -100,8 +100,8 @@ L'étape 1 est déjà terminée. Faites défiler la page jusqu'en bas et passez 
 
 - [Créer une nouvelle base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Comment personnaliser le type de colonne]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
-- [Suppression d'une ligne]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Ajout d’une colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Ajouter des options à une colonne de sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
-- [Particularités de la première colonne]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
+- [Suppression de plusieurs lignes]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen#suppression-de-plusieurs-lignes" >}})
+- [Ajouter une colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
+- [Ajouter des options de sélection]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte#ajouter-des-options-de-sélection" >}})
+- [Les particularités de la première colonne]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Personnaliser l'apparence d'une base (icône et couleur)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

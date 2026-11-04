@@ -75,5 +75,5 @@ Chaque page du cours se termine par une liste d'articles de notre aide en ligne.
 
 - [Créer une nouvelle base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Qu'est-ce qu'une vue ?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Glossaire SeaTable]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Glossaire]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
 - [Ajouter une base aux favoris]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

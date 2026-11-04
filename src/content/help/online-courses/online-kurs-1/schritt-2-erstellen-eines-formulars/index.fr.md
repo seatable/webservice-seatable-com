@@ -19,7 +19,7 @@ Mais ce serait plus pratique de pouvoir aussi noter une dépense en déplacement
 
 ## Création du formulaire web
 
-En haut de votre base se trouvent de nombreuses fonctions supplémentaires. Le bouton `Forms` vous permet de créer des formulaires web.
+En haut de votre base se trouvent de nombreuses fonctions supplémentaires. Le bouton `Formulaires` vous permet de créer des formulaires web.
 
 ![Gestion des formulaires avec bouton « Forms » et nouveau formulaire web](images/level1-create-webform.png)
 
@@ -33,9 +33,9 @@ En haut de votre base se trouvent de nombreuses fonctions supplémentaires. Le b
 
 Votre formulaire est presque prêt, et déjà utilisable. Nous vous conseillons toutefois trois réglages. Pour régler un champ, cliquez dessus dans le formulaire : ses options s'affichent à droite. Elles varient selon le champ choisi.
 
-- `Category` : les différentes options doivent être affichées sous forme de **liste** ;
-- `Date` : le jour actuel doit être prédéfini comme **valeur par défaut** ;
-- `Amount` : la saisie de ce champ est **obligatoire**.
+- `Category` : choisissez l'affichage `Liste` ;
+- `Date` : définissez la date du jour comme `Valeur par défaut` ;
+- `Amount` : activez `Champ obligatoire`.
 
 Le formulaire est configuré : vous pouvez maintenant l'utiliser pour saisir vos premières dépenses.
 
@@ -53,6 +53,6 @@ Prenez aussi le temps d'explorer les autres options du formulaire web.
 
 ## Article d'aide avec plus d'informations
 
-- [Les formulaires web en général]({{< relref "help/base-editor/webformulare/webformulare" >}})
+- [Formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Créer un formulaire web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
-- [Possibilités de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
+- [Options de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

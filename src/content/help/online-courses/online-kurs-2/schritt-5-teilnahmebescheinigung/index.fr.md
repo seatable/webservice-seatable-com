@@ -41,14 +41,14 @@ Prenez quelques minutes pour explorer le plugin. Essayez par exemple d'ajouter u
 
 Un clic sur `{{< seatable-icon icon="dtable-icon-download" >}} PDF` enregistre le PDF généré sur votre ordinateur.
 
-{{< warning  headline="Un modèle porte toujours sur un seul tableau"  text="Un modèle ne peut utiliser que les données d'un seul tableau. Pour y faire figurer des données d'un tableau lié, il faut passer par des colonnes de référence (lookup) : c'est pourquoi le tableau `Registrations` contient trois colonnes de référence masquées. Elles ne servent qu'au plugin de conception de pages et peuvent donc rester masquées." />}}
+{{< warning  headline="Un modèle porte toujours sur un seul tableau"  text="Un modèle ne peut utiliser que les données d'un seul tableau. Pour y faire figurer des données d'un tableau lié, il faut passer par des colonnes de référence (lookup) : c'est pourquoi le tableau Registrations contient trois colonnes de référence masquées. Elles ne servent qu'au plugin de conception de pages et peuvent donc rester masquées." />}}
 
 ### Envoi par e-mail
 
 Pas question, bien sûr, de télécharger le PDF pour le joindre ensuite à la main à un e-mail. Un bouton du tableau `Registrations` peut enchaîner les deux actions :
 
-- `{{< seatable-icon icon="dtable-icon-pdf" >}} Create PDF and save to column`
-- `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+- `{{< seatable-icon icon="dtable-icon-pdf" >}} Créer un PDF et l'enregistrer dans une colonne`
+- `{{< seatable-icon icon="dtable-icon-email" >}} Envoyer un e-mail`
 
 Ces réglages devraient maintenant vous être familiers. Pour créer le PDF, vous choisissez le modèle et la colonne où enregistrer le document ; pour envoyer l'e-mail, vous indiquez la colonne qui contient la pièce jointe.
 
@@ -66,6 +66,6 @@ Prenez quelques minutes pour découvrir la gestion des fichiers de SeaTable. Les
 ## Article d'aide avec plus d'informations
 
 - [Instructions pour le plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-- [Enregistrer un document PDF par un bouton dans une colonne]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
+- [Enregistrer un document PDF dans une colonne à l'aide d'un bouton]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
 - [La colonne des fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}})
 - [La gestion des fichiers d'une base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

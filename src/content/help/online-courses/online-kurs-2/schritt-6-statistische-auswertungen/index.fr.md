@@ -33,7 +33,7 @@ Ouvrez le module Statistiques de votre base : quelques graphiques y sont déjà
 
 ## Créer votre propre graphique
 
-Pour répondre à la quatrième question, « Quels participants se sont inscrits à plus d'un cours ? », créez vous-même un graphique : dans le module Statistiques, cliquez en haut à droite sur `{{< seatable-icon icon="dtable-icon-add-table" >}} Add chart` et explorez les options. Vous pouvez par exemple regrouper par participant et afficher le nombre d'inscriptions.
+Pour répondre à la quatrième question, « Quels participants se sont inscrits à plus d'un cours ? », créez vous-même un graphique : dans le module Statistiques, cliquez en haut à droite sur `{{< seatable-icon icon="dtable-icon-add-table" >}} Ajouter un graphique` et explorez les options. Vous pouvez par exemple regrouper par participant et afficher le nombre d'inscriptions.
 
 ## Des graphiques toujours à jour
 
@@ -41,5 +41,5 @@ Grand avantage du module Statistiques : il se met à jour automatiquement. Un g
 
 ## Article d'aide avec plus d'informations
 
-- [Instructions pour le module Statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
-- [Statistiques et analyse des données]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Guide du module Statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Statistiques et analyse des données]({{< relref "help/base-editor/statistiken/statistiken" >}})

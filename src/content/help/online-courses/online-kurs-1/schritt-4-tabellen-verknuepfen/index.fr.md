@@ -40,7 +40,7 @@ Pour créer des liens, il faut un second tableau. Créons-le.
 
 4. Revenez au tableau `Expenses`.
 
-5. Ajoutez-y une colonne nommée `Category-Link`, de type `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Link to other records`, qui pointe vers le tableau `Categories`.  
+5. Ajoutez-y une colonne nommée `Category-Link`, de type `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Lien vers d'autres enregistrements`, qui pointe vers le tableau `Categories`.  
    ![Boîte de dialogue pour créer la colonne de lien « Category-Link » vers le tableau « Categories »](images/level1-create-link-column.png)
 
 ## Relier les enregistrements des deux tableaux
@@ -54,20 +54,20 @@ Pour relier les enregistrements des deux tableaux, vous avez deux possibilités�
 
 ### Relier les enregistrements par une opération de traitement des données
 
-Créez une nouvelle opération de traitement des données nommée `Assign Category`, de type `Auto add link`.
+Créez une nouvelle opération de traitement des données nommée `Assign Category`, de type `Comparer et relier`.
 
 Réglez ensuite les paramètres suivants, pour indiquer à SeaTable comment relier vos données :
 
 - Tableau : `Expenses`
 - Autre tableau : `Categories`
-- Si colonne : `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
-- colonne : `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
+- Si la colonne : `{{< seatable-icon icon="dtable-icon-single-election" >}} Category`
+- Colonne : `{{< seatable-icon icon="dtable-icon-single-line-text" >}} Name`
 
 ![Opération de traitement « Assign Category » de type « Auto add link » avec champs correspondants](images/level1-auto-add-link.png)
 
-Cliquez sur Exécuter pour lancer l'opération : d'un seul coup, chaque ligne du tableau `Expenses` est reliée à une ligne du tableau `Categories`.
+Cliquez sur `Exécuter` pour lancer l'opération : d'un seul coup, chaque ligne du tableau `Expenses` est reliée à une ligne du tableau `Categories`.
 
-{{< warning  headline="S'il manque des liens"  text="Si certaines lignes restent sans lien après l'opération, vous avez sans doute fait une faute de frappe en saisissant les quatre catégories du tableau `Categories`. Corrigez-la, puis relancez l'opération." />}}
+{{< warning  headline="S'il manque des liens"  text="Si certaines lignes restent sans lien après l'opération, vous avez sans doute fait une faute de frappe en saisissant les quatre catégories du tableau Categories. Corrigez-la, puis relancez l'opération." />}}
 
 ## Supprimer la colonne devenue inutile
 
@@ -84,6 +84,6 @@ Ajoutez donc au formulaire web la colonne `Category-Link` que vous venez de cré
 
 ## Article d'aide avec plus d'informations
 
-- [Ajouter un tableau à une base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
-- [Traitement des données Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
+- [Ajouter un tableau dans une base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
+- [Voici comment lier deux tableaux]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#voici-comment-lier-deux-tableaux" >}})
+- [Traitement des données : comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

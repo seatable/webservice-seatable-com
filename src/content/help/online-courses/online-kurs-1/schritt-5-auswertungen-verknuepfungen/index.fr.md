@@ -30,15 +30,15 @@ Ajoutez maintenant une colonne au tableau `Categories` :
 
 > Nom : `Sum`
 >
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Formule pour les liens`
 >
-> Formule utilisée : `rollup`
+> Formule : `rollup`
 >
-> Colonne de lien utilisée : `Expenses`
+> Colonne de lien dans ce tableau : `Expenses`
 >
-> Colonne utilisée pour le calcul : `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+> Colonne à résumer : `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
 >
-> Méthode de calcul : `Sum`
+> Méthode de résumé : `Total`
 
 ![Colonne de formule de lien « Sum » avec rollup pour additionner les montants liés](images/lvl1-rollup.png)
 
@@ -56,5 +56,5 @@ Cette étape est déjà terminée. Faites défiler la page jusqu'en bas et passe
 
 ## Article d'aide avec plus d'informations
 
-- [Ajuster la hauteur des lignes]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Ajuster la hauteur des lignes dans les vues de tableau]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [La formule du rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

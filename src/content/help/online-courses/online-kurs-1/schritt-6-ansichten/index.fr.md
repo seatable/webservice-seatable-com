@@ -56,5 +56,5 @@ Quand vous aurez assez exploré, tentez le quiz et décrochez votre badge sur no
 - [Qu'est-ce qu'une vue ?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [Regroupement, tri et filtre]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
 - [Créer une nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Épingler les vues]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [Épingler des vues]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
 - [La barre d'état et ses fonctions]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})
