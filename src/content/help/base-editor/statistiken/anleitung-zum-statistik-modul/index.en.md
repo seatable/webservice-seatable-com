@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Statistics and charts with SeaTable’s stats module'
     description: 'Visualize data in SeaTable: create charts, build dashboards and analyze trends. Use flexible configuration and real-time updates to present results impressively.'
-
+weight: 1
 ---
 
 With the **statistics module**, you can display the data from your table visually in the form of various **graphs** and **charts**. This is extremely useful for your work in SeaTable: thanks to the **dashboards**, you always have an overview of the figures and statistical developments in your base.
@@ -26,19 +26,18 @@ The statistics module is set up by default in every base. You can always access 
 
 ## Create a graphic
 
-1. Open the statistics module and click on the button {{< seatable-icon icon="dtable-icon-add-table" >}} **New chart** in the top right-hand corner to add a new chart.
+1. Open the statistics module and click on the button {{< seatable-icon icon="dtable-icon-add-table" >}} **Add chart** in the top right-hand corner.
 
 You have the option to choose from different **types of** graphs and charts. Scroll through the selection or click on the labeled icons in the options bar to jump directly to the desired location.
 
 ![Navigate in the statistics module.](images/Navigieren-im-Statistik-Plugin-1.png)
 
-4. Select the appropriate **type** for your statistics.
-5. Give the graphic a **title**. To do this, click on the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} and enter the desired name.
+2. Select the appropriate **type** for your statistics and click **Submit**.
 
 ### Data settings
 
-7. Specify from which **table** and **view the** statistics should obtain the data.
-8. Depending on the graph, you can make different **data settings** - for a bar chart, for example, which values you want to display on the **X and Y axes**.
+3. Specify from which **table** and **view** the graphic should obtain the data.
+4. Depending on the graph, you can make different **data settings** – for a bar chart, for example, which values you want to display on the **X and Y axes**.
 
 ![Create new graphic in the statistics module.](images/Dateneinstellungen.png)
 
@@ -50,13 +49,14 @@ All setting changes are executed **in real time**, i.e. the diagram is **updated
 
 ### Style settings
 
-14. If the graphic you selected allows **style settings**, you can configure **colors** or **data labels**, for example.
+5. Give the graphic a **title**. To do this, click on the **Chart style** tab and enter the desired name.
+6. If the graphic you selected allows **style settings**, you can configure **X- and Y-axis titles**, **colors** or **data labels**, for example.
 
 ![Settings when adding a new graphic in the statistics module.](images/Stileinstellungen.png)
 
 ## Graphics on the dashboard
 
-17. After you close the settings window, the saved graphic will appear on your **dashboard**.
+7. After you close the settings window, the saved graphic will appear on your **dashboard**.
 
 You can create **multiple dashboards** and create as many graphics as you want on each dashboard. To change the **order of the graphics**, drag **and drop** them to the desired location. To do this, hover the mouse pointer over the **title of** a graphic until an **arrow cross** appears and hold down the mouse **button**.
 

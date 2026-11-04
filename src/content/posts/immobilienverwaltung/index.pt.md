@@ -62,6 +62,8 @@ A procura de um novo apartamento é notoriamente difícil, sobretudo nas zonas u
 
 Com o nosso [modelo de pesquisa de apartamento]({{< relref "templates/everyday-life/apartment-hunting" >}}), pode registar todas as informações, dados e documentos sobre os apartamentos de uma forma simples e estruturada. Guarde fotografias, plantas, área de habitação, preço de aluguer e tudo o mais que observou durante a visita ao imóvel numa tabela claramente organizada. Atribua uma classificação e tome a decisão correcta de forma mais fácil, segura e rápida.
 
+Para senhorios e gestores com vários imóveis, o nosso artigo sobre a [gestão profissional de propriedades]({{< relref "posts/hausverwaltung" >}}) mostra como gerir inquilinos, contratos e manutenção de forma clara.
+
 ## Comece a planear o seu próximo passo
 
 ![A sua próxima jogada será uma brisa com SeaTable](umzugsliste-seatable-immobilien.png)

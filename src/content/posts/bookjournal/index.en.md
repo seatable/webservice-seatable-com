@@ -84,6 +84,8 @@ In addition, you can use the same evaluation criteria for every book, such as pl
 
 ![Hands lean a stack of books against a window.](buchreihe.png)
 
+Capturing knowledge in a structured way also pays off in teams: our article on [knowledge management]({{< relref "posts/wissensmanagement" >}}) shows how companies make knowledge usable.
+
 ## How to keep a book journal with SeaTable
 
 The easiest way to get started is with the free [book journal template]({{< relref "templates/everyday-life/digital-book-journal" >}}) from **SeaTable**. It already contains a structured table for your books, so you can get going with your digital reading diary right away. For every title, you can record important information such as author, genre, reading status, start date, end date and rating. You can also add a star rating and personal notes. The template can be adapted to your own reading habits at any time and extended with additional columns.

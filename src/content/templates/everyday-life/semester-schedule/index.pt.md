@@ -23,7 +23,7 @@ sections:
       text: 'Dê uma estrutura clara ao seu dia a dia académico! Com o nosso modelo digital, organiza aulas, trabalhos, exames, créditos ECTS e notas num local central. O planeador flexível da SeaTable reúne planeador de semestre, calculadora de notas e visão geral dos módulos numa base de dados no-code interativa. Em vez de calendários dispersos, notas e listas de Excel, usa um planeador personalizado com vista de calendário, quadro Kanban e tabelas ligadas. Seja licenciatura, mestrado ou exame estatal, com este modelo online os estudantes mantêm prazos, créditos e a época de exames sob controlo. Crie o seu plano individual e organize os estudos de forma digital, flexível e sem stress!'
       classes:
           - bg-white
-      template: '44ac24b866ac446f8fda'
+      template: 'cd782931d4db43a99b45'
       buttons:
           - label: Registe-se gratuitamente e use o modelo
             link_to_template: true

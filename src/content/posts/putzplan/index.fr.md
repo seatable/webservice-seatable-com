@@ -81,6 +81,8 @@ Combinez la corvée de ménage avec l'écoute de musique ou le visionnage de sé
 
 Veillez toutefois à ne pas vous laisser trop distraire – le nettoyage doit rester votre activité principale. Ou alors, profitez de la présence de vos colocataires pour effectuer ensemble les tâches particulièrement fatigantes. Une autre possibilité est d'aborder le tout de manière ludique. Par exemple, vous pouvez introduire des récompenses ou des sanctions pour pousser vos colocataires à donner le meilleur d'eux-mêmes.
 
+Qui fait quoi et quand est aussi une question centrale en entreprise : notre article sur la [planification du personnel]({{< relref "posts/personalplanung" >}}) donne des conseils pour les plannings et l'affectation des équipes.
+
 ## Plan de nettoyage en ligne de SeaTable
 
 Il y a beaucoup à planifier en matière de tâches ménagères, surtout si vous souhaitez y impliquer plusieurs personnes. Pour ne pas perdre la vue d'ensemble, l'équipe de SeaTable a créé pour vous un [modèle de plan de nettoyage]({{< relref "templates/everyday-life/cleaning-plan" >}}). Vous pouvez l'adapter à vos besoins comme bon vous semble. En attribuant clairement les tâches à un responsable, vous pouvez par exemple voir d'un coup d'œil quelles tâches vous et vos colocataires devez effectuer et si elles sont réparties équitablement.

@@ -143,6 +143,8 @@ Um diário de viagem estruturado resolve exatamente esse problema. Anote, por ex
 
 Assim, surge de forma quase natural **o seu guia de viagem pessoal**. Se você ou seus familiares visitarem a mesma região mais tarde, especialmente um diário de viagem digital com função de busca poupa você de pesquisas trabalhosas. Sobretudo em viagens mais longas, ele também ajuda você a manter a visão geral. Experiências e recomendações podem ser documentadas de forma clara e reencontradas a qualquer momento mais tarde.
 
+As viagens de negócios também precisam de ser documentadas, mas com comprovativos: o nosso guia resume tudo sobre um [relatório de despesas de viagem]({{< relref "posts/reisekostenabrechnung" >}}) correto.
+
 ## A solução tudo-em-um: com SeaTable, vincule o planejador de viagem e o diário de viagem em um só aplicativo
 
 SeaTable é um banco de dados No-Code com funções de IA e um App Builder integrado. Isso significa: sem nenhum conhecimento técnico prévio, você pode criar online o seu próprio aplicativo de diário de viagem e um **diário de viagem digital**. Para isso, crie em uma tabela todos os tipos de coluna de que você precisa para armazenar imagens, textos, avaliações, lugares, compromissos e humores. Para tornar o início especialmente fácil para você, já preparamos um modelo que você pode adaptar à sua viagem como quiser.

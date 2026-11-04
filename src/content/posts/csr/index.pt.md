@@ -1,5 +1,5 @@
 ---
-title: 'RSE - noções básicas de responsabilidade social das empresas'
+title: 'RSE – noções básicas de responsabilidade social das empresas'
 description: 'A Responsabilidade Social Corporativa (RSC) é o compromisso das empresas com impactos ambientais, sociais e econômicos. Adotar práticas de RSC fortalece a marca, aumenta o engajamento dos colaboradores e melhora a relação com clientes. Descubra como implementar ações sustentáveis e gerar valor a longo prazo.'
 date: 2024-04-08
 lastmod: '2025-05-19'
@@ -15,10 +15,10 @@ categories:
 tags:
     - 'Criar a sua empresa'
     - 'Operações'
-color: '#4fb086'
+color: '#52b487'
 ---
 
-Numa altura em que a tendência para a **sustentabilidade** está a ganhar força, as empresas são confrontadas com o desafio de satisfazer as expectativas mais elevadas dos seus clientes. A procura crescente de produtos sustentáveis reflecte-se no comportamento dos consumidores, que valorizam cada vez mais a compatibilidade ambiental e a responsabilidade social - palavra-chave: **Responsabilidade Social das Empresas (R**SE).
+Numa altura em que a tendência para a **sustentabilidade** está a ganhar força, as empresas são confrontadas com o desafio de satisfazer as expectativas mais elevadas dos seus clientes. A procura crescente de produtos sustentáveis reflete-se no comportamento dos consumidores, que valorizam cada vez mais a compatibilidade ambiental e a responsabilidade social – palavra-chave: **Responsabilidade Social das Empresas (RSE)**.
 
 Por conseguinte, deve familiarizar-se com os princípios básicos da responsabilidade social das empresas e desenvolver estratégias sobre a forma como a sua empresa pode cumprir os novos requisitos. Mas o que significa exatamente o termo RSE e como pode implementar com sucesso a sustentabilidade na sua empresa?
 
@@ -37,8 +37,8 @@ A responsabilidade social das empresas está consagrada na [Declaração de Prin
 Se teve pouco contacto com a responsabilidade social das empresas, pode estar a perguntar-se o que tem a RSE a ver com a sustentabilidade, o que significa cidadania empresarial ou por que razão algumas pessoas abreviam o termo para RC. A terminologia pode ser confusa no início, mas é crucial para compreender plenamente o conceito de responsabilidade empresarial.
 
 - **Sustentabilidade:** Na prática, muitas empresas utilizam o termo responsabilidade social das empresas como sinónimo de sustentabilidade. No entanto, em teoria, a RSE é um conceito mais restrito do que a sustentabilidade, uma vez que se refere à contribuição específica que uma empresa dá para práticas empresariais sustentáveis.
-- **Cidadania empresarial:** descreve o compromisso de uma empresa para com a comunidade que vai para além das suas actividades comerciais. Inclui patrocínios, donativos e fundações, por exemplo.
-- A **responsabilidade das empresas:** RC tem sido utilizada como sinónimo de RSE desde há vários anos. Alguns preferem este termo para evitar mal-entendidos, uma vez que o "social" na responsabilidade social das empresas é frequentemente entendido como sendo exclusivamente social.
+- **Cidadania empresarial:** Descreve o compromisso de uma empresa para com a comunidade que vai para além das suas actividades comerciais. Inclui patrocínios, donativos e fundações, por exemplo.
+- **Responsabilidade das empresas:** RC tem sido utilizada como sinónimo de RSE desde há vários anos. Alguns preferem este termo para evitar mal-entendidos, uma vez que o «social» na responsabilidade social das empresas é frequentemente entendido como sendo exclusivamente social.
 
 ![Três mãos à volta de um globo terrestre moldado em papel](earth-day-environment-eco-concept-space-text-711x474.jpg)
 
@@ -59,11 +59,11 @@ A pirâmide da RSE segundo Archie B. Carroll
 
 ## As vantagens da RSE
 
-A implementação da responsabilidade social empresarial na sua empresa não só lhe oferece a oportunidade de dar um contributo positivo para a sociedade, como também traz uma série de benefícios para a sua empresa. Através do seu compromisso com a responsabilidade social e ecológica, reforça a sua imagem empresarial e diferencia-se dos seus concorrentes. Uma **imagem positiva** como empresa responsável pode **reforçar a** sua **marca** e ajudá-lo a **atrair e reter clientes**.
+A implementação da responsabilidade social empresarial na sua empresa não só lhe oferece a oportunidade de dar um contributo positivo para a sociedade, como também traz uma série de benefícios para a sua empresa. Através do seu compromisso com a responsabilidade social e ecológica, reforça a sua imagem empresarial e diferencia-se dos seus concorrentes. Uma **imagem positiva** como empresa responsável pode **reforçar a sua marca** e ajudá-lo a **atrair e reter clientes**.
 
-A promoção de um **ambiente de trabalho positivo** e de **colaboradores empenhados** é outro dos principais benefícios da RSE. Ao criar uma cultura empresarial que promove a responsabilidade social e o empenhamento dos trabalhadores, está a reforçar a lealdade dos seus empregados para com a empresa. Além disso, as iniciativas de RSE podem ajudar a **reduzir os custos** , por exemplo, diminuindo o consumo de energia, reduzindo os resíduos e o desperdício ou promovendo cadeias de abastecimento mais eficientes.
+A promoção de um **ambiente de trabalho positivo** e de **colaboradores empenhados** é outro dos principais benefícios da RSE. Ao criar uma cultura empresarial que promove a responsabilidade social e o empenhamento dos trabalhadores, está a reforçar a lealdade dos seus empregados para com a empresa. Além disso, as iniciativas de RSE podem ajudar a **reduzir os custos**, por exemplo, diminuindo o consumo de energia, reduzindo os resíduos e o desperdício ou promovendo cadeias de abastecimento mais eficientes.
 
-Globalmente, a integração da RSE pode, portanto, não só ajudar a dar um contributo positivo para a sociedade, mas também oferecer benefícios comerciais directos que podem tornar a sua empresa mais bem sucedida.
+Globalmente, a integração da RSE pode, portanto, não só ajudar a dar um contributo positivo para a sociedade, mas também oferecer benefícios comerciais diretos que podem tornar a sua empresa mais bem-sucedida.
 
 ![As pessoas colocam-se em círculo e esticam as mãos em direção ao centro](diverse-people-doing-fist-bump-park-711x474.jpg)
 
@@ -73,7 +73,7 @@ A RSE deve ser parte integrante da cultura da empresa.
 
 No entanto, também pode encontrar alguns desafios no seu caminho para se tornar uma empresa mais sustentável. Por exemplo, pode incorrer em **custos adicionais** quando envia os seus empregados para programas de formação e desenvolvimento.
 
-Os objectivos de sustentabilidade podem ser **longos** e podem ser desmotivadores se os progressos forem lentos. O envolvimento em actividades caritativas também pode significar um **esforço adicional**.
+Os objetivos de sustentabilidade podem ser **demorados** e pode ser desmotivante que os progressos sejam lentos. O envolvimento em actividades caritativas também pode significar um **esforço adicional**.
 
 {{< warning headline="Não fazer greenwashing" text="Evite a todo o custo **o greenwashing**, uma vez que isso pode levar a uma perda de credibilidade e prejudicar significativamente a sua reputação. Por conseguinte, mantenha-se sempre honesto e transparente nos seus esforços e não apresente a sua empresa como mais sustentável do que realmente é." />}}
 
@@ -81,15 +81,11 @@ Os objectivos de sustentabilidade podem ser **longos** e podem ser desmotivadore
 
 No âmbito da sua responsabilidade social empresarial (RSE), as empresas têm a possibilidade de adotar uma série de medidas. Estas medidas ajudam a dar um contributo positivo e a posicionar a empresa como socialmente responsável e sustentável. Eis alguns exemplos específicos:
 
-Espaçador
-
 - Modelos de trabalho flexíveis
 - Os automóveis eléctricos como veículos de empresa
 - Campanhas de angariação de fundos
 - Reduzir as viagens de negócios
 - Reciclagem e prevenção de resíduos
-
-Espaçador
 
 - Energias renováveis
 - Formação contínua dos trabalhadores
@@ -97,7 +93,7 @@ Espaçador
 - Bolsas de estudo
 - Formulação de valores fundamentais
 
-![CSR: Duas árvores e uma turbina eólica em três cubos.](windmill-5591464_1280-711x498.jpg)
+![RSE: Duas árvores e uma turbina eólica em três cubos.](windmill-5591464_1280-711x498.jpg)
 
 A RSE exige um compromisso a longo prazo e um acompanhamento contínuo.
 
@@ -110,6 +106,8 @@ Ao elaborar estes relatórios, está a criar **transparência** e a permitir que
 ## Modelo do SeaTable
 
 O [modelo]({{< relref "templates/operations/sustainability-management" >}}) gratuito da SeaTable é ideal para definir objectivos específicos e acompanhar os seus progressos. Pode introduzir os seus objectivos no modelo, dividi-los em categorias e atribuí-los a departamentos. Para além das medidas futuras, pode também atribuir prioridades e introduzir uma data-alvo.
+
+{{< template-box id="d5cbbf2bba084333a1d7" >}}
 
 Com a ajuda de outra tabela, pode acompanhar todos os números importantes e ver rapidamente em que áreas já conseguiu melhorar. Também pode documentar os certificados de sustentabilidade que já recebeu ou para os quais está a trabalhar e gerar automaticamente a próxima data para o novo pedido.
 

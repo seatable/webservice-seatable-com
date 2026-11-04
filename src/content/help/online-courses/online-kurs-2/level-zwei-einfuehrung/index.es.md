@@ -9,8 +9,8 @@ url: '/es/ayuda/nivel-dos-introduccion'
 aliases:
     - '/es/ayuda/level-zwei-einfuehrung'
 seo:
-    title: 'Comienza con plantilla SeaTable – base lista rápidamente'
-    description: 'Usa las plantillas de SeaTable y comienza a trabajar en segundos: encuentra la categoría ideal, personaliza o comparte tu propio template.'
+    title: 'SeaTable Curso en línea 2 – Entradas y salidas'
+    description: 'Implemente un proceso de negocio completo en SeaTable: formulario de inscripción, correos de confirmación y de pago, certificados de asistencia en PDF y estadísticas.'
 weight: 1
 ---
 
@@ -58,4 +58,4 @@ Para completar con éxito este curso, necesitará:
 
 ¿A qué esperamos? ¡Vamos!
 
-{{< warning  headline="He aquí un pequeño consejo"  text="Al final de este artículo encontrará un enlace a la derecha que le llevará directamente a la página siguiente de este curso en línea." />}}
+{{< warning  headline="He aquí un pequeño consejo"  text="A lo largo del curso, la información importante aparece destacada en recuadros como este. Al final de cada página encontrará a la derecha un enlace que le llevará directamente a la página siguiente del curso." />}}

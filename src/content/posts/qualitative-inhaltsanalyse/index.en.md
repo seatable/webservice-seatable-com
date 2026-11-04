@@ -25,7 +25,7 @@ Qualitative content analysis is a scientific method of empirical social research
 
 How exactly you should design the content analysis depends on the results you want to achieve with your research question.
 
-{{< warning headline="Where the analysis form comes from" text="One of the co-founders of qualitative content analysis is Philipp Mayring. The German psychologist, sociologist and educator published his work _Qualitative Content Analysis. Basics and techniques_." />}}
+{{< warning headline="Where this form of analysis comes from" text="One of the co-founders of qualitative content analysis is Philipp Mayring. The German psychologist, sociologist and educator published his work _Qualitative Content Analysis. Basics and Techniques_ in 1983." />}}
 
 ## Qualitative vs. quantitative content analysis
 
@@ -33,7 +33,7 @@ Basically, there is a **qualitative** and a **quantitative approach** to content
 
 ![It is shown in which points qualitative and quantitative content analysis differ.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
-In qualitative content analysis, you focus on a **small amount** of content that you subject to in-depth analysis. Here it also depends on what you hear, for example, in interviews between the rows . Accordingly, you work **inductively**, i.e. you carry out your own observations and derive a new hypothesis from them. The aim is to understand and **interpret** the results and develop new theoretical approaches on this basis.
+In qualitative content analysis, you focus on a **small amount** of content that you subject to in-depth analysis. Here it also depends on what you pick up between the lines, for example in interviews. Accordingly, you work **inductively**, i.e. you carry out your own observations and derive a new hypothesis from them. The aim is to understand and **interpret** the results and develop new theoretical approaches on this basis.
 
 Quantitative content analysis is the counterpart to this. It is a standardized procedure in which the researcher always keeps the research conditions constant. Here you draw on a **large amount of content**, which you subject to a specific analysis. The procedure is **deductive**, as you want to examine existing theories and substantiate them with data. The aim of the analysis is to identify, describe and **explain** statistical **frequencies**.
 
@@ -57,11 +57,11 @@ Before you start your analysis, you need to define what you want to find out wit
 
 > _What was the tone of reporting on SeaTable in the journalistic media?_
 
-## 1\. selection of the material
+## 1\. Selection of the material
 
 To begin with, you need the appropriate **material** with the most important associated information. You select this according to whether it fits your research question.
 
-1. Examples of possible sources are
+1. Examples of possible sources are:
     - **Visual media:** newspapers, online articles, books
     - **Audio media:** radio reports, podcasts, songs
     - **Audiovisual media:** videos, films, television shows
@@ -70,9 +70,9 @@ To begin with, you need the appropriate **material** with the most important ass
 
 > _The sources for our press review are **online articles** that have been published in journalistic media from its foundation in July 2020 to the present day. The material is available in **written text form**._
 
-## 2\. determination of the direction of analysis
+## 2\. Determination of the direction of analysis
 
-The direction your analysis should take depends on your research question. Possible directions for your qualitative content analysis are
+The direction your analysis should take depends on your research question. Possible directions for your qualitative content analysis are:
 
 - Source (contents of the medium)
 - Author of the source
@@ -87,7 +87,7 @@ Look for suitable literature to substantiate your approach.
 
 > _When looking at the articles about the company SeaTable, the **content of the text** is analyzed. The aim is to find out **how** the sources report on the company._
 
-## 3\. choice of form
+## 3\. Choice of form
 
 The form of your qualitative content analysis determines how much material you examine and in what level of detail. You can choose from three approaches:
 
@@ -99,18 +99,18 @@ The form of your qualitative content analysis determines how much material you e
 
 > _Based on some of the articles that report on SeaTable, different categories are defined for the **tonality**. For example, words such as "user-friendly" and "important" are used in an article, from which the category of **positive reporting** can be formed._
 
-## 4\. creation of the category system
+## 4\. Creation of the category system
 
 You record the categories you want to use to classify your material in a **category system**. You have two possible approaches to choose from to develop this:
 
-- **deductive approach**: You use an existing category system that has already proven its worth.
-- **Inductive approach**: As shown above, you can logically derive categories from your own data.
+- **Deductive approach**: you use an existing category system that has already proven its worth.
+- **Inductive approach**: as shown above, you can logically derive categories from your own data.
 
 It is important that you formulate each category clearly so that it can be clearly differentiated from other categories and there is no confusion in the classification.
 
 > _The online articles on SeaTable are to be rated according to certain categories. To this end, we are developing a coding guide in which we define and explain the categories. The procedure is **inductive**, as we derive the categories logically from the material. This resulted in the following **categories**: positive tonality, neutral tonality, ambivalent tonality and negative tonality._
 
-## 5\. determination of the units of analysis
+## 5\. Determination of the units of analysis
 
 Before you can carry out your qualitative content analysis, you need to define the units of analysis. These determine what you will later code, i.e. classify into categories.
 
@@ -130,7 +130,7 @@ Articles can be easily divided into units thanks to their structure.
 
 > _The article can be viewed **as a whole**. This means that the context unit is congruent with the evaluation unit._
 
-## 6\. carrying out the analysis
+## 6\. Carrying out the analysis
 
 Now it's time for the most important and time-consuming part of the qualitative content analysis. You **code** your material and assign it to the appropriate **categories**. You can do this by hand using a coding sheet or you can use a digital database such as SeaTable.
 
@@ -138,13 +138,13 @@ Now it's time for the most important and time-consuming part of the qualitative 
 
 > _**Result of the analysis:** Most online articles about SeaTable can be categorized as "positive tonality" or "neutral tonality"._
 
-## 7\. interpretation of the results
+## 7\. Interpretation of the results
 
 You can now compile and interpret your results. Refer back to your original question and answer it.
 
 > _Since most of the articles can be assigned to the "positive tonality" or "neutral tonality" category, it can be concluded that SeaTable has a rather positive image and offers a product that usually performs well in tests._
 
-## 8\. review of the quality criteria
+## 8\. Review of the quality criteria
 
 Finally, check whether your analysis meets the quality criteria of qualitative content analysis.
 
@@ -174,6 +174,8 @@ The checklist helps you to keep an eye on the most important points of your anal
 ## Online template for your content analysis
 
 A lot of material and information can come together in a content analysis. That's why you should rely on a digital solution instead of laboriously entering data into coding sheets and evaluating it manually. The SeaTable team has developed a template in the form of a **press review** to make qualitative content analysis easier for you.
+
+{{< template-box id="2064f57fadc14bc884cb" >}}
 
 Especially if you work with several coders, a **collaboration platform** like SeaTable has unbeatable advantages. You can store all materials centrally in a database and have them coded by giving each coder an individually filtered view. You can also easily evaluate the coded data and visualize it as clear statistics.
 

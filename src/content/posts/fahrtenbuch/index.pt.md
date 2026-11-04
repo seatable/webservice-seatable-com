@@ -1,17 +1,17 @@
 ---
-title: 'Modelo gratuito: É muito fácil manter um diário de bordo digital'
-description: 'Um livro de registo pode ser mais do que apenas uma burocracia irritante - oferece-lhe a oportunidade de poupar dinheiro. Com as ferramentas digitais certas, pode maximizar os seus benefícios e evitar erros dispendiosos. Descubra como manter um diário de bordo inteligente e quais as soluções que o podem ajudar!'
+title: 'Manter um livro de registo digital: é muito fácil!'
+description: 'Um livro de registo pode ser mais do que apenas uma burocracia irritante – oferece-lhe a oportunidade de poupar dinheiro. Com as ferramentas digitais certas, maximiza os seus benefícios e evita erros dispendiosos. Descubra como manter o seu livro de registo de forma inteligente e quais as soluções que o podem ajudar!'
 seo:
-    title: 'Mantenha um diário de bordo digital: É muito fácil | SeaTable'
-    description: 'Um diário de bordo digital tem muitas vantagens. Descubra como manter um diário de bordo inteligente sem o incómodo da burocracia.'
+    title: 'Manter um livro de registo digital: é muito fácil | SeaTable'
+    description: 'Um livro de registo digital tem muitas vantagens. Descubra como manter o seu livro de registo de forma inteligente, sem o incómodo da burocracia.'
 date: 2025-04-01
 url: '/pt/livro-de-registo-digital'
 aliases:
     - '/pt/fahrtenbuch'
     - '/pt/digital-logbook'
 tags:
-    - 'Finanças'
     - 'Ferramentas e plugins'
+    - 'Finanças'
     - 'Gestão de frotas'
 categories:
     - 'best-practice'
@@ -21,154 +21,161 @@ register:
    show: true
 ---
 
-## Como transformar o seu diário de bordo numa vantagem fiscal
+## Como transformar o seu livro de registo numa vantagem fiscal
 
-À primeira vista, um diário de bordo pode parecer apenas um simples registo das distâncias percorridas. Mas, para muitos condutores, tem uma importância muito maior. Quer se trate de trabalhadores independentes com o seu próprio carro da empresa ou de empresários com empregados que utilizam um carro da empresa - o diário de bordo não só serve para documentar as distâncias percorridas, como também traz vantagens fiscais.
+À primeira vista, um livro de registo pode parecer apenas um simples registo dos trajetos percorridos. Mas, para muitos condutores, tem uma importância muito maior. Quer se trate de trabalhadores independentes com o seu próprio **veículo da empresa** ou de empresários com colaboradores que utilizam um veículo da empresa, o livro de registo não serve apenas para documentar os trajetos percorridos, como também traz **vantagens fiscais**.
 
-Embora não seja geralmente obrigatório manter um diário de bordo, a administração fiscal ou outra autoridade pode exigi-lo em certos casos. Além disso, um diário de bordo corretamente mantido ajuda a evitar a chamada regra do 1% e fornece provas claras da proporção de viagens privadas e profissionais. Por conseguinte, um diário de bordo pode ser útil para si, mesmo que não seja obrigatório.
+Embora, em geral, não seja obrigatório manter um livro de registo, a administração fiscal ou outra autoridade pode exigi-lo em certos casos. Além disso, um livro de registo corretamente mantido ajuda a evitar a chamada **regra do 1%** e permite comprovar claramente a proporção de viagens privadas e profissionais. Por conseguinte, um livro de registo pode compensar, mesmo que não seja obrigatório.
 
-Este artigo mostra-lhe o que deve ter em conta ao manter um diário de bordo e fornece uma panorâmica informativa das ferramentas mais populares para a gestão digital de diários de bordo.
+Este artigo mostra-lhe o que deve ter em conta ao manter um livro de registo e oferece uma panorâmica informativa das **ferramentas mais conhecidas para a gestão digital do livro de registo**.
 
-## Se faz mais sentido ter um diário de bordo ou uma regra de 1%
+## Se compensa mais um livro de registo ou a regra do 1%
 
-### O que é a regra do 1% para os automóveis da empresa?
+### O que é a regra do 1% para os veículos da empresa?
 
-A regra de 1% é um método de tributação fixa para carros de empresa que a administração fiscal oferece para calcular facilmente o benefício não monetário de um carro de empresa usado em particular. Isto significa que um por cento do preço de tabela bruto do seu veículo na Alemanha é tributado mensalmente como um benefício de uso privado. Isto aplica-se independentemente da frequência com que o veículo é efetivamente utilizado para fins privados ou profissionais.
+A regra do 1% é um **método de tributação forfetária para veículos da empresa** que a administração fiscal oferece para calcular facilmente o benefício em espécie de um veículo de serviço utilizado também a título privado. Para tal, é tributado mensalmente, como benefício de utilização privada, um por cento do preço de tabela bruto do seu veículo na Alemanha. Isto aplica-se independentemente da frequência com que o veículo é efetivamente utilizado para fins privados ou profissionais.
 
-A escolha entre um livro de registo ou a regra do 1% para o veículo da empresa depende em grande medida do tipo de utilização do condutor. Uma regra prática útil é a seguinte: se utilizar o veículo da empresa tanto para fins privados como profissionais, a tributação fixa é geralmente a opção mais económica e mais simples.
+A escolha entre um livro de registo ou a regra do 1% para o seu veículo da empresa **depende em grande medida do tipo de utilização por parte do condutor**. Uma regra prática útil é a seguinte: se utilizar o veículo da empresa tanto para fins privados como profissionais, a tributação forfetária é geralmente a opção mais económica e também a mais simples.
 
-![Se o veículo da empresa for utilizado principalmente para fins privados, a regra do 1% é vantajosa](Ob-sich-ein-Fahrtenbuch-oder.jpg)
+![Manter um livro de registo digital para registar todos os dados atempadamente](Ob-sich-ein-Fahrtenbuch-oder.jpg 'Se utilizar o seu veículo da empresa principalmente para fins privados, a regra do 1% é vantajosa.')
 
-### Quando vale a pena ter um diário de bordo
+### Quando vale a pena ter um livro de registo
 
-A situação é diferente se utilizar o automóvel para fins privados menos de metade do tempo. Neste caso, um livro de registo pode ser uma vantagem. Ao documentar em pormenor quando e para que fins utiliza o veículo, pode provar à administração fiscal qual a proporção das suas deslocações que é privada e qual a que é profissional. Desta forma, só pode declarar a utilização privada efectiva e, possivelmente, reduzir significativamente o benefício não pecuniário sobre o qual tem de pagar imposto. Em última análise, são os condutores dos veículos da empresa que suportam as despesas, mesmo que não possam solicitar as suas próprias deduções fiscais. No entanto, se o veículo for utilizado principalmente para fins profissionais, pode ser financeiramente vantajoso para a empresa a longo prazo.
+A situação é diferente se utilizar o veículo para fins privados **menos de metade do tempo**. Neste caso, um livro de registo pode ser uma vantagem. Ao documentar em pormenor quando e para que fins utiliza o veículo, pode provar com precisão à administração fiscal qual a proporção das viagens que é privada e qual a que é profissional. Desta forma, só declara a utilização privada efetiva e pode reduzir, possivelmente de forma significativa, o benefício em espécie sobre o qual tem de pagar imposto. Em última análise, são os condutores dos veículos da empresa que suportam o esforço, mesmo que não possam reivindicar deduções fiscais próprias. No entanto, se o veículo for utilizado principalmente para fins profissionais, este esforço pode compensar financeiramente a longo prazo para a empresa.
 
-**Nota**: Se documentar a utilização de um veículo da empresa com um diário de bordo, infelizmente não é possível mudar para o método de taxa fixa de 1% no ano em curso - e vice-versa. O método escolhido permanece vinculativo para todo o ano.
+{{< warning headline="Nota" >}}
+
+Se documentar a utilização de um veículo da empresa com um livro de registo, infelizmente não é possível mudar para o método forfetário de 1% durante o ano em curso – e vice-versa. O método escolhido permanece vinculativo durante todo o ano.
+
+{{< /warning >}}
 
 ## Requisitos legais e o que deve ter em conta
 
-Se também utiliza um veículo da empresa a título particular, é importante documentar conscienciosamente todas as deslocações, a fim de pagar corretamente o imposto sobre o benefício não pecuniário. O registo imediato é essencial: idealmente, deve anotar os detalhes imediatamente após cada viagem ou, o mais tardar, no final do dia. Desta forma, evita erros e manipulações e mantém sempre um registo das suas deslocações.
+Se também utiliza um veículo da empresa a título privado, é importante **documentar conscienciosamente cada viagem**, a fim de pagar corretamente o imposto sobre o benefício em espécie. O registo atempado é essencial: idealmente, deve anotar os pormenores imediatamente após cada viagem ou, o mais tardar, no final do dia. Desta forma, evita erros e manipulações e mantém sempre uma visão geral das suas viagens.
 
-![Os quilómetros percorridos devem ser registados no diário de bordo para cada viagem](die-gefahrenen-Kilometer-anzugeben.jpg)
+![É mostrado um velocímetro com a quilometragem, de que necessita se mantiver um livro de registo](die-gefahrenen-Kilometer-anzugeben.jpg 'Em cada viagem, os quilómetros percorridos devem ser registados no livro de registo.')
 
-Um diário de bordo que cumpra os requisitos do GoBD (princípios de uma contabilidade correta) exige que as seguintes informações sejam documentadas para viagens de negócios:
+Um livro de registo que cumpra os requisitos dos GoBD (princípios de uma contabilidade correta) exige que as seguintes informações sejam documentadas para as **viagens de serviço**:
 
-- Data, hora e quilometragem: Anotar estes pontos no início e no fim de cada viagem de negócios.
-- Destino e objetivo da viagem: Anotar onde foi e porquê. Se fizer um desvio, deve também registar o percurso efectuado.
-- Parceiros comerciais ou clientes: Se tiver um encontro de negócios, deve anotar o nome da pessoa em questão.
+- **Data, hora e quilometragem**: anote estes dados tanto no início como no fim de cada viagem de serviço.
+- **Destino e objetivo da viagem**: anote para onde foi e porquê. Se fizer um desvio, deve também registar o percurso efetuado.
+- **Parceiros comerciais ou clientes**: se tiver tido uma reunião de negócios, deve anotar o nome da pessoa em questão.
 
-Para as deslocações privadas, basta indicar os quilómetros percorridos. As deslocações entre o domicílio e o local de trabalho requerem apenas uma breve anotação, uma vez que se realizam regularmente e não são necessários mais pormenores. Ao documentar cuidadosamente as suas deslocações, não só satisfaz a administração fiscal, como também controla a utilização do seu veículo de empresa.
+Para as **viagens privadas**, basta indicar os quilómetros percorridos. As deslocações entre o domicílio e o local de trabalho requerem apenas uma breve anotação, uma vez que se realizam regularmente e não são necessários mais pormenores. Ao documentar cuidadosamente as suas viagens, não só satisfaz a administração fiscal, como também mantém uma visão geral da utilização do seu veículo da empresa.
 
-## O que a administração fiscal procura no seu diário de bordo
+## O que a administração fiscal procura no seu livro de registo
 
-Os diários de bordo são objeto de um exame minucioso por parte das autoridades fiscais, uma vez que constituem a base das deduções fiscais e da distinção entre a utilização privada e profissional dos veículos da empresa. As autoridades fiscais não só verificam os registos no próprio diário de bordo, como também os comparam frequentemente com outros recibos, como as ** facturas de combustível e os registos de manutenção**. Por exemplo, o recibo de combustível de uma determinada cidade deve corresponder aos trajectos registados no diário de bordo. Caso contrário, a administração fiscal poderá pôr em causa a **plausibilidade dos seus dados**.
+Os livros de registo são examinados minuciosamente pelas autoridades fiscais, uma vez que constituem a base das deduções fiscais e da distinção entre a utilização privada e profissional dos veículos da empresa. As autoridades fiscais não só verificam os registos no próprio livro de registo, como também os comparam frequentemente com outros documentos, como as **faturas de combustível e os registos de manutenção**. Por exemplo, o talão de combustível de uma determinada cidade deve corresponder às viagens registadas no livro de registo. Caso contrário, a administração fiscal poderá pôr em causa a **plausibilidade das suas informações**.
 
-![As facturas das estações de serviço e das garagens devem corresponder aos registos do diário de bordo](Worauf-das-Finanzamt-achtet.jpg)
+![Comprovativos para um livro de registo digital](Worauf-das-Finanzamt-achtet.jpg 'As faturas das estações de serviço e das oficinas devem corresponder aos registos do livro de registo.')
 
-Mesmo pequenas **discrepâncias ou incoerências**, como uma distinção pouco clara entre deslocações profissionais e privadas, podem ser problemáticas. Se a administração fiscal tiver conhecimento de tais erros, pode rejeitar o diário de bordo e aplicar automaticamente a regra de 1%. Esta tributação forfetária é geralmente mais dispendiosa e é efectuada a expensas do proprietário do veículo. Por conseguinte, é particularmente importante ter cuidado ao manter um diário de bordo.
+Mesmo pequenas **lacunas ou incoerências**, como uma separação pouco clara entre viagens profissionais e privadas, podem ser problemáticas. Se a administração fiscal tomar conhecimento de tais erros, pode rejeitar o livro de registo e aplicar automaticamente a regra do 1%. Esta tributação forfetária é geralmente mais dispendiosa e corre por conta do proprietário do veículo. Por conseguinte, é particularmente importante ter cuidado ao manter um livro de registo.
 
-Ao manter o diário de bordo, quer seja manuscrito ou digital, aplica-se o princípio da **rastreabilidade**. As alterações posteriores não devem, em caso algum, encobrir os vestígios ou ocultar os registos originais. Num **diário de bordo manuscrito**, isto significa que só pode riscar as entradas incorrectas de modo a que estas permaneçam legíveis - é proibida a utilização de Tipp-Ex ou de meios semelhantes. Num **livro de bordo eletrónico**, todas as alterações devem ser registadas, a fim de garantir um historial completo das viagens em qualquer momento.
+Ao manter o livro de registo, quer seja manuscrito ou digital, aplica-se o princípio da **rastreabilidade**. As alterações posteriores não devem, em caso algum, apagar vestígios ou ocultar os registos originais. Num **livro de registo manuscrito**, isto significa que só pode riscar os registos incorretos de modo a que permaneçam legíveis – é proibida a utilização de Tipp-Ex ou de meios semelhantes. Num **livro de registo eletrónico**, todas as alterações devem ser registadas, a fim de garantir em qualquer momento um historial completo das viagens.
 
-## Analógico vs. digital - qual o diário de bordo que mais lhe convém?
+## Analógico vs. digital – qual o livro de registo que mais lhe convém?
 
-A escolha de um diário de bordo analógico ou digital depende das suas preferências e necessidades individuais. Ambas as variantes oferecem vantagens específicas, mas também desvantagens, que devem ser ponderadas em função da utilização e da finalidade do diário de bordo.
+A escolha entre um livro de registo analógico ou digital depende das suas preferências e necessidades individuais. Ambas as variantes oferecem vantagens específicas, mas também desvantagens, que deve ponderar em função da utilização e da finalidade do livro de registo.
 
-### Diário de bordo analógico
+### Livro de registo analógico
 
-O diário de bordo analógico, ou seja, o registo manuscrito clássico, tem vantagens sobretudo devido à sua **independência e simplicidade**. Pode ser acedido **a qualquer momento** (independentemente de um dispositivo técnico) e não necessita de uma fonte de energia ou de uma ligação à Internet. Esta opção é frequentemente **económica**, uma vez que só é necessário adquirir o próprio diário de bordo. Um diário de bordo analógico é, por conseguinte, particularmente adequado para utilizadores ocasionais ou para pessoas com poucas necessidades de documentação.
+O livro de registo analógico, ou seja, o registo manuscrito clássico, tem vantagens sobretudo devido à sua **independência e simplicidade**. Está **acessível a qualquer momento** (independentemente de um dispositivo técnico) e não necessita de fonte de energia nem de ligação à Internet. Esta opção é frequentemente **económica**, uma vez que só é necessário adquirir o próprio livro de registo. Um livro de registo analógico é, por conseguinte, particularmente adequado para utilizadores ocasionais ou para pessoas com poucas exigências de documentação.
 
-No entanto, o diário de bordo analógico tem a desvantagem de ser **mais moroso**, uma vez que é necessário registar manualmente cada viagem. Este esforço manual também aumenta a **suscetibilidade a erros**: uma caligrafia ilegível, informações em falta ou registos esquecidos podem rapidamente tornar o diário de bordo inutilizável. Existe também o **risco** de o seu diário de bordo ser **danificado ou completamente perdido devido** ao desgaste quotidiano e aos efeitos das condições meteorológicas.
+No entanto, a desvantagem do livro de registo analógico é o **maior investimento de tempo**, uma vez que cada viagem tem de ser registada manualmente. Este esforço manual também aumenta a **suscetibilidade a erros**: uma caligrafia ilegível, informações em falta ou registos esquecidos podem rapidamente tornar os registos do livro inutilizáveis. Existe também o **risco** de o livro de registo ser **danificado ou completamente perdido** devido ao desgaste quotidiano e às condições meteorológicas.
 
-![Quer manter um diário de bordo analógico ou digital?](Analog-vs.-digital.jpg)
+![Livro de registo analógico ou digital](Analog-vs.-digital.jpg 'Quer manter um livro de registo analógico ou digital?')
 
-### Manter um diário de bordo digital
+### Manter um livro de registo digital
 
-Os diários de bordo digitais estão a tornar-se cada vez mais populares, uma vez que oferecem uma alternativa **conveniente e moderna**. Uma clara vantagem dos diários de bordo digitais é que **não podem ser perdidos ou danificados**, o que é um problema com os diários de bordo físicos. Como as soluções digitais se baseiam geralmente em tecnologias de nuvem, **os seus dados são armazenados de forma segura e podem ser acedidos em linha a qualquer momento**. Além disso, os diários de bordo digitais estão frequentemente equipados com ferramentas de análise que lhe permitem **avaliar com precisão os percursos efectuados e os padrões de utilização**. Por exemplo, é possível avaliar e acompanhar os quilómetros percorridos em função da finalidade da utilização.
+Os livros de registo digitais são cada vez mais populares, uma vez que oferecem uma **alternativa cómoda e moderna**. Uma clara vantagem dos livros de registo digitais é que **não podem ser perdidos nem danificados**, o que é um problema real nos livros físicos. Como as soluções digitais se baseiam geralmente em tecnologias de nuvem, **os seus dados são armazenados de forma segura e podem ser consultados online a qualquer momento**. Além disso, os livros de registo digitais estão frequentemente equipados com ferramentas de análise que lhe permitem uma **avaliação precisa dos percursos efetuados e dos padrões de utilização**. Por exemplo, pode avaliar e acompanhar os quilómetros percorridos em função da finalidade da utilização.
 
-**A proteção de dados** é um aspeto frequentemente discutido dos diários de bordo digitais. Aplicam-se aqui regulamentos rigorosos, especialmente se processar dados pessoais. Os bons sistemas digitais encriptam e tornam anónimos os seus dados, cumprindo assim os requisitos do Regulamento Geral sobre a Proteção de Dados (RGPD). Outro ponto é o custo: os diários de bordo digitais estão normalmente associados a subscrições contínuas e os **custos do software ou das aplicações** podem variar em função do âmbito das funções. Na prática, porém, o valor acrescentado em termos de **poupança de tempo** e de análise precisa dos dados pode muitas vezes compensar estes custos.
+Um aspeto frequentemente discutido dos livros de registo digitais é a **proteção de dados**. Aplicam-se aqui regulamentos rigorosos, especialmente se tratar dados pessoais. Os bons sistemas digitais encriptam e anonimizam os seus dados, cumprindo assim os requisitos do Regulamento Geral sobre a Proteção de Dados (RGPD). Outro ponto são os custos: os livros de registo digitais estão normalmente associados a subscrições contínuas e os **custos do software ou das aplicações** podem variar em função do âmbito das funções. Na prática, porém, o valor acrescentado em termos de **poupança de tempo** e de análise precisa dos dados pode muitas vezes compensar estes custos.
 
-## Comparação de diários de bordo digitais do Vimcar, Excel e SeaTable
+## Comparação dos livros de registo digitais da Vimcar, do Excel e do SeaTable
 
-Se pretende manter um diário de bordo, existe atualmente uma vasta gama de soluções digitais, desde aplicações práticas a software completo. O mercado oferece tanto versões totalmente automáticas como alternativas com introdução manual - há algo para cada necessidade e cada orçamento. Pusemos à prova algumas das ferramentas mais populares. Centrámo-nos em critérios como a facilidade de utilização, a segurança jurídica, a proteção de dados, os custos, as funções de análise e o esforço manual necessário.
+Se pretende manter um livro de registo, existe atualmente uma vasta gama de soluções digitais, desde aplicações práticas a software completo. O mercado oferece tanto variantes totalmente automáticas como alternativas com introdução manual – há algo para cada necessidade e cada orçamento. Pusemos à prova algumas das ferramentas mais populares. Centrámo-nos nos critérios de facilidade de utilização, segurança jurídica, proteção de dados, custos, funções de análise e esforço manual necessário.
 
-### Diário de bordo Vimcar
+### Livro de registo da Vimcar
 
-O Vimcar é um software de diário de bordo digital especialmente concebido para empresas e trabalhadores independentes que necessitam de documentação completa e em conformidade com a lei. Com funções fáceis de utilizar, como o **reconhecimento e categorização automáticos de viagens**, bem como uma integração perfeita nos fluxos de trabalho existentes, o Vimcar facilita a gestão do diário de bordo.
+A Vimcar é um software de livro de registo digital concebido especialmente para empresas e trabalhadores independentes que necessitam de uma documentação completa e juridicamente segura. Com funções fáceis de utilizar, como o **reconhecimento e a categorização automáticos de viagens**, bem como uma integração perfeita nos fluxos de trabalho existentes, a Vimcar facilita a gestão do livro de registo.
 
-- **Facilidade de utilização**: Elevada facilidade de utilização, aplicação de fácil utilização e manuseamento simples
-- **Segurança jurídica**: legalmente seguro e reconhecido para efeitos fiscais
-- **Proteção de dados**: Os dados são armazenados de forma encriptada na nuvem
-- **Custos**: Custos contínuos através de subscrição mensal a partir de 13,90 euros por mês/veículo
-- **Função de análise**: Funções de análise alargadas
-- **Esforço manual**: Esforço mínimo devido ao registo automático
+- **Facilidade de utilização**: elevada facilidade de utilização, aplicação intuitiva e manuseamento simples
+- **Segurança jurídica**: juridicamente seguro e reconhecido para efeitos fiscais
+- **Proteção de dados**: os dados são armazenados de forma encriptada na nuvem
+- **Custos**: custos contínuos através de subscrição mensal a partir de 13,90 € por mês/veículo
+- **Função de análise**: funções de análise abrangentes
+- **Esforço manual**: esforço mínimo devido ao registo automatizado
 
-**Nota**: Se já utiliza o Lexware como software de contabilidade, pode utilizar o diário de bordo da Vimcar através do Lexware, uma vez que ambas as empresas cooperam entre si.
+{{< warning headline="Nota" >}}
 
-![É mostrada aqui uma luz traseira de um carro azul, que é guardada com um livro de registo](image.jpg)
+Se já utiliza o [Lexware](https://www.lexware.de/buchhaltungssoftware/) como software de contabilidade, pode utilizar o livro de registo da Vimcar através do Lexware, uma vez que ambas as empresas cooperam entre si.
 
-### Diário de bordo com Excel
+{{< /warning >}}
 
-Se criar o seu diário de bordo utilizando um modelo Excel, este método é económico e flexível, **mas requer muito esforço manual e envolve incertezas fiscais**. Embora este método possa ser adequado para fins internos, normalmente não é reconhecido pelas autoridades. A razão para isso é a falta de um histórico de alterações inviolável, que impede que as entradas sejam manipuladas retrospetivamente. Este é um ponto importante que muitas vezes desqualifica o Excel como um diário de bordo compatível com os impostos.
+![É mostrada aqui a luz traseira de um carro azul, cujas viagens são registadas num livro de registo](image.jpg)
 
-- **Facilidade de utilização**: Flexível, mas sem uma interface pronta a utilizar
-- **Segurança jurídica**: Não é juridicamente seguro, pois a falta de um historial de alterações pode levar a manipulações
-- **Proteção de dados**: Armazenamento local, favorável à proteção de dados, mas sem encriptação
-- **Custos**: Sem custos adicionais para os utilizadores do Microsoft 365, uma vez que o Excel já está disponível
-- **Função de análise**: Flexível, mas a análise só é possível com um grande esforço pessoal
-- **Esforço manual**: Esforço manual muito elevado, uma vez que a gestão é totalmente manual
+### Livro de registo com Excel
 
-## Modelo gratuito: Mantenha um diário de bordo digital e eficiente com o SeaTable
+Se criar o seu livro de registo com um modelo de Excel, este método é económico e flexível, **mas exige um esforço manual total e envolve incertezas fiscais**. Embora este método possa ser adequado para fins internos, normalmente não é reconhecido pelas autoridades. A razão para isso é a falta de um historial de alterações à prova de falsificação, que impeça a manipulação posterior dos registos. Este é um ponto importante que muitas vezes desqualifica o Excel como livro de registo conforme com as normas fiscais.
 
-Se procura uma aplicação de diário de bordo que seja gratuita e facilite o seu trabalho diário, o SeaTable é uma excelente escolha. O SeaTable oferece um [**modelo de diário de bordo flexível e personalizável**]({{< relref "templates/finance/mileage-log" >}}), que lhe permite registar digitalmente as suas viagens e geri-las convenientemente online.
+- **Facilidade de utilização**: flexível, mas sem uma interface pré-definida
+- **Segurança jurídica**: não é juridicamente seguro, pois a falta de um historial de alterações pode levar a manipulações
+- **Proteção de dados**: armazenamento local, favorável à proteção de dados, mas sem encriptação
+- **Custos**: sem custos adicionais para os utilizadores do Microsoft 365, uma vez que o Excel já está disponível
+- **Função de análise**: flexível, mas a análise só é possível com muito esforço próprio
+- **Esforço manual**: esforço manual muito elevado, uma vez que é mantido totalmente à mão
 
-O SeaTable tem uma pontuação elevada em termos de **proteção de dados** e oferece-lhe a escolha entre [nuvem]({{< relref "pages/product/seatable-cloud" >}}) e [alojamento no local]({{< relref "pages/product/seatable-server" >}}), para que possa decidir por si próprio onde guarda os seus dados. Outra vantagem: as entradas podem ser introduzidas rápida e facilmente utilizando o **formulário Web** integrado. Este formulário pode solicitar todas as informações necessárias, incluindo uma **assinatura digital**, o que torna o processo particularmente eficiente e seguro.
+## Modelo gratuito: manter um livro de registo digital e eficiente com o SeaTable
 
-Um destaque especial é a opção de gerar um **código QR** diretamente no SeaTable, que pode ser anexado ao veículo da sua empresa, por exemplo. Isto permite-lhe aceder comodamente ao formulário web do diário de bordo a qualquer momento. O SeaTable também permite **análises e avaliações** simples, para que possa acompanhar com precisão a utilização do seu veículo.
+Se procura uma aplicação de livro de registo que seja gratuita e facilite o seu trabalho diário, o SeaTable é uma excelente escolha. O SeaTable oferece um [modelo de livro de registo]({{< relref "templates/finance/mileage-log" >}}) **flexível e personalizável**, que lhe permite registar digitalmente as suas viagens e geri-las comodamente online.
 
-{{< template id="14498b7d75cd47ab934c" >}}
+O SeaTable destaca-se em termos de **proteção de dados** e oferece-lhe a escolha entre alojamento na [nuvem]({{< relref "pages/product/seatable-cloud" >}}) e [on-premises]({{< relref "pages/product/seatable-server" >}}), para que possa decidir por si próprio onde guarda os seus dados. Outra vantagem: os registos podem ser introduzidos de forma rápida e simples através do **formulário web** integrado. Este formulário pode solicitar todas as informações necessárias, incluindo uma **assinatura digital**, o que torna o processo particularmente eficiente e seguro.
 
-Depois de submeter o formulário, os condutores deixam de ter acesso às suas entradas e, por conseguinte, não podem efetuar quaisquer alterações ou manipulações posteriores. Embora tenha a possibilidade de fazer ajustes diretamente na tabela, todas as alterações são registadas em pormenor e, por conseguinte, permanecem sempre rastreáveis.
+Um destaque especial é a possibilidade de gerar diretamente no SeaTable um **código QR**, que pode afixar, por exemplo, no veículo de serviço. Assim, pode aceder comodamente, a qualquer momento, ao formulário web do livro de registo. O SeaTable permite ainda **análises e avaliações** simples, para que possa acompanhar com precisão a utilização do seu veículo.
 
-- **Facilidade de utilização**: Flexível, com modelo pronto a utilizar, incluindo formulário Web
-- **Segurança jurídica**: Segurança jurídica com histórico de alterações
-- **Proteção de dados**: Em conformidade com o RGPD, na nuvem ou no local, localização do servidor na Alemanha
-- **Custos**: Versão básica gratuita, mais funções a partir de 7 euros por mês/utilizador
-- **Função de análise**: Análise exaustiva com pouco esforço
-- **Esforço manual**: Esforço moderado devido à introdução manual no formulário
+{{< template-box id=14498b7d75cd47ab934c >}}
 
-**Nota**: Com o SeaTable, pode não só manter um diário de bordo individual, mas também gerir eficazmente toda a sua [frota]({{< relref "templates/operations/fleet-management" >}}).
+Depois de enviar o formulário, os condutores deixam de ter acesso aos seus registos e, por conseguinte, não podem efetuar quaisquer alterações ou manipulações posteriores. Embora tenha a possibilidade de fazer ajustes diretamente na tabela, todas as alterações são registadas em pormenor e permanecem, assim, rastreáveis a qualquer momento.
 
-Se pretender utilizar o diário de bordo digital do SeaTable, [basta registar-se]({{< relref "pages/registration" >}}) e começar com o modelo gratuito.
+- **Facilidade de utilização**: flexível, com modelo pré-definido incl. formulário web
+- **Segurança jurídica**: juridicamente seguro, com historial de alterações
+- **Proteção de dados**: em conformidade com o RGPD, nuvem ou on-premises, servidor localizado na Alemanha
+- **Custos**: versão básica gratuita, mais funções a partir de 7 € por mês/utilizador
+- **Função de análise**: análise abrangente com pouco esforço
+- **Esforço manual**: esforço moderado devido à introdução manual no formulário
+
+{{< warning headline="Nota" >}}
+
+Com o SeaTable, pode não só manter um livro de registo individual, mas também gerir eficazmente toda a sua [gestão de frotas]({{< relref "templates/operations/fleet-management" >}}).
+
+{{< /warning >}}
+
+Se pretender utilizar o livro de registo digital do SeaTable, [basta registar-se]({{< relref "pages/registration" >}}) e começar com o modelo gratuito.
 
 ## Perguntas frequentes
 
-{{< faq "Tenho de documentar todas as viagens? " >}}
-Sim, se mantiver um diário de bordo, tem de documentar todas as viagens para poder separar corretamente a utilização privada da utilização profissional e reivindicá-la para efeitos fiscais.
+{{< faq "Tenho de documentar todas as viagens?" >}}Sim, se mantiver um livro de registo, tem de documentar todas as viagens para poder separar corretamente a utilização privada da utilização profissional e fazê-las valer para efeitos fiscais.
 {{< /faq >}}
-{{< faq "O que deve constar de um diário de bordo? " >}}
-Os seguintes pormenores devem ser integralmente documentados num diário de bordo para cada viagem:
+{{< faq "O que deve constar de um livro de registo?" >}}Os seguintes dados devem ser integralmente documentados num livro de registo para cada viagem:
 
 - Data da viagem
-- Hora no início e no fim da viagem
+- Hora no início e no fim
 - Quilometragem no início e no fim da viagem
 - Destino e objetivo da viagem
-- Nome do parceiro de negócios ou do cliente (para viagens de negócios)
-  {{< /faq >}}
-  {{< faq "  O que acontece se eu perder o meu diário de bordo? " >}}
-  Se perder o seu diário de bordo, as consequências dependem do facto de ser ou não obrigado a guardá-lo:
-
-**Se for obrigado** a manter um diário de bordo: A perda implica uma coima de 100 euros. Além disso, a obrigatoriedade do diário de bordo pode ser alargada, uma vez que o diário de bordo já não pode ser apresentado.
-
-**Se tiver um diário de bordo voluntário para a administração fiscal**: Neste caso, aplica-se a regra do 1%, o que muitas vezes conduz a custos mais elevados, uma vez que a utilização privada é tributada a uma taxa fixa.
+- Nome do parceiro de negócios ou do cliente (em viagens de serviço)
 {{< /faq >}}
-{{< faq "É mais favorável a regra do 1% ou o livro de registo? " >}}
-Quanto menor for a proporção de deslocações privadas, mais vale a pena utilizar um diário de bordo; no entanto, o método do 1% é geralmente mais favorável para uma utilização privada frequente. Em caso de dúvida, pode calcular facilmente este valor online com uma calculadora de veículos de empresa.
+{{< faq "O que acontece se eu perder o meu livro de registo?" >}}Se perder o seu livro de registo, as consequências dependem de ser ou não obrigado a mantê-lo:
+
+**Se o livro de registo for obrigatório:** a perda implica uma coima de 100 euros. Além disso, a obrigatoriedade do livro de registo pode ser prolongada, uma vez que o livro já não pode ser apresentado.
+
+**Se o livro de registo for voluntário, para a administração fiscal**: neste caso, aplica-se a regra do 1%, o que muitas vezes conduz a custos mais elevados, uma vez que a utilização privada é tributada de forma forfetária.
 {{< /faq >}}
-{{< faq "Quais são as vantagens de um diário de bordo? " >}}
-Em resumo, pode dizer-se que um diário de bordo para os veículos da empresa oferece vantagens sobretudo se a utilização privada do veículo for reduzida e se o esforço que um diário de bordo implica parecer justificado.
+{{< faq "É mais favorável a regra do 1% ou o livro de registo?" >}}Quanto menor for a proporção de viagens privadas, mais compensa um livro de registo; no entanto, em caso de utilização privada frequente, o método do 1% é geralmente mais favorável. Em caso de dúvida, pode calcular facilmente este valor online com uma calculadora de veículos da empresa.
+{{< /faq >}}
+{{< faq "Quais são as vantagens de um livro de registo?" >}}Em resumo, um livro de registo para veículos da empresa oferece vantagens sobretudo se a utilização privada do veículo for reduzida e se o esforço que um livro de registo implica parecer justificado.
 
-As alternativas digitais tornam o diário de bordo acessível em linha e simplificam consideravelmente a gestão, o que as torna particularmente atractivas para as empresas e os trabalhadores independentes que procuram precisão e eficácia.
+As alternativas digitais tornam o livro de registo acessível online e simplificam consideravelmente a gestão, o que as torna particularmente atrativas para as empresas e os trabalhadores independentes que apostam na precisão e na eficiência.
 
-A possibilidade de documentar as deslocações em pormenor e com segurança jurídica permite-lhe tirar o máximo partido dos benefícios fiscais, mantendo uma visão clara da utilização do seu veículo.
+A possibilidade de documentar as viagens em pormenor e com segurança jurídica permite-lhe tirar o máximo partido dos benefícios fiscais, mantendo uma visão clara da utilização do seu veículo.
 
 {{< /faq >}}

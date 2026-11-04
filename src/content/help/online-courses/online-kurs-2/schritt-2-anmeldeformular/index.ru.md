@@ -37,5 +37,5 @@ SeaTable учитывает это ограничение и гарантиру�
 
 ## Справочная статья с дополнительной информацией
 
-- [Как связать таблицы вместе в SeaTable]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}})
+- [Ограничение ссылок для одного вида]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte#ограничение-ссылок-для-одного-вида" >}})
 - [Параметры конфигурации веб-формы]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

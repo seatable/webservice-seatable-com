@@ -19,9 +19,9 @@ color: '#465b46'
 
 ## Qu'est-ce que la collecte de fonds ? Signification et définition
 
-La collecte de fonds désigne l'obtention organisée et systématique de ressources à des fins ou pour des projets spécifiques. Il peut s'agir de contributions en nature, d'argent, de services ou de travail bénévole. En tant que méthode de collecte de capitaux, vous pouvez l'utiliser à la fois à des fins **caritatives** et **d'entreprise**.
+La collecte de fonds désigne l'[obtention]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) organisée et systématique de ressources à des fins ou pour des projets spécifiques. Il peut s'agir de contributions en nature, d'argent, de services ou de travail bénévole. En tant que méthode de collecte de capitaux, vous pouvez l'utiliser à la fois à des fins **caritatives** et **d'entreprise**.
 
-Dans le contexte de l'entreprise, la collecte de fonds est utilisée comme alternative à un prêt bancaire traditionnel pour financer des projets entrepreneuriaux par l'intermédiaire d'investisseurs ou de subventions. Toutefois, le terme est généralement associé à des fins caritatives, où les dons sont collectés pour des **projets sociaux**. Dans ce cas, l'accent n'est pas mis sur l'attente d'un service en retour direct de la part du donateur, mais plutôt sur l'objectif d'avoir un impact positif sur la société ou sur un groupe cible spécifique.
+Dans le contexte de l'entreprise, la collecte de fonds est utilisée comme alternative à un prêt bancaire traditionnel pour financer des projets entrepreneuriaux par l'intermédiaire d'[investisseurs]({{< relref "posts/investitionsplan" >}}) ou de subventions. Toutefois, le terme est généralement associé à des fins caritatives, où les dons sont collectés pour des **projets sociaux**. Dans ce cas, l'accent n'est pas mis sur l'attente d'une contrepartie directe de la part du donateur, mais plutôt sur l'objectif d'avoir un impact positif sur la société ou sur un groupe cible spécifique.
 
 ![Le mot fundraising est écrit dans un livret avec des figures de bâton](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
@@ -38,7 +38,7 @@ En revanche, les campagnes de crowdfunding se déroulent sur une période déter
 Les mesures et les canaux de collecte de fonds peuvent être divisés en deux domaines : La collecte de fonds hors ligne et la collecte de fonds en ligne.
 
 ### Qu'est-ce que la collecte de fonds en ligne ?
-La collecte de fonds en ligne comprend toutes les mesures prises sur Internet. Cela comprend les campagnes sur les médias sociaux, le marketing sur les moteurs de recherche et les **plateformes de dons** telles que Betterplace ou GoFundMe, qui peuvent être utilisées pour présenter des projets et collecter des dons. Au sens large, le marketing par courriel et les lettres d'information sont également inclus dans ce domaine. Les campagnes en ligne vous permettent d'atteindre un **large éventail de groupes cibles** et de groupes d'âge à moindre coût et d'attirer un plus grand nombre de donateurs potentiels.
+La collecte de fonds en ligne comprend toutes les mesures prises sur Internet. Cela comprend les [campagnes sur les médias sociaux]({{< relref "posts/social-media-management" >}}), le marketing sur les moteurs de recherche et les **plateformes de dons** telles que Betterplace ou GoFundMe, qui peuvent être utilisées pour présenter des projets et collecter des dons. Au sens large, le marketing par courriel et les lettres d'information sont également inclus dans ce domaine. Les campagnes en ligne vous permettent d'atteindre un **large éventail de groupes cibles** et de groupes d'âge à moindre coût et d'attirer un plus grand nombre de donateurs potentiels.
 
 ### Qu'est-ce que la collecte de fonds hors ligne ?
 
@@ -57,14 +57,14 @@ La pyramide des donateurs est considérée comme l'un des **modèles de base de 
 Aujourd'hui, la pyramide des donateurs en tant que modèle de collecte de fonds fait l'objet de critiques pour diverses raisons, car sa structure hiérarchique est dépassée et ne reflète plus le comportement moderne en matière de dons. La diversité des nouvelles possibilités de dons, du crowdfunding en ligne à la collecte de fonds de pair à pair, entraîne une dynamique plus complexe qui ne peut être représentée par la pyramide traditionnelle. Néanmoins, les catégories de donateurs restent utiles pour mieux segmenter les donateurs. On distingue généralement les groupes de donateurs suivants :
 
 - Donateurs potentiels
-- Les donateurs qui viennent pour la première fois
+- Premiers donateurs
 - Donateurs multiples et permanents
 - Donateurs majeurs
-- Personnes décédées
+- Testateurs (donateurs par legs)
 
 ### Comment convaincre les donateurs ?
 
-Pour réussir à collecter des fonds et à convaincre les gens de votre projet, une approche directe et **personnelle** est cruciale. Les donateurs potentiels doivent savoir clairement qui vous êtes et pour quel projet vous recherchez des dons. Il est important que vous fournissiez des informations détaillées, y compris le montant spécifique dont vous avez besoin pour l'objectif défini. Utilisez un langage **émotionnel et descriptif** pour susciter l'intérêt du plus grand nombre pour votre idée. Il est payant d'investir du temps et des ressources pour établir et entretenir des relations à long terme avec vos donateurs.
+Pour réussir à collecter des fonds et à convaincre les gens de votre [projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), une approche directe et **personnelle** est cruciale. Les donateurs potentiels doivent savoir clairement qui vous êtes et pour quel projet vous recherchez des dons. Il est important que vous fournissiez des informations détaillées, y compris le montant spécifique dont vous avez besoin pour l'objectif défini. Utilisez un langage **émotionnel et descriptif** pour susciter l'intérêt du plus grand nombre pour votre idée. Il est payant d'investir du temps et des ressources pour établir et entretenir des relations à long terme avec vos donateurs.
 
 Aussi importante que soit l'approche personnelle et émotionnelle, vous posez les bases d'une campagne de collecte de fonds réussie grâce à une planification minutieuse. Ce n'est pas un hasard si un concept de collecte de fonds bien conçu peut servir d'exemple de [campagne de marketing]({{< relref "posts/marketing-kampagne-planung/" >}}). Après tout, c'est exactement de cela qu'il s'agit et il n'y a aucune différence dans la structure et les étapes conceptuelles :
 
@@ -80,7 +80,7 @@ Aussi importante que soit l'approche personnelle et émotionnelle, vous posez le
 
 Entre le premier et le deuxième don, de nombreuses organisations à but non lucratif perdent une grande partie de leurs donateurs - selon une analyse de Beat Hunziker, la perte est d'environ 50 %. Le **cycle de fidélisation des donateurs** montre comment des donateurs intéressés peuvent devenir des supporters engagés. Ce modèle de collecte de fonds comprend plusieurs phases, notamment l'acquisition de nouveaux donateurs, la conversion des premiers donateurs en donateurs récurrents, l'entretien et le renforcement de la fidélité et la réactivation des donateurs inactifs.
 
-- Au cours de la **acquisition**, vous identifiez les donateurs potentiels et les sensibilisez à votre cause par des mesures appropriées. Vous pouvez utiliser une approche appropriée pour persuader les parties intéressées de faire leur premier don.
+- Au cours de l'**acquisition**, vous identifiez les donateurs potentiels et les sensibilisez à votre cause par des mesures appropriées. Vous pouvez utiliser une approche appropriée pour persuader les parties intéressées de faire leur premier don.
 
 - Il est ensuite important de renforcer le **lien** et de faire en sorte que le donateur devienne un partisan régulier. La gestion des relations est un processus continu qui vise à consolider l'engagement et la loyauté du donateur à long terme.
 
@@ -90,7 +90,7 @@ Entre le premier et le deuxième don, de nombreuses organisations à but non luc
 
 ## Comment gérer efficacement les dons ?
 
-Toute campagne de collecte de fonds implique également des tâches administratives : les fonds collectés doivent être enregistrés, les données relatives aux donateurs gérées et les **reçus de dons** délivrés. Des logiciels spécifiques peuvent être utilisés à cette fin. **Les logiciels de collecte de fonds** combinent la gestion financière, **la gestion des donateurs**, [la planification des événements]({{< relref "posts/veranstaltung-verwalten" >}}) et la planification de la campagne en un seul système. Souvent, ces programmes offrent également la possibilité de faire des dons directement et proposent diverses méthodes de paiement à cet effet. Les principaux avantages sont les suivants :
+Toute campagne de collecte de fonds implique également des tâches administratives : les fonds collectés doivent être enregistrés, les données relatives aux donateurs gérées et les **reçus de dons** délivrés. Des logiciels spécifiques peuvent être utilisés à cette fin. **Les logiciels de collecte de fonds** combinent la [gestion financière]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), **la gestion des donateurs**, [la planification des événements]({{< relref "posts/veranstaltung-verwalten" >}}) et la planification de la campagne en un seul système. Souvent, ces programmes offrent également la possibilité de faire des dons directement et proposent diverses méthodes de paiement à cet effet. Les principaux avantages sont les suivants :
 
 - Enregistrement efficace des dons et des données relatives aux donateurs
 - Approche individuelle du donateur grâce à l'analyse de son historique et à l'enregistrement de ses préférences
@@ -101,11 +101,11 @@ Toute campagne de collecte de fonds implique également des tâches administrati
 
 ## Gérer les dons avec SeaTable
 
-Le [modèle gratuit]({{< relref "templates/finance/donation-overview" >}}) de SeaTable fait de la collecte de fonds un jeu d'enfant et rend votre gestion des dons aussi simple que possible. Organisez plusieurs projets en un seul endroit et restez organisé. En tant que **solution sans code**, SeaTable est complètement flexible et évolutif, vous permettant de personnaliser le modèle en fonction de vos besoins spécifiques avec peu d'effort au lieu d'utiliser un logiciel spécialisé prêt à l'emploi. En tant que solution conforme au GDPR** et hébergée exclusivement sur des serveurs en Allemagne, SeaTable convient également au traitement de données particulièrement sensibles telles que les informations sur les donateurs.
+Le [modèle gratuit]({{< relref "templates/finance/donation-overview" >}}) de SeaTable fait de la collecte de fonds un jeu d'enfant et rend votre gestion des dons aussi simple que possible. Organisez plusieurs projets en un seul endroit et restez organisé. En tant que **solution sans code**, SeaTable est complètement flexible et évolutif, vous permettant de personnaliser le modèle en fonction de vos besoins spécifiques avec peu d'effort au lieu d'utiliser un logiciel spécialisé prêt à l'emploi. En tant que **solution conforme au RGPD** et hébergée exclusivement sur des serveurs en Allemagne, SeaTable convient également au traitement de données particulièrement sensibles telles que les informations sur les donateurs.
 
 {{< template-box id="f64c97dc0723400887c0" submit="Testez le modèle" text="Faites défiler notre modèle interactif et découvrez les premières fonctions." >}}
 
-Dans votre base de données en ligne, vous pouvez non seulement collecter et gérer les dons, mais aussi calculer automatiquement la différence entre les dons déjà effectués et le montant cible. **Intégrez votre prestataire de services de paiement**, créez des reçus de dons** en un seul clic et conservez les coordonnées et l'historique de vos donateurs. Vous pouvez voir tous les faits importants et l'état d'avancement de vos projets en un coup d'œil sur un tableau Kanban clair. Vos employés travaillent ensemble **en temps réel** pour une transparence totale des données à tout moment. Avec l'**application universelle**, vous pouvez facilement créer votre propre base de données frontale et fournir à vos donateurs des rapports et d'autres informations.
+Dans votre base de données en ligne, vous pouvez non seulement collecter et gérer les dons, mais aussi calculer automatiquement la différence entre les dons déjà effectués et le montant cible. **Intégrez votre prestataire de services de paiement**, créez **des reçus de dons en un seul clic** et conservez les coordonnées et l'historique de vos donateurs. Vous pouvez voir tous les faits importants et l'état d'avancement de vos projets en un coup d'œil sur un tableau Kanban clair. Vos employés travaillent ensemble **en temps réel** pour une transparence totale des données à tout moment. Avec l'**application universelle**, vous pouvez facilement créer votre propre interface front-end pour la base de données et fournir à vos donateurs des rapports et d'autres informations.
 
 ## FAQ - Collecte de fonds
 

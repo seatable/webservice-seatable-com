@@ -118,6 +118,8 @@ Comme vous consignez tout dans votre Bullet Journal, vous pouvez vérifier à to
 
 Pour son inventeur, Ryder Carroll, l'essentiel est que le Bullet Journal améliore votre vie. Il n'y a ni bonne ni mauvaise façon de [profiter de la vie ici et maintenant]({{< relref "posts/dankbarkeitstagebuch" >}}). Cela implique aussi que le journaling vous offre une [pause dans le stress quotidien]({{< relref "posts/digital-detox" >}}) et vous permette de prendre du recul sur votre vie. Pour certaines personnes, l'écriture créative peut avoir un **effet méditatif**. En outre, votre Bullet Journal représente beaucoup de travail. C'est un objet fait main, ce qui renforce sa valeur émotionnelle et vous aide à persévérer.
 
+En équipe, les tâches doivent être réparties et pas seulement notées : notre article sur la [gestion des tâches]({{< relref "posts/aufgabenverwaltung" >}}) montre comment les équipes planifient ensemble tâches et ressources.
+
 ## Modèle pour votre Bullet Journal numérique
 
 Le **Bullet Journal numérique** est une alternative au carnet papier. SeaTable vous offre une solution simple et efficace pour concevoir vos calendriers, listes et trackers en version numérique et les réorganiser en quelques clics. Adaptez le [modèle gratuit]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) à vos besoins et complétez-le avec vos propres idées. Le Bullet Journal intègre un Habit Tracker, qui constitue un complément pratique à votre journal. Utilisez des couleurs, des symboles et des images pour personnaliser votre journal.

@@ -51,15 +51,15 @@ Agora podemos ver no quadro `Registrations` para criar uma nova coluna para envi
 
 > Nome: qualquer
 >
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-button" >}} Botão`
 >
-> Etiqueta: `Send`
+> Rótulo: `Send`
 >
-> Ação: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+> Ação: `{{< seatable-icon icon="dtable-icon-email" >}} Enviar email`
 >
 > Assunto: `Confirmation: Course {Registered for}`
 >
-> Beneficiário: `customer@example.com`
+> Recebedora: `customer@example.com`
 
 ![Tabela do SeaTable com coluna de botão «Send» para enviar e-mails a participantes](images/lvl2-create-button.png)
 
@@ -78,7 +78,7 @@ Pode utilizar o seguinte modelo de texto para o texto da mensagem:
 >
 > Best regards
 
-No editor de texto simples, os marcadores de posição entre parênteses rectos são substituídos automaticamente. Se estiver a utilizar o editor de rich text, tem de substituir os marcadores de posição manualmente utilizando a opção `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insert column` inserir.
+No editor de texto simples, os marcadores de posição entre parênteses rectos são substituídos automaticamente. Se estiver a utilizar o editor de rich text, tem de substituir os marcadores de posição manualmente utilizando a opção `{{< seatable-icon icon="dtable-icon-choose-column" >}} Insira a coluna`.`
 
 ![Editor de texto formatado do SeaTable com placeholders para curso e data](images/lvl2-rich-text-editor.png)
 
@@ -86,12 +86,12 @@ Em seguida, clique no botão e verifique se a mensagem aparece na sua caixa de c
 
 Parabéns! Acabou de enviar a sua primeira mensagem de correio eletrónico através do SeaTable - mesmo que tenha ido apenas para a caixa de correio virtual do Mailtrap.
 
-{{< warning  headline="Enviar e-mails automaticamente"  text="Atualmente, continuamos a enviar mensagens de correio eletrónico manualmente por botão. No entanto, com uma subscrição Enterprise do SeaTable, é possível configurar automações para enviar e-mails automaticamente. Como se trata de uma funcionalidade paga, não a vamos demonstrar aqui." />}}
+{{< warning  headline="Enviar e-mails automaticamente"  text="Por agora, o envio dos e-mails é acionado com um clique num botão. Uma automação também pode tratar disso: as automações são abordadas no curso 4." />}}
 
 ## Artigo de ajuda com mais informações
 
-- [Configurar uma conta de correio eletrónico numa base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
-- [Configurar o Gmail para enviar mensagens de correio eletrónico através de SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Criação de uma conta de e-mail numa Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Configurar o Gmail para enviar emails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [O botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Envio de um e-mail por botão]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [Correio eletrónico através de automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envio de e-mails via automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

@@ -53,8 +53,8 @@ Quando já tiveres experimentado o suficiente, tenta completar o questionário e
 
 ## Artigo de ajuda com mais informações
 
-- [O que é um ponto de vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Agrupamento, classificação e filtragem]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
-- [Criar uma nova visão]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Visualizações de pinos]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [O que é uma vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
+- [Agrupamento, ordenação e filtragem]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Criar uma nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Fixar as vistas]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
 - [A barra de estado e as suas funções]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

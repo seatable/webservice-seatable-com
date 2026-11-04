@@ -13,7 +13,7 @@ categories:
 tags:
     - 'Build your Business'
     - 'Operations'
-color: '#4fb086'
+color: '#52b487'
 ---
 
 In einer Zeit, in der sich der Trend zur **Nachhaltigkeit** zunehmend verstärkt, stehen Unternehmen vor der Herausforderung, den höheren Ansprüchen ihrer Kunden gerecht zu werden. Die steigende Nachfrage nach nachhaltigen Produkten spiegelt sich im Verhalten der Verbraucher wider, die zunehmend Wert auf Umweltverträglichkeit und soziale Verantwortung legen – Stichwort: **Corporate Social Responsibility (CSR)**.
@@ -104,6 +104,8 @@ Durch die Erstellung dieser Berichte schaffen Sie **Transparenz** und ermöglich
 ## Template von SeaTable
 
 Um konkrete Ziele festzulegen und Ihren Fortschritt verfolgen zu können, bietet sich das kostenlose [Template]({{< relref "templates/operations/sustainability-management" >}}) von SeaTable an. In der Vorlage können Sie Ihre Ziele eintragen, diese in Kategorien einteilen und Abteilungen zuordnen. Neben anstehenden Maßnahmen können Sie so auch Prioritäten zuteilen und ein Zieldatum eintragen.
+
+{{< template-box id="d5cbbf2bba084333a1d7" >}}
 
 Mithilfe einer weiteren Tabelle behalten Sie den Überblick über alle wichtigen Zahlen und sehen auf einen Blick, in welchen Bereichen Sie sich bereits verbessern konnten. Ebenso können Sie Nachhaltigkeitszertifikate, die Sie bereits erhalten haben oder auf die Sie hinarbeiten, dokumentieren und automatisiert den nächsten Termin für die Neubeantragung generieren lassen.
 

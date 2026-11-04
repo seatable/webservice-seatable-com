@@ -11,7 +11,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Educación'
+    - 'Vida cotidiana y ocio'
 color: '#f1c449'
 register:
    show: true

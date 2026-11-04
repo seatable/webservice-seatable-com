@@ -1,0 +1,45 @@
+{{- /*
+  Sitemap group and priority of a page.
+  Lifestyle (private topics) = posts tagged "Everyday Life & Leisure" (in all languages),
+  templates in templates/everyday-life and the private templates in templates/healthcare.
+  Override per page with front matter `sitemap_group: lifestyle` or `sitemap_group: core`.
+*/ -}}
+{{- $lifestyleTags := slice "Everyday Life & Leisure" "Alltag & Freizeit" "Vie Quotidienne" "Vida cotidiana y ocio" "Vida cotidiana e lazer" "Повседневная жизнь и досуг" -}}
+{{- $lifestyleDirs := slice
+  "templates/everyday-life/"
+  "templates/healthcare/allergy-diary/"
+  "templates/healthcare/care-journal/"
+  "templates/healthcare/food-diary/"
+  "templates/healthcare/medication-plan/"
+  "templates/healthcare/personal-exercise-guide/"
+  "templates/healthcare/recipes-meal-plan/"
+  "templates/healthcare/running-plan/"
+-}}
+{{- $topDirs := slice "pages/product/" "pages/prices/" "pages/functions/" "pages/landing-pages/" "pages/legal/security/" -}}
+{{- /* AVV, TOMs, subprocessors, EVB-IT and data privacy stay at 0.5: they matter for B2B procurement */ -}}
+{{- $lowDirs := slice "pages/seadays/" "pages/legal/imprint/" "pages/legal/terms-of-service/" "pages/legal/eula/" "pages/jobs/" "pages/press/" "pages/registration/" -}}
+
+{{- $dir := "" -}}
+{{- with .File }}{{ $dir = .Dir }}{{ end -}}
+
+{{- $lifestyle := gt (len (intersect $lifestyleTags (.Params.tags | default slice))) 0 -}}
+{{- range $lifestyleDirs }}{{ if hasPrefix $dir . }}{{ $lifestyle = true }}{{ end }}{{ end -}}
+{{- with .Params.sitemap_group }}{{ $lifestyle = eq . "lifestyle" }}{{ end -}}
+
+{{- $isTop := false -}}
+{{- range $topDirs }}{{ if hasPrefix $dir . }}{{ $isTop = true }}{{ end }}{{ end -}}
+{{- $isLow := false -}}
+{{- range $lowDirs }}{{ if hasPrefix $dir . }}{{ $isLow = true }}{{ end }}{{ end -}}
+
+{{- $priority := 0.5 -}}
+{{- if .IsHome }}{{ $priority = 1.0 }}
+{{- else if $lifestyle }}{{ $priority = 0.3 }}
+{{- else if $isTop }}{{ $priority = 0.9 }}
+{{- else if $isLow }}{{ $priority = 0.3 }}
+{{- else if in (slice "posts" "templates") .Section }}{{ $priority = 0.7 }}
+{{- else if eq .Section "help" }}{{ $priority = 0.6 }}
+{{- end -}}
+{{- /* An explicit front matter value (sitemap: priority: …) wins */ -}}
+{{- with .Params.sitemap }}{{ with .priority }}{{ $priority = float . }}{{ end }}{{ end -}}
+
+{{- return (dict "lifestyle" $lifestyle "priority" $priority) -}}

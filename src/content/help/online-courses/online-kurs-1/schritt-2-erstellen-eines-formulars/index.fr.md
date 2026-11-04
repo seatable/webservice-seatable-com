@@ -13,46 +13,46 @@ seo:
     description: 'Apprenez à créer et personnaliser un formulaire web dans SeaTable pour collecter vos dépenses lors du cours en ligne.'
 ---
 
-Après avoir créé la structure nécessaire de votre gestion des dépenses à l'étape 1, vous pouvez maintenant saisir de nouvelles dépenses à tout moment à l'aide de votre navigateur. Vous vous en souvenez certainement : Chaque ligne représente un nouvel enregistrement et, dans votre cas, une opération de paiement.
+La structure créée à l'étape 1 vous permet déjà de saisir de nouvelles dépenses à tout moment depuis votre navigateur. Pour rappel : chaque ligne est un enregistrement, ici une dépense.
 
-Mais bien sûr, ce serait bien si vous pouviez également saisir d'autres dépenses en déplacement via votre téléphone portable. Ou bien vous souhaitez également saisir les dépenses de vos collègues ou des membres de votre famille. Pour ces cas, un formulaire web s'impose, que vous pouvez créer très facilement avec SeaTable, puisque vous avez déjà défini les possibilités du formulaire de saisie par les types de colonnes. Mais qu'est-ce que je peux expliquer de manière longue et compliquée ? Construisons simplement le formulaire et essayons-le.
+Mais ce serait plus pratique de pouvoir aussi noter une dépense en déplacement, depuis votre téléphone. Ou de laisser vos collègues, ou votre famille, saisir les leurs. Pour cela, rien de tel qu'un formulaire web, et SeaTable le crée en un rien de temps : les types de colonnes que vous avez choisis définissent déjà les champs du formulaire. Plutôt qu'un long discours, construisons-le et essayons-le.
 
-## Annexe du formulaire web
+## Création du formulaire web
 
-Dans l'en-tête de votre base, vous trouverez de nombreuses fonctions supplémentaires. Derrière le bouton `Forms` SeaTable vous offre la possibilité de créer de nouveaux formulaires web.
+En haut de votre base se trouvent de nombreuses fonctions supplémentaires. Le bouton `Formulaires` vous permet de créer des formulaires web.
 
 ![Gestion des formulaires avec bouton « Forms » et nouveau formulaire web](images/level1-create-webform.png)
 
-1. Créez un nouveau formulaire web nommé `Expense Tracking`. En fait, le nom n'a pas d'importance, mais pourquoi ne pas donner un joli nom au formulaire ?
-2. Une nouvelle interface utilisateur s'ouvre, dans laquelle vous pouvez concevoir le formulaire web.
-3. Faites glisser les quatre champs du tableau `Reason`, `Date`, `Amount` et `Category` par glisser-déposer dans le formulaire.
+1. Créez un nouveau formulaire web nommé `Expense Tracking`. Le nom importe peu, mais autant lui en donner un parlant !
+2. Un éditeur s'ouvre, dans lequel vous concevez le formulaire.
+3. Faites glisser les quatre champs du tableau, `Reason`, `Date`, `Amount` et `Category`, dans le formulaire.
 
 ![Formulaire web « Expense Tracking » avec champs Reason, Date, Amount, Category](images/level1-webform.png)
 
-## Autres paramètres du formulaire web
+## Autres réglages du formulaire web
 
-Votre formulaire web est presque prêt et peut déjà être utilisé. Cependant, il y a encore trois réglages que je vous conseille de faire. Pour adapter les paramètres d'un champ de saisie, vous devez cliquer sur le champ de saisie dans le formulaire. Les possibilités de réglage de ce champ de saisie s'affichent alors immédiatement sur le côté droit. Les possibilités de réglage varient en fonction du champ de saisie sur lequel vous cliquez.
+Votre formulaire est presque prêt, et déjà utilisable. Nous vous conseillons toutefois trois réglages. Pour régler un champ, cliquez dessus dans le formulaire : ses options s'affichent à droite. Elles varient selon le champ choisi.
 
-- `Category`Les différentes options doivent être définies comme **Liste** être représentés
-- `Date`: Le jour actuel doit déjà être considéré comme **Valeur par défaut** être mis en place
-- `Amount`: La saisie de ce champ est obligatoire **nécessaire**
+- `Category` : choisissez l'affichage `Liste` ;
+- `Date` : définissez la date du jour comme `Valeur par défaut` ;
+- `Amount` : activez `Champ obligatoire`.
 
-La configuration du formulaire web est maintenant terminée et nous pouvons saisir les premiers enregistrements par ce biais.
+Le formulaire est configuré : vous pouvez maintenant l'utiliser pour saisir vos premières dépenses.
 
 ## Essayer le formulaire web
 
-Les boutons orange dans le coin supérieur droit permettent d'obtenir soit l'URL du formulaire web, soit un code QR.
+Les boutons orange, en haut à droite, vous donnent l'URL du formulaire ou un QR code.
 
-Vous verrez qu'à chaque fois que vous enverrez le formulaire, un nouvel enregistrement sera immédiatement écrit dans votre base. Vous n'avez pas besoin de recharger la page dans votre navigateur.
+Chaque soumission du formulaire crée aussitôt une nouvelle ligne dans votre base, sans même que vous ayez à recharger la page.
 
-N'hésitez pas à expérimenter le formulaire web pendant quelques minutes et à apprécier les progrès que vous venez de réaliser : **Dès maintenant, vous et toute autre personne à qui vous communiquez le lien vers ce formulaire web pouvez créer de nouvelles entrées dans votre base.**
+Prenez quelques minutes pour essayer le formulaire et mesurer le chemin parcouru : **désormais vous, ou toute personne à qui vous donnez le lien du formulaire, pouvez ajouter des dépenses dans votre base.**
 
-Il est important de noter que seules les nouvelles entrées peuvent être créées via le formulaire web et qu'il n'est pas possible de modifier ou de consulter les entrées existantes.
+Notez qu'un formulaire web ne sert qu'à créer de nouvelles lignes : il ne permet ni de consulter ni de modifier celles qui existent.
 
-Prenez également quelques minutes pour explorer les possibilités supplémentaires offertes par le formulaire web.
+Prenez aussi le temps d'explorer les autres options du formulaire web.
 
 ## Article d'aide avec plus d'informations
 
-- [Les formulaires web en général]({{< relref "help/base-editor/webformulare/webformulare" >}})
+- [Formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Créer un formulaire web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
-- [Possibilités de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
+- [Options de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

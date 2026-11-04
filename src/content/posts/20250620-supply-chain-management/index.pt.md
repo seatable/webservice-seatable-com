@@ -42,7 +42,7 @@ A logística e a gestão da cadeia de abastecimento são frequentemente utilizad
 
 A gestão da cadeia de abastecimento é crucial para o sucesso de uma empresa. Com processos planeados e executados em [aquisição]({{< relref "posts/20250327-beschaffung-unternehmen" >}}), produção e [vendas]({{< relref "posts/20250506-distributionspolitik" >}}), logística eficiente e uma cadeia de abastecimento estável, é possível atingir vários objetivos. O objetivo é sempre assegurar uma logística sem problemas e reduzir ao mínimo os atrasos ou interrupções, para que toda a cadeia de valor possa funcionar de forma otimizada.
 
-* **Reduzir os custos:** Um planeamento otimizado dos recursos e fornecedores fiáveis reduzem os custos a longo prazo. Isto inclui a rápida redução dos inventários, diminuindo os custos de armazenamento, assegurando a entrega atempada (fornecimento just-in-time) e encurtando os ciclos de caixa a caixa.
+* **Reduzir os custos:** Um planeamento otimizado dos recursos e fornecedores fiáveis reduzem os custos a longo prazo. Isto inclui a rápida redução dos inventários, diminuindo os custos de armazenamento, assegurando a entrega atempada (fornecimento just-in-time) e encurtando os ciclos cash-to-cash.
 * **Maior flexibilidade:** As cadeias de valor e os processos podem ser concebidos com uma gestão eficiente da cadeia de abastecimento, de modo a poder reagir rapidamente às alterações das condições de mercado e aos estrangulamentos no abastecimento.
 * **Fidelidade do cliente e do fornecedor:** Processos otimizados e a capacidade de reagir rapidamente mantêm e reforçam as relações com clientes e fornecedores. Isto aumenta a fiabilidade da entrega.
 * **Ganhos de eficiência:** Os [fluxos de trabalho]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) e os processos são continuamente revistos e melhorados.
@@ -72,9 +72,9 @@ Um **SCM moderno** baseia-se em sistemas que permitem a recolha de dados, a aná
 
 Os ambientes modernos de nuvem permitem uma gestão mais flexível da cadeia de abastecimento. Para além das vantagens já mencionadas – **velocidade, automatização de processos, comunicação em tempo real** – o crescimento da empresa pode ser facilmente escalado com uma [solução na nuvem]({{< relref "posts/cloud-computing" >}}). Só se ativam recursos ou funções adicionais quando são necessários. As empresas minimizam assim o seu risco financeiro e reduzem os custos.
 
-As soluções na nuvem, como a [plataforma no-code SeaTable]({{< relref "/" >}}), oferecem outra vantagem que não deve ser subestimada: não são soluções estandardizadas e prontas a utilizar. Pelo contrário, os gestores da cadeia de abastecimento podem adaptar o sistema às suas necessidades específicas - quer a partir do zero, quer utilizando um modelo de gestão da cadeia de abastecimento como base.
+As soluções na nuvem, como a [plataforma no-code SeaTable]({{< relref "/" >}}), oferecem outra vantagem que não deve ser subestimada: não são soluções estandardizadas e prontas a utilizar. Pelo contrário, os gestores da cadeia de abastecimento podem adaptar o sistema às suas necessidades específicas – quer a partir do zero, quer utilizando um modelo de gestão da cadeia de abastecimento como base.
 
-**O modelo incorporado pode ser deslocado e clicado.**
+**O modelo incorporado pode ser percorrido e é clicável.**
 {{< template id="d58845a24cda4807847e" >}}
 
 {{< button label="Descarregar modelo agora" link="/templates/operations/supply-chain-management/" >}}
@@ -87,7 +87,7 @@ Desenvolver e gerir uma gestão eficiente e eficaz da cadeia de abastecimento da
 2. **Comunique regularmente:** Partilhe ativa e abertamente as informações relevantes com os colegas e departamentos afetados. Isto permite-lhe reagir mais rapidamente aos problemas e identificar os pontos fracos dos seus processos.
 3. **Determine quem é responsável:** Defina responsabilidades claras para as etapas individuais do processo na sua cadeia de valor desde o início. Muitas dificuldades podem ser evitadas se todos os envolvidos souberem quem tem de atuar ou tomar uma decisão e quando.
 4. **Otimize continuamente:** A otimização do processo é uma tarefa contínua. Defina um fluxo de trabalho repetitivo para o efeito, por exemplo, o ciclo PDCA. Neste conceito circular, os quatro passos Planear, Fazer, Verificar e Agir são constantemente repetidos. Isto torna os seus processos cada vez mais eficientes e dá à sua empresa uma vantagem competitiva.
-5. **Escolha o software certo:** Comunicação, visualização de processos, automatização de tarefas, monitorização e elaboração de relatórios, gestão de fornecedores - a lista de tarefas que uma plataforma de gestão da cadeia de abastecimento deve cobrir é longa. Analise cuidadosamente as suas necessidades e as ofertas existentes no mercado. Uma alternativa frequentemente negligenciada ao software SCM ou às plataformas de gestão do trabalho são as soluções sem código, como o SeaTable. Estas permitem-lhe armazenar todas as informações e processos de forma centralizada e acessível a todas as partes envolvidas e adaptar a estrutura às suas necessidades específicas.  
+5. **Escolha o software certo:** Comunicação, visualização de processos, automatização de tarefas, monitorização e elaboração de relatórios, gestão de fornecedores – a lista de tarefas que uma plataforma de gestão da cadeia de abastecimento deve cobrir é longa. Analise cuidadosamente as suas necessidades e as ofertas existentes no mercado. Uma alternativa frequentemente negligenciada ao software SCM ou às plataformas de gestão do trabalho são as soluções sem código, como o SeaTable. Estas permitem-lhe armazenar todas as informações e processos de forma centralizada e acessível a todas as partes envolvidas e adaptar a estrutura às suas necessidades específicas.  
 
 ![SCM - Fornecedores](SCM-Manager.jpg)
 
@@ -100,7 +100,7 @@ Agora já sabe o que é a SCM e o que é importante quando se trata de otimizaç
 ## FAQ Gestão da cadeia de abastecimento
 
 {{< faq "O que é a gestão da cadeia de abastecimento" >}}
-A gestão da cadeia de fornecimento engloba o planeamento e a gestão de todas as atividades associadas ao aprovisionamento, à produção e à gestão global da logística. É importante referir que também inclui a coordenação e colaboração com parceiros de distribuição, que podem ser fornecedores, intermediários, prestadores de serviços terceiros e clientes.
+A gestão da cadeia de abastecimento engloba o planeamento e a gestão de todas as atividades associadas ao aprovisionamento, à produção e à gestão global da logística. É importante referir que também inclui a coordenação e colaboração com parceiros de distribuição, que podem ser fornecedores, intermediários, prestadores de serviços terceiros e clientes.
 {{< /faq >}}
 {{< faq "Quais são as vantagens dos sistemas SCM baseados na nuvem?" >}}
 Os sistemas SCM baseados na nuvem permitem o trabalho colaborativo e a partilha de informações em tempo real. As empresas podem escalar melhor os seus processos em ambientes de nuvem, uma vez que as funções ou o espaço de armazenamento adicional podem ser facilmente ativados ou desativados conforme necessário.
@@ -109,5 +109,5 @@ Os sistemas SCM baseados na nuvem permitem o trabalho colaborativo e a partilha 
 Numa estratégia de gestão da cadeia de abastecimento, é feita uma distinção entre os níveis operacional, tático e estratégico. Estes diferem na sua orientação temporal.
 1. Gestão operacional da cadeia de abastecimento: Todas as decisões podem ser implementadas num curto espaço de tempo ou no espaço de dias ou semanas. Normalmente, trata-se de processos que podem ser implementados rapidamente, como o planeamento de processos, o carregamento ou o processamento de encomendas. As relações entre encomendas e stocks também são analisadas. O objetivo aqui é atingir o nível mais elevado possível de satisfação do cliente, uma vez que o foco principal é a relação com o cliente.
 2. Gestão tática da cadeia de abastecimento: Todas as decisões podem ser implementadas a médio prazo ou entre um trimestre e um ano. Dizem respeito, por exemplo, a decisões relativas a quantidades de produção, recursos de produção, inventários, estratégias de expedição e transporte.
-3. Gestão estratégica da cadeia de abastecimento: Aqui, as decisões são tomadas com sucesso a longo prazo. Estas incluem, por exemplo, a escolha da localização do armazém próprio da empresa, as capacidades de produção e armazenamento, os investimentos, a seleção de fornecedores, as decisões de produzir ou comprar e as [estratégias de venda]({{< relref "posts/vertriebsstrategie" >}}).
+3. Gestão estratégica da cadeia de abastecimento: Aqui, são tomadas decisões orientadas para o sucesso a longo prazo. Estas incluem, por exemplo, a escolha da localização do armazém próprio da empresa, as capacidades de produção e armazenamento, os investimentos, a seleção de fornecedores, as decisões de produzir ou comprar e as [estratégias de venda]({{< relref "posts/vertriebsstrategie" >}}).
 {{< /faq >}}

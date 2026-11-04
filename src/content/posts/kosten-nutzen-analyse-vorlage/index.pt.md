@@ -16,6 +16,13 @@ tags:
     - 'Gestão e visualização de dados'
     - 'Finanças'
 color: '#e45706'
+image_sources:
+    - file: 'sasun-bughdaryan-njiadDwbgaM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/calculator-magnifying-glass-and-chart-with-gears-on-paper-njiadDwbgaM'
+      author: 'Sasun Bughdaryan'
+    - file: 'tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-sitting-on-chair-wearing-gray-crew-neck-long-sleeved-shirt-using-apple-magic-keyboard-CPs2X8JYmS8'
+      author: 'Tim van der Kuip'
 ---
 
 No dia a dia da vida empresarial, nem sempre é fácil tomar as decisões corretas. É preciso considerar muitos aspectos e fatores e, muitas vezes, avaliar o efeito de certas medidas sem quaisquer dados empíricos. O sucesso da sua empresa depende de uma coisa em particular: a base sobre a qual as suas decisões são tomadas. Felizmente, pode colocar as suas decisões numa base sólida com uma **análise custo-benefício**.
@@ -28,9 +35,9 @@ Uma análise custo-benefício, ou ACB, é uma **análise de rentabilidade**. Com
 
 A vantagem aqui é que pode agrupar todos os **fatores e efeitos associados a um investimento** numa única base de dados, para que não perca a visão geral. Especialmente no caso de [grandes projetos]({{< relref "templates/projects/work-breakdown-structure" >}}), há um grande número de critérios objetivos e subjetivos que afetam a ACB de formas muito diferentes. Um modelo ajuda-o a ter em conta todos estes aspectos.
 
-![Modelo impresso para uma análise custo-benefício.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Modelo impresso para uma análise custo-benefício.](sasun-bughdaryan-njiadDwbgaM-unsplash.jpg)
 
-Beneficie de uma análise custo-benefício. Direitos de imagem: amazing studio / Adobe Stock
+Beneficie de uma análise custo-benefício. Direitos de imagem: © Sasun Bughdaryan / Unsplash
 
 ## Onde é utilizada a análise custo-benefício?
 
@@ -49,9 +56,9 @@ Basicamente, uma análise custo-benefício é sempre adequada quando se planeiam
 - introduz novos processos empresariais
 - pretende aumentar a sua [frota de veículos]({{< relref "posts/fuhrparkmanagement" >}})
 
-![Empregado prepara modelo para análise custo-benefício.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Empregado prepara modelo para análise custo-benefício.](tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg)
 
-Um funcionário efetua uma análise custo-benefício. Direitos de imagem: Andrey Popov / Adobe Stock
+Um funcionário efetua uma análise custo-benefício. Direitos de imagem: © Tim van der Kuip / Unsplash
 
 ## Uma análise custo-benefício oferece-lhe as seguintes vantagens
 

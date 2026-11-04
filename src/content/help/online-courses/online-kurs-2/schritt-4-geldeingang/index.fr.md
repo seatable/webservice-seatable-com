@@ -1,5 +1,5 @@
 ---
-title: "Étape 4 : Réception de l'argent"
+title: 'Étape 4 : Réception du paiement'
 date: 2024-09-19
 lastmod: '2024-09-24'
 categories:
@@ -9,23 +9,23 @@ url: '/fr/aide/etape4-reception-paiement-seatable'
 aliases:
     - '/fr/aide/schritt-4-geldeingang'
 seo:
-    title: 'Étape 4 SeaTable Cours 2: réception de paiement – email'
-    description: 'Au quatrième module, créez un bouton SeaTable pour enregistrer les paiements et envoyer une confirmation automatique par e-mail aux participants.'
+    title: 'Étape 4 SeaTable Cours 2 : réception de paiement – email'
+    description: 'À la quatrième étape, créez un bouton SeaTable pour enregistrer les paiements et envoyer une confirmation automatique par e-mail aux participants.'
 ---
 
-Après avoir reçu la demande de paiement par e-mail, les participants au cours transfèrent les frais de cours sur votre compte bancaire. Nous n'allons pas automatiser davantage la vérification de la réception de l'argent à ce stade. Néanmoins, il serait judicieux d'intégrer un bouton supplémentaire dans votre base, qui se chargerait de deux tâches :
+Après avoir reçu la demande de paiement par e-mail, les participants transfèrent le montant du cours sur votre compte bancaire. Nous n'allons pas automatiser davantage le suivi des paiements à ce stade. Il serait toutefois utile d'ajouter à votre base un second bouton, qui remplirait deux fonctions :
 
-1. Confirmation de la réception de l'argent et donc de l'inscription complète du participant au cours.
-2. Documentation du processus de paiement dans la base.
+1. Confirmer au participant que son paiement est bien arrivé, et donc que son inscription est complète.
+2. Garder une trace du paiement dans la base.
 
 ## Plusieurs actions dans un seul bouton
 
-C'est facile à mettre en œuvre dans SeaTable. Ajoutez dans le tableau `Registrations` ajoute un nouveau bouton qui effectue deux actions :
+SeaTable le permet facilement. Dans le tableau `Registrations`, ajoutez un nouveau bouton qui enchaîne deux actions :
 
-- Envoyer un e-mail de confirmation de paiement au participant.
-- Le site `Payment Status` sur `Paid` mettre en place.
+- envoyer au participant un e-mail de confirmation de paiement ;
+- passer `Payment Status` à `Paid`.
 
-Grâce à vos nouvelles connaissances, cela ne devrait pas poser de problème. Vous pouvez utiliser le texte suivant pour votre e-mail :
+Avec ce que vous avez appris, cela ne devrait pas vous poser de difficulté. Pour l'e-mail, vous pouvez reprendre ce texte :
 
 > Subject: Payment Confirmation and Online Meeting Details
 >
@@ -41,8 +41,8 @@ Grâce à vos nouvelles connaissances, cela ne devrait pas poser de problème. V
 
 ## Article d'aide avec plus d'informations
 
-- [Configurer un compte de messagerie dans une base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
-- [Configurer Gmail pour l'envoi d'e-mails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Configuration d'un compte e-mail dans une base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Configurer Gmail pour envoyer des e-mails par SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [Le bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Envoyer un e-mail via un bouton]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
-- [E-mail par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

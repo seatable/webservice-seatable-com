@@ -8,7 +8,17 @@
             <div class="mt-14 flex flex-col">
                 
                 <div id="container" class="flex flex-col w-full justify-between">
-                    {{ range $index, $page := .Pages }}
+                    {{- /* The first 12 places go to B2B posts (newest first); from place 13 on everything
+                           stays chronological, lifestyle posts included. Lifestyle = partials/sitemap/meta.html */ -}}
+                    {{- $top := slice }}{{ $rest := slice }}
+                    {{- range .Pages }}
+                      {{- if and (lt (len $top) 12) (not (partial "sitemap/meta.html" .).lifestyle) }}
+                        {{- $top = $top | append . }}
+                      {{- else }}
+                        {{- $rest = $rest | append . }}
+                      {{- end }}
+                    {{- end }}
+                    {{ range $index, $page := $top | append $rest }}
                       {{ if eq $index 0 }}
                         {{ $colorMap := dict "white" "text-white" "neutral" "text-neutral-500" "dark" "text-neutral-900" }}
                         {{ $textColor := index $colorMap (default "neutral" .Params.color) }}

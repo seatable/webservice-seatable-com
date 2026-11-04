@@ -18,7 +18,11 @@ url: '/de/portfoliomanagement'
 
 Ein Portfolio bündelt einen Bestand an Objekten, die miteinander in Beziehung stehen. Dabei kann es sich beispielsweise um Anlageobjekte wie Wertpapiere und Immobilien handeln, aber auch um das Projekt- oder Produktportfolio eines Unternehmens. Beim Portfoliomanagement steht dementsprechend die **gewinnbringende Zusammenstellung, Verwaltung und Weiterentwicklung eines Portfolios** im Vordergrund.
 
-**Hinweis**: Das Wort Portfolio (lateinisch für „Blatt-Träger“, aus _portare_ „tragen“ und _folium_ „Blatt“) stammt aus der bildenden Kunst und bezeichnet dort eine Sammelmappe, in der sich besondere Referenzen und Werke befinden. Mit einem Portfolio bewarben sich Künstler und Architekten bereits in der Renaissance um Aufträge sowie die Aufnahme in Akademien. In seiner ursprünglichen Bedeutung findet das Portfolio auch heute noch im künstlerischen und pädagogischen Bereich Verwendung.
+{{< warning headline="Hinweis zur Wortherkunft" >}}
+
+Das Wort Portfolio (lateinisch für „Blatt-Träger“, aus _portare_ „tragen“ und _folium_ „Blatt“) stammt aus der bildenden Kunst und bezeichnet dort eine Sammelmappe, in der sich besondere Referenzen und Werke befinden. Mit einem Portfolio bewarben sich Künstler und Architekten bereits in der Renaissance um Aufträge sowie die Aufnahme in Akademien. In seiner ursprünglichen Bedeutung findet das Portfolio auch heute noch im künstlerischen und pädagogischen Bereich Verwendung.
+
+{{< /warning >}}
 
 ## Arten von Portfoliomanagement
 
@@ -31,11 +35,11 @@ Im Folgenden werfen wir einen Blick auf die wichtigsten Bereiche, in denen sich 
 
 Dabei bietet Ihnen das Portfoliomanagement in allen Bereichen zahlreiche Vorteile.
 
-### Welche Vorteile das Portfoliomanagement für Sie bereithält
+## Welche Vorteile das Portfoliomanagement für Sie bereithält
 
 - **Transparenz**: Egal, ob es um Projekte, Produkte, IT oder Finanzen geht: Mit einem Portfolio behalten Sie den Überblick über den aktuellen Status und schaffen Klarheit, was in Ihrem Unternehmen vor sich geht. So kann es nicht passieren, dass mehrere Mitarbeiter parallel und ohne Abstimmung an denselben Themen arbeiten.
 - **Strategische Konsistenz**: Warum tun wir das eigentlich? Das Portfoliomanagement hinterfragt, ob etwas mit der Unternehmensstrategie in Einklang steht und auf die übergeordneten Ziele einzahlt. Dadurch stellen Sie sicher, dass alle Aktivitäten in Ihrem Unternehmen koordiniert ablaufen und insgesamt schlüssig sind.
-- **Ressourceneffizienz**: Da Ressourcen wie Budget, Personal und Zeit begrenzt sind, sollten Sie diese effizient einsetzen. Das Portfoliomanagement hilft Ihnen dabei, die Anliegen in Ihrem Unternehmen gemäß ihrer strategischen Bedeutung zu priorisieren, um bestmögliche Ergebnisse zu erzielen.
+- **Ressourceneffizienz**: Da Ressourcen wie [Budget]({{< relref "posts/20250606-budgetplanung" >}}), [Personal]({{< relref "posts/personalplanung" >}}) und Zeit begrenzt sind, sollten Sie diese effizient einsetzen. Das Portfoliomanagement hilft Ihnen dabei, die Anliegen in Ihrem Unternehmen gemäß ihrer strategischen Bedeutung zu priorisieren, um bestmögliche Ergebnisse zu erzielen.
 - **Monitoring und Kontrolle**: In einem Portfolio fließen die Erfolgskennzahlen, Zeit- und Kostenpläne zusammen, sodass Sie alle Entwicklungen auf dem Schirm haben, Abweichungen sofort erkennen und schnell auf Veränderungen reagieren können.
 
 ![Monitoring beim Portfoliomanagement](Portfoliomanagement.jpg)
@@ -44,7 +48,11 @@ Dabei bietet Ihnen das Portfoliomanagement in allen Bereichen zahlreiche Vortei
 
 Das Projektportfoliomanagement (PPM) übernimmt die **übergeordnete Verwaltung, Planung und Steuerung aller Projekte**, die innerhalb eines Unternehmens miteinander zusammenhängen. Vor allem soll es erreichen, dass die Ressourcen optimal verteilt und die Projekte so priorisiert sind, dass sie die strategischen Unternehmensziele bestmöglich unterstützen. Beim Projekt Portfolio Management handelt es sich daher um eine permanente Aufgabe, welche sich zyklisch wiederholt und die Auswertung vieler Projekte erfordert. Dies ist der größte Unterschied zum normalen [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), das in der Regel mit dem Abschluss einzelner Projekte endet.
 
-**Hinweis**: In größeren Unternehmen und Behörden gibt es für das Project Portfolio Management oft eine eigene Abteilung: das **Project Management Office (PMO)**.
+{{< warning headline="Hinweis" >}}
+
+In größeren Unternehmen und Behörden gibt es für das Project Portfolio Management oft eine eigene Abteilung: das **Project Management Office (PMO)**.
+
+{{< /warning >}}
 
 ### Wichtige Aufgaben und Schritte im Projektportfoliomanagement
 
@@ -124,11 +132,11 @@ Das Produktportfoliomanagement ist genau wie das Projektportfoliomanagement ein 
 
 ## IT Portfoliomanagement
 
-Das **IT Portfoliomanagement** (auch IT Asset Management genannt) bietet die Möglichkeit, die IT-Assets eines Unternehmens systematisch und vorausschauend zu verwalten. Dabei lässt sich das IT-Portfolio in drei Asset-Kategorien einteilen:
+Das **IT Portfoliomanagement** (auch IT Asset Management genannt) bietet die Möglichkeit, die IT-Assets eines Unternehmens systematisch und vorausschauend zu verwalten. Dabei lässt sich das IT-Portfolio in drei Asset-Kategorien einteilen:
 
 1. **Software**: alle eingesetzten Software-Anwendungen, Betriebssysteme und Tools
-1. **Hardware & Infrastruktur**: alle Geräte, Netzwerke, Server und Cloud-Dienste
-1. **Projekte & Kompetenzen**: alle laufenden und geplanten IT-Projekte sowie das IT-Wissen im Unternehmen
+2. **Hardware & Infrastruktur**: alle Geräte, Netzwerke, Server und Cloud-Dienste
+3. **Projekte & Kompetenzen**: alle laufenden und geplanten IT-Projekte sowie das IT-Wissen im Unternehmen
 
 Diese Assets soll das IT Portfoliomanagement so optimieren, dass sie die strategischen Ziele und den effizienten Betrieb des Unternehmens bestmöglich unterstützen. In erster Linie muss dafür die **Skalierbarkeit, Sicherheit und Zuverlässigkeit aller IT-Systeme** gewährleistet sein.
 
@@ -136,7 +144,7 @@ Diese Assets soll das IT Portfoliomanagement so optimieren, dass sie die strateg
 
 #### 1\. Bestandsaufnahme und Kategorisierung
 
-Zunächst sollten Sie alle IT-Assets in Ihrem Unternehmen erfassen und diese in die oben genannten Kategorien einordnen. Wie bei den vorigen Arten von Portfoliomanagement ist es hilfreich, bereits bei der Bestandsaufnahme weitere Daten wie die Kosten bzw. den Wert von IT-Assets zu vermerken. Außerdem haben IT-Assets in der Regel einen begrenzten Lebenszyklus: Klären Sie zum Beispiel, wann Software-Lizenzen auslaufen und in welchem Zustand sich die Hardware befindet, um einen vollständigen **Überblick über das IT-Portfolio** zu gewinnen.
+Zunächst sollten Sie alle IT-Assets in Ihrem Unternehmen erfassen und diese in die oben genannten Kategorien einordnen. Wie bei den vorigen Arten von Portfoliomanagement ist es hilfreich, bereits bei der [Bestandsaufnahme]({{< relref "posts/inventarliste-erstellen" >}}) weitere Daten wie die Kosten bzw. den Wert von IT-Assets zu vermerken. Außerdem haben IT-Assets in der Regel einen begrenzten Lebenszyklus: Klären Sie zum Beispiel, wann Software-Lizenzen auslaufen und in welchem Zustand sich die Hardware befindet, um einen vollständigen **Überblick über das IT-Portfolio** zu gewinnen.
 
 ![Hardware im IT Portfoliomanagement](Hardware-im-IT-Portfoliomanagement.jpg 'Hardware ist eine Asset-Kategorie im IT Portfolio.')
 
@@ -150,7 +158,7 @@ Stellen Sie Ihr IT-Portfolio regelmäßig auf den Prüfstand, um sicherzustellen
 
 ## Portfoliomanagement im Finanzbereich
 
-Im Finanzbereich besteht das Portfoliomanagement darin, Investitionen und Vermögenswerte in einem Portfolio zu verwalten und zu optimieren. Dabei geht es um **Finanzanlagen wie Aktien, Anleihen, Fonds, Immobilien oder Edelmetalle**. Das Ziel im Portfoliomanagement ist es, eine strategische Auswahl von Vermögenswerten zu treffen, um eine **möglichst hohe Rendite** zu erzielen, aber gleichzeitig das Risiko durch eine **ausgewogene Diversifikation** zu minimieren.
+Im Finanzbereich besteht das Portfoliomanagement darin, [Investitionen]({{< relref "posts/investitionsplan" >}}) und Vermögenswerte in einem Portfolio zu verwalten und zu optimieren. Dabei geht es um **Finanzanlagen wie Aktien, Anleihen, Fonds, Immobilien oder Edelmetalle**. Das Ziel im Portfoliomanagement ist es, eine strategische Auswahl von Vermögenswerten zu treffen, um eine möglichst hohe [Rendite]({{< relref "posts/rentabilitaetsvorschau" >}}) zu erzielen, aber gleichzeitig das Risiko durch eine **ausgewogene Diversifikation** zu minimieren.
 
 ![Portfoliomanagement im Finanzbereich](Finanzportfoliomanagement.jpg)
 

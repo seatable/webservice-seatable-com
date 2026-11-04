@@ -16,6 +16,16 @@ color: '#719da6'
 seo:
     title: 'Programa de gestão da literatura para uma melhor visão de conjunto'
     description: 'Certifique-se de que a sua gestão da literatura é clara e isenta de erros. Eis algumas dicas sobre como utilizar um programa de gestão de referências.'
+image_sources:
+    - file: 'gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg'
+      source: 'https://unsplash.com/photos/pile-of-open-paperback-books-LUGuCtvlk1Q'
+      author: 'Gülfer ERGİN'
+    - file: 'jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-long-row-of-bookshelves-filled-with-lots-of-books-GxCLXVWAJMY'
+      author: 'Jayanth Muppaneni'
+    - file: 'zoshua-colah-klbApl9mxr0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/student-studies-at-a-library-with-books-klbApl9mxr0'
+      author: 'Zoshua Colah'
 ---
 
 Quer se trate de uma tese, dissertação ou relatório de investigação – um **programa de gestão de referências** facilita o trabalho em projectos científicos. A criação de **bibliografias** leva tanto tempo como a procura, visualização e análise de **fontes**.
@@ -24,9 +34,9 @@ Com um programa estruturado de gestão da bibliografia, é possível evitar erro
 
 Em seguida, encontrará uma comparação de várias soluções de software e dicas adicionais para uma gestão de literatura bem sucedida.
 
-![Uma pilha de livros, pré-classificados para a gestão da literatura.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Uma pilha de livros, pré-classificados para a gestão da literatura.](gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg)
 
-Ponha ordem na sua literatura científica! © caftor / Adobe Stock
+Ponha ordem na sua literatura científica! © Gülfer ERGİN / Unsplash
 
 ## Porque é que um programa de gestão de referências é útil?
 
@@ -130,9 +140,9 @@ Não confie que as fontes dos programas de literatura ou de outros trabalhos cie
 
 Por isso, verifique diretamente se as referências estão correctas e, se necessário, acrescente-as. Se quiser deixar esta tarefa para o fim, é útil inscrevê-la numa [lista de tarefas]({{< relref "templates/projects/to-do-list" >}}) para não se esquecer dela.
 
-![Gestão de literatura em biblioteca com pastilha.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestão de literatura em biblioteca com pastilha.](jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg)
 
-Alguns programas de gestão de referências podem registar as fontes por DOI. © ake1150 / Adobe Stock
+Alguns programas de gestão de referências podem registar as fontes por DOI. © Jayanth Muppaneni / Unsplash
 
 ### 2\. introduzir cuidadosamente os dados bibliográficos
 
@@ -169,9 +179,9 @@ Deve anotar estas informações com a maior exatidão possível. Contar os núme
 
 Alguns programas de gestão de referências facilitam a pesquisa de nova literatura. Com o Citavi, por exemplo, tem a possibilidade de receber **alertas de pesquisa**. Este permite-lhe saber quando estão disponíveis em linha novos artigos sobre um dos seus temas. O Mendeley oferece um serviço de recomendação que lhe permite visualizar artigos semelhantes.
 
-![A estudante faz uma verificação final da sua bibliografia antes de a entregar.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![A estudante faz uma verificação final da sua bibliografia antes de a entregar.](zoshua-colah-klbApl9mxr0-unsplash.jpg)
 
-As bibliotecas também são um bom sítio para pesquisar fontes. © ake1150 / Adobe Stock
+As bibliotecas também são um bom sítio para pesquisar fontes. © Zoshua Colah / Unsplash
 
 ### 4\. criar um esquema no programa de gestão de referências
 

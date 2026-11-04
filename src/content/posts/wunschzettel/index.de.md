@@ -153,6 +153,8 @@ Die Wunschzettel-App von SeaTable ist vollständig in der [kostenlosen Version](
 
 Nachdem Sie sich mit Ihrer E-Mail-Adresse registriert haben, können Sie die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) sofort über den Browser nutzen. Wenn Sie die App selbst hosten möchten, können Sie [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) herunterladen und installieren. 
 
+Auch im Unternehmen wollen Geschenke organisiert sein: Ideen und Tipps für den geschäftlichen Rahmen bietet unser Beitrag zu [Weihnachtsgeschenken für Mitarbeiter und Kunden]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Fazit: Digitaler Wunschzettel statt Geschenkchaos
 
 Egal, ob für Weihnachten, Geburtstage oder Hochzeiten: Das Sammeln und Teilen von Wünschen sorgt oft für Geschenkchaos und unliebsame Überraschungen. Wer Fehlkäufe vermeiden und den Überblick behalten möchte, setzt besser auf einen digitalen Wunschzettel. So können Sie Geschenkideen jederzeit festhalten, mit einer eindeutigen URL zentral und sicher speichern sowie Wunschlisten übersichtlich organisieren.

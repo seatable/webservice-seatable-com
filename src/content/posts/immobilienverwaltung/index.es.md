@@ -62,6 +62,8 @@ La búsqueda de un piso nuevo es notoriamente difícil, sobre todo en las zonas 
 
 Con nuestra [plantilla de búsqueda de pisos]({{< relref "templates/everyday-life/apartment-hunting" >}}), podrá registrar toda la información, datos y documentos sobre los pisos de forma sencilla y estructurada. Guarde fotos, planos, superficie útil, precio de alquiler y todo lo que haya observado durante la visita al inmueble en una tabla claramente organizada. Asigne una puntuación y tome la decisión correcta de forma más fácil, segura y rápida.
 
+Para propietarios y administradores con varios inmuebles, nuestro artículo sobre la [gestión inmobiliaria profesional]({{< relref "posts/hausverwaltung" >}}) muestra cómo gestionar inquilinos, contratos y mantenimiento de forma clara.
+
 ## Empiece a planificar su próximo traslado
 
 ![Su próxima mudanza será muy fácil con SeaTable](umzugsliste-seatable-immobilien.png)

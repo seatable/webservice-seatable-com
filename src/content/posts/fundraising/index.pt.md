@@ -19,9 +19,9 @@ color: '#465b46'
 
 ## O que significa angariação de fundos? Significado e definição
 
-A angariação de fundos significa a obtenção organizada e sistemática de recursos para fins ou projectos específicos. Pode tratar-se de contribuições em espécie, dinheiro, serviços ou trabalho voluntário. Como método de angariação de capital, pode utilizá-lo tanto para fins de **caridade** como de **empresa**.
+A angariação de fundos significa a [obtenção]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) organizada e sistemática de recursos para fins ou projectos específicos. Pode tratar-se de contribuições em espécie, dinheiro, serviços ou trabalho voluntário. Como método de angariação de capital, pode utilizá-lo tanto para fins de **caridade** como de **empresa**.
 
-No contexto empresarial, a angariação de fundos é utilizada como alternativa a um empréstimo bancário tradicional para financiar projectos empresariais através de investidores ou subvenções. No entanto, o termo está normalmente associado a fins caritativos, em que os donativos são recolhidos para **projectos sociais**. Neste caso, o foco não está na expetativa de um serviço de retorno direto do doador, mas sim no objetivo de ter um impacto positivo na sociedade ou num grupo-alvo específico.
+No contexto empresarial, a angariação de fundos é utilizada como alternativa a um empréstimo bancário tradicional para financiar projectos empresariais através de [investidores]({{< relref "posts/investitionsplan" >}}) ou subvenções. No entanto, o termo está normalmente associado a fins caritativos, em que os donativos são recolhidos para **projectos sociais**. Neste caso, o foco não está na expetativa de uma contrapartida direta do doador, mas sim no objetivo de ter um impacto positivo na sociedade ou num grupo-alvo específico.
 
 ![A palavra angariação de fundos está escrita num folheto com bonecos de palito](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
@@ -38,7 +38,7 @@ Em contrapartida, as campanhas de crowdfunding decorrem durante um período de t
 As medidas e os canais de angariação de fundos podem ser divididos em duas áreas: A angariação de fundos offline e a angariação de fundos online.
 
 ### O que é a angariação de fundos online?
-A angariação de fundos online inclui todas as medidas que são levadas a cabo na Internet. Isto inclui campanhas nas redes sociais, marketing nos motores de busca e **plataformas de donativos** como a Betterplace ou a GoFundMe, que podem ser utilizadas para apresentar projectos e recolher donativos. No sentido mais lato, o marketing por correio eletrónico e as newsletters também estão incluídos nesta área. As campanhas online permitem-lhe atingir um **espetro alargado de grupos-alvo** e faixas etárias a um custo mais baixo e apelar a um maior número de potenciais doadores.
+A angariação de fundos online inclui todas as medidas que são levadas a cabo na Internet. Isto inclui [campanhas nas redes sociais]({{< relref "posts/social-media-management" >}}), marketing nos motores de busca e **plataformas de donativos** como a Betterplace ou a GoFundMe, que podem ser utilizadas para apresentar projectos e recolher donativos. No sentido mais lato, o marketing por correio eletrónico e as newsletters também estão incluídos nesta área. As campanhas online permitem-lhe atingir um **espetro alargado de grupos-alvo** e faixas etárias a um custo mais baixo e apelar a um maior número de potenciais doadores.
 
 ### O que é a angariação de fundos offline?
 
@@ -50,7 +50,7 @@ Talvez também já se tenha deparado com a tradicional angariação de fundos **
 
 Utilizando os métodos corretos de angariação de fundos, pode construir uma **rede de dadores** que estará disponível para o seu projeto ou organização a longo prazo. A **pirâmide de dadores** é uma ferramenta útil para ilustrar como um dador passa de dador potencial a dador inicial e, mais tarde, possivelmente a dador permanente ou principal.
 
-### A pirâmide do doador
+### A pirâmide de dadores
 
 A pirâmide de dadores é considerada um dos **modelos básicos na angariação de fundos**. Foi desenvolvida por Joan Flanagan em 1991 e estrutura os dadores de acordo com o montante dos seus donativos. Isto permite mostrar como o compromisso aumenta a cada nível, enquanto o número de dadores diminui. Além disso, a pirâmide de dadores fornece informações sobre o tempo necessário para a angariação de fundos e o **rendimento esperado por categoria de dador**.
 
@@ -60,11 +60,11 @@ Hoje em dia, a pirâmide de dadores como modelo de angariação de fundos é vis
 - Dadores de primeira viagem
 - Dadores múltiplos e permanentes
 - Dadores principais
-- Decedente
+- Testadores (doadores por herança)
 
 ### Como é que convence os doadores?
 
-Para angariar fundos com sucesso e convencer as pessoas do seu projeto, uma abordagem direta e **pessoal** é crucial. Deve ser claro para os potenciais doadores quem você é e para que projeto está à procura de donativos. É importante que forneça informações detalhadas, incluindo o montante específico de que necessita para o objetivo que definiu. Utilize uma linguagem **emocional e descritiva** para entusiasmar o maior número possível de pessoas com a sua ideia. Vale a pena investir tempo e recursos para construir e manter relações duradouras com os seus doadores.
+Para angariar fundos com sucesso e convencer as pessoas do seu [projeto]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}), uma abordagem direta e **pessoal** é crucial. Deve ser claro para os potenciais doadores quem você é e para que projeto está à procura de donativos. É importante que forneça informações detalhadas, incluindo o montante específico de que necessita para o objetivo que definiu. Utilize uma linguagem **emocional e descritiva** para entusiasmar o maior número possível de pessoas com a sua ideia. Vale a pena investir tempo e recursos para construir e manter relações duradouras com os seus doadores.
 
 Por muito importante que seja a abordagem pessoal e emocional, deve estabelecer as bases para campanhas de angariação de fundos bem sucedidas através de um planeamento cuidadoso. Não é por acaso que um conceito de angariação de fundos bem elaborado pode servir de exemplo de uma [campanha de marketing]({{< relref "posts/marketing-kampagne-planung/" >}}). Afinal de contas, é exatamente disso que se trata e não há qualquer diferença na estrutura e nas etapas conceptuais:
 
@@ -88,7 +88,7 @@ Entre a primeira e a segunda doação, muitas organizações sem fins lucrativos
 
 ## Como é que os donativos podem ser geridos eficazmente?
 
-Todas as campanhas de angariação de fundos também envolvem administração: os fundos angariados devem ser registados, os dados dos doadores geridos e os **recibos de donativos** emitidos. Para este efeito, pode utilizar um software especial. O **software de angariação de fundos** combina a gestão financeira, a **gestão de doadores**, o [planeamento de eventos]({{< relref "posts/veranstaltung-verwalten" >}}) e o planeamento da campanha num único sistema. Muitas vezes, estes programas também oferecem a opção de fazer um donativo direto e disponibilizam vários métodos de pagamento para o efeito. As principais vantagens são:
+Todas as campanhas de angariação de fundos também envolvem administração: os fundos angariados devem ser registados, os dados dos doadores geridos e os **recibos de donativos** emitidos. Para este efeito, pode utilizar um software especial. O **software de angariação de fundos** combina a [gestão financeira]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}), a **gestão de doadores**, o [planeamento de eventos]({{< relref "posts/veranstaltung-verwalten" >}}) e o planeamento da campanha num único sistema. Muitas vezes, estes programas também oferecem a opção de fazer um donativo direto e disponibilizam vários métodos de pagamento para o efeito. As principais vantagens são:
 
 - Registo eficiente dos donativos e dos dados dos doadores
 - Abordagem individual dos dadores através da análise do seu historial e do registo das suas preferências
@@ -99,11 +99,11 @@ Todas as campanhas de angariação de fundos também envolvem administração: o
 
 ## Gerir os donativos com o SeaTable
 
-O [modelo gratuito]({{< relref "templates/finance/donation-overview" >}}) do SeaTable torna a angariação de fundos numa brincadeira de crianças e simplifica ao máximo a sua gestão de donativos. Organize vários projectos num único local e mantenha-se organizado. Como uma solução **sem código**, o SeaTable é completamente flexível e escalável, permitindo-lhe personalizar o modelo de acordo com as suas necessidades específicas com pouco esforço, em vez de utilizar software especializado pronto a usar. Como uma solução compatível com o RGPD** que está alojada exclusivamente em servidores na Alemanha, o SeaTable também é adequado para o processamento de dados particularmente sensíveis, como informações de doadores.
+O [modelo gratuito]({{< relref "templates/finance/donation-overview" >}}) do SeaTable torna a angariação de fundos numa brincadeira de crianças e simplifica ao máximo a sua gestão de donativos. Organize vários projectos num único local e mantenha-se organizado. Como uma solução **sem código**, o SeaTable é completamente flexível e escalável, permitindo-lhe personalizar o modelo de acordo com as suas necessidades específicas com pouco esforço, em vez de utilizar software especializado pronto a usar. Como uma **solução compatível com o RGPD** que está alojada exclusivamente em servidores na Alemanha, o SeaTable também é adequado para o processamento de dados particularmente sensíveis, como informações de doadores.
 
 {{< template-box id="f64c97dc0723400887c0" submit="Testar modelo" text="Percorra o nosso modelo interativo e descubra as primeiras funções." >}}
 
-Na sua base de dados em linha, pode não só recolher e gerir donativos, mas também calcular automaticamente a diferença entre os donativos já efectuados e o montante pretendido. **Integre o seu fornecedor de serviços de pagamento**, crie recibos de donativos** com um único clique e mantenha um registo dos dados de contacto e do histórico dos seus doadores. Pode ver todos os factos importantes e o progresso dos seus projectos num relance num quadro Kanban claro. Os seus empregados trabalham em conjunto **colaborativamente em tempo real** para que haja sempre uma transparência total dos dados. Com a **Aplicação Universal** pode facilmente construir a sua própria base de dados e fornecer aos seus doadores relatórios e outras informações.
+Na sua base de dados em linha, pode não só recolher e gerir donativos, mas também calcular automaticamente a diferença entre os donativos já efectuados e o montante pretendido. **Integre o seu fornecedor de serviços de pagamento**, crie **recibos de donativos com um único clique** e mantenha um registo dos dados de contacto e do histórico dos seus doadores. Pode ver todos os factos importantes e o progresso dos seus projectos num relance num quadro Kanban claro. Os seus empregados trabalham em conjunto **colaborativamente em tempo real** para que haja sempre uma transparência total dos dados. Com a **Aplicação Universal** pode facilmente construir o seu próprio frontend para a base de dados e fornecer aos seus doadores relatórios e outras informações.
 
 ## FAQs - Angariação de fundos
 

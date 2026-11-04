@@ -42,4 +42,4 @@ seo:
 ## Справочная статья с дополнительной информацией
 
 - [Инструкции для модуля статистики]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
-- [Статистика и анализ данных]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Статистика и анализ данных]({{< relref "help/base-editor/statistiken/statistiken" >}})

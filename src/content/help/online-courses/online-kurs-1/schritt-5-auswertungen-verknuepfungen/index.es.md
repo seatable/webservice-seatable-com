@@ -30,15 +30,15 @@ Ahora cree una nueva columna en la tabla `Categories` a.
 
 > Nombre: `Sum`
 >
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Enlazar fórmula`
 >
-> Fórmula utilizada: `rollup`
+> Fórmula: `rollup`
 >
-> Columna de enlace utilizada: `Expenses`
+> Columna de enlace en esta tabla: `Expenses`
 >
-> Columna utilizada para el cálculo: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+> Columna a resumir: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
 >
-> Método de cálculo `Sum`
+> Método de resumen: `Suma`
 
 ![Columna de fórmula de enlace «Sum» con ajuste rollup para sumar importes vinculados](images/lvl1-rollup.png)
 
@@ -56,5 +56,5 @@ Esto nos lleva al final de esta sección. Desplázate hasta el final y pasa al s
 
 ## Artículo de ayuda con más información
 
-- [Ajustar la altura de la fila]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
-- [La fórmula del roll-up]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})
+- [Ajustar la altura de la fila en las vistas de tabla]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [La fórmula Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

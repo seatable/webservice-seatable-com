@@ -18,7 +18,7 @@ seo:
 
 ## Gestion de la chaîne d'approvisionnement et de la chaîne de valeur
 
-L'interdépendance de plusieurs processus tout au long de la chaîne de valeur d'un produit est très complexe. De l'approvisionnement des biens nécessaires, en passant par la production et l'entreposage, jusqu'à la livraison au client, **les processus doivent être planifiés, documentés et contrôlés de manière efficace**. C'est le seul moyen pour les entreprises de s'assurer que leur production ne s'arrête pas et que le client reçoive le produit souhaité au bon moment – c'est-à-dire quand il en a besoin.
+L'interconnexion de plusieurs processus tout au long de la chaîne de valeur d'un produit est très complexe. De l'approvisionnement des biens nécessaires, en passant par la production et l'entreposage, jusqu'à la livraison au client, **les processus doivent être planifiés, documentés et contrôlés de manière efficace**. C'est le seul moyen pour les entreprises de s'assurer que leur production ne s'arrête pas et que le client reçoive le produit souhaité au bon moment – c'est-à-dire quand il en a besoin.
 
 La tâche d'un responsable de la chaîne d'approvisionnement est de concevoir et de contrôler correctement ces processus. Et grâce aux solutions logicielles modernes, vous disposez désormais d'options idéales pour cartographier de manière optimale votre **gestion de la chaîne d'approvisionnement** (SCM). Cela signifie que vous avez toujours l'ensemble de votre chaîne de valeur sous contrôle.
 
@@ -30,20 +30,20 @@ En général, la gestion de la chaîne d'approvisionnement consiste à planifier
 
 1. **Flux de matières** : Le flux de matières traite du transport effectif des marchandises et comprend l'itinéraire du fournisseur de matières premières via l'[entrepôt central]({{< relref "templates/operations/warehouse-management" >}}) jusqu'au client final et, si nécessaire, le retour des marchandises.
 2. **Flux d'informations** : Toutes les informations pertinentes sur les [commandes]({{< relref "posts/auftragsabwicklung" >}}) et leurs livraisons sont transférées ici. Cela signifie que toutes les informations, qu'elles proviennent de l'extérieur (partenaires) ou de l'intérieur (services), sont centralisées en un seul endroit. Cela permet de prendre des décisions plus rapides et plus efficaces en cas de problèmes de livraison, par exemple.
-3. **Flux financier** : Le [flux financier]({{< relref "posts/20250617-finanzplanung" >}}) comprend les conditions de crédit, les plans de paiement ainsi que les expéditions de marchandises et les rapports de propriété.
+3. **Flux financier** : Le [flux financier]({{< relref "posts/20250617-finanzplanung" >}}) comprend les conditions de crédit, les plans de paiement ainsi que les expéditions de marchandises et les rapports de propriété des marchandises.
 
 ![Gestion de la chaîne d'approvisionnement vs. Logistique](production-4408573_1920.jpg)
 
 ## Quelle est la différence entre la gestion de la chaîne d'approvisionnement et la logistique ?
 
-La logistique et la gestion de la chaîne d'approvisionnement sont souvent utilisées de manière interchangeable. Toutefois, la gestion de la chaîne logistique va bien au-delà des processus logistiques purs et englobe [tous les processus]({{< relref "pages/landing-pages/industry-solutions/operations" >}}) de la chaîne d'approvisionnement. La logistique pure, d'autre part, concerne principalement le transport physique et l'entreposage des marchandises.
+La logistique et la gestion de la chaîne d'approvisionnement sont souvent utilisées de manière interchangeable. Toutefois, la gestion de la chaîne d'approvisionnement va bien au-delà des processus logistiques purs et englobe [tous les processus]({{< relref "pages/landing-pages/industry-solutions/operations" >}}) de la chaîne d'approvisionnement. La logistique pure, d'autre part, concerne principalement le transport physique et l'entreposage des marchandises.
 
 ## L'importance de la gestion de la chaîne d'approvisionnement pour les entreprises
 
 La gestion de la chaîne d'approvisionnement est essentielle à la réussite d'une entreprise. Avec des processus planifiés et exécutés dans [l'approvisionnement]({{< relref "posts/20250327-beschaffung-unternehmen" >}}), la production et les [ventes]({{< relref "posts/20250506-distributionspolitik" >}}), une logistique efficace et une chaîne d'approvisionnement stable, plusieurs objectifs peuvent être atteints. L'objectif est toujours d'assurer une logistique fluide et de réduire au maximum les retards ou les perturbations afin que l'ensemble de la chaîne de valeur puisse fonctionner de manière optimale.
 
 * **Réduire les coûts :** Une planification optimisée des ressources et des fournisseurs fiables réduisent les coûts à long terme. Cela inclut la réduction rapide des stocks, la diminution des coûts d'entreposage, la garantie d'une livraison en temps voulu (livraison juste à temps) et le raccourcissement des cycles de trésorerie.
-* **Grande flexibilité :** Les chaînes de valeur et les processus peuvent être conçus avec une gestion efficace de la chaîne d'approvisionnement afin que vous puissiez réagir aux conditions changeantes du marché et aux pénuries d'approvisionnement à court terme.
+* **Plus de flexibilité :** Les chaînes de valeur et les processus peuvent être conçus avec une gestion efficace de la chaîne d'approvisionnement afin que vous puissiez réagir aux conditions changeantes du marché et aux pénuries d'approvisionnement à court terme.
 * **Fidélité des clients et des fournisseurs :** Des processus optimisés et la capacité de réagir rapidement permettent de maintenir et de renforcer les relations avec les clients et les fournisseurs. Cela augmente la fiabilité de la livraison.
 * **Gains d'efficacité :** Les [flux de travail]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) et les processus sont constamment revus et améliorés.
 * **Échange d'informations :** Les tâches de la gestion de la chaîne d'approvisionnement comprennent également l'assurance d'un échange fluide d'informations afin que les employés et les prestataires de services externes impliqués reçoivent rapidement les informations pertinentes.
@@ -54,7 +54,7 @@ La gestion de la chaîne d'approvisionnement est essentielle à la réussite d'u
 
 Les gestionnaires de la chaîne d'approvisionnement dans les entreprises doivent généralement garder un œil sur cinq processus qui affectent différents départements. Il s'agit de la planification, de l'approvisionnement, de la production, de la distribution et des retours.
 
-1. **Planification :** Les fournisseurs eux-mêmes jouent ici un rôle important. Il est important d'identifier les fournisseurs adéquats et de concevoir un processus d'approvisionnement flexible et, surtout, rapide. La propre politique d'entreprise de l'entreprise est également un point de mire lors de la sélection des fournisseurs. Les produits et les fournisseurs doivent répondre aux exigences de qualité et aux valeurs de l'entreprise.
+1. **Planification :** Les fournisseurs eux-mêmes jouent ici un rôle important. Il est important d'identifier les fournisseurs adéquats et de concevoir un processus d'approvisionnement flexible et, surtout, rapide. La politique propre à l'entreprise est également un point central lors de la sélection des fournisseurs. Les produits et les fournisseurs doivent répondre aux exigences de qualité et aux valeurs de l'entreprise.
 2. **Domaine de l'approvisionnement :** L'objectif est d'assurer un approvisionnement optimal pour votre propre entreprise. Bien entendu, vous devez toujours agir de manière économique et maintenir les coûts d'approvisionnement et de stockage aussi bas que possible. Un réapprovisionnement efficace et permanent des matériaux et un concept de stockage optimal sont les priorités absolues.
 3. **Domaine de la production :** Dans ce domaine, tous les processus de production sont analysés et optimisés en détail. L'accent est mis ici sur les ressources en matériaux, les installations de production et les outils. Les concepts d'emballage et la qualification des employés font également partie de ce domaine.
 4. **Distribution :** Les employés de ce domaine s'occupent des moyens de transport nécessaires, de leur capacité et de leur utilisation, et optimisent les itinéraires de transport afin de réduire les coûts globaux.
@@ -66,7 +66,7 @@ Les gestionnaires de la chaîne d'approvisionnement peuvent tirer d'énormes ava
 
 ![Outil de gestion de la chaîne d'approvisionnement moderne](Modern-SCM-Tool.jpg)
 
-Une **gestion moderne de la chaîne logistique** repose sur des systèmes qui permettent la collecte de données, l'analyse et la prise de décision en **temps réel**. Cela permet d'établir des prévisions fiables et de les adapter directement aux conditions changeantes, rendant les perturbations plus prévisibles. Cela permet aux entreprises de se préparer et de prendre des mesures appropriées à un stade précoce.
+Une **gestion moderne de la chaîne d'approvisionnement** repose sur des systèmes qui permettent la collecte de données, l'analyse et la prise de décision en **temps réel**. Cela permet d'établir des prévisions fiables et de les adapter directement aux conditions changeantes, rendant les perturbations plus prévisibles. Cela permet aux entreprises de se préparer et de prendre des mesures appropriées à un stade précoce.
 
 ### Gestion de la chaîne d'approvisionnement dans un environnement en nuage
 
@@ -109,5 +109,5 @@ Les systèmes SCM basés sur le cloud permettent le travail collaboratif et le p
 Dans une stratégie de gestion de la chaîne d'approvisionnement, une distinction est faite entre les niveaux opérationnel, tactique et stratégique. Ceux-ci diffèrent par leur orientation temporelle.
 1. Gestion opérationnelle de la chaîne d'approvisionnement : toutes les décisions peuvent être mises en œuvre à court terme, en quelques jours ou en quelques semaines. Normalement, cela concerne les processus qui peuvent être mis en œuvre rapidement, tels que la planification des processus, le chargement ou le traitement des commandes. Les relations entre les commandes et les stocks sont également analysées. L'objectif est ici d'atteindre le plus haut niveau possible de satisfaction du client, car l'accent est mis sur les relations avec le client.
 2. Gestion tactique de la chaîne d'approvisionnement : toutes les décisions peuvent être mises en œuvre à moyen terme ou entre un trimestre et un an. Celles-ci concernent, par exemple, les décisions relatives aux quantités produites, aux ressources de production, aux stocks, aux stratégies d'expédition et au transport.
-3. Gestion stratégique de la chaîne d'approvisionnement : ici, les décisions sont prises avec un succès à long terme. Celles-ci comprennent, par exemple, le choix du lieu d'implantation de l'entrepôt propre à l'entreprise, les capacités de production et de stockage, les investissements, la sélection des fournisseurs, les décisions de faire ou d'acheter et les [stratégies de vente]({{< relref "posts/vertriebsstrategie" >}}).
+3. Gestion stratégique de la chaîne d'approvisionnement : ici, les décisions sont prises en vue d'un succès à long terme. Celles-ci comprennent, par exemple, le choix du lieu d'implantation de l'entrepôt propre à l'entreprise, les capacités de production et de stockage, les investissements, la sélection des fournisseurs, les décisions de faire ou d'acheter et les [stratégies de vente]({{< relref "posts/vertriebsstrategie" >}}).
 {{< /faq >}}

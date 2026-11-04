@@ -55,5 +55,5 @@ Wenn Sie genug experimentiert haben, versuchen Sie das Quiz zu absolvieren und v
   )
 - [Gruppierung, Sortierung und Filter]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
 - [Anlegen einer neuen Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Ansichten anpinnen]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
-- [Die Statuszeile und Ihre Funktionen]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})
+- [Ansichten pinnen]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [Die Status-Zeile und ihre Funktionen]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

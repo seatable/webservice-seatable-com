@@ -15,6 +15,16 @@ categories:
 tags:
     - 'Approvisionnement & Logistique'
 color: '#bed8cb'
+image_sources:
+    - file: 'cova-software-r--jcbaXgek-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-men-in-a-store-looking-at-a-tablet-r--jcbaXgek'
+      author: 'Cova Software'
+    - file: 'thestandingdesk-pn6tf73O2As-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-in-blue-polo-shirt-using-laptop-computer-pn6tf73O2As'
+      author: 'TheStandingDesk'
+    - file: 'lukas-blazek-mcSDtbWXUZU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU'
+      author: 'Lukas Blazek'
 ---
 
 Importez une liste d'inventaire dans Excel ou créez votre propre modèle dans Word. Découvrez les avantages qu'offre une base de données gratuite comme SeaTable par rapport à Excel et Word.
@@ -27,9 +37,9 @@ Une liste d'inventaire vous permet d'enregistrer le stock dans votre entreprise.
 
 Chaque commerçant et chaque entreprise qui est tenu de tenir une comptabilité en partie double doit procéder à un inventaire. Celui-ci doit avoir lieu à l'ouverture de l'entreprise et après chaque exercice comptable. Il s'agit de faire le point sur les stocks et de dresser un inventaire.
 
-![Un magasinier utilise un iPad avec une liste d'inventaire.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Un magasinier utilise un iPad avec une liste d'inventaire.](cova-software-r--jcbaXgek-unsplash.jpg)
 
-Utilisez une liste d'inventaire numérique pour répertorier votre stock. Droits d'image : tradol / Adobe Stock
+Utilisez une liste d'inventaire numérique pour répertorier votre stock. Droits d'image : © Cova Software / Unsplash
 
 ## Quelle est la différence entre l'inventaire physique et l'inventaire ?
 
@@ -54,9 +64,9 @@ De plus, le **moment où** vous créez votre inventaire fait une différence :
 - C'est pourquoi il existe aussi l'**inventaire décalé**. Cette forme d'inventaire vous permet d'effectuer l'inventaire de manière flexible à une date de votre choix, au maximum trois mois avant ou deux mois après la date de clôture du bilan. Comme vous devez ensuite mettre à jour ou recalculer les stocks à l'aide des entrées et des sorties de votre liste d'inventaire, l'inventaire décalé est toutefois moins précis que l'inventaire à date fixe.
 - En revanche, l'**inventaire permanent** est un processus continu qui présente l'avantage de répartir les dépenses de manière régulière sur toute l'année et de se contenter d'un inventaire comptable à la date de clôture du bilan. Néanmoins, une fois par an, il est nécessaire de procéder à un inventaire physique de tous les actifs afin de comparer les stocks réels avec les stocks comptables. Ensuite, vous devez documenter précisément toutes les entrées et sorties dans votre liste d'inventaire afin de mettre à jour les stocks sur le plan comptable.
 
-![Un magasinier fait l'inventaire dans Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Un magasinier fait l'inventaire dans Excel.](thestandingdesk-pn6tf73O2As-unsplash.jpg)
 
-Vous devez régulièrement comparer votre liste d'inventaire avec le stock réel. Droits d'image : zephyr_p / Adobe Stock
+Vous devez régulièrement comparer votre liste d'inventaire avec le stock réel. Droits d'image : © TheStandingDesk / Unsplash
 
 ## Pourquoi est-il important de dresser un inventaire ?
 
@@ -88,9 +98,9 @@ Un programme que de nombreuses entreprises utilisent déjà est Excel. Vous pouv
 
 Si vous disposez déjà d'une liste d'inventaire sous forme de modèle Excel, vous pouvez la réutiliser en quelques clics. Pour ce faire, dupliquez le fichier existant avant de l'ouvrir dans Excel.
 
-![Excel pour une liste d'inventaire.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel pour une liste d'inventaire.](lukas-blazek-mcSDtbWXUZU-unsplash.jpg)
 
-Les feuilles de calcul Excel sont populaires pour les inventaires. Droits d'image : PixieMe / Adobe Stock
+Les feuilles de calcul Excel sont populaires pour les inventaires. Droits d'image : © Lukas Blazek / Unsplash
 
 Si vous ne disposez pas encore d'une liste d'inventaire Excel, créez-en une sans plus attendre : ouvrez un nouveau document Excel vide. Réfléchissez **aux titres des colonnes dont vous avez besoin pour votre liste d'inventaire** (par exemple numéro d'identification, désignation, emplacement, quantité et valeur) et tapez-les.
 

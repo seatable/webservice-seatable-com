@@ -133,6 +133,8 @@ Como já foi referido, não há limites para o design do seu rastreador de hábi
 
 Pode criar o seu rastreador de hábitos à mão ou com modelos. Se gosta de praticidade e simplicidade, também pode utilizar uma **aplicação** ou um **modelo online**. Estes são normalmente menos criativos, mas agrupam todos os hábitos de uma forma clara e estruturada. Em comparação com os cadernos e os calendários em papel, **os rastreadores de hábitos digitais** são flexíveis e podem ser personalizados se os seus hábitos mudarem.
 
+Também em equipa, as tarefas recorrentes precisam de estrutura: o nosso artigo sobre a [gestão de tarefas]({{< relref "posts/aufgabenverwaltung" >}}) mostra como as equipas planeiam de forma eficiente tarefas e recursos.
+
 ## Modelo para o seu rastreador de hábitos digital
 
 Para não perder de vista o seu objetivo, precisa de uma solução simples e eficaz para acompanhar os seus hábitos e progressos. O SeaTable oferece-lha com um [modelo gratuito]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) que pode personalizar de acordo com as suas necessidades pessoais. O rastreador de hábitos está integrado num bullet journal, que oferece formas ainda mais interessantes de organizar e mudar a sua vida.

@@ -41,14 +41,14 @@ Dedique alguns minutos a explorar as possibilidades do plug-in. Por exemplo, exp
 
 Se clicar em `{{< seatable-icon icon="dtable-icon-download" >}} PDF` o PDF gerado será guardado no seu PC.
 
-{{< warning  headline="Os modelos referem-se sempre a uma tabela"  text="Ao criar um novo modelo, os dados só podem ser utilizados a partir de uma tabela. Se necessitar de dados de uma coluna ligada, deve incluí-los através de colunas de pesquisa. Esta é a razão pela qual a tabela `Registrations` existem três colunas de pesquisa ocultas. Estas colunas só são necessárias para o plugin de design da página e podem, por isso, permanecer ocultas." />}}
+{{< warning  headline="Os modelos referem-se sempre a uma tabela"  text="Ao criar um novo modelo, os dados só podem ser utilizados a partir de uma tabela. Se necessitar de dados de uma coluna ligada, deve incluí-los através de colunas de pesquisa. Esta é a razão pela qual a tabela Registrations existem três colunas de pesquisa ocultas. Estas colunas só são necessárias para o plugin de design da página e podem, por isso, permanecer ocultas." />}}
 
 ### Envio por correio eletrónico
 
 É claro que não quer descarregar o PDF manualmente e carregá-lo novamente para o enviar por correio eletrónico. Em vez disso, pode clicar num botão no menu `Registrations` que executa duas acções em sucessão:
 
-- `{{< seatable-icon icon="dtable-icon-pdf" >}} Create PDF and save to column`
-- `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+- `{{< seatable-icon icon="dtable-icon-pdf" >}} Crie PDF e salve na coluna`
+- `{{< seatable-icon icon="dtable-icon-email" >}} Enviar email`
 
 A configuração destas acções já deve ser familiar. Ao criar o PDF, selecione o modelo pretendido e a coluna na qual o documento deve ser guardado. Ao enviar o e-mail, especifique a coluna a partir da qual o anexo deve ser enviado.
 
@@ -65,7 +65,7 @@ Dedique alguns minutos para se familiarizar com a gestão de ficheiros do SeaTab
 
 ## Artigo de ajuda com mais informações
 
-- [Instruções para o plugin de conceção de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
+- [Guia de Plugin de Desenho de Páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Guardar um documento PDF por botão numa coluna]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
-- [A coluna do ficheiro]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}})
+- [A Coluna Arquivo]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}})
 - [A gestão de ficheiros de uma base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

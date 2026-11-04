@@ -19,7 +19,7 @@ Pero, por supuesto, estaría bien que también pudieras registrar otros gastos e
 
 ## Adjuntar el formulario web
 
-Encontrará muchas funciones adicionales en la zona de cabecera de su base. Detrás del botón `Forms` SeaTable le ofrece la posibilidad de crear nuevos formularios web.
+Encontrará muchas funciones adicionales en la zona de cabecera de su base. Detrás del botón `Formularios` SeaTable le ofrece la posibilidad de crear nuevos formularios web.
 
 ![Gestión de formularios con botón «Forms» y nuevo formulario web](images/level1-create-webform.png)
 
@@ -33,9 +33,9 @@ Encontrará muchas funciones adicionales en la zona de cabecera de su base. Detr
 
 Su formulario web está casi listo y ya se puede utilizar. Sin embargo, todavía hay tres ajustes que yo recomendaría. Para ajustar la configuración de un campo de entrada, debe hacer clic en el campo de entrada del formulario, lo que mostrará inmediatamente las opciones de configuración para este campo de entrada en el lado derecho. Las opciones de configuración varían en función del campo de entrada en el que haga clic.
 
-- `Category`Las opciones individuales deben ser **Lista** mostrar
-- `Date`El día actual ya debería ser **Valor por defecto** ser fijado
-- `Amount`Campo obligatorio **obligatorio**
+- `Category`: elija la visualización `Lista`
+- `Date`: establezca la fecha de hoy como `Valor por defecto`
+- `Amount`: active la opción `Necesario`
 
 La configuración del formulario web ya está completa y podemos utilizarlo para introducir los primeros registros de datos.
 
@@ -53,6 +53,6 @@ Tómese unos minutos para explorar las posibilidades adicionales del formulario 
 
 ## Artículo de ayuda con más información
 
-- [Formularios web en general]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Crear un formulario web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
+- [Formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
+- [Creación de un formulario web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
 - [Opciones de configuración de un formulario web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

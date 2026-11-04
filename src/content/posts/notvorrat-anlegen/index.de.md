@@ -99,6 +99,8 @@ Um sich und Ihre Wohnung sauber halten zu können, empfiehlt es sich, auch mit H
 
 Natürlich darf auch Wasser zum Waschen nicht fehlen. Um dieses länger haltbar zu machen, können Sie **Entkeimungsmittel** benutzen.
 
+Auch Unternehmen müssen wissen, was vorrätig ist: Wie sich Ausstattung und Bestände im Blick behalten lassen, erklärt unser Beitrag zum [Erstellen einer Inventarliste]({{< relref "posts/inventarliste-erstellen" >}}).
+
 ## Online-Planer für Ihren Notvorrat
 
 Damit Sie auf die nächste Notsituation ideal vorbereitet sind, hat das Team von SeaTable Ihnen eine Vorlage für Ihren Notvorrat erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen.

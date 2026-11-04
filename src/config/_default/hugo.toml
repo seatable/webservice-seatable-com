@@ -4,18 +4,18 @@ title = 'SeaTable - no code no limit'
 
 defaultContentLanguage = 'en'
 enableGitInfo = true
+enableRobotsTXT = true
 
 # FIXME: klären, ob das lokal auskommentiert werden kann, weil ich in build.sh ja lastmod mitgebe...
 [frontmatter]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [sitemap]
-changeFreq = 'daily'
 filename = 'sitemap.xml'
 priority = 0.5
 
 [outputs]
-home = ["HTML", "RSS", "post-sitemap", "page-sitemap", "help-sitemap", "template-sitemap"]
+home = ["HTML", "RSS", "post-sitemap", "page-sitemap", "help-sitemap", "template-sitemap", "lifestyle-sitemap"]
 
 [outputFormats.post-sitemap]
 baseName = 'post-sitemap'
@@ -34,6 +34,11 @@ noUgly = true
 
 [outputFormats.template-sitemap]
 baseName = 'template-sitemap'
+mediaType = 'application/xml'
+noUgly = true
+
+[outputFormats.lifestyle-sitemap]
+baseName = 'lifestyle-sitemap'
 mediaType = 'application/xml'
 noUgly = true
 

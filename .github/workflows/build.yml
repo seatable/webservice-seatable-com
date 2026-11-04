@@ -102,6 +102,10 @@ jobs:
         runs-on: ubuntu-22.04
         if: github.ref == 'refs/heads/main'
         steps:
+            - name: Checkout IndexNow script
+              uses: actions/checkout@v7
+              with:
+                  sparse-checkout: .github/scripts
             - name: Download artifact
               uses: actions/download-artifact@v8
               with:
@@ -115,6 +119,8 @@ jobs:
                   known_hosts: placeholder
             - name: Adding Known Hosts
               run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+            - name: Save live sitemaps for IndexNow
+              run: python3 .github/scripts/indexnow.py snapshot "$RUNNER_TEMP/sitemap-before.json"
             - name: Deploy with rsync
               # There's no target path after the last colon since rrsync is used on the server
               run: 'rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:'
@@ -123,3 +129,5 @@ jobs:
               run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} validate-caddy-config
             - name: Reload Caddy config
               run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} reload-caddy-config
+            - name: Notify IndexNow (Bing, Copilot) about changed pages
+              run: python3 .github/scripts/indexnow.py notify "$RUNNER_TEMP/sitemap-before.json" public

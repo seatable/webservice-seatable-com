@@ -1,6 +1,6 @@
 ---
 title: 'Qualitative Inhaltsanalyse einfach erklärt – am Beispiel eines Pressespiegels'
-description: 'Was unterscheidet qualitative von quantitativer Inhaltsanalyse? Dieser Leitfaden erklärt die Methode Schritt für Schritt und zeigt am Beispiel Pressespiegel, wie du Daten analytisch und verständlich kodierst.'
+description: 'Was unterscheidet quantitative und qualitative Inhaltsanalyse? Dieser Leitfaden erklärt die Methode Schritt für Schritt und zeigt am Beispiel eines Pressespiegels, wie Sie Daten analytisch und verständlich codieren.'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
@@ -172,6 +172,8 @@ Die Checkliste hilft Ihnen dabei, die wichtigsten Punkte Ihrer Analyse im Blick 
 ## Online-Vorlage für Ihre Inhaltsanalyse
 
 Bei einer Inhaltsanalyse können viele Materialien und Informationen zusammenkommen. Deshalb sollten Sie auf eine digitale Lösung setzen, anstatt Daten mühevoll in Codierbögen einzutragen und manuell auszuwerten. Das Team von SeaTable hat eine Vorlage in Form eines **Pressespiegels** entwickelt, um Ihnen die qualitative Inhaltsanalyse zu erleichtern.
+
+{{< template-box id="2064f57fadc14bc884cb" >}}
 
 Vor allem wenn Sie mit mehreren Codierern arbeiten, hat eine **Kollaborationsplattform** wie SeaTable unschlagbare Vorteile. Dort können Sie alle Materialien zentral in einer Datenbank ablegen und codieren lassen, indem Sie jedem Codierer eine individuell gefilterte Ansicht freigeben. Außerdem können Sie die codierten Daten kinderleicht auswerten und als anschauliche Statistiken visualisieren.
 

@@ -65,4 +65,4 @@ Folgende Voraussetzungen sind notwendig, damit Sie diesen Online Kurs absolviere
 
 Worauf warten wir? Lassen Sie uns loslegen!
 
-{{< warning  headline="Hier ein kleiner Tipp"  text="Ganz am Ende dieses Artikels finden Sie auf der rechten Seite einen Link, der Sie direkt zur nächsten Seite dieses Online Kurses bringt." />}}
+{{< warning  headline="Hier ein kleiner Tipp"  text="Im Verlauf des Kurses werden wichtige Hinweise in Kästen wie diesem hervorgehoben. Unten auf jeder Seite finden Sie rechts einen Link, der Sie direkt zur nächsten Seite des Kurses bringt." />}}

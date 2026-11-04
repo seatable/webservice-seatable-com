@@ -3,7 +3,6 @@ title: 'Cataloging books made easy'
 description: 'Love reading but losing track of your collection? With smart apps, you can catalog every book quickly – track locations, wishlists, lendings and stats. Explore the top tools to stay organized, share your list and turn your passion for books into a perfectly managed library – all with just a few taps.'
 date: 2022-07-29
 lastmod: '2024-12-02'
-coverImage: 'Bücher-katalogisieren_AdobeStock_144344997_bearbeitet-1.jpg'
 author: 'cdb'
 url: '/catalog-books'
 aliases:
@@ -17,6 +16,16 @@ tags:
     - 'Tools & Plugins'
     - 'Everyday Life & Leisure'
 color: '#71c392'
+image_sources:
+    - file: 'yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg'
+      source: 'https://unsplash.com/photos/7iJD7oPwHVw'
+      author: 'Yaroslava Holiachenko'
+    - file: 'vitaly-gariev-R-xd9TJSWeM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/R-xd9TJSWeM'
+      author: 'Vitaly Gariev'
+    - file: 'tom-hermans-9BoqXzEeQqM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/9BoqXzEeQqM'
+      author: 'Tom Hermans'
 ---
 
 Do you love reading and can't get enough of books? That's wonderful, because there's no better way to immerse yourself in foreign worlds than with a book. But do you know exactly how many and which books you own right away? And where which book is currently located? If not, there is the perfect solution, because with the right apps you can catalog your books - easily, quickly and without much effort.
@@ -33,9 +42,9 @@ The more books you own, the more difficult it is to keep track of them all. It c
 
 You have more than one bookshelf and the locations of your books are spread over several rooms? Then it is also very helpful to catalog the books. With the right book app, you know exactly which book is where and don't have to search for it when you need it quickly.
 
-![Woman catalogs her books with book app.](buecher-katalogisieren-frau.jpg)
+![Woman catalogs her books with book app.](yaroslava-holiachenko-7iJD7oPwHVw-unsplash.jpg)
 
-Cataloging books © Viktoriia / Adobe Stock
+Cataloging books © Yaroslava Holiachenko / Unsplash
 
 ### You can easily keep book wish lists
 
@@ -59,9 +68,9 @@ It is similar if you organize your books using Excel or Google Sheets. Here you 
 
 If you want to catalog, organize and manage your books in a meaningful way, you should work with a book app or library apps. It's quick, uncomplicated and doesn't require a pen or piece of paper.
 
-![Man catalogs his books in book app.](buecher-katalogisieren-mann.jpg)
+![Man catalogs his books in book app.](vitaly-gariev-R-xd9TJSWeM-unsplash.jpg)
 
-Cataloging books © NDABCREATIVITY / Adobe Stock
+Cataloging books © Vitaly Gariev / Unsplash
 
 ## How does a book app work?
 
@@ -99,9 +108,9 @@ No matter what medium you end up using, there are three factors that will determ
 2. **Intelligent information**: When choosing the right app, it is also important to know what information you want to record. Is the title and author enough or should further aspects such as genre, reading status etc. also be included?
 3. **Time management**: The more books you have, the longer it takes to catalog them. To avoid losing motivation, plan more time. In the end, you will be rewarded with a comprehensive private library.
 
-![Stack of books to be cataloged in a book app.](buecher-stapel.jpg)
+![Stack of books to be cataloged in a book app.](tom-hermans-9BoqXzEeQqM-unsplash.jpg)
 
-Cataloging books © Kara / Adobe Stock
+Cataloging books © Tom Hermans / Unsplash
 
 ## Conclusion
 

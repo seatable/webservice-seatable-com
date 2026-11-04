@@ -15,6 +15,8 @@ seo:
 
 You can use the organization chart plugin to display **hierarchies** between the data records in a table. This is useful, for example, to visualize the positions in a company or [superordinate and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
+{{< youtube OD71y5CJ7vo >}}
+
 You can find out how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Organizational chart plugin](images/Organigramm-Plugin.png)

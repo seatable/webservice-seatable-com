@@ -9,8 +9,8 @@ url: '/pt/ajuda/nivel-dois-introducao'
 aliases:
     - '/pt/ajuda/level-zwei-einfuehrung'
 seo:
-    title: 'Comece com template SeaTable – projetos prontos já'
-    description: 'Aproveite os templates SeaTable para agilizar projetos: escolha modelos por categoria, personalize-os ou envie o seu próprio template.'
+    title: 'SeaTable Curso Online 2 – Entradas e saídas'
+    description: 'Implemente um processo de negócio completo no SeaTable: formulário de inscrição, e-mails de confirmação e de pagamento, certificados de participação em PDF e estatísticas.'
 weight: 1
 ---
 
@@ -58,4 +58,4 @@ Para concluir com êxito este curso, é necessário:
 
 De que é que estamos à espera? Vamos lá!
 
-{{< warning  headline="Eis uma pequena dica"  text="No final deste artigo, encontrará uma ligação do lado direito que o levará diretamente para a página seguinte deste curso em linha." />}}
+{{< warning  headline="Eis uma pequena dica"  text="Ao longo do curso, as informações importantes são destacadas em caixas como esta. No fundo de cada página, encontrará à direita uma ligação que o levará diretamente para a página seguinte do curso." />}}

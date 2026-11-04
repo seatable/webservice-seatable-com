@@ -16,6 +16,13 @@ tags:
 seo:
     title: 'As 9 principais bases de dados em linha gratuitas'
     description: 'Obtenha uma visão geral de nove bases de dados online bem conhecidas que pode obter gratuitamente.'
+image_sources:
+    - file: 'kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-wearing-black-t-shirt-holding-white-computer-keyboard-YK0HPwWDJ1I'
+      author: 'Kelly Sikkema'
+    - file: 'carlos-muza-hpjSkU2UYSU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU'
+      author: 'Carlos Muza'
 ---
 
 Uma base de dados serve como base para a recolha, processamento e exibição de dados. Resumem a informação com características comuns e facilitam a gestão. Nem sempre é necessário ter conhecimentos de programação para criar e trabalhar com uma base de dados. Algumas bases de dados em linha têm a vantagem de serem simultaneamente gratuitas e fáceis de utilizar. Neste artigo comparámos as nove melhores bases de dados em linha gratuitas.
@@ -32,9 +39,9 @@ As bases de dados online ou estão disponíveis gratuitamente ou são pagas mens
 
 Outra vantagem é que adquire um serviço. Os fornecedores têm normalmente o seu próprio departamento de TI. Isto alivia o fardo do seu próprio pessoal. Ninguém que vai criar e operar a base de dados precisa de conhecimentos profundos de programação. Os dados também podem ser introduzidos via importação ou formulário web.
 
-![O seu empregado trabalha com uma base de dados em linha gratuita.](Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
+![O seu empregado trabalha com uma base de dados em linha gratuita.](kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg)
 
-Base de dados online gratuita © Gorodenkoff / adobe stock
+Base de dados online gratuita © Kelly Sikkema / Unsplash
 
 ## O que deve ser considerado ao escolher uma base de dados em linha gratuita?
 
@@ -78,9 +85,9 @@ Quando se fala da Amazon e do Google, a Microsoft também não pode ser deixada 
 - **Microsoft SQL Server Edge**: Com esta base de dados relacional, o conceito de computação de ponta pode ser implementado para aplicações IoT.
 - **Servidor SQL dedicado Microsoft**: Aqui sabe onde os seus dados são armazenados e pode voltar a cair numa plataforma de dados híbrida.
 
-![Alguém está a olhar para a base de dados online gratuita da Microsoft.](Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
+![Alguém está a olhar para a base de dados online gratuita da Microsoft.](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
 
-Base de dados online gratuita © monticellllo / adobe stock
+Base de dados online gratuita © Carlos Muza / Unsplash
 
 Para operar a base de dados online gratuitamente, é necessária a versão Developer do Microsoft SQL Server. Esta edição está licenciada para utilização como base de dados de desenvolvimento, mas inclui todas as funções.
 
@@ -119,4 +126,3 @@ Ou é você que faz a programação ou escolhe uma solução que pode ser utiliz
 
 Tente duas a três soluções para encontrar a solução certa para o seu [projecto]({{< relref "templates/projects/project-plan" >}}). [Comece aqui com a subscrição gratuita do SeaTable]({{< relref "pages/registration" >}}).
 
-Fonte da imagem Imagem Imagem da capa: © monsitj/Adobe Stock

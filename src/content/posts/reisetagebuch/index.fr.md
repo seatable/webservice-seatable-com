@@ -143,6 +143,8 @@ Un carnet de voyage structuré résout précisément ce problème. Notez par exe
 
 Ainsi se crée, comme par magie, **votre guide de voyage personnel**. Lorsque vous ou vos proches visiterez plus tard la même région, un carnet de voyage numérique doté d'une fonction de recherche vous épargnera surtout de fastidieuses recherches. En particulier lors de longs voyages, il vous aide également à garder une vue d'ensemble. Les expériences et les recommandations peuvent être documentées de manière claire et retrouvées à tout moment par la suite.
 
+Les voyages d'affaires doivent aussi être documentés, mais avec des justificatifs : notre guide résume tout sur une [note de frais de déplacement]({{< relref "posts/reisekostenabrechnung" >}}) correcte.
+
 ## La solution tout-en-un : associer planificateur de voyage et carnet de voyage dans une seule application avec SeaTable
 
 SeaTable est une base de données No-Code dotée de fonctions d'IA et d'un App Builder intégré. Autrement dit : vous pouvez créer votre propre application de carnet de voyage et un **carnet de voyage numérique** en ligne sans aucune connaissance technique préalable. Pour cela, créez dans un tableau tous les types de colonnes dont vous avez besoin pour enregistrer des images, des textes, des évaluations, des lieux, des rendez-vous et des humeurs. Pour vous faciliter au maximum la prise en main, nous avons déjà préparé un modèle que vous pouvez adapter à votre voyage selon vos envies.

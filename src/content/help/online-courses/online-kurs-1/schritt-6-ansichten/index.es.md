@@ -54,7 +54,7 @@ Cuando hayas experimentado lo suficiente, intenta completar el cuestionario y ga
 ## Artículo de ayuda con más información
 
 - [¿Qué es una vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Agrupar, clasificar y filtrar]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
-- [Crear una nueva vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Puntos de vista]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [Agrupar, ordenar y filtrar]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Creación de una nueva vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Fijar las vistas]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
 - [La barra de estado y sus funciones]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})
