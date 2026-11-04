@@ -3,7 +3,6 @@ title: 'Top 9 free online databases'
 description: "A database serves as the basis for recording, processing and displaying data. They summarize information with common characteristics and facilitate administration. You don't always need programming skills to create and work with a database. In this article, we have compared the nine best free online databases."
 date: 2022-07-08
 lastmod: '2022-07-27'
-coverImage: 'Online-Datenbank-kostenlos_AdobeStock_203168528_bearbeitet.jpg'
 author: 'rdb'
 url: '/free-online-database'
 aliases:
@@ -17,6 +16,13 @@ tags:
 seo:
     title: 'Top 9 free online databases'
     description: 'Get an overview of nine well-known online databases that you can obtain free of charge.'
+image_sources:
+    - file: 'kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-wearing-black-t-shirt-holding-white-computer-keyboard-YK0HPwWDJ1I'
+      author: 'Kelly Sikkema'
+    - file: 'carlos-muza-hpjSkU2UYSU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU'
+      author: 'Carlos Muza'
 ---
 
 A database serves as a basis for collecting, processing and displaying data. They summarise information with common characteristics and facilitate management. You do not always need programming skills to create and work with a database. Some online databases have the advantage of being both free and easy to use. In this article we have compared the nine best free online databases.
@@ -33,9 +39,9 @@ Online databases are either available free of charge or are paid for monthly. Yo
 
 Another advantage is that you purchase a service. The providers usually have their own IT department. This relieves the burden on your own employees. No one to create and operate the database needs in-depth programming knowledge. Also the input of data can be done by import or web form.
 
-![It employee works with a free online database.](Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
+![It employee works with a free online database.](kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg)
 
-Online database free of charge © Gorodenkoff / adobe stock
+Online database free of charge © Kelly Sikkema / Unsplash
 
 ## What should be considered when choosing a free online database?
 
@@ -79,9 +85,9 @@ When talking about Amazon and Google, Microsoft cannot be left out either. You h
 - **Microsoft SQL Server Edge**: With this relational database, the concept of edge computing can be implemented for IoT applications.
 - **Microsoft dedicated SQL Server**: Here you know where your data is stored and can fall back on a hybrid data platform.
 
-![Someone is looking at Microsoft's free online database.](Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
+![Someone is looking at Microsoft's free online database.](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
 
-Online database free of charge © monticellllo / adobe stock
+Online database free of charge © Carlos Muza / Unsplash
 
 To operate the online database free of charge, you need the Developer version of Microsoft SQL Server. This edition is licensed for use as a development database, but includes all functions.
 
@@ -120,4 +126,3 @@ Either you do the programming yourself or you choose a solution that can be used
 
 Try two to three solutions to find the right one for your [project]({{< relref "templates/projects/project-plan" >}}). [Start with the free subscription to SeaTable here]({{< relref "pages/registration" >}}).
 
-Image source Cover image: © monsitj/Adobe Stock

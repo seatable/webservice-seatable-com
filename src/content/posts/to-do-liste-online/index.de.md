@@ -12,6 +12,10 @@ color: '#ca9fb9'
 seo:
     title: 'To do Liste mit App online erstellen'
     description: 'Finden Sie die beste App für Ihre To-do-Liste und erstellen Sie Ihre Aufgabenliste einfach online mit einer passenden Vorlage.'
+image_sources:
+    - file: 'thomas-bormans-pcpsVsyFp_s-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-notepad-with-a-pen-on-top-of-it-pcpsVsyFp_s'
+      author: 'Thomas Bormans'
 ---
 
 ## Wofür Sie eine To-do-Liste brauchen
@@ -76,9 +80,9 @@ Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken
 
 {{< warning headline="Kostenlose Nutzung" text="Microsoft To Do ist kostenlos erhältlich. Alles, was Sie brauchen, ist ein Microsoft Account." />}}
 
-![Microsoft To do Liste App auf Smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Microsoft To do Liste App auf Smartphone.](thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
 
-© sdx15 / Adobe Stock
+ © Thomas Bormans / Unsplash
 
 ### Projoodle: Eine an Doodle angelehnte To-do-Liste
 

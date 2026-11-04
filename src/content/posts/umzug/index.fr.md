@@ -150,6 +150,8 @@ Les personnes qui déménagent pour des raisons privées ne peuvent pas déduire
 
 Un déménagement pour raisons médicales est considéré comme une charge exceptionnelle. Vous pouvez également le faire valoir dans votre déclaration d'impôts, mais uniquement avec des justificatifs détaillés de votre état de santé.
 
+Un déménagement de bureaux en entreprise est un projet à part entière, avec de nombreuses tâches et échéances. Notre [outil de gestion de projet]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) montre comment les équipes gardent le contrôle de tels projets.
+
 ## Planificateur en ligne pour votre déménagement
 
 Pour que votre prochain déménagement se déroule avec le moins de stress possible, l'équipe de SeaTable a créé un modèle pour votre plan de déménagement. Vous pouvez l'adapter à vos besoins comme vous le souhaitez.

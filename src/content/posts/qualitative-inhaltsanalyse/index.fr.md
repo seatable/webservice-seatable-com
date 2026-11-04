@@ -25,11 +25,11 @@ L'analyse de contenu qualitative est une méthode scientifique de recherche soci
 
 La manière exacte dont vous devez concevoir l'analyse de contenu dépend des résultats que vous souhaitez obtenir avec votre question de recherche.
 
-{{< warning headline="D'où vient la forme d'analyse" text="L'un des cofondateurs de l'analyse qualitative de contenu est Philipp Mayring. Ce psychologue, sociologue et pédagogue allemand a publié en 1983 son ouvrage _Qualitative Content Analysis. Bases et techniques_." />}}
+{{< warning headline="D'où vient cette forme d'analyse" text="L'un des cofondateurs de l'analyse qualitative de contenu est Philipp Mayring. Ce psychologue, sociologue et pédagogue allemand a publié en 1983 son ouvrage _Analyse qualitative de contenu. Bases et techniques_." />}}
 
 ## Analyse de contenu qualitative vs. quantitative
 
-En principe, il existe une **approche** **qualitative** et une **approche quantitative** de l'analyse de contenu. Vous pouvez décider laquelle des deux méthodes vous devez utiliser pour votre projet en vous basant sur les critères suivants :
+En principe, il existe une approche **qualitative** et une approche **quantitative** de l'analyse de contenu. Vous pouvez décider laquelle des deux méthodes vous devez utiliser pour votre projet en vous basant sur les critères suivants :
 
 ![Les points sur lesquels l'analyse de contenu qualitative et quantitative diffèrent sont mis en évidence.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
@@ -57,7 +57,7 @@ Avant de commencer votre analyse, vous devez définir ce que vous souhaitez déc
 
 > _Quel ton a été utilisé dans les médias journalistiques pour parler de la société SeaTable ?_
 
-## 1\. choix du matériel
+## 1\. Choix du matériel
 
 Pour commencer, vous avez besoin du **matériel** adéquat avec les principales informations qui s'y rapportent. Vous les choisissez en fonction de leur adéquation avec votre question de recherche.
 
@@ -70,7 +70,7 @@ Pour commencer, vous avez besoin du **matériel** adéquat avec les principales 
 
 > _Les sources de notre revue de presse sont des **articles en ligne** publiés dans des médias journalistiques depuis sa création en juillet 2020 jusqu'à aujourd'hui. Le matériel est disponible sous forme **de texte écrit**._
 
-## 2\. détermination de la direction de l'analyse
+## 2\. Détermination de la direction de l'analyse
 
 L'orientation de votre analyse dépend de votre question de recherche. Voici quelques directions possibles pour votre analyse de contenu qualitative :
 
@@ -85,32 +85,32 @@ Si votre projet est un travail scientifique, vous devez pouvoir **expliquer** vo
 
 Recherchez la littérature appropriée pour justifier votre démarche de manière fondée.
 
-> _En examinant les articles sur l'entreprise SeaTable, nous analysons le **contenu du texte**. Il s'agit de déterminer **comment** les sources parlent de l'entreprise._
+> _Lors de l'examen des articles sur l'entreprise SeaTable, c'est le **contenu du texte** qui est analysé. Il s'agit de déterminer **comment** les sources parlent de l'entreprise._
 
-## 3\. choix de la forme
+## 3\. Choix de la forme
 
 La forme de votre analyse de contenu qualitative détermine la quantité de matériel que vous examinez et le niveau de détail. Vous avez le choix entre trois approches :
 
-- **Analyse de contenu synthétique**: le matériel est réduit aux informations les plus pertinentes pour la question de recherche.
-- **Analyse de contenu explicative**: les passages incompréhensibles sont expliqués à l'aide de matériel supplémentaire.
-- **Analyse de contenu structurante**: il existe un [guide de codage](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/) dans lequel vous définissez comment le matériel doit être classé dans des catégories thématiques.
+- **Analyse de contenu synthétique** : le matériel est réduit aux informations les plus pertinentes pour la question de recherche.
+- **Analyse de contenu explicative** : les passages incompréhensibles sont expliqués à l'aide de matériel supplémentaire.
+- **Analyse de contenu structurante** : il existe un [guide de codage](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/) dans lequel vous définissez comment le matériel doit être classé dans des catégories thématiques.
 
 {{< warning headline="Création de catégories" text="La création de catégories appropriées est également importante pour vous si vous choisissez l'une des deux premières options. Celles-ci vous permettent en effet de classer des extraits de votre matériel en fonction de votre problématique." />}}
 
 > _En se basant sur quelques articles qui parlent de SeaTable, différentes catégories de **tonalité** sont définies. Par exemple, un article utilise des mots tels que "convivial" et "important", ce qui permet de créer une catégorie de **rapports positifs**._
 
-## 4\. création du système de catégories
+## 4\. Création du système de catégories
 
 Les catégories que vous souhaitez utiliser pour classer votre matériel doivent être consignées dans un **système de catégories**. Pour élaborer ce système, vous avez le choix entre deux procédures possibles :
 
-- une **approche déductive**: Vous utilisez un système de catégories déjà existant, qui a déjà fait ses preuves.
-- une **approche inductive**: Comme nous l'avons montré plus haut, vous pouvez déduire logiquement des catégories à partir de vos propres données.
+- une **approche déductive** : vous utilisez un système de catégories déjà existant, qui a déjà fait ses preuves.
+- une **approche inductive** : comme nous l'avons montré plus haut, vous pouvez déduire logiquement des catégories à partir de vos propres données.
 
 Il est important de formuler clairement chaque catégorie afin qu'elle puisse être clairement distinguée des autres catégories et qu'il n'y ait pas d'ambiguïté dans la classification.
 
 > _Les articles en ligne sur SeaTable doivent être évalués selon certaines catégories. Pour cela, nous développons un guide de codage dans lequel nous définissons et expliquons les catégories. La démarche est **inductive**, car nous déduisons logiquement les catégories du matériel. Il en résulte les **catégories** suivantes : tonalité positive, tonalité neutre, tonalité ambivalente et tonalité négative._
 
-## 5\. détermination des unités d'analyse
+## 5\. Détermination des unités d'analyse
 
 Avant de pouvoir réaliser votre analyse de contenu qualitative, vous devez encore définir les unités d'analyse. Celles-ci déterminent ce que vous allez ensuite coder, c'est-à-dire classer dans des catégories.
 
@@ -118,19 +118,19 @@ Avant de pouvoir réaliser votre analyse de contenu qualitative, vous devez enco
 
 Les articles peuvent être facilement divisés en unités grâce à leur structure.
 
-- **Unité d'évaluation**: détermine les articles que vous codez les uns après les autres.
+- **Unité d'évaluation** : détermine les matériaux que vous codez les uns après les autres.
 
 > _Nous examinons des articles de 20 médias différents. Chacun de ces **articles** constitue une unité d'évaluation._
 
-- **Unité de codage**: détermine quel est le plus petit composant possible qui sera codé.
+- **Unité de codage** : détermine quel est le plus petit composant possible qui sera codé.
 
 > _Les articles commencent par un court **teaser** comme texte d'introduction. Celui-ci constitue l'unité de codage._
 
-- **Unité de contexte**: détermine quel est l'élément le plus grand possible qui sera codé.
+- **Unité de contexte** : détermine quel est l'élément le plus grand possible qui sera codé.
 
 > _L'article peut être considéré **comme un tout**. Ainsi, l'unité de contexte est congruente avec l'unité d'évaluation._
 
-## 6\. réalisation de l'analyse
+## 6\. Réalisation de l'analyse
 
 Il s'agit maintenant de la partie la plus importante et la plus complexe de l'analyse de contenu qualitative. Vous **codez** votre matériel et l'attribuez aux **catégories** correspondantes. Vous pouvez le faire à la main à l'aide d'une fiche de codage ou utiliser une base de données numérique comme SeaTable.
 
@@ -138,13 +138,13 @@ Il s'agit maintenant de la partie la plus importante et la plus complexe de l'an
 
 > _**Résultat de l'analyse :** la plupart des articles en ligne sur SeaTable peuvent être classés dans la catégorie "tonalité positive" ou "tonalité neutre"._
 
-## 7\. interprétation des résultats
+## 7\. Interprétation des résultats
 
 Vous pouvez maintenant rassembler et interpréter vos résultats. Revenez à votre question initiale et répondez-y.
 
 > _Comme la plupart des articles peuvent être classés dans la catégorie "tonalité positive" ou "tonalité neutre", on peut en conclure que SeaTable a une image plutôt positive et propose un produit qui obtient généralement des résultats positifs lors des tests._
 
-## 8\. vérification des critères de qualité
+## 8\. Vérification des critères de qualité
 
 Enfin, vous vérifiez si votre analyse répond aux critères de qualité de l'analyse de contenu qualitative.
 
@@ -158,7 +158,7 @@ Votre recherche doit être **compréhensible** pour les personnes extérieures. 
 Assurez-vous que votre analyse présente des résultats similaires lorsqu'elle est répétée sur différents codeurs, c'est-à-dire qu'elle est **reproductible**.
 {{< /accordion >}}
 
-{{< accordion "Reliabilité" >}}
+{{< accordion "Fiabilité" >}}
 
 Quelle est la fiabilité de la codification ? Les mêmes contenus sont-ils évalués de la même manière et les différences s'expriment-elles de manière appropriée par des valeurs différentes ?
 {{< /accordion >}}
@@ -174,6 +174,8 @@ La liste de contrôle vous aide à garder un œil sur les points les plus import
 ## Modèle en ligne pour votre analyse de contenu
 
 Une analyse de contenu peut rassembler de nombreux matériaux et informations. C'est pourquoi il est préférable d'opter pour une solution numérique plutôt que de saisir laborieusement les données sur des feuilles de codage et de les évaluer manuellement. L'équipe de SeaTable a développé un modèle sous forme de **revue de presse** pour vous faciliter l'analyse de contenu qualitative.
+
+{{< template-box id="2064f57fadc14bc884cb" >}}
 
 Une **plate-forme de collaboration** comme SeaTable présente des avantages imbattables, surtout si vous travaillez avec plusieurs codeurs. Vous pouvez y centraliser tous les matériaux dans une base de données et les faire coder en donnant à chaque codeur une vue filtrée individuellement. De plus, vous pouvez facilement évaluer les données codées et les visualiser sous forme de statistiques claires.
 

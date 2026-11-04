@@ -16,6 +16,13 @@ tags:
     - 'Gestión y visualización de datos'
     - 'Finanzas'
 color: '#e45706'
+image_sources:
+    - file: 'sasun-bughdaryan-njiadDwbgaM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/calculator-magnifying-glass-and-chart-with-gears-on-paper-njiadDwbgaM'
+      author: 'Sasun Bughdaryan'
+    - file: 'tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-sitting-on-chair-wearing-gray-crew-neck-long-sleeved-shirt-using-apple-magic-keyboard-CPs2X8JYmS8'
+      author: 'Tim van der Kuip'
 ---
 
 En la vida cotidiana de las empresas, no siempre es fácil tomar las decisiones correctas. Debe tener en cuenta muchos aspectos y factores y, a menudo, evaluar el efecto de determinadas medidas sin ningún valor empírico. El éxito de su empresa depende de una cosa en particular: la base sobre la que se toman sus decisiones. Por suerte, puede asentar sus decisiones sobre una base sólida con un **análisis coste-beneficio**.
@@ -28,9 +35,9 @@ Un análisis coste-beneficio, o ACB para abreviar, es un **análisis de rentabil
 
 La ventaja es que puede agrupar todos los **factores y efectos asociados a una inversión** en una sola base de datos, con lo que no pierde la visión de conjunto. Especialmente en los [grandes proyectos]({{< relref "templates/projects/work-breakdown-structure" >}}), hay un gran número de criterios objetivos y subjetivos que afectan al ACB de formas muy distintas. Una plantilla le ayuda a no perder de vista todos estos aspectos.
 
-![Plantilla impresa para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Plantilla impresa para un análisis coste-beneficio.](sasun-bughdaryan-njiadDwbgaM-unsplash.jpg)
 
-Benefíciese de un análisis coste-beneficio. Derechos de imagen: amazing studio / Adobe Stock
+Benefíciese de un análisis coste-beneficio. Derechos de imagen: © Sasun Bughdaryan / Unsplash
 
 ## ¿Dónde se utiliza el análisis coste-beneficio?
 
@@ -49,9 +56,9 @@ Básicamente, un análisis coste-beneficio siempre es apropiado cuando se planif
 - introduce nuevos procesos empresariales
 - desea ampliar su [flota de vehículos]({{< relref "posts/fuhrparkmanagement" >}})
 
-![El empleado crea una plantilla para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![El empleado crea una plantilla para un análisis coste-beneficio.](tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg)
 
-Un empleado realiza un análisis coste-beneficio. Derechos de imagen: Andrey Popov / Adobe Stock
+Un empleado realiza un análisis coste-beneficio. Derechos de imagen: © Tim van der Kuip / Unsplash
 
 ## Un análisis coste-beneficio le ofrece estas ventajas
 

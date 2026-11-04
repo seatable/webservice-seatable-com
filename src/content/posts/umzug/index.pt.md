@@ -149,6 +149,8 @@ Quem se muda por motivos privados não pode deduzir as despesas de mudança nos 
 
 Uma mudança por motivos médicos conta como encargo extraordinário. Também a pode declarar na sua declaração de impostos, mas apenas com comprovativos detalhados da sua situação de saúde.
 
+Uma mudança de escritório numa empresa é um projeto em si, com muitas tarefas e prazos. A nossa [ferramenta de gestão de projetos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) mostra como as equipas mantêm estes projetos sob controlo.
+
 ## Planeador online para a sua mudança
 
 Para que a sua próxima mudança decorra com o mínimo de stress possível, a equipa do SeaTable criou um modelo para o seu plano de mudança. Pode adaptá-lo às suas necessidades como desejar.

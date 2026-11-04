@@ -1,0 +1,21 @@
+{{- /*
+  Pages of one sitemap group: "page", "post", "help", "template" or "lifestyle".
+  Lifestyle pages are moved out of the post and template sitemaps into their own sitemap.
+*/ -}}
+{{- $group := . -}}
+{{- $result := slice -}}
+{{- if eq $group "page" -}}
+  {{- $result = $result | append site.Home -}}
+  {{- $result = $result | append (where (where site.Pages "Section" "pages") "Params.sitemap_exclude" "ne" true) -}}
+{{- else if eq $group "help" -}}
+  {{- $result = where (where site.Pages "Section" "help") "Params.sitemap_exclude" "ne" true -}}
+{{- else -}}
+  {{- $sections := dict "post" (slice "posts") "template" (slice "templates") "lifestyle" (slice "posts" "templates") -}}
+  {{- $wantLifestyle := eq $group "lifestyle" -}}
+  {{- range where (where site.Pages "Section" "in" (index $sections $group)) "Params.sitemap_exclude" "ne" true -}}
+    {{- if eq (partial "sitemap/meta.html" .).lifestyle $wantLifestyle -}}
+      {{- $result = $result | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

@@ -96,6 +96,8 @@ Auch beim Thema Datenschutz überzeugt der digitale Medikationsplan. Er kann so 
 
 ![Eine Frau zeigt einem älteren Mann etwas an einem Laptop](warum-digitaler-medikationsplan.jpg)
 
+In der professionellen Pflege gehören Medikamentenpläne zur täglichen Dokumentation. Wie ein Pflegedienst das digital organisiert, zeigt unsere Kundenstory [KD Cura: digitale Vorreiterrolle im Pflegedienst]({{< relref "posts/kd-cura-pflegedienst" >}}).
+
 ## Medikamentenplan mit SeaTable
 
 Mit der kostenlosen Medikamentenplan Vorlage von SeaTable ist es ganz einfach, Ihre Medikamente korrekt einzunehmen. Statt einer unübersichtlichen Medikamentenkiste oder einer ausgedruckten Liste, die schnell verloren gehen kann, erfassen Sie alle relevanten Informationen zentral und digital. So können Sie ohne großen Aufwand Ihre Medikamentenliste erstellen und fortlaufend aktualisieren.

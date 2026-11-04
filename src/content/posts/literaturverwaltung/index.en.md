@@ -3,7 +3,7 @@ title: 'Literature management program for a better overview'
 description: 'A reference management program makes it easier for you to work on larger scientific projects. Read on for tips on how to work successfully with a reference management program and find the solution that suits you best.'
 date: 2024-05-17
 lastmod: '2024-05-17'
-coverImage: 'Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg'
+coverImage: jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg'
 author: 'rdb'
 url: '/reference-management'
 aliases:
@@ -17,6 +17,16 @@ color: '#719da6'
 seo:
     title: 'Reference management program for more clarity'
     description: 'Ensure clear and error-free literature management. Here are tips on how to use a reference management program.'
+image_sources:
+    - file: 'gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg'
+      source: 'https://unsplash.com/photos/pile-of-open-paperback-books-LUGuCtvlk1Q'
+      author: 'Gülfer ERGİN'
+    - file: 'jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-long-row-of-bookshelves-filled-with-lots-of-books-GxCLXVWAJMY'
+      author: 'Jayanth Muppaneni'
+    - file: 'zoshua-colah-klbApl9mxr0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/student-studies-at-a-library-with-books-klbApl9mxr0'
+      author: 'Zoshua Colah'
 ---
 
 Whether it's a thesis, dissertation or research report – a **reference management program** makes it easier for you to work on scientific projects. Creating **bibliographies** takes just as much time as finding, viewing and evaluating **sources**.
@@ -25,9 +35,9 @@ With structured literature management, you can prevent errors in literature list
 
 Below you will find a comparison of various software solutions and additional tips for successful literature management.
 
-![A stack of books, presorted for literature management.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![A stack of books, presorted for literature management.](gulfer-ergin-LUGuCtvlk1Q-unsplash.jpg)
 
-Get your scientific literature in order! © caftor / Adobe Stock
+Get your scientific literature in order! © Gülfer ERGİN / Unsplash
 
 ## Why is a reference management program useful?
 
@@ -131,9 +141,9 @@ Do not rely on the source information in literature programs or other scientific
 
 So check directly whether the references are correct and add to them if necessary. If you want to save this task until the end, it is helpful to enter it in a [to-do list]({{< relref "templates/projects/to-do-list" >}}) so that you don't forget it.
 
-![Literature management in library with tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Literature management in library with tablet.](jayanth-muppaneni-GxCLXVWAJMY-unsplash.jpg)
 
-Some reference management programs can record sources by DOI. © ake1150 / Adobe Stock
+Some reference management programs can record sources by DOI. © Jayanth Muppaneni / Unsplash
 
 ### 2\. enter literature data carefully
 
@@ -170,9 +180,9 @@ You should make a note of this information as accurately as possible. Count the 
 
 Some reference management programs make it easier for you to search for new literature. With Citavi, for example, you have the option of receiving **search alerts**. This lets you know when new articles on one of your topics are available online. Mendeley offers a recommendation service that you can use to display similar articles.
 
-![Student does a final check of her bibliography before handing it in.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![Student does a final check of her bibliography before handing it in.](zoshua-colah-klbApl9mxr0-unsplash.jpg)
 
-Libraries are also a good place to research sources. Jacob Lund / Adobe Stock
+Libraries are also a good place to research sources. © Zoshua Colah / Unsplash
 
 ### 4\. create an outline in the reference management program
 

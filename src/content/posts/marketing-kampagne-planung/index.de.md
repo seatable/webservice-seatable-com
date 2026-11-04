@@ -14,6 +14,13 @@ seo:
     description: 'Eine Marketingkampagne ist nur so gut wie ihre Planung – hier finden Sie 6 Tipps für die perfekte Vorbereitung!'
 register:
    show: true    
+image_sources:
+    - file: 'vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-working-on-laptop-in-modern-office-with-team-sOwh2ZHMGRQ'
+      author: 'Vitaly Gariev'
+    - file: 'campaign-creators-gMsnXqILjp4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4'
+      author: 'Campaign Creators'
 ---
 
 ## Was ist eine Marketingkampagne?
@@ -24,7 +31,7 @@ Marketing Kampagnen sind strategisch geplante, zeitlich begrenzte Abfolgen von M
 
 Die Begriffe Marketingkampagne und Marketingstrategie werden teilweise synonym verwendet. Sie meinen jedoch zwei verschiedene Dinge. Ein ganz entscheidender Unterschied ist die zeitliche Komponente. Während die Strategie ein langfristig angelegtes, planvolles Vorgehen zur Umsetzung der Marketingziele ist, handelt es sich bei der Kampagne um eine **zeitlich begrenzte Aktion** im Rahmen eben dieser Strategie. So kann eine Strategie über einen langen Zeitraum viele verschiedene Marketingkampagnen oder Werbekampagnen beinhalten. Das bedeutet: Eine ausgearbeitete Strategie ist die Voraussetzung dafür, dass Sie überhaupt mit Ihrer Marketing Kampagnenplanung beginnen können.
 
-![Mitarbeiterin übernimmt Marketing Kampagnen Planung.](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Mitarbeiterin übernimmt Marketing Kampagnen Planung.](vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg)
 
 ## Mit sechs Schritten zum Erfolg – so gelingt Ihnen die Planung Ihrer Marketingkampagne
 
@@ -49,7 +56,7 @@ Es gibt so gut wie keine Ideen, die nicht schon einmal gedacht worden sind. Soll
 
 Erfolgreiche Werbekampagnen setzen **klare Zuständigkeiten im Team** voraus. Denn der Aufbau von Marketing Kampagnen funktioniert dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Marktanalyse, verteilen Sie im nächsten Schritt die Aufgabenbereiche im Team und das Budget. Vergessen Sie nicht Deadlines und Meilensteine festzulegen und – ganz wichtig – **Metriken für die spätere Performance Analyse** zu definieren.
 
-![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](campaign-creators-gMsnXqILjp4-unsplash.jpg)
 
 ### 5\. Bei der Planung der Marketingkampagne Maßnahmen und Inhalte zusammenbringen
 

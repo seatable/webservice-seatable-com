@@ -23,7 +23,7 @@ sections:
       text: '¡Dé una estructura clara a su día a día académico! Con nuestra plantilla digital organiza clases, trabajos, exámenes, créditos ECTS y notas en un lugar central. El flexible planificador de estudios de SeaTable combina planificador de semestre, calculadora de notas y vista de módulos en una base de datos no-code interactiva. En lugar de calendarios, notas y listas de Excel, utiliza un planificador personalizado con vista de calendario, tablero Kanban y tablas vinculadas. Ya sea grado, máster o examen estatal, con esta plantilla online los estudiantes controlan plazos, créditos y la época de exámenes. ¡Cree su plan individual y organice su carrera de forma digital, flexible y sin estrés!'
       classes:
           - bg-white
-      template: '44ac24b866ac446f8fda'
+      template: 'cd782931d4db43a99b45'
       buttons:
           - label: Regístrese gratis y use la plantilla ahora
             link_to_template: true

@@ -153,6 +153,8 @@ A app de lista de desejos do SeaTable está totalmente incluída na [versão gra
 
 Depois de se registar com o seu endereço de e-mail, pode utilizar de imediato a [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) através do browser. Se quiser alojar a app por conta própria, pode descarregar e instalar o [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 
+Também na empresa as prendas precisam de ser organizadas: ideias e dicas para o contexto profissional no nosso artigo sobre [prendas de Natal para colaboradores e clientes]({{< relref "posts/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden" >}}).
+
 ## Conclusão: lista de desejos digital em vez de caos de presentes
 
 Não importa se é para o Natal, aniversários ou casamentos: reunir e partilhar desejos causa muitas vezes caos de presentes e surpresas indesejadas. Quem quiser evitar compras erradas e manter a visão geral faz melhor em apostar numa lista de desejos digital. Assim pode registar ideias de presente a qualquer momento, guardá-las de forma centralizada e segura com um URL único e organizar as listas de desejos com clareza.

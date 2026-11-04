@@ -14,6 +14,10 @@ color: '#ca9fb9'
 seo:
     title: 'Crear Lista de Tareas Online | Mejor App'
     description: 'Descubra la mejor aplicación para su lista de tareas y cree su lista en línea fácilmente con una plantilla lista para usar.'
+image_sources:
+    - file: 'thomas-bormans-pcpsVsyFp_s-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-notepad-with-a-pen-on-top-of-it-pcpsVsyFp_s'
+      author: 'Thomas Bormans'
 ---
 
 ## Para qué necesita una lista de tareas
@@ -78,9 +82,9 @@ Puede ordenar las tareas individuales, fijar una fecha límite y marcarlas. Tamb
 
 {{< warning headline="Uso gratuito" text="Microsoft To Do está disponible de forma gratuita. Todo lo que necesita es una cuenta Microsoft." />}}
 
-![Aplicación Microsoft To do list en smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Aplicación Microsoft To do list en smartphone.](thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
 
-© sdx15 / Adobe Stock
+ © Thomas Bormans / Unsplash
 
 ### Projoodle: Una lista de tareas basada en Doodle
 

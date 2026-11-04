@@ -143,6 +143,8 @@ Ein strukturiertes Reisetagebuch löst genau dieses Problem. Notieren Sie beispi
 
 So entsteht ganz nebenbei **Ihr persönlicher Reiseführer**. Wenn Sie oder Angehörige von Ihnen später dieselbe Region besuchen, erspart Ihnen vor allem ein digitales Reisetagebuch mit Suchfunktion mühsame Recherchen. Gerade auf längeren Reisen hilft es Ihnen außerdem den Überblick zu behalten. Erlebnisse und Empfehlungen lassen sich übersichtlich dokumentieren und später jederzeit wiederfinden.
 
+Auch Dienstreisen wollen dokumentiert sein, allerdings mit Belegen: Alles zur korrekten [Reisekostenabrechnung]({{< relref "posts/reisekostenabrechnung" >}}) fasst unser Ratgeber zusammen.
+
 ## Die All-in-one-Lösung: Mit SeaTable Reiseplaner und Reisetagebuch in einer App verknüpfen
 
 SeaTable ist eine No-Code-Datenbank mit KI-Funktionen und integriertem App Builder. Das heißt: Sie können ohne jegliches technisches Vorwissen eine eigene Reisetagebuch App und ein **digitales Reisetagebuch** online erstellen. Legen Sie dazu in einer Tabelle alle Spaltentypen an, die Sie benötigen, um Bilder, Texte, Bewertungen, Orte, Termine und Stimmungen zu speichern. Um Ihnen den Einstieg besonders leicht zu machen, haben wir bereits eine Vorlage vorbereitet, die Sie nach Belieben an Ihre Reise anpassen können.

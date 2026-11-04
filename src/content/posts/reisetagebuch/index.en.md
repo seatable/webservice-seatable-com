@@ -143,6 +143,8 @@ A structured travel diary solves exactly this problem. For example, note your vi
 
 This is how **your personal travel guide** is created along the way. If you or your relatives later visit the same region, a digital travel diary with a search function in particular saves you tedious research. Especially on longer trips, it also helps you keep track of things. Experiences and recommendations can be documented clearly and found again at any time later.
 
+Business trips also need to be documented, but with receipts: everything about a correct [travel expense report]({{< relref "posts/reisekostenabrechnung" >}}) is summarized in our guide.
+
 ## The all-in-one solution: Link your travel planner and travel diary in one app with SeaTable
 
 SeaTable is a No-Code database with AI features and an integrated App Builder. This means: you can create your own travel diary app and a **digital travel diary** online without any technical prior knowledge. To do this, set up in a table all the column types you need to store images, texts, ratings, places, appointments and moods. To make it especially easy for you to get started, we have already prepared a template that you can adapt to your trip as you wish.

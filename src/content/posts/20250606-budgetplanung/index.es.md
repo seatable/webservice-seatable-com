@@ -15,6 +15,10 @@ tags:
     - 'Finanzas'
     - 'Gestión de proyectos'
 color: '#f4a64b'
+image_sources:
+    - file: 'christin-hume-hBuwVLcYTnA-unsplash.jpg'
+      source: 'https://unsplash.com/photos/person-using-macbook-hBuwVLcYTnA'
+      author: 'Christin Hume'
 ---
 
 **¿Ha elaborado ya su presupuesto para el próximo año?** Si no es así, ha llegado el momento: cuanto antes sepa de cuánto dinero dispone, con mayor precisión podrá iniciar las medidas para alcanzar sus objetivos: ¿Quiere contratar a más empleados o está planeando una gran campaña publicitaria? No importa lo que tenga en mente, este artículo le proporcionará valiosos consejos para planificar su presupuesto.
@@ -25,7 +29,7 @@ El siguiente artículo trata de la **planificación presupuestaria en las empres
 
 La presupuestación – también conocida como planificación presupuestaria o asignación presupuestaria – trata, como su nombre indica, de **la asignación de presupuestos y la planificación de recursos**. Por definición, la planificación presupuestaria se realiza para el futuro, normalmente para el ejercicio financiero siguiente. Por un lado, puede determinar el presupuesto para toda la empresa y, por otro, llevar a cabo una **presupuestación detallada para departamentos específicos o proyectos individuales**. El plan presupuestario resultante especifica a dónde debe ir a parar el dinero disponible en la empresa y qué objetivos quiere alcanzar con él y en qué periodo de tiempo.
 
-![empleado realizando la planificación presupuestaria en un ordenador portátil](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
+![empleado realizando la planificación presupuestaria en un ordenador portátil](christin-hume-hBuwVLcYTnA-unsplash.jpg)
 
 ## Ventajas de la planificación presupuestaria prospectiva
 

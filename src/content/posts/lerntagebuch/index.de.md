@@ -11,7 +11,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Bildung'
+    - 'Alltag & Freizeit'
 color: '#f1c449'
 register:
    show: true

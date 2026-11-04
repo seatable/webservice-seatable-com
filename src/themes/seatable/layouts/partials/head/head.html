@@ -92,7 +92,7 @@
         {{ end }}
     {{- end }}
 
-    {{- if or (eq .TranslationKey "/pages/prices") (strings.HasPrefix .TranslationKey "/pages/landing-pages") (strings.HasPrefix .TranslationKey "/templates") }}
+    {{- if or (eq .TranslationKey "/pages/prices") (eq .TranslationKey "/pages/functions") (strings.HasPrefix .TranslationKey "/pages/landing-pages") (strings.HasPrefix .TranslationKey "/templates") }}
         {{ partial "structured-data/pricing.html" . }}
     {{- end }}
 

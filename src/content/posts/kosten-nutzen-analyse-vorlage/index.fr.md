@@ -16,6 +16,13 @@ tags:
     - 'Gestion des données & visualisation'
     - 'Finances'
 color: '#e45706'
+image_sources:
+    - file: 'sasun-bughdaryan-njiadDwbgaM-unsplash.jpg'
+      source: 'https://unsplash.com/photos/calculator-magnifying-glass-and-chart-with-gears-on-paper-njiadDwbgaM'
+      author: 'Sasun Bughdaryan'
+    - file: 'tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-sitting-on-chair-wearing-gray-crew-neck-long-sleeved-shirt-using-apple-magic-keyboard-CPs2X8JYmS8'
+      author: 'Tim van der Kuip'
 ---
 
 Dans le quotidien d'une entreprise, il n'est pas toujours facile de prendre les bonnes décisions. Vous devez tenir compte de nombreux aspects et facteurs et, souvent, évaluer l'impact de certaines mesures sans disposer de données empiriques. Le succès de votre entreprise dépend en particulier d'une chose : la base sur laquelle vos décisions sont prises. Heureusement, vous pouvez fonder vos décisions sur une base solide grâce à une **analyse coûts-bénéfices**.
@@ -28,9 +35,9 @@ Une analyse coûts-bénéfices, en abrégé ACB (en anglais CBA, cost benefit an
 
 L'avantage ici est que vous pouvez regrouper tous les **facteurs et effets liés à un investissement** dans une seule base de données et ainsi ne pas perdre la vue d'ensemble. En effet, dans le cas de [grands projets]({{< relref "templates/projects/work-breakdown-structure" >}}), il existe une multitude de critères objectifs, mais aussi subjectifs, qui ont des répercussions très différentes sur l'ACB. Un modèle vous aide à garder un œil sur tous ces aspects.
 
-![Modèle imprimé pour une analyse coûts-bénéfices.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Modèle imprimé pour une analyse coûts-bénéfices.](sasun-bughdaryan-njiadDwbgaM-unsplash.jpg)
 
-Profitez d'une analyse coûts-bénéfices. Droits d'image : amazing studio / Adobe Stock
+Profitez d'une analyse coûts-bénéfices. Droits d'image : © Sasun Bughdaryan / Unsplash
 
 ## Où utiliser l'analyse coûts-bénéfices ?
 
@@ -49,9 +56,9 @@ En principe, une analyse coûts-bénéfices est toujours appropriée lorsque des
 - introduisez de nouveaux processus de gestion d'entreprise
 - souhaitez augmenter votre [parc de véhicules]({{< relref "posts/fuhrparkmanagement" >}})
 
-![Un collaborateur établit un modèle d'analyse coûts-bénéfices.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Un collaborateur établit un modèle d'analyse coûts-bénéfices.](tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg)
 
-Un employé effectue une analyse coûts-bénéfices. Droits d'image : Andrey Popov / Adobe Stock
+Un employé effectue une analyse coûts-bénéfices. Droits d'image : © Tim van der Kuip / Unsplash
 
 ## Les avantages que vous procure une analyse coûts-bénéfices
 

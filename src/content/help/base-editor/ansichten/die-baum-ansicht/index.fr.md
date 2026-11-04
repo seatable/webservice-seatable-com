@@ -22,6 +22,9 @@ Pour que la vue arborescente soit utile, vous devez disposer d'une base avec **a
 
 {{< /warning >}}
 
+**Dans cette vidéo tutoriel, nous allons vous montrer en quelques minutes seulement comment créer une vue arborescente dans SeaTable (avec des sous-titres en français).**
+{{< youtube DV1BCXDH8nM >}}
+
 ## Fonctionnement de la vue arborescente
 
 Avant de créer une vue arborescente, vous devez réfléchir à la **arborescence** (c'est-à-dire la hiérarchie d'enregistrements liés dans votre base) qui a du sens : Par exemple, pour un [portefeuille de projets]({{< relref "templates/projects/project-portfolio" >}}), cela pourrait être les départements au premier niveau, les projets au deuxième niveau et les tâches au troisième niveau. En conséquence, les départements, les projets et les tâches doivent être saisis dans trois tables différentes, qui sont liées entre elles. Chaque tâche est associée à un projet, qui est lui-même subordonné à un service.

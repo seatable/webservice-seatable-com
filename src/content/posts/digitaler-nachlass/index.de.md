@@ -131,6 +131,8 @@ Eine andere Datenbank-Software, mit der Sie Ihren digitalen Nachlass übersichtl
 
 Wenn Sie den Passwort-Manager von SeaTable für Ihren digitalen Nachlass nutzen möchten, können Sie sich [die Vorlage hier ansehen]({{< relref "templates/everyday-life/password-manager" >}}). Bei Interesse [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos und erstellen eine Übersicht mit Ihren eigenen Daten.
 
+In Unternehmen behalten IT-Abteilungen Zugänge, Lizenzen und Geräte im Blick. Wie das gelingt, zeigt das [IT-Service-Management mit SeaTable]({{< relref "pages/landing-pages/industry-solutions/software-development" >}}).
+
 ## Fazit: Ein digitaler Nachlass ist wichtiger denn je
 
 Heutzutage hat jeder von uns dutzende Online-Accounts. Damit Ihre Angehörigen im Fall der Fälle auf Ihre Benutzerkonten zugreifen können, sollten Sie rechtzeitig vorsorgen. Deshalb ist ein digitaler Nachlass, in dem Sie all Ihre Zugangsdaten dokumentieren, wichtiger denn je.

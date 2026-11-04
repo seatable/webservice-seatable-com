@@ -147,6 +147,8 @@ Sobald Ihre Feier nur noch wenige Tage entfernt ist, ist es Zeit für einen fina
 
 Haben Sie in bestimmten Bereichen noch Nachholbedarf? Kein Problem! Viele Dinge lassen sich auch noch wenige Tage vor Ihrer Party regeln. Sie sind alle Punkte durchgegangen und haben keine ausstehenden [To-dos]({{< relref "templates/projects/to-do-list" >}}) mehr gefunden? Dann ist für Ihre Party alles bestens vorbereitet und uns bleibt nichts anderes übrig, als Ihnen eine unvergessliche Geburtstagsfeier zu wünschen!
 
+Dieselben Schritte helfen auch bei Feiern im Unternehmen: Wie eine gelungene Firmenfeier organisiert wird, zeigt unser Beitrag zur [Weihnachtsfeier im Unternehmen]({{< relref "posts/weihnachtsfeier" >}}).
+
 ## Fazit
 
 Eine Geburtstagsfeier planen und organisieren – was für viele nach einem Kinderspiel klingt, stellt sich aus eigener Erfahrung oftmals als langwieriger und mühevoller Prozess heraus. Denn wer eine einzigartige und unvergessliche Party veranstalten möchte, muss sich möglichst früh um alle wichtigen Vorbereitungen kümmern. Bei all dem Stress kann es schnell passieren, dass man eine wichtige Person bei der Planung vergisst, zu wenig Speisen und Getränke bestellt oder sein zur Verfügung stehendes Budget aus den Augen verliert.

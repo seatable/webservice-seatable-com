@@ -15,6 +15,16 @@ categories:
 tags:
     - 'Compras y logística'
 color: '#bed8cb'
+image_sources:
+    - file: 'cova-software-r--jcbaXgek-unsplash.jpg'
+      source: 'https://unsplash.com/photos/two-men-in-a-store-looking-at-a-tablet-r--jcbaXgek'
+      author: 'Cova Software'
+    - file: 'thestandingdesk-pn6tf73O2As-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-in-blue-polo-shirt-using-laptop-computer-pn6tf73O2As'
+      author: 'TheStandingDesk'
+    - file: 'lukas-blazek-mcSDtbWXUZU-unsplash.jpg'
+      source: 'https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU'
+      author: 'Lukas Blazek'
 ---
 
 Importe una lista de inventario a Excel o cree su propia plantilla en Word. Descubra qué ventajas ofrece una base de datos gratuita como SeaTable frente a Excel y Word.
@@ -27,9 +37,9 @@ Puede utilizar una lista de inventario para registrar las existencias de su empr
 
 Todo comerciante y toda empresa que esté obligada a llevar una contabilidad por partida doble debe realizar un inventario. Debe realizarse tanto en el momento de la apertura de la empresa como después de cada ejercicio. Se trata de registrar las existencias y elaborar un inventario.
 
-![Trabajador de almacén utiliza iPad con lista de inventario.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Trabajador de almacén utiliza iPad con lista de inventario.](cova-software-r--jcbaXgek-unsplash.jpg)
 
-Utilice una lista de inventario digital para registrar sus existencias. Derechos de imagen: tradol / Adobe Stock
+Utilice una lista de inventario digital para registrar sus existencias. Derechos de imagen: © Cova Software / Unsplash
 
 ## ¿Cuál es la diferencia entre el recuento de inventario y el inventario?
 
@@ -54,9 +64,9 @@ Además, marca la diferencia **cuándo** crea su inventario:
 - Por eso también existe el **inventario aplazado**. Con esta forma de inventario, puede realizarlo con flexibilidad el día que elija, como máximo tres meses antes o dos meses después de la fecha del balance. Sin embargo, como después debe actualizar o retrocalcular las existencias utilizando las entradas y salidas de la lista de inventario, el inventario aplazado es menos preciso que el inventario en fecha clave.
 - En cambio, el **inventario permanente** es un proceso continuo con la ventaja de que el esfuerzo se reparte uniformemente a lo largo del año y basta con un inventario contable en la fecha del balance. No obstante, es necesario realizar un inventario físico de todos los activos una vez al año para comparar las existencias reales con las existencias contables. A continuación, debe documentar con precisión todas las altas y bajas en la lista de inventario para actualizar las existencias a efectos contables.
 
-![Trabajador de almacén hace inventario en Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Trabajador de almacén hace inventario en Excel.](thestandingdesk-pn6tf73O2As-unsplash.jpg)
 
-Debe comparar periódicamente su lista de inventario con las existencias reales. Derechos de imagen: zephyr_p / Adobe Stock
+Debe comparar periódicamente su lista de inventario con las existencias reales. Derechos de imagen: © TheStandingDesk / Unsplash
 
 ## ¿Por qué es importante elaborar una lista de inventario?
 
@@ -88,9 +98,9 @@ Un programa que ya utilizan muchas empresas es Excel. Con él puede crear una **
 
 Si ya dispone de una lista de inventario como plantilla de Excel, puede utilizarla una y otra vez con sólo unos clics. Para ello, duplique el archivo existente antes de abrirlo en Excel.
 
-![Excel para una lista de inventario.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel para una lista de inventario.](lukas-blazek-mcSDtbWXUZU-unsplash.jpg)
 
-Las hojas de cálculo de Excel son populares para las listas de inventario. Derechos de autor de la imagen: PixieMe / Adobe Stock
+Las hojas de cálculo de Excel son populares para las listas de inventario. Derechos de autor de la imagen: © Lukas Blazek / Unsplash
 
 Si aún no dispone de una lista de inventario en Excel, cree la suya sin más dilación: abra un documento Excel nuevo y vacío. Piense **qué encabezados de columna necesita para su lista de inventario** (por ejemplo, número de identificación, nombre, ubicación, cantidad y valor) y escríbalos.
 

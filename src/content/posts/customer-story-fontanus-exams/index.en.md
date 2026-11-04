@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Public Sector'
 color: '#f4ba81'
-url: '/johannes-fontanus-college-exam administration'
+url: '/johannes-fontanus-college-exam-administration'
 register:
    show: true
 ---

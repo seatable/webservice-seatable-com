@@ -16,6 +16,13 @@ seo:
     description: "Uma campanha de marketing é tão boa quanto o seu planeamento – aqui tem 6 dicas para uma preparação perfeita!"
 register:
    show: true    
+image_sources:
+    - file: 'vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg'
+      source: 'https://unsplash.com/photos/woman-working-on-laptop-in-modern-office-with-team-sOwh2ZHMGRQ'
+      author: 'Vitaly Gariev'
+    - file: 'campaign-creators-gMsnXqILjp4-unsplash.jpg'
+      source: 'https://unsplash.com/photos/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4'
+      author: 'Campaign Creators'
 ---
 
 ## O que é uma campanha de marketing?
@@ -26,7 +33,7 @@ As campanhas de marketing são sequências de atividades de marketing estrategic
 
 Os termos campanha de marketing e estratégia de marketing são por vezes utilizados indistintamente. No entanto, eles significam duas coisas diferentes. Uma diferença crucial é a componente temporal. Enquanto a estratégia é uma abordagem planeada a longo prazo para implementar os objetivos de marketing, a campanha é uma **ação limitada no tempo** no âmbito desta mesma estratégia. Uma estratégia pode incluir muitas campanhas de marketing ou campanhas publicitárias diferentes durante um longo período de tempo. Isto significa que uma estratégia bem desenvolvida é a condição prévia para que possa começar a planear a sua campanha de marketing.
 
-![Empregado assume o planeamento da campanha de marketing](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Empregado assume o planeamento da campanha de marketing](vitaly-gariev-sOwh2ZHMGRQ-unsplash.jpg)
 
 ## Seis passos para o sucesso – como planear com sucesso a sua campanha de marketing
 
@@ -51,7 +58,7 @@ Não há praticamente nenhuma ideia que não tenha sido pensada antes. Por outra
 
 Campanhas publicitárias bem-sucedidas exigem **responsabilidades claras dentro da equipa**. Isto porque as campanhas de marketing funcionam melhor quando todos sabem o que têm de fazer e quando. Uma vez definidos os [objetivos do projeto]({{< relref "templates/projects/project-plan" >}}), o grupo-alvo e a análise de mercado, o passo seguinte é atribuir as áreas de responsabilidade dentro da equipa e o orçamento. Não se esqueça de estabelecer prazos e marcos e – muito importante – definir **métricas para posterior análise de desempenho**.
 
-![A equipa de marketing discute a abordagem ao planeamento da campanha](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![A equipa de marketing discute a abordagem ao planeamento da campanha](campaign-creators-gMsnXqILjp4-unsplash.jpg)
 
 ### 5\. Juntar medidas e conteúdo ao planear a campanha de marketing
 

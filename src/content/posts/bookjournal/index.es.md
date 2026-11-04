@@ -84,6 +84,8 @@ Además, puede aplicar a cada libro los mismos criterios de valoración, como tr
 
 ![Unas manos apoyan una pila de libros contra una ventana.](buchreihe.png)
 
+Registrar el conocimiento de forma estructurada también merece la pena en equipo: nuestro artículo sobre la [gestión del conocimiento]({{< relref "posts/wissensmanagement" >}}) muestra cómo las empresas hacen que el conocimiento sea utilizable.
+
 ## Así lleva un book journal con SeaTable
 
 La forma más sencilla de empezar es con la [plantilla de book journal]({{< relref "templates/everyday-life/digital-book-journal" >}}) gratuita de **SeaTable**. En ella encontrará ya una tabla estructurada para sus libros y podrá comenzar de inmediato con su diario de lectura digital. Para cada título puede registrar datos importantes como autor, género, estado de lectura, fecha de inicio, fecha de finalización y valoración. También puede añadir una puntuación con estrellas y notas personales. La plantilla se adapta en cualquier momento a sus propios hábitos de lectura y se puede ampliar con más columnas.

@@ -118,6 +118,8 @@ Ao registar tudo no seu bullet journal, pode verificar a qualquer momento o que 
 
 Para o seu inventor, Ryder Carroll, o importante é que o bullet journal melhore a sua vida. Não há certo nem errado quando se trata de [aproveitar a vida aqui e agora]({{< relref "posts/dankbarkeitstagebuch" >}}). Isto inclui que o journaling lhe proporcione uma [pausa do stress do dia a dia]({{< relref "posts/digital-detox" >}}) e lhe permita refletir sobre a sua vida. Para algumas pessoas, a escrita criativa pode ter um **efeito meditativo**. Além disso, o seu bullet journal envolve muito trabalho. É algo feito por si, o que aumenta o seu valor emocional e facilita a persistência.
 
+Em equipa, as tarefas não basta anotá-las, é preciso distribuí-las: o nosso artigo sobre a [gestão de tarefas]({{< relref "posts/aufgabenverwaltung" >}}) mostra como as equipas planeiam em conjunto tarefas e recursos.
+
 ## Modelo para o seu bullet journal digital
 
 Uma alternativa ao caderno analógico é um **bullet journal digital**. O SeaTable oferece-lhe uma solução simples e eficaz para criar os seus calendários, listas e trackers em formato digital e reorganizá-los de forma flexível com apenas alguns cliques. Adapte o [modelo gratuito]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) às suas necessidades e acrescente as suas próprias ideias. O bullet journal inclui um habit tracker integrado, que é um complemento prático ao seu diário. Trabalhe com cores, símbolos e imagens para personalizar o seu diário.

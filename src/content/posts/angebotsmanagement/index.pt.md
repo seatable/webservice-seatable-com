@@ -14,6 +14,13 @@ color: '#66a7a3'
 seo:
     title: 'Otimizar a gestão dos concursos - a solução informática'
     description: 'Optimize a gestão das suas ofertas Automatize os processos de venda, gira os dados de forma centralizada e mantenha uma visão geral em todos os momentos.'
+image_sources:
+    - file: 'jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg'
+      source: 'https://unsplash.com/photos/office-desk-with-smartphone-and-financial-charts-heiYgqp0Tsk'
+      author: 'Jakub Żerdzicki'
+    - file: 'vitaly-gariev-BXLy_lXu5j0-unsplash.jpg'
+      source: 'https://unsplash.com/photos/a-woman-talking-on-a-cell-phone-while-using-a-laptop-BXLy_lXu5j0'
+      author: 'Vitaly Gariev'
 ---
 
 Uma coisa é crucial para um trabalho de vendas bem sucedido: a **gestão da oferta**. Mas o que é importante aqui? Que erros não devem ser cometidos em circunstância alguma? E o que está por detrás do termo "gestão da oferta", afinal?
@@ -52,9 +59,9 @@ Após as discussões iniciais com o potencial novo cliente, conhece as suas "nec
 - Preparação de uma oferta escrita
 - Envio da oferta escrita ao cliente
 
-![O empregado calcula o preço no âmbito da gestão da oferta](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![O empregado calcula o preço no âmbito da gestão da oferta](jakub-zerdzicki-heiYgqp0Tsk-unsplash.jpg)
 
-Gestão da oferta © Antonioguillem / adobe stock
+Gestão da oferta © Jakub Żerdzicki / Unsplash
 
 ### 3\. o seguimento
 
@@ -93,9 +100,9 @@ Outro erro comum na gestão da oferta é que o vendedor não se preparou suficie
 
 A gestão perfeita da oferta também significa que o cliente dá seguimento após algum tempo, se o cliente não lhe voltar a contactar por conta própria. Desta forma, não só demonstra que o cliente é importante para si (fidelidade do cliente), como também pode esclarecer possíveis ambiguidades ou questões directamente e ajustar novamente a oferta, se necessário.
 
-![O representante de vendas faz uma chamada telefónica para o cliente potencial como parte da sua gestão de ofertas.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![O representante de vendas faz uma chamada telefónica para o cliente potencial como parte da sua gestão de ofertas.](vitaly-gariev-BXLy_lXu5j0-unsplash.jpg)
 
-Gestão da oferta © Patrick Daxenbichler / adobe stock
+Gestão da oferta © Vitaly Gariev / Unsplash
 
 ## Software para uma melhor gestão do abastecimento
 
@@ -109,4 +116,3 @@ Se procura o pacote completo e despreocupado para a gestão da sua oferta, o [Se
 
 Com SeaTable, pode gerir CRM e apoio ao cliente, bem como a gestão da cadeia de fornecimento centralizada num único local e disponibilizá-los a todos os empregados sem qualquer esforço adicional. Desta forma, todos conhecem sempre o estado actual de cada oferta. E: utilizando a linha do tempo e o quadro Kanban, pode [facilmente visualizar e cumprir os prazos]({{< relref "templates/projects/project-plan" >}}). É assim que se lançam as bases para um trabalho de vendas verdadeiramente bem sucedido.
 
-Fonte da imagem Imagem Imagem da capa: © contrastwerkstatt/Adobe Stock

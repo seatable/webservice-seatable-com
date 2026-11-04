@@ -81,6 +81,8 @@ Combine a aborrecida limpeza com ouvir música ou ver séries. Com um pouco de d
 
 Mas tenha cuidado para não se distrair demasiado – a limpeza deve continuar a ser a sua principal ocupação. Ou aproveite a presença dos seus colegas de casa e façam juntos as tarefas mais exigentes. Outra opção é encarar tudo isto de forma lúdica. Por exemplo, pode introduzir recompensas ou castigos para incentivar os seus colegas de casa a darem o seu melhor.
 
+Quem faz o quê e quando é também uma questão central na empresa: o nosso artigo sobre o [planeamento do pessoal]({{< relref "posts/personalplanung" >}}) dá dicas para escalas e afetação de pessoal.
+
 ## Plano de limpeza online da SeaTable
 
 Há muito para planear quando se trata de tarefas domésticas, especialmente se quiser envolver várias pessoas. Para não perder a visão geral, a equipa da SeaTable criou para si um [modelo de plano de limpeza]({{< relref "templates/everyday-life/cleaning-plan" >}}). Pode adaptá-lo às suas necessidades como desejar. Por exemplo, ao atribuir claramente as tarefas a uma pessoa responsável, vê num relance que tarefas tem de fazer, quais cabem aos seus colegas de casa e se estão distribuídas de forma justa.

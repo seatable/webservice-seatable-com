@@ -92,6 +92,8 @@ The digital medication plan is also impressive when it comes to data protection.
 
 ![A woman shows an older man something on a laptop](warum-digitaler-medikationsplan.jpg)
 
+In professional care, medication plans are part of everyday documentation. How a care service organizes this digitally is shown in our customer story [KD Cura: digital pioneering in the care service]({{< relref "posts/kd-cura-pflegedienst" >}}).
+
 ## Medication plan with SeaTable
 
 The free medication schedule template from SeaTable makes it easy to take your medication correctly. Instead of a confusing box of medication or a printed list that can quickly get lost, you can record all relevant information centrally and digitally. This means you can easily create and update your medication list on an ongoing basis.

@@ -149,6 +149,8 @@ If you move for private reasons, you cannot deduct moving costs from your taxes.
 
 A move for medical reasons counts as an extraordinary burden. You can also claim it in your tax return, but only with detailed proof of your health situation.
 
+An office move in a company is a project of its own with many tasks and deadlines. How teams keep track of such projects is shown by our [project management tool]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
+
 ## Online planner for your move
 
 To make your next move as stress-free as possible, the SeaTable team has created a template for your moving plan. You can adapt it to your needs as you wish.

@@ -119,6 +119,8 @@ Because you write everything down in your bullet journal, you can check at any t
 
 For its inventor, Ryder Carroll, what matters is that the bullet journal improves your life. There is no right or wrong when it comes to [enjoying life in the here and now]({{< relref "posts/dankbarkeitstagebuch" >}}). This includes journaling giving you a [break from everyday stress]({{< relref "posts/digital-detox" >}}) and a chance to reflect on your life. For some people, creative writing can have a **meditative effect**. What's more, a lot of work goes into your bullet journal. It is something you made yourself, which increases its emotional value and makes it easier to stick with it.
 
+In a team, tasks have to be shared rather than just noted down: our article on [task management]({{< relref "posts/aufgabenverwaltung" >}}) shows how teams plan tasks and resources together.
+
 ## Template for your digital bullet journal
 
 An alternative to the analog notebook is a **digital bullet journal**. SeaTable offers you a simple and effective way to design your calendars, lists and trackers digitally and to restructure them flexibly with just a few clicks. Adapt the [free template]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) to your needs and add your own ideas. The bullet journal includes an integrated habit tracker, which is a practical addition to your journal. Work with colors, symbols and images to give your journal a personal touch.

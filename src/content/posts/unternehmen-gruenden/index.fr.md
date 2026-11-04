@@ -5,7 +5,9 @@ seo:
     title: "Créer une entreprise, c'est facile - expliqué étape par étape"
     description: 'Devenir indépendant signifie oser faire le pas vers la liberté et réussir à mettre en œuvre votre idée commerciale. Découvrez comment démarrer de manière structurée dès le début et surmonter les obstacles typiques avec assurance.'
 date: 2025-09-25
-url: “/fr/creation-d-entreprise“
+url: '/fr/creation-d-entreprise'
+aliases:
+  - '/fr/“/fr/creation-d-entreprise“'
 tags:
     - 'Créer son entreprise'
 categories:

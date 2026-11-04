@@ -211,6 +211,8 @@ And the best part: you can use the [SeaTable Cloud]({{< relref "pages/product/se
 
 {{< button label="Register now for free" link="/pages/registration" >}}
 
+Focus matters at work too, especially when working from home: practical advice can be found in our [tips for the home office]({{< relref "posts/homeoffice-tipps" >}}).
+
 ## Conclusion: Long-Term Habits Instead of Short-Term Abstinence
 
 A digital detox is not a short-term challenge but a **conscious decision in favor of more balance in life**. When you regularly take digital breaks, you reduce sensory overload, improve your concentration and strengthen your mental health. Whether through a social media detox, a planned digital detox vacation or regular offline activities in everyday life, even small changes can make a big difference. The most valuable digital detox experiences usually do not come from completely giving up digital media, but from mindful use and a change of habits.
