@@ -97,10 +97,10 @@ Une affaire en négociation pèse ainsi davantage qu'une affaire encore en phase
 
 Le tableau `Customers` est livré avec deux vues conçues pour des usages différents.
 
-- `{{< seatable-icon icon="dtable-icon-main-view" >}} All customers` montre tout, y compris la colonne confidentielle `Total Deal Value`. C'est la vue interne et complète de l'équipe commerciale.
-- `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` est une vue allégée : elle se concentre sur les clients actuels et masque les chiffres confidentiels. C'est la version qu'on peut partager sans risque avec une autre équipe.
-    - Filtre : `{{< seatable-icon icon="dtable-icon-single-election" >}} Status` ne contient aucun `Churned`
-    - Colonnes masquées : `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Created`, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Deals`, `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Total Deal Value`
+- `{{< seatable-icon icon="dtable-icon-main-view" >}} All customers` montre tout, y compris la colonne confidentielle `Total Deal Value`. C'est la vue interne et complète de l'équipe commerciale ;
+- `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` est une vue allégée : elle se concentre sur les clients actuels et masque les chiffres confidentiels. C'est la version qu'on peut partager sans risque avec une autre équipe :
+    - filtre : `{{< seatable-icon icon="dtable-icon-single-election" >}} Status` ne contient aucun `Churned` ;
+    - colonnes masquées : `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Created`, `{{< seatable-icon icon="dtable-icon-link-other-record" >}} Deals`, `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Total Deal Value`.
 
 Dans SeaTable, une vue n'est qu'un regard particulier sur la totalité des données d'un tableau : les lignes sont stockées à un seul endroit, et chaque vue décide de ce qu'elle montre, masque, filtre et regroupe. Cette distinction vous servira dans les étapes suivantes : vous partagez une **vue**, pas un accès brut à l'ensemble des données, et vous publierez plus tard `{{< seatable-icon icon="dtable-icon-main-view" >}} Active customers` pour une autre équipe, sous forme de données toujours à jour.
 

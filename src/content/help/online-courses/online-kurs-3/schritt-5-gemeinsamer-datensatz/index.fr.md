@@ -14,9 +14,9 @@ seo:
 {{< accordion "Vous reprenez après une pause ?" >}}
 Voici où vous en êtes :
 
-- Votre base `Sales CRM` se trouve dans le groupe `Commercial`, et vous l'avez partagée avec Malika en `Lecture / écriture` (étapes 1 et 2).
-- Vous avez parlé de `James Bennett` avec elle dans un fil de commentaires : elle a remplacé `Industry` par `Technology`, et vous avez clos la discussion (étape 3).
-- Vous avez retrouvé sa modification de `Status` dans le journal de la base et l'avez annulée, tandis que votre correction ultérieure du numéro de téléphone restait en place (étape 4).
+- votre base `Sales CRM` se trouve dans le groupe `Commercial`, et vous l'avez partagée avec Malika en `Lecture / écriture` (étapes 1 et 2) ;
+- vous avez parlé de `James Bennett` avec elle dans un fil de commentaires : elle a remplacé `Industry` par `Technology`, et vous avez clos la discussion (étape 3) ;
+- vous avez retrouvé sa modification de `Status` dans le journal de la base et l'avez annulée, tandis que votre correction ultérieure du numéro de téléphone restait en place (étape 4).
 
 Pour reprendre, vous pouvez également rouvrir `Sales CRM` et lancer le plugin de cours en ligne : la liste d'étapes vous permet de voir où vous en êtes et de vous remémorer les étapes précédentes.
 {{< /accordion >}}

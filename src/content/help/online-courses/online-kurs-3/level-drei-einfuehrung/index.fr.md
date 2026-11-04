@@ -66,9 +66,9 @@ Le quiz, les captures d'écran et les données d'exemple sont en anglais. Nous v
 
 Outre le plugin présenté plus haut, prévoyez :
 
-- **Deux groupes (étapes 1 et 5)** : vous créerez le groupe `Commercial` à l'étape 1 et le groupe `Marketing` à l'étape 5.
-- **Un second membre dans votre équipe (étape 2)** : votre collègue sera un second compte de votre équipe, que vous inviterez à l'étape 2. Rien à préparer d'ici là.
-- **Le tableau blanc (étape 6)** : sur une instance auto-hébergée, le plugin tableau blanc nécessite un composant à part, que votre administrateur système devra peut-être [installer](https://admin.seatable.com/installation/components/whiteboard/) au préalable.
+- **deux groupes (étapes 1 et 5)** : vous créerez le groupe `Commercial` à l'étape 1 et le groupe `Marketing` à l'étape 5 ;
+- **un second membre dans votre équipe (étape 2)** : votre collègue sera un second compte de votre équipe, que vous inviterez à l'étape 2. Rien à préparer d'ici là ;
+- **le tableau blanc (étape 6)** : sur une instance auto-hébergée, le plugin tableau blanc nécessite un composant à part, que votre administrateur système devra peut-être [installer](https://admin.seatable.com/installation/components/whiteboard/) au préalable.
 
 {{< warning headline="Si vous n'êtes pas administrateur d'équipe" text="Créer des groupes et inviter un membre dépend de votre rôle dans l'équipe. Si vous ne pouvez pas faire l'un ou l'autre, demandez d'un coup les trois éléments à votre administrateur d'équipe (le groupe Commercial, le second membre et le groupe Marketing) : ce faisant, rien ne vous bloquera à mi-parcours." />}}
 
@@ -77,7 +77,7 @@ Outre le plugin présenté plus haut, prévoyez :
 
 Vous gardez le même rôle du début à la fin du cours, aux côtés d'une collègue :
 
-- **Vous (Commercial)** : c'est vous qui gérez la liste des clients de l'entreprise. Dans les journaux de SeaTable, ce compte apparaît sous votre propre nom ; dans les captures d'écran du cours, le nom affiché est **Commercial**.
+- **vous (Commercial)** : c'est vous qui gérez la liste des clients de l'entreprise. Dans les journaux de SeaTable, ce compte apparaît sous votre propre nom ; dans les captures d'écran du cours, le nom affiché est **Commercial** ;
 - **Malika (Marketing)** : responsable marketing, elle a besoin de consulter, de commenter et de réutiliser vos données. À partir de l'étape 2, elle dispose d'un second compte dans votre équipe, et c'est le plugin qui agit à sa place : vous voyez ce qu'elle fait, et ce qu'elle voit, sans quitter votre fenêtre.
 
 Qu'attendons-nous ? C'est parti !
