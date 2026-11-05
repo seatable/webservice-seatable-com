@@ -3,7 +3,7 @@ title: 'Automatización de IA para su empresa sin riesgos para los datos'
 description: ''
 seo:
     title: 'Descubra las ventajas de la automatización mediante IA | SeaTable'
-    description: 'Aumente su eficiencia y productividad con nuestras soluciones de IA para empresas. ¡Obtenga más información sobre la automatización de IA!'
+    description: 'Automatizaciones de IA sin programar: resumir y clasificar textos, extraer datos y OCR directamente en la base de datos no-code. Servidor de IA propio en Alemania, los datos permanecen en la UE.'
 date: '2026-03-04'
 url: '/es/automatizacion-de-ia'
 
@@ -51,7 +51,7 @@ sections:
       
       - icon: shield
         headline: Datos y gobernanza
-        text: "Todas las acciones de IA se llevan a cabo dentro de la infraestructura de SeaTable en servidores europeos, se documentan y son auditables, lo que supone una ventaja significativa frente a las herramientas externas."
+        text: "Las automatizaciones de IA se ejecutan en el servidor de IA propio de SeaTable en Alemania. Cada ejecución queda anotada en el registro de ejecución de la automatización, lo que supone una ventaja significativa frente a las herramientas externas."
         
     - name: content-12
       weight: 3
@@ -63,10 +63,10 @@ sections:
       description: 'SeaTable es la [solución no-code de IA]({{< relref "/" >}}) perfecta para las empresas que buscan una **gestión de datos moderna con flujos de trabajo personalizados basados en IA**. Combina automatizaciones basadas en IA, un creador de aplicaciones y una base de datos relacional en un solo sistema.'
       items:
         - text: "**Fácil implementación** sin necesidad de TI gracias a la tecnología no-code"
-        - text: "Transparencia y documentación mediante **registros de uso de IA**"
+        - text: "Transparencia gracias al **registro de ejecución** de cada automatización"
         - text: "**Visualizaciones y paneles de control** para la supervisión y la elaboración de informes"
         - text: "**Como modelo en la nube o autohospedado**: utilice SeaTable según sus requisitos de cumplimiento normativo"
-        - text: "Uso de IA conforme al RGPD con **servidores europeos con licencia**"
+        - text: "Automatizaciones de IA conformes al RGPD en el **servidor de IA propio de SeaTable en Alemania**"
         - text: "**Mejora de la colaboración** en equipo gracias a la función de chat integrada y a las notificaciones"
       image: /images/landing_page_ki-automatisierung_01.png
       image_alt: 'Automatizaciones de IA de SeaTable en el editor de automatizaciones'    
@@ -120,15 +120,15 @@ sections:
       weight: 6
       title: Protección de datos y automatizaciones de IA en SeaTable
       subtitle: Control de datos en lugar de pérdida de control
-      text: 'Todos los componentes de SeaTable se alojan exclusivamente en **servidores europeos certificados en Alemania** y cumplen totalmente con el RGPD. Somos un socio fiable para empresas con altos requisitos de protección de datos y cumplimiento normativo que desean evitar las herramientas GPT de acceso público y proteger su [soberanía digital]({{< relref "posts/digitale-souveraenitaet" >}}).'
+      text: '**Las automatizaciones de IA de SeaTable no salen de la UE.** Para ello, SeaTable opera su propio servidor de IA con el modelo de código abierto Gemma 4 E4B en Hetzner, en Fráncfort. Los datos no se transmiten a OpenAI, Google ni a otros proveedores estadounidenses. SeaTable Cloud funciona en centros de datos certificados en Fráncfort y Múnich. Somos un socio fiable para empresas con altos requisitos de protección de datos y cumplimiento normativo que desean evitar las herramientas GPT de acceso público y proteger su [soberanía digital]({{< relref "posts/digitale-souveraenitaet" >}}).'
       items:
       - icon: terminal
         headline: Servidor propio de IA
-        text: "SeaTable aloja su propio modelo de IA en un servidor alemán. Todas las solicitudes de IA se cifran y permanecen en la red de SeaTable."
+        text: "Para las automatizaciones de IA, SeaTable aloja su propio modelo de IA en un servidor alemán. Las solicitudes se transmiten cifradas y permanecen en la red de SeaTable."
 
       - icon: user-plus
         headline: Conforme al RGPD
-        text: SeaTable Cloud se aloja exclusivamente en un servidor suizo certificado en Alemania. Usted mantiene el control sobre sus datos.
+        text: "SeaTable Cloud funciona con el proveedor suizo Exoscale en centros de datos con certificación ISO 27001 en Fráncfort y Múnich. Sus datos no salen de Europa."
 
       - icon: fingerprint
         headline: Sin entrenamiento de modelos
@@ -165,7 +165,9 @@ sections:
           - q: ¿Podemos utilizar nuestros propios modelos de IA?
             a: Los clientes de SeaTable Server pueden utilizar el [componente SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) para conectar diferentes LLM y proveedores a través de una API compatible con OpenAI para sus automatizaciones de IA. Pueden elegir entre modelos autohospedados o GPT en la nube. Los usuarios de SeaTable Cloud aún no pueden conectar sus propios modelos.  
           - q: ¿Están protegidos nuestros datos de conformidad con el RGPD cuando se utiliza la IA?
-            a: Por supuesto, la protección de sus datos es una prioridad para SeaTable y damos mucha importancia a que todos los procesos de IA se desarrollen de conformidad con el RGPD. Por eso alojamos nuestro propio modelo de IA en servidores alemanes. Sus datos se procesan exclusivamente dentro de la infraestructura de SeaTable y no se transmiten a proveedores externos ni se utilizan para entrenar sistemas de IA externos. Si procesa datos especialmente sensibles o debe cumplir requisitos de protección de datos muy estrictos, también puede utilizar SeaTable con la función de IA completamente en sus propias instalaciones.
+            a: Por supuesto, la protección de sus datos es una prioridad para SeaTable y damos mucha importancia a que todos los procesos de IA se desarrollen de conformidad con el RGPD. Por eso alojamos nuestro propio modelo de IA en servidores alemanes para las automatizaciones de IA. En las automatizaciones de IA, sus datos se procesan exclusivamente dentro de la infraestructura de SeaTable y no se transmiten a proveedores externos ni se utilizan para entrenar sistemas de IA externos. Si procesa datos especialmente sensibles o debe cumplir requisitos de protección de datos muy estrictos, también puede utilizar SeaTable con la función de IA completamente en sus propias instalaciones.
+          - q: "¿Se aplica esto también al chat de IA y a los agentes de IA a través de MCP?"
+            a: 'No, aquí decide usted. Para el plugin de chat de IA y para agentes de IA como Claude Desktop, ChatGPT o Cursor, usted elige un proveedor de IA externo, por ejemplo Anthropic, OpenAI o Mistral. Los datos que el chat o el agente consulta para su pregunta se transmiten a este proveedor. Con los permisos del token de API, usted define a qué bases puede acceder el agente y si solo puede leer. Si no desea transmitir datos a proveedores externos, aloje SeaTable usted mismo y conecte un modelo de lenguaje local. Más información en la ayuda: [Permisos y protección de datos al usar agentes de IA]({{< relref "help/ai/ai-agents/data-security" >}}).'
           - q: ¿El uso de la función de IA en SeaTable está incluido en la suscripción?
             a: Sí, la función de IA se puede utilizar sin coste adicional. Sin embargo, si realiza muchas consultas de IA, pueden surgir costes adicionales. Cada usuario de SeaTable recibe, dependiendo del modelo de suscripción, una cuota mensual determinada de créditos de IA gratuitos, necesarios para utilizar la IA en automatizaciones. Solo cuando se superan estos créditos se incurrirá en costes adicionales. 
           - q: ¿Puedo saber para qué se utiliza la automatización mediante IA?
