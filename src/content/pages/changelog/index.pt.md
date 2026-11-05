@@ -37,6 +37,15 @@ sections:
       image: ''
 
     - name: "content-26"
+      weight: 9
+      title: SeaTable Release 7
+      subtitle: Detalhes da versão
+      anchor: release-7
+      items:
+        - text: 'Version **7.0.13** em 6 de novembro de 2026: [Notas da versão 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
+      template: "c9124bcd934b47bc8f30"
+
+    - name: "content-26"
       weight: 10
       title: Lançamento do SeaTable 6
       subtitle: Detalhes da versão

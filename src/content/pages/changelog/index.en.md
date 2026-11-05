@@ -19,14 +19,14 @@ sections:
       text: "We recommend you to subscribe to our newsletter to always get information about the latest and most secure SeaTable server version"
       items:
           - icon: fingerprint
+            headline: 'SeaTable 7'
+            link: '#release-7'
+          - icon: bullseye
             headline: 'SeaTable 6'
             link: '#release-6'
-          - icon: bullseye
-            headline: 'SeaTable 5'
-            link: '#release-5'
           - icon: code
             headline: 'Older versions'
-            link: '#release-4'
+            link: '#release-5'
           
     - name: 'content-11'
       weight: 3
@@ -35,6 +35,15 @@ sections:
       description: 'Privacy and security are inseparable — true privacy cannot exist without robust security measures in place. Protecting your data against unauthorized access, breaches, and misuse is essential for maintaining confidentiality and trust. Staying up to date with the latest security standards and best practices is crucial to ensure your personal and business information remains private and protected.<br><br>
       With SeaTable, you have the flexibility to choose the solution that best fits your privacy and compliance needs. You can opt for our SaaS offering hosted in Europe, which is fully GDPR-compliant and benefits from strict European data protection laws and secure data centers. Alternatively, you can run your own SeaTable server, giving you full control over your data and security infrastructure. Both options are designed to empower you with transparency, compliance, and peace of mind.'
       image: ''
+
+    - name: "content-26"
+      weight: 9
+      title: SeaTable Release 7
+      subtitle: Version details
+      anchor: release-7
+      items:
+        - text: 'Version **7.0.13** on November 6, 2026: [Release Notes Version 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
+      template: "c9124bcd934b47bc8f30"
 
     - name: "content-26"
       weight: 10

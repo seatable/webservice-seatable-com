@@ -19,14 +19,14 @@ sections:
       text: "Мы рекомендуем подписаться на нашу рассылку, чтобы всегда получать информацию о самой новой и безопасной версии сервера SeaTable."
       items:
           - icon: fingerprint
+            headline: 'SeaTable 7'
+            link: '#release-7'
+          - icon: bullseye
             headline: 'SeaTable 6'
             link: '#release-6'
-          - icon: bullseye
-            headline: 'SeaTable 5'
-            link: '#release-5'
           - icon: code
             headline: 'Более старые версии'
-            link: '#release-4'
+            link: '#release-5'
           
     - name: 'content-11'
       weight: 3
@@ -37,14 +37,23 @@ sections:
       image: ''
 
     - name: "content-26"
+      weight: 9
+      title: Выпуск Release 7
+      subtitle: Детали версии
+      anchor: release-7
+      items: 
+        - text: 'Версия **7.0.13** от 6 ноября 2026: [Примечания к выпуску 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
+      template: "c9124bcd934b47bc8f30"
+
+    - name: "content-26"
       weight: 10
       title: Выпуск SeaTable 6
       subtitle: Детали версии
       anchor: release-6
       items:
-        - text: 'Версия **6.0.10** от 16 ноября 2025: [Примечания к выпуску 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
+        - text: 'Версия **6.0.10** от 4 ноября 2025: [Примечания к выпуску 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
         - text: 'Версия **6.1.8** от 20 март 2026: [Примечания к выпуску 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}})'
-        - text: 'Версия **6.2.12** от 16 июль 2026: [Примечания к выпуску 6.2]({{< relref "posts/seatable-releases/seatable-release-6-2" >}})'
+        - text: 'Версия **6.2.12** от 21 июль 2026: [Примечания к выпуску 6.2]({{< relref "posts/seatable-releases/seatable-release-6-2" >}})'
       template: "c9124bcd934b47bc8f30"
 
     - name: "content-26"

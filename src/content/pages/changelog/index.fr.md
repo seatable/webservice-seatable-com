@@ -19,14 +19,14 @@ sections:
       text: "Nous vous recommandons de vous abonner à notre newsletter pour toujours recevoir des informations sur la dernière version la plus récente et la plus sécurisée de SeaTable Server"
       items:
           - icon: fingerprint
+            headline: 'SeaTable 7'
+            link: '#release-7'
+          - icon: bullseye
             headline: 'SeaTable 6'
             link: '#release-6'
-          - icon: bullseye
-            headline: 'SeaTable 5'
-            link: '#release-5'
           - icon: code
             headline: 'Versions antérieures'
-            link: '#release-4'
+            link: '#release-5'
 
     - name: 'content-11'
       weight: 3
@@ -35,6 +35,15 @@ sections:
       description: "La confidentialité et la sécurité sont indissociables — une véritable confidentialité ne peut exister sans des mesures de sécurité robustes. Protéger vos données contre les accès non autorisés, les   violations et les abus est essentiel pour maintenir la confidentialité et la confiance. Rester à jour avec les dernières normes de sécurité et les meilleures pratiques est crucial pour garantir que vos informations personnelles et professionnelles restent privées et protégées.<br><br>
       Avec SeaTable, vous avez la flexibilité de choisir la solution qui correspond le mieux à vos besoins en matière de confidentialité et de conformité. Vous pouvez opter pour notre offre SaaS hébergée en Europe, qui est entièrement conforme au RGPD et bénéficie de lois européennes strictes sur la protection des données et de centres de données sécurisés. Alternativement, vous pouvez exécuter votre propre serveur SeaTable, ce qui vous donne un contrôle total sur vos données et votre infrastructure de sécurité. Les deux options sont conçues pour vous offrir transparence, conformité et tranquillité d’esprit."
       image: ''
+
+    - name: "content-26"
+      weight: 9
+      title: SeaTable Release 7
+      subtitle: Détails de la version
+      anchor: release-7
+      items:
+        - text: 'Version **7.0.13** le 6 novembre 2026: [Notes de version 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
+      template: "c9124bcd934b47bc8f30"
 
     - name: "content-26"
       weight: 10
