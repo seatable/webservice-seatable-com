@@ -1,12 +1,12 @@
 ---
 title: 'Access Your Data Directly with AI: SeaTable and the Model Context Protocol'
-description: 'The SeaTable MCP Server connects AI with your data. Ask questions as you would a colleague — the AI reads, analyzes and writes directly in your base.'
+description: 'The official SeaTable MCP Server connects ChatGPT, Claude and Cursor to your data. Ask questions as you would a colleague – the AI reads, analyzes and writes directly in your base.'
 date: 2026-03-04
 lastmod: '2026-03-04'
 url: '/seatable-mcp-chat-with-your-database'
 seo:
     title: 'Chat with Your Data: AI Meets SeaTable via MCP'
-    description: 'The SeaTable MCP Server connects AI with your data. Ask questions as you would a colleague — the AI reads, analyzes and writes directly in your base.'
+    description: 'The official SeaTable MCP Server connects ChatGPT, Claude and Cursor to your data. Ask questions as you would a colleague – the AI reads, analyzes and writes directly in your base.'
 categories:
     - 'low-code-no-code'
 tags:
@@ -21,11 +21,13 @@ color: '#757dd6'
 
 ## Key takeaways
 
-- The SeaTable MCP Server connects AI assistants like Claude directly to your SeaTable data
-- You ask questions in natural language and the AI reads, writes and analyzes your data
-- No programming skills required, no switching between apps
-- Works with SeaTable Cloud and self-hosted installations
-- Your data stays protected: the AI only accesses the bases you authorize
+- The **official SeaTable MCP Server** connects AI assistants such as ChatGPT, Claude Desktop, Claude Code and Cursor directly to your SeaTable data.
+- Hosted at `https://mcp.seatable.com/mcp`, no installation needed. If you self-host SeaTable, you run the MCP Server on your own infrastructure.
+- You ask questions in natural language. The AI reads, searches and analyzes, and on your instruction adds, updates, deletes or links rows. No programming skills required.
+- **The structure of your base stays untouched:** by design, the MCP Server does not create or delete tables and columns.
+- Access per base via an API token, or via OAuth for ChatGPT. You decide whether the AI can only read or also write.
+- Free and open source under the MIT license, source code on GitHub.
+- The queried data is sent to the AI provider you use. If you want to avoid that, combine self-hosted SeaTable with a local language model.
 
 ## A new way to work with data
 
@@ -104,10 +106,12 @@ The AI reads the raw data, calculates and summarizes — in exactly the format n
 The setup is straightforward and takes just a few minutes. You need three things:
 
 - a SeaTable account
-- an AI assistant that supports MCP (for example Claude Desktop, Cursor or Claude Code)
+- an AI assistant that supports MCP (for example ChatGPT, Claude Desktop, Claude Code or Cursor)
 - an API token for your SeaTable base
 
 You create the API token directly in SeaTable. In doing so, you decide whether the AI can only read or also write — so you always retain full control.
+
+With ChatGPT, you don't need to copy a token: you sign in to SeaTable via OAuth and choose the base and the permissions there.
 
 Then you enter the URL of the hosted MCP Server (`https://mcp.seatable.com`) and your token in your AI assistant's configuration — done. No installation, no server setup, no technical expertise required.
 
@@ -158,13 +162,19 @@ No. You ask questions in natural language. It's just like asking a colleague a q
 
 {{< faq "Which AI assistants are supported?" >}}
 
-The SeaTable MCP Server works with all applications that support the Model Context Protocol. These currently include Claude Desktop, Cursor, Claude Code and many other MCP-capable clients. Since MCP is an open standard, the list of supported applications is constantly growing.
+The SeaTable MCP Server works with all applications that support the Model Context Protocol. These currently include ChatGPT, Claude Desktop, Claude Code, Cursor, VS Code and many other MCP-capable clients. Since MCP is an open standard, the list of supported applications is constantly growing. You can find guides for ChatGPT, Claude Desktop, Claude Code and Cursor in our [help center]({{< relref "help/ai/ai-agents" >}}).
 
 {{< /faq >}}
 
 {{< faq "Can the AI delete my data?" >}}
 
 Only if you explicitly allow it. Via the API token, you control whether the AI can only read or also write and delete. Additionally, the AI assistant asks for your confirmation before every change — nothing happens that you haven't approved.
+
+{{< /faq >}}
+
+{{< faq "Can the AI create or delete tables or columns?" >}}
+
+No. By design, the SeaTable MCP Server only works with your data, not with the structure of your base. You still create tables and columns yourself in SeaTable. This way, an AI agent cannot accidentally change your data model.
 
 {{< /faq >}}
 

@@ -12,6 +12,13 @@ Les assistants IA comme Claude, ChatGPT ou Copilot sont des outils puissants —
 
 **Les agents IA résolvent exactement ce problème.** Un agent IA est un assistant IA qui peut accéder directement à vos données via une interface standardisée. Dans SeaTable, cela se fait via le **Model Context Protocol (MCP)** — un standard ouvert soutenu par l'ensemble de l'industrie de l'IA.
 
+## L'essentiel en bref
+
+- Le **serveur MCP officiel de SeaTable** (`https://mcp.seatable.com/mcp`) connecte ChatGPT, Claude Desktop, Claude Code, Cursor et d'autres assistants compatibles MCP à votre base.
+- L'accès s'applique par base, en lecture seule ou en lecture et écriture, selon le token.
+- L'agent travaille sur les données, pas sur la structure : il ne crée ni ne supprime de tables ou de colonnes.
+- Gratuit et open source (licence MIT), pour SeaTable Cloud et les installations auto-hébergées.
+
 ## Comment cela fonctionne-t-il ?
 
 Lorsque vous connectez un agent IA à votre base SeaTable, voici ce qui se passe :
@@ -57,10 +64,10 @@ Les deux approches se complètent : les automatisations pour les tâches récurr
 ## De quoi ai-je besoin pour commencer ?
 
 - Un **compte SeaTable Cloud** (ou une installation auto-hébergée)
-- Un **assistant IA** prenant en charge MCP — par exemple Claude Desktop, Cursor ou Claude Code
+- Un **assistant IA** prenant en charge MCP — par exemple ChatGPT, Claude Desktop, Claude Code ou Cursor
 - Un **token API** pour la base à laquelle l'agent doit accéder
 
-La configuration ne prend que quelques minutes. Vous trouverez un guide étape par étape dans l'article « Connecter SeaTable avec Claude Desktop ».
+La configuration ne prend que quelques minutes. Des guides étape par étape sont disponibles pour [ChatGPT]({{< relref "help/ai/ai-agents/connect-chatgpt" >}}), [Claude Desktop]({{< relref "help/ai/ai-agents/connect-claude-desktop" >}}), [Claude Code]({{< relref "help/ai/ai-agents/connect-claude-code" >}}) et [Cursor]({{< relref "help/ai/ai-agents/connect-cursor" >}}).
 
 ## Est-ce sûr ?
 
