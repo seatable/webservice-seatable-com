@@ -1,7 +1,7 @@
 ---
 title: 'La clave secreta de un webhook'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -42,7 +42,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -53,9 +53,9 @@ Host: example.com
 
 ```
 
-## Cálculo de la clave secreta
+## Cálculo de la firma
 
-La clave secreta es un [secreto compartido](https://en.wikipedia.org/wiki/Shared_secret) entre SeaTable y el sistema receptor. SeaTable utiliza la clave secreta para calcular un valor hash del evento. El sistema receptor puede utilizar la clave secreta para calcular el contenido a partir del valor hash y compararlo con el contenido real. Si el contenido real no coincide con el contenido calculado a partir del hash, el webhook no debe ser procesado.
+La clave secreta es un [secreto compartido](https://en.wikipedia.org/wiki/Shared_secret) entre SeaTable y el sistema receptor. SeaTable utiliza la clave secreta para calcular un valor hash a partir del evento, la firma. El sistema receptor utiliza la misma clave para calcular el valor hash a partir del contenido recibido y lo compara con la firma. Si los dos valores no coinciden, el webhook no debe procesarse.
 
 ## Validación de la firma
 
@@ -70,7 +70,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 

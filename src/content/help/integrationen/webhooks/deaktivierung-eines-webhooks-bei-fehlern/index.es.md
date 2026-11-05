@@ -1,7 +1,7 @@
 ---
 title: 'Desactivación de un webhook en caso de error'
 date: 2023-02-28
-lastmod: '2023-03-02'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -21,22 +21,33 @@ Si se configura un webhook para una Base SeaTable, SeaTable envía una _solicitu
 Existe toda una gama de códigos de estado, pero basta con conocer los más comunes:
 
 - **200** - Con éxito
-- **400** - Solicitud de baño
+- **400** - Solicitud incorrecta
 - **403** - Prohibido
 - **500 - 511** - Errores del servidor
 
-El código de estado más importante con diferencia es el 200, que indica que la solicitud se ha recibido y procesado correctamente.
+El código de estado más importante con diferencia es el 200, que indica que la solicitud se ha recibido y procesado correctamente. SeaTable considera correctos todos los códigos de estado del 200 al 299.
 
 ## SeaTable desactiva los webhooks en caso de error
 
-Cuando SeaTable envía un webhook, SeaTable espera una respuesta en forma de dicho código de estado HTTP. Si SeaTable no recibe un código de estado o un código de estado distinto de 200 cinco veces seguidas, el webhook se establece en estado _no válido_ y se interrumpe la ejecución.
+Cuando SeaTable envía un webhook, SeaTable espera una respuesta en forma de dicho código de estado HTTP. En caso de error, el webhook se establece en estado _no válido_ y se interrumpe la ejecución. El momento en que esto ocurre depende del tipo de error:
+
+| Error                           | Ejemplos                                                                                 | Desactivación                      |
+| ------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Respuesta errónea o ausente** | Código de estado fuera del rango 200 a 299, sin respuesta en 30 segundos                 | tras cinco errores seguidos        |
+| **Entrega imposible**           | Nombre no resoluble, conexión rechazada, error de certificado, URL de destino no pública | inmediatamente con el primer error |
+
+Las redirecciones no se siguen: un código de estado como 301 o 302 cuenta como error. Una entrega correcta restablece el contador de errores.
 
 ![Webhook no válido](images/invalid-webhook.png)
 
-{{< warning headline="Más errores permitidos desde la versión 3.5" text="Hasta la versión 3.4 de SeaTable, inclusive, un webhook se desactivaba inmediatamente al primer código de error HTTP erróneo. Con la versión 3.5. SeaTable perdona algunos errores y desactiva el webhook después de cinco errores como mínimo." />}}
+{{< warning headline="Solo URL de destino públicas desde la versión 7.0.10" text="Desde la versión 7.0.10 de SeaTable, la URL de destino debe apuntar a una dirección pública. Los webhooks a direcciones internas no se entregan y se desactivan inmediatamente." />}}
+
+## Las entregas fallidas no se reintentan
+
+SeaTable no vuelve a enviar un webhook si la entrega falla. Los cambios realizados mientras un webhook está desactivado tampoco se entregan después. Si su sistema necesita datos completos, debería [sincronizar los datos con regularidad]({{< relref "help/integrationen/webhooks/webhook-bei-mehreren-gleichzeitigen-aenderungen" >}}).
 
 ## Reactivar un webhook inactivo
 
 Un webhook inválido puede reactivarse en cualquier momento. Cambie a la edición del webhook inválido haciendo clic en {{< seatable-icon icon="dtable-icon-rename" color="grey" >}} y guarde de nuevo el webhook sin realizar ningún cambio. El webhook volverá a estar activo inmediatamente.
 
-Para evitar que se vuelvan a desactivar, el sistema receptor debe procesar los webhooks de forma fiable y devolver cada vez el código de estado 200.
+Para evitar que se vuelvan a desactivar, el sistema receptor debe procesar los webhooks de forma fiable y devolver el código de estado 200 en un plazo de 30 segundos.
