@@ -1,7 +1,7 @@
 ---
 title: 'SeaTable 7.0 : génération de pages par IA, chat IA prêt pour la production et automatisations plus intelligentes'
 description: "SeaTable 7.0 est placé sous le signe de l'IA. Décrivez une page en langage naturel et l'App Builder la génère sous forme de page HTML. Le plugin AI Chat sort de la phase bêta et utilise désormais par défaut un modèle hébergé chez Exoscale. Un SDK enrichi pour les pages HTML, des actions d'automatisation nouvelles et améliorées, de nombreuses améliorations de sécurité et l'abandon du générateur d'applications de requête de données complètent cette version."
-date: 2026-11-05
+date: 2026-11-06
 author: 'rdb'
 url: '/fr/seatable-release-7-0'
 color: '#dc6165'
@@ -11,7 +11,7 @@ seo:
     title: 'SeaTable 7.0 : Toute la puissance de l’IA au service du No-Code !'
     description: 'SeaTable 7.0 met l’IA à l’honneur : analysez vos bases avec l’IA et utilisez-la pour créer des pages HTML dans vos applications grâce au nouveau SDK HTML.'
 register:
-    show: false
+    show: true
 ---
 
 Avec la version 7.0, SeaTable franchit une étape importante en matière d'intelligence artificielle. Deux nouveautés se distinguent : dans l'App Builder, vous pouvez désormais générer des pages HTML avec l'IA, simplement en décrivant ce que la page doit faire et à quoi elle doit ressembler. Et le plugin AI Chat, lancé en version bêta avec SeaTable 6.1, est maintenant prêt pour une utilisation en production. Ces deux fonctionnalités s'appuient sur un modèle d'IA plus performant qui, pour SeaTable Cloud, fonctionne sur l'infrastructure de notre partenaire Exoscale.

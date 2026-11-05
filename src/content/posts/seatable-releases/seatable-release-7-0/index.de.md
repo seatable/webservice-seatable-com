@@ -11,7 +11,7 @@ seo:
     title: 'SeaTable 7.0: Volle KI-Power in No-Code-Plattform'
     description: 'SeaTable 7.0 steht im Zeichen von KI - mit KI Bases analysieren und in Apps HTML Seiten mit neuen SDK für HTML-Seiten bauen'
 register:
-    show: false
+    show: true
 ---
 
 Mit Version 7.0 macht SeaTable einen großen Schritt in Sachen künstlicher Intelligenz. Zwei Neuerungen stechen besonders hervor: Im App Builder können Sie HTML-Seiten jetzt mit KI erstellen – Sie beschreiben einfach, was die Seite können und wie sie aussehen soll. Und das KI-Chat-Plugin, das wir mit SeaTable 6.1 als Beta eingeführt haben, ist nun bereit für den produktiven Einsatz. Hinter beiden Funktionen steht ein leistungsfähigeres KI-Modell, das bei SeaTable Cloud auf der Infrastruktur unseres Partners Exoscale läuft.

@@ -11,7 +11,7 @@ seo:
     title: 'SeaTable 7.0: Taking No-Code to the Next Level with AI'
     description: 'SeaTable 7.0 puts AI center stage – analyze your bases with AI and use AI to build HTML app pages with the new HTML SDK.'
 register:
-    show: false
+    show: true
 ---
 
 With version 7.0, SeaTable takes a big step forward in artificial intelligence. Two features stand out: in the App Builder, you can now generate HTML pages with AI simply by describing what the page should do and how it should look. And the AI Chat plugin, introduced as a beta in SeaTable 6.1, is now ready for production. Both are backed by a more powerful AI model that, for SeaTable Cloud, runs on the infrastructure of our partner Exoscale.

@@ -42,8 +42,8 @@ sections:
       subtitle: Version details
       anchor: release-7
       items:
-        - text: 'Version **7.0.13** on November 6, 2026: [Release Notes Version 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
-      template: "c9124bcd934b47bc8f30"
+        - text: 'Version **7.0.13** on November 6, 2026: [Release Notes Version 7.0]'
+      template: "7918d5e151644280bfe5"
 
     - name: "content-26"
       weight: 10
