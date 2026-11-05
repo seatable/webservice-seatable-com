@@ -1,8 +1,8 @@
 ---
 title: KI-Agenten
 seo:
-    title: 'SeaTable KI-Automationen | Prozesse automatisch steuern | Hilfe'
-    description: 'Lernen Sie, wie Sie künstliche Intelligenz in Ihre SeaTable Automationen einbinden, um Prozesse effizient zu automatisieren'
+    title: 'SeaTable KI-Agenten | Per MCP mit ChatGPT, Claude und Cursor verbinden | Hilfe'
+    description: 'Verbinden Sie ChatGPT, Claude oder Cursor über den offiziellen SeaTable MCP Server mit Ihren Daten: Einrichtung, Anwendungsbeispiele, Berechtigungen und Datenschutz.'
 url: '/de/hilfe/ki/agenten'
 weight: 2
 ---

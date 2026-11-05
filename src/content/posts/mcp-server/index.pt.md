@@ -1,12 +1,12 @@
 ---
 title: 'Aceda diretamente aos seus dados com IA: SeaTable e o Model Context Protocol'
-description: 'O servidor MCP do SeaTable liga a IA aos seus dados. Faça perguntas como faria a um colega — a IA lê, analisa e escreve diretamente na sua base.'
+description: 'O servidor MCP oficial do SeaTable liga o ChatGPT, o Claude e o Cursor aos seus dados. Faça perguntas como a um colega – a IA lê, analisa e escreve diretamente na sua base.'
 date: 2026-03-04
 lastmod: '2026-03-04'
 url: '/pt/seatable-mcp-fale-com-a-sua-base-de-dados'
 seo:
     title: 'Converse com os seus dados: a IA encontra o SeaTable via MCP'
-    description: 'O servidor MCP do SeaTable liga a IA aos seus dados. Faça perguntas como faria a um colega — a IA lê, analisa e escreve diretamente na sua base.'
+    description: 'O servidor MCP oficial do SeaTable liga o ChatGPT, o Claude e o Cursor aos seus dados. Faça perguntas como a um colega – a IA lê, analisa e escreve diretamente na sua base.'
 categories:
     - 'low-code-no-code'
 tags:
@@ -21,11 +21,13 @@ color: '#757dd6'
 
 ## O essencial em resumo
 
-- O servidor MCP do SeaTable liga assistentes de IA como o Claude diretamente aos seus dados do SeaTable
-- Faz perguntas em linguagem natural e a IA lê, escreve e analisa os seus dados
-- Não são necessários conhecimentos de programação nem alternar entre aplicações
-- Funciona com o SeaTable Cloud e instalações auto-alojadas
-- Os seus dados permanecem protegidos: a IA apenas acede às bases que autorizar
+- O **servidor MCP oficial do SeaTable** liga assistentes de IA como ChatGPT, Claude Desktop, Claude Code e Cursor diretamente aos seus dados do SeaTable.
+- Alojado em `https://mcp.seatable.com/mcp`, sem instalação. Se alojar o SeaTable por conta própria, executa o servidor MCP na sua própria infraestrutura.
+- Faz perguntas em linguagem natural. A IA lê, pesquisa e analisa e, sob as suas instruções, cria, altera, apaga ou liga linhas. Não são necessários conhecimentos de programação.
+- **A estrutura da sua base permanece intacta:** por conceção, o servidor MCP não cria nem apaga tabelas ou colunas.
+- Acesso por base através de um token API; no ChatGPT, através de OAuth. Define se a IA pode apenas ler ou também escrever.
+- Gratuito e de código aberto com licença MIT, código-fonte no GitHub.
+- Os dados consultados são enviados ao fornecedor de IA que utiliza. Se quiser evitar isso, combine o SeaTable auto-alojado com um modelo de linguagem local.
 
 ## Uma nova forma de trabalhar com dados
 
@@ -104,10 +106,12 @@ A IA lê os dados brutos, calcula e resume — exatamente no formato necessário
 A configuração é simples e demora apenas alguns minutos. Precisa de três coisas:
 
 - uma conta SeaTable
-- um assistente de IA compatível com MCP (por exemplo Claude Desktop, Cursor ou Claude Code)
+- um assistente de IA compatível com MCP (por exemplo ChatGPT, Claude Desktop, Claude Code ou Cursor)
 - um token API para a sua base SeaTable
 
 O token API é criado diretamente no SeaTable. Ao fazê-lo, define se a IA pode apenas ler ou também escrever — assim mantém sempre o controlo total.
+
+Com o ChatGPT não precisa de copiar nenhum token: inicia sessão no SeaTable através de OAuth e escolhe aí a base e as permissões.
 
 De seguida, introduza o URL do servidor MCP alojado (`https://mcp.seatable.com`) e o seu token na configuração do seu assistente de IA — pronto. Sem instalação, sem configuração de servidor, sem conhecimentos técnicos necessários.
 
@@ -158,13 +162,19 @@ Não. Faz perguntas em linguagem natural. É igual a fazer uma pergunta a um col
 
 {{< faq "Que assistentes de IA são compatíveis?" >}}
 
-O servidor MCP do SeaTable funciona com todas as aplicações que suportam o Model Context Protocol. Atualmente incluem o Claude Desktop, Cursor, Claude Code e muitos outros clientes compatíveis com MCP. Como o MCP é um padrão aberto, a lista de aplicações compatíveis está em constante crescimento.
+O servidor MCP do SeaTable funciona com todas as aplicações que suportam o Model Context Protocol. Atualmente incluem o ChatGPT, Claude Desktop, Claude Code, Cursor, VS Code e muitos outros clientes compatíveis com MCP. Como o MCP é um padrão aberto, a lista de aplicações compatíveis está em constante crescimento. Encontra guias para ChatGPT, Claude Desktop, Claude Code e Cursor no nosso [centro de ajuda]({{< relref "help/ai/ai-agents" >}}).
 
 {{< /faq >}}
 
 {{< faq "A IA pode apagar os meus dados?" >}}
 
 Apenas se o permitir explicitamente. Através do token API, controla se a IA pode apenas ler ou também escrever e apagar. Além disso, o assistente de IA pede a sua confirmação antes de cada alteração — nada acontece sem a sua aprovação.
+
+{{< /faq >}}
+
+{{< faq "A IA pode criar ou apagar tabelas ou colunas?" >}}
+
+Não. Por conceção, o servidor MCP do SeaTable trabalha apenas com os dados, não com a estrutura da sua base. As tabelas e colunas continuam a ser criadas por si no SeaTable. Assim, um agente de IA não pode alterar por engano o seu modelo de dados.
 
 {{< /faq >}}
 
