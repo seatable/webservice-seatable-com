@@ -1,7 +1,7 @@
 ---
 title: 'The secret key of a webhook'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -42,7 +42,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -53,9 +53,9 @@ Host: example.com
 
 ```
 
-## The calculation of the secret key
+## Calculating the signature
 
-The secret key is a [shared secret](https://en.wikipedia.org/wiki/Shared_secret) between SeaTable and the receiving system. SeaTable uses the secret key to calculate a hash value from the event. The receiving system can use the secret key to calculate the content back from the hash value and compare it to the actual content. If the actual content does not match the calculated content from the hash, the webhook should not be processed.
+The secret key is a [shared secret](https://en.wikipedia.org/wiki/Shared_secret) between SeaTable and the receiving system. SeaTable uses the secret key to calculate a hash value from the event, the signature. The receiving system uses the same key to calculate the hash value from the content it received and compares it with the signature. If the two values do not match, the webhook should not be processed.
 
 ## Validation of the signature
 
@@ -70,7 +70,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 
