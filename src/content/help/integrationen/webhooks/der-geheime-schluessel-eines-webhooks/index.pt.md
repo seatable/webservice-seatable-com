@@ -1,5 +1,5 @@
 ---
-title: 'A chave secreta de um gancho da web'
+title: 'A chave secreta de um webhook'
 date: 2023-02-28
 lastmod: '2026-11-05'
 categories:
@@ -14,15 +14,15 @@ seo:
 
 ---
 
-Se o alvo de um gancho da web for acessível ao público, deve ser assegurado para os pedidos recebidos que provêm do sistema de origem desejado. Com a ajuda de uma chave secreta, a origem de um gancho da web pode ser assegurada.
+Se o alvo de um webhook for acessível ao público, deve ser assegurado para os pedidos recebidos que provêm do sistema de origem desejado. Com a ajuda de uma chave secreta, a origem de um webhook pode ser assegurada.
 
 ## A ideia de uma chave secreta
 
-Para criar um novo gancho da web, basta introduzir qualquer URL. A chave secreta pode também permanecer vazia. No entanto, se o seu URL alvo estiver publicamente disponível, deve definir uma chave secreta e validar este valor ao processar os ganchos da web. Caso contrário, qualquer pessoa pode enviar-lhe pedidos correspondentes a este URL do gancho da web, os quais serão então processados por si. Sem a chave secreta, o sistema alvo não tem uma forma fiável de reconhecer se o evento vem realmente do SeaTable.
+Para criar um novo webhook, basta introduzir qualquer URL. A chave secreta pode também permanecer vazia. No entanto, se o seu URL alvo estiver publicamente disponível, deve definir uma chave secreta e validar este valor ao processar os webhooks. Caso contrário, qualquer pessoa pode enviar-lhe pedidos correspondentes a este URL do webhook, os quais serão então processados por si. Sem a chave secreta, o sistema alvo não tem uma forma fiável de reconhecer se o evento vem realmente do SeaTable.
 
-Se especificar uma chave secreta, o gancho da web tem uma chave adicional _X-SeaTable-Signature-Header_que pode ser utilizado para garantir a origem do gancho da web. Enquanto alguém não souber a chave secreta, não poderá enviar-lhe eventos através do gancho da web e encontrar a chave correspondente. \_X-SeaTable-Signature-Header_ para produzir.
+Se especificar uma chave secreta, o webhook tem uma chave adicional _X-SeaTable-Signature-Header_que pode ser utilizado para garantir a origem do webhook. Enquanto alguém não souber a chave secreta, não poderá enviar-lhe eventos através do webhook e encontrar a chave correspondente. \_X-SeaTable-Signature-Header_ para produzir.
 
-Se for definida uma chave secreta, o pedido de um gancho da web tem este aspecto, por exemplo:
+Se for definida uma chave secreta, o pedido de um webhook tem este aspecto, por exemplo:
 
 ```
 -- HEADER --

@@ -1,5 +1,5 @@
 ---
-title: 'Estrutura dos dados do Gancho da Web'
+title: 'Estrutura dos dados do Webhook'
 date: 2023-02-28
 lastmod: '2026-11-05'
 categories:
@@ -13,11 +13,11 @@ seo:
     description: 'Saiba como funciona o formato JSON dos webhooks no SeaTable – campos, eventos de acionamento e exemplos ilustrativos.'
 ---
 
-Um gancho da SeaTable tem uma estrutura claramente definida. Isto permite que o evento seja facilmente processado por qualquer linguagem de programação. Este artigo apresenta a estrutura geral e os valores possíveis.
+Um webhook da SeaTable tem uma estrutura claramente definida. Isto permite que o evento seja facilmente processado por qualquer linguagem de programação. Este artigo apresenta a estrutura geral e os valores possíveis.
 
-## Que mudanças é que um gancho da web desencadeia
+## Que mudanças é que um webhook desencadeia
 
-Se for criado um webhook para uma base, é enviado um pedido HTTP para cada alteração ao conteúdo da base. Assim, por exemplo, as seguintes alterações desencadeiam um gancho da web:
+Se for criado um webhook para uma base, é enviado um pedido HTTP para cada alteração ao conteúdo da base. Assim, por exemplo, as seguintes alterações desencadeiam um webhook:
 
 - Uma nova fila é acrescentada ou duplicada.
 - Uma linha é eliminada.
@@ -26,9 +26,9 @@ Se for criado um webhook para uma base, é enviado um pedido HTTP para cada alte
 
 Se uma operação alterar várias linhas ao mesmo tempo, é enviado apenas [um webhook para todas as linhas]({{< relref "help/integrationen/webhooks/webhook-bei-mehreren-gleichzeitigen-aenderungen" >}}).
 
-{{< warning headline="Isto não acciona um gancho da web" text="Alterações estruturais a uma base como a adição de uma nova coluna, um comentário de coluna, a criação de uma nova vista ou um bloqueio de linha **não acciona um gancho da web**." />}}
+{{< warning headline="Isto não acciona um webhook" text="Alterações estruturais a uma base como a adição de uma nova coluna, um comentário de coluna, a criação de uma nova vista ou um bloqueio de linha **não acciona um webhook**." />}}
 
-## Exemplos de anzóis enviados pela SeaTable
+## Exemplos de webhooks enviados pela SeaTable
 
 ### Exemplo 1: uma nova linha foi adicionada (por exemplo, na interface web SeaTable, via formulário web ou via chamada API)
 
@@ -168,7 +168,7 @@ As ligações têm uma estrutura própria, sem _row\_id_ nem _row\_data_. Em vez
 
 ```
 
-## Possíveis valores que um gancho da web pode assumir
+## Possíveis valores que um webhook pode assumir
 
 O pedido enviado por um webhook contém sempre os valores "event" e "data". Atualmente, o valor "event" é sempre "update". No futuro, é possível que outros valores sejam adicionados aqui.
 
