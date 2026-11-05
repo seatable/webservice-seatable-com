@@ -1,7 +1,7 @@
 ---
 title: 'Секретный ключ веб-крючка'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -42,7 +42,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -53,9 +53,9 @@ Host: example.com
 
 ```
 
-## Вычисление секретного ключа
+## Вычисление подписи
 
-Секретный ключ - это [общий секрет](https://en.wikipedia.org/wiki/Shared_secret) между SeaTable и принимающей системой. SeaTable использует секретный ключ для вычисления хэш-значения события. Принимающая система может использовать секретный ключ для обратного вычисления содержимого из хэш-значения и сравнения его с фактическим содержимым. Если фактическое содержимое не совпадает с вычисленным содержимым из хэша, веб-крючок не должен обрабатываться.
+Секретный ключ - это [общий секрет](https://en.wikipedia.org/wiki/Shared_secret) между SeaTable и принимающей системой. SeaTable использует секретный ключ для вычисления хэш-значения события, то есть подписи. Принимающая система с помощью того же ключа вычисляет хэш-значение полученного содержимого и сравнивает его с подписью. Если значения не совпадают, вебхук не следует обрабатывать.
 
 ## Проверка подлинности подписи
 
@@ -70,7 +70,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 
