@@ -1,7 +1,7 @@
 ---
 title: 'A chave secreta de um gancho da web'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -42,7 +42,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -53,9 +53,9 @@ Host: example.com
 
 ```
 
-## O cálculo da chave secreta
+## O cálculo da assinatura
 
-A chave secreta é um [segredo partilhado](https://en.wikipedia.org/wiki/Shared_secret) entre o SeaTable e o sistema receptor. SeaTable utiliza a chave secreta para calcular um valor hash a partir do evento. O sistema receptor pode utilizar a chave secreta para calcular o conteúdo a partir do valor do hash e compará-lo com o conteúdo real. Se o conteúdo real não corresponder ao conteúdo calculado a partir do hash, o gancho da web não deve ser processado.
+A chave secreta é um [segredo partilhado](https://en.wikipedia.org/wiki/Shared_secret) entre o SeaTable e o sistema receptor. O SeaTable utiliza a chave secreta para calcular um valor hash a partir do evento, a assinatura. O sistema receptor utiliza a mesma chave para calcular o valor hash a partir do conteúdo recebido e compara-o com a assinatura. Se os dois valores não coincidirem, o webhook não deve ser processado.
 
 ## Validação da assinatura
 
@@ -70,7 +70,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 
