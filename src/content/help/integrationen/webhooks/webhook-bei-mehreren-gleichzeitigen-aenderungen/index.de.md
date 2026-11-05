@@ -26,9 +26,9 @@ Aktuell gibt es keine Möglichkeit, dass für jede Zeile ein eigener Webhook erz
 
 ## Geänderte Zeilen nach einem Webhook abfragen
 
-{{< warning headline="Webhooks sind nicht für die Synchronisation gedacht" text="Ein Webhook ist nur der Auslöser für einen anschließenden Sync. Er zeigt an, dass sich etwas geändert hat, enthält aber nicht alle Änderungen." />}}
+{{< warning headline="Webhooks sind nicht für die Synchronisation gedacht" text="Wenn Sie Daten mit einem anderen System synchronisieren möchten, sollte der Webhook nur der Auslöser für den Abgleich sein. Er enthält nicht alle Änderungen, und seine Zustellung ist nicht garantiert." />}}
 
-Wenn Sie Daten mit einem anderen System synchron halten möchten, fragen Sie die geänderten Zeilen nach dem Webhook über die [SQL-Schnittstelle](https://developer.seatable.com/sql/select/) ab:
+Fragen Sie die geänderten Zeilen nach dem Webhook über die [SQL-Schnittstelle](https://developer.seatable.com/sql/select/) ab:
 
 ```sql
 SELECT * FROM Table1 WHERE _mtime >= '2026-11-05T18:30:00+01:00' ORDER BY _mtime, _id LIMIT 1000 OFFSET 0
