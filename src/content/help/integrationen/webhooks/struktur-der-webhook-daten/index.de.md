@@ -186,7 +186,7 @@ Der Wert "data" enthält ein Objekt mit weiteren Elementen. Bei Änderungen an Z
 | **row_data**        | Array                              | [ { ... } ]                                 |
 | **op_app**          | String                             | API token name                              |
 
-Der Wert _row\_count_ ist nur enthalten, wenn ein Vorgang [als Batch-Operation ausgeführt wird]({{< relref "help/integrationen/webhooks/webhook-bei-mehreren-gleichzeitigen-aenderungen" >}}). Der Wert _row\_name\_option_ enthält die ausgewählte Option, wenn die erste Spalte der Tabelle eine Einfachauswahl ist.
+Der Wert _row\_count_ ist nur enthalten, wenn ein Vorgang [als Batch-Operation ausgeführt wird]({{< relref "help/integrationen/webhooks/webhook-bei-mehreren-gleichzeitigen-aenderungen" >}}). Das kann auch bei API-Aufrufen für eine einzelne Zeile der Fall sein, der Wert ist dann 1. Der Wert _row\_name\_option_ enthält die ausgewählte Option, wenn die erste Spalte der Tabelle eine Einfachauswahl ist.
 
 Bei Verknüpfungen nimmt _op\_type_ die Werte _add\_link_, _remove\_link_, _update\_links_ oder _update\_rows\_links_ an. Bei _update\_rows\_links_ enthält der Webhook zusätzlich die Werte _row\_id\_list_ und _other\_rows\_ids\_map_ mit den betroffenen Zeilen.
 

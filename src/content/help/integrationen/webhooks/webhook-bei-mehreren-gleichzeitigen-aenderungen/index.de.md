@@ -12,7 +12,7 @@ seo:
 
 ---
 
-SeaTable schickt üblicherweise für jede Änderung an einer Zeile einen Webhook. Verändert ein Vorgang jedoch mehrere Zeilen gleichzeitig, wird nur ein Webhook mit dem zusätzlichen Parameter _row\_count_ erzeugt. Das gilt für Änderungen im Web-Editor genauso wie für Batch-Operationen über die API.
+SeaTable schickt üblicherweise für jede Änderung an einer Zeile einen Webhook. Verändert ein Vorgang jedoch mehrere Zeilen gleichzeitig, wird nur ein Webhook mit dem zusätzlichen Parameter _row\_count_ erzeugt. Das gilt auch für die API: Ein API-Aufruf erzeugt einen Webhook, egal ob er eine oder mehrere Zeilen ändert.
 
 Im Web-Editor tritt dieser Fall z.B. ein, wenn Sie einen Wert mit {{< key "STRG" >}}+{{< key "C" >}} in die Zwischenablage legen und dann mit {{< key "STRG" >}}+{{< key "V" >}} in mehreren anderen Zeilen einfügen. Dieser Vorgang erzeugt nur einen Webhook. Die folgende Grafik zeigt den entsprechenden Webhook.
 
