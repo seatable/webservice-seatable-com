@@ -1,7 +1,7 @@
 {{ $strAnchor := urlize .Anchor }}
 {{ $replacedAnchor := replaceRE "%25" "" $strAnchor }}
-<div id="{{ .Anchor | safeURL | urlize }}" class="anchor"></div>
-<h{{ .Level }} class="relative group" id="{{ .Anchor | safeURL | urlize }}-search">{{ .Text | safeHTML }}
+<div id="{{ .Anchor }}" class="anchor"></div>
+<h{{ .Level }} class="relative group" id="{{ .Anchor }}-search">{{ .Text | safeHTML }}
     
     {{ if eq .Page.Section "posts" }}
     <span

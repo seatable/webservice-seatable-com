@@ -18,7 +18,7 @@ With version 7.0, SeaTable takes a big step forward in artificial intelligence. 
 
 But there is more to SeaTable 7.0 than AI. The SDK for HTML pages, which AI-generated pages use as well, receives four improvements requested by our users. Automations gain two new actions for linked records, and two existing actions become more versatile. Behind the scenes, the release contains numerous bug fixes and security improvements that address the immediate risk posed by AI-powered bots and auto-generated exploits. Smaller improvements to forms, statistics and two-factor authentication round off the release. One feature is retiring: new data query apps can no longer be created, while existing ones continue to work.
 
-This morning, we updated SeaTable Cloud to version 7.0. We recommend that all administrators of self-hosted systems follow suit, not least because of the security improvements. The Docker image for SeaTable 7.0 is available for download from [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/). As always, you will find the complete list of changes in the [changelog](https://seatable.com/changelog/#release-7).
+This morning, we updated SeaTable Cloud to version 7.0. We recommend that all administrators of self-hosted systems follow suit, not least because of the security improvements. The Docker image for SeaTable 7.0 is available for download from [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/). As always, you will find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}#release-7).
 
 ## Generating HTML Pages with AI
 
@@ -37,7 +37,7 @@ If you're curious about what happens behind the scenes, click the “Thought pro
 On SeaTable Cloud, page generation runs on a powerful open-weights model hosted by our infrastructure partner Exoscale, which also operates the servers of SeaTable Cloud. Your prompts and base schemas are therefore not processed by any other third party. The data stored in your bases is never sent to the AI model in the first place. Self-hosters can either use a cloud model from one of the frontier labs or connect a self-hosted model of their choice. SeaTable supports all LLMs with an OpenAI-compatible endpoint.
 
 {{< warning headline="Upgraded AI infrastructure" >}}
-The AI model behind HTML page generation is Qwen 3.8 27B, a multimodal large language model with 27 billion parameters developed by Alibaba. It is designed for advanced reasoning, coding, research, document processing and complex multi-step tasks, and it is released under the Apache 2.0 license. Qwen 3.8 27B also replaces the open-weights model [Gemma 4 E4B by Google DeepMind](https://seatable.com/seatable-release-6-0/#ai-deployment-without-compromising-on-data-protection), which previously powered SeaTable's automated AI actions.
+The AI model behind HTML page generation is Qwen 3.8 27B, a multimodal large language model with 27 billion parameters developed by Alibaba. It is designed for advanced reasoning, coding, research, document processing and complex multi-step tasks, and it is released under the Apache 2.0 license. Qwen 3.8 27B also replaces the open-weights model [Gemma 4 E4B by Google DeepMind]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}#ai-deployment-without-compromising-on-data-protection), which previously powered SeaTable's automated AI actions.
 {{< /warning >}}
 
 ## Enhanced SDK for HTML Pages
@@ -56,7 +56,7 @@ Fourth, the SDK supports three new actions: send an email, send a notification a
 
 ## AI Chat Plugin Ready for Production
 
-The AI Chat plugin was introduced as a beta feature in [SeaTable 6.1](https://seatable.com/seatable-release-6-1/#chat-with-an-artificial-intelligence). It lets you edit and analyze bases in natural language: create records, change values, link rows or analyze data, in English, German, French and other languages. (Changes to the base schema are not supported.)
+The AI Chat plugin was introduced as a beta feature in [SeaTable 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}}#chat-with-an-artificial-intelligence). It lets you edit and analyze bases in natural language: create records, change values, link rows or analyze data, in English, German, French and other languages. (Changes to the base schema are not supported.)
 
 With SeaTable 7.0, the plugin leaves the beta phase. Based on user feedback, we have improved both the plugin and the MCP server it uses. Requests are now considerably more efficient, which significantly reduces token consumption. We have also updated the list of supported cloud AI models.
 
@@ -94,4 +94,4 @@ And one more thing: native SeaTable apps for iOS and Android are coming soon. Fi
 
 With SeaTable 7.0, we have removed the builder for data query apps. New data query apps can no longer be created. Existing data query apps are not affected and continue to work as usual.
 
-For new apps, please use universal apps instead. They can provide the same functionality as data query apps, and more. You can find out how to build them on the [help pages for universal apps](https://seatable.com/help/page-types-overview-app-builder/).
+For new apps, please use universal apps instead. They can provide the same functionality as data query apps, and more. You can find out how to build them on the [help pages for universal apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}).

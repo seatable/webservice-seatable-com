@@ -37,7 +37,7 @@ Se tiver curiosidade em saber o que acontece nos bastidores, clique na ligação
 No SeaTable Cloud, a geração de páginas é executada num potente modelo de pesos abertos alojado pelo nosso parceiro de infraestrutura Exoscale, que também opera os servidores do SeaTable Cloud. Por conseguinte, os seus prompts e os esquemas das suas bases não são processados por nenhum outro terceiro. Os dados armazenados nas suas bases nunca são enviados para o modelo de IA. Quem auto-alojar o SeaTable pode utilizar um modelo na nuvem de um dos principais laboratórios de IA ou ligar um modelo auto-alojado à sua escolha. O SeaTable suporta todos os LLM com um endpoint compatível com a OpenAI.
 
 {{< warning headline="Infraestrutura de IA melhorada" >}}
-O modelo de IA por detrás da geração de páginas HTML é o Qwen 3.8 27B, um grande modelo de linguagem multimodal com 27 mil milhões de parâmetros desenvolvido pela Alibaba. Foi concebido para raciocínio avançado, programação, investigação, processamento de documentos e tarefas complexas de vários passos, e é disponibilizado ao abrigo da licença Apache 2.0. O Qwen 3.8 27B substitui ainda o modelo de pesos abertos [Gemma 4 E4B da Google DeepMind]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}), que até agora alimentava as ações de IA automatizadas do SeaTable.
+O modelo de IA por detrás da geração de páginas HTML é o Qwen 3.8 27B, um grande modelo de linguagem multimodal com 27 mil milhões de parâmetros desenvolvido pela Alibaba. Foi concebido para raciocínio avançado, programação, investigação, processamento de documentos e tarefas complexas de vários passos, e é disponibilizado ao abrigo da licença Apache 2.0. O Qwen 3.8 27B substitui ainda o modelo de pesos abertos [Gemma 4 E4B da Google DeepMind]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}#implementação-de-ia-sem-comprometer-a-proteção-de-dados), que até agora alimentava as ações de IA automatizadas do SeaTable.
 {{< /warning >}}
 
 ## SDK melhorado para páginas HTML
@@ -56,7 +56,7 @@ Em quarto lugar, o SDK suporta três novas ações: enviar um e-mail, enviar uma
 
 ## Plugin de Chat IA pronto para produção
 
-O plugin de Chat IA foi apresentado como função beta no [SeaTable 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}}). Permite editar e analisar bases em linguagem natural: criar registos, alterar valores, ligar linhas ou analisar dados, em português, inglês, alemão, francês e noutros idiomas. (Não são suportadas alterações ao esquema da base.)
+O plugin de Chat IA foi apresentado como função beta no [SeaTable 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}}#fale-com-inteligência-artificial). Permite editar e analisar bases em linguagem natural: criar registos, alterar valores, ligar linhas ou analisar dados, em português, inglês, alemão, francês e noutros idiomas. (Não são suportadas alterações ao esquema da base.)
 
 Com o SeaTable 7.0, o plugin sai da fase beta. Com base nos comentários dos utilizadores, melhorámos tanto o plugin como o servidor MCP que utiliza. Os pedidos são agora consideravelmente mais eficientes, o que reduz significativamente o consumo de tokens. Atualizámos também a lista de modelos de IA na nuvem suportados.
 

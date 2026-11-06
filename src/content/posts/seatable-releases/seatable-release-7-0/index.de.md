@@ -18,7 +18,7 @@ Mit Version 7.0 macht SeaTable einen großen Schritt in Sachen künstlicher Inte
 
 Doch SeaTable 7.0 hat mehr zu bieten als KI. Das SDK für HTML-Seiten, das auch von KI-generierten Seiten genutzt wird, erhält vier Verbesserungen, die sich unsere Nutzer gewünscht haben. Automatisierungen bekommen zwei neue Aktionen für verknüpfte Datensätze, und zwei bestehende Aktionen werden vielseitiger. Hinter den Kulissen haben wir in der neuen Version zahlreiche Fehler beseitigt und mit einem verstärkten Fokus auf das Thema Sicherheit der akuten Bedrohung durch KI-gestützte Bots und automatisch generierte Exploits Rechnung getragen. Kleinere Verbesserungen bei Formularen, Statistiken und der Zwei-Faktor-Authentifizierung runden das Release ab. Und eine Funktion geht in den Ruhestand: Neue Datenabfrage-Apps lassen sich nicht mehr erstellen, bestehende funktionieren aber weiterhin.
 
-Heute Morgen haben wir SeaTable Cloud auf Version 7.0 aktualisiert. Allen Administratoren selbstgehosteter Systeme empfehlen wir, es uns gleichzutun – nicht zuletzt wegen der Sicherheitsverbesserungen. Das Docker Image für SeaTable 7.0 steht auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/) zum Download bereit. Die vollständige Liste der Änderungen finden Sie wie immer im [Changelog](https://seatable.com/changelog/#release-7).
+Heute Morgen haben wir SeaTable Cloud auf Version 7.0 aktualisiert. Allen Administratoren selbstgehosteter Systeme empfehlen wir, es uns gleichzutun – nicht zuletzt wegen der Sicherheitsverbesserungen. Das Docker Image für SeaTable 7.0 steht auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/) zum Download bereit. Die vollständige Liste der Änderungen finden Sie wie immer im [Changelog]({{< relref "pages/changelog" >}}#release-7).
 
 ## Mit KI ganz einfach zu einer HTML-Seite
 
@@ -37,7 +37,7 @@ Neugierig, was hinter den Kulissen passiert? Ein Klick auf den Link „Denkproze
 Bei SeaTable Cloud läuft die Seitengenerierung auf einem leistungsstarken Open-Weights-Modell, das unser Infrastrukturpartner Exoscale hostet – derselbe Anbieter, der auch die Server von SeaTable Cloud betreibt. Ihre Prompts und Base-Schemata werden also von keinem weiteren Drittanbieter verarbeitet. Die Daten in Ihren Bases gelangen ohnehin nie zum KI-Modell. Administratoren selbstgehosteter Systeme können entweder ein Cloud-Modell eines der führenden KI-Anbieter nutzen oder ein selbstgehostetes Modell ihrer Wahl anbinden. SeaTable unterstützt alle LLMs mit einem OpenAI-kompatiblen Endpunkt.
 
 {{< warning headline="Leistungsfähigere KI-Infrastruktur" >}}
-Für die Erstellung von HTML-Seiten nutzen wir Qwen 3.8 27B, ein multimodales Large Language Model mit 27 Milliarden Parametern aus dem Haus Alibaba. Es ist auf anspruchsvolles logisches Denken, Programmierung, Recherche, Dokumentenverarbeitung und komplexe mehrstufige Aufgaben ausgelegt und steht unter der Apache-2.0-Lizenz. Qwen 3.8 27B löst außerdem das Open-Weights-Modell [Gemma 4 E4B von Google DeepMind](https://seatable.com/seatable-release-6-0/#ai-deployment-without-compromising-on-data-protection) ab, das bisher für die KI-Aktionen in den Automatisierungen verantwortlich war.
+Für die Erstellung von HTML-Seiten nutzen wir Qwen 3.8 27B, ein multimodales Large Language Model mit 27 Milliarden Parametern aus dem Haus Alibaba. Es ist auf anspruchsvolles logisches Denken, Programmierung, Recherche, Dokumentenverarbeitung und komplexe mehrstufige Aufgaben ausgelegt und steht unter der Apache-2.0-Lizenz. Qwen 3.8 27B löst außerdem das Open-Weights-Modell [Gemma 4 E4B von Google DeepMind]({{< relref "posts/seatable-releases/seatable-release-6-0" >}}#ki-einsatz-ohne-kompromisse-beim-datenschutz) ab, das bisher für die KI-Aktionen in den Automatisierungen verantwortlich war.
 {{< /warning >}}
 
 ## Erweitertes SDK für HTML-Seiten
@@ -56,7 +56,7 @@ Viertens unterstützt das SDK drei neue Aktionen: E-Mail senden, Benachrichtigun
 
 ## KI-Chat-Plugin bereit für den produktiven Einsatz
 
-Das KI-Chat-Plugin haben wir mit [SeaTable 6.1](https://seatable.com/seatable-release-6-1/#chat-with-an-artificial-intelligence) als Beta-Funktion eingeführt. Mit ihm bearbeiten und analysieren Sie Bases in natürlicher Sprache: Datensätze anlegen, Werte ändern, Zeilen verknüpfen oder Daten auswerten – auf Deutsch, Englisch, Französisch und in weiteren Sprachen. (Änderungen am Schema der Base sind nicht möglich.)
+Das KI-Chat-Plugin haben wir mit [SeaTable 6.1]({{< relref "posts/seatable-releases/seatable-release-6-1" >}}#chatten-sie-mit-einer-künstlichen-intelligenz) als Beta-Funktion eingeführt. Mit ihm bearbeiten und analysieren Sie Bases in natürlicher Sprache: Datensätze anlegen, Werte ändern, Zeilen verknüpfen oder Daten auswerten – auf Deutsch, Englisch, Französisch und in weiteren Sprachen. (Änderungen am Schema der Base sind nicht möglich.)
 
 Mit SeaTable 7.0 verlässt das Plugin die Betaphase. Auf Basis des Nutzerfeedbacks haben wir sowohl das Plugin als auch den MCP-Server, den es nutzt, verbessert. Anfragen sind jetzt deutlich effizienter – der Tokenverbrauch sinkt dadurch erheblich. Außerdem haben wir die Liste der unterstützten Cloud-KI-Modelle aktualisiert.
 
@@ -94,4 +94,4 @@ Und noch etwas: Native SeaTable Apps für iOS und Android kommen in Kürze. Die 
 
 Mit SeaTable 7.0 haben wir den Builder für Datenabfrage-Apps entfernt. Neue Datenabfrage-Apps lassen sich nicht mehr erstellen. Bestehende Datenabfrage-Apps sind davon nicht betroffen und funktionieren wie gewohnt weiter.
 
-Für neue Apps nutzen Sie bitte Universelle Apps. Sie bieten dieselben Funktionen wie Datenabfrage-Apps – und noch mehr. Wie Sie Universelle Apps erstellen, erfahren Sie auf den [Hilfeseiten zu Universellen Apps](https://seatable.com/help/page-types-overview-app-builder/).
+Für neue Apps nutzen Sie bitte Universelle Apps. Sie bieten dieselben Funktionen wie Datenabfrage-Apps – und noch mehr. Wie Sie Universelle Apps erstellen, erfahren Sie auf den [Hilfeseiten zu Universellen Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}).
