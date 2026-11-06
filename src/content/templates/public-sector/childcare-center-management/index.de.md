@@ -27,7 +27,7 @@ sections:
     - name: "content-4"
       weight: 2
       title: 'Kommunale Bedarfsplanung und Platzvergaben ohne Zettelwirtschaft'
-      subtitle: Zentrales Kita-Portal für Kommunen
+      subtitle: Kita-Portal für Kommunen
       text: 
       items:
         - icon: 'eye'
@@ -86,13 +86,13 @@ sections:
 
     - name: "content-25"
       weight: 10
-      title: 'So einfach geht es: Von der Anmeldung bis zum Vertragsversand'
-      subtitle: 'Der Kita-Navigator im Überblick'
+      title: 'So einfach: Von der Anmeldung zum Vertragsversand'
+      subtitle: 'Kita-Navigator im Überblick'
       items:
       - headline: 'Alle Kitas in einer zentralen Kita-Datenbank'
         text: 'In der Tabelle "Centers" speichern Sie die Stammdaten aller Kitas in Ihrer Kommune mit Kapazität, Auslastung, Bild und Konzept. Daraus speist sich die Galerie-Ansicht in der App. Über eine Formel werden die freien Plätze berechnet, sodass Sie jederzeit die Belegungsquote jeder Einrichtung in Echtzeit sehen.'
         image: '/images/templatepage_kita_navigator_02.png'
-        image_alt: "Alle kommunalen Betreuungseinrichtungen in einer zentralen Übersich im Kita-Navigator"
+        image_alt: "Alle kommunalen Betreuungseinrichtungen in einer zentralen Übersicht im Kita-Navigator"
       - headline: 'Eltern-Kind-Verknüpfungen und Kontaktdaten'  
         text: 'Die beiden miteinander verknüpften Tabellen "Children" und "Legal Guardian" bilden die digitalen Familienakten. Hier speichern Sie Personen- und Kontaktdaten, Notfallkontakte, Impfnachweise, Allergien und Abholberechtigungen. Die Tabelle "Children" ist zudem mit der Tabelle "Centers" verknüpft. Über Filter und Gruppierungen erstellen Sie so ganz leicht Gruppenlisten.'
         image: '/images/templatepage_kita_navigator_03.png'
@@ -122,13 +122,13 @@ sections:
       weight: 15
       title: 'Schaffen Sie Transparenz und reduzieren Sie Aufwände mit SeaTables Kita-Navigator'
       buttons:
-        - label: Jetzt die Kita-Navigator & Kita-Verwaltungs-Vorlage für Kommunen nutzen
+        - label: Kita-Navigator-Vorlage für Kommunen nutzen
           link: pages/registration
      
     - name: "content-9"
       weight: 16
-      title: 'Kommunaler Kita-Navigator mit integrierten KI-Funktionen'
-      subtitle: 'Smarte Verwaltung mit DSGVO-konformer KI-Nutzung'
+      title: 'Kita-Navigator mit KI-Funktionen'
+      subtitle: 'Smarte, DSGVO-konforme KI'
       description: 'Mit SeaTable nutzen Kommunen und Träger DSGVO-konforme, [KI-gestützte Automatisierungen]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). Lesen Sie zum Beispiel Anträge und Nachweise automatisiert aus, kategorisieren Sie Anfragen oder fassen Sie lange Schreiben zusammen. So verwalten Sie Anmeldungen mit weniger manuellem Aufwand.'
       items:
       - headline: 'Kurzprofile erstellen'
@@ -143,7 +143,7 @@ sections:
       - headline: 'Anfragen klassifizieren' 
         text: 'Ordnen Sie mit Classify eingehende Anfragen automatisch Kategorien zu, etwa Anmeldungen, Förderbedarf, Wechselwunsch oder Beschwerde. Ihr Team sieht sofort, was dringend ist, und spart wertvolle Zeit.'
         icon: circle-info
-      - headline: 'Antwortschreiben auf Knopfdruck'
+      - headline: 'Antworten auf Knopfdruck'
         text: 'Nutzen Sie Custom Prompts, um Zusagen, Absagen oder Antwortschreiben an Eltern vorzuformulieren oder Anmeldedaten auf Vollständigkeit zu prüfen.  So schaffen Sie schlanke, digitale Prozesse und sparen manuelle Aufwände.'
         icon: wand-magic-sparkles
       - headline: 'Impfnachweise auslesen'
@@ -156,8 +156,8 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Kommunaler Kita-Navigator – rechtssicher, transparent und flexibel'
-      subtitle: 'Datensicherheit für Behörden und Kitas'
+      title: 'Kommunaler Kita-Navigator: rechtssicher, transparent, flexibel'
+      subtitle: 'Sicher für Behörden und Kitas'
       description: 'Mit SeaTable nutzen Sie eine moderne KI No-Code Lösung mit App Builder und integrierten KI-gestützten Automationen. SeaTable bietet alles, was Kommunen und freie Träger für einen digitalen Kita-Navigator und eine vernetzte Kita-Verwaltung brauchen. Im Fokus stehen zentrale Datenhaltung, höchster Datenschutz und eine nachvollziehbare Dokumentation von Anmeldungen, Platzvergaben und Verträgen.'
       box-position: [right!]
       items:
@@ -175,17 +175,17 @@ sections:
       title: 'FAQ – Kita-Navigator von SeaTable'
       subtitle: 
       items:
-      - q: "Was können Kommunen mit dem Kita-Navigator von SeaTable umsetzen"
-        a: 'Unsere Kita-Navigator & Kita-Verwaltung-Vorlage ist eine All-in-One-Lösung für die digitale kommunale Kita-Verwaltung. Kommunen, Jugendämter und Träger verwalten damit Einrichtungen, Betreuungsplätze, Anmeldungen und Verträge zentral. Kitas bilden ihr Stammdatenmanagement ab. Und das in einer zentralen Datenbank, die auch als Basis für ein kommunales Kita-Portal dient.'
+      - q: "Was können Kommunen mit dem Kita-Navigator von SeaTable umsetzen?"
+        a: 'Unsere Kita-Navigator-Vorlage ist eine All-in-One-Lösung für die digitale kommunale Kita-Verwaltung. Kommunen, Jugendämter und Träger verwalten damit Einrichtungen, Betreuungsplätze, Anmeldungen und Verträge zentral. Kitas pflegen ihre Stammdaten in derselben Datenbank, die auch als Basis für ein Kita-Portal dient.'
       - q: "Können mehrere Fachämter und Kitas gemeinsam in der Vorlage arbeiten?"
         a: 'Ja, kein Problem. In SeaTable arbeiten Kita-Verwaltungen, Jugendämter und Kämmereien kollaborativ in einer gemeinsamen Datenbank.'
-      - q: "Lassen sich mit dem Kita-Navigator Doppelbelegungen und Mehrfachanmeldungen vermeiden?"
+      - q: "Vermeidet der Kita-Navigator Doppelbelegungen und Mehrfachanmeldungen?"
         a: 'Ja, absolut. Jede Anmeldung ist mit Kind, Sorgeberechtigten und Einrichtung verknüpft. Über eine Formel sehen Sie zu jeder Zeit die noch verfügbaren Plätze in einer Einrichtung in Echtzeit. Mehrfachanmeldungen lassen sich über Filter und Dublettenprüfungen leicht vermeiden.'
       - q: "Kann ich die Vorlage an die Vorgaben meiner Kommune anpassen?" 
-        a: 'Ja, jede SeaTable-Vorlage ist vollkommen flexibel anpassbar. Sie können zusätzliche Spalten, Tabellen oder Ansichten hinzufügen und bestehende Tabellen entsprechend Ihrer Anforderungen anpassen. Ergänzen Sie nach Bedarf Formeln und Automationen, zum Beispiel für Prioritätsstufen, Anmeldefristen oder Elternbeitragsklassen und erstellen Sie so Ihren maßgeschneiderten Kita-Navigator.'
-      - q: "Lassen sich sensible Daten verbergen, so dass jede Kita nur ihre eigenen Daten sieht? "
+        a: 'Ja, jede SeaTable-Vorlage ist flexibel anpassbar. Sie können Spalten, Tabellen oder Ansichten hinzufügen und bestehende Tabellen anpassen. Ergänzen Sie nach Bedarf Formeln und Automationen, etwa für Prioritätsstufen, Anmeldefristen oder Elternbeitragsklassen, und erstellen Sie so Ihren maßgeschneiderten Kita-Navigator.'
+      - q: "Lassen sich Daten so verbergen, dass jede Kita nur ihre eigenen sieht?"
         a: 'Ja, selbstverständlich. Mit rollenbasierten Zugriffsrechten und granularen Berechtigungen können Administratoren genau festlegen, wer welche Informationen sehen oder bearbeiten darf. Sie können Berechtigungen auch für einzelne Tabellen, Spalten und sogar Zeilen festlegen.'
-      - q: "Lassen sich auch Elternbeitragsrechnungen und Betreuungsverträge in der Vorlage erstellen?"
+      - q: "Lassen sich Beitragsrechnungen und Betreuungsverträge in der Vorlage erstellen?"
         a: 'Ja, legen Sie dafür einfach Dokumentenvorlagen im Page-Designer-Plugin an und erzeugen Sie per Klick versandfertige PDFs.'
       - q: "Ist die Kita-Datenbank DSGVO-konform für sensible Kinder- und Elterndaten?"
         a: "Ja, SeaTable Cloud läuft auf zertifizierten Servern des Schweizer Dienstleisters Exoscale in Deutschland. Es findet kein Datentransfer ins Ausland statt."
