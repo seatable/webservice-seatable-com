@@ -32,21 +32,21 @@ sections:
       items:
         - icon: 'eye'
           headline: 'Transparent Daycare Portal'
-          text: 'Facilities, profiles, and available spots at daycare centers in your community—all in one place, regardless of the provider. Parents can find the right daycare centers without any hassle.'
+          text: 'Facilities, profiles, and available spots at daycare centers in your community—all in one place. Parents can find the right daycare centers without any hassle.'
         - icon: 'shield'
           headline: 'GDPR-Compliant Use of AI'
-          text: 'Take advantage of SeaTable's built-in AI features for summarizing or classifying data—GDPR-compliant thanks to its own AI server.'
+          text: "Take advantage of SeaTable's built-in AI features for summarizing or classifying data—GDPR-compliant thanks to its own AI server."
         - icon: 'edit'
-          headline: 'Documents at the Push of a Button'
+          headline: 'Documents on demand'
           text: 'Create childcare contracts or fee invoices in Kita-Navigator and send documents directly via email—with just the click of a button.'
         - icon: 'pencil'
           headline: 'Flexibly customizable'
-          text: 'Customize tables, fields, and views to meet your community's specific needs. Your daycare database grows along with your needs.' 
+          text: "Customize tables, fields, and views to meet your community's specific needs. Your daycare database grows along with your needs." 
         - icon: 'people-group'
           headline: 'Capacity Visible Immediately'
           text: 'Parents and child welfare agencies can see at a glance which daycare centers are at capacity. This makes it easier for municipalities to plan for demand.'
         - icon: 'search'
-          headline: 'Store supporting documents in a central location'
+          headline: 'Store documents centrally'
           text: 'Vaccination records and other documents are stored once in the parent and child master data and are then available to authorized individuals.' 
 
     - name: "customer-1"
@@ -132,7 +132,7 @@ sections:
       description: 'With SeaTable, municipalities and organizations use GDPR-compliant, [AI-powered automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}). For example, you can automatically extract information from applications and supporting documents, categorize inquiries, or summarize long letters. This allows you to manage registrations with less manual effort.'
       items:
       - headline: 'Create Short Profiles'
-        text: 'With Summarize, you can create concise "About Us" descriptions for your daycare center to use in the Daycare Finder. The AI summarizes your philosophy, educational focus, and information about your team into a memorable description for your daycare profile.'
+        text: 'With Summarize, you can create concise "About Us" descriptions for your daycare center. The AI summarizes your philosophy, educational focus, and information about your team into a memorable description for your daycare profile.'
         icon: table
       - headline: 'Extract information'
         text: 'With the AI-powered "Extract" feature, you can extract relevant information—such as name, date of birth, or desired start date—from documents and enter it into the appropriate fields on the registration form. You no longer need to enter data manually.'
@@ -156,13 +156,13 @@ sections:
       class:
        - curved
        - bg-gray-100
-      title: 'Municipal Daycare Navigator – Legally Sound, Transparent, and Flexible'
-      subtitle: 'Data Security for Government Agencies and Daycare Centers'
+      title: 'Municipal Daycare Navigator – Compliant, Transparent, and Flexible'
+      subtitle: 'Data Security for Public Services and Daycare Centers'
       description: 'With SeaTable, you’ll be using a modern AI-powered no-code solution featuring an app builder and integrated AI-driven automations. SeaTable offers everything that municipalities and independent providers need for a digital daycare navigator and a connected daycare management system. The focus is on centralized data management, the highest level of data protection, and transparent documentation of registrations, spot assignments, and contracts.'
       box-position: [right!]
       items:
       - headline: Transparency
-        text: 'New entries and changes are time-stamped and can be tracked using the built-in logs.'
+        text: 'New entries and changes are marked with a timestamp and the person who made them, and can be tracked using the built-in logs.'
       - headline: Key Data
         text: 'Facilities, children, authorized pick-up persons, and registrations are linked in a collaborative database.'
       - headline: GDPR-compliant
@@ -172,7 +172,7 @@ sections:
 
     - name: "faq"
       weight: 20
-      title: 'FAQ – SeaTable's Daycare Navigator'
+      title: "FAQ – SeaTable's Daycare Navigator"
       subtitle: 
       items:
       - q: "What Can Local Governments Achieve with SeaTable's Daycare Navigator?"
