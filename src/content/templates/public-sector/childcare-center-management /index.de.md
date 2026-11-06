@@ -2,6 +2,7 @@
 title: 'Kita-Navigator'
 description: 'Die transparente Kita-Datenbank für Kommunen und vernetzte Kita-Verwaltungen. Anmeldungen erfassen, freie Plätze koordinieren und Abläufe digitalisieren.'
 date: '2026-10-23'
+lastmod: '2026-10-23'
 url: '/de/vorlage/kita-navigator/'
 category: 'public sector'
 functions:
@@ -80,8 +81,8 @@ sections:
       - text: '**Granulare Zugriffssteuerung**: Steuern Sie mit Zugriffsberechtigungen genau, wer welche Daten im Kita-Navigator sehen oder ändern kann.'
       - text: '**On-premises**: Für noch mehr Datenkontrolle steht Ihnen mit SeaTable Server eine on-premises Lösung zur Verfügung.'
       image_position: [left]
-      image: '/images/template_page_liegenschaftsverwaltung_01.png'
-      image_alt: 
+      image: '/images/template_page_kita_navigator_01.png'
+      image_alt: "Kommunaler Kita-Navigator mit verschiedenen Ansichten und Tabellen"
 
     - name: "content-25"
       weight: 10
@@ -90,20 +91,20 @@ sections:
       items:
       - headline: 'Alle Kitas in einer zentralen Kita-Datenbank'
         text: 'In der Tabelle "Centers" speichern Sie die Stammdaten aller Kitas in Ihrer Kommune mit Kapazität, Auslastung, Bild und Konzept. Daraus speist sich die Galerie-Ansicht in der App. Über eine Formel werden die freien Plätze berechnet, sodass Sie jederzeit die Belegungsquote jeder Einrichtung in Echtzeit sehen.'
-        image: '/images/templatepage_liegenschaftsverwaltung_02.png'
-        image_alt: 
+        image: '/images/templatepage_kita_navigator_02.png'
+        image_alt: "Alle kommunalen Betreuungseinrichtungen in einer zentralen Übersich im Kita-Navigator"
       - headline: 'Eltern-Kind-Verknüpfungen und Kontaktdaten'  
         text: 'Die beiden miteinander verknüpften Tabellen "Children" und "Legal Guardian" bilden die digitalen Familienakten. Hier speichern Sie Personen- und Kontaktdaten, Notfallkontakte, Impfnachweise, Allergien und Abholberechtigungen. Die Tabelle "Children" ist zudem mit der Tabelle "Centers" verknüpft. Über Filter und Gruppierungen erstellen Sie so ganz leicht Gruppenlisten.'
-        image: '/images/templatepage_liegenschaftsverwaltung_03.png'
-        image_alt: 
+        image: '/images/templatepage_kita_navigator_03.png'
+        image_alt: "Eltern- und Kindstammdatentabelle im kommunalen Kita-Navigator"
       - headline: 'Personalstammdaten auf einen Blick'
         text: 'In der Tabelle „Personal“ speichern Sie sämtliche Personalstammdaten in der Kita-Datenbank. Wichtige Nachweise wie Führungszeugnis, Ausweis und Masernschutz der Mitarbeiter laden Sie in Datei-Spalten hoch. So bleibt die Personalplanung übersichtlich. Bei Bedarf lässt sich ganz einfach ein [Dienstplan]({{< relref "templates/human-resources/shift-schedule" >}}) in Ihren Kita-Navigator integrieren.'
-        image: '/images/templatepage_liegenschaftsverwaltung_04.png'
-        image_alt: 
+        image: '/images/templatepage_kita_navigator_04.png'
+        image_alt: "Personalübersicht mit verschiedenen Ansichten für jede Einrichtung"
       - headline: 'Betreuungsplätze mit dem Kita-Navigator verwalten'
         text: 'Anmeldungen über Ihren kommunalen Kita-Finder fließen in die Tabelle "Registration & Contracts". Auf Wunsch können Sie auch automatische Benachrichtigungen an die Kita-Leitung einrichten. Angaben wie Betreuungszeiten und Mittagessen fließen direkt in die automatische Berechnung der Elternbeiträge ein. Nach einer Platzvergabe erstellen Sie Verträge und Rechnungen einfach per Knopfdruck oder automatisiert.'
-        image: '/images/templatepage_liegenschaftsverwaltung_05.png'
-        image_alt: 
+        image: '/images/template_page_kita_navigator_05.png'
+        image_alt: "Page-Designer-Ansicht im kommunalen Kita-Navigator"
             
     - name: "content-6"
       weight: 12
@@ -114,8 +115,8 @@ sections:
       subtitle: 
       items:
       - text: 'Mit SeaTables integriertem App Builder erstellen Sie per Drag-and-Drop ein kommunales Kita-Portal als erste Anlaufstelle für Eltern. So entlasten Sie Ihre Verwaltung und die Kitas. Eltern können sich in der Galerie und über die Steckbriefe der einzelnen Kitas zentral informieren und ihre Kinder direkt über ein Formular bei ihren Wunscheinrichtungen anmelden. Alle Informationen werden zentral gespeichert und stehen den Kitas und Jugendämtern unmittelbar zur Verfügung. Kita-Leitungen können für interne Zwecke oder die Elternarbeit weitere [eigene Apps anlegen]({{< relref "posts/20250318-app-erstellen" >}}).'
-      image: '/images/template_page_liegenschaftsverwaltung_06.png'
-      image_alt: 
+      image: '/images/template_page_kita_navigator_06.png'
+      image_alt: "Kita-Portal im kommunalen Kita-Navigator"
 
     - name: "banner-3"
       weight: 15
@@ -189,5 +190,5 @@ sections:
       - q: "Ist die Kita-Datenbank DSGVO-konform für sensible Kinder- und Elterndaten?"
         a: "Ja, SeaTable Cloud läuft auf zertifizierten Servern des Schweizer Dienstleisters Exoscale in Deutschland. Es findet kein Datentransfer ins Ausland statt."
       - q: "Kann SeaTable als Kita-Navigator & Kita-Verwaltung auch selbst gehostet werden?"
-        a: "Ja, absolut. Für öffentliche Verwaltungen eignen sich unsere Lösungen SeaTable Server oder SeaTable Dedicated, mit denen Sie SeaTable in Ihrer eigenen Infrastruktur hosten können."     
+        a: Ja, absolut. Für [öffentliche Verwaltungen]({{< relref "/pages/landing-pages/industry-solutions/public-service" >}}) eignen sich unsere Lösungen SeaTable Server oder SeaTable Dedicated, mit denen Sie SeaTable in Ihrer eigenen Infrastruktur hosten können.    
 ---        
