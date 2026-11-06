@@ -19,14 +19,14 @@ sections:
       text: "Recomendamos que você assine nossa newsletter para sempre receber informações sobre a versão mais recente e segura do SeaTable Server."
       items:
           - icon: fingerprint
+            headline: 'SeaTable 7'
+            link: '#release-7'
+          - icon: bullseye
             headline: 'SeaTable 6'
             link: '#release-6'
-          - icon: bullseye
-            headline: 'SeaTable 5'
-            link: '#release-5'
           - icon: code
             headline: 'Versões anteriores'
-            link: '#release-4'
+            link: '#release-5'
 
     - name: 'content-11'
       weight: 3
@@ -42,7 +42,7 @@ sections:
       subtitle: Detalhes da versão
       anchor: release-7
       items:
-        - text: 'Version **7.0.13** em 6 de novembro de 2026: [Notas da versão 7.0]'
+        - text: 'Version **7.0.13** em 6 de novembro de 2026: [Notas da versão 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
       template: "7918d5e151644280bfe5"
 
     - name: "content-26"
