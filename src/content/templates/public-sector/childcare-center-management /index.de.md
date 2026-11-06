@@ -29,22 +29,22 @@ sections:
       subtitle: Zentrales Kita-Portal für Kommunen
       text: 
       items:
-        - icon: 'check'
+        - icon: 'eye'
           headline: 'Transparentes Kita-Portal'
           text: 'Einrichtungen, Profile und freie Betreuungsplätze in Ihrer Kommune trägerübergreifend an einem Ort. Eltern finden passende Kitas ohne Umwege.'
-        - icon: 'bars'
+        - icon: 'shield'
           headline: 'DSGVO-konforme KI-Nutzung'
           text: 'Nutzen Sie SeaTables integrierte KI-Funktionen für Zusammenfassungen oder Klassifizierungen – DSGVO-konform dank eigenem KI-Server.'
-        - icon: 'chart-line'
+        - icon: 'edit'
           headline: 'Dokumente auf Knopfdruck'
           text: 'Erstellen Sie Betreuungsverträge oder Beitragsrechnungen im Kita-Navigator und versenden Sie Dokumente direkt per E-Mail – einfach per Knopfdruck.'
-        - icon: 'lock'
+        - icon: 'pencil'
           headline: 'Flexibel anpassbar'
           text: 'Passen Sie Tabellen, Felder und Ansichten individuell an die Vorgaben Ihrer Gemeinde an. Ihre Kita-Datenbank wächst mit Ihren Anforderungen.' 
-        - icon: 'pencil'
+        - icon: 'people-group'
           headline: 'Kapazitäten sofort sichtbar'
           text: 'Eltern und Jugendämter sehen auf einen Blick, welche Kitas ausgelastet sind. So erleichtern Sie die kommunale Bedarfsplanung.'
-        - icon: 'bell'
+        - icon: 'search'
           headline: 'Nachweise zentral speichern'
           text: 'Impfnachweise und weitere Dokumente werden einmal an den Eltern- und Kindstammdaten gespeichert und sind dann für berechtigte Personen verfügbar.' 
 
