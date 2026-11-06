@@ -1,7 +1,7 @@
 ---
 title: 'Unterstützte Python Bibliotheken'
 date: 2023-05-12
-lastmod: '2026-03-27'
+lastmod: '2026-10-26'
 categories:
     - 'javascript-python'
 author: 'cdb'
@@ -32,6 +32,7 @@ Für einige dieser Bibliotheken bieten wir [Python-Beispiele]({{< relref "help/s
 | [python-barcode](https://pypi.org/project/python-barcode/) | Barcode-Erzeugung | [Barcodes generieren]({{< relref "help/skripte/python/barcode-generieren" >}}) |
 | [pillow-heif](https://pypi.org/project/pillow-heif/) | HEIC/HEIF-Bildunterstützung | [HEIC zu PNG konvertieren]({{< relref "help/skripte/python/heic-zu-png-konvertieren" >}}) |
 | [pdfmerge](https://pypi.org/project/pdfmerge/) | PDF-Zusammenführung | [PDFs zusammenführen]({{< relref "help/skripte/python/pdf-zusammenfuehren" >}}) |
+| [pypdfium2](https://pypi.org/project/pypdfium2/) | PDF-Rendering und -Verarbeitung | |
 | [rapidfuzz](https://pypi.org/project/RapidFuzz/) | Fuzzy String Matching | |
 | [markdown](https://pypi.org/project/Markdown/) | Markdown zu HTML Konvertierung | |
 | [ldap3](https://pypi.org/project/ldap3/) | LDAP-Operationen | |
