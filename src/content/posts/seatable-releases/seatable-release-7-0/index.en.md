@@ -4,7 +4,7 @@ description: 'SeaTable 7.0 is all about AI. Describe a page in natural language 
 date: 2026-11-06
 author: 'rdb'
 url: '/seatable-release-7-0'
-color: '#dc6165'
+color: '#5e90a0'
 categories:
     - 'product-features'
 seo:

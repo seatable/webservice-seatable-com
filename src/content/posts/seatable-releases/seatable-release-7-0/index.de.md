@@ -4,7 +4,7 @@ description: 'SeaTable 7.0 steht ganz im Zeichen der KI. Beschreiben Sie eine Se
 date: 2026-11-06
 author: 'rdb'
 url: '/de/seatable-release-7-0'
-color: '#dc6165'
+color: '#5e90a0'
 categories:
     - 'product-features'
 seo:
