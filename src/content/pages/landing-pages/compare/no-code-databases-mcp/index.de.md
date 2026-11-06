@@ -70,6 +70,22 @@ Abgefragte Daten gehen an den KI-Anbieter, den Sie nutzen, unabhängig vom Produ
 
 ## FAQ
 
+{{< faq "Welche No-Code-Datenbanken haben einen MCP-Server?" >}}
+Unter anderem SeaTable, Airtable, Baserow, NocoDB, Notion, SmartSuite und Coda. Sie unterscheiden sich vor allem darin, wie eng sich der Zugriff begrenzen lässt, ob die KI die Struktur ändern darf und ob sich der Server selbst betreiben lässt. Die Liste ist nicht vollständig.
+{{< /faq >}}
+
+{{< faq "Welche Airtable-Alternativen eignen sich für KI-Agenten und MCP?" >}}
+Das hängt von der Aufgabe ab. Sollen Agenten Tabellen und Felder aufbauen, passen SmartSuite und NocoDB. Sollen sie nur mit Daten arbeiten und die Struktur nicht ändern, passt SeaTable. Wenn Sie alles selbst betreiben wollen, kommen SeaTable, Baserow und NocoDB infrage.
+{{< /faq >}}
+
+{{< faq "Worauf sollten wir achten, wenn wir einen KI-Agenten per MCP an unsere Firmendatenbank anbinden?" >}}
+Beginnen Sie mit reinem Lesezugriff und geben Sie nur die nötigen Daten frei. Klären Sie, an welchen KI-Anbieter die abgefragten Daten gehen und was sich rückgängig machen lässt. Prüfen Sie auch, ob der Agent nur Daten oder auch die Struktur ändern darf.
+{{< /faq >}}
+
+{{< faq "Wie verbinde ich Claude oder ChatGPT mit SeaTable?" >}}
+Tragen Sie in Ihrem KI-Assistenten den gehosteten Server `https://mcp.seatable.com/mcp` und einen API-Token Ihrer Base ein. Bei ChatGPT melden Sie sich stattdessen per OAuth an. Die Schritte stehen in der Hilfe unter [Claude Desktop verbinden]({{< relref "help/ai/ai-agents/connect-claude-desktop" >}}) und [ChatGPT verbinden]({{< relref "help/ai/ai-agents/connect-chatgpt" >}}).
+{{< /faq >}}
+
 {{< faq "Kann ein KI-Agent in SeaTable meine Tabellenstruktur ändern?" >}}
 Nein. Er kann nur Optionen zu bestehenden Auswahlspalten hinzufügen.
 {{< /faq >}}

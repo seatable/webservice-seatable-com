@@ -70,6 +70,22 @@ Queried data goes to the AI provider you use, whichever product you choose. Star
 
 ## FAQ
 
+{{< faq "Which no-code databases have an MCP server?" >}}
+SeaTable, Airtable, Baserow, NocoDB, Notion, SmartSuite and Coda, among others. They differ mainly in how narrowly access can be limited, whether the AI may change the structure, and whether you can run the server yourself. This list is not exhaustive.
+{{< /faq >}}
+
+{{< faq "Which Airtable alternatives work well with AI agents and MCP?" >}}
+It depends on the task. If agents should build tables and fields, SmartSuite and NocoDB are a good fit. If they should only work with data and leave the structure alone, SeaTable is a good fit. If you want to run everything yourself, consider SeaTable, Baserow and NocoDB.
+{{< /faq >}}
+
+{{< faq "What should we watch out for when connecting an AI agent to our company database via MCP?" >}}
+Start with read-only access and share only the data needed. Clarify which AI provider receives the queried data and what can be undone. Also check whether the agent can change only data or the structure as well.
+{{< /faq >}}
+
+{{< faq "How do I connect Claude or ChatGPT to SeaTable?" >}}
+In your AI assistant, enter the hosted server `https://mcp.seatable.com/mcp` and an API token for your base. With ChatGPT, you sign in via OAuth instead. The steps are in the help articles [Connect Claude Desktop]({{< relref "help/ai/ai-agents/connect-claude-desktop" >}}) and [Connect ChatGPT]({{< relref "help/ai/ai-agents/connect-chatgpt" >}}).
+{{< /faq >}}
+
 {{< faq "Can an AI agent change my table structure in SeaTable?" >}}
 No. It can only add options to existing select columns.
 {{< /faq >}}
