@@ -4,7 +4,7 @@ description: "SeaTable 7.0 est placé sous le signe de l'IA. Décrivez une page 
 date: 2026-11-06
 author: 'rdb'
 url: '/fr/seatable-release-7-0'
-color: '#dc6165'
+color: '#5e90a0'
 categories:
     - 'product-features'
 seo:

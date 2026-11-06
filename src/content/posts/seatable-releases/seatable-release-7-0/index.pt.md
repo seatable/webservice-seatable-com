@@ -4,7 +4,7 @@ description: 'O SeaTable 7.0 gira em torno da IA. Descreva uma página em lingua
 date: 2026-11-06
 author: 'rdb'
 url: '/pt/seatable-release-7-0'
-color: '#dc6165'
+color: '#5e90a0'
 categories:
     - 'product-features'
 seo:

@@ -4,7 +4,7 @@ description: 'SeaTable 7.0 посвящён искусственному инт�
 date: 2026-11-06
 author: 'rdb'
 url: '/ru/seatable-release-7-0'
-color: '#dc6165'
+color: '#5e90a0'
 categories:
     - 'product-features'
 seo:
