@@ -248,3 +248,19 @@ cookies:
 
 compare:
     as_of: 'Stand:'
+
+sitemap:
+    languages: 'Sprachen'
+    sections: 'Bereiche'
+    groups:
+        page: 'Seiten'
+        post: 'Blog'
+        help: 'Hilfe'
+        template: 'Vorlagen'
+        lifestyle: 'Alltag & Freizeit'
+    xml_hint: 'Für Suchmaschinen:'
+    col_page: 'Seite'
+    col_images: 'Bilder'
+    col_priority: 'Priorität'
+    col_lastmod: 'Zuletzt geändert'
+    all: 'Alle'

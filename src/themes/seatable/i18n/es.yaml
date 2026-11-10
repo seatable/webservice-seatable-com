@@ -248,3 +248,19 @@ cookies:
 
 compare:
     as_of: 'Estado:'
+
+sitemap:
+    languages: 'Idiomas'
+    sections: 'Secciones'
+    groups:
+        page: 'Páginas'
+        post: 'Blog'
+        help: 'Ayuda'
+        template: 'Plantillas'
+        lifestyle: 'Vida cotidiana y ocio'
+    xml_hint: 'Para buscadores:'
+    col_page: 'Página'
+    col_images: 'Imágenes'
+    col_priority: 'Prioridad'
+    col_lastmod: 'Última modificación'
+    all: 'Todo'
