@@ -1,5 +1,5 @@
 {{- if hugo.IsProduction -}}
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {{- /* Order: core pages first, private topics (lifestyle) last */}}
     {{- range slice "page" "post" "help" "template" "lifestyle" }}

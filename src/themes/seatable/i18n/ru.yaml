@@ -248,3 +248,19 @@ cookies:
 
 compare:
     as_of: 'По состоянию на'
+
+sitemap:
+    languages: 'Языки'
+    sections: 'Разделы'
+    groups:
+        page: 'Страницы'
+        post: 'Блог'
+        help: 'Справка'
+        template: 'Шаблоны'
+        lifestyle: 'Повседневная жизнь и досуг'
+    xml_hint: 'Для поисковых систем:'
+    col_page: 'Страница'
+    col_images: 'Изображения'
+    col_priority: 'Приоритет'
+    col_lastmod: 'Изменено'
+    all: 'Все'

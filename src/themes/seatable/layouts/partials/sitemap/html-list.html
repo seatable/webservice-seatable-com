@@ -1,0 +1,34 @@
+{{- /*
+  Table for the HTML sitemap. Params: pages, images (bool: count images like the XML sitemap does).
+  Priority and image count use the same logic as partials/sitemap/url.html.
+*/ -}}
+<div class="overflow-x-auto">
+    <table class="w-full border-collapse text-left text-sm">
+        <thead>
+            <tr class="border-b border-neutral-300 text-neutral-500">
+                <th class="py-2 pr-4 font-semibold">{{ T "sitemap.col_page" }}</th>
+                <th class="hidden py-2 pr-4 text-right font-semibold sm:table-cell">{{ T "sitemap.col_images" }}</th>
+                <th class="hidden py-2 pr-4 text-right font-semibold sm:table-cell">{{ T "sitemap.col_priority" }}</th>
+                <th class="whitespace-nowrap py-2 text-right font-semibold">{{ T "sitemap.col_lastmod" }}</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{- range .pages }}
+                {{- $m := partial "sitemap/meta.html" . }}
+                <tr class="border-b border-neutral-100 align-top hover:bg-[#25221e08]">
+                    <td class="py-2 pr-4">
+                        <a class="text-blue-600 hover:underline" href="{{ .RelPermalink }}">{{ .LinkTitle | default .Title }}</a>
+                        <div class="break-all text-xs text-neutral-500">{{ .Permalink }}</div>
+                    </td>
+                    <td class="hidden py-2 pr-4 text-right tabular-nums sm:table-cell">
+                        {{- if $.images }}{{ len (findRE `(?s)<img.+?>` .Content) }}{{ else }}–{{ end -}}
+                    </td>
+                    <td class="hidden py-2 pr-4 text-right tabular-nums sm:table-cell">{{ printf "%.1f" $m.priority }}</td>
+                    <td class="whitespace-nowrap py-2 text-right tabular-nums">
+                        {{- if not .Lastmod.IsZero }}{{ .Lastmod.Format "2006-01-02" }}{{ else }}–{{ end -}}
+                    </td>
+                </tr>
+            {{- end }}
+        </tbody>
+    </table>
+</div>
