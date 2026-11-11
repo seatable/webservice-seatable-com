@@ -8,8 +8,8 @@ color: '#5e90a0'
 categories:
     - 'product-features'
 seo:
-    title: 'SeaTable 7.0 : toute la puissance de l'IA au service du no-code !'
-    description: 'SeaTable 7.0 met l'IA à l'honneur : analysez vos bases avec l'IA et utilisez-la pour créer des pages HTML dans vos applications grâce au nouveau SDK HTML.'
+    title: "SeaTable 7.0 : toute la puissance de l'IA au service du no-code !"
+    description: "SeaTable 7.0 met l'IA à l'honneur : analysez vos bases avec l'IA et utilisez-la pour créer des pages HTML dans vos applications grâce au nouveau SDK HTML."
 register:
     show: true
 ---
