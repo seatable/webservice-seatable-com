@@ -10,7 +10,7 @@ aliases:
     - '/fr/aide/die-countlinks-formel'
 seo:
     title: 'Countlinks SeaTable : calcul des liaisons entre tables'
-    description: 'Utilisez Countlinks pour connaître en temps réel le nombre de liens dans vos colonnes reliées. Idéal pour listes de membres, références croisées et projets.'
+    description: 'Avec Countlinks, comptez automatiquement les entrées liées à une ligne. Idéal pour les listes de participants, les analyses ou toute forme de liaison multiple.'
 
 ---
 
@@ -24,13 +24,13 @@ Vous ne pouvez créer une colonne avec la formule Countlinks que si vous avez li
 
 ## Champ d'application de la formule Countlinks
 
-La **formule Countlinks** devrait être utilisée chaque fois que vous souhaitez afficher le **nombre d'entrées** d'un autre tableau en tant que référence croisée.
+La **formule Countlinks** devrait être utilisée chaque fois que vous souhaitez afficher le **nombre d'entrées liées à une ligne**.
 
 Par exemple, lors de la planification d'un atelier, il est possible de représenter le nombre de participants inscrits à partir d'un tableau séparé. La [colonne de liaison]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) conserverait ainsi les noms de tous les participants.
 
 ![La formule Countlinks.](images/countlinks-2.png)
 
-L'utilisation de la formule Countlinks n'a de sens que si vous activez l'option **Autoriser les liens vers plusieurs lignes** lors de la création d'une colonne de type **Lien vers d'autres entrées**. Si cette option était désactivée, le champ de la formule Countlinks contiendrait toujours un un.
+L'utilisation de la formule Countlinks n'a de sens que si l'option **Limiter les liens à une ligne maximum** est désactivée dans les paramètres d'une colonne de liens. Si cette option était activée, le champ de la formule Countlinks afficherait toujours un 1 (= une seule ligne liée).
 
 ## Création d'une formule Countlinks
 
