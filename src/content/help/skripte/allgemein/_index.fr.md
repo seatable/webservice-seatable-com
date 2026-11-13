@@ -6,3 +6,5 @@ seo:
 url: '/fr/aide/scripts/informations-generales'
 weight: 1
 ---
+
+{{< youtube QvDfqtGeTlo >}}
