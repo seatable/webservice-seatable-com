@@ -15,6 +15,8 @@ tags:
     - 'No Code & Low Code'
     - 'IT Security & Data Privacy'
 color: '#757dd6'
+register:
+   show: true
 ---
 
 **You ask an AI a question about your data** and instantly get the right answer. No export, no formula, no detours. That's exactly what the SeaTable MCP Server makes possible. Welcome to a new era of working with data.

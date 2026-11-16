@@ -15,6 +15,8 @@ tags:
     - 'No Code & Low Code'
     - 'IT Sicherheit & Datenschutz'
 color: '#757dd6'
+register:
+   show: true
 ---
 
 **Sie stellen einer KI eine Frage zu Ihren Daten** und erhalten sofort die richtige Antwort. Ohne Export, ohne Formel, ohne Umwege. Genau das ermöglicht der SeaTable MCP Server. Willkommen in einer neuen Ära der Datenarbeit.

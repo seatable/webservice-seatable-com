@@ -12,7 +12,7 @@ seo:
     title: 'Vogelbeobachtung & Birding: Der Guide für Einsteiger'
     description: 'Warum Vogelbeobachtung das neue Yoga ist. Erfahren Sie alles über Artenbestimmung, Ausrüstung und geführte Birdwatching Touren.'
 register:
-   draft: true
+   show: true
 ---
 Ein Fernglas, ein ruhiger Morgen im Wald und der Ruf eines unbekannten Vogels. Was früher als verstaubtes Hobby der Rentner galt, erlebt gerade eine überraschende Renaissance. Vogelbeobachtung boomt, und das nicht nur bei der älteren Zielgruppe. Immer mehr junge Menschen entdecken **das Beobachten heimischer und exotischer Vogelarten als bewusste [Auszeit vom digitalen Alltag]({{< relref "posts/digital-detox" >}})**. 
 

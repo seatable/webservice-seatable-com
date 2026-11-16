@@ -13,6 +13,8 @@ tags:
     - 'Operations'
 color: '#eec62e'
 url: '/ai-in-operations-management/'
+register:
+   show: true
 ---
 
 ## Why Does Modern Operations Management Need a New Data Architecture?

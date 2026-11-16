@@ -15,6 +15,8 @@ tags:
     - 'No Code & Low Code'
     - 'Sécurité informatique & protection des données'
 color: '#757dd6'
+register:
+   show: true
 ---
 
 **Vous posez une question à une IA sur vos données** et obtenez immédiatement la bonne réponse. Sans export, sans formule, sans détour. C'est exactement ce que permet le serveur MCP de SeaTable. Bienvenue dans une nouvelle ère du travail avec les données.

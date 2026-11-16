@@ -13,6 +13,8 @@ tags:
     - 'Operations'
 color: '#eec62e'
 url: '/de/ki-im-operations-management/'
+register:
+   show: true
 ---
 
 ## Warum braucht modernes Betriebsmanagement eine neue Datenarchitektur?

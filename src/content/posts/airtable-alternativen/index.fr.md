@@ -14,6 +14,8 @@ tags:
 seo:
     title: 'Les 8 meilleures alternatives à Airtable en 2026 comparées'
     description: "Alternatives à Airtable 2026 : SeaTable, Baserow, NocoDB, Grist, SmartSuite, Notion, Microsoft Lists et Google Sheets comparés – prix, hébergement, RGPD et auto-hébergement."
+register:
+   show: true
 ---
 
 **État : 5 octobre 2026.** Nous avons vérifié pour la dernière fois tous les prix et toutes les limites sur les sites officiels des éditeurs le 5 octobre 2026.
