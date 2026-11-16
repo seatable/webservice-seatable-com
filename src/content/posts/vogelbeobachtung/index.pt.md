@@ -12,7 +12,7 @@ seo:
     title: 'Observação de aves e birding: o guia para principiantes'
     description: 'Por que é que a observação de aves é o novo ioga. Descubra tudo sobre a identificação de espécies, o equipamento e as visitas guiadas de observação de aves.'
 register:
-   draft: true
+   show: true
 ---
 Um par de binóculos, uma manhã tranquila na floresta e o canto de um pássaro desconhecido. O que antes era considerado um passatempo antiquado dos reformados está agora a viver um renascimento surpreendente. A observação de aves está em alta, e não apenas entre o público mais velho. Cada vez mais jovens estão a descobrir **a observação de espécies de aves nativas e exóticas como [uma pausa consciente da rotina digital]({{< relref "posts/digital-detox" >}})**. 
 

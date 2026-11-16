@@ -13,6 +13,8 @@ tags:
     - 'Операционная деятельность'
 color: '#eec62e'
 url: '/ru/ii-v-upravlenii-operatsionnoy-deyatelnoatyu/'
+register:
+   show: true
 ---
 
 ## Почему современному управлению операционной деятельностью требуется новая архитектура данных?

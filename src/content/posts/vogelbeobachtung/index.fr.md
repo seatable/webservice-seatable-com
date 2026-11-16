@@ -12,7 +12,7 @@ seo:
     title: 'Observation des oiseaux et « birding » : le guide pour les débutants'
     description: "Pourquoi l'observation des oiseaux est le nouveau yoga. Découvrez tout ce qu'il faut savoir sur l'identification des espèces, l'équipement et les visites guidées d'observation des oiseaux."
 register:
-   draft: true
+   show: true
 ---
 Une paire de jumelles, une matinée tranquille en forêt et le chant d'un oiseau inconnu. Ce qui était autrefois considéré comme un passe-temps désuet réservé aux retraités connaît actuellement un regain d'intérêt surprenant. L'observation des oiseaux est en plein essor, et pas seulement auprès des personnes âgées. De plus en plus de jeunes découvrent **l'observation d'espèces d'oiseaux locales et exotiques comme [une pause bienvenue loin du quotidien numérique]({{< relref "posts/digital-detox" >}})**. 
 

@@ -15,6 +15,8 @@ tags:
     - 'No Code & Low Code'
     - 'IT Sicherheit & Datenschutz'
 color: '#ff3d33'
+register:
+   show: true
 ---
 
 Stellen Sie sich vor, Sie öffnen Ihre SeaTable-Base mit 2.000 Projekteinträgen. Doch statt Filter zu setzen, Ansichten zu konfigurieren und Formeln zu schreiben, tippen Sie:

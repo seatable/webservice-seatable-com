@@ -15,6 +15,8 @@ tags:
     - 'No Code & Low Code'
     - 'IT Security & Data Privacy'
 color: '#ff3d33'
+register:
+   show: true
 ---
 
 Imagine opening your SeaTable base with 2,000 project entries. But instead of setting filters, configuring views, and writing formulas, you type:
