@@ -1,8 +1,8 @@
 ---
 title: 'Erstellung eines AV-Vertrages'
 seo:
-    title: 'AVV'
-    description: 'AVV'
+    title: 'AVV-Generator: AVV online erstellen | SeaTable'
+    description: 'Erstellen Sie Ihren Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO mit SeaTable online – für SeaTable Cloud und SeaTable Dedicated.'
 date: 2025-12-02
 type: 'legal/avv'
 url: '/de/avv'
