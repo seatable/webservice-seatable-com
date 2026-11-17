@@ -3,7 +3,7 @@ title: 'Digitales Innenstadt-Managementsystem'
 description: 'Gestalten Sie Ihre Smart City: Mit SeaTable städtische Assets verwalten, Bürgerbeteiligung fördern & den Grundstein für eine urbane Datenplattform legen.'
 date: '2026-11-17'
 lastmod: '2026-11-17'
-url: '/de/vorlage/innenstadt-managementsystem/'
+url: '/template/innenstadt-managementsystem/'
 category: 'public sector'
 functions:
 seo:
