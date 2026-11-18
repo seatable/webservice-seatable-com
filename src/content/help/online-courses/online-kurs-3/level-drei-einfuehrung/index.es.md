@@ -52,7 +52,7 @@ Al terminar, sabrá trabajar con soltura y seguridad en equipo sobre los mismos 
 
 El curso se lee aquí, en el sitio web. Dentro de la base, el plugin de cursos en línea le acompaña: en determinados momentos, usted pasa a él para practicar y hacer que compruebe su trabajo.
 
-![El plugin de cursos en línea abierto debajo de una base: a la izquierda la lista de pasos, a la derecha el ejercicio actual con su botón Verify](images/online-courses-plugin.png)
+{{< zoom image="images/online-courses-plugin.png" alt="El plugin de cursos en línea abierto debajo de una base: a la izquierda la lista de pasos, a la derecha el ejercicio actual con su botón Verify" >}}
 
 Si es la primera vez que lo utiliza, empiece por su curso de introducción: una breve presentación de su funcionamiento, con dos pequeños ejercicios.
 
