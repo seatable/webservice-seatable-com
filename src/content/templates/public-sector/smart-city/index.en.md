@@ -15,7 +15,10 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Digitales Innenstadt-Managementsystem – Die SeaTable-Vorlage für Smart Cities'
-      text: 'Begrenztes Personal, knappe Haushalte und dezentrale Daten stellen Kommunen for große Herausforderungen. Hinzu kommen steigende Ansprüche der Einwohner nach schnellen Verfahren. Digitale Lösungen und **vernetzte Daten** ermöglichen einen gezielten Einsatz Ihrer kommunalen Ressourcen. Mit dem digitalen Innenstadt-Managementsystem mit integriertem Bürgercockpit von SeaTable nutzen Sie **eine moderne, DSGVO-konforme urbane Datenplattform**: Sie bündeln Messdaten, Zuständigkeiten und Bürgermeldungen in einer zentralen No-Code-Datenbank. Ohne langwierige IT-Projekte oder zusätzliche Maintenance-Kosten.'
+      <!-- vor statt for -->
+      text: 'Begrenztes Personal, knappe Haushalte und dezentrale Daten stellen Kommunen for große 
+      <!-- Ansprüche ist für mich negativ konnotiert, vielleicht lieber Erwartungen? -->
+      Herausforderungen. Hinzu kommen steigende Ansprüche der Einwohner nach schnellen Verfahren. Digitale Lösungen und **vernetzte Daten** ermöglichen einen gezielten Einsatz Ihrer kommunalen Ressourcen. Mit dem digitalen Innenstadt-Managementsystem mit integriertem Bürgercockpit von SeaTable nutzen Sie **eine moderne, DSGVO-konforme urbane Datenplattform**: Sie bündeln Messdaten, Zuständigkeiten und Bürgermeldungen in einer zentralen No-Code-Datenbank. Ohne langwierige IT-Projekte oder zusätzliche Maintenance-Kosten.'
       classes:
           - bg-white
       template: '69b453b7e66f435abe0b'
@@ -44,7 +47,9 @@ sections:
           text: ' SeaTable erfüllt höchste Sicherheitsanforderungen und wird exklusiv auf Servern europäischer Unternehmen in Deutschland gehostet.' 
         - icon: 'robot'
           headline: 'KI-gestützte Automationen'
-          text: 'Nutzen Sie integrierte Automatisierungen und KI-Funktionen, um manuelle Verwaltungsaufwände zu reduzieren. DSGVO-konform dank eingenem KI-Server.'
+          text: 'Nutzen Sie integrierte Automatisierungen und KI-Funktionen, um manuelle Verwaltungsaufwände 
+          <!-- eingenem -> eigenem -->
+          zu reduzieren. DSGVO-konform dank eingenem KI-Server.'
         - icon: 'search'
           headline: 'Trendmonitoring'
           text: 'Nutzen Sie regelbasierte Farbmarkierungen um langfristige Trends bei Wetter- und Luftdaten auf einen Blick zu erkennen und Maßnahmen zu planen.' 
@@ -102,7 +107,9 @@ sections:
         image: '/images/templatepage_smart_city_04.png'
         image_alt: "Kartenansicht im Bürgercockpit mit Füllständen der Abfallbehälter"
       - headline: 'Bürgerbeteiligung über digitales Bürgercockpit'
-        text: 'Über ein einfaches Webformular in der Smart City App melden Bürgerinnen und Bürger Anliegen wie zusätzliche Ladesäulen für E-Autos oder Schäden an Spielplätzen, Straßenlaternen oder Gebäuden. Die Meldungen landen zentral in der Tabelle "Citizen Inquiries" und können mittels Automatisierung direkt den verantwortlichen Sachbearbeitern zugewiesen werden. Dadurch **werden Bürgerbüros entlastet, Meldewege effizienter und Bearbeitungzeiten verkürzt**.'
+        text: 'Über ein einfaches Webformular in der Smart City App melden Bürgerinnen und Bürger Anliegen wie zusätzliche Ladesäulen für E-Autos oder Schäden an Spielplätzen, Straßenlaternen oder Gebäuden. Die Meldungen landen zentral in der Tabelle "Citizen Inquiries" und können mittels Automatisierung direkt den verantwortlichen Sachbearbeitern zugewiesen werden. Dadurch **werden Bürgerbüros entlastet, Meldewege
+        <!-- s fehlt bei Bearbeitungzeiten -->
+        effizienter und Bearbeitungzeiten verkürzt**.'
         image: '/images/template_page_smart_city_05.png'
         image_alt: "Bürgernanfrageformular im Bürgercockpit"
             
@@ -138,13 +145,16 @@ sections:
         text: 'Lesen Sie gezielte Informationen wie Datum, Ort oder Kontakt aus Freitextbeschreibungen oder Dokumenten aus. Manuelle Datenübertragungen werden reduziert und Fehler vermieden.'
         icon: layer-group
       - headline: 'Text aus Bildern auslesen'
+      <!-- Komma fehlt nach OCR -->
         text: 'Nutzen Sie OCR um Texte aus Bildanhängen auszulesen und direkt in ein separates Tabellenfeld einzutragen. So machen Sie auch Informationen aus Bildquellen durchsuchbar.'
         icon: image
       - headline: 'Themen klassifizieren' 
         text: 'Ordnen Sie eingehende Meldungen automatisch Kategorien wie Straßenschaden, Beleuchtung oder Stadtreinigung zu. So landen Anfragen gezielt bei den richtigen Stellen. '
         icon: circle-info
       - headline: 'Antworten formulieren'
-        text: 'Nutzen Sie Custom Prompts um Antwortschreiben auf Bürgeranfragen zu entwerfen, Maßnahmen zu bewerten oder Leerungsintervalle von Müllbehältern zu analysiseren. '
+        text: 'Nutzen Sie Custom Prompts um Antwortschreiben auf Bürgeranfragen zu entwerfen, Maßnahmen zu
+        <!-- Tippfehler bei analysiseren -->
+        bewerten oder Leerungsintervalle von Müllbehältern zu analysiseren. '
         icon: wand-magic-sparkles
       - headline: 'Mehrsprachige Hinweise'
         text: 'Nutzen Sie die KI-Funktionen, um Hinweise im Bürgercockpit oder Erläuterungen zu laufenden Anfragen in mehreren Sprachen bereitzustellen. So vermeiden Sie Missverständnisse.'
@@ -188,5 +198,7 @@ sections:
       - q: Können wir SeaTable als urbane Datenplattform und digitales Innenstadt-Managementsystem auch selbst hosten? 
         a: Ja, öffentliche Verwaltungen können mit SeaTable Server oder SeaTable Dedicated zwischen zwei Modellen wählen, bei denen sie SeaTable in ihrer eigenen kommunalen Infrastruktur hosten.
       - q: Ist SeaTable OZG-konform? 
-        a: Ja, alle SeaTable-Vorlagen sind modular aufgebaut und lassen sich flexibel an Ihre kommunalen Vorgaben anpassen. So bilden unser digitales Innenstadt-Managementssystem sie eine solide Grundlage für die OZG-konforme Digitalisierung Ihrer Kommune.  
+        a: Ja, alle SeaTable-Vorlagen sind modular aufgebaut und lassen sich flexibel an Ihre kommunalen Vorgaben anpassen. 
+        <!-- Der folgende Satz macht keinen Sinn -->
+        So bilden unser digitales Innenstadt-Managementssystem sie eine solide Grundlage für die OZG-konforme Digitalisierung Ihrer Kommune.  
 ---        
