@@ -3,7 +3,7 @@ title: 'AI automation for your business without data risk'
 description: ''
 seo:
     title: 'Discover the benefits of AI automation | SeaTable'
-    description: 'Increase your efficiency and productivity with our AI solutions for businesses. Learn more about AI automation!'
+    description: 'AI automations without coding: summarize and classify text, extract data and run OCR directly in the no-code database. Own AI server in Germany, data stays in the EU.'
 date: '2026-03-04'
 url: '/ai-automation'
 
@@ -51,7 +51,7 @@ sections:
       
       - icon: shield
         headline: Data protection and governance
-        text: "Every AI action takes place within the SeaTable infrastructure on European servers, is documented, and is auditable—a significant advantage over external tools."
+        text: "AI automations run on SeaTable's own AI server in Germany. Every run is recorded in the automation's execution log – a significant advantage over external tools."
         
     - name: content-12
       weight: 3
@@ -63,10 +63,10 @@ sections:
       description: 'SeaTable is the perfect [AI no-code solution]({{< relref "/" >}}) for companies looking for **modern data management with customized AI-powered workflows**. It combines AI-powered automations, app builder, and relational database in one system.'
       items:
         - text: "**Easy implementation** without IT thanks to no-code"
-        - text: "Transparency and documentation through **AI usage logs**"
+        - text: "Transparency through the **execution log** of every automation"
         - text: "**Visualizations and dashboards** for monitoring and reporting"
         - text: "**As a cloud model or self-hosted**: Use SeaTable according to your compliance requirements."
-        - text: "GDPR-compliant AI use with licensed European servers"
+        - text: "GDPR-compliant AI automations on **SeaTable's own AI server in Germany**"
         - text: "**Improved collaboration** in teams thanks to integrated chat function and notifications"
       image: /images/landing_page_ki-automatisierung_01.png
       image_alt: "SeaTable's AI automations in the automation editor"    
@@ -120,15 +120,15 @@ sections:
       weight: 6
       title: Data protection and AI automation at SeaTable
       subtitle: Data control instead of loss of control
-      text: 'All SeaTable components are hosted exclusively on **certified European servers in Germany** and are fully GDPR-compliant. We are a reliable **partner for companies with high data protection and compliance requirements** that want to avoid publicly accessible GPT tools and protect their [digital sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}).'
+      text: '**With AI automations in SeaTable, your data never leaves the EU.** SeaTable runs its own AI server with the open-source model Gemma 4 E4B at Hetzner in Frankfurt. Your data is not sent to OpenAI, Google or any other US provider. SeaTable Cloud itself runs in certified data centers in Frankfurt and Munich. We are a reliable **partner for companies with high data protection and compliance requirements** that want to avoid publicly accessible GPT tools and protect their [digital sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}).'
       items:
       - icon: terminal
         headline: Own AI server
-        text: "We host ourn own AI model on a German server. All requests are encrypted and remain within our network."
+        text: "For AI automations, SeaTable hosts its own AI model on a German server. Requests are transmitted encrypted and remain within the SeaTable network."
 
       - icon: user-plus
         headline: GDPR compliant
-        text: SeaTable Cloud is hosted exclusively on a certified Swiss server in Germany. You retain control over your data.
+        text: "SeaTable Cloud runs at the Swiss provider Exoscale in ISO 27001 certified data centers in Frankfurt and Munich. Your data never leaves Europe."
 
       - icon: fingerprint
         headline: No model training
@@ -165,7 +165,9 @@ sections:
           - q: Can we use our own AI models?
             a: SeaTable Server customers can use the [SeaTable AI component](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) to connect different LLMs and providers via an OpenAI-compatible API for their AI automations. You can choose between self-hosted models or cloud GPTs. SeaTable Cloud users are currently unable to connect their own models.  
           - q: Is our data protected in accordance with the GDPR when using AI?
-            a: Absolutely, protecting your data is a priority at SeaTable, and we place great importance on ensuring that all AI processes are GDPR-compliant. That's why we host our own AI model on German servers. Your data is processed exclusively within the SeaTable infrastructure and is not passed on to external providers or used to train external AI systems. If you process particularly sensitive data or have to comply with very strict data protection requirements, you can alternatively run SeaTable with AI functionality completely on-premises.
+            a: Absolutely, protecting your data is a priority at SeaTable, and we place great importance on ensuring that all AI processes are GDPR-compliant. That's why we host our own AI model on German servers for AI automations. With AI automations, your data is processed exclusively within the SeaTable infrastructure and is not passed on to external providers or used to train external AI systems. If you process particularly sensitive data or have to comply with very strict data protection requirements, you can alternatively run SeaTable with AI functionality completely on-premises.
+          - q: "Does this also apply to the AI chat and AI agents via MCP?"
+            a: 'No, here you decide. For the AI chat plugin and for AI agents such as Claude Desktop, ChatGPT or Cursor, you choose an external AI provider, for example Anthropic, OpenAI or Mistral. The data that the chat or the agent queries for your question is sent to this provider. With the permissions of the API token, you define which bases the agent can access and whether it can only read. If you do not want any data to be sent to external providers, run SeaTable yourself and connect a local language model. Learn more in the help article [Permissions and Data Privacy When Using AI Agents]({{< relref "help/ai/ai-agents/data-security" >}}).'
           - q: Is the use of the AI feature in SeaTable included in the subscription?
             a: Yes, the AI feature can be used at no additional cost. However, if you make a lot of AI queries, additional costs may apply. Depending on the subscription model, each SeaTable user receives a certain monthly quota of free AI credits, which are required to use AI in automations. Additional costs are only incurred if credits are required beyond this quota. 
           - q: Can I audit what AI automation is used for?

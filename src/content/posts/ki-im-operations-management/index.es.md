@@ -13,6 +13,8 @@ tags:
     - 'Operaciones'
 color: '#eec62e'
 url: '/es/ia-en-la-gestion-de-operaciones/'
+register:
+   show: true
 ---
 
 ## ¿Por qué la gestión moderna de operaciones necesita una nueva arquitectura de datos?

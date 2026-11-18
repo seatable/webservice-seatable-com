@@ -10,7 +10,7 @@ aliases:
     - '/es/ayuda/die-countlinks-formel'
 seo:
     title: 'Countlinks en SeaTable: contar registros relacionados'
-    description: 'Con Countlinks cuente enlaces de columnas al instante. Perfecto para listas, planificación de eventos y gestión de relaciones entre tablas conectadas.'
+    description: 'Con Countlinks cuente automáticamente las entradas enlazadas con una fila. Ideal para listas de participantes, análisis o cualquier tipo de enlace múltiple.'
 
 ---
 
@@ -24,13 +24,13 @@ Sólo puede crear una columna con la fórmula Countlinks si ha enlazado dos tabl
 
 ## Ámbito de aplicación de la fórmula Countlinks
 
-La **fórmula Countlinks** debe utilizarse siempre que desee mostrar el **número de entradas de** otra tabla como referencia cruzada.
+La **fórmula Countlinks** debe utilizarse siempre que desee mostrar el **número de entradas enlazadas con una fila**.
 
 Por ejemplo, al planificar un taller, puede mostrar el número de participantes inscritos en una tabla aparte. La [columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) registraría así los nombres de todos los participantes.
 
 ![La fórmula Countlinks.](images/countlinks-2.png)
 
-El uso de la fórmula Countlinks sólo tiene sentido si activa la opción **Permitir enlace a varias filas** al crear una columna del tipo Enlace **a otras entradas**. Si la opción estuviera desactivada, siempre habría un uno en el campo de fórmula Countlinks.
+El uso de la fórmula Countlinks sólo tiene sentido si la opción **Limitar los enlaces a una fila como máximo** está desactivada en los ajustes de una columna de enlace. Si la opción estuviera activada, en el campo de la fórmula Countlinks siempre aparecería un uno (= una única fila enlazada).
 
 ## Creación de una fórmula Countlinks
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/die-countlinks-formel'
 seo:
     title: 'Countlinks-Formel in SeaTable: Verknüpfungen zählen'
-    description: 'Mit Countlinks zählen Sie automatisch die verknüpften Einträge einer Spalte. Ideal für Teilnehmerlisten, Querverweise oder jede Form von Mehrfachverknüpfung.'
+    description: 'Mit Countlinks zählen Sie automatisch die mit einer Zeile verknüpften Einträge. Ideal für Teilnehmerlisten, Auswertungen oder jede Form von Mehrfachverknüpfung.'
 
 ---
 
@@ -22,13 +22,13 @@ Sie können nur dann eine Spalte mit der Countlinks-Formel anlegen, wenn Sie zwe
 
 ## Anwendungsbereich der Countlinks-Formel
 
-Die **Countlinks-Formel** sollte immer dann zur Anwendung kommen, wenn Sie als Querverweis die **Anzahl von Einträgen** einer anderen Tabelle anzeigen möchten.
+Die **Countlinks-Formel** sollte immer dann zur Anwendung kommen, wenn Sie die **Anzahl der mit einer Zeile verknüpften Einträge** anzeigen möchten.
 
-Beispielsweise können Sie so bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) würde somit die Namen aller Teilnehmer festhalten.
+Beispielsweise können Sie bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) würde somit die Namen aller Teilnehmer festhalten.
 
 ![Die Countlinks-Formel.](images/countlinks-2.png)
 
-Die Verwendung der Countlinks-Formel ergibt nur Sinn, wenn Sie die Option **Verknüpfung zu mehreren Zeilen erlauben** bei der Erstellung einer Spalte des Typs **Verknüpfung zu anderen Einträgen** aktivieren. Wäre die Option ausgeschaltet, würde im Feld der Countlinks-Formel immer eine Eins stehen.
+Die Verwendung der Countlinks-Formel ergibt nur Sinn, wenn die Option **Verknüpfung auf maximal eine Zeile beschränken** in den Einstellungen einer Verknüpfungsspalte deaktiviert ist. Wäre die Option eingeschaltet, würde im Feld der Countlinks-Formel immer eine Eins (= eine einzige verknüpfte Zeile) stehen.
 
 ## Erstellen einer Countlinks-Formel
 

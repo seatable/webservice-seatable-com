@@ -24,7 +24,7 @@ A SeaTable oferece actualmente cinco opções de integração diferentes, que se
 - Javascript e Python
 - Integrações dentro da SeaTable
 - SeaTable API
-- Gancho Web
+- Webhook
 - Plataformas de automatização
 
 ## Roteiros em SeaTable
@@ -39,13 +39,13 @@ Numa base, a SeaTable oferece a possibilidade de activar **integrações de terc
 
 O SeaTable API fornece uma interface universal através da qual se pode interagir com os dados dentro do SeaTable utilizando qualquer software ou linguagem de programação. Por exemplo, pode utilizar o SeaTable API para escrever automaticamente os dados capturados noutro software para o SeaTable. Ou se quiser construir uma interface personalizada para alguns dados SeaTable, pode usar a API para aceder directamente aos dados sem a interface web.
 
-## Gancho Web
+## Webhook
 
-Os ganchos da Web são criados dentro da SeaTable para uma Base de cada vez. Uma vez criado um gancho web, o SeaTable envia uma mensagem para um URL à sua escolha sempre que é feita uma alteração nessa base. Neste URL, o software recebe os ganchos da Web e processa-os. Dependendo da alteração que foi feita na Base, pode realizar uma actividade de seguimento correspondente.
+Os webhooks são criados dentro da SeaTable para uma Base de cada vez. Uma vez criado um webhook, o SeaTable envia uma mensagem para um URL à sua escolha sempre que é feita uma alteração nessa base. Neste URL, o software recebe os webhooks e processa-os. Dependendo da alteração que foi feita na Base, pode realizar uma actividade de seguimento correspondente.
 
-Um exemplo típico de um gancho da web seria o controlo do estado de pagamento de uma factura ou subscrição. Assim que se define uma factura para o estado _Pago_ em SeaTable, outro software deve realizar uma acção correspondente. Poderia facilmente implementá-la com um gancho para a Web. Cada alteração às facturas no SeaTable é enviada via webhook para o outro software e apenas reage à mensagem de estado que é relevante para si.
+Um exemplo típico de um webhook seria o controlo do estado de pagamento de uma factura ou subscrição. Assim que se define uma factura para o estado _Pago_ em SeaTable, outro software deve realizar uma acção correspondente. Poderia facilmente implementá-la com um webhook. Cada alteração às facturas no SeaTable é enviada via webhook para o outro software e apenas reage à mensagem de estado que é relevante para si.
 
-Os ganchos da Web são normalmente utilizados quando não se pretende consultar regularmente o estado de uma informação, mas quando se pretende ser informado proactivamente quando ocorrem alterações. Para consultas de estado regulares, a API da SeaTable é tipicamente a melhor escolha.
+Os webhooks são normalmente utilizados quando não se pretende consultar regularmente o estado de uma informação, mas quando se pretende ser informado proactivamente quando ocorrem alterações. Para consultas de estado regulares, a API da SeaTable é tipicamente a melhor escolha.
 
 ## Plataformas de automatização
 

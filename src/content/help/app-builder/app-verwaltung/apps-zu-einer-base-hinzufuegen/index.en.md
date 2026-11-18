@@ -1,7 +1,7 @@
 ---
 title: 'Adding apps to a base'
 date: 2023-05-02
-lastmod: '2024-05-15'
+lastmod: '2026-11-15'
 categories:
     - 'apps'
 author: 'nsc2'
@@ -23,17 +23,10 @@ You want to add an app to your base to tailor the work in SeaTable even more ind
 
 1. Open any **base** where you want to add a new app.
 2. Click **Apps** in the base header.
-
-![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
-
-4. A new window appears. Click **Add App**.
-5. Decide what type of app you want to create and click **Add.**
-
-![Dialog box for adding apps](images/Add-App.png)
-
-7. Give the app a **name**.
-8. Confirm with **Submit**.
-
-![Name the app and confirm with Submit](images/confirm-to-add-app-to-base.jpg)
+   ![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
+3. A new window appears. Go to the **Universal App** box and click **Add**.
+   ![Dialog box for adding apps](images/add-app.png)
+4. Give the app a **name** and confirm with **Submit**.
+   ![Name the app and confirm with Submit](images/confirm-to-add-app-to-base.png)
 
 Once you have added the app, you can [edit]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) and customize it to your liking.

@@ -1,0 +1,125 @@
+{{- /*
+  HTML sitemap for humans (one page per language).
+  Uses the same page selection as the XML sitemaps (partials/sitemap/pages.html),
+  so both always list the same URLs. Within a group, pages are bucketed by their
+  top-level category (e.g. help/ai) or, for blog posts, by year.
+*/ -}}
+{{ define "main" }}
+    {{- $groups := slice -}}
+    {{- range $key := slice "page" "post" "help" "template" "lifestyle" -}}
+        {{- with partial "sitemap/pages.html" $key -}}
+            {{- $groups = $groups | append (dict "key" $key "pages" .) -}}
+        {{- end -}}
+    {{- end -}}
+    <article class="padding mx-auto max-w-full">
+        <header>
+            <h1 class="gradient mb-2 mt-0 pt-8 text-center text-4xl text-neutral-900 md:text-5xl">{{ .Title }}</h1>
+            {{ with .Description }}<p class="text-center text-sm">{{ . }}</p>{{ end }}
+
+            {{- /* Language switcher. Like the header switcher, it stores the choice in localStorage,
+                   otherwise the language redirect in baseof.html sends the visitor back. */}}
+            {{ if .IsTranslated }}
+                <nav class="mt-6 flex flex-wrap justify-center gap-2 text-sm" aria-label="{{ T "sitemap.languages" }}">
+                    {{ range sort .AllTranslations "Language.Weight" }}
+                        {{ if eq .Language.Lang $.Language.Lang }}
+                            <span class="rounded-lg bg-neutral-900 px-3 py-1 font-semibold text-white" aria-current="page">{{ .Language.LanguageName }}</span>
+                        {{ else }}
+                            <a class="rounded-lg px-3 py-1 text-blue-600 hover:bg-[#25221e12]" href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}" lang="{{ .Language.LanguageCode }}" onclick="try { localStorage.setItem('hugo_language', JSON.stringify('{{ .Language.Lang }}')) } catch (e) {}">{{ .Language.LanguageName }}</a>
+                        {{ end }}
+                    {{ end }}
+                </nav>
+            {{ end }}
+        </header>
+
+        <div class="mx-auto mt-10 max-w-[800px]">
+            {{- /* Filter buttons: with JS they show only the chosen group, without JS they are plain jump links */}}
+            {{- $btn := "rounded-lg border border-neutral-300 px-3 py-1 hover:bg-[#25221e12] aria-[current=true]:border-neutral-900 aria-[current=true]:bg-neutral-900 aria-[current=true]:text-white" }}
+            <nav id="sitemap-filter" class="mb-12 flex flex-wrap justify-center gap-2 text-sm print:hidden" aria-label="{{ T "sitemap.sections" }}">
+                <a class="{{ $btn }}" href="#" data-filter="" aria-current="true">{{ T "sitemap.all" }}</a>
+                {{ range $groups }}
+                    <a class="{{ $btn }}" href="#{{ .key }}" data-filter="{{ .key }}">
+                        {{ T (printf "sitemap.groups.%s" .key) }} <span class="opacity-60">({{ len .pages }})</span>
+                    </a>
+                {{ end }}
+            </nav>
+
+            {{ range $group := $groups }}
+                {{- $isPost := eq .key "post" -}}
+
+                {{- /* Bucket pages by category (top-level section below the main section) or year */ -}}
+                {{- $buckets := newScratch -}}
+                {{- range .pages -}}
+                    {{- $name := "" -}}
+                    {{- if $isPost -}}
+                        {{- if not .Date.IsZero }}{{ $name = .Date.Format "2006" }}{{ end -}}
+                    {{- else -}}
+                        {{- range .Ancestors -}}
+                            {{- if and (eq .Kind "section") (eq (len .SectionsEntries) 2) -}}{{- $name = .Title -}}{{- end -}}
+                        {{- end -}}
+                    {{- end -}}
+                    {{- $buckets.Add $name (slice .) -}}
+                {{- end -}}
+                {{- $names := slice -}}
+                {{- range $k, $_ := $buckets.Values }}{{ $names = $names | append $k }}{{ end -}}
+                {{- $names = sort $names "value" (cond $isPost "desc" "asc") -}}
+
+                <details id="{{ .key }}" class="sitemap-group mb-12 scroll-mt-24" open>
+                    <summary class="mb-4 cursor-pointer select-none border-b border-neutral-300 pb-2">
+                        <h2 class="inline text-2xl">
+                            {{ T (printf "sitemap.groups.%s" .key) }} <span class="text-base font-normal text-neutral-500">({{ len .pages }})</span>
+                        </h2>
+                    </summary>
+                    {{ range $names }}
+                        {{- $list := $buckets.Get . -}}
+                        {{- $list = cond $isPost (sort $list "Date" "desc") (sort $list "Title") -}}
+                        {{- /* Uncategorised pages (e.g. home page) come first and are always visible */ -}}
+                        {{ if eq . "" }}
+                            {{ partial "sitemap/html-list.html" (dict "pages" $list "images" (ne $group.key "page")) }}
+                        {{ else }}
+                            <details class="group mb-2 rounded-lg border border-neutral-200">
+                                <summary class="cursor-pointer select-none px-4 py-2 font-semibold hover:bg-[#25221e12]">
+                                    {{ . }} <span class="font-normal text-neutral-500">({{ len $list }})</span>
+                                </summary>
+                                <div class="px-4 pb-3">
+                                    {{ partial "sitemap/html-list.html" (dict "pages" $list "images" (ne $group.key "page")) }}
+                                </div>
+                            </details>
+                        {{ end }}
+                    {{ end }}
+                </details>
+            {{ end }}
+
+            <p class="mt-16 text-center text-sm text-neutral-500">
+                {{ T "sitemap.xml_hint" }} <a class="text-blue-600 hover:underline" href="{{ absURL "sitemap.xml" }}">sitemap.xml</a>
+            </p>
+        </div>
+    </article>
+
+    <script>
+        (function () {
+            const groups = document.querySelectorAll('.sitemap-group');
+            const buttons = document.querySelectorAll('#sitemap-filter [data-filter]');
+
+            function show(key) {
+                // Unknown or empty key = show all groups
+                if (!document.getElementById(key) || !document.getElementById(key).classList.contains('sitemap-group')) key = '';
+                groups.forEach((g) => {
+                    g.hidden = key !== '' && g.id !== key;
+                    if (key !== '' && g.id === key) g.open = true;
+                });
+                buttons.forEach((b) => b.setAttribute('aria-current', b.dataset.filter === key ? 'true' : 'false'));
+            }
+
+            buttons.forEach((b) =>
+                b.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const key = b.dataset.filter;
+                    history.replaceState(null, '', key ? '#' + key : location.pathname + location.search);
+                    show(key);
+                })
+            );
+
+            show(location.hash.slice(1));
+        })();
+    </script>
+{{ end }}

@@ -41,10 +41,12 @@ Ein App Snapshot speichert nicht:
 ## App Snapshot erstellen
 
 1. Öffnen Sie eine **App** im [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
-   ![SeaTable App Builder im Bearbeitungsmodus mit geöffneter App-Liste](images/Apps-bearbeiten.png)3. Klicken Sie am oberen linken Seitenrand auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionsverwaltung**.
-   ![Versionsverwaltung einer App mit Liste vorhandener Snapshots](images/Version-management-in-Universal-App-Builder.png)5. Ein Fenster öffnet sich. Erstellen Sie dort einen **neuen Snapshot**.
-2. Optional können Sie dem Snapshot einen **Hinweis** hinzufügen.
-3. Bestätigen Sie mit **Abschicken**.
+   ![SeaTable App Builder im Bearbeitungsmodus mit geöffneter App-Liste](images/Apps-bearbeiten.png)
+2. Klicken Sie am oberen linken Seitenrand auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionsverwaltung**.
+   ![Versionsverwaltung einer App mit Liste vorhandener Snapshots](images/Version-management-in-Universal-App-Builder.png)
+3. Ein Fenster öffnet sich. Erstellen Sie dort einen **neuen Snapshot**.
+4. Optional können Sie dem Snapshot einen **Hinweis** hinzufügen.
+5. Bestätigen Sie mit **Abschicken**.
 
 ![Erstellung eines neuen App-Snapshots in der Versionsverwaltung mit optionalem Hinweistext](images/Version-management-in-Universal-Apps.gif)
 

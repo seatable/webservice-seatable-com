@@ -1,7 +1,7 @@
 ---
 title: "La clé secrète d'un webhook"
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -42,7 +42,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -53,9 +53,9 @@ Host: example.com
 
 ```
 
-## Le calcul de la clé secrète
+## Le calcul de la signature
 
-La clé secrète est un [secret partagé](https://en.wikipedia.org/wiki/Shared_secret) entre SeaTable et le système récepteur. SeaTable utilise la clé secrète pour calculer une valeur de hachage à partir de l'événement. Le système récepteur peut utiliser la clé secrète pour calculer le contenu à partir de la valeur de hachage et le comparer au contenu réel. Si le contenu réel ne correspond pas au contenu calculé à partir du hachage, il ne faut pas traiter le webhook.
+La clé secrète est un [secret partagé](https://en.wikipedia.org/wiki/Shared_secret) entre SeaTable et le système récepteur. SeaTable utilise la clé secrète pour calculer une valeur de hachage à partir de l'événement, la signature. Le système récepteur utilise la même clé pour calculer la valeur de hachage à partir du contenu reçu et la compare à la signature. Si les deux valeurs ne correspondent pas, il ne faut pas traiter le webhook.
 
 ## Validation de la signature
 
@@ -70,7 +70,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 

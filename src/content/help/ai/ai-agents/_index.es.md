@@ -1,8 +1,8 @@
 ---
 title: Agentes de IA
 seo:
-    title: 'Automatizaciones con IA en SeaTable | Controlar procesos de forma automática | Ayuda'
-    description: 'Descubre cómo integrar la inteligencia artificial en tus automatizaciones de SeaTable para automatizar procesos de forma eficiente'
+    title: 'Agentes de IA en SeaTable | Conectar ChatGPT, Claude y Cursor por MCP | Ayuda'
+    description: 'Conecte ChatGPT, Claude o Cursor con sus datos mediante el servidor MCP oficial de SeaTable: configuración, casos de uso, permisos y protección de datos.'
 url: '/es/ayuda/ia/agentes'
 weight: 2
 ---

@@ -1,7 +1,7 @@
 ---
-title: 'A chave secreta de um gancho da web'
+title: 'A chave secreta de um webhook'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -14,15 +14,15 @@ seo:
 
 ---
 
-Se o alvo de um gancho da web for acessível ao público, deve ser assegurado para os pedidos recebidos que provêm do sistema de origem desejado. Com a ajuda de uma chave secreta, a origem de um gancho da web pode ser assegurada.
+Se o alvo de um webhook for acessível ao público, deve ser assegurado para os pedidos recebidos que provêm do sistema de origem desejado. Com a ajuda de uma chave secreta, a origem de um webhook pode ser assegurada.
 
 ## A ideia de uma chave secreta
 
-Para criar um novo gancho da web, basta introduzir qualquer URL. A chave secreta pode também permanecer vazia. No entanto, se o seu URL alvo estiver publicamente disponível, deve definir uma chave secreta e validar este valor ao processar os ganchos da web. Caso contrário, qualquer pessoa pode enviar-lhe pedidos correspondentes a este URL do gancho da web, os quais serão então processados por si. Sem a chave secreta, o sistema alvo não tem uma forma fiável de reconhecer se o evento vem realmente do SeaTable.
+Para criar um novo webhook, basta introduzir qualquer URL. A chave secreta pode também permanecer vazia. No entanto, se o seu URL alvo estiver publicamente disponível, deve definir uma chave secreta e validar este valor ao processar os webhooks. Caso contrário, qualquer pessoa pode enviar-lhe pedidos correspondentes a este URL do webhook, os quais serão então processados por si. Sem a chave secreta, o sistema alvo não tem uma forma fiável de reconhecer se o evento vem realmente do SeaTable.
 
-Se especificar uma chave secreta, o gancho da web tem uma chave adicional _X-SeaTable-Signature-Header_que pode ser utilizado para garantir a origem do gancho da web. Enquanto alguém não souber a chave secreta, não poderá enviar-lhe eventos através do gancho da web e encontrar a chave correspondente. \_X-SeaTable-Signature-Header_ para produzir.
+Se especificar uma chave secreta, o webhook tem uma chave adicional _X-SeaTable-Signature-Header_que pode ser utilizado para garantir a origem do webhook. Enquanto alguém não souber a chave secreta, não poderá enviar-lhe eventos através do webhook e encontrar a chave correspondente. \_X-SeaTable-Signature-Header_ para produzir.
 
-Se for definida uma chave secreta, o pedido de um gancho da web tem este aspecto, por exemplo:
+Se for definida uma chave secreta, o pedido de um webhook tem este aspecto, por exemplo:
 
 ```
 -- HEADER --
@@ -42,7 +42,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -53,9 +53,9 @@ Host: example.com
 
 ```
 
-## O cálculo da chave secreta
+## O cálculo da assinatura
 
-A chave secreta é um [segredo partilhado](https://en.wikipedia.org/wiki/Shared_secret) entre o SeaTable e o sistema receptor. SeaTable utiliza a chave secreta para calcular um valor hash a partir do evento. O sistema receptor pode utilizar a chave secreta para calcular o conteúdo a partir do valor do hash e compará-lo com o conteúdo real. Se o conteúdo real não corresponder ao conteúdo calculado a partir do hash, o gancho da web não deve ser processado.
+A chave secreta é um [segredo partilhado](https://en.wikipedia.org/wiki/Shared_secret) entre o SeaTable e o sistema receptor. O SeaTable utiliza a chave secreta para calcular um valor hash a partir do evento, a assinatura. O sistema receptor utiliza a mesma chave para calcular o valor hash a partir do conteúdo recebido e compara-o com a assinatura. Se os dois valores não coincidirem, o webhook não deve ser processado.
 
 ## Validação da assinatura
 
@@ -70,7 +70,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 

@@ -290,3 +290,8 @@ weight = 20
 name = "Seguridad"
 pageRef = "pages/legal/security"
 weight = 30
+
+[[legal]]
+name = "Mapa del sitio"
+pageRef = "pages/sitemap"
+weight = 40

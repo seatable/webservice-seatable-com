@@ -19,10 +19,12 @@ Sei es das Hinzufügen von **neuen Benutzern**, die Vergabe von **Rollen** oder 
 
 1. Öffnen Sie eine **Base**, der Sie bereits eine App hinzugefügt haben.
 2. Klicken Sie im Base-Header auf **Apps**.
-   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
-   ![Klicken Sie auf das Bearbeitung-Symbol](images/add-page-to-universal-app-1.png)6. Öffnen Sie die **Benutzer- und Rollenverwaltung** am oberen linken Seitenrand.
-
-![Symbol für Benutzer- und Rollenverwaltung](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png) 8. Nehmen Sie die gewünschten **Einstellungen** vor.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Klicken Sie auf das Stift-Symbol](images/add-page-to-universal-app-1.png)
+4. Öffnen Sie die **Benutzer- und Rollenverwaltung** am oberen linken Seitenrand.
+   ![Symbol für Benutzer- und Rollenverwaltung](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png) 
+5. Nehmen Sie die gewünschten **Einstellungen** vor.
 
 ## Die Einstellungen im Detail
 
@@ -46,7 +48,7 @@ Um einen Benutzer zur App hinzuzufügen, klicken Sie auf **Benutzer importieren*
 
 Klicken Sie auf **Benutzer mit der Base synchronisieren**, um die **App-Benutzer** automatisch in einer Tabelle Ihrer Base zu erheben.
 
-![Klicken Sie auf Benutzer mit der Basis synchronisieren](images/click-sync-users-to-base-1.jpg) ![Tabelle, in der automatisch die App-Benutzer erhoben werden](images/table-with-app-users.png)
+![Klicken Sie auf Benutzer mit der Base synchronisieren](images/click-sync-users-to-base-1.jpg) ![Tabelle, in der automatisch die App-Benutzer erhoben werden](images/table-with-app-users.png)
 
 Wenn Sie zukünftig weitere Benutzer auf diese Weise hinzufügen, können Sie stets erneut auf **Benutzer mit der Base synchronisieren** klicken, um die **neuen Benutzer** der Tabelle hinzuzufügen.
 

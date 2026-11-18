@@ -1,5 +1,5 @@
 ---
-title: 'Processamento de um gancho da web com a ajuda de PHP'
+title: 'Processamento de um webhook com a ajuda de PHP'
 date: 2023-02-28
 lastmod: '2023-02-28'
 categories:
@@ -46,7 +46,7 @@ if($payload['event'] === "update"){
 
 ```
 
-Se o gancho enviar uma chave secreta, pode verificar o conteúdo do gancho com o seguinte código. Evidentemente, terá de substituir a variável _$secret_ pela chave secreta que escolheu.
+Se o webhook enviar uma chave secreta, pode verificar o conteúdo do webhook com o seguinte código. Evidentemente, terá de substituir a variável _$secret_ pela chave secreta que escolheu.
 
 ```
 // verify the signature
@@ -67,7 +67,7 @@ if (verifySignature($raw_payload) !== false) {
 
 ## A estrutura por detrás do guião
 
-As duas primeiras linhas lêem o evento do gancho da web que chega e criam uma matriz a partir da estrutura do JSON que chega.
+As duas primeiras linhas lêem o evento do webhook que chega e criam uma matriz a partir da estrutura do JSON que chega.
 
 Com a primeira consulta "if", só são processados os eventos para os quais "op_type" tem o valor "delete_row".
 

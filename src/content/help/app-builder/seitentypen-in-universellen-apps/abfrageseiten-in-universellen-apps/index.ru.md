@@ -9,6 +9,8 @@ url: '/ru/pomoshch/stranitsy-zaprosov-v-prilozheniyakh-seatable'
 aliases:
     - '/ru/pomoshch/abfrageseiten-in-universellen-apps'
     - '/ru/pomoshch/stranitsy-zaprosov-universalnye-prilozheniya'
+    - '/ru/pomoshch/prilozhenie-dlya-poiska-dannykh'
+    - '/ru/pomoshch/datenabfrage-app'
 seo:
     title: 'Страницы запросов в приложениях SeaTable'
     description: 'Ищите и фильтруйте большие наборы данных в приложениях SeaTable: задавайте фильтры, сортировки и поля запроса для своих результатов.'

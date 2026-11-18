@@ -1,7 +1,7 @@
 ---
 title: 'Der geheime Schlüssel eines Webhooks'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -39,7 +39,7 @@ Host: example.com
     dtable_uuid: 6c17f178ee724c109c68ecee364027fc
     row_id: Y_aYcE6wTo-IzGWb-oDmaQ
     op_user: 92d8f9b243f8437db0131c2536398403@auth.local
-    op_type: create_row
+    op_type: insert_row
     op_time: 1677595743.088
     table_id: 0000
     table_name: Table1
@@ -49,9 +49,9 @@ Host: example.com
 }
 ```
 
-## Die Berechnung des geheimen Schlüssels
+## Die Berechnung der Signatur
 
-Der geheime Schlüssel ist ein [gemeinsames Geheimnis](https://en.wikipedia.org/wiki/Shared_secret) zwischen SeaTable und dem empfangenden System. SeaTable nutzt den geheimen Schlüssel, um mit dessen Hilfe aus dem Event einen Hash-Wert zu errechnen. Das empfangende System kann mithilfe des geheimen Schlüssels aus dem Hash-Wert den Inhalt zurückrechnen und diesen mit dem tatsächlichen Inhalt vergleichen. Sollte der tatsächliche Inhalt mit dem berechneten Inhalt aus dem Hash nicht übereinstimmen, sollte man den Webhook nicht verarbeiten.
+Der geheime Schlüssel ist ein [gemeinsames Geheimnis](https://en.wikipedia.org/wiki/Shared_secret) zwischen SeaTable und dem empfangenden System. SeaTable nutzt den geheimen Schlüssel, um mit dessen Hilfe aus dem Event einen Hash-Wert zu errechnen, die Signatur. Das empfangende System berechnet mit demselben Schlüssel aus dem empfangenen Inhalt ebenfalls den Hash-Wert und vergleicht ihn mit der Signatur. Stimmen die beiden Werte nicht überein, sollte man den Webhook nicht verarbeiten.
 
 ## Validierung der Signatur
 
@@ -66,7 +66,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 @app.route('/receive-seatable-webhook', methods=['POST'])
-def receive-seatable_webhook():
+def receive_seatable_webhook():
     secret = 'secret'
     seatable_signature = request.headers.get('X-Seatable-Signature', '').replace('sha256=', '')
 

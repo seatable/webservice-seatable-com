@@ -51,11 +51,11 @@ Uma colaboração eficiente em linha não é possível sem uma boa comunicação
 
 Se ainda não estiver familiarizado com a função de comentário, seleccione uma linha e prima a barra de espaço para chamar os detalhes da linha. No canto superior direito encontrará a coluna de comentários. O backend melhorado do SeaTable notifica os utilizadores de novos comentários sem demora. Se os utilizadores estiverem online, então o chat em grupo pode começar. Caso contrário, os utilizadores são informados através de [notificação]({{< relref "help/startseite/benachrichtigungen" >}}). Partilhe as suas ideias e impressões com os seus colegas quando estes estão frescos.
 
-## Gancho da Web para melhor automatização
+## Webhook para melhor automatização
 
 O que é melhor do que o SeaTable? SeaTable em interacção com as suas outras aplicações favoritas! Por esta razão, esforçámo-nos por oferecer uma opção de integração conveniente com o [Zapier](https://zapier.com/apps/seatable/integrations) o mais rapidamente possível.
 
-Mas Zapier foi apenas o primeiro passo. Os ganchos da Web, introduzidos com este lançamento, são o segundo. Os ganchos da SeaTable facilitam o desencadeamento de acções baseadas em eventos em aplicações externas. Aqui estão dois exemplos simples: Um contador é incrementado por um quando uma nova entrada é criada ou um e-mail é enviado quando um valor excede um limiar crítico.
+Mas Zapier foi apenas o primeiro passo. Os webhooks, introduzidos com este lançamento, são o segundo. Os webhooks da SeaTable facilitam o desencadeamento de acções baseadas em eventos em aplicações externas. Aqui estão dois exemplos simples: Um contador é incrementado por um quando uma nova entrada é criada ou um e-mail é enviado quando um valor excede um limiar crítico.
 
 ## SeaTable scripts agora também em Python
 

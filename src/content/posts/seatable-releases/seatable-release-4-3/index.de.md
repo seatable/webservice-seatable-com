@@ -78,7 +78,7 @@ Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen]({{< relref "h
 
 ## Wichtige Ankündigung: Entfernung der Galerie- und Datenabfrage-App
 
-In Version 4.4 werden die [Galerie-App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) und die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) verschwinden, da man ihre Funktionalität mittlerweile vollständig mit den entsprechenden **Seitentypen** in der Universellen App abbilden kann. Der Universal App Builder wird zukünftig also die einzige Option sein, um Apps in SeaTable zu erstellen.
+In Version 4.4 werden die [Galerie-App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) und die [Datenabfrage-App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) verschwinden, da man ihre Funktionalität mittlerweile vollständig mit den entsprechenden **Seitentypen** in der Universellen App abbilden kann. Der Universal App Builder wird zukünftig also die einzige Option sein, um Apps in SeaTable zu erstellen.
 
 Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendungsfälle vor dem nächsten Release mit [Galerieseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) und [Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) im App Builder nachzubauen. Auf Abfrageseiten können Sie mittlerweile übrigens Felder hinzufügen, mit denen die Nutzer auch **Link-Spalten** nach bestimmten Werten durchsuchen können.
 

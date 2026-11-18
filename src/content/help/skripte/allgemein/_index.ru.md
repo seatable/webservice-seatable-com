@@ -6,3 +6,5 @@ seo:
 url: '/ru/pomoshch/skripty/obshchaya-informatsiya'
 weight: 1
 ---
+
+{{< youtube QvDfqtGeTlo >}}

@@ -3,7 +3,7 @@ title: 'Automatisation par IA pour votre entreprise sans risque pour les donnée
 description: ''
 seo:
     title: Découvrez les avantages de l'automatisation par l'IA | SeaTable
-    description: "Améliorez votre efficacité et votre productivité grâce à nos solutions d'IA pour les entreprises. En savoir plus sur l'automatisation par l'IA!"
+    description: 'Automatisations IA sans programmation : résumer et classer des textes, extraire des données et OCR directement dans la base de données no-code. Serveur IA propre en Allemagne, les données restent dans l''UE.'
 date: '2026-03-04'
 url: '/fr/automatisation-intelligence-artificielle'
 
@@ -51,7 +51,7 @@ sections:
       
       - icon: shield
         headline: Gouvernance des données
-        text: "Chaque action de l'IA est effectuée au sein de l'infrastructure SeaTable sur des serveurs européens, est documentée et peut être auditée, ce qui constitue un avantage significatif par rapport aux outils externes."
+        text: "Les automatisations IA s'exécutent sur le serveur IA propre à SeaTable en Allemagne. Chaque exécution figure dans l'historique d'exécution de l'automatisation, ce qui constitue un avantage significatif par rapport aux outils externes."
         
     - name: content-12
       weight: 3
@@ -63,10 +63,10 @@ sections:
       description: SeaTable est la [solution no-code IA]({{< relref "/" >}}) idéale pour les entreprises qui recherchent une gestion moderne des données avec des flux de travail personnalisés basés sur l'IA. Elle combine des automatisations assistées par l'IA, un app builder et une base de données relationnelle dans un seul système.
       items:
         - text: "**Mise en œuvre simple** sans intervention informatique grâce à l'absence de code"
-        - text: "Transparence et documentation grâce aux **journaux d'utilisation de l'IA**"
+        - text: "Transparence grâce à **l'historique d'exécution** de chaque automatisation"
         - text: "**Visualisations et tableaux de bord** pour le suivi et les rapports"
         - text: "**Disponible en tant que modèle cloud ou auto-hébergé** : utilisez SeaTable conformément à vos exigences de conformité"
-        - text: "Utilisation de l'IA conforme au RGPD avec **des serveurs européens sous licence**"
+        - text: "Automatisations IA conformes au RGPD sur **le serveur IA propre à SeaTable en Allemagne**"
         - text: "**Amélioration de la collaboration** au sein des équipes grâce à la fonctionnalité de chat intégrée et aux notifications"
       image: /images/landing_page_ki-automatisierung_01.png
       image_alt: "Automatisations IA de SeaTable dans l'éditeur d'automatisation"    
@@ -120,15 +120,15 @@ sections:
       weight: 6
       title: Protection des données et automatisations IA chez SeaTable
       subtitle: Contrôle des données plutôt que perte de contrôle
-      text: 'Tous les composants SeaTable sont **exclusivement hébergés sur des serveurs européens certifiés** en Allemagne et sont entièrement conformes au RGPD. Nous sommes **un partenaire fiable pour les entreprises ayant des exigences élevées en matière de protection des données et de conformité**, qui souhaitent éviter les outils GPT accessibles au public et protéger leur [souveraineté numérique]({{< relref "posts/digitale-souveraenitaet" >}}).'
+      text: '**Les automatisations IA de SeaTable ne quittent pas l''UE.** SeaTable exploite pour cela son propre serveur IA avec le modèle open source Gemma 4 E4B chez Hetzner à Francfort. Les données ne sont pas transmises à OpenAI, Google ou d''autres fournisseurs américains. SeaTable Cloud fonctionne dans des centres de données certifiés à Francfort et Munich. Nous sommes **un partenaire fiable pour les entreprises ayant des exigences élevées en matière de protection des données et de conformité**, qui souhaitent éviter les outils GPT accessibles au public et protéger leur [souveraineté numérique]({{< relref "posts/digitale-souveraenitaet" >}}).'
       items:
       - icon: terminal
         headline: Serveur IA dédié
-        text: "SeaTable héberge son propre modèle d'IA sur un serveur allemand. Toutes les requêtes d'IA sont cryptées et restent dans le réseau SeaTable."
+        text: "Pour les automatisations IA, SeaTable héberge son propre modèle d'IA sur un serveur allemand. Les requêtes sont transmises de manière chiffrée et restent dans le réseau SeaTable."
 
       - icon: user-plus
         headline: Conforme au RGPD
-        text: SeaTable Cloud est exclusivement hébergé sur un serveur suisse certifié en Allemagne. Vous conservez le contrôle de vos données.
+        text: "SeaTable Cloud fonctionne chez le fournisseur suisse Exoscale, dans des centres de données certifiés ISO 27001 à Francfort et Munich. Vos données ne quittent pas l'Europe."
 
       - icon: fingerprint
         headline: Pas de formation sur modèle
@@ -165,7 +165,9 @@ sections:
           - q: Pouvons-nous utiliser nos propres modèles d'IA ?
             a: Les clients SeaTable Server peuvent utiliser le [composant SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) pour connecter différents LLM et fournisseurs via une API compatible OpenAI pour leurs automatisations IA. Vous avez le choix entre des modèles auto-hébergés ou des GPT cloud. Les utilisateurs de SeaTable Cloud ne peuvent actuellement pas connecter leurs propres modèles.  
           - q: Nos données sont-elles protégées conformément au RGPD lors de l'utilisation de l'IA ?
-            a: Absolument, la protection de vos données est une priorité pour SeaTable et nous accordons une grande importance à ce que tous les processus d'IA soient conformes au RGPD. C'est pourquoi nous hébergeons notre propre modèle d'IA sur des serveurs allemands. Vos données sont traitées exclusivement au sein de l'infrastructure SeaTable et ne sont pas transmises à des fournisseurs externes ni utilisées pour former des systèmes d'IA externes. Si vous traitez des données particulièrement sensibles ou si vous devez respecter des exigences très strictes en matière de protection des données, vous pouvez également utiliser SeaTable avec la fonction IA entièrement sur site.
+            a: Absolument, la protection de vos données est une priorité pour SeaTable et nous accordons une grande importance à ce que tous les processus d'IA soient conformes au RGPD. C'est pourquoi nous hébergeons notre propre modèle d'IA sur des serveurs allemands pour les automatisations IA. Avec les automatisations IA, vos données sont traitées exclusivement au sein de l'infrastructure SeaTable et ne sont pas transmises à des fournisseurs externes ni utilisées pour former des systèmes d'IA externes. Si vous traitez des données particulièrement sensibles ou si vous devez respecter des exigences très strictes en matière de protection des données, vous pouvez également utiliser SeaTable avec la fonction IA entièrement sur site.
+          - q: "Cela vaut-il aussi pour le chat IA et les agents IA via MCP ?"
+            a: 'Non, ici c''est vous qui décidez. Pour le plugin de chat IA et pour les agents IA comme Claude Desktop, ChatGPT ou Cursor, vous choisissez un fournisseur d''IA externe, par exemple Anthropic, OpenAI ou Mistral. Les données que le chat ou l''agent interroge pour votre question sont transmises à ce fournisseur. Les autorisations du jeton API vous permettent de définir à quelles bases l''agent peut accéder et s''il peut seulement lire. Si vous ne souhaitez transmettre aucune donnée à des fournisseurs externes, hébergez SeaTable vous-même et connectez un modèle de langage local. Plus d''informations dans l''aide : [Autorisations et protection des données lors de l''utilisation d''agents IA]({{< relref "help/ai/ai-agents/data-security" >}}).'
           - q: L'utilisation de la fonction IA dans SeaTable est-elle incluse dans l'abonnement ?
             a: Oui, la fonction IA peut être utilisée sans frais supplémentaires. Toutefois, si vous effectuez de nombreuses requêtes IA, des frais supplémentaires peuvent s'appliquer. Chaque utilisateur SeaTable reçoit, en fonction de son modèle d'abonnement, un certain quota mensuel de crédits IA gratuits, nécessaires à l'utilisation de l'IA dans les automatisations. Des frais supplémentaires ne s'appliquent que si des crédits supplémentaires sont nécessaires au-delà de ce quota. 
           - q: Puis-je comprendre à quoi sert l'automatisation par l'IA ?

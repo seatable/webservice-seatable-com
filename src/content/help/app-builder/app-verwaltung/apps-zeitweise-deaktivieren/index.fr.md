@@ -22,17 +22,14 @@ Il peut arriver que vous souhaitiez **empêcher temporairement l’utilisation d
 
 1. Ouvrez la **base** dans laquelle vous souhaitez désactiver une application.
 2. Cliquez sur **Apps** dans l'en-tête de la base.
-
-![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
-
-4. Passez votre souris sur l’application souhaitée et cliquez sur les **trois points** à droite.
-5. Sélectionnez **Pause** .
-
-![Suspendre temporairement les apps et les réactiver](images/Suspend-and-activate-apps.gif)
-
-{{< warning  headline="Réactiver l’application"  text="De la même manière, vous pouvez réactiver les applications inactives à tout moment." />}}
+   ![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
+3. Passez votre souris sur l’application souhaitée et cliquez sur les **trois points** à droite.
+4. Sélectionnez **Pause**.
+   ![Suspendre temporairement les apps et les réactiver](images/Suspend-and-activate-apps.gif)
 
 Vous pouvez reconnaître une application désactivée par la note **(inactive)** après le nom de l’application.
+
+{{< warning  headline="Réactiver l’application"  text="De la même manière, vous pouvez réactiver les applications inactives à tout moment." />}}
 
 ## Conséquences de la désactivation
 

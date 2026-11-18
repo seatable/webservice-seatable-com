@@ -20,18 +20,12 @@ You can make **visual settings** for each [app]({{< relref "help/app-builder/app
 
 1. Open a **base** in which you want to edit an existing app.
 2. Click **Apps** in the base header.
-
-![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
-
-4. Hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-![Edit apps](images/Apps-bearbeiten.png)
-
-6. Click on the **palette icon** at the top left of the page.
-
-![Palette icon for design settings of an app](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
-
-8. Make the desired adjustments to the **visual settings (mode, color and icon)** of the app.
+   ![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
+3. Hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Edit apps](images/Apps-bearbeiten.png)
+4. Click on the **palette icon** at the top left of the page.
+   ![Palette icon for design settings of an app](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+5. Make the desired adjustments to the **visual settings (mode, color and icon)** of the app.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to edit an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use the apps." />}}
 
@@ -51,6 +45,6 @@ The settings mentioned so far affect an **entire app**. If you want to change th
 
 ![Open the page settings](images/page-permissions-universal-app.png)
 
-Currently, the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) in particular offers numerous additional design settings. For example, you can define different colors for backgrounds, fonts, lines and frames for the elements. Use the practical **color picker** for this.
+Currently, the [dashboard page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) in particular offers numerous additional design settings. For example, you can define different colors for backgrounds, fonts, lines and frames for the elements. Use the practical **color picker** for this.
 
 ![Color Picker in the app](images/Color-Picker-in-der-Universellen-App.png)

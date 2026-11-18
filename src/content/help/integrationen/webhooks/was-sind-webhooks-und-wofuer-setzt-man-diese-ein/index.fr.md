@@ -1,7 +1,7 @@
 ---
 title: 'Que sont les webhooks et à quoi servent-ils ?'
 date: 2023-02-28
-lastmod: '2023-02-28'
+lastmod: '2026-11-05'
 categories:
     - 'webhooks'
 author: 'cdb'
@@ -23,7 +23,7 @@ Pour simplifier, on peut se représenter un webhook comme un système de notific
 - Vous cochez une case, c'est aussi un message.
 - Vous supprimez une ligne, qui l'eût cru, cela aussi génère un message.
 
-Toute modification, même minime, du contenu d'une base entraîne l'envoi d'un webhook. C'est pourquoi on parle souvent de notification en temps réel pour les webhooks.
+Toute modification, même minime, du contenu d'une base entraîne l'envoi d'un webhook. C'est pourquoi on parle souvent de notification en temps réel pour les webhooks. Si une opération modifie plusieurs lignes à la fois, [un seul webhook]({{< relref "help/integrationen/webhooks/webhook-bei-mehreren-gleichzeitigen-aenderungen" >}}) est envoyé.
 
 {{< warning headline="Important" text="En cas de modification de la structure de la base, comme par exemple la création d'une nouvelle colonne, aucun webhook n'est envoyé." />}}
 
@@ -31,7 +31,7 @@ Toute modification, même minime, du contenu d'une base entraîne l'envoi d'un w
 
 Les webhooks sont, avec les API REST, une méthode populaire pour faire parler les systèmes informatiques entre eux. Un webhook est en quelque sorte une requête API inversée. Dans le cas d'une API, SeaTable attend une demande à laquelle l'API répond. Dans le cas d'un webhook, en revanche, une notification est automatiquement envoyée lorsque quelque chose se passe.
 
-Ainsi, les webhooks permettent de faire en sorte que certaines modifications soient traitées dans un autre logiciel. Typiquement, avec les webhooks, l'événement est envoyé à l'URL cible sous la forme d'un fichier JSON ou XML. L'URL est appelée point final du webhook.
+Ainsi, les webhooks permettent de faire en sorte que certaines modifications soient traitées dans un autre logiciel. SeaTable envoie l'événement à l'URL cible au format JSON. L'URL est appelée point final du webhook.
 
 Les webhooks ne fonctionnent donc en principe que dans un sens. SeaTable informe une autre application que quelque chose s'est passé. C'est donc à l'application cible de décider si ce changement est pertinent et quelles actions de suivi doivent être déclenchées. Les utilisations les plus courantes des webhooks sont par exemple
 
@@ -53,3 +53,7 @@ Le polling consiste à demander des informations, ce qui entraîne un échange c
 ![Webhooks contre polling](images/webhooks-vs-polling.png)
 
 En revanche, les webhooks ne doivent communiquer que lorsqu'un événement s'est produit.
+
+## Limites des webhooks
+
+Les webhooks fonctionnent bien comme déclencheur, mais pas comme enregistrement complet de toutes les modifications. Les livraisons échouées ne sont pas renouvelées et un webhook peut être [désactivé après des erreurs]({{< relref "help/integrationen/webhooks/deaktivierung-eines-webhooks-bei-fehlern" >}}). Si vous souhaitez synchroniser des données avec un autre système, vous devriez donc également [synchroniser les données régulièrement]({{< relref "help/integrationen/webhooks/webhook-bei-mehreren-gleichzeitigen-aenderungen" >}}).

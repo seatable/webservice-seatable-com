@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: 2026-07-02
-lastmod: '2026-10-01'
+lastmod: '2026-11-12'
 categories:
     - 'online-kurs-4'
 author: 'bha'
@@ -13,6 +13,8 @@ seo:
     description: 'Automate your SeaTable processes and connect them to your tools: no-code automations, Python scripts, API, webhooks, n8n and AI document extraction, around a warehouse scenario.'
 weight: 1
 ---
+
+{{< warning headline="This course is still being finalized" text="Some of its content may still change before the course is published." />}}
 
 Welcome to the SeaTable Online Course 4 – Automation & Integration!
 

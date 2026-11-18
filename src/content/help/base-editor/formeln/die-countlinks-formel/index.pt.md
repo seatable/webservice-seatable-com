@@ -10,7 +10,7 @@ aliases:
     - '/pt/ajuda/die-countlinks-formel'
 seo:
     title: 'Countlinks no SeaTable: quantificar vínculos fáceis'
-    description: 'Conte registros vinculados em uma coluna com Countlinks, útil para listas de presença, controle de projetos e referências cruzadas entre tabelas.'
+    description: 'Com Countlinks, conte automaticamente as entradas ligadas a uma linha. Ideal para listas de participantes, análises ou qualquer tipo de ligação múltipla.'
 
 ---
 
@@ -24,13 +24,13 @@ Só pode criar uma coluna com a fórmula Countlinks se tiver ligado duas tabelas
 
 ## Âmbito da Fórmula Countlinks
 
-A **fórmula Countlinks** deve ser sempre utilizada quando se pretende exibir o **número de entradas de** outra tabela como uma referência cruzada.
+A **fórmula Countlinks** deve ser sempre utilizada quando pretender exibir o **número de entradas ligadas a uma linha**.
 
 Por exemplo, ao planear um workshop, é possível exibir o número de participantes registados a partir de uma tabela separada. A [coluna de ligação]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) registaria assim os nomes de todos os participantes.
 
 ![A Fórmula Countlinks.](images/countlinks-2.png)
 
-A utilização da fórmula Countlinks só faz sentido se activar a opção **Allow link to multiple lines** quando se cria uma coluna do tipo Link **to other entries**. Se a opção fosse desligada, haveria sempre uma no campo da fórmula Countlinks.
+A utilização da fórmula Countlinks só faz sentido se a opção **Limitar as ligações a uma linha no máximo** estiver desativada nas definições de uma coluna de ligação. Se a opção estivesse ativada, o campo da fórmula Countlinks mostraria sempre um 1 (= uma única linha ligada).
 
 ## Criação de uma Fórmula Countlinks
 

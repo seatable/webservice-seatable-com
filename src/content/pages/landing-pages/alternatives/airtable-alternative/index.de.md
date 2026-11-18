@@ -25,7 +25,7 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: 6 Gründe, warum Teams SeaTable als Airtable Alternative wählen
+      title: 6 Gründe - Warum wechseln Teams von Airtable zu SeaTable?
       subtitle: Ihre Vorteile mit SeaTable
       text:
       items:
@@ -123,7 +123,7 @@ sections:
 
     - name: 'price-comparision'
       weight: 8
-      title: SeaTable vs. Airtable Pricing
+      title: Was kostet SeaTable im Vergleich zu Airtable?
       description: 'Hier sehen Sie exemplarisch die Cloud-Versionen von Airtable Team und SeaTable Enterprise im Vergleich (Stand: Oktober 2026). SeaTable Enterprise vergleichen wir mit Airtable Team, weil beide die Tarife sind, die Teams für den produktiven Einsatz wählen. **SeaTable bietet Cloud-Server in Deutschland** und zudem eine selbstgehostete Version, was es zur logischen Airtable Alternative für höhere Sicherheitsanforderungen macht.'
       competitor:
           - logo: /tmp/Airtable2.png
@@ -163,7 +163,7 @@ sections:
 
     - name: "content-4"
       weight: 9
-      title: Datensicherheit und Compliance
+      title: Ist SeaTable DSGVO-konform und wo liegen die Daten?
       subtitle: Datenschutz ohne Kompromisse
       text: 'US-Anbieter wie Airtable sind weitverbreitet. Als US-Unternehmen unterliegt Airtable aber dem US CLOUD Act. Danach können US-Behörden unter bestimmten Voraussetzungen Zugriff auf Daten verlangen, auch wenn diese außerhalb der USA gespeichert sind. Das ist besonders heikel, wenn Sie Personaldaten, Kundendaten oder Daten aus der öffentlichen Verwaltung verarbeiten. SeaTable ist die Alternative zu Airtable, um Ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) zu sichern: Ihr Vertragspartner ist die SeaTable GmbH in Mainz, Ihre Daten liegen in Deutschland, und wer ganz sichergehen will, betreibt SeaTable auf eigenen Servern. Die Software entwickelt unser Partner Seafile Ltd. und stellt sie als Docker-Image bereit. Die Server der SeaTable Cloud betreibt ausschließlich die SeaTable GmbH, und nur wir haben Zugriff darauf.'
       items:
@@ -218,7 +218,7 @@ sections:
       classes:
         - curved
         - bg-gray-100
-      title: 'Die Airtable Alternative für echte KI-Souveränität'
+      title: 'Wie nutze ich KI in SeaTable, ohne Daten abzugeben?'
       subtitle: Integrierte KI-Funktionen
       items:
       - text: 'Mit SeaTable nutzen Sie [integrierte KI-gestützte Automatisierungen]({{< relref "posts/ai-powered-automations" >}}), ohne die Kontrolle über Ihre Daten abzugeben. **Wir hosten unser eigenes LLM** auf unserem KI-Server und einen eigenen [MCP-Server]({{< relref "posts/mcp-server" >}}) – beides in Deutschland. Denn auch bei der Integration von KI setzt SeaTable als Alternative zu Airtable konsequent auf einen hohen Datenschutz. Sie möchten Ihren eigenen KI-Agenten mit Ihrer Base verbinden? Dann steht Ihnen unser [KI-Chat-Plugin]({{< relref "posts/ai-in-seatable" >}}) zur Verfügung. Und wenn Sie SeaTable selbst hosten, können Sie auch unseren [quelloffenen MCP-Server](https://github.com/seatable/seatable-mcp) bei sich installieren. So geht echte **KI-Souveränität**.'
@@ -241,7 +241,7 @@ sections:
 
     - name: "youtube"
       weight: 14
-      title: So einfach wechseln Sie zu SeaTable
+      title: Wie wechsle ich von Airtable zu SeaTable?
       subtitle: How-to Airtable-Migration
       description:
       videoId: 32Vq2R0fzQs
@@ -265,7 +265,7 @@ sections:
 
     - name: 'content-3'
       weight: 18
-      title: Ihre Airtable Alternative mit Deployment-Optionen
+      title: "Cloud, Dedicated oder selbst hosten: Was passt zu uns?"
       subtitle: Cloud oder self-hosted?
       description:
       items:
@@ -429,8 +429,16 @@ sections:
           - q: 'Gibt es Sonderkonditionen für öffentliche Institutionen wie Universitäten, Vereine oder gemeinnützige Einrichtungen?'
             a: 'Ja. Kontaktieren Sie uns und wir erzählen Ihnen gerne mehr über unsere Rabatte.'
 
-          - q: 'Wie unterscheiden sich die SeaTable-Preise von den Airtable-Preisen?'
-            a: 'Der kostenpflichtige Einstiegstarif SeaTable Plus kostet 7 € pro Nutzer und Monat, SeaTable Enterprise 14 € (jeweils bei jährlicher Zahlung). Airtable Team kostet 20 US-Dollar, Airtable Business 45 US-Dollar pro Nutzer und Monat (Stand: Oktober 2026). Auch die kostenlosen Tarife unterscheiden sich: SeaTable Free erlaubt bis zu 10.000 Zeilen und 25 Nutzer, Airtable Free 1.000 Datensätze pro Base und höchstens 5 Bearbeiter.'
+          - q: 'Welche kostenlose Airtable-Alternative ist die beste?'
+            a: 'Die beste kostenlose Airtable-Alternative ist SeaTable (Free-Tarif) für Anwender, die eine leistungsstarke, tabellenbasierte No-Code-Plattform mit relationalen Datenstrukturen und Automatisierungen suchen. Je nach individuellem Anwendungsfall gibt es jedoch weitere spezialisierte Optionen:</br></br>
+
+            SeaTable (Free-Tarif): Die flexibelste Alternative mit dem gewohnten Tabellen-Feeling von Airtable, zahlreichen Ansichten (Kanban, Kalender, Galerie), Automatisierungen und starkem Fokus auf Datensicherheit. Eine detaillierte Marktübersicht und den genauen Funktionsvergleich bietet der Fachartikel zu den besten Airtable-Alternativen.</br></br>
+
+            NocoDB: Die optimale Wahl für Entwickler und Teams, die eine Open-Source-Lösung zum Selbsthosten auf Basis bestehender SQL-Datenbanken bevorzugen.</br></br>
+
+            Google Sheets / LibreOffice Calc: Geeignet für klassische, flache Tabellenkalkulationen, wenn keine komplexen Relationen oder App-Funktionen benötigt werden.</br></br>
+
+            Notion / ClickUp: Starke All-in-One-Tools mit kostenlosen Tarifen, die ihren Schwerpunkt auf Dokumenten- und Projektmanagement statt auf reine Datenbank-Strukturen legen.'
 
           - q: 'Bietet SeaTable auch einen Support?'
             a: 'Ja, für alle Fragen rund um SeaTable steht Ihnen unser Support zur Verfügung, dazu kommt unser Community-Forum mit vielen Antworten und Anleitungen.'

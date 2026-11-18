@@ -3,7 +3,7 @@ title: 'KI-Automatisierung für Ihr Unternehmen ohne Datenrisiko'
 description: ''
 seo:
     title: 'Entdecken Sie die Vorteile von KI-Automatisierung | SeaTable'
-    description: 'Steigern Sie mit unseren KI-Lösungen für Unternehmen Ihre Effizienz und Produktivität. Erfahren Sie mehr über KI-Automatisierung!'
+    description: 'KI-Automationen ohne Programmierung: Texte zusammenfassen, klassifizieren, Daten extrahieren und OCR direkt in der No-Code-Datenbank. Eigener KI-Server in Deutschland, die Daten bleiben in der EU.'
 date: '2026-03-04'
 url: '/de/ki-automatisierung'
 
@@ -51,7 +51,7 @@ sections:
       
       - icon: shield
         headline: Datenschutz und Governance
-        text: "Jede KI-Aktion findet innerhalb der SeaTable-Infrastruktur auf europäischen Servern statt, wird dokumentiert und ist auditierbar – ein wesentlicher Vorteil gegenüber externen Tools."
+        text: "KI-Automationen laufen auf dem SeaTable-eigenen KI-Server in Deutschland. Jede Ausführung steht im Ausführungslog der Automation – ein wesentlicher Vorteil gegenüber externen Tools."
         
     - name: content-12
       weight: 3
@@ -63,10 +63,10 @@ sections:
       description: 'SeaTable ist die perfekte [KI No-Code Lösung]({{< relref "/" >}}) für Unternehmen, die nach einer **modernen Datenverwaltung mit individuellen KI-gestützten Workflows** suchen. Es vereint KI-unterstützte Automatisierungen, App Builder und relationale Datenbank in einem System.'
       items:
         - text: "**Einfache Implementierung** ohne IT dank No-Code"
-        - text: "Transparenz und Dokumentation durch **KI-Nutzungs-Logs**"
+        - text: "Transparenz durch das **Ausführungslog** jeder Automation"
         - text: "**Visualisierungen und Dashboards** für Monitoring und Reportings"
         - text: "**Als Cloud-Modell oder self-hosted**: Nutzen Sie SeaTable entsprechend Ihren Compliance-Vorgaben"
-        - text: "DSGVO-konforme KI-Nutzung mit **lizenzierten europäischen Servern**"
+        - text: "DSGVO-konforme KI-Automationen auf dem **eigenen KI-Server in Deutschland**"
         - text: "**Verbesserte Zusammenarbeit** in Teams dank integrierter Chat-Funktion und Benachrichtigungen"
       image: /images/landing_page_ki-automatisierung_01.png
       image_alt: 'SeaTables KI-Automatisierungen im Automatisierungs-Editor'    
@@ -120,15 +120,15 @@ sections:
       weight: 6
       title: Datenschutz und KI-Automatisierungen bei SeaTable
       subtitle: Datenkontrolle anstatt Kontrollverlust
-      text: 'Alle SeaTable-Komponenten werden ausschließlich auf **zertifizierten europäischen Servern in Deutschland** gehostet und sind absolut DSGVO-konform. Wir sind ein verlässlicher **Partner für Unternehmen, mit hohen Datenschutz- und Compliance-Anforderungen**, die öffentlich zugängliche GPT-Tools meiden und ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) schützen möchten.'
+      text: '**KI-Automationen in SeaTable verlassen die EU nicht.** SeaTable betreibt dafür einen eigenen KI-Server mit dem Open-Source-Modell Gemma 4 E4B bei Hetzner in Frankfurt. Die Daten werden nicht an OpenAI, Google oder andere US-Anbieter übertragen. SeaTable Cloud selbst läuft in zertifizierten Rechenzentren in Frankfurt und München. Wir sind ein verlässlicher **Partner für Unternehmen, mit hohen Datenschutz- und Compliance-Anforderungen**, die öffentlich zugängliche GPT-Tools meiden und ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) schützen möchten.'
       items:
       - icon: terminal
         headline: Eigener KI-Server
-        text: "SeaTable hostet ein eigenes KI-Modell auf einem deutschen Server. Alle KI-Anfragen werden verschlüsselt und bleiben im SeaTable-Netzwerk."
+        text: "Für KI-Automationen hostet SeaTable ein eigenes KI-Modell auf einem deutschen Server. Die Anfragen werden verschlüsselt übertragen und bleiben im SeaTable-Netzwerk."
 
       - icon: user-plus
         headline: DSGVO-konform
-        text: SeaTable Cloud wird ausschließlich auf einem zertifizierten Schweizer Server in Deutschland gehostet. Sie behalten die Kontrolle über Ihre Daten.
+        text: SeaTable Cloud läuft beim Schweizer Anbieter Exoscale in nach ISO 27001 zertifizierten Rechenzentren in Frankfurt und München. Ihre Daten verlassen Europa nicht.
 
       - icon: fingerprint
         headline: Kein Modelltraining
@@ -165,7 +165,9 @@ sections:
           - q: Können wir eigene KI-Modelle nutzen?
             a: SeaTable Server-Kunden können mit der [Komponente SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) unterschiedliche LLMs und Anbieter über eine OpenAI-kompatible API für ihre KI-Automatisierungen anbinden. Dabei können Sie zwischen selbst gehosteten Modellen oder Cloud-GPTs wählen. SeaTable Cloud-Nutzer können aktuell noch keine eigenen Modelle anbinden.  
           - q: Sind unsere Daten bei der KI-Nutzung DSGVO-konform geschützt?
-            a: Absolut, der Schutz Ihrer Daten hat bei SeaTable Priorität und wir legen sehr großen Wert darauf, dass alle KI-Prozesse DSGVO-konform ablaufen. Darum hosten wir unser eigenes KI-Modell auf deutschen Servern. Ihre Daten werden ausschließlich innerhalb der SeaTable-Infrastruktur verarbeitet und nicht an externe Anbieter weitergegeben oder zum Training externer KI-Systeme genutzt. Wenn Sie besonders sensible Daten verarbeiten oder sehr strenge Datenschutzvorgaben erfüllen müssen, können Sie SeaTable mit KI-Funktion alternativ komplett on‑premises betreiben.
+            a: Absolut, der Schutz Ihrer Daten hat bei SeaTable Priorität und wir legen sehr großen Wert darauf, dass alle KI-Prozesse DSGVO-konform ablaufen. Darum hosten wir für KI-Automationen unser eigenes KI-Modell auf deutschen Servern. Bei KI-Automationen werden Ihre Daten ausschließlich innerhalb der SeaTable-Infrastruktur verarbeitet und nicht an externe Anbieter weitergegeben oder zum Training externer KI-Systeme genutzt. Wenn Sie besonders sensible Daten verarbeiten oder sehr strenge Datenschutzvorgaben erfüllen müssen, können Sie SeaTable mit KI-Funktion alternativ komplett on‑premises betreiben.
+          - q: Gilt das auch für den KI-Chat und KI-Agenten über MCP?
+            a: 'Nein, hier entscheiden Sie selbst. Für das KI-Chat-Plugin und für KI-Agenten wie Claude Desktop, ChatGPT oder Cursor wählen Sie einen externen KI-Anbieter, zum Beispiel Anthropic, OpenAI oder Mistral. Die Daten, die der Chat oder der Agent für Ihre Frage abfragt, werden an diesen Anbieter übertragen. Über die Berechtigungen des API-Tokens legen Sie fest, auf welche Bases der Agent zugreifen darf und ob er nur lesen darf. Wer keine Daten an externe Anbieter übertragen möchte, betreibt SeaTable selbst und bindet ein lokales Sprachmodell an. Mehr dazu in der Hilfe unter [Berechtigungen und Datenschutz bei KI-Agenten]({{< relref "help/ai/ai-agents/data-security" >}}).'
           - q: Ist die Nutzung der KI-Funktion bei SeaTable in der Subscription enthalten?
             a: Ja, die KI-Funktion kann ohne zusätzliche Kosten genutzt werden. Wenn Sie viele KI-Abfragen stellen können jedoch zusätzliche Kosten anfallen. Jeder SeaTable-Nutzer erhält abhängig vom Abo-Modell ein bestimmtes monatliches Kontingent an kostenfreien KI-Credits, die für die Nutzung der KI in Automatisierungen benötigt werden. Erst wenn über dieses Kontingent hinaus Credits benötigt werden, fallen zusätzliche Kosten an. 
           - q: Kann ich nachvollziehen, wofür die KI-Automatisierung genutzt wird?

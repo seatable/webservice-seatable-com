@@ -12,6 +12,13 @@ Os assistentes de IA como Claude, ChatGPT ou Copilot são ferramentas poderosas 
 
 **Os agentes de IA resolvem exatamente este problema.** Um agente de IA é um assistente de IA que pode aceder diretamente aos seus dados através de uma interface padronizada. No SeaTable, isto é feito através do **Model Context Protocol (MCP)** — um padrão aberto suportado por toda a indústria de IA.
 
+## O essencial em resumo
+
+- O **servidor MCP oficial do SeaTable** (`https://mcp.seatable.com/mcp`) liga o ChatGPT, Claude Desktop, Claude Code, Cursor e outros assistentes compatíveis com MCP à sua base.
+- O acesso aplica-se por base, apenas leitura ou leitura e escrita, consoante o token.
+- O agente trabalha com os dados, não com a estrutura: não cria nem apaga tabelas ou colunas.
+- Gratuito e de código aberto (licença MIT), para o SeaTable Cloud e instalações auto-alojadas.
+
 ## Como funciona?
 
 Quando liga um agente de IA à sua base SeaTable, acontece o seguinte:
@@ -57,10 +64,10 @@ Ambas as abordagens complementam-se: as automatizações para tarefas de rotina 
 ## O que preciso para começar?
 
 - Uma **conta SeaTable Cloud** (ou uma instalação auto-alojada)
-- Um **assistente de IA** que suporte MCP — por exemplo Claude Desktop, Cursor ou Claude Code
+- Um **assistente de IA** que suporte MCP — por exemplo ChatGPT, Claude Desktop, Claude Code ou Cursor
 - Um **token API** para a base à qual o agente deve aceder
 
-A configuração demora apenas alguns minutos. Encontra um guia passo a passo no artigo "Ligar o SeaTable ao Claude Desktop".
+A configuração demora apenas alguns minutos. Há guias passo a passo para [ChatGPT]({{< relref "help/ai/ai-agents/connect-chatgpt" >}}), [Claude Desktop]({{< relref "help/ai/ai-agents/connect-claude-desktop" >}}), [Claude Code]({{< relref "help/ai/ai-agents/connect-claude-code" >}}) e [Cursor]({{< relref "help/ai/ai-agents/connect-cursor" >}}).
 
 ## É seguro?
 

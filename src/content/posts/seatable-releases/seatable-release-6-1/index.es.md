@@ -128,6 +128,6 @@ El plugin de Chat IA se encuentra actualmente en fase beta. Estaremos encantados
 SeaTable 6.2 elimina dos funciones de SeaTable.
 
 1. La función de **sincronización de correos electrónicos a través de IMAP** se eliminará de SeaTable con SeaTable 6.2. Pedimos a los usuarios afectados que repliquen la sincronización a través de una de las plataformas de automatización compatibles: Make, n8n o Zapier.
-2. SeaTable 6.2 también pone fin a la compatibilidad con las aplicaciones basadas en el [constructor de aplicaciones de galería o consulta de datos]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) de la versión 4.3 de SeaTable y anteriores. Recomendamos migrar estas aplicaciones al [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), que ofrece bastantes más opciones.
+2. SeaTable 6.2 también pone fin a la compatibilidad con las aplicaciones basadas en el [constructor de aplicaciones de galería o consulta de datos]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) de la versión 4.3 de SeaTable y anteriores. Recomendamos migrar estas aplicaciones al [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), que ofrece bastantes más opciones.
 
 Se espera que SeaTable 6.2 salga a la venta a mediados/finales de mayo de 2026.

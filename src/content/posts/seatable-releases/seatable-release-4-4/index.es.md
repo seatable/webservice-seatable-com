@@ -55,7 +55,7 @@ Como se anunció en las últimas notas de la versión, hemos **eliminado** el **
 
 ![Crear diálogo de aplicación](Create-app-dialog-.png)
 
-También ha habido algunos cambios en la [aplicación de consulta]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) de datos. El antiguo App Builder para consultas de datos ha sido eliminado y sustituido por uno nuevo basado en el Universal App Builder. Esto significa que, por supuesto, puedes seguir creando aplicaciones públicas para consultar tus bases, pero la interfaz se parece ahora a la del Universal App Builder. Lo mismo se aplica a las aplicaciones de consulta existentes que a las aplicaciones de galería: no tienes que hacer nada y puedes seguir utilizándolas.
+También ha habido algunos cambios en la [aplicación de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) de datos. El antiguo App Builder para consultas de datos ha sido eliminado y sustituido por uno nuevo basado en el Universal App Builder. Esto significa que, por supuesto, puedes seguir creando aplicaciones públicas para consultar tus bases, pero la interfaz se parece ahora a la del Universal App Builder. Lo mismo se aplica a las aplicaciones de consulta existentes que a las aplicaciones de galería: no tienes que hacer nada y puedes seguir utilizándolas.
 
 {{< warning headline="Aumento de la eficacia" text="Los cambios descritos nos permiten centrarnos en el desarrollo ulterior de Universal App Builder y lograr así una mayor velocidad de desarrollo para las próximas funciones." />}}
 

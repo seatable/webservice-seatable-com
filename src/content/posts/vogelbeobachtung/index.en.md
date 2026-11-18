@@ -12,7 +12,7 @@ seo:
     Title: 'Bird Watching & Birding: A Guide for Beginners'
     description: 'Why Birdwatching Is the New Yoga. Learn all about identifying bird species, equipment, and guided birdwatching tours.'
 register:
-   draft: true
+   show: true
 ---
 A pair of binoculars, a quiet morning in the woods, and the call of an unfamiliar bird. What used to be considered a stuffy hobby for retirees is currently experiencing a surprising resurgence. Birdwatching is booming—and not just among older people. More and more young people are discovering **that observing native and exotic bird species offers a [deliberate break from their digital daily lives]({{< relref "posts/digital-detox" >}})**. 
 

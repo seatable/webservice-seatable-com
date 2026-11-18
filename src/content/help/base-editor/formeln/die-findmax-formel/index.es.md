@@ -1,7 +1,7 @@
 ---
 title: 'La fórmula Findmax'
 date: 2023-02-13
-lastmod: '2023-02-13'
+lastmod: '2026-11-13'
 categories:
     - 'verknuepfungen'
 author: 'vge'
@@ -9,31 +9,29 @@ url: '/es/ayuda/formula-findmax-seatable'
 aliases:
     - '/es/ayuda/die-findmax-formel'
 seo:
-    title: 'Fórmula Findmax de SeaTable: calcula el mayor valor de registros vinculados'
-    description: 'Aprende a usar la fórmula Findmax en SeaTable para obtener el valor máximo de entradas numéricas vinculadas entre tablas, con ejemplos prácticos y consejos de uso.'
+    title: 'Fórmula Findmax de SeaTable: determinar el valor máximo de registros vinculados'
+    description: 'Aprenda a usar la fórmula Findmax en SeaTable para obtener el valor más alto de varias entradas vinculadas, con ejemplos prácticos y más.'
 ---
 
-La **fórmula Findmax** busca el **valor máximo** entre las entradas de la columna vinculada y lo devuelve. Esto es útil si hay **varias entradas** en la tabla vinculada que hacen referencia al mismo registro (por ejemplo, de una persona) en otra tabla.
+La **fórmula Findmax** busca el **valor máximo** entre las entradas de la columna vinculada y lo devuelve. Esto es útil si hay **varias entradas** en la tabla vinculada que hacen referencia al mismo registro (por ejemplo, de una persona o categoría) en otra tabla.
 
-La fórmula Findmax sólo funciona con **valores numéricos**, por lo que el contenido de la columna vinculada también debe constar de valores numéricos. Además, el uso de la fórmula Findmax sólo tiene sentido si el control deslizante **Permitir vincular a varias filas** está activado al crear la columna **Enlace a otros registros**. Si la opción estuviera desactivada, la fórmula Findmax contendría siempre el mismo número que en la columna vinculada.
+## Para qué puede utilizar la fórmula Findmax
 
-## Para qué necesitas la fórmula Findmax
+Puede utilizar la fórmula Findmax con todos los valores alfanuméricos para determinar el **valor máximo**. Supongamos que utiliza SeaTable para la [planificación presupuestaria]({{< relref "templates/finance/budget-plan" >}}), donde una tabla almacena los gastos y otra tabla las categorías. A continuación, puede vincular cada gasto con una categoría. Para saber cuál fue **el gasto más alto por categoría**, puede utilizar la **fórmula Findmax** para mostrar el valor mayor de todos los gastos vinculados.
 
-La **función Findmax** debe utilizarse cuando desee **cruzar** valores numéricos almacenados en diferentes tablas. Digamos que utiliza SeaTable para recoger las **horas de trabajo de** sus empleados, donde una tabla almacena los empleados y otra tabla almacena la actividad diaria. A continuación, puede vincular cada registro de empleado a las horas de trabajo introducidas.
-
-![fórmula findmax](images/findmax-1.png)
-
-Para saber cuándo se conectó por última vez un empleado, puede utilizar la **fórmula Buscarmáx** para mostrar el **valor mayor** -en este caso la última vez- del total de horas de conexión de una columna.
-
-![La fórmula findmax](images/findmax2-1.png)
-
-Puede utilizar la fórmula Findmax con todos los valores numéricos para representar el **valor máximo**.
+![fórmula findmax](images/findmax.png)
 
 ## Para utilizar la fórmula Findmax
 
 ### Añadir un enlace a la tabla
 
 Consulte el [artículo sobre la columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) para obtener información sobre cómo crear una columna del tipo **Enlace a otros registros**. Este es un requisito básico para poder utilizar la fórmula Findmax.
+
+{{< warning headline="Se necesitan varias filas enlazadas" >}}
+
+El uso de la fórmula Findmax sólo tiene sentido si la opción **Limitar los enlaces a una fila como máximo** está desactivada en los ajustes de una columna de enlace. Si la opción estuviera activada, la fórmula Findmax mostraría siempre el mismo valor que la única fila enlazada.
+
+{{< /warning >}}
 
 ### Añadir una columna con la fórmula Findmax
 
@@ -42,7 +40,6 @@ Consulte el [artículo sobre la columna de enlace]({{< relref "help/base-editor/
 1. Cree una nueva columna del tipo **Fórmula para los enlaces**.
 2. Establezca la opción **Findmax** como fórmula.
 3. Seleccione la columna creada anteriormente del tipo **Enlace a otros registros** de esta tabla.
-4. En el campo **Seleccionar columna de consulta en la tabla vinculada "..."**, defina la columna de la otra tabla que desea vincular a la columna de aquí.
-5. Haga clic en **Enviar**.
-
-{{< warning  headline="Atención"  text="La fórmula Findmin sólo funciona con **valores numéricos**, por lo que la columna vinculada debe contener valores numéricos." />}}
+4. Defina ahora la **columna de consulta en la tabla vinculada** cuyo registro con el valor máximo debe mostrarse en la columna Findmax.
+5. Seleccione la **columna de comparación en la tabla vinculada** en la que desea determinar el valor máximo.
+6. Haga clic en **Enviar**.

@@ -8,6 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/abfrageseiten-in-seatable-apps'
 aliases:
     - '/de/hilfe/abfrageseiten-in-universellen-apps'
+    - '/de/hilfe/datenabfrage-app'
 seo:
     title: 'Abfrageseiten in SeaTable Apps nutzen'
     description: 'Durchsuchen und filtern Sie große Datensätze in SeaTable Apps gezielt nach Werten: Filter, Sortierungen und Abfragefelder für individuelle Ergebnisse.'

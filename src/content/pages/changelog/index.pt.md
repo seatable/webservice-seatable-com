@@ -19,14 +19,14 @@ sections:
       text: "Recomendamos que você assine nossa newsletter para sempre receber informações sobre a versão mais recente e segura do SeaTable Server."
       items:
           - icon: fingerprint
+            headline: 'SeaTable 7'
+            link: '#release-7'
+          - icon: bullseye
             headline: 'SeaTable 6'
             link: '#release-6'
-          - icon: bullseye
-            headline: 'SeaTable 5'
-            link: '#release-5'
           - icon: code
             headline: 'Versões anteriores'
-            link: '#release-4'
+            link: '#release-5'
 
     - name: 'content-11'
       weight: 3
@@ -35,6 +35,15 @@ sections:
       description: 'Privacidade e segurança são inseparáveis — a verdadeira privacidade não pode existir sem medidas de segurança robustas. Proteger seus dados contra acessos não autorizados, violações e uso indevido é essencial para manter a confidencialidade e a confiança. Manter-se atualizado com os mais recentes padrões e melhores práticas de segurança é crucial para garantir que suas informações pessoais e empresariais permaneçam privadas e protegidas.<br><br>
       Com o SeaTable, você tem a flexibilidade de escolher a solução que melhor se adapta às suas necessidades de privacidade e conformidade. Você pode optar pela nossa oferta SaaS hospedada na Europa, que é totalmente compatível com o GDPR e se beneficia de rigorosas leis europeias de proteção de dados e data centers seguros. Alternativamente, você pode executar seu próprio servidor SeaTable, tendo controle total sobre seus dados e infraestrutura de segurança. Ambas as opções são projetadas para lhe proporcionar transparência, conformidade e tranquilidade.'
       image: ''
+
+    - name: "content-26"
+      weight: 9
+      title: SeaTable Release 7
+      subtitle: Detalhes da versão
+      anchor: release-7
+      items:
+        - text: 'Version **7.0.13** em 6 de novembro de 2026: [Notas da versão 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
+      template: "7918d5e151644280bfe5"
 
     - name: "content-26"
       weight: 10

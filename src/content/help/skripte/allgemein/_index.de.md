@@ -6,3 +6,5 @@ seo:
 url: '/de/hilfe/skripte/allgemeines'
 weight: 1
 ---
+
+{{< youtube mkS-npmDccc >}}

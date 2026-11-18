@@ -20,13 +20,14 @@ Es kann vorkommen, dass Sie die **Nutzung einer App vorübergehend unterbinden**
 
 1. Öffnen Sie die **Base**, in der Sie eine App deaktivieren möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
-   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die gewünschte App und klicken Sie rechts auf die **drei Punkte**.
-3. Wählen Sie **Anhalten** aus.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die gewünschte App und klicken Sie rechts auf die **drei Punkte**.
+4. Wählen Sie **Anhalten** aus.
    ![Apps zeitweise aussetzen und wieder aktivieren](images/Suspend-and-activate-apps.gif)
 
-{{< warning  type="warning" headline="App wieder aktivieren"  text="Auf dem gleichen Weg können Sie inaktive Apps jederzeit wieder aktivieren." />}}
-
 Eine deaktivierte App erkennen Sie am Hinweis **(inaktiv)** hinter dem Namen der App.
+
+{{< warning  type="warning" headline="App wieder aktivieren"  text="Auf dem gleichen Weg können Sie inaktive Apps jederzeit wieder aktivieren." />}}
 
 ## Folgen der Deaktivierung
 

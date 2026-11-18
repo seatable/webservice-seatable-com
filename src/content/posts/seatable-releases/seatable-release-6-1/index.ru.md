@@ -125,6 +125,6 @@ SeaTable 6.1 теперь доступен для загрузки в хорош
 В SeaTable 6.2 из SeaTable удалены две функции.
 
 1. Функция **синхронизации электронной почты через IMAP** будет удалена из SeaTable с выходом SeaTable 6.2. Мы просим затронутых пользователей повторить синхронизацию с помощью одной из поддерживаемых платформ автоматизации – Make, n8n или Zapier.
-2. SeaTable 6.2 также прекращает поддержку приложений, основанных на [конструкторе приложений для галереи или запроса данных]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) из SeaTable версии 4.3 и более ранних. Мы рекомендуем перенести эти приложения на [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), который предлагает значительно больше возможностей.
+2. SeaTable 6.2 также прекращает поддержку приложений, основанных на [конструкторе приложений для галереи или запроса данных]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) из SeaTable версии 4.3 и более ранних. Мы рекомендуем перенести эти приложения на [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), который предлагает значительно больше возможностей.
 
 Выход SeaTable 6.2 ожидается в середине/конце мая 2026 года.

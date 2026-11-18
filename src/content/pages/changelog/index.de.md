@@ -19,14 +19,14 @@ sections:
       text: "Wir empfehlen Ihnen, unseren Newsletter zu abonnieren, um immer über die neueste und sicherste SeaTable-Server-Version informiert zu werden"
       items:
           - icon: fingerprint
+            headline: 'SeaTable 7'
+            link: '#release-7'
+          - icon: bullseye
             headline: 'SeaTable 6'
             link: '#release-6'
-          - icon: bullseye
-            headline: 'SeaTable 5'
-            link: '#release-5'
           - icon: code
             headline: 'Older versions'
-            link: '#release-4'
+            link: '#release-5'
           
     - name: 'content-11'
       weight: 3
@@ -37,9 +37,18 @@ sections:
       image: ''
 
     - name: "content-26"
+      weight: 9
+      title: SeaTable Release 7
+      subtitle: Details zur Version
+      anchor: release-7
+      items:
+        - text: 'Version **7.0.13** am 6. November 2026: [Release Notes Version 7.0]({{< relref "posts/seatable-releases/seatable-release-7-0" >}})'
+      template: "7918d5e151644280bfe5"
+
+    - name: "content-26"
       weight: 10
       title: SeaTable Release 6
-      subtitle: Version details
+      subtitle: Details zur Version
       anchor: release-6
       items:
         - text: 'Version **6.0.10** am 4. November 2025: [Release Notes Version 6.0]({{< relref "posts/seatable-releases/seatable-release-6-0" >}})'
@@ -50,7 +59,7 @@ sections:
     - name: "content-26"
       weight: 11
       title: SeaTable Release 5
-      subtitle: Version details
+      subtitle: Details zur Version
       anchor: release-5
       items:
         - text: 'Version **5.3.10** am 16. Juni 2025: [Release Notes Version 5.3]({{< relref "posts/seatable-releases/seatable-release-5-3" >}})'
@@ -61,7 +70,7 @@ sections:
 
     - name: "content-26"
       weight: 12
-      title: SeaTable Release 4
+      title: Details zur Version
       subtitle: Version details
       anchor: release-4
       items:
@@ -75,7 +84,7 @@ sections:
     - name: "content-26"
       weight: 13
       title: SeaTable Release 3
-      subtitle: Version details
+      subtitle: Details zur Version
       anchor: release-3
       items:
         - text: 'Version **3.5.10** am 12. April 2023: [Release Notes Version 3.5]({{< relref "posts/seatable-releases/seatable-release-3-5" >}})'

@@ -40,7 +40,7 @@ At first, the Lookup formula may confuse you. But you'll see that before long yo
 
 ![Set up a lookup column](images/setup-of-lookup-column.gif)
 
-1. Create a new column of the type **Formula for links**.
+1. Create a new column of the type **Link formula**.
 2. Set the **Lookup** option as the formula.
 3. Select a **link column**. This field is automatically filled in correctly if you have only one link column.
 4. With the **lookup column in the linked table** you define from which column of the other table the values should be taken.

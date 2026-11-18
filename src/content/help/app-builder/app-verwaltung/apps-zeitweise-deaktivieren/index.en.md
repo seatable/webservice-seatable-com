@@ -22,17 +22,14 @@ It may happen that you want to **temporarily prevent the use of an app** because
 
 1. Open the **base** where you want to disable an app.
 2. Click **Apps** in the base header.
-
-![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
-
-4. Hover your mouse over the desired app and click on the **three dots** on the right.
-5. Select **Pause** .
-
-![Temporarily suspend and reactivate apps](images/Suspend-and-activate-apps.gif)
-
-{{< warning  headline="Reactivate the app"  text="In the same way, you can reactivate inactive apps at any time." />}}
+   ![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
+3. Hover your mouse over the desired app and click on the **three dots** on the right.
+4. Select **Pause**.
+   ![Temporarily suspend and reactivate apps](images/Suspend-and-activate-apps.gif)
 
 You can recognize a deactivated app by the note **(inactive)** after the name of the app.
+
+{{< warning  headline="Reactivate the app"  text="In the same way, you can reactivate inactive apps at any time." />}}
 
 ## Consequences of deactivation
 

@@ -2,8 +2,8 @@
 title: 'Data Processing Agreement <br /> pursuant to Art. 28 GDPR'
 description: ''
 seo:
-    title: 'AVV'
-    description: '...'
+    title: 'Data Processing Agreement (DPA) under GDPR | SeaTable'
+    description: 'Standard data processing agreement under Art. 28 GDPR for SeaTable Cloud and Dedicated. Conclude it with minimal effort using our DPA generator.'
 date: 2024-10-16
 version: '1.1.6'
 type: 'legal'
