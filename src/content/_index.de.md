@@ -113,9 +113,6 @@ sections:
     text: 'Mit SeaTable erstellen Sie leistungsstarke, datenbasierte Anwendungen schnell und intuitiv per Drag-and-Drop – komplett ohne Programmierkenntnisse. Der [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) ermöglicht Ihnen, unterschiedlichste Lösungen wie CRM-, Projektmanagement- oder individuelle Business-Apps selbst zusammenzustellen, ganz ohne eine einzige Zeile Code schreiben zu müssen.'
   - headline: "Intuitive No-Code und Low-Code Benutzeroberfläche"
     text: 'Egal, ob Sie ein erfahrener Entwickler oder ein [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) ohne Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen und Ihre Geschäftsprozesse zu digitalisieren. Starten Sie gleich hier: eigene App erstellen kostenlos.'
-  - headline: "Kollaboratives Arbeiten in Echtzeit für Teams"
-    text: "SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche.
-      Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.<br/><br/>Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren."
   image: /images/Group-38.png
   image_alt: 'SeaTable App-Builder mit gemeinsamer Bearbeitung in Echtzeit'
 
