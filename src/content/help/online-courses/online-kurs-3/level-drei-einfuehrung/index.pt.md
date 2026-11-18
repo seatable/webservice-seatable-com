@@ -52,7 +52,7 @@ No final, saberá trabalhar com segurança, em equipa, sobre os mesmos dados.
 
 Lê o curso aqui, no site. Dentro da base, o plugin de cursos online acompanha-o: em determinados momentos, passa para o plugin para pôr em prática o que aprendeu e mandar verificar o seu trabalho.
 
-![O plugin de cursos online aberto por baixo de uma base: à esquerda a lista de passos, à direita o exercício atual com o seu botão Verify](images/online-courses-plugin.png)
+{{< zoom image="images/online-courses-plugin.png" alt="O plugin de cursos online aberto por baixo de uma base: à esquerda a lista de passos, à direita o exercício atual com o seu botão Verify" >}}
 
 Se nunca usou o plugin, comece pelo seu curso introdutório: uma breve apresentação de como funciona um curso, com dois pequenos exercícios.
 

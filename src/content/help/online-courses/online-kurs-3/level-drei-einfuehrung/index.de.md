@@ -50,7 +50,7 @@ So können Sie künftig sicher und reibungslos mit anderen an denselben Daten ar
 
 Den Kurs lesen Sie hier auf der Website. In der Base begleitet Sie das Online-Kurse-Plugin: An bestimmten Stellen wechseln Sie dorthin, um das Gelernte praktisch anzuwenden und Ihre Arbeit prüfen zu lassen.
 
-![Das geöffnete Online-Kurse-Plugin unterhalb einer Base: links die Liste der Schritte, rechts die aktuelle Übung mit dem Button Verify](images/online-courses-plugin.png)
+{{< zoom image="images/online-courses-plugin.png" alt="Das geöffnete Online-Kurse-Plugin unterhalb einer Base: links die Liste der Schritte, rechts die aktuelle Übung mit dem Button Verify" >}}
 
 Falls Sie das Plugin zum ersten Mal nutzen, starten Sie am besten mit seinem Einführungskurs: eine kurze Tour durch die Bedienung mit zwei kleinen Übungen.
 

@@ -52,7 +52,7 @@ Vous aurez ainsi les outils vous permettant de travailler sereinement à plusieu
 
 Vous lisez le cours ici, sur le site. Dans la base, le plugin de cours en ligne vous accompagne : à certains moments, vous basculez dessus pour passer à la pratique et faire vérifier votre travail.
 
-![Le plugin de cours en ligne ouvert sous une base : à gauche la liste des étapes, à droite l'exercice en cours et son bouton Verify](images/online-courses-plugin.png)
+{{< zoom image="images/online-courses-plugin.png" alt="Le plugin de cours en ligne ouvert sous une base : à gauche la liste des étapes, à droite l'exercice en cours et son bouton Verify" >}}
 
 Si c'est la première fois que vous l'utilisez, commencez par son cours d'introduction : une courte présentation de son fonctionnement, avec deux petits exercices.
 

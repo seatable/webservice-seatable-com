@@ -17,7 +17,7 @@ O **plugin de cursos online** é um pouco diferente dos outros plugins: não lhe
 
 Para saber como ativar um plugin numa base, consulte [este artigo]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-![O plugin de cursos online aberto por baixo de uma base: à esquerda a lista de passos, à direita o exercício atual com o seu botão Verify](images/online-courses-plugin.png)
+{{< zoom image="images/online-courses-plugin.png" alt="O plugin de cursos online aberto por baixo de uma base: à esquerda a lista de passos, à direita o exercício atual com o seu botão Verify" >}}
 
 ## O plugin e os cursos
 
