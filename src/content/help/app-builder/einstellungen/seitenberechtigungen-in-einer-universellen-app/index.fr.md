@@ -53,6 +53,7 @@ Toutes les autorisations de pages ne sont pas disponibles pour tous les [types d
 | Kanban                | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Chronologie           | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Requête               | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Carte                 | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Enregistrement unique | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
 ## Quels groupes d'utilisateurs vous pouvez autoriser

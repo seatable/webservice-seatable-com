@@ -22,17 +22,14 @@ Pode acontecer que você queira **impedir temporariamente o uso de um aplicativo
 
 1. Abra a **base** onde você deseja desabilitar um aplicativo.
 2. Clique em **Apps** no cabeçalho Base.
-
-![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
-
-4. Passe o mouse sobre o aplicativo desejado e clique nos **três pontos** à direita.
-5. Selecione **Pausar** .
-
-![Suspender temporariamente e reativar aplicações](images/Suspend-and-activate-apps.gif)
-
-{{< warning  headline="Reativar o aplicativo"  text="Da mesma forma, você pode reativar aplicativos inativos a qualquer momento." />}}
+   ![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
+3. Passe o mouse sobre o aplicativo desejado e clique nos **três pontos** à direita.
+4. Selecione **Pausar**.
+   ![Suspender temporariamente e reativar aplicações](images/Suspend-and-activate-apps.gif)
 
 Você pode reconhecer um aplicativo desativado pela nota **(inativo)** após o nome do aplicativo.
+
+{{< warning  headline="Reativar o aplicativo"  text="Da mesma forma, você pode reativar aplicativos inativos a qualquer momento." />}}
 
 ## Consequências da desativação
 

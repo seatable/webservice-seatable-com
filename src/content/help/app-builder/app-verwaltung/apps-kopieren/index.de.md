@@ -19,7 +19,7 @@ Sie haben eine ausgefeilte **App** gebaut, die Sie in ähnlicher Form für eine 
 
 1. Öffnen Sie die **Base**, in der Sie eine bestehende App kopieren möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
-
-![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg) 4. Fahren Sie mit der Maus über die App und klicken Sie auf das erscheinende **Kopie-Symbol** {{< seatable-icon icon="dtable-icon-copy" >}}.
-
-![Apps kopieren](images/Apps-kopieren.png) 6. Die Kopie der App öffnet sich im Bearbeitungsmodus, in dem Sie die **Einstellungen** direkt anpassen können.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die App und klicken Sie auf das erscheinende **Kopie-Symbol** {{< seatable-icon icon="dtable-icon-copy" >}}.
+   ![Apps kopieren](images/Apps-kopieren.png)
+4. Die Kopie der App öffnet sich im Bearbeitungsmodus, in dem Sie die **Einstellungen** direkt anpassen können.

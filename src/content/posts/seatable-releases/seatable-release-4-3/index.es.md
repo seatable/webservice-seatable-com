@@ -78,7 +78,7 @@ También se han eliminado todas las restricciones para [las acciones de los boto
 
 ## Anuncio importante: Eliminación de la app de galería y consulta de datos
 
-En la versión 4.4, la [aplicación de galería]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) y la [aplicación de consulta de datos]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerán, ya que su funcionalidad ahora se puede asignar completamente con los **tipos de página** correspondientes en la aplicación universal. Por lo tanto, Universal App Builder será la única opción para crear aplicaciones en SeaTable en el futuro.
+En la versión 4.4, la [aplicación de galería]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) y la [aplicación de consulta de datos]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) desaparecerán, ya que su funcionalidad ahora se puede asignar completamente con los **tipos de página** correspondientes en la aplicación universal. Por lo tanto, Universal App Builder será la única opción para crear aplicaciones en SeaTable en el futuro.
 
 Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus casos de uso con páginas de [galería]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) y páginas [de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) consulta en el App Builder antes de la próxima versión. Por cierto, ahora puedes añadir campos a las páginas de consulta que permiten a los usuarios buscar valores específicos en **las columnas de enlace**.
 

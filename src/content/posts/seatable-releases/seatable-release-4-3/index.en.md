@@ -78,7 +78,7 @@ All restrictions for [button actions]({{< relref "help/base-editor/spaltentypen/
 
 ## Important announcement: Removal of the gallery and data query app
 
-In version 4.4, the [gallery app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) and the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) will disappear, as their functionality can now be fully mapped with the corresponding **page types** in the universal app. The Universal App Builder will therefore be the only option for creating apps in SeaTable in the future.
+In version 4.4, the [gallery app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) and the [data query app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) will disappear, as their functionality can now be fully mapped with the corresponding **page types** in the universal app. The Universal App Builder will therefore be the only option for creating apps in SeaTable in the future.
 
 If you use the two expiring apps, we recommend that you rebuild your use cases with [gallery pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) and query [pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) in the App Builder before the next release. Incidentally, you can now add fields to query pages that allow users to search **link columns** for specific values.
 

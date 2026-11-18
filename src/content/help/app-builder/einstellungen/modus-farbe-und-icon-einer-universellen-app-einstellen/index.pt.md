@@ -20,18 +20,12 @@ Pode efetuar **definições visuais** para cada [aplicação]({{< relref "help/a
 
 1. Abra uma **base** na qual pretende editar uma aplicação existente.
 2. Clique em **Apps** no cabeçalho Base.
-
-![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
-
-4. Passe o rato sobre a aplicação e clique no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-![Editar aplicações](images/Apps-bearbeiten.png)
-
-6. Clique no **ícone da paleta** no canto superior esquerdo da página.
-
-![Ícone de paleta para as definições de design de uma aplicação](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
-
-8. Efetuar os ajustes desejados nas **definições visuais (modo, cor e ícone)** da aplicação.
+   ![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
+3. Passe o rato sobre a aplicação e clique no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Editar aplicações](images/Apps-bearbeiten.png)
+4. Clique no **ícone da paleta** no canto superior esquerdo da página.
+   ![Ícone de paleta para as definições de design de uma aplicação](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+5. Efetuar os ajustes desejados nas **definições visuais (modo, cor e ícone)** da aplicação.
 
 {{< warning  headline="Autorização necessária no grupo"  text="Para poder editar uma aplicação, tem de ser o **proprietário** ou **administrador do grupo** em que a **base** subjacente se encontra. **Os membros** simples **do grupo** só podem ver e utilizar as aplicações." />}}
 
@@ -51,6 +45,6 @@ As definições mencionadas até agora afectam **toda** uma **aplicação**. Se 
 
 ![Abrir as definições da página](images/page-permissions-universal-app.png)
 
-Atualmente, a [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
+Atualmente, a [página de dashboard]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
 
 ![Selecionador de cores na aplicação](images/Color-Picker-in-der-Universellen-App.png)

@@ -37,4 +37,4 @@ Com a **aplicação universal**, pode dar asas à sua criatividade. A aplicaçã
 
 Uma **aplicação de consulta de dados** é um **ecrã de pesquisa** específico do utilizador. Crie uma aplicação deste tipo se pretender que outros utilizadores possam pesquisar os seus **registos** numa vista de tabela para entradas específicas. Seleccione quais os **valores de coluna** que devem ser apresentados nos resultados da consulta para definir individualmente quais os dados a que um grupo de utilizadores pode aceder.
 
-[Saiba mais sobre a aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}).
+[Saiba mais sobre a aplicação de consulta de dados]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}).

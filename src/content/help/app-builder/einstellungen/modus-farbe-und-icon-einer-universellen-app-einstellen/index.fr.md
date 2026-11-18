@@ -20,18 +20,12 @@ Pour chaque [application]({{< relref "help/app-builder/app-verwaltung/universell
 
 1. Ouvrez une **base** dans laquelle vous souhaitez modifier une application existante.
 2. Cliquez sur **Apps** dans l'en-tête de la base.
-
-![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
-
-4. Passez la souris sur l'application et cliquez sur l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-![Modifier les apps](images/Apps-bearbeiten.png)
-
-6. Cliquez sur l'**icône de la palette** en haut à gauche de la page.
-
-![Icône de palette pour les paramètres de design d'une application](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
-
-8. Effectuez les ajustements souhaités sur les **paramètres visuels (mode, couleur et icône)** de l'application.
+   ![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
+3. Passez la souris sur l'application et cliquez sur l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Modifier les apps](images/Apps-bearbeiten.png)
+4. Cliquez sur l'**icône de la palette** en haut à gauche de la page.
+   ![Icône de palette pour les paramètres de design d'une application](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+5. Effectuez les ajustements souhaités sur les **paramètres visuels (mode, couleur et icône)** de l'application.
 
 {{< warning  headline="Autorisation requise dans le groupe"  text="Pour pouvoir modifier une app, vous devez être **propriétaire** ou **administrateur du groupe** dans lequel se trouve la **base** sous-jacente. **Les** simples **membres du groupe** peuvent uniquement consulter et utiliser les apps." />}}
 
@@ -51,6 +45,6 @@ Les paramètres mentionnés jusqu'ici concernent l'**ensemble** d'une **applicat
 
 ![Ouvrir les paramètres de la page](images/page-permissions-universal-app.png)
 
-Actuellement, c'est surtout la [page individuelle]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) qui offre de nombreux autres paramètres de design. Par exemple, vous pouvez définir différentes couleurs pour les arrière-plans, les polices, les lignes et les cadres des éléments. Utilisez pour cela le **Color Picker** pratique.
+Actuellement, c'est surtout la [page de tableau de bord]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) qui offre de nombreux autres paramètres de design. Par exemple, vous pouvez définir différentes couleurs pour les arrière-plans, les polices, les lignes et les cadres des éléments. Utilisez pour cela le **Color Picker** pratique.
 
 ![Color Picker dans l'application](images/Color-Picker-in-der-Universellen-App.png)

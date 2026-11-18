@@ -78,7 +78,7 @@ Todas as restrições para [acções de botão]({{< relref "help/base-editor/spa
 
 ## Anúncio importante: Remoção da galeria e da aplicação de consulta de dados
 
-Na versão 4.4, a [aplicação de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e a [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
+Na versão 4.4, a [aplicação de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e a [aplicação de consulta de dados]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
 
 Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
 

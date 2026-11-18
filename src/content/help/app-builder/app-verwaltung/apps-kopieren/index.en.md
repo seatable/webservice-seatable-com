@@ -21,11 +21,7 @@ You have built a sophisticated **app** that you want to use in a similar way for
 
 1. Open the **base** where you want to copy an existing app.
 2. Click **Apps** in the base header.
-
-![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
-
-4. Hover your mouse over the app and click the **copy icon that** appears {{< seatable-icon icon="dtable-icon-copy" >}}.
-
-![Copy apps](images/Apps-kopieren.png)
-
-6. The copy of the app opens in edit mode, where you can adjust the **settings** directly.
+   ![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
+3. Hover your mouse over the app and click the **copy icon that** appears {{< seatable-icon icon="dtable-icon-copy" >}}.
+   ![Copy apps](images/Apps-kopieren.png)
+4. The copy of the app opens in edit mode, where you can adjust the **settings** directly.

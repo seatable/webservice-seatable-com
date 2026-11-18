@@ -55,7 +55,7 @@ Comme nous l'avons annoncé dans les dernières notes de version, nous avons **s
 
 ![Créer un dialogue d'application](Create-app-dialog-.png)
 
-L'[application de consultation des données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) a également connu quelques changements. L'ancien App Builder pour la consultation des données a été supprimé et remplacé par un nouveau basé sur l'Universal App Builder. Cela signifie que vous pouvez bien sûr continuer à créer des applications publiques pour la consultation de vos bases, mais l'interface ressemble désormais à celle de l'Universal App Builder. Pour les apps de requête existantes, la situation est la même que pour les apps de galerie : vous ne devez rien faire et vous pouvez continuer à les utiliser.
+L'[application de consultation des données]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) a également connu quelques changements. L'ancien App Builder pour la consultation des données a été supprimé et remplacé par un nouveau basé sur l'Universal App Builder. Cela signifie que vous pouvez bien sûr continuer à créer des applications publiques pour la consultation de vos bases, mais l'interface ressemble désormais à celle de l'Universal App Builder. Pour les apps de requête existantes, la situation est la même que pour les apps de galerie : vous ne devez rien faire et vous pouvez continuer à les utiliser.
 
 {{< warning headline="Gain d'efficacité" text="Les changements décrits ci-dessus nous permettent de nous concentrer sur le développement de l'Universal App Builder et d'atteindre ainsi une vitesse de développement plus élevée pour les fonctionnalités à venir." />}}
 

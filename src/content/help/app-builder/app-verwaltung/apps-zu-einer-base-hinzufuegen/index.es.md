@@ -1,7 +1,7 @@
 ---
 title: 'Añadir aplicaciones a una base'
 date: 2023-05-02
-lastmod: '2024-05-15'
+lastmod: '2026-11-15'
 categories:
     - 'apps'
 author: 'nsc2'
@@ -23,17 +23,10 @@ weight: 2
 
 1. Abra cualquier **base** en la que desee añadir una nueva aplicación.
 2. Haga clic en **Aplicaciones** en la cabecera Base.
-
-![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
-
-4. Aparecerá una nueva ventana. Haga clic en **Añadir App**.
-5. Decida qué tipo de aplicación desea crear y haga clic en **Añadir.**
-
-![Ventana de diálogo para añadir aplicaciones](images/Add-App.png)
-
-7. Dale un **nombre** a la aplicación.
-8. Confirme con **Enviar**.
-
-![Asigne un nombre a la aplicación y confirme con Enviar](images/confirm-to-add-app-to-base.jpg)
+   ![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
+3. Aparecerá una nueva ventana. Vaya al campo **Aplicación universal** y haga clic en **Añadir**.
+   ![Ventana de diálogo para añadir aplicaciones](images/add-app.png)
+4. Asigne un **nombre** a la aplicación y confirme con **Enviar**.
+   ![Asigne un nombre a la aplicación y confirme con Enviar](images/confirm-to-add-app-to-base.png)
 
 Una vez añadida la [aplicación]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) y diseñarla a tu gusto.

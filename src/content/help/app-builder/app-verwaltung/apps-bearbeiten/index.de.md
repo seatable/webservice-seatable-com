@@ -20,7 +20,9 @@ Apps, die Sie bereits zu einer Ihrer Bases hinzugefügt haben, können Sie jeder
 
 1. Öffnen Sie die **Base**, in der Sie eine App bearbeiten möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
-   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die gewünschte App und klicken Sie auf das erscheinende **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
-   ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Die ausgewählte App öffnet sich im Bearbeitungsmodus, in dem Sie bestimmte **Einstellungen** vornehmen können.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die gewünschte App und klicken Sie auf das erscheinende **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Apps bearbeiten](images/Apps-bearbeiten.png)
+4. Die ausgewählte App öffnet sich im Bearbeitungsmodus.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Um Ihre Apps bearbeiten zu können, müssen Sie diese stets im **Bearbeitungsmodus** öffnen. Diesen erreichen Sie **ausschließlich** auf dem beschriebenen Weg. Wenn Sie lediglich auf den **Namen** Ihrer App klicken, öffnen Sie Ihre App in der **Vorschau** und können diese folglich **nicht** bearbeiten." />}}

@@ -55,7 +55,7 @@ As announced in the last release notes, we have **removed** the **Gallery App Bu
 
 ![Create app dialog](Create-app-dialog-.png)
 
-There have also been some changes to the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}). The old App Builder for data queries has been removed and replaced by a new one based on the Universal App Builder. This means that you can of course still create public apps for querying your bases, but the interface now looks like the Universal App Builder. The same applies to existing query apps as for gallery apps: you don't have to do anything and can continue to use them.
+There have also been some changes to the [data query app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}). The old App Builder for data queries has been removed and replaced by a new one based on the Universal App Builder. This means that you can of course still create public apps for querying your bases, but the interface now looks like the Universal App Builder. The same applies to existing query apps as for gallery apps: you don't have to do anything and can continue to use them.
 
 {{< warning headline="Efficiency gain" text="The changes described allow us to focus on the further development of the Universal App Builder and thus achieve a higher development speed for upcoming features." />}}
 

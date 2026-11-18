@@ -9,6 +9,8 @@ url: '/es/ayuda/paginas-consulta-apps-seatable'
 aliases:
     - '/es/ayuda/abfrageseiten-in-universellen-apps'
     - '/es/ayuda/paginas-consulta-apps-universales'
+    - '/es/ayuda/app-consulta-datos'
+    - '/es/ayuda/datenabfrage-app'
 seo:
     title: 'Páginas de consulta en SeaTable Apps'
     description: 'Busque y filtre grandes conjuntos de datos en aplicaciones de SeaTable: defina filtros, ordenaciones y campos de consulta para resultados propios.'
