@@ -1,5 +1,5 @@
 ---
-title: 'Administración de usuarios y funciones de una aplicación'
+title: 'Administración de usuarios y roles de una aplicación'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:
@@ -10,90 +10,83 @@ aliases:
     - '/es/ayuda/benutzer-und-rollenverwaltung-einer-universellen-app'
 seo:
     title: 'Gestión de usuarios y roles en aplicación'
-    description: 'Añade usuarios, asigna roles y crea enlaces de invitación para administrar permisos en las aplicaciones de SeaTable. Guía completa.'
+    description: 'Añada usuarios, asigne roles y cree enlaces de invitación para administrar permisos en las aplicaciones de SeaTable. Guía completa.'
 ---
 
-Ya sea añadiendo **nuevos usuarios**, asignando **roles** o creando **enlaces de** invitación, puedes llevar a cabo varias actividades administrativas en la administración de usuarios y roles de una aplicación. Puede acceder a la administración de usuarios y **roles** a través del modo de edición de su aplicación.
+Ya sea añadir **nuevos usuarios**, asignar **roles** o crear **enlaces de invitación**: en la administración de usuarios y roles de una aplicación puede llevar a cabo diversas tareas administrativas. Puede acceder a la **administración de usuarios y roles** a través del modo de edición de su aplicación.
 
-{{< warning  headline="Autorización necesaria en el grupo"  text="Para poder editar una app, debes ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros del** grupo simple sólo pueden ver y utilizar las apps." />}}
+{{< warning  headline="Permiso necesario en el grupo"  text="Para poder editar una aplicación, debe ser **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. Los **miembros del grupo** normales solo pueden ver y utilizar las aplicaciones." />}}
 
-## Administración de usuarios y funciones de la aplicación
+## Administración de usuarios y roles de la aplicación
 
-1. Abra una **Base** a la que ya haya añadido una aplicación.
-2. Haga clic en **Aplicaciones** en la cabecera Base.
-
-![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
-
-4. Pase el ratón por encima de la aplicación y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-![Haga clic en el icono de edición](images/add-page-to-universal-app-1.png)
-
-6. Abra la **administración de usuarios y funciones** en la parte superior izquierda de la página.
-
-![Icono de gestión de usuarios y funciones](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
-
-8. Realice los **ajustes** deseados.
+1. Abra una **base** a la que ya haya añadido una aplicación.
+2. Haga clic en **Aplicaciones** en la cabecera de la base.
+   ![Haga clic en Aplicaciones en la cabecera de la base](images/click-apps-in-the-base-header.jpg)
+3. Pase el ratón por encima de la aplicación y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Haga clic en el icono del lápiz](images/add-page-to-universal-app-1.png)
+4. Abra la **administración de usuarios y roles** en la parte superior izquierda de la página.
+   ![Icono de la administración de usuarios y roles](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png) 
+5. Realice los **ajustes** deseados.
 
 ## Los ajustes en detalle
 
-### Usuario
+### Usuarios
 
-En la primera sección encontrará un resumen de todos los **usuarios** que tienen acceso a su aplicación. Además, también encontrará la **función** y el **estado** del usuario correspondiente.
+En la primera sección encontrará un resumen de todos los **usuarios** que tienen acceso a su aplicación. Además, aquí también encontrará el **rol** y el **estado** de cada usuario.
 
-![Descripción general de la pestaña Usuarios de la administración de usuarios y roles de una aplicación](images/user-and-role-management-overview-1.png)
+![Resumen de la pestaña Usuarios de la administración de usuarios y roles de una aplicación](images/user-and-role-management-overview-1.png)
 
-Esta sección también le ofrece varias opciones para **gestionar los usuarios actuales de** su aplicación.
+En esta sección también dispone de diversas opciones para **gestionar los usuarios actuales** de su aplicación.
 
-Utilice la función de **búsqueda para** encontrar un usuario concreto. Esta función puede ser especialmente útil con un gran número de usuarios de la app.
+Utilice la **función de búsqueda** para encontrar un usuario concreto. Esta función puede resultar especialmente útil si su aplicación tiene un gran número de usuarios.
 
-![Función de búsqueda para usuarios de aplicaciones](images/search-function-app-users.png)
+![Función de búsqueda para usuarios de la aplicación](images/search-function-app-users.png)
 
-Para añadir un usuario a la aplicación, haga clic en **Importar usuario**, busque el usuario en el campo de entrada y asígnele una función.
+Para añadir un usuario a la aplicación, haga clic en **Importar usuarios**, búsquelo en el campo de entrada y, a continuación, asígnele un rol.
 
-![Haga clic en Importar usuario ](images/import-user-to-app.jpg)
+![Haga clic en Importar usuarios](images/import-user-to-app.jpg)
 
-![Importe un usuario a su aplicación](images/import-users-to-app.png)
+![Importación de un usuario a su aplicación](images/import-users-to-app.png)
 
-Haga clic en **Sincronizar usuarios con Base** para recopilar automáticamente los **usuarios de la App** en una tabla de su Base.
+Haga clic en **Sincronizar usuarios con la base** para recopilar automáticamente los **usuarios de la aplicación** en una tabla de su base.
 
-![Haga clic en Sincronizar usuario con base](images/click-sync-users-to-base-1.jpg)  
-![Tabla en la que se recogen automáticamente los usuarios de la app](images/table-with-app-users.png)
+![Haga clic en Sincronizar usuarios con la base](images/click-sync-users-to-base-1.jpg) ![Tabla en la que se recopilan automáticamente los usuarios de la aplicación](images/table-with-app-users.png)
 
-Si en el futuro añades más usuarios de esta forma, siempre puedes volver a hacer clic en **Sincronizar usuarios con Base** para añadir los **nuevos usuarios** a la tabla.
+Si en el futuro añade más usuarios de esta forma, siempre puede volver a hacer clic en **Sincronizar usuarios con la base** para añadir los **nuevos usuarios** a la tabla.
 
-![Si en el futuro añades más usuarios a su aplicación, ...](images/if-you-add-more-users-to-your-app.png)
+![Si en el futuro añade más usuarios a su aplicación, ...](images/if-you-add-more-users-to-your-app.png)
 
-![... siempre puede volver a hacer clic en Sincronizar usuarios con Base para añadir automáticamente los nuevos usuarios a la tabla.](images/added-imported-app-users-to-table.png)
+![... siempre puede volver a hacer clic en Sincronizar usuarios con la base para añadir automáticamente los nuevos usuarios a la tabla.](images/added-imported-app-users-to-table.png)
 
-Para **eliminar** un usuario de la aplicación, basta con hacer clic en el **símbolo X**, que encontrará a la derecha del estado del usuario en cuestión.
+Para **eliminar** un usuario de la aplicación, basta con hacer clic en el **icono X**, que encontrará a la derecha del estado del usuario correspondiente.
 
-![Borrar usuario](images/delete-user.jpg)
+![Eliminar usuario](images/delete-user.jpg)
 
-Haciendo clic en los **iconos de lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}, que encontrará para cada usuario, podrá editar su **función** y su **estado**.
+Haciendo clic en los **iconos de lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} que encontrará para cada usuario, puede editar su **rol** y su **estado**.
 
-{{< warning  headline="Nota importante"  text="Tenga en cuenta que el **usuario** que ha añadido la aplicación a Base se registra automáticamente como **Admin**. Tanto el rol como el estado de este usuario **no pueden** ser editados y el usuario no puede **ser** eliminado de la app." />}}
+{{< warning  headline="Nota importante"  text="Tenga en cuenta que el **usuario** que ha añadido la aplicación a la base se registra automáticamente como **Admin**. **No** es posible editar ni el rol ni el estado de este usuario, y tampoco se le puede eliminar de la aplicación." />}}
 
-![Edición de iconos para cada usuario ](images/edit-icons-users.jpg)
+![Iconos de edición para cada usuario](images/edit-icons-users.jpg)
 
-Para la **función de un usuario,** todas las funciones están disponibles para su selección en el menú desplegable, que puede definir en la siguiente sección de la administración de usuarios y funciones.
+Para el **rol de un usuario**, el menú desplegable le ofrece todos los roles que puede definir en la siguiente sección de la administración de usuarios y roles.
 
-![Seleccionar el rol de un usuario ](images/select-role-of-user.png)
+![Selección del rol de un usuario](images/select-role-of-user.png)
 
-El **estado de** un usuario puede ser **Activo** o **Inactivo**. Mientras que los usuarios **activos** tienen acceso a la app y a su contenido, los **inactivos** pierden este acceso.
+El **estado** de un usuario puede establecerse en **Activo** o **Inactivo**. Mientras que los usuarios **activos** tienen acceso a la aplicación y a su contenido, los usuarios **inactivos** pierden este acceso.
 
-![Editar el estado de un usuario de la aplicación](images/edit-status-of-app-user.png)
+![Edición del estado de un usuario de la aplicación](images/edit-status-of-app-user.png)
 
-Los usuarios que no tengan acceso a su aplicación verán este mensaje:
+Los usuarios que no tienen acceso a su aplicación ven este mensaje:
 
-![Denegación de acceso a la aplicación a los usuarios inactivos ](images/no-permission-for-inactive-users.png)
+![Acceso denegado a la aplicación para usuarios inactivos](images/no-permission-for-inactive-users.png)
 
-### Rodillos
+### Roles
 
-En esta sección puede definir cualquier número de **roles**, que puede asignar a los distintos usuarios de la aplicación en la sección anterior.
+En esta sección puede definir cualquier número de **roles** que podrá asignar a los distintos usuarios de la aplicación en la sección anterior.
 
-![Definición de diferentes roles para los usuarios de la aplicación ](images/define-roles-for-app-users.jpg)
+![Definición de diferentes roles para los usuarios de la aplicación](images/define-roles-for-app-users.jpg)
 
-Aquí inicialmente sólo se definen los **nombres de** los roles. Puedes definir qué **permisos** tienen los usuarios con los diferentes roles individualmente para cada página de la app.
+Aquí solo establece primero los **nombres** de los roles. Qué **permisos** tienen los usuarios con los distintos roles es algo que puede definir individualmente para cada página de la aplicación.
 
 [Obtenga más información sobre los permisos de página aquí.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
@@ -101,26 +94,26 @@ Aquí inicialmente sólo se definen los **nombres de** los roles. Puedes definir
 
 En la tercera sección de la administración de usuarios y roles, puede generar un **enlace de invitación** individual para la aplicación.
 
-En primer lugar, defina la **función de** los usuarios que acceden a la aplicación mediante el enlace de invitación.
+En primer lugar, establezca el **rol** de los usuarios que accederán a la aplicación mediante el enlace de invitación.
 
-![Selección del rol que se otorgará al usuario que utilizará la aplicación mediante el enlace de invitación.](images/select-role-for-invite-link.png)
+![Selección del rol que recibirán los usuarios que accedan a la aplicación mediante el enlace de invitación](images/select-role-for-invite-link.png)
 
-A continuación, tiene la opción de establecer una **contraseña** que deberá introducir tras abrir el enlace de invitación para poder acceder a la aplicación.
+A continuación, tiene la opción de establecer una **contraseña** que se deberá introducir tras abrir el enlace de invitación para obtener acceso a la aplicación.
 
 ![Añadir una contraseña al enlace de invitación](images/add-password-protection.png)
 
-Opcionalmente, también puede añadir un **tiempo de caducidad** automático al enlace de invitación en cuanto a la duración de su validez.
+Opcionalmente, también puede añadir al enlace de invitación un **tiempo de caducidad** automático que determine cuánto tiempo es válido.
 
-![Añadir caducidad automática al enlace de invitación ](images/add-auto-expiration.png)
+![Añadir un tiempo de caducidad automático al enlace de invitación](images/add-auto-expiration.png)
 
-Haga clic en **Generar** para crear el enlace de invitación. El enlace se muestra a continuación y tiene la opción de **copiarlo** o **eliminarlo**.
+Haga clic en **Generar** para crear el enlace de invitación. A continuación, el enlace se mostrará abajo y tendrá la opción de **copiarlo** o **eliminarlo**.
 
-![Enlace de invitación generado con opciones disponibles para copiar y eliminar el enlace de invitación](images/copy-and-delete-link-universal-app.png)
+![Enlace de invitación generado con las opciones disponibles para copiarlo y eliminarlo](images/copy-and-delete-link-universal-app.png)
 
-También tiene la opción de generar un **código QR** para abrir y compartir la aplicación.
+Como alternativa, tiene la opción de generar un **código QR** para abrir y compartir la aplicación.
 
 ![Mostrar el código QR para abrir y compartir la aplicación](images/show-qr-code-universal-app.png)
 
-Escanee el **código QR** mostrado para abrir su aplicación o compártalo con otros usuarios para darles **acceso a** su aplicación.
+Escanee el **código QR** mostrado para abrir su aplicación, o compártalo con otros usuarios para darles **acceso** a su aplicación.
 
 ![Código QR para abrir y compartir la aplicación](images/qr-code-to-share-universal-app.png)

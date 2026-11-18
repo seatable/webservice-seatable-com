@@ -1,7 +1,7 @@
 ---
 title: 'Supprimer des applications'
 date: 2023-05-02
-lastmod: '2024-02-16'
+lastmod: '2026-11-16'
 categories:
     - 'apps'
 author: 'nsc2'
@@ -25,9 +25,9 @@ Vous souhaitez supprimer de votre base une application dont vous n’avez plus b
 
 ![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
 
-4. Passez votre souris sur l’application souhaitée et cliquez sur les **trois points** à droite.
-5. Sélectionnez **Supprimer** .
-6. Confirmez en cliquant sur **Supprimer**.
+3. Passez votre souris sur l’application souhaitée et cliquez sur les **trois points** à droite.
+4. Sélectionnez **Supprimer**.
+5. Confirmez en cliquant sur **Supprimer**.
 
 ![Supprimer une application](images/Delete-an-app.gif)
 
@@ -41,8 +41,4 @@ Vous **ne pouvez pas récupérer** une application supprimée. Si vous n’êtes
 
 Commençons par le plus important : **la suppression d'une application ne fait jamais perdre de données dans la base sous-jacente**. Techniquement, vous ne supprimez donc qu'une interface utilisateur et _non_ la base de données en arrière-plan.
 
-Veuillez noter, cependant, que lorsque vous supprimez une application, toutes les pages et tous les dossiers qui se trouvent dans **l’application** sont également **définitivement supprimés** et ne peuvent pas _être restaurés_.[]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
-
-Lors de la suppression d'une **application de galerie**, _seules_ les **galeries** présentées dans l'application sont supprimées, les **images** restent en revanche conservées dans [les colonnes d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) de vos tableaux.
-
-De même, la suppression d'une **application de consultation de données** ne supprime **aucune donnée**, mais uniquement le **masque de recherche**.
+Veuillez noter, cependant, que lorsque vous supprimez une **application**, toutes les [pages et tous les dossiers]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) qui se trouvent dans l’application sont également **définitivement supprimés** et _ne peuvent pas_ être restaurés.

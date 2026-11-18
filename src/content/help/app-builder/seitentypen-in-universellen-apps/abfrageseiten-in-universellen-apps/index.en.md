@@ -9,6 +9,8 @@ url: '/help/query-pages-seatable-apps'
 aliases:
     - '/help/abfrageseiten-in-universellen-apps'
     - '/help/query-pages-universal-apps'
+    - '/help/data-query-app'
+    - '/help/datenabfrage-app'
 seo:
     title: 'Use query pages in SeaTable Apps'
     description: 'Search and filter large datasets in SeaTable Apps by values: define filters, sorting and query fields for custom results.'

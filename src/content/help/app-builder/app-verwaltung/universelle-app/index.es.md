@@ -1,7 +1,7 @@
 ---
 title: 'Aplicaciones en SeaTable'
 date: 2023-05-04
-lastmod: '2025-02-13'
+lastmod: '2026-11-17'
 categories:
     - 'apps'
 author: 'nsc2'
@@ -9,13 +9,24 @@ url: '/es/ayuda/aplicaciones-seatable'
 aliases:
     - '/es/ayuda/universelle-app'
     - '/es/ayuda/app-universal-seatable'
+    - '/es/ayuda/que-apps-existen'
+    - '/es/ayuda/welche-apps-gibt-es'
 seo:
     title: 'Aplicaciones en SeaTable: funciones y guía'
     description: 'Todo sobre aplicaciones en SeaTable: tipos de página, dashboards, permisos, gestión de usuarios, compartir y consejos de diseño.'
+star: true
 weight: 1
 ---
 
-Al crear una **aplicación**, puede dar rienda suelta a su creatividad. La app dispone de varios [tipos de página]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) una página **individual**, puede crear cuadros de mando con **estadísticas** significativas a partir de sus datos que puede compartir con otros usuarios (externos).
+Las **aplicaciones** en SeaTable son **frontends** o aplicaciones web individuales para grupos de usuarios específicos con distintas necesidades de información (p. ej., empleados, jefes de departamento, directores generales). El **backend** de una aplicación es siempre una [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Puede crear tantas aplicaciones como desee para cada base. Como regla general: una aplicación por grupo de usuarios y caso de uso.
+
+## ¿Cómo funcionan las aplicaciones en SeaTable?
+
+Para crear aplicaciones existe el llamado **App Builder**, en el que puede diseñar distintas interfaces de usuario y realizar una gran cantidad de ajustes. Puede dar rienda suelta a su creatividad y añadir a su aplicación páginas completamente personalizadas basadas en HTML, JavaScript y CSS (con o sin IA). 
+
+Además, el App Builder dispone de una serie de [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}) predefinidos con los que puede presentar sus datos, entre otras formas, como **tablas**, **galerías** o **calendarios** y compartirlos con otros usuarios. También puede crear **formularios** para la introducción de datos y **dashboards** con estadísticas significativas. 
+
+Mediante los **permisos de página** puede controlar de forma detallada quién puede ver las páginas y añadir, editar y eliminar filas. Gracias al acceso público a las aplicaciones, también puede poner sus datos a disposición de **usuarios externos sin cuenta de SeaTable**.
 
 {{< warning  headline="Autorización necesaria en el grupo"  text="Para poder crear, editar, copiar o eliminar una app, debes ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros** de un grupo simple sólo pueden ver y utilizar las apps existentes." />}}
 
@@ -37,9 +48,7 @@ Una aplicación consta de varias **páginas** que se pueden agrupar en **carpeta
 
 [Aprenda a añadir nuevas páginas y carpetas a su aplicación aquí]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Para preparar los datos de su base de forma atractiva, el app builder ofrece una variedad de [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) con distintos elementos de diseño.
-
-![Tipos de página en apps](images/Seitentypen-Universal-App.png)
+Para preparar los datos de su base de forma atractiva, el app builder ofrece una variedad de tipos de página con distintos elementos de diseño.
 
 ## Vista previa de una aplicación
 

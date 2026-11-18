@@ -37,4 +37,4 @@ With the **Universal app**, you can let your creativity run wild. The app has a 
 
 A **data query app** is a user-specific **search form**. Create such an app if you want other users to be able to search your **records** in a table view for specific entries. Select which **column values** to display in the query results to customize which data a user group can access.
 
-[Learn more about the data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}).
+[Learn more about the data query app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}).

@@ -35,4 +35,4 @@ Mit der **Universellen App** können Sie Ihrer Kreativität freien Lauf lassen. 
 
 Eine **Datenabfrage-App** ist eine benutzerspezifische **Suchmaske**. Erstellen Sie eine solche App, wenn Sie wollen, dass andere Nutzer Ihre **Datensätze** in einer Tabellenansicht nach bestimmten Einträgen durchsuchen können. Wählen Sie aus, welche **Spaltenwerte** in den Abfrage-Ergebnissen angezeigt werden sollen, um individuell festzulegen, auf welche Daten eine Nutzergruppe zugreifen darf.
 
-[Erfahren Sie mehr über die Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}).
+[Erfahren Sie mehr über die Datenabfrage-App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}).

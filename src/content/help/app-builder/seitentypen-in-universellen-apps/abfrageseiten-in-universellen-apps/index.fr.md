@@ -9,6 +9,8 @@ url: '/fr/aide/pages-requete-apps-seatable'
 aliases:
     - '/fr/aide/abfrageseiten-in-universellen-apps'
     - '/fr/aide/pages-requete-apps-universelles'
+    - '/fr/aide/application-recherche-donnees'
+    - '/fr/aide/datenabfrage-app'
 seo:
     title: 'Pages de requête dans les apps de SeaTable'
     description: 'Recherchez et filtrez de grands ensembles de données dans les apps de SeaTable : définissez filtres, tris et champs de requête pour des résultats sur mesure.'

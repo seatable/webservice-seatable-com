@@ -21,11 +21,7 @@ seo:
 
 1. Abra la **base** en la que desea copiar una aplicación existente.
 2. Haga clic en **Aplicaciones** en la cabecera Base.
-
-![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
-
-4. Pase el ratón por encima de la aplicación y haga clic en el **icono de copia que** aparece {{< seatable-icon icon="dtable-icon-copy" >}}.
-
-![Copiar aplicaciones](images/Apps-kopieren.png)
-
-6. La copia de la aplicación se abre en modo de edición, donde puedes ajustar directamente la **configuración**.
+   ![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
+3. Pase el ratón por encima de la aplicación y haga clic en el **icono de copia que** aparece {{< seatable-icon icon="dtable-icon-copy" >}}.
+   ![Copiar aplicaciones](images/Apps-kopieren.png)
+4. La copia de la aplicación se abre en modo de edición, donde puede ajustar directamente la **configuración**.

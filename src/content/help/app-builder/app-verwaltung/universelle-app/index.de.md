@@ -1,20 +1,30 @@
 ---
 title: 'Apps in SeaTable'
 date: 2023-05-04
-lastmod: '2025-02-13'
+lastmod: '2026-11-17'
 categories:
     - 'apps'
 author: 'nsc2'
 url: '/de/hilfe/apps-in-seatable'
 aliases:
     - '/de/hilfe/universelle-app'
+    - '/de/hilfe/welche-apps-gibt-es'
 seo:
     title: 'Apps in SeaTable: Funktionen & Anleitung'
     description: 'Alles zu Apps in SeaTable: Seitentypen, Dashboards, Rechte, Nutzerverwaltung, Teilen, Kopieren, Löschen & Tipps zur Gestaltung.'
+star: true
 weight: 1
 ---
 
-Beim Bauen einer **App** können Sie Ihrer Kreativität freien Lauf lassen. Die App verfügt über eine Reihe von [Seitentypen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}), können Sie Dashboards mit aussagekräftigen **Statistiken** aus Ihren Daten erstellen, die Sie mit anderen (externen) Nutzern teilen können.
+**Apps** in SeaTable sind individuelle **Frontends** bzw. Webanwendungen für spezifische Benutzergruppen, die unterschiedliche Informationsbedürfnisse haben (z. B. Mitarbeiter, Abteilungsleiter, Geschäftsführer). Das **Backend** einer App bildet dabei immer eine [Base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Für jede Base können Sie beliebig viele Apps erstellen. Als Faustregel gilt: eine App pro Benutzergruppe und Anwendungsfall.
+
+## Wie funktionieren Apps in SeaTable?
+
+Um Apps zu bauen, gibt es den sogenannten **App Builder**, in dem man verschiedene Benutzeroberflächen anlegen und eine ganze Menge Einstellungen vornehmen kann. Dabei können Sie Ihrer Kreativität freien Lauf lassen und (mit oder ohne KI) komplett individuelle Seiten auf Basis von HTML, JavaScript und CSS zu Ihrer App hinzufügen. 
+
+Der App Builder verfügt außerdem über eine Reihe vorgefertigter [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}), mit denen Sie Ihre Daten unter anderem in Form von **Tabellen**, **Galerien** oder **Kalendern** darstellen und diese mit anderen Nutzern teilen können. Zudem können Sie **Formulare** für die Dateneingabe und **Dashboards** mit aussagekräftigen Statistiken erstellen. 
+
+Über die **Seitenberechtigungen** können Sie granular steuern, wer Seiten sehen, Zeilen hinzufügen, bearbeiten und löschen darf. Durch den offenen Zugang zu Apps können Sie Ihre Daten auch für **externe Nutzer ohne SeaTable Konto** nutzbar machen.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App erstellen, bearbeiten, kopieren oder löschen zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können lediglich bestehende Apps ansehen und nutzen." />}}
 
@@ -36,9 +46,7 @@ Eine App besteht aus mehreren **Seiten**, die Sie in **Ordnern** zusammenfassen 
 
 [Erfahren Sie hier, wie Sie neue Seiten und Ordner zu Ihrer App hinzufügen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Um die Daten in Ihrer Base ansprechend aufzubereiten, bietet die App eine Vielzahl an [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) mit unterschiedlichen Gestaltungselementen.
-
-![Seitentypen SeaTable App](images/Seitentypen-Universal-App.png)
+Um die Daten in Ihrer Base ansprechend aufzubereiten, bietet die App eine Vielzahl an Seitentypen mit unterschiedlichen Gestaltungselementen.
 
 ## Vorschau einer App
 

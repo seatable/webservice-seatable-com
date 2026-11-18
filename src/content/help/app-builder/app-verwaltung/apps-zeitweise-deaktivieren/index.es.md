@@ -22,17 +22,14 @@ Puede suceder que desee **impedir temporalmente el uso de una aplicación** porq
 
 1. Abra la **base** donde desea deshabilitar una aplicación.
 2. Haga clic en **Aplicaciones** en la cabecera Base.
-
-![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
-
-4. Pasa el ratón por encima de la aplicación deseada y haz clic en los **tres puntos de** la derecha.
-5. Seleccione **Pausa** .
-
-![Suspender temporalmente y reactivar aplicaciones](images/Suspend-and-activate-apps.gif)
-
-{{< warning  headline="Reactivar la aplicación"  text="De la misma manera, puede reactivar aplicaciones inactivas en cualquier momento." />}}
+   ![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
+3. Pase el ratón por encima de la aplicación deseada y haga clic en los **tres puntos** de la derecha.
+4. Seleccione **Pausa**.
+   ![Suspender temporalmente y reactivar aplicaciones](images/Suspend-and-activate-apps.gif)
 
 Puede reconocer una aplicación desactivada por la nota **(inactiva)** después del nombre de la aplicación.
+
+{{< warning  headline="Reactivar la aplicación"  text="De la misma manera, puede reactivar aplicaciones inactivas en cualquier momento." />}}
 
 ## Consecuencias de la desactivación
 

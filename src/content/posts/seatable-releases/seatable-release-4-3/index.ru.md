@@ -78,7 +78,7 @@ seo:
 
 ## Важное объявление: Удаление галереи и приложения для запроса данных
 
-В версии 4.4 [приложение галереи]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) и [приложение запроса данных]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) исчезнут, так как их функциональность теперь может быть полностью сопоставлена с соответствующими **типами страниц** в универсальном приложении. Таким образом, Universal App Builder станет единственным вариантом для создания приложений в SeaTable в будущем.
+В версии 4.4 [приложение галереи]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) и [приложение запроса данных]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) исчезнут, так как их функциональность теперь может быть полностью сопоставлена с соответствующими **типами страниц** в универсальном приложении. Таким образом, Universal App Builder станет единственным вариантом для создания приложений в SeaTable в будущем.
 
 Если вы используете два приложения с истекающим сроком действия, мы рекомендуем вам перестроить свои сценарии использования со [страницами галереи]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) и [страницами]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) запросов в App Builder до выхода следующего выпуска. Кстати, теперь вы можете добавлять поля на страницы запросов, которые позволяют пользователям искать определенные значения в **колонках ссылок**.
 

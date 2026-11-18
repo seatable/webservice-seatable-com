@@ -1,7 +1,7 @@
 ---
 title: 'Apps in SeaTable'
 date: 2023-05-04
-lastmod: '2025-02-13'
+lastmod: '2026-11-17'
 categories:
     - 'apps'
 author: 'nsc2'
@@ -9,13 +9,24 @@ url: '/help/apps-in-seatable'
 aliases:
     - '/help/universelle-app'
     - '/help/universal-app'
+    - '/help/which-apps-are-available'
+    - '/help/welche-apps-gibt-es'
 seo:
     title: 'Apps in SeaTable: Features & Guide'
     description: 'Discover SeaTable apps: page types, dashboards, permissions, user & role management, sharing, copying and design tips.'
+star: true
 weight: 1
 ---
 
-When building an **app**, you can let your creativity run wild. The app has a number of [page types]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) a **custom page**, you can create dashboards with meaningful **statistics** from your data that you can share with other (external) users.
+**Apps** in SeaTable are individual **frontends** or web applications for specific user groups with different information needs (e.g. employees, department heads, managing directors). The **backend** of an app is always a [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). You can create as many apps as you like for each base. As a rule of thumb: one app per user group and use case.
+
+## How do apps work in SeaTable?
+
+To build apps, there is the so-called **App Builder**, in which you can create various user interfaces and configure a whole range of settings. You can let your creativity run wild and add completely custom pages based on HTML, JavaScript and CSS to your app (with or without AI). 
+
+The App Builder also offers a number of predefined [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps" >}}) that allow you to display your data as **tables**, **galleries** or **calendars**, among other things, and share it with other users. You can also create **forms** for data entry and **dashboards** with meaningful statistics. 
+
+With **page permissions**, you can control in detail who is allowed to view pages and add, edit and delete rows. Thanks to public access to apps, you can also make your data available to **external users without a SeaTable account**.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to create, edit, copy or delete an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use existing apps." />}}
 
@@ -37,9 +48,7 @@ An app consists of several **pages** that you can group into **folders**.
 
 [Learn how to add new pages and folders to your app here]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-To prepare the data in your base in an appealing way, the app offers a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) with different design elements.
-
-![Page Types app](images/Seitentypen-Universal-App.png)
+To prepare the data in your base in an appealing way, the app offers a variety of page types with different design elements.
 
 ## Preview of an app
 

@@ -22,13 +22,9 @@ As aplicações que já adicionou a uma das suas bases podem ser editadas em qua
 
 1. Abra a **base** na qual pretende editar uma aplicação.
 2. Clique em **Apps** no cabeçalho Base.
-
-![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
-
-4. Passe o rato sobre a aplicação pretendida e clique no **ícone de lápis que** aparece {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-![Editar aplicações](images/Apps-bearbeiten.png)
-
-6. O aplicativo selecionado abre no modo de edição, onde você pode fazer determinadas **configurações** .
+   ![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
+3. Passe o rato sobre a aplicação pretendida e clique no **ícone de lápis que** aparece {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Editar aplicações](images/Apps-bearbeiten.png)
+4. A aplicação selecionada abre-se no modo de edição.
 
 {{< warning  headline="Nota importante"  text="Para poder editar as suas aplicações, tem de as abrir sempre no **modo de edição**. **Só** é possível aceder a este modo da forma descrita. Se clicar simplesmente no **nome da** sua aplicação, abrirá a sua aplicação na **pré-visualização** e, por conseguinte, **não** poderá editá-la." />}}

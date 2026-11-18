@@ -18,10 +18,12 @@ Für jede [App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}
 
 1. Öffnen Sie eine **Base**, in der Sie eine bestehende App bearbeiten möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
-   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
-   ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Klicken Sie auf das **Palette-Symbol** am oberen linken Seitenrand.
-
-![Palette-Symbol für Design-Einstellungen einer App](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png) 8. Nehmen Sie die gewünschten Anpassungen an den **visuellen Einstellungen (Modus, Farbe und Icon)** der App vor.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Apps bearbeiten](images/Apps-bearbeiten.png)
+4. Klicken Sie auf das **Palette-Symbol** am oberen linken Seitenrand.
+   ![Palette-Symbol für Design-Einstellungen einer App](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+5. Nehmen Sie die gewünschten Anpassungen an den **visuellen Einstellungen (Modus, Farbe und Icon)** der App vor.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App bearbeiten zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können die Apps lediglich ansehen und nutzen." />}}
 
@@ -41,6 +43,6 @@ Die bisher genannten Einstellungen betreffen eine **gesamte App**. Wenn Sie die 
 
 ![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)
 
-Aktuell bietet vor allem die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) zahlreiche weitere Design-Einstellungen. Beispielsweise können Sie bei den Elementen verschiedene Farben für Hintergründe, Schriften, Linien und Rahmen festlegen. Nutzen Sie dafür den praktischen **Color Picker**.
+Aktuell bietet vor allem die [Dashboard-Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) zahlreiche weitere Design-Einstellungen. Beispielsweise können Sie bei den Elementen verschiedene Farben für Hintergründe, Schriften, Linien und Rahmen festlegen. Nutzen Sie dafür den praktischen **Color Picker**.
 
 ![Color Picker in der App](images/Color-Picker-in-der-Universellen-App.png)

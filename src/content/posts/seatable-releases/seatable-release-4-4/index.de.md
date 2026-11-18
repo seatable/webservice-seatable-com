@@ -55,7 +55,7 @@ Wie in den letzten Release Notes angekündigt, haben wir in SeaTable 4.4 den **G
 
 ![Create app dialog](Create-app-dialog-.png)
 
-Auch bei der [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) hat sich einiges getan. Der alte App Builder für Datenabfragen wurde entfernt und durch einen neuen auf Basis des Universal App Builders ersetzt. Das heißt: Sie können natürlich weiterhin öffentliche Apps für die Abfrage Ihrer Bases anlegen, das Interface sieht nun aber aus wie im Universal App Builder. Für bestehende Abfrage-Apps gilt das Gleiche wie für Galerie-Apps: Sie müssen nichts tun und können diese weiter verwenden.
+Auch bei der [Datenabfrage-App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) hat sich einiges getan. Der alte App Builder für Datenabfragen wurde entfernt und durch einen neuen auf Basis des Universal App Builders ersetzt. Das heißt: Sie können natürlich weiterhin öffentliche Apps für die Abfrage Ihrer Bases anlegen, das Interface sieht nun aber aus wie im Universal App Builder. Für bestehende Abfrage-Apps gilt das Gleiche wie für Galerie-Apps: Sie müssen nichts tun und können diese weiter verwenden.
 
 {{< warning headline="Effizienzgewinn" text="Durch die beschriebenen Änderungen können wir uns auf die Weiterentwicklung des Universal App Builders fokussieren und damit eine höhere Entwicklungsgeschwindigkeit für kommende Features erreichen." />}}
 
