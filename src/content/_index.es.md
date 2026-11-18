@@ -122,8 +122,6 @@ sections:
   - headline: "Interfaz intuitiva No-code y Low-code"
     text: 'Ya sea un desarrollador experimentado o un [citizen developer]({{< relref "posts/20250317-citizen-developer" >}}) sin experiencia técnica, nuestras herramientas están diseñadas para digitalizar sus procesos de negocio. Comience hoy mismo: cree su propia aplicación de forma gratuita.'
 
-  - headline: "Trabajo colaborativo en tiempo real"
-    text: "SeaTable fomenta la colaboración mediante la sincronización en tiempo real y espacios de trabajo compartidos. Todo el equipo puede acceder a los mismos datos simultáneamente, realizar cambios y visualizar el progreso de los demás.<br/><br/>Esto convierte a SeaTable en la herramienta ideal para equipos que buscan aumentar su productividad. Nuestra plataforma también admite funciones de comentarios y uso compartido para optimizar el trabajo en equipo."
   image: /images/Group-38.png
   image_alt: 'Constructor de aplicaciones SeaTable con edición colaborativa en tiempo real'
 

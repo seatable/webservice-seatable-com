@@ -124,8 +124,6 @@ sections:
   - headline: "Intuitive no-code and low-code user interface"
     text: 'Whether you are an experienced developer or a [citizen developer]({{< relref "posts/20250317-citizen-developer" >}}) with no programming skills, our tools are designed to meet all your app building needs and digitize your business processes. Start right here: create your own app for free.'
 
-  - headline: "Collaborative working in real time for teams"
-    text: "SeaTable promotes collaboration in your team through real-time synchronization and shared workspaces. Everyone in the team can access the same data at the same time, make changes and see what others are working on.<br/><br/>This makes SeaTable an ideal tool for teams who want to work together on projects and increase their productivity. Our no-code/low-code platform also supports collaborative work through commenting and sharing features, helping you to optimize your teamwork."
   image: /images/Group-38.png
   image_alt: 'SeaTable app builder with real-time collaborative editing'
 
