@@ -1,7 +1,7 @@
 ---
 title: 'Instructions pour le plugin de cours en ligne'
 date: 2026-10-07
-lastmod: '2026-10-07'
+lastmod: '2026-11-18'
 categories:
     - 'plugins'
 author: 'bha'
@@ -42,7 +42,7 @@ Une fois à l'aise, choisissez dans la même liste le cours que vous suivez, et 
 
 ## Cours pris en charge
 
-Le plugin est déployé cours par cours. Le [cours en ligne 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) et le [cours en ligne 4 – Automatisation et intégration (en anglais)]({{< relref path="help/online-courses/online-kurs-4/level-vier-einfuehrung" lang="en" >}}) sont entièrement pris en charge aujourd'hui, et d'autres cours suivront. Un cours que le plugin ne vérifie pas encore s'ouvre tout de même, avec un court message qui vous le signale et vous invite à le suivre sur le site en attendant.
+Le plugin est déployé cours par cours. Le [cours en ligne 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) est entièrement pris en charge aujourd'hui, et d'autres cours suivront. Un cours que le plugin ne vérifie pas encore s'ouvre tout de même, avec un court message qui vous le signale et vous invite à le suivre sur le site en attendant.
 
 ## Autres articles utiles
 

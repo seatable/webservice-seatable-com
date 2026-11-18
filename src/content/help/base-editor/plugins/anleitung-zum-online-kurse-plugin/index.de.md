@@ -1,7 +1,7 @@
 ---
 title: 'Anleitung zum Online-Kurse-Plugin'
 date: 2026-10-07
-lastmod: '2026-10-07'
+lastmod: '2026-11-18'
 categories:
     - 'plugins'
 author: 'bha'
@@ -40,7 +40,7 @@ Sobald Sie mit dem Plugin vertraut sind, wählen Sie in derselben Liste den Kurs
 
 ## Unterstützte Kurse
 
-Das Plugin wird Kurs für Kurs eingeführt. [Online-Kurs 3 – Zusammenarbeit]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) und [Online-Kurs 4 – Automatisierung & Integration (auf Englisch)]({{< relref path="help/online-courses/online-kurs-4/level-vier-einfuehrung" lang="en" >}}) werden bereits vollständig unterstützt, weitere Kurse folgen. Ein Kurs, den das Plugin noch nicht prüft, lässt sich trotzdem öffnen: Ein kurzer Hinweis sagt Ihnen das und empfiehlt, den Kurs bis dahin auf der Website zu bearbeiten.
+Das Plugin wird Kurs für Kurs eingeführt. [Online-Kurs 3 – Zusammenarbeit]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) wird bereits vollständig unterstützt, weitere Kurse folgen. Ein Kurs, den das Plugin noch nicht prüft, lässt sich trotzdem öffnen: Ein kurzer Hinweis sagt Ihnen das und empfiehlt, den Kurs bis dahin auf der Website zu bearbeiten.
 
 ## Weitere hilfreiche Artikel
 

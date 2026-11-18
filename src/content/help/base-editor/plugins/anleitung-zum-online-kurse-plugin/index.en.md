@@ -1,7 +1,7 @@
 ---
 title: 'Instructions for the online courses plugin'
 date: 2026-08-03
-lastmod: '2026-10-06'
+lastmod: '2026-11-18'
 categories:
     - 'plugins'
 author: 'bha'
@@ -42,7 +42,7 @@ Once you are familiar with the companion, select the course you are working on f
 
 ## Which courses are supported
 
-The plugin is being rolled out course by course. [Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) and [Online Course 4 – Automation & Integration]({{< relref "help/online-courses/online-kurs-4/level-vier-einfuehrung" >}}) are fully supported today, and more courses are being added. A course the plugin does not check yet still opens with a short note telling you so and pointing you to follow it on the website in the meantime.
+The plugin is being rolled out course by course. [Online Course 3 – Collaboration]({{< relref "help/online-courses/online-kurs-3/level-drei-einfuehrung" >}}) is fully supported today, and more courses are being added. A course the plugin does not check yet still opens with a short note telling you so and pointing you to follow it on the website in the meantime.
 
 ## Other helpful articles
 
