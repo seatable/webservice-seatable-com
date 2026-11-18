@@ -1,7 +1,7 @@
 ---
 title: 'Todos los plugins de un vistazo'
 date: 2023-05-03
-lastmod: '2024-08-01'
+lastmod: '2026-11-18'
 categories:
     - 'plugins'
 author: 'vge'
@@ -27,23 +27,53 @@ Un **plugin** es un componente de software opcional en SeaTable que le ofrece fu
 
 Lea más sobre [cómo activar un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en el artículo de ayuda enlazado.
 
-## Plugin de mapas
+## {{< plugin-icon src="images/plugin-icon-tree.png" alt="Icono del plugin Árbol" >}} Plugin Árbol {#tree-plugin}
 
-**Las ubicaciones** pueden visualizarse en un mapa con el plugin de mapas. Puede visualizar la información geográfica introducida con marcadores de posición o imágenes. El plugin de mapas puede manejar **coordenadas GPS**, así como **direcciones**. Sin embargo, las direcciones deben ser únicas para poder mostrarse.
+El plugin Árbol muestra los **registros vinculados de forma jerárquica**, en hasta tres niveles. Mientras que el plugin de relaciones entre tablas le muestra cómo están conectadas sus tablas, el plugin Árbol le muestra los **propios registros** en esa estructura: departamentos con sus centros de coste y sus gastos, o versiones con sus pruebas y los errores que ha detectado cada prueba. Así obtiene una visión general compacta de grandes cantidades de datos repartidos en varias tablas vinculadas.
 
-![Plugin de mapas con marcadores de ubicación en un mapa](images/Map.png)
+![Plugin Árbol mostrando los registros de tres tablas vinculadas en tres niveles](images/tree-plugin.png)
 
-[Más información sobre el plugin de mapas]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
+[Más información sobre el plugin Árbol]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}})
 
-## Plugin de deduplicación de datos
+## {{< plugin-icon src="images/plugin-icon-ai-chat.png" alt="Icono del plugin de chat de IA" >}} Plugin de chat de IA {#ai-chat-plugin}
+
+El plugin más reciente de SeaTable está absolutamente a la vanguardia. Le permite configurar un **chat de IA** con su modelo de lenguaje preferido. Así puede editar y analizar sus bases en lenguaje natural, p. ej. crear registros, cambiar valores, vincular filas o crear análisis.
+
+![Configurar el plugin de chat de IA en SeaTable](images/ai-chat-plugin.png)
+
+[Más información sobre el plugin de chat de IA]({{< relref "help/ai/ai-chat/introduction" >}})
+
+## {{< plugin-icon src="images/plugin-icon-sql-query.png" alt="Icono del plugin de consulta SQL" >}} Plugin de consulta SQL {#sql-query-plugin}
+
+El complemento de consulta SQL está perfectamente adaptado para la **ejecución** directa **de comandos SQL**, por lo que resulta especialmente interesante para los profesionales de bases de datos que trabajan con grandes cantidades de datos.
+
+![Plugin de consultas SQL con lista de resultados de una consulta SELECT](images/results-data-sql-query.png)
+
+[Más información sobre el plugin de consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-online-courses.png" alt="Icono del plugin de cursos en línea" >}} Plugin de cursos en línea {#online-courses-plugin}
+
+A diferencia de los demás plugins, este no le ofrece una nueva forma de ver sus datos, sino que lo **acompaña en su aprendizaje**. Lo guía por los ejercicios prácticos de los [cursos en línea]({{< relref "help/online-courses" >}}) de SeaTable y **comprueba su trabajo directamente en su propia base**: siguiendo un curso, crea una automatización, escribe un script corto o configura una vista, y después deja que el plugin compruebe que el resultado esperado está realmente ahí. También puede **guiarle fase por fase mientras realiza una operación** y preparar su base para un ejercicio: hace más que mirar el resultado. Así, los cursos se convierten en una experiencia guiada e interactiva dentro de SeaTable.
+
+![El plugin de cursos en línea guiando un ejercicio debajo de una base](images/online-courses-plugin.png)
+
+[Más información sobre el plugin de cursos en línea]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-deduplication.png" alt="Icono del plugin de deduplicación de datos" >}} Plugin de deduplicación de datos {#data-deduplication-plugin}
 
 El plugin de deduplicación de datos descubre **entradas duplicadas** en una tabla. Esto es especialmente útil con grandes cantidades de datos para detectar duplicados y eliminarlos. Puede eliminar todas las entradas duplicadas con un solo clic.
 
 ![Plugin de desduplicación de datos con lista de entradas duplicadas](images/deduplication-plugin.jpg)
 
-[Más información sobre el plugin de duplicación de datos]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
+[Más información sobre el plugin de deduplicación de datos]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
-## Plugin de diseño de páginas
+## {{< plugin-icon src="images/plugin-icon-report-design.png" alt="Icono del plugin de diseño de informes" >}} Plugin de diseño de informes {#report-design-plugin}
+
+Con este plugin puede crear **informes de varias páginas** en los que tablas, diagramas y campos se alimentan dinámicamente con datos de su base. Es similar al plugin de diseño de páginas en que también crea **documentos PDF basados en plantillas con diseño**. Sin embargo, los elementos estáticos y dinámicos no se posicionan con precisión de píxel en la plantilla, sino que se colocan uno debajo del otro de forma continua, como en un **procesador de textos** (p. ej. Microsoft Word o Google Docs).
+
+![El plugin de diseño de informes](images/report-design-plugin-example.png)
+
+## {{< plugin-icon src="images/plugin-icon-page-design.png" alt="Icono del plugin de diseño de páginas" >}} Plugin de diseño de páginas {#page-design-plugin}
 
 Con ayuda del plugin de diseño de páginas, puede maquetar **documentos** como cartas-formulario, tarjetas de visita y certificados y rellenarlos con los datos de su tabla. Más concretamente, puede crear maquetaciones con **elementos estáticos** que se complementan e individualizan con **elementos dinámicos** y **campos de tabla**. Éstos le ofrecen la gran ventaja de que, en función del registro de datos, insertan toda la información relacionada (por ejemplo, el nombre, la dirección y el cargo de una persona) en plantillas estandarizadas sin que usted tenga que copiar manualmente los datos en los documentos. De este modo, puede crear facturas, certificados u otros documentos importantes listos para imprimir a partir de los datos almacenados con sólo unos clics.
 
@@ -51,23 +81,15 @@ Con ayuda del plugin de diseño de páginas, puede maquetar **documentos** como 
 
 [Más información sobre el plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
-## Complemento de consulta SQL
+## {{< plugin-icon src="images/plugin-icon-map.png" alt="Icono del plugin de mapas" >}} Plugin de mapas {#map-plugin}
 
-El complemento de consulta SQL está perfectamente adaptado para la **ejecución** directa **de comandos SQL**, por lo que resulta especialmente interesante para los profesionales de bases de datos que trabajan con grandes cantidades de datos.
+**Las ubicaciones** pueden visualizarse en un mapa con el plugin de mapas. Puede visualizar la información geográfica introducida con marcadores de posición o imágenes. El plugin de mapas puede manejar **coordenadas GPS**, así como **direcciones**. Sin embargo, las direcciones deben ser únicas para poder mostrarse.
 
-![Plugin de consultas SQL con lista de resultados de una consulta SELECT](images/results-data-sql-query.png)
+![Plugin de mapas con marcadores de ubicación en un mapa](images/Map.png)
 
-[Más información sobre el complemento de consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
+[Más información sobre el plugin de mapas]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
-## Plugin de pizarra blanca
-
-El plugin de pizarra blanca le da la libertad de visualizar gráficamente procesos y estructuras que no puede mostrar con los plugins anteriores. También puede **esbozar libremente** diseños y maquetas. Para el diseño, dispone de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.
-
-![Plugin de pizarra con formas, flechas y elementos dibujados libremente](images/Whiteboard-Plugin.png)
-
-[Más información sobre el plugin de la pizarra]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
-
-## Plugin de organigrama
+## {{< plugin-icon src="images/plugin-icon-org-chart.png" alt="Icono del plugin de organigrama" >}} Plugin de organigrama {#organizational-chart-plugin}
 
 Puede utilizar el plugin de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las tareas superordinadas y subordinadas en un proyecto.
 
@@ -75,27 +97,21 @@ Puede utilizar el plugin de organigrama para mostrar **jerarquías** entre los r
 
 [Más información sobre el plugin de organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
-## Plugin de relaciones entre tablas
+## {{< plugin-icon src="images/plugin-icon-whiteboard.png" alt="Icono del plugin de pizarra blanca" >}} Plugin de pizarra blanca {#whiteboard-plugin}
+
+El plugin de pizarra blanca le da la libertad de visualizar gráficamente procesos y estructuras que no puede mostrar con los plugins anteriores. También puede **esbozar libremente** diseños y maquetas. Para el diseño, dispone de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.
+
+![Plugin de pizarra con formas, flechas y elementos dibujados libremente](images/Whiteboard-Plugin.png)
+
+[Más información sobre el plugin de la pizarra]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-table-relationship.png" alt="Icono del plugin de relaciones entre tablas" >}} Plugin de relaciones entre tablas {#table-relationships-plugin}
 
 Especialmente cuando hay muchas tablas con docenas de columnas en una base, es fácil perder la pista de cómo se relacionan entre sí. Puede utilizar el plugin de relaciones entre tablas para visualizar **qué tablas están vinculadas entre sí a través de qué columnas**.
 
 ![Plugin de relaciones entre tablas con líneas entre tablas vinculadas](images/table-relationship-plugin.png)
 
 [Más información sobre el plugin de relaciones entre tablas]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
-
-## Plugin de diseño de informes
-
-Con este plugin puede crear **informes de varias páginas** en los que tablas, diagramas y campos se alimentan dinámicamente con datos de su base. Es similar al plugin de diseño de páginas en que también crea **documentos PDF basados en plantillas con diseño**. Sin embargo, los elementos estáticos y dinámicos no se posicionan con precisión de píxel en la plantilla, sino que se colocan uno debajo del otro de forma continua, como en un **procesador de textos** (p. ej. Microsoft Word o Google Docs).
-
-![El plugin de diseño de informes](images/report-design-plugin-example.png)
-
-## Plugin de chat de IA
-
-El plugin más reciente de SeaTable está absolutamente a la vanguardia. Le permite configurar un **chat de IA** con su modelo de lenguaje preferido. Así puede editar y analizar sus bases en lenguaje natural, p. ej. crear registros, cambiar valores, vincular filas o crear análisis.
-
-![Configurar el plugin de chat de IA en SeaTable](images/ai-chat-plugin.png)
-
-[Más información sobre el plugin de chat de IA]({{< relref "help/ai/ai-chat/introduction" >}})
 
 ## Otros artículos útiles
 

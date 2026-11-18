@@ -1,7 +1,7 @@
 ---
 title: 'Aperçu de tous les plugins'
 date: 2023-05-03
-lastmod: '2024-08-01'
+lastmod: '2026-11-18'
 categories:
     - 'plugins'
 author: 'vge'
@@ -27,7 +27,15 @@ Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des
 
 Pour en savoir plus sur [l'activation d'un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), consultez l'article d'aide en lien.
 
-## Plugin de cartographie
+## {{< plugin-icon src="images/plugin-icon-tree.png" alt="Icône du plugin Arbre" >}} Plugin Arbre {#tree-plugin}
+
+Le plugin Arbre affiche les **enregistrements liés de façon hiérarchique**, sur trois niveaux au maximum. Là où le plugin de relations entre tableaux vous montre comment vos tableaux sont reliés, le plugin Arbre vous montre les **enregistrements eux-mêmes** dans cette structure : des services avec leurs centres de coûts et leurs dépenses, ou des versions avec leurs tests et les anomalies que chaque test a révélées. Vous obtenez ainsi une vue d'ensemble compacte de grandes quantités de données réparties sur plusieurs tableaux liés.
+
+![Plugin Arbre affichant les enregistrements de trois tableaux liés sur trois niveaux](images/tree-plugin.png)
+
+[En savoir plus sur le plugin Arbre]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-map.png" alt="Icône du plugin de cartographie" >}} Plugin de cartographie {#map-plugin}
 
 **Les sites** peuvent être représentés sur une carte à l'aide du plugin de carte. Vous pouvez visualiser les informations géographiques saisies à l'aide de marqueurs de position ou d'images. Le plugin de carte s'occupe aussi bien des **coordonnées GPS** que des **adresses**. Les adresses doivent toutefois être uniques pour pouvoir être affichées.
 
@@ -35,15 +43,15 @@ Pour en savoir plus sur [l'activation d'un plugin]({{< relref "help/base-editor/
 
 [En savoir plus sur le plugin de carte]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
-## Plugin de déduplication de données
+## {{< plugin-icon src="images/plugin-icon-ai-chat.png" alt="Icône du plugin de chat IA" >}} Plugin de chat IA {#ai-chat-plugin}
 
-Le plugin de déduplication des données détecte les **entrées en double** dans un tableau. Cela est particulièrement utile pour les grandes quantités de données afin de détecter les doublons et de les supprimer. Vous pouvez supprimer toutes les entrées en double en un seul clic.
+Le plugin le plus récent de SeaTable est absolument dans l'air du temps. Il vous permet de configurer un **chat IA** avec votre modèle de langage préféré. Vous pouvez ainsi éditer et analyser vos bases en langage naturel, par exemple créer des enregistrements, modifier des valeurs, lier des lignes ou créer des analyses.
 
-![Plugin de déduplication de données avec liste des entrées dupliquées](images/deduplication-plugin.jpg)
+![Configurer le plugin de chat IA dans SeaTable](images/ai-chat-plugin.png)
 
-[En savoir plus sur le plugin de duplication de données]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
+[En savoir plus sur le plugin de chat IA]({{< relref "help/ai/ai-chat/introduction" >}})
 
-## Plugin de conception de pages
+## {{< plugin-icon src="images/plugin-icon-page-design.png" alt="Icône du plugin de conception de pages" >}} Plugin de conception de pages {#page-design-plugin}
 
 À l'aide du plugin de conception de pages, vous pouvez mettre en page **des documents** tels que des lettres en série, des cartes de visite et des certificats et les remplir avec les données de votre tableau. Plus précisément, vous pouvez construire des mises en page avec des **éléments statiques** qui sont complétés et personnalisés par des **éléments dynamiques** et **des champs de tableau**. Ces derniers vous offrent le grand avantage d'insérer, en fonction de l'enregistrement, toutes les informations associées (par exemple le nom, l'adresse et le titre du poste d'une personne) dans des modèles standardisés, sans que vous ayez à copier manuellement des données dans les documents. Vous créez ainsi en quelques clics des factures, des certificats ou d'autres documents importants prêts à être imprimés à partir des données enregistrées.
 
@@ -51,23 +59,29 @@ Le plugin de déduplication des données détecte les **entrées en double** dan
 
 [En savoir plus sur le plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
-## Plugin de requête SQL
+## {{< plugin-icon src="images/plugin-icon-report-design.png" alt="Icône du plugin de conception de rapports" >}} Plugin de conception de rapports {#report-design-plugin}
 
-Le plugin de requête SQL est parfaitement adapté à l'**exécution** directe **de commandes SQL** et est donc particulièrement intéressant pour les professionnels des bases de données qui travaillent avec de grandes quantités de données.
+Avec ce plugin, vous pouvez créer des **rapports de plusieurs pages** dans lesquels des tableaux, des diagrammes et des champs sont alimentés dynamiquement avec des données de votre base. Il ressemble au plugin de conception de pages dans le sens où il crée également des **documents PDF sur la base de modèles mis en page**. Cependant, les éléments statiques et dynamiques ne sont pas positionnés au pixel près sur le modèle, mais placés les uns en dessous des autres de manière continue, comme dans un **traitement de texte** (par ex. Microsoft Word ou Google Docs).
 
-![Plugin de requêtes SQL avec liste de résultats d'une requête SELECT](images/results-data-sql-query.png)
+![Le plugin de conception de rapports](images/report-design-plugin-example.png)
 
-[En savoir plus sur le plugin de requête SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
+## {{< plugin-icon src="images/plugin-icon-online-courses.png" alt="Icône du plugin de cours en ligne" >}} Plugin de cours en ligne {#online-courses-plugin}
 
-## Plugin de tableau blanc
+Contrairement aux autres plugins, celui-ci ne vous offre pas une nouvelle façon de voir vos données : il vous **accompagne dans votre apprentissage**. Il vous guide dans les exercices pratiques des [cours en ligne]({{< relref "help/online-courses" >}}) de SeaTable et **vérifie votre travail directement dans votre propre base** : en suivant un cours, vous créez une automatisation, écrivez un court script ou configurez une vue, puis le plugin contrôle que le résultat attendu est bien là. Il peut aussi **vous guider pas à pas pendant que vous réalisez une opération** et préparer votre base pour un exercice : il ne se contente pas de regarder le résultat. Les cours deviennent ainsi une expérience guidée et interactive, directement dans SeaTable.
 
-Le plugin Whiteboard vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plugins précédents. De même, vous pouvez **esquisser librement** des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
+![Le plugin de cours en ligne guidant un exercice sous une base](images/online-courses-plugin.png)
 
-![Plugin de tableau blanc avec formes, flèches et éléments esquissés](images/Whiteboard-Plugin.png)
+[En savoir plus sur le plugin de cours en ligne]({{< relref "help/base-editor/plugins/anleitung-zum-online-kurse-plugin" >}})
 
-[En savoir plus sur le plugin Whiteboard]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
+## {{< plugin-icon src="images/plugin-icon-deduplication.png" alt="Icône du plugin de déduplication de données" >}} Plugin de déduplication de données {#data-deduplication-plugin}
 
-## Plugin d'organigramme
+Le plugin de déduplication des données détecte les **entrées en double** dans un tableau. Cela est particulièrement utile pour les grandes quantités de données afin de détecter les doublons et de les supprimer. Vous pouvez supprimer toutes les entrées en double en un seul clic.
+
+![Plugin de déduplication de données avec liste des entrées dupliquées](images/deduplication-plugin.jpg)
+
+[En savoir plus sur le plugin de déduplication de données]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-org-chart.png" alt="Icône du plugin d'organigramme" >}} Plugin d'organigramme {#organizational-chart-plugin}
 
 Le plugin Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les tâches supérieures et inférieures dans un projet.
 
@@ -75,27 +89,29 @@ Le plugin Organigramme permet de représenter **les hiérarchies** entre les enr
 
 [En savoir plus sur le plugin d'organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
-## Plugin de relations entre les tableaux
+## {{< plugin-icon src="images/plugin-icon-table-relationship.png" alt="Icône du plugin de relations entre tableaux" >}} Plugin de relations entre tableaux {#table-relationships-plugin}
 
 Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent dans une base, on perd rapidement la vue d'ensemble de la manière dont ils sont reliés entre eux. Le plugin Relations entre les tableaux permet de voir **quels tableaux sont reliés entre eux et par quelles colonnes**.
 
 ![Plugin de relations de tables avec lignes entre tables liées](images/table-relationship-plugin.png)
 
-[En savoir plus sur le plugin de relations entre les tableaux]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
+[En savoir plus sur le plugin de relations entre tableaux]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
-## Plugin de conception de rapports
+## {{< plugin-icon src="images/plugin-icon-sql-query.png" alt="Icône du plugin de requête SQL" >}} Plugin de requête SQL {#sql-query-plugin}
 
-Avec ce plugin, vous pouvez créer des **rapports de plusieurs pages** dans lesquels des tableaux, des diagrammes et des champs sont alimentés dynamiquement avec des données de votre base. Il ressemble au plugin de conception de pages dans le sens où il crée également des **documents PDF sur la base de modèles mis en page**. Cependant, les éléments statiques et dynamiques ne sont pas positionnés au pixel près sur le modèle, mais placés les uns en dessous des autres de manière continue, comme dans un **traitement de texte** (par ex. Microsoft Word ou Google Docs).
+Le plugin de requête SQL est parfaitement adapté à l'**exécution** directe **de commandes SQL** et est donc particulièrement intéressant pour les professionnels des bases de données qui travaillent avec de grandes quantités de données.
 
-![Le plugin de conception de rapports](images/report-design-plugin-example.png)
+![Plugin de requêtes SQL avec liste de résultats d'une requête SELECT](images/results-data-sql-query.png)
 
-## Plugin de chat IA
+[En savoir plus sur le plugin de requête SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
-Le plugin le plus récent de SeaTable est absolument dans l'air du temps. Il vous permet de configurer un **chat IA** avec votre modèle de langage préféré. Vous pouvez ainsi éditer et analyser vos bases en langage naturel, par exemple créer des enregistrements, modifier des valeurs, lier des lignes ou créer des analyses.
+## {{< plugin-icon src="images/plugin-icon-whiteboard.png" alt="Icône du plugin de tableau blanc" >}} Plugin de tableau blanc {#whiteboard-plugin}
 
-![Configurer le plugin de chat IA dans SeaTable](images/ai-chat-plugin.png)
+Le plugin Whiteboard vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plugins précédents. De même, vous pouvez **esquisser librement** des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
 
-[En savoir plus sur le plugin de chat IA]({{< relref "help/ai/ai-chat/introduction" >}})
+![Plugin de tableau blanc avec formes, flèches et éléments esquissés](images/Whiteboard-Plugin.png)
+
+[En savoir plus sur le plugin Whiteboard]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Autres articles utiles
 
