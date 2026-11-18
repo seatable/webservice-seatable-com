@@ -69,7 +69,7 @@ Toutes les fonctions présentées dans cette section s'appliquent de la même ma
 Si vous souhaitez pouvoir saisir des **données supplémentaires** pour chaque option de sélection, vous devriez envisager d'utiliser une [colonne de liaison]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) plutôt qu'une colonne de sélection unique. Pour ce faire, créez la sélection unique comme première colonne dans un tableau séparé. Vous pouvez ainsi saisir des enregistrements complets pour toutes les options, que vous pouvez associer à autant de lignes que vous le souhaitez dans des tableaux liés.
 {{< /warning >}}
 
-## Exporter et importer des options
+## Exporter et importer des options {#export-and-import-options}
 
 Vous pouvez non seulement **saisir les options manuellement**, mais aussi **exporter** facilement d'une colonne existante et **importer** dans une autre colonne. Cela vous épargne beaucoup de travail si vous voulez utiliser les mêmes options – même sur différentes bases – pour plusieurs **colonnes de sélection unique** et **multiple**.
 

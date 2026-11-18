@@ -43,7 +43,7 @@ A marcação de notificações como lidas pode ser útil, por exemplo, se tiver 
 
 ![Marcar todas as notificações como lidas](images/mark-all-notifications-as-read.jpg)
 
-## Acesso às notificações
+## Acesso às notificações {#access-to-the-notifications}
 
 Pode aceder às notificações tanto a partir da página **inicial do** SeaTable como de dentro de **Bases**, e consequentemente marcar as notificações como lidas ou apagá-las de ambas as maneiras. Para o fazer, basta clicar na **campainha** {{< seatable-icon icon="dtable-icon-notice" >}} no canto superior direito da página.
 

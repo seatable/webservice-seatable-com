@@ -39,7 +39,7 @@ Benachrichtigungen als gelesen zu markieren kann beispielsweise dann sinnvoll se
 4. Wählen Sie **Alle als gelesen markieren**.
    ![Alle Benachrichtigungen als gelesen markieren](images/mark-all-notifications-as-read.jpg)
 
-## Zugriff auf die Benachrichtigungen
+## Zugriff auf die Benachrichtigungen {#access-to-the-notifications}
 
 Sie können sowohl über die **Startseite** von SeaTable als auch innerhalb von **Bases** auf die Benachrichtigungen zugreifen und folglich auf beiden Wegen Ihre Benachrichtigungen als gelesen markieren bzw. löschen. Klicken Sie hierzu einfach auf die **Glocke** {{< seatable-icon icon="dtable-icon-notice" >}} am oberen rechten Seitenrand.
 

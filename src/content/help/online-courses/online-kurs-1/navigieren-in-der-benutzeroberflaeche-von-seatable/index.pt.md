@@ -19,7 +19,7 @@ Comecemos por saber como se orientar no SeaTable. O SeaTable é uma solução We
 
 Abra o seu browser, aceda à página de início de sessão do SeaTable e inicie sessão com os seus dados de acesso. A página inicial deve ser semelhante a esta:
 
-![Elementos da página inicial do SeaTable](images/elements_seatable_homepage.png)
+{{< zoom image="images/elements_seatable_homepage.png" alt="Elementos da página inicial do SeaTable" >}}
 
 ## A página inicial
 
@@ -39,7 +39,7 @@ Agora, abra uma das suas bases clicando numa das suas bases com o rato. Se ainda
 
 Inicialmente, só verá três células vazias na sua base, por isso não se confunda quando explicarmos os vários elementos utilizando um exemplo de base preenchida.
 
-![Elementos da Base da SeaTable](images/elements_seatable_base.png)
+{{< zoom image="images/elements_seatable_base.png" alt="Elementos da Base da SeaTable" >}}
 
 Ufa, a primeira visão de uma base pode ser bastante assustadora. Há tantos botões e opções de interação à espera de serem utilizados. Vamos dar uma vista de olhos aos vários elementos em pormenor.
 

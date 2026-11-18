@@ -17,7 +17,7 @@ Lassen Sie uns damit beginnen, wie Sie sich in SeaTable zurechtfinden. SeaTable 
 
 Öffnen Sie also Ihren Browser, rufen Sie die Login-Seite von SeaTable auf und melden Sie sich mit Ihren Zugangsdaten an. Die Startseite sollte ungefähr so aussehen:
 
-![Elemente der SeaTable Startseite](images/elements_seatable_homepage.png)
+{{< zoom image="images/elements_seatable_homepage.png" alt="Elemente der SeaTable Startseite" >}}
 
 ## Die Startseite
 
@@ -37,7 +37,7 @@ Eine Base ist eine Datenbank. Eine Base besteht aus einer oder mehreren Tabellen
 
 In Ihrer Base werden Sie erstmal nur drei leere Zellen sehen, lassen Sie sich also nicht verwirren, wenn wir die verschiedenen Elemente anhand einer gefüllten Beispielbase erklären.
 
-![Elemente der SeaTable Base](images/elements_seatable_base.png)
+{{< zoom image="images/elements_seatable_base.png" alt="Elemente der SeaTable Base" >}}
 
 Puh, der erste Anblick einer Base kann ganz schön beängstigend sein. Soviel Schaltflächen und Interaktionsmöglichkeiten warten darauf, genutzt zu werden. Lassen Sie uns die verschiedenen Elemente im Detail ansehen.
 

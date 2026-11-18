@@ -9,6 +9,7 @@ error:
 
 article:
     table_of_contents: 'Table of Contents'
+    zoom_hint: 'Click to enlarge'
     written_by: 'By'
     about_author: 'About the author'
     author_profile: 'Profile'

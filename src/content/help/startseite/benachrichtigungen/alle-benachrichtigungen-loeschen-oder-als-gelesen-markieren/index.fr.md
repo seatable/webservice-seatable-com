@@ -43,7 +43,7 @@ Marquer les notifications comme lues peut être utile, par exemple, lorsque vous
 
 ![Marquer toutes les notifications comme lues](images/mark-all-notifications-as-read.jpg)
 
-## Accès aux notifications
+## Accès aux notifications {#access-to-the-notifications}
 
 Vous pouvez accéder aux notifications depuis la **page d'accueil** de SeaTable ou depuis **Bases**, et donc marquer vos notifications comme lues ou les supprimer de l'une ou l'autre manière. Pour cela, il suffit de cliquer sur la **cloche** {{< seatable-icon icon="dtable-icon-notice" >}} en haut à droite de la page.
 

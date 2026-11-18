@@ -9,6 +9,7 @@ error:
 
 article:
     table_of_contents: 'Table des matières'
+    zoom_hint: 'Cliquer pour agrandir'
     written_by: 'Par'
     about_author: 'À propos de l''auteur'
     author_profile: 'Profil'

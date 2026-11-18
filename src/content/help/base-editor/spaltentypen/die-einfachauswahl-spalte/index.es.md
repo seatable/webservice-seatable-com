@@ -69,7 +69,7 @@ Todas las funciones presentadas en esta sección se aplican del mismo modo a la 
 Si desea poder almacenar **datos adicionales** para cada opción de selección, debería considerar el uso de una [columna de enlace]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) en lugar de una columna de selección única. Para ello, cree la selección única como primera columna en una tabla adicional. Esto le permitirá introducir registros de datos completos para todas las opciones, que podrá asignar a cualquier número de filas en las tablas vinculadas.
 {{< /warning >}}
 
-## Exportación e importación de opciones
+## Exportación e importación de opciones {#export-and-import-options}
 
 No sólo puede **añadir manualmente** las opciones, sino también **exportarlas** cómodamente desde una columna existente e **importarlas** a otra columna. Esto le ahorrará mucho trabajo si desea utilizar las mismas opciones –incluso en bases diferentes– para varias **columnas de selección única** y **columnas de selección múltiple**.
 
