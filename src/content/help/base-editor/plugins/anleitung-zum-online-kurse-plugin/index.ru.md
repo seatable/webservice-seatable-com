@@ -17,7 +17,7 @@ seo:
 
 О том, как активировать плагин в базе, вы можете узнать [здесь]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-![Плагин онлайн-курсов, открытый под базой: слева список шагов, справа текущее задание с кнопкой Verify](images/online-courses-plugin.png)
+{{< zoom image="images/online-courses-plugin.png" alt="Плагин онлайн-курсов, открытый под базой: слева список шагов, справа текущее задание с кнопкой Verify" >}}
 
 ## Плагин и курсы
 
