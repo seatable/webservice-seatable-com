@@ -27,6 +27,9 @@ Actuellement, ce type de page s'adresse aux **utilisateurs ayant une expérience
 
 {{< /warning >}}
 
+**Regardez notre vidéo explicative sous-titrée en français.**
+{{< youtube pPdRwUx_Io8 >}}
+
 ## Comment créer une page HTML
 
 1. Ouvrez une application en **mode d'édition**. Pour ce faire, passez la souris sur l'application et cliquez sur l'**icône en forme de crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.

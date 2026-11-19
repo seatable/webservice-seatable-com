@@ -27,6 +27,8 @@ At present, this page type is aimed at **users with programming experience**. Th
 
 {{< /warning >}}
 
+{{< youtube pPdRwUx_Io8 >}}
+
 ## How to create an HTML page
 
 1. Open an app in **editing mode**. To do so, hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.

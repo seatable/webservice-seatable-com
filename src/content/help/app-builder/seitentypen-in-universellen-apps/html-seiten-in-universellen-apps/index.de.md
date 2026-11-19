@@ -27,6 +27,8 @@ Aktuell richtet sich der Seitentyp an **Benutzer mit Programmiererfahrung**. Der
 
 {{< /warning >}}
 
+{{< youtube yRe7N06quIE >}}
+
 ## Wie Sie eine HTML-Seite anlegen
 
 1. Öffnen Sie eine App im **Bearbeitungsmodus**. Fahren Sie dazu mit dem Mauszeiger über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.

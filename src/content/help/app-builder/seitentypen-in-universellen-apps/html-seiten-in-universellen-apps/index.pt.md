@@ -27,6 +27,9 @@ Atualmente, este tipo de página destina-se a **utilizadores com experiência de
 
 {{< /warning >}}
 
+**Veja o nosso vídeo explicativo com legendas em português.**
+{{< youtube pPdRwUx_Io8 >}}
+
 ## Como criar uma página HTML
 
 1. Abra uma aplicação no **modo de edição**. Para tal, coloque o cursor do rato sobre a aplicação e clique no **ícone de lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
