@@ -18,7 +18,7 @@ sections:
       text: 'La falta de personal, los presupuestos ajustados y los datos dispersos suponen un gran reto para los municipios, mientras la ciudadanía espera trámites cada vez más rápidos. Las soluciones digitales y los **datos conectados** permiten destinar los recursos municipales allí donde se necesitan. Con el sistema de gestión para smart cities de SeaTable y su panel ciudadano integrado, dispone de **una plataforma de datos urbanos moderna y conforme al RGPD**: reúne mediciones, responsabilidades y avisos ciudadanos en una base de datos no-code central. Sin largos proyectos de TI ni costes de mantenimiento adicionales.'
       classes:
           - bg-white
-      template: '69b453b7e66f435abe0b'
+      template: '1ca3389d903f4fb19fe5'
       buttons:
           - label: Regístrese gratis y utilice la plantilla
             link_to_template: true

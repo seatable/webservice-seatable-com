@@ -21,7 +21,7 @@ sections:
       text: 'Limited staff, tight budgets and scattered data put municipalities under pressure, while residents expect ever faster services. Digital solutions and **connected data** help you deploy municipal resources exactly where they are needed. With SeaTable’s smart city management system and its integrated citizen dashboard, you use **a modern, GDPR-compliant urban data platform**: measurement data, responsibilities and citizen reports come together in one central no-code database. From IoT sensor data to damage reports, everything stays fully traceable. No lengthy IT projects, no additional maintenance costs.'
       classes:
           - bg-white
-      template: '69b453b7e66f435abe0b'
+      template: '1ca3389d903f4fb19fe5'
       buttons:
           - label: Register for free and use the template
             link_to_template: true

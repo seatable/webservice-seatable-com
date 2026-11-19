@@ -18,7 +18,7 @@ sections:
       text: 'Begrenztes Personal, knappe Haushalte und dezentrale Daten stellen Kommunen vor große Herausforderungen. Hinzu kommen steigende Erwartungen der Einwohner nach schnellen Verfahren. Digitale Lösungen und **vernetzte Daten** ermöglichen einen gezielten Einsatz Ihrer kommunalen Ressourcen. Mit dem digitalen Innenstadt-Managementsystem mit integriertem Bürgercockpit von SeaTable nutzen Sie **eine moderne, DSGVO-konforme urbane Datenplattform**: Sie bündeln Messdaten, Zuständigkeiten und Bürgermeldungen in einer zentralen No-Code-Datenbank. Ohne langwierige IT-Projekte oder zusätzliche Maintenance-Kosten.'
       classes:
           - bg-white
-      template: '69b453b7e66f435abe0b'
+      template: '1ca3389d903f4fb19fe5'
       buttons:
           - label: Jetzt kostenlos registrieren und Vorlage nutzen
             link_to_template: true
