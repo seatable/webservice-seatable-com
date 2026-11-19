@@ -18,7 +18,7 @@ sections:
       text: 'Effectifs limités, budgets serrés et données dispersées : les communes font face à de grands défis, tandis que les habitants attendent des démarches toujours plus rapides. Les solutions numériques et les **données connectées** permettent d’affecter les ressources communales là où elles comptent. Avec le système de gestion smart city de SeaTable et son tableau de bord citoyen intégré, vous disposez d’**une plateforme de données urbaines moderne et conforme au RGPD** : mesures, responsabilités et signalements citoyens sont réunis dans une base de données no-code centrale. Sans longs projets informatiques ni coûts de maintenance supplémentaires.'
       classes:
           - bg-white
-      template: '69b453b7e66f435abe0b'
+      template: '1ca3389d903f4fb19fe5'
       buttons:
           - label: Inscrivez-vous gratuitement et utilisez le modèle
             link_to_template: true
