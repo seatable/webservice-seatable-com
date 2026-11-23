@@ -26,7 +26,6 @@ registration:
     submit: "S'inscrire maintenant"
     send: "Envoi de l'inscription en cours..."
     success: 'Inscription réussie. Vérifiez votre boîte mail.'
-    error: "Une erreur s'est produite.<br>Veuillez réessayer dans une minute."
     unconfirmed: "Votre inscription n'a pas pu être confirmée.<br>Veuillez vérifier votre boîte de réception avant de réessayer."
 
 contact:
@@ -86,11 +85,16 @@ contact:
     error: "Une erreur s'est produite."
     unconfirmed: "L'envoi n'a pas pu être confirmé.<br>Votre message nous est très probablement parvenu malgré tout."
 
+form_error:
+    email_rejected: "Cette adresse e-mail n'a pas été acceptée. Veuillez utiliser une autre adresse ou contacter notre support."
+    rejected: "Votre demande n'a pas été acceptée. Veuillez vérifier vos informations, en particulier l'adresse e-mail."
+    rate_limited: "Trop de demandes. Veuillez réessayer plus tard."
+    temporary: "Un problème temporaire est survenu. Veuillez réessayer dans quelques minutes ou contacter notre support."
+
 newsletter:
     submit: "S'abonner"
     send: "L'abonnement est en cours d'envoi..."
     success: 'Abonnement réussi. Vérifiez votre boîte de réception.'
-    error: "Une erreur s'est produite."
     unconfirmed: "Votre abonnement n'a pas pu être confirmé.<br>Veuillez vérifier votre boîte de réception avant de réessayer."
 
 support_table:
