@@ -59,6 +59,8 @@ sections:
       - stat: "downloads"
       - stat: "daily_users"
       - review: "capterra"
+      - review: "omr"
+      badges: true
       buttons:
         - link: "categories/customer-story"
           label: "SeaTable en action : témoignages clients"

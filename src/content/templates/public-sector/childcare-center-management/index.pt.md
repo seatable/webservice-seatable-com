@@ -58,6 +58,8 @@ sections:
       - stat: "downloads"
       - stat: "daily_users"
       - review: "capterra"
+      - review: "omr"
+      badges: true
       buttons:
         - link: "categories/customer-story"
           label: "O SeaTable em ação: casos de sucesso"

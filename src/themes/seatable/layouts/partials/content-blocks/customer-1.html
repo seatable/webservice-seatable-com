@@ -12,12 +12,7 @@
   # or a custom figure: number: "42", text: "..."
   - review: "capterra" # key from data/trust.yaml
   - review: "omr"
-  badges: # optional
-  - review: "omr" # badge from data/trust.yaml
-  - flag: "de" # or icon: "shield-halved"
-    ribbon: "Hosting"
-    lines: ["in Deutschland", "Frankfurt", "& München"]
-    link: "pages/legal/security"
+  badges: true # optional, from data/trust.yaml
   buttons:
   - link: "customer-story"
     label:</code></pre>
@@ -78,9 +73,9 @@
             </div>
         {{ end }}
 
-        {{ with .badges }}
+        {{ if .badges }}
             <div class="mt-20 grid grid-cols-2 items-center gap-x-6 gap-y-12 lg:flex lg:justify-center lg:gap-x-12">
-                {{ range . }}
+                {{ range site.Data.trust.badges }}
                     {{ if .review }}
                         {{ with (index site.Data.trust.reviews .review).badge }}
                             <a class="block" href="{{ .url }}" target="_blank" rel="nofollow noopener">
@@ -93,7 +88,11 @@
                             {{ errorf "Page %s does not exist!" .link }}
                         {{ else }}
                             <a class="block text-center no-underline" href="{{ $link.RelPermalink }}">
-                                {{ partial "content-blocks/helpers/badge.html" . }}
+                                {{ $text := index .text site.Language.Lang }}
+                                {{ if not $text }}
+                                    {{ errorf "Badge in data/trust.yaml has no text for language %q!" site.Language.Lang }}
+                                {{ end }}
+                                {{ partial "content-blocks/helpers/badge.html" (dict "icon" .icon "flag" .flag "ribbon" $text.ribbon "lines" $text.lines) }}
                             </a>
                         {{ end }}
                     {{ end }}
