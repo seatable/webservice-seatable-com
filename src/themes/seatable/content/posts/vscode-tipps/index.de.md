@@ -2,7 +2,7 @@
 title: 'VS Code Tipps'
 description: 'Tipps und Tricks für den VS Code Profi'
 draft: true
-date: 2026-03-03
+date: 2026-11-22
 url: '/de/vscode-tipps'
 color: '#085b79'
 register:
