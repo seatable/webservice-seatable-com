@@ -14,7 +14,7 @@
 
     <div x-data="newsletterForm()">
         <form @submit.prevent="submitForm" method="POST">
-            <div class="mt-12 flex gap-x-4">
+            <div class="mt-12 flex flex-col gap-4 md:flex-row">
                 <!-- Honeypot -->
                 <label class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" for="name"></label>
                 <input class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" autocomplete="off" type="text" name="name" placeholder="Your name here" x-model="name" />
