@@ -96,10 +96,8 @@ sections:
   subtitle: "Кто использует SeaTable?"
   marquee_rows: 2
   items: 
-  - number: "100.000+"
-    text: Загрузок на Docker Hub за первый год
-  - number: "2.000+"
-    text: "Ежедневных пользователей в SeaTable Cloud"
+  - stat: "downloads"
+  - stat: "daily_users"
   - review: "capterra"
   buttons:
     - link: "categories/customer-story"

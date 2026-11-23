@@ -269,3 +269,6 @@ sitemap:
 review_count:
     one: "{{ .Count }} reseña"
     other: "{{ .Count }} reseñas"
+
+stat_downloads: "Descargas en el primer año en Docker Hub"
+stat_daily_users: "Usuarios diarios en SeaTable Cloud"

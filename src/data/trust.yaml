@@ -1,0 +1,22 @@
+# All key figures shown in content block customer-1. Change them only here.
+# Labels of the stats: i18n keys stat_<key>. Number format depends on the language.
+stats:
+    downloads: 100000
+    daily_users: 2000
+
+# Ratings on review platforms. Check once per quarter: rating, count (optional) and the badge.
+reviews:
+    capterra:
+        name: "Capterra"
+        rating: 4.6
+        count: 31
+        url: "https://www.capterra.com/p/207565/SeaTable/"
+    omr:
+        name: "OMR Reviews"
+        rating: 4.5
+        count: 31
+        url: "https://omr.com/de/reviews/product/seatable?utm_source=widget&utm_medium=vendor"
+        badge:
+            image: "/images/badges/omr-top-rated.svg"
+            alt: "OMR Reviews Top Rated: No-Code Development Platform, Q4/26"
+            url: "https://omr.com/de/reviews/product/seatable?utm_source=badge&utm_medium=vendor"

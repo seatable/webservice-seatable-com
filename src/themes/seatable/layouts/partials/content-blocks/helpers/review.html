@@ -1,7 +1,7 @@
-{{/* Rating of a review platform, data from data/reviews.yaml. Expects "key" (e.g. "omr") and "numberSize" (CSS classes). */}}
-{{ $review := index site.Data.reviews .key }}
+{{/* Rating of a review platform, data from data/trust.yaml. Expects "key" (e.g. "omr") and "numberSize" (CSS classes). */}}
+{{ $review := index site.Data.trust.reviews .key }}
 {{ if not $review }}
-    {{ errorf "Review platform %q does not exist in data/reviews.yaml!" .key }}
+    {{ errorf "Review platform %q does not exist in data/trust.yaml!" .key }}
 {{ else }}
     {{ $rating := lang.FormatNumber 1 $review.rating }}
     {{ $percent := mul (div (float $review.rating) 5) 100 }}

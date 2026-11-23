@@ -7,14 +7,13 @@
   subtitle: "Wer nutzt SeaTable?"
   marquee_rows: 1
   items: 
-  - number: "100.000+"
-    text: Downloads im ersten Jahr von Docker Hub
-  - number: "2.000+"
-    text: "Tägliche Nutzer auf SeaTable Cloud"
-  - review: "capterra" # key from data/reviews.yaml
+  - stat: "downloads" # key from data/trust.yaml
+  - stat: "daily_users"
+  # or a custom figure: number: "42", text: "..."
+  - review: "capterra" # key from data/trust.yaml
   - review: "omr"
   badges: # optional
-  - review: "omr" # badge from data/reviews.yaml
+  - review: "omr" # badge from data/trust.yaml
   - flag: "de" # or icon: "shield-halved"
     ribbon: "Hosting"
     lines: ["in Deutschland", "Frankfurt", "& München"]
@@ -60,6 +59,15 @@
                 {{ range .items }}
                     {{ if .review }}
                         {{ partial "content-blocks/helpers/review.html" (dict "key" .review "numberSize" $numberSize) }}
+                    {{ else if .stat }}
+                        {{ $value := index site.Data.trust.stats .stat }}
+                        {{ if not $value }}
+                            {{ errorf "Stat %q does not exist in data/trust.yaml!" .stat }}
+                        {{ end }}
+                        <div class="text-center">
+                            <p class="gradient font-poppins {{ $numberSize }} font-bold">{{ lang.FormatNumber 0 $value }}+</p>
+                            <p class="mt-4 text-xl">{{ i18n (printf "stat_%s" .stat) }}</p>
+                        </div>
                     {{ else }}
                         <div class="text-center">
                             <p class="gradient font-poppins {{ $numberSize }} font-bold">{{ .number }}</p>
@@ -74,7 +82,7 @@
             <div class="mt-20 grid grid-cols-2 items-center gap-x-6 gap-y-12 lg:flex lg:justify-center lg:gap-x-12">
                 {{ range . }}
                     {{ if .review }}
-                        {{ with (index site.Data.reviews .review).badge }}
+                        {{ with (index site.Data.trust.reviews .review).badge }}
                             <a class="block" href="{{ .url }}" target="_blank" rel="nofollow noopener">
                                 <img class="mx-auto w-[130px]" src="{{ .image }}" alt="{{ .alt }}" width="130" height="132" loading="lazy" />
                             </a>
