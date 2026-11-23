@@ -11,8 +11,14 @@
     text: Downloads im ersten Jahr von Docker Hub
   - number: "2.000+"
     text: "Tägliche Nutzer auf SeaTable Cloud"
-  - number: "4.6"
-    text: "Bewertung auf Capterra"
+  - review: "capterra" # key from data/reviews.yaml
+  - review: "omr"
+  badges: # optional
+  - review: "omr" # badge from data/reviews.yaml
+  - flag: "de" # or icon: "shield-halved"
+    ribbon: "Hosting"
+    lines: ["in Deutschland", "Frankfurt", "& München"]
+    link: "pages/legal/security"
   buttons:
   - link: "customer-story"
     label:</code></pre>
@@ -47,14 +53,42 @@
         </div>
 
         {{ if .items }}
+            {{ $numberSize := cond (eq (len .items) 4) "text-3xl md:text-4xl" "text-4xl" }}
             {{ $totalItems := len .items }}
             <!-- <span class="grid-cols-3 grid-cols-4 grid-cols-2 grid-cols-1 hidden"></span> to load the classes... -->
-            <div class="md:grid-cols-{{ $totalItems }} mt-8 grid grid-cols-1 gap-16">
+            <div class="mt-8 grid {{ if eq $totalItems 4 }}grid-cols-2 gap-x-6 gap-y-12 lg:grid-cols-4{{ else }}md:grid-cols-{{ $totalItems }} grid-cols-1 gap-16{{ end }}">
                 {{ range .items }}
-                    <div class="text-center">
-                        <p class="gradient font-poppins text-4xl font-bold">{{ .number }}</p>
-                        <p class="mt-4 text-xl">{{ .text }}</p>
-                    </div>
+                    {{ if .review }}
+                        {{ partial "content-blocks/helpers/review.html" (dict "key" .review "numberSize" $numberSize) }}
+                    {{ else }}
+                        <div class="text-center">
+                            <p class="gradient font-poppins {{ $numberSize }} font-bold">{{ .number }}</p>
+                            <p class="mt-4 text-xl">{{ .text }}</p>
+                        </div>
+                    {{ end }}
+                {{ end }}
+            </div>
+        {{ end }}
+
+        {{ with .badges }}
+            <div class="mt-20 grid grid-cols-2 items-center gap-x-6 gap-y-12 lg:flex lg:justify-center lg:gap-x-12">
+                {{ range . }}
+                    {{ if .review }}
+                        {{ with (index site.Data.reviews .review).badge }}
+                            <a class="block" href="{{ .url }}" target="_blank" rel="nofollow noopener">
+                                <img class="mx-auto w-[130px]" src="{{ .image }}" alt="{{ .alt }}" width="130" height="132" loading="lazy" />
+                            </a>
+                        {{ end }}
+                    {{ else }}
+                        {{ $link := page.GetPage .link }}
+                        {{ if not $link }}
+                            {{ errorf "Page %s does not exist!" .link }}
+                        {{ else }}
+                            <a class="block text-center no-underline" href="{{ $link.RelPermalink }}">
+                                {{ partial "content-blocks/helpers/badge.html" . }}
+                            </a>
+                        {{ end }}
+                    {{ end }}
                 {{ end }}
             </div>
         {{ end }}

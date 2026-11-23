@@ -1,0 +1,16 @@
+# Ratings on review platforms, shown e.g. in content block customer-1.
+# Check once per quarter: rating, count (optional) and the badge.
+capterra:
+    name: "Capterra"
+    rating: 4.6
+    count: 31
+    url: "https://www.capterra.com/p/207565/SeaTable/"
+omr:
+    name: "OMR Reviews"
+    rating: 4.5
+    count: 31
+    url: "https://omr.com/de/reviews/product/seatable?utm_source=widget&utm_medium=vendor"
+    badge:
+        image: "/images/badges/omr-top-rated.svg"
+        alt: "OMR Reviews Top Rated: No-Code Development Platform, Q4/26"
+        url: "https://omr.com/de/reviews/product/seatable?utm_source=badge&utm_medium=vendor"

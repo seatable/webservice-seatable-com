@@ -100,8 +100,7 @@ sections:
     text: Загрузок на Docker Hub за первый год
   - number: "2.000+"
     text: "Ежедневных пользователей в SeaTable Cloud"
-  - number: "4.6"
-    text: "Рейтинг на Capterra"
+  - review: "capterra"
   buttons:
     - link: "categories/customer-story"
       label: "Читать истории успеха"

@@ -93,8 +93,22 @@ sections:
     text: Downloads im ersten Jahr von Docker Hub
   - number: "2.000+"
     text: "Tägliche Nutzer auf SeaTable Cloud"
-  - number: "4.6"
-    text: "Bewertung auf Capterra"
+  - review: "capterra"
+  - review: "omr"
+  badges:
+  - review: "omr"
+  - flag: "de"
+    ribbon: "Hosting"
+    lines: ["in Deutschland", "SeaTable Cloud", "Exoscale"]
+    link: "pages/legal/security"
+  - icon: "shield-halved"
+    ribbon: "ISO 27001"
+    lines: ["Zertifizierte", "Rechenzentren", "Exoscale"]
+    link: "pages/legal/security"
+  - icon: "file-shield"
+    ribbon: "Pentest"
+    lines: ["SeaTable Server", "SRC Security", "2024"]
+    link: "posts/20250129-pentest"
   buttons:
     - link: "categories/customer-story"
       label: "Lesen Sie weitere Erfolgsgeschichten"

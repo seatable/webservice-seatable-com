@@ -265,3 +265,7 @@ sitemap:
     col_priority: 'Prioridade'
     col_lastmod: 'Última modificação'
     all: 'Tudo'
+
+review_count:
+    one: "{{ .Count }} avaliação"
+    other: "{{ .Count }} avaliações"

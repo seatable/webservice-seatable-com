@@ -265,3 +265,9 @@ sitemap:
     col_priority: 'Приоритет'
     col_lastmod: 'Изменено'
     all: 'Все'
+
+review_count:
+    one: "{{ .Count }} отзыв"
+    few: "{{ .Count }} отзыва"
+    many: "{{ .Count }} отзывов"
+    other: "{{ .Count }} отзыва"

@@ -100,8 +100,7 @@ sections:
     text: Downloads no primeiro ano no Docker Hub
   - number: "2.000+"
     text: "Usuários diários na SeaTable Cloud"
-  - number: "4.6"
-    text: "Avaliação no Capterra"
+  - review: "capterra"
   buttons:
     - link: "categories/customer-story"
       label: "Leia mais casos de sucesso"

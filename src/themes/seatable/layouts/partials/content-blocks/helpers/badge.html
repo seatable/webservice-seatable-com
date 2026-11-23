@@ -1,0 +1,29 @@
+{{/* Own SeaTable badge as inline SVG. Expects: ribbon, lines (max. 3), and icon or flag: "de". */}}
+{{ $id := printf "badge-%s" (md5 (jsonify .) | truncate 8 "") }}
+<svg class="mx-auto w-[130px]" viewBox="0 0 200 204" role="img" aria-label="{{ .ribbon }}: {{ delimit .lines " " }}">
+    <defs>
+        <linearGradient id="{{ $id }}" x1="0" x2="1">
+            <stop offset="0" stop-color="#EE3234" />
+            <stop offset="1" stop-color="#FF8000" />
+        </linearGradient>
+    </defs>
+    <path d="M100 5 C126 20 152 27 181 28 L181 104 C181 150 150 182 100 199 C50 182 19 150 19 104 L19 28 C48 27 74 20 100 5 Z" fill="#fff" stroke="url(#{{ $id }})" stroke-width="7" stroke-linejoin="round" />
+    {{ if eq .flag "de" }}
+        <g>
+            <rect x="78" y="30" width="44" height="10" fill="#000" />
+            <rect x="78" y="40" width="44" height="10" fill="#DD0000" />
+            <rect x="78" y="50" width="44" height="10" fill="#FFCC00" />
+        </g>
+    {{ else }}
+        {{ with resources.Get (printf "icons/%s.svg" .icon) }}
+            <svg x="82" y="27" width="36" height="36" font-size="36" fill="#021940" color="#021940">{{ .Content | safeHTML }}</svg>
+        {{ else }}
+            {{ errorf "Badge icon %q does not exist!" .icon }}
+        {{ end }}
+    {{ end }}
+    <rect x="1" y="72" width="198" height="38" rx="5" fill="url(#{{ $id }})" />
+    <text x="100" y="99" text-anchor="middle" font-family="Poppins, sans-serif" font-weight="700" font-size="23" fill="#fff">{{ upper .ribbon }}</text>
+    {{ range $i, $line := .lines }}
+        <text x="100" y="{{ add 131 (mul $i 18) }}" text-anchor="middle" font-family="Poppins, sans-serif" font-weight="{{ if eq $i 2 }}400{{ else }}700{{ end }}" font-size="{{ if eq $i 2 }}12{{ else }}14{{ end }}" fill="#021940">{{ $line }}</text>
+    {{ end }}
+</svg>
