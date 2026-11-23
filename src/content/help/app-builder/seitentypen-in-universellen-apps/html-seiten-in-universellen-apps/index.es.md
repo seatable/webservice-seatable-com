@@ -1,7 +1,7 @@
 ---
 title: 'Páginas HTML en aplicaciones de SeaTable'
 date: 2026-08-11
-lastmod: '2026-08-11'
+lastmod: '2026-11-20'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
@@ -21,9 +21,9 @@ Los demás [tipos de página de una aplicación]({{< relref "help/app-builder/se
 
 Las páginas HTML pueden mostrar **contenidos estáticos**, pero desarrollan todo su potencial en combinación con los **datos de una base**. Al igual que los demás tipos de página del App Builder, pueden recuperar datos de una base y modificar registros en una base. En el **diseño de la interfaz de usuario** no existen prácticamente limitaciones. Todo lo que se pueda realizar con HTML, CSS y JavaScript también lo puede integrar en su aplicación como página HTML.
 
-{{< warning headline="Todavía no es un enfoque no-code" >}}
+{{< warning headline="No es un enfoque no-code" >}}
 
-Actualmente, este tipo de página está dirigido a **usuarios con experiencia en programación**. Todo el código de la página debe crearse fuera de SeaTable y, a continuación, cargarse en la aplicación como un paquete. No obstante, ya se está desarrollando una función de IA con la que en el futuro podrá crear páginas HTML en lenguaje natural y sin conocimientos de programación.
+Tenga en cuenta que este tipo de página está dirigido a **usuarios con experiencia en programación**. Todo el código de la página debe crearse fuera de SeaTable y, a continuación, cargarse en la aplicación como un paquete. Si no tiene conocimientos de programación, es preferible que cree una **página generada con IA**, con la que una IA puede generar páginas HTML a partir de sus indicaciones en lenguaje natural.
 
 {{< /warning >}}
 

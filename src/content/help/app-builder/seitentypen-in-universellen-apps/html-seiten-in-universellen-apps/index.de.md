@@ -1,7 +1,7 @@
 ---
 title: 'HTML-Seiten in SeaTable Apps'
 date: 2026-08-11
-lastmod: '2026-08-11'
+lastmod: '2026-11-20'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
@@ -21,9 +21,9 @@ Die anderen [App-Seitentypen]({{< relref "help/app-builder/seitentypen-in-univer
 
 HTML-Seiten können **statische Inhalte** anzeigen, ihr wahres Potenzial entfalten sie jedoch in Verbindung mit den **Daten einer Base**. Genauso wie andere Seitentypen des App Builders können sie Daten aus einer Base abrufen und Datensätze in einer Base ändern. Bei der **Gestaltung der Benutzeroberfläche** gibt es nahezu keine Einschränkungen. Was sich mit HTML, CSS und JavaScript umsetzen lässt, können Sie auch als HTML-Seite in Ihre App einbauen.
 
-{{< warning headline="Noch kein No-Code-Ansatz" >}}
+{{< warning headline="Kein No-Code-Ansatz" >}}
 
-Aktuell richtet sich der Seitentyp an **Benutzer mit Programmiererfahrung**. Der gesamte Code der Seite muss außerhalb von SeaTable erstellt und dann gebündelt in die App hochgeladen werden. Eine KI-Funktion, mit der Sie HTML-Seiten künftig auch in natürlicher Sprache und ohne Programmierkenntnisse erstellen können, ist jedoch bereits in Entwicklung.
+Beachten Sie, dass sich dieser Seitentyp an **Benutzer mit Programmiererfahrung** richtet. Der gesamte Code der Seite muss außerhalb von SeaTable erstellt und dann gebündelt in die App hochgeladen werden. Wenn Sie keine Programmierkenntnisse besitzen, erstellen Sie lieber eine **KI-generierte Seite**, mit der Sie HTML-Seiten auch in natürlicher Sprache von einer KI erzeugen lassen können.
 
 {{< /warning >}}
 
