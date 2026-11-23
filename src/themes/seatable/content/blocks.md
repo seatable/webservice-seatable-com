@@ -555,4 +555,11 @@ sections:
       - bg-gray-100   # optional
       - curved
 
+  - name: newsletter
+    weight: 49
+    subtitle: Immer auf dem Laufenden
+    title: Abonnieren Sie unseren Newsletter
+    text: 'Erhalten Sie **Produktneuigkeiten**, Tipps und Vorlagen direkt in Ihr Postfach.'
+    submit: Jetzt abonnieren
+
 ---

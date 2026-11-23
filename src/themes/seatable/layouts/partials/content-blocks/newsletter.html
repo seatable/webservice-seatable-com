@@ -1,0 +1,65 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: (optional)
+  subtitle: (optional)
+  text: (optional, Markdown)
+  placeholder: (optional)
+  submit: (optional)
+  classes: (optional, default:)
+  - curved
+  - bg-seatable-blue</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $defaultClasses := slice "curved" "bg-seatable-blue" }}
+{{ $classes := .classes | default $defaultClasses }}
+{{ $emailId := printf "newsletter-email-%v" (.weight | default 0) }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            {{ with .subtitle }}
+                <p class="gradient font-poppins text-2xl font-bold">{{ . | markdownify }}</p>
+            {{ end }}
+            <h2 class="mt-1 text-4xl font-bold text-white">{{ .title | default (T "newsletter-subscribe.title") | markdownify }}</h2>
+            <p class="mt-8 text-lg leading-normal text-white">{{ .text | default (T "newsletter-subscribe.inner") | markdownify }}</p>
+        </div>
+
+        <!-- Logic in newsletterForm() in baseof.html -->
+        <form class="mx-auto mt-12 max-w-[800px]" x-data="newsletterForm()" @submit.prevent="submitForm" method="POST">
+            <div class="flex flex-col gap-4 md:flex-row">
+                <!-- Honeypot -->
+                <label class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" aria-hidden="true">
+                    <input class="h-0 w-0" autocomplete="off" tabindex="-1" type="text" name="name" placeholder="Your name here" x-model="name" />
+                </label>
+                <!-- Webform -->
+                <label for="{{ $emailId }}" class="sr-only">{{ .placeholder | default (T "registration.email_placeholder") }}</label>
+                <input
+                    id="{{ $emailId }}"
+                    type="email"
+                    name="email"
+                    required
+                    placeholder="{{ .placeholder | default (T "registration.email_placeholder") }}"
+                    x-model="email"
+                    @input="validateEmail"
+                    autocomplete="email"
+                    class="block w-full rounded-md bg-gray-50 px-3.5 py-4 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-gray-600" />
+                <button
+                    type="submit"
+                    class="bg-gradient flex items-center justify-center rounded-lg px-5 py-3 text-center font-poppins text-lg font-bold text-white md:shrink-0 md:max-w-[50%]"
+                    {{ if .submit }}x-init="buttonText = $el.innerText.trim()"{{ end }}
+                    x-bind:disabled="isSubmitting"
+                    x-html="buttonText">
+                    {{ .submit | default (T "newsletter-subscribe.submit") }}
+                </button>
+            </div>
+
+            <!-- Error message -->
+            <p x-text="errors.email" class="error pt-2 font-poppins !text-sm font-bold text-red-500" role="alert"></p>
+        </form>
+    </section>
+</section>
