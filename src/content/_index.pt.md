@@ -99,6 +99,21 @@ sections:
   - stat: "downloads"
   - stat: "daily_users"
   - review: "capterra"
+  - review: "omr"
+  badges:
+  - review: "omr"
+  - flag: "de"
+    ribbon: "Alojamento"
+    lines: ["na Alemanha", "SeaTable Cloud", "Exoscale"]
+    link: "pages/legal/security"
+  - icon: "shield-halved"
+    ribbon: "ISO 27001"
+    lines: ["Centros de dados", "certificados", "Exoscale"]
+    link: "pages/legal/security"
+  - icon: "file-shield"
+    ribbon: "Pentest"
+    lines: ["SeaTable Server", "SRC Security", "2024"]
+    link: "posts/20250129-pentest"
   buttons:
     - link: "categories/customer-story"
       label: "Leia mais casos de sucesso"
