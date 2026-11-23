@@ -1,0 +1,53 @@
+# All key figures shown in content block customer-1. Change them only here.
+# Labels of the stats: i18n keys stat_<key>. Number format depends on the language.
+stats:
+    downloads: 100000
+    daily_users: 2000
+
+# Ratings on review platforms. Check once per quarter: rating, count (optional) and the badge.
+reviews:
+    capterra:
+        name: "Capterra"
+        rating: 4.6
+        count: 31
+        url: "https://www.capterra.com/p/207565/SeaTable/"
+    omr:
+        name: "OMR Reviews"
+        rating: 4.5
+        count: 31
+        url: "https://omr.com/de/reviews/product/seatable?utm_source=widget&utm_medium=vendor"
+        badge:
+            image: "/images/badges/omr-top-rated.svg"
+            alt: "OMR Reviews Top Rated: No-Code Development Platform, Q4/26"
+            url: "https://omr.com/de/reviews/product/seatable?utm_source=badge&utm_medium=vendor"
+
+# Badges, shown with "badges: true". Either a review badge or an own badge (icon or flag, text per language).
+badges:
+    - review: "omr"
+    - flag: "de"
+      link: "pages/legal/security"
+      text:
+          de: { ribbon: "Hosting", lines: ["in Deutschland", "SeaTable Cloud", "Exoscale"] }
+          en: { ribbon: "Hosting", lines: ["in Germany", "SeaTable Cloud", "Exoscale"] }
+          es: { ribbon: "Hosting", lines: ["en Alemania", "SeaTable Cloud", "Exoscale"] }
+          fr: { ribbon: "Hébergé", lines: ["en Allemagne", "SeaTable Cloud", "Exoscale"] }
+          pt: { ribbon: "Alojamento", lines: ["na Alemanha", "SeaTable Cloud", "Exoscale"] }
+          ru: { ribbon: "Хостинг", lines: ["в Германии", "SeaTable Cloud", "Exoscale"] }
+    - icon: "shield-halved"
+      link: "pages/legal/security"
+      text:
+          de: { ribbon: "ISO 27001", lines: ["Zertifizierte", "Rechenzentren", "Exoscale"] }
+          en: { ribbon: "ISO 27001", lines: ["Certified", "data centers", "Exoscale"] }
+          es: { ribbon: "ISO 27001", lines: ["Centros de datos", "certificados", "Exoscale"] }
+          fr: { ribbon: "ISO 27001", lines: ["Data centers", "certifiés", "Exoscale"] }
+          pt: { ribbon: "ISO 27001", lines: ["Centros de dados", "certificados", "Exoscale"] }
+          ru: { ribbon: "ISO 27001", lines: ["Дата-центры", "с сертификатом", "Exoscale"] }
+    - icon: "file-shield"
+      link: "posts/20250129-pentest"
+      text:
+          de: { ribbon: "Pentest", lines: ["SeaTable Server", "SRC Security", "2024"] }
+          en: { ribbon: "Pentest", lines: ["SeaTable Server", "SRC Security", "2024"] }
+          es: { ribbon: "Pentest", lines: ["SeaTable Server", "SRC Security", "2024"] }
+          fr: { ribbon: "Pentest", lines: ["SeaTable Server", "SRC Security", "2024"] }
+          pt: { ribbon: "Pentest", lines: ["SeaTable Server", "SRC Security", "2024"] }
+          ru: { ribbon: "Пентест", lines: ["SeaTable Server", "SRC Security", "2024"] }

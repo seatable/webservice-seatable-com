@@ -209,7 +209,7 @@ sections:
       title: 'Организации по всему миру доверяют SeaTable'
       subtitle: 'Кто использует SeaTable в качестве альтернативы Airtable?'
       text: 'SeaTable используют такие организации, как Бундесвер (вооружённые силы Германии), Берлинский университет имени Гумбольдта, Общество Макса Планка, французское агентство по оценке Hcéres, производитель электроники eolane, Red Dot и TELUS.'
-      maquee_rows: 1
+      marquee_rows: 1
       buttons:
           - label: 'Перенесите свои данные из Airtable в SeaTable прямо сейчас'
             link: 'pages/registration'

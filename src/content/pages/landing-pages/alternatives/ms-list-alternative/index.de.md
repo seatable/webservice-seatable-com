@@ -51,7 +51,7 @@ sections:
       weight: 3
       title: 'Unternehmen weltweit vertrauen SeaTable'
       subtitle: 'Wer nutzt SeaTable?'
-      maquee_rows: 1
+      marquee_rows: 1
 
     - name: 'content-10'
       weight: 4

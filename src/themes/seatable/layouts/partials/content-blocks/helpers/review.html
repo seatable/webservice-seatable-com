@@ -1,0 +1,15 @@
+{{/* Rating of a review platform, data from data/trust.yaml. Expects "key" (e.g. "omr") and "numberSize" (CSS classes). */}}
+{{ $review := index site.Data.trust.reviews .key }}
+{{ if not $review }}
+    {{ errorf "Review platform %q does not exist in data/trust.yaml!" .key }}
+{{ else }}
+    {{ $rating := lang.FormatNumber 1 $review.rating }}
+    <a class="block text-center no-underline" href="{{ $review.url }}" target="_blank" rel="nofollow noopener">
+        <p class="gradient font-poppins {{ .numberSize }} font-bold">{{ $rating }}</p>
+        <div class="mx-auto mt-3 w-[108px]">{{ partial "content-blocks/helpers/star-rating.html" $review.rating }}</div>
+        <p class="mt-3 text-xl">{{ $review.name }}</p>
+        {{ with $review.count }}
+            <p class="mt-1 text-sm">{{ i18n "review_count" (int .) }}</p>
+        {{ end }}
+    </a>
+{{ end }}

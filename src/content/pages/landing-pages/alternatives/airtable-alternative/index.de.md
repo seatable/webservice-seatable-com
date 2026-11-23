@@ -207,7 +207,7 @@ sections:
       title: 'Organisationen weltweit vertrauen SeaTable'
       subtitle: 'Wer nutzt SeaTable als Airtable Alternative?'
       text: 'SeaTable wird unter anderem von der Bundeswehr, der Humboldt-Universität zu Berlin, der Max-Planck-Gesellschaft, dem französischen Hochschulevaluationsrat Hcéres, dem Elektronikhersteller eolane, Red Dot und TELUS eingesetzt.'
-      maquee_rows: 1
+      marquee_rows: 1
       buttons:
           - label: 'Migrieren Sie jetzt Ihre Daten von Airtable zu SeaTable'
             link: 'pages/registration'

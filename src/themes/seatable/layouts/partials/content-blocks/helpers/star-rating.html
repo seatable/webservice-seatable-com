@@ -1,0 +1,8 @@
+{{/* Five stars, partially filled. Expects the rating (0-5). */}}
+{{ $percent := mul (div (float .) 5) 100 }}
+<div class="relative h-5 w-[108px]" role="img" aria-label="{{ lang.FormatNumber 1 . }} / 5">
+    <div class="absolute inset-0 flex justify-between text-gray-200">{{ partial "content-blocks/helpers/stars.html" . }}</div>
+    <div class="absolute inset-0 overflow-hidden text-seatable-orange" style="width: {{ $percent }}%">
+        <div class="flex w-[108px] justify-between">{{ partial "content-blocks/helpers/stars.html" . }}</div>
+    </div>
+</div>

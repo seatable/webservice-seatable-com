@@ -1,0 +1,183 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  subtitle: (optional)
+  title:
+  text: (optional, Markdown)
+  ratings: ["omr", "capterra"] # optional, keys from data/trust.yaml
+  classes: (optional, light backgrounds only, default:)
+  - curved
+  - bg-orange-50
+  items:
+  - quote: "Text with **highlight**"
+    name:
+    role: (optional)
+    company: (optional)
+    rating: 5 # optional, stars
+    source: "omr" # optional, key from data/trust.yaml
+    sourceUrl: # optional, link to the single review
+    link: "posts/customer-story" # optional, internal page
+    logo: "logo.jpg" # optional, image file of the linked page
+    featured: true # optional, dark card</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $classes := .classes | default (slice "curved" "bg-orange-50") }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section
+        class="max-container"
+        x-data="{
+            atStart: true,
+            atEnd: false,
+            target: null,
+            timer: null,
+            update() {
+                const t = this.$refs.track;
+                this.atStart = t.scrollLeft < 8;
+                this.atEnd = t.scrollLeft + t.clientWidth > t.scrollWidth - 8;
+            },
+            move(direction) {
+                const t = this.$refs.track;
+                const step = t.firstElementChild.offsetWidth + 24;
+                const max = t.scrollWidth - t.clientWidth;
+                // Continue from the running animation's target, so fast clicks add up
+                const from = this.target ?? t.scrollLeft;
+                const index = direction > 0 ? Math.floor(from / step + 0.1) + 1 : Math.ceil(from / step - 0.1) - 1;
+                this.target = Math.min(Math.max(index * step, 0), max);
+                const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+                t.scrollTo({ left: this.target, behavior: reduced ? 'auto' : 'smooth' });
+                clearTimeout(this.timer);
+                this.timer = setTimeout(() => (this.target = null), 700);
+            },
+        }"
+        x-init="$nextTick(() => update())"
+        @resize.window.debounce.150ms="update()">
+        <!-- Header -->
+        <div class="flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+            <div class="max-w-[720px]">
+                {{ with .subtitle }}<p class="gradient inline-block font-poppins text-2xl font-bold">{{ . | markdownify }}</p>{{ end }}
+                <h2 class="mt-1 text-4xl font-bold">{{ .title | markdownify }}</h2>
+                {{ with .text }}<p class="mt-4 text-lg leading-normal">{{ . | markdownify }}</p>{{ end }}
+            </div>
+            {{ with .ratings }}
+                <div class="flex shrink-0 flex-wrap gap-4">
+                    {{ range . }}
+                        {{ $review := index site.Data.trust.reviews . }}
+                        {{ if not $review }}
+                            {{ errorf "Review platform %q does not exist in data/trust.yaml!" . }}
+                        {{ else }}
+                            <a class="rounded-xl bg-white px-5 py-4 no-underline shadow-sm transition hover:shadow-md" href="{{ $review.url }}" target="_blank" rel="nofollow noopener">
+                                <p class="font-poppins font-bold text-seatable-blue">{{ $review.name }}</p>
+                                <div class="mt-2 flex items-center gap-3">
+                                    {{ partial "content-blocks/helpers/star-rating.html" $review.rating }}
+                                    <span class="font-bold text-seatable-blue">{{ lang.FormatNumber 1 $review.rating }}</span>
+                                </div>
+                                {{ with $review.count }}<p class="mt-2 text-sm">{{ i18n "review_count" (int .) }}</p>{{ end }}
+                            </a>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+
+        <!-- Slider: native scrolling, works with touch, keyboard and without JavaScript -->
+        <div
+            class="review-track -mx-4 mt-8 flex snap-x snap-mandatory gap-6 overflow-x-auto px-4 py-6 [scroll-padding-inline:1rem] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+            :class="{ 'fade-l': !atStart, 'fade-r': !atEnd }"
+            x-ref="track"
+            @scroll.throttle.100ms="update()"
+            @scrollend="update()"
+            tabindex="0"
+            role="region"
+            aria-label="{{ .title | plainify }}">
+            {{ range $item := .items }}
+                {{ $page := "" }}
+                {{ with .link }}
+                    {{ $page = page.GetPage . }}
+                    {{ if not $page }}{{ errorf "Page %s does not exist!" . }}{{ end }}
+                {{ end }}
+                {{ $dark := .featured }}
+                <figure
+                    class="review-card group relative flex w-[88%] shrink-0 snap-start flex-col overflow-hidden rounded-2xl p-8 shadow-md transition duration-300 hover:-translate-y-1 hover:shadow-xl md:w-[46%] lg:w-[31%] {{ if $dark }}review-card-dark bg-seatable-blue{{ else }}bg-white{{ end }}">
+                    <!-- Decoration -->
+                    <span class="bg-gradient absolute inset-x-0 top-0 h-1.5" aria-hidden="true"></span>
+                    <svg
+                        class="absolute -right-6 top-16 h-44 w-56 transition duration-500 group-hover:scale-110 {{ if $dark }}text-white/5{{ else }}text-orange-50{{ end }}"
+                        viewBox="0 0 48 38"
+                        aria-hidden="true">
+                        <path fill="currentColor" d="M0 24C0 10 7 2 19 0v7c-6 2-9 5-9 10h9v21H0zM27 24C27 10 34 2 46 0v7c-6 2-9 5-9 10h9v21H27z" />
+                    </svg>
+
+                    <!-- Logo or rating -->
+                    <div class="relative flex h-14 items-center justify-between gap-4">
+                        <svg class="h-9 w-11 shrink-0" viewBox="0 0 48 38" aria-hidden="true">
+                            <defs>
+                                <linearGradient id="reviews-quote" x1="0" x2="1">
+                                    <stop offset="0" stop-color="#EE3234" />
+                                    <stop offset="1" stop-color="#FF8000" />
+                                </linearGradient>
+                            </defs>
+                            <path fill="url(#reviews-quote)" d="M0 24C0 10 7 2 19 0v7c-6 2-9 5-9 10h9v21H0zM27 24C27 10 34 2 46 0v7c-6 2-9 5-9 10h9v21H27z" />
+                        </svg>
+                        {{ if .rating }}
+                            {{ partial "content-blocks/helpers/star-rating.html" .rating }}
+                        {{ else if and .logo $page }}
+                            {{ $logo := $page.Resources.GetMatch .logo }}
+                            {{ if $logo }}
+                                {{ $logo = $logo.Fit "320x112" }}
+                                <img class="h-14 w-auto max-w-[150px] rounded-lg bg-white object-contain p-1" src="{{ $logo.RelPermalink }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}" alt="{{ .company | default .name }}" loading="lazy" />
+                            {{ else }}
+                                {{ errorf "Logo %s does not exist in %s!" .logo .link }}
+                            {{ end }}
+                        {{ end }}
+                    </div>
+
+                    <blockquote class="relative mb-8 mt-6 font-poppins text-lg font-medium leading-relaxed {{ if $dark }}text-white{{ else }}text-seatable-blue{{ end }}">{{ .quote | markdownify }}</blockquote>
+
+                    <figcaption class="relative -mx-8 -mb-8 mt-auto flex min-h-[148px] items-center justify-between gap-4 px-8 py-6 {{ if $dark }}bg-white/10{{ else }}bg-gray-50{{ end }}">
+                        <div>
+                            <p class="font-bold {{ if $dark }}!text-white{{ else }}!text-seatable-blue{{ end }}">{{ .name }}</p>
+                            {{ if or .role .company }}
+                                <p class="mt-1 text-sm leading-normal {{ if $dark }}!text-gray-200{{ end }}">{{ with .role }}{{ . }}{{ end }}{{ if and .role .company }}<br />{{ end }}{{ with .company }}{{ . }}{{ end }}</p>
+                            {{ end }}
+                            {{ with .source }}
+                                {{ with index site.Data.trust.reviews . }}
+                                    <a class="mt-2 inline-block text-sm underline {{ if $dark }}text-gray-200{{ end }}" href="{{ $item.sourceUrl | default .url }}" target="_blank" rel="nofollow noopener">{{ .name }}</a>
+                                {{ else }}
+                                    {{ errorf "Review platform does not exist in data/trust.yaml!" }}
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                        {{ with $page }}
+                            <a
+                                class="bg-gradient flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-white transition duration-300 group-hover:translate-x-1"
+                                href="{{ .RelPermalink }}"
+                                aria-label="{{ T "read_more" }}: {{ .Title }}"
+                                title="{{ T "read_more" }}"
+                                >{{ partial "icon.html" "arrow-right" }}</a
+                            >
+                        {{ end }}
+                    </figcaption>
+                </figure>
+            {{ end }}
+        </div>
+
+        <!-- Navigation -->
+        <div class="mt-4 flex justify-end gap-3" x-cloak x-show="!(atStart && atEnd)">
+            {{ range slice (dict "dir" -1 "key" "slider_previous" "off" "atStart" "path" "M15 5l-7 7 7 7") (dict "dir" 1 "key" "slider_next" "off" "atEnd" "path" "M9 5l7 7-7 7") }}
+                <button
+                    type="button"
+                    class="flex h-12 w-12 items-center justify-center rounded-full border border-seatable-blue bg-white text-seatable-blue transition hover:bg-seatable-blue hover:text-white disabled:pointer-events-none disabled:opacity-30"
+                    @click="move({{ .dir }})"
+                    :disabled="{{ .off }}"
+                    aria-label="{{ i18n .key }}">
+                    <svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="{{ .path }}" /></svg>
+                </button>
+            {{ end }}
+        </div>
+    </section>
+</section>

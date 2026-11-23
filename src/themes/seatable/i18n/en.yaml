@@ -265,3 +265,13 @@ sitemap:
     col_priority: 'Priority'
     col_lastmod: 'Last modified'
     all: 'All'
+
+review_count:
+    one: "{{ .Count }} review"
+    other: "{{ .Count }} reviews"
+
+stat_downloads: "Downloads in the first year on Docker Hub"
+stat_daily_users: "Daily users on SeaTable Cloud"
+
+slider_previous: "Previous"
+slider_next: "Next"

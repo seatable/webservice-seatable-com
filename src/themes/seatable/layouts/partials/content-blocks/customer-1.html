@@ -5,14 +5,14 @@
   weight: 1
   title: "Tausende Menschen weltweit nutzen bereits SeaTable"
   subtitle: "Wer nutzt SeaTable?"
-  maquee_rows: 1
+  marquee_rows: 1
   items: 
-  - number: "100.000+"
-    text: Downloads im ersten Jahr von Docker Hub
-  - number: "1.500+"
-    text: "Tägliche Nutzer auf SeaTable Cloud"
-  - number: "4.6"
-    text: "Bewertung auf Capterra"
+  - stat: "downloads" # key from data/trust.yaml
+  - stat: "daily_users"
+  # or a custom figure: number: "42", text: "..."
+  - review: "capterra" # key from data/trust.yaml
+  - review: "omr"
+  badges: true # optional, from data/trust.yaml
   buttons:
   - link: "customer-story"
     label:</code></pre>
@@ -31,13 +31,15 @@
         <div class="my-20">
             {{ $marqueeRows := .marquee_rows | default 1 }}
             {{ range $index, $_ := seq $marqueeRows }}
+                {{/* Render once per row: both halves need the same logo order for a seamless loop */}}
+                {{ $logos := partial "marquee-items.html" . }}
                 <div class="marquee-fade {{ if eq $index 1 }}pt-6 pl-20{{ end }} overflow-x-hidden">
                     <div class="flex w-max min-w-fit">
                         <span class="flex animate-marquee">
-                            {{ partial "marquee-items.html" . }}
+                            {{ $logos }}
                         </span>
                         <span class="flex animate-marquee">
-                            {{ partial "marquee-items.html" . }}
+                            {{ $logos }}
                         </span>
                     </div>
                 </div>
@@ -45,14 +47,55 @@
         </div>
 
         {{ if .items }}
+            {{ $numberSize := cond (eq (len .items) 4) "text-3xl md:text-4xl" "text-4xl" }}
             {{ $totalItems := len .items }}
             <!-- <span class="grid-cols-3 grid-cols-4 grid-cols-2 grid-cols-1 hidden"></span> to load the classes... -->
-            <div class="md:grid-cols-{{ $totalItems }} mt-8 grid grid-cols-1 gap-16">
+            <div class="mt-8 grid {{ if eq $totalItems 4 }}grid-cols-2 gap-x-6 gap-y-12 lg:grid-cols-4{{ else }}md:grid-cols-{{ $totalItems }} grid-cols-1 gap-16{{ end }}">
                 {{ range .items }}
-                    <div class="text-center">
-                        <p class="gradient font-poppins text-4xl font-bold">{{ .number }}</p>
-                        <p class="mt-4 text-xl">{{ .text }}</p>
-                    </div>
+                    {{ if .review }}
+                        {{ partial "content-blocks/helpers/review.html" (dict "key" .review "numberSize" $numberSize) }}
+                    {{ else if .stat }}
+                        {{ $value := index site.Data.trust.stats .stat }}
+                        {{ if not $value }}
+                            {{ errorf "Stat %q does not exist in data/trust.yaml!" .stat }}
+                        {{ end }}
+                        <div class="text-center">
+                            <p class="gradient font-poppins {{ $numberSize }} font-bold">{{ lang.FormatNumber 0 $value }}+</p>
+                            <p class="mt-4 text-xl">{{ i18n (printf "stat_%s" .stat) }}</p>
+                        </div>
+                    {{ else }}
+                        <div class="text-center">
+                            <p class="gradient font-poppins {{ $numberSize }} font-bold">{{ .number }}</p>
+                            <p class="mt-4 text-xl">{{ .text }}</p>
+                        </div>
+                    {{ end }}
+                {{ end }}
+            </div>
+        {{ end }}
+
+        {{ if .badges }}
+            <div class="mt-20 grid grid-cols-2 items-center gap-x-6 gap-y-12 lg:flex lg:justify-center lg:gap-x-12">
+                {{ range site.Data.trust.badges }}
+                    {{ if .review }}
+                        {{ with (index site.Data.trust.reviews .review).badge }}
+                            <a class="block" href="{{ .url }}" target="_blank" rel="nofollow noopener">
+                                <img class="mx-auto w-[130px]" src="{{ .image }}" alt="{{ .alt }}" width="130" height="132" loading="lazy" />
+                            </a>
+                        {{ end }}
+                    {{ else }}
+                        {{ $link := page.GetPage .link }}
+                        {{ if not $link }}
+                            {{ errorf "Page %s does not exist!" .link }}
+                        {{ else }}
+                            <a class="block text-center no-underline" href="{{ $link.RelPermalink }}">
+                                {{ $text := index .text site.Language.Lang }}
+                                {{ if not $text }}
+                                    {{ errorf "Badge in data/trust.yaml has no text for language %q!" site.Language.Lang }}
+                                {{ end }}
+                                {{ partial "content-blocks/helpers/badge.html" (dict "icon" .icon "flag" .flag "ribbon" $text.ribbon "lines" $text.lines) }}
+                            </a>
+                        {{ end }}
+                    {{ end }}
                 {{ end }}
             </div>
         {{ end }}

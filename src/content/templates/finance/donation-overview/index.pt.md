@@ -57,12 +57,11 @@ sections:
       subtitle: "Quem usa o SeaTable?"
       marquee_rows: 2
       items: 
-      - number: "100.000+"
-        text: Downloads no primeiro ano no Docker Hub
-      - number: "1.500+"
-        text: "Usuários diários no SeaTable Cloud"
-      - number: "4,6"
-        text: "Avaliação no Capterra"
+      - stat: "downloads"
+      - stat: "daily_users"
+      - review: "capterra"
+      - review: "omr"
+      badges: true
       buttons:
         - link: "categories/customer-story"
           label: "SeaTable em ação: casos de sucesso"

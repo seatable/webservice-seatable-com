@@ -77,12 +77,11 @@ sections:
       weight: 7
       title: 'Thousands Worldwide Already Use SeaTable'
       subtitle: 'Who Uses SeaTable?'
-      maquee_rows: 1
+      marquee_rows: 1
       items:
-          - number: '100,000+'
-            text: Downloads in first year on Docker Hub
-          - number: '1,500+'
-            text: 'Daily users on SeaTable Cloud'
-          - number: '4.6'
-            text: 'Rating on Capterra'
+          - stat: "downloads"
+          - stat: "daily_users"
+          - review: "capterra"
+          - review: "omr"
+      badges: true
 ---
