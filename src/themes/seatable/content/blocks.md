@@ -562,4 +562,47 @@ sections:
     text: 'Erhalten Sie **Produktneuigkeiten**, Tipps und Vorlagen direkt in Ihr Postfach.'
     submit: Jetzt abonnieren
 
+  - name: reviews-1
+    weight: 50
+    subtitle: Kundenstimmen
+    title: Das sagen unsere Kunden
+    text: Unternehmen und Organisationen berichten, wie SeaTable ihren Alltag verändert hat.
+    ratings: ["omr", "capterra"]
+    items:
+      - quote: "**Vielseitig einsetzbar und anpassbar.** Ideal für kleine Betriebe."
+        name: Felix
+        role: Office Manager
+        company: Immobilienverwaltung Merck
+        rating: 5
+        source: omr
+        sourceUrl: https://omr.com/de/reviews/product/seatable?utm_source=review-embed&utm_medium=vendor
+      - quote: Der Support von SeaTable ist außerordentlich gut, **persönlich, schnell und sehr treffsicher.** Das ist beeindruckend.
+        name: Seibert Group GmbH
+        link: posts/customer-story-seibert-media
+        featured: true
+      - quote: Wir haben uns ein Tool geschaffen, welches **unsere Vertriebsprozesse übersichtlich darstellt** und sich dynamisch ins Tagesgeschäft integriert.
+        name: Björn Augustin
+        role: Team Lead Corporate Gift
+        company: Leuchtturm1917
+        link: posts/customer-story-leuchtturm
+        logo: logo_leuchtturm.jpg
+      - quote: SeaTable hat unsere Zusammenarbeit mit den Evaluationsabteilungen enorm verbessert. Es ist **intuitiv, leicht anpassbar und sicher.**
+        name: Clément Bréhin
+        role: Technischer Projektleiter
+        company: Hcéres
+        link: posts/20241021-customer-story-hceres
+        logo: Logo-HCERES.jpg
+      - quote: Wir sind enorm zufrieden mit SeaTable über die letzten Monate und Jahre. Wir sind **beeindruckt davon, wie sich das Produkt entwickelt.**
+        name: Stephan Lehniger
+        role: CEO
+        company: SecUnity GmbH
+        link: posts/customer-story-secunity
+        logo: logo-secunity.jpg
+        featured: true
+      - quote: SeaTable hat unseren **Arbeitsalltag deutlich verbessert.**
+        name: Ko Smidt
+        company: Johannes Fontanus College
+        link: posts/customer-story-fontanus-exams
+        logo: logo-jfc.jpg
+
 ---

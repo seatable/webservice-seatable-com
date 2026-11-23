@@ -272,3 +272,6 @@ review_count:
 
 stat_downloads: "Downloads im ersten Jahr von Docker Hub"
 stat_daily_users: "Tägliche Nutzer auf SeaTable Cloud"
+
+slider_previous: "Vorherige"
+slider_next: "Nächste"

@@ -339,6 +339,29 @@
     @apply !text-xl !leading-relaxed;
 }
 
+/* Content block reviews-1 */
+.review-card blockquote strong {
+    font-weight: 600;
+    background: linear-gradient(90deg, rgba(238, 50, 52, 0.22), rgba(255, 128, 0, 0.32)) no-repeat 0 90% / 100% 38%;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+.review-card-dark blockquote strong {
+    background: none;
+    color: #ffa94d;
+}
+.review-track {
+    --fade-l: 0px;
+    --fade-r: 0px;
+    mask-image: linear-gradient(to right, transparent 0, black var(--fade-l), black calc(100% - var(--fade-r)), transparent 100%);
+}
+.review-track.fade-l {
+    --fade-l: 16px;
+}
+.review-track.fade-r {
+    --fade-r: 48px;
+}
+
 .marquee-fade {
     mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
 }
