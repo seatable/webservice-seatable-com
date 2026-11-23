@@ -57,7 +57,7 @@ sections:
       items: 
       - number: "100.000+"
         text: Загрузок с Docker Hub за первый год
-      - number: "1.500+"
+      - number: "2.000+"
         text: "Ежедневных пользователей SeaTable Cloud"
       - number: "4.6"
         text: "Оценка на Capterra"

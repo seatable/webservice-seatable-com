@@ -59,7 +59,7 @@ sections:
       items: 
       - number: "100.000+"
         text: Downloads im ersten Jahr von Docker Hub
-      - number: "1.500+"
+      - number: "2.000+"
         text: "Tägliche Nutzer auf SeaTable Cloud"
       - number: "4.6"
         text: "Bewertung auf Capterra"

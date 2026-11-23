@@ -51,7 +51,7 @@ sections:
       weight: 3
       title: 'Trusted by companies worldwide'
       subtitle: 'Who uses SeaTable?'
-      maquee_rows: 1
+      marquee_rows: 1
 
     - name: 'content-10'
       weight: 4

@@ -58,7 +58,7 @@ sections:
       items: 
       - number: "100.000+"
         text: Transferências no Docker Hub no primeiro ano
-      - number: "1.500+"
+      - number: "2.000+"
         text: "Utilizadores diários no SeaTable Cloud"
       - number: "4,6"
         text: "Avaliação no Capterra"

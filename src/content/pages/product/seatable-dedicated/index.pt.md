@@ -74,11 +74,11 @@ sections:
       weight: 7
       title: Milhares de pessoas no mundo já usam o SeaTable
       subtitle: Quem usa o SeaTable?
-      maquee_rows: 1
+      marquee_rows: 1
       items:
           - number: '100.000+'
             text: Downloads no primeiro ano no Docker Hub
-          - number: '1.500+'
+          - number: '2.000+'
             text: Usuários diários na SeaTable Cloud
           - number: '4.6'
             text: Avaliação no Capterra

@@ -209,7 +209,7 @@ sections:
       title: 'Empresas de todo el mundo confían en SeaTable'
       subtitle: '¿Quién utiliza SeaTable como alternativa a Airtable?'
       text: 'SeaTable lo utilizan organizaciones como las Fuerzas Armadas alemanas (Bundeswehr), la Universidad Humboldt de Berlín, la Sociedad Max Planck, la agencia de evaluación francesa Hcéres, el fabricante de electrónica eolane, Red Dot y TELUS.'
-      maquee_rows: 1
+      marquee_rows: 1
       buttons:
           - label: 'Migre sus datos de Airtable a SeaTable ahora mismo'
             link: 'pages/registration'

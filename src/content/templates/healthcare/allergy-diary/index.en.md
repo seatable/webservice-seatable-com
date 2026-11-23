@@ -56,7 +56,7 @@ sections:
       items: 
       - number: "100,000+"
         text: Downloads in the first year on Docker Hub
-      - number: "1,500+"
+      - number: "2,000+"
         text: "Daily users on SeaTable Cloud"
       - number: "4.6"
         text: "Rating on Capterra"

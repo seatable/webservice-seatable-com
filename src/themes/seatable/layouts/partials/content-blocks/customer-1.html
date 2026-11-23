@@ -5,11 +5,11 @@
   weight: 1
   title: "Tausende Menschen weltweit nutzen bereits SeaTable"
   subtitle: "Wer nutzt SeaTable?"
-  maquee_rows: 1
+  marquee_rows: 1
   items: 
   - number: "100.000+"
     text: Downloads im ersten Jahr von Docker Hub
-  - number: "1.500+"
+  - number: "2.000+"
     text: "Tägliche Nutzer auf SeaTable Cloud"
   - number: "4.6"
     text: "Bewertung auf Capterra"
@@ -31,13 +31,15 @@
         <div class="my-20">
             {{ $marqueeRows := .marquee_rows | default 1 }}
             {{ range $index, $_ := seq $marqueeRows }}
+                {{/* Render once per row: both halves need the same logo order for a seamless loop */}}
+                {{ $logos := partial "marquee-items.html" . }}
                 <div class="marquee-fade {{ if eq $index 1 }}pt-6 pl-20{{ end }} overflow-x-hidden">
                     <div class="flex w-max min-w-fit">
                         <span class="flex animate-marquee">
-                            {{ partial "marquee-items.html" . }}
+                            {{ $logos }}
                         </span>
                         <span class="flex animate-marquee">
-                            {{ partial "marquee-items.html" . }}
+                            {{ $logos }}
                         </span>
                     </div>
                 </div>
