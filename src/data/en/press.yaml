@@ -1,3 +1,31 @@
+- title: 'Data in shape'
+  year: 2026
+  summary: 'Dr. Christian Knermann put SeaTable 6.2 through an in-depth hands-on test for the German magazine IT-Administrator – both in the cloud and on-premises. SeaTable scored particularly well for its flexibility. The AI integrations received the highest individual rating with 9 points. The article (in German) is only available to readers of the magazine and cannot be accessed publicly online.'
+  quote: '“SeaTable is a mature no-code/low-code platform. The software sets out to break up thinking in isolated specialist applications and to put the focus on information. This digital shape-shifter thus scores as a tool that adapts to the task, instead of introducing separate software for every use case.”'
+  quote_author: 'Dr. Christian Knermann, IT-Administrator 11/2026, p. 27 (translated from German)'
+  date: 2026-11-01
+  source: 'IT-Administrator'
+  issue: 'Issue 11/2026, pp. 23–27'
+  rating_title: 'IT-Administrator’s verdict'
+  rating_max: 10
+  rating_note: 'Scale from 0 to 10: 6 points mean that a feature meets the standard of comparable products and works flawlessly. From 7 points, it is superior to the standard. Details: [IT-Administrator test methodology (in German)](https://www.it-administrator.de/testmethodik)'
+  ratings:
+    - label: 'Templates'
+      score: 8
+      meaning: 'Clearly superior to the standard'
+    - label: 'Permissions'
+      score: 7
+      meaning: 'Slightly superior to the standard'
+    - label: 'Forms'
+      score: 6
+      meaning: 'Meets the standard of comparable products and works flawlessly'
+    - label: 'App builder'
+      score: 8
+      meaning: 'Clearly superior to the standard'
+    - label: 'AI integrations'
+      score: 9
+      meaning: 'Completely new / technologically far superior to comparable products – but works only with slight limitations'
+
 - title: 'Autonomy for specialist departments: SeaTable 6.0 combines AI and no-code'
   year: 2025
   summary: 'Not everyone is familiar with programming. But in future, all employees will be able to use IT easily. Platforms like SeaTable make it possible. With SeaTable 6.0, the data specialist wants to create the conditions for innovations supported by artificial intelligence (AI) to be easily and directly integrated into everyday working life.'

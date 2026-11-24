@@ -34,18 +34,52 @@
                         {{ $articles := where $press "year" $year }}
                         {{ $articles = sort $articles "date" "desc" }}
 
-                        {{ range $articles }}
+                        {{ range $article := $articles }}
                             <div class="flex flex-col gap-2">
                                 <h3 class="text-xl font-bold text-white">{{ .title }}</h3>
                                 <div class="flex items-center gap-2 text-sm text-gray-300">
-                                    <span>{{ .date | time.Format "2 January 2006" }}</span>
+                                    {{/* Print articles show their issue instead of a publication date */}}
+                                    <span>{{ with .issue }}{{ . }}{{ else }}{{ .date | time.Format "2 January 2006" }}{{ end }}</span>
                                     <span>•</span>
                                     <span>{{ .source }}</span>
                                 </div>
                                 <p class="text-gray-100">{{ .summary }}</p>
-                                <span class="mb-4 mt-2">
-                                    <a href="{{ .link }}" class="rounded bg-white px-4 py-2 hover:bg-gray-200" target="_blank">Read more →</a>
-                                </span>
+                                {{ with .quote }}
+                                    <figure class="mt-2 border-l-4 border-seatable-orange pl-4">
+                                        <blockquote class="italic text-white">{{ . }}</blockquote>
+                                        {{ with $article.quote_author }}
+                                            <figcaption class="mt-2 text-sm text-gray-300">{{ . }}</figcaption>
+                                        {{ end }}
+                                    </figure>
+                                {{ end }}
+                                {{ with .ratings }}
+                                    {{ $max := $article.rating_max | default 10 }}
+                                    <div class="mb-4 mt-2 rounded-lg bg-white p-4">
+                                        <p class="mb-3 font-bold">{{ $article.rating_title }}</p>
+                                        <dl class="flex flex-col gap-3">
+                                            {{ range . }}
+                                                <div>
+                                                    <div class="flex justify-between text-sm">
+                                                        <dt>{{ .label }}</dt>
+                                                        <dd class="font-bold">{{ .score }} / {{ $max }}</dd>
+                                                    </div>
+                                                    <div class="mt-1 h-2 overflow-hidden rounded-full bg-gray-200" aria-hidden="true">
+                                                        <div class="h-2 rounded-full bg-seatable-orange" style="width: {{ div (mul .score 100) $max }}%"></div>
+                                                    </div>
+                                                    {{ with .meaning }}<p class="mt-1 text-xs text-gray-500">{{ . }}</p>{{ end }}
+                                                </div>
+                                            {{ end }}
+                                        </dl>
+                                        {{ with $article.rating_note }}
+                                            <p class="mt-3 text-xs [&_a]:underline">{{ . | markdownify }}</p>
+                                        {{ end }}
+                                    </div>
+                                {{ end }}
+                                {{ with .link }}
+                                    <span class="mb-4 mt-2">
+                                        <a href="{{ . }}" class="rounded bg-white px-4 py-2 hover:bg-gray-200" target="_blank">Read more →</a>
+                                    </span>
+                                {{ end }}
                             </div>
                         {{ end }}
                     </div>
