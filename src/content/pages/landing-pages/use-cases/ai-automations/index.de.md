@@ -120,7 +120,7 @@ sections:
       weight: 6
       title: Datenschutz und KI-Automatisierungen bei SeaTable
       subtitle: Datenkontrolle anstatt Kontrollverlust
-      text: '**KI-Automationen in SeaTable verlassen die EU nicht.** SeaTable betreibt dafür einen eigenen KI-Server mit dem Open-Source-Modell Gemma 4 E4B bei Hetzner in Frankfurt. Die Daten werden nicht an OpenAI, Google oder andere US-Anbieter übertragen. SeaTable Cloud selbst läuft in zertifizierten Rechenzentren in Frankfurt und München. Wir sind ein verlässlicher **Partner für Unternehmen, mit hohen Datenschutz- und Compliance-Anforderungen**, die öffentlich zugängliche GPT-Tools meiden und ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) schützen möchten.'
+      text: '**KI-Automationen in SeaTable verlassen die EU nicht.** SeaTable betreibt dafür einen eigenen KI-Server mit dem Open-Weights-Modell Qwen 3.8 27B bei Exoscale in Frankfurt. Die Daten werden nicht an OpenAI, Google oder andere US-Anbieter übertragen. SeaTable Cloud selbst läuft in zertifizierten Rechenzentren in Frankfurt und München. Wir sind ein verlässlicher **Partner für Unternehmen, mit hohen Datenschutz- und Compliance-Anforderungen**, die öffentlich zugängliche GPT-Tools meiden und ihre [digitale Souveränität]({{< relref "posts/digitale-souveraenitaet" >}}) schützen möchten.'
       items:
       - icon: terminal
         headline: Eigener KI-Server
@@ -161,7 +161,7 @@ sections:
           - q: Was bedeutet KI-unterstützte Automatisierungen bei SeaTable?
             a: 'KI-gestützte Automatisierung in SeaTable bedeutet, dass **intelligente Funktionen wie Zusammenfassung, Klassifikation, Extraktion oder OCR** direkt als Aktionen in Automatisierungen verfügbar sind. Statt einzelne Prompts in externen Tools auszuführen, die über Workflows in Tools wie n8n oder make und API an Ihre Systeme angeschlossen sind, erstellen Sie mit SeaTable alles in einem System und gewährleisten maximale Transparenz und Kontrolle. So managen Sie Ihre Prozesse effizient, gestalten eine schlanke KI basierte Prozessautomatisierung und reduzieren manuelle Arbeit und technische Aufwände – alles in einem System.'
           - q: Wie funktioniert die integrierte SeaTable KI?
-            a: SeaTable hostet das Modell Gemma 4 E4B auf einem eigenen Server im deutschen Hetzner-Rechenzentrum in Frankfurt. Ihre KI Automation übergibt die relevanten Inhalte verschlüsselt an das Modell, und die KI schreibt die Ergebnisse wieder strukturiert in Ihre SeaTable-Base zurück. 
+            a: SeaTable hostet das Modell Qwen 3.8 27B auf einem eigenen Server im deutschen Exoscale-Rechenzentrum in Frankfurt. Ihre KI Automation übergibt die relevanten Inhalte verschlüsselt an das Modell, und die KI schreibt die Ergebnisse wieder strukturiert in Ihre SeaTable-Base zurück. 
           - q: Können wir eigene KI-Modelle nutzen?
             a: SeaTable Server-Kunden können mit der [Komponente SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) unterschiedliche LLMs und Anbieter über eine OpenAI-kompatible API für ihre KI-Automatisierungen anbinden. Dabei können Sie zwischen selbst gehosteten Modellen oder Cloud-GPTs wählen. SeaTable Cloud-Nutzer können aktuell noch keine eigenen Modelle anbinden.  
           - q: Sind unsere Daten bei der KI-Nutzung DSGVO-konform geschützt?

@@ -50,14 +50,14 @@ SeaTable offers two ways to let AI work with your data. Both complement each oth
 | **Trigger** | Automatic (rule/event) | Manual (your question) |
 | **Interaction** | None — runs in the background | Dialogue in natural language |
 | **Typical use** | Categorize, summarize, extract | Query, analyze, edit |
-| **AI model** | SeaTable's own AI server (EU) | External provider (e.g. Anthropic) |
+| **AI model** | SeaTable AI | External provider (e.g. Anthropic) |
 | **Data processing** | Entirely within the EU | Data is transmitted to the AI provider |
 
 Learn more about AI agents in the article [What are AI agents?]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}).
 
 ## Data privacy: AI made in Europe
 
-A key advantage of AI automations over external AI services: **your data does not leave the EU.** SeaTable operates its own AI server running the open-source model Gemma 4 E4B on GPU infrastructure at Hetzner in Germany.
+A key advantage of AI automations over external AI services: **your data does not leave the EU.** SeaTable operates its own AI server running the open-weights model Qwen 3.8 27B on GPU infrastructure at Exoscale in Germany.
 
 In concrete terms, this means:
 
@@ -69,7 +69,7 @@ For organizations working with personal data, confidential documents or sensitiv
 
 ## Availability
 
-AI automations are available from SeaTable version 6.0. Enterprise customers can use the features at no additional cost. A limited quota will be available for Free and Plus plans from version 6.1.
+AI automations have been available since SeaTable version 6.0. Customers can use the features at no additional cost, but the monthly quota of AI credits per user is limited – depending on the Free, Plus, or Enterprise subscription.
 
 ## Next steps
 

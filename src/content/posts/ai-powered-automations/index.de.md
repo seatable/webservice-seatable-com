@@ -2,7 +2,7 @@
 title: 'KI unterstützte Automationen: Das Highlight von SeaTable 6.0'
 description: 'Mit SeaTable 6.0 halten KI unterstützte Automationen Einzug in die Cloud. Profitieren Sie von intelligenter Prozessautomatisierung, voller DSGVO-Konformität und maximaler Datensouveränität dank eigenem KI-Server in Deutschland.'
 date: '2025-09-30'
-lastmod: '2025-10-31'
+lastmod: '2026-11-24'
 url: '/de/ki-automationen-datenschutz'
 aliases:
   - '/ki-automationen-datenschutz'
@@ -23,7 +23,7 @@ register:
 
 Der 1. Oktober 2025 markiert für uns bei SeaTable einen besonderen Moment: Die Veröffentlichung von Version 6.0. Und diese Version hat es in sich. Mit den neuen **KI unterstützten Automationen** schlagen wir ein ganz neues Kapitel auf – eines, das den Arbeitsalltag in Unternehmen spürbar verändern wird.
 
-Denn Automationen waren schon immer ein Kernstück von SeaTable. Sie helfen dabei, wiederkehrende Prozesse zu standardisieren und Abläufe einfacher zu machen. Aber jetzt gehen wir den entscheidenden Schritt weiter: Wir kombinieren unsere Automationen mit künstlicher Intelligenz (=KI). Plötzlich können Prozesse nicht nur _automatisiert_, sondern auch _intelligent_ gesteuert werden. Rechnungen, die automatisch in Tabellen eingetragen werden, E-Mails, die nach Inhalt sortiert und weitergeleitet werden, oder lange Texte, die in Sekundenschnelle auf das Wesentliche reduziert werden – all das wird nun Realität in SeaTable.
+Denn Automationen waren schon immer ein Kernstück von SeaTable. Sie helfen dabei, wiederkehrende Prozesse zu standardisieren und Abläufe einfacher zu machen. Aber jetzt gehen wir den entscheidenden Schritt weiter: Wir kombinieren unsere Automationen mit [künstlicher Intelligenz]({{< relref "posts/kuenstliche-intelligenz" >}}) (=KI). Plötzlich können Prozesse nicht nur _automatisiert_, sondern auch _intelligent_ gesteuert werden. Rechnungen, die automatisch in Tabellen eingetragen werden, E-Mails, die nach Inhalt sortiert und weitergeleitet werden, oder lange Texte, die in Sekundenschnelle auf das Wesentliche reduziert werden – all das wird nun Realität in SeaTable.
 
 ## Warum wir unseren eigenen KI-Server betreiben
 
@@ -33,30 +33,30 @@ Wie real diese Risiken sind, zeigte jüngst ein vielbeachteter Vorfall bei Samsu
 
 {{< warning headline="Dieser Fall macht deutlich" text="Wer Unternehmensdaten leichtfertig in externe KI-Dienste einfließen lässt, riskiert massive Sicherheits- und Rechtsprobleme." />}}
 
-Wir bei SeaTable wollten einen anderen Weg gehen. Einen Weg, der Unternehmen die Sicherheit gibt, sich auf moderne KI zu verlassen, ohne dabei ihre Datenhoheit aufzugeben. Genau deshalb haben wir uns für den Betrieb eines eigenen KI-Servers entschieden – im hochsicheren Rechenzentrum von Hetzner in Deutschland. So garantieren wir: Alle Daten bleiben in Europa, alle Prozesse sind vollständig DSGVO-konform.
+Wir bei SeaTable wollten einen anderen Weg gehen. Einen Weg, der Unternehmen die Sicherheit gibt, sich auf moderne KI zu verlassen, ohne dabei ihre [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}) aufzugeben. Genau deshalb haben wir uns für den Betrieb eines eigenen KI-Servers entschieden – im hochsicheren Rechenzentrum von Exoscale in Deutschland. So garantieren wir: Alle Daten bleiben in Europa, alle Prozesse sind vollständig **DSGVO-konform**.
 
 Für uns bedeutet das Verantwortung. Für Sie bedeutet es ein Plus an Transparenz, Datenschutz und Vertrauen.
 
 ## Technischer Unterbau unseres KI-Servers „made in Europe“ für die SeaTable Cloud
 
-Um diesen Anspruch einzulösen, setzen wir auf eine durchdachte Infrastruktur. Herzstück ist ein GPU-Server bei Hetzner (GEX44, ab 220 € pro Monat), auf dem das Modell Gemma 4 E4B zum Einsatz kommt. Dieses Modell haben wir bewusst gewählt:
+Um diesen Anspruch einzulösen, setzen wir auf eine durchdachte Infrastruktur. Herzstück ist ein GPU-Server bei Exoscale, auf dem das Modell **Qwen 3.8 27B** zum Einsatz kommt. Dieses Modell haben wir bewusst gewählt:
 
 - Kleinere Modelle lieferten in unseren Tests nicht die benötigte Qualität – sie waren schlicht zu ungenau, vor allem in mehrsprachigen Szenarien oder bei Aufgaben wie OCR.
 - Größere Modelle hätten zwar vielleicht noch mehr Potenzial, erfordern jedoch erheblich leistungsfähigere (und damit teurere) Hardware.
 
-Mit Gemma 4 E4B erreichen wir den idealen Mittelweg: ein leistungsstarkes, etabliertes Modell, das Texte wie auch visuelle Inputs zuverlässig versteht.
+Mit Qwen 3.8 27B erreichen wir den idealen Mittelweg: ein leistungsstarkes Modell, das Texte wie auch visuelle Inputs zuverlässig versteht.
 
 Und die Leistung kann sich sehen lassen:
 
-| Parameter          | Erwarteter Wert auf Hetzner GEX44 mit vLLM & Gemma 4 E4B |
-| ------------------ | -------------------------------------------------------- |
-| Token-Durchsatz    | 1.200-2.000 Tokens/Sekunde                               |
-| Parallele Anfragen | 5-10 gleichzeitig                                        |
-| Antwortzeiten      | ~5 Sekunden                                              |
+| Parameter          | Erwarteter Wert mit vLLM & Qwen 3.8 27B     |
+| ------------------ | --------------------------------------------|
+| Token-Durchsatz    | 1.200-2.000 Tokens/Sekunde                  |
+| Parallele Anfragen | 5-10 gleichzeitig                           |
+| Antwortzeiten      | ~5 Sekunden                                 |
 
 Schnell, effizient und stabil genug, um echten Mehrwert im täglichen Betrieb zu bringen.
 
-Sollte sich zeigen, dass dieser GPU-Server nicht die notwendige Leistungsfähigkeit besitzt, werden wir die Hardware bei Bedarf anpassen.
+Sollte sich zeigen, dass der GPU-Server nicht die notwendige Leistungsfähigkeit besitzt, werden wir die Hardware bei Bedarf anpassen.
 
 ## KI-Automatisierungen in der Praxis
 
@@ -77,9 +77,9 @@ Mit **Version 6.0** stehen die _KI unterstützten Automationen_ allen **Enterpri
 
 Mit **Version 6.1** öffnen wir die Funktionen auch für Free- und Plus-Pläne in kleinerem Umfang. Darüber hinaus werden wir das **Logging erweitern** und die Möglichkeit schaffen, zusätzliche **AI-Credits** direkt über uns zu beziehen, um auch anspruchsvollere Szenarien abzubilden.
 
-## LLM-Freiheit in SeaTable: Von Hetzner-Hosting bis OpenAI und Co.
+## LLM-Freiheit in SeaTable: Von Self-Hosting bis OpenAI und Co.
 
-Ein weiteres zentrales Feature, das wir für kommende Versionen planen, ist die Möglichkeit für Anwender, neben unserem selbst gehosteten LLM (Large Language Model) bei Hetzner auch andere Modelle aus der Cloud zu nutzen. Bei Automationen, die auf öffentlich verfügbare Daten zugreifen – oder bei denen keine Datenschutzbedenken bestehen – können Sie dann frei wählen, ob Sie beispielsweise Gemma, DeepSeek, Mistral, OpenAI oder ähnliche Anbieter verwenden möchten. Unser Ziel ist es, den Anwendern die Entscheidung zu überlassen, welches KI-Modell am besten zu ihrem Anwendungsfall passt.
+Ein weiteres zentrales Feature ist die Möglichkeit für Anwender, neben unserem selbst gehosteten LLM (Large Language Model) bei Exoscale auch andere Modelle zu nutzen. Bei Automationen, die auf öffentlich verfügbare Daten zugreifen – oder bei denen keine Datenschutzbedenken bestehen – können Sie dann frei wählen, ob Sie beispielsweise Gemma, DeepSeek, Mistral, OpenAI oder ähnliche Anbieter verwenden möchten. Unser Ziel ist es, den Anwendern die Entscheidung zu überlassen, welches KI-Modell am besten zu ihrem Anwendungsfall passt und ob sie es in der [Cloud]({{< relref "posts/cloud-computing" >}}) oder [lokal]({{< relref "posts/ki-selbst-hosten" >}}) nutzen möchten.
 
 ## Fazit: Innovation trifft Verantwortung
 

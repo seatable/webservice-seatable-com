@@ -5,6 +5,7 @@ seo:
     title: 'Künstliche Intelligenz nutzen: Definition, Chancen und Risiken'
     description: 'Was bedeutet künstliche Intelligenz heute eigentlich und wie können Sie KI nutzen? Erfahren Sie hier mehr.'
 date: 2026-01-12
+lastmod: 2026-11-24
 url: '/de/ki-kuenstliche-intelligenz'
 categories:
     - 'best-practice'
@@ -215,8 +216,8 @@ Als KI No-Code Plattform erlaubt SeaTable KI-gestützte Automationen, mit denen 
 
 ![KI Features in SeaTable](ki-features-seatable.jpg)
 
-Und zwar ganz ohne Sorgenfalten in Sachen Datenschutz: Neben Gemma 4 unterstützt SeaTable künftig weitere KI-Modelle verschiedener Anbieter, die DSGVO-konform in deutschen Rechenzentren betrieben werden. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.
-  
+Des Weiteren bietet SeaTable ein [KI-Chat-Plugin]({{< relref "posts/ai-in-seatable" >}}), mit dem Sie Ihre Datenbanken in natürlicher Sprache abfragen und bearbeiten können. Und das alles ohne Sorgenfalten in Sachen Datenschutz: Neben externen KI-Modellen verschiedener Anbieter steht in SeaTable auch ein integriertes Open-Weights-Modell zur Verfügung, das DSGVO-konform in deutschen Rechenzentren gehostet wird. Zudem erfolgt der Datenaustausch zwischen [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) und den Sprachmodellen verschlüsselt.
+
 Für die volle Kontrolle können Selbsthoster natürlich auch KI-Modelle in einer eigenen [Infrastruktur]({{< relref "posts/it-infrastruktur" >}}) nutzen. [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), eine Komponente von [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), basiert auf LiteLLM und unterstützt dadurch die Anbindung einer Vielzahl von Modellen mit einer OpenAI-kompatiblen API.
 
 Wenn Sie Ihre [KI selbst hosten]({{< relref "posts/ki-selbst-hosten" >}}), können Sie mithilfe unseres [MCP-Servers]({{< relref "posts/mcp-server" >}}) auch KI-Agenten nutzen, die direkt mit Ihren Daten in SeaTable interagieren, Ihnen Fragen beantworten oder Änderungen vornehmen.

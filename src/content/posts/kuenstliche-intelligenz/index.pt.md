@@ -5,6 +5,7 @@ seo:
     title: 'Inteligência artificial: Definição, oportunidades e riscos'
     description: 'O que significa a inteligência artificial e como pode utilizar a IA? Saiba mais aqui.'
 date: 2026-01-12
+lastmod: 2026-11-24
 url: '/pt/ia-inteligencia-artificial'
 categories:
     - 'best-practice'
@@ -215,8 +216,8 @@ Enquanto plataforma de IA sem código, SeaTable permite automatizações suporta
 
 ![Funções de IA no SeaTable](ki-features-seatable.jpg)
 
-E sem quaisquer linhas de preocupação no que diz respeito à proteção de dados: para além do Gemma 4, o SeaTable suportará no futuro outros modelos de IA de vários fornecedores que são operados em centros de dados alemães em conformidade com o RGPD. Além disso, a troca de dados entre o [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) e os modelos linguísticos é encriptada.
-  
+Além disso, o SeaTable oferece um [plugin de chat com IA]({{< relref "posts/ai-in-seatable" >}}) com o qual pode consultar e editar as suas bases de dados em linguagem natural. E tudo isto sem preocupações no que diz respeito à proteção de dados: para além de modelos de IA externos de vários fornecedores, o SeaTable disponibiliza também um modelo de pesos abertos integrado, alojado em centros de dados alemães em conformidade com o RGPD. A troca de dados entre o [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) e os modelos linguísticos é, ainda, encriptada.
+
 Para um controlo total, os auto-hospedadores também podem, obviamente, utilizar modelos de IA na sua própria [infraestrutura]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), um componente do [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), baseia-se no LiteLLM e, por conseguinte, suporta a ligação de um grande número de modelos com uma API compatível com OpenAI.
 
 Se [alojar a sua IA por conta própria]({{< relref "posts/ki-selbst-hosten" >}}), pode também utilizar, através do nosso [servidor MCP]({{< relref "posts/mcp-server" >}}), agentes de IA que interagem diretamente com os seus dados no SeaTable, respondem às suas perguntas ou efetuam alterações.

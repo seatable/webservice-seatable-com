@@ -50,14 +50,14 @@ SeaTable bietet zwei Wege, KI mit Ihren Daten arbeiten zu lassen. Beide ergänze
 | **Auslöser** | Automatisch (Regel/Ereignis) | Manuell (Ihre Frage) |
 | **Interaktion** | Keine — läuft im Hintergrund | Dialog in natürlicher Sprache |
 | **Typischer Einsatz** | Kategorisieren, Zusammenfassen, Extrahieren | Abfragen, Analysieren, Bearbeiten |
-| **KI-Modell** | SeaTable-eigener KI-Server (EU) | Externer Anbieter (z.B. Anthropic) |
+| **KI-Modell** | SeaTable AI | Externer Anbieter (z. B. Anthropic) |
 | **Datenverarbeitung** | Komplett in der EU | Daten werden an KI-Anbieter übertragen |
 
 Mehr zu KI-Agenten erfahren Sie im Artikel [Was sind KI-Agenten?]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}).
 
 ## Datenschutz: KI made in Europe
 
-Ein wesentlicher Vorteil der KI-Automationen gegenüber externen KI-Diensten: **Ihre Daten verlassen die EU nicht.** SeaTable betreibt einen eigenen KI-Server mit dem Open-Source-Modell Gemma 4 E4B auf GPU-Infrastruktur bei Hetzner in Deutschland.
+Ein wesentlicher Vorteil der KI-Automationen gegenüber externen KI-Diensten: **Ihre Daten verlassen die EU nicht.** SeaTable betreibt einen eigenen KI-Server mit dem Open-Weights-Modell Qwen 3.8 27B auf GPU-Infrastruktur bei Exoscale in Deutschland.
 
 Das bedeutet konkret:
 
@@ -69,7 +69,7 @@ Für Unternehmen, die mit personenbezogenen Daten, vertraulichen Dokumenten oder
 
 ## Verfügbarkeit
 
-KI-Automationen stehen ab SeaTable Version 6.0 zur Verfügung. Enterprise-Kunden können die Funktionen ohne Zusatzkosten nutzen. Für Free- und Plus-Pläne wird ab Version 6.1 ein begrenztes Kontingent verfügbar sein.
+KI-Automationen stehen seit SeaTable Version 6.0 zur Verfügung. Kunden können die Funktionen ohne Zusatzkosten nutzen, das monatliche Kontingent an KI-Credits pro Benutzer ist jedoch begrenzt – je nach Free-, Plus- oder Enterprise-Abo.
 
 ## Nächste Schritte
 

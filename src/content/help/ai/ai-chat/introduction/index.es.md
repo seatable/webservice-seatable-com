@@ -9,7 +9,7 @@ seo:
 star: true
 ---
 
-El plugin de chat con IA (Beta) es una nueva extensión de SeaTable (a partir de la versión 6.1), con la que puede utilizar un chat basado en IA directamente en su base. Haga preguntas en lenguaje natural y la IA responde basándose en sus datos reales. No necesita software externo, ni un asistente de IA separado, ni ninguna configuración técnica. El chat funciona directamente en SeaTable.
+El plugin de chat con IA es una extensión de SeaTable orientada al futuro con la que puede utilizar un chat basado en IA directamente en su base. Haga preguntas en lenguaje natural y la IA responde basándose en sus datos reales. No necesita software externo, ni un asistente de IA separado, ni ninguna configuración técnica. El chat funciona directamente en SeaTable.
 
 **En este vídeo tutorial le mostramos, en solo unos minutos, cómo utilizar el complemento de chat con IA (con subtítulos en español).**
 {{< youtube lihaPreD4J4 >}}
@@ -31,12 +31,14 @@ El chatbot puede tanto **leer** como **escribir** sus datos. De este modo, puede
 
 ## Modelos de IA compatibles
 
-Para el plugin de chat con IA, usted aporta su propia clave API. Puede elegir entre los siguientes proveedores y modelos:
+En SeaTable Cloud, el plugin utiliza de forma predeterminada **SeaTable AI**, que ya está instalada. Se basa en **Qwen 3.8 27B**, un modelo de pesos abiertos con 27 000 millones de parámetros desarrollado por Alibaba. El modelo de IA se aloja en centros de datos alemanes de Exoscale, el mismo proveedor que también facilita los servidores de SeaTable Cloud. Está diseñado para el razonamiento avanzado, la programación, la investigación, el procesamiento de documentos y las tareas complejas de varios pasos, y se publica bajo la licencia Apache 2.0.
+
+Además, puede aportar su propia **clave API** para el plugin de chat con IA y conectar así un **modelo de IA externo en la nube**. Puede elegir entre los siguientes proveedores y modelos:
 
 | Proveedor | Modelos |
 |---|---|
 | **Anthropic (Claude)** | Haiku, Sonnet |
-| **OpenAI** | GPT-4o, GPT-4o mini |
+| **OpenAI** | GPT-6.1 Sol, GPT-6 Luna |
 | **Mistral** | Large, Small |
 
 ## Tres funciones de IA en SeaTable
@@ -45,15 +47,11 @@ SeaTable ofrece tres funciones de IA diferentes, que se distinguen fundamentalme
 
 | | Automatizaciones de IA | Agentes de IA | Plugin de chat con IA |
 |---|---|---|---|
-| **Disponible desde** | Versión 6.0 | Versión 6.0 | Versión 6.1 (Beta) |
+| **Disponible desde** | Versión 6.0 | Versión 6.0 | Versión 6.1 |
 | **Activación** | Automática (regla/evento) | Manual (su pregunta) | Manual (su pregunta) |
 | **Interacción** | Ninguna, se ejecuta en segundo plano | Diálogo en la herramienta de IA externa | Diálogo directamente en SeaTable |
 | **Uso típico** | Categorizar, resumir, extraer | Análisis ad hoc, tareas complejas | Preguntas rápidas, editar datos |
-| **Modelo de IA** | Servidor de IA propio de SeaTable (UE) | Proveedor externo | Proveedor externo (clave API propia) |
+| **Modelo de IA** | Servidor de SeaTable AI (UE) | Proveedor externo | Servidor de SeaTable AI (UE) *o* proveedor externo (clave API propia) |
 | **¿Se necesita software externo?** | No | Sí (p. ej., Claude Desktop, Cursor) | No |
 
-Las [automatizaciones de IA]({{< relref "help/ai/ai-automations/introduction" >}}) son adecuadas para tareas recurrentes que deben ejecutarse en segundo plano basándose en reglas. Los [agentes de IA]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) ofrecen la máxima flexibilidad a través de clientes MCP externos. El **plugin de chat con IA** cierra la brecha entre ambos: uso interactivo de la IA sin software externo, directamente donde se encuentran sus datos.
-
-## Estado Beta
-
-El plugin de chat con IA se encuentra actualmente en fase Beta. El alcance funcional y la interfaz de usuario pueden cambiar en futuras versiones.
+Las [automatizaciones de IA]({{< relref "help/ai/ai-automations/introduction" >}}) son adecuadas para tareas recurrentes que deben ejecutarse en segundo plano basándose en reglas. Los [agentes de IA]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) ofrecen la máxima flexibilidad a través de clientes MCP externos. El **plugin de chat con IA** cierra la brecha entre ambos: uso interactivo de la IA sin software externo – directamente donde se encuentran sus datos.

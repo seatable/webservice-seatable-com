@@ -9,7 +9,7 @@ seo:
 star: true
 ---
 
-Das KI-Chat-Plugin (Beta) ist eine neue Erweiterung in SeaTable (ab Version 6.1), mit der Sie direkt in Ihrer Base einen KI-gestützten Chat nutzen können. Stellen Sie Fragen in natürlicher Sprache, und die KI antwortet auf Basis Ihrer echten Daten. Sie brauchen dafür keine externe Software, keinen separaten KI-Assistenten und keine technische Einrichtung. Der Chat läuft direkt in SeaTable.
+Das KI-Chat-Plugin ist eine zukunftsweisende Erweiterung in SeaTable, mit der Sie direkt in Ihrer Base einen KI-gestützten Chat nutzen können. Stellen Sie Fragen in natürlicher Sprache, und die KI antwortet auf Basis Ihrer echten Daten. Sie brauchen dafür keine externe Software, keinen separaten KI-Assistenten und keine technische Einrichtung. Der Chat läuft direkt in SeaTable.
 
 **In diesem How-to-Video zeigen wir Ihnen in nur wenigen Minuten, wie Sie das KI-Chat-Plugin nutzen.**
 {{< youtube 3O-futjotgU >}}
@@ -22,7 +22,7 @@ Der entscheidende Unterschied zu KI-Agenten: Sie müssen keine externe Anwendung
 
 ## Was kann das KI-Chat-Plugin?
 
-Der Chatbot kann Ihre Daten sowohl **lesen** als auch **schreiben**. Damit können Sie zum Beispiel:
+Der Chatbot kann sowohl Ihre Daten **lesen** als auch **schreiben**. Damit können Sie zum Beispiel:
 
 - **Daten abfragen**: "Welche Projekte haben eine Deadline in den nächsten 7 Tagen?"
 - **Auswertungen erstellen**: "Wie verteilen sich die Supporttickets nach Kategorie?"
@@ -31,12 +31,14 @@ Der Chatbot kann Ihre Daten sowohl **lesen** als auch **schreiben**. Damit könn
 
 ## Unterstützte KI-Modelle
 
-Für das KI-Chat-Plugin bringen Sie Ihren eigenen API-Schlüssel mit. Sie können zwischen folgenden Anbietern und Modellen wählen:
+Bei SeaTable Cloud nutzt das Plugin standardmäßig die bereits installierte **SeaTable AI**. Dahinter verbirgt sich **Qwen 3.8 27B**, ein Open-Weights-Modell mit 27 Milliarden Parametern aus dem Hause Alibaba. Das KI-Modell wird in deutschen Rechenzentren von Exoscale gehostet – demselben Anbieter, der auch die Server von SeaTable Cloud bereitstellt. Es ist auf anspruchsvolles logisches Denken, Programmierung, Recherche, Dokumentenverarbeitung sowie komplexe mehrstufige Aufgaben ausgelegt und steht unter der Apache-2.0-Lizenz.
+
+Darüber hinaus können Sie für das KI-Chat-Plugin Ihren eigenen **API-Schlüssel** mitbringen, um ein **externes Cloud-KI-Modell** anzubinden. Hierbei können Sie zwischen folgenden Anbietern und Modellen wählen:
 
 | Anbieter | Modelle |
 |---|---|
 | **Anthropic (Claude)** | Haiku, Sonnet |
-| **OpenAI** | GPT-4o, GPT-4o mini |
+| **OpenAI** | GPT-6.1 Sol, GPT-6 Luna |
 | **Mistral** | Large, Small |
 
 ## Drei KI-Funktionen in SeaTable
@@ -45,15 +47,11 @@ SeaTable bietet drei verschiedene KI-Funktionen, die sich in ihrer Arbeitsweise 
 
 | | KI-Automationen | KI-Agenten | KI-Chat-Plugin |
 |---|---|---|---|
-| **Verfügbar seit** | Version 6.0 | Version 6.0 | Version 6.1 (Beta) |
+| **Verfügbar seit** | Version 6.0 | Version 6.0 | Version 6.1 |
 | **Auslöser** | Automatisch (Regel/Ereignis) | Manuell (Ihre Frage) | Manuell (Ihre Frage) |
 | **Interaktion** | Keine, läuft im Hintergrund | Dialog im externen KI-Tool | Dialog direkt in SeaTable |
 | **Typischer Einsatz** | Kategorisieren, Zusammenfassen, Extrahieren | Ad-hoc-Analysen, komplexe Aufgaben | Schnelle Fragen, Daten bearbeiten |
-| **KI-Modell** | SeaTable-eigener KI-Server (EU) | Externer Anbieter | Externer Anbieter (eigener API-Key) |
-| **Externe Software nötig?** | Nein | Ja (z.B. Claude Desktop, Cursor) | Nein |
+| **KI-Modell** | SeaTable AI-Server (EU) | Externer Anbieter | SeaTable AI-Server (EU) *oder* externer Anbieter (eigener API-Key) |
+| **Externe Software nötig?** | Nein | Ja (z. B. Claude Desktop, Cursor) | Nein |
 
-[KI-Automationen]({{< relref "help/ai/ai-automations/introduction" >}}) eignen sich für wiederkehrende Aufgaben, die regelbasiert im Hintergrund ablaufen sollen. [KI-Agenten]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) bieten maximale Flexibilität über externe MCP-Clients. Das **KI-Chat-Plugin** schließt die Lücke dazwischen: interaktive KI-Nutzung ohne externe Software, direkt dort, wo Ihre Daten liegen.
-
-## Beta-Status
-
-Das KI-Chat-Plugin befindet sich aktuell in der Beta-Phase. Funktionsumfang und Benutzeroberfläche können sich in kommenden Versionen noch ändern.
+[KI-Automationen]({{< relref "help/ai/ai-automations/introduction" >}}) eignen sich für wiederkehrende Aufgaben, die regelbasiert im Hintergrund ablaufen sollen. [KI-Agenten]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) bieten maximale Flexibilität über externe MCP-Clients. Das **KI-Chat-Plugin** schließt die Lücke dazwischen: interaktive KI-Nutzung ohne externe Software – direkt dort, wo Ihre Daten liegen.

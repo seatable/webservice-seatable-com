@@ -40,7 +40,7 @@ Formulieren Sie Ihre Frage möglichst präzise. Vermeiden Sie vage Formulierunge
 
 ### Zeitüberschreitung oder keine Antwort
 
-Sehr umfangreiche Abfragen können zu einer Zeitüberschreitung führen. Vereinfachen Sie die Anfrage oder beschränken Sie sich auf eine einzelne Tabelle. Beachten Sie auch, dass kleinere Modelle wie Haiku, GPT-4o mini oder Mistral Small bei komplexen, mehrstufigen Aufgaben an ihre Grenzen stoßen können.
+Sehr umfangreiche Abfragen können zu einer Zeitüberschreitung führen. Vereinfachen Sie die Anfrage oder beschränken Sie sich auf eine einzelne Tabelle. Beachten Sie auch, dass kleinere Modelle wie Haiku, GPT-6 Luna oder Mistral Small bei komplexen, mehrstufigen Aufgaben an ihre Grenzen stoßen können.
 
 ## Plugin-Probleme
 

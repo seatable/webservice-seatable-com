@@ -40,7 +40,7 @@ Formule su pregunta de la manera más precisa posible. Evite formulaciones vagas
 
 ### Tiempo de espera agotado o sin respuesta
 
-Las consultas muy extensas pueden provocar un tiempo de espera agotado. Simplifique la solicitud o limítese a una sola tabla. Tenga en cuenta también que los modelos más pequeños como Haiku, GPT-4o mini o Mistral Small pueden alcanzar sus límites en tareas complejas de varios pasos.
+Las consultas muy extensas pueden provocar un tiempo de espera agotado. Simplifique la solicitud o limítese a una sola tabla. Tenga en cuenta también que los modelos más pequeños como Haiku, GPT-6 Luna o Mistral Small pueden alcanzar sus límites en tareas complejas de varios pasos.
 
 ## Problemas con el plugin
 

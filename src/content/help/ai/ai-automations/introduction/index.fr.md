@@ -50,14 +50,14 @@ SeaTable propose deux façons de faire travailler l'IA avec vos données. Les de
 | **Déclencheur** | Automatique (règle/événement) | Manuel (votre question) |
 | **Interaction** | Aucune — s'exécute en arrière-plan | Dialogue en langage naturel |
 | **Utilisation typique** | Catégoriser, résumer, extraire | Interroger, analyser, modifier |
-| **Modèle IA** | Serveur IA propre à SeaTable (UE) | Fournisseur externe (par ex. Anthropic) |
+| **Modèle IA** | SeaTable AI | Fournisseur externe (par ex. Anthropic) |
 | **Traitement des données** | Entièrement dans l'UE | Les données sont transmises au fournisseur d'IA |
 
 Pour en savoir plus sur les agents IA, consultez l'article [Que sont les agents IA ?]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}).
 
 ## Protection des données : IA made in Europe
 
-Un avantage clé des automatisations IA par rapport aux services IA externes : **vos données ne quittent pas l'UE.** SeaTable exploite son propre serveur IA fonctionnant avec le modèle open source Gemma 4 E4B sur une infrastructure GPU chez Hetzner en Allemagne.
+Un avantage clé des automatisations IA par rapport aux services IA externes : **vos données ne quittent pas l'UE.** SeaTable exploite son propre serveur IA fonctionnant avec le modèle open-weights Qwen 3.8 27B sur une infrastructure GPU chez Exoscale en Allemagne.
 
 Concrètement, cela signifie :
 
@@ -69,7 +69,7 @@ Pour les organisations qui travaillent avec des données personnelles, des docum
 
 ## Disponibilité
 
-Les automatisations IA sont disponibles à partir de SeaTable version 6.0. Les clients Enterprise peuvent utiliser les fonctionnalités sans coût supplémentaire. Un quota limité sera disponible pour les plans Free et Plus à partir de la version 6.1.
+Les automatisations IA sont disponibles depuis la version 6.0 de SeaTable. Les clients peuvent utiliser les fonctionnalités sans coût supplémentaire, mais le quota mensuel de crédits IA par utilisateur est limité – en fonction de l'abonnement Free, Plus ou Enterprise.
 
 ## Prochaines étapes
 

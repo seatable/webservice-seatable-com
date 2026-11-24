@@ -40,7 +40,7 @@ Formulate your question as precisely as possible. Avoid vague phrasing and speci
 
 ### Timeout or no response
 
-Very large queries can lead to a timeout. Simplify the request or limit yourself to a single table. Also note that smaller models such as Haiku, GPT-4o mini, or Mistral Small may reach their limits with complex, multi-step tasks.
+Very large queries can lead to a timeout. Simplify the request or limit yourself to a single table. Also note that smaller models such as Haiku, GPT-6 Luna, or Mistral Small may reach their limits with complex, multi-step tasks.
 
 ## Plugin problems
 

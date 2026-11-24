@@ -120,7 +120,7 @@ sections:
       weight: 6
       title: Proteção de dados e automações de IA no SeaTable
       subtitle: Controlo de dados em vez de perda de controlo
-      text: '**As automações de IA do SeaTable não saem da UE.** Para isso, a SeaTable opera o seu próprio servidor de IA com o modelo de código aberto Gemma 4 E4B na Hetzner, em Frankfurt. Os dados não são transmitidos à OpenAI, à Google nem a outros fornecedores norte-americanos. O SeaTable Cloud funciona em centros de dados certificados em Frankfurt e Munique. Somos um **parceiro confiável para empresas com elevados requisitos de proteção de dados e conformidade**, que evitam ferramentas GPT acessíveis ao público e desejam proteger a sua [soberania digital]({{< relref "posts/digitale-souveraenitaet" >}}).'
+      text: '**As automações de IA do SeaTable não saem da UE.** Para isso, a SeaTable opera o seu próprio servidor de IA com o modelo de pesos abertos Qwen 3.8 27B na Exoscale, em Frankfurt. Os dados não são transmitidos à OpenAI, à Google nem a outros fornecedores norte-americanos. O SeaTable Cloud funciona em centros de dados certificados em Frankfurt e Munique. Somos um **parceiro confiável para empresas com elevados requisitos de proteção de dados e conformidade**, que evitam ferramentas GPT acessíveis ao público e desejam proteger a sua [soberania digital]({{< relref "posts/digitale-souveraenitaet" >}}).'
       items:
       - icon: terminal
         headline: Servidor de IA próprio
@@ -161,7 +161,7 @@ sections:
           - q: O que significa automação assistida por IA no SeaTable?
             a: A automação baseada em IA no SeaTable significa que **funções inteligentes como resumo, classificação, extração ou OCR** estão disponíveis diretamente como ações em automações. Em vez de executar prompts individuais em ferramentas externas conectadas aos seus sistemas por meio de fluxos de trabalho em ferramentas como n8n ou make e API, com o SeaTable você cria tudo em um único sistema, garantindo máxima transparência e controlo. Desta forma, pode gerir os seus processos de forma eficiente, criar uma automação de processos baseada em IA e reduzir o trabalho manual e os esforços técnicos – tudo num único sistema.»
           - q: Como funciona a IA integrada do SeaTable?
-            a: A SeaTable hospeda o modelo Gemma 4 E4B em um servidor próprio no centro de dados alemão Hetzner, em Frankfurt. A sua automação de IA transfere os conteúdos relevantes de forma encriptada para o modelo, e a IA grava os resultados de volta na sua base SeaTable de forma estruturada. 
+            a: A SeaTable hospeda o modelo Qwen 3.8 27B em um servidor próprio no centro de dados alemão Exoscale, em Frankfurt. A sua automação de IA transfere os conteúdos relevantes de forma encriptada para o modelo, e a IA grava os resultados de volta na sua base SeaTable de forma estruturada. 
           - q: Podemos utilizar os nossos próprios modelos de IA?
             a: Os clientes do SeaTable Server podem utilizar o [componente SeaTable AI](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) para conectar diferentes LLMs e fornecedores através de uma API compatível com OpenAI para as suas automatizações de IA. É possível escolher entre modelos auto-hospedados ou Cloud-GPTs. Atualmente, os utilizadores do SeaTable Cloud ainda não podem conectar os seus próprios modelos.  
           - q: Os nossos dados estão protegidos em conformidade com o RGPD quando utilizamos IA?

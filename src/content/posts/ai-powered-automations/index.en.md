@@ -2,7 +2,7 @@
 title: 'AI powered automations: The highlight of SeaTable 6.0'
 description: 'With SeaTable 6.0, AI powered automations make their way into the cloud. Benefit from intelligent process automation, full GDPR compliance, and maximum data sovereignty thanks to our own AI server in Germany.'
 date: '2025-09-30'
-lastmod: '2025-10-31'
+lastmod: '2026-11-24'
 url: '/ai-automations-data-privacy'
 seo:
     title: 'AI made in Europe: SeaTable brings secure AI powered automations to the cloud'
@@ -21,7 +21,7 @@ register:
 
 October 1, 2025 marks a special moment for us at SeaTable: the release of version 6.0. And this version is a big step forward. With the new **AI powered automations**, we are opening a whole new chapter – one that will noticeably change everyday work in companies.
 
-Automations have always been a core part of SeaTable. They help standardize recurring processes and simplify workflows. But now we're taking the decisive next step: we're combining our automations with artificial intelligence (AI). Suddenly, processes can be not only _automated_ but also _intelligently_ controlled. Invoices that are automatically entered into tables, emails that are sorted and forwarded based on content, or long texts that are condensed to the essentials in seconds – all of this is now reality with SeaTable.
+Automations have always been a core part of SeaTable. They help standardize recurring processes and simplify workflows. But now we're taking the decisive next step: we're combining our automations with [artificial intelligence]({{< relref "posts/kuenstliche-intelligenz" >}}) (AI). Suddenly, processes can be not only _automated_ but also _intelligently_ controlled. Invoices that are automatically entered into tables, emails that are sorted and forwarded based on content, or long texts that are condensed to the essentials in seconds – all of this is now reality with SeaTable.
 
 ## Why we operate our own AI server
 
@@ -31,30 +31,30 @@ How real these risks are was recently demonstrated by a much-discussed incident 
 
 {{< warning headline="This case highlights" text="Anyone who carelessly feeds company data into external AI services risks massive security and legal problems." />}}
 
-At SeaTable, we wanted to take a different path. A path that gives companies the confidence to rely on modern AI without having to give up their data sovereignty. That’s why we operate our own AI server – in the highly secure data center of Hetzner in Germany. This guarantees: all data stays in Europe, all processes are fully GDPR-compliant.
+At SeaTable, we wanted to take a different path. A path that gives companies the confidence to rely on modern AI without having to give up their [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}). That’s why we operate our own AI server – in the highly secure data center of Exoscale in Germany. This guarantees: all data stays in Europe, all processes are fully **GDPR-compliant**.
 
 For us, this means responsibility. For you, it means increased transparency, data protection, and trust.
 
 ## Technical foundation of our AI server "made in Europe" for SeaTable Cloud
 
-To meet this claim, we rely on a carefully designed infrastructure. The heart of it is a GPU server at Hetzner (GEX44, starting at €220 per month), running the model Gemma 4 E4B. We deliberately chose this model:
+To meet this claim, we rely on a carefully designed infrastructure. The heart of it is a GPU server at Exoscale, running the model **Qwen 3.8 27B**. We deliberately chose this model:
 
 - Smaller models did not deliver the required quality in our tests – they were simply too inaccurate, especially in multilingual scenarios or tasks like OCR.
 - Larger models may have more potential but require significantly more powerful (and thus more expensive) hardware.
 
-With Gemma 4 E4B, we achieve the perfect middle ground: a powerful, established model that reliably understands text as well as visual inputs.
+With Qwen 3.8 27B, we achieve the perfect middle ground: a powerful model that reliably understands text as well as visual inputs.
 
 And the performance is impressive:
 
-| Parameter         | Expected value on Hetzner GEX44 with vLLM & Gemma 4 E4B |
-| ----------------- | ------------------------------------------------------- |
-| Token throughput  | 1,200–2,000 tokens per second                           |
-| Parallel requests | 5–10 simultaneously                                     |
-| Response times    | ~5 seconds                                              |
+| Parameter         | Expected value with vLLM & Qwen 3.8 27B |
+| ----------------- | --------------------------------------- |
+| Token throughput  | 1,200–2,000 tokens per second           |
+| Parallel requests | 5–10 simultaneously                     |
+| Response times    | ~5 seconds                              |
 
 Fast, efficient, and stable enough to provide real added value in daily operations.
 
-If it turns out that this GPU server does not provide the required performance, we will adjust the hardware as needed.
+If it turns out that the GPU server does not provide the required performance, we will adjust the hardware as needed.
 
 ## AI automations in practice
 
@@ -75,9 +75,9 @@ With **version 6.0**, the _AI powered automations_ are available free of charge 
 
 With **version 6.1**, we will open the features to Free and Plus plans in a limited scope. Additionally, we will expand the **logging** and create the option to purchase additional **AI credits** through us to cover more demanding scenarios.
 
-## LLM Freedom in SeaTable: From Hetzner Hosting to OpenAI and Beyond
+## LLM Freedom in SeaTable: From Self-Hosting to OpenAI and Beyond
 
-Another key feature we are planning for upcoming versions is to give users the option to use not only our self-hosted LLM (Large Language Model) at Hetzner but also other models from the cloud. For automations that access publicly available data—or where there are no data protection concerns—you will be able to choose freely whether to use Gemma, DeepSeek, Mistral, OpenAI, or similar providers. Our goal is to give users the freedom to decide which AI model best fits their use case.
+Another key feature is the option for users to use not only our self-hosted LLM (Large Language Model) at Exoscale but also other models. For automations that access publicly available data—or where there are no data protection concerns—you can choose freely whether to use Gemma, DeepSeek, Mistral, OpenAI, or similar providers. Our goal is to give users the freedom to decide which AI model best fits their use case and whether they want to use it in the [cloud]({{< relref "posts/cloud-computing" >}}) or [locally]({{< relref "posts/ki-selbst-hosten" >}}).
 
 ## Conclusion: Innovation meets responsibility
 
