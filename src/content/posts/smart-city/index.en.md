@@ -179,6 +179,10 @@ In a smart city, SeaTable acts as a central database system that links individua
 - **Traffic planning**: Based on traffic data, private motorized transport can be managed with parking fees, [resident parking permits]({{< relref "templates/public-sector/resident-parking-permit" >}}), guidance systems, and alternative mobility services.
 - [Fleet management]({{< relref "templates/operations/fleet-management" >}}): With SeaTable, you can manage your municipal vehicle fleet, e.g. electric cars for car sharing, tow trucks and garbage trucks, or special vehicles such as street sweepers and gritters.
 
+{{< template-box id="1ca3389d903f4fb19fe5" >}}
+
+You can find a more detailed explanation of the smart city template [here]({{< relref "templates/public-sector/smart-city" >}}).
+
 Enjoy the convenience of [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), which stores and processes data exclusively in German data centers, or retain full data sovereignty by installing and operating [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) on your own municipal infrastructure.
 
 ## Conclusion: Putting ideas for the city of the future into practice
