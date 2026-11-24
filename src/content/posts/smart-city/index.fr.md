@@ -179,6 +179,10 @@ Dans la ville intelligente, SeaTable fait office de système de base de données
 - **Planification du trafic** : à partir des données de trafic, il est possible de réguler le transport individuel motorisé grâce aux tarifs de stationnement, aux [cartes de résident]({{< relref "templates/public-sector/resident-parking-permit" >}}), aux systèmes de guidage et aux offres de mobilité alternatives.
 - [Gestion de flotte]({{< relref "templates/operations/fleet-management" >}}) : avec SeaTable, vous pouvez gérer votre parc de véhicules municipaux, p. ex. les voitures électriques en autopartage, les dépanneuses et les camions-poubelles ou les véhicules spéciaux tels que les balayeuses et les saleuses.
 
+{{< template-box id="1ca3389d903f4fb19fe5" >}}
+
+Vous trouverez [ici]({{< relref "templates/public-sector/smart-city" >}}) des explications plus détaillées sur le modèle smart city.
+
 Profitez du confort de [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), qui stocke et traite les données exclusivement dans des centres de données allemands, ou conservez une souveraineté totale sur vos données en installant et en exploitant [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) sur votre propre infrastructure municipale.
 
 ## Conclusion : concrétiser les idées pour la ville de demain

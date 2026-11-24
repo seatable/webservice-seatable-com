@@ -179,6 +179,10 @@ SeaTable fungiert in der Smart City als zentrales Datenbanksystem, das einzelne 
 - **Verkehrsplanung**: Aufgrund von Verkehrsdaten lässt sich der motorisierte Individualverkehr mit Parkgebühren, [Bewohnerparkausweisen]({{< relref "templates/public-sector/resident-parking-permit" >}}), Leitsystemen und alternativen Mobilitätsangeboten steuern.
 - [Fuhrparkmanagement]({{< relref "templates/operations/fleet-management" >}}): Mit SeaTable können Sie Ihren kommunalen Fahrzeugbestand verwalten, z. B. E-Autos für das Carsharing, Abschlepp- und Müllwagen oder Spezialfahrzeuge wie Kehr- und Streumaschinen.
 
+{{< template-box id="1ca3389d903f4fb19fe5" >}}
+
+Genauere Erläuterungen zur Smart City Vorlage finden Sie [hier]({{< relref "templates/public-sector/smart-city" >}}).
+
 Genießen Sie den Komfort der [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), die Daten ausschließlich in deutschen Rechenzentren speichert und verarbeitet, oder behalten Sie die volle Datenhoheit, indem Sie [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) auf Ihrer eigenen kommunalen Infrastruktur installieren und betreiben.
 
 ## Fazit: Ideen für die Stadt der Zukunft umsetzen
