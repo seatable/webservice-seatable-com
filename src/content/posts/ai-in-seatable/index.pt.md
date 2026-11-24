@@ -5,7 +5,7 @@ date: 2026-03-17
 lastmod: '2026-11-24'
 url: '/pt/ia-no-seatable-automacoes-e-chatbot'
 seo:
-    title: 'IA no SeaTable: automações e chatbot para os seus dados'
+    title: "Automatizações e chat de IA: quando usar cada um"
     description: 'O SeaTable oferece duas vias para a IA: automações em conformidade com o RGPD no nosso servidor na Alemanha e um chatbot de IA que compreende os seus dados e responde às suas perguntas.'
 categories:
     - 'low-code-no-code'
