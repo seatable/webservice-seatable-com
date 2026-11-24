@@ -26,7 +26,6 @@ registration:
     submit: 'Jetzt anmelden'
     send: 'Registrierung wird geschickt...'
     success: 'Registrierung erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
-    error: 'Es ist ein Fehler aufgetreten.<br>Bitte versuchen Sie es in einer Minute erneut.'
     unconfirmed: "Die Registrierung konnte nicht bestätigt werden.<br>Bitte prüfen Sie zuerst Ihren E-Mail-Posteingang, bevor Sie es erneut versuchen."
 
 contact:
@@ -86,11 +85,16 @@ contact:
     error: 'Es ist ein Fehler aufgetreten.'
     unconfirmed: "Der Versand konnte nicht bestätigt werden.<br>Ihre Nachricht ist wahrscheinlich trotzdem bei uns angekommen."
 
+form_error:
+    email_rejected: "Diese E-Mail-Adresse wurde nicht akzeptiert. Bitte verwenden Sie eine andere Adresse oder kontaktieren Sie unseren Support."
+    rejected: "Ihre Anfrage wurde nicht akzeptiert. Bitte prüfen Sie Ihre Angaben, insbesondere die E-Mail-Adresse."
+    rate_limited: "Zu viele Anfragen. Bitte versuchen Sie es später erneut."
+    temporary: "Es ist ein vorübergehendes Problem aufgetreten. Bitte versuchen Sie es in einigen Minuten erneut oder kontaktieren Sie unseren Support."
+
 newsletter:
     submit: 'Abonnieren'
     send: 'Die Anmeldung wird gesendet...'
     success: 'Abonnement erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
-    error: 'Es ist ein Fehler aufgetreten.'
     unconfirmed: "Die Anmeldung konnte nicht bestätigt werden.<br>Bitte prüfen Sie zuerst Ihren E-Mail-Posteingang, bevor Sie es erneut versuchen."
 
 support_table:

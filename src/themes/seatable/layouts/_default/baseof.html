@@ -85,6 +85,17 @@
         <!-- formActions -->
         <script>
             /* form actions for registration and contact form */
+            // Translate the HTTP status of a failed form request into a message for the user
+            function formErrorMessage(status, rejectedMessage) {
+                if (status === 400 || status === 403) {
+                    return rejectedMessage;
+                }
+                if (status === 429) {
+                    return '{{ T "form_error.rate_limited" }}';
+                }
+                return '{{ T "form_error.temporary" }}';
+            }
+
             function contactForm() {
                 return {
                     type: '',
@@ -121,6 +132,10 @@
                     submitForm() {
                         this.validateEmail();
 
+                        if (this.errors.email) {
+                            return;
+                        }
+
                         // Validate honeypot field
                         if (this.name.length >= 1) {
                             return;
@@ -128,6 +143,8 @@
 
                         // Disable the button
                         this.isSubmitting = true;
+                        this.errorMessage = '';
+                        const submitText = this.buttonText;
                         this.buttonText = '{{ T "contact.send" }}';
 
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
@@ -160,8 +177,8 @@
                             headers: headers,
                             body: params.toString(),
                         })
-                            .then((response) => response.json())
-                            .then((data) => {
+                            .then((response) => response.json().then((data) => ({ status: response.status, data })))
+                            .then(({ status, data }) => {
                                 console.log(data);
                                 if (data.success) {
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "contact.success" }}';
@@ -169,17 +186,17 @@
                                         posthog.capture('contact_form_submit');
                                     }
                                 } else {
-                                    this.errorMessage = data.error || 'error message'; // Show error message
-                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
+                                    this.errorMessage = formErrorMessage(status, '{{ T "form_error.rejected" }}');
+                                    this.buttonText = submitText;
+                                    this.isSubmitting = false;
                                 }
                             })
                             .catch((error) => {
                                 // Request may have been processed although the response was lost (e.g. "Failed to fetch")
                                 console.error('Error:', error);
-                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.unconfirmed" }}';
-                            })
-                            .finally(() => {
-                                //this.isSubmitting = false; // Enable the button again after completion
+                                this.errorMessage = '{{ T "contact.unconfirmed" }}';
+                                this.buttonText = submitText;
+                                // The button stays disabled on purpose: sending again could create a duplicate ticket
                             });
 
                     },
@@ -220,6 +237,8 @@
 
                         // Disable the button
                         this.isSubmitting = true;
+                        this.errorMessage = '';
+                        const submitText = this.buttonText;
                         this.buttonText = '{{ T "registration.send" }}';
 
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
@@ -239,10 +258,11 @@
                             headers: headers,
                             body: params.toString(),
                         })
-                            .then((response) => response.json())
-                            .then((data) => {
+                            .then((response) => response.json().then((data) => ({ status: response.status, data })))
+                            .then(({ status, data }) => {
                                 console.log(data);
                                 if (data.success) {
+                                    localStorage.removeItem('next'); // Clear the saved 'next' parameter from localStorage
                                     this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
 
                                     if (typeof this.email === 'string' && this.email.trim() !== '') {
@@ -261,18 +281,17 @@
                                             });
                                     }
                                 } else {
-                                    this.errorMessage = data.error || 'error message'; // Show error message
-                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
+                                    this.errorMessage = formErrorMessage(status, '{{ T "form_error.email_rejected" }}');
+                                    this.buttonText = submitText;
+                                    this.isSubmitting = false;
                                 }
                             })
                             .catch((error) => {
                                 // Request may have been processed although the response was lost (e.g. "Failed to fetch")
                                 console.error('Error:', error);
-                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.unconfirmed" }}';
-                            })
-                            .finally(() => {
-                                //this.isSubmitting = false; // Enable the button again after completion
-                                localStorage.removeItem('next'); // Clear the saved 'next' parameter from localStorage
+                                this.errorMessage = '{{ T "registration.unconfirmed" }}';
+                                this.buttonText = submitText;
+                                this.isSubmitting = false;
                             });
                     },
                 };
@@ -313,6 +332,8 @@
 
                         // Disable the button
                         this.isSubmitting = true;
+                        this.errorMessage = '';
+                        const submitText = this.buttonText;
                         this.buttonText = '{{ T "newsletter.send" }}';
 
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
@@ -331,24 +352,26 @@
                             headers: headers,
                             body: params.toString(),
                         })
-                        .then((response) => response.json())
-                        .then((data) => {
+                        .then((response) => response.json().then((data) => ({ status: response.status, data })))
+                        .then(({ status, data }) => {
                             if (data.success) {
                                 this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "newsletter.success" }}';
                                 if (typeof posthog !== 'undefined') {
                                     posthog.capture('newsletter_subscribe');
                                 }
                             } else {
-                                this.errorMessage = data.error || 'error message'; // Show error message
-                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.error" }}'; // Reset button text
+                                this.errorMessage = formErrorMessage(status, '{{ T "form_error.email_rejected" }}');
+                                this.buttonText = submitText;
+                                this.isSubmitting = false;
                             }
                         })
                         .catch((error) => {
                             // Request may have been processed although the response was lost (e.g. "Failed to fetch")
                             console.error('Error:', error);
-                            this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.unconfirmed" }}';
-                        })
-                        .finally(() => {});
+                            this.errorMessage = '{{ T "newsletter.unconfirmed" }}';
+                            this.buttonText = submitText;
+                            this.isSubmitting = false;
+                        });
                     },
                 };
             }

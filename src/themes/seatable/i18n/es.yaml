@@ -26,7 +26,6 @@ registration:
     submit: 'Regístrate ahora'
     send: 'Enviando registro...'
     success: 'Registro exitoso. Revisa tu bandeja de entrada.'
-    error: 'Ha ocurrido un error.<br>Por favor, inténtelo de nuevo en un minuto.'
     unconfirmed: "No se pudo confirmar su registro.<br>Por favor, revise su bandeja de entrada antes de volver a intentarlo."
 
 contact:
@@ -86,11 +85,16 @@ contact:
     error: 'Ha ocurrido un error.'
     unconfirmed: "No se pudo confirmar el envío.<br>Es muy probable que su mensaje nos haya llegado de todos modos."
 
+form_error:
+    email_rejected: "Esta dirección de correo electrónico no ha sido aceptada. Por favor, utilice otra dirección o contacte con nuestro soporte."
+    rejected: "Su solicitud no ha sido aceptada. Por favor, compruebe sus datos, en particular la dirección de correo electrónico."
+    rate_limited: "Demasiadas solicitudes. Por favor, inténtelo de nuevo más tarde."
+    temporary: "Se ha producido un problema temporal. Por favor, inténtelo de nuevo en unos minutos o contacte con nuestro soporte."
+
 newsletter:
     submit: 'Suscribirse'
     send: 'La suscripción se está enviando...'
     success: 'Suscripción exitosa. Revise su bandeja de entrada.'
-    error: 'Ha ocurrido un error.'
     unconfirmed: "No se pudo confirmar su suscripción.<br>Por favor, revise su bandeja de entrada antes de volver a intentarlo."
 
 support_table:

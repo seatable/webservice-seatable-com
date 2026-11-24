@@ -26,7 +26,6 @@ registration:
     submit: 'Sign up now'
     send: 'Registration is being sent...'
     success: 'Registration successful. Check your email inbox.'
-    error: 'An error has occurred.<br>Please try again in a minute.'
     unconfirmed: "Your registration could not be confirmed.<br>Please check your inbox before trying again."
 
 contact:
@@ -86,11 +85,16 @@ contact:
     error: 'An error has occurred.'
     unconfirmed: "Sending could not be confirmed.<br>Your message has most likely reached us anyway."
 
+form_error:
+    email_rejected: "This email address was not accepted. Please use a different address or contact our support."
+    rejected: "Your request was not accepted. Please check your details, especially the email address."
+    rate_limited: "Too many requests. Please try again later."
+    temporary: "A temporary problem occurred. Please try again in a few minutes or contact our support."
+
 newsletter:
     submit: 'Subscribe'
     send: 'Subscription is being sent...'
     success: 'Subscription successful. Check your email inbox.'
-    error: 'An error has occurred.'
     unconfirmed: "Your subscription could not be confirmed.<br>Please check your inbox before trying again."
 
 support_table:

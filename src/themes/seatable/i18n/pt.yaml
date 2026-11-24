@@ -26,7 +26,6 @@ registration:
     submit: 'Inscreva-se agora'
     send: 'Enviando registro...'
     success: 'Registro concluído com sucesso. Verifique sua caixa de entrada.'
-    error: 'Ocorreu um erro.<br>Por favor, tente novamente em um minuto.'
     unconfirmed: "Não foi possível confirmar o seu registo.<br>Por favor, verifique a sua caixa de entrada antes de tentar novamente."
 
 contact:
@@ -86,11 +85,16 @@ contact:
     error: 'Ocorreu um erro.'
     unconfirmed: "Não foi possível confirmar o envio.<br>A sua mensagem provavelmente chegou até nós mesmo assim."
 
+form_error:
+    email_rejected: "Este endereço de e-mail não foi aceite. Por favor, utilize outro endereço ou contacte o nosso suporte."
+    rejected: "O seu pedido não foi aceite. Por favor, verifique os seus dados, em especial o endereço de e-mail."
+    rate_limited: "Demasiados pedidos. Por favor, tente novamente mais tarde."
+    temporary: "Ocorreu um problema temporário. Por favor, tente novamente dentro de alguns minutos ou contacte o nosso suporte."
+
 newsletter:
     submit: 'Inscrever-se'
     send: 'A inscrição está sendo enviada...'
     success: 'Assinatura bem-sucedida. Verifique sua caixa de entrada.'
-    error: 'Ocorreu um erro.'
     unconfirmed: "Não foi possível confirmar a sua inscrição.<br>Por favor, verifique a sua caixa de entrada antes de tentar novamente."
 
 support_table:
