@@ -5,7 +5,7 @@ date: 2026-03-17
 lastmod: '2026-11-24'
 url: '/de/ki-in-seatable-automationen-und-chatbot'
 seo:
-    title: 'KI in SeaTable: Automationen & Chatbot für Ihre Daten'
+    title: 'KI-Automationen und KI-Chat: Wann Sie welchen Weg nutzen'
     description: 'SeaTable bietet zwei Wege für KI: DSGVO-konforme Automationen auf unserem Server in Deutschland und einen KI-Chatbot, der Ihre Daten versteht und auf Fragen antwortet.'
 categories:
     - 'low-code-no-code'

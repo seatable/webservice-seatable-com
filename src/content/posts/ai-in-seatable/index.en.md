@@ -5,7 +5,7 @@ date: 2026-03-17
 lastmod: '2026-11-24'
 url: '/ai-in-seatable-automations-and-chatbot'
 seo:
-    title: 'AI in SeaTable: Automations & Chatbot for Your Data'
+    title: "AI Automations and AI Chat: When to Use Which"
     description: 'SeaTable offers two ways for AI: GDPR-compliant automations on our server in Germany and an AI chatbot that understands your data and answers questions.'
 categories:
     - 'low-code-no-code'

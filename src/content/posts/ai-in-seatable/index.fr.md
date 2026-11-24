@@ -5,7 +5,7 @@ date: 2026-03-17
 lastmod: '2026-11-24'
 url: '/fr/ia-dans-seatable-automations-et-chatbot'
 seo:
-    title: "L'IA dans SeaTable : automations et chatbot pour vos données"
+    title: "Automatisations et chat IA : quelle approche choisir ?"
     description: "SeaTable propose deux voies pour l'IA : des automations conformes au RGPD sur notre serveur en Allemagne et un chatbot IA qui comprend vos données et répond à vos questions."
 categories:
     - 'low-code-no-code'
