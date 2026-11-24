@@ -50,14 +50,14 @@ SeaTable ofrece dos formas de hacer que la IA trabaje con sus datos. Ambas se co
 | **Disparador** | Automático (regla/evento) | Manual (su pregunta) |
 | **Interacción** | Ninguna — se ejecuta en segundo plano | Diálogo en lenguaje natural |
 | **Uso típico** | Categorizar, resumir, extraer | Consultar, analizar, editar |
-| **Modelo de IA** | Servidor de IA propio de SeaTable (UE) | Proveedor externo (p. ej. Anthropic) |
+| **Modelo de IA** | SeaTable AI | Proveedor externo (p. ej. Anthropic) |
 | **Procesamiento de datos** | Completamente dentro de la UE | Los datos se transmiten al proveedor de IA |
 
 Más información sobre los agentes de IA en el artículo [¿Qué son los agentes de IA?]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}).
 
 ## Protección de datos: IA hecha en Europa
 
-Una ventaja clave de las automatizaciones de IA frente a los servicios de IA externos: **sus datos no salen de la UE.** SeaTable opera su propio servidor de IA con el modelo de código abierto Gemma 4 E4B en infraestructura GPU en Hetzner en Alemania.
+Una ventaja clave de las automatizaciones de IA frente a los servicios de IA externos: **sus datos no salen de la UE.** SeaTable opera su propio servidor de IA con el modelo de pesos abiertos Qwen 3.8 27B en infraestructura GPU en Exoscale en Alemania.
 
 En términos concretos, esto significa:
 
@@ -69,7 +69,7 @@ Para organizaciones que trabajan con datos personales, documentos confidenciales
 
 ## Disponibilidad
 
-Las automatizaciones de IA están disponibles a partir de SeaTable versión 6.0. Los clientes Enterprise pueden utilizar las funciones sin coste adicional. Un cuota limitada estará disponible para los planes Free y Plus a partir de la versión 6.1.
+Las automatizaciones de IA están disponibles desde la versión 6.0 de SeaTable. Los clientes pueden utilizar las funciones sin coste adicional, pero la cuota mensual de créditos de IA por usuario es limitada – en función de la suscripción Free, Plus o Enterprise.
 
 ## Próximos pasos
 

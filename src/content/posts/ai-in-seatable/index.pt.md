@@ -2,7 +2,7 @@
 title: 'IA no SeaTable: processamento automático ou perguntar diretamente'
 description: 'O SeaTable oferece duas vias para integrar a IA no seu trabalho: automações que leem faturas, classificam tickets e resumem textos, em conformidade com o RGPD no nosso servidor na Alemanha. E um chatbot de IA que compreende os seus dados e responde a perguntas em linguagem natural.'
 date: 2026-03-17
-lastmod: '2026-03-17'
+lastmod: '2026-11-24'
 url: '/pt/ia-no-seatable-automacoes-e-chatbot'
 seo:
     title: 'IA no SeaTable: automações e chatbot para os seus dados'
@@ -46,17 +46,17 @@ Estão disponíveis quatro funções: **Summarize, OCR, Extract e Classify**. A 
 
 ### Onde são executadas estas automações?
 
-No **nosso próprio servidor de IA na Alemanha**, no centro de dados da Hetzner. Operamos um modelo de linguagem próprio que realiza o processamento. Os seus dados nunca abandonam a nossa infraestrutura europeia.
+No **nosso próprio servidor de IA na Alemanha**, no centro de dados da Exoscale. Operamos um modelo de linguagem próprio que realiza o processamento. Os seus dados nunca abandonam a nossa infraestrutura europeia.
 
-Para organizações que valorizam a conformidade com o RGPD e a soberania dos dados (universidades, instituições de investigação, setor público), isto é decisivo. Nenhum dado é enviado para a OpenAI, Google ou outros fornecedores norte-americanos.
+Para organizações que valorizam a conformidade com o RGPD e a [soberania dos dados]({{< relref "posts/digitale-souveraenitaet" >}}) (universidades, instituições de investigação, setor público), isto é decisivo. Nenhum dado é enviado para a OpenAI, Google ou outros fornecedores norte-americanos.
 
-Os clientes Enterprise recebem créditos de IA incluídos na subscrição.
+Os clientes SeaTable recebem tantos créditos de IA quantos os incluídos na respetiva subscrição.
 
 ## A partir de agora: o chatbot de IA. Converse com os seus dados
 
-As automações são poderosas, mas funcionam segundo regras fixas: uma linha entra, um resultado sai. Mas e se tiver uma pergunta aberta? Se não souber que filtro deve aplicar, ou se precisar de uma análise sobre toda a sua base de dados?
+As automações são poderosas, mas funcionam segundo regras fixas: uma linha entra, um resultado sai. Mas e se tiver uma pergunta aberta? Se não souber que filtro deve aplicar, ou se precisar de uma análise de toda a sua base de dados?
 
-Para isso existe, a partir do SeaTable 6.1, o **plugin de chat de IA** (Beta).
+Para isso existe, a partir do SeaTable 6.1, o **plugin de chat de IA**.
 
 ![AI Chat Plugin SeaTable](images/ai-chat-plugin.png)
 
@@ -80,10 +80,10 @@ Isto diferencia fundamentalmente a nossa abordagem de soluções em que se expor
 
 ### Que modelos são suportados?
 
-O chatbot utiliza modelos de IA potentes, capazes de responder a perguntas complexas e de trabalhar com os seus dados em vários passos. Atualmente suportamos:
+Por predefinição, o plugin utiliza o SeaTable AI – o nosso próprio modelo de IA alojado na Exoscale. Se desejar, pode também ligar modelos de IA externos potentes, capazes de responder a perguntas complexas e de trabalhar com os seus dados em vários passos. Atualmente suportamos:
 
 - **Anthropic Claude** (Haiku e Sonnet)
-- **OpenAI** (GPT-4o e GPT-4o mini)
+- **OpenAI** (GPT-6.1 Sol e GPT-6 Luna)
 - **Mistral** (Mistral Large e Mistral Small)
 
 Utiliza a sua própria chave de API e paga os custos de tokens diretamente ao respetivo fornecedor. Isto é transparente: vê exatamente quanto custa cada interação e mantém o controlo total.
@@ -99,9 +99,9 @@ A resposta: porque tarefas diferentes têm requisitos diferentes.
 | **Tarefa** | Definida: OCR, resumo, classificação | Aberta: perguntas, análises, pesquisa exploratória |
 | **Interação** | Em segundo plano, automática | Diálogo em tempo real |
 | **Dados** | Uma linha como input | Toda a base como fundamento |
-| **Modelo de IA** | O nosso servidor na Alemanha | O seu modelo (Claude, OpenAI ou Mistral) |
-| **Soberania dos dados** | Máxima: os dados permanecem na nossa infraestrutura | O utilizador decide: os dados são enviados para o fornecedor de IA escolhido |
-| **Custos** | Incluídos na subscrição Enterprise | Custos de tokens junto do fornecedor de IA |
+| **Modelo de IA** | O nosso servidor na Alemanha | SeaTable AI ou modelo externo (Claude, OpenAI ou Mistral) |
+| **Soberania dos dados** | Máxima: os dados permanecem na nossa infraestrutura | O utilizador decide para que fornecedor de IA os dados são enviados |
+| **Custos** | Incluídos na respetiva subscrição SeaTable | SeaTable AI ou custos de tokens junto do fornecedor de IA |
 
 Ambas as vias complementam-se. Utilize as automações para tarefas recorrentes que devem funcionar de forma fiável em segundo plano. Utilize o chatbot quando tiver perguntas que não consegue responder com um filtro.
 
@@ -115,21 +115,19 @@ Independentemente da via que escolher: o controlo e a segurança estão em prime
 
 ![Fluxo de dados no chatbot de IA](images/dataflow-ai-agent.png)
 
-E não é só isso: o plugin de chat de IA distingue automaticamente entre operações de leitura e ações destrutivas como eliminações ou atualizações. Antes de os dados serem alterados, o plugin pede a sua confirmação — indicando exatamente o que será alterado e quantas linhas serão afetadas. Pode aprovar uma única vez, autorizar para toda a sessão ou recusar. Também no caso de conjuntos de resultados particularmente grandes, é pedida confirmação antes de a IA processar milhares de linhas.
+E não é só isso: o plugin de chat de IA distingue automaticamente entre operações de leitura e ações destrutivas como eliminações ou atualizações. Antes de os dados serem alterados, o plugin pede a sua confirmação — indicando exatamente o que será alterado e quantas linhas serão afetadas. Pode aprovar uma única vez, autorizar ações semelhantes para toda a sessão ou recusar. Também no caso de conjuntos de resultados particularmente grandes, é pedida confirmação antes de a IA processar milhares de linhas.
 
 ## Como começar
 
 ### Automações de IA
 
-Disponíveis para todos os clientes Enterprise no SeaTable Cloud e para instalações self-hosted a partir da versão 6.0. Crie uma nova automação na sua base, selecione uma função de IA (Summarize, OCR, Extract, Classify ou Custom) e defina a coluna de entrada e de saída. A automação passa a funcionar automaticamente a cada novo registo.
-
-Com o SeaTable 6.1, disponibilizaremos as automações (e, consequentemente, também as automações de IA) em menor escala para os clientes Free e Plus.
+Disponíveis a partir da versão 6.1 para todos os clientes no SeaTable Cloud e para instalações self-hosted. Crie uma nova automação na sua base, selecione uma função de IA (Summarize, OCR, Extract, Classify ou Custom) e defina a coluna de entrada e de saída. A automação passa a funcionar automaticamente a cada novo evento.
 
 Encontrará instruções detalhadas na nossa [área de ajuda]({{< relref "help/ai/ai-automations" >}}).
 
 ### Chatbot de IA
 
-A partir do SeaTable 6.1, pode instalar o plugin de chat de IA (Beta) na sua base. Introduza a sua chave de API (Claude, OpenAI ou Mistral) nas definições do plugin. Faça a sua primeira pergunta. O chatbot reconhece automaticamente a estrutura da sua base e responderá à sua pergunta.
+A partir do SeaTable 6.1, pode também instalar o plugin de chat de IA na sua base. Comece diretamente com o SeaTable AI ou introduza a sua chave de API (Claude, OpenAI ou Mistral) nas definições do plugin. Faça a sua primeira pergunta. O chatbot reconhece automaticamente a estrutura da sua base e responderá à sua pergunta.
 
 ## Perspetivas futuras
 
@@ -139,6 +137,6 @@ Estamos a trabalhar continuamente na expansão das funcionalidades de IA no SeaT
 - **AI Usage Tracking:** Visão transparente do seu consumo de tokens.
 - **Assistente de IA geral:** Um assistente que permite conversar com várias bases em simultâneo.
 
-As possibilidades de integrar a IA no seu trabalho diário crescem rapidamente. Com o SeaTable, tem as ferramentas para tirar partido disso — sem comprometer o controlo sobre os seus dados.
+As possibilidades de integrar a IA no seu trabalho diário crescem rapidamente. Com o SeaTable, tem à mão as ferramentas para tirar partido disso — sem comprometer o controlo sobre os seus dados.
 
 {{< newsletter />}}

@@ -120,7 +120,7 @@ sections:
       weight: 6
       title: Data protection and AI automation at SeaTable
       subtitle: Data control instead of loss of control
-      text: '**With AI automations in SeaTable, your data never leaves the EU.** SeaTable runs its own AI server with the open-source model Gemma 4 E4B at Hetzner in Frankfurt. Your data is not sent to OpenAI, Google or any other US provider. SeaTable Cloud itself runs in certified data centers in Frankfurt and Munich. We are a reliable **partner for companies with high data protection and compliance requirements** that want to avoid publicly accessible GPT tools and protect their [digital sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}).'
+      text: '**With AI automations in SeaTable, your data never leaves the EU.** SeaTable runs its own AI server with the open-weights model Qwen 3.8 27B at Exoscale in Frankfurt. Your data is not sent to OpenAI, Google or any other US provider. SeaTable Cloud itself runs in certified data centers in Frankfurt and Munich. We are a reliable **partner for companies with high data protection and compliance requirements** that want to avoid publicly accessible GPT tools and protect their [digital sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}).'
       items:
       - icon: terminal
         headline: Own AI server
@@ -161,7 +161,7 @@ sections:
           - q: What does AI-supported automation mean at SeaTable?
             a: 'AI-powered automation in SeaTable means that **intelligent functions such as summarization, classification, extraction, and OCR** are available directly as actions in automations. Instead of executing individual prompts in external tools that are connected to your systems via workflows in tools such as n8n or make and API, SeaTable lets you create everything in one system, ensuring maximum transparency and control. This allows you to manage your processes efficiently, design lean AI-based process automation, and reduce manual work and technical effort—all in one system.'
           - q: How does the integrated SeaTable AI work?
-            a: SeaTable hosts the model Gemma 4 E4B on its own server in the German Hetzner data center in Frankfurt. Your AI automation transfers the relevant content to the model in encrypted form, and the AI writes the results back to your SeaTable base in a structured format. 
+            a: SeaTable hosts the model Qwen 3.8 27B on its own server in the German Exoscale data center in Frankfurt. Your AI automation transfers the relevant content to the model in encrypted form, and the AI writes the results back to your SeaTable base in a structured format. 
           - q: Can we use our own AI models?
             a: SeaTable Server customers can use the [SeaTable AI component](https://admin.seatable.com/installation/advanced/seatable-ai-standalone/) to connect different LLMs and providers via an OpenAI-compatible API for their AI automations. You can choose between self-hosted models or cloud GPTs. SeaTable Cloud users are currently unable to connect their own models.  
           - q: Is our data protected in accordance with the GDPR when using AI?

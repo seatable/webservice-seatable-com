@@ -10,41 +10,42 @@ seo:
 
 Com o plugin de chat IA, pode conversar diretamente com os seus dados no SeaTable. Este guia mostra-lhe como instalar o plugin, introduzir uma chave API e iniciar a sua primeira conversa. Para uma visão geral do plugin, consulte o [artigo de introdução]({{< relref "help/ai/ai-chat/introduction" >}}).
 
-{{< warning headline="Versão beta" text="O plugin de chat IA está disponível como versão beta desde o SeaTable 6.1. As funcionalidades e a interface ainda podem ser alteradas." />}}
-
 ## Pré-requisitos
 
 - Uma conta SeaTable com acesso a pelo menos uma base
-- Uma **chave API** de um dos fornecedores de IA suportados:
+- Se não pretender utilizar o SeaTable AI, que já se encontra instalado, necessita de uma **chave API** de um dos fornecedores de IA suportados:
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
   - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Passo 1: Instalar o plugin na sua base
 
-1. Abra a base onde pretende utilizar o plugin de chat IA.
+1. Abra a **base** onde pretende utilizar o plugin de chat IA.
 2. Clique em **Plugins** no cabeçalho da base.
 3. Procure por **AI Chat** no Gestor de Plugins e clique em **Adicionar**.
 
-O plugin aparece agora na sua barra de plugins e pode ser aberto a qualquer momento.
+O plugin aparece agora na sua **barra lateral de plugins** e pode ser aberto a qualquer momento.
+
+4. Passe o cursor do rato sobre o plugin e clique nos **três pontos** que aparecem.
+5. Agora pode **adicionar o plugin à barra de ferramentas** para o ter sempre à mão.
 
 ![O plugin de chat IA instalado no cabeçalho da base](images/ai-chat-plugin-installed.png)
 
-## Passo 2: Selecionar um modelo de IA e introduzir a chave API
+## Passo 2: Selecionar um modelo de IA e, se necessário, introduzir a chave API
 
 1. Abra o plugin de chat IA.
-2. Selecione o modelo pretendido de um dos três fornecedores de IA (Anthropic, OpenAI ou Mistral). Modelos mais potentes geralmente apresentam melhores resultados, mas implicam custos mais elevados por pedido.
-3. Introduza a sua **chave API** no campo designado.
+2. Selecione o modelo pretendido – o **SeaTable AI**, que já se encontra instalado, ou um modelo de um dos três fornecedores de IA **Anthropic**, **OpenAI** ou **Mistral**. Os modelos mais potentes geralmente apresentam melhores resultados, mas implicam custos mais elevados por pedido.
+3. Se utilizar um modelo externo: introduza a sua **chave API** no campo designado.
 
 ![Selecionar modelo de IA e introduzir chave API](images/ai-model-and-api-key.png)
 
-{{< warning headline="Nota" text="Durante a fase beta, a chave API é armazenada na base. Todos os utilizadores da base partilham a mesma chave API. No entanto, o histórico de conversas é individual e não é partilhado entre utilizadores." />}}
+{{< warning headline="Nota" text="A chave API é armazenada na base. Todos os utilizadores da base partilham a mesma chave API. No entanto, o histórico de conversas é individual e não é partilhado entre utilizadores." />}}
 
 ## Passo 3: Iniciar a sua primeira conversa
 
-Introduza a sua primeira pergunta no campo de entrada e prima **Enter**.
+Introduza a sua primeira pergunta no campo de entrada e prima **Enter**. O plugin analisa a estrutura e os dados da sua base e responde à sua pergunta na janela de chat.
 
-O plugin analisa a estrutura e os dados da sua base e responde à sua pergunta na janela de chat.
+![O chat IA em ação](images/ai-chat-plugin-at-work.gif)
 
 ## Dicas para começar
 

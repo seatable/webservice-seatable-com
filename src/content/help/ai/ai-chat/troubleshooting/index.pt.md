@@ -40,7 +40,7 @@ Formule a sua pergunta da forma mais precisa possível. Evite formulações vaga
 
 ### Timeout ou sem resposta
 
-Consultas muito grandes podem originar um timeout. Simplifique o pedido ou limite-se a uma única tabela. Note também que modelos mais pequenos como Haiku, GPT-4o mini ou Mistral Small podem atingir os seus limites com tarefas complexas e de várias etapas.
+Consultas muito grandes podem originar um timeout. Simplifique o pedido ou limite-se a uma única tabela. Note também que modelos mais pequenos como Haiku, GPT-6 Luna ou Mistral Small podem atingir os seus limites com tarefas complexas e de várias etapas.
 
 ## Problemas com o plugin
 

@@ -2,7 +2,7 @@
 title: 'AI in SeaTable: Automate Processing or Ask Directly'
 description: 'SeaTable offers two ways to integrate AI into your work: automations that read invoices, sort tickets, and summarize texts, GDPR-compliant on our server in Germany. And an AI chatbot that understands your data and answers questions in natural language.'
 date: 2026-03-17
-lastmod: '2026-03-17'
+lastmod: '2026-11-24'
 url: '/ai-in-seatable-automations-and-chatbot'
 seo:
     title: 'AI in SeaTable: Automations & Chatbot for Your Data'
@@ -46,17 +46,17 @@ Four functions are available: **Summarize, OCR, Extract, and Classify**. In addi
 
 ### Where Do These Automations Run?
 
-On **our own AI server in Germany**, in the Hetzner data center. We operate our own language model that handles the processing. Your data never leaves our European infrastructure at any point.
+On **our own AI server in Germany**, in the Exoscale data center. We operate our own language model that handles the processing. Your data never leaves our European infrastructure at any point.
 
-For organizations that value GDPR compliance and data sovereignty (universities, research institutions, the public sector), this is decisive. No data flows to OpenAI, Google, or other US providers.
+For organizations that value GDPR compliance and [data sovereignty]({{< relref "posts/digitale-souveraenitaet" >}}) (universities, research institutions, the public sector), this is decisive. No data flows to OpenAI, Google, or other US providers.
 
-Enterprise customers receive AI credits included in their subscription.
+SeaTable customers receive the number of AI credits included in their respective subscription.
 
 ## Starting Now: The AI Chatbot. Talk to Your Data
 
-The automations are powerful, but they work according to fixed rules: one row in, one result out. But what if you have an open-ended question? What if you do not know which filter to set, or you need an analysis across your entire dataset?
+The automations are powerful, but they work according to fixed rules: one row in, one result out. But what if you have an open-ended question? What if you do not know which filter to set, or you need an analysis of your entire dataset?
 
-That is what the **AI Chat Plugin** (Beta) is for, available from SeaTable 6.1.
+That is what the **AI Chat Plugin** is for, available from SeaTable 6.1.
 
 ![AI Chat Plugin SeaTable](images/ai-chat-plugin.png)
 
@@ -80,10 +80,10 @@ This fundamentally distinguishes our approach from solutions where you export da
 
 ### Which Models Are Supported?
 
-The chatbot uses powerful AI models that can answer complex questions and work with your data in multiple steps. Currently we support:
+By default, the plugin uses SeaTable AI – our own AI model hosted at Exoscale. If you prefer, you can also connect powerful external AI models that can answer complex questions and work with your data in multiple steps. Currently we support:
 
 - **Anthropic Claude** (Haiku and Sonnet)
-- **OpenAI** (GPT-4o and GPT-4o mini)
+- **OpenAI** (GPT-6.1 Sol and GPT-6 Luna)
 - **Mistral** (Mistral Large and Mistral Small)
 
 You bring your own API key and pay the token costs directly to the respective provider. This is transparent: you see exactly what each interaction costs and retain full control.
@@ -99,9 +99,9 @@ The answer: because different tasks have different requirements.
 | **Task** | Defined: OCR, summarization, classification | Open-ended: questions, analyses, exploratory search |
 | **Interaction** | In the background, automatic | Real-time dialog |
 | **Data** | One row as input | Entire base as foundation |
-| **AI Model** | Our server in Germany | Your model (Claude, OpenAI, or Mistral) |
-| **Data Sovereignty** | Maximum: data stays on our infrastructure | You decide: data goes to the AI provider you choose |
-| **Cost** | Included in Enterprise subscription | Token costs with the AI provider |
+| **AI Model** | Our server in Germany | SeaTable AI or external model (Claude, OpenAI, or Mistral) |
+| **Data Sovereignty** | Maximum: data stays on our infrastructure | You decide which AI provider your data goes to |
+| **Cost** | Included in the respective SeaTable subscription | SeaTable AI or token costs with the AI provider |
 
 Both approaches complement each other. Use automations for recurring tasks that should run reliably in the background. Use the chatbot when you have questions that cannot be answered with a filter.
 
@@ -115,21 +115,19 @@ Regardless of which approach you choose: control and security come first.
 
 ![Data flow in the AI chatbot](images/dataflow-ai-agent.png)
 
-And there is more: the AI Chat Plugin automatically distinguishes between read operations and destructive actions such as deletions or updates. Before data is changed, the plugin asks for your confirmation — what exactly will be changed and how many rows are affected. You can approve once, allow for the entire session, or decline. For particularly large result sets, the plugin also asks before the AI processes thousands of rows.
+And there is more: the AI Chat Plugin automatically distinguishes between read operations and destructive actions such as deletions or updates. Before data is changed, the plugin asks for your confirmation — what exactly will be changed and how many rows are affected. You can approve once, allow similar actions for the entire session, or decline. For particularly large result sets, the plugin also asks before the AI processes thousands of rows.
 
 ## How to Get Started
 
 ### AI Automations
 
-Available for all Enterprise customers on SeaTable Cloud and for self-hosters from version 6.0. Create a new automation in your base, select an AI function (Summarize, OCR, Extract, Classify, or Custom), and define the input and output columns. The automation runs immediately for every new entry.
-
-With SeaTable 6.1, we will make automations (including AI automations) available on a limited basis to Free and Plus customers as well.
+Available from version 6.1 for all customers on SeaTable Cloud and for self-hosters. Create a new automation in your base, select an AI function (Summarize, OCR, Extract, Classify, or Custom), and define the input and output columns. The automation runs immediately for every new event.
 
 You can find detailed instructions in our [help section]({{< relref "help/ai/ai-automations" >}}).
 
 ### AI Chatbot
 
-From SeaTable 6.1, you can install the AI Chat Plugin (Beta) in your base. Enter your API key (Claude, OpenAI, or Mistral) in the plugin settings. Ask your first question. The chatbot automatically recognizes the structure of your base and will answer your question.
+From SeaTable 6.1, you can also install the AI Chat Plugin in your base. Start right away with SeaTable AI or enter your API key (Claude, OpenAI, or Mistral) in the plugin settings. Ask your first question. The chatbot automatically recognizes the structure of your base and will answer your question.
 
 ## Outlook
 
@@ -139,6 +137,6 @@ We are continuously working on expanding the AI capabilities in SeaTable:
 - **AI Usage Tracking:** A transparent overview of your token consumption.
 - **General AI Assistant:** An assistant that lets you interact with multiple bases at once.
 
-The possibilities for integrating AI into your daily work are growing rapidly. With SeaTable, you have the tools to benefit from them — without compromising on the control over your data.
+The possibilities for integrating AI into your daily work are growing rapidly. With SeaTable, you have the tools at hand to benefit from them — without compromising on the control over your data.
 
 {{< newsletter />}}

@@ -9,7 +9,7 @@ seo:
 star: true
 ---
 
-Le plugin de chat IA (bêta) est une nouvelle extension de SeaTable (à partir de la version 6.1) qui vous permet d'utiliser un chat assisté par IA directement dans votre base. Posez des questions en langage naturel et l'IA répond sur la base de vos données réelles. Vous n'avez besoin d'aucun logiciel externe, d'aucun assistant IA séparé et d'aucune configuration technique. Le chat fonctionne directement dans SeaTable.
+Le plugin de chat IA est une extension de SeaTable tournée vers l'avenir qui vous permet d'utiliser un chat assisté par IA directement dans votre base. Posez des questions en langage naturel et l'IA répond sur la base de vos données réelles. Vous n'avez besoin d'aucun logiciel externe, d'aucun assistant IA séparé et d'aucune configuration technique. Le chat fonctionne directement dans SeaTable.
 
 **Dans cette vidéo explicative, nous vous montrons en quelques minutes seulement comment utiliser le plugin de chat IA (avec sous-titres en français).**
 {{< youtube lihaPreD4J4 >}}
@@ -31,12 +31,14 @@ Le chatbot peut aussi bien **lire** que **modifier** vos données. Vous pouvez p
 
 ## Modèles IA pris en charge
 
-Pour le plugin de chat IA, vous apportez votre propre clé API. Vous pouvez choisir parmi les fournisseurs et modèles suivants :
+Sur SeaTable Cloud, le plugin utilise par défaut **SeaTable AI**, qui est déjà installée. Elle repose sur **Qwen 3.8 27B**, un modèle open-weights de 27 milliards de paramètres développé par Alibaba. Le modèle d'IA est hébergé dans des centres de données allemands d'Exoscale – le même fournisseur qui met également à disposition les serveurs de SeaTable Cloud. Il est conçu pour le raisonnement avancé, la programmation, la recherche, le traitement de documents et les tâches complexes en plusieurs étapes, et il est publié sous licence Apache 2.0.
+
+Vous pouvez en outre apporter votre propre **clé API** pour le plugin de chat IA afin de connecter un **modèle d'IA cloud externe**. Vous pouvez choisir parmi les fournisseurs et modèles suivants :
 
 | Fournisseur | Modèles |
 |---|---|
 | **Anthropic (Claude)** | Haiku, Sonnet |
-| **OpenAI** | GPT-4o, GPT-4o mini |
+| **OpenAI** | GPT-6.1 Sol, GPT-6 Luna |
 | **Mistral** | Large, Small |
 
 ## Trois fonctions IA dans SeaTable
@@ -45,15 +47,11 @@ SeaTable propose trois fonctions IA différentes qui se distinguent fondamentale
 
 | | Automatisations IA | Agents IA | Plugin de chat IA |
 |---|---|---|---|
-| **Disponible depuis** | Version 6.0 | Version 6.0 | Version 6.1 (bêta) |
+| **Disponible depuis** | Version 6.0 | Version 6.0 | Version 6.1 |
 | **Déclencheur** | Automatique (règle/événement) | Manuel (votre question) | Manuel (votre question) |
 | **Interaction** | Aucune, fonctionne en arrière-plan | Dialogue dans l'outil IA externe | Dialogue directement dans SeaTable |
 | **Utilisation typique** | Catégoriser, résumer, extraire | Analyses ad hoc, tâches complexes | Questions rapides, modifier des données |
-| **Modèle IA** | Serveur IA propre à SeaTable (UE) | Fournisseur externe | Fournisseur externe (clé API propre) |
+| **Modèle IA** | Serveur SeaTable AI (UE) | Fournisseur externe | Serveur SeaTable AI (UE) *ou* fournisseur externe (clé API propre) |
 | **Logiciel externe nécessaire ?** | Non | Oui (p. ex. Claude Desktop, Cursor) | Non |
 
-Les [automatisations IA]({{< relref "help/ai/ai-automations/introduction" >}}) conviennent aux tâches récurrentes qui doivent s'exécuter en arrière-plan selon des règles. Les [agents IA]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) offrent une flexibilité maximale via des clients MCP externes. Le **plugin de chat IA** comble l'écart entre les deux : une utilisation interactive de l'IA sans logiciel externe, directement là où se trouvent vos données.
-
-## Statut bêta
-
-Le plugin de chat IA est actuellement en phase bêta. Les fonctionnalités et l'interface utilisateur peuvent encore évoluer dans les versions à venir.
+Les [automatisations IA]({{< relref "help/ai/ai-automations/introduction" >}}) conviennent aux tâches récurrentes qui doivent s'exécuter en arrière-plan selon des règles. Les [agents IA]({{< relref "help/ai/ai-agents/what-are-ai-agents" >}}) offrent une flexibilité maximale via des clients MCP externes. Le **plugin de chat IA** comble l'écart entre les deux : une utilisation interactive de l'IA sans logiciel externe – directement là où se trouvent vos données.

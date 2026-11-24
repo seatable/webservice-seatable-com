@@ -10,41 +10,42 @@ seo:
 
 Mit dem KI-Chat-Plugin können Sie direkt in SeaTable mit Ihren Daten chatten. In dieser Anleitung erfahren Sie, wie Sie das Plugin installieren, einen API-Key hinterlegen und Ihre erste Konversation starten. Einen allgemeinen Überblick über das Plugin finden Sie im [Einführungsartikel]({{< relref "help/ai/ai-chat/introduction" >}}).
 
-{{< warning headline="Beta-Version" text="Das KI-Chat-Plugin ist seit SeaTable 6.1 als Beta-Version verfügbar. Funktionsumfang und Oberfläche können sich noch ändern." />}}
-
 ## Voraussetzungen
 
 - Ein SeaTable-Konto mit Zugriff auf mindestens eine Base
-- Ein **API-Key** von einem der unterstützten KI-Anbieter:
+- Wenn Sie die bereits installierte SeaTable AI nicht nutzen möchten, benötigen Sie einen **API-Key** von einem der unterstützten KI-Anbieter:
   - [Anthropic](https://console.anthropic.com/) (Claude)
   - [OpenAI](https://platform.openai.com/) (GPT)
   - [Mistral](https://v2.auth.mistral.ai/login) (Mistral)
 
 ## Schritt 1: Plugin in Ihrer Base installieren
 
-1. Öffnen Sie die Base, in der Sie das KI-Chat-Plugin nutzen möchten.
+1. Öffnen Sie die **Base**, in der Sie das KI-Chat-Plugin nutzen möchten.
 2. Klicken Sie im Base-Header auf **Plugins**.
 3. Suchen Sie im Plugin-Manager nach **AI Chat** und klicken Sie auf **Hinzufügen**.
 
-Das Plugin erscheint nun in Ihrer Plugin-Leiste und kann jederzeit geöffnet werden.
+Das Plugin erscheint nun in Ihrer **Plugin-Seitenleiste** und kann jederzeit geöffnet werden.
+
+4. Fahren Sie mit dem Mauszeiger über das Plugin und klicken Sie auf die erscheinenden **drei Punkte**. 
+5. Nun können Sie das Plugin **der Toolbar hinzufügen**, um es immer griffbereit zu haben.
 
 ![Das installierte AI Chat Plugin im Base Header](images/ai-chat-plugin-installed.png)
 
-## Schritt 2: KI-Modell auswählen und API-Key hinterlegen
+## Schritt 2: KI-Modell auswählen und evtl. API-Key hinterlegen
 
-1. Öffnen Sie das KI-Chat-Plugin
-2. Wählen Sie das gewünschte Modell von einem der drei KI-Anbieter aus (Anthropic, OpenAI oder Mistral). Leistungsstärkere Modelle liefern in der Regel bessere Ergebnisse, verursachen aber höhere Kosten pro Anfrage.
-3. Tragen Sie Ihren **API-Key** in das vorgesehene Feld ein.
+1. Öffnen Sie das KI-Chat-Plugin.
+2. Wählen Sie das gewünschte Modell – entweder die bereits installierte **SeaTable AI** oder ein Modell der drei KI-Anbieter **Anthropic**, **OpenAI** oder **Mistral**. Die leistungsstärkeren Modelle liefern in der Regel bessere Ergebnisse, verursachen aber höhere Kosten pro Anfrage.
+3. Wenn Sie ein externes Modell nutzen: Tragen Sie Ihren **API-Key** in das vorgesehene Feld ein.
 
 ![KI-Modell auswählen und API-Key eintragen](images/ai-model-and-api-key.png)
 
-{{< warning headline="Hinweis" text="Der API-Key wird während der Beta in der Base gespeichert. Alle Nutzer der Base teilen sich den gleichen API-Key. Der Chatverlauf ist jedoch individuell und wird nicht zwischen den Anwendern geteilt." />}}
+{{< warning headline="Hinweis" text="Der API-Key wird in der Base gespeichert. Alle Nutzer der Base teilen sich den gleichen API-Key. Der Chatverlauf ist jedoch individuell und wird nicht zwischen den Anwendern geteilt." />}}
 
 ## Schritt 3: Erste Konversation starten
 
-Geben Sie Ihre erste Frage in das Eingabefeld ein und drücken Sie **Enter**.
+Geben Sie Ihre erste Frage in das Eingabefeld ein und drücken Sie **Enter**. Das Plugin analysiert die Struktur und die Daten Ihrer Base und beantwortet Ihre Frage im Chat-Fenster.
 
-Das Plugin analysiert die Struktur und die Daten Ihrer Base und beantwortet Ihre Frage im Chat-Fenster.
+![KI-Chat in Aktion](images/ai-chat-plugin-at-work.gif)
 
 ## Tipps für den Einstieg
 

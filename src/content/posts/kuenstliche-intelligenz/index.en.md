@@ -5,6 +5,7 @@ seo:
     title: 'Artificial intelligence: definition, use, opportunities and risks'
     description: 'What does artificial intelligence actually mean and how can you use AI? Find out more here.'
 date: 2026-01-12
+lastmod: 2026-11-24
 url: '/ai-artificial-intelligence'
 categories:
     - 'best-practice'
@@ -215,8 +216,8 @@ As an AI no-code platform, SeaTable enables AI-supported automations with which 
 
 ![AI Features in SeaTable](ki-features-seatable.jpg)
 
-And without any worry lines when it comes to data protection: In addition to Gemma 4, SeaTable will in future support other AI models from various providers that are operated in German data centers in compliance with the GDPR. The data exchange between [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and the language models is encrypted.
-  
+SeaTable also offers an [AI chat plugin]({{< relref "posts/ai-in-seatable" >}}) that lets you query and edit your databases in natural language. And all this without any worries about data protection: In addition to external AI models from various providers, SeaTable also includes an integrated open-weights model that is hosted in German data centers in compliance with the GDPR. Furthermore, the data exchange between [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) and the language models is encrypted.
+
 For full control, self-hosters can of course also use AI models in their own [infrastructure]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), a component of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), is based on LiteLLM and thus supports the connection of a large number of models with an OpenAI-compatible API.
 
 If you [self-host your AI]({{< relref "posts/ki-selbst-hosten" >}}), you can also use our [MCP server]({{< relref "posts/mcp-server" >}}) to run AI agents that interact directly with your data in SeaTable, answer your questions, or make changes.

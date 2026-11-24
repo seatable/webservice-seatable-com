@@ -2,7 +2,7 @@
 title: 'Automatizações com IA: O destaque do SeaTable 6.0'
 description: 'Com o SeaTable 6.0, as automatizações com IA chegam à nuvem. Beneficie de uma automação inteligente de processos, total conformidade com o RGPD e máxima soberania de dados graças ao nosso próprio servidor de IA na Alemanha.'
 date: '2025-09-30'
-lastmod: '2025-10-31'
+lastmod: '2026-11-24'
 url: '/pt/automatizacoes-ia-protecao-dados'
 seo:
     title: 'SeaTable 6.0 – Automação segura com IA feita na Europa'
@@ -21,7 +21,7 @@ register:
 
 1 de outubro de 2025 marca um momento especial para nós na SeaTable: o lançamento da versão 6.0. E esta versão representa um grande avanço. Com as novas **automatizações impulsionadas por IA**, abrimos um novo capítulo – um que mudará visivelmente o trabalho diário nas empresas.
 
-As automatizações sempre foram uma parte essencial da SeaTable. Ajudam a padronizar processos recorrentes e a simplificar fluxos de trabalho. Mas agora damos o passo decisivo: combinamos as nossas automatizações com inteligência artificial (IA). De repente, os processos podem não só ser _automatizados_, mas também _controlados inteligentemente_. Faturas que são registadas automaticamente nas tabelas, e-mails que são classificadas e encaminhadas com base no conteúdo, ou textos longos que são resumidos em segundos – tudo isto é agora uma realidade com a SeaTable.
+As automatizações sempre foram uma parte essencial da SeaTable. Ajudam a padronizar processos recorrentes e a simplificar fluxos de trabalho. Mas agora damos o passo decisivo: combinamos as nossas automatizações com [inteligência artificial]({{< relref "posts/kuenstliche-intelligenz" >}}) (IA). De repente, os processos podem não só ser _automatizados_, mas também _controlados inteligentemente_. Faturas que são registadas automaticamente nas tabelas, e-mails que são classificadas e encaminhadas com base no conteúdo, ou textos longos que são resumidos em segundos – tudo isto é agora uma realidade com a SeaTable.
 
 ## Porque operamos o nosso próprio servidor de IA
 
@@ -31,30 +31,30 @@ A gravidade desses riscos foi demonstrada recentemente por um incidente amplamen
 
 {{< warning headline="Este caso demonstra" text="Quem insere dados de empresa em serviços de IA externos de forma descuidada arrisca-se a enfrentar sérios problemas de segurança e legais." />}}
 
-Na SeaTable, quisemos seguir um caminho diferente. Um caminho que dê às empresas a confiança de poderem depender de uma IA moderna sem abdicarem da sua soberania sobre os dados. É por isso que operamos o nosso próprio servidor de IA – no centro de dados altamente seguro da Hetzner, na Alemanha. Isto garante: todos os dados permanecem na Europa e todos os processos cumprem integralmente o RGPD.
+Na SeaTable, quisemos seguir um caminho diferente. Um caminho que dê às empresas a confiança de poderem depender de uma IA moderna sem abdicarem da sua [soberania sobre os dados]({{< relref "posts/digitale-souveraenitaet" >}}). É por isso que operamos o nosso próprio servidor de IA – no centro de dados altamente seguro da Exoscale, na Alemanha. Isto garante: todos os dados permanecem na Europa e todos os processos **cumprem integralmente o RGPD**.
 
 Para nós, isto significa responsabilidade. Para si, significa mais transparência, proteção de dados e confiança.
 
 ## Base técnica do nosso servidor de IA “made in Europe” para a SeaTable Cloud
 
-Para cumprir este objetivo, baseamo-nos numa infraestrutura cuidadosamente projetada. O coração é um servidor GPU da Hetzner (GEX44, a partir de 220 € por mês), que executa o modelo Gemma 4 E4B. Escolhemos este modelo deliberadamente:
+Para cumprir este objetivo, baseamo-nos numa infraestrutura cuidadosamente projetada. O coração é um servidor GPU na Exoscale, que executa o modelo **Qwen 3.8 27B**. Escolhemos este modelo deliberadamente:
 
 - Modelos mais pequenos não ofereceram a qualidade exigida nos nossos testes – eram simplesmente demasiado imprecisos, especialmente em cenários multilingues ou tarefas como OCR.
 - Modelos maiores podem ter mais potencial, mas necessitam de hardware muito mais potente (e, consequentemente, mais dispendioso).
 
-Com o Gemma 4 E4B, alcançamos o equilíbrio ideal: um modelo poderoso e estável que compreende de forma fiável texto e também conteúdo visual.
+Com o Qwen 3.8 27B, alcançamos o equilíbrio ideal: um modelo poderoso que compreende de forma fiável texto e também conteúdo visual.
 
 E o desempenho é impressionante:
 
-| Parâmetro         | Valor esperado no Hetzner GEX44 com vLLM & Gemma 4 E4B |
-| ----------------- | ------------------------------------------------------ |
-| Vazão de tokens   | 1.200–2.000 tokens por segundo                         |
-| Pedidos paralelos | 5–10 em simultâneo                                     |
-| Tempo de resposta | ~5 segundos                                            |
+| Parâmetro         | Valor esperado com vLLM & Qwen 3.8 27B |
+| ----------------- | -------------------------------------- |
+| Vazão de tokens   | 1.200–2.000 tokens por segundo         |
+| Pedidos paralelos | 5–10 em simultâneo                     |
+| Tempo de resposta | ~5 segundos                            |
 
 Rápido, eficiente e suficientemente estável para oferecer verdadeiro valor acrescentado nas operações diárias.
 
-Se se verificar que este servidor GPU não oferece o desempenho necessário, iremos ajustar o hardware conforme necessário.
+Se se verificar que o servidor GPU não oferece o desempenho necessário, iremos ajustar o hardware conforme necessário.
 
 ## Automatizações de IA na prática
 
@@ -75,9 +75,9 @@ Com a **versão 6.0**, as _automatizações impulsionadas por IA_ estão dispon�
 
 Com a **versão 6.1**, abriremos as funcionalidades aos planos Free e Plus, ainda que com limitações. Além disso, iremos expandir o **registo** e criar a opção de adquirir **créditos adicionais de IA** através de nós para cobrir cenários mais exigentes.
 
-## Liberdade LLM na SeaTable: do Hetzner Hosting à OpenAI e além
+## Liberdade LLM na SeaTable: do autoalojamento à OpenAI e além
 
-Outra funcionalidade chave que planeamos para futuras versões é dar aos utilizadores a possibilidade de utilizar não só o nosso LLM (Large Language Model) autoalojado na Hetzner, mas também outros modelos disponíveis na nuvem. Para automatizações que acedam a dados públicos – ou quando não existam preocupações de privacidade – poderá escolher livremente se prefere usar Gemma, DeepSeek, Mistral, OpenAI ou outros fornecedores semelhantes. O nosso objetivo é permitir que cada utilizador decida qual o modelo de IA mais adequado ao seu caso.
+Outra funcionalidade chave é a possibilidade de os utilizadores utilizarem não só o nosso LLM (Large Language Model) autoalojado na Exoscale, mas também outros modelos. Para automatizações que acedam a dados públicos – ou quando não existam preocupações de privacidade – pode escolher livremente se prefere usar Gemma, DeepSeek, Mistral, OpenAI ou outros fornecedores semelhantes. O nosso objetivo é permitir que cada utilizador decida qual o modelo de IA mais adequado ao seu caso e se prefere utilizá-lo na [nuvem]({{< relref "posts/cloud-computing" >}}) ou [localmente]({{< relref "posts/ki-selbst-hosten" >}}).
 
 ## Conclusão: inovação e responsabilidade
 

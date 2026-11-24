@@ -40,7 +40,7 @@ Formulez votre question de manière aussi précise que possible. Évitez les for
 
 ### Délai d'attente dépassé ou absence de réponse
 
-Les requêtes très volumineuses peuvent entraîner un dépassement du délai d'attente. Simplifiez la demande ou limitez-vous à un seul tableau. Notez également que les modèles plus petits comme Haiku, GPT-4o mini ou Mistral Small peuvent atteindre leurs limites pour les tâches complexes en plusieurs étapes.
+Les requêtes très volumineuses peuvent entraîner un dépassement du délai d'attente. Simplifiez la demande ou limitez-vous à un seul tableau. Notez également que les modèles plus petits comme Haiku, GPT-6 Luna ou Mistral Small peuvent atteindre leurs limites pour les tâches complexes en plusieurs étapes.
 
 ## Problèmes de plugin
 

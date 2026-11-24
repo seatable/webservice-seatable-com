@@ -5,6 +5,7 @@ seo:
     title: "Intelligence artificielle : Définition, opportunités et risques"
     description: "Que signifie réellement l'intelligence artificielle aujourd'hui et comment pouvez-vous l'utiliser ? Apprenez-en plus ici."
 date: 2026-01-12
+lastmod: 2026-11-24
 url: '/fr/ia-intelligence-artificielle'
 categories:
     - 'best-practice'
@@ -215,8 +216,8 @@ En tant que plate-forme d'IA No-Code, SeaTable permet des automatisations basée
 
 ![Fonctionnalités d'IA dans SeaTable](ki-features-seatable.jpg)
 
-En plus de Gemma 4, SeaTable prend en charge d'autres modèles d'IA de différents fournisseurs, qui sont gérés dans des centres de données allemands conformément au RGPD. De plus, l'échange de données entre [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) et les modèles linguistiques est crypté.
-  
+De plus, SeaTable propose un [plugin de chat IA]({{< relref "posts/ai-in-seatable" >}}) qui vous permet d'interroger et de modifier vos bases de données en langage naturel. Et tout cela sans souci en matière de protection des données : outre des modèles d'IA externes de différents fournisseurs, SeaTable met également à votre disposition un modèle open-weights intégré, hébergé dans des centres de données allemands conformément au RGPD. Par ailleurs, l'échange de données entre [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) et les modèles linguistiques est crypté.
+
 Pour un contrôle total, les auto-hébergeurs peuvent bien sûr utiliser des modèles d'IA dans leur propre [infrastructure]({{< relref "posts/it-infrastruktur" >}}). [SeaTable AI](https://admin.seatable.com/installation/components/seatable-ai/), un composant de [SeaTable Server]({{< relref "pages/product/seatable-server" >}}), est basé sur LiteLLM et prend ainsi en charge la connexion d'un grand nombre de modèles avec une API compatible OpenAI.
 
 Si vous [hébergez votre IA vous-même]({{< relref "posts/ki-selbst-hosten" >}}), vous pouvez également utiliser, grâce à notre [serveur MCP]({{< relref "posts/mcp-server" >}}), des agents IA qui interagissent directement avec vos données dans SeaTable, répondent à vos questions ou effectuent des modifications.
