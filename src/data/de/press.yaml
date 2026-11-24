@@ -1,3 +1,31 @@
+- title: 'Daten in Form'
+  year: 2026
+  summary: 'Dr. Christian Knermann hat SeaTable 6.2 einem ausführlichen Praxistest unterzogen – in der Cloud und on-premises. Besonders punkten konnte SeaTable durch seine Flexibilität. Die höchste Einzelwertung erhielten mit 9 Punkten die KI-Integrationen. Der Artikel ist nur für Leser des Magazins verfügbar und nicht öffentlich online abrufbar.'
+  quote: '„SeaTable ist eine ausgereifte No-Code-/Low-Code-Plattform. Die Software tritt an, das Denken in isolierten Fachanwendungen aufzubrechen und die Informationen in den Mittelpunkt zu stellen. Damit punktet dieser digitale Formwandler als Werkzeug, das sich der Aufgabe anpasst, statt für jeden Anwendungsfall eine separate Software einzuführen.“'
+  quote_author: 'Dr. Christian Knermann, IT-Administrator 11/2026, S. 27'
+  date: 2026-11-01
+  source: 'IT-Administrator'
+  issue: 'Ausgabe 11/2026, S. 23–27'
+  rating_title: 'So urteilt IT-Administrator'
+  rating_max: 10
+  rating_note: 'Skala von 0 bis 10: 6 Punkte bedeuten, dass ein Feature dem Standard vergleichbarer Produkte entspricht und einwandfrei funktioniert. Ab 7 Punkten ist es dem Standard überlegen. Details: [Testmethodik des IT-Administrator](https://www.it-administrator.de/testmethodik)'
+  ratings:
+    - label: 'Vorlagen'
+      score: 8
+      meaning: 'Dem Standard deutlich überlegen'
+    - label: 'Berechtigungen'
+      score: 7
+      meaning: 'Dem Standard leicht überlegen'
+    - label: 'Formulare'
+      score: 6
+      meaning: 'Entspricht dem Standard vergleichbarer Produkte und funktioniert einwandfrei'
+    - label: 'App-Builder'
+      score: 8
+      meaning: 'Dem Standard deutlich überlegen'
+    - label: 'KI-Integrationen'
+      score: 9
+      meaning: 'Vollkommen neu / technologisch vergleichbaren Produkten weit überlegen – funktioniert aber nur mit leichten Einschränkungen'
+
 - title: 'Autonomie für Fachabteilungen: SeaTable 6.0 vereint KI und No-Code'
   year: 2025
   summary: 'Nicht jeder ist mit dem Programmieren vertraut. Doch künftig können alle Mitarbeiter IT leicht nutzen. Plattformen wie SeaTable machen es möglich. Mit SeaTable 6.0 will der Datenspezialist die Voraussetzung dafür schaffen, dass mit künstlicher Intelligenz (KI) unterstützte Innovationen einfach und direkt in den Arbeitsalltag integriert werden können.'

@@ -1,3 +1,31 @@
+- title: 'Datos en forma'
+  year: 2026
+  summary: 'Dr. Christian Knermann sometió SeaTable 6.2 a una exhaustiva prueba práctica para la revista alemana IT-Administrator, tanto en la nube como en instalación local. SeaTable destacó especialmente por su flexibilidad. Las integraciones de IA obtuvieron la puntuación individual más alta, con 9 puntos. El artículo (en alemán) solo está disponible para los lectores de la revista y no se puede consultar públicamente en línea.'
+  quote: '«SeaTable es una plataforma no-code/low-code madura. El software se propone romper con el pensamiento en aplicaciones especializadas aisladas y situar la información en el centro. Así, este metamorfo digital destaca como una herramienta que se adapta a la tarea, en lugar de introducir un software distinto para cada caso de uso.»'
+  quote_author: 'Dr. Christian Knermann, IT-Administrator 11/2026, p. 27 (traducido del alemán)'
+  date: 2026-11-01
+  source: 'IT-Administrator'
+  issue: 'Número 11/2026, págs. 23–27'
+  rating_title: 'El veredicto de IT-Administrator'
+  rating_max: 10
+  rating_note: 'Escala de 0 a 10: 6 puntos significan que una función cumple el estándar de productos comparables y funciona perfectamente. A partir de 7 puntos, es superior al estándar. Más detalles: [metodología de prueba de IT-Administrator (en alemán)](https://www.it-administrator.de/testmethodik)'
+  ratings:
+    - label: 'Plantillas'
+      score: 8
+      meaning: 'Claramente superior al estándar'
+    - label: 'Permisos'
+      score: 7
+      meaning: 'Ligeramente superior al estándar'
+    - label: 'Formularios'
+      score: 6
+      meaning: 'Cumple el estándar de productos comparables y funciona perfectamente'
+    - label: 'Creador de aplicaciones'
+      score: 8
+      meaning: 'Claramente superior al estándar'
+    - label: 'Integraciones de IA'
+      score: 9
+      meaning: 'Completamente nuevo / tecnológicamente muy superior a productos comparables, pero solo funciona con ligeras limitaciones'
+
 - title: 'Autonomía para departamentos especializados: SeaTable 6.0 combina IA y No-Code'
   year: 2025
   summary: 'No todo el mundo está familiarizado con la programación. Pero en el futuro, todos los empleados podrán utilizar las TI con facilidad. Plataformas como SeaTable lo hacen posible. Con SeaTable 6.0, el especialista en datos quiere crear las condiciones para que las innovaciones apoyadas en la inteligencia artificial (IA) se integren fácil y directamente en la vida laboral cotidiana.'
