@@ -71,7 +71,7 @@ sections:
             text: 'The AI writes its results into defined columns of your base, so you can filter, analyze and process them right away.'
           - headline: Traceable
             text: 'Every run is recorded in the automation''s execution log. You can see the credit usage in the team administration.'
-      image: '/images/landing_page_ki-automatisierung_01.png'
+      image: '/images/landing-page-ki-01.png'
       image_alt: 'AI actions in the SeaTable automation editor'
       buttons:
           - label: More about AI automation
@@ -93,7 +93,7 @@ sections:
           - text: Uses SeaTable AI by default, no API key of your own required
           - text: Optionally with models from Anthropic, OpenAI or Mistral via your own API key
           - text: Available in SeaTable Cloud and SeaTable Dedicated
-      image: '/images/landing_page_ki_uebersicht_ki-chat.png'
+      image: '/images/landing-page-ki-02.png'
       image_alt: 'AI Chat in a SeaTable base'
       buttons:
           - label: More about the AI Chat
@@ -113,7 +113,7 @@ sections:
           - text: Full history saved, earlier versions can be restored
           - text: Insight into every step of the AI through its reasoning process
           - text: Base data never reaches the AI model, only prompts and schemas
-      image: '/images/landing_page_ki_uebersicht_ki-app-builder.png'
+      image: '/images/landing-page-ki-03.png'
       image_position: 'left'
       image_alt: 'Creating an HTML page with AI in the SeaTable App Builder'
       buttons:
@@ -135,7 +135,7 @@ sections:
             text: 'You decide which bases the agent can access and whether it has read-only access.'
           - headline: Work in the tools you know
             text: 'Use your SeaTable data in the AI tool your team already works with.'
-      image: '/images/landing_page_ki_uebersicht_datenfluss.png'
+      image: '/images/landing-page-ki-04.png'
       image_alt: 'Data flow between AI agent, SeaTable MCP Server and SeaTable'
       buttons:
           - label: More about SeaTable and MCP

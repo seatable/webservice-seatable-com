@@ -80,7 +80,7 @@ sections:
             text: 'Tipos de coluna fixos, tabelas ligadas e trabalho conjunto em tempo real em vez de versões de ficheiros.'
           - headline: Google Sheets
             text: 'Mais estrutura e automações quando o volume de dados cresce.'
-      image: '/images/landing_page_airtable_01.png'
+      image: '/images/landing-page-alternativen-01.png'
       image_alt: 'O SeaTable como alternativa ao Airtable, Excel e Google Sheets'
 
     - name: content-12
@@ -97,7 +97,7 @@ sections:
           - text: 'Alternativa ao Notion: tabelas ligadas em vez de páginas e notas'
           - text: Kanban, calendário, Gantt e formulários numa só plataforma
           - text: Permissões ao nível da tabela, da vista e da coluna
-      image: '/images/asana-projektmanagement.jpg'
+      image: '/images/landing-page-alternativen-02.png'
       image_alt: 'O SeaTable como alternativa ao Asana, Microsoft Lists e Notion'
 
     - name: content-12
@@ -113,7 +113,7 @@ sections:
           - text: 'Alternativa ao HubSpot: contactos, negócios e campanhas numa só base de dados'
           - text: Modelos prontos a usar como ponto de partida, totalmente personalizáveis
           - text: Apps e formulários próprios para colaboradores e clientes
-      image: '/images/Landing-Page_HR_Zeiterfassung.png'
+      image: '/images/landing-page-alternativen-03.png'
       image_position: 'left'
       image_alt: 'O SeaTable como alternativa ao Personio e HubSpot'
 
