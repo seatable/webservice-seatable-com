@@ -2,7 +2,7 @@
 title: 'La mejor alternativa a Google Spreadsheet puesta a prueba'
 description: 'Herramientas tradicionales como Excel y Google Sheets a menudo llegan a sus límites cuando crece el volumen de datos o se necesitan funciones especiales. Las alternativas modernas ofrecen potentes funciones que pueden adaptarse con flexibilidad a tus necesidades individuales. En este artículo, le presentaremos la mejor solución gratuita y le mostraremos cómo puede trabajar de forma más eficiente con ella.'
 seo:
-    title: 'Las mejores alternativas a Google Spreadsheet en comparación'
+    title: 'Alternativa a Google Spreadsheet: comparativa con SeaTable'
     description: 'Solución de hoja de cálculo más flexible que Google Sheets. Nuestra entrada de blog te presenta alternativas que ofrecen más opciones de personalización'
 fecha: 2025-03-18
 categorías:

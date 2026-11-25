@@ -6,6 +6,9 @@
   title: "Tausende Menschen weltweit nutzen bereits SeaTable"
   subtitle: "Wer nutzt SeaTable?"
   marquee_rows: 1
+  logos: # optional, static logo row above the marquee
+  - image:
+    image_alt:
   items: 
   - stat: "downloads" # key from data/trust.yaml
   - stat: "daily_users"
@@ -27,6 +30,14 @@
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
         </div>
+
+        {{ if .logos }}
+            <div class="mx-auto mt-16 flex max-w-5xl flex-wrap justify-center gap-4">
+                {{ range .logos }}
+                    <img class="h-[92px] w-[180px]" src="{{ .image }}" alt="{{ .image_alt }}" />
+                {{ end }}
+            </div>
+        {{ end }}
 
         <div class="my-20">
             {{ $marqueeRows := .marquee_rows | default 1 }}
