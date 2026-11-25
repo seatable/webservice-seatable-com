@@ -80,7 +80,7 @@ sections:
             text: 'Фиксированные типы столбцов, связанные таблицы и совместная работа в реальном времени вместо версий файлов.'
           - headline: Google Sheets
             text: 'Больше структуры и автоматизаций при росте объёма данных.'
-      image: '/images/landing_page_airtable_01.png'
+      image: '/images/landing-page-alternativen-01.png'
       image_alt: 'SeaTable как альтернатива Airtable, Excel и Google Sheets'
 
     - name: content-12
@@ -97,7 +97,7 @@ sections:
           - text: 'Альтернатива Notion: связанные таблицы вместо страниц и заметок'
           - text: Канбан, календарь, диаграмма Ганта и формы на одной платформе
           - text: Права доступа вплоть до уровня таблиц, представлений и столбцов
-      image: '/images/asana-projektmanagement.jpg'
+      image: '/images/landing-page-alternativen-02.png'
       image_alt: 'SeaTable как альтернатива Asana, Microsoft Lists и Notion'
 
     - name: content-12
@@ -113,7 +113,7 @@ sections:
           - text: 'Альтернатива HubSpot: контакты, сделки и кампании в одной базе данных'
           - text: Готовые шаблоны в качестве отправной точки, полностью настраиваемые
           - text: Собственные приложения и формы для сотрудников и клиентов
-      image: '/images/Landing-Page_HR_Zeiterfassung.png'
+      image: '/images/landing-page-alternativen-03.png'
       image_position: 'left'
       image_alt: 'SeaTable как альтернатива Personio и HubSpot'
 

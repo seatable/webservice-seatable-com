@@ -71,7 +71,7 @@ sections:
             text: 'Die KI schreibt ihre Ergebnisse in festgelegte Spalten Ihrer Base. So lassen sie sich direkt filtern, auswerten und weiterverarbeiten.'
           - headline: Nachvollziehbar
             text: 'Jede Ausführung steht im Ausführungslog der Automation. Den Credit-Verbrauch sehen Sie in der Teamverwaltung.'
-      image: '/images/landing_page_ki-automatisierung_01.png'
+      image: '/images/landing-page-ki-01.png'
       image_alt: 'KI-Aktionen im Automations-Editor von SeaTable'
       buttons:
           - label: Mehr zur KI-Automatisierung
@@ -93,7 +93,7 @@ sections:
           - text: Standardmäßig mit SeaTable AI, ohne eigenen API-Key
           - text: Optional mit Modellen von Anthropic, OpenAI oder Mistral über Ihren eigenen API-Key
           - text: Verfügbar in SeaTable Cloud und SeaTable Dedicated
-      image: '/images/landing_page_ki_uebersicht_ki-chat.png'
+      image: '/images/landing-page-ki-02.png'
       image_alt: 'KI-Chat in einer SeaTable Base'
       buttons:
           - label: Mehr zum KI-Chat
@@ -113,7 +113,7 @@ sections:
           - text: Gesamter Verlauf gespeichert, frühere Versionen wiederherstellbar
           - text: Einblick in jeden Schritt der KI über den Denkprozess
           - text: Base-Daten gelangen nie zum KI-Modell, nur Prompts und Schemata
-      image: '/images/landing_page_ki_uebersicht_ki-app-builder.png'
+      image: '/images/landing-page-ki-03.png'
       image_position: 'left'
       image_alt: 'HTML-Seite mit KI im SeaTable App Builder erstellen'
       buttons:
@@ -135,7 +135,7 @@ sections:
             text: 'Sie legen fest, auf welche Bases der Agent zugreifen darf und ob er nur lesen darf.'
           - headline: Im gewohnten Werkzeug arbeiten
             text: 'Nutzen Sie Ihre SeaTable-Daten in dem KI-Tool, mit dem Ihr Team ohnehin arbeitet.'
-      image: '/images/landing_page_ki_uebersicht_datenfluss.png'
+      image: '/images/landing-page-ki-04.png'
       image_alt: 'Datenfluss zwischen KI-Agent, SeaTable MCP Server und SeaTable'
       buttons:
           - label: Mehr zu SeaTable und MCP

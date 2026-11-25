@@ -71,7 +71,7 @@ sections:
             text: 'ИИ записывает результаты в заданные столбцы вашей базы. Их можно сразу фильтровать, анализировать и обрабатывать дальше.'
           - headline: Прозрачность
             text: 'Каждый запуск фиксируется в журнале выполнения автоматизации. Расход кредитов вы видите в управлении командой.'
-      image: '/images/landing_page_ki-automatisierung_01.png'
+      image: '/images/landing-page-ki-01.png'
       image_alt: 'Действия ИИ в редакторе автоматизаций SeaTable'
       buttons:
           - label: Подробнее об ИИ-автоматизации
@@ -93,7 +93,7 @@ sections:
           - text: По умолчанию с SeaTable AI, без собственного API-ключа
           - text: По желанию с моделями Anthropic, OpenAI или Mistral через ваш собственный API-ключ
           - text: Доступно в SeaTable Cloud и SeaTable Dedicated
-      image: '/images/landing_page_ki_uebersicht_ki-chat.png'
+      image: '/images/landing-page-ki-02.png'
       image_alt: 'ИИ-чат в базе SeaTable'
       buttons:
           - label: Подробнее об ИИ-чате
@@ -113,7 +113,7 @@ sections:
           - text: Вся история сохраняется, предыдущие версии можно восстановить
           - text: Каждый шаг ИИ виден в процессе рассуждений
           - text: Данные базы никогда не передаются модели ИИ – только промпты и схемы
-      image: '/images/landing_page_ki_uebersicht_ki-app-builder.png'
+      image: '/images/landing-page-ki-03.png'
       image_position: 'left'
       image_alt: 'Создание HTML-страницы с помощью ИИ в конструкторе приложений SeaTable'
       buttons:
@@ -135,7 +135,7 @@ sections:
             text: 'Вы определяете, к каким базам агент может получить доступ и может ли он только читать данные.'
           - headline: Работа в привычном инструменте
             text: 'Используйте свои данные SeaTable в том ИИ-инструменте, с которым ваша команда и так работает.'
-      image: '/images/landing_page_ki_uebersicht_datenfluss.png'
+      image: '/images/landing-page-ki-04.png'
       image_alt: 'Поток данных между ИИ-агентом, SeaTable MCP Server и SeaTable'
       buttons:
           - label: Подробнее о SeaTable и MCP

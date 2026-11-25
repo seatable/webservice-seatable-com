@@ -80,7 +80,7 @@ sections:
             text: 'Tipos de columna fijos, tablas vinculadas y trabajo conjunto en tiempo real en lugar de versiones de archivos.'
           - headline: Google Sheets
             text: 'Más estructura y automatizaciones cuando crece el volumen de datos.'
-      image: '/images/landing_page_airtable_01.png'
+      image: '/images/landing-page-alternativen-01.png'
       image_alt: 'SeaTable como alternativa a Airtable, Excel y Google Sheets'
 
     - name: content-12
@@ -97,7 +97,7 @@ sections:
           - text: 'Alternativa a Notion: tablas vinculadas en lugar de páginas y notas'
           - text: Kanban, calendario, Gantt y formularios en una sola plataforma
           - text: Permisos a nivel de tabla, vista y columna
-      image: '/images/asana-projektmanagement.jpg'
+      image: '/images/landing-page-alternativen-02.png'
       image_alt: 'SeaTable como alternativa a Asana, Microsoft Lists y Notion'
 
     - name: content-12
@@ -113,7 +113,7 @@ sections:
           - text: 'Alternativa a HubSpot: contactos, oportunidades y campañas en una base de datos'
           - text: Plantillas listas para usar como punto de partida, totalmente adaptables
           - text: Apps y formularios propios para empleados y clientes
-      image: '/images/Landing-Page_HR_Zeiterfassung.png'
+      image: '/images/landing-page-alternativen-03.png'
       image_position: 'left'
       image_alt: 'SeaTable como alternativa a Personio y HubSpot'
 

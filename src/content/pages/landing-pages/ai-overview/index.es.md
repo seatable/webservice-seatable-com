@@ -71,7 +71,7 @@ sections:
             text: 'La IA escribe sus resultados en columnas definidas de su base. Así puede filtrarlos, analizarlos y seguir procesándolos directamente.'
           - headline: Trazable
             text: 'Cada ejecución queda anotada en el registro de ejecución de la automatización. El consumo de créditos puede consultarse en la administración del equipo.'
-      image: '/images/landing_page_ki-automatisierung_01.png'
+      image: '/images/landing-page-ki-01.png'
       image_alt: 'Acciones de IA en el editor de automatizaciones de SeaTable'
       buttons:
           - label: Más sobre la automatización con IA
@@ -93,7 +93,7 @@ sections:
           - text: De forma predeterminada con SeaTable AI, sin clave API propia
           - text: Opcionalmente con modelos de Anthropic, OpenAI o Mistral mediante su propia clave API
           - text: Disponible en SeaTable Cloud y SeaTable Dedicated
-      image: '/images/landing_page_ki_uebersicht_ki-chat.png'
+      image: '/images/landing-page-ki-02.png'
       image_alt: 'Chat de IA en una base de SeaTable'
       buttons:
           - label: Más sobre el chat de IA
@@ -113,7 +113,7 @@ sections:
           - text: Todo el historial guardado y versiones anteriores recuperables
           - text: Visión de cada paso de la IA a través del proceso de pensamiento
           - text: Los datos de la base nunca llegan al modelo de IA, solo los prompts y los esquemas
-      image: '/images/landing_page_ki_uebersicht_ki-app-builder.png'
+      image: '/images/landing-page-ki-03.png'
       image_position: 'left'
       image_alt: 'Crear una página HTML con IA en el App Builder de SeaTable'
       buttons:
@@ -135,7 +135,7 @@ sections:
             text: 'Usted determina a qué bases puede acceder el agente y si solo puede leer.'
           - headline: Trabaje con su herramienta habitual
             text: 'Utilice sus datos de SeaTable en la herramienta de IA con la que su equipo ya trabaja.'
-      image: '/images/landing_page_ki_uebersicht_datenfluss.png'
+      image: '/images/landing-page-ki-04.png'
       image_alt: 'Flujo de datos entre el agente de IA, el servidor MCP de SeaTable y SeaTable'
       buttons:
           - label: Más sobre SeaTable y MCP
