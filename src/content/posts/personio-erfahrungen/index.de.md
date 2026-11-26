@@ -1,10 +1,11 @@
 ---
 title: 'Personio Erfahrungen – wie Kunden von Personio Kosten, Service und Funktionen bewerten'
-description: 'Denken Sie darüber nach, Personio als HR-Management-System einzuführen? Oder sind Sie unzufrieden mit den hohen Personio Kosten und überlegen zu wechseln? Dann sehen Sie sich an, wie die Personio Bewertung von Hunderten Nutzern ausfällt. In diesem Artikel erhalten Sie nützliche Informationen für Ihre Entscheidung und finden heraus, welche Personio Erfahrungen die Kunden im Alltag wirklich machen.'
+description: 'Denken Sie darüber nach, Personio als HR-Management-System einzuführen? Oder überlegen Sie, ob sich die Kosten für Ihr Unternehmen lohnen? Hier lesen Sie, wie Nutzer Personio auf Bewertungsportalen beurteilen, was Personio kostet und wann eine flexible Alternative wie SeaTable besser passt.'
 seo:
     title: 'Personio Erfahrungen: Kosten, Service und Funktionen'
-    description: 'Erfahren Sie alles über Personio: Wir haben echte Personio Erfahrungen zu Kosten, Service und Funktionen für Sie zusammengefasst.'
+    description: 'Wie bewerten Kunden Personio? Bewertungen, Kosten, Stärken und Kritikpunkte im Überblick – und wann SeaTable eine Alternative ist.'
 date: 2026-02-18
+lastmod: '2026-11-26'
 url: '/de/personio-erfahrungen'
 categories:
     - 'best-practice'
@@ -17,105 +18,111 @@ register:
 
 ## Was ist Personio?
 
-Personio ist eine cloudbasierte [HR-Management-Software]({{< relref "posts/20250317-hris" >}}), die vor allem für Unternehmen mit 10 bis 5.000 Mitarbeitern konzipiert ist. Die Basis-Version (Personio Core) vereint Funktionen wie
+Personio ist eine cloudbasierte [HR-Management-Software]({{< relref "posts/20250317-hris" >}}) aus München, die sich vor allem an kleine und mittelständische Unternehmen richtet. Die Basis (Personio Core) vereint Funktionen wie
 
 *   [Personalstammdaten]({{< relref "posts/20250505-master-data-management" >}}) und digitale Personalakte
 *   [Zeiterfassung]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) und Abwesenheitsmanagement
 *   Dokumente und [HR-Vorlagen]({{< relref "templates/human-resources" >}})
-*   [On- und Off-Boarding]({{< relref "posts/20250324-onboarding-prozess" >}})
+*   [On- und Offboarding]({{< relref "posts/20250324-onboarding-prozess" >}})
 *   Analysen und Reporting
 
-Erweiterte Funktionen wie Lohnbuchhaltung und [Recruiting]({{< relref "posts/20250317-recruiting" >}}) kann man in Paketen, die zusätzlich Geld kosten, einzeln dazubuchen. Das Unternehmen stammt aus München und betreibt seine [Cloud]({{< relref "posts/cloud-computing" >}}) in Deutschland.
+Weitere Funktionen wie die Lohnabrechnung und [Recruiting]({{< relref "posts/20250317-recruiting" >}}) lassen sich als kostenpflichtige Pakete dazubuchen. Seit 2026 bietet Personio außerdem KI-Funktionen an, etwa den Personio Assistant, der Fragen zu den eigenen HR-Daten beantwortet.
 
-![Recruiting und Personalverwaltung mit Personio](personio-recruiting.jpg)
+![Drei Personen im Gespräch an einem Besprechungstisch](personio-recruiting.jpg)
 
 ## Diese Personio Erfahrungen machen Kunden
 
-Um eine fundierte Personio Bewertung abgeben zu können, haben wir Hunderte **Personio Reviews von echten Nutzern** analysiert. Als Quellen haben wir Plattformen wie [Capterra](https://www.capterra.com.de/software/158622/personio) und [Trustpilot](https://de.trustpilot.com/review/personio.com) genutzt, auf denen Kunden ehrlich ihre Personio Erfahrungen teilen. Im Folgenden fassen wir zusammen, wie Kunden von Personio die Kosten, Vorteile und Nachteile der Software beurteilen.
+Für diesen Überblick haben wir Bewertungen auf [Trustpilot](https://de.trustpilot.com/review/personio.com), [Capterra](https://www.capterra.com.de/software/158622/personio) und [OMR Reviews](https://omr.com/de/reviews/product/personio/all) gelesen (Stand: 26.11.2026). Insgesamt schneidet Personio dort gut ab: Auf Trustpilot erreicht Personio 4,3 von 5 Punkten bei 366 Bewertungen, auf Capterra ebenfalls 4,3 von 5. Die Bewertungen sind allerdings gespalten – auf Trustpilot vergeben 65 % die volle Punktzahl, 19 % nur einen Stern. Im Folgenden fassen wir zusammen, was Kunden loben und was sie kritisieren.
 
 ### Welche Vorteile die Personio Nutzer schätzen
 
-Die am häufigsten genannten Vorteile von Personio liegen vor allem in den Funktionen der Software an sich:
+Die am häufigsten genannten Vorteile von Personio liegen vor allem in den Funktionen der Software:
 
--   **Intuitive Bedienung**: Viele Nutzer heben hervor, dass Personio eine übersichtliche Benutzeroberfläche hat und sich die meisten Mitarbeiter schnell und ohne umfangreiche Schulungen zurechtfinden.
-    
--   **All-in-one-Lösung**: Personio kann fast alle klassischen HR-Aufgaben in einem System abdecken und verschiedene Tools ersetzen. In dieser Hinsicht werden auch Integrationen mit anderen Tools positiv erwähnt.
-    
--   **Zentrale Datenbank**: Dadurch, dass Personio Mitarbeiterdaten, Dokumente und HR-Prozesse an einem Ort zusammenführt, können Personalmanager Chaos vermeiden und die Effizienz steigern. Ebenso wird das Reporting erleichtert.
-    
--   **Mitarbeiter-Self-Service**: Für HR-Teams ist es eine Entlastung, dass Mitarbeiter in Personio selbst die Initiative ergreifen können. Zum Beispiel können sie Urlaub beantragen oder Lohnabrechnungen abrufen, ohne ständig die Personalabteilung zu kontaktieren.
+-   **Intuitive Bedienung**: Viele Nutzer heben hervor, dass Personio eine übersichtliche Benutzeroberfläche hat und sich die meisten Mitarbeitenden schnell und ohne umfangreiche Schulungen zurechtfinden.
 
-### Wo sich bei Personio Nachteile offenbaren
+-   **All-in-one-Lösung**: Personio deckt die meisten klassischen HR-Aufgaben in einem System ab und kann verschiedene Tools ersetzen. Auch die Integrationen mit anderen Tools werden positiv erwähnt.
 
-Laut zahlreichen Kundenstimmen hat Personio Nachteile, die sich nicht nur auf die Software, sondern vielmehr auf die Kosten und den Personio Kundenservice beziehen:
+-   **Zentrale Datenbank**: Weil Personio Mitarbeiterdaten, Dokumente und HR-Prozesse an einem Ort zusammenführt, behalten Personalverantwortliche den Überblick. Ebenso wird das Reporting erleichtert.
 
--   **Hohe Kosten und Intransparenz**: Sehr viele Kunden empfinden die Preisgestaltung als undurchsichtig und kritisieren, dass wichtige Funktionen oft nur in teuren Zusatzpaketen verfügbar sind.
-    
--   **Lästige Updates und Instabilität**: Kunden berichten, dass nach einem Update oft Funktionen verschwinden oder sich verkomplizieren, wodurch die Prozesse weniger benutzerfreundlich werden. Angeblich lädt die Webseite teilweise langsam und Abstürze seien an der Tagesordnung.
-    
--   **Aggressiver Vertrieb**: An den Verkaufspraktiken von Personio üben viele Kunden harsche Kritik. Zum Beispiel seien Funktionen versprochen worden, die es gar nicht gibt oder plötzlich mehr Geld kosten. Einige Kunden seien zur Entscheidung gedrängt und, sobald der Vertrag unterzeichnet war, im Regen stehen gelassen worden.
-    
--   **Kein zufriedenstellender Support**: Die meisten Nutzer berichten von langen Wartezeiten, schlechter Erreichbarkeit und unzureichenden Antworten der Ansprechpartner, vor allem im Personio Kundenservice.  
-    
--   **Nicht monatlich kündbar**: Das Jahres-Abo hat eine Mindestlaufzeit von 12 Monaten und verlängert sich automatisch. Zudem tauchen öfter Beschwerden auf, dass eine Kündigung umständlich sei und keine Bestätigung innerhalb der Frist erfolge.
-    
--   **Zu wenig Flexibilität**: Personio ist zwar modular aufgebaut, die Funktionen sind aber kaum individualisierbar. Viele Kunden wünschen sich hier mehr Flexibilität, um Prozesse an ihre eigenen Bedürfnisse anpassen zu können.
+-   **Mitarbeiter-Self-Service**: Mitarbeitende können zum Beispiel selbst Urlaub beantragen oder ihre Lohnabrechnungen abrufen, ohne die Personalabteilung zu kontaktieren. Das entlastet HR-Teams.
 
-![Eine Kundin regt sich über die Nachteile von Personio auf](personio-problems.jpg)
+### Was Kunden an Personio kritisieren
 
-## Warum die Personio Kosten so hoch sind
+Die Kritik betrifft weniger die Software selbst als Preise, Vertrieb und Kundenservice:
 
-Da die Kunden in ihren Personio Reviews am häufigsten die hohen Personio Kosten kritisieren, haben wir uns die **Preisgestaltung** noch einmal genauer angeschaut. Dabei stellt sich heraus, dass sich die Personio Kosten aus drei Teilen zusammensetzen: dem monatlichen Basis-Abo je Mitarbeiter, zusätzlichen Paketen für die Personalabteilung und der einmaligen Implementierung.
+-   **Preise und Transparenz**: Viele Kunden empfinden die Preisgestaltung als schwer nachvollziehbar und bemängeln, dass manche Funktionen nur in zusätzlichen Paketen verfügbar sind.
+
+-   **Updates**: Einige Kunden berichten, dass sich nach Updates gewohnte Abläufe geändert haben oder Funktionen anders funktionieren.
+
+-   **Vertrieb**: Ein Teil der Bewertungen kritisiert die Verkaufsgespräche, etwa weil Funktionen anders verstanden wurden als später geliefert oder weil Zusatzkosten erst spät klar wurden.
+
+-   **Support**: Häufiger genannt werden lange Antwortzeiten, vor allem nach Vertragsabschluss. Andere Kunden loben den Kundenservice dagegen ausdrücklich.
+
+-   **Vertragslaufzeit**: Personio-Verträge laufen üblicherweise über zwölf Monate und verlängern sich automatisch. Einzelne Kunden beschreiben die Kündigung als umständlich.
+
+-   **Begrenzte Anpassbarkeit**: Personio ist modular aufgebaut, die Abläufe folgen aber den Vorgaben der Software. Manche Kunden wünschen sich mehr Möglichkeiten, Prozesse an eigene Bedürfnisse anzupassen.
+
+![Frau telefoniert am Schreibtisch vor ihrem Laptop](personio-problems.jpg)
+
+## Was kostet Personio?
+
+Weil die Kosten in den Bewertungen am häufigsten Thema sind, haben wir uns die **Preisgestaltung** genauer angeschaut. Die Kosten setzen sich aus drei Teilen zusammen: dem Basis-Abo je Mitarbeiter, zusätzlichen Paketen und der einmaligen Einrichtung.
 
 ### Personio Kosten pro Mitarbeiter
 
-Die Grundlage für die Personio Kosten bildet meist das monatliche Abonnement von Personio Core. Das Unternehmen veröffentlicht allerdings **keine festen, transparenten Preise** auf seiner Webseite, sondern erstellt individuelle Angebote. Bedauerlicherweise können Interessenten und Kunden aufgrund dieser geheimen Absprachen keine Preise vergleichen und sich nicht gegen Abzocke wehren. Die **Personio Kosten pro Mitarbeiter und Monat** lassen sich folglich nur schätzen: Als Richtwert für die Basis-Funktionen werden circa 3 bis 5 Euro angegeben. Bei einem Unternehmen mit 100 Mitarbeitern müsste man demnach mit **laufenden Basis-Kosten** von 300 bis 500 Euro pro Monat rechnen.
+Grundlage ist das monatliche Abonnement eines Personio-Plans (Core Lite, Core, Core Pro oder Enterprise). Personio veröffentlicht dafür **keine festen Preise** auf seiner Webseite, sondern erstellt individuelle Angebote (Stand: 26.11.2026). Vergleichsportale schätzen die Kosten auf etwa 5 bis 15 Euro pro Mitarbeiter und Monat, je nach Plan und Unternehmensgröße. Bei einem Unternehmen mit 100 Mitarbeitenden wären das 500 bis 1.500 Euro im Monat. Verbindlich ist nur ein Angebot von Personio.
 
 ### Zusätzliche Pakete für HR-Teams
 
-Unter anderem sind in der Basis-Version von Personio die Gehaltsabrechnung und das Talentmanagement nicht enthalten. Stattdessen bietet Personio für die Lohnabrechnung und weitere Funktionen **zusätzliche Pakete** an, welche die laufenden Kosten in die Höhe treiben. Die Preise für **Personio Payroll**, **Personio Recruiting** und andere Zusatzpakete sind leider nicht öffentlich einsehbar. Laut Kundenangaben liegen sie ungefähr zwischen 13 und 18 Euro pro Nutzer und Monat. So können **monatliche Abonnements** für HR-Teams schnell mit mehreren Hundert Euro pro Monat zu Buche schlagen.
+Die Lohnabrechnung (Personio Payroll) und das Recruiting sind nicht in jedem Plan enthalten und werden als **zusätzliche Pakete** angeboten. Auch deren Preise veröffentlicht Personio nicht. Seit 2026 werden einige KI-Funktionen außerdem nach Verbrauch über KI-Credits abgerechnet.
 
 ### Personio Implementierung
 
-Obwohl die **Ersteinrichtung** eines Accounts in Cloud-Systemen kinderleicht ist, lässt sich Personio von jedem neuen Kunden dafür bezahlen. Auch hier lässt sich der Anbieter bei der Preisgestaltung nicht in die Karten schauen. Klar ist nur so viel: Für die initiale Personio Implementierung fällt eine **einmalige Gebühr** an, die von der Unternehmensgröße abhängt.
+Für die Einrichtung fällt laut Vergleichsportalen eine **einmalige Gebühr** an, die von der Unternehmensgröße abhängt. Sie umfasst die Konfiguration, die Übernahme bestehender Daten und Schulungen. Personio selbst nennt für die Einrichtung im Schnitt vier Wochen.
 
-![Hohe und intransparente Personio Kosten](personio-costs.jpg)
+![Stapel mit 50-Euro-Scheinen](personio-costs.jpg)
 
-## SeaTable als Personio Alternative
+## SeaTable als Personio Alternative – oder Ergänzung
 
-SeaTable ist eine KI No-Code Lösung, die **Datenmanagement, App Building und KI-Automationen** vereint. Der Anwendungsbereich ist nicht auf das Personalmanagement beschränkt, wodurch Sie SeaTable unternehmensweit (z. B. im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) und [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}})) einsetzen können, um Datenbanken und Apps zu erstellen sowie Prozesse zu automatisieren. Außerdem bietet SeaTable gegenüber Personio Vorteile, die bei der Beurteilung ins Gewicht fallen:
+SeaTable ist eine KI No-Code Plattform, die **Datenmanagement, App Building und KI-Automationen** vereint. Sie ist keine HR-Suite: Lohnabrechnung, fertige Urlaubsregeln mit Urlaubskonten oder die elektronische Arbeitsunfähigkeitsbescheinigung bringt SeaTable nicht mit. Dafür bilden Sie [HR-Abläufe]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) genau so ab, wie Ihr Unternehmen arbeitet – und können SeaTable auch im [Marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) oder [Projektmanagement]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) einsetzen.
 
--   **Mehr Flexibilität**: Bauen Sie schnell, einfach und intuitiv alle Prozesse, Anwendungen und Datenansichten, die Sie für Ihr Personalmanagement brauchen.  
+SeaTable passt vor allem in zwei Fällen:
 
--   **Geringere bzw. keine Kosten**: Starten Sie kostenlos und skalieren Sie nach Bedarf, wenn Ihr Team wächst. SeaTable ist in jedem Fall günstiger als Personio.
+-   **Kleine Teams**, die keine HR-Suite brauchen und Abläufe wie Bewerbungen, Onboarding, Urlaubsanträge oder ein Mitarbeiterverzeichnis selbst gestalten möchten.
 
--   **Volle Transparenz**: SeaTable veröffentlicht seine [Preise]({{< relref "pages/prices" >}}) und Geschäftsbedingungen für jeden Kunden nachvollziehbar auf der Webseite.
+-   **Als Ergänzung** zu einer Lohn- oder HR-Software, für Abläufe, die dort fehlen oder zu teuer sind – etwa Onboarding-Checklisten, Geräteausgabe, Schulungen oder Bewerbungen bei wenigen Einstellungen im Jahr.
 
--   **Besserer Support**: Bei Fragen zu SeaTable finden Sie schnell Rat im [Hilfebereich]({{< relref "help" >}}), auf [YouTube](https://www.youtube.com/@SeaTable) oder in unserer [Community](https://forum.seatable.com/). Persönlichen Support erhalten Sie gerne nach Vereinbarung.
+Was SeaTable dabei bietet:
 
-Ebenso wie Personio ist SeaTable eine **DSGVO-konforme Cloud-Lösung mit hohen Sicherheitsstandards** und speichert alle Daten auf Servern in Deutschland. Dies ist wichtig, da Sie in der Personalabteilung hochsensible personenbezogene Informationen verarbeiten. Im Gegensatz zu Personio steht mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) sogar eine On-Premises-Variante zur Verfügung, falls Sie das System auf Ihren eigenen Servern installieren möchten, um die volle [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}) zu behalten.
+-   **Flexibilität**: Sie bauen Tabellen, Formulare, Ansichten und Apps für Ihr Personalmanagement selbst, ohne Programmierung. In Apps sieht jeder nur die Daten, die für ihn freigegeben sind.
 
-Hier noch einmal die **Unterschiede zwischen Personio und SeaTable** im Überblick:
+-   **Transparente Preise**: SeaTable veröffentlicht seine [Preise]({{< relref "pages/prices" >}}) und Geschäftsbedingungen auf der Webseite. Mit SeaTable Free starten Sie kostenlos, für bis zu 25 Teammitglieder.
 
-|                         | Personio                    | SeaTable                    |
-| ----------------------- | --------------------------- | --------------------------- |
-| **Art des Tools**       | HR-Software                 | No-Code-Plattform           |
-| **Anwendungsbereich**   | Personalmanagement          | unbegrenzt                  |
-| **Kosten**              | hoch und intransparent      | niedrig oder kostenlos      |
-| **Flexibilität**        | gering                      | sehr hoch                   |
-| **On-Premises-Version** | {{< icon "circle-xmark" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| **App-Entwicklung**     | {{< icon "circle-xmark" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| **KI-Funktionen**       | {{< icon "circle-xmark" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+-   **Hilfe und Support**: Antworten finden Sie im [Hilfebereich]({{< relref "help" >}}), auf [YouTube](https://www.youtube.com/@SeaTable) und in der [Community](https://forum.seatable.com/). Persönlichen Support erhalten Sie nach Vereinbarung.
 
-## Gemischtes Fazit: Personio Erfahrungen eher negativ
+-   **Datenschutz**: SeaTable Cloud speichert Ihre Daten in Rechenzentren in Frankfurt und München. Mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) betreiben Sie SeaTable auch auf eigenen Servern, falls Sie die volle [Datenhoheit]({{< relref "posts/digitale-souveraenitaet" >}}) behalten möchten.
 
-Grundsätzlich ist Personio eine benutzerfreundliche Cloud-Software, die umfangreiche Funktionen für das Personalmanagement bereithält. Diesbezüglich wird oft lobend hervorgehoben, dass Personio als **All-in-one-Lösung** Mitarbeiterdaten, Dokumente und [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) zentralisiert und die Personalabteilung entlastet. An der Software selbst haben die Kunden lediglich die geringe Flexibilität, lästige Updates und lange Ladezeiten auszusetzen. Alles in allem fällt die Personio Bewertung in zahlreichen Personio Reviews dennoch schlecht aus:  
+Hier die **Unterschiede zwischen Personio und SeaTable** im Überblick:
 
-Oft schlagen die Personio Erfahrungen ins Negative um, sobald die Kunden die Vertriebspraktiken zu spüren bekommen: Hierzu berichten viele **unzufriedene Kunden**, mit falschen Versprechungen gelockt oder nach Vertragsabschluss im Stich gelassen worden zu sein. **Achtung: Kostenfalle!** Personio lässt sich die Nutzung seiner Software fürstlich vergüten, wobei die hohen Preise zunächst nicht ersichtlich sind. Die versteckten Personio Kosten hängen stark von der Mitarbeiterzahl und den gewählten Modulen ab.
+|                            | Personio                                   | SeaTable                                        |
+| -------------------------- | ------------------------------------------ | ----------------------------------------------- |
+| **Art des Tools**          | HR-Software                                | No-Code-Plattform                               |
+| **Lohnabrechnung**         | als Zusatzpaket                            | {{< icon "circle-xmark" >}}                     |
+| **Fertige HR-Abläufe**     | ja (z. B. Urlaubskonten, Self-Service)     | selbst gestaltet, mit Vorlagen                  |
+| **Anpassbarkeit**          | im Rahmen der Module                       | frei gestaltbar                                 |
+| **Preise**                 | auf Anfrage                                | veröffentlicht, kostenlose Version              |
+| **Betrieb**                | Cloud                                      | Cloud oder eigene Server                        |
+| **KI-Funktionen**          | z. B. Personio Assistant                   | KI-Automationen, KI-Chat                        |
+
+## Fazit: gute HR-Software, Kritik an Preisen und Vertrieb
+
+Personio ist eine benutzerfreundliche HR-Software, die in den Bewertungen insgesamt gut abschneidet. Gelobt werden vor allem die einfache Bedienung und dass Personio als **All-in-one-Lösung** Mitarbeiterdaten, Dokumente und [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) an einem Ort bündelt.
+
+Die Kritik richtet sich vor allem auf die Preisgestaltung, die erst im Angebot sichtbar wird, auf Zusatzkosten für einzelne Pakete und auf Erfahrungen mit Vertrieb und Support. Wer Personio einführen möchte, sollte deshalb Angebot, Pakete und Vertragslaufzeit genau prüfen. Wer keine komplette HR-Suite braucht oder einzelne Abläufe flexibler gestalten möchte, findet in SeaTable eine Alternative oder Ergänzung.
 
 ### Passende HR-Vorlagen, um mit SeaTable zu starten
 
-Sie überlegen zu wechseln? Dann sehen Sie sich praktische HR-Vorlagen an, die Ihnen den Einstieg in SeaTable erleichtern.
+Sie möchten SeaTable ausprobieren? Diese HR-Vorlagen erleichtern Ihnen den Einstieg.
 
 {{< tabs
 title1="Vorlage: Mitarbeiterdatenbank"
@@ -141,17 +148,21 @@ submit4="Vorlage nutzen" >}}
 ## Häufige Fragen zu Personio
 
 {{< faq "Was ist Personio?" >}}
-Personio ist ein cloudbasiertes HR-Management-System aus Deutschland.
+Personio ist ein cloudbasiertes HR-Management-System aus München für kleine und mittelständische Unternehmen.
 {{< /faq >}}
 
-{{< faq "Was kostet Personio Core?" >}}
-Personio veröffentlicht keine festen Preise auf seiner Webseite, sondern erstellt individuelle Angebote. Aufgrund dieser Intransparenz sind die Kunden der Willkür des Vertriebsteams ausgeliefert und die Personio Kosten pro Mitarbeiter und Monat lassen sich nur schätzen: Als Richtwert für die Basis-Funktionen gelten circa 3 bis 5 Euro. Bei einem Unternehmen mit 100 Beschäftigten kann man demnach mit laufenden Basis-Kosten von 300 bis 500 Euro pro Monat rechnen.
+{{< faq "Was kostet Personio?" >}}
+Personio veröffentlicht keine festen Preise, sondern erstellt individuelle Angebote. Vergleichsportale schätzen die Kosten auf etwa 5 bis 15 Euro pro Mitarbeiter und Monat (Stand: November 2026). Bei 100 Beschäftigten wären das 500 bis 1.500 Euro im Monat, zuzüglich Zusatzpaketen wie Payroll oder Recruiting und einer einmaligen Einrichtungsgebühr.
 {{< /faq >}}
 
-{{< faq "Warum ist Personio so teuer?" >}}
-Die Basis-Funktionen werden nach Mitarbeiter und Monat abgerechnet, was die Personio Kosten je nach Unternehmensgröße schnell in die Höhe treibt. Für zusätzliche Module, die Ihre HR-Mitarbeiter benötigen, zahlen Sie ebenfalls monatliche Abonnements. So muss ein mittelständisches Unternehmen, das Personio für seine HR-Prozesse nutzt, jedes Jahr mindestens einen vierstelligen Betrag berappen. Noch dazu schlägt die Personio Implementierung zu Beginn mit einer einmaligen Gebühr zu Buche.
+{{< faq "Warum gilt Personio als teuer?" >}}
+Die Basis wird pro Mitarbeiter und Monat abgerechnet, sodass die Kosten mit der Unternehmensgröße steigen. Für zusätzliche Module wie die Lohnabrechnung kommen weitere monatliche Kosten hinzu, außerdem eine einmalige Gebühr für die Einrichtung. Dafür erhalten Unternehmen eine HR-Suite mit gepflegten Funktionen, etwa für Urlaub, Self-Service und Lohnabrechnung.
 {{< /faq >}}
 
-{{< faq "Was werden bei Personio für Nachteile genannt?" >}}
-Neben dem schlechten Preis-Leistungs-Verhältnis fällt in den Personio Reviews insbesondere der verbesserungswürdige Umgang mit Kunden auf: Bei den negativen Personio Erfahrungen stechen als häufigste Aufreger der überforderte Personio Kundenservice und unverschämte Vertriebspraktiken heraus. Oft werden auch Stabilitätsprobleme, Verschlechterungen nach Updates und Knebelverträge erwähnt.
+{{< faq "Welche Nachteile werden bei Personio genannt?" >}}
+In den Bewertungen werden vor allem die wenig transparenten Preise, Zusatzkosten für einzelne Pakete, Erfahrungen mit dem Vertrieb sowie lange Antwortzeiten im Support genannt. Einige Kunden erwähnen außerdem Änderungen nach Updates und die automatische Vertragsverlängerung.
+{{< /faq >}}
+
+{{< faq "Ist SeaTable eine Alternative zu Personio?" >}}
+Für die Kernaufgaben einer HR-Suite – Lohnabrechnung, gesetzliche Urlaubskonten, elektronische Arbeitsunfähigkeitsbescheinigung – nicht. Für kleine Teams ohne HR-Suite oder als Ergänzung für einzelne Abläufe wie Bewerbungen, Onboarding oder ein Mitarbeiterverzeichnis ja. Viele Unternehmen nutzen SeaTable neben ihrer Lohn- oder HR-Software.
 {{< /faq >}}
