@@ -5,14 +5,15 @@ seo:
     title: 'Procesos de RR. HH. conformes al RGPD, digitales y automatizados | SeaTable'
     description: 'Digitalice y automatice los procesos de RR. HH. de forma conforme al RGPD con SeaTable. Más eficiencia, claridad y seguridad en la gestión de personal.'
 date: '2025-04-03'
+lastmod: '2026-11-26'
 url: '/es/procesos-rrhh'
 
 sections:
     - name: hero-5
       weight: 1
       title: "Procesos de RR. HH.: flexibles y conformes con el RGPD"
-      subtitle: La plataforma líder para la gestión inteligente de personal
-      text: La solución SeaTable, basada en inteligencia artificial y no-code, le libera de las trampas del cumplimiento normativo, los procesos de RR. HH. desestructurados y el caos de la contratación y la incorporación de personal. Diseñe **procesos transparentes, ágiles y conformes con el RGPD gracias a flujos de trabajo inteligentes asistidos por IA**. ¡Descubra el futuro de la gestión de recursos humanos!
+      subtitle: "La base de datos no-code para sus procesos de RR. HH."
+      text: "Candidaturas, onboarding, solicitudes de vacaciones, horas de trabajo o directorio de empleados: con SeaTable, usted representa sus procesos de RR. HH. tal como trabaja su empresa, **con formularios, automatizaciones y funciones de IA**. La nómina y las declaraciones legales siguen en su software de nóminas o de RR. HH. SeaTable los complementa allí donde el software estándar no encaja o resulta demasiado caro."
       classes:
           - bg-gray-200
       template: 7b72578c0e714750954a
@@ -26,49 +27,49 @@ sections:
 
     - name: "content-4"
       weight: 2
-      title: La solución perfecta para sus procesos de recursos humanos
+      title: "Así le ayuda SeaTable en la gestión de personal"
       subtitle: Delgado, seguro, colaborativo 
       text: 
       items:
       - icon: edit
-        headline: Cumplimiento y auditoría
-        text: "Mantenga sus datos de RR. HH. a prueba de auditorías. La IA de SeaTable le ayuda a identificar discrepancias en los documentos y garantiza flujos de trabajo conformes con el RGPD."
+        headline: "Cambios trazables"
+        text: "Cada cambio en los datos de empleados y candidatos queda registrado en el historial. Así sabe en todo momento quién cambió qué y cuándo."
 
       - icon: people-group
         headline: Gestión del rendimiento
-        text: "Defina objetivos claros y supervise el rendimiento de sus empleados con paneles e informes personalizados. Genere acuerdos de objetivos con la IA de SeaTable a partir de conversaciones de retroalimentación."
+        text: "Fije objetivos claros y siga la evolución de sus empleados con paneles e informes personalizados. La IA de SeaTable resume por usted las notas de las conversaciones de feedback."
 
       - icon: eye
-        headline: Portal ESS flexible
-        text: "Cree interfaces de RR. HH. flexibles y transparentes para sus empleados con el generador de aplicaciones no-code integrado, con permisos de acceso individuales para garantizar el pleno cumplimiento normativo."  
+        headline: "Portal del empleado"
+        text: "Cree con el App Builder sus propias interfaces para empleados, responsables y el equipo de RR. HH.: cada persona solo ve los datos que se han habilitado para ella."
       
       - icon: robot
-        headline: RR. HH. conformes con el RGPD
-        text: "La protección de datos y la eficiencia son fundamentales para las soluciones modernas de RR. HH. Con SeaTable, utilizará una plataforma segura y conforme al RGPD para sus archivos digitales de personal."
+        headline: "Protección de datos"
+        text: "SeaTable Cloud almacena sus datos en centros de datos de Fráncfort y Múnich (Alemania). El contrato de encargo del tratamiento se firma en línea."
 
       - icon: chart-line
         headline: Flexible y transparente
-        text: "Cree paneles de control que cumplan con la normativa con solo unos clics y desarrolle procesos de RR. HH. personalizados según sus necesidades: transparentes, adaptables y sin necesidad de recursos informáticos."
+        text: "Cree paneles y procesos de RR. HH. exactamente según sus necesidades, adaptables y sin programar."
       
       - icon: money-check-dollar
-        headline: Automatización basada en IA
-        text: "Aproveche las automatizaciones integradas asistidas por IA para optimizar los procesos de RR. HH. La IA de SeaTable se aloja en un servidor propio y cumple con el RGPD."
+        headline: "Automatizaciones con IA"
+        text: "Resuma currículos, lea justificantes mediante OCR o clasifique solicitudes. En SeaTable Cloud, las automatizaciones con IA utilizan un modelo de IA que se ejecuta en centros de datos de Exoscale en Alemania."
     
     - name: content-12
       weight: 3
       classes:
           - curved
-      title: "SeaTable: la solución integral para sus procesos de RR. HH."
-      subtitle: Conforme al RGPD, eficiente y centralizada
-      description: 'Con la [plataforma no-code de IA]({{< relref "/" >}}) SeaTable, puede representar todos los [procesos de gestión de personal]({{< relref "posts/20250317-hris" >}}) desde la planificación de necesidades hasta la contratación y el desarrollo del personal **en una plataforma centralizada**, con automatizaciones integradas para flujos de trabajo optimizados.'
+      title: "SeaTable: sus procesos de RR. HH. en un solo lugar"
+      subtitle: "Conforme con el RGPD, flexible y sin programar"
+      description: 'Con la [plataforma no-code con IA]({{< relref "/" >}}) SeaTable, usted representa [procesos de personal]({{< relref "posts/20250317-hris" >}}), desde la selección y el onboarding hasta el desarrollo del personal, **en tablas vinculadas**, con automatizaciones para los pasos recurrentes. La nómina y las declaraciones legales las sigue gestionando su software de nóminas.'
       items:
-          - text: '**Comunicación mejorada**: colaboración en tiempo real con función de chat integrada y notificaciones automáticas.'
-          - text: '**Procesos optimizados**: automatizaciones integradas asistidas por IA y flujos de trabajo personalizados.'
+          - text: "**Colaboración**: comentarios y @menciones en cada registro, notificaciones automáticas"
+          - text: "**Procesos ágiles**: automatizaciones y funciones de IA para pasos recurrentes"
           - text: '**Escalable**: sin funciones superfluas, SeaTable crece al ritmo de sus necesidades.'
-          - text: '**Intuitivo**: fácil implementación sin necesidad de asistencia informática gracias a la ausencia de código.'
-          - text: '**Implementación**: como solución en la nube o local.' 
+          - text: "**Intuitivo**: configuración sencilla sin soporte de TI gracias al no-code"
+          - text: "**Funcionamiento**: en la nube (centros de datos en Alemania) o en sus propios servidores"
       image: /images/landing-page-hr-01.png
-      image_alt: 'Interfaz SeaTable para la planificación y el análisis de procesos automatizados de RR. HH.'
+      image_alt: "Responsable de RR. HH. en la oficina con los temas planificación de personal, registro de jornada, onboarding y selección"
 
     - name: banner-2
       weight: 5
@@ -100,33 +101,33 @@ sections:
 
     - name: content-25
       weight: 4
-      title: Funciones que revolucionarán sus procesos de RR. HH.
+      title: "Funciones para sus procesos de RR. HH."
       subtitle: Resumen de las ventajas para sus procesos de RR. HH.
       items:
-      - headline: "Gestión de candidatos basada en IA"
-        text: Una potente herramienta que automatiza todo el [proceso de selección]({{< relref "posts/20250317-recruiting" >}}). Aproveche nuestra [IA integrada]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), que le permite preseleccionar solicitudes, coordinar citas automáticamente y, de este modo, **mejorar significativamente la experiencia de los candidatos**.
+      - headline: "Gestión de candidatos con IA"
+        text: 'Las candidaturas llegan mediante un formulario web directamente a su tabla de candidatos, y en el tablero Kanban ve quién está en qué fase del [proceso de selección]({{< relref "posts/20250317-recruiting" >}}). La [IA integrada]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) resume currículos y ayuda en la preselección.'
         image: /images/landing-page-hr-02.png
-        image_alt: 'Vista de SeaTable para la gestión de candidatos automatizada mediante IA en el proceso de selección de personal'
+        image_alt: "Candidatos en un tablero Kanban por fase, con valoración y puesto"
 
       - headline: "Gestionar el expediente personal digital"
-        text: Con el archivo digital de personal de SeaTable, puede digitalizar y almacenar de forma segura los archivos de personal. Gracias a la clara estructura del archivo electrónico de personal y al **cumplimiento de los plazos de conservación**, siempre estará en conformidad con la ley.
+        text: "Contratos, certificados y diplomas se guardan directamente en el registro de cada empleado. Plazos como el fin del período de prueba o las fechas de borrado se registran como fecha, y una regla de notificación le avisa a tiempo. Usted decide qué plazos de conservación se aplican."
         image: /images/landing-page-hr-03.png
-        image_alt: 'Interfaz SeaTable para la gestión digital de expedientes personales conforme al RGPD'
+        image_alt: "Directorio de empleados como galería con ficha de contacto"
 
       - headline: "Registro sencillo de las horas de trabajo"
-        text: Registre [las horas de trabajo]({{< relref "templates/human-resources/recording-working-time" >}}), [solicitudes de vacaciones]({{< relref "templates/human-resources/holiday-request-management" >}}) y bajas por enfermedad de forma centralizada mediante formularios web, con **paneles de administración, vistas personalizadas y cálculo automático de horas extras y horas deficitarias**. Con SeaTable, reducirá el esfuerzo y garantizará el pleno cumplimiento de la normativa.
+        text: 'Registre [horas de trabajo]({{< relref "templates/human-resources/recording-working-time" >}}), [solicitudes de vacaciones]({{< relref "templates/human-resources/holiday-request-management" >}}) y bajas por enfermedad de forma centralizada mediante formulario web, con **informes, vistas personales y cálculo automático de horas extra y horas de menos**.'
         image: /images/landing-page-hr-04.png
         image_alt: 'Vista de registro de tiempo de SeaTable HR con horarios de trabajo y ausencias'
 
       - headline: "Creación de organigramas"
-        text: "Crear organigramas es muy fácil: con SeaTable, siempre tendrá a la vista la estructura de su empresa y podrá representar organigramas de forma rápida y clara."
+        text: "Con el plugin de organigrama, representa la estructura de su empresa directamente a partir de los datos de sus empleados, de forma rápida y clara."
         image: /images/landing-page-hr-05.png
         image_alt: 'Vista del organigrama de SeaTable para representar la estructura de la empresa.'
 
-      - headline: "Optimizar los flujos de trabajo mediante IA"
-        text: Desde la planificación de las vacaciones de los empleados hasta la [liquidación de gastos de viaje]({{< relref "posts/reisekostenabrechnung" >}}) y los complejos procesos de incorporación y salida de empleados, SeaTable le ofrece todas las herramientas necesarias para aumentar la eficiencia de su trabajo operativo en el ámbito de los recursos humanos.
+      - headline: "Automatizar procesos de RR. HH. con IA"
+        text: 'Desde la planificación de vacaciones y la [liquidación de gastos de viaje]({{< relref "posts/reisekostenabrechnung" >}}) hasta el onboarding y el offboarding: las automatizaciones se encargan de los pasos recurrentes, y las acciones de IA resumen, clasifican o leen justificantes.'
         image: /images/landing-page-hr-06.png
-        image_alt: 'SeaTable HR Dashboard para optimizar y automatizar los procesos de RR. HH.'
+        image_alt: "Automatización con acción de IA: resumir, clasificar, OCR, extraer"
 
     - name: 'content-13'
       weight: 8
@@ -144,23 +145,23 @@ sections:
           - headline: Gestión de empleados
             text: Cree paneles personalizables para la incorporación, el seguimiento del rendimiento y la gestión estructurada de comentarios continuos.
           - headline: Gestión de ausencias
-            text: Automatice los flujos de trabajo de las bajas por enfermedad e integre el planificador de vacaciones directamente en los calendarios de su equipo.
+            text: "Controle vacaciones y bajas por enfermedad en la vista de calendario y notifique automáticamente a los responsables de equipo."
 
     - name: "content-4"
       weight: 6
-      title: RR. HH. seguros y expedientes digitales
+      title: "Protección de datos para datos de personal"
       subtitle: Para la máxima protección de datos
-      text: La protección de datos debe ser una prioridad, especialmente cuando se trata de datos personales. La [plataforma no-code]({{< relref "/" >}}) SeaTable se aloja exclusivamente en servidores ubicados en Alemania y es **100 % compatible con el RGPD**, incluso cuando se utilizan las funciones de IA integradas.
+      text: 'Con los datos de personal, la protección de datos es esencial. La [plataforma no-code]({{< relref "/" >}}) SeaTable Cloud almacena y procesa sus datos en **centros de datos de Exoscale en Fráncfort y Múnich**, y el contrato de encargo del tratamiento se firma en línea. Si desea más control, ejecute SeaTable en sus propios servidores.'
       items:
           - icon: terminal
             headline: Solución local
-            text: "Si desea alojar su propia herramienta de RR. HH., SeaTable Server le ofrece las mismas funciones que la versión en la nube, con total soberanía sobre los datos."
+            text: "Si desea alojar usted mismo su herramienta de RR. HH., ejecute SeaTable Server en su propio centro de datos, con plena soberanía sobre sus datos."
           - icon: user-plus
             headline: Permisos de acceso
             text: "Configure derechos de acceso y edición individuales y restrinja el acceso a datos confidenciales mediante derechos de lectura y escritura granulares."
           - icon: fingerprint
             headline: Autenticación y SSO
-            text: "SeaTable es compatible con todas las técnicas de autenticación habituales y permite el uso de 2FA y SSO en todos los modelos de suscripción."
+            text: "Cada usuario puede activar la autenticación de dos factores. El inicio de sesión único (SSO) está disponible en la suscripción Enterprise."
     
     - name: "content-9"
       weight: 10
@@ -168,10 +169,10 @@ sections:
       subtitle: Siempre un paso por delante gracias a la inteligencia artificial
       items:
       - headline: "Expediente personal digital: seguro y conforme al RGPD"
-        text: 'En comparación con otras plataformas de RR. HH., SeaTable es fácilmente personalizable y escalable. Sus potentes funciones le permiten diseñar sus **procesos de RR. HH. de forma clara y eficiente**. Por ejemplo, utilice el archivo digital de personal de forma gratuita en la versión básica para almacenar todos los datos de los empleados de forma centralizada y segura, y acceder a ellos en cualquier momento.'
+        text: "SeaTable es fácil de adaptar y crece con sus necesidades. Así organiza sus **procesos de RR. HH. de forma clara y eficiente**. Con SeaTable Free empieza gratis: hasta 25 miembros del equipo, 10.000 filas y 2 GB de almacenamiento."
         icon: circle-question
       - headline: Minimización de fuentes de error y riesgos de proceso
-        text: "SeaTable reduce considerablemente las fuentes de error en los procesos de RR. HH. El archivo electrónico de personal es claro, fácil de gestionar y legalmente seguro. A diferencia de Excel y muchas otras herramientas de RR. HH., SeaTable ofrece **más control y seguridad para los datos confidenciales**. Ustedes deciden quién puede ver qué, protegiendo así contra el uso indebido."
+        text: "Los campos obligatorios, las listas de selección y los formularios garantizan datos uniformes, y el historial muestra cada cambio. A diferencia de una lista de Excel, usted decide exactamente **quién puede ver y editar qué datos**."
         icon: circle-question
       - headline: Información en tiempo real para tomar decisiones fundamentadas
         text: Con SeaTable, los directivos y los equipos de RR. HH. obtienen información en tiempo real sobre sus datos. Gracias a la integración y visualización de datos, pueden detectar tendencias de forma temprana y actuar de forma preventiva. Se pueden supervisar indicadores importantes como la satisfacción de los empleados, las tasas de asistencia o los avances en el [proceso de incorporación y salida]({{< relref "posts/20250324-onboarding-prozess" >}}).
@@ -191,30 +192,33 @@ sections:
       title: "FAQ: gestionar procesos de RR. HH. con SeaTable"
       items:
           - q: '¿SeaTable es realmente gratuito?'
-            a: 'SeaTable ofrece una versión gratuita que incluye todas las funciones básicas que necesita para optimizar sus procesos de RR. HH. Puede utilizar la plataforma de forma gratuita sin necesidad de proporcionar una tarjeta de crédito.' 
+            a: "Sí. SeaTable Free es gratuito de forma permanente, para hasta 25 miembros del equipo con un total de 10.000 filas y 2 GB de almacenamiento. No necesita indicar una tarjeta de crédito."
           
           - q: ¿Qué incluye la versión gratuita?
             a: La versión gratuita le permite crear archivos digitales de personal, gestionar procesos de RR. HH., utilizar sistemas de registro de horas y mucho más. Además, tendrá acceso a plantillas gratuitas específicas para RR. HH. que le facilitarán el inicio. Si necesita funciones avanzadas y más espacio de almacenamiento, puede actualizar en cualquier momento a una de nuestras versiones premium económicas.
 
-          - q: '¿Por qué SeaTable es la mejor opción en comparación con Personio y HeavenHR?'
-            a: 'Mientras que Personio y HeavenHR se especializan en funciones específicas de RR. HH., SeaTable destaca por su flexibilidad y adaptabilidad. Personio es conocido por su herramienta de gestión de candidatos fácil de usar y por la administración de funciones básicas de RR. HH., como la planificación de vacaciones para los empleados. HeavenHR destaca por su proceso de incorporación claramente estructurado y su eficiente registro del tiempo. Sin embargo, ambas plataformas tienen limitaciones en lo que respecta a la personalización y la integración en los sistemas existentes. SeaTable va más allá y ofrece una adaptabilidad total, lo que le permite personalizar y optimizar los procesos de RR. HH., como los procesos de incorporación y salida, el trabajo operativo de RR. HH. y la liquidación de gastos de viaje. Con su API flexible y sus numerosas opciones de integración, SeaTable se integra perfectamente en sus flujos de trabajo existentes y también ofrece un software de archivos de personal digital que es seguro y eficiente. En comparación con Personio y HeavenHR, SeaTable también ofrece más opciones para digitalizar los archivos de personal con el fin de satisfacer las crecientes exigencias de los procesos de recursos humanos.'
+          - q: "¿Cuándo encaja mejor SeaTable que una suite de RR. HH. como Personio?"
+            a: "Las suites de RR. HH. como Personio incluyen nómina, reglas de vacaciones predefinidas y autoservicio, y las actualizan cuando cambian las leyes. SeaTable no ofrece esto. SeaTable encaja si desea representar procesos que el software estándar no cubre o solo a un coste elevado (por ejemplo, listas de onboarding, entrega de equipos, candidaturas cuando contrata a pocas personas o formación) o si sus datos deben permanecer en sus propios servidores. Muchas empresas utilizan SeaTable junto a su software de nóminas o de RR. HH."
+
+          - q: "¿Pueden los empleados y los responsables ver solo sus propios datos?"
+            a: 'Sí. En el [App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), filtre una página por una columna de colaboradores con la condición "incluye al usuario actual". Así, cada persona solo ve los registros que tiene asignados, por ejemplo sus propias solicitudes de vacaciones o, mediante una segunda columna para responsables, las de su equipo. Los usuarios de la app no pueden cambiar este filtro. Con roles y permisos de página (Enterprise), define además quién ve cada página y qué se puede editar.'
 
           - q: '¿Cómo le ayuda la IA de SeaTable en su trabajo diario en RR. HH.?'
-            a: 'SeaTable ofrece una columna de IA nativa y automatizaciones de IA. Esto le permite, por ejemplo, crear automáticamente resúmenes de los currículos de los candidatos, redactar correos electrónicos a los candidatos o analizar los comentarios de los empleados sin salir de la plataforma.'
+            a: "Con las automatizaciones con IA puede, por ejemplo, resumir currículos, clasificar solicitudes o leer justificantes mediante OCR. En el chat de IA (SeaTable Cloud y Dedicated) hace preguntas sobre sus datos, por ejemplo sobre solicitudes de vacaciones o candidaturas abiertas, sin salir de la plataforma."
           
           - q: '¿Cómo puede integrar y optimizar sus procesos de RR. HH. existentes con SeaTable?'
             a: 'SeaTable está diseñado para integrarse perfectamente en sus procesos y sistemas de RR. HH. existentes. Gracias a su API flexible y a sus amplias posibilidades de integración, puede conectar SeaTable fácilmente con otras herramientas y plataformas. Además, SeaTable ofrece plantillas personalizables y [flujos de trabajo]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) que le permiten optimizar sus procesos de RR. HH., como la gestión de candidatos, la planificación de vacaciones, los procesos de incorporación y salida, el desarrollo de los empleados y mucho más. Con SeaTable, mantendrá el control total sobre sus operaciones de RR. HH. y podrá diseñar sus procesos de la forma que mejor se adapte a su empresa.'
 
           - q: '¿Qué seguridad tienen sus datos en SeaTable, especialmente en lo que respecta al RGPD?'
-            a: 'SeaTable concede gran importancia a la seguridad y la protección de los datos. La plataforma cumple totalmente con el RGPD y ofrece opciones flexibles de alojamiento y despliegue. Puede utilizar SeaTable en la nube o en sus propios servidores para mantener el control total sobre sus datos. Todos los datos se almacenan de forma segura y puede establecer períodos de retención individuales para su archivo personal digital. Además, los controles de acceso basados en roles garantizan que sus datos estén siempre protegidos.'
+            a: 'SeaTable Cloud almacena y procesa sus datos en centros de datos de Fráncfort y Múnich (Alemania), y el contrato de encargo del tratamiento se firma en línea. Como alternativa, ejecute SeaTable en sus propios servidores y mantenga el control total sobre sus datos. Los permisos de tabla, así como los filtros preestablecidos y los permisos de página en las apps, garantizan que cada persona solo vea los datos que le corresponden. Encontrará más detalles en nuestra [página de seguridad]({{< relref "pages/legal/security" >}}).'
 
           - q: ¿SeaTable es una buena alternativa a Personio?
-            a: Sí, por supuesto. Gracias a la posibilidad de personalizar los procesos de RR. HH. y obtener una visión general completa de los mismos, SeaTable es adecuado tanto para pequeñas como para grandes empresas como [alternativa a Personio]({{< relref "posts/personio-erfahrungen" >}}) u otras soluciones de RR. HH. Ya se trate de sistemas de registro de horas, archivos digitales de personal o la posibilidad de crear un organigrama, SeaTable le ofrece una plataforma completa para optimizar sus procesos de personal.
+            a: 'Para las tareas centrales de una suite de RR. HH. (nómina, saldos legales de vacaciones, bajas electrónicas), no. Como complemento flexible o para empresas que quieren diseñar por sí mismas procesos concretos de RR. HH., sí: candidaturas, onboarding, directorio de empleados, registro de jornada u organigrama se representan en SeaTable exactamente como usted trabaja. Más información en el artículo [Experiencias con Personio]({{< relref "posts/personio-erfahrungen" >}}).'
 
     - name: "content-5"
       weight: 11
       items:
-      - title: SeaTable es la alternativa ideal a Personio
+      - title: "SeaTable junto a Personio y compañía"
         subtitle: Registro de horas, gestión de candidatos, planificación de personal y mucho más
-        text: Si está buscando una alternativa flexible y potente a Personio, SeaTable le ofrece la solución perfecta. En comparación directa, SeaTable destaca especialmente por su **estructura de datos totalmente personalizable**, un mayor alcance funcional, un **creador de aplicaciones no-code para interfaces flexibles** y **diferentes opciones de alojamiento**. Para tener un control total y [soberanía de datos]({{< relref "posts/digitale-souveraenitaet" >}}), las empresas pueden utilizar SeaTable en sus propias instalaciones. 
+        text: '¿Utiliza una suite de RR. HH. o un software de nóminas, pero sigue necesitando listas y procesos que allí faltan o resultan demasiado caros? Con SeaTable los diseña usted mismo, con una **estructura de datos totalmente adaptable**, un **App Builder no-code para sus propias interfaces** y **distintas opciones de alojamiento**. Para un control total y [soberanía de datos]({{< relref "posts/digitale-souveraenitaet" >}}), también puede ejecutar SeaTable on-premises.'
 ---
