@@ -5,13 +5,14 @@ seo:
     title: 'Digitize your applicant management in the company'
     description: 'Clear processes and smart organization make applicant management more efficient – ideal for small and large HR departments.'
 date: '2025-07-22'
+lastmod: '2026-11-26'
 url: '/applicant-management/'
 
 sections:
     - name: hero-5
       weight: 1
       title: 'Applicant management with SeaTable'
-      text: 'Intuitive applicant management software is crucial for attracting top talent. With SeaTable as an innovative tool, you save time and money, optimize processes and improve candidate experience and employer branding. Fully GDPR compliant!'
+      text: "With SeaTable, you collect applications via web form, see in the Kanban board who is at which stage, and coordinate with your team via comments. Ideal for companies that fill a few positions per year and don't need a large applicant tracking system – in the cloud with data centers in Germany or on your own servers."
       classes:
           - bg-white
       template: 9abba02477a7435eb3d7
@@ -28,18 +29,19 @@ sections:
           - curved
           - bg-seatable-blue
       title: 'Applicant management software SeaTable'
-      subtitle: Flexible, transparent, legally compliant
-      description: SeaTable brings structure and efficiency to your applicant management. Our intuitive applicant management software combines all the advantages you need to [optimize your daily processes](({{< relref "pages/landing-pages/industry-solutions/operations" >}}).
+      subtitle: "Flexible, transparent, secure"
+      description: 'SeaTable brings structure and efficiency to your applicant management. Our intuitive applicant management software provides the features you need for lean applicant management and optimized [processes]({{< relref "pages/landing-pages/industry-solutions/operations" >}}).'
       items:
           - text: Central applicant management
           - text: Efficient talent management
           - text: Collaborative work in real time
           - text: Integrated automations and notifications
           - text: Web forms and frontend with no-code universal app
-          - text: 100% GDPR compliant
+          - text: "Data centers in Germany or your own servers"
+          - text: "AI automations: read résumés via OCR and summarize them"
           - text: Flexibly customizable data structure
       image: /images/landing-page-bewerbermanagement-1.png
-      image_alt: 'SeaTable applicant management with candidate list'
+      image_alt: "Applicants in a Kanban board by interview stage and calendar with interviews"
 
     - name: content-11
       weight: 5
@@ -55,16 +57,16 @@ sections:
       title: Quick and easy applicant selection
       subtitle: Talent management
       items:
-          - text: Selecting the right talent is easier and more efficient with SeaTable. Thanks to clever functions such as the segmentation and filtering of applications, you can find the best candidates in a targeted manner. Different views, tables and levels ensure optimum clarity and enable perfectly organized candidate selection.
+          - text: "Selecting the right talent becomes easier and more efficient with SeaTable. With filters, groupings, and ratings, you find suitable candidates faster. Different views such as table, Kanban, and calendar give you an overview of your candidate selection."
       image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
-      image_alt: 'SeaTable talent management with filtered applicants'
+      image_alt: "Applicants grouped by position and rating"
 
     - name: 'content-4'
       weight: 7
-      title: Your GDPR-compliant applicant management software
+      title: "Manage applicant data in line with data protection"
       subtitle: Security and data protection
-      text: "Data security is SeaTable's top priority. The software is **GDPR-compliant** and offers you the choice of using it on-premises or in the cloud with a server location in **Germany**. In addition, you can individually set who has access to which data, so that sensitive information is optimally protected."
+      text: "SeaTable Cloud stores your data in **data centers in Frankfurt and Munich, Germany**, and you can conclude the data processing agreement online. Alternatively, you run SeaTable **on-premises** on your own servers. You decide who sees which data – in an app, for example, departments only see the applications for their own positions."
       items:
           - icon: terminal
             headline: On-premises solution
@@ -76,7 +78,7 @@ sections:
 
           - icon: fingerprint
             headline: SSO and authentication
-            text: 'SeaTable supports all common authentication techniques and single sign-on in all subscription models.'
+            text: "Every user can enable two-factor authentication. Single sign-on is available in the Enterprise subscription."
 
     - name: 'banner-2'
       weight: 10
@@ -125,21 +127,21 @@ sections:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to get started quickly and without an extensive IT infrastructure – flexible and scalable.
             image: /images/template-projektplan.png
-            image_alt: 'SeaTable Cloud project plan template'
+            image_alt: "Desk with notebook and rulers"
           - headline: SeaTable Server
             text: For companies that want to retain full control over their data, SeaTable Server offers an on-premises option.
             image: /images/template-massnahmenplan.jpg
-            image_alt: 'SeaTable Server action plan template'
+            image_alt: "Hand sketching app interfaces on paper"
           - headline: SeaTable Dedicated
             text: For companies that need the simplicity of the cloud and the flexibility of a self-hosted system.
             image: /images/asana-dedicated.jpg
-            image_alt: 'SeaTable Dedicated environment for HR workflows'
+            image_alt: "Server rack with network cables"
 
     - name: 'content-4'
       weight: 14
       title: 'All applicant management processes in one tool'
       subtitle: Collaborative application management
-      text: 'SeaTable is infinitely customizable, GDPR-compliant and scalable – making it the perfect applicant management tool for efficient digital processes.'
+      text: "SeaTable is adaptable and grows with your requirements – a lean tool for your applicant management."
       items:
           - headline: 'Collaborative working'
             text: 'Manage applicant management processes transparently: Changes are updated in real time, important notes are added directly to SeaTable as comments.'
@@ -163,8 +165,10 @@ sections:
       weight: 17
       title: FAQ – SeaTable as applicant management software
       items:
+          - q: "Is SeaTable a full-fledged applicant tracking system?"
+            a: "Not in the sense of specialized systems: posting to multiple job boards, a careers page, and a candidate portal are not built in. SeaTable is a good fit if you fill a few positions per year and want to design your own process. You record deletion deadlines for applicant data as a date, and a notification rule or automation reminds you in good time."
           - q: 'Is SeaTable permitted as applicant management software (public service)?'
-            a: 'Yes, SeaTable offers the highest security standards and is GDPR-compliant. On-premises options and individual access controls make it the ideal solution for the public sector.'
+            a: 'Whether software may be used is decided by your authority together with your data protection officer. For this, SeaTable offers data centers in Germany, a data processing agreement, operation on your own servers, and fine-grained permissions. Learn more about [digital administration]({{< relref "pages/landing-pages/industry-solutions/public-service" >}}).'
           - q: 'What advantages does SeaTable offer as software for my applicant management?'
             a: 'The [AI no-code platform SeaTable]({{< relref "/" >}}) is an impressive applicant management software in many respects – especially due to its exceptional flexibility and adaptability. If you have been using an Excel template for your applicant management, you will appreciate SeaTable as an applicant management tool. As an [alternative to Excel]({{< relref "pages/landing-pages/alternatives/excel-alternative" >}}), SeaTable offers advantages as applicant tracking software, such as more efficient organization and overview, and automated processes.'
           - q: 'Why do I need an extra tool when I can do my applicant management with Excel?'
@@ -172,7 +176,7 @@ sections:
           - q: 'How can I optimize my applicant management process?'
             a: 'If you are looking for a comprehensive guide to applicant management and social recruiting, you will find it in our block article [Recruiting]({{< relref "posts/20250317-recruiting/" >}}). There you will find valuable tips and strategies on how to optimize your applicant management.'
           - q: 'Does SeaTable also offer a free version?'
-            a: 'Yes, SeaTable Cloud can be used as free applicant management software with a free subscription. You can then use almost all the functions and features you need for efficient and transparent applicant management. If you need extended functions and more storage space, you can upgrade to one of our cost-effective premium versions at any time.'
+            a: "Yes, SeaTable Cloud can be used as free applicant management software in the Free subscription – for up to 25 team members with a total of 10,000 rows and 2 GB of storage. You can already use almost all the features you need for efficient and transparent applicant management. If you need advanced features and more storage space, you can upgrade to one of our affordable premium versions at any time."
           - q: 'Which applicant management software is free and secure?'
-            a: 'SeaTable is an applicant management tool that can be used free of charge. It offers the highest security standards and is GDPR-compliant.'
+            a: "One applicant management tool that can be used free of charge is SeaTable. SeaTable Cloud stores your data in data centers in Frankfurt and Munich, every user can enable two-factor authentication, and you decide who sees which applicant data."
 ---
