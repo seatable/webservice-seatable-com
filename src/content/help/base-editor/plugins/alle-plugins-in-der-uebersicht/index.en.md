@@ -1,7 +1,7 @@
 ---
 title: 'All plugins at a glance'
 date: 2023-05-03
-lastmod: '2024-08-01'
+lastmod: '2026-11-26'
 categories:
     - 'plugins'
 author: 'vge'
@@ -42,6 +42,14 @@ The data deduplication plugin uncovers **duplicate entries** in a table. This is
 ![Data deduplication plugin showing list of duplicate entries](images/deduplication-plugin.jpg)
 
 [More about the data deduplication plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-file-audit.png" alt="File audit plugin icon" >}} File audit plugin {#file-audit-plugin}
+
+Removing a file from a cell does not delete it, so over the years a base can end up storing far more than its rows show. The File audit plugin compares the **files stored in your base** with the files your rows actually reference: it finds the **orphaned files** nobody uses any more, the **references to files that no longer exist**, and shows you **what takes up the storage**. It also spots files that are shared with other bases, so that you do not delete a file another base still displays.
+
+![The File audit plugin showing the storage of a base by folder](images/file-audit-plugin.png)
+
+[More about the File audit plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datei-audit-plugin" >}})
 
 ## {{< plugin-icon src="images/plugin-icon-map.png" alt="Map plugin icon" >}} Map plugin {#map-plugin}
 

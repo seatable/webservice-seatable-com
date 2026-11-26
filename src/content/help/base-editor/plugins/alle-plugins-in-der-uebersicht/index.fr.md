@@ -1,7 +1,7 @@
 ---
 title: 'Aperçu de tous les plugins'
 date: 2023-05-03
-lastmod: '2026-11-18'
+lastmod: '2026-11-26'
 categories:
     - 'plugins'
 author: 'vge'
@@ -34,6 +34,14 @@ Le plugin Arbre affiche les **enregistrements liés de façon hiérarchique**, s
 ![Plugin Arbre affichant les enregistrements de trois tableaux liés sur trois niveaux](images/tree-plugin.png)
 
 [En savoir plus sur le plugin Arbre]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-file-audit.png" alt="Icône du plugin d'audit des fichiers" >}} Plugin d'audit des fichiers {#file-audit-plugin}
+
+Retirer un fichier d'une cellule ne le supprime pas : au fil des années, une base peut donc finir par stocker bien plus que ce que montrent ses lignes. Le plugin d'audit des fichiers compare les **fichiers stockés dans votre base** avec ceux que vos lignes référencent réellement : il repère les **fichiers orphelins** que plus personne n'utilise, les **références à des fichiers qui n'existent plus**, et vous montre **ce qui occupe le stockage**. Il détecte aussi les fichiers partagés avec d'autres bases, pour que vous ne supprimiez pas un fichier qu'une autre base affiche encore.
+
+![Le plugin d'audit des fichiers affichant le stockage d'une base par dossier](images/file-audit-plugin.png)
+
+[En savoir plus sur le plugin d'audit des fichiers]({{< relref "help/base-editor/plugins/anleitung-zum-datei-audit-plugin" >}})
 
 ## {{< plugin-icon src="images/plugin-icon-map.png" alt="Icône du plugin de cartographie" >}} Plugin de cartographie {#map-plugin}
 

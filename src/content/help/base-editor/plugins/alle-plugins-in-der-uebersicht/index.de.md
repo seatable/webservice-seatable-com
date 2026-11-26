@@ -1,7 +1,7 @@
 ---
 title: 'Alle Plugins in der Übersicht'
 date: 2023-05-03
-lastmod: '2026-11-18'
+lastmod: '2026-11-26'
 categories:
     - 'plugins'
 author: 'vge'
@@ -38,6 +38,14 @@ Das Baum-Plugin stellt **verknüpfte Datensätze hierarchisch** dar, auf bis zu 
 Mit diesem Plugin können Sie **mehrseitige Berichte** erstellen, in denen Tabellen, Diagramme und Felder dynamisch mit Daten aus Ihrer Base gespeist werden. Es ähnelt dem Seitendesign-Plugin in der Hinsicht, dass es ebenfalls **PDF-Dokumente auf Basis von gelayouteten Vorlagen** erstellt. Die statischen und dynamischen Elemente werden allerdings nicht pixelgenau auf der Vorlage positioniert, sondern wie in einem **Textverarbeitungsprogramm** (z. B. Microsoft Word oder Google Docs) fortlaufend untereinander platziert.
 
 ![Das Berichtsdesign-Plugin](images/report-design-plugin-example.png)
+
+## {{< plugin-icon src="images/plugin-icon-file-audit.png" alt="Symbol des Datei-Audit-Plugins" >}} Datei-Audit-Plugin {#file-audit-plugin}
+
+Wenn Sie eine Datei aus einer Zelle entfernen, wird sie nicht gelöscht – so speichert eine Base über die Jahre womöglich weit mehr, als ihre Zeilen zeigen. Das Datei-Audit-Plugin vergleicht die **in Ihrer Base gespeicherten Dateien** mit den Dateien, auf die Ihre Zeilen tatsächlich verweisen: Es findet die **verwaisten Dateien**, die niemand mehr nutzt, die **Verweise auf Dateien, die es nicht mehr gibt**, und zeigt Ihnen, **was den Speicher belegt**. Außerdem erkennt es Dateien, die mit anderen Bases geteilt werden, damit Sie keine Datei löschen, die eine andere Base noch anzeigt.
+
+![Das Datei-Audit-Plugin zeigt den Speicher einer Base nach Ordner](images/file-audit-plugin.png)
+
+[Mehr zum Datei-Audit-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datei-audit-plugin" >}})
 
 ## {{< plugin-icon src="images/plugin-icon-deduplication.png" alt="Symbol des Datendeduplizierungs-Plugins" >}} Datendeduplizierungs-Plugin {#data-deduplication-plugin}
 
