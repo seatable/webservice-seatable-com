@@ -1,10 +1,11 @@
 ---
 title: 'Experiencias Personio – cómo valoran los clientes de Personio los costes, el servicio y las funciones'
-description: '¿Está pensando en introducir Personio como su sistema de gestión de RRHH? ¿O está insatisfecho con los altos costes de Personio y está considerando cambiar? Entonces eche un vistazo a cómo cientos de usuarios valoran Personio. Este artículo le proporcionará información útil para ayudarle a tomar su decisión y descubrir lo que los clientes de Personio realmente experimentan en su día a día.'
+description: '¿Está pensando en introducir Personio como su sistema de gestión de RR. HH.? ¿O se pregunta si los costes merecen la pena para su empresa? Aquí puede leer cómo valoran los usuarios Personio en los portales de opiniones, cuánto cuesta Personio y cuándo encaja mejor una alternativa flexible como SeaTable.'
 seo:
     title: 'Experiencias Personio: Costes, servicio y funciones'
-    description: 'Descubra todo sobre Personio: Hemos resumido para usted las experiencias reales de Personio sobre costes, servicio y funciones.'
+    description: '¿Cómo valoran los clientes Personio? Opiniones, costes, puntos fuertes y críticas de un vistazo, y cuándo SeaTable es una alternativa.'
 date: 2026-02-18
+lastmod: '2026-11-26'
 url: '/es/personio-experiencias'
 categories:
     - 'best-practice'
@@ -17,105 +18,111 @@ register:
 
 ## ¿Qué es Personio?
 
-Personio es un [software de gestión de RRHH]({{< relref "posts/20250317-hris" >}}) basado en la nube que está diseñado principalmente para empresas de 10 a 5.000 empleados. La versión básica (Personio Core) combina funciones como:
+Personio es un [software de gestión de RR. HH.]({{< relref "posts/20250317-hris" >}}) en la nube con sede en Múnich, dirigido sobre todo a pequeñas y medianas empresas. La base (Personio Core) reúne funciones como
 
-*   [Datos maestros de RRHH]({{< relref "posts/20250505-master-data-management" >}}) y archivo digital de personal
-*   [Registro de tiempos]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) y gestión de ausencias
-*   Documentos y [plantillas de RRHH]({{< relref "templates/human-resources" >}})
-*   [On-boarding]({{< relref "posts/20250324-onboarding-prozess" >}}) y off-boarding
+*   [Datos maestros del personal]({{< relref "posts/20250505-master-data-management" >}}) y expediente digital del personal
+*   [Registro de jornada]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) y gestión de ausencias
+*   Documentos y [plantillas de RR. HH.]({{< relref "templates/human-resources" >}})
+*   [Onboarding y offboarding]({{< relref "posts/20250324-onboarding-prozess" >}})
 *   Análisis e informes
 
-Las funciones avanzadas como la contabilidad de nóminas y [contratación]({{< relref "posts/20250317-recruiting" >}}) pueden reservarse individualmente en paquetes que cuestan dinero extra. La empresa tiene su sede en Múnich y opera su [nube]({{< relref "posts/cloud-computing" >}}) en Alemania.
+Otras funciones, como la nómina y la [selección de personal]({{< relref "posts/20250317-recruiting" >}}), pueden contratarse como paquetes de pago. Desde 2026, Personio ofrece además funciones de IA, como Personio Assistant, que responde preguntas sobre los propios datos de RR. HH.
 
-![reclutamiento y gestión de personal con Personio](personio-recruiting.jpg)
+![Tres personas conversando en una mesa de reuniones](personio-recruiting.jpg)
 
-## Estas experiencias Personio son realizadas por clientes
+## Estas son las experiencias de los clientes con Personio
 
-Para poder ofrecer una evaluación fundamentada de Personio, hemos analizado cientos de **opiniones sobre Personio de usuarios reales**. Como fuentes hemos utilizado plataformas como [Capterra](https://www.capterra.com.de/software/158622/personio) y [Trustpilot](https://de.trustpilot.com/review/personio.com), donde los clientes comparten honestamente sus experiencias con Personio. A continuación, resumimos cómo valoran los clientes de Personio los costes, ventajas y desventajas del software.
+Para este resumen hemos leído opiniones en [Trustpilot](https://es.trustpilot.com/review/personio.com), [Capterra](https://www.capterra.com/p/158622/Personio/) y [OMR Reviews](https://omr.com/de/reviews/product/personio/all) (a 26 de noviembre de 2026). En general, Personio obtiene buenos resultados: en Trustpilot alcanza 4,3 de 5 puntos con 366 opiniones, y en Capterra también 4,3 de 5. Sin embargo, las opiniones están divididas: en Trustpilot, el 65 % otorga la puntuación máxima y el 19 % solo una estrella. A continuación resumimos lo que los clientes elogian y lo que critican.
 
 ### Qué ventajas aprecian los usuarios de Personio
 
-Las ventajas de Personio mencionadas con más frecuencia son principalmente las funciones del propio software:
+Las ventajas de Personio mencionadas con más frecuencia se refieren sobre todo a las funciones del software:
 
--   **Funcionamiento intuitivo**: Muchos usuarios destacan que Personio tiene una interfaz de usuario clara y que la mayoría de los empleados se orientan rápidamente y sin necesidad de una formación exhaustiva.
-    
--   **Solución todo en uno**: Personio puede cubrir casi todas las tareas clásicas de RRHH en un solo sistema y sustituir a varias herramientas. En este sentido, las integraciones con otras herramientas también se mencionan positivamente.
-    
--   **Base de datos centralizada**: Al reunir los datos de los empleados, los documentos y los procesos de RR.HH. en un único lugar, Personio permite a los responsables de RR.HH. evitar el caos y aumentar la eficacia. También facilita la elaboración de informes.
-    
--   **Autoservicio para empleados**: Es un alivio para los equipos de RRHH que los empleados puedan tomar la iniciativa por sí mismos en Personio. Por ejemplo, pueden solicitar vacaciones o recuperar nóminas sin tener que ponerse en contacto constantemente con el departamento de RRHH.
+-   **Manejo intuitivo**: Muchos usuarios destacan que Personio tiene una interfaz clara y que la mayoría de los empleados se orientan rápidamente sin una formación extensa.
 
-### Donde Personio revela desventajas
+-   **Solución todo en uno**: Personio cubre la mayoría de las tareas clásicas de RR. HH. en un solo sistema y puede sustituir varias herramientas. También se mencionan positivamente las integraciones con otras herramientas.
 
-Según numerosos testimonios de clientes, Personio tiene desventajas relacionadas no sólo con el software, sino también con los costes y el servicio de atención al cliente de Personio:
+-   **Base de datos central**: Como Personio reúne en un solo lugar los datos de los empleados, los documentos y los procesos de RR. HH., los responsables de personal mantienen la visión de conjunto. Además, se facilita la elaboración de informes.
 
--   **Altos costes y falta de transparencia**: Numerosos clientes consideran que los precios son opacos y critican el hecho de que las funciones importantes a menudo sólo están disponibles en costosos paquetes adicionales.
-    
--   **Actualizaciones molestas e inestabilidad**: Los clientes denuncian que las funciones a menudo desaparecen o se complican tras una actualización, lo que hace que los procesos sean menos fáciles de usar. Supuestamente, la página web a veces se carga con lentitud y las caídas están a la orden del día.
-    
--   **Ventas agresivas**: Muchos clientes critican duramente las prácticas de venta de Personio. Por ejemplo, se prometieron funciones que ni siquiera existían o que de repente costaban más dinero. A algunos clientes se les presionó para que tomaran una decisión y se les dejó tirados en cuanto se firmó el contrato.
-    
--   **Soporte no satisfactorio**: La mayoría de los usuarios denuncian largos tiempos de espera, poca accesibilidad y respuestas inadecuadas de las personas de contacto, especialmente en el servicio de atención al cliente de Personio.  
-    
--   **No se puede cancelar mensualmente**: La suscripción anual tiene una duración mínima de 12 meses y se renueva automáticamente. También son frecuentes las quejas de que cancelar la suscripción es engorroso y de que no se envía una confirmación en el plazo establecido.
-    
--   **Muy poca flexibilidad**: Aunque Personio tiene una estructura modular, las funciones apenas pueden personalizarse. Muchos clientes desearían una mayor flexibilidad para poder adaptar los procesos a sus propias necesidades.
+-   **Autoservicio para empleados**: Los empleados pueden, por ejemplo, solicitar vacaciones o consultar sus nóminas sin contactar con el departamento de RR. HH. Esto descarga a los equipos de RR. HH.
 
-![un cliente se muestra molesto por las desventajas de Personio](personio-problems.jpg)
+### Qué critican los clientes de Personio
 
-## Por qué los costes de Personio son tan elevados
+Las críticas se refieren menos al software en sí que a los precios, las ventas y la atención al cliente:
 
-Dado que los clientes critican con más frecuencia los altos costes de Personio en sus reseñas sobre Personio, echamos un vistazo más de cerca a los **precios**. Resulta que los costes de Personio se componen de tres partes: la suscripción básica mensual por empleado, los paquetes adicionales para el departamento de RRHH y la implementación única.
+-   **Precios y transparencia**: Muchos clientes consideran que los precios son difíciles de entender y critican que algunas funciones solo estén disponibles en paquetes adicionales.
+
+-   **Actualizaciones**: Algunos clientes indican que, tras las actualizaciones, cambiaron procesos habituales o algunas funciones se comportan de otra manera.
+
+-   **Ventas**: Parte de las opiniones critica las conversaciones de venta, por ejemplo porque se entendieron funciones de forma distinta a lo que se entregó después o porque los costes adicionales se conocieron tarde.
+
+-   **Soporte**: Se mencionan con frecuencia tiempos de respuesta largos, sobre todo después de firmar el contrato. Otros clientes, en cambio, elogian expresamente la atención al cliente.
+
+-   **Duración del contrato**: Los contratos de Personio suelen durar doce meses y se renuevan automáticamente. Algunos clientes describen la cancelación como complicada.
+
+-   **Personalización limitada**: Personio tiene una estructura modular, pero los procesos siguen las pautas del software. Algunos clientes desearían más posibilidades para adaptar los procesos a sus propias necesidades.
+
+![Mujer hablando por teléfono en su escritorio frente al portátil](personio-problems.jpg)
+
+## ¿Cuánto cuesta Personio?
+
+Como los costes son el tema más frecuente en las opiniones, hemos analizado con más detalle la **estructura de precios**. Los costes se componen de tres partes: la suscripción básica por empleado, los paquetes adicionales y la configuración inicial.
 
 ### Costes de Personio por empleado
 
-La base de los costes de Personio suele ser la suscripción mensual a Personio Core. Sin embargo, la empresa **no publica precios fijos y transparentes** en su página web, sino que crea ofertas individuales. Lamentablemente, estos acuerdos secretos significan que las partes interesadas y los clientes no pueden comparar precios y defenderse de los timos. Por lo tanto, los **costes de personal por empleado y mes** sólo pueden estimarse: Aproximadamente de 3 a 5 euros se dan como orientación para las funciones básicas. Por tanto, para una empresa con 100 empleados, habría que contar con unos **costes básicos actuales** de 300 a 500 euros al mes.
+La base es la suscripción mensual a un plan de Personio (Core Lite, Core, Core Pro o Enterprise). Personio **no publica precios fijos** en su web, sino que elabora ofertas individuales (a 26 de noviembre de 2026). Los portales comparativos estiman los costes en unos 5 a 15 euros por empleado y mes, según el plan y el tamaño de la empresa. Para una empresa con 100 empleados, serían de 500 a 1.500 euros al mes. Solo una oferta de Personio es vinculante.
 
-### Paquetes adicionales para equipos de RRHH
+### Paquetes adicionales para equipos de RR. HH.
 
-Entre otras cosas, la versión básica de Personio no incluye el cálculo de nóminas ni la gestión del talento. En su lugar, Personio ofrece **paquetes adicionales** para el cálculo de nóminas y otras funciones, que elevan los costes de funcionamiento. Lamentablemente, los precios de **Personio Payroll**, **Personio Recruiting** y otros paquetes adicionales no están disponibles públicamente. Según la información de los clientes, se sitúan aproximadamente entre 13 y 18 euros por usuario y mes. Esto significa que las **suscripciones mensuales** para equipos de RR.HH. pueden sumar rápidamente varios cientos de euros al mes.
+La nómina (Personio Payroll) y la selección de personal no están incluidas en todos los planes y se ofrecen como **paquetes adicionales**. Personio tampoco publica sus precios. Desde 2026, algunas funciones de IA se facturan además según el uso mediante créditos de IA.
 
 ### Implementación de Personio
 
-Aunque crear una cuenta en los sistemas en la nube es un juego de niños, Personio cobra por ello a cada nuevo cliente. También en este caso, el proveedor no revela sus precios. Lo único que está claro es que existe una **tarifa única** por la implementación inicial de Personio, que depende del tamaño de la empresa.
+Según los portales comparativos, la configuración tiene una **tarifa única** que depende del tamaño de la empresa. Incluye la configuración, la migración de los datos existentes y la formación. Personio indica una duración media de cuatro semanas para la puesta en marcha.
 
-![Costes elevados y poco transparentes de Personio](personio-costs.jpg)
+![Pila de billetes de 50 euros](personio-costs.jpg)
 
-## SeaTable como alternativa a Personio
+## SeaTable como alternativa a Personio, o como complemento
 
-SeaTable es una solución no-code de IA que combina **gestión de datos, creación de aplicaciones y automatizaciones de IA**. Su ámbito de aplicación no se limita a la gestión de personal, lo que significa que puede utilizar SeaTable en toda la empresa (por ejemplo, en [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [ventas]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) y [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}) para crear bases de datos y apps y automatizar procesos. SeaTable también ofrece ventajas sobre Personio que entran en juego durante la evaluación:
+SeaTable es una plataforma no-code con IA que combina **gestión de datos, creación de apps y automatizaciones con IA**. No es una suite de RR. HH.: SeaTable no incluye nómina, reglas de vacaciones predefinidas con saldos de vacaciones ni bajas médicas electrónicas. En cambio, usted representa los [procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) exactamente como trabaja su empresa, y puede usar SeaTable también en [marketing]({{< relref "pages/landing-pages/industry-solutions/marketing" >}}), [ventas]({{< relref "pages/landing-pages/industry-solutions/kundenmanagement" >}}) o [gestión de proyectos]({{< relref "pages/landing-pages/industry-solutions/project-management" >}}).
 
--   **Más flexibilidad**: Construya de forma rápida, fácil e intuitiva todos los procesos, apps y vistas de datos que necesite para su gestión de RRHH.  
+SeaTable encaja especialmente en dos casos:
 
--   **Menos coste o ninguno**: Empiece gratis y escale según lo necesite a medida que su equipo crezca. SeaTable es siempre más barato que Personio.
+-   **Equipos pequeños** que no necesitan una suite de RR. HH. y quieren diseñar por sí mismos procesos como candidaturas, onboarding, solicitudes de vacaciones o un directorio de empleados.
 
--   **Total transparencia**: SeaTable publica sus [precios]({{< relref "pages/prices" >}}) y términos y condiciones en el sitio web para que todos los clientes los entiendan.
+-   **Como complemento** de un software de nóminas o de RR. HH., para procesos que allí faltan o resultan demasiado caros, como listas de onboarding, entrega de equipos, formación o candidaturas cuando contrata a pocas personas al año.
 
--   **Mejor asistencia**: Si tiene alguna pregunta sobre SeaTable, encontrará rápidamente asesoramiento en la [sección de ayuda]({{< relref "help" >}}), en [YouTube](https://www.youtube.com/@SeaTable) o en nuestra [comunidad](https://forum.seatable.com/). El apoyo personal está disponible con cita previa.
+Lo que ofrece SeaTable:
 
-Al igual que Personio, SeaTable es **una solución en la nube que cumple con la GDPR con altos estándares de seguridad** y almacena todos los datos en servidores en Alemania. Esto es importante porque procesa información personal altamente sensible en el departamento de RRHH. A diferencia de Personio, [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) está incluso disponible como versión local si desea instalar el sistema en sus propios servidores para conservar la plena [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}).
+-   **Flexibilidad**: Usted mismo crea tablas, formularios, vistas y apps para su gestión de personal, sin programar. En las apps, cada persona solo ve los datos que se han habilitado para ella.
 
-He aquí un resumen de las **diferencias entre Personio y SeaTable**:
+-   **Precios transparentes**: SeaTable publica sus [precios]({{< relref "pages/prices" >}}) y condiciones en su web. Con SeaTable Free empieza gratis, para hasta 25 miembros del equipo.
 
-| | Personio | SeaTable |
-| ----------------------- | --------------------------- | --------------------------- |
-| **Tipo de herramienta** | software de RRHH | plataforma no-code |
-| **Ámbito de aplicación** | gestión de RR.HH. | ilimitada |
-| **Costes** | elevados y poco transparentes | bajos o gratuitos |
-| **Flexibilidad** | escasa | muy elevada |
-| **Versión local** | {{< icon "circle-xmark" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| **Desarrollo de aplicaciones** | {{< icon "circle-xmark" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| **Funciones de IA** | {{< icon "circle-xmark" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+-   **Ayuda y soporte**: Encontrará respuestas en el [centro de ayuda]({{< relref "help" >}}), en [YouTube](https://www.youtube.com/@SeaTable) y en la [comunidad](https://forum.seatable.com/). El soporte personal está disponible previo acuerdo.
 
-## Conclusión mixta: la experiencia de Personio es más bien negativa
+-   **Protección de datos**: SeaTable Cloud almacena sus datos en centros de datos de Fráncfort y Múnich (Alemania). Con [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) también puede ejecutar SeaTable en sus propios servidores si desea mantener la plena [soberanía de los datos]({{< relref "posts/digitale-souveraenitaet" >}}).
 
-Personio es básicamente un software en la nube fácil de usar que proporciona amplias funciones para la gestión de personal. En este sentido, se suele elogiar que Personio como **solución todo en uno** centraliza los datos de los empleados, los documentos y los [procesos de RRHH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) y descarga al departamento de RRHH. Los clientes sólo critican el software en sí por su falta de flexibilidad, las molestas actualizaciones y los largos tiempos de carga. En definitiva, la valoración de Personio en numerosas reseñas de Personio sigue siendo pobre:
+Estas son las **diferencias entre Personio y SeaTable** de un vistazo:
 
-La experiencia Personio a menudo se vuelve negativa en cuanto los clientes experimentan las prácticas de venta: Para ello, muchos **clientes insatisfechos** afirman haber sido engañados con falsas promesas o haber sido defraudados tras firmar un contrato. **¡Cuidado: trampa de costes!** A Personio se le paga generosamente por el uso de su software, aunque los elevados precios no son evidentes en un principio. Los costes ocultos de Personio dependen en gran medida del número de empleados y de los módulos seleccionados.
+|                              | Personio                                    | SeaTable                                         |
+| ---------------------------- | ------------------------------------------- | ------------------------------------------------ |
+| **Tipo de herramienta**      | Software de RR. HH.                         | Plataforma no-code                               |
+| **Nómina**                   | como paquete adicional                      | {{< icon "circle-xmark" >}}                      |
+| **Procesos de RR. HH. listos**| sí (p. ej. saldos de vacaciones, autoservicio) | diseñados por usted, con plantillas          |
+| **Personalización**          | dentro de los módulos                       | totalmente personalizable                        |
+| **Precios**                  | bajo petición                               | publicados, versión gratuita                     |
+| **Funcionamiento**           | nube                                        | nube o servidores propios                        |
+| **Funciones de IA**          | p. ej. Personio Assistant                   | automatizaciones con IA, chat de IA              |
 
-### Plantillas de RRHH adecuadas para empezar con SeaTable
+## Conclusión: buen software de RR. HH., críticas a los precios y a las ventas
 
-¿Está pensando en cambiar? Entonces eche un vistazo a las prácticas plantillas de RRHH que le facilitarán los primeros pasos con SeaTable.
+Personio es un software de RR. HH. fácil de usar que, en general, obtiene buenas valoraciones. Se elogia sobre todo su manejo sencillo y que, como **solución todo en uno**, reúne en un solo lugar los datos de los empleados, los documentos y los [procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).
+
+Las críticas se dirigen principalmente a unos precios que solo se conocen con la oferta, a los costes adicionales de algunos paquetes y a las experiencias con ventas y soporte. Quien quiera introducir Personio debería revisar con atención la oferta, los paquetes y la duración del contrato. Si no necesita una suite de RR. HH. completa o quiere diseñar procesos concretos con más flexibilidad, SeaTable puede ser una alternativa o un complemento.
+
+### Plantillas de RR. HH. adecuadas para empezar con SeaTable
+
+¿Quiere probar SeaTable? Estas plantillas de RR. HH. le facilitan el comienzo.
 
 {{< tabs
 title1="Plantilla: Base de datos de empleados"
@@ -141,17 +148,21 @@ submit4="Utilizar plantilla" >}}
 ## Preguntas frecuentes sobre Personio
 
 {{< faq "¿Qué es Personio?" >}}
-Personio es un sistema de gestión de RRHH basado en la nube procedente de Alemania.
+Personio es un sistema de gestión de RR. HH. en la nube con sede en Múnich para pequeñas y medianas empresas.
 {{< /faq >}}
 
-{{< faq "¿Cuánto cuesta Personio Core?" >}}
-Personio no publica precios fijos en su página web, sino que crea ofertas personalizadas. Debido a esta falta de transparencia, los clientes están a merced del equipo de ventas y los costes de Personio por empleado y mes sólo pueden estimarse: Alrededor de 3 a 5 euros es una orientación para las funciones básicas. Por tanto, para una empresa con 100 empleados, puede esperar unos costes básicos continuos de 300 a 500 euros al mes.
+{{< faq "¿Cuánto cuesta Personio?" >}}
+Personio no publica precios fijos, sino que elabora ofertas individuales. Los portales comparativos estiman los costes en unos 5 a 15 euros por empleado y mes (a noviembre de 2026). Para 100 empleados, serían de 500 a 1.500 euros al mes, más paquetes adicionales como nómina o selección de personal y una tarifa única de configuración.
 {{< /faq >}}
 
-{{< faq "¿Por qué Personio es tan caro?" >}}
-Las funciones básicas se facturan por empleado y mes, lo que eleva rápidamente los costes de Personio en función del tamaño de la empresa. También hay que pagar suscripciones mensuales por los módulos adicionales que necesiten los empleados de RRHH. Esto significa que una empresa de tamaño medio que utilice Personio para sus procesos de RRHH tiene que desembolsar al menos una suma de cuatro cifras cada año. Es más, la implementación de Personio conlleva una cuota única al principio.
+{{< faq "¿Por qué se considera caro Personio?" >}}
+La base se factura por empleado y mes, de modo que los costes aumentan con el tamaño de la empresa. Los módulos adicionales, como la nómina, suponen más costes mensuales, además de una tarifa única de configuración. A cambio, las empresas obtienen una suite de RR. HH. con funciones mantenidas, por ejemplo para vacaciones, autoservicio y nómina.
 {{< /faq >}}
 
-{{< faq "¿Cuáles son las desventajas de Personio?" >}}
-Además de la mala relación calidad-precio, las opiniones sobre Personio hacen especial hincapié en la necesidad de mejorar el trato con los clientes: Entre las experiencias negativas de Personio, los disgustos más frecuentes destacan el sobrecargado servicio de atención al cliente de Personio y las descaradas prácticas de venta. También se mencionan a menudo los problemas de estabilidad, el deterioro tras las actualizaciones y los contratos amordazadores.
+{{< faq "¿Qué desventajas se mencionan de Personio?" >}}
+En las opiniones se mencionan sobre todo la poca transparencia de los precios, los costes adicionales de algunos paquetes, las experiencias con el equipo de ventas y los largos tiempos de respuesta del soporte. Algunos clientes mencionan además cambios tras las actualizaciones y la renovación automática del contrato.
+{{< /faq >}}
+
+{{< faq "¿Es SeaTable una alternativa a Personio?" >}}
+Para las tareas centrales de una suite de RR. HH. (nómina, saldos legales de vacaciones, bajas médicas electrónicas), no. Para equipos pequeños sin suite de RR. HH. o como complemento para procesos concretos, como candidaturas, onboarding o un directorio de empleados, sí. Muchas empresas utilizan SeaTable junto a su software de nóminas o de RR. HH.
 {{< /faq >}}
