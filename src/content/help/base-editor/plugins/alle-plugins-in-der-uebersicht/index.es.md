@@ -1,7 +1,7 @@
 ---
 title: 'Todos los plugins de un vistazo'
 date: 2023-05-03
-lastmod: '2026-11-18'
+lastmod: '2026-11-26'
 categories:
     - 'plugins'
 author: 'vge'
@@ -34,6 +34,14 @@ El plugin Árbol muestra los **registros vinculados de forma jerárquica**, en h
 ![Plugin Árbol mostrando los registros de tres tablas vinculadas en tres niveles](images/tree-plugin.png)
 
 [Más información sobre el plugin Árbol]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-file-audit.png" alt="Icono del plugin de auditoría de archivos" >}} Plugin de auditoría de archivos {#file-audit-plugin}
+
+Quitar un archivo de una celda no lo elimina, así que, con los años, una base puede acabar almacenando mucho más de lo que muestran sus filas. El plugin de auditoría de archivos compara los **archivos almacenados en su base** con los archivos a los que sus filas hacen referencia realmente: encuentra los **archivos huérfanos** que ya nadie usa y las **referencias a archivos que ya no existen**, y le muestra **qué ocupa el almacenamiento**. También detecta los archivos compartidos con otras bases, para que no elimine un archivo que otra base sigue mostrando.
+
+![El plugin de auditoría de archivos mostrando el almacenamiento de una base por carpeta](images/file-audit-plugin.png)
+
+[Más información sobre el plugin de auditoría de archivos]({{< relref "help/base-editor/plugins/anleitung-zum-datei-audit-plugin" >}})
 
 ## {{< plugin-icon src="images/plugin-icon-ai-chat.png" alt="Icono del plugin de chat de IA" >}} Plugin de chat de IA {#ai-chat-plugin}
 

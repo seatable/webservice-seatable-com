@@ -1,7 +1,7 @@
 ---
 title: 'Todos os plugins num relance'
 date: 2023-05-03
-lastmod: '2026-11-18'
+lastmod: '2026-11-26'
 categories:
     - 'plugins'
 author: 'vge'
@@ -34,6 +34,14 @@ O plugin Árvore apresenta os **registos ligados de forma hierárquica**, em at�
 ![Plugin Árvore a mostrar os registos de três tabelas ligadas em três níveis](images/tree-plugin.png)
 
 [Mais informações sobre o plugin Árvore]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}})
+
+## {{< plugin-icon src="images/plugin-icon-file-audit.png" alt="Ícone do plugin de auditoria de ficheiros" >}} Plugin de auditoria de ficheiros {#file-audit-plugin}
+
+Remover um ficheiro de uma célula não o elimina, por isso, ao longo dos anos, uma base pode acabar por armazenar muito mais do que as suas linhas mostram. O plugin de auditoria de ficheiros compara os **ficheiros armazenados na sua base** com os ficheiros que as suas linhas realmente referenciam: encontra os **ficheiros órfãos** que já ninguém usa e as **referências a ficheiros que já não existem**, e mostra-lhe **o que ocupa o armazenamento**. Deteta também os ficheiros partilhados com outras bases, para que não elimine um ficheiro que outra base ainda mostra.
+
+![O plugin de auditoria de ficheiros a mostrar o armazenamento de uma base por pasta](images/file-audit-plugin.png)
+
+[Mais informações sobre o plugin de auditoria de ficheiros]({{< relref "help/base-editor/plugins/anleitung-zum-datei-audit-plugin" >}})
 
 ## {{< plugin-icon src="images/plugin-icon-ai-chat.png" alt="Ícone do plugin de chat de IA" >}} Plugin de chat de IA {#ai-chat-plugin}
 
