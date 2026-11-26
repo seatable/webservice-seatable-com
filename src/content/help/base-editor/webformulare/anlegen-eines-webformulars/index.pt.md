@@ -11,7 +11,7 @@ aliases:
 seo:
     title: 'Como criar um formulário web no SeaTable'
     description: 'Converta tabelas em formulários web no SeaTable, edite campos facilmente via drag-and-drop e compartilhe o link para captar dados de qualquer usuário.'
-
+weight: 2
 ---
 
 Um **formulário Web** converte a sua tabela num formulário com campos abertos. Uma coluna na sua tabela corresponde a um campo no formulário Web associado.

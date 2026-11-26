@@ -11,72 +11,72 @@ aliases:
 seo:
     title: 'Formulários SeaTable: preencha campos por link ou URL personalizada'
     description: 'Formulários web do SeaTable: pré-preencher campos via link com valores padrão. Guia sobre tipos de coluna e modos de leitura.'
+weight: 5
 ---
 
-Para **pré-preencher formulários Web**, tem a opção de definir valores predefinidos nos campos do formulário. Pode fazê-lo diretamente no URL ou utilizando uma função de fácil utilização no SeaTable.
+Para **pré-preencher formulários web**, tem a opção de definir valores predefinidos nos campos do formulário. Pode fazê-lo diretamente no URL ou através de uma função de fácil utilização no SeaTable.
 
-## Gerar ligação de formulário com valores por defeito em SeaTable
+## Gerar um link de formulário com valores predefinidos no SeaTable
 
-O SeaTable oferece uma função com a qual pode facilmente gerar **ligações de formulários** em que os valores por defeito já estão previamente definidos.
+O SeaTable oferece uma função com a qual pode gerar comodamente **links de formulário** em que os valores predefinidos já estão definidos previamente.
 
-1. Criar um [formulário web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-2. No editor de formulários Web, clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Share** no canto superior direito.
-3. Agora clique no botão **de ligação Adicionar formulário** e aparecerá a seguinte máscara de entrada:
+1. Crie um [formulário web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
+2. No editor de formulários web, clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Partilhar** no canto superior direito.
+3. Agora clique no botão **Adicionar link de formulário** e aparecerá a seguinte máscara de introdução:
+   ![Valores pré-preenchidos em links de formulário personalizados](images/Vorbefuellte-Werte-in-benutzerdefinierten-Formularlinks.png)
+4. Dê um **nome** ao novo link. Em **URL personalizado**, pode definir pessoalmente uma parte do URL.
+5. Para pré-preencher um campo do formulário com um valor predefinido, clique em **Adicionar campo**. Selecione o **campo do formulário** no menu pendente e introduza o **valor predefinido** pretendido.
+6. Por último, pode decidir se o valor predefinido pode ser alterado ao preencher o formulário. Para isso, selecione **Leitura e escrita**. Se selecionar **Apenas leitura**, o valor não pode ser alterado no formulário.
+7. Clique em **Criar** para gerar o link.
 
-![Valores pré-preenchidos em ligações de formulários definidos pelo utilizador](images/Vorbefuellte-Werte-in-benutzerdefinierten-Formularlinks.png)
-
-5. Dê um **nome** à nova ligação. Em **URL personalizado**, pode definir parte do URL.
-6. Para pré-preencher um campo de formulário com um valor predefinido, clique em **Adicionar campo**. Seleccione o **campo** de formulário no menu pendente e introduza o **valor** por defeito pretendido.
-7. Finalmente, pode decidir se o valor por defeito pode ser alterado ao preencher o formulário. Para o fazer, seleccione **Ler e Escrever**. Se seleccionar **Apenas Leitura**, o valor no formulário permanece inalterado.
-8. Clique em **Criar** para gerar a ligação.
-
-![Ligação de formulário personalizada com valor pré-preenchido](images/Benutzerdefinierter-Formularlink-mit-vorausgefuelltem-Wert.png)
+![Link de formulário personalizado com valor pré-preenchido](images/Benutzerdefinierter-Formularlink-mit-vorausgefuelltem-Wert.png)
 
 O resultado, ou seja, o URL alargado, é o mesmo que o do procedimento manual descrito abaixo.
 
-## Preenchimento prévio de um formulário web directamente através do URL
+## Pré-preencher um formulário web diretamente através do URL
 
-![Formulário web de pré-preenchimento](images/prefill.png)
+![Pré-preencher formulário web](images/prefill.png)
 
-1. Criar um [formulário web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-2. Clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Share** no editor de formulários Web para receber a hiperligação para o formulário Web.
-3. **Copie** o link e cole-o num novo separador na **linha de pesquisa do navegador,** onde pode editá-lo e testá-lo.
-4. Para **preencher previamente** um campo do formulário com um valor por defeito, anexar a string **/?prefill_COLUMNAME=PREFILLVALUE'** ao link do formulário.
+1. Crie um [formulário web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
+2. No editor de formulários web, clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Partilhar** para obter o link para o formulário web.
+3. **Copie** o link e cole-o num novo separador na **barra de endereço do navegador**, onde o pode editar e testar.
+4. Para pré-preencher um campo do formulário com um valor predefinido, acrescente a cadeia de caracteres **/?prefill_COLUMNNAME=PREFILLVALUE** ao link do formulário.
 
-Em vez de **COLUMNNAME**, coloque o nome do campo que pretende preencher; para **PREFILLVALUE**, coloque o valor por defeito desejado. Os espaços devem ser escritos como **%20**. Preste atenção às maiúsculas e minúsculas.
+Em vez de **COLUMNNAME**, introduza o nome do campo que pretende preencher; em vez de **PREFILLVALUE**, introduza o valor predefinido pretendido. Os espaços devem ser escritos como **%20**. Tenha atenção às maiúsculas e minúsculas.
 
-**Exemplo:** Se quiser enviar a Joe Smith um formulário web personalizado com o seu nome já preenchido, anexe a string **/?prefill_name=Joe%20Smith** ao link do formulário.
+**Exemplo**: se quiser enviar a Joe Smith um formulário web personalizado no qual o nome dele já esteja preenchido, acrescente a cadeia de caracteres **/?prefill_Name=Joe%20Smith** ao link do formulário.
 
-Para utilizar **múltiplos valores por defeito**, concatenar as entradas de pré-preenchimento com um **& caracter**: /**?prefill_COLUMNAME=PREFILLVALUE&prefill_COLUMNAME=PREFILLVALUE**
+Para utilizar **vários valores predefinidos**, encadeie as entradas de pré-preenchimento com o carácter **&**: /?prefill_COLUMNNAME=PREFILLVALUE**&**prefill_COLUMNNAME=PREFILLVALUE
 
-Uma vez terminado, pode testar a ligação pressionando a **tecla Enter** e abrindo o formulário web. Se tudo tiver funcionado, poderá ver os valores por defeito pré-preenchidos nesta **pré-visualização**.
+Depois de terminar, pode testar o link premindo a **tecla Enter** e abrindo o formulário web. Se tudo tiver funcionado, poderá ver os valores predefinidos pré-preenchidos nesta **pré-visualização**.
 
 ## Campos de formulário pré-preenchíveis
 
-Dependendo do tipo de coluna em que se baseia um campo de formulário, nem sempre é possível o pré-preenchimento. Na síntese seguinte é possível ver quais os tipos de coluna que permitem o pré-preenchimento via URL e quais não permitem.
+Dependendo do tipo de coluna em que um campo de formulário se baseia, nem sempre é possível o pré-preenchimento. Na seguinte síntese, pode ver quais os tipos de coluna que permitem o pré-preenchimento via URL e quais não permitem.
 
 | Tipo de coluna       | Suporta pré-preenchimento                                     |
 | -------------------- | ------------------------------------------------------------- |
 | Número automático    | {{< icon "circle-xmark" >}}                                   |
 | Imagem               | {{< icon "circle-xmark" >}}                                   |
-| Caixa de verificação | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Caixa de seleção     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Ficheiro             | {{< icon "circle-xmark" >}}                                   |
 | Data                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Duração              | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Selecção única       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Correio electrónico  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Seleção única        | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| E-mail               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Criador              | {{< icon "circle-xmark" >}}                                   |
 | Criado em            | {{< icon "circle-xmark" >}}                                   |
 | Texto formatado      | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Fórmula              | {{< icon "circle-xmark" >}}                                   |
-| Fórmula para links   | {{< icon "circle-xmark" >}}                                   |
+| Fórmula de ligação   | {{< icon "circle-xmark" >}}                                   |
 | Geoposição           | {{< icon "circle-xmark" >}}                                   |
 | Último editor        | {{< icon "circle-xmark" >}}                                   |
-| Selecção múltipla    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Empregados           | {{< icon "circle-xmark" >}}                                   |
+| Seleção múltipla     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Colaborador          | {{< icon "circle-xmark" >}}                                   |
 | Classificação        | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Botão                | {{< icon "circle-xmark" >}}                                   |
 | Assinatura           | {{< icon "circle-xmark" >}}                                   |
+| Número de telefone   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Texto                | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | URL                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Número               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |

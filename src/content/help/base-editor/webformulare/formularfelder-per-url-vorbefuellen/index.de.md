@@ -9,6 +9,7 @@ url: '/de/hilfe/formularfelder-per-url-vorbefuellen'
 seo:
     title: 'SeaTable Webformulare: Formularfelder per URL oder Link vorbefüllen'
     description: 'SeaTable Webformulare: Felder per Link mit Standardwerten vorbefüllen. Anleitung zu unterstützten Spaltentypen und Lesemodi.'
+weight: 5
 ---
 
 Um **Webformulare vorzubefüllen**, haben Sie die Möglichkeit, Standardwerte in den Formularfeldern zu definieren. Dies können Sie direkt in der URL machen oder mithilfe einer benutzerfreundlichen Funktion in SeaTable.
@@ -20,10 +21,11 @@ SeaTable bietet eine Funktion, mit der Sie bequem **Formularlinks** generieren k
 1. Erstellen Sie ein [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Klicken Sie im Webformular-Editor auf die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben** in der rechten oberen Ecke.
 3. Klicken Sie nun auf die Schaltfläche **Formular-Link hinzufügen** und folgende Eingabemaske erscheint:
-   ![Vorbefüllte Werte in benutzerdefinierten Formularlinks](images/Vorbefuellte-Werte-in-benutzerdefinierten-Formularlinks.png)5. Geben Sie dem neuen Link einen **Namen**. Unter **Eigene URL** können Sie einen Teil der URL selbst definieren.
-4. Um ein Formularfeld mit einem Standardwert vorzubefüllen, klicken Sie auf **Feld hinzufügen**. Wählen Sie aus dem Drop-down-Menü das **Formularfeld** aus und tragen Sie den gewünschten **Standardwert** ein.
-5. Zuletzt können Sie noch entscheiden, ob der Standardwert beim Ausfüllen des Formulars geändert werden kann. Wählen Sie dazu **Lesen und Schreiben**. Wenn Sie **nur Lesen** wählen, bleibt der Wert im Formular unveränderlich.
-6. Klicken Sie auf **Erstellen**, um den Link zu generieren.
+   ![Vorbefüllte Werte in benutzerdefinierten Formularlinks](images/Vorbefuellte-Werte-in-benutzerdefinierten-Formularlinks.png)
+4. Geben Sie dem neuen Link einen **Namen**. Unter **Eigene URL** können Sie einen Teil der URL selbst definieren.
+5. Um ein Formularfeld mit einem Standardwert vorzubefüllen, klicken Sie auf **Feld hinzufügen**. Wählen Sie aus dem Drop-down-Menü das **Formularfeld** aus und tragen Sie den gewünschten **Standardwert** ein.
+6. Zuletzt können Sie noch entscheiden, ob der Standardwert beim Ausfüllen des Formulars geändert werden kann. Wählen Sie dazu **Lesen und Schreiben**. Wenn Sie **nur Lesen** wählen, bleibt der Wert im Formular unveränderlich.
+7. Klicken Sie auf **Erstellen**, um den Link zu generieren.
 
 ![Benutzerdefinierter Formularlink mit vorausgefülltem Wert](images/Benutzerdefinierter-Formularlink-mit-vorausgefuelltem-Wert.png)
 
@@ -36,7 +38,7 @@ Das Ergebnis, also die erweiterte URL, ist das gleiche wie bei der unten beschri
 1. Erstellen Sie ein [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Klicken Sie im Webformular-Editor auf die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben**, um den Link zu dem Webformular zu erhalten.
 3. **Kopieren** Sie den Link und fügen Sie ihn in einem neuen Tab **in die Suchzeile des Browsers** ein, wo Sie ihn bearbeiten und testen können.
-4. Um ein Formularfeld mit einem Standardwert vorzubefüllen, hängen Sie die Zeichenfolge **/?prefill_COLUMNNAME=PREFILLVALUE‘** an den Formularlink an.
+4. Um ein Formularfeld mit einem Standardwert vorzubefüllen, hängen Sie die Zeichenfolge **/?prefill_COLUMNNAME=PREFILLVALUE** an den Formularlink an.
 
 Anstelle von **COLUMNNAME** setzen Sie den Namen des Feldes ein, das Sie ausfüllen möchten; bei **PREFILLVALUE** setzen Sie den gewünschten Standardwert ein. Leerzeichen sind als **%20** zu schreiben. Achten Sie auf Groß- und Kleinschreibung.
 
@@ -72,6 +74,7 @@ Je nachdem, welcher Spaltentyp einem Formularfeld zugrundeliegt, ist das Vorbef�
 | Rating                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Schaltfläche           | {{< icon "circle-xmark" >}}                                   |
 | Signatur               | {{< icon "circle-xmark" >}}                                   |
+| Telefonnummer          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Text                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | URL                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Zahl                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
