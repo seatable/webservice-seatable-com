@@ -1,7 +1,7 @@
 ---
 title: 'Ausführungslog einer Automation anzeigen'
 date: 2023-01-26
-lastmod: '2025-11-05'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -12,9 +12,9 @@ seo:
 weight: 8
 ---
 
-Um die **korrekte Ausführung einer Automation** zu überprüfen, haben Sie die Möglichkeit, das **Ausführungslog** einzusehen. In diesem hält SeaTable für jeden Automationslauf folgende Informationen fest: Ausführungszeit, Ausführungsbedingung, Status und ggf. Warnungen. Zudem gibt es eine übergreifende **Statistik** aller Automationsläufe.
+Um die **korrekte Ausführung einer Automation** zu überprüfen, haben Sie die Möglichkeit, das **Ausführungslog** einzusehen. In diesem hält SeaTable für jeden Automationslauf folgende Informationen fest: Ausführungszeit, Endzeit, Ausführungsbedingung, Status und ggf. Warnungen. Zudem gibt es eine übergreifende **Statistik** aller Automationsläufe.
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Jede Ausführung einer Automation wird als sogenannter **Automationslauf** bezeichnet." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Jede Ausführung einer Automation wird als **Automationslauf** bezeichnet." />}}
 
 ## So werfen Sie einen Blick ins Ausführungslog
 
@@ -32,11 +32,15 @@ Folgende Informationen können Sie im Ausführungslog einer Automation einsehen:
 
 - **Ausführungszeit**: Hier speichert SeaTable den genauen Zeitpunkt, zu dem der Trigger die Automation ausgelöst hat.
 
+- **Endzeit**: Das ist der genaue Zeitpunkt, zu dem der Automationslauf beendet war.
+
 - **Ausführungsbedingung**: Wenn die Automation durch die Änderung oder das Hinzufügen eines Eintrags ausgelöst wird, erscheint die Meldung **per_update**. Bei einem periodisch ausgelösten Automationslauf erscheint hingegen die Meldung **per_day/week/month**.
 
 - **Status**: Der Status gibt an, ob die Automation erfolgreich ausgeführt wurde. Ist dies der Fall, erscheint hier die Meldung **Erfolg**.
 
 - **Warnungen**: Gab es Probleme bei der Ausführung einer Automation, erscheint hier eine entsprechende Warnmeldung.
+
+{{< warning  headline="Hinweis"  text="Wenn Ausführungs- und Endzeit übereinstimmen, hat der Automationslauf nur den Bruchteil einer Sekunde in Anspruch genommen." />}}
 
 ## Statistik aller Automationsläufe
 

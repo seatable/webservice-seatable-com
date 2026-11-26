@@ -28,24 +28,24 @@ You can set spaces and line breaks almost arbitrarily in the **formula editor**.
 
 ## Using syntax in the formula editor
 
-When you click on an **element** in the formula editor that you want to add to your formula, helpful information is displayed. Directly under the name of the selected element, in addition to a brief description of how it **works**, you'll also see a possible **syntax** and a concrete **example of** how it might look in a formula. When writing more complex formulas, this **information** can be useful to avoid mistakes or uncertainties.
+When you click on an **element** in the formula editor that you want to add to your formula, helpful information is displayed. Directly under the name of the selected element, in addition to a brief description of how it **works**, you'll also see a possible **syntax** and a concrete **example** of how it might look in a formula. When writing more complex formulas, this **information** can be useful to avoid mistakes or uncertainties.
 
 ![Information about an element in the formula wizard](images/Informationen-zu-einem-Element.png)
 
-## Note the color scheme of the various form elements
+## Note the color scheme of the various formula elements
 
 To be able to distinguish the different elements of your formula from each other, they are marked in a different **color** depending on their type. You can find out which elements are displayed in which color [here]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}#klare-farbsprache-zur-orientierung).
 
-Use the different **colors** as a guide to get a better overview of your formula. In addition, the color highlighting of the formula elements can also act as a kind of **self-control** in two cases:
+Use the different **colors** as a guide to get a better overview of your formula. In addition, the color highlighting of the formula elements can also act as a kind of **self-check** in two cases:
 
-- **Text elements** are not marked in **red** in your formula until they are enclosed **in quotation marks**.
+- **Text elements** are not marked in **red** in your formula until they are enclosed in **quotation marks**.
 - **References to columns** are not marked in **purple** in your formula until they are surrounded by **curly braces**.
 
-If the mentioned formula elements are **not** marked in the corresponding **color** in your formula, you have entered them **incorrectly**. To correct this, use the syntax
+If the mentioned formula elements are **not** marked in the corresponding **color** in your formula, you have entered them **incorrectly**. To correct this, use the syntax.
 
-## Note highlighting of brackets that belong together
+## Note the highlighting of matching parentheses
 
-**Matching parentheses** are **highlighted in** the formula editor as soon as you click an opening or closing parenthesis. This makes it easier to spot **missing** or **incorrect** bracket replacements.
+**Matching parentheses** are **highlighted** in the formula editor as soon as you click an opening or closing parenthesis. This makes it easier to spot **missing** or **incorrect** parentheses.
 
 ![Opening and closing parentheses are always highlighted in the formula editor](images/example-brackets.png)
 
@@ -57,9 +57,6 @@ For example, an optimal way to plan a formula might look like this:
 
 1. First write down in your own words what **goal** you want to achieve with the formula (e.g. calculate remaining days until an event).
 2. Search for a suitable **function** in the formula editor (e.g. dateDif).
-3. Use the **syntax of** the function to check the correct spelling, e.g. dateDif(start date, end date, unit).
-4. Write the **formula** in the provided text field in the formula editor. Use **line breaks** and **spaces to** make the logic of your formula more visible. If there are any ambiguities, check the formula using the syntax.
-
-**Tip**: Especially at the beginning it can be helpful to write only parts of a formula at first and then gradually add more elements to it.
-
-6. Check your formula for possible **error messages**. If you see any, try to fix them on your own first. If you need further help, feel free to use our help article [Typical errors when working with formulas]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).
+3. Use the **syntax** of the function to check the correct spelling – e.g. dateDif(start date, end date, unit).
+4. Write the **formula** in the provided text field in the formula editor. Use **line breaks** and **spaces** to make the logic of your formula more visible. Especially at the beginning, it can be helpful to write only parts of a formula and then gradually add more elements to it.
+5. Pay attention to possible **error messages**. If any appear, first try to fix them on your own by checking the formula against the syntax. If you need further help, feel free to use our help article [Typical errors when working with formulas]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).

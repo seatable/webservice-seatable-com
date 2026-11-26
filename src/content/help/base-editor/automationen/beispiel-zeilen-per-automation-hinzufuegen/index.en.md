@@ -1,5 +1,5 @@
 ---
-title: 'rows Add via automation'
+title: 'Add rows via automation'
 date: 2023-03-02
 lastmod: '2023-03-31'
 categories:
@@ -19,34 +19,34 @@ With the help of automations, you no longer have to manually add rows with certa
 
 ![Add entries via automation](images/how-to-use-automations-for-locking-rows-3.png)
 
-1. In the base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
-2. Click **Add Rule**.
-3. **Name** the automation and specify the **table** and **view** in which it should act.
-4. Define a **trigger event that triggers** the automation.
-5. Click **Add Action** and select **Addrow** as the automated action.
+1. In the base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation rules**.
+2. Click **Add rule**.
+3. **Name** the automation and specify the **table** and **view** in which it should take effect.
+4. Define a **trigger event** that triggers the automation.
+5. Click **Add action** and select **Add record** as the automated action.
 6. Confirm with **Submit**.
 
 ## Creating the automation
 
 First define a **trigger event** for the automation.
 
-![Trigger events basically available for selection](images/trigger-options-for-archivating-rows.png)
+![Trigger events generally available for selection](images/trigger-options-for-archivating-rows.png)
 
-{{< warning  headline="Important note" >}}
+{{< warning type="warning" headline="Important note" >}}
 
-The automated action **row add** is available to you **exclusively** available after the following trigger events:
+The automated action **Add record** is available to you **exclusively** after the following trigger events:
 
-- "A new entry is added"
-- "Entries meet certain conditions after editing"
-- "Periodic trigger"
+- When a row is added
+- When a row is updated
+- At scheduled time
 
 {{< /warning >}}
 
-Then select **Add row** as the automated action.
+Then select **Add record** as the automated action.
 
 ![Adding the automated action](images/add-an-action.png) ![Selection of the automated action](images/action-add-records.png)
 
-In the next step, define the **entries** that should appear in a row after the automation is triggered. By clicking on **Add field** you can define any entry you like.
+In the next step, define the **entries** that should appear in a row after the automation is triggered. By clicking on **Add field** you can define any entry you like each time.
 
 ![Click on Add field to define entries](images/add-field.png)
 
@@ -77,7 +77,7 @@ First, give the automation a **name** and select both the **table** (here: Team 
 
 ![Naming the automation and selecting the table and view in which the automation should act](images/basic-settings-automation-example.png)
 
-As the **trigger event** of the automation, select the option **Periodic trigger**.
+As the **trigger event** of the automation, select the option **At scheduled time**.
 
 ![Selection of the trigger event](images/select-trigger.png)
 
@@ -85,11 +85,11 @@ Then define at what intervals the automation should be executed. To have the row
 
 ![Selection of the time intervals at which the automation should be executed](images/run-frequency.png)
 
-You can also select a specific **day of the week** and a specific **time** at which the automation should be triggered. In our use case, it makes sense to choose an hour before the weekly meeting on Monday morning as the trigger time.
+You can also select a specific **day of the week** and a specific **time** at which the automation should be triggered. In our use case, it makes sense to choose one hour before the start of the weekly meeting on Monday morning as the trigger time.
 
 ![Selection of the specific execution time of the automation](images/set-weekday-and-hour.png)
 
-In the next step, define **Add row** as the **automated action**.
+In the next step, define **Add record** as the **automated action**.
 
 ![Selection of the automated action](images/select-add-record-as-a-action.png)
 
@@ -109,7 +109,7 @@ If, for example, the team meeting usually takes place in a specific room, you ca
 
 ### Testing the automation
 
-If the automation works as desired, SeaTable will automatically add a row with the previously defined **entries** to your table after the periodic trigger fires (here: every Monday at 7 a.m.). This saves you some keystrokes, and you can then enter the remaining open data manually.
+If the automation works as desired, SeaTable will automatically add a row with the previously defined **entries** to your table after the trigger fires at the scheduled time (here: every Monday at 7 a.m.). This saves you some keystrokes, and you can then enter the remaining data manually.
 
 ![Table after the defined automation has been triggered ](images/table-after-automation-new-record-to-current-table.png)
 

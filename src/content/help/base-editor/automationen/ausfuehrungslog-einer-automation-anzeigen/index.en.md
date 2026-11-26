@@ -1,7 +1,7 @@
 ---
 title: 'Show execution log of an automation'
 date: 2023-01-26
-lastmod: '2025-11-05'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -14,7 +14,7 @@ seo:
 weight: 8
 ---
 
-To check the **correct execution of an automation**, you have the possibility to view the **execution log**. In this log, SeaTable records the following information for each automation run: execution time, execution condition, status and warnings, if any. There are also comprehensive **statistics** for all automation runs.
+To check the **correct execution of an automation**, you have the possibility to view the **execution log**. In this log, SeaTable records the following information for each automation run: execution time, end time, execution condition, status and warnings, if any. There are also comprehensive **statistics** for all automation runs.
 
 {{< warning  headline="Important note"  text="Each execution of an automation is called an **automation run**." />}}
 
@@ -32,17 +32,17 @@ To check the **correct execution of an automation**, you have the possibility to
 
 You can view the following information in the execution log of an automation:
 
-**Execution time**  
-Here SeaTable stores the exact time when the trigger initiated the automation.
+- **Execution time**: Here SeaTable stores the exact time when the trigger initiated the automation.
 
-**Execution condition**  
-If the automation is triggered by the change or addition of a record, the message **per_update** appears. On the other hand, if the automation is triggered periodically, the message **per_day/week/month** appears.
+- **End time**: This is the exact time when the automation run was completed.
 
-**Status**  
-The status indicates whether the automation was executed successfully. If this is the case, the message **Success** appears here.
+- **Execution condition**: If the automation is triggered by the change or addition of a record, the message **per_update** appears. On the other hand, if the automation is triggered periodically, the message **per_day/week/month** appears.
 
-**Warnings**  
-If there were problems during the execution of an automation, a corresponding warning message appears here.
+- **Status**: The status indicates whether the automation was executed successfully. If this is the case, the message **Success** appears here.
+
+- **Warnings**: If there were problems during the execution of an automation, a corresponding warning message appears here.
+
+{{< warning  headline="Note"  text="If the execution time and end time are identical, the automation run took only a fraction of a second." />}}
 
 ## Statistics of all automation runs
 

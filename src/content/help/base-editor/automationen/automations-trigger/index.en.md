@@ -1,7 +1,7 @@
 ---
 title: 'Automation Triggers'
 date: 2023-01-27
-lastmod: '2025-11-11'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -37,7 +37,7 @@ To create or edit a trigger, click on the corresponding box in the central area 
 - Then define the **table** and the **view** in which the automation should take effect.
 - Depending on the type of trigger, you can make further settings, e.g. **monitored columns**, **conditions** for triggering or the **time** of triggering.
 
-![trigger settings in detail](images/automation-trigger-settings.gif)
+![Trigger settings in detail](images/automation-trigger-settings.gif)
 
 {{< warning headline="Save changes" text="Don't forget to **save** the trigger settings! Otherwise, all changes will be lost when you close the window." />}}
 
@@ -45,7 +45,7 @@ To create or edit a trigger, click on the corresponding box in the central area 
 
 If you select this event as a trigger, the corresponding automation is triggered each time a value is changed in one of the monitored columns and a row in the selected view meets certain conditions after editing. If you want the trigger to fire every time a change is made, do not add any conditions.
 
-For the **Conditions**, you can define individually for each column what the corresponding value must look like after editing in order for the automation to start. As part of this, you can decide whether all or only selected columns in the view should be monitored for the occurrence of the trigger event.
+For the **conditions**, you can define individually for each column what the corresponding value must look like after editing in order for the automation to start. As part of this, you can decide whether all or only selected columns in the view should be monitored for the occurrence of the trigger event.
 
 ![Trigger settings when a row is changed](images/automation-trigger-when-a-row-is-updated.jpg)
 
@@ -59,9 +59,13 @@ If you select this event as the trigger for an automation, you can choose from t
 - Modify record
 - Add links
 - Add record to another table
+- Add record to linked table
+- Modify linked record in other table
 - Run Python script
 - Run AI
-  
+- Manage events in Google Calendar
+- Convert page to PDF
+
 ## Automation trigger: When a row is added
 
 If you select this event as a trigger, the corresponding automation will be triggered every time a **new row** is added in the selected view. In addition, you can further restrict the occurrence of the event by defining **conditions** that the new row must fulfill.
@@ -70,7 +74,7 @@ If you select this event as a trigger, the corresponding automation will be trig
 
 In the conditions, you can specify individually for each column what the corresponding value must be for the automation to start. If you want each new row to trigger the automation, do not add any conditions.
 
-{{< warning headline="Advice" text="This trigger is particularly useful, for example, when you import new data records or enter them via forms." />}}
+{{< warning headline="Tip" text="This trigger is particularly useful, for example, when you import new data records or enter them via forms." />}}
 
 If you select this event as the trigger for an automation, you can choose from the following **automated actions**:
 
@@ -84,6 +88,8 @@ If you select this event as the trigger for an automation, you can choose from t
 - Add record to another table
 - Run Python script
 - Run AI
+- Manage events in Google Calendar
+- Convert page to PDF
 
 ## Automation trigger: At scheduled time
 
@@ -103,13 +109,13 @@ If you set this trigger for an automation, you can choose from the following **a
 - Add record
 - Add links
 - Run Python script
-- Run AI
 - Run data processing
 - Generate PDF from document and send
+- Archive
 
 ## Automation trigger: At scheduled time for records that match conditions
 
-With this trigger, you specify a **time** congruent to the previously mentioned trigger at which the automation is triggered **daily**, **weekly** or **monthly**. You can also limit the rows that are affected by this trigger event.
+With this trigger, you specify a **time**, just as with the previous trigger, at which the automation is triggered **daily**, **weekly** or **monthly**. You can also limit the rows that are affected by this trigger event.
 
 For the **conditions**, you can specify individually for each column what the corresponding value must look like for the automation to be executed at the specified time.
 
@@ -123,3 +129,4 @@ If you select this trigger for an automation, you can choose from the following 
 - Lock record
 - Modify record
 - Convert page to PDF
+- Archive

@@ -9,7 +9,7 @@ url: '/fr/aide/ajouter-lignes-automatiques-seatable'
 aliases:
     - '/fr/aide/zeilen-per-automation-hinzufuegen'
 seo:
-    title: 'Ajouter des lignes automatiquement via automation'
+    title: 'Ajouter des lignes automatiquement avec SeaTable'
     description: 'Automatisez l’ajout de lignes dans vos tableaux SeaTable grâce aux règles, déclencheurs ou périodicité selon vos besoins.'
 ---
 
@@ -19,34 +19,34 @@ Grâce aux automatisations, vous n'avez plus besoin d'ajouter manuellement des l
 
 ![Ajouter des entrées par automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
-1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
+1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de la base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.
 3. **Nommez** l'automatisation et définissez le **tableau** et la **vue** dans lesquels elle doit agir.
-4. Définir un **événement déclencheur** qui déclenchera l'automatisation.
-5. Cliquez sur **Ajouter une action** et sélectionnez **Ajouter une ligne** comme action automatisée.
+4. Définissez un **événement déclencheur** qui déclenchera l'automatisation.
+5. Cliquez sur **Ajouter une action** et sélectionnez **Ajouter un enregistrement** comme action automatisée.
 6. Confirmez en cliquant sur **Envoyer**.
 
-## Création de l'automation
+## Création de l'automatisation
 
 Définissez d'abord un **événement déclencheur** pour l'automatisation.
 
-![Événements déclencheurs à choisir en principe](images/trigger-options-for-archivating-rows.png)
+![Événements déclencheurs disponibles en principe](images/trigger-options-for-archivating-rows.png)
 
-{{< warning  headline="Remarque importante" >}}
+{{< warning type="warning" headline="Remarque importante" >}}
 
-L'action automatisée **Ajouter une ligne** est à votre disposition **exclusivement** sont disponibles après les événements déclencheurs suivants :
+L'action automatisée **Ajouter un enregistrement** est à votre disposition **exclusivement** après les événements déclencheurs suivants :
 
-- Une nouvelle entrée est ajoutée
-- Les entrées remplissent certaines conditions après traitement
-- Déclencheur périodique
+- Lorsqu'une ligne est ajoutée
+- Lorsqu'une ligne est mise à jour
+- À une heure programmée
 
 {{< /warning >}}
 
-Sélectionnez ensuite **Ajouter une ligne** comme action automatisée.
+Sélectionnez ensuite **Ajouter un enregistrement** comme action automatisée.
 
 ![Ajout de l'action automatisée](images/add-an-action.png) ![Sélection de l'action automatisée](images/action-add-records.png)
 
-Dans l'étape suivante, définissez les **entrées** qui doivent apparaître dans une ligne après le déclenchement de l'automatisation. En cliquant sur **Ajouter un champ**, vous pouvez définir n'importe quelle entrée.
+Dans l'étape suivante, définissez les **entrées** qui doivent apparaître dans une ligne après le déclenchement de l'automatisation. En cliquant sur **Ajouter un champ**, vous pouvez définir à chaque fois l'entrée de votre choix.
 
 ![Cliquez sur Ajouter un champ pour définir des entrées](images/add-field.png)
 
@@ -77,7 +77,7 @@ Tout d'abord, donnez un **nom** à l'automatisation et sélectionnez à la fois 
 
 ![Nommage de l'automatisation, sélection du tableau et de la vue dans lesquels l'automatisation doit agir](images/basic-settings-automation-example.png)
 
-Comme **événement déclencheur** de l'automatisation, sélectionnez l'option **Déclencheur périodique**.
+Comme **événement déclencheur** de l'automatisation, sélectionnez l'option **À une heure programmée**.
 
 ![Sélection de l'événement déclencheur](images/select-trigger.png)
 
@@ -89,7 +89,7 @@ Vous pouvez également sélectionner un **jour de la semaine** concret ainsi qu'
 
 ![Sélection du moment concret d'exécution de l'automatisation](images/set-weekday-and-hour.png)
 
-Comme **action automatisée**, définissez à l'étape suivante l'action **Ajouter une ligne**.
+Comme **action automatisée**, définissez à l'étape suivante l'action **Ajouter un enregistrement**.
 
 ![Sélection de l'action automatisée](images/select-add-record-as-a-action.png)
 
@@ -105,11 +105,11 @@ En cliquant sur **Ajouter un champ**, vous pouvez définir autant d'**entrées**
 
 ![Définissez autant d'entrées que vous le souhaitez ](images/other-records.jpg)
 
-Si, par exemple, la réunion d'équipe a habituellement lieu dans une salle donnée, vous pouvez définir cette salle comme valeur fixe. Et si certains sujets (tels que les arrivées/départs/anniversaires) sont à l'ordre du jour de chaque réunion d'équipe, vous pouvez également faire en sorte qu'ils soient toujours ajoutés à la ligne.
+Si, par exemple, la réunion d'équipe a habituellement lieu dans une salle donnée, vous pouvez définir cette salle comme valeur fixe. Et si certains sujets (tels que les arrivées/départs/anniversaires d'entreprise) sont à l'ordre du jour de chaque réunion d'équipe, vous pouvez également faire en sorte qu'ils soient toujours ajoutés à la ligne.
 
 ### Tester l'automatisation
 
-Si l'automatisation fonctionne comme prévu, SeaTable ajoutera automatiquement à votre tableau une ligne avec les **entrées** précédemment définies après le déclenchement du déclencheur périodique (ici : tous les lundis à 7 h). Cela vous économise quelques frappes et vous pouvez ensuite saisir manuellement les données encore ouvertes.
+Si l'automatisation fonctionne comme prévu, SeaTable ajoutera automatiquement à votre tableau une ligne avec les **entrées** précédemment définies après l'activation du déclencheur à l'heure programmée (ici : tous les lundis à 7 h). Cela vous économise quelques frappes et vous pouvez ensuite saisir manuellement les données encore manquantes.
 
 ![Tableau après le déclenchement de l'automatisation définie ](images/table-after-automation-new-record-to-current-table.png)
 

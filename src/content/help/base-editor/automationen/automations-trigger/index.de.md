@@ -1,7 +1,7 @@
 ---
 title: 'Automations-Trigger'
 date: 2023-01-27
-lastmod: '2025-11-11'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -16,7 +16,7 @@ weight: 5
 
 ## Verfügbare Automations-Trigger
 
-In der aktuellsten Version von SeaTable stehen ingesamt **vier** verschiedene Auslöser zur Auswahl:
+In der aktuellsten Version von SeaTable stehen insgesamt **vier** verschiedene Auslöser zur Auswahl:
 
 ![Momentan zur Verfügung stehende Trigger-Ereignisse](images/automation-triggers.jpg)
 
@@ -57,8 +57,12 @@ Wenn Sie dieses Ereignis als Trigger einer Automation auswählen, stehen Ihnen f
 - Eintrag bearbeiten
 - Links hinzufügen
 - Neuen Eintrag in anderer Tabelle hinzufügen
+- Eintrag in verknüpfter Tabelle hinzufügen
+- Verknüpften Eintrag in anderer Tabelle bearbeiten
 - Python-Skript ausführen
 - KI aufrufen
+- Termine in Google Kalender verwalten
+- Seite in PDF umwandeln
 
 ## Automations-Trigger: Wenn eine Zeile hinzugefügt wird
 
@@ -82,6 +86,8 @@ Wenn Sie dieses Ereignis als Trigger einer Automation auswählen, stehen Ihnen f
 - Neuen Eintrag in anderer Tabelle hinzufügen
 - Python-Skript ausführen
 - KI aufrufen
+- Termine in Google Kalender verwalten
+- Seite in PDF umwandeln
 
 ## Automations-Trigger: Zu einer geplanten Zeit
 
@@ -101,9 +107,9 @@ Wenn Sie diesen Auslöser für eine Automation festlegen, stehen Ihnen folgende 
 - Zeile hinzufügen
 - Links hinzufügen
 - Python-Skript ausführen
-- KI aufrufen
 - Datenverarbeitungsoperation ausführen
 - PDF auf Basis eines Dokuments erzeugen und versenden
+- Archivieren
 
 ## Automations-Trigger: Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
@@ -121,3 +127,4 @@ Wenn Sie diesen Auslöser für eine Automation auswählen, stehen Ihnen folgende
 - Eintrag sperren
 - Eintrag bearbeiten
 - Seite in PDF umwandeln
+- Archivieren
