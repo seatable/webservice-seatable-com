@@ -1,7 +1,7 @@
 ---
 title: 'Automations-Aktionen'
 date: 2023-01-27
-lastmod: '2025-11-11'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -16,7 +16,7 @@ weight: 6
 
 ## Verfügbare Automations-Aktionen
 
-In der aktuellsten Version von SeaTable stehen ingesamt 15 verschiedene Automations-Aktionen zur Auswahl:
+In der aktuellsten Version von SeaTable stehen insgesamt 17 verschiedene Automations-Aktionen zur Auswahl:
 
 - Benachrichtigung versenden
 - App-Benachrichtigung versenden
@@ -26,6 +26,8 @@ In der aktuellsten Version von SeaTable stehen ingesamt 15 verschiedene Automati
 - Eintrag bearbeiten
 - Links hinzufügen
 - Neuen Eintrag in anderer Tabelle hinzufügen
+- Eintrag in verknüpfter Tabelle hinzufügen
+- Verknüpften Eintrag in anderer Tabelle bearbeiten
 - Python-Skript ausführen
 - KI aufrufen
 - Termine in Google Kalender verwalten
@@ -96,7 +98,7 @@ Wenn Sie "Zeile hinzufügen" als automatisierte Aktion definieren, wird jedes Ma
 
 Die Automations-Aktion "Zeile hinzufügen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 - Zu einer geplanten Zeit
 
 Der Artikel [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
@@ -107,11 +109,11 @@ Wenn Sie "Eintrag sperren" als automatisierte Aktion definieren, wird die **Zeil
 
 ![Definition der Automations-Aktion: Sperren eines Eintrags in der Tabelle](images/lock-record-action.jpg)
 
-![Durch eine Automation ausgelöste Sperrung eines Eintrag in einer Tabelle ](images/example-locked-records.jpg)
+![Durch eine Automation ausgelöste Sperrung eines Eintrags in einer Tabelle](images/example-locked-records.jpg)
 
 Die Automations-Aktion "Eintrag sperren" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 - Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
 Der Artikel [Zeilen per Automation sperren]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
@@ -124,7 +126,7 @@ Wenn Sie "Eintrag bearbeiten" als automatisierte Aktion auswählen, werden **Zei
 
 Die Automations-Aktion "Eintrag bearbeiten" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 - Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
 ## Automations-Aktion: Links hinzufügen
@@ -135,7 +137,7 @@ Wenn Sie "Links hinzufügen" als automatisierte Aktion auswählen, wird in der e
 
 Die Automations-Aktion "Links hinzufügen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 - Zu einer geplanten Zeit
 
 Der Artikel [Verlinken von Einträgen per Automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
@@ -148,9 +150,29 @@ Wenn Sie "Neuen Eintrag in anderer Tabelle hinzufügen" als automatisierte Aktio
 
 Die Automations-Aktion "Neuen Eintrag in anderer Tabelle hinzufügen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 
 Der Artikel [Einträge in andere Tabellen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+
+## Automations-Aktion: Eintrag in verknüpfter Tabelle hinzufügen
+
+Wenn Sie "Eintrag in verknüpfter Tabelle hinzufügen" als automatisierte Aktion auswählen, wird bei Auslösung des Triggers eine **neue Zeile in einer anderen Tabelle** angelegt. Zusätzlich **verknüpft** SeaTable die neue Zeile mit dem Datensatz, der die Automatisierung ausgelöst hat. Dafür ist eine auswählbare [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) erforderlich.
+
+![Automations-Aktion: Eintrag in verknüpfter Tabelle hinzufügen](images/add-record-to-linked-table-action-settings.png)
+
+In den **Einstellungen** der Aktion können Sie dabei für jede Spalte individuelle Werte definieren, die der neuen Zeile in der ausgewählten Tabelle im Zuge der Automation zugewiesen werden. Ebenso können Sie Spalten des gleichen Typs in der Ursprungstabelle auswählen, um Zeileneinträge in die andere Tabelle zu kopieren.
+
+Die Automations-Aktion "Eintrag in verknüpfter Tabelle hinzufügen" steht Ihnen derzeit bei folgendem **Automations-Trigger** zur Verfügung:
+- Wenn eine Zeile geändert wird
+
+## Automations-Aktion: Verknüpften Eintrag in anderer Tabelle bearbeiten
+
+Wenn Sie "Verknüpften Eintrag in anderer Tabelle bearbeiten" als automatisierte Aktion auswählen, werden bei Auslösung des Triggers **bestehende verknüpfte Datensätze in einer anderen Tabelle** bearbeitet. Ändert sich zum Beispiel der Status in einer Zeile, lassen sich alle verknüpften Datensätze sofort mit aktualisieren. In den **Einstellungen** der Aktion müssen Sie eine [Verknüpfungsspalte]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) auswählen und können dann für jede Spalte individuelle Werte definieren, die den Zeilen in der ausgewählten Tabelle im Zuge der Automation zugewiesen werden.
+
+![Automations-Aktion: Verknüpften Eintrag in anderer Tabelle bearbeiten](images/modify-linked-record-in-other-table-action-settings.png)
+
+Die Automations-Aktion "Verknüpften Eintrag in anderer Tabelle bearbeiten" steht Ihnen derzeit bei folgendem **Automations-Trigger** zur Verfügung:
+- Wenn eine Zeile geändert wird
 
 ## Automations-Aktion: Python-Skript ausführen
 
@@ -160,7 +182,7 @@ Wenn Sie die Ausführung eines Python-Skripts als automatisierte Aktion auswähl
 
 Die Automations-Aktion "Python-Skript ausführen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 - Zu einer geplanten Zeit
 
 ## Automations-Aktion: KI aufrufen
@@ -181,7 +203,7 @@ Folgende **KI-Funktionen** können Sie mit einer Automation ausführen lassen:
 
 Die Automations-Aktion "KI aufrufen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 
 Ausführliche Anleitungen zu den einzelnen KI-Funktionen mit Schritt-für-Schritt-Beispielen finden Sie im Bereich [KI-Automationen]({{< relref "help/ai/ai-automations/setup-ai-automation" >}}).
 
@@ -200,7 +222,7 @@ Darüber hinaus können Sie weitere Einstellungen vornehmen. Fügen Sie einen **
 
 Die Automations-Aktion "Termine in Google Kalender verwalten" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 - Wenn eine Zeile geändert wird
-- Wenn eine Zeile hinzufügt wird
+- Wenn eine Zeile hinzugefügt wird
 
 ## Automations-Aktion: Datenverarbeitungsoperation ausführen
 
@@ -227,7 +249,9 @@ Wenn Sie "Seite in PDF umwandeln" als automatisierte Aktion auswählen, wird Sea
 
 ![PDF per Automation erstellen](images/convert-page-to-pdf-action-settings.jpg)
 
-Die Automations-Aktion "Seite in PDF umwandeln" steht Ihnen derzeit bei folgendem **Automations-Trigger** zur Verfügung:
+Die Automations-Aktion "Seite in PDF umwandeln" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
+- Wenn eine Zeile geändert wird
+- Wenn eine Zeile hinzugefügt wird
 - Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
 ## Automations-Aktion: PDF auf Basis eines Dokuments erzeugen und versenden

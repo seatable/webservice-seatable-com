@@ -10,117 +10,118 @@ aliases:
     - '/pt/ajuda/typische-fehler-beim-arbeiten-mit-formeln'
 seo:
     title: 'Principais erros com fórmulas no SeaTable: soluções'
-    description: 'Identifique e corrija erros comuns em fórmulas do SeaTable: use corretamente aspas, parênteses, vírgulas e referências de colunas.​'
+    description: 'Identifique e corrija erros comuns em fórmulas do SeaTable: use corretamente aspas, parênteses, vírgulas e referências de colunas.'
 
 ---
 
-A função de fórmula abre novas possibilidades para trabalhar com os dados. Com a ajuda de _fórmulas_, é possível, por exemplo, ligar valores de diferentes colunas e criar diferentes funções com base no conteúdo dessas colunas.  
-No entanto, uma vez que o trabalho com fórmulas mais complexas pode facilmente colocar problemas, especialmente para os principiantes, neste artigo iremos fornecer-lhe soluções para os problemas mais familiares e típicos.
+A [coluna de fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) abre-lhe muitas possibilidades para trabalhar com os seus dados. Com a ajuda de fórmulas, pode, por exemplo, relacionar valores de diferentes colunas entre si e efetuar cálculos com eles. No entanto, uma vez que o trabalho com fórmulas mais complexas pode ser difícil, sobretudo no início, neste artigo apresentamos-lhe **soluções para os problemas mais conhecidos**.
 
-## Erros típicos ao trabalhar com fórmulas
+## Faltam aspas nos elementos de texto
 
-{{< faq "Falta de vírgulas invertidas para elementos de texto" >}}Cada elemento de texto nas suas fórmulas **deve ser** colocado entre _aspas_ para que seja reconhecido pelo assistente de fórmulas. Se um texto **não** estiver entre aspas, pode aparecer a seguinte **mensagem de erro**:
+Cada elemento de texto nas suas fórmulas **tem de** ser obrigatoriamente colocado entre aspas para que seja reconhecido pelo editor de fórmulas. Se um texto **não** estiver entre aspas, pode aparecer a seguinte **mensagem de erro**:
 
 ![Mensagem de erro que aparece quando faltam aspas à volta de elementos de texto](images/Fehlermeldung-fehlende-Anfuehrungszeichen-bei-Textelementen.png)
 
-### Entrada incorrecta:
+#### Entrada incorreta:
 
-![Introdução incorrecta de elementos de texto](images/fehlerhafte-eingabe-anfuehrungszeichen.png)
+![Introdução incorreta de elementos de texto](images/fehlerhafte-eingabe-anfuehrungszeichen.png)
 
-### Entrada correcta:
+#### Entrada correta:
 
-![Introdução correcta de elementos de texto](images/richtige-eingabe-anfuehrungszeichen.png)
+![Introdução correta de elementos de texto](images/richtige-eingabe-anfuehrungszeichen.png)
 
-{{< warning  headline="Dica"  text="Os elementos de texto são sempre marcados a **vermelho** numa fórmula e podem assim ser distinguidos de outros elementos. Se um _elemento de texto_ introduzido no assistente de fórmulas **não** for automaticamente marcado a **vermelho**, isso significa que foi introduzido **incorrectamente**." />}}
-{{< /faq >}}
-{{< faq "Os suportes para as funções estão em falta ou mal colocados" >}}**No** editor de fórmulas, cada _função_ deve ser seguida por um _parêntesis de abertura_ antes de poderem ser adicionados outros elementos à fórmula.  
-Se todos os elementos de uma função tiverem sido adicionados à fórmula, esta deve também ser _fechada_ com um parêntesis _de fecho_. Se **não** forem colocados parênteses, a função **não pode** ser reconhecida pelo assistente de fórmulas e podem aparecer as seguintes mensagens de erro:
+{{< warning  headline="Dica"  text="Os elementos de texto são sempre marcados a **vermelho** numa fórmula e podem assim ser distinguidos de outros elementos. Se um elemento de texto **não** estiver marcado a **vermelho** no editor de fórmulas, isso significa que foi introduzido **incorretamente**." />}}
 
-![Mensagem de erro que aparece se não for definido um parêntesis de abertura após uma função](images/Fehlermeldung-bei-fehlender-Klammer-nach-einer-Funktion.png)
+## Os parênteses das funções estão em falta ou mal colocados
 
-![Mensagem de erro que aparece quando os parênteses são definidos incorrectamente numa função.](images/fehlermeldung-klammern-bei-funktion-falsch-gesetzt.png)
+No editor de fórmulas, **cada função** tem de ser seguida primeiro por um **parêntese de abertura** antes de adicionar outros elementos. Depois de adicionar à fórmula todos os elementos de uma função, esta tem também de terminar com um **parêntese de fecho**. Se **não** forem colocados parênteses, o editor de fórmulas **não** consegue reconhecer a função e podem aparecer as seguintes mensagens de erro:
 
-### Entrada incorrecta:
+![Mensagem de erro que aparece se não for colocado um parêntese de abertura após uma função](images/Fehlermeldung-bei-fehlender-Klammer-nach-einer-Funktion.png)
 
-![Introdução incorrecta de uma função](images/fehlerhafte-eingabe-funktion-1.png)
+![Mensagem de erro que aparece quando os parênteses de uma função são colocados incorretamente](images/fehlermeldung-klammern-bei-funktion-falsch-gesetzt.png)
 
-### Entrada correcta:
+#### Entrada incorreta:
 
-![Entrada correcta de uma função](images/korrekte-eingabe-funktion-1.png)
+![Introdução incorreta de uma função](images/fehlerhafte-eingabe-funktion-1.png)
 
-{{< warning  headline="Dica"  text="As funções são sempre destacadas a **azul** numa fórmula. Se mover o cursor para um _parêntesis de abertura ou de fecho_ no _editor de fórmulas_, o _parêntesis_ correspondente é **realçado**. Isto facilita o reconhecimento de substituições de parênteses em falta ou incorrectas ao introduzir funções." />}}
-{{< /faq >}}
-{{< faq "Substituição incorrecta do suporte em geral" >}}A definição correcta dos _parênteses_ é um dos maiores desafios ao introduzir fórmulas. Quer sejam _parênteses_ _redondos_, _quadrados_ ou curvos, devem ser sempre colocados na **posição correcta** numa fórmula para que sejam reconhecidos pelo _assistente de fórmulas_.
+#### Entrada correta:
 
-{{< warning  headline="Dica mais importante para uma substituição correcta do suporte"  text="Se mover o cursor sobre um _parêntesis de abertura ou de fecho_ no _editor de fórmulas_, o _parêntesis_ correspondente é **realçado**. Isto facilita o reconhecimento de substituições de parênteses **em falta** ou **incorrectas**." />}}
+![Introdução correta de uma função](images/korrekte-eingabe-funktion-1.png)
 
-### Suportes redondos
+{{< warning  headline="Dica"  text="As funções são sempre marcadas a **azul** numa fórmula. Se clicar num parêntese de abertura ou de fecho no editor de fórmulas, **o parêntese correspondente é realçado**. Assim, pode detetar mais facilmente parênteses em falta ou incorretos ao introduzir funções." />}}
 
-O **ponto anterior desta** FAQ explica como colocar correctamente _os parênteses redondos_ ao introduzir funções.
+## Colocação incorreta de parênteses e chavetas em geral
 
-### Parêntesis enrolados
+A colocação correta de parênteses e chavetas é um dos maiores desafios ao introduzir fórmulas. Quer se trate de **parênteses ou de chavetas**, têm de ser sempre colocados no **sítio certo** de uma fórmula para que esta seja reconhecida pelo editor de fórmulas.
 
-_As chavetas_ são sempre utilizadas quando se faz referência a **colunas** específicas **da tabela**. O **nome da** coluna pretendida deve ser sempre rodeado por duas _chavetas_. Se **não** forem colocadas chaves ou se as chaves forem colocadas **incorrectamente**, a referência à coluna não pode **ser** reconhecida pelo _assistente de fórmulas_ e podem aparecer as seguintes mensagens de erro:
+### Parênteses
 
-![Mensagem de erro que aparece se os parênteses rectos não estiverem definidos quando se referem a nomes de colunas](images/fehlermeldung-keine-geschweiften-klammern.png)
+A **secção anterior** deste artigo explica como colocar corretamente os parênteses ao introduzir funções.
 
-![Mensagem de erro que aparece quando os parênteses curvos são definidos incorrectamente quando se referem a nomes de colunas.](images/fehlermeldung-geschweifte-klammern-falsch-gesetzt-1.png)
+### Chavetas
 
-### Entrada incorrecta:
+Utilize chavetas quando pretender fazer referência a determinadas **colunas da tabela**. O **nome** da coluna pretendida tem de estar sempre rodeado por **duas chavetas**. Se **não** forem colocadas chavetas ou se forem colocadas chavetas **incorretas**, o editor de fórmulas **não** consegue reconhecer a referência à coluna e podem aparecer as seguintes mensagens de erro:
 
-![Introdução incorrecta de parênteses rectos quando se refere a nomes de colunas](images/fehlerhafte-eingabe-geschweifte-klammern-1.png)
+![Mensagem de erro que aparece se não forem colocadas chavetas ao fazer referência a nomes de colunas](images/fehlermeldung-keine-geschweiften-klammern.png)
 
-### Entrada correcta:
+![Mensagem de erro que aparece quando as chavetas são colocadas incorretamente ao fazer referência a nomes de colunas](images/fehlermeldung-geschweifte-klammern-falsch-gesetzt-1.png)
 
-![Correcção da introdução de parênteses rectos quando se refere a nomes de colunas](images/korrekte-eingabe.geschweifte-klammern.png)
+#### Entrada incorreta:
 
-### Referências a nomes de colunas em funções
+![Introdução incorreta de chavetas ao fazer referência a nomes de colunas](images/fehlerhafte-eingabe-geschweifte-klammern-1.png)
 
-Para fazer referência a _nomes de colunas_ dentro de uma _função_, é necessário prestar especial atenção à substituição **correcta** dos parênteses. Observe as regras individuais de substituição de parênteses para _funções_ e a referência a _nomes de colunas_ e tente primeiro escrever a fórmula por si próprio.  
-Se não tiver a certeza, lembre-se que o _parêntese_ correspondente é sempre **realçado** quando move o cursor para um _parêntese de abertura ou de fecho_ no _editor de fórmulas_.
+#### Entrada correta:
 
-### Entrada incorrecta:
+![Introdução correta de chavetas ao fazer referência a nomes de colunas](images/korrekte-eingabe.geschweifte-klammern.png)
 
-![Entrada incorrecta de uma função com referência de coluna](images/fehlerhafte-eingabe-einer-funktion-mit-spaltenverweis.png)
+### Referências a colunas dentro de funções
 
-### Entrada correcta:
+Se pretender fazer referência a nomes de colunas dentro de uma função, tem de prestar especial atenção à colocação correta dos parênteses e das chavetas. Tenha em conta as regras específicas para as funções e as referências a colunas. Se não tiver a certeza de que um par de parênteses ou chavetas está completo, lembre-se de que o segundo sinal é sempre realçado quando clica num deles no editor de fórmulas.
 
-![Entrada correcta de uma função com referência de coluna](images/korrekte-eingabe-einer-funktion-mit-spaltenverweis.png)
-{{< /faq >}}
-{{< faq "Não consigo ligar várias funções na minha fórmula, uma após a outra" >}}Se pretender incluir várias _funções_ na fórmula, deve ter o cuidado de separar sempre as funções individuais com uma **vírgula**.
+#### Entrada incorreta:
 
-Além disso, é necessário terminar as fórmulas que contêm várias funções com vários _colchetes de fechamento_. Se a fórmula contém **três** _funções_, por exemplo, ela também deve ser encerrada com **três** _colchetes_ no editor de fórmulas.
+![Introdução incorreta de uma função com referência a uma coluna](images/fehlerhafte-eingabe-einer-funktion-mit-spaltenverweis.png)
 
-Se os pontos acima **não** forem respeitados, a fórmula introduzida **não pode** ser reconhecida pelo assistente de fórmulas e podem aparecer as seguintes mensagens de erro:
+#### Entrada correta:
 
-![Mensagem de erro que aparece quando uma fórmula que contém várias funções não é terminada com o número necessário de parênteses de fecho.](images/fehlermeldung-zu-weinge-klammern-am-ende-der-formel.png)
+![Introdução correta de uma função com referência a uma coluna](images/korrekte-eingabe-einer-funktion-mit-spaltenverweis.png)
 
-![Mensagem de erro que aparece se não forem colocadas vírgulas entre as várias funções de uma fórmula ou se forem colocadas incorrectamente.](images/fehlermeldung-falsche-kommasetzung.png)
+## Encadear várias funções
 
-### Entrada incorrecta:
+Se pretender incluir **várias funções** na sua fórmula, tem de ter o cuidado de separar sempre as diferentes funções com uma **vírgula**.
 
-![Introdução incorrecta de uma fórmula em que várias funções foram ligadas em série ](images/fehlerhafte-eingabe-einer-formel-mit-mehreren-funktionen.png)
+Além disso, tem de terminar as fórmulas que contêm várias funções com **vários parênteses de fecho**. Se a sua fórmula contiver, por exemplo, três funções, tem também de terminar com três parênteses de fecho no editor de fórmulas.
 
-### Entrada correcta:
+Se estes pontos **não** forem respeitados, o editor de fórmulas **não** consegue reconhecer a fórmula introduzida e podem aparecer as seguintes mensagens de erro:
 
-![Introdução correcta de uma fórmula em que várias funções foram ligadas em série ](images/korrekte-eingabe-formel-mit-mehreren-funktionen.png)
+![Mensagem de erro que aparece quando uma fórmula que contém várias funções não termina com o número necessário de parênteses de fecho](images/fehlermeldung-zu-weinge-klammern-am-ende-der-formel.png)
 
-{{< warning  headline="Dica"  text="Para fórmulas mais complexas, trabalhe sempre com _espaços_ e _quebras de linha_ para que possa ver as _funções_ individuais _da_ sua fórmula separadamente e para que os erros sejam mais fáceis de detectar." />}}
-{{< /faq >}}
-{{< faq "Não consigo ligar vários elementos de texto na minha fórmula" >}}Para ligar vários elementos de texto na sua fórmula, deve separar os _elementos de texto_ individuais uns dos outros com um**"símbolo &**". Se **não** forem adicionados _símbolos &_ entre os elementos de texto, o assistente de fórmulas **não pode** reconhecer a fórmula introduzida e aparece a seguinte mensagem de erro:
+![Mensagem de erro que aparece se não forem colocadas vírgulas entre as várias funções de uma fórmula ou se forem colocadas incorretamente](images/fehlermeldung-falsche-kommasetzung.png)
+
+#### Entrada incorreta:
+
+![Introdução incorreta de uma fórmula em que foram encadeadas várias funções](images/fehlerhafte-eingabe-einer-formel-mit-mehreren-funktionen.png)
+
+#### Entrada correta:
+
+![Introdução correta de uma fórmula em que foram encadeadas várias funções](images/korrekte-eingabe-formel-mit-mehreren-funktionen.png)
+
+{{< warning  headline="Dica"  text="Em fórmulas mais complexas, trabalhe sempre com **espaços e quebras de linha** para poder ver separadamente as diferentes funções da sua fórmula e detetar erros mais facilmente." />}}
+
+## Concatenar vários elementos de texto numa fórmula
+
+Para concatenar vários elementos de texto na sua fórmula, tem de separar os diferentes elementos de texto uns dos outros com um **símbolo &**. Se **não** forem adicionados **símbolos &** entre os elementos de texto, o editor de fórmulas **não** consegue reconhecer a fórmula introduzida e aparece a seguinte mensagem de erro:
 
 ![Mensagem de erro que aparece quando vários elementos de texto numa fórmula não estão separados por &.](images/Fehlermeldung-bei-fehlendenen-zwischen-Textelementen.png)
 
-### Entrada incorrecta:
+#### Entrada incorreta:
 
-![Introdução incorrecta de vários elementos de texto numa fórmula](images/fehlerhafte-Eingabe-mehrere-Textelemente.png)
+![Introdução incorreta de vários elementos de texto numa fórmula](images/fehlerhafte-Eingabe-mehrere-Textelemente.png)
 
-### Entrada correcta:
+#### Entrada correta:
 
-![Introdução correcta de vários elementos de texto numa fórmula](images/korrekte-Eingabe-mehrere-Textelemente.png)
+![Introdução correta de vários elementos de texto numa fórmula](images/korrekte-Eingabe-mehrere-Textelemente.png)
 
-{{< warning headline="Dica" text="Para que os vários elementos de texto sejam representados por um _Espaço_ estão ligados separadamente, acrescentando em cada caso **atrás** os dois primeiros elementos de texto, para além de um **& símbolo** e dois **Vírgula invertida (em cima)** acrescentado." />}}
+{{< warning headline="Dica" text="Para que os vários elementos de texto fiquem separados por um espaço, insira **dois símbolos &** e **duas aspas (em cima)** entre cada um dos elementos de texto." />}}
 
-![Editar a fórmula de modo a que os elementos de texto sejam ligados de cada vez separados por um carácter de espaço](images/Leerzeichen-zwischen-Textelementen.png)
-
-{{< /faq >}}
+![Edição da fórmula de modo a que os elementos de texto fiquem separados por um espaço](images/Leerzeichen-zwischen-Textelementen.png)

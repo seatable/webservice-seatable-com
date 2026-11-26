@@ -1,7 +1,7 @@
 ---
 title: 'Mostrar o registo de execução de uma automatização'
 date: 2023-01-26
-lastmod: '2025-11-05'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -14,7 +14,7 @@ seo:
 weight: 8
 ---
 
-Para verificar a **correcta execução de uma automatização**, tem a opção de visualizar o **registo de execução**. SeaTable regista as seguintes informações para cada execução de automatização: tempo de execução, condição de execução, estado e quaisquer avisos. Existem também **estatísticas** abrangentes para todas as execuções de automatização.
+Para verificar a **correcta execução de uma automatização**, tem a opção de visualizar o **registo de execução**. SeaTable regista as seguintes informações para cada execução de automatização: tempo de execução, hora de conclusão, condição de execução, estado e quaisquer avisos. Existem também **estatísticas** abrangentes para todas as execuções de automatização.
 
 {{< warning  headline="Nota importante"  text="Cada execução de uma automatização é chamada um **ciclo de automação**." />}}
 
@@ -32,17 +32,17 @@ Para verificar a **correcta execução de uma automatização**, tem a opção d
 
 Pode visualizar as seguintes informações no registo de execução de uma automatização:
 
-**Tempo de execução**  
-Aqui SeaTable armazena o momento exacto em que o gatilho iniciou a automatização.
+- **Tempo de execução**: Aqui SeaTable armazena o momento exacto em que o gatilho iniciou a automatização.
 
-**Condição de execução**  
-Se a automatização for desencadeada pela alteração ou adição de uma entrada, a mensagem **per_update** aparece. Se, por outro lado, a automatização é desencadeada periodicamente, a mensagem **por_dia/semana/mês** aparece.
+- **Hora de conclusão**: Este é o momento exato em que a execução de automatização terminou.
 
-**Estado**  
-O estado indica se a automatização foi executada com sucesso. Se for este o caso, a mensagem **Sucesso** aparece aqui.
+- **Condição de execução**: Se a automatização for desencadeada pela alteração ou adição de uma entrada, a mensagem **per_update** aparece. Se, por outro lado, a automatização é desencadeada periodicamente, a mensagem **por_dia/semana/mês** aparece.
 
-**Avisos**  
-Se houve problemas durante a execução de uma automatização, uma mensagem de aviso correspondente aparece aqui.
+- **Estado**: O estado indica se a automatização foi executada com sucesso. Se for este o caso, a mensagem **Sucesso** aparece aqui.
+
+- **Avisos**: Se houve problemas durante a execução de uma automatização, uma mensagem de aviso correspondente aparece aqui.
+
+{{< warning  headline="Nota"  text="Se o tempo de execução e a hora de conclusão coincidirem, a execução de automatização demorou apenas uma fração de segundo." />}}
 
 ## Estatística de todas as execuções de automatização
 

@@ -25,21 +25,23 @@ Mithilfe von Automationen müssen Sie Zeilen in Ihren Tabellen nicht mehr manuel
 4. Definieren Sie ein **Trigger-Ereignis**, welches die Automation auslöst.
 5. Klicken Sie auf **Aktion hinzufügen** und wählen Sie als automatisierte Aktion **Eintrag sperren** aus.
 
-![Auswahl der automatisierten Aktion: "Eintrag sperren"](images/lock-record.png) 7. Bestätigen Sie mit **Abschicken**.
+![Auswahl der automatisierten Aktion: "Eintrag sperren"](images/lock-record.png)
+
+6. Bestätigen Sie mit **Abschicken**.
 
 {{< warning type="warning" headline="Wichtiger Hinweis" >}}
 
 Die automatisierte Aktion **Eintrag sperren** steht Ihnen ausschließlich bei folgenden Trigger-Ereignissen zur Verfügung:
 
-- Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
-- Ein neuer Eintrag wird hinzugefügt
-- Periodisch ausführen, wenn Einträge bestimmte Bedingungen erfüllen
+- Wenn eine Zeile geändert wird
+- Wenn eine Zeile hinzugefügt wird
+- Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen
 
 {{< /warning >}}
 
 ## Anwendungsbeispiel
 
-Möchten Sie beispielsweise in einer Ihrer Tabellen jede Zeile **sperren**, in der ein bestimmter Eintrag einen spezifischen **Wert** erreicht, definieren Sie als Trigger der Automation das Ereignis: **Einträge erfüllen nach Bearbeitung bestimmte Bedingungen**.
+Möchten Sie beispielsweise in einer Ihrer Tabellen jede Zeile **sperren**, in der ein bestimmter Eintrag einen spezifischen **Wert** erreicht, definieren Sie als Trigger der Automation das Ereignis **Wenn eine Zeile geändert wird**.
 
 ![Definition des Trigger-Ereignisses der Automation](images/trigger-example-1.png)
 
@@ -59,7 +61,7 @@ Ab diesem Moment wird die angelegte Automation **alle Zeilen** sperren, in denen
 
 ## Mehrere Zeilen gleichzeitig sperren
 
-Automationen sind äußerst hilfreich, wenn Sie mehrere Zeilen gleichzeitig sperren wollen. Wählen Sie dazu den Trigger **Periodisch für Einträge ausführen, die die Bedingungen erfüllen** und legen Sie die entsprechenden Bedingungen fest. Anstatt die Ausführungshäufigkeit und -zeit einzustellen, klicken Sie unten auf **Jetzt ausführen**, um alle gewünschten Zeilen sofort zu sperren.
+Automationen sind äußerst hilfreich, wenn Sie mehrere Zeilen gleichzeitig sperren wollen. Wählen Sie dazu den Trigger **Zu einer geplanten Zeit für Einträge, die bestimmte Bedingungen erfüllen** und legen Sie die entsprechenden Bedingungen fest. Anstatt die Ausführungshäufigkeit und -zeit einzustellen, klicken Sie unten auf **Jetzt ausführen**, um alle gewünschten Zeilen sofort zu sperren.
 
 Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren einer Zeile]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 

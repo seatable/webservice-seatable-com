@@ -34,9 +34,9 @@ Definieren Sie für die Automation zunächst ein **Trigger-Ereignis**.
 
 Die automatisierte Aktion **Zeile hinzufügen** steht Ihnen **ausschließlich** nach folgenden Trigger-Ereignissen zur Verfügung:
 
-- Ein neuer Eintrag wird hinzugefügt
-- Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
-- Periodischer Trigger
+- Wenn eine Zeile hinzugefügt wird
+- Wenn eine Zeile geändert wird
+- Zu einer geplanten Zeit
 
 {{< /warning >}}
 
@@ -75,7 +75,7 @@ Als Erstes geben Sie der Automation einen **Namen** und wählen sowohl die **Tab
 
 ![Benennung der Automation, Auswahl der Tabelle und Ansicht, in welcher die Automation wirken soll](images/basic-settings-automation-example.png)
 
-Als **Trigger-Ereignis** der Automation wählen Sie die Option **Periodischer Trigger**.
+Als **Trigger-Ereignis** der Automation wählen Sie die Option **Zu einer geplanten Zeit**.
 
 ![Auswahl des Trigger-Ereignisses](images/select-trigger.png)
 
@@ -107,7 +107,7 @@ Wenn das Team-Meeting zum Beispiel üblicherweise in einem bestimmten Raum statt
 
 ### Testen der Automation
 
-Wenn die Automation funktioniert wie gewünscht, fügt SeaTable Ihrer Tabelle nach Auslösung des periodischen Triggers (hier: immer montags um 7 Uhr) automatisch eine Zeile mit den zuvor definierten **Einträgen** hinzu. Dies erspart Ihnen einige Tastenanschläge und Sie können daraufhin die noch offenen Daten manuell eintragen.
+Wenn die Automation funktioniert wie gewünscht, fügt SeaTable Ihrer Tabelle nach Auslösung des Triggers zur geplanten Zeit (hier: immer montags um 7 Uhr) automatisch eine Zeile mit den zuvor definierten **Einträgen** hinzu. Dies erspart Ihnen einige Tastenanschläge und Sie können daraufhin die noch offenen Daten manuell eintragen.
 
 ![Tabelle nach der Auslösung der definierten Automation ](images/table-after-automation-new-record-to-current-table.png)
 

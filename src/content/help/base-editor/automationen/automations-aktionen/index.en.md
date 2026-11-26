@@ -1,7 +1,7 @@
 ---
 title: 'Automation Actions'
 date: 2023-01-27
-lastmod: '2025-11-11'
+lastmod: '2026-11-25'
 categories:
     - 'automationen'
 author: 'kgr'
@@ -10,15 +10,15 @@ aliases:
     - '/help/automations-aktionen'
 seo:
     title: 'Automation actions in SeaTable: full list and options'
-    description: 'See every automation action in SeaTable Enterprise: send emails, add or lock rows, notifications, scripts, data processing and useful use cases.'
+    description: 'Overview: These are the actions you can trigger with SeaTable automations – send e-mails, add links, run scripts, data processing or AI, and much more.'
 weight: 6
 ---
 
-**Automated actions** represent one of the two essential components of automations. The actions are triggered by defined **trigger events**. Depending on the [trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable can perform different automation actions. This article provides you with an **overview of** the different types of automated actions.
+**Automated actions** represent one of the two essential components of automations. The actions are triggered by defined **trigger events**. Depending on the [trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable can perform different automation actions. This article provides you with an **overview** of the different types of automated actions.
 
 ## Available automation actions
 
-The latest version of SeaTable offers a total of 15 different automation actions to choose from:
+The latest version of SeaTable offers a total of 17 different automation actions to choose from:
 
 - Send notification
 - Send app notification
@@ -28,6 +28,8 @@ The latest version of SeaTable offers a total of 15 different automation actions
 - Modify record
 - Add links
 - Add record to another table
+- Add record to linked table
+- Modify linked record in other table
 - Run Python script
 - Run AI
 - Manage events in Google Calendar
@@ -42,11 +44,11 @@ To add an action, click on **the large button with the plus symbol** and select 
 
 ![Add automation actions](images/automated-actions.jpg)
 
-If you have already set up more complex actions, such as sending e-mails, data processing or AI functions, you can also duplicate these. Simply click on the **three dots** and then on **Duplicate**. This means you only have to make minor adjustments to these actions and saves you a lot of time.
+If you have already set up more complex actions, such as sending e-mails, data processing or AI functions, you can also duplicate these. Simply click on the **three dots** and then on **Duplicate**. This means you only have to make minor adjustments to these actions and save a lot of time.
 
-![duplicate automation actions](images/duplicate-automated-actions.jpg)
+![Duplicate automation actions](images/duplicate-automated-actions.jpg)
 
-The order of the actions can be easily changed **by drag-and-drop**. Move the mouse pointer over an action box, hold down the left mouse button on the **six-point drag area** and move the action to the desired position. This allows you to flexibly adapt the automation sequence.
+The order of the actions can be easily changed **by drag-and-drop**. Move the mouse pointer over an action box, hold down the left mouse button on the **six-dot drag handle** and move the action to the desired position. This allows you to flexibly adapt the automation sequence.
 
 ![Move automation actions](images/move-automated-actions.gif)
 
@@ -56,9 +58,9 @@ Of course, you can also delete actions that are no longer required. To do this, 
 
 ## Automation action: Send notification
 
-By defining "Send notification" as an automated action, you can set a notification to one or more users. The selected users will receive a **notification** each time the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
+By defining "Send notification" as an automated action, you can set up a notification for one or more users. The selected users will receive a **notification** each time the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
 
-You can edit the **recipients** and **content** of the notifications at any time in the **settings** of the action. For the recipients, you can specifically select **individual users** or users in a specific column of the type [Collaborator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creator]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) or [Last modifier]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}). Write the desired message in the text field and work with column references in curly brackets to insert specific values.
+You can edit the **recipients** and **content** of the notifications at any time in the **settings** of the action. For the recipients, you can specifically select **individual users** or notify users in a specific column of the type [Collaborator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creator]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) or [Last modifier]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}). Write the desired message in the text field and work with column references in curly brackets to insert specific values.
 
 ![Send notification via automation](images/send-notification-action-settings.jpg)
 
@@ -70,7 +72,7 @@ The article [Send notifications via automation]({{< relref "help/base-editor/aut
 
 ## Automation action: Send app notification
 
-By defining "Send app notification" as an automated action, you can set a notification to one or more users of an app. The selected users will receive a **notification** in the app each time the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
+By defining "Send app notification" as an automated action, you can set up a notification for one or more users of an app. The selected users will receive a **notification** in the app each time the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
 
 In the **settings** of the action, you can define which **app** and which **recipients** the notifications should be sent to. For the recipients, you can specifically select **individual app users** or notify users in a specific column of the type **Collaborator, Creator or Last modifier**. Write the desired **content** of the notification in the text field. Use column references in curly brackets to insert specific values.
 
@@ -80,13 +82,13 @@ The users of the respective app can check their notifications via the {{< seatab
 
 ![Check notifications in the app](images/check-app-notifications.jpg)
 
-## Automation action: Send email
+## Automation action: Send e-mail
 
-By defining "Send email" as an automated action, you can send predefined e-mails to one or more users. SeaTable sends an **e-mail** to each selected user as soon as the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
+By defining "Send e-mail" as an automated action, you can send predefined e-mails to one or more users. SeaTable sends an **e-mail** to each selected user as soon as the corresponding trigger is triggered. This automation action is available **for all automation triggers**.
 
 You can edit the **e-mail account**, **subject**, **recipient**, **message** and **attachments** of the e-mail at any time in the **settings** of the action. Use column references in curly brackets to insert certain values into text fields.
 
-![definition of the automation action: Send email](images/send-email-action-settings.jpg)
+![Definition of the automation action: Send e-mail](images/send-email-action-settings.jpg)
 
 The article [Sending e-mails via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) runs through this automation using a specific use case.
 
@@ -94,7 +96,7 @@ The article [Sending e-mails via automation]({{< relref "help/base-editor/automa
 
 If you define "Add record" as an automated action, a **new row** is inserted into the table each time the corresponding trigger is triggered. You can define the exact values for each column individually in advance.
 
-![Automation action: Add row](images/add-record-action-settings.jpg)
+![Automation action: Add record](images/add-record-action-settings.jpg)
 
 The "Add record" automation action is currently available for the following **automation triggers**:
 - When a row is updated
@@ -105,9 +107,9 @@ The article [Add rows via automation]({{< relref "help/base-editor/automationen/
 
 ## Automation action: Lock record
 
-If you define "Lock record" as an automated action, the **row** that triggered the automation is locked for editing. You cannot make any further settings for this action – you configure the conditions for the row lock in the **trigger settings**. Please note that you cannot **unlock** locked rows without administrator rights.
+If you define "Lock record" as an automated action, the **row** that triggered the automation is locked for editing. You cannot make any further settings for this action – you must configure the conditions for the row lock in the **trigger**. Please note that you can no longer **unlock** locked rows without administrator rights.
 
-![definition of the automation action: Locking a record in the table](images/lock-record-action.jpg)
+![Definition of the automation action: Locking a record in the table](images/lock-record-action.jpg)
 
 ![Locking a record in a table triggered by an automation](images/example-locked-records.jpg)
 
@@ -154,6 +156,26 @@ The "Add record to another table" automation action is currently available for t
 
 The article [Adding records to other tables via automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) runs through this automation using a specific use case.
 
+## Automation action: Add record to linked table
+
+If you select "Add record to linked table" as an automated action, a **new row is created in another table** when the trigger is triggered. In addition, SeaTable **links** the new row to the record that triggered the automation. This requires a selectable [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}).
+
+![Automation action: Add record to linked table](images/add-record-to-linked-table-action-settings.png)
+
+In the **settings** of the action, you can define individual values for each column that will be assigned to the new row in the selected table as part of the automation. You can also select columns of the same type in the source table to copy row entries to the other table.
+
+The "Add record to linked table" automation action is currently available for the following **automation trigger**:
+- When a row is updated
+
+## Automation action: Modify linked record in other table
+
+If you select "Modify linked record in other table" as an automated action, **existing linked records in another table** are modified when the trigger is triggered. For example, if the status in a row changes, all linked records can be updated immediately as well. In the **settings** of the action, you must select a [link column]({{< relref "help/base-editor/spaltentypen/die-verknuepfungsspalte" >}}) and can then define individual values for each column that will be assigned to the rows in the selected table as part of the automation.
+
+![Automation action: Modify linked record in other table](images/modify-linked-record-in-other-table-action-settings.png)
+
+The "Modify linked record in other table" automation action is currently available for the following **automation trigger**:
+- When a row is updated
+
 ## Automation action: Run Python script
 
 If you select the execution of a Python script as an automated action, the trigger sets a previously defined **Python script** in motion. You can create or edit the script at any time in the [script editor]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) and then select it in the **settings** of the action.
@@ -169,7 +191,7 @@ The "Run Python script" automation action is currently available for the followi
 
 If you select the execution of an AI function as an automated action, the trigger calls up an **AI model** that executes a predefined action in the table. You can configure the exact action to be executed in the **settings**. Depending on the type of AI function, **input columns**, **output columns** and a **prompt** may be required.
 
-![definition of an automation action: Run AI](images/run-ai-action-settings.jpg)
+![Definition of an automation action: Run AI](images/run-ai-action-settings.jpg)
 
 You can have the following **AI functions** executed with an automation:
 
@@ -179,25 +201,26 @@ You can have the following **AI functions** executed with an automation:
 - **Extract**: Extracts specific information from a column of type text or number according to your requirement. The extracted information is written to the result columns.
 - **Custom**: Generates content based on your prompt. Use {column name} in curly brackets to insert the column value of a row.
 
-![actions executable using an AI model](images/run-ai-functions.jpg)
+![Actions executable using an AI model](images/run-ai-functions.jpg)
 
 The "Run AI" automation action is currently available for the following **automation triggers**:
 - When a row is updated
 - When a row is added
-- At a scheduled time
+
+Detailed instructions for the individual AI functions with step-by-step examples can be found in the [AI automations]({{< relref "help/ai/ai-automations/setup-ai-automation" >}}) section.
 
 ## Automation action: Manage events in Google Calendar
 
 If you select "Manage events in Google Calendar" as an automated action, an appointment from SeaTable is created or updated in a Google calendar when the trigger is triggered. There are a few requirements that must be met for this action to work smoothly:
-- First, you must [synchronize your Google Calendar account with SeaTable.]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}})
-- [Two date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) must exist in a table, which define the **start** and **end** of the dates.
-- You also need a [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) in which Google can write the **event ID** so that the appointments can be synchronized.
+- First, you must [synchronize your Google Calendar account with SeaTable]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/google-calender-synchronisieren" >}})
+- Two [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) must exist in a table, which define the **start** and **end** of the appointments.
+- You also need a [text column]({{< relref "help/base-editor/spaltentypen/die-text-spalte" >}}) to which Google can write the **event ID** so that the appointments can be synchronized.
 
 ![Requirements for managing events in Google Calendar](images/manage-events-in-google-calendar-part-1.png)
 
-You can also make further settings. Add a **title**, a **description**, a **location** and **attendees** to the event. To do this, write the details in the **text fields** or work with **column references in curly brackets** to insert specific values from the table. By activating the **controllers**, you can decide whether you want to send notifications, whether it is a video conference and whether guests can modify the event, see the guest list and invite other guests.
+You can also make further settings. Add a **title**, a **description**, a **location** and **attendees** to the event. To do this, write the details in the **text fields** or work with **column references in curly brackets** to insert specific values from the table. By activating the **sliders**, you can decide whether you want to send notifications, whether it is a video conference and whether guests can modify the event, see the guest list and invite other guests.
 
-![more settings for events in Google Calendar](images/manage-events-in-google-calendar-part-2.png)
+![More settings for events in Google Calendar](images/manage-events-in-google-calendar-part-2.png)
 
 The automation action "Manage events in Google Calendar" is currently available for the following **automation triggers**:
 - When a row is updated
@@ -207,7 +230,7 @@ The automation action "Manage events in Google Calendar" is currently available 
 
 If you select the execution of a data processing operation as an automated action, the trigger initiates a predefined [data processing operation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) in the table. You can configure the exact action to be performed in the **settings**. Depending on the type of operation, **certain input and output columns** may be required.
 
-![definition of an automation action: Run data processing operation](images/run-data-processing-action-settings.jpg)
+![Definition of an automation action: Run data processing operation](images/run-data-processing-action-settings.jpg)
 
 You can have the following **data processing operations** executed with an automation:
 
@@ -228,27 +251,29 @@ If you select "Convert page to PDF" as an automated action, SeaTable will **crea
 
 ![Create PDF via automation](images/convert-page-to-pdf-action-settings.jpg)
 
-The "Convert page to PDF" automation action is currently available with the following **automation trigger**:
+The "Convert page to PDF" automation action is currently available with the following **automation triggers**:
+- When a row is updated
+- When a row is added
 - At a scheduled time for records that match conditions
 
 ## Automation action: Generate PDF from document and send
 
-If you select "Generate PDF from document and send" as an automated action, SeaTable will **create a PDF document** when the trigger is triggered and save it in the [file management of the base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}). SeaTable can also send it directly by e-mail.
+If you select "Generate PDF from document and send" as an automated action, SeaTable will **create a PDF document** when the trigger is triggered and save it in the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}). SeaTable can also send it directly by e-mail.
 
-In the **settings** of the action, select a **template** that you have previously created in the **Report design plugin** and assign a **file name**. Then activate the slider to select an **own folder** in which you would like to save the file. If you only want to generate the document, you can end the configuration at this point.
+In the **settings** of the action, select a **template** that you have previously created in the **Report design plugin** and assign a **file name**. Then activate the slider to select a **custom folder** in which you would like to save the file. If you only want to generate the document, you can end the configuration at this point.
 
-![create and send PDF from a report design using automation](images/generate-pdf-from-document-action-settings.jpg)
+![Create and send PDF from a report design using automation](images/generate-pdf-from-document-action-settings.jpg)
 
-If you then want to send the generated document, activate the "Send to e-mail" slider. You can edit the **e-mail account**, **recipient**, **subject** and **message** of the email at any time in the **settings** of the action.
+If you then want to send the generated document, activate the "Send to e-mail" slider. You can edit the **e-mail account**, **recipient**, **subject** and **message** of the e-mail at any time in the **settings** of the action.
 
-![create and send PDF from a report design using automation](images/generate-pdf-from-document-and-send-action-settings.jpg)
+![Create and send PDF from a report design using automation](images/generate-pdf-from-document-and-send-action-settings.jpg)
 
 The automation action "Generate PDF from document and send" is currently available with the following **automation trigger**:
 - At a scheduled time
 
 ## Automation action: Archive
 
-You can use the archive action to automatically [move rows to the big data storage]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). The big data function must of course be activated in the respective base. As you have already defined the **view** and any filter conditions for the rows to be archived in the trigger settings, you cannot make any settings for the action itself.
+You can use the archive action to automatically [move rows to the big data storage]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}). Of course, the big data function must be activated in the respective base. As you have already defined the **view** and any filter conditions for the rows to be archived in the trigger settings, you cannot make any settings for the action itself.
 
 ![Archive rows via automation](images/automated-action-archive.png)
 

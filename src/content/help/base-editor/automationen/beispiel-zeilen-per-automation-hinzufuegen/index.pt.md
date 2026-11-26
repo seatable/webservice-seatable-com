@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar filas via automatização'
+title: 'Adicionar linhas via automatização'
 date: 2023-03-02
 lastmod: '2023-03-31'
 categories:
@@ -13,53 +13,53 @@ seo:
     description: 'Crie novas linhas em tabelas SeaTable automaticamente por regras ou agenda – sem lançamentos manuais repetitivos.'
 ---
 
-Com a ajuda de automatizações, já não tem de adicionar manualmente linhas com determinadas entradas às suas tabelas, mas pode ter estas etapas executadas automaticamente. Basta definir uma automatização correspondente para qualquer visualização de tabela.
+Com a ajuda de automatizações, já não tem de adicionar manualmente linhas com determinadas entradas às suas tabelas, mas pode fazer com que estas etapas sejam executadas automaticamente. Basta definir uma automatização correspondente para qualquer vista de tabela.
 
 ## Como adicionar linhas com uma automatização
 
 ![Adicionar entradas via automatização](images/how-to-use-automations-for-locking-rows-3.png)
 
-1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
-2. Clique em **Add Rule (Adicionar regra)**.
-3. **Nomear a** automatização e definir a **tabela** e a **vista em** que deve funcionar.
-4. Definir um **evento de disparo que desencadeia** a automatização.
-5. Clique em **Add Action** e seleccione **Add Row** como a acção automatizada.
-6. Confirmar com **Submeter**.
+1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da base e depois em **Regras de automatização**.
+2. Clique em **Adicionar regra**.
+3. **Dê um nome** à automatização e defina a **tabela** e a **vista** em que deve ter efeito.
+4. Defina um **evento de disparo** que desencadeie a automatização.
+5. Clique em **Adicionar ação** e selecione **Adicionar registro** como ação automatizada.
+6. Confirme com **Submeter**.
 
 ## Criar a automatização
 
-Definir primeiro um **evento de disparo** para a automatização.
+Defina primeiro um **evento de disparo** para a automatização.
 
-![Eventos de activação basicamente disponíveis para selecção](images/trigger-options-for-archivating-rows.png)
+![Eventos de disparo geralmente disponíveis para seleção](images/trigger-options-for-archivating-rows.png)
 
-{{< warning  headline="Nota importante" >}}
+{{< warning type="warning" headline="Nota importante" >}}
 
-A ação automática **Adicionar linha** está disponível para si **exclusivamente** disponíveis após os seguintes eventos de disparo:
+A ação automatizada **Adicionar registro** está disponível para si **exclusivamente** após os seguintes eventos de disparo:
 
-- Foi adicionada uma nova entrada
-- As entradas satisfazem determinadas condições após o processamento
-- Acionador periódico
+- Quando uma linha é adicionada
+- Quando uma linha é alterada
+- Numa hora programada
 
 {{< /warning >}}
 
-Em seguida, seleccione **Adicionar linha** como acção automatizada.
+Em seguida, selecione **Adicionar registro** como ação automatizada.
 
-![Adicionar a acção automatizada](images/add-an-action.png) ![Selecção da acção automatizada](images/action-add-records.png)
+![Adicionar a ação automatizada](images/add-an-action.png) ![Seleção da ação automatizada](images/action-add-records.png)
 
-No passo seguinte, defina as **entradas** que devem aparecer numa linha após o disparo da automatização. Com um clique em **Adicionar campo**, pode definir qualquer entrada.
+No passo seguinte, defina as **entradas** que devem aparecer numa linha após o disparo da automatização. Com um clique em **Adicionar campo**, pode definir, de cada vez, a entrada que desejar.
 
 ![Clique em Adicionar campo para definir entradas](images/add-field.png)
 
-Primeiro, seleccione a **coluna** na qual a entrada deve ser inserida.
+Primeiro, selecione a **coluna** na qual a entrada deve ser inserida.
 
-![Selecção da coluna na qual a entrada é adicionada](images/select-column-to-add-record.jpg)
+![Seleção da coluna na qual a entrada é adicionada](images/select-column-to-add-record.jpg)
 
 Em seguida, pode definir a **entrada**. Dependendo do [tipo de coluna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-) seleccionado, dispõe de diferentes **opções**.
+) selecionado, dispõe de diferentes **opções**.
 
 ![Defina a entrada que pretende adicionar à tabela](images/define-record-to-add.png)
 
-Por fim, active a automatização com um clique em **Submeter**.
+Por fim, ative a automatização com um clique em **Submeter**.
 
 ![Confirmação da automatização](images/confirm-the-automation.jpg)
 
@@ -73,47 +73,47 @@ Neste contexto, poderia predefinir, entre outros, a **data** da reunião, a **sa
 
 ### Criar a automatização
 
-Primeiro, atribua um **nome** à automatização e seleccione tanto a **tabela** (aqui: Team Meetings) como a **vista** (aqui: Weekly Team Meeting) na qual a automatização deve actuar.
+Primeiro, atribua um **nome** à automatização e selecione tanto a **tabela** (aqui: Team Meetings) como a **vista** (aqui: Weekly Team Meeting) na qual a automatização deve atuar.
 
-![Nomeação da automatização, selecção da tabela e da vista nas quais a automatização deve actuar](images/basic-settings-automation-example.png)
+![Nomeação da automatização, seleção da tabela e da vista nas quais a automatização deve atuar](images/basic-settings-automation-example.png)
 
-Como **evento desencadeador** da automatização, seleccione a opção **Acionador periódico**.
+Como **evento de disparo** da automatização, selecione a opção **Numa hora programada**.
 
-![Selecção do evento desencadeador](images/select-trigger.png)
+![Seleção do evento de disparo](images/select-trigger.png)
 
-Em seguida, defina os intervalos em que a automatização deve ser executada. Para que a linha com as entradas correspondentes seja adicionada à tabela todas as semanas, seleccione **semanalmente**.
+Em seguida, defina os intervalos em que a automatização deve ser executada. Para que a linha com as entradas correspondentes seja adicionada à tabela todas as semanas, selecione **semanalmente**.
 
-![Selecção dos intervalos em que a automatização deve ser executada](images/run-frequency.png)
+![Seleção dos intervalos em que a automatização deve ser executada](images/run-frequency.png)
 
-Pode ainda seleccionar um **dia da semana** concreto e uma **hora** concreta em que a automatização será desencadeada. No nosso caso de utilização, faz sentido escolher como momento uma hora antes do início da reunião semanal de segunda-feira de manhã.
+Pode ainda selecionar um **dia da semana** concreto e uma **hora** concreta em que a automatização será desencadeada. No nosso caso de utilização, faz sentido escolher como momento uma hora antes do início da reunião semanal de segunda-feira de manhã.
 
-![Selecção do momento concreto de execução da automatização](images/set-weekday-and-hour.png)
+![Seleção do momento concreto de execução da automatização](images/set-weekday-and-hour.png)
 
-Como **acção automatizada**, defina no passo seguinte a acção **Adicionar linha**.
+Como **ação automatizada**, defina no passo seguinte a ação **Adicionar registro**.
 
-![Selecção da acção automatizada](images/select-add-record-as-a-action.png)
+![Seleção da ação automatizada](images/select-add-record-as-a-action.png)
 
 Com um clique em **Adicionar campo**, pode definir quantas **entradas** desejar, que aparecerão automaticamente na linha.
 
 ![Clique em Adicionar campo para definir entradas](images/add-field.png)
 
-Para que a linha registe automaticamente a respectiva data da reunião de equipa marcada para o mesmo dia, seleccione a **coluna de data** e o valor **O dia da execução**.
+Para que a linha registe automaticamente a respetiva data da reunião de equipa marcada para o mesmo dia, selecione a **coluna de data** e o valor **O dia da execução**.
 
 ![Definição das entradas](images/definiton-of-the-records.png)
 
-Com um clique em **Adicionar campo** pode definir quaisquer **entradas** adicionais que preencham a linha após o disparo da automatização. Basta seleccionar uma **coluna** correspondente da sua tabela a partir do menu suspenso e definir um valor no campo de entrada ao lado.
+Com um clique em **Adicionar campo** pode definir quantas **entradas** adicionais desejar, que preencherão a linha após o disparo da automatização. Basta selecionar uma **coluna** correspondente da sua tabela a partir do menu suspenso e definir um valor no campo de entrada ao lado.
 
 ![Defina quantas entradas desejar ](images/other-records.jpg)
 
-Se, por exemplo, a reunião de equipa decorrer habitualmente numa sala específica, pode definir essa sala como valor fixo. E se determinados temas (como novas contratações/saídas/aniversários) constarem da agenda de todas as reuniões de equipa, também pode fazer com que sejam sempre introduzidos na linha.
+Se, por exemplo, a reunião de equipa decorrer habitualmente numa sala específica, pode definir essa sala como valor fixo. E se determinados temas (como novas contratações/saídas/aniversários de empresa) constarem da agenda de todas as reuniões de equipa, também pode fazer com que sejam sempre introduzidos na linha.
 
 ### Testar a automatização
 
-Se a automatização funcionar como pretendido, o SeaTable adicionará automaticamente à sua tabela uma linha com as **entradas** previamente definidas após o disparo do acionador periódico (aqui: todas as segundas-feiras às 7 h). Isto poupa-lhe alguns toques no teclado e poderá, em seguida, introduzir manualmente os dados em falta.
+Se a automatização funcionar como pretendido, o SeaTable adicionará automaticamente à sua tabela uma linha com as **entradas** previamente definidas após o disparo do acionador à hora programada (aqui: todas as segundas-feiras às 7 h). Isto poupa-lhe alguns toques no teclado e poderá, em seguida, introduzir manualmente os dados em falta.
 
 ![Tabela após o disparo da automatização definida ](images/table-after-automation-new-record-to-current-table.png)
 
-{{< warning  type="warning" headline="Dica"  text="Para poupar efectivamente trabalho e **não** ter de efectuar alterações aos valores introduzidos automaticamente, é aconselhável definir **apenas** valores já fixos que **não** tenha de ajustar manualmente a posteriori. Os ajustes às entradas adicionadas automaticamente são possíveis a qualquer momento, mas limitam consideravelmente a utilidade da automatização." />}}
+{{< warning  type="warning" headline="Dica"  text="Para poupar efetivamente trabalho e **não** ter de efetuar alterações aos valores introduzidos automaticamente, é aconselhável definir **apenas** valores já fixos que **não** tenha de ajustar manualmente a posteriori. Os ajustes às entradas adicionadas automaticamente são possíveis a qualquer momento, mas limitam consideravelmente a utilidade da automatização." />}}
 
 ### Outros exemplos interessantes de automatizações:
 

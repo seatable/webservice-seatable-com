@@ -20,7 +20,7 @@ Vous trouverez ici des aides et des conseils qui vous faciliteront le travail av
 
 N'hésitez pas à utiliser des **espaces** et **des sauts de ligne** lorsque vous créez des formules. Ceux-ci vous aident à garder une vue d'ensemble des différentes fonctions et autres éléments, en particulier dans les formules complexes.
 
-Vous pouvez placer des espaces et des sauts de ligne presque comme vous le souhaitez dans l'**éditeur de formules**. La seule précaution à prendre est d'utiliser des **fonctions**. Il ne faut **pas** mettre d'espace juste **après** une fonction, par exemple _lower()_.
+Vous pouvez placer des espaces et des sauts de ligne presque comme vous le souhaitez dans l'**éditeur de formules**. Seule l'utilisation de **fonctions** exige de la prudence. Il ne faut **pas** mettre d'espace juste **après** une fonction, par exemple _lower()_.
 
 ### Exemple d'application
 
@@ -32,11 +32,11 @@ Lorsque vous cliquez dans l'éditeur de formules sur un **élément** que vous s
 
 ![Informations sur un élément dans l'assistant de formules](images/Informationen-zu-einem-Element.png)
 
-## Respecter les couleurs des différents éléments de la forme
+## Respecter les couleurs des différents éléments de la formule
 
 Pour pouvoir distinguer les différents éléments de votre formule, ceux-ci sont marqués d'une **couleur** différente selon leur type. Vous pouvez lire [ici]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}#klare-farbsprache-zur-orientierung) quels éléments sont représentés dans quelle couleur.
 
-Orientez-vous vers les différentes **couleurs** afin d'avoir une meilleure vue d'ensemble de votre formule. En outre, dans deux cas, la mise en évidence des éléments de la formule par des couleurs peut également faire office d'**autocontrôle**:
+Aidez-vous des différentes **couleurs** afin d'avoir une meilleure vue d'ensemble de votre formule. En outre, dans deux cas, la mise en évidence des éléments de la formule par des couleurs peut également faire office d'**autocontrôle** :
 
 - **Les éléments de texte** ne sont pas marqués en **rouge** dans votre formule tant qu'ils ne sont pas placés entre **guillemets**.
 - **Les références aux colonnes** ne sont marquées en **violet** dans votre formule que lorsqu'elles sont entourées d'**accolades**.
@@ -45,7 +45,7 @@ Si les éléments de formule mentionnés **ne sont pas** marqués dans la **coul
 
 ## Respecter la mise en évidence des parenthèses qui vont ensemble
 
-**Les parenthèses associées** sont **mises en évidence** dans l'éditeur de formules dès que vous cliquez sur une parenthèse ouvrante ou fermante. Cela vous permet de repérer plus facilement les remplacements de parenthèses **manquants** ou **incorrects**.
+**Les parenthèses associées** sont **mises en évidence** dans l'éditeur de formules dès que vous cliquez sur une parenthèse ouvrante ou fermante. Cela vous permet de repérer plus facilement les parenthèses **manquantes** ou **incorrectes**.
 
 ![Les parenthèses ouvrantes et fermantes sont toujours mises en évidence dans l'éditeur de formules.](images/example-brackets.png)
 
@@ -57,9 +57,6 @@ Une manière optimale de planifier une formule pourrait par exemple ressembler �
 
 1. Commencez par écrire avec vos propres mots l'**objectif** que vous souhaitez atteindre avec la formule (par exemple, calculer les jours restants avant un événement).
 2. Cherchez une **fonction** appropriée dans l'éditeur de formules (par ex. dateDif).
-3. Utilisez la **syntaxe** de la fonction pour vérifier qu'elle est correctement écrite, par exemple dateDif(date de début, date de fin, unité).
-4. Écrivez la **formule** dans le champ de texte prévu à cet effet dans l'éditeur de formules. Utilisez **les sauts de ligne** et **les espaces** pour rendre la logique de votre formule plus visible. En cas d'ambiguïté, contrôlez la formule à l'aide de la syntaxe.
-
-**Conseil**: Il peut être utile, surtout au début, de n'écrire d'abord que des parties d'une formule et de la compléter ensuite au fur et à mesure avec d'autres éléments.
-
-6. Contrôlez votre formule pour détecter d'éventuels **messages d'erreur**. Si vous en voyez d'autres, essayez d'abord de les corriger vous-même. Si vous avez besoin d'aide supplémentaire, consultez notre article d'aide sur [les erreurs typiques lors de l'utilisation de formules]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).
+3. Utilisez la **syntaxe** de la fonction pour vérifier qu'elle est correctement écrite – par exemple dateDif(date de début, date de fin, unité).
+4. Écrivez la **formule** dans le champ de texte prévu à cet effet dans l'éditeur de formules. Utilisez **les sauts de ligne** et **les espaces** pour rendre la logique de votre formule plus visible. Il peut être utile, surtout au début, de n'écrire que des parties d'une formule et de la compléter ensuite au fur et à mesure avec d'autres éléments.
+5. Prêtez attention aux éventuels **messages d'erreur**. S'il en apparaît, essayez d'abord de les corriger vous-même en contrôlant la formule à l'aide de la syntaxe. Si vous avez besoin d'aide supplémentaire, consultez notre article d'aide sur [les erreurs typiques lors de l'utilisation de formules]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).
