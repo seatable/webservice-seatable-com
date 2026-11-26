@@ -10,8 +10,8 @@ aliases:
     - '/es/ayuda/anlegen-eines-webformulars'
 seo:
     title: 'Crear formulario web en SeaTable: guía y ejemplos'
-    description: 'Genera formularios web a partir de tus tablas en SeaTable, edita campos con drag-and-drop y comparte enlaces para recoger información de forma sencilla.'
-
+    description: 'Genere formularios web a partir de sus tablas en SeaTable, edite campos con drag-and-drop y comparta enlaces para recoger información de forma sencilla.'
+weight: 2
 ---
 
 Un formulario **web** convierte su tabla en un formulario con campos abiertos. Una columna de la tabla corresponde a un campo del formulario web asociado.
@@ -26,11 +26,11 @@ Puede leer más sobre [formularios web]({{< relref "help/base-editor/webformular
 
 ![Crear un nuevo formulario web](images/Create-a-web-form.gif)
 
-1. Abra la gestión de formularios a través del botón {{< seatable-icon icon="dtable-icon-form" >}} **web forms** situado en la parte superior derecha de la cabecera base.
+1. Abra la gestión de formularios a través del botón {{< seatable-icon icon="dtable-icon-form" >}} **Formularios** situado en la parte superior derecha de la cabecera de la base.
 2. Seleccione **Crear formulario web** en la nueva ventana de la parte inferior y haga clic en **Formulario clásico**.
 3. Dé un **nombre** al formulario y confirme con **Enviar**.
-4. La primera vez que lo hagas, el editor **de formularios web** se abrirá automáticamente. La próxima vez, haz clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} a la derecha del nombre del formulario para abrir el editor.
-5. En la parte derecha tienes algunas opciones para personalizar la **configuración**, el **contenido** y la **apariencia** del formulario web. **Arrastra y suelta** los campos de la tabla en tu diseño o haz clic en el **símbolo más** a la derecha del nombre de la columna para incorporarlos al formulario.
+4. La primera vez que lo haga, el editor **de formularios web** se abrirá automáticamente. La próxima vez, haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} a la derecha del nombre del formulario para abrir el editor.
+5. En la parte derecha tiene algunas opciones para personalizar la **configuración**, el **contenido** y la **apariencia** del formulario web. **Arrastre y suelte** los campos de la tabla en su diseño o haga clic en el **símbolo más** a la derecha del nombre de la columna para incorporarlos al formulario.
 
     {{< warning  headline="Para más información" >}}
 

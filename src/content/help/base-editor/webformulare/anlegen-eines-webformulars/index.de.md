@@ -9,7 +9,7 @@ url: '/de/hilfe/anlegen-eines-webformulars'
 seo:
     title: 'Webformular in SeaTable anlegen: Tutorial & Tipps'
     description: 'Erstellen Sie ein Webformular aus einer Tabelle, passen Sie Felder individuell an, binden Sie Drag-and-Drop und teilen Sie Formulare per Link – ideal für Datenerfassung.'
-
+weight: 2
 ---
 
 Ein **Webformular** wandelt Ihre Tabelle in ein Formular mit offenen Feldern um. Eine Spalte in Ihrer Tabelle entspricht dabei einem Feld im dazugehörigen Webformular.
