@@ -17,7 +17,7 @@ register:
 draft: true
 ---
 
-Viele Unternehmen starten mit Excel oder Microsoft Access als Datenbank Struktur, um ihre Daten zu verwalten und interne Prozesse zu organisieren. Für den Einstieg funktioniert das meist gut, doch mit zunehmender Datenmenge wird es immer schwieriger, den Überblick zu behalten.
+Viele Unternehmen starten mit Excel oder Microsoft Access als Datenbank Struktur <!-- Bitte einmal durchegehen und Datenbank Struktur, Datenbank Aufbau etc. richtig schreiben oder umstellen, z.B Aufbau einer Datenbank. -->, um ihre Daten zu verwalten und interne Prozesse zu organisieren. Für den Einstieg funktioniert das meist gut, doch mit zunehmender Datenmenge wird es immer schwieriger, den Überblick zu behalten.
 
 Oft liegt das daran, dass die Datenbank von Anfang an nicht richtig geplant wurde. Wenn Sie Tabellen ohne klare Struktur einer Datenbank anlegen, auf eindeutige IDs verzichten oder zusammengehörige Daten nicht miteinander verknüpfen, entstehen schnell doppelte und widersprüchliche Informationen. Das macht die tägliche Arbeit mühsam und erschwert spätere Anpassungen. Im schlimmsten Fall müssen Sie Ihre Datenbank grundlegend umbauen oder sogar auf ein neues System umsteigen.
 
@@ -95,7 +95,7 @@ Wenn mehrere Tabellen zusammengehören, sollten Sie die entsprechenden Beziehung
 
 {{< accordion "Schritt 5: Beziehungen und Normalisierung berücksichtigen" >}}
 
- Überlegen Sie, ob zwischen Ihren Tabellen 1:1-, 1:N- oder N bestehen. Eine sinnvolle Normalisierung hilft Ihnen außerdem, Datenredundanzen zu vermeiden und Informationen konsistent zu halten. Die ersten drei Normalformen bieten dafür wichtige Regeln.
+ Überlegen Sie, ob zwischen Ihren Tabellen 1:1-, 1:N- oder N <!-- N:N? --> bestehen. Eine sinnvolle Normalisierung hilft Ihnen außerdem, Datenredundanzen zu vermeiden und Informationen konsistent zu halten. Die ersten drei Normalformen bieten dafür wichtige Regeln.
 
 {{< /accordion >}}
 
@@ -108,7 +108,7 @@ Halten Sie Ihr Datenbankschema in einem ER-Diagramm oder einer anderen visuellen
 ## Die fünf häufigsten Fehler beim Aufbau einer Datenbank
 Auch wenn Sie die Grundlagen einer Datenbank kennen, können bei der Planung und Umsetzung Fehler entstehen. Oft fallen sie erst auf, wenn die Datenmengen wachsen oder mehrere Personen mit der Datenbank arbeiten. Diese fünf Probleme sollten Sie deshalb von Anfang an vermeiden.
 
-![Viele Punkte die miteinandere zu einem Netzwerk verbunden sind.](netzwerk.png)
+![Viele Punkte die miteinander zu einem Netzwerk verbunden sind.](netzwerk.png)
 
 ### 1. Fehlende logische Struktur
 Wenn Sie neue Tabellen spontan anlegen, ohne den gesamten Datenbank Aufbau zu berücksichtigen, entsteht schnell ein unübersichtlicher Datenbestand. Informationen landen in den falschen Tabellen oder tauchen mehrfach auf. Das erschwert die Pflege und macht spätere Anpassungen aufwendig.
