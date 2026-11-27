@@ -174,7 +174,7 @@ Una despedida de soltero debe ser un día inolvidable lleno de diversión y aleg
 
 ## Planificador en línea para la despedida de soltero o soltera perfecta
 
-¿Se enfrenta al reto de planificar la despedida de soltero definitiva para su mejor amigo o amiga? ¡No se preocupe! Con la [plantilla gratuita]({{< relref "templates/everyday-life/party-planer" >}}) de SeaTable podrá llevar a cabo su planificación sin esfuerzo.
+¿Se enfrenta al reto de planificar la despedida de soltero definitiva para su mejor amigo o amiga? ¡No se preocupe! Con la [plantilla gratuita]({{< relref "templates/everyday-life/party-planner" >}}) de SeaTable podrá llevar a cabo su planificación sin esfuerzo.
 
 {{< template-box id="88ed38a6b4b04683a4c8" >}}
 

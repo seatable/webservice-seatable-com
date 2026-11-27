@@ -38,7 +38,7 @@ Les listes de souhaits sont particulièrement utiles aux **parents** qui souhait
 Les listes de souhaits sont les plus utiles lors d'occasions **réunissant de nombreux invités** qui souhaitent vous offrir quelque chose, car c'est là qu'il est particulièrement difficile de garder une vue d'ensemble. Les listes de souhaits sont donc souvent utilisées lors d'**occasions festives** :
 - [Anniversaire]({{< relref "posts/geburtstagsfeier-planen" >}})
 - [Mariage]({{< relref "templates/everyday-life/wedding-planner" >}})
-- [Baby shower]({{< relref "templates/everyday-life/party-planer" >}})
+- [Baby shower]({{< relref "templates/everyday-life/party-planner" >}})
 - **Jubilés** (p. ex. noces d'or)
 
 ![Partager des cadeaux adaptés pour un jubilé via la liste de souhaits](wishlist-jubilee.jpg)

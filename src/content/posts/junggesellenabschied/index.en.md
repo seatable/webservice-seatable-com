@@ -175,7 +175,7 @@ A bachelor party should be an unforgettable day full of fun and joy that everyon
 
 ## Online planner for the perfect bachelor or bachelorette party
 
-Are you facing the challenge of planning the ultimate bachelor party for your best friend? No need to worry! With SeaTable's [free template]({{< relref "templates/everyday-life/party-planer" >}}), you can realize your planning effortlessly.
+Are you facing the challenge of planning the ultimate bachelor party for your best friend? No need to worry! With SeaTable's [free template]({{< relref "templates/everyday-life/party-planner" >}}), you can realize your planning effortlessly.
 
 {{< template-box id="88ed38a6b4b04683a4c8" >}}
 

@@ -38,7 +38,7 @@ Wish lists are particularly useful for **parents** who want to note down wishes 
 Wish lists are most helpful for occasions **with lots of guests** who want to give you something – because that is when it is particularly hard to keep track. Consequently, wish lists are often used for **festive occasions**:
 - [Birthday]({{< relref "posts/geburtstagsfeier-planen" >}})
 - [Wedding]({{< relref "templates/everyday-life/wedding-planner" >}})
-- [Baby shower]({{< relref "templates/everyday-life/party-planer" >}})
+- [Baby shower]({{< relref "templates/everyday-life/party-planner" >}})
 - **Anniversaries** (e.g. golden wedding anniversary)
 
 ![Sharing suitable anniversary gifts via a wish list](wishlist-jubilee.jpg)

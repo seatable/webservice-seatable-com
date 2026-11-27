@@ -38,7 +38,7 @@ Besonders sinnvoll sind Wunschlisten für **Eltern**, die sich Wünsche nicht nu
 Am hilfreichsten sind Wunschzettel bei Anlässen **mit vielen Gästen**, die Ihnen etwas schenken möchten – denn hier fällt der Überblick besonders schwer. Folglich kommen Wunschzettel oft bei **festlichen Anlässen** zum Einsatz:
 - [Geburtstag]({{< relref "posts/geburtstagsfeier-planen" >}})
 - [Hochzeit]({{< relref "templates/everyday-life/wedding-planner" >}})
-- [Babyparty]({{< relref "templates/everyday-life/party-planer" >}})
+- [Babyparty]({{< relref "templates/everyday-life/party-planner" >}})
 - **Jubiläen** (z. B. Goldene Hochzeit)
 
 ![Passende Geschenke fürs Jubiläum via Wunschliste teilen](wishlist-jubilee.jpg)
