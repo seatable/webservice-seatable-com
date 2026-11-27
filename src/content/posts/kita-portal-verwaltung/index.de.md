@@ -5,6 +5,7 @@ seo:
     title: 'Kitaportal & Kita-Verwaltung: Herausforderungen und Lösungsansätze'
     description: 'Von der Kita-Platzvergabe bis zum Betreuungsschlüssel: Erfahren Sie, wie Kommunen und Träger administrative Hürden in der Kita-Verwaltung meistern'
 date: 2026-10-27
+lastmod: '2026-11-27'
 url: '/de/kita-portal-verwaltung/'
 categories:
     - 'best-practice'
@@ -112,7 +113,7 @@ Eine digitale Kita-Verwaltung verbindet die relevanten Informationen zu einer ge
 
 *   geplante [Arbeitszeiten]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) und Verfügbarkeiten
 *   Qualifikationen und Einsatzmöglichkeiten
-*   Abwesenheiten und [Krankmeldungen]({{< relref "templates/human-resources/sick-leave-management" >}})
+*   Abwesenheiten und [Krankmeldungen]({{< relref "templates/human-resources/employee-directory" >}})
 *   Gruppengrößen und Betreuungszeiten
 *   geltende personelle Mindestanforderungen
 

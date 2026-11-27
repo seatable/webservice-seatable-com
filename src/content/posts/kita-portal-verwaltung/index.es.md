@@ -5,6 +5,7 @@ seo:
     title: 'Portal de guarderías y gestión infantil: retos y soluciones'
     description: 'De la asignación de plazas a la ratio de personal: descubra cómo municipios y entidades gestoras superan los obstáculos administrativos de las guarderías'
 date: 2026-10-27
+lastmod: '2026-11-27'
 url: '/es/portal-guarderias-gestion/'
 categories:
     - 'best-practice'
@@ -112,7 +113,7 @@ Una gestión digital de guarderías reúne la información relevante en una visi
 
 *   [horarios de trabajo]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) previstos y disponibilidades
 *   cualificaciones y posibles funciones
-*   ausencias y [bajas por enfermedad]({{< relref "templates/human-resources/sick-leave-management" >}})
+*   ausencias y [bajas por enfermedad]({{< relref "templates/human-resources/employee-directory" >}})
 *   tamaño de los grupos y horarios de cuidado
 *   requisitos mínimos de personal vigentes
 

@@ -183,7 +183,7 @@ sections:
       - q: "Is using SeaTable for vacation management compliant with data protection law (GDPR)?"
         a: 'SeaTable Cloud stores and processes your data in data centers in Frankfurt and Munich, and the AI model for the AI automations also runs there. You can conclude the data processing agreement (DPA) online. Alternatively, you can run SeaTable on your own servers. Learn more about data protection and permissions on our [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) page.'
       - q: "How can I adapt the template if our company has special leave or cover rules?"
-        a: 'You can add further columns, types of leave, views and automations at any time. This allows you to adapt the template flexibly to company-specific special leave rules, shift models or cover arrangements – entirely without programming. Suitable additions are the [working time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) and [sick leave management]({{< relref "templates/human-resources/sick-leave-management" >}}) templates.'
+        a: 'You can add further columns, types of leave, views and automations at any time. This allows you to adapt the template flexibly to company-specific special leave rules, shift models or cover arrangements – entirely without programming. Suitable additions are the [working time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) and [sick leave management]({{< relref "templates/human-resources/employee-directory" >}}) templates.'
       
 
 ---

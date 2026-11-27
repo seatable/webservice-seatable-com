@@ -183,7 +183,7 @@ sections:
       - q: "A utilização da SeaTable para a gestão de férias está em conformidade com o RGPD?"
         a: 'A SeaTable Cloud armazena e processa os seus dados em centros de dados em Frankfurt e Munique, onde também funciona o modelo de IA das automatizações de IA. O acordo de subcontratação (DPA) é celebrado online. Em alternativa, pode operar a SeaTable nos seus próprios servidores. Saiba mais sobre proteção de dados e permissões na nossa página [Processos de RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Como posso adaptar o modelo se a nossa empresa tem regras próprias de licenças ou substituições?"
-        a: 'Pode acrescentar a qualquer momento novas colunas, tipos de férias, vistas e automatizações. Assim, adapta o modelo com flexibilidade às regras de licenças especiais, aos modelos de turnos ou às regras de substituição da sua empresa, sem programar. Complementos adequados são o [Registo do tempo de trabalho]({{< relref "templates/human-resources/recording-working-time" >}}) e o modelo [Gerir baixas por doença]({{< relref "templates/human-resources/sick-leave-management" >}}).'
+        a: 'Pode acrescentar a qualquer momento novas colunas, tipos de férias, vistas e automatizações. Assim, adapta o modelo com flexibilidade às regras de licenças especiais, aos modelos de turnos ou às regras de substituição da sua empresa, sem programar. Complementos adequados são o [Registo do tempo de trabalho]({{< relref "templates/human-resources/recording-working-time" >}}) e o modelo [Gerir baixas por doença]({{< relref "templates/human-resources/employee-directory" >}}).'
       
 
 ---

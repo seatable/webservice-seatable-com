@@ -183,7 +183,7 @@ sections:
       - q: "L'utilisation de SeaTable pour la gestion des congés est-elle conforme au RGPD ?"
         a: 'SeaTable Cloud stocke et traite vos données dans des centres de données à Francfort et Munich ; le modèle d''IA des automatisations IA y fonctionne également. Vous concluez l''accord de sous-traitance (DPA) en ligne. Vous pouvez aussi exploiter SeaTable sur vos propres serveurs. Pour en savoir plus sur la protection des données et les autorisations, consultez notre page [Processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Comment adapter le modèle si notre entreprise a des règles de congés ou de remplacement propres ?"
-        a: 'Vous pouvez à tout moment ajouter des colonnes, des types de congés, des vues et des automatisations. Vous adaptez ainsi le modèle en souplesse à vos règles de congés exceptionnels, à vos modèles de roulement ou à vos règles de remplacement, sans programmer. Compléments utiles : la [saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) et le modèle [Gérer les arrêts maladie]({{< relref "templates/human-resources/sick-leave-management" >}}).'
+        a: 'Vous pouvez à tout moment ajouter des colonnes, des types de congés, des vues et des automatisations. Vous adaptez ainsi le modèle en souplesse à vos règles de congés exceptionnels, à vos modèles de roulement ou à vos règles de remplacement, sans programmer. Compléments utiles : la [saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) et le modèle [Gérer les arrêts maladie]({{< relref "templates/human-resources/employee-directory" >}}).'
       
 
 ---
