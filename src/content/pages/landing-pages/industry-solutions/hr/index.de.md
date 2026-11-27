@@ -5,7 +5,7 @@ seo:
     title: 'HR-Prozesse DSGVO-konform, digital & automatisiert | SeaTable'
     description: 'HR-Prozesse digitalisieren und automatisieren – DSGVO-konform mit SeaTable. Mehr Effizienz, Überblick und Sicherheit im HR-Management.'
 date: '2025-04-03'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/de/hr-prozesse'
 
 sections:
@@ -53,7 +53,7 @@ sections:
       
       - icon: money-check-dollar
         headline: KI-Automationen
-        text: "Lassen Sie Lebensläufe zusammenfassen, Belege per OCR auslesen oder Anfragen klassifizieren. In SeaTable Cloud nutzen die KI-Automationen ein KI-Modell, das in deutschen Rechenzentren von Exoscale läuft."
+        text: "Lassen Sie Angaben aus Lebensläufen extrahieren, Belege per OCR aus Fotos auslesen oder Anfragen klassifizieren. In SeaTable Cloud nutzen die KI-Automationen ein KI-Modell, das in deutschen Rechenzentren von Exoscale läuft."
     
     - name: content-12
       weight: 3
@@ -105,7 +105,7 @@ sections:
       subtitle: Vorteile für Ihre HR Prozesse in der Übersicht
       items:
       - headline: "Bewerbermanagement mit KI"
-        text: Bewerbungen kommen per Webformular direkt in Ihre Bewerbertabelle, im Kanban sehen Sie, wer in welcher Phase des [Rekrutierungsprozesses]({{< relref "posts/20250317-recruiting" >}}) ist. Die [integrierte KI]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) fasst Lebensläufe zusammen und hilft beim Vorsortieren.
+        text: Bewerbungen kommen per Webformular direkt in Ihre Bewerbertabelle, im Kanban sehen Sie, wer in welcher Phase des [Rekrutierungsprozesses]({{< relref "posts/20250317-recruiting" >}}) ist. Die [integrierte KI]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) liest Angaben aus Lebensläufen aus und hilft beim Vorsortieren.
         image:  /images/landing-page-hr-02.png
         image_alt: 'Bewerber im Kanban nach Phase, mit Bewertung und Stelle'
 
@@ -204,7 +204,7 @@ sections:
             a: 'Ja. Im [App-Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) filtern Sie eine Seite über eine Mitarbeiter-Spalte mit der Bedingung „inkludiert aktuellen Benutzer“. Dann sieht jeder nur die Datensätze, die ihm zugeordnet sind – zum Beispiel die eigenen Urlaubsanträge oder, über eine zweite Spalte für Vorgesetzte, die des eigenen Teams. App-Nutzer können diesen Filter nicht ändern. Über Rollen und Seitenberechtigungen (Enterprise) legen Sie zusätzlich fest, wer welche Seite sieht und was bearbeitet werden darf.'
 
           - q: 'Wie unterstützt die KI von SeaTable meine tägliche HR-Arbeit?'
-            a: 'Mit KI-Automationen fassen Sie zum Beispiel Lebensläufe zusammen, klassifizieren Anfragen oder lesen Belege per OCR aus. Im KI-Chat (SeaTable Cloud und Dedicated) stellen Sie Fragen zu Ihren Daten, etwa zu offenen Urlaubsanträgen oder Bewerbungen – ohne die Plattform zu verlassen.'
+            a: 'Mit KI-Automationen lesen Sie zum Beispiel Angaben aus Lebensläufen aus, klassifizieren Anfragen oder lesen Belege per OCR aus. Im KI-Chat (SeaTable Cloud und Dedicated) stellen Sie Fragen zu Ihren Daten, etwa zu offenen Urlaubsanträgen oder Bewerbungen – ohne die Plattform zu verlassen.'
           
           - q: 'Wie kann ich mit SeaTable meine bestehenden HR-Prozesse integrieren und optimieren?'
             a: 'SeaTable ist darauf ausgelegt, sich nahtlos in Ihre bestehenden HR-Prozesse und Systeme zu integrieren. Dank der flexiblen API und der umfangreichen Integrationsmöglichkeiten können Sie SeaTable problemlos mit anderen Tools und Plattformen verbinden. Darüber hinaus bietet SeaTable anpassbare Vorlagen und [Workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}), mit denen Sie Ihre HR-Prozesse wie Bewerbermanagement, Urlaubsplanung, Onboarding- und Offboarding-Prozesse, Mitarbeiterentwicklung und vieles mehr optimieren können. Mit SeaTable behalten Sie die volle Kontrolle über Ihre HR-Abläufe und können Ihre Prozesse so gestalten, wie es für Ihr Unternehmen am besten passt.'

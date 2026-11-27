@@ -5,7 +5,7 @@ seo:
     title: 'Personio alternative: flexible, cost-efficient, GDPR-compliant'
     description: 'Discover the flexible, cost-efficient and GDPR-compliant Personio alternative: processes, apps and AI automations with SeaTable.'
 date: '2026-02-26'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/personio-alternative'
 
 sections:
@@ -123,7 +123,7 @@ sections:
       subtitle: Functions and applications
       items:
       - headline: "Applicant management with AI"
-        text: "You can lose a lot of time in recruiting. Use artificial intelligence to read résumés via OCR and summarize them, classify applications, or draft emails to candidates."
+        text: "You can lose a lot of time in recruiting. Use artificial intelligence to extract details from résumés with Extract, summarize cover letters, classify applications, or draft emails to candidates."
         image: /images/Landing-Page_HR_Bewerbermanagement.png
         image_alt: 'SeaTable view for AI-automated applicant management in recruiting'
 
@@ -166,7 +166,7 @@ sections:
       items:
       - title: "AI automations for routine tasks"
         subtitle: "Use artificial intelligence"
-        text: 'With [SeaTable''s AI automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), you can reduce tedious and monotonous routine tasks and make large amounts of data manageable. For example, you can **summarize texts** (e.g. cover letters, emails) or **extract information from documents** (e.g. from résumés that were previously read via OCR). Automate repetitive tasks and focus on your strategic HR management instead.'
+        text: 'With [SeaTable''s AI automations]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), you can reduce tedious and monotonous routine tasks and make large amounts of data manageable. For example, you can **summarize texts** (e.g. cover letters, emails) or **extract information from documents** (e.g. from résumés as PDF). Automate repetitive tasks and focus on your strategic HR management instead.'
       - title: "Simply build your own employee apps"
         subtitle: "Use the no-code app builder"
         text: "With apps, you can efficiently provide your employees with documents for **employee self-service** (ESS portal), with everyone only seeing their own data, or have them record data systematically (e.g. working hours, vacation requests, sick leave). Create **intuitive user experiences** with SeaTable's app builder – without any programming skills."
@@ -213,5 +213,5 @@ sections:
             a: "SeaTable attaches great importance to data security and data protection. You have the choice: SeaTable Cloud stores your data in data centers in Frankfurt and Munich, and you can conclude the data processing agreement online. Or you install SeaTable Server on your own servers and keep full control over your data. With access permissions, two-factor authentication, and single sign-on (Enterprise), you protect your data additionally."
           
           - q: "What are the benefits of SeaTable's AI features for HR management?"
-            a: "With SeaTable's AI automations, you can reduce your operational HR work in particular. For example, you can summarize or draft texts (e.g. cover letters, emails) or extract information from documents (e.g. résumés, after reading them via OCR). You can also automate many repetitive tasks that are monotonous and cause unnecessary effort, and focus on strategic HR management instead. In SeaTable Cloud, the AI automations use an AI model in German data centers."
+            a: "With SeaTable's AI automations, you can reduce your operational HR work in particular. For example, you can summarize or draft texts (e.g. cover letters, emails) or extract information from documents (e.g. from résumés as PDF). You can also automate many repetitive tasks that are monotonous and cause unnecessary effort, and focus on strategic HR management instead. In SeaTable Cloud, the AI automations use an AI model in German data centers."
 ---

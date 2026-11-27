@@ -5,7 +5,7 @@ seo:
     title: "Numérisez votre gestion des candidats dans l'entreprise"
     description: 'Des processus clairs et une organisation intelligente rendent la gestion des candidatures plus efficace, ce qui est idéal pour les petits et les grands services de ressources humaines.'
 date: '2025-07-22'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/fr/gestion-des-candidatures/'
 
 sections:
@@ -38,7 +38,7 @@ sections:
           - text: Automatismes et notifications intégrés
           - text: Formulaires web et frontend avec application universelle sans code
           - text: "Centres de données en Allemagne ou propres serveurs"
-          - text: "Automatisations IA : lire les CV par OCR et les résumer"
+          - text: "Automatisations IA : extraire des informations des CV avec Extract, présélectionner les candidatures"
           - text: Structure de données flexible et personnalisable
       image: /images/landing-page-bewerbermanagement-1.png
       image_alt: "Candidats dans un tableau Kanban par étape d’entretien et calendrier des entretiens"

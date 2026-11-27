@@ -2,7 +2,7 @@
 title: 'Onboarding-de-empleados'
 description: 'Utiliza nuestra plantilla para organizar checklists y procesos al incorporar nuevos empleados de manera estructurada.'
 date: '2024-08-24'
-lastmod: '2026-02-26'
+lastmod: '2026-11-27'
 url: '/es/plantilla/plantilla-plan-onboarding-empleados'
 aliases:
     - /es/plantilla/employee-onboarding/
@@ -10,15 +10,15 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: 'Plantilla de plan de onboarding para nuevos empleados'
-    description: 'Mejore el onboarding: use la plantilla de plan de integración con checklists claras para un inicio sólido de nuevos empleados.'
+    title: "Plantilla de plan de onboarding: checklist digital de incorporación"
+    description: "Checklist digital de onboarding en la que TI, la persona responsable del equipo y RR. HH. marcan sus tareas: plantilla gratuita de plan de onboarding para SeaTable."
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable: su plantilla digital de plan de formación para nuevos empleados'
-      text: '¡Motive a los nuevos empleados desde el primer día con nuestra plantilla de plan de incorporación personalizada! Planifique su concepto de incorporación de forma estructurada y eficiente. Utilice la lista de verificación de incorporación para agrupar tareas y asignar responsabilidades de forma clara. Mantenga siempre a la vista los plazos y los progresos y benefíciese de una adaptación flexible a sus necesidades. ¡Empiece ahora y lleve su incorporación a un nuevo nivel!'
+      text: "Su checklist digital de onboarding, en la que TI, la persona responsable del equipo y RR. HH. marcan por sí mismos sus tareas: con la plantilla de plan de incorporación de SeaTable genera con solo pulsar un botón, para cada nueva persona, todas las tareas a partir de sus actividades estándar, con responsables, fechas de vencimiento y estado. En todo momento ve qué está hecho y dónde hay bloqueos, y adapta la plantilla a roles, ubicaciones y a su concepto de incorporación."
       classes:
           - bg-white
       template: '89db2f0bd28d41f19c01'
@@ -75,13 +75,13 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Utilice la plantilla del plan de formación en línea con SeaTable'
       subtitle: 'Resumen de sus ventajas'
-      description: 'La plataforma de IA no-code destaca por su flexibilidad y adaptabilidad. Con la plantilla del plan de formación, puede representar digitalmente todo el proceso de incorporación, desde la preparación previa al primer día de trabajo hasta la integración en la rutina diaria, mantener una visión general de las tareas y responsabilidades y crear una base común para [procesos de RR HH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) estructurados en toda la empresa.'
+      description: 'La plataforma de IA no-code destaca por su flexibilidad y adaptabilidad. Con la plantilla del plan de formación, puede representar digitalmente el proceso de incorporación, desde la preparación previa al primer día de trabajo hasta la integración en la rutina diaria, mantener una visión general de las tareas y responsabilidades y crear una base común para [procesos de RR HH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) estructurados en toda la empresa.'
       items:
       - text: 'Siempre actualizado: gracias a los comentarios, el historial de cambios y las actualizaciones en tiempo real, su plan de formación estará siempre al día, desde la primera plantilla del plan de formación hasta los ajustes continuos para las diferentes funciones.'
       - text: 'Acceso desde cualquier lugar: con una plantilla de plan de formación en línea, el departamento de RR. HH., los directivos y los nuevos empleados tienen acceso en todo momento al plan de incorporación, las tareas pendientes y la documentación, ya sea en la oficina, desde casa o desde cualquier otro lugar.'
       - text: 'Transparencia en la incorporación: vincule las tareas, la lista de verificación de incorporación y los miembros del equipo en una plantilla de plan de incorporación, de modo que pueda ver qué tareas se han completado, dónde se necesita ayuda y en qué punto se encuentra el proceso de incorporación.'
       - text: 'Escalable: su plantilla de plan de formación crece al ritmo de sus necesidades, independientemente del número de nuevos empleados, ubicaciones o perfiles profesionales que forme al mismo tiempo.'
-      - text: 'Automatizado e integrado: utilice SeaTable como base de datos central para los procesos de RR. HH., que se adapta de forma flexible a su concepto de formación y complementa a la perfección otras aplicaciones como el correo electrónico, los sistemas de gestión de documentos (DMS) o las herramientas de colaboración.'
+      - text: "Automatizado e integrado: utilice SeaTable como base de datos central para sus procesos de onboarding, también junto a un software de RR. HH. o de nóminas ya existente, y complemente otras aplicaciones como el correo electrónico, los sistemas de gestión de documentos (DMS) o las herramientas de colaboración."
       image_position: [left]
       image: '/images/template_page_einarbeitungsplan_01.png'
       image_alt: 'Plantilla del plan de formación de SeaTable con lista de verificación de incorporación para nuevos empleados'
@@ -104,7 +104,7 @@ sections:
         image: '/images/template_page_einarbeitungsplan_04.png'
         image_alt: 'Tabla con los miembros del equipo, las fechas de inicio y los planes de formación asociados.'
       - headline: 'Mi incorporación para nuevos empleados'
-        text: 'Utilice una vista filtrada «Mi incorporación» para mostrar a los nuevos empleados solo sus propias tareas y citas. De este modo, la plantilla del plan de incorporación se convierte en una lista de tareas personalizada para cada empleado, lo que garantiza que las expectativas, los contenidos y la secuencia temporal de la incorporación estén claros en todo momento.'
+        text: "Utilice una vista filtrada «My Onboarding» para mostrar a los nuevos empleados solo sus propias tareas y citas; en una app, un filtro predefinido por el usuario actual garantiza que cada persona vea solo sus propias entradas. De este modo, la plantilla del plan de incorporación se convierte en una lista de tareas personalizada para cada empleado, lo que garantiza que las expectativas, los contenidos y la secuencia temporal de la incorporación estén claros en todo momento."
         image: '/images/template_page_einarbeitungsplan_05.png'
         image_alt: 'Vista con lista de verificación personalizada para la incorporación de un nuevo empleado'
             
@@ -146,10 +146,10 @@ sections:
         text: 'Summarize resume automáticamente en pocas frases las conversaciones de feedback, las notas de las primeras semanas o los hilos de comentarios más largos. Junto con su plantilla de plan de formación, obtendrá rápidamente una visión general del estado de la formación de los nuevos empleados y detectará a tiempo dónde se necesita apoyo adicional.'
         icon: circle-info
       - headline: 'Automatización personalizada con Custom Prompt'
-        text: 'Con las indicaciones personalizadas, puede definir sus propias instrucciones de IA que le ayudarán en las tareas rutinarias típicas de la incorporación, como recordatorios de citas para comentarios, sugerencias de módulos de formación adecuados o textos de bienvenida formulados automáticamente. De este modo, su plantilla de plan de incorporación se convierte en un asistente activo en el día a día de RR. HH.'
+        text: "Con los Custom Prompts, puede definir sus propias instrucciones de IA que le ayudarán en las tareas rutinarias típicas de la incorporación, como sugerencias de módulos de formación adecuados o textos de bienvenida formulados automáticamente. Los recordatorios de las citas de feedback se gestionan con reglas de notificación. De este modo, su plantilla de plan de incorporación se convierte en un asistente activo en el día a día de RR. HH."
         icon: wand-magic-sparkles
       - headline: 'Resúmenes de estado y recursos humanos con solo pulsar un botón'
-        text: 'Genere resúmenes estructurados sobre el estado de la incorporación, las tareas pendientes y las incorporaciones completadas por departamento, ubicación o período directamente desde su plantilla de plan de incorporación. La IA reconoce patrones y anomalías, lo que le permite preparar informes de RR. HH., presentaciones y auditorías con solo unos clics y tomar decisiones basadas en hechos.'
+        text: "Genere resúmenes estructurados sobre el estado de la incorporación, las tareas pendientes y las incorporaciones completadas por departamento, ubicación o período directamente desde su plantilla de plan de incorporación. En el chat de IA (SeaTable Cloud y Dedicated) puede hacer preguntas sobre estos datos, por ejemplo, qué incorporaciones tienen tareas vencidas."
         icon: arrow-right
         
         
@@ -160,21 +160,23 @@ sections:
        - bg-gray-100
       title: 'Plantilla de plan de formación para su empresa'
       subtitle: 'Estructura, claridad y fidelización de los empleados'
-      description: 'SeaTable es una moderna plataforma de IA no-code con automatizaciones y creador de aplicaciones que ofrece todas las funciones que necesita para una plantilla de plan de incorporación profesional. Se centra en la trazabilidad, el trabajo en equipo y la personalización flexible con los más altos estándares de seguridad, desde la primera plantilla de plan de incorporación hasta el diseño de un plan de incorporación escalable en varias ubicaciones.'
+      description: "SeaTable es una moderna plataforma de IA no-code con automatizaciones y App Builder que ofrece las funciones que necesita para una plantilla de plan de incorporación profesional. Se centra en la trazabilidad, el trabajo en equipo y la personalización flexible, desde la primera plantilla de plan de incorporación hasta el diseño de un plan de incorporación escalable en varias ubicaciones."
       box-position: [right!]
       items:
       - headline: Conforme al RGPD
-        text: 'Si utiliza SeaTable Cloud o la IA integrada, todos los datos permanecerán en Europa, ya que la infraestructura se gestiona exclusivamente en servidores ubicados en Alemania.'
+        text: "SeaTable Cloud y el modelo de IA de las automatizaciones de IA funcionan en centros de datos de Exoscale en Fráncfort y Múnich. Puede formalizar en línea el contrato de encargo del tratamiento."
       - headline: 2FA y SSO
-        text: 'SeaTable es compatible con las técnicas de autenticación más habituales, como la autenticación de dos factores y el inicio de sesión único, lo que le permite controlar quién puede acceder a sus planes de formación y datos de RR. HH.'
+        text: "Cada usuario puede activar la autenticación de dos factores; el inicio de sesión único está disponible en la suscripción Enterprise. Así controla quién puede acceder a sus planes de formación y datos de RR. HH."
 
     - name: "faq"
       weight: 20
       title: 'Preguntas frecuentes sobre la plantilla del plan de formación de SeaTable'
       subtitle: 
       items:
+      - q: "¿Con qué herramienta creamos una checklist digital de onboarding en la que TI, la persona responsable del equipo y RR. HH. marquen sus tareas?"
+        a: 'Hay tres opciones: herramientas de gestión de tareas como Asana o Microsoft Planner, el módulo de onboarding de una suite de RR. HH. como Personio o una base de datos flexible como SeaTable. SeaTable encaja cuando la checklist varía según el rol o la ubicación, las tareas deben generarse automáticamente a partir de actividades estándar y usted quiere vincular personal, dispositivos y formaciones, también junto a un software de RR. HH. ya existente. Con la plantilla de plan de incorporación puede empezar directamente; en nuestra guía puede leer cómo es un buen [proceso de onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}).'
       - q: "¿Puedo utilizar la plantilla del plan de formación de SeaTable de forma gratuita?"
-        a: 'Puede utilizar la plantilla del plan de formación de forma gratuita en SeaTable Cloud. Solo necesita una cuenta gratuita y podrá empezar inmediatamente a organizar la incorporación y la formación de los nuevos empleados de forma estructurada.'
+        a: "Puede utilizar la plantilla del plan de formación de forma gratuita en SeaTable Cloud, con SeaTable Free para hasta 25 miembros del equipo. Solo necesita una cuenta gratuita y podrá empezar inmediatamente a organizar la incorporación y la formación de los nuevos empleados de forma estructurada."
       - q: "¿En qué se diferencia la plantilla del plan de formación de una simple lista de verificación para la incorporación?"
         a: 'Una simple lista de verificación de incorporación suele mostrar solo las tareas en forma de lista. La plantilla del plan de incorporación de SeaTable vincula tareas, actividades estándar y empleados, ofrece vistas como «Mi incorporación» y agrega información de estado, lo que convierte una lista de verificación en un plan de incorporación transparente y evaluable.'
       - q: "¿Puedo importar planes de formación existentes a SeaTable?"
@@ -182,11 +184,11 @@ sections:
       - q: "¿La plantilla del plan de formación admite diferentes funciones y ubicaciones?"
         a: 'Sí, puede definir paquetes de incorporación específicos para diferentes funciones, ubicaciones o modelos de contrato y guardarlos en la plantilla del plan de incorporación. Para los nuevos empleados, simplemente seleccione el paquete adecuado y cree un plan de incorporación personalizado en cuestión de segundos.'
       - q: "¿Puedo vincular la plantilla del plan de formación con otros procesos de RR. HH.?"
-        a: 'Sí, puede combinar la plantilla del plan de formación con otras plantillas y flujos de trabajo, por ejemplo, para la gestión de candidatos, el registro de horas o los contenidos de aprendizaje. De este modo, se crea un entorno integrado para sus procesos digitales de RR. HH.'
+        a: 'Sí, puede combinar la plantilla del plan de formación con otras plantillas y flujos de trabajo, por ejemplo, con [Selección de personal]({{< relref "templates/human-resources/hr-recruiting" >}}), el [Directorio de empleados]({{< relref "templates/human-resources/employee-directory" >}}) o la [Gestión de vacaciones]({{< relref "templates/human-resources/holiday-request-management" >}}). De este modo, se crea un entorno para sus [procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) digitales.'
       - q: "¿Cuántos usuarios pueden trabajar simultáneamente con la plantilla del plan de formación?"
         a: 'Varios usuarios pueden trabajar simultáneamente en la misma base, registrar tareas y actualizarlas. Las autorizaciones le permiten controlar quién puede leer, comentar o editar, lo que resulta ideal para RR. HH., directivos, compañeros y nuevos empleados.'
       - q: "¿Puedo crear campos y flujos de trabajo propios en la plantilla del plan de formación?"
         a: 'Sí, puede añadir columnas, tablas, vistas y automatizaciones adicionales en cualquier momento. De este modo, puede adaptar cada plantilla de plan de formación de manera flexible a su concepto de formación, sus procesos de RR. HH. y sus requisitos de generación de informes.'
       - q: "¿SeaTable es una alternativa adecuada a las herramientas clásicas de gestión de proyectos, como Asana, para los procesos de incorporación?"
-        a: 'Sí, SeaTable es una [alternativa muy buena y económica a Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) y herramientas similares. A diferencia de los tableros rígidos, con la plantilla del plan de formación, las plantillas del plan de incorporación y otras plantillas de RR. HH., se combina una lógica de base de datos flexible con vistas como calendarios, líneas de tiempo e interfaces de aplicaciones, lo que resulta ideal para la formación moderna y digital de los nuevos empleados.'
+        a: 'Sí, SeaTable es una [alternativa económica a Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) y herramientas similares. A diferencia de las simples listas de tareas, con la plantilla del plan de formación, las plantillas del plan de incorporación y otras plantillas de RR. HH., se combina una lógica de base de datos flexible con vistas como calendarios, líneas de tiempo e interfaces de aplicaciones, lo que resulta ideal para la formación moderna y digital de los nuevos empleados.'
 ---

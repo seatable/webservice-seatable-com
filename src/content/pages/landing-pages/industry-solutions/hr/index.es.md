@@ -5,7 +5,7 @@ seo:
     title: 'Procesos de RR. HH. conformes al RGPD, digitales y automatizados | SeaTable'
     description: 'Digitalice y automatice los procesos de RR. HH. de forma conforme al RGPD con SeaTable. Más eficiencia, claridad y seguridad en la gestión de personal.'
 date: '2025-04-03'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/es/procesos-rrhh'
 
 sections:
@@ -53,7 +53,7 @@ sections:
       
       - icon: money-check-dollar
         headline: "Automatizaciones con IA"
-        text: "Resuma currículos, lea justificantes mediante OCR o clasifique solicitudes. En SeaTable Cloud, las automatizaciones con IA utilizan un modelo de IA que se ejecuta en centros de datos de Exoscale en Alemania."
+        text: "Extraiga datos de currículos, lea justificantes a partir de fotos mediante OCR o clasifique solicitudes. En SeaTable Cloud, las automatizaciones con IA utilizan un modelo de IA que se ejecuta en centros de datos de Exoscale en Alemania."
     
     - name: content-12
       weight: 3
@@ -105,7 +105,7 @@ sections:
       subtitle: Resumen de las ventajas para sus procesos de RR. HH.
       items:
       - headline: "Gestión de candidatos con IA"
-        text: 'Las candidaturas llegan mediante un formulario web directamente a su tabla de candidatos, y en el tablero Kanban ve quién está en qué fase del [proceso de selección]({{< relref "posts/20250317-recruiting" >}}). La [IA integrada]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) resume currículos y ayuda en la preselección.'
+        text: 'Las candidaturas llegan mediante un formulario web directamente a su tabla de candidatos, y en el tablero Kanban ve quién está en qué fase del [proceso de selección]({{< relref "posts/20250317-recruiting" >}}). La [IA integrada]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) extrae datos de los currículos y ayuda en la preselección.'
         image: /images/landing-page-hr-02.png
         image_alt: "Candidatos en un tablero Kanban por fase, con valoración y puesto"
 
@@ -204,7 +204,7 @@ sections:
             a: 'Sí. En el [App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), filtre una página por una columna de colaboradores con la condición "incluye al usuario actual". Así, cada persona solo ve los registros que tiene asignados, por ejemplo sus propias solicitudes de vacaciones o, mediante una segunda columna para responsables, las de su equipo. Los usuarios de la app no pueden cambiar este filtro. Con roles y permisos de página (Enterprise), define además quién ve cada página y qué se puede editar.'
 
           - q: '¿Cómo le ayuda la IA de SeaTable en su trabajo diario en RR. HH.?'
-            a: "Con las automatizaciones con IA puede, por ejemplo, resumir currículos, clasificar solicitudes o leer justificantes mediante OCR. En el chat de IA (SeaTable Cloud y Dedicated) hace preguntas sobre sus datos, por ejemplo sobre solicitudes de vacaciones o candidaturas abiertas, sin salir de la plataforma."
+            a: "Con las automatizaciones con IA puede, por ejemplo, extraer datos de currículos, clasificar solicitudes o leer justificantes mediante OCR. En el chat de IA (SeaTable Cloud y Dedicated) hace preguntas sobre sus datos, por ejemplo sobre solicitudes de vacaciones o candidaturas abiertas, sin salir de la plataforma."
           
           - q: '¿Cómo puede integrar y optimizar sus procesos de RR. HH. existentes con SeaTable?'
             a: 'SeaTable está diseñado para integrarse perfectamente en sus procesos y sistemas de RR. HH. existentes. Gracias a su API flexible y a sus amplias posibilidades de integración, puede conectar SeaTable fácilmente con otras herramientas y plataformas. Además, SeaTable ofrece plantillas personalizables y [flujos de trabajo]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) que le permiten optimizar sus procesos de RR. HH., como la gestión de candidatos, la planificación de vacaciones, los procesos de incorporación y salida, el desarrollo de los empleados y mucho más. Con SeaTable, mantendrá el control total sobre sus operaciones de RR. HH. y podrá diseñar sus procesos de la forma que mejor se adapte a su empresa.'

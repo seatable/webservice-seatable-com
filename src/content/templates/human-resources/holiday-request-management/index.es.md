@@ -2,6 +2,7 @@
 title: 'Gestión de vacaciones'
 description: 'Gestione las solicitudes de vacaciones de forma digital: registro por formulario, control de solapamientos y aprobaciones automatizadas.'
 date: '2024-08-24'
+lastmod: '2026-11-27'
 url: '/es/plantilla/gestion-vacaciones'
 aliases:
     - '/es/plantilla/gestion-solicitudes-vacaciones'
@@ -10,14 +11,14 @@ category: 'human-resources'
 functions:
 seo:
     title: 'Gestión de vacaciones digital | Plantilla | SeaTable'
-    description: 'Gestione solicitudes de vacaciones, vacaciones restantes y ausencias en un solo lugar. ¡Use ya la plantilla de SeaTable!'
+    description: "Solicite vacaciones mediante un formulario, obtenga la aprobación de la persona responsable del equipo y calcule automáticamente las vacaciones restantes, sin un software de RR. HH. completo. Plantilla gratuita de SeaTable."
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable: la gestión de vacaciones profesional para su empresa'
-      text: '¡Despídase de los formularios en papel y de las listas de Excel poco claras! Con esta plantilla de gestión de vacaciones tendrá siempre bajo control las solicitudes de vacaciones, las vacaciones restantes y las ausencias, todo en un único lugar. Aproveche las ventajas de la personalización, la escalabilidad y la colaboración en tiempo real. Utilice funciones como la vista de calendario, los tableros Kanban y la asistencia con IA para organizar de forma eficiente una gestión de vacaciones moderna en su empresa, desde la primera solicitud hasta la aprobación final y con total transparencia para todo el equipo.'
+      text: "El personal solicita sus vacaciones mediante un formulario web, la persona responsable del equipo recibe una notificación automática y aprueba la solicitud, sin necesidad de un software de RR. HH. completo. Con esta plantilla de gestión de vacaciones tendrá bajo control las solicitudes de vacaciones, las vacaciones restantes y las ausencias en un único lugar: con vista de calendario para ver los solapamientos en el equipo, cálculo automático de las vacaciones restantes y vistas en las que cada persona ve solo sus propias solicitudes."
       classes:
           - bg-white
       template: 'a4065ce03d4d4bd5959c'
@@ -40,16 +41,16 @@ sections:
           text: 'La vista de calendario integrada muestra todas las ausencias previstas de un vistazo. Así, los responsables detectan a tiempo los solapamientos, evitan la falta de personal y planifican con previsión la suplencia de cada departamento.'
         - icon: 'edit'
           headline: 'Cálculo automático de días'
-          text: 'Las columnas de fórmula vinculadas recalculan automáticamente las vacaciones restantes de cada empleado con cada aprobación. Los cálculos manuales desaparecen por completo y el derecho a vacaciones actual es siempre correcto y verificable.'
+          text: "Las columnas de fórmula vinculadas recalculan automáticamente las vacaciones restantes de cada empleado con cada aprobación. Los cálculos manuales desaparecen y el derecho a vacaciones actual es verificable en todo momento."
         - icon: 'lock'
           headline: 'Permisos según el rol'
-          text: 'Los permisos configurables de forma individual determinan quién puede solicitar, aprobar o solo consultar. Cada empleado ve exclusivamente sus propios datos, mientras el departamento de RR. HH. conserva la visión completa de las solicitudes.'
+          text: "Los permisos configurables de forma individual determinan quién puede solicitar, aprobar o solo consultar. En una app, un filtro predefinido garantiza que cada empleado vea solo sus propias solicitudes, mientras el departamento de RR. HH. conserva la visión completa."
         - icon: 'pencil'
           headline: 'Formulario web digital'
           text: 'A través de un sencillo formulario web, sus empleados presentan la solicitud de vacaciones desde cualquier lugar, en teletrabajo o en su puesto de trabajo. Todos los datos llegan estructurados a la plantilla central, sin papel ni correos.'
         - icon: 'bell'
           headline: 'Notificaciones automáticas'
-          text: 'En cuanto llega una nueva solicitud o cambia su estado, la plantilla informa automáticamente a todas las personas implicadas. Así se acortan los tiempos de respuesta y se evitan por completo las molestas consultas por teléfono o correo.'
+          text: "En cuanto llega una nueva solicitud o cambia su estado, la plantilla informa automáticamente a todas las personas implicadas. Así se acortan los tiempos de respuesta y se evitan las consultas por teléfono o correo."
 
     - name: "customer-1"
       weight: 4
@@ -145,10 +146,10 @@ sections:
         text: 'Summarize resume automáticamente en pocas frases los comentarios largos o los historiales de solicitud extensos. Así, los responsables captan mucho antes lo esencial de una solicitud de vacaciones, sin tener que leer todo el historial de la solicitud con detalle.'
         icon: circle-info
       - headline: 'Automatizar con prompts'
-        text: 'Con los Custom Prompts define sus propias instrucciones de IA para las tareas rutinarias de la gestión de ausencias. Algunos ejemplos son las propuestas concretas de suplencia, los avisos sobre solapamientos o los textos de respuesta ya redactados para sus empleados.'
+        text: "Con los Custom Prompts define sus propias instrucciones de IA para las tareas rutinarias de la gestión de ausencias. Algunos ejemplos son las propuestas concretas de suplencia o los textos de respuesta ya redactados para sus empleados. Los solapamientos en el equipo se los muestra la vista de calendario."
         icon: wand-magic-sparkles
       - headline: 'Informes con un solo clic'
-        text: 'Genere informes de estado sobre las solicitudes aprobadas, pendientes y rechazadas por equipo, departamento o periodo directamente desde su gestión de vacaciones. La IA prepara las tendencias, de modo que los informes para dirección y RR. HH. se crean en pocos clics.'
+        text: "Genere informes de estado sobre las solicitudes aprobadas, pendientes y rechazadas por equipo, departamento o periodo directamente desde su gestión de vacaciones. En el chat de IA (SeaTable Cloud y Dedicated) puede además hacer preguntas sobre estos datos, por ejemplo, qué equipo tendrá más ausencias el próximo mes."
         icon: arrow-right
         
         
@@ -159,29 +160,31 @@ sections:
        - bg-gray-100
       title: 'Gestión de vacaciones para cada organización'
       subtitle: 'Transparencia en tiempo real'
-      description: 'SeaTable es una moderna base de datos de IA no-code que incluye automatizaciones y App Builder, y ofrece todas las funciones necesarias para una gestión de vacaciones profesional. El foco está en la trazabilidad, el trabajo en equipo y la adaptación flexible a sus procesos, siempre con los máximos estándares de seguridad para los datos de personal más sensibles.'
+      description: "SeaTable es una moderna base de datos de IA no-code que incluye automatizaciones y App Builder, y ofrece las funciones necesarias para una gestión de vacaciones profesional. El foco está en la trazabilidad, el trabajo en equipo y la adaptación flexible a sus procesos."
       box-position: [right!]
       items:
       - headline: Alojamiento conforme al RGPD
-        text: 'Si utiliza SeaTable Cloud o la IA integrada, todos los datos permanecen en Europa: la infraestructura se opera exclusivamente en servidores ubicados en Alemania, conforme a los requisitos europeos de protección de datos.'
+        text: "SeaTable Cloud y el modelo de IA de las automatizaciones de IA funcionan en centros de datos de Exoscale en Fráncfort y Múnich. Puede formalizar en línea el contrato de encargo del tratamiento."
       - headline: Acceso seguro con 2FA y SSO
-        text: 'SeaTable admite los métodos de autenticación habituales, como la autenticación de dos factores y el inicio de sesión único, de modo que usted controla con precisión quién puede acceder a los datos de su personal.'
+        text: "Cada usuario puede activar la autenticación de dos factores; el inicio de sesión único está disponible en la suscripción Enterprise. Así controla quién puede acceder a los datos de su personal."
 
     - name: "faq"
       weight: 20
       title: 'Preguntas frecuentes sobre la gestión de vacaciones'
       subtitle: 
       items:
-      - q: "¿Puedo usar esta plantilla como software completo para la gestión de vacaciones de mi empresa?"
-        a: 'Sí, puede utilizar esta plantilla como solución completa para su empresa. Solo necesita una cuenta gratuita de SeaTable y podrá empezar de inmediato a gestionar las solicitudes de vacaciones de forma digital y a coordinar las ausencias de sus equipos.'
+      - q: "¿Cómo puede el personal solicitar vacaciones mediante un formulario y que la persona responsable del equipo las apruebe, sin que tengamos que comprar un software de RR. HH. completo?"
+        a: 'Para ello basta con un formulario, una lista y una notificación: muchas empresas utilizan Microsoft Forms con Power Automate, Google Forms o una base de datos flexible como SeaTable. Con esta plantilla, el personal presenta la solicitud mediante un formulario web, la persona responsable del equipo recibe un aviso a través de una regla de notificación y cambia el estado a aprobado o rechazado, y las vacaciones restantes se recalculan automáticamente. En nuestra guía sobre [planificación de vacaciones]({{< relref "posts/20250324-urlaubsplanung" >}}) puede leer cómo tener en cuenta la normativa legal sobre vacaciones.'
+      - q: "¿Puedo usar esta plantilla como software para la gestión de vacaciones de mi empresa?"
+        a: "Sí, para muchos equipos pequeños y medianos la plantilla es suficiente. Solo necesita una cuenta gratuita de SeaTable (con SeaTable Free para hasta 25 miembros del equipo) y podrá empezar de inmediato. Reglas como el trabajo a tiempo parcial, el traspaso de las vacaciones restantes o los días festivos por región las configura usted mismo mediante columnas y fórmulas; no incluye una conexión con la nómina. Si necesita todo esto ya preparado y mantenido, una suite de RR. HH. es la mejor opción."
       - q: "¿Cómo me ayuda la base de datos a gestionar solicitudes y calcular las vacaciones restantes?"
         a: 'Cuando gestiona solicitudes de vacaciones, la plantilla vincula cada solicitud automáticamente con el saldo de vacaciones del empleado correspondiente. Las columnas de fórmula calculan el derecho a vacaciones restante en tiempo real en cuanto se aprueba una solicitud, sin cálculos manuales.'
       - q: "¿Puedo definir permisos distintos para empleados y responsables en la gestión de ausencias?"
-        a: 'Sí, en la gestión de ausencias establece permisos granulares. A través de vistas individuales, cada empleado ve únicamente sus propias solicitudes de vacaciones, mientras que los responsables y el departamento de RR. HH. pueden consultarlas, editarlas y aprobarlas.'
+        a: "Sí, en la gestión de ausencias establece permisos granulares. En una app, mediante un filtro predefinido por el usuario actual, cada empleado ve únicamente sus propias solicitudes de vacaciones, mientras que, por ejemplo, los responsables y el departamento de RR. HH. pueden consultarlas, editarlas y aprobarlas."
       - q: "¿El uso de SeaTable para la gestión de vacaciones cumple la normativa de protección de datos (RGPD)?"
-        a: 'Sí, SeaTable Cloud y la IA integrada se operan exclusivamente en servidores ubicados en Alemania, por lo que todos los datos de su gestión de vacaciones permanecen en Europa. Así cumple de forma fiable el RGPD, incluso con datos de personal sensibles.'
+        a: 'SeaTable Cloud almacena y procesa sus datos en centros de datos de Fráncfort y Múnich, donde también funciona el modelo de IA de las automatizaciones de IA. Puede formalizar en línea el contrato de encargo del tratamiento. Como alternativa, puede operar SeaTable en sus propios servidores. Encontrará más información sobre protección de datos y permisos en nuestra página [Procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "¿Cómo puedo adaptar la plantilla si mi empresa tiene reglas propias de permisos o suplencias?"
-        a: 'Puede añadir en cualquier momento columnas, tipos de vacaciones, vistas y automatizaciones adicionales. Así adapta la plantilla con flexibilidad a los permisos especiales, los modelos de turnos o las reglas de suplencia de su empresa, sin programar nada.'
+        a: 'Puede añadir en cualquier momento columnas, tipos de vacaciones, vistas y automatizaciones adicionales. Así adapta la plantilla con flexibilidad a los permisos especiales, los modelos de turnos o las reglas de suplencia de su empresa, sin programar nada. Complementos adecuados son el [Registro de la jornada laboral]({{< relref "templates/human-resources/recording-working-time" >}}) y la plantilla [Gestionar bajas por enfermedad]({{< relref "templates/human-resources/sick-leave-management" >}}).'
       
 
 ---

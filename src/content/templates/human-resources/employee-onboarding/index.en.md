@@ -2,22 +2,22 @@
 title: 'Employee Onboarding'
 description: 'Use our onboarding template for structured checklists and a clear overview when integrating new hires into your company.'
 date: '2024-08-24'
-lastmod: '2026-02-26'
+lastmod: '2026-11-27'
 url: '/template/employee-onboarding-plan-template'
 aliases:
     - '/template/employee-onboarding'
 category: 'human-resources'
 functions:
 seo:
-    title: 'Employee onboarding plan template for new hires'
-    description: 'Optimise onboarding: Use the onboarding plan template for clear checklists and a smooth start for your new team members.'
+    title: "Onboarding plan template: digital onboarding checklist"
+    description: "Digital onboarding checklist in which IT, team leads and HR tick off their tasks: free onboarding plan template for SeaTable."
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Your digital onboarding plan template for new employees'
-      text: 'Inspire new employees from day one with our customized onboarding plan template! Plan your onboarding concept in a structured and efficient way. Use the onboarding checklist to bundle tasks and clearly assign responsibilities. Keep track of deadlines and progress at all times and benefit from flexible customization to suit your needs. Get started now and take your onboarding to a new level!'
+      text: "Your digital onboarding checklist in which IT, team leads and HR tick off their own tasks: with the SeaTable onboarding plan template, you generate all tasks from your standard activities for each new hire at the push of a button—with owners, due dates and status. You can see at any time what has been completed and where things are stuck, and you can adapt the template to roles, locations and your onboarding concept."
       classes:
           - bg-white
       template: '89db2f0bd28d41f19c01'
@@ -74,13 +74,13 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Use the onboarding plan template online with SeaTable'
       subtitle: 'Your advantages at a glance'
-      description: 'The AI no-code platform impresses with its flexibility and adaptability. With the induction plan template, you can digitally map your entire onboarding process—from preparation before the first day of work to integration into everyday work—keep track of tasks and responsibilities, and create a common basis for structured [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) throughout the entire company.'
+      description: 'The AI no-code platform impresses with its flexibility and adaptability. With the onboarding plan template, you can digitally map your onboarding process—from preparation before the first day of work to integration into everyday work—keep track of tasks and responsibilities, and create a common basis for structured [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) throughout the entire company.'
       items:
       - text: 'Always up to date: Thanks to comments, change history, and real-time updates, your onboarding plan is always up to date—from the initial onboarding plan template to ongoing adjustments for different roles.'
       - text: 'Access from anywhere: With an online onboarding plan template, HR, managers, and new employees have access to the onboarding plan, to-do lists, and documents at any time—whether in the office, working from home, or on the go.'
       - text: 'Transparency in onboarding: Link tasks, onboarding checklists, and team members in an onboarding plan template—this allows you to see which tasks have been completed, where support is needed, and how far along the onboarding process is.'
       - text: 'Scalable: Your onboarding plan template grows with your requirements—regardless of how many new employees, locations, or job profiles you are onboarding at the same time.'
-      - text: 'Automated & integrated: Use SeaTable as a central database for HR processes that flexibly adapts to your onboarding concept and seamlessly complements other applications such as email, DMS, or collaboration tools.'
+      - text: "Automated & integrated: Use SeaTable as a central database for your onboarding workflows—even alongside existing HR or payroll software—and complement other applications such as email, DMS, or collaboration tools."
       image_position: [left]
       image: '/images/template_page_einarbeitungsplan_01.png'
       image_alt: 'SeaTable training plan template with onboarding checklist for new employees'
@@ -103,7 +103,7 @@ sections:
         image: '/images/template_page_einarbeitungsplan_04.png'
         image_alt: 'Table with team members, start dates, and linked training plans'
       - headline: 'My Onboarding for New Employees'
-        text: 'Use a filtered view of "My Onboarding" to show new employees only their own tasks and appointments. This turns the onboarding plan template into a personal to-do list for each employee, ensuring that expectations, content, and the timing of the onboarding process are clear at all times.'
+        text: 'Use a filtered view of "My Onboarding" to show new employees only their own tasks and appointments—in an app, a preset filter on the current user ensures that everyone sees only their own entries. This turns the onboarding plan template into a personal to-do list for each employee, ensuring that expectations, content, and the timing of the onboarding process are clear at all times.'
         image: '/images/template_page_einarbeitungsplan_05.png'
         image_alt: 'View with personal onboarding checklist for a new employee'
             
@@ -145,10 +145,10 @@ sections:
         text: 'Summarize automatically summarizes feedback discussions, notes from the first few weeks, or longer comment threads in just a few sentences. Together with your onboarding plan template, this gives you a quick overview of the status of new employee onboarding and allows you to identify early on where additional support is needed.'
         icon: circle-info
       - headline: 'Tailor-made automation with Custom Prompt'
-        text: 'With custom prompts, you can define your own AI instructions that support typical routine tasks in onboarding—such as reminders for feedback appointments, suggestions for suitable training modules, or automatically generated welcome texts. This turns your onboarding plan template into an active assistant in your daily HR work.'
+        text: "With Custom Prompts, you can define your own AI instructions that support typical routine tasks in onboarding—such as suggestions for suitable training modules or automatically generated welcome texts. Reminders for feedback appointments are handled by notification rules. This turns your onboarding plan template into an active assistant in your daily HR work."
         icon: wand-magic-sparkles
       - headline: 'Status and HR overviews at the touch of a button'
-        text: 'Generate structured overviews of onboarding status, open tasks, and completed onboarding processes by department, location, or time period directly from your onboarding plan template. AI recognizes patterns and anomalies, allowing you to prepare HR reports, presentations, and audits with just a few clicks and make fact-based decisions.'
+        text: "Generate structured overviews of onboarding status, open tasks, and completed onboarding processes by department, location, or time period directly from your onboarding plan template. In the AI chat (SeaTable Cloud and Dedicated), you can ask questions about this data, such as which onboarding processes have overdue tasks."
         icon: arrow-right
         
         
@@ -159,21 +159,23 @@ sections:
        - bg-gray-100
       title: 'Onboarding plan template for your company'
       subtitle: 'Structure, clarity, and employee retention'
-      description: 'SeaTable is a modern AI no-code platform with automation and app builder, offering all the features you need for a professional onboarding plan template. The focus is on traceability, teamwork, and flexible customization with the highest security standards—from the initial onboarding plan template to a scalable onboarding concept across multiple locations.'
+      description: "SeaTable is a modern AI no-code platform with automation and App Builder, offering the features you need for a professional onboarding plan template. The focus is on traceability, teamwork, and flexible customization—from the initial onboarding plan template to a scalable onboarding concept across multiple locations."
       box-position: [right!]
       items:
       - headline: GDPR compliant
-        text: 'When you use SeaTable Cloud or the integrated AI, all data remains in Europe—the infrastructure is operated exclusively on servers in Germany.'
+        text: "SeaTable Cloud and the AI model for the AI automations run in Exoscale data centers in Frankfurt and Munich. You can conclude the data processing agreement (DPA) online."
       - headline: 2FA and SSO
-        text: 'SeaTable supports common authentication techniques such as two-factor authentication and single sign-on, allowing you to control who can access your onboarding plans and HR data.'
+        text: "Every user can enable two-factor authentication; single sign-on is available with the Enterprise subscription. This allows you to control who can access your onboarding plans and HR data."
 
     - name: "faq"
       weight: 20
       title: "FAQs about SeaTable's onboarding plan template"
       subtitle: 
       items:
+      - q: "Which tool can we use to create a digital onboarding checklist in which IT, team leads and HR tick off their tasks?"
+        a: 'There are three ways to do this: task tools such as Asana or Microsoft Planner, the onboarding module of an HR suite such as Personio, or a flexible database such as SeaTable. SeaTable is a good fit if the checklist differs by role or location, tasks should be created automatically from standard activities, and you want to link employees, devices and training—even alongside existing HR software. With the onboarding plan template, you can get started right away; read our guide to find out what a good [onboarding process]({{< relref "posts/20250324-onboarding-prozess" >}}) looks like.'
       - q: "Can I use SeaTable's onboarding plan template for free?"
-        a: 'You can use the onboarding plan template free of charge in SeaTable Cloud. All you need is a free account, and you can immediately begin to map out the onboarding and training of new employees in a structured manner.'
+        a: "You can use the onboarding plan template free of charge in SeaTable Cloud—with SeaTable Free for up to 25 team members. All you need is a free account, and you can immediately begin to map out the onboarding and training of new employees in a structured manner."
       - q: "How does the onboarding plan template differ from a simple onboarding checklist?"
         a: 'A simple onboarding checklist usually only lists tasks in list form. The onboarding plan template in SeaTable links tasks, standard activities, and employees, offers views such as "My Onboarding," and aggregates status information—turning a checklist into a transparent, evaluable onboarding plan.'
       - q: "Can I import existing training plans into SeaTable?"
@@ -181,11 +183,11 @@ sections:
       - q: "Does the onboarding plan template support different roles and locations?"
         a: 'Yes, you can define separate onboarding packages for different roles, locations, or contract models and store them in the onboarding plan template. For new employees, simply select the appropriate package and generate a customized onboarding plan in seconds.'
       - q: "Can I link the onboarding plan template to other HR processes?"
-        a: 'Yes, you can combine the onboarding plan template with other templates and workflows—for example, for applicant management, time tracking, or learning content. This creates an integrated environment for your digital HR processes.'
+        a: 'Yes, you can combine the onboarding plan template with other templates and workflows—for example, with [Recruiting]({{< relref "templates/human-resources/hr-recruiting" >}}), the [employee directory]({{< relref "templates/human-resources/employee-directory" >}}), or [vacation management]({{< relref "templates/human-resources/holiday-request-management" >}}). This creates an environment for your digital [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "How many users can work with the training plan template at the same time?"
         a: 'Multiple users can work on the same base simultaneously, entering and updating tasks. Permissions allow you to control who can read, comment, or edit—ideal for HR, managers, buddies, and new employees.'
       - q: "Can I create my own fields and workflows in the onboarding plan template?"
         a: 'Yes, you can add additional columns, tables, views, and automations at any time. This allows you to flexibly adapt each onboarding plan template to your onboarding concept, HR processes, and reporting requirements.'
       - q: "Is SeaTable a good alternative to traditional project management tools like Asana for onboarding processes?"
-        a: 'Yes, SeaTable is a very good, cost-effective [alternative to Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) and similar tools. Unlike rigid boards, the onboarding plan template, onboarding plan templates, and other HR templates combine flexible database logic with views such as calendars, timelines, and app front ends—ideal for modern, digital onboarding of new employees.'
+        a: 'Yes, SeaTable is a cost-effective [alternative to Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) and similar tools. Unlike pure task lists, the onboarding plan template, onboarding plan templates, and other HR templates combine flexible database logic with views such as calendars, timelines, and app front ends—ideal for modern, digital onboarding of new employees.'
 ---

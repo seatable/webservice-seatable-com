@@ -2,22 +2,22 @@
 title: 'Onboarding des collaborateurs'
 description: 'Structurez l’intégration des nouveaux employés grâce à nos checklists et un modèle d’onboarding pratique et efficace.'
 date: '2024-08-24'
-lastmod: '2026-02-26'
+lastmod: '2026-11-27'
 url: '/fr/modele/modele-plan-onboarding-collaborateurs'
 aliases:
     - /fr/modele/employee-onboarding/
 category: 'human-resources'
 functions:
 seo:
-    title: 'Modèle de plan d’onboarding pour nouveaux collaborateurs'
-    description: 'Optimisez l’onboarding : modèle de plan d’intégration avec checklists structurées pour un démarrage réussi des nouvelles recrues.'
+    title: "Modèle de plan d'onboarding : checklist d'onboarding numérique"
+    description: "Checklist d'onboarding numérique dans laquelle l'IT, les responsables d'équipe et les RH cochent leurs tâches : modèle de plan d'intégration gratuit pour SeaTable."
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: "SeaTable – Votre modèle numérique de plan d'intégration pour les nouveaux collaborateurs"
-      text: "Motivez vos nouveaux collaborateurs dès leur premier jour grâce à notre modèle de plan d'intégration sur mesure. Planifiez votre concept d'intégration de manière structurée et efficace. Utilisez la liste de contrôle d'intégration pour regrouper les tâches et attribuer clairement les responsabilités. Gardez toujours un œil sur les délais et les progrès et profitez d'une adaptation flexible à vos besoins. Commencez dès maintenant et faites passer votre intégration à un niveau supérieur."
+      text: "Votre checklist d'onboarding numérique, dans laquelle l'IT, les responsables d'équipe et les RH cochent directement leurs tâches : avec le modèle de plan d'intégration de SeaTable, vous générez en un clic, pour chaque nouvelle personne, toutes les tâches à partir de vos activités standard, avec responsables, échéances et statut. Vous voyez à tout moment ce qui est terminé et où cela bloque, et vous adaptez le modèle aux rôles, aux sites et à votre concept d'intégration."
       classes:
           - bg-white
       template: '89db2f0bd28d41f19c01'
@@ -74,13 +74,13 @@ sections:
         - [bg-gray-200, bg-seatable-blue]
       title: 'Modèle de plan de formation à utiliser en ligne avec SeaTable'
       subtitle: 'Vos avantages en bref'
-      description: 'La plateforme IA no-code séduit par sa flexibilité et son adaptabilité. Grâce au modèle de plan d intégration, vous pouvez représenter numériquement l ensemble du processus d intégration, de la préparation avant le premier jour de travail à l intégration dans le quotidien professionnel, garder un œil sur les tâches et les responsabilités et créer une base commune pour des [processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) structurés dans l ensemble de l entreprise.'
+      description: 'La plateforme IA no-code séduit par sa flexibilité et son adaptabilité. Grâce au modèle de plan d''intégration, vous pouvez représenter numériquement votre processus d''intégration, de la préparation avant le premier jour de travail à l''intégration dans le quotidien professionnel, garder un œil sur les tâches et les responsabilités et créer une base commune pour des [processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) structurés dans l''ensemble de l''entreprise.'
       items:
       - text: "Toujours à jour : grâce aux commentaires, à l'historique des modifications et aux mises à jour en temps réel, votre plan d'intégration reste toujours à jour, depuis le premier modèle de plan d'intégration jusqu'aux ajustements continus pour différents rôles."
       - text: "Accès depuis n'importe où : grâce à un modèle de plan d'intégration en ligne, les RH, les cadres et les nouveaux employés ont accès à tout moment au plan d'intégration, aux tâches à accomplir et aux documents, que ce soit au bureau, en télétravail ou en déplacement."
       - text: "Transparence dans l'intégration : regroupez les tâches, la liste de contrôle d'intégration et les membres de l'équipe dans un modèle de plan d'intégration. Vous pourrez ainsi voir quelles tâches ont été accomplies, où une assistance est nécessaire et où en est le processus d'intégration."
       - text: "Évolutif : votre modèle de plan d'intégration s'adapte à vos besoins, quel que soit le nombre de nouveaux collaborateurs, de sites ou de profils de poste que vous intégrez simultanément."
-      - text: "Automatisé et intégré : utilisez SeaTable comme base de données centrale pour les processus RH. Elle s'adapte de manière flexible à votre concept d'intégration et complète parfaitement d'autres applications telles que la messagerie électronique, les systèmes de gestion documentaire ou les outils de collaboration."
+      - text: "Automatisé et intégré : utilisez SeaTable comme base de données centrale pour vos processus d'onboarding, y compris en complément d'un logiciel RH ou de paie existant, et complétez d'autres applications telles que la messagerie électronique, les systèmes de gestion documentaire ou les outils de collaboration."
       image_position: [left]
       image: '/images/template_page_einarbeitungsplan_01.png'
       image_alt: "Modèle de plan de formation SeaTable avec liste de contrôle d'intégration pour les nouveaux employés"
@@ -103,7 +103,7 @@ sections:
         image: '/images/template_page_einarbeitungsplan_04.png'
         image_alt: "Tableau présentant les membres de l'équipe, les dates de début et les plans de formation associés"
       - headline: 'Mon intégration pour les nouveaux collaborateurs'
-        text: "Utilisez une vue filtrée « Mon intégration » pour afficher uniquement les tâches et les rendez-vous des nouveaux collaborateurs. Le modèle de plan d'intégration devient ainsi une liste de tâches personnalisée pour chaque collaborateur, garantissant que les attentes, le contenu et le calendrier de l'intégration sont clairs à tout moment."
+        text: "Utilisez une vue filtrée « My Onboarding » pour afficher aux nouveaux collaborateurs uniquement leurs propres tâches et rendez-vous ; dans une app, un filtre prédéfini sur l'utilisateur actuel garantit que chacun ne voit que ses propres entrées. Le modèle de plan d'intégration devient ainsi une liste de tâches personnalisée pour chaque collaborateur, garantissant que les attentes, le contenu et le calendrier de l'intégration sont clairs à tout moment."
         image: '/images/template_page_einarbeitungsplan_05.png'
         image_alt: "Vue avec liste de contrôle d'intégration personnalisée pour un nouvel employé"
             
@@ -145,10 +145,10 @@ sections:
         text: "Summarize résume automatiquement en quelques phrases les entretiens de feedback, les notes prises au cours des premières semaines ou les longs fils de commentaires. Associé à votre modèle de plan d'intégration, vous obtenez ainsi rapidement une vue d'ensemble de l'état d'avancement de l'intégration des nouveaux collaborateurs et identifiez rapidement les domaines dans lesquels un soutien supplémentaire est nécessaire."
         icon: circle-info
       - headline: 'Automatisation sur mesure avec Custom Prompt'
-        text: "Les invites personnalisées vous permettent de définir vos propres instructions d'IA qui facilitent les tâches routinières typiques de l'intégration, telles que les rappels pour les rendez-vous de feedback, les suggestions de modules de formation adaptés ou les textes de bienvenue générés automatiquement. Votre modèle de plan d'intégration devient ainsi un assistant actif dans le quotidien des ressources humaines."
+        text: "Les Custom Prompts vous permettent de définir vos propres instructions d'IA qui facilitent les tâches routinières typiques de l'intégration, telles que les suggestions de modules de formation adaptés ou les textes de bienvenue générés automatiquement. Les rappels pour les rendez-vous de feedback sont pris en charge par des règles de notification. Votre modèle de plan d'intégration devient ainsi un assistant actif dans le quotidien des ressources humaines."
         icon: wand-magic-sparkles
       - headline: 'Aperçus du statut et des ressources humaines accessibles en un clic'
-        text: "Générez des aperçus structurés sur le statut d'intégration, les tâches en cours et les intégrations terminées par service, site ou période directement à partir de votre modèle de plan d'intégration. L'IA identifie les modèles et les anomalies, vous permettant de préparer des rapports RH, des présentations et des audits en quelques clics et de prendre des décisions fondées sur des faits."
+        text: "Générez des aperçus structurés sur le statut d'intégration, les tâches en cours et les intégrations terminées par service, site ou période directement à partir de votre modèle de plan d'intégration. Dans le chat IA (SeaTable Cloud et Dedicated), vous posez des questions sur ces données, par exemple quelles intégrations comportent des tâches en retard."
         icon: arrow-right
         
         
@@ -159,21 +159,23 @@ sections:
        - bg-gray-100
       title: "Modèle de plan d'intégration pour votre entreprise"
       subtitle: 'Structure, clarté et fidélisation des collaborateurs'
-      description: "SeaTable est une plateforme IA no-code moderne, dotée de fonctionnalités d'automatisation et d'un générateur d'applications, qui offre toutes les fonctionnalités nécessaires à la création d'un modèle de plan d'intégration professionnel. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité, tout en garantissant les normes de sécurité les plus élevées, du premier modèle de plan d'intégration à la conception d'un programme d'intégration évolutif sur plusieurs sites."
+      description: "SeaTable est une plateforme IA no-code moderne, dotée de fonctionnalités d'automatisation et d'un App Builder, qui offre les fonctionnalités nécessaires à la création d'un modèle de plan d'intégration professionnel. Elle met l'accent sur la traçabilité, le travail d'équipe et la flexibilité, du premier modèle de plan d'intégration à la conception d'un programme d'intégration évolutif sur plusieurs sites."
       box-position: [right!]
       items:
       - headline: Conforme au RGPD
-        text: "Si vous utilisez SeaTable Cloud ou l'IA intégrée, toutes les données restent en Europe – l'infrastructure est exclusivement exploitée sur des serveurs situés en Allemagne."
+        text: "SeaTable Cloud et le modèle d'IA des automatisations IA fonctionnent dans des centres de données d'Exoscale à Francfort et Munich. Vous concluez l'accord de sous-traitance (DPA) en ligne."
       - headline: 2FA et SSO
-        text: "SeaTable prend en charge les techniques d'authentification courantes telles que l'authentification à deux facteurs et l'authentification unique, vous permettant ainsi de contrôler qui a accès à vos plans de formation et à vos données RH."
+        text: "Chaque utilisateur peut activer l'authentification à deux facteurs ; l'authentification unique (SSO) est disponible avec l'abonnement Enterprise. Vous contrôlez ainsi qui a accès à vos plans d'intégration et à vos données RH."
 
     - name: "faq"
       weight: 20
       title: 'Questions fréquentes concernant le modèle de plan de formation de SeaTable'
       subtitle: 
       items:
+      - q: "Avec quel outil créer une checklist d'onboarding numérique dans laquelle l'IT, les responsables d'équipe et les RH cochent leurs tâches ?"
+        a: 'Il existe trois options : des outils de gestion des tâches comme Asana ou Microsoft Planner, le module d''onboarding d''une suite RH comme Personio, ou une base de données flexible comme SeaTable. SeaTable convient lorsque la checklist varie selon le rôle ou le site, que les tâches doivent être générées automatiquement à partir d''activités standard et que vous souhaitez relier collaborateurs, équipements et formations, y compris en complément d''un logiciel RH existant. Avec le modèle de plan d''intégration, vous démarrez directement ; découvrez dans notre guide à quoi ressemble un bon [processus d''onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}).'
       - q: "Puis-je utiliser gratuitement le modèle de plan de formation de SeaTable ?"
-        a: "Vous pouvez utiliser gratuitement le modèle de plan d'intégration dans SeaTable Cloud. Il vous suffit de créer un compte gratuit pour commencer immédiatement à structurer l'intégration et la formation des nouveaux collaborateurs."
+        a: "Vous pouvez utiliser gratuitement le modèle de plan d'intégration dans SeaTable Cloud, avec SeaTable Free pour jusqu'à 25 membres d'équipe. Il vous suffit de créer un compte gratuit pour commencer immédiatement à structurer l'intégration et la formation des nouveaux collaborateurs."
       - q: "En quoi le modèle de plan d'intégration diffère-t-il d'une simple liste de contrôle d'intégration ?"
         a: "Une simple liste de contrôle d'intégration ne fait généralement que répertorier les tâches sous forme de liste. Le modèle de plan d'intégration dans SeaTable relie les tâches, les activités standard et les employés, offre des vues telles que « Mon intégration » et agrège les informations de statut, transformant ainsi une simple liste de contrôle en un plan d'intégration transparent et évaluable."
       - q: "Est-il possible d'importer des plans de formation existants dans SeaTable ?"
@@ -181,11 +183,11 @@ sections:
       - q: "Le modèle de plan d'intégration prend-il en charge différents rôles et sites ?"
         a: "Oui, vous pouvez définir des programmes d'intégration distincts pour différents rôles, sites ou modèles de contrat et les enregistrer dans le modèle de plan d'intégration. Pour les nouveaux collaborateurs, il vous suffit de sélectionner le programme approprié et de générer un plan d'intégration personnalisé en quelques secondes."
       - q: "Puis-je associer le modèle de plan d'intégration à d'autres processus RH ?"
-        a: "Oui, vous pouvez combiner le modèle de plan d'intégration avec d'autres modèles et workflows, par exemple pour la gestion des candidatures, la saisie des temps ou les contenus d'apprentissage. Vous créez ainsi un environnement intégré pour vos processus RH numériques."
+        a: 'Oui, vous pouvez combiner le modèle de plan d''intégration avec d''autres modèles et workflows, par exemple avec le [recrutement]({{< relref "templates/human-resources/hr-recruiting" >}}), l''[annuaire des collaborateurs]({{< relref "templates/human-resources/employee-directory" >}}) ou la [gestion des congés]({{< relref "templates/human-resources/holiday-request-management" >}}). Vous créez ainsi un environnement pour vos [processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) numériques.'
       - q: "Combien d'utilisateurs peuvent travailler simultanément avec le modèle de plan de formation ?"
         a: 'Plusieurs utilisateurs peuvent travailler simultanément sur la même base, saisir et mettre à jour des tâches. Grâce aux autorisations, vous pouvez contrôler qui est autorisé à lire, commenter ou modifier, ce qui est idéal pour les RH, les cadres, les collègues et les nouveaux employés.'
       - q: "Puis-je créer mes propres champs et workflows dans le modèle de plan de formation ?"
         a: "Oui, vous pouvez à tout moment ajouter des colonnes, des tableaux, des vues et des automatisations supplémentaires. Vous pouvez ainsi adapter chaque modèle de plan d'intégration de manière flexible à votre concept d'intégration, à vos processus RH et à vos exigences en matière de reporting."
       - q: "SeaTable peut-il être utilisé comme alternative aux outils classiques de gestion de projet tels qu'Asana pour les processus d'intégration ?"
-        a: 'Oui, SeaTable est une excellente [alternative à Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}), à un coût raisonnable et d autres outils similaires. Contrairement aux tableaux rigides, les modèles de plan d intégration, les modèles de plan d accueil et d autres modèles RH vous permettent de combiner une logique de base de données flexible avec des vues telles que des calendriers, des chronologies et des interfaces d application, ce qui est idéal pour l intégration moderne et numérique des nouveaux employés.'
+        a: 'Oui, SeaTable est une [alternative à Asana]({{< relref "pages/landing-pages/alternatives/asana-alternative" >}}) à un coût raisonnable, ainsi qu''à d''autres outils similaires. Contrairement aux simples listes de tâches, les modèles de plan d''intégration, les modèles de plan d''accueil et d''autres modèles RH vous permettent de combiner une logique de base de données flexible avec des vues telles que des calendriers, des chronologies et des interfaces d''application, ce qui est idéal pour l''intégration moderne et numérique des nouveaux employés.'
 ---

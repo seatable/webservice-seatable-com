@@ -2,6 +2,7 @@
 title: 'Urlaubsanträge verwalten'
 description: 'Verwalten Sie Urlaubsanträge digital: Anträge per Formular erfassen, Überschneidungen prüfen und Genehmigungen automatisiert abwickeln.'
 date: '2024-08-24'
+lastmod: '2026-11-27'
 url: '/de/vorlage/urlaubsverwaltung'
 aliases:
     - '/de/vorlage/holiday-request-management'
@@ -10,14 +11,14 @@ category: 'human-resources'
 functions:
 seo:
     title: 'Digitale Urlaubsverwaltung | Kostenlose Vorlage | SeaTable'
-    description: 'Mit der digitalen Urlaubsverwaltung verwalten Sie Urlaubsanträge, Resturlaub & Abwesenheiten zentral. Jetzt SeaTable-Vorlage nutzen!'
+    description: 'Urlaub per Formular beantragen, von der Teamleitung genehmigen lassen und Resturlaub automatisch berechnen – ohne komplette HR-Software. Kostenlose SeaTable-Vorlage.'
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Ihre professionelle Urlaubsverwaltung'
-      text: 'Verabschieden Sie sich von Papierformularen und unübersichtlichen Excellisten! Mit dieser Vorlage für die Urlaubsverwaltung behalten Sie Urlaubsanträge, Resturlaub und Abwesenheiten stets im Blick – alles an einem Ort. Genießen Sie die Vorteile der Individualisierbarkeit, Skalierbarkeit und Zusammenarbeit. Nutzen Sie Funktionen wie Kalenderansicht, Kanban und KI-Unterstützung, um Ihre moderne Urlaubsverwaltung im Unternehmen effizient zu gestalten!'
+      text: 'Mitarbeitende beantragen Urlaub per Webformular, die Teamleitung wird automatisch benachrichtigt und genehmigt den Antrag – ganz ohne komplette HR-Software. Mit dieser Vorlage für die Urlaubsverwaltung behalten Sie Urlaubsanträge, Resturlaub und Abwesenheiten an einem Ort im Blick: mit Kalenderansicht für Überschneidungen im Team, automatischer Berechnung des Resturlaubs und Ansichten, in denen jeder nur die eigenen Anträge sieht.'
       classes:
           - bg-white
       template: 'a4065ce03d4d4bd5959c'
@@ -40,16 +41,16 @@ sections:
           text: 'Die integrierte Kalenderansicht zeigt alle geplanten Abwesenheiten auf einen Blick. So erkennen Führungskräfte Überschneidungen frühzeitig, vermeiden Personalengpässe und planen die Vertretungsregelung vorausschauend für jede Abteilung.'
         - icon: 'edit'
           headline: 'Automatische Berechnung'
-          text: 'Formelbasierte Verknüpfungen berechnen den Resturlaub der Mitarbeiter automatisch bei jeder Genehmigung neu. Manuelle Nachrechnungen entfallen vollständig, und der aktuelle Urlaubsanspruch ist jederzeit fehlerfrei nachvollziehbar.'
+          text: 'Formelbasierte Verknüpfungen berechnen den Resturlaub der Mitarbeiter automatisch bei jeder Genehmigung neu. Manuelle Nachrechnungen entfallen, und der aktuelle Urlaubsanspruch ist jederzeit nachvollziehbar.'
         - icon: 'lock'
           headline: 'Rollenbasierte Zugriffe'
-          text: 'Individuell einstellbare Berechtigungen steuern, wer Anträge stellen, genehmigen oder nur einsehen darf. Mitarbeiter sehen ausschließlich ihre eigenen Daten, während die Personalabteilung stets den vollen Überblick über alle Anträge behält.' 
+          text: 'Individuell einstellbare Berechtigungen steuern, wer Anträge stellen, genehmigen oder nur einsehen darf. In einer App sorgt ein voreingestellter Filter dafür, dass Mitarbeiter nur ihre eigenen Anträge sehen, während die Personalabteilung den vollen Überblick behält.' 
         - icon: 'pencil'
           headline: 'Digitales Web-Formular'
           text: 'Über ein einfaches Web-Formular stellen Mitarbeiter ihren Urlaubsantrag von unterwegs, im Homeoffice oder direkt am Arbeitsplatz. Alle Angaben landen automatisch strukturiert in der zentralen Vorlage, ganz ohne Papier oder E-Mail.'
         - icon: 'bell'
           headline: 'Automatische Hinweise'
-          text: 'Sobald ein neuer Antrag eingeht oder sich dessen Status ändert, informiert die Vorlage automatisch alle Beteiligten. Das verkürzt Reaktionszeiten und ersetzt lästiges Nachfragen per Telefon oder E-Mail vollständig.' 
+          text: 'Sobald ein neuer Antrag eingeht oder sich dessen Status ändert, informiert die Vorlage automatisch alle Beteiligten. Das verkürzt Reaktionszeiten und erspart Nachfragen per Telefon oder E-Mail.' 
 
     - name: "customer-1"
       weight: 4
@@ -145,10 +146,10 @@ sections:
         text: 'Summarize fasst lange Kommentare oder umfangreiche Antragsverläufe automatisch in wenigen Sätzen zusammen. Dadurch erfassen Führungskräfte den Kern eines Urlaubsantrags schneller, ohne jeden Verlauf vollständig lesen zu müssen.'
         icon: circle-info
       - headline: 'Automatisierung per Prompt'
-        text: 'Mit Custom Prompts definieren Sie eigene KI-Anweisungen, die typische Routineaufgaben im Abwesenheitsmanagement unterstützen. Beispiele sind Vorschläge zur Vertretungsregelung, Hinweise auf Terminüberschneidungen oder automatisch formulierte Antworttexte für Mitarbeiter.'
+        text: 'Mit Custom Prompts definieren Sie eigene KI-Anweisungen, die typische Routineaufgaben im Abwesenheitsmanagement unterstützen. Beispiele sind Vorschläge zur Vertretungsregelung oder automatisch formulierte Antworttexte für Mitarbeiter. Überschneidungen im Team zeigt Ihnen die Kalenderansicht.'
         icon: wand-magic-sparkles
       - headline: 'Berichte auf Knopfdruck'
-        text: 'Sie erzeugen Statusberichte über genehmigte, offene und abgelehnte Urlaubsanträge pro Team, Abteilung oder Zeitraum direkt aus Ihrer Urlaubsverwaltung. Die KI bereitet Trends und Auffälligkeiten auf, sodass Reports für Geschäftsführung und HR mit wenigen Klicks entstehen.'
+        text: 'Sie erzeugen Statusberichte über genehmigte, offene und abgelehnte Urlaubsanträge pro Team, Abteilung oder Zeitraum direkt aus Ihrer Urlaubsverwaltung. Im KI-Chat (SeaTable Cloud und Dedicated) stellen Sie zusätzlich Fragen zu diesen Daten, etwa welches Team im nächsten Monat die meisten Abwesenheiten hat.'
         icon: arrow-right
         
         
@@ -159,29 +160,31 @@ sections:
        - bg-gray-100
       title: 'Urlaubsverwaltung für jede Organisation'
       subtitle: 'Transparenz und Zusammenarbeit in Echtzeit'
-      description: 'SeaTable ist eine moderne KI No-Code Datenbanklösung mit Automatisierungen und App Builder und bietet alle Funktionen, die Sie für eine professionelle Urlaubsverwaltung benötigen. Im Fokus stehen Nachvollziehbarkeit, Teamwork und flexible Anpassung bei höchsten Sicherheitsstandards.'
+      description: 'SeaTable ist eine moderne KI No-Code Datenbanklösung mit Automatisierungen und App Builder und bietet die Funktionen, die Sie für eine professionelle Urlaubsverwaltung benötigen. Im Fokus stehen Nachvollziehbarkeit, Teamwork und flexible Anpassung.'
       box-position: [right!]
       items:
       - headline: DSGVO-konform
-        text: 'Wenn Sie SeaTable Cloud oder die integrierte KI nutzen, bleiben alle Daten in Europa – die Infrastruktur wird ausschließlich auf Servern in Deutschland betrieben.'
+        text: 'SeaTable Cloud und das KI-Modell der KI-Automationen laufen in Rechenzentren von Exoscale in Frankfurt und München. Den Vertrag zur Auftragsverarbeitung schließen Sie online ab.'
       - headline: 2FA und SSO
-        text: 'SeaTable unterstützt gängige Authentifizierungstechniken wie Zwei-Faktor-Authentifizierung und Single Sign-on, sodass Sie kontrollieren, wer auf Ihre Personaldaten zugreifen darf.'
+        text: 'Jeder Nutzer kann die Zwei-Faktor-Authentifizierung aktivieren, Single Sign-on gibt es im Enterprise-Abo. So kontrollieren Sie, wer auf Ihre Personaldaten zugreifen darf.'
 
     - name: "faq"
       weight: 20
       title: 'FAQs zur Urlaubsverwaltung von SeaTable'
       subtitle: 
       items:
-      - q: "Kann ich diese Vorlage als vollwertige Software für die Urlaubsverwaltung im Unternehmen nutzen?"
-        a: 'Ja, Sie können diese Vorlage als vollständige Lösung für Ihr Unternehmen einsetzen. Sie benötigen lediglich einen kostenlosen SeaTable-Account und können sofort loslegen, Urlaubsanträge digital zu verwalten und Abwesenheiten zu koordinieren.'
+      - q: "Wie können Mitarbeitende Urlaub per Formular beantragen und die Teamleitung genehmigt ihn, ohne dass wir eine komplette HR-Software kaufen?"
+        a: 'Dafür reichen Formular, Liste und Benachrichtigung: Viele Unternehmen nutzen Microsoft Forms mit Power Automate, Google Forms oder eine flexible Datenbank wie SeaTable. Mit dieser Vorlage stellen Mitarbeitende den Antrag per Webformular, die Teamleitung wird per Benachrichtigungsregel informiert und setzt den Status auf genehmigt oder abgelehnt, und der Resturlaub wird automatisch neu berechnet. Wie Sie dabei das Bundesurlaubsgesetz beachten, lesen Sie in unserem Ratgeber zur [Urlaubsplanung]({{< relref "posts/20250324-urlaubsplanung" >}}).'
+      - q: "Kann ich diese Vorlage als Software für die Urlaubsverwaltung im Unternehmen nutzen?"
+        a: 'Ja, für viele kleine und mittlere Teams reicht die Vorlage aus. Sie benötigen lediglich einen kostenlosen SeaTable-Account – mit SeaTable Free für bis zu 25 Teammitglieder – und können sofort loslegen. Regeln wie Teilzeit, Übertrag von Resturlaub oder Feiertage nach Bundesland bilden Sie selbst über Spalten und Formeln ab; eine Anbindung an die Lohnabrechnung ist nicht eingebaut. Wenn Sie das alles fertig gepflegt brauchen, ist eine HR-Suite die bessere Wahl.'
       - q: "Wie hilft mir die Datenbank, wenn ich Urlaubsanträge verwalten und Resturlaubstage automatisch berechnen lassen möchte?"
         a: 'Wenn Sie Urlaubsanträge verwalten, verknüpft die Vorlage jeden Antrag automatisch mit dem Resturlaubskonto des jeweiligen Mitarbeiters. Formelspalten berechnen den verbleibenden Urlaubsanspruch in Echtzeit, sobald ein Antrag genehmigt wird – manuelle Nachrechnungen entfallen vollständig.'
       - q: "Kann ich im Abwesenheitsmanagement unterschiedliche Zugriffsrechte für Mitarbeiter und Führungskräfte einrichten?"
-        a: 'Ja, im Abwesenheitsmanagement legen Sie granulare Berechtigungen fest. Mitarbeiter sehen über individuelle Ansichten nur ihre eigenen Urlaubsanträge, während z. B. Führungskräfte und die Personalabteilung Anträge einsehen, bearbeiten und genehmigen können.'
+        a: 'Ja, im Abwesenheitsmanagement legen Sie granulare Berechtigungen fest. Mitarbeiter sehen in einer App über einen voreingestellten Filter auf den aktuellen Benutzer nur ihre eigenen Urlaubsanträge, während z. B. Führungskräfte und die Personalabteilung Anträge einsehen, bearbeiten und genehmigen können.'
       - q: "Ist die Nutzung von SeaTable für die Urlaubsverwaltung datenschutzkonform (DSGVO)?"
-        a: 'Ja, SeaTable Cloud und die integrierte KI werden ausschließlich auf Servern in Deutschland betrieben, sodass alle Daten Ihrer Urlaubsverwaltung in Europa bleiben. Damit erfüllen Sie auch bei sensiblen Personaldaten die Anforderungen der DSGVO zuverlässig.'
+        a: 'SeaTable Cloud speichert und verarbeitet Ihre Daten in Rechenzentren in Frankfurt und München, auch das KI-Modell der KI-Automationen läuft dort. Den Vertrag zur Auftragsverarbeitung schließen Sie online ab. Alternativ betreiben Sie SeaTable auf eigenen Servern. Mehr zu Datenschutz und Berechtigungen auf unserer Seite [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Wie kann ich die Vorlage anpassen, wenn unser Unternehmen spezielle Sonderurlaubs- oder Vertretungsregeln hat?"
-        a: 'Sie können jederzeit zusätzliche Spalten, Urlaubsarten, Ansichten und Automatisierungen ergänzen. So passen Sie die Vorlage flexibel an unternehmensspezifische Sonderurlaubsregeln, Schichtmodelle oder Vertretungsregelungen an, ohne programmieren zu müssen.'
+        a: 'Sie können jederzeit zusätzliche Spalten, Urlaubsarten, Ansichten und Automatisierungen ergänzen. So passen Sie die Vorlage flexibel an unternehmensspezifische Sonderurlaubsregeln, Schichtmodelle oder Vertretungsregelungen an, ohne programmieren zu müssen. Passende Ergänzungen sind die [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}) und die Vorlage [Krankenstände verwalten]({{< relref "templates/human-resources/sick-leave-management" >}}).'
       
 
 ---

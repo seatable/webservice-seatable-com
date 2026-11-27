@@ -5,7 +5,7 @@ seo:
     title: 'Personio Alternative: flexibel, kosteneffizient, DSGVO-konform'
     description: 'Entdecken Sie die flexible, kosteneffiziente und DSGVO-konforme Personio Alternative: Prozesse, Apps und KI-Automationen mit SeaTable.'
 date: '2026-02-26'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/de/personio-alternative'
 
 sections:
@@ -123,7 +123,7 @@ sections:
       subtitle: Funktionen und Anwendungen
       items:
       - headline: "Bewerbermanagement mit KI"
-        text: Beim Recruiting können Sie viel Zeit verlieren. Nutzen Sie künstliche Intelligenz, um Lebensläufe per OCR auszulesen und zusammenzufassen, Bewerbungen zu klassifizieren oder E-Mails an Kandidaten vorzuformulieren.
+        text: Beim Recruiting können Sie viel Zeit verlieren. Nutzen Sie künstliche Intelligenz, um Angaben aus Lebensläufen per Extract auszulesen, Bewerbungsschreiben zusammenzufassen, Bewerbungen zu klassifizieren oder E-Mails an Kandidaten vorzuformulieren.
         image: /images/Landing-Page_HR_Bewerbermanagement.png
         image_alt: 'SeaTable Ansicht für KI-automatisiertes Bewerbermanagement im Recruiting'
 
@@ -166,7 +166,7 @@ sections:
       items:
       - title: "KI-Automationen für Routineaufgaben"
         subtitle: "Nutzen Sie künstliche Intelligenz"
-        text: 'Mithilfe der [KI-Automationen von SeaTable]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) können Sie lästige und eintönige Routineaufgaben reduzieren und große Datenmengen beherrschbar machen. Beispielsweise können Sie **Texte zusammenfassen** (z. B. Bewerbungsschreiben, E-Mails) oder **Informationen aus Dokumenten extrahieren** lassen (z. B. aus Lebensläufen, die zuvor per OCR ausgelesen wurden). Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich stattdessen auf Ihr strategisches Personalmanagement.' 
+        text: 'Mithilfe der [KI-Automationen von SeaTable]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) können Sie lästige und eintönige Routineaufgaben reduzieren und große Datenmengen beherrschbar machen. Beispielsweise können Sie **Texte zusammenfassen** (z. B. Bewerbungsschreiben, E-Mails) oder **Informationen aus Dokumenten extrahieren** lassen (z. B. aus Lebensläufen als PDF). Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich stattdessen auf Ihr strategisches Personalmanagement.' 
       - title: "Mitarbeiter-Apps einfach selbst bauen"
         subtitle: "Nutzen Sie den No-Code App-Builder"
         text: 'Mithilfe von Apps können Sie Ihren Mitarbeitenden effizient Dokumente für den **Employee Self-Service** bereitstellen (ESS-Portal), wobei jeder nur die eigenen Daten sieht, oder sie systematisch Daten (z. B. Arbeitszeiten, Urlaubsanträge, Krankmeldungen) erfassen lassen. Erstellen Sie mit dem App-Builder von SeaTable **intuitive Nutzererlebnisse** – ohne jegliche Programmierkenntnisse.'
@@ -213,5 +213,5 @@ sections:
             a: "SeaTable legt großen Wert auf Datensicherheit und Datenschutz. Sie haben die Wahl: SeaTable Cloud speichert Ihre Daten in Rechenzentren in Frankfurt und München, den Vertrag zur Auftragsverarbeitung schließen Sie online ab. Oder Sie installieren SeaTable Server auf Ihren eigenen Servern und behalten die volle Kontrolle über Ihre Daten. Mit Zugriffsberechtigungen, Zwei-Faktor-Authentifizierung und Single Sign-on (Enterprise) schützen Sie Ihre Daten zusätzlich."
           
           - q: "Welche Vorteile bieten die KI-Funktionen von SeaTable für das HR-Management?"
-            a: "Mithilfe der KI-Automationen von SeaTable können Sie vor allem Ihre operative Personalarbeit reduzieren. Beispielsweise können Sie Texte (z. B. Bewerbungsschreiben, E-Mails) zusammenfassen oder formulieren lassen oder Informationen aus Dokumenten (z. B. Lebensläufen, nach dem Auslesen per OCR) extrahieren. Zudem können Sie viele repetitive Aufgaben automatisieren, die eintönig sind und unnötigen Aufwand bedeuten, und sich stattdessen auf strategisches HR-Management konzentrieren. In SeaTable Cloud nutzen die KI-Automationen ein KI-Modell in deutschen Rechenzentren."
+            a: "Mithilfe der KI-Automationen von SeaTable können Sie vor allem Ihre operative Personalarbeit reduzieren. Beispielsweise können Sie Texte (z. B. Bewerbungsschreiben, E-Mails) zusammenfassen oder formulieren lassen oder Informationen aus Dokumenten (z. B. aus Lebensläufen als PDF) extrahieren. Zudem können Sie viele repetitive Aufgaben automatisieren, die eintönig sind und unnötigen Aufwand bedeuten, und sich stattdessen auf strategisches HR-Management konzentrieren. In SeaTable Cloud nutzen die KI-Automationen ein KI-Modell in deutschen Rechenzentren."
 ---
