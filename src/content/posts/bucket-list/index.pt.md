@@ -176,7 +176,7 @@ Fazer o bem é um objetivo que não só enriquece a vida dos que nos rodeiam.
 - Fazer uma aula de dança juntos
 - Mudança para um apartamento partilhado
 - [Casar]({{< relref "templates/everyday-life/wedding-planner" >}}) na praia
-- [Obter crianças]({{< relref "templates/everyday-life/party-planer" >}})
+- [Obter crianças]({{< relref "templates/everyday-life/party-planner" >}})
 
 ![Lista de desejos: Um casal ao pôr do sol.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 
