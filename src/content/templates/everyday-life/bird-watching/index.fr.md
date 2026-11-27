@@ -121,7 +121,7 @@ sections:
       title: "Votre modèle d'application oiseaux"
       subtitle: 
       items:
-      - text: SeaTable ne fournit pas seulement la base de données en arrière-plan, il vous offre aussi, avec l'[application no-code]({{< relref "posts/20250318-app-erstellen" >}}), une interface claire pour votre application oiseaux personnelle. Via la fonction d'application intégrée, vous accédez facilement à votre liste d'espèces, votre journal d'observations, la vue galerie et les vues cartographiques. Vous pouvez ainsi identifier les oiseaux locaux, afficher directement les photos d'oiseaux locaux et gérer toute votre documentation photo sur tous vos appareils.
+      - text: SeaTable ne fournit pas seulement la base de données en arrière-plan, il vous offre aussi, avec l'[application no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), une interface claire pour votre application oiseaux personnelle. Via la fonction d'application intégrée, vous accédez facilement à votre liste d'espèces, votre journal d'observations, la vue galerie et les vues cartographiques. Vous pouvez ainsi identifier les oiseaux locaux, afficher directement les photos d'oiseaux locaux et gérer toute votre documentation photo sur tous vos appareils.
       image: '/images/template_page_birdwatching_06.png'
       image_alt: "Application oiseaux avec tableaux de bord entièrement personnalisables pour vos observations"      
 

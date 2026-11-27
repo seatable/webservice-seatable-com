@@ -121,7 +121,7 @@ sections:
         image: /images/landing-page-operations-04.png
         image_alt: 'SeaTable Kommunikations-Tools für transparente Zusammenarbeit und Task Management'
       - headline: Operations-Frontend
-        text: 'Mit dem [No-Code App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) von SeaTable erstellen Sie mit wenigen Klicks Ihr **individuelles Operations- und Prozessmanagement-Frontend.**'
+        text: 'Mit dem [No-Code App-Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) von SeaTable erstellen Sie mit wenigen Klicks Ihr **individuelles Operations- und Prozessmanagement-Frontend.**'
         image: /images/landing-page-operations-05.png
         image_alt: 'SeaTable No-Code App Builder für individualisierte Operations-Frontend und Prozessmanagement'
 

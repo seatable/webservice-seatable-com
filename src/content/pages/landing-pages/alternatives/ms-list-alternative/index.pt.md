@@ -143,7 +143,7 @@ sections:
       title: FAQ – SeaTable como alternativa ao Microsoft Lists
       items:
           - q: 'Quais funções o SeaTable oferece?'
-            a: 'O SeaTable oferece diversas funções para [gestão de dados]({{< relref "posts/20250317-datenmanagement" >}}) em tempo real: automações, fluxos de IA, [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) e dashboards. Disponível em nuvem ou On-Premises.'
+            a: 'O SeaTable oferece diversas funções para [gestão de dados]({{< relref "posts/20250317-datenmanagement" >}}) em tempo real: automações, fluxos de IA, [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) e dashboards. Disponível em nuvem ou On-Premises.'
           - q: 'O SeaTable é realmente gratuito?'
             a: 'Sim, você pode usar o Plano Free por tempo ilimitado. Para funções avançadas e mais créditos de IA, oferecemos versões Premium acessíveis.'
           - q: 'O SeaTable oferece suporte gratuito?'

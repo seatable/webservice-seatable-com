@@ -100,7 +100,7 @@ sections:
       title: 'Your app as a front-end for a soccer sticker exchange platform'
       subtitle: 
       items:
-      - text: 'SeaTable not only provides the database in the background, but also—with the [No-Code App]({{< relref "posts/20250318-app-erstellen" >}})—**a user-friendly front end for everyone involved**. Through the integrated app feature, each user receives their own personal overview page with duplicate stickers and a wish list, as well as an overview of all potential trading partners along with their offers and requests. An overview of all users, a form for quickly adding new entries, and a **pre-filled Panini FIFA World Cup 2026 sticker catalog** round out the app.'
+      - text: 'SeaTable not only provides the database in the background, but also—with the [No-Code App]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}})—**a user-friendly front end for everyone involved**. Through the integrated app feature, each user receives their own personal overview page with duplicate stickers and a wish list, as well as an overview of all potential trading partners along with their offers and requests. An overview of all users, a form for quickly adding new entries, and a **pre-filled Panini FIFA World Cup 2026 sticker catalog** round out the app.'
       image: '/images/template_page_panini_06.png'
       image_alt: 'Panini Trading Card App with Customizable Dashboards'      
 

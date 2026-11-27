@@ -116,7 +116,7 @@ sections:
       title: 'O seu modelo como app de limpeza'
       subtitle: 
       items:
-      - text: 'O SeaTable não fornece apenas a base de dados em segundo plano, mas também, com a [app no-code]({{< relref "posts/20250318-app-erstellen" >}}), um front end claro para a sua casa. Através da função de app integrada acede comodamente à lista de tarefas, aos responsáveis, ao calendário e ao estado de execução. Em combinação com um [livro do orçamento]({{< relref "templates/everyday-life/budget-book" >}}) mantém sob controlo não só as tarefas, mas também as despesas com produtos de limpeza. Pode assim utilizar este modelo de plano de limpeza como app de limpeza flexível em todos os dispositivos e planear melhor o seu orçamento para produtos de limpeza.'
+      - text: 'O SeaTable não fornece apenas a base de dados em segundo plano, mas também, com a [app no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), um front end claro para a sua casa. Através da função de app integrada acede comodamente à lista de tarefas, aos responsáveis, ao calendário e ao estado de execução. Em combinação com um [livro do orçamento]({{< relref "templates/everyday-life/budget-book" >}}) mantém sob controlo não só as tarefas, mas também as despesas com produtos de limpeza. Pode assim utilizar este modelo de plano de limpeza como app de limpeza flexível em todos os dispositivos e planear melhor o seu orçamento para produtos de limpeza.'
       image: '/images/template_page_putzplan_06.png'
       image_alt: 'App de limpeza com vistas personalizáveis para tarefas, responsáveis e estado de execução em toda a casa'
 

@@ -31,7 +31,7 @@ sections:
             link: help/ai/ai-chat/introduction
           - headline: App Builder IA
             text: 'Créez des pages HTML pour votre application SeaTable en dialoguant avec l''IA, par une description plutôt que par du code.'
-            link: posts/20250318-app-erstellen
+            link: pages/landing-pages/use-cases/no-code-app-builder
           - headline: MCP et agents IA
             text: 'Connectez ChatGPT, Claude, Claude Code ou Cursor à vos bases via le serveur MCP de SeaTable.'
             link: posts/mcp-server
@@ -118,7 +118,7 @@ sections:
       image_alt: 'Créer une page HTML avec l''IA dans l''App Builder de SeaTable'
       buttons:
           - label: En savoir plus sur l'App Builder no-code
-            link: 'posts/20250318-app-erstellen'
+            link: 'pages/landing-pages/use-cases/no-code-app-builder'
 
     - name: content-1
       weight: 7

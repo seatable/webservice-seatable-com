@@ -115,7 +115,7 @@ sections:
       title: 'From citizen portal to digital parking permit'
       subtitle: 
       items:
-      - text: 'With SeaTable''s integrated [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create **user-friendly front ends for your digital citizen portal** with minimal effort. The resident parking permit template already includes a ready-made app for capturing applications and another for checking residential parking permits. You can also **set up flexible dashboards** to analyse parking zones and keep track of open resident parking permit applications. This turns the template into a **central system for recording, issuing and evaluating resident parking permits** across all departments.'
+      - text: 'With SeaTable''s integrated [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), you can create **user-friendly front ends for your digital citizen portal** with minimal effort. The resident parking permit template already includes a ready-made app for capturing applications and another for checking residential parking permits. You can also **set up flexible dashboards** to analyse parking zones and keep track of open resident parking permit applications. This turns the template into a **central system for recording, issuing and evaluating resident parking permits** across all departments.'
       image: '/images/template_page_bewohnerparkausweis_07.png'
       image_alt: 'Parking permit control in the SeaTable app: officers check by number plate whether a valid permit exists'
 

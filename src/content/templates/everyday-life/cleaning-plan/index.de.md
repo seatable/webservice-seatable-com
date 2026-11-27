@@ -116,7 +116,7 @@ sections:
       title: 'Ihre Putzplan-App-Vorlage'
       subtitle: 
       items:
-      - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit der [No-Code App]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihren Haushalt. Über die integrierte App-Funktion greifen Sie bequem auf Aufgabenliste, Zuständigkeiten, Kalender und Erledigungsstatus zu. In Kombination mit einem [Haushaltsbuch]({{< relref "templates/everyday-life/budget-book" >}}) behalten Sie nicht nur Aufgaben, sondern auch Ausgaben für Putzmittel und Haushalt im Blick. So können Sie diese Putzplan-Vorlage als flexible Putzplan-App auf allen Geräten nutzen und gleichzeitig Ihr Budget für Reinigungsprodukte besser planen.'
+      - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit der [No-Code App]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) auch ein übersichtliches Frontend für Ihren Haushalt. Über die integrierte App-Funktion greifen Sie bequem auf Aufgabenliste, Zuständigkeiten, Kalender und Erledigungsstatus zu. In Kombination mit einem [Haushaltsbuch]({{< relref "templates/everyday-life/budget-book" >}}) behalten Sie nicht nur Aufgaben, sondern auch Ausgaben für Putzmittel und Haushalt im Blick. So können Sie diese Putzplan-Vorlage als flexible Putzplan-App auf allen Geräten nutzen und gleichzeitig Ihr Budget für Reinigungsprodukte besser planen.'
       image: '/images/template_page_putzplan_06.png'
       image_alt: 'Putzplan-App mit individuell anpassbaren Ansichten'
 

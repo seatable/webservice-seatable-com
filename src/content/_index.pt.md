@@ -116,7 +116,7 @@ sections:
   - curved
   items:
   - headline: "Construtor de Apps No-Code Conveniente"
-    text: 'Crie aplicações poderosas baseadas em dados de forma intuitiva via drag-and-drop. O [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}) permite consolidar soluções de CRM ou gestão empresarial sem escrever uma única linha de código.'
+    text: 'Crie aplicações poderosas baseadas em dados de forma intuitiva via drag-and-drop. O [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) permite consolidar soluções de CRM ou gestão empresarial sem escrever uma única linha de código.'
 
   - headline: "Interface Intuitiva No-Code e Low-Code"
     text: 'Seja você um desenvolvedor experiente ou um [citizen developer]({{< relref "posts/20250317-citizen-developer" >}}), nossas ferramentas atendem a todas as necessidades de digitalização de processos. Comece gratuitamente.'

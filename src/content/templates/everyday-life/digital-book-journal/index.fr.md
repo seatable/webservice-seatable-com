@@ -119,7 +119,7 @@ sections:
       title: 'Votre application de lecture sur mesure'
       subtitle: 
       items:
-      - text: 'Avec l’[application no-code]({{< relref "posts/20250318-app-erstellen" >}}) intégrée à SeaTable, vous créez une interface claire et conviviale pour votre journal de lecture numérique. Depuis l’application, vous accédez facilement à votre collection, à votre journal, à vos critiques et à vos citations, sur ordinateur comme sur mobile. Vous combinez ainsi une bibliothèque numérique, un tracker de lecture et un aperçu des auteurs – idéal pour les grands lecteurs, les clubs de lecture et les bookstagrameurs. Le tout sans écrire une seule ligne de code : l’application se construit à partir de vos tables existantes.'
+      - text: 'Avec l’[application no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) intégrée à SeaTable, vous créez une interface claire et conviviale pour votre journal de lecture numérique. Depuis l’application, vous accédez facilement à votre collection, à votre journal, à vos critiques et à vos citations, sur ordinateur comme sur mobile. Vous combinez ainsi une bibliothèque numérique, un tracker de lecture et un aperçu des auteurs – idéal pour les grands lecteurs, les clubs de lecture et les bookstagrameurs. Le tout sans écrire une seule ligne de code : l’application se construit à partir de vos tables existantes.'
       image: '/images/template_page_bookjournal_06.png'
       image_alt: 'Application de journal de lecture personnalisée créée avec l’App Builder no-code de SeaTable et sa vue galerie'      
 

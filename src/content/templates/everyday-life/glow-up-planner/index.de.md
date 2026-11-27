@@ -120,7 +120,7 @@ sections:
        title: 'Ihre Glow-up-App als Self-Improvement-Frontend'
        subtitle:
        items:
-       - text: 'Mit SeaTables integriertem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie ein übersichtliches Frontend für Ihre Glow-up-Journey. Erstellen Sie individuelle Dashboards und greifen Sie bequem auf Ihre Checkliste, Routinen, Fitness-Übersicht, Ernährungsplanung und Habit-Tracking zu. So können Sie neue Einträge erstellen, Checklisten und Habit-Tracker bearbeiten und Improvements visualisieren – von der ersten kleinen Umstellung bis zum langfristigen Glow up.'
+       - text: 'Mit SeaTables integriertem [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) erstellen Sie ein übersichtliches Frontend für Ihre Glow-up-Journey. Erstellen Sie individuelle Dashboards und greifen Sie bequem auf Ihre Checkliste, Routinen, Fitness-Übersicht, Ernährungsplanung und Habit-Tracking zu. So können Sie neue Einträge erstellen, Checklisten und Habit-Tracker bearbeiten und Improvements visualisieren – von der ersten kleinen Umstellung bis zum langfristigen Glow up.'
        image: '/images/template_page_glow-up-planner_06.png'
        image_alt: 'Glow-up-Planer-App mit individuell anpassbaren Selfcare-Dashboards'
 

@@ -100,7 +100,7 @@ sections:
       title: 'Ihre Fußballkarten-Tauschbörse-App'
       subtitle: 
       items:
-      - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit der [No-Code App]({{< relref "posts/20250318-app-erstellen" >}}) auch **ein übersichtliches Frontend für alle Beteiligten**. Über die integrierte App-Funktion erhält jeder Nutzer seine persönliche Übersichtsseite mit doppelten Stickern und Wunschliste sowie einer Übersicht aller möglichen Tauschpartner mit ihren Angeboten und Suchen. Eine Übersicht aller User, ein Formular zur schnellen Erfassung neuer Einträge und ein **vorausgefüllter Panini FIFA World Cup 2026 Sticker-Katalog** runden die App ab.'
+      - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit der [No-Code App]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) auch **ein übersichtliches Frontend für alle Beteiligten**. Über die integrierte App-Funktion erhält jeder Nutzer seine persönliche Übersichtsseite mit doppelten Stickern und Wunschliste sowie einer Übersicht aller möglichen Tauschpartner mit ihren Angeboten und Suchen. Eine Übersicht aller User, ein Formular zur schnellen Erfassung neuer Einträge und ein **vorausgefüllter Panini FIFA World Cup 2026 Sticker-Katalog** runden die App ab.'
       image: '/images/template_page_panini_06.png'
       image_alt: 'Panini-Tauschbörse-App mit individuell anpassbaren Dashboards'      
 

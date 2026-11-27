@@ -120,7 +120,7 @@ sections:
        title: 'Your Wish List Template as an App'
        subtitle:
        items:
-       - text: 'SeaTable not only provides the database in the background, but also a user-friendly front end with as many [no-code apps]({{< relref "posts/20250318-app-erstellen" >}}) as you like. The "Christmas Wishes" app, for sharing within the family, and the "Birthday Wishes" app, for an individual’s wishes, are already integrated. This allows you to conveniently access the gift overview, contact management, form pages, and query views, and see all relevant information in attractive dashboards. This allows you to manage wish lists online, create a wish list, coordinate family wishes, and organize your entire gift-giving plan just as conveniently as you would with a family planner.'
+       - text: 'SeaTable not only provides the database in the background, but also a user-friendly front end with as many [no-code apps]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) as you like. The "Christmas Wishes" app, for sharing within the family, and the "Birthday Wishes" app, for an individual’s wishes, are already integrated. This allows you to conveniently access the gift overview, contact management, form pages, and query views, and see all relevant information in attractive dashboards. This allows you to manage wish lists online, create a wish list, coordinate family wishes, and organize your entire gift-giving plan just as conveniently as you would with a family planner.'
        image: '/images/template_page_wunschzettel_06.png'
        image_alt: 'A separate wish list app for every occasion'
 

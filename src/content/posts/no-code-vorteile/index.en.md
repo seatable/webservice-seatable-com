@@ -77,7 +77,7 @@ Individual [to-do lists]({{< relref "posts/to-do-liste-online" >}}), project boa
 
 ### How can you set up efficient task management with no-code?
 
-No-code solutions like SeaTable offer **integrated AI-powered automations**, an [app builder]({{< relref "posts/20250318-app-erstellen" >}}) and seamless integration of external software. So you can
+No-code solutions like SeaTable offer **integrated AI-powered automations**, an [app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) and seamless integration of external software. So you can
 
 * create a **central task board with different views** for department managers, project managers and employees.  
     

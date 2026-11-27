@@ -115,7 +115,7 @@ sections:
       title: Votre application d'entraînement personnalisée pour tous vos objectifs de course à pied
       subtitle:
       items:
-      - text: Grâce à l'[App Builder]({{< relref "posts/20250318-app-erstellen" >}}) intégré à SeaTable, vous pouvez créer votre propre application d'entraînement personnalisée en quelques clics seulement. Regroupez toutes les informations de votre journal d'entraînement dans un aperçu visuel. Des formulaires de saisie vous permettent d'enregistrer une séance d'entraînement en quelques secondes, tandis qu'un tableau de bord transforme vos données en statistiques – **allure moyenne et fréquence cardiaque, graphique mensuel des allures et graphique ACWR** – indiquées en vert, jaune et rouge – qui vous alertent en cas de charges d'entraînement à risque.
+      - text: Grâce à l'[App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) intégré à SeaTable, vous pouvez créer votre propre application d'entraînement personnalisée en quelques clics seulement. Regroupez toutes les informations de votre journal d'entraînement dans un aperçu visuel. Des formulaires de saisie vous permettent d'enregistrer une séance d'entraînement en quelques secondes, tandis qu'un tableau de bord transforme vos données en statistiques – **allure moyenne et fréquence cardiaque, graphique mensuel des allures et graphique ACWR** – indiquées en vert, jaune et rouge – qui vous alertent en cas de charges d'entraînement à risque.
       image: '/images/template_page_running_plan_06.png'
       image_alt: Tableau de bord du plan de course avec l'allure au fil du temps et l'alerte de risque ACWS
 

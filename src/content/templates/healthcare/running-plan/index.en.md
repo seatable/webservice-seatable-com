@@ -113,7 +113,7 @@ sections:
       title: 'Your personalized training app for every running goal'
       subtitle:
       items:
-      - text: With SeaTable’s built-in [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create your own personalized training app in just a few clicks. Bring all the information from your training log together in a visual overview. Input forms let you log a workout in seconds, while a dashboard transforms your data into statistics – **average pace and heart rate, a monthly pace chart, and an ACWR chart**—marked in green, yellow, and red—that warns you of risky training loads.
+      - text: With SeaTable’s built-in [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), you can create your own personalized training app in just a few clicks. Bring all the information from your training log together in a visual overview. Input forms let you log a workout in seconds, while a dashboard transforms your data into statistics – **average pace and heart rate, a monthly pace chart, and an ACWR chart**—marked in green, yellow, and red—that warns you of risky training loads.
       image: '/images/template_page_running_plan_06.png'
       image_alt: 'Run Plan Dashboard with Pace Over Time and ACWS risk warning'
 

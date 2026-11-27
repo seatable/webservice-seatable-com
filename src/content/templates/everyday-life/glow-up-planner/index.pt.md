@@ -120,7 +120,7 @@ sections:
        title: 'A sua app glow up como frontend de autocuidado'
        subtitle:
        items:
-       - text: 'Com o [criador de apps no-code]({{< relref "posts/20250318-app-erstellen" >}}) integrado da SeaTable cria um frontend claro para o seu percurso glow up. Monte dashboards individuais e aceda comodamente à sua checklist, às suas rotinas, ao seu vision board, à visão geral de fitness, ao planeamento da alimentação e ao acompanhamento de hábitos. Assim pode criar novos registos, editar checklists e rastreadores de hábitos e visualizar melhorias, desde a primeira pequena mudança até ao glow up duradouro. Tudo fica no mesmo sítio, no computador e no telemóvel.'
+       - text: 'Com o [criador de apps no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrado da SeaTable cria um frontend claro para o seu percurso glow up. Monte dashboards individuais e aceda comodamente à sua checklist, às suas rotinas, ao seu vision board, à visão geral de fitness, ao planeamento da alimentação e ao acompanhamento de hábitos. Assim pode criar novos registos, editar checklists e rastreadores de hábitos e visualizar melhorias, desde a primeira pequena mudança até ao glow up duradouro. Tudo fica no mesmo sítio, no computador e no telemóvel.'
        image: '/images/template_page_glow-up-planner_06.png'
        image_alt: 'App do planeador glow up com dashboard: objetivos de fitness, alimentação, skincare, estilo e mindset'
 

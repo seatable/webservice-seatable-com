@@ -100,7 +100,7 @@ sections:
       title: 'A sua aplicação como interface de uma plataforma de trocas'
       subtitle: 
       items:
-      - text: 'O SeaTable não só fornece a base de dados em segundo plano, como também — com a [Aplicação No-Code]({{< relref "posts/20250318-app-erstellen" >}})— **uma interface intuitiva para todos os envolvidos**. Através da funcionalidade de aplicação integrada, cada utilizador recebe a sua própria página de resumo pessoal com autocolantes duplicados e uma lista de desejos, bem como uma visão geral de todos os potenciais parceiros de troca, juntamente com as suas ofertas e pedidos. Uma visão geral de todos os utilizadores, um formulário para adicionar rapidamente novas entradas e um **catálogo de autocolantes Panini da Copa do Mundo da FIFA 2026 pré-preenchido** completam a aplicação.'
+      - text: 'O SeaTable não só fornece a base de dados em segundo plano, como também — com a [Aplicação No-Code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}})— **uma interface intuitiva para todos os envolvidos**. Através da funcionalidade de aplicação integrada, cada utilizador recebe a sua própria página de resumo pessoal com autocolantes duplicados e uma lista de desejos, bem como uma visão geral de todos os potenciais parceiros de troca, juntamente com as suas ofertas e pedidos. Uma visão geral de todos os utilizadores, um formulário para adicionar rapidamente novas entradas e um **catálogo de autocolantes Panini da Copa do Mundo da FIFA 2026 pré-preenchido** completam a aplicação.'
       image: '/images/template_page_panini_06.png'
       image_alt: 'Aplicação de cartões colecionáveis Panini com painéis personalizáveis'      
 

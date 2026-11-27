@@ -120,7 +120,7 @@ sections:
        title: 'Ihre Wunschzettel-Vorlage als App'
        subtitle:
        items:
-       - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit beliebig vielen [No-Code Apps]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend. Die Apps "Christmas Wishes", für die gemeinsame Nutzung in der Familie, und "Birthday Wishes", für die Wünsche einer einzelnen Person, sind bereits integriert. Damit greifen Sie ganz bequem auf die Geschenkeübersicht, Personenverwaltung, Formularseiten und Abfrageansichten zu und sehen alle relevanten Informationen in ansprechenden Dashboards. So können Sie Wunschzettel online verwalten, eine Wunschliste erstellen, Familienwünsche koordinieren und Ihre gesamte Geschenkplanung ähnlich komfortabel organisieren wie mit einem Familienplaner.'
+       - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit beliebig vielen [No-Code Apps]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) auch ein übersichtliches Frontend. Die Apps "Christmas Wishes", für die gemeinsame Nutzung in der Familie, und "Birthday Wishes", für die Wünsche einer einzelnen Person, sind bereits integriert. Damit greifen Sie ganz bequem auf die Geschenkeübersicht, Personenverwaltung, Formularseiten und Abfrageansichten zu und sehen alle relevanten Informationen in ansprechenden Dashboards. So können Sie Wunschzettel online verwalten, eine Wunschliste erstellen, Familienwünsche koordinieren und Ihre gesamte Geschenkplanung ähnlich komfortabel organisieren wie mit einem Familienplaner.'
        image: '/images/template_page_wunschzettel_06.png'
        image_alt: 'Eine separate Wunschzettel App für jeden Anlass'
 

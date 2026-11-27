@@ -113,7 +113,7 @@ sections:
       title: 'Ihre individuelle Trainings-App für jedes Laufziel'
       subtitle:
       items:
-      - text: 'Mit SeaTables integriertem [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie mit wenigen Klicks Ihre persönliche Trainings-App. Bringen Sie alle Informationen aus Ihrem Trainingslogbuch in einer visuellen Ansicht zusammen. Eingabeformulare erfassen eine Einheit in Sekunden, während ein Dashboard Ihre Zahlen in Statistiken verwandelt: **durchschnittliche Pace und Herzfrequenz, ein Pace-Diagramm pro Monat sowie ein ACWR-Diagramm**, grün, gelb und rot markiert, das vor riskanter Trainingsbelastung warnt.'
+      - text: 'Mit SeaTables integriertem [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) erstellen Sie mit wenigen Klicks Ihre persönliche Trainings-App. Bringen Sie alle Informationen aus Ihrem Trainingslogbuch in einer visuellen Ansicht zusammen. Eingabeformulare erfassen eine Einheit in Sekunden, während ein Dashboard Ihre Zahlen in Statistiken verwandelt: **durchschnittliche Pace und Herzfrequenz, ein Pace-Diagramm pro Monat sowie ein ACWR-Diagramm**, grün, gelb und rot markiert, das vor riskanter Trainingsbelastung warnt.'
       image: '/images/template_page_running_plan_06.png'
       image_alt: 'Laufplan-Dashboard mit Pace-over-time und ACWS-Ampel'
 

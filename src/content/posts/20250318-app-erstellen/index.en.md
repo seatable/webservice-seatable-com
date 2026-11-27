@@ -5,6 +5,7 @@ seo:
     title: 'Create an app: No-code solution without programming knowledge'
     description: 'Creating your own apps made easy! Discover simple ways to develop customised apps without programming knowledge'
 date: 2025-03-18
+lastmod: '2026-11-27'
 categories:
     - 'low-code-no-code'
 tags:
@@ -25,7 +26,7 @@ In this article, we'll show you step by step how to create your **own app for fr
 
 ## What a no-code app builder is
 
-The days when you had to program to create your own app are long gone. Modern tools make it possible for even non-experts to create an app in no time at all - without any programming knowledge at all. But how do you create an app without programming? The answer lies in the use of no-code app builders.
+The days when you had to program to create your own app are long gone. Modern tools make it possible for even non-experts to create an app in no time at all - without any programming knowledge at all. But how do you create an app without programming? The answer lies in the use of no-code app builders. To learn what SeaTable's [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) can do and which apps it is suited for, visit our product page; this article walks you through creating an app step by step.
 
 Such app builders offer you the opportunity to program apps - free of charge and without complex hurdles. They simplify your processes and create customized solutions that are precisely **tailored to your needs**. This allows you to quickly implement innovative ideas, increase efficiency and optimize your workflow.
 

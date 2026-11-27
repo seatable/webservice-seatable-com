@@ -160,7 +160,7 @@ sections:
       title: 'L’évolution des symptômes en un coup d’œil : votre app de journal'
       subtitle: 
       items:
-      - text: 'Avec le [constructeur d’applications no-code]({{< relref "posts/20250318-app-erstellen" >}}) intégré de SeaTable, vous créez le front-end de votre journal des allergies. Le tableau de bord affiche l’évolution de vos symptômes et vos troubles les plus fréquents, idéal pour reconnaître des schémas et préparer votre prochain rendez-vous médical. Le calendrier d’allergie au pollen montre les périodes en un coup d’œil, et de nouvelles entrées se créent directement via le formulaire web intégré, sans ouvrir la base.'
+      - text: 'Avec le [constructeur d’applications no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) intégré de SeaTable, vous créez le front-end de votre journal des allergies. Le tableau de bord affiche l’évolution de vos symptômes et vos troubles les plus fréquents, idéal pour reconnaître des schémas et préparer votre prochain rendez-vous médical. Le calendrier d’allergie au pollen montre les périodes en un coup d’œil, et de nouvelles entrées se créent directement via le formulaire web intégré, sans ouvrir la base.'
       image: '/images/template_page_allergy_diary-06.png'
       image_alt: 'Tableau de bord d’analyse personnalisé dans votre app de journal des allergies, avec l’évolution des symptômes.'
 

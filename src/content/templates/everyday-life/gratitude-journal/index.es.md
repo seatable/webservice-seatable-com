@@ -121,7 +121,7 @@ sections:
        title: 'Utilice SeaTable como aplicación para llevar un diario de gratitud'
        subtitle:
        items:
-       - text: 'SeaTable no solo proporciona la base de datos en segundo plano, sino que también —gracias al [creador de aplicaciones no-code]({{< relref "posts/20250318-app-erstellen" >}})— ofrece una interfaz intuitiva para su diario digital de gratitud personal. Gracias a la función de aplicación integrada, podrá acceder fácilmente a la vista de diario, al resumen en tabla, a la galería de fotos, al calendario y a su panel de control personalizado. A continuación le explicamos cómo utilizar SeaTable como aplicación de diario de gratitud: personalice la plantilla de su diario de gratitud según sus necesidades e incorpore su práctica de mindfulness a su rutina diaria en todos sus dispositivos.'
+       - text: 'SeaTable no solo proporciona la base de datos en segundo plano, sino que también —gracias al [creador de aplicaciones no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}})— ofrece una interfaz intuitiva para su diario digital de gratitud personal. Gracias a la función de aplicación integrada, podrá acceder fácilmente a la vista de diario, al resumen en tabla, a la galería de fotos, al calendario y a su panel de control personalizado. A continuación le explicamos cómo utilizar SeaTable como aplicación de diario de gratitud: personalice la plantilla de su diario de gratitud según sus necesidades e incorpore su práctica de mindfulness a su rutina diaria en todos sus dispositivos.'
        image: '/images/template_page_dankbarkeitstagebuch_06.png'
        image_alt: 'Aplicación de diario de gratitud con un panel de control personal'
 

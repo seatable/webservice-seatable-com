@@ -100,7 +100,7 @@ sections:
       title: 'Su aplicación como interfaz de usuario para una plataforma de intercambio de cromos'
       subtitle: 
       items:
-      - text: 'SeaTable no solo proporciona la base de datos en segundo plano, sino que también —gracias a la [aplicación no-code]({{< relref "posts/20250318-app-erstellen" >}})— ofrece **una interfaz fácil de usar para todos los participantes**. A través de la función de aplicación integrada, cada usuario dispone de su propia página de resumen personal con cromos duplicados y una lista de deseos, así como un resumen de todos los posibles socios de intercambio junto con sus ofertas y solicitudes. Un resumen de todos los usuarios, un formulario para añadir rápidamente nuevas entradas y un **catálogo de cromos Panini de la Copa Mundial de la FIFA 2026 ya rellenado** completan la aplicación.'
+      - text: 'SeaTable no solo proporciona la base de datos en segundo plano, sino que también —gracias a la [aplicación no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}})— ofrece **una interfaz fácil de usar para todos los participantes**. A través de la función de aplicación integrada, cada usuario dispone de su propia página de resumen personal con cromos duplicados y una lista de deseos, así como un resumen de todos los posibles socios de intercambio junto con sus ofertas y solicitudes. Un resumen de todos los usuarios, un formulario para añadir rápidamente nuevas entradas y un **catálogo de cromos Panini de la Copa Mundial de la FIFA 2026 ya rellenado** completan la aplicación.'
       image: '/images/template_page_panini_06.png'
       image_alt: 'Aplicación de cromos Panini con paneles personalizables'      
 

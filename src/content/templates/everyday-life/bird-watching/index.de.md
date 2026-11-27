@@ -121,7 +121,7 @@ sections:
       title: 'Ihre Vogelbeobachtungs-App-Vorlage'
       subtitle: 
       items:
-      - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit der [No-Code App]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihre persönliche Vogel App. Über die integrierte App-Funktion greifen Sie bequem auf Artenliste, Sichtungs-Logbuch, Galerie-Ansicht und Kartenansichten zu. So können Sie heimische Vögel bestimmen, Bilder von heimischen Vögeln direkt aufrufen und Ihre komplette Fotodokumentation auf allen Geräten pflegen.'
+      - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit der [No-Code App]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) auch ein übersichtliches Frontend für Ihre persönliche Vogel App. Über die integrierte App-Funktion greifen Sie bequem auf Artenliste, Sichtungs-Logbuch, Galerie-Ansicht und Kartenansichten zu. So können Sie heimische Vögel bestimmen, Bilder von heimischen Vögeln direkt aufrufen und Ihre komplette Fotodokumentation auf allen Geräten pflegen.'
       image: '/images/template_page_birdwatching_06.png'
       image_alt: 'Vogelbeobachtungs-App mit individuell anpassbaren Dashboards'      
 

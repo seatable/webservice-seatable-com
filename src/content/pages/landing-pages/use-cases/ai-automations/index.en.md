@@ -141,7 +141,7 @@ sections:
       title: AI automation and no-code app builders 
       subtitle: Flexible front end for maximum user-friendliness
       items:
-          - text: Use SeaTable's integrated [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}), to enable streamlined data entry for your AI automations. With the app builder, you can create custom forms to capture requests, projects, service tickets, or invoices and write the content to precisely defined fields in your database. This gives you **ideally prepared data for AI extraction, classification, or summarization** with minimal effort.
+          - text: Use SeaTable's integrated [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), to enable streamlined data entry for your AI automations. With the app builder, you can create custom forms to capture requests, projects, service tickets, or invoices and write the content to precisely defined fields in your database. This gives you **ideally prepared data for AI extraction, classification, or summarization** with minimal effort.
       image: /images/landing_page_ki-automatisierung_07.png
       image_position: left
       image_alt: 'SeaTable App Builder for intuitive data entry forms and fast AI processes'     

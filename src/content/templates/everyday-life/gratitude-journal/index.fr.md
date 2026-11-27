@@ -121,7 +121,7 @@ sections:
        title: 'Utilisez SeaTable comme application de journal de gratitude'
        subtitle:
        items:
-       - text: SeaTable fournit non seulement la base de données en arrière-plan, mais aussi — grâce au [générateur d'applications no-code]({{< relref "posts/20250318-app-erstellen" >}}) — une interface conviviale pour votre journal de gratitude numérique personnel. Grâce à la fonctionnalité d’application intégrée, vous pouvez facilement accéder à la vue « journal », à l’aperçu sous forme de tableau, à la galerie de photos, au calendrier et à votre tableau de bord personnalisé. Voici comment utiliser SeaTable comme application de journal de gratitude. Personnalisez votre modèle de journal de gratitude en fonction de vos besoins et intégrez votre pratique de la pleine conscience à votre routine quotidienne sur tous vos appareils.
+       - text: SeaTable fournit non seulement la base de données en arrière-plan, mais aussi — grâce au [générateur d'applications no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) — une interface conviviale pour votre journal de gratitude numérique personnel. Grâce à la fonctionnalité d’application intégrée, vous pouvez facilement accéder à la vue « journal », à l’aperçu sous forme de tableau, à la galerie de photos, au calendrier et à votre tableau de bord personnalisé. Voici comment utiliser SeaTable comme application de journal de gratitude. Personnalisez votre modèle de journal de gratitude en fonction de vos besoins et intégrez votre pratique de la pleine conscience à votre routine quotidienne sur tous vos appareils.
        image: '/images/template_page_dankbarkeitstagebuch_06.png'
        image_alt: 'Application de journal de gratitude avec tableau de bord personnel'
 

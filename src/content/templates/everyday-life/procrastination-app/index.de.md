@@ -147,7 +147,7 @@ sections:
        title: 'SeaTable als Prokrastination App im Alltag einsetzen'
        subtitle:
        items:
-       - text: 'SeaTable liefert nicht nur die No-Code-Datenbank im Hintergrund, sondern mit dem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihre persönliche Prokrastination App. Über die integrierte App-Funktion erstellen Sie für jede Base separate Apps und greifen so bequem auf Kalenderansicht, Fortschrittsbalken, Tabellenübersicht und Dashboard zu. So richten Sie Ihre persönliche Prokrastination App auf Smartphone, Tablet und PC ein und passen Ihre Vorlagen jederzeit an veränderte Bedürfnisse an.'
+       - text: 'SeaTable liefert nicht nur die No-Code-Datenbank im Hintergrund, sondern mit dem [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) auch ein übersichtliches Frontend für Ihre persönliche Prokrastination App. Über die integrierte App-Funktion erstellen Sie für jede Base separate Apps und greifen so bequem auf Kalenderansicht, Fortschrittsbalken, Tabellenübersicht und Dashboard zu. So richten Sie Ihre persönliche Prokrastination App auf Smartphone, Tablet und PC ein und passen Ihre Vorlagen jederzeit an veränderte Bedürfnisse an.'
        image: '/images/template_page_procrastination_05.png'
        image_alt: 'Prokrastination App mit individuellem Dashboard'
 

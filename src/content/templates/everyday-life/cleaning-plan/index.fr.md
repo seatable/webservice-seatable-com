@@ -116,7 +116,7 @@ sections:
       title: 'Votre modèle en application ménage'
       subtitle: 
       items:
-      - text: 'SeaTable ne fournit pas seulement la base de données en arrière-plan, mais aussi, avec l''[application no-code]({{< relref "posts/20250318-app-erstellen" >}}), une interface claire pour votre foyer. Grâce à la fonction d''application intégrée, vous accédez confortablement à la liste des tâches, aux responsables, au calendrier et au statut d''avancement. Combiné à un [livre de ménage]({{< relref "templates/everyday-life/budget-book" >}}), vous gardez le contrôle non seulement des tâches, mais aussi des dépenses en produits ménagers. Vous utilisez ainsi ce modèle de planning ménage comme application flexible sur tous vos appareils et planifiez mieux votre budget ménager.'
+      - text: 'SeaTable ne fournit pas seulement la base de données en arrière-plan, mais aussi, avec l''[application no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), une interface claire pour votre foyer. Grâce à la fonction d''application intégrée, vous accédez confortablement à la liste des tâches, aux responsables, au calendrier et au statut d''avancement. Combiné à un [livre de ménage]({{< relref "templates/everyday-life/budget-book" >}}), vous gardez le contrôle non seulement des tâches, mais aussi des dépenses en produits ménagers. Vous utilisez ainsi ce modèle de planning ménage comme application flexible sur tous vos appareils et planifiez mieux votre budget ménager.'
       image: '/images/template_page_putzplan_06.png'
       image_alt: 'Application ménage avec vues personnalisables pour les tâches, les responsables et le statut d''avancement du foyer'
 

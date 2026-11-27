@@ -193,7 +193,7 @@ The profitability forecast is an indispensable tool for assessing the financial 
 
 You should [create a financial plan]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}) to keep an eye on your company's turnover and costs at all times and to be able to estimate profits or losses. Powerful database software such as [SeaTable]({{< relref "/" >}}) is ideal for this.
 
-In SeaTable you will find all the functions of a **spreadsheet** (e.g. a user-friendly formula editor) combined with the power of a **no-code database** and an intuitive [App Builder]({{< relref "posts/20250318-app-erstellen" >}}). So nothing stands in the way of a clear profitability forecast.
+In SeaTable you will find all the functions of a **spreadsheet** (e.g. a user-friendly formula editor) combined with the power of a **no-code database** and an intuitive [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}). So nothing stands in the way of a clear profitability forecast.
 
 ## Frequently asked questions
 

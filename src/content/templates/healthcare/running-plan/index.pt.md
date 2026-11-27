@@ -115,7 +115,7 @@ sections:
       title: 'A sua aplicação de treino personalizada para todos os objetivos de corrida'
       subtitle:
       items:
-      - text: Com o [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) integrado no SeaTable, pode criar a sua própria aplicação de treino personalizada com apenas alguns cliques. Reúna toda a informação do seu registo de treino numa visão geral visual. Os formulários de introdução de dados permitem-lhe registar um treino em segundos, enquanto um painel de controlo transforma os seus dados em estatísticas — **ritmo médio e frequência cardíaca, um gráfico mensal do ritmo e um gráfico ACWR** — assinalados a verde, amarelo e vermelho — que o alertam para cargas de treino de risco.
+      - text: Com o [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrado no SeaTable, pode criar a sua própria aplicação de treino personalizada com apenas alguns cliques. Reúna toda a informação do seu registo de treino numa visão geral visual. Os formulários de introdução de dados permitem-lhe registar um treino em segundos, enquanto um painel de controlo transforma os seus dados em estatísticas — **ritmo médio e frequência cardíaca, um gráfico mensal do ritmo e um gráfico ACWR** — assinalados a verde, amarelo e vermelho — que o alertam para cargas de treino de risco.
       image: '/images/template_page_running_plan_06.png'
       image_alt: 'Painel do plano de corrida com ritmo ao longo do tempo e aviso de risco ACWS'
 

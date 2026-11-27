@@ -89,7 +89,7 @@ sections:
             image: /images/landing-page-it-04.png
             image_alt: "Journaux des modifications SeaTable pour la gestion des versions et les pistes d'audit dans l'ITSM"
           - headline: Application de gestion des services informatiques
-            text: Avec le [No-Code-App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) de SeaTable, vous pouvez créer des applications web sans aucune connaissance en programmation. Dans une telle application ITSM, vous pouvez contrôler de manière ciblée qui, au sein de votre équipe informatique, peut voir quels tickets, incidents ou demandes de service, et comment ceux-ci sont clairement visualisés.
+            text: Avec le [No-Code-App-Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) de SeaTable, vous pouvez créer des applications web sans aucune connaissance en programmation. Dans une telle application ITSM, vous pouvez contrôler de manière ciblée qui, au sein de votre équipe informatique, peut voir quels tickets, incidents ou demandes de service, et comment ceux-ci sont clairement visualisés.
             image: /images/landing-page-it-05.png
             image_alt: 'Application de gestion de projet SeaTable pour les flux de travail de gestion des services informatiques basés sur le Web'
 

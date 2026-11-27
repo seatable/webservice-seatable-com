@@ -2,7 +2,7 @@
 title: 'Plan de entrenamiento de carrera'
 description: 'Con nuestra plantilla gratuita para un horario flexible, podrá aportar estructura y motivación a su entrenamiento de running directamente en SeaTable.'
 date: '2026-09-22'
-lastmod: '2026-09-22'
+lastmod: '2026-11-27'
 url: '/es/plantilla/plantilla-de-plan-de-entrenamiento-de-carrera'
 aliases:
   - '/plantilla/plantilla-de-plan-de-entrenamiento-de-carrera'
@@ -115,7 +115,7 @@ sections:
       title: 'Su aplicación de entrenamiento personalizada para cualquier objetivo de carrera'
       subtitle:
       items:
-      - text: WCon el [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) integrado en SeaTable, podrá crear su propia aplicación de entrenamiento personalizada con solo unos clics. Reúna toda la información de su diario de entrenamiento en una visión general visual. Los formularios de introducción de datos le permiten registrar una sesión de entrenamiento en cuestión de segundos, mientras que un panel de control transforma sus datos en estadísticas —**ritmo medio y frecuencia cardíaca, un gráfico de ritmo mensual y un gráfico ACWR**—, marcadas en verde, amarillo y rojo, que le avisan de cargas de entrenamiento de riesgo.
+      - text: Con el [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrado en SeaTable, podrá crear su propia aplicación de entrenamiento personalizada con solo unos clics. Reúna toda la información de su diario de entrenamiento en una visión general visual. Los formularios de introducción de datos le permiten registrar una sesión de entrenamiento en cuestión de segundos, mientras que un panel de control transforma sus datos en estadísticas —**ritmo medio y frecuencia cardíaca, un gráfico de ritmo mensual y un gráfico ACWR**—, marcadas en verde, amarillo y rojo, que le avisan de cargas de entrenamiento de riesgo.
       image: '/images/template_page_running_plan_06.png'
       image_alt: 'Panel de control del plan de carrera con el ritmo a lo largo del tiempo y la alerta de riesgo ACWS'
 

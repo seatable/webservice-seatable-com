@@ -77,7 +77,7 @@ Individuelle [To-do-Listen]({{< relref "posts/to-do-liste-online" >}}), Projektb
 
 ### Wie können Sie mit No-Code ein effizientes Task Management aufsetzen?
 
-No-Code-Lösungen wie SeaTable bieten **integrierte KI-unterstützte Automatisierungen**, einen [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) und eine nahtlose Integration von externer Software. So können Sie
+No-Code-Lösungen wie SeaTable bieten **integrierte KI-unterstützte Automatisierungen**, einen [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) und eine nahtlose Integration von externer Software. So können Sie
 
 *   ein **zentrales Task-Board mit unterschiedlichen Ansichten** für Abteilungsleiter, Projektverantwortliche und Mitarbeiter anlegen.  
     

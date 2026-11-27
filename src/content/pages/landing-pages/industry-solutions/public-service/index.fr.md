@@ -104,7 +104,7 @@ sections:
             image_alt: "Options SeaTable pour l'automatisation et l'IA"
 
           - headline: 'Applications conviviales'
-            text: Avec SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), vous pouvez facilement créer des applications conviviales. Les employés s'y familiarisent rapidement, ce qui augmente leur acceptation et rend la numérisation plus efficace. Optimisez vos processus administratifs et répondez **aux exigences modernes d'une administration numérique**.
+            text: Avec SeaTable [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), vous pouvez facilement créer des applications conviviales. Les employés s'y familiarisent rapidement, ce qui augmente leur acceptation et rend la numérisation plus efficace. Optimisez vos processus administratifs et répondez **aux exigences modernes d'une administration numérique**.
             image: /images/landing-page-oeffentlicher-dienst-03.png
             image_alt: 'Application SeaTable Universal pour des applications de gestion conviviales'
 

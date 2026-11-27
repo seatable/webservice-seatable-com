@@ -115,7 +115,7 @@ sections:
       title: 'Vom Bürgerportal bis zum fertigen digitalen Parkausweis'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie mit wenig Aufwand **benutzerfreundliche Frontends für Ihr digitales Bürgerportal**. Die Bewohnerparkausweis-Verwaltung-Vorlage enthält bereits eine vorbereitete App zur Antragserfassung und eine weitere zur Anwohnerparkausweis-Kontrolle. Sie können zusätzlich **flexible Dashboards anlegen**, um Parkzonen auszuwerten und offene Anträge auf einen Bewohnerparkausweis im Blick zu behalten. So machen Sie aus der Vorlage ein **zentrales System für Erfassung, Ausstellung und Auswertung**.'
+      - text: 'Mit SeaTables integriertem [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) erstellen Sie mit wenig Aufwand **benutzerfreundliche Frontends für Ihr digitales Bürgerportal**. Die Bewohnerparkausweis-Verwaltung-Vorlage enthält bereits eine vorbereitete App zur Antragserfassung und eine weitere zur Anwohnerparkausweis-Kontrolle. Sie können zusätzlich **flexible Dashboards anlegen**, um Parkzonen auszuwerten und offene Anträge auf einen Bewohnerparkausweis im Blick zu behalten. So machen Sie aus der Vorlage ein **zentrales System für Erfassung, Ausstellung und Auswertung**.'
       image: '/images/template_page_bewohnerparkausweis_07.png'
       image_alt: 'Parkausweiskontrolle in der SeaTable-App'
 

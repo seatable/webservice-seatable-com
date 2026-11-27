@@ -116,7 +116,7 @@ sections:
       title: 'Su plantilla como app de limpieza'
       subtitle: 
       items:
-      - text: 'SeaTable no solo aporta la base de datos en segundo plano, sino también, con la [app no-code]({{< relref "posts/20250318-app-erstellen" >}}), un front end claro para su hogar. Mediante la función de app integrada accede cómodamente a la lista de tareas, los responsables, el calendario y el estado de ejecución. En combinación con un [libro de presupuesto]({{< relref "templates/everyday-life/budget-book" >}}) no solo controla las tareas, sino también los gastos en productos de limpieza y en el hogar. Así puede utilizar esta plantilla de plan de limpieza como app flexible en todos sus dispositivos y planificar mejor su presupuesto.'
+      - text: 'SeaTable no solo aporta la base de datos en segundo plano, sino también, con la [app no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), un front end claro para su hogar. Mediante la función de app integrada accede cómodamente a la lista de tareas, los responsables, el calendario y el estado de ejecución. En combinación con un [libro de presupuesto]({{< relref "templates/everyday-life/budget-book" >}}) no solo controla las tareas, sino también los gastos en productos de limpieza y en el hogar. Así puede utilizar esta plantilla de plan de limpieza como app flexible en todos sus dispositivos y planificar mejor su presupuesto.'
       image: '/images/template_page_putzplan_06.png'
       image_alt: 'App de limpieza con vistas personalizables para tareas, responsables y estado de ejecución en el hogar'
 

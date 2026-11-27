@@ -119,7 +119,7 @@ sections:
       title: 'Clear front end for your CRM'
       subtitle: 
       items:
-      - text: Easily create your own custom CRM frontend with SeaTable's integrated [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}). Our free CRM program already includes a customizable CRM app. Simply adapt the deal form, contact form, or customer profiles to your requirements. Create a **custom playbook** with the custom page or use the query page to expand your CRM program and knowledge base. The dashboard already contains some ready-made statistics that you can also customize and supplement to **monitor and evaluate your activities**."
+      - text: Easily create your own custom CRM frontend with SeaTable's integrated [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}). Our free CRM program already includes a customizable CRM app. Simply adapt the deal form, contact form, or customer profiles to your requirements. Create a **custom playbook** with the custom page or use the query page to expand your CRM program and knowledge base. The dashboard already contains some ready-made statistics that you can also customize and supplement to **monitor and evaluate your activities**."
       image: '/images/template_page_crm_07.png'
       image_alt: 'CRM app with menu and dashboard.'
 

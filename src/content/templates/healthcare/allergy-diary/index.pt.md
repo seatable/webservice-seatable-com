@@ -160,7 +160,7 @@ sections:
       title: 'Evolução dos sintomas num relance: a sua app de diário'
       subtitle: 
       items:
-      - text: 'Com o [criador de apps no-code]({{< relref "posts/20250318-app-erstellen" >}}) integrado da SeaTable, cria o front-end do seu diário de alergias. O painel mostra a evolução dos seus sintomas e as queixas mais frequentes, ideal para reconhecer padrões e preparar a próxima consulta médica. O calendário de alergia ao pólen mostra os períodos num relance, e novas entradas podem ser criadas diretamente através do formulário web integrado, sem abrir a base.'
+      - text: 'Com o [criador de apps no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrado da SeaTable, cria o front-end do seu diário de alergias. O painel mostra a evolução dos seus sintomas e as queixas mais frequentes, ideal para reconhecer padrões e preparar a próxima consulta médica. O calendário de alergia ao pólen mostra os períodos num relance, e novas entradas podem ser criadas diretamente através do formulário web integrado, sem abrir a base.'
       image: '/images/template_page_allergy_diary-06.png'
       image_alt: 'Painel de análise personalizado na sua app de diário de alergias com a evolução dos sintomas e as queixas.'
 

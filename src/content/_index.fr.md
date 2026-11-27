@@ -115,7 +115,7 @@ sections:
   - curved
   items:
   - headline: "Constructeur convivial d'applications sans code"
-    text: 'SeaTable vous permet de créer rapidement et intuitivement de puissantes applications basées sur les données par simple glisser-déposer, sans aucune connaissance en programmation. Le [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) vous permet de créer des applications CRM, de gestion de projet ou professionnelles personnalisées sans écrire une seule ligne de code.'
+    text: 'SeaTable vous permet de créer rapidement et intuitivement de puissantes applications basées sur les données par simple glisser-déposer, sans aucune connaissance en programmation. Le [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) vous permet de créer des applications CRM, de gestion de projet ou professionnelles personnalisées sans écrire une seule ligne de code.'
 
   - headline: "Interface utilisateur intuitive sans code et low-code"
     text: 'Que vous soyez un développeur expérimenté ou un [développeur citoyen]({{< relref "posts/20250317-citizen-developer" >}}) sans compétences en programmation, nos outils sont conçus pour répondre à tous vos besoins en matière de création d applications et pour numériser vos processus métier. Commencez dès maintenant : créez votre propre application gratuitement.'

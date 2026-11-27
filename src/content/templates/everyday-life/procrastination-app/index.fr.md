@@ -147,7 +147,7 @@ sections:
        title: 'SeaTable, votre application anti-procrastination'
        subtitle:
        items:
-       - text: 'SeaTable ne fournit pas seulement la base de données no-code en arrière-plan, mais aussi, avec le [créateur d''applications no-code]({{< relref "posts/20250318-app-erstellen" >}}), un frontend clair pour votre application anti-procrastination. Grâce à la fonction d''application intégrée, vous créez des applications distinctes pour chaque base et accédez facilement à la vue calendrier, aux barres de progression, à l''aperçu des tables et au dashboard. Vous configurez ainsi votre application sur smartphone, tablette et PC et adaptez vos modèles à tout moment, sans programmer.'
+       - text: 'SeaTable ne fournit pas seulement la base de données no-code en arrière-plan, mais aussi, avec le [créateur d''applications no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), un frontend clair pour votre application anti-procrastination. Grâce à la fonction d''application intégrée, vous créez des applications distinctes pour chaque base et accédez facilement à la vue calendrier, aux barres de progression, à l''aperçu des tables et au dashboard. Vous configurez ainsi votre application sur smartphone, tablette et PC et adaptez vos modèles à tout moment, sans programmer.'
        image: '/images/template_page_procrastination_05.png'
        image_alt: 'Application anti-procrastination créée avec le créateur d''applications no-code de SeaTable, avec dashboard'
 

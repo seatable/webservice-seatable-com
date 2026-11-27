@@ -77,7 +77,7 @@ Les [listes de choses à faire]({{< relref "posts/to-do-liste-online" >}}) indiv
 
 ### Comment mettre en place une gestion des tâches efficace avec no-code ?
 
-Les solutions no-code telles que SeaTable offrent **des automatisations intégrées assistées par l'IA**, un [créateur d'applications]({{< relref "posts/20250318-app-erstellen" >}}) et une intégration transparente des logiciels externes. Ainsi, vous pouvez
+Les solutions no-code telles que SeaTable offrent **des automatisations intégrées assistées par l'IA**, un [créateur d'applications]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) et une intégration transparente des logiciels externes. Ainsi, vous pouvez
 
 * créer un **bureau de tâches centralisé avec différentes vues** pour les chefs de service, les responsables de projet et les employés.  
     

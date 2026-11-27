@@ -5,6 +5,7 @@ seo:
     title: 'Criar uma aplicação: Solução sem código, sem conhecimentos de programação'
     description: 'Criar as suas próprias aplicações de forma fácil! Descubra formas simples de desenvolver aplicações personalizadas sem conhecimentos de programação'
 date: 2025-03-18
+lastmod: '2026-11-27'
 categories:
     - 'best-practice'
     - 'low-code-no-code'
@@ -25,7 +26,7 @@ Neste artigo, vamos mostrar-lhe passo a passo como criar a sua **própria aplica
 
 ## O que é um criador de aplicações sem código
 
-Os dias em que era necessário programar para criar a sua própria aplicação já lá vão. As ferramentas modernas permitem que mesmo os não especialistas criem uma aplicação num instante - sem qualquer conhecimento de programação. Mas como é que se cria uma aplicação sem programação? A resposta está na utilização de criadores de aplicações sem código.
+Os dias em que era necessário programar para criar a sua própria aplicação já lá vão. As ferramentas modernas permitem que mesmo os não especialistas criem uma aplicação num instante - sem qualquer conhecimento de programação. Mas como é que se cria uma aplicação sem programação? A resposta está na utilização de criadores de aplicações sem código. O que o [No-Code App Builder da SeaTable]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) consegue fazer e para que apps é adequado pode ler na nossa página de produto; aqui, explicamos passo a passo como criar uma app.
 
 Estes criadores de aplicações oferecem-lhe a oportunidade de programar aplicações - gratuitamente e sem obstáculos complexos. Simplificam os seus processos e criam soluções personalizadas que são precisamente **adaptadas às suas necessidades**. Isto permite-lhe implementar rapidamente ideias inovadoras, aumentar a eficiência e otimizar o seu fluxo de trabalho.
 

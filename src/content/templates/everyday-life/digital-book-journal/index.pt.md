@@ -119,7 +119,7 @@ sections:
       title: 'A sua app de diário de leitura'
       subtitle: 
       items:
-      - text: 'Com a [app no-code]({{< relref "posts/20250318-app-erstellen" >}}) integrada no SeaTable cria um frontend claro e fácil de utilizar para o seu diário de leitura digital. A partir da app acede comodamente à coleção, ao diário, às críticas e às citações, tanto no computador como no telemóvel. Combina assim uma estante digital com um tracker de leitura e uma visão geral dos autores – ideal para grandes leitores, clubes de leitura e bookstagrammers. E tudo isto sem escrever uma única linha de código: a app é gerada a partir das suas tabelas e ajusta-a sempre que os seus hábitos de leitura mudarem.'
+      - text: 'Com a [app no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrada no SeaTable cria um frontend claro e fácil de utilizar para o seu diário de leitura digital. A partir da app acede comodamente à coleção, ao diário, às críticas e às citações, tanto no computador como no telemóvel. Combina assim uma estante digital com um tracker de leitura e uma visão geral dos autores – ideal para grandes leitores, clubes de leitura e bookstagrammers. E tudo isto sem escrever uma única linha de código: a app é gerada a partir das suas tabelas e ajusta-a sempre que os seus hábitos de leitura mudarem.'
       image: '/images/template_page_bookjournal_06.png'
       image_alt: 'App de diário de leitura personalizada criada com o App Builder no-code do SeaTable e a sua vista de galeria'      
 
