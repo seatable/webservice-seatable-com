@@ -6,6 +6,8 @@ lastmod: '2026-04-27'
 url: '/de/vorlage/veranstaltung-planen-vorlage/'
 aliases:
     - '/de/vorlage/event-management'
+    - '/de/vorlage/gaesteregistrierung'
+    - '/de/vorlage/guest-registration/'
 category: 'ereignisse'
 functions:
 seo:
@@ -106,7 +108,25 @@ sections:
         text: 'Über eigene Tabellen verwalten Sie Teilnehmerliste, Speaker, Aussteller und Dienstleister und verknüpfen sie mit Ihren Events. Anmeldungen über Webformulare landen direkt in der Veranstaltung planen Vorlage, während Sie mit individuellen Ansichten Teilnehmergruppen filtern, Tickets verwalten oder Speaker-Slots koordinieren.'
         image: '/images/template_page_veranstaltung_planen_05.png'
         image_alt: 'Teilnehmer- und Dienstleisterübersicht mit verknüpften Veranstaltungen in SeaTable'
-            
+    
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Zwei Vorlagen für Ihr Eventmanagement'
+      subtitle: 'Veranstaltungsplanung und Gästeregistrierung'
+      text: 'Probieren Sie beide Vorlagen direkt hier aus: die Veranstaltungsplanung für alle organisatorischen Abläufe und die Gästeplanung und die Vorlage Gästeregistrierung für die Erfassung der tatsächlich anwesenden Personen.'
+      items:
+      - headline: 'Eventmanagement'
+        text: 'Planen Sie Location, Teilnehmer, das Programm und die Kosten in einer zentralen Übersicht – inklusive Checkliste und Zeitstrahl-Ansicht.'
+        id: bb4d007014a64a18be06
+        submit: Eventmanagement-Vorlage nutzen
+      - headline: 'Gästeregistrierung'
+        text: 'Erstellen Sie ein Gästeregistrierungsformular mit QR-Code und erfassen Sie alle tatsächlichen Teilnehmer per Webformular.'
+        id: 25c5b08db4184d6dbc3e
+        submit: Gästeregistrierung-Vorlage nutzen
+
     - name: "content-6"
       weight: 12
       classes:
