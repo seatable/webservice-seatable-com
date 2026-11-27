@@ -5,6 +5,7 @@ seo:
     title: 'Portail des crèches & gestion des crèches : défis et solutions'
     description: "De l'attribution des places en crèche au taux d'encadrement : découvrez comment collectivités et gestionnaires surmontent les obstacles administratifs"
 date: 2026-10-27
+lastmod: '2026-11-27'
 url: '/fr/portail-creches-gestion/'
 categories:
     - 'best-practice'
@@ -112,7 +113,7 @@ Une gestion numérique des crèches réunit les informations pertinentes dans un
 
 *   [horaires de travail]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) prévus et disponibilités
 *   qualifications et possibilités d'affectation
-*   absences et [arrêts maladie]({{< relref "templates/human-resources/sick-leave-management" >}})
+*   absences et [arrêts maladie]({{< relref "templates/human-resources/employee-directory" >}})
 *   taille des groupes et horaires d'accueil
 *   exigences minimales applicables en matière de personnel
 

@@ -5,6 +5,7 @@ seo:
     title: 'Daycare Portal & Daycare Management: Challenges and Solutions'
     description: 'From daycare place allocation to staff-to-child ratios: Learn how municipalities and providers overcome administrative hurdles in daycare management'
 date: 2026-10-27
+lastmod: '2026-11-27'
 url: '/daycare-portal-management/'
 categories:
     - 'best-practice'
@@ -112,7 +113,7 @@ Digital daycare management combines the relevant information into a shared overv
 
 *   planned [working hours]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) and availability
 *   qualifications and possible assignments
-*   absences and [sick notes]({{< relref "templates/human-resources/sick-leave-management" >}})
+*   absences and [sick notes]({{< relref "templates/human-resources/employee-directory" >}})
 *   group sizes and care hours
 *   applicable minimum staffing requirements
 

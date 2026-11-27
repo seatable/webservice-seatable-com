@@ -184,7 +184,7 @@ sections:
       - q: "Ist die Nutzung von SeaTable für die Urlaubsverwaltung datenschutzkonform (DSGVO)?"
         a: 'SeaTable Cloud speichert und verarbeitet Ihre Daten in Rechenzentren in Frankfurt und München, auch das KI-Modell der KI-Automationen läuft dort. Den Vertrag zur Auftragsverarbeitung schließen Sie online ab. Alternativ betreiben Sie SeaTable auf eigenen Servern. Mehr zu Datenschutz und Berechtigungen auf unserer Seite [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Wie kann ich die Vorlage anpassen, wenn unser Unternehmen spezielle Sonderurlaubs- oder Vertretungsregeln hat?"
-        a: 'Sie können jederzeit zusätzliche Spalten, Urlaubsarten, Ansichten und Automatisierungen ergänzen. So passen Sie die Vorlage flexibel an unternehmensspezifische Sonderurlaubsregeln, Schichtmodelle oder Vertretungsregelungen an, ohne programmieren zu müssen. Passende Ergänzungen sind die [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}) und die Vorlage [Krankenstände verwalten]({{< relref "templates/human-resources/sick-leave-management" >}}).'
+        a: 'Sie können jederzeit zusätzliche Spalten, Urlaubsarten, Ansichten und Automatisierungen ergänzen. So passen Sie die Vorlage flexibel an unternehmensspezifische Sonderurlaubsregeln, Schichtmodelle oder Vertretungsregelungen an, ohne programmieren zu müssen. Passende Ergänzungen sind die [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}) und die Vorlage [Krankenstände verwalten]({{< relref "templates/human-resources/employee-directory" >}}).'
       
 
 ---

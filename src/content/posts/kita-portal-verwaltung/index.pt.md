@@ -5,6 +5,7 @@ seo:
     title: 'Portal de creches e gestão de creches: desafios e soluções'
     description: 'Da atribuição de vagas ao rácio adulto/criança: saiba como municípios e entidades gestoras superam os obstáculos administrativos na gestão de creches'
 date: 2026-10-27
+lastmod: '2026-11-27'
 url: '/pt/portal-creches-gestao/'
 categories:
     - 'best-practice'
@@ -112,7 +113,7 @@ Uma gestão digital de creches reúne a informação relevante numa visão de co
 
 *   [horários de trabalho]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) previstos e disponibilidades
 *   qualificações e possíveis funções
-*   ausências e [baixas médicas]({{< relref "templates/human-resources/sick-leave-management" >}})
+*   ausências e [baixas médicas]({{< relref "templates/human-resources/employee-directory" >}})
 *   dimensão dos grupos e horários de acolhimento
 *   requisitos mínimos de pessoal em vigor
 

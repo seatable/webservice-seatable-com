@@ -184,7 +184,7 @@ sections:
       - q: "¿El uso de SeaTable para la gestión de vacaciones cumple la normativa de protección de datos (RGPD)?"
         a: 'SeaTable Cloud almacena y procesa sus datos en centros de datos de Fráncfort y Múnich, donde también funciona el modelo de IA de las automatizaciones de IA. Puede formalizar en línea el contrato de encargo del tratamiento. Como alternativa, puede operar SeaTable en sus propios servidores. Encontrará más información sobre protección de datos y permisos en nuestra página [Procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "¿Cómo puedo adaptar la plantilla si mi empresa tiene reglas propias de permisos o suplencias?"
-        a: 'Puede añadir en cualquier momento columnas, tipos de vacaciones, vistas y automatizaciones adicionales. Así adapta la plantilla con flexibilidad a los permisos especiales, los modelos de turnos o las reglas de suplencia de su empresa, sin programar nada. Complementos adecuados son el [Registro de la jornada laboral]({{< relref "templates/human-resources/recording-working-time" >}}) y la plantilla [Gestionar bajas por enfermedad]({{< relref "templates/human-resources/sick-leave-management" >}}).'
+        a: 'Puede añadir en cualquier momento columnas, tipos de vacaciones, vistas y automatizaciones adicionales. Así adapta la plantilla con flexibilidad a los permisos especiales, los modelos de turnos o las reglas de suplencia de su empresa, sin programar nada. Complementos adecuados son el [Registro de la jornada laboral]({{< relref "templates/human-resources/recording-working-time" >}}) y la plantilla [Gestionar bajas por enfermedad]({{< relref "templates/human-resources/employee-directory" >}}).'
       
 
 ---

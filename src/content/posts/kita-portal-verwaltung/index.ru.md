@@ -5,6 +5,7 @@ seo:
     title: 'Портал детских садов и управление: проблемы и решения'
     description: 'От распределения мест до норм соотношения персонала: узнайте, как муниципалитеты и учредители преодолевают административные трудности в управлении детскими садами'
 date: 2026-10-27
+lastmod: '2026-11-27'
 url: '/ru/portal-detskih-sadov-upravlenie/'
 categories:
     - 'best-practice'
@@ -112,7 +113,7 @@ register:
 
 *   запланированное [рабочее время]({{< relref "pages/landing-pages/use-cases/arbeitszeiterfassung" >}}) и доступность сотрудников
 *   квалификация и возможные варианты занятости
-*   отсутствие и [больничные]({{< relref "templates/human-resources/sick-leave-management" >}})
+*   отсутствие и [больничные]({{< relref "templates/human-resources/employee-directory" >}})
 *   размеры групп и время пребывания детей
 *   действующие минимальные требования к персоналу
 
