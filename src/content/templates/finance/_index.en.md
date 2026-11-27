@@ -1,6 +1,8 @@
 ---
 title: 'Finance'
 url: '/templates/finance'
+aliases:
+    - '/template/price-comparison'
 weight: 8
 seo:
     title: 'Finance templates – Budgeting, invoicing & financial planning'

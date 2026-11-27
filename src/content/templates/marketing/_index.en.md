@@ -1,6 +1,8 @@
 ---
 title: 'Marketing'
 url: '/templates/marketing'
+aliases:
+    - '/template/newsletter-subscription'
 weight: 5
 seo:
     title: 'Marketing templates – Campaign planning & content'
