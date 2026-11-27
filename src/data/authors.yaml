@@ -29,3 +29,58 @@ rdb:
     bio:
         de: 'Ralf hat die SeaTable GmbH 2020 zusammen mit seinem Bruder Christoph gegründet und verantwortet Vertrieb, Finanzen und die Betreuung der Kunden.'
         en: 'Ralf co-founded SeaTable GmbH with his brother Christoph in 2020 and is responsible for sales, finance and customer relations.'
+
+pst:
+    name: 'Patricia Steinberger'
+    image: ''
+    sameAs: []
+    role:
+        de: 'Chief Marketing Officer der SeaTable GmbH'
+        en: 'Chief Marketing Officer at SeaTable GmbH'
+    bio:
+        de: 'Patricia verantwortet seit 2024 das Marketing bei SeaTable. Mit langjähriger B2B-Erfahrung entwickelt sie Marketingstrategien und übersetzt sie in messbare Sichtbarkeit. Sie begeistert sich für No-Code-Lösungen, die mit Teams und Prozessen mitwachsen, und teilt Tipps und Use Cases für smartere Datenorganisation.'
+        en: 'Patricia has been leading marketing at SeaTable since 2024. Drawing on years of B2B experience, she develops marketing strategies and translates them into measurable visibility. She is passionate about no-code solutions that scale alongside teams and processes, and regularly shares tips and use cases for smarter data organization.'
+
+fhe:
+    name: 'Florian Heydorn'
+    image: ''
+    sameAs: []
+    role:
+        de: 'Content Creator und Marketing Manager bei SeaTable'
+        en: 'Content Creator and Marketing Manager at SeaTable'
+    bio:
+        de: 'Florian ist seit 2024 bei SeaTable für Content Creation, Social Media und E-Mail-Marketing zuständig. Als erfahrener Content-Experte weiß er, wie man komplexe Themen verständlich vermittelt.'
+        en: 'Florian has been responsible for content creation, social media, and email marketing at SeaTable since 2024. As an experienced content expert, he knows how to communicate complex topics clearly.'
+
+kgr:
+    name: 'Kevin Graf'
+    image: ''
+    sameAs: []
+    role:
+        de: 'Communications Manager der SeaTable GmbH'
+        en: 'Communications Manager at SeaTable GmbH'
+    bio:
+        de: 'Kevin liebt wertschätzende und effiziente Unternehmenskommunikation. Er erstellt Blogartikel, Tutorials und Templates für unsere Website, kümmert sich um die PR und erzählt überall, wie genial SeaTable ist.'
+        en: 'Kevin loves appreciative and efficient corporate communication. He creates blog posts, tutorials, and templates for our website, handles PR, and spreads the word everywhere about how great SeaTable is.'
+
+dmo:
+    name: 'Daniel Möllinger'
+    image: ''
+    sameAs: []
+    role:
+        de: 'Senior SEO & GEO Manager bei SeaTable GmbH'
+        en: 'Senior SEO & GEO Manager at SeaTable'
+    bio:
+        de: 'Daniel beschäftigt sich seit 2024 bei SeaTable mit Suchmaschinenoptimierung, KI-gestützter Suche (GEO) und der Frage, wie wertvolle Inhalte maximale Sichtbarkeit erreichen. Mit langjähriger Erfahrung und jeder Menge Spaß an der Arbeit verbindet er technische Analyse mit strukturiertem Content-Aufbau.'
+        en: 'Daniel has been focusing on search engine optimization (SEO), AI-powered search (GEO), and how to maximize the visibility of valuable content at SeaTable since 2024. Combining years of experience with a genuine passion for his work, he bridges technical analysis with structured content creation.'
+
+nsc:
+    name: 'Nicole Schmidt'
+    image: ''
+    sameAs: []
+    role:
+        de: 'Werkstudentin bei SeaTable GmbH'
+        en: 'Working Student at SeaTable GmbH'
+    bio:
+        de: 'Als Werkstudentin im Marketing dreht sich für Nicole vieles um die inhaltliche und visuelle Gestaltung digitaler Kommunikation. Dabei geht es ihr vor allem darum, Ideen in unterschiedliche Formate zu übersetzen und komplexe Themen verständlich, kreativ und ansprechend zu vermitteln.'
+        en: 'As a working student in marketing, Nicole focuses largely on the content and visual design of digital communication. Above all, she enjoys translating ideas into various formats and communicating complex topics in a clear, creative, and engaging way.'

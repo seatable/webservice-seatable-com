@@ -8,7 +8,7 @@ date: '2026-11-24'
 lastmod: '2026-11-24'
 url: '/es/suscribase-al-boletin-informativo'
 sitemap:
-    priority: 0.9
+    priority: 0.3
 
 sections:
     - name: "hero-2"
