@@ -5,6 +5,10 @@ date: '2024-08-24'
 url: '/fr/modele/planificateur-fete'
 aliases:
     - '/fr/modele/party-planner/'
+    - '/fr/modele/baby-shower'
+    - '/fr/modele/baby-party'
+    - '/fr/modele/planificateur-evjf-evg'
+    - '/fr/modele/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

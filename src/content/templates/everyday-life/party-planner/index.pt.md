@@ -5,6 +5,10 @@ date: '2024-08-24'
 url: '/pt/modelo/planejador-festas'
 aliases:
     - '/pt/modelo/party-planner/'
+    - '/pt/modelo/cha-de-bebe'
+    - '/pt/modelo/baby-party'
+    - '/pt/modelo/planejador-despedida-solteiro'
+    - '/pt/modelo/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

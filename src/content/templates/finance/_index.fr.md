@@ -3,6 +3,8 @@ title: 'Finances'
 url: '/fr/modeles/finances'
 aliases:
     - '/fr/modeles/finanzen/'
+    - '/fr/modele/comparateur-prix'
+    - '/fr/modele/price-comparison'
 weight: 8
 seo:
     title: 'Modèles Finances – Budgets, factures et planification'

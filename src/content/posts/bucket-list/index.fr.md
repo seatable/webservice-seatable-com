@@ -176,7 +176,7 @@ Faire le bien est un objectif qui n'enrichit pas seulement la vie de votre entou
 - Prendre un cours de danse ensemble
 - S'installer dans un logement commun
 - [Se marier]({{< relref "templates/everyday-life/wedding-planner" >}}) sur la plage
-- [Avoir des enfants]({{< relref "templates/everyday-life/baby-party" >}})
+- [Avoir des enfants]({{< relref "templates/everyday-life/party-planner" >}})
 
 ![Bucket List : Un couple au coucher du soleil.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 

@@ -118,7 +118,7 @@ Vous n'êtes pas obligé d'acheter des objets neufs pour votre appartement ou vo
 
 {{< warning headline="Attention : piège des coûts !" text="Les vieux réfrigérateurs, machines à laver et autres appareils électriques peuvent souvent être achetés à très bas prix. Mais pour ces appareils en particulier, il est important de considérer les coûts sur toute leur durée de vie. Un appareil qui coûte 200 euros de plus à l'état neuf, mais qui dure dix ans de plus et consomme 20 % d'électricité en moins, peut vous faire économiser bien plus que 200 euros. Misez donc plutôt sur des appareils électriques de qualité. Les ampoules LED coûtent également plus cher à l'achat, mais ne consomment qu'un dixième environ de l'électricité utilisée par les ampoules à incandescence traditionnelles." />}}
 
-Faites également attention aux **offres spéciales** des détaillants. Si vous envisagez un nouvel achat coûteux, il peut être intéressant de [comparer les prix]({{< relref "templates/finance/price-comparison" >}}).
+Faites également attention aux **offres spéciales** des détaillants. Si vous envisagez un nouvel achat coûteux, il peut être intéressant de [comparer les prix]({{< relref "templates/finance" >}}).
 
 ### 8\. Éviter les achats impulsifs
 

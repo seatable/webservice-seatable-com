@@ -154,6 +154,6 @@ Aqui o objetivo é adivinhar. Peça aos seus convidados que prevejam a **data do
 
 ## Planeador online para a sua festa do bebé
 
-Para que a sua festa de revelação do sexo seja um sucesso total, é necessária uma organização cuidadosa. Para lhe facilitar a tarefa, a equipa do SeaTable criou um [modelo prático]({{< relref "templates/everyday-life/baby-party" >}}) para planear a sua festa do bebé. Pode adaptá-lo às suas necessidades como preferir. Se quiser utilizar o SeaTable para isso, [registe-se gratuitamente]({{< relref "pages/registration" >}}).
+Para que a sua festa de revelação do sexo seja um sucesso total, é necessária uma organização cuidadosa. Para lhe facilitar a tarefa, a equipa do SeaTable criou um [modelo prático]({{< relref "templates/everyday-life/party-planner" >}}) para planear a sua festa do bebé. Pode adaptá-lo às suas necessidades como preferir. Se quiser utilizar o SeaTable para isso, [registe-se gratuitamente]({{< relref "pages/registration" >}}).
 
 {{< template-box id="f49862deac1d4d1ea078" >}}

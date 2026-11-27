@@ -38,7 +38,7 @@ Las listas de deseos son especialmente útiles para los **padres** que quieren a
 Las listas de deseos son más útiles en las ocasiones **con muchos invitados** que quieren regalarle algo, ya que aquí es especialmente difícil mantener la visión de conjunto. Por eso las listas de deseos se emplean a menudo en **celebraciones festivas**:
 - [Cumpleaños]({{< relref "posts/geburtstagsfeier-planen" >}})
 - [Boda]({{< relref "templates/everyday-life/wedding-planner" >}})
-- [Fiesta de bienvenida al bebé]({{< relref "templates/everyday-life/baby-party" >}})
+- [Fiesta de bienvenida al bebé]({{< relref "templates/everyday-life/party-planner" >}})
 - **Aniversarios** (p. ej., bodas de oro)
 
 ![Compartir regalos adecuados para el aniversario a través de la lista de deseos](wishlist-jubilee.jpg)

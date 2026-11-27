@@ -175,7 +175,7 @@ Doing good is a goal that not only enriches the lives of those around you.
 - Taking a dance class together
 - Moving into a shared apartment
 - Get [married]({{< relref "templates/everyday-life/wedding-planner" >}}) on the beach
-- [Get children]({{< relref "templates/everyday-life/baby-party" >}})
+- [Get children]({{< relref "templates/everyday-life/party-planner" >}})
 
 ![Bucket list: A couple in the sunset.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 

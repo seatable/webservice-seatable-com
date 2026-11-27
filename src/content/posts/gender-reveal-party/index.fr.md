@@ -152,6 +152,6 @@ Ici, il s'agit de faire des pronostics. Demandez à vos invités de prédire la 
 
 ## Planificateur en ligne pour votre fête pour bébé
 
-Pour que votre Gender Reveal Party soit une réussite totale, une organisation importante est nécessaire. Pour vous faciliter la tâche, l'équipe de SeaTable a créé un [modèle pratique]({{< relref "templates/everyday-life/baby-party" >}}) pour planifier votre fête pour bébé. Vous pouvez l'adapter librement à vos besoins. Si vous souhaitez utiliser SeaTable à cet effet, [inscrivez-vous simplement gratuitement]({{< relref "pages/registration" >}}).
+Pour que votre Gender Reveal Party soit une réussite totale, une organisation importante est nécessaire. Pour vous faciliter la tâche, l'équipe de SeaTable a créé un [modèle pratique]({{< relref "templates/everyday-life/party-planner" >}}) pour planifier votre fête pour bébé. Vous pouvez l'adapter librement à vos besoins. Si vous souhaitez utiliser SeaTable à cet effet, [inscrivez-vous simplement gratuitement]({{< relref "pages/registration" >}}).
 
 {{< template-box id="f49862deac1d4d1ea078" >}}

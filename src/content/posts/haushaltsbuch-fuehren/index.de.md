@@ -116,7 +116,7 @@ Viele Habseligkeiten für Ihre Wohnung oder Ihren Kleiderschrank müssen Sie nic
 
 {{< warning headline="Achtung: Kostenfalle!" text="Alte Kühlschränke, Waschmaschinen und andere Elektrogeräte gibt es oft sehr günstig zu kaufen. Aber gerade bei diesen Geräten ist es wichtig, die Kosten über die gesamte Lebenszeit zu betrachten. Ein Gerät, welches neu 200 Euro mehr kostet, aber zehn Jahre länger hält und 20 Prozent weniger Strom benötigt, kann Ihnen weit mehr als 200 Euro sparen. Setzen Sie also lieber auf qualitativ hochwertige Elektrogeräte. Auch LED-Lampen kosten in der Anschaffung mehr, verbrauchen aber nur etwa ein Zehntel der Elektrizität von herkömmlichen Glühlampen." />}}
 
-Achten Sie zudem auf **Sonderangebote** von Einzelhändlern. Gerade wenn Sie mit einer teuren Neuanschaffung liebäugeln, kann sich ein [Preisvergleich]({{< relref "templates/finance/price-comparison" >}}) lohnen.
+Achten Sie zudem auf **Sonderangebote** von Einzelhändlern. Gerade wenn Sie mit einer teuren Neuanschaffung liebäugeln, kann sich ein [Preisvergleich]({{< relref "templates/finance" >}}) lohnen.
 
 ### 8\. Spontankäufe vermeiden
 

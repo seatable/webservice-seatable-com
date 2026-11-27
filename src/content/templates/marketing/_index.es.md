@@ -1,6 +1,9 @@
 ---
 title: 'Marketing'
 url: '/es/plantillas/marketing'
+aliases:
+    - '/es/plantilla/newsletter-subscription'
+    - '/es/plantilla/suscripcion-boletin'
 weight: 5
 seo:
     title: 'Plantillas marketing – Planificación de campañas'

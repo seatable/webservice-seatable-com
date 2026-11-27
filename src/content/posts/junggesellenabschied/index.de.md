@@ -172,7 +172,7 @@ Ein Junggesellenabschied soll ein unvergesslicher Tag voller Spaß und Freude se
 
 ## Online-Planer für den perfekten Junggesellen- oder Junggesellinnenabschied
 
-Stehen Sie vor der Herausforderung, den ultimativen Junggesellenabschied für Ihren besten Freund oder Ihre beste Freundin zu planen? Kein Grund zur Sorge! Mit der [kostenlosen Vorlage]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) von SeaTable können Sie Ihre Planung mühelos realisieren.
+Stehen Sie vor der Herausforderung, den ultimativen Junggesellenabschied für Ihren besten Freund oder Ihre beste Freundin zu planen? Kein Grund zur Sorge! Mit der [kostenlosen Vorlage]({{< relref "templates/everyday-life/party-planner" >}}) von SeaTable können Sie Ihre Planung mühelos realisieren.
 
 {{< template-box id="88ed38a6b4b04683a4c8" >}}
 

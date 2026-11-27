@@ -174,7 +174,7 @@ Gutes zu tun ist ein Ziel, das nicht nur das Leben Ihrer Mitmenschen bereichert.
 - Gemeinsam einen Tanzkurs machen
 - In eine gemeinsame Wohnung ziehen
 - Am Strand [heiraten]({{< relref "templates/everyday-life/wedding-planner" >}})
-- [Kinder bekommen]({{< relref "templates/everyday-life/baby-party" >}})
+- [Kinder bekommen]({{< relref "templates/everyday-life/party-planner" >}})
 
 ![Bucket List: Ein Pärchen im Sonnenuntergang.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 

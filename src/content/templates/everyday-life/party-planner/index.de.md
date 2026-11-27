@@ -5,6 +5,10 @@ date: '2024-08-24'
 url: '/de/vorlage/partyplaner'
 aliases:
     - '/de/vorlage/party-planner/'
+    - '/de/vorlage/babyparty'
+    - '/de/vorlage/baby-party'
+    - '/de/vorlage/junggesellenabschied-planen'
+    - '/de/vorlage/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

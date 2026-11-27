@@ -118,7 +118,7 @@ Não tem necessariamente de comprar artigos novos para a sua casa ou para o seu 
 
 {{< warning headline="Atenção: armadilha dos custos!" text="Frigoríficos, máquinas de lavar roupa e outros aparelhos elétricos antigos podem ser comprados a preços muito baixos. Mas, no caso destes aparelhos em particular, é importante considerar os custos ao longo de toda a sua vida útil. Um aparelho que custa mais 200 euros quando é novo, mas que dura mais dez anos e consome menos 20% de eletricidade, pode poupar-lhe muito mais do que 200 euros. Por isso, é preferível optar por aparelhos elétricos de alta qualidade. As lâmpadas LED também são mais caras, mas consomem apenas um décimo da eletricidade das lâmpadas convencionais." />}}
 
-Procure também as **ofertas especiais** dos retalhistas. Uma [comparação de preços]({{< relref "templates/finance/price-comparison" >}}) pode valer a pena, especialmente se estiver a considerar uma nova compra dispendiosa.
+Procure também as **ofertas especiais** dos retalhistas. Uma [comparação de preços]({{< relref "templates/finance" >}}) pode valer a pena, especialmente se estiver a considerar uma nova compra dispendiosa.
 
 ### 8\. Evitar compras por impulso
 

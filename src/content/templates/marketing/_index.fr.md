@@ -1,6 +1,9 @@
 ---
 title: 'Marketing'
 url: '/fr/modeles/marketing'
+aliases:
+    - '/fr/modele/newsletter-subscription'
+    - '/fr/modele/inscription-newsletter'
 weight: 5
 seo:
     title: 'Modèles Marketing – Planification campaigns & contenu'

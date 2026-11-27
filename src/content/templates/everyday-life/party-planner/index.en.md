@@ -3,6 +3,9 @@ title: 'Party Planner'
 description: 'Plan your party digitally: manage guest list, contributions, and tasks, invite guests online, and organize everything centrally.'
 date: '2024-08-24'
 url: '/template/party-planner'
+aliases:
+    - '/template/baby-party'
+    - '/template/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

@@ -5,6 +5,10 @@ date: '2024-08-24'
 url: '/es/plantilla/planificador-fiesta'
 aliases:
     - '/es/plantilla/party-planner/'
+    - '/es/plantilla/baby-shower'
+    - '/es/plantilla/baby-party'
+    - '/es/plantilla/planificador-despedida-soltero'
+    - '/es/plantilla/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
