@@ -6,6 +6,8 @@ lastmod: '2026-11-27'
 url: '/pt/modelo/recrutamento-rh'
 aliases:
     - '/pt/modelo/hr-recruiting'
+    - '/pt/modelo/entrevistas-emprego'
+    - '/pt/modelo/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
@@ -18,7 +20,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – O seu modelo de recrutamento de RH para candidaturas e entrevistas'
-      text: 'Contrata apenas algumas pessoas por ano e não precisa de um sistema de gestão de candidaturas próprio? Com o modelo de recrutamento de RH do SeaTable, recolhe candidaturas através de um formulário web e acompanha cada candidatura desde a receção, passando pelas entrevistas, até à aceitação – numa base que os RH e os departamentos especializados mantêm em conjunto. CV, carta de apresentação, avaliação e notas de entrevista ficam num só local, e é o próprio utilizador que define o processo.'
+      text: 'Contrata apenas algumas pessoas por ano e não precisa de um sistema de gestão de candidaturas próprio? Com o modelo de recrutamento de RH do SeaTable, recolhe candidaturas através de um formulário web e acompanha cada candidatura desde a receção, passando pelas entrevistas, até à aceitação – numa base que os RH e os departamentos especializados mantêm em conjunto. CV, carta de apresentação, avaliação e notas de entrevista ficam num só local, e é o próprio utilizador que define o processo. Para as próprias entrevistas, existe o modelo complementar Entrevistas de emprego.'
       classes:
           - bg-white
       template: '9abba02477a7435eb3d7'
@@ -81,7 +83,7 @@ sections:
       - text: '**Acesso a partir de qualquer lugar:** Os RH, a chefia de equipa e os departamentos especializados veem o estado atual no navegador ou na aplicação – no escritório, em teletrabalho ou em viagem.'
       - text: '**Transparência no processo:** Os comentários e o histórico de alterações mostram quem avaliou uma candidatura ou a passou para a fase seguinte, e quando.'
       - text: '**Escalável:** Comece com poucas vagas em aberto e amplie o modelo, se necessário, com mais posições, localizações ou etapas de seleção.'
-      - text: '**Ligado ao onboarding:** Após a aceitação, transfira a pessoa para o [plano de integração]({{< relref "templates/human-resources/employee-onboarding" >}}) e para o [diretório de colaboradores]({{< relref "templates/human-resources/employee-directory" >}}).'
+      - text: '**Ligado ao onboarding:** Após a aceitação, transfira a pessoa para o [plano de integração]({{< relref "templates/human-resources/employee-onboarding" >}}) e para o [diretório de funcionários]({{< relref "templates/human-resources/employee-directory" >}}).'
       image_position: [left]
       image: '/images/Landing-Page_HR_Bewerbermanagement.png'
       image_alt: 'Quadro Kanban «Job pipeline» do modelo de recrutamento de RH com candidaturas por fase de entrevista'
@@ -104,9 +106,27 @@ sections:
         image: '/images/bewerbermanagement-talenmanagement.jpg'
         image_alt: 'Vista «Best talents» com candidaturas agrupadas por vaga e avaliação por estrelas'
       - headline: 'Planear e documentar entrevistas'
-        text: 'Na tabela «Interviews», documente todas as entrevistas. Após cada entrevista, atribua uma avaliação, para identificar rapidamente as candidaturas mais adequadas. Na Universal App, os departamentos especializados veem as próximas datas e registam as suas notas diretamente. Para entrevistas estruturadas com grelha de avaliação, é também adequado o modelo [Entrevistas de recrutamento]({{< relref "templates/human-resources/recruitment-interviews" >}}).'
+        text: 'Na tabela «Interviews», documente todas as entrevistas. Após cada entrevista, atribua uma avaliação, para identificar rapidamente as candidaturas mais adequadas. Na Universal App, os departamentos especializados veem as próximas datas e registam as suas notas diretamente. Para as próprias entrevistas, utilize também o modelo [Entrevistas de emprego](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d); mais abaixo, pode experimentar ambos os modelos.'
         image: '/images/landing-page-bewerbermanagement-1.png'
         image_alt: 'Kanban das candidaturas e calendário com entrevistas agendadas'
+
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Dois modelos para o seu recrutamento'
+      subtitle: 'Recrutamento de RH e Entrevistas de emprego'
+      text: 'Experimente ambos os modelos diretamente aqui: o modelo de recrutamento de RH para vagas, candidaturas e fases, e o modelo Entrevistas de emprego para datas, notas e avaliações das entrevistas.'
+      items:
+      - headline: 'Recrutamento de RH'
+        text: 'Vagas em aberto, formulário de candidatura, fases desde «Applied» até à avaliação, Kanban «Job pipeline» e uma Universal App para os departamentos especializados.'
+        id: 9abba02477a7435eb3d7
+        submit: Utilizar Recrutamento de RH
+      - headline: 'Entrevistas de emprego'
+        text: 'Cada candidatura com a sua própria data de entrevista numa tabela, dados pessoais de uma segunda tabela, um estado para o plugin Kanban e experiência profissional graduada por cores.'
+        id: 66531bee1fad490b940d
+        submit: Utilizar Entrevistas de emprego
 
     - name: "content-6"
       weight: 12
@@ -165,7 +185,7 @@ sections:
       - headline: Alternativa ao Excel e à caixa de correio
         text: 'Em vez de dispersar candidaturas por e-mails, pastas e listas em Excel, gere tudo em tabelas interligadas com formulário, Kanban e calendário.'
       - headline: Ligar recrutamento e RH
-        text: 'Ligue o modelo a outros [modelos de RH]({{< relref "templates/human-resources" >}}), como o plano de integração e o diretório de colaboradores, para que nada seja registado em duplicado após a aceitação.'
+        text: 'Ligue o modelo a outros [modelos de RH]({{< relref "templates/human-resources" >}}), como o plano de integração e o diretório de funcionários, para que nada seja registado em duplicado após a aceitação.'
       - headline: Em conformidade com o RGPD
         text: 'O SeaTable Cloud e o modelo de IA das automatizações de IA funcionam em centros de dados da Exoscale em Frankfurt e Munique. O acordo de tratamento de dados (DPA) é celebrado online.'
       - headline: 2FA e SSO
@@ -182,6 +202,8 @@ sections:
         a: 'Sim, pode utilizar o modelo no SeaTable Cloud com o SeaTable Free para até 25 membros da equipa. Tenha em atenção que os CV e as cartas de apresentação carregados contam para o espaço de armazenamento (2 GB no SeaTable Free).'
       - q: "O modelo substitui um sistema de gestão de candidaturas?"
         a: 'Para poucas contratações por ano, o modelo é muitas vezes suficiente. Funções de um sistema de gestão de candidaturas, como a publicação em portais de emprego, um portal de carreiras ou prazos de eliminação predefinidos, não estão incluídas. Os prazos de eliminação podem ser implementados, por exemplo, através de uma coluna com a data de eliminação e de uma vista das candidaturas a eliminar. Se preencher muitas vagas em paralelo, um sistema de gestão de candidaturas é a melhor opção.'
+      - q: "Como organizo as próprias entrevistas de emprego?"
+        a: 'Para isso, existe o modelo complementar [Entrevistas de emprego](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d). Cada candidatura ocupa aí uma linha com a respetiva data de entrevista; os dados pessoais vêm de uma segunda tabela. Através de um estado, vê no plugin Kanban em que fase está cada entrevista, e a experiência profissional está graduada em tons de verde. Pode acrescentar a qualquer momento mais colunas, por exemplo para notas ou avaliações.'
       - q: "Onde são armazenados os dados de candidatura?"
         a: 'O SeaTable Cloud armazena os seus dados em centros de dados da Exoscale em Frankfurt e Munique. O acordo de tratamento de dados (DPA) é celebrado online. Em alternativa, pode operar o SeaTable nos seus próprios servidores. Saiba mais sobre proteção de dados e autorizações na nossa página [Processos de RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Quem vê que candidaturas?"
@@ -189,5 +211,5 @@ sections:
       - q: "Posso importar candidaturas existentes do Excel?"
         a: 'Sim, importe listas existentes para o modelo através da importação de CSV ou Excel e, em seguida, ajuste as fases, as colunas e as vistas.'
       - q: "O que acontece após a aceitação?"
-        a: 'Transfira a pessoa para o [plano de integração]({{< relref "templates/human-resources/employee-onboarding" >}}) e para o [diretório de colaboradores]({{< relref "templates/human-resources/employee-directory" >}}). Saiba como melhorar o seu recrutamento como um todo no nosso guia [Recrutamento]({{< relref "posts/20250317-recruiting" >}}).'
+        a: 'Transfira a pessoa para o [plano de integração]({{< relref "templates/human-resources/employee-onboarding" >}}) e para o [diretório de funcionários]({{< relref "templates/human-resources/employee-directory" >}}). Saiba como melhorar o seu recrutamento como um todo no nosso guia [Recrutamento]({{< relref "posts/20250317-recruiting" >}}).'
 ---

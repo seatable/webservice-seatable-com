@@ -6,6 +6,8 @@ lastmod: '2026-11-27'
 url: '/fr/modele/recrutement-rh'
 aliases:
     - '/fr/modele/hr-recruiting'
+    - '/fr/modele/entretiens-embauche'
+    - '/fr/modele/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
@@ -18,7 +20,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Votre modèle de recrutement RH pour les candidatures et les entretiens'
-      text: 'Vous ne recrutez que quelques personnes par an et n''avez pas besoin d''un logiciel de recrutement dédié ? Avec le modèle de recrutement RH de SeaTable, vous collectez les candidatures via un formulaire web et suivez chaque candidature de sa réception jusqu''à l''embauche, en passant par les entretiens – dans une base que les RH et les services concernés tiennent à jour ensemble. CV, lettre de motivation, évaluation et notes d''entretien sont réunis au même endroit, et c''est vous qui définissez le processus.'
+      text: 'Vous ne recrutez que quelques personnes par an et n''avez pas besoin d''un logiciel de recrutement dédié ? Avec le modèle de recrutement RH de SeaTable, vous collectez les candidatures via un formulaire web et suivez chaque candidature de sa réception jusqu''à l''embauche, en passant par les entretiens – dans une base que les RH et les services concernés tiennent à jour ensemble. CV, lettre de motivation, évaluation et notes d''entretien sont réunis au même endroit, et c''est vous qui définissez le processus. Pour les entretiens eux-mêmes, il existe le modèle complémentaire Entretiens d''embauche.'
       classes:
           - bg-white
       template: '9abba02477a7435eb3d7'
@@ -81,7 +83,7 @@ sections:
       - text: '**Accessible partout :** les RH, la direction d''équipe et les services concernés voient l''état actuel dans le navigateur ou dans l''application – au bureau, en télétravail ou en déplacement.'
       - text: '**Transparence du processus :** les commentaires et l''historique des modifications indiquent qui a évalué une candidature ou l''a fait passer à l''étape suivante, et quand.'
       - text: '**Évolutif :** vous commencez avec quelques postes ouverts et complétez le modèle au besoin avec d''autres postes, sites ou étapes de sélection.'
-      - text: '**Relié à l''intégration :** après l''embauche, vous reprenez la personne dans le [plan d''intégration]({{< relref "templates/human-resources/employee-onboarding" >}}) et l''[annuaire du personnel]({{< relref "templates/human-resources/employee-directory" >}}).'
+      - text: '**Relié à l''intégration :** après l''embauche, vous reprenez la personne dans le [plan d''intégration]({{< relref "templates/human-resources/employee-onboarding" >}}) et le [répertoire des employés]({{< relref "templates/human-resources/employee-directory" >}}).'
       image_position: [left]
       image: '/images/Landing-Page_HR_Bewerbermanagement.png'
       image_alt: 'Tableau Kanban « Job pipeline » du modèle de recrutement RH avec les candidatures par phase d''entretien'
@@ -104,9 +106,27 @@ sections:
         image: '/images/bewerbermanagement-talenmanagement.jpg'
         image_alt: 'Vue « Best talents » avec les candidatures regroupées par poste et par note en étoiles'
       - headline: 'Planifier et documenter les entretiens'
-        text: 'Dans la table « Interviews », vous documentez tous les entretiens. Après chaque entretien, vous attribuez une évaluation afin d''identifier rapidement les candidatures les plus adaptées. Dans l''Universal App, les services concernés voient les rendez-vous à venir et saisissent directement leurs notes. Pour des entretiens structurés avec grille d''évaluation, le modèle [Entretiens d''embauche]({{< relref "templates/human-resources/recruitment-interviews" >}}) est également adapté.'
+        text: 'Dans la table « Interviews », vous documentez tous les entretiens. Après chaque entretien, vous attribuez une évaluation afin d''identifier rapidement les candidatures les plus adaptées. Dans l''Universal App, les services concernés voient les rendez-vous à venir et saisissent directement leurs notes. Pour les entretiens eux-mêmes, utilisez en complément le modèle [Entretiens d''embauche](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d) ; vous pouvez essayer les deux modèles plus bas.'
         image: '/images/landing-page-bewerbermanagement-1.png'
         image_alt: 'Kanban des candidatures et calendrier avec les entretiens planifiés'
+
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Deux modèles pour votre recrutement'
+      subtitle: 'Recrutement RH et Entretiens d''embauche'
+      text: 'Essayez les deux modèles directement ici : Recrutement RH pour les postes, les candidatures et les étapes, et le modèle Entretiens d''embauche pour les rendez-vous, les notes et les évaluations des entretiens.'
+      items:
+      - headline: 'Recrutement RH'
+        text: 'Postes ouverts, formulaire de candidature, étapes de « Applied » jusqu''à l''évaluation, Kanban « Job pipeline » et une Universal App pour les services concernés.'
+        id: 9abba02477a7435eb3d7
+        submit: 'Utiliser Recrutement RH'
+      - headline: 'Entretiens de recrutement'
+        text: 'Chaque candidature avec sa propre date d''entretien dans une table, les données personnelles issues d''une deuxième table, un statut pour le plugin Kanban et une expérience professionnelle graduée par couleur.'
+        id: 66531bee1fad490b940d
+        submit: 'Utiliser Entretiens d''embauche'
 
     - name: "content-6"
       weight: 12
@@ -165,7 +185,7 @@ sections:
       - headline: 'Alternative à Excel et à la boîte mail'
         text: 'Au lieu de disperser les candidatures entre e-mails, dossiers et listes Excel, vous gérez tout dans des tables liées avec formulaire, Kanban et calendrier.'
       - headline: 'Relier recrutement et RH'
-        text: 'Reliez le modèle à d''autres [modèles RH]({{< relref "templates/human-resources" >}}) comme le plan d''intégration et l''annuaire du personnel, afin que rien ne soit saisi deux fois après l''embauche.'
+        text: 'Reliez le modèle à d''autres [modèles RH]({{< relref "templates/human-resources" >}}) comme le plan d''intégration et le répertoire des employés, afin que rien ne soit saisi deux fois après l''embauche.'
       - headline: 'Conforme au RGPD'
         text: 'SeaTable Cloud et le modèle d''IA des automatisations IA fonctionnent dans des centres de données d''Exoscale à Francfort et à Munich. Vous concluez l''accord de sous-traitance (DPA) en ligne.'
       - headline: '2FA et SSO'
@@ -182,6 +202,8 @@ sections:
         a: 'Oui, vous utilisez le modèle dans SeaTable Cloud avec SeaTable Free pour jusqu''à 25 membres d''équipe. Notez que les CV et lettres de motivation téléchargés comptent dans l''espace de stockage (2 Go avec SeaTable Free).'
       - q: 'Le modèle remplace-t-il un logiciel de recrutement ?'
         a: 'Pour quelques embauches par an, le modèle suffit souvent. Les fonctions d''un logiciel de recrutement, comme la publication sur des sites d''emploi, un portail carrière ou des délais de suppression prédéfinis, ne sont pas intégrées. Vous gérez par exemple les délais de suppression avec une colonne contenant la date de suppression et une vue des candidatures arrivées à échéance. Si vous pourvoyez de nombreux postes en parallèle, un logiciel de recrutement est le meilleur choix.'
+      - q: 'Comment organiser les entretiens d''embauche eux-mêmes ?'
+        a: 'Pour cela, il existe le modèle complémentaire [Entretiens d''embauche](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d). Chaque candidature y figure sur une ligne avec sa date d''entretien ; les données personnelles proviennent d''une deuxième table. Grâce à un statut, vous voyez dans le plugin Kanban à quelle étape en est chaque entretien, et l''expérience professionnelle est graduée en nuances de vert. Vous ajoutez à tout moment d''autres colonnes, par exemple pour des notes ou des évaluations.'
       - q: 'Où les données des candidatures sont-elles stockées ?'
         a: 'SeaTable Cloud stocke vos données dans des centres de données d''Exoscale à Francfort et à Munich. Vous concluez l''accord de sous-traitance (DPA) en ligne. Vous pouvez aussi exploiter SeaTable sur vos propres serveurs. Plus d''informations sur la protection des données et les autorisations sur notre page [Processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: 'Qui voit quelles candidatures ?'
@@ -189,5 +211,5 @@ sections:
       - q: 'Puis-je reprendre des candidatures existantes depuis Excel ?'
         a: 'Oui, vous importez les listes existantes dans le modèle via l''import CSV ou Excel, puis vous adaptez les étapes, les colonnes et les vues.'
       - q: 'Que se passe-t-il après l''embauche ?'
-        a: 'Vous reprenez la personne dans le [plan d''intégration]({{< relref "templates/human-resources/employee-onboarding" >}}) et l''[annuaire du personnel]({{< relref "templates/human-resources/employee-directory" >}}). Pour améliorer votre recrutement dans son ensemble, consultez notre guide [Recrutement]({{< relref "posts/20250317-recruiting" >}}).'
+        a: 'Vous reprenez la personne dans le [plan d''intégration]({{< relref "templates/human-resources/employee-onboarding" >}}) et le [répertoire des employés]({{< relref "templates/human-resources/employee-directory" >}}). Pour améliorer votre recrutement dans son ensemble, consultez notre guide [Recrutement]({{< relref "posts/20250317-recruiting" >}}).'
 ---

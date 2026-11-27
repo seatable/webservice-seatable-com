@@ -4,6 +4,8 @@ description: 'Collect applications via web form and track candidates all the way
 date: '2024-08-24'
 lastmod: '2026-11-27'
 url: '/template/hr-recruiting'
+aliases:
+    - '/template/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:
@@ -16,7 +18,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Your HR Recruiting Template for Applications and Interviews'
-      text: 'You only hire a few people a year and don''t need a dedicated applicant tracking system for it? With the HR Recruiting template from SeaTable, you collect applications via web form and track every candidate from submission through the interviews to the job offer – in one base that HR and departments maintain together. Résumé, cover letter, rating, and interview notes are all in one place, and you define the process yourself.'
+      text: 'You only hire a few people a year and don''t need a dedicated applicant tracking system for it? With the HR Recruiting template from SeaTable, you collect applications via web form and track every candidate from submission through the interviews to the job offer – in one base that HR and departments maintain together. Résumé, cover letter, rating, and interview notes are all in one place, and you define the process yourself. For the interviews themselves, there is the supplementary Recruitment Interviews template.'
       classes:
           - bg-white
       template: '9abba02477a7435eb3d7'
@@ -102,9 +104,27 @@ sections:
         image: '/images/bewerbermanagement-talenmanagement.jpg'
         image_alt: '"Best talents" view with applications grouped by position and star rating'
       - headline: 'Schedule and document interviews'
-        text: 'You document all interviews in the "Interviews" table. After each interview, you give a rating so you can quickly identify the most suitable candidates. In the Universal App, departments see upcoming appointments and enter their notes directly. For structured interviews with an evaluation form, the [Recruitment Interviews]({{< relref "templates/human-resources/recruitment-interviews" >}}) template is also a good fit.'
+        text: 'You document all interviews in the "Interviews" table. After each interview, you give a rating so you can quickly identify the most suitable candidates. In the Universal App, departments see upcoming appointments and enter their notes directly. For the interviews themselves, you can also use the [Recruitment Interviews](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d) template; you can try out both templates further down this page.'
         image: '/images/landing-page-bewerbermanagement-1.png'
         image_alt: 'Kanban of applications and calendar with scheduled interviews'
+
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Two Templates for Your Recruiting'
+      subtitle: 'HR Recruiting and Recruitment Interviews'
+      text: 'Try out both templates right here: HR Recruiting for positions, applications, and stages, and the Recruitment Interviews template for appointments, notes, and ratings of the interviews.'
+      items:
+      - headline: 'HR Recruiting'
+        text: 'Open positions, an application form, stages from "Applied" to the rating, the "Job pipeline" Kanban, and a Universal App for departments.'
+        id: 9abba02477a7435eb3d7
+        submit: Use HR Recruiting
+      - headline: 'Recruitment Interviews'
+        text: 'Each application with its own interview appointment in one table, personal data from a second table, a status for the Kanban plugin, and work experience shaded by color.'
+        id: 66531bee1fad490b940d
+        submit: Use Recruitment Interviews
 
     - name: "content-6"
       weight: 12
@@ -180,6 +200,8 @@ sections:
         a: 'Yes, you can use the template in SeaTable Cloud with SeaTable Free for up to 25 team members. Please note that uploaded résumés and cover letters count toward your storage (2 GB with SeaTable Free).'
       - q: "Does the template replace an applicant tracking system?"
         a: 'For just a few hires a year, the template is often sufficient. Features of an applicant tracking system, such as posting to job boards, a careers portal, or predefined deletion periods, are not built in. You can map deletion periods, for example, with a column for the deletion date and a view of the applications that are due. If you fill many positions at the same time, an applicant tracking system is the better choice.'
+      - q: "How do I organize the interviews themselves?"
+        a: 'For this, there is the supplementary [Recruitment Interviews](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d) template. There, each application is in one row together with its interview appointment, and the personal data comes from a second table. A status shows you in the Kanban plugin which stage each interview is in, and work experience is shaded in tones of green. You can add more columns at any time, for example for notes or ratings.'
       - q: "Where is the applicant data stored?"
         a: 'SeaTable Cloud stores your data in Exoscale data centers in Frankfurt and Munich. You can conclude the data processing agreement (DPA) online. Alternatively, you can run SeaTable on your own servers. Learn more about data protection and permissions on our [HR processes]({{< relref "pages/landing-pages/industry-solutions/hr" >}}) page.'
       - q: "Who sees which applications?"

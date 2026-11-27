@@ -6,6 +6,8 @@ lastmod: '2026-11-27'
 url: '/es/plantilla/reclutamiento'
 aliases:
     - '/es/plantilla/hr-recruiting'
+    - '/es/plantilla/entrevistas-seleccion'
+    - '/es/plantilla/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
@@ -18,7 +20,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable: su plantilla de HR Recruiting para candidaturas y entrevistas'
-      text: '¿Contrata solo a unas pocas personas al año y no necesita un sistema propio de gestión de candidaturas? Con la plantilla de HR Recruiting de SeaTable recibe candidaturas por formulario web y sigue a todas las personas candidatas desde la recepción, pasando por las entrevistas, hasta la contratación, en una base que RR. HH. y los departamentos especializados mantienen juntos. Currículum, carta de presentación, valoración y notas de entrevista están en un solo lugar, y usted define el proceso.'
+      text: '¿Contrata solo a unas pocas personas al año y no necesita un sistema propio de gestión de candidaturas? Con la plantilla de HR Recruiting de SeaTable recibe candidaturas por formulario web y sigue a todas las personas candidatas desde la recepción, pasando por las entrevistas, hasta la contratación, en una base que RR. HH. y los departamentos especializados mantienen juntos. Currículum, carta de presentación, valoración y notas de entrevista están en un solo lugar, y usted define el proceso. Para las entrevistas en sí existe la plantilla complementaria Entrevistas de trabajo.'
       classes:
           - bg-white
       template: '9abba02477a7435eb3d7'
@@ -104,9 +106,27 @@ sections:
         image: '/images/bewerbermanagement-talenmanagement.jpg'
         image_alt: 'Vista «Best talents» con candidaturas agrupadas por puesto y valoración con estrellas'
       - headline: 'Planificar y documentar entrevistas'
-        text: 'En la tabla «Interviews» documenta todas las entrevistas. Después de cada entrevista asigna una valoración para identificar rápidamente a las personas candidatas más adecuadas. En la Universal App, los departamentos especializados ven las próximas citas e introducen sus notas directamente. Para entrevistas estructuradas con hoja de evaluación, también le resultará útil la plantilla [entrevistas de selección]({{< relref "templates/human-resources/recruitment-interviews" >}}).'
+        text: 'En la tabla «Interviews» documenta todas las entrevistas. Después de cada entrevista asigna una valoración para identificar rápidamente a las personas candidatas más adecuadas. En la Universal App, los departamentos especializados ven las próximas citas e introducen sus notas directamente. Para las entrevistas en sí, utilice además la plantilla [Entrevistas de trabajo](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d); más abajo puede probar ambas plantillas.'
         image: '/images/landing-page-bewerbermanagement-1.png'
         image_alt: 'Kanban de candidaturas y calendario con entrevistas planificadas'
+
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Dos plantillas para su selección de personal'
+      subtitle: 'HR Recruiting y Entrevistas de trabajo'
+      text: 'Pruebe ambas plantillas directamente aquí: HR Recruiting para puestos, candidaturas y fases, y la plantilla Entrevistas de trabajo para citas, notas y valoraciones de las entrevistas.'
+      items:
+      - headline: 'HR Recruiting'
+        text: 'Puestos vacantes, formulario de candidatura, fases desde «Applied» hasta la evaluación, Kanban «Job pipeline» y una Universal App para los departamentos especializados.'
+        id: 9abba02477a7435eb3d7
+        submit: Usar HR Recruiting
+      - headline: 'Entrevistas de trabajo'
+        text: 'Cada candidatura con su propia cita de entrevista en una tabla, datos personales procedentes de una segunda tabla, un estado para el plugin Kanban y experiencia profesional graduada por colores.'
+        id: 66531bee1fad490b940d
+        submit: Usar Entrevistas de trabajo
 
     - name: "content-6"
       weight: 12
@@ -182,6 +202,8 @@ sections:
         a: 'Sí, puede utilizar la plantilla en SeaTable Cloud con SeaTable Free para hasta 25 miembros del equipo. Tenga en cuenta que los currículums y cartas de presentación subidos cuentan para el espacio de almacenamiento (2 GB en SeaTable Free).'
       - q: "¿Sustituye la plantilla a un sistema de gestión de candidaturas?"
         a: 'Para unas pocas contrataciones al año, la plantilla suele ser suficiente. Las funciones de un sistema de gestión de candidaturas, como la publicación en portales de empleo, un portal de empleo propio o plazos de borrado predefinidos, no están integradas. Los plazos de borrado los puede representar, por ejemplo, con una columna con la fecha de borrado y una vista de las candidaturas vencidas. Si cubre muchos puestos en paralelo, un sistema de gestión de candidaturas es la mejor opción.'
+      - q: "¿Cómo organizo las propias entrevistas de trabajo?"
+        a: 'Para ello existe la plantilla complementaria [Entrevistas de trabajo](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d). Allí cada candidatura figura en una fila con su cita de entrevista; los datos personales proceden de una segunda tabla. Mediante un estado ve en el plugin Kanban en qué fase está cada entrevista, y la experiencia profesional está graduada en tonos de verde. Puede añadir más columnas en cualquier momento, por ejemplo para notas o valoraciones.'
       - q: "¿Dónde se almacenan los datos de candidatura?"
         a: 'SeaTable Cloud almacena sus datos en centros de datos de Exoscale en Fráncfort y Múnich. El contrato de encargo del tratamiento se firma en línea. Como alternativa, puede utilizar SeaTable en sus propios servidores. Más información sobre protección de datos y permisos en nuestra página de [procesos de RR. HH.]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "¿Quién ve qué candidaturas?"
