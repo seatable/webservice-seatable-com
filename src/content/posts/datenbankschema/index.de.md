@@ -17,7 +17,7 @@ register:
 draft: true
 ---
 
-Viele Unternehmen starten mit Excel oder Microsoft Access als Datenbank Struktur <!-- Bitte einmal durchegehen und Datenbank Struktur, Datenbank Aufbau etc. richtig schreiben oder umstellen, z.B Aufbau einer Datenbank. -->, um ihre Daten zu verwalten und interne Prozesse zu organisieren. Für den Einstieg funktioniert das meist gut, doch mit zunehmender Datenmenge wird es immer schwieriger, den Überblick zu behalten.
+Viele Unternehmen starten mit Excel oder Microsoft Access als Datenbankstruktur <!-- Bitte einmal durchegehen und Datenbank Struktur, Datenbank Aufbau etc. richtig schreiben oder umstellen, z.B Aufbau einer Datenbank. -->, um ihre Daten zu verwalten und interne Prozesse zu organisieren. Für den Einstieg funktioniert das meist gut, doch mit zunehmender Datenmenge wird es immer schwieriger, den Überblick zu behalten.
 
 Oft liegt das daran, dass die Datenbank von Anfang an nicht richtig geplant wurde. Wenn Sie Tabellen ohne klare Struktur einer Datenbank anlegen, auf eindeutige IDs verzichten oder zusammengehörige Daten nicht miteinander verknüpfen, entstehen schnell doppelte und widersprüchliche Informationen. Das macht die tägliche Arbeit mühsam und erschwert spätere Anpassungen. Im schlimmsten Fall müssen Sie Ihre Datenbank grundlegend umbauen oder sogar auf ein neues System umsteigen.
 
@@ -95,7 +95,7 @@ Wenn mehrere Tabellen zusammengehören, sollten Sie die entsprechenden Beziehung
 
 {{< accordion "Schritt 5: Beziehungen und Normalisierung berücksichtigen" >}}
 
- Überlegen Sie, ob zwischen Ihren Tabellen 1:1-, 1:N- oder N <!-- N:N? --> bestehen. Eine sinnvolle Normalisierung hilft Ihnen außerdem, Datenredundanzen zu vermeiden und Informationen konsistent zu halten. Die ersten drei Normalformen bieten dafür wichtige Regeln.
+ Überlegen Sie, ob zwischen Ihren Tabellen 1:1-, 1:N- oder N:M bestehen. Eine sinnvolle Normalisierung hilft Ihnen außerdem, Datenredundanzen zu vermeiden und Informationen konsistent zu halten. Die ersten drei Normalformen bieten dafür wichtige Regeln.
 
 {{< /accordion >}}
 
@@ -111,7 +111,7 @@ Auch wenn Sie die Grundlagen einer Datenbank kennen, können bei der Planung und
 ![Viele Punkte die miteinander zu einem Netzwerk verbunden sind.](netzwerk.png)
 
 ### 1. Fehlende logische Struktur
-Wenn Sie neue Tabellen spontan anlegen, ohne den gesamten Datenbank Aufbau zu berücksichtigen, entsteht schnell ein unübersichtlicher Datenbestand. Informationen landen in den falschen Tabellen oder tauchen mehrfach auf. Das erschwert die Pflege und macht spätere Anpassungen aufwendig.
+Wenn Sie neue Tabellen spontan anlegen, ohne den gesamten Datenbankaufbau zu berücksichtigen, entsteht schnell ein unübersichtlicher Datenbestand. Informationen landen in den falschen Tabellen oder tauchen mehrfach auf. Das erschwert die Pflege und macht spätere Anpassungen aufwendig.
 
 **So vermeiden Sie den Fehler:** Überlegen Sie vorab, welche Informationen Sie erfassen möchten und wie diese zusammengehören. Teilen Sie Ihre Daten in logisch aufgebaute Tabellen auf und achten Sie auf eine einheitliche Benennung.
 
@@ -136,7 +136,7 @@ Eine Datenbank, die heute für wenige Nutzer und überschaubare Datenmengen ausr
 **So vermeiden Sie den Fehler:** Planen Sie Ihre Datenbank von Anfang an so, dass Sie später weitere Tabellen, Felder und Nutzer ergänzen können. Achten Sie auf eine flexible Datenbankstruktur und prüfen Sie, ob eine skalierbare Cloud- oder No-Code-Datenbank besser zu Ihren langfristigen Anforderungen passt.
 
 ## Praxisbeispiel: Datenbank Aufbau am Beispiel einer Projektdatenbank
-Wie Sie Ihre Datenbankstruktur planen, lässt sich am besten anhand eines konkreten Datenbank Aufbau Beispiels nachvollziehen. Stellen Sie sich vor, Sie möchten Projekte zentral verwalten und dabei Kunden, Mitarbeitende, Aufgaben und Projektfortschritte im Blick behalten. Statt alle Informationen in einer einzigen Tabelle zu sammeln, teilen Sie Ihre Daten in mehrere miteinander verknüpfte Tabellen auf.
+Wie Sie Ihre Datenbankstruktur planen, lässt sich am besten anhand eines konkreten Datenbankaufbau-Beispiels nachvollziehen. Stellen Sie sich vor, Sie möchten Projekte zentral verwalten und dabei Kunden, Mitarbeitende, Aufgaben und Projektfortschritte im Blick behalten. Statt alle Informationen in einer einzigen Tabelle zu sammeln, teilen Sie Ihre Daten in mehrere miteinander verknüpfte Tabellen auf.
 
 ![Tabellenstruktur eines Projektmanagements auf Post-Its geplant.](beispiel-projektmanagement.png)
 
