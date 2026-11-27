@@ -141,7 +141,7 @@ sections:
       title: KI-Automatisierung und No-Code App Builder 
       subtitle: Flexibles Frontend für maximale Benutzerfreundlichkeit
       items:
-          - text: Nutzen Sie SeaTables integrierten [No‑Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}), um schlank strukturierte Dateneingaben für Ihre KI-Automatisierungen zu ermöglichen. Mit dem App Builder erstellen Sie individuelle Formulare, um Anfragen, Projekte, Service-Tickets oder Rechnungen zu erfassen und die Inhalte in genau definierte Felder Ihrer Datenbank zu schreiben. So erhalten Sie mit wenig Aufwand **ideal vorbereitete Daten für KI-Extraktion, Klassifizierung oder Zusammenfassungen**.
+          - text: Nutzen Sie SeaTables integrierten [No‑Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), um schlank strukturierte Dateneingaben für Ihre KI-Automatisierungen zu ermöglichen. Mit dem App Builder erstellen Sie individuelle Formulare, um Anfragen, Projekte, Service-Tickets oder Rechnungen zu erfassen und die Inhalte in genau definierte Felder Ihrer Datenbank zu schreiben. So erhalten Sie mit wenig Aufwand **ideal vorbereitete Daten für KI-Extraktion, Klassifizierung oder Zusammenfassungen**.
       image: /images/landing_page_ki-automatisierung_07.png
       image_position: left
       image_alt: 'SeaTable App Builder für intuitive Dateneingabemasken und schnelle KI-Prozesse'     

@@ -109,7 +109,7 @@ sections:
   - curved
   items:
   - headline: "Komfortabler No-Code App Builder"
-    text: 'Mit SeaTable erstellen Sie leistungsstarke, datenbasierte Anwendungen schnell und intuitiv per Drag-and-Drop – komplett ohne Programmierkenntnisse. Der [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) ermöglicht Ihnen, unterschiedlichste Lösungen wie CRM-, Projektmanagement- oder individuelle Business-Apps selbst zusammenzustellen, ganz ohne eine einzige Zeile Code schreiben zu müssen.'
+    text: 'Mit SeaTable erstellen Sie leistungsstarke, datenbasierte Anwendungen schnell und intuitiv per Drag-and-Drop – komplett ohne Programmierkenntnisse. Der [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) ermöglicht Ihnen, unterschiedlichste Lösungen wie CRM-, Projektmanagement- oder individuelle Business-Apps selbst zusammenzustellen, ganz ohne eine einzige Zeile Code schreiben zu müssen.'
   - headline: "Intuitive No-Code und Low-Code Benutzeroberfläche"
     text: 'Egal, ob Sie ein erfahrener Entwickler oder ein [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}) ohne Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen und Ihre Geschäftsprozesse zu digitalisieren. Starten Sie gleich hier: eigene App erstellen kostenlos.'
   image: /images/Group-38.png

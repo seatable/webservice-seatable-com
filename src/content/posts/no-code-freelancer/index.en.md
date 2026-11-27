@@ -23,7 +23,7 @@ Specialist software usually costs money and self-employed people have to weigh u
 
 ## What are no-code solutions?
 
-But let's start from the beginning: What does no-code actually mean? Simply "without code". With corresponding platforms such as SeaTable, users create **flexible, individual applications** without the need for programming knowledge. This opens up completely new options for freelancers to independently design software and databases that are precisely tailored to their specific needs. Many of these tools offer a table-based database structure with integrated [app builder]({{< relref "posts/20250318-app-erstellen" >}}) and **AI-supported automations**. Instead of endless lines of code, you work with visual interfaces and create workflows and apps intuitively via drag-and-drop.
+But let's start from the beginning: What does no-code actually mean? Simply "without code". With corresponding platforms such as SeaTable, users create **flexible, individual applications** without the need for programming knowledge. This opens up completely new options for freelancers to independently design software and databases that are precisely tailored to their specific needs. Many of these tools offer a table-based database structure with integrated [app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) and **AI-supported automations**. Instead of endless lines of code, you work with visual interfaces and create workflows and apps intuitively via drag-and-drop.
 
 If you have basic programming skills, low-code solutions are also an option. With low-code, you can customize and extend your no-code software with individual code.
 

@@ -121,7 +121,7 @@ sections:
        title: 'SeaTable als Dankbarkeitstagebuch App nutzen'
        subtitle:
        items:
-       - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit dem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) auch ein übersichtliches Frontend für Ihr persönliches digitales Dankbarkeitstagebuch. Über die integrierte App-Funktion greifen Sie bequem auf die Diary-Ansicht, Tabellenübersicht, Fotogalerie, Kalender und Ihr individuelles Dashboard zu. So nutzen Sie SeaTable als Dankbarkeitstagebuch App, passen Ihre Dankbarkeitstagebuch Vorlage an Ihre Bedürfnisse an und führen Ihre Achtsamkeitspraxis auf allen Geräten für Ihre tägliche Routine.'
+       - text: 'SeaTable liefert nicht nur die Datenbank im Hintergrund, sondern mit dem [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) auch ein übersichtliches Frontend für Ihr persönliches digitales Dankbarkeitstagebuch. Über die integrierte App-Funktion greifen Sie bequem auf die Diary-Ansicht, Tabellenübersicht, Fotogalerie, Kalender und Ihr individuelles Dashboard zu. So nutzen Sie SeaTable als Dankbarkeitstagebuch App, passen Ihre Dankbarkeitstagebuch Vorlage an Ihre Bedürfnisse an und führen Ihre Achtsamkeitspraxis auf allen Geräten für Ihre tägliche Routine.'
        image: '/images/template_page_dankbarkeitstagebuch_06.png'
        image_alt: 'Dankbarkeitstagebuch App mit persönlichem Dashboard'
 

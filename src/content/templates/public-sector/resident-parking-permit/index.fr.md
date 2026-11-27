@@ -115,7 +115,7 @@ sections:
       title: 'Du portail citoyen à la carte numérique'
       subtitle: 
       items:
-      - text: 'Avec l’[App Builder]({{< relref "posts/20250318-app-erstellen" >}}) intégré de SeaTable, vous créez facilement des **interfaces conviviales pour votre portail citoyen numérique**. Le modèle de carte de stationnement résident comprend déjà une application de saisie des demandes et une autre pour le contrôle des macarons résident. Vous pouvez également **créer des tableaux de bord flexibles** pour analyser les zones et suivre les demandes en cours. Le modèle devient ainsi un **système central de saisie, de délivrance et d’analyse des cartes de stationnement résident**, partagé par tous les services.'
+      - text: 'Avec l’[App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) intégré de SeaTable, vous créez facilement des **interfaces conviviales pour votre portail citoyen numérique**. Le modèle de carte de stationnement résident comprend déjà une application de saisie des demandes et une autre pour le contrôle des macarons résident. Vous pouvez également **créer des tableaux de bord flexibles** pour analyser les zones et suivre les demandes en cours. Le modèle devient ainsi un **système central de saisie, de délivrance et d’analyse des cartes de stationnement résident**, partagé par tous les services.'
       image: '/images/template_page_bewohnerparkausweis_07.png'
       image_alt: 'Contrôle des cartes dans l’application SeaTable : vérification par immatriculation de la validité de la carte'
 

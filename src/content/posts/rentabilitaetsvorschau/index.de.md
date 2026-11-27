@@ -193,7 +193,7 @@ Die Rentabilitätsvorschau ist ein unverzichtbares Instrument, um die finanziell
 
 Um immer die Umsätze und Kosten Ihres Unternehmens im Blick zu behalten und Gewinne oder Verluste abschätzen zu können, sollten Sie einen [Finanzplan erstellen]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}). Dafür bietet sich eine leistungsstarke Software wie [SeaTable]({{< relref "/" >}}) an.
 
-In SeaTable finden Sie alle Funktionen einer **Tabellenkalkulation** (z. B. einen benutzerfreundlichen Formel-Editor) kombiniert mit der Power einer **No-Code-Datenbank** und einem intuitiven [App Builder]({{< relref "posts/20250318-app-erstellen" >}}). So steht einer übersichtlichen Rentabilitätsvorschau nichts mehr im Weg.
+In SeaTable finden Sie alle Funktionen einer **Tabellenkalkulation** (z. B. einen benutzerfreundlichen Formel-Editor) kombiniert mit der Power einer **No-Code-Datenbank** und einem intuitiven [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}). So steht einer übersichtlichen Rentabilitätsvorschau nichts mehr im Weg.
 
 ## Häufig gestellte Fragen
 

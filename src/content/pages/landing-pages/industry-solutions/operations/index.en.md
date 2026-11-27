@@ -121,7 +121,7 @@ sections:
         image: /images/landing-page-operations-04.png
         image_alt: 'SeaTable Communication Tools for Transparent Collaboration and Task Management'
       - headline: Operations Frontend
-        text: With SeaTable's [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create your **custom operations and process management front end** with just a few clicks."
+        text: With SeaTable's [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), you can create your **custom operations and process management front end** with just a few clicks."
         image: /images/landing-page-operations-05.png
         image_alt: 'SeaTable No-Code App Builder for Customized Operations Front Ends and Process Management'
 

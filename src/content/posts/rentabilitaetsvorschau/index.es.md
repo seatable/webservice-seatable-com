@@ -193,7 +193,7 @@ La previsión de rentabilidad es una herramienta indispensable para evaluar la v
 
 Para controlar en todo momento la facturación y los costes de su empresa y poder estimar los beneficios o las pérdidas, debe elaborar [un plan financiero]({{< relref "pages/landing-pages/industry-solutions/finanzplan-erstellen" >}}). Un potente software de base de datos como [SeaTable]({{< relref "/" >}}) es ideal para ello.
 
-En SeaTable encontrará todas las funciones de una **hoja de cálculo** (por ejemplo, un editor de fórmulas fácil de usar) combinadas con la potencia de una **base de datos sin código** y un intuitivo [App Builder]({{< relref "posts/20250318-app-erstellen" >}}). Para que nada se interponga en el camino de una previsión clara de la rentabilidad.
+En SeaTable encontrará todas las funciones de una **hoja de cálculo** (por ejemplo, un editor de fórmulas fácil de usar) combinadas con la potencia de una **base de datos sin código** y un intuitivo [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}). Para que nada se interponga en el camino de una previsión clara de la rentabilidad.
 
 ## Preguntas frecuentes
 

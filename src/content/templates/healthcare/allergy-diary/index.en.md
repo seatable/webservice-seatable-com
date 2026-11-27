@@ -160,7 +160,7 @@ sections:
       title: 'Symptom trends at a glance: your allergy diary app'
       subtitle: 
       items:
-      - text: 'With SeaTable’s integrated [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}), you build the front end of your allergy diary. The dashboard shows your symptom history and your most frequent complaints – ideal for spotting patterns and preparing for your next doctor’s appointment. The pollen allergy calendar shows flight times at a glance, and new entries can be added directly via the integrated web form, without opening the base.'
+      - text: 'With SeaTable’s integrated [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), you build the front end of your allergy diary. The dashboard shows your symptom history and your most frequent complaints – ideal for spotting patterns and preparing for your next doctor’s appointment. The pollen allergy calendar shows flight times at a glance, and new entries can be added directly via the integrated web form, without opening the base.'
       image: '/images/template_page_allergy_diary-06.png'
       image_alt: 'Custom analytics dashboard in your allergy diary app showing symptom history and the most frequent complaints.'
 

@@ -147,7 +147,7 @@ sections:
        title: 'SeaTable como app para la procrastinación'
        subtitle:
        items:
-       - text: 'SeaTable no solo le ofrece la base de datos no-code en segundo plano, sino también, con el [creador de apps no-code]({{< relref "posts/20250318-app-erstellen" >}}), un frontend claro para su app para la procrastinación. Con la función de app integrada crea apps independientes para cada base y accede cómodamente a la vista de calendario, las barras de progreso, la vista de tablas y el dashboard. Así configura su propia app para la procrastinación en smartphone, tableta y PC y adapta sus plantillas en cualquier momento a nuevas necesidades, sin programar y sin cambiar de herramienta.'
+       - text: 'SeaTable no solo le ofrece la base de datos no-code en segundo plano, sino también, con el [creador de apps no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), un frontend claro para su app para la procrastinación. Con la función de app integrada crea apps independientes para cada base y accede cómodamente a la vista de calendario, las barras de progreso, la vista de tablas y el dashboard. Así configura su propia app para la procrastinación en smartphone, tableta y PC y adapta sus plantillas en cualquier momento a nuevas necesidades, sin programar y sin cambiar de herramienta.'
        image: '/images/template_page_procrastination_05.png'
        image_alt: 'App para la procrastinación creada con el creador de apps no-code de SeaTable, con un dashboard individual'
 

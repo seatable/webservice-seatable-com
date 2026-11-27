@@ -89,7 +89,7 @@ sections:
             image: /images/landing-page-it-03.png
             image_alt: 'Registos de alterações do SeaTable para controlo de versões e trilhos de auditoria no ITSM'
           - headline: Aplicação de Gestão de Serviços de TI
-            text: Com o [No-Code-App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) da SeaTable, é possível criar aplicações baseadas na web sem nenhum conhecimento de programação. Numa aplicação ITSM deste tipo, pode controlar especificamente quem na sua equipa de TI pode ver quais tickets, incidentes ou pedidos de serviço e como estes são visualizados de forma clara.
+            text: Com o [No-Code-App-Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) da SeaTable, é possível criar aplicações baseadas na web sem nenhum conhecimento de programação. Numa aplicação ITSM deste tipo, pode controlar especificamente quem na sua equipa de TI pode ver quais tickets, incidentes ou pedidos de serviço e como estes são visualizados de forma clara.
             image: /images/landing-page-it-04.png
             image_alt: 'Aplicação de gestão de projetos SeaTable para fluxos de trabalho de gestão de serviços de TI baseados na web'
 

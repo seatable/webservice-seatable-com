@@ -103,7 +103,7 @@ sections:
             image_alt: 'Opções do SeaTable para automatizações e IA'
 
           - headline: 'Aplicações intuitivas'
-            text: Com o SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), pode criar facilmente aplicações intuitivas. Os colaboradores familiarizam-se rapidamente com elas, o que aumenta a aceitação e torna a digitalização mais eficiente. Otimize os seus processos administrativos e **cumpra os requisitos modernos de uma administração digital**.
+            text: Com o SeaTable [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), pode criar facilmente aplicações intuitivas. Os colaboradores familiarizam-se rapidamente com elas, o que aumenta a aceitação e torna a digitalização mais eficiente. Otimize os seus processos administrativos e **cumpra os requisitos modernos de uma administração digital**.
             image: /images/landing-page-oeffentlicher-dienst-03.png
             image_alt: 'Aplicação SeaTable Universal para aplicações de gestão intuitivas'
 

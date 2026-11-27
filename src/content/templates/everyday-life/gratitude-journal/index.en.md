@@ -121,7 +121,7 @@ sections:
        title: 'Use SeaTable as a gratitude journal app'
        subtitle:
        items:
-       - text: 'SeaTable not only provides the database in the background, but also—with the [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}})—a user-friendly front end for your personal digital gratitude journal. Using the built-in app feature, you can easily access the diary view, table overview, photo gallery, calendar, and your personalized dashboard. Here’s how to use SeaTable as a gratitude journal app: customize your gratitude journal template to suit your needs and incorporate your mindfulness practice into your daily routine across all your devices.'
+       - text: 'SeaTable not only provides the database in the background, but also—with the [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}})—a user-friendly front end for your personal digital gratitude journal. Using the built-in app feature, you can easily access the diary view, table overview, photo gallery, calendar, and your personalized dashboard. Here’s how to use SeaTable as a gratitude journal app: customize your gratitude journal template to suit your needs and incorporate your mindfulness practice into your daily routine across all your devices.'
        image: '/images/template_page_dankbarkeitstagebuch_06.png'
        image_alt: 'Gratitude Journal App with a Personal Dashboard'
 

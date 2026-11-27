@@ -142,7 +142,7 @@ sections:
       title: FAQs – SeaTable as a Microsoft Lists Alternative 
       items:
           - q: 'What features does SeaTable offer?'
-            a: 'SeaTable offers a wide range of features for transparent [data management]({{< relref "posts/20250317-datenmanagement" >}}) in real-time. Whether it’s automations, AI-powered workflows, notifications, our [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), or reporting dashboards: SeaTable is fully customizable to your needs, available both as a Cloud and On-Premises solution.'
+            a: 'SeaTable offers a wide range of features for transparent [data management]({{< relref "posts/20250317-datenmanagement" >}}) in real-time. Whether it’s automations, AI-powered workflows, notifications, our [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), or reporting dashboards: SeaTable is fully customizable to your needs, available both as a Cloud and On-Premises solution.'
 
           - q: 'Is SeaTable really free to use?'
             a: 'Yes, you can use the SeaTable Free Plan indefinitely. For advanced features, AI credits, and increased storage, we offer affordable premium versions.'

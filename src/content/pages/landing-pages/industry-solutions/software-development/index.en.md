@@ -89,7 +89,7 @@ sections:
             image: /images/landing-page-it-04.png
             image_alt: 'SeaTable change logs for versioning and audit trails in ITSM'
           - headline: IT Service Management App
-            text: With SeaTable's [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}), you can create web-based apps without any programming knowledge. In an ITSM app like this, you can control who in your IT team can see which tickets, incidents, or service requests and how they are clearly visualized.
+            text: With SeaTable's [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), you can create web-based apps without any programming knowledge. In an ITSM app like this, you can control who in your IT team can see which tickets, incidents, or service requests and how they are clearly visualized.
             image: /images/landing-page-it-05.png
             image_alt: 'SeaTable project management app for web-based IT service management workflows'
 

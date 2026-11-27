@@ -116,7 +116,7 @@ sections:
   - curved
   items:
   - headline: "Constructor de aplicaciones No-code intuitivo"
-    text: 'Con SeaTable, usted puede crear aplicaciones potentes basadas en datos de forma rápida mediante "arrastrar y soltar". Nuestro [constructor de apps no-code]({{< relref "posts/20250318-app-erstellen" >}}) le permite configurar soluciones como CRM o gestión de proyectos por sí mismo, sin escribir código.'
+    text: 'Con SeaTable, usted puede crear aplicaciones potentes basadas en datos de forma rápida mediante "arrastrar y soltar". Nuestro [constructor de apps no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) le permite configurar soluciones como CRM o gestión de proyectos por sí mismo, sin escribir código.'
 
   - headline: "Interfaz intuitiva No-code y Low-code"
     text: 'Ya sea un desarrollador experimentado o un [citizen developer]({{< relref "posts/20250317-citizen-developer" >}}) sin experiencia técnica, nuestras herramientas están diseñadas para digitalizar sus procesos de negocio. Comience hoy mismo: cree su propia aplicación de forma gratuita.'

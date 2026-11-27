@@ -104,7 +104,7 @@ sections:
             image_alt: 'Opciones de SeaTable para la automatización y la inteligencia artificial'
 
           - headline: 'Aplicaciones fáciles de usar'
-            text: Con SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), puede crear fácilmente aplicaciones fáciles de usar. Los empleados se familiarizan rápidamente con ellas, lo que aumenta su aceptación y hace que la digitalización sea más eficiente. Optimice sus procesos administrativos y **cumpla con los requisitos modernos de la administración digital**.
+            text: Con SeaTable [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), puede crear fácilmente aplicaciones fáciles de usar. Los empleados se familiarizan rápidamente con ellas, lo que aumenta su aceptación y hace que la digitalización sea más eficiente. Optimice sus procesos administrativos y **cumpla con los requisitos modernos de la administración digital**.
             image: /images/landing-page-oeffentlicher-dienst-03.png
             image_alt: 'Aplicación SeaTable Universal para aplicaciones de gestión fáciles de usar'
 

@@ -115,7 +115,7 @@ sections:
       title: 'Do portal do cidadão ao dístico digital'
       subtitle: 
       items:
-      - text: 'Com o [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) integrado da SeaTable, cria com pouco esforço **interfaces intuitivas para o seu portal digital do cidadão**. O modelo de dístico de residente já inclui uma app para o registo de pedidos e outra para a fiscalização dos cartões de estacionamento para residentes. Pode ainda **criar dashboards flexíveis** para analisar as zonas de estacionamento e acompanhar os pedidos em aberto. Assim, o modelo torna-se um **sistema central para registar, emitir e analisar dísticos de residente**, partilhado por todos os serviços.'
+      - text: 'Com o [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrado da SeaTable, cria com pouco esforço **interfaces intuitivas para o seu portal digital do cidadão**. O modelo de dístico de residente já inclui uma app para o registo de pedidos e outra para a fiscalização dos cartões de estacionamento para residentes. Pode ainda **criar dashboards flexíveis** para analisar as zonas de estacionamento e acompanhar os pedidos em aberto. Assim, o modelo torna-se um **sistema central para registar, emitir e analisar dísticos de residente**, partilhado por todos os serviços.'
       image: '/images/template_page_bewohnerparkausweis_07.png'
       image_alt: 'Fiscalização de dísticos na app SeaTable: os fiscais verificam pela matrícula se existe um dístico válido'
 

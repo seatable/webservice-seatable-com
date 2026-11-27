@@ -105,7 +105,7 @@ sections:
             image_alt: 'SeaTable Options for Automation and AI'
 
           - headline: 'User-Friendly Apps'
-            text: With SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}), you can easily create user-friendly apps. Employees can quickly find their way around, which increases acceptance and makes digitization more efficient. Optimize your administrative processes and **meet modern requirements for digital administration**.
+            text: With SeaTable [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), you can easily create user-friendly apps. Employees can quickly find their way around, which increases acceptance and makes digitization more efficient. Optimize your administrative processes and **meet modern requirements for digital administration**.
             image: /images/landing-page-oeffentlicher-dienst-03.png
             image_alt: 'SeaTable Universal App for User-Friendly Management Applications'
 

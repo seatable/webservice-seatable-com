@@ -115,7 +115,7 @@ sections:
       title: 'Your cleaning schedule app template'
       subtitle: 
       items:
-      - text: 'SeaTable does not only deliver the database in the background, but with the [no-code app]({{< relref "posts/20250318-app-erstellen" >}}) also a clear front end for your household. Through the integrated app function, you conveniently access the task list, responsibilities, calendar and completion status. In combination with a [budget book]({{< relref "templates/everyday-life/budget-book" >}}), you keep track not only of tasks, but also of expenses for cleaning supplies and household needs. You can therefore use this cleaning schedule template as a flexible cleaning schedule app on all devices and plan your budget for cleaning products more precisely at the same time.'
+      - text: 'SeaTable does not only deliver the database in the background, but with the [no-code app]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) also a clear front end for your household. Through the integrated app function, you conveniently access the task list, responsibilities, calendar and completion status. In combination with a [budget book]({{< relref "templates/everyday-life/budget-book" >}}), you keep track not only of tasks, but also of expenses for cleaning supplies and household needs. You can therefore use this cleaning schedule template as a flexible cleaning schedule app on all devices and plan your budget for cleaning products more precisely at the same time.'
       image: '/images/template_page_putzplan_06.png'
       image_alt: 'Cleaning schedule app with individually adjustable views for tasks, responsibilities and completion status'
 

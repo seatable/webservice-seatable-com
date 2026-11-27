@@ -121,7 +121,7 @@ sections:
       title: 'Your bird watching app template'
       subtitle: 
       items:
-      - text: 'SeaTable does not just provide the database in the background: with the [no-code app]({{< relref "posts/20250318-app-erstellen" >}}) it also delivers a clear frontend for your personal bird app. Via the integrated app function, you conveniently access your species list, sightings log, gallery view and map views. This way you can identify native birds, open photos of native birds instantly and maintain your entire photo documentation on all devices, whether at home or out in the field.'
+      - text: 'SeaTable does not just provide the database in the background: with the [no-code app]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) it also delivers a clear frontend for your personal bird app. Via the integrated app function, you conveniently access your species list, sightings log, gallery view and map views. This way you can identify native birds, open photos of native birds instantly and maintain your entire photo documentation on all devices, whether at home or out in the field.'
       image: '/images/template_page_birdwatching_06.png'
       image_alt: 'Bird watching app with fully customizable dashboards for species lists, sightings and photo galleries'      
 

@@ -120,7 +120,7 @@ sections:
       title: 'Your Personalized Book Journal App'
       subtitle: 
       items:
-      - text: 'With the [no-code app]({{< relref "posts/20250318-app-erstellen" >}}) built into SeaTable, you create a clear, user-friendly front end for your very own digital book journal. Through the app you conveniently access your collection, your reading log, your reviews and your quotes, on your computer as well as on your phone. This combines a digital bookshelf with a reading tracker and an author overview – ideal for avid readers, book clubs and Bookstagrammers. And all of it without a single line of code: the app is built from your existing tables and can be adjusted whenever your reading habits change.'
+      - text: 'With the [no-code app]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) built into SeaTable, you create a clear, user-friendly front end for your very own digital book journal. Through the app you conveniently access your collection, your reading log, your reviews and your quotes, on your computer as well as on your phone. This combines a digital bookshelf with a reading tracker and an author overview – ideal for avid readers, book clubs and Bookstagrammers. And all of it without a single line of code: the app is built from your existing tables and can be adjusted whenever your reading habits change.'
       image: '/images/template_page_bookjournal_06.png'
       image_alt: 'Custom book journal app created with the no-code App Builder from SeaTable, including a gallery view'      
 

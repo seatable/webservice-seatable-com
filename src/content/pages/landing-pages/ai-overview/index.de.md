@@ -31,7 +31,7 @@ sections:
             link: help/ai/ai-chat/introduction
           - headline: KI-App-Builder
             text: 'HTML-Seiten für Ihre SeaTable App im Dialog mit der KI erstellen – per Beschreibung statt per Code.'
-            link: posts/20250318-app-erstellen
+            link: pages/landing-pages/use-cases/no-code-app-builder
           - headline: MCP und KI-Agenten
             text: 'ChatGPT, Claude, Claude Code oder Cursor über den SeaTable MCP Server mit Ihren Bases verbinden.'
             link: posts/mcp-server
@@ -118,7 +118,7 @@ sections:
       image_alt: 'HTML-Seite mit KI im SeaTable App Builder erstellen'
       buttons:
           - label: Mehr zum No-Code App Builder
-            link: 'posts/20250318-app-erstellen'
+            link: 'pages/landing-pages/use-cases/no-code-app-builder'
 
     - name: content-1
       weight: 7

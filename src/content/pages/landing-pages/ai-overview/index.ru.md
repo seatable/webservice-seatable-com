@@ -31,7 +31,7 @@ sections:
             link: help/ai/ai-chat/introduction
           - headline: ИИ-конструктор приложений
             text: 'Создавайте HTML-страницы для своего приложения SeaTable в диалоге с ИИ – по описанию, а не с помощью кода.'
-            link: posts/20250318-app-erstellen
+            link: pages/landing-pages/use-cases/no-code-app-builder
           - headline: MCP и ИИ-агенты
             text: 'Подключайте ChatGPT, Claude, Claude Code или Cursor к своим базам через SeaTable MCP Server.'
             link: posts/mcp-server
@@ -118,7 +118,7 @@ sections:
       image_alt: 'Создание HTML-страницы с помощью ИИ в конструкторе приложений SeaTable'
       buttons:
           - label: Подробнее о no-code конструкторе приложений
-            link: 'posts/20250318-app-erstellen'
+            link: 'pages/landing-pages/use-cases/no-code-app-builder'
 
     - name: content-1
       weight: 7

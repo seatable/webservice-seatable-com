@@ -119,7 +119,7 @@ sections:
       title: Interface claire pour votre CRM
       subtitle: 
       items:
-      - text: Créez facilement votre propre interface CRM personnalisée grâce au [générateur d'applications no-code]({{< relref "posts/20250318-app-erstellen" >}}) intégré à SeaTable. Notre programme CRM gratuit comprend déjà une application CRM personnalisable. Il vous suffit d'adapter le formulaire de transaction, le formulaire de contact ou les profils clients à vos besoins. Créez un **guide personnalis**é** à l'aide de la page personnalisée ou utilisez la page de requête pour développer votre programme CRM et votre base de connaissances. Le tableau de bord contient déjà des statistiques prêtes à l'emploi que vous pouvez également personnaliser et compléter pour **suivre et évaluer vos activités**.
+      - text: Créez facilement votre propre interface CRM personnalisée grâce au [générateur d'applications no-code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) intégré à SeaTable. Notre programme CRM gratuit comprend déjà une application CRM personnalisable. Il vous suffit d'adapter le formulaire de transaction, le formulaire de contact ou les profils clients à vos besoins. Créez un **guide personnalis**é** à l'aide de la page personnalisée ou utilisez la page de requête pour développer votre programme CRM et votre base de connaissances. Le tableau de bord contient déjà des statistiques prêtes à l'emploi que vous pouvez également personnaliser et compléter pour **suivre et évaluer vos activités**.
       image: '/images/template_page_crm_07.png'
       image_alt: 'Application CRM avec menu et tableau de bord.'
 

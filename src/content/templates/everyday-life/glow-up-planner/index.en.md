@@ -122,7 +122,7 @@ sections:
        title: 'Your glow up app as a selfcare frontend'
        subtitle:
        items:
-       - text: 'With SeaTable''s integrated [no-code app builder]({{< relref "posts/20250318-app-erstellen" >}}) you create a clear frontend for your glow up journey. Build individual dashboards and conveniently access your checklist, routines, vision board, fitness overview, nutrition planning and habit tracking. This lets you create new entries, edit checklists and habit trackers and visualise improvements – from the first small change to your long-term glow up. Everything stays in one place, on your desktop as well as on your smartphone.'
+       - text: 'With SeaTable''s integrated [no-code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) you create a clear frontend for your glow up journey. Build individual dashboards and conveniently access your checklist, routines, vision board, fitness overview, nutrition planning and habit tracking. This lets you create new entries, edit checklists and habit trackers and visualise improvements – from the first small change to your long-term glow up. Everything stays in one place, on your desktop as well as on your smartphone.'
        image: '/images/template_page_glow-up-planner_06.png'
        image_alt: 'Glow up planner app with a dashboard: personal goals for fitness, nutrition, skincare, style and mindset'
 

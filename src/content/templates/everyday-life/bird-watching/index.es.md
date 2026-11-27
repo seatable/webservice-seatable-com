@@ -121,7 +121,7 @@ sections:
       title: 'Su plantilla de app de observación de aves'
       subtitle: 
       items:
-      - text: 'SeaTable no solo aporta la base de datos en segundo plano, sino que con la [No-Code App]({{< relref "posts/20250318-app-erstellen" >}}) también ofrece un frontend claro para su app de aves personal. A través de la función de app integrada accede cómodamente a la lista de especies, el cuaderno de avistamientos, la vista de galería y las vistas de mapa. Así puede identificar aves autóctonas, abrir al instante fotos de aves autóctonas y mantener toda su documentación fotográfica en todos sus dispositivos.'
+      - text: 'SeaTable no solo aporta la base de datos en segundo plano, sino que con la [No-Code App]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) también ofrece un frontend claro para su app de aves personal. A través de la función de app integrada accede cómodamente a la lista de especies, el cuaderno de avistamientos, la vista de galería y las vistas de mapa. Así puede identificar aves autóctonas, abrir al instante fotos de aves autóctonas y mantener toda su documentación fotográfica en todos sus dispositivos.'
       image: '/images/template_page_birdwatching_06.png'
       image_alt: 'App de observación de aves con paneles totalmente personalizables según las necesidades de cada usuario'      
 

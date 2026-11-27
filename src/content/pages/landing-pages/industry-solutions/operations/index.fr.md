@@ -123,7 +123,7 @@ sections:
         image: /images/landing-page-operations-04.png
         image_alt: 'Outils de communication SeaTable pour une collaboration transparente et la gestion des tâches'
       - headline: Opérations - Interface utilisateur
-        text: Grâce au [générateur d'applications sans code]({{< relref "posts/20250318-app-erstellen" >}}) de SeaTable, vous pouvez créer en quelques clics votre **interface personnalisée de gestion des opérations et des processus.**"
+        text: Grâce au [générateur d'applications sans code]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) de SeaTable, vous pouvez créer en quelques clics votre **interface personnalisée de gestion des opérations et des processus.**"
         image: /images/landing-page-operations-05.png
         image_alt: "SeaTable, un générateur d'applications « no-code » pour des interfaces opérationnelles personnalisées et la gestion des processus"
 

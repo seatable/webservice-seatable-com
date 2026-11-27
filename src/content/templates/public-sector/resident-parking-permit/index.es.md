@@ -115,7 +115,7 @@ sections:
       title: 'Del portal ciudadano a la tarjeta digital'
       subtitle: 
       items:
-      - text: 'Con el [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) integrado de SeaTable, cree con poco esfuerzo **interfaces fáciles de usar para su portal ciudadano digital**. La plantilla de tarjeta de estacionamiento para residentes ya incluye una app para registrar solicitudes y otra para controlar los distintivos de residente. Además, puede **crear paneles flexibles** para analizar las zonas y seguir las solicitudes abiertas. Así, la plantilla se convierte en un **sistema central para registrar, expedir y evaluar tarjetas de estacionamiento para residentes**, compartido por todos los departamentos.'
+      - text: 'Con el [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) integrado de SeaTable, cree con poco esfuerzo **interfaces fáciles de usar para su portal ciudadano digital**. La plantilla de tarjeta de estacionamiento para residentes ya incluye una app para registrar solicitudes y otra para controlar los distintivos de residente. Además, puede **crear paneles flexibles** para analizar las zonas y seguir las solicitudes abiertas. Así, la plantilla se convierte en un **sistema central para registrar, expedir y evaluar tarjetas de estacionamiento para residentes**, compartido por todos los departamentos.'
       image: '/images/template_page_bewohnerparkausweis_07.png'
       image_alt: 'Control de tarjetas en la app de SeaTable: los agentes comprueban por matrícula si existe una tarjeta válida'
 

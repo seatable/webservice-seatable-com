@@ -77,7 +77,7 @@ As [listas de tarefas]({{< relref "posts/to-do-liste-online" >}}) individuais, o
 
 ### Como pode configurar uma gestão de tarefas eficiente com o no-code?
 
-As soluções no-code, como o SeaTable, oferecem **automatizações integradas com IA**, um [app builder]({{< relref "posts/20250318-app-erstellen" >}}) e uma integração perfeita de software externo. Assim, pode
+As soluções no-code, como o SeaTable, oferecem **automatizações integradas com IA**, um [app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) e uma integração perfeita de software externo. Assim, pode
 
 * criar um **quadro de tarefas centralizado com diferentes vistas** para gestores de departamento, gestores de projectos e funcionários.  
     

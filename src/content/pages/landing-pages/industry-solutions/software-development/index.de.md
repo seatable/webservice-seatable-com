@@ -86,7 +86,7 @@ sections:
             image: /images/landing-page-it-04.png
             image_alt: 'SeaTable Änderungsprotokolle für Versionierung und Audit-Trails im ITSM'
           - headline: IT Service Management App
-            text: Mit dem [No-Code-App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) von SeaTable erstellen Sie webbasierte Apps – ganz ohne Programmierkenntnisse. In einer solchen ITSM-App können Sie gezielt steuern, wer in Ihrem IT-Team welche Tickets, Incidents oder Service-Requests sehen kann und wie diese übersichtlich visualisiert werden.
+            text: Mit dem [No-Code-App-Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) von SeaTable erstellen Sie webbasierte Apps – ganz ohne Programmierkenntnisse. In einer solchen ITSM-App können Sie gezielt steuern, wer in Ihrem IT-Team welche Tickets, Incidents oder Service-Requests sehen kann und wie diese übersichtlich visualisiert werden.
             image: /images/landing-page-it-05.png
             image_alt: 'SeaTable Projektmanagement App für webbasierte IT Service Management Workflows'
 

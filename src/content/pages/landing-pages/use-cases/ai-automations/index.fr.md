@@ -141,7 +141,7 @@ sections:
       title: Automatisation par IA et no-code app builder 
       subtitle: Interface flexible pour une convivialité optimale
       items:
-          - text: Utilisez le [no‑code app builder]({{< relref "posts/20250318-app-erstellen" >}}) intégré à SeaTable pour permettre une saisie de données structurée et simplifiée pour vos automatisations IA. L'App Builder vous permet de créer des formulaires personnalisés pour enregistrer les demandes, les projets, les tickets de service ou les factures et d'inscrire le contenu dans des champs précisément définis de votre base de données. Vous obtenez ainsi, avec un minimum d'effort, **des données parfaitement préparées pour l'extraction, la classification ou la synthèse par l'IA**.
+          - text: Utilisez le [no‑code app builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) intégré à SeaTable pour permettre une saisie de données structurée et simplifiée pour vos automatisations IA. L'App Builder vous permet de créer des formulaires personnalisés pour enregistrer les demandes, les projets, les tickets de service ou les factures et d'inscrire le contenu dans des champs précisément définis de votre base de données. Vous obtenez ainsi, avec un minimum d'effort, **des données parfaitement préparées pour l'extraction, la classification ou la synthèse par l'IA**.
       image: /images/landing_page_ki-automatisierung_07.png
       image_position: left
       image_alt: "SeaTable App Builder pour des masques de saisie de données intuitifs et des processus d'IA rapides"     

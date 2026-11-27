@@ -160,7 +160,7 @@ sections:
       title: 'Symptomverläufe auf einen Blick: Ihre Allergie-Tagebuch App'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integriertem [No-Code App Builder]({{< relref "posts/20250318-app-erstellen" >}}) entsteht das Frontend Ihres Allergietagebuchs. Das Dashboard zeigt Ihren Symptomverlauf und Ihre häufigsten Beschwerden – ideal, um Muster zu erkennen und sich auf den nächsten Arzttermin vorzubereiten. Der Pollenallergie-Kalender zeigt Flugzeiten auf einen Blick, und neue Einträge lassen sich direkt über das integrierte Webformular anlegen, ohne die Base zu öffnen.'
+      - text: 'Mit SeaTables integriertem [No-Code App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) entsteht das Frontend Ihres Allergietagebuchs. Das Dashboard zeigt Ihren Symptomverlauf und Ihre häufigsten Beschwerden – ideal, um Muster zu erkennen und sich auf den nächsten Arzttermin vorzubereiten. Der Pollenallergie-Kalender zeigt Flugzeiten auf einen Blick, und neue Einträge lassen sich direkt über das integrierte Webformular anlegen, ohne die Base zu öffnen.'
       image: '/images/template_page_allergy_diary-06.png'
       image_alt: 'Individuelles Analyse-Dashboard in Ihrer Allergie-Tagebuch-App.'
 

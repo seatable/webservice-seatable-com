@@ -119,7 +119,7 @@ sections:
       title: 'Ihre individuelle Buchjournal-App'
       subtitle: 
       items:
-      - text: 'Mit SeaTables integrierter [No-Code App]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie ein benutzerfreundliches, klares Frontend für Ihr ganz persönliches digitales Buchjournal. Über die App greifen Sie bequem auf Sammlung, Lesetagebuch, Rezensionen und Zitate zu. So kombinieren Sie ein digitales Bücherregal mit einem Lese-Tracker und einer Autorenübersicht – ideal für Vielleser, Lesekreise und Bookstagrammer.'
+      - text: 'Mit SeaTables integrierter [No-Code App]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) erstellen Sie ein benutzerfreundliches, klares Frontend für Ihr ganz persönliches digitales Buchjournal. Über die App greifen Sie bequem auf Sammlung, Lesetagebuch, Rezensionen und Zitate zu. So kombinieren Sie ein digitales Bücherregal mit einem Lese-Tracker und einer Autorenübersicht – ideal für Vielleser, Lesekreise und Bookstagrammer.'
       image: '/images/template_page_bookjournal_06.png'
       image_alt: 'Individuelle Book Journal App mit SeaTables No-Code App Builder.'      
 

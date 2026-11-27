@@ -100,7 +100,7 @@ sections:
             image_alt: 'SeaTable Optionen für Automatisierungen und KI'
 
           - headline: 'Benutzerfreundliche Apps'
-            text: Mit dem SeaTable [App Builder]({{< relref "posts/20250318-app-erstellen" >}}) erstellen Sie mühelos benutzerfreundliche Apps. Mitarbeiter finden sich schnell zurecht, was die Akzeptanz steigert und die Digitalisierung effizienter macht. Optimieren Sie Ihre Verwaltungsprozesse und **erfüllen Sie moderne Anforderungen an eine digitale Verwaltung**.
+            text: Mit dem SeaTable [App Builder]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}) erstellen Sie mühelos benutzerfreundliche Apps. Mitarbeiter finden sich schnell zurecht, was die Akzeptanz steigert und die Digitalisierung effizienter macht. Optimieren Sie Ihre Verwaltungsprozesse und **erfüllen Sie moderne Anforderungen an eine digitale Verwaltung**.
             image: /images/landing-page-oeffentlicher-dienst-03.png
             image_alt: 'SeaTable Universal App für benutzerfreundliche Verwaltungsanwendungen'
 

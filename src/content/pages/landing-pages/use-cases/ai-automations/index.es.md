@@ -141,7 +141,7 @@ sections:
       title: Automatización con IA y creador de aplicaciones no-code 
       subtitle: Interfaz flexible para una máxima facilidad de uso
       items:
-          - text: Utilice el [creador de aplicaciones no-code integrado de SeaTable]({{< relref "posts/20250318-app-erstellen" >}}), para permitir entradas de datos con una estructura sencilla para sus automatizaciones de IA. Con el creador de aplicaciones, puede crear formularios personalizados para registrar solicitudes, proyectos, tickets de servicio o facturas y escribir el contenido en campos definidos con precisión en su base de datos. De este modo, con poco esfuerzo, obtendrá datos preparados de forma ideal para la extracción, clasificación o resumen de IA.
+          - text: Utilice el [creador de aplicaciones no-code integrado de SeaTable]({{< relref "pages/landing-pages/use-cases/no-code-app-builder" >}}), para permitir entradas de datos con una estructura sencilla para sus automatizaciones de IA. Con el creador de aplicaciones, puede crear formularios personalizados para registrar solicitudes, proyectos, tickets de servicio o facturas y escribir el contenido en campos definidos con precisión en su base de datos. De este modo, con poco esfuerzo, obtendrá datos preparados de forma ideal para la extracción, clasificación o resumen de IA.
       image: /images/landing_page_ki-automatisierung_07.png
       image_position: left
       image_alt: 'SeaTable App Builder para máscaras de entrada de datos intuitivas y procesos rápidos de IA'     
