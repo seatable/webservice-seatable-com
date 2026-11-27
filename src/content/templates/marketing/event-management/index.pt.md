@@ -6,6 +6,8 @@ lastmod: '2026-04-27'
 url: '/pt/modelo/modelo-planejamento-eventos'
 aliases:
     - '/pt/modelo/event-management'
+    - '/pt/modelo/registro-convidados'
+    - '/pt/modelo/guest-registration/'
 category: 'ereignisse'
 functions:
 seo:
@@ -106,7 +108,25 @@ sections:
         text: 'Através das suas próprias tabelas, pode gerir a lista de participantes, oradores, expositores e prestadores de serviços e associá-los aos seus eventos. As inscrições efetuadas através de formulários web são direcionadas diretamente para o modelo de planeamento do evento, enquanto que, através de visualizações personalizadas, pode filtrar grupos de participantes, gerir bilhetes ou coordenar os horários dos oradores.'
         image: '/images/template_page_veranstaltung_planen_05.png'
         image_alt: 'Visão geral dos participantes e prestadores de serviços com eventos associados no SeaTable'
-            
+    
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Dois modelos para a gestão dos seus eventos'
+      subtitle: 'Planeamento de eventos e registo de convidados'
+      text: "Experimente estas duas plantilhas agora mesmo: a plantilha de planeamento do evento, que abrange todos os processos organizacionais e a gestão dos convidados, bem como a plantilha de registo de convidados, para contabilizar as pessoas que efetivamente comparecem."
+      items:
+      - headline: "Gestão de eventos"
+        text: 'Organize o local, os participantes, o programa e os custos numa visão geral centralizada, que inclua uma lista de verificação e um calendário.'
+        id: bb4d007014a64a18be06
+        submit: Utilizar o modelo de gestão de eventos
+      - headline: 'Registo de visitantes'
+        text: "Crie um formulário de inscrição para os convidados com um código QR e registe todos os participantes confirmados através de um formulário online."
+        id: 25c5b08db4184d6dbc3e
+        submit: "Utilize o formulário de registo de visitantes"
+
     - name: "content-6"
       weight: 12
       classes:

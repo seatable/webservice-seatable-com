@@ -8,6 +8,9 @@ aliases:
     - '/fr/modeles/événements/'
     - '/fr/modele/event-management'
     - '/fr/modele/gestion-evenements'
+    - '/fr/modele/enregistrement-invites'
+    - '/fr/modele/guest-registration/'
+category: 'healthcare'
 category: 'ereignisse'
 functions:
 seo:
@@ -108,7 +111,25 @@ sections:
         text: 'Dans des tableaux dédiés, vous gérez liste des participants, intervenants, exposants et prestataires, puis les reliez à vos événements. Les inscriptions via formulaires web sont ajoutées automatiquement au modèle, tandis que des vues filtrées vous aident à segmenter les groupes de participants, gérer les billets et coordonner les créneaux des intervenants.'
         image: '/images/template_page_veranstaltung_planen_05.png'
         image_alt: 'Aperçu des participants et des prestataires avec les événements associés dans SeaTable'
-            
+    
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Deux modèles pour la gestion de vos événements'
+      subtitle: 'Planification des événements et enregistrement des invités'
+      text: "Essayez ces deux modèles dès maintenant : le modèle de planification de l'événement pour l'ensemble des processus organisationnels et la gestion des invités, ainsi que le modèle d'enregistrement des invités pour recenser les personnes effectivement présentes."
+      items:
+      - headline: "Gestion d'événements"
+        text: 'Planifiez le lieu, les participants, le programme et les coûts dans un aperçu centralisé, comprenant une liste de contrôle et un calendrier.'
+        id: bb4d007014a64a18be06
+        submit: Utiliser le modèle de gestion d'événements
+      - headline: 'Enregistrement des visiteurs'
+        text: "Créez un formulaire d'inscription des invités avec un code QR et enregistrez tous les participants effectifs via un formulaire en ligne."
+        id: 25c5b08db4184d6dbc3e
+        submit: "Utiliser le modèle d'enregistrement des visiteurs"
+
     - name: "content-6"
       weight: 12
       classes:

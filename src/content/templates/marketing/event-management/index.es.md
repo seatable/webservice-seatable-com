@@ -6,6 +6,8 @@ lastmod: '2026-04-27'
 url: '/es/plantillas/plantilla-planificacion-eventos'
 aliases:
     - '/es/plantillas/gestion-eventos'
+    - '/es/plantilla/registro-invitados'
+    - '/es/plantilla/guest-registration/'
 category: 'ereignisse'
 functions:
 seo:
@@ -107,6 +109,24 @@ sections:
         image: '/images/template_page_veranstaltung_planen_05.png'
         image_alt: 'Resumen de participantes y proveedores con eventos relacionados en SeaTable'
             
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Dos modelos para la gestión de sus eventos'
+      subtitle: 'Planificación de eventos y registro de invitados'
+      text: "Pruebe estas dos plantillas ahora mismo: la plantilla de planificación del evento, que abarca todos los procesos organizativos y la gestión de los invitados, así como la plantilla de registro de invitados, para contabilizar a las personas que realmente asisten."
+      items:
+      - headline: "Gestión de eventos"
+        text: 'Planifique el lugar, los participantes, el programa y los costes en una vista general centralizada, que incluya una lista de comprobación y un calendario.'
+        id: bb4d007014a64a18be06
+        submit: Utilizar el modelo de gestión de eventos
+      - headline: 'Registro de visitantes'
+        text: "Cree un formulario de inscripción para los invitados con un código QR y registre a todos los participantes confirmados a través de un formulario en línea."
+        id: 25c5b08db4184d6dbc3e
+        submit: "Utilice el formulario de registro de visitantes"
+    
     - name: "content-6"
       weight: 12
       classes:

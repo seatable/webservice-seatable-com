@@ -7,6 +7,7 @@ url: '/template/event-planning-template'
 aliases:
     - '/event-management/'
     - '/template/event-management'
+    - '/template/guest-registration'
 category: 'events'
 functions:
 seo:
@@ -107,7 +108,25 @@ sections:
         text: 'You can use custom tables to manage attendee lists, speakers, exhibitors, and service providers, and link them to your events. Registrations submitted via web forms are automatically added to the event planning template, while custom views let you filter attendee groups, manage tickets, or coordinate speaker slots.'
         image: '/images/template_page_veranstaltung_planen_05.png'
         image_alt: 'Overview of participants and service providers with linked events in SeaTable'
-            
+    
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Two Models for Managing Your Events'
+      subtitle: 'Event Planning and Guest Registration'
+      text: "Try these two templates right now: the event planning template, which covers all organizational processes and guest management, and the guest registration template, for keeping track of who actually attends."
+      items:
+      - headline: "Event Management"
+        text: 'Plan the venue, participants, program, and costs in a centralized overview that includes a checklist and a calendar.'
+        id: bb4d007014a64a18be06
+        submit: Use the event management model
+      - headline: 'Visitor Log'
+        text: "Create a registration form for guests with a QR code and register all confirmed participants via an online form."
+        id: 25c5b08db4184d6dbc3e
+        submit: "Please use the visitor registration form"
+
     - name: "content-6"
       weight: 12
       classes:
