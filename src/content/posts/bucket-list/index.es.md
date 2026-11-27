@@ -176,7 +176,7 @@ Hacer el bien es un objetivo que no sólo enriquece la vida de quienes le rodean
 - Asistir juntos a una clase de baile
 - Mudarse a un piso compartido
 - [Casarse]({{< relref "templates/everyday-life/wedding-planner" >}}) en la playa
-- [Conseguir niños]({{< relref "templates/everyday-life/baby-party" >}})
+- [Conseguir niños]({{< relref "templates/everyday-life/party-planer" >}})
 
 ![Lista de deseos: Una pareja al atardecer.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 

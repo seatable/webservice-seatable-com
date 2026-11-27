@@ -152,6 +152,6 @@ This one is all about guessing. Have your guests predict the **due date** based 
 
 ## Online planner for your baby party
 
-For your gender reveal party to be a complete success, extensive organization is required. To make this easier for you, the SeaTable team has created a [practical template]({{< relref "templates/everyday-life/baby-party" >}}) for planning your baby party. You can customize it to suit your needs. If you would like to use SeaTable for this, [simply register for free]({{< relref "pages/registration" >}}).
+For your gender reveal party to be a complete success, extensive organization is required. To make this easier for you, the SeaTable team has created a [practical template]({{< relref "templates/everyday-life/party-planer" >}}) for planning your baby party. You can customize it to suit your needs. If you would like to use SeaTable for this, [simply register for free]({{< relref "pages/registration" >}}).
 
 {{< template-box id="f49862deac1d4d1ea078" >}}

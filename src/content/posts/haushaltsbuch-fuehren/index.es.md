@@ -118,7 +118,7 @@ No tiene por qué comprar cosas nuevas para su casa o su armario. Los **artícul
 
 {{< warning headline="Atención: ¡trampa de costes!" text="Los frigoríficos, lavadoras y otros electrodomésticos viejos suelen ser muy baratos. Pero en el caso de estos electrodomésticos en particular, es importante tener en cuenta los costes a lo largo de toda su vida útil. Un electrodoméstico que cuesta 200 euros más cuando es nuevo, pero dura diez años más y consume un 20% menos de electricidad, puede ahorrarle mucho más de 200 euros. Por tanto, es mejor optar por electrodomésticos de alta calidad. Las bombillas LED también son más caras, pero sólo consumen una décima parte de electricidad que las bombillas convencionales." />}}
 
-Busque también **ofertas especiales** de los comercios. [Comparar precios]({{< relref "templates/finance/price-comparison" >}}) puede merecer la pena, sobre todo si está pensando en hacer una nueva compra cara.
+Busque también **ofertas especiales** de los comercios. [Comparar precios]({{< relref "templates/finance" >}}) puede merecer la pena, sobre todo si está pensando en hacer una nueva compra cara.
 
 ### 8\. Evitar las compras impulsivas
 

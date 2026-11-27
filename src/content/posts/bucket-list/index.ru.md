@@ -176,7 +176,7 @@ Python - это язык программирования.
 - Занимайтесь танцами вместе
 - Переезд в общую квартиру
 - [Поженитесь]({{< relref "templates/everyday-life/wedding-planner" >}}) на пляже
-- [Получить детей]({{< relref "templates/everyday-life/baby-party" >}})
+- [Получить детей]({{< relref "templates/everyday-life/party-planer" >}})
 
 ![Список желаний: пара на закате.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 

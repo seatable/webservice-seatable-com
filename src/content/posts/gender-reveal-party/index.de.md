@@ -152,6 +152,6 @@ Hier geht es ums Schätzen. Lassen Sie Ihre Gäste anhand des Bauchumfangs der w
 
 ## Online-Planer für Ihre Babyparty
 
-Damit Ihre Gender Reveal Party ein voller Erfolg wird, bedarf es einer umfangreichen Organisation. Um Ihnen diese zu erleichtern, hat das Team von SeaTable eine [praktische Vorlage]({{< relref "templates/everyday-life/baby-party" >}}) für die Planung Ihrer Babyparty erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Wenn Sie SeaTable dafür nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}).
+Damit Ihre Gender Reveal Party ein voller Erfolg wird, bedarf es einer umfangreichen Organisation. Um Ihnen diese zu erleichtern, hat das Team von SeaTable eine [praktische Vorlage]({{< relref "templates/everyday-life/party-planer" >}}) für die Planung Ihrer Babyparty erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Wenn Sie SeaTable dafür nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}).
 
 {{< template-box id="f49862deac1d4d1ea078" >}}

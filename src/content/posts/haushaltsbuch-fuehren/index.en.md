@@ -119,7 +119,7 @@ You don't necessarily have to buy new items for your home or closet. **Second-ha
 
 {{< warning headline="Attention: cost trap!" text="Old refrigerators, washing machines and other electrical appliances can often be bought very cheaply. But with these appliances in particular, it is important to consider the costs over their entire lifetime. An appliance that costs 200 euros more when new, but lasts ten years longer and uses 20 percent less electricity, can save you far more than 200 euros. It is therefore better to opt for high-quality electrical appliances. LED lamps also cost more to buy, but consume only around a tenth of the electricity of conventional light bulbs." />}}
 
-Also look out for **special offers** from retailers. A [price comparison]({{< relref "templates/finance/price-comparison" >}}) can be worthwhile, especially if you are considering an expensive new purchase.
+Also look out for **special offers** from retailers. A [price comparison]({{< relref "templates/finance" >}}) can be worthwhile, especially if you are considering an expensive new purchase.
 
 ### 8\. Avoid impulse purchases
 

@@ -174,7 +174,7 @@ Uma despedida de solteiro deve ser um dia inesquecível, cheio de diversão e al
 
 ## Planeador online para a despedida de solteiro ou de solteira perfeita
 
-Está a enfrentar o desafio de planear a melhor despedida de solteiro para o seu melhor amigo ou a sua melhor amiga? Não precisa de se preocupar! Com o [modelo gratuito]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) da SeaTable, pode concretizar os seus planos sem esforço.
+Está a enfrentar o desafio de planear a melhor despedida de solteiro para o seu melhor amigo ou a sua melhor amiga? Não precisa de se preocupar! Com o [modelo gratuito]({{< relref "templates/everyday-life/party-planer" >}}) da SeaTable, pode concretizar os seus planos sem esforço.
 
 {{< template-box id="88ed38a6b4b04683a4c8" >}}
 

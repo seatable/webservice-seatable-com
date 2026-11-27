@@ -175,7 +175,7 @@ Un enterrement de vie de garçon doit être une journée inoubliable, pleine de 
 
 ## Planificateur en ligne pour un enterrement de vie de garçon ou de jeune fille parfait
 
-Vous êtes confronté(e) au défi de planifier l'ultime enterrement de vie de garçon pour votre meilleur(e) ami(e) ? Ne vous inquiétez pas ! Avec le [modèle gratuit]({{< relref "templates/everyday-life/hen-stag-party-planner" >}}) de SeaTable, vous pouvez réaliser votre planification sans effort.
+Vous êtes confronté(e) au défi de planifier l'ultime enterrement de vie de garçon pour votre meilleur(e) ami(e) ? Ne vous inquiétez pas ! Avec le [modèle gratuit]({{< relref "templates/everyday-life/party-planer" >}}) de SeaTable, vous pouvez réaliser votre planification sans effort.
 
 {{< template-box id="88ed38a6b4b04683a4c8" >}}
 

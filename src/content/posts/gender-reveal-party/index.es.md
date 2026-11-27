@@ -155,6 +155,6 @@ Aquí se trata de adivinar. Pida a sus invitados que pronostiquen la **fecha de 
 
 ## Planificador online para su fiesta del bebé
 
-Para que su fiesta de revelación del sexo sea todo un éxito, hace falta una organización exhaustiva. Para facilitársela, el equipo de SeaTable ha creado una [práctica plantilla]({{< relref "templates/everyday-life/baby-party" >}}) para planificar su fiesta del bebé. Puede adaptarla a sus necesidades como desee. Si quiere utilizar SeaTable para ello, [regístrese gratis sin más]({{< relref "pages/registration" >}}).
+Para que su fiesta de revelación del sexo sea todo un éxito, hace falta una organización exhaustiva. Para facilitársela, el equipo de SeaTable ha creado una [práctica plantilla]({{< relref "templates/everyday-life/party-planer" >}}) para planificar su fiesta del bebé. Puede adaptarla a sus necesidades como desee. Si quiere utilizar SeaTable para ello, [regístrese gratis sin más]({{< relref "pages/registration" >}}).
 
 {{< template-box id="f49862deac1d4d1ea078" >}}

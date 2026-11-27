@@ -5,6 +5,10 @@ date: '2024-08-24'
 url: '/ru/shablon/planirovshchika-vecherinok'
 aliases: 
     - '/ru/шаблон/party-planner'
+    - '/ru/shablon/beybi-shauer'
+    - '/ru/шаблон/baby-party'
+    - '/ru/shablon/devichnik-malchishnik'
+    - '/ru/шаблон/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
