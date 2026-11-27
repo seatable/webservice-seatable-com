@@ -10,8 +10,7 @@ aliases:
     - '/fr/modele/gestion-evenements'
     - '/fr/modele/enregistrement-invites'
     - '/fr/modele/guest-registration/'
-category: 'healthcare'
-category: 'ereignisse'
+category: 'marketing'
 functions:
 seo:
     title: "Modèle pour organiser vos événements, salons et festivals"
