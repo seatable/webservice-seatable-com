@@ -4,6 +4,9 @@ description: 'Bewerbungen per Webformular sammeln und Bewerbende bis zur Zusage 
 date: '2024-08-24'
 lastmod: '2026-11-27'
 url: '/de/vorlage/hr-recruiting'
+aliases:
+    - '/de/vorlage/einstellungsgespraeche'
+    - '/de/vorlage/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
@@ -16,7 +19,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable – Ihre HR Recruiting Vorlage für Bewerbungen und Interviews'
-      text: 'Sie stellen nur wenige Personen im Jahr ein und brauchen dafür kein eigenes Bewerbermanagementsystem? Mit der HR Recruiting Vorlage von SeaTable sammeln Sie Bewerbungen per Webformular und verfolgen alle Bewerbenden vom Eingang über die Interviews bis zur Zusage – in einer Base, die HR und Fachabteilungen gemeinsam pflegen. Lebenslauf, Anschreiben, Bewertung und Interviewnotizen liegen an einer Stelle, und Sie bestimmen den Ablauf selbst.'
+      text: 'Sie stellen nur wenige Personen im Jahr ein und brauchen dafür kein eigenes Bewerbermanagementsystem? Mit der HR Recruiting Vorlage von SeaTable sammeln Sie Bewerbungen per Webformular und verfolgen alle Bewerbenden vom Eingang über die Interviews bis zur Zusage – in einer Base, die HR und Fachabteilungen gemeinsam pflegen. Lebenslauf, Anschreiben, Bewertung und Interviewnotizen liegen an einer Stelle, und Sie bestimmen den Ablauf selbst. Für die Gespräche selbst gibt es die ergänzende Vorlage Einstellungsgespräche.'
       classes:
           - bg-white
       template: '9abba02477a7435eb3d7'
@@ -102,9 +105,27 @@ sections:
         image: '/images/bewerbermanagement-talenmanagement.jpg'
         image_alt: 'Ansicht „Best talents“ mit Bewerbungen gruppiert nach Stelle und Sterne-Bewertung'
       - headline: 'Interviews planen und dokumentieren'
-        text: 'In der Tabelle „Interviews“ dokumentieren Sie alle Gespräche. Nach jedem Interview vergeben Sie eine Bewertung, damit Sie die passendsten Bewerbenden schnell erkennen. In der Universellen App sehen die Fachabteilungen die anstehenden Termine und tragen ihre Notizen direkt ein. Für strukturierte Gespräche mit Bewertungsbogen eignet sich zusätzlich die Vorlage [Einstellungsgespräche]({{< relref "templates/human-resources/recruitment-interviews" >}}).'
+        text: 'In der Tabelle „Interviews“ dokumentieren Sie alle Gespräche. Nach jedem Interview vergeben Sie eine Bewertung, damit Sie die passendsten Bewerbenden schnell erkennen. In der Universellen App sehen die Fachabteilungen die anstehenden Termine und tragen ihre Notizen direkt ein. Für die Gespräche selbst nutzen Sie zusätzlich die Vorlage [Einstellungsgespräche](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d); weiter unten können Sie beide Vorlagen ausprobieren.'
         image: '/images/landing-page-bewerbermanagement-1.png'
         image_alt: 'Kanban der Bewerbungen und Kalender mit geplanten Interviews'
+
+    - name: "content-29"
+      weight: 11
+      classes:
+        - bg-gray-100
+        - curved
+      title: 'Zwei Vorlagen für Ihr Recruiting'
+      subtitle: 'HR Recruiting und Einstellungsgespräche'
+      text: 'Probieren Sie beide Vorlagen direkt hier aus: HR Recruiting für Stellen, Bewerbungen und Phasen und die Vorlage Einstellungsgespräche für Termine, Notizen und Bewertungen der Gespräche.'
+      items:
+      - headline: 'HR Recruiting'
+        text: 'Offene Stellen, Bewerbungsformular, Phasen von „Applied“ bis zur Bewertung, Kanban „Job pipeline“ und eine Universelle App für die Fachabteilungen.'
+        id: 9abba02477a7435eb3d7
+        submit: HR Recruiting nutzen
+      - headline: 'Einstellungsgespräche'
+        text: 'Jede Bewerbung mit eigenem Gesprächstermin in einer Tabelle, Personendaten aus einer zweiten Tabelle, ein Status für das Kanban-Plugin und farbig abgestufte Berufserfahrung.'
+        id: 66531bee1fad490b940d
+        submit: Einstellungsgespräche nutzen
 
     - name: "content-6"
       weight: 12
@@ -180,6 +201,8 @@ sections:
         a: 'Ja, Sie nutzen die Vorlage in SeaTable Cloud mit SeaTable Free für bis zu 25 Teammitglieder. Beachten Sie, dass hochgeladene Lebensläufe und Anschreiben zum Speicherplatz zählen (2 GB bei SeaTable Free).'
       - q: "Ersetzt die Vorlage ein Bewerbermanagementsystem?"
         a: 'Für wenige Einstellungen im Jahr reicht die Vorlage oft aus. Funktionen eines Bewerbermanagementsystems wie das Veröffentlichen auf Jobbörsen, ein Karriereportal oder fertige Löschfristen sind nicht eingebaut. Löschfristen bilden Sie zum Beispiel über eine Spalte mit dem Löschdatum und eine Ansicht der fälligen Bewerbungen ab. Wenn Sie viele Stellen parallel besetzen, ist ein Bewerbermanagementsystem die bessere Wahl.'
+      - q: "Wie organisiere ich die Einstellungsgespräche selbst?"
+        a: 'Dafür gibt es die ergänzende Vorlage [Einstellungsgespräche](https://cloud.seatable.io/copy-template/?template_link_token=66531bee1fad490b940d). Jede Bewerbung steht dort mit ihrem Gesprächstermin in einer Zeile, die Personendaten kommen aus einer zweiten Tabelle. Über einen Status sehen Sie im Kanban-Plugin, in welcher Phase jedes Gespräch ist, und die Berufserfahrung ist in Grüntönen abgestuft. Weitere Spalten, etwa für Notizen oder Bewertungen, ergänzen Sie jederzeit.'
       - q: "Wo werden die Bewerberdaten gespeichert?"
         a: 'SeaTable Cloud speichert Ihre Daten in Rechenzentren von Exoscale in Frankfurt und München. Den Vertrag zur Auftragsverarbeitung schließen Sie online ab. Alternativ betreiben Sie SeaTable auf eigenen Servern. Mehr zu Datenschutz und Berechtigungen auf unserer Seite [HR-Prozesse]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Wer sieht welche Bewerbungen?"
