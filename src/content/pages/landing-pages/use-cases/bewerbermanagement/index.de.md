@@ -5,7 +5,7 @@ seo:
     title: 'Digitalisieren Sie Ihr Bewerbermanagement im Unternehmen'
     description: 'Mit klaren Prozessen und smarter Organisation wird Bewerbermanagement effizienter – ideal für kleine und große HR-Abteilungen.'
 date: '2025-07-22'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/de/bewerbermanagement/'
 
 sections:
@@ -38,7 +38,7 @@ sections:
           - text: integrierte Automatisierungen und Benachrichtigungen
           - text: Webformulare und Frontend mit No-Code Universal App
           - text: Rechenzentren in Deutschland oder eigene Server
-          - text: 'KI-Automationen: Lebensläufe per OCR auslesen und zusammenfassen'
+          - text: 'KI-Automationen: Angaben aus Lebensläufen per Extract auslesen, Bewerbungen vorsortieren'
           - text: flexibel anpassbare Datenstruktur
       image: /images/landing-page-bewerbermanagement-1.png
       image_alt: 'Bewerber im Kanban nach Interviewphase und Kalender mit Vorstellungsgesprächen'

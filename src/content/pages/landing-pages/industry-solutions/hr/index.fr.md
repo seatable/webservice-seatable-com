@@ -5,7 +5,7 @@ seo:
     title: 'Processus RH conformes au RGPD, numériques et automatisés | SeaTable'
     description: "Numériser et automatiser les processus RH - en conformité avec le RGPD avec SeaTable. Plus d'efficacité, de visibilité et de sécurité dans la gestion des RH."
 date: '2025-04-03'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/fr/processus-rh'
 aliases:
     - '/fr/hr-prozesse/'
@@ -57,7 +57,7 @@ sections:
       
       - icon: money-check-dollar
         headline: "Automatisations IA"
-        text: "Faites résumer des CV, lire des justificatifs par OCR ou classer des demandes. Dans SeaTable Cloud, les automatisations IA utilisent un modèle d’IA exécuté dans des centres de données Exoscale en Allemagne."
+        text: "Faites extraire des informations des CV, lire des justificatifs à partir de photos par OCR ou classer des demandes. Dans SeaTable Cloud, les automatisations IA utilisent un modèle d’IA exécuté dans des centres de données Exoscale en Allemagne."
     
     - name: content-12
       weight: 3
@@ -109,7 +109,7 @@ sections:
       subtitle: Aperçu des avantages pour vos processus RH
       items:
       - headline: "Gestion des candidatures avec l’IA"
-        text: 'Les candidatures arrivent via un formulaire web directement dans votre table de candidats, et le tableau Kanban montre qui se trouve à quelle étape du [processus de recrutement]({{< relref "posts/20250317-recruiting" >}}). L’[IA intégrée]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) résume les CV et aide à la présélection.'
+        text: 'Les candidatures arrivent via un formulaire web directement dans votre table de candidats, et le tableau Kanban montre qui se trouve à quelle étape du [processus de recrutement]({{< relref "posts/20250317-recruiting" >}}). L’[IA intégrée]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) extrait les informations des CV et aide à la présélection.'
         image: /images/landing-page-hr-02.png
         image_alt: "Candidats dans un tableau Kanban par étape, avec évaluation et poste"
 
@@ -208,7 +208,7 @@ sections:
             a: 'Oui. Dans l’[App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), vous filtrez une page par une colonne de collaborateurs avec la condition "inclut l’utilisateur actuel". Chacun ne voit alors que les enregistrements qui lui sont attribués – par exemple ses propres demandes de congés ou, via une deuxième colonne pour les managers, celles de son équipe. Les utilisateurs de l’app ne peuvent pas modifier ce filtre. Avec les rôles et les autorisations de page (Enterprise), vous définissez en outre qui voit quelle page et ce qui peut être modifié.'
 
           - q: "Comment l'IA de SeaTable facilite-t-elle mon travail quotidien dans le domaine des ressources humaines ?"
-            a: "Avec les automatisations IA, vous pouvez par exemple résumer des CV, classer des demandes ou lire des justificatifs par OCR. Dans le chat IA (SeaTable Cloud et Dedicated), vous posez des questions sur vos données, par exemple sur les demandes de congés ou les candidatures en cours, sans quitter la plateforme."
+            a: "Avec les automatisations IA, vous pouvez par exemple extraire des informations des CV, classer des demandes ou lire des justificatifs par OCR. Dans le chat IA (SeaTable Cloud et Dedicated), vous posez des questions sur vos données, par exemple sur les demandes de congés ou les candidatures en cours, sans quitter la plateforme."
           
           - q: Comment puis-je intégrer et optimiser mes processus RH existants avec SeaTable ? 
             a: SeaTable est conçu pour s'intégrer de manière transparente à vos processus et systèmes RH existants. Grâce à son API flexible et à ses nombreuses possibilités d'intégration, vous pouvez facilement connecter SeaTable à d'autres outils et plateformes. De plus, SeaTable propose des modèles personnalisables et des [workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) qui vous permettent d'optimiser vos processus RH tels que la gestion des candidatures, la planification des congés, les processus d'intégration et de départ, le développement des employés et bien plus encore. Avec SeaTable, vous gardez le contrôle total de vos opérations RH et pouvez concevoir vos processus de la manière la plus adaptée à votre entreprise.

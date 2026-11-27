@@ -2,6 +2,7 @@
 title: "Gestion des congés"
 description: "Gérez les demandes de congés de façon digitale : saisie par formulaire, contrôle des chevauchements et validations automatisées."
 date: '2024-08-24'
+lastmod: '2026-11-27'
 url: '/fr/modele/gestion-conges'
 aliases:
     - '/fr/modele/holiday-request-management'
@@ -9,14 +10,14 @@ category: 'human-resources'
 functions:
 seo:
     title: "Gestion des congés digitale | Modèle gratuit | SeaTable"
-    description: "Gérez les demandes de congés, le solde de congés et les absences de façon centralisée. Utilisez dès maintenant le modèle SeaTable !"
+    description: "Demandes de congés par formulaire, validation par la personne responsable de l'équipe et calcul automatique du solde de congés, sans logiciel RH complet. Modèle SeaTable gratuit."
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: "SeaTable : la gestion des congés professionnelle pour votre entreprise"
-      text: "Dites adieu aux formulaires papier et aux tableaux Excel illisibles ! Avec ce modèle de gestion des congés, vous gardez en permanence une vue claire sur les demandes de congés, le solde de congés et les absences, le tout au même endroit. Profitez des avantages de la personnalisation, de l'évolutivité et de la collaboration en temps réel. Utilisez des fonctions telles que la vue calendrier, les tableaux Kanban et l'assistance par IA pour organiser efficacement une gestion des congés moderne dans votre entreprise, de la première demande jusqu'à la validation finale et en toute transparence pour vos équipes."
+      text: "Les membres de l'équipe demandent leurs congés via un formulaire web ; la personne responsable de l'équipe reçoit automatiquement une notification et valide la demande, sans logiciel RH complet. Avec ce modèle de gestion des congés, vous gardez une vue claire sur les demandes de congés, le solde de congés et les absences au même endroit : vue calendrier pour repérer les chevauchements dans l'équipe, calcul automatique du solde de congés et vues dans lesquelles chaque personne ne voit que ses propres demandes."
       classes:
           - bg-white
       template: 'a4065ce03d4d4bd5959c'
@@ -39,16 +40,16 @@ sections:
           text: "La vue calendrier intégrée affiche toutes les absences prévues en un seul coup d'œil. Les managers identifient ainsi très tôt les chevauchements, évitent les sous-effectifs et anticipent les règles de remplacement dans chaque service."
         - icon: 'edit'
           headline: "Calcul automatique du solde"
-          text: "Des colonnes de formule liées recalculent automatiquement le solde de congés de chaque collaborateur à chaque validation. Les calculs manuels disparaissent totalement et le droit aux congés reste exact et vérifiable à tout moment."
+          text: "Des colonnes de formule liées recalculent automatiquement le solde de congés de chaque collaborateur à chaque validation. Les calculs manuels disparaissent et le droit aux congés reste vérifiable à tout moment."
         - icon: 'lock'
           headline: "Accès selon les rôles"
-          text: "Des autorisations configurables individuellement déterminent qui peut déposer une demande, la valider ou seulement la consulter. Chaque collaborateur ne voit que ses propres données, tandis que le service RH garde une vue complète."
+          text: "Des autorisations configurables individuellement déterminent qui peut déposer une demande, la valider ou seulement la consulter. Dans une app, un filtre prédéfini garantit que chaque collaborateur ne voit que ses propres demandes, tandis que le service RH garde une vue complète."
         - icon: 'pencil'
           headline: "Formulaire web digital"
           text: "Grâce à un formulaire web simple, vos collaborateurs déposent leur demande de congé en déplacement, en télétravail ou directement à leur poste. Toutes les informations arrivent structurées dans le modèle central, sans papier ni e-mail."
         - icon: 'bell'
           headline: "Notifications automatiques"
-          text: "Dès qu'une nouvelle demande arrive ou que son statut change, le modèle informe automatiquement toutes les personnes concernées. Les délais de réponse se raccourcissent et les relances par téléphone ou par e-mail disparaissent complètement."
+          text: "Dès qu'une nouvelle demande arrive ou que son statut change, le modèle informe automatiquement toutes les personnes concernées. Les délais de réponse se raccourcissent et les relances par téléphone ou par e-mail deviennent inutiles."
 
     - name: "customer-1"
       weight: 4
@@ -144,10 +145,10 @@ sections:
         text: "Summarize résume automatiquement en quelques phrases les commentaires longs ou les historiques de demande volumineux. Les managers saisissent ainsi beaucoup plus vite l'essentiel d'une demande de congé, sans devoir lire dans le détail chaque étape de l'historique."
         icon: circle-info
       - headline: "Automatiser par prompt"
-        text: "Avec les Custom Prompts, vous définissez vos propres instructions d'IA pour les tâches de routine de la gestion des absences : propositions concrètes de remplacement, alertes sur les chevauchements de dates ou textes de réponse rédigés pour vos collaborateurs."
+        text: "Avec les Custom Prompts, vous définissez vos propres instructions d'IA pour les tâches de routine de la gestion des absences : propositions de remplacement ou textes de réponse rédigés automatiquement pour vos collaborateurs. La vue calendrier vous montre les chevauchements dans l'équipe."
         icon: wand-magic-sparkles
       - headline: "Rapports en un seul clic"
-        text: "Générez des rapports de statut sur les demandes de congés validées, en attente et refusées par équipe, par service ou par période directement depuis votre gestion des congés. L'IA met en évidence les tendances : vos rapports pour la direction et les RH sont prêts très vite."
+        text: "Générez des rapports de statut sur les demandes de congés validées, en attente et refusées par équipe, par service ou par période directement depuis votre gestion des congés. Dans le chat IA (SeaTable Cloud et Dedicated), vous pouvez en outre poser des questions sur ces données, par exemple quelle équipe aura le plus d'absences le mois prochain."
         icon: arrow-right
         
         
@@ -158,29 +159,31 @@ sections:
        - bg-gray-100
       title: "Gestion des congés pour chaque organisation"
       subtitle: "Transparence en temps réel"
-      description: "SeaTable est une base de données IA no-code moderne, dotée d'automatisations et d'un App Builder, qui offre toutes les fonctions nécessaires à une gestion des congés professionnelle. L'accent est mis sur la traçabilité, le travail en équipe et une adaptation flexible à vos processus, avec les standards de sécurité les plus élevés pour vos données du personnel."
+      description: "SeaTable est une base de données IA no-code moderne, dotée d'automatisations et d'un App Builder, qui offre les fonctions nécessaires à une gestion des congés professionnelle. L'accent est mis sur la traçabilité, le travail en équipe et une adaptation flexible."
       box-position: [right!]
       items:
       - headline: Hébergement conforme au RGPD
-        text: "Si vous utilisez SeaTable Cloud ou l'IA intégrée, toutes les données restent en Europe : l'infrastructure est exploitée exclusivement sur des serveurs situés en Allemagne, conformément aux exigences européennes de protection des données."
+        text: "SeaTable Cloud et le modèle d'IA des automatisations IA fonctionnent dans des centres de données d'Exoscale à Francfort et Munich. Vous concluez l'accord de sous-traitance (DPA) en ligne."
       - headline: Accès sécurisé avec 2FA et SSO
-        text: "SeaTable prend en charge les méthodes d'authentification courantes comme l'authentification à deux facteurs et le single sign-on : vous contrôlez ainsi précisément qui a le droit d'accéder à vos données du personnel."
+        text: "Chaque utilisateur peut activer l'authentification à deux facteurs ; le single sign-on est disponible avec l'abonnement Enterprise. Vous contrôlez ainsi qui a le droit d'accéder à vos données du personnel."
 
     - name: "faq"
       weight: 20
       title: "Questions fréquentes sur la gestion des congés"
       subtitle: 
       items:
-      - q: "Puis-je utiliser ce modèle comme véritable logiciel de gestion des congés en entreprise ?"
-        a: "Oui, vous pouvez utiliser ce modèle comme solution complète pour votre entreprise. Il vous suffit d'un compte SeaTable gratuit pour commencer immédiatement à gérer les demandes de congés de façon digitale et à coordonner les absences de vos équipes."
+      - q: "Comment les membres de l'équipe peuvent-ils demander leurs congés via un formulaire et la personne responsable de l'équipe les valider, sans que nous ayons à acheter un logiciel RH complet ?"
+        a: 'Un formulaire, une liste et une notification suffisent : de nombreuses entreprises utilisent Microsoft Forms avec Power Automate, Google Forms ou une base de données flexible comme SeaTable. Avec ce modèle, les membres de l''équipe déposent leur demande via un formulaire web, la personne responsable de l''équipe est informée par une règle de notification et passe le statut à « validé » ou « refusé », puis le solde de congés est recalculé automatiquement. Pour savoir comment respecter les règles légales en matière de congés, consultez notre guide sur la [planification des congés]({{< relref "posts/20250324-urlaubsplanung" >}}).'
+      - q: "Puis-je utiliser ce modèle comme logiciel de gestion des congés en entreprise ?"
+        a: "Oui, pour de nombreuses petites et moyennes équipes, le modèle suffit. Un compte SeaTable gratuit (avec SeaTable Free pour jusqu'à 25 membres d'équipe) vous permet de commencer immédiatement. Les règles comme le temps partiel, le report du solde de congés ou les jours fériés selon la région, vous les modélisez vous-même avec des colonnes et des formules ; aucune connexion à la paie n'est intégrée. Si vous avez besoin de tout cela prêt à l'emploi et tenu à jour, une suite RH est le meilleur choix."
       - q: "Comment la base de données m'aide-t-elle à gérer les demandes et à calculer le solde de congés ?"
         a: "Lorsque vous gérez les demandes de congés, le modèle relie automatiquement chaque demande au compteur de solde du collaborateur concerné. Des colonnes de formule calculent le droit aux congés restant en temps réel dès qu'une demande est validée, sans calcul manuel."
       - q: "Puis-je définir des droits d'accès distincts pour les collaborateurs et les managers ?"
-        a: "Oui, dans la gestion des absences, vous définissez des autorisations granulaires. Grâce à des vues individuelles, chaque collaborateur ne voit que ses propres demandes de congés, tandis que les managers et le service RH peuvent les consulter, les modifier et les valider."
+        a: "Oui, dans la gestion des absences, vous définissez des autorisations granulaires. Dans une app, un filtre prédéfini sur l'utilisateur actuel garantit que chaque collaborateur ne voit que ses propres demandes de congés, tandis que les managers et le service RH, par exemple, peuvent les consulter, les modifier et les valider."
       - q: "L'utilisation de SeaTable pour la gestion des congés est-elle conforme au RGPD ?"
-        a: "Oui, SeaTable Cloud et l'IA intégrée sont exploités exclusivement sur des serveurs situés en Allemagne : toutes les données de votre gestion des congés restent donc en Europe. Vous respectez ainsi le RGPD de façon fiable, même pour des données du personnel sensibles."
+        a: 'SeaTable Cloud stocke et traite vos données dans des centres de données à Francfort et Munich ; le modèle d''IA des automatisations IA y fonctionne également. Vous concluez l''accord de sous-traitance (DPA) en ligne. Vous pouvez aussi exploiter SeaTable sur vos propres serveurs. Pour en savoir plus sur la protection des données et les autorisations, consultez notre page [Processus RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Comment adapter le modèle si notre entreprise a des règles de congés ou de remplacement propres ?"
-        a: "Vous pouvez à tout moment ajouter des colonnes, des types de congés, des vues et des automatisations. Vous adaptez ainsi le modèle en souplesse à vos règles de congés exceptionnels, à vos modèles de roulement ou à vos règles de remplacement, sans programmer."
+        a: 'Vous pouvez à tout moment ajouter des colonnes, des types de congés, des vues et des automatisations. Vous adaptez ainsi le modèle en souplesse à vos règles de congés exceptionnels, à vos modèles de roulement ou à vos règles de remplacement, sans programmer. Compléments utiles : la [saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) et le modèle [Gérer les arrêts maladie]({{< relref "templates/human-resources/sick-leave-management" >}}).'
       
 
 ---

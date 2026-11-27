@@ -5,7 +5,7 @@ seo:
     title: 'Digitalice la gestión de candidatos en la empresa'
     description: 'Unos procesos claros y una organización inteligente hacen que la gestión de los solicitantes sea más eficaz, ideal para departamentos de RR.HH. pequeños y grandes.'
 date: '2025-07-22'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/es/gestion-de-candidatos/'
 
 sections:
@@ -38,7 +38,7 @@ sections:
           - text: Automatizaciones y notificaciones integradas
           - text: Formularios web y frontend con aplicación universal sin código
           - text: "Centros de datos en Alemania o servidores propios"
-          - text: "Automatizaciones con IA: leer currículos mediante OCR y resumirlos"
+          - text: "Automatizaciones con IA: extraer datos de currículos con Extract, preseleccionar candidaturas"
           - text: Estructura de datos flexible y personalizable
       image: /images/landing-page-bewerbermanagement-1.png
       image_alt: "Candidatos en un tablero Kanban por fase de entrevista y calendario con entrevistas"

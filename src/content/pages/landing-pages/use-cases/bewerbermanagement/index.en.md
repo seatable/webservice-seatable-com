@@ -5,7 +5,7 @@ seo:
     title: 'Digitize your applicant management in the company'
     description: 'Clear processes and smart organization make applicant management more efficient – ideal for small and large HR departments.'
 date: '2025-07-22'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/applicant-management/'
 
 sections:
@@ -38,7 +38,7 @@ sections:
           - text: Integrated automations and notifications
           - text: Web forms and frontend with no-code universal app
           - text: "Data centers in Germany or your own servers"
-          - text: "AI automations: read résumés via OCR and summarize them"
+          - text: "AI automations: extract details from résumés, pre-sort applications"
           - text: Flexibly customizable data structure
       image: /images/landing-page-bewerbermanagement-1.png
       image_alt: "Applicants in a Kanban board by interview stage and calendar with interviews"

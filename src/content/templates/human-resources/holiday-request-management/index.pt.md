@@ -2,6 +2,7 @@
 title: 'Gestão de férias'
 description: 'Gestão digital dos pedidos de férias: registo por formulário, controlo de sobreposições e aprovações automatizadas num só lugar.'
 date: '2024-08-24'
+lastmod: '2026-11-27'
 url: '/pt/modelo/gestao-ferias'
 aliases:
     - '/pt/modelo/holiday-request-management'
@@ -9,14 +10,14 @@ category: 'human-resources'
 functions:
 seo:
     title: 'Gestão de férias digital | Modelo gratuito | SeaTable'
-    description: 'Organize pedidos de férias, saldo de férias e ausências de forma centralizada. Comece já com o modelo gratuito da SeaTable!'
+    description: "Peça férias através de um formulário, obtenha a aprovação da chefia de equipa e calcule automaticamente o saldo de férias – sem um software de RH completo. Modelo gratuito da SeaTable."
 type: pages
 
 sections:
     - name: hero-5
       weight: 1
       title: 'SeaTable: a gestão de férias profissional para toda a sua empresa'
-      text: 'Diga adeus aos formulários em papel e às listas de Excel pouco claras! Com este modelo de gestão de férias mantém sempre sob controlo os pedidos de férias, o saldo de férias e as ausências, tudo num único lugar. Aproveite as vantagens da personalização, da escalabilidade e da colaboração em tempo real. Utilize funções como a vista de calendário, os quadros Kanban e o apoio da IA para organizar de forma eficiente uma gestão de férias moderna na sua empresa, do primeiro pedido até à aprovação final e com total transparência para as suas equipas e chefias, sem trocas de e-mails nem cálculos manuais.'
+      text: "Os colaboradores pedem férias através de um formulário web, a chefia de equipa é notificada automaticamente e aprova o pedido – sem necessidade de um software de RH completo. Com este modelo de gestão de férias mantém sob controlo os pedidos de férias, o saldo de férias e as ausências num único lugar: com a vista de calendário para identificar sobreposições na equipa, o cálculo automático do saldo de férias e vistas em que cada pessoa vê apenas os seus próprios pedidos."
       classes:
           - bg-white
       template: 'a4065ce03d4d4bd5959c'
@@ -39,16 +40,16 @@ sections:
           text: 'A vista de calendário integrada mostra todas as ausências previstas num só relance. Assim, as chefias detetam as sobreposições a tempo, evitam a falta de pessoal e planeiam antecipadamente as regras de substituição de cada departamento.'
         - icon: 'edit'
           headline: 'Cálculo automático do saldo'
-          text: 'As colunas de fórmula ligadas recalculam automaticamente o saldo de férias de cada colaborador em cada aprovação. Os cálculos manuais desaparecem por completo e o direito a férias atual mantém-se sempre correto e facilmente verificável.'
+          text: "As colunas de fórmula ligadas recalculam automaticamente o saldo de férias de cada colaborador em cada aprovação. Os cálculos manuais desaparecem e o direito a férias atual mantém-se sempre verificável."
         - icon: 'lock'
           headline: 'Acessos conforme a função'
-          text: 'As permissões configuráveis individualmente definem quem pode submeter, aprovar ou apenas consultar pedidos. Cada colaborador vê exclusivamente os seus próprios dados, enquanto o departamento de RH mantém sempre a visão global completa.'
+          text: "As permissões configuráveis individualmente definem quem pode submeter, aprovar ou apenas consultar pedidos. Numa aplicação, um filtro predefinido garante que cada colaborador vê apenas os seus próprios pedidos, enquanto o departamento de RH mantém a visão global completa."
         - icon: 'pencil'
           headline: 'Formulário web digital'
           text: 'Através de um formulário web simples, os colaboradores submetem o pedido de férias em viagem, em teletrabalho ou diretamente no posto de trabalho. Todos os dados chegam automaticamente estruturados ao modelo central, sem papel e sem e-mails.'
         - icon: 'bell'
           headline: 'Notificações automáticas'
-          text: 'Assim que entra um novo pedido ou o respetivo estado muda, o modelo informa automaticamente todas as pessoas envolvidas. Os tempos de resposta encurtam visivelmente e as insistências por telefone ou por e-mail deixam de ser necessárias.'
+          text: "Assim que entra um novo pedido ou o respetivo estado muda, o modelo informa automaticamente todas as pessoas envolvidas. Os tempos de resposta encurtam e evitam-se insistências por telefone ou por e-mail."
 
     - name: "customer-1"
       weight: 4
@@ -144,10 +145,10 @@ sections:
         text: 'O Summarize resume automaticamente em poucas frases os comentários longos ou os históricos de pedidos extensos. Assim, as chefias percebem muito mais depressa o essencial de um pedido de férias, sem terem de ler todo o histórico do pedido em detalhe e sem perder informação.'
         icon: circle-info
       - headline: 'Automatizar com prompts'
-        text: 'Com os Custom Prompts define as suas próprias instruções de IA para as tarefas de rotina da gestão de ausências: propostas concretas de substituição, avisos sobre sobreposições de datas ou textos de resposta já redigidos para os seus colaboradores e para as chefias.'
+        text: "Com os Custom Prompts define as suas próprias instruções de IA para as tarefas de rotina da gestão de ausências, por exemplo propostas de substituição ou textos de resposta redigidos automaticamente para os seus colaboradores. As sobreposições na equipa são mostradas pela vista de calendário."
         icon: wand-magic-sparkles
       - headline: 'Relatórios num só clique'
-        text: 'Gere relatórios de estado sobre os pedidos de férias aprovados, pendentes e recusados por equipa, departamento ou período diretamente a partir da sua gestão de férias. A IA prepara as tendências e os relatórios para a direção e para o RH ficam prontos com poucos cliques.'
+        text: "Gere relatórios de estado sobre os pedidos de férias aprovados, pendentes e recusados por equipa, departamento ou período diretamente a partir da sua gestão de férias. No chat de IA (SeaTable Cloud e Dedicated) pode ainda fazer perguntas sobre estes dados, por exemplo, que equipa terá mais ausências no próximo mês."
         icon: arrow-right
         
         
@@ -158,29 +159,31 @@ sections:
        - bg-gray-100
       title: 'Gestão de férias para qualquer organização'
       subtitle: 'Transparência em tempo real'
-      description: 'A SeaTable é uma moderna base de dados de IA no-code com automatizações e App Builder e oferece todas as funções necessárias para uma gestão de férias profissional. O foco está na rastreabilidade, no trabalho em equipa e na adaptação flexível aos seus processos, sempre com os mais elevados padrões de segurança para os dados de pessoal mais sensíveis. As automatizações assumem os passos recorrentes.'
+      description: "A SeaTable é uma moderna base de dados de IA no-code com automatizações e App Builder e oferece as funções necessárias para uma gestão de férias profissional. O foco está na rastreabilidade, no trabalho em equipa e na adaptação flexível."
       box-position: [right!]
       items:
       - headline: Alojamento conforme o RGPD
-        text: 'Se utilizar a SeaTable Cloud ou a IA integrada, todos os dados permanecem na Europa: a infraestrutura é operada exclusivamente em servidores localizados na Alemanha, em conformidade com os requisitos europeus de proteção de dados.'
+        text: "A SeaTable Cloud e o modelo de IA das automatizações de IA funcionam em centros de dados da Exoscale em Frankfurt e Munique. O acordo de subcontratação (DPA) é celebrado online."
       - headline: Acesso seguro com 2FA e SSO
-        text: 'A SeaTable suporta as técnicas de autenticação habituais, como a autenticação de dois fatores e o single sign-on, pelo que controla com precisão quem pode aceder aos dados de pessoal e aos pedidos de férias.'
+        text: "Cada utilizador pode ativar a autenticação de dois fatores; o single sign-on está disponível na subscrição Enterprise. Assim, controla quem pode aceder aos dados de pessoal."
 
     - name: "faq"
       weight: 20
       title: 'Perguntas frequentes sobre a gestão de férias digital'
       subtitle: 
       items:
-      - q: "Posso usar este modelo como software completo para a gestão de férias na minha empresa?"
-        a: 'Sim, pode utilizar este modelo como solução completa para a sua empresa. Basta uma conta gratuita da SeaTable para começar de imediato a tratar os pedidos de férias de forma digital e a coordenar as ausências de todas as suas equipas.'
+      - q: "Como podem os colaboradores pedir férias através de um formulário e a chefia de equipa aprová-las, sem termos de comprar um software de RH completo?"
+        a: 'Para isso bastam um formulário, uma lista e uma notificação: muitas empresas utilizam o Microsoft Forms com o Power Automate, o Google Forms ou uma base de dados flexível como a SeaTable. Com este modelo, os colaboradores submetem o pedido através de um formulário web, a chefia de equipa é informada através de uma regra de notificação e define o estado como aprovado ou recusado, e o saldo de férias é recalculado automaticamente. Saiba como respeitar as regras legais sobre férias no nosso guia de [planeamento de férias]({{< relref "posts/20250324-urlaubsplanung" >}}).'
+      - q: "Posso usar este modelo como software para a gestão de férias na minha empresa?"
+        a: "Sim, para muitas equipas pequenas e médias o modelo é suficiente. Basta uma conta gratuita da SeaTable – com o SeaTable Free para até 25 membros da equipa – para começar de imediato. Regras como o trabalho a tempo parcial, a transição do saldo de férias ou os feriados por região são configuradas por si através de colunas e fórmulas; não está incluída uma ligação ao processamento salarial. Se precisar de tudo isto já pronto e mantido, uma suite de RH é a melhor opção."
       - q: "Como me ajuda a base de dados a tratar pedidos de férias e a calcular o saldo de férias?"
         a: 'Quando trata pedidos de férias, o modelo liga automaticamente cada pedido ao saldo de férias do colaborador em questão. As colunas de fórmula calculam o direito a férias restante em tempo real assim que um pedido é aprovado, sem cálculos manuais adicionais.'
       - q: "Posso definir direitos de acesso diferentes para colaboradores e chefias na gestão de ausências?"
-        a: 'Sim, na gestão de ausências define permissões granulares. Através de vistas individuais, cada colaborador vê apenas os seus próprios pedidos de férias, enquanto as chefias e o departamento de RH podem consultar, editar e aprovar todos os pedidos.'
+        a: "Sim, na gestão de ausências define permissões granulares. Numa aplicação, através de um filtro predefinido para o utilizador atual, cada colaborador vê apenas os seus próprios pedidos de férias, enquanto, por exemplo, as chefias e o departamento de RH podem consultar, editar e aprovar pedidos."
       - q: "A utilização da SeaTable para a gestão de férias está em conformidade com o RGPD?"
-        a: 'Sim, a SeaTable Cloud e a IA integrada são operadas exclusivamente em servidores na Alemanha, pelo que todos os dados da sua gestão de férias permanecem na Europa. Assim, cumpre de forma fiável o RGPD, mesmo com dados de pessoal sensíveis.'
+        a: 'A SeaTable Cloud armazena e processa os seus dados em centros de dados em Frankfurt e Munique, onde também funciona o modelo de IA das automatizações de IA. O acordo de subcontratação (DPA) é celebrado online. Em alternativa, pode operar a SeaTable nos seus próprios servidores. Saiba mais sobre proteção de dados e permissões na nossa página [Processos de RH]({{< relref "pages/landing-pages/industry-solutions/hr" >}}).'
       - q: "Como posso adaptar o modelo se a nossa empresa tem regras próprias de licenças ou substituições?"
-        a: 'Pode acrescentar a qualquer momento novas colunas, tipos de férias, vistas e automatizações. Assim, adapta o modelo com flexibilidade às regras de licenças especiais, aos modelos de turnos ou às regras de substituição da sua empresa, sem programar.'
+        a: 'Pode acrescentar a qualquer momento novas colunas, tipos de férias, vistas e automatizações. Assim, adapta o modelo com flexibilidade às regras de licenças especiais, aos modelos de turnos ou às regras de substituição da sua empresa, sem programar. Complementos adequados são o [Registo do tempo de trabalho]({{< relref "templates/human-resources/recording-working-time" >}}) e o modelo [Gerir baixas por doença]({{< relref "templates/human-resources/sick-leave-management" >}}).'
       
 
 ---

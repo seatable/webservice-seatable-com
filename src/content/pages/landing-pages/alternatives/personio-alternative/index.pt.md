@@ -5,7 +5,7 @@ seo:
     title: 'Alternativa Personio: flexível, rentável e compatível com o RGPD'
     description: 'Descubra a alternativa Personio flexível, económica e compatível com o RGPD: processos, aplicações e automatizações de IA com SeaTable.'
 date: '2026-02-26'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/pt/personio-alternativa'
 
 sections:
@@ -123,7 +123,7 @@ sections:
       subtitle: Funções e aplicações
       items:
       - headline: "Gestão de candidatos com IA"
-        text: "No recrutamento pode perder-se muito tempo. Utilize a inteligência artificial para ler currículos por OCR e resumi-los, classificar candidaturas ou preparar e-mails para candidatos."
+        text: "No recrutamento pode perder-se muito tempo. Utilize a inteligência artificial para extrair dados de currículos com Extract, resumir cartas de apresentação, classificar candidaturas ou preparar e-mails para candidatos."
         image: /images/Landing-Page_HR_Bewerbermanagement.png
         image_alt: 'Vista SeaTable para gestão automatizada de candidatos por IA no recrutamento'
 
@@ -166,7 +166,7 @@ sections:
       items:
       - title: "Automatizações de IA para tarefas de rotina"
         subtitle: "Utilize a inteligência artificial"
-        text: 'Com as [automações com IA do SeaTable]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), pode reduzir tarefas de rotina aborrecidas e monótonas e tornar grandes volumes de dados geríveis. Por exemplo, pode **resumir textos** (p. ex. cartas de apresentação, e-mails) ou **extrair informações de documentos** (p. ex. de currículos lidos previamente por OCR). Automatize tarefas repetitivas e concentre-se na sua gestão estratégica de pessoas.'
+        text: 'Com as [automações com IA do SeaTable]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}), pode reduzir tarefas de rotina aborrecidas e monótonas e tornar grandes volumes de dados geríveis. Por exemplo, pode **resumir textos** (p. ex. cartas de apresentação, e-mails) ou **extrair informações de documentos** (p. ex. de currículos em PDF). Automatize tarefas repetitivas e concentre-se na sua gestão estratégica de pessoas.'
       - title: "Crie simplesmente as suas próprias aplicações"
         subtitle: "Utilize o criador de aplicações sem código"
         text: "Com as apps, pode disponibilizar de forma eficiente aos seus colaboradores documentos para o **self-service do colaborador** (portal ESS), em que cada pessoa vê apenas os seus próprios dados, ou pedir-lhes que registem dados de forma sistemática (p. ex. horas de trabalho, pedidos de férias, baixas por doença). Crie com o App Builder do SeaTable **experiências de utilização intuitivas** – sem quaisquer conhecimentos de programação."
@@ -213,5 +213,5 @@ sections:
             a: "O SeaTable dá grande importância à segurança e à proteção de dados. Pode escolher: o SeaTable Cloud guarda os seus dados em centros de dados em Frankfurt e Munique, e o acordo de subcontratação é celebrado online. Ou instala o SeaTable Server nos seus próprios servidores e mantém o controlo total sobre os seus dados. Com permissões de acesso, autenticação de dois fatores e início de sessão único (Enterprise), protege ainda mais os seus dados."
           
           - q: "Quais são as vantagens das funcionalidades de IA para a gestão de RH?"
-            a: "Com as automações com IA do SeaTable, pode reduzir sobretudo o trabalho operacional de RH. Por exemplo, pode resumir ou redigir textos (p. ex. cartas de apresentação, e-mails) ou extrair informações de documentos (p. ex. currículos, depois de lidos por OCR). Pode ainda automatizar muitas tarefas repetitivas e monótonas que exigem esforço desnecessário e concentrar-se na gestão estratégica de RH. No SeaTable Cloud, as automações com IA utilizam um modelo de IA em centros de dados alemães."
+            a: "Com as automações com IA do SeaTable, pode reduzir sobretudo o trabalho operacional de RH. Por exemplo, pode resumir ou redigir textos (p. ex. cartas de apresentação, e-mails) ou extrair informações de documentos (p. ex. de currículos em PDF). Pode ainda automatizar muitas tarefas repetitivas e monótonas que exigem esforço desnecessário e concentrar-se na gestão estratégica de RH. No SeaTable Cloud, as automações com IA utilizam um modelo de IA em centros de dados alemães."
 ---

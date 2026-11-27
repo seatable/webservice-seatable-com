@@ -5,7 +5,7 @@ seo:
     title: 'HR processes GDPR-compliant, digital & automated | SeaTable'
     description: 'Digitize and automate HR processes - GDPR-compliant with SeaTable. More efficiency, overview and security in HR management.'
 date: '2025-04-03'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/hr-processes'
 aliases:
     - '/en/hr-prozesse/'
@@ -57,7 +57,7 @@ sections:
       
       - icon: money-check-dollar
         headline: "AI automations"
-        text: "Have résumés summarized, receipts read via OCR, or requests classified. In SeaTable Cloud, the AI automations use an AI model that runs in Exoscale data centers in Germany."
+        text: "Have details extracted from résumés, receipts read from photos via OCR, or requests classified. In SeaTable Cloud, the AI automations use an AI model that runs in Exoscale data centers in Germany."
     
     - name: content-12
       weight: 3
@@ -109,7 +109,7 @@ sections:
       subtitle: Overview of the benefits for your HR processes
       items:
       - headline: "Applicant management with AI"
-        text: 'Applications arrive via web form directly in your applicant table, and the Kanban board shows who is at which stage of the [recruitment process]({{< relref "posts/20250317-recruiting" >}}). The [integrated AI]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) summarizes résumés and helps with pre-screening.'
+        text: 'Applications arrive via web form directly in your applicant table, and the Kanban board shows who is at which stage of the [recruitment process]({{< relref "posts/20250317-recruiting" >}}). The [integrated AI]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) extracts details from résumés and helps with pre-screening.'
         image: /images/landing-page-hr-02.png
         image_alt: "Applicants in a Kanban board by stage, with rating and position"
 
@@ -208,7 +208,7 @@ sections:
             a: 'Yes. In the [app builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), you filter a page by a collaborator column with the condition "includes current user". Each user then only sees the records assigned to them – for example their own vacation requests or, via a second column for managers, those of their team. App users cannot change this filter. With roles and page permissions (Enterprise), you also define who sees which page and what may be edited.'
 
           - q: "How does SeaTable's AI support my daily HR work?"
-            a: "With AI automations, you can for example summarize résumés, classify requests, or read receipts via OCR. In the AI chat (SeaTable Cloud and Dedicated), you ask questions about your data, such as open vacation requests or applications – without leaving the platform."
+            a: "With AI automations, you can for example extract details from résumés, classify requests, or read receipts via OCR. In the AI chat (SeaTable Cloud and Dedicated), you ask questions about your data, such as open vacation requests or applications – without leaving the platform."
           
           - q: 'How can I integrate and optimize my existing HR processes with SeaTable?'
             a: 'SeaTable is designed to integrate seamlessly with your existing HR processes and systems. Thanks to its flexible API and extensive integration options, you can easily connect SeaTable with other tools and platforms. In addition, SeaTable offers customizable templates and [workflows]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) that allow you to optimize your HR processes such as applicant management, vacation planning, onboarding and offboarding processes, employee development, and much more. With SeaTable, you retain full control over your HR operations and can design your processes in a way that best suits your company.'

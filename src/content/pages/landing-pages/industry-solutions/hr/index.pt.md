@@ -5,7 +5,7 @@ seo:
     title: 'Processos de RH em conformidade com o RGPD, digitais e automatizados | SeaTable'
     description: 'Digitalize e automatize os processos de RH - em conformidade com o RGPD com o SeaTable. Mais eficiência, visão geral e segurança na gestão de RH.'
 date: '2025-04-03'
-lastmod: '2026-11-26'
+lastmod: '2026-11-27'
 url: '/pt/processos-rh'
 aliases:
     - '/pt/hr-prozesse/'
@@ -57,7 +57,7 @@ sections:
       
       - icon: money-check-dollar
         headline: "Automações com IA"
-        text: "Resuma currículos, leia comprovativos por OCR ou classifique pedidos. No SeaTable Cloud, as automações com IA utilizam um modelo de IA que funciona em centros de dados da Exoscale na Alemanha."
+        text: "Extraia dados de currículos, leia comprovativos a partir de fotografias por OCR ou classifique pedidos. No SeaTable Cloud, as automações com IA utilizam um modelo de IA que funciona em centros de dados da Exoscale na Alemanha."
     
     - name: content-12
       weight: 3
@@ -109,7 +109,7 @@ sections:
       subtitle: Resumo das vantagens para os seus processos de RH
       items:
       - headline: "Gestão de candidaturas com IA"
-        text: 'As candidaturas chegam por formulário web diretamente à sua tabela de candidatos, e no quadro Kanban vê quem está em que fase do [processo de recrutamento]({{< relref "posts/20250317-recruiting" >}}). A [IA integrada]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) resume currículos e ajuda na pré-seleção.'
+        text: 'As candidaturas chegam por formulário web diretamente à sua tabela de candidatos, e no quadro Kanban vê quem está em que fase do [processo de recrutamento]({{< relref "posts/20250317-recruiting" >}}). A [IA integrada]({{< relref "pages/landing-pages/use-cases/ai-automations" >}}) extrai dados dos currículos e ajuda na pré-seleção.'
         image: /images/landing-page-hr-02.png
         image_alt: "Candidatos num quadro Kanban por fase, com avaliação e função"
 
@@ -208,7 +208,7 @@ sections:
             a: 'Sim. No [App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), filtra uma página por uma coluna de colaboradores com a condição "inclui o utilizador atual". Assim, cada pessoa vê apenas os registos que lhe estão atribuídos – por exemplo, os seus próprios pedidos de férias ou, através de uma segunda coluna para chefias, os da sua equipa. Os utilizadores da app não podem alterar este filtro. Com funções e permissões de página (Enterprise), define ainda quem vê cada página e o que pode ser editado.'
 
           - q: 'Como a IA do SeaTable auxilia no meu trabalho diário de RH?'
-            a: "Com as automações com IA pode, por exemplo, resumir currículos, classificar pedidos ou ler comprovativos por OCR. No chat de IA (SeaTable Cloud e Dedicated), faz perguntas sobre os seus dados, por exemplo sobre pedidos de férias ou candidaturas em aberto – sem sair da plataforma."
+            a: "Com as automações com IA pode, por exemplo, extrair dados de currículos, classificar pedidos ou ler comprovativos por OCR. No chat de IA (SeaTable Cloud e Dedicated), faz perguntas sobre os seus dados, por exemplo sobre pedidos de férias ou candidaturas em aberto – sem sair da plataforma."
           
           - q: 'Como posso integrar e otimizar os meus processos de RH existentes com o SeaTable?'
             a: 'O SeaTable foi concebido para se integrar perfeitamente nos seus processos e sistemas de RH existentes. Graças à API flexível e às amplas opções de integração, é possível conectar o SeaTable facilmente a outras ferramentas e plataformas. Além disso, o SeaTable oferece modelos personalizáveis e [fluxos de trabalho]({{< relref "pages/landing-pages/industry-solutions/individual" >}}) que permitem otimizar os seus processos de RH, como gestão de candidatos, planeamento de férias, processos de integração e desligamento, desenvolvimento de funcionários e muito mais. Com o SeaTable, mantém o controlo total sobre os seus processos de RH e pode moldar os seus processos da forma que melhor se adequa à sua empresa.'
